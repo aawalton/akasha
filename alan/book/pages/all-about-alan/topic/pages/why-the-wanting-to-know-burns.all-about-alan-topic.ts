@@ -9,4 +9,6 @@ export const whyTheWantingToKnowBurns = {
   parents: ["all-about-alan-topic/what-understanding-cannot-reach"],
   settled:
     "Asked why the wanting to know burns, I gave the mechanism flat: understanding something is not sufficient to make it safe, but it is absolutely necessary. All the progress I have made in my life has come through understanding.\n\nSo understanding is the precondition every gain of mine waits on, safety included. Safety is never made safe by understanding alone, and it cannot rise without it.\n\nIt was put to me in that session that understanding is not merely my best route to progress but my only one, because the channels other people grow through are closed to me. I said yeah, I think that is right.\n\nSo the fire under the hunger is that one valve carrying what several carry for most people.",
+  createdAt: "2026-09-21T21:52:48.281Z",
+  updatedAt: "2026-09-21T21:52:51.000Z",
 } as const satisfies AllAboutAlanTopic

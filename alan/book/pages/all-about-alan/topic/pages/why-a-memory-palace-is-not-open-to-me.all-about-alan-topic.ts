@@ -10,4 +10,6 @@ export const whyAMemoryPalaceIsNotOpenToMe = {
   related: ["all-about-alan-topic/what-i-cannot-play-forward"],
   settled:
     "A memory palace asks me to set what I want to keep at places in a space I picture, then walk the space to fetch it back.\n\nThere is no space, so there is no first step. It is not harder for me or weaker for me. It does not start.\n\nI tested it in the decade from ten to twenty that I spent working out how to learn.\n\nMost of the standard memory toolkit rests on picturing the same way, so it goes out whole rather than piece by piece.\n\nThat is what narrowed the search to techniques needing no picture. The cascade of triggers I memorise text with is what came out of the search.",
+  createdAt: "2026-09-21T20:00:28.731Z",
+  updatedAt: "2026-09-21T20:00:32.000Z",
 } as const satisfies AllAboutAlanTopic

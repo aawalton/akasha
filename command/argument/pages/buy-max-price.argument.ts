@@ -9,4 +9,6 @@ export const buyMaxPrice = {
     "the most gold a rule buying its shortfall pays for one of an item, where zero states none",
   value: "whole-number",
   placeholder: "gold",
+  createdAt: "2026-09-27T14:32:29.128Z",
+  updatedAt: "2026-09-27T14:32:48.000Z",
 } as const satisfies Argument

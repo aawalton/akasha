@@ -14,4 +14,6 @@ export const jensHighBarAndLowBar = {
   ],
   settled:
     "Jen's ideal expectations are high and her practical ones are low, and I am never sure which I will be getting.\n\nShe always starts with the high bar and then negotiates down.\n\nSo the low bar is not a second option beside the high one. I only reach it through a negotiation, and unless I pay that price I face the high bar by default.\n\nShe can negotiate herself down, but only when it is painful enough for her to be worth the cost of giving up what she wants.\n\nSo there are two roads down to the low bar, and neither is free. Negotiating sets off my criticism alarm. Waiting until the high bar hurts her enough goes through her distress, which sets off my alarm too.\n\nFor the ten-day trip I was about to leave on at the end of September 2026, she had implied the low bar at some times and the high bar at others.",
+  createdAt: "2026-09-28T19:39:17.661Z",
+  updatedAt: "2026-09-28T19:43:15.000Z",
 } as const satisfies AllAboutAlanTopic

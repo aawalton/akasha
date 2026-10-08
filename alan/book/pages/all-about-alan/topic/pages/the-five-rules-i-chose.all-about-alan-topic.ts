@@ -16,4 +16,6 @@ export const theFiveRulesIChose = {
   ],
   settled:
     "Five absolutes I adopted on purpose and live by, each with the protection it does the work of.\n\nIf I cannot afford to, I am not allowed to. That protects me from overextending on stress capacity.\n\nIf I do not want to, I am not allowed to. That protects me from overextending on executive function or physical energy.\n\nIf it would hurt me, I am not allowed to, even if it would help or avoid hurting others, even if those others are my future selves. That is my self-preservation rule, against my tendency to excessive self-sacrifice from having no sense of self.\n\nIf I cannot afford rejection, I cannot afford connection. That protects me from expanding socially too soon, when I cannot rely on my ability to understand and manage relationships.\n\nIf I cannot afford criticism, I cannot afford sharing creations. That protects me from exposing myself to criticism too soon, when I cannot separate criticism of me from criticism of what I made.\n\nThe list grew from four to five with the last one.",
+  createdAt: "2026-09-21T21:58:32.758Z",
+  updatedAt: "2026-09-21T21:58:56.000Z",
 } as const satisfies AllAboutAlanTopic

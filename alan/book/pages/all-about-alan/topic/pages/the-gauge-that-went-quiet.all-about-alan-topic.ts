@@ -13,4 +13,6 @@ export const theGaugeThatWentQuiet = {
   ],
   settled:
     "I have not been measuring my stress level for a few weeks, because the affordability rule has been enough.\n\nThat gauge is my most precise and longest-watched instrument, twenty years of it, and it has gone quiet.\n\nThe bottleneck did not vanish. The rule keeps me far enough from the limit that the needle does not move.\n\nSo the constraint put the instrument out of service. I run forward off the cost model now rather than sampling what actually happened against a gauge.",
+  createdAt: "2026-09-21T20:27:34.974Z",
+  updatedAt: "2026-09-21T20:28:13.000Z",
 } as const satisfies AllAboutAlanTopic

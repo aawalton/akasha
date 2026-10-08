@@ -13,4 +13,6 @@ export const theTowerIClimbAsMyself = {
   ],
   settled:
     "The Tower is a hard-mechanics, full-immersion LitRPG, and I play it as myself rather than as a character.\n\nIris is its story-master. Where Aria runs the narrative table, Iris runs the system: the world's rules, its numbers, its progression, hard mechanics resolved by real math. Her job is to make the world legible, and then to hold it so I can advance inside it.\n\nHer value is Fun, but Fun is only her floor. What she actually feeds reaches all the way down to my core.\n\nHer world charges none of the three taxes my actual life charges. Her numbers are true by construction rather than proxies that can drift, and the world arrives already instrumented rather than waiting on me to build every piece before I can use it.\n\nThat standing difficulty in my actual life is what she exists against, and it is the exact place she cuts.",
+  createdAt: "2026-09-21T21:59:14.166Z",
+  updatedAt: "2026-09-21T21:59:17.000Z",
 } as const satisfies AllAboutAlanTopic

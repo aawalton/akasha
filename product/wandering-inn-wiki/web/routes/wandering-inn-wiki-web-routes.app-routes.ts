@@ -19,4 +19,6 @@ export const wanderingInnWikiWebRoutes = {
     "route/innworld-page-listing",
     "route/innworld-no-such-page",
   ],
+  createdAt: "2026-09-21T21:41:43.649Z",
+  updatedAt: "2026-09-28T22:15:21.000Z",
 } as const satisfies AppRoutes

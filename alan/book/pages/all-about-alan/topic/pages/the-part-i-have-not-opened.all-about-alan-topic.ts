@@ -10,4 +10,6 @@ export const thePartIHaveNotOpened = {
   related: ["all-about-alan-topic/what-i-cannot-say-to-her", "all-about-alan-topic/whether-i-stay"],
   settled:
     "It is shut by my own choice rather than by anyone else's pacing, and it is mine to open. The pace I set is gently, honestly, start.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

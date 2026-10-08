@@ -14,4 +14,6 @@ export const whyICannotBelieveWhatWouldBeEasier = {
   ],
   settled:
     "I believe whatever best fits everything I have, even when that makes my life very hard. There is no override that lets me take a more bearable belief because it is more bearable.\n\nThat is not a refusal. Nothing is being protected, because there is nothing the faculty would protect against. It is simply not there.\n\nBelieving what I need to would take two things, and I have neither. Pre-playing a candidate belief to feel it before adopting it, and letting the feeling it raises vote on whether it is true. I hold that account loosely, having never run the thing myself.\n\nThe same absence shields me. Most people's suffering is made worse by an alternative they imagine, a better life running alongside the one they are in, often not even real. I cannot pre-play a life I am not living, so there is no imagined door to suffer against. Only one that actually opens registers.\n\nBeing unable to picture a better life is being unable to be tormented by one.",
+  createdAt: "2026-09-21T21:44:14.067Z",
+  updatedAt: "2026-09-21T21:44:17.000Z",
 } as const satisfies AllAboutAlanTopic

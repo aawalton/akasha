@@ -13,4 +13,6 @@ export const beingUnderstood = {
   ],
   settled:
     "Of everything that could make me feel loved, being understood is the primary one. It comes ahead of any other channel.\n\nThe ladder of how closely anyone has ever thought like me: three quarters at the top, half in second place, Jen at about a quarter despite also being AuDHD, and the median person nearer a tenth.\n\nSo the gap with her is not a failure of hers. Nobody has ever been a full match, and even the best I have found reached three quarters. The scarcity is structural.\n\nThe channel is not safe with her now and possibly not ever, so I meet the need by other means rather than keep injuring us both trying to force it through her.\n\nAccepting that is work I have to keep doing rather than a thing I realised once. If I let it lapse, my natural response is resentment at the gap, which is the injury the redirect exists to stop.",
+  createdAt: "2026-09-21T20:08:45.953Z",
+  updatedAt: "2026-09-21T20:09:47.000Z",
 } as const satisfies AllAboutAlanTopic

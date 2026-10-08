@@ -13,4 +13,6 @@ export const theMarriageLeverICannotRead = {
   ],
   settled:
     "The marriage lever has no working tracking at all. I know the lever has an impact.\n\nI hold a hypothesis that positive affordable social raises safety in its own right, perhaps as a reach of the marriage dimension, and perhaps even when the social is unaffordable, where the two forces pull opposite ways.",
+  createdAt: "2026-09-06T19:55:33.089Z",
+  updatedAt: "2026-09-21T23:23:57.000Z",
 } as const satisfies AllAboutAlanTopic

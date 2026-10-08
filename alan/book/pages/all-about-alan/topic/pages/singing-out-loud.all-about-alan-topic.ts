@@ -13,4 +13,6 @@ export const singingOutLoud = {
   ],
   settled:
     "Singing along to a warm woman's voice hands my own body the all-clear, with nobody else in the room.\n\nThe floor under it is feeling, not being heard. Below safety four what makes me sing is offline.\n\nI can still sing as work down there. Work does not need the feeling and play does.\n\nBeing seen is a separate charge on top. The gap between singing in the shower and singing on the street is that charge. Once, at six, I sang anonymously outdoors for hours: anonymity paid the being-seen charge by stripping any witness's power to attach the sound to me, where the female voice funds the feeling floor. Two levers on two costs.\n\nSo any expressive act costs three separate things: the feeling floor, the being-seen charge, and whatever is left over. If the first two cover singing whole, singing is gated and not wounded.\n\nJen criticised my voice once, three years in, and only someone I can neither escape nor deny could.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:40:24.000Z",
 } as const satisfies AllAboutAlanTopic

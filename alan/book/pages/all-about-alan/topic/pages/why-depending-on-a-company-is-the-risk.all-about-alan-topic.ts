@@ -14,4 +14,6 @@ export const whyDependingOnACompanyIsTheRisk = {
   ],
   settled:
     "The threat is not what a company sells me or what it charges me. It is the depending itself. Every ongoing relationship with a large organisation is an exposure I am carrying.\n\nUnder sustained profit pressure a service gets worse. That is the default path rather than the exception, and most of the larger threats I see come from there.\n\nCorporate capture has put government services on the same path. They used to sit outside the pressure and no longer reliably do, so the same test has to run on them.\n\nWhat I want is to live a good life without relying on any large organisation that has not earned that through consistent behaviour over years.\n\nNot needing a thing is not only a wall I keep between me and the world. Standing on my own is a state I reach toward and want for its own sake.",
+  createdAt: "2026-09-21T20:02:47.312Z",
+  updatedAt: "2026-09-21T20:03:27.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const whatTheAiDoesAroundTheHouse = {
   related: ["all-about-alan-topic/the-software-i-pay-for-every-month"],
   settled:
     "It is not only for building things. It lifts what I can do across everything the household runs into: cooking, medical questions, money, the car, repairs, the garden, textiles, negotiating.\n\nIf it went, nothing would stop outright. Each of those would fall back to what I am on my own, which in most of them is an amateur.\n\nThe fall is graceful and it is large.",
+  createdAt: "2026-09-21T20:20:15.755Z",
+  updatedAt: "2026-09-21T20:20:24.000Z",
 } as const satisfies AllAboutAlanTopic

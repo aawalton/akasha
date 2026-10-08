@@ -14,4 +14,6 @@ export const whatICannotPlayForward = {
   ],
   settled:
     "While I am awake I cannot pre-play anything I am not currently inside.\n\nNo pictures, no dread running ahead of a thing going wrong, no feeling carried along a remembered track.\n\nIt is not missing hardware. Asleep the whole thing runs at full power, senses and feeling and plot.\n\nDisgust shows where the gap is: a past taste I cannot recall still crinkles my face, at a fifth of the strength.\n\nWith no forward reading of a wall, I treat every limit as movable and walk until I hit it.\n\nSome things I cannot change, but until I try I will never know. That is the serenity prayer turned round: the wisdom to know the difference is exactly the part I am not handed in advance.\n\nSo assuming a limit is movable is not courage chosen over fear. It is the only instrument I have for asking whether a limit is real.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:06:37.000Z",
 } as const satisfies AllAboutAlanTopic

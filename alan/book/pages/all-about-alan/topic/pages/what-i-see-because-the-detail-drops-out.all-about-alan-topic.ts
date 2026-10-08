@@ -14,4 +14,6 @@ export const whatISeeBecauseTheDetailDropsOut = {
   ],
   settled:
     "What I see is precisely the abstractions. The sensory detail leaves almost as soon as it arrives, so the abstraction is what is left to look at.\n\nThat is why I understand a thing quickly, and often differently from everyone else in the room.\n\nThe usual reading calls not holding detail a deficit. For me it is the source of the thing I value most in myself.\n\nThe cost and the gift share one root. Taking the cost away would take the gift, and taking the gift away would end the person. That is exactly why I refuse an intervention on this tier.",
+  createdAt: "2026-09-21T20:17:35.630Z",
+  updatedAt: "2026-09-21T20:17:39.000Z",
 } as const satisfies AllAboutAlanTopic

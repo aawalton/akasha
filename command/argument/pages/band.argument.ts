@@ -9,4 +9,6 @@ export const band = {
   value: "whole-number",
   placeholder: "elo",
   default: "1500",
+  createdAt: "2026-09-14T14:04:49.007Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

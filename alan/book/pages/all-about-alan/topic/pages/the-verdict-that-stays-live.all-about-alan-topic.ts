@@ -14,4 +14,6 @@ export const theVerdictThatStaysLive = {
   ],
   settled:
     "One remark, once, from one person, ran for almost two decades. I began renegotiating it only a few months ago, and it is unfinished. Her judgment still lands as a safety threat for me today.\n\nA verdict installs as a permanent inside judge only from someone I can neither escape nor deny. Closeness is the inescapability: I cannot walk out on my wife or revoke her standing to have an opinion of me. She is the safety model at its purest.\n\nThe art-class verdict went cold. Hers is live, re-fed every time I show her something, by someone who loves ninety-nine percent of what I make and by her own wiring cannot help landing on the one.\n\nHer spoken words are the loudest channel I get and the least representative, so the verdict I act on is the inverse of the one she holds.\n\nHer attention finds the one seam. My nervous system reads a found seam as a verdict on survival. Two good-faith brains, and the shape of their overlap is my wound. The cruelty is in the geometry, not in either of us.",
+  createdAt: "2026-09-21T21:40:06.142Z",
+  updatedAt: "2026-09-21T21:40:09.000Z",
 } as const satisfies AllAboutAlanTopic

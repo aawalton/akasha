@@ -8,4 +8,6 @@ export const category = {
   takes: "the category of items the rule reaches",
   value: "text",
   placeholder: "id",
+  createdAt: "2026-09-12T08:29:52.658Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

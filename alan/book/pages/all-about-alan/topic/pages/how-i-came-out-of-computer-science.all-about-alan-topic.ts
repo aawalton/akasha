@@ -13,4 +13,6 @@ export const howICameOutOfComputerScience = {
   ],
   settled:
     "I was a programmer in one form or another professionally for eighteen years.\n\nI put computer science as my major on my college application, and then changed it the first day of school.\n\nI went through eleven different majors and ended on Math.\n\nI only took one CS course, and finished it in a week. The whole semester's work went through an automated checker, with no person's verdict in the loop, so no judge was ever installed on code. That is why code's judge stayed outside me for life.",
+  createdAt: "2026-08-28T09:52:18.275Z",
+  updatedAt: "2026-09-21T21:39:39.000Z",
 } as const satisfies AllAboutAlanTopic

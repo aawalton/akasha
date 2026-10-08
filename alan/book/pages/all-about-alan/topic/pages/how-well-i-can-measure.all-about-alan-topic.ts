@@ -9,4 +9,6 @@ export const howWellICanMeasure = {
   parents: ["all-about-alan-topic/resources"],
   settled:
     "The ladder has six rungs. Not knowing a resource exists, knowing it exists, telling enough from not enough, a stoplight read against my own distribution, numbered levels on an absolute scale, and a real number.\n\nThe thing underneath is continuous. A rung is where a change becomes something I can consciously tell apart, and I do not commit to whether that line is in my body or in my perception. What I track is how cleanly I can read it.\n\nTen years of minute-level energy accounting on myself is what carries my bars up to real numbers.\n\nAt the top of the ladder I can say exactly which resource is draining, how fast it goes, and what drains it.\n\nA bar climbs by being the bottleneck, and a real number costs years of being it. Health is the only bar that has paid those years. Safety sits at numbered levels after about a year as the bottleneck, which is where I would expect it. Mana and stamina are still at the stoplight.\n\nA bar I only read as a gate may never need a real number at all.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:26:15.000Z",
 } as const satisfies AllAboutAlanTopic

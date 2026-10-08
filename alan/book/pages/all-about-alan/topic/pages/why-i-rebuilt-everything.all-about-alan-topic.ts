@@ -15,4 +15,6 @@ export const whyIRebuiltEverything = {
   ],
   settled:
     "Opus 5 released about a month before the end of August 2026, much better at finding, following and writing instructions.\n\nMy three million lines of code and docs were just too much, and everything ground to a halt.\n\nEverything I have built since has been figuring out how to make the environment clean and consistent, with the right context available for the agent at the right time.\n\nAll three of those matter. None of them carries it alone.\n\nI have got rid of about a million lines so far.",
+  createdAt: "2026-08-28T01:56:28.893Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

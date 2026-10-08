@@ -13,4 +13,6 @@ export const theProgressIGetToKeep = {
   ],
   settled:
     "Permanent means account, character and companion state, which cannot be taken back.\n\nSix tiers run down from that to combat power, crafting, economic power, time efficiency and appearance. Items only carry progress and are never progress. Permanent progress always beats gold.\n\nThe hierarchy is settled and not to be re-opened.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

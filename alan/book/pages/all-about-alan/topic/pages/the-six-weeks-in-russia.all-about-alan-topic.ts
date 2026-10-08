@@ -10,4 +10,6 @@ export const theSixWeeksInRussia = {
   related: ["all-about-alan-topic/why-a-threat-stays-fresh"],
   settled:
     "In my first six weeks there, about twenty years old and still fighting the language, a drunk held me at knifepoint for an hour, I was punched on a subway car, and I was chased through the streets at night.\n\nI say those flatly. That is how they sit in me.\n\nWhat matters about that window is what else was in it. The people who turned me away and the people who might kill me were the same class of thing. Strangers, unreadable, possibly lethal.\n\nSo my body welding being turned away to being in bodily danger was correct learning rather than a misfire. In that place the two really were one category.",
+  createdAt: "2026-09-21T20:21:12.765Z",
+  updatedAt: "2026-09-21T20:21:39.000Z",
 } as const satisfies AllAboutAlanTopic

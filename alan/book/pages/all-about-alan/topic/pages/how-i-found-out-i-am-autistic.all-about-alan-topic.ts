@@ -13,4 +13,6 @@ export const howIFoundOutIAmAutistic = {
   ],
   settled:
     "I worked it out at thirty-eight, and by then it had shaped my whole life. Looking back, the signs are clear from early childhood.\n\nI did not count it as disabling until I was twenty.\n\nFor the eighteen years after that I called it my stress disorder. I knew my nervous system did not work like the ones around me, and I did not know why.\n\nIt is my own diagnosis. I have no clinical one.",
+  createdAt: "2026-09-21T20:06:29.419Z",
+  updatedAt: "2026-09-21T20:07:05.000Z",
 } as const satisfies AllAboutAlanTopic

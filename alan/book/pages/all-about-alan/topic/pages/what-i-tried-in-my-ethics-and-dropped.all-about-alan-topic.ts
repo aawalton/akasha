@@ -10,4 +10,6 @@ export const whatITriedInMyEthicsAndDropped = {
   related: ["all-about-alan-topic/how-i-price-a-harm-spread-over-many"],
   settled:
     "I tried defining the consent divisor from how many people should be involved, and from how much of each agent's value was at stake, and abandoned both. Under a perfect oracle they are circular: its expected values are equilibrium quantities already shaped by the consent machinery, so any stake measure sits downstream of the function it would feed. What survived reads only realised agency shares, which are structural.\n\nI declined a credit for benevolence. A bonus for the act of helping would value the gesture over the outcome. Helping is encouraged because it produces value, not because helping is scored.\n\nI dropped the worries about path dependence. The harm to a person is one cooperative game over every causally prior agent, attributed once, and never a sum of separate per-action magnitudes. Different attributions in differently ordered worlds correctly report that the agents did different things.",
+  createdAt: "2026-09-21T20:23:34.838Z",
+  updatedAt: "2026-09-21T20:24:02.000Z",
 } as const satisfies AllAboutAlanTopic

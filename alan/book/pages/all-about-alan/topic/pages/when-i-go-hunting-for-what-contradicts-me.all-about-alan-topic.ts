@@ -14,4 +14,6 @@ export const whenIGoHuntingForWhatContradictsMe = {
   ],
   settled:
     "I do not actively police most of what I believe. By default I rely on my obsessively wide intake to drag the disconfirming data in front of any false but locally compact belief on its own. I do not go looking; I trust that breadth will route the contradiction to me in time.\n\nThe active mode is going out to find data that contradicts a belief, and I run it only for a belief I have flagged as doing me harm.\n\nA belief gets that flag on either of two triggers. The first is a life cost: it is recognisably making my life worse, like a belief that some social situation is unsurvivable that keeps costing me things I could in fact do. The cost shows up in the same accounting that tracks every other drain on me.\n\nThe second is inconsistency with something I hold more strongly. That is the same flaw-salience that grips me at the level of a data point, running one level up at the level of a belief.",
+  createdAt: "2026-09-21T21:39:19.044Z",
+  updatedAt: "2026-09-21T21:39:56.000Z",
 } as const satisfies AllAboutAlanTopic

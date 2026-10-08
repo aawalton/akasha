@@ -10,4 +10,6 @@ export const whatIUseInsteadOfAClock = {
   related: ["all-about-alan-topic/living-with-jen"],
   settled:
     "Watching the clock is its own way of making urgency, so I dropped it. Three things carry what it was doing.\n\nMy own quiet readings of what I have left. State picks what I do next, rather than the hour.\n\nThe sun and my body. Meals and sleep mark where the day begins and ends, and the middle of it comes off my energy rather than off a number.\n\nAnything shared routes through Jen. She carries the clock side of an appointment or a joint plan, and what reaches me is now we are doing this, not it is three so we should be.\n\nThe time is there in the world. My attention does not have to land on it.",
+  createdAt: "2026-09-21T20:07:52.422Z",
+  updatedAt: "2026-09-21T20:08:09.000Z",
 } as const satisfies AllAboutAlanTopic

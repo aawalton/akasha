@@ -9,4 +9,6 @@ export const howCriticalADependencyIs = {
   parents: ["all-about-alan-topic/which-dependency-i-deal-with-first"],
   settled:
     "Life-critical means losing it threatens my physical safety, my ability to earn, or my ability to keep living in this house. Utilities, healthcare for anything active, my income.\n\nHigh means weeks to months of work to recover. Banking, my main transport, my main communications.\n\nMedium means real disruption I could work through in a few weeks. Secondary services, recurring purchases I lean on but could replace.\n\nLow means inconvenience. A subscription I would miss and could live without.\n\nThe score is on the category rather than on whoever provides it. It measures how much I need the thing, not how much I need them.",
+  createdAt: "2026-09-21T20:04:58.509Z",
+  updatedAt: "2026-09-21T20:05:10.000Z",
 } as const satisfies AllAboutAlanTopic

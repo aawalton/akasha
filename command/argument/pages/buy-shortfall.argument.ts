@@ -8,4 +8,6 @@ export const buyShortfall = {
   takes:
     "whether a stocking rule buys at a merchant or guild store what it holds short of its target",
   value: "true-or-false",
+  createdAt: "2026-09-27T13:30:10.804Z",
+  updatedAt: "2026-09-27T14:46:04.000Z",
 } as const satisfies Argument

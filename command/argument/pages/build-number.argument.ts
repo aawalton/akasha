@@ -8,4 +8,6 @@ export const buildNumber = {
   takes: "the number App Store Connect gave the build",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-12T08:42:28.108Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

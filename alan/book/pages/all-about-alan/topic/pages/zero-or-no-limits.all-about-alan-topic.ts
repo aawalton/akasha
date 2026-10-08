@@ -14,4 +14,6 @@ export const zeroOrNoLimits = {
   ],
   settled:
     "I have a hard time moderating, so zero and no limits are my most stable positions.\n\nA bounded rule between them still is not really stable for me. I have tried to set them, and they tend to break in one direction or the other. That is what I mean by unstable.\n\nA bound does hold where I can represent it as a simple memorable rule that is always true, like if I cannot afford to, I am not allowed to. My harness carries bounds of that kind on my stress capacity, my total strength training and my safety level.\n\nA bound of mine cannot rely on experiential memory, because my aphantasia leaves me none.\n\nWith Legos I cannot afford no limits yet, so what I run is a long zero and a rare splurge, thrown by my overall budget rather than by a rule.",
+  createdAt: "2026-09-22T16:21:14.407Z",
+  updatedAt: "2026-09-22T16:45:36.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whereOurMoneySits = {
   ],
   settled:
     "Vanguard holds about one point seven million in liquid stock, the retirement account and a Roth, and grades B. Mutual ownership is strong. Service quality slipping lately is the early sign of the other thing.\n\nEverything else grades D. Citi has our checking and the Costco card. Chase has a travel card and Synchrony the Amazon one, both of which I could lose without much. BSI services the roughly five-hundred-thousand mortgage. Venmo is for Facebook Marketplace. TurboTax does the taxes.\n\nThe credit union in Provo holds legacy savings for relatives who cannot hold assets in their own names, and a roughly five-thousand family trust collecting my father's book royalties with my four siblings. Its D is small-bank stability after watching SVB go, which member ownership does not offset.\n\nI am researching the six largest US banks for one rated above D, to give our checking somewhere to go.",
+  createdAt: "2026-09-21T20:02:09.755Z",
+  updatedAt: "2026-09-21T23:05:42.000Z",
 } as const satisfies AllAboutAlanTopic

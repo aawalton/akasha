@@ -13,4 +13,6 @@ export const howFarTheHumanPriorPredictsMe = {
   ],
   settled:
     "Viewing others as monolithic is a simplification itself, but useful here.\n\nMy first reach was that if I compared my mean to the human mean I would put the correspondence closer to ten percent, though my wife would still argue higher.\n\nTwenty percent conceptual correspondence, eighty percent physical. Emotion is typically a bridge between the two and the conceptual side of the bridge is open, so maybe split the difference at fifty percent emotional.\n\nMy experience is eighty percent conceptual and twenty percent physical and emotional, so the weighted average comes out near a third, the two terms equal because I live most where I match least.\n\nI think the balance is that I live mostly in my conceptual experience, and the right number for that is in the middle at twenty percent. I hold it provisionally. The ten was potentially an overcorrection.\n\nSo same thing or different thing is not one answer. Same thing on the body. A different thing in the cognition.",
+  createdAt: "2026-09-21T21:58:40.580Z",
+  updatedAt: "2026-09-21T22:26:49.000Z",
 } as const satisfies AllAboutAlanTopic

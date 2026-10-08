@@ -8,4 +8,6 @@ export const whatIHaveStoppedTreatingAsCompulsory = {
   definition: "moving something out of the things I have no choice about, and what else could move",
   parents: ["all-about-alan-topic/what-i-let-myself-take-on"],
   settled: "A church calling is the one I have actually moved.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

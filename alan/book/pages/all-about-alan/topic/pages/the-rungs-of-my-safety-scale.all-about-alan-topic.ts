@@ -14,4 +14,6 @@ export const theRungsOfMySafetyScale = {
   ],
   settled:
     "Each whole number is a rung with an anchor on it, and half steps interpolate between them.\n\nZero is tolerating existing. One is being able to rest: reading fiction, watching shows, playing games. Two is being able to be productive: programming, projects, chores. Three is being able to feel happiness: being social, nature, food, music, anything aesthetic. Four is being able to be vulnerable: conflict, singing, dancing, being perceived. Five is being able to be outgoing: starting conversations, paying active attention to someone, caring about them.\n\nThe ladder is not a measure of how much incoming stress I can take. Each rung pushes my output one step further from the floor. Tolerate, absorb, produce, enjoy, expose, extend.\n\nHandling someone else's distress without flooding comes in around five. Below that rung I bridge it with trained scripts, which carry the caring behaviour without needing the margin.",
+  createdAt: "2026-09-21T20:04:20.923Z",
+  updatedAt: "2026-09-21T20:04:54.000Z",
 } as const satisfies AllAboutAlanTopic

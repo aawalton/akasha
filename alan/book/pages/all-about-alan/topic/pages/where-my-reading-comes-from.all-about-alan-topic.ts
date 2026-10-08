@@ -13,4 +13,6 @@ export const whereMyReadingComesFrom = {
   ],
   settled:
     "Kindle is where my ebooks come from, at D. Audible does the audiobooks, at D. Amazon owns both.\n\nGoogle Search is my default, at D. Ads sit above the results now, the generated summaries push publishers down the page, and anything that is not commercial comes back worse than it used to.\n\nInstagram is at D. I use it for the occasional bit of ambient news and to see what my own people are doing, never as a source. I could drop it without losing much.\n\nRoyal Road is at B, free to read, where the serialised web fiction is.\n\nSubstack is at B, where the independent writers I read publish.\n\nThat is the whole of it. No newspaper, no news app, no podcasts, no Reddit, no HackerNews, no Mastodon, no X, and no Discord for information.",
+  createdAt: "2026-09-21T20:24:46.252Z",
+  updatedAt: "2026-09-21T20:25:36.000Z",
 } as const satisfies AllAboutAlanTopic

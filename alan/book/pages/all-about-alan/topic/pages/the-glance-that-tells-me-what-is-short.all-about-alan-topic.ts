@@ -9,4 +9,6 @@ export const theGlanceThatTellsMeWhatIsShort = {
   parents: ["all-about-alan-topic/the-score-i-keep-on-myself"],
   settled:
     "Concretely: I glance at the panel. Faith is green, Health is yellow, the others sit where they sit.\n\nThe yellow is the cue. Health has not had enough today.\n\nI did not have to remember that. The light remembered it for me, and it hands me a little motivation to go and do something about it.\n\nOff the rows I can name three. Abby carries Faith. Amy carries Health, as the layer that keeps my day flowing. Ali carries Learn.",
+  createdAt: "2026-09-21T22:07:29.816Z",
+  updatedAt: "2026-09-21T22:07:33.000Z",
 } as const satisfies AllAboutAlanTopic

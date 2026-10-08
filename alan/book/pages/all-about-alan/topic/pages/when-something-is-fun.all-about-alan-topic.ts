@@ -13,4 +13,6 @@ export const whenSomethingIsFun = {
   ],
   settled:
     "Fun is doing a thing as the thing. A use it also has is fine; doing it for that use kills it.\n\nI hold one thing at a time, so a purpose I am doing it for takes the room the activity needed.\n\nIt comes in two stages: full focus, which I get even at the bottom, and enjoyment on top, which needs safety at three.\n\nTwenty years ran on the first alone. It mostly served instead as distraction with occasional highlights. Twelve thousand hours in one game is what that was.\n\nThe room never sits empty. If I do not fill it on purpose the loudest thing fills it for me, and in the dark years that was the load. So the focus is not recreation, it is keeping the pain out of the only room I have, and the relief is by eviction rather than by yield.\n\nBeing made to do a thing rules fun out, but being free to choose does not rule it in. Learning to enable a piece of work is not fun; learning for its own sake is.\n\nI cannot set which way it points. I read why I started, rather than setting it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:03:36.000Z",
 } as const satisfies AllAboutAlanTopic

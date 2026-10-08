@@ -10,4 +10,6 @@ export const staminaBar = {
   related: ["all-about-alan-topic/mana-bar"],
   settled:
     "Stamina is my physical energy bar: the energy in my body that movement and physical effort run on.\n\nI read it as a stoplight, off which way I am pulled about moving. Green is wanting to move. Yellow is neither wanting to move nor wanting to not move. Red is wanting to not move.\n\nRed is not the absence of wanting to move. It is a positive wanting to be still. What the bar divides on is the direction of the pull, not how strong it is.\n",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:09:20.000Z",
 } as const satisfies AllAboutAlanTopic

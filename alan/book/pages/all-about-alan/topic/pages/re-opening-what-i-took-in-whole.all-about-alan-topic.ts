@@ -13,4 +13,6 @@ export const reOpeningWhatITookInWhole = {
   ],
   settled:
     "My rigidity lets an idea in whole and unexamined, so I learned to go back over ones already in me.\n\nThe gate is evidence, never motive. I cannot hold a belief because it suits me.\n\nThat is what made granting myself an accommodation honest. A false I-cannot would not survive what I can plainly do.\n\nThe block was internal. Whether anyone else could see the disability had no bearing on whether it was real.\n\nI run the same move on my faith, discounting myself for having been raised inside it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

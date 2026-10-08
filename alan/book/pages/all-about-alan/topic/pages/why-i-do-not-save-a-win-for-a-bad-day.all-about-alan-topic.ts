@@ -13,4 +13,6 @@ export const whyIDoNotSaveAWinForABadDay = {
   ],
   settled:
     "A project going well raises my safety directly, through evidence I can check rather than through anything felt.\n\nThe lift happens in the moment the win lands and does not carry over, so there is no surplus waiting to be drawn on later.\n\nHolding a win back for a low stretch therefore trades a cost I pay now for a benefit on a timeline I cannot see.\n\nWhat pays instead is raising the odds of a win in any moment at all: tooling, understanding, the layers underneath.",
+  createdAt: "2026-09-21T20:04:26.929Z",
+  updatedAt: "2026-09-21T20:04:30.000Z",
 } as const satisfies AllAboutAlanTopic

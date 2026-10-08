@@ -14,4 +14,6 @@ export const whyTransferComesFree = {
   ],
   settled:
     "Everything that would have gone on sensory or emotional memory and imagination has been repurposed for conceptual memory and imagination, and that side works.\n\nSo I take in abstract concepts very easily, and a model moves between domains on its own: specifics to abstraction to somewhere else. I learn conceptual material faster than most, and in college I tutored classes I was taking at the time.\n\nThe advantage falls out of the deficit rather than sitting beside it. I cannot keep the particular, so to encode a solution at all I have to generalise it. The generalised form is the only thing that survives.\n\nOnce it is encoded I already hold the abstraction, so there is nothing extra to do to make it carry. Transfer is free because the abstraction was the only thing ever stored.\n\nThat is why I reach for a conceptual bridge where other people would use memory or imagination.",
+  createdAt: "2026-09-21T21:42:17.302Z",
+  updatedAt: "2026-09-21T21:42:21.000Z",
 } as const satisfies AllAboutAlanTopic

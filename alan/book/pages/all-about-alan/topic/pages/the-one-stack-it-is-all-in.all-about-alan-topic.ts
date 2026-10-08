@@ -13,4 +13,6 @@ export const theOneStackItIsAllIn = {
   ],
   settled:
     "The liquid money carries three concentrations at once, and each of them is a dependency I have to grade on its own.\n\nOne institution holds all of it.\n\nOne fund vehicle holds all of it inside that institution.\n\nAnd one asset class, international equity return, is where every dollar of expected return comes from.\n\nThe third is the one that makes the other two worse. A shock correlated across markets reaches all three layers in the same moment, so they do not offset each other at all.\n\nThis is the largest single financial dependency I have, and whatever I do about it has to be sized to that.",
+  createdAt: "2026-09-21T20:19:48.319Z",
+  updatedAt: "2026-09-21T20:20:08.000Z",
 } as const satisfies AllAboutAlanTopic

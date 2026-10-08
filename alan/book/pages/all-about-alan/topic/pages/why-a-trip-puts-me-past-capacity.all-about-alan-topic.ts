@@ -13,4 +13,6 @@ export const whyATripPutsMePastCapacity = {
   ],
   settled:
     "Every trip in the past ten years has been far over the edge of my capacity, so much so that I was consistently physically ill by the end of it, just from the disruption to my habits and the stress.\n\nThe chain runs the same way each time. Travel breaks my habit structure. The disruption plus the stress of travelling overloads the system that carries my load. The overload comes out as illness by the end of the trip.\n\nTravel is scary.\n\nThe sixteen days in Europe were different in one way. For the first time in that record a trip landed right at the edge rather than far past it. I am healthier now than I have been in ten years, and the capacity itself has grown, so the same disruption no longer overloads it.\n\nThe gain shows in how close to the edge the trip lands, not in what I expect going in. Being overwhelmed is still my base case.",
+  createdAt: "2026-09-21T21:45:17.443Z",
+  updatedAt: "2026-09-21T21:45:20.000Z",
 } as const satisfies AllAboutAlanTopic

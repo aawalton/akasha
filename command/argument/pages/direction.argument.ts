@@ -8,4 +8,6 @@ export const direction = {
   takes: "whether the fresh frames land after the clip's end or before its start",
   value: "text",
   placeholder: "forward|back",
+  createdAt: "2026-09-12T08:54:13.779Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

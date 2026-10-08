@@ -9,4 +9,6 @@ export const whatADActuallyCostsMe = {
   parents: ["all-about-alan-topic/how-i-grade-an-organisation"],
   settled:
     "The company that does my taxes has lobbied for years to keep the tax office from filing for me free, and has a record of dark patterns. That is a clear D.\n\nStaying costs me under a hundred a year and about half an hour. Leaving would cost the same or more.\n\nSo nothing has to happen. The grade is the record of a concern I am knowingly carrying, and that is the whole job of a D.",
+  createdAt: "2026-09-21T20:03:29.455Z",
+  updatedAt: "2026-09-21T20:03:57.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const theDayIPutANumberOnSound = {
   ],
   settled:
     "Sound lands about five times louder on me than on most people. That is my estimate.\n\nI put a number on what it cost at thirty-eight, when I first realised I was autistic. Early in adopting the AirPods, I compared my cost on days with them against my cost on comparable days before them, on the capacity tracking I already kept. Ambient sound with no ear protection came to about half my total daily nervous-system cost.\n\nThat figure no longer holds. The cost is still detectable now and then, and it is rare.",
+  createdAt: "2026-09-21T21:47:24.344Z",
+  updatedAt: "2026-09-21T21:47:27.000Z",
 } as const satisfies AllAboutAlanTopic

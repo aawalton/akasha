@@ -9,4 +9,6 @@ export const howTheBarsPullOnEachOther = {
   parents: ["all-about-alan-topic/resources"],
   settled:
     "Being low on one lowers the ceiling on another rather than only spending it.\n\nLow health pulls down both my mana ceiling and my stamina ceiling directly.\n\nSafety changes what my senses cost. The same input costs less capacity when I am safer. Before ear protection, ambient sound was about half my whole daily nervous-system cost, and on the same input today it is a rare residual. Light probably works the same way, though I have not measured that side.\n\nMana changes how much touch I can take. My swap to loose clothes fires on low-mana days rather than off my safety reading, so the path from energy to sensory tolerance is wider than safety alone.\n\nThe health coupling works against itself. The bath and exercise pay health back but cost mana and stamina, so health can be too low to recover health.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:06:01.000Z",
 } as const satisfies AllAboutAlanTopic

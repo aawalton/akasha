@@ -9,4 +9,6 @@ export const whatICallTheTwoNights = {
   parents: ["all-about-alan-topic/the-two-nights-we-keep"],
   settled:
     'The canonical terms are Alan-focused and Jen-focused. The hard one is the Alan-focused night and the beautiful one is the Jen-focused night.\n\nI set those mid-session, correcting my own earlier usage. In my words: "Use Alan-focused instead of me-focused for the canonical term for the date night."\n\nMe-focused is what I called it before that correction, so it survives inside quotations from before then and inside anything already written off those.',
+  createdAt: "2026-09-21T22:05:01.848Z",
+  updatedAt: "2026-09-21T22:05:04.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const whenIStopReadingAGauge = {
   related: ["all-about-alan-topic/what-an-activity-costs-me"],
   settled:
     "My stress level is the most mature reading I have, twenty years old and on a real number, and I have not been reading it for weeks.\n\nMy rule about what I can afford has been enough on its own.\n\nThe bottleneck did not go away. The rule keeps me far enough off the limit that the needle does not move, so sampling it adds nothing.\n\nWhat changed is the direction. I was reading the real stress against the gauge. Now I trust the cost model and the cap and do not look.\n\nThis is not the bar slipping down the ladder. The anchors are intact and the resolution is the same. The gauge is simply not being read, because something cheaper is holding the line in its place.",
+  createdAt: "2026-09-21T20:26:41.986Z",
+  updatedAt: "2026-09-21T20:27:08.000Z",
 } as const satisfies AllAboutAlanTopic

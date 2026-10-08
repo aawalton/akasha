@@ -8,4 +8,6 @@ export const character = {
   takes: "a character present in the turn, named by its address",
   value: "text",
   placeholder: "address",
+  createdAt: "2026-09-26T17:36:45.585Z",
+  updatedAt: "2026-09-26T17:36:57.000Z",
 } as const satisfies Argument

@@ -14,4 +14,6 @@ export const howStaleMyReadOnARelationshipGets = {
   ],
   settled:
     "I have no clear read on how close a relationship sits to the line where it collapses for good, and I do not think my current tools can give me one.\n\nThe best I have is an occasional open conversation with Jen. Whatever she told me last I hold as true until I learn otherwise.\n\nThe error bars widen as time passes, and the centre stays where she last set it. Ordinary contact tightens them somewhat between the deep check-ins.\n\nThe reading says too close to that line, so I am doing more than I had been. That is the gauge doing its job.\n\nJen is largely the only relationship I actively tend. Every other one has gone reactive-only, and none has come back to active tending.\n\nShe is also the instrument I read every other relationship through, so the whole measurement runs on one channel.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:15:07.000Z",
 } as const satisfies AllAboutAlanTopic

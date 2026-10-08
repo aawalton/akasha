@@ -14,4 +14,6 @@ export const theAnxietyThatRunsBothWays = {
   ],
   settled:
     "Underneath the money conversation and a good deal else sits an anxiety that runs both ways. She worries I am not taking her interests into account, and I worry she is not taking mine. I hold both as fair.\n\nHers is fair because two faults stack on my side. With no simulator and no memory, her interests are not available to me before the conversation that produces them. And reduced metacognition holds me to one focus at a time, so whichever of us I am on, the other is out of the room.\n\nThe second bites hardest where I have a case to make, because making my case is exactly the state in which hers is unheld.\n\nMine is fair because her simulation of me is built out of herself and out of most people, and I am unlike both, so it comes back wrong often.\n\nThe map I want next is the psychology under her jealousy, which feels excessive to me. That names where my understanding is missing rather than a verdict on her.",
+  createdAt: "2026-09-21T20:26:10.955Z",
+  updatedAt: "2026-09-21T20:26:13.000Z",
 } as const satisfies AllAboutAlanTopic

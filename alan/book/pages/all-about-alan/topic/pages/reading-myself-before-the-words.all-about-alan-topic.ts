@@ -9,4 +9,6 @@ export const readingMyselfBeforeTheWords = {
   parents: ["all-about-alan-topic/how-i-know-things"],
   settled:
     "A hunch points a direction with low accuracy. Dissatisfaction pushes, where dislike just sits there flat.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

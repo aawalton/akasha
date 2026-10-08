@@ -8,4 +8,6 @@ export const conditions = {
   takes: "the conditions narrowing which items the rule reaches",
   value: "text",
   placeholder: "json",
+  createdAt: "2026-09-12T08:30:29.614Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

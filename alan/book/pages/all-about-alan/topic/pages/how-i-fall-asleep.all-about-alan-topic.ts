@@ -9,4 +9,6 @@ export const howIFallAsleep = {
   parents: ["all-about-alan-topic/sleep"],
   settled:
     "It is either about ten minutes or about three hours, with nothing in between.\n\nStress explains something like sixty per cent of which one I get. The better predictor is what I have left. A high health bar and a day that spent little capacity gives me the ten minutes. Either of those low gives me the one to three hours.\n\nResource state and the attentional knob are the two I have clearly identified. There are others I have not pinned down.\n\nThe usual sleep-hygiene levers do not move it. Screens, dim lights, a fixed schedule, a cool room, no caffeine after noon. None of them.\n\nI ride a low-grade focal anchor, a count or a book, until it gives out. The breakdown is the reading that diffuse mode has arrived.\n\nI always want to sleep. The only question is whether I succeed in falling asleep when I want to.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:21:00.000Z",
 } as const satisfies AllAboutAlanTopic

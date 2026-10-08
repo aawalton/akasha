@@ -8,4 +8,6 @@ export const at = {
   takes: "the wall time the act is made at",
   value: "text",
   placeholder: "time",
+  createdAt: "2026-09-12T08:18:59.326Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -14,4 +14,6 @@ export const theTwoPillarsThatHeldMeHigh = {
   ],
   settled:
     "Two things made the difference between then and now. I had autonomy, and my nervous system was undamaged.\n\nEverything was self-chosen then, and that is what held my safety high.\n\nI started noticing the nervous system damage right before I turned twenty, on the mission. That is the window where the second pillar broke, and the compounding decline ran from there for eighteen years.\n\nThe mission took the first pillar as well. Structure replaced self-direction.\n\nBoth fell in the same era, which is why the cheap world I had been reading did not survive it.",
+  createdAt: "2026-09-21T20:11:41.640Z",
+  updatedAt: "2026-09-21T20:11:45.000Z",
 } as const satisfies AllAboutAlanTopic

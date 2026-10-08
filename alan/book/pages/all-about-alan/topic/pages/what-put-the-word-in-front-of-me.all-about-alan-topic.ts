@@ -9,4 +9,6 @@ export const whatPutTheWordInFrontOfMe = {
   parents: ["all-about-alan-topic/how-i-found-out-i-am-autistic"],
   settled:
     "My son went into autistic burnout before I did, which is the usual order for my generation. He was identified as autistic, and I recognised the pattern in myself afterwards.\n\nThe rest came through Instagram Reels. The algorithm worked out that I was interested in my own symptoms and started serving me autistic people talking about theirs.\n\nThere was no moment where it landed. It accumulated across a great many posts.",
+  createdAt: "2026-09-21T20:07:12.854Z",
+  updatedAt: "2026-09-21T20:08:55.000Z",
 } as const satisfies AllAboutAlanTopic

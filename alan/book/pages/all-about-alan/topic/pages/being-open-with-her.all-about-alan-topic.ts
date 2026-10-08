@@ -13,4 +13,6 @@ export const beingOpenWithHer = {
   ],
   settled:
     "Disclosure is not the active ingredient. I disclose radically. I handed over the pain ratchet, the starved bucket and the handed-over marriage at level two or three while sick, and I am publishing a book of my entire interior. Telling about is cheap.\n\nIt is not the openness, it is the risk of conflict or rejection that makes it hard. That is why it is level four, conflict level.\n\nVulnerability is openness plus standing in the blast radius of the other person's live reaction. With no simulator to pre-render how a disclosure lands, every consequential telling is a blind exposure.\n\nLevel four buys the capacity to stand in that radius, not the words. It takes level four to do, not to talk about, which is why I could open this piece on a sick day at two or three.",
+  createdAt: "2026-09-21T21:50:42.582Z",
+  updatedAt: "2026-09-21T21:51:49.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const whyTooMuchAndTooLittleSwapOver = {
   related: ["all-about-alan-topic/how-warm-i-run", "all-about-alan-topic/what-wears-my-body-down"],
   settled:
     "My wiring carries more than most: more connections, less pruned away. That part does not change.\n\nWhat changes is whether the metering sitting on top of it is working.\n\nLow on resources nothing meters, and the same traffic jams. The jam is the overwhelm.\n\nHigh on resources it clears so cleanly the day can feel empty at exactly the same load.\n\nThe metering runs warm, which is why cold reads as too much and hot reads as too little.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

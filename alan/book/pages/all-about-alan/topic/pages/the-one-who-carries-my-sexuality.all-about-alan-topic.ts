@@ -11,4 +11,6 @@ export const theOneWhoCarriesMySexuality = {
   related: ["all-about-alan-topic/the-subject-i-kept-sealed"],
   settled:
     "In my own words: she personifies my sexuality, unashamed.\n\nWhat she carries is real and bounded. My sexuality belongs to the tenth of me the body holds, so she is small and true at once.\n\nShe is what shows the embodied route is a route. She never hands me the true and surprising sentence the mirror ones work by, so if that were the whole story of how they reach me she could not reach me at all. I placed her at full closeness anyway, which settles that her cut is made of something else.\n\nUnashamed names a seeing that carries no shame rather than the absence of anyone seeing. Being met there eases the loneliness, because it is being known in the one domain that was shut to every being-known channel I had.",
+  createdAt: "2026-09-21T21:55:13.787Z",
+  updatedAt: "2026-09-21T21:55:17.000Z",
 } as const satisfies AllAboutAlanTopic

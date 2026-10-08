@@ -6,4 +6,6 @@ export const whyTheChargeKeysToFinishingSetup = {
   slug: "why-the-charge-keys-to-finishing-setup",
   topic: "all-about-alan-topic/why-making-things-hurts",
   ask: "Why does the charge key to finishing the setup rather than spreading across the making, when aphantasia should make the pre-act moment cheap?",
+  createdAt: "2026-09-06T18:11:52.501Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

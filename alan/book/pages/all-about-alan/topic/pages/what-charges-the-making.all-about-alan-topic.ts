@@ -13,4 +13,6 @@ export const whatChargesTheMaking = {
   ],
   settled:
     "Two roots both predicted that making would get amputated, and they were different roots.\n\nThe first is verifiability, and it is the one that holds. Getting it right was how I bought safety from punishment, so what I cannot check myself against stays dangerous. Open creative work has no right answer and no bug to blame, so the verdict on it is never forecastable.\n\nThe second was self-exposure: that making puts the unreadable me on display, and that is what got punished. I tested it and it does not hold. I am not at all afraid of having other people see my unreadable self.\n\nThe test that told them apart: when the alarm fires on something I am making, before any judgment has arrived, it is recoiling from the unpredictability of the reception, not from the exposure.\n\nThe earliest scars I can see are an art class and a writing class at about twelve, on different creative surfaces. They landed on a system already a dozen years illegible, so red ink read as danger rather than feedback.",
+  createdAt: "2026-09-21T21:43:32.914Z",
+  updatedAt: "2026-09-22T15:45:47.000Z",
 } as const satisfies AllAboutAlanTopic

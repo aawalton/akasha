@@ -13,4 +13,6 @@ export const theHotBath = {
   ],
   settled:
     "Thirty minutes to three hours. Thirty is the usual, and the multi-hour ones are for purging a high-stress day.\n\nA hundred and six to a hundred and eight degrees. A long one needs the water cycled and topped up to hold that. Closing the shower makes the room more of a sauna, and I rarely remember it is an option.\n\nIt is not on a schedule. It fires when the conditions are there, high stress and enough mana, and not otherwise. Three to five a week at the moment. Through 2025 it fired most days, because high stress was the norm in the recovery year, so almost daily was an average rather than a rule.\n\nIt ends one of two ways, whichever comes first: it has done its job, or my mana has hit bottom. The bath spends mana itself, so the second can end it whether or not the health came back.\n\nIt clusters in the afternoon and evening only because a morning rarely piles up enough stress to call for one.\n\nOne that lands in the evening tends to ease my falling asleep, as a side effect.",
+  createdAt: "2026-09-21T20:28:27.374Z",
+  updatedAt: "2026-09-21T21:47:15.000Z",
 } as const satisfies AllAboutAlanTopic

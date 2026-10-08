@@ -13,4 +13,6 @@ export const whyAThreatStaysFresh = {
   ],
   settled:
     "Learning a skill and encoding a threat run on the same dial. High activation encodes it hard, and the sign decides which of the two I get.\n\nIt does form and it does fade. Exposure works on me the way it works on anyone.\n\nWhat is missing is the rehearsal in between. Other people replay it and the replaying wears it down where they are safe. I have no episode to replay, so only meeting the thing again does that work.\n\nFor most people the replaying is the problem. For me its absence is.\n\nThe dial has a good argument behind it. Where danger was literal, a threat firing off a partial cue got you away from the predator sooner, and that is the same dial as the fast learning.\n\nWhere there is no predator it is cost with nothing on the other side. It still fires at full strength on social and sensory things that were never going to kill me.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:16:53.000Z",
 } as const satisfies AllAboutAlanTopic

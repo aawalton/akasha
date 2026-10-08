@@ -10,4 +10,6 @@ export const whereAGoodGradeTurnsUpInABadTrade = {
   related: ["all-about-alan-topic/trusting-a-person-not-an-institution"],
   settled:
     "A B inside a trade that mostly earns worse is not luck. Every one of mine sits where somebody built the alignment in deliberately.\n\nUtah wrote its homeschool law to be friendly. Costco is organised to put the member first. My doctor's own interest is in how his patients come out.\n\nSo when I find one, the thing to check is whether the alignment is in the structure or in whoever happens to be holding the post. Where it is only the person, the B leaves when they do.",
+  createdAt: "2026-09-21T20:12:55.887Z",
+  updatedAt: "2026-09-21T20:13:18.000Z",
 } as const satisfies AllAboutAlanTopic

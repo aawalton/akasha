@@ -8,4 +8,6 @@ export const deploySubject = {
   takes: "the app or service to put up, named by the slug its page carries",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-12T09:42:46.020Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -9,4 +9,6 @@ export const whatInterruptsMyBreathing = {
   parents: ["all-about-alan-topic/what-calms-me-down"],
   settled:
     "Anything that needs my mouth or my chest pauses it. Talking, eating and weight on the chest are the worked cases.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

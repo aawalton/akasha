@@ -13,4 +13,6 @@ export const theCodeInMyFamily = {
   ],
   settled:
     'I am third generation in code.\n\nMy grandfather was a programmer before "computer science" was coined as a term. He started with vacuum tubes in the air force.\n\nHe introduced Daniel Ritchie to the team working on B.\n\nMy mother was a programmer my entire childhood.\n\nAbout eighty per cent of my extended family on that side ended up in computer science.',
+  createdAt: "2026-08-28T01:56:28.898Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

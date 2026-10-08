@@ -13,4 +13,6 @@ export const thePriceOfGettingClear = {
   ],
   settled:
     "A conversation that clears something up can leave me sadder, and the mechanism is clean.\n\nClarity turns a wide uncertainty into high confidence about a spread whose middle is lower than the uncertain version implied.\n\nThe uncertainty was itself a comfort, because it kept a better outcome in play. Buying the clarity spends that comfort.\n\nIt runs on both sides of a hard conversation. The other person gets a clearer view of their own pain point at the price of the hope the ambiguity was holding open.\n\nI still want it. The same pull toward what is true runs everything else I do. But it is paid for in comfort rather than free.",
+  createdAt: "2026-09-21T20:29:22.014Z",
+  updatedAt: "2026-09-21T20:29:25.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const theFingerprintTheHandLeaves = {
   related: ["all-about-alan-topic/what-lets-a-judgement-in"],
   settled:
     "The nearer a channel is to where the grading happened, the more it hurts, whatever else is true. That is not another dial on how the alarm behaves. It is a record of where the alarm was learned.\n\nThe hottest is the hand: the pencil in art class, the handwriting in the writing class. Those just are the channels a real person was grading.\n\nWriting is the one content that runs either way, the same words either handwritten or typed. If the hand carried the charge, typed would go clean. It does not. Typed writing still hurts, even unseen.\n\nSo the hand was never the charge. It is the fingerprint of where a judge got installed. It is also why writing a model produces is clean while mine is not: the judge inside grades my output, and that output is not mine to be graded on.\n\nThe cool end orders by distance from the hand: by hand, then digital, then the body, then pure thought. Thought with no output channel at all should be the safest ground I have.",
+  createdAt: "2026-09-21T20:31:05.195Z",
+  updatedAt: "2026-09-21T20:31:08.000Z",
 } as const satisfies AllAboutAlanTopic

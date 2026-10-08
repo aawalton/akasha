@@ -13,4 +13,6 @@ export const whatSoundingSureCostsMe = {
   ],
   settled:
     "The cost is conflict-shaped. A listener with a competing position reads the flat assertion as a challenge, gets defensive, and it escalates.\n\nConflict sits at the fourth tier of my stress costs, far above where I usually run, so one phrasing trigger compounds into a very high cost, and the conflict gets encoded as a threat.\n\nWhere confidence is welcome the gap is a feature. What I learned early was closer to charm than tact; charm runs on confidence, and tact would have needed hedging.",
+  createdAt: "2026-09-21T22:13:02.311Z",
+  updatedAt: "2026-09-21T22:50:51.000Z",
 } as const satisfies AllAboutAlanTopic

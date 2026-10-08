@@ -13,4 +13,6 @@ export const myRulesAboutOtherWomen = {
   ],
   settled:
     "Most married men picture the scene and read the feeling. I cannot, and the live cues do not reach me.\n\nSo I hold bright lines instead: distance one to one with a woman, even in private, and no physical contact. When I was younger the first was never one to one at all, and it has relaxed to distance.\n\nOutside my immediate family I default to no contact at all, bar a handshake or a family hug.\n\nI push closeness toward the intellectual rather than the personal, and I never initiate with a woman.\n\nBeing visible to Jen is my monitor, standing in for the check I cannot run inside my own head.\n\nThe lines catch physical risk well. What they miss is unguarded intellectual intimacy, the one channel I cannot feel myself entering, because it reads as safe.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:42:25.000Z",
 } as const satisfies AllAboutAlanTopic

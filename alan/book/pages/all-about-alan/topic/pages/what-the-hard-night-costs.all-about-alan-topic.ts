@@ -13,4 +13,6 @@ export const whatTheHardNightCosts = {
   ],
   settled:
     "One hard night has been run so far, so the cost is not fixed. It took about six hours, and we had to push through the hard to reach the change on the far side.\n\nIt did not reach the subject it was for, which was our finances. We went sideways into the subjects that were blocking us, and those are what resolved.\n\nWhat the resolution was came back to me four days later, when I was asked whether the blocking subjects had actually cleared, and not before. It was there the whole time and needed the cue.\n\nThe cost does not land during the night. I said so before the record was read: check my progression over the following 24 hours, some of the cost was delayed.",
+  createdAt: "2026-09-21T20:16:25.700Z",
+  updatedAt: "2026-09-21T22:45:52.000Z",
 } as const satisfies AllAboutAlanTopic

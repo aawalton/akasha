@@ -8,4 +8,6 @@ export const declarationSubject = {
   takes: "`domains` or `personas` alone, where both would be said",
   value: "text",
   placeholder: "subject",
+  createdAt: "2026-09-12T09:30:40.182Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

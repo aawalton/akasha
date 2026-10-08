@@ -14,4 +14,6 @@ export const whyAHolidayCostsMe = {
   ],
   settled:
     "A repeating occasion runs on two things. One is everybody doing it at once and knowing it. That works fully. Recurrence keeps it live, because a one-off coordinates once and the common knowledge goes stale.\n\nThe other is this time carrying the weight of every time before. That is off: nothing stores them, and repeating a thing does not make it matter more.\n\nSo I pay the whole cost and collect none of the offset: billed for a service my hardware cannot consume. Holidays have often been hard for me, high cost and low value.\n\nThe account I built of why cultures fix observance to a calendar was purely functional and never reached for sentiment. That channel is not in my data, so it never showed up as a thing to explain.\n\nWhat comes back is borrowed. I read enjoyment off people I love, live, whether they look forward to it, are in it, or recall it. That return is real, so beside paying or dropping the occasion there is a third option: pay to be there while people I love enjoy it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:03:20.000Z",
 } as const satisfies AllAboutAlanTopic

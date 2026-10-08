@@ -15,4 +15,6 @@ export const whichNeedsGoQuietFirst = {
   ],
   settled:
     "Capacity decides which of my needs I can feel at all. Below a level, a need stops arriving rather than going unmet quietly.\n\nThey go quiet and come back in order of what they cost. People have always been my most expensive tier, so anything I need from people is the first to go and the last to return.\n\nAt the deepest lows even hunger, thirst and needing the bathroom dropped below feeling.\n\nSo a need getting louder as I recover is a real gap becoming feelable rather than a new problem appearing.\n\nI do not expect more tiers underneath. Connection is the last one, and I have met no other need of the same necessity.",
+  createdAt: "2026-09-21T20:14:13.486Z",
+  updatedAt: "2026-09-21T20:14:49.000Z",
 } as const satisfies AllAboutAlanTopic

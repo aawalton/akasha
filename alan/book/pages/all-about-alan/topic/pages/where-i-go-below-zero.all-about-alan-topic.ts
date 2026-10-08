@@ -14,4 +14,6 @@ export const whereIGoBelowZero = {
   ],
   settled:
     "Minus one is sympathetic dominance. Fight, flight, freeze and fawn, and I cannot tell them apart while it is happening because my metacognition has collapsed. Afterwards I can, by which one actually played out.\n\nMinus two is the parasympathetic flop, playing dead. What marks it off is hopelessness. Whatever in me hosts a longing of any kind goes flat there.\n\nMinus two is a full autonomic disable. Arousal shuts down along with hunger, thirst and the ability for my heart rate to go up.\n\nBy the time I am anywhere near that line I have lost the ability to initiate. So any safeguard whose last step is me raising something has a step in it I cannot perform at exactly the moment it is wanted. The guard has to be outside me and started from outside, and my widget has to report without either of us doing anything.",
+  createdAt: "2026-09-21T20:07:04.955Z",
+  updatedAt: "2026-09-21T20:07:51.000Z",
 } as const satisfies AllAboutAlanTopic

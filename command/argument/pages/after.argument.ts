@@ -8,4 +8,6 @@ export const after = {
   takes: "the rule the moved rule comes after",
   value: "text",
   placeholder: "anchor-id",
+  createdAt: "2026-09-12T08:56:39.641Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

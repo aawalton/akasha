@@ -14,4 +14,6 @@ export const workingOutHowSheThinks = {
   ],
   settled:
     "Both our anxieties are fair, and not the same: mine is a faculty I lack, hers is a working one on the wrong data.\n\nPredicting her is not closed to me, only expensive. It is a hand-built map doing what a simulator would do free.\n\nShe has no written culture and defines her thoughts out loud, mostly with me, so the material only exists once we talk. I think she has some dyslexia, which is my reading of her rather than a diagnosis.\n\nHer transition costs are high, so resistance lands on a proposal before its content does.\n\nI can run the same dig I run on myself pointed at her instead, from her behaviors back to her beliefs and the experiences under them.\n\nIt works because behavior is the one step that needs no access to the inside. Everything after it is inference, so a run on her is weaker than a run on me. Eighteen years of marriage is a lot of evidence and it is still evidence about another mind rather than access to one.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:26:01.000Z",
 } as const satisfies AllAboutAlanTopic

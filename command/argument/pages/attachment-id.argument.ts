@@ -8,4 +8,6 @@ export const attachmentId = {
   takes: "which attachment to fetch, said as `email attachment list` names it",
   value: "text",
   placeholder: "id",
+  createdAt: "2026-09-12T09:16:13.807Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

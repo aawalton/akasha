@@ -10,4 +10,6 @@ export const theValuesIHaveNotPlaced = {
   parents: ["all-about-alan-topic/what-i-value-in-order"],
   settled:
     "Only the top four of the six are pointed at a part of me.\n\nThe six were set before the wider set of things I run on existed.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

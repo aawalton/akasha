@@ -13,4 +13,6 @@ export const whatCriticismDoesToMe = {
   ],
   settled:
     "Pushback, argument, criticism and complaint went into one bin, handled at criticism's level.\n\nThe bin gets fed. A partner's complaint, meant as ordinary negotiation, arrives on my side already labelled criticism.\n\nCriticism reads as the front edge of being cast out, and for a social animal that meant death.\n\nIt fires below thought. Knowing she is only turning an idea over arrives too late to stop it.\n\nI cannot simulate the other person in time, so in a live moment I run on a policy pain trained. It fires on the cue that came before pain, not on whether pain is actually coming.\n\nA fear wears off when the feared thing fails to happen. My first death in a game floored me for a week, then days, then nothing, because nothing real was lost.\n\nRejection is the inverse. Ten thousand doors in Russia were ten thousand confirmations, and the last hurt like the first. Exposure can only reinforce it.\n\nEveryone stands at one flat distance from me, so no stranger discount softens any of it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:44:05.000Z",
 } as const satisfies AllAboutAlanTopic

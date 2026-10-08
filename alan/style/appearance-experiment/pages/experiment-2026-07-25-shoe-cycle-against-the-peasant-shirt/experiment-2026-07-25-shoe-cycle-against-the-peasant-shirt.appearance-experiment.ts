@@ -11,4 +11,6 @@ export const experiment20260725ShoeCycleAgainstThePeasantShirt = {
   whatTried: "txt",
   eyeRead: "txt",
   feltRead: "txt",
+  createdAt: "2026-07-25T12:40:43.977Z",
+  updatedAt: "2026-09-15T15:48:25.000Z",
 } as const satisfies AppearanceExperiment

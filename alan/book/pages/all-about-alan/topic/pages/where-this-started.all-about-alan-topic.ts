@@ -10,4 +10,6 @@ export const whereThisStarted = {
   related: ["all-about-alan-topic/why-i-could-never-quit"],
   settled:
     "I was exposed to pornography for the first time at fourteen, on TV, an early-morning show with models in lingerie under a waterfall.\n\nOver time I found internet pornography, which was pretty new then. Computers had only just got good enough internet connections for images.\n\nI discovered masturbation on my own, through experimentation.\n\nSince then the pornography and masturbation behaviours have been persistent for most of my life.",
+  createdAt: "2026-09-21T20:17:49.924Z",
+  updatedAt: "2026-09-21T20:17:53.000Z",
 } as const satisfies AllAboutAlanTopic

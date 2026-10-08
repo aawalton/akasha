@@ -10,4 +10,6 @@ export const whatIWantGoneAndWhatIDoNot = {
   related: ["all-about-alan-topic/how-i-mean-to-put-it-down"],
   settled:
     "I feel torn, and the torn-ness is not confusion. It is two true things at once.\n\nI absolutely want to be healthy enough to not depend on it. That dependency is the need, and it is what the health goal and the faith rule both target.\n\nAt the same time there is very real pleasure and satisfaction in it, which I might enjoy and benefit from more as my safety level rises rather than less. It is hard for me to want to remove a source of enjoyment when I have gone completely without enjoyment for so long.\n\nI am only torn about the second part, whether the enjoyment lasts, and I land ninety percent that it does. I cannot know for certain, because my safety level has never gone that high. The ninety is because the pleasure is tied directly to the attractiveness of femininity, which is so central to my preferences that I would be amazed if it went away.",
+  createdAt: "2026-09-21T20:19:20.062Z",
+  updatedAt: "2026-09-21T20:19:56.000Z",
 } as const satisfies AllAboutAlanTopic

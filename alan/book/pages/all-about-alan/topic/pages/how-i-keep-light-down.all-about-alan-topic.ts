@@ -9,4 +9,6 @@ export const howIKeepLightDown = {
   parents: ["all-about-alan-topic/what-my-senses-cost-me"],
   settled:
     "The cost is a drain on my capacity rather than pain, and the squinting comes after it. Bright light is not harsh or stabbing for me. It is a tax on the same capacity that social load and thinking and every unmanaged sense draw from.\n\nOne rule under three modes: as little luminance and contrast as the task allows.\n\nSunglasses go on only on sunny days, not overcast ones, only when the light is enough to make me squint. I have considered wearing them indoors and do not.\n\nIndoors the lights go off in any room I am in. The indoor lever is on or off. Nothing I have dims.\n\nScreens are backlit and the mode follows the clock: dark at night, sepia or light by day, in bed and in the bath alike.\n\nI never measured this the way I measured sound. There is no rate for it. Sunglasses on against off across matched days would give me one.\n\nTwo upgrades would move each lever up a tier: photochromic lenses that adjust themselves, and real dimmers indoors so the dose can match the load.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:42:57.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whichDependencyIDealWithFirst = {
   ],
   settled:
     "I order the list by how critical the thing is, times how likely they are to degrade, times what leaving would cost me.\n\nThe three multiply rather than add. A near-zero anywhere drops an item out of the top tier.\n\nCritical, degrading, trivial to leave: just leave. Critical, trusted, expensive to leave: stay. Not critical, degrading, expensive: annoying, and it waits.\n\nEach factor gets one to four, so the product runs one to sixty-four. Sorting on that is enough to begin with. A finer number can wait.\n\nIt forces me to pick an order, because I cannot fix everything at once.\n\nIt surfaces the thing I have been avoiding because the fix is hard, which is exactly what should be first.\n\nIt demotes what merely annoys me. Not critical and easy to leave means leave it and move on.\n\nI re-run it when conditions change. An organisation that newly begins degrading gets re-ranked.",
+  createdAt: "2026-09-21T20:04:40.530Z",
+  updatedAt: "2026-09-21T20:04:50.000Z",
 } as const satisfies AllAboutAlanTopic

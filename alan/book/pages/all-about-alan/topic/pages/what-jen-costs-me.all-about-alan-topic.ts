@@ -14,4 +14,6 @@ export const whatJenCostsMe = {
   ],
   settled:
     "Jen has been as high as a five and as low as a two.\n\nWhat moves it is the health of our relationship changing, as well as Jen's interpersonal style.\n\nJen at a two gives me the benefit of the doubt and is low conflict.\n\nThat may be the largest discount a person can give me, because it reduces criticism, which is one of my biggest costs.",
+  createdAt: "2026-09-22T17:56:20.838Z",
+  updatedAt: "2026-09-22T18:04:28.000Z",
 } as const satisfies AllAboutAlanTopic

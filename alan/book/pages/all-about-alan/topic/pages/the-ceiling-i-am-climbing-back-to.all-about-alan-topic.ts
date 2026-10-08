@@ -13,4 +13,6 @@ export const theCeilingIAmClimbingBackTo = {
   ],
   settled:
     "I treat my own life as a natural experiment for total nervous-system resilience. Measured at twenty against thirty-eight, it had fallen by at least ninety-nine percent.\n\nI am back to about five percent of it, and near ten with medication.\n\nAgeing cannot explain a fall that size. Even a fifty percent drop from twenty to forty would be extreme for ordinary ageing, so most of it is damage and most of it should come back.\n\nAt one percent I was a senior developer at an AI startup and at two an executive at one, which is what the headroom means. My capacity at a hundred percent was incredible, and I feel confident I still have significant room to recover and rebuild.\n\nKnow is overstated. I am ninety-five percent confident the ceiling is still climbing, based on the progression so far and the lack of any sign of slowing or evidence to the contrary.\n\nThe highest version of me is proven rather than imagined. Play stands me in it. What I fear is reaching it for good.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:49:48.000Z",
 } as const satisfies AllAboutAlanTopic

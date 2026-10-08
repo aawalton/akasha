@@ -10,4 +10,6 @@ export const theSmallestHarmThereIs = {
   related: ["all-about-alan-topic/the-formula-that-prices-a-harm"],
   settled:
     "I take the universe to be fundamentally discrete, grained at the Planck scale in time, distance and energy. That hands the framework a canonical event for free.\n\nThe atomic harm is the drop in an individual's probability-weighted expected value across a single tick. The sub-game for that harm is every agent's contribution to that particular drop, summed across all of history and every branch continuous with that instant.\n\nSo nothing is left to carving. The tick is the finest grain there is, a harm cannot be divided below it, and every actor judged against a harm faces the same sub-game. Consent scoring comes out actor-independent.\n\nA harm spanning many ticks is the linear sum of the per-tick sub-games, so aggregating over an interval and decomposing it give identical answers.",
+  createdAt: "2026-09-21T20:20:38.621Z",
+  updatedAt: "2026-09-21T20:21:04.000Z",
 } as const satisfies AllAboutAlanTopic

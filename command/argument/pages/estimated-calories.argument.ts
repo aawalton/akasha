@@ -8,4 +8,6 @@ export const estimatedCalories = {
   takes: "the food's estimated total calories",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-12T09:10:05.817Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

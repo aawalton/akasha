@@ -9,4 +9,6 @@ export const whatOurBudgetCannotTellUs = {
   parents: ["all-about-alan-topic/the-money-arrangement-we-settled-on"],
   settled:
     "The categorising is manual, Jen has owned it alone, and she is nine months behind.\n\nWe always know the total, because the total is just balances. What we do not have is budget balances.\n\nSo the gap does not blind us to how much there is or how fast it is going.\n\nWhat it costs is the breakdown. Which line a given spend went to, and so whether that spend was capacity or consumption.",
+  createdAt: "2026-09-21T20:00:16.228Z",
+  updatedAt: "2026-09-21T22:57:48.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -9,4 +9,6 @@ export const whereSafetyHasGotTo = {
   parents: ["all-about-alan-topic/safety-bar"],
   related: ["all-about-alan-topic/whether-my-2026-forecast-is-holding"],
   settled: "In late August 2026 I read myself at two to three, still on the lower end.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

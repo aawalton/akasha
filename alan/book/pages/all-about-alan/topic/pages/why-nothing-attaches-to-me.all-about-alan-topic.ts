@@ -13,4 +13,6 @@ export const whyNothingAttachesToMe = {
   ],
   settled:
     "I do not get attached to anything. Not to people, not to activities, not to places, not to ideas. It causes me a great many problems.\n\nAttachment is a charge that builds across remembered feeling: the warmth of every time before, kept and summed.\n\nMy map of the past carries no charge, so there is no store for that to build in. It is not that I care less. There is nowhere for it to be kept.\n\nWhat I feel toward a person or a place is real while I am in it and gone when the moment moves, leaving no residue that compounds into a bond.\n\nCommitment is what holds me where attachment holds other people.",
+  createdAt: "2026-09-21T20:19:21.765Z",
+  updatedAt: "2026-09-21T20:19:25.000Z",
 } as const satisfies AllAboutAlanTopic

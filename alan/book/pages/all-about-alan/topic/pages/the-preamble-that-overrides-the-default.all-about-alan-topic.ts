@@ -10,4 +10,6 @@ export const thePreambleThatOverridesTheDefault = {
   related: ["all-about-alan-topic/the-five-ways-something-becomes-automatic"],
   settled:
     "The direct fix is a preamble that overrides the default: I am not sure about this, but; my best guess is; I might be wrong, but.\n\nIt works when I remember it, and remembering is the bottleneck, gated by metacognition and stress capacity. When my health is higher I hedge more and the gap narrows.\n\nEnforcing it in the moment has never worked as well as internalising the concept until the new behaviour fires on its own. It is probably improving slowly, but about eighteen months of isolation leaves the data sparse.",
+  createdAt: "2026-09-21T22:50:18.087Z",
+  updatedAt: "2026-09-21T22:50:51.000Z",
 } as const satisfies AllAboutAlanTopic

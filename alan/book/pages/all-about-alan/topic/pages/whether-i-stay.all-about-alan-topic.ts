@@ -14,4 +14,6 @@ export const whetherIStay = {
   ],
   settled:
     "Every input has to be observable or derivable now. With no simulator, a forecast of how I would feel is not admissible.\n\nI needed a sayable position rather than a private feeling, something I can say plainly under load. It doubles as a referendum on relationships in general, because if this one is not worth it I have no reason to think any is.\n\nThe frame is plain utility with no extra weight on my own side, and a large negative on involuntary costs, with voluntary ones counted at their direct weight. Every candidate reason reduces to that.\n\nMy own payoff cannot ground staying. The marriage is a net cost to me and the exit is worked and survivable.\n\nCommitment binds how I would leave rather than whether. Honesty and integrity both point outward.\n\nOn immediate grounds it is indeterminate, both doors carrying the same circle, which matters only because it is a near tie.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:23:40.000Z",
 } as const satisfies AllAboutAlanTopic

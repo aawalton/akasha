@@ -10,4 +10,6 @@ export const theCollegeYearsISpentOnTheFoundations = {
   related: ["all-about-alan-topic/why-settling-a-question-steadies-me"],
   settled:
     "I actually did go deep into this. I spent most of college focusing on the foundations.\n\nI did the equivalent of a BS in religion studies, majored in math, minored in logic.\n\nThis time feels different though.\n\nWhat is different is the instrument I bring rather than the question. So the re-examination is not driven by having never looked.",
+  createdAt: "2026-09-21T22:01:10.902Z",
+  updatedAt: "2026-09-21T22:01:26.000Z",
 } as const satisfies AllAboutAlanTopic

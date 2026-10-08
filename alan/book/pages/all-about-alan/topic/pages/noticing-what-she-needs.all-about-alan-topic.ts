@@ -9,4 +9,6 @@ export const noticingWhatSheNeeds = {
   parents: ["all-about-alan-topic/working-out-what-love-is"],
   settled:
     "Attentiveness was two things, so I dropped it for presence and responsiveness. One is giving someone your full attention when you are with them. The other is showing by your actions that you are responding to their wants and needs.\n\nPresence is much easier for me, though not always easy if my executive function is low.\n\nResponsiveness requires either explicit effort or a surplus of capacity. At low levels it does not happen by default. Responding needs recalling the want, and recall does not fire unprompted, so it is paid for every time.\n\nDoing something for her is easy. Recognising that something needs doing without being asked is really hard, because I cannot simulate.\n\nConsideration is different again. Responsiveness is seeing needs and filling them. Consideration is taking her interests into account when making decisions. For me it means asking, not guessing, and asking instead of guessing is the one bridge I have built. It does not run consistently.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:51:56.000Z",
 } as const satisfies AllAboutAlanTopic

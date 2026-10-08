@@ -9,4 +9,6 @@ export const theFlagsBeforeWeGotInTheCar = {
   parents: ["all-about-alan-topic/the-talk-in-the-car-on-8-june-2026"],
   settled:
     "I had been in and out of a mild cold, and the day before was worse.\n\nAround half past ten I found her in the shower. She was sore from swimming and told me the whole story of getting our daughter through a hard swim lesson, about thirty minutes.\n\nI listened without losing my thread but apparently did not back-channel enough, and she told me later she felt tolerated more than listened to. The second yellow flag I missed.",
+  createdAt: "2026-09-21T22:49:48.651Z",
+  updatedAt: "2026-09-21T22:49:58.000Z",
 } as const satisfies AllAboutAlanTopic

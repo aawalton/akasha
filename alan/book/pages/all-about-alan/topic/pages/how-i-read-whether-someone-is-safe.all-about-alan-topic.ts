@@ -13,4 +13,6 @@ export const howIReadWhetherSomeoneIsSafe = {
   ],
   settled:
     "Three things feed the read: their physiology, their behaviour, and how uncertain I am about them.\n\nThe read is an estimator of how that person will behave toward me. Not a feeling about them and not a judgement of their character. It is a prediction, the same prediction machine I run on everything else, pointed at a person and asking what this body will do toward me. It is the machine I run on myself, turned outward.\n\nEach of the three lowers the score on its own, and they can disagree. That they can disagree is the proof they are three rather than one verdict.\n\nPhysiology is the strongest. Where presentation and physiology disagree, physiology dominates.\n\nThe whole read is pre-cognitive. It fires before identity, intent or knowledge enter, because all of those need knowing the person. By the time I could form a considered judgement, it has returned its number.\n\nAt least one of the three learns, so an exception can be banked for a particular person against my default.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:19:41.000Z",
 } as const satisfies AllAboutAlanTopic

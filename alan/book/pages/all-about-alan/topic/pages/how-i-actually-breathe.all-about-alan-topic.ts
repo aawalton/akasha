@@ -9,4 +9,6 @@ export const howIActuallyBreathe = {
   parents: ["all-about-alan-topic/what-calms-me-down"],
   settled:
     "Four counts in and twelve out, most of my waking day. About a second a count, so about sixteen seconds a breath and under four breaths a minute.\n\nBreathing in pushes me toward sympathetic and breathing out toward parasympathetic. A longer out than in leaves each breath a net drop in tension.\n\nTwo hundred breaths pay back one capacity hour. At eight to twelve hours a day that is two and a half to three and a half capacity hours a day from the breathing alone.\n\nIt is not a sit-down practice. It runs under walking, reading, programming, chores, screens, the bath and the wind-down in bed, and under six coding projects, the game and the music at once.\n\nThe counting is what makes it meditative rather than only slow. It about doubles what the breathing does, because the count is what my attention rests on. Watching or feeling or picturing the breath all need a replay I do not have. A number does the job instead.\n\nEvery minute of conversation pauses it, which is part of what talking costs me.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:42:57.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const howStimulatedIAm = {
   ],
   settled:
     "Nothing levels it for me, so I run the loop by hand: a reading, then a knob.\n\nThe knobs are the game, the music and the room light.\n\nWandering focus says I am out of band, and how the wandering feels says which way.\n\nCold means I am overstimulated and hot means I am understimulated. Temperature is the second sensor beside focus quality, and it works because I run hot when my autonomic system is running. Heat production is the proxy for whether the regulation is online at all.\n\nMy safety level sets how wide the band is, and it is still narrow.\n\nWhether that narrowness is damage still mending or how I was built is not something I can tell from inside. I default to still mending and keep widening it until something proves otherwise.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:26:28.000Z",
 } as const satisfies AllAboutAlanTopic

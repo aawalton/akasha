@@ -9,4 +9,6 @@ export const whenItGoesStraightToTaking = {
   parents: ["all-about-alan-topic/how-an-organisation-turns"],
   settled:
     "The middle stage often does not happen at all. Many go straight from good to their users to good to themselves, with nobody in between taking a cut.\n\nA grocer moves from thin margins and good prices to wider margins, higher prices and less choice.\n\nAn insurer moves from handling claims honestly to delaying and denying them. No third party gains; the company keeps the premiums.\n\nA utility moves from reliable service at a regulated price to cutting quality to lift its return. The value goes to its shareholders.\n\nThe three-stage shape is the clean case. Outside platforms this one is more common, so I look for both.",
+  createdAt: "2026-09-21T20:30:08.973Z",
+  updatedAt: "2026-09-21T20:30:12.000Z",
 } as const satisfies AllAboutAlanTopic

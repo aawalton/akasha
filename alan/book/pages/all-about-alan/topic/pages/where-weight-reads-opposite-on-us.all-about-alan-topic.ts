@@ -10,4 +10,6 @@ export const whereWeightReadsOppositeOnUs = {
   related: ["all-about-alan-topic/the-weighted-blanket", "all-about-alan-topic/tight-clothes"],
   settled:
     "Jen has sensory triggers around feeling weight on her and around being confined. Both are aversive for her.\n\nFor me weight and confinement are a positive.\n\nSo the position that costs her is the one that pays me, and the other way round. The eighty-twenty split is the equilibrium that mostly spends from my surplus rather than from her deficit.\n\nThe same physical input reads opposite on the two of us.",
+  createdAt: "2026-09-21T20:15:31.230Z",
+  updatedAt: "2026-09-21T20:15:40.000Z",
 } as const satisfies AllAboutAlanTopic

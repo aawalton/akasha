@@ -10,4 +10,6 @@ export const theStepSomebodyElsePutInMyMethod = {
   related: ["all-about-alan-topic/the-dig-i-ran-on-making"],
   settled:
     "Asking what a belief protects was not in my own version of the method. The five steps as I authored them go straight from digging it up to building the new one, with no check in between.\n\nAbby caught me skipping it on the creativity dig, moving to build the new belief without asking what the old one guarded. That catch was the value, because I had not internalised the step myself.\n\nIt is settled and adopted. The question runs before I author the new belief from here on.\n\nThe belief it was caught on was that I cannot afford to be creative, it is just too expensive. That avoidance was doing real work, keeping me out of re-exposure to something my nervous system had coded as a threat to survival.",
+  createdAt: "2026-09-21T22:01:35.131Z",
+  updatedAt: "2026-09-21T22:01:38.000Z",
 } as const satisfies AllAboutAlanTopic

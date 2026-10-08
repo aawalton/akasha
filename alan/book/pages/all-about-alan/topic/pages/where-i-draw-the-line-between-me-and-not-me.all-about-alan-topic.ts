@@ -13,4 +13,6 @@ export const whereIDrawTheLineBetweenMeAndNotMe = {
   ],
   settled:
     "Deciding for my future selves, I treat them as other people. Deciding for other people, I treat them as me.\n\nThat is the usual order inverted. Most people will spend a stranger to benefit their own later self. I give the later self no automatic claim and give the stranger full footing.\n\nI have no strong sense of self and no strong line between myself and anyone else, so the same response reaches a future stranger as reaches a future me.\n\nSo looking after my own future is not self-interest or self-care. It is fairness toward strangers who happen to wear my name.\n\nSwap future me for another person and the argument does not change. Investing in the one and helping the other are the same act.",
+  createdAt: "2026-09-21T20:23:03.984Z",
+  updatedAt: "2026-09-21T20:23:07.000Z",
 } as const satisfies AllAboutAlanTopic

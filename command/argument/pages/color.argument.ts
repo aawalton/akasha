@@ -9,4 +9,6 @@ export const color = {
   value: "text",
   placeholder: "side",
   default: "white",
+  createdAt: "2026-09-14T14:04:56.771Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

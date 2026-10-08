@@ -10,4 +10,6 @@ export const whyAnAnomalyWritesHigh = {
   related: ["all-about-alan-topic/how-understanding-arrives"],
   settled:
     "A one-off thing usually writes low, and an anomaly is the exception.\n\nAn anomaly I cannot account for is its own placeholder. Until my model grows to take it in, the memory of it is the only account of it there is, so it scores high on the strongest of the four.\n\nIt carries a debt, and it is kept precisely because the debt is unpaid. The model has to hold it because it cannot yet absorb it.\n\nCompressing the ones I am holding is what drives the model to a better fit.",
+  createdAt: "2026-09-21T20:16:08.589Z",
+  updatedAt: "2026-09-21T20:16:11.000Z",
 } as const satisfies AllAboutAlanTopic

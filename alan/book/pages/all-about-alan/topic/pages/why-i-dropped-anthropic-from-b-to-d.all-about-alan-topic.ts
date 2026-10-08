@@ -10,4 +10,6 @@ export const whyIDroppedAnthropicFromBToD = {
   related: ["all-about-alan-topic/which-organisations-i-trust"],
   settled:
     "Two things did it, this year.\n\nThey degraded the service quietly. Paying customers got materially less and were not told, which takes from the people paying while keeping back exactly what they would need to decide whether to stay.\n\nAnd they had committed publicly to no autonomous-killing-drone use of Claude, then let it be used to pick targets in the Iran strikes, which killed civilians including a hundred and twenty children. That is the most-publicised promise they had made, broken at the highest stakes there are.\n\nThey carry every structural signal I would otherwise weigh. A public-benefit charter, a long-term trust over the board, a stated safety mission, the whole posture of an aligned company. None of it stopped either act.\n\nSo the structure is information and the behaviour is the answer. This is the clearest case of that I have.",
+  createdAt: "2026-09-21T20:19:38.719Z",
+  updatedAt: "2026-09-21T23:05:42.000Z",
 } as const satisfies AllAboutAlanTopic

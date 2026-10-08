@@ -7,4 +7,6 @@ export const confirmWipe = {
   said: "--confirm-wipe",
   takes: "the acknowledgement that the install disk is overwritten",
   value: "none",
+  createdAt: "2026-09-12T09:19:25.691Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

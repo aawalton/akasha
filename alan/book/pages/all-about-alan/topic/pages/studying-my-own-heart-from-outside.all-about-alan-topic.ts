@@ -13,4 +13,6 @@ export const studyingMyOwnHeartFromOutside = {
   ],
   settled:
     "Almost all my emotional understanding of myself is deduction rather than feeling.\n\nI relate to my own emotional life the way other people relate to somebody else's. I read the behaviour and work the feeling back out of it. My own heart is a thing I study, the way I would study a person sitting across the table from me.\n\nThe will to live is the sharp end of it. It sits in the tenth of me I cannot read, so I cannot know it is there. I catch it when it leaks past the surface and reason backwards from the leak.\n\nBuilding one of my personas, I watched myself start to cry and read the tears as a will to live I had not known I had. Asked what the tears felt like, I had nothing to answer with. There was no stored feeling to replay.\n\nSo the most fundamental thing about being alive is, for me, the least directly visible, and I hold it by probability rather than by certainty.",
+  createdAt: "2026-09-21T20:12:54.407Z",
+  updatedAt: "2026-09-21T20:13:04.000Z",
 } as const satisfies AllAboutAlanTopic

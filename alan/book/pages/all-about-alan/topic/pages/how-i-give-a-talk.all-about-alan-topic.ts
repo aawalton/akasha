@@ -10,4 +10,6 @@ export const howIGiveATalk = {
   parents: ["all-about-alan-topic/how-i-remember-anything"],
   settled:
     "Nothing is memorised word for word, so there is nothing I depend on remembering.\n\nEach point is small and paired with the circumstance that should fire it, and the order comes from the room.\n\nA point is one whole thing on its own: an argument, an example, a story. The cue is a question, a framing somebody uses, a neighbouring subject coming up, or wherever the conversation has landed.\n\nThinking broadly first is what keeps the set from running out when the talk goes somewhere I did not expect.\n\nIt costs me exact phrasing and some working memory during the talk, and saves me all of the recall. Where the exact words matter I memorise that fragment on its own or accept less precision.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:11:41.000Z",
 } as const satisfies AllAboutAlanTopic

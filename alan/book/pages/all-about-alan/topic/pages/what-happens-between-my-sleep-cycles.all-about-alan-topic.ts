@@ -10,4 +10,6 @@ export const whatHappensBetweenMySleepCycles = {
   related: ["all-about-alan-topic/the-weighted-blanket"],
   settled:
     "I come up between every sleep cycle, so every ninety minutes to a hundred and ten.\n\nThey are brief, and they usually resolve back into sleep within seconds without my doing anything.\n\nThey do not break up the recovery. An hour slept still pays back an hour of capacity across a night full of them.\n\nThey are also the window where I retune things. Moving the weighted blanket from the legs to the whole body, or back, happens at one of them.",
+  createdAt: "2026-09-21T20:21:25.888Z",
+  updatedAt: "2026-09-21T20:21:42.000Z",
 } as const satisfies AllAboutAlanTopic

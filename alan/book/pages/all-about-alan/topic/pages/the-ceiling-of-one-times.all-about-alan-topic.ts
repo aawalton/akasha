@@ -14,4 +14,6 @@ export const theCeilingOfOneTimes = {
   ],
   settled:
     "Affordability means no more than a multiplier of one, which is one capacity hour per clock hour. I can sustain that all day if I have to, and that is my ceiling.\n\nSo most of most days is free. Even my hardest sustainable day only breaks even. It never drains.\n\nAgainst that, I spent roughly eighteen years at about one and a half times what I could pay. What I run now is chronic surplus, most days below cost.\n\nThe same governor changed jobs when I could finally decline my load. While the load was un-declinable it was triage, rationing damage I had no power to stop. Now that the load is refusable it allocates something I actually control.",
+  createdAt: "2026-09-21T20:27:11.357Z",
+  updatedAt: "2026-09-21T20:27:20.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const whereSafetyAndArousalAreWelded = {
   ],
   settled:
     "For feminine signals at large, arousal is a later layer on top of the safety I am reaching for. It is not required, and the safety arrives without it.\n\nAttractive femininity is the exception. There the safety response and the sexual arousal response are welded. They always come together, so I cannot take the safety benefit of the femininity without the arousal trigger coming with it. This is how my body is wired.\n\nThat fits the product rather than contradicting it: attractive femininity spikes both factors at once.",
+  createdAt: "2026-09-21T20:02:10.854Z",
+  updatedAt: "2026-09-21T20:02:45.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -9,4 +9,6 @@ export const howHardAThingIs = {
   parents: ["all-about-alan-topic/what-an-activity-costs-me"],
   settled:
     "Its rung is what my safety level gets compared against.\n\nMy projects have a base of rung two, and rebuilding the foundational layers under them raises the difficulty above that base.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

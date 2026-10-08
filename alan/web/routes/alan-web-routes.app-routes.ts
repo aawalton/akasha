@@ -89,4 +89,6 @@ export const alanWebRoutes = {
       statement: "An email address a route draws is readable in the HTML Cloudflare serves.",
     },
   ],
+  createdAt: "2026-09-10T15:18:13.817Z",
+  updatedAt: "2026-10-08T11:11:39.000Z",
 } as const satisfies AppRoutes

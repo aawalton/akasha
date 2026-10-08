@@ -9,4 +9,6 @@ export const howAnAlarmWearsOff = {
   parents: ["all-about-alan-topic/safety-bar"],
   settled:
     "A bad thing landing below my safety line proves the alarm wrong. Above it, it proves the alarm right.\n\nOrdinary social life delivers its punishment on a variable, random schedule, the kind that resists extinction hardest. So I will need a lot of safe experiences before I truly believe I am safe again.\n\nAn adverse experience is not safe or unsafe on its own. It is safe relative to my level. A high enough level absorbs a bad draw, and then being rejected and still being fine is the disconfirmation instead of a fresh wound. The world's response is not the only variable. My capacity to absorb it is the other, and it is the one I can raise.\n\nWhat binds is the breach rate, the share of outcomes coming in above my line, held low for a duration.\n\nOne band is catastrophic whatever my level, and no level I could reach clears it. So raising my level can never take the breach rate to zero, and without raising it the rate never gets low enough either.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:12:59.000Z",
 } as const satisfies AllAboutAlanTopic

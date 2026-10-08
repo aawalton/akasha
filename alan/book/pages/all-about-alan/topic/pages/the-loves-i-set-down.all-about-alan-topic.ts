@@ -13,4 +13,6 @@ export const theLovesISetDown = {
   ],
   settled:
     "I have lost everything I loved that could not be made safe. I had to choose between the things I loved and surviving, and survivorship bias shows that I chose survival every time.\n\nWhat I set down I never stopped loving. The wanting is still there under the scar, which is how I know it was love rather than preference.\n\nWhat is left is not the safe loves. It is the survivors, and survivors always make the cost look smaller than it was, because the ones who paid it are not in the room to be counted.\n\nTwo lines run the survival side. I will change anything and sacrifice anything I need to in order to survive. And if this fails, it will not be because I could have done more.\n\nThe second keeps the guard off my back. I cannot control a random outcome, so I make the failure never mine. Effort is the one thing I am allowed to keep perfect.",
+  createdAt: "2026-09-21T20:20:41.478Z",
+  updatedAt: "2026-09-21T20:20:44.000Z",
 } as const satisfies AllAboutAlanTopic

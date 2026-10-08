@@ -13,4 +13,6 @@ export const whyICountInHalfSteps = {
   ],
   settled:
     "The half step is not a special unit. It is the finest distance I can reliably tell apart.\n\nThe load underneath is continuous. My scale is calibrated to what I can discriminate along it, so a half step is the just-noticeable difference of my own perception of it.\n\nThat is why two ways of writing the same thing do not actually disagree. Adding one for conflict onto a social base of three, and reading conflict off directly as a base tier of four, are the same continuous variable rastered at the half step from two directions. Neither is the underlying quantity.\n\nIt is also why an activity can sit at three and a half or four and a half. The load falls between my integer anchors and I resolve it to the nearest half step.",
+  createdAt: "2026-09-21T20:26:58.883Z",
+  updatedAt: "2026-09-21T20:27:02.000Z",
 } as const satisfies AllAboutAlanTopic

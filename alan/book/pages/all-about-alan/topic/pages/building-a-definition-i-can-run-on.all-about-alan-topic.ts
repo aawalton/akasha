@@ -13,4 +13,6 @@ export const buildingADefinitionICanRunOn = {
   ],
   settled:
     "A piece of being human I cannot feel my way into I reduce to a definition small enough to act on.\n\nWithout one the thing does not exist for me. What I reach is bounded by what I have built.\n\nCommitment's is never fail silently, and it holds me where other people are held by attachment.\n\nSelf-worth and self-preservation came out of two crises two years apart, which is where my hope comes from.\n\nNo general method. The core parts of being human do not compress as a group, so each is built alone.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

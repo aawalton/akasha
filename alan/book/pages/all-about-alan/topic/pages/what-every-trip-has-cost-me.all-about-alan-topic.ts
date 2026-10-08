@@ -11,4 +11,6 @@ export const whatEveryTripHasCostMe = {
   related: ["all-about-alan-topic/the-sixteen-days-in-europe"],
   settled:
     "Every trip in the past ten years was way over the edge of my capacity, so much so that I was consistently physically ill by the end of every trip, just from disruption to my habits and from stress.\n\nThe chain ran the same way each time. Travel breaks the habit structure, the disruption and the stress together overload me, and the overload comes out as physical illness by the end of the trip.\n\nTravel is scary. I am healthier now than I have been in ten years, and overwhelm is still my base case.\n\nThe sixteen days in Europe were the first in that record to land merely at the edge rather than far past it. I put that down to being the healthiest I have been in a decade, so the same disruption no longer overloads me.\n\nThe expectation going in was still overwhelm. The gain showed in how close to the edge the trip landed rather than in what I expected of it.",
+  createdAt: "2026-09-21T22:01:31.579Z",
+  updatedAt: "2026-09-21T22:01:35.000Z",
 } as const satisfies AllAboutAlanTopic

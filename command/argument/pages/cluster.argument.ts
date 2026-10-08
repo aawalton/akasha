@@ -9,4 +9,6 @@ export const cluster = {
   value: "text",
   placeholder: "name",
   default: "main",
+  createdAt: "2026-09-12T08:34:55.739Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

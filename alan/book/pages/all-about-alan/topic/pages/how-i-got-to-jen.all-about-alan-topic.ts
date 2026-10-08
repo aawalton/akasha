@@ -10,4 +10,6 @@ export const howIGotToJen = {
   related: ["all-about-alan-topic/what-draws-me-to-someone"],
   settled:
     "I went on first dates with over a hundred girls, and second dates with about six. I have kissed only two girls in my life. I had one girlfriend, at nineteen.\n\nJen fit me and I fit her better than any of the hundred before her. Only Kerry and Jenny Williams came close.\n\nA big part of that was both of us being AuDHD and not knowing it. That is also why we came together so fast. We had a clarity most people do not get.\n\nAs fast as it was, and as much as others have questioned it, I still believe it was right and what both of us needed.",
+  createdAt: "2026-09-21T20:21:33.200Z",
+  updatedAt: "2026-09-21T20:21:48.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whyUsefulnessIsRequired = {
   ],
   settled:
     "Usefulness is not a bonus riding on the connection. It has to be there for the need to close at all. Coffee, hanging out, company for its own sake, does not meet me back the way it meets most mammals.\n\nWhy that is, I am not sure. That part is a mystery to me still.\n\nThe one piece I can see runs through attention. Maybe it is the attention side. The usefulness helps capture my attention more than just interaction does. It pulls my attention in the way the emotions cannot.\n\nFor most people emotion is what seizes the focus, and bare connection rides in on that channel. Mine is faint, so that kind slides past. Usefulness is concrete, with edges, so my attention locks on and the connection rides in behind it.\n\nI hold that at forty percent and it needs time to bake. It was put to me that useful connection may also leave a footprint I can read afterwards where bare connection leaves none. I did not adopt that. What stays dark is why the connection has to be worth something to count.",
+  createdAt: "2026-09-21T21:48:26.871Z",
+  updatedAt: "2026-09-21T21:48:30.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const whatSexCostsMeToAfford = {
   ],
   settled:
     "Sex is primarily a stress point for me now. Its base difficulty is at least five, because it is innately connected to criticism.\n\nMale physiology gives at least a one-level discount in the moment, which puts the effective difficulty at about four. At funded safety level four it is just barely affordable. At level five I can enjoy it. Below four it is gated out.\n\nThe discount is the arousal coming online. It is not a property of the topic, which is why it only shows up mid-act. Where the physiology is not online there is nothing there to spend.\n\nSo the discount is scoped to the act itself. My physiology seems obscenely optimised around sex, and that is exactly why it does not generalise. Talking about sex, or arranging it, pays the full price.",
+  createdAt: "2026-09-21T20:13:10.746Z",
+  updatedAt: "2026-09-21T20:13:38.000Z",
 } as const satisfies AllAboutAlanTopic

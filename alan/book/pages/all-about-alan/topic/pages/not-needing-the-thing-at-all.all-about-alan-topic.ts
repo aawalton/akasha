@@ -13,4 +13,6 @@ export const notNeedingTheThingAtAll = {
   ],
   settled:
     "Not can I provide this for myself, but do I need it at all. Can I change my situation so the need goes.\n\nWhen the need goes, so does the dependency. Nothing to grade, no capability to keep running, nothing recurring in money or in trust.\n\nFor some prescriptions the move is not a backup pharmacy or a stockpile. It is sleep, food and coping work that takes the need toward zero.\n\nRather than swap one platform for another, drop the platform. That need was discretionary to begin with.\n\nCook rather than find a restaurant chain I trust. Mend the garment rather than find a clothing brand I trust. Walk rather than find a rideshare I trust.\n\nI ask this before going down any of the tiers, because a discretionary need removed beats every one of them on cost, on trust and on what is left exposed.\n\nNot every need is contingent. Four people need feeding and a diabetic needs insulin. This reaches the ones resting on habit, expectation or convenience.",
+  createdAt: "2026-09-21T20:14:57.762Z",
+  updatedAt: "2026-09-21T20:15:28.000Z",
 } as const satisfies AllAboutAlanTopic

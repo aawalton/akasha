@@ -13,4 +13,6 @@ export const whyAHarmOnOneBranchIsNotDiluted = {
   ],
   settled:
     "In my ethics an individual is the closure of the instants of them that are continuous forward or backward in time across the multiverse. It is a banyan tree rather than a single thread.\n\nWho someone is and what they are worth are deliberately separate notions. The tapestry settles who is the same person as whom across time and branches, and it is never the subject that value or harm is summed over.\n\nValue and harm are always taken on the local thread with its forward fan.\n\nSo a harm to one branch is never diluted by the untouched siblings beside it, and no branch can launder consent for another or reach across to inflict harm on one.\n\nWho someone is comes out of the topology of continuity. What is owed to them is settled locally.",
+  createdAt: "2026-09-21T20:16:24.452Z",
+  updatedAt: "2026-09-21T20:17:01.000Z",
 } as const satisfies AllAboutAlanTopic

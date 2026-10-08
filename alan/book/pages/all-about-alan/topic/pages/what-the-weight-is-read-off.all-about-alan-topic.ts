@@ -13,4 +13,6 @@ export const whatTheWeightIsReadOff = {
   ],
   settled:
     "Sentience weight is the moral weight of one unit of an individual's welfare. That per-unit reading is what makes welfare commensurable between one being and another at all.\n\nIt is non-arbitrary, and it varies from individual to individual.\n\nIt is grounded in structure the oracle reads directly, never in behaviour. Behaviour can be performed, and a performance would score identically to the thing itself.\n\nThe oracle reads valence and affective entropy exactly, and it reads that structural fact whether or not the being can name its own states.\n\nEvery real observer only estimates the two under uncertainty, worst of all for beings least like themselves. The abstraction is well defined anyway, even where it is not fully observable.",
+  createdAt: "2026-09-21T22:02:37.758Z",
+  updatedAt: "2026-09-21T22:02:41.000Z",
 } as const satisfies AllAboutAlanTopic

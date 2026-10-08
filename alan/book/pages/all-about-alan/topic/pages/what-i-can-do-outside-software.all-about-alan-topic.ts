@@ -11,4 +11,6 @@ export const whatICanDoOutsideSoftware = {
   related: ["all-about-alan-topic/what-i-spend-on-compute"],
   settled:
     "Decent amateur across a spread of them. Cooking, medicine and first aid, money and investing, fixing cars, fixing the house through plumbing, electrical, heating and carpentry, gardening, sewing, and negotiating a contract.\n\nJen is professional level at the cooking. Mine is amateur.\n\nKeeping animals is out. Not an interest, and not a route I will take.\n\nWhat turns decent amateur into something I can act on is AI. Knowing roughly how a heating system works and being able to diagnose and repair one in the moment are different things, and the reasoning I get from a model is most of that gap.\n\nWhich is what makes that one dependency load-bearing in a way the rest are not. It multiplies everything else I can do.\n\nI have a lot of hand tools and power tools, garden tools, and a laser engraver. The garage is free and could be a workshop.",
+  createdAt: "2026-09-21T20:20:34.207Z",
+  updatedAt: "2026-09-21T20:20:47.000Z",
 } as const satisfies AllAboutAlanTopic

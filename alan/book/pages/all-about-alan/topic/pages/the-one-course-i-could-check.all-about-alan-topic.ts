@@ -13,4 +13,6 @@ export const theOneCourseICouldCheck = {
   ],
   settled:
     "Linear algebra was my favourite course.\n\nIt was a matter of doing simple calculations reliably and consistently. I learned behavioural patterns and self-checks that got it right every single time.\n\nThe university did not give A plus grades, and the class was graded on a curve. I got an A plus anyway, on a final grade of a hundred and four percent.\n\nThat is the positive case on the wall. A love came through because I could verify my way to perfect.\n\nThe self-checks are the perfectionism working with me rather than against me, because maths holds still to be checked.",
+  createdAt: "2026-09-21T21:59:41.081Z",
+  updatedAt: "2026-09-21T21:59:43.000Z",
 } as const satisfies AllAboutAlanTopic

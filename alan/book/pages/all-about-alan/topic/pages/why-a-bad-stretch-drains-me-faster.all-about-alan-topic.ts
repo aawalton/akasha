@@ -10,4 +10,6 @@ export const whyABadStretchDrainsMeFaster = {
   related: ["all-about-alan-topic/safety-level", "all-about-alan-topic/what-an-activity-costs-me"],
   settled:
     "Lower capacity lowers my safety level, since safety is roughly capacity averaged over time.\n\nLower safety raises the multiplier on the same input. High up the scale a level is about twice the cost.\n\nA bigger multiplier on the same stressor makes my stress climb faster.\n\nWhat changes is the rate, not the reading. The same thing does not read higher in the moment. My stress simply gets there sooner and goes further.\n\nThat distinction carries weight. Rate is what compounded the slide of about twenty per cent a year, and rate is what turns around as safety climbs and the multiplier falls.\n\nSo capacity and the stress I am at right now are neither independent of each other nor simply added together. Capacity reaches the moment by way of safety.",
+  createdAt: "2026-09-21T20:03:43.866Z",
+  updatedAt: "2026-09-21T20:04:19.000Z",
 } as const satisfies AllAboutAlanTopic

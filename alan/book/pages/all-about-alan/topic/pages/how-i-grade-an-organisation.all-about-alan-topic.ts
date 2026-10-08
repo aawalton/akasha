@@ -10,4 +10,6 @@ export const howIGradeAnOrganisation = {
   related: ["all-about-alan-topic/getting-out-from-under-a-dependency"],
   settled:
     "A needs a structure that holds when the people change. B is strong with one reservation. C is no information either way. D is a cost I knowingly carry. F is get out whatever it costs.\n\nThe worst part sets the letter, however strong the rest are.\n\nIt grades one product rather than a whole company, and a troubled industry sets the starting letter until company evidence moves it.\n\nWhere no exit exists at any price, the letter says what I would do and the plan becomes staying small and watching.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

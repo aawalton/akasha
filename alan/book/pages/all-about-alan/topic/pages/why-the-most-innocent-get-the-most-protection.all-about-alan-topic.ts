@@ -9,4 +9,6 @@ export const whyTheMostInnocentGetTheMostProtection = {
   parents: ["all-about-alan-topic/the-formula-that-prices-a-harm"],
   settled:
     "A less empowered being has a smaller agency over the same harm, so an identical injury comes out at a larger cost. A newborn has fewer paths to its own cessation than an adult does.\n\nSo the framework protects the most innocent the most strongly. That is the thing that makes consent weighting mean anything at all.\n\nSolidarity stays safe. A rescuer's causal attribution sits in the victim's denominator, but it only reshapes how whatever harm is left over gets weighted, and a rescue that worked leaves little left to weight. Benevolence is never penalised.",
+  createdAt: "2026-09-21T20:13:30.823Z",
+  updatedAt: "2026-09-21T20:13:34.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whoseNeedTheFixServes = {
   ],
   settled:
     "This is easy to misread as something I am building for myself. It is not. The sex itself returns about a tenth of the benefit for me, so if I were the only one in the equation I would forsake it. It is not just me.\n\nJen has clearly expressed that this is a need, and her stated need is a fixed input to the problem. My own needs are not what is being maximised. They are the compatibility constraint I solve inside.\n\nCuddling at the changeover is the shape that satisfies both at once. It meets her need while staying within what I can afford.\n\nI care about meeting Jen's needs, in my own non-standard sense of the word. My conceptual map has returned the verdict that her needs warrant my attention, with no felt pull behind it.",
+  createdAt: "2026-09-21T20:27:49.882Z",
+  updatedAt: "2026-09-21T20:27:53.000Z",
 } as const satisfies AllAboutAlanTopic

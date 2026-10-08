@@ -13,4 +13,6 @@ export const whyPlayIsMedicineICannotReachFor = {
   ],
   settled:
     "Play is one of the most effective things I have for healing my nervous system. It is enormously useful, and that is no exception to my rule that a thing has to be useful. It is the one way through that rule.\n\nThe benefit only arrives while I am doing the thing as the thing. The instant I reach for the healing, the for flips, the purpose takes the room, and the yield stops. I cannot pull the benefit toward me. I can only do the thing and let the benefit happen behind my back.\n\nTwo decades of demoting every activity to a means is the scar tissue sitting in that doorway. I am not waiting for it to clear. I am filing away at it deliberately, because the thing with the highest healing yield is held shut by the exact reflex it would heal.",
+  createdAt: "2026-09-21T20:22:04.211Z",
+  updatedAt: "2026-09-21T20:22:25.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const sharingABed = {
   related: ["all-about-alan-topic/sex"],
   settled:
     "I moved out of the shared bedroom to get the sleep, and that split most nights into two places in two blocks.\n\nJen and I ran an experiment of me back in the bedroom under a rule that I slept nowhere else once the sun was down. That rule has gone. Now I sleep in the bedroom if I can afford to, which is safety two and above.\n\nIn a shared room I isolate my own sensory night: earbuds with white noise, the Nuropod, and a cooling eye mask.\n\nI almost always fall asleep two to four hours before Jen does.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-22T18:13:16.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const gettingOffAnthropic = {
   ],
   settled:
     "Of the load-bearing dependencies I grade D, this one is first. It multiplies every other skill I have, the grade fell from B to D this year, and running open weights on my own machine has become genuinely possible.\n\nWhen I made the plan I held four Max subscriptions at two hundred and fifteen dollars a month each. Eight hundred and sixty a month, ten thousand three hundred and twenty a year. That is the budget the hardware comes out of, at roughly a twelve-month breakeven.\n\nWaiting is the right move while I am blocked. A smaller machine or another D-grade provider leaves me on a D. Switching costs are real and I would pay them twice. And a D is tolerable when the plan needs it. I see the problem and I am consciously accepting the cost of staying until the right move is available.",
+  createdAt: "2026-09-21T21:53:48.685Z",
+  updatedAt: "2026-09-21T21:53:52.000Z",
 } as const satisfies AllAboutAlanTopic

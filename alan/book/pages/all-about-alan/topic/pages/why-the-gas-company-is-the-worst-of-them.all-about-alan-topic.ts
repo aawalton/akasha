@@ -9,4 +9,6 @@ export const whyTheGasCompanyIsTheWorstOfThem = {
   parents: ["all-about-alan-topic/the-utilities-we-run-on"],
   settled:
     "Nothing Dominion has done in particular put it at D. Its shape did.\n\nIt is publicly traded, so the profit pressure comes with the form. It is a regulated monopoly, and one of those sits inside a captured relationship with its regulator by default. Its supply side is the fossil fuel trade.\n\nOf our three billing relationships for the house it is the only one below C, and the only one that lives entirely in a private corporate structure. The contrast tells me something.\n\nHeating and hot water rest on it as things are now. Gas cooking would be the residue even after a heat pump.",
+  createdAt: "2026-09-21T20:16:45.107Z",
+  updatedAt: "2026-09-21T20:16:55.000Z",
 } as const satisfies AllAboutAlanTopic

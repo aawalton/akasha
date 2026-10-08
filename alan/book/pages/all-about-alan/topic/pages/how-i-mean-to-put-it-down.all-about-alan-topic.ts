@@ -10,4 +10,6 @@ export const howIMeanToPutItDown = {
   related: ["all-about-alan-topic/rules-instead-of-a-brake", "all-about-alan-topic/my-faith"],
   settled:
     "On the religious count and on the health count both, I believe my life would be better if pornography and masturbation were not part of it at all.\n\nThe rule is exact. I get there by living a life where I do not need it and do not want it. Not by force.\n\nIf the behaviour is a brace under safety, taking the brace away while the load is still on it only guarantees it comes back. Three year-long quits already showed me that.\n\nThe durable way is to raise the funded safety level until the brace is carrying nothing, and then it falls away on its own.\n\nMy rules take priority, even here.",
+  createdAt: "2026-09-21T20:11:23.496Z",
+  updatedAt: "2026-09-21T20:12:18.000Z",
 } as const satisfies AllAboutAlanTopic

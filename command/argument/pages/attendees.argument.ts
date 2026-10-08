@@ -8,4 +8,6 @@ export const attendees = {
   takes: "who attends, parted by commas",
   value: "text",
   placeholder: "emails",
+  createdAt: "2026-09-12T08:59:40.067Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

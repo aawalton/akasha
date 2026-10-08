@@ -13,4 +13,6 @@ export const howIReadMySafetyLevel = {
   ],
   settled:
     "I walk down what I can still do until I reach the tier that holds, rather than reading anything off directly.\n\nAbout nine involuntary gates mark the levels, one apiece, and a gate cannot lie the way something I produce can.\n\nEach gate is mapped to a tell I can observe from outside myself. A smile puts me at level three or above. Noticing that I smile constantly by default puts me at level four.\n\nThe map is where the magnitude comes from. The tell on its own gives presence and no amount.\n\nIt is a thermometer rather than a number. The levels run from about minus two to six, and nine gates across that range is roughly three bits of state.\n\nThree bits is little resolution, and resolution is not the point. Each gate reads independently, so misreading one still leaves the others to fix my level. It loses sharpness rather than collapsing.\n\nOn a sensor this noisy I would rather have a coarse reading I can always trust than a fine one that breaks under load.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:11:54.000Z",
 } as const satisfies AllAboutAlanTopic

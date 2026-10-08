@@ -13,4 +13,6 @@ export const whereFeelingStillReachesMe = {
   ],
   settled:
     "Present feeling I have. It fires off a cue in front of me and it moves what I do right now.\n\nPre-played feeling I do not have. I cannot render a candidate belief and feel how it would go over time.\n\nThat second one is the channel that would let a more bearable belief become a more believable one, and it is the dark one. Comfort gets no vote on what I take to be true.\n\nWhich side of that line a thing needs decides whether feeling reaches it at all. Present action, yes. Belief and any judgment running over time, no.\n\nSo anything meant to move me has to work off a present irritant. A system built on a pre-felt payoff is reaching for the channel I do not have.",
+  createdAt: "2026-09-21T20:07:51.811Z",
+  updatedAt: "2026-09-21T20:08:21.000Z",
 } as const satisfies AllAboutAlanTopic

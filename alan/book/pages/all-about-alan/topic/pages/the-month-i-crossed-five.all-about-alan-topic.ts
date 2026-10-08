@@ -13,4 +13,6 @@ export const theMonthICrossedFive = {
   ],
   settled:
     "A few days at level five, all of them in May 2026, were my first in a long time.\n\nNothing event-shaped put me there. It was real baseline recovery from running a capacity surplus consistently for months, compounding into a higher baseline.\n\nThe peak then funded a crisis. Crossing five is what started the turn outward, and the turn outward consumed the rest of the month. Recovery made the capacity to look outward, and looking outward made the load.\n\nWhat followed was a full crash from above five to minus two, the price of turning outward ungoverned rather than any gentle decline.\n\nI was hopeful about July, at least four to five and possibly above five, on the grounds that I had learned to avoid the triggers I hit in May. Crash survived, level reclimbed, trigger named.",
+  createdAt: "2026-09-21T20:11:28.536Z",
+  updatedAt: "2026-09-21T20:11:32.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const whatMyLoveIsBuiltOutOf = {
   related: ["all-about-alan-topic/what-holds-my-marriage"],
   settled:
     "My definition of the word care is likely non-standard. Care means my conceptual map evaluates that something is a thing I should pay attention to, or should do, without any dependence on emotion. A verdict rather than a feeling I am in.\n\nFamiliarity, usefulness and commitment. Commitment is the strongest, and it does what attachment would.\n\nFamiliarity pays twice. Each good experience makes a person cheaper for my nervous system to be near, and improves my model of them. It is recomputed from the present rather than a warmth carried forward.\n\nNothing in me starts the caring, so it is assembled and run each time, sparse and costly.\n\nWithout a commitment a relationship continues only while the other person drives it. An explicit commitment pre-closes the question of whether this should continue, so the exit never surfaces, the same way I carry any load while no other way out is open.\n\nConnection with nothing useful in it does not meet me back, and I do not know why.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:49:08.000Z",
 } as const satisfies AllAboutAlanTopic

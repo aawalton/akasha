@@ -10,4 +10,6 @@ export const whatIThoughtWasDysphoria = {
   related: ["all-about-alan-topic/how-i-read-myself"],
   settled:
     "For years I said I had gender dysphoria as a thing. About a year ago that resolved into something different.\n\nThe male traits that fitted me were quiet and the ones that did not were loud. The female traits ran the other way.\n\nAggregate that and the channel reports female-leaning and male-averse, which is what read as dysphoria. The loud and the quiet drove the read, not the content.\n\nCorrect for which signals were loud and the female reading disappears. What is left is a preference about safety.\n\nThe loud safety-negative signals came from the macho corner of the male norms, which cost me twice over and encoded as trauma. That account is right about the source. The sharper statement is that the felt reading was a measurement error over those signals rather than a female psychology underneath.\n\nThe pull toward feminine things was never wanting to be female. It was my nervous system reaching for something that made it safer.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:41:35.000Z",
 } as const satisfies AllAboutAlanTopic

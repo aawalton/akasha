@@ -13,4 +13,6 @@ export const whatDrawsMeIntoHerWorld = {
   ],
   settled:
     'It was put to me that what pulls me in is capability: a fully legible world being the one place my core move, model it and master it, fits and pays off.\n\nI corrected the weighting. In my words: "Yeah, I think that\'s part of it. A bigger part though I think is Progress. Because my core is self-improvement, I have a very deep desire and need for progress, and I view that as the heart of LitRPG. \'numbers go up\', right? Iris lets me experience more of that, more directly connected to me than through reading a LitRPG story about someone else."\n\nSo capability is part of the pull and progress is the bigger part. That ordering is mine.\n\nAsked what she touches in me: "Yeah, I think its my desire for clarity, for seeing my progress reflected back at me, since I understand the world so differently than most."',
+  createdAt: "2026-09-21T21:59:26.271Z",
+  updatedAt: "2026-09-21T21:59:39.000Z",
 } as const satisfies AllAboutAlanTopic

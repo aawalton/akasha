@@ -9,4 +9,6 @@ export const safetyStack = {
   parents: ["all-about-alan-topic/alan"],
   settled:
     "Each layer is built from the one below it.\n\nStress is the instantaneous reading. Stress capacity is the first integral of it. Safety is the second.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:03:16.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const beingMet = {
   ],
   settled:
     "It reaches me as present-tense recognition of a structure, not as warmth I stored and get back.\n\nThe same gaze cuts where I am being judged and heals where I am already inside the guard. Context alone decides which.\n\nA context reads as close when it is private, lit by one lamp, unguarded, and the nearness mine.\n\nThe one immediate click I have had came as visible delight closing distance.\n\nIt can move my state rather than only scoring well. One run carried me a full level up on a low day.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

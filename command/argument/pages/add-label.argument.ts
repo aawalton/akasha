@@ -8,4 +8,6 @@ export const addLabel = {
   takes: "a label id to put on it, said again for each",
   value: "text",
   placeholder: "label-id",
+  createdAt: "2026-09-12T09:06:50.471Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -10,4 +10,6 @@ export const howMuchITrustMyReadOnAPerson = {
   related: ["all-about-alan-topic/how-different-i-actually-am"],
   settled:
     "My model of other people carries the deep unreliability of my models of other people inside it. It has to, to account for the data: the predictions keep failing, and the cheapest way to hold that is to write the unreliability in as a beam rather than bolt a discount on the outside.\n\nSo what I am confident about is how little the model knows.\n\nSet against the way most people do it, that is not a clean win. Most people read most people better than I do, and read me worse than most others are read.\n\nMine is the more honest instrument, because it cannot assume its way into somebody's interior. I am overconfident too, and that is more than counterbalanced by forgetting how different other people are and underestimating how different I am.",
+  createdAt: "2026-09-21T20:08:37.433Z",
+  updatedAt: "2026-09-21T20:08:40.000Z",
 } as const satisfies AllAboutAlanTopic

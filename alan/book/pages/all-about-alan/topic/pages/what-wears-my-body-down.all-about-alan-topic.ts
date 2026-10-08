@@ -10,4 +10,6 @@ export const whatWearsMyBodyDown = {
   related: ["all-about-alan-topic/what-limits-me", "all-about-alan-topic/what-calms-me-down"],
   settled:
     "It is the cumulative wear of carrying stress over time, the bottleneck everything else sits under, ahead of any one organ or diagnosis. It drains my health and degrades my safety, so lowering it and raising my capacity to clear it is what the whole recovery stack serves.\n\nI breathe eight to twelve hours a day. Nobody spends a third of their waking hours breathing on a count unless the thing it protects is what everything else depends on.\n\nI cannot feel the load at all, so I reason instead of reading. I enumerate the usual sources, sleep deficit, sensory overload, poor nutrition, deconditioning, threat, overwork, and address each until it stops limiting me. Whatever is left is most likely the biggest remaining one.\n\nThat only covers common sources. Something specific to me and off the list would not show up. Pre-sleep rumination is one candidate: it reflects stress already present and feeds back into the load by wrecking my sleep.\n\nEvery trip for ten years put me past capacity.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:45:02.000Z",
 } as const satisfies AllAboutAlanTopic

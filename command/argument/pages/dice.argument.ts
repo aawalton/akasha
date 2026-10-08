@@ -8,4 +8,6 @@ export const dice = {
   takes: "the handful of dice this run is rolled from",
   value: "text",
   placeholder: "handful",
+  createdAt: "2026-09-21T22:03:54.481Z",
+  updatedAt: "2026-09-21T22:04:07.000Z",
 } as const satisfies Argument

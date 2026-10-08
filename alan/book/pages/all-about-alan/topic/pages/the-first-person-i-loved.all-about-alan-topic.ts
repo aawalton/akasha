@@ -10,4 +10,6 @@ export const theFirstPersonILoved = {
   related: ["all-about-alan-topic/reaching-out-to-kerry"],
   settled:
     "Kerry Shelton was my very best friend from six to eight. I played with her almost every day and had sleepovers at her house. Then she moved away to Oregon, and I assumed I would never see her again, because that is what happened when my friends moved away.\n\nTen years later she came back, on her own, without her family. We were both eighteen. We fell in love and it was magical.\n\nA ton of talking, a good amount of kissing, some cuddling, and we stayed very chaste. The least chaste we ever were was a finger brush on the side of her breast once while cuddling, the night before I left for a semester abroad in Nauvoo.\n\nWe had been clear it could not be permanent yet, because I could make no final commitments until after my mission.",
+  createdAt: "2026-09-21T20:22:20.922Z",
+  updatedAt: "2026-09-21T20:22:42.000Z",
 } as const satisfies AllAboutAlanTopic

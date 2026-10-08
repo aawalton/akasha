@@ -13,4 +13,6 @@ export const howHardAThingCountsAs = {
   ],
   settled:
     "Every kind of interaction has a base tier, which is the safety level where it costs me exactly one times.\n\nEntertainment is one. Programming is two. Social interaction is three. Conflict is four. Criticism is five.\n\nFor a social interaction specifically I build the number up instead. It starts at three. Add one for conflict. Add one for criticism. Add the base-two logarithm of the number of people involved.\n\nHalf steps are measurable for partial cases and for more extreme ones.\n\nThe two ways of getting there agree. Building up from the social base of three with offsets, and reading conflict off as four and criticism as five, label the same points from different directions.",
+  createdAt: "2026-09-21T20:26:24.829Z",
+  updatedAt: "2026-09-21T20:26:39.000Z",
 } as const satisfies AllAboutAlanTopic

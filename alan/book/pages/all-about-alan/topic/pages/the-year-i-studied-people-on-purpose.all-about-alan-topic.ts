@@ -11,4 +11,6 @@ export const theYearIStudiedPeopleOnPurpose = {
   related: ["all-about-alan-topic/the-five-ways-something-becomes-automatic"],
   settled:
     "At fourteen I ran a deliberate conceptual investigation of the rules of social interaction, and it ran a year.\n\nThe wider way I built first contact started with observation of others, watching how social interaction worked before trying to run it. That year of study is one component of it.\n\nIt was a substitution rather than an extra. The route most people take social rules in by, picking them up while watching and never trying, is reduced in me. So I went at them explicitly and fitted what I found into what I already held.\n\nThat is the slower way in. A year of deliberate study against a childhood of incidental exposure.\n\nIt finishes higher. Rules arrived at explicitly are rules I can say out loud and can be shown wrong about, where rules absorbed without trying are neither.",
+  createdAt: "2026-09-21T22:04:16.638Z",
+  updatedAt: "2026-09-21T23:05:42.000Z",
 } as const satisfies AllAboutAlanTopic

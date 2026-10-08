@@ -9,4 +9,6 @@ export const thePlansIOverBuild = {
   parents: ["all-about-alan-topic/how-i-get-anything-done"],
   settled:
     "Without them I would lose objects, files and threads daily.\n\nThe habit is old enough that it reads as a strength from outside, and it read that way to me too.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

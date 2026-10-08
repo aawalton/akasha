@@ -13,4 +13,6 @@ export const theNineMonthsMyBodyBroke = {
   ],
   settled:
     "At twenty in Novosibirsk, in 2006 and 2007, my body flipped to shaking at rest. I read it as demonic opposition. I am embarrassed by it now, but at the time demonic possession was my best explanation: opposition to scare me off from doing something good.\n\nThat inverted the response: backing off would be letting evil win, so I pushed on nine months.\n\nThree in the training centre, which were not too bad, though the drop in autonomy was hard. Six in the field, three tracting and three street contacting, at a hundred people a day and more than ten thousand rejections.\n\nAt the end everything crossed a threshold at once: full-body shaking, migraines, severe stomach cramping, crippling social anxiety so I could not leave the apartment, all my joints swollen until walking was hard, constant exhaustion, and a sensory sensitivity I can see looking back but had no name for then.\n\nLeaving never made the menu. My needs did not count and I always had to meet what others expected.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:06:38.000Z",
 } as const satisfies AllAboutAlanTopic

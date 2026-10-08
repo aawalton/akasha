@@ -13,4 +13,6 @@ export const howMyMissionEnded = {
   ],
   settled:
     "The break did not end my mission, though I think many would have gone home. I got in touch with the mission president's wife, who coordinated health issues, and she connected me by phone to a church psychologist in Germany. He had me take a stress assessment and I scored at the 99th percentile. I literally could not have scored higher.\n\nI did not view leaving as a real option, so I went back to my belief that the only way out is through. I think that traced to my deeper beliefs at the time that my needs were not important and that I always had to meet the expectations of others.\n\nHe taught me the main systems of the body, how they integrate with the autonomic nervous system, and that breathing is the semi-voluntary bridge into it. That call, at twenty, when I could not leave the room, seeded the breathing practice that anchors hours of every day now.\n\nThree months in the training centre plus six in the field is the nine I overrode.",
+  createdAt: "2026-09-21T22:07:49.647Z",
+  updatedAt: "2026-09-21T22:07:53.000Z",
 } as const satisfies AllAboutAlanTopic

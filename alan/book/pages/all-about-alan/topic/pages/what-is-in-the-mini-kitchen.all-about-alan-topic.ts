@@ -10,4 +10,6 @@ export const whatIsInTheMiniKitchen = {
   related: ["all-about-alan-topic/how-a-good-thing-quietly-stops"],
   settled:
     "Just outside my room is a mini-kitchen I share with my son Joseph. His food sitting next to mine pulls at me not at all, and I ignore it cleanly.\n\nMine in there: fruit popsicles, which I go for when I am overheated, water bottles, applesauce pouches, and a bag of chocolate-covered strawberries I have not opened, because the seal is a wall I have not got over.\n\nOrgain plant-protein smoothies were a daily habit of mine for a long time. They died when creatine, the cue that fired them, was dropped.",
+  createdAt: "2026-09-21T20:17:57.527Z",
+  updatedAt: "2026-09-21T20:18:00.000Z",
 } as const satisfies AllAboutAlanTopic

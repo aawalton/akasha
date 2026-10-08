@@ -9,4 +9,6 @@ export const whyTheComputeIsAnEasyYes = {
   parents: ["all-about-alan-topic/what-i-spend-on-compute"],
   settled:
     "It is worth it today on the expertise alone, whether or not it ever produces income. The forecast does no work in the justification.\n\nI am doing a hundred production deploys a day by myself. A few years ago that would have taken a large company.\n\nSo I hold it as an education expense, and on that footing it is an easy yes.\n\nWhat I hope revenue buys is not the money. It is not having to negotiate this again.",
+  createdAt: "2026-09-21T20:00:43.767Z",
+  updatedAt: "2026-09-21T20:00:47.000Z",
 } as const satisfies AllAboutAlanTopic

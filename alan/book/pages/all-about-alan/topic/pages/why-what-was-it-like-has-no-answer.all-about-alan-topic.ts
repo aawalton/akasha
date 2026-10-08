@@ -10,4 +10,6 @@ export const whyWhatWasItLikeHasNoAnswer = {
   related: ["all-about-alan-topic/how-one-idea-leads-to-the-next"],
   settled:
     "I have a hard time understanding what other people are having when they say they remember something. Being back inside an event is as foreign to me as the present-only way would be to them.\n\nThey travel in both directions, back into episodes and forward into imagined futures. I do neither.\n\nSo asking what a past moment was like for me is not a hard question, it is a malformed one. It asks for a read of a stored episode and there is no episode.\n\nWhat works instead is present tense and structural. Not what was going on when I reached for it, but what is different about the two framings when I hold them up now.",
+  createdAt: "2026-09-21T20:19:09.863Z",
+  updatedAt: "2026-09-21T20:19:13.000Z",
 } as const satisfies AllAboutAlanTopic

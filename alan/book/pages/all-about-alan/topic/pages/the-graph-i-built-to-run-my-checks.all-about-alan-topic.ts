@@ -14,4 +14,6 @@ export const theGraphIBuiltToRunMyChecks = {
   ],
   settled:
     "At about a hundred checks, performance became the problem.\n\nI solved it by constructing a typed graph — nodes and edges, with node types and edge types.\n\nBasically all the checks are invariant predicates defined on that graph, and the conditions for which changes they should run on are also predicates on that graph.\n\nBuilding the graph once and using it many times solved the performance issue.\n\nI have not heard anyone else talk about that.",
+  createdAt: "2026-08-28T02:14:40.393Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

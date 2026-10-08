@@ -8,4 +8,6 @@ export const deviceId = {
   takes: "the Spotify device played on, rather than the active one",
   value: "text",
   placeholder: "id",
+  createdAt: "2026-09-12T08:33:54.580Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

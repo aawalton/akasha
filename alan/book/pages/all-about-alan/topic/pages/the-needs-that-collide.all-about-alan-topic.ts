@@ -13,4 +13,6 @@ export const theNeedsThatCollide = {
   ],
   settled:
     "It is not our ideals that clash. We both hold the same one, that our needs be met. What collides is the needs.\n\nI need to be understood and accepted. She needs to feel stable and loved.\n\nMy changed understanding of myself knocked both out at once. A partner part-way through a transformation is not stable by definition, and the change reaches how my love is built, so being loved wobbles too.\n\nIt did not quiet my own need either. It made a new self the old acceptance does not cover, and then closed the only route to getting that self accepted.\n\nThere is a thread of hope in her resistance being defence rather than a verdict. Defence is not fixed. If I learn to meet her needs well enough, the resistance may come down, and that is the one lever that moves the board.",
+  createdAt: "2026-09-21T20:11:34.685Z",
+  updatedAt: "2026-09-21T20:11:58.000Z",
 } as const satisfies AllAboutAlanTopic

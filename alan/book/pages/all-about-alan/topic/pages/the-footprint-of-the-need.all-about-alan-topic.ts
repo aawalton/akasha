@@ -13,4 +13,6 @@ export const theFootprintOfTheNeed = {
   ],
   settled:
     "I do not think being known is my mammalian social need. It is the clearest footprint of that need on the conceptual side of me, the side I have easy access to.\n\nThere is one need, old, running the same hardware any social mammal runs, outside my awareness. It throws two footprints. The conceptual one I can read, and only this year did it become something I could begin to feed. The physical and emotional one sits behind the aphantasia wall, where I cannot tell whether anything is landing.\n\nFeeding the readable footprint may or may not reach the need itself. I cannot see the far wall and I refuse to assume it does.\n\nWhat it reliably does is sharpen my explanations of myself, and those are the inputs to every intervention I aim at the physical side. So clarity is upstream of the body's work even where it never touches it.\n\nI will not stamp the need met because the part I can see is getting fed. The ledger stays open in the dark on purpose.",
+  createdAt: "2026-09-21T21:40:26.137Z",
+  updatedAt: "2026-09-21T21:40:55.000Z",
 } as const satisfies AllAboutAlanTopic

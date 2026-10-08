@@ -10,4 +10,6 @@ export const whoseSafetyTheMultiplierReads = {
   related: ["all-about-alan-topic/how-i-read-whether-someone-is-safe"],
   settled:
     "The multiplier scores the safety of the input: the particular signal, where it came from, and the context it arrives in. My background depletion was never in that term.\n\nA self-generated input is the safest there is. It is fully under my control, there is no unknown source, and there is nothing to screen. So it scores high however low I am sitting, which is why the lever still reaches minus one. It is not getting past a gate. It scores high on a multiplier that was always reading the input.\n\nThe same lens reads a refusal. When an incoming feminine cue gets rejected, it is the cue that scored low, as an unvetted outside source, rather than my background having tanked.\n\nI have never put this in these words. It is worked out from my own correction that what differs is the target rather than the gate, so it is the model's current reading rather than a thing I said.",
+  createdAt: "2026-09-21T20:04:23.041Z",
+  updatedAt: "2026-09-21T22:02:22.000Z",
 } as const satisfies AllAboutAlanTopic

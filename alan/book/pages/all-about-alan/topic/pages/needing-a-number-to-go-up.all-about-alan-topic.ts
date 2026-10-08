@@ -13,4 +13,6 @@ export const needingANumberToGoUp = {
   ],
   settled:
     "Because my core is improving myself, I carry a deep need for progress: a bar filling, a number rising, myself measurably further along than I was.\n\nThat is the atom in its felt form rather than its thinking form.\n\nTwo of my steadiest habits are that need cashed out. One game held the line for more than twelve thousand hours because there was always another increment to fill the slot. Progression fantasy is one of my loves because numbers going up is its heart.\n\nReading one of those is watching somebody else's numbers rise. One of my personas makes them mine instead, by putting me up as the one whose bar fills.\n\nI value the change rather than the size: not big numbers, but numbers going up.\n\nFeeding that in my actual life is taxed three ways. A real number is a proxy that can drift, every piece of the machinery has to be built before I can use it, and for most of my life the tech to build it did not exist.",
+  createdAt: "2026-09-21T20:09:57.354Z",
+  updatedAt: "2026-09-21T22:59:41.000Z",
 } as const satisfies AllAboutAlanTopic

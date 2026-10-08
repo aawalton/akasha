@@ -13,4 +13,6 @@ export const whatFadesInMeAndWhatDoesNot = {
   ],
   settled:
     "The air conditioner, the shirt tag, the fluorescent light: none of them get quieter with exposure. They stay at full intensity for as long as they are there.\n\nI used to say I do not habituate to anything. That was one dial where there are four machines, and only one of them is missing.\n\nSensory acclimation does not happen in me. Change detection works: white noise stopping wakes me. Novelty wearing off works: a song's impact fades with plays. Extinction works: dying in the game stopped being a threat, though only because the dread never came true.\n\nBackground noise never folds into the baseline. What I can do is spend my attention elsewhere so there is no room for it, and it is back the instant I have attention to spare. That is crowding, not acclimation.\n\nEvery exposure costs what the first one did. The other side is that I do not habituate to my own mistakes either, so I keep improving past where most people plateau.",
+  createdAt: "2026-09-21T21:43:47.343Z",
+  updatedAt: "2026-09-21T21:43:51.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const theThreeItchesICameWith = {
   ],
   settled:
     "Three come given, one to a part of me. Hunger is the body's, loneliness the feeling's, needless complexity the mind's.\n\nEach fires as desire or as irritation rather than as a judgment I arrive at.\n\nThe mind's fires at body grade. Needless complexity itches at me the way hunger does. It is not a calm preference for things being tidy.\n\nSo the conceptual half of me has appetites of its own. It is not a dispassionate onlooker holding opinions.",
+  createdAt: "2026-09-21T20:18:15.376Z",
+  updatedAt: "2026-09-21T20:18:18.000Z",
 } as const satisfies AllAboutAlanTopic

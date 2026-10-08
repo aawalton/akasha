@@ -10,4 +10,6 @@ export const thePrescriptionChainWithNoBackup = {
   related: ["all-about-alan-topic/the-five-of-us"],
   settled:
     "Two prescriptions, one prescriber, one pharmacy. My Vyvanse and Joseph's Guanfacine both go the same route, end to end, with nothing beside it.\n\nMine is a schedule two controlled substance, which makes the route itself something that can be denied to me.\n\nThe shortage across 2022 and 2023 is the worked example. Federal quotas, what the makers could produce, pharmacies refusing to fill, my prescriber not reachable when a refill came due, and the insurer wanting authorisation first. Several of those fired at once.\n\nWe keep a small store at home, enough to ride out a short interruption.\n\nThat covers the short tail and nothing else. The shape of the exposure is untouched by it.",
+  createdAt: "2026-09-21T20:23:21.685Z",
+  updatedAt: "2026-09-21T20:23:24.000Z",
 } as const satisfies AllAboutAlanTopic

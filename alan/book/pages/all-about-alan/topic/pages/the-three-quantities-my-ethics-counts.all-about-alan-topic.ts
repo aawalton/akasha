@@ -9,4 +9,6 @@ export const theThreeQuantitiesMyEthicsCounts = {
   parents: ["all-about-alan-topic/the-ethics-i-worked-out"],
   settled:
     "State value sits on a state of the world and is never negative. It is the whole realised value that state holds, and new life and existing life are fungible inside the one total.\n\nAction value is the change an action makes to that total, and it can be negative. It is the sum of what the action does to every individual it touches.\n\nSentience weight is a multiplier on one individual's own contributions, and it is neither of the other two.\n\nKeeping the three apart keeps how good the world is, how much an act changed it, and how much one individual counts from contaminating each other.\n\nThere is no species anywhere in it. Kind is not an abstraction I can defend, so the multiplier measures reachable affective potential directly on the individual. Nobody counts for less because of other individuals who merely resemble them.\n\nThe three are axiom three. Measuring on the individual is also what handles a continuous transition between kinds.",
+  createdAt: "2026-09-21T20:07:16.726Z",
+  updatedAt: "2026-09-21T22:03:54.000Z",
 } as const satisfies AllAboutAlanTopic

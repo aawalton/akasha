@@ -9,4 +9,6 @@ export const whereTheInformationDietStops = {
   parents: ["all-about-alan-topic/my-information-diet"],
   settled:
     "Not every category is discretionary. It is true of news, podcasts and social platforms for me. It is false of the reference I actually lean on: changes in law and money, medical research, the documentation for infrastructure I run. Each category gets judged on its own.\n\nDropping one is countercultural and that has a price. A relationship that rested on both of us knowing what is going on loses some of its texture when one side has stopped.\n\nBeing starved has its own cost. Some baseline is needed to take part as a citizen, to hold professional context, and to answer something unexpected.\n\nSo it is sparse by design rather than zero by default.\n\nAnd a category can come back. An election, a turn in my work, something happening to somebody's health. What I hold is a reading of now, not a promise about always.",
+  createdAt: "2026-09-21T20:28:26.457Z",
+  updatedAt: "2026-09-21T20:28:29.000Z",
 } as const satisfies AllAboutAlanTopic

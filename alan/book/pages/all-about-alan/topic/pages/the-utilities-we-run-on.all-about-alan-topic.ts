@@ -13,4 +13,6 @@ export const theUtilitiesWeRunOn = {
   ],
   settled:
     "Provo Power gives us grid electricity at C. Everything plugged into a wall rests on it: the backup heating and hot water, all the compute in the house, the fridge, and in time the car.\n\nProvo City gives us water and sewer at C. Water cannot be replaced at short notice, and sewer not without real building work.\n\nProvo City takes the rubbish and the recycling weekly at C. Private haulers exist, so that one is replaceable at a price.\n\nGoogle Fiber gives us symmetric gigabit at C. Everything of ours that touches the network runs through it, so an outage cascades a long way.\n\nDominion Energy gives us gas at D.\n\nC is what I expect of a municipal service. It is the government working as a utility, neither aligned with me nor against me. The reservation is that a municipal utility is only as good as the city behind it, and Utah's politics can change what municipal means.",
+  createdAt: "2026-09-21T20:16:31.491Z",
+  updatedAt: "2026-09-21T20:16:35.000Z",
 } as const satisfies AllAboutAlanTopic

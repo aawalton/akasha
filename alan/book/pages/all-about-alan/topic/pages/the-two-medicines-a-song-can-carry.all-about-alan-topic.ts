@@ -10,4 +10,6 @@ export const theTwoMedicinesASongCanCarry = {
   related: ["all-about-alan-topic/being-known", "all-about-alan-topic/singing-out-loud"],
   settled:
     "One channel carries two different medicines for the same loneliness, and I can tell which a song is delivering.\n\nOne is being seen by someone like me. Em Beihold is autistic, and I cannot sing Numb Little Bug all the way through without crying. She nailed my experience, reaching out and hoping against hope that other people feel the same. I lived that for twenty years.\n\nThe other is the felt sense of being cared for. Taylor Swift is definitely not autistic. I think I enjoy how she communicates the feeling of having someone who cares about you, which seems to be her single most common pattern.\n\nNot you are not alone in this, but someone is holding you.",
+  createdAt: "2026-09-21T21:43:57.536Z",
+  updatedAt: "2026-09-21T22:49:58.000Z",
 } as const satisfies AllAboutAlanTopic

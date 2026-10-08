@@ -10,4 +10,6 @@ export const whetherTheAlarmNeedsAPossibleWitness = {
   related: ["all-about-alan-topic/the-open-register", "all-about-alan-topic/being-autistic"],
   settled:
     "The fort settles that the wound is on making and not on playing. It does not settle the scope, because the room was public and I expected people.\n\nTwo readings fit. Either the alarm keys on the prospect of somebody landing on the output, in which case the model as written is right. Or the scar is context-independent, making is dangerous full stop, and it would fire in a truly private room too.\n\nOnly one test separates them: open making in a genuinely private, windowless space where nobody is expected. I have never run it.\n\nThe second reading has a mechanism of mine. I do not take in contextual nuance automatically, so my nervous system may have learned the rule far more generally than the data warranted: making is dangerous, rather than making that will be judged is dangerous.\n\nThe hits came one modality at a time, and then the charge bled into the fields beside each. So the footprint looks enormous and the real events under it are a short countable list.",
+  createdAt: "2026-09-21T21:38:09.581Z",
+  updatedAt: "2026-09-21T21:38:21.000Z",
 } as const satisfies AllAboutAlanTopic

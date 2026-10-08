@@ -10,4 +10,6 @@ export const theTwoCurvesThatFallTogether = {
   related: ["all-about-alan-topic/when-someone-gets-me-wrong"],
   settled:
     "The difficulty between me and a typical person is mutual rather than one-sided, and on my side it is also uneven: strong early, weak deep.\n\nMilton's double empathy is the name for the mutual half. What I am adding is the mechanism: my modelling of them fails outbound and their modelling of me fails inbound, so the channel loses signal at both ends at once.\n\nI rate my own first-contact skill at least as important as how well the other person can read me and adapt. The usual telling weights their side. I weight mine equally.\n\nTwo things fall at once as a relationship deepens, and they compound. Their best-behaviour script comes down as they get comfortable, and that script was a second safety contribution beyond my own skill. My own reach thins with closeness, whatever their script is doing.\n\nThe safe middle is safe because both are still near full strength: their script still up, my reach not yet thinned.",
+  createdAt: "2026-09-21T20:04:05.674Z",
+  updatedAt: "2026-09-21T22:09:22.000Z",
 } as const satisfies AllAboutAlanTopic

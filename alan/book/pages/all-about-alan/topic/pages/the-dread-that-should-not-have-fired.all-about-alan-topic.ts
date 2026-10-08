@@ -10,4 +10,6 @@ export const theDreadThatShouldNotHaveFired = {
   related: ["all-about-alan-topic/what-i-cannot-play-forward"],
   settled:
     "I have no anticipatory brake. With no forward simulator the dread that stops most people before they act is never generated in me, and I only feel a thing going wrong once it has landed.\n\nAt the fort I was shaking with threat before the activity was under way. The stress climbed through the setup and peaked as it finished, with no completed outcome yet to react to.\n\nSo whatever this alarm is, it does not run through the forward simulator. It fires ahead of the event, without pictures, in a mind that is supposed to be unable to pre-feel a downside.\n\nThat tension with the rest of what I know about myself stands.",
+  createdAt: "2026-09-21T21:37:47.181Z",
+  updatedAt: "2026-09-21T21:38:21.000Z",
 } as const satisfies AllAboutAlanTopic

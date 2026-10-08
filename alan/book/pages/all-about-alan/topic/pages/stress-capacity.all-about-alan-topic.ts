@@ -8,4 +8,6 @@ export const stressCapacity = {
   definition: "how much my body has left to handle what comes",
   parents: ["all-about-alan-topic/safety-stack"],
   related: ["all-about-alan-topic/health-bar"],
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

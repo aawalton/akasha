@@ -13,4 +13,6 @@ export const howHorninessReachesMe = {
   ],
   settled:
     "Horniness is a lot like hunger for me. Most of the time I do not feel it. When I do, I can ignore it and it usually goes away. I can forget that sex exists for months and not notice.\n\nThere is no clock bringing me back to it. Jen has a monthly cycle and I have nothing like one. A drive with no clock, carried on a signal I can ignore, does not organise my behaviour.\n\nThe channel can be firing and read as nothing, so feeling nothing here is not the ground truth.\n\nThat is the whole contrast. The desire whispers, and the regulation use is loud and load-bearing, because it pulls on safety rather than on sex.",
+  createdAt: "2026-09-21T20:09:39.587Z",
+  updatedAt: "2026-09-21T20:09:43.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const theDoorAFloorWouldNotLock = {
   ],
   settled:
     "The worked case is the involuntary elimination of a sentient being. The harm is the whole of their expected value, so the exponent is one. It is involuntary, so their agency over it runs toward nothing.\n\nA base harm divided by an agency going to zero, raised to the power of one, is astronomical.\n\nThe part that carries the argument is that the multiplier never enters that. The cost comes out astronomical whatever the being's sentience weight is.\n\nSo consent-weighting is what holds the eliminationist door shut, rather than any minimum worth. A value floor would guard a door already locked.",
+  createdAt: "2026-09-21T22:03:37.286Z",
+  updatedAt: "2026-09-21T22:03:40.000Z",
 } as const satisfies AllAboutAlanTopic

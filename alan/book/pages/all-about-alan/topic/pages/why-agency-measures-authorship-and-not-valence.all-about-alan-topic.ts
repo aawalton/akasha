@@ -9,4 +9,6 @@ export const whyAgencyMeasuresAuthorshipAndNotValence = {
   parents: ["all-about-alan-topic/how-much-of-a-harm-someone-authored"],
   settled:
     "I normalise by magnitude rather than by the signed total. Causal attributions are signed, and negative ones on a person's own stream are ordinary in any life that contains harm, from malicious agents, from antagonistic encounters, from opportunity cost crowding, and not only from what a person did to themselves. A signed total would not give a bounded fraction. A total of magnitudes does.\n\nThe consequence is that agency does not tell authoring your own flourishing apart from authoring your own ruin. Both come out high.\n\nThat is intended rather than a defect. Whether an outcome is good or bad belongs to the value calculation. Agency measures authorship and nothing else.",
+  createdAt: "2026-09-21T20:11:49.309Z",
+  updatedAt: "2026-09-21T20:12:06.000Z",
 } as const satisfies AllAboutAlanTopic

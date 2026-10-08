@@ -13,4 +13,6 @@ export const theDependenciesIStoppedSeeing = {
   ],
   settled:
     "One of these feels inescapable because the alternative is so expensive I have never seriously looked at it. It stops registering as a dependency and starts registering as how things are.\n\nThe property tax is the clearest. The others I can name: my citizenship and legal residence, which hold near-total say over where I can live and work. The legal system I operate under, which shapes contracts, property, employment, marriage and inheritance. The currency my savings and my income sit in, whose value one central bank sets. The electrical grid, which solar and a battery have made a real option again for the first time in decades. The financial system as a whole. And healthcare.\n\nThey belong on the list for two reasons. The alternatives are real even where they are brutal, and nothing gets weighed against anything until it is written down. And a jurisdiction that steadily gets worse for me is degrading in the same shape a company does, so the same test has to run on it.",
+  createdAt: "2026-09-21T20:23:56.033Z",
+  updatedAt: "2026-09-21T20:24:11.000Z",
 } as const satisfies AllAboutAlanTopic

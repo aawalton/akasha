@@ -9,4 +9,6 @@ export const whySeveritySitsInTheExponent = {
   parents: ["all-about-alan-topic/the-formula-that-prices-a-harm"],
   settled:
     "Severity sits in the exponent rather than in the base, so the rate at which the cost blows up as agency falls is itself set by severity. That makes it a family of functions rather than one, and the choice between a bounded rule and an unbounded one dissolves.\n\nA trivial harm to an innocent multiplies by roughly one, so it costs about its bare magnitude and stays tradeable against ordinary benefit. A small harm to an innocent does not outweigh unbounded good.\n\nA severe harm to an innocent divides by their agency outright, which is astronomical. Organ harvest and Omelas fail at the root rather than by a patch.\n\nAt full agency the multiplier is one, so a self-authored harm costs exactly its magnitude. Not forbidden, since the authorship is the victim's own, but scored as a real net negative, and unethical.\n\nNo infinity is ever reached. Agency is strictly positive for every sentient victim, so the cost is always finite and two non-consensual harms can always be compared.",
+  createdAt: "2026-09-21T20:13:19.853Z",
+  updatedAt: "2026-09-21T20:13:23.000Z",
 } as const satisfies AllAboutAlanTopic

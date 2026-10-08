@@ -13,4 +13,6 @@ export const whatLeavingWouldCost = {
   ],
   settled:
     "The separation is worked and is not catastrophic on my side. I sign over roughly ninety percent of the assets, about two million, to Jen and the children, and keep about two hundred thousand.\n\nThe children are provided for either way, and the household load Jen carries does not transfer to me.\n\nSo it is not true that I would be worse off if I left, in the way that would settle the question. If staying is right, it is right for some reason other than my own payoff.\n\nWhat decides the timing is reversibility. Staying for now can be undone. Leaving, with the assets and the family structure, cannot.\n\nSo I hold the reversible side until the one thing that can actually decide it arrives. The line I had ready if it came up in the sixteen days: I am not deciding this now, I am holding until the one thing that can actually decide it does.",
+  createdAt: "2026-09-21T20:24:02.617Z",
+  updatedAt: "2026-09-21T22:44:47.000Z",
 } as const satisfies AllAboutAlanTopic

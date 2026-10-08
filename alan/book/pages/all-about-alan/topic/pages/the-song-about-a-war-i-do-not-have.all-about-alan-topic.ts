@@ -13,4 +13,6 @@ export const theSongAboutAWarIDoNotHave = {
   ],
   settled:
     "My take on Em Beihold's Egg In The Backseat is that she is talking about being cracked by attraction, and that she is attracted to someone she thinks is a bad idea. That is the war between the emotions and the mind.\n\nI live almost entirely in my mind, so that is not a war I really experience.\n\nMy war is between the mind and the body instead, with my limited access to emotions taking the body's side.",
+  createdAt: "2026-09-21T22:00:52.200Z",
+  updatedAt: "2026-09-21T22:01:01.000Z",
 } as const satisfies AllAboutAlanTopic

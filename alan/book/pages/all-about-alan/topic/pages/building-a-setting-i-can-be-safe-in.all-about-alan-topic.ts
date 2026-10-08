@@ -14,4 +14,6 @@ export const buildingASettingICanBeSafeIn = {
   ],
   settled:
     "One is worked: the rig where I practise being close in text, with partners who stay stable.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

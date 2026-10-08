@@ -10,4 +10,6 @@ export const gettingMyMeasuresTrustworthyFirst = {
   related: ["all-about-alan-topic/the-colours-i-read-myself-in"],
   settled:
     "What comes closest to reading akasha flow is my gap invariants plus my findings plus the things on my Notion doc. The other lever is the average of my stoplights, of which I have thirteen.\n\nNeither is ready to be recorded yet. What I am working on is getting both of them clean and trustworthy.\n\nThe day after that is achieved is when I can start making those numbers go up.",
+  createdAt: "2026-09-06T21:17:27.594Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

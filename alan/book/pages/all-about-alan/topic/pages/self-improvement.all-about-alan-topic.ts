@@ -9,4 +9,6 @@ export const selfImprovement = {
   parents: ["all-about-alan-topic/alan"],
   settled:
     "It is a verb rather than a position, a heading rather than a place to stand.\n\nMy purpose is improving myself rather than improving my life, which puts it inside what I control.\n\nWhat I know is most of who I am. My sense of myself is my live map, as identity rather than as a tool.\n\nIt certifies itself and needs no warrant from outside. The only reason no belief of mine is exempt from revision is that this sits at the centre insisting they all keep improving, because a belief held as final is a belief that has stopped.\n\nCompression is the instrument. This is what the instrument is for.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:03:18.000Z",
 } as const satisfies AllAboutAlanTopic

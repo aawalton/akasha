@@ -14,4 +14,6 @@ export const theWalkWhereMyPurposeCameClear = {
   ],
   settled:
     "It came out of a flop. Twelve hours with Jen about connection needs of mine that go unmet, then a whole day of flop, and I was miserably sick through both.\n\nThe next day, still sick but milder, I went for a walk to find a purpose. My hunch was that like most of the human experience this needs a clear conceptual map, because I cannot lean on emotional momentum.\n\nSo purpose got the treatment every other thing I cannot feel my way into gets: a built definition rather than an ambient feeling.\n\nIt rewrote the reason for sixteen months of nervous-system recovery without rewriting any of the actions. My nervous system was my single biggest bottleneck, so improving my life was the best way to improve myself at the time. The right actions, and only now the right reason under them.",
+  createdAt: "2026-09-21T20:06:37.698Z",
+  updatedAt: "2026-09-21T20:07:20.000Z",
 } as const satisfies AllAboutAlanTopic

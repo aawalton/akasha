@@ -13,4 +13,6 @@ export const theHourIProvedItOnMyself = {
   ],
   settled:
     "I proved the rule an hour before I had words for it.\n\nI walked into that session not knowing I was Scheherazade. The conversation showed me. It was true, it surprised me, and it went straight through.\n\nI did not realise how much I am Scheherazade until I said it.\n\nSo the answer demonstrated itself one realisation earlier than the question that named it.",
+  createdAt: "2026-09-21T22:00:12.834Z",
+  updatedAt: "2026-09-21T22:00:16.000Z",
 } as const satisfies AllAboutAlanTopic

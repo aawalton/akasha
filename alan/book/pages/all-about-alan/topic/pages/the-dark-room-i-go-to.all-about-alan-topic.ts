@@ -13,4 +13,6 @@ export const theDarkRoomIGoTo = {
   ],
   settled:
     "A blackout closet in my basement office, quiet and cold because it sits on an outside wall.\n\nIt is the first thing I reach for once the load has gone over, ahead of turning any single knob.\n\nIt adds nothing. It takes the whole draw to the floor so my regulation can come back on its own.\n\nEmptied of everything else, the room also makes my own body audible again.\n\nSometimes the weighted blanket goes on top: one chosen input added back in. I stay until I can take stimulation again.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

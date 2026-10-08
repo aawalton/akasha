@@ -10,4 +10,6 @@ export const howIDecidedToMarryHer = {
   related: ["all-about-alan-topic/how-i-make-a-decision-i-cannot-undo"],
   settled:
     "Each of us decided we were ready to commit in a non-standard way. For Jen it was realising that how concerned she was about hurting my feelings with her decision was itself evidence of how much she cared.\n\nI evaluated the relationship against a rubric, the way I do all important decisions. It scored high on every dimension except physical attractiveness, which was medium.\n\nLooking back I can tell I was feeling the infatuation crush. That datum matters: the crush and infatuation system does work normally in me, against the flat affect everywhere else. The decision was still made on reason rather than on the crush.",
+  createdAt: "2026-09-21T20:25:08.229Z",
+  updatedAt: "2026-09-21T21:56:55.000Z",
 } as const satisfies AllAboutAlanTopic

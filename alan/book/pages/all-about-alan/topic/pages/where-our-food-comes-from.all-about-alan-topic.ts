@@ -13,4 +13,6 @@ export const whereOurFoodComesFrom = {
   ],
   settled:
     "Costco is the household's main source of bulk and staples, and I grade it B. The reservations are that nobody independent tests the supplements they sell, and that being publicly traded leaves them open to capture. Those are what hold the grade at B rather than A.\n\nSmiths is where we go for what Costco does not carry, or does not carry in a household-sized quantity. It is a D, and the D comes from the category rather than from anything they did. It is replaceable with some friction.\n\nWalmart, mostly the grocery delivery, covers what neither of the others does, and takes over when I have no bandwidth to shop in person. Also a D.\n\nWe have no CSA, no farmers market, no direct producer and no specialty supplier. That is a gap rather than a decision.",
+  createdAt: "2026-09-21T20:08:23.665Z",
+  updatedAt: "2026-09-21T20:08:46.000Z",
 } as const satisfies AllAboutAlanTopic

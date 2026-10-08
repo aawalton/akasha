@@ -9,4 +9,6 @@ export const whatPullsMeIntoDoingSomething = {
   parents: ["all-about-alan-topic/how-i-decide"],
   settled:
     "One channel runs on how familiar and how new a thing is, and I only notice it afterwards.\n\nFamiliar alone or new alone is not enough. Both have to fire. Familiar lowers what my nervous system carries; new supplies the stimulation. Opposite drives, one output, and with both running I can work twelve hours a day.\n\nI notice it only afterwards because two things stack: I cannot re-experience a past state to compare against, and watching myself is one of the weak functions.\n\nThe other runs on importance, and it is the one I can use on purpose. Importance and mattering are one signal at two scales: importance decides the thing in front of me, mattering decides which abandoned things come back.\n\nThe two make different wants. The instinctive one is wanting to do the thing; the conceptual one is wanting it done.\n\nThe instinctive one wins when it fires, so I take urgency out of my surroundings rather than override it. Urgency is the only input I engineer out; novelty pulls productively.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:20:38.000Z",
 } as const satisfies AllAboutAlanTopic

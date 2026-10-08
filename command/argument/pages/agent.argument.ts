@@ -8,4 +8,6 @@ export const agent = {
   takes: "an agent to answer for, said once per agent",
   value: "text",
   placeholder: "agent-id",
+  createdAt: "2026-09-12T09:32:10.674Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

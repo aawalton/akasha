@@ -11,4 +11,6 @@ export const theOrgasmGapBetweenUs = {
   related: ["all-about-alan-topic/why-i-have-to-be-perfect"],
   settled:
     "I climax about ninety-eight percent of the time. Jen has a full climax less than five percent of the time. So I focus primarily on her needs during sex, knowing I will get there one way or another.\n\nFor a long time, when she did not reach climax, I took it as my fault and tried to do better. Eventually we learned that climax for her is simply not as intense most of the time, and that the full-intensity version is vanishingly rare. It was never a thing I was failing to produce.\n\nWe think part of that is tied to her weight being higher than she would like, around two hundred pounds. I try hard never to mention her weight. She is sensitive about it and it is socially sensitive in general, and sometimes I have been too open, and I am sure that has caused damage for her.",
+  createdAt: "2026-09-21T20:16:35.746Z",
+  updatedAt: "2026-09-21T20:16:39.000Z",
 } as const satisfies AllAboutAlanTopic

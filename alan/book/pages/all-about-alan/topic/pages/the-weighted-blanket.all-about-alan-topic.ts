@@ -9,4 +9,6 @@ export const theWeightedBlanket = {
   parents: ["all-about-alan-topic/sleep"],
   settled:
     "Off by default. I reach for it on a bad night rather than keeping it on the bed, and not on every bad night, only when my body reads as wanting pressure.\n\nWhen I do reach for it, it helps about half the time. It is the least reliable tool in my sensory kit.\n\nSome nights it goes on the legs only, some nights the whole body, by what the night asks for, and I often swap between the two partway through.\n\nComfortable on the legs, where on the chest it blocks my breathing. Legs do not carry the breathing and the chest does, which is the whole difference.\n\nIt works by stilling me and drawing heat off, so it helps when I am too hot rather than when I am cold. Grounding is not what it does. My tight clothes ground me. The blanket is a different tool in the same modality, so the two do not stack as more of the same thing.\n\nOver-weighting usually costs more than it gives, and going without costs almost nothing, which is why off is the right default.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:38:41.000Z",
 } as const satisfies AllAboutAlanTopic

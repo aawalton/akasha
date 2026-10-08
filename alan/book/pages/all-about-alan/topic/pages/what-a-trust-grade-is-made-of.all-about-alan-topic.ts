@@ -14,4 +14,6 @@ export const whatATrustGradeIsMadeOf = {
   ],
   settled:
     "Trust is composite, and the worst part sets the letter.\n\nFinancial resiliency is the likelihood they keep operating, adjusted for exposure to mortgages, commercial real estate, AI shadow-loan derivatives and other stability factors.\n\nEthics is their record, measured by the scale of complaints and of legal fines for unethical practice.\n\nPolitical ideology is a scale from Trumpist at nought to Enlightenment humanist at a hundred, a proxy for whether they will resist authoritarian pressure.\n\nOwnership structure matters and is not yet scored. Mutual, cooperative, purpose-trust or employee ownership lowers capture risk. Being publicly traded introduces it by default.\n\nI evaluate candidates with an AI research prompt scoring the first three from nought to a hundred, first run on the six largest US banks. It is a first draft. Scores do not yet map to a letter, so the letters are qualitative judgements, and worst-part-wins is how they work in practice rather than a written rule.",
+  createdAt: "2026-09-21T22:06:36.106Z",
+  updatedAt: "2026-09-21T22:06:39.000Z",
 } as const satisfies AllAboutAlanTopic

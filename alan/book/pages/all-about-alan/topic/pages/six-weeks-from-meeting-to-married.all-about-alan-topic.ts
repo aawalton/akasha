@@ -9,4 +9,6 @@ export const sixWeeksFromMeetingToMarried = {
   parents: ["all-about-alan-topic/how-i-got-to-jen"],
   settled:
     "I got home from Russia just after midnight, after more than thirty-six hours of travel, was released as a missionary at noon, and my parents drove me to George Wythe College in Cedar City, Utah, that same day.\n\nAfter an evening seminar my childhood best friend David Eggertsen, who had found me an apartment, was introducing me around. The first person to come up was a cute girl who said, hi, I am supposed to meet you. That was Jennifer Goff.\n\nFour weeks later we went on our first date. A week after that we were committed. Two days later we were engaged. Five days after that we were married. Six weeks from the day we met to the day we were married, engaged for five days of them.\n\nMy parents had dated a few months and were engaged only a week. Her parents dated a week and were engaged a few months. We took the short ends of both.",
+  createdAt: "2026-09-21T20:24:39.771Z",
+  updatedAt: "2026-09-21T22:26:05.000Z",
 } as const satisfies AllAboutAlanTopic

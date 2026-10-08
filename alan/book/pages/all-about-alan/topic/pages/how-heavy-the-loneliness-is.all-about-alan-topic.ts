@@ -13,4 +13,6 @@ export const howHeavyTheLonelinessIs = {
   ],
   settled:
     "It is real and it is manageable, measured against the last twenty years.\n\nIts weight is at least ten times lighter than the weight of having a job.\n\nRetirement did not shrink it. It took the ten-times-heavier load out from under it, and that is where the headroom came from.\n\nA cost that would have crushed me on top of employment is bearable on top of nothing. It is the largest thing I still carry and a tenth the size of the thing that just left.\n\nThat makes this a survivable equilibrium for roughly the first time in two decades.",
+  createdAt: "2026-09-21T20:03:14.887Z",
+  updatedAt: "2026-09-21T20:03:18.000Z",
 } as const satisfies AllAboutAlanTopic

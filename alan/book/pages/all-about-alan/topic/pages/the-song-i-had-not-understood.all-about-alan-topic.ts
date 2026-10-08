@@ -10,4 +10,6 @@ export const theSongIHadNotUnderstood = {
   related: ["all-about-alan-topic/the-two-medicines-a-song-can-carry"],
   settled:
     "A song I had heard over a dozen times, across twenty years of living with suicidal ideation, had its rescue buried just under the surface. I had never seen what it was about. Reading that layer once made it land far harder than it ever had.\n\nIt is landing harder this year for a recovery reason. This year I am finally starting to feel alive again.",
+  createdAt: "2026-09-21T22:49:36.287Z",
+  updatedAt: "2026-09-21T22:49:58.000Z",
 } as const satisfies AllAboutAlanTopic

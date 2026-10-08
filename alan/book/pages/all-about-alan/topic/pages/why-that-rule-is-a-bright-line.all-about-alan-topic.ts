@@ -13,4 +13,6 @@ export const whyThatRuleIsABrightLine = {
   ],
   settled:
     "It does not rest on my present self being worth more. On the ledger everyone weighs the same: future selves and strangers alike, and the present one among them.\n\nIt rests on two things that compound.\n\nThe first is that I cannot price these costs in the moment. I do not trust that estimate, so I set an absolute instead and take the imprecision of a blunt rule as the cheaper failure.\n\nThe second is that harm generally outlasts the self who agreed to it. A choice I make now that harms a later me harms him without his consent, and I have no standing to sign for him.\n\nNeither alone would force a hard rule. A trustworthy estimate could weigh even a terrible downside, and a mild downside would survive an untrustworthy estimate. It is the pair that makes a bright line the right instrument.\n\nIt is one of a family of absolutes I adopted on purpose, wherever that same pair turns up.",
+  createdAt: "2026-09-21T20:15:13.559Z",
+  updatedAt: "2026-09-21T20:16:05.000Z",
 } as const satisfies AllAboutAlanTopic

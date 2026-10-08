@@ -13,4 +13,6 @@ export const whatIDoWhenIAmPastBearing = {
   ],
   settled:
     "Meltdown and shutdown name what it looks like from outside. Underneath is fight, flight, freeze, fawn or flop.\n\nAll five are my nervous system pushed past what it can carry, taking extreme action to survive. They are more common to being human than most people accept. Everyone hits them under enough load. Autists carry a multiplier on the load, so we hit them more often in the world as it is.\n\nThe first four run hot, at minus one or worse, and in the moment I cannot tell them apart.\n\nFlop is the body giving up at minus two, and fires only where I see no way out at all. Half a dozen times in my life.\n\nA flop day swings rather than sitting flat, up when a way out looks possible and back down each time one fails.\n\nKnowing what is happening took the terror out of it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:29:16.000Z",
 } as const satisfies AllAboutAlanTopic

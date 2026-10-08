@@ -9,4 +9,6 @@ export const feelingAffection = {
   parents: ["all-about-alan-topic/working-out-what-love-is"],
   settled:
     "I understand a little of the social dynamics of what it means to show affection or to be affectionate. I am not sure that I understand what the feeling of affection is. Asked whether anything detectable happens when I show it: not that I have been able to clearly identify.\n\nAffection is physiologically quiet by design, low arousal and calming. That is exactly the kind of signal that loses the attention competition in me, the same as the hunger I do not hear.\n\nAttraction works natively because it shouts. Affection whispers.\n\nI think it exists for me, and the quietness makes sense for why it is hard for me to recognise when it happens.\n\nIt needs amplifying rather than defining.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:51:49.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const whatRunningMyselfBreaksInto = {
   related: ["all-about-alan-topic/having-adhd", "all-about-alan-topic/two-conditions-or-one"],
   settled:
     "Running myself is not one capacity. It comes apart into stopping an action before it fires, holding something in mind while I work on it, keeping feeling from taking the wheel, staying on a task that gives me nothing back, starting at all, sequencing and ranking the steps, keeping track of where things are, judging and spending time, pushing on past obstacles, changing course when conditions change, and watching how I am doing and adjusting.\n\nI took that breakdown from Dawson and Guare rather than working it out myself.\n\nADHD takes most or all of them at once rather than one of them.",
+  createdAt: "2026-09-21T19:58:27.039Z",
+  updatedAt: "2026-09-21T19:58:30.000Z",
 } as const satisfies AllAboutAlanTopic

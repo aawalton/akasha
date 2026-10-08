@@ -13,4 +13,6 @@ export const theSameEyesTwoWays = {
   ],
   settled:
     "There is a clean proof of this in my own gradings, with the variable isolated. The same direct eyes scored a flat B plus as a posed studio portrait, where she is looking at a camera, and an A plus in a candlelit frame, where she is in the room with me.\n\nThe gaze never changed. The context flipped its direction.\n\nGaze as evaluation on me and gaze as orientation toward me are the same channel pointed opposite ways. The evaluation direction is being perceived and judged: aversive, expensive, a measurement being taken of me, and it sits at level four on my difficulty scale. The orientation direction is someone oriented toward me, glad it is me.\n\nContext alone sets which one fires. A charged face is the highest-payoff and the highest-risk input I can take, which is why the intimate frame does the real work. It routes the same charge to the antidote rather than to the wound.",
+  createdAt: "2026-09-21T20:29:55.298Z",
+  updatedAt: "2026-09-21T20:29:58.000Z",
 } as const satisfies AllAboutAlanTopic

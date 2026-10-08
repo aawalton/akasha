@@ -13,4 +13,6 @@ export const whatMyBodyReadsOffABody = {
   ],
   settled:
     "It reads the body itself. Frame, jawline, facial and body hair. Male physiology reads as less safe, whatever the person's gender identity is.\n\nThis is its own alarm rather than a proxy for predicted behaviour. It fires on the body whether or not any behaviour is visible.\n\nThe proof of that is disagreement. A gentle, soft-spoken man with a heavy male frame does not resolve to one number. He trips the physiology alarm while his behaviour reads safe, and I register both.\n\nThe body predicts conduct better than a stated identity does. Trans women and homosexual men show sexual-appetite behaviour much closer to the median male than the median female. The estimator keys on the body because the body is what tracks the behaviour.",
+  createdAt: "2026-09-21T20:19:58.049Z",
+  updatedAt: "2026-09-21T20:20:01.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const whyDeathCostsWhatItDoes = {
   related: ["all-about-alan-topic/what-has-kept-me-here"],
   settled:
     "What an individual contributes to the total is the value they realise over time, allocated across outcomes by their own preferences and scaled by their sentience weight.\n\nExpected value is local to one universe and anchored forward. At a given moment it is what is already realised on the one actual past thread, plus the probability-weighted value over the threads branching ahead of it. It does not average over the siblings that diverged behind.\n\nA cost is not a separate ledger. A cost is a negative action value.\n\nSo killing someone costs the whole of their expected future value. The cost is the removal itself rather than a penalty added on top.\n\nA death and a life never lived are not symmetric. Death destroys value that would have been realised; never existing removes nothing. Existing is not a liability in my framework.\n\nThis is axiom four. Creating a life can still come out negative, where it lowers other existing or potential life's expected value by more than it adds.",
+  createdAt: "2026-09-21T20:07:47.587Z",
+  updatedAt: "2026-09-21T22:04:03.000Z",
 } as const satisfies AllAboutAlanTopic

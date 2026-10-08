@@ -9,4 +9,6 @@ export const whenWeNeedOppositeThings = {
   parents: ["all-about-alan-topic/living-with-jen"],
   settled:
     "Light steadies her and drains me. I defer to her by default and override only when I am really not doing well.\n\nThe cost is paid the whole time the arrangement runs, not once when we set it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

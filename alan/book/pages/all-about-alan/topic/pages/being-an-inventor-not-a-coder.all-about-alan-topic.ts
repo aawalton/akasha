@@ -14,4 +14,6 @@ export const beingAnInventorNotACoder = {
   ],
   settled:
     "I am an excellent coder, but that has never been my identity.\n\nI am an inventor and problem solver. Code is just a powerful way to stack abstractions.\n\nI loved the Moore method in math.\n\nOne of my proudest moments was inventing a novel algorithm for optimising The Game of Life, in an MS CS program I did for a while.\n\nI am doing the same thing now that I was a year ago, just with literally a hundred times more leverage than I had before.\n\nI invent when it is needed to permanently resolve a source of pain, rather than ahead of one.",
+  createdAt: "2026-08-28T01:56:28.899Z",
+  updatedAt: "2026-09-21T23:45:17.000Z",
 } as const satisfies AllAboutAlanTopic

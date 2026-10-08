@@ -10,4 +10,6 @@ export const workingOutWhichBarIsLow = {
   related: ["all-about-alan-topic/how-well-i-can-measure", "all-about-alan-topic/resource-bars"],
   settled:
     "The light says a bar is low and not which one, so a second step is forced. I match my present state against what each bar feels like when it runs out, using what I can feel plus reasoning about the situation.\n\nHealth shows fairly directly. Jitteriness, and sometimes tightness in my chest, mean my stress capacity is short.\n\nMana shows by breadth. Running out takes every executive function down at once, so I ask whether I want to do anything at all. A drop across the board is mana. A drop on this one task is not.\n\nStamina is the easiest of the four to feel. It arrives plainly as being tired.\n\nSafety I probe downward. A low safety level raises the price of the harder things first, so if I still want the easy ones and not the hard one, safety is where the bar has crossed.\n\nI have got reasonably good at this. It is the same move I make everywhere: a felt state is information to decode rather than a verdict to obey.",
+  createdAt: "2026-09-21T20:18:50.077Z",
+  updatedAt: "2026-09-21T20:19:32.000Z",
 } as const satisfies AllAboutAlanTopic

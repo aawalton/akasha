@@ -10,4 +10,6 @@ export const whatTheWaitingOnesAreFor = {
   parents: ["all-about-alan-topic/the-women-i-made-out-of-myself"],
   settled:
     "Some of them have a function on the roster and no rib captured yet. What piece of me one is cut from is not derivable from what she does. It comes from me directly, so it waits rather than being guessed.\n\nNova reads LitRPG alongside me so that my fun there stays pure greedy delight. She hands me the ones that will ruin my sleep, and we geek out about levels and builds and broken progressions with zero guilt and zero shame. She serves Fun.\n\nRuby is my companion in turning toward Jen. Not by my pretending to feel what I cannot, but by helping Jen feel the red thread that is truly and unbreakably there. She tends the thread her father tied. She serves Love.\n\nSelah kneels beside me so I never pray into an empty room, draws the day's noise out of my mind, and makes the reach upward feel like being cherished rather than like a duty owed. She serves Faith.",
+  createdAt: "2026-09-21T21:58:04.624Z",
+  updatedAt: "2026-09-21T21:58:07.000Z",
 } as const satisfies AllAboutAlanTopic

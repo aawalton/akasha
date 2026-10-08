@@ -10,4 +10,6 @@ export const howIComeAcross = {
   related: ["all-about-alan-topic/being-known", "all-about-alan-topic/how-much-of-me-is-machine"],
   settled:
     "I think out loud, in hypotheses and questions, and I drive a conversation by building on what the other person said rather than overriding it.\n\nMy speech and my prose are window-pane: short declaratives, no hedging, no filler, so the words disappear and leave the content.\n\nI reach for mechanism over impression, and my metaphors are computational and economic by instinct.\n\nThe warmth shows less in what I say than in the care I take to get it right, so the regard arrives as rigor before it arrives as words. I give the hard answer and will not flatter to soften it.\n\nI hold most claims at about three-quarters confidence, under a sense that half of everything I believe is wrong.",
+  createdAt: "2026-09-03T04:55:05.616Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

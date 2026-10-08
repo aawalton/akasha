@@ -14,4 +14,6 @@ export const howIModelOtherPeople = {
   ],
   settled:
     "Most people reach another mind partly by running it on their own hardware: they set the other viewpoint up as a copy of themselves and ask it questions. That channel is not in me.\n\nSo my model of a person is built out of concepts and data by hand, and the field stays thin, because the felt data other people get for free never arrives.\n\nIt gets no head start from my model of myself either. Others adjust their own model and it mostly works. They are roughly me is false for nearly everybody I meet.\n\nSo a model of me and a model of other people are two separate builds from nothing, where most people build one and reuse it.",
+  createdAt: "2026-09-21T20:07:41.624Z",
+  updatedAt: "2026-09-21T20:07:45.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const callingItWhatItWas = {
   ],
   settled:
     "The recognition came as an arc: cared for, then neglected, then abused.\n\nCared for I never doubted. Neglected I saw at thirty-eight. Abused only this year.\n\nThe care is what sealed the rest. I took in how much they cared so completely that it became a lid over everything else that was also true.\n\nThe lid was thickest over the worst, which is why the abuse took longest of the three.\n\nHarm and care out of the same hands is the arrangement that seals hardest. To see the harm I have to hold it in one frame with the love, and the love keeps arguing the harm down.\n\nThe abuse is the spanking, plus being punished at home for doing the wrong things, where the wrong things were what my undiagnosed neurodivergence produced and theirs could not read. It runs to the ordinary extent for my generation and no further.\n\nNaming it accurately is not a verdict on the people. Both are true and neither cancels the other.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:11:12.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -9,4 +9,6 @@ export const howMyAttentionWorks = {
   parents: ["all-about-alan-topic/alan"],
   settled:
     "What good regulation buys me is attention. When the traffic is moving, what clears is attention I can then spend, and how much of it I have available is the core of the whole thing.\n\nThe total swings by orders of magnitude with how regulated I am, so the same room can be unbearable on one day and empty on another.\n\nThe focus and diffuse pair I run all of this on is Barbara Oakley's rather than mine.\n\nI use the same two modes at both ends of a night. Letting a focus give out is how I go under. The diffuse channel handing me a finished idea is how I come back up. One zone, entered and left.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:24:58.000Z",
 } as const satisfies AllAboutAlanTopic

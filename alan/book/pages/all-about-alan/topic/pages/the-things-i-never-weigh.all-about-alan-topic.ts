@@ -13,4 +13,6 @@ export const theThingsINeverWeigh = {
   ],
   settled:
     "Some obligations never reach the sums. They are filed as must, and the sums run on what is left.\n\nThe filing came from family, church, culture and who I take myself to be. Nobody chose it, so it stopped looking like a filing.\n\nNo amount of better budgeting reaches a thing filed that way. Every technique for managing my time works inside the sums, and none can move a thing in or out of them. The filing has to open first.\n\nI open one by saying it aloud: I treat this as a must because. Where the because is I always have, it moves.\n\nAsking to be released from my church calling is the case. Once it opened, the sums cut it.\n\nThe scope is wide. Anything expensive that has been the way things are for years is a candidate. Employment was filed that way for most of my adult life, and the filing had to open before stopping was even thinkable.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:09:17.000Z",
 } as const satisfies AllAboutAlanTopic

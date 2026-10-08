@@ -13,4 +13,6 @@ export const whatMyRecordGivesMeBack = {
   ],
   settled:
     "I have no experiential memory or imagination at all.\n\nI cannot remember the specifics of each revolution, except the ones that are actively dissonant because they are not done yet.\n\nI cannot get the memory back from reading my record.\n\nI can get back the fact of what I did, which can be nice.",
+  createdAt: "2026-08-28T02:14:40.398Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

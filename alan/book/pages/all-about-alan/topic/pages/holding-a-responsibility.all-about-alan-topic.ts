@@ -10,4 +10,6 @@ export const holdingAResponsibility = {
   related: ["all-about-alan-topic/playing-again", "all-about-alan-topic/how-i-get-anything-done"],
   settled:
     "It flattens everything until it clears, and nothing under it can be enjoyed for itself.\n\nFinishing is not what frees me. What does is having no step I could take right now, with the thing far from done.\n\nI can only rest past the gate: in the foyer I could still be at security, and if the plane is boarding I have to be on it first.\n\nThree ways out: take the step, park it somewhere I trust to raise it again, or decide it is not mine.\n\nOnly those three, because I hold one model at a time and keep no experiential memory. There is no store inside me to put a step down into, so letting an unparked one out of the slot risks losing it outright. Each of the three is what makes it safe to leave.\n\nA thing that never runs out of steps never lets go. A company was the worst case, a special kind of hell.\n\nThat is why I am not allowed to take responsibility for things any more. An open-ended one has no moment where nothing can be done, so it can never release me.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:20:51.000Z",
 } as const satisfies AllAboutAlanTopic

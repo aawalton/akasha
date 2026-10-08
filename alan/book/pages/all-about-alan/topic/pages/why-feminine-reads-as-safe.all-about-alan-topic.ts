@@ -15,4 +15,6 @@ export const whyFeminineReadsAsSafe = {
   ],
   settled:
     "Two things compound. The macho cues are absent: no looming size, no loudness, no aggression posture, no conflict as the default. And attunement is present: people-sensing, accommodating talk, lower-conflict scripts. Either alone raises my safety, and both fire when a woman is the source.\n\nOver years of exposure the response conditioned in. It is conditioned on the cues, anchored to their most common source.\n\nThe root is the childhood setting that people are not safe. Softness, kindness, care and the absence of threat are exactly the cues that mark a person as not in that category, so the norms a culture codes as feminine got coded in me as safe.\n\nSo the softness pull is a reach for safety. It would ordinarily read as an identity pull or a sex drive, and on this channel it is neither.\n\nThis is the safety channel of attraction and not the whole of it. Directness carries a separate signal this lever does not account for.",
+  createdAt: "2026-09-21T21:38:42.012Z",
+  updatedAt: "2026-09-21T21:38:45.000Z",
 } as const satisfies AllAboutAlanTopic

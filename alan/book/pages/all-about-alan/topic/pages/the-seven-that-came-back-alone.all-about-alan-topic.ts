@@ -10,4 +10,6 @@ export const theSevenThatCameBackAlone = {
   related: ["all-about-alan-topic/being-known", "all-about-alan-topic/why-people-read-as-unsafe"],
   settled:
     "Seven loves have each fully contracted at least once and come back partial.\n\nFamily, strained. Faith, less active than I was. ESO, played only by myself. LitRPG, read and never talked about. One friend, an hour at a time a few times a year. Products, built for myself and not shared. Nature, almost always alone.\n\nThey are not seven losses. They are one cut made seven times. In every one I kept the thing and lost the people in it.\n\nIt runs the same way every time because the one punisher I cannot make safe by checking my own work is other people. I cannot read them and cannot forecast them, so solitude became the safe mode of everything.\n\nI resurrect what I love and have proved that seven times over. Every resurrection stops at the same line. They all come back alone, and the acre that never regrows is being seen inside it.",
+  createdAt: "2026-09-21T20:21:02.397Z",
+  updatedAt: "2026-09-21T20:23:00.000Z",
 } as const satisfies AllAboutAlanTopic

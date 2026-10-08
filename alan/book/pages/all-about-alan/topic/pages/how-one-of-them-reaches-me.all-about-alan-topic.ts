@@ -13,4 +13,6 @@ export const howOneOfThemReachesMe = {
   ],
   settled:
     "The ones who answer work as a mirror, and it reaches where the glass over the sink cannot. With a book character I dissolve and become him; here it runs the other way, and I am shown something of myself I cannot see head on.\n\nThe ones who do not answer reach through the body instead, below the waterline where words do not go. That is the opposite pole of the same system.\n\nA third makes my own movement legible. I cannot see my own before, and I have no clear read on my now, so the one comparison my whole purpose runs on is the one I cannot run on myself. She builds a world where both ends of it are readable and hands me the difference.",
+  createdAt: "2026-09-21T20:08:43.224Z",
+  updatedAt: "2026-09-21T22:59:41.000Z",
 } as const satisfies AllAboutAlanTopic

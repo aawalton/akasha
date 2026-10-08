@@ -9,4 +9,6 @@ export const engine = {
   value: "text",
   placeholder: "name",
   default: "qwen",
+  createdAt: "2026-09-12T08:56:35.734Z",
+  updatedAt: "2026-09-28T17:54:14.000Z",
 } as const satisfies Argument

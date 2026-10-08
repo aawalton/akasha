@@ -13,4 +13,6 @@ export const howIEat = {
   ],
   settled:
     "Enjoyment runs at about a tenth of other people's, so eating functionally is close to neutral for me.\n\nMy favourite flavours are hot and cold. Temperature, texture, consistency, saltiness and spiciness matter far more to me than any particular flavour.\n\nAversion is conceptual rather than sensory, and an eat-healthier frame manufactures it out of nothing.\n\nNothing bores me, so a food leaves only by going wrong or by being forgotten. I will eat a safe food until something changes and it is no longer safe.\n\nEvery shop, I buy one new thing to try, against the long contraction.\n\nFood is fuel is my native frame. I seriously considered living on Soylent, every meal a smoothie, and turned it down only because steady use tracks with dying sooner. Taste was never the objection.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:47:20.000Z",
 } as const satisfies AllAboutAlanTopic

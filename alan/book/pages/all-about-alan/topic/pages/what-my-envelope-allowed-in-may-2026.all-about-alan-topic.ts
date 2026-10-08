@@ -10,4 +10,6 @@ export const whatMyEnvelopeAllowedInMay2026 = {
   related: ["all-about-alan-topic/how-hard-a-thing-counts-as"],
   settled:
     "On 11 May 2026 my baseline read a mean of 4.5 with a one-sigma band of four to five. Run against the difficulty tiers, that gave the envelope below.\n\nAt the mean, entertainment at one, programming at two and social interaction at three were all free. Conflict at four was bearable. Criticism at five was past bearing.\n\nStarting something once typically capped at difficulty 3.5, and reached 4.0 in a moment a sigma above the mean. Committing to something recurring capped at 3.0, because the low end of the band was four.\n\nIn a moment two sigma down, at 3.5, starting once dropped to 2.5.\n\nThe envelope was lopsided. Social interaction was free at the mean and also something I could take up as a standing thing. Conflict was bearable at the mean and neither startable nor committable, so the only way I was in it was involuntarily.",
+  createdAt: "2026-09-21T21:59:54.024Z",
+  updatedAt: "2026-09-21T22:50:51.000Z",
 } as const satisfies AllAboutAlanTopic

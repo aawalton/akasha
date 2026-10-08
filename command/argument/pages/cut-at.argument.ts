@@ -8,4 +8,6 @@ export const cutAt = {
   takes: "when the cut was taken, this moment where none is said",
   value: "text",
   placeholder: "instant",
+  createdAt: "2026-09-12T08:42:56.815Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

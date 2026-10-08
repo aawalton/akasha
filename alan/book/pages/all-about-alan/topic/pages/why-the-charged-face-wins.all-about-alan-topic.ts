@@ -13,4 +13,6 @@ export const whyTheChargedFaceWins = {
   ],
   settled:
     "My whole system organises around safety, so the ceiling of attraction should sit on the most soothing face. It does not.\n\nThe ceiling sits on the charged register: a challenging, vivid, bold, unmistakably-someone face. In my graded persona images the top exemplars are Aelwyn and Aura, and the soothing-safe face and the deep-meaning face both rank a tier lower.\n\nThe pricing explains it. Softness delivers safety, which I hold in relative abundance now. Retirement made the headroom, the solitude supplies it, and feminine cues raise it cheaply. Directness in an intimate context delivers being met, which is the scarcest thing I have.\n\nThe scarcer good is worth more to me, so what my attraction actually tops out on is being met, and the look is only what it wears. The face that pulls hardest is not the safest face. It is the one that most says someone is here and is looking at me.",
+  createdAt: "2026-09-21T20:29:32.491Z",
+  updatedAt: "2026-09-21T22:42:27.000Z",
 } as const satisfies AllAboutAlanTopic

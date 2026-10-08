@@ -15,4 +15,6 @@ export const affordabilityInPlaceOfPerfection = {
   ],
   settled:
     "The rule that if I cannot afford rejection I cannot afford connection is what replaced the belief that only perfection is safe.\n\nThat belief was not false. It was a true compression of my childhood, so I could not swap in a truer account. I found it over-scoped instead, and wrote a more compact rule that explains the same evidence at lower cost. My writing it myself is what installed it.\n\nIt moves the control variable. Under the old belief the lever was perfection, which I can never reach. Under this one the lever is affordability, which I can raise and have been raising all year. It turns an impossible demand into a tractable project without lying, and the calibration is still honestly owed.\n\nIt also runs on a gauge rather than on fear. The old belief ran on felt threat, and fear is a brake I cannot keep my foot on, because pain does not persist in me. Affordability is read from outside myself, the one kind of brake a mind without pain memory can operate.",
+  createdAt: "2026-09-21T22:00:14.267Z",
+  updatedAt: "2026-09-21T22:00:29.000Z",
 } as const satisfies AllAboutAlanTopic

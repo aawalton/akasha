@@ -13,4 +13,6 @@ export const theTwoRulesIOverthrew = {
   ],
   settled:
     "Two of the rules I grew up with are gone: do what people tell you to, and follow all of the rules.\n\nThey did not come off one belief at a time. The weight of what was expected of me got heavy enough that I took on a blanket rebellion against expectation itself, mine as much as anyone's.\n\nBoth belonged to the same class, obey the expectation, so taking out the class took out both at once.\n\nWhat came of it is one rule I chose: if I do not want to, I am not allowed to.\n\nThe thing that forced it was physical rather than argued. At around twenty I hit a hard choice between applying social cues to avoid punishment and raw physiological survival. My fawn response almost killed me medically. That broke fawn as a safe way to avoid punishment and flipped me fast from an Upholder, who keeps outer and inner expectations alike, to a Rebel, who resists both.\n\nSo there are two routes off a rule. Digging re-compresses one belief inside it. This one throws out the whole class it belonged to.",
+  createdAt: "2026-09-21T20:12:23.890Z",
+  updatedAt: "2026-09-21T21:51:27.000Z",
 } as const satisfies AllAboutAlanTopic

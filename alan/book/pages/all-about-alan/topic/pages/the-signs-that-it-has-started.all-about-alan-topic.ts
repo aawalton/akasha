@@ -10,4 +10,6 @@ export const theSignsThatItHasStarted = {
   related: ["all-about-alan-topic/how-i-grade-an-organisation"],
   settled:
     "Smaller portions or fewer features at the same price. New fees on what used to be included, or fees rising faster than everything else.\n\nCheaper inputs, longer waits, fewer staff, shorter hours on support.\n\nReturn policies, warranties and refund windows quietly getting worse.\n\nAds appearing where there were none. My data sold, or turned back on me to sell me something.\n\nLeaving made harder on purpose: my data no longer portable, terms made stickier, connections that only go one way.\n\nDesign built against me: dark patterns, friction laid in the way of cancelling, the cheaper option made hard to find.\n\nAny one of those on its own only suggests. Several at once in the same organisation is the finding.",
+  createdAt: "2026-09-21T20:30:20.695Z",
+  updatedAt: "2026-09-21T20:30:30.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const theProofThatIAmWorthSomething = {
   ],
   settled:
     "It is a proof rather than a feeling: if any human has worth, all have it equally, so I have it.\n\nIt never claims humans have worth at all. It says only that the worth admits no exception for me.\n\nI compiled it in the wreckage after the firing, as the tool that moment needed.\n\nIt was a crowbar, not a foundation. It broke the belief that my needs come last and asserts nothing positive.\n\nThat same carve-out sat under my old rule of self-preservation, that I may not do what would hurt other people. This broke the carve-out two years before that rule was replaced.\n\nWorth is not the currency my failures are paid in. That is stress capacity, and worth is a fossil beside it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:17:52.000Z",
 } as const satisfies AllAboutAlanTopic

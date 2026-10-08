@@ -13,4 +13,6 @@ export const whatOneTrustScoreCarries = {
   ],
   settled:
     "My trust in Costco at B now reaches across pharmacy, fuel, groceries, and the Citi card behind the membership.\n\nFood is the biggest share of that spend, so food is the biggest contributor to the cascade.\n\nWhen one grade covers that many categories, the cost of that grade turning is concentrated. One capture event at Costco would invalidate the dependency in four places at once.\n\nThat is the price of a B I lean on everywhere. It is the most leveraged dependency I have, and I have nothing else at that grade to spread the weight onto.",
+  createdAt: "2026-09-21T20:12:40.021Z",
+  updatedAt: "2026-09-21T20:12:43.000Z",
 } as const satisfies AllAboutAlanTopic

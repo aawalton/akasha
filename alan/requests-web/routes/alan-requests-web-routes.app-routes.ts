@@ -26,4 +26,6 @@ export const alanRequestsWebRoutes = {
     "route/requests-api-requests",
     "route/requests-no-such-page",
   ],
+  createdAt: "2026-09-21T18:25:58.878Z",
+  updatedAt: "2026-09-27T15:38:05.000Z",
 } as const satisfies AppRoutes

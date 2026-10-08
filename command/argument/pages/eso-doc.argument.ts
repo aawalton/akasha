@@ -8,4 +8,6 @@ export const esoDoc = {
   takes: "the documentation file the clone's API version is read from",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T08:04:46.596Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

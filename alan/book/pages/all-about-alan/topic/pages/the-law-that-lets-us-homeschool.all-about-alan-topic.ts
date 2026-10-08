@@ -10,4 +10,6 @@ export const theLawThatLetsUsHomeschool = {
   related: ["all-about-alan-topic/trusting-a-person-not-an-institution"],
   settled:
     "Utah wrote its homeschool law friendly. One notice of intent a year is the whole of it. No curriculum to get approved, no testing, no qualification asked of me as a parent.\n\nSo it earns a B, the only one anywhere in what I depend on from a government.\n\nHow our children are educated rests on it, so it rests on Utah going on honouring what it wrote.\n\nThe B is in the current legislature rather than in anything that would hold if the legislature changed. What I watch for is the law being worn away.",
+  createdAt: "2026-09-21T20:12:32.846Z",
+  updatedAt: "2026-09-21T20:12:47.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -9,4 +9,6 @@ export const whereTheScarEnds = {
   parents: ["all-about-alan-topic/why-making-things-hurts"],
   settled:
     "Writing hurts even where nobody will ever see it, so for my own writing and drawing the judge is inside me.\n\nFor singing and its like the judge is outside and needs someone there to perceive it.\n\nAn act is hot where a judge was installed and cool where one never was. Code is digital and never got one.\n\nCode review stings although writing code does not. So code was never safe for being code, only for being unseen, and only while it is not shared.\n\nWhich means what varies across the modalities is not whether the work is fused to me. All of it is. It is whether the judge still needs a witness.\n\nThe scope is a rule rather than a list: the firing range of one welded belief.\n\nThe judges are many, installed at different times. Each is a conditioned response rather than a critic or a belief, and with no episodes to look back on, each is a verdict whose trial I cannot review.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:37:34.000Z",
 } as const satisfies AllAboutAlanTopic

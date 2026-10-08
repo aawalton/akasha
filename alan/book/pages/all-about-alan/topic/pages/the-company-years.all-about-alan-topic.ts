@@ -13,4 +13,6 @@ export const theCompanyYears = {
   ],
   settled:
     "A company never runs out of steps. It is open-ended, it is never finished, and it never waits.\n\nSo it held me in responsibility permanently and everywhere at once, for the whole span of it. That is the special kind of hell.\n\nNothing I did across those years could be enjoyed for its own sake, because nothing under a held responsibility can be.\n\nIt is a large part of why I am not allowed to take responsibility for things now.\n",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:21:35.000Z",
 } as const satisfies AllAboutAlanTopic

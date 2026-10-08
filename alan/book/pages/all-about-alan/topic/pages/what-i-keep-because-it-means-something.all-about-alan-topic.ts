@@ -13,4 +13,6 @@ export const whatIKeepBecauseItMeansSomething = {
   ],
   settled:
     "Jen is a foodie, and eating out is her hobby. Structurally that is a D-tier dependency on the restaurant industry, and it is not a target for reduction.\n\nWhat it is worth to her overrides the grade. Some things are kept because they mean something, and those sit outside the optimising the grades otherwise drive.\n\nThe rest of our eating out is a different thing. It covers for cooking when I have no capacity, and it will shrink as the recovery goes on. The two have to be kept apart, because only one of them is a problem.\n\nAs an industry it reads closer to D than C: profit-pressured, fed by the same large producers the grocery category is, and fragile locally.\n\nI have graded no restaurant individually, so the whole industry is one lump in my audit, which is not how I want to hold anything.",
+  createdAt: "2026-09-21T20:11:28.997Z",
+  updatedAt: "2026-09-21T20:12:32.000Z",
 } as const satisfies AllAboutAlanTopic

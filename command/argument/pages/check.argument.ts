@@ -8,4 +8,6 @@ export const check = {
   takes: "a check the round runs beyond the ones the audit phase names",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-12T09:28:55.388Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

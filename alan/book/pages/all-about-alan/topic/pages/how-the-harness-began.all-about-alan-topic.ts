@@ -10,4 +10,6 @@ export const howTheHarnessBegan = {
   related: ["all-about-alan-topic/the-best-three-years", "all-about-alan-topic/the-company-years"],
   settled:
     "The instinct is older than the system. I seem to remember some personal tracking as a teen in college, and I definitely had some built into the mission mechanics in Novosibirsk, so it was not an entirely new pattern.\n\nIt became deliberate at Epic, my first real job. I was overwhelmed, so I started tracking the overwhelm to look for patterns.\n\nThat was not my first response. First I went in earlier and stayed later, throwing time at the problem until I could work out how to be more efficient. The hours and the tracking ran side by side. The hours bought time while the tracking looked for the structure, and the hours are still what fires under acute overload.\n\nSo the order was scattered tracking, then real overload at a real job, then hours and tracking together, and then the tracking hardening into a system.",
+  createdAt: "2026-09-21T21:49:42.554Z",
+  updatedAt: "2026-09-21T21:49:45.000Z",
 } as const satisfies AllAboutAlanTopic

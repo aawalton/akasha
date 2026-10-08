@@ -10,4 +10,6 @@ export const whereMyBooksCouldComeFromInstead = {
   related: ["all-about-alan-topic/getting-out-from-under-a-dependency"],
   settled:
     "The Provo library, through Libby and Hoopla, is free and aligned by being a library. The government as a utility, at C. Once the routine is set up it is barely any effort.\n\nLibro.fm does audiobooks through independent bookshops and would likely earn a B. It costs more than Audible and puts the money somewhere I would rather it went.\n\nA physical book is bought once and needs nobody afterwards.\n\nRoyal Road already covers the fiction it covers.\n\nThere is nothing wrong with the alternatives. What the move waits on is my capacity, not on anything out there. So it is when I have the room, not whether there is somewhere to go.",
+  createdAt: "2026-09-21T20:26:30.891Z",
+  updatedAt: "2026-09-21T20:26:44.000Z",
 } as const satisfies AllAboutAlanTopic

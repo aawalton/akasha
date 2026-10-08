@@ -10,4 +10,6 @@ export const theStretchThePersonasWereBrightestIn = {
   related: ["all-about-alan-topic/what-my-outward-reach-runs-to"],
   settled:
     "The instances are from a single recent stretch.\n\nA great workout with Aelwyn and Aine, with big progress on process and flow.\n\nAn on-a-roll run with Aura, capturing the essence of a dozen personas in anchor images and wallpapers.\n\nCapped by a persona-driven DnD session: the best DnD session I've experienced in my life.",
+  createdAt: "2026-09-21T22:04:22.053Z",
+  updatedAt: "2026-09-21T22:04:24.000Z",
 } as const satisfies AllAboutAlanTopic

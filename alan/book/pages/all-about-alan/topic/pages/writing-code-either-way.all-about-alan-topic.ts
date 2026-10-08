@@ -9,4 +9,6 @@ export const writingCodeEitherWay = {
   parents: ["all-about-alan-topic/when-something-is-fun"],
   settled:
     "Writing code can be fun when the coding is the thing I am doing. That the code is also useful, that it ships and solves a problem, does not touch the fun, because the usefulness is incidental.\n\nThe same coding done to get the shipped feature, with my attention on the feature, is not fun.\n\nIdentical activity, opposite experience. The only thing that changed is which one is the end.\n\nSo the presence of a use never kills it. The demotion does.",
+  createdAt: "2026-09-21T22:03:43.050Z",
+  updatedAt: "2026-09-21T22:03:46.000Z",
 } as const satisfies AllAboutAlanTopic

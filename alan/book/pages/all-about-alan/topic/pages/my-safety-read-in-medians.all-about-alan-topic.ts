@@ -14,4 +14,6 @@ export const mySafetyReadInMedians = {
   ],
   settled:
     "On 1 January 2025 my median was minus one, which is below zero and the not functioning band.\n\nOn 1 January 2026 it was two, the top of the functioning band. My median rose three full levels across 2025.\n\nOn 1 May 2026 it was five, the top of the living band. So the May peak was a median of five rather than a few days at five.\n\nThen I bounced hard and lost two months. I am lower still now, and the two causes I can name are relational conflict and, across the past week, extra expenditure.\n\nI think a median of five is definitely possible by the end of 2026, possibly a median of six. I hold that as possible rather than forecast.\n\nWhat is between me and it is not capacity. It is resolving the remaining land mines that blow me up when I get close.",
+  createdAt: "2026-09-21T20:23:46.533Z",
+  updatedAt: "2026-09-21T22:50:51.000Z",
 } as const satisfies AllAboutAlanTopic

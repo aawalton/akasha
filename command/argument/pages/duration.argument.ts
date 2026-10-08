@@ -9,4 +9,6 @@ export const duration = {
   value: "whole-number",
   placeholder: "s",
   default: "30",
+  createdAt: "2026-09-12T08:58:03.237Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

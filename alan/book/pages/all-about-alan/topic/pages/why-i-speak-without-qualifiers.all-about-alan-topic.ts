@@ -10,4 +10,6 @@ export const whyISpeakWithoutQualifiers = {
   related: ["all-about-alan-topic/how-i-know-things"],
   settled:
     "I was a maths major and I speak the way a proof reads. Minimal words, structure carrying the precision, no qualifier that adds no content.\n\nA hedge that adds no information feels like noise, so I leave it out.\n\nA claim out of a conceptual model rather than a felt sense is crisp by construction. There is no felt fuzz to soften it.",
+  createdAt: "2026-09-21T22:47:12.953Z",
+  updatedAt: "2026-09-21T22:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

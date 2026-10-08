@@ -9,4 +9,6 @@ export const theLineThatKeptRunningThroughMyHead = {
   parents: ["all-about-alan-topic/how-i-decided-to-marry-her"],
   settled:
     "A line kept running through my head while I was deciding. If you want to be happy for the rest of your life, never make a pretty woman your wife. Learn from my personal point of view, choose another woman to marry you.\n\nI do not know where it is from or whether I am quoting it right, but it stuck.\n\nI decided I did not want to be the kind of person who lets physical attractiveness hold a veto over choosing an eternal companion. External beauty is temporary and the least important thing about a person, so I moved forward.",
+  createdAt: "2026-09-21T21:56:35.158Z",
+  updatedAt: "2026-09-21T21:56:38.000Z",
 } as const satisfies AllAboutAlanTopic

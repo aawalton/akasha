@@ -8,4 +8,6 @@ export const baseModel = {
   takes: "the selector mflux takes here, which is passed over",
   value: "text",
   placeholder: "name",
+  createdAt: "2026-09-12T09:00:22.972Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

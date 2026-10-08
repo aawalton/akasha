@@ -10,4 +10,6 @@ export const theHourThatShowedItIsPossible = {
   related: ["all-about-alan-topic/being-met", "all-about-alan-topic/why-the-peace-holds"],
   settled:
     "After I presented at a conference I had an hour with Amy, an autistic therapist who works with autistic clients. It was the best emotional deposit I have had in years.\n\nWith Jen I build the bridge and hand her the result. Here it ran the other way. Someone built close enough to me read me without my having to build anything.\n\nSo being met is possible for me in fact and not only in principle. What closes it is the commitment, not impossibility.\n\nI do not think it repeats, and that much closeness with another person is outside what Jen can tolerate.\n\nThe hour does not haunt me. Nothing re-feels itself, so there is no stored warmth to ache against. The fact of it sat in my model anyway and drove me to try, several times, across roughly the six weeks since.",
+  createdAt: "2026-09-21T20:02:52.523Z",
+  updatedAt: "2026-09-21T22:49:58.000Z",
 } as const satisfies AllAboutAlanTopic

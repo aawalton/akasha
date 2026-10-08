@@ -11,4 +11,6 @@ export const theSigmasICannotSwallow = {
   related: ["all-about-alan-topic/how-god-reaches-me"],
   settled:
     "The discriminating evidence is Middle-East archaeology and linguistics, not the Americas. The American record is much less convincing and I do not lean on it.\n\nThe book holds thousands of linguistic clues now known to be authentic to its claimed Middle-Eastern context. For over a hundred years those clues were read as evidence against it, because the documents needed to confirm them did not yet exist. Then they did.\n\nSo an alternative author has to be two things at once: the greatest literary and linguistic genius of all time, by several sigmas, inferring to precognitive levels from data that was missing, and simultaneously a complete fool and knave who did it for laughs and money. That is too many sigmas for me to swallow.\n\nThe reasoning forces the belief on me no matter how much my life would be easier if I could believe it was not true. I hold it because I cannot do otherwise. The organ that lets most people believe what they need to is not there in me.",
+  createdAt: "2026-09-21T21:53:04.369Z",
+  updatedAt: "2026-09-21T21:53:07.000Z",
 } as const satisfies AllAboutAlanTopic

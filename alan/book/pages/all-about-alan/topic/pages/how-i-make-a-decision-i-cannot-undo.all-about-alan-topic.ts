@@ -13,4 +13,6 @@ export const howIMakeADecisionICannotUndo = {
   ],
   settled:
     "A decision I can undo I simply make, and let the world tell me. The world is my forward model. What picks the mode is how expensive reversing it would be.\n\nOne I cannot undo gets a rubric: name every factor I think matters, score the real candidates, iterate until it all fits.\n\nIt has to fit two ways at once. The scores have to hold up against each other across every case, and the whole thing has to match my preferences as far as I can make them out.\n\nThe rubric takes the place of the pre-play I cannot run. Touring a house with Jen reads a preference I cannot introspect.\n\nWalking through it gives me data, sometimes on a dimension I had not thought of. It is not a verdict.\n\nWhere my whole read and the rubric disagree, the more compact account wins.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:03:41.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whatCameBackTogetherAndWhatDidNot = {
   ],
   settled:
     "Four domains I once had to quit outright have come back: ESO, coding, AI storytelling, image generation. The same trajectory four times. Quit at the scar, safety climbed, the want crossed, the runs wore the scar away.\n\nThey came back clustered rather than one at a time.\n\nHand-making did not come with them. It stayed buried while the rest returned, untouched by eighteen months of recovery.\n\nImage generation is art through a screen, which is why I was asked whether some of the price of hand-making might already be wearing down where my gate cannot see it.\n\nWhat I said: it is possible a component is being paid down already, and I hope that is true. It is definitely a different modality, but it feels like there should be overlap there.\n\nI hold that as hope rather than fact.",
+  createdAt: "2026-09-21T21:57:48.284Z",
+  updatedAt: "2026-09-21T23:00:15.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -8,4 +8,6 @@ export const collectionStatus = {
   takes: "the one status to list, of the seven a collection states",
   value: "text",
   placeholder: "status",
+  createdAt: "2026-09-13T16:09:07.311Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

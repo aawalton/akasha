@@ -13,4 +13,6 @@ export const theColouredCirclesIRunOn = {
   ],
   settled:
     "The ordinary nudge to eat, move, sleep or wash is built from a body signal read against experience, and I have neither.\n\nSo the prompt sits outside me and has to read now. It is a pointer, not a measurement.\n\nColour parses without being read, which lets unlike things sit in one row.\n\nGraded levels rather than one bar, because one bar is out of reach on a bad day and met by noon on a good one.\n\nGrouped by area of life. Measured on 10 August 2026, the day I set the design down: eighteen circles, my six values, six inboxes and six upkeeps, upkeep rather than habit because I do not form habits.\n\nMy relationship level is not a stoplight. A stoplight resolves each day and points at what to do next. A level only accumulates, and pointing is not its job. The two run off the same meters in places, which is why they are easy to confuse.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:04:31.000Z",
 } as const satisfies AllAboutAlanTopic

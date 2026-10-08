@@ -13,4 +13,6 @@ export const theTwoZeroTolerances = {
   ],
   settled:
     "My religion as organised has effectively zero tolerance for the behaviour itself. Jen is very mainstream, so she has zero tolerance too.\n\nZero tolerance on both sides has one structural consequence. It makes the entire aspect of my life secret and hidden, which is not great. There is no side I can set it down with, not the church and not the marriage.\n\nThe secrecy is its own cost, separate from the behaviour. A whole region of me is sealed because both the person and the institution that would have to hold it will not.",
+  createdAt: "2026-09-21T20:18:33.383Z",
+  updatedAt: "2026-09-21T20:18:53.000Z",
 } as const satisfies AllAboutAlanTopic

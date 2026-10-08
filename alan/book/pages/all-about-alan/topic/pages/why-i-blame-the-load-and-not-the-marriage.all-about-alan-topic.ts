@@ -13,4 +13,6 @@ export const whyIBlameTheLoadAndNotTheMarriage = {
   ],
   settled:
     "The exact share each factor carries would need me to know how those years went in the worlds where one of them was absent. I do not have that, so what follows is an approximation rather than the answer.\n\nIt started about two years before the marriage did. The effect ran ahead of the supposed cause.\n\nIt tracks my load and recovery measurements closely, both while the load rose and while it fell.\n\nThe marriage was not a steady pressure. It added load sometimes and took load off at others, which is not what a cause of roughly twenty years of sustained misery looks like.\n\nWishing you did not exist runs extremely high among autistic adults in every kind of life, so my figure sits against a high baseline that has nothing to do with this marriage.\n\nThe strongest is that stopping work lifted it while the marriage stayed exactly where it was. The load moved, the marriage held, and the misery went with the load.",
+  createdAt: "2026-09-21T20:15:28.255Z",
+  updatedAt: "2026-09-21T22:48:35.000Z",
 } as const satisfies AllAboutAlanTopic

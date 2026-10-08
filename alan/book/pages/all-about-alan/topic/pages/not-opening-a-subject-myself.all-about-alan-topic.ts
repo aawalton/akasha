@@ -13,4 +13,6 @@ export const notOpeningASubjectMyself = {
   ],
   settled:
     "The default script is that spouses can talk to each other about anything. I gave that one up.\n\nI cannot reliably predict which subjects are unsafe, so the only policy left is not to open one myself, and to be ready to handle it when she opens one.\n\nThat is a straight concession of my own truth-value inside my most intimate relationship.\n\nPreparing for high-stakes time with her, the two halves are not equally hard. Managing my capacity I have done for decades and have good scripts for. The conversation is the half I worry about.\n\nThe one lever that helps is that she does very well with explicit communication. So I name things out loud rather than leave them to be read, including naming recovery, so quiet time registers as recovery rather than as withdrawal.",
+  createdAt: "2026-09-21T20:14:06.160Z",
+  updatedAt: "2026-09-21T20:14:16.000Z",
 } as const satisfies AllAboutAlanTopic

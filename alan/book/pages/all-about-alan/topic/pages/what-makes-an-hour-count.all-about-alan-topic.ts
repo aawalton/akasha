@@ -10,4 +10,6 @@ export const whatMakesAnHourCount = {
   related: ["all-about-alan-topic/how-much-being-known-i-need"],
   settled:
     "Fourteen factors, scored on the person, the engagement, the channel, the fidelity and the safety.\n\nThe person factors are maturity, attractiveness, femininity, wit and kindness. The engagement factors are attention, identification, intensity, novelty, energy and positivity. Then the channels in play added together, presence, audio, digital presence, text and image, then the fidelity, then the safety it is held at.\n\nThey multiply rather than add, so there is no tolerance for a weak link: one factor near zero flattens the whole hour.\n\nA deep in-person conversation held at low safety pays almost nothing, which is what the lived shape looks like.\n\nThe score is set against one reference, a deep one-to-one conversation in person with a safe woman.\n\nThe coarse read it grew out of still holds: one to one beats a group, substance beats small talk, in person beats mediated, a woman beats a man.\n\nThe numbers live with the scored interactions rather than here.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:38:31.000Z",
 } as const satisfies AllAboutAlanTopic

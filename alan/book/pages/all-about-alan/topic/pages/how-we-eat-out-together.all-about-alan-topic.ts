@@ -13,4 +13,6 @@ export const howWeEatOutTogether = {
   ],
   settled:
     "Eating out is mostly with Jen, and we split the food. Usually one main course between us, which portions it naturally, and usually a dessert or two as well, because she loves treats.\n\nCostco samples belong in the same column.\n\nTakeaway and delivery come in when everybody needs feeding and Jen has no capacity to cook. That one is gated on capacity rather than chosen.",
+  createdAt: "2026-09-21T20:18:43.115Z",
+  updatedAt: "2026-09-21T20:19:16.000Z",
 } as const satisfies AllAboutAlanTopic

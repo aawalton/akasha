@@ -14,4 +14,6 @@ export const theTwoClustersThatEarnAB = {
   ],
   settled:
     "Across the audits our B grades sit in two places and almost everything else is a D.\n\nLocal independents: Dr Robinson at Grandview Family Medicine, the children's dentist under Ninth East Dental, Edgemont Auto. The person is a B inside an institution that is a C.\n\nCostco: the pharmacy, the fuel, the groceries, and the membership itself. The one corporate B across several surfaces, held off an A by the supplement-testing reservation. The cost is the Citi cobrand card it drags in at a D.\n\nNone of that was luck. A doctor picked by reputation, a local mechanic over a dealership, a dentist who fits the children, is selection effort.\n\nThree limits. A person can retire, sell or change with nothing institutional holding them. There is no local independent for a phone carrier or cloud compute. And the cluster is anchored to Provo, so a move would reset most of it.\n\nWhere local works, cultivate it. Where it cannot, hold the D and build the capability ourselves.",
+  createdAt: "2026-09-21T21:58:34.213Z",
+  updatedAt: "2026-09-21T21:58:37.000Z",
 } as const satisfies AllAboutAlanTopic

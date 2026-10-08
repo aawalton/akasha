@@ -9,4 +9,6 @@ export const theYesIGaveToGenerosity = {
   parents: ["all-about-alan-topic/when-i-agree-a-feeling-word-fits"],
   settled:
     "Generosity is the case I can point to. In my words: I agreed with generosity because I believe the behavior would be considered generous, not because I am experiencing a feeling of generosity.\n\nSo that yes was the second kind. I ran the definition as a rule about behaviour and checked whether mine matched the category. Nothing was read off a live tell.\n\nIt came out of me as the same yes either kind does, which is why the two need telling apart at all, and why a yes of mine is no evidence on its own that a feeling was there.",
+  createdAt: "2026-09-21T21:59:46.758Z",
+  updatedAt: "2026-09-21T21:59:49.000Z",
 } as const satisfies AllAboutAlanTopic

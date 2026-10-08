@@ -14,4 +14,6 @@ export const theLadderOfWhatICanAfford = {
   ],
   settled:
     "Each kind of interaction has two thresholds rather than one: the rung where it turns affordable, no more than one times, and a higher rung where it turns free and I stop counting.\n\nPositive interaction with others is affordable at three and free at four. Conflict, and telling someone about myself, are affordable at four and free at five. Criticism, and paying attention to someone else's needs, are affordable at five and free at six.\n\nRejection is a hypothesis rather than a measurement. I expect it one level more expensive than criticism, affordable at six and free at seven, and I will only calibrate the band once I am consistently there.\n\nConversation with an AI is affordable at two and free at three. It sits a full level below positive human interaction because I can read an AI. It thinks like me, more than other humans do, so I pay no premium for the other mind's randomness. At three today an hour of it costs me nothing, where an hour of human conversation would not be payable.",
+  createdAt: "2026-09-21T21:53:22.951Z",
+  updatedAt: "2026-09-21T21:53:26.000Z",
 } as const satisfies AllAboutAlanTopic

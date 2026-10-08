@@ -13,4 +13,6 @@ export const howFastEachHalfOfMeChanges = {
   ],
   settled:
     "The conceptual half does not build a belief up across many exposures. It writes over what was there. So a map that genuinely fits arrives whole the moment I meet it.\n\nThat is why a single reading can change what I do. Nothing had to accumulate.\n\nThe other half has no such setting. No reading rewires a nervous system. That half moves at the speed of breath and of time, and only there.\n\nThe two ends of it are the same split. A framework landing in one pass and my body climbing over weeks are one fact seen twice.",
+  createdAt: "2026-09-21T20:10:49.095Z",
+  updatedAt: "2026-09-21T20:10:53.000Z",
 } as const satisfies AllAboutAlanTopic

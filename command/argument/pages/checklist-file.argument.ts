@@ -8,4 +8,6 @@ export const checklistFile = {
   takes: "the file that question is read from, or `-` for standard input",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T07:28:01.281Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

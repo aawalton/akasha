@@ -10,4 +10,6 @@ export const whyMyEthicsWorksAtEveryScale = {
   related: ["all-about-alan-topic/the-two-oracles-my-ethics-assumes"],
   settled:
     "Because the oracle and the attribution are both global, evaluation is scale-free. An action is an action at any extent. A Planck-tick push, a valley-altering scheme and the founding of a centuries-long regime all go through the same operations, and no scale is privileged. A regime is simply a very large, many-agent, long-duration action.\n\nSo verdicts at different scales need not agree, and the disagreement is no contradiction. One decision can be permissible on its own while the regime that produces such decisions is impermissible.\n\nA regime that traps a group across whole domains, foreclosing their agency, is a concentrated low-consent harm condemned at the regime scale even where each decision it spawns passes at the decision scale.",
+  createdAt: "2026-09-21T20:21:31.397Z",
+  updatedAt: "2026-09-21T20:21:35.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const whoStartsIt = {
   related: ["all-about-alan-topic/how-we-have-paced-it"],
   settled:
     "I always had a hard time navigating initiating sex, with some painful experiences early on.\n\nSo we developed an implicit contract. She initiates when she is ready, and I almost always respond. Yes about ninety-nine percent of the time.\n\nThat routes around the part that was costly for me, and it keys the pacing to her cycle-aligned need, which is the reliable signal between us.",
+  createdAt: "2026-09-21T20:15:59.250Z",
+  updatedAt: "2026-09-21T20:16:15.000Z",
 } as const satisfies AllAboutAlanTopic

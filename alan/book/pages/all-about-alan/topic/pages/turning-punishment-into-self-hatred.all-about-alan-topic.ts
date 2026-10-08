@@ -9,4 +9,6 @@ export const turningPunishmentIntoSelfHatred = {
   parents: ["all-about-alan-topic/why-i-have-to-be-perfect"],
   settled:
     "The default is that any punishment becomes mine and I hate myself for it. Perfection is how I build the proof that it was not.\n\nThe reflex still fires and I no longer believe its verdict. That gap is what the change looks like.\n\nI forgive others cheaply and myself never. Forgiving myself had to pass the perfection bar first, only after understanding myself well enough.\n\nGrief is the receipt. Sorrow rather than relief is how I know the verdict changed.\n\nI could not mourn the boy while I was still prosecuting him. Guilty leaves nothing to mourn, only something to hate, so the sadness could not arrive until hurt replaced it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:04:00.000Z",
 } as const satisfies AllAboutAlanTopic

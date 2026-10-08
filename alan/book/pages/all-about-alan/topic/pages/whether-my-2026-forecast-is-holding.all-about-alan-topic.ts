@@ -7,4 +7,6 @@ export const whetherMy2026ForecastIsHolding = {
   title: "Whether My 2026 Forecast Is Holding",
   definition: "the forecast I set for this year, against what I actually read",
   parents: ["all-about-alan-topic/where-safety-has-got-to"],
+  createdAt: "2026-08-28T09:52:18.282Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

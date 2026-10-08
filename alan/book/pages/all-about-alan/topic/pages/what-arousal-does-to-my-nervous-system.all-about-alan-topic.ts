@@ -14,4 +14,6 @@ export const whatArousalDoesToMyNervousSystem = {
   ],
   settled:
     "Sexual arousal is tightly wired into my physiology as an override signal. That is part of why it regulates my nervous system generally.\n\nOverride does not mean exempt. Safety multiplies at every level, so arousal runs under the same product as everything else rather than around it.\n\nThe mechanism is a controlled cycle: the sympathetic branch up on the way out, the parasympathetic branch up on the way back down. The regulation lives on the down-slope, where the parasympathetic rebound leaves me more regulated than I started.\n\nThat is the same shift the hot bath and the four-in twelve-out breathing run on. Arousal is a sibling instrument in that stack with a bigger lever.\n\nThe benefit is graded rather than all or nothing. Smaller doses return smaller slices of it.\n\nIt is like heavy exercise, but stronger for an equal dose. My body is wired to respond to exertion and wired harder to respond to sexual cues, which is why this became the brace and not the treadmill.",
+  createdAt: "2026-09-21T20:07:38.048Z",
+  updatedAt: "2026-09-21T20:08:12.000Z",
 } as const satisfies AllAboutAlanTopic

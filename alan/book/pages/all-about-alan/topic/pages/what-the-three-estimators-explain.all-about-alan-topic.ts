@@ -13,4 +13,6 @@ export const whatTheThreeEstimatorsExplain = {
   ],
   settled:
     "My reaching for feminine cues is one special case of this general read rather than a thing of its own.\n\nFeminine-cued men are safer to me, and the response keys on the cues and the body rather than on the category woman. Cues win, because my estimators read the body and the conduct and never the label.\n\nDrag reads less safe to me than plain masculinity. A male frame presenting feminine maximises the mismatch, so it lights up the physiology estimator on the frame and the uncertainty estimator on the mismatch at once. Camouflaged threat beats open threat. The disguise raises the score rather than lowering it.\n\nTrans women land in between. Less safe than a softly-cued woman, more safe than a highly masculine man or drag, because the physiology signal is there and the presentation and often the conduct soften it.",
+  createdAt: "2026-09-21T20:21:21.030Z",
+  updatedAt: "2026-09-21T20:21:30.000Z",
 } as const satisfies AllAboutAlanTopic

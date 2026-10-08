@@ -9,4 +9,6 @@ export const theSmallServicesIOnlyWatch = {
   parents: ["all-about-alan-topic/the-software-i-pay-for-every-month"],
   settled:
     "GitHub, where I keep a mirror and nothing more, because the git I actually use is my own. ScraperAPI, which scrapes my Kindle library. The Spotify and Trakt APIs, which keep my music and my shows in step. Notion, which my collections get written into.\n\nNone of them is graded on its own, because what I have exposed to each is small.\n\nSeveral have owners worth watching. Trakt went to something private-equity shaped. Notion has taken funding and moved its prices. ScraperAPI is a startup out to make money.\n\nSo they sit as convenience, watched.",
+  createdAt: "2026-09-21T20:18:53.512Z",
+  updatedAt: "2026-09-21T20:18:56.000Z",
 } as const satisfies AllAboutAlanTopic

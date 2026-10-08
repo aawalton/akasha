@@ -8,4 +8,6 @@ export const agentId = {
   takes: "the agent id the gateway runs under, which no seat may answer to",
   value: "text",
   placeholder: "id",
+  createdAt: "2026-09-12T09:39:20.094Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

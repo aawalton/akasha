@@ -9,4 +9,6 @@ export const whatMakesAPurposeInternal = {
   parents: ["all-about-alan-topic/the-line-a-being-crosses-to-count"],
   settled:
     "A purpose is internal where the system's own ongoing organisation constitutes and maintains it.\n\nAn organism's set points qualify even though evolution installed them, because its metabolism keeps re-constituting and defending them.\n\nA thermostat's set point does not. Take the scaffolding away and no self-sustained end is left.\n\nSo what matters is owning the ends through self-maintenance, not being independent of where they came from.\n\nThis is the framework's test rather than my settled doctrine. I am developing it and hold it provisionally.",
+  createdAt: "2026-09-21T23:05:33.142Z",
+  updatedAt: "2026-09-21T23:05:42.000Z",
 } as const satisfies AllAboutAlanTopic

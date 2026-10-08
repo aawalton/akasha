@@ -13,4 +13,6 @@ export const holdingABadGradeOpenOnPurpose = {
   ],
   settled:
     "The Walmart delivery is a D I am knowingly holding open. Forcing the exit now would push the load back onto the cooking and shopping bandwidth that recovery has not given me yet.\n\nSo the question is when my bandwidth returns, not whether to force an exit today.\n\nWhat grading it does is bring the mismatch into the open, name what staying costs, and keep me from carrying it silently. When to leave is a separate decision, keyed to bandwidth and to whether a substitute is ready.\n\nTwo things would shrink the Walmart-shaped hole faster than any direct exit move: the garden actually producing, and one working direct-producer relationship.",
+  createdAt: "2026-09-21T20:09:02.441Z",
+  updatedAt: "2026-09-21T20:09:06.000Z",
 } as const satisfies AllAboutAlanTopic

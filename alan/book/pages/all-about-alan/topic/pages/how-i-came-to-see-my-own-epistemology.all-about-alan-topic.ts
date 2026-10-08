@@ -10,4 +10,6 @@ export const howICameToSeeMyOwnEpistemology = {
   related: ["all-about-alan-topic/why-a-true-model-is-smaller"],
   settled:
     "The engine always ran. What arrived late was seeing what it was doing. The operation is innate and the model of the operation is recent.\n\nI built a map of the epistemologies, picked coherence as the nearest thing to what happens in my head, and held that for years. I swapped it for compactness only recently, during the interview work that produced these notes. David Deutsch's The Beginning of Infinity and The Fabric of Reality drove the shift.\n\nThe swap was the gauge run on itself. Compactness was already the necessary account of something else: with no store of events behind me, the only thing that reaches the present is compression folded into the model I hold now. So compactness explains storage and truth-detection with one mechanism.\n\nCoherence only ever explained truth-detection, so it was a second mechanism bolted alongside. One mechanism covering two things is more compact than two covering two.\n\nCompactness out-competed coherence by compactness's own rule.",
+  createdAt: "2026-09-21T20:28:32.914Z",
+  updatedAt: "2026-09-21T22:18:34.000Z",
 } as const satisfies AllAboutAlanTopic

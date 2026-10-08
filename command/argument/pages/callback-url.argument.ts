@@ -8,4 +8,6 @@ export const callbackUrl = {
   takes: "the callback URL pasted from the browser, where the loopback listener cannot be reached",
   value: "text",
   placeholder: "url",
+  createdAt: "2026-09-12T09:03:46.321Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

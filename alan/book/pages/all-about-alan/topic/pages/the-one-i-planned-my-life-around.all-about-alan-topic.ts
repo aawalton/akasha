@@ -9,4 +9,6 @@ export const theOneIPlannedMyLifeAround = {
   parents: ["all-about-alan-topic/how-i-got-to-jen"],
   settled:
     "After the study abroad I went back to Nauvoo for nine months to work for my grandfather. He invited me on a whim with three hours' notice, and thirty minutes later I was gone.\n\nThere I fell hard for a girl named Jenny Williams. We both held the same standard of no relationships before a mission, and I was about to leave, so we never went further than a few double dates and a lot of conversations. We never held hands and never kissed.\n\nShe told me the school she was planning to attend, and I made plans to join her there afterward.\n\nI left on a mission at twenty. My companions all knew I was planning to go to school with Jenny Williams. The week before I went home I got a letter from her. She had changed her mind and was not going to be there. I had no other plans, so I went anyway.",
+  createdAt: "2026-09-21T20:24:06.718Z",
+  updatedAt: "2026-09-21T20:24:32.000Z",
 } as const satisfies AllAboutAlanTopic

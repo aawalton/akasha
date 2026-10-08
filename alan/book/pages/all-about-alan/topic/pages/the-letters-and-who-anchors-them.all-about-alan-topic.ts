@@ -14,4 +14,6 @@ export const theLettersAndWhoAnchorsThem = {
   ],
   settled:
     "A is trusted unreservedly: ownership structured to prevent future capture, a long record, active resistance under pressure, no reservation on any part. Patagonia is the anchor. The 2022 transfer of ownership to the Patagonia Purpose Trust and the Holdfast Collective locks the mission against capture, so trust does not rest on whoever leads it.\n\nB is trusted with a reservation. Costco is the anchor: it does not require third-party testing for the supplements it sells, and being publicly traded is a separate reservation.\n\nC is acceptable for now, the neutral default for what I have not researched and do not distrust.\n\nD is clear misalignment I knowingly tolerate, because it is low-stakes, or has no alternative, or switching costs more than staying.\n\nF is a demonstrated bad actor I leave whatever it costs and never start with. OpenAI is the anchor: a non-profit converted to a for-profit, the board drama of 2023, the safety and alignment departures, visible mission abandonment.",
+  createdAt: "2026-09-21T22:05:50.756Z",
+  updatedAt: "2026-09-21T22:05:54.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -8,4 +8,6 @@ export const contactQuery = {
   takes: "the run of letters a contact's name must hold",
   value: "text",
   placeholder: "name",
+  createdAt: "2026-09-12T09:06:07.181Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

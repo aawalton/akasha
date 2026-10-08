@@ -10,4 +10,6 @@ export const theBulletUnderTheUtilityMonster = {
   related: ["all-about-alan-topic/why-my-ethics-needs-no-value-floor"],
   settled:
     "Dissolving the utility monster is not free, and I pay for it rather than patching around it.\n\nA being with a genuinely larger affective space legitimately matters more per unit time. That is a true thing the framework reports rather than a pathology in it.\n\nIt is the same bullet already bitten over the death of the young against the death of the old.\n\nBittersweet regret is one state implicating several purposes at once, which is what a larger space looks like from inside.\n\nThinking contributes to the measure only as a multiplier on granularity, far short of the full state space a cognitive system has. That is why a vast intellect with one pleasure and pain line still comes out small.",
+  createdAt: "2026-09-21T22:02:49.851Z",
+  updatedAt: "2026-09-21T22:02:52.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const howMuchOfMeIsOnOneProvider = {
   related: ["all-about-alan-topic/putting-two-things-with-one-company"],
   settled:
     "Cloudflare's B is the same B whether one thing of mine runs on it or four do.\n\nThe letter is about them. How much I have riding on them is about me, and about the shape of my own graph.\n\nSo the two get weighed in different places. The grade says how far I trust them. How concentrated I am multiplies what a failure of theirs would cost, which is what orders my queue rather than what sets the letter.\n\nMixing the two would let a bad grade hide behind small exposure, and a good one look dangerous because I leaned on it hard.",
+  createdAt: "2026-09-21T20:19:17.818Z",
+  updatedAt: "2026-09-21T20:19:21.000Z",
 } as const satisfies AllAboutAlanTopic

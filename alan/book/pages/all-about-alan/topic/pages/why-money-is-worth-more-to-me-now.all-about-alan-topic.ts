@@ -10,4 +10,6 @@ export const whyMoneyIsWorthMoreToMeNow = {
   related: ["all-about-alan-topic/safety-years", "all-about-alan-topic/how-safety-climbs"],
   settled:
     "Money today is worth more to me than I expect it to be in ten years.\n\nThe ground is the difficulty of my recovery curve, not impatience and not a taste for spending.\n\nA level bought early is multiplied by every year that comes after it. Bought late it is multiplied by fewer. That is what safety years count.",
+  createdAt: "2026-09-21T20:00:06.405Z",
+  updatedAt: "2026-09-21T22:57:48.000Z",
 } as const satisfies AllAboutAlanTopic

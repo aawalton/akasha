@@ -13,4 +13,6 @@ export const theTwentyYearsWeRememberDifferently = {
   ],
   settled:
     "My daily log says I wished I did not exist on about four days in five, for twenty years.\n\nJen does not remember it that way. What is disputed is not that it was bad but how bad.\n\nHer memory of it moves with how she is doing now. Mine was written down as the days happened.\n\nShe reads my figure as the worst days weighing too heavy in how I remember it. That bias needs a looking-back step to act on, and a log written day by day has none.\n\nI do not claim to be clear of it everywhere. My memory of growing up in the church is looked back on, so there it has a surface to work on.\n\nHer cognition runs emotional and anecdotal, so an argument built on my numbers is the wrong currency and does not land with her.\n\nThe load caused it and the marriage ran alongside. Retirement lifted it with the marriage unchanged.\n\nI read her doubt as protective rather than mistaken. It is very human to believe what you need to survive.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:16:17.000Z",
 } as const satisfies AllAboutAlanTopic

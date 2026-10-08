@@ -13,4 +13,6 @@ export const whatRecoveryDidNotGiveHer = {
   ],
   settled:
     "For most of the marriage Jen held that the stress was what was withholding me, and that lifting it would give back the man and the need-meeting with him.\n\nRetirement lifted it. I am much better on that dimension and still not meeting those needs, and she has become deeply discouraged.\n\nThe needs were never deferred by load. What she wants is attachment-love, and that is structurally unavailable rather than recoverable.\n\nEvery rise in my capacity that does not produce it is further evidence that capacity was never the bottleneck.\n\nWhether my care lands depends on her being able to believe what she needs to. That is the one capacity she has and I do not.\n\nOn 6 August 2026 I downgraded that claim. I think it is no longer load-bearing as it was: still fraught, but no longer deadly to break silence. The conditional landing is a cost I pay rather than the condition the marriage rests on.",
+  createdAt: "2026-09-21T20:02:18.290Z",
+  updatedAt: "2026-09-21T22:46:32.000Z",
 } as const satisfies AllAboutAlanTopic

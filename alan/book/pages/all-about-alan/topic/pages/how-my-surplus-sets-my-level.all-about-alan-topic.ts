@@ -15,4 +15,6 @@ export const howMySurplusSetsMyLevel = {
   ],
   settled:
     "My current safety level depends on my current stress-capacity surplus.\n\nThe optimal surplus is twelve hours. Below twelve I lose half a safety step. Below eight I lose another half step. The pattern continues on down.\n\nThat makes a loop that can run away. A cost drops my surplus, the lower surplus drops my safety level, the lower level raises the multiplier on everything I do, and the higher multiplier makes the next cost bigger. Once the multiplier is high the decline accelerates.",
+  createdAt: "2026-09-21T21:40:38.160Z",
+  updatedAt: "2026-09-21T21:40:41.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -8,4 +8,6 @@ export const controlPlaneIps = {
   takes: "every etcd member's address, which the membership arm weighs",
   value: "text",
   placeholder: "csv",
+  createdAt: "2026-09-12T09:16:05.285Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

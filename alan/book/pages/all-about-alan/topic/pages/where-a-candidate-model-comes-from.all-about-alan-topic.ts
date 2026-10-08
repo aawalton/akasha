@@ -10,4 +10,6 @@ export const whereACandidateModelComesFrom = {
   related: ["all-about-alan-topic/how-understanding-arrives"],
   settled:
     "Where a candidate compact structure comes from is half conscious and half not, and both sides generate candidates. It runs on Barbara Oakley's focus mode and diffuse mode.\n\nThe focused channel produces candidates while I am deliberately working the problem.\n\nThe diffuse channel produces them when I am not thinking about it at all. The clearest case is the first moment of the morning: the candidate is already there, built whole, handed over. I never watch it assemble.\n\nThe solver is the alternation rather than either channel alone. Focus loads and tests, diffuse assembles, focus comes back to check.",
+  createdAt: "2026-09-21T20:29:57.617Z",
+  updatedAt: "2026-09-21T22:18:51.000Z",
 } as const satisfies AllAboutAlanTopic

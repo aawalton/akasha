@@ -8,4 +8,6 @@ export const chapterLimit = {
   takes: "the most chapters one run joins, the earliest first",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-29T02:46:17.934Z",
+  updatedAt: "2026-09-29T02:46:23.000Z",
 } as const satisfies Argument

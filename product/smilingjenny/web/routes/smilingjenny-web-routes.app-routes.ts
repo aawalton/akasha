@@ -28,4 +28,6 @@ export const smilingjennyWebRoutes = {
     "route/jenny-upkeep",
     "route/jenny-no-such-page",
   ],
+  createdAt: "2026-09-10T15:12:39.222Z",
+  updatedAt: "2026-09-27T13:38:49.000Z",
 } as const satisfies AppRoutes

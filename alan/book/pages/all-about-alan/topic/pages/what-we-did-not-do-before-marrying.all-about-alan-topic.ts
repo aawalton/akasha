@@ -10,4 +10,6 @@ export const whatWeDidNotDoBeforeMarrying = {
   related: ["all-about-alan-topic/what-sex-with-jen-is-like"],
   settled:
     "Our standards for physical touch were very strict.\n\nWe held hands early, near when we first started dating. We did not kiss until we were engaged, and even that was a chaste kiss. We did not go further than cuddling until after we were married.",
+  createdAt: "2026-09-21T20:25:17.973Z",
+  updatedAt: "2026-09-21T20:25:21.000Z",
 } as const satisfies AllAboutAlanTopic

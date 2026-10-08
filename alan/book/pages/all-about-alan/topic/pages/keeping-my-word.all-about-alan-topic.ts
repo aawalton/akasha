@@ -9,4 +9,6 @@ export const keepingMyWord = {
   parents: ["all-about-alan-topic/why-i-have-to-be-perfect"],
   settled:
     "I either do what I committed to or I openly renegotiate it with the person I committed to. Failing is allowed if it is spoken. The silence is the part that is off the table.\n\nFailure is incredibly painful and expensive. Keeping a commitment costs less than renegotiating it, and renegotiating costs less than failing.\n\nThe currency of failure is stress capacity rather than worth. This is accounting under scarcity, not an honour code.\n\nI have spent so much time underwater, and failure has cost so much, that generalising rules around commitments to head off future costs is the rational thing for me to have done.\n\nIt is a governor of the same family as taking no deadlines and refusing responsibility.\n\nThree sayings carry the compressed version: the only way out is through, a man is only worth as much as his word, and doing it is easier than not doing it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:19:04.000Z",
 } as const satisfies AllAboutAlanTopic

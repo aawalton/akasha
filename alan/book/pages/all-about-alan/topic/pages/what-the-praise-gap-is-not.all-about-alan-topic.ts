@@ -10,4 +10,6 @@ export const whatThePraiseGapIsNot = {
   related: ["all-about-alan-topic/why-making-things-hurts"],
   settled:
     "It is not that appreciation is a backward verdict on a finished thing while praise is a forward pull. Both of them carry backward and forward at once, so the split does not fall on time.\n\nIt is not that praise is about me and appreciation is about what I made. People say good things about me directly and those do not land either, so the split does not fall there.\n\nA verdict on my work and a verdict on me are one category for me, on the good side exactly as on the bad.\n\nBoth of those being dead is what sent me to the definition itself.",
+  createdAt: "2026-09-21T20:25:30.617Z",
+  updatedAt: "2026-09-21T20:25:39.000Z",
 } as const satisfies AllAboutAlanTopic

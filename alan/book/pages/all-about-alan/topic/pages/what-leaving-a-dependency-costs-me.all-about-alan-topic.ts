@@ -10,4 +10,6 @@ export const whatLeavingADependencyCostsMe = {
   related: ["all-about-alan-topic/getting-out-from-under-a-dependency"],
   settled:
     "It counts money, time, learning, and the coordination cost of everything downstream of the thing.\n\nVery high is months of work or real capital. Moving house, replacing my income, replacing a software stack I have customised heavily, replacing a professional who knows my situation from the inside.\n\nHigh is weeks of work or meaningful capital. A bank with all its automatic payments, my internet, my health insurance.\n\nMedium is days. A streaming service, a recurring subscription. Low is hours or minutes. A grocery store, a brand of household good.\n\nThis is not the same as how critical the thing is. A trivial dependency can be expensive to leave when my data is locked inside it, and a critical one can have a clean alternative waiting.\n\nWhether the alternative is any good counts here. If the only other option is itself untrustworthy, leaving costs effectively infinite.\n\nEmotional cost folds in here rather than getting a factor of its own. I keep the thing mechanical on purpose.",
+  createdAt: "2026-09-21T20:05:19.594Z",
+  updatedAt: "2026-09-21T20:05:30.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const handingMyselfTheAllClear = {
   ],
   settled:
     "I reach for feminine-coded behaviours, aesthetics and signals as safety-raisers for myself, independent of anyone's presence. The mechanism is the same as when the signal comes from another person, the absence of macho cues and the presence of attunement, applied from the inside.\n\nThe environmental form needs a woman in the room. This form I run myself, which is what makes it a lever I control.\n\nIt asks nothing of a felt sense. The signal is observable, and the response lands on the settling side of the dial, so it is one of the levers that works around what I cannot picture or decode.\n\nSinging along to a chosen female voice is the worked case: a warm feminine vocal says you are safe here, repeated, until the alarm lies down far enough to let the expression out.\n\nThat was the historical pull toward feminine things. It was never wanting to be female. It was my nervous system reaching for the strongest all-clear it had.",
+  createdAt: "2026-09-21T21:38:58.460Z",
+  updatedAt: "2026-09-21T21:39:10.000Z",
 } as const satisfies AllAboutAlanTopic

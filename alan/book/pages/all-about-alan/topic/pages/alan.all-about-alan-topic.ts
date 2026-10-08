@@ -7,4 +7,6 @@ export const alan = {
   title: "Alan",
   definition: "who I am",
   settled: "Every other topic in this book sits under this one.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

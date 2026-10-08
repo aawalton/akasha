@@ -13,4 +13,6 @@ export const whatDoingItMyselfLooksLike = {
   ],
   settled:
     "Solar with a battery instead of the grid for the daily run. A garden and stored food instead of the grocers for staples. Owning the tools and learning to repair, instead of repair services and buying the thing again. Running my own services instead of renting somebody else's software. Underneath all of it, any skill that replaces something I would otherwise have paid for.\n\nThe cost is shaped differently from switching. More capital and more learning at the front, and almost nothing recurring past maintenance.\n\nThe trust burden goes to zero. There is no organisation left to grade.\n\nWhat dependencies remain are simpler and swappable. Whoever sells me the equipment, whoever sells me the materials.\n\nOver a long enough horizon it is usually the cheaper one, and the older way of framing this buried that.\n\nIt is not always available and not always cheaper. That gets judged one item at a time.",
+  createdAt: "2026-09-21T20:14:32.207Z",
+  updatedAt: "2026-09-21T20:14:35.000Z",
 } as const satisfies AllAboutAlanTopic

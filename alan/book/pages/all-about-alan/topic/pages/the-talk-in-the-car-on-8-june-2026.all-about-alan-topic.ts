@@ -13,4 +13,6 @@ export const theTalkInTheCarOn8June2026 = {
   ],
   settled:
     "She had an appointment to collect two hundred and fifty pounds of cleaned, sorted Lego she had found for me, for Lego art against my creativity scars. She suggested we talk on the drive.\n\nThese talks go better on the phone, me walking and her colouring, so I sat in the back seat to break the stress loop. I think that was the third flag.\n\nI opened with connection as a homeostatic need and loneliness as load on my nervous system. It was new to her, so she wrestled with it, her normal process.\n\nMy brain read the wrestling as criticism and I went into fight or flight. The red flag I went past.",
+  createdAt: "2026-09-21T21:58:07.311Z",
+  updatedAt: "2026-09-21T22:49:58.000Z",
 } as const satisfies AllAboutAlanTopic

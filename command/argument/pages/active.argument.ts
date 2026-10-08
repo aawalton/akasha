@@ -7,4 +7,6 @@ export const active = {
   said: "--active",
   takes: "whether the rule is active",
   value: "true-or-false",
+  createdAt: "2026-09-12T08:20:22.123Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

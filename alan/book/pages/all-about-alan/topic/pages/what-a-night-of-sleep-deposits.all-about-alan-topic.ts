@@ -10,4 +10,6 @@ export const whatANightOfSleepDeposits = {
   related: ["all-about-alan-topic/sleep", "all-about-alan-topic/the-surplus-i-try-to-stay-above"],
   settled:
     "Sleep pays back an hour of capacity for every hour slept. Six hours slept is six capacity hours, ten hours slept is ten.\n\nSo a morning opens somewhere in level two or three. Six hours lands inside level two, ten hours lands at the top of level three.\n\nSlow breathing through the morning carries the surplus past twelve capacity hours, which is where the recovery arithmetic runs at its target.\n\nThe nine or ten I want was never chosen by experiment. I slept as much as I could and that is where it landed. There is no deficit I am closing against a target, and every extra hour is noticeable at the margin.",
+  createdAt: "2026-09-21T20:02:29.549Z",
+  updatedAt: "2026-09-21T20:20:49.000Z",
 } as const satisfies AllAboutAlanTopic

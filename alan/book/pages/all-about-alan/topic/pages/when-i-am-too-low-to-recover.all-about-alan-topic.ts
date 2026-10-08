@@ -13,4 +13,6 @@ export const whenIAmTooLowToRecover = {
   ],
   settled:
     "At a four to eight hour deficit my health can be too low to recover my health.\n\nLow health pulls my mana and my stamina down with it. The moves that pay health back, the hot bath and exercise, both spend mana and stamina. So the bath goes out of reach exactly when I need it most.\n\nThat is one of the most difficult times for me.\n\nA smaller deficit leaves enough mana to fire a bath. A deeper one does not show up in how I actually live. The window tends to land on this one rung.\n\nIt is a property of how my resources hang together rather than of any one remedy. Any recovery move spending what health gates can hit the same wall.\n\nThe ways out are the moves that cost nothing: sleep, where I can get it started, and lying down.",
+  createdAt: "2026-09-21T20:02:55.218Z",
+  updatedAt: "2026-09-21T22:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

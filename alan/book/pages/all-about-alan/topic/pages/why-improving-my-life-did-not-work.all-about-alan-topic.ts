@@ -13,4 +13,6 @@ export const whyImprovingMyLifeDidNotWork = {
   ],
   settled:
     "For months my purpose was improving my life, and it never worked as one. It was implicit rather than a bridge I had built, so it made no pull. I was only trying to be less miserable, and could muster no desire to act even then.\n\nImproving my life means making it more pleasant, and that depends enormously on things outside my control. It made a constant source of dissonance.\n\nImproving myself is entirely within my control, to the extent it is possible at all. Moving the purpose itself inside the circle of control takes the dissonance away at its source rather than managing it.\n\nThe test of a purpose is whether it makes motion. This one built momentum again and got me out of flop, which is the test improving my life kept failing.",
+  createdAt: "2026-09-21T20:06:18.187Z",
+  updatedAt: "2026-09-21T20:06:22.000Z",
 } as const satisfies AllAboutAlanTopic

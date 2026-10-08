@@ -10,4 +10,6 @@ export const whatPartneredSexIsWorthToMe = {
   related: ["all-about-alan-topic/living-with-jen"],
   settled:
     "Sex is like food for me. I get about a tenth of what most people get from it, Jen included.\n\nThe value lives in the wings, in the anticipating before and the savouring after, and I have neither. I cannot picture what is coming, and what I remember carries no charge. What is left is the present slice alone, fleeting and mixed in with costs that are significant.\n\nSo this is an amputation in the structure rather than low desire. It is not that I value it ninety percent less. Ninety percent of the value is in two rooms I have no door to.\n\nIt is a hygiene factor rather than a core support: a thing whose absence causes a problem and whose presence builds nothing. We have made real progress on the costs, and if they come down far enough it could land at neutral for me. Neutral is the ceiling. It can never anchor a relationship.",
+  createdAt: "2026-09-21T20:01:33.476Z",
+  updatedAt: "2026-09-21T20:13:02.000Z",
 } as const satisfies AllAboutAlanTopic

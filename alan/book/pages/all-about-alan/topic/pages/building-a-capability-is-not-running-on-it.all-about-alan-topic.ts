@@ -10,4 +10,6 @@ export const buildingACapabilityIsNotRunningOnIt = {
   related: ["all-about-alan-topic/the-garden-we-do-not-eat-from"],
   settled:
     "The garden is the clean case. Real capital and real landscaping went into it, and almost nothing off it reaches the table.\n\nBuilding a capability and living off it are two different things. Harvesting and preserving is a capability of its own, and it has to be cultivated apart from the beds.\n\nNot needing a thing has phases I had not named: built, operating, load-bearing. Owning the infrastructure gets me only the first of them.",
+  createdAt: "2026-09-21T20:10:19.104Z",
+  updatedAt: "2026-09-21T20:11:20.000Z",
 } as const satisfies AllAboutAlanTopic

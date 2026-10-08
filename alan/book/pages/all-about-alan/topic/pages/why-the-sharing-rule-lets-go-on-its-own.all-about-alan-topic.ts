@@ -14,4 +14,6 @@ export const whyTheSharingRuleLetsGoOnItsOwn = {
   ],
   settled:
     "The sharing rule dissolves itself. Its condition is that I cannot separate criticism of me from criticism of what I made, which is the fusion the creativity scar runs on. As that seam heals, a critique of the work stops landing as a critique of me, sharing stops being unaffordable, and the rule stops firing.\n\nSo it holds the gate until the seam heals and then lets go. A titration valve rather than a wall.",
+  createdAt: "2026-09-21T22:01:59.757Z",
+  updatedAt: "2026-09-21T22:02:02.000Z",
 } as const satisfies AllAboutAlanTopic

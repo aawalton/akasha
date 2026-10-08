@@ -8,4 +8,6 @@ export const char = {
   takes: "the character the answer is scoped to, as the capture names that character",
   value: "text",
   placeholder: "id",
+  createdAt: "2026-09-12T08:24:28.941Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

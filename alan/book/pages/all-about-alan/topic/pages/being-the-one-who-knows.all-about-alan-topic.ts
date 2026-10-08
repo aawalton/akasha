@@ -9,4 +9,6 @@ export const beingTheOneWhoKnows = {
   parents: ["all-about-alan-topic/being-known"],
   settled:
     "I have trained my neural network for forty years to behave in socially appropriate ways, and pain has taught me enough to avoid causing myself more pain most of the time. It runs as instinct rather than as anything recalled.\n\nFor Jen I am the expensive but willing knower, the role run from my side. Her emotional and sensory world is foreign to me, so I am a poor knower for her, and I can emulate the right responses well enough, often enough, to mostly meet the need.\n\nSupplying it does not refill my own. It pays them in a coin that only looks like mine.\n\nWhat comes back is a helpfulness signal and, now and then, learning something about them.\n\nAgainst those sits a masking cost, because running the policy is itself expensive. Whether the whole transaction nets positive or negative for me is not a number I have.\n\nNo mind has real access to another. Everyone judges from signals, and I have only made that explicit.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:02:17.000Z",
 } as const satisfies AllAboutAlanTopic

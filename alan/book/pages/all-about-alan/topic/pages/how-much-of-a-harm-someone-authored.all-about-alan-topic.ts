@@ -10,4 +10,6 @@ export const howMuchOfAHarmSomeoneAuthored = {
   related: ["all-about-alan-topic/the-line-a-being-crosses-to-count"],
   settled:
     "Agency is an individual's share of the causal magnitude of their own value stream. I read that stream as the payoff of a cooperative game whose players are every agent there is, and agency is their attribution over the total of all the magnitudes. It runs from zero to one, and it can be taken over a whole life, one domain, one event, or a single harm.\n\nEvery sentient being has strictly positive agency, and I derive that rather than assume it. Sentience is self-maintained organisation, and anything that can causally maintain itself can causally fail to, so before any harm there was always a path of nonzero probability, its own cessation, on which that harm never reaches it. It is never a null player in the game about its own harm.\n\nThe agency can be tiny. A newborn has few such paths and an adult many. Zero is kept for things that are not sentient, and no weighted victim ever sits there.",
+  createdAt: "2026-09-21T20:11:08.597Z",
+  updatedAt: "2026-09-21T20:11:41.000Z",
 } as const satisfies AllAboutAlanTopic

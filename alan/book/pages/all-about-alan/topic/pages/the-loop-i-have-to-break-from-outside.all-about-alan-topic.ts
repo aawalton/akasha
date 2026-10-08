@@ -14,4 +14,6 @@ export const theLoopIHaveToBreakFromOutside = {
   ],
   settled:
     "The right dose is the one for reconditioning an injured athlete: enough load to rebuild, not so much that it relapses.\n\nRaising capacity and getting connection are usually two levers. They merged when the connection debt became the biggest thing holding my capacity down, so raising capacity now runs through connection.\n\nThat makes a loop. Restoring capacity needs connection, and affording costly connection needs capacity.\n\nThe best-fit source is Jen, and that channel needs both of us to have headroom in the same window. Two sensitive nervous systems rarely have surplus at once, so the window is narrow.\n\nA loop like this is broken by injecting the scarce thing from outside it. Spend first where the capacity cost per hour of connection is lowest, bank enough to lift capacity, then afford the next source up. The source has to reach my body, which today means real and in person.",
+  createdAt: "2026-09-21T21:37:34.556Z",
+  updatedAt: "2026-09-21T21:38:10.000Z",
 } as const satisfies AllAboutAlanTopic

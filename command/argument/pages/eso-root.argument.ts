@@ -8,4 +8,6 @@ export const esoRoot = {
   takes: "the game's Lua source root, the `~/esoui` clone where none is said",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T08:03:05.433Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

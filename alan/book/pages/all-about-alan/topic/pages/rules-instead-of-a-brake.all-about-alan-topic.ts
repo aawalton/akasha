@@ -10,4 +10,6 @@ export const rulesInsteadOfABrake = {
   related: ["all-about-alan-topic/not-wanting-to-is-the-gauge"],
   settled:
     "I keep them written down because nothing in the moment tells me to stop.\n\nWhere my neurotype supplies no faculty inside, I build an explicit rule outside instead. Calling a bad stretch weather and scoring an irreversible decision on a rubric are the same move.\n\nA rule that fires before the in-the-moment read gets a vote is the only thing that can override an overconfidence the moment cannot feel as excessive, and overconfidence is loudest exactly when I am doing well.\n\nNot wanting to gets full trust as a veto. Wanting to, and confidence, get none. The same gauge is treated oppositely at its two ends because the whole system exists to limit over-acting.\n\nThese are the rules I chose. The rules a punishing childhood installed are a different kind, and those I renegotiate rather than delete.\n\nSubstituting an outside governor for a missing inside one is genuinely hard, and I do not always manage it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:02:20.000Z",
 } as const satisfies AllAboutAlanTopic

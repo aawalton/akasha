@@ -14,4 +14,6 @@ export const theThingsIStayWithForYears = {
   ],
   settled:
     "My deep interests run for years rather than months. Autism wants the same thing every day and ADHD wants something different every day. Those look incompatible until the resolution: same context, novel content.\n\nMy favourite books are the longest ones. Top of that list is The Wandering Inn, at about sixteen million words.\n\nI play almost exclusively one game, The Elder Scrolls Online, and I have been at it more than ten years and more than twelve thousand hours.\n\nBoth work for one reason. The frame never changes and what happens inside it always does.\n\nWith no emotional memory, how I relate to a thing, a place or a person runs on the direct response of my nervous system to it. That response is slow to form, which pushes me further into whatever I have already done most.",
+  createdAt: "2026-09-21T20:28:26.250Z",
+  updatedAt: "2026-09-21T20:28:36.000Z",
 } as const satisfies AllAboutAlanTopic

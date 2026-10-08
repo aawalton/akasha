@@ -13,4 +13,6 @@ export const whereThingsAreWithMyBrother = {
   ],
   settled:
     "My brother is Nick. The question on its own brings a stress response and sadness and grief close to tears, and I almost never cry.\n\nWe hosted him and his girlfriend at Thanksgiving. I managed polite, and I had trouble regulating for part of the night.\n\nHosting is what makes seeing him affordable. It gives me a room to retreat to and a way to leave early without hurting anybody.\n\nMy plan for a family gathering is to keep the time around people small: come when it is time to eat and otherwise stay out of it.\n\nIf I were healthier, with my safety higher and the multiplier lower, I would consider more deliberate contact for the exposure it buys. Where I am now, minimal is the right call.",
+  createdAt: "2026-09-21T20:28:55.884Z",
+  updatedAt: "2026-09-21T20:28:59.000Z",
 } as const satisfies AllAboutAlanTopic

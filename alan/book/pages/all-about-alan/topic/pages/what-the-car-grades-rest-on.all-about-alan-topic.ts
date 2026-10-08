@@ -10,4 +10,6 @@ export const whatTheCarGradesRestOn = {
   related: ["all-about-alan-topic/how-i-grade-an-organisation"],
   settled:
     "State Farm is mutual on paper and runs at corporate scale with the same profit pressure, so what I am grading is the category rather than the company. The reservations are the standard ones for American for-profit car cover: claim-denial patterns, premium creep, friction on a dispute. I am tracking no bad act of theirs in particular. The D comes off the industry.\n\nEdgemont Auto sits at medium criticality. The car depends on them for repair now, and that dependence climbs sharply as the car ages.\n\nCostco Gas keeps the standing Costco reservation, which is that nothing is tested by a third party. On fuel that barely bites, because fuel grade is regulated separately. The posture is the same; the exposure is not.",
+  createdAt: "2026-09-21T22:08:59.130Z",
+  updatedAt: "2026-09-21T22:09:02.000Z",
 } as const satisfies AllAboutAlanTopic

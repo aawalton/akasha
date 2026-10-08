@@ -13,4 +13,6 @@ export const howILearnedToFeelMyBody = {
   ],
   settled:
     "Before dancing, my sense of where my body was ran weakly or not at all. I only realised about a year ago that I do not intrinsically know where my limbs are most of the time. It is what made me so clumsy as a child.\n\nIn college I took almost a major's worth of ballroom classes. That got me past the clumsiness.\n\nThe words came first: frame, axis, weight transfer, posture, head carriage. Each was a handle to check myself against while the pattern was still being built. Without them I would have been learning by imitation, which is the channel I do not have.\n\nThen sheer volume, until it encoded and the checking fell away. The words are still there as a fallback, but by default the body runs on the trained weights.\n\nIt carried off the dance floor. At the missionary training centre I caught myself dancing while washing dishes, and it reached how I move through a room.\n\nNothing bound it to a dance floor, which is the same gap that made it expensive to build.\n\nI still run into things often.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:10:55.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -15,4 +15,6 @@ export const howIPreventACategoryOfWrong = {
   ],
   settled:
     "For every failure I ask what went wrong, and how that category of wrong can be prevented.\n\nSome things can be prevented programmatically, through checks or architecture. Some only through agent instructions.\n\nChecks always win. Instructions are only for things a check cannot catch.\n\nThat includes telling agents what the checks are catching, so agents do not corrupt the checks.\n\nThe failure neither a check nor an instruction can prevent is agents not knowing what is in my head.",
+  createdAt: "2026-08-28T01:57:15.741Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

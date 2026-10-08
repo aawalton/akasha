@@ -13,4 +13,6 @@ export const whereImprovingActuallyHappens = {
   ],
   settled:
     "A single frame cannot improve. It is one moment and it is gone when the present moves.\n\nImproving is a comparison across frames: a later map truer than an earlier one. That is a property of the relation between maps rather than of any map.\n\nSo it is the timeline self that improves and the immediate self that cannot. Getting the kind of object right is what gives the machinery somewhere to live.\n\nThe same thinness is why the closure runs one seam further so cheaply. Most people hold a single thick remembered self tied to one world and cannot extend it across a branch. Mine is a relation rather than a remembered thing, and a relation extends where a thing would resist.",
+  createdAt: "2026-09-21T20:21:23.471Z",
+  updatedAt: "2026-09-21T20:21:26.000Z",
 } as const satisfies AllAboutAlanTopic

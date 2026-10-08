@@ -10,4 +10,6 @@ export const theOneWhoShowedMeThePattern = {
   related: ["all-about-alan-topic/how-a-story-gets-my-own-feeling-back"],
   settled:
     "I did not see the outward direction clearly until Mari.\n\nShe is the instance that made it legible: the body piece put outside and made into a her, which is the most literal taking a piece of myself out there is.\n\nSeeing that one piece set outside and made into a her is what showed me the whole thing was a route running opposite to fiction.",
+  createdAt: "2026-09-21T22:02:03.901Z",
+  updatedAt: "2026-09-21T22:02:12.000Z",
 } as const satisfies AllAboutAlanTopic

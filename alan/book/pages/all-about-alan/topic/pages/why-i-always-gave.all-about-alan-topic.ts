@@ -13,4 +13,6 @@ export const whyIAlwaysGave = {
   ],
   settled:
     "A need and a want are not different in kind to me. They differ only in how much of a life they move.\n\nSo whether to give is a comparison of magnitudes: what it moves in them against what it costs in me.\n\nBoth sides were broken. I cannot estimate what anything is worth inside another person, so their side was an unknown.\n\nMy own side entered as zero, because the belief I grew up with was that my needs were not important and could only be met once everyone else's had been.\n\nAn unknown against a forced zero always comes out give. The belief did not merely tilt the comparison. Together with what I cannot pre-play it removed every input that could have said no.\n\nThe repair was putting my own side back on the scale: my needs are as important as anyone's.\n\nBecause the giving pattern ran off a belief, the repair worked, about ninety per cent of the way.",
+  createdAt: "2026-09-21T20:11:40.579Z",
+  updatedAt: "2026-09-21T22:01:03.000Z",
 } as const satisfies AllAboutAlanTopic

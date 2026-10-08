@@ -10,4 +10,6 @@ export const whenAValueLiftsAFace = {
   related: ["all-about-alan-topic/what-i-value-in-order"],
   settled:
     "An image embodying freedom lifted an already-peak image past its ceiling, with no visual change at all.\n\nFreedom is a value I already knew was load-bearing for me, and it had never been tied to my aesthetic response before.\n\nSo the resonance of a value I hold can add to attraction on top of the visual channels, and it can move a response I do not choose.",
+  createdAt: "2026-09-21T20:30:05.031Z",
+  updatedAt: "2026-09-21T20:30:25.000Z",
 } as const satisfies AllAboutAlanTopic

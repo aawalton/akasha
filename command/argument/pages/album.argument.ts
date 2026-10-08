@@ -8,4 +8,6 @@ export const album = {
   takes: "the album to fetch, said as its share URL",
   value: "text",
   placeholder: "share-url",
+  createdAt: "2026-09-12T09:04:55.405Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

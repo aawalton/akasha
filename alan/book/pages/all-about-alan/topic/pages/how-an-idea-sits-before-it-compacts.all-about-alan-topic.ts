@@ -10,4 +10,6 @@ export const howAnIdeaSitsBeforeItCompacts = {
   related: ["all-about-alan-topic/how-i-remember-anything"],
   settled:
     "Before an idea compacts it is not nothing. It is held as a fuzzy generalisation, better described as a generalised probability distribution, and I keep collecting data points until the clarity arrives that makes them compact to some degree.\n\nWhat is held is not the raw data points. I cannot keep particulars. What is held is their encodings, so the distribution is a cloud of related hashes rather than a set of remembered observations.\n\nWhen a candidate structure arrives I have a sense of whether the hashes are consistent with it. The ones that do not fit become more salient.\n\nThe candidate is the thing the cloud gets tested against, and the misfit between the two is what drives the next move.",
+  createdAt: "2026-09-21T20:29:37.866Z",
+  updatedAt: "2026-09-21T20:29:41.000Z",
 } as const satisfies AllAboutAlanTopic

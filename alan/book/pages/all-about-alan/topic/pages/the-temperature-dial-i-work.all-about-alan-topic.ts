@@ -10,4 +10,6 @@ export const theTemperatureDialIWork = {
   related: ["all-about-alan-topic/the-weighted-blanket", "all-about-alan-topic/how-i-move-my-body"],
   settled:
     "Perceiving heat and cold from outside still works, so applied warmth and applied cold both land. Something from outside replaces the production that failed.\n\nFor a cold stretch, extra layers and a hot bath. The bath does two jobs at once, rescuing the temperature and paying back capacity.\n\nFor a hot stretch, the weighted blanket. Its mass gives it somewhere to put my heat, so my body offloads into the fabric.\n\nHeat capacity is not insulation. Insulation traps heat, which is the wrong direction when I am overheating. Heat capacity absorbs it. A warm blanket for a cold night is the naive reading and it runs backwards for me.\n\nCold food works from the other side, which is why I go for a popsicle when I am overheated.\n\nExertion makes heat, so cooler conditions and cooler ground are easier to move in, and the hot-leaning state is where the vigorous forms are most affordable.",
+  createdAt: "2026-09-21T20:26:15.319Z",
+  updatedAt: "2026-09-21T20:26:18.000Z",
 } as const satisfies AllAboutAlanTopic

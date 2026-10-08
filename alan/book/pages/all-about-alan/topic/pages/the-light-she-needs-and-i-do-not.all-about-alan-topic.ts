@@ -9,4 +9,6 @@ export const theLightSheNeedsAndIDoNot = {
   parents: ["all-about-alan-topic/how-i-keep-light-down", "all-about-alan-topic/living-with-jen"],
   settled:
     "Ambient light drains me. It lifts Jen. For her it is positive stimulation and it helps her get things started, which is the inverse of what it does to me.\n\nSo the lighting is settled room by room, and by default I defer to her.\n\nThe override is when I am really not doing well. Below that line the light goes off whatever the room.\n\nDeferring is not a cost paid once when the rule was set. It runs on as a standing cost the whole time the accommodation does.",
+  createdAt: "2026-09-21T21:40:50.205Z",
+  updatedAt: "2026-09-21T21:42:57.000Z",
 } as const satisfies AllAboutAlanTopic

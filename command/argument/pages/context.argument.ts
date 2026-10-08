@@ -8,4 +8,6 @@ export const context = {
   takes: "the clip the conditioning window is taken from",
   value: "path",
   placeholder: "mp4",
+  createdAt: "2026-09-12T08:54:08.846Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

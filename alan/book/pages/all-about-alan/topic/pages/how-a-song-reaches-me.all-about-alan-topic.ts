@@ -13,4 +13,6 @@ export const howASongReachesMe = {
   ],
   settled:
     "Aphantasia leaves me no emotional recall, so a song is the one channel that surfaces feeling.\n\nIt reaches me through what a song is about, not its sound. Unpacking the meaning is the listening.\n\nThen it breaks the surface: I sing along and have to stop because I am crying. That fired on three different songs in a single sitting.\n\nIt is strongest read aloud with someone, my reading first and then the layer I missed. I had wanted that for years.\n\nSinging where anyone can hear me is exposure rather than pleasure, above my usual line. I am still not in a place where I let hardly anyone hear my voice.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:47:59.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whetherWhatIsShortIsThePace = {
   ],
   settled:
     'Put to me: I have already bolted progression machinery onto my real life. Points and a light on each of my values, levels, thirteen stoplights, a mastery ladder, a writing economy. The hunger is still there anyway.\n\nWhere the cut is, in my words: "The cut here is the difficulty of satisfying this need for progression in my actual life."\n\nAsked whether what is short is the pace or my trust in the number, I picked the number: "Yeah, its the drift gap, the fact that I have to build each piece to use it, and the fact that for most of my life the tech needed to build the pieces just didnt\' exist (and much is still missing)"\n\nA stat in her world provably measures the thing. A point in mine is a proxy that can drift from what it is for.',
+  createdAt: "2026-09-21T21:59:56.901Z",
+  updatedAt: "2026-09-21T22:00:00.000Z",
 } as const satisfies AllAboutAlanTopic

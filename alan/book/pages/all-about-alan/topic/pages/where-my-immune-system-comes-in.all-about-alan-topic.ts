@@ -10,4 +10,6 @@ export const whereMyImmuneSystemComesIn = {
   related: ["all-about-alan-topic/what-wears-my-body-down"],
   settled:
     "The working hypothesis is that my immune system runs activated and that the activation adds to the load my body is carrying.\n\nWhat I feel comes from the load rather than from my immune system attacking my own tissue. That is a different shape from the usual autoimmune story.\n\nSo the activation is real and the route is long: it goes through the regulatory nervous system and shows up there rather than as damage anywhere I could point to.",
+  createdAt: "2026-09-21T20:04:12.320Z",
+  updatedAt: "2026-09-21T20:04:16.000Z",
 } as const satisfies AllAboutAlanTopic

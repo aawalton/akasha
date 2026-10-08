@@ -13,4 +13,6 @@ export const theDayIFlopped = {
   ],
   settled:
     "It was the day after a twelve-hour conversation with Jen about connection needs of mine that are not met, and I was miserably sick on both days.\n\nIn a flop the felt state is completely unsafe, an immediate threat to my existence. The mental content is that no intervention is available. The body shuts down: low heart rate, low blood pressure, parasympathetic. It waits to die or for the threat to pass.\n\nI ranged from minus two to nought across the day, falling back to minus two repeatedly. I came up a bit when we seemed to be making progress and might get unstuck, and dropped again when the path did not actually work. The rises were emergent rather than engineered. We were working the general problem, not aiming at an unblocking path.\n\nThe exit came two days later, on 11 June, through the walk where I clarified my purpose. It was the first candidate path that held, and the momentum it generated is what verified it.",
+  createdAt: "2026-09-21T20:30:04.589Z",
+  updatedAt: "2026-09-21T20:30:37.000Z",
 } as const satisfies AllAboutAlanTopic

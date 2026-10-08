@@ -13,4 +13,6 @@ export const theExperimentThatMeasuredTheFall = {
   ],
   settled:
     "At twenty I carried six months of the heaviest social load there is, daily: knocking on doors and stopping people in the street, in a language not mine. Then I broke.\n\nAt my low point, less than ninety minutes of the same kind of load reached the same breaking line.\n\nThe ninety minutes is not a clean reading of that load alone. It is the whole cost of the breaking event it sat in, which carried lighter loads alongside the social one, and the social part was probably a tenth of it.\n\nSo taking the two figures at face value overstates the fall by about tenfold. The calibrated drop is a hundredfold.",
+  createdAt: "2026-09-21T20:13:02.298Z",
+  updatedAt: "2026-09-21T22:49:58.000Z",
 } as const satisfies AllAboutAlanTopic

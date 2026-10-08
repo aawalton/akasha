@@ -13,4 +13,6 @@ export const theSoftwareIPayForEveryMonth = {
   ],
   settled:
     "Cloudflare and Let's Encrypt each grade B, and they are the only two.\n\nAnthropic grades D, down from B this year.\n\nGmail and Google Drive grade D on their parent's behaviour rather than on the products. Moving off one Google service while staying on another solves nothing, so they go together or not at all.\n\nMint Mobile carries the phones for all five of us at D. T-Mobile bought it in 2024, which put its record back to zero.\n\nNetflix, Disney Plus, Crunchyroll and YouTube Premium are all D, all convenience, none urgent.\n\nMonarch Money pulls our accounts together at C. A young startup, no evidence either way, and a kind of company that has enshittified before.\n\n1Password holds the household's passwords at C. Nothing bad so far, but losing it or having it broken would break getting into everything at once.",
+  createdAt: "2026-09-21T20:18:42.936Z",
+  updatedAt: "2026-09-21T20:18:46.000Z",
 } as const satisfies AllAboutAlanTopic

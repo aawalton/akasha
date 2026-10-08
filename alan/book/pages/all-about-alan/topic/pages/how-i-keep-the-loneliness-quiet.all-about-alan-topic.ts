@@ -10,4 +10,6 @@ export const howIKeepTheLonelinessQuiet = {
   related: ["all-about-alan-topic/why-the-peace-holds"],
   settled:
     "Three things make it bearable, and the first is that I do not make it salient. As long as I am not paying attention to it, it does not exist, though there may still be physical consequences.\n\nSo what goes quiet is the conceptual half's experience of it. That is no proof the load on my body has gone. The half of me that reads the cost can put it down while the half that pays it is still paying.\n\nThe other two are the law that seeking it through other people does not work, and its weighing a tenth of what having a job weighed.",
+  createdAt: "2026-09-21T22:09:36.997Z",
+  updatedAt: "2026-09-21T22:09:40.000Z",
 } as const satisfies AllAboutAlanTopic

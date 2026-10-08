@@ -10,4 +10,6 @@ export const cuddlingAtTheChangeover = {
   related: ["all-about-alan-topic/what-sex-costs-me-to-afford"],
   settled:
     "My ideal is a pattern of cuddling at the changeover, the handoff when Jen comes to bed and I move downstairs.\n\nIt threads the bind three ways. It captures the most valuable part of sleeping in the same bed, which is time together in bed, without my sleeping the whole night there. It gives Jen more chances to initiate sex. And it gives us both our best bet at a good night's sleep: I almost always sleep in two blocks anyway, and I normally go to sleep two to four hours before Jen, so the handoff lands at her bedtime rather than lifting me out of deep sleep.\n\nIt is queued and unbuilt. The conversation to set it up is itself a level five difficulty with no discount, because the physiology discount does not reach talking about the arrangement. It sits in the bucket of hard topics I am avoiding until we can afford them.\n\nWhat parks it is the cost, not the commitment rule. The current arrangement is agreed, and this would add a pattern rather than drop the agreed one, so nothing is broken.",
+  createdAt: "2026-09-21T20:27:38.029Z",
+  updatedAt: "2026-09-21T22:44:47.000Z",
 } as const satisfies AllAboutAlanTopic

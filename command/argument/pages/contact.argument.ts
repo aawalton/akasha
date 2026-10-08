@@ -8,4 +8,6 @@ export const contact = {
   takes: "one contact to hold the answer to, in the address book or by number or address",
   value: "text",
   placeholder: "name-or-handle",
+  createdAt: "2026-09-12T09:05:28.944Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

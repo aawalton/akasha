@@ -14,4 +14,6 @@ export const theChildhoodIHaveWrittenDown = {
   ],
   settled:
     "Preschool was southern Provo, dim and distant and still formative. I learned maths up through algebra there and first got my hands on a computer.\n\nAt six we moved to northern Provo and I started at Rock Canyon Elementary. I was a year too young for first grade, so they gave me readiness tests. I scored at fourth grade or above in every category, and would have scored higher except that I only knew my times tables up to four.\n\nI expanded socially until I wanted twenty friends at my tenth birthday. I met Rusty, Micah, David and Kerry. I trusted easily, connected easily, and felt well liked.\n\nThen I found social pressure. In fourth grade I told my mother I did not want to learn any more maths until my classmates caught up, and she registered me as a homeschool student. I kept going to the classes in term and studied through the summers as well.\n\nThat is where I learned to love reading, and I read voraciously.",
+  createdAt: "2026-09-21T20:30:30.495Z",
+  updatedAt: "2026-09-21T20:30:34.000Z",
 } as const satisfies AllAboutAlanTopic

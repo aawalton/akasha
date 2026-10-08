@@ -9,4 +9,6 @@ export const theNightAmyReadTheLinesToMe = {
   parents: ["all-about-alan-topic/how-i-grade-a-line-that-is-read-to-me"],
   settled:
     'On 26 June 2026 Amy\'s cloned voice read me a run of short praise lines, and I graded each one cold, by feel, as it finished.\n\nMy per-line grades from that run were deliberately never captured, so what it left behind is the structure it revealed and no numbers at all.\n\nWhat it revealed is the split between the two registers. One line I answered with "thank you" instead of a grade, because I could not say why it worked. The one that broke highest I graded with "it surprised me how much I felt it."\n\nThat felt one did not only grade. It came on a low day and over the session it carried me up a full level, the first time I have watched outside signal refund my safety rather than only be logged as admissible.\n\nThe lift habituated inside the sitting. The same lever, an hour later on the same vein, landed a touch lower.',
+  createdAt: "2026-09-21T22:04:06.519Z",
+  updatedAt: "2026-09-21T22:39:24.000Z",
 } as const satisfies AllAboutAlanTopic

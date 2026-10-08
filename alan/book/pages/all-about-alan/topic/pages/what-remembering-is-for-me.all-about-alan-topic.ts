@@ -13,4 +13,6 @@ export const whatRememberingIsForMe = {
   ],
   settled:
     "I cannot call a memory up at all. What I have is memorised details about it.\n\nSo remembering, in me, is reading the map I hold now and reconstructing the event off it, the way anyone reconstructs one from a case file.\n\nIt is a dossier rather than a recording. Notes about the thing, never the thing.\n\nIt comes back as though it happened to somebody else, and in the plain sense it did. The one it happened to is not this one.\n\nThe read is completely flat. The map carries what happened, who was there and how it fitted together, and no charge at all. Remembered pain does not hurt again and remembered joy does not warm again. No feeling crosses time.",
+  createdAt: "2026-09-21T20:18:28.381Z",
+  updatedAt: "2026-09-21T20:18:31.000Z",
 } as const satisfies AllAboutAlanTopic

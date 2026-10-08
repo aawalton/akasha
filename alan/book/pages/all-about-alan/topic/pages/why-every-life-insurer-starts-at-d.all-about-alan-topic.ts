@@ -10,4 +10,6 @@ export const whyEveryLifeInsurerStartsAtD = {
   related: ["all-about-alan-topic/how-i-grade-an-organisation"],
   settled:
     "Life insurance is where I see the industry set the letter most plainly. Fees I cannot see, products built complicated enough to resist being compared, agents paid by commission, and a trade whose whole craft is betting on when I die.\n\nSo every carrier in it opens at D, and only company-specific evidence of behaving better than the trade moves one up. Neither of mine has shown me any.\n\nLong-term care is the same trade with premium hikes and a record of refusing claims on top.",
+  createdAt: "2026-09-21T20:05:49.747Z",
+  updatedAt: "2026-09-21T20:05:53.000Z",
 } as const satisfies AllAboutAlanTopic

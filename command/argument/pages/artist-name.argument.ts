@@ -8,4 +8,6 @@ export const artistName = {
   takes: "the artist looked for by name",
   value: "text",
   placeholder: "name",
+  createdAt: "2026-09-12T08:45:06.649Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

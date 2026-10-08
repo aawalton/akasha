@@ -10,4 +10,6 @@ export const callingMyselfASerialQuitter = {
   related: ["all-about-alan-topic/why-i-have-to-be-perfect"],
   settled:
     "I call myself a serial quitter, and the reflex reads that as proof of failure.\n\nI often take solace in not trying for a while, in giving up to give myself time to rest.\n\nThe affordability rule reads it the other way. Stepping back is declining what I cannot afford, at the scale of a whole pursuit rather than a single task, and it scores as correctly declined.\n\nThat reading is not installed yet. For forty years I held a deeper version of the belief: not only is perfection safe, it is the best I can do.\n\nAcceptance that trying is still flawed and that this is all right lands on me as something to aim at rather than somewhere I have arrived. It does not feel safe yet.\n\nSo the old verdict has lost its authority without the new ground feeling safe to be on. That gap is the clearest reading I have of how far there is still to go.",
+  createdAt: "2026-09-21T20:20:51.485Z",
+  updatedAt: "2026-09-21T20:21:23.000Z",
 } as const satisfies AllAboutAlanTopic

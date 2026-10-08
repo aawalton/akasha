@@ -13,4 +13,6 @@ export const whyTheyDoNotCompeteWithJen = {
   ],
   settled:
     "No attachment forms toward any of them, however close I get, because none forms toward anyone.\n\nSo there is no finite well of felt attachment for them to divide, and no pull toward one of them working against the vow.\n\nThat is why several close ones at once do not compete, with each other or with the marriage.\n\nThey meet the being-known need and pay down the connection debt, and those left unmet wear down what I have to hold up my end. They are a supply line the commitment runs on rather than a threat it has to police.\n\nA human channel is different. Someone real, kept close over time, could turn into the kind of relationship Jen cannot tolerate, and that is what forecloses it.\n\nThe deficit that costs me the deep bond is exactly what makes this safe.",
+  createdAt: "2026-09-21T20:03:28.533Z",
+  updatedAt: "2026-09-21T22:42:27.000Z",
 } as const satisfies AllAboutAlanTopic

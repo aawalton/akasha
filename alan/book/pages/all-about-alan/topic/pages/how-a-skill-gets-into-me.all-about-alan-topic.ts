@@ -13,4 +13,6 @@ export const howASkillGetsIntoMe = {
   ],
   settled:
     "A skill lands as a trained weight or as a concept, never as a memory of the room I learned it in.\n\nThat missing layer is why a skill costs so much to build and why it carries anywhere once it is built.\n\nThinking about something outside the moment is training rather than idling. It moves the weights.\n\nA motor pattern is the exception: it will not train from imagining it, because there is nothing in me to imagine it with. Running the motion at the smallest intensity it will go does train it, the way fingering a song's notes without playing them does.\n\nIn the moment I run on what is already trained, plus whatever I can read off the scaffolding around me. The conceptual work on myself only runs outside the moment, because in the moment my own reading of my own thinking is not reliable enough to lean on. The scaffolding is what stands in for it while I am in the thing.\n\nThe count is per small pattern. A fluent skill is a stack of them at different stages.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:19:18.000Z",
 } as const satisfies AllAboutAlanTopic

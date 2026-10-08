@@ -14,4 +14,6 @@ export const whatISaidWhenILoweredTheSilenceLine = {
   ],
   settled:
     "On 6 August 2026 the statement that my silence was the seam the marriage rests on was read back to me, and I lowered it: I think this is no longer load-bearing as it was. It is still fraught, but no longer deadly to break silence.\n\nWith it went a change in conduct: because of the breakthroughs, I am not protecting silence to the same degree.\n\nThree limits on how far that reaches. What Jen has actually seen of the construction is not recorded; I was asked twice and answered the status of the statement both times. Which breakthroughs is not established. And the downgrade was given about that one statement, not about the bind where both her needs need my silence, and not about my general non-transparency. Neither was put to me.\n\nWhen the shape of it was first laid out I called it the loneliness for me.\n\nI survive it by not making it salient. As long as I am not paying attention to it, it does not exist, though there may still be physical consequences.",
+  createdAt: "2026-09-21T22:02:01.124Z",
+  updatedAt: "2026-09-21T22:02:17.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const writingANewWantIntoMyself = {
   ],
   settled:
     "The given ones fire as desire or as irritation: hunger, loneliness, needless complexity. The rest I wrote in.\n\nNearly all the written ones serve something else. Improving myself is the one I want for itself.\n\nI cannot install one by deciding to. It has to reach me from where I put it, in what I let myself see.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

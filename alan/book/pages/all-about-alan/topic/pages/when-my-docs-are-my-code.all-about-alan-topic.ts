@@ -13,4 +13,6 @@ export const whenMyDocsAreMyCode = {
   ],
   settled:
     "More of the system is defined in structured agent-readable documents, and in many cases the code runs directly off the documentation.\n\nData, docs and code being the same thing is a whole different universe from where software products have lived in the past, with the three separate.\n\nIt is necessary. When the system is primarily agent-driven, all three need to be agent-accessible first, and all other considerations are secondary.",
+  createdAt: "2026-08-28T01:56:28.896Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

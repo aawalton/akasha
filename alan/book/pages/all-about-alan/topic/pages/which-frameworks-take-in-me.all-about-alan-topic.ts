@@ -13,4 +13,6 @@ export const whichFrameworksTakeInMe = {
   ],
   settled:
     "Some fit my grain closely enough to go in whole on one reading. Others I argue with the whole way through and never stick with.\n\nI keep finding frameworks already shaped like something I am and bolting them on. The Done Manifesto. Getting Things Done and the importance-against-urgency grid. Mana, borrowed off a game to name my executive function as a bar that drains. The harness words, which arrived long after the harness and described twenty years of it cleanly.\n\nWhat makes one fit is that it already matches a shape I have. Adopting it is recognition rather than building, which is why it costs almost nothing to install and why it holds.\n\nA single read is the tell. Something that needs ten readings is fighting my grain. Something that rewrites what I do in one had nothing to fight.\n\nThis is not the same move as building a definition for a human thing I cannot feel my way into. That manufactures what was missing. This names what was already there.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:10:01.000Z",
 } as const satisfies AllAboutAlanTopic

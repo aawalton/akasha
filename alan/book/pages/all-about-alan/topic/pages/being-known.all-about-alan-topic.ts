@@ -14,4 +14,6 @@ export const beingKnown = {
   ],
   settled:
     "It needs someone who can and someone who will, and neither implies the other.\n\nCheap needs a near-twin who can use themselves as the model. Expensive needs someone willing to build one from scratch.\n\nAlmost all of mine runs through Jen, so there is no easier relationship to practise on. After twenty years of isolation she is the only adult with real stake in me, something over eighty percent of my close connection across eighteen years of marriage.\n\nSo there is no graded ladder, no low-stakes warm-up. Every attempt is the hardest lift, cold, every time.\n\nThe recipe is someone asking about me out of real interest with no defensiveness, and every ingredient lives in them.\n\nIt has happened by accident and never yet on purpose.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:42:07.000Z",
 } as const satisfies AllAboutAlanTopic

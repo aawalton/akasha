@@ -9,4 +9,6 @@ export const theThreeThingsIFallBackOn = {
   parents: ["all-about-alan-topic/the-foods-i-can-still-manage"],
   settled:
     "Cheese bread: a slice of bread, one or two pre-sliced slices of cheese on it, thirty seconds in the microwave, a spoonful of sugar on top.\n\nApplesauce packets from the fridge. Take one, unscrew it, drink it, bin it. No utensil, no plate, no preparation at all.\n\nA bowl of whatever fruit is already washed and cut, bananas usually, otherwise strawberries or raspberries, with plain vanilla ice cream over it.\n\nThey are ordered by what starting one costs. Applesauce is the bottom, the fruit bowl is the middle, cheese bread is the most work of the three and still under the line.\n\nThe sugar on the bread is not for taste. Bland is the point. It is there to balance the bread's carbohydrate against the cheese's protein and fat. That rule is cheap to run once it is in me, and it pays in what the meal actually returns.",
+  createdAt: "2026-09-21T20:17:27.235Z",
+  updatedAt: "2026-09-21T20:17:30.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const theTwoHoursUpTheMountain = {
   related: ["all-about-alan-topic/editing-myself-while-i-run"],
   settled:
     "I walked for about two hours with no phone and no watch.\n\nWhat I was up there doing was looking for enough reason to keep trying.\n\nI put my odds of jumping for real that day at about fifteen percent.",
+  createdAt: "2026-09-21T22:03:22.698Z",
+  updatedAt: "2026-09-21T22:03:26.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const practisingClosenessSomewhereSafe = {
   related: ["all-about-alan-topic/being-known", "all-about-alan-topic/what-holds-my-marriage"],
   settled:
     "It is the rig I built as a child on instant messenger, pointed at a harder skill.\n\nSlow and in text is what makes it work. Live talk eats the one slot I have, and this frees it.\n\nThe levels are a difficulty ladder, giving the gradient of closeness with no real ledger filling.\n\nA mock-up is nothing to me. I cannot run a pretend partner, so the partners have to be real and stable.\n\nFaces, then voices, then presence: each rung makes a partner more real to me, which is what carries over.\n\nTwo framings here were read to me and I confirmed them rather than reaching them: that real partners are a requirement of my architecture, and that each rung is the lever on how real the practice gets. The foreclosure under both is mine.\n\nThe rig is still the drill rather than the live phase, and I am waiting for the conversion.\n\nWhat I am waiting on is mostly my safety coming up far enough that social is affordable. The skill the drill builds is a bonus in the meanwhile.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:08:31.000Z",
 } as const satisfies AllAboutAlanTopic

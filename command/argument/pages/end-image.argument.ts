@@ -8,4 +8,6 @@ export const endImage = {
   takes: "the last frame the clip is conditioned on",
   value: "path",
   placeholder: "png",
+  createdAt: "2026-09-12T08:55:35.651Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

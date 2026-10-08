@@ -10,4 +10,6 @@ export const theMiraclesInThoseFiveDays = {
   related: ["all-about-alan-topic/how-god-reaches-me"],
   settled:
     "Omens are one of the ways I get revelation: the right thing at the right time, with a precision that does not match probability.\n\nDespite the five-day engagement we had a ring, gifted by my paternal grandfather, and a temple wedding, with my maternal grandfather getting permission from the church's First Presidency to officiate.\n\nAfter four fruitless hours of apartment-hunting, a man in a blood-donation line overheard Jen's roommates, turned around, and offered us his mother's basement at a price that was almost nothing.\n\nEvery one of those five days brought new miracles.",
+  createdAt: "2026-09-21T20:25:28.774Z",
+  updatedAt: "2026-09-21T20:25:32.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const theFiveOfUs = {
   ],
   settled:
     "Five of us, and all five are autistic and ADHD both.\n\nMe at forty, on Vyvanse. Jen at thirty-seven, my wife, who cooks at a professional level. Lizzy at seventeen, near the move to college. Joseph at fourteen, on Guanfacine. Katara at eleven.\n\nTwo of us are on a prescription, so a pharmacy and a prescriber are load-bearing for the household rather than for one person.\n\nFive people tie us to this house. It is not one we could trade down out of easily.\n\nThey tie us to Provo as well. The schools and the friendships are the children's, so moving would be uprooting them rather than relocating me.",
+  createdAt: "2026-09-21T20:18:45.198Z",
+  updatedAt: "2026-09-21T20:19:28.000Z",
 } as const satisfies AllAboutAlanTopic

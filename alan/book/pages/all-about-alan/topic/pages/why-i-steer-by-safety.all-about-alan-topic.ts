@@ -14,4 +14,6 @@ export const whyISteerBySafety = {
   ],
   settled:
     "For a long time stress was the reading I ran the whole of myself off. Now it is safety, two integrals downstream.\n\nI read it there for the leverage rather than for the view. Every time safety moves, the set of things possible and impossible for me changes. It is slow to move precisely because it is that consequential. A number that reorders what I can do cannot be a twitchy one.\n\nIt doubles as a present-tense readout of what is possible, which is worth a lot to a mind with no forward simulator. That is a bonus I get from being on the control point rather than the reason I am there. With no predictive value at all I would still steer by it.\n\nTwo routes that share no machinery both empty into this bar. My stoplights move my behaviour and behaviour moves safety. Settling the foundations of my faith lowers my background load, which reaches safety through the integral.\n\nWhen the bar goes up, everything in my life works better at once.",
+  createdAt: "2026-09-21T20:03:47.695Z",
+  updatedAt: "2026-09-21T20:03:51.000Z",
 } as const satisfies AllAboutAlanTopic

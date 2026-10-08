@@ -14,4 +14,6 @@ export const whyICannotNoticeInTheMoment = {
   ],
   settled:
     "Watching myself while a thing is happening is one of the hardest things I do, and mostly I do not manage it.\n\nWatching myself afterwards is one of the strongest. The reputation I have for being introspective is earned by that second kind: deliberate, after the fact, and analytic.\n\nThe likely reason is that noticing live runs on a felt sense that this is not working, and I have no such signal. What is left is explicit review, which is necessarily slower and offline.\n\nThe strong half masks the weak one, from outside and partly from me too.",
+  createdAt: "2026-09-21T20:26:03.285Z",
+  updatedAt: "2026-09-21T20:26:06.000Z",
 } as const satisfies AllAboutAlanTopic

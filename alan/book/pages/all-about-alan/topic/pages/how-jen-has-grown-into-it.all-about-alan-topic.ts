@@ -9,4 +9,6 @@ export const howJenHasGrownIntoIt = {
   parents: ["all-about-alan-topic/what-sex-with-jen-is-like"],
   settled:
     "In the last few years Jen has grown a lot in coming to accept sex as more natural and positive than her upbringing instilled. For our generation the first message taught to teenagers was do not have sex, and unlearning that took a long time. She first let her mother talk to her about the details the night before our wedding, having decided young to do it just in time rather than sooner.\n\nShe has had prolapse issues from the three pregnancies, and found a vaginal-muscle training tool that taught her a great deal about her own body and how her arousal works. She has even masturbated a few times now, for the sake of learning.\n\nIn the past year we have tried manual stimulation about half a dozen times for each of us. It is incredibly effective for me and not as effective for her. It is still extremely uncomfortable for her in both directions, so we have not experimented much there.",
+  createdAt: "2026-09-21T20:16:23.923Z",
+  updatedAt: "2026-09-21T20:16:27.000Z",
 } as const satisfies AllAboutAlanTopic

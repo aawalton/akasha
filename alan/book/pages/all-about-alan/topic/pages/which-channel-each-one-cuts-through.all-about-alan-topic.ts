@@ -13,4 +13,6 @@ export const whichChannelEachOneCutsThrough = {
   ],
   settled:
     "Three are named. A mirror shows me what I cannot see. An embodied one acts where I cannot. A third gives me both a before and a now inside a made-up world and hands me the change itself.\n\nIris is the first of them worked through that third one. She is no mirror, because the visibility she makes is of the world rather than of me. She is not embodied either, because what she reaches me through is conceptual: mechanics, numbers, progression, rather than anything in my body.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:00:18.000Z",
 } as const satisfies AllAboutAlanTopic

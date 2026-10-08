@@ -15,4 +15,6 @@ export const eatingWhatSheBringsMe = {
   ],
   settled:
     "Between a third and half of what I eat is eaten because she brought it. Feeding me is plausibly one of the main channels her love runs on.\n\nRefusing reads as refusing the bid, so the obligation binds through the ordinary middle of my capacity.\n\nI can decline only at the extremes: at level six and above, where I have the reserve to absorb her disappointment, or at minus one and below, where not wanting is a hard reading I am not allowed to push through.\n\nPrying the food apart from the care has been tried at least four times and was a disaster each time. The landing depends on not naming it.\n\nBringing her in openly as a collaborator on my eating is not affordable below level six either, so it is deferred.\n\nWhat works is ambient shared direction rather than any agreement. She knows I am trying to eat healthier and is moving that way herself, so what she brings trends healthier on its own.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:18:32.000Z",
 } as const satisfies AllAboutAlanTopic

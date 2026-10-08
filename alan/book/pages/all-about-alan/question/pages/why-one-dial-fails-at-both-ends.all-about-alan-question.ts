@@ -6,4 +6,6 @@ export const whyOneDialFailsAtBothEnds = {
   slug: "why-one-dial-fails-at-both-ends",
   topic: "all-about-alan-topic/how-warm-i-run",
   ask: "Why does the same dial under-produce heat at one end and over-produce heat at the other?",
+  createdAt: "2026-09-06T18:05:07.365Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

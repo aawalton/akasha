@@ -14,4 +14,6 @@ export const whereMyRigidityActuallySits = {
   ],
   settled:
     "I have no routines and certainly no habits. What I have is scripts, at the level of an activity rather than the day. I need constant change, so a fixed routine never held.\n\nThe rigidity is real and it sits one level up, in the systems. They are heavily optimised and everything I can do rests on them.\n\nDisturb one and what I can do takes a heavy hit, often one to three safety levels.\n\nAsking what an unexpected change costs me apart from disturbing a system has no answer. My systems are comprehensive enough that every unexpected change from outside disturbs one. The only variable is how much.\n\nScripts at the activity level with rigidity at the system level is a clean AuDHD pattern. Neither side alone produces it.\n\nMy guess about why transitions are hard for most autistic people is that it is executive dysfunction rather than anything about change itself, and that aphantasia overrides it in me.",
+  createdAt: "2026-09-21T20:29:23.712Z",
+  updatedAt: "2026-09-21T21:37:55.000Z",
 } as const satisfies AllAboutAlanTopic

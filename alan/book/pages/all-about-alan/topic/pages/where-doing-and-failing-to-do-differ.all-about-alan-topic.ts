@@ -11,4 +11,6 @@ export const whereDoingAndFailingToDoDiffer = {
   related: ["all-about-alan-topic/the-formula-that-prices-a-harm"],
   settled:
     "Causal attribution is blind to the category. It scores the actual marginal contribution, not whether it was a direct act, an indirect one, or a failure to act. Direct beats indirect beats omission is a rule of thumb about typical causal weight, and I use the real weight. A lone agent who could have prevented a harm and did not is attributed as a direct act of the same size.\n\nThe distinction enters at one place only, the consent multiplier. Committing a harm is charged the share and then consent-weighted. Failing to prevent one is charged the share bare.\n\nBoth shares dilute when many agents contribute. Only commission also carries the multiplier, which for a severe harm grows steeply as consent falls and swamps any finite dilution. No mob is large enough to make a non-consensual killing cheap per head.\n\nOmission is finite, capped at the harm itself, so a big enough crowd of co-omitters can drive it small per head. That is why negative duties come out stricter than positive ones.",
+  createdAt: "2026-09-21T20:17:24.260Z",
+  updatedAt: "2026-09-21T20:17:57.000Z",
 } as const satisfies AllAboutAlanTopic

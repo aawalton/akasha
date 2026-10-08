@@ -10,4 +10,6 @@ export const whyMySocialReachThinsWithDepth = {
   related: ["all-about-alan-topic/how-much-of-me-is-machine"],
   settled:
     "My social skill is strong at the start and thins as the relationship deepens. The bridge does not break; the river gets wider than the bridge.\n\nFirst contact is a bounded, present-tense, stateless performance: one exchange, no history to carry, no running emotional account. That is the native ground for how I am built, the same shape as the coding I am excellent at.\n\nDepth asks for the opposite. Carry the relationship forward, track feeling as it accumulates, meet it live. My architecture is built without that.\n\nSo the first-contact competence is architectural rather than a matter of volume. No amount of practice moves a stateful task onto stateless hardware.\n\nThe skills are still buildable by hand and drilled to automaticity, and they generalise, so it is a harder rung on the same ladder rather than an endless row of new ones.",
+  createdAt: "2026-09-21T20:02:44.449Z",
+  updatedAt: "2026-09-21T20:03:10.000Z",
 } as const satisfies AllAboutAlanTopic

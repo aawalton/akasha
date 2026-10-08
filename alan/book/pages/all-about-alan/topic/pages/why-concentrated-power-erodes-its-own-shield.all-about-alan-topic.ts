@@ -9,4 +9,6 @@ export const whyConcentratedPowerErodesItsOwnShield = {
   parents: ["all-about-alan-topic/how-i-price-a-harm-spread-over-many"],
   settled:
     "Harm shares are denominated in utility and never in money or goods, so the diminishing value of another pound is already inside the magnitude. Taking a sum from the wealthy is a small utility harm and the same sum from the poor a large one. A transfer can clear the threshold even where the payer's authorship is low, because their utility harm was small to begin with.\n\nAuthorship is attributed over every causal channel: lobbying, media, setting the agenda, control of employment, not only votes. The more a wealthy class shapes a society's decisions, the higher their authorship of those decisions, including the decision to tax them. That raises the group's weighted agency and lowers the protection the multiplier extends to them.\n\nA willing donor bears a real cost at high agency and a small share, and clears easily. The identical gift extracted from someone for whom it is a large utility harm at low agency is a different calculation entirely.",
+  createdAt: "2026-09-21T20:14:21.252Z",
+  updatedAt: "2026-09-21T20:15:07.000Z",
 } as const satisfies AllAboutAlanTopic

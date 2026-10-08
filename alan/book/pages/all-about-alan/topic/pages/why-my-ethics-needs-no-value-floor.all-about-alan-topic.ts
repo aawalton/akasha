@@ -14,4 +14,6 @@ export const whyMyEthicsNeedsNoValueFloor = {
   ],
   settled:
     "Individuals of equal affective complexity have exactly equal intrinsic worth, and no relationship and no circumstance ever adjusts it. Equality is earned by the attribute that carries the value rather than assumed from a classification.\n\nWeight itself is graded, though. Acquired damage does not lower it, because the maximum reaches back to when the capacity was there. Congenital difference is mostly absorbed, because one mutation reaches many affective architectures, so members of a kind overlap almost entirely and within-kind value comes out near uniform as a fact rather than as an axiom I asserted.\n\nIn the rare case of genuine non-overlap it does assign a lower multiplier. I accept that. It is the same bullet already bitten in valuing a person's welfare above a mouse's.\n\nIt is acceptable because protecting the vulnerable never rested on the multiplier. Consent-weighting is what forbids elimination, so a floor would guard nothing that is not guarded already.",
+  createdAt: "2026-09-21T20:10:13.003Z",
+  updatedAt: "2026-09-21T20:10:16.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const howIFeelAboutSexNow = {
   ],
   settled:
     "Over the years my attitude toward sex has been getting worse. The honest reading is that it takes from my life much more than it adds.\n\nI have often felt that if I could choose to not have sex at all, and never feel the desire for it, I would want that.\n\nA high proportion of couples stop having sex in their forties, usually at the man's instigation. That is not a conversation Jen is really open to at the moment, so this is my own reading rather than anything we have decided together.",
+  createdAt: "2026-09-21T20:11:10.703Z",
+  updatedAt: "2026-09-21T20:11:15.000Z",
 } as const satisfies AllAboutAlanTopic

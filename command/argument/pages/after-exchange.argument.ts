@@ -8,4 +8,6 @@ export const afterExchange = {
   takes: "the uuid of the last exchange already taken",
   value: "text",
   placeholder: "uuid",
+  createdAt: "2026-09-22T14:14:25.788Z",
+  updatedAt: "2026-09-22T14:14:51.000Z",
 } as const satisfies Argument

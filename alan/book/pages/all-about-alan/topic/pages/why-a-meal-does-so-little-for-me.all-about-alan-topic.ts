@@ -13,4 +13,6 @@ export const whyAMealDoesSoLittleForMe = {
   ],
   settled:
     "I cannot call back what a meal was like, so there is nothing to reminisce over. I cannot picture one ahead either, so there is nothing to look forward to.\n\nWhat is left is the enjoyment in the moment, and that only arrives when I am doing well, and even then it is muted.\n\nSo the food-as-pleasure engine that drives most overeating is barely running in me. A plain, repetitive, functional diet is not something I am enduring.",
+  createdAt: "2026-09-21T20:14:37.194Z",
+  updatedAt: "2026-09-21T20:14:41.000Z",
 } as const satisfies AllAboutAlanTopic

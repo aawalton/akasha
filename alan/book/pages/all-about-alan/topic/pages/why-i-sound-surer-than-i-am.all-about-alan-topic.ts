@@ -10,4 +10,6 @@ export const whyISoundSurerThanIAm = {
   related: ["all-about-alan-topic/how-i-know-things", "all-about-alan-topic/why-i-act-fast"],
   settled:
     "People routinely read me as more certain than I am. The surface form, X is Y, sound is roughly five times louder for me, reads to a listener as about 95% confidence. My actual confidence per claim is closer to 70 to 80%, and a separate global discount sits on top: at least half of what I believe is false.\n\nOnly one of the two layers is visible. The flat phrasing is what a listener hears. The half-wrong stance changes how readily I update, not how I phrase anything, so nobody can read it off my speech.\n\nThey get about 95 and my effective confidence is nearer 35 to 40, a gap of roughly fifty to sixty points rather than the fifteen to twenty-five the phrasing alone would explain.",
+  createdAt: "2026-09-21T22:11:55.524Z",
+  updatedAt: "2026-09-21T22:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

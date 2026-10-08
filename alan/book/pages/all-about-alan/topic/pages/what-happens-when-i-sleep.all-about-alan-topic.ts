@@ -13,4 +13,6 @@ export const whatHappensWhenISleep = {
   ],
   settled:
     "Asleep I get novel-length stories, half a dozen characters, full settings, and an emotional score under them.\n\nThat is the proof the break is at recall and nowhere earlier. The parts that build it are all there.\n\nThe same brain that cannot pre-play anything awake builds whole worlds all night.\n\nMore of my cortisol at bedtime means more nightmares. That is the whole of what I claim. I have nothing beyond stress on what any of them mean.\n\nLately most of them have been nightmares, and I put that down to being in a turbulent stretch.\n\nI have gone through phases of writing them down on waking, as story ideas, before they go back behind the break.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:14:21.000Z",
 } as const satisfies AllAboutAlanTopic

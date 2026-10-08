@@ -13,4 +13,6 @@ export const drivingMyselfLikeAMachine = {
   ],
   settled:
     "The thinking part gives the orders and the body carries them out, one instruction at a time, rather than acting on any impulse.\n\nIt is a coming-apart I do on purpose and put to use, not one that happens to me.\n\nIt is available because the two halves already run separately. There is no feeling in the way to override first.\n\nEnough physical load floods across and takes the driver with it, so it holds only under that ceiling.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

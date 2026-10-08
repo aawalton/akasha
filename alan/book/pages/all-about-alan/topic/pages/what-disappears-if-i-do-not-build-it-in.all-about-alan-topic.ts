@@ -10,4 +10,6 @@ export const whatDisappearsIfIDoNotBuildItIn = {
   related: ["all-about-alan-topic/how-much-company-i-can-take"],
   settled:
     "There is no middle state. I either build a thing into what surrounds me or it disappears.\n\nNot deferred, and not held in reserve somewhere. Gone.\n\nA lot has gone that way, most of it through the years when I could not afford it. Scarcity narrowed what I had room to build in, and whatever did not fit did not wait.\n\nHow much company I kept ran the same shape. Surroundings too narrow to carry a thing push the thing out, and coming back is a slow widening as capacity returns.\n\nAs I recover I am starting to widen again, after contracting that far.",
+  createdAt: "2026-09-21T20:16:43.493Z",
+  updatedAt: "2026-09-21T20:16:48.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const whatIDoNotOwnWhenIBuyABook = {
   related: ["all-about-alan-topic/why-i-want-a-simpler-machine"],
   settled:
     "A Kindle book is locked to my Amazon account, so it is not really mine. What I bought was a licence.\n\nAmazon keeps the legal power to take a book I paid for back off my device. It is rare and it has happened.\n\nAudible adds a turn of the screw. Stop the subscription and the library goes with it, which a bought ebook at least does not do.\n\nAmazon itself is a D before any of this: how it treats the people in its warehouses, how it behaves toward competitors, and where its owner has moved politically.",
+  createdAt: "2026-09-21T20:25:45.677Z",
+  updatedAt: "2026-09-21T20:25:48.000Z",
 } as const satisfies AllAboutAlanTopic

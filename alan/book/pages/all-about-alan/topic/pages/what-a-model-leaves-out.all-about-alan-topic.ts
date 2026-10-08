@@ -10,4 +10,6 @@ export const whatAModelLeavesOut = {
   related: ["all-about-alan-topic/what-i-think-truth-is"],
   settled:
     "All models are false, because they simplify out nuance for intelligibility.\n\nI find the nuance is where the gold is.",
+  createdAt: "2026-08-28T02:14:40.396Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

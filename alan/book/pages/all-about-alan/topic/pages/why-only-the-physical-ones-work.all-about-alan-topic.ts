@@ -14,4 +14,6 @@ export const whyOnlyThePhysicalOnesWork = {
   ],
   settled:
     "Twenty years of watching myself says the same thing every time. Anything aimed at my thinking produces no measurable effect. Only what acts on my body moves the needle.\n\nThat is upside down against how mental health is usually run, where the thinking work is primary and the bodily work supports it. For me the whole stack is bodily: sleep, baths, breathing.\n\nThe likely reason is that those methods work by taking a new frame in until it fires by itself. In me a frame stays deliberate and never converts to automatic, so it keeps costing full price forever.\n\nWhat acts on my body needs no such conversion. It reaches the settling system directly.\n\nUnderstanding the mechanism did not supply any recovery rate. It pointed the interventions at the right place and named the load to take away. Both of those are upstream. The work itself stays physical.",
+  createdAt: "2026-09-21T20:14:00.208Z",
+  updatedAt: "2026-09-21T20:14:03.000Z",
 } as const satisfies AllAboutAlanTopic

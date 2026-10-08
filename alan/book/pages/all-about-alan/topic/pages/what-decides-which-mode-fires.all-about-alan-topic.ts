@@ -10,4 +10,6 @@ export const whatDecidesWhichModeFires = {
   related: ["all-about-alan-topic/where-i-go-below-zero"],
   settled:
     "Each mode is the load plus one further condition.\n\nFight is load, the source read as outside me, and fighting looking feasible. Flight is the same two with escape looking feasible instead. Both run high sympathetic tension at high intensity, which is what gets called a meltdown.\n\nFreeze is load with no clear direction, where I cannot settle on fight, flight or fawn. High sympathetic tension with light fight and flight underneath, presenting at low intensity. Calling it shutdown is a mislabel, given the tension underneath.\n\nFawn is load with a path appearing through people-pleasing. High tension again, presenting as people-pleasing rather than as visible dysregulation, so it goes unrecognised. It damages me just as much over time.\n\nFlop is load with no available intervention. Low tension, parasympathetic, collapse. Its precondition has a different shape from the other four: they answer a threat with some path or no clear path, and flop answers one with no path at all.",
+  createdAt: "2026-09-21T20:29:40.095Z",
+  updatedAt: "2026-09-21T20:29:55.000Z",
 } as const satisfies AllAboutAlanTopic

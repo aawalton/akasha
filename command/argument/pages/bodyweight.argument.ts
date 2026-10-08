@@ -8,4 +8,6 @@ export const bodyweight = {
   takes: "what Alan's body weighed, in pounds",
   value: "text",
   placeholder: "lb",
+  createdAt: "2026-09-12T09:14:27.468Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

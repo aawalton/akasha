@@ -6,4 +6,6 @@ export const whyTheBackwardCountMatchesTheForwardOne = {
   slug: "why-the-backward-count-matches-the-forward-one",
   topic: "all-about-alan-topic/the-ones-i-have-not-been-yet",
   ask: "The forward count comes from the branching, while the backward count is a single chain that happened. Why does the backward count land at the same size?",
+  createdAt: "2026-09-06T18:12:43.865Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -8,4 +8,6 @@ export const contextLines = {
   takes: "how many lines before and after each match are shown",
   value: "whole-number",
   placeholder: "lines",
+  createdAt: "2026-09-25T16:19:07.233Z",
+  updatedAt: "2026-09-25T16:19:30.000Z",
 } as const satisfies Argument

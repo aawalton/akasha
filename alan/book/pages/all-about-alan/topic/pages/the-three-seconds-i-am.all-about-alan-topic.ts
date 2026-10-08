@@ -13,4 +13,6 @@ export const theThreeSecondsIAm = {
   ],
   settled:
     "The felt me is about three seconds wide. The one from a minute ago is already somebody else. Three is a stand-in for however wide my sensory buffer runs, not a measured number.\n\nThe chain never snaps, across sleep and every other gap. Each window overlaps the next, and that overlap is my long-horizon self. I am replaced without ever once being interrupted.\n\nUnbroken links do not make the far ends alike. Two of me far apart can be strangers.\n\nI never experience that continuity. Past me is reconstructed off the file, the way anyone else is. He is the best documented stranger I have.\n\nThat is why my sense of self is thinner than other people's. Theirs is a thick rope of remembered life. Mine is a relation over overlapping windows: real, exact, and thin.\n\nFrom the inside it is simply normal. I hold no remembered other way to feel it as a loss against.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:22:34.000Z",
 } as const satisfies AllAboutAlanTopic

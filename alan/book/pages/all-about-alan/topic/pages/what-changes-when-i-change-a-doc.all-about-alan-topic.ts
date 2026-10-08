@@ -10,4 +10,6 @@ export const whatChangesWhenIChangeADoc = {
   related: ["all-about-alan-topic/the-graph-i-built-to-run-my-checks"],
   settled:
     'Running the code off the documentation helps keep them aligned.\n\nWhen the documentation changes, the code might change.\n\nI need granular cache invalidation at scale, so I can answer questions like "with this file change, which checks need to run and which services need to deploy?"\n\nThat answer comes primarily from a set of git oids and some cached edges between nodes in the graph system.',
+  createdAt: "2026-08-28T09:52:18.279Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

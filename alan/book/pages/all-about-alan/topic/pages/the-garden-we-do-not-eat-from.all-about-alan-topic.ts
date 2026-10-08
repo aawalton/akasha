@@ -13,4 +13,6 @@ export const theGardenWeDoNotEatFrom = {
   ],
   settled:
     "We have eight raised beds, four feet by eight each, and eight fruit trees, six of them mature and two newly planted.\n\nThat is not a dependency on anybody. It is a capability we own.\n\nIt gives under one per cent of what the household eats.\n\nThe bottleneck is not the infrastructure. It is the harvest-and-preserve workflow, what to plant when, and the rhythm of actually working it.\n\nThe capital is already spent, so ramping the yield up costs effort rather than money. Jen cooks and preserves at a professional level, and that is the half of the household that closes the gap when there is bandwidth for it.\n\nIt is the highest-leverage move I have toward feeding ourselves.",
+  createdAt: "2026-09-21T20:09:32.523Z",
+  updatedAt: "2026-09-21T20:10:12.000Z",
 } as const satisfies AllAboutAlanTopic

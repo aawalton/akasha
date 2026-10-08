@@ -8,4 +8,6 @@ export const attach = {
   takes: "a file to hang off the mail, said again for each",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T09:24:47.636Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

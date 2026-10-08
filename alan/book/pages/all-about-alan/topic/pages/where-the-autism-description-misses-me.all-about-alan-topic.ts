@@ -14,4 +14,6 @@ export const whereTheAutismDescriptionMissesMe = {
   ],
   settled:
     "The standard description of an autistic person misses me in five places.\n\nEmpathy is written down as reduced. Mine runs high. What people see is less expression, and they read that as less feeling.\n\nBluntness is written down as the default. I am a peacemaker. Running sensitive made tact worth paying for early.\n\nRigid routine is written down at the level of the day. Mine are scripts at the level of an activity, softened by ADHD, and the rigidity sits at the level of the system instead.\n\nTransitions are written down as hard. I change course more easily than most, because nothing plays the plan I just left back at me.\n\nMindblindness is written down as a deficit. The deficit on the raw input is real, but that framing names only the missing channel. What it misses is the conceptual model I built over the gap, and that the model never converts to the automatic one, so it costs me every time.",
+  createdAt: "2026-09-21T20:02:21.883Z",
+  updatedAt: "2026-09-21T20:02:31.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whenCompanyFitsInTheRotation = {
   ],
   settled:
     "Rotating was only ever aimed at work and at things I was taking in. Books, shows, courses, projects, games.\n\nBeing with people in real time takes my one slot and keeps it for the whole duration. That is why it is the most expensive thing I do.\n\nA group session that is written, not live, and taken in turns breaks that. While the others take their turns the slot is free, and I can go elsewhere and come back when it is mine.\n\nThe turns are what make the gaps. Company stops being a wall and becomes one more thing in the rotation.\n\nTwo things stack there. Writing rather than speaking takes the real-time pressure off, and the turns let me swap out rather than sit holding the slot idle.\n\nThat is the first time rotating has reached people at all, and it makes a kind of company affordable that the live kind never could be.",
+  createdAt: "2026-09-21T20:29:22.876Z",
+  updatedAt: "2026-09-21T20:29:31.000Z",
 } as const satisfies AllAboutAlanTopic

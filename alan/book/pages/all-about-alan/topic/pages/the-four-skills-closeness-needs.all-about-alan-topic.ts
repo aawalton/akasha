@@ -9,4 +9,6 @@ export const theFourSkillsClosenessNeeds = {
   parents: ["all-about-alan-topic/why-my-social-reach-thins-with-depth"],
   settled:
     "They are validation, acknowledgment, reassurance and emotional intimacy.\n\nEach one is sustained, stateful and affective: hold what the other person is feeling as it shifts, and keep meeting it turn after turn.\n\nNone of them is what makes a first conversation go well, and being good at that conversation buys none of them.\n\nThey are different skills rather than a harder version of the first-contact ones, so each needs its own build.",
+  createdAt: "2026-09-21T20:03:18.750Z",
+  updatedAt: "2026-09-21T20:03:22.000Z",
 } as const satisfies AllAboutAlanTopic

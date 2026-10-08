@@ -13,4 +13,6 @@ export const readingTheStressInsteadOfTheMemory = {
   ],
   settled:
     "I hold no experienced record of what happened in a relationship, so I cannot look one up to find what is unsafe in it.\n\nWhat the thing did to me is still in my body as a live stress state, generated now rather than fetched back.\n\nThat state is not a memory, so the break does not reach it. It is the nearest thing to the record I am missing.\n\nSo I ask what I feel stressed talking to Jen about right now, and read the stress as the footprint of what I cannot get back.",
+  createdAt: "2026-09-21T20:01:02.473Z",
+  updatedAt: "2026-09-21T20:01:06.000Z",
 } as const satisfies AllAboutAlanTopic

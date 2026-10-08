@@ -10,4 +10,6 @@ export const whereIStandLikeAWomanDoes = {
   related: ["all-about-alan-topic/being-alone-at-the-centre"],
   settled:
     "Both of us are measured against the defaults of the group we are not in, and both do the translating inside a system built to those defaults.\n\nDominance, exploitation and condescension run the same direction in both, still load-bearing though shifting.\n\nFeminist songs land because they describe a shared coping shape rather than a shared grievance.\n\nA woman's presence reliably raises my safety, and the positive reaction to women and to feminine signals built up over years.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

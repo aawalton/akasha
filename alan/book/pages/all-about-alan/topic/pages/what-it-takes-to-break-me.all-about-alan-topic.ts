@@ -13,4 +13,6 @@ export const whatItTakesToBreakMe = {
   ],
   settled:
     "I can carry whatever I have to while there is truly no other choice. A real door is what breaks me.\n\nEvery time I left a job, what broke it was that somewhere else was open, not that it got worse.\n\nUnderneath that sits a floor of pure load where my body gives out whether or not a door exists. Most of the twenty years ran in the band between that floor and the door.\n\nI cannot believe what would be easier. I can look for more, or reframe what I have, and no more.\n\nNothing in me raises the possibility of a door. Under load I cannot afford to search and I do not think to, so a real one has to be handed to me from outside.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:43:56.000Z",
 } as const satisfies AllAboutAlanTopic

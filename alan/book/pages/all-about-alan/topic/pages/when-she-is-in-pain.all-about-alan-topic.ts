@@ -9,4 +9,6 @@ export const whenSheIsInPain = {
   parents: ["all-about-alan-topic/working-out-what-love-is"],
   settled:
     "Emotional support is the harder kind for me to understand. Emotional availability, a word she uses, I do not understand either.\n\nThe alarm fires instantly and carries nothing about what she needs.\n\nBack-channel listening works. Acknowledging and validating run as compiled scripts, and have worked a few dozen times. Empathy did not compile.\n\nAbove the scripts sits a routing problem. I often have a hard time recognising what script is needed in the moment.\n\nHandling her distress without flooding kicks in around level five. Below that the scripts are the bridge.\n\nI built the scripts because if I can respond well, her distress decreases, which is much less distressing for me. The alarm that blocks the care pays for training its replacement.\n\nI do not have much metacognition in the moment, so I am mostly trying to train my instinctive responses to be better over time, rather than trying to pick the right script live.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:51:49.000Z",
 } as const satisfies AllAboutAlanTopic

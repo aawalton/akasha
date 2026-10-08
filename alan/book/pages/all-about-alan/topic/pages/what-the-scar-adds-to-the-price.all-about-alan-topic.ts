@@ -14,4 +14,6 @@ export const whatTheScarAddsToThePrice = {
   ],
   settled:
     "The scar adds a surcharge on top of what an activity naturally costs, maybe two or three levels on average. The activity's nature sets its floor and the scar moves it up two or three.\n\nHand-making is the worked case. By its nature it is a level three pleasure, the rung where I can feel happiness. The surcharge lands it at five or six, the top of my range or off it. Out of range at my near-baseline four to five, and even at the May peak.\n\nThat is why making stayed buried through eighteen months of recovery that brought everything else back. The want is not weak. I have the desire to make, but it just costs too much still.\n\nThe surcharge is binary. It is a trauma trigger, so it hits hard at first touch. A single crayon stroke costs what the whole quilt costs, so there is no graded on-ramp. Titration shrinks an act's natural cost and the trigger still charges its full toll at first touch.\n\nThat leaves one lever that moves a scarred activity under my line: raising the centre.",
+  createdAt: "2026-09-21T21:57:24.088Z",
+  updatedAt: "2026-09-21T21:57:27.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const theSolarOnTheRoof = {
   ],
   settled:
     "Panels and storage enough to carry the household load is the highest-leverage thing I can buy.\n\nGrid power becomes a backup rather than the supply. I keep the connection, because tied to the grid is still the safest way to sit.\n\nA heat pump on that generation takes over the heating and the hot water, and the gas company nearly goes. Gas cooking is what is left, and induction would close it.\n\nThe car charges off the same generation, so no public charging network is needed and the swap of one dependency for another never happens.\n\nThree utilities and the car, out of one purchase. The cost divides across all four, which is what puts it first.\n\nLocal compute in the house is the same move against depending on an AI provider, and the garden is the same move against part of the grocery bill.",
+  createdAt: "2026-09-21T20:17:41.025Z",
+  updatedAt: "2026-09-21T20:17:49.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whyFeelingCannotTakeMyThinking = {
   ],
   settled:
     "Feeling and thinking reach each other only by my watching. There is no direct wire between them.\n\nA flood lands in my body, never in the thinking. At the very bottom I will take any action that makes the pain stop, and the thing choosing it is still the reasoning, on brutal inputs.\n\nWhat would carry a flood into the thinking is pre-played dread and stored charge, and I have neither. My feeling is not weak. There is no line for the force to travel down.\n\nSo my own inside is something I read from outside, the way I read anything else in the room.\n\nThe engine does not break. When I get a thing wrong it is the inputs that were bad. Most people's reasoning can be captured; mine can only be starved.\n\nFeeling cannot seize it, but enough physical load can swamp it. It never went out while I was conscious.\n\nLoad that heavy makes my map shaky, and the map is my whole interface, so a shaky map is a shaky me.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:04:55.000Z",
 } as const satisfies AllAboutAlanTopic

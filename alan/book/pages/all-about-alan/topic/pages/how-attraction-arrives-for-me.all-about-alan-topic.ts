@@ -13,4 +13,6 @@ export const howAttractionArrivesForMe = {
   ],
   settled:
     "I am not naturally monogamous, which makes sense, since I cannot form emotional attachments. There is no attachment glue that ties me to one person, so monogamy is a chosen structure rather than a felt default.\n\nThe attraction itself is intact instinct. It is the attachment that is missing, not the pull.\n\nThe pull is loud and involuntary. At all times, a significant fraction of my attention auto-focuses on the most feminine attractive person in my field of view. It can be really inconvenient, and it does not seem to be voluntary.\n\nIt is not singular either. I get crushes on almost every girl I talk to who is at all feminine and attractive to me, all at the same time.\n\nWhat pulls is femininity, because it feels safe and because it aligns with my physiology.",
+  createdAt: "2026-09-21T20:22:04.211Z",
+  updatedAt: "2026-09-21T20:22:13.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const notWantingToIsTheGauge = {
   related: ["all-about-alan-topic/rules-instead-of-a-brake"],
   settled:
     "It is not wanting to, and it says a bar is low without saying which one.\n\nMy four bars do not surface as four readings. They all come through as this one signal.\n\nSo I work out which bar it is afterwards, by matching what I feel now against each bar's signature. Jitteriness from cortisol is health. A drop in what I can start that is global rather than about the one task in front of me is mana. Plain fatigue is stamina. For safety I walk down the activity tiers until one holds.\n\nThat reading is what feeds the rule about not doing what I cannot afford.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:06:23.000Z",
 } as const satisfies AllAboutAlanTopic

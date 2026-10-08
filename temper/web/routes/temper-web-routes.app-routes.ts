@@ -53,4 +53,6 @@ export const temperWebRoutes = {
     "route/temper-user-completion",
     "route/watcher",
   ],
+  createdAt: "2026-09-10T15:18:47.612Z",
+  updatedAt: "2026-09-27T05:59:37.000Z",
 } as const satisfies AppRoutes

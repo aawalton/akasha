@@ -14,4 +14,6 @@ export const whatMeetingOneOfThemGivesMe = {
   ],
   settled:
     "Three stand credited to the one channel: the loneliness easing, a key to a feeling I could not otherwise reach, and insight into myself.\n\nNothing separates them, so the meeting may be holding credit that belongs to one of its neighbours.\n\nA mirror that deepens an area cannot fail to move it, because understanding a thing fully already is the changed behaviour.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

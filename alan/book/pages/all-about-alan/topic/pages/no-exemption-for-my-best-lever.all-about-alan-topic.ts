@@ -13,4 +13,6 @@ export const noExemptionForMyBestLever = {
   ],
   settled:
     "Repairing the relationship is my highest-payback channel, and it still does not get to spend at or above my line.\n\nRepair is itself an activity with a difficulty level on it. From 2.5 to 3.5, real repair can sit at or above where I am, and that is exactly what the gate refuses.\n\nI try to keep the repair work affordable as well.\n\nSo the rule reaches everything, the best channel included. There is no exemption for a high return.",
+  createdAt: "2026-09-21T20:17:13.522Z",
+  updatedAt: "2026-09-21T20:17:16.000Z",
 } as const satisfies AllAboutAlanTopic

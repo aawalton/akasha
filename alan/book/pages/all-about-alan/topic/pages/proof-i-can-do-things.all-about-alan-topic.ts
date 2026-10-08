@@ -9,4 +9,6 @@ export const proofICanDoThings = {
   parents: ["all-about-alan-topic/safety-bar"],
   settled:
     "It comes from pointing at something I actually did, never from feeling better about it.\n\nIt closes a loop. A piece of work comes off, I can check for myself that it came off, my safety goes up, and the higher safety pays for the next one.\n\nThat loop is what made programming stick the moment it came back within reach.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:10:10.000Z",
 } as const satisfies AllAboutAlanTopic

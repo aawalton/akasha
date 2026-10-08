@@ -10,4 +10,6 @@ export const theNapsICannotTake = {
   related: ["all-about-alan-topic/what-shortens-my-nights"],
   settled:
     "I love a nap when I can manage one.\n\nVyvanse blocks daytime sleep on most days.\n\nSo one drug squeezes both ends: it pushes my falling asleep later at night and takes the nap out of the day.",
+  createdAt: "2026-09-21T20:21:49.337Z",
+  updatedAt: "2026-09-21T20:21:52.000Z",
 } as const satisfies AllAboutAlanTopic

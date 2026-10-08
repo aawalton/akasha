@@ -8,4 +8,6 @@ export const addonsDir = {
   takes: "the game's addon directory read and written",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T08:01:36.494Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

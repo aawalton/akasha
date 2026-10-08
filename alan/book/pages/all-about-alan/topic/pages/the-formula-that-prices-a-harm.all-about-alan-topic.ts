@@ -10,4 +10,6 @@ export const theFormulaThatPricesAHarm = {
   related: ["all-about-alan-topic/how-much-of-a-harm-someone-authored"],
   settled:
     "An action's impact is worked out per individual first and summed only afterwards. For each person harmed I measure the base harm on their expected value, multiply it by the consent weight to get the weighted cost, and only then add every weighted cost and every unweighted benefit into the action's total.\n\nThe weighted cost is the base harm times one over their agency, raised to the power of the harm as a fraction of their whole lifetime expected value. Death puts that exponent at one, because the whole remaining value goes. A trivial harm puts it near zero.\n\nBenefits are never consent-weighted. The weighting touches action value only, never state value.\n\nA harm to something that is not sentient takes no weighting at all. Its agency is undefined rather than zero, so the harm is the bare change in the state.",
+  createdAt: "2026-09-21T20:13:07.497Z",
+  updatedAt: "2026-09-21T20:13:11.000Z",
 } as const satisfies AllAboutAlanTopic

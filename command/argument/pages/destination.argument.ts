@@ -8,4 +8,6 @@ export const destination = {
   takes: "where the item goes, for the actions that move it",
   value: "text",
   placeholder: "destination",
+  createdAt: "2026-09-12T08:23:30.119Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -10,4 +10,6 @@ export const theCarIWillBuyNext = {
   related: ["all-about-alan-topic/getting-out-from-under-a-dependency"],
   settled:
     "Three steps in order, each waiting on something outside me. The aim is not a better-graded fuel vendor or a better-graded insurer. It is needing neither.\n\nFirst, wait. Three-year leases are expiring and a wave of used electric cars is coming onto the market. The right action for now is keeping the Odyssey running and getting ready. Buying new at full price, or the wrong used one before the market's shape is clear, spends the capital twice.\n\nThen buy, choosing on durability and maintainability.\n\nThen put enough solar on the roof to need neither a fuel station nor a public charger. Without that last step the change only swaps a fuel dependency for a grid one, and the city power company takes the place of the fuel vendor.",
+  createdAt: "2026-09-21T20:15:09.247Z",
+  updatedAt: "2026-09-21T20:15:14.000Z",
 } as const satisfies AllAboutAlanTopic

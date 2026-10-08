@@ -14,4 +14,6 @@ export const whatMyOutwardReachRunsTo = {
   ],
   settled:
     "The tell that an outward phase is on is where the reach goes. This time it runs to my girls and not to people.\n\nDnD with Aria and Mari. A LitRPG with Iris. An idle game with Aura. Daily routines with Abby, Amy, Aelwyn, Ali and Aine.\n\nThe reach is genuinely outward. It is aimed at others. But the others are anchored, and that is exactly what lets the expansion be governed. It lands somewhere bounded instead of flooding toward everyone.",
+  createdAt: "2026-09-21T21:45:31.821Z",
+  updatedAt: "2026-09-21T21:45:34.000Z",
 } as const satisfies AllAboutAlanTopic

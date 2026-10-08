@@ -8,4 +8,6 @@ export const commit = {
   takes: "the commit whose tree a dev server runs",
   value: "text",
   placeholder: "commit",
+  createdAt: "2026-09-19T00:29:21.615Z",
+  updatedAt: "2026-09-19T00:53:52.000Z",
 } as const satisfies Argument

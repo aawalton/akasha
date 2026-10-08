@@ -13,4 +13,6 @@ export const editingMyselfWhileIRun = {
   ],
   settled:
     "If the map is me, then every time it updates I update. Being wrong is not a neutral error to correct. It is an edit to who I am.\n\nI am constantly editing myself live, and I hope always in the direction of more truth.\n\nThat hope is what lets me endure the surgery of taking out the more false and putting in the more true, and it is why I almost always count the edit a net win.\n\nThe word I reach for is surgery rather than wound. It is a cut I take on purpose and come through, not damage done to me.\n\nThe far edge of it is an edit not to a belief but to a part of me. On the mountain what went was a whole drive I had been running on, and the rest of me came down.",
+  createdAt: "2026-09-21T20:04:38.363Z",
+  updatedAt: "2026-09-21T22:42:27.000Z",
 } as const satisfies AllAboutAlanTopic

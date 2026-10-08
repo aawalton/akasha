@@ -13,4 +13,6 @@ export const theFeelingICannotGetAt = {
   ],
   settled:
     "The feeling runs. What is thin is my access to it, about a tenth of what others seem to have.\n\nWhat reaches me is present tense only, and it arrives strong when it arrives at all.\n\nBelow safety three it is running in my body and I cannot read it. At three and above I can.\n\nFor years I read myself as flat, with nothing running underneath. The correction landed only once I could tell the body signal apart from the conscious one.\n\nI take it that a large weight sits under the surface, because that is the most compact account of me. Three things point at it: how hard a feeling lands when it lands, what years of load have done to my body, and carrying undischarged weight looking like the human default.\n\nAny feeling that breaks through is welcome. Its mere presence is a reading on what is down there.\n\nReading that the well has run dry is a reading too, not a failure to have one.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T19:59:54.000Z",
 } as const satisfies AllAboutAlanTopic

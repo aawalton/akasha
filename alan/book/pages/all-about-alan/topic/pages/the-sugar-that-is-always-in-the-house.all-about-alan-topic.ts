@@ -13,4 +13,6 @@ export const theSugarThatIsAlwaysInTheHouse = {
   ],
   settled:
     "The shared food changes constantly, with one thing that never does: there is always sugar.\n\nJen feels safe having options in the house, sugar among them, though she rarely eats them and a lot of it gets thrown away. The availability itself is what does her good, so it is protected by the relationship and cannot be taken out.\n\nWhen I am desperate the best I manage is whichever sugar will be least missed, a soft cheese for the protein, and water.\n\nWhen I am doing well, food is something I stim on: ice cream, popcorn, fruit. What I worked out for myself is a layer of ice cream over a heaped bowl of pre-cut fruit, which is better than just ice cream.",
+  createdAt: "2026-09-21T20:18:32.167Z",
+  updatedAt: "2026-09-21T20:18:35.000Z",
 } as const satisfies AllAboutAlanTopic

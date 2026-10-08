@@ -13,4 +13,6 @@ export const theFloorInsideTheBlankCheck = {
   ],
   settled:
     "Asked on 6 August 2026 whether the rule still held inside the blank-check window, I said that at the moment there is no floor there.\n\nThe do-no-harm bar converts into a do-less-harm compromise. It hurts, but it is better than the alternative, which is guaranteed misery.\n\nThe conversion is scoped to that window. Everywhere else the bar is unchanged.",
+  createdAt: "2026-09-21T21:58:20.716Z",
+  updatedAt: "2026-09-22T18:29:06.000Z",
 } as const satisfies AllAboutAlanTopic

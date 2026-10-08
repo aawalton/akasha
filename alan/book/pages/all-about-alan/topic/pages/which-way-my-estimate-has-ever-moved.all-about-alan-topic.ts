@@ -13,4 +13,6 @@ export const whichWayMyEstimateHasEverMoved = {
   ],
   settled:
     "In my whole life I have never once overestimated how different I am. Every revision moved the figure outward and none of them moved it back.\n\nThat lifelong one-sided lag is why my gut now reaches low. After decades of being surprised outward the reflex pre-corrects by overshooting, so the error can finally run in both directions instead of only falling short.\n\nThe current figure is still a lower bound, and for a structural reason rather than modesty. Every improvement to either model pushes the measured difference up, and whatever I have no instrument to detect yet sits outside anything I could estimate.\n\nI do not know what I do not know.",
+  createdAt: "2026-09-21T20:19:46.433Z",
+  updatedAt: "2026-09-21T20:19:49.000Z",
 } as const satisfies AllAboutAlanTopic

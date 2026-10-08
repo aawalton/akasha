@@ -11,4 +11,6 @@ export const theDayTheFloorConverted = {
   related: ["all-about-alan-topic/what-guards-the-blank-check"],
   settled:
     "On 6 August 2026, asked whether the floor still holds inside the blank-check window, I said: at the moment, no floor. The do-no-harm bar converts into a do-less-harm compromise. It hurts, but it is better than the alternative, which is guaranteed misery.\n\nThat is scoped at the moment, given about the inside of that window, and what it does there is convert the instrument. A bar admits no trade. A compromise is a weighing.\n\nThe scope was left open, and I narrowed it later the same day. Asked whether the hard bar still holds for the world-facing case: yeah, it is only the marriage that has the adjusted bar. That was the only place I couldn't safely hold to the non-harm line.\n\nSo the conversion is one carve-out, named, and the second answer is what scopes the first.\n\nThe grounds I gave are that it hurts and that the alternative is guaranteed misery. Neither of the two legs the floor was built on is named in them, and nothing here withdraws either.",
+  createdAt: "2026-09-21T21:59:25.221Z",
+  updatedAt: "2026-09-21T22:09:47.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const theThreeSpeedsIClimbAt = {
   ],
   settled:
     "Three layered inputs raise the level, each on a different clock.\n\nSlowest and strongest is running a consistent capacity surplus over time. That is what raises my normal safety range, and it is the best long-term lever I have.\n\nFaster is my relationship health with Jen. Improving it makes a big impact over shorter horizons.\n\nOn the scale of a single day, overspending drops my health rather than my safety. The daily clock lands on health and the safety range holds.\n\nSo safety is layered inputs at different speeds rather than one slow integral with everything feeding it.\n\nI reach for the lever whose speed matches the problem. A dip is a short-timescale problem, so in one I repair the relationship rather than waiting months on the surplus.\n\nComing back up from the dip I was in, I thought I was in the 2.5 to 3.5 range that day, about a level below my baseline, and mostly repairing the relationship to move the needle.",
+  createdAt: "2026-09-21T20:16:55.415Z",
+  updatedAt: "2026-09-21T22:50:51.000Z",
 } as const satisfies AllAboutAlanTopic

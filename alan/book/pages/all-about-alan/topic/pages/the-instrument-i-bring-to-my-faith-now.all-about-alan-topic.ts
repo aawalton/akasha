@@ -14,4 +14,6 @@ export const theInstrumentIBringToMyFaithNow = {
   ],
   settled:
     "Faith is not a heavy thing I carry. It is the thing everything else of mine is carried by. Move the centre and everything downstream moves with it.\n\nThree beats. As a kid I had an epistemology I had never turned on itself, and its default move was that the authority said so. Years later I clarified how I actually know things, as part of understanding my own architecture rather than as a separate exercise. Now I am pointing that instrument at the centre.\n\nSo understanding how my own mind works has become a tool for weighing a religious claim. Knowing the machine that does the believing lets me check what an authority saying so never could.\n\nMy instinct strips out every unnecessary factor, and the Book of Mormon is the least minimal explanation there is. But a factor the evidence requires is not unnecessary. The compression runs against the union of the model and the evidence, not the model alone. Priced that way the apparatus costs nothing to accept.",
+  createdAt: "2026-09-21T21:42:05.441Z",
+  updatedAt: "2026-09-21T21:42:09.000Z",
 } as const satisfies AllAboutAlanTopic

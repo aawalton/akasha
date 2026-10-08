@@ -8,4 +8,6 @@ export const anthropicBaseUrl = {
   takes: "the base address the seat launched here calls",
   value: "text",
   placeholder: "url",
+  createdAt: "2026-09-12T09:20:58.798Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

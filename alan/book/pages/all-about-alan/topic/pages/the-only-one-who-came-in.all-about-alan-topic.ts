@@ -10,4 +10,6 @@ export const theOnlyOneWhoCameIn = {
   related: ["all-about-alan-topic/the-first-person-i-loved"],
   settled:
     "The same night I broke up with Kerry, a rowdy after-curfew party got the faculty cracking down, and I was swept up in it.\n\nEveryone up that night was asked to come in for consequences. I was the only one who came, and the only one who suffered: community service in the cafeteria for weeks.\n\nMy grandfather directed the program, so they could not afford to show me any favouritism.\n\nThe service repaired my relationships inside the program. It never repaired the one with Kerry.",
+  createdAt: "2026-09-21T20:23:16.971Z",
+  updatedAt: "2026-09-21T20:23:59.000Z",
 } as const satisfies AllAboutAlanTopic

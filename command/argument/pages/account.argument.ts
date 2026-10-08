@@ -8,4 +8,6 @@ export const account = {
   takes: "the name a model account is reached by",
   value: "text",
   placeholder: "account",
+  createdAt: "2026-09-12T09:18:18.326Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

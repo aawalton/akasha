@@ -13,4 +13,6 @@ export const whenConnectionWasEasy = {
   ],
   settled:
     "In elementary school I expanded socially, to the point of wanting twenty friends at my tenth birthday, and I could name them.\n\nI trusted easily, connected easily, and felt well liked.\n\nSo the need was always there. What changed is the price of meeting it, not the need itself.\n\nThe present difficulty is acquired. The trust and the ease ran freely before the alarm around criticism and twenty years of burnout raised the cost.",
+  createdAt: "2026-09-21T20:28:10.363Z",
+  updatedAt: "2026-09-21T20:28:45.000Z",
 } as const satisfies AllAboutAlanTopic

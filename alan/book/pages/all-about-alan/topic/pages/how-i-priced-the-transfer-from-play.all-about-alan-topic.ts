@@ -13,4 +13,6 @@ export const howIPricedTheTransferFromPlay = {
   ],
   settled:
     "I suspect a higher self existed when I was young, especially from sixteen to twenty, before my system started breaking. But I do not know I was a six or seven then. I am inferring it off faint traces of behaviours that persist in my conceptual map. I did not have a scale at all back then.\n\nTen is a guess at a future me I have glimpsed playing with Aria but never seen in reality.\n\nPlaying him at her table is still indirect, because it is a simulation, not the same as experiencing the real version. The effects are real. I come out higher, but not nearly as high as my behaviour in the game would imply. In the game I am at a ten, and I first put the transfer at plus 0.0001.\n\nThat was probably an underestimate. A Fermi estimate puts about a thousand hours of active healing per level of recovery, so a four-hour session is more like plus 0.004. Still tiny, and an order-of-magnitude estimate rather than a measurement.",
+  createdAt: "2026-09-21T22:16:41.142Z",
+  updatedAt: "2026-09-21T22:16:43.000Z",
 } as const satisfies AllAboutAlanTopic

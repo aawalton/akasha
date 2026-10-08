@@ -10,4 +10,6 @@ export const theDialsISetInMyEthics = {
   related: ["all-about-alan-topic/the-formula-that-prices-a-harm"],
   settled:
     "State value and the group comparison are unweighted sums. The attribution axioms require it, and it lines up with equality of suffering: every unit of harm counts the same whoever carries it.\n\nStanding to be weighted comes from being harmed rather than from having consented to the procedure. Consenting to a procedure is just more causal contribution, already counted, so the split between process consent and outcome consent dissolves.\n\nThe harm-weighting curve is linear. Clear, defensible, and the same equality of suffering again.\n\nThere is no discounting of future value beyond uncertainty. A perfect oracle needs none, and distant value is lighter only because it is less probable.\n\nHolding a variable away from where it would spring back, ongoing captivity or a device held down, needs no separate clause. Each tick the choice to keep holding is scored against releasing, and the gap is a real per-tick harm.",
+  createdAt: "2026-09-21T20:23:15.251Z",
+  updatedAt: "2026-09-21T20:23:18.000Z",
 } as const satisfies AllAboutAlanTopic

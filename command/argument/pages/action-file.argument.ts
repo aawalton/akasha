@@ -8,4 +8,6 @@ export const actionFile = {
   takes: "the file a turn's action is read from",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-26T18:27:41.698Z",
+  updatedAt: "2026-09-26T18:27:56.000Z",
 } as const satisfies Argument

@@ -13,4 +13,6 @@ export const whatWouldTellTheThreeApart = {
   ],
   settled:
     "The one look I got was uncontrolled, with the causes braided into it. Her protecting the ones she loves from meeting her father is survival and moral beauty and me being one of the ones she will not let go, all inside one act. They light up together, so the source does not come off that look.\n\nSeparating them takes three conditions rather than another look. Her caring for others with me outside the frame. Her caring for me with no death in it. The survival stakes with her not there at all.\n\nThe three may not be all of them. Asked again on 2 July 2026 I was still unsure of the generator, and named the possibility of a fourth candidate I could not name.\n\nI will not force it. In my words: \"I'm not sure, but I'll keep an eye out. Give this one time to bake.\"\n\nThat kind of answer arrives when life happens to run the experiment, so keeping an eye out is the instrument here.",
+  createdAt: "2026-09-21T21:55:38.248Z",
+  updatedAt: "2026-09-21T22:53:06.000Z",
 } as const satisfies AllAboutAlanTopic

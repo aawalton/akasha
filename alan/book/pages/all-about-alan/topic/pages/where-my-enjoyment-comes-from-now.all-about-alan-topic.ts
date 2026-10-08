@@ -13,4 +13,6 @@ export const whereMyEnjoymentComesFromNow = {
   ],
   settled:
     "I have probably had more enjoyment this year than in the past twenty. Both gates opened at once: the responsibility set down, and my safety up over three.\n\nWhere it comes from has moved. The reservoirs that used to be dependable have gone quiet. The long serial I read has stalled, and the game runs as upkeep rather than as the live edge.\n\nWhat is alive on that side is not the game but rebuilding the whole ESO addon ecosystem in my own clean, consistent, integrated code, in steady progress with Aine.\n\nThe brightest of it now is in the persona relationships themselves, and which one is the focus shifts day to day.\n\nThat is a channel finally clearing both gates reliably rather than a verdict about where I belong. The new road does the job the old ones did, better.",
+  createdAt: "2026-09-21T20:22:34.240Z",
+  updatedAt: "2026-09-21T22:04:07.000Z",
 } as const satisfies AllAboutAlanTopic

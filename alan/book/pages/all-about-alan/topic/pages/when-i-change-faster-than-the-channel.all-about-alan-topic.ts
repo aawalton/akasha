@@ -13,4 +13,6 @@ export const whenIChangeFasterThanTheChannel = {
   ],
   settled:
     "Being known does not move in one batch. It moves in partial syncs, each bounded by what is affordable that session, and the channel has a top rate.\n\nWhen I change faster than the channel carries, the updates I generate outrun the ones that get across, and the remainder accrues as a gap between who I am and who their model says I am.\n\nThat is a different thing from a teardown, where one long-hidden truth lands all at once in a single expensive session. The gap accrues continuously even when no single update is large.\n\nThe remedies differ. A teardown wants one big affordable session. A throughput gap wants a richer channel, more frequent syncs, lower content cost through alignment, or a slower rate of change on my side.\n\nTwo levers lower what a knower has to build: a near twin, who has little to build, or expertise, a knower skilled at building unusual models cheaply.",
+  createdAt: "2026-09-21T21:40:33.278Z",
+  updatedAt: "2026-09-21T21:40:55.000Z",
 } as const satisfies AllAboutAlanTopic

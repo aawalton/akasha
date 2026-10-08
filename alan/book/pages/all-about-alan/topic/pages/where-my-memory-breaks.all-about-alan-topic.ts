@@ -13,4 +13,6 @@ export const whereMyMemoryBreaks = {
   ],
   settled:
     "Remembering runs in three stages: taking a thing in, writing it down, and calling it back. Only the third of mine is broken.\n\nThe dreams are the proof. If the senses and the feeling are all there asleep, they were taken in and they were written down.\n\nSo nothing is lost. It is written, and while I am awake there is no path back to it.\n\nTotal means every channel: sight, sound, touch, smell, taste, where my limbs are, what my body is doing, and feeling.\n\nAn emotion is encoded as it happens, the same as anybody's. What I cannot do is call it back and work it off, so it banks up behind the break.",
+  createdAt: "2026-09-21T19:59:47.296Z",
+  updatedAt: "2026-09-21T19:59:51.000Z",
 } as const satisfies AllAboutAlanTopic

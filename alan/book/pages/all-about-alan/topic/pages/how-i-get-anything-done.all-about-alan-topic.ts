@@ -9,4 +9,6 @@ export const howIGetAnythingDone = {
   parents: ["all-about-alan-topic/alan"],
   settled:
     "Most of it is compensated well enough that the gap is invisible from outside and half invisible to me.\n\nInterest decides whether starting and holding on are effortless or nearly impossible.\n\nChanging course is cheap, because nothing in me pulls back toward the plan I just left.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

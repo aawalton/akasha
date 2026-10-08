@@ -10,4 +10,6 @@ export const whatIsWithinReachInMyRoom = {
   related: ["all-about-alan-topic/building-my-wants-into-the-room"],
   settled:
     "My room is office, bedroom, bath and home gym at once. Given food I could live in it indefinitely.\n\nOn the desk, within arm's reach, are plant-protein bars and figs. Reaching costs something, so they only get reached for when I am doing well. Figs are my one winner that is fragile about quality.\n\nIn an arm's-reach drawer is the sugar I have been given, at holidays and otherwise. I cannot refuse it or throw it out without feeling I have given offence, so it sits there, and it is what I go for when I am depleted.\n\nSugar is the only thing down there whose craving pays for its own reaching. A fig's does not. Having no aligned food I crave at the lowest levels is what blocks me there.",
+  createdAt: "2026-09-21T20:17:39.254Z",
+  updatedAt: "2026-09-21T20:17:42.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const whatTheBookOfMeIsFor = {
   ],
   settled:
     "Watching me can only show what moves with what. A cause costs a real experiment on myself, every time.\n\nI cannot run one in my head for free the way most people can.\n\nWhat I am missing is buildable, but only outside my skull, and this corpus is what it gets built out of.\n\nSix hundred thousand words in, a sister running accurate what-ifs off it is still a long way off.\n\nThree gaps, one per layer: the watching unfinished, the top of me barely lived, and no machine big enough to hold it whole.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

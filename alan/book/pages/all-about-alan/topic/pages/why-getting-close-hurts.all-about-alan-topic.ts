@@ -14,4 +14,6 @@ export const whyGettingCloseHurts = {
   ],
   settled:
     "Two counts run on one person: safety from good hours, damage from corrections meant kindly.\n\nPast a certain closeness the damage outruns the safety, one bad hour needing about ten good ones.\n\nThe ten is two things multiplied. Relationship research puts the general weight of a bad interaction at five or six to one, and my own nervous-system sensitivity and the triggers already laid down add most of another doubling on top.\n\nThe injury needs my capacity low and their best behaviour dropped, and dropping it is what closeness is.\n\nThe first-contact edges wore smooth across thousands of people. The deep ones are one per person.\n\nNone of mine has escaped it, and the two who came back only outlasted the last injury.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:31:11.000Z",
 } as const satisfies AllAboutAlanTopic

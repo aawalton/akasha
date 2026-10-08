@@ -13,4 +13,6 @@ export const theRuleOverTheGapIHaveNotClosed = {
   ],
   settled:
     "Why I keep commitments at all I hold open. The likely source is the same fire as only perfection is safe, and I have not closed that.\n\nOver the gap I run a rule: I am not allowed to break any commitments until I figure that all out. Fix the behaviour, let the understanding catch up.\n\nThe exact rule is never silently break a commitment. Commitments can be renegotiated, but not just dropped.\n\nBecause renegotiating is a third way out, the rule rarely collides with what I can afford. Where keeping one would cost too much, it routes me to renegotiate.\n\nThe hardest case is actually when I cannot afford the renegotiation. That has not happened recently, and the verdict is that the renegotiation wins as a one-time cost to prevent future costs I cannot afford.\n\nIt binds only what is already agreed. The cuddling fix I have queued does not touch it, because the current bedroom arrangement is agreed and the fix adds a pattern rather than dropping one.",
+  createdAt: "2026-09-21T21:46:34.188Z",
+  updatedAt: "2026-09-21T21:46:37.000Z",
 } as const satisfies AllAboutAlanTopic

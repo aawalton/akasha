@@ -14,4 +14,6 @@ export const whenSomeoneSaysSomethingGood = {
   ],
   settled:
     "I have had appreciation in large amounts and I am not sure I have ever received any of it.\n\nAt the same time I flourish on praise and have since I was a child. One word of it could send me chasing a repeat for a thousand hours. Drowning in appreciation and parched anyway, which forces the two to be different kinds of thing rather than two amounts of one.\n\nPraise has to be true, meant, valuable and not incidental, all at once as it is said. Criticism needs one of two, and drops the valuable and not incidental tests entirely. Good threads four needles and bad only one of two.\n\nThe check happens at delivery. It does not have to agree with a verdict I already hold.\n\nWhat passes the true test is an undisputable specific I already hold, rather than a global verdict I would take on faith.\n\nSpoken carries what text cannot. Hearing a thing meant is how it clears the second condition in the moment it is said.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:24:57.000Z",
 } as const satisfies AllAboutAlanTopic

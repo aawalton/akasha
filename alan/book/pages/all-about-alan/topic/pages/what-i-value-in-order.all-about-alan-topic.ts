@@ -11,4 +11,6 @@ export const whatIValueInOrder = {
   related: ["all-about-alan-topic/the-three-parts-of-me", "all-about-alan-topic/how-i-know-things"],
   settled:
     "The top three improve one part each: faith the mind, love the feeling, health the body. Learning is the intake that feeds all three.\n\nUnderstanding myself fully is the doing. Alignment is what understanding looks like when it is finished, not a second step needing will.\n\nI used to believe understanding and living were separate. I do not now.\n\nThe mind side outranks the body side because its gains only ever accumulate, where health moves in no fixed direction.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -9,4 +9,6 @@ export const theFloorThatRises = {
   parents: ["all-about-alan-topic/being-an-inventor-not-a-coder"],
   settled:
     "A permanent solution is not a perfect one. It gives a floor, and that floor rises over time. What it permanently solves is the issue of messes below the floor.\n\nI never know for sure that a solution is permanent, but there are attempts at permanent ones.\n\nThe folder-matches-a-shape check is a permanent solution to keeping files organised in folders.",
+  createdAt: "2026-09-21T23:44:36.987Z",
+  updatedAt: "2026-09-21T23:44:38.000Z",
 } as const satisfies AllAboutAlanTopic

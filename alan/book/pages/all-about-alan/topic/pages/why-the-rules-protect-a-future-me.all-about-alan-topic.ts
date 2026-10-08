@@ -15,4 +15,6 @@ export const whyTheRulesProtectAFutureMe = {
   ],
   settled:
     "Read one way, the chosen rules are one governor wearing a face per resource I cannot feel draining: stress capacity, executive function and energy, social capacity, and self-preservation.\n\nThat is a fair characterisation and it holds cleanly for three of the four. It breaks on the self-harm guard. I am less confident in that one as a resource, because self-harm is not really a resource draining.\n\nMaybe a truer generalisation, the one that would hold for all of them, is that these are rules to protect the future me from the choices of the present me. The resource drain is how three of them do it. Protecting the future me is why all of them exist.\n\nThe reason the present me has no standing to spend a future me is that harm outlives the self who agreed to it. The one who consents has drifted into a stranger long before the harm is paid.",
+  createdAt: "2026-09-21T21:59:31.236Z",
+  updatedAt: "2026-09-21T22:49:58.000Z",
 } as const satisfies AllAboutAlanTopic

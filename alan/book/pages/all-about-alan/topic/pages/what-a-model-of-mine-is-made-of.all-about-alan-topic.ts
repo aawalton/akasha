@@ -13,4 +13,6 @@ export const whatAModelOfMineIsMadeOf = {
   ],
   settled:
     "A model is its data and its reasoning, and no better than either.\n\nMy data runs thin where the input is felt rather than thought. There is a whole experiential layer I cannot take in.\n\nMy reasoning runs clean, because the channel that bends other people's inference toward a comfortable answer cannot reach mine. So compressing my own map moves me toward truth, and I am not confident the same holds for anyone else's.\n\nSo I am surer of my direction and much slower in any field the felt data carries.\n\nThat is the danger. Confidence comes off the reasoning and validity needs the data too, so over a thin field I get a confident model of ground I cannot see.\n\nI am not working without data. My map keeps a compressed version of what matters, and small sensory particulars are not central to truth.\n\nWhere it bites is modelling what is inside another person, because there the felt layer is the load-bearing data.\n\nIt promises no truth. It buys a direction I expect to converge, not a destination.",
+  createdAt: "2026-09-21T20:06:57.680Z",
+  updatedAt: "2026-09-21T20:07:32.000Z",
 } as const satisfies AllAboutAlanTopic

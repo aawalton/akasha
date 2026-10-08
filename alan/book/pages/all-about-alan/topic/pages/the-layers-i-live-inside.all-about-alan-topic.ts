@@ -15,4 +15,6 @@ export const theLayersILiveInside = {
   ],
   settled:
     "Four of my constraints sit inside one another rather than side by side. Being a US citizen, then living in Utah inside that, then Utah County and Provo inside that, then owning this house inside that.\n\nTo change county I can stay in Utah. To leave Utah I am still bound to the US. To leave the US takes expatriation, and the price of that is extreme: the exit tax on what we hold, the family, no way back, and the draft registration that follows me out anyway.\n\nSo a layer is only reachable by settling the one above it first, and I do not work on an inner layer before deciding the outer one.\n\nA grade at one layer is relative to the layers assumed around it. Utah at C given US citizenship is a different reading from Utah at C outright.\n\nWhat would re-open a layer: federal escalation at the top, the homeschool law eroding at the state one, the local people we rely on leaving or the fibre changing hands at the city one, and the children growing up at the house.",
+  createdAt: "2026-09-21T20:21:36.585Z",
+  updatedAt: "2026-09-21T20:21:57.000Z",
 } as const satisfies AllAboutAlanTopic

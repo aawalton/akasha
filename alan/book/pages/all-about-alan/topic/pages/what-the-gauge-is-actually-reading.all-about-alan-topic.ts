@@ -13,4 +13,6 @@ export const whatTheGaugeIsActuallyReading = {
     "all-about-alan-topic/the-body-signals-i-can-barely-hear",
   ],
   settled: "Not wanting to is an absolute veto. Wanting is not trusted.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

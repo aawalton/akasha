@@ -8,4 +8,6 @@ export const email = {
   takes: "the address the account signs in as",
   value: "text",
   placeholder: "address",
+  createdAt: "2026-09-12T09:19:12.556Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

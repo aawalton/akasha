@@ -13,4 +13,6 @@ export const whatMusicDoesWhileIWork = {
   ],
   settled:
     "Music is off by default. It is a top-up I reach for when I am understimulated, and some days I run none at all. It also feeds the executive function my ADHD is short of.\n\nUnlike the game it does two separable jobs.\n\nThe words compete with hard collaborative work. Difficult agent work is words all the way down, reading and reasoning and writing back, and lyrics take the same lane. I have a hard time doing it with music running sometimes. Routine work is much easier.\n\nIt is definitely the words. Sometimes the lyrics fall to background and the conflict drops. Instrumental basically never conflicts.\n\nThe sound itself still carries stimulation, words or not. Instrumental can still overstimulate.\n\nSo the two failures are independent. One is about the kind of work and only lyrics trigger it. The other is about the level of input and needs no words. Instrumental during collaborative work is safe on the first and still live on the second.",
+  createdAt: "2026-09-21T21:44:02.718Z",
+  updatedAt: "2026-09-21T21:44:22.000Z",
 } as const satisfies AllAboutAlanTopic

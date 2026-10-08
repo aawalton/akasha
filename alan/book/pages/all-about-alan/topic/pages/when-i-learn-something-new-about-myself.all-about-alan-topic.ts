@@ -15,4 +15,6 @@ export const whenILearnSomethingNewAboutMyself = {
   ],
   settled:
     "I know when I am learning something new about myself, and I know it at the time rather than later, when I would notice I had started acting differently.\n\nWhat I do not know is how exactly to get there.",
+  createdAt: "2026-09-22T15:06:07.415Z",
+  updatedAt: "2026-09-22T15:06:45.000Z",
 } as const satisfies AllAboutAlanTopic

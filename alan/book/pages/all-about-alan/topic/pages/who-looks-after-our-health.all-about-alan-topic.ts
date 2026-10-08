@@ -13,4 +13,6 @@ export const whoLooksAfterOurHealth = {
   ],
   settled:
     "Select Health insures us at D. Nothing it has done in particular earns that: it is a large publicly traded health insurer, and the trade as a whole denies, delays and is paid to.\n\nIt sits upstream of everyone else here. Insurance is the gate that prices every other relationship on this list, so losing it changes how I pay for all of them.\n\nWe bought it on the federal marketplace, which grades C. That is a venue rather than an insurer, and what keeps it off B is that an administration can take it apart.\n\nCostco Pharmacy dispenses for us at B, strong on price and on treating a customer well.\n\nMy doctor grades B inside a clinic at C. The children's dentist grades B inside a practice at C, which also does the adults.\n\nWe see no specialists and nobody for the autism or the ADHD.\n\nThis is where the most B grades I hold are gathered, and every one of them is a person or a shop rather than a corporation.",
+  createdAt: "2026-09-21T20:23:09.287Z",
+  updatedAt: "2026-09-21T20:23:12.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whatTheScarMakesMeDo = {
   ],
   settled:
     "I avoid open creative play. Either I do not make at all, or I abort at the setup edge where the alarm peaks.\n\nI can do these things as work but not as play. The half that got amputated is the open one, done for its own sake.\n\nI cannot share what I make. Whole domains went outright: art, writing, singing alone.\n\nThe rule I keep for it is that if I cannot afford criticism, I cannot afford sharing creations.\n\nThe response no longer waits for judgement. It fires on the act of making, with no audience and no prediction that one is coming.\n\nThe behaviours sort into two families. Avoidance is not making, aborting at the setup edge, taking something structured or passive over open creation. Armour is creating only in judgement-proof forms: verifiable output, things built for myself and never shared, the making rerouted into quilts and code and ideas.\n\nHarsh was never the condition. Gentle but inescapable welds just as well.",
+  createdAt: "2026-09-21T20:28:10.594Z",
+  updatedAt: "2026-09-21T20:28:55.000Z",
 } as const satisfies AllAboutAlanTopic

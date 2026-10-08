@@ -13,4 +13,6 @@ export const theYearICutEveryoneOut = {
   ],
   settled:
     "Twelve months of company taken down to the least I could: the smallest set of household and parenting interactions that keep the home running, plus church. I skipped most exceptions and honoured very few.\n\nI hold it as medical rather than a preference. A preference is renegotiated at every invitation and a category is not.\n\nThe frame works on me first. It changes what I let myself consider before it changes what I say to anyone.\n\nIt only became affordable after I stopped working, which was most of the cost on its own.\n\nTalking is the one thing that stops the breathing, so cutting people back also bought the recovery hours.\n\nChurch got through because I had filed it as non-discretionary. Even that was a mistake. Through 2025 I held a calling there, and later asked to be released. Church without the calling is affordable in 2026. With it, at what I had then, it was not.\n\nKeeping the calling was a wrong classification rather than bad arithmetic.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:46:55.000Z",
 } as const satisfies AllAboutAlanTopic

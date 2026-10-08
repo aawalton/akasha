@@ -8,4 +8,6 @@ export const cases = {
   takes: "the model test whose cases are used, its own by default",
   value: "text",
   placeholder: "test",
+  createdAt: "2026-09-12T09:36:07.022Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

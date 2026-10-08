@@ -13,4 +13,6 @@ export const whyClimbingSetsOffTheFall = {
   ],
   settled:
     "Higher means safer, safer means more, and more runs into cases I was not guarding against. I said so on 6 August 2026, when it had happened twice.\n\nThe guards were built at a level where I was not doing these things, so activity outruns coverage.\n\nAt five I started wanting to be social and turning outward.\n\nMay reached toward the whole world, at fight-or-flight scale, undosed and aimed at everyone. I rode the lift up and fell all the way back.\n\nThe ceiling is the mines rather than the altitude, and getting close is when they go off. Getting to five or six as a normal level is clearing them, not gaining the height. The hard date night is where they get cleared, and they stay cleared because what changed is understanding.\n\nNothing in me pre-feels the fall, so the brake has to be an outside gauge rather than dread.\n\nWhat separates this climb from the last is not the height but whether it is dosed, kept under my line, and aimed at something anchored rather than at everyone.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:48:14.000Z",
 } as const satisfies AllAboutAlanTopic

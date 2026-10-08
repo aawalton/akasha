@@ -8,4 +8,6 @@ export const driveFile = {
   takes: "the file to fetch, said as a share URL or as a bare id",
   value: "text",
   placeholder: "url-or-id",
+  createdAt: "2026-09-12T09:04:18.984Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

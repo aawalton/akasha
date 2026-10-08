@@ -9,4 +9,6 @@ export const whenAHarmIsDated = {
   parents: ["all-about-alan-topic/the-smallest-harm-there-is"],
   settled:
     "A present reduction in someone's expected future value is a present harm.\n\nIt is dated to the tick on which the probability resolves, not to the tick of physical impact. So authorship tracks whoever moved the odds, possibly long before anything physical happens.\n\nA distant harm is lighter, but only because the future still holds other options, including the individual dying of something else first. The lightness is pure probability weighting rather than any discounting of the future for being far off.\n\nObservation is global across the multiverse and causation is not. The oracle looks across branches so it can measure accurately, but nothing causal crosses branches beyond ordinary quantum mechanics. An agent in one branch cannot harm an individual in another, and cross-branch attribution is structurally zero wherever no causal path exists.",
+  createdAt: "2026-09-21T20:21:11.826Z",
+  updatedAt: "2026-09-21T20:21:15.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -9,4 +9,6 @@ export const howIPriceAHarmSpreadOverMany = {
   parents: ["all-about-alan-topic/the-formula-that-prices-a-harm"],
   settled:
     "Where a decision harms many people unequally I take each harmed person's agency over the harm and their share of the total utility harm, with the shares summing to one, and form the harm-weighted agency of the group.\n\nThe decision is permissible only where the total benefit exceeds the total harm divided by that number. A group at a half needs twice the benefit. A group at a tenth needs ten times. One person alone is just their own agency.\n\nWeighting agency by share of harm is what stops laundering. A severe harm to one person with little authorship cannot be offset by padding the group with barely harmed people who have plenty, because their tiny share gives them tiny weight.\n\nMinority protection comes out structural. A harm landing on people with little authorship over it demands a proportionally larger benefit, not because they were counted and found few, but because their authorship was low. No headcount enters anywhere.",
+  createdAt: "2026-09-21T20:13:42.436Z",
+  updatedAt: "2026-09-21T20:14:12.000Z",
 } as const satisfies AllAboutAlanTopic

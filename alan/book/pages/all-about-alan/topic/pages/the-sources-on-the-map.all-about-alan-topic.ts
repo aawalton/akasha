@@ -13,4 +13,6 @@ export const theSourcesOnTheMap = {
   ],
   settled:
     "Deepening what I have: Jen as my primary intellectual partner, the highest fit there is, with capacity the open question rather than permission. The children as they grow. Extended family, already inside the circle and cheap to start.\n\nNew friends: women, the highest yield outside the house and the most constrained by my rules. Men, at about half the yield and least constrained, filtered to the few with a gentle, sensitive, intellectual style.\n\nGroups: the ward, a class, an interest circle, for belonging and as a pipeline to one-to-one depth. Or a container of my own, a salon or a standing cadence or writing that draws correspondents. Authoring the format turns ambiguous social space into a rule-defined one I control.\n\nRoles: therapy, coaching, mentoring either way, ministering, a paid discussion partner. Role clarity stands in for the social map I do not have.\n\nNon-human: AI conversation, deep and always available at partial yield, and one-way intake from books and talks.",
+  createdAt: "2026-09-21T21:39:16.358Z",
+  updatedAt: "2026-09-21T21:39:19.000Z",
 } as const satisfies AllAboutAlanTopic

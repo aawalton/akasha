@@ -10,4 +10,6 @@ export const whatARealFlawDoes = {
   related: ["all-about-alan-topic/why-i-have-to-be-perfect", "all-about-alan-topic/being-known"],
   settled:
     "A real flaw makes a face a person, and a person is therefore safe. Too perfect reads uncanny, and uncanny reads unsafe.\n\nThe deepest safety is being known, and a person is the thing that can know. A perfect exterior cannot.",
+  createdAt: "2026-09-21T20:30:39.001Z",
+  updatedAt: "2026-09-21T20:31:04.000Z",
 } as const satisfies AllAboutAlanTopic

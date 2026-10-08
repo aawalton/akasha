@@ -7,4 +7,6 @@ export const broken = {
   said: "--broken",
   takes: "the cases the model got wrong and no others",
   value: "none",
+  createdAt: "2026-09-12T09:36:32.654Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

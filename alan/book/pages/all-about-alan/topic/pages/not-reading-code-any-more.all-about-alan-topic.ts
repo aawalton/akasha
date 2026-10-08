@@ -10,4 +10,6 @@ export const notReadingCodeAnyMore = {
   related: ["all-about-alan-topic/when-my-docs-are-my-code"],
   settled:
     "I do not think I have read code at all in 2026.\n\nI read docs, because that is where human intervention is most necessary, especially with the domain system.",
+  createdAt: "2026-08-28T01:56:28.897Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

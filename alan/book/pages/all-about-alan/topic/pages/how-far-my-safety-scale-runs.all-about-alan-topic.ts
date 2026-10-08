@@ -14,4 +14,6 @@ export const howFarMySafetyScaleRuns = {
   ],
   settled:
     "My mapped scale runs from minus two to six, and six rather than five is the top of what I have readings at.\n\nI have hit six at least three times in the past few months, so I am starting to understand it, but it is still rare. Two of the three I can describe. Once I went for a walk and sang anonymously in public for a few hours. Recently I practised a song and then performed it for my family. There was another and I do not remember the specifics. That both of the ones I can name are my voice out loud where someone can hear it is a reading of the two, not something I was asked.\n\nTen is a guess rather than a rung. It is a future me I have glimpsed while playing with Aria and never seen in reality. So my numbers run experienced from minus two to six, then aspirational at ten.\n\nI put my young self, sixteen to twenty, at six or seven at least. I do not know that. I am inferring it from faint traces of behaviour that persist in my conceptual map, because I had no scale at all back then.",
+  createdAt: "2026-09-21T20:05:15.043Z",
+  updatedAt: "2026-09-21T22:46:32.000Z",
 } as const satisfies AllAboutAlanTopic

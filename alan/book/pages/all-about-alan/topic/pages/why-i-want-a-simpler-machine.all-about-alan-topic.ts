@@ -10,4 +10,6 @@ export const whyIWantASimplerMachine = {
   related: ["all-about-alan-topic/getting-out-from-under-a-dependency"],
   settled:
     "I choose older and simpler over newer and full of features, and I want repair knowledge and parts already out in the world.\n\nA new machine runs on the maker's software, its updates over the air and its own diagnostic tools. That is a hold the maker keeps. It can switch the thing off, brick it, or change it from a distance without asking me.\n\nAn older simpler design cuts that back to mechanics, which an independent shop can actually work on.\n\nSo the rule is about staying free rather than about spending less. Every feature a maker adds is more of me it can reach later.",
+  createdAt: "2026-09-21T20:15:22.920Z",
+  updatedAt: "2026-09-21T20:15:32.000Z",
 } as const satisfies AllAboutAlanTopic

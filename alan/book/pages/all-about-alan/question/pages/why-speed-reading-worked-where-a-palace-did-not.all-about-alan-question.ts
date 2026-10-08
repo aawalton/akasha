@@ -6,4 +6,6 @@ export const whySpeedReadingWorkedWhereAPalaceDidNot = {
   slug: "why-speed-reading-worked-where-a-palace-did-not",
   topic: "all-about-alan-topic/playing-the-long-game",
   ask: "The result is on record with no mechanism under it: why did speed reading work for me where the memory palace could not?",
+  createdAt: "2026-09-06T18:15:51.687Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

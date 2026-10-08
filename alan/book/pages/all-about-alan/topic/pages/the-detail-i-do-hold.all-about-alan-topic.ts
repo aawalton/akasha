@@ -14,4 +14,6 @@ export const theDetailIDoHold = {
   ],
   settled:
     "What I hold in detail is conceptual. Sensory and emotional detail leaves almost as soon as it arrives, so I lean toward the big picture and miss the particulars that are not concepts.\n\nThe conceptual side runs very fine. An A plus in linear algebra that skewed the curve, matrix multiplications without an error. A gap in a programming language's specification at a job interview that no other candidate or employee had caught. A college award as the human encyclopedia, dictionary and thesaurus. All hundred and fifty one Pokemon as a child, name, number, moves and the level each arrives at, height, weight and evolution. Enough dinosaurs to pick Jurassic Park apart.\n\nSystems are more real to me than my senses.\n\nAt first encounter I work bottom up, though I read as top down. I read all of a new language's documentation before I write in it. The details do not stay, but the abstractions that matter do, and I get recognition for free the next time I meet one.",
+  createdAt: "2026-09-21T21:40:43.761Z",
+  updatedAt: "2026-09-21T21:40:46.000Z",
 } as const satisfies AllAboutAlanTopic

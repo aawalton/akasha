@@ -14,4 +14,6 @@ export const startingOnceAgainstCommittingToIt = {
   ],
   settled:
     "Whether a thing is affordable right now and whether I can take it up are two different questions, and they read my safety at two different places.\n\nTo start something this once, my safety level has to be a rung above its difficulty right now. That gate is opportunistic. The moment is free, so I take the thing while the moment lasts.\n\nTo commit to something recurring, a rung above its difficulty has to hold at the low end of my usual range rather than at the middle of it. I am not allowed to commit to a recurring activity unless I can afford it at a one sigma low.\n\nThat gate is structural. A commitment priced at my average fires on my bad days too, and on a bad day it is no longer affordable.\n\nSo a thing can be bearable at my middle and still be something I must not choose. Where that happens, the only way I am in it is involuntarily.",
+  createdAt: "2026-09-21T20:11:10.943Z",
+  updatedAt: "2026-09-21T20:11:36.000Z",
 } as const satisfies AllAboutAlanTopic

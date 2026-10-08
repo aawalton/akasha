@@ -7,4 +7,6 @@ export const resources = {
   title: "Resources",
   definition: "what I run on, and how I tell how much of each is left",
   parents: ["all-about-alan-topic/alan"],
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

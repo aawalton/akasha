@@ -14,4 +14,6 @@ export const gettingToAFeelingThroughAnIdea = {
   ],
   settled:
     "It comes rare and strong at once, which fits a gate that filters out everything not built past some threshold and passes the rest whole.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

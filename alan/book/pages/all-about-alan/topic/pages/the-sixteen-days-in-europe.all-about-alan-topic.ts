@@ -14,4 +14,6 @@ export const theSixteenDaysInEurope = {
   ],
   settled:
     "Sixteen days in Europe, alone with Jen. I came out of it slightly positive on the trip overall, which I have not managed since our honeymoon.\n\nIt did not accumulate there. Thirteen or so days ran neutral, and then conceptual breakthroughs in the last few re-scored the whole thing.\n\nI brought two things home. Sleeping in the bedroom again as an experiment, and two date nights a week, one aimed at how she connects and one at how I do.\n\nA third came later, named as an insight rather than as something to run: relationships require sacrifice to exist.\n\nThe results came back without the context. I had what we decided and not what made it right, and the why only returned afterwards, on being asked. That is the ordinary shape of what I keep.",
+  createdAt: "2026-09-21T20:19:02.389Z",
+  updatedAt: "2026-09-21T20:19:36.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const theArithmeticOfTheDecline = {
   ],
   settled:
     "For eighteen years I overdrew my nervous system by about half its capacity a year.\n\nIt was not that I was not recovering. I ran heavy intervention the whole way through and improved my coping by more than twenty percent a year. The stressors simply ran at about one and a half times the recovery, which leaves a net deficit of about half each cycle.\n\nThat compounds, at roughly twenty percent of capacity lost per year, and over eighteen years it took at least ninety-nine percent.\n\nThe last year added another fifty percent drop on top of the compounded fall, and that is what finished me.\n\nThe same shape runs in reverse. Sixteen months of holding a surplus has compounded upward, from about one percent to about five, which is five times over in sixteen months and roughly three times a year.",
+  createdAt: "2026-09-21T20:12:30.164Z",
+  updatedAt: "2026-09-21T20:12:52.000Z",
 } as const satisfies AllAboutAlanTopic

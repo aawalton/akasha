@@ -12,4 +12,6 @@ export const theModesIRunIn = {
     "all-about-alan-topic/the-scaffolding-i-built",
   ],
   settled: "Robot mode is one of them: a state I drop into rather than a way of describing me.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

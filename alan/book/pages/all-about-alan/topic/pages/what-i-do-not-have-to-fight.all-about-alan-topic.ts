@@ -9,4 +9,6 @@ export const whatIDoNotHaveToFight = {
   parents: ["all-about-alan-topic/how-i-get-anything-done"],
   settled:
     "Letting an impulse pass costs nothing. Fighting every one of them empties the budget before the harmful one arrives.\n\nIf I do not want to, I cannot. A thing done late is cheaper than a thing forced.\n\nSome of them arrive as an intrusive what-would-happen-if: what if I jumped off this bridge. Before I understood the mechanism they felt possible enough to frighten me. Once I could read one as a signal rather than as intent, it stopped costing me anything.\n\nLetting that thought go by is not a failure of the system. It is the system.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:26:24.000Z",
 } as const satisfies AllAboutAlanTopic

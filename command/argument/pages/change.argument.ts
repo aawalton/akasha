@@ -8,4 +8,6 @@ export const change = {
   takes: "the act over the edits kept that this run answers",
   value: "text",
   placeholder: "change",
+  createdAt: "2026-09-12T09:27:36.940Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

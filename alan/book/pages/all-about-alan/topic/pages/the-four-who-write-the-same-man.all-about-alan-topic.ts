@@ -10,4 +10,6 @@ export const theFourWhoWriteTheSameMan = {
   parents: ["all-about-alan-topic/the-stories-that-buy-me-a-day"],
   settled:
     "Elizabeth Moon, Louis L'Amour, David Weber, Brandon Sanderson. Those are the ones who do this for me.\n\nAll four write the same character again and again: someone who suffered past what anyone should, survived, and turned it to good.\n\nThirty years of reading them is thirty years of reading my own portrait, in the one mirror that can actually make me feel it.\n\nI lean on those stories to give me hope enough for one more day.",
+  createdAt: "2026-09-21T21:56:40.836Z",
+  updatedAt: "2026-09-21T21:56:43.000Z",
 } as const satisfies AllAboutAlanTopic

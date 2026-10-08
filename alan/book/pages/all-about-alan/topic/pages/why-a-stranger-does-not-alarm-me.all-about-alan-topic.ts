@@ -10,4 +10,6 @@ export const whyAStrangerDoesNotAlarmMe = {
   related: ["all-about-alan-topic/who-is-safe-to-be-around"],
   settled:
     "A complete stranger is someone I have no model of at all, so by my own rule they should read as maximally unsafe. They do not. Strangers rank second, above people I have had long good relationships with.\n\nWhat resolves it is the best-behaviour mask. Normal people run a default best-behaviour script on first contact, and that script is itself a model. Not of the individual but of the population. It tells me what a normal stranger will do in the next few minutes, which is the only horizon loaded. Most normal people will not hurt me on a first conversation.\n\nSo the mask buys predictability the individual model has not earned.\n\nIt is the default only for normal-presenting people. Visible signs of abnormality break the script, unhoused people being my example. The short-horizon prediction disappears and the alarm comes back up.",
+  createdAt: "2026-09-21T20:20:28.196Z",
+  updatedAt: "2026-09-21T20:20:36.000Z",
 } as const satisfies AllAboutAlanTopic

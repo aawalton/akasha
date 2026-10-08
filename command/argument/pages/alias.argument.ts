@@ -8,4 +8,6 @@ export const alias = {
   takes: "the alias slot to take, where the next free one is not wanted",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-12T09:20:01.740Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

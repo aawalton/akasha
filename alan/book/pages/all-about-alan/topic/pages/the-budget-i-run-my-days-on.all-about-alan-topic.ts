@@ -10,4 +10,6 @@ export const theBudgetIRunMyDaysOn = {
   related: ["all-about-alan-topic/sleep"],
   settled:
     "Surplus is my stoplight, sleep hours less capacity hours spent. Above zero my baseline safety rises over time, and below zero my baseline safety falls.\n\nSocial lands on the spending side of that subtraction, so my lever is not spending.\n\nThe cadence of social was chosen against the relationship bar. Without the social the relationship bar was trending down, which was doing damage of its own.\n\nI aim to spend under seven capacity hours of stress a day.\n\nTime with Jen is rated at difficulty three to five. My safety has been at two to three this week, so that time is running above the affordable line.\n\nFour to six was my normal not long ago, and getting back there is what I am after.\n\nI cannot hold myself to the seven without breaking the relationship, so I mostly keep the time even above the line. The seven is a direction I aim in rather than a limit I hold, and where I overshoot I work the other factors instead.",
+  createdAt: "2026-09-06T18:59:46.457Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whatPressureAndResistanceLookLike = {
   ],
   settled:
     "Pressure is the test, so I have to recognise it. An ownership change: acquisition, flotation, going private, a founder leaving, succession. Activist investors. Competitors disappearing. A recession, a supply shock, a regulatory change. A cycle where the economy rewards scale by extraction over scale by service.\n\nResisting one is evidence. Resisting several at once is strong evidence.\n\nWhat counts as resisting: holding price where rivals shrink the product or creep the fees. Paying workers above market while peers squeeze. Keeping quality when rivals swap in cheaper inputs. Keeping the return and support policies that favour the customer. Refusing to monetise customer data, attention or loyalty. Saying no to growth that would abandon the model.\n\nDecades without a pressure test prove nothing, and strong recent resistance without decades is suggestive and not yet sufficient.",
+  createdAt: "2026-09-21T21:46:41.077Z",
+  updatedAt: "2026-09-21T21:46:44.000Z",
 } as const satisfies AllAboutAlanTopic

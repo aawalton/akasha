@@ -13,4 +13,6 @@ export const whatALevelOfRecoveryCosts = {
   ],
   settled:
     "A level runs to something like a thousand hours of healing, so the climb is countable in hundreds of hours a rung.\n\nCost and willingness are settled. Healing is self-improvement, and I would pay ten thousand hours without a ledger.\n\nSo the fear is neither. It is whether I last long enough to spend what I would gladly spend.\n\nSlow to climb, fast to fall. Something dropped me from six or seven to the floor once.\n\nGuarding against outside drops is arithmetic, not nerves. I cannot out-climb a fall.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

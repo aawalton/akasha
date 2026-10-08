@@ -10,4 +10,6 @@ export const whatSexWithJenIsLike = {
   related: ["all-about-alan-topic/how-i-remember-anything"],
   settled:
     "Twenty years comes out of me as description rather than as a story. What I hold is the structure.\n\nWe did the wedding, then the honeymoon, then the reception, which is how I think it should always be done, and much better than the usual pattern.\n\nThe wedding night was the first time having sex for both of us. It was slow and awkward for both, as I expect most first times are, and we did it and enjoyed it.\n\nWe kept the lights off, and that has been the standard all the way through. It helps both of us with the sensory load, the same logic that runs everywhere else in how we live.\n\nAlmost all of our sexual interaction has been standard intercourse, roughly eighty percent with her on top and twenty percent with me on top.",
+  createdAt: "2026-09-21T20:14:39.991Z",
+  updatedAt: "2026-09-21T20:15:23.000Z",
 } as const satisfies AllAboutAlanTopic

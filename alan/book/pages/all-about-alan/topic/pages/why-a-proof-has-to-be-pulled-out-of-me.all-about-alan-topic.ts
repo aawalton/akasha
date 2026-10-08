@@ -13,4 +13,6 @@ export const whyAProofHasToBePulledOutOfMe = {
   ],
   settled:
     "For most people a reframe lands when it feels right, and the felt conviction stands in for having shown it. That route is shut to me, so the only way a reframe sinks in is a complete derivation I can check.\n\nA finished derivation handed to me whole still does not land. There is too much to take in at once, and no route from here is the finished argument to actually holding it.\n\nWhat works is building it myself, one step at a time, checking each step before the next goes down. It has to be pulled out of me rather than pushed into me.\n\nThat is doing beating watching again, applied to belief instead of behaviour. Being shown a proof is watching. Constructing it is doing.\n\nSo wanting the mechanism rather than the impression is not a taste of mine. An impression is exactly the kind of input my belief-forming system cannot use.",
+  createdAt: "2026-09-21T20:26:16.451Z",
+  updatedAt: "2026-09-21T20:26:25.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const theBodySignalsICanBarelyHear = {
   ],
   settled:
     "Every channel works. They run quiet and are easy to ignore.\n\nIt is a loudness problem rather than a broken one. The outside senses win the same attention, and sound alone lands five times louder on me.\n\nStrip the room bare and they come back, so a quiet room doubles as a way of hearing my own body.\n\nAttention pointed at a quiet signal raises it. Listening for loneliness made it louder.\n\nWhere a drive is missing outright I build a trigger to stand in for it, which is how I eat.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -9,4 +9,6 @@ export const howIKeepSoundDown = {
   parents: ["all-about-alan-topic/what-my-senses-cost-me"],
   settled:
     "The office is in the basement at the far corner of the house, below ground and as far from the common rooms as it can be. Two layers of quiet, designed rather than lucky.\n\nThe AirPods go in when I leave it for somewhere noisier. Full cancelling is the default, and I pull one earbud out when I need to hear.\n\nThe earbuds hurt after a while. The seal presses on the ear canal, the pressure builds the longer they are in, and lying on that side stacks head pressure on top. So the office carries the hours they cannot.\n\nWhen cancelling still leaves a costly residue I put the dark noise from the phone over the top. It masks rather than cancels, raising the floor evenly so the residue stops standing out. Sometimes, not by default.\n\nVolume is the main trigger. Pencils and chalk cost me whatever the volume, and cancelling helps least with exactly those. It takes out steady low sound far better than a sudden high scratch.\n\nMusic for pleasure comes through the office speakers, never the earbuds.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:42:57.000Z",
 } as const satisfies AllAboutAlanTopic

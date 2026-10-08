@@ -14,4 +14,6 @@ export const theFourShapesMyExecutiveTroubleTakes = {
   ],
   settled:
     "The eleven parts do not line up by severity. They fall into four shapes.\n\nCompensation hides the deficit. Working memory, planning, organising and watching myself are all badly impaired and all carried by practice so old it reads as a strength, from outside and half from inside too.\n\nA modulator gates it. Holding attention, starting, and keeping at a thing are not uniformly impaired. With interest on they can be exceptional. With it off they are severe.\n\nAphantasia rebuilds it. Time loses its ground and comes only through clocks. Feeling splits into a body layer at full force and a conscious layer with almost nothing in it, so my control looks total from outside and is brittle, because it is carrying more force than usual. Changing course turns into a strength, because nothing pulls me back toward the plan I left.\n\nBudget it. Do not pay the cost where I do not have to, so I can afford it where I must.",
+  createdAt: "2026-09-21T20:23:59.882Z",
+  updatedAt: "2026-09-21T20:25:16.000Z",
 } as const satisfies AllAboutAlanTopic

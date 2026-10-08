@@ -13,4 +13,6 @@ export const howAWantFires = {
   ],
   settled:
     "I do not author a want. I see something, a gap opens against what it should be, and the want is that pull.\n\nTwo things upstream shape it: what I believe, and what surrounds me. The only place I can act directly is on what I let myself see. Most of how I arrange my surroundings is that.\n\nInside the guardrails I do what I want; wanting nothing routes to rest.\n\nSome are given and fire as desire or irritation: hunger, loneliness, needless complexity. Others I wrote in.\n\nNearly all the written ones serve something else. Improving myself is the one I want for itself.\n\nWanting a thing and being able to do it are separate. The want can fire correctly, with the cue right where it should be, and the act still not happen because my state cannot pay for it. Belief and surroundings shape the want. What I have left decides whether it runs.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:17:01.000Z",
 } as const satisfies AllAboutAlanTopic

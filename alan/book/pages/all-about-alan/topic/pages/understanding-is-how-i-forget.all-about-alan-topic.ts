@@ -10,4 +10,6 @@ export const understandingIsHowIForget = {
   related: ["all-about-alan-topic/how-i-know-things"],
   settled:
     "Anomalies write high rather than low. An anomaly has explanatory value of its own, because the memory of it is the only explanation for the anomaly until my models expand to cover it. Compressing anomalies drives the improvements in my models.\n\nAn unexplained real datum is its own placeholder. It carries a debt, and it writes high exactly because the debt is unpaid.\n\nOnce the model grows to explain it, the standalone memory is no longer the only explanation. Its value collapses, it stops clearing the threshold, and it fades. The memories that stay sharp are the open puzzles, and solving one is what lets it dissolve.\n\nThe fade is not always total. A solved anomaly can persist as part of the explanation for how the model itself was formed, a footnote on why the structure bends where it does.\n\nAn inconsistent hash draws my attention as a flaw and I worry at it, trying to see why it does not fit.",
+  createdAt: "2026-09-21T21:37:21.044Z",
+  updatedAt: "2026-09-21T21:37:24.000Z",
 } as const satisfies AllAboutAlanTopic

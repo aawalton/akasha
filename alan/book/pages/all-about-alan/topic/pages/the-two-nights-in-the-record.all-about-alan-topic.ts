@@ -13,4 +13,6 @@ export const theTwoNightsInTheRecord = {
   ],
   settled:
     'These figures were read out of my session tracking rather than recalled, so they are a reading of the record rather than something I said.\n\nThe Alan-focused night, Sunday 2 August 2026: blocks from 12:40 to 19:29, difficulty rising to 4.5 mid-afternoon, safety at 4 falling to 3 and going no further.\n\nThe Jen-focused night, Tuesday 4 August 2026: 13:03 to 17:30, difficulty 4, the Nuropod on throughout, safety holding at 4.\n\nI confirmed the second one off the data: "Haha, yep, that was the Jen-focused date night, visible in the data"\n\nI called the delay before the record was opened: "Check my progression over the following 24 hours, some of the cost was delayed."',
+  createdAt: "2026-09-21T22:05:12.936Z",
+  updatedAt: "2026-09-21T22:05:15.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -9,4 +9,6 @@ export const whereHerSayEnds = {
   parents: ["all-about-alan-topic/living-with-jen"],
   settled:
     "We both agree the line exists and neither of us has drawn it. My reading of it is too narrow and hers too broad.\n\nI tend to scope my circle of concern too narrow, not counting things as affecting me that really should. Jen scopes too broad, counting things as affecting her that she recognises should not. I have had a hard time finding the balance in between.\n\nMy misses share a signature. They are things I assume only affect me but that are in her circle of concern, mostly because I am in her circle of concern. Concern is transitive, one hop.\n\nThe obvious fix, treat anything affecting me as affecting her, is exactly what we both reject. That is precisely the conflict. We both agree there should be a category of personal choices that only affect me and should not be in her circle of concern, and we do not have clear lines on what is inside or outside it.\n\nWhich choices are already agreed-settled on either side of the line is where I left it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:53:46.000Z",
 } as const satisfies AllAboutAlanTopic

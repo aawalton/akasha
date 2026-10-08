@@ -15,4 +15,6 @@ export const whatAPersonaMakesCheaper = {
   ],
   settled:
     "There is no judge in the room to brace against, which is the account I have given for it.\n\nThey are the ramp I expand along, so the discount is what makes the next rung affordable.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

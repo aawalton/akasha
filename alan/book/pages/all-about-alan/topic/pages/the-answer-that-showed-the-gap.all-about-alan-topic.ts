@@ -9,4 +9,6 @@ export const theAnswerThatShowedTheGap = {
   parents: ["all-about-alan-topic/working-out-how-she-thinks"],
   settled:
     "Asked how Jen would take being told I had built a model of her psychology, I said: maybe well? I cannot really simulate that.\n\nIt is worth keeping because it is the missing faculty firing on the question itself rather than a report about it. Asked for a prediction about a person, I gave a guess and then named the reason it could be no better than a guess.",
+  createdAt: "2026-09-21T22:08:03.897Z",
+  updatedAt: "2026-09-21T22:08:06.000Z",
 } as const satisfies AllAboutAlanTopic

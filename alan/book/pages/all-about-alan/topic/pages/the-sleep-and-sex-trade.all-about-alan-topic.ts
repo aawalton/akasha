@@ -10,4 +10,6 @@ export const theSleepAndSexTrade = {
   related: ["all-about-alan-topic/sleep", "all-about-alan-topic/living-with-jen"],
   settled:
     "Sleep is a critical bottleneck for my stress recovery, my executive function, my physical energy and my safety level. It is the closest thing to a panacea I have found in anything, and it is consistently challenging for me.\n\nMoving out of the shared bedroom bought me that sleep and closed most of the windows where sex gets started. Our frequency fell to about once every three months, down from the monthly pacing that had held for most of the marriage. The contract keys on Jen initiating, and the move removed most of the occasions where she could.\n\nThe bind is that one move does both. The sleep funds the safety that would make connection affordable, and the same move took away the chance to have it. The lever that should re-open the channel is mechanically the one that closed it.",
+  createdAt: "2026-09-21T20:01:53.870Z",
+  updatedAt: "2026-09-21T20:26:21.000Z",
 } as const satisfies AllAboutAlanTopic

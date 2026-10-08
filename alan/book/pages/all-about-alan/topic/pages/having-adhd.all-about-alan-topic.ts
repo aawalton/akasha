@@ -13,4 +13,6 @@ export const havingAdhd = {
   ],
   settled:
     "It is how I am built rather than something wrong with me, and I would not take a pill against it.\n\nIt has the same shape as autism: real advantages and real costs together, superpowers and kryptonite.\n\nThe heart of it is executive function, and I get a double dose because autism brings its own. The rest of the kryptonite radiates out from there.\n\nIts social face is milder than autism's, and it has real treatments where autism has almost none.\n\nMilder socially is not milder. Left unmanaged it is sharply disabling for the one who has it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T19:57:56.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whySomeoneElsesDistressAlarmsMe = {
   ],
   settled:
     "Her distress fires mine at once, and it is not her feeling arriving in me.\n\nIt is a forecast about my own next minutes: this cue has come before my own pain often enough.\n\nSo I go still and regulate rather than move toward her, which is not what she needs.\n\nIt carries nothing about her. No why, no cause, no what would help.\n\nCalm months lower what I expect from her and leave the reflex at her cues untouched.\n\nThat I read as high on empathy while reaching almost none of my own feeling is no contradiction. The dark is in recall and pre-play. What my nervous system does in the moment someone near me feels something is untouched, and running sensitive and not habituating make it larger rather than smaller.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:01:37.000Z",
 } as const satisfies AllAboutAlanTopic

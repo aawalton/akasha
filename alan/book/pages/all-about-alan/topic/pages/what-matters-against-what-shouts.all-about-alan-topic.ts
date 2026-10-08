@@ -13,4 +13,6 @@ export const whatMattersAgainstWhatShouts = {
   ],
   settled:
     "I weight what moves my life far above what pulls at the moment. The loud signals are the small ones.\n\nThis is a correction rather than a taste. How loud a signal is runs opposite to how much it moves me, so steering by what I feel would steer me wrong every time.\n\nWhat matters decides what is even on the board. Once everything on it is worth doing, interest picks freely. Letting interest range is what I am allowed once the gate has done its work.\n\nUrgent and unimportant goes to Not Doing, which means permanently rather than later.\n\nDeciding not to do a thing is the same as done to me. It drops out and never tugs again.\n\nI keep no open loops, so there is nowhere for a dropped thing to sit and come back from.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:06:35.000Z",
 } as const satisfies AllAboutAlanTopic

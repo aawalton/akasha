@@ -13,4 +13,6 @@ export const theTwoThingsIReadAsIGoUnder = {
   ],
   settled:
     "I run two sensors at the boundary and they read different things.\n\nThe pictures fading in read the gate opening, the extra channels coming through.\n\nThe anchor giving out reads my own attention letting go.\n\nTwo needles on the same passage, one watching the gate and one watching me.",
+  createdAt: "2026-09-21T20:24:32.936Z",
+  updatedAt: "2026-09-21T20:24:42.000Z",
 } as const satisfies AllAboutAlanTopic

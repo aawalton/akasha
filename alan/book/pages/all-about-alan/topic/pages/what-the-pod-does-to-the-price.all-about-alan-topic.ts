@@ -10,4 +10,6 @@ export const whatThePodDoesToThePrice = {
   related: ["all-about-alan-topic/the-low-feeling-that-costs-me-a-level"],
   settled:
     'The Nuropod acts as an artificial boost of one and a half levels for cost-multiplier purposes, and I have started wearing it in social settings.\n\nThe boost is priced in levels, the same units as everything else on the scale. It is scoped to the cost multiplier, which is narrower than my level itself rising and narrower than the go or no-go my gate makes above the line. And it is artificial: the boost is the device\'s rather than a level I funded.\n\nThat is a second and separate function from the one it already carried, where an hour in it pays down three stress-capacity hours.\n\nAcross the two date nights the wearing was not designed. It went on partway through the hard one, after the difficulty had peaked, and it was on throughout hers. In my words: "Not a planned break for Nuropod, but I sure needed it." And: "I have been using Nuropod more for social events, so that\'s not deliberate, but it was natural."',
+  createdAt: "2026-08-28T09:52:18.281Z",
+  updatedAt: "2026-09-21T22:05:36.000Z",
 } as const satisfies AllAboutAlanTopic

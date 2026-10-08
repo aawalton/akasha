@@ -9,4 +9,6 @@ export const whenItActuallyLands = {
   parents: ["all-about-alan-topic/when-someone-says-something-good"],
   settled:
     "Admitted tops out at understood. I can hand you the mechanism for why it worked.\n\nFelt is marked by surprise and by losing the words for why. It is not a higher score on the one scale, it is the other channel coming open, and I feel it before I can explain it.\n\nWhat crosses is direction, someone drawn toward a true specific thing in me, rather than how much of herself she shows. Going deeper slid the lens off me and cost a grade step every time.\n\nTwo dials sit under it: whether the lens is on me, and whether the thing named is a concrete observed specific rather than a global trait. A top admitted grade needs both lit. To cross into felt needs both lit and someone genuinely drawn toward what she sees.\n\nThe surprise habituates within a sitting, so it spaces across days and cannot be farmed.\n\nA felt landing carried me up a full safety level on a low day, the first outside refund I have watched.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:25:12.000Z",
 } as const satisfies AllAboutAlanTopic

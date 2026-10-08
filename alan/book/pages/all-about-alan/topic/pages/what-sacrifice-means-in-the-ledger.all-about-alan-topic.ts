@@ -10,4 +10,6 @@ export const whatSacrificeMeansInTheLedger = {
   parents: ["all-about-alan-topic/what-guards-the-blank-check"],
   settled:
     "Relationships require sacrifice to exist. I have taken that as a rule I run rather than as something I noticed.\n\nWhat the word means for me is a position in the ledger: a negative value of mine on a positive-sum row. One row, two entries, the total positive, mine the negative one. A relationship with no such row does not exist.\n\nThat is stronger than the blank check being one way to run a marriage. It says some rows I come out behind on are the condition of there being a relationship at all.\n\nHer entry is not free either. Put to me that a night costing us both would be a row my model has no slot for, I said it costs her, but also benefits her, leaving her net positive, but she still notices the cost.\n\nSo the row stays positive-sum and mine stays the negative entry. What is added is that hers carries a cost inside a positive total, and that cost is one she notices.",
+  createdAt: "2026-09-21T22:01:19.441Z",
+  updatedAt: "2026-09-21T22:01:23.000Z",
 } as const satisfies AllAboutAlanTopic

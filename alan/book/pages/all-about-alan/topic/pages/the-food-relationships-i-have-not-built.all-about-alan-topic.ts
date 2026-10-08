@@ -13,4 +13,6 @@ export const theFoodRelationshipsIHaveNotBuilt = {
   ],
   settled:
     "What would replace the Smiths and Walmart share is a set of direct or local relationships, the same shape as the local people I already rely on.\n\nAzure Standard for bulk dry goods. A local CSA for produce. A neighbour for eggs and dairy. A share of meat straight from a rancher.\n\nEach is a candidate for a B, and each would reduce the grocery-chain fraction without touching the Costco anchor.\n\nNone of them exists yet. Cultivating a relationship takes bandwidth, so this waits on the same recovery the Walmart exit waits on.",
+  createdAt: "2026-09-21T20:09:20.688Z",
+  updatedAt: "2026-09-21T20:09:24.000Z",
 } as const satisfies AllAboutAlanTopic

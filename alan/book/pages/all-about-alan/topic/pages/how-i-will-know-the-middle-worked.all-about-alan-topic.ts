@@ -13,4 +13,6 @@ export const howIWillKnowTheMiddleWorked = {
   ],
   settled:
     "The share of hard evenings came down in September rather than climbing past half. I read that as the middle working, and I hope it gets better.\n\nWhat would tell me the middle is not working is twelve months without my average safety level rising.\n\nTwelve months is the right length to wait, even though my safety is what pays for the wait.",
+  createdAt: "2026-09-06T20:59:20.376Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

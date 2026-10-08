@@ -10,4 +10,6 @@ export const whyATrueModelIsSmaller = {
   related: ["all-about-alan-topic/what-i-think-truth-is"],
   settled:
     "Truth is more compressed than falsehood in conceptual space. The same observations organised rightly take a smaller, cleaner representation than the same observations organised wrongly.\n\nFalsehood costs structure. Extra clauses, special cases, exceptions bolted on to keep the model alive.\n\nFor me truth and compression are the same thing. For a model to be true it has to be a net compression of my conceptual map, counting both the model itself and the data it can explain.\n\nI do not pay for a model with its own size. I pay for it with everything it lets me stop storing separately. A model earns its keep by deleting more than it adds.\n\nSo elegant just means nets out as a compression, and ugly means a model that costs more than it saves. A model that is true but costs more than it pays back does not light up either.",
+  createdAt: "2026-09-21T20:27:20.095Z",
+  updatedAt: "2026-09-21T20:27:23.000Z",
 } as const satisfies AllAboutAlanTopic

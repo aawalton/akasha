@@ -10,4 +10,6 @@ export const howWeHavePacedIt = {
   related: ["all-about-alan-topic/how-horniness-reaches-me"],
   settled:
     "For the first four years or so, when we were not ready for children, we did outercourse instead. After that we adopted condoms, and that has been our only method of birth control ever since. We had unprotected sex only when we wanted to have children. We have three.\n\nAt the very beginning it was about once a week. After the children were born it dropped to about once a month, and monthly has been the most common pacing throughout, though irregular, as everything is for both of us.\n\nJen has trouble if she does not get intimacy around once a month. That is her natural pacing, and it is usually aligned with her cycle. I have no clock of my own to set against it.",
+  createdAt: "2026-09-21T20:15:48.357Z",
+  updatedAt: "2026-09-21T20:15:52.000Z",
 } as const satisfies AllAboutAlanTopic

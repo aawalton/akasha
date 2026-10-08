@@ -13,4 +13,6 @@ export const theCutBetweenWhatIKeptAndWhatILost = {
   ],
   settled:
     "The cut runs the same way every time. What I killed or came to hate was expressive and judged by others: art, essays, singing alone, friendship.\n\nWhat I kept and loved I could check my way to perfect, or nobody was grading it: linear algebra, code, choir, dance.\n\nMiddle-school art class criticised my submissions and I learned not to do art. It shifted form rather than dying: quilts, code, ideas.\n\nI never got an A on a college essay that I can recall. My GRE was perfect except five and a half out of six on the essay. I learned to hate writing and did it only when I had to.\n\nMusic taught me an error rate of about one percent that practice cannot drive to zero, so I kept to choirs and learned not to sing alone.\n\nLinear algebra was my favourite course, and I built self-checks until it came out right every time. Dance survived an imperfect grade because nobody there was in it for the grade.\n\nIt did not take my capacity for joy. It took every acre of it that could not be made safe.",
+  createdAt: "2026-09-21T20:24:24.441Z",
+  updatedAt: "2026-09-21T23:05:42.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const theFourTiersAToolCanSitIn = {
   related: ["all-about-alan-topic/how-much-attention-i-have"],
   settled:
     "Best is a tool that senses the load and adjusts itself, so nothing is asked of me. Photochromic lenses, a climate system on auto.\n\nNext is one I adjust continuously by hand, a dimmer or a volume knob. It costs a little attention to notice the load and turn it, and the match can be exact.\n\nBelow that is on or off. A light switch, a mute button. The dose can never fit the load, so I over-correct or under-correct, and every room is a small decision about whether it is bright enough to bother.\n\nWorst is no tool, where my body takes the whole load. The squinting and flinching is the visible part. The cost is the capacity going out underneath.\n\nThe adjustable tool looks dearer than the switch because it asks more of me. Counting the capacity the unmanaged load leaks, it is cheaper.\n\nLayers are adjustable, one at a time. Heat is the domain where automatic clearly wins, because a thermostat does it better than I can.",
+  createdAt: "2026-09-21T21:41:05.644Z",
+  updatedAt: "2026-09-21T21:42:57.000Z",
 } as const satisfies AllAboutAlanTopic

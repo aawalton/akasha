@@ -14,4 +14,6 @@ export const whatTheHarnessHoldsForMe = {
   ],
   settled:
     "Four things. State, in workflows, notes, projects, lists and calendars, because what other people carry implicitly I have to carry explicitly. Valuation, in principles, rules and ranked priorities, because what others feel as wanting I handle by scoring against the rules. Sequences, in written step lists and checklists, because a sequence of mine never goes automatic and putting it outside me is the only answer. And what I should be doing at all, because I cannot feel that out.\n\nThe task half is a set of streams in software. Tasks. Temper Tasks, for the game. Calendar. Email. Text messages. And the collections I rotate through: music, books, shows, courses, and my progress in the game.\n\nThose are most of the ones that have mattered. Every one is something pushed out of my head and into a system, and the system is where the state lives.",
+  createdAt: "2026-09-21T21:50:40.001Z",
+  updatedAt: "2026-09-21T21:50:43.000Z",
 } as const satisfies AllAboutAlanTopic

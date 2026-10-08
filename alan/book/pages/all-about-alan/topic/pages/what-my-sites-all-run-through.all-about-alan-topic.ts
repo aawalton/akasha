@@ -10,4 +10,6 @@ export const whatMySitesAllRunThrough = {
   related: ["all-about-alan-topic/putting-two-things-with-one-company"],
   settled:
     "Cloudflare does four jobs for me at once. It registers alanwalton.com, tempereso.com and audhdalan.com. It answers for their DNS. It carries public traffic in through a tunnel. It proves the domains are mine so my certificates can be issued.\n\nIt grades B. Its leadership has been inconsistent under pressure, firm in some charged moments and folded in others, so where it goes long term is not clear to me. It is better than its peers at delivering value rather than extracting it, which is what keeps it off C.\n\nLet's Encrypt issues every certificate I serve, and also grades B. It is a long-steady nonprofit with a plain public mission and nothing bad on its record.\n\nWhat keeps it off an A is not the organisation. It is the wider system of certificate authorities it lives inside, which can be captured in ways no single one of them can defend against.",
+  createdAt: "2026-09-21T20:19:05.922Z",
+  updatedAt: "2026-09-21T20:19:09.000Z",
 } as const satisfies AllAboutAlanTopic

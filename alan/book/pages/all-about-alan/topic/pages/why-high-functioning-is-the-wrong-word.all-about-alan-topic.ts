@@ -14,4 +14,6 @@ export const whyHighFunctioningIsTheWrongWord = {
   ],
   settled:
     "One scale is the wrong shape for me. There is no single point between high and low that I sit at.\n\nSome of it has very high ceilings: thinking in conceptual systems, twelve-hour days of focused attention on something I am interested in, perfect scores in linear algebra.\n\nOther parts have floors near zero: working memory at about half of normal, company that has to be accounted for by the minute, and a burnout that took my nervous system down to one percent.\n\nHigh-functioning actively misleads. It reads off the ceilings anyone can see and denies the floors that are doing the actual disabling.",
+  createdAt: "2026-09-21T20:02:39.537Z",
+  updatedAt: "2026-09-21T20:02:50.000Z",
 } as const satisfies AllAboutAlanTopic

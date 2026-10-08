@@ -14,4 +14,6 @@ export const trustingAPersonNotAnInstitution = {
   ],
   settled:
     "The local ones I rely on are individual people: my doctor, the children's dentist, the garage.\n\nAn institution holds the standard when its people change. A person carries it himself and takes it with him.\n\nMy doctor grades B inside a clinic that grades C. The children's dentist grades B inside a practice that grades C. Both times the good grade is the person.\n\nSo the institution's grade is what I am left on if the person retires, leaves, or changes. It is where I land rather than a footnote, and I have no second relationship anywhere to land on instead.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:22:58.000Z",
 } as const satisfies AllAboutAlanTopic

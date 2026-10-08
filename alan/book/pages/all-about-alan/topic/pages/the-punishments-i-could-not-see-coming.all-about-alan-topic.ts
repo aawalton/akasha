@@ -13,4 +13,6 @@ export const thePunishmentsICouldNotSeeComing = {
   ],
   settled:
     "My first A minus, in middle school, had me crying for days and low for weeks. My parents kept saying grades do not matter, and I took that in over time, but every mark short of perfect stayed painful.\n\nOn a three-month trip my family stayed a month with friends who had a farm, and they paid me to weigh squash. I did it quickly and accurately and nicked almost every squash, dropping their value by hundreds of dollars. I did my very best and it was not enough.\n\nAt my first real job I nearly got fired inside the first year, put on official verbal probation because my boss thought I was not doing enough. Weeks later the year-end leaderboards across a three-hundred-person division put me first on three of ten dimensions and top five on two more. He took me off probation, and the next raise put me in the highest bracket.\n\nThe punishment and the evidence pointed opposite ways, which is exactly what teaches that the schedule cannot be read.",
+  createdAt: "2026-09-21T20:24:45.399Z",
+  updatedAt: "2026-09-21T20:25:06.000Z",
 } as const satisfies AllAboutAlanTopic

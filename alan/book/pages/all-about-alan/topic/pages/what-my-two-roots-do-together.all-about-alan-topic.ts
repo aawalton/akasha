@@ -14,4 +14,6 @@ export const whatMyTwoRootsDoTogether = {
   ],
   settled:
     "Running sensitive sets a high price on every input. On the same dial it makes me learn fast, because how hard a thing encodes goes with how hard my nervous system fired while it went in.\n\nNot habituating means that price never amortises. The tenth exposure costs about what the first one did.\n\nSo every input is expensive and stays expensive. Learning fast, overwhelming easily, a high ceiling and no plateau all fall out of that one pairing rather than out of four separate traits.",
+  createdAt: "2026-09-21T20:00:31.556Z",
+  updatedAt: "2026-09-21T20:00:40.000Z",
 } as const satisfies AllAboutAlanTopic

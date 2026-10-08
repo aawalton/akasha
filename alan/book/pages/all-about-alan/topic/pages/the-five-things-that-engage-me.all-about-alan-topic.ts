@@ -13,4 +13,6 @@ export const theFiveThingsThatEngageMe = {
   ],
   settled:
     "The clinical list is interest, novelty, challenge, urgency and passion. Interest is the umbrella the other four sit under.\n\nNovelty and urgency are instinctive in me. Challenge is conceptual: a judgment that a thing is worth my attention rather than anything felt.\n\nPassion assumes a steady felt pull that I do not have, so in me it comes apart into three.\n\nImportance is conceptual and shaped like an obligation: I need to do this. Valuable is conceptual and internal: this matters to me.\n\nInvestment is neither of those. It is a multiplier on cost, written by meeting a thing over and over while I was safe.\n\nWhen I say something is meaningful I am not naming a feeling. It is a readout of which of the five are firing and how hard, so the question decomposes. At college it was challenge doing the work.\n\nThat is the kind of signal a mind this short of affect can pick up at all. It is closer to a status light than to a feeling.",
+  createdAt: "2026-09-21T20:21:16.886Z",
+  updatedAt: "2026-09-21T20:21:20.000Z",
 } as const satisfies AllAboutAlanTopic

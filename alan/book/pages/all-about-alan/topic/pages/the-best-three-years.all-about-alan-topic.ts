@@ -14,4 +14,6 @@ export const theBestThreeYears = {
   ],
   settled:
     "What made them best was that everything was chosen, difficulty included, rather than anything achieved. Just wanting, desire, ambition.\n\nSixteen to eighteen credits, dance classes at one credit each and far more time than that, a job, and an hour on foot each way once or twice a day.\n\nI do not remember much of those days. I had a planner. I tracked what was due and what was scheduled. That planner is the earliest seed of the harness, years before anything gave the instinct a name.\n\nTalking to strangers was effortful and affordable. High capacity and high safety kept the multiplier low, so I never ran out.\n\nI asked ten new people a day for the hardest course they had taken, triangulated, and took all of them. One answer is coloured by who gave it. Across many strangers that washes out, and what is left is the courses that are hard in themselves.\n\nA's in the hard courses and B's in the easy ones, because the hard ones handed me attention for free.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:43:03.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const theCrowdThatHasBeenMe = {
   ],
   settled:
     "Both directions read the same: about half a billion selves each way, sharing one body, meeting at a window seconds wide.\n\nForward that count is the wall against acting. Backward it carries a feeling.\n\nGrief for the ones who suffered and are gone, gratitude to the ones who kept going so this one is here. I owe my being here to strangers who spent themselves getting the body this far, none around to be thanked.\n\nThe past normally reaches me as facts on file, the feeling stripped out. That time it did not.\n\nThe gratitude was lit by contrast rather than recall. A session had just gone through the darkest points of my life, and the distance laid out that starkly made it vivid all at once. I cannot re-feel what they went through. I can see where they were against where this one is.\n\nThe grief came another way, handed back in a reflection: what I feel for them is what is felt for the dead.\n\nThey sit on separate scales, both endless. Equal is the least wrong reading, and they never net.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:51:33.000Z",
 } as const satisfies AllAboutAlanTopic

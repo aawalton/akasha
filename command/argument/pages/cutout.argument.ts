@@ -7,4 +7,6 @@ export const cutout = {
   said: "--cutout",
   takes: "also write the foreground on transparency",
   value: "none",
+  createdAt: "2026-09-12T09:57:10.821Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

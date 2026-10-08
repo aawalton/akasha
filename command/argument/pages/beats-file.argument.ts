@@ -8,4 +8,6 @@ export const beatsFile = {
   takes: "the file a turn's beats are read from, one beat to a line",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-26T17:36:45.584Z",
+  updatedAt: "2026-09-26T17:36:57.000Z",
 } as const satisfies Argument

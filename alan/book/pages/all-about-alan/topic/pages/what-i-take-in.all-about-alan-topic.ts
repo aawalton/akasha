@@ -13,4 +13,6 @@ export const whatITakeIn = {
   ],
   settled:
     "I read authors rather than books. A whole body of work is a whole worldview, and I merge it into my one model wherever I judge it true.\n\nI get one merge rather than a shelf, so a fragment would fold in a fragment. The whole body of work is what I want in front of me.\n\nI am working through the entire Great Courses library, about three thousand hours of ten thousand done.\n\nBreadth is a defence rather than a taste. Data from outside a theory is what forces its patches into the open.\n\nThe two halves do different jobs. An author taken whole hands me a complete model to test for tightness. Sweeping across every field supplies the outside data that test has to run over. Without the first I would be judging fragments, and without the second a narrow model keeps reading as true.\n\nIt began as loving to read, homeschooled in fourth grade, long before anything rested on it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:28:10.000Z",
 } as const satisfies AllAboutAlanTopic

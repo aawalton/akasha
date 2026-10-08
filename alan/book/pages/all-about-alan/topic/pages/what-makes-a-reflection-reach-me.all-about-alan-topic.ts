@@ -10,4 +10,6 @@ export const whatMakesAReflectionReachMe = {
   related: ["all-about-alan-topic/self-improvement", "all-about-alan-topic/what-i-value-in-order"],
   settled:
     "It has to be true and surprising, aimed inward: something true about me I did not already know. True and known only confirms, and surprising and false slides off.\n\nFor most people that is a fact to shelve. For me the self is the map, so a true thing I did not know about myself is the self changing as it lands. It does not inform me, it improves me, right there.\n\nReflecting alone is not enough. It has to help the part of my life it is hung on actually run better, and the bar is help enough to leave a footprint rather than help enough to carry it.\n\nThe footprint is needed because my inner gauge runs dark. I cannot feel what a meeting was worth, so I read its worth off what it left behind.\n\nOne that truly deepens my understanding of an area cannot fail to move it, because understanding a thing fully already is the doing. Where the area is untouched, either the understanding did not deepen or what it asked for is still being built.",
+  createdAt: "2026-09-21T20:09:08.053Z",
+  updatedAt: "2026-09-21T20:09:12.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whatIDoInBedUntilIAmTired = {
   ],
   settled:
     "Two things run together once I am in bed, and they run until I am tired enough to sleep.\n\nI read, off a backlit screen, in dark mode, at the lowest brightness it has. That is the opposite of the standard advice about screens, and it fits everything else I know about my own onset: the room does not move it, my resource state does.\n\nThe brightness follows the time of day the same way everywhere, in bed and out of it.\n\nAnd the breathing carries on, four in and twelve out, as it has all day. In bed is one of the places it stacks, because nothing there needs my mouth. There is no talking in bed.",
+  createdAt: "2026-09-21T20:22:01.733Z",
+  updatedAt: "2026-09-21T20:22:36.000Z",
 } as const satisfies AllAboutAlanTopic

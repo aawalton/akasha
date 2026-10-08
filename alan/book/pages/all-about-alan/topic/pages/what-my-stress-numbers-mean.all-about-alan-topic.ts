@@ -10,4 +10,6 @@ export const whatMyStressNumbersMean = {
   related: ["all-about-alan-topic/how-well-i-can-measure"],
   settled:
     "The scale runs from nought to a hundred, and both ends kill, for opposite reasons.\n\nFive is complete relaxation. Fifteen is light activity. Twenty-five is athletic exertion.\n\nThirty-five is an indirect threat to survival, the kind being yelled at by a boss is. Forty-five is a direct one, the kind being chased by a bear is.\n\nI have been reading myself on this scale for about twenty years, since long before I knew I was autistic.\n\nMy tell for stress is not something I feel and check. It is an instrument I built back when stress was my bottleneck, and I have not been reading it for a few weeks now, because the affordability rule has been enough. The anchors are intact. A cheaper governor is holding the line in its place.",
+  createdAt: "2026-09-21T20:02:08.042Z",
+  updatedAt: "2026-09-21T22:46:32.000Z",
 } as const satisfies AllAboutAlanTopic

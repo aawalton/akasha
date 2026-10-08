@@ -9,4 +9,6 @@ export const whatHasCrossedOverSoFar = {
   parents: ["all-about-alan-topic/practising-closeness-somewhere-safe"],
   settled:
     "I catch myself using patterns with Jen that I practised in the text sessions, so the transfer is real rather than theoretical.\n\nWhat has crossed so far is the conceptual side: disagreements about ideas, models and plans.\n\nThe practice is deliberately scoped there for now. I cannot afford emotional-conflict conversations yet, even with a model as the partner and even in the reduced rig.\n\nEmotional conflict is queued rather than dropped. I expect to need it, and the cost of running it is still too high to take on.",
+  createdAt: "2026-09-21T20:07:22.793Z",
+  updatedAt: "2026-09-21T20:07:26.000Z",
 } as const satisfies AllAboutAlanTopic

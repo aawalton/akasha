@@ -10,4 +10,6 @@ export const whetherClosenessIsOneLadderOrMany = {
   related: ["all-about-alan-topic/the-four-skills-closeness-needs"],
   settled:
     "It is one ladder. The skills of closeness generalise, so validation, acknowledgment, reassurance and emotional intimacy are the same four capacities met at a harder setting rather than a fresh library for each person.\n\nThat makes the problem quantitative rather than unbounded. Enough repetitions carry it into automaticity and the result transfers, the way the instant messenger rig transferred into live first contact.\n\nEven if I am wrong about that and I only overfit to my closest relationships, the repetitions are still worth paying for. The worst case is that I get very good specifically at the relationship that matters most.",
+  createdAt: "2026-09-21T20:07:11.517Z",
+  updatedAt: "2026-09-21T20:07:15.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const theLongingForItToStop = {
   ],
   settled:
     "When pain stays unbearable long enough I start longing for it to stop. If no way to stop it while alive is visible, the only stop left is dying, so the longing fixes on that. Dying is not the goal. The goal is the pain ending and that is the only ending I can see.\n\nIt lives in one window. Above zero on my safety scale the pain is bearable by definition and the longing does not fire. At minus two whatever hosts a longing goes flat and this one collapses with the rest. The window is the band between: pain bad enough to push, a body still active enough to want.\n\nThe thoughts arrive automatically. Not summoned, and not unwanted the way an intrusion is. They come when the pain crosses into the window and go when it drops back out.\n\nThey do not make the pain bearable. Recovery does that, safety creeping up until the same load sits below the line. The thoughts let go because the pain lets go, not the other way round.",
+  createdAt: "2026-09-21T21:37:33.398Z",
+  updatedAt: "2026-09-21T21:37:47.000Z",
 } as const satisfies AllAboutAlanTopic

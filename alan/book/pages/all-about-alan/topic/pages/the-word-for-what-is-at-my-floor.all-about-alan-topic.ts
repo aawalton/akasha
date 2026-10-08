@@ -10,4 +10,6 @@ export const theWordForWhatIsAtMyFloor = {
   related: ["all-about-alan-topic/self-improvement"],
   settled:
     "I went looking for a single word for it and came back to the one I started with.\n\nThe closest word anyone already has is prohairesis, the faculty of choice that is free and my own. It falls a hair short, because it does not carry becoming better.\n\nBetter was a comparative the whole time, so self-improvement never had a destination baked into it. That is why it fits a core with no arrival.\n\nThe freedom was never a second root to bolt on. It is already in the self-, which means by my own accord.\n\nAutomeliorist is the technical version I keep, for when someone needs to hear the whole architecture rather than the self-help-aisle version. I set autobeltiosis aside for the English echo of belt.",
+  createdAt: "2026-09-21T20:01:06.448Z",
+  updatedAt: "2026-09-21T20:01:10.000Z",
 } as const satisfies AllAboutAlanTopic

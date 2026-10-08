@@ -14,4 +14,6 @@ export const actRulesAndResultRules = {
   ],
   settled:
     "My rules sort into two types by what they test.\n\nAct rules test the act itself: if I cannot afford to, or do not want to, I am not allowed to. The cost is paid at the start, so reading affordability at the act is enough. The affordability rule, the wanting veto and the self-harm guard are this type.\n\nResult rules test what comes back: if I cannot afford criticism, or rejection. The cost arrives after the act, in the response. The connection rule and the sharing rule are this type.\n\nResult rules exist for actions whose cost is deferred. Sharing and connecting are cheap to start and the bill arrives later, so a gate at the act hands me a false green light and only a rule on the result catches the real cost.\n\nThat leaves no gap around the creativity scar. Making alone rides the act rules. Sharing rides the sharing rule. Connection has the same deferred shape, which is why it earned its own result rule.",
+  createdAt: "2026-09-21T22:01:25.533Z",
+  updatedAt: "2026-09-21T22:01:42.000Z",
 } as const satisfies AllAboutAlanTopic

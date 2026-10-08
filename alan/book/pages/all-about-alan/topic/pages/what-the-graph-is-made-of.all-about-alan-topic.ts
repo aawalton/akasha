@@ -9,4 +9,6 @@ export const whatTheGraphIsMadeOf = {
   parents: ["all-about-alan-topic/the-graph-i-built-to-run-my-checks"],
   settled:
     "It is a whole system now, which is why I call it the graph system: nodes, edges, attributes, producers, queries.\n\nParts of it are derived from pages, parts from the filesystem, parts from code, and parts from other places.",
+  createdAt: "2026-08-28T09:52:18.277Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

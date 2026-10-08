@@ -13,4 +13,6 @@ export const whyPeopleThinkMyMemoryIsGood = {
   ],
   settled:
     "Typical working memory holds about five chunks, give or take two. Mine holds one to three, so roughly half of normal.\n\nPeople often think my memory is excellent. What they are seeing is recognition rather than recall. Given a reference I recognise it and pull a wide net of associated context along with it.\n\nMemory and recall get treated as one thing, so the strong half covers for the weak half and the gap never shows from outside.",
+  createdAt: "2026-09-21T20:25:24.114Z",
+  updatedAt: "2026-09-21T20:25:27.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const whyKnowingMeCostsJenDouble = {
   ],
   settled:
     "How expensive an update runs depends on how hard the knower's model resists revision. Low inertia seeks change and generates updates fast. High inertia integrates them slowly and dearly.\n\nThe worst pairing is a change-seeker with a change-resister, because the most updates land on the knower least able to take them, and they peak when I am changing fastest. That is the shape between me and Jen.\n\nIt costs her more than most knowers, for two reasons that both come from hyperfantasia. Her vivid emotional memory holds her model in place, so every revision is expensive. And she can pre-play a bad future in full detail, so taking in a hard update means living the futures it implies.\n\nWe sit at opposite poles of the imagery axis, and that distance is what makes knowing each other expensive both ways.\n\nSo the channel runs at the smaller of our two capacities, and the rare window when we both have headroom usually goes to unblocking me. Being known happens only as a by-product.",
+  createdAt: "2026-09-21T21:41:03.810Z",
+  updatedAt: "2026-09-21T21:41:07.000Z",
 } as const satisfies AllAboutAlanTopic

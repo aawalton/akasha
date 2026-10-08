@@ -14,4 +14,6 @@ export const theGradesThatRanBackwards = {
   ],
   settled:
     "At college at sixteen I got A grades in the hard courses and B grades in the easy ones. For almost everyone the slope runs the other way.\n\nThe easy ones taxed me. With no interest in the material the only way to hold attention was to manufacture it by hand, and hand-fed attention is expensive and leaky.\n\nThe hard ones were free. The difficulty supplied the interest and the interest supplied the attention.\n\nFrom outside it reads as good at hard things and careless about easy ones. It is the opposite of carelessness. It is executive dysfunction showing up in a transcript years before I had a name for it.",
+  createdAt: "2026-09-21T20:25:35.305Z",
+  updatedAt: "2026-09-21T20:25:55.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -8,4 +8,6 @@ export const addedSpelling = {
   takes: "a word and the part of speech it is tried as, parted by a colon",
   value: "text",
   placeholder: "word:part-of-speech",
+  createdAt: "2026-09-25T17:46:39.367Z",
+  updatedAt: "2026-09-25T17:46:49.000Z",
 } as const satisfies Argument

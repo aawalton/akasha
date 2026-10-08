@@ -13,4 +13,6 @@ export const whatItCostsSomeoneToKnowMe = {
   ],
   settled:
     "Being known is work someone else does: holding a model of me and keeping it current as I change.\n\nEach update costs them the taking in, and more again where it cuts against what they believe.\n\nThe closer their mind is to mine the less they have to build, which is why a near twin is cheap.\n\nJen's whole life rests on me, so an update revises her own map, and her pushing back is what my alarm reads.\n\nI change faster than the channel carries, and what does not get across accrues as a widening gap.\n\nI am not afraid of being seen. Where I stay unreadable it is my read on whether the other person can carry what seeing me would cost them, never on whether I can carry being seen.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:07:00.000Z",
 } as const satisfies AllAboutAlanTopic

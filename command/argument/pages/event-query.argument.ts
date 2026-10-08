@@ -8,4 +8,6 @@ export const eventQuery = {
   takes: "the text an event is kept for",
   value: "text",
   placeholder: "text",
+  createdAt: "2026-09-12T09:21:15.783Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const communityAddon = {
   takes: "the community addon's name, or one of the folder names it installs",
   value: "text",
   placeholder: "name",
+  createdAt: "2026-09-12T08:43:07.589Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

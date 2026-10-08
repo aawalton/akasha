@@ -13,4 +13,6 @@ export const payingForTheWillingness = {
   ],
   settled:
     "The plan is therapy with Amy Corry, the autism specialist I met at the conference. I have emailed to ask whether she is taking clients.\n\nIt threads both gates. Payment manufactures the willingness, so I do not have to find someone who happens to want to absorb the cost. And it reaches outside the loop, buying a skilled channel with money rather than with capacity I do not have.\n\nShe is cheap for two reasons on top of that. Knowing an atypical mind is her profession. And she is probably in the top three most similar people to me I have met in my life, possibly the first, so she can use herself as the model of me and barely has to build.\n\nOne email to one person is too narrow a base for my largest gap, so it is not the only pipeline. The other is a channel I can raise the fidelity of myself, with nobody's willingness to secure.",
+  createdAt: "2026-09-21T21:41:44.851Z",
+  updatedAt: "2026-09-21T21:41:48.000Z",
 } as const satisfies AllAboutAlanTopic

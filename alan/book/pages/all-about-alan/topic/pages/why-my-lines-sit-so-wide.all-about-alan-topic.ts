@@ -11,4 +11,6 @@ export const whyMyLinesSitSoWide = {
   related: ["all-about-alan-topic/why-getting-close-hurts"],
   settled:
     "The margins are wide on purpose. One bad hour costs me about ten good ones, so defence beats offence by an order of magnitude, and avoiding the bad tail is worth far more than chasing the reward. A bright-line map with conservative margins is the right policy for a cost dominated by its downside.\n\nMy categories are flat: spouse, children, other women, other men, and not much finer. Without an internal model or live cue-reading, I treat everyone in a category the same.\n\nThe substitution is the one autism forces everywhere: an explicit rule in place of the calibration I never absorbed.",
+  createdAt: "2026-09-21T21:42:43.495Z",
+  updatedAt: "2026-09-21T21:42:47.000Z",
 } as const satisfies AllAboutAlanTopic

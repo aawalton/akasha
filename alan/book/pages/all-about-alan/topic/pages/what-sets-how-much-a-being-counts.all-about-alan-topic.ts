@@ -10,4 +10,6 @@ export const whatSetsHowMuchABeingCounts = {
   related: ["all-about-alan-topic/the-line-a-being-crosses-to-count"],
   settled:
     "Above the floor, weight scales with the entropy of the individual's affective state space: the log count of distinct affective states their organisation supports.\n\nTwo states are distinct where they differ in causes, dynamics and downstream effects. Whether the being can introspect them does not enter. Tying weight to introspection would recouple moral weight to intelligence and wrongly lower the weight of anyone who cannot read their own states, which matters to me directly.\n\nThe simplest organisms come down to one pleasure and pain line. Richer ones hold many states at once, and a single state can carry several valences. Language and concepts widen affective resolution, so thinking contributes, but only as a multiplier on granularity.\n\nThat dissolves the utility monster rather than patching it. A vast intellect with only a pleasure and pain system carries a small weight.\n\nWeight is the maximum over the whole tapestry, so a present state never lowers it.",
+  createdAt: "2026-09-21T20:09:28.982Z",
+  updatedAt: "2026-09-21T20:09:33.000Z",
 } as const satisfies AllAboutAlanTopic

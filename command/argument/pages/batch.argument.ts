@@ -9,4 +9,6 @@ export const batch = {
   value: "whole-number",
   placeholder: "n",
   default: "1000",
+  createdAt: "2026-09-12T09:15:04.170Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

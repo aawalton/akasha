@@ -10,4 +10,6 @@ export const aPlatformThatStaysOutOfTheWay = {
   related: ["all-about-alan-topic/where-a-good-grade-turns-up-in-a-bad-trade"],
   settled:
     "Both of my B grades here are thin layers over a direct line from a writer to me.\n\nRoyal Road is free to read, paid for by advertising, and built reader-first. Serialised web fiction lives there and nothing about the platform gets between me and it.\n\nSubstack hosts the independent writers I follow and does little else.\n\nNeither B is structural. There is no purpose trust, no mutual ownership, nothing that would hold if the company decided otherwise, so what I am grading is current behaviour and nothing more.\n\nWhat I watch for on Substack is three things. Its stance on moderation shifting either way. Money being squeezed out through fees or compulsory paid tiers. Features that stop a writer leaving or a reader reaching them elsewhere.\n\nThe writers are what I actually trust. The platform is only how they reach me today.",
+  createdAt: "2026-09-21T20:25:59.489Z",
+  updatedAt: "2026-09-21T20:26:02.000Z",
 } as const satisfies AllAboutAlanTopic

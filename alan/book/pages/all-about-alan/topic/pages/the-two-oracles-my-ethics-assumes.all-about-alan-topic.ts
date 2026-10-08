@@ -10,4 +10,6 @@ export const theTwoOraclesMyEthicsAssumes = {
   related: ["all-about-alan-topic/the-three-quantities-my-ethics-counts"],
   settled:
     "The central move is to hand an idealised agent perfect knowledge and then ask what ethics follows. That takes out the two objections doing most of the work against utilitarianism: that we cannot predict consequences, and that we judge states rather than agents.\n\nThe first oracle measures the probability-weighted value of every possible state of the world perfectly. State value is never negative, and it includes the probability-weighted value of all potential future life.\n\nThe second computes, from multiversal simulation data, each agent's exact contribution to any change in that value. That solves attribution, so the framework can assign credit and responsibility to agents rather than only grade states.\n\nThe attribution is the unique one with four properties I lean on throughout: shares sum exactly to the total, two agents contributing identically get the same, an agent who adds nothing anywhere gets zero, and credit decomposes and recomposes freely across sub-games.",
+  createdAt: "2026-09-21T20:20:03.260Z",
+  updatedAt: "2026-09-21T20:20:30.000Z",
 } as const satisfies AllAboutAlanTopic

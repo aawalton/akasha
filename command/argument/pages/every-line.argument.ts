@@ -7,4 +7,6 @@ export const everyLine = {
   said: "--all",
   takes: "every line inside the window, page after page, rather than the first `--limit`",
   value: "none",
+  createdAt: "2026-09-12T09:23:35.655Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

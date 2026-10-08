@@ -10,4 +10,6 @@ export const whyIShopAtCostcoAndNotWalmart = {
   related: ["all-about-alan-topic/why-depending-on-a-company-is-the-risk"],
   settled:
     "Costco and Walmart are the case I keep coming back to. The same scale, overlapping markets, the same outside pressure, and opposite readings.\n\nI trust Costco. It pays above market, keeps a return policy that favours the customer, and holds prices steady through the cycles that move everyone else.\n\nI do not trust Walmart. Wage suppression, squeezing suppliers, and design choices that work against the customer and compound year on year.\n\nWhat separates them is what each has done under pressure, sustained over years. That is what makes the test a real one rather than an abstract one.",
+  createdAt: "2026-09-21T20:03:34.250Z",
+  updatedAt: "2026-09-21T20:03:44.000Z",
 } as const satisfies AllAboutAlanTopic

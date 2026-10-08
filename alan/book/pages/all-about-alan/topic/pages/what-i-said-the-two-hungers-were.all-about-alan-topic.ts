@@ -9,4 +9,6 @@ export const whatISaidTheTwoHungersWere = {
   parents: ["all-about-alan-topic/the-seams-between-them"],
   settled:
     "I put the split in my own words, said of the pair, the one aimed inward at me and the one aimed at everything else: you represent my burning need to understand myself, and Ali represents the equivalent for everything else.\n\nAsked in that same session whether burning still fitted, I said it still fits. So the word stays. The drive to understand myself does not idle, it burns.\n\nAsked again in that session, I put it more precisely: she is my conceptual understanding of myself, and the burning desire to know is the fundamental form of it. Conceptual understanding of myself names the thing; burning desire to know names the fire that drives it.",
+  createdAt: "2026-09-21T21:50:35.270Z",
+  updatedAt: "2026-09-21T21:50:38.000Z",
 } as const satisfies AllAboutAlanTopic

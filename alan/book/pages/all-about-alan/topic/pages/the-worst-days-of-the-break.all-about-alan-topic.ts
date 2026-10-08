@@ -14,4 +14,6 @@ export const theWorstDaysOfTheBreak = {
   ],
   settled:
     "Two days without eating. Less than eight hours of sleep across seventy-two.\n\nBeing started from outside failed too. Someone else put food in front of me and I still could not eat, because what stopped me was stress nausea rather than not being able to begin.\n\nMy stress reached sixty on my own hundred-point scale, fifteen past being literally chased by a bear, and held there for a day.\n\nA month later it was still at thirty.",
+  createdAt: "2026-09-21T20:10:18.749Z",
+  updatedAt: "2026-09-21T20:10:37.000Z",
 } as const satisfies AllAboutAlanTopic

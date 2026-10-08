@@ -15,4 +15,6 @@ export const theHouseIsTheOutput = {
   ],
   settled:
     "Owning this house is the only B in the whole stack, and it is the end state of those layers rather than another constraint beside them.\n\nIt is what accepting the US, then Utah, then Provo produces at the bottom. Different outer layers would give a different grade here.\n\nWhat earns the B: shelter we own rather than rent, the beds and the trees, a garage kept as workshop instead of parking, and the anchor that holds the local people we rely on within reach. The capital tied up in it is productive rather than spent.\n\nThe reservations are the servicer I did not pick, the single insurer, and the market the valuation rides on.\n\nBeing anchored here is a choice rather than a default nobody made. Some of what binds me I accepted willingly and some I merely inherited, and I keep those apart.\n\nMy strategy is to accept the whole cascade and work inside each layer rather than against it.",
+  createdAt: "2026-09-21T20:22:06.096Z",
+  updatedAt: "2026-09-21T20:22:09.000Z",
 } as const satisfies AllAboutAlanTopic

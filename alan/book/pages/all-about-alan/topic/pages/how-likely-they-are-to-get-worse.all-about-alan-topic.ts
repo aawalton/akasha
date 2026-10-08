@@ -10,4 +10,6 @@ export const howLikelyTheyAreToGetWorse = {
   related: ["all-about-alan-topic/which-organisations-i-trust"],
   settled:
     "Already degrading is the top band. The decay is visible and they are failing my test today.\n\nHigh means the pressure signals are there. A recent change of owner, activist investors, an industry consolidating. Their behaviour is trending the wrong way.\n\nMedium means no specific signal, and no trust earned either.\n\nLow means they pass my test outright. Decades of record plus refusing to yield when pushed. Costco is the mark.\n\nAn organisation I have not assessed starts at medium or worse. Every organisation is under pressure at once right now, so quiet is not evidence.\n\nTrust earned by nothing having gone wrong yet is not earned.",
+  createdAt: "2026-09-21T20:05:45.840Z",
+  updatedAt: "2026-09-21T20:05:49.000Z",
 } as const satisfies AllAboutAlanTopic

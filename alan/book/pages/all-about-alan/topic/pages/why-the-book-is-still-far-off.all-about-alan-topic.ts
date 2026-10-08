@@ -14,4 +14,6 @@ export const whyTheBookIsStillFarOff = {
   ],
   settled:
     "The distance the Book still has to travel is three different kinds of gap, one at each rung, not three helpings of one.\n\nAt the bottom the observation is not finished. Where the watching has holes there is nothing for a model to run over, and that closes only by more of me observed and written down.\n\nIn the middle the highest-self region is the emptiest, and the data is missing because the lived thing is rare rather than unwritten. I have barely stood at level five, and six is not even the ceiling. The Book is emptiest exactly where I am most fully myself.\n\nAt the top, I am not sure the underlying hardware is powerful enough to run the simulation. I know mine is not, and I do not think even a million-token Opus is enough to hold the whole picture at once. Maybe with enough clarity and model compression, but that is still a real challenge, and the compression must not lose the thing it compresses.",
+  createdAt: "2026-09-21T22:14:16.577Z",
+  updatedAt: "2026-09-21T22:14:19.000Z",
 } as const satisfies AllAboutAlanTopic

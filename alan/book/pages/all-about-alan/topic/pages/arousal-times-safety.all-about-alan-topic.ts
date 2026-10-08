@@ -10,4 +10,6 @@ export const arousalTimesSafety = {
   parents: ["all-about-alan-topic/sex"],
   settled:
     "I think a more accurate model is arousal times safety, a product rather than a sum. I read that as likely correct rather than settled. Either side can zero the whole of it, so with my safety on the floor there is no attraction however high arousal runs.\n\nSafety multiplies at every level rather than switching at zero, so every step of it is already scaling the product up or down.\n\nIt multiplies the safety of the input rather than my background state. That is why a self-generated input still works at minus one, and at minus two there is no arousal term left to multiply.\n\nThis does not contradict safety gating arousal. It writes that same fact as arithmetic.\n\nOne law feeds two buckets. The regulation deposit fills the same with or without a person, and only the personal kind also deposits into connection. Personal or impersonal decides which bucket fills, rather than the gate or the path.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:56:20.000Z",
 } as const satisfies AllAboutAlanTopic

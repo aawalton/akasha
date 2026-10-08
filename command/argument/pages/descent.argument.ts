@@ -7,4 +7,6 @@ export const descent = {
   said: "--descent",
   takes: "every page type extending `domain` as well as `domain` itself",
   value: "none",
+  createdAt: "2026-09-12T09:34:50.043Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

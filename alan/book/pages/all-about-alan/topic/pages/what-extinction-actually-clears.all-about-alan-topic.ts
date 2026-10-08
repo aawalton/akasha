@@ -13,4 +13,6 @@ export const whatExtinctionActuallyClears = {
   ],
   settled:
     "An extinction clears one stress response in one context rather than that response everywhere.\n\nWhat went in game PVP was the initiative stress response from conflict, applied to that specific context.",
+  createdAt: "2026-09-22T16:59:36.828Z",
+  updatedAt: "2026-09-22T16:59:40.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const whatAHotBathActuallyDoes = {
   related: ["all-about-alan-topic/how-i-actually-breathe"],
   settled:
     "An hour in the bath pays back about three capacity hours.\n\nI worked out by experiment that the bath lowers my stress, and that exercise hard enough to sweat does the same thing in the same shape. From that I concluded I was sweating the cortisol out. The observation was right and the mechanism was wrong.\n\nAlmost no cortisol leaves through sweat. It clears through the liver and the kidneys. Sweat is a marker of what is in the blood rather than a way out of the body.\n\nWhat the heat does is shift me from sympathetic toward parasympathetic, and over weeks of repeated exposure it resets the baseline of the whole stress system. Acute heat raises cortisol briefly before that longer recalibration takes hold.\n\nSlow breathing works on the same thing, which is why it stacks with the bath rather than doing something separate.",
+  createdAt: "2026-09-21T20:29:23.462Z",
+  updatedAt: "2026-09-21T21:37:35.000Z",
 } as const satisfies AllAboutAlanTopic

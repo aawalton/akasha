@@ -9,4 +9,6 @@ export const whenTheLifeCoverCanShrink = {
   parents: ["all-about-alan-topic/what-i-am-insured-for"],
   settled:
     "The four million is sized for three children at home, and the need falls as each of them reaches independence.\n\nLizzy is seventeen and probably independent in five to seven years. Joseph is fourteen, so seven to nine. Katara is eleven, so ten or more.\n\nThe move is to set a review cadence, annual being the obvious default, and take the cover down as the need comes down.\n\nSwitching carrier is not the lever. Every carrier in the trade is a D by default until one proves otherwise, and a term policy already sidesteps most of what drags the trade down. The lever is the size.",
+  createdAt: "2026-09-21T20:07:18.703Z",
+  updatedAt: "2026-09-21T22:48:35.000Z",
 } as const satisfies AllAboutAlanTopic

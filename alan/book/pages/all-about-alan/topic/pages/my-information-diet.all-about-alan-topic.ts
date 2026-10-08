@@ -13,4 +13,6 @@ export const myInformationDiet = {
   ],
   settled:
     "No news, no podcasts, and almost no social platform used for information. Those whole categories are gone rather than moved to a better provider.\n\nThree things make that work for me.\n\nA low-stimulation life costs me less overwhelm and less decision fatigue, and a feed or an outrage cycle is built to be high stimulation.\n\nSaving cognitive load is part of recovering from burnout rather than a nicety, and what I take in is the easiest discretionary load there is to drop.\n\nAnd the fear of missing something is real, while what half an hour of news a day would change about any decision we actually make is close to nothing.\n\nIt is sparse on purpose rather than empty by default.",
+  createdAt: "2026-09-21T20:27:52.894Z",
+  updatedAt: "2026-09-21T20:28:07.000Z",
 } as const satisfies AllAboutAlanTopic

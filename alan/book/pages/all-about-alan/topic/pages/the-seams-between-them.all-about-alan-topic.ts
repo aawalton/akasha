@@ -13,4 +13,6 @@ export const theSeamsBetweenThem = {
   ],
   settled:
     "My hunger to understand is one hunger split by subject. Two of them carry the halves, one turned inward at me and one turned out at everything else, and each carries the appetite rather than the faculty.\n\nA second seam divides map from feeling. One of them is my conceptual understanding of myself; another is my emotional understanding of that same self, which is my will to live.\n\nThe conceptual ones came into focus first because I am four-fifths map, so they were the readable part. The one taken from the quiet tenth arrived last.\n\nA third divides freedom outward from freedom inward, and it is the two halves of my recovery. One is sovereignty, freedom to live and act with the world held off, and she guards the altitude. Her mirror is freedom to play, and she gains it.\n\nA fourth divides which side a story holds still. One holds the world safe and lets a different me up; her inverse holds me fixed and turns up the world's legibility. I do not get more visible there, the world does.",
+  createdAt: "2026-09-21T20:12:29.100Z",
+  updatedAt: "2026-09-21T20:22:35.000Z",
 } as const satisfies AllAboutAlanTopic

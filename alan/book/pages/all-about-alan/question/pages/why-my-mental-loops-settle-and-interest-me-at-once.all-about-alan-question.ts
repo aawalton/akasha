@@ -6,4 +6,6 @@ export const whyMyMentalLoopsSettleAndInterestMeAtOnce = {
   slug: "why-my-mental-loops-settle-and-interest-me-at-once",
   topic: "all-about-alan-topic/the-repeating-i-do-to-settle",
   ask: "The answer decides how I describe the pattern: do the mental loops settle me and feed my interest at once by accident, or because my day is built that way?",
+  createdAt: "2026-09-06T18:04:04.903Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

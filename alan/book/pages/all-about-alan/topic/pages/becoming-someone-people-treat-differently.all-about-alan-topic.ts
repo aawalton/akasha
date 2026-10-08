@@ -13,4 +13,6 @@ export const becomingSomeonePeopleTreatDifferently = {
   ],
   settled:
     "The purpose clarification that moved this landed on 11 June 2026.\n\nWhile the point was improving my life, connection meant working out how to get my relationships with others to meet my needs.\n\nFor improving myself, changing how others interact with me is not in scope at all.\n\nSo I work on my own actions instead. If I want others to treat me differently, I become the type of person others will treat differently.\n\nThe need itself did not move. What moved is the one thing I am allowed to push on.\n\nThe first concrete change was health first: eat, move, sleep, hygiene. I have to be able to meet myself from a good place before I can meet anyone else.",
+  createdAt: "2026-09-21T20:08:06.983Z",
+  updatedAt: "2026-09-21T22:12:27.000Z",
 } as const satisfies AllAboutAlanTopic

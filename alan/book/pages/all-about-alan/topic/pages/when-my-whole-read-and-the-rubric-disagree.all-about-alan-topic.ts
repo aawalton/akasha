@@ -10,4 +10,6 @@ export const whenMyWholeReadAndTheRubricDisagree = {
   related: ["all-about-alan-topic/how-i-know-things"],
   settled:
     "Intuition, for me, is the direct gestalt of what I perceive. Everything read at once, including dimensions I have not named.\n\nThe disagreement shows up pairwise. The rubric ranks A over B and my whole read ranks B over A. The contradiction is the signal.\n\nThree things can be wrong. A factor is missing from the rubric, or my whole read is noisy, or this case is scored wrong on a factor already there.\n\nSo the rubric is wrong at two layers: the set of factors, and the scores plugged into them.\n\nThe layers move at different speeds. A factor set can change in one insight. A case score corrects only slowly, over repeated exposure. A disagreement that holds on one case while the factors look complete is a score.\n\nI pick the culprit by testing each and keeping whichever leaves the more compact account.\n\nNeither side is sovereign. The disagreement catches what the rubric is missing, and the rubric staying consistent across every case catches a read that is simply wrong.",
+  createdAt: "2026-09-21T20:02:55.731Z",
+  updatedAt: "2026-09-21T20:03:00.000Z",
 } as const satisfies AllAboutAlanTopic

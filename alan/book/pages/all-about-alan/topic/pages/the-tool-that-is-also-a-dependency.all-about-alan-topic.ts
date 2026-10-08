@@ -10,4 +10,6 @@ export const theToolThatIsAlsoADependency = {
   related: ["all-about-alan-topic/which-dependency-i-deal-with-first"],
   settled:
     "My laser engraver is two things at once. It lets me fabricate a part I would otherwise have to buy, and it needs the maker's cloud to run at all, so they can switch it off from where they are.\n\nBoth sides count when I rank it. Counting only the first one flatters it, and counting only the second misses why I bought it.\n\nI expect to meet more of this shape rather than less. A capability that arrives as a connected device brings the vendor in with it.",
+  createdAt: "2026-09-21T20:20:55.131Z",
+  updatedAt: "2026-09-21T20:20:58.000Z",
 } as const satisfies AllAboutAlanTopic

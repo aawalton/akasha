@@ -13,4 +13,6 @@ export const puttingTwoThingsWithOneCompany = {
   ],
   settled:
     "State Farm holds the house and the car both, so anything that goes wrong there lands on me twice over.\n\nCloudflare is the same shape: registrar, DNS, tunnel and certificates all on one provider.\n\nUnbundling is low priority here, because every peer insurer is the same D and moving sideways buys nothing. Only something structurally different would, and none is open to me.\n\nSo I hold what I have and watch, and I would only move if a B-rated option appeared.",
+  createdAt: "2026-09-21T20:06:02.481Z",
+  updatedAt: "2026-09-21T20:06:06.000Z",
 } as const satisfies AllAboutAlanTopic

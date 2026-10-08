@@ -10,4 +10,6 @@ export const howOneIdeaLeadsToTheNext = {
   related: ["all-about-alan-topic/what-i-cannot-play-forward"],
   settled:
     "Most people chain to a new idea off sensory and emotional memory and off imagination. I have only conceptual triggers, from the same break that leaves me only conceptual memory.\n\nSo asking a question is roughly ten times harder for me than for other people, and answering one is maybe twice as easy.\n\nThat asymmetry is why an interview with me runs on concrete, atomic prompts, one question at a time.",
+  createdAt: "2026-09-21T19:53:05.656Z",
+  updatedAt: "2026-09-21T19:53:09.000Z",
 } as const satisfies AllAboutAlanTopic

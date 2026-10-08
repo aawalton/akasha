@@ -8,4 +8,6 @@ export const closureSeed = {
   takes: "a file a closure starts from, said from the repository root",
   value: "path",
   placeholder: "seed",
+  createdAt: "2026-09-15T18:25:14.874Z",
+  updatedAt: "2026-09-15T18:31:02.000Z",
 } as const satisfies Argument

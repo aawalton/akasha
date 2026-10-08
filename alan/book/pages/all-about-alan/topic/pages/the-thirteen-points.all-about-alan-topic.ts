@@ -9,4 +9,6 @@ export const theThirteenPoints = {
   parents: ["all-about-alan-topic/the-done-manifesto"],
   settled:
     "The thirteen points, as I give them.\n\nThere are three states of being. Not knowing, action and completion. Accept that everything is a draft. It helps to get it done. There is no editing stage.\n\nPretending you know what you're doing is almost the same as knowing what you are doing, so just accept that you know what you're doing even if you don't and do it.\n\nBanish procrastination. If you wait more than a week to get an idea done, abandon it. The point of being done is not to finish but to get other things done. Once you're done you can throw it away.\n\nLaugh at perfection. It's boring and keeps you from being done. People without dirty hands are wrong. Doing something makes you right.\n\nFailure counts as done. So do mistakes. Destruction is a variant of done. If you have an idea and publish it on the internet, that counts as a ghost of done. Done is the engine of more.",
+  createdAt: "2026-09-21T22:02:03.808Z",
+  updatedAt: "2026-09-21T22:02:07.000Z",
 } as const satisfies AllAboutAlanTopic

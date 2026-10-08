@@ -13,4 +13,6 @@ export const theBedroomThatBecameHers = {
   ],
   settled:
     "Jen has a strong emotional attachment to me sleeping in the same bed as her, even though she sleeps a lot better when I am not there. She sleeps worse with me in the bed and needs me there anyway.\n\nWhat she is reaching for is the felt presence that means me. What I can give is deliberate provision rather than the pull she wants, and I cannot manufacture that from my side.\n\nThat gap created traumatic pain for both of us, and it ended with me moving out of the bedroom entirely. It is now really her bedroom.\n\nWe have softened a lot from there. She has gained more acceptance of my sleeping in other rooms, though it stays a deeply painful point for her.\n\nNow I will sometimes start the night in her bedroom, she rouses me when she comes to bed, we get a little connection, and then I transfer downstairs.",
+  createdAt: "2026-09-21T20:26:37.906Z",
+  updatedAt: "2026-09-21T20:27:14.000Z",
 } as const satisfies AllAboutAlanTopic

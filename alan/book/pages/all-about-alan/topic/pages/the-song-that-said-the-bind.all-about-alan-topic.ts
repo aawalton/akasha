@@ -10,4 +10,6 @@ export const theSongThatSaidTheBind = {
   related: ["all-about-alan-topic/how-a-song-reaches-me"],
   settled:
     "I reached the one-line form while reading Taylor Swift's peace. The song landed on the marriage, and what it surfaced was the symmetry of the lack: I cannot give Jen the peace she wishes I could, and she cannot give me the peace I wish she could.\n\nIt came through music because a song reaching me through its meaning is the bridge that lets a feeling about the marriage land at all.\n\nEven at a low emotional ebb it landed hard enough that I raised the song to my top grade on the strength of the recognition.\n\nThe read ended forward rather than in despair. Naming the lack symmetrically is the same move as reading her resistance as defence: it makes the bind a shared condition to work rather than a verdict against either of us.",
+  createdAt: "2026-09-21T22:01:14.712Z",
+  updatedAt: "2026-09-21T22:01:18.000Z",
 } as const satisfies AllAboutAlanTopic

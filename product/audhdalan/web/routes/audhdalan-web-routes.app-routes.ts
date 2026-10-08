@@ -17,4 +17,6 @@ export const audhdalanWebRoutes = {
     "route/audhdalan-safety-levels",
     "route/audhdalan-no-such-page",
   ],
+  createdAt: "2026-09-10T15:11:47.977Z",
+  updatedAt: "2026-09-27T15:38:05.000Z",
 } as const satisfies AppRoutes

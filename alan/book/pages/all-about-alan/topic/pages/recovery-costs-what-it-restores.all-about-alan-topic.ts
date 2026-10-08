@@ -9,4 +9,6 @@ export const recoveryCostsWhatItRestores = {
   parents: ["all-about-alan-topic/resources"],
   settled:
     "The moves that rebuild a resource also spend it, so being low can put them out of reach.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

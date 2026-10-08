@@ -8,4 +8,6 @@ export const cc = {
   takes: "who is copied, said again or parted by commas",
   value: "text",
   placeholder: "addr,..",
+  createdAt: "2026-09-12T09:24:28.282Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const bodyFile = {
   takes: "the file the body is read from, or `-` for standard input",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T09:12:04.270Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

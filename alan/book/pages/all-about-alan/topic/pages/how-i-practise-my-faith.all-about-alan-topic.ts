@@ -9,4 +9,6 @@ export const howIPractiseMyFaith = {
   parents: ["all-about-alan-topic/my-faith"],
   settled:
     "Church is a judgment setting with survival stakes, and the judgment there always runs through people rather than through a felt God.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

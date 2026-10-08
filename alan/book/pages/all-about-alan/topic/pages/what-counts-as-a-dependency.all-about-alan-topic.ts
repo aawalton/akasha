@@ -10,4 +10,6 @@ export const whatCountsAsADependency = {
   related: ["all-about-alan-topic/trusting-a-person-not-an-institution"],
   settled:
     "Anything ongoing with a large organisation where leaving would cost me something real in money, time, learning or coordination. Paid or free, a company or a government, obvious or not.\n\nI set the line wide on purpose. Narrow the list early and the ones that matter most are exactly the ones that hide.\n\nA single purchase I will not repeat does not count. Nor does something recurring I could swap for nothing, like whichever shop happens to be nearest.\n\nNor, strictly, does a relationship with a person. My test was built for large organisations under profit pressure, and a person runs on different forces.\n\nThat last line has a rough edge. My doctor and my accountant are individuals, and the dependency has the same shape as any other. For now I list them anyway and leave the boundary to sharpen later.",
+  createdAt: "2026-09-21T20:23:27.536Z",
+  updatedAt: "2026-09-21T20:23:48.000Z",
 } as const satisfies AllAboutAlanTopic

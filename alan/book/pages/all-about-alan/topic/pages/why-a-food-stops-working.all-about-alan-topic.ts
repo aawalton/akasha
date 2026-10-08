@@ -13,4 +13,6 @@ export const whyAFoodStopsWorking = {
   ],
   settled:
     "A food leaves two ways, and I manage against both.\n\nA few bad units write a lasting aversion. That killed my pre-peeled boiled eggs, over eggshells and the occasional rotten one, and my grapefruit cups, over bitterness and the occasional rancid one.\n\nWhat survives survives because it is extremely consistent by design. Consistency is something I select on rather than a bonus.\n\nThe other way is that a perfectly good food drops out of my awareness and quietly stops being eaten. The Orgain smoothie went that way. That is the live threat to what is working now: not that it stops working, but that it stops being seen.\n\nSo keeping a food where I can see it is what keeps it in my diet.",
+  createdAt: "2026-09-21T20:19:24.784Z",
+  updatedAt: "2026-09-21T20:19:45.000Z",
 } as const satisfies AllAboutAlanTopic

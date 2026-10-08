@@ -8,4 +8,6 @@ export const aspectRatio = {
   takes: "the shape the output is fixed to",
   value: "text",
   placeholder: "ratio",
+  createdAt: "2026-09-12T08:56:40.831Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

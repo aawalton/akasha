@@ -13,4 +13,6 @@ export const whatADigNeedsToTakeHold = {
   ],
   settled:
     "The behavior I start from has to be named at high resolution. Everything downstream attaches to it, and attached to something vague the new belief cannot seat. I have restarted a dig at the first step and asked for five to ten times the specificity.\n\nThat looks like perfectionism and is the opposite of it. Perfectionism is a threat reflex guarding against a bad output. This is building the only ground the change can hold on.\n\nMost people can change a belief on a felt shift they never put into words. I cannot, because the feeling only opens through the understanding.\n\nA true belief is harder to replace than a false one. There is nothing to refute, only a costly true account to re-compress into one that explains the same evidence for less.\n\nThe run is fast and the build is not. A whole dig has gone end to end in a day, after months of pressure gathering behind it.",
+  createdAt: "2026-09-21T20:09:37.881Z",
+  updatedAt: "2026-09-21T20:10:31.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const whyAlexithymiaArrivesTwice = {
   ],
   settled:
     "One route is autism. The patterns of feeling never settle in quietly by themselves, because nothing in me habituates them into place.\n\nThe other is aphantasia. I hold no remembered feeling and no imagined one, so there is no reference to match a present feeling against and name it by.\n\nEither would be enough on its own. I have both.",
+  createdAt: "2026-09-21T20:04:24.291Z",
+  updatedAt: "2026-09-21T20:04:45.000Z",
 } as const satisfies AllAboutAlanTopic

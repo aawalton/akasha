@@ -13,4 +13,6 @@ export const theMonthTheRuleCompiled = {
   ],
   settled:
     "In May 2026 I reached safety level five for the first time in a long while, and started turning outward.\n\nTurning outward got me looking at the state of the world, and it was worse than I had expected. I spent the month on how and whether I could make it better.\n\nWhat was on the table was getting into politics, or moving to another country to get away from them. Fight or flight at the scale of a life. The rule did not choose between them. It removed the whole category.\n\nIt took a month and a great deal of pain before the rule landed, as a hard limit on anything I would consider doing.\n\nIt did not settle the crisis by changing what I believe. The world is broken and that stayed true. What it severed was the obligation to act on it.\n\nThat severance is what let the rest of me come down off the mountain while the part demanding I act did not.",
+  createdAt: "2026-09-21T20:16:16.130Z",
+  updatedAt: "2026-09-21T20:16:19.000Z",
 } as const satisfies AllAboutAlanTopic

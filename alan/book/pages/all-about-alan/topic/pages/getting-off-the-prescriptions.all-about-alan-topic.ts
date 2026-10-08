@@ -10,4 +10,6 @@ export const gettingOffThePrescriptions = {
   related: ["all-about-alan-topic/not-needing-the-thing-at-all"],
   settled:
     "The aim is not a second prescriber and a second pharmacy. It is no prescription.\n\nJoseph is off his and we are watching whether it holds. If it does, his part of the chain is gone rather than spread wider.\n\nMine is the same direction, behind the recovery work rather than ahead of it. Sleep, food, and coping skill that lowers what the medication is covering for. That is years rather than months.\n\nSo the right answer to the exposure is not a backup. Building one would fix in place the very thing I am trying to be rid of.",
+  createdAt: "2026-09-21T20:23:32.905Z",
+  updatedAt: "2026-09-21T20:23:42.000Z",
 } as const satisfies AllAboutAlanTopic

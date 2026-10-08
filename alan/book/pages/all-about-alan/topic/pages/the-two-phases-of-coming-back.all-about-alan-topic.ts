@@ -10,4 +10,6 @@ export const theTwoPhasesOfComingBack = {
   related: ["all-about-alan-topic/proof-i-can-do-things", "all-about-alan-topic/how-safety-climbs"],
   settled:
     "Through 2025 the baseline was rest. Books, games and shows on my own and nothing else, with whatever surge I had going into my work. Some of the time even the resting cost more than I had.\n\nEarly in 2026 it changed in kind rather than in degree. Programming became affordable, and twelve-hour coding days held for four months from there.\n\nWhat unlocked it was my baseline safety crossing into the rung where I can be productive. At that rung programming stops costing me a multiplier at all.\n\nThe crossing is the event. The months of rest and the better interventions are what raised the baseline to it.",
+  createdAt: "2026-09-21T20:10:53.324Z",
+  updatedAt: "2026-09-21T20:10:57.000Z",
 } as const satisfies AllAboutAlanTopic

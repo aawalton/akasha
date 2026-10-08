@@ -10,4 +10,6 @@ export const theOnlyCarWeOwn = {
   related: ["all-about-alan-topic/putting-two-things-with-one-company"],
   settled:
     "A Honda Odyssey from 2015, eleven years old, is the only vehicle the five of us have. There is no second vehicle to absorb a failure window, so one failure takes road transport from the whole household at once.\n\nIt is capital we own rather than anybody I depend on. Honda matters to me for parts, manuals and recalls, not as a relationship.\n\nOwning a single instance of something critical with nothing behind it is a shape my grading does not catch, because the grading was built for outside organisations.",
+  createdAt: "2026-09-21T20:14:14.201Z",
+  updatedAt: "2026-09-21T22:43:53.000Z",
 } as const satisfies AllAboutAlanTopic

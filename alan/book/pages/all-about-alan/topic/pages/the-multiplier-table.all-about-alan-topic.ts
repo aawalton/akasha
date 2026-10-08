@@ -13,4 +13,6 @@ export const theMultiplierTable = {
   ],
   settled:
     "The anchor is that one hour at a multiplier of one costs me one stress-capacity hour.\n\nWhere my safety matches the difficulty the multiplier is one. Half a step above it is a half. A full step above it is nothing at all.\n\nHalf a step below it is one and a half. A full step below is two. One and a half below is three.\n\nEach further full level of difference is generally a doubling.\n\nRead in order from above my level down through it, the practical sequence with rounding runs nought, a half, one, one and a half, two, three, four.",
+  createdAt: "2026-09-21T20:26:46.411Z",
+  updatedAt: "2026-09-21T20:26:49.000Z",
 } as const satisfies AllAboutAlanTopic

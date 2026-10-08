@@ -10,4 +10,6 @@ export const whatICutBeforeICutTheJob = {
   related: ["all-about-alan-topic/the-year-i-cut-everyone-out"],
   settled:
     "For years before the end I took away everything outside work to keep work going.\n\nSome income beat no income, and while that held it was the right way round.\n\nWhat it bought was time rather than a way out. The cost of the job went on rising underneath it.",
+  createdAt: "2026-09-21T20:21:50.334Z",
+  updatedAt: "2026-09-21T20:22:04.000Z",
 } as const satisfies AllAboutAlanTopic

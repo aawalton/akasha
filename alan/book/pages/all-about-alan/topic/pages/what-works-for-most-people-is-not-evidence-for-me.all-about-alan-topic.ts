@@ -13,4 +13,6 @@ export const whatWorksForMostPeopleIsNotEvidenceForMe = {
   ],
   settled:
     "Just because something works for most people is not a good reason to believe that it would work for me.\n\nFawn is the proof case. It is a strategy that works, on average, for most people facing a threat, and it nearly killed me.\n\nSo the lesson reaches past fawn. Validity across the population is not evidence of validity for me, because I already have one confirmed case of a common strategy running me to a medical edge.\n\nThat stance now sets how I weigh any borrowed pattern, not only the responses to social threat.",
+  createdAt: "2026-09-21T21:52:00.898Z",
+  updatedAt: "2026-09-21T21:52:04.000Z",
 } as const satisfies AllAboutAlanTopic

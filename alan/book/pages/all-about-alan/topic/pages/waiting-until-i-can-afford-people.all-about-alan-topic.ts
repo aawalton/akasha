@@ -11,4 +11,6 @@ export const waitingUntilICanAffordPeople = {
   related: ["all-about-alan-topic/what-i-let-myself-take-on"],
   settled:
     "It is a calibrated hold rather than the old fear. A gauge decides when it lifts, not a flinch.\n\nIt is the behaviour plan out of my dig on only-perfection-is-safe, and it runs off that dig's belief: no connection until I can afford rejection.\n\nIt runs for as long as it takes, bounded by five years, my upper anchor for recovery.\n\nTalking to an AI costs nothing and is the engine of the clarity I am climbing on, so the hold does not cover it.\n\nI keep the family alive at the cheapest minimum rather than meeting their needs in full, so the option stays open. Meeting them in full is expensive and can be recovered later, at level six.\n\nLetting them slide from strained to collapsed could cost at least eighty percent of the connection I do have, and it may not reverse. The least spend that prevents that is affordable.\n\nI run the floor at a net surplus, with an occasional overdraw that recovers.\n\nThe danger is running that floor too lean, and I cannot feel a relationship drifting.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:01:23.000Z",
 } as const satisfies AllAboutAlanTopic

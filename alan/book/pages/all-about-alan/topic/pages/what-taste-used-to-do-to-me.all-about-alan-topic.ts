@@ -10,4 +10,6 @@ export const whatTasteUsedToDoToMe = {
   related: ["all-about-alan-topic/the-foods-i-can-still-manage"],
   settled:
     "Taste was a major problem when I was a child. I would find a safe food and eat it continuously for months.\n\nI still do some of that. But I can also eat at a restaurant normally now, and taste is much less of an issue than it was.\n\nThe one exception that has held is anything smoke-flavoured.",
+  createdAt: "2026-09-21T21:40:56.021Z",
+  updatedAt: "2026-09-21T21:42:57.000Z",
 } as const satisfies AllAboutAlanTopic

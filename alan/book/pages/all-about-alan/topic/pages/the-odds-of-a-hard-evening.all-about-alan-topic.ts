@@ -14,4 +14,6 @@ export const theOddsOfAHardEvening = {
   ],
   settled:
     "What I am paying for is the not knowing rather than the conflict itself. Variable punishment operant conditioning.\n\nNothing tells me in advance which kind of evening it will be. I am incredibly bad at predicting the results, mostly because of the aphantasia.\n\nWithout experiential memory I cannot estimate the odds from an internal sense either. My guess was fifty-fifty.\n\nThe count says a third. What follows was counted out of my session tracking rather than recalled, so it is a reading of the record rather than something I said. Across 162 blocks with Jen from June to September, 55 percent rate difficulty three, 11 percent rate three and a half, and 33 percent rate four or above.\n\nThe share at four or above has been climbing: fifteen percent in June, 31 in July, 42 in August. July is when the relationship started breaking without the blank check.",
+  createdAt: "2026-09-06T20:45:48.329Z",
+  updatedAt: "2026-09-21T22:29:09.000Z",
 } as const satisfies AllAboutAlanTopic

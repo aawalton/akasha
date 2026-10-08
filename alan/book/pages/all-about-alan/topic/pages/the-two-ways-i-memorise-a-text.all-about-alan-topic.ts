@@ -10,4 +10,6 @@ export const theTwoWaysIMemoriseAText = {
   related: ["all-about-alan-topic/how-a-skill-gets-into-me"],
   settled:
     "The flat one makes each word the cue for the next word. Reciting is firing the chain a step at a time. I have memorised whole books that way, and faster than most people do it.\n\nThe nested one is my own. A section fires off a top-level cue, its paragraphs off the section cue, its sentences off the paragraph cue, its words off the sentence cue. It is a tree of cues rather than a line of them.\n\nThe flat one is for getting the words back exactly. The nested one is for getting back in at the level of the meaning, which the flat one cannot do.\n\nThe nested one also survives a missed word. In the flat one a missed word takes everything after it.",
+  createdAt: "2026-09-21T20:10:15.776Z",
+  updatedAt: "2026-09-21T20:10:47.000Z",
 } as const satisfies AllAboutAlanTopic

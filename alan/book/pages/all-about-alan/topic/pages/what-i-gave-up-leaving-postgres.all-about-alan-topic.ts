@@ -9,4 +9,6 @@ export const whatIGaveUpLeavingPostgres = {
   parents: ["all-about-alan-topic/why-i-keep-my-data-in-files"],
   settled:
     "I have not really given up anything so far, except the convenience of having things like indexes and caching already built.\n\nPostgres is ultimately built on files anyway, so I am effectively rebuilding a similar system with a different set of constraints.\n\nIn most cases performance has improved overall.\n\nGetting full version history from git by default has been really nice, and we have built an opt-out for cases that do not need it and move too fast.\n\nReusing the git content caches is also really nice.",
+  createdAt: "2026-08-28T01:56:28.895Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

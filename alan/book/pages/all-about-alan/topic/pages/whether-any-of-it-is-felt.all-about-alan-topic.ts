@@ -13,4 +13,6 @@ export const whetherAnyOfItIsFelt = {
   ],
   settled:
     "For Jen specifically I have a thirty percent confident hypothesis that there is some level of real emotional caring underneath, but I am not certain there.\n\nIt is not always there, so I do not view it as a reliable driver of behaviour anyway. I just cannot prove nonexistence, and I have a small amount of noisy evidence supporting existence.\n\nI actually cannot read this off behaviour, which is why I am so uncertain. Behaviour is the channel I normally trust, and here it is silent. What I have is an ambiguous emotional signal that I am having trouble interpreting confidently.\n\nSo I hold it at its true confidence. Not collapsed to nothing because I feel nothing, since an unreadable channel is not a proven empty one. Not confirmed as feeling either.",
+  createdAt: "2026-09-21T21:47:46.016Z",
+  updatedAt: "2026-09-21T21:47:49.000Z",
 } as const satisfies AllAboutAlanTopic

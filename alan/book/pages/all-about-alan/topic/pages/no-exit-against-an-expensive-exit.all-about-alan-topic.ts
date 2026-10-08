@@ -10,4 +10,6 @@ export const noExitAgainstAnExpensiveExit = {
   related: ["all-about-alan-topic/the-grade-for-something-i-cannot-leave"],
   settled:
     "Some have no way out inside the jurisdiction at all. Federal tax, the draft registry, Utah income tax while I live here. The only escape is a different jurisdiction, and for the registry not even that.\n\nOthers have a way out that is merely expensive. The property tax, where the children are schooled, the ties we have here. They feel inescapable because what it would cost is so large, but the exit is real.\n\nFrom the inside the two feel alike, which is why I keep them apart on purpose.\n\nWhat I do differs. With no exit there is nothing to plan and the work is watching. With an expensive one there is a ladder of options, and my job is deciding where on it to settle.",
+  createdAt: "2026-09-21T20:10:16.409Z",
+  updatedAt: "2026-09-21T20:10:27.000Z",
 } as const satisfies AllAboutAlanTopic

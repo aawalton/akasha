@@ -13,4 +13,6 @@ export const whichWayMyFocusIsWandering = {
   ],
   settled:
     "Wandering focus is the same symptom for both failures, so it has to be read by how the wandering feels.\n\nWandering by distraction means too little. My attention is skittering off to find input the level is not supplying. I add a knob: light up, music on, the game on.\n\nWandering by being too tired to attend means too much. I am overloaded and cannot hold it. I shed a knob: light down, a loop off.\n\nFocus coming back is the confirmation I am in band.\n\nThe game, ESO, is an attention filler. Running it stacks one more stream; dropping it sheds one. It is not there to keep me from idling. Some days I want to idle and it comes off.\n\nThe room light serves two control systems with opposite setpoints. Cutting a sensory drain wants it off. Lifting a sagging arousal wants it on. Which problem is live decides.\n\nI run all of this by hand because a nervous system that never habituates does not settle into a comfortable middle on its own.",
+  createdAt: "2026-09-21T21:41:29.627Z",
+  updatedAt: "2026-09-21T21:42:57.000Z",
 } as const satisfies AllAboutAlanTopic

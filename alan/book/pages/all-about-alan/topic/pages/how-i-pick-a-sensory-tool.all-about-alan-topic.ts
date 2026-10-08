@@ -9,4 +9,6 @@ export const howIPickASensoryTool = {
   parents: ["all-about-alan-topic/what-my-senses-cost-me"],
   settled:
     "A tool that matches the dose to the load beats one that forces on or off, even though working it takes something from me.\n\nI adjust a tool while it runs, on a live signal, whatever its cost shape: an AirPod part out, clothes broken loose, the blanket swapped mid-sleep.\n\nWhether it belongs on by default depends on which way the error is expensive. Where being under-protected costs me far more than being over-protected, the tool runs at full and I take relief downward by hand. The ear tips and the tight clothes both work that way.\n\nWhere the two errors cost about the same, or over-protection costs more, the tool correctly waits off until I reach for it. The weighted blanket is the case that showed me the rule has that edge.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:22:24.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const whatMakesAPersonExpensive = {
   ],
   settled:
     "A stranger and a fixed set of rules make it cheaper, but not cheap.\n\nFewer people, people I know well, quieter people and conflict-avoidant people all reduce the cost.\n\nIt is a complicated landscape and I am not sure it has a global minimum. Close can be fine where they do not drop their best behaviour, or where their natural behaviour is not as expensive.\n\nI have a hard time telling whether someone is unguarded.\n\nSo I only learn a person's cost by measuring it with experience, which is how I learn most things in my life.\n\nThe price is written in my nervous system, in how much of a stress response I have associated with them.\n\nBeing needed is generally a positive, because someone who needs me is less likely to be hurtful. A price jumps when someone stops needing me, employers and bosses in particular.\n\nA person's threshold goes up and down all the time, sometimes by several levels.\n\nLizzy is usually a two. That is a reading of my session tracking rather than something I said.",
+  createdAt: "2026-09-06T20:26:16.341Z",
+  updatedAt: "2026-09-22T18:11:00.000Z",
 } as const satisfies AllAboutAlanTopic

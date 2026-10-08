@@ -10,4 +10,6 @@ export const twoMapsOfTwoTerritories = {
   related: ["all-about-alan-topic/what-i-think-truth-is", "all-about-alan-topic/how-i-know-things"],
   settled:
     "One absolute truth is what every map approximates, and that holds for maps of the same territory.\n\nMy model of me and my model of typical people are maps of two different territories, so calling both valid denies nothing. Each one approaches the single truth of its own system.\n\nA reading that makes one of them the zero and the other the deviation collapses two systems into one frame, and that is exactly the collapse I refuse.\n\nWhen a normal reaction catches me out, the clash with my own model is only the flag saying look here. What I take away is information about that other system, read as itself.",
+  createdAt: "2026-09-21T20:20:05.751Z",
+  updatedAt: "2026-09-21T20:20:27.000Z",
 } as const satisfies AllAboutAlanTopic

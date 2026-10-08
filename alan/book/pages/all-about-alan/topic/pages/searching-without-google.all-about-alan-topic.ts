@@ -13,4 +13,6 @@ export const searchingWithoutGoogle = {
   ],
   settled:
     "Kagi, Perplexity and DuckDuckGo all exist today. Each carries reservations of its own and a cost to move to, and each one only swaps who I am asking.\n\nThe move I actually want is a model running on a machine in the house answering some of the questions instead. That is capability I own rather than another provider.\n\nIt is the same purchase that gets me out from under an AI subscription, so the one buy does both.\n\nWhich is why search is not its own piece of work. It rides on a decision I have already made for another reason.",
+  createdAt: "2026-09-21T20:26:53.091Z",
+  updatedAt: "2026-09-21T20:26:56.000Z",
 } as const satisfies AllAboutAlanTopic

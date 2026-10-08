@@ -10,4 +10,6 @@ export const theCheapestWayOutOfADependency = {
   related: ["all-about-alan-topic/my-information-diet"],
   settled:
     "Most of my ways out need something built, learned or bought. Panels on the roof. A machine in the house. A garden. A skill.\n\nStopping consuming needs none of that. Nothing to build, nothing to learn, no capital to commit. Just stop.\n\nSo it is the cheapest instance of the move I have, and the one that takes the least to begin.",
+  createdAt: "2026-09-21T20:28:36.986Z",
+  updatedAt: "2026-09-21T20:28:40.000Z",
 } as const satisfies AllAboutAlanTopic

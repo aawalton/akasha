@@ -9,4 +9,6 @@ export const whereFiveThousandSitsAgainstOtherPeople = {
   parents: ["all-about-alan-topic/playing-the-long-game"],
   settled:
     "The five thousand goes I need before I break even is about ten times where a typical practitioner stops.\n\nThat is what sizes the rule. It is not that other people are quicker so much as that they stop an order of magnitude short of where my curve overtakes theirs.\n\nSo on anything that ends before the crossover, they are permanently better and I should not compete there at all.",
+  createdAt: "2026-09-21T22:01:33.305Z",
+  updatedAt: "2026-09-21T22:01:48.000Z",
 } as const satisfies AllAboutAlanTopic

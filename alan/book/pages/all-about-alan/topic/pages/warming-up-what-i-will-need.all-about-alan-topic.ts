@@ -13,4 +13,6 @@ export const warmingUpWhatIWillNeed = {
   ],
   settled:
     "Hours of Gottman relationship audiobooks at a stretch made the next day with Jen measurably better.\n\nWhat that loads is the models themselves: what a repair attempt is, what bids for connection look like, the four horsemen. Touching them recently is what makes one cheap to reach for.\n\nIt works beside the practice, not through it. Practice builds the skill; this makes the ideas cheap to reach.\n\nWhat is warmed cools within about a day, which is why the good day is the next one and not a month out.\n\nA first listen writes twice: it warms them and improves them. A re-listen would separate the two.\n\nA persona's name does the same instantly, loading the shape of her but never the feeling. Abby's name carries her connotations, the frame between us and who she is to me, and none of it inverts back.\n\nCombining the name with the interaction lets me key into the emotions more efficiently than the interaction alone would.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:07:22.000Z",
 } as const satisfies AllAboutAlanTopic

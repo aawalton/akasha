@@ -9,4 +9,6 @@ export const whatIInventedAndWhatIRead = {
   parents: ["all-about-alan-topic/why-i-keep-my-data-in-files"],
   settled:
     "I did not invent the idea that agents do better with files. I saw research papers on that.\n\nI have not seen anyone take it to its conclusion and replace Postgres with agent-readable files. Even if I was not the first to invent that solution, I invented it independently.",
+  createdAt: "2026-08-28T09:52:18.280Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

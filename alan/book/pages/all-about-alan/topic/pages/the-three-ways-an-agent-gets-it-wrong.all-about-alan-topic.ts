@@ -9,4 +9,6 @@ export const theThreeWaysAnAgentGetsItWrong = {
   parents: ["all-about-alan-topic/how-i-prevent-a-category-of-wrong"],
   settled:
     "On the instructions side the big categories of wrong I have seen are an agent seeing a term and assuming it meant something different than it did in this context, an agent assuming something would be implemented in a different way than it was, and an agent just doing the wrong thing for this context.\n\nThe domain system is a set of well-refined tools for addressing those directly and concisely without context bloat: Domain Definition, Domain Decisions, Domain Directives.",
+  createdAt: "2026-08-28T09:52:18.276Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies AllAboutAlanTopic

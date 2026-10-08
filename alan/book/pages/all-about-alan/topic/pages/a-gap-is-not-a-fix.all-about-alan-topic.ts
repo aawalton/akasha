@@ -10,4 +10,6 @@ export const aGapIsNotAFix = {
   related: ["all-about-alan-topic/how-i-grade-an-organisation"],
   settled:
     "Where I already lean on something graded low, the question is getting out or swapping it.\n\nWhere I lean on nothing at all, there is nothing to mend, and the question is whether adding one is worth its cost.\n\nThe two do not go in the same queue and are not weighed the same way.\n\nThe umbrella and the long-term care cover are gaps. Almost everything else I have graded is the other kind.",
+  createdAt: "2026-09-21T20:07:06.925Z",
+  updatedAt: "2026-09-21T20:07:11.000Z",
 } as const satisfies AllAboutAlanTopic

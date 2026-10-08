@@ -13,4 +13,6 @@ export const holdingATrip = {
   ],
   settled:
     "A trip is a chain of responsibilities rather than one. The next link is always in front of me until I am on the plane, so the gate for a trip is that trip's own gate.\n\nThe next step is time based, and with no sense of time I do not trust myself to catch it until it is done.\n\nSo packing does not switch me into done mode. On 28 September 2026, the day before a trip, finishing the packing would not have done it.\n\nA departure is not parked. I defer or finesse it until it gets closer.\n\nI think I feel the weight of the whole trip, not just the next step. That day I knew I would have reduced autonomy for the next ten days.",
+  createdAt: "2026-09-28T19:29:06.407Z",
+  updatedAt: "2026-09-28T19:35:12.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -9,4 +9,6 @@ export const howIDecide = {
   parents: ["all-about-alan-topic/alan"],
   settled:
     "Most decisions around me look like they are made on what the person is pulled toward or away from. Mine are not.\n\nMine run on explicit reasoning over rule sets and ranked values, adjusted for what I have left to spend.\n\nWhat someone else registers as wanting a thing, I register as that thing scoring higher against the rules. The answer often matches and the machinery underneath is different.\n",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:00:52.000Z",
 } as const satisfies AllAboutAlanTopic

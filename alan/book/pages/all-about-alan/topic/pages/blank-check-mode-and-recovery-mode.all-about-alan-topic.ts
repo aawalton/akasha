@@ -18,4 +18,6 @@ export const blankCheckModeAndRecoveryMode = {
   ],
   settled:
     "I have lived at both ends of this trade, which is how I know the middle beats either one.\n\nBlank check mode was paying whatever was needed without counting the cost. I ran it for at least eighteen years, and it reached my employer as much as it reached my marriage. I left it because it broke me.\n\nNo fear of counting held me there. I did not realize not writing it was an option.\n\nI have been out of it for about two years, starting about six months before the firing. What started me counting was realizing the mode was a trauma response to being neglected as a child. The belief I put in its place is that my needs are just as important as the needs of others.\n\nEmployment only worked while I gave my employer one too, so switching out of the mode is part of what caused the firing. Likely it was insurance as well: paying made me too necessary to punish.\n\nRecovery mode was all surplus. I ran that for eighteen months and it almost broke the marriage. July 6, 2026 was my first day out of it.",
+  createdAt: "2026-09-06T20:00:41.438Z",
+  updatedAt: "2026-09-22T18:12:16.000Z",
 } as const satisfies AllAboutAlanTopic

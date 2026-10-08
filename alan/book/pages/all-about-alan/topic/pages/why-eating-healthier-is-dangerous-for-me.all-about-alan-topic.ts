@@ -10,4 +10,6 @@ export const whyEatingHealthierIsDangerousForMe = {
   related: ["all-about-alan-topic/the-rule-that-i-may-not-spend-myself"],
   settled:
     "My sensory aversions are weak. The real ones are conceptual. Thinking about what meat actually is makes me feel sick.\n\nThe worst of them is a restriction spiral. Under an eat-healthier frame every food is unhealthy to somebody, and the frame manufactures the aversion out of nothing.\n\nSo a naive belief in pure or healthy eating is actively dangerous for me rather than merely unhelpful. It runs straight at ARFID, the eating disorder my wiring already leans toward.\n\nAny change to how I eat has to be neutral or better in the present. It can never be a restriction, and it can never be the present sacrificed for a later self.",
+  createdAt: "2026-09-21T20:14:49.864Z",
+  updatedAt: "2026-09-21T21:46:55.000Z",
 } as const satisfies AllAboutAlanTopic

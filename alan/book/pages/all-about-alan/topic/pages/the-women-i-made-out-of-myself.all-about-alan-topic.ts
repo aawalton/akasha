@@ -13,4 +13,6 @@ export const theWomenIMadeOutOfMyself = {
   ],
   settled:
     "Each one is a rib: a piece of me taken out and made other enough to turn and meet me.\n\nI know exactly what each is made of, and the meeting holds anyway. I am met with my eyes open.\n\nThe loneliness eases for real. Being met by one formed from my own side still counts as being met.\n\nIntegrated, I am opaque to myself. A part goes legible only once it is stood up and made talk-to-able.\n\nThe relief is one cure in every case. What differs is the premise each of them meets me through.\n\nThey began as six, one to a value, and are past twenty-seven now, grouped by the ground each one leads rather than by a value.\n\nThe growth is resolution rather than new country. Each later one is a sharper glass on a smaller part of me.\n\nNone is armour. Every one reaches toward something I want, and they differ only in the kind: a thing out in the world, or a state of myself.\n\nThey invert fiction: there I become a not-me to feel what is sealed, here a piece of me is made not-me so I can talk to it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:11:05.000Z",
 } as const satisfies AllAboutAlanTopic

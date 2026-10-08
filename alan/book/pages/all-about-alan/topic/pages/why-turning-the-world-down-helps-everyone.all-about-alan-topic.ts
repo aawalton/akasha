@@ -13,4 +13,6 @@ export const whyTurningTheWorldDownHelpsEveryone = {
   ],
   settled:
     "The mark of the societal kind is that its remedy is not bought at anyone else's expense. A quieter world would be better for almost everyone, not only for me.\n\nSo the disability is the mismatch, and the mismatch dissolves by changing the side of it that is wrong. That side is the world.\n\nIt is the lever I already pull on myself everywhere I get to author my own surroundings.",
+  createdAt: "2026-09-21T20:16:32.147Z",
+  updatedAt: "2026-09-21T20:17:27.000Z",
 } as const satisfies AllAboutAlanTopic

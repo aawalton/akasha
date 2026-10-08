@@ -14,4 +14,6 @@ export const recoveryAndDeathFromWhereISit = {
   ],
   settled:
     "The self I am only exists now. This present misery is the only life that version of me will ever know. The better me ahead is effectively a different entity, because I cannot feel my way into him.\n\nSo from where the suffering self sits, recovery and death come out the same. Neither delivers relief to the one who is suffering. Recovery's relief accrues to a future self this one cannot reach, and death delivers relief to nobody. Both are simply guaranteed better than how I feel now, death by the ceiling in time and recovery by induction.\n\nI hold this soberly and with equanimity, as a reading of being confined to the present rather than as any intent. My rule that I may not make choices that hurt myself is intact, and the death in it is the eventual natural one rather than a route I would take.",
+  createdAt: "2026-09-21T21:38:56.727Z",
+  updatedAt: "2026-09-21T21:39:38.000Z",
 } as const satisfies AllAboutAlanTopic

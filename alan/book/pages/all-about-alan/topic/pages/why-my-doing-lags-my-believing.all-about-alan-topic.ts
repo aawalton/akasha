@@ -13,4 +13,6 @@ export const whyMyDoingLagsMyBelieving = {
   ],
   settled:
     "Understanding a thing fully is already being changed by it, so there is no will in the middle to fail.\n\nEither the understanding still has a hole in it, or the room it calls for is still going up.\n\nBoth at once is common, and sometimes the building is how the understanding finishes.\n\nA failure of will would mean knowing exactly how to cause the act, doing that, and the act not happening. That last part disproves one of the first two.\n\nThe second kind is time, never character.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

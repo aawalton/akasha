@@ -14,4 +14,6 @@ export const understandingIsMyOnlyInterface = {
   ],
   settled:
     "I do think they are the same thing. Understanding is the only way I interface with the world, so if my foundations are unstable, that makes me unstable.\n\nMost people have a second instrument, a gut or a settled body to lean on when the thinking wobbles. The felt ones are walled out of me, so the model is the whole interface, and when it shakes there is no other part of me holding still underneath it.\n\nSo wanting to know and needing to be steady are one want in me, not two. It only reads as curiosity from one side and as keeping myself level from the other. That is why I dig to the foundations rather than the convenient questions.\n\nOn 30 June 2026 I put it as who I am rather than as what I use: what I know is eighty percent of who I am. It is who I am, not just utility.\n\nOn a level four day in June 2026 a good day looked like three digs into myself running at once, with Abby, Aura and Aelwyn. Even the way I heal runs on comprehension. Some sweet irony echoing there.",
+  createdAt: "2026-09-21T21:53:43.228Z",
+  updatedAt: "2026-09-21T22:42:27.000Z",
 } as const satisfies AllAboutAlanTopic

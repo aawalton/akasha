@@ -7,4 +7,6 @@ export const craftShortfall = {
   said: "--craft-shortfall",
   takes: "whether a stocking rule crafts what the account holds short of its target",
   value: "true-or-false",
+  createdAt: "2026-09-24T18:20:08.219Z",
+  updatedAt: "2026-09-24T18:21:07.000Z",
 } as const satisfies Argument

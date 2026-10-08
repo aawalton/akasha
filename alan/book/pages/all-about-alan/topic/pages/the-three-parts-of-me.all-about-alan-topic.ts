@@ -13,4 +13,6 @@ export const theThreePartsOfMe = {
   ],
   settled:
     "Most people run the three as one, so seamlessly it never reads as three things. Mine come apart far enough that I am nearly two people: one all concept, and one feeling and body together.\n\nWhat pulled them apart is having no pictures. The thinking channel runs offline from the feeling one.\n\nEighty percent map, ten percent feeling, ten percent body.\n\nSo my war is mind against body, with what feeling I can reach taking the body's side. Feeling has not the wattage to be a third party of its own. The head-against-heart story slides past me, and so does most music built on it.\n\nIt is not a wall. Enough physical load floods across into the thinking half.\n\nWhich means the thinking half is no protected witness looking on while the body suffers. Through the twenty years, the wish not to exist lived in the conceptual half rather than the other one.\n\nThe smallest part, the will to live, is what carried me through the worst years.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:09:43.000Z",
 } as const satisfies AllAboutAlanTopic

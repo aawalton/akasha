@@ -13,4 +13,6 @@ export const whySettlingAQuestionSteadiesMe = {
   ],
   settled:
     "An open fundamental question never quiets down. It keeps asking at full volume until it is settled, like a shirt tag.\n\nSo settling one takes a standing demand off me, and enough of those lift my safety over time through the integral. I definitely feel more grounded when I have fewer fundamental open questions.\n\nThe calm is not tidiness. It is the big threats contained: life is a test, it is accounted for, God is there.\n\nFaith reaches me by that door and not the warm one. It probably has an impact. I cannot simulate the counterfactual, but I would be surprised if my safety were the same without the conceptual anchor of faith.\n\nA foundational question sits under many smaller ones, so settling it discharges every demand stacked on it. That is probably why I spent my first three years at BYU digging into the foundations of things, religion, maths, logic and philosophy. Most load comes off at the bottom, and the pull toward foundations is my nervous system reaching for that spot.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:47:53.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const whatAConflictIsMadeOf = {
   ],
   settled:
     "Searching for a compact account of a space, I rarely find the whole-space compression first. I find several partial ones. Each is genuinely compact over a subset, none covers the whole, and where they overlap they are incompatible. Those incompatibilities are the conflicts.\n\nEach partial model reads true on its own patch because on that patch it really is the most compressed account.\n\nPhysics at full scale is the clean case. Relativity and quantum mechanics each compress an enormous body of observation, each is true enough on its domain, and they cannot both be true at the base layer.\n\nA breakthrough is the single representation that covers the whole space and dissolves the incompatibility. Not a new patch, but a compression that subsumes the partial ones.\n\nThe physics conflict costs me no distress and my own do. A conflict only drives me while I am aware of it and it feels changeable. Physics' inconsistency is outside my control, so it is weather.",
+  createdAt: "2026-09-21T21:37:40.236Z",
+  updatedAt: "2026-09-21T21:37:43.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whatMakesAThingRealToMe = {
   ],
   settled:
     "Other people make a thing that is not in front of them real by feeling it in advance. I make it real by proving it.\n\nMaths has weight. If I can prove a thing with maths, it stays real for me.\n\nThat is why this trough always passes carries weight. It is bounded and provable: either the misery lifts or I die, and a life is finite, so the state cannot be permanent.\n\nRecovery is the other way round. My life has on average trended upward is induction, not proof, so it never reaches the weight a proof carries.\n\nSo the one belief that would carry me forward is exactly the one that resists proof.\n\nAnd a proof that it gets better still might not deliver relief, because relief is a thing felt in advance and I have no way to feel one.",
+  createdAt: "2026-09-21T20:04:06.042Z",
+  updatedAt: "2026-09-21T20:04:10.000Z",
 } as const satisfies AllAboutAlanTopic

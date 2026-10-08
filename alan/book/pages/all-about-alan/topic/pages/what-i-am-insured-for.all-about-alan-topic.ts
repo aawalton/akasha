@@ -13,4 +13,6 @@ export const whatIAmInsuredFor = {
   ],
   settled:
     "State Farm covers the house, the things in it and our liability on it. It grades D, and the lender requires it for as long as the mortgage runs.\n\nFour million of term life sits on me across two policies, payable to Jen and the household, sized for three children still at home. One is Banner Life. I do not remember the other carrier, or how the four million splits between them.\n\nWe carry no riders on valuables, because nothing we own runs past the household policy's limits.\n\nThe umbrella policy and the long-term care policy are gaps rather than decisions.\n\nNo disability cover, because there is no wage of mine left to replace. No renters cover, because we own the house.",
+  createdAt: "2026-09-21T20:04:52.750Z",
+  updatedAt: "2026-09-21T23:04:34.000Z",
 } as const satisfies AllAboutAlanTopic

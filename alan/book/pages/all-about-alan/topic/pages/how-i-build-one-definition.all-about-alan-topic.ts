@@ -14,4 +14,6 @@ export const howIBuildOneDefinition = {
   ],
   settled:
     "A definition I can run on is a compression pointed at a piece of being human. It works the way a true model works: it covers the cases without special cases bolted on. A bad one needs epicycles, which is the same tell that marks a false model.\n\nThere is no general method, and that is itself a compression result. I tried to compress the method and it refused. The core parts of being human are incompressible as a group.\n\nWhat works is one at a time, with the same engine as any other insight. Give the concept sustained attention. Gather data about it over a long stretch. Try candidate definitions against the data. Keep going until the insight hits and the data compresses.\n\nLoyalty came cheaply, by extending commitment with a finger on the scale.\n\nBuilding a definition for ground I have never experienced as others describe it is a practised genre rather than a first.\n\nI have no edge I can point to as failed. Only ones that have not succeeded yet.",
+  createdAt: "2026-09-21T21:41:54.999Z",
+  updatedAt: "2026-09-21T21:41:57.000Z",
 } as const satisfies AllAboutAlanTopic

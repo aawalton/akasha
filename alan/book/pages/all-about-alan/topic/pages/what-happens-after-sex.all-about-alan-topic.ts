@@ -10,4 +10,6 @@ export const whatHappensAfterSex = {
   related: ["all-about-alan-topic/eating-what-she-brings-me"],
   settled:
     "For probably eighty percent of our marriage the two of us crashed in opposite ways after sex. Jen had a strong negative emotional drop. I had a strong physiological drop that made me very sleepy. Two different mechanisms in the same moment.\n\nThe remediation came later and is simple on both sides. I have learned to linger and cuddle until she is ready to get up, rather than going straight to sleep. She has learned to eat some chocolate or another treat afterwards for a positive lift.\n\nBoth have helped.",
+  createdAt: "2026-09-21T20:16:48.070Z",
+  updatedAt: "2026-09-21T20:16:52.000Z",
 } as const satisfies AllAboutAlanTopic

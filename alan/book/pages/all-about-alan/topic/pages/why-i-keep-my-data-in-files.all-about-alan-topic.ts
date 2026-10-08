@@ -14,4 +14,6 @@ export const whyIKeepMyDataInFiles = {
   ],
   settled:
     "A database assumes you know exactly what you are looking for.\n\nA file system with grep assumes you do not know exactly what you are looking for, which is a much better fit for this case.\n\nI built a fully file-backed database from scratch and did a lift and shift of about three hundred tables out of Postgres into it.\n\nAll that context is now just a grep away.",
+  createdAt: "2026-08-28T01:56:28.894Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

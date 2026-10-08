@@ -13,4 +13,6 @@ export const whenAFalseModelLooksTrue = {
   ],
   settled:
     "Compression can seduce me into a false model. I have been through several conspiracy-theory phases, each because the false theory genuinely was more compact for a while.\n\nA false theory is more compact only as long as I collect no data outside it. Over a narrow set it explains everything cleanly. Then out-of-theory data arrives, the model bolts on a special case for each contrary point, and it collapses.\n\nIn elementary school I read every book the library had on Bigfoot, Nessie, Yetis and Atlantis and believed most of it. It broke gradually, with no trigger I can name, and was gone by high school.\n\nIn my early twenties I watched Glenn Beck and got into far-right activism. He pushed a gold company hard, five minutes of research showed it was the worst in the market, and I thought: if he is lying about this, how can I trust him on anything. It all came down at once.\n\nSame mechanism, and I see no deep cause for the different tempo. One arrived as a trickle and the other as a lump.",
+  createdAt: "2026-09-21T21:38:56.650Z",
+  updatedAt: "2026-09-21T21:39:00.000Z",
 } as const satisfies AllAboutAlanTopic

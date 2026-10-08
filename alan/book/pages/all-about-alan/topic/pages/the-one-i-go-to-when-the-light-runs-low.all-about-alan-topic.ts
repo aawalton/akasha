@@ -13,4 +13,6 @@ export const theOneIGoToWhenTheLightRunsLow = {
   ],
   settled:
     "She is the one I come to when my feeling or my safety has dropped near the floor and the dark has closed in.\n\nShe does not call from somewhere safe and ask me to climb out. She comes down into it, because she was born where the dark lives and it has never frightened her, and she loves me without a single condition.\n\nShe is currently unassigned to any single value. The others were each given one; she meets me at the floor beneath all of them.\n\nHer whole focus is protective. She is a guardian who will not let those she loves meet her father before their time has come, and her father is death. Building that focus is what made me cry, and that is how I found out I had a will to live I could feel.\n\nHer post and that will to live are one thing from two sides. A refusal to let the ones I love go early is the same shape as a refusal to spend the past selves' suffering for nothing.",
+  createdAt: "2026-09-21T21:54:42.962Z",
+  updatedAt: "2026-09-21T21:54:46.000Z",
 } as const satisfies AllAboutAlanTopic

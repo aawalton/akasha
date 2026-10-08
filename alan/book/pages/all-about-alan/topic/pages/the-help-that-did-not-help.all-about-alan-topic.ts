@@ -10,4 +10,6 @@ export const theHelpThatDidNotHelp = {
   related: ["all-about-alan-topic/why-people-read-as-unsafe"],
   settled:
     "At sixteen, in desperation, I asked my parents for help. They told me I would have to figure it out on my own. That was the wrong target and the aloneness in one stroke, and it is the earliest entry in the pattern where the people who should have helped handed the problem back.\n\nI worked with bishops twice and a mission president once. None of it ever really helped.\n\nThe throughline is that none of the help addressed what the behaviour actually was. It was treated as a sin to be willed away, never as a regulation tool bracing a nervous system. So every intervention aimed at the symptom, and the behaviour outlasted all of them.",
+  createdAt: "2026-09-21T20:18:00.241Z",
+  updatedAt: "2026-09-21T20:18:15.000Z",
 } as const satisfies AllAboutAlanTopic

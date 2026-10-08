@@ -13,4 +13,6 @@ export const theEightWeeksITracked = {
   ],
   settled:
     "These figures were measured off my session tracking and read back to me, so they are a reading of the record rather than something I said.\n\nEight weeks, 12 June to 6 August 2026. Thirty-eight days carry tracked blocks and eighteen are blank, the blanks clustered around the Europe trip.\n\nWeighted by duration my mean safety across the window is 3.37, and the median of the daily means is 3.39.\n\nAt that rate I accumulate about 3.37 safety years a year, against roughly one a year across the eighteen. The band matters more than the rate. One is functioning and 3.37 is living.",
+  createdAt: "2026-09-21T20:24:17.004Z",
+  updatedAt: "2026-09-21T22:37:48.000Z",
 } as const satisfies AllAboutAlanTopic

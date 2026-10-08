@@ -10,4 +10,6 @@ export const myReligionIsTruth = {
   related: ["all-about-alan-topic/my-faith", "all-about-alan-topic/what-i-take-in"],
   settled:
     "My religion is truth, and if there is any truth in heaven, earth, or hell, it belongs to me.\n\nThe allegiance is to truth itself rather than to truth as a way of getting something else.\n\nNo source is excluded and no subject is off limits. Truth found in hell is still truth, and still mine.\n\nPerception and compression are my best current understanding of how to move in that direction. Taking in widely keeps the set honest, and compactness is what picks the model.\n\nThe word current is doing work there. The method is a draft like everything else, and swapping coherence for compactness is the proof that even the load-bearing pieces move.",
+  createdAt: "2026-09-21T20:04:39.175Z",
+  updatedAt: "2026-09-21T20:05:16.000Z",
 } as const satisfies AllAboutAlanTopic

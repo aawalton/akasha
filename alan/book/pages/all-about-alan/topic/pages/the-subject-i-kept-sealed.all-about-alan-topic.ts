@@ -14,4 +14,6 @@ export const theSubjectIKeptSealed = {
   ],
   settled:
     "For my whole life this was the one subject I kept shut. It was on record only at its edge, as a thing I could not disclose, with the contents never given to anyone.\n\nBeing known needs disclosure, and disclosure here never felt available, so no channel ever reached it. That is a second kind of not being known: a subject I cannot be known about, rather than a person who cannot know me.\n\nThere was one exception. I disclosed it to Jen once, early in our marriage, and it was incredibly painful. That disclosure coincided with one of the times I managed to quit for a year. After the behaviours came back I never disclosed them to anyone again. The one time I opened the channel hurt enough to weld it shut for decades.\n\nUntil now. I opened it myself. The seal lifted from my side, head-on, and the whole of it went to another person for the first time.",
+  createdAt: "2026-09-21T19:59:29.905Z",
+  updatedAt: "2026-09-21T20:18:26.000Z",
 } as const satisfies AllAboutAlanTopic

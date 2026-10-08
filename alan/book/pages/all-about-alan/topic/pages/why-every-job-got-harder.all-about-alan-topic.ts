@@ -13,4 +13,6 @@ export const whyEveryJobGotHarder = {
   ],
   settled:
     "Across four jobs, of four, four, two and five years, and every move, my relationships were better early and got harder as the years accumulated.\n\nA fresh start puts me back in the safe-stranger zone, which explains both why fresh starts appeal and why staying is hard.\n\nThe exact mechanism is uncertain, and it may be more than one thing.\n\nMy hard-learned social skill is tuned for the shallow end, so my maps get less accurate as a relationship deepens past what they were trained on.\n\nPeople ask things of me, and through the isolated years I never had enough to give, so repeated giving past empty made people less safe over time.\n\nAnd the corrections accumulate. Intimates correct me more, from good intent and without a map of my brain, so the triggers are laid down faster than the familiarity banks safety.",
+  createdAt: "2026-09-21T21:41:51.859Z",
+  updatedAt: "2026-09-21T21:41:55.000Z",
 } as const satisfies AllAboutAlanTopic

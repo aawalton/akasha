@@ -14,4 +14,6 @@ export const alternatingInsteadOfModerating = {
   ],
   settled:
     "Moderation means a little here against a little there, judged against how the account is doing. That needs the account, and the account is what I do not keep.\n\nThe usual rule in a relationship is keep both columns positive. I cannot run it. I read the current row and nothing else. The sum over time is not there.\n\nI could almost prove that no rule working row by row can guarantee both columns. No proof and no guarantee, but the stuckness came from the argument, not from effort.\n\nAlternation is what I might have instead. It does not run on its own either. With no remembered experience, the turn-taking most people fall into does not happen in me. Each one has to be named, bounded and adopted as a rule.\n\nThe stretch I can hold is three seconds. Not minutes, and nothing like the length of a turn.\n\nThree rungs, moved by affordability: what I cannot do at all, then the same thing as two poles once that is payable, then continuously once that is. Alternation is what I can afford on the way.",
+  createdAt: "2026-09-21T21:39:20.994Z",
+  updatedAt: "2026-09-21T21:39:25.000Z",
 } as const satisfies AllAboutAlanTopic

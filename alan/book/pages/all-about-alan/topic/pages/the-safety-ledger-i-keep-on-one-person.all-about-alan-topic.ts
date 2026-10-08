@@ -13,4 +13,6 @@ export const theSafetyLedgerIKeepOnOnePerson = {
   ],
   settled:
     "My physiology estimator does learn person-specific signals, over long periods.\n\nWhat it does not do is learn that male physiology is safe in general. The general prior holds its low setting. What accumulates, slowly and one person at a time, is a set of safe exceptions: particular people whose body my system has learned to read as safe in spite of the prior.\n\nThe ledger is signed and goes both ways rather than being a one-way credit. It shifts in either direction depending on how often interaction with that person goes badly. Enough negative results and a person's own ledger goes negative, the familiarity itself turning unsafe.\n\nSo what tenure buys is an early advantage rather than a permanent one. This is the slow felt-safety lever that lifts my safety bar, resolved down to individual people, and it is only the credit column of two.",
+  createdAt: "2026-09-21T20:20:45.649Z",
+  updatedAt: "2026-09-21T20:21:11.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -14,4 +14,6 @@ export const whetherADischargeEmptiesTheWeight = {
   ],
   settled:
     "Forty percent that it drains: a cheap story or the breathing leaves the weight durably lower. That is my best guess.\n\nThirty percent that it relieves without draining. The pressure eases and then refills.\n\nTwenty percent that it does nothing to the weight at all. Ten percent that it works some way I have not thought of.\n\nNone of this rests on a measurement. I have no instrument for the weight, so it is a spread over what could be true rather than a reading.\n\nThe top two carry seventy percent between them and may not be tellable apart, since both feel like the pressure easing. So the spread may never collapse, and I am at peace leaving it open.\n\nIf it drains, something is carrying across time that my affectively flat past is not supposed to allow. I record the tension rather than resolve it.",
+  createdAt: "2026-09-21T19:59:21.556Z",
+  updatedAt: "2026-09-21T19:59:24.000Z",
 } as const satisfies AllAboutAlanTopic

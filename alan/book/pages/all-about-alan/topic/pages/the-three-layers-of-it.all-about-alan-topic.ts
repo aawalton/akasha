@@ -13,4 +13,6 @@ export const theThreeLayersOfIt = {
   ],
   settled:
     "There is only one behaviour here. It is multi-formed and complex, and my feelings toward it are complex.\n\nIt sorts into three separable layers. The attraction and arousal, tied to femininity. The pleasure and enjoyment in it. And the behaviour of acting on it through pornography and masturbation specifically.\n\nMy attraction to femininity predates the arousal layer. The sexual arousal side did not kick in until puberty, and the attraction was there before it.\n\nThe zero-tolerance rule conflates the three. Only the third is in question. The faith rule and the health goal both aim at that layer and only that layer, and the first two are kept either way.",
+  createdAt: "2026-09-21T20:19:00.623Z",
+  updatedAt: "2026-09-21T20:19:03.000Z",
 } as const satisfies AllAboutAlanTopic

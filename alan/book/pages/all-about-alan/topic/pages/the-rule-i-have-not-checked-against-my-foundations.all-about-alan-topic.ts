@@ -14,4 +14,6 @@ export const theRuleIHaveNotCheckedAgainstMyFoundations = {
   ],
   settled:
     "I intend to run a faith-warrants check on my zero-tolerance rule about pornography and masturbation: would I hold this if I had not been raised in it, against my actual foundations rather than taken as given. I suspect the zero tolerance is a leak from mainstream Christianity rather than anything the Book of Mormon warrants. That is a decision to run the check, not a verdict. I have not run it.\n\nEven if I conclude the rule is not grounded, breaking it stays hard, because a separate belief that is grounded sits over the top of it: stay with the body of the church. The check decides only the first of the two. So there is dissonance in my life regardless, and it is the standing shape of two grounded beliefs in tension rather than an error to fix.\n\nThis is the first rule in my belief set I have identified as a possible inherited leak. The move itself is not new. I run the same operation on my faith as a whole, and I hold truth above source everywhere else.",
+  createdAt: "2026-09-21T21:44:51.509Z",
+  updatedAt: "2026-09-21T21:44:55.000Z",
 } as const satisfies AllAboutAlanTopic

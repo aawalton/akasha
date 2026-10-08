@@ -9,4 +9,6 @@ export const whereTheChainComesApart = {
   parents: ["all-about-alan-topic/arousal-times-safety"],
   settled:
     "The law leaves room for movement between arousal, sexual arousal, attraction, connection and the act itself.\n\nNone of them carries the next with it. Each is its own term, and any of them can move while the rest stay where they are.",
+  createdAt: "2026-09-21T21:56:07.884Z",
+  updatedAt: "2026-09-21T21:56:12.000Z",
 } as const satisfies AllAboutAlanTopic

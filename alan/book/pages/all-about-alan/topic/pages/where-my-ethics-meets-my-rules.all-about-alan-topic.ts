@@ -10,4 +10,6 @@ export const whereMyEthicsMeetsMyRules = {
   related: ["all-about-alan-topic/what-i-let-myself-take-on"],
   settled:
     "The framework prices harm to me and weighs it. My own rule forbids it outright.\n\nAbove the floor the pressure runs the other way, and I put it at full strength: if I can make choices in the present that are neutral or positive for present me and are strongly positive for future me, I would view it as highly unethical not to.\n\nSo the rule is a floor with a duty over it rather than a single direction. Below, nothing trades. Above, declining the free future gain is itself the wrong.\n\nBoth my ethics and my sense of self landed on identity as closure over a branching structure, arrived at separately.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:02:05.000Z",
 } as const satisfies AllAboutAlanTopic

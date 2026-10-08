@@ -14,4 +14,6 @@ export const whatHappensWhenSomethingGetsCheap = {
   ],
   settled:
     "Docs became cheap, so I built the domain system and the pages system.\n\nChecks became cheap, so I built the graph system, the checks system and the deploy system.",
+  createdAt: "2026-08-28T02:14:40.395Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

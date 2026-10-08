@@ -14,4 +14,6 @@ export const makingOnlyHealsFromAboveTheLine = {
   ],
   settled:
     "The same line governs making that governs every other alarm I carry below thought. Exposure to the charged act wears the response down only from sufficient safety. Below the line it does the opposite.\n\nLevel four is the anchor, the rung where I can be vulnerable and where being perceived, singing, dancing and open making come into reach. Below four the feelings the exposure has to engage and disconfirm are not even available, so there is nothing to extinguish against.\n\nSo the condition on reclaiming a creative domain is the one my social re-tests run under. Raise the centre first, and let the act of making land below the line so it disconfirms rather than wounds me again.\n\nWhite-knuckled exposure from too low a line is a breach I inflict on myself, and it reinforces the scar instead of wearing it down.",
+  createdAt: "2026-09-21T20:14:04.166Z",
+  updatedAt: "2026-09-21T22:59:41.000Z",
 } as const satisfies AllAboutAlanTopic

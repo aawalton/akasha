@@ -7,4 +7,6 @@ export const device = {
   said: "--device",
   takes: "install an ios app on the phone its page names rather than hand it to Apple",
   value: "none",
+  createdAt: "2026-09-12T09:44:51.081Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const end = {
   takes: "when the event closes, as a timestamp or as a date alone",
   value: "text",
   placeholder: "iso",
+  createdAt: "2026-09-12T08:59:24.955Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

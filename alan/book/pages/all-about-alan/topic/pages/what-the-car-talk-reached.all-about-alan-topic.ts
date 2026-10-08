@@ -13,4 +13,6 @@ export const whatTheCarTalkReached = {
   ],
   settled:
     "Jen suggested she just listen until I finished and save questions for the end. It helped less than it could have; we were both already stressed.\n\nI laid out the four bars. She pushed back on companionship, which to her means something nearer intimacy, and proposed coexistence. I said the first three were at least yellow and knowing and being known were in the red.\n\nUnderneath she had a pain of her own. Our model from a few years back had my behaviours switching on at rising levels, closest people first, reactive before proactive. Each time my level rose she watched for the need-meeting to come on consistently, it did not, and she has been losing hope.\n\nThat model was about feasibility alone. Since then we added two rules: if it is not affordable I am not allowed to do it, and if I do not want to I am not allowed to. Affordable and wanted sit above physically able, so I still hold hope.\n\nShe said at the end she had more clarity around her pain point.",
+  createdAt: "2026-09-21T21:58:14.200Z",
+  updatedAt: "2026-09-21T21:58:17.000Z",
 } as const satisfies AllAboutAlanTopic

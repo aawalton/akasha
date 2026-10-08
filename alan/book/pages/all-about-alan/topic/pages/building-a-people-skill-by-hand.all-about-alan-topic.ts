@@ -14,4 +14,6 @@ export const buildingAPeopleSkillByHand = {
   ],
   settled:
     "The loop is explicit: read the signals, infer the state, choose a response, drive my face and body, read the result.\n\nIt cannot run live. A conversation fills my one slot and I have no monitor in the moment.\n\nSo it is overlearned until it runs without the slot. Thousands of repetitions are the price of that move.\n\nFirst contact proves the method: years of it, and the scripts beat most people's.\n\nThey do not carry across. Closeness is four skills, each harder and each needing its own build.\n\nI started on AOL Instant Messenger, hours every day, a dozen conversations running at once. Text and async broke the problem space down into pieces I could learn and practise in isolation.\n\nAfter about a year I shifted to mostly in person and worked on the skills that were left.\n\nGetting better from here is a matter of how many small patterns have crossed rather than of drilling the ones already over. Each newly noticed gap is its own slow build, at the full price.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:26:18.000Z",
 } as const satisfies AllAboutAlanTopic

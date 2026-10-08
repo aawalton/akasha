@@ -13,4 +13,6 @@ export const whatWeCannotTalkAbout = {
   ],
   settled:
     "The set of subjects I care about and the set that are safe with her barely meet, and the gap is forced rather than unlucky.\n\nThe way I care is first-principles invention at a frontier far outside her ground, so caring about a thing manufactures exactly the misalignment her threat system fires on.\n\nThe ones I care about and feel stress raising: religion, sex, money, maths, politics, girls real or fictional, and myself.\n\nThat list is only what the rule throws up. The rule is anything she does not understand, is not already aligned with, or we have disagreed about before.\n\nDanger inside it runs by how settled the gap is. A disagreement already on the record threatens her more than a subject she simply does not follow.\n\nThere is one overlap. A conceptual subject she raises that she has already aligned with and that sits at my frontier is safe and interesting for both. It is narrow, she does not spend much time pushing her own understanding, so it refills rarely.",
+  createdAt: "2026-09-21T20:13:03.702Z",
+  updatedAt: "2026-09-21T20:13:27.000Z",
 } as const satisfies AllAboutAlanTopic

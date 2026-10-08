@@ -7,4 +7,6 @@ export const alphaMatting = {
   said: "--alpha-matting",
   takes: "refine the matte's edges, which costs more",
   value: "none",
+  createdAt: "2026-09-12T09:58:56.194Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

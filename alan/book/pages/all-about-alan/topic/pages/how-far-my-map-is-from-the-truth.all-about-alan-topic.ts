@@ -11,4 +11,6 @@ export const howFarMyMapIsFromTheTruth = {
   related: ["all-about-alan-topic/what-i-think-truth-is"],
   settled:
     "Net compression of my conceptual map is indexed to my map. It is not the same thing as absolute truth, and I do not run the two together.\n\nMy map is my best understanding of absolute truth at the moment. I believe the two are the same in the limit, but that limit is infinitely far away.\n\nSo there are two claims here rather than a contradiction. The working test is the one I can actually operate. The absolute is the thing the map converges toward and never arrives at.\n\nImproving myself is what moves the map along that line: each later map a net more compressed account than the one before it.",
+  createdAt: "2026-09-21T20:27:45.035Z",
+  updatedAt: "2026-09-21T20:28:22.000Z",
 } as const satisfies AllAboutAlanTopic

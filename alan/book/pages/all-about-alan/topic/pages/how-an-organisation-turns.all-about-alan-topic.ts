@@ -9,4 +9,6 @@ export const howAnOrganisationTurns = {
   parents: ["all-about-alan-topic/the-thing-i-am-guarding-against"],
   settled:
     "Three stages, and each one binds people in further so the next can take more.\n\nGood to its users. It builds real value: a better product, a better price, better service, fewer ads. People get attached.\n\nGood to the middlemen. With the users attached, the value gets turned toward advertisers, suppliers, sellers and third parties. The experience gets worse and people put up with it, because leaving now costs them something.\n\nGood to itself. With the middlemen attached too and nowhere better to go, it takes from both sides at once.\n\nNothing in that needs a platform. It needs people who depend on it for something they need, a cost of leaving that lets the service slide without losing them, and pressure to turn that dependence into money.\n\nThat describes most large organisations right now.",
+  createdAt: "2026-09-21T20:29:57.987Z",
+  updatedAt: "2026-09-21T20:30:01.000Z",
 } as const satisfies AllAboutAlanTopic

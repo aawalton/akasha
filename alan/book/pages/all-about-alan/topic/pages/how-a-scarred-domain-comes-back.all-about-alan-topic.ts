@@ -14,4 +14,6 @@ export const howAScarredDomainComesBack = {
   ],
   settled:
     "A scarred domain comes back when my safety level is high enough that I naturally want through the scar. If I drop too low I have to stop again, and each domain switches on and off at its own threshold.\n\nSafety rises first, then the want crosses under its own power, which is the sign the price is in range. Only doing the painful thing because I want to and can afford to counts.\n\nI have done it in four areas already: ESO, coding, AI storytelling, image generation. Each once had scars so painful I had to quit it outright. I now do each almost daily. Coding switched on when my level got high enough rather than wearing down gradually. I think the others will come when I am ready.\n\nGritting through repeats is no engine of mine. Repetition turns nothing down in me, and a pass forced from below the line reinforces the scar rather than wearing it.\n\nThe judges are conditioning rather than beliefs, so only the physiological moves them. Funded passage is the one extinction path that works.",
+  createdAt: "2026-09-21T21:56:47.637Z",
+  updatedAt: "2026-09-22T17:13:32.000Z",
 } as const satisfies AllAboutAlanTopic

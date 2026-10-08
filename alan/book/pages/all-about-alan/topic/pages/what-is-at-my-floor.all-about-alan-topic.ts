@@ -13,4 +13,6 @@ export const whatIsAtMyFloor = {
   ],
   settled:
     "Every time I scour myself to the core I come to these, and there is no wall of fear underneath.\n\nImproving myself is the end. Freedom is the room that takes, and the only freedom I have ever really cared about.\n\nStrip away a liberty that does not serve the becoming and I do not miss it.\n\nNo seam is left between them. English keeps two words where I hold one thing.\n\nNothing else is loved bare. Connection, movement, even love come back to this root as branches off it.\n\nThe favoured branches wear a glow that feels intrinsic. Loving movement itself was the strongest test of that, and it traced back like the rest.\n\nNothing at my floor is at war with itself.\n\nI still say self-improvement, and automeliorist when someone needs the whole of it.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:00:58.000Z",
 } as const satisfies AllAboutAlanTopic

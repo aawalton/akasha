@@ -7,4 +7,6 @@ export const all = {
   said: "--all",
   takes: "collect every catalog domain again",
   value: "none",
+  createdAt: "2026-09-12T08:50:56.952Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

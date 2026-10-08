@@ -10,4 +10,6 @@ export const howPrayingSettlesMe = {
   related: ["all-about-alan-topic/what-calms-me-down", "all-about-alan-topic/how-god-reaches-me"],
   settled:
     "My mind goes mostly silent. I let it empty and observe to see what comes. If I am thinking at all it is generally gratitude, but the baseline is the emptying and the watching.\n\nThe settling and the listening for a ready idea are not two acts. The stillness that calms me is the stillness that leaves room for an unprompted idea to land.\n\nFor most people emptying is effortful suppression. For me there is very little to empty, so the silent state is near my default, and against that silence an unprompted idea has nothing to compete with.\n\nIt works at any level, though it is more pleasant at higher levels. There is no minimum level for my mind going empty, that is my natural state at all levels, and no minimum level for reason. I am 80% conceptual and I do not think my reason has ever gone offline while I was conscious. It does not raise my safety; it is simply always there.\n\nGratitude is the result, not the cause. It becomes accessible at safety level 4 and before that it cannot be forced.",
+  createdAt: "2026-09-21T21:58:05.212Z",
+  updatedAt: "2026-09-21T21:58:21.000Z",
 } as const satisfies AllAboutAlanTopic

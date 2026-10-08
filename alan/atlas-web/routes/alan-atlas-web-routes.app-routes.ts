@@ -32,4 +32,6 @@ export const alanAtlasWebRoutes = {
     "route/atlas-trip",
     "route/atlas-no-such-page",
   ],
+  createdAt: "2026-09-10T15:17:40.931Z",
+  updatedAt: "2026-09-27T15:38:05.000Z",
 } as const satisfies AppRoutes

@@ -13,4 +13,6 @@ export const whoKeepsTheCarRunning = {
   ],
   settled:
     "State Farm insures it at D, and the law will not let me drive without that. The trade is a profit-pressured middleman between me and a rare expensive event, which is the same shape as health insurance.\n\nEdgemont Auto repairs it at B. That B is the shop as I find it now. A sale, a succession or the owner retiring would end it with no warning, and I have picked no fallback.\n\nCostco Gas fuels it at B, strong on price and on how it treats a customer, and replaceable with moderate bother.\n\nWe carry no roadside cover of any kind. It is cheap insurance against being stranded and I am simply not buying it.",
+  createdAt: "2026-09-21T20:14:38.757Z",
+  updatedAt: "2026-09-21T20:15:00.000Z",
 } as const satisfies AllAboutAlanTopic

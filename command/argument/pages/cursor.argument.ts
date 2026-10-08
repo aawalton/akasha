@@ -8,4 +8,6 @@ export const cursor = {
   takes: "the cursor a previous answer stated, reaching the page before it",
   value: "text",
   placeholder: "b64",
+  createdAt: "2026-09-12T09:22:12.170Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

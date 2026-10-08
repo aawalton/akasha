@@ -8,4 +8,6 @@ export const artist = {
   takes: "the artist the candidates are held to, matched without regard to case",
   value: "text",
   placeholder: "name",
+  createdAt: "2026-09-12T08:33:12.725Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

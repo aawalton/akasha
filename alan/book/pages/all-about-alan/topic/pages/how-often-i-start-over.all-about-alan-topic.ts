@@ -10,4 +10,6 @@ export const howOftenIStartOver = {
   related: ["all-about-alan-topic/what-my-record-gives-me-back"],
   settled:
     "I think about this as an idle game. Every time I rebuild a foundation layer I am prestiging: starting over for permanent gains.\n\nAt the beginning of the year I prestiged about once a month.\n\nLast month it was about once a week.\n\nFor the last week it has been four times a day.\n\nI think I have moved at least six million lines in restructuring in just the past few days.",
+  createdAt: "2026-08-28T02:14:40.397Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

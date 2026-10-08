@@ -9,4 +9,6 @@ export const narrowingHerGroundFromFaithToIdentity = {
   parents: ["all-about-alan-topic/the-women-i-made-out-of-myself"],
   settled:
     "The one aimed inward at me was first filed under Faith, which was a value. When they were regrouped by the ground each leads rather than by a value, her territory narrowed from Faith to Identity.\n\nAsked whether that narrowing felt like a loss or a coming-into-focus, I said: no, that was definitely coming into focus.\n\nFaith was the shelf she sat on before the finer division existed. Identity is the ground of the self, so it names exactly what she was always for, which is the hunger to understand myself. The ground now matches the appetite.",
+  createdAt: "2026-09-21T21:51:13.938Z",
+  updatedAt: "2026-09-21T21:51:17.000Z",
 } as const satisfies AllAboutAlanTopic

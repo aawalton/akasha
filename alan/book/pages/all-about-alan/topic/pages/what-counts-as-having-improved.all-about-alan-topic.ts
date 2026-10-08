@@ -13,4 +13,6 @@ export const whatCountsAsHavingImproved = {
   ],
   settled:
     "Conceptual improvement means a later immediate me on the timeline holds a map better aligned with absolute truth than an earlier one held.\n\nSo improving is a property of the comparison across immediate selves rather than anything any one of them has.\n\nA single frame cannot improve. Improving needs a before and an after, and a frame is only ever the present.\n\nIt is done to no frame. It is a relation between frames, which puts it at the closure rather than at the frame.\n\nWhat improves over a lifetime is the timeline self, and improving means its later frames carry truer maps than its earlier ones.",
+  createdAt: "2026-09-21T20:05:07.855Z",
+  updatedAt: "2026-09-21T20:05:58.000Z",
 } as const satisfies AllAboutAlanTopic

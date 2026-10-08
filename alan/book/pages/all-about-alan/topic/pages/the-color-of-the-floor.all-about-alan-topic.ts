@@ -9,4 +9,6 @@ export const theColorOfTheFloor = {
   parents: ["all-about-alan-topic/what-a-model-of-mine-is-made-of"],
   settled:
     "It usually doesn't matter if I can't remember what color the floor is in a room. That kind of failure isn't very central to truth, so there isn't much loss there.\n\nThat is the bound on the thin half. The particulars I drop are mostly not the sort of thing a true model rests on, which is why the gap does not read as a general blindness.",
+  createdAt: "2026-09-21T22:03:09.575Z",
+  updatedAt: "2026-09-21T22:03:13.000Z",
 } as const satisfies AllAboutAlanTopic

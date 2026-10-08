@@ -10,4 +10,6 @@ export const whatTheDayAfterShowed = {
   related: ["all-about-alan-topic/the-two-nights-in-the-record"],
   settled:
     "These figures were read out of my session tracking during the interview and put to me there, so they are a reading of the record rather than something I said.\n\nBoth nights were entered from level four.\n\nAfter the Alan-focused night my safety sat at one for nine hours through Monday morning and was back to four by Tuesday mid-morning, on the order of thirty-nine hours.\n\nAfter the Jen-focused night it went down to two through Wednesday and was back to four on Wednesday afternoon, on the order of twenty-two hours.\n\nOn that reading the hard night costs roughly twice what the other one does, and neither night came near the sub-zero line.",
+  createdAt: "2026-09-21T22:45:39.042Z",
+  updatedAt: "2026-09-21T22:45:52.000Z",
 } as const satisfies AllAboutAlanTopic

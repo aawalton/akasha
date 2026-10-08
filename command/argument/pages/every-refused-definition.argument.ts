@@ -7,4 +7,6 @@ export const everyRefusedDefinition = {
   said: "--all",
   takes: "every definition the grammar refuses rather than the first `--first`",
   value: "none",
+  createdAt: "2026-09-25T17:43:43.961Z",
+  updatedAt: "2026-09-25T17:43:57.000Z",
 } as const satisfies Argument

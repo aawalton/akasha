@@ -13,4 +13,6 @@ export const theRepeatingIDoToSettle = {
   ],
   settled:
     "Walking is the main one, lifelong: while eating, while talking, instead of driving. It does not read as stimming from outside.\n\nTapping a foot carries the sitting, rocking and bouncing where neither works, flapping only when I am really excited.\n\nSome finger drumming, hair twirling, skin picking, nail biting, chewing and humming as well, none of them heavy.\n\nNone of it wears out, because the input never costs less than it did.\n\nCounting and ordering stand in for the picturing others ground themselves with. Picture a calm place collapses on aphantasia; numbers and structure work instead.\n\nMusic, a familiar game, new books by familiar authors and coding settle me as much as the body ones, and the two kinds often run at once.\n\nA plain loop of music fails, because the ADHD side wants something new. Daily mixes are the engineered shape: a familiar genre as the anchor, new tracks inside it.\n\nCoding is both a soother and a stim. That job is separate from the interest it also carries.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:38:53.000Z",
 } as const satisfies AllAboutAlanTopic

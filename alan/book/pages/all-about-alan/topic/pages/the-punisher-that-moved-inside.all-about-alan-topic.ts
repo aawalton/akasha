@@ -13,4 +13,6 @@ export const thePunisherThatMovedInside = {
   ],
   settled:
     "I remember breaking a rule causing me severe physical pain, even for accidents. The pain I remember first was not anyone hitting me. I felt it with nobody in the room causing it.\n\nSo whatever first taught it, I ended up the one delivering it: automatically, even for an accident, with no cause outside me. The guard moved inside, which is why insight at the top cannot reach the reflex.\n\nI was also spanked as a child, which in many places now would be called physical abuse for exactly these reasons. I may well have learned the automatic pain response from actual pain.\n\nI name it what it would be called now rather than staying inside loyalty. My parents were good parents who struggled, and refusing to lie about the evidence does not condemn them.\n\nThe spanking is one member of a larger category, along with being socially punished at home for doing the wrong things, to the standard extent for my generation.",
+  createdAt: "2026-09-21T20:22:50.732Z",
+  updatedAt: "2026-09-21T20:22:53.000Z",
 } as const satisfies AllAboutAlanTopic

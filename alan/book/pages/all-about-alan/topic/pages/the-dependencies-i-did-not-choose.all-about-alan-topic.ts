@@ -13,4 +13,6 @@ export const theDependenciesIDidNotChoose = {
   ],
   settled:
     "I never picked the company that services my mortgage. Whoever wrote the loan sold the paper on, and the buyer became my counterparty with no part of the choice mine.\n\nAny product whose relationship can be sold to a third party behind my back works the same way.\n\nMy grade on one of those records the concern rather than naming anything I decided.\n\nThe leaning runs the other way there too. They need my payments more than I need them in particular, and a swap of servicer is routine.",
+  createdAt: "2026-09-21T20:02:26.830Z",
+  updatedAt: "2026-09-21T20:02:55.000Z",
 } as const satisfies AllAboutAlanTopic

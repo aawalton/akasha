@@ -9,4 +9,6 @@ export const gettingConnectionAnotherWay = {
   parents: ["all-about-alan-topic/sex"],
   settled:
     "Arousal is not sexual arousal, attraction is not connection, and sexual arousal is not having sex.\n\nOther kinds of arousal can feed the arousal side of the multiplier, so that term does not have to be sexual.\n\nThat leaves room to move. The connection I am starving for does not have to ride the sexual vehicle at all, and there are routes to it that never run through sex.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:07:20.000Z",
 } as const satisfies AllAboutAlanTopic

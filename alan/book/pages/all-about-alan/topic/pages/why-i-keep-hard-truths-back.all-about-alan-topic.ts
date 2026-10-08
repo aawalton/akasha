@@ -13,4 +13,6 @@ export const whyIKeepHardTruthsBack = {
   ],
   settled:
     "I default to openness, but I have learned to be more closed. Expressing the truth is not the deficit. The throttle is.\n\nI have a hard time recognising when a social white lie is preferable to the truth. Telling when a truth wounds needs a simulation of the other person, and that is the part that does not run.\n\nMy body blames whatever I was doing when the pain arrived, not whatever caused it.\n\nSo a truth that hurt punishes telling, even where the honest reckoning says the withholding was the fault.\n\nI run a blanket rule rather than judging case by case: I have learned through pain to mostly not be honest when the honesty would hurt the other person.\n\nThe truths she needed and did not get cost nothing in the moment, so nothing corrects the rule. I am certain that error class happens, and those failures are counterfactual and invisible to me.\n\nEvery visible failure tightens it either way. The release comes slowly, with a feeling of safety over time, never from an argument.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T21:51:49.000Z",
 } as const satisfies AllAboutAlanTopic

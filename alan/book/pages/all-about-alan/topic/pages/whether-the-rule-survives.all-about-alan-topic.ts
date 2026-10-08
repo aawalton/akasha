@@ -9,4 +9,6 @@ export const whetherTheRuleSurvives = {
   parents: ["all-about-alan-topic/sex"],
   settled:
     "The check is decided and I have not run it. It targets the behaviour alone, not the attraction and not the enjoyment.\n\nSome of the zero tolerance could be a leak from mainstream Christianity rather than something grounded in the Book of Mormon. If it is, that would make it the first rule in my belief-set like that.\n\nUngrounding the rule still would not settle it, because a separate belief sits over the top: stay with the body of the church, wrong in the small things but never in the big ones.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T20:20:07.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const whatLetsAJudgementIn = {
   ],
   settled:
     "Grad school is the proof. People graded my work constantly and none of it left a mark, because I held the exit and I kept the authority. I was the school's judge rather than its supplicant.\n\nChildhood had neither. A child cannot walk out and cannot overrule a teacher. Later, stack-ranking took my exit hostage through my livelihood: fail the ranking, lose the income, no way out.\n\nSo survival stakes have a precise shape, a judge I can neither escape nor deny. Where that holds, one judgement installs as a judge inside me for good. Where it does not, the judgement lands and leaves, however harsh.\n\nMaking does attract that. I have more scars the more subjective an area is, and making is where the standard is least readable. What is accidental is only which modality I happened to do: a modality I never did in a context that was not safe carries no scar.\n\nThe earliest hits I can see are art class and a writing class in one semester at about twelve, and I expect older ground beneath them.",
+  createdAt: "2026-09-21T20:30:24.696Z",
+  updatedAt: "2026-09-22T16:03:37.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -13,4 +13,6 @@ export const leavingAThingUndoneOnPurpose = {
   ],
   settled:
     "Do not do what you cannot afford reads as a rule on action. It is equally a rule on what I am allowed to expect of myself.\n\nLow down, it authorises leaving an item above my line undone even while the task sits right there in the queue.\n\nThe whole cut is in the scoring. That item scores as correctly declined rather than as falling behind, because the rule had already allowed it.\n\nSo my inboxes and lists can pile up without the pile reading as failure. What was above my line today was never mine to do today.\n\nThat re-scoring is what keeps a low day from making a lower one. The pile is classified out of the indictment before it can become a second hit on top of the first.\n\nIt is the same machine as the alibi, aimed elsewhere. One works on a bad outcome and this one on a bad absence of one, and both block the same conversion.",
+  createdAt: "2026-09-21T20:20:22.776Z",
+  updatedAt: "2026-09-21T20:20:41.000Z",
 } as const satisfies AllAboutAlanTopic

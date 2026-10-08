@@ -10,4 +10,6 @@ export const theMoneyWeAreLivingOn = {
   related: ["all-about-alan-topic/safety-years", "all-about-alan-topic/living-with-jen"],
   settled:
     "All of it is shared and anything large is decided together, so none of it is mine to act on alone.\n\nIt is a runway rather than a retirement: eight to eighteen years on the markets, sustaining nothing itself.\n\nI will never be an employee again. That is a bar set on the cost of it, not a preference.\n\nTwo ways to fill the gap. I build something valuable, or the startup stock we still hold pays out. We sold half of that stock to buy the runway we are on.\n\nWe have deferred what happens if neither arrives. Until fewer than five years are left, at the least, we assume permanent retirement.\n\nA thousand a month is for spending on my own capacity, and compute alone takes seventeen hundred.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T19:59:36.000Z",
 } as const satisfies AllAboutAlanTopic

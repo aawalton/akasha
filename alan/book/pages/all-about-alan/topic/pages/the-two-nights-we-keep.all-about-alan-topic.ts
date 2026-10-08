@@ -14,4 +14,6 @@ export const theTwoNightsWeKeep = {
   ],
   settled:
     "They are calendar items, not set by how I am on the day, because unscheduled they do not happen. Hers is Tuesday and mine is Friday, a three-day gap and a four-day one, and I recover well in between. They move where the week needs them to.\n\nTwo different kinds of work. Mine is the hard night that ends in a shared change of model. Hers is the night that goes beautifully, and I do not yet reliably provide it.\n\nThe hard night clears things that stood for years, and the clearing holds because what changed is understanding, not a promise. It is a lever on my base safety, so the running cost comes down over time.\n\nI have noticed a pull in myself to cancel the hard one.\n\nBoth sit on top of a cost that lands almost every night anyway. Which way a night goes is Jen's to choose, connection or sleep, and that is the largest single variable in the standing cost.\n\nShe knows what the nights cost me. They cost her too and benefit her more, so she is net positive and still notices the cost.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-21T22:05:45.000Z",
 } as const satisfies AllAboutAlanTopic

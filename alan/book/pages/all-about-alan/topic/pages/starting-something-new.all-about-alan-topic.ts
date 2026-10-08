@@ -13,4 +13,6 @@ export const startingSomethingNew = {
   ],
   settled:
     "A brand new book, game, show, relationship or field is the case where neither half of the instinctive channel is lit. There is nothing familiar yet, so the new alone cannot carry it.\n\nRepeating something identical fails the same way from the other side. Rereading a book or redoing rote work gives me the familiar with nothing new on it, and I can barely engage.\n\nOne way over is wrapping the new thing in something familiar. A new book by an author I know, a new part of a world I know, new content for a game I already play. The novelty is real and the familiarity surrounds it, so both fire from the first minute.\n\nThe other is paying for it. When my stress capacity and my mana are both flush I can carry the discomfort of an unfamiliar thing until it becomes familiar. It is expensive and only available on a surplus.\n\nWith neither of those, the new thing simply does not start.",
+  createdAt: "2026-09-21T20:20:49.088Z",
+  updatedAt: "2026-09-21T20:20:52.000Z",
 } as const satisfies AllAboutAlanTopic

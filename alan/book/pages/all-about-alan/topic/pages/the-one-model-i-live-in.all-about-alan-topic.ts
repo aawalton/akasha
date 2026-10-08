@@ -14,4 +14,6 @@ export const theOneModelILiveIn = {
   ],
   settled:
     "I keep one model of the world and it exists only in the present. Not in the past and not in the future.\n\nThere is no archive of what it used to say and no second copy to run forward. It is overwritten in place and always current.\n\nAphantasia shuts the senses and the feeling. This is the same fact one layer up: the conceptual layer has no offline store either.\n\nSo the past reaches the present by compression alone, folded into the structure of the model. What I judged true is in the shape of it and the rest is gone. The model is what is left of my whole history of judging things true.\n\nLearning is not filing something new beside what is already there. It is the one model being revised in place.",
+  createdAt: "2026-09-21T20:18:07.594Z",
+  updatedAt: "2026-09-21T20:18:10.000Z",
 } as const satisfies AllAboutAlanTopic

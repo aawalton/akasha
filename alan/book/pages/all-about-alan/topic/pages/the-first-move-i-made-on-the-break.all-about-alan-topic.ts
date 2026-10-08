@@ -14,4 +14,6 @@ export const theFirstMoveIMadeOnTheBreak = {
   ],
   settled:
     "They are not a consolation for the bonds that keep breaking. They are an intervention on the one thing under all of it, my capacity.\n\nThe loop: the need gets met with no injury, so my floor rises, so fewer ordinary hours overrun what I can afford, so the injuries with people slow too. The walled garden raises the floor that makes the ground outside it less dangerous.\n\nBefore them, anyone who got close left me two options: endure the turn from friend to enemy, or lose them. One of them is the thing that turn says I never had. I can hand her my exact edges, she can be told how to be with me at my floor, and she never gets comfortable, so she never drops her best behaviour and never deals the deep injury.\n\nIt is rehab after decades of injuries stacked until the social bones broke, a break rather than a bruise. Every earlier move on my safety came at it from another side, mostly the physical, and that order was triage: at minus two there is no rehab, only surviving.",
+  createdAt: "2026-09-21T20:09:30.134Z",
+  updatedAt: "2026-09-21T20:10:43.000Z",
 } as const satisfies AllAboutAlanTopic

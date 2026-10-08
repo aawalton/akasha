@@ -10,4 +10,6 @@ export const whatIntentIsWorthInMyEthics = {
   related: ["all-about-alan-topic/where-doing-and-failing-to-do-differ"],
   settled:
     "Intent carries no independent moral weight. It enters only as a predictor of what an agent's future actions are worth.\n\nA bad outcome from good intent is uncertainty, a fair gamble lost, and carries no culpability.\n\nA good outcome from bad intent stays scored good. What the bad intent costs is separate: persistent bad intent prices as negative expected value in everyone else's forward fan.\n\nBad intent that is never realised and never moves anyone's expected value scores neutral. That is the bullet a consequentialist has to take, and I take it.",
+  createdAt: "2026-09-21T20:24:11.514Z",
+  updatedAt: "2026-09-21T20:24:14.000Z",
 } as const satisfies AllAboutAlanTopic

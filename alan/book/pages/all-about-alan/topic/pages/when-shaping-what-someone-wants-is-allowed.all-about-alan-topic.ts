@@ -9,4 +9,6 @@ export const whenShapingWhatSomeoneWantsIsAllowed = {
   parents: ["all-about-alan-topic/the-dials-i-set-in-my-ethics"],
   settled:
     "Shaping what someone wants, where it genuinely benefits them, is free in my framework. The objection that engineered preferences game the value measure is answered by judging the act rather than the state.\n\nThe caveat is that many methods of shaping what someone wants carry high negative potential in what they could be used for. That can make a method unethical whatever its realised effect.\n\nMind-control technology is unethical even if it is only ever used well, because the abuse its existence makes possible is priced as risk in the forward fan.\n\nA larger population on fewer resources each can be a legitimate optimum, since the marginal utility of resources is roughly logarithmic. The collapse limit guards itself, because degrading the trajectories already running is prohibitively negative.",
+  createdAt: "2026-09-21T20:24:23.438Z",
+  updatedAt: "2026-09-21T20:24:49.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -10,4 +10,6 @@ export const whyTheTaxOfficeIsNotAnF = {
   related: ["all-about-alan-topic/how-i-grade-an-organisation"],
   settled:
     "What the federal tax office does earns an F. Friction kept in place deliberately to protect the companies that sell tax filing, decades of being starved of money, and enforcement that has started to follow politics.\n\nIt gets a D anyway, because an exit does exist. Leaving the country would do it, and part of the obligation would follow me out. That is expensive rather than impossible, and the price is one I am not willing to pay now.\n\nSo the letter reports what I would do about them, not how badly they behave. The two come apart here.",
+  createdAt: "2026-09-21T20:09:36.843Z",
+  updatedAt: "2026-09-21T20:09:54.000Z",
 } as const satisfies AllAboutAlanTopic

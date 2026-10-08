@@ -11,4 +11,6 @@ export const theWitnessesAndTheDictation = {
   related: ["all-about-alan-topic/why-i-hold-it-like-quantum-mechanics"],
   settled:
     "The composition of the Book of Mormon is well documented and attested by multiple first-hand witnesses. What carries weight for me is that all of them maintained their testimony as true even when they fell into direct opposition against Joseph Smith and the church. A witness who keeps affirming after he has become an enemy has no incentive left to lie. Few historical events have documented evidence this strong.\n\nJoseph Smith dictated it orally over roughly ninety days, not consecutive but without large gaps. Three facts in the scribes' record anchor me. He never went back and revised his words. He often stopped mid-sentence and later picked up mid-sentence without asking where he had left off. And he was profoundly ignorant of the context he was dictating: he had to spell out unfamiliar words, and he once asked Emma whether there were walls around Jerusalem.",
+  createdAt: "2026-09-21T21:50:27.440Z",
+  updatedAt: "2026-09-21T21:50:30.000Z",
 } as const satisfies AllAboutAlanTopic

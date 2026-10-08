@@ -13,4 +13,6 @@ export const whenICannotPredictSomeone = {
   ],
   settled:
     "The third estimator does not read a threat at all. It reads my own inability to predict.\n\nA mismatch between someone's physiology and their gender identity is a threat signal to me, and not because of anything in the content of the mismatch. It is that I cannot predict or understand how they will behave. The variance itself scores as danger.\n\nSo my score drops by two different routes. Either the physiology estimator returns a confident prediction and the prediction points somewhere bad, or there is no confident prediction to be had. One is a bad answer and the other is no answer.\n\nThis is the childhood setting showing through unchanged. People punish what they do not understand. I was the illegible one who got punished, and now, reading someone else, what I cannot model is what I fear.",
+  createdAt: "2026-09-21T20:20:09.640Z",
+  updatedAt: "2026-09-21T20:20:18.000Z",
 } as const satisfies AllAboutAlanTopic

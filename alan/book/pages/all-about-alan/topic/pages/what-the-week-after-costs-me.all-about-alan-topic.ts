@@ -10,4 +10,6 @@ export const whatTheWeekAfterCostsMe = {
   related: ["all-about-alan-topic/sleep"],
   settled:
     "An exposure that lasts minutes can suppress my safety for a week. Most of what it costs me is not the exposure itself. It is paid out across the vigilance period afterwards.\n\nMy default protocol is passive waiting plus sleep.\n\nWhat speeds the decay up is concrete evidence to my own mind that the source is contained. Deleting the app that delivered the exposure. Blocking the source. A ritual that closes the channel.",
+  createdAt: "2026-09-21T20:14:57.598Z",
+  updatedAt: "2026-09-21T20:15:47.000Z",
 } as const satisfies AllAboutAlanTopic

@@ -9,4 +9,6 @@ export const howMyServicesDecideToDeploy = {
   parents: ["all-about-alan-topic/the-graph-i-built-to-run-my-checks"],
   settled:
     "Whether a service needs to deploy is also a predicate over the graph, so the graph is solving my deploy throughput problem too.\n\nI broke GitHub's team plan as an individual in January.\n\nI ended up building an entire custom CI system on Kubernetes from scratch.\n\nI am now growing past that to continuous deploy based on graph changes.",
+  createdAt: "2026-08-28T02:14:40.394Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

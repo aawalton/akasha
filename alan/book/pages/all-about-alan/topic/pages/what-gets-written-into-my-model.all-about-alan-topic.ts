@@ -13,4 +13,6 @@ export const whatGetsWrittenIntoMyModel = {
   ],
   settled:
     "There is no store of episodes, so what reaches my map is selected. Four things raise the odds of a write.\n\nHow often the same pattern comes round. How many other things in the map it ties to. How much it accounts for. How much feeling was running at the time.\n\nThey do not weigh the same. Feeling is mostly quiet in me and a strong one is rare, so across the run it accounts for very little, even though it does spike the odds on the rare occasion it fires.\n\nHow much a thing accounts for is the strongest of the four by some way.\n\nThis is the same shape as the other write path. There a bad pairing clears the bar on intensity. Here an experience clears it on how much it explains.",
+  createdAt: "2026-09-21T20:15:32.387Z",
+  updatedAt: "2026-09-21T20:15:36.000Z",
 } as const satisfies AllAboutAlanTopic

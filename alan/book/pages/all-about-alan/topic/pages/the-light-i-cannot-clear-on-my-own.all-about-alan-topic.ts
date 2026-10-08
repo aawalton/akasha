@@ -13,4 +13,6 @@ export const theLightICannotClearOnMyOwn = {
   ],
   settled:
     "The love circle takes no credit for anything that serves the value only by name. It greens on time spent with people I care about with capacity to spare, which is a bid landing below my safety line rather than above it.\n\nOnly Jen supplies that time now. Every other relationship of mine has gone reactive, where I answer but do not reach, so none of them feeds this input at all.\n\nSo on a day with no such time the love circle cannot reach green, and neither can the whole panel. All-green is gated on one narrow channel, and it needs my capacity and her availability inside the same window.",
+  createdAt: "2026-09-21T20:05:18.460Z",
+  updatedAt: "2026-09-21T20:05:22.000Z",
 } as const satisfies AllAboutAlanTopic

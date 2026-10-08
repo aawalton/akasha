@@ -7,4 +7,6 @@ export const draft = {
   said: "--draft",
   takes: "keep the edits the change answers rather than landing them",
   value: "none",
+  createdAt: "2026-09-19T15:36:11.644Z",
+  updatedAt: "2026-09-19T15:36:29.000Z",
 } as const satisfies Argument

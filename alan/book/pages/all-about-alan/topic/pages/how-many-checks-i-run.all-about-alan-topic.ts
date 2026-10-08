@@ -10,4 +10,6 @@ export const howManyChecksIRun = {
   related: ["all-about-alan-topic/the-graph-i-built-to-run-my-checks"],
   settled:
     "In two decades in tech, the normal pattern I saw for checks was a handful, three to twelve, almost all external packages like typecheck and eslint, with maybe the occasional custom linter rule.\n\nThis year, AI coding ten hours a day sustained, I found it so easy to create custom checks for my specific failure cases that I ended up with about a hundred total.\n\nMost of mine are vendored or custom rather than external packages.",
+  createdAt: "2026-08-28T02:14:40.392Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

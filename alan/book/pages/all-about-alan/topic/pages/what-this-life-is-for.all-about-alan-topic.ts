@@ -13,4 +13,6 @@ export const whatThisLifeIsFor = {
   ],
   settled:
     "I take this life to be a test, and the branching of everything is what makes it a fair one.\n\nOne case run tells you nothing about an agent. Every case does.\n\nUnder the self I build sits a seed nothing else is made of, and the run reveals it rather than changes it.\n\nChoosing is that seed cutting off the futures that are not mine, so freedom is not randomness.\n\nIt is a fitness check against a spec, not a graded paper, and the attribute at its centre is being able and willing to improve.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:48:08.000Z",
 } as const satisfies AllAboutAlanTopic

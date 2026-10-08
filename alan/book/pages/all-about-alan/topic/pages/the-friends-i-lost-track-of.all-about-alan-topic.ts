@@ -13,4 +13,6 @@ export const theFriendsILostTrackOf = {
   ],
   settled:
     "I had a great many friends in elementary school. I remember inviting thirty children to a birthday party.\n\nIn middle school I was down to half a dozen or so. I went on a road trip for the first semester of high school, came back, and had one friend left, David Eggerstsen.\n\nI still do not really understand why.\n\nFriendship is the most expressive and least checkable thing there is. Other people's reactions are the one schedule I can never self-check my way to safe. It contracted hardest of all, and a cost with no readable cause is the signature of the thing.",
+  createdAt: "2026-09-21T20:25:14.220Z",
+  updatedAt: "2026-09-22T16:07:32.000Z",
 } as const satisfies AllAboutAlanTopic

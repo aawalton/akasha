@@ -10,4 +10,6 @@ export const thePropertyTaxIKeepPaying = {
   related: ["all-about-alan-topic/no-exit-against-an-expensive-exit"],
   settled:
     "It runs for as long as we own the house, and the assessment comes out of a method I cannot see into, with an appeal shaped to discourage me.\n\nIt is the clearest example I have of something that feels compulsory and is not.\n\nFour ways out, in order of what they cost. Pay it, which is what I do. Use the homestead exemption or an age-based deferral when I qualify. Take a smaller house. Move counties.\n\nNone of them is urgent where we are now. The last two would cost me the children's schooling, the people here and the garden, which is much more than the tax is.",
+  createdAt: "2026-09-21T20:10:34.906Z",
+  updatedAt: "2026-09-21T20:12:25.000Z",
 } as const satisfies AllAboutAlanTopic

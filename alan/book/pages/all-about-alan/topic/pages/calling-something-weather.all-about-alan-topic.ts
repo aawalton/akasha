@@ -13,4 +13,6 @@ export const callingSomethingWeather = {
   ],
   settled:
     "An unresolved conflict pulls at full strength forever, because nothing fades. This is the one thing that switches it off.\n\nDeciding it is weather does nothing. The map has to actually move, which happens offline on evidence like any other change of mind.\n\nWhen it does move, the pull does not damp. It goes.\n\nWhat can stay behind is dislike, which registers that a thing is bad and asks nothing of me.\n\nPhysics being inconsistent with itself is weather. So, since May, is how broken the world is.",
+  createdAt: "2026-09-03T03:39:26.949Z",
+  updatedAt: "2026-09-15T15:47:51.000Z",
 } as const satisfies AllAboutAlanTopic

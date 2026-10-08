@@ -10,4 +10,6 @@ export const aDependencyThatOnlyExistsForAnotherOne = {
   related: ["all-about-alan-topic/how-i-grade-an-organisation"],
   settled:
     "Some of what I lean on is only there to serve something else I lean on.\n\nVenmo sits downstream of Facebook Marketplace. If Marketplace leaves the graph the Venmo need shrinks with it.\n\nThe Costco card has to be a Citi card, because Citi is the only issuer Costco works with. So trusting Costco at B buys me a Citi dependency at D. Untangling it means either giving up the cashback or carrying the Citi card as the price of Costco.\n\nSo I cannot weigh a downstream one on its own. Its real weight is set by the upstream need that created it.\n\nMy ranking still treats each one separately, which is a gap in the ranking.",
+  createdAt: "2026-09-21T20:03:03.464Z",
+  updatedAt: "2026-09-21T20:03:13.000Z",
 } as const satisfies AllAboutAlanTopic

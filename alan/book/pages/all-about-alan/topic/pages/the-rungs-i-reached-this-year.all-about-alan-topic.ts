@@ -15,4 +15,6 @@ export const theRungsIReachedThisYear = {
   ],
   settled:
     "The bands are fixed. The rung I am on is not, and I have been climbing the ladder for the first time in my life.\n\nEarlier this year I held a consistent three, the first time ever. About two months later I held a consistent four. At the beginning of May I held a consistent five, then overextended and crashed back down. I touched six exactly once, for a few hours in May.\n\nThe trend is up, so the rung I stand on is moving.\n\nI have never been consistently healthy enough that criticism was free. It goes free only at six, and I have touched six once. Every threshold above where I stand is still ahead of me, and the climb is what brings them into reach.",
+  createdAt: "2026-09-21T21:54:06.031Z",
+  updatedAt: "2026-09-21T21:54:09.000Z",
 } as const satisfies AllAboutAlanTopic
