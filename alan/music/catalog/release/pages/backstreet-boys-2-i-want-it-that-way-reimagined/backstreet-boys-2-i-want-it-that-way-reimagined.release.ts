@@ -19,4 +19,6 @@ export const backstreetBoys2IWantItThatWayReimagined = {
       externalLink: "https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.273Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

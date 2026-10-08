@@ -19,4 +19,6 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTenia = {
     },
   ],
   title: 'Sto agnosto na \'rtho (Apo to "Psihra ki Anapoda 2"/Tragoudi apo tin Tenia)',
+  createdAt: "2026-09-03T13:17:30.282Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

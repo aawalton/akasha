@@ -12,4 +12,6 @@ export const sethTippetts = {
   relationshipInterest: 3,
   relationshipLinkedinUrl: "https://www.linkedin.com/in/seth-tippetts",
   relationshipPhone: "+18016040592",
+  createdAt: "2026-04-22T12:39:34.018Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

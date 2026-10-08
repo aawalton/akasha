@@ -19,4 +19,6 @@ export const backstreetBoys2Millennium20 = {
       externalLink: "https://open.spotify.com/album/3SF8AL4ixgmeeqYg7iMTfW",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.276Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

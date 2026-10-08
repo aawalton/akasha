@@ -19,4 +19,6 @@ export const billyJoelPianoManLegacyEdition = {
       externalLink: "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.278Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

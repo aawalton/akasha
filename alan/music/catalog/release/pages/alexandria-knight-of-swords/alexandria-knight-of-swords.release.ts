@@ -20,4 +20,6 @@ export const alexandriaKnightOfSwords = {
     },
   ],
   title: "Knight of Swords",
+  createdAt: "2026-09-16T13:49:10.872Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

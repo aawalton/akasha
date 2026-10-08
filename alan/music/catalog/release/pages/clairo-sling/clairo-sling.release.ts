@@ -19,4 +19,6 @@ export const clairoSling = {
       externalLink: "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-15T16:34:44.000Z",
 } as const satisfies Release

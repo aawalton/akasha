@@ -6,4 +6,6 @@ export const robHennefer = {
   slug: "rob-hennefer",
   title: "Rob Hennefer",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/robhennefer",
+  createdAt: "2026-04-22T12:39:34.019Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

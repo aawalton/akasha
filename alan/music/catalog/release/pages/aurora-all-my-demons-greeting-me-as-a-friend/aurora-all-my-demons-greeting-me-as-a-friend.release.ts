@@ -20,4 +20,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriend = {
     },
   ],
   title: "All My Demons Greeting Me As A Friend",
+  createdAt: "2026-09-18T20:31:52.552Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

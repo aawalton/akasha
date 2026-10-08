@@ -20,4 +20,6 @@ export const alexandriaTheFool = {
     },
   ],
   title: "The Fool",
+  createdAt: "2026-09-16T13:49:11.036Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

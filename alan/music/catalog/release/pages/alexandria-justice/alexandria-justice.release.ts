@@ -20,4 +20,6 @@ export const alexandriaJustice = {
     },
   ],
   title: "Justice",
+  createdAt: "2026-09-16T13:49:10.951Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

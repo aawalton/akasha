@@ -20,4 +20,6 @@ export const auroraInAMinuteLiveFromTheStudioVersion = {
     },
   ],
   title: "IN A MINUTE (LIVE FROM THE STUDIO VERSION)",
+  createdAt: "2026-09-18T20:31:52.636Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

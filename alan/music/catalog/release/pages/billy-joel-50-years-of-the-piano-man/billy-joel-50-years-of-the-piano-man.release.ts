@@ -19,4 +19,6 @@ export const billyJoel50YearsOfThePianoMan = {
       externalLink: "https://open.spotify.com/album/4nFLLh5qSlp2z2FuLpVERX",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.261Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

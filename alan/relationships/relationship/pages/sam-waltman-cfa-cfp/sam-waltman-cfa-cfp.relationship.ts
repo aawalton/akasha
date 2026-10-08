@@ -6,4 +6,6 @@ export const samWaltmanCfaCfp = {
   slug: "sam-waltman-cfa-cfp",
   title: "Sam Waltman, Cfa, Cfp®",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/sam-waltman-cfa-cfp%C2%AE-55b953",
+  createdAt: "2026-04-22T12:39:34.019Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

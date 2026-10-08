@@ -19,4 +19,6 @@ export const auroraThroughTheEyesOfAChildFromAdolescence = {
     },
   ],
   title: "Through the Eyes of a Child (From Adolescence)",
+  createdAt: "2026-09-03T13:17:30.286Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

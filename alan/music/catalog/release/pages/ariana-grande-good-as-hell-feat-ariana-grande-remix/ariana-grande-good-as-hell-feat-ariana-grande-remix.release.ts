@@ -20,4 +20,6 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemix = {
     },
   ],
   title: "Good as Hell (feat. Ariana Grande) [Remix]",
+  createdAt: "2026-09-03T13:17:30.271Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

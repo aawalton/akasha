@@ -19,4 +19,6 @@ export const celticWoman2YouRaiseMeUp20thAnniversary = {
     },
   ],
   title: "You Raise Me Up (20th Anniversary)",
+  createdAt: "2026-09-03T13:17:30.290Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const clairoFlamingHotCheetos = {
       externalLink: "https://open.spotify.com/album/7r4hiK0374MEgTiD5KRDMS",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.270Z",
+  updatedAt: "2026-09-15T16:34:44.000Z",
 } as const satisfies Release

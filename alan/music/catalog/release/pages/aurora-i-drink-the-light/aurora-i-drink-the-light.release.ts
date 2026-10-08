@@ -20,4 +20,6 @@ export const auroraIDrinkTheLight = {
     },
   ],
   title: "I DRINK THE LIGHT",
+  createdAt: "2026-09-18T20:31:52.878Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

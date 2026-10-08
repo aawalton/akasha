@@ -19,4 +19,6 @@ export const clairoHeaven = {
       externalLink: "https://open.spotify.com/album/26tFSM2HfVCB0a4OLVxU4f",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.272Z",
+  updatedAt: "2026-09-15T16:34:44.000Z",
 } as const satisfies Release

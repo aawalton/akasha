@@ -19,4 +19,6 @@ export const backstreetBoys2ThisIsUs = {
       externalLink: "https://open.spotify.com/album/08wSk6XJ7365lO47E1278L",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.286Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

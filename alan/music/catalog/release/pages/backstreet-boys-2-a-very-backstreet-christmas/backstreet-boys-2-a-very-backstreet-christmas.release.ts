@@ -19,4 +19,6 @@ export const backstreetBoys2AVeryBackstreetChristmas = {
       externalLink: "https://open.spotify.com/album/0DmM20iJ1NjdQSxGs6kCGt",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.261Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

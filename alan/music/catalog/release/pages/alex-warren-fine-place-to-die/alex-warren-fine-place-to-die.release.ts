@@ -20,4 +20,6 @@ export const alexWarrenFinePlaceToDie = {
     },
   ],
   title: "FINE PLACE TO DIE",
+  createdAt: "2026-09-15T15:09:36.680Z",
+  updatedAt: "2026-09-15T16:33:53.000Z",
 } as const satisfies Release

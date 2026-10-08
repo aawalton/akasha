@@ -19,4 +19,6 @@ export const backstreetBoys2LetItBeMeBrennanHeartRemix = {
       externalLink: "https://open.spotify.com/album/66amYgzKWEUvBkZHN7sIkf",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

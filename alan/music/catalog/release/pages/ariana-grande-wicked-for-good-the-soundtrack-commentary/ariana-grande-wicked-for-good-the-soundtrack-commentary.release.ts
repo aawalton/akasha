@@ -20,4 +20,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentary = {
     },
   ],
   title: "Wicked: For Good – The Soundtrack (Commentary)",
+  createdAt: "2026-09-15T20:32:05.837Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

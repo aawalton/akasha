@@ -10,4 +10,6 @@ export const deposit20260630CartMilkGarbageBagsForJenAtCostco = {
   relationshipDepositRelationship: "relationship/jennifer-walton",
   relationshipDepositSize: "small",
   relationshipDepositValue: "value/love",
+  createdAt: "2026-07-01T11:42:07.635Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies RelationshipDeposit

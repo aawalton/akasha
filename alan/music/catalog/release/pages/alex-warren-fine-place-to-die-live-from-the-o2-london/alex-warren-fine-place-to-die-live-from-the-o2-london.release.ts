@@ -20,4 +20,6 @@ export const alexWarrenFinePlaceToDieLiveFromTheO2London = {
     },
   ],
   title: "FINE PLACE TO DIE (LIVE FROM THE O2 LONDON)",
+  createdAt: "2026-09-15T15:09:36.539Z",
+  updatedAt: "2026-09-15T16:33:53.000Z",
 } as const satisfies Release

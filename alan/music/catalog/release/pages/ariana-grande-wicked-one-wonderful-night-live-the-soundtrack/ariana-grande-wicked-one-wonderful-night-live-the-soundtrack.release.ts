@@ -21,4 +21,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrack = {
     },
   ],
   title: "Wicked: One Wonderful Night (Live) – The Soundtrack",
+  createdAt: "2026-09-15T20:32:06.658Z",
+  updatedAt: "2026-09-21T20:05:41.000Z",
 } as const satisfies Release

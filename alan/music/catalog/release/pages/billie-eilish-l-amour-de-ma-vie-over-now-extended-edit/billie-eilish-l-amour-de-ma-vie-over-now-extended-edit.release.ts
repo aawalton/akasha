@@ -20,4 +20,6 @@ export const billieEilishLAmourDeMaVieOverNowExtendedEdit = {
     },
   ],
   title: "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const coldplaySomethingJustLikeThisTokyoRemix = {
     },
   ],
   title: "Something Just Like This (Tokyo Remix)",
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

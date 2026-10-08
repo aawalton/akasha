@@ -19,4 +19,6 @@ export const clairoCloserToYou = {
       externalLink: "https://open.spotify.com/album/08cNjr1Fd1HqZE4m2ylB2p",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.267Z",
+  updatedAt: "2026-09-15T16:34:44.000Z",
 } as const satisfies Release

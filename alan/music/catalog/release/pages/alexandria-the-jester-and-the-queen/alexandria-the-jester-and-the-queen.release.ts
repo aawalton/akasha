@@ -20,4 +20,6 @@ export const alexandriaTheJesterAndTheQueen = {
     },
   ],
   title: "The Jester and The Queen",
+  createdAt: "2026-09-16T13:49:10.779Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

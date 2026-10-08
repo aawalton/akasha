@@ -20,4 +20,6 @@ export const clairoSofia = {
       externalLink: "https://open.spotify.com/album/7Lwye9LylZFzb0AAQNgzU4",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

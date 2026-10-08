@@ -20,4 +20,6 @@ export const adeleColdShoulder = {
       lastSyncedAt: "2026-02-09",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.267Z",
+  updatedAt: "2026-09-24T21:00:29.000Z",
 } as const satisfies Release

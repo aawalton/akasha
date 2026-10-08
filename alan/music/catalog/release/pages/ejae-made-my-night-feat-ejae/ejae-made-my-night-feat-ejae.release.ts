@@ -20,4 +20,6 @@ export const ejaeMadeMyNightFeatEjae = {
     },
   ],
   title: "Made My Night (feat. EJAE)",
+  createdAt: "2026-09-24T13:46:42.929Z",
+  updatedAt: "2026-09-24T14:01:01.000Z",
 } as const satisfies Release

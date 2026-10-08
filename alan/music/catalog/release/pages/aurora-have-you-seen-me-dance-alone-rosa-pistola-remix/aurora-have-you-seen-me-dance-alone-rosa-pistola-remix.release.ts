@@ -20,4 +20,6 @@ export const auroraHaveYouSeenMeDanceAloneRosaPistolaRemix = {
     },
   ],
   title: "HAVE YOU SEEN ME DANCE ALONE? (Rosa Pistola Remix)",
+  createdAt: "2026-09-18T20:31:52.719Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

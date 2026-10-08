@@ -20,4 +20,6 @@ export const alexWarrenPassenger = {
     },
   ],
   title: "PASSENGER",
+  createdAt: "2026-09-15T15:09:36.457Z",
+  updatedAt: "2026-09-15T16:33:53.000Z",
 } as const satisfies Release

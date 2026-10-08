@@ -19,4 +19,6 @@ export const billyJoelRiverOfDreams = {
       externalLink: "https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.280Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

@@ -20,4 +20,6 @@ export const auroraWorldOfWarcraftAPlaceToCallHome = {
     },
   ],
   title: "World of Warcraft: A Place To Call Home",
+  createdAt: "2026-09-18T20:31:53.035Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

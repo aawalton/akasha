@@ -19,4 +19,6 @@ export const backstreetBoys2ThePerfectFanDemo = {
       externalLink: "https://open.spotify.com/album/5MgF2ZtXgJbdplkTvo8tu6",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.285Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

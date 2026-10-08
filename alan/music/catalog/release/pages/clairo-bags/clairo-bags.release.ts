@@ -20,4 +20,6 @@ export const clairoBags = {
       externalLink: "https://open.spotify.com/album/5DOj6Si38rUhxAqGK0zlaY",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.264Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

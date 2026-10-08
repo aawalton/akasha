@@ -20,4 +20,6 @@ export const billieEilishIntroHitMeHardAndSoftTour = {
     },
   ],
   title: "INTRO (HIT ME HARD AND SOFT TOUR)",
+  createdAt: "2026-09-18T20:32:56.269Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

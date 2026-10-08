@@ -19,4 +19,6 @@ export const billyJoelTurnTheLightsBackOn = {
       externalLink: "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.287Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

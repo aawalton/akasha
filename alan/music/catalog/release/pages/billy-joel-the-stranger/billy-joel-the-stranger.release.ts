@@ -19,4 +19,6 @@ export const billyJoelTheStranger = {
       externalLink: "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.286Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

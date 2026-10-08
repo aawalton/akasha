@@ -6,4 +6,6 @@ export const stefanieOlafson = {
   slug: "stefanie-olafson",
   title: "Stefanie Olafson",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/stefanie-o-6158b525",
+  createdAt: "2026-04-22T12:39:34.020Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

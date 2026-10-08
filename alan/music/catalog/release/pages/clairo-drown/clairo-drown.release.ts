@@ -19,4 +19,6 @@ export const clairoDrown = {
       externalLink: "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-15T16:34:44.000Z",
 } as const satisfies Release

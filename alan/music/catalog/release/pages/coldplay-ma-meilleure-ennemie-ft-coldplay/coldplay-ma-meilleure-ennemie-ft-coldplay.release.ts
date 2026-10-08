@@ -19,4 +19,6 @@ export const coldplayMaMeilleureEnnemieFtColdplay = {
       externalLink: "https://open.spotify.com/album/26yUJYL8DYzp2HunSKzmsG",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.276Z",
+  updatedAt: "2026-09-15T16:34:44.000Z",
 } as const satisfies Release

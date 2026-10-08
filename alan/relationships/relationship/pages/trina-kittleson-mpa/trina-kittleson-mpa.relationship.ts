@@ -6,4 +6,6 @@ export const trinaKittlesonMpa = {
   slug: "trina-kittleson-mpa",
   title: "Trina Kittleson, Mpa",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/trina-kittleson",
+  createdAt: "2026-04-22T12:39:34.020Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

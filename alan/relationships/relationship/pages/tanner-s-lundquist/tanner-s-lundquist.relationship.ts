@@ -6,4 +6,6 @@ export const tannerSLundquist = {
   slug: "tanner-s-lundquist",
   title: "Tanner S. Lundquist",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/tanlund",
+  createdAt: "2026-04-22T12:39:34.019Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

@@ -19,4 +19,6 @@ export const clairoBrooklynBabySpotifySingles = {
       externalLink: "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.265Z",
+  updatedAt: "2026-09-15T16:34:44.000Z",
 } as const satisfies Release

@@ -20,4 +20,6 @@ export const auroraSomewhereElse = {
     },
   ],
   title: "SOMEWHERE ELSE",
+  createdAt: "2026-09-18T20:31:53.119Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

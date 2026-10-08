@@ -7,4 +7,6 @@ export const rickHoweCsmCstCscCssbbSaCpmCpgm = {
   title: "Rick Howe, Csm, Cst, Csc, Cssbb, Sa, Cpm, Cpgm",
   relationshipLinkedinUrl:
     "https://www.linkedin.com/in/rick-howe-csm-cst-csc-cssbb-sa-cpm-cpgm-b1173510",
+  createdAt: "2026-04-22T12:39:34.020Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

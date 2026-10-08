@@ -11,4 +11,6 @@ export const wilburWalton = {
   relationshipImpact: 5,
   relationshipInterest: 3,
   relationshipPhone: "+18013612948",
+  createdAt: "2026-04-22T12:39:34.018Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies Relationship

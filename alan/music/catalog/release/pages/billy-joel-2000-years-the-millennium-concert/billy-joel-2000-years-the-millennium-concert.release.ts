@@ -19,4 +19,6 @@ export const billyJoel2000YearsTheMillenniumConcert = {
       externalLink: "https://open.spotify.com/album/1Cd4dgqPV6aG4cuYVpJR6L",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.260Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

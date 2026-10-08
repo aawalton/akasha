@@ -20,4 +20,6 @@ export const billieEilishDontSmileAtMe = {
     },
   ],
   title: "dont smile at me",
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

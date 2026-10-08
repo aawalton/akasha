@@ -20,4 +20,6 @@ export const alexWarrenWildchild = {
     },
   ],
   title: "WILDCHILD",
+  createdAt: "2026-09-15T15:09:35.875Z",
+  updatedAt: "2026-09-15T16:33:53.000Z",
 } as const satisfies Release

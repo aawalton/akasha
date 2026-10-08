@@ -20,4 +20,6 @@ export const chaislynMandelaEffect = {
     },
   ],
   title: "Mandela Effect",
+  createdAt: "2026-09-19T13:48:04.967Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

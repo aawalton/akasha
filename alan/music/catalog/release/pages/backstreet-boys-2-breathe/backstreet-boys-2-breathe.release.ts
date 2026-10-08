@@ -19,4 +19,6 @@ export const backstreetBoys2Breathe = {
       externalLink: "https://open.spotify.com/album/3wkAyn5E9eDgKpTIAnEMFU",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.265Z",
+  updatedAt: "2026-09-15T16:34:19.000Z",
 } as const satisfies Release

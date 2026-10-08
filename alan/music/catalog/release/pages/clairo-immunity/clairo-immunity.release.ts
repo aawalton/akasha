@@ -19,4 +19,6 @@ export const clairoImmunity = {
       externalLink: "https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.273Z",
+  updatedAt: "2026-09-15T16:34:44.000Z",
 } as const satisfies Release
