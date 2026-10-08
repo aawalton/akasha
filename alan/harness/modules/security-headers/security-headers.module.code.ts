@@ -3,6 +3,7 @@ export type AppCspConfig = {
   readonly imgSrc?: readonly string[]
   readonly mediaSrc?: readonly string[]
   readonly workerSrc?: readonly string[]
+  readonly microphone?: boolean
 }
 
 const STATIC_HEADERS: Readonly<Record<string, string>> = {
@@ -10,7 +11,11 @@ const STATIC_HEADERS: Readonly<Record<string, string>> = {
   "X-Content-Type-Options": "nosniff",
   "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
   "Referrer-Policy": "strict-origin-when-cross-origin",
-  "Permissions-Policy": "camera=(), microphone=(), geolocation=(), interest-cohort=()",
+}
+
+function permissionsOf(config: AppCspConfig): string {
+  const microphone = config.microphone === true ? "(self)" : "()"
+  return `camera=(), microphone=${microphone}, geolocation=(), interest-cohort=()`
 }
 
 function directive(name: string, sources: readonly string[]): string {
@@ -46,6 +51,7 @@ function buildCsp(config: AppCspConfig, nonce: string): string {
 export function buildSecurityHeaders(config: AppCspConfig, nonce: string): Record<string, string> {
   return {
     "Content-Security-Policy": buildCsp(config, nonce),
+    "Permissions-Policy": permissionsOf(config),
     ...STATIC_HEADERS,
   }
 }

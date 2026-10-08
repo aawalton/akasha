@@ -19,5 +19,9 @@ export const securityHeaders = {
       decisionKind: "decision-kind/departure",
       statement: "A directive a site names nothing for is left out.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The microphone is refused to every site but one whose policy asks for it.",
+    },
   ],
 } as const satisfies Module

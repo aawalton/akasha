@@ -4,7 +4,12 @@ import { servedRouterApp } from "akasha/alan/harness/modules/router-app-serving/
 await servedRouterApp({
   name: "alanwalton-web",
   root: import.meta.dir,
-  csp: { mediaSrc: ["blob:"], imgSrc: ["blob:"] },
+  csp: {
+    mediaSrc: ["blob:"],
+    imgSrc: ["blob:"],
+    connectSrc: ["wss://generativelanguage.googleapis.com"],
+    microphone: true,
+  },
   whoIsReading: async (request) => ({ user: await signedInAs(request) }),
   async around(request, served) {
     if (new URL(request.url).hostname === "idle.alanwalton.com") {
