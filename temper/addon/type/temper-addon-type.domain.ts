@@ -34,11 +34,12 @@ export const temperAddonType = {
     "type-declaration/master-merchant",
     "type-declaration/temper-addons-global",
     "type-declaration/temper-catalog-global",
+    "type-declaration/temper-characters-task-hud-view-global",
     "type-declaration/temper-global",
     "type-declaration/temper-items-global",
     "type-declaration/temper-keybinder-global",
     "type-declaration/temper-saved-variables-global",
   ],
   createdAt: "2026-09-02T05:21:47.948Z",
-  updatedAt: "2026-09-26T16:11:20.000Z",
+  updatedAt: "2026-10-08T17:14:08.972Z",
 } as const satisfies Domain

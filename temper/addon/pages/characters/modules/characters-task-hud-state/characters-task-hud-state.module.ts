@@ -6,6 +6,12 @@ export const charactersTaskHudState = {
   slug: "characters-task-hud-state",
   definition: "everything the task HUD has while the game runs",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every redraw of the display is counted, with the moment it began.",
+    },
+  ],
   createdAt: "2026-09-02T16:23:41.352Z",
-  updatedAt: "2026-09-21T17:05:12.000Z",
+  updatedAt: "2026-10-08T17:14:08.972Z",
 } as const satisfies Module

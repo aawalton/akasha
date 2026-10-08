@@ -70,6 +70,7 @@ export const temperAddonCharacters = {
     "module/characters-task-hud-rows",
     "module/characters-task-hud-state",
     "module/characters-task-hud-story-zone-quests",
+    "module/characters-task-hud-view",
     "module/characters-task-hud-visibility",
     "module/characters-task-progress-resolver",
     "module/characters-task-progress-resolver-achievements",
@@ -214,5 +215,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-09-26T18:07:26.000Z",
+  updatedAt: "2026-10-08T17:14:08.972Z",
 } as const satisfies TemperAddon

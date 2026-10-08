@@ -1,4 +1,5 @@
 import "akasha/temper/addon/pages/characters/modules/characters-public-api/characters-public-api.module.code.ts"
+import "akasha/temper/addon/pages/characters/modules/characters-task-hud-view/characters-task-hud-view.module.code.ts"
 
 import { collectAchievements } from "akasha/temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.code.ts"
 import { collectAllianceRank } from "akasha/temper/addon/pages/characters/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"

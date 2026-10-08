@@ -118,6 +118,7 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-addons-global/temper-addons-global.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-async-global/temper-async-global.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-catalog-global/temper-catalog-global.type-declaration.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-characters-task-hud-view-global/temper-characters-task-hud-view-global.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-chat-message-global/temper-chat-message-global.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-custom-menu-global/temper-custom-menu-global.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-debug-logger-global/temper-debug-logger-global.type-declaration.ts","typed":true,"deferred":false}

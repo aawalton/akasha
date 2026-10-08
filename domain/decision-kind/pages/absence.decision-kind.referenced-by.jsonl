@@ -1977,6 +1977,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/resolve/temper-addon-resolve.domain.ts","id":"01a06060-ec3c-725c-b37c-206e3c7f7e97"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.ts","id":"01a062ed-3979-7008-b38a-d2d8bc3af92b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-view/characters-task-hud-view.module.ts","id":"01a11c82-12cd-76b2-8e5b-fdf64ecca3ec"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.ts","id":"01a062ed-398d-7009-a4a9-bb8458c10c02"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-types/companion-qol-types.module.ts","id":"01a0611d-84ce-7b51-8ddf-74ea1f57955c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-draw/qr-code-draw.module.ts","id":"01a0dea3-f90f-7b5b-b173-1f72e203cfe4"}

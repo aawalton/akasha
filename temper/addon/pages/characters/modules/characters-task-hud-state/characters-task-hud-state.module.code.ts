@@ -134,6 +134,23 @@ export function toggleQuestExpanded(questKey: string, currentlyExpanded: boolean
 
 let lastAssistedQuestName: string | undefined
 
+let refreshCount = 0
+
+let lastRefreshAt: number | undefined
+
+export function noteRefresh(at: number): undefined {
+  refreshCount += 1
+  lastRefreshAt = at
+}
+
+export function refreshesNoted(): { readonly count: number; readonly lastAt: number | undefined } {
+  return { count: refreshCount, lastAt: lastRefreshAt }
+}
+
+export function lastSyncedAssistedName(): string | undefined {
+  return lastAssistedQuestName
+}
+
 export function syncAssistedQuest(currentAssistedName: string | undefined): undefined {
   if (currentAssistedName === lastAssistedQuestName) return
   lastAssistedQuestName = currentAssistedName
