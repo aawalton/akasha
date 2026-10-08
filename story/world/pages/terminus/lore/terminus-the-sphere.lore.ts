@@ -137,7 +137,23 @@ export const terminusTheSphere = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Essence shielding that blocks mana takes the push that mana would have given.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The exterior shell bears an extreme outward pressure from the mana it blocks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The shell's exterior is solidified essence because only that can bear the outward pressure.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "With enough essence shielding, a chamber resting on the surface can be free of weight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The roof shielding a weight-free chamber is pushed outward by the mana it blocks.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -194,5 +210,5 @@ export const terminusTheSphere = {
     },
   ],
   createdAt: "2026-10-08T19:12:35.919Z",
-  updatedAt: "2026-10-08T19:59:22.559Z",
+  updatedAt: "2026-10-08T20:01:56.495Z",
 } as const satisfies Lore
