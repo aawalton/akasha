@@ -26,6 +26,7 @@ export const temperAddonWorld = {
     "domain/temper-addon-world-antiquities",
     "domain/temper-addon-world-collections",
     "domain/temper-addon-world-markers",
+    "domain/temper-addon-world-quest-port",
   ],
   interfaces: [
     "eso-interface/minimap-animations",

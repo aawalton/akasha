@@ -5155,6 +5155,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/minimap-view-types/minimap-view-types.module.ts","id":"01a06269-2b11-7ab4-91ef-f78f20b801bc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/navigation-declarations/navigation-declarations.type-declaration.ts","id":"01a06269-2b16-7e93-92d5-2c6e6bb9cb17"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/temper-addon-world-navigation.domain.ts","id":"01a0c6e7-9054-7191-bd84-4e8d7e6bb16e"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-choose/quest-port-choose.module.ts","id":"01a11c00-c349-7071-b3cd-f41cd90f2c11"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/temper-addon-world-quest-port.domain.ts","id":"01a11c00-c34a-74a6-83ef-374173c2051c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-auto-quest/quests-auto-quest.module.ts","id":"01a0635f-391c-7561-9ad8-9f05904aa99c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-chatter-name-tables/quests-chatter-name-tables.module.ts","id":"01a0635f-391c-79f3-87e1-6c303b4a5402"}
