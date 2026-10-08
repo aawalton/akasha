@@ -16,4 +16,6 @@ export const bookboundBunnyBooksBookboundBunny1 = {
       externalLink: "https://www.amazon.com/Bookbound-Bunny-1-Lunadea-ebook/dp/B0FMTFPCN4",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.025Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

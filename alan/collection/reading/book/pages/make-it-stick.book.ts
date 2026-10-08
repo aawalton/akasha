@@ -9,4 +9,6 @@ export const makeItStick = {
   author: "Peter C. Brown, Henry L. Roediger, Mark A. McDaniel",
   unit: "unit/words",
   ownLength: 128550,
+  createdAt: "2026-04-22T12:39:34.046Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

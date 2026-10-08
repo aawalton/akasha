@@ -10,4 +10,6 @@ export const eightDates = {
   unit: "unit/words",
   ownLength: 77250,
   publishedAt: "2019-12-03",
+  createdAt: "2026-04-22T12:39:34.026Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

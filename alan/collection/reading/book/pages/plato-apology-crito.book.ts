@@ -8,4 +8,6 @@ export const platoApologyCrito = {
   description:
     "Plato's Apology and Crito, in Benjamin Jowett's translation — Socrates' defense before the Athenian court, and his refusal to escape his sentence.",
   unit: "unit/words",
+  createdAt: "2026-09-03T04:53:15.677Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

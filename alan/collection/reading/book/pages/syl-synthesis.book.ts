@@ -18,4 +18,6 @@ export const sylSynthesis = {
       externalLink: "https://amazon.com/dp/B0G2KMDCN9",
     },
   ],
+  createdAt: "2026-04-22T12:39:34.023Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

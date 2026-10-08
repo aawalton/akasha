@@ -21,4 +21,6 @@ export const fairyTale = {
   originalPublicationYear: 2022,
   rating: 8,
   pageCount: 762,
+  createdAt: "2026-06-30T22:45:35.020Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

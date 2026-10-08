@@ -9,4 +9,6 @@ export const documentsVolume12 = {
   author: "Matthew C. Godfrey, R. Eric Smith, Mathew J. Grow, Ronald K. Esplin",
   unit: "unit/words",
   position: 12,
+  createdAt: "2026-04-22T12:39:34.045Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

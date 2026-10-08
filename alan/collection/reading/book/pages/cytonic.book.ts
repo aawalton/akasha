@@ -12,4 +12,6 @@ export const cytonic = {
   position: 3,
   ownLength: 103750,
   ownProgress: 103750,
+  createdAt: "2026-04-22T12:39:34.044Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book

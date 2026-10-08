@@ -9,4 +9,6 @@ export const supercommunicators = {
   author: "Charles Duhigg",
   unit: "unit/words",
   ownLength: 112050,
+  createdAt: "2026-04-22T12:39:34.046Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Book
