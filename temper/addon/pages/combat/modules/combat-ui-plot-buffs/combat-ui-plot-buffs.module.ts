@@ -6,4 +6,6 @@ export const combatUiPlotBuffs = {
   slug: "combat-ui-plot-buffs",
   definition: "a graph's buff uptime bars",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.776Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies Module

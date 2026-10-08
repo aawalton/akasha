@@ -6,4 +6,6 @@ export const combatAlertsShipwrightsRegret = {
   slug: "combat-alerts-shipwrights-regret",
   definition: "the Shipwright's Regret soul bomb stack suggestion",
   code: "ts",
+  createdAt: "2026-09-26T16:39:04.040Z",
+  updatedAt: "2026-09-26T16:39:20.000Z",
 } as const satisfies Module

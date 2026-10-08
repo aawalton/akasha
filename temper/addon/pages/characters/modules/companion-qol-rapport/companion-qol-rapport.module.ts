@@ -12,4 +12,6 @@ export const companionQolRapport = {
       statement: "The label is added to the game's own rapport bar control.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.625Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

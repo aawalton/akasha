@@ -12,4 +12,6 @@ export const dataEncodeCasts = {
       statement: "Nothing here checks a value at run time.",
     },
   ],
+  createdAt: "2026-09-02T04:30:03.425Z",
+  updatedAt: "2026-09-21T23:50:19.000Z",
 } as const satisfies Module

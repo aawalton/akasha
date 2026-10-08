@@ -16,4 +16,6 @@ export const setsTipRender = {
       statement: "Nothing is added when the built text comes back empty.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.230Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

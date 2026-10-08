@@ -6,4 +6,6 @@ export const combatLibFightLifecycle = {
   slug: "combat-lib-fight-lifecycle",
   definition: "opening a fight record and closing it once combat is over",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.758Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

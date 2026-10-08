@@ -35,4 +35,6 @@ export const charactersScribingSources = {
       statement: "A row with no style left unlearned says nothing of motifs.",
     },
   ],
+  createdAt: "2026-09-02T16:21:49.129Z",
+  updatedAt: "2026-09-25T13:14:08.000Z",
 } as const satisfies Module

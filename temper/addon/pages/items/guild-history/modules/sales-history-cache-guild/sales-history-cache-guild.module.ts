@@ -6,4 +6,6 @@ export const salesHistoryCacheGuild = {
   slug: "sales-history-cache-guild",
   definition: "a guild's categories kept as a single cache",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.620Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

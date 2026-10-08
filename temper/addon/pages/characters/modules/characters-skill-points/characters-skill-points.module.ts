@@ -6,4 +6,6 @@ export const charactersSkillPoints = {
   slug: "characters-skill-points",
   definition: "the skill points the character now played has earned, counted by source",
   code: "ts",
+  createdAt: "2026-09-02T16:18:42.414Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

@@ -18,5 +18,6 @@ export const combatSavedVariables = {
         "The panel's setting is a key of its own, so a player who had the panel on before starts with it off.",
     },
   ],
-  updatedAt: "2026-10-08T15:14:06.756Z",
+  updatedAt: "2026-10-08T16:01:52.432Z",
+  createdAt: "2026-09-02T09:42:10.767Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const knowledgeState = {
       statement: "The library hangs its work off the two tables this module has.",
     },
   ],
+  createdAt: "2026-09-02T12:44:31.363Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies Module

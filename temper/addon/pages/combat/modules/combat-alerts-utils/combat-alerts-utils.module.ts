@@ -6,4 +6,6 @@ export const combatAlertsUtils = {
   slug: "combat-alerts-utils",
   definition: "the chat messages, distances, colours, roles and sounds the combat alerts share",
   code: "ts",
+  createdAt: "2026-09-26T16:04:04.365Z",
+  updatedAt: "2026-09-26T16:04:14.000Z",
 } as const satisfies Module

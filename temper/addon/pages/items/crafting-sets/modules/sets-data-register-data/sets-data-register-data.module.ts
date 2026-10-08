@@ -16,4 +16,6 @@ export const setsDataRegisterData = {
       statement: "No set is held back as newer than the live game, since the pages follow it.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.128Z",
+  updatedAt: "2026-09-26T13:59:27.000Z",
 } as const satisfies Module

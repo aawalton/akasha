@@ -12,4 +12,6 @@ export const setsDebugDungeonFinder = {
       statement: "The dungeon finder window is opened when its rows have not been built yet.",
     },
   ],
+  createdAt: "2026-09-21T17:46:11.686Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

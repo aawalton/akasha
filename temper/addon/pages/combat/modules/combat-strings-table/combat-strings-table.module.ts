@@ -6,4 +6,6 @@ export const combatStringsTable = {
   slug: "combat-strings-table",
   definition: "the English wording of every string id this add-on defines",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.769Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

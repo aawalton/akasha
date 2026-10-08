@@ -12,4 +12,6 @@ export const companionsProgress = {
       statement: "Progress is recorded per companion rather than per character.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.646Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

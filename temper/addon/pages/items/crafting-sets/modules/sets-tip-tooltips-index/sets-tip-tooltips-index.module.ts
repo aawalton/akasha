@@ -16,4 +16,6 @@ export const setsTipTooltipsIndex = {
       statement: "The hook module loads after every module whose slots the hook module reads.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.231Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

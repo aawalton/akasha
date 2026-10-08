@@ -6,4 +6,6 @@ export const combatAlertsCcUi = {
   slug: "combat-alerts-cc-ui",
   definition: "the crowd control jets, progress radials and chat line",
   code: "ts",
+  createdAt: "2026-09-26T17:38:52.857Z",
+  updatedAt: "2026-09-26T17:39:03.000Z",
 } as const satisfies Module

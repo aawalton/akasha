@@ -12,4 +12,6 @@ export const charactersCollectorMerge = {
       statement: "A collector never drops a value an earlier read stored and this read cannot see.",
     },
   ],
+  createdAt: "2026-09-02T16:17:59.038Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

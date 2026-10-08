@@ -12,4 +12,6 @@ export const setsSearchUiSearchuiGlobals = {
       statement: "A window is reached by importing the function that answers it.",
     },
   ],
+  createdAt: "2026-09-02T13:10:46.944Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

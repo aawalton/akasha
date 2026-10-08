@@ -6,4 +6,6 @@ export const craftStorageCounts = {
   slug: "craft-storage-counts",
   definition: "how many of an item each storage has",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.255Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

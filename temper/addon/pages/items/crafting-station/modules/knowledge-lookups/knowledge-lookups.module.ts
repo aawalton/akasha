@@ -6,4 +6,6 @@ export const knowledgeLookups = {
   slug: "knowledge-lookups",
   definition: "the game category of each kind of knowledge",
   code: "ts",
+  createdAt: "2026-09-02T12:44:31.364Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

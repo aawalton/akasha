@@ -6,4 +6,6 @@ export const writMarkMarkers = {
   slug: "writ-mark-markers",
   definition: "draws a mark on every inventory row with a master writ",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.307Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

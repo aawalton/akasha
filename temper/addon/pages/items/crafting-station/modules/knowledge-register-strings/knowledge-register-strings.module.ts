@@ -12,4 +12,6 @@ export const knowledgeRegisterStrings = {
       statement: "A tongue the library has no text for falls back to English.",
     },
   ],
+  createdAt: "2026-09-02T12:33:38.163Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

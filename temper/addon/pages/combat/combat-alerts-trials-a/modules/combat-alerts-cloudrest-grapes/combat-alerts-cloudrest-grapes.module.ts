@@ -6,4 +6,6 @@ export const combatAlertsCloudrestGrapes = {
   slug: "combat-alerts-cloudrest-grapes",
   definition: "the Cloudrest grape timers and grape states in the info panel",
   code: "ts",
+  createdAt: "2026-09-26T18:03:59.998Z",
+  updatedAt: "2026-09-26T18:04:12.000Z",
 } as const satisfies Module

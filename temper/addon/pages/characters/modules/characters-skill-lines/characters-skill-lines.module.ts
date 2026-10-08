@@ -6,4 +6,6 @@ export const charactersSkillLines = {
   slug: "characters-skill-lines",
   definition: "the rank and experience of each skill line discovered, read into the saved table",
   code: "ts",
+  createdAt: "2026-09-02T16:18:42.397Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

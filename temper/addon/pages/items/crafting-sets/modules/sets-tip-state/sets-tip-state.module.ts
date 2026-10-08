@@ -16,4 +16,6 @@ export const setsTipState = {
       statement: "The scratch tables are cleared and refilled for each set rather than made fresh.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.206Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

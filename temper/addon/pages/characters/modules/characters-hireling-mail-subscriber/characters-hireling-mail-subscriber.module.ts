@@ -12,4 +12,6 @@ export const charactersHirelingMailSubscriber = {
       statement: "A loot of nothing or a negative amount is ignored.",
     },
   ],
+  createdAt: "2026-09-02T16:21:49.049Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

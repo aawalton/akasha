@@ -16,4 +16,6 @@ export const tableFunctionCasts = {
       statement: "Nothing here checks a value at run time.",
     },
   ],
+  createdAt: "2026-09-02T04:13:13.253Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

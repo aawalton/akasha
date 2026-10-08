@@ -13,4 +13,6 @@ export const setsConstTextures = {
         "A supported language table that is not English is given the English table as its fallback.",
     },
   ],
+  createdAt: "2026-09-02T11:18:27.013Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

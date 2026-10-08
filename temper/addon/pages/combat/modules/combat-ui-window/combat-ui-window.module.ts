@@ -6,4 +6,6 @@ export const combatUiWindow = {
   slug: "combat-ui-window",
   definition: "the report window itself, and opening, closing and resizing it",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.781Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

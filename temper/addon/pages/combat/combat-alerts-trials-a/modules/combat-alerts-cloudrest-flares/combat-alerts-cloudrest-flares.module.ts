@@ -6,4 +6,6 @@ export const combatAlertsCloudrestFlares = {
   slug: "combat-alerts-cloudrest-flares",
   definition: "the Cloudrest roaring flare icons and execute flare side alerts",
   code: "ts",
+  createdAt: "2026-09-26T18:03:59.998Z",
+  updatedAt: "2026-09-26T18:04:12.000Z",
 } as const satisfies Module

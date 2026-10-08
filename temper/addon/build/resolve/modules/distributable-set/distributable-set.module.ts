@@ -29,4 +29,6 @@ export const distributableSet = {
       statement: "Both lists are answered in sorted order.",
     },
   ],
+  createdAt: "2026-09-02T04:29:19.807Z",
+  updatedAt: "2026-09-21T22:05:23.000Z",
 } as const satisfies Module

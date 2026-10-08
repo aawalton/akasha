@@ -12,4 +12,6 @@ export const setsLocLocalizationIndex = {
       statement: "This file has a single import and declares nothing.",
     },
   ],
+  createdAt: "2026-09-02T11:18:27.002Z",
+  updatedAt: "2026-09-22T10:12:24.000Z",
 } as const satisfies Module

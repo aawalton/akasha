@@ -6,4 +6,6 @@ export const craftCharInit = {
   slug: "craft-char-init",
   definition: "the starting shape of a character's saved data",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.217Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies Module

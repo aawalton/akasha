@@ -6,4 +6,6 @@ export const combatAlertsBossHealthBar = {
   slug: "combat-alerts-boss-health-bar",
   definition: "the boss health bars, their scale, colours and rotation",
   code: "ts",
+  createdAt: "2026-09-26T16:35:33.969Z",
+  updatedAt: "2026-09-26T16:35:49.000Z",
 } as const satisfies Module

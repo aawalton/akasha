@@ -20,4 +20,6 @@ export const tableFunctionTypes = {
       statement: "The library states a version number.",
     },
   ],
+  createdAt: "2026-09-02T04:13:13.253Z",
+  updatedAt: "2026-09-21T22:32:47.000Z",
 } as const satisfies Module

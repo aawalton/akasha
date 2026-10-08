@@ -40,4 +40,6 @@ export const setsCasts = {
       statement: "A narrowing to a table checks the table and never what the table holds.",
     },
   ],
+  createdAt: "2026-09-02T09:37:45.331Z",
+  updatedAt: "2026-09-25T13:53:23.000Z",
 } as const satisfies Module

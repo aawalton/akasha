@@ -6,4 +6,6 @@ export const writLinkDataTable = {
   slug: "writ-link-data-table",
   definition: "a material name and the item link that names it exactly",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.301Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

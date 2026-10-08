@@ -32,4 +32,6 @@ export const companionsIdMap = {
       statement: "The add-on reads the companion pages as it compiles.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.645Z",
+  updatedAt: "2026-09-27T04:01:17.000Z",
 } as const satisfies Module

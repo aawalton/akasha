@@ -20,4 +20,6 @@ export const companionQolBindings = {
       statement: "A companion the game adds is written into the bindings before it can be bound.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.619Z",
+  updatedAt: "2026-09-22T12:53:25.000Z",
 } as const satisfies Module

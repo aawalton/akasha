@@ -6,4 +6,6 @@ export const potionInit = {
   slug: "potion-init",
   definition: "wires the potion window to the alchemy station",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.270Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

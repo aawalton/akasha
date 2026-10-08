@@ -12,4 +12,6 @@ export const combatUiHelpers = {
       statement: "A tip over the report's controls is the game's information tooltip.",
     },
   ],
+  createdAt: "2026-09-02T09:42:10.772Z",
+  updatedAt: "2026-09-26T15:55:29.000Z",
 } as const satisfies Module

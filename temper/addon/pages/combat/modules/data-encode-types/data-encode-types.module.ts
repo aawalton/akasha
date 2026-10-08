@@ -20,4 +20,6 @@ export const dataEncodeTypes = {
       statement: "Decoding answers two values at once.",
     },
   ],
+  createdAt: "2026-09-02T04:30:03.426Z",
+  updatedAt: "2026-09-21T23:50:19.000Z",
 } as const satisfies Module

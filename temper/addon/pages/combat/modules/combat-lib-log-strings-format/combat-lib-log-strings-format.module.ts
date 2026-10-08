@@ -6,4 +6,6 @@ export const combatLibLogStringsFormat = {
   slug: "combat-lib-log-strings-format",
   definition: "formatting a stats, message, timing, boss or death line for the chat log",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.761Z",
+  updatedAt: "2026-09-22T10:13:41.000Z",
 } as const satisfies Module

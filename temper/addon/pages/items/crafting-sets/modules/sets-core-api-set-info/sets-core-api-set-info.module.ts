@@ -13,4 +13,6 @@ export const setsCoreApiSetInfo = {
         "Set data asked for in one language and without item ids is cached for later asks.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.205Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

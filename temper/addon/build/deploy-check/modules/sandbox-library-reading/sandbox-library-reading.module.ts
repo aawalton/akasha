@@ -24,4 +24,6 @@ export const sandboxLibraryReading = {
       statement: "A file that will not parse, or holds no sandbox, reads as nothing.",
     },
   ],
+  createdAt: "2026-09-25T13:14:07.345Z",
+  updatedAt: "2026-09-25T13:14:22.000Z",
 } as const satisfies Module

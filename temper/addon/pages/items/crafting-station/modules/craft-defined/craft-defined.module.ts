@@ -12,4 +12,6 @@ export const craftDefined = {
       statement: "A value that is nil ends the call rather than being carried on.",
     },
   ],
+  createdAt: "2026-09-11T00:32:20.265Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

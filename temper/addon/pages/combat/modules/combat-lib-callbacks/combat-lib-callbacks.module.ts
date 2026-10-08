@@ -6,4 +6,6 @@ export const combatLibCallbacks = {
   slug: "combat-lib-callbacks",
   definition: "who is listening for each combat event, and handing each event to them",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.756Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

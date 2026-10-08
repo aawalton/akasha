@@ -12,4 +12,6 @@ export const knowledgeCasts = {
       statement: "Nothing here checks a value at run time.",
     },
   ],
+  createdAt: "2026-09-02T11:56:41.859Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

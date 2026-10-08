@@ -6,4 +6,6 @@ export const combatActionBarSettings = {
   slug: "combat-action-bar-settings",
   definition: "the saved settings drawing an action bar",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.732Z",
+  updatedAt: "2026-09-22T13:52:13.000Z",
 } as const satisfies Module

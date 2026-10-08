@@ -6,4 +6,6 @@ export const combatAlertsOsseinCarrion = {
   slug: "combat-alerts-ossein-carrion",
   definition: "the Caustic Carrion stack bar of Ossein Cage",
   code: "ts",
+  createdAt: "2026-09-26T16:47:43.891Z",
+  updatedAt: "2026-09-26T16:47:58.000Z",
 } as const satisfies Module

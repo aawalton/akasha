@@ -6,4 +6,6 @@ export const combatLibState = {
   slug: "combat-lib-state",
   definition: "the recorder's table of everything still under way",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.762Z",
+  updatedAt: "2026-09-22T14:12:28.000Z",
 } as const satisfies Module

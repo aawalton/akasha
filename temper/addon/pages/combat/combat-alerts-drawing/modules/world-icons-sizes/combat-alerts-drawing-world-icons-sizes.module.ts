@@ -6,4 +6,6 @@ export const combatAlertsDrawingWorldIconsSizes = {
   slug: "combat-alerts-drawing-world-icons-sizes",
   definition: "the shapes and size settings of the placed world icons",
   code: "ts",
+  createdAt: "2026-09-26T17:24:03.364Z",
+  updatedAt: "2026-09-26T17:24:15.000Z",
 } as const satisfies Module

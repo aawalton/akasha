@@ -34,4 +34,6 @@ export const charactersTaskAutoComplete = {
       statement: "A daily writ rising is written onto its snapshot and marks nothing.",
     },
   ],
+  createdAt: "2026-09-02T16:49:56.559Z",
+  updatedAt: "2026-09-22T16:40:30.000Z",
 } as const satisfies Module

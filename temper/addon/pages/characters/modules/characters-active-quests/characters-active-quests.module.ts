@@ -26,4 +26,6 @@ export const charactersActiveQuests = {
         "A character is told past ASCII by its code rather than by the game's ordering of text.",
     },
   ],
+  createdAt: "2026-09-02T16:17:59.039Z",
+  updatedAt: "2026-09-26T15:21:15.000Z",
 } as const satisfies Module

@@ -34,4 +34,6 @@ export const setsTipHooks = {
       statement: "Gamepad and keyboard tooltips are hooked by different means.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.231Z",
+  updatedAt: "2026-09-24T16:50:11.000Z",
 } as const satisfies Module

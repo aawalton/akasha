@@ -6,4 +6,6 @@ export const combatAlertsTrialsDEntry = {
   slug: "combat-alerts-trials-d-entry",
   definition: "the loader of every Ossein Cage and Opulent Ordeal combat alert module",
   code: "ts",
+  createdAt: "2026-09-26T16:52:54.217Z",
+  updatedAt: "2026-09-26T16:53:05.000Z",
 } as const satisfies Module

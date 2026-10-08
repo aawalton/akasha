@@ -6,4 +6,6 @@ export const craftStyleRows = {
   slug: "craft-style-rows",
   definition: "the row of controls the style panel builds for each motif",
   code: "ts",
+  createdAt: "2026-09-21T17:15:09.007Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

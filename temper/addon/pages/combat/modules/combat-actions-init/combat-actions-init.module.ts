@@ -6,4 +6,6 @@ export const combatActionsInit = {
   slug: "combat-actions-init",
   definition: "starting the action bar half of this add-on",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.741Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

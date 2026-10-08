@@ -6,4 +6,6 @@ export const setsKbfGearFilters = {
   slug: "sets-kbf-gear-filters",
   definition: "the dropdowns naming what kind of gear a set covers",
   code: "ts",
+  createdAt: "2026-09-02T13:10:46.945Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

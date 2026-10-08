@@ -6,4 +6,6 @@ export const combatUiMainPanel = {
   slug: "combat-ui-main-panel",
   definition: "the bar chart in the middle of the report and its rows",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.775Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

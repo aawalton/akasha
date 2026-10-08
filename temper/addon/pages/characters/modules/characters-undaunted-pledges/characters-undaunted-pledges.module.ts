@@ -12,4 +12,6 @@ export const charactersUndauntedPledges = {
       statement: "A pledge on a dungeon one player cannot finish alone is not offered.",
     },
   ],
+  createdAt: "2026-09-02T16:21:49.069Z",
+  updatedAt: "2026-09-22T13:52:13.000Z",
 } as const satisfies Module

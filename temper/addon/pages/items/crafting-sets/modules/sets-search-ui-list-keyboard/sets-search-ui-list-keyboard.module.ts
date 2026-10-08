@@ -17,4 +17,6 @@ export const setsSearchUiListKeyboard = {
       statement: "The sets are tables the add-on carries, so the list never loads or fails.",
     },
   ],
+  createdAt: "2026-09-02T13:10:46.944Z",
+  updatedAt: "2026-09-25T18:58:12.000Z",
 } as const satisfies Module

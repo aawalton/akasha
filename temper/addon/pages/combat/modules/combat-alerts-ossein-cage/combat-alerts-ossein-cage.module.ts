@@ -6,4 +6,6 @@ export const combatAlertsOsseinCage = {
   slug: "combat-alerts-ossein-cage",
   definition: "the Ossein Cage zone alerts for Stricken and Dominator's Chains",
   code: "ts",
+  createdAt: "2026-09-26T16:51:24.515Z",
+  updatedAt: "2026-09-26T16:51:34.000Z",
 } as const satisfies Module

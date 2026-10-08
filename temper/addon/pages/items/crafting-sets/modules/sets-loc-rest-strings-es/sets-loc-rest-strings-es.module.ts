@@ -12,4 +12,6 @@ export const setsLocRestStringsEs = {
       statement: "Text absent here is taken from the English table.",
     },
   ],
+  createdAt: "2026-09-02T11:18:27.004Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

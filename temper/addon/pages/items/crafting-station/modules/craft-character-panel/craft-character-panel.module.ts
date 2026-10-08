@@ -6,4 +6,6 @@ export const craftCharacterPanel = {
   slug: "craft-character-panel",
   definition: "draws one row per character and loads the one the player clicks",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.218Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

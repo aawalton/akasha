@@ -6,4 +6,6 @@ export const combatAlertsDrawingWorldIconsData = {
   slug: "combat-alerts-drawing-world-icons-data",
   definition: "the named single world icons of trial positions",
   code: "ts",
+  createdAt: "2026-09-26T17:24:03.363Z",
+  updatedAt: "2026-09-26T17:24:15.000Z",
 } as const satisfies Module

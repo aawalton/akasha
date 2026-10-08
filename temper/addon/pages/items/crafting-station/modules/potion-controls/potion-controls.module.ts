@@ -6,4 +6,6 @@ export const potionControls = {
   slug: "potion-controls",
   definition: "the potion window's controls, kept where the rest of the add-on can reach them",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.267Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

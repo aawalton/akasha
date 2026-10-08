@@ -7,4 +7,6 @@ export const combatAlertsSettingsKynesAegis = {
   definition:
     "the Halls of Fabrication, Hel Ra Citadel and Kyne's Aegis settings of the combat alerts",
   code: "ts",
+  createdAt: "2026-09-26T17:07:04.014Z",
+  updatedAt: "2026-09-26T17:07:14.000Z",
 } as const satisfies Module

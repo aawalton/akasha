@@ -6,4 +6,6 @@ export const craftSetsData = {
   slug: "craft-sets-data",
   definition: "every crafted set, taken from its two tiers",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.252Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

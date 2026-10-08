@@ -6,4 +6,6 @@ export const combatAlertsRockgroveOaxiltso = {
   slug: "combat-alerts-rockgrove-oaxiltso",
   definition: "the Oaxiltso sludge icons, sludge sides and info panel timers",
   code: "ts",
+  createdAt: "2026-09-26T16:42:41.438Z",
+  updatedAt: "2026-09-26T16:42:56.000Z",
 } as const satisfies Module

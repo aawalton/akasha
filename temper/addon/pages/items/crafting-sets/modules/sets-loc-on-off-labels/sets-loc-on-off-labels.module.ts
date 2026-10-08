@@ -12,4 +12,6 @@ export const setsLocOnOffLabels = {
       statement: "The keys are the booleans spelled as text rather than booleans.",
     },
   ],
+  createdAt: "2026-09-02T11:18:26.999Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

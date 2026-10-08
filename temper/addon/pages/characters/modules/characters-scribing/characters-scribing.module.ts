@@ -6,4 +6,6 @@ export const charactersScribing = {
   slug: "characters-scribing",
   definition: "the scribing grimoires and scripts the character now played has unlocked",
   code: "ts",
+  createdAt: "2026-09-02T16:18:42.341Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

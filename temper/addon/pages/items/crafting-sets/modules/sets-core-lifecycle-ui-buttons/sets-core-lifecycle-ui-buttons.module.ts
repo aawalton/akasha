@@ -16,4 +16,6 @@ export const setsCoreLifecycleUiButtons = {
       statement: "The same function is published under a public key and an internal key.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.205Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

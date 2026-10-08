@@ -6,4 +6,6 @@ export const combatAlertsZones = {
   slug: "combat-alerts-zones",
   definition: "the functions each zone runs as the player enters and leaves it",
   code: "ts",
+  createdAt: "2026-09-26T16:04:04.365Z",
+  updatedAt: "2026-09-26T16:04:14.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const charactersEntry = {
       statement: "The whole read of the game waits three seconds after the player is active.",
     },
   ],
+  createdAt: "2026-09-02T17:32:20.954Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

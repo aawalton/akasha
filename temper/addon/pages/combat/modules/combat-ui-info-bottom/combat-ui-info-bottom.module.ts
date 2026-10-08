@@ -6,4 +6,6 @@ export const combatUiInfoBottom = {
   slug: "combat-ui-info-bottom",
   definition: "the bottom information panel and the miscellaneous one beside it",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.773Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

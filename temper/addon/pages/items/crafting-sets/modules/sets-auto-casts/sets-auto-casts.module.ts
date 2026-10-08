@@ -6,4 +6,6 @@ export const setsAutoCasts = {
   slug: "sets-auto-casts",
   definition: "the narrowings for the slash-command library handle and the set name tables",
   code: "ts",
+  createdAt: "2026-09-02T13:08:26.231Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

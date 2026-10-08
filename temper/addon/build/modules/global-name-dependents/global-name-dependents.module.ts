@@ -61,4 +61,6 @@ export const globalNameDependents = {
       statement: "Dependents are answered in a settled order.",
     },
   ],
+  createdAt: "2026-09-02T03:44:49.345Z",
+  updatedAt: "2026-09-22T10:04:36.000Z",
 } as const satisfies Module

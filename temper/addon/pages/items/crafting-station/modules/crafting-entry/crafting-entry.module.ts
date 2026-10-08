@@ -6,4 +6,6 @@ export const craftingEntry = {
   slug: "crafting-entry",
   definition: "the file the game loads first, which wires the add-on to its start",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.262Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

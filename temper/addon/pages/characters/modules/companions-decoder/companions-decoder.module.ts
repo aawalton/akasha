@@ -12,4 +12,6 @@ export const companionsDecoder = {
       statement: "A hash of an unknown version reads back as nothing rather than as a guess.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.635Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const potionControlsLayout = {
   slug: "potion-controls-layout",
   definition: "builds the trait filter checkboxes narrowing the potion search",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.268Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const craftQueue = {
   slug: "craft-queue",
   definition: "the once-a-second work that sounds finish alarms and floats inspiration gained",
   code: "ts",
+  createdAt: "2026-09-21T17:19:37.974Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

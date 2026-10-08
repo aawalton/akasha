@@ -6,4 +6,6 @@ export const zoneScan = {
   slug: "zone-scan",
   definition: "the sweep building each zone's data from what the game has now",
   code: "ts",
+  createdAt: "2026-09-02T11:36:01.584Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

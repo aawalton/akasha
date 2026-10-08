@@ -6,4 +6,6 @@ export const knowledgePublicCallbacks = {
   slug: "knowledge-public-callbacks",
   definition: "who the library tells when what it knows changes",
   code: "ts",
+  createdAt: "2026-09-02T12:46:21.074Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

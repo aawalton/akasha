@@ -6,4 +6,6 @@ export const writProvParser = {
   slug: "writ-prov-parser",
   definition: "reads a provisioning writ and says what it wants",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.315Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies Module

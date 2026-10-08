@@ -20,4 +20,6 @@ export const potionControlsIngredients = {
       statement: "A reagent already ticked stays ticked when the buttons are laid out again.",
     },
   ],
+  createdAt: "2026-09-11T03:03:49.569Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

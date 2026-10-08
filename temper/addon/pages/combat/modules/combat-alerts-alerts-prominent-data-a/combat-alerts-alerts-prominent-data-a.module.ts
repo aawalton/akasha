@@ -7,4 +7,6 @@ export const combatAlertsAlertsProminentDataA = {
   definition:
     "the prominent alerts of Cloudrest, Dreadsail Reef, Halls of Fabrication and Kyne's Aegis",
   code: "ts",
+  createdAt: "2026-09-26T16:24:05.122Z",
+  updatedAt: "2026-09-26T16:24:15.000Z",
 } as const satisfies Module

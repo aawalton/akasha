@@ -21,4 +21,6 @@ export const esoSandboxManifest = {
         "This list is written from the game's own capture, kept in `data-table/sandbox-library`.",
     },
   ],
+  createdAt: "2026-09-02T18:33:38.087Z",
+  updatedAt: "2026-09-25T13:28:22.000Z",
 } as const satisfies Module

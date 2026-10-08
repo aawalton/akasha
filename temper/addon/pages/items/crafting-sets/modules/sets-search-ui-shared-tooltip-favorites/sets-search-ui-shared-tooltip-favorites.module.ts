@@ -20,4 +20,6 @@ export const setsSearchUiSharedTooltipFavorites = {
       statement: "A set's item is shown in the game's own item tooltip, which only the game fills.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.232Z",
+  updatedAt: "2026-09-25T18:33:44.000Z",
 } as const satisfies Module

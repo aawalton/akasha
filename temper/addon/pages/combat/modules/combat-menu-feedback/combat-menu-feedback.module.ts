@@ -6,4 +6,6 @@ export const combatMenuFeedback = {
   slug: "combat-menu-feedback",
   definition: "the feedback and donation links on the settings panel",
   code: "ts",
+  createdAt: "2026-09-26T15:47:30.717Z",
+  updatedAt: "2026-09-26T15:47:40.000Z",
 } as const satisfies Module

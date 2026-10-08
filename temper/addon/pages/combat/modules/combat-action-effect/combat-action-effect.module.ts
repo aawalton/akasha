@@ -6,4 +6,6 @@ export const combatActionEffect = {
   slug: "combat-action-effect",
   definition: "a buff or debuff as the action engine keeps it",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.735Z",
+  updatedAt: "2026-09-22T10:13:41.000Z",
 } as const satisfies Module

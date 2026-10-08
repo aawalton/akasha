@@ -6,4 +6,6 @@ export const combatAlertsDrawingHub = {
   slug: "combat-alerts-drawing-hub",
   definition: "the drawing types and the hub members the drawing modules add",
   code: "ts",
+  createdAt: "2026-09-26T16:30:47.938Z",
+  updatedAt: "2026-09-26T16:31:07.000Z",
 } as const satisfies Module

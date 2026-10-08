@@ -6,4 +6,6 @@ export const potionKeybindHelpers = {
   slug: "potion-keybind-helpers",
   definition: "which keys the potion window offers at this moment",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.272Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

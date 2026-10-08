@@ -21,4 +21,6 @@ export const charactersTaskHud = {
         "The line sits where the first row would, as the display is too narrow to centre it.",
     },
   ],
+  createdAt: "2026-09-02T16:23:41.627Z",
+  updatedAt: "2026-09-26T13:52:42.000Z",
 } as const satisfies Module

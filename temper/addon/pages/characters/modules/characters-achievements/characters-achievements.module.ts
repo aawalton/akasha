@@ -14,4 +14,6 @@ export const charactersAchievements = {
         "The game says of each achievement whether that achievement is kept per character or per account.",
     },
   ],
+  createdAt: "2026-09-02T16:17:59.039Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const setsCoreSetItemidsFiltered = {
       statement: "Matching a filter costs one built item link per item id.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.132Z",
+  updatedAt: "2026-09-22T14:12:28.000Z",
 } as const satisfies Module

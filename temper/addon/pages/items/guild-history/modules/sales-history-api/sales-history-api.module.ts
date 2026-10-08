@@ -6,4 +6,6 @@ export const salesHistoryApi = {
   slug: "sales-history-api",
   definition: "the names by which another add-on reaches this library",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.620Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies Module

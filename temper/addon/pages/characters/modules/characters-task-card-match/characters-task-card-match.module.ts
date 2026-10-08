@@ -21,4 +21,6 @@ export const charactersTaskCardMatch = {
       statement: "A task page spells each step of its item path as text.",
     },
   ],
+  createdAt: "2026-09-02T16:23:41.277Z",
+  updatedAt: "2026-09-22T16:01:28.000Z",
 } as const satisfies Module

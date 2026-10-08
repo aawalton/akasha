@@ -16,4 +16,6 @@ export const qrCodeMatrix = {
       statement: "Of two masks with the same penalty the lower-numbered mask is kept.",
     },
   ],
+  createdAt: "2026-09-26T16:50:53.352Z",
+  updatedAt: "2026-09-26T16:51:05.000Z",
 } as const satisfies Module

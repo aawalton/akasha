@@ -16,4 +16,6 @@ export const charactersEventsWorld = {
       statement: "The inventory check is taken again each time the items add-on finds new actions.",
     },
   ],
+  createdAt: "2026-09-02T17:32:20.871Z",
+  updatedAt: "2026-09-26T18:07:26.000Z",
 } as const satisfies Module

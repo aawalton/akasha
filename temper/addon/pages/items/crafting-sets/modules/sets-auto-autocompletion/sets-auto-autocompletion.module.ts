@@ -20,4 +20,6 @@ export const setsAutoAutocompletion = {
       statement: "Each supported language gets its own set of slash command aliases.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.231Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

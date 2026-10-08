@@ -12,4 +12,6 @@ export const charactersEventsKnowledge = {
       statement: "A quest leaving the journal unfinished is read as nothing learned.",
     },
   ],
+  createdAt: "2026-09-02T17:32:20.849Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

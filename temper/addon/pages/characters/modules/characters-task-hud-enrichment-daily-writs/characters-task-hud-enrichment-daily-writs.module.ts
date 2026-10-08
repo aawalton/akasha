@@ -6,4 +6,6 @@ export const charactersTaskHudEnrichmentDailyWrits = {
   slug: "characters-task-hud-enrichment-daily-writs",
   definition: "one row for each crafting profession's daily writ, with how far that writ has got",
   code: "ts",
+  createdAt: "2026-09-02T16:23:41.555Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

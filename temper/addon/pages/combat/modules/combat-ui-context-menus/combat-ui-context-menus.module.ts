@@ -7,4 +7,6 @@ export const combatUiContextMenus = {
   definition:
     "the menus on a buff row, a unit row and the report's feedback and notification buttons",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.772Z",
+  updatedAt: "2026-09-26T15:50:32.000Z",
 } as const satisfies Module

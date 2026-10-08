@@ -6,4 +6,6 @@ export const combatAlertsSanctumOphidia = {
   slug: "combat-alerts-sanctum-ophidia",
   definition: "the Sanctum Ophidia zone alerts",
   code: "ts",
+  createdAt: "2026-09-26T17:38:24.601Z",
+  updatedAt: "2026-09-26T17:38:42.000Z",
 } as const satisfies Module

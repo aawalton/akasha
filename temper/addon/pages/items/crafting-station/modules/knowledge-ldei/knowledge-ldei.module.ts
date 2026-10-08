@@ -12,4 +12,6 @@ export const knowledgeLdei = {
       statement: "A share is held to the characters one edit box has.",
     },
   ],
+  createdAt: "2026-09-02T12:33:38.156Z",
+  updatedAt: "2026-09-22T10:05:23.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const combatAlertsLucentCitadel = {
   slug: "combat-alerts-lucent-citadel",
   definition: "the Lucent Citadel zone alerts and their registration",
   code: "ts",
+  createdAt: "2026-09-26T17:40:43.596Z",
+  updatedAt: "2026-09-26T17:40:56.000Z",
 } as const satisfies Module

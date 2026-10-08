@@ -13,4 +13,6 @@ export const zoneTypes = {
         "The slash-command library is shaped here rather than in the shared game declarations.",
     },
   ],
+  createdAt: "2026-09-02T11:36:01.521Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

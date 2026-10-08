@@ -12,4 +12,6 @@ export const setsConstAllClassdata = {
       statement: "The class list is read from the game at load rather than written out here.",
     },
   ],
+  createdAt: "2026-09-02T11:18:27.017Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

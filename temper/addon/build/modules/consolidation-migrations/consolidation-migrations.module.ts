@@ -26,4 +26,6 @@ export const consolidationMigrations = {
         "Every migration here answers to the type the module applying a migration declares.",
     },
   ],
+  createdAt: "2026-09-02T03:44:49.346Z",
+  updatedAt: "2026-09-21T15:02:26.000Z",
 } as const satisfies Module

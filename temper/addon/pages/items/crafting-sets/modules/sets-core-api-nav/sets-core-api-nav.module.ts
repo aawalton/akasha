@@ -13,4 +13,6 @@ export const setsCoreApiNav = {
       statement: "The item link builder every other module calls is published from this module.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.133Z",
+  updatedAt: "2026-09-25T14:32:32.000Z",
 } as const satisfies Module

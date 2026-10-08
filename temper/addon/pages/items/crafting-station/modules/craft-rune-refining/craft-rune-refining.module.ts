@@ -6,4 +6,6 @@ export const craftRuneRefining = {
   slug: "craft-rune-refining",
   definition: "the glyphs the player can break down, and breaking them all at once",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.245Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

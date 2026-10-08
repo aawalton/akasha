@@ -12,4 +12,6 @@ export const zoneNamesJp01 = {
       statement: "These rows are the rows upstream LibZone v8.98 states.",
     },
   ],
+  createdAt: "2026-09-02T11:36:01.560Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

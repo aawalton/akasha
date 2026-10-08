@@ -12,4 +12,6 @@ export const charactersCommand = {
       statement: "A reset empties the saved table before reading the game again.",
     },
   ],
+  createdAt: "2026-09-02T17:32:20.557Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

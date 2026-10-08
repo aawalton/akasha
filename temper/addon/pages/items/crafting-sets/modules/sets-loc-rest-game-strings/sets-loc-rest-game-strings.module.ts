@@ -6,4 +6,6 @@ export const setsLocRestGameStrings = {
   slug: "sets-loc-rest-game-strings",
   definition: "the game's own words for dungeon, Undaunted and arena",
   code: "ts",
+  createdAt: "2026-09-02T11:18:27.003Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

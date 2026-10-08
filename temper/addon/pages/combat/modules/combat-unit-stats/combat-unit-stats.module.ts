@@ -6,4 +6,6 @@ export const combatUnitStats = {
   slug: "combat-unit-stats",
   definition: "counting the slotted abilities and gear of a unit in the fight",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.782Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

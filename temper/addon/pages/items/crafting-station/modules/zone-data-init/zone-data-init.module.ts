@@ -6,4 +6,6 @@ export const zoneDataInit = {
   slug: "zone-data-init",
   definition: "the zone names mended for the languages upstream leaves short",
   code: "ts",
+  createdAt: "2026-09-02T11:36:01.582Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

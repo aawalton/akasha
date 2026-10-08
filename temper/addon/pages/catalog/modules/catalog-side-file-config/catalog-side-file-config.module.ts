@@ -25,4 +25,6 @@ export const catalogSideFileConfig = {
       statement: "A domain list holding anything but text refuses the whole payload.",
     },
   ],
+  createdAt: "2026-09-02T20:06:07.333Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

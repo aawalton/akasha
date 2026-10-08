@@ -21,4 +21,6 @@ export const setsTipSettingsLam = {
       statement: "The traits needed setting shares its row with the reconstruction cost setting.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.230Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

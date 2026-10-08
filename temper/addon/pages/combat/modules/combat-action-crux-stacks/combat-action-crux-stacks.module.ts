@@ -6,4 +6,6 @@ export const combatActionCruxStacks = {
   slug: "combat-action-crux-stacks",
   definition: "how many crux the Arcanist is holding and which abilities spend them",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.734Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

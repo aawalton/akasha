@@ -6,4 +6,6 @@ export const priceApi = {
   slug: "price-api",
   definition: "the price functions the library object carries",
   code: "ts",
+  createdAt: "2026-09-02T09:05:29.623Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

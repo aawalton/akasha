@@ -7,4 +7,6 @@ export const combatLegacyCpStrings = {
   definition:
     "the champion constellation and passive names a fight saved before champion points 2.0 shows",
   code: "ts",
+  createdAt: "2026-09-26T15:45:26.616Z",
+  updatedAt: "2026-09-26T15:45:36.000Z",
 } as const satisfies Module

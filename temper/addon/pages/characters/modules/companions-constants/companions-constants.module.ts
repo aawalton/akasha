@@ -17,4 +17,6 @@ export const companionsConstants = {
       statement: "The companion saved table keeps the name the game already persists it under.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.634Z",
+  updatedAt: "2026-09-22T01:42:08.000Z",
 } as const satisfies Module

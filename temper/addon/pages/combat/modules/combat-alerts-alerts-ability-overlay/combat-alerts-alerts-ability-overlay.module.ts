@@ -6,4 +6,6 @@ export const combatAlertsAlertsAbilityOverlay = {
   slug: "combat-alerts-alerts-ability-overlay",
   definition: "the warning overlay on action bar slots",
   code: "ts",
+  createdAt: "2026-09-26T16:41:24.242Z",
+  updatedAt: "2026-09-26T16:41:42.000Z",
 } as const satisfies Module

@@ -25,4 +25,6 @@ export const craftListState = {
       statement: "What a list holds is read from the game at once, so it never loads or fails.",
     },
   ],
+  createdAt: "2026-09-25T19:08:59.237Z",
+  updatedAt: "2026-09-25T19:36:47.000Z",
 } as const satisfies Module

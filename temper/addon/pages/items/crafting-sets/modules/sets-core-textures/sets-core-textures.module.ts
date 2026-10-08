@@ -17,4 +17,6 @@ export const setsCoreTextures = {
         "Game string ids are reached by prefix and index rather than by concatenated name.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.130Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

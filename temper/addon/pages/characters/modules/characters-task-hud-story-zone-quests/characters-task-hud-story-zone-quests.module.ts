@@ -17,4 +17,6 @@ export const charactersTaskHudStoryZoneQuests = {
       statement: "A quest is named by the name the game gives it rather than by its number.",
     },
   ],
+  createdAt: "2026-09-21T23:59:08.991Z",
+  updatedAt: "2026-09-22T00:00:21.000Z",
 } as const satisfies Module

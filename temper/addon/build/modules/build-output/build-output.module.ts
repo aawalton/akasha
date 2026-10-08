@@ -24,4 +24,6 @@ export const buildOutput = {
       statement: "An index naming no such domain is an error rather than a guessed path.",
     },
   ],
+  createdAt: "2026-09-11T17:42:32.992Z",
+  updatedAt: "2026-09-22T13:48:49.000Z",
 } as const satisfies Module

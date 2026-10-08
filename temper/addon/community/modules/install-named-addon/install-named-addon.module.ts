@@ -40,4 +40,6 @@ export const installNamedAddon = {
       statement: "An archive with no folder the caller expected is refused.",
     },
   ],
+  createdAt: "2026-09-02T04:38:56.144Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

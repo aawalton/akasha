@@ -28,4 +28,6 @@ export const dataEncodeDecoder = {
       statement: "The decoder answers the value and the dictionary the value was read with.",
     },
   ],
+  createdAt: "2026-09-02T04:30:03.423Z",
+  updatedAt: "2026-09-22T14:12:28.000Z",
 } as const satisfies Module

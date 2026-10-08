@@ -13,4 +13,6 @@ export const companionQolInteractionState = {
         "A companion dismissed by the player is told apart from a companion dismissed for an interaction.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.625Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

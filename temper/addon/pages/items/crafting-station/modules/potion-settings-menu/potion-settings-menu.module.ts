@@ -6,4 +6,6 @@ export const potionSettingsMenu = {
   slug: "potion-settings-menu",
   definition: "the potion window's own settings panel",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.281Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

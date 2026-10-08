@@ -6,4 +6,6 @@ export const combatAlertsBossDungeonThresholdsB = {
   slug: "combat-alerts-boss-dungeon-thresholds-b",
   definition: "the mechanic thresholds of dungeon bosses from Coral Aerie onward",
   code: "ts",
+  createdAt: "2026-09-26T16:24:37.397Z",
+  updatedAt: "2026-09-26T16:24:52.000Z",
 } as const satisfies Module

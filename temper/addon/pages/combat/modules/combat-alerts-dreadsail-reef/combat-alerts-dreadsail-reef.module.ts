@@ -6,4 +6,6 @@ export const combatAlertsDreadsailReef = {
   slug: "combat-alerts-dreadsail-reef",
   definition: "the Dreadsail Reef zone alerts and their registration",
   code: "ts",
+  createdAt: "2026-09-26T16:42:09.740Z",
+  updatedAt: "2026-09-26T16:42:23.000Z",
 } as const satisfies Module

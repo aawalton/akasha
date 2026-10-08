@@ -6,4 +6,6 @@ export const setsDropTipTooltipsEn = {
   slug: "sets-drop-tip-tooltips-en",
   definition: "the English explanation of each way a gear set drops",
   code: "ts",
+  createdAt: "2026-09-02T11:17:05.714Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const pithkaGroupFinderStateMachine = {
   slug: "pithka-group-finder-state-machine",
   definition: "the idle, searching and joining states the group finder moves between",
   code: "ts",
+  createdAt: "2026-09-26T16:22:28.106Z",
+  updatedAt: "2026-09-26T16:23:01.000Z",
 } as const satisfies Module

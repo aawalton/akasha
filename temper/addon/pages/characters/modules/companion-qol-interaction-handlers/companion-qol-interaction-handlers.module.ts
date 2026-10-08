@@ -12,4 +12,6 @@ export const companionQolInteractionHandlers = {
       statement: "Resummoning after fishing and after crouching each wait a delay a player sets.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.624Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

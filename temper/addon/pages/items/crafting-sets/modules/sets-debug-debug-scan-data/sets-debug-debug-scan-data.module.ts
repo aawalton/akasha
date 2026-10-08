@@ -21,4 +21,6 @@ export const setsDebugDebugScanData = {
       statement: "Map names in another language need TemperItemsCraftingZones loaded.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.231Z",
+  updatedAt: "2026-09-25T13:09:00.000Z",
 } as const satisfies Module

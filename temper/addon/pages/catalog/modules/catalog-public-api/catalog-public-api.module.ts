@@ -16,4 +16,6 @@ export const catalogPublicApi = {
       statement: "The global has the one reader and nothing more.",
     },
   ],
+  createdAt: "2026-09-02T20:06:07.333Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

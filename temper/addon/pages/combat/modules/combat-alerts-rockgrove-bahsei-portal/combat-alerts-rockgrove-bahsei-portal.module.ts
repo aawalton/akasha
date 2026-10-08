@@ -6,4 +6,6 @@ export const combatAlertsRockgroveBahseiPortal = {
   slug: "combat-alerts-rockgrove-bahsei-portal",
   definition: "the Bahsei portal tracking, icon suppression, portal timers and ability overlays",
   code: "ts",
+  createdAt: "2026-09-26T16:42:41.437Z",
+  updatedAt: "2026-09-26T16:42:56.000Z",
 } as const satisfies Module

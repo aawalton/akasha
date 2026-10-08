@@ -6,4 +6,6 @@ export const salesHistoryAdapterGapRows = {
   slug: "sales-history-adapter-gap-rows",
   definition: "the gap rows the game's history list shows for a missing stretch",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.619Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const setsTipCasts = {
       statement: "A tooltip control is probed for its methods rather than typed.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.206Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

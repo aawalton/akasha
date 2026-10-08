@@ -6,4 +6,6 @@ export const craftPlayerState = {
   slug: "craft-player-state",
   definition: "recomputes what the player knows, holds and is studying",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.238Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const combatUiLogUpdate = {
   slug: "combat-ui-log-update",
   definition: "redrawing the combat log text and its page buttons",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.774Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

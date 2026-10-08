@@ -6,4 +6,6 @@ export const salesHistoryCategoryClass = {
   slug: "sales-history-category-class",
   definition: "the class of every guild history category cache",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.622Z",
+  updatedAt: "2026-09-22T14:04:10.000Z",
 } as const satisfies Module

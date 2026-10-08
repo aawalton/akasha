@@ -17,4 +17,6 @@ export const setsSetTextSetTextFields = {
       statement: "Drop text identical to the set type text is emptied out.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.207Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

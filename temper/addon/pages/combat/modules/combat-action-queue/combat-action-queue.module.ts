@@ -6,4 +6,6 @@ export const combatActionQueue = {
   slug: "combat-action-queue",
   definition: "the queue of tracked actions and the serial number each one is given",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.739Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

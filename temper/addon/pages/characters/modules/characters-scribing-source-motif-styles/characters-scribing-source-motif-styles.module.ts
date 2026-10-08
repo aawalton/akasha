@@ -19,4 +19,6 @@ export const charactersScribingSourceMotifStyles = {
         "The pages are imported whole, so the add-on reads a style's drop sources from its page.",
     },
   ],
+  createdAt: "2026-09-25T13:11:02.071Z",
+  updatedAt: "2026-09-25T13:11:14.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const companionQolSettingsMenu = {
       statement: "The panel is built through the add-on menu library rather than drawn by hand.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.629Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies Module

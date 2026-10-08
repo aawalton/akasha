@@ -6,4 +6,6 @@ export const potionPotionMatch = {
   slug: "potion-potion-match",
   definition: "whether a potion answers the search terms, the quest writs and the favorites",
   code: "ts",
+  createdAt: "2026-09-21T17:21:36.645Z",
+  updatedAt: "2026-09-22T10:19:01.000Z",
 } as const satisfies Module

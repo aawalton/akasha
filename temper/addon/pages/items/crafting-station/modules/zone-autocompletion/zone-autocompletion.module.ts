@@ -6,4 +6,6 @@ export const zoneAutocompletion = {
   slug: "zone-autocompletion",
   definition: "the zone names offered as a player types a slash command",
   code: "ts",
+  createdAt: "2026-09-02T11:36:01.588Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

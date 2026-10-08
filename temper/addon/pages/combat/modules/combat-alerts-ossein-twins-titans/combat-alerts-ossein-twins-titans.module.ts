@@ -6,4 +6,6 @@ export const combatAlertsOsseinTwinsTitans = {
   slug: "combat-alerts-ossein-twins-titans",
   definition: "the Ossein Cage titan health bars, positioning icons and titan identification",
   code: "ts",
+  createdAt: "2026-09-26T16:49:41.051Z",
+  updatedAt: "2026-09-26T16:49:52.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const pithkaButtons = {
   slug: "pithka-buttons",
   definition: "the toggle buttons the achievement tracker and group finder draw",
   code: "ts",
+  createdAt: "2026-09-26T16:33:23.196Z",
+  updatedAt: "2026-09-26T16:33:43.000Z",
 } as const satisfies Module

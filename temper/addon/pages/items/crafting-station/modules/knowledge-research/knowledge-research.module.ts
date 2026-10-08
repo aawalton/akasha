@@ -6,4 +6,6 @@ export const knowledgeResearch = {
   slug: "knowledge-research",
   definition: "the trait research table indexing every crafting line",
   code: "ts",
+  createdAt: "2026-09-02T12:44:31.372Z",
+  updatedAt: "2026-09-22T13:48:38.000Z",
 } as const satisfies Module

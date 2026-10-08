@@ -6,4 +6,6 @@ export const setsDropNameSharedText = {
   slug: "sets-drop-name-shared-text",
   definition: "the collectible name call and a shared phrase",
   code: "ts",
+  createdAt: "2026-09-02T11:17:05.701Z",
+  updatedAt: "2026-09-25T13:10:06.000Z",
 } as const satisfies Module

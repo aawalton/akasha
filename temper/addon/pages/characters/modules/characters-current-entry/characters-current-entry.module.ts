@@ -12,4 +12,6 @@ export const charactersCurrentEntry = {
       statement: "Which row the character now played is kept in is worked out in one place.",
     },
   ],
+  createdAt: "2026-09-02T15:52:42.403Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

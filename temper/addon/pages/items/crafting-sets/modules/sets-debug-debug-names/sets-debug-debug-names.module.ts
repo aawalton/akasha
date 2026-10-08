@@ -20,4 +20,6 @@ export const setsDebugDebugNames = {
       statement: "Every name is stored under the client language in which the name was read.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.232Z",
+  updatedAt: "2026-09-22T10:12:24.000Z",
 } as const satisfies Module

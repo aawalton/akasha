@@ -6,4 +6,6 @@ export const combatAlertsAlertsChannels = {
   slug: "combat-alerts-alerts-channels",
   definition: "the alerts for the player's own channeled attacks",
   code: "ts",
+  createdAt: "2026-09-26T16:40:23.101Z",
+  updatedAt: "2026-09-26T16:40:34.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const combatAlertsCloudrestMinis = {
   slug: "combat-alerts-cloudrest-minis",
   definition: "the Cloudrest mini shade detection, Z'Maja thresholds and mini spoofing",
   code: "ts",
+  createdAt: "2026-09-26T18:03:59.999Z",
+  updatedAt: "2026-09-26T18:04:12.000Z",
 } as const satisfies Module

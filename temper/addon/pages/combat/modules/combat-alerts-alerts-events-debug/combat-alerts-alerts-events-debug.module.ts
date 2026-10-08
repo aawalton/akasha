@@ -6,4 +6,6 @@ export const combatAlertsAlertsEventsDebug = {
   slug: "combat-alerts-alerts-events-debug",
   definition: "the debug listeners that print test abilities and stacks to chat",
   code: "ts",
+  createdAt: "2026-09-26T16:39:36.156Z",
+  updatedAt: "2026-09-26T16:39:51.000Z",
 } as const satisfies Module

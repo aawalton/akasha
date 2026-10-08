@@ -6,4 +6,6 @@ export const charactersAllianceRank = {
   slug: "characters-alliance-rank",
   definition: "the alliance rank of the character now played, read into the saved table",
   code: "ts",
+  createdAt: "2026-09-02T15:52:42.403Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

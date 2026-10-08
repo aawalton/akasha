@@ -6,4 +6,6 @@ export const charactersKnownIdLists = {
   slug: "characters-known-id-lists",
   definition: "an id put into the list kept under a numbered key, with no repeat",
   code: "ts",
+  createdAt: "2026-09-02T16:18:42.286Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

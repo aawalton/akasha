@@ -12,4 +12,6 @@ export const setsConstSettypeIds = {
       statement: "A module reading a set type number imports that number from here.",
     },
   ],
+  createdAt: "2026-09-21T19:46:46.706Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

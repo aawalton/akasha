@@ -11,4 +11,6 @@ export const consolidationMigrationsWorld = {
       statement: "More Markers' saved variables are carried into the world add-on under its own names.",
     },
   ],
+  createdAt: "2026-09-26T16:36:22.149Z",
+  updatedAt: "2026-09-26T16:36:28.000Z",
 } as const satisfies Module

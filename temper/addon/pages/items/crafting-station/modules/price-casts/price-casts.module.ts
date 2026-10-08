@@ -12,4 +12,6 @@ export const priceCasts = {
       statement: "Nothing here checks a value at run time.",
     },
   ],
+  createdAt: "2026-09-02T09:05:29.625Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

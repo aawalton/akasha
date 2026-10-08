@@ -42,4 +42,6 @@ export const addonDownload = {
       statement: "The clearing and the laying down are handed in.",
     },
   ],
+  createdAt: "2026-09-02T04:38:56.143Z",
+  updatedAt: "2026-09-21T17:48:38.000Z",
 } as const satisfies Module

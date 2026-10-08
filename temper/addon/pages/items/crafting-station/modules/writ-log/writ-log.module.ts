@@ -6,4 +6,6 @@ export const writLog = {
   slug: "writ-log",
   definition: "what the writ tracker writes to the debug log",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.303Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

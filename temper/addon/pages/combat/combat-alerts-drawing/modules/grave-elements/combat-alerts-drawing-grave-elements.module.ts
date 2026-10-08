@@ -6,4 +6,6 @@ export const combatAlertsDrawingGraveElements = {
   slug: "combat-alerts-drawing-grave-elements",
   definition: "the pieces, epitaphs and dates a grave is built from",
   code: "ts",
+  createdAt: "2026-09-26T17:22:33.537Z",
+  updatedAt: "2026-09-26T17:22:45.000Z",
 } as const satisfies Module

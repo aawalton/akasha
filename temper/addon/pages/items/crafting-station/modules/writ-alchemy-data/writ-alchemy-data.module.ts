@@ -6,4 +6,6 @@ export const writAlchemyData = {
   slug: "writ-alchemy-data",
   definition: "the reagents and effects an alchemy writ may name",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.291Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

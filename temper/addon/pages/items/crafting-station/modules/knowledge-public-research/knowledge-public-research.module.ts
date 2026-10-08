@@ -6,4 +6,6 @@ export const knowledgePublicResearch = {
   slug: "knowledge-public-research",
   definition: "what an addon asks the library about trait research",
   code: "ts",
+  createdAt: "2026-09-02T12:46:21.077Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

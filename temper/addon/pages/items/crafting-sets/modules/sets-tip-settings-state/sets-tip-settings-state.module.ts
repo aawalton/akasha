@@ -12,4 +12,6 @@ export const setsTipSettingsState = {
       statement: "The built flag is kept per input mode in a two-key map.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.230Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

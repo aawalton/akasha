@@ -6,4 +6,6 @@ export const writSmithSchemaData = {
   slug: "writ-smith-schema-data",
   definition: "a smithing writ's armor schools, traits and improvements",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.325Z",
+  updatedAt: "2026-09-22T14:12:28.000Z",
 } as const satisfies Module

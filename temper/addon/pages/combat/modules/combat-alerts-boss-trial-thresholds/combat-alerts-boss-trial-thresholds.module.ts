@@ -6,4 +6,6 @@ export const combatAlertsBossTrialThresholds = {
   slug: "combat-alerts-boss-trial-thresholds",
   definition: "the mechanic thresholds of trial bosses",
   code: "ts",
+  createdAt: "2026-09-26T16:21:21.018Z",
+  updatedAt: "2026-09-26T16:21:35.000Z",
 } as const satisfies Module

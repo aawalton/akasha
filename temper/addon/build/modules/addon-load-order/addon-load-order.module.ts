@@ -67,4 +67,6 @@ export const addonLoadOrder = {
       statement: "Each file written here is named to the caller as soon as that file is written.",
     },
   ],
+  createdAt: "2026-09-02T15:51:18.384Z",
+  updatedAt: "2026-09-28T18:30:49.000Z",
 } as const satisfies Module

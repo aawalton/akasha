@@ -12,4 +12,6 @@ export const companionsEquipmentFormatters = {
       statement: "An empty slot formats as a dash rather than as blank text.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.636Z",
+  updatedAt: "2026-09-22T10:05:23.000Z",
 } as const satisfies Module

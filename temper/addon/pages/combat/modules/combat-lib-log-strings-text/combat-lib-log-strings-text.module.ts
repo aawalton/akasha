@@ -6,4 +6,6 @@ export const combatLibLogStringsText = {
   slug: "combat-lib-log-strings-text",
   definition: "the wording of every combat log line",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.761Z",
+  updatedAt: "2026-09-22T14:04:10.000Z",
 } as const satisfies Module

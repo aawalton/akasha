@@ -6,4 +6,6 @@ export const combatActionEffectChanges = {
   slug: "combat-action-effect-changes",
   definition: "the effect-changed event decoded and handed to the action it belongs to",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.736Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

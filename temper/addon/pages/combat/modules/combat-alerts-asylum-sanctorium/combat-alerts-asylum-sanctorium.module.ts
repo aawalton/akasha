@@ -6,4 +6,6 @@ export const combatAlertsAsylumSanctorium = {
   slug: "combat-alerts-asylum-sanctorium",
   definition: "the Asylum Sanctorium zone alerts and the detection of Llothis and Felms",
   code: "ts",
+  createdAt: "2026-09-26T16:28:36.559Z",
+  updatedAt: "2026-09-26T16:28:56.000Z",
 } as const satisfies Module

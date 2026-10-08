@@ -52,4 +52,6 @@ export const tableFunctions = {
       statement: "A helper handed nothing answers as though handed an empty table.",
     },
   ],
+  createdAt: "2026-09-02T04:13:13.252Z",
+  updatedAt: "2026-09-21T22:32:47.000Z",
 } as const satisfies Module

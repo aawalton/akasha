@@ -6,4 +6,6 @@ export const combatAlertsInfoPanelUtils = {
   slug: "combat-alerts-info-panel-utils",
   definition: "the info panel countdowns, count-ups and consolidated damageable timer",
   code: "ts",
+  createdAt: "2026-09-26T16:17:58.113Z",
+  updatedAt: "2026-09-26T16:18:10.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const combatAlertsDrawingPlaced = {
   slug: "combat-alerts-drawing-placed",
   definition: "the placed markers, icons, oriented textures, ground circles and lines",
   code: "ts",
+  createdAt: "2026-09-26T16:32:19.600Z",
+  updatedAt: "2026-09-26T16:32:38.000Z",
 } as const satisfies Module

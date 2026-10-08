@@ -6,4 +6,6 @@ export const combatActionBar = {
   slug: "combat-action-bar",
   definition: "the row of widgets drawing the tracked actions",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.731Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

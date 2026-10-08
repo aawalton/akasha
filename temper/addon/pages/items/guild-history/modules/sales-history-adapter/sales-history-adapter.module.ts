@@ -6,4 +6,6 @@ export const salesHistoryAdapter = {
   slug: "sales-history-adapter",
   definition: "the saved guild history data read and written through an adapter",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.618Z",
+  updatedAt: "2026-09-22T10:12:24.000Z",
 } as const satisfies Module

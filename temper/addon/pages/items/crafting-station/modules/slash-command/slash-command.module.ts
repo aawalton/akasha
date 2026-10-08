@@ -36,4 +36,6 @@ export const slashCommand = {
       statement: "Unregistering the last subcommand turns completion off again.",
     },
   ],
+  createdAt: "2026-09-02T04:35:26.337Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

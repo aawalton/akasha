@@ -6,4 +6,6 @@ export const setsLocLanguageCodes = {
   slug: "sets-loc-language-codes",
   definition: "the eight language codes keying the localization tables",
   code: "ts",
+  createdAt: "2026-09-02T11:18:26.997Z",
+  updatedAt: "2026-09-22T13:48:38.000Z",
 } as const satisfies Module

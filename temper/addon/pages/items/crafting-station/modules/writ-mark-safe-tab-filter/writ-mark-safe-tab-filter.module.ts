@@ -6,4 +6,6 @@ export const writMarkSafeTabFilter = {
   slug: "writ-mark-safe-tab-filter",
   definition: "reads the inventory tab's filter without failing when it is absent",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.307Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

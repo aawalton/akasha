@@ -6,4 +6,6 @@ export const combatAlertsDrawingCore = {
   slug: "combat-alerts-drawing-core",
   definition: "the world textures and the callbacks that move, turn and colour them",
   code: "ts",
+  createdAt: "2026-09-26T16:30:47.936Z",
+  updatedAt: "2026-09-26T16:31:07.000Z",
 } as const satisfies Module

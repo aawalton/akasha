@@ -13,4 +13,6 @@ export const setsCoreApiSettypePredicates = {
       statement: "Each answer here reads a table on the global whose name is a plain string.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.133Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const catalogInvalidations = {
       statement: "The version applied is written back so the same request is not applied twice.",
     },
   ],
+  createdAt: "2026-09-02T20:06:07.333Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const combatLibTypes = {
   slug: "combat-lib-types",
   definition: "the unit, fight and champion point shapes the recorder keeps",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.763Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

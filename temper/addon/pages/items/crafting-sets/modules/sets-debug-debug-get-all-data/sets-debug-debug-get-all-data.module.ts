@@ -20,4 +20,6 @@ export const setsDebugDebugGetAllData = {
       statement: "A slash command option is the only thing in the library that starts this run.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.232Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

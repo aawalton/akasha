@@ -25,4 +25,6 @@ export const dataEncodeCharset = {
         "A control character names the reader for the characters following that character.",
     },
   ],
+  createdAt: "2026-09-02T04:30:03.423Z",
+  updatedAt: "2026-09-21T23:50:19.000Z",
 } as const satisfies Module

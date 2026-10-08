@@ -16,4 +16,6 @@ export const setsSearchUiKeyboardInit = {
       statement: "The window adds itself to the game's keyboard systems under the search UI name.",
     },
   ],
+  createdAt: "2026-09-02T13:10:46.945Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

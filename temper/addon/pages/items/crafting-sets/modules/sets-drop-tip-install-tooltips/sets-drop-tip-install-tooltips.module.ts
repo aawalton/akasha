@@ -13,4 +13,6 @@ export const setsDropTipInstallTooltips = {
       statement: "The tables are written onto the library table rather than exported.",
     },
   ],
+  createdAt: "2026-09-02T11:17:05.730Z",
+  updatedAt: "2026-09-25T13:10:06.000Z",
 } as const satisfies Module

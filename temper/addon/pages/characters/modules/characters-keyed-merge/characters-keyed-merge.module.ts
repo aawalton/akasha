@@ -12,4 +12,6 @@ export const charactersKeyedMerge = {
       statement: "How a stored map of numbered entries takes a freshly read map is settled here.",
     },
   ],
+  createdAt: "2026-09-02T16:18:42.148Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

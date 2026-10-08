@@ -20,4 +20,6 @@ export const esoBaseGameStringIds = {
       statement: "The runs with the ids are divided only to keep each file under the ceiling.",
     },
   ],
+  createdAt: "2026-09-02T18:47:20.063Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

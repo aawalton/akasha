@@ -6,4 +6,6 @@ export const combatActionStore = {
   slug: "combat-action-store",
   definition: "the lookup that finds a tracked action again from the effect that renewed it",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.743Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

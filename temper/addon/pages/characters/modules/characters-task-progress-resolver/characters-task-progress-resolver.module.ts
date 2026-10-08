@@ -12,4 +12,6 @@ export const charactersTaskProgressResolver = {
       statement: "Which resolver a completion card is answered by is stated in one place.",
     },
   ],
+  createdAt: "2026-09-02T16:23:41.501Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const writMatRow = {
   slug: "writ-mat-row",
   definition: "a material a writ asks for, with its count and its price",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.309Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

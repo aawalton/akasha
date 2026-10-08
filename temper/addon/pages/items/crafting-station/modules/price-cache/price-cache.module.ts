@@ -12,4 +12,6 @@ export const priceCache = {
       statement: "A held price is dropped five minutes after the last drop.",
     },
   ],
+  createdAt: "2026-09-02T09:05:29.624Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

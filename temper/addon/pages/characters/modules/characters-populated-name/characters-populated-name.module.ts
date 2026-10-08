@@ -12,4 +12,6 @@ export const charactersPopulatedName = {
       statement: "Which of a stored and a freshly read name wins is settled here.",
     },
   ],
+  createdAt: "2026-09-02T16:18:42.166Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

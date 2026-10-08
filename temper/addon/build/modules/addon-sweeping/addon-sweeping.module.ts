@@ -46,4 +46,6 @@ export const addonSweeping = {
       statement: "Nothing here is compiled and nothing here is placed.",
     },
   ],
+  createdAt: "2026-09-21T16:52:28.544Z",
+  updatedAt: "2026-09-21T23:13:34.000Z",
 } as const satisfies Module

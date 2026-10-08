@@ -16,4 +16,6 @@ export const dataEncodeSurface = {
       statement: "An empty table is handed out for a caller to keep working notes in.",
     },
   ],
+  createdAt: "2026-09-02T04:30:03.422Z",
+  updatedAt: "2026-09-22T13:46:35.000Z",
 } as const satisfies Module

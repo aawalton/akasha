@@ -6,4 +6,6 @@ export const combatUiBuildExport = {
   slug: "combat-ui-build-export",
   definition: "writing the player's gear, skills and champion points out as shareable text",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.771Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

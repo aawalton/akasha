@@ -13,4 +13,6 @@ export const charactersTaskProgressResolverWorld = {
       statement: "A character's rapport is counted with the quests that character has done.",
     },
   ],
+  createdAt: "2026-09-02T16:23:41.484Z",
+  updatedAt: "2026-09-26T17:14:08.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const charactersTabManager = {
       statement: "A tab another module adds before the window is built is added once it is built.",
     },
   ],
+  createdAt: "2026-09-02T16:23:41.410Z",
+  updatedAt: "2026-09-25T17:33:03.000Z",
 } as const satisfies Module

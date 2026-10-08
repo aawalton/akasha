@@ -61,4 +61,6 @@ export const addonPlacing = {
       statement: "Nothing here leaves this machine.",
     },
   ],
+  createdAt: "2026-09-11T13:46:40.426Z",
+  updatedAt: "2026-09-21T15:02:26.000Z",
 } as const satisfies Module

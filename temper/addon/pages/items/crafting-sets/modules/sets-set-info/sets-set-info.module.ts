@@ -24,4 +24,6 @@ export const setsSetInfo = {
       statement: "A veteran slot is the game constant the set's page names it by.",
     },
   ],
+  createdAt: "2026-09-26T13:59:02.243Z",
+  updatedAt: "2026-09-26T13:59:27.000Z",
 } as const satisfies Module

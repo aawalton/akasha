@@ -6,4 +6,6 @@ export const pithkaSavedVars = {
   slug: "pithka-saved-vars",
   definition: "the achievement tracker's saved table and the callbacks a change to it fires",
   code: "ts",
+  createdAt: "2026-09-26T16:09:59.811Z",
+  updatedAt: "2026-09-26T16:10:12.000Z",
 } as const satisfies Module

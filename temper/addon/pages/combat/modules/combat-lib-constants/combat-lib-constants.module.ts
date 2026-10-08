@@ -6,4 +6,6 @@ export const combatLibConstants = {
   slug: "combat-lib-constants",
   definition: "the event numbers, stat numbers and special ability ids the recorder uses",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.756Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

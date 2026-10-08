@@ -6,4 +6,6 @@ export const combatAlertsMain = {
   slug: "combat-alerts-main",
   definition: "the start of the combat alerts and their answer to each zone change",
   code: "ts",
+  createdAt: "2026-09-26T16:04:04.365Z",
+  updatedAt: "2026-09-26T16:04:14.000Z",
 } as const satisfies Module

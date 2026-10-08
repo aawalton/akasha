@@ -12,4 +12,6 @@ export const companionQolConstants = {
       statement: "A setting absent from saved variables takes its value from here.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.622Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

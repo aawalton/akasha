@@ -6,4 +6,6 @@ export const priceSourcesNpc = {
   slug: "price-sources-npc",
   definition: "a game vendor's buying or selling price for an item",
   code: "ts",
+  createdAt: "2026-09-02T09:05:29.627Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies Module

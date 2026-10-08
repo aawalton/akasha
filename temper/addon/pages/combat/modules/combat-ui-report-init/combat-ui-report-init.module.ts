@@ -12,4 +12,6 @@ export const combatUiReportInit = {
       statement: "The report window keeps the frame, fonts and layout Combat Metrics gives it.",
     },
   ],
+  createdAt: "2026-09-02T09:42:10.778Z",
+  updatedAt: "2026-09-26T15:48:51.000Z",
 } as const satisfies Module

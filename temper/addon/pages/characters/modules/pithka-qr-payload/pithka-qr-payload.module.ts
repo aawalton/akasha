@@ -6,4 +6,6 @@ export const pithkaQrPayload = {
   slug: "pithka-qr-payload",
   definition: "the text the tracker's QR code carries of the clears on the open screen",
   code: "ts",
+  createdAt: "2026-09-26T16:26:20.655Z",
+  updatedAt: "2026-09-26T16:26:39.000Z",
 } as const satisfies Module

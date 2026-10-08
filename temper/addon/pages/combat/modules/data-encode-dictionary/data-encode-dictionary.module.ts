@@ -34,4 +34,6 @@ export const dataEncodeDictionary = {
       statement: "A key of an array is skipped rather than counted.",
     },
   ],
+  createdAt: "2026-09-02T04:30:03.423Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

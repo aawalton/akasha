@@ -41,4 +41,6 @@ export const addonRoster = {
       statement: "A name matching no addon answers as a folder under `temper/addons`.",
     },
   ],
+  createdAt: "2026-09-02T04:29:19.806Z",
+  updatedAt: "2026-09-22T14:08:59.000Z",
 } as const satisfies Module

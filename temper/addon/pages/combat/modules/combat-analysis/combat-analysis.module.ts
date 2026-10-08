@@ -6,4 +6,6 @@ export const combatAnalysis = {
   slug: "combat-analysis",
   definition: "turning a recorded fight into the report's totals",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.745Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const knowledgeCuratedStyleQuality = {
   slug: "knowledge-curated-style-quality",
   definition: "how common each motif style is taken to be",
   code: "ts",
+  createdAt: "2026-09-02T12:50:36.761Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

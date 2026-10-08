@@ -6,4 +6,6 @@ export const knowledgeStringsDefault = {
   slug: "knowledge-strings-default",
   definition: "the text this library shows in English",
   code: "ts",
+  createdAt: "2026-09-02T12:33:38.157Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

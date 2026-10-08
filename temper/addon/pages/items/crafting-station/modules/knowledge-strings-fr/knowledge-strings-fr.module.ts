@@ -6,4 +6,6 @@ export const knowledgeStringsFr = {
   slug: "knowledge-strings-fr",
   definition: "the text this library shows in French",
   code: "ts",
+  createdAt: "2026-09-02T12:33:38.159Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

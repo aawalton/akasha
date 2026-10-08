@@ -6,4 +6,6 @@ export const craftQuality = {
   slug: "craft-quality",
   definition: "each item quality's color",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.240Z",
+  updatedAt: "2026-09-22T13:48:38.000Z",
 } as const satisfies Module

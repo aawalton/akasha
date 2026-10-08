@@ -6,4 +6,6 @@ export const combatLibFight = {
   slug: "combat-lib-fight",
   definition: "when a fight starts, when it ends, and what counts as the same fight",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.758Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const setsCoreSetTypeQueries = {
       statement: "The world map opener is published from this module rather than from navigation.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.132Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

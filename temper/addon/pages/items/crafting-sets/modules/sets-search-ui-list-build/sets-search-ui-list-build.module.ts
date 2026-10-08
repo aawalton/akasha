@@ -16,4 +16,6 @@ export const setsSearchUiListBuild = {
       statement: "The setting can append a set's English name to the set's own name.",
     },
   ],
+  createdAt: "2026-09-02T13:10:46.944Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const combatLogLineCodec = {
   slug: "combat-log-line-codec",
   definition: "packing a log line into numbers and unpacking it again",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.764Z",
+  updatedAt: "2026-09-22T10:13:41.000Z",
 } as const satisfies Module

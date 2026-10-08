@@ -6,4 +6,6 @@ export const craftingPublicApi = {
   slug: "crafting-public-api",
   definition: "the names this add-on offers other add-ons",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.264Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

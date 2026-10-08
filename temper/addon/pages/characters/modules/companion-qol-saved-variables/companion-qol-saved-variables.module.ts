@@ -13,4 +13,6 @@ export const companionQolSavedVariables = {
         "Switching between account-wide and per character carries the current settings over.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.628Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

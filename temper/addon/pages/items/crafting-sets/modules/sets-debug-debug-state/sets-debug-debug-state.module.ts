@@ -17,4 +17,6 @@ export const setsDebugDebugState = {
       statement: "The world name and API version are read once when the module loads.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.231Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

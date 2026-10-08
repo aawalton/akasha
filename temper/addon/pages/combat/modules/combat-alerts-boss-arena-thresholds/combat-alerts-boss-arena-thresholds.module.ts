@@ -6,4 +6,6 @@ export const combatAlertsBossArenaThresholds = {
   slug: "combat-alerts-boss-arena-thresholds",
   definition: "the mechanic thresholds of arena bosses",
   code: "ts",
+  createdAt: "2026-09-26T16:21:21.017Z",
+  updatedAt: "2026-09-26T16:21:35.000Z",
 } as const satisfies Module

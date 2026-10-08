@@ -6,4 +6,6 @@ export const pithkaGroupFinder = {
   slug: "pithka-group-finder",
   definition: "the group finder that searches the game's group listings and joins the one picked",
   code: "ts",
+  createdAt: "2026-09-26T16:22:28.106Z",
+  updatedAt: "2026-09-26T16:23:01.000Z",
 } as const satisfies Module

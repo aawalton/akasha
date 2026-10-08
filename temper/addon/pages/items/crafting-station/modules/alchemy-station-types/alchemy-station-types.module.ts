@@ -20,4 +20,6 @@ export const alchemyStationTypes = {
       statement: "The control a tab draws into is filled in by the library.",
     },
   ],
+  createdAt: "2026-09-02T04:15:51.997Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const playerAnswerEntry = {
       statement: "A capture that finishes replaces the answers saved before it whole.",
     },
   ],
+  createdAt: "2026-09-24T22:10:34.921Z",
+  updatedAt: "2026-09-24T22:10:41.000Z",
 } as const satisfies Module

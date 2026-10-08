@@ -14,4 +14,6 @@ export const charactersPlayerStats = {
         "A character the saved table does not yet hold is given a row rather than skipped.",
     },
   ],
+  createdAt: "2026-09-02T16:21:49.011Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

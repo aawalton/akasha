@@ -16,4 +16,6 @@ export const craftingEventsInventory = {
     },
   ],
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.263Z",
+  updatedAt: "2026-09-27T01:15:26.000Z",
 } as const satisfies Module

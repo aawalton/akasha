@@ -6,4 +6,6 @@ export const combatDataTables = {
   slug: "combat-data-tables",
   definition: "the ability tables correcting the game's own numbers for the analysis",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.753Z",
+  updatedAt: "2026-09-22T13:43:25.000Z",
 } as const satisfies Module

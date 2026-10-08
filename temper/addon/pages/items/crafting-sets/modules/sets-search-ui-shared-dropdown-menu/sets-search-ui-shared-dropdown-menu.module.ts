@@ -16,4 +16,6 @@ export const setsSearchUiSharedDropdownMenu = {
       statement: "The drop zone dropdown offers the zone the player is in and its parent zone.",
     },
   ],
+  createdAt: "2026-09-21T17:49:30.322Z",
+  updatedAt: "2026-09-22T04:20:35.000Z",
 } as const satisfies Module

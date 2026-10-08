@@ -41,4 +41,6 @@ export const addonBundling = {
       statement: "Nothing here says what the archive is named by.",
     },
   ],
+  createdAt: "2026-09-11T13:57:01.511Z",
+  updatedAt: "2026-09-21T15:02:26.000Z",
 } as const satisfies Module

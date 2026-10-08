@@ -6,4 +6,6 @@ export const combatAlertsCc = {
   slug: "combat-alerts-cc",
   definition: "the crowd control detection from combat events",
   code: "ts",
+  createdAt: "2026-09-26T17:38:52.857Z",
+  updatedAt: "2026-09-26T17:39:03.000Z",
 } as const satisfies Module

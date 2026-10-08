@@ -6,4 +6,6 @@ export const combatAlertsVateshranHollows = {
   slug: "combat-alerts-vateshran-hollows",
   definition: "the Vateshran Hollows missed adds report",
   code: "ts",
+  createdAt: "2026-09-26T16:26:08.265Z",
+  updatedAt: "2026-09-26T16:26:29.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const setsDropNameNamesEn = {
       statement: "A name here may be read from the game's own strings rather than written out.",
     },
   ],
+  createdAt: "2026-09-02T11:17:05.703Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

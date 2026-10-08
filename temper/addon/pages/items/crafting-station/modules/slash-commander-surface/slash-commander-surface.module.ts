@@ -32,4 +32,6 @@ export const slashCommanderSurface = {
       statement: "A wrapped function is called with the function wrapped as its first argument.",
     },
   ],
+  createdAt: "2026-09-02T04:35:26.337Z",
+  updatedAt: "2026-09-22T14:12:28.000Z",
 } as const satisfies Module

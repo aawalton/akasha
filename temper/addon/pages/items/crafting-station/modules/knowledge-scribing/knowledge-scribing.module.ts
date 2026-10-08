@@ -6,4 +6,6 @@ export const knowledgeScribing = {
   slug: "knowledge-scribing",
   definition: "what a character has unlocked of grimoires and scripts",
   code: "ts",
+  createdAt: "2026-09-02T12:44:31.370Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

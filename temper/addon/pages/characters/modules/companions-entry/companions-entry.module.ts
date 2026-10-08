@@ -20,4 +20,6 @@ export const companionsEntry = {
       statement: "Every sub-tab registered here names both the panel it makes and the refresh.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.636Z",
+  updatedAt: "2026-09-22T01:42:08.000Z",
 } as const satisfies Module

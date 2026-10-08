@@ -6,4 +6,6 @@ export const combatAlertsBossStages = {
   slug: "combat-alerts-boss-stages",
   definition: "the mechanic threshold lines and labels drawn across the boss health bars",
   code: "ts",
+  createdAt: "2026-09-26T16:33:03.793Z",
+  updatedAt: "2026-09-26T16:33:21.000Z",
 } as const satisfies Module

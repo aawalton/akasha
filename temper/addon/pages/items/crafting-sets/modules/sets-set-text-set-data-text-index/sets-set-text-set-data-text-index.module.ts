@@ -16,4 +16,6 @@ export const setsSetTextSetDataTextIndex = {
       statement: "A set with no set id yields nothing but a complaint in the chat.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.229Z",
+  updatedAt: "2026-09-22T10:05:23.000Z",
 } as const satisfies Module

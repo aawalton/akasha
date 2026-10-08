@@ -12,4 +12,6 @@ export const companionsSummaryPanel = {
       statement: "Column positions are fixed numbers rather than measured from content.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.653Z",
+  updatedAt: "2026-09-22T14:04:10.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const setsTipHelpers = {
       statement: "Favourite categories show as icons alone with no words.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.206Z",
+  updatedAt: "2026-09-22T14:04:10.000Z",
 } as const satisfies Module

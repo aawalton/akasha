@@ -6,4 +6,6 @@ export const craftingHelpers = {
   slug: "crafting-helpers",
   definition: "the small text and table turns all the crafting windows use",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.264Z",
+  updatedAt: "2026-09-22T14:04:10.000Z",
 } as const satisfies Module

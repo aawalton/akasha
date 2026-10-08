@@ -25,4 +25,6 @@ export const craftingSlotItems = {
   ],
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-27T20:08:10.474Z",
+  updatedAt: "2026-09-27T20:10:47.000Z",
 } as const satisfies Module

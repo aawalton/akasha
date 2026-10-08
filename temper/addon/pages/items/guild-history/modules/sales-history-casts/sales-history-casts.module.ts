@@ -6,4 +6,6 @@ export const salesHistoryCasts = {
   slug: "sales-history-casts",
   definition: "the narrowings from unknown this library's own shapes need",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.621Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

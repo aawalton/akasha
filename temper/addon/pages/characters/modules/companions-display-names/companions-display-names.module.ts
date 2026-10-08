@@ -13,4 +13,6 @@ export const companionsDisplayNames = {
       statement: "A name is held by codec index rather than by game constant.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.635Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

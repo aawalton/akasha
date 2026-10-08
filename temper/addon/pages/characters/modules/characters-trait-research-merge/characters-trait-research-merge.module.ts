@@ -7,4 +7,6 @@ export const charactersTraitResearchMerge = {
   definition:
     "a stored trait research reading folded with a fresh one, a known trait staying known",
   code: "ts",
+  createdAt: "2026-09-02T16:18:42.248Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

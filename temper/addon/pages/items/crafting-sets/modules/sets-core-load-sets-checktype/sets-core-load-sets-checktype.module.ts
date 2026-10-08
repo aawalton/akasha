@@ -22,4 +22,6 @@ export const setsCoreLoadSetsChecktype = {
       statement: "A pair learned from the game is written into the set info of both its sets.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.132Z",
+  updatedAt: "2026-09-25T14:32:32.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const setsSearchUiSharedRowmenu = {
       statement: "A row with no set type name opens its menu with a blank first entry.",
     },
   ],
+  createdAt: "2026-09-02T13:10:46.943Z",
+  updatedAt: "2026-09-25T22:33:53.000Z",
 } as const satisfies Module

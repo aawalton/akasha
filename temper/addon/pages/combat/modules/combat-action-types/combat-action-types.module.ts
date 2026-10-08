@@ -6,4 +6,6 @@ export const combatActionTypes = {
   slug: "combat-action-types",
   definition: "the ability, effect and action shapes of the action engine",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.743Z",
+  updatedAt: "2026-09-22T13:52:13.000Z",
 } as const satisfies Module

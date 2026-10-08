@@ -41,4 +41,6 @@ export const luaBuildCommand = {
         "The checkout a caller names is joined to a place under the compiler's own folder.",
     },
   ],
+  createdAt: "2026-09-02T03:44:49.345Z",
+  updatedAt: "2026-09-22T10:13:41.000Z",
 } as const satisfies Module

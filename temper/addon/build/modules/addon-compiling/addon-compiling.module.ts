@@ -65,4 +65,6 @@ export const addonCompiling = {
       statement: "Nothing here reaches the game's addons folder.",
     },
   ],
+  createdAt: "2026-09-11T13:45:49.799Z",
+  updatedAt: "2026-09-25T16:32:11.000Z",
 } as const satisfies Module

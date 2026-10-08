@@ -6,4 +6,6 @@ export const combatAlertsStyle = {
   slug: "combat-alerts-style",
   definition: "the fonts the combat alerts draw with on keyboard and on gamepad",
   code: "ts",
+  createdAt: "2026-09-26T16:04:04.365Z",
+  updatedAt: "2026-09-26T16:04:14.000Z",
 } as const satisfies Module

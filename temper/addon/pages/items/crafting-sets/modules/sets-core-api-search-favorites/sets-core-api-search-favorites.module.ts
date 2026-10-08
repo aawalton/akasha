@@ -12,4 +12,6 @@ export const setsCoreApiSearchFavorites = {
       statement: "No addon adds a second search results context menu entry.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.205Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies Module

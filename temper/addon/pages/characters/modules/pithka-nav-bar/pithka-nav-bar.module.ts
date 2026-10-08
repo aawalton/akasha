@@ -6,4 +6,6 @@ export const pithkaNavBar = {
   slug: "pithka-nav-bar",
   definition: "the column of screen icons beside the achievement tracker",
   code: "ts",
+  createdAt: "2026-09-26T16:33:23.197Z",
+  updatedAt: "2026-09-26T16:33:43.000Z",
 } as const satisfies Module

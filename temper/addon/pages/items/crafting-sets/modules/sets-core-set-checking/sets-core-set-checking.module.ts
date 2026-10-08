@@ -18,4 +18,6 @@ export const setsCoreSetChecking = {
       statement: "A set id found inactive is remembered as inactive until the caches are cleared.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.131Z",
+  updatedAt: "2026-09-25T14:32:32.000Z",
 } as const satisfies Module

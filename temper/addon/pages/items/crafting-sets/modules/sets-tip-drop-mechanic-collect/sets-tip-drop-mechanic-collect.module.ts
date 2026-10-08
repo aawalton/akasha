@@ -20,4 +20,6 @@ export const setsTipDropMechanicCollect = {
       statement: "The computed grouping is written back onto the given set data.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.206Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

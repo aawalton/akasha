@@ -37,4 +37,6 @@ export const slashCommanderChatHooks = {
       statement: "A second setup does nothing.",
     },
   ],
+  createdAt: "2026-09-02T04:35:26.338Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

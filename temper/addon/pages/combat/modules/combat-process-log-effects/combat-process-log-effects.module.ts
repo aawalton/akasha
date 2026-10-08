@@ -6,4 +6,6 @@ export const combatProcessLogEffects = {
   slug: "combat-process-log-effects",
   definition: "reading effects, resources and player stats out of the recorded log",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.766Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

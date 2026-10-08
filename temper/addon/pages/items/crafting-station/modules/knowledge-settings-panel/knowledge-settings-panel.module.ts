@@ -6,4 +6,6 @@ export const knowledgeSettingsPanel = {
   slug: "knowledge-settings-panel",
   definition: "the library's page in the game's add-on settings",
   code: "ts",
+  createdAt: "2026-09-02T12:47:51.824Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

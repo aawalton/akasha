@@ -6,4 +6,6 @@ export const craftQuestTracking = {
   slug: "craft-quest-tracking",
   definition: "the crafting writ the player is carrying",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.240Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

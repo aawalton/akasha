@@ -6,4 +6,6 @@ export const combatAlertsAsylumMiniPanel = {
   slug: "combat-alerts-asylum-mini-panel",
   definition: "the info panel timers for Llothis and Felms in Asylum Sanctorium",
   code: "ts",
+  createdAt: "2026-09-26T16:28:36.558Z",
+  updatedAt: "2026-09-26T16:28:56.000Z",
 } as const satisfies Module

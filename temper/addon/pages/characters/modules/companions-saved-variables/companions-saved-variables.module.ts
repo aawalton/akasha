@@ -12,4 +12,6 @@ export const companionsSavedVariables = {
       statement: "A companion entry is made on first touch rather than declared up front.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.647Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

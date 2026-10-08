@@ -6,4 +6,6 @@ export const salesHistoryCacheStatusBar = {
   slug: "sales-history-cache-status-bar",
   definition: "the coloured bar showing what a category has cached",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.621Z",
+  updatedAt: "2026-09-22T10:05:23.000Z",
 } as const satisfies Module

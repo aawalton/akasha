@@ -35,4 +35,6 @@ export const craftWindowFrames = {
       statement: "A crafting window's category buttons are tabs, and its fields sit a level above.",
     },
   ],
+  createdAt: "2026-09-25T13:31:58.849Z",
+  updatedAt: "2026-09-25T20:00:05.000Z",
 } as const satisfies Module

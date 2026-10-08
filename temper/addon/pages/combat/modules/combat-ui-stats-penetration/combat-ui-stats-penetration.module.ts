@@ -6,4 +6,6 @@ export const combatUiStatsPenetration = {
   slug: "combat-ui-stats-penetration",
   definition: "the penetration rows of the right statistics panel",
   code: "ts",
+  createdAt: "2026-09-21T17:13:10.896Z",
+  updatedAt: "2026-09-21T17:13:38.000Z",
 } as const satisfies Module

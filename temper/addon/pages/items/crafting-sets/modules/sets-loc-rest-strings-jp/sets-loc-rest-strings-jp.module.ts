@@ -6,4 +6,6 @@ export const setsLocRestStringsJp = {
   slug: "sets-loc-rest-strings-jp",
   definition: "the library's own interface text in Japanese",
   code: "ts",
+  createdAt: "2026-09-02T11:18:27.006Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

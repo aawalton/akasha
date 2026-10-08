@@ -17,4 +17,6 @@ export const setsCoreItemidDecompress = {
       statement: "A set's expanded item ids are cached when first asked for.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.130Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies Module

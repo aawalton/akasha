@@ -6,4 +6,6 @@ export const combatAlertsSunspireLokk = {
   slug: "combat-alerts-sunspire-lokk",
   definition: "the Lokkestiiz beam icons, flight damageable timers and storm breath telegraphs",
   code: "ts",
+  createdAt: "2026-09-26T16:42:41.438Z",
+  updatedAt: "2026-09-26T16:42:56.000Z",
 } as const satisfies Module

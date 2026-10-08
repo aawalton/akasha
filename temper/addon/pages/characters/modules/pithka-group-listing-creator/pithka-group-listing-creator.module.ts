@@ -6,4 +6,6 @@ export const pithkaGroupListingCreator = {
   slug: "pithka-group-listing-creator",
   definition: "the group finder listing an achievement's menu fills in and opens",
   code: "ts",
+  createdAt: "2026-09-26T16:26:20.655Z",
+  updatedAt: "2026-09-26T16:26:39.000Z",
 } as const satisfies Module

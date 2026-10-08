@@ -28,4 +28,6 @@ export const slashCommanderProviders = {
       statement: "The subcommand provider offers the aliases beneath one command.",
     },
   ],
+  createdAt: "2026-09-02T04:35:26.338Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

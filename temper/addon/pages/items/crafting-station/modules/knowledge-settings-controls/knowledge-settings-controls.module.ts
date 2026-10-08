@@ -6,4 +6,6 @@ export const knowledgeSettingsControls = {
   slug: "knowledge-settings-controls",
   definition: "a character's tracking choices as menu controls",
   code: "ts",
+  createdAt: "2026-09-02T12:47:51.819Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

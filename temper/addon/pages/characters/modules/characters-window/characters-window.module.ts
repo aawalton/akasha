@@ -6,4 +6,6 @@ export const charactersWindow = {
   slug: "characters-window",
   definition: "the add-on's own window, its title, its panels and whether it is up",
   code: "ts",
+  createdAt: "2026-09-02T16:23:41.536Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

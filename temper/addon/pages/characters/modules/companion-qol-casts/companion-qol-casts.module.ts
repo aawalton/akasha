@@ -12,4 +12,6 @@ export const companionQolCasts = {
       statement: "A value of the wrong kind reads back as the fallback rather than raising.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.620Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

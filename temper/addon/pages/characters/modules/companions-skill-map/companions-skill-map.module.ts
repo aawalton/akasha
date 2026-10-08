@@ -12,4 +12,6 @@ export const companionsSkillMap = {
       statement: "An ability's index here is the index a saved build hash has.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.650Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

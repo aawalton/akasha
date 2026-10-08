@@ -16,4 +16,6 @@ export const craftingSlotHandlerStats = {
       statement: "A chat command is installed by a function the add-on's load calls.",
     },
   ],
+  createdAt: "2026-09-02T11:01:26.265Z",
+  updatedAt: "2026-09-22T04:09:03.000Z",
 } as const satisfies Module

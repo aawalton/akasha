@@ -17,4 +17,6 @@ export const combatUiPlotMouse = {
       statement: "Each series under the pointer is a line in that series' own color.",
     },
   ],
+  createdAt: "2026-09-02T09:42:10.778Z",
+  updatedAt: "2026-09-26T15:41:23.000Z",
 } as const satisfies Module

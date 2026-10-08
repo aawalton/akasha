@@ -17,4 +17,6 @@ export const setsTipSetDataTextCustom = {
       statement: "The literal <br> in the pattern becomes a newline.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.206Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

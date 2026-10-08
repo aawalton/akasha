@@ -13,4 +13,6 @@ export const companionsCodec = {
     },
   ],
   hashIndexed: ["ARMOR_SLOTS", "JEWELRY_SLOTS", "WEAPON_SLOTS", "SKILL_SLOT_INDICES"],
+  createdAt: "2026-09-02T07:55:19.632Z",
+  updatedAt: "2026-09-24T23:36:43.000Z",
 } as const satisfies Module

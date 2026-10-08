@@ -12,4 +12,6 @@ export const setsKbfSorting = {
       statement: "Sorting is offered only on the row fields the sort table names.",
     },
   ],
+  createdAt: "2026-09-02T13:10:46.945Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

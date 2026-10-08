@@ -20,4 +20,6 @@ export const setsTipPreview = {
       statement: "A set is found by name with spaces treated as a middle dot.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.230Z",
+  updatedAt: "2026-09-22T10:19:01.000Z",
 } as const satisfies Module

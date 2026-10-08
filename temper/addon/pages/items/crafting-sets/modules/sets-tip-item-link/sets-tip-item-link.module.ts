@@ -20,4 +20,6 @@ export const setsTipItemLink = {
       statement: "A craftable set node yields a link built from the set's first item id.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.206Z",
+  updatedAt: "2026-09-22T14:12:28.000Z",
 } as const satisfies Module

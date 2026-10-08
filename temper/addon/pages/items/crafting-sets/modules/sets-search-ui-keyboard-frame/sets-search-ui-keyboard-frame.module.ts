@@ -17,4 +17,6 @@ export const setsSearchUiKeyboardFrame = {
         "Search, reset and settings are the window's actions, in that order from the cross.",
     },
   ],
+  createdAt: "2026-09-25T13:48:18.316Z",
+  updatedAt: "2026-09-25T13:48:36.000Z",
 } as const satisfies Module

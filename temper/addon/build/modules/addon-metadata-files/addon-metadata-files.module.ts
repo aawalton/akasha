@@ -57,4 +57,6 @@ export const addonMetadataFiles = {
       statement: "A page loaded by a name whose own file is absent refuses the call.",
     },
   ],
+  createdAt: "2026-09-02T10:25:07.397Z",
+  updatedAt: "2026-09-22T02:29:00.000Z",
 } as const satisfies Module

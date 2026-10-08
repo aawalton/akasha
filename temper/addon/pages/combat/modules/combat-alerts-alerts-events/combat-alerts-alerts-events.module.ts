@@ -6,4 +6,6 @@ export const combatAlertsAlertsEvents = {
   slug: "combat-alerts-alerts-events",
   definition: "the begin, gained and interrupt listeners feeding the alerts",
   code: "ts",
+  createdAt: "2026-09-26T16:39:36.157Z",
+  updatedAt: "2026-09-26T16:39:51.000Z",
 } as const satisfies Module

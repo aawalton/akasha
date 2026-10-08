@@ -6,4 +6,6 @@ export const writTypes = {
   slug: "writ-types",
   definition: "the shapes the writ tracker's modules hand each other",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.328Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

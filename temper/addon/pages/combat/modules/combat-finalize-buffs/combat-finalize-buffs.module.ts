@@ -6,4 +6,6 @@ export const combatFinalizeBuffs = {
   slug: "combat-finalize-buffs",
   definition: "working out how much of a fight each buff was up",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.755Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

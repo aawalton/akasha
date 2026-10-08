@@ -6,4 +6,6 @@ export const combatAlertsAlertsCore = {
   slug: "combat-alerts-alerts-core",
   definition: "the alert lines with their timers, overwrites and interrupts",
   code: "ts",
+  createdAt: "2026-09-26T16:29:17.809Z",
+  updatedAt: "2026-09-26T16:29:34.000Z",
 } as const satisfies Module

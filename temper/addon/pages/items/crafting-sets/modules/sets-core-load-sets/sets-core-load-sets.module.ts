@@ -20,4 +20,6 @@ export const setsCoreLoadSets = {
       statement: "The type tables are named by strings carried in the set type data.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.132Z",
+  updatedAt: "2026-09-22T10:19:56.000Z",
 } as const satisfies Module

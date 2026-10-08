@@ -6,4 +6,6 @@ export const combatSelection = {
   slug: "combat-selection",
   definition: "the fights on offer and the totals for whichever part of one is selected",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.767Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

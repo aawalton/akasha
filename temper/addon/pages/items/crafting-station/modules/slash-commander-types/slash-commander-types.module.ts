@@ -20,4 +20,6 @@ export const slashCommanderTypes = {
       statement: "Finding the command for a token answers the command beside the token.",
     },
   ],
+  createdAt: "2026-09-02T04:35:26.339Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

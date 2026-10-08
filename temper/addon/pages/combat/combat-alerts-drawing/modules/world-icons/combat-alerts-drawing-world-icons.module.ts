@@ -6,4 +6,6 @@ export const combatAlertsDrawingWorldIcons = {
   slug: "combat-alerts-drawing-world-icons",
   definition: "the switching on and off of world icons and icon groups",
   code: "ts",
+  createdAt: "2026-09-26T17:24:03.364Z",
+  updatedAt: "2026-09-26T17:24:15.000Z",
 } as const satisfies Module

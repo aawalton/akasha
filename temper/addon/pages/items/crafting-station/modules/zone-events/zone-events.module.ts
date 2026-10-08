@@ -6,4 +6,6 @@ export const zoneEvents = {
   slug: "zone-events",
   definition: "the library starting as the game loads its saved variables",
   code: "ts",
+  createdAt: "2026-09-02T11:36:01.589Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

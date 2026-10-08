@@ -16,4 +16,6 @@ export const setsKbfDlcFilter = {
       statement: "Entries sort by name or by release date according to the saved setting.",
     },
   ],
+  createdAt: "2026-09-02T13:10:46.945Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const charactersHirelingMailCount = {
       statement: "A tally with yesterday's date counts as nothing looted today.",
     },
   ],
+  createdAt: "2026-09-02T16:21:49.030Z",
+  updatedAt: "2026-09-22T14:12:28.000Z",
 } as const satisfies Module

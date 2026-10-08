@@ -6,4 +6,6 @@ export const setsCoreCastsTables = {
   slug: "sets-core-casts-tables",
   definition: "the narrowings for the nested lookup tables and the optional library handles",
   code: "ts",
+  createdAt: "2026-09-02T11:59:13.128Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

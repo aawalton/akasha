@@ -6,4 +6,6 @@ export const writSlashCommand = {
   slug: "writ-slash-command",
   definition: "the chat commands the writ tracker answers to",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.320Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

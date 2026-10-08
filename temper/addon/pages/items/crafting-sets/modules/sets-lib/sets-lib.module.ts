@@ -26,4 +26,6 @@ export const setsLib = {
         "The markup reaches that table as the global TemperItemsCraftingSets, which this sets.",
     },
   ],
+  createdAt: "2026-09-22T00:22:47.906Z",
+  updatedAt: "2026-09-25T13:16:33.000Z",
 } as const satisfies Module

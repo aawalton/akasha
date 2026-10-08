@@ -12,4 +12,6 @@ export const companionQolState = {
       statement: "Every quality-of-life module reads its settings from this one holder.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.629Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const writProfiler = {
   slug: "writ-profiler",
   definition: "how long each of the writ tracker's calls took",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.311Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

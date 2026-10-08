@@ -36,4 +36,6 @@ export const catalogCollectAdapters = {
       statement: "The whole reason is written to the chat window, where no ceiling reaches it.",
     },
   ],
+  createdAt: "2026-09-02T20:06:07.333Z",
+  updatedAt: "2026-09-22T19:56:47.000Z",
 } as const satisfies Module

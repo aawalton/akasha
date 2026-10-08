@@ -6,4 +6,6 @@ export const potionRenderPage = {
   slug: "potion-render-page",
   definition: "draws a page of results into the potion window",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.279Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

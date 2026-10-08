@@ -17,5 +17,6 @@ export const combatMenuTail = {
         "The panel's layout, scale and background are offered only while the panel is shown.",
     },
   ],
-  updatedAt: "2026-10-08T15:14:06.756Z",
+  updatedAt: "2026-10-08T16:01:52.432Z",
+  createdAt: "2026-09-02T09:42:10.765Z",
 } as const satisfies Module

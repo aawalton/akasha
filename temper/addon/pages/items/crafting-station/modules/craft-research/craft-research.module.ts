@@ -6,4 +6,6 @@ export const craftResearch = {
   slug: "craft-research",
   definition: "the trait studies the player wants",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.242Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies Module

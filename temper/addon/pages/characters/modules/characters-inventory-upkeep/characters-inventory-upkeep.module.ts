@@ -29,4 +29,6 @@ export const charactersInventoryUpkeep = {
       statement: "A kept character's hint names the next character not kept today.",
     },
   ],
+  createdAt: "2026-09-26T18:06:49.478Z",
+  updatedAt: "2026-09-26T18:07:26.000Z",
 } as const satisfies Module

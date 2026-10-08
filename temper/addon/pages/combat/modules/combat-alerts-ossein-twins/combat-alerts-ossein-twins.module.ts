@@ -6,4 +6,6 @@ export const combatAlertsOsseinTwins = {
   slug: "combat-alerts-ossein-twins",
   definition: "the Ossein Cage twins fight registration and cleanup",
   code: "ts",
+  createdAt: "2026-09-26T16:50:09.190Z",
+  updatedAt: "2026-09-26T16:50:21.000Z",
 } as const satisfies Module

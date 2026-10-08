@@ -6,4 +6,6 @@ export const writEnchantingParser = {
   slug: "writ-enchanting-parser",
   definition: "reads an enchanting writ and says what that writ needs",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.293Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const combatAlertsSettingsGeneral = {
   slug: "combat-alerts-settings-general",
   definition: "the general combat alerts settings and their advanced ability ids",
   code: "ts",
+  createdAt: "2026-09-26T16:57:08.385Z",
+  updatedAt: "2026-09-26T17:02:57.000Z",
 } as const satisfies Module

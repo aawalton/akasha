@@ -33,4 +33,6 @@ export const dataminingItemMiner = {
       statement: "A generation count makes stopped mining drop its own queued batch.",
     },
   ],
+  createdAt: "2026-09-02T17:54:15.144Z",
+  updatedAt: "2026-09-22T01:22:34.000Z",
 } as const satisfies Module

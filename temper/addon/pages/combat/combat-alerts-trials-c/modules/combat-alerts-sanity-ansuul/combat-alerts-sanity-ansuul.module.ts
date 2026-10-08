@@ -6,4 +6,6 @@ export const combatAlertsSanityAnsuul = {
   slug: "combat-alerts-sanity-ansuul",
   definition: "the Sanity's Edge Ansuul timers, split health bars and portal tracking",
   code: "ts",
+  createdAt: "2026-09-26T17:41:32.043Z",
+  updatedAt: "2026-09-26T17:41:43.000Z",
 } as const satisfies Module

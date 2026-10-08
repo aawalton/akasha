@@ -36,4 +36,6 @@ export const dataEncodeEncoder = {
       statement: "A line is broken before a control character would carry the line past 998.",
     },
   ],
+  createdAt: "2026-09-02T04:30:03.422Z",
+  updatedAt: "2026-09-22T13:43:25.000Z",
 } as const satisfies Module

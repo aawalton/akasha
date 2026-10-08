@@ -6,4 +6,6 @@ export const priceConstants = {
   slug: "price-constants",
   definition: "the source keys, currency names and price kinds of the library's answers",
   code: "ts",
+  createdAt: "2026-09-02T09:05:29.625Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies Module

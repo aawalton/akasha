@@ -12,4 +12,6 @@ export const companionsEquipmentMatch = {
       statement: "Each gear slot is judged on weight and on trait and on quality apart.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.637Z",
+  updatedAt: "2026-09-22T13:43:25.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const charactersPlaceholderPanel = {
       statement: "The panel shows window-data-state's empty state, saying nothing is shown yet.",
     },
   ],
+  createdAt: "2026-09-02T16:23:41.317Z",
+  updatedAt: "2026-09-25T19:04:56.000Z",
 } as const satisfies Module

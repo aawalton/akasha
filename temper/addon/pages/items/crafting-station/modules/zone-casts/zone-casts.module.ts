@@ -17,4 +17,6 @@ export const zoneCasts = {
         "The slash-command library is reached off the global table rather than by its name.",
     },
   ],
+  createdAt: "2026-09-02T11:36:01.522Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

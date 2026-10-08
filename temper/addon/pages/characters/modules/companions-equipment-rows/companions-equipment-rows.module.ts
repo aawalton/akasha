@@ -12,4 +12,6 @@ export const companionsEquipmentRows = {
       statement: "Column positions are fixed numbers rather than measured from content.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.640Z",
+  updatedAt: "2026-09-22T13:52:13.000Z",
 } as const satisfies Module

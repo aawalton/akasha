@@ -21,4 +21,6 @@ export const craftTextStyle = {
       statement: "A research time is wide enough for a day count on one line.",
     },
   ],
+  createdAt: "2026-09-25T20:10:39.310Z",
+  updatedAt: "2026-09-25T20:10:50.000Z",
 } as const satisfies Module

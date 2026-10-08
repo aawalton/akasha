@@ -6,4 +6,6 @@ export const combatCategories = {
   slug: "combat-categories",
   definition: "the damage and healing categories making up every total",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.746Z",
+  updatedAt: "2026-09-22T14:04:10.000Z",
 } as const satisfies Module

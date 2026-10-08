@@ -6,4 +6,6 @@ export const craftingConstants = {
   slug: "crafting-constants",
   definition: "the add-on's name, its callback names and the few numbers every other module reads",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.261Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

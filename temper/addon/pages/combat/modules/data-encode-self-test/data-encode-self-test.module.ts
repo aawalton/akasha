@@ -16,4 +16,6 @@ export const dataEncodeSelfTest = {
       statement: "The outcome is logged rather than raised.",
     },
   ],
+  createdAt: "2026-09-02T04:30:03.425Z",
+  updatedAt: "2026-09-21T23:50:19.000Z",
 } as const satisfies Module

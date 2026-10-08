@@ -6,4 +6,6 @@ export const writSmithParser = {
   slug: "writ-smith-parser",
   definition: "reads a smithing writ and says what it wants",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.321Z",
+  updatedAt: "2026-09-22T14:04:10.000Z",
 } as const satisfies Module

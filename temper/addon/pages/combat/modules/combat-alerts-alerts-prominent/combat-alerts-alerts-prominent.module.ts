@@ -6,4 +6,6 @@ export const combatAlertsAlertsProminent = {
   slug: "combat-alerts-alerts-prominent",
   definition: "the prominent alert display and its built-in prominent entries",
   code: "ts",
+  createdAt: "2026-09-26T16:22:25.604Z",
+  updatedAt: "2026-09-26T16:22:39.000Z",
 } as const satisfies Module

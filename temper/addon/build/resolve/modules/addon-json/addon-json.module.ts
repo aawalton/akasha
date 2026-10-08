@@ -28,4 +28,6 @@ export const addonJson = {
       statement: "A key nothing here names is carried through rather than dropped.",
     },
   ],
+  createdAt: "2026-09-02T04:29:19.805Z",
+  updatedAt: "2026-09-22T14:05:26.000Z",
 } as const satisfies Module

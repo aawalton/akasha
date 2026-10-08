@@ -12,4 +12,6 @@ export const companionQolInit = {
       statement: "The quality-of-life code loads after the companion panels are registered.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.624Z",
+  updatedAt: "2026-09-22T01:42:08.000Z",
 } as const satisfies Module

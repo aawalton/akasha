@@ -12,4 +12,6 @@ export const charactersConfig = {
       statement: "A value the Lua table states is preferred to the value the saved table says.",
     },
   ],
+  createdAt: "2026-09-02T16:21:48.995Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

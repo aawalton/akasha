@@ -12,4 +12,6 @@ export const companionQolUiStrings = {
       statement: "Every string is added under an id the settings menu names.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.631Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

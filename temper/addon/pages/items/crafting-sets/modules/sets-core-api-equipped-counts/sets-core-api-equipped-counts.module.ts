@@ -6,4 +6,6 @@ export const setsCoreApiEquippedCounts = {
   slug: "sets-core-api-equipped-counts",
   definition: "how many of a set's pieces the character is wearing",
   code: "ts",
+  createdAt: "2026-09-25T14:03:46.349Z",
+  updatedAt: "2026-09-25T14:04:01.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const craftStyleTracking = {
   slug: "craft-style-tracking",
   definition: "which motif chapters a character knows, and the filters over them",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.257Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

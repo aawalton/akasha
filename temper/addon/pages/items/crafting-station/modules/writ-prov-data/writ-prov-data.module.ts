@@ -6,4 +6,6 @@ export const writProvData = {
   slug: "writ-prov-data",
   definition: "the recipes a provisioning writ can request",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.311Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const writUtil = {
   slug: "writ-util",
   definition: "the colors, the failures and the small turns the writ tracker shares",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.332Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

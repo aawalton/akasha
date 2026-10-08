@@ -6,4 +6,6 @@ export const craftIcons = {
   slug: "craft-icons",
   definition: "the textures for a craft, a class, a race and a mount",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.224Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

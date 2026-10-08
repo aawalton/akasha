@@ -6,4 +6,6 @@ export const combatLibMessageTypes = {
   slug: "combat-lib-message-types",
   definition: "the payload each recorder callback is handed",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.761Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

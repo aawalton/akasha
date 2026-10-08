@@ -6,4 +6,6 @@ export const combatAlertsMawTwins = {
   slug: "combat-alerts-maw-twins",
   definition: "the Maw of Lorkhaj twins aspect icons",
   code: "ts",
+  createdAt: "2026-09-26T17:24:22.929Z",
+  updatedAt: "2026-09-26T17:24:33.000Z",
 } as const satisfies Module

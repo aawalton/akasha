@@ -6,4 +6,6 @@ export const combatAlertsBlackGemFoundry = {
   slug: "combat-alerts-black-gem-foundry",
   definition: "the Black Gem Foundry rupture line",
   code: "ts",
+  createdAt: "2026-09-26T16:33:43.884Z",
+  updatedAt: "2026-09-26T16:34:02.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const potionResultControls = {
   slug: "potion-result-controls",
   definition: "the shapes of the controls building a row of potion results",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.279Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

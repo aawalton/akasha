@@ -6,4 +6,6 @@ export const combatAlertsSettingsEntry = {
   slug: "combat-alerts-settings-entry",
   definition: "the loading of every combat alerts settings module",
   code: "ts",
+  createdAt: "2026-09-26T17:08:09.656Z",
+  updatedAt: "2026-09-26T17:08:20.000Z",
 } as const satisfies Module

@@ -67,4 +67,6 @@ export const addonMetadataCopy = {
         "Each file and folder written here is named to the caller as soon as it is written.",
     },
   ],
+  createdAt: "2026-09-02T15:51:18.385Z",
+  updatedAt: "2026-09-21T15:02:26.000Z",
 } as const satisfies Module

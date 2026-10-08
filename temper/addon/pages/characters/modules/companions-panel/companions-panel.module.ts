@@ -17,4 +17,6 @@ export const companionsPanel = {
         "With no companion chosen, or none captured, the panel says so through window-data-state.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.646Z",
+  updatedAt: "2026-09-25T19:05:35.000Z",
 } as const satisfies Module

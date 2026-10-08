@@ -6,4 +6,6 @@ export const combatAlertsHub = {
   slug: "combat-alerts-hub",
   definition: "the table the combat alerts hang their functions and state on",
   code: "ts",
+  createdAt: "2026-09-26T16:04:04.365Z",
+  updatedAt: "2026-09-26T16:04:14.000Z",
 } as const satisfies Module

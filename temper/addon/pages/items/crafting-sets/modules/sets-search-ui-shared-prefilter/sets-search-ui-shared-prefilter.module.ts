@@ -6,4 +6,6 @@ export const setsSearchUiSharedPrefilter = {
   slug: "sets-search-ui-shared-prefilter",
   definition: "which sets survive the filter dropdowns before any text is matched",
   code: "ts",
+  createdAt: "2026-09-02T13:08:26.232Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

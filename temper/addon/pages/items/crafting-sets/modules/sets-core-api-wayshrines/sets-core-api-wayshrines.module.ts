@@ -12,4 +12,6 @@ export const setsCoreApiWayshrines = {
       statement: "The zone a wayshrine is in is read off the game client at first asking.",
     },
   ],
+  createdAt: "2026-09-25T14:03:46.349Z",
+  updatedAt: "2026-09-25T14:32:32.000Z",
 } as const satisfies Module

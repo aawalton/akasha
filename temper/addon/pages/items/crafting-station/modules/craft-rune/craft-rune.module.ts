@@ -6,4 +6,6 @@ export const craftRune = {
   slug: "craft-rune",
   definition: "a glyph's essences, potencies and aspects",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.244Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies Module

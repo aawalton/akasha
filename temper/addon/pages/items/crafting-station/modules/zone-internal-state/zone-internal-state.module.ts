@@ -6,4 +6,6 @@ export const zoneInternalState = {
   slug: "zone-internal-state",
   definition: "what the library works out once and keeps to itself",
   code: "ts",
+  createdAt: "2026-09-02T11:36:01.524Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

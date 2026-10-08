@@ -12,4 +12,6 @@ export const setsCoreApiSetNames = {
       statement: "Every set's names are built once and held for the rest of the session.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.205Z",
+  updatedAt: "2026-09-22T10:19:56.000Z",
 } as const satisfies Module

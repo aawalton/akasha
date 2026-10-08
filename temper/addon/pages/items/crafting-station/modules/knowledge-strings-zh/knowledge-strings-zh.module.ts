@@ -6,4 +6,6 @@ export const knowledgeStringsZh = {
   slug: "knowledge-strings-zh",
   definition: "the text this library shows in Chinese",
   code: "ts",
+  createdAt: "2026-09-02T12:33:38.162Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

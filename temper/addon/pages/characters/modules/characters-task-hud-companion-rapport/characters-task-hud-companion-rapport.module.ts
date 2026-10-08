@@ -51,4 +51,6 @@ export const charactersTaskHudCompanionRapport = {
       statement: "The add-on reads the companion pages as it compiles.",
     },
   ],
+  createdAt: "2026-09-02T16:23:41.392Z",
+  updatedAt: "2026-09-27T03:32:13.000Z",
 } as const satisfies Module

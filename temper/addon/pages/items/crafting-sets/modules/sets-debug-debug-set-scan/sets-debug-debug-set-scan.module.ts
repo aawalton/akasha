@@ -18,4 +18,6 @@ export const setsDebugDebugSetScan = {
       statement: "The uncompressed item id table is deleted again unless asked to keep that table.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.231Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

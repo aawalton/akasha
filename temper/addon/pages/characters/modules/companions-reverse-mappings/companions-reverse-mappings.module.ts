@@ -31,4 +31,6 @@ export const companionsReverseMappings = {
     },
   ],
   hashIndexed: ["INDEX_TO_QUALITY_COLOR"],
+  createdAt: "2026-09-02T07:55:19.646Z",
+  updatedAt: "2026-09-27T04:16:00.000Z",
 } as const satisfies Module

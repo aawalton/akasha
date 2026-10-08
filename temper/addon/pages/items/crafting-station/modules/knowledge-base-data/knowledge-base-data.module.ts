@@ -12,4 +12,6 @@ export const knowledgeBaseData = {
       statement: "A master list is read only while its api matches the client's.",
     },
   ],
+  createdAt: "2026-09-02T12:50:36.757Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

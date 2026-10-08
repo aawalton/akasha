@@ -6,4 +6,6 @@ export const combatAlertsDrawingGraveEvents = {
   slug: "combat-alerts-drawing-grave-events",
   definition: "the events raising and clearing gravestones",
   code: "ts",
+  createdAt: "2026-09-26T17:22:33.537Z",
+  updatedAt: "2026-09-26T17:22:45.000Z",
 } as const satisfies Module

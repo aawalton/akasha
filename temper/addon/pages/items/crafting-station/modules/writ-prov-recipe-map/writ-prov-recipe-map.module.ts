@@ -6,4 +6,6 @@ export const writProvRecipeMap = {
   slug: "writ-prov-recipe-map",
   definition: "the whole food-to-recipe item id map, taken from its halves",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.316Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const combatAlertsHallsOfFabrication = {
   slug: "combat-alerts-halls-of-fabrication",
   definition: "the Halls of Fabrication zone alerts, triplets circle and damageable timer",
   code: "ts",
+  createdAt: "2026-09-26T17:38:24.601Z",
+  updatedAt: "2026-09-26T17:38:42.000Z",
 } as const satisfies Module

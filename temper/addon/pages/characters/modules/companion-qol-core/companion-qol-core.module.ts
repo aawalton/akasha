@@ -12,4 +12,6 @@ export const companionQolCore = {
       statement: "Which companion was dismissed is remembered so the same companion comes back.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.622Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

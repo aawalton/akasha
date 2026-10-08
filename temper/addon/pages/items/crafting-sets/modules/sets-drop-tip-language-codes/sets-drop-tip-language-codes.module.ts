@@ -6,4 +6,6 @@ export const setsDropTipLanguageCodes = {
   slug: "sets-drop-tip-language-codes",
   definition: "the eight language codes keying the drop mechanic tooltip tables",
   code: "ts",
+  createdAt: "2026-09-02T11:17:05.710Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

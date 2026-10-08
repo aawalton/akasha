@@ -17,4 +17,6 @@ export const craftKnowledge = {
       statement: "The current character's motif knowledge is asked of the game.",
     },
   ],
+  createdAt: "2026-09-02T11:01:26.226Z",
+  updatedAt: "2026-09-27T01:35:08.000Z",
 } as const satisfies Module

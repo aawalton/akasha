@@ -12,4 +12,6 @@ export const companionsInventoryMatcher = {
       statement: "An item is scored for nearness rather than matched exactly.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.645Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies Module

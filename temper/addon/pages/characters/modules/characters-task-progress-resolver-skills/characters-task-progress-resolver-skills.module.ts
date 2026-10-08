@@ -15,4 +15,6 @@ export const charactersTaskProgressResolverSkills = {
         "The skill point sources are the skill point pages, written in as the add-on compiles.",
     },
   ],
+  createdAt: "2026-09-02T16:23:41.465Z",
+  updatedAt: "2026-09-27T02:22:54.000Z",
 } as const satisfies Module

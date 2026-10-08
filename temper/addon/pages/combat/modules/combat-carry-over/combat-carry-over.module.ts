@@ -27,4 +27,6 @@ export const combatCarryOver = {
       statement: "Carried fights follow the fights this add-on already saved.",
     },
   ],
+  createdAt: "2026-09-26T15:46:43.446Z",
+  updatedAt: "2026-09-26T15:46:53.000Z",
 } as const satisfies Module

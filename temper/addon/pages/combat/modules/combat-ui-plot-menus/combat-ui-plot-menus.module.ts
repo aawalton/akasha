@@ -6,4 +6,6 @@ export const combatUiPlotMenus = {
   slug: "combat-ui-plot-menus",
   definition: "the menu of everything a graph can show",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.778Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies Module

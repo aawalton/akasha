@@ -13,4 +13,6 @@ export const qrCodePatterns = {
         "A matrix holds 2 for a fixed dark cell, -2 for a fixed light cell and 0 for data.",
     },
   ],
+  createdAt: "2026-09-26T16:49:33.996Z",
+  updatedAt: "2026-09-26T16:49:44.000Z",
 } as const satisfies Module

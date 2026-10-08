@@ -6,4 +6,6 @@ export const combatAlertsCommands = {
   slug: "combat-alerts-commands",
   definition: "the slash command the combat alerts answer",
   code: "ts",
+  createdAt: "2026-09-26T16:04:04.364Z",
+  updatedAt: "2026-09-26T16:04:14.000Z",
 } as const satisfies Module

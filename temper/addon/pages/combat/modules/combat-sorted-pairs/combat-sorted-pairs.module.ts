@@ -6,4 +6,6 @@ export const combatSortedPairs = {
   slug: "combat-sorted-pairs",
   definition: "iterating a table in an order rather than whatever order the game gives",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.768Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

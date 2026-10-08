@@ -12,4 +12,6 @@ export const setsSearchUiListClass = {
       statement: "The class is reached by importing the function that answers it.",
     },
   ],
+  createdAt: "2026-09-02T13:10:46.944Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies Module

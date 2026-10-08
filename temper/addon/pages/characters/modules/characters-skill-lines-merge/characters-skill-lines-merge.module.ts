@@ -6,4 +6,6 @@ export const charactersSkillLinesMerge = {
   slug: "characters-skill-lines-merge",
   definition: "a stored skill line reading folded with a fresh one, the more advanced rank winning",
   code: "ts",
+  createdAt: "2026-09-02T16:18:42.206Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

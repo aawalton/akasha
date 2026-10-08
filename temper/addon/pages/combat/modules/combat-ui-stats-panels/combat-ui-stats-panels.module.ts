@@ -6,4 +6,6 @@ export const combatUiStatsPanels = {
   slug: "combat-ui-stats-panels",
   definition: "the statistics panels and each number's format",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.780Z",
+  updatedAt: "2026-09-22T14:04:10.000Z",
 } as const satisfies Module

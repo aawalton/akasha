@@ -6,4 +6,6 @@ export const runeGlyphCreation = {
   slug: "rune-glyph-creation",
   definition: "the essences on offer at an enchanting station",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.287Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

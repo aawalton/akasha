@@ -6,4 +6,6 @@ export const craftingState = {
   slug: "crafting-state",
   definition: "the table every crafting window reads and writes",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.265Z",
+  updatedAt: "2026-09-22T10:12:24.000Z",
 } as const satisfies Module

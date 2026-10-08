@@ -6,4 +6,6 @@ export const pithkaTrays = {
   slug: "pithka-trays",
   definition: "the tracker's QR tray, export button, watermarks and hint line",
   code: "ts",
+  createdAt: "2026-09-26T16:56:17.954Z",
+  updatedAt: "2026-09-26T16:56:28.000Z",
 } as const satisfies Module

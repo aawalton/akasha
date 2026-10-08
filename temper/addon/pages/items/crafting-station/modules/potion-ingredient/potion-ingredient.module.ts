@@ -6,4 +6,6 @@ export const potionIngredient = {
   slug: "potion-ingredient",
   definition: "a reagent as the window shows it, with its traits and its count",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.270Z",
+  updatedAt: "2026-09-22T10:12:24.000Z",
 } as const satisfies Module

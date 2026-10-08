@@ -25,4 +25,6 @@ export const setsCoreLifecycleLoaded = {
       statement: "The add-on's load calls this rather than this listening for that load itself.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.206Z",
+  updatedAt: "2026-09-22T04:11:27.000Z",
 } as const satisfies Module

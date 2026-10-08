@@ -6,4 +6,6 @@ export const writMarkSavedVariables = {
   slug: "writ-mark-saved-variables",
   definition: "what the marker remembers between sessions",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.308Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

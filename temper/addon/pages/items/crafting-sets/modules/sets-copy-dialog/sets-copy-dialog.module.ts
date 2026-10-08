@@ -14,4 +14,6 @@ export const setsCopyDialog = {
     },
     { decisionKind: "decision-kind/constraint", statement: "Nothing is built here on console." },
   ],
+  createdAt: "2026-09-02T13:08:26.232Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

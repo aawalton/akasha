@@ -6,4 +6,6 @@ export const charactersTaskProgressResolverKnowledge = {
   slug: "characters-task-progress-resolver-knowledge",
   definition: "how far a character has got with its daily writs, its recipes and its scribing",
   code: "ts",
+  createdAt: "2026-09-02T16:23:41.447Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

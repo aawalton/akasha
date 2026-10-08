@@ -6,4 +6,6 @@ export const priceSourcesMm = {
   slug: "price-sources-mm",
   definition: "the price Master Merchant holds for an item",
   code: "ts",
+  createdAt: "2026-09-02T09:05:29.627Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

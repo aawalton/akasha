@@ -12,4 +12,6 @@ export const charactersEventsBuild = {
       statement: "A run of build changes is read once after the run settles.",
     },
   ],
+  createdAt: "2026-09-02T17:32:20.771Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

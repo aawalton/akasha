@@ -6,4 +6,6 @@ export const combatAlertsAlertsEffects = {
   slug: "combat-alerts-alerts-effects",
   definition: "the timed buff and debuff alerts with their zone settings",
   code: "ts",
+  createdAt: "2026-09-26T16:38:25.047Z",
+  updatedAt: "2026-09-26T16:38:42.000Z",
 } as const satisfies Module

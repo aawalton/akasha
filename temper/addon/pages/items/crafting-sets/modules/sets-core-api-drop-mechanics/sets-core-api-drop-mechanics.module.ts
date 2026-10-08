@@ -13,4 +13,6 @@ export const setsCoreApiDropMechanics = {
         "The same function is published under an upper-case and a lower-case first letter.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.204Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

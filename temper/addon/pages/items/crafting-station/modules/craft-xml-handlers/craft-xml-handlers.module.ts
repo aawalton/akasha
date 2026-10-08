@@ -6,4 +6,6 @@ export const craftXmlHandlers = {
   slug: "craft-xml-handlers",
   definition: "what the XML documents call when the player drags, clicks or types",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.261Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

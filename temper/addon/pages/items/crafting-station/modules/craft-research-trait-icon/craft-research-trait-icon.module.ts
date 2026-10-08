@@ -6,4 +6,6 @@ export const craftResearchTraitIcon = {
   slug: "craft-research-trait-icon",
   definition: "the icon, color and tooltip a trait cell of the study grid shows",
   code: "ts",
+  createdAt: "2026-09-21T17:17:06.325Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const craftResearchGrid = {
   slug: "craft-research-grid",
   definition: "the trait study grid drawn inside the crafting station",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.242Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

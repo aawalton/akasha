@@ -12,4 +12,6 @@ export const setsCoreApiPerfectedVeteranSet = {
       statement: "The published key GetPerfectedSetId is assigned again with a different function.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.133Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

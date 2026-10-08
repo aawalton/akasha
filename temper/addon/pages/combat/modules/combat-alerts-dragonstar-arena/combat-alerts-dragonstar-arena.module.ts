@@ -6,4 +6,6 @@ export const combatAlertsDragonstarArena = {
   slug: "combat-alerts-dragonstar-arena",
   definition: "the Dragonstar Arena portal timer between rounds",
   code: "ts",
+  createdAt: "2026-09-26T16:36:58.211Z",
+  updatedAt: "2026-09-26T16:37:14.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const combatLibUnits = {
   slug: "combat-lib-units",
   definition: "the units in a fight, their group membership and their special debuffs",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.763Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

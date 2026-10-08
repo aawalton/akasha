@@ -7,4 +7,6 @@ export const pithkaAchievements = {
   definition:
     "the dungeons, trials and arenas the achievement tracker lists, with each one's achievements",
   code: "ts",
+  createdAt: "2026-09-26T16:09:59.811Z",
+  updatedAt: "2026-09-26T16:10:12.000Z",
 } as const satisfies Module

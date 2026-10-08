@@ -6,4 +6,6 @@ export const writPublicApi = {
   slug: "writ-public-api",
   definition: "the names the writ tracker offers other add-ons",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.318Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const dataminingConstants = {
       statement: "An item is reached by a link built from a template rather than by an api call.",
     },
   ],
+  createdAt: "2026-09-02T17:54:15.144Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const setsCoreApiZones = {
       statement: "A zone's name in another language is read off the zone library.",
     },
   ],
+  createdAt: "2026-09-25T14:31:51.144Z",
+  updatedAt: "2026-09-25T14:32:32.000Z",
 } as const satisfies Module

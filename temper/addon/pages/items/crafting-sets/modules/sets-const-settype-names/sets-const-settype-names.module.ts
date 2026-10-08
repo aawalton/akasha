@@ -12,4 +12,6 @@ export const setsConstSettypeNames = {
       statement: "A name is keyed by the set type global and then by the two-letter language.",
     },
   ],
+  createdAt: "2026-09-21T17:44:44.740Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

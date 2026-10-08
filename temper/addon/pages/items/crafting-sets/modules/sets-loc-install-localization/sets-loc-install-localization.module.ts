@@ -16,4 +16,6 @@ export const setsLocInstallLocalization = {
       statement: "The on and off labels are placed on the fallback language alone.",
     },
   ],
+  createdAt: "2026-09-02T11:18:27.001Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const craftCookingLists = {
       statement: "The favourites categories are read off the character.",
     },
   ],
+  createdAt: "2026-09-11T03:01:39.254Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies Module

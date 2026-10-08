@@ -16,4 +16,6 @@ export const catalogAutoCollect = {
       statement: "The game version is written back only once the run is over.",
     },
   ],
+  createdAt: "2026-09-02T20:06:07.333Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const catalogConstants = {
       statement: "A collector answering nothing within the timeout is given up on.",
     },
   ],
+  createdAt: "2026-09-02T20:06:07.333Z",
+  updatedAt: "2026-09-22T13:52:13.000Z",
 } as const satisfies Module

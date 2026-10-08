@@ -16,4 +16,6 @@ export const setsDebugScanReport = {
       statement: "A scan is taken as finished once ten packages in a row find no further set.",
     },
   ],
+  createdAt: "2026-09-21T17:47:42.881Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

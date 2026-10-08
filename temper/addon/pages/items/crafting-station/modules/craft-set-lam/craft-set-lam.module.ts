@@ -6,4 +6,6 @@ export const craftSetLam = {
   slug: "craft-set-lam",
   definition: "the settings panel this add-on adds to the game's add-on menu",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.249Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

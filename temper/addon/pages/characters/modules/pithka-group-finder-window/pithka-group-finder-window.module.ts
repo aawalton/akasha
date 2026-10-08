@@ -6,4 +6,6 @@ export const pithkaGroupFinderWindow = {
   slug: "pithka-group-finder-window",
   definition: "the group finder window's listing cards, search buttons and searching line",
   code: "ts",
+  createdAt: "2026-09-26T16:35:10.017Z",
+  updatedAt: "2026-09-26T16:35:27.000Z",
 } as const satisfies Module

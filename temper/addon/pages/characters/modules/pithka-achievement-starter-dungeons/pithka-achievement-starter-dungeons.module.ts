@@ -6,4 +6,6 @@ export const pithkaAchievementStarterDungeons = {
   slug: "pithka-achievement-starter-dungeons",
   definition: "the dungeons without a trifecta the achievement tracker lists",
   code: "ts",
+  createdAt: "2026-09-26T16:09:59.811Z",
+  updatedAt: "2026-09-26T16:10:12.000Z",
 } as const satisfies Module

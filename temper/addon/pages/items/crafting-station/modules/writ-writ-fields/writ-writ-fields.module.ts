@@ -6,4 +6,6 @@ export const writWritFields = {
   slug: "writ-writ-fields",
   definition: "the fields read out of a master writ's item link",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.333Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

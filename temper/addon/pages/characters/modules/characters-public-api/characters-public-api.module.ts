@@ -16,4 +16,6 @@ export const charactersPublicApi = {
       statement: "The table is assigned through a cast rather than a declaration.",
     },
   ],
+  createdAt: "2026-09-02T17:22:19.768Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

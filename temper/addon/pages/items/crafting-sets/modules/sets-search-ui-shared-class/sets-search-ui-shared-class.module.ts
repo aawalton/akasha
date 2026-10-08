@@ -12,4 +12,6 @@ export const setsSearchUiSharedClass = {
       statement: "The parent methods are handed out as a second plainly typed view of the class.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.232Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies Module

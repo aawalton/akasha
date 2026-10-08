@@ -6,4 +6,6 @@ export const combatActionEventHandlers = {
   slug: "combat-action-event-handlers",
   definition: "cooldown ticks, zone entry and mounting, each answered on the action list",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.737Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

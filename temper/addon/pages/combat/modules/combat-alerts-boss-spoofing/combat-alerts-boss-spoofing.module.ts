@@ -6,4 +6,6 @@ export const combatAlertsBossSpoofing = {
   slug: "combat-alerts-boss-spoofing",
   definition: "the boss health bars shown for units that are no boss, and their tracked health",
   code: "ts",
+  createdAt: "2026-09-26T16:26:54.981Z",
+  updatedAt: "2026-09-26T16:27:11.000Z",
 } as const satisfies Module

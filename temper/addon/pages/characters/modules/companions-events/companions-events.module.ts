@@ -12,4 +12,6 @@ export const companionsEvents = {
       statement: "Every listener is named after the add-on so a reload can drop those listeners.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.641Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

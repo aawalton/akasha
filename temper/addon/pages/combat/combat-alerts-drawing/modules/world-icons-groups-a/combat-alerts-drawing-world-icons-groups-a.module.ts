@@ -6,4 +6,6 @@ export const combatAlertsDrawingWorldIconsGroupsA = {
   slug: "combat-alerts-drawing-world-icons-groups-a",
   definition: "the Falgravn and Ossein Cage world icon groups",
   code: "ts",
+  createdAt: "2026-09-26T17:24:03.364Z",
+  updatedAt: "2026-09-26T17:24:15.000Z",
 } as const satisfies Module

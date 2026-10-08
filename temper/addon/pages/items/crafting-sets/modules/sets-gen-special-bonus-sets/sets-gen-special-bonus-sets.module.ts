@@ -12,4 +12,6 @@ export const setsGenSpecialBonusSets = {
       statement: "This table is ported from the upstream library at a pinned commit.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.127Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

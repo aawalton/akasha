@@ -18,4 +18,6 @@ export const setsSearchUiSharedXmlHandlers = {
       statement: "A tip over the search window's filters, headers and buttons is Temper's popover.",
     },
   ],
+  createdAt: "2026-09-02T13:10:46.944Z",
+  updatedAt: "2026-09-25T18:33:44.000Z",
 } as const satisfies Module

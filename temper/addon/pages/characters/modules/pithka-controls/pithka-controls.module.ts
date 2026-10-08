@@ -6,4 +6,6 @@ export const pithkaControls = {
   slug: "pithka-controls",
   definition: "the achievement tracker window's size, title, toggle and the controls it makes",
   code: "ts",
+  createdAt: "2026-09-26T16:26:20.655Z",
+  updatedAt: "2026-09-26T16:26:39.000Z",
 } as const satisfies Module

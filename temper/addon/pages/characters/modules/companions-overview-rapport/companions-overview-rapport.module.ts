@@ -12,4 +12,6 @@ export const companionsOverviewRapport = {
       statement: "The game's own rapport bar is left in place and labelled rather than replaced.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.645Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

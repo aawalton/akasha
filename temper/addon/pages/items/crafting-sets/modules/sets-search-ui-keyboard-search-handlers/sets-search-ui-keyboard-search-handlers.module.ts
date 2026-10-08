@@ -13,4 +13,6 @@ export const setsSearchUiKeyboardSearchHandlers = {
       statement: "The window object is made once on the first initialize event.",
     },
   ],
+  createdAt: "2026-09-02T13:10:46.946Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

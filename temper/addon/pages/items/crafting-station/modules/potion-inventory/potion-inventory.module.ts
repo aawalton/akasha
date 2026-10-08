@@ -6,4 +6,6 @@ export const potionInventory = {
   slug: "potion-inventory",
   definition: "the reagents and solvents the player is carrying",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.271Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

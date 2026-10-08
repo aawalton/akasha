@@ -6,4 +6,6 @@ export const combatAlertsTrialsAEntry = {
   slug: "combat-alerts-trials-a-entry",
   definition: "the entry loading the Cloudrest, Asylum, Hel Ra, Sanctum and Halls alerts",
   code: "ts",
+  createdAt: "2026-09-26T16:28:36.559Z",
+  updatedAt: "2026-09-26T16:28:56.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const craftStoragePrune = {
   slug: "craft-storage-prune",
   definition: "drops the storage entries that count nothing",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.256Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

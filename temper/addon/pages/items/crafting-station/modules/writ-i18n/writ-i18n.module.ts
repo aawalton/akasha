@@ -12,4 +12,6 @@ export const writI18n = {
       statement: "A key no table and no lookup answers is shown as itself.",
     },
   ],
+  createdAt: "2026-09-02T11:01:26.294Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

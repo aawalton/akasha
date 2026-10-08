@@ -6,4 +6,6 @@ export const combatLibUnitCache = {
   slug: "combat-lib-unit-cache",
   definition: "the recent events per unit building a death recap",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.763Z",
+  updatedAt: "2026-09-22T13:43:25.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const setsConstSettypes = {
       statement: "Each set type name is declared as a game global rather than a member of a table.",
     },
   ],
+  createdAt: "2026-09-02T11:17:05.697Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

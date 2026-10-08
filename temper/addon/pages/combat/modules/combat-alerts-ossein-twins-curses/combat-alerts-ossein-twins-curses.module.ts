@@ -6,4 +6,6 @@ export const combatAlertsOsseinTwinsCurses = {
   slug: "combat-alerts-ossein-twins-curses",
   definition: "the Ossein Cage twins curse side and Enfeeblement icons",
   code: "ts",
+  createdAt: "2026-09-26T16:49:14.060Z",
+  updatedAt: "2026-09-26T16:49:25.000Z",
 } as const satisfies Module

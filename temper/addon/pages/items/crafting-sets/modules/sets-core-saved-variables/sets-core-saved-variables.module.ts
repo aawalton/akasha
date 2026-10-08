@@ -17,4 +17,6 @@ export const setsCoreSavedVariables = {
         "A favorite saved under an unknown category is moved to the star category on load.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.130Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

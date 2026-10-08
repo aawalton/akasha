@@ -6,4 +6,6 @@ export const priceSourcesAtt = {
   slug: "price-sources-att",
   definition: "the price Arkadius' Trade Tools holds for an item",
   code: "ts",
+  createdAt: "2026-09-02T09:05:29.626Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

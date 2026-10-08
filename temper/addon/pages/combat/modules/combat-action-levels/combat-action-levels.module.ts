@@ -6,4 +6,6 @@ export const combatActionLevels = {
   slug: "combat-action-levels",
   definition: "the action matcher's confidence levels and time windows",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.738Z",
+  updatedAt: "2026-09-22T14:12:28.000Z",
 } as const satisfies Module

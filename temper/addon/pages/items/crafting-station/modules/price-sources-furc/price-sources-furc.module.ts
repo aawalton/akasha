@@ -6,4 +6,6 @@ export const priceSourcesFurc = {
   slug: "price-sources-furc",
   definition: "the price Furniture Catalogue holds for a furnishing",
   code: "ts",
+  createdAt: "2026-09-02T09:05:29.627Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

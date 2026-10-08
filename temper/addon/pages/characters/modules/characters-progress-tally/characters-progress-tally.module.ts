@@ -13,4 +13,6 @@ export const charactersProgressTally = {
       statement: "Counting done entries against all the entries is written once.",
     },
   ],
+  createdAt: "2026-09-02T16:23:41.297Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

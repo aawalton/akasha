@@ -6,4 +6,6 @@ export const charactersAntiquityLore = {
   slug: "characters-antiquity-lore",
   definition: "the antiquity lore entries kept on the account, read into the saved table",
   code: "ts",
+  createdAt: "2026-09-02T16:17:59.038Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

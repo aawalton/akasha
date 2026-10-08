@@ -17,4 +17,6 @@ export const setsSetTextDefaultLayout = {
         "The drop text takes a coloured prefix naming whichever single part is switched on.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.207Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

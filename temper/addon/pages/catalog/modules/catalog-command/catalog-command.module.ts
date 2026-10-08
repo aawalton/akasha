@@ -21,4 +21,6 @@ export const catalogCommand = {
       statement: "A clear naming no target lists the domains the last run skipped.",
     },
   ],
+  createdAt: "2026-09-02T20:06:07.333Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const writI18nSet = {
   slug: "writ-i18n-set",
   definition: "set ids, matched by their English name",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.299Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const setsCoreApiClassSets = {
   slug: "sets-core-api-class-sets",
   definition: "the sets made for one class, or for every class",
   code: "ts",
+  createdAt: "2026-09-25T14:03:46.349Z",
+  updatedAt: "2026-09-25T14:04:01.000Z",
 } as const satisfies Module

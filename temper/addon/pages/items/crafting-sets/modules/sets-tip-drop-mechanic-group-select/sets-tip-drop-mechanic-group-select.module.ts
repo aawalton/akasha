@@ -12,4 +12,6 @@ export const setsTipDropMechanicGroupSelect = {
       statement: "A member with neither a mechanic name nor a location name is left out.",
     },
   ],
+  createdAt: "2026-09-02T12:56:50.206Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

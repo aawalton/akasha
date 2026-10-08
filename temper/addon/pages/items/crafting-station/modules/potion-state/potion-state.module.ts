@@ -6,4 +6,6 @@ export const potionState = {
   slug: "potion-state",
   definition: "the table the potion window reads and writes",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.282Z",
+  updatedAt: "2026-09-22T10:19:01.000Z",
 } as const satisfies Module

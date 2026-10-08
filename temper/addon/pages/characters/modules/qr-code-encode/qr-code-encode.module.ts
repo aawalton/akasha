@@ -21,4 +21,6 @@ export const qrCodeEncode = {
       statement: "No global is set, so the `qrcode` global LibQRCode left is gone.",
     },
   ],
+  createdAt: "2026-09-26T16:51:55.258Z",
+  updatedAt: "2026-09-26T16:52:07.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const setsDebugDebugSetScanRun = {
       statement: "The march stops early once a package finds no further items.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.231Z",
+  updatedAt: "2026-09-22T13:48:38.000Z",
 } as const satisfies Module

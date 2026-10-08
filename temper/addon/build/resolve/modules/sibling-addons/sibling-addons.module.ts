@@ -45,4 +45,6 @@ export const siblingAddons = {
       statement: "No file name ending is spelled here.",
     },
   ],
+  createdAt: "2026-09-02T04:29:19.808Z",
+  updatedAt: "2026-09-22T10:05:23.000Z",
 } as const satisfies Module

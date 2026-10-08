@@ -6,4 +6,6 @@ export const craftMigStudiesShape = {
   slug: "craft-mig-studies-shape",
   definition: "moves saved study data onto its newer shape",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.236Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

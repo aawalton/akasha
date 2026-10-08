@@ -6,4 +6,6 @@ export const setsCoreApiSetBonuses = {
   slug: "sets-core-api-set-bonuses",
   definition: "the bonus lines an item of a set gives",
   code: "ts",
+  createdAt: "2026-09-25T14:03:46.349Z",
+  updatedAt: "2026-09-25T14:04:01.000Z",
 } as const satisfies Module

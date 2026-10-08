@@ -12,4 +12,6 @@ export const setsCoreInitSearchUi = {
       statement: "Nothing here runs before the library reports itself fully loaded.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.131Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

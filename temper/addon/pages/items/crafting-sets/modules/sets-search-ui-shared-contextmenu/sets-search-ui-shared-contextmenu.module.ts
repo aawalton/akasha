@@ -12,4 +12,6 @@ export const setsSearchUiSharedContextmenu = {
       statement: "These menus open only when TemperScrollableMenu is present.",
     },
   ],
+  createdAt: "2026-09-02T13:10:46.944Z",
+  updatedAt: "2026-09-22T04:20:35.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const combatAlertsDrawingLine = {
   slug: "combat-alerts-drawing-line",
   definition: "the screen-space tether lines drawn between two world points",
   code: "ts",
+  createdAt: "2026-09-26T17:22:33.537Z",
+  updatedAt: "2026-09-26T17:22:45.000Z",
 } as const satisfies Module

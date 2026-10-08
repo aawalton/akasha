@@ -12,4 +12,6 @@ export const qrCodeBlocks = {
       statement: "The tables are the ones LibQRCode 1.0.8 carries, entry for entry.",
     },
   ],
+  createdAt: "2026-09-26T16:45:10.639Z",
+  updatedAt: "2026-09-26T16:45:21.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const companionsApplyBuild = {
       statement: "Skills are slotted before gear is equipped.",
     },
   ],
+  createdAt: "2026-09-02T07:55:19.631Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies Module

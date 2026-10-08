@@ -41,4 +41,6 @@ export const folderOwnership = {
       statement: "A floor is read only from a dependency naming the addon being weighed.",
     },
   ],
+  createdAt: "2026-09-02T04:29:19.807Z",
+  updatedAt: "2026-09-21T22:05:23.000Z",
 } as const satisfies Module

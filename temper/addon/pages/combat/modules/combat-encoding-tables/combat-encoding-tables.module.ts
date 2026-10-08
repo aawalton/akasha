@@ -6,4 +6,6 @@ export const combatEncodingTables = {
   slug: "combat-encoding-tables",
   definition: "the field layouts packing each kind of log line",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.753Z",
+  updatedAt: "2026-09-22T13:46:35.000Z",
 } as const satisfies Module

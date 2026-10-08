@@ -6,4 +6,6 @@ export const pithkaScreens = {
   slug: "pithka-screens",
   definition: "the four screens of the achievement tracker and the rows each one lists",
   code: "ts",
+  createdAt: "2026-09-26T16:33:23.197Z",
+  updatedAt: "2026-09-26T16:33:43.000Z",
 } as const satisfies Module

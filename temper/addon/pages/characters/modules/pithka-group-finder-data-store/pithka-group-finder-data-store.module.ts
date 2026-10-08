@@ -6,4 +6,6 @@ export const pithkaGroupFinderDataStore = {
   slug: "pithka-group-finder-data-store",
   definition: "the group listings the group finder has found, kept by leader and by search",
   code: "ts",
+  createdAt: "2026-09-26T16:22:28.105Z",
+  updatedAt: "2026-09-26T16:23:01.000Z",
 } as const satisfies Module

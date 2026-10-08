@@ -16,4 +16,6 @@ export const setsCoreHeader = {
       statement: "The words the slash commands accept are named here per language.",
     },
   ],
+  createdAt: "2026-09-02T11:59:13.129Z",
+  updatedAt: "2026-09-22T04:20:35.000Z",
 } as const satisfies Module

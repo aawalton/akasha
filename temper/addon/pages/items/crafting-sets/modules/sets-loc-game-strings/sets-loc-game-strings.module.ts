@@ -6,4 +6,6 @@ export const setsLocGameStrings = {
   slug: "sets-loc-game-strings",
   definition: "the fallback language and the game's own words for dungeon and arena",
   code: "ts",
+  createdAt: "2026-09-02T11:17:05.732Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

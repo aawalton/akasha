@@ -16,4 +16,6 @@ export const charactersTaskHudRows = {
       statement: "A hint's count is drawn at the right edge, where every row's count is.",
     },
   ],
+  createdAt: "2026-09-02T16:23:41.608Z",
+  updatedAt: "2026-09-26T13:58:59.000Z",
 } as const satisfies Module

@@ -7,4 +7,6 @@ export const combatAlertsDrawingWorldIconsGroupsB = {
   definition:
     "the Ossein Cage middle, Lucent Citadel, Halls of Fabrication and Sanity's Edge icon groups",
   code: "ts",
+  createdAt: "2026-09-26T17:24:03.364Z",
+  updatedAt: "2026-09-26T17:24:15.000Z",
 } as const satisfies Module

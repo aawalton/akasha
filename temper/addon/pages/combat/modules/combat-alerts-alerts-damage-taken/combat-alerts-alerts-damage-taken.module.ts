@@ -6,4 +6,6 @@ export const combatAlertsAlertsDamageTaken = {
   slug: "combat-alerts-alerts-damage-taken",
   definition: "the prominent warning for standing in arena damage",
   code: "ts",
+  createdAt: "2026-09-26T16:40:51.319Z",
+  updatedAt: "2026-09-26T16:41:04.000Z",
 } as const satisfies Module

@@ -33,4 +33,6 @@ export const setsSetData = {
       statement: "A zone is a public dungeon where a public dungeon page names it.",
     },
   ],
+  createdAt: "2026-09-26T13:59:02.242Z",
+  updatedAt: "2026-09-26T13:59:27.000Z",
 } as const satisfies Module

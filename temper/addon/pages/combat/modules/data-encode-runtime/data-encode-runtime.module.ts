@@ -20,4 +20,6 @@ export const dataEncodeRuntime = {
       statement: "Debug is on for a single named account and for no other account.",
     },
   ],
+  createdAt: "2026-09-02T04:30:03.424Z",
+  updatedAt: "2026-09-21T23:50:19.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const setsDebugDebugIndex = {
       statement: "This file has imports and nothing else.",
     },
   ],
+  createdAt: "2026-09-02T13:08:26.232Z",
+  updatedAt: "2026-09-22T13:43:25.000Z",
 } as const satisfies Module

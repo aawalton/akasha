@@ -25,4 +25,6 @@ export const qrCodeDraw = {
       statement: "The floating `/qrcode` window LibQRCode had is not ported.",
     },
   ],
+  createdAt: "2026-09-26T16:54:43.215Z",
+  updatedAt: "2026-09-26T16:54:54.000Z",
 } as const satisfies Module

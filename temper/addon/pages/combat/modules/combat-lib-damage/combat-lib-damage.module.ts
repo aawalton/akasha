@@ -6,4 +6,6 @@ export const combatLibDamage = {
   slug: "combat-lib-damage",
   definition: "the damage events the recorder counts",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.756Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies Module

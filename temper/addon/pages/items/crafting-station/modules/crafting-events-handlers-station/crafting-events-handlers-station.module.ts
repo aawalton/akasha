@@ -6,4 +6,6 @@ export const craftingEventsHandlersStation = {
   slug: "crafting-events-handlers-station",
   definition: "what the add-on does while a character is at a crafting station",
   code: "ts",
+  createdAt: "2026-09-21T15:17:33.545Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const potionRefreshTraits = {
   slug: "potion-refresh-traits",
   definition: "refreshes the trait row by which the player filters potions",
   code: "ts",
+  createdAt: "2026-09-02T11:01:26.277Z",
+  updatedAt: "2026-09-22T14:12:28.000Z",
 } as const satisfies Module

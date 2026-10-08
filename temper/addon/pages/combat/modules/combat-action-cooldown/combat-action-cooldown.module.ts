@@ -6,4 +6,6 @@ export const combatActionCooldown = {
   slug: "combat-action-cooldown",
   definition: "the sweeping cooldown overlay on an action widget",
   code: "ts",
+  createdAt: "2026-09-02T09:42:10.733Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

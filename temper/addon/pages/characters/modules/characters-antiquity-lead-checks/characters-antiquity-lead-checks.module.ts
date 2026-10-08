@@ -13,4 +13,6 @@ export const charactersAntiquityLeadChecks = {
       statement: "A lead is a motif lead where the antiquity's name opens with the style's word.",
     },
   ],
+  createdAt: "2026-09-02T16:21:49.088Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies Module
