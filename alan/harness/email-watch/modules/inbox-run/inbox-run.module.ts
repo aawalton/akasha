@@ -26,6 +26,19 @@ export const inboxRun = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Spam a rule rescues is moved into the inbox before the inbox is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A message rescued from spam is judged in the same run as mail added to the inbox.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rescue that throws is recorded as not taken and the run carries on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A claim on a message that has left the inbox is cleared.",
     },
     {
@@ -68,5 +81,5 @@ export const inboxRun = {
     },
   ],
   createdAt: "2026-09-03T04:46:07.661Z",
-  updatedAt: "2026-09-22T09:59:59.000Z",
+  updatedAt: "2026-10-08T16:25:19.067Z",
 } as const satisfies Module

@@ -10,6 +10,10 @@ import { channelsOf } from "akasha/alan/harness/email-inbound/modules/persona-ch
 import { decide } from "akasha/alan/harness/email-watch/modules/email-rule-deciding/email-rule-deciding.module.code.ts"
 import type { Rule } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"
 import { rulesOf } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"
+import {
+  type Rescue,
+  rescued,
+} from "akasha/alan/harness/email-watch/modules/spam-rescue/spam-rescue.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { personOr } from "akasha/person/modules/reading/person-reading.module.code.ts"
 import { z } from "zod"
@@ -179,6 +183,15 @@ async function carry(
   if (rule.filing === "skip") record({ message: message.id, rule: rule.slug, action: "skip" })
 }
 
+async function rescuesOf(rules: readonly Rule[], box: Mailbox): Promise<readonly Rescue[]> {
+  try {
+    return await rescued(rules, box, new Date())
+  } catch (error) {
+    record({ action: "rescue-from-spam", taken: false, error: String(error) })
+    return []
+  }
+}
+
 async function population(
   box: Mailbox,
   state: State
@@ -202,8 +215,16 @@ export async function oneRun(
   const selfAddress = (await box.profile()).emailAddress
   const state = readState()
   const claimed = new Set(state.claims.map((one) => one.messageId))
+  const rescues = await rescuesOf(rules, box)
   const found = await population(box, state)
+  const ids = [...new Set([...found.ids, ...rescues.map((one) => one.message.id)])]
   const decisions: string[] = []
+  for (const { message, rule } of rescues) {
+    decisions.push(
+      `${message.id} → rescued from spam by ${rule.slug} | ${message.from} | ${message.subject.slice(0, 60)}`
+    )
+    record({ message: message.id, rule: rule.slug, action: "rescue-from-spam" })
+  }
   const claims: Claim[] = [...state.claims]
   let acted = 0
   let unclaimed = 0
@@ -247,7 +268,7 @@ export async function oneRun(
     done.push(...did)
   }
 
-  for (const id of found.ids) {
+  for (const id of ids) {
     if (claimed.has(id)) continue
     let message: Message
     try {
@@ -343,7 +364,7 @@ export async function oneRun(
   const waiting = claims.filter((one) => one.actAt === undefined)
   writeState({ historyId: found.historyId, claims })
   return {
-    examined: found.ids.length,
+    examined: ids.length,
     decisions,
     acted,
     waiting: waiting.length,
