@@ -17,4 +17,6 @@ export const requestsPageDetail = {
       statement: "A page type reaching no page is looked for again among that type's descendants.",
     },
   ],
+  createdAt: "2026-09-21T18:25:59.000Z",
+  updatedAt: "2026-09-22T10:06:45.000Z",
 } as const satisfies Route

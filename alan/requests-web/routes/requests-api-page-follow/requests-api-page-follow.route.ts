@@ -7,4 +7,6 @@ export const requestsApiPageFollow = {
   definition: "the pages and lists a browser's stream follows",
   code: "ts",
   urlPath: "api/page-follow",
+  createdAt: "2026-09-24T22:11:48.916Z",
+  updatedAt: "2026-09-24T22:11:53.000Z",
 } as const satisfies Route

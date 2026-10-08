@@ -18,4 +18,6 @@ export const requestsHandover = {
         "This route is reached without a session, because the code is what signs a reader in.",
     },
   ],
+  createdAt: "2026-09-21T18:25:59.077Z",
+  updatedAt: "2026-09-21T18:37:14.000Z",
 } as const satisfies Route

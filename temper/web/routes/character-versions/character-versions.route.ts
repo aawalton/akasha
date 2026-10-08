@@ -13,4 +13,6 @@ export const characterVersions = {
       statement: "A refusal answers a reason code and no wording, which the client words.",
     },
   ],
+  createdAt: "2026-09-08T19:52:45.883Z",
+  updatedAt: "2026-09-27T12:47:56.000Z",
 } as const satisfies Route

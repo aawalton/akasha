@@ -13,4 +13,6 @@ export const alanWebApiTrackingHealthSamples = {
       statement: "A sender is known by its device secret rather than by a session.",
     },
   ],
+  createdAt: "2026-09-09T22:06:38.920Z",
+  updatedAt: "2026-09-22T13:48:28.000Z",
 } as const satisfies Route

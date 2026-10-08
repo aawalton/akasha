@@ -13,4 +13,6 @@ export const audhdalanApiPageFollow = {
       statement: "Every reader here is read as a visitor who is not signed in.",
     },
   ],
+  createdAt: "2026-09-24T23:23:26.653Z",
+  updatedAt: "2026-09-24T23:23:31.000Z",
 } as const satisfies Route

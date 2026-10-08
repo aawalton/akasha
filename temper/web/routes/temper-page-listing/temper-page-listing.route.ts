@@ -7,4 +7,6 @@ export const temperPageListing = {
   definition: "the pages of a type shown together on a screen",
   code: "tsx",
   urlPath: ":pageTypeSlug",
+  createdAt: "2026-09-08T20:01:28.607Z",
+  updatedAt: "2026-09-22T10:09:33.000Z",
 } as const satisfies Route

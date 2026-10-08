@@ -40,4 +40,6 @@ export const alanWebApiSmsVerificationStatus = {
       statement: "The message states its own id.",
     },
   ],
+  createdAt: "2026-09-11T14:17:06.649Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Route

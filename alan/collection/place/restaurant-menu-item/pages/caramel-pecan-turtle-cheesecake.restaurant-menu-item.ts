@@ -12,4 +12,6 @@ export const caramelPecanTurtleCheesecake = {
   unit: "unit/words",
   status: "completed",
   grade: "B",
+  createdAt: "2026-09-03T16:09:56.837Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies RestaurantMenuItem

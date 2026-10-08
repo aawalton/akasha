@@ -40,4 +40,6 @@ export const alanWebAppleAppSiteAssociation = {
       statement: "No web credential is declared, because the provider holds every passkey.",
     },
   ],
+  createdAt: "2026-09-19T21:54:43.655Z",
+  updatedAt: "2026-09-24T18:50:10.000Z",
 } as const satisfies Route

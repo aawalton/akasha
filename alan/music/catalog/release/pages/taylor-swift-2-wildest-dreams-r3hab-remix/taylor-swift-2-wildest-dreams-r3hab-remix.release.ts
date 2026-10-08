@@ -19,4 +19,6 @@ export const taylorSwift2WildestDreamsR3habRemix = {
     },
   ],
   title: "Wildest Dreams (R3hab Remix)",
+  createdAt: "2026-09-03T13:17:30.289Z",
+  updatedAt: "2026-09-23T14:01:20.000Z",
 } as const satisfies Release

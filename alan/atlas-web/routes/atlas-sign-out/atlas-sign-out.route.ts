@@ -7,4 +7,6 @@ export const atlasSignOut = {
   definition: "the end of a reader's session",
   code: "ts",
   urlPath: "sign-out",
+  createdAt: "2026-09-09T22:10:42.901Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

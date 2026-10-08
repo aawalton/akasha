@@ -7,4 +7,6 @@ export const alanWebApiChessAnalyze = {
   definition: "the engine's judgement of a chess position",
   code: "ts",
   urlPath: "api/chess/analyze",
+  createdAt: "2026-09-09T21:49:47.239Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

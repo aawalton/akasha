@@ -25,4 +25,6 @@ export const alanWebApiNarrationPiece = {
       statement: "A listener who goes away stops the request to the speech workload.",
     },
   ],
+  createdAt: "2026-10-05T20:37:59.917Z",
+  updatedAt: "2026-10-05T20:38:06.000Z",
 } as const satisfies Route

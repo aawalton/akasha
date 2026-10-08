@@ -7,4 +7,6 @@ export const jennyApiPushRegister = {
   definition: "the device Jenny's app registers to be pushed to",
   code: "ts",
   urlPath: "api/push/register",
+  createdAt: "2026-09-09T21:46:03.062Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

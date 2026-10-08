@@ -19,4 +19,6 @@ export const theBeatles2RevolverRemastered = {
       externalLink: "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.279Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

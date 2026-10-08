@@ -19,4 +19,6 @@ export const weirdAlYankovic2GreatestHits = {
       externalLink: "https://open.spotify.com/album/30OiW6q8Ug7n0u2WN9vIfe",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.271Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

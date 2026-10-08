@@ -19,4 +19,6 @@ export const weirdAlYankovic2In3D = {
       externalLink: "https://open.spotify.com/album/5mIwtOp8f0flDHmn8jOxDD",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.273Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

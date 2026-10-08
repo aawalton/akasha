@@ -6,4 +6,6 @@ export const companion = {
   slug: "companion",
   definition: "an agent that does fun things with Alan",
   onCall: false,
+  createdAt: "2026-08-30T17:44:10.792Z",
+  updatedAt: "2026-09-25T18:01:37.000Z",
 } as const satisfies Role

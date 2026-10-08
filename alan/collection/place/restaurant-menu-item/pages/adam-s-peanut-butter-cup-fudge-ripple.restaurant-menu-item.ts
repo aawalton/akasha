@@ -11,4 +11,6 @@ export const adamSPeanutButterCupFudgeRipple = {
   ownProgress: 0,
   unit: "unit/words",
   status: "not-started",
+  createdAt: "2026-09-03T16:09:56.836Z",
+  updatedAt: "2026-09-15T16:43:13.000Z",
 } as const satisfies RestaurantMenuItem

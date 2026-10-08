@@ -20,4 +20,6 @@ export const theHoldernessFamilyBestOf2022 = {
     },
   ],
   title: "Best of 2022",
+  createdAt: "2026-09-03T13:17:30.264Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

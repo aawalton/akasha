@@ -7,4 +7,6 @@ export const requestsApiPageTypes = {
   definition: "the page types answered to a reader's browser",
   code: "ts",
   urlPath: "api/page-types",
+  createdAt: "2026-09-21T18:25:59.137Z",
+  updatedAt: "2026-09-22T13:54:48.000Z",
 } as const satisfies Route

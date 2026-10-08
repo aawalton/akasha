@@ -60,4 +60,6 @@ export const jennySafetyLevel = {
       statement: "The level this route's tests read is a fixture rather than the level Alan is at.",
     },
   ],
+  createdAt: "2026-09-08T18:34:41.878Z",
+  updatedAt: "2026-09-25T16:52:49.000Z",
 } as const satisfies Route

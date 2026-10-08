@@ -9,4 +9,6 @@ export const techHorizonScan20260626 = {
   date: "2026-06-26",
   icon: "file-text",
   notes: "txt",
+  createdAt: "2026-06-27T23:33:53.431Z",
+  updatedAt: "2026-09-15T16:43:39.000Z",
 } as const satisfies ReviewSession

@@ -13,4 +13,6 @@ export const alanwalton0d6943009b048b2c = {
   userAgent:
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
   firstSeenAt: "2026-09-28T12:40:22.435Z",
+  createdAt: "2026-09-28T12:40:22.871Z",
+  updatedAt: "2026-09-28T12:40:23.000Z",
 } as const satisfies RuntimeError

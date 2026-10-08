@@ -62,4 +62,6 @@ export const alanWebApiStripeWebhook = {
       statement: "The address a charge names is written nowhere.",
     },
   ],
+  createdAt: "2026-09-19T16:59:42.203Z",
+  updatedAt: "2026-09-25T15:40:24.000Z",
 } as const satisfies Route

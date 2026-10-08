@@ -7,4 +7,6 @@ export const toDoRecurrence = {
   propertySlug: "to-do-recurrence",
   definition: "the rule saying when a to-do comes round again",
   types: "ts",
+  createdAt: "2026-09-03T04:57:44.119Z",
+  updatedAt: "2026-09-21T19:52:10.000Z",
 } as const satisfies RruleProperty

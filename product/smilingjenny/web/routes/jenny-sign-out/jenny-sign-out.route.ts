@@ -7,4 +7,6 @@ export const jennySignOut = {
   definition: "the end of Jenny's session",
   code: "ts",
   urlPath: "sign-out",
+  createdAt: "2026-09-09T21:46:44.211Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

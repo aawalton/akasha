@@ -7,4 +7,6 @@ export const jennyApiHealth = {
   definition: "whether the app answers",
   code: "ts",
   urlPath: "api/health",
+  createdAt: "2026-09-09T21:43:12.669Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

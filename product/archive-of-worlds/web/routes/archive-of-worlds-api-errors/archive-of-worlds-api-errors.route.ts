@@ -7,4 +7,6 @@ export const archiveOfWorldsApiErrors = {
   definition: "the errors a reader's browser reports",
   code: "ts",
   urlPath: "api/errors",
+  createdAt: "2026-09-08T19:28:20.949Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

@@ -20,4 +20,6 @@ export const thePianoGuysPianoFocus = {
     },
   ],
   title: "Piano Focus",
+  createdAt: "2026-09-17T13:50:08.961Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

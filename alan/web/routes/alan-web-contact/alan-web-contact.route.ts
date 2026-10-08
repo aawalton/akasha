@@ -17,4 +17,6 @@ export const alanWebContact = {
       statement: "No phone number is stated on the contact page.",
     },
   ],
+  createdAt: "2026-09-09T21:52:21.829Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Route

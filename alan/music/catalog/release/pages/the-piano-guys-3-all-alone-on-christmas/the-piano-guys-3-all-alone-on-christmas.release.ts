@@ -19,4 +19,6 @@ export const thePianoGuys3AllAloneOnChristmas = {
       externalLink: "https://open.spotify.com/album/5EcpnZGAYJ1w8s68bKQK00",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.262Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const theBeatles2TheBeatles19621966Remastered = {
       externalLink: "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.284Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

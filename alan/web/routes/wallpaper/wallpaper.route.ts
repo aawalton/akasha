@@ -33,4 +33,6 @@ export const wallpaper = {
       statement: "Nothing here reaches the object store.",
     },
   ],
+  createdAt: "2026-09-06T20:07:29.918Z",
+  updatedAt: "2026-09-21T22:39:54.000Z",
 } as const satisfies Route

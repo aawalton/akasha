@@ -25,4 +25,6 @@ export const alanWebHandoverMint = {
       statement: "The return path is carried as a path and read as the peripheral's own.",
     },
   ],
+  createdAt: "2026-09-19T20:04:50.932Z",
+  updatedAt: "2026-09-19T20:40:08.000Z",
 } as const satisfies Route

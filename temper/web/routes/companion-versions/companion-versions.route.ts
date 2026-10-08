@@ -13,4 +13,6 @@ export const companionVersions = {
       statement: "A refusal answers a reason code and no wording, which the client words.",
     },
   ],
+  createdAt: "2026-09-08T19:53:05.398Z",
+  updatedAt: "2026-09-27T12:48:15.000Z",
 } as const satisfies Route

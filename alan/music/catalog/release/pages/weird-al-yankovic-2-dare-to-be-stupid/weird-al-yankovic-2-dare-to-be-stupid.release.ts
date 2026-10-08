@@ -19,4 +19,6 @@ export const weirdAlYankovic2DareToBeStupid = {
       externalLink: "https://open.spotify.com/album/4sug9Au5Rrm34TwdTAux5O",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.267Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

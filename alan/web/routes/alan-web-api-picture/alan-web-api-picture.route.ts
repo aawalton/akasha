@@ -17,4 +17,6 @@ export const alanWebApiPicture = {
       statement: "Nothing but the picture's bytes and the device secret leaves the phone.",
     },
   ],
+  createdAt: "2026-09-13T20:08:17.434Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Route

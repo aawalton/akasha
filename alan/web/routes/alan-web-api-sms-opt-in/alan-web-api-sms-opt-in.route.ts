@@ -42,4 +42,6 @@ export const alanWebApiSmsOptIn = {
       statement: "The pages system service places that page and commits it into akasha.",
     },
   ],
+  createdAt: "2026-09-09T22:08:00.984Z",
+  updatedAt: "2026-09-27T12:13:50.000Z",
 } as const satisfies Route

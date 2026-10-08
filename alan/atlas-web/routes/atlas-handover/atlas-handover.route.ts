@@ -18,4 +18,6 @@ export const atlasHandover = {
         "This route is reached without a session, because the code is what signs a reader in.",
     },
   ],
+  createdAt: "2026-09-19T20:05:48.997Z",
+  updatedAt: "2026-09-19T20:40:08.000Z",
 } as const satisfies Route

@@ -20,4 +20,6 @@ export const yaelokreForeword = {
     },
   ],
   title: "Foreword",
+  createdAt: "2026-09-23T13:49:13.126Z",
+  updatedAt: "2026-09-23T14:01:20.000Z",
 } as const satisfies Release

@@ -30,4 +30,6 @@ export const audhdalanApiSubscribe = {
       statement: "An address well formed and unkept is told apart from an address refused.",
     },
   ],
+  createdAt: "2026-09-08T19:40:43.154Z",
+  updatedAt: "2026-09-24T23:16:53.000Z",
 } as const satisfies Route

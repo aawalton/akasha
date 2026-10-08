@@ -279,4 +279,6 @@ export const gameMaster = {
       ],
     },
   ],
+  createdAt: "2026-08-30T17:44:10.794Z",
+  updatedAt: "2026-10-06T19:18:24.000Z",
 } as const satisfies Role

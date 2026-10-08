@@ -20,4 +20,6 @@ export const zaraLarssonCanTTameHerDjSmallz732JerseyClubRemix = {
     },
   ],
   title: "Can't Tame Her (DJ Smallz 732 Jersey Club Remix)",
+  createdAt: "2026-09-03T13:17:30.265Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

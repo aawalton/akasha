@@ -50,4 +50,6 @@ export const alanWebApiSeatMessage = {
       statement: "A write the pages service refused is answered 503 rather than as a message sent.",
     },
   ],
+  createdAt: "2026-09-24T18:00:41.695Z",
+  updatedAt: "2026-09-24T18:56:50.000Z",
 } as const satisfies Route

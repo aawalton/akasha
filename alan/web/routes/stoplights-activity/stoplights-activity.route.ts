@@ -21,4 +21,6 @@ export const stoplightsActivity = {
       statement: "An answer with no stoplight is no reading.",
     },
   ],
+  createdAt: "2026-09-25T17:46:59.406Z",
+  updatedAt: "2026-09-25T17:47:06.000Z",
 } as const satisfies Route

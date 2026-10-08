@@ -7,4 +7,6 @@ export const apiItems = {
   definition: "the mined items a browser names by id",
   code: "ts",
   urlPath: "api/items",
+  createdAt: "2026-09-08T20:09:25.953Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

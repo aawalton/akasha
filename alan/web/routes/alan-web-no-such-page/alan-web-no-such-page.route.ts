@@ -17,4 +17,6 @@ export const alanWebNoSuchPage = {
       statement: "The root's guard runs first, so an address closed to a visitor asks for sign-in.",
     },
   ],
+  createdAt: "2026-09-27T15:37:48.768Z",
+  updatedAt: "2026-09-27T15:38:05.000Z",
 } as const satisfies Route

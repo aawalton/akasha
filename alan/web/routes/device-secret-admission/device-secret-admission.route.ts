@@ -45,4 +45,6 @@ export const deviceSecretAdmission = {
       statement: "A body names no reason.",
     },
   ],
+  createdAt: "2026-09-08T18:24:16.924Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Route

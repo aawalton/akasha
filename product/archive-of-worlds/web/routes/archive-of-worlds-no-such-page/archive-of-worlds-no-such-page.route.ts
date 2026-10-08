@@ -13,4 +13,6 @@ export const archiveOfWorldsNoSuchPage = {
       statement: "An address the archive has no route for is drawn not found by the root.",
     },
   ],
+  createdAt: "2026-09-27T15:37:48.768Z",
+  updatedAt: "2026-09-27T15:38:05.000Z",
 } as const satisfies Route

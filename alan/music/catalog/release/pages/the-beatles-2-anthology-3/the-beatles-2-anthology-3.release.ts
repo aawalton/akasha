@@ -19,4 +19,6 @@ export const theBeatles2Anthology3 = {
       externalLink: "https://open.spotify.com/album/0LFwMJaC6foCQJDl5bXuNQ",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.263Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

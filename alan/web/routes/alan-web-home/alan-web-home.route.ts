@@ -21,4 +21,6 @@ export const alanWebHome = {
       statement: "The opening nav item is picked again as soon as a nav item changes.",
     },
   ],
+  createdAt: "2026-09-09T22:01:14.418Z",
+  updatedAt: "2026-09-25T12:34:54.000Z",
 } as const satisfies Route

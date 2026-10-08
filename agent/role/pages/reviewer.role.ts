@@ -19,4 +19,6 @@ export const reviewer = {
       ],
     },
   ],
+  createdAt: "2026-09-26T17:21:24.280Z",
+  updatedAt: "2026-10-04T00:26:47.000Z",
 } as const satisfies Role

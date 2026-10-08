@@ -22,4 +22,6 @@ export const temperRequests = {
         "The wording is read from web phrase pages in the loader, so a signed-out reader sees it.",
     },
   ],
+  createdAt: "2026-09-21T16:07:23.985Z",
+  updatedAt: "2026-09-27T11:36:31.000Z",
 } as const satisfies Route

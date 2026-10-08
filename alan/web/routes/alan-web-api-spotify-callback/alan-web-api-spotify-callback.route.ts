@@ -7,4 +7,6 @@ export const alanWebApiSpotifyCallback = {
   definition: "the Spotify authorization code shown for pasting into the CLI",
   code: "ts",
   urlPath: "api/spotify/callback",
+  createdAt: "2026-09-09T22:00:26.793Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

@@ -7,4 +7,6 @@ export const audhdalanSafetyLevels = {
   definition: "the scale against which Alan reads his own capacity",
   code: "tsx",
   urlPath: "safety-levels",
+  createdAt: "2026-09-08T19:39:53.659Z",
+  updatedAt: "2026-09-22T14:00:26.000Z",
 } as const satisfies Route

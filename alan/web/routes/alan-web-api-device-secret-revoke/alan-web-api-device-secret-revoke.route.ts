@@ -7,4 +7,6 @@ export const alanWebApiDeviceSecretRevoke = {
   definition: "the taking back of a device's secret",
   code: "ts",
   urlPath: "api/device-secret/revoke",
+  createdAt: "2026-09-09T22:06:13.691Z",
+  updatedAt: "2026-09-22T10:06:45.000Z",
 } as const satisfies Route

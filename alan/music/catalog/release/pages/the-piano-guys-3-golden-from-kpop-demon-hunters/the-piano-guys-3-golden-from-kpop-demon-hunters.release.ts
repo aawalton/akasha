@@ -20,4 +20,6 @@ export const thePianoGuys3GoldenFromKpopDemonHunters = {
       lastSyncedAt: "2026-01-23",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.271Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

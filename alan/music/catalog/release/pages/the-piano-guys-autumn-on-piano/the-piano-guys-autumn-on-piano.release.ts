@@ -20,4 +20,6 @@ export const thePianoGuysAutumnOnPiano = {
     },
   ],
   title: "Autumn on Piano",
+  createdAt: "2026-09-17T13:50:08.163Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

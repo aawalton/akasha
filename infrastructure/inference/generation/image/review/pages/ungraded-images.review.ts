@@ -5,4 +5,6 @@ export const ungradedImages = {
   type: "page-type/review",
   slug: "ungraded-images",
   title: "Ungraded images",
+  createdAt: "2026-09-26T17:12:17.476Z",
+  updatedAt: "2026-09-26T17:12:22.000Z",
 } as const satisfies Review

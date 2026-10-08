@@ -22,4 +22,6 @@ export const temperHandover = {
       statement: "A code handed to any other host under tempereso.com is spent on tempereso.com.",
     },
   ],
+  createdAt: "2026-09-19T21:26:00.214Z",
+  updatedAt: "2026-09-19T21:31:00.000Z",
 } as const satisfies Route

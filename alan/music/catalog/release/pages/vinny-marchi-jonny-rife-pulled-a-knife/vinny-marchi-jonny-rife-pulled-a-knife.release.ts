@@ -21,4 +21,6 @@ export const vinnyMarchiJonnyRifePulledAKnife = {
     },
   ],
   title: "Jonny Rife Pulled a Knife",
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

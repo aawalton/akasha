@@ -17,4 +17,6 @@ export const jennyRequests = {
       statement: "This page serves the published requests alone, most points first.",
     },
   ],
+  createdAt: "2026-09-21T16:07:24.005Z",
+  updatedAt: "2026-09-21T16:14:08.000Z",
 } as const satisfies Route

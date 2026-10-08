@@ -7,4 +7,6 @@ export const atlasApiPlacesSearch = {
   definition: "the places Geoapify offers for what a reader typed",
   code: "ts",
   urlPath: "api/alan/collections/places/search",
+  createdAt: "2026-09-09T22:12:17.093Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

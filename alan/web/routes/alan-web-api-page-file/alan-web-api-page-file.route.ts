@@ -43,4 +43,6 @@ export const alanWebApiPageFile = {
       statement: "An image made at a width is still answered to its reader alone.",
     },
   ],
+  createdAt: "2026-09-24T18:27:09.603Z",
+  updatedAt: "2026-09-27T15:23:52.000Z",
 } as const satisfies Route

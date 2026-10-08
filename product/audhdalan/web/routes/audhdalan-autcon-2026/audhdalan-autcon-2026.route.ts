@@ -7,4 +7,6 @@ export const audhdalanAutcon2026 = {
   definition: "the deck Alan gave at AutCon 2026",
   code: "tsx",
   urlPath: "autcon-2026",
+  createdAt: "2026-09-08T19:39:44.735Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

@@ -17,4 +17,6 @@ export const apiShape = {
       statement: "The screens any page falls back to read a page type's shape through this route.",
     },
   ],
+  createdAt: "2026-09-27T05:59:30.377Z",
+  updatedAt: "2026-09-27T05:59:37.000Z",
 } as const satisfies Route

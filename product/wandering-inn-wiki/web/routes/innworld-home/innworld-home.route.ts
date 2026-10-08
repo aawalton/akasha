@@ -25,4 +25,6 @@ export const innworldHome = {
       statement: "A page type wears here the icon that page type wears in the sidebar.",
     },
   ],
+  createdAt: "2026-09-21T21:36:54.501Z",
+  updatedAt: "2026-09-22T13:59:02.000Z",
 } as const satisfies Route

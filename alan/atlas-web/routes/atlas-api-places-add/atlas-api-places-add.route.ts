@@ -33,4 +33,6 @@ export const atlasApiPlacesAdd = {
       statement: "A reader whose person states no account keeps no place.",
     },
   ],
+  createdAt: "2026-09-09T22:13:29.437Z",
+  updatedAt: "2026-09-25T03:15:46.000Z",
 } as const satisfies Route

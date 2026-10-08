@@ -38,4 +38,6 @@ export const pagesReady = {
       statement: "The probe reads as the system, so no reader's grant can turn this red.",
     },
   ],
+  createdAt: "2026-09-05T17:53:28.461Z",
+  updatedAt: "2026-09-21T19:01:57.000Z",
 } as const satisfies Route

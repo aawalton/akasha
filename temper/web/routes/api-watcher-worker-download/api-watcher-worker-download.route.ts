@@ -7,4 +7,6 @@ export const apiWatcherWorkerDownload = {
   definition: "the watcher worker executable a player downloads",
   code: "ts",
   urlPath: "api/watcher/worker/download",
+  createdAt: "2026-09-08T20:14:16.440Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

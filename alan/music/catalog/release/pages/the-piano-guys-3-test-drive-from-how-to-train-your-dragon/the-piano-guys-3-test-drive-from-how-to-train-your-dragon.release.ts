@@ -19,4 +19,6 @@ export const thePianoGuys3TestDriveFromHowToTrainYourDragon = {
       externalLink: "https://open.spotify.com/album/0zXNw8iyZ3lDZ1jCJpKL1V",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.284Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

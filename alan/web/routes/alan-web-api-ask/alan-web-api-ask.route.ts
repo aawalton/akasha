@@ -17,4 +17,6 @@ export const alanWebApiAsk = {
       statement: "Every composed query a browser makes reaches the page store through this route.",
     },
   ],
+  createdAt: "2026-09-22T01:24:52.345Z",
+  updatedAt: "2026-09-22T01:26:22.000Z",
 } as const satisfies Route

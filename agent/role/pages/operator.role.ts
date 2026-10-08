@@ -12,4 +12,6 @@ export const operator = {
       statement: "An operator asks their principal when the operator is not sure what act to take.",
     },
   ],
+  createdAt: "2026-08-30T17:44:10.796Z",
+  updatedAt: "2026-09-22T00:36:58.000Z",
 } as const satisfies Role

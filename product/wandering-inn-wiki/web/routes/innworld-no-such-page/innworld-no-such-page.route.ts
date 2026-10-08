@@ -13,4 +13,6 @@ export const innworldNoSuchPage = {
       statement: "An address none of the wiki's routes answers is drawn not found by the root.",
     },
   ],
+  createdAt: "2026-09-27T15:37:48.768Z",
+  updatedAt: "2026-09-27T15:38:05.000Z",
 } as const satisfies Route

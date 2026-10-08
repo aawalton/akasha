@@ -19,4 +19,6 @@ export const theBeatles2Beatles64MusicFromTheDisneyDocumentary = {
       externalLink: "https://open.spotify.com/album/6Ov3BKM3fPEW1V6DtjQQar",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.264Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

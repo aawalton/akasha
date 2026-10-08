@@ -11,4 +11,6 @@ export const musicalTheater = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
+  createdAt: "2026-09-03T16:09:42.750Z",
+  updatedAt: "2026-09-15T16:40:57.000Z",
 } as const satisfies ReleaseCollection

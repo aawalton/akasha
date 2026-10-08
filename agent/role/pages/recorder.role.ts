@@ -59,4 +59,6 @@ export const recorder = {
       ],
     },
   ],
+  createdAt: "2026-09-22T13:55:49.477Z",
+  updatedAt: "2026-09-25T18:03:58.000Z",
 } as const satisfies Role

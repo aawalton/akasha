@@ -20,4 +20,6 @@ export const vinnyMarchiDowntown = {
     },
   ],
   title: "Downtown",
+  createdAt: "2026-09-17T20:32:58.943Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

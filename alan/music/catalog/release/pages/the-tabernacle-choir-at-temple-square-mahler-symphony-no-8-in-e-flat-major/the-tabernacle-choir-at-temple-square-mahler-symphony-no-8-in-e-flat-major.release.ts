@@ -20,4 +20,6 @@ export const theTabernacleChoirAtTempleSquareMahlerSymphonyNo8InEFlatMajor = {
       lastSyncedAt: "2025-11-27",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.276Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

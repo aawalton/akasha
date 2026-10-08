@@ -22,4 +22,6 @@ export const jennyNoSuchPage = {
       statement: "The route draws a screen, so its not found is drawn by the root's error screen.",
     },
   ],
+  createdAt: "2026-09-27T13:38:43.718Z",
+  updatedAt: "2026-09-27T13:47:38.000Z",
 } as const satisfies Route

@@ -19,4 +19,6 @@ export const tomLehrerAnEveningWastedWithTomLehrer = {
       externalLink: "https://open.spotify.com/album/5bJZc75sFbRq2cwDsrbWTK",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.263Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

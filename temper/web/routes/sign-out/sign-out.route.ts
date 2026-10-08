@@ -14,4 +14,6 @@ export const signOut = {
         "A player signs out by posting, because the browser cannot reach the cookie itself.",
     },
   ],
+  createdAt: "2026-09-19T21:51:57.533Z",
+  updatedAt: "2026-09-19T21:57:38.000Z",
 } as const satisfies Route

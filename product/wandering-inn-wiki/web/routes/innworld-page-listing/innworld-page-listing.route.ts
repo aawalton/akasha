@@ -13,4 +13,6 @@ export const innworldPageListing = {
       statement: "A slug reaching no page type the visitor may read is answered 404.",
     },
   ],
+  createdAt: "2026-09-21T22:00:34.469Z",
+  updatedAt: "2026-09-22T10:17:30.000Z",
 } as const satisfies Route

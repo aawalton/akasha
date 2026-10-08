@@ -21,4 +21,6 @@ export const atlasMap = {
       statement: "The pins are drawn again as soon as a location changes.",
     },
   ],
+  createdAt: "2026-09-09T22:15:09.317Z",
+  updatedAt: "2026-09-25T12:34:16.000Z",
 } as const satisfies Route

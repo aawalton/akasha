@@ -7,4 +7,6 @@ export const atlasApiErrors = {
   definition: "the errors a reader's browser reports",
   code: "ts",
   urlPath: "api/errors",
+  createdAt: "2026-09-09T22:09:21.804Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

@@ -69,4 +69,6 @@ export const alanRequestsWeb = {
       statement: "Every other write here is refused to a reader who has not signed in.",
     },
   ],
+  createdAt: "2026-09-21T18:25:58.863Z",
+  updatedAt: "2026-09-25T16:25:20.000Z",
 } as const satisfies RouterApp

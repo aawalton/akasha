@@ -7,4 +7,6 @@ export const audhdalanApiPageEvents = {
   definition: "the one stream of page changes a browser opens",
   code: "ts",
   urlPath: "api/page-events",
+  createdAt: "2026-09-24T23:23:26.653Z",
+  updatedAt: "2026-09-24T23:23:31.000Z",
 } as const satisfies Route

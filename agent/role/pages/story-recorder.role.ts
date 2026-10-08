@@ -44,4 +44,6 @@ export const storyRecorder = {
       ],
     },
   ],
+  createdAt: "2026-09-27T00:47:11.074Z",
+  updatedAt: "2026-10-04T00:26:47.000Z",
 } as const satisfies Role

@@ -34,4 +34,6 @@ export const apiWatcherUpsertMinedQuests = {
         "A post the store refuses keeps nothing and is answered 503 with the store's reason.",
     },
   ],
+  createdAt: "2026-09-08T20:16:30.256Z",
+  updatedAt: "2026-09-25T13:30:58.000Z",
 } as const satisfies Route

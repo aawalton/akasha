@@ -7,4 +7,6 @@ export const atlasApiLiveVersion = {
   definition: "the running build's commit",
   code: "ts",
   urlPath: "api/live-version",
+  createdAt: "2026-09-09T22:08:59.188Z",
+  updatedAt: "2026-09-22T13:47:07.000Z",
 } as const satisfies Route

@@ -7,4 +7,6 @@ export const jennyApiPageTypes = {
   definition: "the page types served to a reader",
   code: "ts",
   urlPath: "api/page-types",
+  createdAt: "2026-09-25T15:17:43.589Z",
+  updatedAt: "2026-09-25T15:18:04.000Z",
 } as const satisfies Route

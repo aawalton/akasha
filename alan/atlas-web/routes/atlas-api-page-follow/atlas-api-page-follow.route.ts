@@ -7,4 +7,6 @@ export const atlasApiPageFollow = {
   definition: "the pages and lists a browser's stream follows",
   code: "ts",
   urlPath: "api/page-follow",
+  createdAt: "2026-09-24T22:23:03.785Z",
+  updatedAt: "2026-09-24T22:23:27.000Z",
 } as const satisfies Route

@@ -19,4 +19,6 @@ export const weirdAlYankovic2Alpocalypse = {
       externalLink: "https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.262Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

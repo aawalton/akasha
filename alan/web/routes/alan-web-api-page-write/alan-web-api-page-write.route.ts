@@ -13,4 +13,6 @@ export const alanWebApiPageWrite = {
       statement: "This route's action is the only thing this route's code exports.",
     },
   ],
+  createdAt: "2026-09-09T21:57:09.182Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Route

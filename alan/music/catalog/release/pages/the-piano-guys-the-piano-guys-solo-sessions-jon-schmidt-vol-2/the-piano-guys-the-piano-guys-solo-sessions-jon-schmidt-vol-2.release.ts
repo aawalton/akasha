@@ -20,4 +20,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2 = {
     },
   ],
   title: "The Piano Guys Solo Sessions: Jon Schmidt, Vol. 2",
+  createdAt: "2026-09-17T13:50:08.621Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

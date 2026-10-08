@@ -26,4 +26,6 @@ export const inboxStoplights = {
       statement: "Every inbox scale falls rather than climbs.",
     },
   ],
+  createdAt: "2026-09-05T17:51:26.156Z",
+  updatedAt: "2026-09-25T16:37:06.000Z",
 } as const satisfies Route

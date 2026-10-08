@@ -13,4 +13,6 @@ export const alanWebTerms = {
       statement: "The page carries verbatim the sentence a carrier requires on mobile information.",
     },
   ],
+  createdAt: "2026-09-09T21:53:42.621Z",
+  updatedAt: "2026-09-22T13:48:15.000Z",
 } as const satisfies Route

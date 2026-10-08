@@ -19,4 +19,6 @@ export const weirdAlYankovic2LiveInTheMomentWeirdAlYankovicRemix = {
       externalLink: "https://open.spotify.com/album/57JwyYSRHJzonPxiGsGZBv",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

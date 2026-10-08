@@ -17,4 +17,6 @@ export const audhdalanApiImage = {
       statement: "Every reader here is read as a visitor who is not signed in.",
     },
   ],
+  createdAt: "2026-09-25T12:56:15.570Z",
+  updatedAt: "2026-09-25T12:56:26.000Z",
 } as const satisfies Route

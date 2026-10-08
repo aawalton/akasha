@@ -19,4 +19,6 @@ export const theBeatles2BeatlesForSaleRemastered = {
       externalLink: "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.264Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

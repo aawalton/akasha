@@ -62,4 +62,6 @@ export const safetyLevel = {
       statement: "`readingHeld` says nothing was ever carried.",
     },
   ],
+  createdAt: "2026-09-08T18:26:07.783Z",
+  updatedAt: "2026-09-25T16:52:49.000Z",
 } as const satisfies Route

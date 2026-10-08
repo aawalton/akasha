@@ -20,4 +20,6 @@ export const zaraLarssonUncover = {
     },
   ],
   title: "Uncover",
+  createdAt: "2026-09-03T13:17:30.287Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

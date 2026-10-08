@@ -13,4 +13,6 @@ export const keyboardShortcuts = {
       statement: "The document title is read from this route's web phrase page.",
     },
   ],
+  createdAt: "2026-09-08T21:53:51.654Z",
+  updatedAt: "2026-09-27T11:34:38.000Z",
 } as const satisfies Route

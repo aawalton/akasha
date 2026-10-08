@@ -5,4 +5,6 @@ export const alan = {
   type: "page-type/royal-road-account",
   slug: "alan",
   email: "aawalton@gmail.com",
+  createdAt: "2026-08-18T00:48:22.607Z",
+  updatedAt: "2026-09-15T16:45:15.000Z",
 } as const satisfies RoyalRoadAccount

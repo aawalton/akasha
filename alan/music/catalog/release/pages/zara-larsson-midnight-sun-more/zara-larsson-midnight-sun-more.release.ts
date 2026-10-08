@@ -20,4 +20,6 @@ export const zaraLarssonMidnightSunMore = {
     },
   ],
   title: "Midnight Sun (+ more)",
+  createdAt: "2026-09-16T13:50:58.090Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

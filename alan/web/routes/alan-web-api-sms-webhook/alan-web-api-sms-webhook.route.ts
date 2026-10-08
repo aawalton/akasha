@@ -60,4 +60,6 @@ export const alanWebApiSmsWebhook = {
       statement: "Every effect the inbound machinery needs is handed in by this route.",
     },
   ],
+  createdAt: "2026-09-09T22:00:46.561Z",
+  updatedAt: "2026-09-28T16:42:27.000Z",
 } as const satisfies Route

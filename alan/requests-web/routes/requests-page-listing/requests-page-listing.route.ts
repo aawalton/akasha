@@ -17,4 +17,6 @@ export const requestsPageListing = {
       statement: "A slug reaching no page type is answered 404.",
     },
   ],
+  createdAt: "2026-09-21T18:25:59.016Z",
+  updatedAt: "2026-09-22T10:05:53.000Z",
 } as const satisfies Route

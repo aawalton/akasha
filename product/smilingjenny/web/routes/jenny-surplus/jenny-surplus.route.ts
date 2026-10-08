@@ -47,4 +47,6 @@ export const jennySurplus = {
       statement: "A widget reading 503 draws no signal.",
     },
   ],
+  createdAt: "2026-09-07T14:55:04.420Z",
+  updatedAt: "2026-09-25T16:52:49.000Z",
 } as const satisfies Route

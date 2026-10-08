@@ -7,4 +7,6 @@ export const atlasApiPageTypes = {
   definition: "the page types a reader's browser requests",
   code: "ts",
   urlPath: "api/page-types",
+  createdAt: "2026-09-09T22:09:59.668Z",
+  updatedAt: "2026-09-22T14:08:21.000Z",
 } as const satisfies Route

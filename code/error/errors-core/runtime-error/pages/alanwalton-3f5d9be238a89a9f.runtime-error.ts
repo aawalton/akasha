@@ -12,4 +12,6 @@ export const alanwalton3f5d9be238a89a9f = {
   userAgent:
     "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1 Brave",
   firstSeenAt: "2026-09-30T16:49:55.900Z",
+  createdAt: "2026-09-30T16:49:56.000Z",
+  updatedAt: "2026-09-30T16:49:56.000Z",
 } as const satisfies RuntimeError

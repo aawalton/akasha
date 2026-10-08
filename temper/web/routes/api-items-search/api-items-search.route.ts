@@ -7,4 +7,6 @@ export const apiItemsSearch = {
   definition: "the mined items whose name has what was typed",
   code: "ts",
   urlPath: "api/items/search",
+  createdAt: "2026-09-08T20:11:57.345Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

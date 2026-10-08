@@ -20,4 +20,6 @@ export const zaraLarssonEurosummerGirlsTrip = {
     },
   ],
   title: "Eurosummer (Girls Trip)",
+  createdAt: "2026-09-16T13:50:57.422Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

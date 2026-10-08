@@ -7,4 +7,6 @@ export const temperCharacterBuildHash = {
   definition: "the character build a shared hash carries",
   code: "ts",
   urlPath: "character-build/h/:hash",
+  createdAt: "2026-09-08T19:59:53.925Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

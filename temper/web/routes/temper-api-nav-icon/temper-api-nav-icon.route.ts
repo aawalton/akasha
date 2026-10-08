@@ -7,4 +7,6 @@ export const temperApiNavIcon = {
   definition: "the icon drawn for a nav entry",
   code: "ts",
   urlPath: "api/nav-icon/:idSuffix",
+  createdAt: "2026-09-08T19:59:22.423Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

@@ -18,4 +18,6 @@ export const temperApiPages = {
         "React Router strips only `loader` and `action` and `middleware` and `headers` from the browser.",
     },
   ],
+  createdAt: "2026-09-08T19:58:50.842Z",
+  updatedAt: "2026-09-22T14:01:43.000Z",
 } as const satisfies Route

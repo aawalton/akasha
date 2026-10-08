@@ -26,4 +26,6 @@ export const alanWebApiAuth = {
       statement: "This route beats the catch-all that answers an address under `/api/`.",
     },
   ],
+  createdAt: "2026-09-19T18:44:06.822Z",
+  updatedAt: "2026-09-19T19:19:52.000Z",
 } as const satisfies Route

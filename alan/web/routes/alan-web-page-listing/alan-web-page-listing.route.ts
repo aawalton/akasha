@@ -17,4 +17,6 @@ export const alanWebPageListing = {
       statement: "A slug reaching no page type is answered 404.",
     },
   ],
+  createdAt: "2026-09-09T22:02:18.131Z",
+  updatedAt: "2026-09-22T10:05:47.000Z",
 } as const satisfies Route

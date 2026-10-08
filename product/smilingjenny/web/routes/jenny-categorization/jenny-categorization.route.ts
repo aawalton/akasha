@@ -18,4 +18,6 @@ export const jennyCategorization = {
       statement: "Everything else about that readout is read off the readout's own page.",
     },
   ],
+  createdAt: "2026-09-08T18:55:59.288Z",
+  updatedAt: "2026-09-25T16:54:36.000Z",
 } as const satisfies Route

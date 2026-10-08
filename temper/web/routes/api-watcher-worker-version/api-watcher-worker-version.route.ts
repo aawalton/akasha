@@ -7,4 +7,6 @@ export const apiWatcherWorkerVersion = {
   definition: "the watcher worker build on offer, and where to fetch it",
   code: "ts",
   urlPath: "api/watcher/worker/version",
+  createdAt: "2026-09-08T20:13:51.496Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

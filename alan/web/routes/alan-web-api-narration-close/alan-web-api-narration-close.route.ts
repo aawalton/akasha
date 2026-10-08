@@ -13,4 +13,6 @@ export const alanWebApiNarrationClose = {
       statement: "A request no signed-in person made is answered 401 and closes nothing.",
     },
   ],
+  createdAt: "2026-10-05T20:37:59.917Z",
+  updatedAt: "2026-10-05T20:38:06.000Z",
 } as const satisfies Route

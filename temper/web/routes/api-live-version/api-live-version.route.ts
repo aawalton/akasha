@@ -7,4 +7,6 @@ export const apiLiveVersion = {
   definition: "the build the server is running",
   code: "ts",
   urlPath: "api/live-version",
+  createdAt: "2026-09-08T20:07:53.806Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

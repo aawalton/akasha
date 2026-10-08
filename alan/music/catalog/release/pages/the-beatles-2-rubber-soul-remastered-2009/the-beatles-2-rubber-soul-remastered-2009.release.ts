@@ -19,4 +19,6 @@ export const theBeatles2RubberSoulRemastered2009 = {
       externalLink: "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.280Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

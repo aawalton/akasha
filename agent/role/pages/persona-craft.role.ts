@@ -52,4 +52,6 @@ export const personaCraft = {
       ],
     },
   ],
+  createdAt: "2026-08-30T17:44:10.796Z",
+  updatedAt: "2026-09-25T18:03:47.000Z",
 } as const satisfies Role

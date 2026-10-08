@@ -7,4 +7,6 @@ export const jennyApiPageEvents = {
   definition: "the one stream of page changes a browser opens",
   code: "ts",
   urlPath: "api/page-events",
+  createdAt: "2026-09-24T22:26:01.393Z",
+  updatedAt: "2026-09-24T22:26:31.000Z",
 } as const satisfies Route

@@ -7,4 +7,6 @@ export const alanWebSms = {
   definition: "the consent a recipient of Amy's texts gives and can take back",
   code: "tsx",
   urlPath: "sms",
+  createdAt: "2026-09-09T21:55:59.214Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

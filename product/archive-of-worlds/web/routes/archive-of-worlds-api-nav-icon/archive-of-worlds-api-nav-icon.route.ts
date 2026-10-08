@@ -13,4 +13,6 @@ export const archiveOfWorldsApiNavIcon = {
       statement: "No browser keeps an icon, so a changed nav icon is drawn at once.",
     },
   ],
+  createdAt: "2026-09-08T19:43:24.065Z",
+  updatedAt: "2026-09-27T12:18:17.000Z",
 } as const satisfies Route

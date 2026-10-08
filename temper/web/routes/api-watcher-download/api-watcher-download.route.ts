@@ -7,4 +7,6 @@ export const apiWatcherDownload = {
   definition: "the watcher executable a player downloads",
   code: "ts",
   urlPath: "api/watcher/download",
+  createdAt: "2026-09-08T20:13:24.909Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

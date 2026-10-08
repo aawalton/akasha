@@ -12,4 +12,6 @@ export const landing = {
       statement: "The sign-up and sign-in wording is read from web phrase pages in the loader.",
     },
   ],
+  createdAt: "2026-09-08T21:57:03.062Z",
+  updatedAt: "2026-09-27T11:37:31.000Z",
 } as const satisfies Route

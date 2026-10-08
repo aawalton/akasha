@@ -7,4 +7,6 @@ export const jennyApiErrors = {
   definition: "the errors Jenny's browser reports",
   code: "ts",
   urlPath: "api/errors",
+  createdAt: "2026-09-09T21:44:23.670Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

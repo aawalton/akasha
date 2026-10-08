@@ -7,4 +7,6 @@ export const alanWebServices = {
   definition: "the Amy text line Alan Walton offers",
   code: "tsx",
   urlPath: "services",
+  createdAt: "2026-09-09T21:53:17.108Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

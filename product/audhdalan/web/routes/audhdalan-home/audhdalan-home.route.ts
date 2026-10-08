@@ -6,4 +6,6 @@ export const audhdalanHome = {
   slug: "audhdalan-home",
   definition: "what a reader lands on first",
   code: "tsx",
+  createdAt: "2026-09-08T19:39:29.166Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

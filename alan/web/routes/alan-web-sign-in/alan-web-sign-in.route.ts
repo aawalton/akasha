@@ -14,4 +14,6 @@ export const alanWebSignIn = {
         "A reader Google signed in goes to the home route, and every other reader sees the button.",
     },
   ],
+  createdAt: "2026-09-09T21:51:49.904Z",
+  updatedAt: "2026-09-22T13:58:58.000Z",
 } as const satisfies Route

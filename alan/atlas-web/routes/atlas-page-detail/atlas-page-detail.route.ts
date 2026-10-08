@@ -17,4 +17,6 @@ export const atlasPageDetail = {
       statement: "A page type reaching no page is looked for again among that type's descendants.",
     },
   ],
+  createdAt: "2026-09-09T22:15:37.547Z",
+  updatedAt: "2026-09-22T00:41:39.000Z",
 } as const satisfies Route

@@ -19,4 +19,6 @@ export const theBeatles2TheBeatles196219662023Edition = {
       externalLink: "https://open.spotify.com/album/39Ti6Be9Ak2d6YbxlQo0Ba",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.284Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

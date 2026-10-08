@@ -17,4 +17,6 @@ export const archiveOfWorldsSignIn = {
       statement: "A reader asking for a page is brought back to that page after signing in.",
     },
   ],
+  createdAt: "2026-09-08T19:32:11.345Z",
+  updatedAt: "2026-09-19T21:31:00.000Z",
 } as const satisfies Route

@@ -21,4 +21,6 @@ export const alanWebApiNarrationNext = {
       statement: "The answer names the chapter added, or names none where the story has ended.",
     },
   ],
+  createdAt: "2026-10-05T20:37:59.917Z",
+  updatedAt: "2026-10-05T20:38:06.000Z",
 } as const satisfies Route

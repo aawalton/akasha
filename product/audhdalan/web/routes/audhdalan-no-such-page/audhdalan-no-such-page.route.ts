@@ -13,4 +13,6 @@ export const audhdalanNoSuchPage = {
       statement: "Every address no other route answers is answered not found by the root's screen.",
     },
   ],
+  createdAt: "2026-09-27T15:37:48.768Z",
+  updatedAt: "2026-09-27T15:38:05.000Z",
 } as const satisfies Route

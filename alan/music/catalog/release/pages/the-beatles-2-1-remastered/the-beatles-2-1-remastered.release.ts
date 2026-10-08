@@ -19,4 +19,6 @@ export const theBeatles21Remastered = {
       externalLink: "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.260Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

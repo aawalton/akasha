@@ -7,4 +7,6 @@ export const about = {
   definition: "what the business is and who runs it",
   code: "tsx",
   urlPath: "about",
+  createdAt: "2026-09-05T14:04:58.887Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

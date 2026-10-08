@@ -19,4 +19,6 @@ export const theBeatles2OnAirLiveAtTheBbcVol2 = {
       externalLink: "https://open.spotify.com/album/4On0Hf7VJC1jz5gXY2cU8p",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.278Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

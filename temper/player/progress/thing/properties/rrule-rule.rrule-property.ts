@@ -13,4 +13,6 @@ export const rruleRule = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T01:40:40.061Z",
+  updatedAt: "2026-09-21T19:57:35.000Z",
 } as const satisfies RruleProperty

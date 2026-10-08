@@ -19,4 +19,6 @@ export const weirdAlYankovic2NewYearSEvePolka54321 = {
       externalLink: "https://open.spotify.com/album/43mopyD01RjmKiSlnOWycJ",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.277Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

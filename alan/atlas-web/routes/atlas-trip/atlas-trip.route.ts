@@ -37,4 +37,6 @@ export const atlasTrip = {
       statement: "No map is drawn here, and the map route draws every location instead.",
     },
   ],
+  createdAt: "2026-09-09T22:16:22.814Z",
+  updatedAt: "2026-09-27T12:28:10.000Z",
 } as const satisfies Route

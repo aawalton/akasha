@@ -19,4 +19,6 @@ export const weirdAlYankovic2StraightOuttaLynwood = {
       externalLink: "https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.282Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

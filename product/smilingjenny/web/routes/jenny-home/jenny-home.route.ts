@@ -6,4 +6,6 @@ export const jennyHome = {
   slug: "jenny-home",
   definition: "what Jenny lands on first",
   code: "tsx",
+  createdAt: "2026-09-09T21:47:40.694Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

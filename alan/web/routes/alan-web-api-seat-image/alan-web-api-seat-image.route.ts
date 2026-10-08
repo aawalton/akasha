@@ -30,4 +30,6 @@ export const alanWebApiSeatImage = {
       statement: "An image the pages service would not keep is answered 503.",
     },
   ],
+  createdAt: "2026-09-24T18:14:10.656Z",
+  updatedAt: "2026-09-24T18:14:57.000Z",
 } as const satisfies Route

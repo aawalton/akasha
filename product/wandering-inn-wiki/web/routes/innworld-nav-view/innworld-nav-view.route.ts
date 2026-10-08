@@ -13,4 +13,6 @@ export const innworldNavView = {
       statement: "A nav item the wiki's sidebar does not hold is answered 404.",
     },
   ],
+  createdAt: "2026-09-28T22:15:13.905Z",
+  updatedAt: "2026-09-28T22:15:21.000Z",
 } as const satisfies Route

@@ -8,4 +8,6 @@ export const chapterWrite = {
   code: "ts",
   test: "ts",
   urlPath: "api/chapter-write",
+  createdAt: "2026-09-28T19:15:27.772Z",
+  updatedAt: "2026-09-28T19:15:48.000Z",
 } as const satisfies Route

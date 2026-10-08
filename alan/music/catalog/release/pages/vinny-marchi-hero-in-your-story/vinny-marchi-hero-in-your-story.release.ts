@@ -21,4 +21,6 @@ export const vinnyMarchiHeroInYourStory = {
     },
   ],
   title: "Hero In Your Story",
+  createdAt: "2026-09-03T13:17:30.272Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

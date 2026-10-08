@@ -396,4 +396,6 @@ export const temperWeb = {
         "The root route words a failed response by its status and never shows the response's own status text.",
     },
   ],
+  createdAt: "2026-09-02T21:23:16.800Z",
+  updatedAt: "2026-09-27T12:55:59.000Z",
 } as const satisfies RouterApp

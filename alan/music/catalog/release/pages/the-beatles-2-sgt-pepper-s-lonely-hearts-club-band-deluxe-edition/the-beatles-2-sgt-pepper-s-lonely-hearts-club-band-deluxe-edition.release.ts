@@ -19,4 +19,6 @@ export const theBeatles2SgtPepperSLonelyHeartsClubBandDeluxeEdition = {
       externalLink: "https://open.spotify.com/album/6b7ycwe2rxq6FkaupNuGoS",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.280Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

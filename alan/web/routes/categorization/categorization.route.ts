@@ -25,4 +25,6 @@ export const categorization = {
       statement: "The words for an empty reading are read off that readout's page.",
     },
   ],
+  createdAt: "2026-09-08T18:21:56.739Z",
+  updatedAt: "2026-09-25T16:54:36.000Z",
 } as const satisfies Route

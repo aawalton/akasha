@@ -13,4 +13,6 @@ export const archiveOfWorldsSignUp = {
       statement: "An account is opened by signing in, so this route sends a reader there.",
     },
   ],
+  createdAt: "2026-09-08T19:32:23.830Z",
+  updatedAt: "2026-09-20T23:26:24.000Z",
 } as const satisfies Route

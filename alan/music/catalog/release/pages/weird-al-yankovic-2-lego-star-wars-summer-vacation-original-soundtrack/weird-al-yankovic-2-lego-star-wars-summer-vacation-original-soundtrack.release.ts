@@ -19,4 +19,6 @@ export const weirdAlYankovic2LegoStarWarsSummerVacationOriginalSoundtrack = {
       externalLink: "https://open.spotify.com/album/4CHtFjeBXVir6bP7nKBqhg",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

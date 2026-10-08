@@ -19,4 +19,6 @@ export const tomLehrerTheQueenSSixMurderTheSongsOfTomLehrer = {
       externalLink: "https://open.spotify.com/album/5u7imuWzkTRmWJaidea8aw",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.286Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

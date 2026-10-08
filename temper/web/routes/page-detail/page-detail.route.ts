@@ -23,4 +23,6 @@ export const pageDetail = {
         "The toast for a build that will not decode reads its wording from a web phrase page.",
     },
   ],
+  createdAt: "2026-09-08T19:56:07.656Z",
+  updatedAt: "2026-09-27T11:38:20.000Z",
 } as const satisfies Route

@@ -21,4 +21,6 @@ export const alanWebApiIcon = {
       statement: "A browser keeps an icon for a day, since one name always draws one icon.",
     },
   ],
+  createdAt: "2026-09-28T11:57:47.062Z",
+  updatedAt: "2026-09-28T11:57:52.000Z",
 } as const satisfies Route

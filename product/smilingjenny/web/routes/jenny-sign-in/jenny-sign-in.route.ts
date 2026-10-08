@@ -13,4 +13,6 @@ export const jennySignIn = {
       statement: "This route draws nothing, and asks Jenny for nothing.",
     },
   ],
+  createdAt: "2026-09-09T21:47:10.658Z",
+  updatedAt: "2026-09-21T00:06:05.000Z",
 } as const satisfies Route

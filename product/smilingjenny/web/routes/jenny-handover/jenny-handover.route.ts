@@ -13,4 +13,6 @@ export const jennyHandover = {
       statement: "This route draws nothing, and answers with a redirect either way.",
     },
   ],
+  createdAt: "2026-09-21T00:06:05.000Z",
+  updatedAt: "2026-09-21T00:06:05.000Z",
 } as const satisfies Route

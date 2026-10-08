@@ -13,4 +13,6 @@ export const alanWebApiErrors = {
       statement: "A report sent from the capacitor shell is answered with cross-origin headers.",
     },
   ],
+  createdAt: "2026-09-09T21:58:41.841Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Route

@@ -140,4 +140,6 @@ export const interviewer = {
       ],
     },
   ],
+  createdAt: "2026-08-30T17:44:10.795Z",
+  updatedAt: "2026-09-25T18:03:21.000Z",
 } as const satisfies Role

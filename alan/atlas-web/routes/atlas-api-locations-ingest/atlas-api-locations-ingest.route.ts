@@ -21,4 +21,6 @@ export const atlasApiLocationsIngest = {
       statement: "Only a body that is no batch at all is answered 400.",
     },
   ],
+  createdAt: "2026-09-09T22:13:54.001Z",
+  updatedAt: "2026-09-24T19:53:21.000Z",
 } as const satisfies Route

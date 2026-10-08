@@ -54,4 +54,6 @@ export const cost = {
       statement: "A caller into this ring presents the device secret Alan's phone holds.",
     },
   ],
+  createdAt: "2026-09-10T14:20:03.634Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Route

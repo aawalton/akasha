@@ -19,4 +19,6 @@ export const theBeatles2LiveAtTheHollywoodBowl = {
       externalLink: "https://open.spotify.com/album/0n9SWDBEftKwq09B01Pwzw",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

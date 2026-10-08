@@ -17,4 +17,6 @@ export const alanWebApiPushRegister = {
       statement: "The app a token is kept under is Alan's, whatever the body says.",
     },
   ],
+  createdAt: "2026-09-09T22:05:45.256Z",
+  updatedAt: "2026-09-22T14:08:17.000Z",
 } as const satisfies Route

@@ -10,4 +10,6 @@ export const provoRestaurants = {
   ownProgress: 0,
   unit: "unit/words",
   status: "not-applicable",
+  createdAt: "2026-09-03T16:09:54.616Z",
+  updatedAt: "2026-09-15T16:42:46.000Z",
 } as const satisfies RestaurantCollection

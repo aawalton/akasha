@@ -30,4 +30,6 @@ export const alanWebHandoverApp = {
       statement: "The code names the app's bundle id and no origin.",
     },
   ],
+  createdAt: "2026-09-20T01:46:30.316Z",
+  updatedAt: "2026-09-20T01:48:09.000Z",
 } as const satisfies Route

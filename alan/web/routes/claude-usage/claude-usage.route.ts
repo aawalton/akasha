@@ -32,4 +32,6 @@ export const claudeUsage = {
       statement: "A scale that went unread refuses rather than guessing a tier.",
     },
   ],
+  createdAt: "2026-09-05T17:46:59.797Z",
+  updatedAt: "2026-09-25T16:55:13.000Z",
 } as const satisfies Route

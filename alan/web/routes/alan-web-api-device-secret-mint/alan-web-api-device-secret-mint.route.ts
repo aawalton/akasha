@@ -21,4 +21,6 @@ export const alanWebApiDeviceSecretMint = {
       statement: "Reaching the store is written to standard error too.",
     },
   ],
+  createdAt: "2026-09-09T22:07:26.072Z",
+  updatedAt: "2026-09-22T10:06:01.000Z",
 } as const satisfies Route

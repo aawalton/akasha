@@ -19,4 +19,6 @@ export const taylorSwift2TheManLiveFromParis = {
     },
   ],
   title: "The Man (Live From Paris)",
+  createdAt: "2026-09-03T13:17:30.285Z",
+  updatedAt: "2026-09-23T14:01:20.000Z",
 } as const satisfies Release

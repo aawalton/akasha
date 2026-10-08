@@ -17,4 +17,6 @@ export const atlasPageListing = {
       statement: "A slug reaching no page type is answered 404.",
     },
   ],
+  createdAt: "2026-09-09T22:14:23.216Z",
+  updatedAt: "2026-09-22T00:41:39.000Z",
 } as const satisfies Route

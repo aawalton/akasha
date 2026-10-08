@@ -39,4 +39,6 @@ export const archiveOfWorldsWeb = {
       statement: "The four answers a browser asks for about pages come from web-page-answers.",
     },
   ],
+  createdAt: "2026-09-03T04:23:43.671Z",
+  updatedAt: "2026-09-25T16:39:38.000Z",
 } as const satisfies RouterApp

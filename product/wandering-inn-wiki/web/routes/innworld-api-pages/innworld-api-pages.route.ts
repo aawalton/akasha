@@ -7,4 +7,6 @@ export const innworldApiPages = {
   definition: "the pages of a page type the visitor may read, as rows",
   code: "ts",
   urlPath: "api/pages/:pageTypeSlug",
+  createdAt: "2026-09-21T22:00:47.092Z",
+  updatedAt: "2026-09-22T10:09:59.000Z",
 } as const satisfies Route

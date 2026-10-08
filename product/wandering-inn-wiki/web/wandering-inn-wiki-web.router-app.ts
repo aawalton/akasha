@@ -67,4 +67,6 @@ export const wanderingInnWikiWeb = {
       statement: "This site is not editing, so nothing it draws offers a way to write a page.",
     },
   ],
+  createdAt: "2026-09-21T21:42:52.923Z",
+  updatedAt: "2026-09-27T11:48:23.000Z",
 } as const satisfies RouterApp

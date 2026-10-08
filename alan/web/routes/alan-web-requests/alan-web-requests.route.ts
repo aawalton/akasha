@@ -21,4 +21,6 @@ export const alanWebRequests = {
       statement: "The move is answered as permanent, the page having gone for good.",
     },
   ],
+  createdAt: "2026-09-21T16:07:23.995Z",
+  updatedAt: "2026-09-21T23:47:13.000Z",
 } as const satisfies Route

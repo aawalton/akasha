@@ -19,4 +19,6 @@ export const weirdAlYankovic2MandatoryFun = {
       externalLink: "https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.276Z",
+  updatedAt: "2026-09-15T16:40:16.000Z",
 } as const satisfies Release

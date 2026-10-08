@@ -25,4 +25,6 @@ export const watcher = {
       statement: "No last contact is read off a character page or the account page.",
     },
   ],
+  createdAt: "2026-09-08T21:56:22.399Z",
+  updatedAt: "2026-09-27T12:24:49.000Z",
 } as const satisfies Route

@@ -29,4 +29,6 @@ export const alanWebApiHandoverExchange = {
       statement: "Anything other than a POST is answered 405.",
     },
   ],
+  createdAt: "2026-09-20T01:46:45.933Z",
+  updatedAt: "2026-09-20T01:48:09.000Z",
 } as const satisfies Route

@@ -8,4 +8,6 @@ export const addonBundleVersion = {
   code: "ts",
   test: "ts",
   urlPath: "api/addons/version",
+  createdAt: "2026-09-05T18:43:19.639Z",
+  updatedAt: "2026-09-22T13:43:34.000Z",
 } as const satisfies Route

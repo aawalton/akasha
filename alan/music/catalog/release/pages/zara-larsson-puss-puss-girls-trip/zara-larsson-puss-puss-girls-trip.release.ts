@@ -20,4 +20,6 @@ export const zaraLarssonPussPussGirlsTrip = {
     },
   ],
   title: "Puss Puss (Girls Trip)",
+  createdAt: "2026-09-16T13:50:57.654Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

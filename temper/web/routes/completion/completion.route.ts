@@ -13,4 +13,6 @@ export const completion = {
       statement: "The document title is read from this route's web phrase page.",
     },
   ],
+  createdAt: "2026-09-08T21:51:29.413Z",
+  updatedAt: "2026-09-27T11:32:53.000Z",
 } as const satisfies Route

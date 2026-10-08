@@ -21,4 +21,6 @@ export const alanWebApiNarrationReport = {
       statement: "A report names its event and holds only short plain values.",
     },
   ],
+  createdAt: "2026-10-07T01:25:57.241Z",
+  updatedAt: "2026-10-07T01:26:03.000Z",
 } as const satisfies Route

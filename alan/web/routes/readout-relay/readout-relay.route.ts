@@ -49,4 +49,6 @@ export const readoutRelay = {
       statement: "Nothing between the carrier and this route keeps an answer.",
     },
   ],
+  createdAt: "2026-09-08T18:55:32.305Z",
+  updatedAt: "2026-09-15T18:34:05.000Z",
 } as const satisfies Route

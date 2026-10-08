@@ -13,4 +13,6 @@ export const atlasApiPageWrite = {
       statement: "This route's action is the only thing this route's code exports.",
     },
   ],
+  createdAt: "2026-09-09T22:10:17.803Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Route

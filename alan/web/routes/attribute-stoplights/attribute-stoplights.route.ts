@@ -22,4 +22,6 @@ export const attributeStoplights = {
       statement: "The tile shipped against this reads that key as text that is always there.",
     },
   ],
+  createdAt: "2026-09-03T17:37:08.858Z",
+  updatedAt: "2026-09-25T16:37:06.000Z",
 } as const satisfies Route

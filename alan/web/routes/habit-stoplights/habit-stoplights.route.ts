@@ -62,4 +62,6 @@ export const habitStoplights = {
       statement: "The widget reads a 503 as no signal.",
     },
   ],
+  createdAt: "2026-09-08T18:25:00.749Z",
+  updatedAt: "2026-09-25T16:52:49.000Z",
 } as const satisfies Route

@@ -20,4 +20,6 @@ export const thePianoGuysSerenity = {
     },
   ],
   title: "Serenity",
+  createdAt: "2026-09-17T13:50:26.851Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

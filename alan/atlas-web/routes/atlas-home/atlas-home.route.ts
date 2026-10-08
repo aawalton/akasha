@@ -6,4 +6,6 @@ export const atlasHome = {
   slug: "atlas-home",
   definition: "the front of the map site",
   code: "tsx",
+  createdAt: "2026-09-09T22:11:50.304Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

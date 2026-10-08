@@ -175,4 +175,6 @@ export const writer = {
       ],
     },
   ],
+  createdAt: "2026-09-26T17:21:24.281Z",
+  updatedAt: "2026-10-07T00:38:01.000Z",
 } as const satisfies Role

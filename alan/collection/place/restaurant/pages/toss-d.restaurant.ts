@@ -12,4 +12,6 @@ export const tossD = {
   unit: "unit/words",
   status: "not-started",
   grade: "B",
+  createdAt: "2026-09-03T16:09:51.596Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Restaurant

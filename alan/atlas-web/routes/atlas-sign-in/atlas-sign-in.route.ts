@@ -17,4 +17,6 @@ export const atlasSignIn = {
       statement: "A reader asking for a page is brought back to that page after signing in.",
     },
   ],
+  createdAt: "2026-09-09T22:11:30.594Z",
+  updatedAt: "2026-09-19T20:40:08.000Z",
 } as const satisfies Route

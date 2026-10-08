@@ -65,4 +65,6 @@ export const jennyCost = {
       statement: "The cost this route's tests read is a fixture rather than the cost Alan is at.",
     },
   ],
+  createdAt: "2026-09-10T14:21:43.135Z",
+  updatedAt: "2026-09-22T13:48:49.000Z",
 } as const satisfies Route

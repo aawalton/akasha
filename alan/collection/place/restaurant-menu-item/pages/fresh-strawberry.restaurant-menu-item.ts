@@ -11,4 +11,6 @@ export const freshStrawberry = {
   ownProgress: 0,
   unit: "unit/words",
   status: "in-progress",
+  createdAt: "2026-09-03T16:09:56.837Z",
+  updatedAt: "2026-09-15T16:43:13.000Z",
 } as const satisfies RestaurantMenuItem

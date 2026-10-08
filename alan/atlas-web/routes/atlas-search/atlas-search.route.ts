@@ -22,4 +22,6 @@ export const atlasSearch = {
         "The screen's title and wording are read live from its site document and web phrases.",
     },
   ],
+  createdAt: "2026-09-09T22:17:07.366Z",
+  updatedAt: "2026-09-27T12:29:36.000Z",
 } as const satisfies Route

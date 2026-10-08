@@ -7,4 +7,6 @@ export const jennyApiLiveVersion = {
   definition: "the running app's build",
   code: "ts",
   urlPath: "api/live-version",
+  createdAt: "2026-09-09T21:43:55.534Z",
+  updatedAt: "2026-09-22T14:00:26.000Z",
 } as const satisfies Route

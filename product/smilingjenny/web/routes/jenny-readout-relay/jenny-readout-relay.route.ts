@@ -7,4 +7,6 @@ export const jennyReadoutRelay = {
   definition: "the reading a workstation carries into Jenny's site",
   code: "ts",
   urlPath: "api/readout-relay",
+  createdAt: "2026-09-08T18:56:56.397Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

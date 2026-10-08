@@ -18,4 +18,6 @@ export const apiAsk = {
         "React Router strips only `loader` and `action` and `middleware` and `headers` from the browser.",
     },
   ],
+  createdAt: "2026-09-08T20:05:38.980Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Route

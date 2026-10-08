@@ -7,4 +7,6 @@ export const jennyApiPageFollow = {
   definition: "the pages and lists a browser's stream follows",
   code: "ts",
   urlPath: "api/page-follow",
+  createdAt: "2026-09-24T22:26:01.393Z",
+  updatedAt: "2026-09-24T22:26:31.000Z",
 } as const satisfies Route

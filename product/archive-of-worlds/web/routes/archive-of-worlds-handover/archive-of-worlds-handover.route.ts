@@ -18,4 +18,6 @@ export const archiveOfWorldsHandover = {
         "This route is reached without a session, because the code is what signs a reader in.",
     },
   ],
+  createdAt: "2026-09-19T21:28:52.970Z",
+  updatedAt: "2026-09-19T21:31:00.000Z",
 } as const satisfies Route

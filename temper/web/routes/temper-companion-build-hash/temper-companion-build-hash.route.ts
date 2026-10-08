@@ -7,4 +7,6 @@ export const temperCompanionBuildHash = {
   definition: "the companion build a shared hash carries",
   code: "ts",
   urlPath: "companion-build/h/:hash",
+  createdAt: "2026-09-08T20:00:21.067Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

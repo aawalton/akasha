@@ -7,4 +7,6 @@ export const alanWebDesign = {
   definition: "the design system drawn for a reader",
   code: "tsx",
   urlPath: "design",
+  createdAt: "2026-09-09T21:58:12.812Z",
+  updatedAt: "2026-09-22T13:48:01.000Z",
 } as const satisfies Route

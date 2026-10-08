@@ -19,4 +19,6 @@ export const thePianoGuys3Unstoppable = {
       externalLink: "https://open.spotify.com/album/5c64PoL4sf6fNsiwzsiDwK",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.287Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

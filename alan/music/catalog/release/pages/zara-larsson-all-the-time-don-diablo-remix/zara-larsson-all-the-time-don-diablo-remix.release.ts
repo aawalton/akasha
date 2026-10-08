@@ -20,4 +20,6 @@ export const zaraLarssonAllTheTimeDonDiabloRemix = {
     },
   ],
   title: "All the Time (Don Diablo Remix)",
+  createdAt: "2026-09-03T13:17:30.262Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

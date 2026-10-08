@@ -6,4 +6,6 @@ export const worker = {
   slug: "worker",
   definition: "an agent that does the work sent to its seat",
   onCall: false,
+  createdAt: "2026-08-30T17:44:10.797Z",
+  updatedAt: "2026-09-25T18:04:09.000Z",
 } as const satisfies Role

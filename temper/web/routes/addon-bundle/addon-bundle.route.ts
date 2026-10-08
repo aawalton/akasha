@@ -8,4 +8,6 @@ export const addonBundle = {
   code: "ts",
   test: "ts",
   urlPath: "api/addons/download",
+  createdAt: "2026-09-05T18:43:19.638Z",
+  updatedAt: "2026-09-15T16:44:30.000Z",
 } as const satisfies Route

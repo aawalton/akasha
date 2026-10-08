@@ -52,4 +52,6 @@ export const alanWebPageDetail = {
         "The reads the loader carried are handed to the page store before it asks for them.",
     },
   ],
+  createdAt: "2026-09-09T22:04:04.594Z",
+  updatedAt: "2026-09-28T23:08:46.000Z",
 } as const satisfies Route

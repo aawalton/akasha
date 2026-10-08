@@ -8,4 +8,6 @@ export const actionBar = {
   code: "ts",
   test: "ts",
   urlPath: "api/action-bar",
+  createdAt: "2026-09-24T17:47:18.496Z",
+  updatedAt: "2026-09-26T17:42:15.000Z",
 } as const satisfies Route

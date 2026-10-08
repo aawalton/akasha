@@ -17,4 +17,6 @@ export const alanWebSignOut = {
       statement: "A sign-out asked for by other means sends the reader to the sign-in.",
     },
   ],
+  createdAt: "2026-09-09T21:57:26.181Z",
+  updatedAt: "2026-09-20T23:57:51.000Z",
 } as const satisfies Route

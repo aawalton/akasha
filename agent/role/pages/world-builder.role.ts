@@ -93,4 +93,6 @@ export const worldBuilder = {
       aids: ["Yes runs `akasha story tell` before the answer is sent."],
     },
   ],
+  createdAt: "2026-09-24T17:35:31.527Z",
+  updatedAt: "2026-10-04T09:23:17.000Z",
 } as const satisfies Role

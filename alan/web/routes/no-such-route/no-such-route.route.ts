@@ -45,4 +45,6 @@ export const noSuchRoute = {
         "The tests resolve a path against the real route table rather than naming a module.",
     },
   ],
+  createdAt: "2026-09-05T18:38:55.624Z",
+  updatedAt: "2026-09-22T14:00:01.000Z",
 } as const satisfies Route

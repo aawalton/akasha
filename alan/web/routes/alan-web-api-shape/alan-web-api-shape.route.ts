@@ -17,4 +17,6 @@ export const alanWebApiShape = {
       statement: "The screens any page falls back to read a page type's shape through this route.",
     },
   ],
+  createdAt: "2026-09-27T06:10:21.347Z",
+  updatedAt: "2026-09-27T06:10:35.000Z",
 } as const satisfies Route

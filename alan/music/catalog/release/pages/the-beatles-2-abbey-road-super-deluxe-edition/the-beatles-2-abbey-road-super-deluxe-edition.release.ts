@@ -19,4 +19,6 @@ export const theBeatles2AbbeyRoadSuperDeluxeEdition = {
       externalLink: "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.261Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

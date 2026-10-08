@@ -19,4 +19,6 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthology = {
     },
   ],
   title: "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+  createdAt: "2026-09-03T13:17:30.286Z",
+  updatedAt: "2026-09-23T14:01:20.000Z",
 } as const satisfies Release

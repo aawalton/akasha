@@ -7,4 +7,6 @@ export const requestsSignUp = {
   definition: "the redirect from signing up to signing in",
   code: "tsx",
   urlPath: "sign-up",
+  createdAt: "2026-09-21T18:25:59.046Z",
+  updatedAt: "2026-09-21T18:37:14.000Z",
 } as const satisfies Route

@@ -30,4 +30,6 @@ export const alanWebApiSeatVoice = {
       statement: "The voice is read off the seat's persona page whenever a token is made.",
     },
   ],
+  createdAt: "2026-10-08T11:10:56.603Z",
+  updatedAt: "2026-10-08T11:53:13.000Z",
 } as const satisfies Route

@@ -19,4 +19,6 @@ export const theBeatles2MagicalMysteryTourRemastered = {
       externalLink: "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.276Z",
+  updatedAt: "2026-09-15T16:39:47.000Z",
 } as const satisfies Release

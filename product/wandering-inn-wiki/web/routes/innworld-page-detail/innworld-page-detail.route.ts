@@ -7,4 +7,6 @@ export const innworldPageDetail = {
   definition: "a page of the world, drawn with its properties",
   code: "tsx",
   urlPath: ":pageTypeSlug/:pageHrefParam",
+  createdAt: "2026-09-21T22:00:41.230Z",
+  updatedAt: "2026-09-22T10:07:59.000Z",
 } as const satisfies Route
