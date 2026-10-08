@@ -13,6 +13,10 @@ export function jobNameFor(subject: string, commit: string): string {
   return `${deploy.name}-${subject}-${commit.slice(0, NAMED)}`
 }
 
+export function jobsOf(subject: string): RegExp {
+  return new RegExp(`^${deploy.name}-${subject}-[0-9a-f]{${NAMED}}$`)
+}
+
 export function scriptFor(
   given: string | Reading,
   subject: string,

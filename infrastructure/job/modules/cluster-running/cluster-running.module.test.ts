@@ -4,7 +4,9 @@ import { ci } from "akasha/infrastructure/container-image/dockerfile/built-image
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import {
+  activeArgv,
   applyArgv,
+  besideEnded,
   carriedAt,
   checkedOut,
   endedBy,
@@ -281,6 +283,41 @@ test("a job the cluster would not take refuses the run by name", async () => {
   }
   expect(said.why).toContain(NAME)
   expect(said.why).toContain("nope")
+})
+
+const BESIDE = /^held-job-[0-9a-f]{12}$/
+
+const OTHER = "held-job-fedcba987654"
+
+function listing(active: string): (argv: readonly string[]) => ReturnType<typeof ranOf> {
+  return (argv) => {
+    if (argv[0] === "get") return ranOf(0, active)
+    return ranOf(argv.includes("--for=condition=Failed") ? 1 : 0)
+  }
+}
+
+test("a job running beside one is waited on to its end before that one goes up", async () => {
+  const held = capturing(listing(`${OTHER}\nunrelated-job\n`))
+  await jobRan(ROOT, COMMIT, NAME, YAML, 1, held.running, carried, pushed, BESIDE)
+  const verbs = held.seen.map((one) => one[0])
+  expect(verbs).toEqual(["get", "wait", "apply", "wait", "logs"])
+  expect(held.seen[1]).toContain(`job/${OTHER}`)
+})
+
+test("a job is never waited on beside itself, nor beside a job of another name", async () => {
+  const held = capturing(listing(`${NAME}\nunrelated-job\n`))
+  expect(await besideEnded(held.running, NAME, BESIDE, 1)).toEqual([])
+  expect(held.seen.length).toBe(1)
+})
+
+test("a job naming none to wait beside asks the cluster for no other job", async () => {
+  const held = capturing()
+  await jobRan(ROOT, COMMIT, NAME, YAML, 1, held.running, carried, pushed)
+  expect(held.seen.some((one) => one[0] === "get")).toBe(false)
+})
+
+test("the jobs beside are the ones the cluster says are running", () => {
+  expect(activeArgv().join(" ")).toContain("@.status.active")
 })
 
 test("a commit that reaches origin nowhere puts no job up", async () => {

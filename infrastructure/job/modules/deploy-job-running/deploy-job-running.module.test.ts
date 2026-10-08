@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import { COMMIT } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.test-fixtures.ts"
-import { jobNameFor } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
+import {
+  jobNameFor,
+  jobsOf,
+} from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
 import {
   type Putting,
   type Recalling,
@@ -36,6 +39,20 @@ test("a job is put up from the manifest composed for that subject and commit", a
   const name = jobNameFor(SUBJECT, COMMIT)
   expect(held.put.map((one) => [one.commit, one.name])).toEqual([[COMMIT, name]])
   expect(held.put[0]?.yaml).toContain(name)
+})
+
+test("a deploy's job waits beside every running job deploying the same subject", async () => {
+  const beside: RegExp[] = []
+  await ranInCluster(ROOT, ROOT, SUBJECT, COMMIT, neverDeployed, async (...given) => {
+    beside.push(given[4])
+    return { said: [] }
+  })
+  expect(beside).toEqual([jobsOf(SUBJECT)])
+})
+
+test("a subject's jobs are its own at any commit and never another subject's", () => {
+  expect(jobsOf("alanwalton").test(jobNameFor("alanwalton", WAS))).toBe(true)
+  expect(jobsOf("alanwalton").test(jobNameFor("alanwalton-web", COMMIT))).toBe(false)
 })
 
 test("the commit the subject was last deployed at reaches the job", async () => {

@@ -48,6 +48,15 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A job its caller says may not run beside others waits for each running one to end first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The jobs running are the ones the cluster says are active.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The run waits for the job to end rather than answering while it runs.",
     },
     {
@@ -309,4 +318,5 @@ export const clusterRunning = {
       statement: "A tree naming no commit of its own asks for every commit, however much it holds.",
     },
   ],
+  updatedAt: "2026-10-08T15:37:49.683Z",
 } as const satisfies Module

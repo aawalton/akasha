@@ -18,6 +18,10 @@ export const deployJobRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A deploy's job goes up only once no other job deploying its subject is running.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What puts the job up is handed in, so a test reaches no cluster and no secret.",
     },
     {
@@ -37,4 +41,5 @@ export const deployJobRunning = {
       statement: "The commit the subject was last deployed at is read before the job is composed.",
     },
   ],
+  updatedAt: "2026-10-08T15:37:49.683Z",
 } as const satisfies Module

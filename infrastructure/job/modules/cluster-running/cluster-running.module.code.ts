@@ -270,6 +270,27 @@ export function logsArgv(name: string): readonly string[] {
   return ["logs", "-n", JOB_NAMESPACE, `job/${name}`, EVERY_LINE]
 }
 
+const ACTIVE_NAMES = 'jsonpath={range .items[?(@.status.active)]}{.metadata.name}{"\\n"}{end}'
+
+export function activeArgv(): readonly string[] {
+  return ["get", "jobs", "-n", JOB_NAMESPACE, "-o", ACTIVE_NAMES]
+}
+
+export async function besideEnded(
+  running: Running,
+  name: string,
+  beside: RegExp,
+  rounds: number
+): Promise<readonly string[]> {
+  const listed = await running(activeArgv(), null)
+  const others = listed.stdout
+    .split("\n")
+    .map((one) => one.trim())
+    .filter((one) => one !== "" && one !== name && beside.test(one))
+  for (const other of others) await fateOf(running, other, rounds)
+  return others
+}
+
 const ranBy: Running = async (argv, text) =>
   text === null ? await runKubectlAwaited(argv) : await runKubectlOnAwaited(argv, text)
 
@@ -324,10 +345,12 @@ export async function jobRan(
   rounds: number = WAITED_ROUNDS,
   running: Running = ranBy,
   carrying: Carrying = carriedByOrigin,
-  pushing: Pushing = pushBranch
+  pushing: Pushing = pushBranch,
+  beside: RegExp | null = null
 ): Promise<Ended> {
   const why = carriedAt(root, commit, carrying, pushing)
   if (why !== null) return { why }
+  if (beside !== null) await besideEnded(running, name, beside, rounds)
   const unbuilt = await imageHeldFor(yaml, root)
   if (unbuilt !== null) return { why: unbuilt }
   const placing = placeSecrets(root, planFor(name, yaml))
