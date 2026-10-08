@@ -42,7 +42,7 @@ const DAY: Today = {
   day: "2026-10-08",
   weekday: "thursday",
   focus: "push",
-  target: 3020.4,
+  limit: 3020.4,
   lifted: 1279.6,
   sets: [SET],
 }
@@ -81,10 +81,10 @@ test("a timed warmup set says its length and that it warmed", () => {
   expect(setSaid(held)).toBe("  Plank — 45 s, warmup")
 })
 
-test("the answer says the day's focus, the pounds moved against the target, and the sets", () => {
+test("the answer says the day's focus, the pounds moved against the limit, and the sets", () => {
   expect(saidOf(DAY)).toEqual([
     "2026-10-08, thursday — push",
-    "1280 lb moved of a 3020 lb target",
+    "1280 lb moved of a 3020 lb limit",
     "sets logged today",
     "  Dumbbell Bench Press — 40 lb × 16, RPE 8",
   ])
@@ -93,7 +93,7 @@ test("the answer says the day's focus, the pounds moved against the target, and 
 test("a day no schedule names and no set logged are both said", () => {
   expect(saidOf({ ...DAY, focus: null, sets: [] })).toEqual([
     "2026-10-08, a day no schedule names a focus for",
-    "1280 lb moved of a 3020 lb target",
+    "1280 lb moved of a 3020 lb limit",
     "no set is logged today",
   ])
 })

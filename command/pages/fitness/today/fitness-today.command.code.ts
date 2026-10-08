@@ -53,7 +53,7 @@ export type Today = {
   readonly day: string
   readonly weekday: string | null
   readonly focus: string | null
-  readonly target: number
+  readonly limit: number
   readonly lifted: number
   readonly sets: readonly Logged[]
 }
@@ -103,7 +103,7 @@ export function focusSaid(today: Today): string {
 export function saidOf(today: Today): readonly string[] {
   return [
     focusSaid(today),
-    `${String(Math.round(today.lifted))} lb moved of a ${String(Math.round(today.target))} lb target`,
+    `${String(Math.round(today.lifted))} lb moved of a ${String(Math.round(today.limit))} lb limit`,
     ...(today.sets.length === 0
       ? ["no set is logged today"]
       : ["sets logged today", ...today.sets.map(setSaid)]),
@@ -122,7 +122,7 @@ function todayOf(root: string, now: Date): Today {
         )
   const week = weekIn(root, day, selectionPolicy.nearFailureRpeFloor)
   const moved = liftedOn(week.sets, week.movements, alan.bodyweight)
-  const target = limitOn(
+  const limit = limitOn(
     moved,
     {
       seed: selectionPolicy.volumeLimitSeed,
@@ -136,7 +136,7 @@ function todayOf(root: string, now: Date): Today {
     day,
     weekday,
     focus,
-    target,
+    limit,
     lifted: moved.get(day) ?? 0,
     sets: loggedOn(week.sets, week.movements, day),
   }
