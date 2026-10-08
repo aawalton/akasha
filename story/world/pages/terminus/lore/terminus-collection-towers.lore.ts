@@ -9,7 +9,51 @@ export const terminusCollectionTowers = {
   about: "world/terminus",
   facts: [
     {
-      fact: "There are 9,227,465 collection towers, which is d(34), written ((((....)))).",
+      fact: "The collection towers form three tiers: central, regional and local.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each tier of towers is a subset of the tier below it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Every central tower is also a regional tower, and every regional tower is also a local one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "There are 9,227,465 central towers, which is d(d(8)) = d(34), written ((((....)))).",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "There are 225,851,433,717 regional towers, which is d(d(9)) = d(55), written ((((....)).)).",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "There are 2,880,067,194,370,816,120 local towers, which is d(d(10)) = d(89), written ((((....))..)).",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Central towers are about 72 million km apart, each with about 9 million Earths of land.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Regional towers are about 460,000 km apart, each with about 365 Earths of land.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Local towers are about 130 km apart, each with about 15,000 square km of land.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "There are φ^21, about 24,476, regional towers for each central tower.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "There are φ^34, about 12.75 million, local towers for each regional tower.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A massive civilization usually lives its whole lifecycle inside a single tower's territory.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -90,5 +134,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T19:40:15.016Z",
+  updatedAt: "2026-10-08T19:44:38.518Z",
 } as const satisfies Lore
