@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { join } from "node:path"
 import {
   addPageInstants,
   lastCommitted,
@@ -117,7 +118,14 @@ test("the last commit naming a path is the moment that path last changed", () =>
     gitIn(root, ["add", "--", at])
     gitIn(root, ["commit", "--quiet", "-m", note, "--", at])
   }
-  const found = lastCommitted(root)(["one.ts", "two.ts"])
+  const found = lastCommitted(root, join(root, "none.tsv"))(["one.ts", "two.ts"])
   expect([...found.keys()].sort()).toEqual(["one.ts", "two.ts"])
   expect(found.get("one.ts") ?? 0).toBeGreaterThanOrEqual(found.get("two.ts") ?? 0)
+})
+
+test("a map of last commits written once is read rather than git", () => {
+  const root = scratch.rootFor("add-page-instants-kept-")
+  put(root, "kept.tsv", `one.ts\t${STATED}\n`)
+  const found = lastCommitted(root, join(root, "kept.tsv"))(["one.ts", "two.ts"])
+  expect([...found]).toEqual([["one.ts", Date.parse(STATED)]])
 })

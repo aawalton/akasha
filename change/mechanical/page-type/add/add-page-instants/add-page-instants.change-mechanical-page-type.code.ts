@@ -1,4 +1,5 @@
-import { existsSync, readFileSync } from "node:fs"
+import { existsSync, readFileSync, statSync } from "node:fs"
+import { join } from "node:path"
 import {
   refusing,
   type Said,
@@ -9,6 +10,7 @@ import {
   type Page,
 } from "akasha/change/modules/page-property-splicing/page-property-splicing.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { CEILING } from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { momentOfVersionSeven } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 
@@ -29,6 +31,13 @@ const KEPT_AT = "/var/tmp/akasha-last-committed.tsv"
 
 type Lacking = { readonly path: string; readonly id: unknown; readonly keys: readonly string[] }
 
+const LINE_BYTES = 41
+
+function overIf(root: string, path: string, lines: number): boolean {
+  const held = statSync(join(root, path), { throwIfNoEntry: false })?.size ?? 0
+  return held + lines * LINE_BYTES > CEILING
+}
+
 export function lackingIn(world: World, given: Asked): readonly Lacking[] | string {
   const kinds = world.index.kindsUnder(given.pageType)
   if (kinds.size === 0) return `\`${given.pageType}\` names no page type`
@@ -41,7 +50,9 @@ export function lackingIn(world: World, given: Asked): readonly Lacking[] | stri
       if (seen.has(path)) continue
       seen.add(path)
       const keys = [CREATED_AT, UPDATED_AT].filter((key) => value[key] === undefined)
-      if (keys.length > 0) found.push({ path, id: value.id, keys })
+      if (keys.length > 0 && !overIf(world.root, path, keys.length)) {
+        found.push({ path, id: value.id, keys })
+      }
     }
   }
   return found
@@ -68,8 +79,8 @@ function fromKept(kept: ReadonlyMap<string, number>): LastChanged {
   }
 }
 
-export function lastCommitted(root: string): LastChanged {
-  const kept = keptIn(KEPT_AT)
+export function lastCommitted(root: string, keptAt = KEPT_AT): LastChanged {
+  const kept = keptIn(keptAt)
   if (kept !== null) return fromKept(kept)
   return (paths) => {
     const found = new Map<string, number>()

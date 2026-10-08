@@ -32,6 +32,10 @@ export const addPageInstants = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page the instants would push over the file ceiling is passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The instant a page was created is the moment its id was worked out.",
     },
     {
@@ -61,5 +65,5 @@ export const addPageInstants = {
   ],
   changeKind: "change-kind/change-mechanical",
   createdAt: "2026-10-08T15:02:56.191Z",
-  updatedAt: "2026-10-08T15:54:47.827Z",
+  updatedAt: "2026-10-08T16:00:20.562Z",
 } as const satisfies ChangeMechanicalPageType
