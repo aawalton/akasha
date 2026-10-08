@@ -11,6 +11,4 @@ export const abby = {
   startMode: "seat-mode/interactive",
   onCall: false,
   registrationAccount: "model-account/aawalton",
-  createdAt: "2026-10-08T15:20:27.707Z",
-  updatedAt: "2026-10-08T15:20:27.707Z",
 } as const satisfies Seat
