@@ -2,5 +2,6 @@
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/alan-af7dbf5fedbe66504/alan-af7dbf5fedbe66504.subagent.ts","id":"01a11c30-dd25-7efd-84f6-fd9f86660963"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/sophia-a1606ed4c5a9a850b/sophia-a1606ed4c5a9a850b.subagent.ts","id":"01a11c32-b077-7c83-a9c4-ddf370561f1c"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/sophia-a4289bfc661188caf/sophia-a4289bfc661188caf.subagent.ts","id":"01a11c31-c1bf-7bec-b19b-4e34f1b50efd"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/sophia-a8c2804dfb7953555/sophia-a8c2804dfb7953555.subagent.ts","id":"01a11c32-9451-7c69-87c8-4d2d914e1bda"}
