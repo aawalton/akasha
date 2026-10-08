@@ -35,7 +35,12 @@ export const questPortReading = {
       statement:
         "A quest the game calls assisted neither way is left out of the task list's lines.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each task list reading shows every row its last redraw kept, with each label's text and color.",
+    },
   ],
   createdAt: "2026-10-08T17:09:47.146Z",
-  updatedAt: "2026-10-08T17:16:20.122Z",
+  updatedAt: "2026-10-08T17:32:18.136Z",
 } as const satisfies Module

@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   assistMoveLines,
   capturesIn,
+  drawnLines,
   journalLines,
   pressLines,
   QUEST_PORT_SAVED_VARIABLES,
@@ -185,6 +186,40 @@ describe("quest-port-reading", () => {
     )
     expect(lines[5]).toContain('2: "Focused Quest" assisted with 0=false with nil=true')
     expect(lines[6]).toBe("    later: not read")
+  })
+
+  test("what the task list drew is read back row by row", () => {
+    const lines = drawnLines({
+      exit: "completed",
+      window: {
+        name: "TemperTaskHUD_v2",
+        hidden: false,
+        controlHidden: false,
+        alpha: 1,
+        left: 10,
+        top: 20,
+        width: 300,
+        height: 90,
+      },
+      contentHidden: false,
+      contentChildren: 12,
+      emptyHidden: true,
+      fragmentShowing: true,
+      named: [{ name: "TemperTaskHUD", exists: false }],
+      rows: [
+        {
+          name: "",
+          hidden: false,
+          controlHidden: false,
+          offsetY: 30,
+          labels: [{ text: "Focused Quest", r: 1, g: 0.8, b: 0, a: 1 }],
+        },
+      ],
+    })
+    expect(lines[0]).toContain('exit=completed window "TemperTaskHUD_v2"')
+    expect(lines[0]).toContain("content-children=12 empty-hidden fragment-showing=true")
+    expect(lines[1]).toContain('named "TemperTaskHUD" absent')
+    expect(lines[2]).toBe('          row "" y=30: "Focused Quest" rgba(1.00,0.80,0.00,1.00)')
   })
 
   test("a table with no capture reads as nothing captured", () => {
