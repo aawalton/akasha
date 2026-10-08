@@ -9,7 +9,8 @@ export const echo = {
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "f8d5910f-aaf3-4ce2-8079-db8a4c1b9f4d",
+  updatedAt: "2026-10-08T15:37:45.392Z",
 } as const satisfies Seat
