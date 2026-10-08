@@ -36,6 +36,7 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
@@ -297,7 +298,8 @@ async function logged(read: Logged, given: Given, kept: Kept): Promise<Answer> {
         kept.done
       )
       cover = namedAs(IMAGE_PAGE_TYPE_SLUG, picture.slug, null)
-      const patched = await landFoodEntry(root, slug, { ...values, cover })
+      const entry = valueAt(landed.at, root) ?? {}
+      const patched = await landFoodEntry(root, slug, { ...entry, ...values, cover })
       if (!patched.ok) throw new Error(patched.why)
       kept.done.push(`wrote that cover onto ${slug}`)
     } catch (thrown) {
