@@ -180,10 +180,7 @@ export const landing = {
       decisionKind: "decision-kind/departure",
       statement: "A landing is finished after the hold is let go rather than inside it.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A change that commits nothing is finished all the same.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A landing that throws is finished by nothing.",
@@ -417,4 +414,5 @@ export const landing = {
         "Those answers are named on the change as the files carried beside the ones judged.",
     },
   ],
+  updatedAt: "2026-10-08T16:31:45.789Z",
 } as const satisfies Module
