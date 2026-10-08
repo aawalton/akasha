@@ -238,6 +238,8 @@ const SLUG = "slug"
 
 const ENDING = ".jsonl"
 
+const INSTANT = "2026-10-08T00:00:00.000Z"
+
 function listing(kind: string, slug: string, path: string, id: string): readonly [string, string] {
   const at = `${join(indexNamed(), filedAt(PAGE_TYPE, kind, SLUG, slug))}${ENDING}`
   return [at, `${JSON.stringify({ path, id })}\n`]
@@ -252,6 +254,8 @@ function serviceFiles(slug: string, id: string): ReadonlyMap<string, string> {
     `  slug: "${slug}",\n` +
     `  definition: "a service one commit holds",\n` +
     "  enabled: true,\n" +
+    `  createdAt: "${INSTANT}",\n` +
+    `  updatedAt: "${INSTANT}",\n` +
     "} as const\n"
   return new Map([listing(WORKSTATION_SERVICE, slug, path, id), [path, body]])
 }
