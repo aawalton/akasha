@@ -10,8 +10,8 @@ export const selectionPolicy = {
   stretchesCoolingDown: 3,
   secondsHoldingStretch: 45,
   volumeLimitSeed: 3000,
-  volumeTargetRise: 20,
+  volumeLimitRise: 20,
   volumeTargetFall: 100,
   volumeTargetFrom: "2026-09-21",
-  updatedAt: "2026-10-08T15:25:02.755Z",
+  updatedAt: "2026-10-08T15:25:33.191Z",
 } as const satisfies SelectionPolicy

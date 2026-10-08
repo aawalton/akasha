@@ -127,7 +127,7 @@ function todayOf(root: string, now: Date): Today {
     {
       seed: selectionPolicy.volumeLimitSeed,
       from: selectionPolicy.volumeTargetFrom,
-      rise: selectionPolicy.volumeTargetRise,
+      rise: selectionPolicy.volumeLimitRise,
       fall: selectionPolicy.volumeTargetFall,
     },
     day
