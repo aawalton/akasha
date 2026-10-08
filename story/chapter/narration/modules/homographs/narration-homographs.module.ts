@@ -32,7 +32,19 @@ export const narrationHomographs = {
       decisionKind: "decision-kind/departure",
       statement: "Markup already handed on is never read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bow given, taken, returned or swept to someone is the bend.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bow held, aimed or named beside other arms is the weapon.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The bow of a ship, and a bow named port or starboard, is the bend.",
+    },
   ],
   createdAt: "2026-10-08T19:44:53.690Z",
-  updatedAt: "2026-10-08T19:44:53.690Z",
+  updatedAt: "2026-10-08T23:41:41.567Z",
 } as const satisfies Module

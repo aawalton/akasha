@@ -24,6 +24,26 @@ describe("homographsOf", () => {
     )
   })
 
+  test("a bow given, taken, returned or met as a greeting bends, as does a ship's bow", () => {
+    expect(
+      homographsOf(
+        "She gave Colfa a very proper bow. Visophecin swept the Unicorn a bow. She took a bow. The Drake returned their bows. Then he turned to bow. Venaz roared from the bow of the ship. Over the port bow, a sail."
+      )
+    ).toBe(
+      "She gave Colfa a very proper [bow](/bˈW/). Visophecin swept the Unicorn a [bow](/bˈW/). She took a [bow](/bˈW/). The Drake returned their [bows](/bˈWz/). Then he turned to [bow](/bˈW/). Venaz roared from the [bow](/bˈW/) of the ship. Over the port [bow](/bˈW/), a sail."
+    )
+  })
+
+  test("a bow held, aimed or carried beside other arms is the weapon", () => {
+    expect(
+      homographsOf(
+        "Bird waited there, bow in hand. She aimed her bow up. They swung their bows up. With sword and bow. A bow and arrows. Jerci managed to aim a bow."
+      )
+    ).toBe(
+      "Bird waited there, [bow](/bˈO/) in hand. She aimed her [bow](/bˈO/) up. They swung their [bows](/bˈOz/) up. With sword and [bow](/bˈO/). A [bow](/bˈO/) and arrows. Jerci managed to aim a bow."
+    )
+  })
+
   test("content as a feeling is stressed on its end, and content held is not", () => {
     expect(
       homographsOf("Gazi seemed content with that. She was content. The content was fine.")

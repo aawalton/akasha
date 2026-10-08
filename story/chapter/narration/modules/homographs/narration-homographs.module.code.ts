@@ -3,8 +3,18 @@ type Reading = { readonly found: RegExp; readonly said: string }
 const OWNED =
   "(?<!\\b(?:a|an|the|this|that|his|her|its|their|my|your|our|whose|any|each|every|no)\\s)(?<!['’]s\\s)"
 const BENT =
-  "deep|low|slight|polite|formal|respectful|stiff|courtly|curt|sweeping|graceful|shallow|profound|elaborate|mocking|ironic|perfunctory|exaggerated|courteous|theatrical|gracious|solemn|grave|hasty|awkward|clumsy|cursory|answering"
-const BENDING = "swept|sketched|executed|performed|did"
+  "deep|low|slight|polite|formal|respectful|stiff|courtly|curt|sweeping|graceful|shallow|profound|elaborate|mocking|ironic|perfunctory|exaggerated|courteous|theatrical|gracious|solemn|grave|hasty|awkward|clumsy|cursory|answering|elegant|proper|harried|guilty|dramatic|quick|grand|perfect|smooth|sardonic|delighted|apologetic|wary|tired|flashy|rueful|sarcastic|relieved|embarrassed|shamefaced|ostentatious|impassive|precise|covert|blushing|knightly|stylistic|flowery|pleased|courtier['’]s"
+const BENDING =
+  "swept|sweeps|sweeping|sketched|sketches|executed|executes|performed|performs|managed|did|does|doing"
+const GIVING = "gave|gives|giving|offered|offers|offering"
+const ANSWERING = "returned|returns|returning|copied|copying|accepted|repeated|mirrored|imitated"
+const TO_WHOM =
+  "(?:(?!(?:a|an|another|to|had|has|have|with|was|were|carrying|holding)\\b)[\\p{L}’'-]+\\s+){0,3}?"
+const HULLS =
+  "ship|ships|vessel|boat|galleon|frigate|warship|sloop|barge|airship|skyship|flagship|longboat|canoe|raft|schooner|carrack|caravel"
+const ARMS =
+  "swords?|spears?|wands?|spells?|daggers?|blades?|axes?|crossbows?|slings?|shields?|pikes?|javelins?|quivers?|arrows?"
+const BOW_SAID = { bent: ["bˈW", "bˈWz"], strung: ["bˈO", "bˈOz"] } as const
 const CALM =
   "was|were|is|are|am|be|been|being|seem|seems|seemed|seeming|look|looks|looked|feel|feels|felt|remain|remains|remained|stay|stays|stayed|quite|very|perfectly|so|not|too|fairly|rather|reasonably|entirely|wholly|utterly|merely|simply|almost|mostly|happily|sleepily|seemingly|apparently"
 const KEEPING =
@@ -21,6 +31,14 @@ const HELD_IN =
 const OF_METAL =
   "pipes?|weights?|shot|balls?|sheets?|lined|seals?|box|coffin|paint|poisoning|ingots?|mines?|plates?|bars?|bullets?|slugs?|pellets?"
 
+function bowsOf(before: string, after: string, sense: keyof typeof BOW_SAID): readonly Reading[] {
+  const [one, many] = BOW_SAID[sense]
+  return [
+    { found: new RegExp(`${before}\\b(bow)\\b${after}`, "giu"), said: one },
+    { found: new RegExp(`${before}\\b(bows)\\b${after}`, "giu"), said: many },
+  ]
+}
+
 const READINGS: readonly Reading[] = [
   { found: /\b(bowed)\b/giu, said: "bˈWd" },
   { found: /\b(mended)\b/giu, said: "mˈɛndᵻd" },
@@ -34,15 +52,41 @@ const READINGS: readonly Reading[] = [
       /(?<!\b(?:a|the|this|that|white|grey|gray|my|his|her|its|their|like a)\s)\b(dove)\b(?!-)/gu,
     said: "dˈOv",
   },
-  { found: new RegExp(`\\b(?:${BENT})\\s+(bow)\\b`, "giu"), said: "bˈW" },
-  { found: new RegExp(`\\b(?:${BENT})\\s+(bows)\\b`, "giu"), said: "bˈWz" },
+  ...bowsOf(`\\b(?:${BENT})\\s+`, "", "bent"),
+  { found: /\b(?:a|an)\s+small\s+(bow)\b(?!\s+and\s+arrows?)/giu, said: "bˈW" },
+  ...bowsOf(
+    `\\b(?:${BENDING})\\s+${TO_WHOM}(?:a|an|another)\\s+(?:[\\p{L}-]+\\s+){0,2}?`,
+    "(?!\\s+(?:up|down|around|aside|away|at)\\b)",
+    "bent"
+  ),
+  ...bowsOf(`\\b(?:${GIVING})\\s+${TO_WHOM}(?:a|an)\\s+(?:[\\p{L}-]+\\s+){0,3}?`, "", "bent"),
+  ...bowsOf(`\\btook\\s+(?:a|another)\\s+(?:[\\p{L}-]+\\s+){0,2}?`, "", "bent"),
+  ...bowsOf(`\\b(?:${ANSWERING})\\s+(?:[\\p{L}’'-]+\\s+){0,2}?`, "", "bent"),
   {
-    found: new RegExp(
-      `\\b(?:${BENDING})\\s+(?:(?:him|her|them|us|me|you|everyone)\\s+)?(?:a|an)\\s+(?:[\\p{L}-]+\\s+)?(bow)\\b`,
-      "giu"
-    ),
+    found:
+      /\bto\s+(bow)\b(?=\s*[.,!?;—…”]|\s+(?:to|before|low|deeply|down|his|her|their|my|your|its|our|and)\b)/giu,
     said: "bˈW",
   },
+  ...bowsOf(
+    "",
+    `(?=\\s+of\\s+(?:(?:the|her|his|their|a|an|our|my|this|that|its)\\s+)?(?:[\\p{L}-]+\\s+)?(?:${HULLS})\\b)`,
+    "bent"
+  ),
+  ...bowsOf("\\b(?:port|portside|starboard)\\s+", "", "bent"),
+  ...bowsOf("", "(?=\\s+(?:to|and)\\s+stern\\b)", "bent"),
+  ...bowsOf("\\bthe\\s+", "(?=\\s+side\\b)", "bent"),
+  ...bowsOf(
+    "",
+    "(?=\\s+(?:drawn|raised|lowered|nocked|strung|slung|half-drawn)\\b|\\s+at\\s+the\\s+ready\\b|\\s+in\\s+(?:hand|hands|paw|paws|claw|claws)\\b)",
+    "strung"
+  ),
+  ...bowsOf(
+    "\\b(?:his|their|my|your|its|our|her|a|an)\\s+(?:[\\p{L}-]+\\s+)?",
+    "(?=\\s+(?:up|down|around|aside|away)\\b)",
+    "strung"
+  ),
+  ...bowsOf("", "(?=\\s+and\\s+(?:an\\s+)?arrows?\\b)", "strung"),
+  ...bowsOf(`\\b(?:${ARMS})\\s+(?:and|or)\\s+`, "", "strung"),
   {
     found: new RegExp(`${OWNED}\\b(content)\\b(?=\\s+(?:to|with|enough)\\b)`, "giu"),
     said: "kəntˈɛnt",
