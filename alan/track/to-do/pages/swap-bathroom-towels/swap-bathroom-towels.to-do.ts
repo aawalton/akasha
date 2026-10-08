@@ -7,10 +7,10 @@ export const swapBathroomTowels = {
   title: "Swap bathroom towels",
   toDoCategory: "health",
   difficulty: "trivial",
-  toDoDueDate: "2026-10-08",
+  toDoDueDate: "2026-10-26",
   priority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 29,
   toDoValue: "value/health",
-  toDoLastCompletedAt: "2026-09-07T12:01:22.576Z",
+  toDoLastCompletedAt: "2026-10-08T14:41:20.027Z",
 } as const satisfies ToDo
