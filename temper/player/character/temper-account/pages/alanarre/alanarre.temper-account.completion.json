@@ -89962,7 +89962,8 @@
     14697,
     14771,
     14772,
-    14776
+    14776,
+    14779
   ],
   "subclassingSkillLineProgress": {
     "22": {
@@ -90691,7 +90692,7 @@
             "name": "Concealed Weapon",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -90709,7 +90710,7 @@
             "name": "Reaper's Mark",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -90745,7 +90746,7 @@
             "name": "Soul Harvest",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -90763,7 +90764,7 @@
             "name": "Merciless Resolve",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
