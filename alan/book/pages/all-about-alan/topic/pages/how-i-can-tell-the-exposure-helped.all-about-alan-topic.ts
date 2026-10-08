@@ -9,7 +9,7 @@ export const howICanTellTheExposureHelped = {
   parents: ["all-about-alan-topic/being-around-cute-girls-with-no-interaction"],
   related: ["all-about-alan-topic/the-footprint-of-the-need"],
   settled:
-    "I have a hard time telling when there has been a deposit, since the physical and emotional side is one I basically only have access to as an observer.\n\nToday, immediately after the Universal trip, I am doing a lot better than I expected. My safety levels are higher and I am happier and more productive, where I expected to be crashed for several days.\n\nOn our Europe trip I noticed I did better in Luxembourg than in the other cities.\n\nI seem to do better after going to the gym than after working out at home.",
+    "I have a hard time telling when there has been a deposit, since the physical and emotional side is one I basically only have access to as an observer.\n\nToday, immediately after the Universal trip, I am doing a lot better than I expected. My safety levels are higher and I am happier and more productive, where I expected to be crashed for several days.\n\nOn our Europe trip I noticed I did better in Luxembourg than in the other cities. Luxembourg had maybe twice the rate of attractive young women of anywhere else we stayed, enough that I very much noticed.\n\nSo the crowd may not only make a good day better. It may pay down some of what a trip costs me while the trip is still going. That reading was put to me and it lands as true.\n\nI seem to do better after going to the gym than after working out at home.",
   createdAt: "2026-10-08T19:06:18.451Z",
-  updatedAt: "2026-10-08T19:06:18.451Z",
+  updatedAt: "2026-10-08T19:08:03.384Z",
 } as const satisfies AllAboutAlanTopic
