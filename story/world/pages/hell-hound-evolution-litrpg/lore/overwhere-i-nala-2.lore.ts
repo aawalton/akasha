@@ -9,6 +9,14 @@ export const overwhereINala2 = {
   about: "character-player/overwhere-i-nala",
   facts: [
     {
+      fact: "When she lets fire-strength go, the heat drains away and leaves her arms trembling.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "A spinning water disc held against a beast saws through hide and bone like a blade.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
       fact: "Nala's earth-and-water sensing ripple reaches about fifty yards; past that it blurs.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
@@ -317,5 +325,5 @@ export const overwhereINala2 = {
     },
   ],
   createdAt: "2026-09-30T18:50:02.764Z",
-  updatedAt: "2026-10-04T13:32:13.000Z",
+  updatedAt: "2026-10-08T16:25:20.912Z",
 } as const satisfies Lore
