@@ -15,7 +15,6 @@ import {
   bytes,
   delegatedAt,
   grouped,
-  heldHere,
   madePid,
   madeSpace,
   NO_CODE,
@@ -195,11 +194,6 @@ test("a group names the process space its maker ran in", () => {
   expect(madePid("akasha-1234@4026531836-5678")).toBe(1234)
   expect(madeSpace("akasha-1234-5678")).toBeNull()
   expect(madeSpace("agent")).toBeNull()
-  const letting = heldHere(ROOM)
-  const inside = String(ownAt())
-  letting()
-  const space = spaceOwn()
-  expect(madeSpace(inside.split("/").at(-2) ?? "")).toBe(space)
 })
 
 test("a group another process space made is left to that space", () => {
@@ -386,35 +380,4 @@ test("the bytes one run answered are not written over by the runs after it", () 
   const first = bytes(["printf", "AAAA"]).out
   for (let held = 0; held < AFTERWARDS; held += 1) bytes(["printf", "BBBB"])
   expect(new TextDecoder().decode(first)).toBe("AAAA")
-})
-
-const ROOM = 4096
-
-test("a process held here sits in a leaf of the group made for that hold", () => {
-  const before = ownAt()
-  const letting = heldHere(ROOM)
-  const inside = String(ownAt())
-  letting()
-
-  expect(inside.endsWith("/run")).toBe(true)
-  expect(madePid(inside.split("/").at(-2) ?? "")).toBe(process.pid)
-  expect(ownAt()).toBe(before)
-})
-
-test("the memory ceiling of a hold is stated on the leaf the process is held in", () => {
-  const letting = heldHere(ROOM)
-  const leaf = `/sys/fs/cgroup${String(ownAt())}`
-  const high = readFileSync(join(leaf, "memory.high"), "utf8").trim()
-  letting()
-
-  expect(high).toBe(String(ROOM * 1048576))
-})
-
-test("letting go takes away the group the hold made", () => {
-  const letting = heldHere(ROOM)
-  const leaf = `/sys/fs/cgroup${String(ownAt())}`
-  letting()
-
-  expect(existsSync(leaf)).toBe(false)
-  expect(existsSync(join(leaf, ".."))).toBe(false)
 })

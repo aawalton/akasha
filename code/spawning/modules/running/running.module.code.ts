@@ -21,7 +21,7 @@ const MILLIS = 1000
 
 const UNENDING = "Infinity"
 
-const MOUNT = "/sys/fs/cgroup"
+export const MOUNT = "/sys/fs/cgroup"
 
 const OWN = "/proc/self/cgroup"
 
@@ -57,7 +57,7 @@ const SWEEPS = 20
 
 const MADE = "akasha-"
 
-const RUN = "run"
+export const RUN = "run"
 
 const TURN_ON = "+cpu +memory"
 
@@ -246,7 +246,7 @@ function leftSwept(root: string): undefined {
   for (const at of left) process.stderr.write(`${LEFT} ${at} — ${leftIn(at)}\n`)
 }
 
-function budgetAt(): string | null {
+export function budgetAt(): string | null {
   const own = ownAt()
   if (own === null) return null
   const parent = delegatedAt(own)
@@ -321,7 +321,7 @@ function spentAt(at: string): number | null {
   return null
 }
 
-function throttled(at: string, megabytes: number): undefined {
+export function throttled(at: string, megabytes: number): undefined {
   try {
     writeFileSync(join(at, HIGH), String(Math.round(megabytes * MEGA)))
   } catch {}
@@ -338,51 +338,12 @@ function peakAt(at: string): number | null {
   return Number.isFinite(held) ? held : null
 }
 
-function swept(at: string): undefined {
+export function swept(at: string): undefined {
   for (let held = 0; held < SWEEPS; held += 1) {
     if (takenAway(at)) return
     Bun.sleepSync(POLL)
   }
   process.stderr.write(`${LEFT} ${at} — ${leftIn(at)}\n`)
-}
-
-function movedTo(at: string): boolean {
-  try {
-    writeFileSync(join(at, PROCS), String(process.pid))
-    return true
-  } catch {
-    return false
-  }
-}
-
-function takesBack(at: string): boolean {
-  try {
-    accessSync(join(at, PROCS), constants.W_OK)
-    return true
-  } catch {
-    return false
-  }
-}
-
-const freely = (): undefined => undefined
-
-export function heldHere(megabytes: number): () => undefined {
-  const own = ownAt()
-  if (own === null) return freely
-  const home = join(MOUNT, own)
-  if (!takesBack(home)) return freely
-  const at = budgetAt()
-  if (at === null) return freely
-  const leaf = join(at, RUN)
-  throttled(leaf, megabytes)
-  if (!movedTo(leaf)) {
-    swept(at)
-    return freely
-  }
-  return () => {
-    movedTo(home)
-    swept(at)
-  }
 }
 
 export type Said = {
