@@ -29,4 +29,6 @@ export const renderHarnessRun = {
       statement: "A removal that refuses leaves the removals after it to run.",
     },
   ],
+  createdAt: "2026-08-31T21:01:44.515Z",
+  updatedAt: "2026-09-22T16:40:35.000Z",
 } as const satisfies ShellScript

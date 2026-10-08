@@ -30,4 +30,6 @@ export const alanwaltonPictureIntent = {
       statement: "A press after a picture was sent starts a fresh capture.",
     },
   ],
+  createdAt: "2026-09-13T20:17:13.650Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

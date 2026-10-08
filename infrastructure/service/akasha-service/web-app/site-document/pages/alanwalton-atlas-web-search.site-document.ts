@@ -7,4 +7,6 @@ export const alanwaltonAtlasWebSearch = {
   title: "Search places",
   webApp: "web-app/alanwalton-atlas-web",
   urlPath: "search",
+  createdAt: "2026-09-27T12:28:49.595Z",
+  updatedAt: "2026-09-27T12:28:52.000Z",
 } as const satisfies SiteDocument

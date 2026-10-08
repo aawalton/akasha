@@ -15,4 +15,6 @@ export const auroraScarsOfTheEarth = {
   title: "Scars of the Earth",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-06-08T00:34:07.331Z",
+  updatedAt: "2026-09-19T16:57:09.000Z",
 } as const satisfies Song

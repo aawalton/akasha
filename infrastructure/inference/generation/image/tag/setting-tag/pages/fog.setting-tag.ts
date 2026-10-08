@@ -4,4 +4,6 @@ export const fog = {
   id: "01a0e37b-ddee-76cb-8619-5b761c9277b3",
   type: "page-type/setting-tag",
   slug: "fog",
+  createdAt: "2026-09-27T15:29:00.910Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

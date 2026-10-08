@@ -27,4 +27,6 @@ export const coverRerolling = {
         "The service runs on the workstation, since the picture service answers only there.",
     },
   ],
+  createdAt: "2026-09-28T14:02:49.431Z",
+  updatedAt: "2026-10-03T19:50:21.000Z",
 } as const satisfies ServiceWorkstation

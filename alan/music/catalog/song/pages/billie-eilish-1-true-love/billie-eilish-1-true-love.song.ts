@@ -16,4 +16,6 @@ export const billieEilish1TrueLove = {
   artist: "artist/billie-eilish",
   performed: false,
   written: "collab",
+  createdAt: "2026-06-08T00:38:34.418Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

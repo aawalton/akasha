@@ -18,4 +18,6 @@ export const swordArtOnlineAlternativeGunGaleOnline = {
     { source: "tmdb", externalId: "78204", externalLink: "https://www.themoviedb.org/tv/78204" },
   ],
   imdbId: "tt7978710",
+  createdAt: "2026-06-07T22:44:46.086Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Show

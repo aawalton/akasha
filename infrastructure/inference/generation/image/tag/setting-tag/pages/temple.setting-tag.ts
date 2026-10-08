@@ -4,4 +4,6 @@ export const temple = {
   id: "01a0e37b-ddef-789d-8f7d-c444a2e3d4e9",
   type: "page-type/setting-tag",
   slug: "temple",
+  createdAt: "2026-09-27T15:29:00.911Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

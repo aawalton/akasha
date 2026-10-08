@@ -15,4 +15,6 @@ export const innworldWebHome = {
       text: "A fan wiki of The Wandering Inn, whose characters and world belong to [pirateaba](https://wanderinginn.com).",
     },
   ],
+  createdAt: "2026-09-27T11:32:20.995Z",
+  updatedAt: "2026-09-27T13:30:02.000Z",
 } as const satisfies SiteDocument

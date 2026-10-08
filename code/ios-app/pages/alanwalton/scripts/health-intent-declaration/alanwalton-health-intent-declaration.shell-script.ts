@@ -26,4 +26,6 @@ export const alanwaltonHealthIntentDeclaration = {
       statement: "Every window over these samples is a query the server runs against stored rows.",
     },
   ],
+  createdAt: "2026-08-31T19:46:32.409Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

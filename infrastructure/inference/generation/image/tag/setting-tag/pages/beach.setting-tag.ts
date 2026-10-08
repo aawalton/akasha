@@ -4,4 +4,6 @@ export const beach = {
   id: "01a0e37b-dded-791f-ae53-bf785f229e3b",
   type: "page-type/setting-tag",
   slug: "beach",
+  createdAt: "2026-09-27T15:29:00.909Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

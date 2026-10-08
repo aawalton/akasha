@@ -4,4 +4,6 @@ export const cityStreet = {
   id: "01a0e37b-dded-7e71-8764-9a6587f7cffa",
   type: "page-type/setting-tag",
   slug: "city-street",
+  createdAt: "2026-09-27T15:29:00.909Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

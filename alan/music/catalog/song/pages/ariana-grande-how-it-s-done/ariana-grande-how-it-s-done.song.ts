@@ -16,4 +16,6 @@ export const arianaGrandeHowItSDone = {
   artist: "artist/ariana-grande",
   performed: false,
   written: "collab",
+  createdAt: "2026-06-08T01:37:32.396Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

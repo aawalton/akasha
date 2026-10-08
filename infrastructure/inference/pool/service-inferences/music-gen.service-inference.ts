@@ -16,4 +16,6 @@ export const musicGen = {
   port: 8097,
   internalPort: 18097,
   lifecycle: "service-lifecycle/pool",
+  createdAt: "2026-09-11T13:23:29.731Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceInference

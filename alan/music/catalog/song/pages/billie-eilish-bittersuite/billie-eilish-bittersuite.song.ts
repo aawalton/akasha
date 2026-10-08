@@ -7,4 +7,6 @@ export const billieEilishBittersuite = {
   title: "BITTERSUITE",
   artist: "artist/billie-eilish",
   performed: true,
+  createdAt: "2026-09-19T02:13:56.001Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

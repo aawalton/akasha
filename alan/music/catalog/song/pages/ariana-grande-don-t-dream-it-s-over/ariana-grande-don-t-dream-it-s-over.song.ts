@@ -15,4 +15,6 @@ export const arianaGrandeDonTDreamItSOver = {
   title: "Don’t Dream It’s Over",
   artist: "artist/ariana-grande",
   performed: true,
+  createdAt: "2026-06-08T01:39:35.482Z",
+  updatedAt: "2026-09-19T16:44:14.000Z",
 } as const satisfies Song

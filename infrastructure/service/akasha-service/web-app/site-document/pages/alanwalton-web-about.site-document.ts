@@ -24,4 +24,6 @@ export const alanwaltonWebAbout = {
       text: "Messages are conversational and transactional — scheduling, reminders, and day-to-day coordination with people who have opted in. This is not a marketing service and not a bulk-messaging service.",
     },
   ],
+  createdAt: "2026-09-24T23:15:47.917Z",
+  updatedAt: "2026-09-27T14:07:30.000Z",
 } as const satisfies SiteDocument

@@ -4,4 +4,6 @@ export const livingRoom = {
   id: "01a0e37b-ddee-7162-8106-c2d8c0ecca74",
   type: "page-type/setting-tag",
   slug: "living-room",
+  createdAt: "2026-09-27T15:29:00.910Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

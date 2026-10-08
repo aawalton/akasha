@@ -15,4 +15,6 @@ export const arianaGrandeWhereIsTheLove = {
   title: "Where Is the Love?",
   artist: "artist/ariana-grande",
   performed: true,
+  createdAt: "2026-06-08T01:45:36.521Z",
+  updatedAt: "2026-09-19T16:44:14.000Z",
 } as const satisfies Song

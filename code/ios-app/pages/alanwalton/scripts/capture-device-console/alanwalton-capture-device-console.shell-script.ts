@@ -7,4 +7,6 @@ export const alanwaltonCaptureDeviceConsole = {
   definition: "the console of Alan's app on a plugged-in iPhone, kept in a file",
   shell: "sh",
   sourced: false,
+  createdAt: "2026-08-31T19:46:32.406Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

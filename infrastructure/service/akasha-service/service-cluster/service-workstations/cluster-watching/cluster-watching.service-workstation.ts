@@ -11,4 +11,6 @@ export const clusterWatching = {
     jitterSeconds: 5,
     startTimeoutSeconds: 120,
   },
+  createdAt: "2026-09-24T18:41:55.678Z",
+  updatedAt: "2026-09-25T16:38:02.000Z",
 } as const satisfies ServiceWorkstation

@@ -8,4 +8,6 @@ export const upscaleRun = {
   shell: "sh",
   sourced: false,
   scripting: {},
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-22T10:13:52.000Z",
 } as const satisfies ShellScript

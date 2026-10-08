@@ -27,4 +27,6 @@ export const clusterDeploying = {
         "A tick with every cluster service up to date puts nothing up, so that is no loop without end.",
     },
   ],
+  createdAt: "2026-09-12T14:11:07.450Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

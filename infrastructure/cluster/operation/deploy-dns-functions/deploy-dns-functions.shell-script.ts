@@ -7,4 +7,6 @@ export const deployDnsFunctions = {
   definition: "the names a cluster script sources for reaching Cloudflare DNS",
   shell: "sh",
   sourced: true,
+  createdAt: "2026-09-03T18:28:18.961Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

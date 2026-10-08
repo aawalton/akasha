@@ -7,4 +7,6 @@ export const alexandriaKnightOfSwords = {
   title: "Knight of Swords",
   artist: "artist/alexandria",
   performed: true,
+  createdAt: "2026-09-19T02:12:34.728Z",
+  updatedAt: "2026-09-19T02:13:10.000Z",
 } as const satisfies Song

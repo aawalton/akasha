@@ -7,4 +7,6 @@ export const alanwaltonMonarchTap = {
   definition: "the Swift opening Monarch when the ring is tapped",
   shell: "sh",
   sourced: true,
+  createdAt: "2026-08-31T19:46:32.413Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

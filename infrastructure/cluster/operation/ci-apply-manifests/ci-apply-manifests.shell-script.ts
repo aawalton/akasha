@@ -7,4 +7,6 @@ export const ciApplyManifests = {
   definition: "the manifests under a directory applied to a namespace, or diffed against it",
   shell: "sh",
   sourced: false,
+  createdAt: "2026-09-03T17:51:28.767Z",
+  updatedAt: "2026-09-22T10:11:09.000Z",
 } as const satisfies ShellScript

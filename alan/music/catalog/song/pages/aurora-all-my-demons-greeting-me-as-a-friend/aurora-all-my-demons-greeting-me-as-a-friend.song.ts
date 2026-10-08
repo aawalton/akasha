@@ -20,4 +20,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriend = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T02:12:58.801Z",
+  updatedAt: "2026-09-22T13:09:58.000Z",
 } as const satisfies Song

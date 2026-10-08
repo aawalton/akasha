@@ -46,4 +46,6 @@ export const alanwaltonWebPrinciples = {
       text: "Work in safe refactor patterns — no broken intermediate states, even for speed. Named patterns: Expand-contract (add new interface alongside old, migrate callers, remove old), Extract-then-modify (extract function/component, update references, then modify), Add-before-remove (add new column/field/route, update code, then remove old). When failures occur, trace root causes and add structural prevention — types, tests, process gates — so the same class of failure cannot recur.",
     },
   ],
+  createdAt: "2026-09-24T23:22:04.814Z",
+  updatedAt: "2026-09-27T11:54:39.000Z",
 } as const satisfies SiteDocument

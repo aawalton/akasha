@@ -7,4 +7,6 @@ export const stageWebEntry = {
   definition: "the page a shell boots, put where Capacitor serves it",
   shell: "sh",
   sourced: false,
+  createdAt: "2026-08-31T19:04:00.269Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

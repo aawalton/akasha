@@ -4,4 +4,6 @@ export const party = {
   id: "01a0e37b-ddee-79c3-ad5d-6aca63be99cd",
   type: "page-type/setting-tag",
   slug: "party",
+  createdAt: "2026-09-27T15:29:00.910Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

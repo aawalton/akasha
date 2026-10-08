@@ -8,4 +8,6 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapodaTaTragoudia2TragoudiApoTi
     'Sto agnosto na \'rtho - Apo to "Psihra Ki Anapoda - Ta Tragoudia 2"/Tragoudi apo tin Tenia',
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T02:13:40.873Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

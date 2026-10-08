@@ -19,4 +19,6 @@ export const auroraAllIsSoftInside = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:30:58.460Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

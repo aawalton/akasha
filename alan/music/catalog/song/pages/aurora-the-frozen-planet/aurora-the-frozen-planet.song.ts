@@ -15,4 +15,6 @@ export const auroraTheFrozenPlanet = {
   title: "The Frozen Planet",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-06-08T00:31:45.862Z",
+  updatedAt: "2026-09-19T16:57:09.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const upscaleProvision = {
   definition: "the weights an upscale run needs, pulled into the model store",
   shell: "sh",
   sourced: false,
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

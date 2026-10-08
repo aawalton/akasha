@@ -6,4 +6,6 @@ export const shower = {
   slug: "shower",
   title: "Shower",
   defaultDifficulty: 1,
+  createdAt: "2026-08-08T18:42:09.191Z",
+  updatedAt: "2026-09-16T14:19:27.000Z",
 } as const satisfies SessionActivity

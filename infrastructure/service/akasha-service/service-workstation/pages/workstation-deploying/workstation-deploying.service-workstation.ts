@@ -37,4 +37,6 @@ export const workstationDeploying = {
       statement: "A tick finding nothing changed starts nothing, so that is no loop without end.",
     },
   ],
+  createdAt: "2026-09-12T12:24:25.730Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

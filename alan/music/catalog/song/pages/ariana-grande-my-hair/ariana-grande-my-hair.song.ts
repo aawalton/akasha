@@ -19,4 +19,6 @@ export const arianaGrandeMyHair = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T01:45:49.831Z",
+  updatedAt: "2026-09-22T13:09:58.000Z",
 } as const satisfies Song

@@ -27,4 +27,6 @@ export const alanwaltonWebPrivacy = {
       text: "Questions about this policy or the service? Contact [alan@alanwalton.com](mailto:alan@alanwalton.com). Full messaging terms and consent details are at [alanwalton.com/sms](/sms).",
     },
   ],
+  createdAt: "2026-09-24T23:15:47.918Z",
+  updatedAt: "2026-09-27T14:07:30.000Z",
 } as const satisfies SiteDocument

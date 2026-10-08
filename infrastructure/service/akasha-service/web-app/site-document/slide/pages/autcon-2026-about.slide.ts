@@ -20,4 +20,6 @@ export const autcon2026About = {
   ],
   image: "image/image-d6a4b4ce0bb3ec5d",
   imageCaption: "Alan Walton",
+  createdAt: "2026-09-25T01:18:36.339Z",
+  updatedAt: "2026-09-25T12:56:26.000Z",
 } as const satisfies Slide

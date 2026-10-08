@@ -7,4 +7,6 @@ export const auroraYouCantRunFromYourselfFromKaijuNo8 = {
   title: 'You Can’t Run From Yourself - From "Kaiju No. 8"',
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T02:13:54.272Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

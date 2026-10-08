@@ -15,4 +15,6 @@ export const auroraHelvegen = {
   title: "Helvegen",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-06-08T00:30:31.814Z",
+  updatedAt: "2026-09-19T16:57:09.000Z",
 } as const satisfies Song

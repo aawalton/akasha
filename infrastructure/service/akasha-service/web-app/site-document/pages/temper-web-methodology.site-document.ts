@@ -39,4 +39,6 @@ export const temperWebMethodology = {
       text: "What the validation pipelines do not cover:\n\n- **Rotation config assumptions** — default parameters (0.5 damage frequency, 0.5 synergy rate) are estimates, not validated against gameplay recordings\n- **Average crit** — the simulator uses expected-value crit multipliers rather than Monte Carlo sampling. This is correct in expectation but does not model variance.\n- **Buff/debuff uptime** — simulated uptime depends on rotation config and skill selection heuristics, not actual player behavior\n- **Game version coupling** — validation data comes from a specific ESO version. Game updates may change formulas or constants, requiring re-validation.",
     },
   ],
+  createdAt: "2026-09-24T23:39:28.304Z",
+  updatedAt: "2026-09-24T23:39:39.000Z",
 } as const satisfies SiteDocument

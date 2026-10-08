@@ -12,4 +12,6 @@ export const sweepLogDays = {
     startTimeoutSeconds: 900,
   },
   told: false,
+  createdAt: "2026-08-25T23:09:11.073Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

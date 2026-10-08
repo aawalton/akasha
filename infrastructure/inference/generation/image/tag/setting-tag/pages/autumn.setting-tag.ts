@@ -4,4 +4,6 @@ export const autumn = {
   id: "01a0e37b-dded-7d72-b7a4-ff456e5d5160",
   type: "page-type/setting-tag",
   slug: "autumn",
+  createdAt: "2026-09-27T15:29:00.909Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

@@ -7,4 +7,6 @@ export const auroraRunawayOrchestral = {
   title: "Runaway - Orchestral",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T02:13:35.603Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

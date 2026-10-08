@@ -7,4 +7,6 @@ export const auroraMechanical = {
   title: "Mechanical",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T02:13:50.531Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const arianaGrandeNoPlaceLikeHome = {
   title: "No Place Like Home",
   artist: "artist/ariana-grande",
   performed: true,
+  createdAt: "2026-09-19T02:12:50.317Z",
+  updatedAt: "2026-09-19T02:13:10.000Z",
 } as const satisfies Song

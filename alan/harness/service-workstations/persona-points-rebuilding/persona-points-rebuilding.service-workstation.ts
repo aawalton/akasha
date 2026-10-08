@@ -30,4 +30,6 @@ export const personaPointsRebuilding = {
         "Without this run a day turning would leave each persona with today's count alone.",
     },
   ],
+  createdAt: "2026-09-08T21:27:59.287Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

@@ -7,4 +7,6 @@ export const bath = {
   title: "Bath",
   defaultDifficulty: 1,
   icon: "droplet",
+  createdAt: "2026-09-11T03:03:00.783Z",
+  updatedAt: "2026-09-16T14:19:27.000Z",
 } as const satisfies SessionActivity

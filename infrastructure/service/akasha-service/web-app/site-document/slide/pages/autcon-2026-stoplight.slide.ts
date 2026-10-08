@@ -26,4 +26,6 @@ export const autcon2026Stoplight = {
       color: "red",
     },
   ],
+  createdAt: "2026-09-25T01:18:36.339Z",
+  updatedAt: "2026-09-25T01:18:47.000Z",
 } as const satisfies Slide

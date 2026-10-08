@@ -14,4 +14,6 @@ export const alanwaltonHealthSamplesDrain = {
         "The part closing the intent's braces is sourced before any part written beside it.",
     },
   ],
+  createdAt: "2026-08-31T19:46:32.410Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

@@ -10,4 +10,6 @@ export const maintainSeatPending = {
     restartDelaySeconds: 10,
   },
   told: false,
+  createdAt: "2026-08-21T23:32:00.707Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

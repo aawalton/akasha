@@ -18,4 +18,6 @@ export const arianaGrandeOneShortDay = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T01:46:08.849Z",
+  updatedAt: "2026-09-19T16:44:14.000Z",
 } as const satisfies Song

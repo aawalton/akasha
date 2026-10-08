@@ -7,4 +7,6 @@ export const widgetComponents = {
   definition: "the components a program compiles, copied in beside it",
   shell: "sh",
   sourced: true,
+  createdAt: "2026-08-31T19:04:00.270Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

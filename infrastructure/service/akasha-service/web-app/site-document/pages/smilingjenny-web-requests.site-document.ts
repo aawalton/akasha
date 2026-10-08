@@ -15,4 +15,6 @@ export const smilingjennyWebRequests = {
       text: "Nothing has been published here yet.",
     },
   ],
+  createdAt: "2026-09-27T11:37:23.823Z",
+  updatedAt: "2026-09-27T11:45:28.000Z",
 } as const satisfies SiteDocument

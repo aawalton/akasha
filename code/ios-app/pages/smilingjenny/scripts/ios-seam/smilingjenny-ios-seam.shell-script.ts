@@ -8,4 +8,6 @@ export const smilingjennyIosSeam = {
   shell: "sh",
   sourced: false,
   scripting: {},
+  createdAt: "2026-08-31T19:07:52.880Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

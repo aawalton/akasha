@@ -33,4 +33,6 @@ export const webAppDeploying = {
         "A tick with every web app up to date puts nothing up, so that is no loop without end.",
     },
   ],
+  createdAt: "2026-09-12T15:38:36.625Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

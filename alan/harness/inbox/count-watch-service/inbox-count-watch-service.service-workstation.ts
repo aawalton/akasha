@@ -30,4 +30,6 @@ export const inboxCountWatchService = {
       statement: "The site the counts are carried to is named here rather than held as a secret.",
     },
   ],
+  createdAt: "2026-09-07T03:17:34.205Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

@@ -48,4 +48,6 @@ export const buildSim = {
       statement: "Nothing here is signed.",
     },
   ],
+  createdAt: "2026-08-31T21:39:21.281Z",
+  updatedAt: "2026-09-22T10:06:53.000Z",
 } as const satisfies ShellScript

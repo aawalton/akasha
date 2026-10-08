@@ -25,4 +25,6 @@ export const desktopWallpaperSetting = {
       statement: "A watch failing all night keeps on.",
     },
   ],
+  createdAt: "2026-09-06T20:32:20.091Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

@@ -7,4 +7,6 @@ export const alanwaltonDecodeHarnessRun = {
   definition: "the build and run of Alan's decode harness on a simulator",
   shell: "sh",
   sourced: false,
+  createdAt: "2026-08-31T19:46:32.407Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

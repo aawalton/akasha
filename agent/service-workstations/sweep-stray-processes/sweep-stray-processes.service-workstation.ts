@@ -120,4 +120,6 @@ export const sweepStrayProcesses = {
         "A transcript naming a subagent nowhere leaves it unread, so a silence ends nothing.",
     },
   ],
+  createdAt: "2026-09-13T22:40:48.005Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

@@ -19,4 +19,6 @@ export const auroraArtemis = {
   written: "solo",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:31:36.764Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

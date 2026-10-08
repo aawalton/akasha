@@ -13,4 +13,6 @@ export const costRelayService = {
     startTimeoutSeconds: 60,
     catchUp: false,
   },
+  createdAt: "2026-09-10T14:00:22.784Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

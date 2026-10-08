@@ -46,4 +46,6 @@ export const alanwaltonPictureCapture = {
         "A press after a send that failed takes a fresh picture rather than sending again.",
     },
   ],
+  createdAt: "2026-09-13T20:17:27.763Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

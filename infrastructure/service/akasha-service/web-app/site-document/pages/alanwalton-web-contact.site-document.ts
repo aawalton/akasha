@@ -22,4 +22,6 @@ export const alanwaltonWebContact = {
       text: "If you receive texts from the Amy assistant line, reply **STOP** at any time to opt out, or **HELP** for help. Full messaging terms and privacy details are at [alanwalton.com/sms](/sms).",
     },
   ],
+  createdAt: "2026-09-24T23:15:47.918Z",
+  updatedAt: "2026-09-27T14:07:30.000Z",
 } as const satisfies SiteDocument

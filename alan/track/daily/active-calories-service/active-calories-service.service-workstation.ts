@@ -12,4 +12,6 @@ export const activeCaloriesService = {
     startTimeoutSeconds: 300,
     catchUp: false,
   },
+  createdAt: "2026-09-06T14:34:45.254Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

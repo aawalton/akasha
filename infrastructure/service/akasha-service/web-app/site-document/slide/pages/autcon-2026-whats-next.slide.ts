@@ -17,4 +17,6 @@ export const autcon2026WhatsNext = {
   ],
   image: "image/image-f849129a830f6990",
   imageCaption: "audhdalan.com",
+  createdAt: "2026-09-25T01:18:36.339Z",
+  updatedAt: "2026-09-25T13:12:19.000Z",
 } as const satisfies Slide

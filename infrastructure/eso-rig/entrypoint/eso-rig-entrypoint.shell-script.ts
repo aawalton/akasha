@@ -98,4 +98,6 @@ export const esoRigEntrypoint = {
       statement: "The first registration stays live and has every event the rig injects.",
     },
   ],
+  createdAt: "2026-09-03T17:52:13.048Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

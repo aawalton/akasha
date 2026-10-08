@@ -14,4 +14,6 @@ export const autcon2026Agenda = {
     { title: "Resource Bars", value: "Level 3", description: "Health, Mana, Stamina" },
   ],
   closer: "Plus: Notion + Google Sheets quick-starts at the end.",
+  createdAt: "2026-09-25T01:18:36.339Z",
+  updatedAt: "2026-09-25T01:18:47.000Z",
 } as const satisfies Slide

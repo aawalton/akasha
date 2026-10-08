@@ -11,4 +11,6 @@ export const recipientResolver = {
     restartDelaySeconds: 5,
   },
   told: false,
+  createdAt: "2026-09-03T16:45:12.980Z",
+  updatedAt: "2026-09-25T14:02:04.000Z",
 } as const satisfies ServiceWorkstation

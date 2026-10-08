@@ -26,4 +26,6 @@ export const alanwaltonWidgetTapIntent = {
         "The widget's link is handed on naming the tap, as a link the app is opened by is.",
     },
   ],
+  createdAt: "2026-09-24T20:20:39.828Z",
+  updatedAt: "2026-09-24T20:20:45.000Z",
 } as const satisfies ShellScript

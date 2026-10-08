@@ -19,4 +19,6 @@ export const arianaGrandeTheLightIsComing = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T01:43:38.030Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

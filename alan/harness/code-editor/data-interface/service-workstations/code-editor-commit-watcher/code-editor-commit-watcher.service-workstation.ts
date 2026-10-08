@@ -9,4 +9,6 @@ export const codeEditorCommitWatcher = {
   systemd: {
     restartDelaySeconds: 5,
   },
+  createdAt: "2026-09-25T17:26:46.526Z",
+  updatedAt: "2026-09-25T17:27:03.000Z",
 } as const satisfies ServiceWorkstation

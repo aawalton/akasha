@@ -4,4 +4,6 @@ export const hotel = {
   id: "01a0e37b-ddee-7e7c-b5a7-3733b2ec9d2f",
   type: "page-type/setting-tag",
   slug: "hotel",
+  createdAt: "2026-09-27T15:29:00.910Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

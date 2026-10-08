@@ -7,4 +7,6 @@ export const sleep = {
   title: "Sleep",
   defaultDifficulty: 0,
   icon: "file-text",
+  createdAt: "2026-07-05T23:07:18.770Z",
+  updatedAt: "2026-09-16T14:19:27.000Z",
 } as const satisfies SessionActivity

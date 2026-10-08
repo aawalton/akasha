@@ -17,4 +17,6 @@ export const temperWebLanding = {
       text: "Temper can also track your completion and inventory from your actual characters. That needs data out of the game, which takes some setup in ESO first.\n\n- **The Temper ESO add-ons** — TemperCharacters and TemperItems — write the files Temper reads. You download them from Temper, extract them into your ESO add-ons folder, and enable them in game.\n- **Tamriel Trade Centre**, a separate community add-on that is not ours, is where Temper gets item prices. Its terms do not allow us to include it, so you install that one yourself. Without it Temper can only value your items at vendor prices, well below what they are worth.\n- **The Temper Watcher**, which picks those files up automatically, is a Windows 10 or 11 (64-bit) application. There is no macOS or Linux build — on macOS and Linux you upload the files by hand instead.\n\nUntil that setup is done, Temper cannot see your characters, and every surface that reflects your own account will be empty. The build planner does not depend on any of it.",
     },
   ],
+  createdAt: "2026-09-24T23:39:28.304Z",
+  updatedAt: "2026-09-24T23:39:39.000Z",
 } as const satisfies SiteDocument

@@ -10,4 +10,6 @@ export const alanwaltonAtlasWebHome = {
   webApp: "web-app/alanwalton-atlas-web",
   urlPath: "",
   lead: "Welcome to your Atlas.",
+  createdAt: "2026-09-27T11:34:50.996Z",
+  updatedAt: "2026-09-27T11:40:54.000Z",
 } as const satisfies SiteDocument

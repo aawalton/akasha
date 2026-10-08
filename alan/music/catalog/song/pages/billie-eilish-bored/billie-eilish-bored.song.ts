@@ -19,4 +19,6 @@ export const billieEilishBored = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T02:13:54.657Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

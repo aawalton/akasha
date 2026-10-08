@@ -7,4 +7,6 @@ export const atlasCaptureDeviceConsole = {
   definition: "the console of Atlas running on a plugged-in phone, captured to a file",
   shell: "sh",
   sourced: false,
+  createdAt: "2026-09-03T03:43:46.771Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

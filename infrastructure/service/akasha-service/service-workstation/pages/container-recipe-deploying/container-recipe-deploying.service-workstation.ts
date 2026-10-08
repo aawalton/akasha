@@ -31,4 +31,6 @@ export const containerRecipeDeploying = {
         "A tick with every container recipe up to date puts nothing up, so that is no loop without end.",
     },
   ],
+  createdAt: "2026-09-12T16:07:16.063Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

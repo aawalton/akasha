@@ -4,4 +4,6 @@ export const hotSpring = {
   id: "01a0e37b-ddee-70c2-90bf-d0268d524cb6",
   type: "page-type/setting-tag",
   slug: "hot-spring",
+  createdAt: "2026-09-27T15:29:00.910Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

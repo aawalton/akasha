@@ -5,4 +5,6 @@ export const pool = {
   type: "page-type/service-lifecycle",
   slug: "pool",
   definition: "a service the pool swaps in and out",
+  createdAt: "2026-09-22T19:25:53.870Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceLifecycle

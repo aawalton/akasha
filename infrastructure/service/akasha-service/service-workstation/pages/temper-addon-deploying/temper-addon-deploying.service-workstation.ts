@@ -27,4 +27,6 @@ export const temperAddonDeploying = {
         "A tick with every addon up to date puts nothing up, so that is no loop without end.",
     },
   ],
+  createdAt: "2026-09-12T13:11:30.426Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

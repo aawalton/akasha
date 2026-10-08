@@ -15,4 +15,6 @@ export const arianaGrandeTearinUpMyHeart = {
   title: "Tearin’ Up My Heart",
   artist: "artist/ariana-grande",
   performed: true,
+  createdAt: "2026-06-08T01:44:23.182Z",
+  updatedAt: "2026-09-19T16:44:14.000Z",
 } as const satisfies Song

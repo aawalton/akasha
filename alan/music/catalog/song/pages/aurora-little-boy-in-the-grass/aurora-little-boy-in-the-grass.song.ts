@@ -19,4 +19,6 @@ export const auroraLittleBoyInTheGrass = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:31:10.502Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

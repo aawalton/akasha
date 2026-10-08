@@ -8,4 +8,6 @@ export const alanwaltonRequestsWebHome = {
   description: "What people have asked Alan to build, and the points behind each ask.",
   webApp: "web-app/alanwalton-requests-web",
   urlPath: "",
+  createdAt: "2026-09-27T12:14:56.985Z",
+  updatedAt: "2026-09-27T13:16:22.000Z",
 } as const satisfies SiteDocument

@@ -4,4 +4,6 @@ export const rooftop = {
   id: "01a0e37b-ddee-770a-bc0b-ffdfd2b5be0f",
   type: "page-type/setting-tag",
   slug: "rooftop",
+  createdAt: "2026-09-27T15:29:00.910Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

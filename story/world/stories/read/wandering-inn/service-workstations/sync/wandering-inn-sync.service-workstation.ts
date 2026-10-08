@@ -13,4 +13,6 @@ export const wanderingInnSync = {
     catchUp: true,
     startTimeoutSeconds: 10800,
   },
+  createdAt: "2026-09-03T16:45:12.980Z",
+  updatedAt: "2026-09-25T15:48:35.000Z",
 } as const satisfies ServiceWorkstation

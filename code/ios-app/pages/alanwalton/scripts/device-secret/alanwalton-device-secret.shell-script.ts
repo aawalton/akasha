@@ -30,4 +30,6 @@ export const alanwaltonDeviceSecret = {
       statement: "A route never reached is answered as a status of zero.",
     },
   ],
+  createdAt: "2026-08-31T19:46:32.407Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

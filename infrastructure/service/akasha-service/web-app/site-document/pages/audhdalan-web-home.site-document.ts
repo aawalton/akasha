@@ -24,4 +24,6 @@ export const audhdalanWebHome = {
       text: "Occasional notes on autism, ADHD, and energy management.",
     },
   ],
+  createdAt: "2026-09-24T23:24:43.980Z",
+  updatedAt: "2026-09-27T13:42:48.000Z",
 } as const satisfies SiteDocument

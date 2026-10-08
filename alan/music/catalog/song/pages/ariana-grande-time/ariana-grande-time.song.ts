@@ -18,4 +18,6 @@ export const arianaGrandeTime = {
   lyricsSource: "lrclib",
   written: "collab",
   lyrics: "txt",
+  createdAt: "2026-06-08T01:43:41.032Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

@@ -44,4 +44,6 @@ export const apnsPushNotifier = {
       statement: "The service runs.",
     },
   ],
+  createdAt: "2026-09-03T16:45:12.979Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

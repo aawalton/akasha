@@ -10,4 +10,6 @@ export const ciCostSnapshot = {
   scripting: {},
   installPath: "~/.local/bin/ci-cost-snapshot",
   onlyOn: "any",
+  createdAt: "2026-09-03T17:49:55.803Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

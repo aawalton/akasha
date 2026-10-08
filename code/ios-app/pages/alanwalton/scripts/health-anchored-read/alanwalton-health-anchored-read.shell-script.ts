@@ -35,4 +35,6 @@ export const alanwaltonHealthAnchoredRead = {
       statement: "A shut store and a refused read are told apart by the error code alone.",
     },
   ],
+  createdAt: "2026-08-31T19:46:32.408Z",
+  updatedAt: "2026-09-22T10:06:44.000Z",
 } as const satisfies ShellScript

@@ -52,4 +52,6 @@ export const spotifySync = {
       statement: "The timer starts the bundle with no flag, so a timed run sweeps the artists due.",
     },
   ],
+  createdAt: "2026-09-13T20:45:27.633Z",
+  updatedAt: "2026-09-24T22:04:51.000Z",
 } as const satisfies ServiceWorkstation

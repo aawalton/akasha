@@ -10,4 +10,6 @@ export const archiveOfWorldsWebHome = {
   webApp: "web-app/archive-of-worlds-web",
   urlPath: "",
   lead: "Welcome to your Archive of Worlds.",
+  createdAt: "2026-09-27T11:31:10.680Z",
+  updatedAt: "2026-09-27T11:42:07.000Z",
 } as const satisfies SiteDocument

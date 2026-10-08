@@ -6,4 +6,6 @@ export const joseph = {
   slug: "joseph",
   title: "Joseph",
   defaultDifficulty: 3,
+  createdAt: "2026-08-14T00:48:44.942Z",
+  updatedAt: "2026-09-16T14:19:27.000Z",
 } as const satisfies SessionActivity

@@ -11,4 +11,6 @@ export const serviceWatching = {
     jitterSeconds: 5,
     startTimeoutSeconds: 120,
   },
+  createdAt: "2026-09-08T17:44:24.039Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

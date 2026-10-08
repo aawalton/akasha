@@ -4,4 +4,6 @@ export const fireplace = {
   id: "01a0e37b-ddee-7b57-aa11-986c5577baff",
   type: "page-type/setting-tag",
   slug: "fireplace",
+  createdAt: "2026-09-27T15:29:00.910Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

@@ -15,4 +15,6 @@ export const auroraUntitled = {
   title: "イントゥ・ジ・アンノウン〜心のままに",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-06-08T00:35:17.781Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

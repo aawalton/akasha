@@ -48,4 +48,6 @@ export const iosAppDeploying = {
         "A tick with every ios app up to date puts nothing up, so that is no loop without end.",
     },
   ],
+  createdAt: "2026-09-13T14:09:40.348Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

@@ -7,4 +7,6 @@ export const alanwaltonBadge = {
   definition: "the Swift setting the number on the app icon",
   shell: "sh",
   sourced: true,
+  createdAt: "2026-08-31T19:46:32.406Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

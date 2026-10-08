@@ -35,4 +35,6 @@ export const sweepGradedFImages = {
       statement: "A tick that cannot delete an image fails the unit.",
     },
   ],
+  createdAt: "2026-09-26T17:55:33.438Z",
+  updatedAt: "2026-09-26T17:56:07.000Z",
 } as const satisfies ServiceWorkstation

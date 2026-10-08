@@ -14,4 +14,6 @@ export const qwen3Tts = {
   port: 8092,
   internalPort: 18092,
   lifecycle: "service-lifecycle/pool",
+  createdAt: "2026-09-11T13:22:51.629Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceInference

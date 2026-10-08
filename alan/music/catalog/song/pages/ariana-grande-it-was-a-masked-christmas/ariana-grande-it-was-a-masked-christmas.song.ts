@@ -15,4 +15,6 @@ export const arianaGrandeItWasAMaskedChristmas = {
   title: "It Was a… (Masked Christmas)",
   artist: "artist/ariana-grande",
   performed: true,
+  createdAt: "2026-09-19T02:12:38.443Z",
+  updatedAt: "2026-09-19T16:44:14.000Z",
 } as const satisfies Song

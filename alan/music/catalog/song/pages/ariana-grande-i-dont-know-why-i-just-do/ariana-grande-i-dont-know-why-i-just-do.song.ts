@@ -7,4 +7,6 @@ export const arianaGrandeIDontKnowWhyIJustDo = {
   title: "I Don't Know Why (I Just Do)",
   artist: "artist/ariana-grande",
   performed: true,
+  createdAt: "2026-09-19T02:12:38.125Z",
+  updatedAt: "2026-09-19T02:13:10.000Z",
 } as const satisfies Song

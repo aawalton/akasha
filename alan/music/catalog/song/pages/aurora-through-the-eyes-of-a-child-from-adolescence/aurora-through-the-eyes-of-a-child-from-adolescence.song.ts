@@ -7,4 +7,6 @@ export const auroraThroughTheEyesOfAChildFromAdolescence = {
   title: "Through the Eyes of a Child - From Adolescence",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T02:13:42.735Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

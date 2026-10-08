@@ -4,4 +4,6 @@ export const spa = {
   id: "01a0e37b-ddee-74e9-9f7b-b6141897e561",
   type: "page-type/setting-tag",
   slug: "spa",
+  createdAt: "2026-09-27T15:29:00.910Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

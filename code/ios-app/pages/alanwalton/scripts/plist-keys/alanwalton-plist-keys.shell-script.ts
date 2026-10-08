@@ -28,4 +28,6 @@ export const alanwaltonPlistKeys = {
         "Deleting the key to narrow the request burns a release rather than tightening a release.",
     },
   ],
+  createdAt: "2026-08-31T19:46:32.414Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

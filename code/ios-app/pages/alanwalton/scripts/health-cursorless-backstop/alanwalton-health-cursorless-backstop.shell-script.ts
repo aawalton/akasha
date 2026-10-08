@@ -26,4 +26,6 @@ export const alanwaltonHealthCursorlessBackstop = {
       statement: "Two readings part a quiet window from a read the app is not allowed to make.",
     },
   ],
+  createdAt: "2026-08-31T19:46:32.408Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

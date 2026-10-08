@@ -31,4 +31,6 @@ export const akashaLauncher = {
   ],
   installPath: "~/.local/bin/akasha",
   onlyOn: "any",
+  createdAt: "2026-09-05T20:46:39.469Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

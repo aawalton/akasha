@@ -7,4 +7,6 @@ export const ryan = {
   title: "Ryan",
   defaultDifficulty: 4,
   icon: "file-text",
+  createdAt: "2026-07-31T10:24:48.536Z",
+  updatedAt: "2026-09-16T14:19:27.000Z",
 } as const satisfies SessionActivity

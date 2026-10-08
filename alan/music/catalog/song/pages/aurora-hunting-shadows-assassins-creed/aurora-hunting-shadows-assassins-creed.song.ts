@@ -7,4 +7,6 @@ export const auroraHuntingShadowsAssassinsCreed = {
   title: "Hunting Shadows (Assassin's Creed)",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T02:13:34.084Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

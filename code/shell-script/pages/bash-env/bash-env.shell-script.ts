@@ -48,4 +48,6 @@ export const bashEnv = {
     },
   ],
   linkedAt: "~/.local/state/akasha/bash-env",
+  createdAt: "2026-09-03T17:46:19.434Z",
+  updatedAt: "2026-09-24T22:26:50.000Z",
 } as const satisfies ShellScript

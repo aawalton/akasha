@@ -17,4 +17,6 @@ export const auroraAcrossTheUniverse = {
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",
+  createdAt: "2026-06-08T00:30:55.525Z",
+  updatedAt: "2026-09-19T16:57:09.000Z",
 } as const satisfies Song

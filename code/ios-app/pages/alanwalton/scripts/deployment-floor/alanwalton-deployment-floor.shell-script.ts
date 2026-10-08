@@ -7,4 +7,6 @@ export const alanwaltonDeploymentFloor = {
   definition: "the lowest iOS version the app target is built for",
   shell: "sh",
   sourced: true,
+  createdAt: "2026-08-31T19:46:32.408Z",
+  updatedAt: "2026-10-05T20:27:04.000Z",
 } as const satisfies ShellScript

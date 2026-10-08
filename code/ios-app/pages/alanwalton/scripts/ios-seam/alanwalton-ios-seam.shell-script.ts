@@ -22,4 +22,6 @@ export const alanwaltonIosSeam = {
       statement: "A removal that refuses leaves the run's own exit status as it was.",
     },
   ],
+  createdAt: "2026-08-31T19:46:32.411Z",
+  updatedAt: "2026-09-22T16:38:23.000Z",
 } as const satisfies ShellScript

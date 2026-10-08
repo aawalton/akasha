@@ -12,4 +12,6 @@ export const sweepSupervisorLogs = {
     startTimeoutSeconds: 900,
   },
   told: false,
+  createdAt: "2026-08-24T12:00:20.161Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

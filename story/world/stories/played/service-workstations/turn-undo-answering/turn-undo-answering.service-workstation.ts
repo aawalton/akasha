@@ -28,4 +28,6 @@ export const turnUndoAnswering = {
         "The service runs on the workstation, since the checkout a cancel lands in is there.",
     },
   ],
+  createdAt: "2026-09-30T10:09:15.542Z",
+  updatedAt: "2026-09-30T10:09:27.000Z",
 } as const satisfies ServiceWorkstation

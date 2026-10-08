@@ -5,4 +5,6 @@ export const alwaysOn = {
   type: "page-type/service-lifecycle",
   slug: "always-on",
   definition: "a service that runs at all times",
+  createdAt: "2026-09-22T19:25:57.790Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceLifecycle

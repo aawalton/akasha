@@ -14,4 +14,6 @@ export const audhdalanWebSafetyLevels = {
       text: "| Level | Anchor | Activities |\n| --- | --- | --- |\n| 5 | Can be outgoing | Initiating conversations, paying active attention to others, caring about others |\n| 4 | Can be secure | Conflict, singing, dancing, being perceived |\n| 3 | Can feel happiness | Being social, nature, food, music, aesthetic experiences |\n| 2 | Can be productive | Programming, projects, chores |\n| 1 | Can rest | Reading fiction, watching shows, playing games |\n| 0 | Can tolerate existing | Can lie down in a dark room and count |\n| -1 | Sympathetic dominance | Fight, flight, freeze, fawn |\n| -2 | Parasympathetic flop | Flop, complete physical systems shutdown |",
     },
   ],
+  createdAt: "2026-09-24T23:24:43.980Z",
+  updatedAt: "2026-09-24T23:24:49.000Z",
 } as const satisfies SiteDocument

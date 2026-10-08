@@ -4,4 +4,6 @@ export const study = {
   id: "01a0e37b-ddef-775d-9c66-36a88885ccc0",
   type: "page-type/setting-tag",
   slug: "study",
+  createdAt: "2026-09-27T15:29:00.911Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

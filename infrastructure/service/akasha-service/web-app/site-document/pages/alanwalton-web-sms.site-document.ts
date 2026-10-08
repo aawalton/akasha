@@ -65,4 +65,6 @@ export const alanwaltonWebSms = {
       text: "Questions about this service or these terms? Contact [alan@alanwalton.com](mailto:alan@alanwalton.com).",
     },
   ],
+  createdAt: "2026-09-24T23:15:47.918Z",
+  updatedAt: "2026-09-27T14:07:30.000Z",
 } as const satisfies SiteDocument

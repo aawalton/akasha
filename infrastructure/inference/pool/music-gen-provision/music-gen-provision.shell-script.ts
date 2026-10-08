@@ -7,4 +7,6 @@ export const musicGenProvision = {
   definition: "the music generator's conda environment",
   shell: "sh",
   sourced: false,
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-22T13:46:54.000Z",
 } as const satisfies ShellScript

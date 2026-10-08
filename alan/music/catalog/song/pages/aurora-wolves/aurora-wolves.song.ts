@@ -7,4 +7,6 @@ export const auroraWolves = {
   title: "Wolves",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T02:13:53.569Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

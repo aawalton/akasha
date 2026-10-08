@@ -27,4 +27,6 @@ export const monarchReadingService = {
       statement: "Every other refusal is carried out, so a cookie Alan must renew is still seen.",
     },
   ],
+  createdAt: "2026-09-01T04:38:08.851Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

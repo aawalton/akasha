@@ -7,4 +7,6 @@ export const arianaGrandeEveryDayMoreWicked = {
   title: "Every Day More Wicked",
   artist: "artist/ariana-grande",
   performed: true,
+  createdAt: "2026-09-19T02:12:47.928Z",
+  updatedAt: "2026-09-19T02:13:10.000Z",
 } as const satisfies Song

@@ -15,4 +15,6 @@ export const auroraLetMeHealYou = {
   title: "Let Me Heal You",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T16:56:52.723Z",
+  updatedAt: "2026-09-19T16:57:09.000Z",
 } as const satisfies Song

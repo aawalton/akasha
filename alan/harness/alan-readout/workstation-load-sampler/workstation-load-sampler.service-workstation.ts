@@ -39,4 +39,6 @@ export const workstationLoadSampler = {
       statement: "No secret is needed, since nothing here is carried off the workstation.",
     },
   ],
+  createdAt: "2026-09-14T14:54:10.609Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

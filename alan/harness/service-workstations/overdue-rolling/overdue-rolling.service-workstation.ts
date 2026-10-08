@@ -25,4 +25,6 @@ export const overdueRolling = {
       statement: "A run missed while the workstation was off runs when the workstation is back.",
     },
   ],
+  createdAt: "2026-09-07T00:52:10.291Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

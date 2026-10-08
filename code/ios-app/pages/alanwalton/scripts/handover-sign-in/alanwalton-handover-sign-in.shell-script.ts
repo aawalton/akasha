@@ -34,4 +34,6 @@ export const alanwaltonHandoverSignIn = {
       statement: "A callback carrying no code is answered as a refusal.",
     },
   ],
+  createdAt: "2026-09-20T02:05:00.492Z",
+  updatedAt: "2026-09-20T02:11:28.000Z",
 } as const satisfies ShellScript

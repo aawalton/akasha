@@ -22,4 +22,6 @@ export const nightlyChapterWriting = {
       statement: "A run missed while the workstation was off runs when the workstation is back.",
     },
   ],
+  createdAt: "2026-09-28T20:02:27.956Z",
+  updatedAt: "2026-09-28T20:02:40.000Z",
 } as const satisfies ServiceWorkstation

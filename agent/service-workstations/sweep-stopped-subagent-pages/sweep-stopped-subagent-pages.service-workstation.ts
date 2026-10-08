@@ -72,4 +72,6 @@ export const sweepStoppedSubagentPages = {
       statement: "How often a tick runs bounds how long a stopped subagent's row stays up.",
     },
   ],
+  createdAt: "2026-09-25T14:25:08.157Z",
+  updatedAt: "2026-09-25T14:25:18.000Z",
 } as const satisfies ServiceWorkstation

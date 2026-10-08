@@ -19,4 +19,6 @@ export const deployFunctions = {
     },
   ],
   scripting: {},
+  createdAt: "2026-09-03T18:28:18.960Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

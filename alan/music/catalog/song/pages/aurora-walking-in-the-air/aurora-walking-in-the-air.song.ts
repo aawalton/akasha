@@ -19,4 +19,6 @@ export const auroraWalkingInTheAir = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:32:17.161Z",
+  updatedAt: "2026-09-19T17:55:30.000Z",
 } as const satisfies Song

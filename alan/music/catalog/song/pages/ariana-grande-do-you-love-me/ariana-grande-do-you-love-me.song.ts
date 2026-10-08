@@ -15,4 +15,6 @@ export const arianaGrandeDoYouLoveMe = {
   title: "Do You Love Me",
   artist: "artist/ariana-grande",
   performed: true,
+  createdAt: "2026-06-08T01:37:28.401Z",
+  updatedAt: "2026-09-19T16:44:14.000Z",
 } as const satisfies Song

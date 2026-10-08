@@ -7,4 +7,6 @@ export const auroraInvisibleWounds = {
   title: "Invisible Wounds",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T02:13:46.526Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

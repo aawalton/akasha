@@ -84,4 +84,6 @@ export const shellConfinement = {
     },
   ],
   linkedAt: "~/.local/state/akasha/shell-confinement",
+  createdAt: "2026-09-25T16:29:16.251Z",
+  updatedAt: "2026-10-02T21:03:55.000Z",
 } as const satisfies ShellScript

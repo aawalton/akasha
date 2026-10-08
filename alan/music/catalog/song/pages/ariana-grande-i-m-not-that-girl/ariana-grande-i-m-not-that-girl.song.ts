@@ -18,4 +18,6 @@ export const arianaGrandeIMNotThatGirl = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T01:37:34.852Z",
+  updatedAt: "2026-09-19T16:44:14.000Z",
 } as const satisfies Song

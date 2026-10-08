@@ -13,4 +13,6 @@ export const attributesRelayService = {
     startTimeoutSeconds: 120,
     catchUp: false,
   },
+  createdAt: "2026-09-03T18:14:43.608Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

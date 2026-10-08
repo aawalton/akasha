@@ -24,4 +24,6 @@ export const alanwaltonWebLanding = {
       text: "- [About](/about)\n- [Services](/services)\n- [Messaging & SMS opt-in](/sms)\n- [Contact](/contact)\n- [Privacy](/privacy)\n- [Terms](/terms)",
     },
   ],
+  createdAt: "2026-09-24T23:15:47.918Z",
+  updatedAt: "2026-09-27T14:07:30.000Z",
 } as const satisfies SiteDocument

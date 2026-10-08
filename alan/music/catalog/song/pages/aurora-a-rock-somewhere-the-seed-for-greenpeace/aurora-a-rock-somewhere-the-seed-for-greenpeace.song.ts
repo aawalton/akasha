@@ -7,4 +7,6 @@ export const auroraARockSomewhereTheSeedForGreenpeace = {
   title: "A Rock Somewhere / The Seed - For Greenpeace",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T02:12:58.511Z",
+  updatedAt: "2026-09-19T02:13:10.000Z",
 } as const satisfies Song

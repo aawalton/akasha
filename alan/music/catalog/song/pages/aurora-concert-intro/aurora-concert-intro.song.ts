@@ -7,4 +7,6 @@ export const auroraConcertIntro = {
   title: "Concert Intro",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T02:13:36.794Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

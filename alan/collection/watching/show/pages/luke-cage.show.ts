@@ -19,4 +19,6 @@ export const lukeCage = {
       lastSyncedAt: "2025-10-01",
     },
   ],
+  createdAt: "2026-09-03T16:03:14.354Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Show

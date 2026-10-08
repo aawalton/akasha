@@ -18,4 +18,6 @@ export const swordArtOnline = {
     { source: "tmdb", externalId: "45782", externalLink: "https://www.themoviedb.org/tv/45782" },
   ],
   imdbId: "tt2250192",
+  createdAt: "2026-06-07T22:44:35.733Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Show

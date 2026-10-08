@@ -21,4 +21,6 @@ export const criminalMinds = {
       lastSyncedAt: "2025-12-08",
     },
   ],
+  createdAt: "2026-09-03T16:03:14.353Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Show

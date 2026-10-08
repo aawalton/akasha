@@ -15,4 +15,6 @@ export const auroraLearningToBreathe = {
   title: "Learning to Breathe",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-06-08T00:35:01.731Z",
+  updatedAt: "2026-09-19T16:57:09.000Z",
 } as const satisfies Song

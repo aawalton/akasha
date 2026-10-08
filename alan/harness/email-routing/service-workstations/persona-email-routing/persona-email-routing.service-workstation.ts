@@ -31,4 +31,6 @@ export const personaEmailRouting = {
       statement: "A run over a zone already in step writes nothing, so a daily run costs one read.",
     },
   ],
+  createdAt: "2026-09-14T18:56:40.275Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

@@ -36,4 +36,6 @@ export const inferenceDeploying = {
         "A tick with every inference service up to date puts nothing up, so that is no loop without end.",
     },
   ],
+  createdAt: "2026-09-13T13:56:35.308Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

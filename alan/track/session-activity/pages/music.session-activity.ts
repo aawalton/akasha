@@ -6,4 +6,6 @@ export const music = {
   slug: "music",
   title: "Music",
   defaultDifficulty: 0,
+  createdAt: "2026-09-03T16:27:20.175Z",
+  updatedAt: "2026-09-16T14:19:27.000Z",
 } as const satisfies SessionActivity

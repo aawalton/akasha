@@ -13,4 +13,6 @@ export const sleepRelayService = {
     startTimeoutSeconds: 60,
     catchUp: false,
   },
+  createdAt: "2026-09-02T12:38:40.780Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

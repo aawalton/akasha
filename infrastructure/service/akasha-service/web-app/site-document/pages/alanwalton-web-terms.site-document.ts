@@ -49,4 +49,6 @@ export const alanwaltonWebTerms = {
       text: "Phone numbers and message content are used only to provide the service and are not sold or shared with third parties. No mobile information will be sold or shared with third parties for promotional or marketing purposes. See the full [Privacy Policy](/privacy).",
     },
   ],
+  createdAt: "2026-09-24T23:06:41.406Z",
+  updatedAt: "2026-09-27T14:07:30.000Z",
 } as const satisfies SiteDocument

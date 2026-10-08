@@ -15,4 +15,6 @@ export const auroraSilentSky = {
   title: "Silent Sky",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-06-08T00:33:19.409Z",
+  updatedAt: "2026-09-19T16:57:09.000Z",
 } as const satisfies Song

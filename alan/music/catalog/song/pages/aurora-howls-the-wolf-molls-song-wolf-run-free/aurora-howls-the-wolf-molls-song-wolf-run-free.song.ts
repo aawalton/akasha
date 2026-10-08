@@ -7,4 +7,6 @@ export const auroraHowlsTheWolfMollsSongWolfRunFree = {
   title: "Howls the Wolf (Moll's Song - Wolf Run Free)",
   artist: "artist/aurora",
   performed: true,
+  createdAt: "2026-09-19T02:13:49.711Z",
+  updatedAt: "2026-09-19T02:15:26.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const arianaGrandeAsLongAsYoureMine = {
   title: "As Long As You’re Mine",
   artist: "artist/ariana-grande",
   performed: true,
+  createdAt: "2026-09-19T02:12:46.677Z",
+  updatedAt: "2026-09-19T02:13:10.000Z",
 } as const satisfies Song

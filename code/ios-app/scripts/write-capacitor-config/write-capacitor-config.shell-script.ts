@@ -22,4 +22,6 @@ export const writeCapacitorConfig = {
         "The plugins an app takes are the ones its page names rather than the root's whole list.",
     },
   ],
+  createdAt: "2026-08-31T19:04:00.270Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

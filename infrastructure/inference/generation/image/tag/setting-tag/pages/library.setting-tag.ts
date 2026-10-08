@@ -4,4 +4,6 @@ export const library = {
   id: "01a0e37b-ddee-7f15-a8b1-bcf01f8e3c95",
   type: "page-type/setting-tag",
   slug: "library",
+  createdAt: "2026-09-27T15:29:00.910Z",
+  updatedAt: "2026-09-27T15:29:04.000Z",
 } as const satisfies SettingTag

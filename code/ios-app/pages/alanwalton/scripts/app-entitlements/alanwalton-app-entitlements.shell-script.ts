@@ -7,4 +7,6 @@ export const alanwaltonAppEntitlements = {
   definition: "the entitlements signing Alan's app",
   shell: "sh",
   sourced: true,
+  createdAt: "2026-08-31T19:46:32.404Z",
+  updatedAt: "2026-09-22T13:55:14.000Z",
 } as const satisfies ShellScript

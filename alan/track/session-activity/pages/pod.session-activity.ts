@@ -6,4 +6,6 @@ export const pod = {
   slug: "pod",
   title: "Pod",
   defaultDifficulty: 0,
+  createdAt: "2026-08-07T15:21:49.245Z",
+  updatedAt: "2026-09-16T14:19:27.000Z",
 } as const satisfies SessionActivity

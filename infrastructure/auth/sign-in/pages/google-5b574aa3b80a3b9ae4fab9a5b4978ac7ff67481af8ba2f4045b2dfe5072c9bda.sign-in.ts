@@ -8,4 +8,6 @@ export const google5b574aa3b80a3b9ae4fab9a5b4978ac7ff67481af8ba2f4045b2dfe5072c9
   subjectHash: "5b574aa3b80a3b9ae4fab9a5b4978ac7ff67481af8ba2f4045b2dfe5072c9bda",
   contributor:
     "contributor/contributor-d1c207e8a188aad73fd5445fcc507f0810dd7954d3f674e0d682669b944df3d1",
+  createdAt: "2026-09-24T22:22:48.835Z",
+  updatedAt: "2026-09-24T22:22:50.000Z",
 } as const satisfies SignIn

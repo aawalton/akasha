@@ -26,4 +26,6 @@ export const sweepCostRecords = {
       statement: "The memory reaper stops what it takes before killing it, which is what is heard.",
     },
   ],
+  createdAt: "2026-09-13T14:38:31.666Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

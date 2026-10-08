@@ -7,4 +7,6 @@ export const alanwaltonAtlasWebMap = {
   title: "Map",
   webApp: "web-app/alanwalton-atlas-web",
   urlPath: "map",
+  createdAt: "2026-09-27T12:27:02.278Z",
+  updatedAt: "2026-09-27T12:27:05.000Z",
 } as const satisfies SiteDocument

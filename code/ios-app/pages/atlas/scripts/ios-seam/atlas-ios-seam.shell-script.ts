@@ -8,4 +8,6 @@ export const atlasIosSeam = {
   shell: "sh",
   sourced: false,
   scripting: {},
+  createdAt: "2026-09-03T03:43:46.771Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

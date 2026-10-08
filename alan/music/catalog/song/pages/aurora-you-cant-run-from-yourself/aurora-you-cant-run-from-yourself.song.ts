@@ -19,4 +19,6 @@ export const auroraYouCantRunFromYourself = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T16:56:54.703Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

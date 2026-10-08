@@ -14,4 +14,6 @@ export const kokoro = {
   port: 8083,
   internalPort: 18083,
   lifecycle: "service-lifecycle/pool",
+  createdAt: "2026-09-11T13:22:34.660Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceInference

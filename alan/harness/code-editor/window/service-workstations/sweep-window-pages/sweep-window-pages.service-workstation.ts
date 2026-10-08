@@ -58,4 +58,6 @@ export const sweepWindowPages = {
       statement: "No page's age is read to decide what goes.",
     },
   ],
+  createdAt: "2026-09-14T19:30:51.349Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

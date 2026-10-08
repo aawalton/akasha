@@ -7,4 +7,6 @@ export const mlxAudioProvision = {
   definition: "an mlx-audio speech service's conda environment",
   shell: "sh",
   sourced: false,
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-22T13:59:20.000Z",
 } as const satisfies ShellScript

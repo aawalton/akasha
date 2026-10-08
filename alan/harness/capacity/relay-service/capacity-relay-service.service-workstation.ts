@@ -13,4 +13,6 @@ export const capacityRelayService = {
     startTimeoutSeconds: 60,
     catchUp: false,
   },
+  createdAt: "2026-09-02T12:55:32.943Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

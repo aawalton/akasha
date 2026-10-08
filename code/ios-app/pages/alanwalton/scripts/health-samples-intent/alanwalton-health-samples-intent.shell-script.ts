@@ -8,4 +8,6 @@ export const alanwaltonHealthSamplesIntent = {
   shell: "sh",
   sourced: true,
   scripting: {},
+  createdAt: "2026-08-31T19:46:32.410Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

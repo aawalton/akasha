@@ -18,4 +18,6 @@ export const arianaGrandeNoOneMournsTheWicked = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T01:44:20.950Z",
+  updatedAt: "2026-09-19T16:44:14.000Z",
 } as const satisfies Song

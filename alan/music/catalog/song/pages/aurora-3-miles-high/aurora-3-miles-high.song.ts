@@ -16,4 +16,6 @@ export const aurora3MilesHigh = {
   artist: "artist/aurora",
   performed: false,
   written: "collab",
+  createdAt: "2026-06-08T00:35:11.768Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

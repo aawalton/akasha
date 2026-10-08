@@ -18,4 +18,6 @@ export const repoRoots = {
       statement: "No count of folders is written between this script and that root.",
     },
   ],
+  createdAt: "2026-09-03T21:09:52.613Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ShellScript

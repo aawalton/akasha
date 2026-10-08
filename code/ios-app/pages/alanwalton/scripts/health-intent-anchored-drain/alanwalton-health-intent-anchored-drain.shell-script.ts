@@ -44,4 +44,6 @@ export const alanwaltonHealthIntentAnchoredDrain = {
       statement: "Nothing new to send is never reported on the anchored read's word alone.",
     },
   ],
+  createdAt: "2026-08-31T19:46:32.409Z",
+  updatedAt: "2026-09-22T10:05:48.000Z",
 } as const satisfies ShellScript

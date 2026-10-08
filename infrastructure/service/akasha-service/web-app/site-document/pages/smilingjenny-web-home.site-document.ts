@@ -25,4 +25,6 @@ export const smilingjennyWebHome = {
       title: "Something went wrong",
     },
   ],
+  createdAt: "2026-09-27T11:36:46.909Z",
+  updatedAt: "2026-09-27T14:05:15.000Z",
 } as const satisfies SiteDocument

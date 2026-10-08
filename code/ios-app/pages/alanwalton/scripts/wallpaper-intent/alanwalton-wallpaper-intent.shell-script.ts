@@ -7,4 +7,6 @@ export const alanwaltonWallpaperIntent = {
   definition: "the Swift of the Get Wallpaper app intent",
   shell: "sh",
   sourced: true,
+  createdAt: "2026-08-31T19:46:32.415Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

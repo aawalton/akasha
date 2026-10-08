@@ -7,4 +7,6 @@ export const adeleAllNightParkingInterlude = {
   title: "All Night Parking Interlude",
   artist: "artist/adele",
   performed: true,
+  createdAt: "2026-09-24T20:46:49.944Z",
+  updatedAt: "2026-09-24T20:46:51.000Z",
 } as const satisfies Song

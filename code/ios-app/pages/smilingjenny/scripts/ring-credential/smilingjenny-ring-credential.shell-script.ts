@@ -7,4 +7,6 @@ export const smilingjennyRingCredential = {
   definition: "the credential Jenny's ring reads its route with, baked into her build",
   shell: "sh",
   sourced: true,
+  createdAt: "2026-08-31T19:07:52.881Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript

@@ -13,4 +13,6 @@ export const safetyRelayService = {
     startTimeoutSeconds: 60,
     catchUp: false,
   },
+  createdAt: "2026-09-01T23:28:03.616Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceWorkstation

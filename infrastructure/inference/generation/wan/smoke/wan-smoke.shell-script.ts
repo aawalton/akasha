@@ -7,4 +7,6 @@ export const wanSmoke = {
   definition: "proof the Wan image reaches the card and loads the nodes a run needs",
   shell: "sh",
   sourced: false,
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-15T17:03:01.000Z",
 } as const satisfies ShellScript
