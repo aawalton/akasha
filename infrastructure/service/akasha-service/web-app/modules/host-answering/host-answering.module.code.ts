@@ -1,4 +1,7 @@
-import { discoverTunnelRoutes } from "akasha/infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"
+import {
+  type DiscoveredRoute,
+  discoverTunnelRoutes,
+} from "akasha/infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"
 import {
   deployableNamed,
   WEB_APP_TYPE,
@@ -36,8 +39,7 @@ function aimsAt(service: string, host: string): boolean {
   return at >= 0 && HOST_ENDS.has(service[at + opened.length])
 }
 
-function servedIn(root: string): readonly Served[] {
-  const routes = discoverTunnelRoutes(root)
+function servedIn(root: string, routes: readonly DiscoveredRoute[]): readonly Served[] {
   const found: Served[] = []
   for (const one of valuesOfType(root, WEB_APP_TYPE)) {
     const said = partedIn(one.path)
@@ -85,10 +87,11 @@ async function brokenOf(one: Served, fetched: Fetched): Promise<string | null> {
 
 export async function webAppHealthFor(
   root: string,
-  fetched: Fetched = fetching
+  fetched: Fetched = fetching,
+  routes: readonly DiscoveredRoute[] = discoverTunnelRoutes(root)
 ): Promise<readonly Verdict[]> {
   return Promise.all(
-    servedIn(root).map(async (one) => ({
+    servedIn(root, routes).map(async (one) => ({
       slug: one.slug,
       pagePath: one.pagePath,
       broken: await brokenOf(one, fetched),

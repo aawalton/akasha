@@ -1,8 +1,11 @@
 import { expect, test } from "bun:test"
+import { discoverTunnelRoutes } from "akasha/infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"
 import {
   reachedBrokenIn,
   webAppHealthFor,
 } from "akasha/infrastructure/service/akasha-service/web-app/modules/host-answering/host-answering.module.code.ts"
+
+const ROUTER_APP = "router-app"
 
 test("a host name answering below 500 is well, a redirect among them", () => {
   expect(reachedBrokenIn("tempereso.com", { status: 200 })).toBe(null)
@@ -26,14 +29,19 @@ test("each web app is asked at once for every host name routed to its workload, 
   const asked: string[] = []
   let open = 0
   let most = 0
-  const health = await webAppHealthFor(process.cwd(), async (url) => {
-    asked.push(url)
-    open += 1
-    most = Math.max(most, open)
-    await Bun.sleep(5)
-    open -= 1
-    return url === "https://www.tempereso.com/" ? { status: 530 } : { status: 200 }
-  })
+  const root = process.cwd()
+  const health = await webAppHealthFor(
+    root,
+    async (url) => {
+      asked.push(url)
+      open += 1
+      most = Math.max(most, open)
+      await Bun.sleep(5)
+      open -= 1
+      return url === "https://www.tempereso.com/" ? { status: 530 } : { status: 200 }
+    },
+    discoverTunnelRoutes(root, [ROUTER_APP])
+  )
   expect(most).toBe(asked.length)
   const temper = health.find((one) => one.slug === "temper-web")
   expect(temper?.pagePath).toEndWith("temper-web.web-app.ts")

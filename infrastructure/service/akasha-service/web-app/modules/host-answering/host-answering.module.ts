@@ -23,6 +23,11 @@ export const hostAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The routes are every route the checkout states, unless a caller hands in its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each host name is asked for its root once, over HTTPS, following no redirect.",
     },
     {
@@ -64,5 +69,5 @@ export const hostAnswering = {
     },
   ],
   createdAt: "2026-09-25T16:37:30.393Z",
-  updatedAt: "2026-09-27T14:23:53.000Z",
+  updatedAt: "2026-10-08T18:45:48.487Z",
 } as const satisfies Module
