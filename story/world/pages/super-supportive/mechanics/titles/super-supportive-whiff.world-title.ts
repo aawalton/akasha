@@ -8,4 +8,6 @@ export const superSupportiveWhiff = {
   world: "world/super-supportive",
   aliases: ["whiffs"],
   description: "A slang name for a child of Avowed who is never selected.",
+  createdAt: "2026-09-28T21:40:07.790Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldTitle

@@ -7,4 +7,6 @@ export const superSupportiveInstructor = {
   title: "Instructor",
   world: "world/super-supportive",
   description: "The title for teachers.",
+  createdAt: "2026-09-28T21:34:18.084Z",
+  updatedAt: "2026-09-28T21:34:20.000Z",
 } as const satisfies WorldTitle

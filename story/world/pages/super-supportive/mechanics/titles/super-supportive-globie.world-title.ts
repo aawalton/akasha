@@ -8,4 +8,6 @@ export const superSupportiveGlobie = {
   world: "world/super-supportive",
   aliases: ["globies", "globals"],
   description: "An Anesidoran name for an Avowed from the rest of Earth, said fondly or angrily.",
+  createdAt: "2026-09-28T21:44:15.781Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldTitle

@@ -8,4 +8,6 @@ export const superSupportiveQuaternary = {
   world: "world/super-supportive",
   aliases: ["Fourth General"],
   description: "The title of the fourth knight in rank.",
+  createdAt: "2026-09-28T21:34:18.084Z",
+  updatedAt: "2026-09-28T21:34:20.000Z",
 } as const satisfies WorldTitle

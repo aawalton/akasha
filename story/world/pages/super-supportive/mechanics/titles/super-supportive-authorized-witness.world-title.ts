@@ -9,4 +9,6 @@ export const superSupportiveAuthorizedWitness = {
   aliases: ["approved witness", "Authorized Witness privilege"],
   description:
     "A person the System approves to vouch for selectees in class trades, for certain System actions and for legal contracts.",
+  createdAt: "2026-09-28T21:34:18.083Z",
+  updatedAt: "2026-09-28T21:34:20.000Z",
 } as const satisfies WorldTitle

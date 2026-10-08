@@ -8,4 +8,6 @@ export const superSupportiveHyperbole = {
   world: "world/super-supportive",
   description:
     "The nickname for an Avowed the System has ranked up past S to a rank number such as 1.",
+  createdAt: "2026-09-28T21:34:18.084Z",
+  updatedAt: "2026-09-28T21:53:04.000Z",
 } as const satisfies WorldTitle

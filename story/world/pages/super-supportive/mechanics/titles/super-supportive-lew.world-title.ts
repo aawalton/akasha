@@ -8,4 +8,6 @@ export const superSupportiveLew = {
   world: "world/super-supportive",
   aliases: ["Longterm Earth-based Worker"],
   description: "A Wright who does power work for Artonans while still in high school.",
+  createdAt: "2026-09-28T21:40:07.789Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldTitle

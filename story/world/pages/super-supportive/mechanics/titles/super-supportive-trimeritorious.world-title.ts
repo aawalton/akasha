@@ -8,4 +8,6 @@ export const superSupportiveTrimeritorious = {
   world: "world/super-supportive",
   aliases: ["title of distinguishment"],
   description: "A high Artonan title a committee can award a wizard for contributions.",
+  createdAt: "2026-09-28T21:44:48.770Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldTitle

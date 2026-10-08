@@ -8,4 +8,6 @@ export const otherwhereIiVersatile = {
   world: "world/labyrinth-of-the-mad-god",
   story: "story-played/otherwhere-ii",
   description: "A geneline trait: a point more in every attribute and a free ability slot.",
+  createdAt: "2026-09-28T20:04:09.053Z",
+  updatedAt: "2026-09-28T22:39:05.000Z",
 } as const satisfies WorldTrait

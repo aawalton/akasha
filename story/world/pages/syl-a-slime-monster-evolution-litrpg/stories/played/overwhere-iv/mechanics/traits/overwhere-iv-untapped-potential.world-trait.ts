@@ -8,4 +8,6 @@ export const overwhereIvUntappedPotential = {
   world: "world/syl-a-slime-monster-evolution-litrpg",
   story: "story-played/overwhere-iv",
   description: "The human racial trait: new traits and skills come more quickly.",
+  createdAt: "2026-09-29T12:43:26.647Z",
+  updatedAt: "2026-09-29T12:43:29.000Z",
 } as const satisfies WorldTrait

@@ -9,4 +9,6 @@ export const superSupportiveDeclared = {
   aliases: ["declared", "knightling"],
   description:
     "The title of someone who has chosen to become a knight and passed the oath ceremony but not yet had a first binding.",
+  createdAt: "2026-09-28T21:43:55.444Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldTitle

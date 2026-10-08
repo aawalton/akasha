@@ -8,4 +8,6 @@ export const superSupportiveExecutioner = {
   world: "world/super-supportive",
   aliases: ["higher executioner", "Superior Executioner"],
   description: "An Artonan official who handles crimes committed by wizards.",
+  createdAt: "2026-09-28T21:44:48.770Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldTitle

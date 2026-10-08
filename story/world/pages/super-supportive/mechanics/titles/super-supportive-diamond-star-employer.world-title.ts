@@ -8,4 +8,6 @@ export const superSupportiveDiamondStarEmployer = {
   world: "world/super-supportive",
   description:
     "A Rabbit business program status for employers who give new Rabbits part-time jobs.",
+  createdAt: "2026-09-28T21:45:47.111Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldTitle

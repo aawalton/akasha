@@ -6,4 +6,6 @@ export const stepsOfLight = {
   slug: "steps-of-light",
   title: "Steps of Light",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:06:43.427Z",
+  updatedAt: "2026-09-19T16:24:51.000Z",
 } as const satisfies WorldSpell

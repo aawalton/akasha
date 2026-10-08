@@ -6,4 +6,6 @@ export const rheirgestSChampion = {
   slug: "rheirgest-s-champion",
   title: "Rheirgest’s Champion",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:40:23.806Z",
+  updatedAt: "2026-09-19T16:20:20.000Z",
 } as const satisfies WorldTitle

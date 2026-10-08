@@ -8,4 +8,6 @@ export const superSupportiveVotary = {
   world: "world/super-supportive",
   aliases: ["votaryship"],
   description: "A wizard who serves as assistant and dedicated caster, often to a single knight.",
+  createdAt: "2026-09-28T21:40:07.790Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldTitle

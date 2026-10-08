@@ -8,4 +8,6 @@ export const stoneWall = {
   world: "world/the-wandering-inn",
   appearanceCount: 5,
   references: "jsonl",
+  createdAt: "2026-09-03T04:06:43.427Z",
+  updatedAt: "2026-09-22T13:35:05.000Z",
 } as const satisfies WorldSpell

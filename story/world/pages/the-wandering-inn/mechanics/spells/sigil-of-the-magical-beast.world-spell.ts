@@ -6,4 +6,6 @@ export const sigilOfTheMagicalBeast = {
   slug: "sigil-of-the-magical-beast",
   title: "Sigil of the Magical Beast",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:06:43.424Z",
+  updatedAt: "2026-09-19T16:24:15.000Z",
 } as const satisfies WorldSpell

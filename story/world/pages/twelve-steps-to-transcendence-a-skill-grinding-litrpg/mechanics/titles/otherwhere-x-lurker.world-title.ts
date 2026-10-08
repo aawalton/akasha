@@ -7,4 +7,6 @@ export const otherwhereXLurker = {
   title: "Lurker",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A title that hides its holder in shadow.",
+  createdAt: "2026-09-29T00:05:15.690Z",
+  updatedAt: "2026-09-29T01:43:00.000Z",
 } as const satisfies WorldTitle

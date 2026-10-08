@@ -9,4 +9,6 @@ export const otherwhereIiGiftOfTongues = {
   story: "story-played/otherwhere-ii",
   description:
     "A geneline trait: understanding and speaking the tongue of every intelligent creature.",
+  createdAt: "2026-09-28T20:04:09.053Z",
+  updatedAt: "2026-09-28T22:39:05.000Z",
 } as const satisfies WorldTrait

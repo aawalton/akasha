@@ -8,4 +8,6 @@ export const waterResistance = {
   world: "world/the-wandering-inn",
   appearanceCount: 2,
   references: "jsonl",
+  createdAt: "2026-09-03T04:06:43.433Z",
+  updatedAt: "2026-09-22T13:35:05.000Z",
 } as const satisfies WorldSpell

@@ -9,4 +9,6 @@ export const superSupportiveMaster = {
   aliases: ["marks of mastery"],
   description:
     "An Artonan title for recognised mastery of a field, shown by marks worn on one's garb.",
+  createdAt: "2026-09-28T21:44:48.770Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldTitle

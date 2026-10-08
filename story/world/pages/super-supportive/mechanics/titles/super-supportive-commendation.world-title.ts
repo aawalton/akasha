@@ -8,4 +8,6 @@ export const superSupportiveCommendation = {
   world: "world/super-supportive",
   aliases: ["commendation", "star"],
   description: "A commendation shown as a star next to an Avowed's level.",
+  createdAt: "2026-09-28T21:34:18.083Z",
+  updatedAt: "2026-09-28T21:34:20.000Z",
 } as const satisfies WorldTitle

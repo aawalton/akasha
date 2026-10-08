@@ -8,4 +8,6 @@ export const localLandmark = {
   world: "world/the-wandering-inn",
   appearanceCount: 1,
   references: "jsonl",
+  createdAt: "2026-09-03T03:40:23.806Z",
+  updatedAt: "2026-09-22T13:35:08.000Z",
 } as const satisfies WorldTitle

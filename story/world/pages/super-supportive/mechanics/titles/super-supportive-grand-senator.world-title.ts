@@ -8,4 +8,6 @@ export const superSupportiveGrandSenator = {
   world: "world/super-supportive",
   description:
     "The title of a wizard whose collected voting power crosses a minimum threshold, giving a seat in the Grand Senate.",
+  createdAt: "2026-09-28T21:44:48.770Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldTitle

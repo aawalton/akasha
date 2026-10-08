@@ -6,4 +6,6 @@ export const aGlimpseOfMagicSTruth = {
   slug: "a-glimpse-of-magic-s-truth",
   title: "A Glimpse of Magic’s Truth",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:40:23.804Z",
+  updatedAt: "2026-09-19T16:20:20.000Z",
 } as const satisfies WorldTitle

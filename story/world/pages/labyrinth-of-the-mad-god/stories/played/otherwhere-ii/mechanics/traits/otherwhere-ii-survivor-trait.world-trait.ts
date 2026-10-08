@@ -8,4 +8,6 @@ export const otherwhereIiSurvivorTrait = {
   world: "world/labyrinth-of-the-mad-god",
   story: "story-played/otherwhere-ii",
   description: "A class trait: the body needs less food, water, air and sleep.",
+  createdAt: "2026-09-28T20:04:09.053Z",
+  updatedAt: "2026-09-28T22:30:51.000Z",
 } as const satisfies WorldTrait

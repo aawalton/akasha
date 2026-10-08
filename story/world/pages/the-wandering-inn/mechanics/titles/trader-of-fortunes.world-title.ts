@@ -6,4 +6,6 @@ export const traderOfFortunes = {
   slug: "trader-of-fortunes",
   title: "Trader of Fortunes",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:40:23.807Z",
+  updatedAt: "2026-09-19T16:20:20.000Z",
 } as const satisfies WorldTitle

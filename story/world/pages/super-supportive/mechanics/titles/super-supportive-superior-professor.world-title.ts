@@ -7,4 +7,6 @@ export const superSupportiveSuperiorProfessor = {
   title: "Superior Professor",
   world: "world/super-supportive",
   description: "An Artonan academic title.",
+  createdAt: "2026-09-28T21:34:18.084Z",
+  updatedAt: "2026-09-28T21:34:20.000Z",
 } as const satisfies WorldTitle

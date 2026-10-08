@@ -7,4 +7,6 @@ export const superSupportiveGeneral = {
   title: "General",
   world: "world/super-supportive",
   description: "A title given to knights, usually numbered.",
+  createdAt: "2026-09-28T21:34:18.084Z",
+  updatedAt: "2026-09-28T21:53:04.000Z",
 } as const satisfies WorldTitle

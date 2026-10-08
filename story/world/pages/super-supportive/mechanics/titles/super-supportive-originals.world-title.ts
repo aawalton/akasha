@@ -8,4 +8,6 @@ export const superSupportiveOriginals = {
   world: "world/super-supportive",
   aliases: ["first generation", "original Avowed"],
   description: "A name for the first generation of Earth's Avowed.",
+  createdAt: "2026-09-28T21:40:07.789Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldTitle

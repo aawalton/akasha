@@ -10,4 +10,6 @@ export const superSupportiveAzureRabbit = {
   aliases: ["movement trait"],
   description:
     "A Rabbit trait that coats its user in magic, turning part of gravity into force when they kick off the ground.",
+  createdAt: "2026-09-28T21:34:06.324Z",
+  updatedAt: "2026-09-28T21:34:09.000Z",
 } as const satisfies WorldTrait

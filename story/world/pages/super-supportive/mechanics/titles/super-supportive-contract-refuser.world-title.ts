@@ -9,4 +9,6 @@ export const superSupportiveContractRefuser = {
   aliases: ["refuser"],
   description:
     "Someone who never agreed to the Contract but has the powers anyway, usually still called Avowed.",
+  createdAt: "2026-09-28T21:34:18.083Z",
+  updatedAt: "2026-09-28T21:34:20.000Z",
 } as const satisfies WorldTitle

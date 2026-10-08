@@ -7,4 +7,6 @@ export const superSupportiveEmergencyResponseMerit = {
   title: "Emergency Response Merit",
   world: "world/super-supportive",
   description: "A merit on an Avowed's profile.",
+  createdAt: "2026-09-28T21:34:18.084Z",
+  updatedAt: "2026-09-28T21:34:20.000Z",
 } as const satisfies WorldTitle

@@ -6,4 +6,6 @@ export const discomfiterOfTheGrandDesignOfIsthekenous = {
   slug: "discomfiter-of-the-grand-design-of-isthekenous",
   title: "Discomfiter of the Grand Design of Isthekenous",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:40:23.804Z",
+  updatedAt: "2026-09-19T16:20:20.000Z",
 } as const satisfies WorldTitle

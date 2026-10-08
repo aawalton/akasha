@@ -8,4 +8,6 @@ export const superSupportiveSocialRecommendation = {
   world: "world/super-supportive",
   aliases: ["recommendation"],
   description: "A recommendation listed on an Avowed's real profile.",
+  createdAt: "2026-09-28T21:40:07.789Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldTitle
