@@ -8,7 +8,6 @@ export interface PageResolverEntry {
   title: string
   color?: ColorRuleVariant
   sortOrder?: number
-  createdAt?: number
 }
 
 export interface PageResolverValue {
