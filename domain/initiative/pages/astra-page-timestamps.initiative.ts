@@ -6,12 +6,7 @@ export const astraPageTimestamps = {
   slug: "astra-page-timestamps",
   domain: "page-type/page",
   persona: "persona/astra",
-  intentStack: [
-    {
-      statement:
-        "Every page states the moment it was created and the moment its values last changed.",
-    },
-  ],
-  updatedAt: "2026-10-08T16:19:04.190Z",
+  intentStack: [],
+  updatedAt: "2026-10-08T16:49:17.205Z",
   createdAt: "2026-10-08T14:35:51.273Z",
 } as const satisfies Initiative
