@@ -9,4 +9,6 @@ export const audio9d9052ae9594796b = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "I don't know. Leeks. The recipe knew. I just did what it said.",
+  createdAt: "2026-09-21T23:31:01.932Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

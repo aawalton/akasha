@@ -5,4 +5,6 @@ export const audio9063312bd5072a84 = {
   type: "page-type/audio",
   slug: "audio-9063312bd5072a84",
   title: "Ali voice reference",
+  createdAt: "2026-09-21T23:35:48.146Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

@@ -9,4 +9,6 @@ export const audio7304363ce08931b5 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "That's the hour doing that. Best light of the whole day, right here at the end of it. Nothing left to do but sit in it a while.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

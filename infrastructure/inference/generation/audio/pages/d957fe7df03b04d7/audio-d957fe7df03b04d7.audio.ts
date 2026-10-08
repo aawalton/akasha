@@ -9,4 +9,6 @@ export const audioD957fe7df03b04d7 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The Dragonlord laughed and drummed his claws on the ground, the broken tips striking sparks from stone. Then he shrugged. “There is no grand ceremony I have, and to be frank, I’m tired of my own voice. I have a gift for you, if you will take it. I hope you will.” He pushed something he’d been hiding under one claw forwards. It rolled to a stop, and the Wyvern Lord blinked at it. It was…an orb. The darndest thing, though. The Wyvern Lord had once collected round pieces of clear ice that contained cool things, or tossed them down the mountain and let them become giant avalanches or snowballs…but this was the most fascinating marble he’d ever seen in his life. There was something in it. The Wyvern Lord waddled forwards and pondered the orb. Then he got too close, and his nose touched what should have been the glass exterior and—",
+  createdAt: "2026-09-21T23:31:01.932Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

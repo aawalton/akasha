@@ -11,4 +11,6 @@ export const audio9beb72c2d85f3920 = {
   text: "There — do you see it now? One wrong pixel and the whole surface aches. Bring it here — we will gild it till it gleams.",
   instruct:
     "A clear, bell-bright young Welsh woman in her early twenties, moderate Welsh lilt, crisp precise articulation on every consonant, poised and quietly delighted.",
+  createdAt: "2026-09-21T23:30:52.344Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

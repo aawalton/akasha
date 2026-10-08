@@ -11,4 +11,6 @@ export const audioDbe3aaed10dad46c = {
   text: "There — do you see it now? One wrong pixel and the whole surface aches. Bring it here — we will gild it till it gleams.",
   instruct:
     "A bright, playful young Welsh woman of about twenty, with an unmistakable musical Welsh lilt, lively pace, light and cheerful.",
+  createdAt: "2026-09-21T23:30:52.344Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

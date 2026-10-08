@@ -9,4 +9,6 @@ export const audio7f490718e5638ab9 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Well, then, I must make my defence, and endeavour to clear away in a short time, a slander which has lasted a long time. May I succeed, if to succeed be for my good and yours, or likely to avail me in my cause! The task is not an easy one; I quite understand the nature of it. And so leaving the event with God, in obedience to the law I will now make my defence.",
+  createdAt: "2026-09-21T23:32:14.097Z",
+  updatedAt: "2026-09-21T23:32:15.000Z",
 } as const satisfies Audio

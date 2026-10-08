@@ -9,4 +9,6 @@ export const audioDac84c71e5c8cf5d = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The lamp on the sideboard was the only light now besides the low one over the stove, and it put a soft yellow across the table and left the corners of the room alone.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

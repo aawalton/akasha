@@ -5,4 +5,6 @@ export const featureApproval = {
   type: "page-type/authority-kind",
   slug: "feature-approval",
   definition: "settling that work asked for is done",
+  createdAt: "2026-08-30T19:37:29.758Z",
+  updatedAt: "2026-09-15T15:52:14.000Z",
 } as const satisfies AuthorityKind

@@ -5,4 +5,6 @@ export const audioCb0f0fbe7034165b = {
   type: "page-type/audio",
   slug: "audio-cb0f0fbe7034165b",
   title: "Atlas voice reference",
+  createdAt: "2026-09-21T23:27:49.828Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

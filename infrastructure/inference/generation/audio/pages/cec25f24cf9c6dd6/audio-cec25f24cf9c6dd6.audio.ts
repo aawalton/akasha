@@ -9,4 +9,6 @@ export const audioCec25f24cf9c6dd6 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "And I found three cans of the same beans hiding behind everything, which is where the bean salad came from. So thank the pantry for tonight's contribution.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

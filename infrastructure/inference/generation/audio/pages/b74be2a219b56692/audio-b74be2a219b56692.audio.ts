@@ -9,4 +9,6 @@ export const audioB74be2a219b56692 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Well, tonight's chapter of it is in the oven. Y'all save room.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

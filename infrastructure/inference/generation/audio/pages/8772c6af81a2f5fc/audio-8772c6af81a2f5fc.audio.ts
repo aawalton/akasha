@@ -9,4 +9,6 @@ export const audio8772c6af81a2f5fc = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The kitchen was the warmest room in the house now that the evenings had turned.",
+  createdAt: "2026-09-21T23:31:18.017Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

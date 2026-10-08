@@ -9,4 +9,6 @@ export const audioE90546d1f311b719 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Nay; but if they who call themselves friends are good for anything, they will--to be sure they will.",
+  createdAt: "2026-09-21T23:31:57.487Z",
+  updatedAt: "2026-09-21T23:31:59.000Z",
 } as const satisfies Audio

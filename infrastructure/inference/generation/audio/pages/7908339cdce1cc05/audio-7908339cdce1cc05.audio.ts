@@ -9,4 +9,6 @@ export const audio7908339cdce1cc05 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "That's what a table's for, sugar. You cook the dinner so the evening has somewhere soft to land.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

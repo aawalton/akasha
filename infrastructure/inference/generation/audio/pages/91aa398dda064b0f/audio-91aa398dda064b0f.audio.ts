@@ -9,4 +9,6 @@ export const audio91aa398dda064b0f = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Like middle management, yes. I bought two baskets and he approved the transaction personally.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

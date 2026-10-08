@@ -9,4 +9,6 @@ export const audioE97b3b64c4f5d72c = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "I hoped. You can't tell with soup till somebody else eats it.",
+  createdAt: "2026-09-21T23:31:08.599Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

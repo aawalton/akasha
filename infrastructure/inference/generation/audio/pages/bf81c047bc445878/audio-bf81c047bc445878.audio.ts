@@ -5,4 +5,6 @@ export const audioBf81c047bc445878 = {
   type: "page-type/audio",
   slug: "audio-bf81c047bc445878",
   title: "Nova voice reference",
+  createdAt: "2026-09-21T23:35:48.146Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

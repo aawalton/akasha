@@ -9,4 +9,6 @@ export const audioA7eba11e982e7097 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Zadi had the book on her knee under the table, one hand resting on it, not reading, just keeping it there.",
+  createdAt: "2026-09-21T23:31:18.019Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

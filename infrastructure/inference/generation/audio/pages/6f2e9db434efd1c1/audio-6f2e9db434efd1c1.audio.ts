@@ -9,4 +9,6 @@ export const audio6f2e9db434efd1c1 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Socrates: Then, my friend, we must not regard what the many say of us: but what he, the one man who has understanding of just and unjust, will say, and what the truth will say. And therefore you begin in error when you advise that we should regard the opinion of the many about just and unjust, good and evil, honorable and dishonorable.--'Well,' some one will say, 'but the many can kill us.' Crito: Yes, Socrates; that will clearly be the answer. Socrates: And it is true; but still I find with surprise that the old argument is unshaken as ever. And I should like to know whether I may say the same of another proposition--that not life, but a good life, is to be chiefly valued? Crito: Yes, that also remains unshaken. Socrates: And a good life is equivalent to a just and honorable one--that holds also? Crito: Yes, it does.",
+  createdAt: "2026-09-21T23:31:36.841Z",
+  updatedAt: "2026-09-21T23:31:38.000Z",
 } as const satisfies Audio

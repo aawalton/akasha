@@ -9,4 +9,6 @@ export const audioEd0cb0515506670a = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "I love that dog. Someone should write him into a novel. A small, honest novel where nothing bad happens and the peaches are always ripe.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

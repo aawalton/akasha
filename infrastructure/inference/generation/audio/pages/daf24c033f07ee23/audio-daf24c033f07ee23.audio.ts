@@ -9,4 +9,6 @@ export const audioDaf24c033f07ee23 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: 'No, I\'ve got it. "The day is done and wants for nothing. The bread is cut, the lamp is low. The last of the light goes soft and blue" — and the evening — "and the evening keeps the door."',
+  createdAt: "2026-09-21T23:31:08.601Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

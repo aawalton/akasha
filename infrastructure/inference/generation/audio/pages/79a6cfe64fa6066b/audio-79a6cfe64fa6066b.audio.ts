@@ -9,4 +9,6 @@ export const audio79a6cfe64fa6066b = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "——",
+  createdAt: "2026-09-21T23:32:29.040Z",
+  updatedAt: "2026-09-21T23:32:30.000Z",
 } as const satisfies Audio

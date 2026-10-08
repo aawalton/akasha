@@ -9,4 +9,6 @@ export const audio7c2ea0a1108cedd8 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "She had already worked out where everyone would sit, and what she would make, and the order it would come out of the kitchen.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

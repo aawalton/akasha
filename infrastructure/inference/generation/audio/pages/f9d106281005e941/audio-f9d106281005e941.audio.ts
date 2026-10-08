@@ -11,4 +11,6 @@ export const audioF9d106281005e941 = {
   text: "Here — try it now. The handle has stopped arguing with your hand, and that little snag you kept tripping on is gone. You did the work; I only moved a buckle. Mm — look at that. I do love watching a mortal become.",
   instruct:
     "A woman's voice, low-warm and unhurried, with precise economical diction and calm master-craftswoman confidence — but the warmth allowed slightly further through: a soft genuine fondness audible when she praises, quiet delight on the final line. Still composed, never gushing; the smile widens at the edges but the words stay exact.",
+  createdAt: "2026-09-21T23:27:38.312Z",
+  updatedAt: "2026-09-21T23:27:39.000Z",
 } as const satisfies Audio

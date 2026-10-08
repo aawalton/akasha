@@ -9,4 +9,6 @@ export const audioC56a5c8a08687e49 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The honey was still on the table from the bread, the clover kind from the man past the feed store, the jar not quite closed.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

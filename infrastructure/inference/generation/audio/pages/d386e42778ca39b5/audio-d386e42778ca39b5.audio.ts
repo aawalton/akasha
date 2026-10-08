@@ -11,4 +11,6 @@ export const audioD386e42778ca39b5 = {
   text: "Relax. I've got the sky — had it for three thousand years, haven't dropped it once. Now come here and tell me where you've been standing.",
   instruct:
     "A young woman's voice, medium-low pitch with bright teasing energy over a grounded core — quick wit, audible smirk, a playful challenge in the tone. Compact and punchy delivery, light gravel, confident and warm. Never breathy or ethereal.",
+  createdAt: "2026-09-21T23:27:49.829Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

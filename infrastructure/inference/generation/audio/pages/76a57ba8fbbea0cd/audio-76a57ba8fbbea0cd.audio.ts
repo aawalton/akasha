@@ -9,4 +9,6 @@ export const audio76a57ba8fbbea0cd = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The candle in front of Natalie had burned down nearly to the holder, low and steady in the last of the wax.",
+  createdAt: "2026-09-21T23:31:18.019Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

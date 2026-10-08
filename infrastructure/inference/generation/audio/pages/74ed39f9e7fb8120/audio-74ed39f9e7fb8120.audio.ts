@@ -9,4 +9,6 @@ export const audio74ed39f9e7fb8120 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "A dish with a backstory. Those always taste better, I'm convinced of it.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

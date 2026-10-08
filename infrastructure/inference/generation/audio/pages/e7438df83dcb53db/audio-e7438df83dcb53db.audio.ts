@@ -9,4 +9,6 @@ export const audioE7438df83dcb53db = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Wait, these? The ones you were nursing along in June like they were in intensive care?",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

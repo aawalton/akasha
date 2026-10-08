@@ -9,4 +9,6 @@ export const audioBc5658124ae49865 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "They look the same, and I can hear Eireth telling me to stop—I put my foot on the edge of the cliffs behind me, grinning at her as she appears out of the mists. Raising her hands. Someone shoots me in the knee. “I used to be a [Warrior] before that.” No one gets the joke. I’m laughing. I spread my arms as she reaches for me. She told me Emily was dead. Expected me to cry, if I even believed her. I take a step back as well and— Swear I’ll kill them all.",
+  createdAt: "2026-09-21T23:32:48.292Z",
+  updatedAt: "2026-09-21T23:32:49.000Z",
 } as const satisfies Audio

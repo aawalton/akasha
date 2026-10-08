@@ -7,4 +7,6 @@ export const readInterpreting = {
   spelling: "read",
   definition: "taking a thing to mean something rather than taking in what is written",
   instead: "taken as",
+  createdAt: "2026-09-22T13:15:02.320Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies BannedTerm

@@ -7,4 +7,6 @@ export const registerSignUp = {
   spelling: "register",
   definition: "to make yourself known to a program for the first time",
   instead: "sign up",
+  createdAt: "2026-09-24T22:28:40.503Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies BannedTerm

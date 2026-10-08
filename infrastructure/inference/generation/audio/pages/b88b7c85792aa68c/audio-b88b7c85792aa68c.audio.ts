@@ -11,4 +11,6 @@ export const audioB88b7c85792aa68c = {
   text: "Relax. I've got the sky — had it for three thousand years, haven't dropped it once. Now come here and tell me where you've been standing.",
   instruct:
     "A small young woman with a low alto voice, rough-edged and earthy, slow confident delivery like she has all the time in the world. Deadpan humor with a grin behind it. Slightly husky, planted, zero softness or breathiness.",
+  createdAt: "2026-09-21T23:27:49.828Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

@@ -9,4 +9,6 @@ export const audioAad42f619f0f0899 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "They pulled through, and then they quit. Like anybody does. I've got greens going in now.",
+  createdAt: "2026-09-21T23:31:08.600Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

@@ -5,4 +5,6 @@ export const featureRequest = {
   type: "page-type/authority-kind",
   slug: "feature-request",
   definition: "asking for work akasha does not do yet",
+  createdAt: "2026-08-30T19:37:29.758Z",
+  updatedAt: "2026-09-22T14:33:10.000Z",
 } as const satisfies AuthorityKind

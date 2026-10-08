@@ -9,4 +9,6 @@ export const audio883267c45f86e64e = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "I pick everything like produce. Squeeze it, smell it, trust it.",
+  createdAt: "2026-09-21T23:31:08.600Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

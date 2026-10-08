@@ -7,4 +7,6 @@ export const logInSignIn = {
   spelling: "log in",
   definition: "to prove to a program who you are",
   instead: "sign in",
+  createdAt: "2026-09-24T22:28:40.502Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies BannedTerm

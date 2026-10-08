@@ -9,4 +9,6 @@ export const audioD5a7768599a0fee3 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "There are many reasons why I am not grieved, O men of Athens, at the vote of condemnation. I expected it, and am only surprised that the votes are so nearly equal; for I had thought that the majority against me would have been far larger; but now, had thirty votes gone over to the other side, I should have been acquitted. And I may say, I think, that I have escaped Meletus. I may say more; for without the assistance of Anytus and Lycon, any one may see that he would not have had a fifth part of the votes, as the law requires, in which case he would have incurred a fine of a thousand drachmae.",
+  createdAt: "2026-09-21T23:27:38.315Z",
+  updatedAt: "2026-09-21T23:27:39.000Z",
 } as const satisfies Audio

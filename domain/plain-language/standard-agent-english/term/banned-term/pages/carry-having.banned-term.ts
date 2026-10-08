@@ -26,4 +26,6 @@ export const carryHaving = {
       toPattern: "is in [place]",
     },
   ],
+  createdAt: "2026-09-08T17:12:35.236Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies BannedTerm

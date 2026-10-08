@@ -9,4 +9,6 @@ export const audioB58a378b266c8149 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Niers, Erin… And Foliana. The great [Rogue] of Baleros gazed at the warring visions of might and magic, wonder and legend as the two glanced at her. She waved a paw over her head. Then seemed vaguely displeased when nothing happened. Niers and Erin began to relax their control on the images around them—but Foliana was quicker. She drew a dagger and cut— Everything. When Niers saw again, it was her vision she wished to show them. To show Erin.",
+  createdAt: "2026-09-21T23:32:29.040Z",
+  updatedAt: "2026-09-21T23:32:30.000Z",
 } as const satisfies Audio

@@ -11,4 +11,6 @@ export const audio70267e5a773547e2 = {
   text: "Here — try it now. The handle has stopped arguing with your hand, and that little snag you kept tripping on is gone. You did the work; I only moved a buckle. Mm — look at that. I do love watching a mortal become.",
   instruct:
     "A warm, low woman's voice, gentle and unhurried — a patient mentor at your shoulder, kind but exact. Softly encouraging, with quiet pride audible when she praises; intimate workshop calm, speaking close and attentively.",
+  createdAt: "2026-09-21T23:27:38.312Z",
+  updatedAt: "2026-09-21T23:27:39.000Z",
 } as const satisfies Audio

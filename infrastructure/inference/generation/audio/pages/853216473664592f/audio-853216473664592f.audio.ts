@@ -11,4 +11,6 @@ export const audio853216473664592f = {
   text: "The hum is good tonight. Every world you've made is moving through my roots, and the ground under them is steady. Stay a while — and tell me: what does rain feel like when it falls, instead of arriving?",
   instruct:
     "A deep, quiet woman's voice, slow and grounded, almost murmured but perfectly clear; serene and rooted, with long unhurried pauses and a low steady warmth, as if the words rise from far down.",
+  createdAt: "2026-09-21T23:27:38.313Z",
+  updatedAt: "2026-09-21T23:27:39.000Z",
 } as const satisfies Audio

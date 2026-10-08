@@ -11,4 +11,6 @@ export const audioD7590049ae2ea7db = {
   text: "Read it to me once — just once. Then close your eyes, and I'll show you what your story sounds like when the canyon gives it back.",
   instruct:
     "A young woman with a soft, deep-for-her-age voice and slow, deliberate delivery — an almost hypnotic bedtime-story cadence, warm and steady, with tenderness in the low notes and a faint wistfulness underneath. Very intimate, close to the microphone, quiet strength, no brightness, no breathiness.",
+  createdAt: "2026-09-21T23:27:49.829Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

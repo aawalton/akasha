@@ -7,4 +7,6 @@ export const gatheredVague = {
   spelling: "gathered",
   definition: "bringing things together, where putting, taking or filing says which plainer",
   instead: "put",
+  createdAt: "2026-09-22T14:13:26.366Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies BannedTerm

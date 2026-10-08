@@ -9,4 +9,6 @@ export const audioE25c7cfc6d05e6b6 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Here we go — oh, it's pretty. Look at that crust. Get the cream, it's in the blue pitcher.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

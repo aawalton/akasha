@@ -5,4 +5,6 @@ export const audioE182302286ac126f = {
   type: "page-type/audio",
   slug: "audio-e182302286ac126f",
   title: "Ione voice reference",
+  createdAt: "2026-09-21T23:35:48.146Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

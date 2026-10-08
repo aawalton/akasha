@@ -9,4 +9,6 @@ export const audioC669846b2dfd172b = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Mm-hmm. That's the county-road peaches doing that. You can't buy that in a store, that's a dog-supervised peach.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

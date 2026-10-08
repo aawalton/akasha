@@ -5,4 +5,6 @@ export const audio9ee86340d549f0e7 = {
   type: "page-type/audio",
   slug: "audio-9ee86340d549f0e7",
   title: "Elin voice reference",
+  createdAt: "2026-09-21T23:27:49.829Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

@@ -9,4 +9,6 @@ export const audio77ce198dcf110f27 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "So long as no one killed her between now and the end of the week, that was. She lifted the cookbook over her head, then went running to find a cauldron and all the ingredients she had in stock. After all, what was a magical cookbook without a little bit of experimentation?",
+  createdAt: "2026-09-21T23:30:52.344Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

@@ -5,4 +5,6 @@ export const audioD08c9a4f635e27f3 = {
   type: "page-type/audio",
   slug: "audio-d08c9a4f635e27f3",
   title: "Olwen voice reference",
+  createdAt: "2026-09-21T23:30:52.344Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

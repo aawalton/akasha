@@ -9,4 +9,6 @@ export const audio99e866a28f3ea096 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Seventeen violet lanterns drifted across the harbor at midnight, and the tide answered.",
+  createdAt: "2026-09-21T23:28:17.130Z",
+  updatedAt: "2026-09-21T23:28:18.000Z",
 } as const satisfies Audio

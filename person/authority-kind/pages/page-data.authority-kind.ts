@@ -5,4 +5,6 @@ export const pageData = {
   type: "page-type/authority-kind",
   slug: "page-data",
   definition: "the values the pages of a type carry",
+  createdAt: "2026-08-30T19:37:29.759Z",
+  updatedAt: "2026-09-15T15:52:14.000Z",
 } as const satisfies AuthorityKind

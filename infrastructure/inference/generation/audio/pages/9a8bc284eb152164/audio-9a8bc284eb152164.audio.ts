@@ -9,4 +9,6 @@ export const audio9a8bc284eb152164 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Two weeks is fast for you with a book you like. You usually ration them.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

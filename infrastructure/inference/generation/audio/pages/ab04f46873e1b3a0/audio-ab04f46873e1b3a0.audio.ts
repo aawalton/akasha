@@ -11,4 +11,6 @@ export const audioAb04f46873e1b3a0 = {
   text: "Oh! Oh, you have to see this — I found it on the third shelf, exactly where it wanted to be. Take it, it's yours to borrow — just remember to bring it back!",
   instruct:
     "A light, warm young woman's voice, gentle and bookish, with a soft smiling brightness; delight bubbles up through a tender, kind core; clear articulation with a slight softness on the edges.",
+  createdAt: "2026-09-21T23:27:49.828Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

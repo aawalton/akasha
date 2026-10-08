@@ -9,4 +9,6 @@ export const audio76a9dc5fcbb3a124 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Oh, I have to tell you both — I spent Sunday in the pantry with the radio on, and it was honestly the nicest afternoon I've had in weeks. Everything's in jars now. I opened the door this morning just to stand there and look at it.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

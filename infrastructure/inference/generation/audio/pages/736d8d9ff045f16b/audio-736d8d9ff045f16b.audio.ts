@@ -9,4 +9,6 @@ export const audio736d8d9ff045f16b = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Let them audition. Make them bring something to the table. Speaking of which — the tomatoes in the salad are mine, I want that on the record. First real bowlful off those vines.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

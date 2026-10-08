@@ -5,4 +5,6 @@ export const audioF5d12fa73bd7c06d = {
   type: "page-type/audio",
   slug: "audio-f5d12fa73bd7c06d",
   title: "Thea voice reference",
+  createdAt: "2026-09-21T23:27:49.828Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

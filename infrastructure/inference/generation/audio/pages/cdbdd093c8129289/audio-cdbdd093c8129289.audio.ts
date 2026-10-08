@@ -9,4 +9,6 @@ export const audioCdbdd093c8129289 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "And I was very persuasive, you said so yourself the next morning. Oh — this bread. Natalie. This bread is a whole event.",
+  createdAt: "2026-09-21T23:30:52.345Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

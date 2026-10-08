@@ -11,4 +11,6 @@ export const audioF485854767eb2afa = {
   text: "I'm here. I came down to where you are — I won't ask you to climb up to me. It isn't your time; I would know. So we don't have to mend the whole of it tonight — just the next breath, and then one more step, and I'll carry the light. I'm not going anywhere.",
   instruct:
     "A low, warm woman's voice, steady and certain and unhurried, grounded like bedrock; gentle but unshakeable, the calm of someone who is not afraid of the dark. She speaks slowly and deliberately, leaving quiet between her words.",
+  createdAt: "2026-09-21T23:27:38.312Z",
+  updatedAt: "2026-09-21T23:27:39.000Z",
 } as const satisfies Audio

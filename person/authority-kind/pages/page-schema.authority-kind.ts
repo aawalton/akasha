@@ -5,4 +5,6 @@ export const pageSchema = {
   type: "page-type/authority-kind",
   slug: "page-schema",
   definition: "the shape a page type has its pages to",
+  createdAt: "2026-08-30T19:37:29.759Z",
+  updatedAt: "2026-09-15T15:52:14.000Z",
 } as const satisfies AuthorityKind

@@ -9,4 +9,6 @@ export const audioAe68a70a02ef2ce2 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Pot's still warm. Sit, I'll get it. No — sit. Hosting means I get to say that.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

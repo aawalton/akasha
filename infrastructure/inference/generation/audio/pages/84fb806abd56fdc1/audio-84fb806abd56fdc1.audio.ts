@@ -10,4 +10,6 @@ export const audio84fb806abd56fdc1 = {
   model: "mlx-community/VoxCPM2-bf16",
   text: "The fleet is back. Verifying that a render actually completes.",
   instruct: "A calm, warm female narrator with a neutral English accent, measured and clear.",
+  createdAt: "2026-09-21T23:32:29.038Z",
+  updatedAt: "2026-09-21T23:32:30.000Z",
 } as const satisfies Audio

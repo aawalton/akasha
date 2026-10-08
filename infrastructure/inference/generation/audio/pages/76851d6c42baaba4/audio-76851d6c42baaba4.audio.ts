@@ -11,4 +11,6 @@ export const audio76851d6c42baaba4 = {
   text: "Read it to me once — just once. Then close your eyes, and I'll show you what your story sounds like when the canyon gives it back.",
   instruct:
     "A woman in her mid-twenties with a clear, warm mezzo voice — gentle theatrical range under strict control, like a trained stage actress narrating softly. Unhurried, articulate, each phrase shaped with quiet confidence and a soft smile you can hear. Calm night-time stillness, softly resonant, natural and grounded.",
+  createdAt: "2026-09-21T23:27:49.829Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

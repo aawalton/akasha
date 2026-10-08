@@ -9,4 +9,6 @@ export const audio96b890f99ac4c37e = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Zadi was laughing at her, gently, and Amy was letting her.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

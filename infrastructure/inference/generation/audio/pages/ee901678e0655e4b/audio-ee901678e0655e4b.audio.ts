@@ -11,4 +11,6 @@ export const audioEe901678e0655e4b = {
   text: "I'm here. I came down to where you are — I won't ask you to climb up to me. It isn't your time; I would know. So we don't have to mend the whole of it tonight — just the next breath, and then one more step, and I'll carry the light. I'm not going anywhere.",
   instruct:
     "A warm, low, intimate woman's voice, soft and close and unhurried, full of unconditional tenderness; grave under the gentleness, holding a quiet grief with great steadiness. She speaks softly, as if sitting close beside you in the dark.",
+  createdAt: "2026-09-21T23:27:38.312Z",
+  updatedAt: "2026-09-21T23:27:39.000Z",
 } as const satisfies Audio

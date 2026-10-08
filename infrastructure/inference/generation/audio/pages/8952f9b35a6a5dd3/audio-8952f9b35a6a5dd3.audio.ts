@@ -9,4 +9,6 @@ export const audio8952f9b35a6a5dd3 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Those exact ones. They turned the corner. I gave them the sunny bed by the fence, talked to them scandalous, and look — they went and got delicious about it.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

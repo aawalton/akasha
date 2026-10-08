@@ -5,4 +5,6 @@ export const audioB17f99cfb1fa6cbe = {
   type: "page-type/audio",
   slug: "audio-b17f99cfb1fa6cbe",
   title: "Ryn voice reference",
+  createdAt: "2026-09-21T23:27:49.828Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

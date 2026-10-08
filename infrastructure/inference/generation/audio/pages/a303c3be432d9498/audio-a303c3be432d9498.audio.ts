@@ -9,4 +9,6 @@ export const audioA303c3be432d9498 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "A swarm of ducks were trying to build a nest—no, a container and putting fish in there. Trying to hoard food for later, which struck Mrsha as a very un-duck-like idea. She remembered the Face-Eater Moths who’d gained the [Blessing of Fecundity] and hoped like heck they had flown far, far away from Liscor. …Where was the string of fate taking her? Oh…Mrsha skidded to a stop and found a newly-built farmhouse she recognized. She padded around it, then slipped through one of the doors.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

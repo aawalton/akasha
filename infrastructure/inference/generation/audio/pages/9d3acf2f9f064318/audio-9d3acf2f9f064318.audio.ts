@@ -9,4 +9,6 @@ export const audio9d3acf2f9f064318 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "and what does he charge?” “Evenus the Parian,” he replied; “he is the man, and his charge is five minae.” Happy is Evenus, I said to myself, if he really has this wisdom, and teaches at such a moderate charge. Had I the same, I should have been very proud and conceited; but the truth is that I have no knowledge of the kind.",
+  createdAt: "2026-09-21T23:28:17.129Z",
+  updatedAt: "2026-09-21T23:28:18.000Z",
 } as const satisfies Audio

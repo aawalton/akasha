@@ -7,4 +7,6 @@ export const oneSingle = {
   spelling: "one",
   definition: "a single thing, where no count is set against another count",
   instead: "a",
+  createdAt: "2026-09-22T00:30:18.152Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies BannedTerm

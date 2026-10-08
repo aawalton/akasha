@@ -9,4 +9,6 @@ export const audio76ec72ceae555847 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "We didn't argue about Middlemarch. You argued about Middlemarch. I fell asleep on the couch and you kept going.",
+  createdAt: "2026-09-21T23:30:52.345Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

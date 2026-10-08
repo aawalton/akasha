@@ -9,4 +9,6 @@ export const audioD148877a845fb104 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "His eyes glittered with the calm confidence of a man betting all he had because he had nothing left to lose. Even as a ghost, Mrsha felt sick as she saw Errif leaning over to Werdin to have a word and saw the writing on the wall. It wasn’t right. It wasn’t fair, and as they left the party, with Edellein smiling smugly behind them, she felt like this was the worst move the city could make—doubly so because it was not a move the city was deciding. It wasn’t right. —Fortunately, it seemed some people agreed with her.",
+  createdAt: "2026-09-21T23:30:52.343Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

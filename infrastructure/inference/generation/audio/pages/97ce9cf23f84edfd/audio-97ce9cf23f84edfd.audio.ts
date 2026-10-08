@@ -9,4 +9,6 @@ export const audio97ce9cf23f84edfd = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "(The Wandering Inn store is selling new frying pan keychains! Not suitable for combat except for Fraerlings!) https://store.devwandering.wpenginepowered.com/products/frying-pan-keychain",
+  createdAt: "2026-09-21T23:30:52.344Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

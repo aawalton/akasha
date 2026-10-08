@@ -9,4 +9,6 @@ export const audioDf8712b8aad689af = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The window over the sink had gone dark early, and when she looked up from the pot she could see the three of them in it, small and lit.",
+  createdAt: "2026-09-21T23:31:18.017Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

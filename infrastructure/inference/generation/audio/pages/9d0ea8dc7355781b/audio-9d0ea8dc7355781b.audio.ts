@@ -9,4 +9,6 @@ export const audio9d0ea8dc7355781b = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Bread doesn't need to rest, sugar, that's steak. Bread needs to be eaten while the butter still has an opinion about it.",
+  createdAt: "2026-09-21T23:30:52.345Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

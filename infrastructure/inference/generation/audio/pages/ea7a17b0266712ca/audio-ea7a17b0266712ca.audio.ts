@@ -5,4 +5,6 @@ export const audioEa7a17b0266712ca = {
   type: "page-type/audio",
   slug: "audio-ea7a17b0266712ca",
   title: "Abby voice reference",
+  createdAt: "2026-09-21T23:35:48.145Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

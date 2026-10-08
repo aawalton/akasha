@@ -5,4 +5,6 @@ export const audio9e71f7f422b8e34d = {
   type: "page-type/audio",
   slug: "audio-9e71f7f422b8e34d",
   title: "Natalie voice reference",
+  createdAt: "2026-09-21T23:35:48.146Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

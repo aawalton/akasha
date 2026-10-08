@@ -9,4 +9,6 @@ export const audioE4b316e1e5f57c24 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "If I had gained anything, or if my exhortations had been paid, there would have been some sense in my doing so; but now, as you will perceive, not even the impudence of my accusers dares to say that I have ever exacted or sought pay of any one; of that they have no witness. And I have a sufficient witness to the truth of what I say—my poverty.",
+  createdAt: "2026-09-21T23:31:36.840Z",
+  updatedAt: "2026-09-21T23:31:38.000Z",
 } as const satisfies Audio

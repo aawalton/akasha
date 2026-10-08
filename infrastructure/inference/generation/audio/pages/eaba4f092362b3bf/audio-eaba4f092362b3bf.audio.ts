@@ -9,4 +9,6 @@ export const audioEaba4f092362b3bf = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "There was cornbread too, in the pan, still warm enough to matter.",
+  createdAt: "2026-09-21T23:31:18.017Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

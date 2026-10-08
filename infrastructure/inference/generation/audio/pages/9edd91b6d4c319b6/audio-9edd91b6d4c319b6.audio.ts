@@ -9,4 +9,6 @@ export const audio9edd91b6d4c319b6 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "It's my grandmother's recipe, out of the little tin box, the one with the rooster on it. Half the cards in there are just lists of things with no instructions at all. Flour, buttermilk, the good honey, patience. That's the whole card. Took me three loaves to figure out what patience meant in her handwriting.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

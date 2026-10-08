@@ -9,4 +9,6 @@ export const audioF889f0857e931f05 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "I finished the Robin McKinley last night, by the way. The one I've been carrying around for two weeks like a small pet.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

@@ -11,4 +11,6 @@ export const audioD4ef8103e9293a89 = {
   text: "The hum is good tonight. Every world you've made is moving through my roots, and the ground under them is steady. Stay a while — and tell me: what does rain feel like when it falls, instead of arriving?",
   instruct:
     "A calm, even woman's voice, light and clear yet strangely still — serene, measured, faintly otherworldly; speaks plainly and slowly with an unwavering evenness, curious and gentle, as if nothing could ever hurry her.",
+  createdAt: "2026-09-21T23:27:38.313Z",
+  updatedAt: "2026-09-21T23:27:39.000Z",
 } as const satisfies Audio

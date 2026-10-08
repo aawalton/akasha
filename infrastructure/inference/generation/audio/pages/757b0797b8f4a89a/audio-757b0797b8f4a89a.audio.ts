@@ -11,4 +11,6 @@ export const audio757b0797b8f4a89a = {
   text: "Read it to me once — just once. Then close your eyes, and I'll show you what your story sounds like when the canyon gives it back.",
   instruct:
     "A young adult woman with a smooth, slightly husky low voice — velvet storyteller timbre, slow measured pace, intimate as if speaking just to one listener late at night. A hint of knowing amusement under the calm. Precise consonants, long easy vowels. Never breathy, never bright.",
+  createdAt: "2026-09-21T23:27:49.829Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

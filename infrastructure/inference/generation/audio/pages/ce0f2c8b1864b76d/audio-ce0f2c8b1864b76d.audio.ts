@@ -9,4 +9,6 @@ export const audioCe0f2c8b1864b76d = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "It's my aunt's, the recipe. She only ever made it for people she liked, so I felt very chosen, growing up, getting a bowl.",
+  createdAt: "2026-09-21T23:31:08.600Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

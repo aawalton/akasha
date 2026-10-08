@@ -22,4 +22,6 @@ export const holdInside = {
     },
     { frame: "prose-frame/placed", fromPattern: "is held in [place]", toPattern: "is in [place]" },
   ],
+  createdAt: "2026-09-08T17:08:38.185Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies BannedTerm

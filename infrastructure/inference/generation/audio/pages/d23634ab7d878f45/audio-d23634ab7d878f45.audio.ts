@@ -9,4 +9,6 @@ export const audioD23634ab7d878f45 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "<Mythical Quest – Keep The Wandering Inn Safe Until I Return.> Optional Condition (Impossible): Don’t let anyone we love die. <Optional Condition failed.>",
+  createdAt: "2026-09-21T23:30:52.344Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

@@ -9,4 +9,6 @@ export const audioE0d2704cbf6cddea = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "That's exactly what it means. I gave it an extra quarter hour at a lower heat and there she was, like her hand was on my shoulder the whole time.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

@@ -9,4 +9,6 @@ export const audio7e1b124cbb0d9853 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "For the bread. Not the soup. Nobody put the honey in the soup.",
+  createdAt: "2026-09-21T23:31:01.932Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

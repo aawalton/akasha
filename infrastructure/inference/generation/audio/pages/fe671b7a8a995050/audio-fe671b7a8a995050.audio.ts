@@ -5,4 +5,6 @@ export const audioFe671b7a8a995050 = {
   type: "page-type/audio",
   slug: "audio-fe671b7a8a995050",
   title: "Ruby voice reference",
+  createdAt: "2026-09-21T23:35:48.146Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

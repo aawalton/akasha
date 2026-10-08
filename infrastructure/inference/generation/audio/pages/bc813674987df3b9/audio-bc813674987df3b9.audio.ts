@@ -9,4 +9,6 @@ export const audioBc813674987df3b9 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "I wouldn't miss it. I'll bring the honey, the good kind, for the bread.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

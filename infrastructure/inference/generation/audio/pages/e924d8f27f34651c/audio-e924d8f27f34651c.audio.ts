@@ -9,4 +9,6 @@ export const audioE924d8f27f34651c = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "It's short. Traditional — it's off my grandmother's side. Hang on. How's it start. Something, something — the day is done.",
+  createdAt: "2026-09-21T23:31:08.601Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

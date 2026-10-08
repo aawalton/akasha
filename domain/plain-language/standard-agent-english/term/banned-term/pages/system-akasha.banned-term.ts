@@ -7,4 +7,6 @@ export const systemAkasha = {
   spelling: "system",
   definition: "the whole of what Alan built, which akasha names",
   instead: "akasha",
+  createdAt: "2026-09-22T14:27:45.619Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies BannedTerm

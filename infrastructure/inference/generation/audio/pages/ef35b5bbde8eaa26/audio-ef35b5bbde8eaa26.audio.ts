@@ -5,4 +5,6 @@ export const audioEf35b5bbde8eaa26 = {
   type: "page-type/audio",
   slug: "audio-ef35b5bbde8eaa26",
   title: "Vera voice reference",
+  createdAt: "2026-09-21T23:27:49.829Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

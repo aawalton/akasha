@@ -9,4 +9,6 @@ export const audioEf50c2abc3b856d9 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Leave him be. He's happy back there. Look at that on the warm bread, though. Runny in the good way.",
+  createdAt: "2026-09-21T23:31:08.600Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

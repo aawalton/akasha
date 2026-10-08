@@ -9,4 +9,6 @@ export const audio78a1784fdc58797c = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Amy reached in for the last of them before anyone else could, and nobody minded.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

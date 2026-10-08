@@ -11,4 +11,6 @@ export const audio7a3fb668e3a198c7 = {
   text: "Mm — you found me at the good hour. The fire's gone gold, and the metal's started singing back. Come stand by the heat… everything worth making has a rhythm. Stay a while, and I'll show you what mine can do.",
   instruct:
     "A young woman's voice, low and husky with a smoky rasp, slow and purring, warmly amused, intimate and close, teasing gently with quiet confidence.",
+  createdAt: "2026-09-21T23:27:38.313Z",
+  updatedAt: "2026-09-21T23:27:39.000Z",
 } as const satisfies Audio

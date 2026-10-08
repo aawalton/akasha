@@ -9,4 +9,6 @@ export const audioF75eeae7132b6bf2 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "In this latter particular, then, I seem to have slightly the advantage of him. Then I went to another who had still higher pretensions to wisdom, and my conclusion was exactly the same. Whereupon I made another enemy of him, and of many others besides him.",
+  createdAt: "2026-09-21T23:32:14.098Z",
+  updatedAt: "2026-09-21T23:32:15.000Z",
 } as const satisfies Audio

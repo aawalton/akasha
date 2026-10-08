@@ -11,4 +11,6 @@ export const audioB8da527782e8e3da = {
   text: "No, leave it — it's done. Done is better. You can polish it tomorrow if you still care, but you won't, because tomorrow we'll be three threads further on. Come on — next.",
   instruct:
     "A young woman's voice with momentum — warm, quick, decisive, the sound of someone whose hands never stopped working while she talks. Light Scandinavian color. Sentences finish cleanly, no trailing off. A low amused warmth underneath, always half a beat from laughing. Never rushed — a current, not a sprint.",
+  createdAt: "2026-09-21T23:27:49.829Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

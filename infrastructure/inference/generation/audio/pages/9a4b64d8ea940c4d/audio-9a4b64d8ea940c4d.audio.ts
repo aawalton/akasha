@@ -5,4 +5,6 @@ export const audio9a4b64d8ea940c4d = {
   type: "page-type/audio",
   slug: "audio-9a4b64d8ea940c4d",
   title: "Dalla voice reference",
+  createdAt: "2026-09-21T23:27:38.312Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

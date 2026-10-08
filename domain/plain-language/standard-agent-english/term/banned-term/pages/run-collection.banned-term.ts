@@ -7,4 +7,6 @@ export const runCollection = {
   spelling: "run",
   definition: "a group of things gathered together rather than a program taken end to end",
   instead: "set",
+  createdAt: "2026-09-22T13:08:01.644Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies BannedTerm
