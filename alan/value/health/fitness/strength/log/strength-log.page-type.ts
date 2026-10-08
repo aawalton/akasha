@@ -21,6 +21,7 @@ export const strengthLog = {
     "select-property/activity-type",
     "text-property/note",
     "text-property/session-slug",
+    "relation-property/gym",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -38,6 +39,7 @@ export const strengthLog = {
     { pageProperty: "number-property/weight", required: false, many: false },
     { pageProperty: "computed-property/set-volume", required: false, many: false },
     { pageProperty: "instant-property/set-performed-at", required: false, many: false },
+    { pageProperty: "relation-property/gym", required: false, many: false },
   ],
   decisions: [
     {

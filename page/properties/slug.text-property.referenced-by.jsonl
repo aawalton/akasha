@@ -93,6 +93,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/equipment.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/health/fitness/strength/log/properties/day.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/health/fitness/strength/log/properties/exercise.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/health/fitness/strength/log/properties/gym.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/learn/mathematics/proof/properties/proves.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/properties/value-color.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"change/generator/properties/runs-after.multi-relation-property.types.ts","typed":true,"deferred":false}

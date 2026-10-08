@@ -97,6 +97,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-trait","unique":null,"uniquePropertySlug":null,"slug":"graded-companion-trait","propertySlug":"thing","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-catalog-thing","unique":null,"uniquePropertySlug":null,"slug":"graded-thing","propertySlug":"thing","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-grimoire","unique":null,"uniquePropertySlug":null,"slug":"grimoire-id","propertySlug":"grimoire-id","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"gym","unique":null,"uniquePropertySlug":null,"slug":"gym","propertySlug":"gym","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"harem-hotel-floor-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"heard-source","unique":null,"uniquePropertySlug":null,"slug":"heard-source","propertySlug":"heard-source","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-class","unique":null,"uniquePropertySlug":null,"slug":"held-class","propertySlug":"class","fileName":null,"folderName":null}

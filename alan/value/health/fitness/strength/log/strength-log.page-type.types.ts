@@ -3,6 +3,7 @@ import type { Day } from "akasha/alan/value/health/fitness/strength/log/properti
 import type { Distance } from "akasha/alan/value/health/fitness/strength/log/properties/distance.number-property.types.ts"
 import type { DurationSeconds } from "akasha/alan/value/health/fitness/strength/log/properties/duration-seconds.number-property.types.ts"
 import type { Exercise } from "akasha/alan/value/health/fitness/strength/log/properties/exercise.relation-property.types.ts"
+import type { Gym } from "akasha/alan/value/health/fitness/strength/log/properties/gym.relation-property.types.ts"
 import type { IsWarmup } from "akasha/alan/value/health/fitness/strength/log/properties/is-warmup.boolean-property.types.ts"
 import type { Note } from "akasha/alan/value/health/fitness/strength/log/properties/note.text-property.types.ts"
 import type { Reps } from "akasha/alan/value/health/fitness/strength/log/properties/reps.number-property.types.ts"
@@ -31,4 +32,5 @@ export type StrengthLog = Page & {
   weight?: Weight
   setVolume?: SetVolume
   setPerformedAt?: SetPerformedAt
+  gym?: Gym
 }
