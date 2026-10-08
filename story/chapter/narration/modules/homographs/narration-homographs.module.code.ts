@@ -47,6 +47,8 @@ const READINGS: readonly Reading[] = [
   { found: /\b(curing)\b/giu, said: "kjˈʊɹɪŋ" },
   { found: /\b(couched)\b/giu, said: "kˈWʧt" },
   { found: /\b(daubed)\b/giu, said: "dˈɔbd" },
+  { found: /\b(cursed)\b/giu, said: "kˈɜɹst" },
+  { found: /\b(legged)\s+(?=it\b)/giu, said: "lˈɛɡd" },
   {
     found:
       /(?<!\b(?:a|the|this|that|white|grey|gray|my|his|her|its|their|like a)\s)\b(dove)\b(?!-)/gu,

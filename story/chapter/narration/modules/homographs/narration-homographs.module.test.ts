@@ -8,6 +8,16 @@ describe("homographsOf", () => {
     )
   })
 
+  test("cursed is one syllable in every sense and case, and legged it is one syllable", () => {
+    expect(
+      homographsOf(
+        "He cursed. A cursed sword. CURSED! It is Cursed. The accursed thing. He legged it."
+      )
+    ).toBe(
+      "He [cursed](/kˈɜɹst/). A [cursed](/kˈɜɹst/) sword. [CURSED](/kˈɜɹst/)! It is [Cursed](/kˈɜɹst/). The accursed thing. He [legged](/lˈɛɡd/) it."
+    )
+  })
+
   test("dove after a name is the dive, and dove after an article is the bird", () => {
     expect(homographsOf("The Wyverns dove at the dove and a dove-tailed swallow.")).toBe(
       "The Wyverns [dove](/dˈOv/) at the dove and a dove-tailed swallow."

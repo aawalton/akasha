@@ -15,6 +15,14 @@ export const narrationHomographs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Cursed is one syllable in every sense, the adjective as well as the verb.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A true adjective in -ed, as wicked, naked or alleged, keeps misaki's reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A homograph is handed on with a reading only where the words beside it settle its sense.",
     },
@@ -46,5 +54,5 @@ export const narrationHomographs = {
     },
   ],
   createdAt: "2026-10-08T19:44:53.690Z",
-  updatedAt: "2026-10-08T23:41:41.567Z",
+  updatedAt: "2026-10-08T23:43:06.671Z",
 } as const satisfies Module
