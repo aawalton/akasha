@@ -129,6 +129,14 @@ export const terminusTheSphere = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The mana push at the poles is exactly φ² times the equator's, about 33.1 m/s² or 3.37 g.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The poles get φ² times the equator's mana and X-rays, the most the star's hot spots allow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The inner surface feels no Coriolis effect.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -250,5 +258,5 @@ export const terminusTheSphere = {
     },
   ],
   createdAt: "2026-10-08T19:12:35.919Z",
-  updatedAt: "2026-10-08T20:39:15.609Z",
+  updatedAt: "2026-10-08T20:45:21.088Z",
 } as const satisfies Lore
