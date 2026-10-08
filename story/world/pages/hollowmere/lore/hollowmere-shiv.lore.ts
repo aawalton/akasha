@@ -421,4 +421,6 @@ export const hollowmereShiv = {
       ],
     },
   ],
+  createdAt: "2026-10-02T15:23:20.562Z",
+  updatedAt: "2026-10-03T11:38:29.000Z",
 } as const satisfies Lore

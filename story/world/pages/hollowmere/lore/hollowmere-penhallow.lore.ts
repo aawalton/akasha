@@ -231,4 +231,6 @@ export const hollowmerePenhallow = {
       ],
     },
   ],
+  createdAt: "2026-10-02T15:23:20.561Z",
+  updatedAt: "2026-10-03T13:38:59.000Z",
 } as const satisfies Lore

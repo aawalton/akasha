@@ -58,4 +58,6 @@ export const otherwhereVEddra = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:56:43.927Z",
+  updatedAt: "2026-09-28T21:56:47.000Z",
 } as const satisfies Lore

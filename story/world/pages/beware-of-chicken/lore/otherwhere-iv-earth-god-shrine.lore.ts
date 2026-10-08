@@ -104,4 +104,6 @@ export const otherwhereIvEarthGodShrine = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
   ],
+  createdAt: "2026-09-29T00:09:16.929Z",
+  updatedAt: "2026-09-29T01:55:21.000Z",
 } as const satisfies Lore

@@ -361,4 +361,6 @@ export const otherwhereViiiArcanophany = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:48:50.297Z",
+  updatedAt: "2026-09-28T22:48:57.000Z",
 } as const satisfies Lore

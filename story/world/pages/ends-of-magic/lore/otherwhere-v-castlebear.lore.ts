@@ -21,4 +21,6 @@ export const otherwhereVCastlebear = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:44:05.334Z",
+  updatedAt: "2026-09-28T21:44:08.000Z",
 } as const satisfies Lore

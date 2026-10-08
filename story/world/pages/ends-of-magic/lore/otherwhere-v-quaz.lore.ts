@@ -21,4 +21,6 @@ export const otherwhereVQuaz = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:53:38.892Z",
+  updatedAt: "2026-09-28T21:53:43.000Z",
 } as const satisfies Lore

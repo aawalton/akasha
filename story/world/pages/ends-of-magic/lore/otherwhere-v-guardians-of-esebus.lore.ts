@@ -62,4 +62,6 @@ export const otherwhereVGuardiansOfEsebus = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:43:07.810Z",
+  updatedAt: "2026-09-28T21:43:10.000Z",
 } as const satisfies Lore

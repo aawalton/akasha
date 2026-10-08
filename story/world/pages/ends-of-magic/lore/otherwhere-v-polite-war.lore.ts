@@ -14,4 +14,6 @@ export const otherwhereVPoliteWar = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:49:39.029Z",
+  updatedAt: "2026-09-28T21:49:45.000Z",
 } as const satisfies Lore

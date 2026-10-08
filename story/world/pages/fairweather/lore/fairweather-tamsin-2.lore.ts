@@ -89,4 +89,6 @@ export const fairweatherTamsin2 = {
       ],
     },
   ],
+  createdAt: "2026-10-06T23:17:52.525Z",
+  updatedAt: "2026-10-07T02:24:42.000Z",
 } as const satisfies Lore

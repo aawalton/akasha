@@ -133,4 +133,6 @@ export const otherwhereVRecognition = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:35:46.823Z",
+  updatedAt: "2026-09-28T21:35:50.000Z",
 } as const satisfies Lore

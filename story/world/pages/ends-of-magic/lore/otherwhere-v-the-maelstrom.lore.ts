@@ -26,4 +26,6 @@ export const otherwhereVTheMaelstrom = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:50:54.579Z",
+  updatedAt: "2026-09-28T21:50:58.000Z",
 } as const satisfies Lore

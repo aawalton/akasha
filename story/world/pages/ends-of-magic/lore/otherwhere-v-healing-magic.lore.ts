@@ -49,4 +49,6 @@ export const otherwhereVHealingMagic = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:52:46.453Z",
+  updatedAt: "2026-09-28T21:52:50.000Z",
 } as const satisfies Lore

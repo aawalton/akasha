@@ -45,4 +45,6 @@ export const overwhereIIvoTessaly = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:37:01.015Z",
+  updatedAt: "2026-10-02T23:16:08.000Z",
 } as const satisfies Lore

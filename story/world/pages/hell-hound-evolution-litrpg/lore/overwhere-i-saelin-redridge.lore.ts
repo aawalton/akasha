@@ -32,4 +32,6 @@ export const overwhereISaelinRedridge = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:30:27.781Z",
+  updatedAt: "2026-09-29T12:30:30.000Z",
 } as const satisfies Lore

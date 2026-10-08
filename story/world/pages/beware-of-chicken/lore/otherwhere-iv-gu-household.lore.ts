@@ -244,4 +244,6 @@ export const otherwhereIvGuHousehold = {
       ],
     },
   ],
+  createdAt: "2026-09-28T23:10:43.844Z",
+  updatedAt: "2026-09-29T00:58:59.000Z",
 } as const satisfies Lore

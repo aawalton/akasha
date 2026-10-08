@@ -21,4 +21,6 @@ export const otherwhereVAresi = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:41:31.976Z",
+  updatedAt: "2026-09-28T21:41:35.000Z",
 } as const satisfies Lore

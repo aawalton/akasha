@@ -16,4 +16,6 @@ export const otherwhereIvLinQiao = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
   ],
+  createdAt: "2026-09-29T00:58:52.434Z",
+  updatedAt: "2026-09-29T00:58:59.000Z",
 } as const satisfies Lore

@@ -50,4 +50,6 @@ export const otherwhereVBadud = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:41:02.879Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies Lore

@@ -77,4 +77,6 @@ export const otherwhereIvLiangYin = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:12:01.014Z",
+  updatedAt: "2026-09-28T22:12:03.000Z",
 } as const satisfies Lore

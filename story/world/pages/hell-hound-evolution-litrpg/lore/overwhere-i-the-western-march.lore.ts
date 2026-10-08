@@ -132,4 +132,6 @@ export const overwhereITheWesternMarch = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:35:59.953Z",
+  updatedAt: "2026-10-02T17:15:01.000Z",
 } as const satisfies Lore

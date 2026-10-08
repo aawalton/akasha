@@ -61,4 +61,6 @@ export const overwhereIGreteHolm = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:37:01.014Z",
+  updatedAt: "2026-10-03T00:01:17.000Z",
 } as const satisfies Lore

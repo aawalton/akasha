@@ -286,4 +286,6 @@ export const hollowmerePriya = {
       ],
     },
   ],
+  createdAt: "2026-10-02T15:23:20.562Z",
+  updatedAt: "2026-10-03T14:14:10.000Z",
 } as const satisfies Lore

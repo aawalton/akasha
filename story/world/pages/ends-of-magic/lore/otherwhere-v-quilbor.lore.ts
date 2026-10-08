@@ -18,4 +18,6 @@ export const otherwhereVQuilbor = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:45:28.494Z",
+  updatedAt: "2026-09-28T21:45:31.000Z",
 } as const satisfies Lore

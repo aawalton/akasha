@@ -42,4 +42,6 @@ export const otherwhereVBadudsGrid = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:47:10.358Z",
+  updatedAt: "2026-09-28T21:47:14.000Z",
 } as const satisfies Lore

@@ -61,4 +61,6 @@ export const otherwhereIvWuClan = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:10:41.324Z",
+  updatedAt: "2026-09-28T22:10:44.000Z",
 } as const satisfies Lore

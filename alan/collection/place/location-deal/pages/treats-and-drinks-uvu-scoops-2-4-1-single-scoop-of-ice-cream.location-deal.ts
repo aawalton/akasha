@@ -14,4 +14,6 @@ export const treatsAndDrinksUvuScoops241SingleScoopOfIceCream = {
   struckOut: false,
   useLimit: "1",
   usesUsed: 0,
+  createdAt: "2026-07-05T12:06:57.994Z",
+  updatedAt: "2026-09-15T17:23:55.000Z",
 } as const satisfies LocationDeal

@@ -37,4 +37,6 @@ export const otherwhereVLeaphare = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:00:22.082Z",
+  updatedAt: "2026-09-28T22:00:24.000Z",
 } as const satisfies Lore

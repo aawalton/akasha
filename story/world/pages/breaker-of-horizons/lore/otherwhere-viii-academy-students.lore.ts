@@ -82,4 +82,6 @@ export const otherwhereViiiAcademyStudents = {
     { fact: "Petyr is a first-year at the Academy.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:48:20.812Z",
+  updatedAt: "2026-09-28T22:48:29.000Z",
 } as const satisfies Lore

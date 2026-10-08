@@ -45,4 +45,6 @@ export const otherwhereVDragonwolf = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:42:57.887Z",
+  updatedAt: "2026-09-28T21:59:37.000Z",
 } as const satisfies Lore

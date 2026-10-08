@@ -14,4 +14,6 @@ export const otherwhereVMyrla = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:44:41.567Z",
+  updatedAt: "2026-09-28T21:44:46.000Z",
 } as const satisfies Lore

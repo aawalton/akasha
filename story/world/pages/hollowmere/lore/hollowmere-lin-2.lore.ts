@@ -197,4 +197,6 @@ export const hollowmereLin2 = {
       ],
     },
   ],
+  createdAt: "2026-10-03T12:15:38.279Z",
+  updatedAt: "2026-10-03T14:14:10.000Z",
 } as const satisfies Lore

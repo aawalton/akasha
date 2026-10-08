@@ -113,4 +113,6 @@ export const otherwhereIvAlchemy = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:05:58.915Z",
+  updatedAt: "2026-09-28T22:06:02.000Z",
 } as const satisfies Lore

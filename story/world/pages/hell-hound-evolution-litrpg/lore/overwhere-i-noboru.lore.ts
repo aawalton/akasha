@@ -32,4 +32,6 @@ export const overwhereINoboru = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:32:17.559Z",
+  updatedAt: "2026-09-29T12:32:20.000Z",
 } as const satisfies Lore

@@ -69,4 +69,6 @@ export const overwhereISakuraAoyama = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:29:34.557Z",
+  updatedAt: "2026-09-29T12:29:37.000Z",
 } as const satisfies Lore

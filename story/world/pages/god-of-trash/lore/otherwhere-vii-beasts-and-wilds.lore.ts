@@ -101,4 +101,6 @@ export const otherwhereViiBeastsAndWilds = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:57:26.845Z",
+  updatedAt: "2026-09-28T22:57:34.000Z",
 } as const satisfies Lore

@@ -316,4 +316,6 @@ export const overwhereINala2 = {
       ],
     },
   ],
+  createdAt: "2026-09-30T18:50:02.764Z",
+  updatedAt: "2026-10-04T13:32:13.000Z",
 } as const satisfies Lore

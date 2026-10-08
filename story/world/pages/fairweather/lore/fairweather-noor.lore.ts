@@ -404,4 +404,6 @@ export const fairweatherNoor = {
       ],
     },
   ],
+  createdAt: "2026-10-06T16:11:28.245Z",
+  updatedAt: "2026-10-07T02:24:42.000Z",
 } as const satisfies Lore

@@ -89,4 +89,6 @@ export const otherwhereIvLesserSects = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:11:38.523Z",
+  updatedAt: "2026-09-28T22:11:42.000Z",
 } as const satisfies Lore

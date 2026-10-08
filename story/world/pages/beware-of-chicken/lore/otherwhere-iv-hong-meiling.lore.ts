@@ -97,4 +97,6 @@ export const otherwhereIvHongMeiling = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:09:04.937Z",
+  updatedAt: "2026-09-28T22:09:08.000Z",
 } as const satisfies Lore

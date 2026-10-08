@@ -289,4 +289,6 @@ export const overwhereIVerdantEmpire = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:23:12.263Z",
+  updatedAt: "2026-09-29T12:23:15.000Z",
 } as const satisfies Lore

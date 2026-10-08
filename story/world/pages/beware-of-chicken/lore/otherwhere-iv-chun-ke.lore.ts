@@ -69,4 +69,6 @@ export const otherwhereIvChunKe = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:04:55.256Z",
+  updatedAt: "2026-09-28T22:05:01.000Z",
 } as const satisfies Lore

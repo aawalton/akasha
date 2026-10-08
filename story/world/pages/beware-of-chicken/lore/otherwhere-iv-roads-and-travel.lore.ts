@@ -129,4 +129,6 @@ export const otherwhereIvRoadsAndTravel = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:12:20.873Z",
+  updatedAt: "2026-09-28T22:12:23.000Z",
 } as const satisfies Lore

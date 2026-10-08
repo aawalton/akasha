@@ -145,4 +145,6 @@ export const otherwhereViiPotionsAndAlchemy = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:41:10.271Z",
+  updatedAt: "2026-09-28T22:41:14.000Z",
 } as const satisfies Lore

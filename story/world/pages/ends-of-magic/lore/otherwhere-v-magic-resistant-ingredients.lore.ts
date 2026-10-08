@@ -8,4 +8,6 @@ export const otherwhereVMagicResistantIngredients = {
   world: "world/ends-of-magic",
   about: "world-item/otherwhere-v-magic-resistant-ingredients",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:44:01.771Z",
+  updatedAt: "2026-09-28T21:44:05.000Z",
 } as const satisfies Lore

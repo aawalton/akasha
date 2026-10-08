@@ -93,4 +93,6 @@ export const otherwhereIvCreatures = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:12:41.921Z",
+  updatedAt: "2026-09-28T22:12:44.000Z",
 } as const satisfies Lore

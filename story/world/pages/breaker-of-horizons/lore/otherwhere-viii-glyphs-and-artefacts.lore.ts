@@ -357,4 +357,6 @@ export const otherwhereViiiGlyphsAndArtefacts = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:52:20.591Z",
+  updatedAt: "2026-09-28T22:52:28.000Z",
 } as const satisfies Lore

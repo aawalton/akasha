@@ -45,4 +45,6 @@ export const otherwhereIiAshback = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T19:47:16.021Z",
+  updatedAt: "2026-09-28T22:30:51.000Z",
 } as const satisfies Lore

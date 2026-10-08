@@ -49,4 +49,6 @@ export const otherwhereIvBlazeBears = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:03:41.124Z",
+  updatedAt: "2026-09-28T22:03:44.000Z",
 } as const satisfies Lore

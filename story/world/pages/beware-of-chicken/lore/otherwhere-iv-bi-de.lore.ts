@@ -173,4 +173,6 @@ export const otherwhereIvBiDe = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:02:57.413Z",
+  updatedAt: "2026-09-28T22:03:00.000Z",
 } as const satisfies Lore

@@ -26,4 +26,6 @@ export const otherwhereVFaline = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:45:46.262Z",
+  updatedAt: "2026-09-28T21:45:49.000Z",
 } as const satisfies Lore

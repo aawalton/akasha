@@ -105,4 +105,6 @@ export const otherwhereViiMoney = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:54:10.933Z",
+  updatedAt: "2026-09-28T22:54:14.000Z",
 } as const satisfies Lore

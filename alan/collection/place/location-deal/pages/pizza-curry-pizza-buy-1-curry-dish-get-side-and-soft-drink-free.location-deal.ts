@@ -15,4 +15,6 @@ export const pizzaCurryPizzaBuy1CurryDishGetSideAndSoftDrinkFree = {
   struckOut: false,
   useLimit: "3",
   usesUsed: 0,
+  createdAt: "2026-07-05T12:06:54.296Z",
+  updatedAt: "2026-09-15T17:23:10.000Z",
 } as const satisfies LocationDeal

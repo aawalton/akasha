@@ -13,4 +13,6 @@ export const otherwhereVGrowth = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:05:00.272Z",
+  updatedAt: "2026-09-28T22:05:06.000Z",
 } as const satisfies Lore

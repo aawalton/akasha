@@ -37,4 +37,6 @@ export const otherwhereVMudjaw = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:00:03.115Z",
+  updatedAt: "2026-09-28T22:00:05.000Z",
 } as const satisfies Lore

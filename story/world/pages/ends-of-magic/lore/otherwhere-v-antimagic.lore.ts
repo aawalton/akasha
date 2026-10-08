@@ -102,4 +102,6 @@ export const otherwhereVAntimagic = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:43:08.244Z",
+  updatedAt: "2026-09-28T21:43:11.000Z",
 } as const satisfies Lore

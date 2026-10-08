@@ -84,4 +84,6 @@ export const overwhereILily = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:25:08.794Z",
+  updatedAt: "2026-09-29T12:25:12.000Z",
 } as const satisfies Lore

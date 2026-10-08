@@ -120,4 +120,6 @@ export const otherwhereIvSectLife = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:09:20.038Z",
+  updatedAt: "2026-09-28T22:09:23.000Z",
 } as const satisfies Lore

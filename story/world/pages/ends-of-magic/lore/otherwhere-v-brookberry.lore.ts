@@ -37,4 +37,6 @@ export const otherwhereVBrookberry = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:01:04.542Z",
+  updatedAt: "2026-09-28T22:01:07.000Z",
 } as const satisfies Lore

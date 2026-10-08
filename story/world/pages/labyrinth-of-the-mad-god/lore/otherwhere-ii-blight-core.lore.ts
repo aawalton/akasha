@@ -13,4 +13,6 @@ export const otherwhereIiBlightCore = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:59:27.061Z",
+  updatedAt: "2026-09-28T22:30:51.000Z",
 } as const satisfies Lore

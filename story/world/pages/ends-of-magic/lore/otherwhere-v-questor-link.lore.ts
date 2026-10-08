@@ -8,4 +8,6 @@ export const otherwhereVQuestorLink = {
   world: "world/ends-of-magic",
   about: "world-mechanic/otherwhere-v-questor-link",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:51:36.282Z",
+  updatedAt: "2026-09-28T21:51:43.000Z",
 } as const satisfies Lore

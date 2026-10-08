@@ -246,4 +246,6 @@ export const otherwhereIvGrannyHua = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T02:06:40.197Z",
+  updatedAt: "2026-09-29T04:06:37.000Z",
 } as const satisfies Lore

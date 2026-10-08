@@ -22,4 +22,6 @@ export const otherwhereVNierna = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:47:36.376Z",
+  updatedAt: "2026-09-28T21:47:39.000Z",
 } as const satisfies Lore

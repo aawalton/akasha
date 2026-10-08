@@ -398,4 +398,6 @@ export const hollowmereNala2 = {
       ],
     },
   ],
+  createdAt: "2026-10-02T20:42:50.191Z",
+  updatedAt: "2026-10-03T13:38:59.000Z",
 } as const satisfies Lore

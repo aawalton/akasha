@@ -45,4 +45,6 @@ export const otherwhereIvMistyLakeSect = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:14:51.060Z",
+  updatedAt: "2026-09-28T22:14:54.000Z",
 } as const satisfies Lore

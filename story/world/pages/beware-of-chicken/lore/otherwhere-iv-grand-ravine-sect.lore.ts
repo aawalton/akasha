@@ -97,4 +97,6 @@ export const otherwhereIvGrandRavineSect = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:08:03.390Z",
+  updatedAt: "2026-09-28T22:08:10.000Z",
 } as const satisfies Lore

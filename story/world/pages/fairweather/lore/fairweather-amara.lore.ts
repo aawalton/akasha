@@ -159,4 +159,6 @@ export const fairweatherAmara = {
       knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
     },
   ],
+  createdAt: "2026-10-06T20:51:26.140Z",
+  updatedAt: "2026-10-07T02:24:42.000Z",
 } as const satisfies Lore

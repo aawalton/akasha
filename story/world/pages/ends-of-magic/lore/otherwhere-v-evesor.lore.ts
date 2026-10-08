@@ -34,4 +34,6 @@ export const otherwhereVEvesor = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:45:14.995Z",
+  updatedAt: "2026-09-28T21:45:18.000Z",
 } as const satisfies Lore

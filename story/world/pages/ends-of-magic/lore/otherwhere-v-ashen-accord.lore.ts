@@ -86,4 +86,6 @@ export const otherwhereVAshenAccord = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:48:16.464Z",
+  updatedAt: "2026-09-28T21:48:19.000Z",
 } as const satisfies Lore

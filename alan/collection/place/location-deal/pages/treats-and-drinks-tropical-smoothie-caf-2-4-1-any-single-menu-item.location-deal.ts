@@ -15,4 +15,6 @@ export const treatsAndDrinksTropicalSmoothieCaf241AnySingleMenuItem = {
   struckOut: false,
   useLimit: "2",
   usesUsed: 0,
+  createdAt: "2026-07-05T12:06:57.905Z",
+  updatedAt: "2026-09-15T17:23:55.000Z",
 } as const satisfies LocationDeal

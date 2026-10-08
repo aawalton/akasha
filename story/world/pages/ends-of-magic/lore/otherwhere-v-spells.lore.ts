@@ -134,4 +134,6 @@ export const otherwhereVSpells = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:37:46.191Z",
+  updatedAt: "2026-09-28T21:37:49.000Z",
 } as const satisfies Lore

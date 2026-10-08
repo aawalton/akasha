@@ -161,4 +161,6 @@ export const hollowmereYusra2 = {
       ],
     },
   ],
+  createdAt: "2026-10-03T12:15:38.280Z",
+  updatedAt: "2026-10-03T14:58:25.000Z",
 } as const satisfies Lore

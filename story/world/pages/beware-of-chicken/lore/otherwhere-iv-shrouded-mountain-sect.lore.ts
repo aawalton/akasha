@@ -189,4 +189,6 @@ export const otherwhereIvShroudedMountainSect = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:05:15.476Z",
+  updatedAt: "2026-09-28T22:05:18.000Z",
 } as const satisfies Lore

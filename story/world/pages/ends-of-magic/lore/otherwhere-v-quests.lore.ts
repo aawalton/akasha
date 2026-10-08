@@ -14,4 +14,6 @@ export const otherwhereVQuests = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:47:03.946Z",
+  updatedAt: "2026-09-28T21:47:07.000Z",
 } as const satisfies Lore

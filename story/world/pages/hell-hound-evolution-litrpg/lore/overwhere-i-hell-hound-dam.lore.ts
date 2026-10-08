@@ -40,4 +40,6 @@ export const overwhereIHellHoundDam = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:27:34.017Z",
+  updatedAt: "2026-09-29T12:27:37.000Z",
 } as const satisfies Lore

@@ -270,4 +270,6 @@ export const fairweatherCora2 = {
       ],
     },
   ],
+  createdAt: "2026-10-06T21:17:57.755Z",
+  updatedAt: "2026-10-07T02:24:42.000Z",
 } as const satisfies Lore

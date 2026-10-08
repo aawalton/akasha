@@ -137,4 +137,6 @@ export const otherwhereIvLawAndBandits = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:11:55.519Z",
+  updatedAt: "2026-09-28T22:11:58.000Z",
 } as const satisfies Lore

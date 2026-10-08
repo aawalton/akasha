@@ -118,4 +118,6 @@ export const otherwhereVDevelopment = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:43:33.863Z",
+  updatedAt: "2026-09-28T22:10:07.000Z",
 } as const satisfies Lore

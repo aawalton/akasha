@@ -20,4 +20,6 @@ export const otherwhereIiBonecrunchers = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T20:41:44.114Z",
+  updatedAt: "2026-09-28T22:30:51.000Z",
 } as const satisfies Lore

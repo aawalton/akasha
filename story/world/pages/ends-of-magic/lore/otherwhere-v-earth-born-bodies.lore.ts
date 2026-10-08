@@ -8,4 +8,6 @@ export const otherwhereVEarthBornBodies = {
   world: "world/ends-of-magic",
   about: "world-mechanic/otherwhere-v-earth-born-bodies",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:43:31.573Z",
+  updatedAt: "2026-09-28T21:43:34.000Z",
 } as const satisfies Lore

@@ -61,4 +61,6 @@ export const otherwhereViiPeopleOfRenown = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:58:26.380Z",
+  updatedAt: "2026-09-28T22:58:30.000Z",
 } as const satisfies Lore

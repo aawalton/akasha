@@ -85,4 +85,6 @@ export const otherwhereIvDemonicCultivators = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:06:12.547Z",
+  updatedAt: "2026-09-28T22:06:16.000Z",
 } as const satisfies Lore

@@ -158,4 +158,6 @@ export const otherwhereVEsebus = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:43:07.809Z",
+  updatedAt: "2026-09-28T22:09:46.000Z",
 } as const satisfies Lore

@@ -286,4 +286,6 @@ export const encountersKenzie = {
       ],
     },
   ],
+  createdAt: "2026-10-06T21:12:27.663Z",
+  updatedAt: "2026-10-07T01:47:45.000Z",
 } as const satisfies Lore

@@ -255,4 +255,6 @@ export const fairweatherElsie = {
       ],
     },
   ],
+  createdAt: "2026-10-03T16:53:18.043Z",
+  updatedAt: "2026-10-06T23:17:53.000Z",
 } as const satisfies Lore

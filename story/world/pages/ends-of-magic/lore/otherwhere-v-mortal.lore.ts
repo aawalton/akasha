@@ -46,4 +46,6 @@ export const otherwhereVMortal = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:40:35.712Z",
+  updatedAt: "2026-09-28T21:40:38.000Z",
 } as const satisfies Lore

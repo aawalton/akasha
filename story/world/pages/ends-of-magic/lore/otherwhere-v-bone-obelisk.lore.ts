@@ -22,4 +22,6 @@ export const otherwhereVBoneObelisk = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:46:57.667Z",
+  updatedAt: "2026-09-28T21:47:00.000Z",
 } as const satisfies Lore

@@ -90,4 +90,6 @@ export const otherwhereVClassSkills = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:41:31.963Z",
+  updatedAt: "2026-09-28T21:41:35.000Z",
 } as const satisfies Lore

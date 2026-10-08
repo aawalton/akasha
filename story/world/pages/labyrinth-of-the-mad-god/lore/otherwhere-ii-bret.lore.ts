@@ -13,4 +13,6 @@ export const otherwhereIiBret = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:52:55.875Z",
+  updatedAt: "2026-09-28T22:30:51.000Z",
 } as const satisfies Lore

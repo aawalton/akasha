@@ -25,4 +25,6 @@ export const otherwhereIvWreckerballs = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:10:20.546Z",
+  updatedAt: "2026-09-28T22:10:23.000Z",
 } as const satisfies Lore

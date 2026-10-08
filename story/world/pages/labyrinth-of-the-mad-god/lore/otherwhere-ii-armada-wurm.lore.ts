@@ -45,4 +45,6 @@ export const otherwhereIiArmadaWurm = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:46:05.852Z",
+  updatedAt: "2026-09-28T22:27:15.000Z",
 } as const satisfies Lore

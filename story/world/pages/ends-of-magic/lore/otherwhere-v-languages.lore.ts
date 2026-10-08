@@ -137,4 +137,6 @@ export const otherwhereVLanguages = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:55:44.771Z",
+  updatedAt: "2026-09-28T21:55:48.000Z",
 } as const satisfies Lore

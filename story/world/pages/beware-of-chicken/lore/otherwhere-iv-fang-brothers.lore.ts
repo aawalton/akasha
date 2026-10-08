@@ -33,4 +33,6 @@ export const otherwhereIvFangBrothers = {
       ],
     },
   ],
+  createdAt: "2026-09-29T00:58:52.433Z",
+  updatedAt: "2026-09-29T03:34:20.000Z",
 } as const satisfies Lore

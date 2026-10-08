@@ -30,4 +30,6 @@ export const otherwhereVNuclearMagic = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:52:21.511Z",
+  updatedAt: "2026-09-28T21:52:29.000Z",
 } as const satisfies Lore

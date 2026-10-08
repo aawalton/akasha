@@ -76,4 +76,6 @@ export const otherwhereIvCalendar = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:13:15.578Z",
+  updatedAt: "2026-09-28T23:10:10.000Z",
 } as const satisfies Lore

@@ -130,4 +130,6 @@ export const haremHotelWren = {
       ],
     },
   ],
+  createdAt: "2026-09-28T13:34:12.292Z",
+  updatedAt: "2026-09-30T07:15:12.000Z",
 } as const satisfies Lore

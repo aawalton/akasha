@@ -26,4 +26,6 @@ export const otherwhereVSarah = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:42:50.647Z",
+  updatedAt: "2026-09-28T21:42:53.000Z",
 } as const satisfies Lore

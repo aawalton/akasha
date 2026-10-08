@@ -90,4 +90,6 @@ export const otherwhereVUndead = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:45:54.475Z",
+  updatedAt: "2026-09-28T22:03:58.000Z",
 } as const satisfies Lore

@@ -109,4 +109,6 @@ export const otherwhereIvMinorPeopleOfTheHills = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:14:29.801Z",
+  updatedAt: "2026-09-28T22:14:34.000Z",
 } as const satisfies Lore

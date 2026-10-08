@@ -46,4 +46,6 @@ export const theFirstBuried = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-26T13:55:18.845Z",
+  updatedAt: "2026-10-03T19:27:01.000Z",
 } as const satisfies Lore

@@ -33,4 +33,6 @@ export const otherwhereVAlchemy = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:44:01.770Z",
+  updatedAt: "2026-09-28T21:44:05.000Z",
 } as const satisfies Lore

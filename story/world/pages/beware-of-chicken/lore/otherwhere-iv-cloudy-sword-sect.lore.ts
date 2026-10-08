@@ -109,4 +109,6 @@ export const otherwhereIvCloudySwordSect = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:05:25.354Z",
+  updatedAt: "2026-09-28T22:05:28.000Z",
 } as const satisfies Lore

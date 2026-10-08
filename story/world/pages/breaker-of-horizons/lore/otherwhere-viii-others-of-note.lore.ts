@@ -81,4 +81,6 @@ export const otherwhereViiiOthersOfNote = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:51:55.271Z",
+  updatedAt: "2026-09-28T22:52:00.000Z",
 } as const satisfies Lore

@@ -217,4 +217,6 @@ export const otherwhereIvNala = {
       ],
     },
   ],
+  createdAt: "2026-09-28T21:17:00.394Z",
+  updatedAt: "2026-09-29T04:06:37.000Z",
 } as const satisfies Lore

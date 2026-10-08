@@ -266,4 +266,6 @@ export const overwhereIBloodyPeaksTribe = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:24:51.142Z",
+  updatedAt: "2026-09-29T12:24:54.000Z",
 } as const satisfies Lore

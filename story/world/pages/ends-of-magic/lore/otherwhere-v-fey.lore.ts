@@ -17,4 +17,6 @@ export const otherwhereVFey = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:39:01.889Z",
+  updatedAt: "2026-09-28T21:39:06.000Z",
 } as const satisfies Lore

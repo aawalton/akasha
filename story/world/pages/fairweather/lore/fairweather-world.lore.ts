@@ -214,4 +214,6 @@ export const fairweatherWorld = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-10-03T16:53:18.043Z",
+  updatedAt: "2026-10-07T02:24:42.000Z",
 } as const satisfies Lore

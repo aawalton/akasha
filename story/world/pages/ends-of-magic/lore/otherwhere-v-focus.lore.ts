@@ -50,4 +50,6 @@ export const otherwhereVFocus = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:44:26.291Z",
+  updatedAt: "2026-09-28T21:44:29.000Z",
 } as const satisfies Lore

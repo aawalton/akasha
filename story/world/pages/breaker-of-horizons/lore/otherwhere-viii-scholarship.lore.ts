@@ -121,4 +121,6 @@ export const otherwhereViiiScholarship = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T01:39:18.799Z",
+  updatedAt: "2026-09-29T02:44:22.000Z",
 } as const satisfies Lore

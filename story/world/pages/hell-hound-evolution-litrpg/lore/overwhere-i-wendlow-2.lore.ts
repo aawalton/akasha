@@ -337,4 +337,6 @@ export const overwhereIWendlow2 = {
       ],
     },
   ],
+  createdAt: "2026-10-03T01:01:01.446Z",
+  updatedAt: "2026-10-03T12:59:06.000Z",
 } as const satisfies Lore

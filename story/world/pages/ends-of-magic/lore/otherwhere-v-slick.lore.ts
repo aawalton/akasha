@@ -30,4 +30,6 @@ export const otherwhereVSlick = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:47:36.377Z",
+  updatedAt: "2026-09-28T21:47:39.000Z",
 } as const satisfies Lore

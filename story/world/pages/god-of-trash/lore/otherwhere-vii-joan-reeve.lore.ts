@@ -81,4 +81,6 @@ export const otherwhereViiJoanReeve = {
       ],
     },
   ],
+  createdAt: "2026-09-29T01:22:18.054Z",
+  updatedAt: "2026-09-29T04:12:36.000Z",
 } as const satisfies Lore

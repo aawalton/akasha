@@ -95,4 +95,6 @@ export const theWakingStoneTheCore = {
     { fact: "The core forgot its own name in the dark.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-26T13:55:18.845Z",
+  updatedAt: "2026-10-03T19:29:36.000Z",
 } as const satisfies Lore

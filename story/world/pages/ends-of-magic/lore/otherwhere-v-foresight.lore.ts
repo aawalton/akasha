@@ -46,4 +46,6 @@ export const otherwhereVForesight = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:51:28.428Z",
+  updatedAt: "2026-09-28T21:51:32.000Z",
 } as const satisfies Lore

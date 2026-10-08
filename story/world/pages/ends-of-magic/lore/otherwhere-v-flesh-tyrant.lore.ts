@@ -17,4 +17,6 @@ export const otherwhereVFleshTyrant = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:46:57.668Z",
+  updatedAt: "2026-09-28T21:47:00.000Z",
 } as const satisfies Lore

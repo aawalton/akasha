@@ -122,4 +122,6 @@ export const otherwhereVBlights = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:47:06.055Z",
+  updatedAt: "2026-09-28T21:47:09.000Z",
 } as const satisfies Lore

@@ -148,4 +148,6 @@ export const overwhereIGeography = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:30:04.249Z",
+  updatedAt: "2026-09-29T12:30:07.000Z",
 } as const satisfies Lore

@@ -40,4 +40,6 @@ export const overwhereIHelga = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-29T12:30:02.653Z",
+  updatedAt: "2026-09-29T12:30:06.000Z",
 } as const satisfies Lore

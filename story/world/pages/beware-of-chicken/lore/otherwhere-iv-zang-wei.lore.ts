@@ -28,4 +28,6 @@ export const otherwhereIvZangWei = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:13:01.055Z",
+  updatedAt: "2026-09-28T22:13:05.000Z",
 } as const satisfies Lore

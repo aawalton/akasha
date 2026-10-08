@@ -41,4 +41,6 @@ export const otherwhereIvVerdantBladeSect = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:09:45.849Z",
+  updatedAt: "2026-09-28T22:09:52.000Z",
 } as const satisfies Lore

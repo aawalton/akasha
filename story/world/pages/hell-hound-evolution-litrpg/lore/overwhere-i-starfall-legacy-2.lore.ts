@@ -353,4 +353,6 @@ export const overwhereIStarfallLegacy2 = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-30T22:04:36.881Z",
+  updatedAt: "2026-10-03T13:05:16.000Z",
 } as const satisfies Lore

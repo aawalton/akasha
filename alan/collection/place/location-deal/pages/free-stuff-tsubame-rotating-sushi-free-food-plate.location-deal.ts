@@ -15,4 +15,6 @@ export const freeStuffTsubameRotatingSushiFreeFoodPlate = {
   struckOut: false,
   useLimit: "2",
   usesUsed: 0,
+  createdAt: "2026-07-05T12:06:54.126Z",
+  updatedAt: "2026-09-15T17:23:10.000Z",
 } as const satisfies LocationDeal

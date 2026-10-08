@@ -213,4 +213,6 @@ export const encountersPriya2 = {
       ],
     },
   ],
+  createdAt: "2026-10-07T00:07:26.196Z",
+  updatedAt: "2026-10-07T01:47:45.000Z",
 } as const satisfies Lore

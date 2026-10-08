@@ -82,4 +82,6 @@ export const hollowmereMorwenna = {
       ],
     },
   ],
+  createdAt: "2026-10-02T21:48:05.670Z",
+  updatedAt: "2026-10-03T14:14:10.000Z",
 } as const satisfies Lore

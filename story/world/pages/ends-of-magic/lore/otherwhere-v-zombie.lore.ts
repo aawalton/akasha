@@ -21,4 +21,6 @@ export const otherwhereVZombie = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:45:54.476Z",
+  updatedAt: "2026-09-28T21:45:57.000Z",
 } as const satisfies Lore

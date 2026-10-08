@@ -83,4 +83,6 @@ export const overwhereIFenwatch2 = {
       ],
     },
   ],
+  createdAt: "2026-09-30T19:13:38.911Z",
+  updatedAt: "2026-10-02T15:19:57.000Z",
 } as const satisfies Lore

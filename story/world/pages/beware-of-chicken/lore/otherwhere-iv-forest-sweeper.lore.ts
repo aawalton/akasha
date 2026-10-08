@@ -57,4 +57,6 @@ export const otherwhereIvForestSweeper = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:06:56.585Z",
+  updatedAt: "2026-09-28T22:06:59.000Z",
 } as const satisfies Lore

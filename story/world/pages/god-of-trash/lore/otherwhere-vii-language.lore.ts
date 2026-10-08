@@ -45,4 +45,6 @@ export const otherwhereViiLanguage = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:01:41.344Z",
+  updatedAt: "2026-09-29T01:46:45.000Z",
 } as const satisfies Lore

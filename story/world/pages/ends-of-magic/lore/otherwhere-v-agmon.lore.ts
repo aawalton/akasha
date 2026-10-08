@@ -34,4 +34,6 @@ export const otherwhereVAgmon = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:40:39.019Z",
+  updatedAt: "2026-09-28T21:40:42.000Z",
 } as const satisfies Lore

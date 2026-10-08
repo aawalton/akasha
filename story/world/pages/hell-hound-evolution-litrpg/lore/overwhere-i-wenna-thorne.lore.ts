@@ -65,4 +65,6 @@ export const overwhereIWennaThorne = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:32:10.023Z",
+  updatedAt: "2026-09-30T10:17:56.000Z",
 } as const satisfies Lore

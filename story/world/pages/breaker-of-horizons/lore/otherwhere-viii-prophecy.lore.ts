@@ -193,4 +193,6 @@ export const otherwhereViiiProphecy = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:48:28.225Z",
+  updatedAt: "2026-09-28T22:48:34.000Z",
 } as const satisfies Lore

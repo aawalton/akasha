@@ -36,4 +36,6 @@ export const otherwhereIvTieBo = {
       ],
     },
   ],
+  createdAt: "2026-09-29T00:58:52.434Z",
+  updatedAt: "2026-09-29T02:31:01.000Z",
 } as const satisfies Lore

@@ -42,4 +42,6 @@ export const otherwhereVCouncilOfEightyNine = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:52:12.950Z",
+  updatedAt: "2026-09-28T21:52:25.000Z",
 } as const satisfies Lore

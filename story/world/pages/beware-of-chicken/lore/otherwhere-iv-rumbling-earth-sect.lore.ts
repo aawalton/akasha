@@ -40,4 +40,6 @@ export const otherwhereIvRumblingEarthSect = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:03:14.854Z",
+  updatedAt: "2026-09-28T22:03:17.000Z",
 } as const satisfies Lore

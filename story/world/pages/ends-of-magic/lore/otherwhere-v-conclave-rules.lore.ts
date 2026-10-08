@@ -38,4 +38,6 @@ export const otherwhereVConclaveRules = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:46:38.179Z",
+  updatedAt: "2026-09-28T21:46:42.000Z",
 } as const satisfies Lore

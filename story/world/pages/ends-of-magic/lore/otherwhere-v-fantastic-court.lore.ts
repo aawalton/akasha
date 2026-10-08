@@ -13,4 +13,6 @@ export const otherwhereVFantasticCourt = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:50:54.578Z",
+  updatedAt: "2026-09-28T21:50:58.000Z",
 } as const satisfies Lore

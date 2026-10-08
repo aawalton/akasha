@@ -38,4 +38,6 @@ export const otherwhereVShieldOfSolemnance = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:54:53.360Z",
+  updatedAt: "2026-09-28T21:54:59.000Z",
 } as const satisfies Lore

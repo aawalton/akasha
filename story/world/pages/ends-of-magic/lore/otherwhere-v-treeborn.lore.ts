@@ -26,4 +26,6 @@ export const otherwhereVTreeborn = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:37:57.319Z",
+  updatedAt: "2026-09-28T22:11:19.000Z",
 } as const satisfies Lore

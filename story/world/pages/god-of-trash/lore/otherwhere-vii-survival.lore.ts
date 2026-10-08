@@ -29,4 +29,6 @@ export const otherwhereViiSurvival = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T23:04:51.651Z",
+  updatedAt: "2026-09-28T23:04:54.000Z",
 } as const satisfies Lore

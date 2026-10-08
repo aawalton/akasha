@@ -133,4 +133,6 @@ export const climbMina = {
       ],
     },
   ],
+  createdAt: "2026-10-01T21:40:17.260Z",
+  updatedAt: "2026-10-01T21:49:50.000Z",
 } as const satisfies Lore

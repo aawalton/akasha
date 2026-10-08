@@ -26,4 +26,6 @@ export const otherwhereVNolDhoChokiz = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:43:29.375Z",
+  updatedAt: "2026-09-28T21:43:32.000Z",
 } as const satisfies Lore

@@ -14,4 +14,6 @@ export const entertainmentLanKing50OffPrivatePartyForUpTo10Players = {
   struckOut: false,
   useLimit: "1",
   usesUsed: 0,
+  createdAt: "2026-07-05T12:06:52.703Z",
+  updatedAt: "2026-09-15T17:23:10.000Z",
 } as const satisfies LocationDeal

@@ -85,4 +85,6 @@ export const otherwhereIiAbilities = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:10:09.616Z",
+  updatedAt: "2026-09-28T22:27:15.000Z",
 } as const satisfies Lore

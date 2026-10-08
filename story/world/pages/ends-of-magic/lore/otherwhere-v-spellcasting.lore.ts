@@ -142,4 +142,6 @@ export const otherwhereVSpellcasting = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:36:41.272Z",
+  updatedAt: "2026-09-28T21:36:44.000Z",
 } as const satisfies Lore

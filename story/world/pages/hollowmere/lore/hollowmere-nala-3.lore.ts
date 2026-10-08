@@ -51,4 +51,6 @@ export const hollowmereNala3 = {
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
   ],
+  createdAt: "2026-10-03T13:38:56.496Z",
+  updatedAt: "2026-10-03T14:34:10.000Z",
 } as const satisfies Lore

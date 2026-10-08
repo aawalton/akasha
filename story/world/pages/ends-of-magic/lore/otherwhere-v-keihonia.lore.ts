@@ -74,4 +74,6 @@ export const otherwhereVKeihonia = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:44:51.574Z",
+  updatedAt: "2026-09-28T21:44:58.000Z",
 } as const satisfies Lore

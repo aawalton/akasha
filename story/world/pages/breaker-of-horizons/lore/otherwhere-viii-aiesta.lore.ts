@@ -90,4 +90,6 @@ export const otherwhereViiiAiesta = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:41:04.727Z",
+  updatedAt: "2026-09-29T00:39:48.000Z",
 } as const satisfies Lore

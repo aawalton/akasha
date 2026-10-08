@@ -38,4 +38,6 @@ export const otherwhereVAdventurers = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:40:00.557Z",
+  updatedAt: "2026-09-28T21:40:05.000Z",
 } as const satisfies Lore

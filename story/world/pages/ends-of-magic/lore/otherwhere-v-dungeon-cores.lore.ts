@@ -25,4 +25,6 @@ export const otherwhereVDungeonCores = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:46:25.382Z",
+  updatedAt: "2026-09-28T21:46:28.000Z",
 } as const satisfies Lore

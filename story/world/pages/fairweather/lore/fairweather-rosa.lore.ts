@@ -26,4 +26,6 @@ export const fairweatherRosa = {
       ],
     },
   ],
+  createdAt: "2026-10-04T13:15:40.550Z",
+  updatedAt: "2026-10-04T14:36:56.000Z",
 } as const satisfies Lore

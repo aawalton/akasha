@@ -25,4 +25,6 @@ export const otherwhereIvPlumBlossomsShadow = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:01:49.329Z",
+  updatedAt: "2026-09-28T22:01:52.000Z",
 } as const satisfies Lore

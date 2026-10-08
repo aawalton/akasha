@@ -26,4 +26,6 @@ export const otherwhereVSudraiel = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:49:08.240Z",
+  updatedAt: "2026-09-28T21:49:11.000Z",
 } as const satisfies Lore

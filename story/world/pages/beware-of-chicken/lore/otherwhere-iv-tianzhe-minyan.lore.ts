@@ -33,4 +33,6 @@ export const otherwhereIvTianzheMinyan = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:08:33.215Z",
+  updatedAt: "2026-09-28T22:08:37.000Z",
 } as const satisfies Lore

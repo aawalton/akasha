@@ -169,4 +169,6 @@ export const otherwhereIvShenYu = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:04:23.665Z",
+  updatedAt: "2026-09-28T22:04:26.000Z",
 } as const satisfies Lore

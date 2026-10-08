@@ -335,4 +335,6 @@ export const hollowmereAcademy2 = {
       ],
     },
   ],
+  createdAt: "2026-10-02T20:47:47.805Z",
+  updatedAt: "2026-10-03T14:58:25.000Z",
 } as const satisfies Lore

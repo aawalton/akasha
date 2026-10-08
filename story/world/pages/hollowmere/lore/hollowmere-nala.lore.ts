@@ -365,4 +365,6 @@ export const hollowmereNala = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-10-02T14:50:34.514Z",
+  updatedAt: "2026-10-03T01:11:29.000Z",
 } as const satisfies Lore

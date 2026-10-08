@@ -345,4 +345,6 @@ export const otherwhereViiiAcademy = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:50:12.100Z",
+  updatedAt: "2026-09-28T22:50:22.000Z",
 } as const satisfies Lore

@@ -33,4 +33,6 @@ export const otherwhereVFloatingStones = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:56:23.553Z",
+  updatedAt: "2026-09-28T21:56:26.000Z",
 } as const satisfies Lore

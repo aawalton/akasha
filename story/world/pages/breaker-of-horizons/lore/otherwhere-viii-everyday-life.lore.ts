@@ -104,4 +104,6 @@ export const otherwhereViiiEverydayLife = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:46:48.558Z",
+  updatedAt: "2026-09-28T22:46:54.000Z",
 } as const satisfies Lore

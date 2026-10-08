@@ -141,4 +141,6 @@ export const otherwhereIvMortalLife = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:10:31.471Z",
+  updatedAt: "2026-09-28T22:10:34.000Z",
 } as const satisfies Lore

@@ -165,4 +165,6 @@ export const overwhereISootjaw = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:27:58.317Z",
+  updatedAt: "2026-09-30T08:59:27.000Z",
 } as const satisfies Lore

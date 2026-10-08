@@ -271,4 +271,6 @@ export const emberdeepNala = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-10-02T18:01:06.191Z",
+  updatedAt: "2026-10-02T21:43:15.000Z",
 } as const satisfies Lore

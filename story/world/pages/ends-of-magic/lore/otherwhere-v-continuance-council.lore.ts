@@ -8,4 +8,6 @@ export const otherwhereVContinuanceCouncil = {
   world: "world/ends-of-magic",
   about: "world-organization/otherwhere-v-continuance-council",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:52:12.949Z",
+  updatedAt: "2026-09-28T21:52:25.000Z",
 } as const satisfies Lore

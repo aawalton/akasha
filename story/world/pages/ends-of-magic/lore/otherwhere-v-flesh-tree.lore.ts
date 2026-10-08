@@ -29,4 +29,6 @@ export const otherwhereVFleshTree = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:50:50.240Z",
+  updatedAt: "2026-09-28T21:50:54.000Z",
 } as const satisfies Lore

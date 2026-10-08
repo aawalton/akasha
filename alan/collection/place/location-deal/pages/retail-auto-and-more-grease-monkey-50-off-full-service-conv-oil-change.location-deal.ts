@@ -15,4 +15,6 @@ export const retailAutoAndMoreGreaseMonkey50OffFullServiceConvOilChange = {
   struckOut: false,
   useLimit: "1",
   usesUsed: 0,
+  createdAt: "2026-07-05T12:06:56.208Z",
+  updatedAt: "2026-09-15T17:23:34.000Z",
 } as const satisfies LocationDeal

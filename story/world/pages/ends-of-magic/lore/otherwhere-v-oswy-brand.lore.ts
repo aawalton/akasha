@@ -42,4 +42,6 @@ export const otherwhereVOswyBrand = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:56:17.827Z",
+  updatedAt: "2026-09-28T21:56:21.000Z",
 } as const satisfies Lore

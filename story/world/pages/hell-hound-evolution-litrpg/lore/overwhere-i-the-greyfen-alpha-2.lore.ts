@@ -338,4 +338,6 @@ export const overwhereITheGreyfenAlpha2 = {
       ],
     },
   ],
+  createdAt: "2026-09-30T21:01:47.715Z",
+  updatedAt: "2026-10-02T15:38:47.000Z",
 } as const satisfies Lore

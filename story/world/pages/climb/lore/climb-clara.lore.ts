@@ -107,4 +107,6 @@ export const climbClara = {
       ],
     },
   ],
+  createdAt: "2026-10-01T21:26:52.848Z",
+  updatedAt: "2026-10-01T21:38:05.000Z",
 } as const satisfies Lore

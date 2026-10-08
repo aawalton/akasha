@@ -64,4 +64,6 @@ export const otherwhereIvThunderhooves = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:07:47.052Z",
+  updatedAt: "2026-09-28T22:07:50.000Z",
 } as const satisfies Lore

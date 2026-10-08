@@ -58,4 +58,6 @@ export const otherwhereViiHistoryAndGods = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:57:56.113Z",
+  updatedAt: "2026-09-28T22:57:59.000Z",
 } as const satisfies Lore

@@ -78,4 +78,6 @@ export const otherwhereVScrying = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:51:00.550Z",
+  updatedAt: "2026-09-28T21:51:05.000Z",
 } as const satisfies Lore

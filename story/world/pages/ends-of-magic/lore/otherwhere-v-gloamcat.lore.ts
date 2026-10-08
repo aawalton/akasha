@@ -182,4 +182,6 @@ export const otherwhereVGloamcat = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
   ],
+  createdAt: "2026-09-28T21:40:48.318Z",
+  updatedAt: "2026-09-28T22:59:54.000Z",
 } as const satisfies Lore

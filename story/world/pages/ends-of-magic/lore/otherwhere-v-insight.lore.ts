@@ -110,4 +110,6 @@ export const otherwhereVInsight = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:42:31.109Z",
+  updatedAt: "2026-09-28T21:42:34.000Z",
 } as const satisfies Lore

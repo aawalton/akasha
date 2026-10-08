@@ -93,4 +93,6 @@ export const overwhereITheGreyfenAlpha3 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
+  createdAt: "2026-10-01T14:22:52.479Z",
+  updatedAt: "2026-10-03T13:52:41.000Z",
 } as const satisfies Lore

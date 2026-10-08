@@ -29,4 +29,6 @@ export const otherwhereVVortexMagic = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:53:13.926Z",
+  updatedAt: "2026-09-28T21:53:17.000Z",
 } as const satisfies Lore

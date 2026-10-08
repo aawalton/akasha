@@ -49,4 +49,6 @@ export const otherwhereIvAzureAlliance = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:02:03.783Z",
+  updatedAt: "2026-09-28T22:02:07.000Z",
 } as const satisfies Lore

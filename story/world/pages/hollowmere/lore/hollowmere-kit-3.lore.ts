@@ -145,4 +145,6 @@ export const hollowmereKit3 = {
       ],
     },
   ],
+  createdAt: "2026-10-03T13:38:56.496Z",
+  updatedAt: "2026-10-03T14:58:25.000Z",
 } as const satisfies Lore

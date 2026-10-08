@@ -17,4 +17,6 @@ export const otherwhereViiHiddenCurrents = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T23:04:33.155Z",
+  updatedAt: "2026-09-28T23:04:36.000Z",
 } as const satisfies Lore

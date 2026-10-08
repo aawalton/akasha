@@ -40,4 +40,6 @@ export const otherwhereIvZhaoHousehold = {
       ],
     },
   ],
+  createdAt: "2026-09-28T23:02:34.252Z",
+  updatedAt: "2026-09-28T23:02:40.000Z",
 } as const satisfies Lore

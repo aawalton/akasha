@@ -20,4 +20,6 @@ export const otherwhereIiBasilisk = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T20:46:05.853Z",
+  updatedAt: "2026-09-28T22:30:51.000Z",
 } as const satisfies Lore

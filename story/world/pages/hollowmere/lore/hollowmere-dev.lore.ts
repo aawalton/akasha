@@ -29,4 +29,6 @@ export const hollowmereDev = {
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-priya"],
     },
   ],
+  createdAt: "2026-10-02T21:48:05.669Z",
+  updatedAt: "2026-10-02T21:50:17.000Z",
 } as const satisfies Lore

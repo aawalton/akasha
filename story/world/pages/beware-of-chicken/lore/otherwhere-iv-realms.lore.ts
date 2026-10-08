@@ -197,4 +197,6 @@ export const otherwhereIvRealms = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:02:55.200Z",
+  updatedAt: "2026-09-28T22:02:58.000Z",
 } as const satisfies Lore

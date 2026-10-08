@@ -113,4 +113,6 @@ export const otherwhereIvRouTigu = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:03:01.002Z",
+  updatedAt: "2026-09-28T22:03:03.000Z",
 } as const satisfies Lore

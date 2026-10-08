@@ -52,4 +52,6 @@ export const otherwhereIvSoaringHeavensIsleSect = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:05:31.609Z",
+  updatedAt: "2026-09-28T22:05:34.000Z",
 } as const satisfies Lore

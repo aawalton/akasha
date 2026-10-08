@@ -90,4 +90,6 @@ export const otherwhereVMentalMagic = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:44:23.753Z",
+  updatedAt: "2026-09-28T21:44:27.000Z",
 } as const satisfies Lore

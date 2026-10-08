@@ -41,4 +41,6 @@ export const overwhereIEmericDunhallow = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:37:17.870Z",
+  updatedAt: "2026-09-29T12:37:21.000Z",
 } as const satisfies Lore

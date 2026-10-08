@@ -13,4 +13,6 @@ export const otherwhereVSiblingsOfItonia = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:41:18.696Z",
+  updatedAt: "2026-09-28T21:41:22.000Z",
 } as const satisfies Lore

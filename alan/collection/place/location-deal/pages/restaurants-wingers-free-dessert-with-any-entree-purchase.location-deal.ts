@@ -15,4 +15,6 @@ export const restaurantsWingersFreeDessertWithAnyEntreePurchase = {
   struckOut: false,
   useLimit: "3",
   usesUsed: 0,
+  createdAt: "2026-07-05T12:06:56.133Z",
+  updatedAt: "2026-09-15T17:23:34.000Z",
 } as const satisfies LocationDeal

@@ -47,4 +47,6 @@ export const otherwhereViiTamsin = {
       ],
     },
   ],
+  createdAt: "2026-09-29T00:11:21.793Z",
+  updatedAt: "2026-09-29T01:22:21.000Z",
 } as const satisfies Lore

@@ -78,4 +78,6 @@ export const otherwhereVMagicResistance = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:42:01.740Z",
+  updatedAt: "2026-09-28T21:42:30.000Z",
 } as const satisfies Lore

@@ -145,4 +145,6 @@ export const otherwhereViiSchoolsAndPowers = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:56:42.914Z",
+  updatedAt: "2026-09-28T22:56:49.000Z",
 } as const satisfies Lore

@@ -64,4 +64,6 @@ export const otherwhereIvHeadmanGu = {
       ],
     },
   ],
+  createdAt: "2026-09-28T23:02:34.252Z",
+  updatedAt: "2026-09-29T02:31:01.000Z",
 } as const satisfies Lore

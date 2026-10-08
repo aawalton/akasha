@@ -15,4 +15,6 @@ export const sandwichesAndBurgersMelty241AnyMelt = {
   struckOut: false,
   useLimit: "3",
   usesUsed: 1,
+  createdAt: "2026-07-05T12:06:57.227Z",
+  updatedAt: "2026-09-15T17:23:34.000Z",
 } as const satisfies LocationDeal

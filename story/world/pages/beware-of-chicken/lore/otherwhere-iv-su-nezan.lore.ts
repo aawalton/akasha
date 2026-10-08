@@ -101,4 +101,6 @@ export const otherwhereIvSuNezan = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:06:51.358Z",
+  updatedAt: "2026-09-28T22:06:54.000Z",
 } as const satisfies Lore

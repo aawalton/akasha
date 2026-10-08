@@ -365,4 +365,6 @@ export const hollowmereBea2 = {
       ],
     },
   ],
+  createdAt: "2026-10-03T00:40:19.801Z",
+  updatedAt: "2026-10-03T14:58:25.000Z",
 } as const satisfies Lore

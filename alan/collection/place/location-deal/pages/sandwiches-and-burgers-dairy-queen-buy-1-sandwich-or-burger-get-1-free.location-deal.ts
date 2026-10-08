@@ -20,4 +20,6 @@ export const sandwichesAndBurgersDairyQueenBuy1SandwichOrBurgerGet1Free = {
   struckOut: false,
   useLimit: "2",
   usesUsed: 0,
+  createdAt: "2026-07-05T12:06:56.711Z",
+  updatedAt: "2026-09-15T17:23:34.000Z",
 } as const satisfies LocationDeal

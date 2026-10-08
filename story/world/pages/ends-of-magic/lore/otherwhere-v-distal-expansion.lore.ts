@@ -8,4 +8,6 @@ export const otherwhereVDistalExpansion = {
   world: "world/ends-of-magic",
   about: "world-organization/otherwhere-v-distal-expansion",
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:57:34.977Z",
+  updatedAt: "2026-09-28T21:57:37.000Z",
 } as const satisfies Lore

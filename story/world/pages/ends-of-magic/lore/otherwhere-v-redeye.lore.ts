@@ -17,4 +17,6 @@ export const otherwhereVRedeye = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:45:08.389Z",
+  updatedAt: "2026-09-28T21:45:11.000Z",
 } as const satisfies Lore

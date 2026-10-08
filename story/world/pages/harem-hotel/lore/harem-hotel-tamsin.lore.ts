@@ -107,4 +107,6 @@ export const haremHotelTamsin = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T04:43:10.758Z",
+  updatedAt: "2026-09-30T07:15:12.000Z",
 } as const satisfies Lore

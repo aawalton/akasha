@@ -21,4 +21,6 @@ export const otherwhereVInjury = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:05:35.725Z",
+  updatedAt: "2026-09-28T22:46:31.000Z",
 } as const satisfies Lore

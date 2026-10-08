@@ -73,4 +73,6 @@ export const otherwhereIvLiuBowu = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:12:38.968Z",
+  updatedAt: "2026-09-28T22:12:41.000Z",
 } as const satisfies Lore

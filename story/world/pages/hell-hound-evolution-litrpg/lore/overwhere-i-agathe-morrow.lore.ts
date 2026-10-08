@@ -200,4 +200,6 @@ export const overwhereIAgatheMorrow = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:31:35.564Z",
+  updatedAt: "2026-10-02T14:41:12.000Z",
 } as const satisfies Lore

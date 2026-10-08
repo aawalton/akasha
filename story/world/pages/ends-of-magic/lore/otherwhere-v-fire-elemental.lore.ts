@@ -26,4 +26,6 @@ export const otherwhereVFireElemental = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:48:10.318Z",
+  updatedAt: "2026-09-28T21:48:14.000Z",
 } as const satisfies Lore

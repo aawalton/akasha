@@ -62,4 +62,6 @@ export const otherwhereVRanks = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:39:45.238Z",
+  updatedAt: "2026-09-28T21:39:47.000Z",
 } as const satisfies Lore

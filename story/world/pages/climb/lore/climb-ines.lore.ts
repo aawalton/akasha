@@ -109,4 +109,6 @@ export const climbInes = {
       ],
     },
   ],
+  createdAt: "2026-10-01T21:26:21.809Z",
+  updatedAt: "2026-10-01T21:38:05.000Z",
 } as const satisfies Lore

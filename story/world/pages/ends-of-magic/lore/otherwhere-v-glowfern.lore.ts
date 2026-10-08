@@ -37,4 +37,6 @@ export const otherwhereVGlowfern = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:00:44.755Z",
+  updatedAt: "2026-09-28T22:00:47.000Z",
 } as const satisfies Lore

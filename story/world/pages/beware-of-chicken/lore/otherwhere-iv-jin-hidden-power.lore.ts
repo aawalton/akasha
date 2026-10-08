@@ -33,4 +33,6 @@ export const otherwhereIvJinHiddenPower = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:10:36.258Z",
+  updatedAt: "2026-09-28T22:10:39.000Z",
 } as const satisfies Lore

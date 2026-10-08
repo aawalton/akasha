@@ -17,4 +17,6 @@ export const fairweatherGuildHall2 = {
       ],
     },
   ],
+  createdAt: "2026-10-06T23:17:52.525Z",
+  updatedAt: "2026-10-06T23:17:53.000Z",
 } as const satisfies Lore

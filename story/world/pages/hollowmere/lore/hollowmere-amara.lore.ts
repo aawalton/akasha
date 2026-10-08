@@ -315,4 +315,6 @@ export const hollowmereAmara = {
       ],
     },
   ],
+  createdAt: "2026-10-02T15:23:20.559Z",
+  updatedAt: "2026-10-03T13:38:59.000Z",
 } as const satisfies Lore

@@ -49,4 +49,6 @@ export const otherwhereVScalebarkTree = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T22:00:44.756Z",
+  updatedAt: "2026-09-28T22:07:52.000Z",
 } as const satisfies Lore

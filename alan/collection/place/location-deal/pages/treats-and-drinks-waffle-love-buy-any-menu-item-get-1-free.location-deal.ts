@@ -15,4 +15,6 @@ export const treatsAndDrinksWaffleLoveBuyAnyMenuItemGet1Free = {
   struckOut: false,
   useLimit: "3",
   usesUsed: 1,
+  createdAt: "2026-07-05T12:06:58.001Z",
+  updatedAt: "2026-09-15T17:23:55.000Z",
 } as const satisfies LocationDeal

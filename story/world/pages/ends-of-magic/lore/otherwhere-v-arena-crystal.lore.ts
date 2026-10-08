@@ -38,4 +38,6 @@ export const otherwhereVArenaCrystal = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:56:09.960Z",
+  updatedAt: "2026-09-28T22:04:18.000Z",
 } as const satisfies Lore

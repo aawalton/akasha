@@ -173,4 +173,6 @@ export const otherwhereIvQiTools = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:07:36.113Z",
+  updatedAt: "2026-09-28T22:07:38.000Z",
 } as const satisfies Lore

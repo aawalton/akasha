@@ -311,4 +311,6 @@ export const encountersSofia = {
       ],
     },
   ],
+  createdAt: "2026-10-06T21:12:27.664Z",
+  updatedAt: "2026-10-07T01:26:33.000Z",
 } as const satisfies Lore

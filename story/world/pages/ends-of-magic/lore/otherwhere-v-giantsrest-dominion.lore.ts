@@ -142,4 +142,6 @@ export const otherwhereVGiantsrestDominion = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:37:15.428Z",
+  updatedAt: "2026-09-28T21:57:23.000Z",
 } as const satisfies Lore

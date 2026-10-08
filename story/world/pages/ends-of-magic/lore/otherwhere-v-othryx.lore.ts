@@ -21,4 +21,6 @@ export const otherwhereVOthryx = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:46:02.902Z",
+  updatedAt: "2026-09-28T21:46:06.000Z",
 } as const satisfies Lore

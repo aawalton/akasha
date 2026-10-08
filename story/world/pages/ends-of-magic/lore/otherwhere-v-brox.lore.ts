@@ -50,4 +50,6 @@ export const otherwhereVBrox = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:43:00.629Z",
+  updatedAt: "2026-09-28T21:43:03.000Z",
 } as const satisfies Lore

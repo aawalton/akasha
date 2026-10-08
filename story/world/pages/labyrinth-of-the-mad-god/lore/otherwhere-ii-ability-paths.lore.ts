@@ -92,4 +92,6 @@ export const otherwhereIiAbilityPaths = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:07:30.342Z",
+  updatedAt: "2026-09-28T22:27:15.000Z",
 } as const satisfies Lore

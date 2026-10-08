@@ -173,4 +173,6 @@ export const otherwhereViiiSpiresAndAugera = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:50:58.166Z",
+  updatedAt: "2026-09-28T22:51:01.000Z",
 } as const satisfies Lore

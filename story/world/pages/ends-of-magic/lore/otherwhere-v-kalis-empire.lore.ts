@@ -65,4 +65,6 @@ export const otherwhereVKalisEmpire = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:53:05.632Z",
+  updatedAt: "2026-09-28T21:53:10.000Z",
 } as const satisfies Lore

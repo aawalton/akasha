@@ -21,4 +21,6 @@ export const otherwhereVEclipsemaw = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  createdAt: "2026-09-28T21:44:33.812Z",
+  updatedAt: "2026-09-28T21:44:36.000Z",
 } as const satisfies Lore

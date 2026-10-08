@@ -29,4 +29,6 @@ export const otherwhereIvZangWen = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T22:13:18.896Z",
+  updatedAt: "2026-09-28T22:13:24.000Z",
 } as const satisfies Lore

@@ -152,4 +152,6 @@ export const otherwhereIvBoarHunt = {
       ],
     },
   ],
+  createdAt: "2026-09-29T01:09:42.771Z",
+  updatedAt: "2026-09-29T02:31:01.000Z",
 } as const satisfies Lore

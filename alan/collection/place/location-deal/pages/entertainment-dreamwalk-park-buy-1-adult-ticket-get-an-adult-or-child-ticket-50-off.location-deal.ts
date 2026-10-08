@@ -15,4 +15,6 @@ export const entertainmentDreamwalkParkBuy1AdultTicketGetAnAdultOrChildTicket50O
   struckOut: false,
   useLimit: "3",
   usesUsed: 0,
+  createdAt: "2026-07-05T12:06:52.412Z",
+  updatedAt: "2026-09-15T17:23:10.000Z",
 } as const satisfies LocationDeal

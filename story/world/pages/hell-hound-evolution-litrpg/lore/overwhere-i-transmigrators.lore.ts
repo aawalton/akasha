@@ -213,4 +213,6 @@ export const overwhereITransmigrators = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-29T12:28:45.760Z",
+  updatedAt: "2026-09-29T12:28:48.000Z",
 } as const satisfies Lore

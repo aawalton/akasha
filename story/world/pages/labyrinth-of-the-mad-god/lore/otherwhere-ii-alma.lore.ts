@@ -25,4 +25,6 @@ export const otherwhereIiAlma = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T20:56:31.358Z",
+  updatedAt: "2026-09-28T22:27:15.000Z",
 } as const satisfies Lore

@@ -18,4 +18,6 @@ export const otherwhereVAssassinsOfGemore = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:40:00.558Z",
+  updatedAt: "2026-09-28T21:40:05.000Z",
 } as const satisfies Lore

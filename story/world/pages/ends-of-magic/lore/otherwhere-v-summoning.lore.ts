@@ -30,4 +30,6 @@ export const otherwhereVSummoning = {
     },
   ],
   secrets: "jsonl",
+  createdAt: "2026-09-28T21:50:30.403Z",
+  updatedAt: "2026-09-28T21:50:34.000Z",
 } as const satisfies Lore
