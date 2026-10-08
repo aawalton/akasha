@@ -23,6 +23,7 @@ export interface Rule {
   readonly actions: readonly Action[]
   readonly forwardTo: string | null
   readonly delayMinutes: number
+  readonly rescueFromSpam: boolean
   readonly judgment: string
   readonly conditions: readonly Condition[]
 }
@@ -121,6 +122,9 @@ function ruleOf(page: Record<string, unknown>, relPath: string, kind: EmailRuleK
   const forwardTo = page.forwardTo
   if (forwardTo !== undefined && typeof forwardTo !== "string")
     throw new Error(`\`${relPath}\` forwards to something that is no slug`)
+  const rescueFromSpam = page.rescueFromSpam
+  if (rescueFromSpam !== undefined && typeof rescueFromSpam !== "boolean")
+    throw new Error(`\`${relPath}\` states a rescue from spam that is neither true nor false`)
   return {
     slug,
     relPath,
@@ -129,6 +133,7 @@ function ruleOf(page: Record<string, unknown>, relPath: string, kind: EmailRuleK
     actions: (actions ?? []).map((one: unknown) => String(one) as Action),
     forwardTo: forwardTo === undefined ? null : slugOf(forwardTo),
     delayMinutes: delayOf(page.delay, relPath),
+    rescueFromSpam: rescueFromSpam === true,
     judgment: textOr(page.judgement, ""),
     conditions: conditionsOf(page, relPath),
   }

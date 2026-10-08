@@ -71,6 +71,12 @@ describe("rulesOf", () => {
     expect(rules.filter((one) => one.forwardTo !== null)).toHaveLength(6)
   })
 
+  test("carries a rescue from spam only where a rule states one", () => {
+    expect(rules.find((one) => one.slug === "anthropic-login-links")?.rescueFromSpam).toBe(true)
+    expect(rules.find((one) => one.slug === "account-statements")?.rescueFromSpam).toBe(false)
+    expect(rules.find((one) => one.slug === "everything-else")?.rescueFromSpam).toBe(false)
+  })
+
   test("carries an agent rule's judgment and files nothing", () => {
     const rule = rules.find((one) => one.slug === "everything-else")
     expect(rule?.kind).toBe("agent")
