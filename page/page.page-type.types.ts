@@ -22,6 +22,6 @@ export type Page = {
   entries?: Entries
   referencedBy?: ReferencedBy
   grade?: Grade
-  createdAt?: CreatedAt
-  updatedAt?: UpdatedAt
+  createdAt: CreatedAt
+  updatedAt: UpdatedAt
 }

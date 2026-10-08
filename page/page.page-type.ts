@@ -29,8 +29,8 @@ export const page = {
       default: "jsonl",
     },
     { pageProperty: "grade-property/grade", required: false, many: false },
-    { pageProperty: "instant-property/created-at", required: false, many: false },
-    { pageProperty: "instant-property/updated-at", required: false, many: false },
+    { pageProperty: "instant-property/created-at", required: true, many: false },
+    { pageProperty: "instant-property/updated-at", required: true, many: false },
   ],
   parts: [
     "domain/id",
@@ -248,6 +248,6 @@ export const page = {
     { partOfSpeech: "part-of-speech/noun", spelling: "page" },
     { partOfSpeech: "part-of-speech/noun", spelling: "pages" },
   ],
-  updatedAt: "2026-10-08T16:02:40.678Z",
+  updatedAt: "2026-10-08T16:44:39.174Z",
   createdAt: "2026-08-28T18:54:50.220Z",
 } as const satisfies PageType
