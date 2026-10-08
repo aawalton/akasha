@@ -10,6 +10,8 @@ import { wordCount } from "akasha/story/engine/core/modules/word-count/word-coun
 
 export type NarrationSegment = { text: string; pauseAfterMs: number; wordStart: number }
 
+export type Pronunciation = { readonly written: string; readonly spokenAs: string }
+
 type Source = { readonly wordStart: number; readonly words: number }
 
 type Block = Source & { sentences: string[]; pauseAfterMs: number }
@@ -96,6 +98,21 @@ const ABBREVIATIONS: ReadonlySet<string> = new Set([
   "rev",
   "approx",
 ])
+
+const PATTERN_MARK = /[.*+?^${}()|[\]\\]/g
+
+export function respellerOf(pronunciations: readonly Pronunciation[]): (text: string) => string {
+  const respellings = new Map(
+    pronunciations.filter((one) => one.written !== "").map((one) => [one.written, one.spokenAs])
+  )
+  if (respellings.size === 0) return (text) => text
+  const written = [...respellings.keys()]
+    .sort((a, b) => b.length - a.length)
+    .map((one) => one.replace(PATTERN_MARK, "\\$&"))
+    .join("|")
+  const word = new RegExp(`(?<![\\p{L}\\p{N}])(?:${written})(?![\\p{L}\\p{N}])`, "gu")
+  return (text) => text.replace(word, (found) => respellings.get(found) ?? found)
+}
 
 function entityOf(whole: string, decimal?: string, hex?: string, name?: string): string {
   if (decimal !== undefined) return String.fromCodePoint(Number(decimal))
@@ -263,10 +280,15 @@ function blocksOf(prose: string): Block[] {
   return blocks
 }
 
-export function narrationSegmentsOf(prose: string): NarrationSegment[] {
+export function narrationSegmentsOf(
+  prose: string,
+  pronunciations: readonly Pronunciation[] = []
+): NarrationSegment[] {
+  const respelled = respellerOf(pronunciations)
   const segments: NarrationSegment[] = []
   for (const block of blocksOf(prose)) {
-    const spokenWords = block.sentences.reduce((sum, one) => sum + wordCount(one), 0)
+    const sentences = block.sentences.map(respelled)
+    const spokenWords = sentences.reduce((sum, one) => sum + wordCount(one), 0)
     let said = 0
     const at = (): number =>
       block.wordStart + (spokenWords === 0 ? 0 : Math.floor((said / spokenWords) * block.words))
@@ -278,7 +300,7 @@ export function narrationSegmentsOf(prose: string): NarrationSegment[] {
       }
       packed = ""
     }
-    for (const sentence of block.sentences) {
+    for (const sentence of sentences) {
       const first = segments.length === 0 && packed === ""
       for (const piece of piecesOf(sentence, first ? FIRST_LIMIT : LIMIT)) {
         if (segments.length === 0) {

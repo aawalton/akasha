@@ -140,6 +140,20 @@ describe("narrationSegmentsOf", () => {
     ])
   })
 
+  test("a pronounced word is said as respelled, whole and in the case written", () => {
+    const pronounced = [{ written: "Mrsha", spokenAs: "Mersha" }]
+    const said = (prose: string): string[] =>
+      narrationSegmentsOf(prose, pronounced).map((one) => one.text)
+    expect(said("Start.\nMrsha's friend, Mrshas and mrsha saw Mrsha.")).toEqual([
+      "Start.",
+      "Mersha's friend, Mrshas and mrsha saw Mersha.",
+    ])
+    expect(said("Start.\n\n:::skill\nname: Mrsha's Luck\n:::\n")).toEqual([
+      "Start.",
+      "New skill: Mersha's Luck.",
+    ])
+  })
+
   test("the same chapter always gives the same segments", () => {
     const prose = "One. Two.\n\n***\n\n:::level-up\nlevel: 2\n:::\nThree."
     expect(narrationSegmentsOf(prose)).toEqual(narrationSegmentsOf(prose))

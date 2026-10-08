@@ -73,6 +73,10 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A word a pronunciation names is said as that pronunciation respells it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A segment states how many of the prose's own words come before it.",
     },
     {
@@ -81,4 +85,5 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
+  updatedAt: "2026-10-08T15:12:40.144Z",
 } as const satisfies Module

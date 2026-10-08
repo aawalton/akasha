@@ -18,6 +18,10 @@ export const narrationTelling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chapter is said with the pronunciations of its story's world.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chapter starts at the segment holding its read progress.",
     },
     {
@@ -68,4 +72,5 @@ export const narrationTelling = {
       statement: "A refusal by the speech workload reaches Alan with the reason it gave.",
     },
   ],
+  updatedAt: "2026-10-08T15:12:40.144Z",
 } as const satisfies Module

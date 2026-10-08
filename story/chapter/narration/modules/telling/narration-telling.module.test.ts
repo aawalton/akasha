@@ -16,6 +16,12 @@ describe("spokenSegmentsOf", () => {
     ])
   })
 
+  test("the title and the prose say a pronounced word as respelled", () => {
+    const pronounced = [{ written: "Klbkch", spokenAs: "Kilbkich" }]
+    const said = spokenSegmentsOf("Interlude – Klbkch", "Klbkch nodded.", undefined, pronounced)
+    expect(said.map((one) => one.text)).toEqual(["Interlude – Kilbkich", "Kilbkich nodded."])
+  })
+
   test("a chapter with no title starts with its prose", () => {
     expect(spokenSegmentsOf("  ", "She ran.")).toEqual([
       { text: "She ran.", pauseAfterMs: 900, wordStart: 0 },

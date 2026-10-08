@@ -8,6 +8,8 @@ import {
 import {
   type NarrationSegment,
   narrationSegmentsOf,
+  type Pronunciation,
+  respellerOf,
   sentencesOf,
 } from "akasha/story/chapter/narration/modules/segments/narration-segments.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
@@ -67,7 +69,13 @@ const UNREAD: ReadProgress = { ownProgress: null, ownLength: null }
 
 type Told<T> = { readonly held: T } | { readonly refused: string; readonly status: number }
 
-type ChapterRow = ChapterHeld & { readonly story: string; readonly position: number | null }
+type ChapterRow = ChapterHeld & {
+  readonly story: string
+  readonly position: number | null
+  readonly pronunciations: readonly Pronunciation[]
+}
+
+type StoryHeld = { readonly title: string; readonly world: string | null }
 
 export function refusedAnswer(error: string, status: number, headers: Headers): Response {
   return Response.json({ ok: false, error }, { status, headers })
@@ -97,18 +105,19 @@ function resumedAt(
 export function spokenSegmentsOf(
   title: string,
   prose: string,
-  progress: ReadProgress = UNREAD
+  progress: ReadProgress = UNREAD,
+  pronunciations: readonly Pronunciation[] = []
 ): NarrationSegment[] {
   const total = wordCount(prose)
   const length = progress.ownLength
   const scale = length !== null && length > 0 && total > 0 ? length / total : 1
-  const all = narrationSegmentsOf(prose).map((one) => ({
+  const all = narrationSegmentsOf(prose, pronunciations).map((one) => ({
     ...one,
     wordStart: Math.round(one.wordStart * scale),
   }))
   const from = resumedAt(all, progress)
   const kept = all.slice(from)
-  const said = title.trim()
+  const said = respellerOf(pronunciations)(title.trim())
   const opening =
     said === "" || from > 0 ? [] : [{ text: said, pauseAfterMs: TITLE_PAUSE_MS, wordStart: 0 }]
   return [...opening, ...kept]
@@ -167,17 +176,35 @@ function refused<T>(why: string, status: number): Told<T> {
   return { refused: why, status }
 }
 
-async function storyTitleOf(story: string): Promise<string> {
+const NO_STORY: StoryHeld = { title: "", world: null }
+
+async function storyOf(story: string): Promise<StoryHeld> {
   const named = storyNamed(story)
-  if (named === null) return ""
+  if (named === null) return NO_STORY
   const found = await askingFor({
     pageTypeSlug: named.pageTypeSlug,
     where: { slug: { is: named.slug } },
-    keys: ["title"],
+    keys: ["title", "world"],
     limit: 1,
   })
-  if ("refused" in found) return ""
-  return textIn(found.rows[0]?.title) ?? ""
+  if ("refused" in found) return NO_STORY
+  const row = found.rows[0]
+  return { title: textIn(row?.title) ?? "", world: textIn(row?.world) }
+}
+
+async function pronunciationsOf(world: string | null): Promise<readonly Pronunciation[]> {
+  if (world === null) return []
+  const found = await askingFor({
+    pageTypeSlug: "pronunciation",
+    where: { world: { is: world } },
+    keys: ["title", "spokenAs"],
+  })
+  if ("refused" in found) return []
+  return found.rows.flatMap((row) => {
+    const written = textIn(row.title)
+    const spokenAs = textIn(row.spokenAs)
+    return written === null || spokenAs === null ? [] : [{ written, spokenAs }]
+  })
 }
 
 async function rowHeld(pageTypeSlug: string, row: Row): Promise<Told<ChapterRow>> {
@@ -185,13 +212,15 @@ async function rowHeld(pageTypeSlug: string, row: Row): Promise<Told<ChapterRow>
   const slug = textIn(row.slug)
   if (id === null || slug === null) return refused("the chapter states no id or slug", 500)
   const story = textIn(row.story) ?? ""
+  const told = await storyOf(story)
   return {
     held: {
       id,
       pageTypeSlug,
       slug,
       title: textIn(row.title) ?? "",
-      storyTitle: await storyTitleOf(story),
+      storyTitle: told.title,
+      pronunciations: await pronunciationsOf(told.world),
       ownLength: asNumber(row.ownLength),
       ownProgress: asNumber(row.ownProgress),
       completedAt: textIn(row.completedAt),
@@ -222,7 +251,12 @@ async function segmentsOf(chapter: ChapterRow): Promise<Told<NarrationSegment[]>
   })
   if ("refused" in filed)
     return refused(`the chapter's prose would not read: ${filed.refused}`, 404)
-  const segments = spokenSegmentsOf(chapter.title, new TextDecoder().decode(filed.bytes), chapter)
+  const segments = spokenSegmentsOf(
+    chapter.title,
+    new TextDecoder().decode(filed.bytes),
+    chapter,
+    chapter.pronunciations
+  )
   if (segments.length === 0) return refused("the chapter has no words to narrate", 422)
   if (segments.length > MOST_SEGMENTS) {
     return refused(
