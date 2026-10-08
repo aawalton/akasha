@@ -7,7 +7,6 @@ export const changeMechanicalPageTypeAdd = {
   definition: "a mechanical change that adds a property to a page type",
   parts: [
     "change-mechanical-page-type/add-file-property-extensions",
-    "change-mechanical-page-type/add-page-instants",
     "change-mechanical-page-type/add-page-property-types",
     "change-mechanical-page-type/add-page-type-types",
     "change-mechanical-page-type/add-property-to-every-page",
@@ -25,6 +24,6 @@ export const changeMechanicalPageTypeAdd = {
       statement: "No rung here takes a key away.",
     },
   ],
-  updatedAt: "2026-10-08T15:51:32.106Z",
+  updatedAt: "2026-10-08T16:48:17.941Z",
   createdAt: "2026-09-13T20:02:06.491Z",
 } as const satisfies Domain

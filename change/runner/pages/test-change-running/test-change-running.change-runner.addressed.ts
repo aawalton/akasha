@@ -11,9 +11,6 @@ export type Changes = {
   "change-agent/add-image": Parameters<
     typeof import("akasha/change/agent/file/add-image/add-image.change-agent.code.ts")["runChange"]
   >[1]
-  "change-agent/add-page-instants": Parameters<
-    typeof import("akasha/change/agent/page-type/add-page-instants/add-page-instants.change-agent.code.ts")["runChange"]
-  >[1]
   "change-agent/add-page-property": Parameters<
     typeof import("akasha/change/agent/page-property/add-page-property/add-page-property.change-agent.code.ts")["runChange"]
   >[1]
@@ -292,9 +289,6 @@ export type Changes = {
   >[1]
   "change-mechanical-page-type/add-file-property-extensions": Parameters<
     typeof import("akasha/change/mechanical/page-type/add/add-file-property-extensions/add-file-property-extensions.change-mechanical-page-type.code.ts")["runChange"]
-  >[1]
-  "change-mechanical-page-type/add-page-instants": Parameters<
-    typeof import("akasha/change/mechanical/page-type/add/add-page-instants/add-page-instants.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
   "change-mechanical-page-type/add-page-property-types": Parameters<
     typeof import("akasha/change/mechanical/page-type/add/add-page-property-types/add-page-property-types.change-mechanical-page-type.code.ts")["runChange"]

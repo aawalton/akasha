@@ -7,7 +7,6 @@ export const changeAgentPageType = {
   definition: "a change an agent makes to every page of a page type",
   parts: [
     "change-agent/add-file-property-extensions",
-    "change-agent/add-page-instants",
     "change-agent/add-page-property-types",
     "change-agent/add-page-type-types",
     "change-agent/add-property-to-every-page",
@@ -28,6 +27,6 @@ export const changeAgentPageType = {
     "change-agent/sort-property-values-on-every-page",
     "change-agent/unquote-text-on-every-page",
   ],
-  updatedAt: "2026-10-08T15:51:32.106Z",
+  updatedAt: "2026-10-08T16:48:17.941Z",
   createdAt: "2026-09-08T14:41:24.580Z",
 } as const satisfies Domain
