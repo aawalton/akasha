@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0144Ch144RelaxingAndGivingO
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   ownLength: 2580,
   prose: "txt",
+  createdAt: "2026-09-17T23:04:17.207Z",
+  updatedAt: "2026-09-28T20:27:17.000Z",
 } as const satisfies StoryChapterRead

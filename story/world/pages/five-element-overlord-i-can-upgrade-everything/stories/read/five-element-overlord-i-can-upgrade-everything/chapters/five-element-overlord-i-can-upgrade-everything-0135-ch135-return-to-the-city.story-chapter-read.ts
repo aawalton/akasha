@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0135Ch135ReturnToTheCity = 
   title: "Ch135 Return To The City",
   ownLength: 1509,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.749Z",
+  updatedAt: "2026-09-28T20:27:15.000Z",
 } as const satisfies StoryChapterRead

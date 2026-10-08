@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0143Ch143WhoIsLiHao = {
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   ownLength: 2781,
   prose: "txt",
+  createdAt: "2026-09-16T23:05:39.115Z",
+  updatedAt: "2026-09-28T20:27:17.000Z",
 } as const satisfies StoryChapterRead

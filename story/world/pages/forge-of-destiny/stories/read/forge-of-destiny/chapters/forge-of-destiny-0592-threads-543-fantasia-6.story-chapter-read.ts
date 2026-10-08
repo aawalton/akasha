@@ -19,4 +19,6 @@ export const forgeOfDestiny0592Threads543Fantasia6 = {
   title: "Threads 543 Fantasia 6",
   ownLength: 2856,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.749Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

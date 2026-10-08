@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0140Ch140AClashOfSouls = {
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   ownLength: 1176,
   prose: "txt",
+  createdAt: "2026-09-11T23:05:38.896Z",
+  updatedAt: "2026-09-28T20:27:15.000Z",
 } as const satisfies StoryChapterRead

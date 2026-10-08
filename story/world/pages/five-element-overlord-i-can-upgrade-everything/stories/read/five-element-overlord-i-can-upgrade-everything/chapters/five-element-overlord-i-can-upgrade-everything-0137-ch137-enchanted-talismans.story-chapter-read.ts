@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0137Ch137EnchantedTalismans
   title: "Ch137 Enchanted Talismans",
   ownLength: 1738,
   prose: "txt",
+  createdAt: "2026-09-09T00:35:14.275Z",
+  updatedAt: "2026-09-28T20:27:15.000Z",
 } as const satisfies StoryChapterRead

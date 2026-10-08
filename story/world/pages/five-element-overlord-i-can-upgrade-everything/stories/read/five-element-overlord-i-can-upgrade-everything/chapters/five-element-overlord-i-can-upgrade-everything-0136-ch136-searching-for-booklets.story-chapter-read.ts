@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0136Ch136SearchingForBookle
   title: "Ch136 Searching For Booklets",
   ownLength: 1141,
   prose: "txt",
+  createdAt: "2026-09-07T23:06:11.237Z",
+  updatedAt: "2026-09-28T20:27:15.000Z",
 } as const satisfies StoryChapterRead

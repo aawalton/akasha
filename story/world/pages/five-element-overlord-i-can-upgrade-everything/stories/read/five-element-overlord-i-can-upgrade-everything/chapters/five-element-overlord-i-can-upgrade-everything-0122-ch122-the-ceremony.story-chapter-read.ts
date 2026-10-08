@@ -20,4 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0122Ch122TheCeremony = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.123Z",
+  updatedAt: "2026-09-28T20:27:15.000Z",
 } as const satisfies StoryChapterRead

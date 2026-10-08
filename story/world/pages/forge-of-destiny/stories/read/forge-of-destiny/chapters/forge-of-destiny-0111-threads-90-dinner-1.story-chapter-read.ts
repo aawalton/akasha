@@ -19,4 +19,6 @@ export const forgeOfDestiny0111Threads90Dinner1 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.175Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

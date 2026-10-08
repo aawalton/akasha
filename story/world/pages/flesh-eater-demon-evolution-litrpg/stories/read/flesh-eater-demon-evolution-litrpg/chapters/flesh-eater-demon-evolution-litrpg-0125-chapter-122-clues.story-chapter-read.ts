@@ -19,4 +19,6 @@ export const fleshEaterDemonEvolutionLitrpg0125Chapter122Clues = {
   story: "story-read/flesh-eater-demon-evolution-litrpg",
   ownLength: 2364,
   prose: "txt",
+  createdAt: "2026-09-09T08:06:50.686Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

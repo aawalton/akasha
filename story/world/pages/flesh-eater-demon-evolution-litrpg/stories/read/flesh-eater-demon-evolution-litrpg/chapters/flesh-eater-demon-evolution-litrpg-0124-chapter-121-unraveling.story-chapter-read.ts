@@ -19,4 +19,6 @@ export const fleshEaterDemonEvolutionLitrpg0124Chapter121Unraveling = {
   title: "Chapter 121: Unraveling",
   ownLength: 2618,
   prose: "txt",
+  createdAt: "2026-09-06T18:04:05.742Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
