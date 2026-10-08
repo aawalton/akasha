@@ -19,4 +19,6 @@ export const salvos0126720ArchangelPartThree = {
   ],
   publishedAt: "2024-11-04",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.056Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

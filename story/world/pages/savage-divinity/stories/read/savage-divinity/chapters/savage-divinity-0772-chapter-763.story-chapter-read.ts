@@ -19,4 +19,6 @@ export const savageDivinity0772Chapter763 = {
   ],
   publishedAt: "2022-01-17",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.453Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

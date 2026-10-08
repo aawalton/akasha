@@ -19,4 +19,6 @@ export const shapeshifterANonHumanLitrpg0046Chapter41GrandRitual = {
   story: "story-read/shapeshifter-a-non-human-litrpg",
   ownLength: 2489,
   prose: "txt",
+  createdAt: "2026-09-15T15:04:11.794Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

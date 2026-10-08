@@ -19,4 +19,6 @@ export const salvos0116668MysticalAssassinEndOfBook12 = {
   ],
   publishedAt: "2024-03-29",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.056Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

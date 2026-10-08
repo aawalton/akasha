@@ -19,4 +19,6 @@ export const sherlyTheMostVirtuousHolyCow0012Chapter12CowAngry = {
   ],
   publishedAt: "2025-08-26",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.505Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

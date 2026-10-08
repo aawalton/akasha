@@ -19,4 +19,6 @@ export const savageDivinity0733Chapter725Volume40Tba = {
   ],
   publishedAt: "2021-08-11",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.432Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

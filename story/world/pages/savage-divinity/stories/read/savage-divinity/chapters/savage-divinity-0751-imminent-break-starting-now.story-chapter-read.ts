@@ -19,4 +19,6 @@ export const savageDivinity0751ImminentBreakStartingNow = {
   ],
   publishedAt: "2021-09-27",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.440Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

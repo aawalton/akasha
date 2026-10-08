@@ -19,4 +19,6 @@ export const sherlyTheMostVirtuousHolyCow0025Chapter25CowTraining = {
   ],
   publishedAt: "2025-11-07",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.506Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

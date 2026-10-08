@@ -19,4 +19,6 @@ export const shapeshifterANonHumanLitrpg0047Chapter42TheStrikeTeam = {
   story: "story-read/shapeshifter-a-non-human-litrpg",
   ownLength: 1616,
   prose: "txt",
+  createdAt: "2026-09-17T08:04:57.607Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

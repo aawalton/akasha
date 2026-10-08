@@ -19,4 +19,6 @@ export const shapeshifterANonHumanLitrpg0044Chapter39StatDifference = {
   title: "Chapter 39: Stat Difference",
   ownLength: 1664,
   prose: "txt",
+  createdAt: "2026-09-08T12:03:44.724Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
