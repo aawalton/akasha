@@ -225,6 +225,18 @@ export const terminusTheSphere = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The aurora, not the star, is the main source of light on the surface.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The aurora turns enough X-ray energy into visible light to glow like daylight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The light changes as the X-rays change and as what they strike in the air changes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The atmosphere was engineered to work with the star's radiation and steady the climate.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -234,5 +246,5 @@ export const terminusTheSphere = {
     },
   ],
   createdAt: "2026-10-08T19:12:35.919Z",
-  updatedAt: "2026-10-08T20:25:26.900Z",
+  updatedAt: "2026-10-08T20:28:01.076Z",
 } as const satisfies Lore
