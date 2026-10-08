@@ -1,3 +1,4 @@
+import { akashaSeatPathForAgent } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { fieldFromHistory } from "akasha/agent/seat/modules/page-history/seat-page-history.module.code.ts"
 import { pageTextOf } from "akasha/agent/seat/modules/page-values/seat-page-values.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -14,6 +15,7 @@ export interface SessionRecord {
 export function sessionOf(agent: string): SessionRecord | null {
   const held = pageTextOf(agent, KEY)
   if (held !== null && lowerUuid(held.toLowerCase())) return { value: held }
+  if (akashaSeatPathForAgent(agent) !== null) return null
   const committed = fieldFromHistory(agent, resolveRoots(), KEY)
   return committed !== null && lowerUuid(committed.toLowerCase()) ? { value: committed } : null
 }

@@ -24,6 +24,10 @@ export const seatSession = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat whose page is there and states no session has none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A value shaped as anything but a uuid is no session.",
     },
     {
@@ -39,4 +43,5 @@ export const seatSession = {
       statement: "Keeping a session does nothing.",
     },
   ],
+  updatedAt: "2026-10-08T15:22:41.606Z",
 } as const satisfies Module
