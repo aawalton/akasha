@@ -4619,6 +4619,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.ts","id":"01a061c5-18dd-700c-9fd0-0e774e55b75b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-targets/hud-addon-hide-targets.module.ts","id":"01a061c5-18dd-7009-859a-31630f29ad1a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-types/hud-addon-hide-types.module.ts","id":"01a061c5-18dd-700a-803e-9da71e9587ac"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-layout/hud-addon-layout.module.ts","id":"01a11ce3-7135-7fbc-b63b-1b582275bf1b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-public-api/hud-addon-public-api.module.ts","id":"01a061c5-18dd-700f-96b2-7a0b4a1f8e37"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-saved-variables/hud-addon-saved-variables.module.ts","id":"01a061c5-18dd-7003-b272-f24014f3e43b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.ts","id":"01a061c5-18dd-700e-a1a1-88e5a1cecf77"}
