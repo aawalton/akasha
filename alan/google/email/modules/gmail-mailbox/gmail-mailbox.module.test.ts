@@ -116,6 +116,25 @@ test("the inbox is listed a hundred at a time across every page", async () => {
   ])
 })
 
+test("spam is listed from the instant asked, across every page", async () => {
+  const { client, calls } = standIn({
+    "messages.list": (params) =>
+      (params as { pageToken?: string }).pageToken === undefined
+        ? { messages: [{ id: "s1" }], nextPageToken: "next" }
+        : { messages: [{ id: "s2" }] },
+  })
+  const box = await mailbox(client)
+  expect(await box.spamIds(new Date(1700000000999))).toEqual(["s1", "s2"])
+  const asked = {
+    userId: "me",
+    labelIds: ["SPAM"],
+    includeSpamTrash: true,
+    q: "after:1700000000",
+    maxResults: 100,
+  }
+  expect(calls.map((one) => one.params)).toEqual([asked, { ...asked, pageToken: "next" }])
+})
+
 test("a summary is built from the seven headers the mailbox asks for", async () => {
   const { client, calls } = standIn({
     "messages.get": () => ({

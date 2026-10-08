@@ -22,9 +22,13 @@ export const gmailMailbox = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Spam is listed only from an instant the caller names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Bytes are sent unchanged rather than built from a composition.",
     },
   ],
   createdAt: "2026-09-03T04:17:25.068Z",
-  updatedAt: "2026-09-25T16:25:15.000Z",
+  updatedAt: "2026-10-08T16:22:39.907Z",
 } as const satisfies Module

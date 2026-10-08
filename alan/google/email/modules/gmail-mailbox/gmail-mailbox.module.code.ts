@@ -37,6 +37,7 @@ export interface Mailbox {
     historyId: string
   ) => Promise<{ readonly ids: readonly string[]; readonly historyId: string } | null>
   inboxIds: () => Promise<readonly string[]>
+  spamIds: (since: Date) => Promise<readonly string[]>
   message: (id: string) => Promise<Message>
   rawOf: (id: string) => Promise<Buffer>
   modify: (
@@ -101,6 +102,26 @@ export async function mailbox(client?: MailboxClient): Promise<Mailbox> {
   const gmail = client ?? (await makeGmailClient())
   const users = gmail.raw.users
 
+  async function listed(
+    filter: Omit<gmail_v1.Params$Resource$Users$Messages$List, "userId" | "maxResults">
+  ): Promise<readonly string[]> {
+    const ids: string[] = []
+    let pageToken: string | undefined
+    do {
+      const got = (
+        await users.messages.list({
+          userId: "me",
+          ...filter,
+          maxResults: 100,
+          ...(pageToken !== undefined ? { pageToken } : {}),
+        })
+      ).data
+      for (const one of got.messages ?? []) if (typeof one.id === "string") ids.push(one.id)
+      pageToken = got.nextPageToken ?? undefined
+    } while (pageToken !== undefined)
+    return ids
+  }
+
   return {
     async profile() {
       const got = (await users.getProfile({ userId: "me" })).data
@@ -133,21 +154,15 @@ export async function mailbox(client?: MailboxClient): Promise<Mailbox> {
     },
 
     async inboxIds() {
-      const ids: string[] = []
-      let pageToken: string | undefined
-      do {
-        const got = (
-          await users.messages.list({
-            userId: "me",
-            labelIds: ["INBOX"],
-            maxResults: 100,
-            ...(pageToken !== undefined ? { pageToken } : {}),
-          })
-        ).data
-        for (const one of got.messages ?? []) if (typeof one.id === "string") ids.push(one.id)
-        pageToken = got.nextPageToken ?? undefined
-      } while (pageToken !== undefined)
-      return ids
+      return await listed({ labelIds: ["INBOX"] })
+    },
+
+    async spamIds(since) {
+      return await listed({
+        labelIds: ["SPAM"],
+        includeSpamTrash: true,
+        q: `after:${String(Math.floor(since.getTime() / 1000))}`,
+      })
     },
 
     async message(id) {
