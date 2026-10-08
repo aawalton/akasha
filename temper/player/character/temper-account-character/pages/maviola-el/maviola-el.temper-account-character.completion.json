@@ -8071,7 +8071,7 @@
   "companionRapport": {
     "1": 4058,
     "5": 5500,
-    "6": 3587,
+    "6": 3715,
     "9": 5500
   },
   "quests": [
@@ -16095,6 +16095,6 @@
   "bankVisitDate": "2026-09-26",
   "inventoryCheck": {
     "date": "2026-10-08",
-    "misplaced": 34
+    "misplaced": 42
   }
 }
