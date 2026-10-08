@@ -77,9 +77,8 @@ export const agentTreeDrawing = {
       statement: "A click on a seat opens that seat's page in the browser.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Bringing a seat's terminal forward, or its transcript where it has none, is on the seat's menu.",
+      decisionKind: "decision-kind/absence",
+      statement: "A seat's menu has no item bringing that seat's terminal or transcript forward.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -114,4 +113,5 @@ export const agentTreeDrawing = {
       statement: "Nothing here reads the fleet.",
     },
   ],
+  updatedAt: "2026-10-08T15:03:12.886Z",
 } as const satisfies Module
