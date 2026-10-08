@@ -24,6 +24,7 @@ import {
   isContainerCard,
   MIN_HUD_WIDTH,
   noteRefresh,
+  noteRefreshExit,
   PLEDGE_SUB_ROW_HEIGHT,
   priorityRank,
   pushRow,
@@ -163,7 +164,10 @@ export function refreshTaskHud(): undefined {
   const contentContainer = getContentContainer()
   const hudWindow = getHudWindow()
   const hudFragment = getHudFragment()
-  if (!contentContainer || !hudWindow || !hudFragment) return
+  if (!contentContainer || !hudWindow || !hudFragment) {
+    noteRefreshExit("early")
+    return
+  }
 
   resetPools()
 
@@ -211,6 +215,7 @@ export function refreshTaskHud(): undefined {
   if (!anyRenders) {
     if (emptyLabel) emptyLabel.SetHidden(false)
     contentContainer.SetHidden(true)
+    noteRefreshExit("empty")
     return
   }
   if (emptyLabel) emptyLabel.SetHidden(true)
@@ -272,6 +277,7 @@ export function refreshTaskHud(): undefined {
 
   const extraMinWidth = questHintShown ? INDICATOR_WIDTH + 4 + QUEST_HINT_WIDTH + 8 : 0
   applyAutoWidth(contentContainer, hudWindow, extraMinWidth)
+  noteRefreshExit("completed")
 }
 
 function appendTaskSubRows(task: TaskData, completed: boolean, yOffset: number): number {

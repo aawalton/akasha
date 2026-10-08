@@ -147,6 +147,18 @@ export function refreshesNoted(): { readonly count: number; readonly lastAt: num
   return { count: refreshCount, lastAt: lastRefreshAt }
 }
 
+export type RefreshExit = "early" | "empty" | "completed"
+
+let lastExit: RefreshExit | undefined
+
+export function noteRefreshExit(exit: RefreshExit): undefined {
+  lastExit = exit
+}
+
+export function lastRefreshExit(): RefreshExit | undefined {
+  return lastExit
+}
+
 export function lastSyncedAssistedName(): string | undefined {
   return lastAssistedQuestName
 }

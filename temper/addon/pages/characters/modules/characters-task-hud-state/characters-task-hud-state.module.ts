@@ -11,7 +11,12 @@ export const charactersTaskHudState = {
       decisionKind: "decision-kind/departure",
       statement: "Every redraw of the display is counted, with the moment it began.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each redraw notes whether it returned early, drew the empty line or drew every row.",
+    },
   ],
   createdAt: "2026-09-02T16:23:41.352Z",
-  updatedAt: "2026-10-08T17:14:08.972Z",
+  updatedAt: "2026-10-08T17:29:17.168Z",
 } as const satisfies Module
