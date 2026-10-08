@@ -14,4 +14,6 @@ export const dragonsAndDungeons0003Chapter3TheKinFire = {
   lastTurn: "dragons-and-dungeons-00-003",
   lastTurnPosition: 3,
   endsAt: "2026-09-29T01:30:00.000Z",
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T20:43:55.000Z",
 } as const satisfies StoryChapterPlayed

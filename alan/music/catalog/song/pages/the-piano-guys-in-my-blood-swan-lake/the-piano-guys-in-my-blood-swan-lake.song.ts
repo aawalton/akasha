@@ -7,4 +7,6 @@ export const thePianoGuysInMyBloodSwanLake = {
   title: "In My Blood / Swan Lake",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:30:34.385Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

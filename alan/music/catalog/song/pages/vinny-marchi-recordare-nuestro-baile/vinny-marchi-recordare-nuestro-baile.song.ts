@@ -7,4 +7,6 @@ export const vinnyMarchiRecordareNuestroBaile = {
   title: "Recordaré Nuestro Baile",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:09.282Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

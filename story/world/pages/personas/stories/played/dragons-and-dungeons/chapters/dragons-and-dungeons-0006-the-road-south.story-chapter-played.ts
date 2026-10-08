@@ -14,4 +14,6 @@ export const dragonsAndDungeons0006TheRoadSouth = {
   lastTurn: "dragons-and-dungeons-01-006",
   lastTurnPosition: 6,
   endsAt: "2026-09-29T12:00:00.000Z",
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T20:44:50.000Z",
 } as const satisfies StoryChapterPlayed

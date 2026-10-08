@@ -18,4 +18,6 @@ export const taylorSwiftUmbrella = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-07T21:56:24.323Z",
+  updatedAt: "2026-09-19T16:55:02.000Z",
 } as const satisfies Song

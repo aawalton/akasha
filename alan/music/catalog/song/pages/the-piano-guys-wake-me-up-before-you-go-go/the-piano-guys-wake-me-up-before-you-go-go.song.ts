@@ -7,4 +7,6 @@ export const thePianoGuysWakeMeUpBeforeYouGoGo = {
   title: "Wake Me Up Before You Go-Go",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:30:22.403Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

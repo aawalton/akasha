@@ -7,4 +7,6 @@ export const taylorSwiftItsTimeToGoBonusTrack = {
   title: "it’s time to go - bonus track",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-23T13:48:27.555Z",
+  updatedAt: "2026-09-23T13:48:53.000Z",
 } as const satisfies Song

@@ -15,4 +15,6 @@ export const taylorSwiftRiptide = {
   title: "Riptide",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-06-07T21:56:22.221Z",
+  updatedAt: "2026-09-19T16:55:02.000Z",
 } as const satisfies Song

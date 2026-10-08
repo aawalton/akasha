@@ -15,4 +15,6 @@ export const taylorSwiftOneWayTicketBecauseICan = {
   title: "One Way Ticket (Because I Can)",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-06-07T21:56:18.125Z",
+  updatedAt: "2026-09-19T16:55:02.000Z",
 } as const satisfies Song

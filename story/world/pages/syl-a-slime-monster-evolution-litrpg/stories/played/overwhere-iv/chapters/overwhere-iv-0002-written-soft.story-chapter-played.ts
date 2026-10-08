@@ -72,4 +72,6 @@ export const overwhereIv0002WrittenSoft = {
   lastTurnPosition: 21,
   endsAt: "2026-09-30T09:40:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-30T17:39:13.565Z",
+  updatedAt: "2026-10-06T11:53:26.000Z",
 } as const satisfies StoryChapterPlayed

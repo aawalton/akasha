@@ -77,4 +77,6 @@ export const otherwhereVi0001NightSurvivedBarely = {
   lastTurnPosition: 12,
   endsAt: "2026-09-29T11:15:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-29T02:31:03.500Z",
+  updatedAt: "2026-10-06T11:52:25.000Z",
 } as const satisfies StoryChapterPlayed

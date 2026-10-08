@@ -19,4 +19,6 @@ export const taylorSwiftLastChristmas = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T16:54:37.478Z",
+  updatedAt: "2026-09-19T17:55:30.000Z",
 } as const satisfies Song

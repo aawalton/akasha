@@ -7,4 +7,6 @@ export const thePianoGuysCarolOfTheBellsGodRestYeMerryGentlemen = {
   title: "Carol of the Bells / God Rest Ye Merry Gentlemen",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:30:17.605Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

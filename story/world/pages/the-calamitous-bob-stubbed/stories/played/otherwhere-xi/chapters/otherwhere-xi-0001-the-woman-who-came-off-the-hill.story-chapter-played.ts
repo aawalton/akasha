@@ -57,4 +57,6 @@ export const otherwhereXi0001TheWomanWhoCameOffTheHill = {
   lastTurnPosition: 8,
   endsAt: "2026-09-28T08:49:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-29T02:41:46.680Z",
+  updatedAt: "2026-10-06T11:52:17.000Z",
 } as const satisfies StoryChapterPlayed

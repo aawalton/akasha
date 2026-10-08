@@ -7,4 +7,6 @@ export const taylorSwiftYouAllOverMeFromTheVault = {
   title: "You All Over Me (From The Vault)",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-23T13:48:26.547Z",
+  updatedAt: "2026-09-23T13:48:53.000Z",
 } as const satisfies Song

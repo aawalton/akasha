@@ -19,4 +19,6 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0006ContinueReadingOnAmazon
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:27:51.458Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

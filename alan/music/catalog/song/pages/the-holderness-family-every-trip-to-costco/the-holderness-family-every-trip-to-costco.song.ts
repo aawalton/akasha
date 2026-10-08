@@ -7,4 +7,6 @@ export const theHoldernessFamilyEveryTripToCostco = {
   title: "Every Trip To Costco",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:29:04.703Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

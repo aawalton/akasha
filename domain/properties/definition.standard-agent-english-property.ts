@@ -42,4 +42,6 @@ export const definition = {
   ],
   types: "ts",
   startSymbol: "phrase-kind/domain-definition",
+  createdAt: "2026-08-28T18:54:50.220Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies StandardAgentEnglishProperty

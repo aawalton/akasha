@@ -7,4 +7,6 @@ export const zaraLarssonStatesideZaraLarsson = {
   title: "Stateside + Zara Larsson",
   artist: "artist/zara-larsson",
   performed: true,
+  createdAt: "2026-09-19T02:34:36.548Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

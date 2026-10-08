@@ -15,4 +15,6 @@ export const thePianoGuysBeethovens5Secrets = {
   title: "Beethoven's 5 Secrets",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T00:43:52.184Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

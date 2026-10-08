@@ -48,4 +48,6 @@ export const overwhereI0003Flare = {
   lastTurnPosition: 20,
   endsAt: "2026-09-30T07:40:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-30T11:03:48.653Z",
+  updatedAt: "2026-10-06T11:54:52.000Z",
 } as const satisfies StoryChapterPlayed

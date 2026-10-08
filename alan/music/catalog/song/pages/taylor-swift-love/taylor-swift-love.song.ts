@@ -15,4 +15,6 @@ export const taylorSwiftLove = {
   title: "Love",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-06-07T21:56:12.549Z",
+  updatedAt: "2026-09-19T16:55:02.000Z",
 } as const satisfies Song

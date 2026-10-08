@@ -47,4 +47,6 @@ export const otherwhereV0001FirstNightInFernHollow = {
   lastTurnPosition: 6,
   endsAt: "2026-09-28T19:10:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-28T23:00:23.587Z",
+  updatedAt: "2026-10-06T11:50:58.000Z",
 } as const satisfies StoryChapterPlayed

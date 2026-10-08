@@ -7,4 +7,6 @@ export const thePianoGuysWhenYoureGone = {
   title: "When You're Gone",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:33:54.868Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

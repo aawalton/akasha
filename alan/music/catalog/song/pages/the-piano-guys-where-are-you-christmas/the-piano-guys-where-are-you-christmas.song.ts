@@ -18,4 +18,6 @@ export const thePianoGuysWhereAreYouChristmas = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T00:43:51.045Z",
+  updatedAt: "2026-09-19T16:45:30.000Z",
 } as const satisfies Song

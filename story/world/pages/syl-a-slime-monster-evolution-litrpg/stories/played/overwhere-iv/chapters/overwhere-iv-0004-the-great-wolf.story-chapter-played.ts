@@ -152,4 +152,6 @@ export const overwhereIv0004TheGreatWolf = {
   lastTurnPosition: 65,
   endsAt: "2026-10-04T18:33:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-10-02T20:05:23.011Z",
+  updatedAt: "2026-10-06T11:53:26.000Z",
 } as const satisfies StoryChapterPlayed

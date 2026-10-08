@@ -9,4 +9,6 @@ export const styleRuleAids = {
   maxLength: 100,
   nameFormat: null,
   types: "ts",
+  createdAt: "2026-09-26T16:46:45.491Z",
+  updatedAt: "2026-09-26T16:46:51.000Z",
 } as const satisfies StandardAgentEnglishProperty

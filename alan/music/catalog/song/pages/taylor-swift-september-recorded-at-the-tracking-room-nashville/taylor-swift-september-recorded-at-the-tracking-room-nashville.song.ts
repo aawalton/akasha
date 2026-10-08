@@ -7,4 +7,6 @@ export const taylorSwiftSeptemberRecordedAtTheTrackingRoomNashville = {
   title: "September - Recorded at The Tracking Room Nashville",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-23T13:48:46.715Z",
+  updatedAt: "2026-09-23T13:48:53.000Z",
 } as const satisfies Song

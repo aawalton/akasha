@@ -15,4 +15,6 @@ export const thePianoGuysStoryOfMyLife = {
   title: "Story of My Life",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T00:43:52.022Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

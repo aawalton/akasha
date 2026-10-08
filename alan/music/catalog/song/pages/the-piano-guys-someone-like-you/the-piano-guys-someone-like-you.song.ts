@@ -7,4 +7,6 @@ export const thePianoGuysSomeoneLikeYou = {
   title: "Someone Like You",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:30:21.207Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

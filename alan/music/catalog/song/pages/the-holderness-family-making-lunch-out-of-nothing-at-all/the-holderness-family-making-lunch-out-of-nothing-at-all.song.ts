@@ -7,4 +7,6 @@ export const theHoldernessFamilyMakingLunchOutOfNothingAtAll = {
   title: "Making Lunch Out of Nothing at All",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:29:55.865Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

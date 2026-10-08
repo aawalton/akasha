@@ -16,4 +16,6 @@ export const worldBuilder = {
       statement: "The world builder advances the turn to game-master.",
     },
   ],
+  createdAt: "2026-09-26T17:04:49.937Z",
+  updatedAt: "2026-09-28T18:50:04.000Z",
 } as const satisfies StepStatus

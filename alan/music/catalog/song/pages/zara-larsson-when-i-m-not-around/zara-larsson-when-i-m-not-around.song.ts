@@ -15,4 +15,6 @@ export const zaraLarssonWhenIMNotAround = {
   title: "When I’m Not Around",
   artist: "artist/zara-larsson",
   performed: true,
+  createdAt: "2026-06-08T00:26:19.031Z",
+  updatedAt: "2026-09-19T16:47:26.000Z",
 } as const satisfies Song

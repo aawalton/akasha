@@ -7,4 +7,6 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSong = {
   title: "We Are Fucked (unmotivational song)",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:28.303Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

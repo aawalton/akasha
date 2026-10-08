@@ -14,4 +14,6 @@ export const dragonsAndDungeons0009TheHonestStone = {
   lastTurn: "dragons-and-dungeons-01-009",
   lastTurnPosition: 9,
   endsAt: "2026-09-29T19:00:00.000Z",
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T20:45:45.000Z",
 } as const satisfies StoryChapterPlayed

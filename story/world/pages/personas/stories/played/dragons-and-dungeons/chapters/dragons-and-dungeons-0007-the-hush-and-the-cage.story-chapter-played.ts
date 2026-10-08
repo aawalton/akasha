@@ -14,4 +14,6 @@ export const dragonsAndDungeons0007TheHushAndTheCage = {
   lastTurn: "dragons-and-dungeons-01-007",
   lastTurnPosition: 7,
   endsAt: "2026-09-29T12:15:00.000Z",
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T20:45:08.000Z",
 } as const satisfies StoryChapterPlayed

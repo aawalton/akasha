@@ -37,4 +37,6 @@ export const overwhereIi0005TheLastOfThePack = {
   lastTurnPosition: 41,
   endsAt: "2026-09-30T15:03:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-30T19:53:30.933Z",
+  updatedAt: "2026-10-06T11:54:05.000Z",
 } as const satisfies StoryChapterPlayed

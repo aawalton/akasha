@@ -41,4 +41,6 @@ export const reviewers = {
       statement: "A turn with no issues advances to player, its recorders having run.",
     },
   ],
+  createdAt: "2026-09-26T17:04:49.937Z",
+  updatedAt: "2026-10-04T00:44:25.000Z",
 } as const satisfies StepStatus

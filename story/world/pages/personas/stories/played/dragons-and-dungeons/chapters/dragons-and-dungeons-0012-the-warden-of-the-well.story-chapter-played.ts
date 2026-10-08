@@ -14,4 +14,6 @@ export const dragonsAndDungeons0012TheWardenOfTheWell = {
   lastTurn: "dragons-and-dungeons-01-012",
   lastTurnPosition: 12,
   endsAt: "2026-09-29T21:00:00.000Z",
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T20:46:43.000Z",
 } as const satisfies StoryChapterPlayed

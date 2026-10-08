@@ -32,4 +32,6 @@ export const recorders = {
       statement: "A turn whose recorders' edits refuse stays at recorders.",
     },
   ],
+  createdAt: "2026-09-27T00:50:46.304Z",
+  updatedAt: "2026-10-03T16:22:53.000Z",
 } as const satisfies StepStatus

@@ -7,4 +7,6 @@ export const thePianoGuysAllOfMeSutsFavorite = {
   title: "All of Me (Sut's Favorite)",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:34:00.497Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

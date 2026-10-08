@@ -14,4 +14,6 @@ export const dragonsAndDungeons0008TheWellspring = {
   lastTurn: "dragons-and-dungeons-01-008",
   lastTurnPosition: 8,
   endsAt: "2026-09-29T13:00:00.000Z",
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T20:45:27.000Z",
 } as const satisfies StoryChapterPlayed

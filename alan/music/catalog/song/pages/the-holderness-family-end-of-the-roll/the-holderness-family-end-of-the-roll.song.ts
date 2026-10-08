@@ -7,4 +7,6 @@ export const theHoldernessFamilyEndOfTheRoll = {
   title: "End of the Roll",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:30:05.541Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

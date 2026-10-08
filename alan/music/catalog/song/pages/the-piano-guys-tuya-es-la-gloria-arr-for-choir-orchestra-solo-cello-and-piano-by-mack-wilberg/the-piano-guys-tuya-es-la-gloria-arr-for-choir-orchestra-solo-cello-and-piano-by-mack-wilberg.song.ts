@@ -7,4 +7,6 @@ export const thePianoGuysTuyaEsLaGloriaArrForChoirOrchestraSoloCelloAndPianoByMa
   title: "Tuya Es La Gloria (arr. for Choir, Orchestra, Solo Cello, and Piano by Mack Wilberg)",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:31:05.585Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

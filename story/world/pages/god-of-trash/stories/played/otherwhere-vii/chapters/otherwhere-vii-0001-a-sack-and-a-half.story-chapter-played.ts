@@ -67,4 +67,6 @@ export const otherwhereVii0001ASackAndAHalf = {
   lastTurnPosition: 10,
   endsAt: "2026-09-28T08:34:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-29T01:22:29.864Z",
+  updatedAt: "2026-10-06T11:51:37.000Z",
 } as const satisfies StoryChapterPlayed

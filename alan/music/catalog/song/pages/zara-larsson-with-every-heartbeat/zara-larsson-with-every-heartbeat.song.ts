@@ -18,4 +18,6 @@ export const zaraLarssonWithEveryHeartbeat = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:26:33.569Z",
+  updatedAt: "2026-09-19T16:47:26.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const taylorSwiftSweeterThanFictionFromOneChanceSoundtrack = {
   title: 'Sweeter Than Fiction - From "One Chance" Soundtrack',
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-23T13:48:46.909Z",
+  updatedAt: "2026-09-23T13:48:53.000Z",
 } as const satisfies Song

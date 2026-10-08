@@ -15,4 +15,6 @@ export const zaraLarssonHowDeepIsYourLove = {
   title: "How Deep Is Your Love",
   artist: "artist/zara-larsson",
   performed: true,
+  createdAt: "2026-06-08T00:28:55.750Z",
+  updatedAt: "2026-09-19T16:47:26.000Z",
 } as const satisfies Song

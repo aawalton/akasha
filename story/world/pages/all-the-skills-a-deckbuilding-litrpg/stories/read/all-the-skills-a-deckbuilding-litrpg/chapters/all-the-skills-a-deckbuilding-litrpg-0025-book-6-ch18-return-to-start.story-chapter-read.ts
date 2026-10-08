@@ -21,4 +21,6 @@ export const allTheSkillsADeckbuildingLitrpg0025Book6Ch18ReturnToStart = {
   ],
   removedAt: "2026-07-03T13:47:48.708Z",
   prose: "txt",
+  createdAt: "2026-09-03T04:27:51.448Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

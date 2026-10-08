@@ -7,4 +7,6 @@ export const vinnyMarchiSongOfYourLifeFinale = {
   title: "Song of Your Life (Finale)",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:25.650Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

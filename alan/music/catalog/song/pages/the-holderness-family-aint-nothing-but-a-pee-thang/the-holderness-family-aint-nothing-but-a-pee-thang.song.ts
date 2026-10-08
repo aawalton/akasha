@@ -7,4 +7,6 @@ export const theHoldernessFamilyAintNothingButAPeeThang = {
   title: "Ain't Nothing but a Pee Thang",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:29:58.155Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const yaelokreNeathTheGroveIsAHeart = {
   title: "Neath the grove is a heart",
   artist: "artist/yaelokre",
   performed: true,
+  createdAt: "2026-09-23T13:49:13.372Z",
+  updatedAt: "2026-09-23T13:49:18.000Z",
 } as const satisfies Song

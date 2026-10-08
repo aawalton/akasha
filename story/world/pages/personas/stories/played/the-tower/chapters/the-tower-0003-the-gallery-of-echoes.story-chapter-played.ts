@@ -11,4 +11,6 @@ export const theTower0003TheGalleryOfEchoes = {
   unit: "unit/words",
   prose: "txt",
   beats: "jsonl",
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T20:03:45.000Z",
 } as const satisfies StoryChapterPlayed

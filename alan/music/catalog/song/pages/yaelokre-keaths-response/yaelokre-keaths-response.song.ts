@@ -7,4 +7,6 @@ export const yaelokreKeathsResponse = {
   title: "Keath's Response",
   artist: "artist/yaelokre",
   performed: true,
+  createdAt: "2026-09-23T13:49:13.767Z",
+  updatedAt: "2026-09-23T13:49:18.000Z",
 } as const satisfies Song

@@ -22,4 +22,6 @@ export const overwhereI0005OneOfTheirOwn = {
   lastTurnPosition: 25,
   endsAt: "2026-09-30T09:09:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-30T12:43:11.268Z",
+  updatedAt: "2026-10-06T11:54:52.000Z",
 } as const satisfies StoryChapterPlayed

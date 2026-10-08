@@ -87,4 +87,6 @@ export const otherwhereI0002TheCounterWakes = {
   lastTurnPosition: 63,
   endsAt: "2026-09-28T13:52:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-28T12:51:20.883Z",
+  updatedAt: "2026-10-06T11:52:08.000Z",
 } as const satisfies StoryChapterPlayed

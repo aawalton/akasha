@@ -67,4 +67,6 @@ export const otherwhereIii0002TheDeskDemon = {
   lastTurnPosition: 24,
   endsAt: "2037-01-31T10:45:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-29T04:03:30.457Z",
+  updatedAt: "2026-10-06T11:52:40.000Z",
 } as const satisfies StoryChapterPlayed

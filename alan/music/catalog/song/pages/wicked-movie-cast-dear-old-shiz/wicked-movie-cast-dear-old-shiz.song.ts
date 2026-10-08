@@ -7,4 +7,6 @@ export const wickedMovieCastDearOldShiz = {
   title: "Dear Old Shiz",
   artist: "artist/wicked-movie-cast",
   performed: true,
+  createdAt: "2026-09-19T03:12:53.461Z",
+  updatedAt: "2026-09-19T03:13:04.000Z",
 } as const satisfies Song

@@ -21,4 +21,6 @@ export const allTheSkillsADeckbuildingLitrpg0033B6Ch26SkillGrind2 = {
   ],
   removedAt: "2026-07-03T13:48:02.820Z",
   prose: "txt",
+  createdAt: "2026-09-03T04:27:51.448Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

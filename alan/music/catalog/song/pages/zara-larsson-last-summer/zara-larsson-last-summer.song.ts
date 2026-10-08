@@ -19,4 +19,6 @@ export const zaraLarssonLastSummer = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:26:15.513Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

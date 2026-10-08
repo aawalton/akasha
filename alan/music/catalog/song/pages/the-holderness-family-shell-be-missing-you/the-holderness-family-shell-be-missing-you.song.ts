@@ -7,4 +7,6 @@ export const theHoldernessFamilyShellBeMissingYou = {
   title: "She'll Be Missing You",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:30:07.785Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

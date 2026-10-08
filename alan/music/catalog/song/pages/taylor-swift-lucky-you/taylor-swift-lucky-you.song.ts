@@ -16,4 +16,6 @@ export const taylorSwiftLuckyYou = {
   artist: "artist/taylor-swift",
   performed: true,
   written: "solo",
+  createdAt: "2026-06-07T21:56:13.821Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

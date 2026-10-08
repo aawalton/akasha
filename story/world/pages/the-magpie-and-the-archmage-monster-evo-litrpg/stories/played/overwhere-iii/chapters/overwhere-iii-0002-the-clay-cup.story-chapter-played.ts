@@ -97,4 +97,6 @@ export const overwhereIii0002TheClayCup = {
   lastTurnPosition: 33,
   endsAt: "2026-10-01T08:10:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-30T18:56:22.741Z",
+  updatedAt: "2026-10-06T11:53:01.000Z",
 } as const satisfies StoryChapterPlayed

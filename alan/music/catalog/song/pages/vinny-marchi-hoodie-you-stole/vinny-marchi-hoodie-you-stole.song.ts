@@ -7,4 +7,6 @@ export const vinnyMarchiHoodieYouStole = {
   title: "Hoodie You Stole",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:14.239Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

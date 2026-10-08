@@ -102,4 +102,6 @@ export const overwhereIii0001TheCopperRing = {
   lastTurnPosition: 17,
   endsAt: "2026-09-30T11:58:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-30T11:11:55.983Z",
+  updatedAt: "2026-10-06T11:53:01.000Z",
 } as const satisfies StoryChapterPlayed

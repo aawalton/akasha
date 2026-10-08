@@ -93,4 +93,6 @@ export const overwhereIii0004TheFoxAtTheSett = {
   lastTurnPosition: 65,
   endsAt: "2026-10-06T10:00:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-10-02T20:01:42.559Z",
+  updatedAt: "2026-10-06T11:53:01.000Z",
 } as const satisfies StoryChapterPlayed

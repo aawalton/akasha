@@ -13,4 +13,6 @@ export const theTower0004TheAscendingDark = {
   beats: "jsonl",
   lastTurn: "the-tower-00-069",
   lastTurnPosition: 69,
+  createdAt: "2026-09-24T19:34:02.380Z",
+  updatedAt: "2026-10-03T20:04:57.000Z",
 } as const satisfies StoryChapterPlayed

@@ -7,4 +7,6 @@ export const theHoldernessFamilyAlanisMorissetteNarratesYourDay = {
   title: "Alanis Morissette Narrates Your Day",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:29:08.451Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

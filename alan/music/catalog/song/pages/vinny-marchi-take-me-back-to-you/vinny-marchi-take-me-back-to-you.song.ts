@@ -7,4 +7,6 @@ export const vinnyMarchiTakeMeBackToYou = {
   title: "Take Me Back To You",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:20.049Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

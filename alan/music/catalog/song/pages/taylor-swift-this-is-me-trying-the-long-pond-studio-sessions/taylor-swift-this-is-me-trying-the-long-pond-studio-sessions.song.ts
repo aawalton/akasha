@@ -7,4 +7,6 @@ export const taylorSwiftThisIsMeTryingTheLongPondStudioSessions = {
   title: "this is me trying - the long pond studio sessions",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-23T13:48:29.485Z",
+  updatedAt: "2026-09-23T13:48:53.000Z",
 } as const satisfies Song

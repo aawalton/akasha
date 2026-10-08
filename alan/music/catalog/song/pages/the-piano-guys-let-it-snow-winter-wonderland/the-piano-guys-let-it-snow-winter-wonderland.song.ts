@@ -7,4 +7,6 @@ export const thePianoGuysLetItSnowWinterWonderland = {
   title: "Let It Snow / Winter Wonderland",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:30:17.906Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

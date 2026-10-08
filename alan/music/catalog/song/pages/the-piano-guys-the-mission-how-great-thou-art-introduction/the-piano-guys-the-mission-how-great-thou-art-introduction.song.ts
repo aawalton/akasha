@@ -7,4 +7,6 @@ export const thePianoGuysTheMissionHowGreatThouArtIntroduction = {
   title: "The Mission / How Great Thou Art (Introduction)",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:30:37.549Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

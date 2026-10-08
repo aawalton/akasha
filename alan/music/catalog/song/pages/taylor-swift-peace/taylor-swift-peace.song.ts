@@ -21,4 +21,6 @@ export const taylorSwiftPeace = {
   singability: "A-",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-07T21:56:17.515Z",
+  updatedAt: "2026-09-22T13:09:58.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const vinnyMarchiBearDontCareInterlude = {
   title: "Bear Don't Care (Interlude)",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:25.080Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

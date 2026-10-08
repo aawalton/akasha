@@ -7,4 +7,6 @@ export const taylorSwiftYoureLosingMeFromTheVault = {
   title: "You’re Losing Me (From The Vault)",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-23T13:48:43.044Z",
+  updatedAt: "2026-09-23T13:48:53.000Z",
 } as const satisfies Song

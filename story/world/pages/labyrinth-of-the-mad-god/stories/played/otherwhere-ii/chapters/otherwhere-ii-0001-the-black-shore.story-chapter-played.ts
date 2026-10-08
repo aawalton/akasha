@@ -67,4 +67,6 @@ export const otherwhereIi0001TheBlackShore = {
   lastTurnPosition: 10,
   endsAt: "2026-09-28T15:10:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-28T22:20:18.536Z",
+  updatedAt: "2026-10-06T11:51:59.000Z",
 } as const satisfies StoryChapterPlayed

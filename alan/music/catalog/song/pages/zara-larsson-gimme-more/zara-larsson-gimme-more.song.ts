@@ -15,4 +15,6 @@ export const zaraLarssonGimmeMore = {
   title: "Gimme More",
   artist: "artist/zara-larsson",
   performed: true,
+  createdAt: "2026-06-08T00:27:41.458Z",
+  updatedAt: "2026-09-19T16:47:26.000Z",
 } as const satisfies Song

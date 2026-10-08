@@ -7,4 +7,6 @@ export const thePianoGuysSomethingJustLikeThisHungarianRhapsody = {
   title: "Something Just Like This / Hungarian Rhapsody",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:30:35.691Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

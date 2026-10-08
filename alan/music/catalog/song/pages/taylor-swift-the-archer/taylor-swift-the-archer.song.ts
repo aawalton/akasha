@@ -23,4 +23,6 @@ export const taylorSwiftTheArcher = {
   syncedLyrics: "txt",
   insights: "txt",
   personalConnections: "txt",
+  createdAt: "2026-06-07T21:56:17.565Z",
+  updatedAt: "2026-09-22T13:09:58.000Z",
 } as const satisfies Song

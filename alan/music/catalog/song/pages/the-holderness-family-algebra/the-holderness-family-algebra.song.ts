@@ -7,4 +7,6 @@ export const theHoldernessFamilyAlgebra = {
   title: "Algebra",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:29:54.337Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

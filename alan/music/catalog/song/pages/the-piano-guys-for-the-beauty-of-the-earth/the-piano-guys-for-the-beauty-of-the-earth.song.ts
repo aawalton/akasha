@@ -7,4 +7,6 @@ export const thePianoGuysForTheBeautyOfTheEarth = {
   title: "For The Beauty of The Earth",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:34:02.624Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

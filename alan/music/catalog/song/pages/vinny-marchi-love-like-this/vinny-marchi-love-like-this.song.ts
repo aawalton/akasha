@@ -7,4 +7,6 @@ export const vinnyMarchiLoveLikeThis = {
   title: "love like this",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:22.448Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

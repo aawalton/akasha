@@ -7,4 +7,6 @@ export const thePianoGuysLoveMeLikeIAm = {
   title: "Love Me Like I Am",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:30:39.353Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

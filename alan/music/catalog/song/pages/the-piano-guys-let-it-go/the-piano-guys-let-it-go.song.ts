@@ -15,4 +15,6 @@ export const thePianoGuysLetItGo = {
   title: "Let It Go",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T00:43:51.433Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

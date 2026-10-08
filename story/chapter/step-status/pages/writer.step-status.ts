@@ -34,4 +34,6 @@ export const writer = {
       statement: "A turn with no story recorder goes on to reviewers, or to player once reviewed.",
     },
   ],
+  createdAt: "2026-09-26T17:04:49.937Z",
+  updatedAt: "2026-10-04T00:44:25.000Z",
 } as const satisfies StepStatus

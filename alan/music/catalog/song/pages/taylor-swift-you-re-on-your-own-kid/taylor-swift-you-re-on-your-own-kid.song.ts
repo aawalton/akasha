@@ -23,4 +23,6 @@ export const taylorSwiftYouReOnYourOwnKid = {
   syncedLyrics: "txt",
   insights: "txt",
   personalConnections: "txt",
+  createdAt: "2026-06-07T21:56:23.616Z",
+  updatedAt: "2026-09-22T13:09:58.000Z",
 } as const satisfies Song

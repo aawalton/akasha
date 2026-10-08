@@ -15,4 +15,6 @@ export const thePianoGuysRollingInTheDeep = {
   title: "Rolling in the Deep",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T00:43:51.992Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

@@ -44,4 +44,6 @@ export const mechanics = {
         "A mend moving no beat runs the mechanics seats again only where an issue not ruled out is left.",
     },
   ],
+  createdAt: "2026-10-03T15:06:43.987Z",
+  updatedAt: "2026-10-04T00:44:25.000Z",
 } as const satisfies StepStatus

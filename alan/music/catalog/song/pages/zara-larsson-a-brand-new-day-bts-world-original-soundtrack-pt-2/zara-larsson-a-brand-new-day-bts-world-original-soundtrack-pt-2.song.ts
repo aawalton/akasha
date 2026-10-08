@@ -7,4 +7,6 @@ export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2 = {
   title: "A Brand New Day - BTS World Original Soundtrack (Pt. 2)",
   artist: "artist/zara-larsson",
   performed: true,
+  createdAt: "2026-09-19T02:34:29.221Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

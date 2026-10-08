@@ -15,4 +15,6 @@ export const thePianoGuysAntsMarchingOdeToJoy = {
   title: "Ants Marching / Ode to Joy",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T00:43:51.700Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

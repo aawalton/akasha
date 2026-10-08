@@ -21,4 +21,6 @@ export const allTheSkillsADeckbuildingLitrpg0001Book1NowAvailableOnAmazonKu = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:27:51.445Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

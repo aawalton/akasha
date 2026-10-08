@@ -7,4 +7,6 @@ export const theHoldernessFamilyWashYourHands = {
   title: "Wash Your Hands",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:30:08.773Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

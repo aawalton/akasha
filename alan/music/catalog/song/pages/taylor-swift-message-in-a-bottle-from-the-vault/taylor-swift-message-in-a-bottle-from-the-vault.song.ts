@@ -7,4 +7,6 @@ export const taylorSwiftMessageInABottleFromTheVault = {
   title: "Message In A Bottle (From The Vault)",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-23T13:48:25.407Z",
+  updatedAt: "2026-09-23T13:48:53.000Z",
 } as const satisfies Song

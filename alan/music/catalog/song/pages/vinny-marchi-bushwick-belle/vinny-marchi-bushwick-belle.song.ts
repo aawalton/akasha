@@ -7,4 +7,6 @@ export const vinnyMarchiBushwickBelle = {
   title: "Bushwick Belle",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:07.169Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

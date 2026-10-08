@@ -41,4 +41,6 @@ export const gameMaster = {
         "The game master has the final say: an issue it rules out, with a reason, is ended.",
     },
   ],
+  createdAt: "2026-09-26T17:04:49.936Z",
+  updatedAt: "2026-10-06T22:15:41.000Z",
 } as const satisfies StepStatus

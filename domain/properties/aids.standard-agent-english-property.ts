@@ -15,4 +15,6 @@ export const aids = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-28T19:11:59.532Z",
+  updatedAt: "2026-09-25T15:41:48.000Z",
 } as const satisfies StandardAgentEnglishProperty

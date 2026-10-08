@@ -7,4 +7,6 @@ export const thePianoGuysRowRowRowYourBoat = {
   title: "Row Row Row Your Boat",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:30:43.175Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

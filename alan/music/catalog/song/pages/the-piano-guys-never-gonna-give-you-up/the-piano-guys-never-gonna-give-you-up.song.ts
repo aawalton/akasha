@@ -7,4 +7,6 @@ export const thePianoGuysNeverGonnaGiveYouUp = {
   title: "Never Gonna Give You Up",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:31:10.281Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

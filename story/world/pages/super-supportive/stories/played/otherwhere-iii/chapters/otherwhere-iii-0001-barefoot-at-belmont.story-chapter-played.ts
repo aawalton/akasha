@@ -87,4 +87,6 @@ export const otherwhereIii0001BarefootAtBelmont = {
   lastTurnPosition: 14,
   endsAt: "2037-01-31T08:30:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-29T00:20:30.767Z",
+  updatedAt: "2026-10-06T11:52:40.000Z",
 } as const satisfies StoryChapterPlayed

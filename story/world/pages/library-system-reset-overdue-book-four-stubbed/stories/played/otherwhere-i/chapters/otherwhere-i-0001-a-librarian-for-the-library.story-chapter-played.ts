@@ -261,4 +261,6 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
   lastTurn: "otherwhere-the-library-00-049",
   lastTurnPosition: 49,
   endsAt: "2026-09-28T07:45:00.000Z",
+  createdAt: "2026-09-28T01:50:27.223Z",
+  updatedAt: "2026-10-03T19:39:01.000Z",
 } as const satisfies StoryChapterPlayed

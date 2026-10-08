@@ -17,4 +17,6 @@ export const thePianoGuysBecauseOfYou = {
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",
+  createdAt: "2026-09-19T00:43:52.332Z",
+  updatedAt: "2026-09-19T16:45:30.000Z",
 } as const satisfies Song

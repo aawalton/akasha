@@ -7,4 +7,6 @@ export const thePianoGuysThinkingOutLoud = {
   title: "Thinking Out Loud",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:30:16.675Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

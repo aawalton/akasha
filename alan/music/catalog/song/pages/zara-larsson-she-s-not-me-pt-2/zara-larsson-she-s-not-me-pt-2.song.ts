@@ -18,4 +18,6 @@ export const zaraLarssonSheSNotMePt2 = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:27:49.936Z",
+  updatedAt: "2026-09-19T16:47:26.000Z",
 } as const satisfies Song

@@ -14,4 +14,6 @@ export const dragonsAndDungeons0005InterludeSessionZeroSEnd = {
   lastTurn: "dragons-and-dungeons-00-005",
   lastTurnPosition: 5,
   endsAt: "2026-09-29T02:30:00.000Z",
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T20:44:32.000Z",
 } as const satisfies StoryChapterPlayed

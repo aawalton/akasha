@@ -7,4 +7,6 @@ export const theHoldernessFamily20SecondParodiesForHandwashing = {
   title: "20-Second Parodies for Handwashing",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:30:04.618Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

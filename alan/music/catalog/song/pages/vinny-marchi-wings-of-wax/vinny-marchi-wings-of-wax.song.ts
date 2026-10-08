@@ -7,4 +7,6 @@ export const vinnyMarchiWingsOfWax = {
   title: "Wings of Wax",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:28.607Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

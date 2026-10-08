@@ -7,4 +7,6 @@ export const vinnyMarchiTheBastardInTheKitchen = {
   title: "The Bastard in the Kitchen",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:25.978Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

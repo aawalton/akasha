@@ -7,4 +7,6 @@ export const thePianoGuysBlessTheBrokenRoad = {
   title: "Bless the Broken Road",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:30:13.609Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

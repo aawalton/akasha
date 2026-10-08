@@ -7,4 +7,6 @@ export const vinnyMarchiJonnyRifePulledAKnife = {
   title: "Jonny Rife Pulled a Knife",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:15.851Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

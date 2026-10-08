@@ -7,4 +7,6 @@ export const taylorSwiftWhenEmmaFallsInLoveFromTheVault = {
   title: "When Emma Falls in Love (From The Vault)",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-23T13:48:21.998Z",
+  updatedAt: "2026-09-23T13:48:53.000Z",
 } as const satisfies Song

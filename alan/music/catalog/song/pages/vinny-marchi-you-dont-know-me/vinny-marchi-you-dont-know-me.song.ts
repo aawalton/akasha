@@ -7,4 +7,6 @@ export const vinnyMarchiYouDontKnowMe = {
   title: "you don't know me!!",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:24.407Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

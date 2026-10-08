@@ -15,4 +15,6 @@ export const thePianoGuysMoreThanWords = {
   title: "More Than Words",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T00:43:51.345Z",
+  updatedAt: "2026-09-19T16:45:30.000Z",
 } as const satisfies Song

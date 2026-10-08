@@ -16,4 +16,6 @@ export const thePianoGuysKantateBwv208WasMirBehagtIstNurDieMuntreJagdIxSchafeKon
     "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: IX. “Schafe können sicher weiden”",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T00:43:51.728Z",
+  updatedAt: "2026-09-19T16:45:30.000Z",
 } as const satisfies Song

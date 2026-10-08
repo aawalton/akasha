@@ -7,4 +7,6 @@ export const theHoldernessFamilyIfFallWasYourBoyfriend = {
   title: "If Fall Was Your Boyfriend",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:29:05.299Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

@@ -20,4 +20,6 @@ export const alexaThymeFormerlyAlexithymia0002Chapter2ThePrincipalSOffice2 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:27:51.444Z",
+  updatedAt: "2026-09-28T20:27:05.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const zaraLarssonCanTTameHer = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:26:58.359Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const vinnyMarchiTheTaleOfTheLesbianHunter = {
   title: "The Tale of the Lesbian Hunter",
   artist: "artist/vinny-marchi",
   performed: true,
+  createdAt: "2026-09-19T02:34:26.905Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

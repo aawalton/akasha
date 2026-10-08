@@ -14,4 +14,6 @@ export const dragonsAndDungeons0001Chapter1TheKeyAndTheCollar = {
   lastTurn: "dragons-and-dungeons-00-001",
   lastTurnPosition: 1,
   endsAt: "2026-09-28T23:20:00.000Z",
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T20:43:09.000Z",
 } as const satisfies StoryChapterPlayed

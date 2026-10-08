@@ -87,4 +87,6 @@ export const overwhereIi0006TheSplitCrag = {
   lastTurnPosition: 55,
   endsAt: "2026-10-02T19:00:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-30T22:50:51.603Z",
+  updatedAt: "2026-10-06T11:54:05.000Z",
 } as const satisfies StoryChapterPlayed

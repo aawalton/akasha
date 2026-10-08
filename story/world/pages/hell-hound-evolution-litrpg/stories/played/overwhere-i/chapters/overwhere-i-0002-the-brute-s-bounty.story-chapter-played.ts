@@ -72,4 +72,6 @@ export const overwhereI0002TheBruteSBounty = {
   lastTurnPosition: 14,
   endsAt: "2026-09-29T15:20:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-30T09:40:24.919Z",
+  updatedAt: "2026-10-06T11:54:52.000Z",
 } as const satisfies StoryChapterPlayed

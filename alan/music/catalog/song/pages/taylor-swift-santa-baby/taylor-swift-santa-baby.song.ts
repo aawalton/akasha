@@ -16,4 +16,6 @@ export const taylorSwiftSantaBaby = {
   title: "Santa Baby",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-19T16:54:43.227Z",
+  updatedAt: "2026-09-19T17:55:30.000Z",
 } as const satisfies Song

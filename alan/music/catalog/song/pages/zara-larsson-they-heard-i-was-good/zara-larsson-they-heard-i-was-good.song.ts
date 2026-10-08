@@ -15,4 +15,6 @@ export const zaraLarssonTheyHeardIWasGood = {
   title: "They Heard I Was Good",
   artist: "artist/zara-larsson",
   performed: true,
+  createdAt: "2026-06-08T00:25:31.684Z",
+  updatedAt: "2026-09-19T16:47:26.000Z",
 } as const satisfies Song

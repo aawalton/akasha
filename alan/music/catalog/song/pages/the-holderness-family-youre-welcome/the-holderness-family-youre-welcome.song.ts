@@ -7,4 +7,6 @@ export const theHoldernessFamilyYoureWelcome = {
   title: "You're Welcome",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:30:12.041Z",
+  updatedAt: "2026-09-19T02:33:47.000Z",
 } as const satisfies Song

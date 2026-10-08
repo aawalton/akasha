@@ -67,4 +67,6 @@ export const otherwhereIv0001TheSpiritOfKnowledge = {
   lastTurnPosition: 10,
   endsAt: "2026-09-28T19:05:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-09-29T00:25:20.563Z",
+  updatedAt: "2026-10-06T11:51:19.000Z",
 } as const satisfies StoryChapterPlayed

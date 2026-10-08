@@ -99,4 +99,6 @@ export const overwhereI0009BountyAtAntlerHall = {
   lastTurnPosition: 101,
   endsAt: "2026-10-05T12:35:00.000Z",
   outcomes: "jsonl",
+  createdAt: "2026-10-03T00:57:04.962Z",
+  updatedAt: "2026-10-06T11:54:52.000Z",
 } as const satisfies StoryChapterPlayed

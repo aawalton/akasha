@@ -7,4 +7,6 @@ export const theHoldernessFamilyAdhdNeedsANewName = {
   title: "ADHD Needs A New Name",
   artist: "artist/the-holderness-family",
   performed: true,
+  createdAt: "2026-09-19T02:29:03.691Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

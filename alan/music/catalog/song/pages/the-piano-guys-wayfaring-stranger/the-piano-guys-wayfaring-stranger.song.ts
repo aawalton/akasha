@@ -7,4 +7,6 @@ export const thePianoGuysWayfaringStranger = {
   title: "Wayfaring Stranger",
   artist: "artist/the-piano-guys",
   performed: true,
+  createdAt: "2026-09-19T02:33:55.694Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const yaelokreBirdCageBlueAndYellow = {
   title: "Bird cage blue and yellow",
   artist: "artist/yaelokre",
   performed: true,
+  createdAt: "2026-09-23T13:49:13.514Z",
+  updatedAt: "2026-09-23T13:49:18.000Z",
 } as const satisfies Song

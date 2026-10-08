@@ -7,4 +7,6 @@ export const zaraLarssonShesNotMePt12 = {
   title: "She's Not Me, Pt. 1 & 2",
   artist: "artist/zara-larsson",
   performed: true,
+  createdAt: "2026-09-19T02:34:28.929Z",
+  updatedAt: "2026-09-19T02:34:49.000Z",
 } as const satisfies Song

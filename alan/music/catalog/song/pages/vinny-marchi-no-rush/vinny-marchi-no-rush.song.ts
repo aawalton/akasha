@@ -16,4 +16,6 @@ export const vinnyMarchiNoRush = {
   artist: "artist/vinny-marchi",
   performed: false,
   written: "collab",
+  createdAt: "2026-09-19T00:51:11.849Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song
