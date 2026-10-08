@@ -9,6 +9,10 @@ echo "OK: UIBackgroundModes=[audio] applied to $PLIST"
 "$PB" -c "Add :ITSAppUsesNonExemptEncryption bool false" "$PLIST"
 echo "OK: ITSAppUsesNonExemptEncryption=false applied to $PLIST"
 
+"$PB" -c "Delete :NSMicrophoneUsageDescription" "$PLIST" 2>/dev/null || true
+"$PB" -c "Add :NSMicrophoneUsageDescription string Talk to a seat by voice." "$PLIST"
+echo "OK: NSMicrophoneUsageDescription applied to $PLIST"
+
 if [[ "$STOPLIGHTS_ACTIVITY_ENABLED" == "1" ]]; then
   "$PB" -c "Delete :NSSupportsLiveActivities" "$PLIST" 2>/dev/null || true
   "$PB" -c "Add :NSSupportsLiveActivities bool true" "$PLIST"
