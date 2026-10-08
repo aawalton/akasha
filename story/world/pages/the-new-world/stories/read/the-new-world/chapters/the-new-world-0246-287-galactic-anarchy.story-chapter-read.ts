@@ -21,4 +21,6 @@ export const theNewWorld0246287GalacticAnarchy = {
   ownProgress: 5481,
   completedAt: "2026-06-29T21:29:32.501Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.255Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

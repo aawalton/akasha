@@ -21,4 +21,6 @@ export const theNewWorld001457MountainsOfMadness = {
   ownProgress: 5128,
   completedAt: "2026-06-29T21:21:11.486Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.134Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

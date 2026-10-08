@@ -19,4 +19,6 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete0012Book3FromMay1stFin
   ],
   publishedAt: "2025-03-01",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.123Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const theNewWorld0065107AjaxVolan = {
   ownProgress: 4153,
   completedAt: "2026-06-29T21:23:04.334Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.165Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

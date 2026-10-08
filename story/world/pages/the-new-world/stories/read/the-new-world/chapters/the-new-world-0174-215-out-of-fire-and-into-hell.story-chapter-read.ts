@@ -21,4 +21,6 @@ export const theNewWorld0174215OutOfFireAndIntoHell = {
   ownProgress: 2472,
   completedAt: "2026-06-29T21:26:50.575Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.218Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

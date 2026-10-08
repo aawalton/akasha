@@ -21,4 +21,6 @@ export const theNewWorld0245286ASourceOfWealth = {
   ownProgress: 6578,
   completedAt: "2026-06-29T21:29:30.304Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.254Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

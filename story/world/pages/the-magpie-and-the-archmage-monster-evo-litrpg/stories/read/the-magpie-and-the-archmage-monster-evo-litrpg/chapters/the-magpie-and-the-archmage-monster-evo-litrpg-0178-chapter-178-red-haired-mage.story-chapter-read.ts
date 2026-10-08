@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0178Chapter178RedHairedMage 
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   ownLength: 2268,
   prose: "txt",
+  createdAt: "2026-09-12T07:04:06.258Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

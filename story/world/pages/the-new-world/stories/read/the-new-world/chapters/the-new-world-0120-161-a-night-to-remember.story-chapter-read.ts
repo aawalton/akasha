@@ -21,4 +21,6 @@ export const theNewWorld0120161ANightToRemember = {
   ownProgress: 3187,
   completedAt: "2026-06-29T21:25:06.159Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.194Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

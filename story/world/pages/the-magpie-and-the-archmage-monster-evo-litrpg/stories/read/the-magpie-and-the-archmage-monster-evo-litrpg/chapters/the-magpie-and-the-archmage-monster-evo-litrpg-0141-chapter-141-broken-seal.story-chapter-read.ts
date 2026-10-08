@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0141Chapter141BrokenSeal = {
   ],
   publishedAt: "2026-06-26",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.563Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0174Chapter174RageOfTheMagpi
   title: "Chapter 174 – Rage of the Magpie",
   ownLength: 2215,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.752Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

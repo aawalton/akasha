@@ -21,4 +21,6 @@ export const theNewWorld0168209SendingAMessage = {
   ownProgress: 1411,
   completedAt: "2026-06-29T21:26:37.575Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.215Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

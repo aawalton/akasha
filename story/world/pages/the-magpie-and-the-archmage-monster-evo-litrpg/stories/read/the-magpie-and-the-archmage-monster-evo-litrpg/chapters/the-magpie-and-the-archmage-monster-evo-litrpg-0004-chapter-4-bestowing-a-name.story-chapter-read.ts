@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0004Chapter4BestowingAName =
   ],
   publishedAt: "2025-08-17",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.557Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

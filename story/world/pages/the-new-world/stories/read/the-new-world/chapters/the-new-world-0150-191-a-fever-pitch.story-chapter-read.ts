@@ -21,4 +21,6 @@ export const theNewWorld0150191AFeverPitch = {
   ownProgress: 5257,
   completedAt: "2026-06-29T21:25:57.470Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.207Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

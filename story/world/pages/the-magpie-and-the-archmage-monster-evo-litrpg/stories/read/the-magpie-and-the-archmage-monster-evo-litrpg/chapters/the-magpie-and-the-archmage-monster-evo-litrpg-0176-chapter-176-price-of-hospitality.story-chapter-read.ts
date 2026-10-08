@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0176Chapter176PriceOfHospita
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   ownLength: 1988,
   prose: "txt",
+  createdAt: "2026-09-09T07:07:21.363Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const theNewWorld0139180HeliosRulerOfWorlds = {
   ownProgress: 4352,
   completedAt: "2026-06-29T21:25:33.239Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.203Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

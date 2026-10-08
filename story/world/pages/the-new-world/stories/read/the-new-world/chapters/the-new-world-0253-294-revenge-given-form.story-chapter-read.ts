@@ -21,4 +21,6 @@ export const theNewWorld0253294RevengeGivenForm = {
   ownProgress: 4358,
   completedAt: "2026-06-29T21:29:48.785Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.261Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

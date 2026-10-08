@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0179Chapter179FamilyMatters 
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   ownLength: 2200,
   prose: "txt",
+  createdAt: "2026-09-14T07:06:05.329Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

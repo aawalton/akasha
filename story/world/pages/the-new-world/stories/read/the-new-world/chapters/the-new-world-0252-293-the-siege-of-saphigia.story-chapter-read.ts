@@ -21,4 +21,6 @@ export const theNewWorld0252293TheSiegeOfSaphigia = {
   ownProgress: 5126,
   completedAt: "2026-06-29T21:29:46.428Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.260Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

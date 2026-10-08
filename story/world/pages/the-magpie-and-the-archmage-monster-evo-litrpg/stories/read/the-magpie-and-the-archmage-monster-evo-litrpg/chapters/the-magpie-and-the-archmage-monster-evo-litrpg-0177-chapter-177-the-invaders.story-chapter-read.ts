@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0177Chapter177TheInvaders = 
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   ownLength: 1987,
   prose: "txt",
+  createdAt: "2026-09-11T14:06:05.755Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

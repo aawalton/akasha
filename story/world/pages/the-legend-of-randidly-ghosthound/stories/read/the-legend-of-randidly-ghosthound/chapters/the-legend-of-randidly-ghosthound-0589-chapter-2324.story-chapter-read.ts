@@ -21,4 +21,6 @@ export const theLegendOfRandidlyGhosthound0589Chapter2324 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:40:13.938Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
