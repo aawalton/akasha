@@ -8,6 +8,7 @@ export const foodEntry20261008OrganicSweetPotatoSticks80gBag = {
   happenedAt: "2026-10-08T17:52:00.000Z",
   plantGrams: 80,
   estimatedCalories: 270,
+  cover: "image/image-14ea6783d94edd79",
   createdAt: "2026-10-08T17:52:54.914Z",
-  updatedAt: "2026-10-08T17:52:54.914Z",
+  updatedAt: "2026-10-08T17:53:48.510Z",
 } as const satisfies FoodEntry
