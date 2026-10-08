@@ -24,4 +24,6 @@ export const paulCardallTheChristmasBoxAChangeOfHeart = {
       externalLink: "https://open.spotify.com/track/1izkfUm8NdwJ4nx4w61Z6d",
     },
   ],
+  createdAt: "2026-09-18T13:50:27.346Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

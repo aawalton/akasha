@@ -24,4 +24,6 @@ export const sabrinaCarpenterShortNSweetSlimPickins = {
       externalLink: "https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb",
     },
   ],
+  createdAt: "2026-09-17T20:31:24.819Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

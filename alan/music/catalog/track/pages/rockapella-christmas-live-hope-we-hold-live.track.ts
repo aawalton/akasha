@@ -24,4 +24,6 @@ export const rockapellaChristmasLiveHopeWeHoldLive = {
       externalLink: "https://open.spotify.com/track/73HDcn25ZG0dVuSAJBt95b",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.404Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

@@ -29,4 +29,6 @@ export const sabrinaCarpenterAlienM22RemixAlienM22Remix = {
       externalLink: "https://open.spotify.com/track/18YI6FM5DHrSdiO4ylzVfj",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.194Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

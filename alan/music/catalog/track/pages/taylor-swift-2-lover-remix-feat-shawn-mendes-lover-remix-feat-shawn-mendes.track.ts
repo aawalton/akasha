@@ -24,4 +24,6 @@ export const taylorSwift2LoverRemixFeatShawnMendesLoverRemixFeatShawnMendes = {
       externalLink: "https://open.spotify.com/track/3i9UVldZOE0aD0JnyfAZZ0",
     },
   ],
+  createdAt: "2026-09-23T13:48:46.437Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

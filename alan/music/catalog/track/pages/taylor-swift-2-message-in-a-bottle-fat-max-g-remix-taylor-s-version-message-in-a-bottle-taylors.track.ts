@@ -26,4 +26,6 @@ export const taylorSwift2MessageInABottleFatMaxGRemixTaylorSVersionMessageInABot
       externalLink: "https://open.spotify.com/track/1zIzd27gmbNrWWkMCEWmgC",
     },
   ],
+  createdAt: "2026-09-23T13:48:44.283Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

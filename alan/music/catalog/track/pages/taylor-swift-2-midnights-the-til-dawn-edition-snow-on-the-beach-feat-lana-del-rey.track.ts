@@ -42,4 +42,6 @@ export const taylorSwift2MidnightsTheTilDawnEditionSnowOnTheBeachFeatLanaDelRey 
       externalLink: "https://open.spotify.com/track/7GA86Uo2jYbj8vIXe2nyWd",
     },
   ],
+  createdAt: "2026-09-23T13:48:24.043Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

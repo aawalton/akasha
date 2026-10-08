@@ -24,4 +24,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingAnUnseenWorld = {
       externalLink: "https://open.spotify.com/track/7vgTwc6QF4UvWMv5yGyOWk",
     },
   ],
+  createdAt: "2026-09-18T13:50:24.585Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

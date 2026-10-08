@@ -24,4 +24,6 @@ export const sabrinaCarpenterEspressoEpEspressoMochapellaVersion = {
       externalLink: "https://open.spotify.com/track/4I7dAz8IaDk76QK3n3eJir",
     },
   ],
+  createdAt: "2026-09-17T20:31:27.766Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

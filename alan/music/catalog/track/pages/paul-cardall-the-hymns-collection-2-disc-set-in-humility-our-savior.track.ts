@@ -24,4 +24,6 @@ export const paulCardallTheHymnsCollection2DiscSetInHumilityOurSavior = {
       externalLink: "https://open.spotify.com/track/2gPtoFCRNjYS8KHqaxTe4l",
     },
   ],
+  createdAt: "2026-09-18T13:50:21.807Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

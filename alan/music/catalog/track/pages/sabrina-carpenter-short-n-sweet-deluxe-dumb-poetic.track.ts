@@ -24,4 +24,6 @@ export const sabrinaCarpenterShortNSweetDeluxeDumbPoetic = {
       externalLink: "https://open.spotify.com/track/1QBEAcc13ipZG7OvT2z2v1",
     },
   ],
+  createdAt: "2026-09-17T20:31:24.142Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

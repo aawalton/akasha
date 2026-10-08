@@ -24,4 +24,6 @@ export const taylorSwift2DeathByAThousandCutsLiveFromParisDeathByAThousandCutsLi
       externalLink: "https://open.spotify.com/track/3oF7Or7T35yhQbGxbCGvRX",
     },
   ],
+  createdAt: "2026-09-23T13:48:45.959Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

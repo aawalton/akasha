@@ -31,4 +31,6 @@ export const reneeRappSnowAngelDeluxeIHateBoston = {
       externalLink: "https://open.spotify.com/track/0kO4toO6Wqde0p84YIixQ9",
     },
   ],
+  createdAt: "2026-09-22T19:47:51.345Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

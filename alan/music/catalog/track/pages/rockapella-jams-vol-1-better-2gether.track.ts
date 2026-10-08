@@ -31,4 +31,6 @@ export const rockapellaJamsVol1Better2gether = {
       externalLink: "https://open.spotify.com/track/1ucWjkrJgXxFbK6tCmZZVV",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.405Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

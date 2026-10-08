@@ -24,4 +24,6 @@ export const rockapellaARockapellaHolidayChristmasAltogether = {
       externalLink: "https://open.spotify.com/track/2oB3olmdt4jeMWx5ZJF5Ym",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.403Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

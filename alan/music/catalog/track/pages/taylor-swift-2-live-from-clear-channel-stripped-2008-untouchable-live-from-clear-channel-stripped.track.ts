@@ -24,4 +24,6 @@ export const taylorSwift2LiveFromClearChannelStripped2008UntouchableLiveFromClea
       externalLink: "https://open.spotify.com/track/4MbHDiHQjhmoVAV75G04Ql",
     },
   ],
+  createdAt: "2026-09-23T13:48:41.485Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

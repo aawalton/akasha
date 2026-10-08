@@ -24,4 +24,6 @@ export const paulCardallTheChristmasBoxTheFirstGift = {
       externalLink: "https://open.spotify.com/track/2Obpswn9eT5D6ueJH84kBu",
     },
   ],
+  createdAt: "2026-09-18T13:50:27.547Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

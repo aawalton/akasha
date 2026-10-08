@@ -24,4 +24,6 @@ export const paulCardallSacredPianoEmbraced = {
       externalLink: "https://open.spotify.com/track/7zIfL3Gs8IwKCWuAre4XP6",
     },
   ],
+  createdAt: "2026-09-18T13:50:19.836Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

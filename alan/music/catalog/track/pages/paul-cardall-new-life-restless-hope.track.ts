@@ -24,4 +24,6 @@ export const paulCardallNewLifeRestlessHope = {
       externalLink: "https://open.spotify.com/track/0k9om25NDDRTCrxqzUTdVo",
     },
   ],
+  createdAt: "2026-09-18T13:50:17.479Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2ReputationDress = {
       externalLink: "https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv",
     },
   ],
+  createdAt: "2026-09-23T13:48:33.256Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

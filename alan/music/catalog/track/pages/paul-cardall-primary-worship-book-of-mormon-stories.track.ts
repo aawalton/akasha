@@ -24,4 +24,6 @@ export const paulCardallPrimaryWorshipBookOfMormonStories = {
       externalLink: "https://open.spotify.com/track/55taYRw24dlfSN7MU7ErH2",
     },
   ],
+  createdAt: "2026-09-18T13:50:23.382Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

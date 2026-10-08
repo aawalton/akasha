@@ -24,4 +24,6 @@ export const paulCardallLiveAKissOfTheSunlightLive = {
       externalLink: "https://open.spotify.com/track/6i7UE3Kn2Q8CDNCrU54zo3",
     },
   ],
+  createdAt: "2026-09-18T13:50:23.922Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

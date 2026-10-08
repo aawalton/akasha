@@ -24,4 +24,6 @@ export const paulCardallGraceInGriefSerenity = {
       externalLink: "https://open.spotify.com/track/5AdKBr5FSUxqiXXdD3k0a8",
     },
   ],
+  createdAt: "2026-09-18T13:50:10.851Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

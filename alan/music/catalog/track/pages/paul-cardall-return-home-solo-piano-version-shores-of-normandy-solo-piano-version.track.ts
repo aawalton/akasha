@@ -24,4 +24,6 @@ export const paulCardallReturnHomeSoloPianoVersionShoresOfNormandySoloPianoVersi
       externalLink: "https://open.spotify.com/track/7fUvIk2JPkkq6hW91PsPZN",
     },
   ],
+  createdAt: "2026-09-18T13:50:11.314Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

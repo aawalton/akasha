@@ -27,4 +27,6 @@ export const taylorSwift2CarolinaFromTheMotionPictureWhereTheCrawdadsSingCarolin
         externalLink: "https://open.spotify.com/track/12xIjI9A9UlB6zEc7kyZ06",
       },
     ],
+    createdAt: "2026-09-23T13:48:44.007Z",
+    updatedAt: "2026-09-24T20:00:57.000Z",
   } as const satisfies Track

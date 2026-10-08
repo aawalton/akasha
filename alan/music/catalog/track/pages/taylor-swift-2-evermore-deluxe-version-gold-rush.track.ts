@@ -34,4 +34,6 @@ export const taylorSwift2EvermoreDeluxeVersionGoldRush = {
       externalLink: "https://open.spotify.com/track/3Dby3p1m6IOZn2gIIqECgK",
     },
   ],
+  createdAt: "2026-09-23T13:48:27.688Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

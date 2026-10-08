@@ -24,4 +24,6 @@ export const taylorSwift2FolkloreBetty = {
       externalLink: "https://open.spotify.com/track/5kI4eCXXzyuIUXjQra0Cxi",
     },
   ],
+  createdAt: "2026-09-23T13:48:31.439Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

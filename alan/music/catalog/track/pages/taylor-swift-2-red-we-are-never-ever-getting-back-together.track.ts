@@ -31,4 +31,6 @@ export const taylorSwift2RedWeAreNeverEverGettingBackTogether = {
       externalLink: "https://open.spotify.com/track/1OYARuagDrpgNNQ4loO1Cs",
     },
   ],
+  createdAt: "2026-09-23T13:48:37.482Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

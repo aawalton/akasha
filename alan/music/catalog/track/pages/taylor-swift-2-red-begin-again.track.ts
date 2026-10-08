@@ -31,4 +31,6 @@ export const taylorSwift2RedBeginAgain = {
       externalLink: "https://open.spotify.com/track/48A0aShHlovDfTMucMrE66",
     },
   ],
+  createdAt: "2026-09-23T13:48:37.802Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

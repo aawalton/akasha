@@ -24,4 +24,6 @@ export const paulCardallLivingForEdenSweetHourOfPrayer = {
       externalLink: "https://open.spotify.com/track/6TAj9AlhfJHud6rYIcvaJY",
     },
   ],
+  createdAt: "2026-09-18T13:50:20.721Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

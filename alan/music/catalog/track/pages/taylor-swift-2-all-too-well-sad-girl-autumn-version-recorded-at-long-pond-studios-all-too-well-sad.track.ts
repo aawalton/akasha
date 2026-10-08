@@ -27,4 +27,6 @@ export const taylorSwift2AllTooWellSadGirlAutumnVersionRecordedAtLongPondStudios
       externalLink: "https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1",
     },
   ],
+  createdAt: "2026-09-23T13:48:44.525Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

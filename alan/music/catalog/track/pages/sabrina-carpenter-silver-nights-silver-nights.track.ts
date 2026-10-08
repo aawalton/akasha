@@ -24,4 +24,6 @@ export const sabrinaCarpenterSilverNightsSilverNights = {
       externalLink: "https://open.spotify.com/track/4hBJ3HHSLgaKcMOxWxrKm0",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.683Z",
+  updatedAt: "2026-09-25T19:00:26.000Z",
 } as const satisfies Track

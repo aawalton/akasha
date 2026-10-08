@@ -24,4 +24,6 @@ export const sabrinaCarpenterSueMeACappellaSueMeACappella = {
       externalLink: "https://open.spotify.com/track/1GlBABlFOcIIlSEYcnOP3b",
     },
   ],
+  createdAt: "2026-09-17T20:31:28.755Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

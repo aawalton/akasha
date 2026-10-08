@@ -24,4 +24,6 @@ export const paulCardallSignOfAffection10thAnniversaryTheRiver = {
       externalLink: "https://open.spotify.com/track/5SLkB32r1Gn2qS3Z3erdss",
     },
   ],
+  createdAt: "2026-09-18T13:50:22.483Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

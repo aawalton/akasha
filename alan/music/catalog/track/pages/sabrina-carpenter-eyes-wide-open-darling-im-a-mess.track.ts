@@ -24,4 +24,6 @@ export const sabrinaCarpenterEyesWideOpenDarlingImAMess = {
       externalLink: "https://open.spotify.com/track/6rdKHwxWa9aqWyoGf1r20v",
     },
   ],
+  createdAt: "2026-09-17T20:31:27.100Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistChange = {
       externalLink: "https://open.spotify.com/track/5PSOWHll3h3Vy226xSJk0M",
     },
   ],
+  createdAt: "2026-09-23T13:48:41.325Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallWhereCanITurnForPeaceWhereCanITurnForPeace = {
       externalLink: "https://open.spotify.com/track/1JZ1VmbGJqoYw44oGtEysM",
     },
   ],
+  createdAt: "2026-09-18T13:50:27.767Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

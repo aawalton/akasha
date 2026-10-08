@@ -24,4 +24,6 @@ export const paulCardallSleepSleepNremStage1 = {
       externalLink: "https://open.spotify.com/track/6Oephcg5HwzT4xDM7BcVsf",
     },
   ],
+  createdAt: "2026-09-18T13:50:12.074Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

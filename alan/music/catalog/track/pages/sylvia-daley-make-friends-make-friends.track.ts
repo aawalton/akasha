@@ -24,4 +24,6 @@ export const sylviaDaleyMakeFriendsMakeFriends = {
       externalLink: "https://open.spotify.com/track/3qbJ0mWGjdVPAZJO565Zfo",
     },
   ],
+  createdAt: "2026-09-15T20:30:19.949Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

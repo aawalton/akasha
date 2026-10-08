@@ -24,4 +24,6 @@ export const paulCardallSavingTinyHeartsSaintsTravelers = {
       externalLink: "https://open.spotify.com/track/7J1ZqyD9jZmQlS6XVT32uw",
     },
   ],
+  createdAt: "2026-09-18T13:50:17.003Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

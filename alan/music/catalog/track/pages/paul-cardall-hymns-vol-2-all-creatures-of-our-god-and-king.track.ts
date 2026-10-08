@@ -24,4 +24,6 @@ export const paulCardallHymnsVol2AllCreaturesOfOurGodAndKing = {
       externalLink: "https://open.spotify.com/track/1wQgIlibEbXkR3qVCPP5jd",
     },
   ],
+  createdAt: "2026-09-18T13:50:25.555Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

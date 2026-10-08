@@ -24,4 +24,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdThingsIWishYouSaid = {
       externalLink: "https://open.spotify.com/track/2t2fnYja6b2pUizMungIo0",
     },
   ],
+  createdAt: "2026-09-17T20:31:25.474Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

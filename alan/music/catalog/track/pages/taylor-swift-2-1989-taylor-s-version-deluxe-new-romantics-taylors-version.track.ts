@@ -34,4 +34,6 @@ export const taylorSwift21989TaylorSVersionDeluxeNewRomanticsTaylorsVersion = {
       externalLink: "https://open.spotify.com/track/5M787RexsAiVYjQusM98CV",
     },
   ],
+  createdAt: "2026-09-23T13:48:21.126Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

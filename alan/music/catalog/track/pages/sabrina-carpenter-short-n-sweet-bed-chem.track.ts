@@ -24,4 +24,6 @@ export const sabrinaCarpenterShortNSweetBedChem = {
       externalLink: "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF",
     },
   ],
+  createdAt: "2026-09-17T20:31:24.701Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2RedTaylorSVersionTheVeryFirstNightTaylorsVersionFromThe
       externalLink: "https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8",
     },
   ],
+  createdAt: "2026-09-23T13:48:25.688Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

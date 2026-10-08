@@ -24,4 +24,6 @@ export const paulCardallPeacefulPianoTheWayOut = {
       externalLink: "https://open.spotify.com/track/4ij3xYNImjBta3QzYtdfBa",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.213Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

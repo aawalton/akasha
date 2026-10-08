@@ -24,4 +24,6 @@ export const sabrinaCarpenterEvolutionNoWords = {
       externalLink: "https://open.spotify.com/track/7gnUZFwdWMCaLNPDbGaq0Y",
     },
   ],
+  createdAt: "2026-09-17T20:31:26.574Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

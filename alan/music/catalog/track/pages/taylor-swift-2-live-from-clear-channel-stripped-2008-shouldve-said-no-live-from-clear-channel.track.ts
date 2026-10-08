@@ -24,4 +24,6 @@ export const taylorSwift2LiveFromClearChannelStripped2008ShouldveSaidNoLiveFromC
       externalLink: "https://open.spotify.com/track/5a9hUL6ZuiagZhazwrtwHF",
     },
   ],
+  createdAt: "2026-09-23T13:48:41.598Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

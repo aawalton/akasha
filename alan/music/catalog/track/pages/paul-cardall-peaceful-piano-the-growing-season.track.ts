@@ -24,4 +24,6 @@ export const paulCardallPeacefulPianoTheGrowingSeason = {
       externalLink: "https://open.spotify.com/track/55ukNZ9zHGdljRa7aIhipl",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.020Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

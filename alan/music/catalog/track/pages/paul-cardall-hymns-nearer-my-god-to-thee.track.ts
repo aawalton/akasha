@@ -24,4 +24,6 @@ export const paulCardallHymnsNearerMyGodToThee = {
       externalLink: "https://open.spotify.com/track/7spnDqggl2pmtwUAWPzf55",
     },
   ],
+  createdAt: "2026-09-18T13:50:26.521Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

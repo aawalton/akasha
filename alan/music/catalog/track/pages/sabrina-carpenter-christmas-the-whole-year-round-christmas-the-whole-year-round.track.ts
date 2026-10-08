@@ -24,4 +24,6 @@ export const sabrinaCarpenterChristmasTheWholeYearRoundChristmasTheWholeYearRoun
       externalLink: "https://open.spotify.com/track/065CI94mu3IZwqPU4BX4Cb",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.611Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

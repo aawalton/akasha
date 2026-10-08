@@ -24,4 +24,6 @@ export const paulCardallLivingForEdenWasatch = {
       externalLink: "https://open.spotify.com/track/3KkSOna76u6Lh7AMniVilR",
     },
   ],
+  createdAt: "2026-09-18T13:50:20.035Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

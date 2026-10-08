@@ -24,4 +24,6 @@ export const paulCardallTheCelebrateLifeConcertLiveSweetEscapeLive = {
       externalLink: "https://open.spotify.com/track/7tNciXYhJ8cCJ39TNQIwwU",
     },
   ],
+  createdAt: "2026-09-18T13:50:18.457Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

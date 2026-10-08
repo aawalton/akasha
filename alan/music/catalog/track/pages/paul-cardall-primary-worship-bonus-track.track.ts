@@ -24,4 +24,6 @@ export const paulCardallPrimaryWorshipBonusTrack = {
       externalLink: "https://open.spotify.com/track/20XKVKt6VVS8BVcxwFYzNk",
     },
   ],
+  createdAt: "2026-09-18T13:50:23.550Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

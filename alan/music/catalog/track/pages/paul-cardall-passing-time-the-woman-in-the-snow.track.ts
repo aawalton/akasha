@@ -24,4 +24,6 @@ export const paulCardallPassingTimeTheWomanInTheSnow = {
       externalLink: "https://open.spotify.com/track/05pIB1M8VNrVW8rUZroN6B",
     },
   ],
+  createdAt: "2026-09-18T13:50:28.961Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

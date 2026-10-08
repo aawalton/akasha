@@ -50,4 +50,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdSkinnyDipping = {
       externalLink: "https://open.spotify.com/track/45OXcucp7vRS6QrFXq2II3",
     },
   ],
+  createdAt: "2026-09-17T20:31:25.280Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

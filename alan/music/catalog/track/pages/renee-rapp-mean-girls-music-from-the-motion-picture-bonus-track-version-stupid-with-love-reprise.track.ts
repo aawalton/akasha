@@ -26,4 +26,6 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionStupidW
       externalLink: "https://open.spotify.com/track/5UJRkZ59KBW32PWtZ3Vz0n",
     },
   ],
+  createdAt: "2026-09-22T19:47:49.561Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

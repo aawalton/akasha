@@ -24,4 +24,6 @@ export const paulCardallTheBrokenMiracleTinasTheme = {
       externalLink: "https://open.spotify.com/track/6mWeUh9FaEEXy6rWaLYQh2",
     },
   ],
+  createdAt: "2026-09-18T13:50:13.672Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

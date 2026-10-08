@@ -24,4 +24,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingSequoiasPath = {
       externalLink: "https://open.spotify.com/track/7MyakuivAkXDZ4xs76pUjk",
     },
   ],
+  createdAt: "2026-09-18T13:50:24.703Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

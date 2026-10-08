@@ -34,4 +34,6 @@ export const taylorSwift2EvermoreDeluxeVersionTisTheDamnSeason = {
       externalLink: "https://open.spotify.com/track/6sQckd3Z8NPxVVKUnavY1F",
     },
   ],
+  createdAt: "2026-09-23T13:48:27.729Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

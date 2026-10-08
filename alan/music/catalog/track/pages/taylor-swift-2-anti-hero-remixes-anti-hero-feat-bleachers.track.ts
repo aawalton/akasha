@@ -34,4 +34,6 @@ export const taylorSwift2AntiHeroRemixesAntiHeroFeatBleachers = {
       externalLink: "https://open.spotify.com/track/16M9Rxid0nXhVmme7lzVwN",
     },
   ],
+  createdAt: "2026-09-23T13:48:43.831Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

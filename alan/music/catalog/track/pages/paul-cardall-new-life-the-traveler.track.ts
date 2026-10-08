@@ -24,4 +24,6 @@ export const paulCardallNewLifeTheTraveler = {
       externalLink: "https://open.spotify.com/track/1oMBWc9ad1NGtGufOkB5X2",
     },
   ],
+  createdAt: "2026-09-18T13:50:17.250Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

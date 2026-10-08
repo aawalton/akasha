@@ -24,4 +24,6 @@ export const paulCardallTheLookingGlassTheDream = {
       externalLink: "https://open.spotify.com/track/6EDk8EPJ60RIg7YuWWQy7o",
     },
   ],
+  createdAt: "2026-09-18T13:50:25.933Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

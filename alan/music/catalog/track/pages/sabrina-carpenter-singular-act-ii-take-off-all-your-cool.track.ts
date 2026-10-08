@@ -24,4 +24,6 @@ export const sabrinaCarpenterSingularActIiTakeOffAllYourCool = {
       externalLink: "https://open.spotify.com/track/27B9H3cOefm9lWDfh9A0gj",
     },
   ],
+  createdAt: "2026-09-17T20:31:26.049Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

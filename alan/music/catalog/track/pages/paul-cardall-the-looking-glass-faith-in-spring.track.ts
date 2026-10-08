@@ -24,4 +24,6 @@ export const paulCardallTheLookingGlassFaithInSpring = {
       externalLink: "https://open.spotify.com/track/28DUyTFjufXwQE961pinzv",
     },
   ],
+  createdAt: "2026-09-18T13:50:26.198Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

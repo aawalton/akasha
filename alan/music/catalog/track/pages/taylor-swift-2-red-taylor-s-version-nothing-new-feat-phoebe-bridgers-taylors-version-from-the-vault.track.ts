@@ -25,4 +25,6 @@ export const taylorSwift2RedTaylorSVersionNothingNewFeatPhoebeBridgersTaylorsVer
       externalLink: "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B",
     },
   ],
+  createdAt: "2026-09-23T13:48:25.306Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

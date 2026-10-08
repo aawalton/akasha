@@ -24,4 +24,6 @@ export const taylorSwift2FolkloreTheLastGreatAmericanDynasty = {
       externalLink: "https://open.spotify.com/track/2Eeur20xVqfUoM3Q7EFPFt",
     },
   ],
+  createdAt: "2026-09-23T13:48:30.971Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

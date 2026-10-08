@@ -24,4 +24,6 @@ export const paulCardallNewLifeGraciesTheme = {
       externalLink: "https://open.spotify.com/track/6Pii4GK1kaVUeoxmBB0rUr",
     },
   ],
+  createdAt: "2026-09-18T13:50:17.379Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

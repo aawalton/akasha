@@ -24,4 +24,6 @@ export const rockapellaChristmasLiveSugarPlumBreakdownLive = {
       externalLink: "https://open.spotify.com/track/6sPyQQCDwVn2k811yons5G",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.404Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

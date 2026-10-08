@@ -24,4 +24,6 @@ export const sylviaDaleyMyOwnRulesMyOwnRules = {
       externalLink: "https://open.spotify.com/track/4FcR7G0OXj6sBOGHnDCWkF",
     },
   ],
+  createdAt: "2026-09-15T20:30:20.181Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

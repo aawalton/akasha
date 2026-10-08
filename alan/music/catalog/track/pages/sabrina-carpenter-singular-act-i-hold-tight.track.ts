@@ -24,4 +24,6 @@ export const sabrinaCarpenterSingularActIHoldTight = {
       externalLink: "https://open.spotify.com/track/72DnQlaqdNhz9QJZXfYe6L",
     },
   ],
+  createdAt: "2026-09-17T20:31:26.289Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

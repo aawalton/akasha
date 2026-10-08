@@ -24,4 +24,6 @@ export const sabrinaCarpenterShortNSweetDeluxeDontSmile = {
       externalLink: "https://open.spotify.com/track/0LB0SY2DW67uRjbDWcAHMZ",
     },
   ],
+  createdAt: "2026-09-17T20:31:24.282Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

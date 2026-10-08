@@ -26,4 +26,6 @@ export const sabrinaCarpenterADreamIsAWishYourHeartMakesSoThisIsLoveADreamIsAWis
       externalLink: "https://open.spotify.com/track/3WlCLuC6emWu8kbpaEb0KT",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.549Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

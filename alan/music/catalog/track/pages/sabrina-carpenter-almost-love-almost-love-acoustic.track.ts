@@ -24,4 +24,6 @@ export const sabrinaCarpenterAlmostLoveAlmostLoveAcoustic = {
       externalLink: "https://open.spotify.com/track/08qOK7vtuiypjql1M4dFnU",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.065Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

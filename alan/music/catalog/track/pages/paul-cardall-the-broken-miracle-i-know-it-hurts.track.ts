@@ -24,4 +24,6 @@ export const paulCardallTheBrokenMiracleIKnowItHurts = {
       externalLink: "https://open.spotify.com/track/3Lb9AmT71mBtCnrLC21BGx",
     },
   ],
+  createdAt: "2026-09-18T13:50:13.343Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

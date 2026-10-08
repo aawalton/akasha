@@ -24,4 +24,6 @@ export const taylorSwift2LoverPaperRings = {
       externalLink: "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR",
     },
   ],
+  createdAt: "2026-09-23T13:48:31.860Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

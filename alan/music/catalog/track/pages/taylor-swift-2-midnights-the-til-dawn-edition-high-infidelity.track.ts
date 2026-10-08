@@ -34,4 +34,6 @@ export const taylorSwift2MidnightsTheTilDawnEditionHighInfidelity = {
       externalLink: "https://open.spotify.com/track/1SztNGCwEHJEVFx90E5g7D",
     },
   ],
+  createdAt: "2026-09-23T13:48:23.797Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

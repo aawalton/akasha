@@ -34,4 +34,6 @@ export const taylorSwift2ICanDoItWithABrokenHeartDombreskyRemixICanDoItWithABrok
       externalLink: "https://open.spotify.com/track/2PGIFYRG1XWsPqNG14hgD1",
     },
   ],
+  createdAt: "2026-09-23T13:48:42.803Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

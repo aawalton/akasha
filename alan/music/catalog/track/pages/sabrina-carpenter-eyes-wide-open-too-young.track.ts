@@ -24,4 +24,6 @@ export const sabrinaCarpenterEyesWideOpenTooYoung = {
       externalLink: "https://open.spotify.com/track/694MyEbGgAtoEVYqdtfvp2",
     },
   ],
+  createdAt: "2026-09-17T20:31:26.992Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

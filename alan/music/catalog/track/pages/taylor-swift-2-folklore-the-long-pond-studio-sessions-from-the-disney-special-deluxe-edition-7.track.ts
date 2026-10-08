@@ -27,4 +27,6 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
       externalLink: "https://open.spotify.com/track/4MGexoZc12lqE0hYkq9YYx",
     },
   ],
+  createdAt: "2026-09-23T13:48:29.445Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

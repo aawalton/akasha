@@ -24,4 +24,6 @@ export const taylorSwift2AntiHeroAcousticVersionAntiHeroAcousticVersion = {
       externalLink: "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F",
     },
   ],
+  createdAt: "2026-09-23T13:48:43.546Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

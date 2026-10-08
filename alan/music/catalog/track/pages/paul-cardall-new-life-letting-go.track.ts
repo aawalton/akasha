@@ -24,4 +24,6 @@ export const paulCardallNewLifeLettingGo = {
       externalLink: "https://open.spotify.com/track/44JW4kGBjjk2FHBCfG1omq",
     },
   ],
+  createdAt: "2026-09-18T13:50:17.281Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

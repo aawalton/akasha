@@ -24,4 +24,6 @@ export const taylorSwift2AntiHeroIlleniumRemixAntiHeroIlleniumRemix = {
       externalLink: "https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK",
     },
   ],
+  createdAt: "2026-09-23T13:48:43.585Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

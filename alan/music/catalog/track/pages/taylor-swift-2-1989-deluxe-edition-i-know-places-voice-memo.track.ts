@@ -24,4 +24,6 @@ export const taylorSwift21989DeluxeEditionIKnowPlacesVoiceMemo = {
       externalLink: "https://open.spotify.com/track/4JQm7ebhsrt10wmrP6AfXL",
     },
   ],
+  createdAt: "2026-09-23T13:48:36.417Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

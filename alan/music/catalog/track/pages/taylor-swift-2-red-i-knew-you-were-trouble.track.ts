@@ -31,4 +31,6 @@ export const taylorSwift2RedIKnewYouWereTrouble = {
       externalLink: "https://open.spotify.com/track/0ciHz919LVKoH4zgxyMPZ9",
     },
   ],
+  createdAt: "2026-09-23T13:48:37.318Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

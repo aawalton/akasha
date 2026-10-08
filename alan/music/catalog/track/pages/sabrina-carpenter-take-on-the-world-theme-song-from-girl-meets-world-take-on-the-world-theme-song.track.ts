@@ -27,4 +27,6 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorldTakeOnTheW
       externalLink: "https://open.spotify.com/track/5lz0NiPw32Gq4kMIUJvuw2",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.746Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

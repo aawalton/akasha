@@ -31,4 +31,6 @@ export const taylorSwift21989IWishYouWould = {
       externalLink: "https://open.spotify.com/track/1B5VzXPqMlvRw0U4HJY3dJ",
     },
   ],
+  createdAt: "2026-09-23T13:48:35.982Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

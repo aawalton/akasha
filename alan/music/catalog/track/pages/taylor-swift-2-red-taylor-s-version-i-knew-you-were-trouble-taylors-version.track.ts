@@ -24,4 +24,6 @@ export const taylorSwift2RedTaylorSVersionIKnewYouWereTroubleTaylorsVersion = {
       externalLink: "https://open.spotify.com/track/6AtZLIzUINvExIUy4QhdjP",
     },
   ],
+  createdAt: "2026-09-23T13:48:24.529Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

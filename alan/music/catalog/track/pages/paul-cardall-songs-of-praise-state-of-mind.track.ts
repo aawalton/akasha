@@ -24,4 +24,6 @@ export const paulCardallSongsOfPraiseStateOfMind = {
       externalLink: "https://open.spotify.com/track/5XfLClx1ygKz4v940yDpWs",
     },
   ],
+  createdAt: "2026-09-18T13:50:22.343Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

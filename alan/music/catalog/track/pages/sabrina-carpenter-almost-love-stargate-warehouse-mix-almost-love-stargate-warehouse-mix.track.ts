@@ -24,4 +24,6 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMixAlmostLoveStargateWar
       externalLink: "https://open.spotify.com/track/5SQPsKDOYDtAt64IZYPcXu",
     },
   ],
+  createdAt: "2026-09-17T20:31:28.973Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

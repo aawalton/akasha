@@ -34,4 +34,6 @@ export const taylorSwift21989TaylorSVersionDeluxeNowThatWeDontTalkTaylorsVersion
       externalLink: "https://open.spotify.com/track/5QUIK7ZtziW8kGWo8RqopF",
     },
   ],
+  createdAt: "2026-09-23T13:48:21.251Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

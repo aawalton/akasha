@@ -24,4 +24,6 @@ export const paulCardallTheBrokenMiracleTheManWithHalfAHeart = {
       externalLink: "https://open.spotify.com/track/7Jx5SMT5AWkKm6n8ZIdheO",
     },
   ],
+  createdAt: "2026-09-18T13:50:13.237Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

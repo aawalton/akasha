@@ -24,4 +24,6 @@ export const sabrinaCarpenterShortNSweetCoincidence = {
       externalLink: "https://open.spotify.com/track/5oIVNm56t6OIf9ZjdEG3ud",
     },
   ],
+  createdAt: "2026-09-17T20:31:24.661Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

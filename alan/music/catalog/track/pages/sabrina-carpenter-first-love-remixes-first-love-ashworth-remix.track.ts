@@ -29,4 +29,6 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveAshworthRemix = {
       externalLink: "https://open.spotify.com/track/21HUuj1qSnAFn5iSOIlq6v",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.265Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

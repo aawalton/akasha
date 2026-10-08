@@ -34,4 +34,6 @@ export const sabrinaCarpenterEmailsICanTSendBecauseILikedABoy = {
       externalLink: "https://open.spotify.com/track/1Y7qOCA4FMQlxJjpekw8X0",
     },
   ],
+  createdAt: "2026-09-17T20:31:25.634Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

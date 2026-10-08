@@ -24,4 +24,6 @@ export const paulCardallTheHymnsCollection2DiscSetPraiseToTheMan = {
       externalLink: "https://open.spotify.com/track/5f3pOEdP6IuaOd3Ek9XejT",
     },
   ],
+  createdAt: "2026-09-18T13:50:21.224Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

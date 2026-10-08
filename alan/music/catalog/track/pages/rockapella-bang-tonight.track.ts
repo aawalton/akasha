@@ -24,4 +24,6 @@ export const rockapellaBangTonight = {
       externalLink: "https://open.spotify.com/track/4mygz6G3Za31WGug3eWwHx",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.403Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const rockapellaBangMalibuGrandPrix = {
       externalLink: "https://open.spotify.com/track/1Jm5MTAtcgwVTR5TVDVb1r",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.403Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

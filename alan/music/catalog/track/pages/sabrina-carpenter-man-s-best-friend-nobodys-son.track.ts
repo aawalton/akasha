@@ -34,4 +34,6 @@ export const sabrinaCarpenterManSBestFriendNobodysSon = {
       externalLink: "https://open.spotify.com/track/67T3TWkCiIB6BXjIWE2Hgb",
     },
   ],
+  createdAt: "2026-09-17T20:31:23.629Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

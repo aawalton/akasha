@@ -24,4 +24,6 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionGoGoJuice = {
       externalLink: "https://open.spotify.com/track/2bsgJXHOlkBaI3bFqHgy6k",
     },
   ],
+  createdAt: "2026-09-17T20:31:23.074Z",
+  updatedAt: "2026-09-25T19:00:26.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallHymnsVol2HowGentleGodsCommand = {
       externalLink: "https://open.spotify.com/track/3RnjXBwWa0q8D0zLRzEEEq",
     },
   ],
+  createdAt: "2026-09-18T13:50:25.777Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

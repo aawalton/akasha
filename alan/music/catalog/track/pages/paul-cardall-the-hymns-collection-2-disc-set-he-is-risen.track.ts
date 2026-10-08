@@ -24,4 +24,6 @@ export const paulCardallTheHymnsCollection2DiscSetHeIsRisen = {
       externalLink: "https://open.spotify.com/track/1cP0r2E7ers7leP6gMD9yR",
     },
   ],
+  createdAt: "2026-09-18T13:50:21.263Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

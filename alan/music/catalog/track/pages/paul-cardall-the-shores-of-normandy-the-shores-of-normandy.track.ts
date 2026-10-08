@@ -24,4 +24,6 @@ export const paulCardallTheShoresOfNormandyTheShoresOfNormandy = {
       externalLink: "https://open.spotify.com/track/2z3XBCX19Hyugl3Cj4yaVs",
     },
   ],
+  createdAt: "2026-09-18T13:50:28.115Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

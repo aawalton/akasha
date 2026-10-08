@@ -24,4 +24,6 @@ export const taylorSwift2FearlessPlatinumEditionYouBelongWithMe = {
       externalLink: "https://open.spotify.com/track/3as6Wz3mwbTnusWhZjTUNr",
     },
   ],
+  createdAt: "2026-09-23T13:48:41.046Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

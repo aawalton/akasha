@@ -24,4 +24,6 @@ export const paulCardallTheBrokenMiracleBrokenMachine = {
       externalLink: "https://open.spotify.com/track/5zFq9mRfPWE0OREZJ5vKPd",
     },
   ],
+  createdAt: "2026-09-18T13:50:13.710Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

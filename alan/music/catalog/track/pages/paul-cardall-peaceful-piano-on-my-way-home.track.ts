@@ -24,4 +24,6 @@ export const paulCardallPeacefulPianoOnMyWayHome = {
       externalLink: "https://open.spotify.com/track/6vxYsKo97A6jXyAHwNV61x",
     },
   ],
+  createdAt: "2026-09-18T13:50:13.988Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

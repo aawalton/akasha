@@ -24,4 +24,6 @@ export const rockapellaDonTTellMeYouDoMomentsOfYou = {
       externalLink: "https://open.spotify.com/track/1TeQN2A3YlUQiABNHj80Jq",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.405Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

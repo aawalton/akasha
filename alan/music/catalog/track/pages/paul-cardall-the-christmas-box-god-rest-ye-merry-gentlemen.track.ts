@@ -24,4 +24,6 @@ export const paulCardallTheChristmasBoxGodRestYeMerryGentlemen = {
       externalLink: "https://open.spotify.com/track/5MnwEK433rqNFJ8gh1x90V",
     },
   ],
+  createdAt: "2026-09-18T13:50:27.507Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

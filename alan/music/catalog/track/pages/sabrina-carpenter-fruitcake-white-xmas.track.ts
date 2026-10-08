@@ -24,4 +24,6 @@ export const sabrinaCarpenterFruitcakeWhiteXmas = {
       externalLink: "https://open.spotify.com/track/7g5DlwyMdGDvcExDg5H2BA",
     },
   ],
+  createdAt: "2026-09-17T20:31:28.053Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

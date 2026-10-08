@@ -24,4 +24,6 @@ export const sabrinaCarpenterEyesWideOpenCantBlameAGirlForTrying = {
       externalLink: "https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07",
     },
   ],
+  createdAt: "2026-09-17T20:31:26.836Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

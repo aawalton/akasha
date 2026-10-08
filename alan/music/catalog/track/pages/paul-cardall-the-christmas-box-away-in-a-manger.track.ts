@@ -24,4 +24,6 @@ export const paulCardallTheChristmasBoxAwayInAManger = {
       externalLink: "https://open.spotify.com/track/2p7JLTdq3GWB146bKJKHRd",
     },
   ],
+  createdAt: "2026-09-18T13:50:27.037Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

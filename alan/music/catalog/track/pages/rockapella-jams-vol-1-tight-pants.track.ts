@@ -24,4 +24,6 @@ export const rockapellaJamsVol1TightPants = {
       externalLink: "https://open.spotify.com/track/6wxJnWf1hyEKovSLV7k4Kj",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.406Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

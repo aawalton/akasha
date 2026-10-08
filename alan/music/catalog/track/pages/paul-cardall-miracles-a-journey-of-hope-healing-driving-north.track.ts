@@ -24,4 +24,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingDrivingNorth = {
       externalLink: "https://open.spotify.com/track/034X9Onf7PiqJi4uQCYsnT",
     },
   ],
+  createdAt: "2026-09-18T13:50:24.742Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

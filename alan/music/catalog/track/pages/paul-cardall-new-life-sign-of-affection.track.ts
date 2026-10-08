@@ -24,4 +24,6 @@ export const paulCardallNewLifeSignOfAffection = {
       externalLink: "https://open.spotify.com/track/6j4D1izL5KfENZ8cPoq396",
     },
   ],
+  createdAt: "2026-09-18T13:50:17.445Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

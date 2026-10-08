@@ -24,4 +24,6 @@ export const sabrinaCarpenterNonsenseRemixNonsenseWithCoiLerayRemix = {
       externalLink: "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC",
     },
   ],
+  createdAt: "2026-09-17T20:31:28.257Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

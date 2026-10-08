@@ -24,4 +24,6 @@ export const sabrinaCarpenterFeatherSpedUpFeatherSpedUp = {
       externalLink: "https://open.spotify.com/track/2WkrEyLzATbOK8U3xt8Ggq",
     },
   ],
+  createdAt: "2026-09-17T20:31:28.170Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

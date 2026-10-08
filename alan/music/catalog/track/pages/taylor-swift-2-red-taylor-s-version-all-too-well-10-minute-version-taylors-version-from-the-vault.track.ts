@@ -24,4 +24,6 @@ export const taylorSwift2RedTaylorSVersionAllTooWell10MinuteVersionTaylorsVersio
       externalLink: "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi",
     },
   ],
+  createdAt: "2026-09-23T13:48:25.752Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

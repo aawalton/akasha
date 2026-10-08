@@ -24,4 +24,6 @@ export const paulCardallNewLifeSweetIsTheWork = {
       externalLink: "https://open.spotify.com/track/5T7c86PLe0GaySMXJAk0b2",
     },
   ],
+  createdAt: "2026-09-18T13:50:17.623Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

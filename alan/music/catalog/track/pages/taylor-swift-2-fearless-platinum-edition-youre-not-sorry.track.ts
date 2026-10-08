@@ -24,4 +24,6 @@ export const taylorSwift2FearlessPlatinumEditionYoureNotSorry = {
       externalLink: "https://open.spotify.com/track/6HWYtS215rxaaMjvpyG18W",
     },
   ],
+  createdAt: "2026-09-23T13:48:41.168Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

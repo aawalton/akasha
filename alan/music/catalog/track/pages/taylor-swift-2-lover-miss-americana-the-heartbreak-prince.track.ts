@@ -24,4 +24,6 @@ export const taylorSwift2LoverMissAmericanaTheHeartbreakPrince = {
       externalLink: "https://open.spotify.com/track/214nt20w5wOxJnY462klLw",
     },
   ],
+  createdAt: "2026-09-23T13:48:31.819Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

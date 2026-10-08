@@ -34,4 +34,6 @@ export const taylorSwift2EvermoreDeluxeVersionCowboyLikeMe = {
       externalLink: "https://open.spotify.com/track/52OkpDsU6MmPx1AwGOb6Ap",
     },
   ],
+  createdAt: "2026-09-23T13:48:28.021Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

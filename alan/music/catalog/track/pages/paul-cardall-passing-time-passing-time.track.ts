@@ -24,4 +24,6 @@ export const paulCardallPassingTimePassingTime = {
       externalLink: "https://open.spotify.com/track/2PelR6ZEm4UK5cr4pZWiaz",
     },
   ],
+  createdAt: "2026-09-18T13:50:28.803Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

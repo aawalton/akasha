@@ -24,4 +24,6 @@ export const sabrinaCarpenterEvolutionShadows = {
       externalLink: "https://open.spotify.com/track/65RTUeyKsXuiIocxEzYhMY",
     },
   ],
+  createdAt: "2026-09-17T20:31:26.710Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

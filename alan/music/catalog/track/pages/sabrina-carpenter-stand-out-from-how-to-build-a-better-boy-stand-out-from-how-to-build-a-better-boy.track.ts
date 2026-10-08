@@ -24,4 +24,6 @@ export const sabrinaCarpenterStandOutFromHowToBuildABetterBoyStandOutFromHowToBu
       externalLink: "https://open.spotify.com/track/00OKDIsSQbx8rd5Al7fKNw",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.647Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const rockapellaChristmasLiveRockinAroundTheChristmasTreeLive = {
       externalLink: "https://open.spotify.com/track/7k6ZkYtggVXBO3nW6X0ill",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.404Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

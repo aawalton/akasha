@@ -24,4 +24,6 @@ export const paulCardallTheHymnsCollection2DiscSetOMyFather = {
       externalLink: "https://open.spotify.com/track/0IgBEqb4QJAVHWfUTgEoSI",
     },
   ],
+  createdAt: "2026-09-18T13:50:21.034Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const taylorSwift21989TaylorSVersionDeluxeIKnowPlacesTaylorsVersion = {
       externalLink: "https://open.spotify.com/track/1ULabO0PEsdJekqVH6G10G",
     },
   ],
+  createdAt: "2026-09-23T13:48:20.976Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

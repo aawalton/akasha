@@ -24,4 +24,6 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLove = {
       externalLink: "https://open.spotify.com/track/22iqm6UrX42j3EPZAYYWP3",
     },
   ],
+  createdAt: "2026-09-17T20:31:23.341Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const reneeRappEverythingToEveryoneDeluxeEverythingToEveryoneExtendedVers
       externalLink: "https://open.spotify.com/track/0qE0N1pEpZ5rsb4GM6pk6C",
     },
   ],
+  createdAt: "2026-09-22T19:47:52.476Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

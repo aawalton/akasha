@@ -24,4 +24,6 @@ export const paulCardallTheCelebrateLifeConcertLiveOurLoveLive = {
       externalLink: "https://open.spotify.com/track/0i1WmQha95hsNXOMNJULmR",
     },
   ],
+  createdAt: "2026-09-18T13:50:18.313Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

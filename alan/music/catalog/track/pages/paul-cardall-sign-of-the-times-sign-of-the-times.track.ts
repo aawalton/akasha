@@ -24,4 +24,6 @@ export const paulCardallSignOfTheTimesSignOfTheTimes = {
       externalLink: "https://open.spotify.com/track/6zoDUTcV8tJ0UOCYGuQSPT",
     },
   ],
+  createdAt: "2026-09-18T13:50:28.398Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

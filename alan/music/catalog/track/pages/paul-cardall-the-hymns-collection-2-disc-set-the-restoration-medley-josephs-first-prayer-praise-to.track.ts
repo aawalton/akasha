@@ -24,4 +24,6 @@ export const paulCardallTheHymnsCollection2DiscSetTheRestorationMedleyJosephsFir
       externalLink: "https://open.spotify.com/track/7rDewz1wd7BWAjJc5eH5vw",
     },
   ],
+  createdAt: "2026-09-18T13:50:21.908Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

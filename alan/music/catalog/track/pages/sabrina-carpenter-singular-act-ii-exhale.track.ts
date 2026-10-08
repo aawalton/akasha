@@ -24,4 +24,6 @@ export const sabrinaCarpenterSingularActIiExhale = {
       externalLink: "https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos",
     },
   ],
+  createdAt: "2026-09-17T20:31:26.119Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

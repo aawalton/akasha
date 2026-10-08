@@ -24,4 +24,6 @@ export const paulCardallNewLifeComeThouFountOfEveryBlessing = {
       externalLink: "https://open.spotify.com/track/3FnDtsMD16NhP9m8dmkp6u",
     },
   ],
+  createdAt: "2026-09-18T13:50:17.736Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

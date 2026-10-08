@@ -31,4 +31,6 @@ export const sylviaDaleyRubikSCubeRubiksCube = {
       externalLink: "https://open.spotify.com/track/1EWrZHshF5WBgyLgO52VXo",
     },
   ],
+  createdAt: "2026-09-15T20:30:21.023Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

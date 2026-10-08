@@ -24,4 +24,6 @@ export const paulCardallTheBrokenMiracleAllISeeIsSnow = {
       externalLink: "https://open.spotify.com/track/5KJqcYc9vpURfiU0EuWBMi",
     },
   ],
+  createdAt: "2026-09-18T13:50:13.415Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

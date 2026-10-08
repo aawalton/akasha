@@ -24,4 +24,6 @@ export const taylorSwift2ReputationReadyForIt = {
       externalLink: "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5",
     },
   ],
+  createdAt: "2026-09-23T13:48:32.845Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

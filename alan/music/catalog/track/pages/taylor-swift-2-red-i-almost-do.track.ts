@@ -31,4 +31,6 @@ export const taylorSwift2RedIAlmostDo = {
       externalLink: "https://open.spotify.com/track/31pEV5lPJi7btskZoUr2yu",
     },
   ],
+  createdAt: "2026-09-23T13:48:37.441Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

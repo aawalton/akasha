@@ -24,4 +24,6 @@ export const rockapellaComfortJoyHomeForTheHolidays = {
       externalLink: "https://open.spotify.com/track/0YJ34EerCTHrgZTOwAEWAQ",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.404Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

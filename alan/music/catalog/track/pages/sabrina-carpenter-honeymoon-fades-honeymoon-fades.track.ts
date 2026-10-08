@@ -24,4 +24,6 @@ export const sabrinaCarpenterHoneymoonFadesHoneymoonFades = {
       externalLink: "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz",
     },
   ],
+  createdAt: "2026-09-17T20:31:28.688Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

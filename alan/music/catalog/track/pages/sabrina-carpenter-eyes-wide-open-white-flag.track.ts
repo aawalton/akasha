@@ -24,4 +24,6 @@ export const sabrinaCarpenterEyesWideOpenWhiteFlag = {
       externalLink: "https://open.spotify.com/track/6xQdHOX1Tq3IrKsQdLs0nc",
     },
   ],
+  createdAt: "2026-09-17T20:31:27.132Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

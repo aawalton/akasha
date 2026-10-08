@@ -34,4 +34,6 @@ export const sabrinaCarpenterANonsenseChristmasANonsenseChristmas = {
       externalLink: "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr",
     },
   ],
+  createdAt: "2026-09-17T20:31:28.285Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -31,4 +31,6 @@ export const taylorSwift2RedTheLuckyOne = {
       externalLink: "https://open.spotify.com/track/2wtHlpYSgC7xEdD3DrSHNL",
     },
   ],
+  createdAt: "2026-09-23T13:48:37.678Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

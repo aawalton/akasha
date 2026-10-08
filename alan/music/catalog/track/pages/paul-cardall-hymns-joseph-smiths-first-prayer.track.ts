@@ -24,4 +24,6 @@ export const paulCardallHymnsJosephSmithsFirstPrayer = {
       externalLink: "https://open.spotify.com/track/3Cji0LZjLdNeFdz8HXxR3d",
     },
   ],
+  createdAt: "2026-09-18T13:50:26.357Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

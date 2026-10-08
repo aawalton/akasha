@@ -24,4 +24,6 @@ export const paulCardallHymnsAbideWithMeTisEventide = {
       externalLink: "https://open.spotify.com/track/2LF0Fk0dUltHW93AljOXBi",
     },
   ],
+  createdAt: "2026-09-18T13:50:26.561Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

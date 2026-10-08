@@ -24,4 +24,6 @@ export const taylorSwift2RedTaylorSVersionBeginAgainTaylorsVersion = {
       externalLink: "https://open.spotify.com/track/05GsNucq8Bngd9fnd4fRa0",
     },
   ],
+  createdAt: "2026-09-23T13:48:24.990Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

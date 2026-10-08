@@ -24,4 +24,6 @@ export const sabrinaCarpenterSpotifySinglesFeatherSpotifySingles = {
       externalLink: "https://open.spotify.com/track/2l6lCBL8egSBfL4ih4KtKk",
     },
   ],
+  createdAt: "2026-09-17T20:31:28.111Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

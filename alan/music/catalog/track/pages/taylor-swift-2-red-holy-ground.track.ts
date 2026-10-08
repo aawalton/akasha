@@ -31,4 +31,6 @@ export const taylorSwift2RedHolyGround = {
       externalLink: "https://open.spotify.com/track/5d2Kn9oAAh9S2EbyCo1i52",
     },
   ],
+  createdAt: "2026-09-23T13:48:37.599Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistBetterMan = {
       externalLink: "https://open.spotify.com/track/3EXetjrGgwIjDRNn6YA8sa",
     },
   ],
+  createdAt: "2026-09-23T13:48:34.673Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

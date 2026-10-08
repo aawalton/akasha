@@ -24,4 +24,6 @@ export const rockapellaARockapellaHolidayLittleDrummerBoy = {
       externalLink: "https://open.spotify.com/track/26auwMHm2S3PQCoTl84HvL",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.403Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

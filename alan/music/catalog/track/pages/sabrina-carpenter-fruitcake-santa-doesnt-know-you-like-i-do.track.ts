@@ -24,4 +24,6 @@ export const sabrinaCarpenterFruitcakeSantaDoesntKnowYouLikeIDo = {
       externalLink: "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v",
     },
   ],
+  createdAt: "2026-09-17T20:31:27.960Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

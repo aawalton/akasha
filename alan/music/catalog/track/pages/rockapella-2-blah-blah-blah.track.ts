@@ -24,4 +24,6 @@ export const rockapella2BlahBlahBlah = {
       externalLink: "https://open.spotify.com/track/7aKO5d8hfYPyEziCjx1tiB",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.402Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

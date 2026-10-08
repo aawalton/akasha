@@ -24,4 +24,6 @@ export const taylorSwift2LoveStoryPopMixLoveStoryPopMix = {
       externalLink: "https://open.spotify.com/track/5lA0yK8S5tP3xoaRMCp4Ug",
     },
   ],
+  createdAt: "2026-09-23T13:48:46.243Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

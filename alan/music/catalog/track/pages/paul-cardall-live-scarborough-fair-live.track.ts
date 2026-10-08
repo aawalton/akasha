@@ -24,4 +24,6 @@ export const paulCardallLiveScarboroughFairLive = {
       externalLink: "https://open.spotify.com/track/33fMR35WpgByInrsvZdyL5",
     },
   ],
+  createdAt: "2026-09-18T13:50:23.881Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

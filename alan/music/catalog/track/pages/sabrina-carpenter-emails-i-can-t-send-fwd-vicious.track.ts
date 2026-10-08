@@ -42,4 +42,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdVicious = {
       externalLink: "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh",
     },
   ],
+  createdAt: "2026-09-17T20:31:24.988Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

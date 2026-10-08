@@ -34,4 +34,6 @@ export const taylorSwift2EyesOpenTaylorSVersionEyesOpenTaylorsVersion = {
       externalLink: "https://open.spotify.com/track/0gPmM1WtVRg3uENW3o8bfx",
     },
   ],
+  createdAt: "2026-09-23T13:48:44.783Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

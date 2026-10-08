@@ -24,4 +24,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdLonesome = {
       externalLink: "https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8",
     },
   ],
+  createdAt: "2026-09-17T20:31:25.442Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

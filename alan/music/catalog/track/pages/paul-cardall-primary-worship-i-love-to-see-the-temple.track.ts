@@ -24,4 +24,6 @@ export const paulCardallPrimaryWorshipILoveToSeeTheTemple = {
       externalLink: "https://open.spotify.com/track/2nH8J4CrISwwvbZL1pTTdY",
     },
   ],
+  createdAt: "2026-09-18T13:50:23.162Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

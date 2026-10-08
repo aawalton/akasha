@@ -24,4 +24,6 @@ export const taylorSwift2FearlessForeverAlways = {
       externalLink: "https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj",
     },
   ],
+  createdAt: "2026-09-23T13:48:40.480Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

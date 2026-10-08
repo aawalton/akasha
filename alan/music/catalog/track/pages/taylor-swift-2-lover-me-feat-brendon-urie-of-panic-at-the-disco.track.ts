@@ -29,4 +29,6 @@ export const taylorSwift2LoverMeFeatBrendonUrieOfPanicAtTheDisco = {
       externalLink: "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45",
     },
   ],
+  createdAt: "2026-09-23T13:48:32.192Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

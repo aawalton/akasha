@@ -34,4 +34,6 @@ export const sabrinaCarpenterManSBestFriendMyManOnWillpower = {
       externalLink: "https://open.spotify.com/track/55mSczJe2xInDWNT2mPaOC",
     },
   ],
+  createdAt: "2026-09-17T20:31:23.529Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

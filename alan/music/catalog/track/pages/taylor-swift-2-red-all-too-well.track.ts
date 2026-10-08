@@ -31,4 +31,6 @@ export const taylorSwift2RedAllTooWell = {
       externalLink: "https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl",
     },
   ],
+  createdAt: "2026-09-23T13:48:37.361Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

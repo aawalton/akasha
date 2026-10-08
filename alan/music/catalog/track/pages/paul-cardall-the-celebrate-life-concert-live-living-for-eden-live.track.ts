@@ -24,4 +24,6 @@ export const paulCardallTheCelebrateLifeConcertLiveLivingForEdenLive = {
       externalLink: "https://open.spotify.com/track/3c5zhV2Qw5waIuPzzgYEdg",
     },
   ],
+  createdAt: "2026-09-18T13:50:18.419Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

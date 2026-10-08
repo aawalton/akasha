@@ -34,4 +34,6 @@ export const taylorSwift21989TaylorSVersionDeluxeSuburbanLegendsTaylorsVersionFr
       externalLink: "https://open.spotify.com/track/6M9ppdfFjR1AbpUl3Y8DcV",
     },
   ],
+  createdAt: "2026-09-23T13:48:21.286Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

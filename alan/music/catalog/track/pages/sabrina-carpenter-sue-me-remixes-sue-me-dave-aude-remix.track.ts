@@ -24,4 +24,6 @@ export const sabrinaCarpenterSueMeRemixesSueMeDaveAudeRemix = {
       externalLink: "https://open.spotify.com/track/3WjGTNxFlIDjo9mjmToKf3",
     },
   ],
+  createdAt: "2026-09-17T20:31:28.943Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

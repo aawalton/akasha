@@ -24,4 +24,6 @@ export const paulCardallTheBrokenMiracleABlueBaby = {
       externalLink: "https://open.spotify.com/track/3ZSdMCEdZ2oonnlrFqfoRO",
     },
   ],
+  createdAt: "2026-09-18T13:50:13.170Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

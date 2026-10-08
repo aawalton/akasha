@@ -24,4 +24,6 @@ export const taylorSwift2LoverIThinkHeKnows = {
       externalLink: "https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd",
     },
   ],
+  createdAt: "2026-09-23T13:48:31.777Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

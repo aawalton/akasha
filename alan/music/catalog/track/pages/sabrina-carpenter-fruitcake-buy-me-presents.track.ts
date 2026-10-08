@@ -24,4 +24,6 @@ export const sabrinaCarpenterFruitcakeBuyMePresents = {
       externalLink: "https://open.spotify.com/track/3Cz6MZdwncB4qasyRPen4S",
     },
   ],
+  createdAt: "2026-09-17T20:31:27.921Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

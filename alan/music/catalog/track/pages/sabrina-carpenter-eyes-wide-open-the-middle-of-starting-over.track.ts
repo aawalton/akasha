@@ -24,4 +24,6 @@ export const sabrinaCarpenterEyesWideOpenTheMiddleOfStartingOver = {
       externalLink: "https://open.spotify.com/track/5wX5skuafFdeF31vpM6Krl",
     },
   ],
+  createdAt: "2026-09-17T20:31:26.867Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

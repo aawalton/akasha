@@ -24,4 +24,6 @@ export const paulCardallSignOfAffection10thAnniversaryIntroMist = {
       externalLink: "https://open.spotify.com/track/1T7sxJoV7dR2VIZVpLJUP3",
     },
   ],
+  createdAt: "2026-09-18T13:50:22.554Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

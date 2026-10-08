@@ -25,4 +25,6 @@ export const taylorSwift2LiveFromClearChannelStripped2008FearlessLiveFromClearCh
         externalLink: "https://open.spotify.com/track/5g7RMU3cV7zXWH244BLe7G",
       },
     ],
+    createdAt: "2026-09-23T13:48:41.415Z",
+    updatedAt: "2026-09-24T20:00:57.000Z",
   } as const satisfies Track

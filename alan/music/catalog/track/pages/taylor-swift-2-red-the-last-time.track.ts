@@ -31,4 +31,6 @@ export const taylorSwift2RedTheLastTime = {
       externalLink: "https://open.spotify.com/track/7vvIpJZye5cRR6De1LKM0m",
     },
   ],
+  createdAt: "2026-09-23T13:48:37.561Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

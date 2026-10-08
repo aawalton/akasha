@@ -24,4 +24,6 @@ export const taylorSwift2LoverTheArcher = {
       externalLink: "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37",
     },
   ],
+  createdAt: "2026-09-23T13:48:31.735Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

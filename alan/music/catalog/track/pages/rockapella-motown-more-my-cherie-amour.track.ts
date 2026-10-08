@@ -24,4 +24,6 @@ export const rockapellaMotownMoreMyCherieAmour = {
       externalLink: "https://open.spotify.com/track/16eq1J2YOWIXjpJPvSyVdy",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.406Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

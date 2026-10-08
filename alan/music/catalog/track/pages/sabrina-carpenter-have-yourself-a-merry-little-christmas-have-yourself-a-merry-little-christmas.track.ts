@@ -24,4 +24,6 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmasHaveYourselfAMerry
       externalLink: "https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.388Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -42,4 +42,6 @@ export const rockapellaJamsVol1WorkinMyWayToYou = {
       externalLink: "https://open.spotify.com/track/2hOpji4m0nkSqdIgxANqfY",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.406Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

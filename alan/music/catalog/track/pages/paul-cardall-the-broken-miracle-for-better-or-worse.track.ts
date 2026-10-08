@@ -24,4 +24,6 @@ export const paulCardallTheBrokenMiracleForBetterOrWorse = {
       externalLink: "https://open.spotify.com/track/1pgILP7O7CjVOtzs26TNkP",
     },
   ],
+  createdAt: "2026-09-18T13:50:13.489Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

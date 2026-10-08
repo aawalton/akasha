@@ -24,4 +24,6 @@ export const paulCardallHymnsHowGreatTheWisdomAndTheLove = {
       externalLink: "https://open.spotify.com/track/6mcA40CLKVcxfoeofw6suv",
     },
   ],
+  createdAt: "2026-09-18T13:50:26.480Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

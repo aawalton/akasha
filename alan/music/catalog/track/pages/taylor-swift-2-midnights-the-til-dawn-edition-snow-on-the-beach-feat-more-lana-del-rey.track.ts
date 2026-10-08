@@ -24,4 +24,6 @@ export const taylorSwift2MidnightsTheTilDawnEditionSnowOnTheBeachFeatMoreLanaDel
       externalLink: "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot",
     },
   ],
+  createdAt: "2026-09-23T13:48:23.098Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

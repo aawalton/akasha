@@ -24,4 +24,6 @@ export const paulCardallLiveGoneHomeLiveToLoveLive = {
       externalLink: "https://open.spotify.com/track/6hqxxYa2FCv9iWLp3hMtrp",
     },
   ],
+  createdAt: "2026-09-18T13:50:23.583Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

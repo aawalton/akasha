@@ -24,4 +24,6 @@ export const paulCardallPeacefulPianoWhenSheSmiles = {
       externalLink: "https://open.spotify.com/track/4m81aURCinsOqQ7ggkp43g",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.401Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

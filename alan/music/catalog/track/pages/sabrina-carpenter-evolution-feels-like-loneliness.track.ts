@@ -24,4 +24,6 @@ export const sabrinaCarpenterEvolutionFeelsLikeLoneliness = {
       externalLink: "https://open.spotify.com/track/0QTOY1FBKwC7jA33N8cLSi",
     },
   ],
+  createdAt: "2026-09-17T20:31:26.511Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

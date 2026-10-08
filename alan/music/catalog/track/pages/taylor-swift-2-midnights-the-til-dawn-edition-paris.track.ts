@@ -34,4 +34,6 @@ export const taylorSwift2MidnightsTheTilDawnEditionParis = {
       externalLink: "https://open.spotify.com/track/5tWxKWq1DSP1s9WQ5PWuqu",
     },
   ],
+  createdAt: "2026-09-23T13:48:23.756Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

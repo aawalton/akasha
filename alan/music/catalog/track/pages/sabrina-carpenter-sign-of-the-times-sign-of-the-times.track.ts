@@ -24,4 +24,6 @@ export const sabrinaCarpenterSignOfTheTimesSignOfTheTimes = {
       externalLink: "https://open.spotify.com/track/3h0RJYaohnvXg5SmWD1dZF",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.486Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

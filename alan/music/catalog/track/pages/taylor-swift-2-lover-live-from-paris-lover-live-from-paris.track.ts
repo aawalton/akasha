@@ -24,4 +24,6 @@ export const taylorSwift2LoverLiveFromParisLoverLiveFromParis = {
       externalLink: "https://open.spotify.com/track/4lD3RXyvHpJsM3BhIEC4aA",
     },
   ],
+  createdAt: "2026-09-23T13:48:46.000Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

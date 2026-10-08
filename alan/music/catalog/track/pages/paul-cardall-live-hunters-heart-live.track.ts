@@ -24,4 +24,6 @@ export const paulCardallLiveHuntersHeartLive = {
       externalLink: "https://open.spotify.com/track/2oB7BUHgIs8njuXMQNW9O2",
     },
   ],
+  createdAt: "2026-09-18T13:50:23.805Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

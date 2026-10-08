@@ -24,4 +24,6 @@ export const taylorSwift2LoverSoonYoullGetBetterFeatTheChicks = {
       externalLink: "https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr",
     },
   ],
+  createdAt: "2026-09-23T13:48:32.026Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

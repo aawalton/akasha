@@ -24,4 +24,6 @@ export const rockapellaDonTTellMeYouDoIAmYourMan = {
       externalLink: "https://open.spotify.com/track/3Ab2rKPvXNTUGYgDo1L1tm",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.405Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

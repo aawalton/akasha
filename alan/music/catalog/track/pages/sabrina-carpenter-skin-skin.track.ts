@@ -24,4 +24,6 @@ export const sabrinaCarpenterSkinSkin = {
       externalLink: "https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07",
     },
   ],
+  createdAt: "2026-09-17T20:31:28.599Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

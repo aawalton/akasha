@@ -24,4 +24,6 @@ export const sabrinaCarpenterBringYourLoveBringYourLove = {
       externalLink: "https://open.spotify.com/track/0Wr7vTGp9vF3YCG4EASz1e",
     },
   ],
+  createdAt: "2026-09-17T20:31:23.415Z",
+  updatedAt: "2026-09-29T03:00:40.000Z",
 } as const satisfies Track

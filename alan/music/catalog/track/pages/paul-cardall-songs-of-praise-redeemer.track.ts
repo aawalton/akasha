@@ -24,4 +24,6 @@ export const paulCardallSongsOfPraiseRedeemer = {
       externalLink: "https://open.spotify.com/track/6M5dOp0diloYCyZSYy99kf",
     },
   ],
+  createdAt: "2026-09-18T13:50:22.103Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

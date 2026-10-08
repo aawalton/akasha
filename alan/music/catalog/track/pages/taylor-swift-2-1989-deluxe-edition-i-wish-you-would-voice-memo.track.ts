@@ -24,4 +24,6 @@ export const taylorSwift21989DeluxeEditionIWishYouWouldVoiceMemo = {
       externalLink: "https://open.spotify.com/track/4TtyvyI42C0KFnbDZvNC8Y",
     },
   ],
+  createdAt: "2026-09-23T13:48:36.482Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

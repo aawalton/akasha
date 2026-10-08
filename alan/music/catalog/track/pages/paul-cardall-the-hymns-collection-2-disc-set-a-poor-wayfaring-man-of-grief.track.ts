@@ -24,4 +24,6 @@ export const paulCardallTheHymnsCollection2DiscSetAPoorWayfaringManOfGrief = {
       externalLink: "https://open.spotify.com/track/3ewXZagOW77P0dJ0YQJaDt",
     },
   ],
+  createdAt: "2026-09-18T13:50:21.147Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

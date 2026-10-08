@@ -34,4 +34,6 @@ export const taylorSwift2EvermoreDeluxeVersionTolerateIt = {
       externalLink: "https://open.spotify.com/track/6lCvK2AR2uOKkVFCVlAzzm",
     },
   ],
+  createdAt: "2026-09-23T13:48:27.770Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallPeacefulPianoOutOfTheAshes = {
       externalLink: "https://open.spotify.com/track/401671bNrYWakt7WxNohsG",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.244Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2EvermoreDeluxeVersionItsTimeToGoBonusTrack = {
       externalLink: "https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6",
     },
   ],
+  createdAt: "2026-09-23T13:48:27.580Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

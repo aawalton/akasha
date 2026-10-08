@@ -24,4 +24,6 @@ export const sabrinaCarpenterShortNSweetDeluxeSharpestTool = {
       externalLink: "https://open.spotify.com/track/6Dr0QDwc9g69u5H7vuIyxh",
     },
   ],
+  createdAt: "2026-09-17T20:31:23.997Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2ChristmasTreeFarmChristmasTreeFarm = {
       externalLink: "https://open.spotify.com/track/4mKye6Z1kXuKolzMkJoKFA",
     },
   ],
+  createdAt: "2026-09-23T13:48:44.327Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

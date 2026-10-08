@@ -24,4 +24,6 @@ export const paulCardallPeacefulPianoDeepWaters = {
       externalLink: "https://open.spotify.com/track/4Wjgkn2ccF4Fm0Pe1Q5gb3",
     },
   ],
+  createdAt: "2026-09-18T13:50:13.924Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

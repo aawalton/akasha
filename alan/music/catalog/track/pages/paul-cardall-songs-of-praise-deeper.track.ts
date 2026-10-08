@@ -24,4 +24,6 @@ export const paulCardallSongsOfPraiseDeeper = {
       externalLink: "https://open.spotify.com/track/6tC5rqZb9iuIAxVS30HHAq",
     },
   ],
+  createdAt: "2026-09-18T13:50:22.179Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -26,4 +26,6 @@ export const taylorSwift2BettyLiveFromThe2020AcademyOfCountryMusicAwardsBettyLiv
       externalLink: "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I",
     },
   ],
+  createdAt: "2026-09-23T13:48:45.795Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

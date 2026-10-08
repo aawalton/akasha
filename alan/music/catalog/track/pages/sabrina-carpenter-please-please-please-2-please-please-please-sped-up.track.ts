@@ -24,4 +24,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseSpedUp = {
       externalLink: "https://open.spotify.com/track/4EryTXqW5cvf5yqITZEm7b",
     },
   ],
+  createdAt: "2026-09-17T20:31:27.327Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -29,4 +29,6 @@ export const sabrinaCarpenterAlienDarkHeartRemixAlienDarkHeartRemix = {
       externalLink: "https://open.spotify.com/track/4m3x28otCU0jIgDwng7hAo",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.159Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

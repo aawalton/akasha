@@ -24,4 +24,6 @@ export const taylorSwift2FearlessPlatinumEditionBreathe = {
       externalLink: "https://open.spotify.com/track/6S9G7J3EB1ZY0rrZPwsBg5",
     },
   ],
+  createdAt: "2026-09-23T13:48:41.087Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

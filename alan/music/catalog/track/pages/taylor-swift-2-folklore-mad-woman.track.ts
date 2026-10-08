@@ -24,4 +24,6 @@ export const taylorSwift2FolkloreMadWoman = {
       externalLink: "https://open.spotify.com/track/2QDyYdZyhlP2fp79KZX8Bi",
     },
   ],
+  createdAt: "2026-09-23T13:48:31.357Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2RedDeluxeEditionComeBackBeHere = {
       externalLink: "https://open.spotify.com/track/4qyalTRMRH5YuEntvvMvq0",
     },
   ],
+  createdAt: "2026-09-23T13:48:37.885Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

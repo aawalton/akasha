@@ -24,4 +24,6 @@ export const paulCardallTheLookingGlassQuayesTheme = {
       externalLink: "https://open.spotify.com/track/29Hnf236RAcKaL9pUaryDB",
     },
   ],
+  createdAt: "2026-09-18T13:50:26.132Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

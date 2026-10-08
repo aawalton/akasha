@@ -24,4 +24,6 @@ export const paulCardallNewLifeComingHome = {
       externalLink: "https://open.spotify.com/track/0zw19xCUkDVCJTZKKUfyQi",
     },
   ],
+  createdAt: "2026-09-18T13:50:17.513Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const rockapellaSmilinNoDoubtAtAll = {
       externalLink: "https://open.spotify.com/track/00d0QcbdBrWbFl5cRUVGtw",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.407Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

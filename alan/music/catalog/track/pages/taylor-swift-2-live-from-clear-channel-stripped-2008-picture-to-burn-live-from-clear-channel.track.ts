@@ -24,4 +24,6 @@ export const taylorSwift2LiveFromClearChannelStripped2008PictureToBurnLiveFromCl
       externalLink: "https://open.spotify.com/track/7EvU9pRoJ9Xs7anx0P7tEc",
     },
   ],
+  createdAt: "2026-09-23T13:48:41.561Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

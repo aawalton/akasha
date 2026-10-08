@@ -24,4 +24,6 @@ export const rockapella2AllThatComesToMind = {
       externalLink: "https://open.spotify.com/track/6QB6cTXPnuzeUHFAy4FScv",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.402Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

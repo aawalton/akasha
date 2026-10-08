@@ -24,4 +24,6 @@ export const sabrinaCarpenterEvolutionDontWantItBack = {
       externalLink: "https://open.spotify.com/track/2yqhHi9QfZ5INE13sS5Bva",
     },
   ],
+  createdAt: "2026-09-17T20:31:26.679Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

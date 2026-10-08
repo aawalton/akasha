@@ -24,4 +24,6 @@ export const paulCardallTheHymnsCollection2DiscSetHowGentleGodsCommands = {
       externalLink: "https://open.spotify.com/track/15jpHmXOnM8fKjbM8FOD7P",
     },
   ],
+  createdAt: "2026-09-18T13:50:21.840Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

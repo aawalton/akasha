@@ -34,4 +34,6 @@ export const sabrinaCarpenterManSBestFriendSugarTalking = {
       externalLink: "https://open.spotify.com/track/5S7V849ZlfD5yh6Q7VNIwp",
     },
   ],
+  createdAt: "2026-09-17T20:31:23.561Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

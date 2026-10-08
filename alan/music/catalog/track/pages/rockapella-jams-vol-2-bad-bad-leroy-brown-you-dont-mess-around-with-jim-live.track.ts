@@ -24,4 +24,6 @@ export const rockapellaJamsVol2BadBadLeroyBrownYouDontMessAroundWithJimLive = {
       externalLink: "https://open.spotify.com/track/3gjNFOySJBP2SQ61oE5DU8",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.406Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

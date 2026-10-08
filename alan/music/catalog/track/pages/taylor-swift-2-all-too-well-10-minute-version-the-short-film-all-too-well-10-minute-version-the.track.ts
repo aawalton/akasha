@@ -24,4 +24,6 @@ export const taylorSwift2AllTooWell10MinuteVersionTheShortFilmAllTooWell10Minute
       externalLink: "https://open.spotify.com/track/1u4HUiREUR6vX1W1RYG2Tm",
     },
   ],
+  createdAt: "2026-09-23T13:48:44.074Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

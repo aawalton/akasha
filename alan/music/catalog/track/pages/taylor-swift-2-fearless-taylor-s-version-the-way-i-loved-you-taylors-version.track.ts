@@ -24,4 +24,6 @@ export const taylorSwift2FearlessTaylorSVersionTheWayILovedYouTaylorsVersion = {
       externalLink: "https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M",
     },
   ],
+  createdAt: "2026-09-23T13:48:26.122Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

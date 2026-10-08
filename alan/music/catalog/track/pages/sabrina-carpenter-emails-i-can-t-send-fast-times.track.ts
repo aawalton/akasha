@@ -42,4 +42,6 @@ export const sabrinaCarpenterEmailsICanTSendFastTimes = {
       externalLink: "https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4",
     },
   ],
+  createdAt: "2026-09-17T20:31:25.810Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

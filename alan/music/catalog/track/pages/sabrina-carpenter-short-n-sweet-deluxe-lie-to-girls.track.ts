@@ -24,4 +24,6 @@ export const sabrinaCarpenterShortNSweetDeluxeLieToGirls = {
       externalLink: "https://open.spotify.com/track/0I6ZBVBb7DXfjVVCM0NmSQ",
     },
   ],
+  createdAt: "2026-09-17T20:31:24.247Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

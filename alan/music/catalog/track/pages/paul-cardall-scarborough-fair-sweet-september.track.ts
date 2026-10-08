@@ -24,4 +24,6 @@ export const paulCardallScarboroughFairSweetSeptember = {
       externalLink: "https://open.spotify.com/track/2bvkc7Jha4yYKzU6o9NUqp",
     },
   ],
+  createdAt: "2026-09-18T13:50:28.768Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

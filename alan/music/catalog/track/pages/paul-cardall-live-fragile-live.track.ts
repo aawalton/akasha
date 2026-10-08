@@ -24,4 +24,6 @@ export const paulCardallLiveFragileLive = {
       externalLink: "https://open.spotify.com/track/7pMcj48agTjNSkRqOTZJ7q",
     },
   ],
+  createdAt: "2026-09-18T13:50:23.689Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

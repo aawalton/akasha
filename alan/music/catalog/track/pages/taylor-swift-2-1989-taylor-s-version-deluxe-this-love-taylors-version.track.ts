@@ -42,4 +42,6 @@ export const taylorSwift21989TaylorSVersionDeluxeThisLoveTaylorsVersion = {
       externalLink: "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv",
     },
   ],
+  createdAt: "2026-09-23T13:48:44.114Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

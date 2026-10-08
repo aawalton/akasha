@@ -24,4 +24,6 @@ export const sabrinaCarpenterEyesWideOpenBestThingIGot = {
       externalLink: "https://open.spotify.com/track/66g4mn8jSks0Hu1zEcc81G",
     },
   ],
+  createdAt: "2026-09-17T20:31:27.165Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

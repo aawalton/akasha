@@ -24,4 +24,6 @@ export const reneeRappBiteMeWhyIsSheStillHere = {
       externalLink: "https://open.spotify.com/track/10RQeKnNwAUuGULmDd2Vp7",
     },
   ],
+  createdAt: "2026-09-22T19:47:47.810Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallReturnHomeCastlesAndCathedrals = {
       externalLink: "https://open.spotify.com/track/1YNU9Vt6Ql5ljrvyJNsGVs",
     },
   ],
+  createdAt: "2026-09-18T13:50:11.736Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

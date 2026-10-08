@@ -24,4 +24,6 @@ export const paulCardallTheCelebrateLifeConcertLiveInMyDreamsLive = {
       externalLink: "https://open.spotify.com/track/3LQtkryY5TRd6Gfd6jPzxJ",
     },
   ],
+  createdAt: "2026-09-18T13:50:18.345Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

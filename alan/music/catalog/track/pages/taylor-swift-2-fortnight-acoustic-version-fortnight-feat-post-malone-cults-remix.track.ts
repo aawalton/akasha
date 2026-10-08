@@ -29,4 +29,6 @@ export const taylorSwift2FortnightAcousticVersionFortnightFeatPostMaloneCultsRem
       externalLink: "https://open.spotify.com/track/7pM01Cfj8vt7z3qI2TveNT",
     },
   ],
+  createdAt: "2026-09-23T13:48:42.884Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

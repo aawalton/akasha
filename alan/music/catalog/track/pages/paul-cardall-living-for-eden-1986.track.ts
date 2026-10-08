@@ -24,4 +24,6 @@ export const paulCardallLivingForEden1986 = {
       externalLink: "https://open.spotify.com/track/5KPNpMPeCf3h5j4qyJ2sul",
     },
   ],
+  createdAt: "2026-09-18T13:50:20.417Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

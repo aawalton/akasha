@@ -24,4 +24,6 @@ export const taylorSwift2FolkloreAugust = {
       externalLink: "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K",
     },
   ],
+  createdAt: "2026-09-23T13:48:31.189Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

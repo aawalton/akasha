@@ -31,4 +31,6 @@ export const taylorSwift21989AllYouHadToDoWasStay = {
       externalLink: "https://open.spotify.com/track/0lmMtDQ2ElasKU2qDAE6NN",
     },
   ],
+  createdAt: "2026-09-23T13:48:35.899Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

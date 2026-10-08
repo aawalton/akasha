@@ -24,4 +24,6 @@ export const taylorSwift2ReputationDancingWithOurHandsTied = {
       externalLink: "https://open.spotify.com/track/7I7JbDv63ZJJsSi24DyJrz",
     },
   ],
+  createdAt: "2026-09-23T13:48:33.218Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

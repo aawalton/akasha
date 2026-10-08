@@ -25,4 +25,6 @@ export const taylorSwift2RedTaylorSVersionIBetYouThinkAboutMeFeatChrisStapletonT
       externalLink: "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL",
     },
   ],
+  createdAt: "2026-09-23T13:48:25.497Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallOLittleTownOfBethlehemOLittleTownOfBethlehem = {
       externalLink: "https://open.spotify.com/track/0ryvX7jOw6YLTAMp0QDUTe",
     },
   ],
+  createdAt: "2026-09-18T13:50:27.992Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

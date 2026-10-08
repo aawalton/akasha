@@ -42,4 +42,6 @@ export const taylorSwift2MidnightsTheTilDawnEditionMastermind = {
       externalLink: "https://open.spotify.com/track/1QQii3pa5m8MEda0nbkjfw",
     },
   ],
+  createdAt: "2026-09-23T13:48:24.381Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

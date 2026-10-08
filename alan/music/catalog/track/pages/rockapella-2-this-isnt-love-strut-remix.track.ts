@@ -24,4 +24,6 @@ export const rockapella2ThisIsntLoveStrutRemix = {
       externalLink: "https://open.spotify.com/track/7mVy2trgK7zhwhBbylS1ho",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.403Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

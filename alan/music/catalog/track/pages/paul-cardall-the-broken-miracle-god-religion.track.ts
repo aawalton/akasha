@@ -24,4 +24,6 @@ export const paulCardallTheBrokenMiracleGodReligion = {
       externalLink: "https://open.spotify.com/track/2Kpc9XSuml0TEwvs3kABns",
     },
   ],
+  createdAt: "2026-09-18T13:50:13.306Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

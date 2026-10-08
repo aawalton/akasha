@@ -24,4 +24,6 @@ export const sabrinaCarpenterSingularActIiTakeYouBack = {
       externalLink: "https://open.spotify.com/track/1NF9ux53nctr5Rjb3c8i7D",
     },
   ],
+  createdAt: "2026-09-17T20:31:26.154Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -37,4 +37,6 @@ export const taylorSwift2ChristmasTreeFarmChristmasTreeFarmRecordedLiveAtThe2019
         externalLink: "https://open.spotify.com/track/2ziekbazMdLS2Gtdo78RID",
       },
     ],
+    createdAt: "2026-09-23T13:48:45.462Z",
+    updatedAt: "2026-09-24T20:00:57.000Z",
   } as const satisfies Track

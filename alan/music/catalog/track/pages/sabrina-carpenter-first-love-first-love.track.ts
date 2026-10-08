@@ -24,4 +24,6 @@ export const sabrinaCarpenterFirstLoveFirstLove = {
       externalLink: "https://open.spotify.com/track/01iyINEYgPQ7ThMZuHUsqS",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.419Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallLiveVoicesLive = {
       externalLink: "https://open.spotify.com/track/3rwmNEybeOPzshmdvD4u71",
     },
   ],
+  createdAt: "2026-09-18T13:50:23.961Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

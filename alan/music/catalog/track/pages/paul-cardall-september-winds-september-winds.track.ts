@@ -24,4 +24,6 @@ export const paulCardallSeptemberWindsSeptemberWinds = {
       externalLink: "https://open.spotify.com/track/1azQ2kty7l8fY41ON2PseU",
     },
   ],
+  createdAt: "2026-09-18T13:50:28.317Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

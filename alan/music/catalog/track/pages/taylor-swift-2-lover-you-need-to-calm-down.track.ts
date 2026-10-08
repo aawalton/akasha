@@ -24,4 +24,6 @@ export const taylorSwift2LoverYouNeedToCalmDown = {
       externalLink: "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5",
     },
   ],
+  createdAt: "2026-09-23T13:48:32.108Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

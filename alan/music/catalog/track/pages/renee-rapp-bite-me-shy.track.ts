@@ -24,4 +24,6 @@ export const reneeRappBiteMeShy = {
       externalLink: "https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72",
     },
   ],
+  createdAt: "2026-09-22T19:47:48.160Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

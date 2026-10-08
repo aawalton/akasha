@@ -30,4 +30,6 @@ export const sabrinaCarpenterOnMyWayDaTweekazRemixOnMyWayDaTweekazRemix = {
       externalLink: "https://open.spotify.com/track/4Sp0jLZN8MgPnoGDufJS7N",
     },
   ],
+  createdAt: "2026-09-17T20:31:28.719Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

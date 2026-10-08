@@ -24,4 +24,6 @@ export const paulCardallTheHymnsCollection2DiscSetDayOfRest = {
       externalLink: "https://open.spotify.com/track/6S50t6Qk3LG8tH1IQDiGcF",
     },
   ],
+  createdAt: "2026-09-18T13:50:21.186Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

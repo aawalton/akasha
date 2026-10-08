@@ -24,4 +24,6 @@ export const sabrinaCarpenterWhyWhy = {
       externalLink: "https://open.spotify.com/track/1byScELwcJffsdL5QWa6Yk",
     },
   ],
+  createdAt: "2026-09-17T20:31:29.453Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

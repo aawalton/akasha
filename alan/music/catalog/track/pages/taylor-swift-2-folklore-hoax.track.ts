@@ -24,4 +24,6 @@ export const taylorSwift2FolkloreHoax = {
       externalLink: "https://open.spotify.com/track/6MWoRt97mnSTXZhu3ggi9C",
     },
   ],
+  createdAt: "2026-09-23T13:48:31.527Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

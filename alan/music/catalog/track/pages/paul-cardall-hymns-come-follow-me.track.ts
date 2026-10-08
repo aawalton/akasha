@@ -24,4 +24,6 @@ export const paulCardallHymnsComeFollowMe = {
       externalLink: "https://open.spotify.com/track/6AflQvRt7KegL9QPSm2SzD",
     },
   ],
+  createdAt: "2026-09-18T13:50:26.684Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

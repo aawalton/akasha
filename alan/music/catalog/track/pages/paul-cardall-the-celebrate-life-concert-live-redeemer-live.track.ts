@@ -24,4 +24,6 @@ export const paulCardallTheCelebrateLifeConcertLiveRedeemerLive = {
       externalLink: "https://open.spotify.com/track/76r0PmRwQixyd7n13HWmNn",
     },
   ],
+  createdAt: "2026-09-18T13:50:18.611Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

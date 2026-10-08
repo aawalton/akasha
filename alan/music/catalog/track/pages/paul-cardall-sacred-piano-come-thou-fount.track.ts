@@ -24,4 +24,6 @@ export const paulCardallSacredPianoComeThouFount = {
       externalLink: "https://open.spotify.com/track/10reGqkbhWnp4mk7fS8zI0",
     },
   ],
+  createdAt: "2026-09-18T13:50:19.557Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const rockapellaBangNoPressure = {
       externalLink: "https://open.spotify.com/track/0LFR97zZ48MTPj7fK7mh05",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.403Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

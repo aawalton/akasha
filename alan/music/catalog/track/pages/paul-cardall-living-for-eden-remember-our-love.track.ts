@@ -24,4 +24,6 @@ export const paulCardallLivingForEdenRememberOurLove = {
       externalLink: "https://open.spotify.com/track/1UDQ7mYToIXIME4oAPJPCN",
     },
   ],
+  createdAt: "2026-09-18T13:50:20.687Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

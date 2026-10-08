@@ -24,4 +24,6 @@ export const paulCardallPeacefulPianoBeautyFindsHer = {
       externalLink: "https://open.spotify.com/track/3bx1wjFHMmNr7oR3LX7YzV",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.151Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

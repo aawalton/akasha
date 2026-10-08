@@ -24,4 +24,6 @@ export const sabrinaCarpenterShortNSweetDeluxeGoodGraces = {
       externalLink: "https://open.spotify.com/track/5JiTjhx7lhqYgsIGpo0VFy",
     },
   ],
+  createdAt: "2026-09-17T20:31:23.955Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

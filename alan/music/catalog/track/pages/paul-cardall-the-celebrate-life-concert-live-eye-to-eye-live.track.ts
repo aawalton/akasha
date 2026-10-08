@@ -24,4 +24,6 @@ export const paulCardallTheCelebrateLifeConcertLiveEyeToEyeLive = {
       externalLink: "https://open.spotify.com/track/5fsc0oB7bEEDgHwfmY8cCh",
     },
   ],
+  createdAt: "2026-09-18T13:50:18.497Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2RedDeluxeEditionTreacherousOriginalDemoRecording = {
       externalLink: "https://open.spotify.com/track/7BT9K9BDqq6HI2oWH5UMZQ",
     },
   ],
+  createdAt: "2026-09-23T13:48:37.962Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

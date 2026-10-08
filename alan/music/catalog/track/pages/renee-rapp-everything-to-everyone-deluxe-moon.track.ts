@@ -34,4 +34,6 @@ export const reneeRappEverythingToEveryoneDeluxeMoon = {
       externalLink: "https://open.spotify.com/track/4ThYkuMc4YmuhEz7WeobOG",
     },
   ],
+  createdAt: "2026-09-22T19:47:52.772Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

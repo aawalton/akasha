@@ -42,4 +42,6 @@ export const taylorSwift2MidnightsTheTilDawnEditionQuestion = {
       externalLink: "https://open.spotify.com/track/7oomkQSYf1ia2VnVEWfFIU",
     },
   ],
+  createdAt: "2026-09-23T13:48:24.156Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

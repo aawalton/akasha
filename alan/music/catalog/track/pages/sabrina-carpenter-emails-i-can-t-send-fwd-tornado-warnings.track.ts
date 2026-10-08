@@ -34,4 +34,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdTornadoWarnings = {
       externalLink: "https://open.spotify.com/track/53pcTIVGVE58vWWM7hfYPl",
     },
   ],
+  createdAt: "2026-09-17T20:31:25.053Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

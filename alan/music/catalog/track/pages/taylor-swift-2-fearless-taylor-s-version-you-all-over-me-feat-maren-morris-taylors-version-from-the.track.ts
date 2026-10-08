@@ -36,4 +36,6 @@ export const taylorSwift2FearlessTaylorSVersionYouAllOverMeFeatMarenMorrisTaylor
       externalLink: "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY",
     },
   ],
+  createdAt: "2026-09-23T13:48:45.336Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

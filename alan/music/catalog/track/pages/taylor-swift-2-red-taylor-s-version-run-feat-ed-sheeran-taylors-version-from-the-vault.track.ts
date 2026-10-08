@@ -25,4 +25,6 @@ export const taylorSwift2RedTaylorSVersionRunFeatEdSheeranTaylorsVersionFromTheV
       externalLink: "https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T",
     },
   ],
+  createdAt: "2026-09-23T13:48:25.624Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

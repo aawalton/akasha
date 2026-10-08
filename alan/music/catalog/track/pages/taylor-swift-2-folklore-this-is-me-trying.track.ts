@@ -24,4 +24,6 @@ export const taylorSwift2FolkloreThisIsMeTrying = {
       externalLink: "https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1",
     },
   ],
+  createdAt: "2026-09-23T13:48:31.230Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

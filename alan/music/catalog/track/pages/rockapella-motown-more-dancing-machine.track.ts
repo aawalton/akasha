@@ -24,4 +24,6 @@ export const rockapellaMotownMoreDancingMachine = {
       externalLink: "https://open.spotify.com/track/2aUYVQT3FnZyjCoo9Wb6An",
     },
   ],
+  createdAt: "2026-09-24T20:46:21.406Z",
+  updatedAt: "2026-09-24T21:00:26.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallTheLookingGlassWithoutYou = {
       externalLink: "https://open.spotify.com/track/3q9msLV4WwZoghu0Bm3YUg",
     },
   ],
+  createdAt: "2026-09-18T13:50:25.966Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

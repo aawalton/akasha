@@ -24,4 +24,6 @@ export const paulCardallPeacefulPianoDanceOfTheForgotten = {
       externalLink: "https://open.spotify.com/track/06C3k3I4a9Sdm49uOfPee9",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.182Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const sabrinaCarpenterEspressoEpEspressoOnVacationVersion = {
       externalLink: "https://open.spotify.com/track/5WszdMXh1g7EFgJcfJd3cQ",
     },
   ],
+  createdAt: "2026-09-17T20:31:27.702Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

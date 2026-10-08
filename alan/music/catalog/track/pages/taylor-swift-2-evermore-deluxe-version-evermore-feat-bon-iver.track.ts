@@ -34,4 +34,6 @@ export const taylorSwift2EvermoreDeluxeVersionEvermoreFeatBonIver = {
       externalLink: "https://open.spotify.com/track/6Wlq9rqkxrqj5Kls4Kw14H",
     },
   ],
+  createdAt: "2026-09-23T13:48:28.175Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

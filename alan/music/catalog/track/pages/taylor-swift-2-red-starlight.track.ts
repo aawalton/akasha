@@ -31,4 +31,6 @@ export const taylorSwift2RedStarlight = {
       externalLink: "https://open.spotify.com/track/0vqI4ZIMuifeKeItGiWbPj",
     },
   ],
+  createdAt: "2026-09-23T13:48:37.760Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

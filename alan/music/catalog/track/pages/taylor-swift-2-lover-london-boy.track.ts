@@ -24,4 +24,6 @@ export const taylorSwift2LoverLondonBoy = {
       externalLink: "https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw",
     },
   ],
+  createdAt: "2026-09-23T13:48:31.983Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

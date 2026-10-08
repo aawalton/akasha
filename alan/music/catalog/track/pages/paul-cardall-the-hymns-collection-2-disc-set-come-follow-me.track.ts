@@ -24,4 +24,6 @@ export const paulCardallTheHymnsCollection2DiscSetComeFollowMe = {
       externalLink: "https://open.spotify.com/track/4mtd0os4gNHl80dea2VWFQ",
     },
   ],
+  createdAt: "2026-09-18T13:50:21.109Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

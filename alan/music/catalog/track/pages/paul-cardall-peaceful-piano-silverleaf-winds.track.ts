@@ -24,4 +24,6 @@ export const paulCardallPeacefulPianoSilverleafWinds = {
       externalLink: "https://open.spotify.com/track/6w1c1Wg6Phl6wpE9eHRzAB",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.120Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

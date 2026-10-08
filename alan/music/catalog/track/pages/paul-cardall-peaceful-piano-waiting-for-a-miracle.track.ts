@@ -24,4 +24,6 @@ export const paulCardallPeacefulPianoWaitingForAMiracle = {
       externalLink: "https://open.spotify.com/track/0O40EaaeL2hNMyX6U7L58N",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.053Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

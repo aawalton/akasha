@@ -24,4 +24,6 @@ export const taylorSwift2RedTaylorSVersionTheMomentIKnewTaylorsVersion = {
       externalLink: "https://open.spotify.com/track/0NRHj8hDwwmSPaA41o379r",
     },
   ],
+  createdAt: "2026-09-23T13:48:25.028Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseAcoustic = {
       externalLink: "https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ",
     },
   ],
+  createdAt: "2026-09-17T20:31:27.263Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

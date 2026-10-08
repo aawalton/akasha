@@ -34,4 +34,6 @@ export const sabrinaCarpenterEmailsICanTSendDecode = {
       externalLink: "https://open.spotify.com/track/58AFokYCv4jdJ2T0hEoQ2r",
     },
   ],
+  createdAt: "2026-09-17T20:31:25.900Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -28,4 +28,6 @@ export const taylorSwift2ReputationEndGame = {
       externalLink: "https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX",
     },
   ],
+  createdAt: "2026-09-23T13:48:32.881Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

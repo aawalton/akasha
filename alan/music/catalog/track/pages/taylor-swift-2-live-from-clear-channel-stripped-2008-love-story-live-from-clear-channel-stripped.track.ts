@@ -24,4 +24,6 @@ export const taylorSwift2LiveFromClearChannelStripped2008LoveStoryLiveFromClearC
       externalLink: "https://open.spotify.com/track/4RBKAqJ3qyvvriDG0s9IJ3",
     },
   ],
+  createdAt: "2026-09-23T13:48:41.367Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

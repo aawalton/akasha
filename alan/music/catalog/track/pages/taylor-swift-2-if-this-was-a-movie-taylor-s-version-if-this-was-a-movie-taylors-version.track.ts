@@ -34,4 +34,6 @@ export const taylorSwift2IfThisWasAMovieTaylorSVersionIfThisWasAMovieTaylorsVers
       externalLink: "https://open.spotify.com/track/0q6vsjvnCIWrtwRckCV7y0",
     },
   ],
+  createdAt: "2026-09-23T13:48:45.250Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

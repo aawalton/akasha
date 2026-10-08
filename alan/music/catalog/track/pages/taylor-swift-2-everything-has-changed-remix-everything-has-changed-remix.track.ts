@@ -24,4 +24,6 @@ export const taylorSwift2EverythingHasChangedRemixEverythingHasChangedRemix = {
       externalLink: "https://open.spotify.com/track/3an4u3iZSy63ygYcWslJ5f",
     },
   ],
+  createdAt: "2026-09-23T13:48:46.979Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

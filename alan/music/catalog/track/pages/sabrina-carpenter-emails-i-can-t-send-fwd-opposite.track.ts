@@ -24,4 +24,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdOpposite = {
       externalLink: "https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu",
     },
   ],
+  createdAt: "2026-09-17T20:31:25.379Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const sabrinaCarpenterShortNSweetDeluxeCouldntMakeItAnyHarder = {
       externalLink: "https://open.spotify.com/track/5YwBaDW36fztKNnoiHQar3",
     },
   ],
+  createdAt: "2026-09-17T20:31:24.396Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

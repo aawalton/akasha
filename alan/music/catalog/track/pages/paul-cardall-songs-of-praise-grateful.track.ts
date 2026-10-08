@@ -24,4 +24,6 @@ export const paulCardallSongsOfPraiseGrateful = {
       externalLink: "https://open.spotify.com/track/2lTJwqxbJDkxdR2HEoeKjj",
     },
   ],
+  createdAt: "2026-09-18T13:50:22.025Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

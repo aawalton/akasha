@@ -24,4 +24,6 @@ export const paulCardallTheHymnsCollection2DiscSetIKnowThatMyRedeemerLives = {
       externalLink: "https://open.spotify.com/track/0LF6S4buc1CVGSAqrlcNRF",
     },
   ],
+  createdAt: "2026-09-18T13:50:21.567Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

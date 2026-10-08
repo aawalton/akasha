@@ -24,4 +24,6 @@ export const taylorSwift2RedTaylorSVersionMessageInABottleTaylorsVersionFromTheV
       externalLink: "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j",
     },
   ],
+  createdAt: "2026-09-23T13:48:25.434Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

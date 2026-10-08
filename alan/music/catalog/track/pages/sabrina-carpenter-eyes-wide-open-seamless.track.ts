@@ -24,4 +24,6 @@ export const sabrinaCarpenterEyesWideOpenSeamless = {
       externalLink: "https://open.spotify.com/track/75s1b4uRCk6UPOPBLNdDIA",
     },
   ],
+  createdAt: "2026-09-17T20:31:27.028Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track
