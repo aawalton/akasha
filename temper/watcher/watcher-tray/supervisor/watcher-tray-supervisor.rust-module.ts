@@ -25,4 +25,6 @@ export const watcherTraySupervisor = {
       statement: "The worker runs with no console window of its own.",
     },
   ],
+  createdAt: "2026-09-02T03:40:50.547Z",
+  updatedAt: "2026-09-21T15:25:28.000Z",
 } as const satisfies RustModule

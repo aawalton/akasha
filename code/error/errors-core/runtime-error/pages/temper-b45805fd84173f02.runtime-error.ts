@@ -13,4 +13,6 @@ export const temperB45805fd84173f02 = {
   userAgent:
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
   firstSeenAt: "2026-09-27T14:23:16.243Z",
+  createdAt: "2026-09-27T14:23:26.934Z",
+  updatedAt: "2026-09-27T14:23:28.000Z",
 } as const satisfies RuntimeError

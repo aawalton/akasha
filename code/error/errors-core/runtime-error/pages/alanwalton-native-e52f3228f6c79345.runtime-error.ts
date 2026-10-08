@@ -11,4 +11,6 @@ export const alanwaltonNativeE52f3228f6c79345 = {
   url: "https://alanwalton.com/home",
   userAgent: "alanwalton-native-shell; iOS 26.6.1; iPhone",
   firstSeenAt: "2026-09-12T19:42:49.871Z",
+  createdAt: "2026-09-12T19:42:50.294Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies RuntimeError

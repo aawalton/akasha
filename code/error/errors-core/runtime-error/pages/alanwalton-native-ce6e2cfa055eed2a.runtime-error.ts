@@ -12,4 +12,6 @@ export const alanwaltonNativeCe6e2cfa055eed2a = {
   url: "api/picture",
   userAgent: "api/picture",
   firstSeenAt: "2026-10-08T14:23:51.858Z",
+  createdAt: "2026-10-08T14:23:52.000Z",
+  updatedAt: "2026-10-08T14:23:52.000Z",
 } as const satisfies RuntimeError

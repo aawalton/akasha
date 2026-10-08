@@ -7,4 +7,6 @@ export const wednesday = {
   title: "Wednesday — legs",
   dayOfWeek: "wednesday",
   focus: "legs",
+  createdAt: "2026-06-19T15:32:28.990Z",
+  updatedAt: "2026-09-19T17:45:02.000Z",
 } as const satisfies ScheduleDay

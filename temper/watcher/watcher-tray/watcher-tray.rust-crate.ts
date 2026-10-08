@@ -48,4 +48,6 @@ export const watcherTray = {
       statement: "Every dependency is drawn from crates.io rather than from this repository.",
     },
   ],
+  createdAt: "2026-09-02T03:40:50.545Z",
+  updatedAt: "2026-09-24T19:52:49.000Z",
 } as const satisfies RustCrate

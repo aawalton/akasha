@@ -13,4 +13,6 @@ export const moroni = {
   unit: "unit/words",
   status: "not-started",
   externalId: "moroni",
+  createdAt: "2026-09-03T16:09:23.418Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies ScriptureCollection

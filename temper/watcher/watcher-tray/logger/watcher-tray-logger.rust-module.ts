@@ -29,4 +29,6 @@ export const watcherTrayLogger = {
       statement: "The instant is worked out here rather than drawn from a date library.",
     },
   ],
+  createdAt: "2026-09-02T03:40:50.547Z",
+  updatedAt: "2026-09-21T15:25:28.000Z",
 } as const satisfies RustModule

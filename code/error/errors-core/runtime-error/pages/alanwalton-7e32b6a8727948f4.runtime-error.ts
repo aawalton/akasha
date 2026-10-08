@@ -14,4 +14,6 @@ export const alanwalton7e32b6a8727948f4 = {
     "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
   releaseSha: "c2aba127afe38fdc1dbaf0d910881c9df2d5ff9f",
   firstSeenAt: "2026-09-10T14:08:01.008Z",
+  createdAt: "2026-09-10T14:08:03.690Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies RuntimeError

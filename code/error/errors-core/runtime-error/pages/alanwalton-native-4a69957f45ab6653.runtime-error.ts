@@ -11,4 +11,6 @@ export const alanwaltonNative4a69957f45ab6653 = {
   url: "stream-health-samples",
   userAgent: "StreamHealthSamplesIntent/478",
   firstSeenAt: "2026-10-03T14:41:06.475Z",
+  createdAt: "2026-10-03T14:41:07.000Z",
+  updatedAt: "2026-10-03T14:41:07.000Z",
 } as const satisfies RuntimeError

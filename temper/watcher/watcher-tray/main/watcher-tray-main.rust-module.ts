@@ -21,4 +21,6 @@ export const watcherTrayMain = {
       statement: "A step that failed is logged and the run carries on.",
     },
   ],
+  createdAt: "2026-09-02T03:40:50.546Z",
+  updatedAt: "2026-09-21T15:25:28.000Z",
 } as const satisfies RustModule

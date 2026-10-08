@@ -12,4 +12,6 @@ export const audhdalanAc9e15374d498b46 = {
   userAgent:
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36",
   firstSeenAt: "2026-10-07T18:23:59.458Z",
+  createdAt: "2026-10-07T18:24:00.000Z",
+  updatedAt: "2026-10-07T18:24:00.000Z",
 } as const satisfies RuntimeError
