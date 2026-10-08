@@ -20,4 +20,6 @@ export const superSupportive0115OneHundredFourteenTheChainerCoda = {
   ],
   publishedAt: "2024-01-29",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.217Z",
+  updatedAt: "2026-09-28T20:27:31.000Z",
 } as const satisfies StoryChapterRead

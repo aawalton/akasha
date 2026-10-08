@@ -19,4 +19,6 @@ export const theGiftOfLoot0080Chapter80BluffingIn = {
   story: "story-read/the-gift-of-loot",
   ownLength: 2533,
   prose: "txt",
+  createdAt: "2026-09-11T19:06:21.089Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

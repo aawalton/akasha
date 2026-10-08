@@ -20,4 +20,6 @@ export const systemChangeSystemUniverse0104Chapter682Friend = {
   title: "Chapter 682: Friend",
   ownLength: 2493,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.752Z",
+  updatedAt: "2026-09-28T20:27:36.000Z",
 } as const satisfies StoryChapterRead

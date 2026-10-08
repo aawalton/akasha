@@ -20,4 +20,6 @@ export const superSupportive0309ThreeHundredSevenObserve = {
   story: "story-read/super-supportive",
   ownLength: 4794,
   prose: "txt",
+  createdAt: "2026-09-18T23:04:12.616Z",
+  updatedAt: "2026-09-28T20:27:34.000Z",
 } as const satisfies StoryChapterRead

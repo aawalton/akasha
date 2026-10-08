@@ -21,4 +21,6 @@ export const systemChangeSystemUniverse0017Chapter597IToldYouAll = {
   ownProgress: 2083,
   completedAt: "2026-06-29T19:57:17.487Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.520Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

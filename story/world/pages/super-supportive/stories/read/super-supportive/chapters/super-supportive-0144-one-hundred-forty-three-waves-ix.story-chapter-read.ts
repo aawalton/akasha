@@ -20,4 +20,6 @@ export const superSupportive0144OneHundredFortyThreeWavesIx = {
   ],
   publishedAt: "2024-05-20",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.264Z",
+  updatedAt: "2026-09-28T20:27:32.000Z",
 } as const satisfies StoryChapterRead

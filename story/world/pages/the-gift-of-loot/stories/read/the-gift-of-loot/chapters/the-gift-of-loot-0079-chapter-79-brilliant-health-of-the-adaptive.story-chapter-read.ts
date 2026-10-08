@@ -19,4 +19,6 @@ export const theGiftOfLoot0079Chapter79BrilliantHealthOfTheAdaptive = {
   ownLength: 2597,
   prose: "txt",
   story: "story-read/the-gift-of-loot",
+  createdAt: "2026-09-09T19:07:11.591Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const systemChangeSystemUniverse0105Chapter683CunningSheen = {
   title: "Chapter 683: Cunning Sheen",
   ownLength: 2658,
   prose: "txt",
+  createdAt: "2026-09-09T00:35:14.740Z",
+  updatedAt: "2026-09-28T20:27:36.000Z",
 } as const satisfies StoryChapterRead

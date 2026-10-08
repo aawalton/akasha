@@ -20,4 +20,6 @@ export const systemChangeSystemUniverse0108Chapter686Duel = {
   story: "story-read/system-change-system-universe",
   ownLength: 2033,
   prose: "txt",
+  createdAt: "2026-09-18T00:08:15.695Z",
+  updatedAt: "2026-09-28T20:27:36.000Z",
 } as const satisfies StoryChapterRead

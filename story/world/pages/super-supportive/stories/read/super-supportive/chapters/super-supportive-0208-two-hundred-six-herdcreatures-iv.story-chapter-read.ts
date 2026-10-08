@@ -20,4 +20,6 @@ export const superSupportive0208TwoHundredSixHerdcreaturesIv = {
   ],
   publishedAt: "2025-03-06",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.322Z",
+  updatedAt: "2026-09-28T20:27:33.000Z",
 } as const satisfies StoryChapterRead

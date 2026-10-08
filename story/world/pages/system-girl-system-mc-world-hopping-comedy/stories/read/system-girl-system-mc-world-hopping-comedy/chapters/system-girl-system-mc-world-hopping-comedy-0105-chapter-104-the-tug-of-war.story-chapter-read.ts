@@ -19,4 +19,6 @@ export const systemGirlSystemMcWorldHoppingComedy0105Chapter104TheTugOfWar = {
   story: "story-read/system-girl-system-mc-world-hopping-comedy",
   ownLength: 2326,
   prose: "txt",
+  createdAt: "2026-09-18T15:03:35.228Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

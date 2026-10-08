@@ -20,4 +20,6 @@ export const systemChangeSystemUniverse0060Chapter638PerksOfBattleInstinct = {
   ],
   publishedAt: "2026-03-24",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.523Z",
+  updatedAt: "2026-09-28T20:27:36.000Z",
 } as const satisfies StoryChapterRead

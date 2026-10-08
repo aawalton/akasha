@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0126Chapter424CursedFrost = {
   title: "Chapter 424 : Cursed Frost",
   ownLength: 2234,
   prose: "txt",
+  createdAt: "2026-09-07T07:05:15.717Z",
+  updatedAt: "2026-09-28T20:27:35.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const superSupportive0307ThreeHundredFiveAnEagerArmAndAngryNoodles = {
   title: "THREE HUNDRED FIVE: An Eager Arm and Angry Noodles",
   ownLength: 4938,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.751Z",
+  updatedAt: "2026-09-28T20:27:34.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0064Chapter363Gamble = {
   ],
   publishedAt: "2026-03-20",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.108Z",
+  updatedAt: "2026-09-28T20:27:34.000Z",
 } as const satisfies StoryChapterRead

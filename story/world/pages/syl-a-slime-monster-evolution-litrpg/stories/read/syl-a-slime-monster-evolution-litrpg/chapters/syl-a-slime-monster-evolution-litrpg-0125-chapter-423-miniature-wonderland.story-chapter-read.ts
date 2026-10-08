@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0125Chapter423MiniatureWonderland = 
   title: "Chapter 423 : Miniature Wonderland",
   ownLength: 2503,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.751Z",
+  updatedAt: "2026-09-28T20:27:35.000Z",
 } as const satisfies StoryChapterRead

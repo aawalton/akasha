@@ -20,4 +20,6 @@ export const superSupportive0306ThreeHundredFourStretchingWings = {
   ],
   publishedAt: "2026-08-29",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.388Z",
+  updatedAt: "2026-09-28T20:27:34.000Z",
 } as const satisfies StoryChapterRead

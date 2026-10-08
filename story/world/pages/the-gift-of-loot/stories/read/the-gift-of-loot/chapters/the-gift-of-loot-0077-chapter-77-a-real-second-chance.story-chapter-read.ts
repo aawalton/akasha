@@ -19,4 +19,6 @@ export const theGiftOfLoot0077Chapter77ARealSecondChance = {
   title: "Chapter 77: A Real Second Chance",
   ownLength: 1203,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.752Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

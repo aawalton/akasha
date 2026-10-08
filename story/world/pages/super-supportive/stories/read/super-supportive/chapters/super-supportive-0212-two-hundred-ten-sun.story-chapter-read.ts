@@ -20,4 +20,6 @@ export const superSupportive0212TwoHundredTenSun = {
   ],
   publishedAt: "2025-04-03",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.324Z",
+  updatedAt: "2026-09-28T20:27:33.000Z",
 } as const satisfies StoryChapterRead

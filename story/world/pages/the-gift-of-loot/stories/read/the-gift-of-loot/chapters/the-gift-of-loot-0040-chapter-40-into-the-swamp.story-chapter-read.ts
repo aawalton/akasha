@@ -19,4 +19,6 @@ export const theGiftOfLoot0040Chapter40IntoTheSwamp = {
   ],
   publishedAt: "2026-06-10",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.312Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

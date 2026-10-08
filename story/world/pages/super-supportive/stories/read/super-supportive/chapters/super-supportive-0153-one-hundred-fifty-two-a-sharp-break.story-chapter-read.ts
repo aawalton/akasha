@@ -20,4 +20,6 @@ export const superSupportive0153OneHundredFiftyTwoASharpBreak = {
   ],
   publishedAt: "2024-06-27",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.273Z",
+  updatedAt: "2026-09-28T20:27:32.000Z",
 } as const satisfies StoryChapterRead

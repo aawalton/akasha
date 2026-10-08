@@ -21,4 +21,6 @@ export const systemChangeSystemUniverse0028Chapter607Dense = {
   ownProgress: 2593,
   completedAt: "2026-06-29T19:57:38.558Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.521Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

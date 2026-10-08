@@ -19,4 +19,6 @@ export const systemGirlSystemMcWorldHoppingComedy0090Chapter89TheWeightOfLoyalty
   ],
   publishedAt: "2026-07-05",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.078Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

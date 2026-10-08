@@ -20,4 +20,6 @@ export const superSupportive0157OneHundredFiftySixFamilyMattersIi = {
   ],
   publishedAt: "2024-07-18",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.276Z",
+  updatedAt: "2026-09-28T20:27:32.000Z",
 } as const satisfies StoryChapterRead

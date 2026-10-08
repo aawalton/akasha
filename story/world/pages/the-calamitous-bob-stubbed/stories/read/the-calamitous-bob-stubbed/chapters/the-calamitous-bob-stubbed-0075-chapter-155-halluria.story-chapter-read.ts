@@ -21,4 +21,6 @@ export const theCalamitousBobStubbed0075Chapter155Halluria = {
   ownProgress: 6038,
   completedAt: "2026-06-29T21:17:25.306Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.461Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

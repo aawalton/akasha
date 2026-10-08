@@ -20,4 +20,6 @@ export const superSupportive0195OneHundredNinetyThreeFlashesV = {
   ],
   publishedAt: "2024-12-28",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.311Z",
+  updatedAt: "2026-09-28T20:27:33.000Z",
 } as const satisfies StoryChapterRead

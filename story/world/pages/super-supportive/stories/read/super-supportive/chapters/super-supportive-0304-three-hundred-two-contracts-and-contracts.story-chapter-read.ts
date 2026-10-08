@@ -20,4 +20,6 @@ export const superSupportive0304ThreeHundredTwoContractsAndContracts = {
   ],
   publishedAt: "2026-08-14",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.387Z",
+  updatedAt: "2026-09-28T20:27:34.000Z",
 } as const satisfies StoryChapterRead

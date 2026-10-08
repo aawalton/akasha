@@ -20,4 +20,6 @@ export const systemChangeSystemUniverse0107Chapter685Garrett = {
   story: "story-read/system-change-system-universe",
   ownLength: 2065,
   prose: "txt",
+  createdAt: "2026-09-16T00:08:15.545Z",
+  updatedAt: "2026-09-28T20:27:36.000Z",
 } as const satisfies StoryChapterRead

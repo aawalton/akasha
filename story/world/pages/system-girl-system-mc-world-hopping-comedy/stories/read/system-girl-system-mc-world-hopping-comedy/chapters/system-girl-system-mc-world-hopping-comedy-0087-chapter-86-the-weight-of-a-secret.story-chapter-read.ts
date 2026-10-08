@@ -19,4 +19,6 @@ export const systemGirlSystemMcWorldHoppingComedy0087Chapter86TheWeightOfASecret
   ],
   publishedAt: "2026-06-21",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.078Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

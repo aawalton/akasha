@@ -21,4 +21,6 @@ export const sylASlimeMonsterEvolutionLitrpg0048Chapter347Experiments = {
   ownProgress: 2413,
   completedAt: "2026-06-29T19:43:24.262Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.107Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

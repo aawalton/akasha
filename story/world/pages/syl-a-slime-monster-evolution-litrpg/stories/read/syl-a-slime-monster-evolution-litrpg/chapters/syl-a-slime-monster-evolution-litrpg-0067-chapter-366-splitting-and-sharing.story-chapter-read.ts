@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0067Chapter366SplittingAndSharing = 
   ],
   publishedAt: "2026-03-30",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.109Z",
+  updatedAt: "2026-09-28T20:27:34.000Z",
 } as const satisfies StoryChapterRead

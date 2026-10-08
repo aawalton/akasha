@@ -20,4 +20,6 @@ export const systemChangeSystemUniverse0057Chapter635Terms = {
   ],
   publishedAt: "2026-03-12",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.523Z",
+  updatedAt: "2026-09-28T20:27:36.000Z",
 } as const satisfies StoryChapterRead

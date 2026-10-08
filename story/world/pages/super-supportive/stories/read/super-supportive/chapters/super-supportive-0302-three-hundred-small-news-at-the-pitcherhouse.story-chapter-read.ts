@@ -20,4 +20,6 @@ export const superSupportive0302ThreeHundredSmallNewsAtThePitcherhouse = {
   ],
   publishedAt: "2026-08-01",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.386Z",
+  updatedAt: "2026-09-28T20:27:34.000Z",
 } as const satisfies StoryChapterRead

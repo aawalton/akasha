@@ -20,4 +20,6 @@ export const superSupportive0260TwoHundredFiftyEightAlwaysMore = {
   ],
   publishedAt: "2025-11-26",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.354Z",
+  updatedAt: "2026-09-28T20:27:34.000Z",
 } as const satisfies StoryChapterRead

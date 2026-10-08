@@ -20,4 +20,6 @@ export const superSupportive0217TwoHundredFifteenTacos = {
   ],
   publishedAt: "2025-05-01",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.328Z",
+  updatedAt: "2026-09-28T20:27:33.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0056Chapter428RemovingStains = {
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   ownLength: 2137,
   prose: "txt",
+  createdAt: "2026-09-16T07:03:46.253Z",
+  updatedAt: "2026-09-28T20:27:34.000Z",
 } as const satisfies StoryChapterRead

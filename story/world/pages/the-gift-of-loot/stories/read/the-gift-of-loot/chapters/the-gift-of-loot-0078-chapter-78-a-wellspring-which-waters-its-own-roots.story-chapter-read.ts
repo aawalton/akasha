@@ -19,4 +19,6 @@ export const theGiftOfLoot0078Chapter78AWellspringWhichWatersItsOwnRoots = {
   title: "Chapter 78: A Wellspring Which Waters Its Own Roots",
   ownLength: 3552,
   prose: "txt",
+  createdAt: "2026-09-07T18:06:10.732Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0108Chapter406HuntingTheHunter = {
   ],
   publishedAt: "2026-07-22",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.115Z",
+  updatedAt: "2026-09-28T20:27:35.000Z",
 } as const satisfies StoryChapterRead

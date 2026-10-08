@@ -21,4 +21,6 @@ export const theCalamitousBobStubbed0111CalamitousAnnouncementReadThisOrDonTComp
   ownProgress: 260,
   completedAt: "2026-06-29T21:18:35.938Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.499Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

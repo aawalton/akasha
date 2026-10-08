@@ -19,4 +19,6 @@ export const theGiftOfLoot0082Chapter82TheLootFellLikeRain = {
   story: "story-read/the-gift-of-loot",
   ownLength: 3074,
   prose: "txt",
+  createdAt: "2026-09-16T18:07:19.748Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

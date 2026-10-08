@@ -21,4 +21,6 @@ export const theCalamitousBobStubbed0061Chapter141TheLeagueConspires = {
   ownProgress: 5455,
   completedAt: "2026-06-29T21:16:52.872Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.446Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

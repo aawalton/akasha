@@ -19,4 +19,6 @@ export const systemGirlSystemMcWorldHoppingComedy0103Chapter102TheTrial = {
   title: "Chapter 102: The Trial",
   ownLength: 2478,
   prose: "txt",
+  createdAt: "2026-09-07T20:04:42.967Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

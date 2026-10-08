@@ -19,4 +19,6 @@ export const theGiftOfLoot0037Chapter37LeadOnALevel3Dungeon = {
   ],
   publishedAt: "2026-06-03",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.310Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

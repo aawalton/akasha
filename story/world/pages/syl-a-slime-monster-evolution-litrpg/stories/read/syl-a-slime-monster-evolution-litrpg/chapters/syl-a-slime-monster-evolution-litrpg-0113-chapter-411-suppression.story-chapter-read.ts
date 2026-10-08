@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0113Chapter411Suppression = {
   ],
   publishedAt: "2026-08-05",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.120Z",
+  updatedAt: "2026-09-28T20:27:35.000Z",
 } as const satisfies StoryChapterRead

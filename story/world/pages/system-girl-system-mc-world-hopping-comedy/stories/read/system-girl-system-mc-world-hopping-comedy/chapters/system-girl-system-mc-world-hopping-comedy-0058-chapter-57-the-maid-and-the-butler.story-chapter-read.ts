@@ -19,4 +19,6 @@ export const systemGirlSystemMcWorldHoppingComedy0058Chapter57TheMaidAndTheButle
   ],
   publishedAt: "2026-02-10",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.068Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

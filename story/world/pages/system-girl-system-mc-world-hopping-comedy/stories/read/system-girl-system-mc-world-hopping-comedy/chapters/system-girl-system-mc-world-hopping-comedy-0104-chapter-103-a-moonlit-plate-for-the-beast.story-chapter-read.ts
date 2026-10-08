@@ -19,4 +19,6 @@ export const systemGirlSystemMcWorldHoppingComedy0104Chapter103AMoonlitPlateForT
   story: "story-read/system-girl-system-mc-world-hopping-comedy",
   ownLength: 2127,
   prose: "txt",
+  createdAt: "2026-09-12T20:03:55.202Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

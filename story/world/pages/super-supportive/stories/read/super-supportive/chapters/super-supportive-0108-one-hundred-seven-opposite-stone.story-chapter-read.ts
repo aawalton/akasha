@@ -20,4 +20,6 @@ export const superSupportive0108OneHundredSevenOppositeStone = {
   ],
   publishedAt: "2024-01-11",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.193Z",
+  updatedAt: "2026-09-28T20:27:31.000Z",
 } as const satisfies StoryChapterRead

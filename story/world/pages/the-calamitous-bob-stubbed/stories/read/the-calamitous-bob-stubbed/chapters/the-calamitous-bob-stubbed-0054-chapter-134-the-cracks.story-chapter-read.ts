@@ -21,4 +21,6 @@ export const theCalamitousBobStubbed0054Chapter134TheCracks = {
   ownProgress: 4948,
   completedAt: "2026-06-29T21:16:36.881Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.439Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

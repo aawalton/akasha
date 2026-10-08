@@ -20,4 +20,6 @@ export const superSupportive0104OneHundredThreeArtonanConversations = {
   ],
   publishedAt: "2023-12-24",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.185Z",
+  updatedAt: "2026-09-28T20:27:31.000Z",
 } as const satisfies StoryChapterRead

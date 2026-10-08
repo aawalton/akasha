@@ -21,4 +21,6 @@ export const theLegendOfRandidlyGhosthound0130Chapter1865 = {
   ownProgress: 2002,
   completedAt: "2026-06-29T22:06:07.854Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.094Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

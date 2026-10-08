@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0084Chapter382NoTimeForRestBook6 = {
   ],
   publishedAt: "2026-05-22",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.113Z",
+  updatedAt: "2026-09-28T20:27:35.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const theGiftOfLoot0074Chapter74ProblemChildOnTheLoose = {
   ],
   publishedAt: "2026-08-28",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.332Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

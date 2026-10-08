@@ -19,4 +19,6 @@ export const theGiftOfLoot0081Chapter81DownIntoHell = {
   story: "story-read/the-gift-of-loot",
   ownLength: 2940,
   prose: "txt",
+  createdAt: "2026-09-14T18:03:41.994Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

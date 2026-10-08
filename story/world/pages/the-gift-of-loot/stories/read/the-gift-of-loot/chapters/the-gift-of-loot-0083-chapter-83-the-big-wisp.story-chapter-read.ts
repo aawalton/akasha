@@ -19,4 +19,6 @@ export const theGiftOfLoot0083Chapter83TheBigWisp = {
   story: "story-read/the-gift-of-loot",
   ownLength: 2244,
   prose: "txt",
+  createdAt: "2026-09-18T18:08:16.994Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
