@@ -19,4 +19,6 @@ export const strayCatStrutStubbingNeverLol0781ChapterFiftyFiveHomeBeforeBedtime 
   story: "story-read/stray-cat-strut-stubbing-never-lol",
   ownLength: 1499,
   prose: "txt",
+  createdAt: "2026-09-17T23:04:17.359Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

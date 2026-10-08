@@ -20,4 +20,6 @@ export const superSupportive0002TwoMistakes = {
   ],
   publishedAt: "2023-01-26",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.053Z",
+  updatedAt: "2026-09-28T20:27:30.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const superSupportive0073SeventyTwoMyDaughterIsAnAlienHonorsStudent = {
   ],
   publishedAt: "2023-09-10",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.117Z",
+  updatedAt: "2026-09-28T20:27:31.000Z",
 } as const satisfies StoryChapterRead

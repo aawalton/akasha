@@ -20,4 +20,6 @@ export const superSupportive0066SixtyFiveIntake = {
   ],
   publishedAt: "2023-08-17",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.109Z",
+  updatedAt: "2026-09-28T20:27:31.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const strayCatStrutStubbingNeverLol0780InterludeCrisisModeThree = {
   story: "story-read/stray-cat-strut-stubbing-never-lol",
   ownLength: 1432,
   prose: "txt",
+  createdAt: "2026-09-15T21:07:28.006Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const strayCatStrutStubbingNeverLol0466ChapterFiftyThreeWhoLetTheWormsOut
   ],
   publishedAt: "2023-12-19",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.170Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

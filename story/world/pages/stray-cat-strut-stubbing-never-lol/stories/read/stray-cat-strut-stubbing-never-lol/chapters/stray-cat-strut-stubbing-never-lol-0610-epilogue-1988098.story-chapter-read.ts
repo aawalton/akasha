@@ -19,4 +19,6 @@ export const strayCatStrutStubbingNeverLol0610Epilogue1988098 = {
   ],
   publishedAt: "2025-01-02",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.290Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

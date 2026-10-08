@@ -19,4 +19,6 @@ export const succulentGirlEvolution0019Chapter19NotALeader = {
   ],
   publishedAt: "2025-09-06",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.058Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

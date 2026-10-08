@@ -21,4 +21,6 @@ export const speedrunningTheMultiverseComplete0011256TheGodhunterViii = {
   ownProgress: 1826,
   completedAt: "2026-06-29T22:42:02.276Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.048Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

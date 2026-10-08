@@ -21,4 +21,6 @@ export const speedrunningTheMultiverseComplete0036280TheGoddessOfLightVii = {
   ownProgress: 1744,
   completedAt: "2026-06-29T22:42:54.411Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.050Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

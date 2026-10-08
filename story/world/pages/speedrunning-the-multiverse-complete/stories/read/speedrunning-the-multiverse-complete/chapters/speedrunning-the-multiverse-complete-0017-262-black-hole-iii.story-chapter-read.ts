@@ -21,4 +21,6 @@ export const speedrunningTheMultiverseComplete0017262BlackHoleIii = {
   ownProgress: 1654,
   completedAt: "2026-06-29T22:42:15.256Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.048Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

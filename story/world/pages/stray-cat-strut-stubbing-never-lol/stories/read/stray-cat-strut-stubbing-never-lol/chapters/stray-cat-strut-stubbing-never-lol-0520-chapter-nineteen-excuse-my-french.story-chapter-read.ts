@@ -19,4 +19,6 @@ export const strayCatStrutStubbingNeverLol0520ChapterNineteenExcuseMyFrench = {
   ],
   publishedAt: "2024-04-25",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.222Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

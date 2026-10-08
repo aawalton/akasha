@@ -20,4 +20,6 @@ export const superSupportive0061SixtyMotherPt2 = {
   ],
   publishedAt: "2023-08-06",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.103Z",
+  updatedAt: "2026-09-28T20:27:31.000Z",
 } as const satisfies StoryChapterRead

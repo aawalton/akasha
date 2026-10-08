@@ -19,4 +19,6 @@ export const strayCatStrutStubbingNeverLol0325ChapterElevenIronSpines = {
   ],
   publishedAt: "2022-10-12",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.102Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

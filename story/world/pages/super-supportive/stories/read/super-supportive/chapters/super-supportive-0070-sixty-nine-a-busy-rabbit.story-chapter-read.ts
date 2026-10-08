@@ -20,4 +20,6 @@ export const superSupportive0070SixtyNineABusyRabbit = {
   ],
   publishedAt: "2023-08-30",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.113Z",
+  updatedAt: "2026-09-28T20:27:31.000Z",
 } as const satisfies StoryChapterRead

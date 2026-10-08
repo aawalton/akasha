@@ -20,4 +20,6 @@ export const superSupportive0054FiftyFourFarther = {
   ],
   publishedAt: "2023-07-16",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.098Z",
+  updatedAt: "2026-09-28T20:27:31.000Z",
 } as const satisfies StoryChapterRead
