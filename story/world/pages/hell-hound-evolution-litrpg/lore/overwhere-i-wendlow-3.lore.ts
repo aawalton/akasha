@@ -9,6 +9,22 @@ export const overwhereIWendlow3 = {
   about: "place/overwhere-i-wendlow",
   facts: [
     {
+      fact: "The Weir Wyrm is a Level 18 river serpent; Grete knows no more of it than bargemen's tales.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
+    },
+    {
+      fact: "Grete writes Nala's name in the roll ledger beside the date and her level.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-grete-holm",
+      ],
+    },
+    {
       fact: "Grete counts an 80-pound wyrm head too big to carry; she pays the Weir Wyrm's bounty on its fangs.",
       knowers: [
         "lore-disclosure/game-master",
@@ -198,5 +214,5 @@ export const overwhereIWendlow3 = {
     },
   ],
   createdAt: "2026-10-03T12:48:30.527Z",
-  updatedAt: "2026-10-04T13:43:55.000Z",
+  updatedAt: "2026-10-08T16:25:46.249Z",
 } as const satisfies Lore
