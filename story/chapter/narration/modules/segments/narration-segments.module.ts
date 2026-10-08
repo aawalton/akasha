@@ -92,11 +92,7 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A word broken off before its first vowel is said with an added uh.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A sound with no vowel, such as a hum or a hush, is said as written.",
+      statement: "A word written as a sound is handed on as the sound it means.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -108,6 +104,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-08T19:01:01.332Z",
+  updatedAt: "2026-10-08T19:07:44.817Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module

@@ -3823,6 +3823,7 @@
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/recovery/narration-recovery.module.ts","id":"01a111c2-21eb-76e4-8f9a-4d8209ace7cd"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/report/narration-report.module.ts","id":"01a113fa-3d0d-7449-b997-fe9546f82d11"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/segments/narration-segments.module.ts","id":"01a10dc1-6462-7fc5-8567-7b9132654b76"}
+{"propertySlug":"decision-kind","path":"story/chapter/narration/modules/sounds/narration-sounds.module.ts","id":"01a11cea-1332-7817-9b4d-a4c43716a0cd"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/telling/narration-telling.module.ts","id":"01a10dc7-ce6c-7342-9c2f-af0d90fb646a"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/window-speaking/window-speaking.module.ts","id":"01a10dbf-2e7b-7bee-aa86-18cca7f7eead"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/narration.domain.ts","id":"01a10dba-92d8-79bd-b65d-435b1af749d5"}

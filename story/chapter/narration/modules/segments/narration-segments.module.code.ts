@@ -1,3 +1,4 @@
+import { soundedOf } from "akasha/story/chapter/narration/modules/sounds/narration-sounds.module.code.ts"
 import {
   spokenScreen,
   spokenWindow,
@@ -103,33 +104,6 @@ const ABBREVIATIONS: ReadonlySet<string> = new Set([
   "approx",
 ])
 
-const BROKEN_OFF =
-  /(?<![\p{L}\p{N}'’])([bcdfghjklmnpqrstvwxz]{1,4})(?=\s*(?:[—–]|-(?!\p{L})|…|\.{2,}))/giu
-const SAID_WHOLE: ReadonlySet<string> = new Set([
-  "br",
-  "gr",
-  "hm",
-  "hmph",
-  "hrm",
-  "m",
-  "mhm",
-  "n",
-  "ngh",
-  "nh",
-  "pft",
-  "pst",
-  "sh",
-  "tch",
-  "tsk",
-  "z",
-])
-const LETTER_RUN = /(\p{L})\1+/gu
-
-function brokenOff(fragment: string): string {
-  const said = fragment.toLowerCase().replace(LETTER_RUN, "$1")
-  return SAID_WHOLE.has(said) ? fragment : `${fragment}uh`
-}
-
 const PATTERN_MARK = /[.*+?^${}()|[\]\\]/g
 const SUFFIX = "(?:['’]s|s['’]|es|s|ed|ing)?"
 const VOICELESS_END = /[ptkfθ]$/u
@@ -188,7 +162,7 @@ function entityOf(whole: string, decimal?: string, hex?: string, name?: string):
 }
 
 function plainOf(line: string): string {
-  return line
+  const marked = line
     .replace(INVISIBLE, "")
     .replace(ENTITY, entityOf)
     .replace(IMAGE, "")
@@ -201,7 +175,7 @@ function plainOf(line: string): string {
     .replace(STRONG, "$2")
     .replace(EMPHASIS, "$1$3")
     .replace(MARKS, "")
-    .replace(BROKEN_OFF, brokenOff)
+  return soundedOf(marked)
     .replace(ORNAMENT, " ")
     .replace(DASH_RUN, ", ")
     .replace(GLUED_ELLIPSIS, "$1 ")
