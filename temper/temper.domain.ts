@@ -59,5 +59,9 @@ export const temper = {
       decisionKind: "decision-kind/departure",
       statement: "Writing a reading into akasha is a landing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan values a permanent unlock above gold.",
+    },
   ],
 } as const satisfies Domain
