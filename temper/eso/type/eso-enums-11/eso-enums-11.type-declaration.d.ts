@@ -90,6 +90,10 @@ declare const QUEST_CONDITION_TYPE_UNEARTH_ANTIQUITY: number
 declare const QUEST_CONDITION_TYPE_USE_EMOTE: number
 declare const QUEST_CONDITION_TYPE_USE_QUEST_ITEM: number
 declare const QUEST_CONDITION_TYPE_VENDOR_GOLD_TRANSACTION: number
+type QuestPinPositionSymbolicState = number
+declare const QUEST_PIN_STATE_HAS_ADDITIONAL_SYMBOLIC_POSITION: number
+declare const QUEST_PIN_STATE_IS_SYMBOLIC_POSITION: number
+declare const QUEST_PIN_STATE_NONE: number
 type QuestRepeatableType = number
 declare const QUEST_REPEAT_DAILY: number
 declare const QUEST_REPEAT_EVENT_RESET: number

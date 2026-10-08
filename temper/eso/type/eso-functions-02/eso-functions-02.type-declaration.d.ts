@@ -74,6 +74,12 @@ declare function GetJournalQuestNumConditions(
   journalQuestIndex?: number,
   stepIndex?: number
 ): number
+declare function RequestJournalQuestConditionAssistance(
+  this: void,
+  journalQuestIndex?: number,
+  stepIndex?: number,
+  conditionIndex?: number
+): number | undefined
 declare function GetJournalQuestNumSteps(this: void, journalQuestIndex?: number): number
 declare function GetQuestToolCount(this: void, journalQuestIndex?: number): number
 declare const EndInteraction: (this: void, interactionType?: number) => void

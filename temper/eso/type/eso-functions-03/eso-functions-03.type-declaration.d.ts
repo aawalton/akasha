@@ -128,6 +128,7 @@ declare function GetQuestToolInfo(
 >
 declare function GetQuestItemTooltipText(this: void, questItemId?: number): string
 declare function GetQuestItemIcon(this: void, questItemId?: number): string
+declare const CancelRequestJournalQuestConditionAssistance: (this: void, taskId?: number) => void
 declare function HasQuest(this: void, questId?: number): boolean
 declare function HasCompletedQuest(this: void, questId?: number): boolean
 declare function GetQuestType(this: void, questId?: number): QuestType

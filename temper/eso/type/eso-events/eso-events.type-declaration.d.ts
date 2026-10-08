@@ -160,6 +160,7 @@ declare const EVENT_QUEST_CONDITION_COUNTER_CHANGED: number
 declare const EVENT_QUEST_CONDITION_OVERRIDE_TEXT_CHANGED: number
 declare const EVENT_QUEST_LIST_UPDATED: number
 declare const EVENT_QUEST_OFFERED: number
+declare const EVENT_QUEST_POSITION_REQUEST_COMPLETE: number
 declare const EVENT_QUEST_REMOVED: number
 declare const EVENT_QUEST_SHARED: number
 declare const EVENT_RAID_LEADERBOARD_DATA_RECEIVED: number

@@ -120,11 +120,16 @@ declare function GetFastTravelNodePOIIndicies(
   this: void,
   nodeIndex?: number
 ): LuaMultiReturn<[zoneIndex: number, poiIndex: number]>
+declare function GetFastTravelNodeOutboundOnlyInfo(
+  this: void,
+  nodeIndex?: number
+): LuaMultiReturn<[isOutboundOnly: boolean, errorStringId: number]>
 declare function GetFastTravelNodeHouseId(this: void, nodeIndex?: number): number
 declare function GetFastTravelNodeMapPriority(this: void, nodeIndex?: number): number | undefined
 declare function IsFastTravelNodeAutoDiscovered(this: void, nodeIndex?: number): boolean
 declare const FastTravelToNode: (this: void, nodeIndex?: number) => void
 declare function GetRecallCost(this: void, nodeIndex?: number): number
+declare function GetRecallCooldown(this: void): LuaMultiReturn<[remain: number, duration: number]>
 declare function GetCurrentBattlegroundId(this: void): number
 declare function GetCurrentCampaignId(this: void): number
 declare function GetCampaignName(this: void, campaignId?: number): string
