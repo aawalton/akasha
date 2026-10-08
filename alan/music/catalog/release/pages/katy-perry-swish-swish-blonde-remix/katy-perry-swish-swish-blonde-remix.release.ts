@@ -19,4 +19,6 @@ export const katyPerrySwishSwishBlondeRemix = {
       externalLink: "https://open.spotify.com/album/6ble6YnRhxaCaQmeYjaHNJ",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.283Z",
+  updatedAt: "2026-09-15T16:37:27.000Z",
 } as const satisfies Release

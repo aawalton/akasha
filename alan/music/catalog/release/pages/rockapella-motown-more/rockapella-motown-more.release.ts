@@ -19,4 +19,6 @@ export const rockapellaMotownMore = {
       externalLink: "https://open.spotify.com/album/4zGjOIzSS64HrZ5Kqy3WGE",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.277Z",
+  updatedAt: "2026-09-24T21:00:29.000Z",
 } as const satisfies Release

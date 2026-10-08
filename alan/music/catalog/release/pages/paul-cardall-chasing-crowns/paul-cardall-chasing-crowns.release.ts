@@ -20,4 +20,6 @@ export const paulCardallChasingCrowns = {
     },
   ],
   title: "Chasing Crowns",
+  createdAt: "2026-09-18T13:50:09.510Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

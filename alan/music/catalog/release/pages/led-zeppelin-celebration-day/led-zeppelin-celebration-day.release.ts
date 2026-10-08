@@ -19,4 +19,6 @@ export const ledZeppelinCelebrationDay = {
       externalLink: "https://open.spotify.com/album/0kTe1sQd9yhDsdG2Zth7X6",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.266Z",
+  updatedAt: "2026-09-15T16:37:27.000Z",
 } as const satisfies Release

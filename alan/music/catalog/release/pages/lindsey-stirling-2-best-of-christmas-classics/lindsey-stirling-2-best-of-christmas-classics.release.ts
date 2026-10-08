@@ -19,4 +19,6 @@ export const lindseyStirling2BestOfChristmasClassics = {
       externalLink: "https://open.spotify.com/album/36ryPypXv6fd4peLrA8zso",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.264Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

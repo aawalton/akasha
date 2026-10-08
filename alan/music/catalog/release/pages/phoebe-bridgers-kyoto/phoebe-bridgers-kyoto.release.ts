@@ -19,4 +19,6 @@ export const phoebeBridgersKyoto = {
       externalLink: "https://open.spotify.com/album/7IgYjX0xQMqWEBwIjF8vjM",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

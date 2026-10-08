@@ -19,4 +19,6 @@ export const lindseyStirling2LivingRoomSessions = {
       externalLink: "https://open.spotify.com/album/4Sf9njqSZDhlmOnU14ZQTF",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

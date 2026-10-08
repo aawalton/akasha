@@ -19,4 +19,6 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
     },
   ],
   title: "KPop Demon Hunters (Soundtrack from the Netflix Film / Deluxe Version)",
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-22T14:00:43.000Z",
 } as const satisfies Release

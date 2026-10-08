@@ -19,4 +19,6 @@ export const nickelCreek2ADottedLine = {
     },
   ],
   title: "A Dotted Line",
+  createdAt: "2026-09-03T13:17:30.261Z",
+  updatedAt: "2026-09-22T20:00:29.000Z",
 } as const satisfies Release

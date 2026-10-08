@@ -19,4 +19,6 @@ export const metallicaSomeKindOfMonsterLive = {
       externalLink: "https://open.spotify.com/album/3A0FTyAAcjgfhPibPsuVSc",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

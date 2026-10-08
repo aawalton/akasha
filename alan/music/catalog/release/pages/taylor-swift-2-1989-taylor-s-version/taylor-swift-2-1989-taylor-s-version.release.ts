@@ -19,4 +19,6 @@ export const taylorSwift21989TaylorSVersion = {
     },
   ],
   title: "1989 (Taylor's Version)",
+  createdAt: "2026-09-03T13:17:30.260Z",
+  updatedAt: "2026-09-23T14:01:20.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const linkinParkTheHuntingPartyAcapellasInstrumentals = {
       externalLink: "https://open.spotify.com/album/6hU9JCoqq4GjYq86dQ1o9b",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.285Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

@@ -20,4 +20,6 @@ export const paulCardall40HymnsForGuitar = {
     },
   ],
   title: "40 Hymns for Guitar",
+  createdAt: "2026-09-18T13:50:07.437Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

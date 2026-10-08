@@ -19,4 +19,6 @@ export const pentatonixWhenYouBelieveBlackStereoFaithUndergroundMix = {
       externalLink: "https://open.spotify.com/album/79I4RXQcl8po9x4IRngzqR",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.289Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

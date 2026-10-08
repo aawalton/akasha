@@ -19,4 +19,6 @@ export const rockapellaJamsVol2 = {
       externalLink: "https://open.spotify.com/album/6uOuhfI0ccods61CiF1Qxq",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-24T21:00:29.000Z",
 } as const satisfies Release

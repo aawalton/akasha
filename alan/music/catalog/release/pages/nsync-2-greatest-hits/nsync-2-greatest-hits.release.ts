@@ -19,4 +19,6 @@ export const nsync2GreatestHits = {
       externalLink: "https://open.spotify.com/album/45gbCmUeq5ZMgXiDkPweRD",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.271Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

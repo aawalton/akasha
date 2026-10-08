@@ -19,4 +19,6 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
     },
   ],
   title: "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+  createdAt: "2026-09-03T13:17:30.270Z",
+  updatedAt: "2026-09-23T14:01:20.000Z",
 } as const satisfies Release

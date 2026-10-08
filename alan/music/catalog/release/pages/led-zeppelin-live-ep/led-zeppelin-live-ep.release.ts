@@ -19,4 +19,6 @@ export const ledZeppelinLiveEp = {
       externalLink: "https://open.spotify.com/album/6PqoCDu8nTLw3p49WAIfY8",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:37:27.000Z",
 } as const satisfies Release

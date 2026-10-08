@@ -19,4 +19,6 @@ export const nsync2Nsync = {
       externalLink: "https://open.spotify.com/album/0VoP8GVV2gfajU8IyocdRo",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.278Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

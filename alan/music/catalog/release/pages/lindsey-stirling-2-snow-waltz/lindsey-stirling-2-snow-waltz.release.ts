@@ -19,4 +19,6 @@ export const lindseyStirling2SnowWaltz = {
       externalLink: "https://open.spotify.com/album/1VggmVcQEgVtLmNYWCrdGI",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

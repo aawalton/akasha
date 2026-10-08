@@ -19,4 +19,6 @@ export const metallicaMetallicaThroughTheNeverMusicFromTheMotionPicture = {
       externalLink: "https://open.spotify.com/album/72grIwGP38Iy2S1jxt1Gjd",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.276Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

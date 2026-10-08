@@ -20,4 +20,6 @@ export const phoebeBridgersThatFunnyFeeling = {
       externalLink: "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.284Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Release

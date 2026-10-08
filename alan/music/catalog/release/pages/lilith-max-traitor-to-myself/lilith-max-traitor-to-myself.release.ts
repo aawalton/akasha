@@ -20,4 +20,6 @@ export const lilithMaxTraitorToMyself = {
     },
   ],
   title: "Traitor To Myself",
+  createdAt: "2026-09-22T13:46:14.566Z",
+  updatedAt: "2026-09-22T14:00:43.000Z",
 } as const satisfies Release

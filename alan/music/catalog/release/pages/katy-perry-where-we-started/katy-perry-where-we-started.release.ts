@@ -19,4 +19,6 @@ export const katyPerryWhereWeStarted = {
       externalLink: "https://open.spotify.com/album/6AkWdIHq1og7xa6dLrzHeQ",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.289Z",
+  updatedAt: "2026-09-15T16:37:27.000Z",
 } as const satisfies Release

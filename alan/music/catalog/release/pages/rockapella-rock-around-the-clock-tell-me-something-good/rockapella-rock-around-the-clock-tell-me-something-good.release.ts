@@ -19,4 +19,6 @@ export const rockapellaRockAroundTheClockTellMeSomethingGood = {
       externalLink: "https://open.spotify.com/album/1sLoy1MRJTRjsAdIF6duAW",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.280Z",
+  updatedAt: "2026-09-24T21:00:29.000Z",
 } as const satisfies Release

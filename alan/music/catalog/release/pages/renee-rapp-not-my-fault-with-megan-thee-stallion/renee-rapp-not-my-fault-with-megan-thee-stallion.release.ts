@@ -20,4 +20,6 @@ export const reneeRappNotMyFaultWithMeganTheeStallion = {
     },
   ],
   title: "Not My Fault (with Megan Thee Stallion)",
+  createdAt: "2026-09-03T13:17:30.277Z",
+  updatedAt: "2026-09-22T20:00:29.000Z",
 } as const satisfies Release

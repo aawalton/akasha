@@ -20,4 +20,6 @@ export const sabrinaCarpenterBringYourLove = {
     },
   ],
   title: "Bring Your Love",
+  createdAt: "2026-09-17T20:31:23.376Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

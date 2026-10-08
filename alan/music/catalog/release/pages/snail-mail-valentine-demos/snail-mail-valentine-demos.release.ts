@@ -19,4 +19,6 @@ export const snailMailValentineDemos = {
       externalLink: "https://open.spotify.com/album/2rppdlwdpcz5FUUK14rvjW",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.287Z",
+  updatedAt: "2026-09-15T16:39:19.000Z",
 } as const satisfies Release

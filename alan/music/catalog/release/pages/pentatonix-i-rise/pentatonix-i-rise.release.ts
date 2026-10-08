@@ -19,4 +19,6 @@ export const pentatonixIRise = {
       externalLink: "https://open.spotify.com/album/2N3GoTPzZ81DIIujoxCYYP",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.273Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

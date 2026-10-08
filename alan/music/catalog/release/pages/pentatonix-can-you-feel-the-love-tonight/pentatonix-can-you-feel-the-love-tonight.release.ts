@@ -19,4 +19,6 @@ export const pentatonixCanYouFeelTheLoveTonight = {
       externalLink: "https://open.spotify.com/album/06poQ7idFBLVrOIi18JlKo",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.265Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

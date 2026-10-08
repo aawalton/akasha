@@ -19,4 +19,6 @@ export const pentatonixDancingOnMyOwnRobynCover = {
       externalLink: "https://open.spotify.com/album/3seQEEdIpwRzqntrQfnzM2",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.267Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

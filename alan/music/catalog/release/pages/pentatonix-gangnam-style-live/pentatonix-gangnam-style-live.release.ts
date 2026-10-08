@@ -19,4 +19,6 @@ export const pentatonixGangnamStyleLive = {
       externalLink: "https://open.spotify.com/album/3H3pn3fWzek2YkRHGl50xP",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.270Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

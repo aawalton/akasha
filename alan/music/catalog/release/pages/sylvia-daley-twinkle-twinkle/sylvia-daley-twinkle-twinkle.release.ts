@@ -20,4 +20,6 @@ export const sylviaDaleyTwinkleTwinkle = {
     },
   ],
   title: "Twinkle Twinkle",
+  createdAt: "2026-09-15T20:30:19.990Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

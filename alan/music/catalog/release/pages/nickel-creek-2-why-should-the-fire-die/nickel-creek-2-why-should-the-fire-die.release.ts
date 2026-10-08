@@ -19,4 +19,6 @@ export const nickelCreek2WhyShouldTheFireDie = {
     },
   ],
   title: "Why Should The Fire Die?",
+  createdAt: "2026-09-03T13:17:30.289Z",
+  updatedAt: "2026-09-22T20:00:29.000Z",
 } as const satisfies Release

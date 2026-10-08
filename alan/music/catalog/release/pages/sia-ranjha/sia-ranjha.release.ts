@@ -20,4 +20,6 @@ export const siaRanjha = {
     },
   ],
   title: "Ranjha",
+  createdAt: "2026-09-15T15:07:35.980Z",
+  updatedAt: "2026-09-15T16:39:19.000Z",
 } as const satisfies Release

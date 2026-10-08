@@ -19,4 +19,6 @@ export const metallicaAndJusticeForAllRemasteredDeluxeBoxSet = {
       externalLink: "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.263Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

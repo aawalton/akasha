@@ -19,4 +19,6 @@ export const pentatonixLittleDrummerBoyLemaXSaviRemix = {
       externalLink: "https://open.spotify.com/album/5rVwzVWmqQLPMic0iQcpq6",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

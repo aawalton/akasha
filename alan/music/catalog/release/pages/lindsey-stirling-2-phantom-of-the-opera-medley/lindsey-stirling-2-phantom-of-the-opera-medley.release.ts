@@ -19,4 +19,6 @@ export const lindseyStirling2PhantomOfTheOperaMedley = {
       externalLink: "https://open.spotify.com/album/7H4ZBPKN3C0fLl00V9v2yi",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.278Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

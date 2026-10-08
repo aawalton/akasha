@@ -20,4 +20,6 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersion = {
     },
   ],
   title: "Man’s Best Friend (Bonus Track Version)",
+  createdAt: "2026-09-17T20:31:22.735Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

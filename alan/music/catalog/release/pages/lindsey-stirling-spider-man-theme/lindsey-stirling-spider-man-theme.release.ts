@@ -20,4 +20,6 @@ export const lindseyStirlingSpiderManTheme = {
     },
   ],
   title: "Spider-Man Theme",
+  createdAt: "2026-09-15T14:45:33.474Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

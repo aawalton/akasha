@@ -19,4 +19,6 @@ export const katyPerrySmileMarshallJeffersonRemix = {
       externalLink: "https://open.spotify.com/album/0lI87XMzeWPajplpYCVHzl",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-15T16:37:27.000Z",
 } as const satisfies Release

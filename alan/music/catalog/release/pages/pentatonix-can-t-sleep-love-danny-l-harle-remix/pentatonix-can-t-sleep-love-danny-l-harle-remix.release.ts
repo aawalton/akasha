@@ -19,4 +19,6 @@ export const pentatonixCanTSleepLoveDannyLHarleRemix = {
       externalLink: "https://open.spotify.com/album/73shpBomHwCRwLworpdGK0",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.265Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

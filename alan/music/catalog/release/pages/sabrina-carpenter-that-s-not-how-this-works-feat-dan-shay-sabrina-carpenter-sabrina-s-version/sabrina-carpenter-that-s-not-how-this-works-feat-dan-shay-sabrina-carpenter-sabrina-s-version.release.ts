@@ -20,4 +20,6 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
     },
   ],
   title: "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina’s Version]",
+  createdAt: "2026-09-03T13:17:30.284Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

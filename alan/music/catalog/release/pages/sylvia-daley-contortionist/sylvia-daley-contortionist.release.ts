@@ -20,4 +20,6 @@ export const sylviaDaleyContortionist = {
     },
   ],
   title: "Contortionist",
+  createdAt: "2026-09-15T20:30:20.061Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

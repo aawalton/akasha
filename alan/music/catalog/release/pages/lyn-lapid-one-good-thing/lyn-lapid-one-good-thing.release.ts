@@ -20,4 +20,6 @@ export const lynLapidOneGoodThing = {
     },
   ],
   title: "one good thing",
+  createdAt: "2026-09-22T13:46:59.488Z",
+  updatedAt: "2026-09-22T14:00:43.000Z",
 } as const satisfies Release

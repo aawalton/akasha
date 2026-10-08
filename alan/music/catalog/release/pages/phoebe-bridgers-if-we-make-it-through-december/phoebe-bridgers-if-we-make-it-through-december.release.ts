@@ -19,4 +19,6 @@ export const phoebeBridgersIfWeMakeItThroughDecember = {
       externalLink: "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.273Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

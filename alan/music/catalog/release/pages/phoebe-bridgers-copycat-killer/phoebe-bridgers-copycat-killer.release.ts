@@ -19,4 +19,6 @@ export const phoebeBridgersCopycatKiller = {
       externalLink: "https://open.spotify.com/album/7EnKDhVbHYKWOjTSQOjpRT",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.267Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

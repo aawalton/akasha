@@ -19,4 +19,6 @@ export const snailMailThe2ndMostBeautifulGirlInTheWorld = {
       externalLink: "https://open.spotify.com/album/4YixIuvYEJY1bKBFcCRzgN",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.284Z",
+  updatedAt: "2026-09-15T16:39:19.000Z",
 } as const satisfies Release

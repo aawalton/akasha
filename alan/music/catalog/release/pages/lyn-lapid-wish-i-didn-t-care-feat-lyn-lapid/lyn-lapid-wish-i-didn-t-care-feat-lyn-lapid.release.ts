@@ -20,4 +20,6 @@ export const lynLapidWishIDidnTCareFeatLynLapid = {
     },
   ],
   title: "Wish I Didn't Care (feat. Lyn Lapid)",
+  createdAt: "2026-09-03T13:17:30.289Z",
+  updatedAt: "2026-09-22T14:00:43.000Z",
 } as const satisfies Release

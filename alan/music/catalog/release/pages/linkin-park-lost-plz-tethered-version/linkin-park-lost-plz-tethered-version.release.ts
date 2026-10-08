@@ -19,4 +19,6 @@ export const linkinParkLostPlzTetheredVersion = {
       externalLink: "https://open.spotify.com/album/30LrTt6t4su1DMqI5dTjyv",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

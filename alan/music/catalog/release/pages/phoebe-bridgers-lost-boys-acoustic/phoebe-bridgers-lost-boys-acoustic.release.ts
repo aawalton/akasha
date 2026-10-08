@@ -20,4 +20,6 @@ export const phoebeBridgersLostBoysAcoustic = {
     },
   ],
   title: "Lost Boys (Acoustic)",
+  createdAt: "2026-09-14T20:25:12.702Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

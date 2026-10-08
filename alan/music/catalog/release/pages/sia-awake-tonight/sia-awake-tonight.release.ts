@@ -20,4 +20,6 @@ export const siaAwakeTonight = {
     },
   ],
   title: "Awake Tonight",
+  createdAt: "2026-09-15T15:07:35.906Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

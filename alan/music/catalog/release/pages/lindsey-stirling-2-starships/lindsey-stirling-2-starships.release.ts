@@ -19,4 +19,6 @@ export const lindseyStirling2Starships = {
       externalLink: "https://open.spotify.com/album/0J38d1zujCeFnJzncr3iUd",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.282Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

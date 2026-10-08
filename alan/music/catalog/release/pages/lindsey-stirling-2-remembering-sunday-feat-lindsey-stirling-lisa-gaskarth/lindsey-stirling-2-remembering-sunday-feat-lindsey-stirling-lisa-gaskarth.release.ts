@@ -19,4 +19,6 @@ export const lindseyStirling2RememberingSundayFeatLindseyStirlingLisaGaskarth = 
       externalLink: "https://open.spotify.com/album/4EC0cHXv6CRav7DOaO2ky1",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.279Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

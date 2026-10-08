@@ -20,4 +20,6 @@ export const phoebeBridgersLostBoys = {
     },
   ],
   title: "Lost Boys",
+  createdAt: "2026-09-14T20:25:12.735Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

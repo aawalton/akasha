@@ -21,4 +21,6 @@ export const lynLapidTheSimlishSong = {
     },
   ],
   title: "the simlish song",
+  createdAt: "2026-09-03T13:17:30.286Z",
+  updatedAt: "2026-09-22T14:00:43.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const ledZeppelinPresenceRemaster = {
       externalLink: "https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.279Z",
+  updatedAt: "2026-09-15T16:37:27.000Z",
 } as const satisfies Release

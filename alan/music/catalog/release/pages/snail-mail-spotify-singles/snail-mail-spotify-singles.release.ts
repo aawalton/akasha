@@ -19,4 +19,6 @@ export const snailMailSpotifySingles = {
       externalLink: "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.282Z",
+  updatedAt: "2026-09-15T16:39:19.000Z",
 } as const satisfies Release

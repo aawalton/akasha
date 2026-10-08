@@ -19,4 +19,6 @@ export const metallicaLoadRemastered = {
       externalLink: "https://open.spotify.com/album/2V0L7LHTSvlv5aaOCqILvP",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

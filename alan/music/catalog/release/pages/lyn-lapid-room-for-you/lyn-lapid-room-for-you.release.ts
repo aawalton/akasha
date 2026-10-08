@@ -20,4 +20,6 @@ export const lynLapidRoomForYou = {
     },
   ],
   title: "Room For You",
+  createdAt: "2026-09-03T13:17:30.280Z",
+  updatedAt: "2026-09-22T14:00:43.000Z",
 } as const satisfies Release

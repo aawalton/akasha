@@ -19,4 +19,6 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCountryClubMartiniCrew
       externalLink: "https://open.spotify.com/album/0WY9crJYAFT22zwx9LL5Az",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.274Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

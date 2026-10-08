@@ -19,4 +19,6 @@ export const paulCardallPachelbelSCanonInD = {
       externalLink: "https://open.spotify.com/album/1N0GqM12n5Q6UReBGABubZ",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.278Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

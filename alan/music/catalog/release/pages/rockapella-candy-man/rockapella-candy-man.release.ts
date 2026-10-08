@@ -19,4 +19,6 @@ export const rockapellaCandyMan = {
       externalLink: "https://open.spotify.com/album/4CuC17SpqvkUr8zO7bD0kc",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.265Z",
+  updatedAt: "2026-09-24T21:00:29.000Z",
 } as const satisfies Release

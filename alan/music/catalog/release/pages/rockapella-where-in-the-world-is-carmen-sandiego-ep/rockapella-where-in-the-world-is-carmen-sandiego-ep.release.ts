@@ -19,4 +19,6 @@ export const rockapellaWhereInTheWorldIsCarmenSandiegoEp = {
       externalLink: "https://open.spotify.com/album/6GbGSJdKJhhBKeHjlebt2j",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.289Z",
+  updatedAt: "2026-09-24T21:00:29.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const metallicaTheMetallicaBlacklist = {
       externalLink: "https://open.spotify.com/album/73pUIoNvoi8m51Vg97CAKX",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.285Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

@@ -20,4 +20,6 @@ export const rockapellaDonTTellMeYouDo = {
       externalLink: "https://open.spotify.com/album/0VLJJkdpnVMuTLxnqwhuue",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-24T21:00:29.000Z",
 } as const satisfies Release

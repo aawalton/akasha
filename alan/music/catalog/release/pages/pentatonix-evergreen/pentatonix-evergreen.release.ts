@@ -19,4 +19,6 @@ export const pentatonixEvergreen = {
       externalLink: "https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.269Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const pentatonixPleaseSantaPlease = {
       externalLink: "https://open.spotify.com/album/4ERnwq2BFXL3tcq0LAhXj7",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.278Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

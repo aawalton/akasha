@@ -19,4 +19,6 @@ export const pentatonixTheLuckyOnes2 = {
       externalLink: "https://open.spotify.com/album/6doKrVnhuZB7ajkdvCDvyC",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.285Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

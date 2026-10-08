@@ -19,4 +19,6 @@ export const pentatonixBeMyEyes = {
       externalLink: "https://open.spotify.com/album/6Sa0akcBToQpENN4FY6SzQ",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.264Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

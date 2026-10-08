@@ -19,4 +19,6 @@ export const snailMailSnailMailOnAudiotreeLive = {
       externalLink: "https://open.spotify.com/album/0ItjJEW5I7DaUQC0ktMVcl",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-15T16:39:19.000Z",
 } as const satisfies Release

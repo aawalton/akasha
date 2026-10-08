@@ -19,4 +19,6 @@ export const phoebeBridgersSpotifySingles = {
       externalLink: "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.282Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

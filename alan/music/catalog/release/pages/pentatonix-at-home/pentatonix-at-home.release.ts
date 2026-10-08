@@ -19,4 +19,6 @@ export const pentatonixAtHome = {
       externalLink: "https://open.spotify.com/album/1dprzJcVnHpH6PPUNs8O7k",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.263Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

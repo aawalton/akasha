@@ -20,4 +20,6 @@ export const sylviaDaleyMakeFriends = {
     },
   ],
   title: "Make Friends",
+  createdAt: "2026-09-15T20:30:19.905Z",
+  updatedAt: "2026-09-21T16:45:29.000Z",
 } as const satisfies Release

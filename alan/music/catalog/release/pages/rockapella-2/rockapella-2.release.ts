@@ -19,4 +19,6 @@ export const rockapella2 = {
       externalLink: "https://open.spotify.com/album/7nHrVjQPlmyq0yhpfhuUBU",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.260Z",
+  updatedAt: "2026-09-24T21:00:29.000Z",
 } as const satisfies Release

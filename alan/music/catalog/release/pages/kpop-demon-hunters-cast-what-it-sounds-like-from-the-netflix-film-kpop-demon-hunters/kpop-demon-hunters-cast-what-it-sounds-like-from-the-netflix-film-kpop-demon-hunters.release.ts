@@ -19,4 +19,6 @@ export const kpopDemonHuntersCastWhatItSoundsLikeFromTheNetflixFilmKpopDemonHunt
     },
   ],
   title: "What It Sounds Like (from the Netflix film KPop Demon Hunters)",
+  createdAt: "2026-09-03T13:17:30.288Z",
+  updatedAt: "2026-09-22T14:00:43.000Z",
 } as const satisfies Release

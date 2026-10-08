@@ -19,4 +19,6 @@ export const ledZeppelinHousesOfTheHolyDeluxeEdition = {
       externalLink: "https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.272Z",
+  updatedAt: "2026-09-15T16:37:27.000Z",
 } as const satisfies Release

@@ -20,4 +20,6 @@ export const paulCardallFocusStudyWithPeacefulPianoMusicRemastered2025 = {
       lastSyncedAt: "2026-01-29",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.270Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

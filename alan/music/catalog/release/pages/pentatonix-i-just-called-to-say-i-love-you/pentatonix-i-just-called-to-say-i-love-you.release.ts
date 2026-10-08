@@ -19,4 +19,6 @@ export const pentatonixIJustCalledToSayILoveYou = {
       externalLink: "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.273Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

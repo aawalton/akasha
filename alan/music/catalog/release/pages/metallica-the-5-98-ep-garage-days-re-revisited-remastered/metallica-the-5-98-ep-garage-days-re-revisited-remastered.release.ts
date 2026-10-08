@@ -19,4 +19,6 @@ export const metallicaThe598EpGarageDaysReRevisitedRemastered = {
       externalLink: "https://open.spotify.com/album/2ob2V3qqYLyKUrQB5YNm4C",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.284Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

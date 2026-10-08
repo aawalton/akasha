@@ -19,4 +19,6 @@ export const lindseyStirling2NoSavingMeFeatLindseyStirling = {
       externalLink: "https://open.spotify.com/album/02e9F3R2qH6Z5L8gegJnAL",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.277Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

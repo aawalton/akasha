@@ -19,4 +19,6 @@ export const phoebeBridgersWalkingOnAString = {
       externalLink: "https://open.spotify.com/album/0pOJaR7bqllOb7vdoG3ikJ",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.288Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release

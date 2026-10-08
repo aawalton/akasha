@@ -19,4 +19,6 @@ export const linkinParkHybridTheoryBonusEdition = {
       externalLink: "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.272Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

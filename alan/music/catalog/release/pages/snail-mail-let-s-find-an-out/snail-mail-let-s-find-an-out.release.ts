@@ -19,4 +19,6 @@ export const snailMailLetSFindAnOut = {
       externalLink: "https://open.spotify.com/album/4fNK9dogBxTjtYmD8e2NXF",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.275Z",
+  updatedAt: "2026-09-15T16:39:19.000Z",
 } as const satisfies Release

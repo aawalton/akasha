@@ -20,4 +20,6 @@ export const reneeRappSnowAngelDeluxe = {
     },
   ],
   title: "Snow Angel (Deluxe)",
+  createdAt: "2026-09-03T13:17:30.281Z",
+  updatedAt: "2026-09-22T20:00:29.000Z",
 } as const satisfies Release

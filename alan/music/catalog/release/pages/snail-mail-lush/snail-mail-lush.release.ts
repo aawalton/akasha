@@ -19,4 +19,6 @@ export const snailMailLush = {
       externalLink: "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.276Z",
+  updatedAt: "2026-09-15T16:39:19.000Z",
 } as const satisfies Release

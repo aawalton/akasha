@@ -20,4 +20,6 @@ export const reneeRappIThinkILikeYouBetterWhenYouReGone = {
     },
   ],
   title: "I Think I Like You Better When You’re Gone",
+  createdAt: "2026-09-03T13:17:30.273Z",
+  updatedAt: "2026-09-22T20:00:29.000Z",
 } as const satisfies Release

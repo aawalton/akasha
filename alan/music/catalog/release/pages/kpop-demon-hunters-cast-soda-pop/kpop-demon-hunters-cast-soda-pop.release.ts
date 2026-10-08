@@ -20,4 +20,6 @@ export const kpopDemonHuntersCastSodaPop = {
     },
   ],
   title: "Soda Pop",
+  createdAt: "2026-09-22T13:40:05.876Z",
+  updatedAt: "2026-09-22T14:00:43.000Z",
 } as const satisfies Release

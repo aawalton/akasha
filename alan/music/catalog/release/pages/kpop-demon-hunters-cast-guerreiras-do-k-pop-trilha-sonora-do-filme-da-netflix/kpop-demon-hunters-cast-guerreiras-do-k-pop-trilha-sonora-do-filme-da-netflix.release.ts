@@ -20,4 +20,6 @@ export const kpopDemonHuntersCastGuerreirasDoKPopTrilhaSonoraDoFilmeDaNetflix = 
     },
   ],
   title: "Guerreiras do K-Pop (Trilha Sonora do Filme da Netflix)",
+  createdAt: "2026-09-22T13:40:04.383Z",
+  updatedAt: "2026-09-22T14:00:43.000Z",
 } as const satisfies Release

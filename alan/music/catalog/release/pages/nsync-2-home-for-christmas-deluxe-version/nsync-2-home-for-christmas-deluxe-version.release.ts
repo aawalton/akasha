@@ -19,4 +19,6 @@ export const nsync2HomeForChristmasDeluxeVersion = {
       externalLink: "https://open.spotify.com/album/2OkMfIZVXt3ju1eRrKt9W9",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.272Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

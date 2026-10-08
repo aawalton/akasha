@@ -19,4 +19,6 @@ export const lindseyStirling21OriginalOneCover = {
       externalLink: "https://open.spotify.com/album/6W5kZEO4zUyyIQvnsHe3I7",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.260Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

@@ -20,4 +20,6 @@ export const leonardCohenThanksForTheDance = {
       lastSyncedAt: "2025-10-10",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.284Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

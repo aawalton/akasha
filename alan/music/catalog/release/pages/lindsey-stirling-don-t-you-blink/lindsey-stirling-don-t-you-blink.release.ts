@@ -20,4 +20,6 @@ export const lindseyStirlingDonTYouBlink = {
     },
   ],
   title: "Don't You Blink",
+  createdAt: "2026-09-15T14:45:33.049Z",
+  updatedAt: "2026-09-15T16:37:53.000Z",
 } as const satisfies Release

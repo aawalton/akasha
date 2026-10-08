@@ -19,4 +19,6 @@ export const pentatonixDoYouHearWhatIHear2 = {
       externalLink: "https://open.spotify.com/album/2FJVY528PwIOfqDkAn25a4",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-15T16:38:20.000Z",
 } as const satisfies Release

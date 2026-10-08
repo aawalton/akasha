@@ -19,4 +19,6 @@ export const snailMailPristineEdit = {
       externalLink: "https://open.spotify.com/album/1Q6X2j4XGxy1u5D2pehFh5",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.279Z",
+  updatedAt: "2026-09-15T16:39:19.000Z",
 } as const satisfies Release

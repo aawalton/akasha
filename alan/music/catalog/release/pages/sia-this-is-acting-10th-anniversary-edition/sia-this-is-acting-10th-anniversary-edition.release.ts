@@ -20,4 +20,6 @@ export const siaThisIsActing10thAnniversaryEdition = {
       lastSyncedAt: "2026-02-10",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.286Z",
+  updatedAt: "2026-09-15T16:39:19.000Z",
 } as const satisfies Release

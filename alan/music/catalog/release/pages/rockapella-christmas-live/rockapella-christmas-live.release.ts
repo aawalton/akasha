@@ -19,4 +19,6 @@ export const rockapellaChristmasLive = {
       externalLink: "https://open.spotify.com/album/4qq6lk5dA23eAKI7Dut0jV",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.266Z",
+  updatedAt: "2026-09-24T21:00:29.000Z",
 } as const satisfies Release

@@ -20,4 +20,6 @@ export const reneeRappMeanGirlsMusicFromTheMotionPicture = {
     },
   ],
   title: "Mean Girls (Music From The Motion Picture)",
+  createdAt: "2026-09-03T13:17:30.276Z",
+  updatedAt: "2026-09-22T20:00:29.000Z",
 } as const satisfies Release

@@ -19,4 +19,6 @@ export const taylorSwift2DelicateSeebRemix = {
     },
   ],
   title: "Delicate (Seeb Remix)",
+  createdAt: "2026-09-03T13:17:30.268Z",
+  updatedAt: "2026-09-23T14:01:20.000Z",
 } as const satisfies Release

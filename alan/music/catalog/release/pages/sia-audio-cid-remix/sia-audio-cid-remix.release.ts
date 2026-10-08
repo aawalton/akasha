@@ -20,4 +20,6 @@ export const siaAudioCidRemix = {
       lastSyncedAt: "2025-11-27",
     },
   ],
+  createdAt: "2026-09-03T13:17:30.263Z",
+  updatedAt: "2026-09-15T16:38:50.000Z",
 } as const satisfies Release
