@@ -97,6 +97,10 @@ export const terminusManaAndEssence = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Sufficient essence makes anything sentient.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Essence is measured in bits, one bit of essence for each bit of mana refined.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -122,5 +126,5 @@ export const terminusManaAndEssence = {
     },
   ],
   createdAt: "2026-10-08T19:29:42.035Z",
-  updatedAt: "2026-10-08T19:31:04.939Z",
+  updatedAt: "2026-10-08T21:15:29.889Z",
 } as const satisfies Lore

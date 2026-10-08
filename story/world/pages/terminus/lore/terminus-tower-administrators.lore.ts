@@ -33,6 +33,14 @@ export const terminusTowerAdministrators = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Anything can sit on a throne and become an Administrator, beasts included.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A beast that becomes an Administrator grows sentient on its essence cut in time.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Administrators can and do fortify their towers.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -130,5 +138,5 @@ export const terminusTowerAdministrators = {
     },
   ],
   createdAt: "2026-10-08T21:12:02.274Z",
-  updatedAt: "2026-10-08T21:12:02.274Z",
+  updatedAt: "2026-10-08T21:15:29.889Z",
 } as const satisfies Lore
