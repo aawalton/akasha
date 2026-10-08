@@ -2,6 +2,7 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-alerts-prominent/combat-alerts-alerts-prominent.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-constants/combat-alerts-constants.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-reef-guardian/combat-alerts-dreadsail-reef-guardian.module.code.ts"
+import { crutchString } from "akasha/temper/addon/pages/combat/combat-alerts-wording/modules/combat-alerts-lang/combat-alerts-lang.module.code.ts"
 import {
   clearBrands,
   ELIXIR_ID,
@@ -35,7 +36,6 @@ import {
   onPiercingHailstone,
 } from "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-twins/combat-alerts-dreadsail-twins.module.code.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
-import { crutchString } from "akasha/temper/addon/pages/combat/modules/combat-alerts-lang/combat-alerts-lang.module.code.ts"
 import { registerZone } from "akasha/temper/addon/pages/combat/modules/combat-alerts-zones/combat-alerts-zones.module.code.ts"
 
 const C = CRUTCH.Constants

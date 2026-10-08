@@ -1,9 +1,9 @@
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-utils/combat-alerts-utils.module.code.ts"
+import { crutchString } from "akasha/temper/addon/pages/combat/combat-alerts-wording/modules/combat-alerts-lang/combat-alerts-lang.module.code.ts"
+import type { CrutchStringId } from "akasha/temper/addon/pages/combat/combat-alerts-wording/modules/combat-alerts-lang-ids/combat-alerts-lang-ids.module.code.ts"
 import type { BossThresholds } from "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-api/combat-alerts-boss-api.module.code.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
-import { crutchString } from "akasha/temper/addon/pages/combat/modules/combat-alerts-lang/combat-alerts-lang.module.code.ts"
-import type { CrutchStringId } from "akasha/temper/addon/pages/combat/modules/combat-alerts-lang-ids/combat-alerts-lang-ids.module.code.ts"
 
 const BHB = CRUTCH.BossHealthBar
 

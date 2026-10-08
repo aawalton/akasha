@@ -3,12 +3,12 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-utils/combat-aler
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-info-panel/combat-alerts-info-panel.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-info-panel-utils/combat-alerts-info-panel-utils.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-asylum-mini-health-bars/combat-alerts-asylum-mini-health-bars.module.code.ts"
+import { crutchString } from "akasha/temper/addon/pages/combat/combat-alerts-wording/modules/combat-alerts-lang/combat-alerts-lang.module.code.ts"
 import {
   type CombatEventCallback,
   CRUTCH,
   type EffectChangedCallback,
 } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
-import { crutchString } from "akasha/temper/addon/pages/combat/modules/combat-alerts-lang/combat-alerts-lang.module.code.ts"
 
 declare module "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts" {
   interface CrutchAsylumSanctorium {

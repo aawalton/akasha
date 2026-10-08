@@ -1,9 +1,9 @@
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-utils/combat-alerts-utils.module.code.ts"
 import type { DamageableLines } from "akasha/temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-damageable/combat-alerts-damageable.module.code.ts"
+import { crutchString } from "akasha/temper/addon/pages/combat/combat-alerts-wording/modules/combat-alerts-lang/combat-alerts-lang.module.code.ts"
+import type { CrutchStringId } from "akasha/temper/addon/pages/combat/combat-alerts-wording/modules/combat-alerts-lang-ids/combat-alerts-lang-ids.module.code.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
-import { crutchString } from "akasha/temper/addon/pages/combat/modules/combat-alerts-lang/combat-alerts-lang.module.code.ts"
-import type { CrutchStringId } from "akasha/temper/addon/pages/combat/modules/combat-alerts-lang-ids/combat-alerts-lang-ids.module.code.ts"
 
 function nameStr(this: void, id: CrutchStringId): string {
   return CRUTCH.GetCapitalizedString(crutchString(id))
