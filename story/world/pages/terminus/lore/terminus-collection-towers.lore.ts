@@ -121,6 +121,22 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Anyone who reaches a tower's throne can claim it, whether or not the Administrator is there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Administrators can and do fortify their towers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The fortifications each layer of a tower supports are limited by its essence flow at that layer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Administrators follow different strategies for fortifying their towers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Each tower is conquered in a single challenge, whose difficulty scales with its highest tier.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -330,5 +346,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T21:04:05.204Z",
+  updatedAt: "2026-10-08T21:06:02.547Z",
 } as const satisfies Lore
