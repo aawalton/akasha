@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0478461Sublimation = {
   story: "story-read/path-of-the-deathless-book-4-completed",
   ownLength: 4856,
   prose: "txt",
+  createdAt: "2026-09-17T18:03:50.320Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

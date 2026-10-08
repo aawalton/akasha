@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0160Chapter160MountainsBowBeforeTh
   ],
   publishedAt: "2026-08-09",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.083Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const rebornAsADemonicTree0035Chapter513EncroachingDesolation = {
   ownProgress: 3008,
   completedAt: "2026-06-29T19:02:42.486Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.036Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

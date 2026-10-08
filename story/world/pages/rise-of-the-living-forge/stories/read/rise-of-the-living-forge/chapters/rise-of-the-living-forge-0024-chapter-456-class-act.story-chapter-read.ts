@@ -21,4 +21,6 @@ export const riseOfTheLivingForge0024Chapter456ClassAct = {
   ownProgress: 2122,
   completedAt: "2026-06-29T19:59:13.666Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.088Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

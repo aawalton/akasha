@@ -21,4 +21,6 @@ export const riseOfTheLivingForge0029Chapter461And462LikeOilAndWater = {
   ownProgress: 3641,
   completedAt: "2026-06-29T19:59:23.407Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.089Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

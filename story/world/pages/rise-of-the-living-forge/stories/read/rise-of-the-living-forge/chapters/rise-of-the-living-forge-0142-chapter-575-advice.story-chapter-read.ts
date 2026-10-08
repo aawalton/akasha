@@ -20,4 +20,6 @@ export const riseOfTheLivingForge0142Chapter575Advice = {
   ],
   publishedAt: "2026-03-18",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.097Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

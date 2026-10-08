@@ -19,4 +19,6 @@ export const salvos0012101ConsequencesStartOfVolume3 = {
   ],
   publishedAt: "2021-04-19",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.037Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const roadToMasteryALitrpgApocalypse0009TheWebcomicIsOut = {
   ],
   publishedAt: "2026-07-29",
   prose: "txt",
+  createdAt: "2026-09-03T12:12:44.460Z",
+  updatedAt: "2026-09-28T20:27:30.000Z",
 } as const satisfies StoryChapterRead

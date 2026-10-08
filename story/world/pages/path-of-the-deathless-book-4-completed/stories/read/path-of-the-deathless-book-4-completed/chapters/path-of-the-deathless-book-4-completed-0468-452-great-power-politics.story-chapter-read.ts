@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0468452GreatPowerPolitics = {
   title: "452 Great Power Politics",
   ownLength: 5107,
   prose: "txt",
+  createdAt: "2026-09-07T18:06:10.732Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

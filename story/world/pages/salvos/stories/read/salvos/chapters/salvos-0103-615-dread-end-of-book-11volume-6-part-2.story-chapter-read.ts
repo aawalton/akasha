@@ -19,4 +19,6 @@ export const salvos0103615DreadEndOfBook11volume6Part2 = {
   ],
   publishedAt: "2023-10-24",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.055Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

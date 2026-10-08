@@ -21,4 +21,6 @@ export const rockFallsEveryoneDies0010Chapter9CoreStrength = {
   ownProgress: 1909,
   completedAt: "2026-06-29T22:50:34.813Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:12:44.461Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

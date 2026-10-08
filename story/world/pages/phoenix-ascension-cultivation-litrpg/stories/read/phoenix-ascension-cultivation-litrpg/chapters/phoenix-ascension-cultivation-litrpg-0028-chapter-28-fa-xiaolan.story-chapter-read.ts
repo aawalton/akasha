@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0028Chapter28FaXiaolan = {
   ],
   publishedAt: "2025-09-27",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.054Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

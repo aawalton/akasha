@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0092Chapter617SunMonarch = {
   story: "story-read/reborn-as-a-demonic-tree",
   ownLength: 2263,
   prose: "txt",
+  createdAt: "2026-09-14T20:08:00.557Z",
+  updatedAt: "2026-09-28T20:27:28.000Z",
 } as const satisfies StoryChapterRead

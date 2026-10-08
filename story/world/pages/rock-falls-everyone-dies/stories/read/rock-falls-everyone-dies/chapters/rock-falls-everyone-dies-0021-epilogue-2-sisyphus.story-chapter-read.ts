@@ -20,4 +20,6 @@ export const rockFallsEveryoneDies0021Epilogue2Sisyphus = {
   publishedAt: "2023-01-31",
   ownProgress: 1488,
   prose: "txt",
+  createdAt: "2026-09-03T12:12:44.463Z",
+  updatedAt: "2026-09-28T20:27:30.000Z",
 } as const satisfies StoryChapterRead

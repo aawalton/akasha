@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0133Chapter609The8thLayer = {
   ],
   publishedAt: "2026-08-26",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.082Z",
+  updatedAt: "2026-09-28T20:27:28.000Z",
 } as const satisfies StoryChapterRead

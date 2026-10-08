@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0094Chapter619Stasis = {
   story: "story-read/reborn-as-a-demonic-tree",
   ownLength: 2470,
   prose: "txt",
+  createdAt: "2026-09-18T20:07:19.351Z",
+  updatedAt: "2026-09-28T20:27:28.000Z",
 } as const satisfies StoryChapterRead

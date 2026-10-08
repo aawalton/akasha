@@ -20,4 +20,6 @@ export const riseOfTheLivingForge0160Chapter592WorkplaceUpgrades = {
   ],
   publishedAt: "2026-05-18",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.097Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

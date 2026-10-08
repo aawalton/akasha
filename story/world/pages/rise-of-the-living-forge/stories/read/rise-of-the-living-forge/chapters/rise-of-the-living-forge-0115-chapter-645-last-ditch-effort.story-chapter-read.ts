@@ -20,4 +20,6 @@ export const riseOfTheLivingForge0115Chapter645LastDitchEffort = {
   title: "Chapter 645: Last Ditch Effort",
   ownLength: 1666,
   prose: "txt",
+  createdAt: "2026-09-07T15:04:21.597Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

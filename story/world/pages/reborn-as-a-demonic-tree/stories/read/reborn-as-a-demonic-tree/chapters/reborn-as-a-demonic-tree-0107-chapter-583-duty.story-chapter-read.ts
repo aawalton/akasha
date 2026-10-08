@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0107Chapter583Duty = {
   ],
   publishedAt: "2026-06-19",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.068Z",
+  updatedAt: "2026-09-28T20:27:28.000Z",
 } as const satisfies StoryChapterRead

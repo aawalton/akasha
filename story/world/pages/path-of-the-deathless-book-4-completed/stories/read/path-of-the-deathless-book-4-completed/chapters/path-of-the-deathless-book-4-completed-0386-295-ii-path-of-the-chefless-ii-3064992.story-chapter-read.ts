@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0386295IiPathOfTheCheflessIi3064992
   ],
   publishedAt: "2026-02-17",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.188Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0474457PlayersBeyondTheBoard = {
   story: "story-read/path-of-the-deathless-book-4-completed",
   ownLength: 5160,
   prose: "txt",
+  createdAt: "2026-09-12T18:05:02.515Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

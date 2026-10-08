@@ -21,4 +21,6 @@ export const rockFallsEveryoneDies0016Chapter15DoomsdayMeteor = {
   ownProgress: 1566,
   completedAt: "2026-06-29T22:50:47.093Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:12:44.461Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const riseOfTheLivingForge0118Chapter648Home = {
   story: "story-read/rise-of-the-living-forge",
   ownLength: 1947,
   prose: "txt",
+  createdAt: "2026-09-10T15:04:22.231Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

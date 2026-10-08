@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0084Chapter84Cultivating = {
   ],
   publishedAt: "2026-02-04",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.067Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

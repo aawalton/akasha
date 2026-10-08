@@ -20,4 +20,6 @@ export const roadToMasteryALitrpgApocalypse0003Chapter3HelloWorld = {
   ],
   publishedAt: "2022-11-17",
   prose: "txt",
+  createdAt: "2026-09-03T12:12:44.460Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const riseOfTheLivingForge0050Chapter483TheLineButNotThatOneAndGeneralNot
   ownProgress: 1783,
   completedAt: "2026-06-29T20:00:02.493Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.091Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

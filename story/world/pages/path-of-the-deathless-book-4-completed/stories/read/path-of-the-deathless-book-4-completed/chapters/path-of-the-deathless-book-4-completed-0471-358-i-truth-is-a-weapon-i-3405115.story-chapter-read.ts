@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0471358ITruthIsAWeaponI3405115 = {
   ],
   publishedAt: "2026-05-16",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.248Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

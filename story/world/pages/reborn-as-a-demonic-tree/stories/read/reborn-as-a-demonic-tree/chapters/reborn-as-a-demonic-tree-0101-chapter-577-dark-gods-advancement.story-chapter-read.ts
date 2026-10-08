@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0101Chapter577DarkGodsAdvancement = {
   ],
   publishedAt: "2026-06-05",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.066Z",
+  updatedAt: "2026-09-28T20:27:28.000Z",
 } as const satisfies StoryChapterRead

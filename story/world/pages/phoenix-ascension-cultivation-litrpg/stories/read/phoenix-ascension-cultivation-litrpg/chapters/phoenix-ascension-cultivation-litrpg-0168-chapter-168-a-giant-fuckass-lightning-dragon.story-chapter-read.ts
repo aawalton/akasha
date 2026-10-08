@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0168Chapter168AGiantFuckassLightni
   ],
   publishedAt: "2026-08-28",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.084Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

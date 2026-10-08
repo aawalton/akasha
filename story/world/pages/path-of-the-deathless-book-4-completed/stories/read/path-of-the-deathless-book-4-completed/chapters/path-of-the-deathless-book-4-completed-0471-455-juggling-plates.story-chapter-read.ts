@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0471455JugglingPlates = {
   story: "story-read/path-of-the-deathless-book-4-completed",
   ownLength: 6606,
   prose: "txt",
+  createdAt: "2026-09-10T18:07:19.458Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

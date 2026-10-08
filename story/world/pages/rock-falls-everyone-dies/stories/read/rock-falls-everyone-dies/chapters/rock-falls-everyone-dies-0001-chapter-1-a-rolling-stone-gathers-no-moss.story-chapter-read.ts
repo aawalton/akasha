@@ -21,4 +21,6 @@ export const rockFallsEveryoneDies0001Chapter1ARollingStoneGathersNoMoss = {
   ownProgress: 1365,
   completedAt: "2026-06-29T22:50:15.675Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:12:44.461Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

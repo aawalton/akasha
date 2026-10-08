@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0138Chapter614MovingTheRealm = {
   title: "Chapter 614: Moving the Realm",
   ownLength: 3065,
   prose: "txt",
+  createdAt: "2026-09-07T20:04:42.967Z",
+  updatedAt: "2026-09-28T20:27:28.000Z",
 } as const satisfies StoryChapterRead

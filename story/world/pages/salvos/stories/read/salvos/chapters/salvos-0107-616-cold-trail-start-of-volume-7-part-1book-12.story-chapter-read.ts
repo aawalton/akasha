@@ -19,4 +19,6 @@ export const salvos0107616ColdTrailStartOfVolume7Part1book12 = {
   ],
   publishedAt: "2023-11-15",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.056Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

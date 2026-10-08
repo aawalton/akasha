@@ -21,4 +21,6 @@ export const rebornAsADemonicTree0007Chapter6SnacksBeforeWinter = {
   ownProgress: 1567,
   completedAt: "2026-06-29T19:01:43.589Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.020Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

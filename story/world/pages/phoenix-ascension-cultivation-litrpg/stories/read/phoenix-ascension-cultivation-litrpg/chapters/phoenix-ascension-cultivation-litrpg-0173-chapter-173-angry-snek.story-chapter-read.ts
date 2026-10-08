@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0173Chapter173AngrySnek = {
   title: "Chapter 173: Angry Snek",
   ownLength: 2108,
   prose: "txt",
+  createdAt: "2026-09-07T19:06:30.717Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

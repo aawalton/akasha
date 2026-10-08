@@ -21,4 +21,6 @@ export const pathToProsperityLitrpgVol12Stubbed0004B1Epilogue = {
   ownProgress: 593,
   completedAt: "2026-06-29T21:36:25.398Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.023Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

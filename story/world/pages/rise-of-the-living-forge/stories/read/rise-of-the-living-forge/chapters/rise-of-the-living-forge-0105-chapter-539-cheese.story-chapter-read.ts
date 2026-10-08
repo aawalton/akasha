@@ -21,4 +21,6 @@ export const riseOfTheLivingForge0105Chapter539Cheese = {
   ownProgress: 1852,
   completedAt: "2026-06-29T20:01:47.499Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.095Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

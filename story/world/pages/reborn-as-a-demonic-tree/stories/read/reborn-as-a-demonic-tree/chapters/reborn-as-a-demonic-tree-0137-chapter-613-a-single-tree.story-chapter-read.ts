@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0137Chapter613ASingleTree = {
   title: "Chapter 613: A Single Tree",
   ownLength: 2806,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.751Z",
+  updatedAt: "2026-09-28T20:27:28.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0479462NinthCircle = {
   story: "story-read/path-of-the-deathless-book-4-completed",
   ownLength: 5825,
   prose: "txt",
+  createdAt: "2026-09-18T18:08:16.833Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

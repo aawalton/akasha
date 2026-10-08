@@ -20,4 +20,6 @@ export const riseOfTheLivingForge0116Chapter646Unfair = {
   title: "Chapter 646: Unfair",
   ownLength: 2024,
   prose: "txt",
+  createdAt: "2026-09-08T15:37:10.022Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0177Chapter177MotherfuckerYouWante
   story: "story-read/phoenix-ascension-cultivation-litrpg",
   ownLength: 2281,
   prose: "txt",
+  createdAt: "2026-09-16T10:04:28.122Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

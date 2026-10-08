@@ -21,4 +21,6 @@ export const riseOfTheLivingForge0091Chapter525StatueAndImportantAnnouncement = 
   ownProgress: 1645,
   completedAt: "2026-06-29T20:01:20.749Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.093Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

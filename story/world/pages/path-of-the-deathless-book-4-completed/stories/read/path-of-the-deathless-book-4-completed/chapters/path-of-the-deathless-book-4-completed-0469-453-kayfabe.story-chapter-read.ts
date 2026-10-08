@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0469453Kayfabe = {
   title: "453 Kayfabe",
   ownLength: 5070,
   prose: "txt",
+  createdAt: "2026-09-08T18:03:34.985Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

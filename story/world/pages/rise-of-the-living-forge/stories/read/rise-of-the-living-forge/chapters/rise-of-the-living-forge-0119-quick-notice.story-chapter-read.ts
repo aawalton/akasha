@@ -20,4 +20,6 @@ export const riseOfTheLivingForge0119QuickNotice = {
   story: "story-read/rise-of-the-living-forge",
   ownLength: 107,
   prose: "txt",
+  createdAt: "2026-09-16T06:06:27.749Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

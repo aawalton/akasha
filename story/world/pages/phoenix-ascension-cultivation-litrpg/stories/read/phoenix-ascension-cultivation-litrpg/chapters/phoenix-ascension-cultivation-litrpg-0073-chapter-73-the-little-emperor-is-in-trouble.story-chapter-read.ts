@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0073Chapter73TheLittleEmperorIsInT
   ],
   publishedAt: "2026-01-10",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.066Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
