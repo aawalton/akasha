@@ -15,6 +15,7 @@ import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaratio
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ttc/eso-ttc.type-declaration.d.ts"
 export function resolvePriceSource(): PriceSource {
@@ -151,6 +152,10 @@ export function extractItemData(bagId: number, slotIndex: number): ItemData | un
   result.questRelevant = isItemLinkQuestRelevant(itemLink)
   result.reconstructed = IsItemReconstructed(bagId, slotIndex)
   result.transmuted = GetItemTraitInformation(bagId, slotIndex) === ITEM_TRAIT_INFORMATION_RETRAITED
+  result.uncollected =
+    IsItemLinkSetCollectionPiece(itemLink) &&
+    !IsItemSetCollectionPieceUnlocked(itemId) &&
+    !result.bound
   result.locked = isItemLocked(bagId, slotIndex)
   result.junk = IsItemJunk(bagId, slotIndex)
   result.junkable = CanItemBeMarkedAsJunk(bagId, slotIndex)

@@ -138,6 +138,7 @@ function parseItem(raw: unknown): InventoryItemData | undefined {
 
   if (typeof item.reconstructed === "boolean") parsed.reconstructed = item.reconstructed
   if (typeof item.transmuted === "boolean") parsed.transmuted = item.transmuted
+  if (typeof item.uncollected === "boolean") parsed.uncollected = item.uncollected
   if (typeof item.locked === "boolean") parsed.locked = item.locked
   if (typeof item.known === "boolean") parsed.known = item.known
   if (typeof item.crafted === "boolean") parsed.crafted = item.crafted

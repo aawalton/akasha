@@ -73,6 +73,7 @@ export interface InventoryItemData {
   questRelevant?: boolean
   reconstructed?: boolean
   transmuted?: boolean
+  uncollected?: boolean
   locked?: boolean
   crafted?: boolean
   known?: boolean

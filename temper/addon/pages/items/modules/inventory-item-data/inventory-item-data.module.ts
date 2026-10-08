@@ -46,5 +46,10 @@ export const inventoryItemData = {
       statement:
         "A slot records the other values its own link states that its bare item id reads wrong.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A slot records whether its item is an unbound set piece the account has not collected.",
+    },
   ],
 } as const satisfies Module

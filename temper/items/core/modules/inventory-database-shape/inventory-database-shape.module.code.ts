@@ -53,6 +53,7 @@ const itemSchema = z
     questRelevant: z.boolean().optional(),
     reconstructed: z.boolean().optional(),
     transmuted: z.boolean().optional(),
+    uncollected: z.boolean().optional(),
     locked: z.boolean().optional(),
     crafted: z.boolean().optional(),
     known: z.boolean().optional(),

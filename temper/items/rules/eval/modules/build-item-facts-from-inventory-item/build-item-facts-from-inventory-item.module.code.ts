@@ -55,6 +55,7 @@ export function buildItemFactsFromInventoryItem(input: BuildItemFactsInput): Ite
     isLocked: item.locked,
     isReconstructed: item.reconstructed,
     isTransmuted: item.transmuted,
+    isUncollected: item.uncollected,
     isCrafted: item.crafted,
     marketValue: item.marketValue,
     merchantValue: item.merchantValue,
