@@ -1,6 +1,13 @@
 {
   "build": {
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
+    "skillAbilityIds": {
+      "1": 213158,
+      "2": 155693,
+      "3": 154926,
+      "4": 155408,
+      "5": 155411,
+      "6": 213169
+    },
     "armor": {
       "1": {
         "displayText": "Heavy, Quickened",
@@ -66,16 +73,8 @@
         }
       }
     },
-    "companionId": 13,
     "mainHandWeaponType": 9,
-    "skillAbilityIds": {
-      "1": 213158,
-      "2": 155693,
-      "3": 154926,
-      "4": 155408,
-      "5": 155411,
-      "6": 213169
-    },
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
     "jewelry": {
       "1": {
         "displayText": "Quickened",
@@ -105,6 +104,7 @@
         }
       }
     },
+    "companionId": 13,
     "weapons": {
       "1": {
         "displayText": "Restoration Staff, Quickened",
