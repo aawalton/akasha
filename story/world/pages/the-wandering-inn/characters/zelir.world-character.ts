@@ -10,4 +10,6 @@ export const zelir = {
   firstChapter: 489,
   lastChapter: 489,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:37.697Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

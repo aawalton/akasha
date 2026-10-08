@@ -11,4 +11,6 @@ export const luppFarmer = {
   lastChapter: 337,
   characterClaims: "jsonl",
   aliasOf: "world-character/lupp",
+  createdAt: "2026-09-19T00:23:03.541Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

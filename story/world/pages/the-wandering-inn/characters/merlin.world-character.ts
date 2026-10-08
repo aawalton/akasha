@@ -10,4 +10,6 @@ export const merlin = {
   firstChapter: 480,
   lastChapter: 480,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:26.427Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

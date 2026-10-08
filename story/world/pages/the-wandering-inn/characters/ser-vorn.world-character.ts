@@ -10,4 +10,6 @@ export const serVorn = {
   firstChapter: 437,
   lastChapter: 437,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:34.675Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

@@ -11,4 +11,6 @@ export const sebornSailwinds = {
   firstChapter: 401,
   lastChapter: 791,
   characterClaims: "jsonl",
+  createdAt: "2026-09-03T04:21:31.925Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

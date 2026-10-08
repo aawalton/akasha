@@ -11,4 +11,6 @@ export const rivel = {
   lastChapter: 731,
   characterClaims: "jsonl",
   aliasOf: "world-character/rivel-lischelle-drakle",
+  createdAt: "2026-09-19T00:24:11.752Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

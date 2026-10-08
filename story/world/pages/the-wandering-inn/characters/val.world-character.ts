@@ -10,4 +10,6 @@ export const val = {
   firstChapter: 86,
   lastChapter: 93,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:11.510Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const theilo = {
   firstChapter: 618,
   lastChapter: 618,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:46.560Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

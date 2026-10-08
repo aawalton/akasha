@@ -11,4 +11,6 @@ export const zail = {
   lastChapter: 663,
   characterClaims: "jsonl",
   aliasOf: "world-character/zail-gemscale",
+  createdAt: "2026-09-19T00:25:36.355Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

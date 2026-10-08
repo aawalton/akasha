@@ -10,4 +10,6 @@ export const rinu = {
   firstChapter: 657,
   lastChapter: 657,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:11.520Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

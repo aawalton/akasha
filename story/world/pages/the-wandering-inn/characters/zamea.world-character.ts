@@ -10,4 +10,6 @@ export const zamea = {
   firstChapter: 398,
   lastChapter: 705,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:37.044Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

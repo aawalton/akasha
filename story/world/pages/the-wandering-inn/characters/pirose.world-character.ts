@@ -10,4 +10,6 @@ export const pirose = {
   firstChapter: 345,
   lastChapter: 345,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:00.192Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

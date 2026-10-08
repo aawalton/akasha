@@ -10,4 +10,6 @@ export const stormCaptain = {
   firstChapter: 162,
   lastChapter: 162,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:41.501Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

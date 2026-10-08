@@ -10,4 +10,6 @@ export const rophir = {
   firstChapter: 529,
   lastChapter: 529,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:12.335Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

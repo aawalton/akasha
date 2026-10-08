@@ -11,4 +11,6 @@ export const sammial = {
   lastChapter: 656,
   characterClaims: "jsonl",
   aliasOf: "world-character/sammial-veltras",
+  createdAt: "2026-09-19T00:24:16.163Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

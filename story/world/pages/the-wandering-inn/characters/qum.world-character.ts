@@ -10,4 +10,6 @@ export const qum = {
   firstChapter: 163,
   lastChapter: 163,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:03.999Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

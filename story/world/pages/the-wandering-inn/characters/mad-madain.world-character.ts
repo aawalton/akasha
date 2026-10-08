@@ -10,4 +10,6 @@ export const madMadain = {
   firstChapter: 311,
   lastChapter: 311,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:04.742Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

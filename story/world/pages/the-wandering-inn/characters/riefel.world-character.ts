@@ -10,4 +10,6 @@ export const riefel = {
   firstChapter: 242,
   lastChapter: 242,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:11.096Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const theNecromancer = {
   firstChapter: 193,
   lastChapter: 193,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:45.680Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

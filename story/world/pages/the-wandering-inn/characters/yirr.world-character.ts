@@ -10,4 +10,6 @@ export const yirr = {
   firstChapter: 772,
   lastChapter: 772,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:34.303Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

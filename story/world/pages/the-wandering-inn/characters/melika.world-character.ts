@@ -11,4 +11,6 @@ export const melika = {
   lastChapter: 783,
   characterClaims: "jsonl",
   aliasOf: "world-character/melika-blackwing",
+  createdAt: "2026-09-19T00:23:25.189Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

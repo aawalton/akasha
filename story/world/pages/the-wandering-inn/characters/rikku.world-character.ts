@@ -10,4 +10,6 @@ export const rikku = {
   firstChapter: 85,
   lastChapter: 85,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:11.302Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

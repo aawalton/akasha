@@ -10,4 +10,6 @@ export const thist = {
   firstChapter: 803,
   lastChapter: 803,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:47.497Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

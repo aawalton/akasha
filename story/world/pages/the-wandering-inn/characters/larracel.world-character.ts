@@ -10,4 +10,6 @@ export const larracel = {
   firstChapter: 770,
   lastChapter: 772,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:58.646Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

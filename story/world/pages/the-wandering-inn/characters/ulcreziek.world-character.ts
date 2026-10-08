@@ -10,4 +10,6 @@ export const ulcreziek = {
   firstChapter: 584,
   lastChapter: 584,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:09.281Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

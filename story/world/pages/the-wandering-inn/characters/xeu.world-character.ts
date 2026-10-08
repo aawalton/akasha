@@ -10,4 +10,6 @@ export const xeu = {
   firstChapter: 521,
   lastChapter: 521,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:19.441Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const marvusLischelle = {
   firstChapter: 819,
   lastChapter: 819,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:06.856Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

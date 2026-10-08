@@ -10,4 +10,6 @@ export const mirn = {
   firstChapter: 441,
   lastChapter: 817,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:27.855Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

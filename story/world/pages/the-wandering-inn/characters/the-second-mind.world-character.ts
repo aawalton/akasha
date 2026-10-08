@@ -10,4 +10,6 @@ export const theSecondMind = {
   firstChapter: 546,
   lastChapter: 546,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:46.215Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

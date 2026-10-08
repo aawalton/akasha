@@ -10,4 +10,6 @@ export const rehamCentaur = {
   firstChapter: 496,
   lastChapter: 496,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:07.979Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

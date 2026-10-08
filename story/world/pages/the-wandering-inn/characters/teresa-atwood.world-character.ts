@@ -10,4 +10,6 @@ export const teresaAtwood = {
   firstChapter: 453,
   lastChapter: 556,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:43.754Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

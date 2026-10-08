@@ -10,4 +10,6 @@ export const regrikaFalse = {
   firstChapter: 211,
   lastChapter: 211,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:07.923Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

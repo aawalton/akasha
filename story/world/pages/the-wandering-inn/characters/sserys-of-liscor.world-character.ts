@@ -11,4 +11,6 @@ export const sserysOfLiscor = {
   lastChapter: 113,
   characterClaims: "jsonl",
   aliasOf: "world-character/sserys",
+  createdAt: "2026-09-19T00:24:41.279Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

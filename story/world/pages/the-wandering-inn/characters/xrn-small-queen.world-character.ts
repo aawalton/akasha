@@ -11,4 +11,6 @@ export const xrnSmallQueen = {
   lastChapter: 715,
   characterClaims: "jsonl",
   aliasOf: "world-character/xrn",
+  createdAt: "2026-09-19T00:25:33.126Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

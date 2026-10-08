@@ -10,4 +10,6 @@ export const ogreChieftain = {
   firstChapter: 378,
   lastChapter: 378,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:37.646Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

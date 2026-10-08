@@ -10,4 +10,6 @@ export const reimesk = {
   firstChapter: 724,
   lastChapter: 724,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:08.155Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

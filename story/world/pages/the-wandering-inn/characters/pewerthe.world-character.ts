@@ -10,4 +10,6 @@ export const pewerthe = {
   firstChapter: 624,
   lastChapter: 807,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:59.106Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

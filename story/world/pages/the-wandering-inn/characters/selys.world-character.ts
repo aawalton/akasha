@@ -11,4 +11,6 @@ export const selys = {
   lastChapter: 672,
   characterClaims: "jsonl",
   aliasOf: "world-character/selys-shivertail",
+  createdAt: "2026-09-19T00:24:33.698Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

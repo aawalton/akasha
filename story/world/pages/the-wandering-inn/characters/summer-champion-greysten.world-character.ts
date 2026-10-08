@@ -10,4 +10,6 @@ export const summerChampionGreysten = {
   firstChapter: 490,
   lastChapter: 490,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:41.830Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

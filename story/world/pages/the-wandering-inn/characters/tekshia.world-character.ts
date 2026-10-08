@@ -11,4 +11,6 @@ export const tekshia = {
   lastChapter: 386,
   characterClaims: "jsonl",
   aliasOf: "world-character/tekshia-shivertail",
+  createdAt: "2026-09-19T00:24:42.781Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

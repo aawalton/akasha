@@ -6,4 +6,6 @@ export const otherwhereXAliceVane = {
   slug: "otherwhere-x-alice-vane",
   title: "Alice of House Vane",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  createdAt: "2026-09-28T23:58:58.018Z",
+  updatedAt: "2026-09-28T23:59:05.000Z",
 } as const satisfies WorldCharacter

@@ -11,4 +11,6 @@ export const vaulontAsh = {
   lastChapter: 763,
   characterClaims: "jsonl",
   aliasOf: "world-character/vaulont",
+  createdAt: "2026-09-19T00:25:12.829Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

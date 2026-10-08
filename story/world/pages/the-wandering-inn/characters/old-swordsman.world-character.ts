@@ -10,4 +10,6 @@ export const oldSwordsman = {
   firstChapter: 12,
   lastChapter: 12,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:37.760Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

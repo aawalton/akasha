@@ -10,4 +10,6 @@ export const prixall = {
   firstChapter: 616,
   lastChapter: 723,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:02.219Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

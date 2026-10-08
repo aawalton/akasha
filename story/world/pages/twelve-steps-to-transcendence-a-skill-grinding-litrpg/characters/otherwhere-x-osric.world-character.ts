@@ -6,4 +6,6 @@ export const otherwhereXOsric = {
   slug: "otherwhere-x-osric",
   title: "King Osric",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  createdAt: "2026-09-29T01:41:59.491Z",
+  updatedAt: "2026-09-29T01:42:02.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const lasc = {
   firstChapter: 404,
   lastChapter: 404,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:58.699Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

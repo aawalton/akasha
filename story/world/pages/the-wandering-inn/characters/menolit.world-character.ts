@@ -10,4 +10,6 @@ export const menolit = {
   firstChapter: 411,
   lastChapter: 650,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:25.595Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

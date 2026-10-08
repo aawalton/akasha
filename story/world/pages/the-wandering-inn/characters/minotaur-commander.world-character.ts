@@ -10,4 +10,6 @@ export const minotaurCommander = {
   firstChapter: 453,
   lastChapter: 453,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:27.108Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

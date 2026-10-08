@@ -10,4 +10,6 @@ export const qin = {
   firstChapter: 509,
   lastChapter: 509,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:02.662Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

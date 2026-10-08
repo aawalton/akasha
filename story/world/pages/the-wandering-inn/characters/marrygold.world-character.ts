@@ -10,4 +10,6 @@ export const marrygold = {
   firstChapter: 822,
   lastChapter: 822,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:06.628Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

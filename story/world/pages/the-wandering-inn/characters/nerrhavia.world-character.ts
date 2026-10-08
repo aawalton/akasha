@@ -10,4 +10,6 @@ export const nerrhavia = {
   firstChapter: 523,
   lastChapter: 770,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:33.535Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

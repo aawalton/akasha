@@ -12,4 +12,6 @@ export const venaz = {
   lastChapter: 802,
   characterClaims: "jsonl",
   aliasOf: "world-character/venaz-hammerad",
+  createdAt: "2026-09-03T04:21:31.925Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

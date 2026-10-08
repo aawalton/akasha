@@ -11,4 +11,6 @@ export const wrymvrDeathless = {
   lastChapter: 464,
   characterClaims: "jsonl",
   aliasOf: "world-character/wrymvr",
+  createdAt: "2026-09-19T00:25:18.924Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

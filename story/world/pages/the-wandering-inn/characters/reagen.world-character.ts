@@ -10,4 +10,6 @@ export const reagen = {
   firstChapter: 627,
   lastChapter: 627,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:06.993Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

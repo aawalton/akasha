@@ -10,4 +10,6 @@ export const merrik = {
   firstChapter: 404,
   lastChapter: 560,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:26.542Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const theogrin = {
   firstChapter: 605,
   lastChapter: 605,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:46.737Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

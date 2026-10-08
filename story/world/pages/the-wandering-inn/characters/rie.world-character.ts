@@ -10,4 +10,6 @@ export const rie = {
   firstChapter: 346,
   lastChapter: 351,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:11.027Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const nailihuaile = {
   firstChapter: 377,
   lastChapter: 558,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:31.067Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

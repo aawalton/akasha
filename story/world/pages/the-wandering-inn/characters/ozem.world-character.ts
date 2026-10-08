@@ -10,4 +10,6 @@ export const ozem = {
   firstChapter: 454,
   lastChapter: 454,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:40.191Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const patriciaMelissar = {
   firstChapter: 338,
   lastChapter: 338,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:40.535Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

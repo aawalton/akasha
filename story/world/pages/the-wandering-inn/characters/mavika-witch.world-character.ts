@@ -11,4 +11,6 @@ export const mavikaWitch = {
   lastChapter: 395,
   characterClaims: "jsonl",
   aliasOf: "world-character/mavika",
+  createdAt: "2026-09-19T00:23:23.813Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

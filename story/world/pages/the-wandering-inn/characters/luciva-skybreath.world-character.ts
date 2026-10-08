@@ -10,4 +10,6 @@ export const lucivaSkybreath = {
   firstChapter: 345,
   lastChapter: 391,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:03.373Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

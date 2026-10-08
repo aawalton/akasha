@@ -10,4 +10,6 @@ export const skeletonWarriorUnnamed = {
   firstChapter: 44,
   lastChapter: 44,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:38.828Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const robb = {
   firstChapter: 779,
   lastChapter: 779,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:11.927Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

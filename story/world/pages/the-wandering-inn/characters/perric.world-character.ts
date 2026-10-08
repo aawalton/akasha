@@ -10,4 +10,6 @@ export const perric = {
   firstChapter: 454,
   lastChapter: 807,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:42.697Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

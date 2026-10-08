@@ -10,4 +10,6 @@ export const tersk = {
   firstChapter: 190,
   lastChapter: 392,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:44.093Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

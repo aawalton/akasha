@@ -10,4 +10,6 @@ export const venim = {
   firstChapter: 242,
   lastChapter: 779,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:13.942Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

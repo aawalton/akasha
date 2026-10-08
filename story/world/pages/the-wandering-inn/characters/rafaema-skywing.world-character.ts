@@ -10,4 +10,6 @@ export const rafaemaSkywing = {
   firstChapter: 508,
   lastChapter: 508,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:05.370Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

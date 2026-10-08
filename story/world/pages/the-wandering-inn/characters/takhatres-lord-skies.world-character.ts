@@ -11,4 +11,6 @@ export const takhatresLordSkies = {
   lastChapter: 704,
   characterClaims: "jsonl",
   aliasOf: "world-character/takhatres",
+  createdAt: "2026-09-19T00:24:42.219Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

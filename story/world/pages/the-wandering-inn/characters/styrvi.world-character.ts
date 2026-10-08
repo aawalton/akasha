@@ -10,4 +10,6 @@ export const styrvi = {
   firstChapter: 815,
   lastChapter: 815,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:41.776Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

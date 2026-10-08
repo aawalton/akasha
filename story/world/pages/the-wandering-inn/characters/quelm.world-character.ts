@@ -10,4 +10,6 @@ export const quelm = {
   firstChapter: 313,
   lastChapter: 313,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:03.705Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

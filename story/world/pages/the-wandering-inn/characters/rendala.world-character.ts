@@ -10,4 +10,6 @@ export const rendala = {
   firstChapter: 239,
   lastChapter: 239,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:09.041Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

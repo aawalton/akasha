@@ -10,4 +10,6 @@ export const strategistVeine = {
   firstChapter: 646,
   lastChapter: 646,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:41.610Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

@@ -11,4 +11,6 @@ export const lordTyrion = {
   lastChapter: 250,
   characterClaims: "jsonl",
   aliasOf: "world-character/tyrion-veltras",
+  createdAt: "2026-09-19T00:23:02.305Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

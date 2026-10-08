@@ -10,4 +10,6 @@ export const matha = {
   firstChapter: 767,
   lastChapter: 805,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:07.248Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

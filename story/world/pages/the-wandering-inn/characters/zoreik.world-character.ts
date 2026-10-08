@@ -10,4 +10,6 @@ export const zoreik = {
   firstChapter: 668,
   lastChapter: 668,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:38.816Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

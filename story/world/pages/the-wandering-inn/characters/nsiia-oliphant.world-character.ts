@@ -10,4 +10,6 @@ export const nsiiaOliphant = {
   firstChapter: 536,
   lastChapter: 536,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:36.452Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

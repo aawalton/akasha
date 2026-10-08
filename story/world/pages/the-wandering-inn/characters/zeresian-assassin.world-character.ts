@@ -10,4 +10,6 @@ export const zeresianAssassin = {
   firstChapter: 508,
   lastChapter: 508,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:38.113Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

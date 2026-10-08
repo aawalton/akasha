@@ -10,4 +10,6 @@ export const shurein = {
   firstChapter: 554,
   lastChapter: 554,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:37.431Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

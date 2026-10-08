@@ -11,4 +11,6 @@ export const pewertheHeir = {
   lastChapter: 808,
   characterClaims: "jsonl",
   aliasOf: "world-character/pewerthe",
+  createdAt: "2026-09-19T00:23:59.161Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

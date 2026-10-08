@@ -11,4 +11,6 @@ export const sirKerrig = {
   lastChapter: 272,
   characterClaims: "jsonl",
   aliasOf: "world-character/sir-kerrig-louis",
+  createdAt: "2026-09-19T00:24:38.104Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const shedrkh = {
   firstChapter: 660,
   lastChapter: 660,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:36.654Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

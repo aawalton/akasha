@@ -11,4 +11,6 @@ export const vaitsha = {
   lastChapter: 370,
   characterClaims: "jsonl",
   aliasOf: "world-character/vaitsha-zectiou",
+  createdAt: "2026-09-19T00:25:11.337Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

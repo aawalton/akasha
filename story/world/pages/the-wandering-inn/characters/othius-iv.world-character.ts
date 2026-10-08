@@ -10,4 +10,6 @@ export const othiusIv = {
   firstChapter: 97,
   lastChapter: 711,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:40.076Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

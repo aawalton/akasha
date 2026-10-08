@@ -10,4 +10,6 @@ export const terresHangclaw = {
   firstChapter: 103,
   lastChapter: 103,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:44.036Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const xitegenTerland = {
   firstChapter: 748,
   lastChapter: 748,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:32.819Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

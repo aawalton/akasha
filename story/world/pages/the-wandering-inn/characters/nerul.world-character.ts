@@ -11,4 +11,6 @@ export const nerul = {
   lastChapter: 664,
   characterClaims: "jsonl",
   aliasOf: "world-character/nerul-gemscale",
+  createdAt: "2026-09-19T00:23:33.648Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

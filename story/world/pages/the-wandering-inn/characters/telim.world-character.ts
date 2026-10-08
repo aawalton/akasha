@@ -10,4 +10,6 @@ export const telim = {
   firstChapter: 557,
   lastChapter: 771,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:42.886Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

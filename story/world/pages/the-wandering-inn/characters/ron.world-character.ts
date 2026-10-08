@@ -10,4 +10,6 @@ export const ron = {
   firstChapter: 97,
   lastChapter: 97,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:12.162Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

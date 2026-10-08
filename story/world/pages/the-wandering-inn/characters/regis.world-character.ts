@@ -11,4 +11,6 @@ export const regis = {
   lastChapter: 819,
   characterClaims: "jsonl",
   aliasOf: "world-character/regis-reinhart",
+  createdAt: "2026-09-19T00:24:07.688Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

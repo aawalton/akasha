@@ -10,4 +10,6 @@ export const nalthal = {
   firstChapter: 230,
   lastChapter: 230,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:32.062Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

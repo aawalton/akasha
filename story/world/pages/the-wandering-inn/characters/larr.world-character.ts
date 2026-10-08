@@ -10,4 +10,6 @@ export const larr = {
   firstChapter: 185,
   lastChapter: 245,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:58.186Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

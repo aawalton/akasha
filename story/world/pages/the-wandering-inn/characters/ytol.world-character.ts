@@ -10,4 +10,6 @@ export const ytol = {
   firstChapter: 454,
   lastChapter: 454,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:35.662Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

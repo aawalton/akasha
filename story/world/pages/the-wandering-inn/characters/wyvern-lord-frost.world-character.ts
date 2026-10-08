@@ -11,4 +11,6 @@ export const wyvernLordFrost = {
   lastChapter: 718,
   characterClaims: "jsonl",
   aliasOf: "world-character/wyvern-lord",
+  createdAt: "2026-09-19T00:25:19.152Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const queravia = {
   firstChapter: 181,
   lastChapter: 372,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:03.761Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

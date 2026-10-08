@@ -11,4 +11,6 @@ export const lapseyVampire = {
   lastChapter: 715,
   characterClaims: "jsonl",
   aliasOf: "world-character/lapsey",
+  createdAt: "2026-09-19T00:22:58.081Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

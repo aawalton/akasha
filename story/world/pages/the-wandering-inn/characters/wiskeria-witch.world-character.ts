@@ -11,4 +11,6 @@ export const wiskeriaWitch = {
   lastChapter: 519,
   characterClaims: "jsonl",
   aliasOf: "world-character/wiskeria",
+  createdAt: "2026-09-19T00:25:18.476Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

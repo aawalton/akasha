@@ -10,4 +10,6 @@ export const theQuarass = {
   firstChapter: 426,
   lastChapter: 821,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:46.037Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

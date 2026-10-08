@@ -11,4 +11,6 @@ export const navine = {
   lastChapter: 663,
   characterClaims: "jsonl",
   aliasOf: "world-character/navine-gemscale",
+  createdAt: "2026-09-19T00:23:32.790Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

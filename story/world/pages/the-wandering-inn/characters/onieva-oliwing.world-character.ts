@@ -11,4 +11,6 @@ export const onievaOliwing = {
   lastChapter: 415,
   characterClaims: "jsonl",
   aliasOf: "world-character/saliss",
+  createdAt: "2026-09-19T00:23:38.469Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

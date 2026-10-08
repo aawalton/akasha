@@ -10,4 +10,6 @@ export const torishiWeatherfur = {
   firstChapter: 586,
   lastChapter: 586,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:05.826Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

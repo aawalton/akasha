@@ -11,4 +11,6 @@ export const princeZenol = {
   lastChapter: 797,
   characterClaims: "jsonl",
   aliasOf: "world-character/prince-zenol-isphel",
+  createdAt: "2026-09-19T00:24:01.825Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

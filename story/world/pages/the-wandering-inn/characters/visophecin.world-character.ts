@@ -10,4 +10,6 @@ export const visophecin = {
   firstChapter: 544,
   lastChapter: 776,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:15.939Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

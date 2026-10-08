@@ -6,4 +6,6 @@ export const level12Warrior = {
   slug: "level-12-warrior",
   title: "Level 12 Warrior",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-24T14:20:50.338Z",
+  updatedAt: "2026-09-24T14:21:12.000Z",
 } as const satisfies WorldCharacter

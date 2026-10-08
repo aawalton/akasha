@@ -11,4 +11,6 @@ export const sikeriWyrm = {
   lastChapter: 551,
   characterClaims: "jsonl",
   aliasOf: "world-character/sikeri",
+  createdAt: "2026-09-19T00:24:37.654Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

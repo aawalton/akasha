@@ -10,4 +10,6 @@ export const pivr = {
   firstChapter: 235,
   lastChapter: 688,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:01.156Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

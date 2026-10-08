@@ -10,4 +10,6 @@ export const princessVernoue = {
   firstChapter: 572,
   lastChapter: 572,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:02.164Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

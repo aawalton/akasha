@@ -10,4 +10,6 @@ export const zineryr = {
   firstChapter: 578,
   lastChapter: 679,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:38.696Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

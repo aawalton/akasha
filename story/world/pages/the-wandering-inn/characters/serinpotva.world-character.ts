@@ -10,4 +10,6 @@ export const serinpotva = {
   firstChapter: 634,
   lastChapter: 710,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:35.651Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

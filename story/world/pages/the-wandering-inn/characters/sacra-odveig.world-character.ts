@@ -11,4 +11,6 @@ export const sacraOdveig = {
   lastChapter: 250,
   characterClaims: "jsonl",
   aliasOf: "world-character/sacra",
+  createdAt: "2026-09-19T00:24:14.816Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

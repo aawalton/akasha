@@ -10,4 +10,6 @@ export const sacra = {
   firstChapter: 205,
   lastChapter: 262,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:14.762Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

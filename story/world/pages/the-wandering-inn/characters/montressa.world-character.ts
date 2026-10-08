@@ -12,4 +12,6 @@ export const montressa = {
   lastChapter: 746,
   characterClaims: "jsonl",
   aliasOf: "world-character/montressa-du-valeross",
+  createdAt: "2026-09-03T04:21:31.925Z",
+  updatedAt: "2026-09-25T15:41:02.000Z",
 } as const satisfies WorldCharacter

@@ -11,4 +11,6 @@ export const marsTheIllusionist = {
   lastChapter: 440,
   characterClaims: "jsonl",
   aliasOf: "world-character/mars",
+  createdAt: "2026-09-19T00:23:06.799Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

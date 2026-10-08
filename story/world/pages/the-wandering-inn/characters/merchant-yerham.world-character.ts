@@ -10,4 +10,6 @@ export const merchantYerham = {
   firstChapter: 779,
   lastChapter: 779,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:25.905Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

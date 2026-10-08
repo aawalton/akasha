@@ -11,4 +11,6 @@ export const russell = {
   lastChapter: 818,
   characterClaims: "jsonl",
   aliasOf: "world-character/russell-t-morgan",
+  createdAt: "2026-09-19T00:24:13.278Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

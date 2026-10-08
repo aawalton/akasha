@@ -11,4 +11,6 @@ export const safry = {
   lastChapter: 192,
   characterClaims: "jsonl",
   aliasOf: "world-character/safry-maran",
+  createdAt: "2026-09-19T00:24:14.873Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

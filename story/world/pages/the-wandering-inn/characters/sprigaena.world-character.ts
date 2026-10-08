@@ -10,4 +10,6 @@ export const sprigaena = {
   firstChapter: 578,
   lastChapter: 581,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:40.695Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

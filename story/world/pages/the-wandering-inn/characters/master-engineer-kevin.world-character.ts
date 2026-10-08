@@ -10,4 +10,6 @@ export const masterEngineerKevin = {
   firstChapter: 756,
   lastChapter: 756,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T01:48:43.584Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

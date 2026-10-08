@@ -11,4 +11,6 @@ export const ulva = {
   lastChapter: 821,
   characterClaims: "jsonl",
   aliasOf: "world-character/ulva-terland",
+  createdAt: "2026-09-19T00:25:10.096Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

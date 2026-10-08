@@ -10,4 +10,6 @@ export const primeMinisterLyfelt = {
   firstChapter: 410,
   lastChapter: 410,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:01.661Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

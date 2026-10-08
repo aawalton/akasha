@@ -10,4 +10,6 @@ export const ophala = {
   firstChapter: 789,
   lastChapter: 789,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:38.582Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

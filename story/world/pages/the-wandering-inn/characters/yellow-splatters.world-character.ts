@@ -10,4 +10,6 @@ export const yellowSplatters = {
   firstChapter: 226,
   lastChapter: 809,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:33.374Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const wilen = {
   firstChapter: 97,
   lastChapter: 98,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:18.177Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

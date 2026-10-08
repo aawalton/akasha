@@ -10,4 +10,6 @@ export const sostromReidez = {
   firstChapter: 42,
   lastChapter: 42,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:40.527Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

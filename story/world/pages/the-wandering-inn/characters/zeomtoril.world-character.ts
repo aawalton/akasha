@@ -10,4 +10,6 @@ export const zeomtoril = {
   firstChapter: 823,
   lastChapter: 823,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:38.054Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

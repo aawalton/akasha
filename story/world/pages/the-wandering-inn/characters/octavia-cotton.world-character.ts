@@ -10,4 +10,6 @@ export const octaviaCotton = {
   firstChapter: 328,
   lastChapter: 628,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:37.300Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

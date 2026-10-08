@@ -11,4 +11,6 @@ export const maviola = {
   lastChapter: 770,
   characterClaims: "jsonl",
   aliasOf: "world-character/maviola-el",
+  createdAt: "2026-09-19T00:23:23.872Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

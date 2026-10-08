@@ -11,4 +11,6 @@ export const tessaShriekblade = {
   lastChapter: 690,
   characterClaims: "jsonl",
   aliasOf: "world-character/tessa-sharpclaw",
+  createdAt: "2026-09-19T00:24:44.267Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const rathiss = {
   firstChapter: 760,
   lastChapter: 760,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:06.773Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

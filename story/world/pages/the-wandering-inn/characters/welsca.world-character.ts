@@ -10,4 +10,6 @@ export const welsca = {
   firstChapter: 322,
   lastChapter: 322,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:17.530Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

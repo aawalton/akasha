@@ -10,4 +10,6 @@ export const masterMerxel = {
   firstChapter: 504,
   lastChapter: 504,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:07.027Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

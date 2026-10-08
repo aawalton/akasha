@@ -10,4 +10,6 @@ export const lastimeth = {
   firstChapter: 703,
   lastChapter: 807,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:58.856Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

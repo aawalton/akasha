@@ -10,4 +10,6 @@ export const missIglesiasTheroben = {
   firstChapter: 349,
   lastChapter: 349,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:28.081Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

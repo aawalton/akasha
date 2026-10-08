@@ -12,4 +12,6 @@ export const pisces = {
   lastChapter: 797,
   characterClaims: "jsonl",
   aliasOf: "world-character/pisces-jealnet",
+  createdAt: "2026-09-03T04:21:31.925Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const mountainHob = {
   firstChapter: 155,
   lastChapter: 155,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:30.012Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const lekaThri = {
   firstChapter: 541,
   lastChapter: 541,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:59.411Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

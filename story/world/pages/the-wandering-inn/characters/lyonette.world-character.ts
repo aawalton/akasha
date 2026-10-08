@@ -12,4 +12,6 @@ export const lyonette = {
   lastChapter: 821,
   characterClaims: "jsonl",
   aliasOf: "world-character/lyonette-du-marquin",
+  createdAt: "2026-09-03T04:21:31.924Z",
+  updatedAt: "2026-09-25T15:41:02.000Z",
 } as const satisfies WorldCharacter

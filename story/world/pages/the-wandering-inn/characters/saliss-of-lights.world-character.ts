@@ -11,4 +11,6 @@ export const salissOfLights = {
   lastChapter: 737,
   characterClaims: "jsonl",
   aliasOf: "world-character/saliss",
+  createdAt: "2026-09-19T00:24:15.870Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

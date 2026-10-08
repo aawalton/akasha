@@ -10,4 +10,6 @@ export const prognugatorMaev = {
   firstChapter: 811,
   lastChapter: 811,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:02.332Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

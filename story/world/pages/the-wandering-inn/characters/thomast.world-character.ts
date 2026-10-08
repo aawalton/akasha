@@ -11,4 +11,6 @@ export const thomast = {
   lastChapter: 654,
   characterClaims: "jsonl",
   aliasOf: "world-character/thomast-veniral",
+  createdAt: "2026-09-19T00:25:02.926Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

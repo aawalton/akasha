@@ -10,4 +10,6 @@ export const orreh = {
   firstChapter: 599,
   lastChapter: 599,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:39.218Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const lordCortese = {
   firstChapter: 795,
   lastChapter: 795,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:01.670Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

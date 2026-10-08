@@ -10,4 +10,6 @@ export const merec = {
   firstChapter: 170,
   lastChapter: 170,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:26.079Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

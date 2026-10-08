@@ -10,4 +10,6 @@ export const lyon = {
   firstChapter: 104,
   lastChapter: 104,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:17:54.119Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

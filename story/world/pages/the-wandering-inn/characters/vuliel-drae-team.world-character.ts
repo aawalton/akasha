@@ -10,4 +10,6 @@ export const vulielDraeTeam = {
   firstChapter: 255,
   lastChapter: 255,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:16.589Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const pazeral = {
   firstChapter: 676,
   lastChapter: 676,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:41.156Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

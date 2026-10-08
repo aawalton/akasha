@@ -10,4 +10,6 @@ export const ressk = {
   firstChapter: 617,
   lastChapter: 618,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:09.268Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const raelVeniford = {
   firstChapter: 252,
   lastChapter: 252,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:04.800Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

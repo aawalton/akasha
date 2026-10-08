@@ -10,4 +10,6 @@ export const sableCatBeastkin = {
   firstChapter: 715,
   lastChapter: 715,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:14.693Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

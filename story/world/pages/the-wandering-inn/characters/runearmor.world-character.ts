@@ -10,4 +10,6 @@ export const runearmor = {
   firstChapter: 805,
   lastChapter: 805,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:13.220Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

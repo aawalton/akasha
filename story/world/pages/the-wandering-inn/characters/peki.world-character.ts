@@ -10,4 +10,6 @@ export const peki = {
   firstChapter: 404,
   lastChapter: 560,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:41.874Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

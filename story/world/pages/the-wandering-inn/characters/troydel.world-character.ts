@@ -10,4 +10,6 @@ export const troydel = {
   firstChapter: 644,
   lastChapter: 783,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:07.156Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

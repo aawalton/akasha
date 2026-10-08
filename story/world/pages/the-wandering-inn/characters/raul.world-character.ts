@@ -10,4 +10,6 @@ export const raul = {
   firstChapter: 445,
   lastChapter: 445,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:06.883Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

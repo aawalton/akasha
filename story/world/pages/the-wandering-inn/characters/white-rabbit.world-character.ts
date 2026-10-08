@@ -10,4 +10,6 @@ export const whiteRabbit = {
   firstChapter: 477,
   lastChapter: 477,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:17.943Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

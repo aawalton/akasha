@@ -10,4 +10,6 @@ export const malack = {
   firstChapter: 785,
   lastChapter: 785,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:05.868Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

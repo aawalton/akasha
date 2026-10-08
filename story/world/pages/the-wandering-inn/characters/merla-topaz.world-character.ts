@@ -10,4 +10,6 @@ export const merlaTopaz = {
   firstChapter: 489,
   lastChapter: 489,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:26.368Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

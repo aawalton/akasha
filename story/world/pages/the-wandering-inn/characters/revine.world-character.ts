@@ -11,4 +11,6 @@ export const revine = {
   lastChapter: 370,
   characterClaims: "jsonl",
   aliasOf: "world-character/revine-zecrew",
+  createdAt: "2026-09-19T00:24:09.803Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

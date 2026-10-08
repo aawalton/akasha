@@ -11,4 +11,6 @@ export const rufelt = {
   lastChapter: 644,
   characterClaims: "jsonl",
   aliasOf: "world-character/rufelt-owelt",
+  createdAt: "2026-09-19T00:24:13.105Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

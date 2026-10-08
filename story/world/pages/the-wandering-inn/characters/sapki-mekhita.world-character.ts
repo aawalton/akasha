@@ -10,4 +10,6 @@ export const sapkiMekhita = {
   firstChapter: 399,
   lastChapter: 399,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:31.947Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

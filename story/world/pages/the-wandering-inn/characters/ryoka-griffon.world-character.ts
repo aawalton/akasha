@@ -11,4 +11,6 @@ export const ryokaGriffon = {
   lastChapter: 112,
   characterClaims: "jsonl",
   aliasOf: "world-character/ryoka-griffin",
+  createdAt: "2026-09-19T00:24:14.521Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

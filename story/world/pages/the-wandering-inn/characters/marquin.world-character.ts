@@ -10,4 +10,6 @@ export const marquin = {
   firstChapter: 569,
   lastChapter: 582,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:06.153Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

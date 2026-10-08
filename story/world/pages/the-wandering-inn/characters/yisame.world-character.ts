@@ -10,4 +10,6 @@ export const yisame = {
   firstChapter: 326,
   lastChapter: 807,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:34.361Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

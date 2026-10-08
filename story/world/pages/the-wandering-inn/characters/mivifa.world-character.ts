@@ -11,4 +11,6 @@ export const mivifa = {
   lastChapter: 794,
   characterClaims: "jsonl",
   aliasOf: "world-character/mivifa-selifscale",
+  createdAt: "2026-09-19T00:23:28.197Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

@@ -11,4 +11,6 @@ export const torishi = {
   lastChapter: 584,
   characterClaims: "jsonl",
   aliasOf: "world-character/torishi-weatherfur",
+  createdAt: "2026-09-19T00:25:05.766Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

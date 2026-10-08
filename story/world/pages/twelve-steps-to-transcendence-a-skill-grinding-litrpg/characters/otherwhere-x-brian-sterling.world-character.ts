@@ -6,4 +6,6 @@ export const otherwhereXBrianSterling = {
   slug: "otherwhere-x-brian-sterling",
   title: "Brian of House Sterling",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  createdAt: "2026-09-29T00:00:29.551Z",
+  updatedAt: "2026-09-29T00:00:32.000Z",
 } as const satisfies WorldCharacter

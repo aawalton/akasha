@@ -10,4 +10,6 @@ export const reviCotton = {
   firstChapter: 446,
   lastChapter: 446,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:09.744Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

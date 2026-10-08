@@ -10,4 +10,6 @@ export const regrikaBlackpaw = {
   firstChapter: 208,
   lastChapter: 322,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:07.866Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

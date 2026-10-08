@@ -10,4 +10,6 @@ export const virreg = {
   firstChapter: 470,
   lastChapter: 470,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:15.701Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const tolve = {
   firstChapter: 600,
   lastChapter: 600,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:04.598Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

@@ -11,4 +11,6 @@ export const roseRoseblush = {
   lastChapter: 817,
   characterClaims: "jsonl",
   aliasOf: "world-character/rose",
+  createdAt: "2026-09-19T00:24:12.814Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

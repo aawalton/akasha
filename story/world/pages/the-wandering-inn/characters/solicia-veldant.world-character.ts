@@ -10,4 +10,6 @@ export const soliciaVeldant = {
   firstChapter: 366,
   lastChapter: 366,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:39.795Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

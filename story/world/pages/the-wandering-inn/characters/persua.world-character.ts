@@ -11,4 +11,6 @@ export const persua = {
   lastChapter: 601,
   characterClaims: "jsonl",
   aliasOf: "world-character/persua-mavva",
+  createdAt: "2026-09-19T00:23:42.808Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

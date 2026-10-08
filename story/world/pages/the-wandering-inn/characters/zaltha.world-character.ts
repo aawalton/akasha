@@ -10,4 +10,6 @@ export const zaltha = {
   firstChapter: 706,
   lastChapter: 707,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:36.860Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

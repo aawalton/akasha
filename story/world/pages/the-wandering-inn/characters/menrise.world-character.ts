@@ -10,4 +10,6 @@ export const menrise = {
   firstChapter: 685,
   lastChapter: 795,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:25.711Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

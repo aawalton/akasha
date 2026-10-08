@@ -11,4 +11,6 @@ export const typhenousPlagueMage = {
   lastChapter: 715,
   characterClaims: "jsonl",
   aliasOf: "world-character/typhenous",
+  createdAt: "2026-09-19T00:25:08.685Z",
+  updatedAt: "2026-09-22T13:09:54.000Z",
 } as const satisfies WorldCharacter

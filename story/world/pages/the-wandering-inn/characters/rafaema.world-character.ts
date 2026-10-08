@@ -11,4 +11,6 @@ export const rafaema = {
   lastChapter: 770,
   characterClaims: "jsonl",
   aliasOf: "world-character/rafaema-skywing",
+  createdAt: "2026-09-19T00:24:05.312Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const serept = {
   firstChapter: 581,
   lastChapter: 581,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:35.599Z",
+  updatedAt: "2026-09-22T13:09:47.000Z",
 } as const satisfies WorldCharacter

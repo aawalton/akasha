@@ -11,4 +11,6 @@ export const peclir = {
   lastChapter: 575,
   characterClaims: "jsonl",
   aliasOf: "world-character/peclir-im",
+  createdAt: "2026-09-19T00:23:41.649Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

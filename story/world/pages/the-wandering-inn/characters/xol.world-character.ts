@@ -10,4 +10,6 @@ export const xol = {
   firstChapter: 334,
   lastChapter: 335,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:32.882Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter

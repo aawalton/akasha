@@ -10,4 +10,6 @@ export const octillaHemp = {
   firstChapter: 445,
   lastChapter: 445,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:23:37.358Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const queenFreeAntinium = {
   firstChapter: 206,
   lastChapter: 206,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:24:03.388Z",
+  updatedAt: "2026-09-22T13:09:40.000Z",
 } as const satisfies WorldCharacter

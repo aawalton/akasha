@@ -10,4 +10,6 @@ export const workerAntinium = {
   firstChapter: 25,
   lastChapter: 25,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:25:18.753Z",
+  updatedAt: "2026-09-22T13:09:57.000Z",
 } as const satisfies WorldCharacter
