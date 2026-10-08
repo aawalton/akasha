@@ -6,4 +6,6 @@ export const fangirl = {
   slug: "fangirl",
   title: "Fangirl",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:16.449Z",
+  updatedAt: "2026-09-19T16:29:24.000Z",
 } as const satisfies WorldClass

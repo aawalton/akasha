@@ -9,4 +9,6 @@ export const fireMage = {
   appearanceCount: 3,
   evolvesToSlugs: ["world-class/inferno-mage"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.452Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

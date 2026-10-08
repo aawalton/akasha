@@ -6,4 +6,6 @@ export const expatriateConciliatorOnAssignmentToForgottenPeoples = {
   slug: "expatriate-conciliator-on-assignment-to-forgotten-peoples",
   title: "Expatriate Conciliator on Assignment to Forgotten Peoples",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:16.449Z",
+  updatedAt: "2026-09-19T16:28:39.000Z",
 } as const satisfies WorldClass

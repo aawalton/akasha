@@ -9,4 +9,6 @@ export const guardsman = {
   appearanceCount: 181,
   evolvesToSlugs: ["world-class/shield-companion"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.981Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

@@ -9,4 +9,6 @@ export const driver = {
   appearanceCount: 53,
   aliases: ["drivers"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.439Z",
+  updatedAt: "2026-09-22T13:28:56.000Z",
 } as const satisfies WorldClass

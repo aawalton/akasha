@@ -10,4 +10,6 @@ export const famedCoach = {
   evolvesFromSlugs: ["world-class/coach"],
   evolvesToSlugs: ["world-class/world-renowned-coach"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.962Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

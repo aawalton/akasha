@@ -10,4 +10,6 @@ export const healer = {
   aliases: ["healers"],
   evolvesToSlugs: ["world-class/headstrong-healer"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.990Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

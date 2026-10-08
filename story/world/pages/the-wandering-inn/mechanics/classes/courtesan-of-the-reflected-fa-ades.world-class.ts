@@ -6,4 +6,6 @@ export const courtesanOfTheReflectedFaAdes = {
   slug: "courtesan-of-the-reflected-fa-ades",
   title: "Courtesan of the Reflected Façades",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:16.432Z",
+  updatedAt: "2026-09-19T16:28:00.000Z",
 } as const satisfies WorldClass

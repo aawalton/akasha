@@ -9,4 +9,6 @@ export const footballPlayer = {
   appearanceCount: 1,
   evolvesFromSlugs: ["world-class/kicker"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.966Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

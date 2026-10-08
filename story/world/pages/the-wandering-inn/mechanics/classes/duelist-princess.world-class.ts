@@ -9,4 +9,6 @@ export const duelistPrincess = {
   appearanceCount: 3,
   evolvesToSlugs: ["world-class/queen-temporary"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.957Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

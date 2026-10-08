@@ -9,4 +9,6 @@ export const greatChieftain = {
   appearanceCount: 24,
   evolvesToSlugs: ["world-class/goblin-lord-solstice-rags-of-change"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.462Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

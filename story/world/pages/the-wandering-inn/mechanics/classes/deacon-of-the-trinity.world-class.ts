@@ -6,4 +6,6 @@ export const deaconOfTheTrinity = {
   slug: "deacon-of-the-trinity",
   title: "Deacon of the Trinity",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:11.950Z",
+  updatedAt: "2026-09-19T16:28:00.000Z",
 } as const satisfies WorldClass

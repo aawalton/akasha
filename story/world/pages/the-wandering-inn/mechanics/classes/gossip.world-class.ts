@@ -10,4 +10,6 @@ export const gossip = {
   aliases: ["gossips"],
   evolvesToSlugs: ["world-class/honest-reporter"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.971Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

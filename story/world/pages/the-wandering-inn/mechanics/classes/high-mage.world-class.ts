@@ -9,4 +9,6 @@ export const highMage = {
   appearanceCount: 44,
   aliases: ["HIGH MAGE"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.468Z",
+  updatedAt: "2026-09-22T13:29:20.000Z",
 } as const satisfies WorldClass

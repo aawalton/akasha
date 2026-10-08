@@ -8,4 +8,6 @@ export const heroOfTurns = {
   world: "world/the-wandering-inn",
   appearanceCount: 5,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.991Z",
+  updatedAt: "2026-09-22T13:29:20.000Z",
 } as const satisfies WorldClass

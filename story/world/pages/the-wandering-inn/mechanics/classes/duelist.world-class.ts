@@ -9,4 +9,6 @@ export const duelist = {
   appearanceCount: 59,
   aliases: ["duelists"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.440Z",
+  updatedAt: "2026-09-22T13:28:56.000Z",
 } as const satisfies WorldClass

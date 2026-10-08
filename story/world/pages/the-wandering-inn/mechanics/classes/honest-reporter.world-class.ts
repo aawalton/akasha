@@ -9,4 +9,6 @@ export const honestReporter = {
   appearanceCount: 8,
   evolvesFromSlugs: ["world-class/gossip"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.993Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

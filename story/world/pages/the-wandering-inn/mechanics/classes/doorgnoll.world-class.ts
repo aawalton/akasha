@@ -13,4 +13,6 @@ export const doorgnoll = {
     "world-class/scion-of-discontinuance",
   ],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.953Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

@@ -9,4 +9,6 @@ export const expertRower = {
   appearanceCount: 8,
   evolvesToSlugs: ["world-class/peerless-marathon-sculler"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.449Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

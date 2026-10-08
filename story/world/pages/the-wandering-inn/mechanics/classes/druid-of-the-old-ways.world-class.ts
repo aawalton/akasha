@@ -8,4 +8,6 @@ export const druidOfTheOldWays = {
   world: "world/the-wandering-inn",
   appearanceCount: 1,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.440Z",
+  updatedAt: "2026-09-22T13:28:56.000Z",
 } as const satisfies WorldClass

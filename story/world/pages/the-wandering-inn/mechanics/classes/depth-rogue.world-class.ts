@@ -9,4 +9,6 @@ export const depthRogue = {
   appearanceCount: 2,
   evolvesToSlugs: ["world-class/depth-captain-of-misfits"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.434Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

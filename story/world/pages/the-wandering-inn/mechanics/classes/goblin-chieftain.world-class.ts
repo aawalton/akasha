@@ -7,4 +7,6 @@ export const goblinChieftain = {
   title: "Goblin Chieftain",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-class/chieftain-of-the-maw"],
+  createdAt: "2026-09-03T04:19:16.460Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

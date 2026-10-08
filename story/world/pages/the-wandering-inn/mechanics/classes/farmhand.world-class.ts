@@ -8,4 +8,6 @@ export const farmhand = {
   world: "world/the-wandering-inn",
   appearanceCount: 5,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.451Z",
+  updatedAt: "2026-09-22T13:29:04.000Z",
 } as const satisfies WorldClass

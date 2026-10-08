@@ -10,4 +10,6 @@ export const cursedPrincess = {
   evolvesFromSlugs: ["world-class/deathtouch-princess"],
   evolvesToSlugs: ["world-class/curse-bearer-princess"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.433Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

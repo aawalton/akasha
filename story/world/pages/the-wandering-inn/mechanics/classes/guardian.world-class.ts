@@ -9,4 +9,6 @@ export const guardian = {
   appearanceCount: 5,
   evolvesToSlugs: ["world-class/skeleton-knight"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:11.975Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass
