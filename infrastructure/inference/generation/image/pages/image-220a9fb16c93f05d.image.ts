@@ -16,4 +16,6 @@ export const image220a9fb16c93f05d = {
   height: 832,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Peruvian with warm bronze skin, long dark hair in two loose braids, a woven friendship anklet, fit athletic build, lying on her stomach on a colorful striped Andean blanket on a sunny slope in a park, nude, a sun hat resting on her lower back, head turned to the side on her folded arms, fast asleep, wide overhead-angle shot showing the slope and a row of cypress trees, clear late-afternoon light, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:34:04.294Z",
+  updatedAt: "2026-09-28T21:34:29.000Z",
 } as const satisfies Image

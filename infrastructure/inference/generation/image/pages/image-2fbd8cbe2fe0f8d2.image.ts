@@ -19,4 +19,6 @@ export const image2fbd8cbe2fe0f8d2 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She sits sideways on a sunny park lawn with her knees drawn up to her chest, which hides it, rubbing sunscreen into her bare shoulder with one hand, looking down at her shoulder in concentration. She wears a wide-brimmed straw sun hat, a turquoise bikini bottom, and a stack of thin gold bangles; a bottle of sunscreen and a folded peach towel lie beside her. Side profile camera, crisp bright noon sun and short shadows, a hedge of roses behind her. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:13:58.916Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

@@ -27,4 +27,6 @@ export const image3352536cc45705cc = {
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/silk"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:12.746Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

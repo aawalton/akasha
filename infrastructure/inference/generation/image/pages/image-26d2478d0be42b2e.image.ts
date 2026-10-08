@@ -21,4 +21,6 @@ export const image26d2478d0be42b2e = {
   wardrobeTags: ["wardrobe-tag/witch-hat", "wardrobe-tag/cloak", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/witch"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:12.750Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const image2be564bcc0a183a2 = {
   ],
   prompt:
     "Put this woman on a black sand beach on a wild tropical island. She sits in the sand, bewildered, staring at her own hand. Loose oversized grey t-shirt slipping off one shoulder, black shorts over black tights, bare feet. Keep her face exactly the same. Epic fantasy film still.",
+  createdAt: "2026-09-28T19:59:12.266Z",
+  updatedAt: "2026-09-28T19:59:13.000Z",
 } as const satisfies Image

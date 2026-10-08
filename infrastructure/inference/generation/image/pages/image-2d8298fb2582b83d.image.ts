@@ -22,4 +22,6 @@ export const image2d8298fb2582b83d = {
   fantasyTags: ["fantasy-tag/naga"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-08-24T22:13:20.466Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

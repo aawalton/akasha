@@ -16,4 +16,6 @@ export const image211cd95b12df1347 = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Swedish with lightly tanned skin, long white-blonde beach waves, fit athletic build, standing on a small wooden dock at a park pond, nude from behind, a towel slung over one shoulder, looking back over her other shoulder with a playful smile, full-length shot from behind at a low angle, golden late-afternoon sun glittering on the water, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:32:00.639Z",
+  updatedAt: "2026-09-28T21:32:24.000Z",
 } as const satisfies Image

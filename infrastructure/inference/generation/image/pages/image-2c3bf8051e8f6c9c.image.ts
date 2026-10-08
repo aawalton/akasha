@@ -19,4 +19,6 @@ export const image2c3bf8051e8f6c9c = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add no horns or features she does not have. She sits cross-legged on a woven wool blanket in a sunny park meadow, working a small wooden lap loom, a long band of gold-threaded weaving spilling from it across her lap and drawn up over her chest, covering it, her bare shoulders and arms in the sun. Her bronze-gold hair is pinned up with strands escaping, a silver torc at her throat, a basket of colored yarn beside her. She looks down at the weaving with quiet focus, not at the camera. Camera from the side at seated height, warm late-afternoon light glinting on the gold thread. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:57:46.118Z",
+  updatedAt: "2026-09-28T20:05:28.000Z",
 } as const satisfies Image

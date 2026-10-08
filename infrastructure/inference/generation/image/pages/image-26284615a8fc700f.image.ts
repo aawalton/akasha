@@ -17,4 +17,6 @@ export const image26284615a8fc700f = {
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/fairy"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

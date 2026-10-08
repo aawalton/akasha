@@ -16,4 +16,6 @@ export const image319040e819554a0d = {
   ],
   prompt:
     "Keep this exact woman: same face, eyes, lips, skin and hair. Change the scene around her. Fantasy photorealistic, candid photograph, she does not look at the camera. She is a gorgeous, slim, athletic young Korean woman of twenty-one with a K-pop idol's pretty face: a small V-line face, almond-shaped eyes of bright green, a small nose, full lips in a crooked teasing grin, warm sun-kissed golden skin dusted with light freckles across her nose and cheeks, and a wild mass of long copper-red curls, barely tied back, with a slim build and small chest; but today her copper curls are wet, dark and combed flat to her head and tied back in a tight damp tail at the nape, not one curl loose. She wears a clean faded green linen shirt with the sleeves rolled to the elbow, dark trousers and scuffed boots, no jerkin. She stands on the front step of a bakery on a canal-side street, stiff and awkward, one hand raised to touch her flattened hair as if it hurt, her ears going red, eyes lowered to the cobbles, shifting her feet. Behind her the canal and old stone houses in low early morning sun. Nothing lettered. Medium full shot, 50mm lens, shallow depth of field.",
+  createdAt: "2026-10-04T14:17:21.458Z",
+  updatedAt: "2026-10-04T14:17:22.000Z",
 } as const satisfies Image

@@ -7,4 +7,6 @@ export const image28b7fcad9aabe28b = {
   title: "Scrambled eggs",
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/kitchen", "setting-tag/dining-room", "setting-tag/indoor"],
+  createdAt: "2026-09-21T21:55:35.111Z",
+  updatedAt: "2026-09-27T15:48:03.000Z",
 } as const satisfies Image

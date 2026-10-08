@@ -16,4 +16,6 @@ export const image24a398c2939bf627 = {
   ],
   prompt:
     "Keep this exact woman: same face, eyes, brows, lips, skin and hair. Change the scene around her. Photorealistic photograph. Light olive skin, dark brown almond-shaped eyes, straight defined dark brows, an oval face, full lips, long jet black hair in a single braid falling over one shoulder. She wears an old faded oversized blue University of Florida sleep shirt, soft and worn, its hem at mid-thigh, her legs bare, barefoot, the print on the shirt faded to a blurred shapeless crest with no readable letters. She sits curled up on a made queen hotel bed with her knees drawn up, leaning to her left, her head tilted as if resting on a shoulder just out of frame, one arm raised high and waving with her whole arm, a wide happy grin, looking straight ahead toward a doorway. Behind her is a retro resort motel room at night, a second queen bed with folded clothes stacked by color at its foot, a lamp with a scarf draped over it giving a low warm amber glow, blackout curtains drawn. Camera: medium shot from across the room at seated eye level, 50mm lens, her whole figure from knees up filling the frame, shallow depth of field with the amber room soft behind her.",
+  createdAt: "2026-10-07T01:36:33.740Z",
+  updatedAt: "2026-10-07T01:36:34.000Z",
 } as const satisfies Image

@@ -18,4 +18,6 @@ export const image2498c344d3f242e7 = {
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings"],
   fantasyTags: ["fantasy-tag/green-skin", "fantasy-tag/elf-ears"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:03.321Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -17,4 +17,6 @@ export const image23fc94b993121b5f = {
   ],
   prompt:
     "Fantasy photorealistic, candid photograph, nobody looks at the camera. Keep the place from the first image: this moment is on the edge of the narrow bed. The pink-haired woman from the second image sits in the warm dark with her hand flat on her chest under her breastbone, feeling for something far away, peaceful. The pink-haired woman from the second image is a gorgeous, slim young Korean woman of about twenty with a K-pop idol's face: a small V-line face, big sparkling doe eyes in soft rose pink the same color as her hair, a small delicate nose, glossy pink lips, pale porcelain skin with a soft blush, a sweet bright smile, and short soft rose-pink hair in a layered bob with wispy side-swept bangs, a small pink-and-white flower clip above one ear, with a slim build and small chest, wearing a cropped cream halter top laced up the front, a short sage-green skirt, a brown leather belt with pouches, brown fingerless gloves and tall brown boots. Night, a single candle and the warm glow of canal lanterns through the round window. Nothing lettered. Medium shot, 35mm lens, shallow depth of field, every face sharp and readable.",
+  createdAt: "2026-10-04T13:07:11.000Z",
+  updatedAt: "2026-10-04T13:07:11.000Z",
 } as const satisfies Image

@@ -11,4 +11,6 @@ export const image310c734ea88fc290 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/skirt"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:33.377Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

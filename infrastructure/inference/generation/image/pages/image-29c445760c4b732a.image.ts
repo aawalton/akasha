@@ -9,4 +9,6 @@ export const image29c445760c4b732a = {
   settingTags: ["setting-tag/cave", "setting-tag/forest", "setting-tag/tent"],
   poseTags: ["pose-tag/standing", "pose-tag/squatting"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots", "wardrobe-tag/fully-clothed"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:06.000Z",
 } as const satisfies Image

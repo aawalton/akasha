@@ -16,4 +16,6 @@ export const image2e394066f6ef3015 = {
   height: 1216,
   prompt:
     "A 23-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Filipina with warm tan skin, long glossy black hair, fit toned build, kneeling upright on a white blanket on the grass, topless, wearing a red floral sarong tied low on her hips, reaching both hands behind her neck to tie her hair up, eyes closed against the sun, seen from a low angle at her side, bright tropical-feeling late-morning sun, palm-like ferns and bright hibiscus behind her in the park conservatory garden, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:17:21.668Z",
+  updatedAt: "2026-09-28T21:17:43.000Z",
 } as const satisfies Image

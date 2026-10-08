@@ -18,4 +18,6 @@ export const image37131961ea5ac8b5 = {
   fantasyTags: ["fantasy-tag/horns"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:08.047Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

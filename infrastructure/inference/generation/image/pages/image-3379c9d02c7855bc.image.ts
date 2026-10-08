@@ -11,4 +11,6 @@ export const image3379c9d02c7855bc = {
   wardrobeTags: ["wardrobe-tag/tunic", "wardrobe-tag/armor", "wardrobe-tag/gloves"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/anime"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:09.296Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

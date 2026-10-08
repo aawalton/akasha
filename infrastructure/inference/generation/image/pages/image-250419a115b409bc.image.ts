@@ -17,4 +17,6 @@ export const image250419a115b409bc = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, she does not look at the camera. Keep the place from the first image, the attic room, late at night. The pink-haired woman from the second image lies asleep on her back on the narrow bed with the patchwork quilt, fully dressed, boots off on the floor beside the bed, a small blue notebook lying open on her chest, one hand resting on it, her face peaceful and content, eyes closed. Above her the round window stands open onto the night canal, strings of paper lanterns glowing outside. The pink-haired woman: a gorgeous slim young Korean woman of about twenty, small V-line face, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt. Soft warm lantern glow from the window and a guttering candle, deep blue night shadows. Medium shot from beside the bed, 35mm lens, her face clear.",
+  createdAt: "2026-10-04T12:48:50.525Z",
+  updatedAt: "2026-10-04T12:48:51.000Z",
 } as const satisfies Image

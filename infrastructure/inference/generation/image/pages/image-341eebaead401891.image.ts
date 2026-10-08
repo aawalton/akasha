@@ -16,4 +16,6 @@ export const image341eebaead401891 = {
   height: 1216,
   prompt:
     "Candid photograph of a 23-year-old adult woman, fresh youthful grown woman's face, Dutch with fair skin, a long straight platinum blonde bob, tall slender build with a small flat chest, poised on the edge of a luxury hotel pool about to dive, arms stretched above her head, knees bent, wearing a black scoop-back one-piece swimsuit, focused expression looking at the water, not at the camera, seen from the side, white marble deck, cypress trees and a stone villa behind, crisp morning light, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:02:07.867Z",
+  updatedAt: "2026-10-04T22:03:05.000Z",
 } as const satisfies Image

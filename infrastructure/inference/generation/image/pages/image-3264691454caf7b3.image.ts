@@ -26,4 +26,6 @@ export const image3264691454caf7b3 = {
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-13T13:27:23.627Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

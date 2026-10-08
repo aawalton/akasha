@@ -12,4 +12,6 @@ export const image353e93f8f18c21e8 = {
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/open-shirt", "wardrobe-tag/cleavage"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:03.324Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

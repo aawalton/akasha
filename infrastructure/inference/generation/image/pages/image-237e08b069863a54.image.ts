@@ -19,4 +19,6 @@ export const image237e08b069863a54 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She lies on her stomach on a deep red blanket in a park, chin propped on both hands, bare feet kicked up and crossed in the air behind her, grinning mischievously off to the side at something out of frame, not at the camera. Her back is bare to the sun, her chest pressed hidden against the blanket; she wears only a sheer flame-orange silk scarf knotted around her hips and a thin gold chain around her waist. Camera low at grass level from the front and slightly to the side, fiery golden-hour backlight making her hair glow. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:22:45.188Z",
+  updatedAt: "2026-09-28T19:23:08.000Z",
 } as const satisfies Image

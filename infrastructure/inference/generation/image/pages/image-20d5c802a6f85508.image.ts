@@ -22,4 +22,6 @@ export const image20d5c802a6f85508 = {
   fantasyTags: ["fantasy-tag/antlers", "fantasy-tag/elf-ears", "fantasy-tag/bioluminescence"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-08-17T12:32:35.787Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

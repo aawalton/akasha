@@ -16,4 +16,6 @@ export const image2dec4c00cd7cdf34 = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Mexican with tan skin, thick dark curls, gold hoop earrings, toned fit build, sitting on a low stone wall at the edge of a park fountain, a yellow sundress pushed down around her waist, arms wrapped around her raised knees, chin on her knees, looking out at the water with a dreamy expression, close crop from the side, bright afternoon sun and fountain spray glinting, alone, photorealistic, natural skin detail, 85mm",
+  createdAt: "2026-09-28T21:12:07.852Z",
+  updatedAt: "2026-09-28T21:12:28.000Z",
 } as const satisfies Image

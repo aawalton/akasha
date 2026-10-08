@@ -16,4 +16,6 @@ export const image30d26bf1865b3925 = {
   ],
   prompt:
     "Keep this exact place. Change the light and time around it. Fantasy photorealistic, candid photograph, with nobody in the frame. Bellmoor barrow on the open downs at the middle of a summer morning: a long green grassed burial mound, longer than a great hall, smooth and round-backed, lying along the bottom of a long shallow fold in the rolling downs like something asleep. The whole mound is blue with harebells, thousands of tiny pale blue bells on fine stems nodding in the wind. Around it in a wide ring stand tall grey standing stones, taller than a person, leaning a little this way and that like old teeth, with yellow lichen on their weather sides. A wide band of long uncut grass surrounds the ring, and far off down the fold a flock of sheep grazes on close-cropped turf, keeping well away. A pale dirt road dips into the fold in the foreground. Bright clear mid-morning sun, big blue sky with a few white clouds. Nothing lettered. Eye-level view from the road at the lip of the fold, looking down along the mound and the ring of stones, 35mm lens, deep focus.",
+  createdAt: "2026-10-06T15:36:23.699Z",
+  updatedAt: "2026-10-06T15:36:24.000Z",
 } as const satisfies Image

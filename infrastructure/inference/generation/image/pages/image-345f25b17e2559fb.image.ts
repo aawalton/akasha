@@ -16,4 +16,6 @@ export const image345f25b17e2559fb = {
   height: 1216,
   prompt:
     "Candid photograph of a 22-year-old adult woman, fresh youthful grown woman's face, Thai with warm golden skin, long black hair loose and wet, very petite slim build, nearly flat chest with tiny breasts, kneeling on a white sun lounger at a secluded luxury hotel pool, peeling down the side string of her white bikini bottom with one thumb, topless, biting her lower lip with a teasing smile, eyes glancing up, frangipani trees and turquoise water behind, warm late afternoon light, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:09:02.064Z",
+  updatedAt: "2026-10-04T22:09:50.000Z",
 } as const satisfies Image

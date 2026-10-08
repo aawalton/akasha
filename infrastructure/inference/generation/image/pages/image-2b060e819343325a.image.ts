@@ -16,4 +16,6 @@ export const image2b060e819343325a = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Cuban with warm tan skin, dark hair in a high sleek ponytail, bold eyeliner, athletic toned build with visible abs, doing a slow stretch on a yoga mat on the grass, seated forward fold reaching for her toes, topless in teal high-cut bikini bottoms, face turned to the side and resting on her knee, eyes closed, side profile shot at mat level, clean bright morning light, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:30:02.959Z",
+  updatedAt: "2026-09-28T21:30:27.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const image23bfbec58a3f503c = {
   ],
   prompt:
     "Keep this exact place. Fantasy photorealistic, candid photograph. The Copper Baths on the lake shore in morning, with nobody in the frame: a great round dome of copper gone green with weather, smooth as an upturned bowl, with a little lantern tower on top, at the end of a long stone quay. White steam curls out of vents all round the base of the dome and drifts across the lake water in wisps. Stone steps lead up to a pair of tall doors with copper handles shaped like fish. Calm bright lake beyond, soft early summer morning sun. Nothing lettered. Wide shot from the quay, 28mm lens, deep focus.",
+  createdAt: "2026-10-04T15:56:08.000Z",
+  updatedAt: "2026-10-04T15:56:08.000Z",
 } as const satisfies Image

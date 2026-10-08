@@ -16,4 +16,6 @@ export const image1fd38aa0071abb3a = {
   height: 832,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Lebanese with light olive skin, voluminous dark curls, a gold body chain around her waist, fit slim build, lying on her side on a cream fringed blanket beneath a flowering chestnut tree, topless, with a mint-green silk slip dress bunched around her hips, propped on her elbow feeding herself green grapes, looking lazily off to the side, eye-level shot, warm dappled early-evening light, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:32:40.726Z",
+  updatedAt: "2026-09-28T21:33:06.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const image33b7c9a0ad8babc5 = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Greek with olive skin, long dark hair braided with a thin ribbon, fit athletic swimmer's build, sitting on a large flat sun-warmed boulder in a park rock garden, nude, legs drawn up to one side, arms braced behind her, head tilted back with eyes closed soaking up the sun, silver armlet on her upper arm, three-quarter view from a low angle, intense golden late-afternoon light, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:19:54.739Z",
+  updatedAt: "2026-09-28T21:20:18.000Z",
 } as const satisfies Image

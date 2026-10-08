@@ -17,4 +17,6 @@ export const image270a6ef0eddee093 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the white stone and the columns of the Hall of Naming from the first image, but outside it now: the broad white stone steps up to its tall closed doors, its glass dome above catching misty light, the lake behind in white mist. A long quiet line of nervous young East Asian adults of twenty in their best clothes waits up the steps, holding their hands in careful places. The pink-haired woman from the second image stands last in the line, two steps below the others, looking up at the doors, gripping the strap of her small leather satchel in both fists, wide-eyed, anxious and hopeful. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall brown boots. Soft hazy morning light through mist. Wide shot from below the steps, 28mm lens, her face clear in the foreground.",
+  createdAt: "2026-10-04T09:57:04.861Z",
+  updatedAt: "2026-10-04T09:57:05.000Z",
 } as const satisfies Image

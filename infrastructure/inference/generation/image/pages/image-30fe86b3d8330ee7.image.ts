@@ -5,4 +5,6 @@ export const image30fe86b3d8330ee7 = {
   type: "page-type/image",
   slug: "image-30fe86b3d8330ee7",
   title: "Otherwhere turn 10 — Nala reading, qwen edit from her cover",
+  createdAt: "2026-09-28T18:09:57.917Z",
+  updatedAt: "2026-09-28T18:10:03.000Z",
 } as const satisfies Image

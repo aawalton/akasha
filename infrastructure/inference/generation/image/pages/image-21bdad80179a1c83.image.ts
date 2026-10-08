@@ -16,4 +16,6 @@ export const image21bdad80179a1c83 = {
   ],
   prompt:
     "Keep this exact woman: same face, eyes, lips, skin and hair. Change the scene around her. Fantasy photorealistic, candid photograph, she does not look at the camera. She is a gorgeous, slim, athletic young Korean woman of twenty-one with a K-pop idol's pretty face: a small V-line face, almond-shaped eyes of bright green, a small nose, full lips in a crooked teasing grin, warm sun-kissed golden skin dusted with light freckles across her nose and cheeks, and a wild mass of long copper-red curls, barely tied back, with a slim build and small chest. She wears a sleeveless battered brown leather jerkin buckled over a faded green shirt, cloth knuckle wraps, dark trousers and scuffed boots. She stands in a steamy stone bathhouse hall with an iron stair behind her, grinning all over her face, both hands busy unbuckling the front of her jerkin, eagerly, looking up the stair toward the pools. Warm lamplight through steam, copper pipes on the wall. Nothing lettered. Medium full shot, 35mm lens, shallow depth of field.",
+  createdAt: "2026-10-04T15:57:27.774Z",
+  updatedAt: "2026-10-04T15:57:28.000Z",
 } as const satisfies Image

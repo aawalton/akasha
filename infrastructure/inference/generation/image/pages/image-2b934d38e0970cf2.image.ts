@@ -14,4 +14,6 @@ export const image2b934d38e0970cf2 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, candid photograph. A tiny attic bedroom under the slope of the roof at the top of a narrow old brick canal house in a fantasy canal city, empty, with nobody in it, no people. The ceiling comes down very low at the sides, old bare boards on the slope, whitewashed plaster between dark rafters. At the end is a small gable window, its glass full of a view of tiled roofs and chimney pots and blue sky, with grey pigeons sitting along the gutter outside. An old bare wooden bedstead with ropes laced back and forth across the frame where a mattress ought to be, no mattress. Bare dusty floorboards. One plain wall between this room and the next. Bright late morning sun coming through the gable window, dust in the light, warm and quiet. Nothing lettered. View from the low doorway toward the gable window, 24mm lens, deep focus.",
+  createdAt: "2026-10-07T02:10:06.000Z",
+  updatedAt: "2026-10-07T02:10:06.000Z",
 } as const satisfies Image
