@@ -49,19 +49,31 @@ export const terminusTheSystem = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Essence released into the atmosphere drifts toward the nearest collection tower.",
+      fact: "Essence released into the atmosphere drifts toward the collection towers.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The killer's share of a death's essence depends on how far the death is from the nearest tower.",
+      fact: "Each of the three tiers of towers casts its own pull field, and the three fields overlap.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "At a tower the killer takes the most it ever can: half of the dead's essence.",
+      fact: "Each tier's field gives the killer up to half of the essence the other fields leave.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The killer's share falls with distance from the tower, reaching nothing where towers' pulls balance.",
+      fact: "A tier's field gives half at that tier's towers, falling to nothing where they balance.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At a central tower all three fields peak, so the killer takes 7/8 of the dead's essence.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At a regional tower the killer takes at least 3/4, and at a local tower at least half.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A killer gains nothing only where the pulls of all three tiers balance at once.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -162,5 +174,5 @@ export const terminusTheSystem = {
     },
   ],
   createdAt: "2026-10-08T19:30:10.084Z",
-  updatedAt: "2026-10-08T19:40:27.394Z",
+  updatedAt: "2026-10-08T19:46:58.921Z",
 } as const satisfies Lore
