@@ -13,4 +13,6 @@ export const scriptureCollection3Nephi = {
   unit: "unit/words",
   status: "not-started",
   externalId: "3nephi",
+  createdAt: "2026-09-03T16:09:23.417Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies ScriptureCollection

@@ -12,4 +12,6 @@ export const scripturePassage1Samuel24 = {
   unit: "unit/words",
   status: "not-started",
   externalId: "1samuel24",
+  createdAt: "2026-09-03T16:04:52.265Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies ScripturePassage

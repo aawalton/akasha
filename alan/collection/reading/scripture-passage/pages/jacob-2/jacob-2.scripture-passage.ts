@@ -11,4 +11,6 @@ export const jacob2 = {
   passageText: "txt",
   status: "not-started",
   externalId: "jacob2",
+  createdAt: "2026-06-27T14:23:30.919Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies ScripturePassage

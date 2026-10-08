@@ -9,4 +9,6 @@ export const isaiah5513 = {
   translation: "web",
   position: 12,
   passageText: "txt",
+  createdAt: "2026-08-14T00:19:13.893Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies ScripturePassage
