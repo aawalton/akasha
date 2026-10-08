@@ -9,4 +9,6 @@ export const chest = {
   armorMultiplier: 8,
   validSlots: ["temper-armor-slot/chest"],
   enchantmentMultiplier: 1,
+  createdAt: "2026-09-02T01:56:49.741Z",
+  updatedAt: "2026-09-27T05:21:39.000Z",
 } as const satisfies TemperArmorType

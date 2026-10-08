@@ -9,4 +9,6 @@ export const warden = {
   icon: "🐻",
   esoClassId: 4,
   hashPlace: 7,
+  createdAt: "2026-09-02T01:49:01.647Z",
+  updatedAt: "2026-09-27T01:48:07.000Z",
 } as const satisfies TemperClass

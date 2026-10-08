@@ -8,4 +8,6 @@ export const mountStaminaRegenCombat = {
   metric: "temper-metric/mount-stamina-regen-combat",
   effectType: "integer",
   value: 100,
+  createdAt: "2026-09-26T19:55:20.232Z",
+  updatedAt: "2026-09-26T19:55:28.000Z",
 } as const satisfies TemperBaseStat

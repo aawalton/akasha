@@ -9,4 +9,6 @@ export const mirri = {
   companionId: "temper-eso-companion/mirri",
   accountPage: "temper-account/alanarre",
   liveBuildId: "01a0d927-88c1-7193-bfbd-e06120a07a0e",
+  createdAt: "2026-04-29T16:44:41.812Z",
+  updatedAt: "2026-09-25T15:20:44.000Z",
 } as const satisfies TemperCompanionProgress

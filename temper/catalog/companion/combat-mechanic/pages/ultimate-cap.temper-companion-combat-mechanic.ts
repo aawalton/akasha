@@ -7,4 +7,6 @@ export const ultimateCap = {
   key: "ultimate-cap",
   title: "Ultimate Cap",
   mechanicValue: 500,
+  createdAt: "2026-09-26T18:53:02.313Z",
+  updatedAt: "2026-09-26T18:53:05.000Z",
 } as const satisfies TemperCompanionCombatMechanic

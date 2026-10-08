@@ -17,4 +17,6 @@ export const healer = {
   defaultOffHand: "no-type",
   validTraitIds: ["soothing", "quickened", "focused"],
   validWeaponRoleIds: ["restoration-staff"],
+  createdAt: "2026-09-02T01:49:41.403Z",
+  updatedAt: "2026-09-27T04:17:48.000Z",
 } as const satisfies TemperCompanionBaseRole

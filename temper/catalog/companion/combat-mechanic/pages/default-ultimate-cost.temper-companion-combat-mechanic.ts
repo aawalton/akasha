@@ -7,4 +7,6 @@ export const defaultUltimateCost = {
   key: "default-ultimate-cost",
   title: "Default Ultimate Cost",
   mechanicValue: 100,
+  createdAt: "2026-09-26T19:26:45.150Z",
+  updatedAt: "2026-09-26T19:27:04.000Z",
 } as const satisfies TemperCompanionCombatMechanic

@@ -13,4 +13,6 @@ export const allSharedFirmness = {
   skillLineId: "temper-companion-skill-line/armor-heavy",
   skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
+  createdAt: "2026-05-26T13:40:47.274Z",
+  updatedAt: "2026-09-27T09:27:45.000Z",
 } as const satisfies TemperCompanionSkill

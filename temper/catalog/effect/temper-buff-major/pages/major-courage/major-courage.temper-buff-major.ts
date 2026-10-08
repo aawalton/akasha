@@ -8,4 +8,6 @@ export const majorCourage = {
   key: "major-courage",
   description: "Increases Weapon and Spell Damage by 430",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:04.407Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperBuffMajor

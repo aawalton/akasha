@@ -11,4 +11,6 @@ export const noWeight = {
   skillLineId: "temper-skill-line/no-skill-line",
   hashPlace: 3,
   armorType: 0,
+  createdAt: "2026-09-02T01:56:49.745Z",
+  updatedAt: "2026-09-27T02:49:23.000Z",
 } as const satisfies TemperArmorWeight

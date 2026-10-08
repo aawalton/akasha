@@ -8,4 +8,6 @@ export const accountExploration = {
   category: "account",
   displayOrder: 8,
   activity: "temper-activity-category/exploration",
+  createdAt: "2026-09-02T09:17:10.091Z",
+  updatedAt: "2026-09-27T03:05:59.000Z",
 } as const satisfies TemperAchievementCategory

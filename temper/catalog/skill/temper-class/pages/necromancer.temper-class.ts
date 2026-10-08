@@ -9,4 +9,6 @@ export const necromancer = {
   icon: "💀",
   esoClassId: 5,
   hashPlace: 2,
+  createdAt: "2026-09-02T01:49:01.646Z",
+  updatedAt: "2026-09-27T01:48:07.000Z",
 } as const satisfies TemperClass

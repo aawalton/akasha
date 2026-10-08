@@ -6,4 +6,6 @@ export const companionCriticalChance = {
   slug: "companion-critical-chance",
   key: "companion-critical-chance",
   title: "Crit Chance",
+  createdAt: "2026-09-02T01:48:14.456Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperCompanionPassiveMetric

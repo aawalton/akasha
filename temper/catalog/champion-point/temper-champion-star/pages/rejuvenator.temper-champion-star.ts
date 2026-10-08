@@ -11,4 +11,6 @@ export const rejuvenator = {
   isSlottable: true,
   effects: [{ metric: "temper-metric/power", effectType: "integer", value: 205 }],
   hashPlace: 94,
+  createdAt: "2026-09-27T05:00:00.923Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

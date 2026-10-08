@@ -8,4 +8,6 @@ export const majorProphecy = {
   key: "major-prophecy",
   description: "Increases Spell Critical by 2629",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:04.410Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperBuffMajor

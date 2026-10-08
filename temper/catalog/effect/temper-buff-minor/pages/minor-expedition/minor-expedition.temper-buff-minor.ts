@@ -8,4 +8,6 @@ export const minorExpedition = {
   key: "minor-expedition",
   description: "Increases movement speed by 15%",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:04.414Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperBuffMinor

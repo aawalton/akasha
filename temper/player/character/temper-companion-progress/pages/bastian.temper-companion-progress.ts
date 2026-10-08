@@ -9,4 +9,6 @@ export const bastian = {
   companionId: "temper-eso-companion/bastian",
   accountPage: "temper-account/alanarre",
   liveBuildId: "01a0d927-79ed-7af7-99e5-373e9b2c2043",
+  createdAt: "2026-04-29T16:44:41.071Z",
+  updatedAt: "2026-09-27T14:17:06.000Z",
 } as const satisfies TemperCompanionProgress

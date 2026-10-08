@@ -7,4 +7,6 @@ export const lightAttackCooldown = {
   key: "light-attack-cooldown",
   title: "Light Attack Global Cooldown",
   mechanicValue: 0.7,
+  createdAt: "2026-09-26T18:10:34.964Z",
+  updatedAt: "2026-09-26T18:52:12.000Z",
 } as const satisfies TemperCompanionCombatMechanic

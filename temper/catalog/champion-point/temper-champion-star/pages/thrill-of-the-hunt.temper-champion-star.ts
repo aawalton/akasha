@@ -11,4 +11,6 @@ export const thrillOfTheHunt = {
   championConstellation: "fitness",
   isSlottable: true,
   hashPlace: 46,
+  createdAt: "2026-09-27T05:00:00.924Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

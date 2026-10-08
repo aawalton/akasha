@@ -14,4 +14,6 @@ export const heavy = {
   armorType: 3,
   levelSlope: 4,
   levelIntercept: 54.5,
+  createdAt: "2026-09-02T01:56:49.744Z",
+  updatedAt: "2026-09-27T04:15:45.000Z",
 } as const satisfies TemperArmorWeight

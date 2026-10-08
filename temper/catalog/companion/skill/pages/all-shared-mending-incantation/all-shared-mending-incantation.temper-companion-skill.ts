@@ -15,4 +15,6 @@ export const allSharedMendingIncantation = {
   validRoles: ["healer", "tank", "support"],
   tags: ["cone-aoe"],
   skillEffects: "jsonl",
+  createdAt: "2026-05-26T23:10:27.672Z",
+  updatedAt: "2026-09-22T20:39:10.000Z",
 } as const satisfies TemperCompanionSkill

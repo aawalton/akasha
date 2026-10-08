@@ -7,4 +7,6 @@ export const accountRecentSeasons = {
   title: "Recent Seasons",
   category: "account",
   displayOrder: 0,
+  createdAt: "2026-09-02T09:17:10.085Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperAchievementCategory

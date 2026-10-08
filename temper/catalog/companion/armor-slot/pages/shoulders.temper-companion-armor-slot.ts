@@ -8,4 +8,6 @@ export const shoulders = {
   title: "Shoulders",
   slotEquipType: "temper-equip-type/shoulders",
   equipmentIconName: "shoulders",
+  createdAt: "2026-09-02T01:48:45.545Z",
+  updatedAt: "2026-09-27T04:55:40.000Z",
 } as const satisfies TemperCompanionArmorSlot

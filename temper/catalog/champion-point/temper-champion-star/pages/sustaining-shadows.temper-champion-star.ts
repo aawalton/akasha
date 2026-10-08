@@ -11,4 +11,6 @@ export const sustainingShadows = {
   isSlottable: true,
   effects: [{ metric: "temper-metric/sneak-cost", effectType: "fractional-change", value: -0.5 }],
   hashPlace: 29,
+  createdAt: "2026-09-27T05:00:00.923Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

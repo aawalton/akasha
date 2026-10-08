@@ -15,4 +15,6 @@ export const noQuality = {
   oneHandedWeaponDamage: 0,
   twoHandedWeaponDamage: 0,
   shieldArmorValue: 0,
+  createdAt: "2026-09-02T01:48:45.547Z",
+  updatedAt: "2026-09-26T16:46:52.000Z",
 } as const satisfies TemperCompanionEquipmentQuality

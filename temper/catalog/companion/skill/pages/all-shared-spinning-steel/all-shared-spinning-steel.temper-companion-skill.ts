@@ -15,4 +15,6 @@ export const allSharedSpinningSteel = {
   validRoles: ["dps"],
   tags: ["execute-3x-below-25pct"],
   skillEffects: "jsonl",
+  createdAt: "2026-05-26T23:10:27.669Z",
+  updatedAt: "2026-09-22T20:39:10.000Z",
 } as const satisfies TemperCompanionSkill

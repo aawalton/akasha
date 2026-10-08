@@ -13,4 +13,6 @@ export const soothingTide = {
     { metric: "temper-metric/healing-done-aoe", effectType: "fractional-change", value: 0.1 },
   ],
   hashPlace: 93,
+  createdAt: "2026-09-27T05:00:00.923Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

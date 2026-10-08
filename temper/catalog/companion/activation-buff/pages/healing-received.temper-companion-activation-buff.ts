@@ -7,4 +7,6 @@ export const healingReceived = {
   key: "healing-received",
   effectCategory: "healing",
   title: "Healing Received",
+  createdAt: "2026-09-02T01:48:14.453Z",
+  updatedAt: "2026-09-26T18:25:50.000Z",
 } as const satisfies TemperCompanionActivationBuff

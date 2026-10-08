@@ -6,4 +6,6 @@ export const nonCombatPets = {
   slug: "non-combat-pets",
   title: "Non-Combat Pets",
   esoCategoryIndex: 12,
+  createdAt: "2026-09-02T09:14:01.450Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperCollectibleCategory

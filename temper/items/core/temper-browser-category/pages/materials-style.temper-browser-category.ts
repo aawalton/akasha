@@ -9,4 +9,6 @@ export const materialsStyle = {
   match: "Materials",
   itemTypes: ["temper-item-type/style-material"],
   parent: "temper-browser-category/materials",
+  createdAt: "2026-09-27T04:08:47.713Z",
+  updatedAt: "2026-09-27T04:34:39.000Z",
 } as const satisfies TemperBrowserCategory

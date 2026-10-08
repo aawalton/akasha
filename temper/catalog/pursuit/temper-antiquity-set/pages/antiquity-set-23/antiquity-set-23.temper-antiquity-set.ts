@@ -5,4 +5,6 @@ export const antiquitySet23 = {
   type: "page-type/temper-antiquity-set",
   slug: "antiquity-set-23",
   esoAntiquitySetId: 23,
+  createdAt: "2026-09-24T23:43:55.017Z",
+  updatedAt: "2026-09-24T23:43:58.000Z",
 } as const satisfies TemperAntiquitySet

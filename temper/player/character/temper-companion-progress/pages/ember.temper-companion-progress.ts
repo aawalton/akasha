@@ -9,4 +9,6 @@ export const ember = {
   companionId: "temper-eso-companion/ember",
   accountPage: "temper-account/alanarre",
   liveBuildId: "01a0d927-97c9-7502-9abe-1bc957a55e1f",
+  createdAt: "2026-04-29T16:44:42.553Z",
+  updatedAt: "2026-09-25T15:20:48.000Z",
 } as const satisfies TemperCompanionProgress

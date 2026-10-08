@@ -6,4 +6,6 @@ export const companionPenetration = {
   slug: "companion-penetration",
   key: "companion-penetration",
   title: "Penetration",
+  createdAt: "2026-09-02T01:48:14.458Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperCompanionPassiveMetric

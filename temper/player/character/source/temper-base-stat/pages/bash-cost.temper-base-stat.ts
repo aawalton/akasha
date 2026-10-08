@@ -8,4 +8,6 @@ export const bashCost = {
   metric: "temper-metric/bash-cost",
   effectType: "integer",
   value: 765,
+  createdAt: "2026-09-26T19:55:20.231Z",
+  updatedAt: "2026-09-26T19:55:28.000Z",
 } as const satisfies TemperBaseStat

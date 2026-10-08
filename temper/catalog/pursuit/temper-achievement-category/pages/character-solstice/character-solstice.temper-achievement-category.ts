@@ -7,4 +7,6 @@ export const characterSolstice = {
   title: "Solstice",
   category: "character",
   displayOrder: 4,
+  createdAt: "2026-09-02T09:17:10.097Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperAchievementCategory

@@ -9,4 +9,6 @@ export const breakFreeCooldown = {
   metricId: "temper-companion-passive-metric/companion-break-free-cooldown",
   effectType: "integer",
   value: 12,
+  createdAt: "2026-09-26T17:47:32.969Z",
+  updatedAt: "2026-09-26T17:47:36.000Z",
 } as const satisfies TemperCompanionBaseStat

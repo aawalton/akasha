@@ -9,4 +9,6 @@ export const accountHousingDecorating = {
   displayOrder: 2,
   parent: "temper-achievement-category/account-housing",
   achievements: "jsonl",
+  createdAt: "2026-09-02T09:17:10.093Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies TemperAchievementCategory

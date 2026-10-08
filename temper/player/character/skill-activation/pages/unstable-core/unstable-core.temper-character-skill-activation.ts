@@ -8,4 +8,6 @@ export const unstableCore = {
   descriptionTemplate:
     "Envelop an enemy in a lightless sphere for 4 seconds, that harms them with growing intensity anytime they deal direct damage. Limited to one.\n\nTheir first attack reduces their Movement Speed by 30% for 4 seconds and deals $1 Magic Damage, their second attack immobilizes them for 3 seconds and deals $2 Magic Damage, and their third attack stuns them for 3 seconds and deals $3 Magic Damage. The effects can activate once every 1 second.",
   activationEffects: "jsonl",
+  createdAt: "2026-05-26T13:15:10.440Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies TemperCharacterSkillActivation

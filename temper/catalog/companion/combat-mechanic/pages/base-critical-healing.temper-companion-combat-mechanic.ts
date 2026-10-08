@@ -7,4 +7,6 @@ export const baseCriticalHealing = {
   key: "base-critical-healing",
   title: "Base Critical Healing",
   mechanicValue: 0.5,
+  createdAt: "2026-09-26T18:53:02.312Z",
+  updatedAt: "2026-09-26T18:53:05.000Z",
 } as const satisfies TemperCompanionCombatMechanic

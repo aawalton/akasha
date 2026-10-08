@@ -9,4 +9,6 @@ export const criticalDamage = {
   metricId: "temper-companion-passive-metric/companion-critical-damage",
   effectType: "fractional-change",
   value: 0.5,
+  createdAt: "2026-09-26T17:47:32.970Z",
+  updatedAt: "2026-09-26T17:47:36.000Z",
 } as const satisfies TemperCompanionBaseStat

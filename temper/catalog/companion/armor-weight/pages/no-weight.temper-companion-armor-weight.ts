@@ -7,4 +7,6 @@ export const noWeight = {
   key: "no-weight",
   title: "No Weight",
   hashPlace: 0,
+  createdAt: "2026-09-26T17:24:43.494Z",
+  updatedAt: "2026-09-26T17:24:46.000Z",
 } as const satisfies TemperCompanionArmorWeight

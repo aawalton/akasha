@@ -9,4 +9,6 @@ export const shield = {
   armorMultiplier: 1,
   validSlots: ["temper-weapon-slot/off-hand"],
   enchantmentMultiplier: 1,
+  createdAt: "2026-09-02T01:56:49.743Z",
+  updatedAt: "2026-09-27T05:21:39.000Z",
 } as const satisfies TemperArmorType

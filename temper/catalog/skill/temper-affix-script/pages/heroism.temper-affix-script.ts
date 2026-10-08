@@ -11,4 +11,6 @@ export const heroism = {
   uespId: 56,
   slotType: "affix-slot",
   hashPlace: 13,
+  createdAt: "2026-09-02T01:49:01.641Z",
+  updatedAt: "2026-09-26T18:55:59.000Z",
 } as const satisfies TemperAffixScript

@@ -11,4 +11,6 @@ export const expertEvasion = {
   championConstellation: "fitness",
   isSlottable: true,
   hashPlace: 65,
+  createdAt: "2026-09-27T05:00:00.922Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

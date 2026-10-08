@@ -11,4 +11,6 @@ export const force = {
   uespId: 58,
   slotType: "affix-slot",
   hashPlace: 15,
+  createdAt: "2026-09-02T01:49:01.640Z",
+  updatedAt: "2026-09-26T18:55:59.000Z",
 } as const satisfies TemperAffixScript

@@ -8,4 +8,6 @@ export const majorEvasion = {
   key: "major-evasion",
   description: "Reduces damage from area attacks by 20%",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:04.408Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperBuffMajor

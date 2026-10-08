@@ -7,4 +7,6 @@ export const globalCooldown = {
   key: "global-cooldown",
   title: "Global Cooldown",
   mechanicValue: 1,
+  createdAt: "2026-09-26T18:10:34.963Z",
+  updatedAt: "2026-09-26T18:52:12.000Z",
 } as const satisfies TemperCompanionCombatMechanic

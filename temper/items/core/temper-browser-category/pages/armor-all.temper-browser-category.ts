@@ -8,4 +8,6 @@ export const armorAll = {
   displayOrder: 1,
   match: "Armor",
   parent: "temper-browser-category/armor",
+  createdAt: "2026-09-27T04:08:47.712Z",
+  updatedAt: "2026-09-27T04:34:39.000Z",
 } as const satisfies TemperBrowserCategory

@@ -8,4 +8,6 @@ export const other = {
   key: "other",
   badgeVariant: "green",
   displayOrder: 9,
+  createdAt: "2026-09-02T01:44:14.092Z",
+  updatedAt: "2026-09-27T12:16:16.000Z",
 } as const satisfies TemperActivityCategory

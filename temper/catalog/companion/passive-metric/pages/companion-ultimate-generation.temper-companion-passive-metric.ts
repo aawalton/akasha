@@ -6,4 +6,6 @@ export const companionUltimateGeneration = {
   slug: "companion-ultimate-generation",
   key: "companion-ultimate-generation",
   title: "Ultimate Gen",
+  createdAt: "2026-09-02T01:48:14.459Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperCompanionPassiveMetric

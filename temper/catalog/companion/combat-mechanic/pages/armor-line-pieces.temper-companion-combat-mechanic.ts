@@ -7,4 +7,6 @@ export const armorLinePieces = {
   key: "armor-line-pieces",
   title: "Armor Line Pieces",
   mechanicValue: 5,
+  createdAt: "2026-09-26T19:48:44.950Z",
+  updatedAt: "2026-09-26T19:48:53.000Z",
 } as const satisfies TemperCompanionCombatMechanic

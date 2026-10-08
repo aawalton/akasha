@@ -84,4 +84,6 @@ export const temperAddonCatalog = {
       statement: "The game writes saved variables only as the client shuts down.",
     },
   ],
+  createdAt: "2026-09-02T20:06:07.333Z",
+  updatedAt: "2026-09-24T22:10:41.000Z",
 } as const satisfies TemperAddon

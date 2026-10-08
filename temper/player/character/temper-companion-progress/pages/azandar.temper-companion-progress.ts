@@ -9,4 +9,6 @@ export const azandar = {
   companionId: "temper-eso-companion/azandar",
   accountPage: "temper-account/alanarre",
   liveBuildId: "01a0d927-c3c7-7a88-a2ab-6fcbb7a64334",
+  createdAt: "2026-04-29T16:44:44.806Z",
+  updatedAt: "2026-09-25T15:20:59.000Z",
 } as const satisfies TemperCompanionProgress

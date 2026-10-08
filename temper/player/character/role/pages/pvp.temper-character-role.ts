@@ -6,4 +6,6 @@ export const pvp = {
   slug: "pvp",
   title: "PvP",
   displayOrder: 4,
+  createdAt: "2026-09-02T01:51:56.746Z",
+  updatedAt: "2026-09-27T01:49:21.000Z",
 } as const satisfies TemperCharacterRole

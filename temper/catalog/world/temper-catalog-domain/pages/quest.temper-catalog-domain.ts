@@ -11,4 +11,6 @@ export const quest = {
   capturedAt: "2026-07-05T16:08:40.069Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
+  createdAt: "2026-09-02T01:39:30.993Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies TemperCatalogDomain

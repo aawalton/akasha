@@ -10,4 +10,6 @@ export const companionJewelry = {
   itemTypes: ["temper-item-type/armor"],
   equipTypes: ["temper-equip-type/ring", "temper-equip-type/neck"],
   parent: "temper-browser-category/companion",
+  createdAt: "2026-09-27T04:08:47.712Z",
+  updatedAt: "2026-09-27T04:34:39.000Z",
 } as const satisfies TemperBrowserCategory

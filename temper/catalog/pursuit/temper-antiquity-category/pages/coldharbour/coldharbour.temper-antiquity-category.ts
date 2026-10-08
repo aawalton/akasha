@@ -7,4 +7,6 @@ export const coldharbour = {
   title: "Coldharbour",
   esoAntiquityCategoryId: 25,
   antiquities: "jsonl",
+  createdAt: "2026-09-02T09:14:50.301Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperAntiquityCategory

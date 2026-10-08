@@ -13,4 +13,6 @@ export const bitingAura = {
     { metric: "temper-metric/damage-done-aoe", effectType: "fractional-change", value: 0.06 },
   ],
   hashPlace: 104,
+  createdAt: "2026-09-27T05:00:00.921Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

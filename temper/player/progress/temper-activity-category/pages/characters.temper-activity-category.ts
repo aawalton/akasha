@@ -8,4 +8,6 @@ export const characters = {
   key: "characters",
   badgeVariant: "blue",
   displayOrder: 2,
+  createdAt: "2026-09-02T01:44:14.090Z",
+  updatedAt: "2026-09-27T12:16:16.000Z",
 } as const satisfies TemperActivityCategory

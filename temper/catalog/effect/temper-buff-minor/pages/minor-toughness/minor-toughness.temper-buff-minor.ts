@@ -8,4 +8,6 @@ export const minorToughness = {
   key: "minor-toughness",
   description: "Increases Max Health by 10%",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:04.418Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperBuffMinor

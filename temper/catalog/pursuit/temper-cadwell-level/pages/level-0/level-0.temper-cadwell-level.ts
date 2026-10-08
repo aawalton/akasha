@@ -7,4 +7,6 @@ export const level0 = {
   title: "Level 0",
   displayOrder: 0,
   cadwellStops: "jsonl",
+  createdAt: "2026-09-02T09:20:08.926Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperCadwellLevel

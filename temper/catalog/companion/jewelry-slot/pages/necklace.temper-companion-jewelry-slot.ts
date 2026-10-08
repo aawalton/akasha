@@ -12,4 +12,6 @@ export const necklace = {
   allowsLegendary: false,
   pieceName: "Necklace",
   ttcItemId: 23706,
+  createdAt: "2026-09-02T01:48:45.546Z",
+  updatedAt: "2026-09-27T04:55:40.000Z",
 } as const satisfies TemperCompanionJewelrySlot

@@ -16,4 +16,6 @@ export const superior = {
   twoHandedWeaponDamage: 800,
   shieldArmorValue: 2800,
   ttcQualityId: 2,
+  createdAt: "2026-09-02T01:48:45.548Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies TemperCompanionEquipmentQuality

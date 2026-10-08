@@ -11,4 +11,6 @@ export const ornate = {
   displayOrder: 10,
   hashPlace: 10,
   available: false,
+  createdAt: "2026-09-02T01:18:23.184Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperArmorTrait

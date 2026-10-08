@@ -22,4 +22,6 @@ export const miscellaneousTrophy = {
     "temper-specialized-item-type/trophy-treasure-map",
   ],
   parent: "temper-browser-category/miscellaneous",
+  createdAt: "2026-09-27T04:08:47.713Z",
+  updatedAt: "2026-09-27T04:34:39.000Z",
 } as const satisfies TemperBrowserCategory

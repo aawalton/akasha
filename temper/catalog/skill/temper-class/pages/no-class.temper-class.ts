@@ -8,4 +8,6 @@ export const noClass = {
   key: "no-class",
   esoClassId: 0,
   hashPlace: 4,
+  createdAt: "2026-09-02T01:49:01.646Z",
+  updatedAt: "2026-09-27T01:48:07.000Z",
 } as const satisfies TemperClass

@@ -6,4 +6,6 @@ export const mounts = {
   slug: "mounts",
   title: "Mounts",
   esoCategoryIndex: 11,
+  createdAt: "2026-09-02T09:14:01.449Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperCollectibleCategory

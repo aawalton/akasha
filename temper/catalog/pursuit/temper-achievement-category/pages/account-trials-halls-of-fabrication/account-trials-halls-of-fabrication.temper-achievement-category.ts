@@ -10,4 +10,6 @@ export const accountTrialsHallsOfFabrication = {
   parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
   activity: "temper-activity-category/trials",
+  createdAt: "2026-09-02T09:17:10.090Z",
+  updatedAt: "2026-09-27T03:05:59.000Z",
 } as const satisfies TemperAchievementCategory

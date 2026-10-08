@@ -58,4 +58,6 @@ export const temperAddonWorld = {
       statement: "Every saved variable a feature keeps is named in the one manifest.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.617Z",
+  updatedAt: "2026-10-08T14:53:10.000Z",
 } as const satisfies TemperAddon

@@ -7,4 +7,6 @@ export const buy = {
   title: "Buy",
   key: "buy",
   displayOrder: 0,
+  createdAt: "2026-09-27T10:35:04.177Z",
+  updatedAt: "2026-09-27T10:35:07.000Z",
 } as const satisfies TemperBuyAction

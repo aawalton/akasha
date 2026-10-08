@@ -8,4 +8,6 @@ export const minorVitality = {
   key: "minor-vitality",
   description: "Increases healing received and damage shield strength by 6%",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:04.418Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperBuffMinor

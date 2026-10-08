@@ -9,4 +9,6 @@ export const nightblade = {
   icon: "🗡️",
   esoClassId: 3,
   hashPlace: 3,
+  createdAt: "2026-09-02T01:49:01.646Z",
+  updatedAt: "2026-09-27T01:48:07.000Z",
 } as const satisfies TemperClass

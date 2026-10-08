@@ -7,4 +7,6 @@ export const daggerfallCovenant = {
   title: "Daggerfall Covenant",
   esoAllianceId: 3,
   hashPlace: 3,
+  createdAt: "2026-09-02T01:39:07.021Z",
+  updatedAt: "2026-09-26T20:37:06.000Z",
 } as const satisfies TemperAlliance

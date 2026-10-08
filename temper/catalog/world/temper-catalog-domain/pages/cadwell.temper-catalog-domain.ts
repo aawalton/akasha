@@ -11,5 +11,6 @@ export const cadwell = {
   capturedAt: "2026-10-08T16:06:41.790Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
-  updatedAt: "2026-10-08T16:06:46.042Z",
+  updatedAt: "2026-10-08T16:07:24.250Z",
+  createdAt: "2026-09-02T01:39:30.990Z",
 } as const satisfies TemperCatalogDomain

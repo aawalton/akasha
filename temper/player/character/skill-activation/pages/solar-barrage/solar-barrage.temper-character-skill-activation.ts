@@ -8,4 +8,6 @@ export const solarBarrage = {
   descriptionTemplate:
     "Conjure solar energy to blast enemies around you, dealing $1 Magic Damage every 2 seconds and increasing your damage done with class abilities by 5% for 20 seconds.\n\nWhile this ability is active you gain Empower, increasing the damage of your Heavy Attacks against monsters by 70%.",
   activationEffects: "jsonl",
+  createdAt: "2026-05-26T13:15:10.443Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies TemperCharacterSkillActivation

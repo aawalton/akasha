@@ -30,4 +30,6 @@ export const dps = {
     "ice-staff",
     "lightning-staff",
   ],
+  createdAt: "2026-09-02T01:49:41.402Z",
+  updatedAt: "2026-09-27T04:17:48.000Z",
 } as const satisfies TemperCompanionBaseRole

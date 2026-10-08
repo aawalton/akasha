@@ -11,4 +11,6 @@ export const cowardice = {
   uespId: 61,
   slotType: "affix-slot",
   hashPlace: 18,
+  createdAt: "2026-09-02T01:49:01.638Z",
+  updatedAt: "2026-09-26T18:55:59.000Z",
 } as const satisfies TemperAffixScript

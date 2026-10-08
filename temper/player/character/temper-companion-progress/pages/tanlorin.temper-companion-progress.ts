@@ -9,4 +9,6 @@ export const tanlorin = {
   companionId: "temper-eso-companion/tanlorin",
   accountPage: "temper-account/alanarre",
   liveBuildId: "01a0d927-cfc6-752d-b377-8d180ec7e0c6",
+  createdAt: "2026-04-29T16:44:45.560Z",
+  updatedAt: "2026-09-25T15:21:02.000Z",
 } as const satisfies TemperCompanionProgress

@@ -8,4 +8,6 @@ export const radiantOppression = {
   descriptionTemplate:
     "Burn an enemy with a ray of holy fire, dealing $1 Magic Damage over 3.8 seconds. Deals up to 500% more damage to enemies below 40% Health.\n\nThis ability is considered direct damage.",
   activationEffects: "jsonl",
+  createdAt: "2026-05-26T13:15:10.445Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies TemperCharacterSkillActivation

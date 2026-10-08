@@ -14,4 +14,6 @@ export const prismaticDefense = {
   effects: "jsonl",
   hashPlace: 4,
   esoEnchantSearchCategory: 36,
+  createdAt: "2026-09-02T01:56:19.948Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperArmorEnchant

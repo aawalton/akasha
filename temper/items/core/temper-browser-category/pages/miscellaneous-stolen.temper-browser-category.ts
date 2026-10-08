@@ -8,4 +8,6 @@ export const miscellaneousStolen = {
   displayOrder: 9,
   match: "Stolen",
   parent: "temper-browser-category/miscellaneous",
+  createdAt: "2026-09-27T04:08:47.713Z",
+  updatedAt: "2026-09-27T04:34:39.000Z",
 } as const satisfies TemperBrowserCategory

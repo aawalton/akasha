@@ -8,4 +8,6 @@ export const powerWeapon = {
   metric: "temper-metric/power-weapon",
   effectType: "integer",
   value: 1000,
+  createdAt: "2026-09-26T19:55:20.232Z",
+  updatedAt: "2026-09-26T19:55:28.000Z",
 } as const satisfies TemperBaseStat

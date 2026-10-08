@@ -11,4 +11,6 @@ export const fortified = {
   isSlottable: true,
   effects: [{ metric: "temper-metric/resistance", effectType: "integer", value: 1731 }],
   hashPlace: 71,
+  createdAt: "2026-09-27T05:00:00.922Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

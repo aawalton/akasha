@@ -7,4 +7,6 @@ export const offHandWeaponDamage = {
   key: "off-hand-weapon-damage",
   title: "Off-Hand Weapon Damage",
   mechanicValue: 0.1775,
+  createdAt: "2026-09-26T19:48:44.950Z",
+  updatedAt: "2026-09-26T19:48:53.000Z",
 } as const satisfies TemperCompanionCombatMechanic

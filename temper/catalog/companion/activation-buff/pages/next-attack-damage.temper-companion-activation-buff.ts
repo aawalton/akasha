@@ -7,4 +7,6 @@ export const nextAttackDamage = {
   key: "next-attack-damage",
   effectCategory: "damage",
   title: "Next Attack Damage",
+  createdAt: "2026-09-02T01:48:14.454Z",
+  updatedAt: "2026-09-26T18:25:50.000Z",
 } as const satisfies TemperCompanionActivationBuff

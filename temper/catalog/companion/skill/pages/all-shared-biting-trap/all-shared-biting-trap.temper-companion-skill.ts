@@ -15,4 +15,6 @@ export const allSharedBitingTrap = {
   validRoles: ["dps"],
   tags: ["trap", "arm-time-1.5s", "trap-duration-6.5s", "target-self"],
   skillEffects: "jsonl",
+  createdAt: "2026-05-26T23:04:44.015Z",
+  updatedAt: "2026-09-22T20:39:10.000Z",
 } as const satisfies TemperCompanionSkill

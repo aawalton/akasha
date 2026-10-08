@@ -16,4 +16,6 @@ export const fine = {
   twoHandedWeaponDamage: 700,
   shieldArmorValue: 2700,
   ttcQualityId: 1,
+  createdAt: "2026-09-02T01:48:45.547Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies TemperCompanionEquipmentQuality

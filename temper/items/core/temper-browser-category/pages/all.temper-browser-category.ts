@@ -7,4 +7,6 @@ export const all = {
   title: "All",
   displayOrder: 1,
   match: "All",
+  createdAt: "2026-09-27T04:08:47.711Z",
+  updatedAt: "2026-09-27T04:34:39.000Z",
 } as const satisfies TemperBrowserCategory

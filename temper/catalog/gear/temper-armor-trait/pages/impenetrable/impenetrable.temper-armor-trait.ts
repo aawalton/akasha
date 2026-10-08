@@ -13,4 +13,6 @@ export const impenetrable = {
   effects: "jsonl",
   hashPlace: 2,
   available: true,
+  createdAt: "2026-09-02T01:18:23.182Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperArmorTrait

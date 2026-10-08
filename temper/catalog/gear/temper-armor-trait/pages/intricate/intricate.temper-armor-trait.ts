@@ -11,4 +11,6 @@ export const intricate = {
   displayOrder: 11,
   hashPlace: 11,
   available: false,
+  createdAt: "2026-09-02T01:18:23.183Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperArmorTrait

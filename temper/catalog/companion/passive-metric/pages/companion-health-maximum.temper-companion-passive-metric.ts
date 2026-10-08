@@ -6,4 +6,6 @@ export const companionHealthMaximum = {
   slug: "companion-health-maximum",
   key: "companion-health-maximum",
   title: "Max Health",
+  createdAt: "2026-09-02T01:48:14.458Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperCompanionPassiveMetric

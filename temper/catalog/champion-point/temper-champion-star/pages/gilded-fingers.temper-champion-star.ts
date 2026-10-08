@@ -11,4 +11,6 @@ export const gildedFingers = {
   isSlottable: false,
   effects: [{ metric: "temper-metric/gold-gain", effectType: "fractional-change", value: 0.1 }],
   hashPlace: 15,
+  createdAt: "2026-09-27T05:00:00.922Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

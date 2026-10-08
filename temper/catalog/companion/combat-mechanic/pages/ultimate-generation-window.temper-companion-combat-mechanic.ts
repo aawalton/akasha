@@ -7,4 +7,6 @@ export const ultimateGenerationWindow = {
   key: "ultimate-generation-window",
   title: "Ultimate Generation Window",
   mechanicValue: 8,
+  createdAt: "2026-09-26T18:10:34.964Z",
+  updatedAt: "2026-09-26T18:52:12.000Z",
 } as const satisfies TemperCompanionCombatMechanic

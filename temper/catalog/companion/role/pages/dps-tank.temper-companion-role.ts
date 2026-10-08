@@ -6,4 +6,6 @@ export const dpsTank = {
   slug: "dps-tank",
   key: "dps+tank",
   title: "DPS + Tank",
+  createdAt: "2026-09-02T01:48:14.462Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperCompanionRole

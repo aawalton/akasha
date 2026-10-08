@@ -6,4 +6,6 @@ export const dpsAoe = {
   slug: "dps-aoe",
   key: "dps-aoe",
   title: "DPS + AOE",
+  createdAt: "2026-09-02T01:48:14.460Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperCompanionRole

@@ -12,5 +12,6 @@ export const itemSet = {
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
-  updatedAt: "2026-10-08T16:06:46.927Z",
+  updatedAt: "2026-10-08T16:07:24.250Z",
+  createdAt: "2026-09-02T01:39:30.992Z",
 } as const satisfies TemperCatalogDomain

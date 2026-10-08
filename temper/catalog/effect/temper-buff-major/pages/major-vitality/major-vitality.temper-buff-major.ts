@@ -8,4 +8,6 @@ export const majorVitality = {
   key: "major-vitality",
   description: "Increases healing received and damage shield strength by 12%",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:04.412Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperBuffMajor

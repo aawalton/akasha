@@ -17,4 +17,6 @@ export const epic = {
   shieldArmorValue: 2900,
   defaultQuality: true,
   ttcQualityId: 3,
+  createdAt: "2026-09-02T01:48:45.546Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies TemperCompanionEquipmentQuality

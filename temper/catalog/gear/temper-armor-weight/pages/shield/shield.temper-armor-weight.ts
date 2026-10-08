@@ -13,4 +13,6 @@ export const shield = {
   esoWeaponTypeNumber: 14,
   levelSlope: 20,
   levelIntercept: 260,
+  createdAt: "2026-09-02T01:56:49.746Z",
+  updatedAt: "2026-09-27T04:15:45.000Z",
 } as const satisfies TemperArmorWeight

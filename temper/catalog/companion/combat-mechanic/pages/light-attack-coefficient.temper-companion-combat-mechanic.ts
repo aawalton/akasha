@@ -7,4 +7,6 @@ export const lightAttackCoefficient = {
   key: "light-attack-coefficient",
   title: "Light Attack Coefficient",
   mechanicValue: 1.5,
+  createdAt: "2026-09-26T18:53:02.313Z",
+  updatedAt: "2026-09-26T18:53:05.000Z",
 } as const satisfies TemperCompanionCombatMechanic

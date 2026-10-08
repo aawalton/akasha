@@ -11,4 +11,6 @@ export const head = {
   hashPlace: 0,
 
   slotEquipType: "temper-equip-type/head",
+  createdAt: "2026-09-02T01:56:19.949Z",
+  updatedAt: "2026-09-27T04:24:42.000Z",
 } as const satisfies TemperArmorSlot

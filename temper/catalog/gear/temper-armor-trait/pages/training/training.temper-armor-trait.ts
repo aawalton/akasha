@@ -13,4 +13,6 @@ export const training = {
   effects: "jsonl",
   hashPlace: 8,
   available: true,
+  createdAt: "2026-09-02T01:18:23.185Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperArmorTrait

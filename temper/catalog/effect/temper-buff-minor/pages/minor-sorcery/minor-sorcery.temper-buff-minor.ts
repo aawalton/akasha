@@ -9,4 +9,6 @@ export const minorSorcery = {
   effectCategory: "damage",
   description: "Increases Spell Damage by 10%",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:04.417Z",
+  updatedAt: "2026-09-26T18:25:50.000Z",
 } as const satisfies TemperBuffMinor

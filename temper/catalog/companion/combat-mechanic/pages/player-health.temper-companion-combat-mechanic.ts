@@ -7,4 +7,6 @@ export const playerHealth = {
   key: "player-health",
   title: "Player Health",
   mechanicValue: 25000,
+  createdAt: "2026-09-26T19:26:45.150Z",
+  updatedAt: "2026-09-26T19:27:04.000Z",
 } as const satisfies TemperCompanionCombatMechanic

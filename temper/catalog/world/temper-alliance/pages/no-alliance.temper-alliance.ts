@@ -7,4 +7,6 @@ export const noAlliance = {
   title: "No Alliance",
   esoAllianceId: 0,
   hashPlace: 0,
+  createdAt: "2026-09-02T01:39:07.022Z",
+  updatedAt: "2026-09-26T20:37:06.000Z",
 } as const satisfies TemperAlliance

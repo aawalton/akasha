@@ -213,4 +213,6 @@ export const temperAddonCharacters = {
       statement: "Nothing here reads another player's companion.",
     },
   ],
+  createdAt: "2026-09-02T15:52:42.403Z",
+  updatedAt: "2026-09-26T18:07:26.000Z",
 } as const satisfies TemperAddon

@@ -9,4 +9,6 @@ export const majorFortitude = {
   effectCategory: "healing",
   description: "Increases Health Recovery by 30%",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:04.409Z",
+  updatedAt: "2026-09-26T18:25:50.000Z",
 } as const satisfies TemperBuffMajor

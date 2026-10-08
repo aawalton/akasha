@@ -7,4 +7,6 @@ export const alliesAssistants = {
   title: "Assistants",
   parent: "temper-collectible-category/allies",
   collectibles: "jsonl",
+  createdAt: "2026-09-02T09:14:01.444Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies TemperCollectibleCategory

@@ -11,4 +11,6 @@ export const precision = {
   isSlottable: false,
   effects: [{ metric: "temper-metric/critical-rating", effectType: "integer", value: 320 }],
   hashPlace: 72,
+  createdAt: "2026-09-27T05:00:00.923Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

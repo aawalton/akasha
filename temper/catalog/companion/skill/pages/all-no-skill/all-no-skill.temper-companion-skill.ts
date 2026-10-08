@@ -10,4 +10,6 @@ export const allNoSkill = {
   abilityId: 0,
   skillLineId: "temper-companion-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
+  createdAt: "2026-05-26T12:44:55.177Z",
+  updatedAt: "2026-09-22T20:39:10.000Z",
 } as const satisfies TemperCompanionSkill

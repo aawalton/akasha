@@ -15,4 +15,6 @@ export const rejuvenation = {
     { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 90 },
   ],
   hashPlace: 43,
+  createdAt: "2026-09-27T05:00:00.923Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

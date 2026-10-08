@@ -6,4 +6,6 @@ export const companionDamageTaken = {
   slug: "companion-damage-taken",
   key: "companion-damage-taken",
   title: "Damage Taken",
+  createdAt: "2026-09-02T01:48:14.457Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperCompanionPassiveMetric

@@ -14,4 +14,6 @@ export const stamina = {
   effects: "jsonl",
   hashPlace: 3,
   esoEnchantSearchCategory: 17,
+  createdAt: "2026-09-02T01:56:19.948Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperArmorEnchant

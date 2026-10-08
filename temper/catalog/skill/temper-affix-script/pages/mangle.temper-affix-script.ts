@@ -11,4 +11,6 @@ export const mangle = {
   uespId: 63,
   slotType: "affix-slot",
   hashPlace: 20,
+  createdAt: "2026-09-02T01:49:01.643Z",
+  updatedAt: "2026-09-26T18:55:59.000Z",
 } as const satisfies TemperAffixScript

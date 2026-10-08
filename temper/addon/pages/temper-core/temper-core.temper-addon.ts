@@ -72,4 +72,6 @@ export const temperCore = {
       statement: "Nothing here knows the meaning of any other add-on's field.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-25T17:23:35.000Z",
 } as const satisfies TemperAddon

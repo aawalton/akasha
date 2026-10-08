@@ -7,4 +7,6 @@ export const housing = {
   title: "Housing",
   esoCategoryIndex: 5,
   activity: "temper-activity-category/housing",
+  createdAt: "2026-09-02T09:14:01.449Z",
+  updatedAt: "2026-09-27T03:05:59.000Z",
 } as const satisfies TemperCollectibleCategory

@@ -15,4 +15,6 @@ export const allSharedMysticFortress = {
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",
   castConditions: "jsonl",
+  createdAt: "2026-05-26T23:10:27.673Z",
+  updatedAt: "2026-09-22T20:39:10.000Z",
 } as const satisfies TemperCompanionSkill

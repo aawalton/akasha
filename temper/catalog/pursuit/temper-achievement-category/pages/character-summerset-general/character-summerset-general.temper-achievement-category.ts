@@ -9,4 +9,6 @@ export const characterSummersetGeneral = {
   displayOrder: 0,
   parent: "temper-achievement-category/character-summerset",
   achievements: "jsonl",
+  createdAt: "2026-09-02T09:17:10.098Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies TemperAchievementCategory

@@ -17,4 +17,6 @@ export const tank = {
   defaultOffHand: "shield",
   validTraitIds: ["vigorous", "soothing", "quickened", "focused"],
   validWeaponRoleIds: ["one-hand-and-shield", "ice-staff", "restoration-staff"],
+  createdAt: "2026-09-02T01:49:41.404Z",
+  updatedAt: "2026-09-27T04:17:48.000Z",
 } as const satisfies TemperCompanionBaseRole

@@ -8,4 +8,6 @@ export const chestLight = {
   companionArmorSlot: "temper-companion-armor-slot/chest",
   companionArmorWeight: "temper-companion-armor-weight/light",
   ttcItemId: 23407,
+  createdAt: "2026-09-27T02:43:57.746Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies TemperCompanionArmorPiece

@@ -12,4 +12,6 @@ export const allSharedParallel = {
   skillLineId: "temper-companion-skill-line/guild-mages",
   skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
+  createdAt: "2026-05-26T23:04:44.017Z",
+  updatedAt: "2026-09-22T20:39:10.000Z",
 } as const satisfies TemperCompanionSkill

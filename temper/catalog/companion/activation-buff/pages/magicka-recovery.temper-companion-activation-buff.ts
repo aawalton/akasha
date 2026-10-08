@@ -6,4 +6,6 @@ export const magickaRecovery = {
   slug: "magicka-recovery",
   key: "magicka-recovery",
   title: "Magicka Recovery",
+  createdAt: "2026-09-02T01:48:14.454Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperCompanionActivationBuff

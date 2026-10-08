@@ -7,4 +7,6 @@ export const ultimateGenerationRate = {
   key: "ultimate-generation-rate",
   title: "Ultimate Generation Rate",
   mechanicValue: 3,
+  createdAt: "2026-09-26T18:10:34.964Z",
+  updatedAt: "2026-09-26T18:52:12.000Z",
 } as const satisfies TemperCompanionCombatMechanic

@@ -13,4 +13,6 @@ export const support = {
   validArmorWeights: ["light"],
   validTraitIds: ["quickened"],
   validWeaponRoleIds: ["restoration-staff"],
+  createdAt: "2026-09-02T01:49:41.403Z",
+  updatedAt: "2026-09-26T19:12:14.000Z",
 } as const satisfies TemperCompanionBaseRole

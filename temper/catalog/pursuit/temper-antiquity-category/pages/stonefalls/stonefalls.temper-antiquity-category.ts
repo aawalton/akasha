@@ -7,4 +7,6 @@ export const stonefalls = {
   title: "Stonefalls",
   esoAntiquityCategoryId: 9,
   antiquities: "jsonl",
+  createdAt: "2026-09-02T09:14:50.300Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperAntiquityCategory

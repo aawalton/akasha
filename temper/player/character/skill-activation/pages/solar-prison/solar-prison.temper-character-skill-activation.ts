@@ -8,4 +8,6 @@ export const solarPrison = {
   descriptionTemplate:
     "Call down a fragment of the sun, dealing $1 Magic Damage every 1 second for 8 seconds to enemies in the area and afflicting them with Major Maim, reducing their damage done by 10%.\n\nAn ally near the fragment can activate the Gravity Crush synergy, dealing $2 Magic Damage to all enemies in the area and stunning them for 5 seconds.",
   activationEffects: "jsonl",
+  createdAt: "2026-05-26T13:15:10.431Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies TemperCharacterSkillActivation

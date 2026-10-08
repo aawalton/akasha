@@ -8,4 +8,6 @@ export const handsLight = {
   companionArmorSlot: "temper-companion-armor-slot/hands",
   companionArmorWeight: "temper-companion-armor-weight/light",
   ttcItemId: 23793,
+  createdAt: "2026-09-27T02:43:57.746Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies TemperCompanionArmorPiece

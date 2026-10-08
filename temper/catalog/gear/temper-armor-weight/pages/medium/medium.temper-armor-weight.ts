@@ -14,4 +14,6 @@ export const medium = {
   armorType: 2,
   levelSlope: 3,
   levelIntercept: 41.5,
+  createdAt: "2026-09-02T01:56:49.745Z",
+  updatedAt: "2026-09-27T04:15:45.000Z",
 } as const satisfies TemperArmorWeight

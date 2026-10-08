@@ -6,4 +6,6 @@ export const companionBreakFreeCooldown = {
   slug: "companion-break-free-cooldown",
   key: "companion-break-free-cooldown",
   title: "Break Free CD",
+  createdAt: "2026-09-02T01:48:14.455Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperCompanionPassiveMetric

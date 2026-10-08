@@ -6,4 +6,6 @@ export const tank = {
   slug: "tank",
   title: "Tank",
   displayOrder: 2,
+  createdAt: "2026-09-02T01:51:56.747Z",
+  updatedAt: "2026-09-27T01:49:21.000Z",
 } as const satisfies TemperCharacterRole

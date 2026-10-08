@@ -6,4 +6,6 @@ export const emotes = {
   slug: "emotes",
   title: "Emotes",
   esoCategoryIndex: 14,
+  createdAt: "2026-09-02T09:14:01.447Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperCollectibleCategory

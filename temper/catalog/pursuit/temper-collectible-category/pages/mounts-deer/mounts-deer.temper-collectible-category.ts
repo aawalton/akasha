@@ -7,4 +7,6 @@ export const mountsDeer = {
   title: "Deer",
   parent: "temper-collectible-category/mounts",
   collectibles: "jsonl",
+  createdAt: "2026-09-02T09:14:01.449Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies TemperCollectibleCategory

@@ -8,4 +8,6 @@ export const majorSlayer = {
   key: "major-slayer",
   description: "Increases damage done to Dungeon, Trial, and Arena monsters by 10%",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:04.412Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperBuffMajor

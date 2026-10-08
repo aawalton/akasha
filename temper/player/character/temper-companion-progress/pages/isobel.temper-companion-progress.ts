@@ -9,4 +9,6 @@ export const isobel = {
   companionId: "temper-eso-companion/isobel",
   accountPage: "temper-account/alanarre",
   liveBuildId: "01a0d927-a886-7fdb-9e45-af76d676cbb1",
+  createdAt: "2026-04-29T16:44:43.290Z",
+  updatedAt: "2026-09-26T18:08:14.000Z",
 } as const satisfies TemperCompanionProgress

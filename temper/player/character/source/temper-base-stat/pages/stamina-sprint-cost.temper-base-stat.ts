@@ -8,4 +8,6 @@ export const staminaSprintCost = {
   metric: "temper-metric/stamina-sprint-cost",
   effectType: "integer",
   value: 500,
+  createdAt: "2026-09-26T19:55:20.232Z",
+  updatedAt: "2026-09-26T19:55:28.000Z",
 } as const satisfies TemperBaseStat

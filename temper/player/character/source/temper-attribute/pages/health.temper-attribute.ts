@@ -7,4 +7,6 @@ export const health = {
   title: "Health",
   metric: "temper-metric/health-maximum",
   value: 122,
+  createdAt: "2026-09-27T00:50:10.256Z",
+  updatedAt: "2026-09-27T00:50:13.000Z",
 } as const satisfies TemperAttribute

@@ -9,4 +9,6 @@ export const shoulders = {
   armorMultiplier: 7,
   validSlots: ["temper-armor-slot/shoulders"],
   enchantmentMultiplier: 0.4045,
+  createdAt: "2026-09-02T01:56:49.744Z",
+  updatedAt: "2026-09-27T05:21:39.000Z",
 } as const satisfies TemperArmorType

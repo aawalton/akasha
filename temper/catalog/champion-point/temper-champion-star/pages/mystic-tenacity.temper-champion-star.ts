@@ -10,4 +10,6 @@ export const mysticTenacity = {
   championConstellation: "fitness",
   isSlottable: false,
   hashPlace: 35,
+  createdAt: "2026-09-27T05:00:00.923Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

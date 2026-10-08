@@ -7,4 +7,6 @@ export const fragmentsDeadlandsFirewalker = {
   title: "Deadlands Firewalker",
   parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
+  createdAt: "2026-09-02T09:14:01.447Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies TemperCollectibleCategory

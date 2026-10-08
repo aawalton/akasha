@@ -7,4 +7,6 @@ export const weaponStylesBow = {
   title: "Bow",
   parent: "temper-collectible-category/weapon-styles",
   collectibles: "jsonl",
+  createdAt: "2026-09-02T09:14:01.450Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies TemperCollectibleCategory

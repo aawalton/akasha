@@ -11,4 +11,6 @@ export const legs = {
   hashPlace: 5,
 
   slotEquipType: "temper-equip-type/legs",
+  createdAt: "2026-09-02T01:56:19.950Z",
+  updatedAt: "2026-09-27T04:24:42.000Z",
 } as const satisfies TemperArmorSlot

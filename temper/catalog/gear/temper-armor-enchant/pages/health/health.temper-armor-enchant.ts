@@ -14,4 +14,6 @@ export const health = {
   effects: "jsonl",
   hashPlace: 1,
   esoEnchantSearchCategory: 11,
+  createdAt: "2026-09-02T01:56:19.946Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies TemperArmorEnchant

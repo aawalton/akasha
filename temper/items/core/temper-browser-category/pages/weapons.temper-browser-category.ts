@@ -7,4 +7,6 @@ export const weapons = {
   title: "Weapons",
   displayOrder: 2,
   match: "Weapons",
+  createdAt: "2026-09-27T04:08:47.713Z",
+  updatedAt: "2026-09-27T04:34:39.000Z",
 } as const satisfies TemperBrowserCategory

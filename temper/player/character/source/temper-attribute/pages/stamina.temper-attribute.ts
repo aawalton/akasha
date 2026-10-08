@@ -7,4 +7,6 @@ export const stamina = {
   title: "Maximum Stamina",
   metric: "temper-metric/stamina-maximum",
   value: 111,
+  createdAt: "2026-09-27T00:50:10.257Z",
+  updatedAt: "2026-09-27T00:50:13.000Z",
 } as const satisfies TemperAttribute

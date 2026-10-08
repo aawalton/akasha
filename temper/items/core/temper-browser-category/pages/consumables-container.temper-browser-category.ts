@@ -13,4 +13,6 @@ export const consumablesContainer = {
     "temper-item-type/container-stackable",
   ],
   parent: "temper-browser-category/consumables",
+  createdAt: "2026-09-27T04:08:47.712Z",
+  updatedAt: "2026-09-27T04:34:39.000Z",
 } as const satisfies TemperBrowserCategory

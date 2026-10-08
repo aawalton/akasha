@@ -9,4 +9,6 @@ export const majorBerserk = {
   effectCategory: "damage",
   description: "Increases damage done by 10%",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:04.407Z",
+  updatedAt: "2026-09-26T18:25:50.000Z",
 } as const satisfies TemperBuffMajor

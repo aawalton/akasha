@@ -6,4 +6,6 @@ export const furnishings = {
   slug: "furnishings",
   title: "Furnishings",
   esoCategoryIndex: 6,
+  createdAt: "2026-09-02T09:14:01.448Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperCollectibleCategory

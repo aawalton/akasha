@@ -9,4 +9,6 @@ export const characterDarkBrotherhoodGeneral = {
   displayOrder: 0,
   parent: "temper-achievement-category/character-dark-brotherhood",
   achievements: "jsonl",
+  createdAt: "2026-09-02T09:17:10.098Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies TemperAchievementCategory

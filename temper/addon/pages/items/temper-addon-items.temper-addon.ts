@@ -362,4 +362,6 @@ export const temperAddonItems = {
         "A chat command, a string id and a listener are installed by a function the add-on's load calls.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.863Z",
+  updatedAt: "2026-10-08T14:26:37.000Z",
 } as const satisfies TemperAddon

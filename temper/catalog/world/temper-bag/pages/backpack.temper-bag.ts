@@ -7,4 +7,6 @@ export const backpack = {
   title: "Backpack",
   key: "backpack",
   displayOrder: 1,
+  createdAt: "2026-09-27T09:58:10.097Z",
+  updatedAt: "2026-09-27T09:58:12.000Z",
 } as const satisfies TemperBag

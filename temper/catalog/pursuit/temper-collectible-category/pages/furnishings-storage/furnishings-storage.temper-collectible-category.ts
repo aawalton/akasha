@@ -7,4 +7,6 @@ export const furnishingsStorage = {
   title: "Storage",
   parent: "temper-collectible-category/furnishings",
   collectibles: "jsonl",
+  createdAt: "2026-09-02T09:14:01.448Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies TemperCollectibleCategory

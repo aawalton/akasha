@@ -9,4 +9,6 @@ export const accountNecromPrologue = {
   displayOrder: 5,
   parent: "temper-achievement-category/account-necrom",
   achievements: "jsonl",
+  createdAt: "2026-09-02T09:17:10.094Z",
+  updatedAt: "2026-09-22T20:48:07.000Z",
 } as const satisfies TemperAchievementCategory

@@ -13,4 +13,6 @@ export const quickRecovery = {
     { metric: "temper-metric/healing-taken-base", effectType: "fractional-change", value: 0.02 },
   ],
   hashPlace: 80,
+  createdAt: "2026-09-27T05:00:00.923Z",
+  updatedAt: "2026-09-27T05:00:07.000Z",
 } as const satisfies TemperChampionStar

@@ -8,4 +8,6 @@ export const movementRunSpeed = {
   metric: "temper-metric/movement-run-speed",
   effectType: "fractional-change",
   value: 1,
+  createdAt: "2026-09-26T19:55:20.232Z",
+  updatedAt: "2026-09-26T19:55:28.000Z",
 } as const satisfies TemperBaseStat

@@ -9,4 +9,6 @@ export const weaponDamage = {
   metricId: "temper-companion-passive-metric/companion-weapon-damage",
   effectType: "integer",
   value: 2000,
+  createdAt: "2026-09-26T17:47:32.970Z",
+  updatedAt: "2026-09-26T17:47:36.000Z",
 } as const satisfies TemperCompanionBaseStat
