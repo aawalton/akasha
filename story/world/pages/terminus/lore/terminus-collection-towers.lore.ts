@@ -65,6 +65,14 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Each tower runs outward through all the wreckage to the essence shell and on through it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The way to reach the essence shell is to climb outward through one of the towers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Essence crystallizing in the towers absorbs heat, and is the sphere's main heat sink.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -166,5 +174,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T19:54:37.814Z",
+  updatedAt: "2026-10-08T20:25:55.637Z",
 } as const satisfies Lore
