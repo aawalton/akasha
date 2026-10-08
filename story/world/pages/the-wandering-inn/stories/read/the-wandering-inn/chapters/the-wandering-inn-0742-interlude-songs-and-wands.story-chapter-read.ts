@@ -18,4 +18,6 @@ export const theWanderingInn0742InterludeSongsAndWands = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:53:25.077Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

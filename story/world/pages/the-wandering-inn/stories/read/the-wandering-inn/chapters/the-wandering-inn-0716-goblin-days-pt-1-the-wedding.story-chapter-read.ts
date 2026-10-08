@@ -18,4 +18,6 @@ export const theWanderingInn0716GoblinDaysPt1TheWedding = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:52:29.993Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

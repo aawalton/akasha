@@ -19,4 +19,6 @@ export const thereIsNoEpicLootHereOnlyPuns0152InterludeTurtog = {
   ],
   publishedAt: "2021-05-06",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:35.271Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

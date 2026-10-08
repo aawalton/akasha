@@ -18,4 +18,6 @@ export const theWanderingInn0730TheRootsPt5 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:52:30.026Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

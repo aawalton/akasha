@@ -15,4 +15,6 @@ export const theWanderingInn0298554NonCanon = {
     { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2019/01/19/5-54/" },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:49:46.015Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

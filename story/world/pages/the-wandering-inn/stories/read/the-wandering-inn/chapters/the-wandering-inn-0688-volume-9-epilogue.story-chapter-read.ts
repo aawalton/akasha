@@ -18,4 +18,6 @@ export const theWanderingInn0688Volume9Epilogue = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:51:11.600Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

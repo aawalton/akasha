@@ -15,4 +15,6 @@ export const theWanderingInn0302556G = {
     { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2019/02/02/5-56-g/" },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:49:46.019Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

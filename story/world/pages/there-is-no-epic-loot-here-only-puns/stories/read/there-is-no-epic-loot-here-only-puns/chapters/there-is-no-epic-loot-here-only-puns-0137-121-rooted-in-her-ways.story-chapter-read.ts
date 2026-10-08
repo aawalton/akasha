@@ -19,4 +19,6 @@ export const thereIsNoEpicLootHereOnlyPuns0137121RootedInHerWays = {
   ],
   publishedAt: "2020-07-16",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:35.164Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

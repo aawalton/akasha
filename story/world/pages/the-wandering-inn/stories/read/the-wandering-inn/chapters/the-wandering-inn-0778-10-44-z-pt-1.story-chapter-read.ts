@@ -19,4 +19,6 @@ export const theWanderingInn07781044ZPt1 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:54:14.842Z",
+  updatedAt: "2026-10-07T12:11:31.000Z",
 } as const satisfies StoryChapterRead

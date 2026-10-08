@@ -19,4 +19,6 @@ export const thereIsNoEpicLootHereOnlyPuns0120104SpringOfTheSoul = {
   ],
   publishedAt: "2019-08-12",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:35.067Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

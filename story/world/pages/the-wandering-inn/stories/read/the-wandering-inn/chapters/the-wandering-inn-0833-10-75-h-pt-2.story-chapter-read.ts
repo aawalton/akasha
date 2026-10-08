@@ -17,4 +17,6 @@ export const theWanderingInn08331075HPt2 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-07T13:41:16.695Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

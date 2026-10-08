@@ -19,4 +19,6 @@ export const thereIsNoEpicLootHereOnlyPuns0074SideStoryTheVillageOfWoodedly = {
   ],
   publishedAt: "2018-09-11",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.657Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const theWanderingInn07761043RngPt1 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:54:14.811Z",
+  updatedAt: "2026-10-06T11:38:14.000Z",
 } as const satisfies StoryChapterRead

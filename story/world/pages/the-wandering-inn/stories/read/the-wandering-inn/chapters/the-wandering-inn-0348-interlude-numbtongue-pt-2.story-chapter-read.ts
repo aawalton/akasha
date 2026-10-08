@@ -18,4 +18,6 @@ export const theWanderingInn0348InterludeNumbtonguePt2 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:50:56.102Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

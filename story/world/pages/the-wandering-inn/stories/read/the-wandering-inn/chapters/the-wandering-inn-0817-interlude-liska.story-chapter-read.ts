@@ -17,4 +17,6 @@ export const theWanderingInn0817InterludeLiska = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:55:57.920Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

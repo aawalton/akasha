@@ -19,4 +19,6 @@ export const thereIsNoEpicLootHereOnlyPuns0207185RedMoonsAndBadJokes = {
   ],
   publishedAt: "2023-09-08",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:35.755Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

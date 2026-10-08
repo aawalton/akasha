@@ -18,4 +18,6 @@ export const theWanderingInn0735HeroesOfHraacePt3 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:53:25.041Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

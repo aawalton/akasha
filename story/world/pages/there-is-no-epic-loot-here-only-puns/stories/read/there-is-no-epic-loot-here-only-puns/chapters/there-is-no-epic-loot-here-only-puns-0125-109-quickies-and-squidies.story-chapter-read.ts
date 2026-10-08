@@ -19,4 +19,6 @@ export const thereIsNoEpicLootHereOnlyPuns0125109QuickiesAndSquidies = {
   ],
   publishedAt: "2019-10-07",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:35.118Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

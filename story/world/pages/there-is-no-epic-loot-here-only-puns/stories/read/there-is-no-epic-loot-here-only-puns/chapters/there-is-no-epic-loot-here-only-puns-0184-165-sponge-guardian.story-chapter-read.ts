@@ -19,4 +19,6 @@ export const thereIsNoEpicLootHereOnlyPuns0184165SpongeGuardian = {
   ],
   publishedAt: "2022-10-05",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:35.546Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

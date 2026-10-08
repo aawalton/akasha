@@ -19,4 +19,6 @@ export const thereIsNoEpicLootHereOnlyPuns0205183TTheParty = {
   ],
   publishedAt: "2023-08-22",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:35.740Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
