@@ -16,6 +16,7 @@ import {
   offerOf,
   outIn,
   owedIn,
+  repsAt,
   restrictedIn,
   saidOf,
   todayIn,
@@ -117,7 +118,7 @@ test("a movement the kit cannot load further is made harder by slowing the rep",
   expect(spoken(offer).some((one) => one.includes("lower slowly"))).toBe(true)
 })
 
-const EVERY: readonly Kit[] = [{ covers: ["dumbbell", "barbell"], loads: [] }]
+const EVERY: readonly Kit[] = [{ covers: ["dumbbell", "barbell"], loads: [], step: 5 }]
 
 const BARBELL = movement("barbell-bench-press", { implement: "barbell" })
 
@@ -134,7 +135,44 @@ test("at a gym holding every implement, no weight is held at a ceiling", () => {
   const offer = offerOf(week([BENCH]), EVERY, KNOWN, BOUNDS, FREE, WARM)
   expect(offer?.atKitCeiling).toBe(false)
   expect(offer?.slower).toBe(false)
+})
+
+test("a best at the reps before slowing steps up a load where the gym has one", () => {
+  const offer = offerOf(week([BENCH]), EVERY, KNOWN, BOUNDS, FREE, WARM)
+  expect(offer?.weight).toBe(35)
+  expect(offer?.reps).toBe(12)
+  expect(spoken(offer)[1]).toBe("  35 lb, 12 reps")
+})
+
+test("a best at the reps before slowing steps up to the next load a gym lists", () => {
+  const rack: readonly Kit[] = [{ covers: ["dumbbell"], loads: [10, 20, 30, 40, 50] }]
+  const offer = offerOf(week([BENCH]), rack, KNOWN, BOUNDS, FREE, WARM)
+  expect(offer?.weight).toBe(40)
+  expect(offer?.reps).toBe(7)
+  expect(offer?.atKitCeiling).toBe(false)
+})
+
+test("a best at home's top load holds its weight and climbs its reps", () => {
+  const offer = offerOf(week([BENCH]), KIT, KNOWN, ROOM, FREE, WARM)
+  expect(offer?.weight).toBe(30)
   expect(offer?.reps).toBe(21)
+  expect(offer?.atKitCeiling).toBe(true)
+})
+
+test("the reps at a weight stepped up are what the Epley relation gives from the best", () => {
+  expect(repsAt(30, 20, 35)).toBe(12)
+  expect(repsAt(30, 20, 40)).toBe(7)
+  expect(repsAt(30, 20, 50)).toBe(1)
+  expect(repsAt(10, 1, 50)).toBe(1)
+})
+
+test("a movement of the body alone never steps up a load", () => {
+  const pushups = movement("pushups", { implement: "body-only" })
+  const known = new Map<string, Mark>([["pushups", mark({ weight: 30, reps: 25 })]])
+  const every: readonly Kit[] = [{ covers: ["body-only"], loads: [], step: 5 }]
+  const offer = offerOf(week([pushups]), every, known, BOUNDS, FREE, WARM)
+  expect(offer?.weight).toBe(30)
+  expect(offer?.reps).toBe(26)
 })
 
 test("a best Alan took at another gym sets the weight and reps at this one", () => {

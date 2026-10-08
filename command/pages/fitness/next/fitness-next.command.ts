@@ -132,12 +132,43 @@ export const fitnessNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The weight is the heaviest Alan took near failure, and the reps are one past it.",
+      statement:
+        "Short of a step up, the weight is the heaviest Alan took near failure, and the reps one past it.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
         "A movement the kit at Alan's gym cannot load further holds its weight and climbs its reps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A best whose reps reach the reps before slowing steps up a load where the gym has one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weight steps up one load, whatever reps that load leaves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The reps at a weight stepped up are what the Epley relation gives from the best.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The Epley relation holds a best of w lb for r reps worth w × (1 + r/30) lb for one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weight stepped up carries at least 1 rep.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weight stepped up is at no ceiling and is not slowed.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A movement of the body alone never steps up a load.",
     },
     {
       decisionKind: "decision-kind/departure",

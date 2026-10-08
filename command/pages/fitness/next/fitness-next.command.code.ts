@@ -23,6 +23,7 @@ import {
   coveredBy,
   type Kit,
   loadingIn,
+  nextLoadFor,
   topLoadFor,
 } from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 import {
@@ -200,8 +201,27 @@ type Load = {
   readonly slower: boolean
 }
 
-export function loadOf(mark: Mark | null, top: number | null, cap: number): Load {
+const EPLEY = 30
+
+export function repsAt(weight: number, reps: number, heavier: number): number {
+  return Math.max(1, Math.floor((weight * (EPLEY + reps)) / heavier) - EPLEY)
+}
+
+export function loadOf(
+  mark: Mark | null,
+  top: number | null,
+  heavier: number | null,
+  cap: number
+): Load {
   const weight = mark?.weight ?? null
+  const best = mark?.reps ?? null
+  if (weight !== null && best !== null && heavier !== null && best >= cap)
+    return {
+      weight: heavier,
+      reps: repsAt(weight, best, heavier),
+      atKitCeiling: false,
+      slower: false,
+    }
   if (mark === null || weight === null || top === null || weight < top)
     return { weight, atKitCeiling: false, ...climbOf(mark, false, cap) }
   if (weight === top) return { weight, atKitCeiling: true, ...climbOf(mark, true, cap) }
@@ -243,8 +263,14 @@ export function offerOf(
   )[0]
   if (best === undefined) return null
   const mark = marks.get(best.one.slug) ?? null
-  const top = best.one.implement === null ? null : topLoadFor(kit, best.one.implement)
-  const load = loadOf(mark, top, bounds.repsCap)
+  const implement = best.one.implement
+  const top = implement === null ? null : topLoadFor(kit, implement)
+  const weight = mark?.weight ?? null
+  const heavier =
+    implement === null || implement === BODY_ONLY || weight === null || weight <= 0
+      ? null
+      : nextLoadFor(kit, implement, weight)
+  const load = loadOf(mark, top, heavier, bounds.repsCap)
   const work = {
     movement: best.one.slug,
     title: best.one.title ?? best.one.slug,
