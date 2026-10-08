@@ -8,6 +8,7 @@ export const abby = {
   email: "abby@alanwalton.com",
   aliasIndex: 10,
   renewalDay: 14,
+  subscriptionCanceled: true,
   createdAt: "2026-09-14T18:05:14.351Z",
-  updatedAt: "2026-09-18T22:57:45.000Z",
+  updatedAt: "2026-10-08T16:02:01.874Z",
 } as const satisfies ModelAccount
