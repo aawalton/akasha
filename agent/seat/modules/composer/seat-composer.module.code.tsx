@@ -1,12 +1,13 @@
 "use client"
 
+import type { Voice } from "akasha/agent/seat/voice/modules/live/seat-voice-live.module.code.ts"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import {
   sendsNow,
   Textarea,
   useReturnSends,
 } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
-import { ImagePlus, X } from "lucide-react"
+import { ImagePlus, LoaderCircle, Mic, MicOff, X } from "lucide-react"
 import { type ChangeEvent, useEffect, useRef, useState } from "react"
 
 const SEND_AT = "/api/seat/message"
@@ -154,10 +155,34 @@ function Thumbnail({ one, remove }: { one: Attached; remove: (key: number) => vo
   )
 }
 
+function VoiceButton({ voice }: { voice: Voice }) {
+  const kind = voice.state.kind
+  const talking = kind === "live" || kind === "connecting"
+  return (
+    <Button
+      variant={talking ? "accent" : "tertiary"}
+      size="icon-lg"
+      aria-label={talking ? "Stop talking" : "Talk by voice"}
+      aria-pressed={talking}
+      onClick={voice.toggle}
+    >
+      {kind === "connecting" ? (
+        <LoaderCircle className="size-5 animate-spin" />
+      ) : kind === "live" ? (
+        <MicOff className="size-5" />
+      ) : (
+        <Mic className="size-5" />
+      )}
+    </Button>
+  )
+}
+
 export function SeatComposer({
   onSend,
+  voice,
 }: {
   onSend: (text: string, images: readonly File[]) => void
+  voice?: Voice
 }) {
   const [draft, setDraft] = useState("")
   const { attached, add, remove, clear } = useAttached()
@@ -175,6 +200,11 @@ export function SeatComposer({
   const returnSends = useReturnSends(send)
   return (
     <div className="mx-auto flex w-full max-w-[710px] flex-col gap-2 px-4 py-2">
+      {voice?.state.kind === "failed" && (
+        <p className="font-mono text-secondary text-xs" role="alert">
+          Voice stopped: {voice.state.why}
+        </p>
+      )}
       {attached.length > 0 && (
         <ul className="flex gap-3 overflow-x-auto pt-1.5" aria-label="Images attached">
           {attached.map((one) => (
@@ -216,6 +246,7 @@ export function SeatComposer({
           aria-label="Message to this seat"
           className="max-h-48 min-h-10 flex-1 resize-none"
         />
+        {voice !== undefined && <VoiceButton voice={voice} />}
         <Button
           variant="accent"
           className="hidden h-10 min-[584px]:inline-flex"

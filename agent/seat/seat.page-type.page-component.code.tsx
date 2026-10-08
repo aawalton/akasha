@@ -4,6 +4,7 @@ import {
   SeatComposer,
   sentToSeat,
 } from "akasha/agent/seat/modules/composer/seat-composer.module.code.tsx"
+import { useSeatVoice } from "akasha/agent/seat/voice/modules/live/seat-voice-live.module.code.ts"
 import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { PAGE_TITLE_CLASSES } from "akasha/design/interface/layout/modules/page-layout-data/page-layout-data.module.code.ts"
 import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
@@ -53,6 +54,8 @@ const KINDS: ReadonlySet<string> = new Set(["person", "agent", "tool", "turn-end
 const FRAME = { autoScroll: { loadScroll: "end" as const } }
 
 const SUBDUED = "font-mono text-secondary text-xs"
+
+const NOTHING_SAID: readonly Entry[] = []
 
 function entryIn(held: unknown): Entry | null {
   if (typeof held !== "object" || held === null) return null
@@ -283,6 +286,9 @@ function Conversation({ heard }: { heard: Heard }) {
 export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   const { page, isLoading, data, allDefinitions } = usePageDefaultContent({ pageTypeSlug, id })
   const { heard, pending, send, dismiss } = useSending(id)
+  const voice = useSeatVoice(id, heard.state === "heard" ? heard.entries : NOTHING_SAID, (text) => {
+    send(text, [])
+  })
   const endRef = useRef<HTMLDivElement | null>(null)
   const shown = heard.state === "heard" ? heard.entries.length + pending.length : -1
   const titleColor = titleColorClass(allDefinitions, data)
@@ -296,7 +302,7 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
           : null
       }
       followAnchor={{ ref: endRef, renderTrigger: shown }}
-      footer={<SeatComposer onSend={send} />}
+      footer={<SeatComposer onSend={send} voice={voice} />}
     >
       <PageLayout loading={isLoading} skeleton={simplePageSkeleton({ titleWidth: 160 })}>
         {page != null && <title>{pageName(data)}</title>}

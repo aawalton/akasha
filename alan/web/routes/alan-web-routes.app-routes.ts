@@ -28,6 +28,7 @@ export const alanWebRoutes = {
     "route/alan-web-api-sms-verification-status",
     "route/alan-web-api-seat-image",
     "route/alan-web-api-seat-message",
+    "route/alan-web-api-seat-voice",
     "route/alan-web-api-narration",
     "route/alan-web-api-narration-close",
     "route/alan-web-api-narration-next",

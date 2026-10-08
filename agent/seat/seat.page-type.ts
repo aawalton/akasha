@@ -30,6 +30,7 @@ export const seat = {
     "domain/seat-observation",
     "domain/seat-reviving",
     "domain/seat-supervisor",
+    "domain/seat-voice",
     "domain/supervisor-restart",
     "file-property/subagent-edits",
     "file-property/subagent-reads",

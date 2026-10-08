@@ -78,6 +78,7 @@ export default [
     "routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts"
   ),
   route("api/seat/image", "routes/alan-web-api-seat-image/alan-web-api-seat-image.route.code.ts"),
+  route("api/seat/voice", "routes/alan-web-api-seat-voice/alan-web-api-seat-voice.route.code.ts"),
   route("api/narration", "routes/alan-web-api-narration/alan-web-api-narration.route.code.ts"),
   route(
     "api/narration/:id",

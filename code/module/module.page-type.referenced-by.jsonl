@@ -435,6 +435,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/usage/modules/show/seat-usage-show.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/usage/modules/typing-minutes/typing-minutes.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/usage/seat-usage.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/voice/modules/live/seat-voice-live.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/voice/modules/setup/seat-voice-setup.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/settings/modules/harness-settings-reading/harness-settings-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/body/subagent-body.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/census/subagent-census.module.ts","typed":true,"deferred":false}

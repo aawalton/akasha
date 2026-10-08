@@ -47,5 +47,9 @@ export const seatComposer = {
       decisionKind: "decision-kind/departure",
       statement: "A message carries at most eight images.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A microphone right of the box starts and ends talking to the seat by voice.",
+    },
   ],
 } as const satisfies Module
