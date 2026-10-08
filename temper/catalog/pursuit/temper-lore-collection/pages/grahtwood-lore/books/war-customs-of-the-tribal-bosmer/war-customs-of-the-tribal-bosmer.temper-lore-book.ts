@@ -8,4 +8,6 @@ export const warCustomsOfTheTribalBosmer = {
   collection: "temper-lore-collection/grahtwood-lore",
   bookIndex: 5,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:59.772Z",
+  updatedAt: "2026-09-25T00:09:00.000Z",
 } as const satisfies TemperLoreBook

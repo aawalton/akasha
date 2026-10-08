@@ -8,4 +8,6 @@ export const theOozeAFable = {
   collection: "temper-lore-collection/greenshade-lore",
   bookIndex: 3,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:09:04.873Z",
+  updatedAt: "2026-09-25T00:09:05.000Z",
 } as const satisfies TemperLoreBook

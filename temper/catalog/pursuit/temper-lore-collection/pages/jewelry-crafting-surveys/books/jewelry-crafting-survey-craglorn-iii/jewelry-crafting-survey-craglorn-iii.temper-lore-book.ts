@@ -7,4 +7,6 @@ export const jewelryCraftingSurveyCraglornIii = {
   title: "Jewelry Crafting Survey: Craglorn III",
   collection: "temper-lore-collection/jewelry-crafting-surveys",
   bookIndex: 20,
+  createdAt: "2026-09-25T00:54:04.045Z",
+  updatedAt: "2026-09-25T00:54:05.000Z",
 } as const satisfies TemperLoreBook

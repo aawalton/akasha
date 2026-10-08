@@ -11,4 +11,6 @@ export const letterToPercyVelmont = {
   charted: true,
   quest: 5570,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:29:06.579Z",
+  updatedAt: "2026-09-25T00:29:08.000Z",
 } as const satisfies TemperLoreBook

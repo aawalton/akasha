@@ -10,4 +10,6 @@ export const letterToGrandWarlordSorcalin = {
   bookIndex: 74,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:31.224Z",
+  updatedAt: "2026-09-25T00:24:33.000Z",
 } as const satisfies TemperLoreBook

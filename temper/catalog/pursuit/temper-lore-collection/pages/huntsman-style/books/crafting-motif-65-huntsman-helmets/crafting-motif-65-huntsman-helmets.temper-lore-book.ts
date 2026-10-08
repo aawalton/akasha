@@ -7,4 +7,6 @@ export const craftingMotif65HuntsmanHelmets = {
   title: "Crafting Motif 65: Huntsman Helmets",
   collection: "temper-lore-collection/huntsman-style",
   bookIndex: 8,
+  createdAt: "2026-09-25T00:16:01.831Z",
+  updatedAt: "2026-09-25T00:16:02.000Z",
 } as const satisfies TemperLoreBook

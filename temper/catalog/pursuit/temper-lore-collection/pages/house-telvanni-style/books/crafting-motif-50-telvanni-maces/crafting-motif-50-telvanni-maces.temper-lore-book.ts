@@ -7,4 +7,6 @@ export const craftingMotif50TelvanniMaces = {
   title: "Crafting Motif 50: Telvanni Maces",
   collection: "temper-lore-collection/house-telvanni-style",
   bookIndex: 10,
+  createdAt: "2026-09-25T00:13:52.275Z",
+  updatedAt: "2026-09-25T00:13:53.000Z",
 } as const satisfies TemperLoreBook

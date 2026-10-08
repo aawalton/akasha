@@ -7,4 +7,6 @@ export const craftingMotif118HouseMornardGloves = {
   title: "Crafting Motif 118: House Mornard Gloves",
   collection: "temper-lore-collection/house-mornard-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:20:56.559Z",
+  updatedAt: "2026-09-25T00:20:57.000Z",
 } as const satisfies TemperLoreBook

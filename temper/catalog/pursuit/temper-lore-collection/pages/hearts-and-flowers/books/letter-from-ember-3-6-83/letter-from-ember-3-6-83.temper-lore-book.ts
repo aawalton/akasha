@@ -7,4 +7,6 @@ export const letterFromEmber3683 = {
   title: "Letter from Ember",
   collection: "temper-lore-collection/hearts-and-flowers",
   bookIndex: 83,
+  createdAt: "2026-09-25T00:24:06.768Z",
+  updatedAt: "2026-09-25T00:24:08.000Z",
 } as const satisfies TemperLoreBook

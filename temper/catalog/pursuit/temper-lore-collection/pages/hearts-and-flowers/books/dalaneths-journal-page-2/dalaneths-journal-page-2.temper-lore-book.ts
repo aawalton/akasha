@@ -10,4 +10,6 @@ export const dalanethsJournalPage2 = {
   bookIndex: 5,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:06.767Z",
+  updatedAt: "2026-09-25T00:24:08.000Z",
 } as const satisfies TemperLoreBook

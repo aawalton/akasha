@@ -8,4 +8,6 @@ export const guideToTheDaggerfallCovenant = {
   collection: "temper-lore-collection/glenumbra-lore",
   bookIndex: 5,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:06:49.220Z",
+  updatedAt: "2026-09-25T00:06:50.000Z",
 } as const satisfies TemperLoreBook

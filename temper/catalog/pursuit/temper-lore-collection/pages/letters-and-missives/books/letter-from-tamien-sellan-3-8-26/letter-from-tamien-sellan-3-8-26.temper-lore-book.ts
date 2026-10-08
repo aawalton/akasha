@@ -7,4 +7,6 @@ export const letterFromTamienSellan3826 = {
   title: "Letter from Tamien Sellan",
   collection: "temper-lore-collection/letters-and-missives",
   bookIndex: 26,
+  createdAt: "2026-09-25T00:24:31.223Z",
+  updatedAt: "2026-09-25T00:24:33.000Z",
 } as const satisfies TemperLoreBook

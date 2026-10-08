@@ -10,4 +10,6 @@ export const aComplaintToTheThalmor = {
   bookIndex: 69,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:31.222Z",
+  updatedAt: "2026-09-25T00:24:33.000Z",
 } as const satisfies TemperLoreBook

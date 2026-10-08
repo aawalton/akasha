@@ -11,4 +11,6 @@ export const promissoryNote = {
   charted: true,
   quest: 4631,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:17.958Z",
+  updatedAt: "2026-09-25T00:24:20.000Z",
 } as const satisfies TemperLoreBook

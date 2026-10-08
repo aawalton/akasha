@@ -7,4 +7,6 @@ export const noAdmittanceThisMeansYou3532 = {
   title: "No Admittance: This Means You",
   collection: "temper-lore-collection/handbills-posters-and-decrees",
   bookIndex: 32,
+  createdAt: "2026-09-25T00:23:55.554Z",
+  updatedAt: "2026-09-25T00:23:57.000Z",
 } as const satisfies TemperLoreBook

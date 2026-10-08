@@ -7,4 +7,6 @@ export const craftingMotif85GreymoorBoots = {
   title: "Crafting Motif 85: Greymoor Boots",
   collection: "temper-lore-collection/greymoor-style",
   bookIndex: 3,
+  createdAt: "2026-09-25T00:17:38.092Z",
+  updatedAt: "2026-09-25T00:17:39.000Z",
 } as const satisfies TemperLoreBook

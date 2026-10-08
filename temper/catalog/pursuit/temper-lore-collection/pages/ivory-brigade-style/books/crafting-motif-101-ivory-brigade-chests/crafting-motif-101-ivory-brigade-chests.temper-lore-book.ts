@@ -7,4 +7,6 @@ export const craftingMotif101IvoryBrigadeChests = {
   title: "Crafting Motif 101: Ivory Brigade Chests",
   collection: "temper-lore-collection/ivory-brigade-style",
   bookIndex: 5,
+  createdAt: "2026-09-25T00:19:08.531Z",
+  updatedAt: "2026-09-25T00:19:09.000Z",
 } as const satisfies TemperLoreBook

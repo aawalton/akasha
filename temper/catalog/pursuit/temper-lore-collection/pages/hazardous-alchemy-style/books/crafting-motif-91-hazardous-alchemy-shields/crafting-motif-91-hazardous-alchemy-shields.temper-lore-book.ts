@@ -7,4 +7,6 @@ export const craftingMotif91HazardousAlchemyShields = {
   title: "Crafting Motif 91: Hazardous Alchemy Shields",
   collection: "temper-lore-collection/hazardous-alchemy-style",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:18:08.339Z",
+  updatedAt: "2026-09-25T00:18:09.000Z",
 } as const satisfies TemperLoreBook

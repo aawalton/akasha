@@ -7,4 +7,6 @@ export const craftingMotif123KindredsConcordBows = {
   title: "Crafting Motif 123: Kindred's Concord Bows",
   collection: "temper-lore-collection/kindreds-concord-style",
   bookIndex: 4,
+  createdAt: "2026-09-25T00:21:22.323Z",
+  updatedAt: "2026-09-25T00:21:23.000Z",
 } as const satisfies TemperLoreBook

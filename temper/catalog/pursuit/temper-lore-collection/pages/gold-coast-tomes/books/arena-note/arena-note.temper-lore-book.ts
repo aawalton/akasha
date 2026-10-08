@@ -11,4 +11,6 @@ export const arenaNote = {
   charted: true,
   quest: 5664,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:29:19.225Z",
+  updatedAt: "2026-09-25T00:29:21.000Z",
 } as const satisfies TemperLoreBook

@@ -11,4 +11,6 @@ export const theElfTheEggAndTheAlmostDragon = {
   charted: true,
   quest: 5535,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:29:06.580Z",
+  updatedAt: "2026-09-25T00:29:08.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const jewelryCraftingSurveyReapersMarch = {
   title: "Jewelry Crafting Survey: Reaper's March",
   collection: "temper-lore-collection/jewelry-crafting-surveys",
   bookIndex: 12,
+  createdAt: "2026-09-25T00:54:04.045Z",
+  updatedAt: "2026-09-25T00:54:05.000Z",
 } as const satisfies TemperLoreBook

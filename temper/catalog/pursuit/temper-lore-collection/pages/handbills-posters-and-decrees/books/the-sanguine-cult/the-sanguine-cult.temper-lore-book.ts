@@ -10,4 +10,6 @@ export const theSanguineCult = {
   bookIndex: 7,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:23:55.555Z",
+  updatedAt: "2026-09-25T00:23:57.000Z",
 } as const satisfies TemperLoreBook

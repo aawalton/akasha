@@ -11,4 +11,6 @@ export const toCaptainMarck = {
   charted: true,
   quest: 4687,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:31.225Z",
+  updatedAt: "2026-09-25T00:24:33.000Z",
 } as const satisfies TemperLoreBook

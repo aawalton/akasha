@@ -7,4 +7,6 @@ export const theToothmaulContract3737 = {
   title: "The Toothmaul Contract",
   collection: "temper-lore-collection/houses-shops-and-trade",
   bookIndex: 37,
+  createdAt: "2026-09-25T00:24:17.959Z",
+  updatedAt: "2026-09-25T00:24:20.000Z",
 } as const satisfies TemperLoreBook

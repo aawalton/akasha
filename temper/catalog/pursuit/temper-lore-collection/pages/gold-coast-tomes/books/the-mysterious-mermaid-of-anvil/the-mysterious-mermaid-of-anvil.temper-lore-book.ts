@@ -10,4 +10,6 @@ export const theMysteriousMermaidOfAnvil = {
   bookIndex: 47,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:29:19.227Z",
+  updatedAt: "2026-09-25T00:29:21.000Z",
 } as const satisfies TemperLoreBook

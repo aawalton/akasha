@@ -7,4 +7,6 @@ export const craftingMotif52RedoranMaces = {
   title: "Crafting Motif 52: Redoran Maces",
   collection: "temper-lore-collection/house-redoran-style",
   bookIndex: 10,
+  createdAt: "2026-09-25T00:14:17.027Z",
+  updatedAt: "2026-09-25T00:14:18.000Z",
 } as const satisfies TemperLoreBook

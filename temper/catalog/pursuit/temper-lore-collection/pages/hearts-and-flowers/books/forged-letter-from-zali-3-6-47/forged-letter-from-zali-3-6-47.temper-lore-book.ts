@@ -7,4 +7,6 @@ export const forgedLetterFromZali3647 = {
   title: 'Forged Letter from "Zali"',
   collection: "temper-lore-collection/hearts-and-flowers",
   bookIndex: 47,
+  createdAt: "2026-09-25T00:24:06.767Z",
+  updatedAt: "2026-09-25T00:24:08.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif129HircineBloodhunterLegs = {
   title: "Crafting Motif 129: Hircine Bloodhunter Legs",
   collection: "temper-lore-collection/hircine-bloodhunter-style",
   bookIndex: 9,
+  createdAt: "2026-09-25T00:21:54.147Z",
+  updatedAt: "2026-09-25T00:21:55.000Z",
 } as const satisfies TemperLoreBook

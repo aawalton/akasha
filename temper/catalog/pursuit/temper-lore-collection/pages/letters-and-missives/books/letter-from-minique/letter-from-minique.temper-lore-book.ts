@@ -11,4 +11,6 @@ export const letterFromMinique = {
   charted: true,
   quest: 4266,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:31.223Z",
+  updatedAt: "2026-09-25T00:24:33.000Z",
 } as const satisfies TemperLoreBook

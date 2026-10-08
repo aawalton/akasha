@@ -11,4 +11,6 @@ export const bretonBedtimeStoriesLoosePage = {
   charted: true,
   quest: 4468,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:06.767Z",
+  updatedAt: "2026-09-25T00:24:08.000Z",
 } as const satisfies TemperLoreBook

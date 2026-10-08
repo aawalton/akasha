@@ -11,4 +11,6 @@ export const ladyInTheCisternZeirasTheory = {
   charted: true,
   quest: 5553,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:29:06.579Z",
+  updatedAt: "2026-09-25T00:29:08.000Z",
 } as const satisfies TemperLoreBook

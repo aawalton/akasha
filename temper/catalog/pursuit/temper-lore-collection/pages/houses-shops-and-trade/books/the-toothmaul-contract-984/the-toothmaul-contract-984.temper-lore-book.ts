@@ -9,4 +9,6 @@ export const theToothmaulContract984 = {
   esoBookId: 984,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:17.959Z",
+  updatedAt: "2026-09-25T00:24:20.000Z",
 } as const satisfies TemperLoreBook

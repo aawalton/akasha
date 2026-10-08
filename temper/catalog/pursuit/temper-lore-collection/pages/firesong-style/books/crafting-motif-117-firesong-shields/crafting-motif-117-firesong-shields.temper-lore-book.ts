@@ -7,4 +7,6 @@ export const craftingMotif117FiresongShields = {
   title: "Crafting Motif 117: Firesong Shields",
   collection: "temper-lore-collection/firesong-style",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:20:51.530Z",
+  updatedAt: "2026-09-25T00:20:52.000Z",
 } as const satisfies TemperLoreBook

@@ -11,4 +11,6 @@ export const risasJournal = {
   charted: true,
   quest: 3728,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:01.838Z",
+  updatedAt: "2026-09-25T00:28:03.000Z",
 } as const satisfies TemperLoreBook

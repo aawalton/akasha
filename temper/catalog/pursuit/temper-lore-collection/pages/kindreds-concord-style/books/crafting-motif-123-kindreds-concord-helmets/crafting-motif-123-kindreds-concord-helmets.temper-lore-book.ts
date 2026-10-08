@@ -7,4 +7,6 @@ export const craftingMotif123KindredsConcordHelmets = {
   title: "Crafting Motif 123: Kindred's Concord Helmets",
   collection: "temper-lore-collection/kindreds-concord-style",
   bookIndex: 8,
+  createdAt: "2026-09-25T00:21:22.323Z",
+  updatedAt: "2026-09-25T00:21:23.000Z",
 } as const satisfies TemperLoreBook

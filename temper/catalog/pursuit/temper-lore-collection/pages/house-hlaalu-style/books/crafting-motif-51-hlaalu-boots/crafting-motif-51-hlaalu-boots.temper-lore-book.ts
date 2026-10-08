@@ -7,4 +7,6 @@ export const craftingMotif51HlaaluBoots = {
   title: "Crafting Motif 51: Hlaalu Boots",
   collection: "temper-lore-collection/house-hlaalu-style",
   bookIndex: 3,
+  createdAt: "2026-09-25T00:14:12.083Z",
+  updatedAt: "2026-09-25T00:14:13.000Z",
 } as const satisfies TemperLoreBook

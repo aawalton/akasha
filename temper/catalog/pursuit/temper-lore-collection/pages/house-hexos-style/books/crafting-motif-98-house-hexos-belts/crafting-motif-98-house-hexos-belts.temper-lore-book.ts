@@ -7,4 +7,6 @@ export const craftingMotif98HouseHexosBelts = {
   title: "Crafting Motif 98: House Hexos Belts",
   collection: "temper-lore-collection/house-hexos-style",
   bookIndex: 2,
+  createdAt: "2026-09-25T00:18:42.906Z",
+  updatedAt: "2026-09-25T00:18:44.000Z",
 } as const satisfies TemperLoreBook

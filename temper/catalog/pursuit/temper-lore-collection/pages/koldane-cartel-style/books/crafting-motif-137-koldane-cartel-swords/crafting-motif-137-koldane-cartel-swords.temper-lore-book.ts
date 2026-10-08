@@ -7,4 +7,6 @@ export const craftingMotif137KoldaneCartelSwords = {
   title: "Crafting Motif 137: Koldane Cartel Swords",
   collection: "temper-lore-collection/koldane-cartel-style",
   bookIndex: 14,
+  createdAt: "2026-09-25T00:22:41.373Z",
+  updatedAt: "2026-09-25T00:22:42.000Z",
 } as const satisfies TemperLoreBook

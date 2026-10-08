@@ -7,4 +7,6 @@ export const craftingMotif42HollowjackHelmets = {
   title: "Crafting Motif 42: Hollowjack Helmets",
   collection: "temper-lore-collection/hollowjack-style",
   bookIndex: 8,
+  createdAt: "2026-09-25T00:13:22.237Z",
+  updatedAt: "2026-09-25T00:13:23.000Z",
 } as const satisfies TemperLoreBook

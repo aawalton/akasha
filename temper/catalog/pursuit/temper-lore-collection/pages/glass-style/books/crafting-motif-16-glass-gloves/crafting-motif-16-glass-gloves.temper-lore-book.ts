@@ -7,4 +7,6 @@ export const craftingMotif16GlassGloves = {
   title: "Crafting Motif 16: Glass Gloves",
   collection: "temper-lore-collection/glass-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:11:35.634Z",
+  updatedAt: "2026-09-25T00:11:36.000Z",
 } as const satisfies TemperLoreBook

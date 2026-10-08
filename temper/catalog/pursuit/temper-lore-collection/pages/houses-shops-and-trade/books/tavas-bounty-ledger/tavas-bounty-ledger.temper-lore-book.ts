@@ -7,4 +7,6 @@ export const tavasBountyLedger = {
   title: "Tava's Bounty Ledger",
   collection: "temper-lore-collection/houses-shops-and-trade",
   bookIndex: 81,
+  createdAt: "2026-09-25T00:24:17.958Z",
+  updatedAt: "2026-09-25T00:24:20.000Z",
 } as const satisfies TemperLoreBook

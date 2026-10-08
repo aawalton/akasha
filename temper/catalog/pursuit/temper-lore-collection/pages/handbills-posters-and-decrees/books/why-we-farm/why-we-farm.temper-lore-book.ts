@@ -10,4 +10,6 @@ export const whyWeFarm = {
   bookIndex: 9,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:23:55.556Z",
+  updatedAt: "2026-09-25T00:23:57.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif137KoldaneCartelHelmets = {
   title: "Crafting Motif 137: Koldane Cartel Helmets",
   collection: "temper-lore-collection/koldane-cartel-style",
   bookIndex: 8,
+  createdAt: "2026-09-25T00:22:41.373Z",
+  updatedAt: "2026-09-25T00:22:42.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif68HonorGuardBows = {
   title: "Crafting Motif 68: Honor Guard Bows",
   collection: "temper-lore-collection/honor-guard-style",
   bookIndex: 4,
+  createdAt: "2026-09-25T00:16:17.331Z",
+  updatedAt: "2026-09-25T00:16:18.000Z",
 } as const satisfies TemperLoreBook

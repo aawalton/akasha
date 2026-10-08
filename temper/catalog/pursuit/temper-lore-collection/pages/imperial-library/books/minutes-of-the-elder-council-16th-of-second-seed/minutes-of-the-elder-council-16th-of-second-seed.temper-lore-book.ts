@@ -7,4 +7,6 @@ export const minutesOfTheElderCouncil16thOfSecondSeed = {
   title: "Minutes of the Elder Council, 16th of Second Seed",
   collection: "temper-lore-collection/imperial-library",
   bookIndex: 17,
+  createdAt: "2026-09-25T00:28:46.341Z",
+  updatedAt: "2026-09-25T00:28:47.000Z",
 } as const satisfies TemperLoreBook

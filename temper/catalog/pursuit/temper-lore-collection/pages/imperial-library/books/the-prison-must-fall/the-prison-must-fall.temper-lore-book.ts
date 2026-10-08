@@ -9,4 +9,6 @@ export const thePrisonMustFall = {
   esoBookId: 2833,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:46.341Z",
+  updatedAt: "2026-09-25T00:28:47.000Z",
 } as const satisfies TemperLoreBook

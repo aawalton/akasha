@@ -8,4 +8,6 @@ export const wyressesTheNameDaughters = {
   collection: "temper-lore-collection/glenumbra-lore",
   bookIndex: 9,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:06:49.221Z",
+  updatedAt: "2026-09-25T00:06:50.000Z",
 } as const satisfies TemperLoreBook

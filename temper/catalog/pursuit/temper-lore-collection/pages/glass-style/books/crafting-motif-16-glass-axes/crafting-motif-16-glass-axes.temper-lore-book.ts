@@ -7,4 +7,6 @@ export const craftingMotif16GlassAxes = {
   title: "Crafting Motif 16: Glass Axes",
   collection: "temper-lore-collection/glass-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:11:35.634Z",
+  updatedAt: "2026-09-25T00:11:36.000Z",
 } as const satisfies TemperLoreBook

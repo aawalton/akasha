@@ -7,4 +7,6 @@ export const craftingMotif68HonorGuardStaves = {
   title: "Crafting Motif 68: Honor Guard Staves",
   collection: "temper-lore-collection/honor-guard-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:16:17.331Z",
+  updatedAt: "2026-09-25T00:16:18.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif16GlassChests = {
   title: "Crafting Motif 16: Glass Chests",
   collection: "temper-lore-collection/glass-style",
   bookIndex: 5,
+  createdAt: "2026-09-25T00:11:35.634Z",
+  updatedAt: "2026-09-25T00:11:36.000Z",
 } as const satisfies TemperLoreBook

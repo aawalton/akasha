@@ -10,4 +10,6 @@ export const theTavasBountyLedger = {
   charted: true,
   quest: 2556,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:24:17.959Z",
+  updatedAt: "2026-09-25T00:24:20.000Z",
 } as const satisfies TemperLoreBook

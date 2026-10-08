@@ -10,4 +10,6 @@ export const letterToHanza = {
   bookIndex: 71,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:01.837Z",
+  updatedAt: "2026-09-25T00:28:03.000Z",
 } as const satisfies TemperLoreBook
