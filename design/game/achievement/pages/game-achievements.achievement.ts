@@ -10,4 +10,6 @@ export const gameAchievements = {
   ownProgress: 0,
   unit: "unit/words",
   status: "not-applicable",
+  createdAt: "2026-09-03T16:09:44.728Z",
+  updatedAt: "2026-09-15T15:43:56.000Z",
 } as const satisfies Achievement

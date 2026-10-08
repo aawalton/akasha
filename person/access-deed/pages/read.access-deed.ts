@@ -5,4 +5,6 @@ export const read = {
   type: "page-type/access-deed",
   slug: "read",
   definition: "being answered what a thing holds",
+  createdAt: "2026-09-21T16:56:54.803Z",
+  updatedAt: "2026-09-21T16:57:24.000Z",
 } as const satisfies AccessDeed

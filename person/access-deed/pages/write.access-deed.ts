@@ -5,4 +5,6 @@ export const write = {
   type: "page-type/access-deed",
   slug: "write",
   definition: "changing what a thing holds",
+  createdAt: "2026-09-21T16:57:02.621Z",
+  updatedAt: "2026-09-21T16:57:24.000Z",
 } as const satisfies AccessDeed

@@ -5,4 +5,6 @@ export const domain = {
   type: "page-type/access-kind",
   slug: "domain",
   definition: "an area of concern, and everything beneath it",
+  createdAt: "2026-08-30T19:37:29.756Z",
+  updatedAt: "2026-09-15T15:43:38.000Z",
 } as const satisfies AccessKind

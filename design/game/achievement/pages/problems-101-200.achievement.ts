@@ -12,4 +12,6 @@ export const problems101200 = {
   unit: "unit/words",
   status: "in-progress",
   grade: "A",
+  createdAt: "2026-09-03T16:09:44.728Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Achievement

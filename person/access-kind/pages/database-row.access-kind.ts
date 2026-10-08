@@ -5,4 +5,6 @@ export const databaseRow = {
   type: "page-type/access-kind",
   slug: "database-row",
   definition: "a row in a table of the database",
+  createdAt: "2026-08-30T19:37:29.755Z",
+  updatedAt: "2026-09-15T15:43:38.000Z",
 } as const satisfies AccessKind
