@@ -19,4 +19,6 @@ export const labyrinthOfTheMadGod0342Chapter62PowerThatSpansTheStars = {
   title: "Chapter 62: Power that Spans the Stars",
   ownLength: 2888,
   prose: "txt",
+  createdAt: "2026-09-07T19:06:30.717Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

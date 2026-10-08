@@ -20,4 +20,6 @@ export const metaworldHopecore0005Chapter3JustLikeStartingOver = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T22:18:18.945Z",
+  updatedAt: "2026-09-28T20:27:21.000Z",
 } as const satisfies StoryChapterRead

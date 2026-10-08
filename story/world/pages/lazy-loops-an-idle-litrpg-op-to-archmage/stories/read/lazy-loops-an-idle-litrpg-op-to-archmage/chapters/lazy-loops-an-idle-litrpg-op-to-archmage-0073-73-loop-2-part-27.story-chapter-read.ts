@@ -19,4 +19,6 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage007373Loop2Part27 = {
   title: "73 Loop 2, Part 27",
   ownLength: 1964,
   prose: "txt",
+  createdAt: "2026-09-07T18:06:10.731Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

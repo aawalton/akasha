@@ -19,4 +19,6 @@ export const labyrinthOfTheMadGod0344Chapter64CGradeAndSeriousUpgrades = {
   story: "story-read/labyrinth-of-the-mad-god",
   ownLength: 3177,
   prose: "txt",
+  createdAt: "2026-09-14T19:07:26.672Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

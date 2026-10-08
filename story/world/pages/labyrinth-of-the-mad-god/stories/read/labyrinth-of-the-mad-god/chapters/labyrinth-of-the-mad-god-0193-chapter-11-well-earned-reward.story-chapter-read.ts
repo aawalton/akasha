@@ -19,4 +19,6 @@ export const labyrinthOfTheMadGod0193Chapter11WellEarnedReward = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.051Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

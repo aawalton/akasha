@@ -19,4 +19,6 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage007676Loop2Part30 = {
   story: "story-read/lazy-loops-an-idle-litrpg-op-to-archmage",
   ownLength: 1975,
   prose: "txt",
+  createdAt: "2026-09-15T05:07:44.224Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
