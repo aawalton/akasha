@@ -52,6 +52,14 @@ describe("homographsOf", () => {
     )
   })
 
+  test("used to a short gerund and content after an adverb are read as their sense", () => {
+    expect(
+      homographsOf("Erin wasn't used to using it. She looked bitterly content, the only content.")
+    ).toBe(
+      "Erin wasn't [used](/jˈust/) to using it. She looked bitterly [content](/kəntˈɛnt/), the only content."
+    )
+  })
+
   test("markup already handed on is left whole", () => {
     expect(homographsOf("A [dove](/x/) and [Klbkch](/kˈɪlbkɪʧ/) bowed.")).toBe(
       "A [dove](/x/) and [Klbkch](/kˈɪlbkɪʧ/) [bowed](/bˈWd/)."

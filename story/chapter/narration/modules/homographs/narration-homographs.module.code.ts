@@ -49,8 +49,12 @@ const READINGS: readonly Reading[] = [
   },
   { found: new RegExp(`\\b(?:${CALM})\\s+(content)\\b`, "giu"), said: "kəntˈɛnt" },
   {
+    found: new RegExp(`${OWNED}\\b(?!only\\b)\\p{L}+ly\\s+(content)\\b`, "giu"),
+    said: "kəntˈɛnt",
+  },
+  {
     found: new RegExp(
-      `\\b(?:${KEEPING})\\s+(?:(?:${DEGREE})\\s+)*(used)\\s+to(?=\\s+(?:(?:${ACCUSTOMED_TO})\\b|(?!(?:${RINGING})\\b)\\p{L}{3,}ing\\b)|\\s*[,.;:!?…—”"’])`,
+      `\\b(?:${KEEPING})\\s+(?:(?:${DEGREE})\\s+)*(used)\\s+to(?=\\s+(?:(?:${ACCUSTOMED_TO})\\b|(?!(?:${RINGING})\\b)\\p{L}{2,}ing\\b)|\\s*[,.;:!?…—”"’])`,
       "giu"
     ),
     said: "jˈust",
