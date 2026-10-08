@@ -7,4 +7,6 @@ export const watcherSyncStatusCardConnectedStaleData = {
   title: "Game data captured{capturedAgo}",
   description:
     "The Watcher reached Temper{contactAgo}, but the newest game data it sent was captured{capturedAgo}. Temper cannot tell from here whether you simply have not played since then, or the add-ons have stopped writing the files the Watcher reads. Play for a few minutes, then check whether the capture time above moves.",
+  createdAt: "2026-09-27T11:43:14.150Z",
+  updatedAt: "2026-09-27T11:43:22.000Z",
 } as const satisfies TemperWebPhrase

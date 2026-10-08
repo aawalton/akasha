@@ -11,4 +11,6 @@ export const reapersMarch6851 = {
   mapPositions: [
     { mapFolder: "reapersmarch", mapTile: "reapersmarch_base", mapX: 0.378, mapY: 0.199 },
   ],
+  createdAt: "2026-09-24T23:56:57.897Z",
+  updatedAt: "2026-09-24T23:57:01.000Z",
 } as const satisfies TemperWorldSkyshard

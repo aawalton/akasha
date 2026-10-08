@@ -9,4 +9,6 @@ export const malabalTor6847 = {
   shardNumber: 7,
   worldZone: "temper-world-zone/malabal-tor",
   mapPositions: [{ mapFolder: "malabaltor", mapTile: "malabaltor_base", mapX: 0.788, mapY: 0.571 }],
+  createdAt: "2026-09-25T00:04:45.175Z",
+  updatedAt: "2026-09-25T00:04:48.000Z",
 } as const satisfies TemperWorldSkyshard

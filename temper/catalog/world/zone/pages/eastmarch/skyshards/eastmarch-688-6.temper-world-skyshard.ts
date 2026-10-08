@@ -9,4 +9,6 @@ export const eastmarch6886 = {
   shardNumber: 6,
   worldZone: "temper-world-zone/eastmarch",
   mapPositions: [{ mapFolder: "eastmarch", mapTile: "eastmarch_base", mapX: 0.143, mapY: 0.592 }],
+  createdAt: "2026-09-25T00:01:06.717Z",
+  updatedAt: "2026-09-25T00:01:10.000Z",
 } as const satisfies TemperWorldSkyshard

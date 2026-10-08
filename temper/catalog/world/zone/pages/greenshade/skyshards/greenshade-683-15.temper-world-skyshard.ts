@@ -18,4 +18,6 @@ export const greenshade68315 = {
       placeKinds: [2],
     },
   ],
+  createdAt: "2026-09-25T00:01:42.156Z",
+  updatedAt: "2026-09-25T00:01:45.000Z",
 } as const satisfies TemperWorldSkyshard

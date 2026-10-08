@@ -5,4 +5,6 @@ export const temperRequestsLead = {
   type: "page-type/temper-web-phrase",
   slug: "temper-requests-lead",
   title: "What Temper players have asked for, and the contribution points behind each ask.",
+  createdAt: "2026-09-27T11:36:22.749Z",
+  updatedAt: "2026-09-27T11:36:31.000Z",
 } as const satisfies TemperWebPhrase

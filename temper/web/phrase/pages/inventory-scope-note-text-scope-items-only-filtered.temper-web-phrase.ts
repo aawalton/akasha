@@ -5,4 +5,6 @@ export const inventoryScopeNoteTextScopeItemsOnlyFiltered = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-scope-note-text-scope-items-only-filtered",
   title: "Items only, matching the active filters.",
+  createdAt: "2026-09-27T11:40:29.114Z",
+  updatedAt: "2026-09-27T11:40:37.000Z",
 } as const satisfies TemperWebPhrase

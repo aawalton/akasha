@@ -5,4 +5,6 @@ export const useShoppingOptimizerUnknownError = {
   type: "page-type/temper-web-phrase",
   slug: "use-shopping-optimizer-unknown-error",
   title: "Unknown error",
+  createdAt: "2026-09-27T11:40:25.980Z",
+  updatedAt: "2026-09-27T11:40:34.000Z",
 } as const satisfies TemperWebPhrase

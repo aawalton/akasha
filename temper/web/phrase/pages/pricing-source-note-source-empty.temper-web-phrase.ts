@@ -7,4 +7,6 @@ export const pricingSourceNoteSourceEmpty = {
   title: "Item values are missing",
   description:
     "Item values are missing — Tamriel Trade Centre was running during your last sync but priced none of your items. Its price tables come from the separate Tamriel Trade Centre desktop client rather than the add-on itself, so if that has not run, the add-on loads with nothing to price from. Until then only vendor prices are counted, and your totals are far too low.",
+  createdAt: "2026-09-27T11:33:56.108Z",
+  updatedAt: "2026-09-27T11:34:03.000Z",
 } as const satisfies TemperWebPhrase

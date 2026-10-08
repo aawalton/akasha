@@ -5,4 +5,6 @@ export const useCompanionSetTargetNoBuild = {
   type: "page-type/temper-web-phrase",
   slug: "use-companion-set-target-no-build",
   title: "No build",
+  createdAt: "2026-09-27T11:35:39.721Z",
+  updatedAt: "2026-09-27T11:35:48.000Z",
 } as const satisfies TemperWebPhrase

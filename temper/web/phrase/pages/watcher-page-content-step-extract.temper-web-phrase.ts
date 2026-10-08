@@ -7,4 +7,6 @@ export const watcherPageContentStepExtract = {
   title: "Where to extract the add-ons",
   description:
     "Extract everything in the zip into your ESO add-ons folder, {path}. If your Documents folder syncs to OneDrive, the real one is {oneDrivePath} — extracting into the other looks like it worked and changes nothing in game.",
+  createdAt: "2026-09-27T11:48:55.693Z",
+  updatedAt: "2026-09-27T11:49:02.000Z",
 } as const satisfies TemperWebPhrase

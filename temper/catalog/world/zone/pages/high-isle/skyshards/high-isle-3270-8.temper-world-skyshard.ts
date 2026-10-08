@@ -11,4 +11,6 @@ export const highIsle32708 = {
   mapPositions: [
     { mapFolder: "systres", mapTile: "u34_systreszone_base", mapX: 0.7821, mapY: 0.4516 },
   ],
+  createdAt: "2026-09-25T00:02:35.071Z",
+  updatedAt: "2026-09-25T00:02:37.000Z",
 } as const satisfies TemperWorldSkyshard

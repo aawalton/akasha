@@ -5,4 +5,6 @@ export const notificationsTabActionReports = {
   type: "page-type/temper-web-phrase",
   slug: "notifications-tab-action-reports",
   title: "Action Reports",
+  createdAt: "2026-09-27T11:30:38.078Z",
+  updatedAt: "2026-09-27T11:30:47.000Z",
 } as const satisfies TemperWebPhrase

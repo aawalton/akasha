@@ -5,4 +5,6 @@ export const managementPlanPanelCardSlot = {
   type: "page-type/temper-web-phrase",
   slug: "management-plan-panel-card-slot",
   title: "{count} slot",
+  createdAt: "2026-09-27T11:38:41.921Z",
+  updatedAt: "2026-09-27T11:38:50.000Z",
 } as const satisfies TemperWebPhrase

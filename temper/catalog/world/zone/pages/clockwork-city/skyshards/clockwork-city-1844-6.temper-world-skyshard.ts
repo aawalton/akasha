@@ -24,4 +24,6 @@ export const clockworkCity18446 = {
       placeKinds: [3],
     },
   ],
+  createdAt: "2026-09-25T00:06:19.582Z",
+  updatedAt: "2026-09-25T00:06:22.000Z",
 } as const satisfies TemperWorldSkyshard

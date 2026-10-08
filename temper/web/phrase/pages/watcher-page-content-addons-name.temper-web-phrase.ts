@@ -5,4 +5,6 @@ export const watcherPageContentAddonsName = {
   type: "page-type/temper-web-phrase",
   slug: "watcher-page-content-addons-name",
   title: "The Temper ESO add-ons.",
+  createdAt: "2026-09-27T11:48:55.692Z",
+  updatedAt: "2026-09-27T11:49:02.000Z",
 } as const satisfies TemperWebPhrase

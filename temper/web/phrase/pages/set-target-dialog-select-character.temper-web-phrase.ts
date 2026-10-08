@@ -5,4 +5,6 @@ export const setTargetDialogSelectCharacter = {
   type: "page-type/temper-web-phrase",
   slug: "set-target-dialog-select-character",
   title: "Select a character to set this build as its target.",
+  createdAt: "2026-09-27T11:35:39.721Z",
+  updatedAt: "2026-09-27T11:35:48.000Z",
 } as const satisfies TemperWebPhrase

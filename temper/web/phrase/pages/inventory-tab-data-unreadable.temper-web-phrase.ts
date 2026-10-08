@@ -7,4 +7,6 @@ export const inventoryTabDataUnreadable = {
   title: "Your inventory data could not be read",
   description:
     "Temper has an inventory reading for this account but could not reassemble it, so it cannot tell which guild banks are in it. The data arrived — reading it is what failed, which is Temper's fault rather than your game's. A fresh sync will replace the reading.",
+  createdAt: "2026-09-27T11:35:12.236Z",
+  updatedAt: "2026-09-27T11:35:19.000Z",
 } as const satisfies TemperWebPhrase

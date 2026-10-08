@@ -12,4 +12,6 @@ export const clockworkCity18444 = {
     { mapFolder: "clockwork", mapTile: "brassfortress_base", mapX: 0.3458, mapY: 0.5533 },
     { mapFolder: "clockwork", mapTile: "clockwork_base", mapX: 0.4453, mapY: 0.3591 },
   ],
+  createdAt: "2026-09-25T00:06:19.582Z",
+  updatedAt: "2026-09-25T00:06:22.000Z",
 } as const satisfies TemperWorldSkyshard

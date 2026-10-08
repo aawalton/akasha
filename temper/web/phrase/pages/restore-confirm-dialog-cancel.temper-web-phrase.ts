@@ -5,4 +5,6 @@ export const restoreConfirmDialogCancel = {
   type: "page-type/temper-web-phrase",
   slug: "restore-confirm-dialog-cancel",
   title: "Cancel",
+  createdAt: "2026-09-27T11:35:39.720Z",
+  updatedAt: "2026-09-27T11:35:48.000Z",
 } as const satisfies TemperWebPhrase

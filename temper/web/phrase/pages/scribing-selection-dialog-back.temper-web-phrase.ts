@@ -5,4 +5,6 @@ export const scribingSelectionDialogBack = {
   type: "page-type/temper-web-phrase",
   slug: "scribing-selection-dialog-back",
   title: "Back to grimoire selection",
+  createdAt: "2026-09-27T11:38:36.578Z",
+  updatedAt: "2026-09-27T11:38:46.000Z",
 } as const satisfies TemperWebPhrase

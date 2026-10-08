@@ -12,4 +12,6 @@ export const deshaan54711 = {
     { mapFolder: "deshaan", mapTile: "deshaan_base", mapX: 0.9128, mapY: 0.4383, placeKinds: [2] },
     { mapFolder: "deshaan", mapTile: "desolatecave_base", mapX: 0.5007, mapY: 0.6418 },
   ],
+  createdAt: "2026-09-25T00:02:05.028Z",
+  updatedAt: "2026-09-25T00:02:08.000Z",
 } as const satisfies TemperWorldSkyshard

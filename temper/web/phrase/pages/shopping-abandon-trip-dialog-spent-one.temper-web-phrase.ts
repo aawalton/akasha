@@ -6,4 +6,6 @@ export const shoppingAbandonTripDialogSpentOne = {
   slug: "shopping-abandon-trip-dialog-spent-one",
   title:
     "You've spent {gold} on {count} item so far. Clearing the list discards this trip and its progress.",
+  createdAt: "2026-09-27T11:38:40.450Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies TemperWebPhrase

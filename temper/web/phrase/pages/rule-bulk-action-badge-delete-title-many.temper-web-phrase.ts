@@ -5,4 +5,6 @@ export const ruleBulkActionBadgeDeleteTitleMany = {
   type: "page-type/temper-web-phrase",
   slug: "rule-bulk-action-badge-delete-title-many",
   title: "Delete {count} {status} Rules?",
+  createdAt: "2026-09-27T11:38:36.478Z",
+  updatedAt: "2026-09-27T11:38:45.000Z",
 } as const satisfies TemperWebPhrase

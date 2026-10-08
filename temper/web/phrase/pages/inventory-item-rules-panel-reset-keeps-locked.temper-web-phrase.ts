@@ -5,4 +5,6 @@ export const inventoryItemRulesPanelResetKeepsLocked = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-item-rules-panel-reset-keeps-locked",
   title: "This will remove all unlocked item-specific overrides. Locked rules will be preserved.",
+  createdAt: "2026-09-27T11:36:27.454Z",
+  updatedAt: "2026-09-27T11:36:34.000Z",
 } as const satisfies TemperWebPhrase

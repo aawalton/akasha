@@ -18,4 +18,6 @@ export const shadowfen68715 = {
     },
     { mapFolder: "shadowfen", mapTile: "shrineofblackworm_base", mapX: 0.8597, mapY: 0.6901 },
   ],
+  createdAt: "2026-09-24T23:59:43.260Z",
+  updatedAt: "2026-09-24T23:59:47.000Z",
 } as const satisfies TemperWorldSkyshard

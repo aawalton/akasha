@@ -18,4 +18,6 @@ export const malabalTor68413 = {
     },
     { mapFolder: "malabaltor", mapTile: "rootsofsilvenar_base", mapX: 0.571, mapY: 0.403 },
   ],
+  createdAt: "2026-09-25T00:04:45.175Z",
+  updatedAt: "2026-09-25T00:04:48.000Z",
 } as const satisfies TemperWorldSkyshard

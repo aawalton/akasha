@@ -7,4 +7,6 @@ export const watcherRunStatusCardParseFailing = {
   title: "Why the Watcher can fail to read a file",
   description:
     "The file for {failing} exists and the Watcher could not make sense of it. That is more likely our bug than anything you did — the add-on may be writing a shape Temper does not expect, or the file was captured mid-write. Please tell us.{recorded}",
+  createdAt: "2026-09-27T11:40:22.896Z",
+  updatedAt: "2026-09-27T11:40:30.000Z",
 } as const satisfies TemperWebPhrase

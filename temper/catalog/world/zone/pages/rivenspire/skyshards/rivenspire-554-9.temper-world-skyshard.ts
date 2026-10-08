@@ -9,4 +9,6 @@ export const rivenspire5549 = {
   shardNumber: 9,
   worldZone: "temper-world-zone/rivenspire",
   mapPositions: [{ mapFolder: "rivenspire", mapTile: "rivenspire_base", mapX: 0.579, mapY: 0.441 }],
+  createdAt: "2026-09-25T00:03:32.066Z",
+  updatedAt: "2026-09-25T00:03:34.000Z",
 } as const satisfies TemperWorldSkyshard

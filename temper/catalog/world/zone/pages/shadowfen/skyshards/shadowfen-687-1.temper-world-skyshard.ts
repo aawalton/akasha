@@ -18,4 +18,6 @@ export const shadowfen6871 = {
     },
     { mapFolder: "shadowfen", mapTile: "stormhold_base", mapX: 0.4468, mapY: 0.4943 },
   ],
+  createdAt: "2026-09-24T23:59:43.259Z",
+  updatedAt: "2026-09-24T23:59:47.000Z",
 } as const satisfies TemperWorldSkyshard

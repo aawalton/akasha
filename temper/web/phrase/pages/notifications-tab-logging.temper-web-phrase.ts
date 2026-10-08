@@ -5,4 +5,6 @@ export const notificationsTabLogging = {
   type: "page-type/temper-web-phrase",
   slug: "notifications-tab-logging",
   title: "Addon Logging",
+  createdAt: "2026-09-27T11:30:38.078Z",
+  updatedAt: "2026-09-27T11:30:47.000Z",
 } as const satisfies TemperWebPhrase

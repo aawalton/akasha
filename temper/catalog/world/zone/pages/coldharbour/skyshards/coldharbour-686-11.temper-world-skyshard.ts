@@ -18,4 +18,6 @@ export const coldharbour68611 = {
     },
     { mapFolder: "coldharbor", mapTile: "vaultofhamanforgefire_base", mapX: 0.5268, mapY: 0.1484 },
   ],
+  createdAt: "2026-09-24T23:58:22.625Z",
+  updatedAt: "2026-09-24T23:58:26.000Z",
 } as const satisfies TemperWorldSkyshard

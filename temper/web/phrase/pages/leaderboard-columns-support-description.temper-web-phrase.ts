@@ -5,4 +5,6 @@ export const leaderboardColumnsSupportDescription = {
   type: "page-type/temper-web-phrase",
   slug: "leaderboard-columns-support-description",
   title: "Combined support contribution from damage and toughness buffs",
+  createdAt: "2026-09-27T11:48:00.687Z",
+  updatedAt: "2026-09-27T11:48:08.000Z",
 } as const satisfies TemperWebPhrase

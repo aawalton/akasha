@@ -5,4 +5,6 @@ export const useShoppingOptimizerRefused = {
   type: "page-type/temper-web-phrase",
   slug: "use-shopping-optimizer-refused",
   title: "HTTP {status}",
+  createdAt: "2026-09-27T11:40:25.980Z",
+  updatedAt: "2026-09-27T11:40:34.000Z",
 } as const satisfies TemperWebPhrase

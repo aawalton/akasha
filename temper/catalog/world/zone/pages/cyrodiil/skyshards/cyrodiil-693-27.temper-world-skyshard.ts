@@ -12,4 +12,6 @@ export const cyrodiil69327 = {
     { mapFolder: "cyrodiil", mapTile: "ava_whole", mapX: 0.1544, mapY: 0.2411, placeKinds: [2] },
     { mapFolder: "cyrodiil", mapTile: "lipsandtarn_base", mapX: 0.733, mapY: 0.196 },
   ],
+  createdAt: "2026-09-25T00:01:14.164Z",
+  updatedAt: "2026-09-25T00:01:34.000Z",
 } as const satisfies TemperWorldSkyshard

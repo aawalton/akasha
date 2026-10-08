@@ -11,4 +11,6 @@ export const southernElsweyr25621 = {
   mapPositions: [
     { mapFolder: "southernelsweyr", mapTile: "southernelsweyr_base", mapX: 0.5883, mapY: 0.2437 },
   ],
+  createdAt: "2026-09-25T00:03:04.011Z",
+  updatedAt: "2026-09-25T00:03:07.000Z",
 } as const satisfies TemperWorldSkyshard

@@ -5,4 +5,6 @@ export const skillSlotCardEmpty = {
   type: "page-type/temper-web-phrase",
   slug: "skill-slot-card-empty",
   title: "Empty Slot",
+  createdAt: "2026-09-27T11:42:00.999Z",
+  updatedAt: "2026-09-27T11:42:08.000Z",
 } as const satisfies TemperWebPhrase

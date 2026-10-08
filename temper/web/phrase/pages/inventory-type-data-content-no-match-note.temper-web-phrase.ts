@@ -5,4 +5,6 @@ export const inventoryTypeDataContentNoMatchNote = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-type-data-content-no-match-note",
   title: "Try adjusting your search or filters to find what you're looking for.",
+  createdAt: "2026-09-27T11:39:16.126Z",
+  updatedAt: "2026-09-27T11:39:23.000Z",
 } as const satisfies TemperWebPhrase

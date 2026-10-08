@@ -7,4 +7,6 @@ export const watcherSyncStatusCardNotConnected = {
   title: "Nothing has synced yet",
   description:
     "Temper has never received game data for this account — no characters and no inventory. Everything below is what it takes to change that.",
+  createdAt: "2026-09-27T11:43:14.151Z",
+  updatedAt: "2026-09-27T11:43:22.000Z",
 } as const satisfies TemperWebPhrase

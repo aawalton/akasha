@@ -5,4 +5,6 @@ export const ruleBulkActionBadgeShow = {
   type: "page-type/temper-web-phrase",
   slug: "rule-bulk-action-badge-show",
   title: "Show",
+  createdAt: "2026-09-27T11:38:36.478Z",
+  updatedAt: "2026-09-27T11:38:45.000Z",
 } as const satisfies TemperWebPhrase

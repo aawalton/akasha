@@ -18,4 +18,6 @@ export const stonefalls39712 = {
       placeKinds: [2],
     },
   ],
+  createdAt: "2026-09-24T23:56:48.879Z",
+  updatedAt: "2026-09-24T23:56:51.000Z",
 } as const satisfies TemperWorldSkyshard

@@ -5,4 +5,6 @@ export const setTargetDialogNoCompanions = {
   type: "page-type/temper-web-phrase",
   slug: "set-target-dialog-no-companions",
   title: "No matching companions found.",
+  createdAt: "2026-09-27T11:35:39.721Z",
+  updatedAt: "2026-09-27T11:35:48.000Z",
 } as const satisfies TemperWebPhrase

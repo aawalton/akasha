@@ -5,4 +5,6 @@ export const inventoryPageContentByType = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-page-content-by-type",
   title: "By Type",
+  createdAt: "2026-09-27T11:34:19.156Z",
+  updatedAt: "2026-09-27T11:34:29.000Z",
 } as const satisfies TemperWebPhrase

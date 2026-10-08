@@ -5,4 +5,6 @@ export const landingSignIn = {
   type: "page-type/temper-web-phrase",
   slug: "landing-sign-in",
   title: "Sign in",
+  createdAt: "2026-09-27T11:37:20.806Z",
+  updatedAt: "2026-09-27T11:37:31.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const targetingBadgesMeters = {
   type: "page-type/temper-web-phrase",
   slug: "targeting-badges-meters",
   title: "{meters}m",
+  createdAt: "2026-09-27T11:47:29.069Z",
+  updatedAt: "2026-09-27T11:47:37.000Z",
 } as const satisfies TemperWebPhrase

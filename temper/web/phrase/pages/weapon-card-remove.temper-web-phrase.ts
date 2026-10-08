@@ -5,4 +5,6 @@ export const weaponCardRemove = {
   type: "page-type/temper-web-phrase",
   slug: "weapon-card-remove",
   title: "Remove {name}",
+  createdAt: "2026-09-27T11:32:02.130Z",
+  updatedAt: "2026-09-27T11:32:13.000Z",
 } as const satisfies TemperWebPhrase

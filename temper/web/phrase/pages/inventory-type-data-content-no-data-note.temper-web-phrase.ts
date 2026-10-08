@@ -6,4 +6,6 @@ export const inventoryTypeDataContentNoDataNote = {
   slug: "inventory-type-data-content-no-data-note",
   title:
     "No inventory has reached this page for your account. Inventory comes from the file the TemperItems add-on writes while you play, and the Watcher syncs that file for you.",
+  createdAt: "2026-09-27T11:39:16.126Z",
+  updatedAt: "2026-09-27T11:39:23.000Z",
 } as const satisfies TemperWebPhrase

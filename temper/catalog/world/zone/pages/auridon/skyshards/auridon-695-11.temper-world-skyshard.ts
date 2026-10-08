@@ -12,4 +12,6 @@ export const auridon69511 = {
     { mapFolder: "auridon", mapTile: "auridon_base", mapX: 0.5811, mapY: 0.8546, placeKinds: [2] },
     { mapFolder: "auridon", mapTile: "delsclaim_base", mapX: 0.316, mapY: 0.219 },
   ],
+  createdAt: "2026-09-25T00:02:52.434Z",
+  updatedAt: "2026-09-25T00:02:55.000Z",
 } as const satisfies TemperWorldSkyshard

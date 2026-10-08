@@ -5,4 +5,6 @@ export const raceSelectDialogSearch = {
   type: "page-type/temper-web-phrase",
   slug: "race-select-dialog-search",
   title: "Search races...",
+  createdAt: "2026-09-27T11:32:50.393Z",
+  updatedAt: "2026-09-27T11:33:01.000Z",
 } as const satisfies TemperWebPhrase

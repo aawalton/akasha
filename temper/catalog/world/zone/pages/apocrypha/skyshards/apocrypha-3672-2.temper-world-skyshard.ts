@@ -11,4 +11,6 @@ export const apocrypha36722 = {
   mapPositions: [
     { mapFolder: "telvanni", mapTile: "u38_telvannipeninsula_base", mapX: 0.317, mapY: 0.364 },
   ],
+  createdAt: "2026-09-25T00:04:56.706Z",
+  updatedAt: "2026-09-25T00:04:59.000Z",
 } as const satisfies TemperWorldSkyshard

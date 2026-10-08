@@ -9,4 +9,6 @@ export const imperialCity11601 = {
   shardNumber: 1,
   worldZone: "temper-world-zone/imperial-city",
   mapPositions: [{ mapFolder: "cyrodiil", mapTile: "imperialcity_base", mapX: 0.611, mapY: 0.637 }],
+  createdAt: "2026-09-25T00:00:53.582Z",
+  updatedAt: "2026-09-25T00:00:56.000Z",
 } as const satisfies TemperWorldSkyshard

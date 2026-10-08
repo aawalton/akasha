@@ -5,4 +5,6 @@ export const inventoryTypeDataContentClearFilters = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-type-data-content-clear-filters",
   title: "Clear filters",
+  createdAt: "2026-09-27T11:39:16.126Z",
+  updatedAt: "2026-09-27T11:39:23.000Z",
 } as const satisfies TemperWebPhrase

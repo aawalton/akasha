@@ -5,4 +5,6 @@ export const statChangesDescriptionPerSecond = {
   type: "page-type/temper-web-phrase",
   slug: "stat-changes-description-per-second",
   title: "{value}/s",
+  createdAt: "2026-09-27T11:48:18.712Z",
+  updatedAt: "2026-09-27T11:48:26.000Z",
 } as const satisfies TemperWebPhrase

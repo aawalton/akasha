@@ -18,4 +18,6 @@ export const murkmire22915 = {
       placeKinds: [2],
     },
   ],
+  createdAt: "2026-09-25T00:00:11.547Z",
+  updatedAt: "2026-09-25T00:00:15.000Z",
 } as const satisfies TemperWorldSkyshard

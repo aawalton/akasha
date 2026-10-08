@@ -18,4 +18,6 @@ export const northernElsweyr246112 = {
       placeKinds: [3],
     },
   ],
+  createdAt: "2026-09-25T00:02:20.667Z",
+  updatedAt: "2026-09-25T00:02:23.000Z",
 } as const satisfies TemperWorldSkyshard

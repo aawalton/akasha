@@ -5,4 +5,6 @@ export const recentCompanionsCardNoBuilds = {
   type: "page-type/temper-web-phrase",
   slug: "recent-companions-card-no-builds",
   title: "No builds yet",
+  createdAt: "2026-09-27T11:27:13.459Z",
+  updatedAt: "2026-09-27T11:31:22.000Z",
 } as const satisfies TemperWebPhrase

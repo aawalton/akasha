@@ -7,4 +7,6 @@ export const inventoryRulesNoInventoryBody = {
   title: "Where inventory comes from",
   description:
     "Inventory comes from the file the TemperItems add-on writes while you play, and the Watcher syncs that file for you. The starter rules below are inactive; enable the ones you want once your inventory arrives.",
+  createdAt: "2026-09-27T11:36:40.359Z",
+  updatedAt: "2026-09-27T11:36:47.000Z",
 } as const satisfies TemperWebPhrase

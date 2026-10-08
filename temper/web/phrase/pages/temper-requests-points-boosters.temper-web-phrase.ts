@@ -5,4 +5,6 @@ export const temperRequestsPointsBoosters = {
   type: "page-type/temper-web-phrase",
   slug: "temper-requests-points-boosters",
   title: "{points} points from {boosters} boosters",
+  createdAt: "2026-09-27T11:36:22.749Z",
+  updatedAt: "2026-09-27T11:36:31.000Z",
 } as const satisfies TemperWebPhrase

@@ -18,4 +18,6 @@ export const malabalTor6841 = {
     },
     { mapFolder: "malabaltor", mapTile: "velynharbor_base", mapX: 0.79, mapY: 0.45 },
   ],
+  createdAt: "2026-09-25T00:04:45.174Z",
+  updatedAt: "2026-09-25T00:04:48.000Z",
 } as const satisfies TemperWorldSkyshard

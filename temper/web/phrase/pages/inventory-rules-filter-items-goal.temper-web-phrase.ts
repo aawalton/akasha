@@ -5,4 +5,6 @@ export const inventoryRulesFilterItemsGoal = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-rules-filter-items-goal",
   title: "Goal",
+  createdAt: "2026-09-27T11:40:05.330Z",
+  updatedAt: "2026-09-27T11:40:13.000Z",
 } as const satisfies TemperWebPhrase

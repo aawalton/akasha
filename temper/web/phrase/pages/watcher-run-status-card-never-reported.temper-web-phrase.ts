@@ -7,4 +7,6 @@ export const watcherRunStatusCardNeverReported = {
   title: "The Watcher has not reported a sync run",
   description:
     "Temper has no account of what the Watcher tried, so it cannot say whether anything is working. A Watcher reports after it does its first work, so if you have just linked, this is expected — reload this page in a few minutes. If it still says this later, the Watcher is not running on your computer, whatever the link told you.",
+  createdAt: "2026-09-27T11:40:22.896Z",
+  updatedAt: "2026-09-27T11:40:30.000Z",
 } as const satisfies TemperWebPhrase

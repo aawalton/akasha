@@ -24,4 +24,6 @@ export const apocrypha36727 = {
       placeKinds: [4],
     },
   ],
+  createdAt: "2026-09-25T00:04:56.707Z",
+  updatedAt: "2026-09-25T00:04:59.000Z",
 } as const satisfies TemperWorldSkyshard

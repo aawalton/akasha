@@ -11,4 +11,6 @@ export const coldharbour6868 = {
   mapPositions: [
     { mapFolder: "coldharbor", mapTile: "coldharbour_base", mapX: 0.4454, mapY: 0.4147 },
   ],
+  createdAt: "2026-09-24T23:58:22.626Z",
+  updatedAt: "2026-09-24T23:58:26.000Z",
 } as const satisfies TemperWorldSkyshard

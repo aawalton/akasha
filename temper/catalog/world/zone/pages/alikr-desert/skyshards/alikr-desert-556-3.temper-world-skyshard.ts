@@ -9,4 +9,6 @@ export const alikrDesert5563 = {
   shardNumber: 3,
   worldZone: "temper-world-zone/alikr-desert",
   mapPositions: [{ mapFolder: "alikr", mapTile: "alikr_base", mapX: 0.2314, mapY: 0.7011 }],
+  createdAt: "2026-09-24T23:57:06.717Z",
+  updatedAt: "2026-09-24T23:57:10.000Z",
 } as const satisfies TemperWorldSkyshard

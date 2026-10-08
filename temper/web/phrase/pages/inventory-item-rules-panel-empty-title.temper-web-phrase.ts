@@ -5,4 +5,6 @@ export const inventoryItemRulesPanelEmptyTitle = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-item-rules-panel-empty-title",
   title: "No item rules yet",
+  createdAt: "2026-09-27T11:36:27.454Z",
+  updatedAt: "2026-09-27T11:36:34.000Z",
 } as const satisfies TemperWebPhrase

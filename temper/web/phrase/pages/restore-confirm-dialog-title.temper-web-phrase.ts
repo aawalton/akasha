@@ -5,4 +5,6 @@ export const restoreConfirmDialogTitle = {
   type: "page-type/temper-web-phrase",
   slug: "restore-confirm-dialog-title",
   title: "Restore Version?",
+  createdAt: "2026-09-27T11:35:39.721Z",
+  updatedAt: "2026-09-27T11:35:48.000Z",
 } as const satisfies TemperWebPhrase

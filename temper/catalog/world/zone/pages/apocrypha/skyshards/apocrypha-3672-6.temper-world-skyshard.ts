@@ -11,4 +11,6 @@ export const apocrypha36726 = {
   mapPositions: [
     { mapFolder: "apocrypha", mapTile: "u38_apocrypha_base", mapX: 0.893, mapY: 0.566 },
   ],
+  createdAt: "2026-09-25T00:04:56.706Z",
+  updatedAt: "2026-09-25T00:04:59.000Z",
 } as const satisfies TemperWorldSkyshard

@@ -18,4 +18,6 @@ export const reapersMarch68511 = {
     },
     { mapFolder: "reapersmarch", mapTile: "thibautscairn_base", mapX: 0.778, mapY: 0.666 },
   ],
+  createdAt: "2026-09-24T23:56:57.898Z",
+  updatedAt: "2026-09-24T23:57:01.000Z",
 } as const satisfies TemperWorldSkyshard

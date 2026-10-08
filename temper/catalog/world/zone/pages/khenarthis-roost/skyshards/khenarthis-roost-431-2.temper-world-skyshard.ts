@@ -9,4 +9,6 @@ export const khenarthisRoost4312 = {
   shardNumber: 2,
   worldZone: "temper-world-zone/khenarthis-roost",
   mapPositions: [{ mapFolder: "auridon", mapTile: "khenarthisroost_base", mapX: 0.537, mapY: 0.7 }],
+  createdAt: "2026-09-24T23:59:24.078Z",
+  updatedAt: "2026-09-24T23:59:27.000Z",
 } as const satisfies TemperWorldSkyshard

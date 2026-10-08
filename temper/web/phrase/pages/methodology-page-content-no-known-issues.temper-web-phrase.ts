@@ -7,4 +7,6 @@ export const methodologyPageContentNoKnownIssues = {
   title: "Temper does not publish a known-issues list yet",
   description:
     'This tab is empty because nothing has been written into it, not because Temper checked and found nothing. Read the blank list as "not published here" rather than "nothing is wrong."',
+  createdAt: "2026-09-27T11:31:15.521Z",
+  updatedAt: "2026-09-27T11:31:25.000Z",
 } as const satisfies TemperWebPhrase

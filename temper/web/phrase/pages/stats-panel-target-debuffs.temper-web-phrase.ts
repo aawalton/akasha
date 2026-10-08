@@ -5,4 +5,6 @@ export const statsPanelTargetDebuffs = {
   type: "page-type/temper-web-phrase",
   slug: "stats-panel-target-debuffs",
   title: "Target Debuffs",
+  createdAt: "2026-09-27T11:45:11.021Z",
+  updatedAt: "2026-09-27T11:45:20.000Z",
 } as const satisfies TemperWebPhrase

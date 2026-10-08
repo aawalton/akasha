@@ -5,4 +5,6 @@ export const useCompanionsCreateFailed = {
   type: "page-type/temper-web-phrase",
   slug: "use-companions-create-failed",
   title: "Failed to create companion",
+  createdAt: "2026-09-27T11:32:33.693Z",
+  updatedAt: "2026-09-27T11:32:42.000Z",
 } as const satisfies TemperWebPhrase

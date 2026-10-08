@@ -5,4 +5,6 @@ export const temperRequestsHeading = {
   type: "page-type/temper-web-phrase",
   slug: "temper-requests-heading",
   title: "Feature requests",
+  createdAt: "2026-09-27T11:36:22.749Z",
+  updatedAt: "2026-09-27T11:36:31.000Z",
 } as const satisfies TemperWebPhrase

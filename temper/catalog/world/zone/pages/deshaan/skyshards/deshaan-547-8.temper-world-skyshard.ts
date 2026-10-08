@@ -9,4 +9,6 @@ export const deshaan5478 = {
   shardNumber: 8,
   worldZone: "temper-world-zone/deshaan",
   mapPositions: [{ mapFolder: "deshaan", mapTile: "deshaan_base", mapX: 0.8044, mapY: 0.4728 }],
+  createdAt: "2026-09-25T00:02:05.028Z",
+  updatedAt: "2026-09-25T00:02:08.000Z",
 } as const satisfies TemperWorldSkyshard

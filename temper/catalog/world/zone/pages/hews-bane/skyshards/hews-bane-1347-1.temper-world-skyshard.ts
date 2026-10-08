@@ -24,4 +24,6 @@ export const hewsBane13471 = {
       placeKinds: [1],
     },
   ],
+  createdAt: "2026-09-25T00:04:01.374Z",
+  updatedAt: "2026-09-25T00:04:04.000Z",
 } as const satisfies TemperWorldSkyshard

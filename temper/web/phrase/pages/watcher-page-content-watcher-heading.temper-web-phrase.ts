@@ -5,4 +5,6 @@ export const watcherPageContentWatcherHeading = {
   type: "page-type/temper-web-phrase",
   slug: "watcher-page-content-watcher-heading",
   title: "Then install the Watcher",
+  createdAt: "2026-09-27T11:48:55.693Z",
+  updatedAt: "2026-09-27T11:49:02.000Z",
 } as const satisfies TemperWebPhrase

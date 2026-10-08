@@ -5,4 +5,6 @@ export const watcherRunStatusCardFilesMissingMany = {
   type: "page-type/temper-web-phrase",
   slug: "watcher-run-status-card-files-missing-many",
   title: "The Watcher could not find {count} files it reads{ago}",
+  createdAt: "2026-09-27T11:40:22.896Z",
+  updatedAt: "2026-09-27T11:40:30.000Z",
 } as const satisfies TemperWebPhrase

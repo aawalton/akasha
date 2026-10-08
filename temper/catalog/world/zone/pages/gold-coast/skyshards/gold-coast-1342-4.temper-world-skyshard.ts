@@ -11,4 +11,6 @@ export const goldCoast13424 = {
   mapPositions: [
     { mapFolder: "darkbrotherhood", mapTile: "goldcoast_base", mapX: 0.8791, mapY: 0.604 },
   ],
+  createdAt: "2026-09-25T00:03:13.859Z",
+  updatedAt: "2026-09-25T00:03:16.000Z",
 } as const satisfies TemperWorldSkyshard

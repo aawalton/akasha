@@ -12,4 +12,6 @@ export const northernElsweyr24614 = {
     { mapFolder: "elsweyr", mapTile: "elsweyr_base", mapX: 0.7325, mapY: 0.2588 },
     { mapFolder: "elsweyr", mapTile: "rimmen_base", mapX: 0.0475, mapY: 0.2967, placeKinds: [1] },
   ],
+  createdAt: "2026-09-25T00:02:20.667Z",
+  updatedAt: "2026-09-25T00:02:23.000Z",
 } as const satisfies TemperWorldSkyshard

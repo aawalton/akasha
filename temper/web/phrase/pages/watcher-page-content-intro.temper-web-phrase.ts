@@ -6,4 +6,6 @@ export const watcherPageContentIntro = {
   slug: "watcher-page-content-intro",
   title:
     "The Temper Watcher keeps Temper in sync with your game — your characters, companions, inventory, and completion upload themselves in the background, so you never have to export a file by hand.",
+  createdAt: "2026-09-27T11:48:55.692Z",
+  updatedAt: "2026-09-27T11:49:02.000Z",
 } as const satisfies TemperWebPhrase

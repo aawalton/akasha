@@ -9,4 +9,6 @@ export const glenumbra4093 = {
   shardNumber: 3,
   worldZone: "temper-world-zone/glenumbra",
   mapPositions: [{ mapFolder: "glenumbra", mapTile: "glenumbra_base", mapX: 0.274, mapY: 0.628 }],
+  createdAt: "2026-09-24T23:58:41.328Z",
+  updatedAt: "2026-09-24T23:58:45.000Z",
 } as const satisfies TemperWorldSkyshard

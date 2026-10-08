@@ -5,4 +5,6 @@ export const versionHistoryDialogVersionsUnread = {
   type: "page-type/temper-web-phrase",
   slug: "version-history-dialog-versions-unread",
   title: "Failed to load versions. Try again.",
+  createdAt: "2026-09-27T12:48:42.363Z",
+  updatedAt: "2026-09-27T12:48:49.000Z",
 } as const satisfies TemperWebPhrase

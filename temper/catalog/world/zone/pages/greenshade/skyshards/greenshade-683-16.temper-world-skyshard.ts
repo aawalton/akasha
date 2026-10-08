@@ -18,4 +18,6 @@ export const greenshade68316 = {
     },
     { mapFolder: "greenshade", mapTile: "rulanyilsfall_base", mapX: 0.681, mapY: 0.415 },
   ],
+  createdAt: "2026-09-25T00:01:42.156Z",
+  updatedAt: "2026-09-25T00:01:45.000Z",
 } as const satisfies TemperWorldSkyshard

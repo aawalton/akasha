@@ -5,4 +5,6 @@ export const ruleBulkActionBadgeDeleteBodyMany = {
   type: "page-type/temper-web-phrase",
   slug: "rule-bulk-action-badge-delete-body-many",
   title: "This will permanently delete {count} {status} rules. This action cannot be undone.",
+  createdAt: "2026-09-27T11:38:36.478Z",
+  updatedAt: "2026-09-27T11:38:45.000Z",
 } as const satisfies TemperWebPhrase

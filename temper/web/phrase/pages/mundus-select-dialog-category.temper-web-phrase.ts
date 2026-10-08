@@ -5,4 +5,6 @@ export const mundusSelectDialogCategory = {
   type: "page-type/temper-web-phrase",
   slug: "mundus-select-dialog-category",
   title: "Mundus Stones",
+  createdAt: "2026-09-27T11:30:38.077Z",
+  updatedAt: "2026-09-27T11:30:47.000Z",
 } as const satisfies TemperWebPhrase

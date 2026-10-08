@@ -5,4 +5,6 @@ export const useShoppingOptimizerUnreadable = {
   type: "page-type/temper-web-phrase",
   slug: "use-shopping-optimizer-unreadable",
   title: "Search finished but the result could not be read — try again",
+  createdAt: "2026-09-27T11:40:25.980Z",
+  updatedAt: "2026-09-27T11:40:34.000Z",
 } as const satisfies TemperWebPhrase

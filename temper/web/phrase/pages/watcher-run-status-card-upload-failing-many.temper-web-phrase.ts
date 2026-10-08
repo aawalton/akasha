@@ -5,4 +5,6 @@ export const watcherRunStatusCardUploadFailingMany = {
   type: "page-type/temper-web-phrase",
   slug: "watcher-run-status-card-upload-failing-many",
   title: "The Watcher could not deliver {count} uploads{ago}",
+  createdAt: "2026-09-27T11:40:22.896Z",
+  updatedAt: "2026-09-27T11:40:30.000Z",
 } as const satisfies TemperWebPhrase

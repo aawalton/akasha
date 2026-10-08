@@ -9,4 +9,6 @@ export const blackwood29824 = {
   shardNumber: 4,
   worldZone: "temper-world-zone/blackwood",
   mapPositions: [{ mapFolder: "blackwood", mapTile: "blackwood_base", mapX: 0.3023, mapY: 0.2263 }],
+  createdAt: "2026-09-25T00:06:49.130Z",
+  updatedAt: "2026-09-25T00:06:52.000Z",
 } as const satisfies TemperWorldSkyshard

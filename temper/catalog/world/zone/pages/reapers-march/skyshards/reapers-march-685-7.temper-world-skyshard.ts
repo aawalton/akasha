@@ -18,4 +18,6 @@ export const reapersMarch6857 = {
       placeKinds: [1],
     },
   ],
+  createdAt: "2026-09-24T23:56:57.899Z",
+  updatedAt: "2026-09-24T23:57:01.000Z",
 } as const satisfies TemperWorldSkyshard

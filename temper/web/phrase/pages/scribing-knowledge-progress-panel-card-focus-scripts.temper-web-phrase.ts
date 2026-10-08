@@ -5,4 +5,6 @@ export const scribingKnowledgeProgressPanelCardFocusScripts = {
   type: "page-type/temper-web-phrase",
   slug: "scribing-knowledge-progress-panel-card-focus-scripts",
   title: "Focus Scripts",
+  createdAt: "2026-09-27T11:33:30.812Z",
+  updatedAt: "2026-09-27T11:33:40.000Z",
 } as const satisfies TemperWebPhrase

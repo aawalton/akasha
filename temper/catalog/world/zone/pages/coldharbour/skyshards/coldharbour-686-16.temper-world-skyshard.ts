@@ -18,4 +18,6 @@ export const coldharbour68616 = {
     },
     { mapFolder: "coldharbor", mapTile: "villageofthelost_base", mapX: 0.3271, mapY: 0.5004 },
   ],
+  createdAt: "2026-09-24T23:58:22.625Z",
+  updatedAt: "2026-09-24T23:58:26.000Z",
 } as const satisfies TemperWorldSkyshard

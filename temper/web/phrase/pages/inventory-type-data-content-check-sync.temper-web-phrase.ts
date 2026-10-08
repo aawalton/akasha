@@ -5,4 +5,6 @@ export const inventoryTypeDataContentCheckSync = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-type-data-content-check-sync",
   title: "Check sync status",
+  createdAt: "2026-09-27T11:39:16.126Z",
+  updatedAt: "2026-09-27T11:39:23.000Z",
 } as const satisfies TemperWebPhrase

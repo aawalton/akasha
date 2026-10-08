@@ -7,4 +7,6 @@ export const watcherRunStatusCardFilesMissing = {
   title: "Why files the Watcher reads can be missing",
   description:
     "It found nothing to read for {failing}. That is what an add-on that is not installed, is not ticked on in game, or was extracted into the wrong Documents folder looks like from here — if your Documents folder syncs to OneDrive, the real add-ons folder is the one under OneDrive. Nothing from {failing} can sync until those files exist.{recorded}",
+  createdAt: "2026-09-27T11:40:22.896Z",
+  updatedAt: "2026-09-27T11:40:30.000Z",
 } as const satisfies TemperWebPhrase

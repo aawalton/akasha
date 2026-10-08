@@ -7,4 +7,6 @@ export const watcherSyncStatusCardNoCapture = {
   title: "Watcher last reached Temper{contactAgo}",
   description:
     "The Watcher is linked and reaching Temper, but no inventory has arrived, so Temper cannot say how old your game data is. The times below are when each source last reached Temper — not when the game recorded it.",
+  createdAt: "2026-09-27T11:43:14.151Z",
+  updatedAt: "2026-09-27T11:43:22.000Z",
 } as const satisfies TemperWebPhrase

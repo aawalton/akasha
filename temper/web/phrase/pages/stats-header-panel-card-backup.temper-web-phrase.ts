@@ -5,4 +5,6 @@ export const statsHeaderPanelCardBackup = {
   type: "page-type/temper-web-phrase",
   slug: "stats-header-panel-card-backup",
   title: "Backup",
+  createdAt: "2026-09-27T11:45:11.021Z",
+  updatedAt: "2026-09-27T11:45:20.000Z",
 } as const satisfies TemperWebPhrase

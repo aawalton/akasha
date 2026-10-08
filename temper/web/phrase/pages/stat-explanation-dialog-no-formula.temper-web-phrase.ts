@@ -5,4 +5,6 @@ export const statExplanationDialogNoFormula = {
   type: "page-type/temper-web-phrase",
   slug: "stat-explanation-dialog-no-formula",
   title: "{value} (no formula)",
+  createdAt: "2026-09-27T11:45:11.021Z",
+  updatedAt: "2026-09-27T11:45:20.000Z",
 } as const satisfies TemperWebPhrase

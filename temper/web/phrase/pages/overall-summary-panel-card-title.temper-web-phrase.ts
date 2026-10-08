@@ -5,4 +5,6 @@ export const overallSummaryPanelCardTitle = {
   type: "page-type/temper-web-phrase",
   slug: "overall-summary-panel-card-title",
   title: "Overall",
+  createdAt: "2026-09-27T11:30:43.175Z",
+  updatedAt: "2026-09-27T11:30:53.000Z",
 } as const satisfies TemperWebPhrase

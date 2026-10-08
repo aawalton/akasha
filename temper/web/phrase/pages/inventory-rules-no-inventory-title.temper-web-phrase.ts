@@ -5,4 +5,6 @@ export const inventoryRulesNoInventoryTitle = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-rules-no-inventory-title",
   title: "No inventory has reached this page",
+  createdAt: "2026-09-27T11:36:40.359Z",
+  updatedAt: "2026-09-27T11:36:47.000Z",
 } as const satisfies TemperWebPhrase

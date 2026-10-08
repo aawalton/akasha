@@ -9,4 +9,6 @@ export const bangkorai5579 = {
   shardNumber: 9,
   worldZone: "temper-world-zone/bangkorai",
   mapPositions: [{ mapFolder: "bangkorai", mapTile: "bangkorai_base", mapX: 0.63, mapY: 0.725 }],
+  createdAt: "2026-09-24T23:58:33.379Z",
+  updatedAt: "2026-09-24T23:58:36.000Z",
 } as const satisfies TemperWorldSkyshard

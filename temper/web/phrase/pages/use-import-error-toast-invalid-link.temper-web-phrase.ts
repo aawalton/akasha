@@ -5,4 +5,6 @@ export const useImportErrorToastInvalidLink = {
   type: "page-type/temper-web-phrase",
   slug: "use-import-error-toast-invalid-link",
   title: "This build link is invalid or uses an unsupported format.",
+  createdAt: "2026-09-27T11:43:23.298Z",
+  updatedAt: "2026-09-27T11:43:32.000Z",
 } as const satisfies TemperWebPhrase

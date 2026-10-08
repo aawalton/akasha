@@ -18,4 +18,6 @@ export const coldharbour68613 = {
     },
     { mapFolder: "coldharbor", mapTile: "malsorrastomb_base", mapX: 0.3663, mapY: 0.4108 },
   ],
+  createdAt: "2026-09-24T23:58:22.625Z",
+  updatedAt: "2026-09-24T23:58:26.000Z",
 } as const satisfies TemperWorldSkyshard

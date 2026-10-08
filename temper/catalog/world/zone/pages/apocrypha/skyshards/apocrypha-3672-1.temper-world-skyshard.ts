@@ -16,4 +16,6 @@ export const apocrypha36721 = {
       mapY: 0.3625525832,
     },
   ],
+  createdAt: "2026-09-25T00:04:56.706Z",
+  updatedAt: "2026-09-25T00:04:59.000Z",
 } as const satisfies TemperWorldSkyshard

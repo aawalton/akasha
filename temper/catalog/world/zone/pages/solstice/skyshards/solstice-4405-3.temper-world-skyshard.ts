@@ -24,4 +24,6 @@ export const solstice44053 = {
       placeKinds: [2],
     },
   ],
+  createdAt: "2026-09-25T00:10:00.014Z",
+  updatedAt: "2026-09-25T00:10:03.000Z",
 } as const satisfies TemperWorldSkyshard

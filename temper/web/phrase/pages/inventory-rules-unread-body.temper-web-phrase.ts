@@ -7,4 +7,6 @@ export const inventoryRulesUnreadBody = {
   title: "Nothing has been changed or saved",
   description:
     "Nothing has been changed and nothing has been saved. The rules already compiled into the game are the ones still running. This page stays shut until the rule below is mended, because showing the rest without it would leave out a rule you wrote.",
+  createdAt: "2026-09-27T11:33:02.977Z",
+  updatedAt: "2026-09-27T11:33:15.000Z",
 } as const satisfies TemperWebPhrase

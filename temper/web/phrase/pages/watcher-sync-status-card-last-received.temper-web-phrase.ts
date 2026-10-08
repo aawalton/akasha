@@ -5,4 +5,6 @@ export const watcherSyncStatusCardLastReceived = {
   type: "page-type/temper-web-phrase",
   slug: "watcher-sync-status-card-last-received",
   title: "last received{ago}",
+  createdAt: "2026-09-27T11:43:14.151Z",
+  updatedAt: "2026-09-27T11:43:22.000Z",
 } as const satisfies TemperWebPhrase

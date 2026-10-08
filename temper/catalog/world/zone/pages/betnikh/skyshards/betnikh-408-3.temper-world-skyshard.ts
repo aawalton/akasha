@@ -9,4 +9,6 @@ export const betnikh4083 = {
   shardNumber: 3,
   worldZone: "temper-world-zone/betnikh",
   mapPositions: [{ mapFolder: "glenumbra", mapTile: "betnihk_base", mapX: 0.37, mapY: 0.595 }],
+  createdAt: "2026-09-24T23:57:16.462Z",
+  updatedAt: "2026-09-24T23:57:20.000Z",
 } as const satisfies TemperWorldSkyshard

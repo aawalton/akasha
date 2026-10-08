@@ -18,4 +18,6 @@ export const bangkorai55710 = {
     },
     { mapFolder: "bangkorai", mapTile: "cryptoftheexiles_base", mapX: 0.678, mapY: 0.342 },
   ],
+  createdAt: "2026-09-24T23:58:33.378Z",
+  updatedAt: "2026-09-24T23:58:36.000Z",
 } as const satisfies TemperWorldSkyshard

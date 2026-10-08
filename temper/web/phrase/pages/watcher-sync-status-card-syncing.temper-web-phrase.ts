@@ -7,4 +7,6 @@ export const watcherSyncStatusCardSyncing = {
   title: "Game data captured{capturedAgo}",
   description:
     "The Watcher is linked, and the newest game data it sent was captured at the time above. If that capture time stops advancing while you play, what reaches Temper has stopped.",
+  createdAt: "2026-09-27T11:43:14.151Z",
+  updatedAt: "2026-09-27T11:43:22.000Z",
 } as const satisfies TemperWebPhrase

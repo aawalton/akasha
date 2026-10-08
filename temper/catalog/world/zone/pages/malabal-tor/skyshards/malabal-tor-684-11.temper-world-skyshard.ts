@@ -18,4 +18,6 @@ export const malabalTor68411 = {
       placeKinds: [2],
     },
   ],
+  createdAt: "2026-09-25T00:04:45.174Z",
+  updatedAt: "2026-09-25T00:04:48.000Z",
 } as const satisfies TemperWorldSkyshard

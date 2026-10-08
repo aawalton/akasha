@@ -5,4 +5,6 @@ export const passiveSkillsPanelCardNoMatch = {
   type: "page-type/temper-web-phrase",
   slug: "passive-skills-panel-card-no-match",
   title: "No passives match your search.",
+  createdAt: "2026-09-27T11:31:16.989Z",
+  updatedAt: "2026-09-27T11:31:26.000Z",
 } as const satisfies TemperWebPhrase

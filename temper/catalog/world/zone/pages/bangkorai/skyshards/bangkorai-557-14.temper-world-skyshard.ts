@@ -18,4 +18,6 @@ export const bangkorai55714 = {
     },
     { mapFolder: "bangkorai", mapTile: "trollstoothpick_base", mapX: 0.656, mapY: 0.334 },
   ],
+  createdAt: "2026-09-24T23:58:33.379Z",
+  updatedAt: "2026-09-24T23:58:36.000Z",
 } as const satisfies TemperWorldSkyshard

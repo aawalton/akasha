@@ -5,4 +5,6 @@ export const rootDocumentDescription = {
   type: "page-type/temper-web-phrase",
   slug: "root-document-description",
   title: "The Elder Scrolls Online Build Planner",
+  createdAt: "2026-09-27T11:39:32.357Z",
+  updatedAt: "2026-09-27T11:39:40.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const watcherDocumentTitle = {
   type: "page-type/temper-web-phrase",
   slug: "watcher-document-title",
   title: "Temper | Watcher",
+  createdAt: "2026-09-27T11:34:29.718Z",
+  updatedAt: "2026-09-27T11:34:38.000Z",
 } as const satisfies TemperWebPhrase

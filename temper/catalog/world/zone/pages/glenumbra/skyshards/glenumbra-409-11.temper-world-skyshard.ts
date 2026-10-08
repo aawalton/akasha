@@ -18,4 +18,6 @@ export const glenumbra40911 = {
     },
     { mapFolder: "glenumbra", mapTile: "silumm_base", mapX: 0.256, mapY: 0.213 },
   ],
+  createdAt: "2026-09-24T23:58:41.327Z",
+  updatedAt: "2026-09-24T23:58:45.000Z",
 } as const satisfies TemperWorldSkyshard

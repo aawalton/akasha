@@ -18,4 +18,6 @@ export const glenumbra4091 = {
       placeKinds: [1],
     },
   ],
+  createdAt: "2026-09-24T23:58:41.327Z",
+  updatedAt: "2026-09-24T23:58:45.000Z",
 } as const satisfies TemperWorldSkyshard

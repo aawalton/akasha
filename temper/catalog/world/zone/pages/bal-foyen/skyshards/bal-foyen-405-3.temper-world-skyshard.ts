@@ -9,4 +9,6 @@ export const balFoyen4053 = {
   shardNumber: 3,
   worldZone: "temper-world-zone/bal-foyen",
   mapPositions: [{ mapFolder: "stonefalls", mapTile: "balfoyen_base", mapX: 0.3775, mapY: 0.316 }],
+  createdAt: "2026-09-24T23:56:09.067Z",
+  updatedAt: "2026-09-24T23:56:12.000Z",
 } as const satisfies TemperWorldSkyshard

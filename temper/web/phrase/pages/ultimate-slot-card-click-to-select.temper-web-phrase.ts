@@ -5,4 +5,6 @@ export const ultimateSlotCardClickToSelect = {
   type: "page-type/temper-web-phrase",
   slug: "ultimate-slot-card-click-to-select",
   title: "Click to select an ultimate",
+  createdAt: "2026-09-27T11:42:00.999Z",
+  updatedAt: "2026-09-27T11:42:08.000Z",
 } as const satisfies TemperWebPhrase

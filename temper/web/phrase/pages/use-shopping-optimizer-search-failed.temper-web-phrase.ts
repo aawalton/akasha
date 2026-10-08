@@ -5,4 +5,6 @@ export const useShoppingOptimizerSearchFailed = {
   type: "page-type/temper-web-phrase",
   slug: "use-shopping-optimizer-search-failed",
   title: "Search failed — try again",
+  createdAt: "2026-09-27T11:53:40.923Z",
+  updatedAt: "2026-09-27T11:53:48.000Z",
 } as const satisfies TemperWebPhrase

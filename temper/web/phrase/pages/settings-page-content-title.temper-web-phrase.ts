@@ -5,4 +5,6 @@ export const settingsPageContentTitle = {
   type: "page-type/temper-web-phrase",
   slug: "settings-page-content-title",
   title: "Settings",
+  createdAt: "2026-09-27T11:43:23.298Z",
+  updatedAt: "2026-09-27T11:43:32.000Z",
 } as const satisfies TemperWebPhrase

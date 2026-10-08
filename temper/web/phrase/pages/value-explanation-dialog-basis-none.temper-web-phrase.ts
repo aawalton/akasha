@@ -5,4 +5,6 @@ export const valueExplanationDialogBasisNone = {
   type: "page-type/temper-web-phrase",
   slug: "value-explanation-dialog-basis-none",
   title: "No market price for this item — Temper has no Tamriel Trade Centre data for it.",
+  createdAt: "2026-09-27T11:40:02.658Z",
+  updatedAt: "2026-09-27T11:40:11.000Z",
 } as const satisfies TemperWebPhrase

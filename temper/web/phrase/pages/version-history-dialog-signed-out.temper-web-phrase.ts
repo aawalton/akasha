@@ -5,4 +5,6 @@ export const versionHistoryDialogSignedOut = {
   type: "page-type/temper-web-phrase",
   slug: "version-history-dialog-signed-out",
   title: "Sign in to see and save versions of this build",
+  createdAt: "2026-09-27T12:48:42.363Z",
+  updatedAt: "2026-09-27T12:48:49.000Z",
 } as const satisfies TemperWebPhrase

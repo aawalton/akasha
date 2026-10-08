@@ -5,4 +5,6 @@ export const shoppingAbandonTripDialogTitle = {
   type: "page-type/temper-web-phrase",
   slug: "shopping-abandon-trip-dialog-title",
   title: "Abandon shopping trip?",
+  createdAt: "2026-09-27T11:38:40.450Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies TemperWebPhrase

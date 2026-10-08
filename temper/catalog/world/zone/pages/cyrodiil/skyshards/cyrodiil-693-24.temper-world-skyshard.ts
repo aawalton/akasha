@@ -9,4 +9,6 @@ export const cyrodiil69324 = {
   shardNumber: 24,
   worldZone: "temper-world-zone/cyrodiil",
   mapPositions: [{ mapFolder: "cyrodiil", mapTile: "ava_whole", mapX: 0.535, mapY: 0.224 }],
+  createdAt: "2026-09-25T00:01:14.164Z",
+  updatedAt: "2026-09-25T00:01:34.000Z",
 } as const satisfies TemperWorldSkyshard

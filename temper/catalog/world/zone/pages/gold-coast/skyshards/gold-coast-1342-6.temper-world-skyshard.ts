@@ -24,4 +24,6 @@ export const goldCoast13426 = {
       placeKinds: [2],
     },
   ],
+  createdAt: "2026-09-25T00:03:13.859Z",
+  updatedAt: "2026-09-25T00:03:16.000Z",
 } as const satisfies TemperWorldSkyshard

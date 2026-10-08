@@ -5,4 +5,6 @@ export const useSetTargetEntitiesUnknown = {
   type: "page-type/temper-web-phrase",
   slug: "use-set-target-entities-unknown",
   title: "Unknown",
+  createdAt: "2026-09-27T11:33:11.780Z",
+  updatedAt: "2026-09-27T11:33:21.000Z",
 } as const satisfies TemperWebPhrase

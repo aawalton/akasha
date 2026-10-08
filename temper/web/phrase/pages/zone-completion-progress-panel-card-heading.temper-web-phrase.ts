@@ -5,4 +5,6 @@ export const zoneCompletionProgressPanelCardHeading = {
   type: "page-type/temper-web-phrase",
   slug: "zone-completion-progress-panel-card-heading",
   title: "Zone Completion",
+  createdAt: "2026-09-27T11:30:55.891Z",
+  updatedAt: "2026-09-27T11:31:08.000Z",
 } as const satisfies TemperWebPhrase

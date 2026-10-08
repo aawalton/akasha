@@ -18,4 +18,6 @@ export const grahtwood6821 = {
     },
     { mapFolder: "grahtwood", mapTile: "haven_base", mapX: 0.384, mapY: 0.249 },
   ],
+  createdAt: "2026-09-24T23:59:52.274Z",
+  updatedAt: "2026-09-24T23:59:55.000Z",
 } as const satisfies TemperWorldSkyshard

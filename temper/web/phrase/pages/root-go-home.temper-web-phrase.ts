@@ -5,4 +5,6 @@ export const rootGoHome = {
   type: "page-type/temper-web-phrase",
   slug: "root-go-home",
   title: "Go to Home",
+  createdAt: "2026-09-27T11:39:32.358Z",
+  updatedAt: "2026-09-27T11:39:40.000Z",
 } as const satisfies TemperWebPhrase

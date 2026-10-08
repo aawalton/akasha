@@ -6,4 +6,6 @@ export const notificationsTabConfirmActionsAbout = {
   slug: "notifications-tab-confirm-actions-about",
   title:
     "Show an in-game confirmation dialog before the addon automatically executes these actions.",
+  createdAt: "2026-09-27T11:32:06.661Z",
+  updatedAt: "2026-09-27T11:32:18.000Z",
 } as const satisfies TemperWebPhrase

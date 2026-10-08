@@ -18,4 +18,6 @@ export const greenshade68313 = {
     },
     { mapFolder: "greenshade", mapTile: "theunderroot_base", mapX: 0.47, mapY: 0.24 },
   ],
+  createdAt: "2026-09-25T00:01:42.156Z",
+  updatedAt: "2026-09-25T00:01:45.000Z",
 } as const satisfies TemperWorldSkyshard

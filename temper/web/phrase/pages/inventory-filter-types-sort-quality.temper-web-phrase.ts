@@ -5,4 +5,6 @@ export const inventoryFilterTypesSortQuality = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-filter-types-sort-quality",
   title: "Quality",
+  createdAt: "2026-09-27T11:43:01.981Z",
+  updatedAt: "2026-09-27T11:43:09.000Z",
 } as const satisfies TemperWebPhrase

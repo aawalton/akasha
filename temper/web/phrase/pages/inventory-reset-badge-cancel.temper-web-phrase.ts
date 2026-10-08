@@ -5,4 +5,6 @@ export const inventoryResetBadgeCancel = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-reset-badge-cancel",
   title: "Cancel",
+  createdAt: "2026-09-27T11:35:33.454Z",
+  updatedAt: "2026-09-27T11:35:41.000Z",
 } as const satisfies TemperWebPhrase

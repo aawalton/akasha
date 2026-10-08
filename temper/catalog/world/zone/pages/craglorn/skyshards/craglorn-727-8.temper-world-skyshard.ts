@@ -12,4 +12,6 @@ export const craglorn7278 = {
     { mapFolder: "craglorn", mapTile: "craglorn_base", mapX: 0.2149, mapY: 0.575, placeKinds: [5] },
     { mapFolder: "craglorn", mapTile: "mtharnaz_base", mapX: 0.884, mapY: 0.625 },
   ],
+  createdAt: "2026-09-25T00:05:54.240Z",
+  updatedAt: "2026-09-25T00:05:57.000Z",
 } as const satisfies TemperWorldSkyshard

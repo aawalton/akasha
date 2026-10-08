@@ -9,4 +9,6 @@ export const murkmire22914 = {
   shardNumber: 4,
   worldZone: "temper-world-zone/murkmire",
   mapPositions: [{ mapFolder: "murkmire", mapTile: "murkmire_base", mapX: 0.1919, mapY: 0.278 }],
+  createdAt: "2026-09-25T00:00:11.547Z",
+  updatedAt: "2026-09-25T00:00:15.000Z",
 } as const satisfies TemperWorldSkyshard

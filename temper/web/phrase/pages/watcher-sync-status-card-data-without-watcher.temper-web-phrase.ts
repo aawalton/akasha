@@ -7,4 +7,6 @@ export const watcherSyncStatusCardDataWithoutWatcher = {
   title: "Last imported by hand{contactAgo}",
   description:
     "Temper has your data, but no Watcher is linked to this account, so nothing updates on its own.{dataDate} Import again whenever you want Temper to see fresh data.",
+  createdAt: "2026-09-27T11:43:14.151Z",
+  updatedAt: "2026-09-27T11:43:22.000Z",
 } as const satisfies TemperWebPhrase

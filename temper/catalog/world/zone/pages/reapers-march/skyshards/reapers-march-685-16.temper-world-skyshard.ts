@@ -19,4 +19,6 @@ export const reapersMarch68516 = {
     { mapFolder: "reapersmarch", mapTile: "thevilemansefirstfloor_base", mapX: 0.4, mapY: 0.42 },
     { mapFolder: "reapersmarch", mapTile: "thevilemansesecondfloor_base", mapX: 0.65, mapY: 0.33 },
   ],
+  createdAt: "2026-09-24T23:56:57.899Z",
+  updatedAt: "2026-09-24T23:57:01.000Z",
 } as const satisfies TemperWorldSkyshard

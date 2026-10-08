@@ -6,4 +6,6 @@ export const watcherPageContentStepCheck = {
   slug: "watcher-page-content-step-check",
   title:
     "Come back to this page and check the status at the top. It tells you whether your data actually reached Temper — linking on its own does not mean anything has arrived.",
+  createdAt: "2026-09-27T11:48:55.693Z",
+  updatedAt: "2026-09-27T11:49:02.000Z",
 } as const satisfies TemperWebPhrase

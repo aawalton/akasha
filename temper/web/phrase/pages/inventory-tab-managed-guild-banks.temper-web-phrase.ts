@@ -5,4 +5,6 @@ export const inventoryTabManagedGuildBanks = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-tab-managed-guild-banks",
   title: "Managed Guild Banks",
+  createdAt: "2026-09-27T11:35:12.236Z",
+  updatedAt: "2026-09-27T11:35:19.000Z",
 } as const satisfies TemperWebPhrase

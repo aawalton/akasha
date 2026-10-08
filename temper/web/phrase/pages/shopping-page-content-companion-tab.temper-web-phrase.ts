@@ -5,4 +5,6 @@ export const shoppingPageContentCompanionTab = {
   type: "page-type/temper-web-phrase",
   slug: "shopping-page-content-companion-tab",
   title: "Companion",
+  createdAt: "2026-09-27T11:44:14.499Z",
+  updatedAt: "2026-09-27T11:44:23.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const pageDetailBuildUnreadable = {
   type: "page-type/temper-web-phrase",
   slug: "page-detail-build-unreadable",
   title: "This build couldn't be loaded — it may use an unsupported or outdated format.",
+  createdAt: "2026-09-27T11:38:13.119Z",
+  updatedAt: "2026-09-27T11:38:20.000Z",
 } as const satisfies TemperWebPhrase

@@ -6,4 +6,6 @@ export const useScribedSkillsSkillNotAdded = {
   slug: "use-scribed-skills-skill-not-added",
   title:
     "Skill not added — Temper has no scribed skill for that grimoire and focus script. Temper offered that combination, so the gap is in its data, not your selection.",
+  createdAt: "2026-09-27T11:32:36.759Z",
+  updatedAt: "2026-09-27T11:32:46.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const inventoryRulesFilterBarTitle = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-rules-filter-bar-title",
   title: "Rules",
+  createdAt: "2026-09-27T11:34:28.726Z",
+  updatedAt: "2026-09-27T11:34:37.000Z",
 } as const satisfies TemperWebPhrase

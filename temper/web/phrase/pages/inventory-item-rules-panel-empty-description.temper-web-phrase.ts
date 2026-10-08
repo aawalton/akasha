@@ -5,4 +5,6 @@ export const inventoryItemRulesPanelEmptyDescription = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-item-rules-panel-empty-description",
   title: "Item rules target specific items by ESO item ID, overriding category rules.",
+  createdAt: "2026-09-27T11:36:27.454Z",
+  updatedAt: "2026-09-27T11:36:34.000Z",
 } as const satisfies TemperWebPhrase

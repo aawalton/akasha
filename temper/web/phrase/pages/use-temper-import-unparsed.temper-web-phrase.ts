@@ -5,4 +5,6 @@ export const useTemperImportUnparsed = {
   type: "page-type/temper-web-phrase",
   slug: "use-temper-import-unparsed",
   title: "Failed to parse saved variables file.",
+  createdAt: "2026-09-27T11:34:19.212Z",
+  updatedAt: "2026-09-27T11:34:29.000Z",
 } as const satisfies TemperWebPhrase

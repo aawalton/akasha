@@ -9,4 +9,6 @@ export const auridon6959 = {
   shardNumber: 9,
   worldZone: "temper-world-zone/auridon",
   mapPositions: [{ mapFolder: "auridon", mapTile: "auridon_base", mapX: 0.4151, mapY: 0.129 }],
+  createdAt: "2026-09-25T00:02:52.434Z",
+  updatedAt: "2026-09-25T00:02:55.000Z",
 } as const satisfies TemperWorldSkyshard

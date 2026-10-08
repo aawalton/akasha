@@ -7,4 +7,6 @@ export const watcherBuildStatusCardSourceBuild = {
   title: "Watcher is running from source{ago}",
   description:
     "This Watcher reports itself as a development build rather than a released one, so Temper cannot compare it to what it serves. That is expected when the Watcher runs from source. From a downloaded Watcher it would mean the build was stamped wrong — worth telling us about.",
+  createdAt: "2026-09-27T11:38:16.073Z",
+  updatedAt: "2026-09-27T11:38:23.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const notificationsTabCooldownProtection = {
   type: "page-type/temper-web-phrase",
   slug: "notifications-tab-cooldown-protection",
   title: "Container Cooldown Protection",
+  createdAt: "2026-09-27T11:32:06.661Z",
+  updatedAt: "2026-09-27T11:32:18.000Z",
 } as const satisfies TemperWebPhrase

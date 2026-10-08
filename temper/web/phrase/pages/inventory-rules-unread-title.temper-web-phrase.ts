@@ -5,4 +5,6 @@ export const inventoryRulesUnreadTitle = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-rules-unread-title",
   title: "Your rules went unread, so none of them are shown",
+  createdAt: "2026-09-27T11:33:02.978Z",
+  updatedAt: "2026-09-27T11:33:15.000Z",
 } as const satisfies TemperWebPhrase

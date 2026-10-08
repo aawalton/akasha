@@ -18,4 +18,6 @@ export const greenshade68310 = {
     },
     { mapFolder: "greenshade", mapTile: "gurzagsmine_base", mapX: 0.613, mapY: 0.573 },
   ],
+  createdAt: "2026-09-25T00:01:42.155Z",
+  updatedAt: "2026-09-25T00:01:45.000Z",
 } as const satisfies TemperWorldSkyshard

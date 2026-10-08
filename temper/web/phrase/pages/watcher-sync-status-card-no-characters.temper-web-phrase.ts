@@ -7,4 +7,6 @@ export const watcherSyncStatusCardNoCharacters = {
   title: "Game data captured{capturedAgo}",
   description:
     "Your inventory is arriving, but no characters have, so Temper is seeing only part of this account. The Temper ESO add-ons are installed separately, and the one that exports characters may be missing.",
+  createdAt: "2026-09-27T11:43:14.151Z",
+  updatedAt: "2026-09-27T11:43:22.000Z",
 } as const satisfies TemperWebPhrase

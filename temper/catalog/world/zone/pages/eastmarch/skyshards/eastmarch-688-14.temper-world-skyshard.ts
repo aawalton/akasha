@@ -18,4 +18,6 @@ export const eastmarch68814 = {
     },
     { mapFolder: "eastmarch", mapTile: "oldsordscave_base", mapX: 0.314, mapY: 0.731 },
   ],
+  createdAt: "2026-09-25T00:01:06.717Z",
+  updatedAt: "2026-09-25T00:01:10.000Z",
 } as const satisfies TemperWorldSkyshard

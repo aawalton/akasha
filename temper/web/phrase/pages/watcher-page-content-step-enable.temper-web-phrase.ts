@@ -7,4 +7,6 @@ export const watcherPageContentStepEnable = {
   title: "How to turn the add-ons on",
   description:
     "Start ESO and turn the add-ons on at {menu}, ticking {outOfDate} if ours are listed as out of date — the versions we declare can lag a fresh ESO patch. An add-on that is installed but not enabled writes nothing, and looks exactly like one that was never installed.",
+  createdAt: "2026-09-27T11:48:55.693Z",
+  updatedAt: "2026-09-27T11:49:02.000Z",
 } as const satisfies TemperWebPhrase

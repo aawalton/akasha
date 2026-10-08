@@ -5,4 +5,6 @@ export const inventoryPanelCardTotal = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-panel-card-total",
   title: "Total",
+  createdAt: "2026-09-27T11:37:44.161Z",
+  updatedAt: "2026-09-27T11:37:52.000Z",
 } as const satisfies TemperWebPhrase

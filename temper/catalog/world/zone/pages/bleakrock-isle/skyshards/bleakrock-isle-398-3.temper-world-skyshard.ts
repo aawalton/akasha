@@ -11,4 +11,6 @@ export const bleakrockIsle3983 = {
   mapPositions: [
     { mapFolder: "stonefalls", mapTile: "bleakrock_base", mapX: 0.2780946493, mapY: 0.4022813737 },
   ],
+  createdAt: "2026-09-24T23:55:40.509Z",
+  updatedAt: "2026-09-24T23:55:43.000Z",
 } as const satisfies TemperWorldSkyshard

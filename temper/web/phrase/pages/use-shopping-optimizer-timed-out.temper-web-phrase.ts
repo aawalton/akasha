@@ -5,4 +5,6 @@ export const useShoppingOptimizerTimedOut = {
   type: "page-type/temper-web-phrase",
   slug: "use-shopping-optimizer-timed-out",
   title: "Search timed out",
+  createdAt: "2026-09-27T11:40:25.980Z",
+  updatedAt: "2026-09-27T11:40:34.000Z",
 } as const satisfies TemperWebPhrase

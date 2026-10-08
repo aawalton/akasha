@@ -5,4 +5,6 @@ export const scribingPanelCardRemove = {
   type: "page-type/temper-web-phrase",
   slug: "scribing-panel-card-remove",
   title: "Remove scribed skill",
+  createdAt: "2026-09-27T11:38:36.578Z",
+  updatedAt: "2026-09-27T11:38:46.000Z",
 } as const satisfies TemperWebPhrase

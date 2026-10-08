@@ -9,4 +9,6 @@ export const northernElsweyr24613 = {
   shardNumber: 3,
   worldZone: "temper-world-zone/northern-elsweyr",
   mapPositions: [{ mapFolder: "elsweyr", mapTile: "elsweyr_base", mapX: 0.6615, mapY: 0.4713 }],
+  createdAt: "2026-09-25T00:02:20.667Z",
+  updatedAt: "2026-09-25T00:02:23.000Z",
 } as const satisfies TemperWorldSkyshard

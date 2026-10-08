@@ -18,4 +18,6 @@ export const bangkorai55715 = {
     },
     { mapFolder: "bangkorai", mapTile: "viridianwatch_base", mapX: 0.119, mapY: 0.333 },
   ],
+  createdAt: "2026-09-24T23:58:33.379Z",
+  updatedAt: "2026-09-24T23:58:36.000Z",
 } as const satisfies TemperWorldSkyshard

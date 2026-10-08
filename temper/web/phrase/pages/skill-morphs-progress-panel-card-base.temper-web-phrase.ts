@@ -5,4 +5,6 @@ export const skillMorphsProgressPanelCardBase = {
   type: "page-type/temper-web-phrase",
   slug: "skill-morphs-progress-panel-card-base",
   title: "Base",
+  createdAt: "2026-09-27T11:31:23.211Z",
+  updatedAt: "2026-09-27T11:31:31.000Z",
 } as const satisfies TemperWebPhrase

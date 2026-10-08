@@ -5,4 +5,6 @@ export const watcherSyncStatusCardCharacters = {
   type: "page-type/temper-web-phrase",
   slug: "watcher-sync-status-card-characters",
   title: "Characters",
+  createdAt: "2026-09-27T11:43:14.150Z",
+  updatedAt: "2026-09-27T11:43:22.000Z",
 } as const satisfies TemperWebPhrase

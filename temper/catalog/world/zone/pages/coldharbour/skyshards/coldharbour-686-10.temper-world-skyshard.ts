@@ -18,4 +18,6 @@ export const coldharbour68610 = {
       placeKinds: [2],
     },
   ],
+  createdAt: "2026-09-24T23:58:22.625Z",
+  updatedAt: "2026-09-24T23:58:26.000Z",
 } as const satisfies TemperWorldSkyshard

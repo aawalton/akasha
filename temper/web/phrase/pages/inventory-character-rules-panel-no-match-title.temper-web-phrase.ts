@@ -5,4 +5,6 @@ export const inventoryCharacterRulesPanelNoMatchTitle = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-character-rules-panel-no-match-title",
   title: "No matching rules",
+  createdAt: "2026-09-27T11:33:43.539Z",
+  updatedAt: "2026-09-27T11:33:52.000Z",
 } as const satisfies TemperWebPhrase

@@ -11,4 +11,6 @@ export const hewsBane13472 = {
   mapPositions: [
     { mapFolder: "thievesguild", mapTile: "hewsbane_base", mapX: 0.4409, mapY: 0.4846 },
   ],
+  createdAt: "2026-09-25T00:04:01.374Z",
+  updatedAt: "2026-09-25T00:04:04.000Z",
 } as const satisfies TemperWorldSkyshard

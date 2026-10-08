@@ -5,4 +5,6 @@ export const setTargetConfirmDialogConfirm = {
   type: "page-type/temper-web-phrase",
   slug: "set-target-confirm-dialog-confirm",
   title: "Set Target",
+  createdAt: "2026-09-27T11:35:39.721Z",
+  updatedAt: "2026-09-27T11:35:48.000Z",
 } as const satisfies TemperWebPhrase

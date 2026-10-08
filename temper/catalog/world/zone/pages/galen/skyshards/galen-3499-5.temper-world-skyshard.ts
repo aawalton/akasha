@@ -18,4 +18,6 @@ export const galen34995 = {
     },
     { mapFolder: "galen", mapTile: "u36_lkh_base", mapX: 0.4575, mapY: 0.7518, placeKinds: [2] },
   ],
+  createdAt: "2026-09-25T00:03:20.608Z",
+  updatedAt: "2026-09-25T00:03:23.000Z",
 } as const satisfies TemperWorldSkyshard

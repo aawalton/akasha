@@ -7,4 +7,6 @@ export const watcherBuildStatusCardTargetUnknown = {
   title: "Temper cannot tell which build it is serving",
   description:
     "Temper could not read its own current Watcher version, so it has nothing to compare yours against. This is a problem on Temper's side, not with your install, and it means Watcher updates are probably not being served to anyone right now.",
+  createdAt: "2026-09-27T11:38:16.073Z",
+  updatedAt: "2026-09-27T11:38:23.000Z",
 } as const satisfies TemperWebPhrase

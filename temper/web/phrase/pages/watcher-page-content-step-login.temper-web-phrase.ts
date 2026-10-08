@@ -6,4 +6,6 @@ export const watcherPageContentStepLogin = {
   slug: "watcher-page-content-step-login",
   title:
     "Log in to a character once, so the game writes its SavedVariables files. There is nothing to sync until this has happened.",
+  createdAt: "2026-09-27T11:48:55.693Z",
+  updatedAt: "2026-09-27T11:49:02.000Z",
 } as const satisfies TemperWebPhrase

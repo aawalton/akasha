@@ -12,4 +12,6 @@ export const glenumbra40912 = {
     { mapFolder: "glenumbra", mapTile: "glenumbra_base", mapX: 0.698, mapY: 0.53, placeKinds: [2] },
     { mapFolder: "glenumbra", mapTile: "minesofkhuras_base", mapX: 0.446, mapY: 0.664 },
   ],
+  createdAt: "2026-09-24T23:58:41.327Z",
+  updatedAt: "2026-09-24T23:58:45.000Z",
 } as const satisfies TemperWorldSkyshard

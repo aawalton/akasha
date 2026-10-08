@@ -5,4 +5,6 @@ export const inventorySummaryPanelCardCurrencies = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-summary-panel-card-currencies",
   title: "Currencies",
+  createdAt: "2026-09-27T11:37:44.162Z",
+  updatedAt: "2026-09-27T11:37:52.000Z",
 } as const satisfies TemperWebPhrase

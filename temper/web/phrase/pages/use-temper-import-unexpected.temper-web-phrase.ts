@@ -5,4 +5,6 @@ export const useTemperImportUnexpected = {
   type: "page-type/temper-web-phrase",
   slug: "use-temper-import-unexpected",
   title: "An unexpected error occurred during import.",
+  createdAt: "2026-09-27T11:34:19.212Z",
+  updatedAt: "2026-09-27T11:34:29.000Z",
 } as const satisfies TemperWebPhrase

@@ -5,4 +5,6 @@ export const recipesProgressPanelCardTitle = {
   type: "page-type/temper-web-phrase",
   slug: "recipes-progress-panel-card-title",
   title: "Crafting Recipes",
+  createdAt: "2026-09-27T11:33:30.811Z",
+  updatedAt: "2026-09-27T11:33:40.000Z",
 } as const satisfies TemperWebPhrase

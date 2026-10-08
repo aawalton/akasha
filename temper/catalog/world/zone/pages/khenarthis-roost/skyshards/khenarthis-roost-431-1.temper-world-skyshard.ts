@@ -11,4 +11,6 @@ export const khenarthisRoost4311 = {
   mapPositions: [
     { mapFolder: "auridon", mapTile: "khenarthisroost_base", mapX: 0.5893, mapY: 0.8093 },
   ],
+  createdAt: "2026-09-24T23:59:24.077Z",
+  updatedAt: "2026-09-24T23:59:27.000Z",
 } as const satisfies TemperWorldSkyshard

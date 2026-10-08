@@ -6,4 +6,6 @@ export const shoppingRouteOverviewPanelCardNotInRoute = {
   slug: "shopping-route-overview-panel-card-not-in-route",
   title: "Not in Route",
   description: "No listing found, or you marked every listing unavailable",
+  createdAt: "2026-09-27T11:42:50.523Z",
+  updatedAt: "2026-09-27T11:42:58.000Z",
 } as const satisfies TemperWebPhrase

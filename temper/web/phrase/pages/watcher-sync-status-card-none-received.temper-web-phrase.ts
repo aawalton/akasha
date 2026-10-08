@@ -5,4 +5,6 @@ export const watcherSyncStatusCardNoneReceived = {
   type: "page-type/temper-web-phrase",
   slug: "watcher-sync-status-card-none-received",
   title: "none received yet",
+  createdAt: "2026-09-27T11:43:14.151Z",
+  updatedAt: "2026-09-27T11:43:22.000Z",
 } as const satisfies TemperWebPhrase

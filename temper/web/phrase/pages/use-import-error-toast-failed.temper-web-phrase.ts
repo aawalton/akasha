@@ -5,4 +5,6 @@ export const useImportErrorToastFailed = {
   type: "page-type/temper-web-phrase",
   slug: "use-import-error-toast-failed",
   title: "We couldn't import that build. Please try again.",
+  createdAt: "2026-09-27T11:43:23.298Z",
+  updatedAt: "2026-09-27T11:43:32.000Z",
 } as const satisfies TemperWebPhrase

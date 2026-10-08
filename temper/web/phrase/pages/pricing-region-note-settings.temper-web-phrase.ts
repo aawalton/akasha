@@ -5,4 +5,6 @@ export const pricingRegionNoteSettings = {
   type: "page-type/temper-web-phrase",
   slug: "pricing-region-note-settings",
   title: "Settings",
+  createdAt: "2026-09-27T11:33:56.108Z",
+  updatedAt: "2026-09-27T11:34:03.000Z",
 } as const satisfies TemperWebPhrase

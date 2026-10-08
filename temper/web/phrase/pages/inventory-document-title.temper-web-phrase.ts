@@ -5,4 +5,6 @@ export const inventoryDocumentTitle = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-document-title",
   title: "Temper | Inventory",
+  createdAt: "2026-09-27T11:32:44.156Z",
+  updatedAt: "2026-09-27T11:32:53.000Z",
 } as const satisfies TemperWebPhrase

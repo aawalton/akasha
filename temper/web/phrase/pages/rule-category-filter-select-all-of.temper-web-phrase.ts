@@ -5,4 +5,6 @@ export const ruleCategoryFilterSelectAllOf = {
   type: "page-type/temper-web-phrase",
   slug: "rule-category-filter-select-all-of",
   title: "All {category}",
+  createdAt: "2026-09-27T11:41:04.488Z",
+  updatedAt: "2026-09-27T11:41:12.000Z",
 } as const satisfies TemperWebPhrase

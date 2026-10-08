@@ -9,4 +9,6 @@ export const greenshade6839 = {
   shardNumber: 9,
   worldZone: "temper-world-zone/greenshade",
   mapPositions: [{ mapFolder: "greenshade", mapTile: "greenshade_base", mapX: 0.603, mapY: 0.404 }],
+  createdAt: "2026-09-25T00:01:42.156Z",
+  updatedAt: "2026-09-25T00:01:45.000Z",
 } as const satisfies TemperWorldSkyshard

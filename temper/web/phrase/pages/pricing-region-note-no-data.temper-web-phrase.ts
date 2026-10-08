@@ -6,4 +6,6 @@ export const pricingRegionNoteNoData = {
   slug: "pricing-region-note-no-data",
   title:
     "No market prices for {platform} / {server} yet — market data covers {defaultPlatform} / {defaultServer} only for now. Your region is set in",
+  createdAt: "2026-09-27T11:33:56.108Z",
+  updatedAt: "2026-09-27T11:34:03.000Z",
 } as const satisfies TemperWebPhrase

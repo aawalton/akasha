@@ -5,4 +5,6 @@ export const temperQueryErrorBoundaryDescription = {
   type: "page-type/temper-web-phrase",
   slug: "temper-query-error-boundary-description",
   title: "Something went wrong while loading this. Try again.",
+  createdAt: "2026-09-27T12:55:49.883Z",
+  updatedAt: "2026-09-27T12:55:59.000Z",
 } as const satisfies TemperWebPhrase

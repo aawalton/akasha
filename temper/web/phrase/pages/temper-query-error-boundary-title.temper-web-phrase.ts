@@ -5,4 +5,6 @@ export const temperQueryErrorBoundaryTitle = {
   type: "page-type/temper-web-phrase",
   slug: "temper-query-error-boundary-title",
   title: "Failed to load",
+  createdAt: "2026-09-27T12:55:49.883Z",
+  updatedAt: "2026-09-27T12:55:59.000Z",
 } as const satisfies TemperWebPhrase

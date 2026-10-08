@@ -5,4 +5,6 @@ export const skillLinesPanelCardNone = {
   type: "page-type/temper-web-phrase",
   slug: "skill-lines-panel-card-none",
   title: "None",
+  createdAt: "2026-09-27T11:42:00.998Z",
+  updatedAt: "2026-09-27T11:42:08.000Z",
 } as const satisfies TemperWebPhrase

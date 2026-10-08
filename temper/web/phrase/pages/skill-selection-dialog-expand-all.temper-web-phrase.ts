@@ -5,4 +5,6 @@ export const skillSelectionDialogExpandAll = {
   type: "page-type/temper-web-phrase",
   slug: "skill-selection-dialog-expand-all",
   title: "Expand all skill lines",
+  createdAt: "2026-09-27T11:42:00.999Z",
+  updatedAt: "2026-09-27T11:42:08.000Z",
 } as const satisfies TemperWebPhrase

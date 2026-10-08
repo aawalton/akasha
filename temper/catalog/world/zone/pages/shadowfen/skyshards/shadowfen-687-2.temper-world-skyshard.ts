@@ -9,4 +9,6 @@ export const shadowfen6872 = {
   shardNumber: 2,
   worldZone: "temper-world-zone/shadowfen",
   mapPositions: [{ mapFolder: "shadowfen", mapTile: "shadowfen_base", mapX: 0.2268, mapY: 0.2854 }],
+  createdAt: "2026-09-24T23:59:43.260Z",
+  updatedAt: "2026-09-24T23:59:47.000Z",
 } as const satisfies TemperWorldSkyshard

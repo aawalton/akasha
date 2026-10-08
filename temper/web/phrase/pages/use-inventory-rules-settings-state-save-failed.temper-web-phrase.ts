@@ -5,4 +5,6 @@ export const useInventoryRulesSettingsStateSaveFailed = {
   type: "page-type/temper-web-phrase",
   slug: "use-inventory-rules-settings-state-save-failed",
   title: "Couldn't save your rule change — reverting to the last saved version.",
+  createdAt: "2026-09-27T11:47:54.138Z",
+  updatedAt: "2026-09-27T11:48:01.000Z",
 } as const satisfies TemperWebPhrase

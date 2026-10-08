@@ -5,4 +5,6 @@ export const shoppingSearchProgressSearching = {
   type: "page-type/temper-web-phrase",
   slug: "shopping-search-progress-searching",
   title: "Searching items ({done} / {total})",
+  createdAt: "2026-09-27T11:38:40.451Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies TemperWebPhrase

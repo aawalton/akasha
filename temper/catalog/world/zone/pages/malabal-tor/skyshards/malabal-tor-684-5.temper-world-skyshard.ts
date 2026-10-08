@@ -18,4 +18,6 @@ export const malabalTor6845 = {
     },
     { mapFolder: "malabaltor", mapTile: "vulkwasten_base", mapX: 0.462, mapY: 0.25 },
   ],
+  createdAt: "2026-09-25T00:04:45.175Z",
+  updatedAt: "2026-09-25T00:04:48.000Z",
 } as const satisfies TemperWorldSkyshard

@@ -11,4 +11,6 @@ export const galen34994 = {
   mapPositions: [
     { mapFolder: "galen", mapTile: "u36_galenisland_base", mapX: 0.2894, mapY: 0.5316 },
   ],
+  createdAt: "2026-09-25T00:03:20.608Z",
+  updatedAt: "2026-09-25T00:03:23.000Z",
 } as const satisfies TemperWorldSkyshard

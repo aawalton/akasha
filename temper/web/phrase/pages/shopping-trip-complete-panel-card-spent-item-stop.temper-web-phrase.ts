@@ -5,4 +5,6 @@ export const shoppingTripCompletePanelCardSpentItemStop = {
   type: "page-type/temper-web-phrase",
   slug: "shopping-trip-complete-panel-card-spent-item-stop",
   title: "You spent {gold} on {count} item across {stops} stop.",
+  createdAt: "2026-09-27T11:42:50.524Z",
+  updatedAt: "2026-09-27T11:42:58.000Z",
 } as const satisfies TemperWebPhrase

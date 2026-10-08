@@ -5,4 +5,6 @@ export const watcherRunStatusCardNameList = {
   type: "page-type/temper-web-phrase",
   slug: "watcher-run-status-card-name-list",
   title: "{names} and {last}",
+  createdAt: "2026-09-27T11:40:22.896Z",
+  updatedAt: "2026-09-27T11:40:30.000Z",
 } as const satisfies TemperWebPhrase

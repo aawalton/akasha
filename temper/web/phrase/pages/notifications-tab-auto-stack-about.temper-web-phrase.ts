@@ -5,4 +5,6 @@ export const notificationsTabAutoStackAbout = {
   type: "page-type/temper-web-phrase",
   slug: "notifications-tab-auto-stack-about",
   title: "Automatically consolidate partial stacks when logging in and at a banker.",
+  createdAt: "2026-09-27T11:32:06.660Z",
+  updatedAt: "2026-09-27T11:32:18.000Z",
 } as const satisfies TemperWebPhrase

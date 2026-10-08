@@ -5,4 +5,6 @@ export const potionSelectDialogCrafted = {
   type: "page-type/temper-web-phrase",
   slug: "potion-select-dialog-crafted",
   title: "Crafted Potions",
+  createdAt: "2026-09-27T11:32:15.359Z",
+  updatedAt: "2026-09-27T11:32:26.000Z",
 } as const satisfies TemperWebPhrase

@@ -11,4 +11,6 @@ export const stonefalls3975 = {
   mapPositions: [
     { mapFolder: "stonefalls", mapTile: "stonefalls_base", mapX: 0.2535, mapY: 0.411 },
   ],
+  createdAt: "2026-09-24T23:56:48.879Z",
+  updatedAt: "2026-09-24T23:56:51.000Z",
 } as const satisfies TemperWorldSkyshard

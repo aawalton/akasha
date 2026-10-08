@@ -5,4 +5,6 @@ export const skillPointsProgressPanelCardGeneral = {
   type: "page-type/temper-web-phrase",
   slug: "skill-points-progress-panel-card-general",
   title: "General",
+  createdAt: "2026-09-27T11:33:30.812Z",
+  updatedAt: "2026-09-27T11:33:40.000Z",
 } as const satisfies TemperWebPhrase

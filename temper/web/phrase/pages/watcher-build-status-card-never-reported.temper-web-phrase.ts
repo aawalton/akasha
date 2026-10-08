@@ -7,4 +7,6 @@ export const watcherBuildStatusCardNeverReported = {
   title: "Watcher has not reported its version",
   description:
     "Temper has never received a run report from this Watcher, so it cannot tell which build you are on. Either the Watcher has not completed a sync yet, or it predates version reporting and cannot say what it is running. Neither means it is broken — but neither confirms it is working.",
+  createdAt: "2026-09-27T11:38:16.073Z",
+  updatedAt: "2026-09-27T11:38:23.000Z",
 } as const satisfies TemperWebPhrase

@@ -24,4 +24,6 @@ export const southernElsweyr25622 = {
       placeKinds: [1],
     },
   ],
+  createdAt: "2026-09-25T00:03:04.012Z",
+  updatedAt: "2026-09-25T00:03:07.000Z",
 } as const satisfies TemperWorldSkyshard

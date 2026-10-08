@@ -7,4 +7,6 @@ export const inventoryTabLoadFailed = {
   title: "Couldn't load your inventory",
   description:
     "Temper could not read your inventory data just now, so it cannot tell which guild banks you have. This is a fault on Temper's side — not your game, and not your add-ons. Reloading the page will try again.",
+  createdAt: "2026-09-27T11:35:12.236Z",
+  updatedAt: "2026-09-27T11:35:19.000Z",
 } as const satisfies TemperWebPhrase

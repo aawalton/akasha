@@ -5,4 +5,6 @@ export const managementPlanPanelCardVisit = {
   type: "page-type/temper-web-phrase",
   slug: "management-plan-panel-card-visit",
   title: "{character} (Visit {visit})",
+  createdAt: "2026-09-27T11:38:41.922Z",
+  updatedAt: "2026-09-27T11:38:50.000Z",
 } as const satisfies TemperWebPhrase

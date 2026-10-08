@@ -12,4 +12,6 @@ export const alikrDesert5564 = {
     { mapFolder: "alikr", mapTile: "alikr_base", mapX: 0.5214, mapY: 0.6649, placeKinds: [1] },
     { mapFolder: "alikr", mapTile: "bergama_base", mapX: 0.4265, mapY: 0.6168 },
   ],
+  createdAt: "2026-09-24T23:57:06.717Z",
+  updatedAt: "2026-09-24T23:57:10.000Z",
 } as const satisfies TemperWorldSkyshard

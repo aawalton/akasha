@@ -6,4 +6,6 @@ export const notificationsTabCooldownProtectionAbout = {
   slug: "notifications-tab-cooldown-protection-about",
   title:
     "Skip auto-opening containers when a boosted reward (e.g. transmutation geode) was received recently.",
+  createdAt: "2026-09-27T11:32:06.661Z",
+  updatedAt: "2026-09-27T11:32:18.000Z",
 } as const satisfies TemperWebPhrase

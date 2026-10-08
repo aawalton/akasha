@@ -5,4 +5,6 @@ export const useTemperImportUnreadable = {
   type: "page-type/temper-web-phrase",
   slug: "use-temper-import-unreadable",
   title: "Failed to read file.",
+  createdAt: "2026-09-27T11:34:19.212Z",
+  updatedAt: "2026-09-27T11:34:29.000Z",
 } as const satisfies TemperWebPhrase

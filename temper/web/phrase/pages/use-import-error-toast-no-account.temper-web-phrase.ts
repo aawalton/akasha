@@ -5,4 +5,6 @@ export const useImportErrorToastNoAccount = {
   type: "page-type/temper-web-phrase",
   slug: "use-import-error-toast-no-account",
   title: "Your sign-in has no Temper account yet, so the build has nowhere to go.",
+  createdAt: "2026-09-27T11:43:23.298Z",
+  updatedAt: "2026-09-27T11:43:32.000Z",
 } as const satisfies TemperWebPhrase

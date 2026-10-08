@@ -18,4 +18,6 @@ export const greenshade68314 = {
     },
     { mapFolder: "greenshade", mapTile: "harridanslair_base", mapX: 0.737, mapY: 0.748 },
   ],
+  createdAt: "2026-09-25T00:01:42.156Z",
+  updatedAt: "2026-09-25T00:01:45.000Z",
 } as const satisfies TemperWorldSkyshard

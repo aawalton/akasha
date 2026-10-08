@@ -5,4 +5,6 @@ export const rootNotFoundTitle = {
   type: "page-type/temper-web-phrase",
   slug: "root-not-found-title",
   title: "404",
+  createdAt: "2026-09-27T12:52:37.084Z",
+  updatedAt: "2026-09-27T12:52:45.000Z",
 } as const satisfies TemperWebPhrase

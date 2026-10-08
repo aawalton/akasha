@@ -7,4 +7,6 @@ export const watcherRunStatusCardUploadFailing = {
   title: "Why the Watcher can fail to deliver an upload",
   description:
     "It read the data for {failing} and could not get it to Temper, so the failure sits between your Watcher and us rather than in your add-ons. It retries on its next run. If this keeps showing, it is ours to fix.{recorded}",
+  createdAt: "2026-09-27T11:40:22.896Z",
+  updatedAt: "2026-09-27T11:40:30.000Z",
 } as const satisfies TemperWebPhrase

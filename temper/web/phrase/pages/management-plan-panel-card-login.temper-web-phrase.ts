@@ -5,4 +5,6 @@ export const managementPlanPanelCardLogin = {
   type: "page-type/temper-web-phrase",
   slug: "management-plan-panel-card-login",
   title: "{count} login",
+  createdAt: "2026-09-27T11:38:41.921Z",
+  updatedAt: "2026-09-27T11:38:50.000Z",
 } as const satisfies TemperWebPhrase

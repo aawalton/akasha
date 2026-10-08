@@ -18,4 +18,6 @@ export const greenshade68312 = {
     },
     { mapFolder: "greenshade", mapTile: "narilnagaia_base", mapX: 0.266, mapY: 0.732 },
   ],
+  createdAt: "2026-09-25T00:01:42.156Z",
+  updatedAt: "2026-09-25T00:01:45.000Z",
 } as const satisfies TemperWorldSkyshard

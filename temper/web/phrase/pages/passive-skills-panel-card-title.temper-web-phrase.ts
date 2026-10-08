@@ -5,4 +5,6 @@ export const passiveSkillsPanelCardTitle = {
   type: "page-type/temper-web-phrase",
   slug: "passive-skills-panel-card-title",
   title: "Passive Skills",
+  createdAt: "2026-09-27T11:31:16.990Z",
+  updatedAt: "2026-09-27T11:31:26.000Z",
 } as const satisfies TemperWebPhrase

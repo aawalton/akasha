@@ -18,4 +18,6 @@ export const balFoyen4051 = {
     },
     { mapFolder: "stonefalls", mapTile: "dhalmora_base", mapX: 0.3312, mapY: 0.4539 },
   ],
+  createdAt: "2026-09-24T23:56:09.067Z",
+  updatedAt: "2026-09-24T23:56:12.000Z",
 } as const satisfies TemperWorldSkyshard

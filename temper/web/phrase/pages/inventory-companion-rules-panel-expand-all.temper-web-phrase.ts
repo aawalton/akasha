@@ -5,4 +5,6 @@ export const inventoryCompanionRulesPanelExpandAll = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-companion-rules-panel-expand-all",
   title: "Expand All",
+  createdAt: "2026-09-27T11:35:21.046Z",
+  updatedAt: "2026-09-27T11:35:28.000Z",
 } as const satisfies TemperWebPhrase

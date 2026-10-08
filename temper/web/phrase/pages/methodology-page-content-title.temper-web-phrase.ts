@@ -5,4 +5,6 @@ export const methodologyPageContentTitle = {
   type: "page-type/temper-web-phrase",
   slug: "methodology-page-content-title",
   title: "Methodology",
+  createdAt: "2026-09-27T11:31:15.521Z",
+  updatedAt: "2026-09-27T11:31:25.000Z",
 } as const satisfies TemperWebPhrase

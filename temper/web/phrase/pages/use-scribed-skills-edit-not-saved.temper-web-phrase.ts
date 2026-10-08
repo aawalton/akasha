@@ -6,4 +6,6 @@ export const useScribedSkillsEditNotSaved = {
   slug: "use-scribed-skills-edit-not-saved",
   title:
     "Changes not saved — Temper has no scribed skill for this grimoire with that focus script. Check that Focus is not set to None; if it is set, this is a gap in Temper's data.",
+  createdAt: "2026-09-27T11:32:36.758Z",
+  updatedAt: "2026-09-27T11:32:46.000Z",
 } as const satisfies TemperWebPhrase

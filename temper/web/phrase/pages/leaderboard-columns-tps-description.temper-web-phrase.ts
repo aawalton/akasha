@@ -5,4 +5,6 @@ export const leaderboardColumnsTpsDescription = {
   type: "page-type/temper-web-phrase",
   slug: "leaderboard-columns-tps-description",
   title: "Total toughness per second",
+  createdAt: "2026-09-27T11:48:00.687Z",
+  updatedAt: "2026-09-27T11:48:08.000Z",
 } as const satisfies TemperWebPhrase

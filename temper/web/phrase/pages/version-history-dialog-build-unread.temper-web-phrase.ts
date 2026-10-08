@@ -5,4 +5,6 @@ export const versionHistoryDialogBuildUnread = {
   type: "page-type/temper-web-phrase",
   slug: "version-history-dialog-build-unread",
   title: "The build has not loaded yet",
+  createdAt: "2026-09-27T12:48:42.363Z",
+  updatedAt: "2026-09-27T12:48:49.000Z",
 } as const satisfies TemperWebPhrase

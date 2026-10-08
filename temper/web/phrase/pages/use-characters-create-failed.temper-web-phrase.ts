@@ -5,4 +5,6 @@ export const useCharactersCreateFailed = {
   type: "page-type/temper-web-phrase",
   slug: "use-characters-create-failed",
   title: "Failed to create build",
+  createdAt: "2026-09-27T11:32:33.693Z",
+  updatedAt: "2026-09-27T11:32:42.000Z",
 } as const satisfies TemperWebPhrase

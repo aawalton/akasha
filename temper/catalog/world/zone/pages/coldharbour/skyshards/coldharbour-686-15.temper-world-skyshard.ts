@@ -18,4 +18,6 @@ export const coldharbour68615 = {
     },
     { mapFolder: "coldharbor", mapTile: "wailingmaw_base", mapX: 0.7675, mapY: 0.7018 },
   ],
+  createdAt: "2026-09-24T23:58:22.625Z",
+  updatedAt: "2026-09-24T23:58:26.000Z",
 } as const satisfies TemperWorldSkyshard

@@ -5,4 +5,6 @@ export const useCharactersNewBuildName = {
   type: "page-type/temper-web-phrase",
   slug: "use-characters-new-build-name",
   title: "New Build",
+  createdAt: "2026-09-27T11:53:36.960Z",
+  updatedAt: "2026-09-27T11:53:45.000Z",
 } as const satisfies TemperWebPhrase

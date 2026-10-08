@@ -18,4 +18,6 @@ export const craglorn91216 = {
     },
     { mapFolder: "craglorn", mapTile: "howlingsepulchersoverland_base", mapX: 0.528, mapY: 0.534 },
   ],
+  createdAt: "2026-09-25T00:05:54.241Z",
+  updatedAt: "2026-09-25T00:05:57.000Z",
 } as const satisfies TemperWorldSkyshard

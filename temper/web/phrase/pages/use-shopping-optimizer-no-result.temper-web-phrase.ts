@@ -5,4 +5,6 @@ export const useShoppingOptimizerNoResult = {
   type: "page-type/temper-web-phrase",
   slug: "use-shopping-optimizer-no-result",
   title: "Search ended without a result — try again",
+  createdAt: "2026-09-27T11:40:25.979Z",
+  updatedAt: "2026-09-27T11:40:34.000Z",
 } as const satisfies TemperWebPhrase

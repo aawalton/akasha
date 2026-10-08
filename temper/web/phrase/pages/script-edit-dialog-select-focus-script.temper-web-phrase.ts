@@ -5,4 +5,6 @@ export const scriptEditDialogSelectFocusScript = {
   type: "page-type/temper-web-phrase",
   slug: "script-edit-dialog-select-focus-script",
   title: "Select focus script",
+  createdAt: "2026-09-27T11:38:36.578Z",
+  updatedAt: "2026-09-27T11:38:46.000Z",
 } as const satisfies TemperWebPhrase

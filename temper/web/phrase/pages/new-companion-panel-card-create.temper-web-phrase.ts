@@ -5,4 +5,6 @@ export const newCompanionPanelCardCreate = {
   type: "page-type/temper-web-phrase",
   slug: "new-companion-panel-card-create",
   title: "Create New Build",
+  createdAt: "2026-09-27T11:30:38.078Z",
+  updatedAt: "2026-09-27T11:30:47.000Z",
 } as const satisfies TemperWebPhrase

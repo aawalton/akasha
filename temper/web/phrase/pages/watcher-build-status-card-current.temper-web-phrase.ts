@@ -7,4 +7,6 @@ export const watcherBuildStatusCardCurrent = {
   title: "Watcher was up to date{ago}",
   description:
     "The last time your Watcher reported in, it was running the build Temper currently serves. It updates itself, so it should stay that way — but this line describes that moment, not right now.",
+  createdAt: "2026-09-27T11:38:16.073Z",
+  updatedAt: "2026-09-27T11:38:23.000Z",
 } as const satisfies TemperWebPhrase

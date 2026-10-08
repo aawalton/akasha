@@ -5,4 +5,6 @@ export const setTargetConfirmDialogDescription = {
   type: "page-type/temper-web-phrase",
   slug: "set-target-confirm-dialog-description",
   title: "The target build for {name} has been manually edited. This will overwrite those changes.",
+  createdAt: "2026-09-27T11:35:39.721Z",
+  updatedAt: "2026-09-27T11:35:48.000Z",
 } as const satisfies TemperWebPhrase

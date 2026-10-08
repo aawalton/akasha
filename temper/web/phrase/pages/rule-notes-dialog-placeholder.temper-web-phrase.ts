@@ -5,4 +5,6 @@ export const ruleNotesDialogPlaceholder = {
   type: "page-type/temper-web-phrase",
   slug: "rule-notes-dialog-placeholder",
   title: "Add notes about this rule...",
+  createdAt: "2026-09-27T11:34:56.518Z",
+  updatedAt: "2026-09-27T11:35:05.000Z",
 } as const satisfies TemperWebPhrase

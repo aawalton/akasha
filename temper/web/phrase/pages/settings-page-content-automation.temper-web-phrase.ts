@@ -5,4 +5,6 @@ export const settingsPageContentAutomation = {
   type: "page-type/temper-web-phrase",
   slug: "settings-page-content-automation",
   title: "Automation",
+  createdAt: "2026-09-27T11:43:23.298Z",
+  updatedAt: "2026-09-27T11:43:32.000Z",
 } as const satisfies TemperWebPhrase

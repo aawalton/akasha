@@ -5,4 +5,6 @@ export const watcherPageContentWatcherCaption = {
   type: "page-type/temper-web-phrase",
   slug: "watcher-page-content-watcher-caption",
   title: "Windows 10 or 11 (64-bit). It only reads what the add-ons write, so do those first.",
+  createdAt: "2026-09-27T11:48:55.693Z",
+  updatedAt: "2026-09-27T11:49:02.000Z",
 } as const satisfies TemperWebPhrase

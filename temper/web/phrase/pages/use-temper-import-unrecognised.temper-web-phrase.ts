@@ -6,4 +6,6 @@ export const useTemperImportUnrecognised = {
   slug: "use-temper-import-unrecognised",
   title:
     "This file's contents weren't recognised. It may have been written by an out-of-date version of the Temper add-ons. Nothing was imported.",
+  createdAt: "2026-09-27T11:34:19.212Z",
+  updatedAt: "2026-09-27T11:34:29.000Z",
 } as const satisfies TemperWebPhrase

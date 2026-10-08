@@ -5,4 +5,6 @@ export const notificationsTabActionReportsAbout = {
   type: "page-type/temper-web-phrase",
   slug: "notifications-tab-action-reports-about",
   title: "Controls how verbose inventory rule action reports are in your addon console.",
+  createdAt: "2026-09-27T11:30:38.078Z",
+  updatedAt: "2026-09-27T11:30:47.000Z",
 } as const satisfies TemperWebPhrase

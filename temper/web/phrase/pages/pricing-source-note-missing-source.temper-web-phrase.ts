@@ -7,4 +7,6 @@ export const pricingSourceNoteMissingSource = {
   title: "Item values are missing",
   description:
     "Item values are missing — Temper prices items with the Tamriel Trade Centre add-on, which was not running during your last sync. Only vendor prices are counted, so your totals are far too low.",
+  createdAt: "2026-09-27T11:33:56.108Z",
+  updatedAt: "2026-09-27T11:34:03.000Z",
 } as const satisfies TemperWebPhrase

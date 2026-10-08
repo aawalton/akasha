@@ -31,4 +31,6 @@ export const highIsle327011 = {
       placeKinds: [3],
     },
   ],
+  createdAt: "2026-09-25T00:02:35.071Z",
+  updatedAt: "2026-09-25T00:02:37.000Z",
 } as const satisfies TemperWorldSkyshard

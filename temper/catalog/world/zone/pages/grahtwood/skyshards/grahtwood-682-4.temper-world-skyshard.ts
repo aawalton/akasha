@@ -18,4 +18,6 @@ export const grahtwood6824 = {
       placeKinds: [1],
     },
   ],
+  createdAt: "2026-09-24T23:59:52.275Z",
+  updatedAt: "2026-09-24T23:59:55.000Z",
 } as const satisfies TemperWorldSkyshard

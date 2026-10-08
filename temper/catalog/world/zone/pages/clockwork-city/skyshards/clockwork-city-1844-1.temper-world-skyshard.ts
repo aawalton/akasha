@@ -9,4 +9,6 @@ export const clockworkCity18441 = {
   shardNumber: 1,
   worldZone: "temper-world-zone/clockwork-city",
   mapPositions: [{ mapFolder: "clockwork", mapTile: "clockwork_base", mapX: 0.4633, mapY: 0.5042 }],
+  createdAt: "2026-09-25T00:06:19.581Z",
+  updatedAt: "2026-09-25T00:06:22.000Z",
 } as const satisfies TemperWorldSkyshard

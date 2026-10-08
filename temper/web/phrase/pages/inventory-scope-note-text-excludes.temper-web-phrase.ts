@@ -5,4 +5,6 @@ export const inventoryScopeNoteTextExcludes = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-scope-note-text-excludes",
   title: "Excludes {parts} — {gold}.",
+  createdAt: "2026-09-27T11:40:29.113Z",
+  updatedAt: "2026-09-27T11:40:37.000Z",
 } as const satisfies TemperWebPhrase

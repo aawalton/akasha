@@ -7,4 +7,6 @@ export const watcherRunStatusCardNothingReadable = {
   title: "Temper cannot tell what the Watcher's last run did",
   description:
     "A report arrived, but nothing in it says what happened — either the Watcher had no work to do, or it is an older build that reports less than Temper now reads. Neither means it is broken, and neither confirms it is working.",
+  createdAt: "2026-09-27T11:40:22.896Z",
+  updatedAt: "2026-09-27T11:40:30.000Z",
 } as const satisfies TemperWebPhrase

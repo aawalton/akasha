@@ -11,4 +11,6 @@ export const solstice44615 = {
   mapPositions: [
     { mapFolder: "solstice", mapTile: "u48_overland_base", mapX: 0.7566, mapY: 0.6853 },
   ],
+  createdAt: "2026-09-25T00:10:00.014Z",
+  updatedAt: "2026-09-25T00:10:03.000Z",
 } as const satisfies TemperWorldSkyshard

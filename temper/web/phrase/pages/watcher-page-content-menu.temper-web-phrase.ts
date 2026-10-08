@@ -5,4 +5,6 @@ export const watcherPageContentMenu = {
   type: "page-type/temper-web-phrase",
   slug: "watcher-page-content-menu",
   title: "Main Menu → Add-Ons",
+  createdAt: "2026-09-27T11:48:55.692Z",
+  updatedAt: "2026-09-27T11:49:02.000Z",
 } as const satisfies TemperWebPhrase

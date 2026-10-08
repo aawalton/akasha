@@ -5,4 +5,6 @@ export const inventoryFilterBarArmorTraits = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-filter-bar-armor-traits",
   title: "Armor Traits",
+  createdAt: "2026-09-27T11:43:01.981Z",
+  updatedAt: "2026-09-27T11:43:09.000Z",
 } as const satisfies TemperWebPhrase

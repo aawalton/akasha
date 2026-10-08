@@ -5,4 +5,6 @@ export const keyboardShortcutsDataToggleExpandAll = {
   type: "page-type/temper-web-phrase",
   slug: "keyboard-shortcuts-data-toggle-expand-all",
   title: "Toggle expand/collapse all",
+  createdAt: "2026-09-27T11:31:15.521Z",
+  updatedAt: "2026-09-27T11:31:25.000Z",
 } as const satisfies TemperWebPhrase

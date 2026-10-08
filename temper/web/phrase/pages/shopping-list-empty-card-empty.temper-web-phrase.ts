@@ -6,4 +6,6 @@ export const shoppingListEmptyCardEmpty = {
   slug: "shopping-list-empty-card-empty",
   title: "Shopping list is empty",
   description: "Add items from the Companion tab to start building your shopping list.",
+  createdAt: "2026-09-27T11:38:40.450Z",
+  updatedAt: "2026-09-27T11:38:49.000Z",
 } as const satisfies TemperWebPhrase

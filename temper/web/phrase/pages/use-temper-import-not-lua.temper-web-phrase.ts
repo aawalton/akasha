@@ -5,4 +5,6 @@ export const useTemperImportNotLua = {
   type: "page-type/temper-web-phrase",
   slug: "use-temper-import-not-lua",
   title: "Please select a .lua file.",
+  createdAt: "2026-09-27T11:34:19.212Z",
+  updatedAt: "2026-09-27T11:34:29.000Z",
 } as const satisfies TemperWebPhrase

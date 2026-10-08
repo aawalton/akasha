@@ -11,4 +11,6 @@ export const imperialCity11602 = {
   mapPositions: [
     { mapFolder: "cyrodiil", mapTile: "imperialcity_base", mapX: 0.8396, mapY: 0.3816 },
   ],
+  createdAt: "2026-09-25T00:00:53.583Z",
+  updatedAt: "2026-09-25T00:00:56.000Z",
 } as const satisfies TemperWorldSkyshard

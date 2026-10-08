@@ -6,4 +6,6 @@ export const notificationsTabPerfTracingAbout = {
   slug: "notifications-tab-perf-tracing-about",
   title:
     "Outputs load time and saved variable size for each Temper addon when it finishes loading.",
+  createdAt: "2026-09-27T11:32:06.661Z",
+  updatedAt: "2026-09-27T11:32:18.000Z",
 } as const satisfies TemperWebPhrase

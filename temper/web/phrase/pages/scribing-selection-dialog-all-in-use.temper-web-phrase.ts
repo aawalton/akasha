@@ -5,4 +5,6 @@ export const scribingSelectionDialogAllInUse = {
   type: "page-type/temper-web-phrase",
   slug: "scribing-selection-dialog-all-in-use",
   title: "All grimoires are already in use",
+  createdAt: "2026-09-27T11:38:36.578Z",
+  updatedAt: "2026-09-27T11:38:46.000Z",
 } as const satisfies TemperWebPhrase

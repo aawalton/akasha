@@ -7,4 +7,6 @@ export const watcherBuildStatusCardStale = {
   title: "Watcher is running an older build{ago}",
   description:
     "Your Watcher last reported a different build than the one Temper now serves. It is meant to update itself automatically, so this usually means its update check cannot reach Temper. Restarting the Watcher makes it check again; if this persists, tell us — the cause is on our side more often than yours.",
+  createdAt: "2026-09-27T11:38:16.073Z",
+  updatedAt: "2026-09-27T11:38:23.000Z",
 } as const satisfies TemperWebPhrase

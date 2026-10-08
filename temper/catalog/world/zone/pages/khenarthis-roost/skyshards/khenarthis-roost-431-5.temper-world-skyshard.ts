@@ -18,4 +18,6 @@ export const khenarthisRoost4315 = {
     },
     { mapFolder: "auridon", mapTile: "mistral_base", mapX: 0.1479, mapY: 0.3446 },
   ],
+  createdAt: "2026-09-24T23:59:24.078Z",
+  updatedAt: "2026-09-24T23:59:27.000Z",
 } as const satisfies TemperWorldSkyshard

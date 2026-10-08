@@ -5,4 +5,6 @@ export const inventoryCompanionRulesPanelCollapseAll = {
   type: "page-type/temper-web-phrase",
   slug: "inventory-companion-rules-panel-collapse-all",
   title: "Collapse All",
+  createdAt: "2026-09-27T11:35:21.046Z",
+  updatedAt: "2026-09-27T11:35:28.000Z",
 } as const satisfies TemperWebPhrase

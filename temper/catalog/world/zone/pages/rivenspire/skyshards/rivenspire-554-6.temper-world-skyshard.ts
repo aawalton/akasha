@@ -18,4 +18,6 @@ export const rivenspire5546 = {
       placeKinds: [1],
     },
   ],
+  createdAt: "2026-09-25T00:03:32.066Z",
+  updatedAt: "2026-09-25T00:03:34.000Z",
 } as const satisfies TemperWorldSkyshard

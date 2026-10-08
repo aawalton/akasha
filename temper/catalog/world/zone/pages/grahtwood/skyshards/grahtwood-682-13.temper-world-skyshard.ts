@@ -18,4 +18,6 @@ export const grahtwood68213 = {
     },
     { mapFolder: "grahtwood", mapTile: "vindeathcave_base", mapX: 0.738, mapY: 0.746 },
   ],
+  createdAt: "2026-09-24T23:59:52.275Z",
+  updatedAt: "2026-09-24T23:59:55.000Z",
 } as const satisfies TemperWorldSkyshard

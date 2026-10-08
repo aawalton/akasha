@@ -5,4 +5,6 @@ export const itemTooltipPopoverView = {
   type: "page-type/temper-web-phrase",
   slug: "item-tooltip-popover-view",
   title: "View item tooltip",
+  createdAt: "2026-09-27T11:45:55.305Z",
+  updatedAt: "2026-09-27T11:46:02.000Z",
 } as const satisfies TemperWebPhrase

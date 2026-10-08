@@ -18,4 +18,6 @@ export const rivenspire5541 = {
     },
     { mapFolder: "rivenspire", mapTile: "shornhelm_base", mapX: 0.614, mapY: 0.804 },
   ],
+  createdAt: "2026-09-25T00:03:32.064Z",
+  updatedAt: "2026-09-25T00:03:34.000Z",
 } as const satisfies TemperWorldSkyshard

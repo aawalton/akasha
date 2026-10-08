@@ -5,4 +5,6 @@ export const versionHistoryDialogWaiting = {
   type: "page-type/temper-web-phrase",
   slug: "version-history-dialog-waiting",
   title: "Waiting for account...",
+  createdAt: "2026-09-27T11:37:06.395Z",
+  updatedAt: "2026-09-27T11:37:14.000Z",
 } as const satisfies TemperWebPhrase
