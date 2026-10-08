@@ -12,5 +12,4 @@ export const athena = {
   onCall: false,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "e7b43ca2-a8a6-438d-ad61-03369afdc533",
-  updatedAt: "2026-10-08T14:56:47.202Z",
 } as const satisfies Seat
