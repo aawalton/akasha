@@ -77,6 +77,30 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Rank #1 is the pole the star's spin points toward, by the right-hand rule.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Within a tier, rank alternates outward from the two poles, so the lowest ranks meet at the equator.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Odd-ranked towers fill the hemisphere around #1, and even-ranked ones the hemisphere around #2.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Higher tiers take the lowest numbers: central towers hold ranks 1 to 9,227,465.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Regional towers that are not central hold the next ranks, up to 225,851,433,717.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Local towers that are not regional hold the remaining ranks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Each tower is named for the word or concept its rank number means in the Builders' language.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -218,5 +242,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T20:53:32.521Z",
+  updatedAt: "2026-10-08T20:54:33.638Z",
 } as const satisfies Lore
