@@ -16,4 +16,6 @@ export const image11939fe490c37825 = {
   ],
   prompt:
     "Keep this exact woman: same face, freckles, eyes, lips, skin and hair. Change the scene around her. Fantasy photorealistic. Very fair skin, a light dusting of freckles across her nose and cheeks, sea-green eyes, sandy brows, a lean face with a slightly crooked mouth, chin-length strawberry-blonde hair, here damp and curling loosely after a swim, tousled. She wears a plain grey hooded sweatshirt with drawstrings, no jacket and no towel. She is sitting at a long wooden refectory table on a bench, seen from the waist up, holding a knife and fork over a plate heaped with roast beef, gravy and three Yorkshire puddings. She is looking down at her plate, not at the camera, cutting her beef, and the corner of her mouth is turned up very slightly in a small private smile. Behind her is a vast old stone dining hall with tall arched windows, dark wooden panelling and long tables crowded and blurred with students eating, warm and busy. Light: early afternoon daylight through the high windows, warm and golden, steam rising from the food. Camera: medium close-up, 85mm lens, eye level, shallow depth of field, the background softly blurred, she fills the frame, no other face in focus.",
+  createdAt: "2026-10-02T19:43:11.000Z",
+  updatedAt: "2026-10-02T19:43:11.000Z",
 } as const satisfies Image

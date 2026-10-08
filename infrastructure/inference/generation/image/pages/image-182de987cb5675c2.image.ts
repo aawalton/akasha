@@ -20,4 +20,6 @@ export const image182de987cb5675c2 = {
   ],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/tunic", "wardrobe-tag/armor"],
   ageTags: ["age-tag/age-35-44"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

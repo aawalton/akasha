@@ -16,4 +16,6 @@ export const image1b8fa7b4b426c613 = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Dominican with rich brown skin, short platinum-bleached buzz cut, gold hoops, toned athletic build, standing under a park sprinkler on a hot day, topless in cut-off denim shorts, arms out and face tipped up into the spray, laughing, droplets flying, low angle, backlit by bright afternoon sun making rainbows in the spray, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:28:42.863Z",
+  updatedAt: "2026-09-28T21:29:07.000Z",
 } as const satisfies Image

@@ -19,4 +19,6 @@ export const image0a6b1d95fefc42c0 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She sits cross-legged on a silver-blue blanket near a weeping willow in a park, a small wooden lap harp held upright against her chest, which it covers, plucking the strings and singing softly with her eyes closed and head tilted. A pale blue silk kimono robe hangs open and has slipped off both shoulders to her elbows, her shoulders and upper back bare, silver hoop earrings. Side profile camera at seated height, soft late-afternoon light filtering through the willow fronds. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:44:18.876Z",
+  updatedAt: "2026-09-28T19:44:56.000Z",
 } as const satisfies Image

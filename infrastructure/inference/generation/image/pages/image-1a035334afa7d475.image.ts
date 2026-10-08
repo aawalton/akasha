@@ -14,4 +14,6 @@ export const image1a035334afa7d475 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic photograph. Inside the adventurers' guild hall of a storybook canal city, a great two-storey timber hall, empty of people. Massive dark oak posts and beams hold up a high raftered roof, with high windows letting slanting afternoon sunbeams fall through dusty air. Down one long wall runs the quest board, the whole length of the hall, covered in pinned paper notices grouped under painted rank letters. Near the back stands the party board, a long rack of small black slates hanging on hooks with names chalked on them, and in the dim bottom corner the slates hang lower, older and greyer. A long registration desk with open ledgers, inkpots and a brass stamping press stands under a painted board, and a wide wooden staircase climbs to a gallery at the back. One plain door in the far wall is painted charcoal grey. Long benches and trestle tables, scuffed floorboards, a few dropped packs, mugs and a jug on a table. Warm, noisy-looking, lived-in, a little shabby. Wide shot from the entrance, 24mm lens, deep depth of field, warm golden light, rich wood detail, no people, no readable text.",
+  createdAt: "2026-10-04T09:25:07.718Z",
+  updatedAt: "2026-10-04T09:25:08.000Z",
 } as const satisfies Image

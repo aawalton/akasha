@@ -16,4 +16,6 @@ export const image129945c5ea14d2f9 = {
   ],
   prompt:
     "Keep this exact man unchanged: the same face, the same eyes, brows, nose, mouth, expression, skin, short dark buzzed hair and dark beard, the same head angle. Change only his clothes and the background: he wears a plain white linen shirt open at the collar, and stands against a plain dark warm-toned wall in soft warm lamplight. Head and shoulders, photorealistic photograph.",
+  createdAt: "2026-10-04T14:19:28.000Z",
+  updatedAt: "2026-10-04T14:19:28.000Z",
 } as const satisfies Image

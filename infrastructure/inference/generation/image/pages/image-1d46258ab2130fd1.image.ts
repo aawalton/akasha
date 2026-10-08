@@ -17,4 +17,6 @@ export const image1d46258ab2130fd1 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the place from the first image, the attic room, in front of the small scrap of mirror on the wall. The pink-haired woman from the second image stands in front of the little mirror, newly dressed, one hand pinning a small pink-and-white flower clip above her left ear, the other smoothing the front of her top flat, looking at her reflection with a shy, proud, slightly nervous smile. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs; slim build, small chest; she wears a cropped cream halter top laced up the front with a neat bow, a short sage-green skirt, a brown belt with pouches, fingerless leather gloves and tall brown boots. Soft early morning light from the round window. Three-quarter view from behind her shoulder so her face and the mirror both read, medium shot, 50mm lens, shallow depth of field.",
+  createdAt: "2026-10-04T09:49:21.599Z",
+  updatedAt: "2026-10-04T09:49:22.000Z",
 } as const satisfies Image

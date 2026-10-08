@@ -32,4 +32,6 @@ export const image1bc778d4e83e56d9 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/veil", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/historical"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:03.321Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

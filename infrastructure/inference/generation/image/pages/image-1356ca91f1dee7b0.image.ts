@@ -14,4 +14,6 @@ export const image1356ca91f1dee7b0 = {
   height: 1216,
   prompt:
     "photorealistic fantasy portrait, a single gorgeous young woman of twenty alone, framed from head to mid-thigh, strikingly beautiful like a fashion model, flawless luminous skin, delicate features, full soft pink lips, long lashes, a light dusting of freckles across her nose, a sweet innocent open smile, adorable and alluring at once. She is petite and slim with a slender waist, slim toned legs and a small perky chest. Big hazel-green eyes. Long strawberry-blonde curls loose over her shoulders. A short fitted sage-green sundress with thin straps and a sweetheart neckline, bare shoulders and legs, a leather adventurer's belt with a small pouch at her hip. Standing in a sunny flower-filled courtyard of a fantasy guild hall, warm golden light, soft bokeh.",
+  createdAt: "2026-10-03T12:52:51.538Z",
+  updatedAt: "2026-10-03T12:52:52.000Z",
 } as const satisfies Image

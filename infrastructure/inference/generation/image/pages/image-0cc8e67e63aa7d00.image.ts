@@ -31,4 +31,6 @@ export const image0cc8e67e63aa7d00 = {
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/weapons", "fantasy-tag/anime"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:08.791Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

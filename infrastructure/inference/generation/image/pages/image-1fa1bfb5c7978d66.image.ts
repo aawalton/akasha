@@ -16,4 +16,6 @@ export const image1fa1bfb5c7978d66 = {
   ],
   prompt:
     "Her face stays exactly as in the reference: a slim young woman of about twenty-five with pale fair skin, a light dusting of freckles across her nose and cheeks, clear blue-grey eyes, straight dark auburn brows, a small straight nose, soft full rose-pink lips, a heart-shaped face narrowing to a small chin, and long straight dark auburn-red hair worn loose with a side part.\nReplace the background with a black volcanic sand beach at the edge of a wild jungle island, surf breaking behind her, a smoking mountain in the far distance under a clear blue sky. Change her clothes to an oversized dark grey t-shirt slipping off one shoulder, loose black shorts over black leggings, barefoot. Change her pose: she is sitting in the sand with her knees drawn up, one arm around her knees, the other hand lifted in front of her, looking at it in confusion. Relight her with bright harsh tropical sunlight from above to match the beach. Keep her face, freckles and hair identical.",
+  createdAt: "2026-09-28T20:07:12.698Z",
+  updatedAt: "2026-09-28T20:07:13.000Z",
 } as const satisfies Image

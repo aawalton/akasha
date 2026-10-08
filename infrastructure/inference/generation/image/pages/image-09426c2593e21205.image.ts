@@ -5,4 +5,6 @@ export const image09426c2593e21205 = {
   type: "page-type/image",
   slug: "image-09426c2593e21205",
   title: "Otherwhere turn 1 — Z-Image scene in the cinematic style, before any swap",
+  createdAt: "2026-09-28T19:21:00.404Z",
+  updatedAt: "2026-09-28T19:21:07.000Z",
 } as const satisfies Image

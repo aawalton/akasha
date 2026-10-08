@@ -17,4 +17,6 @@ export const image19c82cd363e82088 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the place from the first image, the timber guild hall, at the plain door in its far wall, painted charcoal grey, beside the long quest board of pinned paper notices. The guildmaster, a grey-haired broad-shouldered East Asian woman in her fifties with a scar through one eyebrow, in a plain dark jerkin, stands with her hand flat on the charcoal door and looks down at the pink-haired woman from the second image, who stands beside her gripping the strap of her satchel, looking up at the door with nervous curiosity. A few adventurers in the background give the door a wide berth. The pink-haired woman: a gorgeous slim young Korean woman of about twenty, small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall boots, small leather satchel across her chest. Warm afternoon light slanting from high windows. Medium shot, 35mm lens, both faces clear, nothing lettered.",
+  createdAt: "2026-10-04T09:50:05.000Z",
+  updatedAt: "2026-10-04T09:50:05.000Z",
 } as const satisfies Image

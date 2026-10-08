@@ -11,4 +11,6 @@ export const image1a709d6143699a89 = {
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:52:08.476Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

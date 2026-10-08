@@ -18,4 +18,6 @@ export const image1d32c64a1dc313b8 = {
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/blue-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:50:54.283Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

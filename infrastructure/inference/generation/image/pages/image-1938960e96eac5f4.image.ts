@@ -27,4 +27,6 @@ export const image1938960e96eac5f4 = {
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/lingerie", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:12.747Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

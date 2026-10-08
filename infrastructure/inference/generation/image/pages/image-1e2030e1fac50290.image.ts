@@ -19,4 +19,6 @@ export const image1e2030e1fac50290 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. Caught candid mid-roll on a yellow-and-white striped towel on a sunny park lawn, she is rolling onto her side laughing helplessly, eyes squeezed shut, head thrown back, one arm clamped across her chest covering it. She wears only a loosened floral sarong knotted at her hip and a pink hibiscus flower tucked behind her ear; dandelion seed heads drift in the air around her. Wide shot from a little distance with the park around her, bright cheerful early-afternoon light. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:15:51.186Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

@@ -15,4 +15,6 @@ export const image1865bdce1f399c75 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:11.988Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

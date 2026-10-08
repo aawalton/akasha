@@ -16,4 +16,6 @@ export const image1a096b5da8307f24 = {
   ],
   prompt:
     "Keep this exact place. Fantasy photorealistic, candid photograph. The shore road along the Mere in summer sun, with nobody on it: a white dust road running between long purple rows of lavender rolling up the slope on the right, with fields of bright red poppies between them, and on the left tall green reed beds whispering beside the road, and beyond them the flat bright water of the Mere going all the way to the sky. The morning mist has burned off. Bees over the lavender. Warm bright mid-morning summer light, a clear sky. Nothing lettered. Wide shot along the road, 28mm lens, deep focus.",
+  createdAt: "2026-10-04T15:02:17.705Z",
+  updatedAt: "2026-10-04T15:02:18.000Z",
 } as const satisfies Image

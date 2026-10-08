@@ -14,4 +14,6 @@ export const image1112c591888c0b44 = {
   height: 1216,
   prompt:
     "fantasy photorealistic landscape, a steep humpbacked old stone packhorse bridge with a single high round arch over a slow green river, deep dark shadow beneath the arch, moss and ferns on the stones, a small crumbling toll house at one end, empty green meadows on both banks, willows along the water, soft summer morning light, no people, no animals, empty scene",
+  createdAt: "2026-10-06T11:50:19.565Z",
+  updatedAt: "2026-10-06T11:50:20.000Z",
 } as const satisfies Image

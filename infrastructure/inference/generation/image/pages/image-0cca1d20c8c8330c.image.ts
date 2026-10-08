@@ -14,4 +14,6 @@ export const image0cca1d20c8c8330c = {
   height: 1216,
   prompt:
     "fantasy photorealistic, a narrow three-storey house of old red brick with a painted blue front door, standing on a stone canal walk beside a green canal in a fantasy guild city, red and gold paper lanterns strung along the canal, an overgrown wild garden with poppies and an apple tree beside the house, south-facing window sills, soft morning sunlight, empty scene, no people",
+  createdAt: "2026-10-07T01:16:55.753Z",
+  updatedAt: "2026-10-07T01:16:56.000Z",
 } as const satisfies Image

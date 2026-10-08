@@ -23,4 +23,6 @@ export const image0e026e622f0673d7 = {
   fantasyTags: ["fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:08.048Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

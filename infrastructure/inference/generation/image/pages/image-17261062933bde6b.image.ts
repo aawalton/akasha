@@ -28,4 +28,6 @@ export const image17261062933bde6b = {
   fantasyTags: ["fantasy-tag/gothic"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-12T20:12:20.238Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

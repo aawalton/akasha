@@ -15,4 +15,6 @@ export const image17f59c7233925455 = {
   guidance: 1,
   width: 832,
   height: 1216,
+  createdAt: "2026-09-27T15:56:35.192Z",
+  updatedAt: "2026-09-27T16:09:59.000Z",
 } as const satisfies Image

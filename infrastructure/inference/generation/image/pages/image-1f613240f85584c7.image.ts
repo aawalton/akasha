@@ -22,4 +22,6 @@ export const image1f613240f85584c7 = {
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:08.046Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

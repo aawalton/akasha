@@ -11,4 +11,6 @@ export const image130197fa04787781 = {
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/topless", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:22.756Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

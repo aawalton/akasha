@@ -14,4 +14,6 @@ export const image08de3f3e2d1ca234 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, candid photograph. The great warm pool of the Copper Baths, with nobody in it: a great warm bathhouse pool tiled all over in every shade of green, steaming softly, under a high coppery-gold dome with long shafts of light falling through the steam from a lantern at its top. The water is green as a summer pond, still and clear, with green-tiled steps leading down into it at one end and a wide tiled walk round the edge. Wooden benches and folded white towels along the walls, copper lamps on brackets, arched doorways leading off to a changing room and a passage. Steam drifts over the surface. Warm, hushed, golden-green light. Nothing lettered. Wide interior shot from the end of the pool, 24mm lens, deep focus.",
+  createdAt: "2026-10-04T15:57:43.000Z",
+  updatedAt: "2026-10-04T15:57:43.000Z",
 } as const satisfies Image

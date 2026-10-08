@@ -16,4 +16,6 @@ export const image1916554b845502cc = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Italian with sun-kissed olive skin, shoulder-length chestnut waves, round tortoiseshell sunglasses, fit curvy-athletic build, reclining against the trunk of a plane tree on a striped deckchair set on the grass, nude but for a wide-brimmed black hat resting on her lap and a gold chain necklace, one arm draped behind her head, face turned up to the sun, eyes hidden by the sunglasses, full-length shot from a few meters away, warm dappled early-afternoon light, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:14:54.647Z",
+  updatedAt: "2026-09-28T21:15:16.000Z",
 } as const satisfies Image

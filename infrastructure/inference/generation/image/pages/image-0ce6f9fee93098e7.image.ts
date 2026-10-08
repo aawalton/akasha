@@ -22,4 +22,6 @@ export const image0ce6f9fee93098e7 = {
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/surreal"],
   ethnicityTags: ["ethnicity-tag/south-asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:10:21.092Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

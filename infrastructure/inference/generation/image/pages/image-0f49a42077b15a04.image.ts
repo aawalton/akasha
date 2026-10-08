@@ -14,4 +14,6 @@ export const image0f49a42077b15a04 = {
   ],
   poseTags: ["pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/fully-clothed"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:06.000Z",
 } as const satisfies Image

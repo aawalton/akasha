@@ -22,4 +22,6 @@ export const image1c9402116fbac3bb = {
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/shirt", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:03.324Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

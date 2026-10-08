@@ -12,4 +12,6 @@ export const image155e71ccc86fdd6b = {
   fantasyTags: ["fantasy-tag/antlers", "fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:28.034Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

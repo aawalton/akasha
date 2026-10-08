@@ -26,4 +26,6 @@ export const image0b3f06c83b9f56d5 = {
   ],
   ethnicityTags: ["ethnicity-tag/south-asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-08-17T13:09:00.827Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

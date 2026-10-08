@@ -11,4 +11,6 @@ export const image0e80df028dfa15b0 = {
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/hair-accessory"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:52:08.477Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const image113862623321fd80 = {
   height: 1216,
   prompt:
     "Candid photograph of a 23-year-old adult woman, very petite slim build, small perky breasts, toned flat stomach, fresh youthful grown woman's face, fair skin, long platinum blonde hair, wearing a classic black satin bunny suit corset cut very high on the hips, black sheer pantyhose, white satin bunny ears headband, white collar with black bow tie, white cuffs, fluffy white cottontail, black stiletto heels, leaning back against a velvet bar stool in a dim art deco casino lounge, sly inviting smile, warm amber lamplight, bokeh of gold lights, 35mm lens",
+  createdAt: "2026-10-05T18:01:58.334Z",
+  updatedAt: "2026-10-05T18:03:05.000Z",
 } as const satisfies Image

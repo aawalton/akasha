@@ -14,4 +14,6 @@ export const image0a9805e55c929c33 = {
   height: 832,
   prompt:
     "Fantasy photorealistic, sensual and elegant. One strikingly beautiful young woman of twenty-eight, a hotel concierge, stands behind a polished black marble reception desk, both hands folded one over the other on an open leather guest book. She is tall and slender with a small, nearly flat chest, flawless pale skin, high cheekbones, cool grey eyes and a red-painted mouth, glossy black hair in a sleek chignon, in a fitted black concierge's jacket buttoned high with a gold key pin. She looks level and unblinking straight at the viewer, perfectly composed, as though reading out terms from a card, not a flicker on her red mouth. Behind her brass pigeonholes and rows of old room keys glow in warm sconce light. Medium shot from across the desk at eye level, 50mm lens, shallow depth of field, the guest book's single handwritten line soft and unreadable, rich blacks and golds, gentle film grain.",
+  createdAt: "2026-09-28T14:11:14.584Z",
+  updatedAt: "2026-09-28T14:11:15.000Z",
 } as const satisfies Image
