@@ -31,5 +31,10 @@ export const seatVoiceLive = {
       decisionKind: "decision-kind/departure",
       statement: "A session that fails says why beside the box rather than going quiet.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The site's script policy loads no worklet, so the microphone is heard on the page.",
+    },
   ],
 } as const satisfies Module

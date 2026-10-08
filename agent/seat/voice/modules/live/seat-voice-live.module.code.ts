@@ -46,16 +46,7 @@ const HEARD_EVERY_SAMPLES = 1600
 
 const RECONNECTS = 3
 
-const HEARING = "seat-voice-heard"
-
-const WORKLET = `class Heard extends AudioWorkletProcessor {
-  process(inputs) {
-    const channel = inputs[0] && inputs[0][0]
-    if (channel) this.port.postMessage(channel.slice(0))
-    return true
-  }
-}
-registerProcessor("${HEARING}", Heard)`
+const HEARD_BLOCK = 4096
 
 function audioSessionAs(type: string): undefined {
   const said = (navigator as { audioSession?: { type: string } }).audioSession
@@ -244,12 +235,9 @@ export function useSeatVoice(
       live.stream = await navigator.mediaDevices.getUserMedia({
         audio: { echoCancellation: true, noiseSuppression: true, autoGainControl: true },
       })
-      const worklet = URL.createObjectURL(new Blob([WORKLET], { type: "text/javascript" }))
-      await context.audioWorklet.addModule(worklet)
-      URL.revokeObjectURL(worklet)
       if (live.ended) return
-      const node = new AudioWorkletNode(context, HEARING)
-      node.port.onmessage = (event: MessageEvent<Float32Array>) => heardFrom(live, event.data)
+      const node = context.createScriptProcessor(HEARD_BLOCK, 1, 1)
+      node.onaudioprocess = (event) => heardFrom(live, event.inputBuffer.getChannelData(0).slice())
       const quiet = context.createGain()
       quiet.gain.value = 0
       context.createMediaStreamSource(live.stream).connect(node)
