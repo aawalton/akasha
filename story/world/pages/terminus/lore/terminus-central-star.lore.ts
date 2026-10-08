@@ -1,0 +1,94 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const terminusCentralStar = {
+  id: "01a11cfd-26c2-763e-bb72-61924b9ce804",
+  type: "page-type/lore",
+  slug: "terminus-central-star",
+  title: "The Central Star",
+  world: "world/terminus",
+  about: "world/terminus",
+  facts: [
+    {
+      fact: "The star at the centre of The Terminus is an artificial quark star.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star is made of stable strange quark matter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star's mass is exactly d(184) Planck masses, about 2.25 solar masses.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star is only about 10 kilometres in radius.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star runs no fusion and holds an extremely stable configuration.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star has a sharp surface and conducts heat almost perfectly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star's total output is about 9.85 × 10^32 watts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star gives off mainly X-rays.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star's visible light output is about 68% of the Sun's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star sheds a great many neutrinos, which pass through almost everything.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Seen from the sphere, the central star is a tiny, intense point of light.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Looking at the central star safely takes a filter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star is a dimensional aperture opening onto a realm of magic.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The star's quark matter is what holds the dimensional aperture open.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The magic realm behind the aperture is about 1.14 billion kelvin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Raw magic leaves the star's surface at about 9.5 × 10^28 watts per square metre.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At the star's own surface the outward mana push is about 4.2 × 10^20 m/s².",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star's output of raw mana never varies.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Skilled observers can see the mana the central star gives off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The central star is the main energy source of The Terminus and the System's mana source.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+  createdAt: "2026-10-08T19:28:35.009Z",
+  updatedAt: "2026-10-08T19:28:35.009Z",
+} as const satisfies Lore
