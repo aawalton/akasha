@@ -38,6 +38,7 @@ export const CategoryRuleConditionsShape: z.ZodType<RuleConditions> = z
     questRelevant: z.enum(["quest-relevant", "not-quest-relevant"]).optional(),
     locked: z.enum(["locked", "not-locked"]).optional(),
     reconstructed: z.enum(["reconstructed", "not-reconstructed"]).optional(),
+    uncollected: z.enum(["uncollected", "collected"]).optional(),
     transmuted: z.enum(["transmuted", "not-transmuted"]).optional(),
     known: z.enum(["known", "not-known"]).optional(),
     canInspire: z.enum(["can-inspire", "cannot-inspire"]).optional(),

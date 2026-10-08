@@ -42,6 +42,7 @@ export function compileCategoryRuleToOrdered(rule: CategoryRule): CompiledOrdere
     if (c.questRelevant != null) entry.questRelevant = c.questRelevant
     if (c.locked != null) entry.locked = c.locked
     if (c.reconstructed != null) entry.reconstructed = c.reconstructed
+    if (c.uncollected != null) entry.uncollected = c.uncollected
     if (c.transmuted != null) entry.transmuted = c.transmuted
     if (c.known != null) entry.known = c.known
     if (c.canOpen != null) entry.canOpen = c.canOpen

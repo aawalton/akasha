@@ -16,6 +16,7 @@ export function checkFlags(
     rule.locked === undefined &&
     rule.reconstructed === undefined &&
     rule.transmuted === undefined &&
+    rule.uncollected === undefined &&
     rule.crafted === undefined
   ) {
     return { kind: "skip" }
@@ -114,6 +115,18 @@ export function checkFlags(
     }
     if (rule.transmuted === "not-transmuted" && facts.isTransmuted) {
       return { kind: "fail", conditionKind: "transmuted" }
+    }
+  }
+
+  if (rule.uncollected !== undefined) {
+    if (facts.isUncollected === undefined) {
+      return { kind: "indeterminate", conditionKind: "uncollected", missingSignal: "isUncollected" }
+    }
+    if (rule.uncollected === "uncollected" && !facts.isUncollected) {
+      return { kind: "fail", conditionKind: "uncollected" }
+    }
+    if (rule.uncollected === "collected" && facts.isUncollected) {
+      return { kind: "fail", conditionKind: "uncollected" }
     }
   }
 

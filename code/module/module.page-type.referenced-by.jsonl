@@ -5775,6 +5775,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/trait-actions/trait-actions.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/traits-filter/traits-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/transmuted-filter/transmuted-filter.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/uncollected-filter/uncollected-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/use-destination-context-builder/use-destination-context-builder.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/use-destination-types/use-destination-types.module.ts","typed":true,"deferred":false}

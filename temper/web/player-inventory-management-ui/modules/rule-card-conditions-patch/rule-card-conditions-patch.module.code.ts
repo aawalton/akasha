@@ -57,6 +57,7 @@ export function patchConditions(
     potionEffects?: readonly string[]
     potionEffectsMode?: "all" | "any"
     itemIds?: readonly number[]
+    uncollected?: "uncollected" | "collected"
   }
 ) {
   return buildConditions(
@@ -117,6 +118,7 @@ export function patchConditions(
     "stackFullness" in patch ? patch.stackFullness : current?.stackFullness,
     "potionEffects" in patch ? patch.potionEffects : current?.potionEffects,
     "potionEffectsMode" in patch ? patch.potionEffectsMode : current?.potionEffectsMode,
-    "itemIds" in patch ? patch.itemIds : current?.itemIds
+    "itemIds" in patch ? patch.itemIds : current?.itemIds,
+    "uncollected" in patch ? patch.uncollected : current?.uncollected
   )
 }

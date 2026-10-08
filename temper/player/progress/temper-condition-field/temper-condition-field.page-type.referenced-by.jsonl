@@ -48,6 +48,7 @@
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/target-quantity.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/traits.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/transmuted.temper-condition-field.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/uncollected.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/value-op.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/value.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/progress/temper-progress.domain.ts","id":"01a05fac-7582-726f-ac10-d5261c7e1f65"}

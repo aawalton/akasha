@@ -115,6 +115,7 @@
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/trait-actions/trait-actions.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/transmuted-filter/transmuted-filter.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/uncollected-filter/uncollected-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/value-filter/value-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/eval/modules/destination-resolve/destination-resolve.module.code.ts","typed":true,"deferred":false}

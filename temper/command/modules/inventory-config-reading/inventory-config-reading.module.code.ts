@@ -146,6 +146,7 @@ const COMPILED_ORDERED_RULE_SCHEMA = z
     crafted: z.enum(["crafted", "not-crafted"]).optional(),
     reconstructed: z.enum(["reconstructed", "not-reconstructed"]).optional(),
     transmuted: z.enum(["transmuted", "not-transmuted"]).optional(),
+    uncollected: z.enum(["uncollected", "collected"]).optional(),
     canOpen: z.literal("can-open").optional(),
     canGiveMaxRewards: z.literal("can-give-max-rewards").optional(),
     traits: luaArrayOrEmpty(z.string()).readonly().optional(),

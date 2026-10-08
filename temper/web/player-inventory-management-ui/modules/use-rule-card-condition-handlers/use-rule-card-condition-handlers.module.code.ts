@@ -110,6 +110,11 @@ export function useConditionHandlers(
     onUpdate(ruleId, { conditions: patchConditions(conditions, { transmuted }) })
   }
 
+  function handleUncollectedChange(value: string) {
+    const uncollected = value === "uncollected" || value === "collected" ? value : undefined
+    onUpdate(ruleId, { conditions: patchConditions(conditions, { uncollected }) })
+  }
+
   function handleKnownChange(value: string) {
     const known = value === "known" || value === "not-known" ? value : undefined
     onUpdate(ruleId, { conditions: patchConditions(conditions, { known }) })
@@ -321,6 +326,7 @@ export function useConditionHandlers(
     handleLockedChange,
     handleReconstructedChange,
     handleTransmutedChange,
+    handleUncollectedChange,
     handleKnownChange,
     handleCanInspireChange,
     handleCanUnlockChange,

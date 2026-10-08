@@ -95,6 +95,7 @@ export const temperItemsRulesCore = {
     "module/trait-actions",
     "module/traits-filter",
     "module/transmuted-filter",
+    "module/uncollected-filter",
     "module/use-destination-context-builder",
     "module/use-destination-resolver",
     "module/use-destination-types",

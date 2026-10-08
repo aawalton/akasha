@@ -35,6 +35,7 @@ const ITEM_PROPERTY_FILTER_IDS = new Set<string>([
   "locked",
   "reconstructed",
   "transmuted",
+  "uncollected",
   "known",
   "stack-fullness",
 ] satisfies ItemPropertyFilterId[])
@@ -79,6 +80,7 @@ interface RuleCardFilterChipProps {
     | "lockedValue"
     | "reconstructedValue"
     | "transmutedValue"
+    | "uncollectedValue"
     | "knownValue"
     | "stackFullnessValue"
     | "canInspireValue"
@@ -124,6 +126,7 @@ interface RuleCardFilterChipProps {
     | "handleLockedChange"
     | "handleReconstructedChange"
     | "handleTransmutedChange"
+    | "handleUncollectedChange"
     | "handleKnownChange"
     | "handleCanInspireChange"
     | "handleCanUnlockChange"

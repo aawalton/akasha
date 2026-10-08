@@ -37,6 +37,7 @@ function isUnconditional(rule: CategoryRule): boolean {
     rule.conditions?.crafted == null &&
     rule.conditions?.bound == null &&
     rule.conditions?.reconstructed == null &&
+    rule.conditions?.uncollected == null &&
     rule.conditions?.transmuted == null &&
     rule.conditions?.known == null &&
     rule.conditions?.canInspire == null &&

@@ -41,6 +41,7 @@ import { STOLEN_FILTER } from "akasha/temper/items/rules/core/modules/stolen-fil
 import { TARGET_QUANTITY_FILTER } from "akasha/temper/items/rules/core/modules/target-quantity-filter/target-quantity-filter.module.code.ts"
 import { TRAITS_FILTER } from "akasha/temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts"
 import { TRANSMUTED_FILTER } from "akasha/temper/items/rules/core/modules/transmuted-filter/transmuted-filter.module.code.ts"
+import { UNCOLLECTED_FILTER } from "akasha/temper/items/rules/core/modules/uncollected-filter/uncollected-filter.module.code.ts"
 import { VALUE_FILTER } from "akasha/temper/items/rules/core/modules/value-filter/value-filter.module.code.ts"
 
 export const INVENTORY_RULE_FILTERS: InventoryRuleFilter[] = [
@@ -57,6 +58,7 @@ export const INVENTORY_RULE_FILTERS: InventoryRuleFilter[] = [
   LOCKED_FILTER,
   RECONSTRUCTED_FILTER,
   TRANSMUTED_FILTER,
+  UNCOLLECTED_FILTER,
   KNOWN_FILTER,
   CAN_INSPIRE_FILTER,
   CAN_RESEARCH_FILTER,
@@ -101,6 +103,7 @@ export const FILTER_CONDITION_KEYS: Readonly<Record<FilterId, ConditionKey>> = {
   locked: "locked",
   reconstructed: "reconstructed",
   transmuted: "transmuted",
+  uncollected: "uncollected",
   known: "known",
   "can-inspire": "canInspire",
   "can-research": "canResearch",

@@ -16,6 +16,7 @@ export type ItemPropertyFilterId =
   | "locked"
   | "reconstructed"
   | "transmuted"
+  | "uncollected"
   | "known"
   | "stack-fullness"
 
@@ -38,6 +39,7 @@ export interface RuleCardFilterChipItemProps {
     | "lockedValue"
     | "reconstructedValue"
     | "transmutedValue"
+    | "uncollectedValue"
     | "knownValue"
     | "stackFullnessValue"
     | "traitOptions"
@@ -59,6 +61,7 @@ export interface RuleCardFilterChipItemProps {
     | "handleLockedChange"
     | "handleReconstructedChange"
     | "handleTransmutedChange"
+    | "handleUncollectedChange"
     | "handleKnownChange"
     | "handleStackFullnessChange"
     | "handleRemoveFilter"

@@ -92,6 +92,7 @@ export interface CategoryRule {
     questRelevant?: "quest-relevant" | "not-quest-relevant"
     locked?: "locked" | "not-locked"
     reconstructed?: "reconstructed" | "not-reconstructed"
+    uncollected?: "uncollected" | "collected"
     transmuted?: "transmuted" | "not-transmuted"
     known?: "known" | "not-known"
     canInspire?: "can-inspire" | "cannot-inspire"

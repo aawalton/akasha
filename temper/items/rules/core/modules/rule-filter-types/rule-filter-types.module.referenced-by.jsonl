@@ -37,6 +37,7 @@
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/target-quantity-filter/target-quantity-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/transmuted-filter/transmuted-filter.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/uncollected-filter/uncollected-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/value-filter/value-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chip/rule-card-filter-chip.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx","typed":true,"deferred":false}

@@ -15,5 +15,6 @@
 {"propertySlug":"import","fileName":"rule-filter-utils.module.code.ts","path":"temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-utils.module.code.ts","path":"temper/items/rules/core/modules/stolen-filter/stolen-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-utils.module.code.ts","path":"temper/items/rules/core/modules/transmuted-filter/transmuted-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rule-filter-utils.module.code.ts","path":"temper/items/rules/core/modules/uncollected-filter/uncollected-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-utils.module.code.ts","path":"temper/items/rules/core/modules/value-filter/value-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

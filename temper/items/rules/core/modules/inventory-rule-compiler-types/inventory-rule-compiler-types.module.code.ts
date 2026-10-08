@@ -95,6 +95,7 @@ export interface CompiledOrderedRule extends ResolvedEntry {
   stolen?: "stolen" | "not-stolen"
   crafted?: "crafted" | "not-crafted"
   reconstructed?: "reconstructed" | "not-reconstructed"
+  uncollected?: "uncollected" | "collected"
   transmuted?: "transmuted" | "not-transmuted"
   canOpen?: "can-open"
   canGiveMaxRewards?: "can-give-max-rewards"

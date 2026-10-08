@@ -22,6 +22,7 @@ export type FilterId =
   | "quest-relevant"
   | "locked"
   | "reconstructed"
+  | "uncollected"
   | "transmuted"
   | "known"
   | "can-inspire"

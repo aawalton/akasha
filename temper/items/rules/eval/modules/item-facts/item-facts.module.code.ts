@@ -32,6 +32,7 @@ export interface ItemFacts {
   readonly isLocked?: boolean
   readonly isReconstructed?: boolean
   readonly isTransmuted?: boolean
+  readonly isUncollected?: boolean
 
   readonly marketValue?: number
   readonly merchantValue?: number

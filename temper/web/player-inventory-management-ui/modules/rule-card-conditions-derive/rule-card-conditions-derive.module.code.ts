@@ -24,6 +24,7 @@ export function deriveConditionValues(conditions: CategoryRule["conditions"]) {
   const lockedValue = conditions?.locked ?? "locked"
   const reconstructedValue = conditions?.reconstructed ?? "reconstructed"
   const transmutedValue = conditions?.transmuted ?? "transmuted"
+  const uncollectedValue = conditions?.uncollected ?? "uncollected"
   const knownValue = conditions?.known ?? "known"
   const stackFullnessValue = conditions?.stackFullness ?? "full"
   const canInspireValue = conditions?.canInspire ?? "can-inspire"
@@ -94,6 +95,7 @@ export function deriveConditionValues(conditions: CategoryRule["conditions"]) {
     lockedValue,
     reconstructedValue,
     transmutedValue,
+    uncollectedValue,
     knownValue,
     stackFullnessValue,
     canInspireValue,

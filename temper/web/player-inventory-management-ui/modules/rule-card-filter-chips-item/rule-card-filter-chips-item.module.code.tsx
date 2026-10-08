@@ -51,6 +51,7 @@ export function RuleCardFilterChipItem({ id, state }: RuleCardFilterChipItemProp
       return <LockedChip state={state} />
     case "reconstructed":
     case "transmuted":
+    case "uncollected":
     case "known":
       return <ItemFlagChip id={id} state={state} />
     default:

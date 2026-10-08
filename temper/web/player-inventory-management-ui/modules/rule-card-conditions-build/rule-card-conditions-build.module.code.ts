@@ -58,7 +58,8 @@ export function buildConditions(
   stackFullness?: "full" | "partial",
   potionEffects?: readonly string[],
   potionEffectsMode?: "all" | "any",
-  itemIds?: readonly number[]
+  itemIds?: readonly number[],
+  uncollected?: "uncollected" | "collected"
 ) {
   const hasQuality = maxQuality != null
   const hasQualityOp = qualityOp != null && qualityOp !== "<="
@@ -106,6 +107,7 @@ export function buildConditions(
   const hasPotionEffects = potionEffects != null && potionEffects.length > 0
   const hasPotionEffectsMode = hasPotionEffects && potionEffectsMode != null
   const hasItemIds = itemIds != null && itemIds.length > 0
+  const hasUncollected = uncollected != null
   if (
     !hasQuality &&
     !hasQualityOp &&
@@ -150,7 +152,8 @@ export function buildConditions(
     !hasRequiredCurseState &&
     !hasStackFullness &&
     !hasPotionEffects &&
-    !hasItemIds
+    !hasItemIds &&
+    !hasUncollected
   )
     return undefined
   return {
@@ -199,5 +202,6 @@ export function buildConditions(
     ...(hasPotionEffects ? { potionEffects } : {}),
     ...(hasPotionEffectsMode ? { potionEffectsMode } : {}),
     ...(hasItemIds ? { itemIds } : {}),
+    ...(hasUncollected ? { uncollected } : {}),
   }
 }

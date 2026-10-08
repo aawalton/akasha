@@ -19,7 +19,7 @@ import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>
 
-type ItemFlagChipId = "reconstructed" | "transmuted" | "known"
+type ItemFlagChipId = "reconstructed" | "transmuted" | "uncollected" | "known"
 
 interface ItemFlagChipProps {
   id: ItemFlagChipId
@@ -27,9 +27,11 @@ interface ItemFlagChipProps {
     RuleCardState,
     | "reconstructedValue"
     | "transmutedValue"
+    | "uncollectedValue"
     | "knownValue"
     | "handleReconstructedChange"
     | "handleTransmutedChange"
+    | "handleUncollectedChange"
     | "handleKnownChange"
     | "handleRemoveFilter"
   >
@@ -39,9 +41,11 @@ export function ItemFlagChip({ id, state }: ItemFlagChipProps): ReactNode {
   const {
     reconstructedValue,
     transmutedValue,
+    uncollectedValue,
     knownValue,
     handleReconstructedChange,
     handleTransmutedChange,
+    handleUncollectedChange,
     handleKnownChange,
     handleRemoveFilter,
   } = state
@@ -83,6 +87,29 @@ export function ItemFlagChip({ id, state }: ItemFlagChipProps): ReactNode {
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("transmuted")}
+              removeLabel={remove}
+            >
+              <SelectValue />
+            </Badge>
+          </SelectTrigger>
+          <SelectContent>
+            {options.map((opt) => (
+              <SelectItem key={opt.value} value={opt.value}>
+                {opt.label}
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
+      )
+
+    case "uncollected":
+      return (
+        <Select value={uncollectedValue} onValueChange={handleUncollectedChange}>
+          <SelectTrigger hideChevron>
+            <Badge
+              variant="elevation-muted"
+              className="shrink-0"
+              onRemove={() => handleRemoveFilter("uncollected")}
               removeLabel={remove}
             >
               <SelectValue />
