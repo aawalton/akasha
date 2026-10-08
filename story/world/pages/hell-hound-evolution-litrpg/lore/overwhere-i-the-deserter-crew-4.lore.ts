@@ -9,6 +9,14 @@ export const overwhereITheDeserterCrew4 = {
   about: "lore/overwhere-i-the-deserter-crew",
   facts: [
     {
+      fact: "Under the overhang Voss's sack slumped over, spilling silver coins across the rock.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Each of Voss's men, Voss too, still wears his stamped tin levy tag on a cord at the neck.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
       fact: "Voss's sack holds the toll: 36 silver and 40 copper.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
@@ -127,5 +135,5 @@ export const overwhereITheDeserterCrew4 = {
     },
   ],
   createdAt: "2026-10-02T20:41:04.947Z",
-  updatedAt: "2026-10-04T13:43:55.000Z",
+  updatedAt: "2026-10-08T16:21:58.683Z",
 } as const satisfies Lore

@@ -354,13 +354,6 @@ export const overwhereITheDeserterCrew3 = {
       fact: "Voss lies dead on the stream bank below his overhang; his sack sits under the overhang.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
-    {
-      fact: "Under the overhang Voss's sack slumped over, spilling silver coins across the rock.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
-    },
-    {
-      fact: "Each of Voss's men, Voss too, still wears his stamped tin levy tag on a cord at the neck.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
-    },
   ],
+  updatedAt: "2026-10-08T16:21:58.683Z",
 } as const satisfies Lore
