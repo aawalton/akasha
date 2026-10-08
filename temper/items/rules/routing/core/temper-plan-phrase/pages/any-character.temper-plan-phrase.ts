@@ -7,4 +7,6 @@ export const anyCharacter = {
   title: "Any Character",
   key: "any-character",
   displayOrder: 3,
+  createdAt: "2026-09-27T11:55:38.110Z",
+  updatedAt: "2026-09-27T11:55:45.000Z",
 } as const satisfies TemperPlanPhrase

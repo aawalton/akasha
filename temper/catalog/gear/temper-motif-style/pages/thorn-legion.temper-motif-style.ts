@@ -9,4 +9,6 @@ export const thornLegion = {
   styleName: "Thorn Legion",
   collectionIndex: 75,
   sourceDescription: "Castle Thorn dungeon",
+  createdAt: "2026-05-24T13:57:27.773Z",
+  updatedAt: "2026-09-27T16:49:46.000Z",
 } as const satisfies TemperMotifStyle

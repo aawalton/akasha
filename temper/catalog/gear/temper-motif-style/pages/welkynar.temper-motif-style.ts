@@ -9,4 +9,6 @@ export const welkynar = {
   styleName: "Welkynar",
   collectionIndex: 53,
   sourceDescription: "Cloudrest trial",
+  createdAt: "2026-05-24T13:57:27.708Z",
+  updatedAt: "2026-09-27T16:45:10.000Z",
 } as const satisfies TemperMotifStyle

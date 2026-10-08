@@ -9,4 +9,6 @@ export const syrabanicMarine = {
   styleName: "Syrabanic Marine",
   collectionIndex: 96,
   sourceDescription: "Dreadsail Reef trial",
+  createdAt: "2026-05-24T13:57:27.835Z",
+  updatedAt: "2026-09-27T16:53:53.000Z",
 } as const satisfies TemperMotifStyle

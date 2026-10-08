@@ -7,4 +7,6 @@ export const skingradVedette = {
   title: "Skingrad Vedette",
   esoItemStyleId: 152,
   styleName: "Skingrad Vedette",
+  createdAt: "2026-09-27T17:11:44.192Z",
+  updatedAt: "2026-09-27T17:11:46.000Z",
 } as const satisfies TemperMotifStyle

@@ -7,4 +7,6 @@ export const racialImperial = {
   title: "Imperial",
   esoItemStyleId: 34,
   styleName: "Imperial",
+  createdAt: "2026-09-27T03:37:10.218Z",
+  updatedAt: "2026-09-27T12:44:26.000Z",
 } as const satisfies TemperMotifStyle

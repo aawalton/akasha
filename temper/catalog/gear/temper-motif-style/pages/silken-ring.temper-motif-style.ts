@@ -9,4 +9,6 @@ export const silkenRing = {
   styleName: "Silken Ring",
   collectionIndex: 31,
   sourceDescription: "Cradle of Shadows dungeon",
+  createdAt: "2026-05-24T13:57:27.651Z",
+  updatedAt: "2026-09-27T12:44:11.000Z",
 } as const satisfies TemperMotifStyle

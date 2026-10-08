@@ -10,4 +10,6 @@ export const theLady = {
   esoIconName: "constellation_lady",
   effects: [{ metric: "temper-metric/resistance", effectType: "integer", value: 2744 }],
   hashPlace: 3,
+  createdAt: "2026-09-26T20:33:58.497Z",
+  updatedAt: "2026-09-26T20:34:07.000Z",
 } as const satisfies TemperMundusStone

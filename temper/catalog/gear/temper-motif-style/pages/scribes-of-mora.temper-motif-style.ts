@@ -9,4 +9,6 @@ export const scribesOfMora = {
   styleName: "Scribes of Mora",
   collectionIndex: 103,
   sourceDescription: "Scrivener's Hall dungeon",
+  createdAt: "2026-05-24T13:57:27.856Z",
+  updatedAt: "2026-09-27T16:55:16.000Z",
 } as const satisfies TemperMotifStyle

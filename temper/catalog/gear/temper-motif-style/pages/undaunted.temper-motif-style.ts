@@ -7,4 +7,6 @@ export const undaunted = {
   title: "Undaunted",
   esoItemStyleId: 67,
   styleName: "Undaunted",
+  createdAt: "2026-09-27T17:09:53.735Z",
+  updatedAt: "2026-09-27T17:09:56.000Z",
 } as const satisfies TemperMotifStyle

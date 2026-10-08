@@ -9,4 +9,6 @@ export const yffresWill = {
   styleName: "Y'ffre's Will",
   collectionIndex: 99,
   sourceDescription: "Earthen Root Enclave dungeon",
+  createdAt: "2026-05-24T13:57:27.844Z",
+  updatedAt: "2026-09-27T16:54:30.000Z",
 } as const satisfies TemperMotifStyle

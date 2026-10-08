@@ -9,4 +9,6 @@ export const pyreWatch = {
   styleName: "Pyre Watch",
   collectionIndex: 68,
   sourceDescription: "Unhallowed Grave dungeon",
+  createdAt: "2026-05-24T13:57:27.751Z",
+  updatedAt: "2026-09-27T16:48:31.000Z",
 } as const satisfies TemperMotifStyle

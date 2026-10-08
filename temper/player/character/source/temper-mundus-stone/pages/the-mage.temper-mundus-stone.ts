@@ -10,4 +10,6 @@ export const theMage = {
   esoIconName: "constellation_mage",
   effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2023 }],
   hashPlace: 6,
+  createdAt: "2026-09-26T20:33:58.498Z",
+  updatedAt: "2026-09-26T20:34:07.000Z",
 } as const satisfies TemperMundusStone

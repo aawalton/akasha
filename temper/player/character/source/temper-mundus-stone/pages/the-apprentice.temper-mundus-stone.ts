@@ -10,4 +10,6 @@ export const theApprentice = {
   esoIconName: "constellation_apprentice",
   effects: [{ metric: "temper-metric/power-spell", effectType: "integer", value: 238 }],
   hashPlace: 1,
+  createdAt: "2026-09-26T20:33:58.497Z",
+  updatedAt: "2026-09-26T20:34:07.000Z",
 } as const satisfies TemperMundusStone

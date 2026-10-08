@@ -7,4 +7,6 @@ export const racialDarkElf = {
   title: "Dark Elf",
   esoItemStyleId: 4,
   styleName: "Dark Elf",
+  createdAt: "2026-09-27T03:37:10.218Z",
+  updatedAt: "2026-09-27T12:44:39.000Z",
 } as const satisfies TemperMotifStyle

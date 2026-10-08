@@ -6,4 +6,6 @@ export const hour2026091210 = {
   slug: "hour-2026-09-12-10",
   title: "2026-09-12 10:00 UTC",
   readings: "jsonl",
+  createdAt: "2026-09-12T10:51:40.516Z",
+  updatedAt: "2026-09-21T15:34:59.000Z",
 } as const satisfies TemperNetWorthHour

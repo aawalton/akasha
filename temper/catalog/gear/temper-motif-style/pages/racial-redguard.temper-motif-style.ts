@@ -7,4 +7,6 @@ export const racialRedguard = {
   title: "Redguard",
   esoItemStyleId: 2,
   styleName: "Redguard",
+  createdAt: "2026-09-27T03:37:10.218Z",
+  updatedAt: "2026-09-27T12:44:35.000Z",
 } as const satisfies TemperMotifStyle

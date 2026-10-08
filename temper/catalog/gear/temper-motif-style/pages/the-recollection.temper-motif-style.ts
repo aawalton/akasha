@@ -9,4 +9,6 @@ export const theRecollection = {
   styleName: "The Recollection",
   collectionIndex: 108,
   sourceDescription: "Oathsworn Pit dungeon",
+  createdAt: "2026-05-24T13:57:27.871Z",
+  updatedAt: "2026-09-27T16:56:05.000Z",
 } as const satisfies TemperMotifStyle

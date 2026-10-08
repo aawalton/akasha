@@ -9,4 +9,6 @@ export const refabricated = {
   styleName: "Refabricated",
   collectionIndex: 39,
   sourceDescription: "Halls of Fabrication trial",
+  createdAt: "2026-05-24T13:57:27.673Z",
+  updatedAt: "2026-09-27T16:43:39.000Z",
 } as const satisfies TemperMotifStyle

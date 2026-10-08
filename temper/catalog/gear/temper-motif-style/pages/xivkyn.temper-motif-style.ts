@@ -9,4 +9,6 @@ export const xivkyn = {
   styleName: "Xivkyn",
   collectionIndex: 8,
   sourceDescription: "Imperial City Trophy Vaults",
+  createdAt: "2026-05-24T13:57:27.600Z",
+  updatedAt: "2026-09-27T12:43:53.000Z",
 } as const satisfies TemperMotifStyle

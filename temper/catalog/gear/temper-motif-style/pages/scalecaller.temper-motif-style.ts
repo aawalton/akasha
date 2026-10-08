@@ -9,4 +9,6 @@ export const scalecaller = {
   styleName: "Scalecaller",
   collectionIndex: 46,
   sourceDescription: "Scalecaller Peak dungeon",
+  createdAt: "2026-05-24T13:57:27.689Z",
+  updatedAt: "2026-09-27T16:44:48.000Z",
 } as const satisfies TemperMotifStyle

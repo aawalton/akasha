@@ -10,4 +10,6 @@ export const theSerpent = {
   esoIconName: "constellation_serpent",
   effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 310 }],
   hashPlace: 8,
+  createdAt: "2026-09-26T20:33:58.498Z",
+  updatedAt: "2026-09-26T20:34:07.000Z",
 } as const satisfies TemperMundusStone

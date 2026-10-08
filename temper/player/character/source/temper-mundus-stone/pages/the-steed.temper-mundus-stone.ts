@@ -13,4 +13,6 @@ export const theSteed = {
     { metric: "temper-metric/movement-speed", effectType: "fractional-change", value: 0.1 },
   ],
   hashPlace: 10,
+  createdAt: "2026-09-26T20:33:58.498Z",
+  updatedAt: "2026-09-26T20:34:07.000Z",
 } as const satisfies TemperMundusStone

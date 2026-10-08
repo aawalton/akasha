@@ -7,4 +7,6 @@ export const tideBorn = {
   title: "Tide-Born",
   esoItemStyleId: 157,
   styleName: "Tide-Born",
+  createdAt: "2026-09-27T17:12:26.678Z",
+  updatedAt: "2026-09-27T17:12:28.000Z",
 } as const satisfies TemperMotifStyle

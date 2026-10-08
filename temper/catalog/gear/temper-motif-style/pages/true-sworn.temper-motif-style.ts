@@ -9,4 +9,6 @@ export const trueSworn = {
   styleName: "True-Sworn",
   collectionIndex: 84,
   sourceDescription: "Black Drake Villa dungeon",
+  createdAt: "2026-05-24T13:57:27.799Z",
+  updatedAt: "2026-09-27T16:51:44.000Z",
 } as const satisfies TemperMotifStyle

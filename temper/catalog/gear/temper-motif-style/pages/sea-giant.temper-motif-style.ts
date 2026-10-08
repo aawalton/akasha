@@ -9,4 +9,6 @@ export const seaGiant = {
   styleName: "Sea Giant",
   collectionIndex: 71,
   sourceDescription: "Kyne's Aegis trial",
+  createdAt: "2026-05-24T13:57:27.760Z",
+  updatedAt: "2026-09-27T16:49:09.000Z",
 } as const satisfies TemperMotifStyle

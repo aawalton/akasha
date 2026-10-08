@@ -7,4 +7,6 @@ export const voskronaGuardian = {
   title: "Voskrona Guardian",
   esoItemStyleId: 159,
   styleName: "Voskrona Guardian",
+  createdAt: "2026-09-27T17:12:47.054Z",
+  updatedAt: "2026-09-27T17:12:49.000Z",
 } as const satisfies TemperMotifStyle

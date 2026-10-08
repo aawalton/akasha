@@ -9,4 +9,6 @@ export const sulXan = {
   styleName: "Sul-Xan",
   collectionIndex: 89,
   sourceDescription: "Rockgrove trial",
+  createdAt: "2026-05-24T13:57:27.814Z",
+  updatedAt: "2026-09-27T16:52:45.000Z",
 } as const satisfies TemperMotifStyle

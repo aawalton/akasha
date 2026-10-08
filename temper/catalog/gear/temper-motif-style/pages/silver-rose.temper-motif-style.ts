@@ -9,4 +9,6 @@ export const silverRose = {
   styleName: "Silver Rose",
   collectionIndex: 91,
   sourceDescription: "Red Petal Bastion dungeon",
+  createdAt: "2026-05-24T13:57:27.820Z",
+  updatedAt: "2026-09-27T16:53:03.000Z",
 } as const satisfies TemperMotifStyle

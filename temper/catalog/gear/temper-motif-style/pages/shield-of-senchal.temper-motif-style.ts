@@ -13,4 +13,6 @@ export const shieldOfSenchal = {
     "temper-scribing-source/dlc-delve-dailies",
     "temper-scribing-source/dlc-world-boss-dailies",
   ],
+  createdAt: "2026-05-24T13:57:27.745Z",
+  updatedAt: "2026-09-27T16:48:11.000Z",
 } as const satisfies TemperMotifStyle

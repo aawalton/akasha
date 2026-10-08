@@ -9,4 +9,6 @@ export const stagsOfZen = {
   styleName: "Stags of Z'en",
   collectionIndex: 63,
   sourceDescription: "Lair of Maarselok dungeon",
+  createdAt: "2026-05-24T13:57:27.736Z",
+  updatedAt: "2026-09-27T16:47:24.000Z",
 } as const satisfies TemperMotifStyle

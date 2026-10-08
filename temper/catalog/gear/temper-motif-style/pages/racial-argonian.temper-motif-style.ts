@@ -7,4 +7,6 @@ export const racialArgonian = {
   title: "Argonian",
   esoItemStyleId: 6,
   styleName: "Argonian",
+  createdAt: "2026-09-27T03:37:10.218Z",
+  updatedAt: "2026-09-27T12:44:28.000Z",
 } as const satisfies TemperMotifStyle

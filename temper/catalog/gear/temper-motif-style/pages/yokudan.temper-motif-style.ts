@@ -9,4 +9,6 @@ export const yokudan = {
   styleName: "Yokudan",
   collectionIndex: 5,
   sourceDescription: "Craglorn daily quests",
+  createdAt: "2026-05-24T13:57:27.590Z",
+  updatedAt: "2026-09-27T12:43:51.000Z",
 } as const satisfies TemperMotifStyle

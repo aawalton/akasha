@@ -7,4 +7,6 @@ export const racialBreton = {
   title: "Breton",
   esoItemStyleId: 1,
   styleName: "Breton",
+  createdAt: "2026-09-27T03:37:10.218Z",
+  updatedAt: "2026-09-27T12:44:29.000Z",
 } as const satisfies TemperMotifStyle

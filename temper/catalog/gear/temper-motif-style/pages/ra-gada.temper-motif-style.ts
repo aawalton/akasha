@@ -9,4 +9,6 @@ export const raGada = {
   styleName: "Ra Gada",
   collectionIndex: 17,
   sourceDescription: "Craglorn enemies and containers",
+  createdAt: "2026-05-24T13:57:27.623Z",
+  updatedAt: "2026-09-27T12:44:00.000Z",
 } as const satisfies TemperMotifStyle
