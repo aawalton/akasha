@@ -43,7 +43,15 @@ export const questPort = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Nothing ports while the player is in combat or while recall is cooling down.",
+      statement: "Nothing ports while the player is in combat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A recall the cooldown only charges more for still ports, at the charged price.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A wayshrine is out of reach only while the game blocks recall outright.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -51,5 +59,5 @@ export const questPort = {
     },
   ],
   createdAt: "2026-10-08T14:55:08.172Z",
-  updatedAt: "2026-10-08T14:55:27.000Z",
+  updatedAt: "2026-10-08T16:21:36.217Z",
 } as const satisfies Module

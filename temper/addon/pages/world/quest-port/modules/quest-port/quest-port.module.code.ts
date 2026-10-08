@@ -134,10 +134,10 @@ function portTo(this: void, target: PortTarget, objective: string): undefined {
     return undefined
   }
   if (GetInteractionType() !== INTERACTION_FAST_TRAVEL) {
-    const [remain] = GetRecallCooldown()
-    if (remain > 0) {
+    const [, blockedFor] = GetRecallCooldown()
+    if (blockedFor > 0) {
       say(
-        `Recall is cooling down for ${Math.ceil(remain / 1000)}s, so ${target.name} is out of reach.`
+        `Recall is blocked for ${Math.ceil(blockedFor / 1000)}s, so ${target.name} is out of reach.`
       )
       return undefined
     }
