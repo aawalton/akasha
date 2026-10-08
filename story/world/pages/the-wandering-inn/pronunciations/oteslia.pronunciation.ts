@@ -6,7 +6,7 @@ export const oteslia = {
   slug: "oteslia",
   title: "Oteslia",
   world: "world/the-wandering-inn",
-  spokenAs: "Oh-tess-lia",
+  phonemes: "ˌOtˈɛsliə",
   createdAt: "2026-10-08T15:44:38.065Z",
-  updatedAt: "2026-10-08T15:44:38.065Z",
+  updatedAt: "2026-10-08T17:47:36.765Z",
 } as const satisfies Pronunciation

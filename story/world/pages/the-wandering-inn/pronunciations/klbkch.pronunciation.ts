@@ -7,6 +7,7 @@ export const klbkch = {
   title: "Klbkch",
   world: "world/the-wandering-inn",
   spokenAs: "Kilbkich",
+  phonemes: "kˈɪlbkɪʧ",
   createdAt: "2026-10-08T15:10:14.830Z",
-  updatedAt: "2026-10-08T15:10:14.830Z",
+  updatedAt: "2026-10-08T17:47:36.765Z",
 } as const satisfies Pronunciation
