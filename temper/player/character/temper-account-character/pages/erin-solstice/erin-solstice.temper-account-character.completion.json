@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHNIDgAABhxAkDE_tAxP7QMmC1DJgtIyYLQMmC0DJgtEGjtRBAq0QQKtJHkx2xEEx1ujIABurwAAABNhiwAAACGzoAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWR1bI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4MBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
+  "buildHash": "ATQHNIDgAABhxAkDE_tAxP7QMmC1DJgtIyYLQMmC0DJgtEGjtRBAq0QQKtJHkx2xEEx1ujIABurwAAABNjryRtlCGzoAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWR1bI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4MBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -1643,7 +1643,7 @@
             "name": "Flame Lash",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -1661,7 +1661,7 @@
             "name": "Cauterize",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -28279,6 +28279,6 @@
   "bankVisitDate": "2026-10-08",
   "inventoryCheck": {
     "date": "2026-10-08",
-    "misplaced": 106
+    "misplaced": 119
   }
 }
