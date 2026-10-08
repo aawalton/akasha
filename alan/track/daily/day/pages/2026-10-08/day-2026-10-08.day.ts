@@ -10,7 +10,7 @@ export const day20261008 = {
   nutritionPoints: 0,
   wisdomWords: 0,
   intelligenceTopics: 0,
-  inboxTasks: 18,
+  inboxTasks: 17,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 18,
   inboxTemperTasksClearedToday: false,
