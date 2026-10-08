@@ -6,13 +6,7 @@ export const emberAbsorbCommunityAddons = {
   slug: "ember-absorb-community-addons",
   domain: "domain/temper",
   persona: "persona/ember",
-  intentStack: [
-    {
-      statement: "What Combat Metrics does, temper-addon-combat does.",
-      workingMemory:
-        "Combat Metrics 1.7.8 is ESOUI file 1360. The markup, the art and the fonts match upstream. Left is seeing a recorded fight in the report: the rows, the bars, the graph and the menus.",
-    },
-  ],
+  intentStack: [],
   constraints: [
     "The interface of Pithka's Achievement Tracker in Temper is identical to the upstream interface.",
     "The interface of Combat Metrics in Temper is identical to the upstream interface.",
