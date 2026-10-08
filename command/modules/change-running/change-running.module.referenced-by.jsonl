@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-running.module.test-fixtures.ts","path":"command/modules/change-kind-running/change-kind-running.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.test-fixtures.ts","path":"command/modules/change-running/change-running.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.test-fixtures.ts","path":"command/pages/change/repeat/change-repeat.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

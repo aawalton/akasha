@@ -330,6 +330,7 @@ export function gathered(answers: readonly Answer[]): Answer {
 export type Reading = {
   readonly readersOweReading?: boolean
   readonly writerOwesReading?: boolean
+  readonly runsChecks?: boolean
   readonly readOid?: string
 }
 

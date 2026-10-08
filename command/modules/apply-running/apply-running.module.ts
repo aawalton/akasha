@@ -150,7 +150,7 @@ export const applyRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A fold runs every check.",
+      statement: "A fold runs every check unless every row it holds says its change runs none.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -207,4 +207,5 @@ export const applyRunning = {
       statement: "An apply waits for the memory a landing starts on before it folds anything.",
     },
   ],
+  updatedAt: "2026-10-08T15:46:35.521Z",
 } as const satisfies Module

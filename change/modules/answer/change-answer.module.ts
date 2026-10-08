@@ -35,6 +35,14 @@ export const changeAnswer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An edit states whether the change composing it runs the checks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An edit stating nothing there runs the checks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An edit may state the id of the body its writer read at its path.",
     },
     {
@@ -230,4 +238,5 @@ export const changeAnswer = {
       statement: "Nothing here reads the disk or writes to the disk.",
     },
   ],
+  updatedAt: "2026-10-08T15:46:35.521Z",
 } as const satisfies Module

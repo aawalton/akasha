@@ -50,6 +50,10 @@ import {
 } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
 import { underIts } from "akasha/command/modules/change-ceiling/change-ceiling.module.code.ts"
 import { commandPageAt } from "akasha/command/modules/change-costing/change-costing.module.code.ts"
+import {
+  checkedBy,
+  stamped,
+} from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
 import { draftFaults } from "akasha/command/modules/draft-length/draft-length.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { readStamped } from "akasha/command/modules/read-stamping/read-stamping.module.code.ts"
@@ -269,19 +273,6 @@ function kindOf(world: World, value: Value | null): Value | null {
   return slug === null ? null : world.index.pageAt(KIND_TYPE, slug)
 }
 
-export function stamped(said: Said, owed: boolean, owing: boolean): Said {
-  if (owed && owing) return said
-  return {
-    edits: said.edits.map((one) => ({
-      ...one,
-      ...(owed ? {} : { readersOweReading: false }),
-      ...(owing ? {} : { writerOwesReading: false }),
-    })),
-    refused: said.refused,
-    told: said.told,
-  }
-}
-
 function typeOf(world: World, slug: string): string | null {
   return world.index.pageAt(COMMAND_TYPE, slug) === null ? null : COMMAND_TYPE
 }
@@ -426,10 +417,11 @@ export async function changing(
   const kind = kindOf(world, stated)
   const owed = owedBy(kind)
   const owing = owingBy(kind)
+  const checked = checkedBy(kind)
   let paths = 0
   const answered = await appending(root, page, agentId, owing, async (one) =>
     underIts(slug, stated, async () => {
-      const made = stamped(await ranBy(one, held, passed), owed, owing)
+      const made = stamped(await ranBy(one, held, passed), owed, owing, checked)
       paths = new Set(made.edits.flatMap(pathsOf)).size
       return made
     })

@@ -10,7 +10,6 @@ import {
   owedBy,
   owingBy,
   pathsNamedBy,
-  stamped,
   textIn,
 } from "akasha/command/modules/change-running/change-running.module.code.ts"
 import {
@@ -25,7 +24,6 @@ import {
   drafting,
   draftingAndApplying,
   draftingAndMeasuring,
-  EDIT,
   givenIn,
   HELD,
   keptIn,
@@ -248,28 +246,10 @@ test("a change kind saying nothing there leaves its readers owing the reading", 
   expect(owedBy(null)).toBe(true)
 })
 
-test("a change owing its readers no reading stamps that on every edit it answers", () => {
-  const said = stamped(HELD, false, true)
-
-  expect(said.edits).toEqual([{ ...EDIT, readersOweReading: false }])
-})
-
-test("a change whose writer owes no reading stamps that on every edit it answers", () => {
-  const said = stamped(HELD, true, false)
-
-  expect(said.edits).toEqual([{ ...EDIT, writerOwesReading: false }])
-})
-
 test("a change kind saying its writer owes no reading is read as saying so", () => {
   expect(owingBy({ slug: "add-file", writerOwesReading: false })).toBe(false)
   expect(owingBy({ slug: "add-file", writerOwesReading: true })).toBe(true)
   expect(owingBy(null)).toBe(true)
-})
-
-test("a change owing its readers reading stamps nothing on the edits it answers", () => {
-  const said = stamped(HELD, true, true)
-
-  expect(said.edits).toEqual([EDIT])
 })
 
 test("a change whose kind owes its readers no reading stamps that on every row appended", async () => {

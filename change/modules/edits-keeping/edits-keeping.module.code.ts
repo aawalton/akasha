@@ -44,13 +44,15 @@ export function keptAt(page: string): string | null {
 }
 
 function owing(said: Record<string, unknown>): Reading | null {
-  const { readersOweReading, writerOwesReading, readOid } = said
+  const { readersOweReading, writerOwesReading, runsChecks, readOid } = said
   if (readersOweReading !== undefined && typeof readersOweReading !== "boolean") return null
   if (writerOwesReading !== undefined && typeof writerOwesReading !== "boolean") return null
+  if (runsChecks !== undefined && typeof runsChecks !== "boolean") return null
   if (readOid !== undefined && typeof readOid !== "string") return null
   return {
     ...(readersOweReading === undefined ? {} : { readersOweReading }),
     ...(writerOwesReading === undefined ? {} : { writerOwesReading }),
+    ...(runsChecks === undefined ? {} : { runsChecks }),
     ...(readOid === undefined ? {} : { readOid }),
   }
 }

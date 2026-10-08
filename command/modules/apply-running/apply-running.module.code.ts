@@ -64,7 +64,11 @@ function writtenAgainIn(root: string): ReadonlySet<string> {
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 
 export function runningOver(rows: readonly FileChange[]): Running {
-  return { ...CHANGED, writerOwesReading: rows.some((one) => one.writerOwesReading !== false) }
+  return {
+    ...CHANGED,
+    checks: rows.some((one) => one.runsChecks !== false),
+    writerOwesReading: rows.some((one) => one.writerOwesReading !== false),
+  }
 }
 
 const MEASURED_NAME = "akasha change apply"

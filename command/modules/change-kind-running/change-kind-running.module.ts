@@ -19,6 +19,14 @@ export const changeKindRunning = {
       statement: "A call with no change kind runs every check and owes every reading.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Every edit a change answers carries whether that change's kind runs the checks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A kind saying nothing of the checks runs them.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes into the checkout.",
     },
@@ -27,4 +35,5 @@ export const changeKindRunning = {
       statement: "No whole body is carried here.",
     },
   ],
+  updatedAt: "2026-10-08T15:46:35.521Z",
 } as const satisfies Module

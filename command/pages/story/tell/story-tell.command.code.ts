@@ -36,10 +36,8 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { noPageSaid } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
-import {
-  appending,
-  stamped,
-} from "akasha/command/modules/change-running/change-running.module.code.ts"
+import { stamped } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
+import { appending } from "akasha/command/modules/change-running/change-running.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   continued,

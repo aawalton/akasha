@@ -349,6 +349,21 @@ test("the writer owes a reading where any row a fold holds says the writer owes 
   expect(runningOver(rows).writerOwesReading).toBe(true)
 })
 
+test("a fold whose every row says its change runs no check runs none", () => {
+  const rows: readonly FileChange[] = [{ kind: "remove", path: ONE, runsChecks: false }]
+
+  expect(runningOver(rows).checks).toBe(false)
+})
+
+test("a fold runs every check where any row it holds says nothing of the checks", () => {
+  const rows: readonly FileChange[] = [
+    { kind: "remove", path: ONE, runsChecks: false },
+    { kind: "remove", path: TWO },
+  ]
+
+  expect(runningOver(rows).checks).toBe(true)
+})
+
 test("the fold hands the landing the running its rows state", async () => {
   const root = await repo()
   const row: FileChange = {

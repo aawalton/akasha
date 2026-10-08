@@ -275,6 +275,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/change-acting/change-acting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/change-acting/change-acting.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/change-ceiling/change-ceiling.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/change-kind-running/change-kind-running.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts","typed":false,"deferred":false}
