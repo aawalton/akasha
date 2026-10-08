@@ -25,7 +25,19 @@ export const terminusWeather = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A stable column of air rises from each collection tower.",
+      fact: "Air chilled by each tower sinks down the tower's sides in a steady column.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Warm air rises over the land between towers and flows high up toward the nearest tower.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Near the ground, chilled air flows outward from each tower toward the land between.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each tower drives a permanent overturning loop of air around itself.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -41,7 +53,7 @@ export const terminusWeather = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Most essence crystallization in the air happens in that lowest kilometre.",
+      fact: "No essence crystallizes in the open air; it crystallizes only inside the towers.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -77,7 +89,7 @@ export const terminusWeather = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Essence storms are massive, glowing crystallization events, often where spiral arms cross.",
+      fact: "Essence storms are massive, glowing surges of essence, often where spiral arms cross.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -120,10 +132,7 @@ export const terminusWeather = {
       fact: "Farmers use the rain the towers bring and grow crops in essence-enriched ground.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Buildings often work essence crystallization into their design.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Mana can change the weather, at a cost that grows with volume, size, duration and momentum.",
       knowers: ["lore-disclosure/game-master"],
@@ -138,5 +147,5 @@ export const terminusWeather = {
     },
   ],
   createdAt: "2026-10-08T19:31:28.301Z",
-  updatedAt: "2026-10-08T19:31:28.301Z",
+  updatedAt: "2026-10-08T22:07:49.104Z",
 } as const satisfies Lore

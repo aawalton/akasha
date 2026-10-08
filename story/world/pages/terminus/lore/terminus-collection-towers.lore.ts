@@ -161,6 +161,10 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Essence crystallizes only in the towers, so every tower is a gigantic cold sink.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Essence crystallization absorbs about 20 kW per square metre on average.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -282,5 +286,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T21:14:32.188Z",
+  updatedAt: "2026-10-08T22:07:49.104Z",
 } as const satisfies Lore
