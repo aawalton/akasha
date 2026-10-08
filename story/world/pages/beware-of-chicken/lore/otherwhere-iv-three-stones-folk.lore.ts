@@ -379,13 +379,6 @@ export const otherwhereIvThreeStonesFolk = {
       fact: "He would allow a hunt if the headman's house gets a share and the village a feast.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Around midday Headman Gu sits in his courtyard with the tax rolls and a pot of tea.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Granny Hua bars her door at night, and will not deal with anyone she has not seen by daylight.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
-    },
   ],
+  updatedAt: "2026-10-08T16:26:44.594Z",
 } as const satisfies Lore
