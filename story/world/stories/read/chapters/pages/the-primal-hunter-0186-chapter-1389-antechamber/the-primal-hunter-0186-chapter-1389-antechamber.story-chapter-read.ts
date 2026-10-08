@@ -20,4 +20,6 @@ export const thePrimalHunter0186Chapter1389Antechamber = {
         "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/4008007/chapter-1389-antechamber",
     },
   ],
+  createdAt: "2026-09-24T16:06:56.273Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

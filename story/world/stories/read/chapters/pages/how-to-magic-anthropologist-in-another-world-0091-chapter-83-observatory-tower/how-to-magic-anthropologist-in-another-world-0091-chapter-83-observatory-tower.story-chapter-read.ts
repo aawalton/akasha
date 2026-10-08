@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0091Chapter83ObservatoryTower
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3659261/chapter-83-observatory-tower",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

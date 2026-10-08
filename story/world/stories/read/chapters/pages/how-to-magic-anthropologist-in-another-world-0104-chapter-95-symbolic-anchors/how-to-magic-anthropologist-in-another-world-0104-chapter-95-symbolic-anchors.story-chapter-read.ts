@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0104Chapter95SymbolicAnchors 
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3864516/chapter-95-symbolic-anchors",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

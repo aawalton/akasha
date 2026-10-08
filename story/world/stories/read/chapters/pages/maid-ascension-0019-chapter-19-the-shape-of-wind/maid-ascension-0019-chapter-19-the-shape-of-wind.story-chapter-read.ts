@@ -20,4 +20,6 @@ export const maidAscension0019Chapter19TheShapeOfWind = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3260847/chapter-19-the-shape-of-wind",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

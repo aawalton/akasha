@@ -43,4 +43,6 @@ export const hollowmere0018TheLongPose = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-f754cadcf4e789c3", "image/image-bbb822a84ebf61d6"],
+  createdAt: "2026-10-03T00:13:10.042Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

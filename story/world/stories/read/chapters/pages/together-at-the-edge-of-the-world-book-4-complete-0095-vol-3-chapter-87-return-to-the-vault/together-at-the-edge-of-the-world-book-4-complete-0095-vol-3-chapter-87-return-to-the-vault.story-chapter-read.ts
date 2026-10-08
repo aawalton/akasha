@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0095Vol3Chapter87ReturnToTh
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2777461/vol-3-chapter-87-return-to-the-vault",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T22:04:44.000Z",
 } as const satisfies StoryChapterRead

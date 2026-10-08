@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0179Chapter179JustKeepSwimming = {
         "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3998878/chapter-179-just-keep-swimming",
     },
   ],
+  createdAt: "2026-09-22T20:08:24.756Z",
+  updatedAt: "2026-09-22T20:08:26.000Z",
 } as const satisfies StoryChapterRead

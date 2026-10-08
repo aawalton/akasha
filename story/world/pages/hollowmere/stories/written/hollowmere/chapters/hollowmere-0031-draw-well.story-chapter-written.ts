@@ -42,4 +42,6 @@ export const hollowmere0031DrawWell = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-2a05961b75ff1a26", "image/image-71f478324daf3ee6"],
+  createdAt: "2026-10-03T13:39:15.263Z",
+  updatedAt: "2026-10-04T09:39:54.000Z",
 } as const satisfies StoryChapterWritten

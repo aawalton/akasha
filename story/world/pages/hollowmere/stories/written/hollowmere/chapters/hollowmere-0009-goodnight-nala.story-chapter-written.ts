@@ -52,4 +52,6 @@ export const hollowmere0009GoodnightNala = {
     "image/image-cdf11fa6b384f60c",
     "image/image-1ae1d72d9abae353",
   ],
+  createdAt: "2026-10-02T20:29:33.800Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

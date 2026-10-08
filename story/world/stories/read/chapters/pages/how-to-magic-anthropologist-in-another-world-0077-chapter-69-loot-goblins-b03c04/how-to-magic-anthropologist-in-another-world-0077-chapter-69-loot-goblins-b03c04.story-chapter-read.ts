@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0077Chapter69LootGoblinsB03c0
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3433244/chapter-69-loot-goblins-b03c04",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.943Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

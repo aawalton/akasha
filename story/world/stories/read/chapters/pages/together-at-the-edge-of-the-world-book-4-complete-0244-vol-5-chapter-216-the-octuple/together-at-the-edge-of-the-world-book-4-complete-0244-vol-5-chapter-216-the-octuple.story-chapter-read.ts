@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0244Vol5Chapter216TheOctupl
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3804070/vol-5-chapter-216-the-octuple",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.205Z",
+  updatedAt: "2026-10-05T19:08:10.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0093Vol3Chapter85ACrisisAnd
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2771686/vol-3-chapter-85-a-crisis-and-a-revelation",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T22:04:44.000Z",
 } as const satisfies StoryChapterRead

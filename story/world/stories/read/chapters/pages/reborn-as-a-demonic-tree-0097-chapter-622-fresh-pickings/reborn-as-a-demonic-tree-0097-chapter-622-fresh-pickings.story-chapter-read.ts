@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0097Chapter622FreshPickings = {
         "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/4014049/chapter-622-fresh-pickings",
     },
   ],
+  createdAt: "2026-09-25T20:04:03.123Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

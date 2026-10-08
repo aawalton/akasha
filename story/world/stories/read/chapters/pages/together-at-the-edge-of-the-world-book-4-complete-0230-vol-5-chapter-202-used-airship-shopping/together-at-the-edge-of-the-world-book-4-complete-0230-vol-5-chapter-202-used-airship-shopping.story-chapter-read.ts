@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0230Vol5Chapter202UsedAirsh
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3657452/vol-5-chapter-202-used-airship-shopping",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T17:06:39.000Z",
 } as const satisfies StoryChapterRead

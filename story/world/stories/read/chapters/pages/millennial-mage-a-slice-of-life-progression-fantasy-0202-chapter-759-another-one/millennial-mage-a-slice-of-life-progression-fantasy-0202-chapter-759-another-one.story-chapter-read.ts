@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0202Chapter759AnotherOn
         "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/4082702/chapter-759-another-one",
     },
   ],
+  createdAt: "2026-10-07T12:06:57.458Z",
+  updatedAt: "2026-10-07T14:07:50.000Z",
 } as const satisfies StoryChapterRead

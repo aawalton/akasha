@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0172Vol4Chapter157StartingT
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3199452/vol-4-chapter-157-starting-the-race-at-the-finishing",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.238Z",
+  updatedAt: "2026-10-04T17:04:11.000Z",
 } as const satisfies StoryChapterRead

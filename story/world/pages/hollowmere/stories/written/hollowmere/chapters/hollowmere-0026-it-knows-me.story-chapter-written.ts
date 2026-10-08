@@ -56,4 +56,6 @@ export const hollowmere0026ItKnowsMe = {
     "image/image-6f91605a6358db9e",
     "image/image-6d23a36a37e25d74",
   ],
+  createdAt: "2026-10-03T12:15:44.314Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

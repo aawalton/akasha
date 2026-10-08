@@ -24,4 +24,6 @@ export const haremHotel0001CheckIn = {
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
+  createdAt: "2026-09-28T19:43:43.078Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

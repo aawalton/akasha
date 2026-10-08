@@ -19,4 +19,6 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage008484Loop2Part38 = {
         "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/4051547/84-loop-2-part-38",
     },
   ],
+  createdAt: "2026-10-03T04:05:41.276Z",
+  updatedAt: "2026-10-03T04:05:42.000Z",
 } as const satisfies StoryChapterRead

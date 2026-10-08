@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0023Chapter22MagicAndTheWin
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2538528/chapter-22-magic-and-the-winds-magic-in-the-bones",
     },
   ],
+  createdAt: "2026-09-30T07:14:57.841Z",
+  updatedAt: "2026-09-30T07:14:59.000Z",
 } as const satisfies StoryChapterRead

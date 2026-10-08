@@ -29,4 +29,6 @@ export const climb0002TheMasquerade = {
     "story-recorder/memory",
     "story-recorder/picture",
   ],
+  createdAt: "2026-10-01T21:38:29.901Z",
+  updatedAt: "2026-10-04T15:25:21.000Z",
 } as const satisfies StoryChapterWritten

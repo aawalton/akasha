@@ -20,4 +20,6 @@ export const maidAscension0021Chapter21ABreathOfWarmth = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3265404/chapter-21-a-breath-of-warmth",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

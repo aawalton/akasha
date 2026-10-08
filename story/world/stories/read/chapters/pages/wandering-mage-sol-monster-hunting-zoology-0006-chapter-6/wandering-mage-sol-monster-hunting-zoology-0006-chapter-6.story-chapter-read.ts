@@ -20,4 +20,6 @@ export const wanderingMageSolMonsterHuntingZoology0006Chapter6 = {
         "https://www.royalroad.com/fiction/191136/wandering-mage-sol-monster-hunting-zoology/chapter/3931034/chapter-6",
     },
   ],
+  createdAt: "2026-10-06T13:05:39.367Z",
+  updatedAt: "2026-10-06T13:05:40.000Z",
 } as const satisfies StoryChapterRead

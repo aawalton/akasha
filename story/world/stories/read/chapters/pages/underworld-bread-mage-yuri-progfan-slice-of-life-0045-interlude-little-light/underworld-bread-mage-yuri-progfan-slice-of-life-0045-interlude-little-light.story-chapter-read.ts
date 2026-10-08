@@ -19,4 +19,6 @@ export const underworldBreadMageYuriProgfanSliceOfLife0045InterludeLittleLight =
         "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/4007420/interlude-little-light",
     },
   ],
+  createdAt: "2026-09-24T14:07:15.819Z",
+  updatedAt: "2026-09-24T14:07:19.000Z",
 } as const satisfies StoryChapterRead

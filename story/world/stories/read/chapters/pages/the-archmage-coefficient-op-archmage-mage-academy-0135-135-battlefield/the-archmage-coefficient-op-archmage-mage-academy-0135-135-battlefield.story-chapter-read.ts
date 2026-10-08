@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0135135Battlefield = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/4009226/135-battlefield",
     },
   ],
+  createdAt: "2026-09-28T20:28:18.754Z",
+  updatedAt: "2026-09-28T20:28:19.000Z",
 } as const satisfies StoryChapterRead

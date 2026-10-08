@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0126Vol3Chapter118TheBetray
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2910723/vol-3-chapter-118-the-betrayal",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.936Z",
+  updatedAt: "2026-10-01T21:08:45.000Z",
 } as const satisfies StoryChapterRead

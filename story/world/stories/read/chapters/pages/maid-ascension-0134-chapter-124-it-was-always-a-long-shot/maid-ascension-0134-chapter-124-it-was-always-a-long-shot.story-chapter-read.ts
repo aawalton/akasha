@@ -20,4 +20,6 @@ export const maidAscension0134Chapter124ItWasAlwaysALongShot = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/4039258/chapter-124-it-was-always-a-long-shot",
     },
   ],
+  createdAt: "2026-09-30T20:06:51.418Z",
+  updatedAt: "2026-10-02T14:04:46.000Z",
 } as const satisfies StoryChapterRead

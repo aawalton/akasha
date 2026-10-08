@@ -20,4 +20,6 @@ export const maidAscension0113Chapter107OverlyCautiousMage = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3859960/chapter-107-overly-cautious-mage",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

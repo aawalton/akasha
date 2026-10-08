@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0099Chapter624SufferingInSilence = {
         "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/4039288/chapter-624-suffering-in-silence",
     },
   ],
+  createdAt: "2026-09-30T20:06:51.418Z",
+  updatedAt: "2026-10-02T01:04:48.000Z",
 } as const satisfies StoryChapterRead

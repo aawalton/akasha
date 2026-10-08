@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0148SideStory1HowWeUsedToLo
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3027455/side-story-1-how-we-used-to-look-at-each-other",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.237Z",
+  updatedAt: "2026-10-02T00:03:51.000Z",
 } as const satisfies StoryChapterRead

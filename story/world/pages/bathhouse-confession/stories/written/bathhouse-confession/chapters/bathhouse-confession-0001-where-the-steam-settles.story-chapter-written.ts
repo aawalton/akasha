@@ -13,4 +13,6 @@ export const bathhouseConfession0001WhereTheSteamSettles = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
+  createdAt: "2026-09-03T04:49:31.006Z",
+  updatedAt: "2026-10-03T19:19:24.000Z",
 } as const satisfies StoryChapterWritten

@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0144Chapter138Fault = {
         "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/4023485/chapter-138-fault",
     },
   ],
+  createdAt: "2026-09-27T19:05:24.214Z",
+  updatedAt: "2026-09-27T19:05:25.000Z",
 } as const satisfies StoryChapterRead

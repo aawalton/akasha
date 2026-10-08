@@ -61,4 +61,6 @@ export const fairweather0007TheFlowerCart = {
     "image/image-83612ea86c0448c4",
     "image/image-d2d6ac08eefd0274",
   ],
+  createdAt: "2026-10-04T14:36:57.478Z",
+  updatedAt: "2026-10-04T15:11:00.000Z",
 } as const satisfies StoryChapterWritten

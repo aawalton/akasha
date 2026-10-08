@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0141Vol3Chapter133TheBadGuy
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2977497/vol-3-chapter-133-the-bad-guy",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.937Z",
+  updatedAt: "2026-10-01T23:05:55.000Z",
 } as const satisfies StoryChapterRead

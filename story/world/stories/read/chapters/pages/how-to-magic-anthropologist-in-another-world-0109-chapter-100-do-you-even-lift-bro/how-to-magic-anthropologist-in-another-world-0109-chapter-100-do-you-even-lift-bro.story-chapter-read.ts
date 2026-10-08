@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0109Chapter100DoYouEvenLiftBr
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3945532/chapter-100-do-you-even-lift-bro",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.207Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const theGiftOfLoot0091Chapter91EnhancedGifts = {
         "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/4063595/chapter-91-enhanced-gifts",
     },
   ],
+  createdAt: "2026-10-05T18:05:16.410Z",
+  updatedAt: "2026-10-05T18:05:17.000Z",
 } as const satisfies StoryChapterRead

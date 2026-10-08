@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0242Vol5Chapter214PullingAt
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3781813/vol-5-chapter-214-pulling-at-strings",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T19:08:10.000Z",
 } as const satisfies StoryChapterRead

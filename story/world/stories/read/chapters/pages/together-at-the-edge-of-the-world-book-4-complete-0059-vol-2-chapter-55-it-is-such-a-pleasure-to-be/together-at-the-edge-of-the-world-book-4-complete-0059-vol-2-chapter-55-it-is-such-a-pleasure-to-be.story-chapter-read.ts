@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0059Vol2Chapter55ItIsSuchAP
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2658112/vol-2-chapter-55-it-is-such-a-pleasure-to-be-at",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.889Z",
+  updatedAt: "2026-09-30T07:15:05.000Z",
 } as const satisfies StoryChapterRead

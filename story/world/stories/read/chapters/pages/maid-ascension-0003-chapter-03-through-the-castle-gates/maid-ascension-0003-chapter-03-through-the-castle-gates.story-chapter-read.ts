@@ -20,4 +20,6 @@ export const maidAscension0003Chapter03ThroughTheCastleGates = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3223475/chapter-03-through-the-castle-gates",
     },
   ],
+  createdAt: "2026-09-28T20:27:46.969Z",
+  updatedAt: "2026-09-28T20:27:48.000Z",
 } as const satisfies StoryChapterRead

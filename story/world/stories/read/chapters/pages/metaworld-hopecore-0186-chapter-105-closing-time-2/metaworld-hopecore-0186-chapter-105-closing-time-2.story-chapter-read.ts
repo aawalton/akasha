@@ -20,4 +20,6 @@ export const metaworldHopecore0186Chapter105ClosingTime2 = {
         "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/4022202/chapter-105-closing-time-2",
     },
   ],
+  createdAt: "2026-09-27T13:04:09.763Z",
+  updatedAt: "2026-09-28T20:27:24.000Z",
 } as const satisfies StoryChapterRead

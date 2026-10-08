@@ -20,4 +20,6 @@ export const maidAscension0025Chapter25TheShapeOfKnowledge = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3282468/chapter-25-the-shape-of-knowledge",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

@@ -38,4 +38,6 @@ export const emberdeep0005TheDrownedHall = {
     "image/image-a4bfeb8fcee8d3d8",
     "image/image-e2d847515039eb0e",
   ],
+  createdAt: "2026-10-02T21:26:47.179Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

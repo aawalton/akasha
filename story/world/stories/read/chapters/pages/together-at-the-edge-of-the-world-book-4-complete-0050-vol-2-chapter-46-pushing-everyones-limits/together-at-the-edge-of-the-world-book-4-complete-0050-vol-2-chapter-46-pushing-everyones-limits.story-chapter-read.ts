@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0050Vol2Chapter46PushingEve
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2630353/vol-2-chapter-46-pushing-everyones-limits",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.888Z",
+  updatedAt: "2026-09-30T07:15:05.000Z",
 } as const satisfies StoryChapterRead

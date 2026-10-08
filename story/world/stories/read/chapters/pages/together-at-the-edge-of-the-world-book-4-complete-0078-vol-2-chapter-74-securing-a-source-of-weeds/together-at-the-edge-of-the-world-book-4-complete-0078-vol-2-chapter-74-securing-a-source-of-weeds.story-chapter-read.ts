@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0078Vol2Chapter74SecuringAS
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2728446/vol-2-chapter-74-securing-a-source-of-weeds",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T17:08:13.000Z",
 } as const satisfies StoryChapterRead

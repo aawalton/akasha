@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0214Vol4Chapter192Preparati
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3551902/vol-4-chapter-192-preparations",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T11:04:44.000Z",
 } as const satisfies StoryChapterRead

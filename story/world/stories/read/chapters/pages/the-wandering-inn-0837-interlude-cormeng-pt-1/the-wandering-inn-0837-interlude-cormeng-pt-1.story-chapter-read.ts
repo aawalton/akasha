@@ -17,4 +17,6 @@ export const theWanderingInn0837InterludeCormengPt1 = {
       externalLink: "https://wanderinginn.com/2026/10/03/interlude-cormeng-pt-1/",
     },
   ],
+  createdAt: "2026-10-07T13:43:10.968Z",
+  updatedAt: "2026-10-07T13:43:11.000Z",
 } as const satisfies StoryChapterRead

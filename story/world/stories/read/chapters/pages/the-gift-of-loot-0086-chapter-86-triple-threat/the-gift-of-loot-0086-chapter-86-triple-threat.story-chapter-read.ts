@@ -19,4 +19,6 @@ export const theGiftOfLoot0086Chapter86TripleThreat = {
         "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/4013578/chapter-86-triple-threat",
     },
   ],
+  createdAt: "2026-09-25T18:04:34.767Z",
+  updatedAt: "2026-09-25T18:04:37.000Z",
 } as const satisfies StoryChapterRead

@@ -42,4 +42,6 @@ export const emberdeep0002ChalkArrows = {
     "image/image-d5f677ce8b87acd3",
     "image/image-f632ba9a165f0a8c",
   ],
+  createdAt: "2026-10-02T18:49:41.403Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

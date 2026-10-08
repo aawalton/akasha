@@ -19,4 +19,6 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0091091Prodigy = {
         "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/4003869/091-prodigy",
     },
   ],
+  createdAt: "2026-09-28T07:03:55.000Z",
+  updatedAt: "2026-09-28T07:03:55.000Z",
 } as const satisfies StoryChapterRead

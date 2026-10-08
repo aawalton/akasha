@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0071Vol2Chapter67MyLoveTrum
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2698639/vol-2-chapter-67-my-love-trumpet",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.889Z",
+  updatedAt: "2026-09-30T08:06:43.000Z",
 } as const satisfies StoryChapterRead

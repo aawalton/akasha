@@ -20,4 +20,6 @@ export const theBookstore0006Chapter6Trespasser = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3253972/chapter-6-trespasser",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

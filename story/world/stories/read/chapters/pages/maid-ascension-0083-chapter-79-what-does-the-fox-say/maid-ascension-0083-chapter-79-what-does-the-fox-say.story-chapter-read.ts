@@ -20,4 +20,6 @@ export const maidAscension0083Chapter79WhatDoesTheFoxSay = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3632429/chapter-79-what-does-the-fox-say",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

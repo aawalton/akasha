@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0089Chapter81SkyElemental = {
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3628408/chapter-81-sky-elemental",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

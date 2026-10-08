@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0102Chapter627MonarchAscension = {
         "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/4084849/chapter-627-monarch-ascension",
     },
   ],
+  createdAt: "2026-10-07T20:06:10.392Z",
+  updatedAt: "2026-10-07T20:06:11.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0147Chapter147TheResponsibilityIsMi
         "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/4084081/chapter-147-the-responsibility-is-mine",
     },
   ],
+  createdAt: "2026-10-07T17:07:47.240Z",
+  updatedAt: "2026-10-07T17:07:48.000Z",
 } as const satisfies StoryChapterRead

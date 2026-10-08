@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0115EpilogueBook03 = {
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world-end/chapter/4049699/epilogue-book-03",
     },
   ],
+  createdAt: "2026-10-02T20:06:10.227Z",
+  updatedAt: "2026-10-03T22:05:10.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0047Chapter47LeadershipMeeting = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3363627/chapter-47-leadership-meeting",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

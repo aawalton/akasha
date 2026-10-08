@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0101Chapter93TheTasteOfMemori
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3814615/chapter-93-the-taste-of-memories",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

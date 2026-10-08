@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0070Chapter64AmbushAndAwakeni
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3273863/chapter-64-ambush-and-awakening-b02c33",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

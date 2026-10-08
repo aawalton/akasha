@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0136Chapter136Lyra = {
         "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3998365/chapter-136-lyra",
     },
   ],
+  createdAt: "2026-09-22T18:03:42.021Z",
+  updatedAt: "2026-09-22T18:03:43.000Z",
 } as const satisfies StoryChapterRead

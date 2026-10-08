@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0197Chapter755FullMeldi
         "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/4011788/chapter-755-full-melding",
     },
   ],
+  createdAt: "2026-09-25T12:07:32.487Z",
+  updatedAt: "2026-09-28T20:27:25.000Z",
 } as const satisfies StoryChapterRead

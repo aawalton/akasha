@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0173Vol4Chapter158TheSoupIs
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3210255/vol-4-chapter-158-the-soup-is-an-excuse",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.238Z",
+  updatedAt: "2026-10-04T17:04:11.000Z",
 } as const satisfies StoryChapterRead

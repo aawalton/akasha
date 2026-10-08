@@ -19,4 +19,6 @@ export const strayCatStrutStubbingNeverLol0786ChapterSixtyBobcatingAround = {
         "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/4084267/chapter-sixty-bobcating-around",
     },
   ],
+  createdAt: "2026-10-07T18:04:59.727Z",
+  updatedAt: "2026-10-07T18:05:00.000Z",
 } as const satisfies StoryChapterRead

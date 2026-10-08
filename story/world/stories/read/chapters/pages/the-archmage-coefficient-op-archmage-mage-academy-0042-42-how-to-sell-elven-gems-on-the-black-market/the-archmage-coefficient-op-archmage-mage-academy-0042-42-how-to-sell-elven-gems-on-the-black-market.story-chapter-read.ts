@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy004242HowToSellElvenGems
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3282843/42-how-to-sell-elven-gems-on-the-black-market",
     },
   ],
+  createdAt: "2026-09-28T20:28:08.182Z",
+  updatedAt: "2026-09-28T20:28:09.000Z",
 } as const satisfies StoryChapterRead

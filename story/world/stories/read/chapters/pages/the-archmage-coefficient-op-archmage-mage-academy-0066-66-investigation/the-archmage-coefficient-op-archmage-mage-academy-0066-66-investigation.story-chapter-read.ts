@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy006666Investigation = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3461991/66-investigation",
     },
   ],
+  createdAt: "2026-09-28T20:28:08.182Z",
+  updatedAt: "2026-09-28T20:28:09.000Z",
 } as const satisfies StoryChapterRead

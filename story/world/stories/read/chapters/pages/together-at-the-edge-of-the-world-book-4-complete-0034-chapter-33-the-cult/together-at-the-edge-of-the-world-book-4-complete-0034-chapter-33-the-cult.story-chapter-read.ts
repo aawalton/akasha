@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0034Chapter33TheCult = {
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2579215/chapter-33-the-cult",
     },
   ],
+  createdAt: "2026-09-30T07:14:57.841Z",
+  updatedAt: "2026-09-30T07:14:59.000Z",
 } as const satisfies StoryChapterRead

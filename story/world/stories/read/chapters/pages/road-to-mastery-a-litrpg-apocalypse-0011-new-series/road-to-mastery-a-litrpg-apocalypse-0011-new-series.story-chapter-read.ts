@@ -20,4 +20,6 @@ export const roadToMasteryALitrpgApocalypse0011NewSeries = {
         "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/4077449/new-series",
     },
   ],
+  createdAt: "2026-10-06T11:05:34.984Z",
+  updatedAt: "2026-10-06T12:06:16.000Z",
 } as const satisfies StoryChapterRead

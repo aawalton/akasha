@@ -20,4 +20,6 @@ export const theBookstore0003Chapter3TheBookstoreIii = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3232937/chapter-3-the-bookstore-iii",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

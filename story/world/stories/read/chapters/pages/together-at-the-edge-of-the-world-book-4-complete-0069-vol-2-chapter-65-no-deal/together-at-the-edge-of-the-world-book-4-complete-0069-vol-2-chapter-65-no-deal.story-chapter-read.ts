@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0069Vol2Chapter65NoDeal = {
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2693600/vol-2-chapter-65-no-deal",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.889Z",
+  updatedAt: "2026-09-30T08:06:43.000Z",
 } as const satisfies StoryChapterRead

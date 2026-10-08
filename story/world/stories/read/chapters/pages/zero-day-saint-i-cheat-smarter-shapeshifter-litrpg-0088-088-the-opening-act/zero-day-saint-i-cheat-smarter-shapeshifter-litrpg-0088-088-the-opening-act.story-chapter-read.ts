@@ -19,4 +19,6 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0088088TheOpeningAct = {
         "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/4000870/088-the-opening-act",
     },
   ],
+  createdAt: "2026-09-23T06:05:44.193Z",
+  updatedAt: "2026-09-23T06:05:48.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0110Vol3Chapter102TheBlueDe
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2838654/vol-3-chapter-102-the-blue-demon",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.935Z",
+  updatedAt: "2026-10-01T16:08:48.000Z",
 } as const satisfies StoryChapterRead

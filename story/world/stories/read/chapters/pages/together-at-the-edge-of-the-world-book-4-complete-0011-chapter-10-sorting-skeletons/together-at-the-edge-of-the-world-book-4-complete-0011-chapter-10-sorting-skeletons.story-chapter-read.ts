@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0011Chapter10SortingSkeleto
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2501924/chapter-10-sorting-skeletons",
     },
   ],
+  createdAt: "2026-09-30T07:14:57.840Z",
+  updatedAt: "2026-09-30T07:14:59.000Z",
 } as const satisfies StoryChapterRead

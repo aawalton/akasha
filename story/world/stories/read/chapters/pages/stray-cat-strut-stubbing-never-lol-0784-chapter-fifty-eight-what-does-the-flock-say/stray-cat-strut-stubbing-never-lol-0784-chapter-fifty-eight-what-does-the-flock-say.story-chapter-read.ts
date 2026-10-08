@@ -19,4 +19,6 @@ export const strayCatStrutStubbingNeverLol0784ChapterFiftyEightWhatDoesTheFlockS
         "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/4032492/chapter-fifty-eight-what-does-the-flock-say",
     },
   ],
+  createdAt: "2026-09-29T14:05:28.481Z",
+  updatedAt: "2026-09-29T14:05:29.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const thePrimalHunter0187Chapter1390DisparityAmongGeniuses = {
         "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/4012819/chapter-1390-disparity-among-geniuses",
     },
   ],
+  createdAt: "2026-09-25T16:03:43.147Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

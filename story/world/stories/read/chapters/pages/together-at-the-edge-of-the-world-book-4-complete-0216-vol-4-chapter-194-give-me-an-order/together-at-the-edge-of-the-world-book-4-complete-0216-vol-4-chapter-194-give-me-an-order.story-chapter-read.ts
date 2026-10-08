@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0216Vol4Chapter194GiveMeAnO
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3574327/vol-4-chapter-194-give-me-an-order",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T12:08:05.000Z",
 } as const satisfies StoryChapterRead

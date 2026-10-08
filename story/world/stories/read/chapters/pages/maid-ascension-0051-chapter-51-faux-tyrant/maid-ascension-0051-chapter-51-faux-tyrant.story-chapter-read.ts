@@ -20,4 +20,6 @@ export const maidAscension0051Chapter51FauxTyrant = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3383628/chapter-51-faux-tyrant",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.217Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0140Chapter140TwentyThree = {
         "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/4028876/chapter-140-twenty-three",
     },
   ],
+  createdAt: "2026-09-28T19:05:03.679Z",
+  updatedAt: "2026-09-28T19:05:05.000Z",
 } as const satisfies StoryChapterRead

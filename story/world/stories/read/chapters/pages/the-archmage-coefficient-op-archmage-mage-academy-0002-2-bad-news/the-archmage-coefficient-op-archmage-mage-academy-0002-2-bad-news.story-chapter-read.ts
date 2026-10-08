@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy00022BadNews = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3133366/2-bad-news",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

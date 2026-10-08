@@ -55,4 +55,6 @@ export const hollowmere0032Thursday = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-e4fb32d7fcd13804"],
+  createdAt: "2026-10-03T13:55:22.020Z",
+  updatedAt: "2026-10-06T10:18:49.000Z",
 } as const satisfies StoryChapterWritten

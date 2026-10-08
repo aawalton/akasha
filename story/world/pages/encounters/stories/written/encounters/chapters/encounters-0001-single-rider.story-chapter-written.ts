@@ -54,4 +54,6 @@ export const encounters0001SingleRider = {
     "image/image-36a2e1c307a08c4f",
     "image/image-edd47e868b9e2f8c",
   ],
+  createdAt: "2026-10-06T21:37:45.726Z",
+  updatedAt: "2026-10-07T22:54:19.000Z",
 } as const satisfies StoryChapterWritten

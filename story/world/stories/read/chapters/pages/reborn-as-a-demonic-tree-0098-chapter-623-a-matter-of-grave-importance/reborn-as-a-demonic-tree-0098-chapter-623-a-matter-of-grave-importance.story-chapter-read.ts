@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0098Chapter623AMatterOfGraveImportance = {
         "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/4028962/chapter-623-a-matter-of-grave-importance",
     },
   ],
+  createdAt: "2026-09-28T20:27:26.772Z",
+  updatedAt: "2026-09-28T21:07:52.000Z",
 } as const satisfies StoryChapterRead

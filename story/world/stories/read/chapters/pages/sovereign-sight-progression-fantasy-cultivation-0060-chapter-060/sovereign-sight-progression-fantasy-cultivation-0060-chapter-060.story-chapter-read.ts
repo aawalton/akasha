@@ -19,4 +19,6 @@ export const sovereignSightProgressionFantasyCultivation0060Chapter060 = {
   story: "story-read/sovereign-sight-progression-fantasy-cultivation",
   ownLength: 2281,
   prose: "txt",
+  createdAt: "2026-09-21T12:07:19.730Z",
+  updatedAt: "2026-09-21T16:25:31.000Z",
 } as const satisfies StoryChapterRead

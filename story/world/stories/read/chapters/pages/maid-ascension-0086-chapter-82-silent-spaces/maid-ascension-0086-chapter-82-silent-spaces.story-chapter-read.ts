@@ -20,4 +20,6 @@ export const maidAscension0086Chapter82SilentSpaces = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3654504/chapter-82-silent-spaces",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

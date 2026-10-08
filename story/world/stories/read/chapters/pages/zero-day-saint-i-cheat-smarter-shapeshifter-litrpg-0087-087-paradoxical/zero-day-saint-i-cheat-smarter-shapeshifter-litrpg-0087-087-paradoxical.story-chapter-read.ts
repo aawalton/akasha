@@ -19,4 +19,6 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0087087Paradoxical = {
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   ownLength: 2182,
   prose: "txt",
+  createdAt: "2026-09-21T06:07:34.527Z",
+  updatedAt: "2026-09-21T16:25:31.000Z",
 } as const satisfies StoryChapterRead

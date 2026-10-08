@@ -19,4 +19,6 @@ export const underworldBreadMageYuriProgfanSliceOfLife0048HiatusAnnouncement = {
         "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/4047775/hiatus-announcement",
     },
   ],
+  createdAt: "2026-10-02T14:04:45.419Z",
+  updatedAt: "2026-10-02T14:04:46.000Z",
 } as const satisfies StoryChapterRead

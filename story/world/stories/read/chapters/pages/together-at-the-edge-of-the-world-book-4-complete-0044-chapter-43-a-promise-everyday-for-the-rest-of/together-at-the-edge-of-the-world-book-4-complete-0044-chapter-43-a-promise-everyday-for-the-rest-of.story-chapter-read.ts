@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0044Chapter43APromiseEveryd
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2615241/chapter-43-a-promise-everyday-for-the-rest-of",
     },
   ],
+  createdAt: "2026-09-30T07:14:57.842Z",
+  updatedAt: "2026-09-30T07:14:59.000Z",
 } as const satisfies StoryChapterRead

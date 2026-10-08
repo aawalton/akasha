@@ -20,4 +20,6 @@ export const thePrimalHunter0188Chapter1391TwoSwordsOneBow = {
         "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/4027661/chapter-1391-two-swords-one-bow",
     },
   ],
+  createdAt: "2026-09-28T16:08:46.423Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

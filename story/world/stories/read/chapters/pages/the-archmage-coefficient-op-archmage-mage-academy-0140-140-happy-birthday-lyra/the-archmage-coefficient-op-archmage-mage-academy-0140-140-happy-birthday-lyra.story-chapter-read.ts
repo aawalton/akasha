@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0140140HappyBirthdayLyra
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/4050111/140-happy-birthday-lyra",
     },
   ],
+  createdAt: "2026-10-02T22:08:25.419Z",
+  updatedAt: "2026-10-03T22:05:10.000Z",
 } as const satisfies StoryChapterRead

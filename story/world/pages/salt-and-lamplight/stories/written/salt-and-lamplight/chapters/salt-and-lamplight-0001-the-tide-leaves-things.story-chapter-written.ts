@@ -46,4 +46,6 @@ export const saltAndLamplight0001TheTideLeavesThings = {
     "image/image-1015b6ccc3799933",
     "image/image-66d2d7a0e81a17db",
   ],
+  createdAt: "2026-10-02T14:30:47.201Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

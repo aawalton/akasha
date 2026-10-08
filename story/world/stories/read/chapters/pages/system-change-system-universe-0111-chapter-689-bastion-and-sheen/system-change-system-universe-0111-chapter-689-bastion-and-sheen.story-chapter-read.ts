@@ -20,4 +20,6 @@ export const systemChangeSystemUniverse0111Chapter689BastionAndSheen = {
         "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/4035050/chapter-689-bastion-and-sheen",
     },
   ],
+  createdAt: "2026-09-30T00:06:37.274Z",
+  updatedAt: "2026-10-02T15:07:02.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0022Chapter22InkAndIntent = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3268813/chapter-22-ink-and-intent",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

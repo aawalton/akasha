@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0143Vol3Chapter135TheLastFe
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2984341/vol-3-chapter-135-the-last-few-days",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.937Z",
+  updatedAt: "2026-10-02T00:03:51.000Z",
 } as const satisfies StoryChapterRead

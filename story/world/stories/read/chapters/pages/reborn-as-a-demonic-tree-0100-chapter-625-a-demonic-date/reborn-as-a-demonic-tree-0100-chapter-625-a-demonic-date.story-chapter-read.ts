@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0100Chapter625ADemonicDate = {
         "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/4050110/chapter-625-a-demonic-date",
     },
   ],
+  createdAt: "2026-10-02T22:08:25.418Z",
+  updatedAt: "2026-10-03T22:05:10.000Z",
 } as const satisfies StoryChapterRead

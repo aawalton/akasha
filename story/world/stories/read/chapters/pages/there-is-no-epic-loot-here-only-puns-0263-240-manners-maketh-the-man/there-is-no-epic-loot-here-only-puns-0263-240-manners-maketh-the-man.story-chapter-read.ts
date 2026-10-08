@@ -19,4 +19,6 @@ export const thereIsNoEpicLootHereOnlyPuns0263240MannersMakethTheMan = {
         "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/4017224/240-manners-maketh-the-man",
     },
   ],
+  createdAt: "2026-09-26T13:06:17.082Z",
+  updatedAt: "2026-09-26T13:06:18.000Z",
 } as const satisfies StoryChapterRead

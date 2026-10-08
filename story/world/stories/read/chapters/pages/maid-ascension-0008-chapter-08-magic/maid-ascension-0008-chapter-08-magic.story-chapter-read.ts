@@ -20,4 +20,6 @@ export const maidAscension0008Chapter08Magic = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3233594/chapter-08-magic",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.215Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

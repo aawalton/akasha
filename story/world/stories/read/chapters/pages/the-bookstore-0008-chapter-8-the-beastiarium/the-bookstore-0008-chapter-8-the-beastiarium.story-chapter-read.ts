@@ -20,4 +20,6 @@ export const theBookstore0008Chapter8TheBeastiarium = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3254443/chapter-8-the-beastiarium",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0001PrologueAndChapter1Last
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2488598/prologue-and-chapter-1-last-chances",
     },
   ],
+  createdAt: "2026-09-30T07:14:57.839Z",
+  updatedAt: "2026-10-05T21:31:19.000Z",
 } as const satisfies StoryChapterRead

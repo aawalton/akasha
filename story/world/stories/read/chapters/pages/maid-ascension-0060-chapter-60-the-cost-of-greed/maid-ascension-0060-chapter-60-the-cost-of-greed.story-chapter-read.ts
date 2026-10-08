@@ -20,4 +20,6 @@ export const maidAscension0060Chapter60TheCostOfGreed = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3454820/chapter-60-the-cost-of-greed",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const labyrinthOfTheMadGod0347Chapter67BloodlineLibrary = {
         "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/4013814/chapter-67-bloodline-library",
     },
   ],
+  createdAt: "2026-09-25T19:05:01.026Z",
+  updatedAt: "2026-09-25T19:05:02.000Z",
 } as const satisfies StoryChapterRead

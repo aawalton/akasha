@@ -20,4 +20,6 @@ export const metaworldHopecore0184VotingForArtVolume1AndVolume2 = {
         "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/4002493/voting-for-art-volume-1-and-volume-2",
     },
   ],
+  createdAt: "2026-09-23T14:05:23.542Z",
+  updatedAt: "2026-09-28T20:27:24.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0246Vol5Chapter218AMindShac
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3825250/vol-5-chapter-218-a-mind-shackled",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.205Z",
+  updatedAt: "2026-10-05T20:07:24.000Z",
 } as const satisfies StoryChapterRead

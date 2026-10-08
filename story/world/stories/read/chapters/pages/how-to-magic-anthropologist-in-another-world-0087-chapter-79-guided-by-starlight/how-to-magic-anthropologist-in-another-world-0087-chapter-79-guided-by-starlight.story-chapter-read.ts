@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0087Chapter79GuidedByStarligh
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3595731/chapter-79-guided-by-starlight",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.943Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0092Chapter84MelodyOfGossip =
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3677176/chapter-84-melody-of-gossip",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

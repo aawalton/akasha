@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0211Vol4Chapter189ItsGoingT
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3519105/vol-4-chapter-189-its-going-to-be-amazing",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T10:07:42.000Z",
 } as const satisfies StoryChapterRead

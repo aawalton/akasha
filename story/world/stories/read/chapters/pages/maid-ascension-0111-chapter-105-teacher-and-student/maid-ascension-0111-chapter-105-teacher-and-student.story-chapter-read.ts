@@ -20,4 +20,6 @@ export const maidAscension0111Chapter105TeacherAndStudent = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3839997/chapter-105-teacher-and-student",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

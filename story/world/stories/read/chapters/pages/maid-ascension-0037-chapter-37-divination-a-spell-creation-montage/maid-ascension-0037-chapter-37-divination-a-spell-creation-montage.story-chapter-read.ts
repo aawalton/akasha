@@ -20,4 +20,6 @@ export const maidAscension0037Chapter37DivinationASpellCreationMontage = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3321785/chapter-37-divination-a-spell-creation-montage",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

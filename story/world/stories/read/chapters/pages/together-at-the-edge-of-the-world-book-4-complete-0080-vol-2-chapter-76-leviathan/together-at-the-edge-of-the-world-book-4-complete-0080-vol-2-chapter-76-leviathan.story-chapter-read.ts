@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0080Vol2Chapter76Leviathan 
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2734461/vol-2-chapter-76-leviathan",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T18:05:14.000Z",
 } as const satisfies StoryChapterRead

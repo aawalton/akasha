@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0061Chapter433HollowHunger = {
         "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/4036352/chapter-433-hollow-hunger",
     },
   ],
+  createdAt: "2026-09-30T07:14:57.839Z",
+  updatedAt: "2026-10-02T01:04:48.000Z",
 } as const satisfies StoryChapterRead

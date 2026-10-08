@@ -20,4 +20,6 @@ export const maidAscension0030Chapter30TheShapeOfLiteracy = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3297883/chapter-30-the-shape-of-literacy",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

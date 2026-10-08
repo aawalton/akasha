@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0181Chapter181ReaperAvatar = {
         "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/4028642/chapter-181-reaper-avatar",
     },
   ],
+  createdAt: "2026-09-28T19:05:03.679Z",
+  updatedAt: "2026-09-28T19:05:05.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0062Vol2Chapter58ItStirs = 
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2670576/vol-2-chapter-58-it-stirs",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.889Z",
+  updatedAt: "2026-09-30T07:15:05.000Z",
 } as const satisfies StoryChapterRead

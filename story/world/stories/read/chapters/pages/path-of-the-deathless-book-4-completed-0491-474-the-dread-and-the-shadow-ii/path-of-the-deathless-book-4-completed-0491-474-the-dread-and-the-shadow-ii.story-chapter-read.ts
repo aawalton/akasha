@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0491474TheDreadAndTheShadowIi = {
         "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/4049407/474-the-dread-and-the-shadow-ii",
     },
   ],
+  createdAt: "2026-10-02T18:08:24.955Z",
+  updatedAt: "2026-10-02T18:08:27.000Z",
 } as const satisfies StoryChapterRead

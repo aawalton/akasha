@@ -50,4 +50,6 @@ export const hollowmere0028ImSayingIt = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-15e230e8bf1cfed2"],
+  createdAt: "2026-10-03T12:56:23.118Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy009595ExploringTheSilenc
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3686274/95-exploring-the-silence",
     },
   ],
+  createdAt: "2026-09-28T20:28:13.434Z",
+  updatedAt: "2026-09-28T20:28:14.000Z",
 } as const satisfies StoryChapterRead

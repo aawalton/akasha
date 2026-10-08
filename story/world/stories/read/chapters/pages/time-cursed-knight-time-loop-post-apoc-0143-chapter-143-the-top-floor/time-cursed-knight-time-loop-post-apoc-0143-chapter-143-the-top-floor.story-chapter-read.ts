@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0143Chapter143TheTopFloor = {
         "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/4044070/chapter-143-the-top-floor",
     },
   ],
+  createdAt: "2026-10-01T19:07:01.648Z",
+  updatedAt: "2026-10-01T19:07:02.000Z",
 } as const satisfies StoryChapterRead

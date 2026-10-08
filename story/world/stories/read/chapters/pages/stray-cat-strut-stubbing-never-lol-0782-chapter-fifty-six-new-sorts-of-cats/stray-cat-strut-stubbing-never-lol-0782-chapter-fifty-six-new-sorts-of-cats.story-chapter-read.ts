@@ -19,4 +19,6 @@ export const strayCatStrutStubbingNeverLol0782ChapterFiftySixNewSortsOfCats = {
         "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3999657/chapter-fifty-six-new-sorts-of-cats",
     },
   ],
+  createdAt: "2026-09-23T00:05:40.277Z",
+  updatedAt: "2026-09-23T00:05:44.000Z",
 } as const satisfies StoryChapterRead

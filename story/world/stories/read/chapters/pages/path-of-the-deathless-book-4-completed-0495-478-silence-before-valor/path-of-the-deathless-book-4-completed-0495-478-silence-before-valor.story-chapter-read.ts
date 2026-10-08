@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0495478SilenceBeforeValor = {
         "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/4084466/478-silence-before-valor",
     },
   ],
+  createdAt: "2026-10-07T18:04:59.727Z",
+  updatedAt: "2026-10-07T18:05:00.000Z",
 } as const satisfies StoryChapterRead

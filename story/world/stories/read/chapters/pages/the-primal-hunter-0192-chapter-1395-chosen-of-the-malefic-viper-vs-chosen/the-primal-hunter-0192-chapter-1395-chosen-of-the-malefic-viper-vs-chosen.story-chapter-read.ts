@@ -20,4 +20,6 @@ export const thePrimalHunter0192Chapter1395ChosenOfTheMaleficViperVsChosen = {
         "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/4048481/chapter-1395-chosen-of-the-malefic-viper-vs-chosen",
     },
   ],
+  createdAt: "2026-10-02T16:07:25.344Z",
+  updatedAt: "2026-10-03T20:06:55.000Z",
 } as const satisfies StoryChapterRead

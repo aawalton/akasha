@@ -51,4 +51,6 @@ export const hollowmere0010EveryWindowLitButOne = {
     "image/image-7a2d2ac535e3e235",
     "image/image-317da1036acb52a0",
   ],
+  createdAt: "2026-10-02T20:47:11.083Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

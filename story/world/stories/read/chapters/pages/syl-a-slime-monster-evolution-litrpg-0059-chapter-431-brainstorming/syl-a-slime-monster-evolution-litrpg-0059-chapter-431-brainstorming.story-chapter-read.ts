@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0059Chapter431Brainstorming = {
         "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/4000916/chapter-431-brainstorming",
     },
   ],
+  createdAt: "2026-09-23T07:05:14.118Z",
+  updatedAt: "2026-09-28T20:27:35.000Z",
 } as const satisfies StoryChapterRead

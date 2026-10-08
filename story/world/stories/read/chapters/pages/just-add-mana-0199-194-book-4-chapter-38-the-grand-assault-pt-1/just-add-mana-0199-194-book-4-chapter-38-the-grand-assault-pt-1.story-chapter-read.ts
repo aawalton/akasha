@@ -20,4 +20,6 @@ export const justAddMana0199194Book4Chapter38TheGrandAssaultPt1 = {
         "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/4053095/194-book-4-chapter-38-the-grand-assault-pt-1",
     },
   ],
+  createdAt: "2026-10-03T14:08:29.242Z",
+  updatedAt: "2026-10-03T23:04:50.000Z",
 } as const satisfies StoryChapterRead

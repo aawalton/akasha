@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0486469TreacheryIsFate = {
         "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/4018500/469-treachery-is-fate",
     },
   ],
+  createdAt: "2026-09-26T18:06:42.646Z",
+  updatedAt: "2026-09-26T18:06:45.000Z",
 } as const satisfies StoryChapterRead

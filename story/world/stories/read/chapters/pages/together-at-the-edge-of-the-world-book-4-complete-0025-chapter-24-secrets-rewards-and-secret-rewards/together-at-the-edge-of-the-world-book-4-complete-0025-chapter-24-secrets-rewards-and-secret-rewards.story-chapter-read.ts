@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0025Chapter24SecretsRewards
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2549304/chapter-24-secrets-rewards-and-secret-rewards",
     },
   ],
+  createdAt: "2026-09-30T07:14:57.841Z",
+  updatedAt: "2026-09-30T07:14:59.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0024Chapter24QuietWorkAndKitchenTalk = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3278261/chapter-24-quiet-work-and-kitchen-talk",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

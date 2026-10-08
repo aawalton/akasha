@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0141141TheDecision = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/4064541/141-the-decision",
     },
   ],
+  createdAt: "2026-10-05T22:08:15.815Z",
+  updatedAt: "2026-10-06T02:08:01.000Z",
 } as const satisfies StoryChapterRead

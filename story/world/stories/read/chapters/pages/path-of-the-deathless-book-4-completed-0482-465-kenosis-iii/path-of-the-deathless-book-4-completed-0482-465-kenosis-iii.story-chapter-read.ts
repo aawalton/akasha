@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0482465KenosisIii = {
         "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3998477/465-kenosis-iii",
     },
   ],
+  createdAt: "2026-09-22T18:03:41.866Z",
+  updatedAt: "2026-09-22T18:03:43.000Z",
 } as const satisfies StoryChapterRead

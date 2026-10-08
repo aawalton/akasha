@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0140Chapter134Cup = {
   story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   ownLength: 1969,
   prose: "txt",
+  createdAt: "2026-09-20T19:05:07.283Z",
+  updatedAt: "2026-09-21T16:25:31.000Z",
 } as const satisfies StoryChapterRead

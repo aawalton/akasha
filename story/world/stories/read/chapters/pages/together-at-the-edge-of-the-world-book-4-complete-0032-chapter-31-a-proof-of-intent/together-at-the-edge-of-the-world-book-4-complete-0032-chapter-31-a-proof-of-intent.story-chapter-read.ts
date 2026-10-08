@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0032Chapter31AProofOfIntent
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2573597/chapter-31-a-proof-of-intent",
     },
   ],
+  createdAt: "2026-09-30T07:14:57.841Z",
+  updatedAt: "2026-09-30T07:14:59.000Z",
 } as const satisfies StoryChapterRead

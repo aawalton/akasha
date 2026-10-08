@@ -49,4 +49,6 @@ export const saltAndLamplight0002HerMothersDress = {
     "image/image-a064327f737cebf0",
     "image/image-ded0e0900d66698e",
   ],
+  createdAt: "2026-10-02T14:59:29.994Z",
+  updatedAt: "2026-10-03T22:08:48.000Z",
 } as const satisfies StoryChapterWritten

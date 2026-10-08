@@ -20,4 +20,6 @@ export const theBookstore0011Chapter11AnElvenLady = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3259274/chapter-11-an-elven-lady",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.504Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

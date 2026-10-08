@@ -20,4 +20,6 @@ export const thePrimalHunter0185Chapter1388SharpenedFangs = {
         "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/4002974/chapter-1388-sharpened-fangs",
     },
   ],
+  createdAt: "2026-09-23T16:07:00.978Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

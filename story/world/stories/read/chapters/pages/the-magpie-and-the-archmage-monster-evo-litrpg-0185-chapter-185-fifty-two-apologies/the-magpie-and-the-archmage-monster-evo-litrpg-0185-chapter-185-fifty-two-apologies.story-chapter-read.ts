@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0185Chapter185FiftyTwoApolog
         "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/4010787/chapter-185-fifty-two-apologies",
     },
   ],
+  createdAt: "2026-09-25T07:06:33.888Z",
+  updatedAt: "2026-09-25T07:06:35.000Z",
 } as const satisfies StoryChapterRead

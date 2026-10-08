@@ -51,4 +51,6 @@ export const fairweather0003AGoatLantern = {
     "image/image-d9ae4ccbc458c7e7",
     "image/image-48db4289ca115285",
   ],
+  createdAt: "2026-10-04T01:44:47.437Z",
+  updatedAt: "2026-10-04T11:57:22.000Z",
 } as const satisfies StoryChapterWritten

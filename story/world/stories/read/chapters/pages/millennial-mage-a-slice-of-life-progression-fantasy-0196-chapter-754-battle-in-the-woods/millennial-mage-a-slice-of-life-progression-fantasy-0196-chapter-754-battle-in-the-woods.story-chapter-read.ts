@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0196Chapter754BattleInT
         "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/4001920/chapter-754-battle-in-the-woods",
     },
   ],
+  createdAt: "2026-09-23T12:05:25.727Z",
+  updatedAt: "2026-09-28T20:27:25.000Z",
 } as const satisfies StoryChapterRead

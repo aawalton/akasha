@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0082Vol2Chapter78TheBrutesW
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2745716/vol-2-chapter-78-the-brutes-way",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T19:04:57.000Z",
 } as const satisfies StoryChapterRead

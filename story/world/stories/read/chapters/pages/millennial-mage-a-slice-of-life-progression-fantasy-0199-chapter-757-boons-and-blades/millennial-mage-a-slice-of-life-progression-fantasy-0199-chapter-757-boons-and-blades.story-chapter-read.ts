@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0199Chapter757BoonsAndB
         "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/4037201/chapter-757-boons-and-blades",
     },
   ],
+  createdAt: "2026-09-30T12:08:31.737Z",
+  updatedAt: "2026-10-02T01:04:48.000Z",
 } as const satisfies StoryChapterRead

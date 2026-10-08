@@ -58,4 +58,6 @@ export const fairweather0011Moonpenny = {
     "image/image-8350fce824af53c5",
     "image/image-93fb769434cd8b01",
   ],
+  createdAt: "2026-10-06T11:49:26.648Z",
+  updatedAt: "2026-10-06T12:21:38.000Z",
 } as const satisfies StoryChapterWritten

@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0137Chapter137TheSignatures = {
         "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/4003406/chapter-137-the-signatures",
     },
   ],
+  createdAt: "2026-09-24T12:53:17.227Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0136Chapter126Incompatible = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/4054332/chapter-126-incompatible",
     },
   ],
+  createdAt: "2026-10-03T20:06:54.067Z",
+  updatedAt: "2026-10-04T01:06:26.000Z",
 } as const satisfies StoryChapterRead

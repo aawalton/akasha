@@ -19,4 +19,6 @@ export const systemGirlSystemMcWorldHoppingComedy0107Chapter106TheMagicalNurse =
         "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/4034824/chapter-106-the-magical-nurse",
     },
   ],
+  createdAt: "2026-09-29T23:04:34.688Z",
+  updatedAt: "2026-09-29T23:04:35.000Z",
 } as const satisfies StoryChapterRead

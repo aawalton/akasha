@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0113Vol3Chapter105TouristsA
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2853009/vol-3-chapter-105-tourists-and-schemers",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.935Z",
+  updatedAt: "2026-10-01T17:08:45.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0146Chapter146WeHaveAWar = {
         "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/4079437/chapter-146-we-have-a-war",
     },
   ],
+  createdAt: "2026-10-06T19:08:35.381Z",
+  updatedAt: "2026-10-06T19:08:36.000Z",
 } as const satisfies StoryChapterRead

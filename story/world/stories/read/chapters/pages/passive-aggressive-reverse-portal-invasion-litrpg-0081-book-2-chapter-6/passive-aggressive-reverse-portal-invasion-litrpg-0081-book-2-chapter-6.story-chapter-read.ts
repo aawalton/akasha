@@ -20,4 +20,6 @@ export const passiveAggressiveReversePortalInvasionLitrpg0081Book2Chapter6 = {
   story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
   ownLength: 1577,
   prose: "txt",
+  createdAt: "2026-09-22T10:04:16.021Z",
+  updatedAt: "2026-09-28T20:27:27.000Z",
 } as const satisfies StoryChapterRead

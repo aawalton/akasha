@@ -20,4 +20,6 @@ export const maidAscension0126Chapter116PseudoHealingGrimoire = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3969018/chapter-116-pseudo-healing-grimoire",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

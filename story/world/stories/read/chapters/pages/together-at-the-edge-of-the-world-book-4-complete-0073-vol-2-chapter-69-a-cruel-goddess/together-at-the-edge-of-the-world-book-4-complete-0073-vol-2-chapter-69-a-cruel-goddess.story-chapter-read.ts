@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0073Vol2Chapter69ACruelGodd
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2708484/vol-2-chapter-69-a-cruel-goddess",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.889Z",
+  updatedAt: "2026-09-30T10:08:28.000Z",
 } as const satisfies StoryChapterRead

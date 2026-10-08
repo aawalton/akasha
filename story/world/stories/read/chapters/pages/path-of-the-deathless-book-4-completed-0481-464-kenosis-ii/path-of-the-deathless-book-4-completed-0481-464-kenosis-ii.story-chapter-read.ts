@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0481464KenosisIi = {
   story: "story-read/path-of-the-deathless-book-4-completed",
   ownLength: 4547,
   prose: "txt",
+  createdAt: "2026-09-21T18:04:44.910Z",
+  updatedAt: "2026-09-21T18:04:47.000Z",
 } as const satisfies StoryChapterRead

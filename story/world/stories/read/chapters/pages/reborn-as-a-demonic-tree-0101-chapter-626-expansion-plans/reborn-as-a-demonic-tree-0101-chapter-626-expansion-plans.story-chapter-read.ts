@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0101Chapter626ExpansionPlans = {
         "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/4064104/chapter-626-expansion-plans",
     },
   ],
+  createdAt: "2026-10-05T20:07:23.739Z",
+  updatedAt: "2026-10-06T02:08:01.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy009292Mutiny = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3659703/92-mutiny",
     },
   ],
+  createdAt: "2026-09-28T20:28:13.434Z",
+  updatedAt: "2026-09-28T20:28:14.000Z",
 } as const satisfies StoryChapterRead

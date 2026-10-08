@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0102Vol3Chapter94PlanningFo
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2808834/vol-3-chapter-94-planning-for-a-trip-and-a-miracle",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.935Z",
+  updatedAt: "2026-10-01T01:05:43.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0046Chapter46ANightOfPrecautions = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3359275/chapter-46-a-night-of-precautions",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

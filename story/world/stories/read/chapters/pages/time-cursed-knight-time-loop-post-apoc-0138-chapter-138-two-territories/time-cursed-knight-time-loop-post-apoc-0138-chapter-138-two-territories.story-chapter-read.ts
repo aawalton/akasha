@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0138Chapter138TwoTerritories = {
         "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/4008492/chapter-138-two-territories",
     },
   ],
+  createdAt: "2026-09-24T18:03:39.229Z",
+  updatedAt: "2026-09-24T18:03:43.000Z",
 } as const satisfies StoryChapterRead

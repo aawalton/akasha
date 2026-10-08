@@ -20,4 +20,6 @@ export const maidAscension0092Chapter88ThroughTheRooftops = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3703345/chapter-88-through-the-rooftops",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

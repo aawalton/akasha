@@ -51,4 +51,6 @@ export const hollowmere0024NineHours = {
     "image/image-54ed4a9fa4c53dd1",
     "image/image-8509d30cde6185da",
   ],
+  createdAt: "2026-10-03T11:42:11.166Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

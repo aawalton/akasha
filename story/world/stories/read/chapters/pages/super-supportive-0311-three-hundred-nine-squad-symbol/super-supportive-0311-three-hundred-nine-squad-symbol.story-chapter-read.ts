@@ -20,4 +20,6 @@ export const superSupportive0311ThreeHundredNineSquadSymbol = {
         "https://www.royalroad.com/fiction/63759/super-supportive/chapter/4049570/three-hundred-nine-squad-symbol",
     },
   ],
+  createdAt: "2026-10-02T19:05:34.779Z",
+  updatedAt: "2026-10-03T21:05:41.000Z",
 } as const satisfies StoryChapterRead

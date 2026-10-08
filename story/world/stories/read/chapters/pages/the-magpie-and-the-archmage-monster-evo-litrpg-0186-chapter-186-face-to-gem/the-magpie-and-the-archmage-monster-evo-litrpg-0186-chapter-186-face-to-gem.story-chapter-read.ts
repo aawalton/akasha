@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0186Chapter186FaceToGem = {
         "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/4016241/chapter-186-face-to-gem",
     },
   ],
+  createdAt: "2026-09-26T07:06:29.458Z",
+  updatedAt: "2026-09-26T07:06:31.000Z",
 } as const satisfies StoryChapterRead

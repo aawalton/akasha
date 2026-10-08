@@ -20,4 +20,6 @@ export const maidAscension0082Chapter78DeafeningWaves = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3623292/chapter-78-deafening-waves",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

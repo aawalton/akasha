@@ -57,4 +57,6 @@ export const hollowmere0004TenDegrees = {
     "image/image-c75309434f028d86",
     "image/image-9baa680230eeecef",
   ],
+  createdAt: "2026-10-02T17:08:26.292Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

@@ -19,4 +19,6 @@ export const labyrinthOfTheMadGod0346Chapter66YarrensTale = {
   story: "story-read/labyrinth-of-the-mad-god",
   ownLength: 2873,
   prose: "txt",
+  createdAt: "2026-09-21T19:05:54.020Z",
+  updatedAt: "2026-09-21T19:05:56.000Z",
 } as const satisfies StoryChapterRead

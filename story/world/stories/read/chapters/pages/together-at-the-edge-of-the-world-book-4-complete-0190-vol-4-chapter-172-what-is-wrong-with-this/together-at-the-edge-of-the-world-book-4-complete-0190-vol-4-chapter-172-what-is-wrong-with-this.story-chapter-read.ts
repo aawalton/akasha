@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0190Vol4Chapter172WhatIsWro
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3340790/vol-4-chapter-172-what-is-wrong-with-this-town",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.239Z",
+  updatedAt: "2026-10-04T21:07:14.000Z",
 } as const satisfies StoryChapterRead

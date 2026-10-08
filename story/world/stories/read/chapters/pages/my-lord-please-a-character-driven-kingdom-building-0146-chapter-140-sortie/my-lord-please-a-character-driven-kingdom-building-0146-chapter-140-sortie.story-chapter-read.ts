@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0146Chapter140Sortie = {
         "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/4063850/chapter-140-sortie",
     },
   ],
+  createdAt: "2026-10-05T19:08:09.241Z",
+  updatedAt: "2026-10-05T19:08:10.000Z",
 } as const satisfies StoryChapterRead

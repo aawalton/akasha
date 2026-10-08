@@ -19,4 +19,6 @@ export const labyrinthOfTheMadGod0348Chapter68ImminentInvasion = {
         "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/4028682/chapter-68-imminent-invasion",
     },
   ],
+  createdAt: "2026-09-28T19:05:03.678Z",
+  updatedAt: "2026-09-28T19:05:05.000Z",
 } as const satisfies StoryChapterRead

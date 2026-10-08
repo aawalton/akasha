@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0110Chapter101CrisisManagemen
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3963872/chapter-101-crisis-management",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.207Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

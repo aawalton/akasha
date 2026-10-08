@@ -20,4 +20,6 @@ export const maidAscension0056Chapter56TrueSight = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3424010/chapter-56-true-sight",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.217Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

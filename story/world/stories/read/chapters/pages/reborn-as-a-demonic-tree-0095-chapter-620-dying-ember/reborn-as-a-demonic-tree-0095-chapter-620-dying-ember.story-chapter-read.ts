@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0095Chapter620DyingEmber = {
   story: "story-read/reborn-as-a-demonic-tree",
   ownLength: 2953,
   prose: "txt",
+  createdAt: "2026-09-21T20:03:29.961Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

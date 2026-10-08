@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0178Vol4Chapter162Ripples2 
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3247580/vol-4-chapter-162-ripples-2",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.239Z",
+  updatedAt: "2026-10-04T18:08:48.000Z",
 } as const satisfies StoryChapterRead

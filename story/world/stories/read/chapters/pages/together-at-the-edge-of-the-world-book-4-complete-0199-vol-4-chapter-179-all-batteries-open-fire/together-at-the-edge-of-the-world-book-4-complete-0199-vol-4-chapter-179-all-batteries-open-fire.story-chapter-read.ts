@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0199Vol4Chapter179AllBatter
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3413406/vol-4--chapter-179-all-batteries-open-fire",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.203Z",
+  updatedAt: "2026-10-04T23:07:44.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0188Vol4Chapter170TheWhiteF
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3324417/vol-4-chapter-170-the-white-freaks",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.239Z",
+  updatedAt: "2026-10-04T21:07:14.000Z",
 } as const satisfies StoryChapterRead

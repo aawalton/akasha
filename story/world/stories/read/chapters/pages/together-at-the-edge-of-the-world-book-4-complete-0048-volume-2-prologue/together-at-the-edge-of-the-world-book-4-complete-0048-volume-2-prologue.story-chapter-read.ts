@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0048Volume2Prologue = {
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2625125/volume-2-prologue",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.888Z",
+  updatedAt: "2026-09-30T07:15:05.000Z",
 } as const satisfies StoryChapterRead

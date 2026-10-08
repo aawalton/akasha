@@ -11,4 +11,6 @@ export const anthology0002Aelwyn = {
   unit: "unit/words",
   prose: "txt",
   beats: "jsonl",
+  createdAt: "2026-09-03T04:49:31.007Z",
+  updatedAt: "2026-10-03T20:17:10.000Z",
 } as const satisfies StoryChapterWritten

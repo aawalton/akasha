@@ -20,4 +20,6 @@ export const maidAscension0137Chapter127ProblemSolved = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/4064079/chapter-127-problem-solved",
     },
   ],
+  createdAt: "2026-10-05T20:07:23.739Z",
+  updatedAt: "2026-10-06T02:08:01.000Z",
 } as const satisfies StoryChapterRead

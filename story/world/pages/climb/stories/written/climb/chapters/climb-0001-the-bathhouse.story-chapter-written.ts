@@ -27,4 +27,6 @@ export const climb0001TheBathhouse = {
     "story-recorder/picture",
     "story-recorder/memory",
   ],
+  createdAt: "2026-10-01T21:22:23.415Z",
+  updatedAt: "2026-10-04T15:25:21.000Z",
 } as const satisfies StoryChapterWritten

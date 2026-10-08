@@ -136,4 +136,6 @@ export const fairweather0001TheLeftovers = {
     "image/image-0236d30ee6783441",
     "image/image-250419a115b409bc",
   ],
+  createdAt: "2026-10-04T00:36:34.822Z",
+  updatedAt: "2026-10-04T14:11:16.000Z",
 } as const satisfies StoryChapterWritten

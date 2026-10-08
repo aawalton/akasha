@@ -56,4 +56,6 @@ export const hollowmere0005Five = {
     "image/image-8d2d55abf86d7ad7",
     "image/image-6f7322f38fab6d66",
   ],
+  createdAt: "2026-10-02T17:33:54.309Z",
+  updatedAt: "2026-10-03T18:40:48.000Z",
 } as const satisfies StoryChapterWritten

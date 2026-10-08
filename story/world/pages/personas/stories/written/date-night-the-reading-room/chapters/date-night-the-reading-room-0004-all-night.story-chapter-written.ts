@@ -11,4 +11,6 @@ export const dateNightTheReadingRoom0004AllNight = {
   unit: "unit/words",
   prose: "txt",
   beats: "jsonl",
+  createdAt: "2026-09-28T12:54:58.561Z",
+  updatedAt: "2026-10-03T20:29:24.000Z",
 } as const satisfies StoryChapterWritten

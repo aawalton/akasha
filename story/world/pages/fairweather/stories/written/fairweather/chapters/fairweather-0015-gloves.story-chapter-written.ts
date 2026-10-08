@@ -58,4 +58,6 @@ export const fairweather0015Gloves = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-e12a0a73adad69f6"],
+  createdAt: "2026-10-06T16:09:50.725Z",
+  updatedAt: "2026-10-06T16:38:41.000Z",
 } as const satisfies StoryChapterWritten

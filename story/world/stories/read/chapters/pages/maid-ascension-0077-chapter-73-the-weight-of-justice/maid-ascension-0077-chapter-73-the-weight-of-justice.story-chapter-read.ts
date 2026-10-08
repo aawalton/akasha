@@ -20,4 +20,6 @@ export const maidAscension0077Chapter73TheWeightOfJustice = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3585906/chapter-73-the-weight-of-justice",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

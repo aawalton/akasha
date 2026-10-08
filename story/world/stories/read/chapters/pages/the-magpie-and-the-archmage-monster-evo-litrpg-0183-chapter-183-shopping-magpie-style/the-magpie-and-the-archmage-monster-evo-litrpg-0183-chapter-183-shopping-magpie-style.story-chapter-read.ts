@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0183Chapter183ShoppingMagpie
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   ownLength: 2211,
   prose: "txt",
+  createdAt: "2026-09-21T07:07:52.835Z",
+  updatedAt: "2026-09-21T16:25:31.000Z",
 } as const satisfies StoryChapterRead

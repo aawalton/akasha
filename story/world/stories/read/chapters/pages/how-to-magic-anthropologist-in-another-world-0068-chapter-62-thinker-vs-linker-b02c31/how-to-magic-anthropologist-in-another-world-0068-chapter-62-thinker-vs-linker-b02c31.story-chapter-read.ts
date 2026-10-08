@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0068Chapter62ThinkerVsLinkerB
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3244661/chapter-62-thinker-vs-linker-b02c31",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

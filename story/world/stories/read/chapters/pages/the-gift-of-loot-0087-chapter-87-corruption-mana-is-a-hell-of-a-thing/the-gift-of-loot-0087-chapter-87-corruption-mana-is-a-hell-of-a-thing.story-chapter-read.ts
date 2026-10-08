@@ -19,4 +19,6 @@ export const theGiftOfLoot0087Chapter87CorruptionManaIsAHellOfAThing = {
         "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/4028363/chapter-87-corruption-mana-is-a-hell-of-a-thing",
     },
   ],
+  createdAt: "2026-09-28T18:05:52.040Z",
+  updatedAt: "2026-09-28T18:05:53.000Z",
 } as const satisfies StoryChapterRead

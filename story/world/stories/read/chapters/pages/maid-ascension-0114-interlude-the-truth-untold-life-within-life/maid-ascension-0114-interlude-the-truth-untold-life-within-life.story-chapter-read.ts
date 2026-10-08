@@ -20,4 +20,6 @@ export const maidAscension0114InterludeTheTruthUntoldLifeWithinLife = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3868882/interlude-the-truth-untold-life-within-life",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

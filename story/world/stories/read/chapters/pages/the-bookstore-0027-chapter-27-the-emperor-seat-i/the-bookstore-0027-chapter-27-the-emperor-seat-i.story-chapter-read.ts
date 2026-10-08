@@ -20,4 +20,6 @@ export const theBookstore0027Chapter27TheEmperorSeatI = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3339556/chapter-27-the-emperor-seat-i",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.505Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

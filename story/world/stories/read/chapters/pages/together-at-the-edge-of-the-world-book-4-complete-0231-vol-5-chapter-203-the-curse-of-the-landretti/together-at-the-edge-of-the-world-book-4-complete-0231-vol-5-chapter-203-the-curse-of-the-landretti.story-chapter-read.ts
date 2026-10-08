@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0231Vol5Chapter203TheCurseO
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3670850/vol-5-chapter-203-the-curse-of-the-landretti-distiller",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T18:05:17.000Z",
 } as const satisfies StoryChapterRead

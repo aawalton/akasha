@@ -20,4 +20,6 @@ export const theBookstore0029Chapter29TrainingBook = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3394154/chapter-29-training-book",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.505Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

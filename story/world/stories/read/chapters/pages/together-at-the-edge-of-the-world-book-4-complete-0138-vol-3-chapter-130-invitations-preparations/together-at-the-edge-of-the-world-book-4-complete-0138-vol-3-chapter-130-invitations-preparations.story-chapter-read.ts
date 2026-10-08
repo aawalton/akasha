@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0138Vol3Chapter130Invitatio
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2961094/vol-3-chapter-130-invitations-preparations-dresses",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.937Z",
+  updatedAt: "2026-10-01T23:05:55.000Z",
 } as const satisfies StoryChapterRead

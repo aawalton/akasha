@@ -21,4 +21,6 @@ export const howToMagicAnthropologistInAnotherWorld0071Chapter65ConfessionsAndCo
           "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3290479/chapter-65-confessions-and-communications-b02c34",
       },
     ],
+    createdAt: "2026-09-28T20:28:23.942Z",
+    updatedAt: "2026-09-28T20:28:25.000Z",
   } as const satisfies StoryChapterRead

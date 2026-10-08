@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0075Chapter67SpinAndWinB03c02
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3400784/chapter-67-spin-and-win-b03c02",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.943Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

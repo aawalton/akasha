@@ -36,4 +36,6 @@ export const emberdeep0003NalasPassage = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-4d2c65868fdd198d", "image/image-bb359ad90313988b"],
+  createdAt: "2026-10-02T19:56:08.600Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

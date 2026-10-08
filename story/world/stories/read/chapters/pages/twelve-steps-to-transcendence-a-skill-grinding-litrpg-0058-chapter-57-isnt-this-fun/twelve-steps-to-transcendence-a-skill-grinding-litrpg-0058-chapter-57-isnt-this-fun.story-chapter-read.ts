@@ -19,4 +19,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0058Chapter57IsntThis
         "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/4034664/chapter-57-isnt-this-fun",
     },
   ],
+  createdAt: "2026-09-29T22:05:59.654Z",
+  updatedAt: "2026-09-29T22:06:00.000Z",
 } as const satisfies StoryChapterRead

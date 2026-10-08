@@ -55,4 +55,6 @@ export const hollowmere0020JustOurs = {
     "image/image-12b67f9dc9f6c521",
     "image/image-53fc2ca8ee6a2c19",
   ],
+  createdAt: "2026-10-03T00:55:03.449Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

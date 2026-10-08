@@ -20,4 +20,6 @@ export const maidAscension0107Chapter101ItsNotThatHard = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3810008/chapter-101-its-not-that-hard",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

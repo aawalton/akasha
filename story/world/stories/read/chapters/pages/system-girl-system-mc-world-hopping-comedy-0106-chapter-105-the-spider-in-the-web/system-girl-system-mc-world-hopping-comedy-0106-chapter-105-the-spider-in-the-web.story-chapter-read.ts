@@ -19,4 +19,6 @@ export const systemGirlSystemMcWorldHoppingComedy0106Chapter105TheSpiderInTheWeb
         "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/4004201/chapter-105-the-spider-in-the-web",
     },
   ],
+  createdAt: "2026-09-24T12:53:17.046Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

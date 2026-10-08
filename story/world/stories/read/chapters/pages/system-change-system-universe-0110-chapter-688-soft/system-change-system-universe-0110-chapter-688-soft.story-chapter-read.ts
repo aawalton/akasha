@@ -20,4 +20,6 @@ export const systemChangeSystemUniverse0110Chapter688Soft = {
         "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/4009683/chapter-688-soft",
     },
   ],
+  createdAt: "2026-09-25T00:07:40.725Z",
+  updatedAt: "2026-09-28T20:27:36.000Z",
 } as const satisfies StoryChapterRead

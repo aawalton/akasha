@@ -20,4 +20,6 @@ export const theBookstore0032Chapter32RiverendTown = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3416129/chapter-32-riverend-town",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.505Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

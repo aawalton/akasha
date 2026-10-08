@@ -20,4 +20,6 @@ export const maidAscension0081Chapter77BellsAndWhistles = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3618580/chapter-77-bells-and-whistles",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

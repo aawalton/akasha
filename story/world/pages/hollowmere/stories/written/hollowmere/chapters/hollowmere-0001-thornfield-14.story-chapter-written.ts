@@ -50,4 +50,6 @@ export const hollowmere0001Thornfield14 = {
     "image/image-bddae35ea9323def",
     "image/image-7d159cd95d1e6912",
   ],
+  createdAt: "2026-10-02T14:41:38.021Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

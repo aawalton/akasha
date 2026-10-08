@@ -19,4 +19,6 @@ export const theGiftOfLoot0089Chapter89Fafo = {
         "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/4045496/chapter-89-fafo",
     },
   ],
+  createdAt: "2026-10-02T02:04:54.195Z",
+  updatedAt: "2026-10-02T02:04:55.000Z",
 } as const satisfies StoryChapterRead

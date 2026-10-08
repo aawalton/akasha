@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0119Vol3Chapter111TheCatAnd
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2876231/vol-3-chapter-111-the-cat-and-the-patriarch",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.936Z",
+  updatedAt: "2026-10-01T20:06:42.000Z",
 } as const satisfies StoryChapterRead

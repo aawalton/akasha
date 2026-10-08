@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0485468SwordAndShield = {
         "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/4013715/468-sword-and-shield",
     },
   ],
+  createdAt: "2026-09-25T18:04:34.766Z",
+  updatedAt: "2026-09-25T18:04:37.000Z",
 } as const satisfies StoryChapterRead

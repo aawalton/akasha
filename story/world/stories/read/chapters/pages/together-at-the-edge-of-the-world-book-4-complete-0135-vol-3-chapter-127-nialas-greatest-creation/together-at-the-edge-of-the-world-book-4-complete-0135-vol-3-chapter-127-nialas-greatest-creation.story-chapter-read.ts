@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0135Vol3Chapter127NialasGre
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2945374/vol-3-chapter-127-nialas-greatest-creation",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.936Z",
+  updatedAt: "2026-10-01T23:05:55.000Z",
 } as const satisfies StoryChapterRead

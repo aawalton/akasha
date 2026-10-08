@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0116Vol3Chapter108Weighting
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2867182/vol-3-chapter-108-weighting-the-scale",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.936Z",
+  updatedAt: "2026-10-01T17:08:45.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0161Vol4Chapter147BackFromT
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3115465/vol-4-chapter-147-back-from-the-past",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.238Z",
+  updatedAt: "2026-10-04T15:08:34.000Z",
 } as const satisfies StoryChapterRead

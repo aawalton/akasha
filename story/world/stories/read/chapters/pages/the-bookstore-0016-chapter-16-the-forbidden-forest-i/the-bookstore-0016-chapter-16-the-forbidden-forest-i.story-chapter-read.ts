@@ -20,4 +20,6 @@ export const theBookstore0016Chapter16TheForbiddenForestI = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3270857/chapter-16-the-forbidden-forest-i",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.504Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

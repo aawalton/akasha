@@ -57,4 +57,6 @@ export const fairweather0013GreyWool = {
     "image/image-e16b7dd64ac45f3c",
     "image/image-4a4247af8c2f1ea8",
   ],
+  createdAt: "2026-10-06T13:57:40.970Z",
+  updatedAt: "2026-10-06T14:32:33.000Z",
 } as const satisfies StoryChapterWritten

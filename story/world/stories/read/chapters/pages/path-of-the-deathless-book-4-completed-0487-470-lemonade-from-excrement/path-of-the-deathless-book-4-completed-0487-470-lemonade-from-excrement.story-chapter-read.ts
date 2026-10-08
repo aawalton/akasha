@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0487470LemonadeFromExcrement = {
         "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/4028585/470-lemonade-from-excrement",
     },
   ],
+  createdAt: "2026-09-28T18:05:52.038Z",
+  updatedAt: "2026-09-28T18:05:53.000Z",
 } as const satisfies StoryChapterRead

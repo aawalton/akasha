@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0087Vol2Chapter83TheSongOfT
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2757458/vol-2-chapter-83-the-song-of-two-hearts",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T21:08:30.000Z",
 } as const satisfies StoryChapterRead

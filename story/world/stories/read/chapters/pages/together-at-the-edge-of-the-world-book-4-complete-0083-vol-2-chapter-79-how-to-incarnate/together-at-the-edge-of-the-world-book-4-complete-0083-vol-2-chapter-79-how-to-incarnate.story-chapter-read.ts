@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0083Vol2Chapter79HowToIncar
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2748494/vol-2-chapter-79-how-to-incarnate",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T19:04:57.000Z",
 } as const satisfies StoryChapterRead

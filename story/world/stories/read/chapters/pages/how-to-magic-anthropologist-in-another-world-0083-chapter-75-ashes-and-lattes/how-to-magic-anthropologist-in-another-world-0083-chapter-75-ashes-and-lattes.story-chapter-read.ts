@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0083Chapter75AshesAndLattes =
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3530783/chapter-75-ashes-and-lattes",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.943Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

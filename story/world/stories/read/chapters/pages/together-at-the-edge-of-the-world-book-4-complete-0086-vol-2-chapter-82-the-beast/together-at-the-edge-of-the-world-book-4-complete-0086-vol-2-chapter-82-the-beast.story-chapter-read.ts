@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0086Vol2Chapter82TheBeast =
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2754515/vol-2-chapter-82-the-beast",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T21:08:30.000Z",
 } as const satisfies StoryChapterRead

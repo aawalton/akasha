@@ -20,4 +20,6 @@ export const maidAscension0074EpiloguePrinceAric1 = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3558032/epilogue-prince-aric-1",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

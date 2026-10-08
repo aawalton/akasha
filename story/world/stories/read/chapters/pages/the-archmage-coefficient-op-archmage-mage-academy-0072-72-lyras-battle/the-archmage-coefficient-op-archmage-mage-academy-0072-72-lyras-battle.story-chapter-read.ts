@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy007272LyrasBattle = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3511287/72-lyras-battle",
     },
   ],
+  createdAt: "2026-09-28T20:28:08.183Z",
+  updatedAt: "2026-09-28T20:28:09.000Z",
 } as const satisfies StoryChapterRead

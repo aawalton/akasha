@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0105Chapter96AFeastForTheSoul
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3878386/chapter-96-a-feast-for-the-soul",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.207Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

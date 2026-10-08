@@ -20,4 +20,6 @@ export const maidAscension0010Chapter10LayingTheGroundwork = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3236727/chapter-10-laying-the-groundwork",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

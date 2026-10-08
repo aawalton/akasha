@@ -20,4 +20,6 @@ export const maidAscension0059Chapter59PublicExperiments = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3445482/chapter-59-public-experiments",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

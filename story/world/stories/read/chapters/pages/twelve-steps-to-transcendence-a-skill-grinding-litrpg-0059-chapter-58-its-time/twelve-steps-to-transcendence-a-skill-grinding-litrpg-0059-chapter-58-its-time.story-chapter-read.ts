@@ -19,4 +19,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0059Chapter58ItsTime 
         "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/4039781/chapter-58-its-time",
     },
   ],
+  createdAt: "2026-09-30T22:04:43.343Z",
+  updatedAt: "2026-09-30T22:04:44.000Z",
 } as const satisfies StoryChapterRead

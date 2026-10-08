@@ -20,4 +20,6 @@ export const theBookstore0031Chapter31TheMayor = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3411946/chapter-31-the-mayor",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.505Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0138138Acceptance = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/4034492/138-acceptance",
     },
   ],
+  createdAt: "2026-09-29T22:05:59.654Z",
+  updatedAt: "2026-10-02T14:04:46.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0062Chapter62LessonsBetweenShelves = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3470717/chapter-62-lessons-between-shelves",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

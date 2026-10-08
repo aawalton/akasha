@@ -17,4 +17,6 @@ export const theWanderingInn0836211UntilMyDreamsAreDone = {
       externalLink: "https://wanderinginn.com/2026/10/02/2-1-1-until-my-dreams-are-done/",
     },
   ],
+  createdAt: "2026-10-02T13:44:15.500Z",
+  updatedAt: "2026-10-02T13:44:16.000Z",
 } as const satisfies StoryChapterRead

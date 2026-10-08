@@ -19,4 +19,6 @@ export const theGiftOfLoot0085Chapter85DrawingTheTinyStraw = {
         "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/4003599/chapter-85-drawing-the-tiny-straw",
     },
   ],
+  createdAt: "2026-09-24T12:53:17.135Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

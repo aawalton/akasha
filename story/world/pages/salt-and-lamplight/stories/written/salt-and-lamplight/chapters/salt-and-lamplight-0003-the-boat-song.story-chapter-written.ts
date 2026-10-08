@@ -43,4 +43,6 @@ export const saltAndLamplight0003TheBoatSong = {
     "image/image-5359741c52bdf650",
     "image/image-1d60a060b39b22e2",
   ],
+  createdAt: "2026-10-02T15:29:04.336Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

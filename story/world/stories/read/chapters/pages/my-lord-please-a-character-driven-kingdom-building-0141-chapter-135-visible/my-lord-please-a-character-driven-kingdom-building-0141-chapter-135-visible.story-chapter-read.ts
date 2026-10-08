@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0141Chapter135Visible = 
   story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   ownLength: 2110,
   prose: "txt",
+  createdAt: "2026-09-21T19:05:54.174Z",
+  updatedAt: "2026-09-21T19:05:56.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0004Chapter41TheNightIsOver
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2488631/chapter-41-the-night-is-over",
     },
   ],
+  createdAt: "2026-09-30T07:14:57.839Z",
+  updatedAt: "2026-09-30T07:14:59.000Z",
 } as const satisfies StoryChapterRead

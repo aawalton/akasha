@@ -20,4 +20,6 @@ export const passiveAggressiveReversePortalInvasionLitrpg0082LiamsAttributesTale
   story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
   ownLength: 1631,
   prose: "txt",
+  createdAt: "2026-09-22T10:04:16.173Z",
+  updatedAt: "2026-09-28T20:27:27.000Z",
 } as const satisfies StoryChapterRead

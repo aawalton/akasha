@@ -20,4 +20,6 @@ export const maidAscension0089Chapter85TheWallsHaveEars = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3681864/chapter-85-the-walls-have-ears",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

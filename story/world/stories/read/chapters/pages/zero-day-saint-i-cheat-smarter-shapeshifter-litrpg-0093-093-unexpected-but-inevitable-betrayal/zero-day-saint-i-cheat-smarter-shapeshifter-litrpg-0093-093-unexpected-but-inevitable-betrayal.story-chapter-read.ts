@@ -19,4 +19,6 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0093093UnexpectedButInev
         "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/4003877/093-unexpected-but-inevitable-betrayal",
     },
   ],
+  createdAt: "2026-10-02T16:07:25.344Z",
+  updatedAt: "2026-10-02T16:07:27.000Z",
 } as const satisfies StoryChapterRead

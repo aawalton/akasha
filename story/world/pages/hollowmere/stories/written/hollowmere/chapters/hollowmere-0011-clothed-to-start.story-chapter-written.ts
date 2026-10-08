@@ -46,4 +46,6 @@ export const hollowmere0011ClothedToStart = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-200ac1272e61525c", "image/image-e787d80ba9930441"],
+  createdAt: "2026-10-02T21:10:58.718Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

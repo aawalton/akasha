@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0180Chapter180SecretRealmOpening =
         "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/4018963/chapter-180-secret-realm-opening",
     },
   ],
+  createdAt: "2026-09-26T21:23:25.275Z",
+  updatedAt: "2026-09-26T21:23:27.000Z",
 } as const satisfies StoryChapterRead

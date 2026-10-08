@@ -46,4 +46,6 @@ export const encounters0007TheLastTime = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-b9b28c93d071ecc7"],
+  createdAt: "2026-10-07T00:06:03.692Z",
+  updatedAt: "2026-10-07T00:29:40.000Z",
 } as const satisfies StoryChapterWritten

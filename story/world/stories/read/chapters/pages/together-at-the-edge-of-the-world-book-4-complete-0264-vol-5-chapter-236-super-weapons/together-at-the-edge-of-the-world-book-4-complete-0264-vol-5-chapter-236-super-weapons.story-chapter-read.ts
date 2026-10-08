@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0264Vol5Chapter236SuperWeap
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/4026863/vol-5-chapter-236-super-weapons",
     },
   ],
+  createdAt: "2026-09-30T07:15:25.877Z",
+  updatedAt: "2026-10-05T23:07:48.000Z",
 } as const satisfies StoryChapterRead

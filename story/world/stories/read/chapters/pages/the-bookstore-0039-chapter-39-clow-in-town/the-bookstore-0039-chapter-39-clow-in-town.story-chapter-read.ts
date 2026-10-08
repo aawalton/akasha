@@ -20,4 +20,6 @@ export const theBookstore0039Chapter39ClowInTown = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3471961/chapter-39-clow-in-town",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.505Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

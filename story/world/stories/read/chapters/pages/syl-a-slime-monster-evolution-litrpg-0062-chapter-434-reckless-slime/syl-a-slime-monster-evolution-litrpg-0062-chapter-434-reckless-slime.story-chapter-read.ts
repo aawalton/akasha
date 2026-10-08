@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0062Chapter434RecklessSlime = {
         "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/4046468/chapter-434-reckless-slime",
     },
   ],
+  createdAt: "2026-10-02T07:08:43.349Z",
+  updatedAt: "2026-10-03T19:04:12.000Z",
 } as const satisfies StoryChapterRead

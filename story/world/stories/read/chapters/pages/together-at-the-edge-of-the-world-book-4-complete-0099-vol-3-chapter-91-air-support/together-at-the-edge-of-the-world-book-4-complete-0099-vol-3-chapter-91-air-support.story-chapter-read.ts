@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0099Vol3Chapter91AirSupport
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2794644/vol-3-chapter-91-air-support",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.935Z",
+  updatedAt: "2026-09-30T23:05:01.000Z",
 } as const satisfies StoryChapterRead

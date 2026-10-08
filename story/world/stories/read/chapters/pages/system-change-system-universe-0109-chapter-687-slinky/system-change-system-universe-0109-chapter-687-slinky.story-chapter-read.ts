@@ -20,4 +20,6 @@ export const systemChangeSystemUniverse0109Chapter687Slinky = {
         "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3999728/chapter-687-slinky",
     },
   ],
+  createdAt: "2026-09-23T00:05:40.427Z",
+  updatedAt: "2026-09-28T20:27:36.000Z",
 } as const satisfies StoryChapterRead

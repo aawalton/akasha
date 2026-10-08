@@ -19,4 +19,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0056Chapter55ALittleT
         "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/4004777/chapter-55-a-little-too-lucky",
     },
   ],
+  createdAt: "2026-09-24T12:53:17.313Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

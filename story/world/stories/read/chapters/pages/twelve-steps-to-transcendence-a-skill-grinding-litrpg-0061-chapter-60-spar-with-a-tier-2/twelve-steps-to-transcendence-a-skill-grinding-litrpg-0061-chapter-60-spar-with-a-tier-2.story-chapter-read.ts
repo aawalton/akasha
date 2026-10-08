@@ -19,4 +19,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0061Chapter60SparWith
         "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/4054798/chapter-60-spar-with-a-tier-2",
     },
   ],
+  createdAt: "2026-10-03T22:05:08.934Z",
+  updatedAt: "2026-10-03T22:05:10.000Z",
 } as const satisfies StoryChapterRead

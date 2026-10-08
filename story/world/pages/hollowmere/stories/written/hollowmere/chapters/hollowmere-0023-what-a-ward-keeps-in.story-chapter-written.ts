@@ -57,4 +57,6 @@ export const hollowmere0023WhatAWardKeepsIn = {
     "image/image-80d5b65c285d64e4",
     "image/image-80463d6c33f872d1",
   ],
+  createdAt: "2026-10-03T11:23:00.770Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

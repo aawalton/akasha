@@ -45,4 +45,6 @@ export const hollowmere0021KickSiobhan = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-ae0c5e8ef44e6ba8", "image/image-a67a88e24a56e9de"],
+  createdAt: "2026-10-03T01:15:56.544Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

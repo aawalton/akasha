@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0189Chapter189Brothers = {
         "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/4046464/chapter-189-brothers",
     },
   ],
+  createdAt: "2026-10-02T07:08:43.350Z",
+  updatedAt: "2026-10-02T07:08:44.000Z",
 } as const satisfies StoryChapterRead

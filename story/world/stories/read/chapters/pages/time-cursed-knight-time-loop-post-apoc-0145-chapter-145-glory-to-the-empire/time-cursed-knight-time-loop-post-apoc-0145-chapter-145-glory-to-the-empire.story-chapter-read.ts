@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0145Chapter145GloryToTheEmpire = {
         "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/4063666/chapter-145-glory-to-the-empire",
     },
   ],
+  createdAt: "2026-10-05T18:05:16.411Z",
+  updatedAt: "2026-10-05T18:05:17.000Z",
 } as const satisfies StoryChapterRead

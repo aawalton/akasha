@@ -20,4 +20,6 @@ export const maidAscension0105Chapter100ItsNotWorking = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3805006/chapter-100-its-not-working",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.515Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

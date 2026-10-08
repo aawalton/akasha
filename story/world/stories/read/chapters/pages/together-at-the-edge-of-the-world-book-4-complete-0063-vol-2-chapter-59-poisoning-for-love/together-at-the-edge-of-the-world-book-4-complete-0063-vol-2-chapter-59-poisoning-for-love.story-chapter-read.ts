@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0063Vol2Chapter59PoisoningF
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2672883/vol-2-chapter-59-poisoning-for-love",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.889Z",
+  updatedAt: "2026-09-30T07:15:05.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0101Chapter96NarrowingTheScope = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3774586/chapter-96-narrowing-the-scope",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.515Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

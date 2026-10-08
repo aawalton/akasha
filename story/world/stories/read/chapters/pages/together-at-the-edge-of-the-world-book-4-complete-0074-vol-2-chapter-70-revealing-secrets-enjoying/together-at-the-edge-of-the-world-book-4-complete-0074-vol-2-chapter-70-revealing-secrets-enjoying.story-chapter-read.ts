@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0074Vol2Chapter70RevealingS
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2711326/vol-2-chapter-70-revealing-secrets-enjoying-the",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.889Z",
+  updatedAt: "2026-09-30T11:07:55.000Z",
 } as const satisfies StoryChapterRead

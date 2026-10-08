@@ -49,4 +49,6 @@ export const hollowmere0014Pressure = {
     "image/image-2e12ba71b8c5002a",
     "image/image-a3b56ed848fa9107",
   ],
+  createdAt: "2026-10-02T22:01:14.183Z",
+  updatedAt: "2026-10-03T18:40:48.000Z",
 } as const satisfies StoryChapterWritten

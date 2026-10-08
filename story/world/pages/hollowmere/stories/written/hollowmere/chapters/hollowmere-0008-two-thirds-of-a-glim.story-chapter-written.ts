@@ -45,4 +45,6 @@ export const hollowmere0008TwoThirdsOfAGlim = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-50683a9088eeb1db", "image/image-db6e601b317eb3d1"],
+  createdAt: "2026-10-02T20:10:47.570Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

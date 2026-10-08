@@ -20,4 +20,6 @@ export const superSupportive0310ThreeHundredEightJumpAgain = {
         "https://www.royalroad.com/fiction/63759/super-supportive/chapter/4014534/three-hundred-eight-jump-again",
     },
   ],
+  createdAt: "2026-09-25T22:03:33.083Z",
+  updatedAt: "2026-09-28T20:27:34.000Z",
 } as const satisfies StoryChapterRead

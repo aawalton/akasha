@@ -47,4 +47,6 @@ export const hollowmere0022IWantToStay = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-0afd679144bdd529", "image/image-c20a2594c0f4881e"],
+  createdAt: "2026-10-03T11:10:22.296Z",
+  updatedAt: "2026-10-03T18:40:48.000Z",
 } as const satisfies StoryChapterWritten

@@ -51,4 +51,6 @@ export const hollowmere0012WithAnyoneWatching = {
     "image/image-f1fe344228a79604",
     "image/image-39d5d1b60ef9e07f",
   ],
+  createdAt: "2026-10-02T21:29:15.961Z",
+  updatedAt: "2026-10-03T18:40:48.000Z",
 } as const satisfies StoryChapterWritten

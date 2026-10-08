@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0192Chapter192TheUnfortunate
         "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/4081711/chapter-192-the-unfortunate-side-effect",
     },
   ],
+  createdAt: "2026-10-07T07:06:01.627Z",
+  updatedAt: "2026-10-07T07:06:02.000Z",
 } as const satisfies StoryChapterRead

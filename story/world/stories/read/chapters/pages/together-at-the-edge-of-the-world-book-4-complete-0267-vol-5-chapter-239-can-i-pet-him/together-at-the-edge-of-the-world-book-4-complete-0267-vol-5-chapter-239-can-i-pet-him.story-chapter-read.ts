@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0267Vol5Chapter239CanIPetHi
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/4062201/vol-5-chapter-239-can-i-pet-him",
     },
   ],
+  createdAt: "2026-10-05T13:06:45.789Z",
+  updatedAt: "2026-10-06T00:08:57.000Z",
 } as const satisfies StoryChapterRead

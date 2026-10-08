@@ -46,4 +46,6 @@ export const encounters0010WindowLight = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-aae52333f28869dd"],
+  createdAt: "2026-10-07T01:09:04.044Z",
+  updatedAt: "2026-10-07T01:26:33.000Z",
 } as const satisfies StoryChapterWritten

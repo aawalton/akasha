@@ -12,4 +12,6 @@ export const theDungeonOfOneThousandDeaths0010TheBrand = {
   prose: "txt",
   beats: "jsonl",
   stepStatus: "step-status/player",
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T19:37:21.000Z",
 } as const satisfies StoryChapterWritten

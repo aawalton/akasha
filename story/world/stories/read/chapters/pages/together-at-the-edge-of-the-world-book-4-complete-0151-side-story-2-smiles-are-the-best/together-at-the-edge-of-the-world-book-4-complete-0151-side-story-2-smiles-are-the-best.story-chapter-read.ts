@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0151SideStory2SmilesAreTheB
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3038883/side-story-2-smiles-are-the-best",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.238Z",
+  updatedAt: "2026-10-04T13:05:37.000Z",
 } as const satisfies StoryChapterRead

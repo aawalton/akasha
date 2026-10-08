@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0123Vol3Chapter115BreakingA
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2892608/vol-3-chapter-115-breaking-all-the-things",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.936Z",
+  updatedAt: "2026-10-01T21:08:45.000Z",
 } as const satisfies StoryChapterRead

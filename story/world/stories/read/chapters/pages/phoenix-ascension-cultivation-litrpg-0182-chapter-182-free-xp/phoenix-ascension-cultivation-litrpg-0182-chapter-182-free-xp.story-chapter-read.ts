@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0182Chapter182FreeXp = {
         "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/4044463/chapter-182-free-xp",
     },
   ],
+  createdAt: "2026-10-01T20:06:41.651Z",
+  updatedAt: "2026-10-01T20:06:42.000Z",
 } as const satisfies StoryChapterRead

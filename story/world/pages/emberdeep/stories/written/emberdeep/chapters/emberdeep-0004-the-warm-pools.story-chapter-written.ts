@@ -39,4 +39,6 @@ export const emberdeep0004TheWarmPools = {
     "image/image-3dc0b7da37cdc548",
     "image/image-6a85df03cfb11da9",
   ],
+  createdAt: "2026-10-02T21:06:48.426Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

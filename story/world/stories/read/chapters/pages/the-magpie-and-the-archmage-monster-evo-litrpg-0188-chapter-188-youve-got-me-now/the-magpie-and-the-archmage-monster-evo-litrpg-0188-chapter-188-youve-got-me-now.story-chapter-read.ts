@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0188Chapter188YouveGotMeNow 
         "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/4036348/chapter-188-youve-got-me-now",
     },
   ],
+  createdAt: "2026-09-30T07:14:57.839Z",
+  updatedAt: "2026-09-30T07:14:59.000Z",
 } as const satisfies StoryChapterRead

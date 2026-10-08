@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0494477PsychomachiaIi = {
         "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/4079360/477-psychomachia-ii",
     },
   ],
+  createdAt: "2026-10-06T18:04:58.861Z",
+  updatedAt: "2026-10-06T18:04:59.000Z",
 } as const satisfies StoryChapterRead

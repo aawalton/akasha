@@ -20,4 +20,6 @@ export const maidAscension0012Chapter12TheWeightOfCoin = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3240341/chapter-12-the-weight-of-coin",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

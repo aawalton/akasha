@@ -63,4 +63,6 @@ export const fairweather0019RingFirst = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-de7f488106b61ec5"],
+  createdAt: "2026-10-06T21:34:58.334Z",
+  updatedAt: "2026-10-06T22:08:52.000Z",
 } as const satisfies StoryChapterWritten

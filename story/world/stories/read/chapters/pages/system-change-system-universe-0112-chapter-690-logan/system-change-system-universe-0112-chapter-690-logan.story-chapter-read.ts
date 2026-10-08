@@ -20,4 +20,6 @@ export const systemChangeSystemUniverse0112Chapter690Logan = {
         "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/4045218/chapter-690-logan",
     },
   ],
+  createdAt: "2026-10-02T00:03:50.709Z",
+  updatedAt: "2026-10-02T15:07:02.000Z",
 } as const satisfies StoryChapterRead

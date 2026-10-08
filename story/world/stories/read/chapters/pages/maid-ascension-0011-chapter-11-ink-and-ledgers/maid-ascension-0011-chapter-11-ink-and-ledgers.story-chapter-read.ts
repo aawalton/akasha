@@ -20,4 +20,6 @@ export const maidAscension0011Chapter11InkAndLedgers = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3237925/chapter-11-ink-and-ledgers",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

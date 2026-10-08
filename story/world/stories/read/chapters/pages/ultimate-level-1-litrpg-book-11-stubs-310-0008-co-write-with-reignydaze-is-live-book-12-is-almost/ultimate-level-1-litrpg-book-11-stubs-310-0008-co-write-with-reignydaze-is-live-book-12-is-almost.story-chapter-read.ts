@@ -21,4 +21,6 @@ export const ultimateLevel1LitrpgBook11Stubs3100008CoWriteWithReignydazeIsLiveBo
         "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/4063344/co-write-with-reignydaze-is-live-book-12-is-almost",
     },
   ],
+  createdAt: "2026-10-05T17:06:38.193Z",
+  updatedAt: "2026-10-06T00:38:35.000Z",
 } as const satisfies StoryChapterRead

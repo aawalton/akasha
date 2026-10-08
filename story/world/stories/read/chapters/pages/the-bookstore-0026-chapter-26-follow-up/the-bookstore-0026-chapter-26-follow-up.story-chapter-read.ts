@@ -20,4 +20,6 @@ export const theBookstore0026Chapter26FollowUp = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3335406/chapter-26-follow-up",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.505Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

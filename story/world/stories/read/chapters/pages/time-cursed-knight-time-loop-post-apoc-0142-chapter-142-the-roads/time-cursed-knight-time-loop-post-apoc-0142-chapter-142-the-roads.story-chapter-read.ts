@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0142Chapter142TheRoads = {
         "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/4038990/chapter-142-the-roads",
     },
   ],
+  createdAt: "2026-09-30T19:04:56.465Z",
+  updatedAt: "2026-09-30T19:04:57.000Z",
 } as const satisfies StoryChapterRead

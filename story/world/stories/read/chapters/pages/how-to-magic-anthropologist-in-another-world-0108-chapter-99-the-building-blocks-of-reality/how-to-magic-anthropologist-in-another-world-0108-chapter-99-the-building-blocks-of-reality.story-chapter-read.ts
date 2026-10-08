@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0108Chapter99TheBuildingBlock
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3931246/chapter-99-the-building-blocks-of-reality",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.207Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

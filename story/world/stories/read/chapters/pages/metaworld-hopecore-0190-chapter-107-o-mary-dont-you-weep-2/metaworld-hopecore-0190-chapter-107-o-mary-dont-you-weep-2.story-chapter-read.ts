@@ -20,4 +20,6 @@ export const metaworldHopecore0190Chapter107OMaryDontYouWeep2 = {
         "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/4047912/chapter-107-o-mary-dont-you-weep-2",
     },
   ],
+  createdAt: "2026-10-02T14:04:45.418Z",
+  updatedAt: "2026-10-03T20:06:55.000Z",
 } as const satisfies StoryChapterRead

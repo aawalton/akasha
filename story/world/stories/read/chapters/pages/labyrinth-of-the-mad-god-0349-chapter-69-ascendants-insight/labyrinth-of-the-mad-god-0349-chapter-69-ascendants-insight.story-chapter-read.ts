@@ -19,4 +19,6 @@ export const labyrinthOfTheMadGod0349Chapter69AscendantsInsight = {
         "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/4049493/chapter-69-ascendants-insight",
     },
   ],
+  createdAt: "2026-10-02T19:05:34.778Z",
+  updatedAt: "2026-10-02T19:05:35.000Z",
 } as const satisfies StoryChapterRead

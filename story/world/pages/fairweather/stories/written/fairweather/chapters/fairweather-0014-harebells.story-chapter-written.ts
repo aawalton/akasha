@@ -61,4 +61,6 @@ export const fairweather0014Harebells = {
     "image/image-f496d70f20454f5c",
     "image/image-43ac1b44bf64e93f",
   ],
+  createdAt: "2026-10-06T15:16:07.074Z",
+  updatedAt: "2026-10-06T15:49:00.000Z",
 } as const satisfies StoryChapterWritten

@@ -20,4 +20,6 @@ export const thePrimalHunter0189Chapter1392ArrowsGhosts = {
         "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/4033017/chapter-1392-arrows-ghosts",
     },
   ],
+  createdAt: "2026-09-29T16:07:05.751Z",
+  updatedAt: "2026-10-02T13:04:45.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const theGiftOfLoot0090Chapter90GameTime = {
         "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/4055732/chapter-90-game-time",
     },
   ],
+  createdAt: "2026-10-04T04:06:30.155Z",
+  updatedAt: "2026-10-04T04:06:31.000Z",
 } as const satisfies StoryChapterRead

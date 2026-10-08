@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0217Volume4Epilogue = {
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3574335/volume-4-epilogue",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T12:08:05.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0035Chapter35TheFirstThreadOfDivination = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3318428/chapter-35-the-first-thread-of-divination",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

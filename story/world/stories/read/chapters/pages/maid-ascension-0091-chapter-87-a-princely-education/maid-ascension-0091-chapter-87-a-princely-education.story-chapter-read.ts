@@ -20,4 +20,6 @@ export const maidAscension0091Chapter87APrincelyEducation = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3695015/chapter-87-a-princely-education",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

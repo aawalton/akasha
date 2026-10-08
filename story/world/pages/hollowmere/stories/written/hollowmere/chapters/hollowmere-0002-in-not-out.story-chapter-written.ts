@@ -59,4 +59,6 @@ export const hollowmere0002InNotOut = {
     "image/image-7cd8b1d310c7513c",
     "image/image-0c64735213b65cea",
   ],
+  createdAt: "2026-10-02T15:16:52.542Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

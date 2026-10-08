@@ -20,4 +20,6 @@ export const theBookstore0007Chapter7TheTaleOfTheThreeDwarvenKingdoms = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3254160/chapter-7-the-tale-of-the-three-dwarven-kingdoms",
     },
   ],
+  createdAt: "2026-09-28T20:28:45.286Z",
+  updatedAt: "2026-09-28T20:28:46.000Z",
 } as const satisfies StoryChapterRead

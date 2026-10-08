@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0201Chapter758TakinBaco
         "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/4061921/chapter-758-takin-bacon",
     },
   ],
+  createdAt: "2026-10-05T12:08:04.044Z",
+  updatedAt: "2026-10-06T13:05:40.000Z",
 } as const satisfies StoryChapterRead

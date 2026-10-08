@@ -20,4 +20,6 @@ export const maidAscension0034Chapter34ThreadsOfLeverage = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3314445/chapter-34-threads-of-leverage",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0198Chapter756PredatorA
         "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/4026485/chapter-756-predator-and-prey",
     },
   ],
+  createdAt: "2026-09-28T12:05:35.277Z",
+  updatedAt: "2026-09-28T20:27:25.000Z",
 } as const satisfies StoryChapterRead

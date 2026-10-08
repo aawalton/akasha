@@ -19,4 +19,6 @@ export const shapeshifterANonHumanLitrpg0005Book2OnAmazonNewStory = {
         "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg-stubbing/chapter/4048770/book-2-on-amazon-new-story",
     },
   ],
+  createdAt: "2026-10-02T17:04:38.818Z",
+  updatedAt: "2026-10-02T17:04:40.000Z",
 } as const satisfies StoryChapterRead

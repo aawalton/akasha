@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy007171TheReturn = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3498429/71-the-return",
     },
   ],
+  createdAt: "2026-09-28T20:28:08.183Z",
+  updatedAt: "2026-09-28T20:28:09.000Z",
 } as const satisfies StoryChapterRead

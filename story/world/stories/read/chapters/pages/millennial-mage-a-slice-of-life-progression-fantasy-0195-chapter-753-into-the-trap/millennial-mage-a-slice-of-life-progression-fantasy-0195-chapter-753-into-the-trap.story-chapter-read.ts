@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0195Chapter753IntoTheTr
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   ownLength: 3162,
   prose: "txt",
+  createdAt: "2026-09-21T12:07:19.578Z",
+  updatedAt: "2026-09-28T20:27:25.000Z",
 } as const satisfies StoryChapterRead

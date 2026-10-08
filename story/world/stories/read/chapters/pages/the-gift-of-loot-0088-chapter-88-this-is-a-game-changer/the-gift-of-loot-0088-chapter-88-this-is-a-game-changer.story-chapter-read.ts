@@ -19,4 +19,6 @@ export const theGiftOfLoot0088Chapter88ThisIsAGameChanger = {
         "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/4033555/chapter-88-this-is-a-game-changer",
     },
   ],
+  createdAt: "2026-09-29T18:06:16.829Z",
+  updatedAt: "2026-09-29T18:06:17.000Z",
 } as const satisfies StoryChapterRead

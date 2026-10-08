@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0160Vol4Chapter146NonMeasur
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3108008/vol-4-chapter-146-non-measurable-equivalent-exchanges",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.238Z",
+  updatedAt: "2026-10-04T15:08:34.000Z",
 } as const satisfies StoryChapterRead

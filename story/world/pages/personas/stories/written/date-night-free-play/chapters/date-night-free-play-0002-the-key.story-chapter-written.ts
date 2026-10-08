@@ -11,4 +11,6 @@ export const dateNightFreePlay0002TheKey = {
   unit: "unit/words",
   prose: "txt",
   beats: "jsonl",
+  createdAt: "2026-09-28T12:50:29.036Z",
+  updatedAt: "2026-10-03T20:25:28.000Z",
 } as const satisfies StoryChapterWritten

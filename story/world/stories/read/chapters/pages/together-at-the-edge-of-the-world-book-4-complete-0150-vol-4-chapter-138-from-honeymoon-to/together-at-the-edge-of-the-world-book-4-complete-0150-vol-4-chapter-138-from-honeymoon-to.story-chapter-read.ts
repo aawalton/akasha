@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0150Vol4Chapter138FromHoney
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3036331/vol-4-chapter-138-from-honeymoon-to-expedition",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.238Z",
+  updatedAt: "2026-10-04T13:05:37.000Z",
 } as const satisfies StoryChapterRead

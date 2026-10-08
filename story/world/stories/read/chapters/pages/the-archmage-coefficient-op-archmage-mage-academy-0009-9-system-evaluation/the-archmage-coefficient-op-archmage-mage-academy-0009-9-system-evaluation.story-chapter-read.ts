@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy00099SystemEvaluation = 
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3141943/9-system-evaluation",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.840Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

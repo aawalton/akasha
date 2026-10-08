@@ -20,4 +20,6 @@ export const maidAscension0020Chapter20AfterTheStorm = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3263641/chapter-20-after-the-storm",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

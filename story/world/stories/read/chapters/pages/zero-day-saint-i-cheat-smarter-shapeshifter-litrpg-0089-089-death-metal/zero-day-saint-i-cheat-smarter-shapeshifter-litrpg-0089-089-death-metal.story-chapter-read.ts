@@ -19,4 +19,6 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0089089DeathMetal = {
         "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/4003720/089-death-metal",
     },
   ],
+  createdAt: "2026-09-24T12:53:17.398Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

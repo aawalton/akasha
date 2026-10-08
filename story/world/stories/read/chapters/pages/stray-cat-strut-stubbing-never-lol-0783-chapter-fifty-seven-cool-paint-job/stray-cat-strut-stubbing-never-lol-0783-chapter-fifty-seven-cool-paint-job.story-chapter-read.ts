@@ -19,4 +19,6 @@ export const strayCatStrutStubbingNeverLol0783ChapterFiftySevenCoolPaintJob = {
         "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/4009669/chapter-fifty-seven-cool-paint-job",
     },
   ],
+  createdAt: "2026-09-25T00:07:40.724Z",
+  updatedAt: "2026-09-25T00:07:42.000Z",
 } as const satisfies StoryChapterRead

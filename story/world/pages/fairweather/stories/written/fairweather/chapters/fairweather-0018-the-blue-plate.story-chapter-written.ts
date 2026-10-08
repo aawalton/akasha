@@ -62,4 +62,6 @@ export const fairweather0018TheBluePlate = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-c30e4bf293342176", "image/image-9fa32b7b44febb24"],
+  createdAt: "2026-10-06T20:50:43.057Z",
+  updatedAt: "2026-10-06T21:17:58.000Z",
 } as const satisfies StoryChapterWritten

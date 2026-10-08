@@ -12,4 +12,6 @@ export const cornerstone001BlindGround = {
   prose: "txt",
   beats: "jsonl",
   stepStatus: "step-status/player",
+  createdAt: "2026-09-03T04:49:31.007Z",
+  updatedAt: "2026-10-03T19:21:29.000Z",
 } as const satisfies StoryChapterWritten

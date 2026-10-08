@@ -59,4 +59,6 @@ export const fairweather0012FishGone = {
     "image/image-ed9b18ce42b737d1",
     "image/image-62b9939134bd55eb",
   ],
+  createdAt: "2026-10-06T12:56:25.875Z",
+  updatedAt: "2026-10-06T13:25:20.000Z",
 } as const satisfies StoryChapterWritten

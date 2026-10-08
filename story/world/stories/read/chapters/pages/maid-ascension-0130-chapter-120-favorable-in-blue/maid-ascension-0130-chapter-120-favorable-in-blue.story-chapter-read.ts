@@ -20,4 +20,6 @@ export const maidAscension0130Chapter120FavorableInBlue = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/4004197/chapter-120-favorable-in-blue",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

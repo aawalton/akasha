@@ -20,4 +20,6 @@ export const theBookstore0010Chapter10ChoosingANewSpell = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3258945/chapter-10-choosing-a-new-spell",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.504Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

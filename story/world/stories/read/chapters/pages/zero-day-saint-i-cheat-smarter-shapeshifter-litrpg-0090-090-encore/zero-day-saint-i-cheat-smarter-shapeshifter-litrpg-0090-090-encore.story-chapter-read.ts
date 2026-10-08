@@ -19,4 +19,6 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0090090Encore = {
         "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/4003790/090-encore",
     },
   ],
+  createdAt: "2026-09-25T07:06:33.888Z",
+  updatedAt: "2026-09-25T07:06:35.000Z",
 } as const satisfies StoryChapterRead

@@ -29,4 +29,6 @@ export const haremHotel0003TheMasquerade = {
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
+  createdAt: "2026-09-29T04:39:52.357Z",
+  updatedAt: "2026-10-06T15:54:45.000Z",
 } as const satisfies StoryChapterWritten

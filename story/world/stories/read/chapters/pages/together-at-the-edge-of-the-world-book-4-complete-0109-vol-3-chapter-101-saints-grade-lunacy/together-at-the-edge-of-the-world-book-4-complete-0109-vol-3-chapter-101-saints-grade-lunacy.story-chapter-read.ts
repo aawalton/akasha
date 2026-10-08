@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0109Vol3Chapter101SaintsGra
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2835712/vol-3-chapter-101-saints-grade-lunacy",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.935Z",
+  updatedAt: "2026-10-01T16:08:48.000Z",
 } as const satisfies StoryChapterRead

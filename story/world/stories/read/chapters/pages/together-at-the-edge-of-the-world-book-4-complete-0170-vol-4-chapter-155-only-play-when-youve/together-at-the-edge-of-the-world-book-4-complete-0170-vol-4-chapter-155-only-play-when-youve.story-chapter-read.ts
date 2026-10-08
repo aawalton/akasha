@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0170Vol4Chapter155OnlyPlayW
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3183371/vol-4-chapter-155-only-play-when-youve-already",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.238Z",
+  updatedAt: "2026-10-04T16:06:16.000Z",
 } as const satisfies StoryChapterRead

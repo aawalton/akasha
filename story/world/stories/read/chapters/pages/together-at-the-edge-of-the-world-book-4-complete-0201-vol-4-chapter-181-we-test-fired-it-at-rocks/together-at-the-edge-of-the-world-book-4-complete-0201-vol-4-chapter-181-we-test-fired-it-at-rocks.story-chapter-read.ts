@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0201Vol4Chapter181WeTestFir
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3431410/vol-4-chapter-181-we-test-fired-it-at-rocks-they",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.203Z",
+  updatedAt: "2026-10-05T00:04:47.000Z",
 } as const satisfies StoryChapterRead

@@ -43,4 +43,6 @@ export const encounters0009BestOfThree = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-3afb2f8128d3148c"],
+  createdAt: "2026-10-07T00:49:37.421Z",
+  updatedAt: "2026-10-07T01:08:18.000Z",
 } as const satisfies StoryChapterWritten

@@ -48,4 +48,6 @@ export const hollowmere0025BeforeICanThink = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-0d42e619df88ef4b"],
+  createdAt: "2026-10-03T12:00:34.535Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0099Chapter91ChroniclesAndCon
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3783736/chapter-91-chronicles-and-conveniences",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

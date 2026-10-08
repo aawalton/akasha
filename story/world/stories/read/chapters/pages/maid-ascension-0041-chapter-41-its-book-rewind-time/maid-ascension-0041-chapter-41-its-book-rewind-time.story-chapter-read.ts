@@ -20,4 +20,6 @@ export const maidAscension0041Chapter41ItsBookRewindTime = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3338051/chapter-41-its-book-rewind-time",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

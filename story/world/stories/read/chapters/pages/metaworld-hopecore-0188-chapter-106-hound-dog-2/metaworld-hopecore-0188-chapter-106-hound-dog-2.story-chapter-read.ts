@@ -20,4 +20,6 @@ export const metaworldHopecore0188Chapter106HoundDog2 = {
         "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/4036297/chapter-106-hound-dog-2",
     },
   ],
+  createdAt: "2026-09-30T06:07:32.076Z",
+  updatedAt: "2026-10-02T01:04:48.000Z",
 } as const satisfies StoryChapterRead

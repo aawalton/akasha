@@ -57,4 +57,6 @@ export const fairweather0008TheBlueDoor = {
     "image/image-73d524c154798bae",
     "image/image-15e253ec3f4c27a3",
   ],
+  createdAt: "2026-10-04T15:11:00.943Z",
+  updatedAt: "2026-10-04T15:38:17.000Z",
 } as const satisfies StoryChapterWritten

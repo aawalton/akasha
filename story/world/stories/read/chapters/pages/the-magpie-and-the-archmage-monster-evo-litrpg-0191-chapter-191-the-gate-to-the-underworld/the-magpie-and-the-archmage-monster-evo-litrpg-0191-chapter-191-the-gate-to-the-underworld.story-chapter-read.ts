@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0191Chapter191TheGateToTheUn
         "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/4060821/chapter-191-the-gate-to-the-underworld",
     },
   ],
+  createdAt: "2026-10-05T07:04:51.701Z",
+  updatedAt: "2026-10-05T07:04:52.000Z",
 } as const satisfies StoryChapterRead

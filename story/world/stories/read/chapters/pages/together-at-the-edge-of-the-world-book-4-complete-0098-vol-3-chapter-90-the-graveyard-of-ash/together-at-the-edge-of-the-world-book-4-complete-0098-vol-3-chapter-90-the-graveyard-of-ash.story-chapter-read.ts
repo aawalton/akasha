@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0098Vol3Chapter90TheGraveya
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2791814/vol-3-chapter-90-the-graveyard-of-ash",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.935Z",
+  updatedAt: "2026-09-30T23:05:01.000Z",
 } as const satisfies StoryChapterRead

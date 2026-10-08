@@ -16,4 +16,6 @@ export const breathOfTheWild0005TheKingSLastGift = {
     "character-other/breath-of-the-wild-link",
     "character-other/breath-of-the-wild-rhoam",
   ],
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T19:25:48.000Z",
 } as const satisfies StoryChapterWritten

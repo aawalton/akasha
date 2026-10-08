@@ -19,4 +19,6 @@ export const timeCursedKnightTimeLoopPostApoc0139Chapter139Vaelith = {
         "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/4013591/chapter-139-vaelith",
     },
   ],
+  createdAt: "2026-09-25T18:04:34.767Z",
+  updatedAt: "2026-09-25T18:04:37.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0184Chapter184ThePrettiestGe
         "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/4001122/chapter-184-the-prettiest-gem",
     },
   ],
+  createdAt: "2026-09-23T08:04:04.266Z",
+  updatedAt: "2026-09-23T08:04:08.000Z",
 } as const satisfies StoryChapterRead

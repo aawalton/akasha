@@ -52,4 +52,6 @@ export const hollowmere0007InYourBoat = {
     "image/image-6894107a63747dc9",
     "image/image-211ff578dfc4062f",
   ],
+  createdAt: "2026-10-02T19:31:46.543Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

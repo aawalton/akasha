@@ -51,4 +51,6 @@ export const encounters0011LastNight = {
     "image/image-0a4e10198f3ddb4d",
     "image/image-197bf0e377352df6",
   ],
+  createdAt: "2026-10-07T01:26:48.807Z",
+  updatedAt: "2026-10-07T01:47:45.000Z",
 } as const satisfies StoryChapterWritten

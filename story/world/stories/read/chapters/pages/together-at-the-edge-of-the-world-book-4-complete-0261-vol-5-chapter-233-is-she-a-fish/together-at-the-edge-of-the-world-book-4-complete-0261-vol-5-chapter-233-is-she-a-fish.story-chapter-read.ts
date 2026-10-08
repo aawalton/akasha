@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0261Vol5Chapter233IsSheAFis
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3991699/vol-5-chapter-233-is-she-a-fish",
     },
   ],
+  createdAt: "2026-09-30T07:15:25.877Z",
+  updatedAt: "2026-10-05T22:08:16.000Z",
 } as const satisfies StoryChapterRead

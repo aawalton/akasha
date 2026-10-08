@@ -20,4 +20,6 @@ export const journeyToVeresavirFantasyLitrpg0062Chapter62 = {
         "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3998095/chapter-62",
     },
   ],
+  createdAt: "2026-09-22T17:04:58.189Z",
+  updatedAt: "2026-09-28T20:27:19.000Z",
 } as const satisfies StoryChapterRead

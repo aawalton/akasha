@@ -20,4 +20,6 @@ export const maidAscension0069Chapter69RopePlay = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3525593/chapter-69-rope-play",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

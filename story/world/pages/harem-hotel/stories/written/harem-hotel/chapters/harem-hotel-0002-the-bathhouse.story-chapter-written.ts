@@ -23,4 +23,6 @@ export const haremHotel0002TheBathhouse = {
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
+  createdAt: "2026-09-29T04:24:10.210Z",
+  updatedAt: "2026-10-03T18:40:48.000Z",
 } as const satisfies StoryChapterWritten

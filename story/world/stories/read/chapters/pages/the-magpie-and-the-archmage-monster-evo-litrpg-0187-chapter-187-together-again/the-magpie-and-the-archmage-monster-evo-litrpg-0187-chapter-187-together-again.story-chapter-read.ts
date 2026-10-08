@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0187Chapter187TogetherAgain 
         "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/4025552/chapter-187-together-again",
     },
   ],
+  createdAt: "2026-09-28T07:03:55.000Z",
+  updatedAt: "2026-09-28T07:03:55.000Z",
 } as const satisfies StoryChapterRead

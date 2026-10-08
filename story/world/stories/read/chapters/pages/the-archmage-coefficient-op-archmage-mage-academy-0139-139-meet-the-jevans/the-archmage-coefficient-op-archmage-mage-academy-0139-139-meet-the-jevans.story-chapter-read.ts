@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0139139MeetTheJevans = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/4044666/139-meet-the-jevans",
     },
   ],
+  createdAt: "2026-10-01T22:06:40.661Z",
+  updatedAt: "2026-10-02T15:07:02.000Z",
 } as const satisfies StoryChapterRead

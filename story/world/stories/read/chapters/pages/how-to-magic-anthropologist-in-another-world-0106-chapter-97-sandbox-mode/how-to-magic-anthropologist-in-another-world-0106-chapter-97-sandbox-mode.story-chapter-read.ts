@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0106Chapter97SandboxMode = {
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3897190/chapter-97-sandbox-mode",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.207Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0165Vol4Chapter150Mysteriou
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3139969/vol-4-chapter-150-mysterious-lineage",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.238Z",
+  updatedAt: "2026-10-04T16:06:16.000Z",
 } as const satisfies StoryChapterRead

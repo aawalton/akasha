@@ -20,4 +20,6 @@ export const maidAscension0135Chapter125ToTrustOrNotToTrust = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/4044267/chapter-125-to-trust-or-not-to-trust",
     },
   ],
+  createdAt: "2026-10-01T20:06:41.651Z",
+  updatedAt: "2026-10-02T14:04:46.000Z",
 } as const satisfies StoryChapterRead

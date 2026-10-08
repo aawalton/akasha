@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0085Vol2Chapter81InSearchOf
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2754514/vol-2-chapter-81-in-search-of-the-missing",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T21:08:30.000Z",
 } as const satisfies StoryChapterRead

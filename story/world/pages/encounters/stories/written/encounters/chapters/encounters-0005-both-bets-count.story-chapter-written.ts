@@ -43,4 +43,6 @@ export const encounters0005BothBetsCount = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-41a127ea9b85c5bb"],
+  createdAt: "2026-10-06T23:28:02.284Z",
+  updatedAt: "2026-10-06T23:45:38.000Z",
 } as const satisfies StoryChapterWritten

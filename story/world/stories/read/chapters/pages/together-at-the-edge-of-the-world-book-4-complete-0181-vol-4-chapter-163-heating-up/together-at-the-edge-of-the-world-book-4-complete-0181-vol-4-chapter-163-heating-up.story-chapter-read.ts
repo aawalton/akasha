@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0181Vol4Chapter163HeatingUp
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3255748/vol-4-chapter-163-heating-up",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.239Z",
+  updatedAt: "2026-10-04T20:06:53.000Z",
 } as const satisfies StoryChapterRead

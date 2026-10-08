@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0093Chapter85HeroesAndHearsay
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3690732/chapter-85-heroes-and-hearsay",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.206Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

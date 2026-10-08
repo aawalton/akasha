@@ -52,4 +52,6 @@ export const hollowmere0033SoTheLightComesBack = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-05a4c4ea4daceeff", "image/image-1efe9846b155fee3"],
+  createdAt: "2026-10-03T14:14:13.734Z",
+  updatedAt: "2026-10-06T10:24:33.000Z",
 } as const satisfies StoryChapterWritten

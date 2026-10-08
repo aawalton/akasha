@@ -19,4 +19,6 @@ export const strayCatStrutStubbingNeverLol0785ChapterFiftyNineBabysFirstHive = {
         "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/4045236/chapter-fifty-nine-babys-first-hive",
     },
   ],
+  createdAt: "2026-10-02T00:03:50.708Z",
+  updatedAt: "2026-10-02T00:03:51.000Z",
 } as const satisfies StoryChapterRead

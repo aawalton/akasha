@@ -20,4 +20,6 @@ export const maidAscension0063Chapter63NoblesInDistress = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3479742/chapter-63-nobles-in-distress",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const theBookstore0015Chapter15AdventurersIi = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3266133/chapter-15-adventurers-ii",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.504Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

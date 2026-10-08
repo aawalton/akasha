@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0184Chapter184StrangeApe = {
         "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/4085096/chapter-184-strange-ape",
     },
   ],
+  createdAt: "2026-10-07T21:09:01.683Z",
+  updatedAt: "2026-10-07T21:09:02.000Z",
 } as const satisfies StoryChapterRead

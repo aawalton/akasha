@@ -60,4 +60,6 @@ export const fairweather0010TheMoonOrchids = {
     "image/image-6f422b8fee1b7be0",
     "image/image-4db19f1b83795463",
   ],
+  createdAt: "2026-10-04T16:16:13.940Z",
+  updatedAt: "2026-10-04T16:43:19.000Z",
 } as const satisfies StoryChapterWritten

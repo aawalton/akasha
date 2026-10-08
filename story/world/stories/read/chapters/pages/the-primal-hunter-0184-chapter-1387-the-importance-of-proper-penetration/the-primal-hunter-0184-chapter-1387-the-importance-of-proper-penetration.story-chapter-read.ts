@@ -20,4 +20,6 @@ export const thePrimalHunter0184Chapter1387TheImportanceOfProperPenetration = {
         "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3997806/chapter-1387-the-importance-of-proper-penetration",
     },
   ],
+  createdAt: "2026-09-22T16:04:33.803Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

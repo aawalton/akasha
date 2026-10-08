@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0222Vol5Chapter197Cookie = 
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3607198/vol-5-chapter-197-cookie",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T14:04:54.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const justAddMana0197192Book4Chapter36OnceUponAGreatDivide = {
         "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/4032664/192-book-4-chapter-36-once-upon-a-great-divide",
     },
   ],
+  createdAt: "2026-09-29T15:04:09.635Z",
+  updatedAt: "2026-09-29T15:04:10.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const thePrimalHunter0190Chapter1393ABattleWithDarkProspects = {
         "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/4038144/chapter-1393-a-battle-with-dark-prospects",
     },
   ],
+  createdAt: "2026-09-30T16:08:31.592Z",
+  updatedAt: "2026-10-02T14:04:46.000Z",
 } as const satisfies StoryChapterRead

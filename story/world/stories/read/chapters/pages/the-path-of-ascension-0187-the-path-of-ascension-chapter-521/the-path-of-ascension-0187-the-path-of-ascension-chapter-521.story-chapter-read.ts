@@ -20,4 +20,6 @@ export const thePathOfAscension0187ThePathOfAscensionChapter521 = {
         "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/4013978/the-path-of-ascension-chapter-521",
     },
   ],
+  createdAt: "2026-09-25T19:05:01.026Z",
+  updatedAt: "2026-09-28T20:27:37.000Z",
 } as const satisfies StoryChapterRead

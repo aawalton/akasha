@@ -19,4 +19,6 @@ export const phoenixAscensionCultivationLitrpg0178Chapter178ACurse = {
   story: "story-read/phoenix-ascension-cultivation-litrpg",
   ownLength: 2138,
   prose: "txt",
+  createdAt: "2026-09-20T19:05:07.426Z",
+  updatedAt: "2026-09-21T16:25:31.000Z",
 } as const satisfies StoryChapterRead

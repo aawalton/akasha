@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0105Vol3Chapter97FaceToFace
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2817954/vol-3-chapter-97-face-to-face",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.935Z",
+  updatedAt: "2026-10-01T14:06:52.000Z",
 } as const satisfies StoryChapterRead

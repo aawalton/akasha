@@ -55,4 +55,6 @@ export const hollowmere0003FeetInTheMere = {
     "image/image-e3e1cfd7f2be6345",
     "image/image-e34b5197d8b26579",
   ],
+  createdAt: "2026-10-02T16:28:31.089Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

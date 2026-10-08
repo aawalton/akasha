@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0107107Offering = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3779344/107-offering",
     },
   ],
+  createdAt: "2026-09-28T20:28:13.435Z",
+  updatedAt: "2026-09-28T20:28:14.000Z",
 } as const satisfies StoryChapterRead

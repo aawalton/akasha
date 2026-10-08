@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0154Vol4Chapter141ScreamOrC
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3067799/vol-4-chapter-141-scream-or-cry",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.238Z",
+  updatedAt: "2026-10-04T14:04:26.000Z",
 } as const satisfies StoryChapterRead

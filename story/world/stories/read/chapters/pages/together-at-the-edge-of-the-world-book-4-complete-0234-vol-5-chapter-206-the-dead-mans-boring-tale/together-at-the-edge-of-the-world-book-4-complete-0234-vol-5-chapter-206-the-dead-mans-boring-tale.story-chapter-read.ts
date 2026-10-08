@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0234Vol5Chapter206TheDeadMa
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3701542/vol-5-chapter-206-the-dead-mans-boring-tale",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T18:05:17.000Z",
 } as const satisfies StoryChapterRead

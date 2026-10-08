@@ -20,4 +20,6 @@ export const maidAscension0013Chapter13OrderFromDust = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3243585/chapter-13-order-from-dust",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

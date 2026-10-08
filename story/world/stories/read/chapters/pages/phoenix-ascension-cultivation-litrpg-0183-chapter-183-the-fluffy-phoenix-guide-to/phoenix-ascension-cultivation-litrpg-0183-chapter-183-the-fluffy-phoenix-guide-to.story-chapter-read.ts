@@ -20,4 +20,6 @@ export const phoenixAscensionCultivationLitrpg0183Chapter183TheFluffyPhoenixGuid
         "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/4059039/chapter-183-the-fluffy-phoenix-guide-to-disappointing",
     },
   ],
+  createdAt: "2026-10-04T21:07:13.526Z",
+  updatedAt: "2026-10-04T21:07:14.000Z",
 } as const satisfies StoryChapterRead

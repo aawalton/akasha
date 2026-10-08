@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0142Chapter136Favor = {
         "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/4003925/chapter-136-favor",
     },
   ],
+  createdAt: "2026-09-24T12:53:16.703Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

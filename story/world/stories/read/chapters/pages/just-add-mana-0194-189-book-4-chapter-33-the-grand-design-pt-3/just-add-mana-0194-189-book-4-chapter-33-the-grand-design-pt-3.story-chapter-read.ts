@@ -20,4 +20,6 @@ export const justAddMana0194189Book4Chapter33TheGrandDesignPt3 = {
         "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3997454/189-book-4-chapter-33-the-grand-design-pt-3",
     },
   ],
+  createdAt: "2026-09-22T15:03:48.898Z",
+  updatedAt: "2026-09-28T20:27:20.000Z",
 } as const satisfies StoryChapterRead

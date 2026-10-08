@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0257Vol5Chapter229SavingThe
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3943818/vol-5-chapter-229-saving-the-orphans-and-promoting",
     },
   ],
+  createdAt: "2026-09-30T07:15:25.876Z",
+  updatedAt: "2026-10-05T21:06:49.000Z",
 } as const satisfies StoryChapterRead

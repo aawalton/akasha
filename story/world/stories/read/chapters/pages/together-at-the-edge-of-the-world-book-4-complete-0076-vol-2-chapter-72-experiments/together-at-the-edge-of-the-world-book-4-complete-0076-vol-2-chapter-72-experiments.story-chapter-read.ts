@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0076Vol2Chapter72Experiment
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2716651/vol-2-chapter-72-experiments",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T12:08:32.000Z",
 } as const satisfies StoryChapterRead

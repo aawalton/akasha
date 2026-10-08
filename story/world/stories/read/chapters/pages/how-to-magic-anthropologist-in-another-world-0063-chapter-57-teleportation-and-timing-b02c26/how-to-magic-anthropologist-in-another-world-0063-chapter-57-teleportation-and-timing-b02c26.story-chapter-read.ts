@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0063Chapter57TeleportationAnd
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3177810/chapter-57-teleportation-and-timing-b02c26",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

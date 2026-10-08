@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0126126Punishment = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3931752/126-punishment",
     },
   ],
+  createdAt: "2026-09-28T20:28:18.754Z",
+  updatedAt: "2026-09-28T20:28:19.000Z",
 } as const satisfies StoryChapterRead

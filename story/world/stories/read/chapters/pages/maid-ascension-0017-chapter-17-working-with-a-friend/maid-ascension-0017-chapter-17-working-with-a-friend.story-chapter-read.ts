@@ -20,4 +20,6 @@ export const maidAscension0017Chapter17WorkingWithAFriend = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3254115/chapter-17-working-with-a-friend",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

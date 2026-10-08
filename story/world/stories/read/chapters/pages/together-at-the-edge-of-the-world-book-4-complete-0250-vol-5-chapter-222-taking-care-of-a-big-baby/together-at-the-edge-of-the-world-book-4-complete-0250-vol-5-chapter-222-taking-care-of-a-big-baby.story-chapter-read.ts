@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0250Vol5Chapter222TakingCar
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3867267/vol-5-chapter-222-taking-care-of-a-big-baby",
     },
   ],
+  createdAt: "2026-09-30T07:15:25.876Z",
+  updatedAt: "2026-10-05T20:07:24.000Z",
 } as const satisfies StoryChapterRead

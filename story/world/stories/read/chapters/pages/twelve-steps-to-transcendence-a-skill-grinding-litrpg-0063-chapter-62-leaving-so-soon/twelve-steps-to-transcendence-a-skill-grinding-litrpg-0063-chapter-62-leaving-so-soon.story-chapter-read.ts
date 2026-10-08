@@ -19,4 +19,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0063Chapter62LeavingS
         "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/4064658/chapter-62-leaving-so-soon",
     },
   ],
+  createdAt: "2026-10-05T22:08:15.815Z",
+  updatedAt: "2026-10-05T22:08:16.000Z",
 } as const satisfies StoryChapterRead

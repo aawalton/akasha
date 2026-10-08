@@ -20,4 +20,6 @@ export const thePrimalHunter0183Chapter1386ThoseWhoDwellWithinThePalaceO = {
   story: "story-read/the-primal-hunter",
   ownLength: 2585,
   prose: "txt",
+  createdAt: "2026-09-21T16:05:25.758Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const theBookstore0037Chapter37TheMountains = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3451257/chapter-37-the-mountains",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.505Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

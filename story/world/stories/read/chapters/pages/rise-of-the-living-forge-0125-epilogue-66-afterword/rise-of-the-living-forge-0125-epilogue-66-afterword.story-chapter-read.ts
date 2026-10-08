@@ -20,4 +20,6 @@ export const riseOfTheLivingForge0125Epilogue66Afterword = {
         "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/4007967/epilogue-66-afterword",
     },
   ],
+  createdAt: "2026-09-24T16:06:56.109Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

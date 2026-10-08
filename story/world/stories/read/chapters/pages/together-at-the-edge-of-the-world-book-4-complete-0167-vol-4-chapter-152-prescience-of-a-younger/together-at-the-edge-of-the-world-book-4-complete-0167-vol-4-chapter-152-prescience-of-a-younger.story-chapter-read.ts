@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0167Vol4Chapter152Prescienc
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3157708/vol-4-chapter-152-prescience-of-a-younger-sister",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.238Z",
+  updatedAt: "2026-10-04T16:06:16.000Z",
 } as const satisfies StoryChapterRead

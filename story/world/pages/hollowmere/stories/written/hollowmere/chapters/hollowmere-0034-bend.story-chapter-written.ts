@@ -60,4 +60,6 @@ export const hollowmere0034Bend = {
     "image/image-639924c0eda8d596",
     "image/image-0f12a1a6e5bb58f1",
   ],
+  createdAt: "2026-10-03T14:34:45.925Z",
+  updatedAt: "2026-10-06T10:41:09.000Z",
 } as const satisfies StoryChapterWritten

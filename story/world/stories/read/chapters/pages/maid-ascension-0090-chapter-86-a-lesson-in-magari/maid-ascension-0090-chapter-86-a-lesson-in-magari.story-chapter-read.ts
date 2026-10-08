@@ -20,4 +20,6 @@ export const maidAscension0090Chapter86ALessonInMagari = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3685956/chapter-86-a-lesson-in-magari",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

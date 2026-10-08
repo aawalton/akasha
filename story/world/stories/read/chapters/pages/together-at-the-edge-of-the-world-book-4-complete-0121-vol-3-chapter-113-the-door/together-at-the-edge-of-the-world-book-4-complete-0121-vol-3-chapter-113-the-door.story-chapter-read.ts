@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0121Vol3Chapter113TheDoor =
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2887232/vol-3-chapter-113-the-door",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.936Z",
+  updatedAt: "2026-10-01T21:08:45.000Z",
 } as const satisfies StoryChapterRead

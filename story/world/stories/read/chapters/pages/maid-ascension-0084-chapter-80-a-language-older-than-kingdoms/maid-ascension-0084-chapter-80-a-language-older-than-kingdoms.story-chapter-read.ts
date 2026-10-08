@@ -20,4 +20,6 @@ export const maidAscension0084Chapter80ALanguageOlderThanKingdoms = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3641109/chapter-80-a-language-older-than-kingdoms",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

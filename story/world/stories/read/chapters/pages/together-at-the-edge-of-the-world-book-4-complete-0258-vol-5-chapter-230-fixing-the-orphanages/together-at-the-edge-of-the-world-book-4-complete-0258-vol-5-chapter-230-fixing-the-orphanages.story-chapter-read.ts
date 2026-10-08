@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0258Vol5Chapter230FixingThe
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3956851/vol-5-chapter-230-fixing-the-orphanages",
     },
   ],
+  createdAt: "2026-09-30T07:15:25.876Z",
+  updatedAt: "2026-10-05T21:06:49.000Z",
 } as const satisfies StoryChapterRead

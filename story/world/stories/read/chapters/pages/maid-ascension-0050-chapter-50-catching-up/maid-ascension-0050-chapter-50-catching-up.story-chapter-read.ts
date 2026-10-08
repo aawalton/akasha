@@ -20,4 +20,6 @@ export const maidAscension0050Chapter50CatchingUp = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3375921/chapter-50-catching-up",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.217Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

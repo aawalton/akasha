@@ -20,4 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0200Chapter7415Endingtr
         "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/4059447/chapter-7415-endingtree",
     },
   ],
+  createdAt: "2026-10-05T00:04:46.474Z",
+  updatedAt: "2026-10-05T11:04:44.000Z",
 } as const satisfies StoryChapterRead

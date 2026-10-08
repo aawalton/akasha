@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0049Vol2Chapter45HelloWelco
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2627855/vol-2-chapter-45-hello-welcome-to-nialas-shop",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.888Z",
+  updatedAt: "2026-09-30T07:15:05.000Z",
 } as const satisfies StoryChapterRead

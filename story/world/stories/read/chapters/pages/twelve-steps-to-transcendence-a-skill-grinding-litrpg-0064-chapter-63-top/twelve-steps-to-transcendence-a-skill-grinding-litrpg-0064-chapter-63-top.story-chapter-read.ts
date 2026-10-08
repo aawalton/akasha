@@ -19,4 +19,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0064Chapter63Top = {
         "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/4085399/chapter-63-top",
     },
   ],
+  createdAt: "2026-10-07T22:09:00.019Z",
+  updatedAt: "2026-10-07T22:09:01.000Z",
 } as const satisfies StoryChapterRead

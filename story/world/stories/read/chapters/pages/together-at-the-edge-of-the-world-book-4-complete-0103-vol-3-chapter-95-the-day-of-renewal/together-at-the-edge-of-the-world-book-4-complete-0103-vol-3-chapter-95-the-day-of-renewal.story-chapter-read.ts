@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0103Vol3Chapter95TheDayOfRe
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2812003/vol-3-chapter-95-the-day-of-renewal",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.935Z",
+  updatedAt: "2026-10-01T02:07:26.000Z",
 } as const satisfies StoryChapterRead

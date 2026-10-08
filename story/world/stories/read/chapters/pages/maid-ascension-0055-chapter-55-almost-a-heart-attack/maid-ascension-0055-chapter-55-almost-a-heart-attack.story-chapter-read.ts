@@ -20,4 +20,6 @@ export const maidAscension0055Chapter55AlmostAHeartAttack = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3415281/chapter-55-almost-a-heart-attack",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.217Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

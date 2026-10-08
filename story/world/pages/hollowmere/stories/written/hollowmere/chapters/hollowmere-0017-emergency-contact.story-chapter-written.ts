@@ -45,4 +45,6 @@ export const hollowmere0017EmergencyContact = {
     "image/image-49c9b21c0881dd3c",
     "image/image-53f61d90b0c4f5a1",
   ],
+  createdAt: "2026-10-02T23:48:02.770Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

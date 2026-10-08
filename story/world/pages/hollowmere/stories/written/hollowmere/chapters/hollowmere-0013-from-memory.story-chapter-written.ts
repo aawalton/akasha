@@ -55,4 +55,6 @@ export const hollowmere0013FromMemory = {
     "image/image-e4b5d7a2c76387ab",
     "image/image-d22789bdc2065199",
   ],
+  createdAt: "2026-10-02T21:44:39.642Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

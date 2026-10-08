@@ -20,4 +20,6 @@ export const rebornAsADemonicTree0096Chapter621FourTeams = {
         "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/4004224/chapter-621-four-teams",
     },
   ],
+  createdAt: "2026-09-24T12:53:16.960Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

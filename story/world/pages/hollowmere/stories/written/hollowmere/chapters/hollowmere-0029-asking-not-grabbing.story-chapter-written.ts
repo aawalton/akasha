@@ -49,4 +49,6 @@ export const hollowmere0029AskingNotGrabbing = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-7464b8b3e2753294"],
+  createdAt: "2026-10-03T13:13:36.126Z",
+  updatedAt: "2026-10-04T09:27:18.000Z",
 } as const satisfies StoryChapterWritten

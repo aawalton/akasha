@@ -20,4 +20,6 @@ export const thePrimalHunter0191Chapter1394ABuzzlingAbundantPalace = {
         "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/4043257/chapter-1394-a-buzzling-abundant-palace",
     },
   ],
+  createdAt: "2026-10-01T16:08:47.606Z",
+  updatedAt: "2026-10-02T14:04:46.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0096InterludeSirDerenValis = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3734147/interlude-sir-deren-valis",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.515Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0057Chapter56DamnItAl
         "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/4029533/chapter-56-damn-it-all",
     },
   ],
+  createdAt: "2026-09-28T23:05:06.390Z",
+  updatedAt: "2026-09-28T23:05:07.000Z",
 } as const satisfies StoryChapterRead

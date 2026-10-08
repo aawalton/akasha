@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0111Vol3Chapter103ANewWayTo
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2847095/vol-3-chapter-103-a-new-way-to-travel",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.935Z",
+  updatedAt: "2026-10-01T17:08:45.000Z",
 } as const satisfies StoryChapterRead

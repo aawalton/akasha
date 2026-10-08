@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0084Vol2Chapter80HistoryLes
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2751630/vol-2-chapter-80-history-lesson",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T20:06:53.000Z",
 } as const satisfies StoryChapterRead

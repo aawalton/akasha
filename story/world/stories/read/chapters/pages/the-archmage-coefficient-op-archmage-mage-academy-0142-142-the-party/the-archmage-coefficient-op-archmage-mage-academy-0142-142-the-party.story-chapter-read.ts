@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0142142TheParty = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/4080075/142-the-party",
     },
   ],
+  createdAt: "2026-10-06T22:06:02.745Z",
+  updatedAt: "2026-10-06T22:06:03.000Z",
 } as const satisfies StoryChapterRead

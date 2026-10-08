@@ -67,4 +67,6 @@ export const fairweather0017Biscuit = {
     "image/image-91aa9166d3a5ea9a",
     "image/image-3737e46be4a5b8a7",
   ],
+  createdAt: "2026-10-06T19:24:02.450Z",
+  updatedAt: "2026-10-06T20:05:18.000Z",
 } as const satisfies StoryChapterWritten

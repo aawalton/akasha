@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0206SideStory5TheLittleGirl
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3485163/side-story-5-the-little-girl-in-between",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T01:05:40.000Z",
 } as const satisfies StoryChapterRead

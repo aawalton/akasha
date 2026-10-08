@@ -20,4 +20,6 @@ export const maidAscension0095Chapter91Instigating103 = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3725481/chapter-91-instigating-103",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.515Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

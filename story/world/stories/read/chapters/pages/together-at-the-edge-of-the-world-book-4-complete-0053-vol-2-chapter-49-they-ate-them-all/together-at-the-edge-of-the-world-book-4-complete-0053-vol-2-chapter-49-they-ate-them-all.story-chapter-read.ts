@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0053Vol2Chapter49TheyAteThe
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2637747/vol-2-chapter-49-they-ate-them-all",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.888Z",
+  updatedAt: "2026-09-30T07:15:05.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0224Vol5Chapter199AReallyGo
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3626578/vol-5-chapter-199-a-really-good-kiss",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T14:04:54.000Z",
 } as const satisfies StoryChapterRead

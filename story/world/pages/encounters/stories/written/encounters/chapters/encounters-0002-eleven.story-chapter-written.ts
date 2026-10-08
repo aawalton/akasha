@@ -50,4 +50,6 @@ export const encounters0002Eleven = {
     "image/image-5f1e872c7454f912",
     "image/image-36a9b21be9ed5bb4",
   ],
+  createdAt: "2026-10-06T22:30:32.633Z",
+  updatedAt: "2026-10-08T13:00:16.000Z",
 } as const satisfies StoryChapterWritten

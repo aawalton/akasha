@@ -51,4 +51,6 @@ export const hollowmere0006SixtyTwoPounds = {
     "image/image-bc0efd2744326868",
     "image/image-e132a1bc4cd5a4c0",
   ],
+  createdAt: "2026-10-02T18:49:26.843Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

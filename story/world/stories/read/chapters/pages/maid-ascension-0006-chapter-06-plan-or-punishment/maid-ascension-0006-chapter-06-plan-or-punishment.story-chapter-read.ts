@@ -20,4 +20,6 @@ export const maidAscension0006Chapter06PlanOrPunishment = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3229017/chapter-06-plan-or-punishment",
     },
   ],
+  createdAt: "2026-09-28T20:27:46.969Z",
+  updatedAt: "2026-09-28T20:27:48.000Z",
 } as const satisfies StoryChapterRead

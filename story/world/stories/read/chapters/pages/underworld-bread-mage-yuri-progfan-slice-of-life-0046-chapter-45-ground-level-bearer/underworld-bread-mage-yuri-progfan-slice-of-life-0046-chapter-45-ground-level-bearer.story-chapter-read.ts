@@ -19,4 +19,6 @@ export const underworldBreadMageYuriProgfanSliceOfLife0046Chapter45GroundLevelBe
         "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/4017305/chapter-45-ground-level-bearer",
     },
   ],
+  createdAt: "2026-09-26T14:05:36.332Z",
+  updatedAt: "2026-09-26T14:05:38.000Z",
 } as const satisfies StoryChapterRead

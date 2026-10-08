@@ -19,4 +19,6 @@ export const labyrinthOfTheMadGod0350Chapter70PerilousDescent = {
         "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/4063865/chapter-70-perilous-descent",
     },
   ],
+  createdAt: "2026-10-05T19:08:09.241Z",
+  updatedAt: "2026-10-05T19:08:10.000Z",
 } as const satisfies StoryChapterRead

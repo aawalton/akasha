@@ -71,4 +71,6 @@ export const fairweather0020LanternNight = {
     "image/image-f232426770d515de",
     "image/image-bcf183575681fa41",
   ],
+  createdAt: "2026-10-06T22:33:04.704Z",
+  updatedAt: "2026-10-06T23:17:53.000Z",
 } as const satisfies StoryChapterWritten

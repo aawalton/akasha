@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0060Vol2Chapter56MyEqualInA
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2660594/vol-2-chapter-56-my-equal-in-all-things",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.889Z",
+  updatedAt: "2026-09-30T07:15:05.000Z",
 } as const satisfies StoryChapterRead

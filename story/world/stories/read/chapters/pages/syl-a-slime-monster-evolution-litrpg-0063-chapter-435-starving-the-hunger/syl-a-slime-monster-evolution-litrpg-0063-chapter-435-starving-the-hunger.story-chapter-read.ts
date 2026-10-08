@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0063Chapter435StarvingTheHunger = {
         "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/4060826/chapter-435-starving-the-hunger",
     },
   ],
+  createdAt: "2026-10-05T07:04:51.700Z",
+  updatedAt: "2026-10-05T11:04:44.000Z",
 } as const satisfies StoryChapterRead

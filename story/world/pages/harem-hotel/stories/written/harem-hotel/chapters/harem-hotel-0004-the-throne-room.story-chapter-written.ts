@@ -27,4 +27,6 @@ export const haremHotel0004TheThroneRoom = {
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
+  createdAt: "2026-09-29T21:49:21.257Z",
+  updatedAt: "2026-10-03T18:40:48.000Z",
 } as const satisfies StoryChapterWritten

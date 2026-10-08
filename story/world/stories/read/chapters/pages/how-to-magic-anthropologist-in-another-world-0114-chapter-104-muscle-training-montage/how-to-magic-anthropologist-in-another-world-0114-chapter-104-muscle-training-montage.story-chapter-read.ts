@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0114Chapter104MuscleTrainingM
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/4034037/chapter-104-muscle-training-montage",
     },
   ],
+  createdAt: "2026-09-29T20:08:05.003Z",
+  updatedAt: "2026-10-02T00:03:51.000Z",
 } as const satisfies StoryChapterRead

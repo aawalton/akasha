@@ -20,4 +20,6 @@ export const theBookstore0022Chapter22CooperationIi = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3311752/chapter-22-cooperation-ii",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.504Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

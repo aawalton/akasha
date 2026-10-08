@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0145Chapter139Crossing =
         "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/4058598/chapter-139-crossing",
     },
   ],
+  createdAt: "2026-10-04T19:04:51.216Z",
+  updatedAt: "2026-10-04T19:04:52.000Z",
 } as const satisfies StoryChapterRead

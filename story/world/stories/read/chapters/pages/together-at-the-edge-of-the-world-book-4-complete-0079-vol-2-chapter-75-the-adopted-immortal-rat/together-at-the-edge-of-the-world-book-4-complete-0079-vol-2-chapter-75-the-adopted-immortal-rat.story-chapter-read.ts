@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0079Vol2Chapter75TheAdopted
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2731595/vol-2-chapter-75-the-adopted-immortal-rat",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T18:05:14.000Z",
 } as const satisfies StoryChapterRead

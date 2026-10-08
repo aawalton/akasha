@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0120Vol3Chapter112EnterLeft
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2879118/vol-3-chapter-112-enter-left-exit-right",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.936Z",
+  updatedAt: "2026-10-01T20:06:42.000Z",
 } as const satisfies StoryChapterRead

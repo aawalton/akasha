@@ -20,4 +20,6 @@ export const maidAscension0005Chapter05TheWayThingsWork = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3226633/chapter-05-the-way-things-work",
     },
   ],
+  createdAt: "2026-09-28T20:27:46.969Z",
+  updatedAt: "2026-09-28T20:27:48.000Z",
 } as const satisfies StoryChapterRead

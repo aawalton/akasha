@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0064Chapter58BitterAndSweetB0
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3189074/chapter-58-bitter-and-sweet-b02c27",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

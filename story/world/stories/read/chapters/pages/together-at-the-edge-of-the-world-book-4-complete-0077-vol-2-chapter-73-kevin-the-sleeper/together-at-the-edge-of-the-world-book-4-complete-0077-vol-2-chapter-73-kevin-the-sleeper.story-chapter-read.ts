@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0077Vol2Chapter73KevinTheSl
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2725615/vol-2-chapter-73-kevin-the-sleeper",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T15:05:34.000Z",
 } as const satisfies StoryChapterRead

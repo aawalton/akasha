@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0082Chapter74IAmNotAHero = {
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3515787/chapter-74-i-am-not-a-hero",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.943Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

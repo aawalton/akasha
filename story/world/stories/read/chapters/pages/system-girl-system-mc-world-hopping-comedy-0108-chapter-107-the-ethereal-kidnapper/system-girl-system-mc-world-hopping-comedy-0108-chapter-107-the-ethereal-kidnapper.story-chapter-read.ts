@@ -19,4 +19,6 @@ export const systemGirlSystemMcWorldHoppingComedy0108Chapter107TheEtherealKidnap
         "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/4058773/chapter-107-the-ethereal-kidnapper",
     },
   ],
+  createdAt: "2026-10-04T20:06:52.845Z",
+  updatedAt: "2026-10-04T20:06:53.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0091AddressingTheOldWomanIn
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2950572/addressing-the-old-woman-in-the-room",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.890Z",
+  updatedAt: "2026-09-30T22:04:44.000Z",
 } as const satisfies StoryChapterRead

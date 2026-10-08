@@ -58,4 +58,6 @@ export const fairweather0016CreamOnTheStep = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-7ffa37a956afdf13", "image/image-9dce51de984935b6"],
+  createdAt: "2026-10-06T18:48:17.685Z",
+  updatedAt: "2026-10-06T19:16:09.000Z",
 } as const satisfies StoryChapterWritten

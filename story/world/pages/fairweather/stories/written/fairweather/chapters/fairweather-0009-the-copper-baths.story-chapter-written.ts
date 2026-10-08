@@ -67,4 +67,6 @@ export const fairweather0009TheCopperBaths = {
     "image/image-e919c88d3f94d084",
     "image/image-365af28799e3fee3",
   ],
+  createdAt: "2026-10-04T15:38:18.461Z",
+  updatedAt: "2026-10-04T16:16:12.000Z",
 } as const satisfies StoryChapterWritten

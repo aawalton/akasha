@@ -20,4 +20,6 @@ export const maidAscension0016Chapter16AnExtraPairOfHands = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3253246/chapter-16-an-extra-pair-of-hands",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

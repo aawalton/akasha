@@ -19,4 +19,6 @@ export const theGiftOfLoot0093BookReleaseAndStubAnnouncement = {
         "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/4084279/book-release-and-stub-announcement",
     },
   ],
+  createdAt: "2026-10-07T18:04:59.727Z",
+  updatedAt: "2026-10-07T18:05:00.000Z",
 } as const satisfies StoryChapterRead

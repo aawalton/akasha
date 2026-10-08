@@ -20,4 +20,6 @@ export const theBookstore0013Chapter13ProgressIi = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3261493/chapter-13-progress-ii",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.504Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0107Chapter98TheWorstKeptSecr
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3912672/chapter-98-the-worst-kept-secret-in-hano",
     },
   ],
+  createdAt: "2026-09-28T20:28:29.207Z",
+  updatedAt: "2026-09-28T20:28:30.000Z",
 } as const satisfies StoryChapterRead

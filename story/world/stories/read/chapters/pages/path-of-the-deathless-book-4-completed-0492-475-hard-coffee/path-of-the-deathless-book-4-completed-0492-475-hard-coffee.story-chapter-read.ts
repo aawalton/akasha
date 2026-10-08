@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0492475HardCoffee = {
         "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/4054113/475-hard-coffee",
     },
   ],
+  createdAt: "2026-10-03T18:08:32.090Z",
+  updatedAt: "2026-10-03T18:08:33.000Z",
 } as const satisfies StoryChapterRead

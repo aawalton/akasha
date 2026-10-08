@@ -20,4 +20,6 @@ export const maidAscension0138Chapter128FifthOnTheList = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/4084826/chapter-128-fifth-on-the-list",
     },
   ],
+  createdAt: "2026-10-07T20:06:10.392Z",
+  updatedAt: "2026-10-07T20:06:11.000Z",
 } as const satisfies StoryChapterRead

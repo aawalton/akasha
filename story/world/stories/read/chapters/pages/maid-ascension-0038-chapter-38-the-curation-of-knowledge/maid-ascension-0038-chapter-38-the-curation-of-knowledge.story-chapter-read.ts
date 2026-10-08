@@ -20,4 +20,6 @@ export const maidAscension0038Chapter38TheCurationOfKnowledge = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3326130/chapter-38-the-curation-of-knowledge",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

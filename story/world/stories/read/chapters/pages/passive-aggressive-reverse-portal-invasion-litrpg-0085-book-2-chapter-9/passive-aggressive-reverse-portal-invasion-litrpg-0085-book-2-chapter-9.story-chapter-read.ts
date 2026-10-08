@@ -20,4 +20,6 @@ export const passiveAggressiveReversePortalInvasionLitrpg0085Book2Chapter9 = {
         "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/4031775/book-2-chapter-9",
     },
   ],
+  createdAt: "2026-09-29T10:07:41.069Z",
+  updatedAt: "2026-09-29T14:05:29.000Z",
 } as const satisfies StoryChapterRead

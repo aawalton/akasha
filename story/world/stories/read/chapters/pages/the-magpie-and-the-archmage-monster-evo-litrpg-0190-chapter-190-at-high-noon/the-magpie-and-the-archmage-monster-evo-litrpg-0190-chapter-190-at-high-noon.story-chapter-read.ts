@@ -19,4 +19,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0190Chapter190AtHighNoon = {
         "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/4051917/chapter-190-at-high-noon",
     },
   ],
+  createdAt: "2026-10-03T07:08:35.621Z",
+  updatedAt: "2026-10-03T07:08:36.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0026Chapter26TheShapeOfMeditation = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3286768/chapter-26-the-shape-of-meditation",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

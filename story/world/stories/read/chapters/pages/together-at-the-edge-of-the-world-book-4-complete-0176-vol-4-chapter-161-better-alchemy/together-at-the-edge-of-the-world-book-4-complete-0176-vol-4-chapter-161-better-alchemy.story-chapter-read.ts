@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0176Vol4Chapter161BetterAlc
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3238583/vol-4-chapter-161-better-alchemy",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.239Z",
+  updatedAt: "2026-10-04T17:04:11.000Z",
 } as const satisfies StoryChapterRead

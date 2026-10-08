@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy00044ALittleBitOfAProble
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3134668/4-a-little-bit-of-a-problem",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

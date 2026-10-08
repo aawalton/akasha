@@ -54,4 +54,6 @@ export const hollowmere0027UpHere = {
     "image/image-5d212c7becf28ad0",
     "image/image-3f83f1d305c75f0d",
   ],
+  createdAt: "2026-10-03T12:33:58.725Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten

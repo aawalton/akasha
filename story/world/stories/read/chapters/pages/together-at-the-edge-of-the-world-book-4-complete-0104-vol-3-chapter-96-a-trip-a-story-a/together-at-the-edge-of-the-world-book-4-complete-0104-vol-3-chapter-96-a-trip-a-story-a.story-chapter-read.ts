@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0104Vol3Chapter96ATripAStor
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2815011/vol-3-chapter-96-a-trip-a-story-a-misconception",
     },
   ],
+  createdAt: "2026-09-30T07:15:09.935Z",
+  updatedAt: "2026-10-01T13:07:17.000Z",
 } as const satisfies StoryChapterRead

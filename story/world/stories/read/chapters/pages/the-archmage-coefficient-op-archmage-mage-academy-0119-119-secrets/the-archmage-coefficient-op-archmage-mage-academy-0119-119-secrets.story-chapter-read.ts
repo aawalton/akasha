@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0119119Secrets = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3873936/119-secrets",
     },
   ],
+  createdAt: "2026-09-28T20:28:13.435Z",
+  updatedAt: "2026-09-28T20:28:14.000Z",
 } as const satisfies StoryChapterRead

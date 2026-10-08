@@ -20,4 +20,6 @@ export const maidAscension0108Chapter102ToTheAcademy = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3818670/chapter-102-to-the-academy",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

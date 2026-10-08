@@ -20,4 +20,6 @@ export const riseOfTheLivingForge0123Epilogue46 = {
         "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3997493/epilogue-46",
     },
   ],
+  createdAt: "2026-09-22T15:03:49.062Z",
+  updatedAt: "2026-09-28T20:27:29.000Z",
 } as const satisfies StoryChapterRead

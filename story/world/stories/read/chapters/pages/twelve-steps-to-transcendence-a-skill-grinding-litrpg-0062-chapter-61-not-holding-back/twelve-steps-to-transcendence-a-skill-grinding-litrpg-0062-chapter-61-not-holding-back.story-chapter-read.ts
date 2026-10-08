@@ -19,4 +19,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0062Chapter61NotHoldi
         "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/4059256/chapter-61-not-holding-back",
     },
   ],
+  createdAt: "2026-10-04T22:08:48.905Z",
+  updatedAt: "2026-10-04T22:08:49.000Z",
 } as const satisfies StoryChapterRead

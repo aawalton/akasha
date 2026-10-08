@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0209Vol4Chapter187TheLonely
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3496287/vol-4-chapter-187-the-lonely-monster",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T10:07:42.000Z",
 } as const satisfies StoryChapterRead

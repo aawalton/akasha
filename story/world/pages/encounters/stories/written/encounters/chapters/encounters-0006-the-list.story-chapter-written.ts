@@ -44,4 +44,6 @@ export const encounters0006TheList = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-90cab611bd0debcb"],
+  createdAt: "2026-10-06T23:45:47.376Z",
+  updatedAt: "2026-10-07T00:05:41.000Z",
 } as const satisfies StoryChapterWritten

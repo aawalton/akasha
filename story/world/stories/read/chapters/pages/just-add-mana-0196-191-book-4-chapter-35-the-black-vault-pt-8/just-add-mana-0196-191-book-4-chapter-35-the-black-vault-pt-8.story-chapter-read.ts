@@ -20,4 +20,6 @@ export const justAddMana0196191Book4Chapter35TheBlackVaultPt8 = {
         "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/4017483/191-book-4-chapter-35-the-black-vault-pt-8",
     },
   ],
+  createdAt: "2026-09-26T15:03:59.560Z",
+  updatedAt: "2026-09-28T20:27:20.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0236Vol5Chapter208MrStamina
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3719392/vol-5-chapter-208-mr-stamina-magic",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T18:05:17.000Z",
 } as const satisfies StoryChapterRead

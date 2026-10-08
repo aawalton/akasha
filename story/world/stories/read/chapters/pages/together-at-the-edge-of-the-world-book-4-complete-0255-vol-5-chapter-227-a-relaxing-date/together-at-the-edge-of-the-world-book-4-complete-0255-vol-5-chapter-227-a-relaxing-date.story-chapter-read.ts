@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0255Vol5Chapter227ARelaxing
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3924715/vol-5-chapter-227-a-relaxing-date",
     },
   ],
+  createdAt: "2026-09-30T07:15:25.876Z",
+  updatedAt: "2026-10-05T21:06:49.000Z",
 } as const satisfies StoryChapterRead

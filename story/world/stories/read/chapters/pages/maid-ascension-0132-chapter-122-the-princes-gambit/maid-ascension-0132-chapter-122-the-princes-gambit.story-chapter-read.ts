@@ -20,4 +20,6 @@ export const maidAscension0132Chapter122ThePrincesGambit = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/4018781/chapter-122-the-princes-gambit",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

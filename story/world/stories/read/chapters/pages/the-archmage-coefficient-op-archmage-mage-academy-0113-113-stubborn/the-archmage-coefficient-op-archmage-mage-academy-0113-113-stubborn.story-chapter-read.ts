@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0113113Stubborn = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3827376/113-stubborn",
     },
   ],
+  createdAt: "2026-09-28T20:28:13.435Z",
+  updatedAt: "2026-09-28T20:28:14.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0143Chapter137Tension = 
         "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/4013803/chapter-137-tension",
     },
   ],
+  createdAt: "2026-09-25T19:05:01.026Z",
+  updatedAt: "2026-09-25T19:05:02.000Z",
 } as const satisfies StoryChapterRead

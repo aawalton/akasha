@@ -19,4 +19,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0147Chapter141Outriders 
         "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/4084572/chapter-141-outriders",
     },
   ],
+  createdAt: "2026-10-07T19:05:04.359Z",
+  updatedAt: "2026-10-07T19:05:05.000Z",
 } as const satisfies StoryChapterRead

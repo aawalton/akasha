@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0263Vol5Chapter235WhatRealP
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/4012086/vol-5-chapter-235-what-real-power-looks-like",
     },
   ],
+  createdAt: "2026-09-30T07:15:25.877Z",
+  updatedAt: "2026-10-05T22:08:16.000Z",
 } as const satisfies StoryChapterRead

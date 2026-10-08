@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0056Vol2Chapter52DoesSheLik
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2645747/vol-2-chapter-52-does-she-like-goblins",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.889Z",
+  updatedAt: "2026-09-30T07:15:05.000Z",
 } as const satisfies StoryChapterRead

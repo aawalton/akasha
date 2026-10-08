@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0137137Bait = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/4029339/137-bait",
     },
   ],
+  createdAt: "2026-09-28T22:03:33.173Z",
+  updatedAt: "2026-09-28T22:03:34.000Z",
 } as const satisfies StoryChapterRead

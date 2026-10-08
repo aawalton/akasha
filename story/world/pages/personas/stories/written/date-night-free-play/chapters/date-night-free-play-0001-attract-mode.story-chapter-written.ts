@@ -11,4 +11,6 @@ export const dateNightFreePlay0001AttractMode = {
   unit: "unit/words",
   prose: "txt",
   beats: "jsonl",
+  createdAt: "2026-09-28T12:50:29.035Z",
+  updatedAt: "2026-10-03T20:24:43.000Z",
 } as const satisfies StoryChapterWritten

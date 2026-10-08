@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0483466Throne = {
         "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/4003853/466-throne",
     },
   ],
+  createdAt: "2026-09-24T12:53:16.873Z",
+  updatedAt: "2026-09-24T12:53:21.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0032Chapter32TheSecondFloor = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3306279/chapter-32-the-second-floor",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

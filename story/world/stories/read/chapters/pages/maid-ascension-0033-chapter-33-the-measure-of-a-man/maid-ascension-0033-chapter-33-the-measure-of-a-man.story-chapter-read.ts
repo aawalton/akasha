@@ -20,4 +20,6 @@ export const maidAscension0033Chapter33TheMeasureOfAMan = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3310363/chapter-33-the-measure-of-a-man",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

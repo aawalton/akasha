@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0200Vol4Chapter180StopThisF
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3422267/vol-4-chapter-180-stop-this-foolishness",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.203Z",
+  updatedAt: "2026-10-05T00:04:47.000Z",
 } as const satisfies StoryChapterRead

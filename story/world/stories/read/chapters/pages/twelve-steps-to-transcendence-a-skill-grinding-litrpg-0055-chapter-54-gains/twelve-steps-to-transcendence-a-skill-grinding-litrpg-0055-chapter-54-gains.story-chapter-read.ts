@@ -19,4 +19,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0055Chapter54Gains = 
         "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3999401/chapter-54-gains",
     },
   ],
+  createdAt: "2026-09-22T22:07:55.316Z",
+  updatedAt: "2026-09-22T22:07:59.000Z",
 } as const satisfies StoryChapterRead

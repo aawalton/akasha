@@ -20,4 +20,6 @@ export const maidAscension0078Chapter74PowerImbalance = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3590488/chapter-74-power-imbalance",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

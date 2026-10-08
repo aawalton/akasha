@@ -19,4 +19,6 @@ export const sovereignSightProgressionFantasyCultivation0061Chapter061 = {
         "https://www.royalroad.com/fiction/171595/sovereign-sight-progression-fantasy-cultivation/chapter/4001924/chapter-061",
     },
   ],
+  createdAt: "2026-09-23T12:05:25.869Z",
+  updatedAt: "2026-09-23T12:05:29.000Z",
 } as const satisfies StoryChapterRead

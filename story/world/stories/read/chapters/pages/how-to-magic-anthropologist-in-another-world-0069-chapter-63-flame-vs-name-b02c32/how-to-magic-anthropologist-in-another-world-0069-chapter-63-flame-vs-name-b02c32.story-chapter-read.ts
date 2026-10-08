@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0069Chapter63FlameVsNameB02c3
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3261501/chapter-63-flame-vs-name-b02c32",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

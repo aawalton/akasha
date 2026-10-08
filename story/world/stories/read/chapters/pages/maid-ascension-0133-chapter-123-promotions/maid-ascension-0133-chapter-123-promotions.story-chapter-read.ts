@@ -20,4 +20,6 @@ export const maidAscension0133Chapter123Promotions = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/4028930/chapter-123-promotions",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T21:07:52.000Z",
 } as const satisfies StoryChapterRead

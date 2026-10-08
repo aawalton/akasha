@@ -20,4 +20,6 @@ export const systemChangeSystemUniverse0113Chapter691WhatIsItLike = {
         "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/4080507/chapter-691-what-is-it-like",
     },
   ],
+  createdAt: "2026-10-07T00:05:37.086Z",
+  updatedAt: "2026-10-07T02:09:00.000Z",
 } as const satisfies StoryChapterRead

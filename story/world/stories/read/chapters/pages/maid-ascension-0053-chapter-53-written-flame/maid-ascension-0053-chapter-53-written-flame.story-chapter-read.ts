@@ -20,4 +20,6 @@ export const maidAscension0053Chapter53WrittenFlame = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3396289/chapter-53-written-flame",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.217Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

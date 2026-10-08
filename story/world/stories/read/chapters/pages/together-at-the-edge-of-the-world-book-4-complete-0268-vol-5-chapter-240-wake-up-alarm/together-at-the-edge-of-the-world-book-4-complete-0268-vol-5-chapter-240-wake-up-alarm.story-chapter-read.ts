@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0268Vol5Chapter240WakeUpAla
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/4083019/vol-5-chapter-240-wake-up-alarm",
     },
   ],
+  createdAt: "2026-10-07T13:04:14.056Z",
+  updatedAt: "2026-10-07T14:07:50.000Z",
 } as const satisfies StoryChapterRead

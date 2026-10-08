@@ -48,4 +48,6 @@ export const hollowmere0015BreatheOut = {
     "story-recorder/picture",
   ],
   scenes: ["image/image-6f4617409fad911e", "image/image-d092948cf5bc3249"],
+  createdAt: "2026-10-02T22:24:51.451Z",
+  updatedAt: "2026-10-03T18:40:48.000Z",
 } as const satisfies StoryChapterWritten

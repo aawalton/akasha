@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0204Vol4Chapter184ItsGettin
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3464586/vol-4-chapter-184-its-getting-too-much",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.203Z",
+  updatedAt: "2026-10-05T00:04:47.000Z",
 } as const satisfies StoryChapterRead

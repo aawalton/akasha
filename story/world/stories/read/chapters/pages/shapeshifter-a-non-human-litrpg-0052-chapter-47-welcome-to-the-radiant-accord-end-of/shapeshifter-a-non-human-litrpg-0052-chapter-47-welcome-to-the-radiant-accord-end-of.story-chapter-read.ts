@@ -19,4 +19,6 @@ export const shapeshifterANonHumanLitrpg0052Chapter47WelcomeToTheRadiantAccordEn
   story: "story-read/shapeshifter-a-non-human-litrpg",
   ownLength: 1899,
   prose: "txt",
+  createdAt: "2026-09-22T09:03:59.226Z",
+  updatedAt: "2026-09-22T09:04:00.000Z",
 } as const satisfies StoryChapterRead

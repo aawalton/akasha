@@ -17,4 +17,6 @@ export const theWanderingInn0834TalesOfInnworld8 = {
       externalLink: "https://wanderinginn.com/2026/09/19/tales-of-innworld-8/",
     },
   ],
+  createdAt: "2026-09-27T13:40:32.980Z",
+  updatedAt: "2026-09-27T13:40:35.000Z",
 } as const satisfies StoryChapterRead

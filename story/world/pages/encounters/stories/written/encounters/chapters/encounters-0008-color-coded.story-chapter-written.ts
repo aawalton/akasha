@@ -46,4 +46,6 @@ export const encounters0008ColorCoded = {
     "story-recorder/memory",
   ],
   scenes: ["image/image-0e217c436aae5ba2"],
+  createdAt: "2026-10-07T00:29:49.101Z",
+  updatedAt: "2026-10-07T00:49:23.000Z",
 } as const satisfies StoryChapterWritten

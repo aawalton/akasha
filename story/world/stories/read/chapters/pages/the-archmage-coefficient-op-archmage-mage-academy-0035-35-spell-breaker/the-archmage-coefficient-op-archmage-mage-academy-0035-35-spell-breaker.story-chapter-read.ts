@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy003535SpellBreaker = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3253409/35-spell-breaker",
     },
   ],
+  createdAt: "2026-09-28T20:28:08.182Z",
+  updatedAt: "2026-09-28T20:28:09.000Z",
 } as const satisfies StoryChapterRead

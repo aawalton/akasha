@@ -20,4 +20,6 @@ export const theBookstore0019Chapter19APartnershipBetweenCustomers = {
         "https://www.royalroad.com/fiction/57861/the-bookstore/chapter/3299496/chapter-19-a-partnership-between-customers",
     },
   ],
+  createdAt: "2026-09-28T20:28:49.504Z",
+  updatedAt: "2026-09-28T20:28:50.000Z",
 } as const satisfies StoryChapterRead

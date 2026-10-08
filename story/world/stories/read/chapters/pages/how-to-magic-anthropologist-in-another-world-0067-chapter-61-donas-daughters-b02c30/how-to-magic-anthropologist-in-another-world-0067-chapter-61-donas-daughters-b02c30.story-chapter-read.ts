@@ -20,4 +20,6 @@ export const howToMagicAnthropologistInAnotherWorld0067Chapter61DonasDaughtersB0
         "https://www.royalroad.com/fiction/70275/how-to-magic-anthropologist-in-another-world/chapter/3232280/chapter-61-donas-daughters-b02c30",
     },
   ],
+  createdAt: "2026-09-28T20:28:23.942Z",
+  updatedAt: "2026-09-28T20:28:25.000Z",
 } as const satisfies StoryChapterRead

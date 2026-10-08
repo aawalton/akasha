@@ -20,4 +20,6 @@ export const maidAscension0110Chapter104OldManWaxy = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3835826/chapter-104-old-man-waxy",
     },
   ],
+  createdAt: "2026-09-28T20:28:02.839Z",
+  updatedAt: "2026-09-28T20:28:04.000Z",
 } as const satisfies StoryChapterRead

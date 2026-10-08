@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0075Vol2Chapter71TheSuperRi
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2713999/vol-2-chapter-71-the-super-rich",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.889Z",
+  updatedAt: "2026-09-30T12:08:32.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0060Chapter59ThisIsAB
         "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/4044856/chapter-59-this-is-a-bad-idea",
     },
   ],
+  createdAt: "2026-10-01T22:06:40.661Z",
+  updatedAt: "2026-10-01T22:06:41.000Z",
 } as const satisfies StoryChapterRead

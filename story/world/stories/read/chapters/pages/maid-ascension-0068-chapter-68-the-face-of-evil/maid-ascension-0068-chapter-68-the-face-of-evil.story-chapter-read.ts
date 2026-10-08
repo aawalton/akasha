@@ -20,4 +20,6 @@ export const maidAscension0068Chapter68TheFaceOfEvil = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3521020/chapter-68-the-face-of-evil",
     },
   ],
+  createdAt: "2026-09-28T20:27:57.514Z",
+  updatedAt: "2026-09-28T20:27:58.000Z",
 } as const satisfies StoryChapterRead

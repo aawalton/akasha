@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0229SideStorySuggestions7Ju
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3651570/side-story-suggestions-7-july-2026",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T17:06:39.000Z",
 } as const satisfies StoryChapterRead

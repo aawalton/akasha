@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0198Vol4Chapter178ThatsNoGo
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3399050/vol-4-chapter-178-thats-no-good-girl",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.203Z",
+  updatedAt: "2026-10-04T23:07:44.000Z",
 } as const satisfies StoryChapterRead

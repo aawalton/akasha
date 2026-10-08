@@ -20,4 +20,6 @@ export const justAddMana0198193Book4Chapter37Communication = {
         "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/4042798/193-book-4-chapter-37-communication",
     },
   ],
+  createdAt: "2026-10-01T14:06:51.035Z",
+  updatedAt: "2026-10-02T13:04:45.000Z",
 } as const satisfies StoryChapterRead

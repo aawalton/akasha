@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0488471ASanctuaryNamedAbsence = {
         "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/4033713/471-a-sanctuary-named-absence",
     },
   ],
+  createdAt: "2026-09-29T18:06:16.829Z",
+  updatedAt: "2026-09-29T18:06:17.000Z",
 } as const satisfies StoryChapterRead

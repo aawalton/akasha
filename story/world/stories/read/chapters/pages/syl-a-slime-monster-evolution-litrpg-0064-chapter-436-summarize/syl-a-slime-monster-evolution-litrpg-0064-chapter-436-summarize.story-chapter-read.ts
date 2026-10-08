@@ -20,4 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0064Chapter436Summarize = {
         "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/4081717/chapter-436-summarize",
     },
   ],
+  createdAt: "2026-10-07T07:06:01.626Z",
+  updatedAt: "2026-10-07T14:07:50.000Z",
 } as const satisfies StoryChapterRead

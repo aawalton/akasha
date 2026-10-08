@@ -20,4 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy008282TheFirstAttack = {
         "https://www.royalroad.com/fiction/156215/the-archmage-coefficient-op-archmage-mage-academy/chapter/3581416/82-the-first-attack",
     },
   ],
+  createdAt: "2026-09-28T20:28:13.434Z",
+  updatedAt: "2026-09-28T20:28:14.000Z",
 } as const satisfies StoryChapterRead

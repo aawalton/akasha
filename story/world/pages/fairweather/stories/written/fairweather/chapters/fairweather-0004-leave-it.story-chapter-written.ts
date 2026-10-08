@@ -55,4 +55,6 @@ export const fairweather0004LeaveIt = {
     "image/image-9c27c5cc4376456c",
     "image/image-a10443061a872af0",
   ],
+  createdAt: "2026-10-04T08:44:47.908Z",
+  updatedAt: "2026-10-04T12:34:16.000Z",
 } as const satisfies StoryChapterWritten

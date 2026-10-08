@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0227Vol5Chapter201ATallPowe
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3648466/vol-5-chapter-201-a-tall-powerful-evil-man",
     },
   ],
+  createdAt: "2026-09-30T07:15:22.204Z",
+  updatedAt: "2026-10-05T17:06:39.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const maidAscension0029Chapter29ABreathBetweenThoughts = {
         "https://www.royalroad.com/fiction/160304/maid-ascension/chapter/3293727/chapter-29-a-breath-between-thoughts",
     },
   ],
+  createdAt: "2026-09-28T20:27:52.216Z",
+  updatedAt: "2026-09-28T20:27:53.000Z",
 } as const satisfies StoryChapterRead

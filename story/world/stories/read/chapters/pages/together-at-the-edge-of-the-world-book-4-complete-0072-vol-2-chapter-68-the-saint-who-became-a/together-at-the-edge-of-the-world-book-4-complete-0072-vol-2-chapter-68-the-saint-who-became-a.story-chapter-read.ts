@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0072Vol2Chapter68TheSaintWh
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/2705970/vol-2-chapter-68-the-saint-who-became-a-monster",
     },
   ],
+  createdAt: "2026-09-30T07:15:03.889Z",
+  updatedAt: "2026-09-30T09:07:39.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0197Vol4Chapter177SerpentGr
         "https://www.royalroad.com/fiction/127361/together-at-the-edge-of-the-world-book-4-complete/chapter/3390284/vol-4-chapter-177-serpent-grinding",
     },
   ],
+  createdAt: "2026-09-30T07:15:16.239Z",
+  updatedAt: "2026-10-04T23:07:44.000Z",
 } as const satisfies StoryChapterRead

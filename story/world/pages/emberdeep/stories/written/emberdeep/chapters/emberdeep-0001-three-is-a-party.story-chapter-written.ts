@@ -50,4 +50,6 @@ export const emberdeep0001ThreeIsAParty = {
     "image/image-ac5c49d4c3d6cf84",
     "image/image-b49bf6a809b700fd",
   ],
+  createdAt: "2026-10-02T17:35:53.882Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryChapterWritten
