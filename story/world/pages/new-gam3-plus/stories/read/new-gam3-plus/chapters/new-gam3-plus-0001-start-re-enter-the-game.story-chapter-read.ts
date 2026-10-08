@@ -20,4 +20,6 @@ export const newGam3Plus0001StartReEnterTheGame = {
   ],
   publishedAt: "2021-08-01",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.024Z",
+  updatedAt: "2026-09-28T20:27:25.000Z",
 } as const satisfies StoryChapterRead

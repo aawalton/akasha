@@ -20,4 +20,6 @@ export const passiveAggressiveReversePortalInvasionLitrpg0075Book1IsDoneFuturePl
   story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
   ownLength: 255,
   prose: "txt",
+  createdAt: "2026-09-09T10:04:13.094Z",
+  updatedAt: "2026-09-28T20:27:27.000Z",
 } as const satisfies StoryChapterRead

@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0176191IiiBurden2758194 = {
   ],
   publishedAt: "2025-11-13",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.108Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

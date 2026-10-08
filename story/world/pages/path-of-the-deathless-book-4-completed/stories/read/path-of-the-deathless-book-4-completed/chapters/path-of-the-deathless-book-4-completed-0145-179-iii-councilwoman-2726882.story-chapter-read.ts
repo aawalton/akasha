@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0145179IiiCouncilwoman2726882 = {
   ],
   publishedAt: "2025-11-02",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.097Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

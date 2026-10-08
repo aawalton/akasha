@@ -21,4 +21,6 @@ export const passiveAggressiveReversePortalInvasionLitrpg0043CountdownToLitrpgCo
     ],
     publishedAt: "2026-07-01",
     prose: "txt",
+    createdAt: "2026-09-03T12:13:34.038Z",
+    updatedAt: "2026-09-28T20:27:25.000Z",
   } as const satisfies StoryChapterRead

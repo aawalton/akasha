@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0007121IiMinionsI2605627 = {
   ],
   publishedAt: "2025-09-16",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.029Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

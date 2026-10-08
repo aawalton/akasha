@@ -19,4 +19,6 @@ export const mythransMasterOfAllContinuedCompleted0780Chapter777SeparateWays = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:09:52.802Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

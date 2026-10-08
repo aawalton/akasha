@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0331267IFuryAloneIsButImpotence2956
   ],
   publishedAt: "2026-01-18",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.165Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

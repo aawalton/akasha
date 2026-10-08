@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0099161IvOverwhelmed2684226 = {
   ],
   publishedAt: "2025-10-17",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.074Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

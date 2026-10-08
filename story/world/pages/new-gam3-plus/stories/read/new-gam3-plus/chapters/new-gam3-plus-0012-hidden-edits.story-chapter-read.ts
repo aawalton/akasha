@@ -20,4 +20,6 @@ export const newGam3Plus0012HiddenEdits = {
   ],
   publishedAt: "2023-11-14",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.032Z",
+  updatedAt: "2026-09-28T20:27:25.000Z",
 } as const satisfies StoryChapterRead

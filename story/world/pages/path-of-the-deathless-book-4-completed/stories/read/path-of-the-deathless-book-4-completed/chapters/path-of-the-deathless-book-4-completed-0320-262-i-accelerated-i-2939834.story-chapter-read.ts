@@ -19,4 +19,6 @@ export const pathOfTheDeathlessBook4Completed0320262IAcceleratedI2939834 = {
   ],
   publishedAt: "2026-01-13",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.162Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

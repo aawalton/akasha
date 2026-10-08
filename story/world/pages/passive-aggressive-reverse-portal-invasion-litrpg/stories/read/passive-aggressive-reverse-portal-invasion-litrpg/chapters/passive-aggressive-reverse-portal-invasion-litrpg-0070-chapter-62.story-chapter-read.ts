@@ -20,4 +20,6 @@ export const passiveAggressiveReversePortalInvasionLitrpg0070Chapter62 = {
   ],
   publishedAt: "2026-08-29",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.046Z",
+  updatedAt: "2026-09-28T20:27:27.000Z",
 } as const satisfies StoryChapterRead
