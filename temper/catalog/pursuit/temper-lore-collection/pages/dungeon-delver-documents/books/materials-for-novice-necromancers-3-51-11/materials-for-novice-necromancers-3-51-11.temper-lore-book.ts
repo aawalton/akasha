@@ -7,4 +7,6 @@ export const materialsForNoviceNecromancers35111 = {
   title: "Materials for Novice Necromancers",
   collection: "temper-lore-collection/dungeon-delver-documents",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:53:20.142Z",
+  updatedAt: "2026-09-25T00:53:21.000Z",
 } as const satisfies TemperLoreBook

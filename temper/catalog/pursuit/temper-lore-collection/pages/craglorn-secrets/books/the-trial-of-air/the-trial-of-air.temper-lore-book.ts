@@ -11,4 +11,6 @@ export const theTrialOfAir = {
   charted: true,
   quest: 5751,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:23:07.803Z",
+  updatedAt: "2026-09-25T00:23:09.000Z",
 } as const satisfies TemperLoreBook

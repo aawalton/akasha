@@ -7,4 +7,6 @@ export const craftingMotif38DraugrAxes = {
   title: "Crafting Motif 38: Draugr Axes",
   collection: "temper-lore-collection/draugr-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:13:01.820Z",
+  updatedAt: "2026-09-25T00:13:03.000Z",
 } as const satisfies TemperLoreBook

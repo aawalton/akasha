@@ -9,4 +9,6 @@ export const onTheNatureOfOblivion = {
   esoBookId: 6925,
   bookIndex: 50,
   charted: false,
+  createdAt: "2026-09-25T00:52:02.368Z",
+  updatedAt: "2026-09-25T00:52:04.000Z",
 } as const satisfies TemperLoreBook

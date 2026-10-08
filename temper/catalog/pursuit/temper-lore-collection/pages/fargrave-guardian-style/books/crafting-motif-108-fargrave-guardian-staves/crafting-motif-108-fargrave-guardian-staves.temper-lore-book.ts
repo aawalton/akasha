@@ -7,4 +7,6 @@ export const craftingMotif108FargraveGuardianStaves = {
   title: "Crafting Motif 108: Fargrave Guardian Staves",
   collection: "temper-lore-collection/fargrave-guardian-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:19:37.111Z",
+  updatedAt: "2026-09-25T00:19:38.000Z",
 } as const satisfies TemperLoreBook

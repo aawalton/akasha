@@ -8,4 +8,6 @@ export const modernHeretics = {
   collection: "temper-lore-collection/daedric-princes",
   bookIndex: 6,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:26.305Z",
+  updatedAt: "2026-09-25T00:07:27.000Z",
 } as const satisfies TemperLoreBook

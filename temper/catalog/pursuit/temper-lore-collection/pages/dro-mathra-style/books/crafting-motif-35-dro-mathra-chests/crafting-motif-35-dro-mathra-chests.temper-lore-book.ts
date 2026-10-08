@@ -7,4 +7,6 @@ export const craftingMotif35DroMathraChests = {
   title: "Crafting Motif 35: Dro-m'Athra Chests",
   collection: "temper-lore-collection/dro-mathra-style",
   bookIndex: 5,
+  createdAt: "2026-09-25T00:12:36.781Z",
+  updatedAt: "2026-09-25T00:12:37.000Z",
 } as const satisfies TemperLoreBook

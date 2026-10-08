@@ -11,4 +11,6 @@ export const orElse = {
   charted: true,
   quest: 4135,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:23:31.387Z",
+  updatedAt: "2026-09-25T00:23:33.000Z",
 } as const satisfies TemperLoreBook

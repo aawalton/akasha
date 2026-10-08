@@ -7,4 +7,6 @@ export const craftingMotif122DeadKeeperAxes = {
   title: "Crafting Motif 122: Dead Keeper Axes",
   collection: "temper-lore-collection/dead-keeper-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:21:17.154Z",
+  updatedAt: "2026-09-25T00:21:18.000Z",
 } as const satisfies TemperLoreBook

@@ -9,4 +9,6 @@ export const charredJournal = {
   esoBookId: 6778,
   bookIndex: 76,
   charted: false,
+  createdAt: "2026-09-25T00:52:02.367Z",
+  updatedAt: "2026-09-25T00:52:04.000Z",
 } as const satisfies TemperLoreBook

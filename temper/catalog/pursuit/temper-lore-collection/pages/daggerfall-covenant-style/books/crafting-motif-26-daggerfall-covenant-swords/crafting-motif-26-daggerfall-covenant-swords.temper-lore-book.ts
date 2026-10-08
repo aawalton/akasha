@@ -7,4 +7,6 @@ export const craftingMotif26DaggerfallCovenantSwords = {
   title: "Crafting Motif 26: Daggerfall Covenant Swords",
   collection: "temper-lore-collection/daggerfall-covenant-style",
   bookIndex: 14,
+  createdAt: "2026-09-25T00:12:21.636Z",
+  updatedAt: "2026-09-25T00:12:22.000Z",
 } as const satisfies TemperLoreBook

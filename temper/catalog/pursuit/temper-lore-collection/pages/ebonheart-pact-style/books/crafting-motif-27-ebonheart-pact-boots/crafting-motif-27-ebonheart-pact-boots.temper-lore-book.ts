@@ -7,4 +7,6 @@ export const craftingMotif27EbonheartPactBoots = {
   title: "Crafting Motif 27: Ebonheart Pact Boots",
   collection: "temper-lore-collection/ebonheart-pact-style",
   bookIndex: 3,
+  createdAt: "2026-09-25T00:12:26.629Z",
+  updatedAt: "2026-09-25T00:12:27.000Z",
 } as const satisfies TemperLoreBook

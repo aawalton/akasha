@@ -11,4 +11,6 @@ export const wakingFlameCorrespondence = {
   charted: true,
   quest: 6701,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:23:31.388Z",
+  updatedAt: "2026-09-25T00:23:33.000Z",
 } as const satisfies TemperLoreBook

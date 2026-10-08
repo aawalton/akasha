@@ -10,4 +10,6 @@ export const saviorOfTheAltmerPart1 = {
   bookIndex: 50,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:23:42.495Z",
+  updatedAt: "2026-09-25T00:23:44.000Z",
 } as const satisfies TemperLoreBook

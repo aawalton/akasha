@@ -10,4 +10,6 @@ export const theJournalOfCatoAlbus = {
   bookIndex: 32,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:20.142Z",
+  updatedAt: "2026-09-25T00:53:21.000Z",
 } as const satisfies TemperLoreBook

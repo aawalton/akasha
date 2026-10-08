@@ -7,4 +7,6 @@ export const craftingMotif76DragonguardStaves = {
   title: "Crafting Motif 76: Dragonguard Staves",
   collection: "temper-lore-collection/dragonguard-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:16:57.839Z",
+  updatedAt: "2026-09-25T00:16:58.000Z",
 } as const satisfies TemperLoreBook

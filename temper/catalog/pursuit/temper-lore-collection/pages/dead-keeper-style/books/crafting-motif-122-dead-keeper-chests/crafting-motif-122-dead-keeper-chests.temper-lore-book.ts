@@ -7,4 +7,6 @@ export const craftingMotif122DeadKeeperChests = {
   title: "Crafting Motif 122: Dead Keeper Chests",
   collection: "temper-lore-collection/dead-keeper-style",
   bookIndex: 5,
+  createdAt: "2026-09-25T00:21:17.154Z",
+  updatedAt: "2026-09-25T00:21:18.000Z",
 } as const satisfies TemperLoreBook

@@ -8,4 +8,6 @@ export const allAboutGiants = {
   collection: "temper-lore-collection/eastmarch-lore",
   bookIndex: 7,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:39.387Z",
+  updatedAt: "2026-09-25T00:08:40.000Z",
 } as const satisfies TemperLoreBook

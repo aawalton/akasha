@@ -10,4 +10,6 @@ export const theOmenOfDeception = {
   bookIndex: 36,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:23:31.387Z",
+  updatedAt: "2026-09-25T00:23:33.000Z",
 } as const satisfies TemperLoreBook

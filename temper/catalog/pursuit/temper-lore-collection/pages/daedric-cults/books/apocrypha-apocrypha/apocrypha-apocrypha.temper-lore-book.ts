@@ -33,4 +33,6 @@ export const apocryphaApocrypha = {
     { mapId: 1429, mapCount: 9 },
     { mapId: 1887, mapCount: 1 },
   ],
+  createdAt: "2026-09-25T00:23:31.386Z",
+  updatedAt: "2026-09-25T00:23:33.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif70ElderArgonianSwords = {
   title: "Crafting Motif 70: Elder Argonian Swords",
   collection: "temper-lore-collection/elder-argonian-style",
   bookIndex: 14,
+  createdAt: "2026-09-25T00:16:27.480Z",
+  updatedAt: "2026-09-25T00:16:28.000Z",
 } as const satisfies TemperLoreBook

@@ -8,4 +8,6 @@ export const civilityAndEtiquetteV5Undead = {
   collection: "temper-lore-collection/dungeon-lore",
   bookIndex: 13,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:42.497Z",
+  updatedAt: "2026-09-25T00:07:43.000Z",
 } as const satisfies TemperLoreBook

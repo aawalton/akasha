@@ -10,4 +10,6 @@ export const articlesOfTheSakkrAlBehr = {
   bookIndex: 24,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:23:18.864Z",
+  updatedAt: "2026-09-25T00:23:20.000Z",
 } as const satisfies TemperLoreBook

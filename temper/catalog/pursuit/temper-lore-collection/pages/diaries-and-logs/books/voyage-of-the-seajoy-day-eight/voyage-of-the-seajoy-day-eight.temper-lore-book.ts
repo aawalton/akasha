@@ -11,4 +11,6 @@ export const voyageOfTheSeajoyDayEight = {
   charted: true,
   quest: 6767,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:23:42.495Z",
+  updatedAt: "2026-09-25T00:23:44.000Z",
 } as const satisfies TemperLoreBook

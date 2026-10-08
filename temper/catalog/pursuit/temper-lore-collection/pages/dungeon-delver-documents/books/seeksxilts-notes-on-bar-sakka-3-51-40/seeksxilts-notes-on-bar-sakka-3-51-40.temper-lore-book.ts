@@ -7,4 +7,6 @@ export const seeksxiltsNotesOnBarSakka35140 = {
   title: "Seeksxilts' Notes on Bar-Sakka",
   collection: "temper-lore-collection/dungeon-delver-documents",
   bookIndex: 40,
+  createdAt: "2026-09-25T00:53:20.142Z",
+  updatedAt: "2026-09-25T00:53:21.000Z",
 } as const satisfies TemperLoreBook

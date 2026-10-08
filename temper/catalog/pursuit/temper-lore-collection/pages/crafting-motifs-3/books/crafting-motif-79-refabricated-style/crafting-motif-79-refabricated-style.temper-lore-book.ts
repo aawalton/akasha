@@ -7,4 +7,6 @@ export const craftingMotif79RefabricatedStyle = {
   title: "Crafting Motif 79: Refabricated Style",
   collection: "temper-lore-collection/crafting-motifs-3",
   bookIndex: 38,
+  createdAt: "2026-09-25T00:11:19.843Z",
+  updatedAt: "2026-09-25T00:11:21.000Z",
 } as const satisfies TemperLoreBook

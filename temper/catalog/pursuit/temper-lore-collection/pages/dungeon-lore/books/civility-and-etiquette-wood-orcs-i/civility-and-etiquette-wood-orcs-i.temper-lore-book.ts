@@ -8,4 +8,6 @@ export const civilityAndEtiquetteWoodOrcsI = {
   collection: "temper-lore-collection/dungeon-lore",
   bookIndex: 5,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:42.497Z",
+  updatedAt: "2026-09-25T00:07:43.000Z",
 } as const satisfies TemperLoreBook

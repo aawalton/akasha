@@ -11,4 +11,6 @@ export const theReformatoryRegister = {
   charted: true,
   quest: 6698,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:02.369Z",
+  updatedAt: "2026-09-25T00:52:04.000Z",
 } as const satisfies TemperLoreBook

@@ -27,4 +27,6 @@ export const confessionsOfAKhajiitiFurTrader = {
     { mapId: 1060, mapCount: 9 },
     { mapId: 1126, mapCount: 9 },
   ],
+  createdAt: "2026-09-25T00:23:18.864Z",
+  updatedAt: "2026-09-25T00:23:20.000Z",
 } as const satisfies TemperLoreBook

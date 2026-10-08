@@ -11,4 +11,6 @@ export const floraAndFaunaOfTheBurn = {
   charted: true,
   onBookshelves: true,
   mapCounts: [{ mapId: 2021, mapCount: 1 }],
+  createdAt: "2026-09-25T00:52:02.368Z",
+  updatedAt: "2026-09-25T00:52:04.000Z",
 } as const satisfies TemperLoreBook

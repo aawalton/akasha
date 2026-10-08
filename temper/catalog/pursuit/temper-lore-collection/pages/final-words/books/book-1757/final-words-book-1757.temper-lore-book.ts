@@ -11,4 +11,6 @@ export const finalWordsBook1757 = {
   charted: true,
   quest: 4630,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:01.837Z",
+  updatedAt: "2026-09-25T00:57:29.000Z",
 } as const satisfies TemperLoreBook

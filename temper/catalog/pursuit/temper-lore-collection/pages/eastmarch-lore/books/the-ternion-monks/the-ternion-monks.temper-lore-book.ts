@@ -8,4 +8,6 @@ export const theTernionMonks = {
   collection: "temper-lore-collection/eastmarch-lore",
   bookIndex: 3,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:39.388Z",
+  updatedAt: "2026-09-25T00:08:40.000Z",
 } as const satisfies TemperLoreBook

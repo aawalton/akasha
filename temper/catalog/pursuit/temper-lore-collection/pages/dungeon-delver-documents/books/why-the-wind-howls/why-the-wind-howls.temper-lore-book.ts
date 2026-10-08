@@ -7,4 +7,6 @@ export const whyTheWindHowls = {
   title: "Why the Wind Howls",
   collection: "temper-lore-collection/dungeon-delver-documents",
   bookIndex: 41,
+  createdAt: "2026-09-25T00:53:20.142Z",
+  updatedAt: "2026-09-25T00:53:21.000Z",
 } as const satisfies TemperLoreBook

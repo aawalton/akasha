@@ -8,4 +8,6 @@ export const dwemerInquiriesVolumeI = {
   collection: "temper-lore-collection/dwemer",
   bookIndex: 13,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:48.367Z",
+  updatedAt: "2026-09-25T00:57:29.000Z",
 } as const satisfies TemperLoreBook

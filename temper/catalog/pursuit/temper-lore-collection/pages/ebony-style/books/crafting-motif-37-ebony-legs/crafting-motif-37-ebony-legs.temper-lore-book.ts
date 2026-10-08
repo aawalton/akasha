@@ -7,4 +7,6 @@ export const craftingMotif37EbonyLegs = {
   title: "Crafting Motif 37: Ebony Legs",
   collection: "temper-lore-collection/ebony-style",
   bookIndex: 9,
+  createdAt: "2026-09-25T00:12:41.641Z",
+  updatedAt: "2026-09-25T00:12:42.000Z",
 } as const satisfies TemperLoreBook

@@ -9,4 +9,6 @@ export const favensNote = {
   esoBookId: 6849,
   bookIndex: 28,
   charted: false,
+  createdAt: "2026-09-25T00:52:02.368Z",
+  updatedAt: "2026-09-25T00:52:04.000Z",
 } as const satisfies TemperLoreBook

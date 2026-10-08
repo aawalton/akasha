@@ -7,4 +7,6 @@ export const craftingMotif110DreadsailsBoots = {
   title: "Crafting Motif 110: Dreadsails Boots",
   collection: "temper-lore-collection/dreadsails-style",
   bookIndex: 3,
+  createdAt: "2026-09-25T00:19:42.437Z",
+  updatedAt: "2026-09-25T00:19:43.000Z",
 } as const satisfies TemperLoreBook

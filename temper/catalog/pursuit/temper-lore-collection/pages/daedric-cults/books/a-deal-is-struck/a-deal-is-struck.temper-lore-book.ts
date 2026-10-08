@@ -11,4 +11,6 @@ export const aDealIsStruck = {
   charted: true,
   quest: 6627,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:23:31.386Z",
+  updatedAt: "2026-09-25T00:23:33.000Z",
 } as const satisfies TemperLoreBook

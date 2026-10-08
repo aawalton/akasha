@@ -7,4 +7,6 @@ export const craftingMotif15DwemerGloves = {
   title: "Crafting Motif 15: Dwemer Gloves",
   collection: "temper-lore-collection/dwemer-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:11:11.402Z",
+  updatedAt: "2026-09-25T00:11:12.000Z",
 } as const satisfies TemperLoreBook

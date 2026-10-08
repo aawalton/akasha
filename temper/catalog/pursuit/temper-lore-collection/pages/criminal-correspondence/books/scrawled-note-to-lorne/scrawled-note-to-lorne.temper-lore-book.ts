@@ -11,4 +11,6 @@ export const scrawledNoteToLorne = {
   charted: true,
   quest: 6135,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:23:18.865Z",
+  updatedAt: "2026-09-25T00:23:20.000Z",
 } as const satisfies TemperLoreBook

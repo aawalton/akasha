@@ -7,4 +7,6 @@ export const craftingMotif37EbonyStaves = {
   title: "Crafting Motif 37: Ebony Staves",
   collection: "temper-lore-collection/ebony-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:12:41.641Z",
+  updatedAt: "2026-09-25T00:12:42.000Z",
 } as const satisfies TemperLoreBook

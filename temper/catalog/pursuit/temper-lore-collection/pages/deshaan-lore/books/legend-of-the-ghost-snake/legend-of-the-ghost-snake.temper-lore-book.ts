@@ -8,4 +8,6 @@ export const legendOfTheGhostSnake = {
   collection: "temper-lore-collection/deshaan-lore",
   bookIndex: 6,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:44.442Z",
+  updatedAt: "2026-09-25T00:08:45.000Z",
 } as const satisfies TemperLoreBook

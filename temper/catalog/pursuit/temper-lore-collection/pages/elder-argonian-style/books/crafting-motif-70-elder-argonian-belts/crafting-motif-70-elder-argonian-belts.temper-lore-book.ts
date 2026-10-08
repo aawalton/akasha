@@ -7,4 +7,6 @@ export const craftingMotif70ElderArgonianBelts = {
   title: "Crafting Motif 70: Elder Argonian Belts",
   collection: "temper-lore-collection/elder-argonian-style",
   bookIndex: 2,
+  createdAt: "2026-09-25T00:16:27.479Z",
+  updatedAt: "2026-09-25T00:16:28.000Z",
 } as const satisfies TemperLoreBook

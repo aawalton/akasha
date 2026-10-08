@@ -8,4 +8,6 @@ export const monomythLorkhanAndSatakal = {
   collection: "temper-lore-collection/divines-and-deities",
   bookIndex: 4,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:36.781Z",
+  updatedAt: "2026-09-25T00:07:37.000Z",
 } as const satisfies TemperLoreBook

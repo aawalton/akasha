@@ -7,4 +7,6 @@ export const resonantRitualNotes = {
   title: "Resonant Ritual Notes",
   collection: "temper-lore-collection/favors-for-the-freerunners",
   bookIndex: 10,
+  createdAt: "2026-09-25T00:54:36.547Z",
+  updatedAt: "2026-09-25T00:54:37.000Z",
 } as const satisfies TemperLoreBook

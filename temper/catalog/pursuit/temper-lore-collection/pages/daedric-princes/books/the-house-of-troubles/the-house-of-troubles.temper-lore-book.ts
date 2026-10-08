@@ -8,4 +8,6 @@ export const theHouseOfTroubles = {
   collection: "temper-lore-collection/daedric-princes",
   bookIndex: 4,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:26.305Z",
+  updatedAt: "2026-09-25T00:07:27.000Z",
 } as const satisfies TemperLoreBook

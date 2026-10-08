@@ -7,4 +7,6 @@ export const craftingMotif69DeadWaterBelts = {
   title: "Crafting Motif 69: Dead-Water Belts",
   collection: "temper-lore-collection/dead-water-style",
   bookIndex: 2,
+  createdAt: "2026-09-25T00:16:22.447Z",
+  updatedAt: "2026-09-25T00:16:23.000Z",
 } as const satisfies TemperLoreBook

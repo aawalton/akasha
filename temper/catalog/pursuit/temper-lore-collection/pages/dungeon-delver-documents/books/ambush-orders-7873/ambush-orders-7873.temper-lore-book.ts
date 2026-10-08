@@ -9,4 +9,6 @@ export const ambushOrders7873 = {
   esoBookId: 7873,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:20.141Z",
+  updatedAt: "2026-09-25T00:53:21.000Z",
 } as const satisfies TemperLoreBook

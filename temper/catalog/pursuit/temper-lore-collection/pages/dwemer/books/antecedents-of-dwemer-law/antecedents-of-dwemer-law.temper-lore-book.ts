@@ -8,4 +8,6 @@ export const antecedentsOfDwemerLaw = {
   collection: "temper-lore-collection/dwemer",
   bookIndex: 8,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:48.367Z",
+  updatedAt: "2026-09-25T00:07:49.000Z",
 } as const satisfies TemperLoreBook

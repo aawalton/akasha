@@ -7,4 +7,6 @@ export const craftingMotif116DrownedMarinerBows = {
   title: "Crafting Motif 116: Drowned Mariner Bows",
   collection: "temper-lore-collection/drowned-mariner-style",
   bookIndex: 4,
+  createdAt: "2026-09-25T00:20:46.321Z",
+  updatedAt: "2026-09-25T00:20:47.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif57EbonshadowShields = {
   title: "Crafting Motif 57: Ebonshadow Shields",
   collection: "temper-lore-collection/ebonshadow-style",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:14:42.059Z",
+  updatedAt: "2026-09-25T00:14:43.000Z",
 } as const satisfies TemperLoreBook

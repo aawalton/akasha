@@ -7,4 +7,6 @@ export const smugglersNote3286 = {
   title: "Smuggler's Note",
   collection: "temper-lore-collection/criminal-correspondence",
   bookIndex: 86,
+  createdAt: "2026-09-25T00:23:18.866Z",
+  updatedAt: "2026-09-25T00:23:20.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif36DarkBrotherhoodBelts = {
   title: "Crafting Motif 36: Dark Brotherhood Belts",
   collection: "temper-lore-collection/dark-brotherhood-style",
   bookIndex: 2,
+  createdAt: "2026-09-25T00:13:27.263Z",
+  updatedAt: "2026-09-25T00:13:28.000Z",
 } as const satisfies TemperLoreBook

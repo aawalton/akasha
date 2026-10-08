@@ -8,4 +8,6 @@ export const aedraAndDaedra = {
   collection: "temper-lore-collection/daedric-princes",
   bookIndex: 1,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:26.304Z",
+  updatedAt: "2026-09-25T00:07:27.000Z",
 } as const satisfies TemperLoreBook

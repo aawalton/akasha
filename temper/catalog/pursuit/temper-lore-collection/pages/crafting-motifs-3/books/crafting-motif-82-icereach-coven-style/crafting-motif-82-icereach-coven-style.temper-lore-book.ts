@@ -7,4 +7,6 @@ export const craftingMotif82IcereachCovenStyle = {
   title: "Crafting Motif 82: Icereach Coven Style",
   collection: "temper-lore-collection/crafting-motifs-3",
   bookIndex: 67,
+  createdAt: "2026-09-25T00:11:19.843Z",
+  updatedAt: "2026-09-25T00:11:21.000Z",
 } as const satisfies TemperLoreBook

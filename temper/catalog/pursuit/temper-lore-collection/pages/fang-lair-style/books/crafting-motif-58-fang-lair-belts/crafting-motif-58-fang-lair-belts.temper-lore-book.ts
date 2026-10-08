@@ -7,4 +7,6 @@ export const craftingMotif58FangLairBelts = {
   title: "Crafting Motif 58: Fang Lair Belts",
   collection: "temper-lore-collection/fang-lair-style",
   bookIndex: 2,
+  createdAt: "2026-09-25T00:14:52.760Z",
+  updatedAt: "2026-09-25T00:14:53.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif116DrownedMarinerChests = {
   title: "Crafting Motif 116: Drowned Mariner Chests",
   collection: "temper-lore-collection/drowned-mariner-style",
   bookIndex: 5,
+  createdAt: "2026-09-25T00:20:46.321Z",
+  updatedAt: "2026-09-25T00:20:47.000Z",
 } as const satisfies TemperLoreBook
