@@ -9,6 +9,22 @@ export const overwhereITheDeserterCrew4 = {
   about: "lore/overwhere-i-the-deserter-crew",
   facts: [
     {
+      fact: "A slug at a running man's back within 50 yards, prone and drill-spun, is moderate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Inside the pit the crew is behind stone and out of her line from the road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Jays scold along the cart track where the four pass, marking them even unseen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Holding the lens in shadow or shading it by hand is easy, and then it throws no glint.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Under the overhang Voss's sack slumped over, spilling silver coins across the rock.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
@@ -135,5 +151,5 @@ export const overwhereITheDeserterCrew4 = {
     },
   ],
   createdAt: "2026-10-02T20:41:04.947Z",
-  updatedAt: "2026-10-08T16:21:58.683Z",
+  updatedAt: "2026-10-08T16:23:24.848Z",
 } as const satisfies Lore

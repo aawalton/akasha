@@ -374,14 +374,7 @@ export const overwhereITheDeserterCrew = {
       fact: "As she starts shooting, the runners are 15 to 30 yards off; slugs past 50 yards are a band harder.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "A slug at a running man's back within 50 yards, prone and drill-spun, is moderate.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Inside the pit the crew is behind stone and out of her line from the road.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
   secrets: "jsonl",
+  updatedAt: "2026-10-08T16:23:24.848Z",
 } as const satisfies Lore
