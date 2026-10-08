@@ -5,6 +5,7 @@ interface TemperWorldApi {
   ShowJournal: (this: void) => undefined
   ShowItemBrowser: (this: void) => undefined
   PortNearQuestObjective: (this: void) => undefined
+  PortNearTreasure: (this: void) => undefined
   Markers: TemperWorldMarkersApi
 }
 
