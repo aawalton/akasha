@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/model/account/properties/provider.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/model/test/properties/model-family.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/properties/assignment-game.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/properties/assignment-world.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/properties/principal-seat-name.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/log-day/properties/log-source.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/mode.relation-property.ts","typed":true,"deferred":false}

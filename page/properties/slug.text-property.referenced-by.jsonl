@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/model/account/properties/provider.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/model/test/properties/model-family.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/properties/assignment-game.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/properties/assignment-world.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/properties/principal-seat-name.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/log-day/properties/log-source.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/mode.relation-property.types.ts","typed":true,"deferred":false}

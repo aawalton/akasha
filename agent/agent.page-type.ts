@@ -43,6 +43,7 @@ export const agent = {
     "page-type/seat",
     "page-type/subagent",
     "relation-property/assignment-game",
+    "relation-property/assignment-world",
     "relation-property/principal-seat-name",
     "service-workstation/sweep-stray-processes",
     "service-workstation/sweep-stopped-subagent-pages",
@@ -146,5 +147,5 @@ export const agent = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T13:38:14.675Z",
-  updatedAt: "2026-09-25T20:50:09.000Z",
+  updatedAt: "2026-10-08T19:01:26.352Z",
 } as const satisfies PageType
