@@ -20,5 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0169Chapter167AGrea
     },
   ],
   createdAt: "2026-10-08T12:06:22.588Z",
-  updatedAt: "2026-10-08T12:06:23.000Z",
+  updatedAt: "2026-10-08T19:06:03.881Z",
+  ownProgress: 2431,
 } as const satisfies StoryChapterRead

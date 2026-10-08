@@ -20,5 +20,6 @@ export const catGirlEvolution0175172OverUnder = {
     },
   ],
   createdAt: "2026-10-08T08:06:50.647Z",
-  updatedAt: "2026-10-08T08:06:51.000Z",
+  updatedAt: "2026-10-08T19:06:03.881Z",
+  ownProgress: 2319,
 } as const satisfies StoryChapterRead
