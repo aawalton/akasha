@@ -7,4 +7,6 @@ export const gatewayTransportIrisGameMasterOtherwhereIv20261002 = {
   source: "log-source/gateway-transport",
   seatName: "iris-game-master-otherwhere-iv",
   date: "2026-10-02",
+  createdAt: "2026-10-02T02:06:02.913Z",
+  updatedAt: "2026-10-02T02:06:03.000Z",
 } as const satisfies SeatLogDay

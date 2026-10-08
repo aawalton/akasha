@@ -12,4 +12,6 @@ export const astra = {
   onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "6da6d673-4649-42c2-8b65-68fa27f55026",
+  createdAt: "2026-10-08T14:33:27.193Z",
+  updatedAt: "2026-10-08T14:35:57.000Z",
 } as const satisfies Seat

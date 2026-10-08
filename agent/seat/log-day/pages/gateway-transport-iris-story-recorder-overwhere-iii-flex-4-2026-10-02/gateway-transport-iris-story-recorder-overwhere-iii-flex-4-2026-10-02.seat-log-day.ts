@@ -7,4 +7,6 @@ export const gatewayTransportIrisStoryRecorderOverwhereIiiFlex420261002 = {
   source: "log-source/gateway-transport",
   seatName: "iris-story-recorder-overwhere-iii-flex-4",
   date: "2026-10-02",
+  createdAt: "2026-10-02T15:22:08.686Z",
+  updatedAt: "2026-10-02T15:22:10.000Z",
 } as const satisfies SeatLogDay

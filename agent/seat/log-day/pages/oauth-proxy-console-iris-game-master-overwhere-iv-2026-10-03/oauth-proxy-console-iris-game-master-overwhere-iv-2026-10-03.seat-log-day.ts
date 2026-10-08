@@ -7,4 +7,6 @@ export const oauthProxyConsoleIrisGameMasterOverwhereIv20261003 = {
   source: "log-source/oauth-proxy-console",
   seatName: "iris-game-master-overwhere-iv",
   date: "2026-10-03",
+  createdAt: "2026-10-03T00:00:25.596Z",
+  updatedAt: "2026-10-03T00:00:29.000Z",
 } as const satisfies SeatLogDay

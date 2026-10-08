@@ -7,4 +7,6 @@ export const gatewayTransportMariGameMasterEmberdeep20261002 = {
   source: "log-source/gateway-transport",
   seatName: "mari-game-master-emberdeep",
   date: "2026-10-02",
+  createdAt: "2026-10-02T17:41:04.052Z",
+  updatedAt: "2026-10-02T17:41:05.000Z",
 } as const satisfies SeatLogDay

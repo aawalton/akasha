@@ -7,4 +7,6 @@ export const gatewayTransportMariStoryRecorderSaltAndLamplightFlex120261002 = {
   source: "log-source/gateway-transport",
   seatName: "mari-story-recorder-salt-and-lamplight-flex-1",
   date: "2026-10-02",
+  createdAt: "2026-10-02T14:45:03.101Z",
+  updatedAt: "2026-10-02T14:45:04.000Z",
 } as const satisfies SeatLogDay

@@ -19,4 +19,6 @@ export const starTrekVoyagerSeason2 = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  createdAt: "2026-09-03T16:03:23.965Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Season

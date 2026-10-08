@@ -12,4 +12,6 @@ export const ember = {
   onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "ac6968ad-6eb5-4c34-ae8f-aa497a591196",
+  createdAt: "2026-10-08T13:24:00.576Z",
+  updatedAt: "2026-10-08T14:45:44.000Z",
 } as const satisfies Seat

@@ -14,4 +14,6 @@ export const seatConditionsCurrent = {
   resumeTokenThreshold: 2147483647,
   extendedContextAvailable: true,
   idleCompactWindow: 350000,
+  createdAt: "2026-08-18T15:31:41.932Z",
+  updatedAt: "2026-09-24T15:02:23.000Z",
 } as const satisfies SeatConditions

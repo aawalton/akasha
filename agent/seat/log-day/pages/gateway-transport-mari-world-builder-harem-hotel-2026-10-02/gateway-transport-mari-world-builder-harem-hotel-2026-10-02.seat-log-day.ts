@@ -7,4 +7,6 @@ export const gatewayTransportMariWorldBuilderHaremHotel20261002 = {
   source: "log-source/gateway-transport",
   seatName: "mari-world-builder-harem-hotel",
   date: "2026-10-02",
+  createdAt: "2026-10-02T01:30:14.865Z",
+  updatedAt: "2026-10-02T01:30:15.000Z",
 } as const satisfies SeatLogDay
