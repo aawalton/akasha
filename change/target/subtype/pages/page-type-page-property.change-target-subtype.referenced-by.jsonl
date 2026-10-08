@@ -12,6 +12,7 @@
 {"propertySlug":"change-target-subtype","path":"change/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.ts","id":"01a08287-d90b-7f07-9a9e-bf6209c40126"}
 {"propertySlug":"change-target-subtype","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.ts","id":"01a095a8-fcf7-7a63-8a11-80ee5c1a3025"}
 {"propertySlug":"change-target-subtype","path":"change/agent/page-type/unquote-text-on-every-page/unquote-text-on-every-page.change-agent.ts","id":"01a0e189-620e-72ae-b4cb-00cc07319d6f"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/page-type/add/add-page-instants/add-page-instants.change-mechanical-page-type.ts","id":"01a11c09-f1c0-70d7-bac5-cb7ae055a1fc"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.ts","id":"01a09c68-3a99-7061-b5bc-e4cbfc109390"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.ts","id":"01a09c9a-b00b-7872-b129-710e61ff9be5"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/page-type/add/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-mechanical-page-type.ts","id":"01a0d506-39ae-79ef-94f2-54bc1c77a234"}

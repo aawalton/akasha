@@ -4,6 +4,8 @@
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"change/mechanical/page-type/add/add-page-instants/add-page-instants.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"change/mechanical/page-type/add/add-page-instants/add-page-instants.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"check/code/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.test.ts","typed":false,"deferred":false}

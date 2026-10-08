@@ -56,6 +56,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/music/spotify/modules/pkce-store/spotify-pkce-store.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/music/spotify/modules/token-store/spotify-token-store.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/track/daily/modules/day-opening/day-opening.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"change/mechanical/page-type/add/add-page-instants/add-page-instants.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.code.ts","typed":false,"deferred":false}
