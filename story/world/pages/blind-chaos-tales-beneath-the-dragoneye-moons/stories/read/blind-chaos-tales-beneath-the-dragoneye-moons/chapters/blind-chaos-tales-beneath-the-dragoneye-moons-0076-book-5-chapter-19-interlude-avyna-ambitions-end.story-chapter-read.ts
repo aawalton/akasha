@@ -19,4 +19,6 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0076Book5Chapter19InterludeA
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.435Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

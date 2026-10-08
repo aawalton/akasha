@@ -19,4 +19,6 @@ export const bookboundBunny0009B3Chapter5Roaming = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.906Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

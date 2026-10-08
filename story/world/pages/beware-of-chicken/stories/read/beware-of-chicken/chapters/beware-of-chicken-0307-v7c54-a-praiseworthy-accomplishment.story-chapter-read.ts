@@ -20,4 +20,6 @@ export const bewareOfChicken0307V7c54APraiseworthyAccomplishment = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.159Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead

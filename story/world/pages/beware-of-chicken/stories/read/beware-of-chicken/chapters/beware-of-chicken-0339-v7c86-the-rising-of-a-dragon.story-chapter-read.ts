@@ -20,4 +20,6 @@ export const bewareOfChicken0339V7c86TheRisingOfADragon = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.175Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead

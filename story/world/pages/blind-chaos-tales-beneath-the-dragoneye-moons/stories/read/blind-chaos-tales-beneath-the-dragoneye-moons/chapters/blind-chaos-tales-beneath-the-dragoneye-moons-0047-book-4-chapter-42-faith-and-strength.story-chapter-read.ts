@@ -19,4 +19,6 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0047Book4Chapter42FaithAndSt
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.408Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

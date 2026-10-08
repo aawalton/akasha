@@ -19,4 +19,6 @@ export const bookboundBunny0004BookboundBunnyBook1Announcement = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.905Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

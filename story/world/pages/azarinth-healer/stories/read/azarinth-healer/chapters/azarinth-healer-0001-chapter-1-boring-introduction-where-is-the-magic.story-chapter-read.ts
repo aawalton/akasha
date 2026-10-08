@@ -20,4 +20,6 @@ export const azarinthHealer0001Chapter1BoringIntroductionWhereIsTheMagic = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.692Z",
+  updatedAt: "2026-09-28T20:27:05.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const azarinthHealer0015AzarinthHealerBook3OutTodayOnAmazonAndAudibleMass
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.698Z",
+  updatedAt: "2026-09-28T20:27:05.000Z",
 } as const satisfies StoryChapterRead

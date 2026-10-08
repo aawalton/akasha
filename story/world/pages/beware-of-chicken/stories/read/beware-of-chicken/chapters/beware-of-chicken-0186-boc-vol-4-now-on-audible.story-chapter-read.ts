@@ -21,4 +21,6 @@ export const bewareOfChicken0186BocVol4NowOnAudible = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.117Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

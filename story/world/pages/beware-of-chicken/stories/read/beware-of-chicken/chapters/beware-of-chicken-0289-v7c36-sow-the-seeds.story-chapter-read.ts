@@ -20,4 +20,6 @@ export const bewareOfChicken0289V7c36SowTheSeeds = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.153Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead

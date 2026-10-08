@@ -21,4 +21,6 @@ export const bewareOfChicken0045V4c33TheTyrantOrTheGuardianPart2 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.043Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

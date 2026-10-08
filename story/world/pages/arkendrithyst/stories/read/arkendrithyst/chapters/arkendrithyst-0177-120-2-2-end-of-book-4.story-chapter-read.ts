@@ -21,4 +21,6 @@ export const arkendrithyst017712022EndOfBook4 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:31:42.579Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

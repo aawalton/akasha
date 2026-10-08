@@ -19,4 +19,6 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0092HealthBreak = {
   title: "Health Break",
   ownLength: 196,
   prose: "txt",
+  createdAt: "2026-09-08T11:07:16.256Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

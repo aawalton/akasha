@@ -20,4 +20,6 @@ export const azarinthHealer0017Chapter935Legend = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.698Z",
+  updatedAt: "2026-09-28T20:27:05.000Z",
 } as const satisfies StoryChapterRead

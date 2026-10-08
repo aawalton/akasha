@@ -20,4 +20,6 @@ export const arkendrithyst014410312 = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T04:31:40.302Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
