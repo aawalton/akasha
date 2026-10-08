@@ -24,4 +24,6 @@ export const seatTranscriptPath = {
       statement: "Neither a record nor a page value leaves a seat with no transcript.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

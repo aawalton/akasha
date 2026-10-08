@@ -31,4 +31,6 @@ export const handoverApp = {
       statement: "No verifier is named here, and this side sees only the hash of one.",
     },
   ],
+  createdAt: "2026-09-20T01:42:35.205Z",
+  updatedAt: "2026-09-24T18:49:35.000Z",
 } as const satisfies Module

@@ -83,4 +83,6 @@ export const stateReading = {
       statement: "A part is told of no write another part's folder takes.",
     },
   ],
+  createdAt: "2026-09-05T17:58:19.238Z",
+  updatedAt: "2026-09-25T17:24:03.000Z",
 } as const satisfies Module

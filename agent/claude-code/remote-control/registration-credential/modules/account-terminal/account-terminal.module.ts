@@ -7,4 +7,6 @@ export const accountTerminal = {
   definition:
     "the registration accounts with a credential failure a process keeps until someone signs in",
   code: "ts",
+  createdAt: "2026-09-04T00:09:43.897Z",
+  updatedAt: "2026-09-25T17:52:44.000Z",
 } as const satisfies Module

@@ -38,4 +38,6 @@ export const seatAnswering = {
       statement: "Nothing here writes a seat's stated values.",
     },
   ],
+  createdAt: "2026-09-03T17:53:28.521Z",
+  updatedAt: "2026-09-25T17:58:57.000Z",
 } as const satisfies Module

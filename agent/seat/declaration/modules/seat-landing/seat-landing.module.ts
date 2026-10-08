@@ -58,4 +58,6 @@ export const seatLanding = {
       statement: "Nothing here runs the akasha command as a process.",
     },
   ],
+  createdAt: "2026-09-22T16:13:08.269Z",
+  updatedAt: "2026-09-25T18:03:38.000Z",
 } as const satisfies Module

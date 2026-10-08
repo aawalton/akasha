@@ -239,4 +239,6 @@ export const modelAccountCredentialPush = {
       statement: "Every mark a push writes finds the account's page through the index again.",
     },
   ],
+  createdAt: "2026-09-02T18:57:11.355Z",
+  updatedAt: "2026-09-25T18:01:25.000Z",
 } as const satisfies Module

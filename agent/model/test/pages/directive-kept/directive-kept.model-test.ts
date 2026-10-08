@@ -67,4 +67,6 @@ export const directiveKept = {
         "This refuses none of the 164 clean cases, over two runs, against the key as Alan has ruled it.",
     },
   ],
+  createdAt: "2026-09-11T14:29:39.033Z",
+  updatedAt: "2026-09-22T00:36:58.000Z",
 } as const satisfies ModelTest

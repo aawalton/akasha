@@ -33,4 +33,6 @@ export const seatPageAkasha = {
       statement: "A write that was refused has the reason for that refusal as its detail.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:57:31.000Z",
 } as const satisfies Module

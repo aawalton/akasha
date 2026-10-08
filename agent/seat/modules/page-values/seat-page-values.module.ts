@@ -33,4 +33,6 @@ export const seatPageValues = {
       statement: "A value is a flag only where the page has exactly true.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:58:53.000Z",
 } as const satisfies Module

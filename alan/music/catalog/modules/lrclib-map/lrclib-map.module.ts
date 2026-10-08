@@ -45,4 +45,6 @@ export const lrclibMap = {
       statement: "Nothing here reaches the network.",
     },
   ],
+  createdAt: "2026-09-02T13:50:50.188Z",
+  updatedAt: "2026-09-22T13:22:14.000Z",
 } as const satisfies Module

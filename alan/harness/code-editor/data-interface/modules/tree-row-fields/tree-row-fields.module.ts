@@ -48,4 +48,6 @@ export const treeRowFields = {
       statement: "The editor has the color each name is drawn as.",
     },
   ],
+  createdAt: "2026-09-25T17:23:47.257Z",
+  updatedAt: "2026-09-26T18:10:04.000Z",
 } as const satisfies Module

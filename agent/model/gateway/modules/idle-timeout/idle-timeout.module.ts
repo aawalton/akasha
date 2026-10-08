@@ -74,4 +74,6 @@ export const idleTimeout = {
       statement: "Nothing here reads the bytes the guard is waiting for.",
     },
   ],
+  createdAt: "2026-09-02T13:08:41.401Z",
+  updatedAt: "2026-09-25T17:58:24.000Z",
 } as const satisfies Module

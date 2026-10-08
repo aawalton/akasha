@@ -16,4 +16,6 @@ export const modelAccountUsage = {
       statement: "A checkout naming no account is refused rather than answered as a fleet.",
     },
   ],
+  createdAt: "2026-09-04T00:26:37.506Z",
+  updatedAt: "2026-09-25T17:55:56.000Z",
 } as const satisfies Module

@@ -51,4 +51,6 @@ export const supervisorCompactDecide = {
       statement: "A seat whose turn was never read is not idle.",
     },
   ],
+  createdAt: "2026-09-21T19:42:45.212Z",
+  updatedAt: "2026-09-24T17:36:54.000Z",
 } as const satisfies Module

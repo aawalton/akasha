@@ -25,4 +25,6 @@ export const harnessSettingsReading = {
       statement: "The body is narrowed by the shape its reader hands in rather than by one here.",
     },
   ],
+  createdAt: "2026-09-11T01:18:21.430Z",
+  updatedAt: "2026-09-22T00:41:39.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const sessionWatch = {
       statement: "A transcript found is recorded on the seat that owns it.",
     },
   ],
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-25T17:56:15.000Z",
 } as const satisfies Module

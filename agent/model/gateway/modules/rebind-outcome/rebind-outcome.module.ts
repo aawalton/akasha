@@ -32,4 +32,6 @@ export const rebindOutcome = {
       statement: "Nothing here chooses the account moved to.",
     },
   ],
+  createdAt: "2026-09-11T13:11:24.773Z",
+  updatedAt: "2026-09-25T18:01:11.000Z",
 } as const satisfies Module

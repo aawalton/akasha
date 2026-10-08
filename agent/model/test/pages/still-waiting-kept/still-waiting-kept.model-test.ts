@@ -53,4 +53,6 @@ export const stillWaitingKept = {
       statement: "This is kept off the hook: eight more catches cost the union its zero refusals.",
     },
   ],
+  createdAt: "2026-09-12T15:49:58.759Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ModelTest

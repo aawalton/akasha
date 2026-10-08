@@ -32,4 +32,6 @@ export const seatStated = {
       statement: "A value the seat asks to clear is dropped rather than carried forward.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:53:11.000Z",
 } as const satisfies Module

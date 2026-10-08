@@ -41,4 +41,6 @@ export const monarchNotesRevert = {
       statement: "The snapshot stands in one file under $HOME rather than as a page.",
     },
   ],
+  createdAt: "2026-09-03T17:51:45.347Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

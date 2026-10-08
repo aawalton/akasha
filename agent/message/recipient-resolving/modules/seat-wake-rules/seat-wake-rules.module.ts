@@ -39,4 +39,6 @@ export const seatWakeRules = {
         "A spec may name the persona, role, domain and principal a seat that never ran starts as.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-26T15:58:17.000Z",
 } as const satisfies Module

@@ -120,4 +120,6 @@ export const trackSyncing = {
       statement: "A track states the kind of recording its own title says it is.",
     },
   ],
+  createdAt: "2026-09-15T14:57:52.100Z",
+  updatedAt: "2026-09-24T19:54:12.000Z",
 } as const satisfies Module

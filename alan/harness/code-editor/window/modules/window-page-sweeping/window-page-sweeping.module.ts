@@ -97,4 +97,6 @@ export const windowPageSweeping = {
       statement: "No page's age is read to decide what goes.",
     },
   ],
+  createdAt: "2026-09-14T19:30:51.349Z",
+  updatedAt: "2026-09-25T15:31:19.000Z",
 } as const satisfies Module

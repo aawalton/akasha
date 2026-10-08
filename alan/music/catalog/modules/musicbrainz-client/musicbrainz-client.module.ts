@@ -44,4 +44,6 @@ export const musicbrainzClient = {
       statement: "No test here reaches MusicBrainz.",
     },
   ],
+  createdAt: "2026-09-02T13:50:50.188Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

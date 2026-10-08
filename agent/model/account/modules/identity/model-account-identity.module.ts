@@ -122,4 +122,6 @@ export const modelAccountIdentity = {
         "A pin that clears the previous account's readings and then fails leaves those readings cleared.",
     },
   ],
+  createdAt: "2026-09-03T17:57:42.602Z",
+  updatedAt: "2026-09-25T18:03:47.000Z",
 } as const satisfies Module

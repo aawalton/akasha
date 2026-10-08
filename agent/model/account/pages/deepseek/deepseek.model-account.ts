@@ -7,4 +7,6 @@ export const deepseek = {
   provider: "model-provider/deepseek",
   email: "aawalton@gmail.com",
   aliasIndex: 12,
+  createdAt: "2026-09-15T13:12:04.752Z",
+  updatedAt: "2026-09-15T17:27:29.000Z",
 } as const satisfies ModelAccount

@@ -114,4 +114,6 @@ export const musicExploration = {
       statement: "Nothing here reaches the network.",
     },
   ],
+  createdAt: "2026-09-02T14:23:56.317Z",
+  updatedAt: "2026-09-22T13:23:32.000Z",
 } as const satisfies Module

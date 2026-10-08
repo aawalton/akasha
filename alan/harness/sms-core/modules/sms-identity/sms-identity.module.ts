@@ -33,4 +33,6 @@ export const smsIdentity = {
       statement: "An enrolled sender naming no handler is refused rather than sent anywhere.",
     },
   ],
+  createdAt: "2026-09-01T05:27:15.613Z",
+  updatedAt: "2026-09-22T13:57:00.000Z",
 } as const satisfies Module

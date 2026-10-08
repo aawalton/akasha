@@ -7,4 +7,6 @@ export const ptyProxy = {
   definition:
     "a pseudo-terminal around a seat's supervisor, carrying keys, size and death both ways",
   code: "ts",
+  createdAt: "2026-09-04T00:12:34.519Z",
+  updatedAt: "2026-09-15T16:42:06.000Z",
 } as const satisfies Module

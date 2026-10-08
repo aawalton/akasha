@@ -16,4 +16,6 @@ export const agentChannel = {
       statement: "The first channel address that string has names the handle.",
     },
   ],
+  createdAt: "2026-09-01T07:09:26.371Z",
+  updatedAt: "2026-09-22T14:37:11.000Z",
 } as const satisfies Module

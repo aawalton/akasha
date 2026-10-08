@@ -45,4 +45,6 @@ export const fableFallback = {
       statement: "Nothing here throws.",
     },
   ],
+  createdAt: "2026-09-02T14:35:12.773Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

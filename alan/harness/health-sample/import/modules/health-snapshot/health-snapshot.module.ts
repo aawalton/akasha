@@ -20,4 +20,6 @@ export const healthSnapshot = {
       statement: "A snapshot writes nothing to the store.",
     },
   ],
+  createdAt: "2026-09-01T08:27:35.066Z",
+  updatedAt: "2026-09-24T23:05:06.000Z",
 } as const satisfies Module

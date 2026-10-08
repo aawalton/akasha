@@ -50,4 +50,6 @@ export const queueStep = {
       statement: "Nothing here waits.",
     },
   ],
+  createdAt: "2026-09-02T12:52:57.643Z",
+  updatedAt: "2026-09-25T17:59:14.000Z",
 } as const satisfies Module

@@ -39,4 +39,6 @@ export const browserReaping = {
       statement: "Nothing here reads a page or asks the index.",
     },
   ],
+  createdAt: "2026-09-14T17:26:23.035Z",
+  updatedAt: "2026-09-24T17:19:16.000Z",
 } as const satisfies Module

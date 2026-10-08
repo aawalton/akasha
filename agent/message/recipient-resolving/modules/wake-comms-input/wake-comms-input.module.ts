@@ -20,4 +20,6 @@ export const wakeCommsInput = {
       statement: "Nothing here decides whether the message wakes anyone.",
     },
   ],
+  createdAt: "2026-09-03T21:09:52.612Z",
+  updatedAt: "2026-09-25T17:55:43.000Z",
 } as const satisfies Module

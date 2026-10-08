@@ -69,4 +69,6 @@ export const surplusFallReadout = {
       statement: "A thrown tick counts against the ratchet rather than leaving the service quiet.",
     },
   ],
+  createdAt: "2026-09-03T22:58:37.395Z",
+  updatedAt: "2026-09-24T18:02:20.000Z",
 } as const satisfies Module

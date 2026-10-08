@@ -57,4 +57,6 @@ export const subagentBriefKept = {
         "It refused one clean case in 832 judged, over four runs, once the key's own errors were mended.",
     },
   ],
+  createdAt: "2026-09-12T14:44:42.447Z",
+  updatedAt: "2026-09-25T17:59:28.000Z",
 } as const satisfies ModelTest

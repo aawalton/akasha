@@ -138,4 +138,6 @@ export const modelAccountMaking = {
         "A new account's page is written into a folder of its own beside the other accounts' folders.",
     },
   ],
+  createdAt: "2026-09-03T17:58:51.273Z",
+  updatedAt: "2026-09-25T17:50:20.000Z",
 } as const satisfies Module

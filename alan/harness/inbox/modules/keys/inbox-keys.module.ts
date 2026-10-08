@@ -24,4 +24,6 @@ export const inboxKeys = {
       statement: "Nothing here counts anything or writes anything.",
     },
   ],
+  createdAt: "2026-09-03T23:59:38.347Z",
+  updatedAt: "2026-09-25T15:35:18.000Z",
 } as const satisfies Module

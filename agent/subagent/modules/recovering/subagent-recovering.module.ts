@@ -190,4 +190,6 @@ export const subagentRecovering = {
       statement: "Nothing here judges whether a subagent is gone.",
     },
   ],
+  createdAt: "2026-09-10T22:19:07.748Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

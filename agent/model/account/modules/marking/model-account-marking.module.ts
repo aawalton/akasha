@@ -223,4 +223,6 @@ export const modelAccountMarking = {
       statement: "A refusal names every key refused and why each was refused.",
     },
   ],
+  createdAt: "2026-09-02T18:11:03.407Z",
+  updatedAt: "2026-09-25T17:51:33.000Z",
 } as const satisfies Module

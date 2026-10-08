@@ -89,4 +89,6 @@ export const strayProcess = {
         "A page that outlives its subagent that way says nothing, so no page is read here.",
     },
   ],
+  createdAt: "2026-09-13T22:13:04.112Z",
+  updatedAt: "2026-09-25T17:59:23.000Z",
 } as const satisfies Module

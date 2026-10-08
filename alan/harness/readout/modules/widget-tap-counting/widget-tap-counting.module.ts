@@ -54,4 +54,6 @@ export const widgetTapCounting = {
       statement: "Nothing here reads a link.",
     },
   ],
+  createdAt: "2026-09-06T21:38:38.575Z",
+  updatedAt: "2026-09-24T19:26:00.000Z",
 } as const satisfies Module

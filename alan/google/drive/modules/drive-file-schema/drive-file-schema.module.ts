@@ -12,4 +12,6 @@ export const driveFileSchema = {
       statement: "A field Drive sends that is not asked for is kept rather than dropped.",
     },
   ],
+  createdAt: "2026-09-01T07:44:12.811Z",
+  updatedAt: "2026-09-22T13:58:57.000Z",
 } as const satisfies Module

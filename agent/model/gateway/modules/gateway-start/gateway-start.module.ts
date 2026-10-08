@@ -82,4 +82,6 @@ export const gatewayStart = {
       statement: "No option here has an account name.",
     },
   ],
+  createdAt: "2026-09-02T19:54:29.347Z",
+  updatedAt: "2026-09-25T14:35:31.000Z",
 } as const satisfies Module

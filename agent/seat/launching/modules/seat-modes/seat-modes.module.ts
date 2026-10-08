@@ -29,4 +29,6 @@ export const seatModes = {
       statement: "Nothing here reads a seat.",
     },
   ],
+  createdAt: "2026-09-03T17:53:28.521Z",
+  updatedAt: "2026-09-25T17:51:51.000Z",
 } as const satisfies Module

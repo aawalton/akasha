@@ -47,4 +47,6 @@ export const monarchShape = {
       statement: "Nothing here reaches the network or a file.",
     },
   ],
+  createdAt: "2026-09-03T17:44:31.704Z",
+  updatedAt: "2026-09-22T13:58:57.000Z",
 } as const satisfies Module

@@ -36,4 +36,6 @@ export const seatRelaunchTarget = {
       statement: "The mode a seat states it starts in is answered beside that seat's name.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-22T13:50:37.000Z",
 } as const satisfies Module

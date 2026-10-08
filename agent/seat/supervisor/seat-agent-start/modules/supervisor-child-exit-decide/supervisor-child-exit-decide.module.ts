@@ -22,4 +22,6 @@ export const supervisorChildExitDecide = {
       statement: "A signal number is named from this host's own signal table.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-24T16:36:00.000Z",
 } as const satisfies Module

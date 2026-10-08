@@ -22,4 +22,6 @@ export const launchSeatTmux = {
       statement: "A respawned seat is handed its prompt the way a seat launched fresh is.",
     },
   ],
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-28T21:47:24.000Z",
 } as const satisfies Module

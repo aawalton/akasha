@@ -78,4 +78,6 @@ export const logDaySweeping = {
       statement: "A day is swept alike whatever source wrote that day.",
     },
   ],
+  createdAt: "2026-09-03T17:56:43.735Z",
+  updatedAt: "2026-09-25T17:58:34.000Z",
 } as const satisfies Module

@@ -155,4 +155,6 @@ export const modelAccountReading = {
         "No key is read through `text-at` here, because five readers of a key are one family.",
     },
   ],
+  createdAt: "2026-09-02T17:33:13.159Z",
+  updatedAt: "2026-09-25T17:54:40.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const agentMessageConsoleStdoutGuard = {
       statement: "This module is loaded before anything that might log.",
     },
   ],
+  createdAt: "2026-09-03T17:59:25.035Z",
+  updatedAt: "2026-09-22T17:37:14.000Z",
 } as const satisfies Module

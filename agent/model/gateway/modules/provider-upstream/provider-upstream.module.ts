@@ -76,4 +76,6 @@ export const providerUpstream = {
       statement: "No key value reaches a log here.",
     },
   ],
+  createdAt: "2026-09-15T13:33:42.816Z",
+  updatedAt: "2026-09-25T17:58:45.000Z",
 } as const satisfies Module

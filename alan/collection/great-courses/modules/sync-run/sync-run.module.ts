@@ -20,4 +20,6 @@ export const syncRun = {
       statement: "The row is opened and settled by the module every sync records runs through.",
     },
   ],
+  createdAt: "2026-09-03T04:21:29.066Z",
+  updatedAt: "2026-09-21T22:35:08.000Z",
 } as const satisfies Module

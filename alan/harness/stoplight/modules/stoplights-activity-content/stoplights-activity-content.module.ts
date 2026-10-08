@@ -39,4 +39,6 @@ export const stoplightsActivityContent = {
       statement: "Nothing here reads a group or sends one.",
     },
   ],
+  createdAt: "2026-09-19T16:50:11.367Z",
+  updatedAt: "2026-09-25T17:47:51.000Z",
 } as const satisfies Module

@@ -41,4 +41,6 @@ export const royalRoadHeld = {
       statement: "A second copy is gathered under no story.",
     },
   ],
+  createdAt: "2026-09-26T14:58:31.935Z",
+  updatedAt: "2026-09-28T19:43:24.000Z",
 } as const satisfies Module

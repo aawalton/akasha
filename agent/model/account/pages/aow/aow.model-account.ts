@@ -19,4 +19,6 @@ export const aow = {
     "user:profile",
     "user:sessions:claude_code",
   ],
+  createdAt: "2026-06-30T16:34:01.704Z",
+  updatedAt: "2026-09-27T12:54:09.000Z",
 } as const satisfies ModelAccount

@@ -60,4 +60,6 @@ export const inboxCountWriting = {
       statement: "A count already on the day is read as the number that count spells.",
     },
   ],
+  createdAt: "2026-09-03T23:59:38.347Z",
+  updatedAt: "2026-09-24T19:31:14.000Z",
 } as const satisfies Module

@@ -8,4 +8,6 @@ export const aura = {
   email: "aura@alanwalton.com",
   aliasIndex: 9,
   renewalDay: 14,
+  createdAt: "2026-09-14T17:56:45.041Z",
+  updatedAt: "2026-09-18T22:58:02.000Z",
 } as const satisfies ModelAccount

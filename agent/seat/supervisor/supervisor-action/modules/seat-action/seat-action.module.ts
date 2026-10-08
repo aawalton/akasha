@@ -12,4 +12,6 @@ export const seatAction = {
       statement: "The action set beside the seat names the supervisor-action page it reaches.",
     },
   ],
+  createdAt: "2026-09-04T00:07:17.700Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

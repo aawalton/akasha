@@ -56,4 +56,6 @@ export const composeNotices = {
         "Code asks for a notice by the slug of the page it imports, so a notice renamed fails the typecheck.",
     },
   ],
+  createdAt: "2026-09-03T21:42:13.413Z",
+  updatedAt: "2026-09-25T17:57:04.000Z",
 } as const satisfies Module

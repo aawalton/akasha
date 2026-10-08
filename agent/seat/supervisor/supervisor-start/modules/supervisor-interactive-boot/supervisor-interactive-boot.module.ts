@@ -48,4 +48,6 @@ export const supervisorInteractiveBoot = {
       statement: "A stating that never returns holds boot open rather than being cut at a ceiling.",
     },
   ],
+  createdAt: "2026-09-03T18:04:03.733Z",
+  updatedAt: "2026-09-24T16:29:57.000Z",
 } as const satisfies Module

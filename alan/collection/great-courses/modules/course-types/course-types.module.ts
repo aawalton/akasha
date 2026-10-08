@@ -12,4 +12,6 @@ export const courseTypes = {
       statement: "Every field the catalogue hands over is read-only.",
     },
   ],
+  createdAt: "2026-09-03T04:14:46.232Z",
+  updatedAt: "2026-09-22T13:42:40.000Z",
 } as const satisfies Module

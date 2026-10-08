@@ -6,4 +6,6 @@ export const seatUsageKeep = {
   slug: "seat-usage-keep",
   definition: "the statusline payload on stdin, kept as this seat's usage reading",
   code: "ts",
+  createdAt: "2026-09-04T00:07:17.701Z",
+  updatedAt: "2026-09-15T16:42:06.000Z",
 } as const satisfies Module

@@ -155,4 +155,6 @@ export const retry = {
       statement: "The clock is handed in so a test needs no real time.",
     },
   ],
+  createdAt: "2026-09-02T13:35:52.430Z",
+  updatedAt: "2026-09-25T18:01:49.000Z",
 } as const satisfies Module

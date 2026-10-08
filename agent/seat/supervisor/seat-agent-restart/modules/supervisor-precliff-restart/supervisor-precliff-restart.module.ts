@@ -6,4 +6,6 @@ export const supervisorPrecliffRestart = {
   slug: "supervisor-precliff-restart",
   definition: "watching for the point before a limit where a seat is restarted",
   code: "ts",
+  createdAt: "2026-09-03T18:15:53.129Z",
+  updatedAt: "2026-09-24T15:55:20.000Z",
 } as const satisfies Module

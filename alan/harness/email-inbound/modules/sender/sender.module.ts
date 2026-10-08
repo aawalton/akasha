@@ -20,4 +20,6 @@ export const sender = {
       statement: "An address with no separator has an empty domain.",
     },
   ],
+  createdAt: "2026-09-01T07:09:26.371Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

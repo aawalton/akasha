@@ -21,4 +21,6 @@ export const seatStatedIdentity = {
       statement: "The caller is told the words the resolving function refused with.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-25T17:52:54.000Z",
 } as const satisfies Module

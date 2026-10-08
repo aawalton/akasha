@@ -63,4 +63,6 @@ export const monarchTransaction = {
       statement: "Nothing here reads a file or reaches Monarch.",
     },
   ],
+  createdAt: "2026-09-03T17:44:31.705Z",
+  updatedAt: "2026-09-24T19:10:39.000Z",
 } as const satisfies Module

@@ -34,4 +34,6 @@ export const seatFlex = {
       statement: "No seat gives itself a flex.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-26T17:23:28.000Z",
 } as const satisfies Module

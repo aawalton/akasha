@@ -29,4 +29,6 @@ export const forwardedMessage = {
       statement: "The original's content headers are carried onto the body part.",
     },
   ],
+  createdAt: "2026-09-03T04:17:25.068Z",
+  updatedAt: "2026-09-22T14:34:11.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const seatFacts = {
   slug: "seat-facts",
   definition: "a whole seat: its attributes, its presence and its supervisor process",
   code: "ts",
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-22T14:22:32.000Z",
 } as const satisfies Module

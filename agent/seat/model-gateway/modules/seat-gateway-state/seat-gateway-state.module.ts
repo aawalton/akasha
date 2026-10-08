@@ -32,4 +32,6 @@ export const seatGatewayState = {
       statement: "A pid whose start ticks will not read is written as a null process key.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:59:47.000Z",
 } as const satisfies Module

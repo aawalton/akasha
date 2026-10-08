@@ -54,4 +54,6 @@ export const bunCalls = {
       statement: "No rule about quoting or basenames exists here.",
     },
   ],
+  createdAt: "2026-08-29T17:57:59.151Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

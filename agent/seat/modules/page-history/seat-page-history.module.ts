@@ -37,4 +37,6 @@ export const seatPageHistory = {
       statement: "A seat with a parent but no person named takes the fleet as its principal.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:58:37.000Z",
 } as const satisfies Module

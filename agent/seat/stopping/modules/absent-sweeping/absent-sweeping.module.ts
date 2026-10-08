@@ -29,4 +29,6 @@ export const absentSweeping = {
       statement: "Nothing here takes a page away of its own.",
     },
   ],
+  createdAt: "2026-09-19T00:35:20.136Z",
+  updatedAt: "2026-09-19T00:42:08.000Z",
 } as const satisfies Module

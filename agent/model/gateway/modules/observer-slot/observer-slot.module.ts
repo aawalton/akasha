@@ -70,4 +70,6 @@ export const observerSlot = {
       statement: "An end that throws is left marked as run.",
     },
   ],
+  createdAt: "2026-09-02T15:31:05.524Z",
+  updatedAt: "2026-09-25T17:55:30.000Z",
 } as const satisfies Module

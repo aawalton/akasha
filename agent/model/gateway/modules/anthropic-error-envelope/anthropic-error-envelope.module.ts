@@ -49,4 +49,6 @@ export const anthropicErrorEnvelope = {
       statement: "Nothing here reads the status a failure arrived with.",
     },
   ],
+  createdAt: "2026-09-02T14:50:05.457Z",
+  updatedAt: "2026-09-25T17:59:34.000Z",
 } as const satisfies Module

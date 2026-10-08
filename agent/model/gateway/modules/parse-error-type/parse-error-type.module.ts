@@ -45,4 +45,6 @@ export const parseErrorType = {
       statement: "An `error` key present only on `Object.prototype` is taken as absent.",
     },
   ],
+  createdAt: "2026-09-02T14:35:12.773Z",
+  updatedAt: "2026-09-25T17:56:22.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const supervisor = {
   slug: "supervisor",
   definition: "the supervisor's entry: read the arguments, boot, and run the seat",
   code: "ts",
+  createdAt: "2026-09-03T18:10:02.842Z",
+  updatedAt: "2026-09-24T17:08:49.000Z",
 } as const satisfies Module

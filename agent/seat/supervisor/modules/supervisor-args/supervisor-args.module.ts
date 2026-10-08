@@ -44,4 +44,6 @@ export const supervisorArgs = {
       statement: "A re-exec line has the prompt file the earlier line had.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-28T21:47:24.000Z",
 } as const satisfies Module

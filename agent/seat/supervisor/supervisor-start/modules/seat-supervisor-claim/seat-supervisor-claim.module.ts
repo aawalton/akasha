@@ -42,4 +42,6 @@ export const seatSupervisorClaim = {
       statement: "Nothing here writes the seat page that states the holder.",
     },
   ],
+  createdAt: "2026-09-03T18:18:24.444Z",
+  updatedAt: "2026-09-24T16:29:57.000Z",
 } as const satisfies Module

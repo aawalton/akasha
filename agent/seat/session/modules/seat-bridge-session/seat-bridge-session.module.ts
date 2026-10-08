@@ -52,4 +52,6 @@ export const seatBridgeSession = {
         "A turn writing more than the end read clears the session until the transcript names it again.",
     },
   ],
+  createdAt: "2026-09-25T14:37:34.961Z",
+  updatedAt: "2026-09-25T15:55:11.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const supervisorHandoffEnv = {
       statement: "A proxy owner absent from the handoff is the session's own agent.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-24T15:10:45.000Z",
 } as const satisfies Module

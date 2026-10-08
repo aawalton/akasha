@@ -25,4 +25,6 @@ export const locationCapture = {
       statement: "A sequence starts past every point already buffered.",
     },
   ],
+  createdAt: "2026-09-03T04:24:01.072Z",
+  updatedAt: "2026-09-24T19:54:17.000Z",
 } as const satisfies Module

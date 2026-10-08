@@ -68,4 +68,6 @@ export const seatResume = {
         "What a resume is asked for is stated as values rather than spelled as a command line.",
     },
   ],
+  createdAt: "2026-09-04T00:21:47.520Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

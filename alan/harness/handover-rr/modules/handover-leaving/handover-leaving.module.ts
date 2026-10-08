@@ -25,4 +25,6 @@ export const handoverLeaving = {
       statement: "Nothing at alanwalton.com is told a reader left a peripheral.",
     },
   ],
+  createdAt: "2026-09-20T02:40:28.231Z",
+  updatedAt: "2026-09-20T02:42:24.000Z",
 } as const satisfies Module

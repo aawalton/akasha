@@ -28,4 +28,6 @@ export const subagentPagesSweeping = {
       statement: "Nothing here says whether the sweep took anything.",
     },
   ],
+  createdAt: "2026-09-22T16:29:43.047Z",
+  updatedAt: "2026-09-22T16:33:18.000Z",
 } as const satisfies Module

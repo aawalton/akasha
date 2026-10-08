@@ -33,4 +33,6 @@ export const seatInitiative = {
       statement: "The initiatives akasha knows are named back.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T18:02:07.000Z",
 } as const satisfies Module

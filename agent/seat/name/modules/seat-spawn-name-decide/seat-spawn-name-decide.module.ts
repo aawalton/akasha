@@ -29,4 +29,6 @@ export const seatSpawnNameDecide = {
         "A seat spelling only the role that seat defaults to has stated nothing to be named from.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-25T17:54:59.000Z",
 } as const satisfies Module

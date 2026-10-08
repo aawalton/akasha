@@ -6,4 +6,6 @@ export const sonnet = {
   slug: "sonnet",
   definition: "less expensive, less capable",
   name: "claude-sonnet-5",
+  createdAt: "2026-08-30T15:49:55.535Z",
+  updatedAt: "2026-09-15T17:27:52.000Z",
 } as const satisfies ModelFamily

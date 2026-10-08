@@ -5,4 +5,6 @@ export const positiveFalse = {
   type: "page-type/model-test-outcome",
   slug: "positive-false",
   definition: "a case the test flagged that is not bad",
+  createdAt: "2026-08-31T18:12:19.900Z",
+  updatedAt: "2026-09-15T17:28:59.000Z",
 } as const satisfies ModelTestOutcome

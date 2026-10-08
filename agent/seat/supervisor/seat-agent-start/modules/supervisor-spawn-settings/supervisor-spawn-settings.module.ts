@@ -35,4 +35,6 @@ export const supervisorSpawnSettings = {
       statement: "The settings are read once for a spawn rather than asked for until they answer.",
     },
   ],
+  createdAt: "2026-09-03T18:10:02.842Z",
+  updatedAt: "2026-09-24T16:36:00.000Z",
 } as const satisfies Module

@@ -64,4 +64,6 @@ export const withheldHiding = {
         "A copy under another name outside the checkout, Claude's folders and the temps is not hidden.",
     },
   ],
+  createdAt: "2026-09-25T20:49:59.772Z",
+  updatedAt: "2026-09-29T13:02:49.000Z",
 } as const satisfies Module

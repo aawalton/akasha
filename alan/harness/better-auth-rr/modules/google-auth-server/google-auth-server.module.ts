@@ -75,4 +75,6 @@ export const googleAuthServer = {
       statement: "The one plugin here trades a code from the app for a session of this site's own.",
     },
   ],
+  createdAt: "2026-09-19T19:07:46.228Z",
+  updatedAt: "2026-09-20T01:48:09.000Z",
 } as const satisfies Module

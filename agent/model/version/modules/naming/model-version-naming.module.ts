@@ -17,4 +17,6 @@ export const modelVersionNaming = {
       statement: "An id no model version states names no model version.",
     },
   ],
+  createdAt: "2026-09-24T18:41:53.222Z",
+  updatedAt: "2026-09-25T17:54:39.000Z",
 } as const satisfies Module

@@ -225,4 +225,6 @@ export const gatewayProcess = {
       statement: "The exit is a seam so nothing here proves the process really ends.",
     },
   ],
+  createdAt: "2026-09-02T21:58:18.741Z",
+  updatedAt: "2026-09-25T17:53:59.000Z",
 } as const satisfies Module

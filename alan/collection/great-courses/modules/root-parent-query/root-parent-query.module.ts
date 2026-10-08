@@ -34,4 +34,6 @@ export const rootParentQuery = {
       statement: "A write the store refused is answered as the day not recorded.",
     },
   ],
+  createdAt: "2026-09-03T04:14:46.233Z",
+  updatedAt: "2026-09-25T15:44:36.000Z",
 } as const satisfies Module

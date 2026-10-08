@@ -50,4 +50,6 @@ export const letMeKept = {
       statement: "Nothing here judges a rule other than the one this test's code names.",
     },
   ],
+  createdAt: "2026-09-13T19:11:46.250Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ModelTest

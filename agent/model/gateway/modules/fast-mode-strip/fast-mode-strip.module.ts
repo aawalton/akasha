@@ -69,4 +69,6 @@ export const fastModeStrip = {
       statement: "Nothing here chooses which model serves a fast-mode request.",
     },
   ],
+  createdAt: "2026-09-02T14:36:57.980Z",
+  updatedAt: "2026-09-25T14:00:16.000Z",
 } as const satisfies Module

@@ -26,4 +26,6 @@ export const supervisorLimitResumeEffects = {
       statement: "A transcript with no assistant line is no rate-limit death.",
     },
   ],
+  createdAt: "2026-09-03T17:01:58.788Z",
+  updatedAt: "2026-09-24T17:13:10.000Z",
 } as const satisfies Module

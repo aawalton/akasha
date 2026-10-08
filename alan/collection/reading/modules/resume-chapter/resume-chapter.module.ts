@@ -6,4 +6,6 @@ export const resumeChapter = {
   slug: "resume-chapter",
   definition: "the chapter a reader carries on from, worked out from where the reader left off",
   code: "ts",
+  createdAt: "2026-09-03T04:15:56.584Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Module

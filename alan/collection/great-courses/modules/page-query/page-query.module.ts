@@ -20,4 +20,6 @@ export const pageQuery = {
       statement: "A page found by its title carries the commit it was asked at.",
     },
   ],
+  createdAt: "2026-09-03T04:14:46.233Z",
+  updatedAt: "2026-09-25T15:44:36.000Z",
 } as const satisfies Module

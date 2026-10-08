@@ -61,4 +61,6 @@ export const holdRegistry = {
       statement: "Nothing here knows the request a hold is waiting on.",
     },
   ],
+  createdAt: "2026-09-02T13:08:41.401Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

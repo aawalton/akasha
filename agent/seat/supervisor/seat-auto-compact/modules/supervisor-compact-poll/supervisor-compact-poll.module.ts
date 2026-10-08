@@ -43,4 +43,6 @@ export const supervisorCompactPoll = {
         "The ceiling is read afresh on every beat, so a conditions page rewritten holds at once.",
     },
   ],
+  createdAt: "2026-09-21T19:43:57.013Z",
+  updatedAt: "2026-09-24T17:36:54.000Z",
 } as const satisfies Module

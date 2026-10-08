@@ -29,4 +29,6 @@ export const buildStampGate = {
       statement: "A passing gate says so by printing one fixed marker line.",
     },
   ],
+  createdAt: "2026-09-01T12:25:55.296Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

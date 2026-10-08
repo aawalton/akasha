@@ -6,4 +6,6 @@ export const killTargetPlan = {
   slug: "kill-target-plan",
   definition: "whether a kill acts on pids, a tmux session, or a reconcile",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-22T14:08:21.000Z",
 } as const satisfies Module

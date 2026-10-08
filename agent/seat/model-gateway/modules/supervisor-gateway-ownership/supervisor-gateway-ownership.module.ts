@@ -6,4 +6,6 @@ export const supervisorGatewayOwnership = {
   slug: "supervisor-gateway-ownership",
   definition: "whether the model gateway is stopped by this supervisor",
   code: "ts",
+  createdAt: "2026-09-03T18:10:02.842Z",
+  updatedAt: "2026-09-25T17:53:20.000Z",
 } as const satisfies Module

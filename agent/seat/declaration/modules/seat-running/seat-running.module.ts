@@ -33,4 +33,6 @@ export const seatRunning = {
       statement: "The stating function reaches no stream and no exit code.",
     },
   ],
+  createdAt: "2026-09-04T00:27:45.186Z",
+  updatedAt: "2026-09-25T17:51:28.000Z",
 } as const satisfies Module

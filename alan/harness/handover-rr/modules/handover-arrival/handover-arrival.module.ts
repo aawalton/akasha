@@ -25,4 +25,6 @@ export const handoverArrival = {
       statement: "The cookie is set on the redirect that carries the person to the return path.",
     },
   ],
+  createdAt: "2026-09-19T20:04:10.435Z",
+  updatedAt: "2026-09-22T14:37:11.000Z",
 } as const satisfies Module

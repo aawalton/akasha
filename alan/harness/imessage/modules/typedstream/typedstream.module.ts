@@ -26,4 +26,6 @@ export const typedstream = {
       statement: "No fixture here is a message anyone sent.",
     },
   ],
+  createdAt: "2026-09-01T07:05:11.688Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

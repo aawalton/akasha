@@ -62,4 +62,6 @@ export const spotifyAuthCli = {
       statement: "The call each step names is the file running rather than a path spelled here.",
     },
   ],
+  createdAt: "2026-09-02T13:49:35.645Z",
+  updatedAt: "2026-09-21T17:14:07.000Z",
 } as const satisfies Module

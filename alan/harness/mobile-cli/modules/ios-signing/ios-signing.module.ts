@@ -53,4 +53,6 @@ export const iosSigning = {
       statement: "A run failing after the delete leaves the bundle no profile until the next run.",
     },
   ],
+  createdAt: "2026-09-01T12:25:55.296Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

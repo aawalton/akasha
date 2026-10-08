@@ -86,4 +86,6 @@ export const subagentPageNaming = {
       statement: "Nothing here takes a page away, writes one, or lands anything.",
     },
   ],
+  createdAt: "2026-09-12T14:02:49.221Z",
+  updatedAt: "2026-09-25T13:42:29.000Z",
 } as const satisfies Module

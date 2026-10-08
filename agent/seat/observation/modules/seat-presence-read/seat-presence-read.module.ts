@@ -28,4 +28,6 @@ export const seatPresenceRead = {
       statement: "The seat a pid has is found by matching the pid in each seat's process key.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:56:57.000Z",
 } as const satisfies Module

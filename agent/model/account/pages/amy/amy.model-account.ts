@@ -19,4 +19,6 @@ export const amy = {
     "user:profile",
     "user:sessions:claude_code",
   ],
+  createdAt: "2026-07-05T12:14:16.009Z",
+  updatedAt: "2026-09-27T12:57:48.000Z",
 } as const satisfies ModelAccount

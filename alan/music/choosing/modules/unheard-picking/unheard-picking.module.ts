@@ -25,4 +25,6 @@ export const unheardPicking = {
       statement: "Nothing here reaches the network.",
     },
   ],
+  createdAt: "2026-09-21T17:02:19.617Z",
+  updatedAt: "2026-09-21T19:41:16.000Z",
 } as const satisfies Module

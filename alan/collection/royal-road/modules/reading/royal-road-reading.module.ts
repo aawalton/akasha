@@ -50,4 +50,6 @@ export const royalRoadReading = {
       statement: "No moment a chapter was completed at is stated here.",
     },
   ],
+  createdAt: "2026-09-28T19:43:17.180Z",
+  updatedAt: "2026-09-28T19:43:24.000Z",
 } as const satisfies Module

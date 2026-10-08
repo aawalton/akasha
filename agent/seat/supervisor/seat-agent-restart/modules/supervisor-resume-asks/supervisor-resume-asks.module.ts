@@ -6,4 +6,6 @@ export const supervisorResumeAsks = {
   slug: "supervisor-resume-asks",
   definition: "the notice a seat is resumed with after its agent restarts, and the route it takes",
   code: "ts",
+  createdAt: "2026-09-03T18:10:02.842Z",
+  updatedAt: "2026-09-24T17:06:25.000Z",
 } as const satisfies Module

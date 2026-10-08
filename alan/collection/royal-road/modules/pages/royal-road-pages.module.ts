@@ -51,4 +51,6 @@ export const royalRoadPages = {
       statement: "Every request to Royal Road is sent by curl.",
     },
   ],
+  createdAt: "2026-09-03T04:20:34.578Z",
+  updatedAt: "2026-10-04T12:10:03.000Z",
 } as const satisfies Module

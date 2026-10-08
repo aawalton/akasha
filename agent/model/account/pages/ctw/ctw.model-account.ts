@@ -19,4 +19,6 @@ export const ctw = {
     "user:profile",
     "user:sessions:claude_code",
   ],
+  createdAt: "2026-06-28T09:57:48.620Z",
+  updatedAt: "2026-09-27T12:54:09.000Z",
 } as const satisfies ModelAccount

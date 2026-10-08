@@ -79,4 +79,6 @@ export const modelAccountMeasuring = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-08-31T14:09:18.671Z",
+  updatedAt: "2026-09-27T12:55:46.000Z",
 } as const satisfies Module

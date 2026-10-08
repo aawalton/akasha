@@ -33,4 +33,6 @@ export const shellMoves = {
       statement: "A path opening with a tilde names the home directory.",
     },
   ],
+  createdAt: "2026-09-25T22:13:30.677Z",
+  updatedAt: "2026-09-25T22:13:39.000Z",
 } as const satisfies Module

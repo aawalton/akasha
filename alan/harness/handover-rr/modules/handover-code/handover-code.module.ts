@@ -45,4 +45,6 @@ export const handoverCode = {
       statement: "One reader answers every code, and the hash is weighed where the signature is.",
     },
   ],
+  createdAt: "2026-09-19T20:03:30.924Z",
+  updatedAt: "2026-09-20T01:54:09.000Z",
 } as const satisfies Module

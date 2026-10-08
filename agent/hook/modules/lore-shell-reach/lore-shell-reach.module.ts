@@ -61,4 +61,6 @@ export const loreShellReach = {
       statement: "A program reading a path its own code names is not seen.",
     },
   ],
+  createdAt: "2026-09-24T17:51:00.724Z",
+  updatedAt: "2026-09-28T22:09:37.000Z",
 } as const satisfies Module

@@ -33,4 +33,6 @@ export const supervisorSpawnGateway = {
       statement: "An error stream whose file will not open is discarded rather than inherited.",
     },
   ],
+  createdAt: "2026-09-03T18:10:02.842Z",
+  updatedAt: "2026-09-25T17:54:02.000Z",
 } as const satisfies Module

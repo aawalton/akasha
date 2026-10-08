@@ -24,4 +24,6 @@ export const mimeMessage = {
       statement: "A message with no attachment is one plain-text part rather than multipart.",
     },
   ],
+  createdAt: "2026-09-01T08:20:30.639Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

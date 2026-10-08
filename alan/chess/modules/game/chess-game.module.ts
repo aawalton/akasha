@@ -6,4 +6,6 @@ export const chessGame = {
   slug: "chess-game",
   definition: "when a chess game is over and how it reads once written down",
   code: "ts",
+  createdAt: "2026-09-01T07:31:59.367Z",
+  updatedAt: "2026-09-15T16:42:58.000Z",
 } as const satisfies Module

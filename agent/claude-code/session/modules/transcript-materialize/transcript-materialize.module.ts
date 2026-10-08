@@ -6,4 +6,6 @@ export const transcriptMaterialize = {
   slug: "transcript-materialize",
   definition: "how code prepares a Claude Code session's file for a new Claude Code process",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-25T17:56:30.000Z",
 } as const satisfies Module

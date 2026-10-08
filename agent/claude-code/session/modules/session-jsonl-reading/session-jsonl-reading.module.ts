@@ -6,4 +6,6 @@ export const sessionJsonlReading = {
   slug: "session-jsonl-reading",
   definition: "how code reads a Claude Code session's file",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-25T18:20:21.000Z",
 } as const satisfies Module

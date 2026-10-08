@@ -99,4 +99,6 @@ export const subagentLiveness = {
       statement: "Nothing here takes a page away, writes one, or lands anything.",
     },
   ],
+  createdAt: "2026-09-12T13:23:45.749Z",
+  updatedAt: "2026-10-04T16:34:55.000Z",
 } as const satisfies Module

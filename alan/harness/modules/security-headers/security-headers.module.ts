@@ -24,4 +24,6 @@ export const securityHeaders = {
       statement: "The microphone is refused to every site but one whose policy asks for it.",
     },
   ],
+  createdAt: "2026-09-01T09:24:34.667Z",
+  updatedAt: "2026-10-08T11:20:08.000Z",
 } as const satisfies Module

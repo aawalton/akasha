@@ -48,4 +48,6 @@ export const supervisorIdleDecide = {
       statement: "Nothing here reads a process or a port or a page.",
     },
   ],
+  createdAt: "2026-09-03T17:01:58.788Z",
+  updatedAt: "2026-09-24T17:03:24.000Z",
 } as const satisfies Module

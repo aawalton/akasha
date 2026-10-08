@@ -149,4 +149,6 @@ export const dayReadoutWatching = {
       statement: "No reading here is shown or withheld for how old that reading is.",
     },
   ],
+  createdAt: "2026-09-10T16:06:18.655Z",
+  updatedAt: "2026-09-25T17:30:04.000Z",
 } as const satisfies Module

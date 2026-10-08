@@ -42,4 +42,6 @@ export const seededDraw = {
       statement: "An index the randomness returns from outside its bound is refused.",
     },
   ],
+  createdAt: "2026-09-06T18:08:01.894Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

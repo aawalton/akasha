@@ -25,4 +25,6 @@ export const gmailInboundAdapter = {
       statement: "Both the To and the Cc headers are searched for a persona's channel.",
     },
   ],
+  createdAt: "2026-09-01T08:20:30.641Z",
+  updatedAt: "2026-09-22T13:54:40.000Z",
 } as const satisfies Module

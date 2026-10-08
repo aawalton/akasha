@@ -6,4 +6,6 @@ export const seatNameHeldRefusal = {
   slug: "seat-name-held-refusal",
   definition: "the refusal of a name another seat has",
   code: "ts",
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-25T17:51:48.000Z",
 } as const satisfies Module

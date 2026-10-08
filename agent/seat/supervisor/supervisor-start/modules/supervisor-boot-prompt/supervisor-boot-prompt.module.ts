@@ -24,4 +24,6 @@ export const supervisorBootPrompt = {
       statement: "A prompt is renamed into place so no half-written file is ever handed over.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-24T16:29:57.000Z",
 } as const satisfies Module

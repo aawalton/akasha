@@ -29,4 +29,6 @@ export const simSession = {
       statement: "The banner-tap capabilities are the sim capabilities with the bundle id dropped.",
     },
   ],
+  createdAt: "2026-09-01T12:25:55.296Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies Module

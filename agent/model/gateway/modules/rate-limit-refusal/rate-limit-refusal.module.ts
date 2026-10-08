@@ -89,4 +89,6 @@ export const rateLimitRefusal = {
       statement: "The message a client reads is written in English alone.",
     },
   ],
+  createdAt: "2026-09-02T22:27:14.883Z",
+  updatedAt: "2026-09-25T17:59:34.000Z",
 } as const satisfies Module

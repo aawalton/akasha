@@ -16,4 +16,6 @@ export const locationIngestContext = {
       statement: "No bearer token admits an ingest.",
     },
   ],
+  createdAt: "2026-09-03T04:24:01.072Z",
+  updatedAt: "2026-09-20T23:52:12.000Z",
 } as const satisfies Module

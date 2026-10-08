@@ -43,5 +43,6 @@ export const seatSession = {
       statement: "Keeping a session does nothing.",
     },
   ],
-  updatedAt: "2026-10-08T15:30:04.606Z",
+  updatedAt: "2026-10-08T16:01:33.455Z",
+  createdAt: "2026-09-03T22:00:32.641Z",
 } as const satisfies Module

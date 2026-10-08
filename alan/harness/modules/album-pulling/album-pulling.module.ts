@@ -36,4 +36,6 @@ export const albumPulling = {
       statement: "A name that decodes to nothing usable becomes the record name and a heic ending.",
     },
   ],
+  createdAt: "2026-09-03T04:27:14.617Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const agentMessageFileWatch = {
   slug: "agent-message-file-watch",
   definition: "how code watches a folder for messages sent to a seat",
   code: "ts",
+  createdAt: "2026-09-03T22:30:12.120Z",
+  updatedAt: "2026-09-25T18:00:52.000Z",
 } as const satisfies Module

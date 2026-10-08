@@ -29,4 +29,6 @@ export const seatReviveLaunchDecide = {
       statement: "Only a seat resuming a session needs its transcript materialised first.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

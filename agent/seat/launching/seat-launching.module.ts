@@ -213,4 +213,6 @@ export const seatLaunching = {
       statement: "The newline ending such a line is sent after the line rather than with it.",
     },
   ],
+  createdAt: "2026-09-01T15:21:08.569Z",
+  updatedAt: "2026-09-27T13:45:08.000Z",
 } as const satisfies Module

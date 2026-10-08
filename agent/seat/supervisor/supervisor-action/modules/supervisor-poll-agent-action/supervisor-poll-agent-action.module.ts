@@ -18,4 +18,6 @@ export const supervisorPollAgentAction = {
       statement: "Each action is named by the slug of the page imported for it.",
     },
   ],
+  createdAt: "2026-09-03T18:15:30.177Z",
+  updatedAt: "2026-09-25T13:45:00.000Z",
 } as const satisfies Module

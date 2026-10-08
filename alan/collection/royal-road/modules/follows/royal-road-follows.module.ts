@@ -42,4 +42,6 @@ export const royalRoadFollows = {
       statement: "An empty follow list refuses the run.",
     },
   ],
+  createdAt: "2026-09-28T19:38:50.516Z",
+  updatedAt: "2026-09-28T19:38:58.000Z",
 } as const satisfies Module

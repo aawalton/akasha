@@ -49,4 +49,6 @@ export const gatewayHeaders = {
       statement: "A response with several `set-cookie` headers copies every header.",
     },
   ],
+  createdAt: "2026-09-02T12:54:20.240Z",
+  updatedAt: "2026-09-25T18:33:28.000Z",
 } as const satisfies Module

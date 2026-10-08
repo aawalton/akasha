@@ -25,4 +25,6 @@ export const chessPuzzleLichess = {
       statement: "Every puzzle row has the CC0-1.0 licence the database is published under.",
     },
   ],
+  createdAt: "2026-09-03T04:20:34.578Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

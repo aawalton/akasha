@@ -33,4 +33,6 @@ export const supervisorPrecliffRestartDecide = {
       statement: "Only the arming is decided here.",
     },
   ],
+  createdAt: "2026-09-03T17:01:58.788Z",
+  updatedAt: "2026-09-24T15:55:20.000Z",
 } as const satisfies Module

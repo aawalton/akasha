@@ -38,4 +38,6 @@ export const seatStatedNameRefusal = {
       statement: "A call refused nothing types no name.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-25T17:55:17.000Z",
 } as const satisfies Module

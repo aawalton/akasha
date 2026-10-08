@@ -46,4 +46,6 @@ export const subagentBody = {
         "A slug no `export const` may be declared under lays out a body that will not parse.",
     },
   ],
+  createdAt: "2026-09-12T12:48:09.623Z",
+  updatedAt: "2026-09-25T14:14:00.000Z",
 } as const satisfies Module

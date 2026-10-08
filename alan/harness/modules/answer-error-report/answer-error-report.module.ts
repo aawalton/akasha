@@ -29,4 +29,6 @@ export const answerErrorReport = {
       statement: "A filing that throws is answered rather than left to the router.",
     },
   ],
+  createdAt: "2026-09-11T02:37:38.790Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies Module

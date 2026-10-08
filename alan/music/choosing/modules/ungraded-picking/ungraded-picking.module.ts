@@ -33,4 +33,6 @@ export const ungradedPicking = {
       statement: "Nothing here reaches the network.",
     },
   ],
+  createdAt: "2026-09-21T19:46:25.839Z",
+  updatedAt: "2026-09-21T19:49:38.000Z",
 } as const satisfies Module

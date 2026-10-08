@@ -33,4 +33,6 @@ export const monarchRuleDescribe = {
       statement: "Only the clauses a rule narrows on are said here.",
     },
   ],
+  createdAt: "2026-09-03T17:51:45.347Z",
+  updatedAt: "2026-09-22T13:56:56.000Z",
 } as const satisfies Module

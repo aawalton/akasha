@@ -39,4 +39,6 @@ export const monarchAmazonNotes = {
         "The rows written and the rows declined and the order numbers owed are all tallied at the end.",
     },
   ],
+  createdAt: "2026-09-03T17:54:00.831Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

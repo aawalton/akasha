@@ -33,4 +33,6 @@ export const supervisorTickSaying = {
       statement: "Nothing here knows what a kind means or what a monitor watches.",
     },
   ],
+  createdAt: "2026-09-11T01:50:13.265Z",
+  updatedAt: "2026-09-24T17:16:21.000Z",
 } as const satisfies Module

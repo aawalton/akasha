@@ -84,4 +84,6 @@ export const inboxWatching = {
         "The checkout the watch reads is worked out as the file loads rather than as the run starts.",
     },
   ],
+  createdAt: "2026-09-03T17:56:43.735Z",
+  updatedAt: "2026-09-24T18:00:53.000Z",
 } as const satisfies Module

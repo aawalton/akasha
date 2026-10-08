@@ -100,4 +100,6 @@ export const hookAnswer = {
         "A judgement is handed the payload whole and hands back the answer rather than an exit code.",
     },
   ],
+  createdAt: "2026-08-29T15:15:13.920Z",
+  updatedAt: "2026-09-25T18:03:36.000Z",
 } as const satisfies Module

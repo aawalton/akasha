@@ -340,4 +340,6 @@ export const gatewayServing = {
       statement: "Nothing proves these routes against a listener that is really open.",
     },
   ],
+  createdAt: "2026-09-02T21:58:18.739Z",
+  updatedAt: "2026-09-25T17:54:54.000Z",
 } as const satisfies Module

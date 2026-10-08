@@ -21,4 +21,6 @@ export const supervisorGuardTick = {
       statement: "The timer that called a tick survives.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-24T17:16:21.000Z",
 } as const satisfies Module

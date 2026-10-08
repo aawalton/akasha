@@ -26,4 +26,6 @@ export const supervisorLimitResumeDecide = {
       statement: "An exhausted pool nudges once the earliest account reset has arrived.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-24T17:13:10.000Z",
 } as const satisfies Module

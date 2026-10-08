@@ -67,4 +67,6 @@ export const modelTestRunning = {
       statement: "Nothing here knows what any test is about.",
     },
   ],
+  createdAt: "2026-09-11T16:48:26.063Z",
+  updatedAt: "2026-09-25T18:03:59.000Z",
 } as const satisfies Module

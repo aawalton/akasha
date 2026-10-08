@@ -162,4 +162,6 @@ export const hookDispatch = {
       statement: "A judgement answering what this cannot read passes the call that hook judged.",
     },
   ],
+  createdAt: "2026-09-10T23:58:36.484Z",
+  updatedAt: "2026-09-25T17:52:11.000Z",
 } as const satisfies Module

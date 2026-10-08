@@ -12,4 +12,6 @@ export const geoapify = {
       statement: "A url is built without a request being made.",
     },
   ],
+  createdAt: "2026-09-01T09:24:34.667Z",
+  updatedAt: "2026-09-22T13:54:48.000Z",
 } as const satisfies Module

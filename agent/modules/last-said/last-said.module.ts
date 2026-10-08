@@ -37,4 +37,6 @@ export const lastSaid = {
       statement: "Nothing here opens a transcript.",
     },
   ],
+  createdAt: "2026-09-11T14:17:08.537Z",
+  updatedAt: "2026-09-25T18:20:38.000Z",
 } as const satisfies Module

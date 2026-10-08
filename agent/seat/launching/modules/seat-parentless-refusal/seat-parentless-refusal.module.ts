@@ -22,4 +22,6 @@ export const seatParentlessRefusal = {
       statement: "A parent stated as an empty string is no parent.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-25T17:52:21.000Z",
 } as const satisfies Module

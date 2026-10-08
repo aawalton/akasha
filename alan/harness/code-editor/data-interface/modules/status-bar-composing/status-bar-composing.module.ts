@@ -81,4 +81,6 @@ export const statusBarComposing = {
       statement: "Nothing here names a readout's wire key.",
     },
   ],
+  createdAt: "2026-09-06T21:25:06.116Z",
+  updatedAt: "2026-09-25T17:44:41.000Z",
 } as const satisfies Module

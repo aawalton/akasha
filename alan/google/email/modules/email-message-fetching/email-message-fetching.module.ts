@@ -20,4 +20,6 @@ export const emailMessageFetching = {
       statement: "Nothing here knows a command line.",
     },
   ],
+  createdAt: "2026-09-05T16:08:12.898Z",
+  updatedAt: "2026-09-24T19:36:51.000Z",
 } as const satisfies Module

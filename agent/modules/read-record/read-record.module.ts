@@ -246,4 +246,6 @@ export const readRecord = {
         "An apply records a body it landed as read only where that body is the text its agent handed in.",
     },
   ],
+  createdAt: "2026-08-29T17:34:59.594Z",
+  updatedAt: "2026-09-30T20:36:43.000Z",
 } as const satisfies Module

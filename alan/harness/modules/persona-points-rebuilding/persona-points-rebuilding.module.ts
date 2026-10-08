@@ -60,4 +60,6 @@ export const personaPointsRebuilding = {
       statement: "Nothing here works out the rung a total reaches.",
     },
   ],
+  createdAt: "2026-09-08T21:27:34.437Z",
+  updatedAt: "2026-09-22T13:54:48.000Z",
 } as const satisfies Module

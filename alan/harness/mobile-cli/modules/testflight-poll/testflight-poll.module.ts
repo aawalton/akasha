@@ -47,4 +47,6 @@ export const testflightPoll = {
         "a processing failure is emitted as a single-line JSON marker beside its prose message",
     },
   ],
+  createdAt: "2026-09-01T12:25:55.296Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

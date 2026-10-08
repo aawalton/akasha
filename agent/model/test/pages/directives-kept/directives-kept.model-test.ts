@@ -48,4 +48,6 @@ export const directivesKept = {
       statement: "No cases are beside this, and it is run against the cases of the test it rivals.",
     },
   ],
+  createdAt: "2026-09-11T17:09:18.561Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ModelTest

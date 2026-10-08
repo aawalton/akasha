@@ -6,4 +6,6 @@ export const gmailClient = {
   slug: "gmail-client",
   definition: "the Gmail API bound to an authorised client",
   code: "ts",
+  createdAt: "2026-09-01T08:20:30.638Z",
+  updatedAt: "2026-09-15T16:42:58.000Z",
 } as const satisfies Module

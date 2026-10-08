@@ -44,4 +44,6 @@ export const monarchHistory = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-03T17:51:52.049Z",
+  updatedAt: "2026-09-22T14:37:11.000Z",
 } as const satisfies Module

@@ -69,4 +69,6 @@ export const peekResponse = {
       statement: "A rebuilt response has no content-encoding or content-length of the original.",
     },
   ],
+  createdAt: "2026-09-02T14:56:59.490Z",
+  updatedAt: "2026-09-25T17:57:08.000Z",
 } as const satisfies Module

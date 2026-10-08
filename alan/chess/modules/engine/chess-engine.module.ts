@@ -6,4 +6,6 @@ export const chessEngine = {
   slug: "chess-engine",
   definition: "a chess engine started as a process and read until it answers",
   code: "ts",
+  createdAt: "2026-09-01T07:31:59.366Z",
+  updatedAt: "2026-09-15T16:42:58.000Z",
 } as const satisfies Module

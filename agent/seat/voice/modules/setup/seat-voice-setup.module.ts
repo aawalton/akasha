@@ -34,4 +34,6 @@ export const seatVoiceSetup = {
       statement: "The phone sends 16 kHz sound and is sent 24 kHz sound back.",
     },
   ],
+  createdAt: "2026-10-08T11:10:56.603Z",
+  updatedAt: "2026-10-08T12:30:19.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const needsAttention = {
       statement: "A seat with no page is written nothing.",
     },
   ],
+  createdAt: "2026-09-26T18:30:27.074Z",
+  updatedAt: "2026-09-26T18:31:02.000Z",
 } as const satisfies Module

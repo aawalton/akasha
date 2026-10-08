@@ -23,4 +23,6 @@ export const subagentPage = {
       statement: "A seat is found by its id and is a seat by the page type its file name says.",
     },
   ],
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

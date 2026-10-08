@@ -76,4 +76,6 @@ export const supervisorLogSweeping = {
       statement: "Nothing is taken away unless the sweep is asked to.",
     },
   ],
+  createdAt: "2026-09-03T17:56:43.735Z",
+  updatedAt: "2026-09-25T13:42:34.000Z",
 } as const satisfies Module

@@ -26,4 +26,6 @@ export const agentRestartNoticeDecide = {
       statement: "The recovery clause follows every notice unless that clause is empty.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-24T15:55:39.000Z",
 } as const satisfies Module

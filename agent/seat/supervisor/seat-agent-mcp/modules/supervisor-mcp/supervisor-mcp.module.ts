@@ -12,4 +12,6 @@ export const supervisorMcp = {
       statement: "A server the registry declares is offered rather than opened to be tried first.",
     },
   ],
+  createdAt: "2026-09-03T18:15:30.186Z",
+  updatedAt: "2026-09-24T17:19:16.000Z",
 } as const satisfies Module

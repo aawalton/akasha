@@ -20,4 +20,6 @@ export const composeBoot = {
       statement: "A composition has no path.",
     },
   ],
+  createdAt: "2026-09-04T00:19:33.076Z",
+  updatedAt: "2026-09-25T18:00:20.000Z",
 } as const satisfies Module

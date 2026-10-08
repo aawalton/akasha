@@ -6,4 +6,6 @@ export const supervisorShutdownProcs = {
   slug: "supervisor-shutdown-procs",
   definition: "killing the processes a supervisor owns as it shuts down",
   code: "ts",
+  createdAt: "2026-09-03T18:10:02.842Z",
+  updatedAt: "2026-09-24T17:14:21.000Z",
 } as const satisfies Module

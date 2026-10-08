@@ -80,4 +80,6 @@ export const costColor = {
       statement: "The color is worked out without reaching a store.",
     },
   ],
+  createdAt: "2026-09-10T13:51:36.900Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

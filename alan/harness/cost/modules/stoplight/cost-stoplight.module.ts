@@ -162,4 +162,6 @@ export const costStoplight = {
       statement: "A surplus nothing carried is not carried.",
     },
   ],
+  createdAt: "2026-09-10T14:18:28.603Z",
+  updatedAt: "2026-09-25T16:57:15.000Z",
 } as const satisfies Module

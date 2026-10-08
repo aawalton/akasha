@@ -67,4 +67,6 @@ export const emailRulePlanning = {
       statement: "A plan taken over the rules its own last plan wrote plans nothing.",
     },
   ],
+  createdAt: "2026-09-14T18:46:56.954Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

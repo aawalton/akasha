@@ -16,4 +16,6 @@ export const emailRuleDeciding = {
       statement: "A message no rule claims is answered as no rule rather than as a rule.",
     },
   ],
+  createdAt: "2026-09-03T18:04:12.901Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

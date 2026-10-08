@@ -21,4 +21,6 @@ export const ruleConditions = {
         "Nothing here reads a rule, and nothing works out whether one match covers another.",
     },
   ],
+  createdAt: "2026-09-03T04:16:34.524Z",
+  updatedAt: "2026-09-22T14:07:21.000Z",
 } as const satisfies Module

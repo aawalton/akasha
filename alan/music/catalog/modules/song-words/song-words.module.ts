@@ -29,4 +29,6 @@ export const songWords = {
       statement: "Nothing here reaches the network of its own.",
     },
   ],
+  createdAt: "2026-09-19T18:05:33.342Z",
+  updatedAt: "2026-09-22T14:37:11.000Z",
 } as const satisfies Module

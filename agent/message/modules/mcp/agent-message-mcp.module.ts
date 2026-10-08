@@ -21,4 +21,6 @@ export const agentMessageMcp = {
         "A message already claimed is left claimed, for the supervisor to weigh on resume.",
     },
   ],
+  createdAt: "2026-09-04T00:23:36.720Z",
+  updatedAt: "2026-09-25T18:02:43.000Z",
 } as const satisfies Module

@@ -40,4 +40,6 @@ export const agentPageReading = {
       statement: "Whether a subagent was stopped from the panel is read from beside its page.",
     },
   ],
+  createdAt: "2026-09-04T00:18:42.621Z",
+  updatedAt: "2026-09-25T17:55:38.000Z",
 } as const satisfies Module

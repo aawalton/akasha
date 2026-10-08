@@ -61,4 +61,6 @@ export const attributeLevel = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-21T15:58:02.772Z",
+  updatedAt: "2026-09-21T15:58:55.000Z",
 } as const satisfies Module

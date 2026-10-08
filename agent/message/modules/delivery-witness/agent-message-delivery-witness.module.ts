@@ -52,4 +52,6 @@ export const agentMessageDeliveryWitness = {
       statement: "A transcript that cannot be read is passed over rather than counted as silence.",
     },
   ],
+  createdAt: "2026-09-03T17:59:25.035Z",
+  updatedAt: "2026-09-27T01:16:02.000Z",
 } as const satisfies Module

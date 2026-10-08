@@ -12,4 +12,6 @@ export const seatHandle = {
       statement: "A handle reaching no seat, or more than one, is refused as a fault of the call.",
     },
   ],
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-25T17:57:44.000Z",
 } as const satisfies Module

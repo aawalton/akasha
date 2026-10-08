@@ -24,4 +24,6 @@ export const oauthRefreshToken = {
       statement: "The app's own id and secret are answered beside the token as one credential set.",
     },
   ],
+  createdAt: "2026-09-10T19:40:13.893Z",
+  updatedAt: "2026-09-22T13:45:29.000Z",
 } as const satisfies Module

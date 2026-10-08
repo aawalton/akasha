@@ -29,4 +29,6 @@ export const claudeLaunchArgs = {
       statement: "A child is started with no model to fall back to.",
     },
   ],
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-25T17:50:50.000Z",
 } as const satisfies Module

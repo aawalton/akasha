@@ -43,4 +43,6 @@ export const monarchTransactionCreate = {
       statement: "The balance is updated unless the caller says otherwise.",
     },
   ],
+  createdAt: "2026-09-03T17:51:45.347Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

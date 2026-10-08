@@ -6,4 +6,6 @@ export const atlasAppId = {
   slug: "atlas-app-id",
   definition: "Atlas's web app page id and the app page a nav item names",
   code: "ts",
+  createdAt: "2026-09-03T04:24:01.071Z",
+  updatedAt: "2026-09-27T12:15:47.000Z",
 } as const satisfies Module

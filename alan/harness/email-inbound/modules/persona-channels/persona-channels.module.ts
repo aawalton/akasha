@@ -17,4 +17,6 @@ export const personaChannels = {
       statement: "An address is lowercased before anything matches a header against it.",
     },
   ],
+  createdAt: "2026-09-14T13:41:06.405Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

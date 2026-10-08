@@ -107,4 +107,6 @@ export const freshCredential = {
         "The expiry judgement here is the one `oauth-effects` weighs a chosen credential by.",
     },
   ],
+  createdAt: "2026-09-02T22:57:29.173Z",
+  updatedAt: "2026-09-25T17:55:53.000Z",
 } as const satisfies Module

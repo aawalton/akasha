@@ -107,5 +107,6 @@ export const seatStating = {
       statement: "Nothing here lands a commit.",
     },
   ],
-  updatedAt: "2026-10-08T15:48:13.864Z",
+  updatedAt: "2026-10-08T16:01:33.455Z",
+  createdAt: "2026-09-01T16:17:55.990Z",
 } as const satisfies Module

@@ -46,4 +46,6 @@ export const recipientResolverRunning = {
       statement: "A stop ends the loop at its next boundary.",
     },
   ],
+  createdAt: "2026-09-03T17:56:43.735Z",
+  updatedAt: "2026-09-25T17:56:35.000Z",
 } as const satisfies Module

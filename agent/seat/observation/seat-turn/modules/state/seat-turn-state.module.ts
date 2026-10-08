@@ -16,4 +16,6 @@ export const seatTurnState = {
       statement: "What the records say of a seat's turn is read by the seat turn reading.",
     },
   ],
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-25T17:52:15.000Z",
 } as const satisfies Module

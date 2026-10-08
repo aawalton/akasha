@@ -6,4 +6,6 @@ export const placeCandidate = {
   slug: "place-candidate",
   definition: "a searched place's shape as it is offered and added",
   code: "ts",
+  createdAt: "2026-09-03T04:24:01.072Z",
+  updatedAt: "2026-09-22T13:43:28.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const inboundMessage = {
   slug: "inbound-message",
   definition: "the shape an arriving email takes",
   code: "ts",
+  createdAt: "2026-09-01T07:09:26.370Z",
+  updatedAt: "2026-09-22T13:58:57.000Z",
 } as const satisfies Module

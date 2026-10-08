@@ -12,4 +12,6 @@ export const skillTokenGuard = {
       statement: "A refusal names this module by its slug rather than by its path.",
     },
   ],
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-24T15:40:45.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const requestLog = {
   slug: "request-log",
   definition: "the line a request and its answer are logged as",
   code: "ts",
+  createdAt: "2026-09-03T04:24:01.072Z",
+  updatedAt: "2026-09-15T16:42:58.000Z",
 } as const satisfies Module

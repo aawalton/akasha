@@ -42,4 +42,6 @@ export const monarchNotesWrite = {
       statement: "Blank space is no note.",
     },
   ],
+  createdAt: "2026-09-03T17:49:17.708Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

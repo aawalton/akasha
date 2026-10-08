@@ -195,4 +195,6 @@ export const transportLog = {
       statement: "A shutdown flush stamps every row that flush ends with the one millisecond.",
     },
   ],
+  createdAt: "2026-09-02T15:31:05.524Z",
+  updatedAt: "2026-09-25T18:23:31.000Z",
 } as const satisfies Module

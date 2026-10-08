@@ -35,4 +35,6 @@ export const seatUsage = {
       statement: "A model id no model version states is not kept.",
     },
   ],
+  createdAt: "2026-09-03T18:15:02.038Z",
+  updatedAt: "2026-09-24T18:44:07.000Z",
 } as const satisfies Module

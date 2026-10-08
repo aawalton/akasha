@@ -53,4 +53,6 @@ export const bindWithRetry = {
       statement: "Nothing here knows how a bind is done.",
     },
   ],
+  createdAt: "2026-09-02T12:52:57.643Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

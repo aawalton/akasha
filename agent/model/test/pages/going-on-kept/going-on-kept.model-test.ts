@@ -50,4 +50,6 @@ export const goingOnKept = {
       statement: "Nothing here judges a rule other than the one this test's code names.",
     },
   ],
+  createdAt: "2026-09-13T19:00:09.831Z",
+  updatedAt: "2026-09-25T17:58:09.000Z",
 } as const satisfies ModelTest

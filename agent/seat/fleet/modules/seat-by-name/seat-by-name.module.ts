@@ -7,4 +7,6 @@ export const seatByName = {
   definition:
     "how code finds the id of a seat from its name and whether a process runs in the seat",
   code: "ts",
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-25T17:55:13.000Z",
 } as const satisfies Module

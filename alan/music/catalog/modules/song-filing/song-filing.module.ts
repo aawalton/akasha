@@ -48,4 +48,6 @@ export const songFiling = {
       statement: "The key a song names its artist under is read from the song page type.",
     },
   ],
+  createdAt: "2026-09-19T18:33:13.000Z",
+  updatedAt: "2026-09-19T18:33:13.000Z",
 } as const satisfies Module

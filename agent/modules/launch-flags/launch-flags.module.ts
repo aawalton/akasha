@@ -16,4 +16,6 @@ export const launchFlags = {
       statement: "The settings body is the file beside that page rather than a second path.",
     },
   ],
+  createdAt: "2026-09-03T22:30:12.120Z",
+  updatedAt: "2026-09-25T17:55:07.000Z",
 } as const satisfies Module

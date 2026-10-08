@@ -153,4 +153,6 @@ export const seatForestReading = {
       statement: "Nothing is written but the scan cursor a seat's turn record keeps.",
     },
   ],
+  createdAt: "2026-09-12T10:22:19.005Z",
+  updatedAt: "2026-09-27T13:11:55.000Z",
 } as const satisfies Module

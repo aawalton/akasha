@@ -6,4 +6,6 @@ export const esoWallpaperCrop = {
   slug: "eso-wallpaper-crop",
   definition: "the best source per wallpaper picked and rendered to the ultrawide desktop size",
   code: "ts",
+  createdAt: "2026-09-03T17:51:28.767Z",
+  updatedAt: "2026-09-15T16:42:58.000Z",
 } as const satisfies Module

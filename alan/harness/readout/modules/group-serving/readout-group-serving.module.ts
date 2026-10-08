@@ -360,4 +360,6 @@ export const readoutGroupServing = {
       statement: "A stoplight with no figure says no reading was taken.",
     },
   ],
+  createdAt: "2026-09-01T23:16:33.653Z",
+  updatedAt: "2026-09-25T16:52:49.000Z",
 } as const satisfies Module

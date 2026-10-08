@@ -129,4 +129,6 @@ export const serverError = {
       statement: "A `Retry-After` holding an HTTP date already passed reads the schedule instead.",
     },
   ],
+  createdAt: "2026-09-02T14:35:47.319Z",
+  updatedAt: "2026-09-25T18:02:22.000Z",
 } as const satisfies Module

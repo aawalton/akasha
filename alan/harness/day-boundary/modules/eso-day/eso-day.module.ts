@@ -39,4 +39,6 @@ export const esoDay = {
       statement: "A day is refused unless it is a real date written YYYY-MM-DD.",
     },
   ],
+  createdAt: "2026-09-01T10:15:10.566Z",
+  updatedAt: "2026-09-24T18:43:56.000Z",
 } as const satisfies Module

@@ -208,4 +208,6 @@ export const oauthEffects = {
       statement: "A credential read here has the token that reader answered with.",
     },
   ],
+  createdAt: "2026-09-02T19:54:29.346Z",
+  updatedAt: "2026-09-25T17:54:58.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const readingShapes = {
       statement: "No rung is written out here.",
     },
   ],
+  createdAt: "2026-09-03T04:15:56.583Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Module

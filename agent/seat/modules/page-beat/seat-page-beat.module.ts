@@ -52,4 +52,6 @@ export const seatPageBeat = {
         "A page that will not state its parent is written again under the parent history gives.",
     },
   ],
+  createdAt: "2026-09-03T21:25:59.696Z",
+  updatedAt: "2026-09-25T17:57:54.000Z",
 } as const satisfies Module

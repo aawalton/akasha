@@ -21,4 +21,6 @@ export const spawnSeat = {
       statement: "Every reason the page was not written is carried into the one refusal.",
     },
   ],
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-25T17:54:52.000Z",
 } as const satisfies Module

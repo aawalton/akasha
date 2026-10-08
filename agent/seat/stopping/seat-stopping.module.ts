@@ -118,4 +118,6 @@ export const seatStopping = {
       statement: "Nothing here reads a seat by anything but its name.",
     },
   ],
+  createdAt: "2026-09-01T12:47:22.267Z",
+  updatedAt: "2026-09-19T00:42:08.000Z",
 } as const satisfies Module

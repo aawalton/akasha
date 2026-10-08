@@ -29,4 +29,6 @@ export const seatSessionRename = {
       statement: "A rename that leaves the seat where that seat was says nothing.",
     },
   ],
+  createdAt: "2026-09-03T18:18:24.461Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

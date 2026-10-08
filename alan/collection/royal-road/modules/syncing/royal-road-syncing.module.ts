@@ -149,4 +149,6 @@ export const royalRoadSyncing = {
         "A story left unrestated for want of a world fails the run as a failed chapter does.",
     },
   ],
+  createdAt: "2026-09-03T17:56:43.735Z",
+  updatedAt: "2026-09-28T19:48:45.000Z",
 } as const satisfies Module

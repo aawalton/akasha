@@ -38,4 +38,6 @@ export const monarchProvenance = {
       statement: "This module composes the record a writer writes.",
     },
   ],
+  createdAt: "2026-09-03T17:44:31.705Z",
+  updatedAt: "2026-09-24T18:56:52.000Z",
 } as const satisfies Module

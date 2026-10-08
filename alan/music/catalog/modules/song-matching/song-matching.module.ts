@@ -83,4 +83,6 @@ export const songMatching = {
         "A song is under the artist that song names and under every artist that song is part of.",
     },
   ],
+  createdAt: "2026-09-19T00:17:14.972Z",
+  updatedAt: "2026-09-24T20:30:18.000Z",
 } as const satisfies Module

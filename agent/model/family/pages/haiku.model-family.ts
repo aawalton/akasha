@@ -6,4 +6,6 @@ export const haiku = {
   slug: "haiku",
   definition: "least expensive, least capable",
   name: "claude-haiku-4-5-20251001",
+  createdAt: "2026-08-30T15:49:55.535Z",
+  updatedAt: "2026-09-15T17:27:52.000Z",
 } as const satisfies ModelFamily

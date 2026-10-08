@@ -58,4 +58,6 @@ export const catalogueHeld = {
         "A song filed under another artist takes this artist as a collection it is part of.",
     },
   ],
+  createdAt: "2026-09-13T18:28:18.825Z",
+  updatedAt: "2026-09-19T18:01:30.000Z",
 } as const satisfies Module

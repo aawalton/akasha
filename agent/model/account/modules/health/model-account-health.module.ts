@@ -88,4 +88,6 @@ export const modelAccountHealth = {
       statement: "Nothing here says anything to a log.",
     },
   ],
+  createdAt: "2026-09-03T17:55:27.342Z",
+  updatedAt: "2026-09-25T18:03:21.000Z",
 } as const satisfies Module

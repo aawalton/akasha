@@ -20,4 +20,6 @@ export const oauthClient = {
       statement: "The refresh token is set on the client before the client is handed back.",
     },
   ],
+  createdAt: "2026-09-04T15:43:35.221Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

@@ -34,4 +34,6 @@ export const stateWriting = {
       statement: "Nothing here draws a picture, and no landing reaches this.",
     },
   ],
+  createdAt: "2026-09-13T21:19:35.401Z",
+  updatedAt: "2026-09-15T19:37:34.000Z",
 } as const satisfies Module

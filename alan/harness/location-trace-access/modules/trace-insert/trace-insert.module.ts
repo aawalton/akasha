@@ -79,4 +79,6 @@ export const traceInsert = {
       statement: "Nothing here writes the day page the rows sit beside.",
     },
   ],
+  createdAt: "2026-09-01T07:03:20.617Z",
+  updatedAt: "2026-09-24T19:55:05.000Z",
 } as const satisfies Module

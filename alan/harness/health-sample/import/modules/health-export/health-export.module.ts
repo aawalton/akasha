@@ -25,4 +25,6 @@ export const healthExport = {
         "The script narrows the export to the metrics asked for before the export leaves the laptop.",
     },
   ],
+  createdAt: "2026-09-01T08:27:35.065Z",
+  updatedAt: "2026-09-24T23:05:06.000Z",
 } as const satisfies Module

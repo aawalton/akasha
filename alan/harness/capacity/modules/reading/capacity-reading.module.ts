@@ -115,4 +115,6 @@ export const capacityReading = {
       statement: "Nothing here decides when a reading is due.",
     },
   ],
+  createdAt: "2026-09-04T00:03:57.592Z",
+  updatedAt: "2026-09-25T17:30:04.000Z",
 } as const satisfies Module

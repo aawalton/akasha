@@ -6,4 +6,6 @@ export const seatPageWriting = {
   slug: "seat-page-writing",
   definition: "how code writes the page of an agent's seat and how code removes the page",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-25T17:59:09.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const seatWhoami = {
   slug: "seat-whoami",
   definition: "how code finds the name and the attributes of a seat",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-25T17:54:13.000Z",
 } as const satisfies Module

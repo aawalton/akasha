@@ -16,4 +16,6 @@ export const supervisorAgentActionArm = {
       statement: "The child's age is read from its process start rather than counted from arming.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-24T16:56:35.000Z",
 } as const satisfies Module

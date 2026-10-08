@@ -29,4 +29,6 @@ export const initiativeSeatName = {
       statement: "Nothing here says whether that seat is there.",
     },
   ],
+  createdAt: "2026-09-15T15:33:02.342Z",
+  updatedAt: "2026-09-25T17:52:11.000Z",
 } as const satisfies Module

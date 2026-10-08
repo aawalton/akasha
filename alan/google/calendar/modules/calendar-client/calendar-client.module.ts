@@ -12,4 +12,6 @@ export const calendarClient = {
       statement: "The default calendar id is read when the client is made.",
     },
   ],
+  createdAt: "2026-09-01T08:08:01.076Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

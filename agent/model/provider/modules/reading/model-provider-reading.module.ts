@@ -39,4 +39,6 @@ export const modelProviderReading = {
       statement: "Nothing here fetches.",
     },
   ],
+  createdAt: "2026-09-15T13:14:49.995Z",
+  updatedAt: "2026-09-25T18:01:11.000Z",
 } as const satisfies Module

@@ -30,4 +30,6 @@ export const normalize = {
       statement: "A sender is lower-cased before the sender is matched.",
     },
   ],
+  createdAt: "2026-09-01T05:27:15.613Z",
+  updatedAt: "2026-09-24T20:36:40.000Z",
 } as const satisfies Module

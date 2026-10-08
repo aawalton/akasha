@@ -20,4 +20,6 @@ export const gmailAttachments = {
       statement: "A part naming no type is treated as a stream of bytes.",
     },
   ],
+  createdAt: "2026-09-01T08:20:30.640Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

@@ -73,4 +73,6 @@ export const gatewaySeat = {
       statement: "Nothing here reaches `pid-signal` for the liveness test.",
     },
   ],
+  createdAt: "2026-09-02T22:27:14.884Z",
+  updatedAt: "2026-09-25T17:53:02.000Z",
 } as const satisfies Module

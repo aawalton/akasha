@@ -6,4 +6,6 @@ export const supervisorReexec = {
   slug: "supervisor-reexec",
   definition: "re-execing the supervisor in place, handing the running claude over",
   code: "ts",
+  createdAt: "2026-09-03T18:10:02.842Z",
+  updatedAt: "2026-09-24T15:10:45.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const chessUci = {
   slug: "chess-uci",
   definition: "the lines a chess engine speaks, turned into values",
   code: "ts",
+  createdAt: "2026-09-01T07:31:59.367Z",
+  updatedAt: "2026-09-22T13:22:14.000Z",
 } as const satisfies Module

@@ -149,4 +149,6 @@ export const modelAccountUpkeep = {
         "The wait between accounts is the same whether the account was read or passed over.",
     },
   ],
+  createdAt: "2026-09-03T18:00:13.112Z",
+  updatedAt: "2026-09-25T17:55:40.000Z",
 } as const satisfies Module

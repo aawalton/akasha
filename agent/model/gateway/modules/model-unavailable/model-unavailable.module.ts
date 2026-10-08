@@ -44,4 +44,6 @@ export const modelUnavailable = {
       statement: "Nothing here sees a response beyond the status and the body.",
     },
   ],
+  createdAt: "2026-09-02T14:35:47.319Z",
+  updatedAt: "2026-09-25T17:54:20.000Z",
 } as const satisfies Module

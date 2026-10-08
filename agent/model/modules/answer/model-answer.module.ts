@@ -34,4 +34,6 @@ export const modelAnswer = {
       statement: "Nothing here says what a yes means to the caller.",
     },
   ],
+  createdAt: "2026-09-11T14:38:46.767Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

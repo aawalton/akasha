@@ -6,4 +6,6 @@ export const agentNameBind = {
   slug: "agent-name-bind",
   definition: "the name a seat wants and the seat that has the name",
   code: "ts",
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-25T18:02:20.000Z",
 } as const satisfies Module

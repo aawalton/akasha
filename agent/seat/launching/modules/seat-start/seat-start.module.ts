@@ -67,4 +67,6 @@ export const seatStart = {
         "A headless start answers the pid that start launched and an interactive start answers no pid.",
     },
   ],
+  createdAt: "2026-09-04T00:21:47.520Z",
+  updatedAt: "2026-09-30T06:38:04.000Z",
 } as const satisfies Module

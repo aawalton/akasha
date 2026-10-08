@@ -75,4 +75,6 @@ export const monarchReading = {
       statement: "Nothing here decides when a reading is due.",
     },
   ],
+  createdAt: "2026-08-31T13:20:47.204Z",
+  updatedAt: "2026-09-25T17:30:41.000Z",
 } as const satisfies Module

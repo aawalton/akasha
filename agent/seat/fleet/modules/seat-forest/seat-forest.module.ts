@@ -20,4 +20,6 @@ export const seatForest = {
       statement: "A row's role is the role's bare slug, and its assignment keeps the page type.",
     },
   ],
+  createdAt: "2026-09-04T00:07:17.701Z",
+  updatedAt: "2026-09-27T13:11:55.000Z",
 } as const satisfies Module

@@ -29,4 +29,6 @@ export const telnyxInbound = {
       statement: "A sender is required where every other field of the payload is optional.",
     },
   ],
+  createdAt: "2026-09-01T05:27:15.613Z",
+  updatedAt: "2026-09-24T20:36:40.000Z",
 } as const satisfies Module

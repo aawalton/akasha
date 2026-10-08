@@ -32,4 +32,6 @@ export const calendarEventSchema = {
       statement: "A field Google sends that is not asked for is kept rather than dropped.",
     },
   ],
+  createdAt: "2026-09-01T08:08:01.077Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

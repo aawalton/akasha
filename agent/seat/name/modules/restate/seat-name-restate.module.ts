@@ -6,4 +6,6 @@ export const seatNameRestate = {
   slug: "seat-name-restate",
   definition: "how code changes a seat's name",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-25T17:51:07.000Z",
 } as const satisfies Module

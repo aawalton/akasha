@@ -32,4 +32,6 @@ export const seatEntryPaths = {
       statement: "Nothing here reaches a Bun global.",
     },
   ],
+  createdAt: "2026-09-10T13:35:31.592Z",
+  updatedAt: "2026-09-25T18:02:24.000Z",
 } as const satisfies Module

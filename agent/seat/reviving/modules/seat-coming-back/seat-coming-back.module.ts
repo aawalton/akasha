@@ -85,4 +85,6 @@ export const seatComingBack = {
       statement: "A name nothing brings back is refused as the resolver refused that name.",
     },
   ],
+  createdAt: "2026-09-15T12:19:32.358Z",
+  updatedAt: "2026-09-22T16:19:35.000Z",
 } as const satisfies Module

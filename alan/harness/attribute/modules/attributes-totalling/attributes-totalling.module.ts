@@ -102,4 +102,6 @@ export const attributesTotalling = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-06T21:22:18.715Z",
+  updatedAt: "2026-09-25T17:33:30.000Z",
 } as const satisfies Module

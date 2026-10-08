@@ -6,4 +6,6 @@ export const chessPosition = {
   slug: "chess-position",
   definition: "a chess position, what an engine scores it and what it allows",
   code: "ts",
+  createdAt: "2026-09-01T07:31:59.367Z",
+  updatedAt: "2026-09-22T00:50:00.000Z",
 } as const satisfies Module

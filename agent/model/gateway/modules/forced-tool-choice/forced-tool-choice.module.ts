@@ -121,4 +121,6 @@ export const forcedToolChoice = {
       statement: "The line saying a rewrite happened goes to the console rather than to a seam.",
     },
   ],
+  createdAt: "2026-09-02T22:27:14.882Z",
+  updatedAt: "2026-09-25T14:00:55.000Z",
 } as const satisfies Module

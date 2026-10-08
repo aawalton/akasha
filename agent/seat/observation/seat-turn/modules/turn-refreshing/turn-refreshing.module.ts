@@ -37,4 +37,6 @@ export const turnRefreshing = {
       statement: "A look or a turn read taking a second or more is logged with how long it took.",
     },
   ],
+  createdAt: "2026-09-24T18:47:40.613Z",
+  updatedAt: "2026-09-27T06:21:13.000Z",
 } as const satisfies Module

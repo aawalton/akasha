@@ -41,4 +41,6 @@ export const trackTyping = {
       statement: "A deluxe release carrying both studio and live takes is why.",
     },
   ],
+  createdAt: "2026-09-19T18:20:54.000Z",
+  updatedAt: "2026-09-19T18:20:54.000Z",
 } as const satisfies Module

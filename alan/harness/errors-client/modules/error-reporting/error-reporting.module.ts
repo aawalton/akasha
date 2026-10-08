@@ -21,4 +21,6 @@ export const errorReporting = {
       statement: "The release a report names is the one its caller hands in.",
     },
   ],
+  createdAt: "2026-09-01T10:35:02.068Z",
+  updatedAt: "2026-09-28T14:31:14.000Z",
 } as const satisfies Module

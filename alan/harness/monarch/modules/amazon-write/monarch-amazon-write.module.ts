@@ -47,4 +47,6 @@ export const monarchAmazonWrite = {
         "Amazon rows are read from the first of January two thousand and twenty-five onward.",
     },
   ],
+  createdAt: "2026-09-03T17:51:52.049Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

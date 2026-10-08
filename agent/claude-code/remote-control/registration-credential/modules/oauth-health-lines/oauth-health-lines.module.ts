@@ -21,4 +21,6 @@ export const oauthHealthLines = {
       statement: "Nothing here writes to disk.",
     },
   ],
+  createdAt: "2026-09-04T00:10:59.266Z",
+  updatedAt: "2026-09-25T17:53:17.000Z",
 } as const satisfies Module

@@ -76,4 +76,6 @@ export const seatReading = {
       statement: "Nothing here reads the seat pages of the old system.",
     },
   ],
+  createdAt: "2026-08-31T14:53:56.970Z",
+  updatedAt: "2026-09-25T17:59:40.000Z",
 } as const satisfies Module

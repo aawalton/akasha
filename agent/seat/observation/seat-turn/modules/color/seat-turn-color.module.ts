@@ -21,4 +21,6 @@ export const seatTurnColor = {
       statement: "The color reads back as the slug alone, whatever page type names it.",
     },
   ],
+  createdAt: "2026-09-03T22:30:12.120Z",
+  updatedAt: "2026-09-25T17:58:51.000Z",
 } as const satisfies Module

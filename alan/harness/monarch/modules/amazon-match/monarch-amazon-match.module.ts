@@ -65,4 +65,6 @@ export const monarchAmazonMatch = {
       statement: "Nothing here writes to Monarch or to a file.",
     },
   ],
+  createdAt: "2026-09-03T17:51:45.346Z",
+  updatedAt: "2026-09-22T13:54:48.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const pageListingLoader = {
       statement: "A slug reaching no page type is answered 404.",
     },
   ],
+  createdAt: "2026-09-11T01:45:49.948Z",
+  updatedAt: "2026-09-20T23:54:07.000Z",
 } as const satisfies Module

@@ -38,4 +38,6 @@ export const seatAkashaRead = {
         "A seat's activity is the moment the values observed of the seat were last written.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:56:05.000Z",
 } as const satisfies Module

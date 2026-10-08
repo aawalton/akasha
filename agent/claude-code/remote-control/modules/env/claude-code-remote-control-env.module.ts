@@ -12,4 +12,6 @@ export const claudeCodeRemoteControlEnv = {
       statement: "A spawn that omits remote control says it omitted remote control.",
     },
   ],
+  createdAt: "2026-09-03T18:10:02.842Z",
+  updatedAt: "2026-09-25T17:51:47.000Z",
 } as const satisfies Module

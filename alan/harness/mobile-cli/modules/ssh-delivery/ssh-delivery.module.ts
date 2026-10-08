@@ -33,4 +33,6 @@ export const sshDelivery = {
       statement: "The same options are spelled once as argv and once joined into an -e string.",
     },
   ],
+  createdAt: "2026-09-01T12:25:55.296Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

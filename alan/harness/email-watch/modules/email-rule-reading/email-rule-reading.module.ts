@@ -51,4 +51,6 @@ export const emailRuleReading = {
       statement: "Each kind is read in the order of its page file names.",
     },
   ],
+  createdAt: "2026-09-03T18:04:12.901Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

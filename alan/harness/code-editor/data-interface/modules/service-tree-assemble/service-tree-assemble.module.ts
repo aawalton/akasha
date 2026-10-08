@@ -83,4 +83,6 @@ export const serviceTreeAssemble = {
       statement: "Nothing here draws a row.",
     },
   ],
+  createdAt: "2026-09-13T16:53:45.764Z",
+  updatedAt: "2026-09-25T16:45:06.000Z",
 } as const satisfies Module

@@ -7,4 +7,6 @@ export const turnEndErrorDeath = {
   definition: "the server errors closing a transcript, which say a turn died rather than ended",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-04T00:09:43.897Z",
+  updatedAt: "2026-09-30T12:36:34.000Z",
 } as const satisfies Module

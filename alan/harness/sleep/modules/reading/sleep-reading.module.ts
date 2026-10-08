@@ -77,4 +77,6 @@ export const sleepReading = {
       statement: "Nothing here decides when a reading is due.",
     },
   ],
+  createdAt: "2026-09-03T23:56:10.458Z",
+  updatedAt: "2026-09-25T17:30:04.000Z",
 } as const satisfies Module

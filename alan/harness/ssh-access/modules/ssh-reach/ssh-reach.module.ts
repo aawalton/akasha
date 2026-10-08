@@ -29,4 +29,6 @@ export const sshReach = {
       statement: "A reader letting go before the output ends kills the command.",
     },
   ],
+  createdAt: "2026-09-01T08:56:23.043Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

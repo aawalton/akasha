@@ -74,4 +74,6 @@ export const checkoutShellReach = {
       statement: "A program reading a path its own code names is not seen.",
     },
   ],
+  createdAt: "2026-09-25T16:24:46.115Z",
+  updatedAt: "2026-09-25T17:53:43.000Z",
 } as const satisfies Module

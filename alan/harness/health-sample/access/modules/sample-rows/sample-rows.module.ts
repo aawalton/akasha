@@ -28,4 +28,6 @@ export const sampleRows = {
       statement: "A row beside an akasha page spells its keys in camel.",
     },
   ],
+  createdAt: "2026-09-01T07:03:20.617Z",
+  updatedAt: "2026-09-24T23:05:06.000Z",
 } as const satisfies Module

@@ -37,4 +37,6 @@ export const stateCooldown = {
       statement: "Nothing here reads a clock or opens a file.",
     },
   ],
+  createdAt: "2026-09-05T16:15:26.092Z",
+  updatedAt: "2026-09-26T16:55:17.000Z",
 } as const satisfies Module

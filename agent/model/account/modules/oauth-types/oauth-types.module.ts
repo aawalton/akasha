@@ -50,4 +50,6 @@ export const oauthTypes = {
         "A five-hour reset is an ISO string on AccountState and milliseconds on CredentialPick.",
     },
   ],
+  createdAt: "2026-09-02T14:35:47.319Z",
+  updatedAt: "2026-09-25T17:52:30.000Z",
 } as const satisfies Module

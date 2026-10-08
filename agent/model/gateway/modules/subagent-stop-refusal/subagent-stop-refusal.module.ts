@@ -81,4 +81,6 @@ export const subagentStopRefusal = {
       statement: "Nothing here reads a clock.",
     },
   ],
+  createdAt: "2026-09-13T20:09:41.167Z",
+  updatedAt: "2026-09-25T17:52:03.000Z",
 } as const satisfies Module

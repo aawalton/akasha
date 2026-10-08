@@ -34,4 +34,6 @@ export const inboxPass = {
       statement: "Nothing here says the action a rule takes on a message.",
     },
   ],
+  createdAt: "2026-09-03T21:59:31.782Z",
+  updatedAt: "2026-09-22T14:07:21.000Z",
 } as const satisfies Module

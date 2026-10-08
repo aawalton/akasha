@@ -17,4 +17,6 @@ export const atlasAppShell = {
       statement: "The name over the navigation is the title of Atlas's web app page.",
     },
   ],
+  createdAt: "2026-09-03T04:24:01.072Z",
+  updatedAt: "2026-09-27T11:44:33.000Z",
 } as const satisfies Module

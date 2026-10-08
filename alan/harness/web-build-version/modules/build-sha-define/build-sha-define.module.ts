@@ -16,4 +16,6 @@ export const buildShaDefine = {
       statement: "A checkout that cannot be asked yields an empty string rather than throwing.",
     },
   ],
+  createdAt: "2026-09-01T09:24:34.667Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

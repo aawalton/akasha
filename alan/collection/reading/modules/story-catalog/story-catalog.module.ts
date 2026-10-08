@@ -6,4 +6,6 @@ export const storyCatalog = {
   slug: "story-catalog",
   definition: "a story and its chapters taken from the pages with them",
   code: "ts",
+  createdAt: "2026-09-03T04:15:56.585Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies Module

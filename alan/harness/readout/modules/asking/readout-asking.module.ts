@@ -29,4 +29,6 @@ export const readoutAsking = {
       statement: "Nothing here names a page type.",
     },
   ],
+  createdAt: "2026-09-02T10:53:47.340Z",
+  updatedAt: "2026-09-22T13:57:00.000Z",
 } as const satisfies Module

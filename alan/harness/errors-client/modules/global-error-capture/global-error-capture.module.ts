@@ -12,4 +12,6 @@ export const globalErrorCapture = {
       statement: "The handlers are installed once however often this module is called.",
     },
   ],
+  createdAt: "2026-09-01T10:35:02.068Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

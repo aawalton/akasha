@@ -53,4 +53,6 @@ export const composeSeatName = {
         "A name that is no person's slug moves with the attributes that name was composed from.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-27T14:31:22.000Z",
 } as const satisfies Module

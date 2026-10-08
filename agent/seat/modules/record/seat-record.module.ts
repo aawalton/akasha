@@ -36,4 +36,6 @@ export const seatRecord = {
       statement: "A backfill writes only where the key has nothing yet.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:59:55.000Z",
 } as const satisfies Module

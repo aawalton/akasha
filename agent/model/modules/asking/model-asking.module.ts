@@ -86,4 +86,6 @@ export const modelAsking = {
       statement: "Nothing here judges a model's answer.",
     },
   ],
+  createdAt: "2026-08-31T23:59:59.195Z",
+  updatedAt: "2026-09-25T17:56:42.000Z",
 } as const satisfies Module

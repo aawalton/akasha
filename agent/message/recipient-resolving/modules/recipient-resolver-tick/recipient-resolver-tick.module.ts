@@ -43,4 +43,6 @@ export const recipientResolverTick = {
       statement: "An aborted signal ends the run at the next spec boundary.",
     },
   ],
+  createdAt: "2026-09-03T04:18:48.798Z",
+  updatedAt: "2026-09-28T16:42:01.000Z",
 } as const satisfies Module

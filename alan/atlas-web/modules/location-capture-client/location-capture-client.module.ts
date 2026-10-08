@@ -42,4 +42,6 @@ export const locationCaptureClient = {
       statement: "The phone keeps the notice capture started with until capture starts again.",
     },
   ],
+  createdAt: "2026-09-03T04:24:01.072Z",
+  updatedAt: "2026-09-27T12:30:19.000Z",
 } as const satisfies Module

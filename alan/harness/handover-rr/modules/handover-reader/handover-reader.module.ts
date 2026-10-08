@@ -20,4 +20,6 @@ export const handoverReader = {
       statement: "No header is written back, so reading the cookie changes no session.",
     },
   ],
+  createdAt: "2026-09-20T03:06:50.197Z",
+  updatedAt: "2026-09-20T03:07:17.000Z",
 } as const satisfies Module

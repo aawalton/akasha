@@ -6,4 +6,6 @@ export const sessionJsonlPreparing = {
   slug: "session-jsonl-preparing",
   definition: "how code changes a Claude Code session's file for a new Claude Code process",
   code: "ts",
+  createdAt: "2026-09-25T18:19:52.197Z",
+  updatedAt: "2026-09-25T18:20:21.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const supervisorWaitResumeDecide = {
       statement: "The wait doubles with each death past the second and stops at the maximum wait.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-24T17:13:10.000Z",
 } as const satisfies Module

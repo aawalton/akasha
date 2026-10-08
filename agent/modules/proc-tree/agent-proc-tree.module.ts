@@ -29,4 +29,6 @@ export const agentProcTree = {
       statement: "The invocation a caller runs inside reaches up to the nearest agent process.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-25T17:57:09.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const answerPageTypes = {
       statement: "A browser reads no page type this leaves out, so leaving one out serves nothing.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.840Z",
+  updatedAt: "2026-09-21T19:34:49.000Z",
 } as const satisfies Module

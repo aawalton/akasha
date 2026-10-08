@@ -41,4 +41,6 @@ export const createCourse = {
       statement: "A write the store refused is counted as one course failed rather than thrown.",
     },
   ],
+  createdAt: "2026-09-03T04:14:46.233Z",
+  updatedAt: "2026-09-25T15:45:00.000Z",
 } as const satisfies Module

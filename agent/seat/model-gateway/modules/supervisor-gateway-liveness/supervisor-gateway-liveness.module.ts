@@ -6,4 +6,6 @@ export const supervisorGatewayLiveness = {
   slug: "supervisor-gateway-liveness",
   definition: "how a supervisor watches the health of the model gateway",
   code: "ts",
+  createdAt: "2026-09-03T18:15:53.131Z",
+  updatedAt: "2026-09-25T18:00:42.000Z",
 } as const satisfies Module

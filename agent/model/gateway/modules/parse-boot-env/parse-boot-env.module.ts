@@ -65,4 +65,6 @@ export const parseBootEnv = {
       statement: "A blank required key refuses boot as an absent one does.",
     },
   ],
+  createdAt: "2026-09-02T14:36:57.980Z",
+  updatedAt: "2026-09-25T17:55:59.000Z",
 } as const satisfies Module

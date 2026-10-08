@@ -34,4 +34,6 @@ export const paneCapping = {
       statement: "A pane gone before its scope is read is reported rather than waited for.",
     },
   ],
+  createdAt: "2026-09-27T13:44:58.619Z",
+  updatedAt: "2026-09-27T13:45:08.000Z",
 } as const satisfies Module

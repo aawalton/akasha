@@ -16,4 +16,6 @@ export const toolAccess = {
       statement: "The settings body is the file beside that page rather than a second path.",
     },
   ],
+  createdAt: "2026-09-03T22:30:12.120Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

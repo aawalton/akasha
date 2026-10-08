@@ -133,4 +133,6 @@ export const modelAccountUpkeepStall = {
         "A page with nothing beside that page has never been reached rather than reading as unread.",
     },
   ],
+  createdAt: "2026-09-03T17:56:40.066Z",
+  updatedAt: "2026-09-25T17:56:27.000Z",
 } as const satisfies Module

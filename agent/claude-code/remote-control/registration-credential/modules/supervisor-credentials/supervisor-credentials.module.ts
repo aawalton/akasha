@@ -25,4 +25,6 @@ export const supervisorCredentials = {
       statement: "A pull that faults is said and the tick ends rather than the timer dying.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-25T17:53:54.000Z",
 } as const satisfies Module

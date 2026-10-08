@@ -25,4 +25,6 @@ export const pathShowing = {
       statement: "Nothing here reaches the filesystem.",
     },
   ],
+  createdAt: "2026-08-29T21:25:45.526Z",
+  updatedAt: "2026-09-25T17:55:24.000Z",
 } as const satisfies Module

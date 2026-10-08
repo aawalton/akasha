@@ -13,4 +13,6 @@ export const seatTurnPending = {
         "A write that threw says why, rather than reading as a write that changed nothing.",
     },
   ],
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-25T17:59:35.000Z",
 } as const satisfies Module

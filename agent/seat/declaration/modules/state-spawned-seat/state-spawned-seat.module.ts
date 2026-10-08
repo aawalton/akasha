@@ -28,4 +28,6 @@ export const stateSpawnedSeat = {
       statement: "A stating's refusal is answered as the refusal's own words.",
     },
   ],
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-25T17:54:34.000Z",
 } as const satisfies Module

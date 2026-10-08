@@ -24,4 +24,6 @@ export const supervisorAdopt = {
       statement: "An adopted child is reaped by waiting on its pid rather than by a spawn handle.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-24T16:36:00.000Z",
 } as const satisfies Module

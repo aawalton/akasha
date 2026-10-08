@@ -64,4 +64,6 @@ export const seatAkashaHistory = {
       statement: "A root's history has moved where the commit that root is on has changed.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:55:18.000Z",
 } as const satisfies Module

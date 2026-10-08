@@ -17,4 +17,6 @@ export const shellPrefixes = {
       statement: "A prefix names how many numbers of its own it takes.",
     },
   ],
+  createdAt: "2026-09-25T22:13:30.678Z",
+  updatedAt: "2026-09-25T22:13:39.000Z",
 } as const satisfies Module

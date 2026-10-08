@@ -24,4 +24,6 @@ export const navIconSvg = {
       statement: "How heavy a stroke a site draws its icons with is passed in.",
     },
   ],
+  createdAt: "2026-09-02T21:38:53.840Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

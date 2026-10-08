@@ -37,4 +37,6 @@ export const agentMessageSupervisorClaimedRedeliveryDecide = {
       statement: "Every message skipped is reported with the reason that message was skipped for.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-25T02:09:05.000Z",
 } as const satisfies Module

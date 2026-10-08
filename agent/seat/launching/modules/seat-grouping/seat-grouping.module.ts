@@ -53,4 +53,6 @@ export const seatGrouping = {
       statement: "Nothing here ends a process or reads what one spent.",
     },
   ],
+  createdAt: "2026-09-12T00:59:27.164Z",
+  updatedAt: "2026-09-27T13:38:37.000Z",
 } as const satisfies Module

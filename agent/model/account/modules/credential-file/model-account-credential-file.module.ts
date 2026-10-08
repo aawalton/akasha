@@ -111,4 +111,6 @@ export const modelAccountCredentialFile = {
       statement: "The writer takes no door.",
     },
   ],
+  createdAt: "2026-09-03T17:59:38.090Z",
+  updatedAt: "2026-09-25T18:00:51.000Z",
 } as const satisfies Module

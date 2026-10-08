@@ -38,4 +38,6 @@ export const chainRefusal = {
       statement: "A hook is handed back the one refusal or no refusal.",
     },
   ],
+  createdAt: "2026-08-29T21:33:22.160Z",
+  updatedAt: "2026-09-25T17:53:27.000Z",
 } as const satisfies Module

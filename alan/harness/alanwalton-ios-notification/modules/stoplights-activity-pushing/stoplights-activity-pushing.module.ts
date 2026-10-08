@@ -61,4 +61,6 @@ export const stoplightsActivityPushing = {
       statement: "Only a running activity has a token, so no token is a phone showing nothing.",
     },
   ],
+  createdAt: "2026-09-19T16:53:06.447Z",
+  updatedAt: "2026-09-25T17:47:06.000Z",
 } as const satisfies Module

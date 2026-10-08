@@ -58,4 +58,6 @@ export const emailZoneReaching = {
       statement: "A call that has not answered within thirty seconds is given up on.",
     },
   ],
+  createdAt: "2026-09-14T18:49:54.812Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

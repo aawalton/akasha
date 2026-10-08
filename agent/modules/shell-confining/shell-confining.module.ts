@@ -68,4 +68,6 @@ export const shellConfining = {
       statement: "Nothing here reads or writes a page.",
     },
   ],
+  createdAt: "2026-09-25T16:22:09.116Z",
+  updatedAt: "2026-09-28T14:08:08.000Z",
 } as const satisfies Module

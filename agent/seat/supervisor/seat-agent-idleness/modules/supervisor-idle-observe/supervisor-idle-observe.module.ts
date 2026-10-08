@@ -46,4 +46,6 @@ export const supervisorIdleObserve = {
       statement: "No page is opened for a seat id.",
     },
   ],
+  createdAt: "2026-09-03T18:04:03.733Z",
+  updatedAt: "2026-09-24T17:03:10.000Z",
 } as const satisfies Module

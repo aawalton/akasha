@@ -44,4 +44,6 @@ export const transactionPolling = {
         "Retirement is judged against the window that was fetched rather than against a single missing id.",
     },
   ],
+  createdAt: "2026-09-03T17:56:43.735Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

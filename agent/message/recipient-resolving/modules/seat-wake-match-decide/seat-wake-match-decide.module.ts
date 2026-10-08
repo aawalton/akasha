@@ -22,4 +22,6 @@ export const seatWakeMatchDecide = {
       statement: "Every decision has the reason that decision was reached for.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-25T17:52:10.000Z",
 } as const satisfies Module

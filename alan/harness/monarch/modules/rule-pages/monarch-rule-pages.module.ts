@@ -45,4 +45,6 @@ export const monarchRulePages = {
       statement: "A flag may be given several times and has every value given.",
     },
   ],
+  createdAt: "2026-09-03T17:51:45.347Z",
+  updatedAt: "2026-09-22T13:46:41.000Z",
 } as const satisfies Module

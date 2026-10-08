@@ -6,4 +6,6 @@ export const chessMoveList = {
   slug: "chess-move-list",
   definition: "the moves of a game listed in order with one of them current",
   code: "tsx",
+  createdAt: "2026-09-01T06:38:44.740Z",
+  updatedAt: "2026-09-15T16:42:58.000Z",
 } as const satisfies Module

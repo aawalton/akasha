@@ -12,4 +12,6 @@ export const laptopHost = {
       statement: "The laptop is reached at its tailnet address rather than by name.",
     },
   ],
+  createdAt: "2026-09-01T08:27:35.065Z",
+  updatedAt: "2026-09-24T23:05:06.000Z",
 } as const satisfies Module

@@ -31,4 +31,6 @@ export const supervisorGatewayAdoptionDecide = {
       statement: "Nothing here starts or stops or reaches a proxy.",
     },
   ],
+  createdAt: "2026-09-03T17:01:58.788Z",
+  updatedAt: "2026-09-25T18:00:04.000Z",
 } as const satisfies Module

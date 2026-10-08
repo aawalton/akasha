@@ -20,4 +20,6 @@ export const recurrenceShape = {
       statement: "An advanced due date names a time only where a time was already held.",
     },
   ],
+  createdAt: "2026-09-01T10:07:04.643Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

@@ -25,4 +25,6 @@ export const seatWork = {
         "A seat whose turn state named no color to read is quieter than every color the ranking names.",
     },
   ],
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-25T17:58:59.000Z",
 } as const satisfies Module

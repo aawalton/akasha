@@ -6,4 +6,6 @@ export const subagentGuard = {
   slug: "subagent-guard",
   definition: "an act refused on a seat whose subagents are still at work",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-15T16:42:58.000Z",
 } as const satisfies Module

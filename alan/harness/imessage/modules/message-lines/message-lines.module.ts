@@ -31,4 +31,6 @@ export const messageLines = {
         "The contact naming this module takes is the shape of the contacts store rather than that module.",
     },
   ],
+  createdAt: "2026-09-03T04:19:42.556Z",
+  updatedAt: "2026-09-22T10:06:45.000Z",
 } as const satisfies Module

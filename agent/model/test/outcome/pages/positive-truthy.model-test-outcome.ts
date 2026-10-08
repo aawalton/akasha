@@ -5,4 +5,6 @@ export const positiveTruthy = {
   type: "page-type/model-test-outcome",
   slug: "positive-truthy",
   definition: "a case the test flagged that is bad in some other way",
+  createdAt: "2026-08-31T18:12:19.898Z",
+  updatedAt: "2026-09-15T17:28:59.000Z",
 } as const satisfies ModelTestOutcome

@@ -41,4 +41,6 @@ export const externalIdentityReading = {
       statement: "Nothing here reads the index or a page's body.",
     },
   ],
+  createdAt: "2026-09-13T18:08:08.425Z",
+  updatedAt: "2026-09-22T14:37:11.000Z",
 } as const satisfies Module

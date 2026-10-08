@@ -6,4 +6,6 @@ export const stopSeat = {
   slug: "stop-seat",
   definition: "a seat stopped: its processes killed, its subagents guarded, its page removed",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-15T16:42:06.000Z",
 } as const satisfies Module

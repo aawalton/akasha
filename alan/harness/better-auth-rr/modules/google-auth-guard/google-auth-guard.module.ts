@@ -29,4 +29,6 @@ export const googleAuthGuard = {
       statement: "A session that will not end hands back no cookie rather than an error.",
     },
   ],
+  createdAt: "2026-09-19T18:43:04.112Z",
+  updatedAt: "2026-09-24T23:07:18.000Z",
 } as const satisfies Module

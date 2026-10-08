@@ -71,4 +71,6 @@ export const supervisorLogPath = {
       statement: "Nothing here makes a folder or opens a file.",
     },
   ],
+  createdAt: "2026-09-03T17:01:58.788Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

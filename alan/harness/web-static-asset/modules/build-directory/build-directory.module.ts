@@ -21,4 +21,6 @@ export const buildDirectory = {
       statement: "A folder named as nothing but blanks is no folder.",
     },
   ],
+  createdAt: "2026-09-10T23:42:19.939Z",
+  updatedAt: "2026-09-22T13:56:56.000Z",
 } as const satisfies Module

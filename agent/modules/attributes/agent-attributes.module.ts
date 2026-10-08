@@ -36,4 +36,6 @@ export const agentAttributes = {
       statement: "An agent whose start mode was never written is taken as headless.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-22T14:30:46.000Z",
 } as const satisfies Module

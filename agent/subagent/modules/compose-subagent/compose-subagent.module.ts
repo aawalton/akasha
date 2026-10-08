@@ -51,4 +51,6 @@ export const composeSubagent = {
       statement: "The pages are read by a relative path within akasha rather than by a specifier.",
     },
   ],
+  createdAt: "2026-09-03T21:44:11.737Z",
+  updatedAt: "2026-09-25T14:15:29.000Z",
 } as const satisfies Module

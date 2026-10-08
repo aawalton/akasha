@@ -6,4 +6,6 @@ export const supervisorSeatSpawnDecisions = {
   slug: "supervisor-seat-spawn-decisions",
   definition: "what a seat's spawn settles: its mode, account and remote control",
   code: "ts",
+  createdAt: "2026-09-03T18:10:02.842Z",
+  updatedAt: "2026-09-24T16:36:00.000Z",
 } as const satisfies Module

@@ -30,4 +30,6 @@ export const gmailMessages = {
       statement: "A relabelling that adds and removes nothing is refused.",
     },
   ],
+  createdAt: "2026-09-01T08:20:30.639Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

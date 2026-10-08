@@ -29,4 +29,6 @@ export const handoverSession = {
       statement: "A cookie issued further ahead than a minute is nobody.",
     },
   ],
+  createdAt: "2026-09-19T20:03:51.501Z",
+  updatedAt: "2026-09-19T20:40:08.000Z",
 } as const satisfies Module

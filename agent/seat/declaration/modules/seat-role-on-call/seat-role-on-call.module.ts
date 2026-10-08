@@ -34,4 +34,6 @@ export const seatRoleOnCall = {
       statement: "Nothing here reads a seat.",
     },
   ],
+  createdAt: "2026-09-06T11:13:09.063Z",
+  updatedAt: "2026-09-25T17:58:12.000Z",
 } as const satisfies Module

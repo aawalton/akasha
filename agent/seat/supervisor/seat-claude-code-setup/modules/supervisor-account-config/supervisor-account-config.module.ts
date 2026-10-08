@@ -25,4 +25,6 @@ export const supervisorAccountConfig = {
       statement: "No account is consulted for whether the long context window may be asked for.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-24T16:11:38.000Z",
 } as const satisfies Module

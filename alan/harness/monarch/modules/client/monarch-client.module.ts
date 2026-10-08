@@ -72,4 +72,6 @@ export const monarchClient = {
       statement: "Nothing here reads or writes a file.",
     },
   ],
+  createdAt: "2026-09-03T17:48:43.469Z",
+  updatedAt: "2026-09-22T13:22:14.000Z",
 } as const satisfies Module

@@ -70,4 +70,6 @@ export const supervisorAgentSettings = {
       statement: "Nothing here writes the document or spawns a seat.",
     },
   ],
+  createdAt: "2026-09-04T00:09:27.530Z",
+  updatedAt: "2026-09-25T16:48:18.000Z",
 } as const satisfies Module

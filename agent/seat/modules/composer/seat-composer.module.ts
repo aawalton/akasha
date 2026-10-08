@@ -52,4 +52,6 @@ export const seatComposer = {
       statement: "A microphone right of the box starts and ends talking to the seat by voice.",
     },
   ],
+  createdAt: "2026-09-24T18:02:40.725Z",
+  updatedAt: "2026-10-08T11:11:39.000Z",
 } as const satisfies Module

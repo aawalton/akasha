@@ -12,4 +12,6 @@ export const imessageHost = {
       statement: "One machine has the message history every read here goes to.",
     },
   ],
+  createdAt: "2026-09-01T07:05:11.688Z",
+  updatedAt: "2026-09-22T13:58:57.000Z",
 } as const satisfies Module

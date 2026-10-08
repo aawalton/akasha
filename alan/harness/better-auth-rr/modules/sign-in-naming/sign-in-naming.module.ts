@@ -18,4 +18,6 @@ export const signInNaming = {
       statement: "What a provider calls a person is hashed as that provider wrote it.",
     },
   ],
+  createdAt: "2026-09-19T18:40:23.154Z",
+  updatedAt: "2026-09-19T19:19:52.000Z",
 } as const satisfies Module

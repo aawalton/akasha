@@ -33,4 +33,6 @@ export const calendarEvents = {
       statement: "A listing is expanded to single events and ordered by start time.",
     },
   ],
+  createdAt: "2026-09-01T08:08:01.077Z",
+  updatedAt: "2026-09-22T13:54:40.000Z",
 } as const satisfies Module

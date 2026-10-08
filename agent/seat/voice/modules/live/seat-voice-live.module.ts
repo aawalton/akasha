@@ -37,4 +37,6 @@ export const seatVoiceLive = {
         "The site's script policy loads no worklet, so the microphone is heard on the page.",
     },
   ],
+  createdAt: "2026-10-08T11:10:56.603Z",
+  updatedAt: "2026-10-08T11:20:24.000Z",
 } as const satisfies Module

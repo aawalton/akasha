@@ -66,4 +66,6 @@ export const pushNotifying = {
       statement: "The process exits as the loop ends, so nothing left in flight holds it up.",
     },
   ],
+  createdAt: "2026-09-03T17:56:43.735Z",
+  updatedAt: "2026-09-24T20:06:02.000Z",
 } as const satisfies Module

@@ -58,4 +58,6 @@ export const seatBeside = {
       statement: "A seat's page path is read for the name that seat is named by.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:56:21.000Z",
 } as const satisfies Module

@@ -82,4 +82,6 @@ export const monarchLandFiles = {
         "`raw` reads a row's nested value, guards that value is an object, then indexes it.",
     },
   ],
+  createdAt: "2026-09-03T17:49:17.708Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

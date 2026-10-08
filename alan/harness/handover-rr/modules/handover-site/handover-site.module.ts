@@ -24,4 +24,6 @@ export const handoverSite = {
       statement: "The minting route lives at one path, and both sides read that path from here.",
     },
   ],
+  createdAt: "2026-09-19T20:03:07.173Z",
+  updatedAt: "2026-09-24T16:36:58.000Z",
 } as const satisfies Module

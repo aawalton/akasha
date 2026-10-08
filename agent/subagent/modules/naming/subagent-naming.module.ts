@@ -24,4 +24,6 @@ export const subagentNaming = {
       statement: "A name without the mark belongs to a seat rather than a subagent.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

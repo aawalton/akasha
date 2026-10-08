@@ -41,4 +41,6 @@ export const monarchAmazonPairs = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-03T17:51:52.049Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies Module

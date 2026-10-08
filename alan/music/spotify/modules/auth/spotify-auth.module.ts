@@ -46,4 +46,6 @@ export const spotifyAuth = {
       statement: "Every POST to the token endpoint is made from here.",
     },
   ],
+  createdAt: "2026-09-02T13:49:35.645Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

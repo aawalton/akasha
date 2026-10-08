@@ -72,4 +72,6 @@ export const commandTreeAssemble = {
       statement: "Every question one call asks is asked of one reading.",
     },
   ],
+  createdAt: "2026-09-07T15:53:38.733Z",
+  updatedAt: "2026-09-22T14:22:32.000Z",
 } as const satisfies Module

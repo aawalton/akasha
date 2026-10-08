@@ -51,4 +51,6 @@ export const monarchRuleDocuments = {
       statement: "A category is read as the slug alone, whatever page type names it.",
     },
   ],
+  createdAt: "2026-09-03T17:51:52.049Z",
+  updatedAt: "2026-09-24T18:54:22.000Z",
 } as const satisfies Module

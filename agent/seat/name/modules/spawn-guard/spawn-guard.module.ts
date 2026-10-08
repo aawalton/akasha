@@ -20,4 +20,6 @@ export const spawnGuard = {
       statement: "That answer cannot say which of the two it met, so it names neither.",
     },
   ],
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-25T17:55:51.000Z",
 } as const satisfies Module

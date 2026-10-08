@@ -67,4 +67,6 @@ export const inboxRun = {
       statement: "Each message is carried with a list of its own, gathered into the run's after.",
     },
   ],
+  createdAt: "2026-09-03T04:46:07.661Z",
+  updatedAt: "2026-09-22T09:59:59.000Z",
 } as const satisfies Module

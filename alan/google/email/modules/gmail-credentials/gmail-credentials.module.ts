@@ -12,4 +12,6 @@ export const gmailCredentials = {
       statement: "The scopes asked for allow writing as well as reading.",
     },
   ],
+  createdAt: "2026-09-01T08:20:30.637Z",
+  updatedAt: "2026-09-22T13:50:37.000Z",
 } as const satisfies Module

@@ -68,4 +68,6 @@ export const seatAkashaBeside = {
       statement: "A value beside a seat naming a page is read as that page's slug alone.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:54:51.000Z",
 } as const satisfies Module

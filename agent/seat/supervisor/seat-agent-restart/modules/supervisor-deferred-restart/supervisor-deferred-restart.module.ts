@@ -28,4 +28,6 @@ export const supervisorDeferredRestart = {
       statement: "The ceiling is counted from when the gate was armed rather than from this tick.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-24T15:55:20.000Z",
 } as const satisfies Module

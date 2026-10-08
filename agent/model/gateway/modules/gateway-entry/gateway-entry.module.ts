@@ -106,4 +106,6 @@ export const gatewayEntry = {
       statement: "The port is printed by a call that need not have drained before the exit.",
     },
   ],
+  createdAt: "2026-09-03T22:49:05.156Z",
+  updatedAt: "2026-09-25T17:54:16.000Z",
 } as const satisfies Module

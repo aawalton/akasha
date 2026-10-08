@@ -161,4 +161,6 @@ export const readoutWatching = {
       statement: "Nothing here follows an index.",
     },
   ],
+  createdAt: "2026-09-10T16:03:36.973Z",
+  updatedAt: "2026-09-21T17:07:49.000Z",
 } as const satisfies Module

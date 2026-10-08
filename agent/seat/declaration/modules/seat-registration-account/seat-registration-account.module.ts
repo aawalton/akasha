@@ -16,4 +16,6 @@ export const seatRegistrationAccount = {
       statement: "A page with no such text gives no account.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T18:02:16.000Z",
 } as const satisfies Module

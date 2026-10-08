@@ -52,4 +52,6 @@ export const subagentPageAsking = {
       statement: "The asking is handed in so a test spawns nothing.",
     },
   ],
+  createdAt: "2026-09-25T04:25:37.593Z",
+  updatedAt: "2026-09-25T14:25:50.000Z",
 } as const satisfies Module

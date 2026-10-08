@@ -43,4 +43,6 @@ export const subagentPageless = {
       statement: "Nothing here writes a page, takes a page away, or reads a transcript itself.",
     },
   ],
+  createdAt: "2026-09-12T10:15:38.556Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

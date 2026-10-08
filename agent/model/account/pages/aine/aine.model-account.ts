@@ -19,4 +19,6 @@ export const aine = {
     "user:profile",
     "user:sessions:claude_code",
   ],
+  createdAt: "2026-07-28T15:08:03.837Z",
+  updatedAt: "2026-09-27T12:54:09.000Z",
 } as const satisfies ModelAccount

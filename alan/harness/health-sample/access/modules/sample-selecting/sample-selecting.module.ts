@@ -51,4 +51,6 @@ export const sampleSelecting = {
       statement: "Nothing here asks the pages system service.",
     },
   ],
+  createdAt: "2026-09-01T07:03:20.617Z",
+  updatedAt: "2026-09-24T23:05:06.000Z",
 } as const satisfies Module

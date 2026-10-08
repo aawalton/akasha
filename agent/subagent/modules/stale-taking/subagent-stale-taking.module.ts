@@ -70,4 +70,6 @@ export const subagentStaleTaking = {
       statement: "That take finding no stop writes nothing and says nothing.",
     },
   ],
+  createdAt: "2026-09-25T14:19:58.236Z",
+  updatedAt: "2026-09-25T14:22:59.000Z",
 } as const satisfies Module

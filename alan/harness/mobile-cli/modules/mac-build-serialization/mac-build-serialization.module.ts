@@ -53,4 +53,6 @@ export const macBuildSerialization = {
       statement: "Reserving never lowers the counter.",
     },
   ],
+  createdAt: "2026-09-01T12:25:55.296Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

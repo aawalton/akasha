@@ -6,4 +6,6 @@ export const seatHelp = {
   slug: "seat-help",
   definition: "the text that shows how the command that writes the attributes of a seat works",
   code: "ts",
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-25T18:01:27.000Z",
 } as const satisfies Module

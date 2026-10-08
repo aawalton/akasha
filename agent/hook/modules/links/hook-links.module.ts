@@ -103,4 +103,6 @@ export const hookLinks = {
       statement: "A root that cannot be matched against that checkout claims no link.",
     },
   ],
+  createdAt: "2026-09-10T23:58:16.504Z",
+  updatedAt: "2026-09-25T17:54:19.000Z",
 } as const satisfies Module

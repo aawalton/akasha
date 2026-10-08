@@ -16,4 +16,6 @@ export const calendarCredentials = {
       statement: "A default calendar id that is empty counts as no id given.",
     },
   ],
+  createdAt: "2026-09-01T08:08:01.075Z",
+  updatedAt: "2026-09-22T13:44:11.000Z",
 } as const satisfies Module

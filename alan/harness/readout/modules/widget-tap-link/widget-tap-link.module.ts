@@ -57,4 +57,6 @@ export const widgetTapLink = {
       statement: "Nothing here navigates.",
     },
   ],
+  createdAt: "2026-09-06T21:35:21.812Z",
+  updatedAt: "2026-09-24T20:32:13.000Z",
 } as const satisfies Module

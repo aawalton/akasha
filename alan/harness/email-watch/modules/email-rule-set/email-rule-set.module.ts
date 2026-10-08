@@ -26,4 +26,6 @@ export const emailRuleSet = {
       statement: "Nothing here reads a page to learn the fields.",
     },
   ],
+  createdAt: "2026-09-03T18:04:12.901Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

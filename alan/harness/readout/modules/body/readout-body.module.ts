@@ -30,4 +30,6 @@ export const readoutBody = {
       statement: "Nothing here names a readout.",
     },
   ],
+  createdAt: "2026-09-01T19:12:28.696Z",
+  updatedAt: "2026-09-24T18:56:30.000Z",
 } as const satisfies Module

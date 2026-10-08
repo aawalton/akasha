@@ -7,4 +7,6 @@ export const typingMinutes = {
   definition:
     "each minute a key was struck, spooled to a daily file under the seat the process belongs to",
   code: "ts",
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-15T16:42:58.000Z",
 } as const satisfies Module

@@ -31,4 +31,6 @@ export const agentProcLiveness = {
       statement: "A process with no acting agent is evidence of nobody rather than of an end.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-10-04T16:41:33.000Z",
 } as const satisfies Module

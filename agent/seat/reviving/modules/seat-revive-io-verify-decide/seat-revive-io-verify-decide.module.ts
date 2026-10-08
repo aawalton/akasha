@@ -21,4 +21,6 @@ export const seatReviveIoVerifyDecide = {
       statement: "Advancement is movement after the revive rather than movement at all.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

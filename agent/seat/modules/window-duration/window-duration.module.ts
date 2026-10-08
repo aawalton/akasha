@@ -16,4 +16,6 @@ export const windowDuration = {
       statement: "A span written in any other shape raises an input error naming the flag.",
     },
   ],
+  createdAt: "2026-09-04T00:54:17.109Z",
+  updatedAt: "2026-09-25T18:01:21.000Z",
 } as const satisfies Module

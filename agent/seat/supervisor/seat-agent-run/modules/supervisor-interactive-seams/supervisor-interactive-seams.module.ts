@@ -17,4 +17,6 @@ export const supervisorInteractiveSeams = {
       statement: "The seam is a type alone.",
     },
   ],
+  createdAt: "2026-09-03T18:04:03.733Z",
+  updatedAt: "2026-09-24T17:03:50.000Z",
 } as const satisfies Module

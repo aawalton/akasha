@@ -36,4 +36,6 @@ export const refusalTreeDrawing = {
       statement: "Nothing here writes a file.",
     },
   ],
+  createdAt: "2026-09-25T15:51:11.165Z",
+  updatedAt: "2026-09-25T17:27:03.000Z",
 } as const satisfies Module

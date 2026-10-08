@@ -13,4 +13,6 @@ export const claudeCodeRemoteControlDecide = {
       statement: "A seat is under remote control exactly where that seat is not headless.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-25T17:51:18.000Z",
 } as const satisfies Module

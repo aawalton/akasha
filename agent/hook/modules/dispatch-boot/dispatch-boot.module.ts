@@ -58,4 +58,6 @@ export const dispatchBoot = {
       statement: "No hook is named here.",
     },
   ],
+  createdAt: "2026-09-22T19:56:10.452Z",
+  updatedAt: "2026-09-25T17:51:34.000Z",
 } as const satisfies Module

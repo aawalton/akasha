@@ -93,4 +93,6 @@ export const modelVocab = {
       statement: "Nothing here reads a model family page.",
     },
   ],
+  createdAt: "2026-09-04T01:20:55.180Z",
+  updatedAt: "2026-09-25T17:57:13.000Z",
 } as const satisfies Module

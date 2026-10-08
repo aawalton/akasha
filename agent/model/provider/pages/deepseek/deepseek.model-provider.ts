@@ -44,4 +44,6 @@ export const deepseek = {
       statement: "An account is prepaid, so a spent balance refuses every request.",
     },
   ],
+  createdAt: "2026-09-14T22:47:03.507Z",
+  updatedAt: "2026-09-25T17:59:43.000Z",
 } as const satisfies ModelProvider

@@ -16,4 +16,6 @@ export const seatResumeGuard = {
       statement: "Every way of restarting a seat asks this before restarting that seat.",
     },
   ],
+  createdAt: "2026-09-13T19:26:08.774Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

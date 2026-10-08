@@ -33,4 +33,6 @@ export const handoverGuard = {
       statement: "Nothing here sets a cookie.",
     },
   ],
+  createdAt: "2026-09-20T02:32:32.323Z",
+  updatedAt: "2026-09-20T02:36:22.000Z",
 } as const satisfies Module

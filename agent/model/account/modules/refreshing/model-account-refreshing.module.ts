@@ -57,4 +57,6 @@ export const modelAccountRefreshing = {
       statement: "Nothing here writes a value the commit has.",
     },
   ],
+  createdAt: "2026-09-02T17:48:22.189Z",
+  updatedAt: "2026-09-26T14:11:01.000Z",
 } as const satisfies Module

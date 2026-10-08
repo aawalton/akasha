@@ -65,4 +65,6 @@ export const routerAppServing = {
       statement: "A connection is let idle longer than the tunnel in front of it lets one idle.",
     },
   ],
+  createdAt: "2026-09-21T18:55:56.859Z",
+  updatedAt: "2026-09-27T06:04:43.000Z",
 } as const satisfies Module

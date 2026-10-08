@@ -16,4 +16,6 @@ export const atlasHandoverSite = {
       statement: "Atlas signs its own cookie with `ATLAS_SESSION_KEY`.",
     },
   ],
+  createdAt: "2026-09-19T20:05:26.595Z",
+  updatedAt: "2026-09-22T13:50:37.000Z",
 } as const satisfies Module

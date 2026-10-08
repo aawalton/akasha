@@ -71,4 +71,6 @@ export const subagentOutliving = {
       statement: "A record written as the client started is read as the client's own.",
     },
   ],
+  createdAt: "2026-09-10T19:29:08.664Z",
+  updatedAt: "2026-10-04T16:41:33.000Z",
 } as const satisfies Module

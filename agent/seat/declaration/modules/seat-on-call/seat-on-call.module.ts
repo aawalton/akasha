@@ -20,4 +20,6 @@ export const seatOnCall = {
       statement: "A seat with no page in akasha reads as not on call.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T17:57:59.000Z",
 } as const satisfies Module

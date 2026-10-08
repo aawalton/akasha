@@ -52,4 +52,6 @@ export const domainRowFiling = {
       statement: "Nothing here writes a file.",
     },
   ],
+  createdAt: "2026-09-19T16:53:40.402Z",
+  updatedAt: "2026-09-27T15:33:53.000Z",
 } as const satisfies Module

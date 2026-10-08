@@ -7,4 +7,6 @@ export const sessionProjectDir = {
   definition: "the folder for a Claude Code session's file",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-03T18:15:30.173Z",
+  updatedAt: "2026-09-25T17:56:46.000Z",
 } as const satisfies Module

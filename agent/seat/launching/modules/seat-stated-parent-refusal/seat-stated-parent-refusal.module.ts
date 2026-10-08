@@ -30,4 +30,6 @@ export const seatStatedParentRefusal = {
       statement: "A flag merely opening with those same letters is no stated parent.",
     },
   ],
+  createdAt: "2026-09-03T18:00:09.310Z",
+  updatedAt: "2026-09-25T17:52:54.000Z",
 } as const satisfies Module

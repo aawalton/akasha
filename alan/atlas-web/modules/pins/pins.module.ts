@@ -12,4 +12,6 @@ export const pins = {
       statement: "A location with no title is named by its slug.",
     },
   ],
+  createdAt: "2026-09-03T04:24:01.072Z",
+  updatedAt: "2026-09-27T12:28:10.000Z",
 } as const satisfies Module

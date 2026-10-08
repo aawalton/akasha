@@ -32,4 +32,6 @@ export const mcpRegistry = {
       statement: "A secret named for forwarding is read from the environment at launch.",
     },
   ],
+  createdAt: "2026-09-03T17:59:25.035Z",
+  updatedAt: "2026-09-24T17:19:16.000Z",
 } as const satisfies Module

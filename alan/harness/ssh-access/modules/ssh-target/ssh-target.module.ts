@@ -16,4 +16,6 @@ export const sshTarget = {
       statement: "The options a target is reached with are stated here rather than by each caller.",
     },
   ],
+  createdAt: "2026-09-01T08:56:23.043Z",
+  updatedAt: "2026-09-22T13:58:57.000Z",
 } as const satisfies Module

@@ -47,4 +47,6 @@ export const catalogueSyncing = {
       statement: "No credential is behind the run.",
     },
   ],
+  createdAt: "2026-09-03T17:56:43.735Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

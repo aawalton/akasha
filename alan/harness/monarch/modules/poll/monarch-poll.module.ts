@@ -53,4 +53,6 @@ export const monarchPoll = {
       statement: "A row claimed by more than one rule leaves the run non-zero.",
     },
   ],
+  createdAt: "2026-09-03T17:54:06.774Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

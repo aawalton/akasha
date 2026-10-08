@@ -24,4 +24,6 @@ export const seatPrincipal = {
       statement: "The principal seat's id is looked up from the principal seat name.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-25T18:02:47.000Z",
 } as const satisfies Module

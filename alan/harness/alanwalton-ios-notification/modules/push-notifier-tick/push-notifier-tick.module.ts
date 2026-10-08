@@ -76,4 +76,6 @@ export const pushNotifierTick = {
       statement: "With no sender the live activity leg is skipped along with the feed's.",
     },
   ],
+  createdAt: "2026-09-03T23:59:38.347Z",
+  updatedAt: "2026-09-22T00:50:00.000Z",
 } as const satisfies Module

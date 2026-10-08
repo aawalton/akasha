@@ -65,4 +65,6 @@ export const domainTreeHanging = {
       statement: "The domains are read fresh only where that picture is missing or does not parse.",
     },
   ],
+  createdAt: "2026-09-19T03:06:01.181Z",
+  updatedAt: "2026-09-25T18:31:58.000Z",
 } as const satisfies Module

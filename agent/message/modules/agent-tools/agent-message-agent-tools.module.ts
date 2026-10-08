@@ -26,4 +26,6 @@ export const agentMessageAgentTools = {
       statement: "A turn notice is weighed as it is offered, so a notice let go is weighed again.",
     },
   ],
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-28T13:44:59.000Z",
 } as const satisfies Module

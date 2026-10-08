@@ -7,4 +7,6 @@ export const claudeOpus55 = {
   title: "Opus 5.5",
   modelId: "claude-opus-5-5",
   modelFamily: "model-family/opus",
+  createdAt: "2026-09-24T18:40:27.120Z",
+  updatedAt: "2026-09-24T18:40:50.000Z",
 } as const satisfies ModelVersion

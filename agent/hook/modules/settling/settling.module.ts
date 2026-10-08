@@ -25,4 +25,6 @@ export const settling = {
       statement: "A root has itself.",
     },
   ],
+  createdAt: "2026-08-29T18:05:52.535Z",
+  updatedAt: "2026-09-25T17:55:56.000Z",
 } as const satisfies Module

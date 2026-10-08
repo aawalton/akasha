@@ -70,4 +70,6 @@ export const royalRoadStories = {
       statement: "A slug a story page already holds makes no story.",
     },
   ],
+  createdAt: "2026-09-28T19:46:59.746Z",
+  updatedAt: "2026-09-28T19:48:45.000Z",
 } as const satisfies Module

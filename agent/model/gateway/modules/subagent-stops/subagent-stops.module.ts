@@ -94,4 +94,6 @@ export const subagentStops = {
         "A folder that came after the start is proved followed against a folder really watched.",
     },
   ],
+  createdAt: "2026-09-13T20:12:04.967Z",
+  updatedAt: "2026-09-25T17:52:50.000Z",
 } as const satisfies Module

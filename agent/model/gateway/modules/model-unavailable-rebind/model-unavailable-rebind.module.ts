@@ -124,4 +124,6 @@ export const modelUnavailableRebind = {
       statement: "A reason is matched as whole text rather than by any shape within the reason.",
     },
   ],
+  createdAt: "2026-09-02T22:27:14.886Z",
+  updatedAt: "2026-09-25T17:53:41.000Z",
 } as const satisfies Module

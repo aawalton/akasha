@@ -29,4 +29,6 @@ export const catalogue = {
       statement: "What is read off the listing is its elements, so its styling is read by nothing.",
     },
   ],
+  createdAt: "2026-09-03T04:14:46.233Z",
+  updatedAt: "2026-09-24T13:49:58.000Z",
 } as const satisfies Module

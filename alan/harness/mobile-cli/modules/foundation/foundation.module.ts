@@ -124,4 +124,6 @@ export const foundation = {
       statement: "The plugins a build compiles in are the packages the app's page reaches.",
     },
   ],
+  createdAt: "2026-09-01T12:25:55.296Z",
+  updatedAt: "2026-09-22T16:02:38.000Z",
 } as const satisfies Module

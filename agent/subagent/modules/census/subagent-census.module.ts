@@ -181,4 +181,6 @@ export const subagentCensus = {
       statement: "The evidence a seat's transcript has is handed in rather than read here.",
     },
   ],
+  createdAt: "2026-09-05T18:04:58.750Z",
+  updatedAt: "2026-09-22T14:30:46.000Z",
 } as const satisfies Module

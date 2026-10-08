@@ -32,4 +32,6 @@ export const rulePartition = {
       statement: "Nothing here walks the cases a rule set can tell apart.",
     },
   ],
+  createdAt: "2026-09-03T04:16:34.524Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies Module

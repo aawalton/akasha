@@ -88,4 +88,6 @@ export const mobileApp = {
         "An app carries the file making its native sources as well as the file building it.",
     },
   ],
+  createdAt: "2026-09-01T12:25:55.296Z",
+  updatedAt: "2026-09-25T18:27:41.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const seatConditionsReading = {
       statement: "A read that refuses reaches whoever asked rather than being waited out here.",
     },
   ],
+  createdAt: "2026-09-04T00:07:17.701Z",
+  updatedAt: "2026-09-25T18:02:03.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const serveStatic = {
       statement: "The root path is never answered from disk.",
     },
   ],
+  createdAt: "2026-09-01T09:24:34.667Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

@@ -49,4 +49,6 @@ export const oauthConsent = {
       statement: "The token's value is in nothing named as written.",
     },
   ],
+  createdAt: "2026-09-03T04:17:25.068Z",
+  updatedAt: "2026-09-22T14:07:21.000Z",
 } as const satisfies Module

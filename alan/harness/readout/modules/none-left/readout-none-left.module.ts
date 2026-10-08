@@ -29,4 +29,6 @@ export const readoutNoneLeft = {
       statement: "Nothing here draws a ring.",
     },
   ],
+  createdAt: "2026-09-01T05:54:36.835Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

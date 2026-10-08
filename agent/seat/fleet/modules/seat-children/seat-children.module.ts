@@ -33,4 +33,6 @@ export const seatChildren = {
       statement: "A run naming no seat writes zero rather than reading the roster.",
     },
   ],
+  createdAt: "2026-09-03T17:53:28.521Z",
+  updatedAt: "2026-09-25T17:55:49.000Z",
 } as const satisfies Module

@@ -51,4 +51,6 @@ export const monarchAgreement = {
       statement: "Nothing here repairs a disagreement.",
     },
   ],
+  createdAt: "2026-09-03T17:49:17.707Z",
+  updatedAt: "2026-09-24T18:46:16.000Z",
 } as const satisfies Module

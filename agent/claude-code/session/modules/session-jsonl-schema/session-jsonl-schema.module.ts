@@ -6,4 +6,6 @@ export const sessionJsonlSchema = {
   slug: "session-jsonl-schema",
   definition: "the shapes of the messages in a Claude Code session",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-25T17:54:35.000Z",
 } as const satisfies Module

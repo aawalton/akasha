@@ -48,4 +48,6 @@ export const agentMessageChannelDelivery = {
         "One injected transcript settles the whole set however many transcripts saw nothing.",
     },
   ],
+  createdAt: "2026-09-03T04:19:42.556Z",
+  updatedAt: "2026-09-25T17:59:36.000Z",
 } as const satisfies Module

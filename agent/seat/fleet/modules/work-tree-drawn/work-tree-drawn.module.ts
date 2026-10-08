@@ -7,4 +7,6 @@ export const workTreeDrawn = {
   definition:
     "how code chooses the color of each initiative from the seats that work on the initiative",
   code: "ts",
+  createdAt: "2026-09-03T22:31:47.998Z",
+  updatedAt: "2026-09-25T17:59:24.000Z",
 } as const satisfies Module

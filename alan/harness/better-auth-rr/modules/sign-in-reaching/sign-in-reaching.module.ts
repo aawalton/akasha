@@ -63,4 +63,6 @@ export const signInReaching = {
       statement: "The address itself reaches no page, and only its hash is written.",
     },
   ],
+  createdAt: "2026-09-19T19:07:35.796Z",
+  updatedAt: "2026-09-25T15:45:44.000Z",
 } as const satisfies Module

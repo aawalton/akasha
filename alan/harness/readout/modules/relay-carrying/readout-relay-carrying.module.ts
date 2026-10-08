@@ -54,4 +54,6 @@ export const readoutRelayCarrying = {
       statement: "Nothing here takes a reading.",
     },
   ],
+  createdAt: "2026-09-11T20:23:46.993Z",
+  updatedAt: "2026-09-25T17:37:48.000Z",
 } as const satisfies Module

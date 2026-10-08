@@ -37,4 +37,6 @@ export const seatCall = {
       statement: "A call naming no agent is refused.",
     },
   ],
+  createdAt: "2026-09-04T00:27:45.186Z",
+  updatedAt: "2026-09-25T18:01:10.000Z",
 } as const satisfies Module

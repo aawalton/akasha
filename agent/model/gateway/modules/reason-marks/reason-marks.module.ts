@@ -26,4 +26,6 @@ export const reasonMarks = {
       statement: "Nothing here writes to the map of marked reasons.",
     },
   ],
+  createdAt: "2026-09-25T14:28:39.708Z",
+  updatedAt: "2026-09-25T18:00:35.000Z",
 } as const satisfies Module

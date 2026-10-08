@@ -6,4 +6,6 @@ export const chessGameLoop = {
   slug: "chess-game-loop",
   definition: "a whole chess game played out one move at a time",
   code: "ts",
+  createdAt: "2026-09-01T07:31:59.367Z",
+  updatedAt: "2026-09-15T16:42:58.000Z",
 } as const satisfies Module

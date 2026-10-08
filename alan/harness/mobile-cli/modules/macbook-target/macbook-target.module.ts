@@ -16,4 +16,6 @@ export const macbookTarget = {
       statement: "No page or flag states a different macbook.",
     },
   ],
+  createdAt: "2026-09-01T12:25:55.296Z",
+  updatedAt: "2026-09-24T22:58:43.000Z",
 } as const satisfies Module

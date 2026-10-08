@@ -18,4 +18,6 @@ export const procScan = {
         "A process naming no acting agent carries no acting agent rather than carrying its own.",
     },
   ],
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-25T17:56:34.000Z",
 } as const satisfies Module

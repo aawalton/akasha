@@ -81,4 +81,6 @@ export const extendedContextModel = {
       statement: "A model that is the marker alone is rewritten onto an empty model.",
     },
   ],
+  createdAt: "2026-09-02T22:27:14.880Z",
+  updatedAt: "2026-09-25T17:58:16.000Z",
 } as const satisfies Module

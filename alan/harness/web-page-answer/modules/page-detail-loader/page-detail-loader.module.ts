@@ -24,4 +24,6 @@ export const pageDetailLoader = {
       statement: "A nav page's tab icon is drawn again as soon as a nav page changes.",
     },
   ],
+  createdAt: "2026-09-21T18:25:59.286Z",
+  updatedAt: "2026-09-27T12:17:41.000Z",
 } as const satisfies Module

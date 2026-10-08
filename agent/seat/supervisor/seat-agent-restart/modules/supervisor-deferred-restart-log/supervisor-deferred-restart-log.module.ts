@@ -22,4 +22,6 @@ export const supervisorDeferredRestartLog = {
       statement: "Children that could not be enumerated are said as such rather than as no child.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-24T15:55:20.000Z",
 } as const satisfies Module

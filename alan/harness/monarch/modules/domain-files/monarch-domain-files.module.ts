@@ -71,4 +71,6 @@ export const monarchDomainFiles = {
       statement: "A holding names the account it sits in by page type and slug.",
     },
   ],
+  createdAt: "2026-09-03T17:51:45.347Z",
+  updatedAt: "2026-09-25T15:05:29.000Z",
 } as const satisfies Module

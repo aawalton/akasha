@@ -20,4 +20,6 @@ export const dayString = {
       statement: "A day that will not parse is handed back unchanged rather than refused.",
     },
   ],
+  createdAt: "2026-09-01T10:15:10.566Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

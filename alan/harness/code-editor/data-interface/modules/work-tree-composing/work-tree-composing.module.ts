@@ -75,4 +75,6 @@ export const workTreeComposing = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-24T16:31:55.633Z",
+  updatedAt: "2026-09-24T16:34:09.000Z",
 } as const satisfies Module

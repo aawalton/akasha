@@ -50,4 +50,6 @@ export const monarchRuleAmounts = {
       statement: "An inclusion is said with `or` and an exclusion with `and`.",
     },
   ],
+  createdAt: "2026-09-03T17:48:43.469Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

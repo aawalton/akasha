@@ -39,4 +39,6 @@ export const needsAttention = {
         "Three runs each kept 34 of the 35 cases, and the one missed asks Alan about this test's subject.",
     },
   ],
+  createdAt: "2026-09-26T18:19:43.134Z",
+  updatedAt: "2026-09-26T18:25:31.000Z",
 } as const satisfies ModelTest

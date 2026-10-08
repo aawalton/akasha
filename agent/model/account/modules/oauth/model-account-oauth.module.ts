@@ -261,4 +261,6 @@ export const modelAccountOauth = {
       statement: "A usage window's utilization is unbounded above.",
     },
   ],
+  createdAt: "2026-09-02T17:33:26.240Z",
+  updatedAt: "2026-09-25T17:52:52.000Z",
 } as const satisfies Module

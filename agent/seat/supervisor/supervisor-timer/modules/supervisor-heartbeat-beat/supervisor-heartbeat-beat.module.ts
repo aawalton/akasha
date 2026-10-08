@@ -67,4 +67,6 @@ export const supervisorHeartbeatBeat = {
       statement: "Where the beat module sits is asked of the index rather than spelled.",
     },
   ],
+  createdAt: "2026-09-03T18:04:03.733Z",
+  updatedAt: "2026-09-24T17:16:21.000Z",
 } as const satisfies Module

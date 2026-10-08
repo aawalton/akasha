@@ -94,4 +94,6 @@ export const testflightCut = {
       statement: "What the fingerprint recorder names is kept rather than dropped at the call.",
     },
   ],
+  createdAt: "2026-09-02T07:53:10.598Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies Module

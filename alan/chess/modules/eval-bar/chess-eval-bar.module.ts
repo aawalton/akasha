@@ -6,4 +6,6 @@ export const chessEvalBar = {
   slug: "chess-eval-bar",
   definition: "the bar drawing which side an engine score favors",
   code: "tsx",
+  createdAt: "2026-09-01T06:38:44.740Z",
+  updatedAt: "2026-09-15T16:42:58.000Z",
 } as const satisfies Module

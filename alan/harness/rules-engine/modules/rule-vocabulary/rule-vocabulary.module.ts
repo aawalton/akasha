@@ -25,4 +25,6 @@ export const ruleVocabulary = {
         "Where two values claim one pattern, the value listed first wins and nothing reports it.",
     },
   ],
+  createdAt: "2026-09-03T04:16:34.524Z",
+  updatedAt: "2026-09-22T13:22:14.000Z",
 } as const satisfies Module

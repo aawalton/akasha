@@ -16,4 +16,6 @@ export const recipientResolverConfig = {
       statement: "The seconds the environment states are held as milliseconds.",
     },
   ],
+  createdAt: "2026-09-03T04:18:48.798Z",
+  updatedAt: "2026-09-25T17:53:54.000Z",
 } as const satisfies Module

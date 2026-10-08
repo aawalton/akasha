@@ -70,4 +70,6 @@ export const capacityClassification = {
       statement: "Nothing here reads the account or the model the 429 came from.",
     },
   ],
+  createdAt: "2026-09-02T13:08:41.401Z",
+  updatedAt: "2026-09-25T18:00:47.000Z",
 } as const satisfies Module

@@ -22,4 +22,6 @@ export const supervisorAgentActionClear = {
         "A proxy swap happens only after the request that asked for that swap is consumed.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

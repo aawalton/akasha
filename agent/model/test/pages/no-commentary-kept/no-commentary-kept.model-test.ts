@@ -63,4 +63,6 @@ export const noCommentaryKept = {
         "The phrase `Also worth` opens the answer Alan asked for as often as it opens an aside.",
     },
   ],
+  createdAt: "2026-09-12T13:49:27.166Z",
+  updatedAt: "2026-09-25T17:59:02.000Z",
 } as const satisfies ModelTest

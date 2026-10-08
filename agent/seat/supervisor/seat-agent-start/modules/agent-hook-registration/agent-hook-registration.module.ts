@@ -53,4 +53,6 @@ export const agentHookRegistration = {
       statement: "What a hook page carries is read from the index rather than by loading the page.",
     },
   ],
+  createdAt: "2026-09-04T00:21:40.579Z",
+  updatedAt: "2026-09-24T16:36:00.000Z",
 } as const satisfies Module

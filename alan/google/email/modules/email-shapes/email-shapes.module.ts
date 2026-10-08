@@ -6,4 +6,6 @@ export const emailShapes = {
   slug: "email-shapes",
   definition: "the shapes of a mail request and of the mail answered",
   code: "ts",
+  createdAt: "2026-09-01T08:20:30.638Z",
+  updatedAt: "2026-09-22T13:45:29.000Z",
 } as const satisfies Module

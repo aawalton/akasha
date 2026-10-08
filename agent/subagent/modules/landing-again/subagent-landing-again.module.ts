@@ -85,4 +85,6 @@ export const subagentLandingAgain = {
       statement: "Nothing here composes what a landing lands or reads what a landing wrote.",
     },
   ],
+  createdAt: "2026-09-12T09:57:30.077Z",
+  updatedAt: "2026-09-25T14:23:02.000Z",
 } as const satisfies Module

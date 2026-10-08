@@ -21,4 +21,6 @@ export const actingAccount = {
       statement: "The account is answered in lower case.",
     },
   ],
+  createdAt: "2026-09-01T05:27:15.612Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

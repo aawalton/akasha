@@ -78,4 +78,6 @@ export const recipientResolverRegistry = {
       statement: "A person no persona answers for arms no spec.",
     },
   ],
+  createdAt: "2026-09-03T04:18:48.798Z",
+  updatedAt: "2026-10-04T00:28:11.000Z",
 } as const satisfies Module

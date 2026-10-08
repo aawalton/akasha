@@ -29,4 +29,6 @@ export const gatewayTreeVersion = {
       statement: "A specifier naming a package is not followed.",
     },
   ],
+  createdAt: "2026-09-04T00:28:42.648Z",
+  updatedAt: "2026-09-25T17:54:33.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const seatRoster = {
   slug: "seat-roster",
   definition: "how code reads every seat with its name and its attributes",
   code: "ts",
+  createdAt: "2026-09-03T23:03:18.159Z",
+  updatedAt: "2026-09-25T17:58:18.000Z",
 } as const satisfies Module

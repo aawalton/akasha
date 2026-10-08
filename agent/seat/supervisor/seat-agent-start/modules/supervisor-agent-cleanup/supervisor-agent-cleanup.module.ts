@@ -25,4 +25,6 @@ export const supervisorAgentCleanup = {
       statement: "Every timer and watch the process took is released before the process is freed.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-24T16:36:00.000Z",
 } as const satisfies Module

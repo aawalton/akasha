@@ -28,4 +28,6 @@ export const readoutCredential = {
       statement: "Nothing here reads a person or a device.",
     },
   ],
+  createdAt: "2026-08-30T22:45:56.895Z",
+  updatedAt: "2026-09-22T13:56:56.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const resumeSeat = {
       statement: "A seat whose page states no mode is revived headless.",
     },
   ],
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

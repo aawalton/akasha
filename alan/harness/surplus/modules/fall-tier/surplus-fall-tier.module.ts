@@ -28,4 +28,6 @@ export const surplusFallTier = {
       statement: "A colour is worked out without reaching a store.",
     },
   ],
+  createdAt: "2026-09-03T22:58:37.395Z",
+  updatedAt: "2026-09-22T13:46:30.000Z",
 } as const satisfies Module

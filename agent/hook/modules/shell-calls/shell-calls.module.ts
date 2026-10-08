@@ -189,4 +189,6 @@ export const shellCalls = {
         "A prefix this module does not name hides the call behind that prefix from every hook.",
     },
   ],
+  createdAt: "2026-08-29T17:57:22.338Z",
+  updatedAt: "2026-09-25T22:13:39.000Z",
 } as const satisfies Module

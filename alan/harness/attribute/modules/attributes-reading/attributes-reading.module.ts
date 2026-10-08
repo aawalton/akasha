@@ -110,4 +110,6 @@ export const attributesReading = {
       statement: "Nothing here decides when a reading is due.",
     },
   ],
+  createdAt: "2026-09-04T00:05:30.403Z",
+  updatedAt: "2026-09-25T17:33:30.000Z",
 } as const satisfies Module

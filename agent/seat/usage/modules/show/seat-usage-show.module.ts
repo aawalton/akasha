@@ -12,4 +12,6 @@ export const seatUsageShow = {
       statement: "The model is written out as the id its model version states.",
     },
   ],
+  createdAt: "2026-09-04T00:07:17.701Z",
+  updatedAt: "2026-09-24T18:44:07.000Z",
 } as const satisfies Module

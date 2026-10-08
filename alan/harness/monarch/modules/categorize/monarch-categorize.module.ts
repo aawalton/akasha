@@ -38,4 +38,6 @@ export const monarchCategorize = {
       statement: "Monarch taking a category while no month file moves is refused.",
     },
   ],
+  createdAt: "2026-09-03T17:51:45.347Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies Module

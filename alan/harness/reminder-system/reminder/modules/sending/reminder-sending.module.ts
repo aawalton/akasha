@@ -55,4 +55,6 @@ export const reminderSending = {
       statement: "Nothing here reads a clock.",
     },
   ],
+  createdAt: "2026-09-01T23:26:04.911Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

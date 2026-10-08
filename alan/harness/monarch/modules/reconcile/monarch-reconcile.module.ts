@@ -36,4 +36,6 @@ export const monarchReconcile = {
       statement: "The scope reconciled against is named in the refusal.",
     },
   ],
+  createdAt: "2026-09-03T17:51:45.347Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

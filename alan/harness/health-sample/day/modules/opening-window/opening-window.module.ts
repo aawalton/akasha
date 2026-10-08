@@ -82,4 +82,6 @@ export const openingWindow = {
       statement: "Nothing here asks for a page type but the day's own.",
     },
   ],
+  createdAt: "2026-09-01T07:03:20.617Z",
+  updatedAt: "2026-09-24T23:05:06.000Z",
 } as const satisfies Module

@@ -57,4 +57,6 @@ export const monarchRuleClauses = {
       statement: "A stated rule is a rule page's own words before those words are weighed.",
     },
   ],
+  createdAt: "2026-09-03T17:51:45.347Z",
+  updatedAt: "2026-09-22T13:22:14.000Z",
 } as const satisfies Module

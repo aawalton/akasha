@@ -21,4 +21,6 @@ export const courseMapping = {
       statement: "A shelf is named as a relation slug, so the page type it is comes with the name.",
     },
   ],
+  createdAt: "2026-09-03T04:14:46.233Z",
+  updatedAt: "2026-09-24T13:46:09.000Z",
 } as const satisfies Module

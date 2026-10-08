@@ -360,4 +360,6 @@ export const subagentPresence = {
       statement: "A body is composed by the module that composes a subagent's body.",
     },
   ],
+  createdAt: "2026-08-31T20:42:25.373Z",
+  updatedAt: "2026-10-04T16:41:33.000Z",
 } as const satisfies Module

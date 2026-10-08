@@ -123,4 +123,6 @@ export const seatTranscriptRotation = {
       statement: "No rotated session is kept.",
     },
   ],
+  createdAt: "2026-09-05T14:24:56.909Z",
+  updatedAt: "2026-09-27T16:18:16.000Z",
 } as const satisfies Module

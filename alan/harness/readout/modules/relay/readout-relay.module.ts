@@ -166,4 +166,6 @@ export const readoutRelay = {
       statement: "Nothing here decides a reading held is too old to show.",
     },
   ],
+  createdAt: "2026-09-01T04:56:37.513Z",
+  updatedAt: "2026-09-25T17:30:04.000Z",
 } as const satisfies Module

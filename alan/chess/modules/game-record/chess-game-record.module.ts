@@ -6,4 +6,6 @@ export const chessGameRecord = {
   slug: "chess-game-record",
   definition: "a finished chess game as the fields its page has",
   code: "ts",
+  createdAt: "2026-09-01T07:31:59.367Z",
+  updatedAt: "2026-09-15T16:42:58.000Z",
 } as const satisfies Module

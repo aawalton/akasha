@@ -25,4 +25,6 @@ export const telnyxSend = {
       statement: "A caller may point the request at somewhere other than Telnyx.",
     },
   ],
+  createdAt: "2026-09-01T05:27:15.613Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies Module

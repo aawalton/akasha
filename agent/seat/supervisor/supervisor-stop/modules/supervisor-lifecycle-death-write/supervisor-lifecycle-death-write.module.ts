@@ -29,4 +29,6 @@ export const supervisorLifecycleDeathWrite = {
       statement: "Only the writing is decided.",
     },
   ],
+  createdAt: "2026-09-03T17:01:58.788Z",
+  updatedAt: "2026-09-24T17:14:21.000Z",
 } as const satisfies Module

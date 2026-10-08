@@ -7,4 +7,6 @@ export const ptyTerminalDeath = {
   definition:
     "the teardown a proxy runs once its terminal dies, signalling the child before killing it",
   code: "ts",
+  createdAt: "2026-09-04T00:12:34.519Z",
+  updatedAt: "2026-09-15T16:42:06.000Z",
 } as const satisfies Module

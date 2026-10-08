@@ -20,4 +20,6 @@ export const oauthCallback = {
       statement: "Quotation marks around a pasted URL are dropped before the URL is parsed.",
     },
   ],
+  createdAt: "2026-09-01T07:26:37.660Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

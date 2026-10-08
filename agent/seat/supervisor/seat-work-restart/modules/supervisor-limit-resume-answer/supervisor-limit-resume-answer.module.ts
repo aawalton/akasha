@@ -6,4 +6,6 @@ export const supervisorLimitResumeAnswer = {
   slug: "supervisor-limit-resume-answer",
   definition: "whether a rate-limited seat resumes, with the nudge it is resumed by",
   code: "ts",
+  createdAt: "2026-09-03T18:15:30.182Z",
+  updatedAt: "2026-09-24T17:13:10.000Z",
 } as const satisfies Module

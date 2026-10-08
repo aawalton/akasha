@@ -6,4 +6,6 @@ export const wakeArmedSpecs = {
   slug: "wake-armed-specs",
   definition: "what messages start work in a persona's seat",
   code: "ts",
+  createdAt: "2026-09-03T22:19:15.050Z",
+  updatedAt: "2026-09-25T17:54:00.000Z",
 } as const satisfies Module

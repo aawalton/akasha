@@ -52,4 +52,6 @@ export const costReading = {
       statement: "Nothing here decides when a reading is due.",
     },
   ],
+  createdAt: "2026-09-10T13:58:15.740Z",
+  updatedAt: "2026-09-25T17:30:04.000Z",
 } as const satisfies Module

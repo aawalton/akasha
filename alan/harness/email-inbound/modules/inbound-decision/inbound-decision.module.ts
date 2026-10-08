@@ -16,4 +16,6 @@ export const inboundDecision = {
       statement: "A message on no persona channel is surfaced.",
     },
   ],
+  createdAt: "2026-09-01T07:09:26.372Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

@@ -33,4 +33,6 @@ export const recipientResolverDeps = {
       statement: "A start that fails is said aloud and tried again on a later tick.",
     },
   ],
+  createdAt: "2026-09-03T04:18:48.798Z",
+  updatedAt: "2026-09-26T15:59:34.000Z",
 } as const satisfies Module

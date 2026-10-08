@@ -12,4 +12,6 @@ export const subjectCollectionsQuery = {
       statement: "A row holding no title or no slug is left out of the index.",
     },
   ],
+  createdAt: "2026-09-03T04:14:46.233Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

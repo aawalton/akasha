@@ -123,4 +123,6 @@ export const readoutServing = {
         "A workstation that stops taking readings leaves every tile drawn rather than blank.",
     },
   ],
+  createdAt: "2026-09-01T07:05:37.144Z",
+  updatedAt: "2026-09-25T16:54:36.000Z",
 } as const satisfies Module

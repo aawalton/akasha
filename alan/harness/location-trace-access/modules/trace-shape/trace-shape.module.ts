@@ -21,4 +21,6 @@ export const traceShape = {
       statement: "Nothing here exists at runtime.",
     },
   ],
+  createdAt: "2026-09-01T07:03:20.617Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies Module

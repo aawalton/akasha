@@ -7,4 +7,6 @@ export const anthropic = {
   definition: "the external service that runs the models Anthropic makes",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Anthropic" }],
   apiBase: "https://api.anthropic.com",
+  createdAt: "2026-09-14T22:43:45.418Z",
+  updatedAt: "2026-09-25T17:59:02.000Z",
 } as const satisfies ModelProvider

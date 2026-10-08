@@ -46,4 +46,6 @@ export const overdueRolling = {
       statement: "A page type whose due date moves on completion alone is moved nowhere here.",
     },
   ],
+  createdAt: "2026-09-07T00:52:27.956Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

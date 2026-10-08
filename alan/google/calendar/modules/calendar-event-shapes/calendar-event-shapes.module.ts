@@ -6,4 +6,6 @@ export const calendarEventShapes = {
   slug: "calendar-event-shapes",
   definition: "the shapes of a calendar event request and of the event answered",
   code: "ts",
+  createdAt: "2026-09-01T08:08:01.077Z",
+  updatedAt: "2026-09-22T13:50:37.000Z",
 } as const satisfies Module

@@ -39,4 +39,6 @@ export const seatNameClaim = {
       statement: "Nothing here writes the values a seat states.",
     },
   ],
+  createdAt: "2026-09-01T17:04:32.349Z",
+  updatedAt: "2026-09-25T17:50:00.000Z",
 } as const satisfies Module

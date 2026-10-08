@@ -32,4 +32,6 @@ export const tmuxSession = {
       statement: "Nothing here reads or writes a page.",
     },
   ],
+  createdAt: "2026-09-22T16:22:29.447Z",
+  updatedAt: "2026-09-26T13:32:04.000Z",
 } as const satisfies Module

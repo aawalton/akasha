@@ -24,4 +24,6 @@ export const seatIdentity = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-03T21:09:52.612Z",
+  updatedAt: "2026-09-25T17:55:28.000Z",
 } as const satisfies Module

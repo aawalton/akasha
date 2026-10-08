@@ -17,4 +17,6 @@ export const runSupervisor = {
       statement: "A seat whose scope was opened before is opened again by doing nothing.",
     },
   ],
+  createdAt: "2026-09-04T00:19:33.076Z",
+  updatedAt: "2026-09-24T17:08:49.000Z",
 } as const satisfies Module

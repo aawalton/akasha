@@ -43,4 +43,6 @@ export const googleSignIn = {
         "A traded session lands the reader where a browser sign-in would have landed them.",
     },
   ],
+  createdAt: "2026-09-19T18:43:29.086Z",
+  updatedAt: "2026-09-22T00:50:00.000Z",
 } as const satisfies Module

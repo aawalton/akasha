@@ -57,4 +57,6 @@ export const monarchReport = {
       statement: "A list cut to its limit says how many rows were left out.",
     },
   ],
+  createdAt: "2026-09-03T17:53:54.669Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

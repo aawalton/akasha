@@ -42,4 +42,6 @@ export const seatProcKey = {
       statement: "A key stated as anything but two whole numbers is no key.",
     },
   ],
+  createdAt: "2026-09-03T18:59:58.320Z",
+  updatedAt: "2026-09-22T13:22:14.000Z",
 } as const satisfies Module

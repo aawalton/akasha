@@ -41,4 +41,6 @@ export const pushPayload = {
       statement: "Every app a push reaches is named on `push-apps` rather than here.",
     },
   ],
+  createdAt: "2026-09-03T23:59:38.347Z",
+  updatedAt: "2026-09-27T17:26:23.000Z",
 } as const satisfies Module

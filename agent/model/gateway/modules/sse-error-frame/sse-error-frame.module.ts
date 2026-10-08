@@ -49,4 +49,6 @@ export const sseErrorFrame = {
       statement: "Nothing here writes a frame to a stream.",
     },
   ],
+  createdAt: "2026-09-02T12:54:20.239Z",
+  updatedAt: "2026-09-25T18:03:04.000Z",
 } as const satisfies Module

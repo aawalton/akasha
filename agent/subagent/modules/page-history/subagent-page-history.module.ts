@@ -35,4 +35,6 @@ export const subagentPageHistory = {
         "A subagent is answered only where the agent id the body states is the id asked for.",
     },
   ],
+  createdAt: "2026-09-05T17:35:55.083Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

@@ -36,4 +36,6 @@ export const monarchCategorizeRecent = {
       statement: "A contested row leaves the run non-zero.",
     },
   ],
+  createdAt: "2026-09-03T17:54:00.831Z",
+  updatedAt: "2026-09-19T18:25:20.000Z",
 } as const satisfies Module

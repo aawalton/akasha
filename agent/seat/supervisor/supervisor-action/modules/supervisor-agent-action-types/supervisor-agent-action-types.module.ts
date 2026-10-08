@@ -16,4 +16,6 @@ export const supervisorAgentActionTypes = {
       statement: "This module declares no behaviour.",
     },
   ],
+  createdAt: "2026-09-03T17:08:24.638Z",
+  updatedAt: "2026-09-22T20:22:39.000Z",
 } as const satisfies Module

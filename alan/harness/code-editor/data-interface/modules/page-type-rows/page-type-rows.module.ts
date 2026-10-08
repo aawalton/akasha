@@ -38,4 +38,6 @@ export const pageTypeRows = {
       statement: "No property row is read.",
     },
   ],
+  createdAt: "2026-09-24T16:31:27.638Z",
+  updatedAt: "2026-09-24T16:33:21.000Z",
 } as const satisfies Module

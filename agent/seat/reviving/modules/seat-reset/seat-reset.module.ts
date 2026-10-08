@@ -31,4 +31,6 @@ export const seatReset = {
         "A seat whose declarations spell no name is refused rather than reset into nothing.",
     },
   ],
+  createdAt: "2026-09-04T00:21:47.520Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Module

@@ -45,4 +45,6 @@ export const modelBody = {
       statement: "Nothing here sends a request.",
     },
   ],
+  createdAt: "2026-09-15T15:01:33.647Z",
+  updatedAt: "2026-09-25T17:55:38.000Z",
 } as const satisfies Module

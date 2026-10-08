@@ -36,4 +36,6 @@ export const monarchApply = {
       statement: "A rule's note is written only onto the subject and only where no note stands.",
     },
   ],
+  createdAt: "2026-09-03T17:53:54.669Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies Module

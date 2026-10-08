@@ -109,4 +109,6 @@ export const modelAccountPacing = {
         "A pace exactly halfway between two hundredths is rounded toward the greater hundredth.",
     },
   ],
+  createdAt: "2026-09-02T17:09:21.608Z",
+  updatedAt: "2026-09-25T17:53:36.000Z",
 } as const satisfies Module

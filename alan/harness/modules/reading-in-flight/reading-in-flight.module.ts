@@ -46,4 +46,6 @@ export const readingInFlight = {
         "The store a reader rides in is one the runtime shares, so every copy reads the same one.",
     },
   ],
+  createdAt: "2026-09-21T18:51:02.755Z",
+  updatedAt: "2026-09-22T13:57:00.000Z",
 } as const satisfies Module

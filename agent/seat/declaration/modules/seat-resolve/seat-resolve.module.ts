@@ -50,4 +50,6 @@ export const seatResolve = {
       statement: "One refusal anywhere means nothing at all is assigned.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.641Z",
+  updatedAt: "2026-09-28T18:10:20.000Z",
 } as const satisfies Module

@@ -53,4 +53,6 @@ export const notificationFeedRows = {
       statement: "No reader here crosses a network.",
     },
   ],
+  createdAt: "2026-09-03T23:59:38.347Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies Module

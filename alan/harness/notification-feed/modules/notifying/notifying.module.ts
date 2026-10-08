@@ -36,4 +36,6 @@ export const notifying = {
       statement: "No type the feed rows module declares is handed on from here.",
     },
   ],
+  createdAt: "2026-09-04T01:20:06.711Z",
+  updatedAt: "2026-09-22T00:47:01.000Z",
 } as const satisfies Module

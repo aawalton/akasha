@@ -20,4 +20,6 @@ export const agentMessageNaming = {
       statement: "A name opens with the message page type's slug.",
     },
   ],
+  createdAt: "2026-09-11T14:43:55.686Z",
+  updatedAt: "2026-09-25T17:50:31.000Z",
 } as const satisfies Module

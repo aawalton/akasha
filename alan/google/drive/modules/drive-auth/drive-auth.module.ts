@@ -6,4 +6,6 @@ export const driveAuth = {
   slug: "drive-auth",
   definition: "a Drive call's OAuth client",
   code: "ts",
+  createdAt: "2026-09-01T07:44:12.811Z",
+  updatedAt: "2026-09-22T13:43:28.000Z",
 } as const satisfies Module
