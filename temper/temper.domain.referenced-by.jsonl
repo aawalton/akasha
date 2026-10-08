@@ -5,5 +5,6 @@
 {"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-page-with-its-parts/a-page-with-its-parts.folder-shape.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper.domain.ts","path":"temper/web/routes/temper-requests/temper-requests.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"page-domain","path":"domain/initiative/pages/ember-auto-port.initiative.ts","id":"01a11bfa-1bdc-7672-8cb4-e31b37e3a025"}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/ember-temper-alpha.initiative.ts","id":"01a0de4d-ccf3-7cab-a8bf-2cae7c1c6bd9"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
