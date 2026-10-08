@@ -399,18 +399,6 @@ export const fairweatherTamsin = {
         "character-other/fairweather-tamsin",
       ],
     },
-    {
-      fact: "Tamsin left her mother's letter about the blue-door house at the wharf office on Midsummer.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/fairweather-elsie",
-        "character-other/fairweather-noor",
-        "character-other/fairweather-tilly",
-      ],
-    },
-    {
-      fact: "Tamsin's mother made her a birch crown every Midsummer on the barge, till she was twelve.",
-      knowers: ["lore-disclosure/game-master", "character-player/fairweather-elsie"],
-    },
   ],
+  updatedAt: "2026-10-08T16:24:57.837Z",
 } as const satisfies Lore
