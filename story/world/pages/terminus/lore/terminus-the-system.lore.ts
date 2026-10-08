@@ -73,6 +73,18 @@ export const terminusTheSystem = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The System does not build the threats that destroy civilizations.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The System is tuned so that threats able to destroy civilizations arise on their own.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The fall of civilizations is built into the System by chance rather than by schedule.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The System exists for the continuous refinement and evolution of its users.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -130,5 +142,5 @@ export const terminusTheSystem = {
     },
   ],
   createdAt: "2026-10-08T19:30:10.084Z",
-  updatedAt: "2026-10-08T19:31:04.939Z",
+  updatedAt: "2026-10-08T19:34:50.690Z",
 } as const satisfies Lore
