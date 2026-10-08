@@ -36,6 +36,7 @@
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-combobox-base/scrollable-menu-combobox-base.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-assist-trace/quest-port-assist-trace.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-journal/quest-port-journal.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-travel/quest-port-travel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port/quest-port.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/world/quests/modules/quests-classify/quests-classify.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts","typed":false,"deferred":false}
