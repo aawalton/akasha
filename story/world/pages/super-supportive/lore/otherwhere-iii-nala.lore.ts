@@ -362,22 +362,7 @@ export const otherwhereIiiNala = {
         "character-other/otherwhere-iii-onn-desveth",
       ],
     },
-    {
-      fact: "Nala told Onn-desveth events may now diverge from the story, as her actions ripple.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-onn-desveth",
-      ],
-    },
-    {
-      fact: "Nala asked for Esh-erdi as her trusted witness, the only one in this world she would trust.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-onn-desveth",
-      ],
-    },
   ],
   secrets: "jsonl",
+  updatedAt: "2026-10-08T16:27:04.790Z",
 } as const satisfies Lore
