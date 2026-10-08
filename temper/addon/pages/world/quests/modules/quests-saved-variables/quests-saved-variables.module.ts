@@ -32,7 +32,12 @@ export const questsSavedVariables = {
       decisionKind: "decision-kind/constraint",
       statement: "The game writes saved variables only as the client shuts down.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The open journal of each character and the port trace are kept beside the settings.",
+    },
   ],
   createdAt: "2026-09-02T18:26:20.060Z",
-  updatedAt: "2026-09-22T02:18:28.000Z",
+  updatedAt: "2026-10-08T17:02:21.090Z",
 } as const satisfies Module

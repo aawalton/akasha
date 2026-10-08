@@ -1,4 +1,8 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
+import type {
+  JournalCapture,
+  PortTraceEntry,
+} from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
 import type { AutoQuestTraceEntry } from "akasha/temper/addon/pages/world/quests/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 import {
   SAVED_VARIABLES_NAME,
@@ -11,6 +15,8 @@ interface SavedVariablesData {
   autoQuestDebug?: boolean
   autoQuestDebugTrace?: AutoQuestTraceEntry[]
   migratedFromCharacters?: boolean
+  questJournal?: Record<string, JournalCapture>
+  questPortTrace?: PortTraceEntry[]
 }
 
 const CHARACTERS_SAVED_VARIABLES_NAME = "TemperCharacters_SavedVariables"
