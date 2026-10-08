@@ -8,9 +8,6 @@ export const astraPageTimestamps = {
   persona: "persona/astra",
   intentStack: [
     {
-      statement: "The moment a player changed a Temper rule is named `rule-changed-at`.",
-    },
-    {
       statement:
         "A generator kind states whether it works its value out again when committed values change.",
     },
