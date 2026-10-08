@@ -81,7 +81,15 @@ export const terminusCentralStar = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The star's magnetic field funnels its X-ray output into hot caps at its two poles.",
+      fact: "The aperture opens widest at the star's two poles, so most raw mana pours out there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mana pouring through the star's poles heats them into caps that give off most of its X-rays.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mana and X-rays share one distribution, both strongest at the poles.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -121,15 +129,15 @@ export const terminusCentralStar = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Raw magic leaves the star's surface at about 9.5 × 10^28 watts per square metre.",
+      fact: "Raw magic leaves the star's surface at about 9.5 × 10^28 watts per square metre on average.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "At the star's own surface the outward mana push is about 4.2 × 10^20 m/s².",
+      fact: "At the star's own surface the outward mana push averages about 4.2 × 10^20 m/s².",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The central star's output of raw mana never varies.",
+      fact: "The central star's total output of raw mana never varies over time.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -142,5 +150,5 @@ export const terminusCentralStar = {
     },
   ],
   createdAt: "2026-10-08T19:28:35.009Z",
-  updatedAt: "2026-10-08T20:36:52.160Z",
+  updatedAt: "2026-10-08T20:39:15.609Z",
 } as const satisfies Lore

@@ -113,11 +113,11 @@ export const terminusTheSphere = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The mana push on the surface is 12.63 m/s², about 1.29 times Earth's gravity.",
+      fact: "The mana push at the equator is 12.63 m/s², about 1.29 times Earth's gravity.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The mana push on the surface is exactly Planck acceleration divided by d(243).",
+      fact: "The mana push at the equator is exactly Planck acceleration divided by d(243).",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -125,7 +125,11 @@ export const terminusTheSphere = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The whole inner surface feels the same mana push, with no Coriolis effect.",
+      fact: "The mana push grows from the equator toward the poles, so the polar lands are heaviest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The inner surface feels no Coriolis effect.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -205,7 +209,7 @@ export const terminusTheSphere = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The star's X-rays reach the sphere at about 23.4 kW per square metre.",
+      fact: "The star's X-rays reach the sphere at about 23.4 kW per square metre, averaged over it.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -246,5 +250,5 @@ export const terminusTheSphere = {
     },
   ],
   createdAt: "2026-10-08T19:12:35.919Z",
-  updatedAt: "2026-10-08T20:28:01.076Z",
+  updatedAt: "2026-10-08T20:39:15.609Z",
 } as const satisfies Lore
