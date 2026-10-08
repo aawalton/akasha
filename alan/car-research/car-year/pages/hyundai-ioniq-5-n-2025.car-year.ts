@@ -13,4 +13,6 @@ export const hyundaiIoniq5N2025 = {
     "- https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n\n- https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n/compare-specs",
   exclusionReason: "All trims excluded",
   carModel: "car-model/hyundai-ioniq-5-n",
+  createdAt: "2026-05-21T14:13:48.122Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

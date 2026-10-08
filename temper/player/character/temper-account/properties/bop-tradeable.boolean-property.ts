@@ -7,4 +7,6 @@ export const bopTradeable = {
   propertySlug: "bop-tradeable",
   definition: "whether a bound item may still go to whoever earned the item alongside",
   types: "ts",
+  createdAt: "2026-09-02T04:14:53.308Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies BooleanProperty

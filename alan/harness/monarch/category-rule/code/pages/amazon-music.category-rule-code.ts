@@ -11,4 +11,6 @@ export const amazonMusic = {
   ],
   category: "monarch-category/shopping",
   ruleNote: "Amazon Music subscription",
+  createdAt: "2026-09-03T03:42:02.447Z",
+  updatedAt: "2026-09-15T16:07:35.000Z",
 } as const satisfies CategoryRuleCode

@@ -24,4 +24,6 @@ export const bmw = {
   sources:
     "- BMW USA — https://www.bmwusa.com/\n- BMW Group press — https://www.press.bmwgroup.com/usa/\n- Electrek BMW Supercharger access — https://electrek.co/2025/12/10/bmw-evs-access-tesla-supercharger-network-today/\n- InsideEVs BMW Supercharger access — https://insideevs.com/news/781448/bmw-ev-tesla-supercharger-access/\n- BMW Blog 2026 i4 update — https://www.bmwblog.com/2025/12/11/2026-bmw-i4-power-range-updates/\n- Consumer Reports brand rankings 2025\n- JD Power 2025 IQS\n- The Drive — BMW subscriptions commitment\n- Motor1 — IIJA impaired-driving mandate status",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T13:59:06.221Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

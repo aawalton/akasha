@@ -23,4 +23,6 @@ export const audi = {
   shortList: true,
   sources:
     "- https://www.audiusa.com/en/models/electric-models/\n- https://media.audiusa.com/models/electrification\n- https://media.audiusa.com/releases/643 (NACS adapter and Supercharger access)\n- https://www.electrive.com/2025/06/19/audi-scraps-ice-phase-out-deadline/\n- https://www.motor1.com/news/764216/audi-last-jd-power-initial-quality-study-2025/\n- https://insideevs.com/news/753393/2025-audi-a6-etron-us-price-range-specs/\n- https://www.audiusa.com/en/inside-audi/innovation/audi-connect/audi-connect-function-on-demand/",
+  createdAt: "2026-05-21T14:00:02.198Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

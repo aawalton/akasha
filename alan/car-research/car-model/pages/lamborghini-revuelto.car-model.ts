@@ -17,4 +17,6 @@ export const lamborghiniRevuelto = {
     "1. https://www.lamborghini.com/en-en/models/revuelto — official\n2. https://en.wikipedia.org/wiki/Lamborghini_Revuelto\n3. https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48581 — EPA MY25\n4. https://www.edmunds.com/lamborghini/revuelto/\n5. https://www.kbb.com/lamborghini/revuelto/2025/specs/",
   exclusionReason: "All years excluded",
   carMake: "car-make/lamborghini",
+  createdAt: "2026-05-21T14:16:12.067Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

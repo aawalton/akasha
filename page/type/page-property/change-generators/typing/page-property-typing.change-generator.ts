@@ -21,4 +21,6 @@ export const pagePropertyTyping = {
       statement: "The files are worked out again only where the change could turn a property.",
     },
   ],
+  createdAt: "2026-09-24T19:45:26.737Z",
+  updatedAt: "2026-09-24T22:19:44.000Z",
 } as const satisfies ChangeGenerator

@@ -17,4 +17,6 @@ export const teslaModel3 = {
     "- https://www.edmunds.com/tesla/model-3/\n- https://cars.usnews.com/cars-trucks/tesla/model-3\n- https://www.basenor.com/blogs/news/tesla-2026-model-3-model-y-lineup-revamped-full-pricing-what-to-do\n- https://en.wikipedia.org/wiki/Tesla_Model_3\n- https://www.iihs.org/ratings/vehicle/tesla/model-3-4-door-sedan/2025\n- https://evchargingstations.com/chargingnews/2026-tesla-model-3-all-versions-compared/",
   exclusionReason: "Tesla / Elon Musk association — personal exclusion",
   carMake: "car-make/tesla",
+  createdAt: "2026-05-21T14:36:42.137Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

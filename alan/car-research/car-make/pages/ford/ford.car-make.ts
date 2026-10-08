@@ -24,4 +24,6 @@ export const ford = {
   sources:
     "- [Ford Motor Company - Wikipedia](https://en.wikipedia.org/wiki/Ford_Motor_Company)\n- [Ford broadens electrification strategy (Aug 2024)](https://www.businesswire.com/news/home/20240821550568/en/Ford-Broadens-Electrification-Strategy-to-Reach-More-Customers-Improve-Profitability-Continue-to-Reduce-CO2)\n- [Ford 8-K FY2025 (SEC)](https://www.sec.gov/Archives/edgar/data/0000037996/000003799625000238/exhibit99todecember15202.htm)\n- [Electrek - Ford Supercharger access](https://electrek.co/2024/02/29/ford-tesla-supercharger-adapter-now-available/)\n- [Ford BlueCruise pricing (Detroit News)](https://www.detroitnews.com/story/business/autos/ford/2024/10/01/ford-cuts-pricing-bluecruise-subscription/75467597007/)\n- [Ford Authority - F-150 Lightning 2026](https://fordauthority.com/2025/10/2026-ford-f-150-lightning-msrp-cut-for-two-trims/)\n- [Ford Authority - Explorer Hybrid discontinuation](https://fordauthority.com/2024/08/heres-why-theres-no-2025-ford-explorer-hybrid/)\n- [IIHS Mach-E TSP+](https://www.iihs.org/ratings/vehicle/ford/mustang-mach-e-4-door-suv/2025)",
   exclusionReason: "American car manufacturer — personal exclusion",
+  createdAt: "2026-05-21T14:07:43.012Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

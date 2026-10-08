@@ -13,4 +13,6 @@ export const volvoXc402026 = {
     "- https://www.volvocars.com/us/cars/xc40/\n- https://www.volvocarsofcary.com/2026-volvo-xc40-vs-2025-volvo-xc40.htm",
   exclusionReason: "All trims excluded",
   carModel: "car-model/volvo-xc40",
+  createdAt: "2026-05-21T14:44:43.808Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

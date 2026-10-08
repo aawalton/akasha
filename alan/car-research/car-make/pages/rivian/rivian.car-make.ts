@@ -24,4 +24,6 @@ export const rivian = {
   sources:
     "- https://rivian.com/why-electric\n- https://rivian.com/connect-plus\n- https://rivian.com/support/article/what-is-connect\n- https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\n- https://rivian.com/legal/subscription\n- https://rivian.com/experience/charging\n- https://rivian.com/newsroom/article/rivian-accelerates-electrification-through-adoption-of-north-american-charging-standard-and-access-to-teslas-supercharger-network\n- https://stories.rivian.com/supercharger-network-access\n- https://rivian.com/support/article/what-charging-networks-are-rivian-vehicles-compatible-with\n- https://rivian.com/autonomy\n- https://rivian.com/r1t\n- https://rivian.com/r1s\n- https://rivian.com/r2\n- https://www.consumerreports.org/cars/rivian/r1s/2025/reliability/\n- https://insideevs.com/news/743627/rivian-reliability-cr-satisfaction/\n- https://www.jdpower.com/cars/2025/rivian/r1s\n- https://www.kbb.com/car-news/nhtsas-new-kill-switch-law-approaches-key-deadline/\n- https://en.wikipedia.org/wiki/Rivian",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:32:59.551Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

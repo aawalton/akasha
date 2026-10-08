@@ -9,4 +9,6 @@ export const bundleDirectory = {
   folderName: "build",
   generated: true,
   types: "ts",
+  createdAt: "2026-09-08T16:55:16.774Z",
+  updatedAt: "2026-09-15T16:02:23.000Z",
 } as const satisfies BuildFolderProperty

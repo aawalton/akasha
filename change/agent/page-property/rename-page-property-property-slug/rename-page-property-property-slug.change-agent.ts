@@ -41,4 +41,6 @@ export const renamePagePropertyPropertySlug = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-08T15:24:07.623Z",
+  updatedAt: "2026-09-22T10:07:38.000Z",
 } as const satisfies ChangeAgent

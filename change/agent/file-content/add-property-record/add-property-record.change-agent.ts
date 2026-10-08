@@ -48,4 +48,6 @@ export const addPropertyRecord = {
   changeKind: "change-kind/change-authored",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
+  createdAt: "2026-09-08T16:42:30.128Z",
+  updatedAt: "2026-09-22T10:07:43.000Z",
 } as const satisfies ChangeAgent

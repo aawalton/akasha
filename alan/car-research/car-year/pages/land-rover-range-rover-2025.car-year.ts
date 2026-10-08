@@ -13,4 +13,6 @@ export const landRoverRangeRover2025 = {
     "- https://www.edmunds.com/land-rover/range-rover/2025/plug-in-hybrid/\n- https://www.edmunds.com/land-rover/range-rover/2025/plug-in-hybrid/features-specs/\n- https://www.greencars.com/expert-insights/2025-land-rover-range-rover-se-phev-review-posh-plug-in",
   exclusionReason: "All trims excluded",
   carModel: "car-model/land-rover-range-rover",
+  createdAt: "2026-05-21T14:19:13.056Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

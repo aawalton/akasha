@@ -52,4 +52,6 @@ export const addPropertyToPages = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-22T00:04:16.345Z",
+  updatedAt: "2026-09-27T15:43:57.000Z",
 } as const satisfies ChangeAgent

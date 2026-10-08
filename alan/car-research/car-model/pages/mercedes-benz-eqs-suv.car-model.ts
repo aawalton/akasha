@@ -17,4 +17,6 @@ export const mercedesBenzEqsSuv = {
     "- https://www.mbusa.com/en/vehicles/class/eqs/suv\n- https://www.kbb.com/mercedes-benz/mercedes-eq-eqs-suv/\n- https://cars.usnews.com/cars-trucks/mercedes-benz/eqs-suv",
   exclusionReason: "All years excluded",
   carMake: "car-make/mercedes-benz",
+  createdAt: "2026-05-21T14:28:11.899Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

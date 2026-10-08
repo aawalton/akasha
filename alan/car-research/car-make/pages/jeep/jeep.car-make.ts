@@ -24,4 +24,6 @@ export const jeep = {
   sources:
     "- https://www.jeep.com/ev.html\n- https://electrek.co/2026/01/09/jeep-wrangler-4xe-dead-all-stellantis-phevs/\n- https://moparinsiders.com/stellantis-confirms-jeep-4xe-phev-program-is-finished/\n- https://electrek.co/2026/04/21/jeep-shelves-ev-us-2026-promises-improvements/\n- https://tflcar.com/2026/01/jeep-wrangler-4xe-grand-cherokee-4xe-scrubbed-news/\n- https://www.jeep.com/wagoneer/wagoneer-s.html\n- https://www.jeep.com/recon.html\n- https://www.driveuconnect.com/\n- https://www.jeep.com/uconnect/connectivity.html\n- https://evchargingstations.com/chargingnews/stellantis-to-gain-supercharger-access/\n- https://www.cbtnews.com/the-kill-switch-mandate-is-real/\n- https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-new-cars-a7824554938/",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:13:13.379Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

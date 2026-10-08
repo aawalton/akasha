@@ -7,4 +7,6 @@ export const stolen = {
   propertySlug: "stolen",
   definition: "whether the game marks an item as stolen goods",
   types: "ts",
+  createdAt: "2026-09-02T04:14:53.315Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies BooleanProperty

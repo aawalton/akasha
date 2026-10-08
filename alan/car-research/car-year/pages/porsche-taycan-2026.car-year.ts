@@ -13,4 +13,6 @@ export const porscheTaycan2026 = {
     "- https://www.porsche.com/usa/models/taycan/\n- https://www.caranddriver.com/porsche/taycan",
   exclusionReason: "All trims excluded",
   carModel: "car-model/porsche-taycan",
+  createdAt: "2026-05-21T14:34:05.855Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

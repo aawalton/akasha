@@ -29,4 +29,6 @@ export const uncommitted = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-29T23:04:47.752Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies BooleanProperty

@@ -7,4 +7,6 @@ export const hasSet = {
   propertySlug: "has-set",
   definition: "whether an item belongs to a set",
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.335Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies BooleanProperty

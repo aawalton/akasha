@@ -13,4 +13,6 @@ export const landRoverRangeRoverSport2026 = {
     "- https://www.edmunds.com/land-rover/range-rover-sport/2026/plug-in-hybrid/\n- https://www.cars.com/research/land_rover-range_rover_sport-2026/\n- https://www.kbb.com/land-rover/range-rover-sport/2026/autobiography-p550e/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/land-rover-range-rover-sport",
+  createdAt: "2026-05-21T14:19:34.016Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -13,4 +13,6 @@ export const mclarenArtura2025 = {
     "- https://www.edmunds.com/mclaren/artura/2025/features-specs/\n- https://www.cars.com/research/mclaren-artura-2025/\n- https://carbuzz.com/cars/mclaren/artura/2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mclaren-artura",
+  createdAt: "2026-05-21T14:24:43.111Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

@@ -13,4 +13,6 @@ export const bentleyFlyingSpur2025 = {
     "- https://carbuzz.com/cars/bentley/flying-spur-speed/2025/\n- https://www.bentleyofranchomirage.com/2025-bentley-flying-spur-speed\n- https://www.kbb.com/bentley/flying-spur/2025/speed/\n- https://www.edmunds.com/bentley/flying-spur/2025/features-specs/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bentley-flying-spur",
+  createdAt: "2026-05-21T14:01:50.524Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

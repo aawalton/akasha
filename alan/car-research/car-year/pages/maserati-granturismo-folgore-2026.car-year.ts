@@ -13,4 +13,6 @@ export const maseratiGranturismoFolgore2026 = {
     "- [Maserati US — GranTurismo Folgore](https://www.maserati.com/us/en/models/granturismo/granturismo-folgore)\n- [TrueCar — 2026 GranTurismo Folgore](https://www.truecar.com/overview/maserati/granturismo-folgore/2026/)\n- [Stellantis — Tesla Supercharger access (2026-03-19)](https://www.prnewswire.com/news-releases/stellantis-expands-north-america-fast-charging-access-as-dodge-jeep-ram-fiat-and-maserati-bevs-plug-in-to-the-tesla-supercharger-network-302718753.html)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/maserati-granturismo-folgore",
+  createdAt: "2026-05-21T14:26:09.316Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

@@ -12,4 +12,6 @@ export const skillBarIdsKeeping = {
       statement: "The type is written by a machine from the skill bar pages.",
     },
   ],
+  createdAt: "2026-09-27T01:58:47.373Z",
+  updatedAt: "2026-09-27T01:58:51.000Z",
 } as const satisfies ChangeGenerator

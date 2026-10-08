@@ -13,4 +13,6 @@ export const bmwI72025 = {
     "- US News 2025 i7 — https://cars.usnews.com/cars-trucks/bmw/i7\n- Mountain View BMW trim comparison — https://www.bmwofmountainview.com/research/2025-bmw-i7-trim-levels.htm",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bmw-i7",
+  createdAt: "2026-05-21T14:06:57.386Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

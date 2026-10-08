@@ -13,4 +13,6 @@ export const mazdaCx70Phev2025 = {
     "- Mazda USA CX-70 PHEV: https://www.mazdausa.com/vehicles/cx-70-phev\n- Cars.com 2025: https://www.cars.com/research/mazda-cx_70_phev-2025/\n- Consumer Reports recall coverage: https://www.consumerreports.org/cars/car-recalls-defects/mazda-cx-90-and-cx-70-recalled-for-software-related-problems-a4795490684/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mazda-cx-70-phev",
+  createdAt: "2026-05-21T14:25:42.430Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

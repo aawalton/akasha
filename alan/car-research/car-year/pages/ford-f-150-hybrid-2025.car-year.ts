@@ -12,4 +12,6 @@ export const fordF150Hybrid2025 = {
   sources: "- [Ford.com 2025 F-150](https://www.ford.com/trucks/f150/2025/)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/ford-f-150-hybrid",
+  createdAt: "2026-05-21T14:09:48.118Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

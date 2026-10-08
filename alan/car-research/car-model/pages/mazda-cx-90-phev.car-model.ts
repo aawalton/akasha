@@ -17,4 +17,6 @@ export const mazdaCx90Phev = {
     "- Mazda USA CX-90 PHEV: https://www.mazdausa.com/vehicles/cx-90-phev\n- Mazda USA news (2026 pricing): https://news.mazdausa.com/2025-09-04-2026-Mazda-CX-90-Pricing-and-Packaging\n- Edmunds: https://www.edmunds.com/mazda/cx-90/2026/plug-in-hybrid/\n- US News: https://cars.usnews.com/cars-trucks/mazda/cx-90-phev",
   exclusionReason: "All years excluded",
   carMake: "car-make/mazda",
+  createdAt: "2026-05-21T14:24:27.675Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

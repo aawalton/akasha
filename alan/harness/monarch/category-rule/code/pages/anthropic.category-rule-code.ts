@@ -10,4 +10,6 @@ export const anthropic = {
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
   category: "monarch-category/alans-ai-phd",
+  createdAt: "2026-09-03T03:42:02.447Z",
+  updatedAt: "2026-09-26T15:01:53.000Z",
 } as const satisfies CategoryRuleCode

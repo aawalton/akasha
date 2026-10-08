@@ -12,4 +12,6 @@ export const nissanLeaf2026 = {
   sources:
     "- 2026 LEAF MSRP release: https://usa.nissannews.com/en-US/releases/more-features-more-range-still-under-30k-all-new-2026-nissan-leaf-priced-from-29990-msrp\n- 2026 LEAF press kit: https://usa.nissannews.com/en-US/releases/2026-nissan-leaf-press-kit\n- Nissan USA: https://www.nissanusa.com/vehicles/electric-cars/leaf/specs-trims.html\n- Edmunds: https://www.edmunds.com/nissan/leaf/\n- Autoblog: https://www.autoblog.com/cars/nissan/leaf/2026",
   carModel: "car-model/nissan-leaf",
+  createdAt: "2026-05-21T14:31:10.395Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

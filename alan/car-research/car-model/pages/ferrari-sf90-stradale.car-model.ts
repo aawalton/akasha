@@ -17,4 +17,6 @@ export const ferrariSf90Stradale = {
     "- https://www.ferrari.com/en-EN/auto/sf90-stradale\n- https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale\n- https://autos.yahoo.com/ferrari-sf90-stradale-production-ends-183000700.html",
   exclusionReason: "All years excluded",
   carMake: "car-make/ferrari",
+  createdAt: "2026-05-21T14:04:46.969Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

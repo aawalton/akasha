@@ -13,4 +13,6 @@ export const bmwX32026 = {
     "- BMW Blog 2026 X3 30e review — https://www.bmwblog.com/2026/03/17/2026-bmw-x3-xdrive30e-phev-review/\n- BMW Blog X3 30e PHEV US — https://www.bmwblog.com/2025/06/14/bmw-x3-30e-plug-in-hybrid-america/\n- BMW USA X3 — https://www.bmwusa.com/vehicles/x-series/x3/bmw-x3.html",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bmw-x3",
+  createdAt: "2026-05-21T14:15:03.290Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -60,4 +60,6 @@ export const removeUnusedExportKeywords = {
       statement: "A file spelling no `export` is left unread.",
     },
   ],
+  createdAt: "2026-09-12T13:37:01.204Z",
+  updatedAt: "2026-09-25T17:20:42.000Z",
 } as const satisfies ChangeAgent

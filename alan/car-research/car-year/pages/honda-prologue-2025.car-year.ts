@@ -13,4 +13,6 @@ export const hondaPrologue2025 = {
     "- https://www.edmunds.com/honda/prologue/2025/\n- https://electrek.co/2025/03/03/honda-prologue-upgraded-300-mi-range-same-price-2025/\n- https://hondanews.com/en-US/honda-automobiles/releases/release-28556cec8c60d45354dbdd1404014728-building-on-success-2025-honda-prologue-goes-farther",
   exclusionReason: "All trims excluded",
   carModel: "car-model/honda-prologue",
+  createdAt: "2026-05-21T14:12:41.060Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

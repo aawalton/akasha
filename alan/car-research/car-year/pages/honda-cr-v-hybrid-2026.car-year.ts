@@ -13,4 +13,6 @@ export const hondaCrVHybrid2026 = {
     "- https://hondanews.com/en-US/releases/release-0d29cf91ab5515b985a1c286910cc6fb-rugged-electrified-and-refreshed-best-selling-honda-cr-v-gains-new-trailsport-hybrid-trim-and-more-standard-tech-as-2026-lineup-arriving-in-dealers-now\n- https://automobiles.honda.com/cr-v\n- https://www.silkohonda.com/blog/2026-honda-cr-v-hybrid-trim-levels",
   exclusionReason: "All trims excluded",
   carModel: "car-model/honda-cr-v-hybrid",
+  createdAt: "2026-05-21T14:13:36.163Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

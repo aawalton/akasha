@@ -9,4 +9,6 @@ export const digitalPurchaseOther = {
     { key: "merchant", comparison: "is", values: ["digital purchase"] },
     { key: "amount", comparison: "is-not", values: ["-18.26", "-12.88", "-5.36"] },
   ],
+  createdAt: "2026-09-03T03:42:02.448Z",
+  updatedAt: "2026-09-15T16:07:35.000Z",
 } as const satisfies CategoryRuleCode

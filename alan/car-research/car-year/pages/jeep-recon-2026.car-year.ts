@@ -13,4 +13,6 @@ export const jeepRecon2026 = {
     "- https://www.jeep.com/recon.html\n- https://www.edmunds.com/jeep/recon/2026/features-specs/\n- https://carbuzz.com/2026-jeep-recon-specs-pricing/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/jeep-recon",
+  createdAt: "2026-05-21T14:19:57.617Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

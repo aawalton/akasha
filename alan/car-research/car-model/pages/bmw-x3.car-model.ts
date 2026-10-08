@@ -17,4 +17,6 @@ export const bmwX3 = {
     "- BMW USA X3 — https://www.bmwusa.com/vehicles/x-series/x3/bmw-x3.html\n- BMW Blog 2026 X3 30e review — https://www.bmwblog.com/2026/03/17/2026-bmw-x3-xdrive30e-phev-review/\n- topelectricsuv 2025 X3 PHEV miss — https://topelectricsuv.com/news/bmw/2025-bmw-x3-hybrid-details/\n- BMW of Milwaukee FAQ — https://www.bmwofmilwaukeenorth.com/research-hub/2026-bmw-x3-faq/",
   exclusionReason: "All years excluded",
   carMake: "car-make/bmw",
+  createdAt: "2026-05-21T14:02:29.654Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

@@ -40,4 +40,6 @@ export const dockerfileWriting = {
       statement: "An image stating extensions its file is not there for is refused.",
     },
   ],
+  createdAt: "2026-09-03T17:51:28.767Z",
+  updatedAt: "2026-09-24T22:23:15.000Z",
 } as const satisfies ChangeGenerator

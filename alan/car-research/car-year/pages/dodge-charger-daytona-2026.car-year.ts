@@ -13,4 +13,6 @@ export const dodgeChargerDaytona2026 = {
     "- https://moparinsiders.com/2026-dodge-charger-daytona-buyers-guide-trims-pricing-specs-options-and-what-to-buy/\n- https://www.greencars.com/expert-insights/2026-dodge-charger-daytona-muscles-up-the-ev\n- https://www.carsdirect.com/dodge/charger-daytona/2026\n- https://www.kbb.com/dodge/charger-daytona/\n- https://www.edmunds.com/dodge/charger/2026/st-402091876/features-specs/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/dodge-charger-daytona",
+  createdAt: "2026-05-21T14:04:02.679Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

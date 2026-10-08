@@ -13,4 +13,6 @@ export const audiETronGt2026 = {
     "- https://www.edmunds.com/audi/s-e-tron-gt/\n- https://carbuzz.com/cars/audi/rs-e-tron-gt/2026/specs-and-trims/\n- https://www.edmunds.com/audi/rs-e-tron-gt/2026/\n- https://www.kbb.com/audi/rs-e-tron-gt/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/audi-e-tron-gt",
+  createdAt: "2026-05-21T14:16:00.505Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

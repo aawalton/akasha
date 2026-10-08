@@ -13,4 +13,6 @@ export const mercedesBenzEqsSedan2025 = {
     "- https://cars.usnews.com/cars-trucks/mercedes-benz/eqs-sedan\n- https://www.edmunds.com/mercedes-benz/eqs/2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mercedes-benz-eqs-sedan",
+  createdAt: "2026-05-21T14:30:23.515Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

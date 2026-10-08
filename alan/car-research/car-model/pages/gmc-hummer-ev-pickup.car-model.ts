@@ -17,4 +17,6 @@ export const gmcHummerEvPickup = {
     "- https://www.gmc.com/electric/hummer-ev/pickup-truck\n- https://en.wikipedia.org/wiki/GMC_Hummer_EV\n- https://www.edmunds.com/gmc/hummer-ev/\n- https://www.kbb.com/gmc/hummer-ev-pickup/2025/specs/",
   exclusionReason: "All years excluded",
   carMake: "car-make/gmc",
+  createdAt: "2026-05-21T14:09:53.815Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

@@ -17,4 +17,6 @@ export const kiaCarnivalHybrid = {
     "https://www.kia.com/us/en/carnival-mpv-hybrid\nhttps://www.kia.com/us/en/carnival-mpv-hybrid/specs-compare\nhttps://www.edmunds.com/kia/carnival-hybrid/2025/\nhttps://cars.usnews.com/cars-trucks/kia/carnival-hybrid",
   exclusionReason: "All years excluded",
   carMake: "car-make/kia",
+  createdAt: "2026-05-21T14:27:01.695Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

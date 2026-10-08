@@ -24,4 +24,6 @@ export const landRover = {
   sources:
     "- https://www.landroverusa.com/ — official US site, lineup and trim configuration\n- https://www.rangerover.com/en-us/ — Range Rover US site\n- https://media.jaguarlandrover.com/news/2021/02/reimagine-jaguar-land-rover-strategy-real-change — JLR Reimagine strategy press release\n- https://insideevs.com/news/688021/jaguar-access-tesla-supercharging-network/ — JLR NACS adoption\n- https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/ — CR brand reliability ranking\n- https://www.landroverusa.com/ownership/infotainment-systems/pivi-faqs.html — Pivi Pro / InControl FAQ\n- https://www.fueleconomy.gov/ — EPA range and MPG/MPGe ratings\n- https://topelectricsuv.com/news/land-rover/land-rover-defender-electric/ — Defender Electric / Defender Sport timeline",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:18:15.457Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

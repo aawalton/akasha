@@ -16,4 +16,6 @@ export const championStarIdsKeeping = {
       statement: "A star's id is its page's slug.",
     },
   ],
+  createdAt: "2026-09-27T05:15:44.127Z",
+  updatedAt: "2026-09-27T05:15:52.000Z",
 } as const satisfies ChangeGenerator

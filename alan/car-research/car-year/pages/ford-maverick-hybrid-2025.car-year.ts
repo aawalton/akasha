@@ -13,4 +13,6 @@ export const fordMaverickHybrid2025 = {
     "- [Ford.com 2025 Maverick](https://www.ford.com/trucks/maverick/2025/)\n- [Edmunds 2025 Maverick Hybrid](https://www.edmunds.com/ford/maverick/2025/hybrid/)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/ford-maverick-hybrid",
+  createdAt: "2026-05-21T14:10:04.557Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

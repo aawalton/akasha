@@ -13,4 +13,6 @@ export const mclarenW12026 = {
     "- https://cars.mclaren.com/us_en/W1\n- https://en.wikipedia.org/wiki/McLaren_W1\n- https://www.mclarenhouston.com/2026-mclaren-w1",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mclaren-w1",
+  createdAt: "2026-05-21T14:24:52.540Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

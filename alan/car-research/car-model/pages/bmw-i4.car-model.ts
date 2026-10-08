@@ -17,4 +17,6 @@ export const bmwI4 = {
     "- BMW USA — https://www.bmwusa.com/vehicles/bmw-i-series/i4/bmw-i4-gran-coupe.html\n- BMW press 2026 i4 — https://www.press.bmwgroup.com/usa/article/detail/T0453773EN_US/\n- BMW Blog 2026 i4 update — https://www.bmwblog.com/2025/12/11/2026-bmw-i4-power-range-updates/\n- Edmunds 2026 BMW i4 — https://www.edmunds.com/bmw/i4/",
   exclusionReason: "All years excluded",
   carMake: "car-make/bmw",
+  createdAt: "2026-05-21T14:00:41.344Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

@@ -24,4 +24,6 @@ export const ferrari = {
   sources:
     "- https://www.ferrari.com/en-EN/corporate/articles/ferrari-capital-markets-day-2030-strategic-plan\n- https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html\n- https://www.ferrari.com/en-EN/corporate/articles/ferrari-elettrica\n- https://www.ferrari.com/en-EN/auto/myferrari-connect\n- https://en.wikipedia.org/wiki/Ferrari_296\n- https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale\n- https://www.kbb.com/car-news/nhtsas-new-kill-switch-law-approaches-key-deadline/\n- https://jdpower.com/cars/ratings/ferrari",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:03:52.045Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

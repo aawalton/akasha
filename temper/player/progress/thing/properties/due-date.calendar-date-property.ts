@@ -13,4 +13,6 @@ export const dueDate = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-07T00:17:29.392Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies CalendarDateProperty

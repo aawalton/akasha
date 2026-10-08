@@ -82,4 +82,6 @@ export const changeProsePattern = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-13T19:30:53.279Z",
+  updatedAt: "2026-09-22T10:10:15.000Z",
 } as const satisfies ChangeMechanical

@@ -13,4 +13,6 @@ export const bmwM52025 = {
     "- Autoblog 2025 M5 Touring — https://www.autoblog.com/reviews/2025-bmw-m5-touring-wagon-phev-review",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bmw-m5",
+  createdAt: "2026-05-21T14:11:11.701Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

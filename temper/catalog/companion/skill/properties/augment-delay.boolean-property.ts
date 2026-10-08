@@ -7,4 +7,6 @@ export const augmentDelay = {
   propertySlug: "augment-delay",
   definition: "whether a delayed effect waits on its augment",
   types: "ts",
+  createdAt: "2026-09-02T10:04:06.703Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies BooleanProperty

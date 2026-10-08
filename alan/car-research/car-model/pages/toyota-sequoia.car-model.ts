@@ -17,4 +17,6 @@ export const toyotaSequoia = {
     "- https://www.toyota.com/sequoia/\n- https://www.fueleconomy.gov/feg/bymodel/2025_Toyota_Sequoia.shtml",
   exclusionReason: "All years excluded",
   carMake: "car-make/toyota",
+  createdAt: "2026-05-21T14:58:23.781Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

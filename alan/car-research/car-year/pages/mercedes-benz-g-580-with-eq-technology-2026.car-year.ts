@@ -13,4 +13,6 @@ export const mercedesBenzG580WithEqTechnology2026 = {
     "- https://www.mbusa.com/en/vehicles/class/g-class/suv\n- https://www.topspeed.com/mercedes-benz-ambitious-lineup/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mercedes-benz-g-580-with-eq-technology",
+  createdAt: "2026-05-21T14:31:15.948Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

@@ -33,4 +33,6 @@ export const removeExportKeyword = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-12T13:35:11.679Z",
+  updatedAt: "2026-09-22T10:08:09.000Z",
 } as const satisfies ChangeMechanicalFileContent

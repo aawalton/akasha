@@ -7,4 +7,6 @@ export const useAccentColor = {
   propertySlug: "use-accent-color",
   definition: "whether a node is drawn in the accent color rather than the plain one",
   types: "ts",
+  createdAt: "2026-09-02T01:46:29.333Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies BooleanProperty

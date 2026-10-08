@@ -7,4 +7,6 @@ export const date = {
   propertySlug: "date",
   definition: "a record's day",
   types: "ts",
+  createdAt: "2026-09-22T22:43:20.376Z",
+  updatedAt: "2026-09-22T22:44:08.000Z",
 } as const satisfies CalendarDateProperty

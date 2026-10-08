@@ -13,4 +13,6 @@ export const mazdaCx70Phev2026 = {
     "- Mazda USA CX-70 PHEV trims: https://www.mazdausa.com/vehicles/cx-70-phev/compare-vehicle-specs-and-trims\n- US News: https://cars.usnews.com/cars-trucks/mazda/cx-70-phev",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mazda-cx-70-phev",
+  createdAt: "2026-05-21T14:25:47.680Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

@@ -13,4 +13,6 @@ export const mercedesBenzAmgE53Hybrid2025 = {
     "- https://www.mbusa.com/en/vehicles/class/e-class/sedan\n- https://www.thecarconnection.com/cars/mercedes-benz_e-class",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mercedes-benz-amg-e-53-hybrid",
+  createdAt: "2026-05-21T14:31:56.881Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

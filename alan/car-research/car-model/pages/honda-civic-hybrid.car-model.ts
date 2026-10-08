@@ -17,4 +17,6 @@ export const hondaCivicHybrid = {
     "- https://automobiles.honda.com/civic-sedan\n- https://automobiles.honda.com/civic-hatchback\n- https://www.edmunds.com/honda/civic/2025/hybrid/\n- https://www.edmunds.com/honda/civic/2026/hybrid/",
   exclusionReason: "All years excluded",
   carMake: "car-make/honda",
+  createdAt: "2026-05-21T14:11:48.437Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

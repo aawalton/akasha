@@ -9,4 +9,6 @@ export const bunGit = {
   folder: "infrastructure/container-image/dockerfile",
   dockerfile: "dockerfile",
   extensions: "json",
+  createdAt: "2026-09-08T15:14:20.460Z",
+  updatedAt: "2026-09-24T22:19:44.000Z",
 } as const satisfies BuiltImage

@@ -13,4 +13,6 @@ export const kiaSorentoPlugInHybrid2026 = {
     "https://www.kia.com/us/en/sorento-plug-in-hybrid\nhttps://www.kia.com/us/en/sorento-plug-in-hybrid/specs-compare\nhttps://www.cars.com/research/kia-sorento_plug_in_hybrid-2026/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/kia-sorento-plug-in-hybrid",
+  createdAt: "2026-05-21T14:26:07.599Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

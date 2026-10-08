@@ -40,4 +40,6 @@ export const removePropertyRecord = {
   changeKind: "change-kind/change-authored",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
+  createdAt: "2026-09-08T16:51:47.562Z",
+  updatedAt: "2026-09-22T10:08:09.000Z",
 } as const satisfies ChangeAgent

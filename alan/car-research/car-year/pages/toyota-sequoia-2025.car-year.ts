@@ -12,4 +12,6 @@ export const toyotaSequoia2025 = {
   sources: "- https://www.toyota.com/sequoia/2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/toyota-sequoia",
+  createdAt: "2026-05-21T14:58:29.473Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

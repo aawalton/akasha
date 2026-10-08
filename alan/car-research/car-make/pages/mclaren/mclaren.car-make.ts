@@ -24,4 +24,6 @@ export const mclaren = {
   sources:
     "- https://en.wikipedia.org/wiki/McLaren_Group\n- https://en.wikipedia.org/wiki/Mumtalakat_Holding_Company\n- https://www.marketsgroup.org/news/bahrain-assumes-full-ownership-of-mclaren\n- https://cars.mclaren.com/us_en/artura\n- https://cars.mclaren.com/us_en/W1\n- https://www.motor1.com/news/690229/mclaren-boss-supercar-not-electric-2030/\n- https://www.cars.com/research/mclaren-artura/recalls/\n- https://www.mclarenlife.com/threads/reliability-issues-with-my-2025-artura.118924/",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:24:04.889Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

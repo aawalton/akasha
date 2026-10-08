@@ -24,4 +24,6 @@ export const lexus = {
   sources:
     "- Lexus US Pressroom: https://pressroom.lexus.com/\n- Lexus.com: https://www.lexus.com/\n- Toyota Electrification: https://www.toyota.com/usa/electrification/\n- EPA fueleconomy.gov: https://www.fueleconomy.gov/\n- IIHS: https://www.iihs.org/\n- Consumer Reports reliability: https://www.consumerreports.org/cars/\n- DADSS: https://www.dadss.org/",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:17:11.319Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

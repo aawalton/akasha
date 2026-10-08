@@ -63,4 +63,6 @@ export const addFilePropertyExtensions = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-13T20:42:35.132Z",
+  updatedAt: "2026-09-22T13:58:58.000Z",
 } as const satisfies ChangeMechanicalPageType

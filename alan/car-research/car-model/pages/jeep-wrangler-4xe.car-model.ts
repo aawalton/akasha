@@ -17,4 +17,6 @@ export const jeepWrangler4xe = {
     "- https://www.jeep.com/wrangler-4xe.html\n- https://www.edmunds.com/jeep/wrangler-4xe/\n- https://cars.usnews.com/cars-trucks/jeep/wrangler-4xe\n- https://electrek.co/2026/01/09/jeep-wrangler-4xe-dead-all-stellantis-phevs/",
   exclusionReason: "All years excluded",
   carMake: "car-make/jeep",
+  createdAt: "2026-05-21T14:15:17.878Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

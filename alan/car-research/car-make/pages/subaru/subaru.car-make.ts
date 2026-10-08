@@ -24,4 +24,6 @@ export const subaru = {
   shortList: true,
   sources:
     "- Subaru U.S. Media Center: https://media.subaru.com/\n- Subaru USA consumer site: https://www.subaru.com/\n- EPA fueleconomy.gov\n- IIHS: https://www.iihs.org/ratings\n- NHTSA: https://www.nhtsa.gov/\n- Consumer Reports: https://www.consumerreports.org/cars/subaru/\n- InsideEVs: https://insideevs.com/\n- Electrive: https://www.electrive.com/2025/11/12/subaru-deprioritises-electric-models-and-increases-focus-on-hybrids/\n- Recharged (Solterra recall summary): https://recharged.com/articles/subaru-solterra-recalls-list",
+  createdAt: "2026-05-21T14:35:39.532Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

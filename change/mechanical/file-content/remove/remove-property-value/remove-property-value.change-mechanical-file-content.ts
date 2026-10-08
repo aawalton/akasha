@@ -71,4 +71,6 @@ export const removePropertyValue = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-06T15:30:51.454Z",
+  updatedAt: "2026-09-24T15:22:10.000Z",
 } as const satisfies ChangeMechanicalFileContent

@@ -22,4 +22,6 @@ export const gearKindIdsKeeping = {
       statement: "A weight a build may pick is standard, and every other weight is named apart.",
     },
   ],
+  createdAt: "2026-09-27T02:49:05.044Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies ChangeGenerator

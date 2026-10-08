@@ -29,4 +29,6 @@ export const namesAPropertyKey = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T19:10:58.078Z",
+  updatedAt: "2026-09-21T19:11:42.000Z",
 } as const satisfies BooleanProperty

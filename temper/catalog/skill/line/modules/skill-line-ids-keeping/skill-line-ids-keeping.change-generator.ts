@@ -17,4 +17,6 @@ export const skillLineIdsKeeping = {
       statement: "A skill line's id is its page's slug.",
     },
   ],
+  createdAt: "2026-09-26T18:44:08.363Z",
+  updatedAt: "2026-09-26T18:44:36.000Z",
 } as const satisfies ChangeGenerator

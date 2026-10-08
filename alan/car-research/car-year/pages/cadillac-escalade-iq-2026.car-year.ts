@@ -13,4 +13,6 @@ export const cadillacEscaladeIq2026 = {
     "- [GMAuthority 2026 IQ trim revision](https://gmauthority.com/blog/2025/03/2026-cadillac-escalade-iq-gets-revised-trim-level-lineup/)\n- [Cadillac Pasadena Escalade IQ overview](https://www.cadillacpasadena.com/cadillac-research/cadillac-escalade-iq-overview/)\n- [Edmunds Escalade IQ](https://www.edmunds.com/cadillac/escalade-iq/)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/cadillac-escalade-iq",
+  createdAt: "2026-05-21T14:02:14.413Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

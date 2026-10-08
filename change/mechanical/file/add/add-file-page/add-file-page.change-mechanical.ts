@@ -21,4 +21,6 @@ export const addFilePage = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-07T01:23:45.424Z",
+  updatedAt: "2026-09-22T10:09:30.000Z",
 } as const satisfies ChangeMechanical

@@ -64,4 +64,6 @@ export const renameFolderImports = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-11T00:01:26.089Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ChangeAgent

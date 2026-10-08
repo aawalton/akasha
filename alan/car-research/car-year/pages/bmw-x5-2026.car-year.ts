@@ -13,4 +13,6 @@ export const bmwX52026 = {
     "- KBB 2026 X5 50e — https://www.kbb.com/bmw/x5/2026/xdrive50e/\n- Edmunds 2026 X5 PHEV — https://www.edmunds.com/bmw/x5/2026/plug-in-hybrid/\n- BMW Blog X5 50e review — https://www.bmwblog.com/2025/12/07/bmw-x5-xdrive50e-review-range-charging-performance/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bmw-x5",
+  createdAt: "2026-05-21T14:10:17.314Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

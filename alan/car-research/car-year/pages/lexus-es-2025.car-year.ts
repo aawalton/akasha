@@ -12,4 +12,6 @@ export const lexusEs2025 = {
   sources: "- Lexus 2025 ES",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lexus-es",
+  createdAt: "2026-05-21T14:23:04.069Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -13,4 +13,6 @@ export const hondaPrologue2026 = {
     "- https://automobiles.honda.com/prologue\n- https://hondanews.com/en-US/honda-automobiles/releases/release-8fa536ee8b843d5cf766c58616009076-2026-honda-prologue-pricing-and-epa-ratings\n- https://www.edmunds.com/honda/prologue/\n- https://www.autoevolution.com/news/2026-honda-prologue-quietly-receives-7500-price-cut-268331.html",
   exclusionReason: "All trims excluded",
   carModel: "car-model/honda-prologue",
+  createdAt: "2026-05-21T14:12:49.694Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

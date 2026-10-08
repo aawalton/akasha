@@ -17,4 +17,6 @@ export const mercedesBenzSClassPlugInHybrid = {
     "- https://www.mbusa.com/en/vehicles/model/s-class/sedan/s580ev4\n- https://www.edmunds.com/mercedes-benz/s-class/2025/plug-in-hybrid/\n- https://www.edmunds.com/mercedes-benz/s-class/2026/plug-in-hybrid/",
   exclusionReason: "All years excluded",
   carMake: "car-make/mercedes-benz",
+  createdAt: "2026-05-21T14:29:27.889Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

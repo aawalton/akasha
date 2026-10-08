@@ -21,4 +21,6 @@ export const playedPanelDrawing = {
       statement: "A panel page the change adds is drawn in the landing adding that page.",
     },
   ],
+  createdAt: "2026-09-24T19:36:38.689Z",
+  updatedAt: "2026-09-26T17:41:29.000Z",
 } as const satisfies ChangeGenerator

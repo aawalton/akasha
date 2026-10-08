@@ -171,4 +171,6 @@ export const sourceGlobbing = {
       statement: "No file name ending is spelled here.",
     },
   ],
+  createdAt: "2026-09-08T19:51:59.796Z",
+  updatedAt: "2026-09-25T14:22:35.000Z",
 } as const satisfies ChangeGenerator

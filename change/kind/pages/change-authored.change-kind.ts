@@ -14,4 +14,6 @@ export const changeAuthored = {
       statement: "An authored change is refused until its required reading is read.",
     },
   ],
+  createdAt: "2026-09-01T17:08:48.354Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ChangeKind

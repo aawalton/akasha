@@ -7,4 +7,6 @@ export const reconstructed = {
   propertySlug: "reconstructed",
   definition: "whether an item was rebuilt from an antiquity lead",
   types: "ts",
+  createdAt: "2026-09-02T04:14:53.312Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies BooleanProperty

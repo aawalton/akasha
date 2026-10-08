@@ -7,4 +7,6 @@ export const lastSyncedAt = {
   propertySlug: "last-synced-at",
   definition: "the day a collection was last read from its source",
   types: "ts",
+  createdAt: "2026-09-02T20:44:59.872Z",
+  updatedAt: "2026-09-15T16:02:20.000Z",
 } as const satisfies CalendarDateProperty

@@ -17,4 +17,6 @@ export const hyundaiSantaFeHybrid = {
     "- https://www.hyundaiusa.com/us/en/vehicles/santa-fe-hybrid\n- https://www.kbb.com/hyundai/santa-fe-hybrid/\n- https://cars.usnews.com/cars-trucks/hyundai/santa-fe-hybrid",
   exclusionReason: "All years excluded",
   carMake: "car-make/hyundai",
+  createdAt: "2026-05-21T14:12:55.568Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

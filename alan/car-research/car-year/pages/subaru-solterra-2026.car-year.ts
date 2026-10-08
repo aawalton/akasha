@@ -12,4 +12,6 @@ export const subaruSolterra2026 = {
   sources:
     "- https://media.subaru.com/newsrelease.do?id=2376\n- https://www.subaru.com/vehicles/solterra/2026.html\n- https://www.subaru.com/vehicles/solterra/2026/specs-trim.html\n- https://www.greencars.com/expert-insights/2026-subaru-solterra-is-a-strong-value-play",
   carModel: "car-model/subaru-solterra",
+  createdAt: "2026-05-21T14:37:08.211Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

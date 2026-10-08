@@ -7,4 +7,6 @@ export const active = {
   propertySlug: "active",
   definition: "whether a rule is switched on",
   types: "ts",
+  createdAt: "2026-09-02T01:51:17.155Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies BooleanProperty

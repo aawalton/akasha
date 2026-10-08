@@ -13,4 +13,6 @@ export const hyundaiTucsonPlugInHybrid2025 = {
     "- https://www.hyundaiusa.com/us/en/vehicles/tucson-plug-in-hybrid\n- https://www.hyundaiusa.com/us/en/vehicles/2025-tucson-plug-in-hybrid",
   exclusionReason: "All trims excluded",
   carModel: "car-model/hyundai-tucson-plug-in-hybrid",
+  createdAt: "2026-05-21T14:14:29.744Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

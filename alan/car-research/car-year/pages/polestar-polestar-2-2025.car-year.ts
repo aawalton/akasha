@@ -13,4 +13,6 @@ export const polestarPolestar22025 = {
     "- https://carbuzz.com/cars/polestar/2/2025/\n- https://www.edmunds.com/polestar/2/2025/\n- https://www.polestar-forum.com/threads/us-2025-polestar-2-fully-loaded-with-performance-pack-only.15052/\n- https://recharged.com/articles/2025-polestar-2-buying-guide",
   exclusionReason: "All trims excluded",
   carModel: "car-model/polestar-polestar-2",
+  createdAt: "2026-05-21T14:31:53.017Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

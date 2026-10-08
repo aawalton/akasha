@@ -13,4 +13,6 @@ export const cadillacOptiq2026 = {
     "- [Edmunds 2026 Optiq](https://www.edmunds.com/cadillac/optiq/)\n- [Cadillac Laval 2026 Optiq NACS](https://cadillaclaval.com/en/the-2026-cadillac-optiq-nacs)\n- [Recharged 2026 Optiq pricing](https://recharged.com/articles/cadillac-optiq-price)\n- [US News 2026 Optiq](https://cars.usnews.com/cars-trucks/cadillac/optiq)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/cadillac-optiq",
+  createdAt: "2026-05-21T14:02:01.941Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

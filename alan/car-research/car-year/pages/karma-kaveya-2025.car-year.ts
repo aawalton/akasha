@@ -13,4 +13,6 @@ export const karmaKaveya2025 = {
     "- https://www.karmaindianapolis.com/vehicle-details/2025-karma-kaveya-coupe-7350d49cb1fc5a40be6a296be09e60e3\n- https://www.captainelectro.com/cars/karmas-comeback-kid-promises-to-crash-goodwood-with-a-1000-hp-electric-supercar\n- https://www.edmunds.com/karma/kaveya/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/karma-kaveya",
+  createdAt: "2026-05-21T14:14:01.355Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

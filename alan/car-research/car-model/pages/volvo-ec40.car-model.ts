@@ -17,4 +17,6 @@ export const volvoEc40 = {
     "- https://www.kbb.com/volvo/ec40/\n- https://www.volvocars.com/us/media/models/ec40/2025/press-releases/",
   exclusionReason: "All years excluded",
   carMake: "car-make/volvo",
+  createdAt: "2026-05-21T14:42:17.615Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

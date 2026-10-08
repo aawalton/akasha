@@ -17,4 +17,6 @@ export const ferrariSf90Spider = {
     "- https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale\n- https://www.cars.com/research/ferrari-sf90_spider-2025/\n- https://www.jdpower.com/cars/2025/ferrari/sf90-spider",
   exclusionReason: "All years excluded",
   carMake: "car-make/ferrari",
+  createdAt: "2026-05-21T14:04:55.735Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

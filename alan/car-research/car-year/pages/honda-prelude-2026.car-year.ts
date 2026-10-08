@@ -13,4 +13,6 @@ export const hondaPrelude2026 = {
     "- https://automobiles.honda.com/prelude\n- https://www.edmunds.com/honda/prelude/2026/\n- https://hondanews.com/en-US/honda-automobiles/releases/2026-honda-prelude-revealed-iconic-model-returns-with-hybrid-electric-power-type-r-chassis-hardware-and-new-honda-s-shift",
   exclusionReason: "All trims excluded",
   carModel: "car-model/honda-prelude",
+  createdAt: "2026-05-21T14:13:44.230Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -13,4 +13,6 @@ export const audiA32026 = {
     "- https://www.audielkgrove.com/en/2026-audi-a3-trim-levels/\n- https://www.audinwindiana.com/en/research/a3-trims/\n- https://www.kbb.com/audi/a3/2026/specs/\n- https://www.edmunds.com/audi/a3/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/audi-a3",
+  createdAt: "2026-05-21T14:01:36.180Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

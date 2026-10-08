@@ -13,4 +13,6 @@ export const mercedesBenzAmgSl63SEPerformance2026 = {
     "- https://www.cars.com/articles/the-2026-mercedes-amg-sl63-s-e-performance-is-a-stunningly-powerful-droptop-review-518315/\n- https://www.mbusa.com/en/vehicles/model/sl/roadster/sl63er4",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mercedes-benz-amg-sl-63-s-e-performance",
+  createdAt: "2026-05-21T14:41:56.587Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

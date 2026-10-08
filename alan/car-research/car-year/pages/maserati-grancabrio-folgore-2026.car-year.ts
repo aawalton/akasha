@@ -13,4 +13,6 @@ export const maseratiGrancabrioFolgore2026 = {
     "- [Maserati US — GranCabrio Folgore](https://www.maserati.com/us/en/models/grancabrio/grancabrio-folgore)\n- [Autocar — 2026 GranCabrio Folgore review](https://www.autocar.co.uk/car-review/maserati/grancabrio-folgore)\n- [Stellantis — Tesla Supercharger access (2026-03-19)](https://www.prnewswire.com/news-releases/stellantis-expands-north-america-fast-charging-access-as-dodge-jeep-ram-fiat-and-maserati-bevs-plug-in-to-the-tesla-supercharger-network-302718753.html)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/maserati-grancabrio-folgore",
+  createdAt: "2026-05-21T14:26:19.438Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

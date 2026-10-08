@@ -17,4 +17,6 @@ export const rollsRoyceSpectre = {
     "- https://www.rolls-roycemotorcars.com/en_US/showroom/spectre.html\n- https://www.kbb.com/rolls-royce/spectre/\n- https://www.edmunds.com/rolls-royce/spectre/2025/\n- https://www.cars.com/research/rolls_royce-spectre-2025/specs/\n- https://insideevs.com/news/701477/2024-rolls-royce-spectre-epa-range/\n- https://insideevs.com/news/751063/rolls-royce-spectre-black-badge/\n- https://ev-database.org/car/1765/Rolls-Royce-Spectre",
   exclusionReason: "All years excluded",
   carMake: "car-make/rolls-royce",
+  createdAt: "2026-05-21T14:35:34.126Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

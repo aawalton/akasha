@@ -17,4 +17,6 @@ export const kiaSorentoHybrid = {
     "https://www.kia.com/us/en/sorento-hybrid\nhttps://www.kia.com/us/en/sorento-hybrid/specs-compare\nhttps://www.kbb.com/kia/sorento-hybrid/\nhttps://www.kiamedia.com/us/en/media/pressreleases/23688/kia-announces-pricing-for-2026-sorento-hev",
   exclusionReason: "All years excluded",
   carMake: "car-make/kia",
+  createdAt: "2026-05-21T14:24:50.785Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

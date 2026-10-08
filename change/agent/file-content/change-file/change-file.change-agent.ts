@@ -73,4 +73,6 @@ export const changeFile = {
   changeKind: "change-kind/change-authored",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
+  createdAt: "2026-09-06T18:55:34.461Z",
+  updatedAt: "2026-09-24T15:54:16.000Z",
 } as const satisfies ChangeAgent

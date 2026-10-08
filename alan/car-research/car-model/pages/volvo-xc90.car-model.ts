@@ -17,4 +17,6 @@ export const volvoXc90 = {
     "- https://www.volvocars.com/us/cars/xc90/\n- https://www.volvocars.com/us/cars/xc90-hybrid/\n- https://www.edmunds.com/volvo/xc90/2026/plug-in-hybrid/",
   exclusionReason: "All years excluded",
   carMake: "car-make/volvo",
+  createdAt: "2026-05-21T14:42:48.242Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

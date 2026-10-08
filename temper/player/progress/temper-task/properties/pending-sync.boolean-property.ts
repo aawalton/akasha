@@ -14,4 +14,6 @@ export const pendingSync = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-04T17:44:19.490Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies BooleanProperty

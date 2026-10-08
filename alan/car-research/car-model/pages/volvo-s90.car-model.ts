@@ -17,4 +17,6 @@ export const volvoS90 = {
     "- https://carbuzz.com/cars/volvo/s90/2025/\n- https://www.kbb.com/volvo/s90/2025/specs/\n- https://www.edmunds.com/volvo/s90/",
   exclusionReason: "All years excluded",
   carMake: "car-make/volvo",
+  createdAt: "2026-05-21T14:43:22.070Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

@@ -48,4 +48,6 @@ export const addImage = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
+  createdAt: "2026-09-25T13:09:13.570Z",
+  updatedAt: "2026-09-25T13:09:48.000Z",
 } as const satisfies ChangeAgent

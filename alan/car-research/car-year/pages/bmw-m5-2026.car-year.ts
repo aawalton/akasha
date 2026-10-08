@@ -13,4 +13,6 @@ export const bmwM52026 = {
     "- BMW Blog 2026 M5 — https://www.bmwblog.com/2025/10/04/bmw-m5-2026-specs-pricing/\n- Edmunds 2026 M5 — https://www.edmunds.com/bmw/m5/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bmw-m5",
+  createdAt: "2026-05-21T14:11:16.689Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -16,4 +16,6 @@ export const roleIdsKeeping = {
       statement: "A character role's id is its page's slug.",
     },
   ],
+  createdAt: "2026-09-27T01:49:16.667Z",
+  updatedAt: "2026-09-27T01:49:21.000Z",
 } as const satisfies ChangeGenerator

@@ -24,4 +24,6 @@ export const mazda = {
   sources:
     "- Mazda USA News (corporate): https://news.mazdausa.com/\n- Mazda Global Newsroom: https://newsroom.mazda.com/en/\n- IIHS ratings hub: https://www.iihs.org/\n- Consumer Reports brand reliability: https://www.consumerreports.org/\n- InsideEVs Mazda coverage: https://insideevs.com/news/623055/mazda-full-scale-launch-bevs-2028-2030/\n- Electrek NACS coverage: https://electrek.co/2024/01/16/mazda-nacs-adoption-tesla-superchargers/\n- The Drive (DRM history): https://www.thedrive.com/news/mazda-quietly-ditched-key-fob-remote-start-for-subscription-app\n- Carscoops (subscription history): https://www.carscoops.com/2024/09/mazdas-remote-start-subscription-draws-ire-of-noted-right-to-repair-advocate/\n- Consumer Rights Wiki: https://consumerrights.wiki/w/Mazda_remote-start_subscription",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:24:12.088Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

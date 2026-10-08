@@ -17,4 +17,6 @@ export const vinfastVf7 = {
     "https://vinfastauto.us/vehicles/vf-7 https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2025&year2=2026&make=Vinfast https://greencarscompare.com/car/vinfast-vf-7-plus/ https://greencarscompare.com/car/vinfast-vf-7-eco/",
   exclusionReason: "No US dealer/service network — no Utah presence",
   carMake: "car-make/vinfast",
+  createdAt: "2026-05-21T14:39:50.132Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

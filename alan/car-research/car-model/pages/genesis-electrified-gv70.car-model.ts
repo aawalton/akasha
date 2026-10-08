@@ -17,4 +17,6 @@ export const genesisElectrifiedGv70 = {
     "- [Genesis USA — Electrified GV70](https://www.genesis.com/us/en/electrified-gv70)\n- [Edmunds Electrified GV70](https://www.edmunds.com/genesis/electrified-gv70/)\n- [KBB 2025 Electrified GV70](https://www.kbb.com/genesis/electrified-gv70/2025/specs/)\n- [Electrek — IRA tax credit eligibility](https://electrek.co/2025/01/02/hyundai-kia-evs-qualify-7500-tax-credit-first-time/)\n- [CarBuzz 2025 Electrified GV70](https://carbuzz.com/cars/genesis/electrified-gv70/2025/specs-and-trims/)",
   exclusionReason: "All years excluded",
   carMake: "car-make/genesis",
+  createdAt: "2026-05-21T14:07:39.366Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

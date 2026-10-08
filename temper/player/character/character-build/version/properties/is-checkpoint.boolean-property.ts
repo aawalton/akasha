@@ -7,4 +7,6 @@ export const isCheckpoint = {
   propertySlug: "is-checkpoint",
   definition: "whether a version was kept on purpose rather than taken as the build changed",
   types: "ts",
+  createdAt: "2026-09-03T17:42:35.690Z",
+  updatedAt: "2026-09-25T12:44:26.000Z",
 } as const satisfies BooleanProperty

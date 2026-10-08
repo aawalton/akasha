@@ -13,4 +13,6 @@ export const mercedesBenzEqeSuv2025 = {
     "- https://www.edmunds.com/mercedes-benz/eqe-suv/2025/\n- https://carbuzz.com/cars/mercedes-benz/eqe-suv/2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mercedes-benz-eqe-suv",
+  createdAt: "2026-05-21T14:30:45.555Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

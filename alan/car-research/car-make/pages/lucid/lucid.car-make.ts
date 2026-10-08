@@ -25,4 +25,6 @@ export const lucid = {
   sources:
     "- Lucid Air official: https://lucidmotors.com/air\n- Lucid Gravity official: https://lucidmotors.com/gravity\n- Lucid Investor Relations: https://ir.lucidmotors.com/\n- Wikipedia: https://en.wikipedia.org/wiki/Lucid_Motors\n- NACS adoption announcement: https://lucidmotors.com/stories/lucid-adopt-nacs\n- 2026 Supercharger access: https://lucidmotors.com/stories/2026-lucid-air-tesla-superchargers\n- Air 2026 review (Car and Driver): https://www.caranddriver.com/lucid/air\n- Gravity 2026 review (U.S. News): https://cars.usnews.com/cars-trucks/lucid/gravity",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:21:59.641Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

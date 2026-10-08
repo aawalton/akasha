@@ -13,4 +13,6 @@ export const jeepGrandCherokee4xe2025 = {
     "- https://www.jeep.com/grand-cherokee-4xe.html\n- https://cars.usnews.com/cars-trucks/jeep/grand-cherokee-4xe\n- https://www.cars.com/research/jeep-grand_cherokee_4xe-2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/jeep-grand-cherokee-4xe",
+  createdAt: "2026-05-21T14:17:49.412Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

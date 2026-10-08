@@ -17,4 +17,6 @@ export const jeepRecon = {
     "- https://www.jeep.com/recon.html\n- https://www.edmunds.com/jeep/recon/\n- https://carbuzz.com/2026-jeep-recon-specs-pricing/\n- https://www.greencars.com/expert-insights/2026-jeep-recon-review-electric-and-ready-for-the-wild\n- https://expeditionportal.com/jeep-recon-ev-production-delayed-to-mid-2026/",
   exclusionReason: "All years excluded",
   carMake: "car-make/jeep",
+  createdAt: "2026-05-21T14:19:47.805Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

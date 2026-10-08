@@ -16,4 +16,6 @@ export const targetTypeIdsKeeping = {
       statement: "A target type's id is its page's slug.",
     },
   ],
+  createdAt: "2026-09-27T02:35:55.817Z",
+  updatedAt: "2026-09-27T02:35:59.000Z",
 } as const satisfies ChangeGenerator

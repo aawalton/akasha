@@ -24,4 +24,6 @@ export const honda = {
   sources:
     "- https://hondanews.com/en-US/honda-corporate/releases/release-32797eaea7316f1bed4bfcd27919f703-honda-targets-100-ev-sales-in-north-america-by-2040-makes-new-commitments-to-advances-in-environmental-and-safety-technology\n- https://global.honda/en/newsroom/news/2024/c240516eng.html\n- https://hondanews.com/en-US/honda-automobiles/releases/honda-to-focus-on-increasing-hybrid-volume-with-core-models-cr-v-accord-and-in-the-future-civic\n- https://hondanews.com/en-US/electrification/releases/honda-and-acura-ev-owners-now-have-access-to-tesla-supercharger-network-with-approved-adapters\n- https://tflcar.com/2025/07/honda-acura-nacs-adapter-supercharger-network-update/\n- https://hondanews.com/en-US/honda-automobiles/releases/release-8fa536ee8b843d5cf766c58616009076-2026-honda-prologue-pricing-and-epa-ratings\n- https://www.jdpower.com/cars/shopping-guides/what-is-hondalink-what-hondalink-plans-are-available\n- https://www.kbb.com/car-news/nhtsas-new-kill-switch-law-approaches-key-deadline/\n- https://www.consumerreports.org/cars/honda/civic/2025/reliability/\n- https://en.wikipedia.org/wiki/Honda_Prologue",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:11:05.777Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

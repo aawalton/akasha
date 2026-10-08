@@ -17,4 +17,6 @@ export const audiSq6ETron = {
     "- https://www.audiusa.com/en/models/q6-e-tron/sq6-e-tron/2025/overview/\n- https://media.audiusa.com/models/sq6-e-tron\n- https://www.greencars.com/expert-insights/2025-audi-sq6-e-tron-review-a-stealthy-take-on-ev-performance\n- https://media.audiusa.com/releases/643",
   exclusionReason: "All years excluded",
   carMake: "car-make/audi",
+  createdAt: "2026-05-21T14:08:14.857Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

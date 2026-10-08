@@ -7,4 +7,6 @@ export const allowsLegendary = {
   propertySlug: "allows-legendary",
   definition: "whether a companion may wear legendary quality in a place",
   types: "ts",
+  createdAt: "2026-09-26T20:09:23.378Z",
+  updatedAt: "2026-09-26T20:09:32.000Z",
 } as const satisfies BooleanProperty

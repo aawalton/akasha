@@ -17,4 +17,6 @@ export const fordF150Lightning = {
     "- [Ford.com F-150 Lightning](https://www.ford.com/trucks/f150-lightning/)\n- [Edmunds F-150 Lightning](https://www.edmunds.com/ford/f-150-lightning/)\n- [Ford Authority - Lightning production halt](https://ev.com/news/ford-f-150-lightning-production-halted-indefinitely-after-supplier-fire)\n- [KBB F-150 Lightning 2025](https://www.kbb.com/ford/f150-lightning/2025/specs/)",
   exclusionReason: "All years excluded",
   carMake: "car-make/ford",
+  createdAt: "2026-05-21T14:08:16.842Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

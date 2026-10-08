@@ -24,4 +24,6 @@ export const porsche = {
   sources:
     "- https://www.porsche.com/usa/ — manufacturer US site (specs, MSRPs, trim availability)\n- https://www.fueleconomy.gov/ — EPA range, MPGe (e.g., https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47384 for Taycan)\n- https://www.iihs.org/ratings — IIHS safety ratings\n- https://www.nhtsa.gov/ — NHTSA safety ratings and IIJA mandate\n- https://www.caranddriver.com/porsche — reviews and real-world data\n- https://insideevs.com/ — BEV technical detail and NACS coverage\n- https://www.consumerreports.org/cars/porsche/ — reliability and ownership data\n- https://www.jdpower.com/cars/porsche — dependability rankings",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:30:24.265Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

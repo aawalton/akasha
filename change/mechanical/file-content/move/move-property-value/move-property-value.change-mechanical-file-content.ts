@@ -128,4 +128,6 @@ export const movePropertyValue = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-08T16:38:48.026Z",
+  updatedAt: "2026-09-29T02:15:26.000Z",
 } as const satisfies ChangeMechanicalFileContent

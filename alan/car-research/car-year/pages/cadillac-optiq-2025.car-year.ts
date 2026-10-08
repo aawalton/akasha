@@ -13,4 +13,6 @@ export const cadillacOptiq2025 = {
     "- [Edmunds 2025 Optiq](https://www.edmunds.com/cadillac/optiq/2025/)\n- [CarGurus 2025 Optiq](https://www.cargurus.com/research/articles/2025-cadillac-optiq-pricing-specs-release-date)\n- [CarBuzz 2025 Optiq specs](https://carbuzz.com/cars/cadillac/optiq/2025/specs-and-trims/)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/cadillac-optiq",
+  createdAt: "2026-05-21T14:01:53.958Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

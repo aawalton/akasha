@@ -13,4 +13,6 @@ export const mazdaCx50Hybrid2026 = {
     "- Mazda USA 2026 pricing news: https://news.mazdausa.com/2025-09-16-2026-Mazda-CX-50-Pricing-and-Packaging\n- Mazda USA CX-50 Hybrid: https://www.mazdausa.com/vehicles/cx-50-hybrid\n- Edmunds 2026 Hybrid: https://www.edmunds.com/mazda/cx-50/2026/hybrid/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mazda-cx-50-hybrid",
+  createdAt: "2026-05-21T14:26:12.174Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

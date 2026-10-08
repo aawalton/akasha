@@ -13,4 +13,6 @@ export const pvp = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T22:41:40.265Z",
+  updatedAt: "2026-09-21T22:42:20.000Z",
 } as const satisfies BooleanProperty

@@ -7,4 +7,6 @@ export const startDate = {
   propertySlug: "start-date",
   definition: "the day a life theme was taken up",
   types: "ts",
+  createdAt: "2026-09-03T04:10:11.520Z",
+  updatedAt: "2026-09-15T16:02:20.000Z",
 } as const satisfies CalendarDateProperty

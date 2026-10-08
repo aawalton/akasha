@@ -24,4 +24,6 @@ export const tesla = {
   sources:
     "- https://en.wikipedia.org/wiki/Tesla,_Inc.\n- https://www.britannica.com/money/Tesla-Motors\n- https://www.tesla.com/IRA\n- https://en.wikipedia.org/wiki/North_American_Charging_Standard\n- https://www.batterytechonline.com/charging/these-11-ev-makers-charging-networks-will-use-tesla-nacs-connector\n- https://www.notateslaapp.com/tesla-reference/1040/tesla-acceleration-boost-a-complete-guide\n- https://insideevs.com/news/784386/tesla-fsd-subscription-only-2026/\n- https://www.notateslaapp.com/tesla-reference/551/what-is-tesla-premium-connectivity-what-is-included-and-what-is-not-how-much-does-it-cost\n- https://insideevs.com/news/399152/tesla-disable-fast-charging-salvage/\n- https://electrek.co/2020/02/12/tesla-disables-supercharging-salvaged-vehicles/\n- https://temai.tech/blogs/temai-blogs/the-truth-about-the-tesla-interior-camera\n- https://www.teslarati.com/tesla-dms-camera-denial-death/\n- https://www.kbb.com/car-news/nhtsas-new-kill-switch-law-approaches-key-deadline/\n- https://blog.cariqreport.com/tesla-reliability/",
   exclusionReason: "Tesla / Elon Musk association — personal exclusion",
+  createdAt: "2026-05-21T14:36:25.573Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

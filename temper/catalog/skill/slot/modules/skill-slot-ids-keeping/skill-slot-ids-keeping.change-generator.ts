@@ -16,4 +16,6 @@ export const skillSlotIdsKeeping = {
       statement: "A skill slot's id is its page's slug.",
     },
   ],
+  createdAt: "2026-09-27T02:47:03.387Z",
+  updatedAt: "2026-09-27T02:47:07.000Z",
 } as const satisfies ChangeGenerator

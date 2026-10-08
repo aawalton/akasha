@@ -65,4 +65,6 @@ export const movePropertyValue = {
   changeKind: "change-kind/change-authored",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
+  createdAt: "2026-09-12T10:21:49.743Z",
+  updatedAt: "2026-09-29T02:24:41.000Z",
 } as const satisfies ChangeAgent

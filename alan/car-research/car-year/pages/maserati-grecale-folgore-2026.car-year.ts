@@ -13,4 +13,6 @@ export const maseratiGrecaleFolgore2026 = {
     "- [Maserati US — Grecale Folgore](https://www.maserati.com/us/en/models/grecale/grecale-folgore)\n- [Maserati — Grecale Folgore MY26 stories of audacity](https://www.maserati.com/global/en/brand/stories-of-audacity/grecale-folgore-model-year-2026-updates)\n- [Stellantis Media — Grecale Folgore MY26](https://www.media.stellantis.com/em-en/maserati/press/maserati-grecale-folgore-model-year-2026)\n- [Cars.com — 2026 Grecale Folgore](https://www.cars.com/research/maserati-grecale_folgore-2026/)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/maserati-grecale-folgore",
+  createdAt: "2026-05-21T14:26:35.768Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

@@ -17,4 +17,6 @@ export const jeepWagoneerS = {
     "- https://www.jeep.com/wagoneer/wagoneer-s.html\n- https://www.jeep.com/wagoneer/wagoneer-s/specs.html\n- https://www.edmunds.com/jeep/wagoneer-s/\n- https://www.kbb.com/jeep/wagoneer-s/2025/specs/\n- https://electrek.co/2026/04/21/jeep-shelves-ev-us-2026-promises-improvements/",
   exclusionReason: "All years excluded",
   carMake: "car-make/jeep",
+  createdAt: "2026-05-21T14:13:26.978Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

@@ -43,4 +43,6 @@ export const appendLinesFrom = {
   changeKind: "change-kind/change-authored",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
+  createdAt: "2026-09-12T00:44:49.728Z",
+  updatedAt: "2026-09-30T11:39:36.000Z",
 } as const satisfies ChangeAgent

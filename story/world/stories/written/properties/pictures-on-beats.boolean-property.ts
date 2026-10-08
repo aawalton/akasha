@@ -31,4 +31,6 @@ export const picturesOnBeats = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-04T09:19:44.832Z",
+  updatedAt: "2026-10-04T09:19:52.000Z",
 } as const satisfies BooleanProperty

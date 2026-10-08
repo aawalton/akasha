@@ -24,4 +24,6 @@ export const mercedesBenz = {
   sources:
     "- https://www.mbusa.com/en/all-vehicles\n- https://www.mbusa.com/en/future-vehicles\n- https://www.mbusa.com/en/charge/nacs-charging\n- https://media.mbusa.com/releases/mercedes-benz-bev-drivers-gain-access-to-tesla-supercharger-network-from-february-2025\n- https://electrek.co/2024/02/22/mercedes-backtracks-ev-plans-gas-cars-2030s/\n- https://www.motorauthority.com/news/1142387_mercedes-benz-backtracks-on-plan-to-go-full-electric-by-2030\n- https://www.techdirt.com/2022/11/28/mercedes-puts-faster-acceleration-behind-a-subscription-paywall/\n- https://www.consumerreports.org/cars/mercedes-benz/eqs/2025/reliability/\n- https://www.jdpower.com/cars/ratings/mercedes-benz",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:27:46.139Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

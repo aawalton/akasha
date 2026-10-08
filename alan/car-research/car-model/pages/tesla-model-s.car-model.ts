@@ -17,4 +17,6 @@ export const teslaModelS = {
     "- https://cars.usnews.com/cars-trucks/tesla/model-s\n- https://www.kbb.com/tesla/model-s/2026/specs/\n- https://www.edmunds.com/tesla/model-s/2025/features-specs/\n- https://www.evspecifications.com/en/model/d1e23e6\n- https://ev-database.org/car/1405/Tesla-Model-S-Plaid",
   exclusionReason: "All years excluded",
   carMake: "car-make/tesla",
+  createdAt: "2026-05-21T14:37:03.216Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

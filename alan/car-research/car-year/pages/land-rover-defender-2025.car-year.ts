@@ -13,4 +13,6 @@ export const landRoverDefender2025 = {
     "- https://www.edmunds.com/land-rover/defender/2025/90/\n- https://www.landroverwesthouston.com/research/2025-defender-110-trim-levels.htm\n- https://www.landroverbethesda.com/research/2025-defender-90-trim-levels.htm\n- https://www.landroverbethesda.com/research/2025-defender-130-trim-levels.htm",
   exclusionReason: "All trims excluded",
   carModel: "car-model/land-rover-defender",
+  createdAt: "2026-05-21T14:19:41.450Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

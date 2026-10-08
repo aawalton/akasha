@@ -7,4 +7,6 @@ export const fitnessCoachingNoteDate = {
   propertySlug: "date",
   definition: "the day a note was taken",
   types: "ts",
+  createdAt: "2026-09-08T14:36:00.344Z",
+  updatedAt: "2026-09-15T16:02:20.000Z",
 } as const satisfies CalendarDateProperty

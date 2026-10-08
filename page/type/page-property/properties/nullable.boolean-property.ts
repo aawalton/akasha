@@ -21,4 +21,6 @@ export const nullable = {
       statement: "Stating nothing and leaving the key out are two facts.",
     },
   ],
+  createdAt: "2026-09-10T22:29:32.387Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies BooleanProperty

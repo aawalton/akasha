@@ -12,4 +12,6 @@ export const lexusNx2026 = {
   sources: "- Lexus 2026 NX: https://www.lexus.com/models/NX",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lexus-nx",
+  createdAt: "2026-05-21T14:20:53.118Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -17,4 +17,6 @@ export const renameLocalVariable = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-06T14:21:48.341Z",
+  updatedAt: "2026-09-22T10:19:56.000Z",
 } as const satisfies ChangeMechanicalFileContent

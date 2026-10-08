@@ -36,4 +36,6 @@ export const unquoteTextOnEveryPage = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-27T06:24:32.270Z",
+  updatedAt: "2026-09-27T06:25:17.000Z",
 } as const satisfies ChangeAgent

@@ -7,4 +7,6 @@ export const wornGear = {
   propertySlug: "worn-gear",
   definition: "whether a source category holds the gear a character or companion wears",
   types: "ts",
+  createdAt: "2026-09-26T20:30:04.078Z",
+  updatedAt: "2026-09-26T20:30:13.000Z",
 } as const satisfies BooleanProperty

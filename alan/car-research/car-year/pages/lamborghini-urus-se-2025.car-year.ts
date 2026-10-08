@@ -13,4 +13,6 @@ export const lamborghiniUrusSe2025 = {
     "1. https://www.lamborghini.com/en-en/models/urus/urus-se\n2. https://www.automotiveworld.com/news-releases/lamborghini-urus-se-makes-u-s-premiere-in-new-york/\n3. https://www.thedrive.com/car-reviews/2025-lamborghini-urus-se-review\n4. https://www.lamborghinihouston.com/2025-lamborghini-urus-se\n5. https://www.hotcars.com/2025-lamborghini-urus-se-review/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lamborghini-urus-se",
+  createdAt: "2026-05-21T14:17:08.302Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -17,4 +17,6 @@ export const lotusEletre = {
     "- [Lotus Cars US — Eletre](https://www.lotuscars.com/en-US/eletre)\n- [Electrek — 2026 trim revamp](https://electrek.co/2025/04/02/lotus-revamps-2026-emeya-eletre-evs-dozen-new-trims-standard-features/)\n- [Edmunds — 2025 Eletre US pricing announced](https://www.edmunds.com/car-news/2025-lotus-eletre-pricing-announced.html)\n- [CarBuzz — 2025 Eletre specs](https://carbuzz.com/cars/lotus/eletre/2025/)\n- [EV Database — Lotus Eletre](https://ev-database.org/car/1767/Lotus-Eletre)",
   exclusionReason: "All years excluded",
   carMake: "car-make/lotus",
+  createdAt: "2026-05-21T14:24:17.477Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

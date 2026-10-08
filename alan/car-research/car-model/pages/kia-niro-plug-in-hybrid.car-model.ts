@@ -18,4 +18,6 @@ export const kiaNiroPlugInHybrid = {
     "https://www.kia.com/us/en/niro-plug-in-hybrid\nhttps://www.kia.com/us/en/niro-plug-in-hybrid/specs-compare\nhttps://www.kbb.com/kia/niro-plug-in-hybrid/2025/specs/\nhttps://cars.usnews.com/cars-trucks/kia/niro-plug-in-hybrid",
   exclusionReason: "All years excluded",
   carMake: "car-make/kia",
+  createdAt: "2026-05-21T14:21:47.993Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

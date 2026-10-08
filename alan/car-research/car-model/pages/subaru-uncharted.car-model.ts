@@ -16,4 +16,6 @@ export const subaruUncharted = {
   sources:
     "- https://www.subaru.com/vehicles/uncharted/2026.html\n- https://media.subaru.com/pressrelease/2403/1/all-new-2026-subaru-uncharted-ev-arrives-more\n- https://www.subaru.com/2026-subaru-uncharted-ev.html\n- https://www.edmunds.com/subaru/uncharted/2026/features-specs/\n- https://www.kbb.com/subaru/uncharted/2026/specs/",
   carMake: "car-make/subaru",
+  createdAt: "2026-05-21T14:36:44.305Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

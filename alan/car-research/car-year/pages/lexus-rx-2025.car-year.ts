@@ -12,4 +12,6 @@ export const lexusRx2025 = {
   sources: "- Lexus 2025 RX pressroom\n- EPA",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lexus-rx",
+  createdAt: "2026-05-21T14:21:31.721Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

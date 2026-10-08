@@ -53,4 +53,6 @@ export const changeFileContent = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-06T18:52:53.939Z",
+  updatedAt: "2026-09-22T10:09:30.000Z",
 } as const satisfies ChangeMechanicalFileContent

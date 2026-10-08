@@ -44,4 +44,6 @@ export const removeFile = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
+  createdAt: "2026-09-07T01:52:56.201Z",
+  updatedAt: "2026-09-22T10:07:43.000Z",
 } as const satisfies ChangeAgent

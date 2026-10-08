@@ -107,4 +107,6 @@ export const changePropertyRecordField = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-08T16:29:03.871Z",
+  updatedAt: "2026-09-24T16:07:50.000Z",
 } as const satisfies ChangeMechanicalFileContent

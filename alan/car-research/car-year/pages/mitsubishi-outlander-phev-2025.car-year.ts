@@ -13,4 +13,6 @@ export const mitsubishiOutlanderPhev2025 = {
     "- [Mitsubishi 2025 Outlander PHEV](https://www.mitsubishicars.com/cars-and-suvs/outlander-phev)\n- [Edmunds 2025 Outlander PHEV trims](https://www.edmunds.com/mitsubishi/outlander-phev/2025/trims/)\n- [Cars.com 2025 PHEV trims](https://www.cars.com/research/mitsubishi-outlander_phev-2025/trims/)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mitsubishi-outlander-phev",
+  createdAt: "2026-05-21T14:31:13.349Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

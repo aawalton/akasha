@@ -13,4 +13,6 @@ export const bmwI52026 = {
     "- Edmunds 2026 i5 — https://www.edmunds.com/bmw/i5/\n- US News 2026 i5 — https://cars.usnews.com/cars-trucks/bmw/i5",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bmw-i5",
+  createdAt: "2026-05-21T14:05:14.872Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

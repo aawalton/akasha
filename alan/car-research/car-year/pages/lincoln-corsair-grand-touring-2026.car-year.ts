@@ -13,4 +13,6 @@ export const lincolnCorsairGrandTouring2026 = {
     "- Lincoln of Franklin 2026 PHEV blog: https://www.lincolnoffranklin.com/blog-what-plug-in-hybrid-features-are-in-the-2026-lincoln-corsair-and-aviator.htm\n- Edmunds 2026 Corsair PHEV: https://www.edmunds.com/lincoln/corsair/2026/plug-in-hybrid/\n- Lincoln 2026 GT spec page: https://www.lincoln.com/luxury-suvs/corsair/models/grand-touring-pzev/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lincoln-corsair-grand-touring",
+  createdAt: "2026-05-21T14:20:41.693Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

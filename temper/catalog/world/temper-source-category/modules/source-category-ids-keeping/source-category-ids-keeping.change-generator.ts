@@ -16,4 +16,6 @@ export const sourceCategoryIdsKeeping = {
       statement: "A source category's id is its page's slug.",
     },
   ],
+  createdAt: "2026-09-26T19:28:35.709Z",
+  updatedAt: "2026-09-26T19:28:44.000Z",
 } as const satisfies ChangeGenerator

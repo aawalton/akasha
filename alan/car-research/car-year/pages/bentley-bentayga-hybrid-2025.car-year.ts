@@ -13,4 +13,6 @@ export const bentleyBentaygaHybrid2025 = {
     "- https://www.cars.com/research/bentley-bentayga_hybrid-2025/\n- https://www.kbb.com/bentley/bentayga/2025/hybrid/\n- https://www.jdpower.com/cars/2025/bentley/bentayga/hybrid-azure-awd/specs",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bentley-bentayga-hybrid",
+  createdAt: "2026-05-21T14:01:15.913Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

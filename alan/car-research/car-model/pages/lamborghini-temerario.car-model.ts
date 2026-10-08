@@ -17,4 +17,6 @@ export const lamborghiniTemerario = {
     "1. https://www.lamborghini.com/en-en/models/temerario — official\n2. https://en.wikipedia.org/wiki/Lamborghini_Temerario\n3. https://www.edmunds.com/lamborghini/temerario/\n4. https://www.kbb.com/lamborghini/temerario/\n5. https://carbuzz.com/2026-lamborghini-temerario-first-drive-review/\n6. https://www.topgear.com/car-reviews/lamborghini/temerario\n7. https://www.autoevolution.com/news/lamborghini-finally-kicks-off-temerario-deliveries-lightweight-alleggerita-also-available-263069.html",
   exclusionReason: "All years excluded",
   carMake: "car-make/lamborghini",
+  createdAt: "2026-05-21T14:16:23.130Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

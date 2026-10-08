@@ -7,4 +7,6 @@ export const jaredJessopConstruction = {
   title: "Jared jessop construction",
   matches: [{ key: "merchant", comparison: "is", values: ["jared jessop"] }],
   category: "monarch-category/house",
+  createdAt: "2026-09-03T03:42:02.448Z",
+  updatedAt: "2026-09-15T16:07:35.000Z",
 } as const satisfies CategoryRuleCode

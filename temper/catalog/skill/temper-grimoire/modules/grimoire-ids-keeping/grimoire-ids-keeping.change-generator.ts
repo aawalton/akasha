@@ -17,4 +17,6 @@ export const grimoireIdsKeeping = {
       statement: "A grimoire's id is its page's slug.",
     },
   ],
+  createdAt: "2026-09-26T18:45:30.987Z",
+  updatedAt: "2026-09-26T18:45:43.000Z",
 } as const satisfies ChangeGenerator

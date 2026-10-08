@@ -7,4 +7,6 @@ export const appearanceExperimentDay = {
   propertySlug: "date",
   definition: "the day Alan wore the thing",
   types: "ts",
+  createdAt: "2026-09-03T17:42:47.582Z",
+  updatedAt: "2026-09-22T13:54:48.000Z",
 } as const satisfies CalendarDateProperty

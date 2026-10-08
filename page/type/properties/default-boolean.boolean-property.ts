@@ -7,4 +7,6 @@ export const defaultBoolean = {
   propertySlug: "default-boolean",
   definition: "the default of a property holding true or false",
   types: "ts",
+  createdAt: "2026-09-25T15:18:50.133Z",
+  updatedAt: "2026-09-25T15:20:47.000Z",
 } as const satisfies BooleanProperty

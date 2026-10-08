@@ -57,4 +57,6 @@ export const moveFileCode = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-06T14:21:48.342Z",
+  updatedAt: "2026-09-22T10:08:09.000Z",
 } as const satisfies ChangeMechanical

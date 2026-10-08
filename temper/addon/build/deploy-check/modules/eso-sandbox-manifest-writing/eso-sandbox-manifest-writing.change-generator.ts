@@ -52,4 +52,6 @@ export const esoSandboxManifestWriting = {
       statement: "Nothing here commits.",
     },
   ],
+  createdAt: "2026-09-25T13:15:28.550Z",
+  updatedAt: "2026-09-25T13:15:38.000Z",
 } as const satisfies ChangeGenerator

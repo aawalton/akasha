@@ -13,4 +13,6 @@ export const teslaCybertruck2025 = {
     "- https://en.wikipedia.org/wiki/Tesla_Cybertruck\n- https://electrek.co/2025/03/20/tesla-recalls-all-cybertrucks-ever-made-over-trim-falling-off/\n- https://www.tesla.com/support/recall-cybertruck-accelerator-pedal-pad\n- https://recharged.com/articles/2025-tesla-cybertruck-recalls-list\n- https://www.edmunds.com/tesla/cybertruck/2025/features-specs/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/tesla-cybertruck",
+  createdAt: "2026-05-21T14:38:39.570Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

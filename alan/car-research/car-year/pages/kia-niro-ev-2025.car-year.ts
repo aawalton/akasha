@@ -12,4 +12,6 @@ export const kiaNiroEv2025 = {
   sources:
     "https://www.kiamedia.com/us/en/models/niro-ev/2025/pricing\nhttps://www.kia.com/us/en/niro-ev/specs-compare\nhttps://cars.usnews.com/cars-trucks/kia/niro-ev",
   carModel: "car-model/kia-niro-ev",
+  createdAt: "2026-05-21T14:19:53.864Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -13,4 +13,6 @@ export const vinfastVf82026 = {
     "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2025&year2=2026&make=Vinfast https://vinfastauto.us/",
   exclusionReason: "No US dealer/service network — no Utah presence",
   carModel: "car-model/vinfast-vf-8",
+  createdAt: "2026-05-21T14:40:23.194Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

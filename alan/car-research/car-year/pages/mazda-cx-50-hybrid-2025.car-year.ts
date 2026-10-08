@@ -13,4 +13,6 @@ export const mazdaCx50Hybrid2025 = {
     "- Edmunds 2025 CX-50 Hybrid: https://www.edmunds.com/mazda/cx-50/2025/hybrid/\n- Green Car Reports drive review: https://www.greencarreports.com/news/1144995_2025-mazda-cx-50-hybrid-test-drive-review\n- KBB 2025 specs: https://www.kbb.com/mazda/cx-50-hybrid/2025/specs/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mazda-cx-50-hybrid",
+  createdAt: "2026-05-21T14:26:06.025Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

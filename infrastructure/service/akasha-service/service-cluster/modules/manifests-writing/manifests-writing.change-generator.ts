@@ -74,4 +74,6 @@ export const manifestsWriting = {
       statement: "Nothing here refuses a landing.",
     },
   ],
+  createdAt: "2026-09-25T00:07:18.783Z",
+  updatedAt: "2026-09-25T17:04:43.000Z",
 } as const satisfies ChangeGenerator

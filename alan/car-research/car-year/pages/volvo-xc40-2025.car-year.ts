@@ -13,4 +13,6 @@ export const volvoXc402025 = {
     "- https://www.media.volvocars.com/us/en-us/media/pressreleases/338590/volvo-car-usa-2025-model-year-pricing-and-change",
   exclusionReason: "All trims excluded",
   carModel: "car-model/volvo-xc40",
+  createdAt: "2026-05-21T14:44:38.910Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

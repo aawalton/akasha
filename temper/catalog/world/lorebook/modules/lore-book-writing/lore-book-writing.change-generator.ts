@@ -46,4 +46,6 @@ export const loreBookWriting = {
       statement: "Nothing here commits.",
     },
   ],
+  createdAt: "2026-09-25T01:16:48.455Z",
+  updatedAt: "2026-09-27T10:46:43.000Z",
 } as const satisfies ChangeGenerator

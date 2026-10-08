@@ -24,4 +24,6 @@ export const vinfast = {
   sources:
     "https://vinfastauto.us/ https://en.wikipedia.org/wiki/VinFast https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2025&year2=2026&make=Vinfast https://insideevs.com/news/596946/vinfast-stop-production-ice-cars-end-2022/ https://driveteslacanada.ca/news/vinfast-abandons-battery-subscription-plans-for-north-america/ https://www.consumerreports.org/cars/vinfast/ https://www.nhtsa.gov/vehicle/2023/VINFAST/VF8 https://www.kbb.com/vinfast/",
   exclusionReason: "No US dealer/service network — no Utah presence",
+  createdAt: "2026-05-21T14:39:26.562Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

@@ -13,4 +13,6 @@ export const lotusEletre2025 = {
     "- [Edmunds — 2025 Eletre US pricing](https://www.edmunds.com/car-news/2025-lotus-eletre-pricing-announced.html)\n- [Motor Authority — Eletre $107k US](https://www.motorauthority.com/news/1137602_lotus-eletre-price)\n- [CarBuzz — 2025 Eletre](https://carbuzz.com/cars/lotus/eletre/2025/)\n- [J.D. Power — 2025 Eletre](https://www.jdpower.com/cars/2025/lotus/eletre)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lotus-eletre",
+  createdAt: "2026-05-21T14:24:42.405Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

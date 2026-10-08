@@ -13,4 +13,6 @@ export const audiQ6ETron2025 = {
     "- https://www.audiusa.com/en/models/q6-e-tron/q6-e-tron/2025/overview/\n- https://cars.usnews.com/cars-trucks/audi/q6-e-tron\n- https://media.audiusa.com/releases/643",
   exclusionReason: "All trims excluded",
   carModel: "car-model/audi-q6-e-tron",
+  createdAt: "2026-05-21T14:06:07.151Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

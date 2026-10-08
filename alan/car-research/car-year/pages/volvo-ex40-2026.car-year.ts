@@ -12,4 +12,6 @@ export const volvoEx402026 = {
   sources: "- https://www.volvocars.com/us/cars/ex40-electric/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/volvo-ex40",
+  createdAt: "2026-05-21T14:43:50.960Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

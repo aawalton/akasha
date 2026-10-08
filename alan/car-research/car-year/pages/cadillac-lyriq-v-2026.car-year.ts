@@ -13,4 +13,6 @@ export const cadillacLyriqV2026 = {
     "- [Edmunds 2026 Lyriq-V](https://www.edmunds.com/cadillac/lyriq/2026/v/)\n- [KBB 2026 Lyriq-V specs](https://www.kbb.com/cadillac/lyriq-v/2026/specs/)\n- [TrueCar Lyriq-V](https://www.truecar.com/overview/cadillac/lyriq-v/)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/cadillac-lyriq-v",
+  createdAt: "2026-05-21T14:01:47.244Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

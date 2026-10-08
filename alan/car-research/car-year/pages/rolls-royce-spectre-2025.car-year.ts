@@ -13,4 +13,6 @@ export const rollsRoyceSpectre2025 = {
     "- https://www.kbb.com/rolls-royce/spectre/2025/black-badge/\n- https://www.edmunds.com/rolls-royce/spectre/2025/\n- https://www.cars.com/research/rolls_royce-spectre-2025/specs/\n- https://insideevs.com/news/751063/rolls-royce-spectre-black-badge/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/rolls-royce-spectre",
+  createdAt: "2026-05-21T14:35:43.910Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

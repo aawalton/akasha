@@ -25,4 +25,6 @@ export const polestar = {
   sources:
     "- https://en.wikipedia.org/wiki/Polestar\n- https://www.polestar.com/us/\n- https://www.polestar.com/us/polestar-2/\n- https://www.polestar.com/us/polestar-3/\n- https://www.polestar.com/us/polestar-4/\n- https://www.polestar.com/us/polestar-5/\n- https://www.engadget.com/transportation/evs/north-american-polestar-owners-can-now-use-the-tesla-supercharger-network-164046134.html\n- https://recharged.com/articles/2025-polestar-3-reliability\n- https://carbuzz.com/2026-polestar-3-updates/\n- https://electrek.co/2025/06/03/2026-polestar-4-officially-on-sale-us-priced-slightly-higher/",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:30:58.377Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

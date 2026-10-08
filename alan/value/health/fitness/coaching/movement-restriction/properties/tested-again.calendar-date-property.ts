@@ -7,4 +7,6 @@ export const testedAgain = {
   propertySlug: "tested-again",
   definition: "the day a restriction is tested again",
   types: "ts",
+  createdAt: "2026-09-19T00:22:09.642Z",
+  updatedAt: "2026-09-19T00:24:21.000Z",
 } as const satisfies CalendarDateProperty

@@ -13,4 +13,6 @@ export const hyundaiIoniq52025 = {
     "- https://www.hyundaiusa.com/us/en/vehicles/ioniq-5\n- https://insideevs.com/news/758478/2025-hyundai-ioniq-5-tax-credit/\n- https://electrek.co/2025/05/04/its-back-hyundai-ioniq-5-qualifies-for-7500-tax-credit-again/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/hyundai-ioniq-5",
+  createdAt: "2026-05-21T14:13:36.658Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

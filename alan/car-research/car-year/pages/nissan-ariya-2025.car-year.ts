@@ -12,4 +12,6 @@ export const nissanAriya2025 = {
   sources:
     "- Edmunds 2025 Ariya trims: https://www.edmunds.com/nissan/ariya/2025/trims/\n- Nissan USA: https://www.nissanusa.com/vehicles/electric-cars/ariya/specs-trims.html\n- U.S. News: https://cars.usnews.com/cars-trucks/nissan/ariya\n- Brochure: https://www.nissanusa.com/content/dam/Nissan/us/vehicle-brochures/2025/2025-nissan-ariya-brochure-en.pdf",
   carModel: "car-model/nissan-ariya",
+  createdAt: "2026-05-21T14:31:01.837Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

@@ -9,4 +9,6 @@ export const generatedDirectory = {
   folderName: "generated",
   generated: true,
   types: "ts",
+  createdAt: "2026-09-08T16:56:45.836Z",
+  updatedAt: "2026-09-15T16:02:23.000Z",
 } as const satisfies BuildFolderProperty

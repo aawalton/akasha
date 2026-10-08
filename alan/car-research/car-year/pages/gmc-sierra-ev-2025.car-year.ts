@@ -13,4 +13,6 @@ export const gmcSierraEv2025 = {
     "- https://news.gmc.com/newsroom.detail.html/Pages/news/us/en/2024/oct/1014-sierraev.html\n- https://www.cars.com/articles/2025-gmc-sierra-ev-denali-no-longer-edition-1-still-fully-loaded-490712/\n- https://www.edmunds.com/gmc/sierra-ev/2025/\n- https://www.greencars.com/expert-insights/2025-gmc-sierra-ev-denali-does-all-electric-pickup-stuff-in-a-big-way",
   exclusionReason: "All trims excluded",
   carModel: "car-model/gmc-sierra-ev",
+  createdAt: "2026-05-21T14:10:43.228Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

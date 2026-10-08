@@ -13,4 +13,6 @@ export const volvoXc902025 = {
     "- https://www.autonationvolvocarssanjose.com/research/2025-volvo-xc90-phev-trim-levels.htm\n- https://www.volvocars.com/us/cars/xc90/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/volvo-xc90",
+  createdAt: "2026-05-21T14:44:28.415Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

@@ -7,4 +7,6 @@ export const isOffHandOnly = {
   propertySlug: "is-off-hand-only",
   definition: "whether a weapon is in the off hand alone",
   types: "ts",
+  createdAt: "2026-09-02T01:48:30.289Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies BooleanProperty

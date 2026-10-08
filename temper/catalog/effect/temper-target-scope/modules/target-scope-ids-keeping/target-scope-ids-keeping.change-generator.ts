@@ -16,4 +16,6 @@ export const targetScopeIdsKeeping = {
       statement: "A target scope's id is its page's slug.",
     },
   ],
+  createdAt: "2026-09-27T02:35:32.421Z",
+  updatedAt: "2026-09-27T02:35:36.000Z",
 } as const satisfies ChangeGenerator

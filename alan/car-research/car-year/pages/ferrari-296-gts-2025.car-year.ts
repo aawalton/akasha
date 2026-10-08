@@ -13,4 +13,6 @@ export const ferrari296Gts2025 = {
     "- https://www.kbb.com/ferrari/296-gts/\n- https://www.cars.com/research/ferrari-296_gts-2025/\n- https://www.jdpower.com/cars/2025/ferrari/296-gts",
   exclusionReason: "All trims excluded",
   carModel: "car-model/ferrari-296-gts",
+  createdAt: "2026-05-21T14:05:39.688Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

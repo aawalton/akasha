@@ -77,4 +77,6 @@ export const qualifyRelationOnEveryPage = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-14T14:59:31.761Z",
+  updatedAt: "2026-09-24T16:12:47.000Z",
 } as const satisfies ChangeAgent

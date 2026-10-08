@@ -17,4 +17,6 @@ export const acuraRsx = {
     "1. https://www.kbb.com/acura/rsx/\n2. https://www.edmunds.com/acura/rsx/\n3. https://www.motor1.com/features/749095/acura-rsx-electric-crossover-horsepower-price-details/\n4. https://recharged.com/articles/2026-acura-rsx-electric",
   exclusionReason: "All years excluded",
   carMake: "car-make/acura",
+  createdAt: "2026-05-21T14:01:43.068Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

@@ -8,4 +8,6 @@ export const changeNone = {
   runsChecks: false,
   writerOwesReading: false,
   readersOweReading: false,
+  createdAt: "2026-09-01T19:02:05.350Z",
+  updatedAt: "2026-09-15T16:08:54.000Z",
 } as const satisfies ChangeKind

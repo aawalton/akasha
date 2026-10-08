@@ -62,4 +62,6 @@ export const renameEntryKey = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-09T18:17:28.200Z",
+  updatedAt: "2026-09-22T10:08:09.000Z",
 } as const satisfies ChangeMechanicalFileContent

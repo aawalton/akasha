@@ -99,4 +99,6 @@ export const movePropertyOnEveryPage = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-08T23:48:48.569Z",
+  updatedAt: "2026-09-22T10:07:38.000Z",
 } as const satisfies ChangeAgent

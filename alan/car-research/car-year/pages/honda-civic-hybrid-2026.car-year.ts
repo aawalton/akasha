@@ -13,4 +13,6 @@ export const hondaCivicHybrid2026 = {
     "- https://www.edmunds.com/honda/civic/2026/hybrid/\n- https://www.edmunds.com/honda/civic/2026/hatchback/\n- https://hondanews.com/en-US/releases/release-f5104327140949bd8e4a5074de0248a5-2026-honda-civic-two-motor-hybrid-system-wins-prestigious-wards-10-best-engines-propulsion-systems-award",
   exclusionReason: "All trims excluded",
   carModel: "car-model/honda-civic-hybrid",
+  createdAt: "2026-05-21T14:13:06.085Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

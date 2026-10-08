@@ -13,4 +13,6 @@ export const bmwIx2026 = {
     "- Edmunds 2026 iX — https://www.edmunds.com/bmw/ix/\n- KBB 2026 iX — https://www.kbb.com/bmw/ix/\n- JD Power 2026 iX review — https://www.jdpower.com/cars/expert-reviews/2026-bmw-ix-review-update",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bmw-ix",
+  createdAt: "2026-05-21T14:08:45.619Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

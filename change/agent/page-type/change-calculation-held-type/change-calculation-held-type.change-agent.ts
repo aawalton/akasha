@@ -55,4 +55,6 @@ export const changeCalculationHeldType = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-11T02:55:04.467Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ChangeAgent

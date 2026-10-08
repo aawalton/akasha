@@ -25,4 +25,6 @@ export const bugatti = {
   sources:
     "- Bugatti official Tourbillon page: https://www.bugatti.com/en/models/tourbillon\n- Bugatti newsroom Tourbillon reveal: https://newsroom.bugatti.com/en/press-releases/the-bugatti-tourbillon-an-automotive-icon-pour-leternite\n- Wikipedia Bugatti Tourbillon: https://en.wikipedia.org/wiki/Bugatti_Tourbillon\n- Rimac Technology powertrain release: https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-powers-the-bugatti-tourbillon-with-cutting-edge-battery-and-powe\n- Bugatti Rimac corporate background (Wikipedia): https://en.wikipedia.org/wiki/Bugatti_Rimac\n- Motor Authority Tourbillon reveal: https://www.motorauthority.com/news/1143588_bugatti-tourbillon-price-hp-photos-specs\n- Bugatti Connected Car newsroom: https://newsroom.bugatti.com/en/press-releases/connected-car-la-bugatti",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T13:59:18.830Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

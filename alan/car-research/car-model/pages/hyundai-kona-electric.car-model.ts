@@ -16,4 +16,6 @@ export const hyundaiKonaElectric = {
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/kona-electric\n- https://www.hyundaiusa.com/us/en/vehicles/kona-electric/compare-specs\n- https://www.edmunds.com/hyundai/kona-electric/",
   carMake: "car-make/hyundai",
+  createdAt: "2026-05-21T14:12:31.225Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

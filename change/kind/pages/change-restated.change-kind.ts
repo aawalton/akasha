@@ -44,4 +44,6 @@ export const changeRestated = {
       statement: "A restated change moving more than the words a page states is refused.",
     },
   ],
+  createdAt: "2026-09-05T15:52:03.263Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ChangeKind

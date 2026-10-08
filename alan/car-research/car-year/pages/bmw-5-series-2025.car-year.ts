@@ -13,4 +13,6 @@ export const bmw5Series2025 = {
     "- BMW Nashville 2025 550e — https://www.bmwofnashville.com/2025-bmw-550e-xdrive-phev-specs-features-model-review-brentwood-tn.htm\n- Edmunds 2025 5 Series PHEV — https://www.edmunds.com/bmw/5-series/2025/plug-in-hybrid/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bmw-5-series",
+  createdAt: "2026-05-21T14:13:24.044Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

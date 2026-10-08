@@ -24,4 +24,6 @@ export const gmc = {
   sources:
     "- https://www.gmc.com/electric (manufacturer)\n- https://www.gm.com/innovation/electrification (GM corporate EV strategy)\n- https://www.fueleconomy.gov/ (EPA range / MPGe)\n- https://www.consumerreports.org/cars/gmc/ (reliability)\n- https://www.jdpower.com/cars/2025/gmc (ratings)\n- https://www.iihs.org/ (safety)\n- https://www.nhtsa.gov/ (safety / recalls)\n- https://gmauthority.com/ (industry news)\n- https://electrek.co/ (EV news)\n- https://insideevs.com/ (EV technical detail)\n- https://www.edmunds.com/gmc/ (pricing / reviews)",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:09:40.854Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

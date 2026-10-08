@@ -7,4 +7,6 @@ export const bankable = {
   propertySlug: "bankable",
   definition: "whether a currency can be put in the bank",
   types: "ts",
+  createdAt: "2026-09-27T03:07:01.935Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies BooleanProperty

@@ -17,4 +17,6 @@ export const lexusRz = {
     "- Lexus RZ: https://www.lexus.com/models/RZ\n- EPA: https://www.fueleconomy.gov/feg/bymake/Lexus2025.shtml\n- Lexus pressroom: https://pressroom.lexus.com/",
   exclusionReason: "All years excluded",
   carMake: "car-make/lexus",
+  createdAt: "2026-05-21T14:17:24.338Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

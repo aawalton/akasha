@@ -17,4 +17,6 @@ export const rivianR2 = {
     "- https://rivian.com/r2\n- https://en.wikipedia.org/wiki/Rivian_R2\n- https://insideevs.com/news/789597/rivian-r2-launch-pricing-specs-2026/\n- https://www.cnbc.com/2026/03/12/rivian-r2-ev-launch.html\n- https://www.rivianwave.com/news/3782/rivian-r2-standard-premium-and-performance-compare-prices-and-specs\n- https://www.kbb.com/rivian/r2/\n- https://www.consumerreports.org/cars/rivian/r2/2026/road-test-report/",
   exclusionReason: "All years excluded",
   carMake: "car-make/rivian",
+  createdAt: "2026-05-21T14:41:09.804Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

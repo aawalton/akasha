@@ -13,4 +13,6 @@ export const subaruForesterHybrid2025 = {
     "- https://media.subaru.com/pressrelease/2279/1/subaru-introduces-all-new-2025-forester-hybrid-next\n- https://media.subaru.com/pressrelease/2280/1/subaru-announces-pricing-new-2025-subaru-forester-hybrid\n- https://www.subaru.com/vehicles/forester/hybrid/2025.html\n- https://www.edmunds.com/subaru/forester/2025/hybrid/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/subaru-forester-hybrid",
+  createdAt: "2026-05-21T14:37:15.790Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

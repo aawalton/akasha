@@ -13,4 +13,6 @@ export const cadillacCelestiq2026 = {
     "- [Autoblog 2026 Celestiq](https://www.autoblog.com/news/2026-cadillac-celestiq-pricing-goes-up)\n- [HotCars 2026 Celestiq pricing](https://www.hotcars.com/2026-cadillac-celestiq-pricing/)\n- [US News 2026 Celestiq](https://cars.usnews.com/cars-trucks/cadillac/celestiq)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/cadillac-celestiq",
+  createdAt: "2026-05-21T14:02:38.619Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

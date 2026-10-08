@@ -16,4 +16,6 @@ export const toyota4runnerHybrid = {
   sources: "- https://www.toyota.com/4runner/\n- https://pressroom.toyota.com/2025-toyota-4runner/",
   exclusionReason: "All years excluded",
   carMake: "car-make/toyota",
+  createdAt: "2026-05-21T15:03:38.528Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

@@ -87,4 +87,6 @@ export const removeFilePage = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-07T02:14:47.882Z",
+  updatedAt: "2026-09-26T18:11:02.000Z",
 } as const satisfies ChangeMechanicalFile

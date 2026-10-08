@@ -24,4 +24,6 @@ export const lincoln = {
   sources:
     "- Lincoln US site: https://www.lincoln.com\n- Lincoln hybrid/EV overview: https://www.lincoln.com/hybrid-electric-vehicles/\n- Ford 8-K NACS announcement (May 2023): https://www.sec.gov/Archives/edgar/data/0000037996/000003799623000036/exhibit99tomay2520238-k.htm\n- MotorAuthority on Lincoln EV plan: https://www.motorauthority.com/news/1135061_lincoln-reportedly-plans-up-to-five-evs-through-2026-including-electric-navigator\n- CarBuzz on Lincoln no-EV-in-2026: https://carbuzz.com/lincolns-no-ev-policy-might-be-smart/\n- Ford Authority on Aviator PHEV discontinuation: https://fordauthority.com/2023/10/lincoln-aviator-grand-touring-phev-will-be-discontinued/",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:19:22.192Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

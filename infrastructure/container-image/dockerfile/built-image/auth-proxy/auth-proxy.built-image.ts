@@ -10,4 +10,6 @@ export const authProxy = {
   dockerfile: "dockerfile",
   extensions: "json",
   repository: "infra/auth-proxy",
+  createdAt: "2026-09-08T15:12:42.094Z",
+  updatedAt: "2026-09-24T22:19:44.000Z",
 } as const satisfies BuiltImage

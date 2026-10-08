@@ -17,4 +17,6 @@ export const bmwIx = {
     "- BMW USA — https://www.bmwusa.com/vehicles/bmw-i-series/ix/bmw-ix.html\n- Edmunds 2026 iX — https://www.edmunds.com/bmw/ix/\n- KBB 2026 iX — https://www.kbb.com/bmw/ix/\n- JD Power 2026 iX review — https://www.jdpower.com/cars/expert-reviews/2026-bmw-ix-review-update",
   exclusionReason: "All years excluded",
   carMake: "car-make/bmw",
+  createdAt: "2026-05-21T14:01:14.940Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

@@ -13,4 +13,6 @@ export const lucidAir2025 = {
     "- https://www.cars.com/research/lucid-air-2025/\n- https://www.thecarconnection.com/cars/lucid_air\n- https://carbuzz.com/cars/lucid/air/2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lucid-air",
+  createdAt: "2026-05-21T14:22:52.875Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

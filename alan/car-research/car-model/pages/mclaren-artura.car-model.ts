@@ -17,4 +17,6 @@ export const mclarenArtura = {
     "- https://en.wikipedia.org/wiki/McLaren_Artura\n- https://cars.mclaren.com/us_en/artura\n- https://www.edmunds.com/mclaren/artura/2025/features-specs/\n- https://www.kbb.com/mclaren/artura/\n- https://www.cars.com/research/mclaren-artura-2025/",
   exclusionReason: "All years excluded",
   carMake: "car-make/mclaren",
+  createdAt: "2026-05-21T14:24:19.886Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

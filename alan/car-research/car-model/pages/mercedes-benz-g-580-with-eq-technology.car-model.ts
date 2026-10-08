@@ -17,4 +17,6 @@ export const mercedesBenzG580WithEqTechnology = {
     "- https://www.mbusa.com/en/vehicles/class/g-class/suv\n- https://carbuzz.com/mercedes-benz-ev-models-you-can-buy-in-2026/\n- https://www.topspeed.com/mercedes-benz-ambitious-lineup/",
   exclusionReason: "All years excluded",
   carMake: "car-make/mercedes-benz",
+  createdAt: "2026-05-21T14:29:01.067Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

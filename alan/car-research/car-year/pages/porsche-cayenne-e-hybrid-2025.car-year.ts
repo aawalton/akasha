@@ -13,4 +13,6 @@ export const porscheCayenneEHybrid2025 = {
     "- https://www.porsche.com/usa/models/cayenne/cayenne-e-hybrid-models/\n- https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=46735\n- https://www.caranddriver.com/porsche/cayenne-e-hybrid/specs/2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/porsche-cayenne-e-hybrid",
+  createdAt: "2026-05-21T14:38:07.125Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

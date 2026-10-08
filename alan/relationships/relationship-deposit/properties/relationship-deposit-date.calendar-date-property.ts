@@ -7,4 +7,6 @@ export const relationshipDepositDate = {
   propertySlug: "relationship-deposit-date",
   definition: "the day it was made",
   types: "ts",
+  createdAt: "2026-09-03T04:35:40.348Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies CalendarDateProperty

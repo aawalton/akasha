@@ -13,4 +13,6 @@ export const volvoS602025 = {
     "- https://carbuzz.com/cars/volvo/s60/2025/\n- https://www.kbb.com/volvo/s60/2025/specs/\n- https://www.autoblog.com/features/2025-volvo-s60-the-last-model-year-for-the-sedan-in-the-u-s",
   exclusionReason: "All trims excluded",
   carModel: "car-model/volvo-s60",
+  createdAt: "2026-05-21T14:44:58.728Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

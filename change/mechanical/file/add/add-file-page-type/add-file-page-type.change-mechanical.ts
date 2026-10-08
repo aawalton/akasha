@@ -21,4 +21,6 @@ export const addFilePageType = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-07T01:38:45.619Z",
+  updatedAt: "2026-09-22T10:08:50.000Z",
 } as const satisfies ChangeMechanical

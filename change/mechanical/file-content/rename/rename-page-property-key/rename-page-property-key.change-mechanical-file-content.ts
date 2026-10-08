@@ -76,4 +76,6 @@ export const renamePagePropertyKey = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-08T15:18:11.592Z",
+  updatedAt: "2026-09-22T10:09:40.000Z",
 } as const satisfies ChangeMechanicalFileContent

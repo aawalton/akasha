@@ -17,4 +17,6 @@ export const audiQ5E = {
     "- https://www.audiusa.com/en/models/q5/\n- https://www.edmunds.com/audi/q5/2025/plug-in-hybrid/\n- https://www.auditurnersville.com/2025-audi-q5-e-specs-features-model-review-turnersville-nj.htm\n- https://carbuzz.com/2026-audi-q5-phev-revealed/",
   exclusionReason: "All years excluded",
   carMake: "car-make/audi",
+  createdAt: "2026-05-21T14:02:20.127Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

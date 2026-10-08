@@ -13,4 +13,6 @@ export const teslaModel32026 = {
     "- https://www.basenor.com/blogs/news/tesla-2026-model-3-model-y-lineup-revamped-full-pricing-what-to-do\n- https://cars.usnews.com/cars-trucks/tesla/model-3\n- https://www.edmunds.com/tesla/model-3/\n- https://evchargingstations.com/chargingnews/2026-tesla-model-3-all-versions-compared/\n- https://insideevs.com/news/784386/tesla-fsd-subscription-only-2026/",
   exclusionReason: "Tesla / Elon Musk association — personal exclusion",
   carModel: "car-model/tesla-model-3",
+  createdAt: "2026-05-21T14:37:50.118Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

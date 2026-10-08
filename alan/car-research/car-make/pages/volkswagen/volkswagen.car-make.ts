@@ -24,4 +24,6 @@ export const volkswagen = {
   sources:
     "- https://www.vw.com/en/electric-vehicles.html (VW official US EV lineup)\n- https://www.vw.com/en/models.html (VW US models index)\n- https://media.vw.com/releases/1891 (NACS adapter announcement)\n- https://media.vw.com/releases/1894 (2025 ID. Buzz NHTSA 5-star)\n- https://electrek.co/2023/03/07/volkswagen-group-passenger-cars-evs-2030-sales-target/ (2030 EV sales targets)\n- https://topelectricsuv.com/news/volkswagen/vw-atlas-hybrid-tiguan-hybrid/ (Tiguan/Atlas hybrid timing)\n- https://www.cars.com/articles/volkswagen-id-buzz-skips-u-s-market-for-2026-519884/ (ID. Buzz MY2026 US skip)",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:40:51.928Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

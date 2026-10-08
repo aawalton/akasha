@@ -82,4 +82,6 @@ export const addFileOfAnyKind = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-08T15:59:49.555Z",
+  updatedAt: "2026-09-24T19:40:37.000Z",
 } as const satisfies ChangeMechanical

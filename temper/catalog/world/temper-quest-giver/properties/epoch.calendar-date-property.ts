@@ -7,4 +7,6 @@ export const epoch = {
   propertySlug: "epoch",
   definition: "the day a rotation's count begins",
   types: "ts",
+  createdAt: "2026-09-22T22:41:23.238Z",
+  updatedAt: "2026-09-22T22:41:53.000Z",
 } as const satisfies CalendarDateProperty

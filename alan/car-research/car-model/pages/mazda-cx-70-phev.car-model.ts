@@ -17,4 +17,6 @@ export const mazdaCx70Phev = {
     "- Mazda USA CX-70 PHEV: https://www.mazdausa.com/vehicles/cx-70-phev\n- US News: https://cars.usnews.com/cars-trucks/mazda/cx-70-phev\n- Cars.com 2025: https://www.cars.com/research/mazda-cx_70_phev-2025/\n- North Shore Mazda FAQ: https://www.northshoremazda.net/cx-70-phev-faq/",
   exclusionReason: "All years excluded",
   carMake: "car-make/mazda",
+  createdAt: "2026-05-21T14:24:46.091Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

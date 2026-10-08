@@ -7,4 +7,6 @@ export const defaultQuality = {
   propertySlug: "default-quality",
   definition: "whether gear that states no quality of its own is read at this quality",
   types: "ts",
+  createdAt: "2026-09-26T20:44:21.244Z",
+  updatedAt: "2026-09-27T06:59:03.000Z",
 } as const satisfies BooleanProperty

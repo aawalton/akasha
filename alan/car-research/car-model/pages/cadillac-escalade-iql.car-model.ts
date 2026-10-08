@@ -17,4 +17,6 @@ export const cadillacEscaladeIql = {
     "- [GMAuthority IQL pricing](https://gmauthority.com/blog/2025/03/2026-cadillac-escalade-iql-pricing-for-all-trim-levels-announced/)\n- [Cadillac of Calabasas IQL trims](https://www.cadillacofcalabasas.com/research/escalade-iql-trims/)\n- [Edmunds 2026 IQL](https://www.edmunds.com/cadillac/escalade-iql/)",
   exclusionReason: "All years excluded",
   carMake: "car-make/cadillac",
+  createdAt: "2026-05-21T14:01:06.999Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

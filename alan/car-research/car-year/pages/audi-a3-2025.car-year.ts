@@ -13,4 +13,6 @@ export const audiA32025 = {
     "- https://www.cargurus.com/research/articles/2025-audi-a3-pricing-specs-release-date\n- https://www.consumerreports.org/cars/audi/a3/2025/road-test-report/\n- https://www.edmunds.com/audi/a3/2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/audi-a3",
+  createdAt: "2026-05-21T14:00:40.138Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

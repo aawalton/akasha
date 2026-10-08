@@ -24,4 +24,6 @@ export const dodge = {
   sources:
     "- https://www.dodge.com/hybrid-and-electric-vehicles.html\n- https://www.media.stellantis.com/em-en/dodge/press/dodge-delivers-world-s-first-and-only-electric-muscle-car-announces-all-new-dodge-charger-multi-energy-lineup\n- https://www.autoblog.com/news/dodge-officially-kills-hornet\n- https://moparinsiders.com/stellantis-recalls-charger-daytona-ev-and-wagoneer-s-for-display-failure/\n- https://www.prnewswire.com/news-releases/stellantis-expands-north-america-fast-charging-access-as-dodge-jeep-ram-fiat-and-maserati-bevs-plug-in-to-the-tesla-supercharger-network-302718753.html\n- https://insideevs.com/news/782330/2027-dodge-charger-daytona-ev-tesla-charging-port-nacs/\n- https://www.kbb.com/car-news/explaining-the-car-kill-switch-controversy/\n- https://media.stellantisnorthamerica.com/newsrelease.do?id=25241",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:03:08.078Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

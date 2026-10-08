@@ -37,4 +37,6 @@ export const metricIdsKeeping = {
       statement: "A type already with the body that would be written again is left alone.",
     },
   ],
+  createdAt: "2026-09-26T18:26:10.810Z",
+  updatedAt: "2026-09-26T18:41:51.000Z",
 } as const satisfies ChangeGenerator

@@ -16,4 +16,6 @@ export const lexusRx = {
   sources: "- Lexus RX: https://www.lexus.com/models/RX\n- EPA",
   exclusionReason: "All years excluded",
   carMake: "car-make/lexus",
+  createdAt: "2026-05-21T14:21:24.754Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

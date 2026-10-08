@@ -7,4 +7,6 @@ export const isPositive = {
   propertySlug: "is-positive",
   definition: "whether an alchemy effect helps whoever drinks it",
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.012Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies BooleanProperty

@@ -13,4 +13,6 @@ export const nissanRoguePlugInHybrid2026 = {
     "- 2026 Rogue PHEV pricing release: https://usa.nissannews.com/en-US/releases/2026-nissan-rogue-plug-in-hybrid-pricing-starts-at-45990\n- 2026 Rogue PHEV press kit: https://usa.nissannews.com/en-US/releases/2026-nissan-rogue-plug-in-hybrid-press-kit\n- Nissan USA: https://www.nissanusa.com/vehicles/crossovers-suvs/rogue-plug-in-hybrid/specs-trims.html\n- Edmunds: https://www.edmunds.com/nissan/rogue-plug-in-hybrid/\n- KBB: https://www.kbb.com/car-news/2026-nissan-rogue-phev-pricing-hits-the-market/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/nissan-rogue-plug-in-hybrid",
+  createdAt: "2026-05-21T14:31:18.828Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

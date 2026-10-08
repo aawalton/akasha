@@ -13,4 +13,6 @@ export const ferrari296Speciale2026 = {
     "- https://www.ferrari.com/en-EN/auto/296-speciale\n- https://www.topgear.com/car-reviews/ferrari/296-speciale\n- https://en.wikipedia.org/wiki/Ferrari_296",
   exclusionReason: "All trims excluded",
   carModel: "car-model/ferrari-296-speciale",
+  createdAt: "2026-05-21T14:05:55.081Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

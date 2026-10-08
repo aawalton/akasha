@@ -84,4 +84,6 @@ export const gatherMergingDeclarations = {
       statement: "Nothing here builds a program or reads a compiler's diagnostic.",
     },
   ],
+  createdAt: "2026-09-21T16:44:40.424Z",
+  updatedAt: "2026-09-22T14:22:32.000Z",
 } as const satisfies ChangeAgent

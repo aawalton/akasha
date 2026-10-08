@@ -24,4 +24,6 @@ export const karma = {
   sources:
     "- https://karmaautomotive.com/\n- https://en.wikipedia.org/wiki/Karma_Automotive\n- https://en.wikipedia.org/wiki/Karma_Revero\n- https://karmaautomotive.com/news/karma-automotives-new-era-dawns/\n- https://www.greencarreports.com/news/1145678_karma-claims-these-evs-and-phevs-are-coming-in-2025-and-2026\n- https://www.theautopian.com/karma-automotive-sold-just-146-vehicles-last-year-its-ceo-told-me-thats-the-appeal/",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:13:03.771Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

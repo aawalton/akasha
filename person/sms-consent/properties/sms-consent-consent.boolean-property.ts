@@ -7,4 +7,6 @@ export const smsConsentConsent = {
   propertySlug: "consent",
   definition: "whether the person agreed",
   types: "ts",
+  createdAt: "2026-09-03T17:47:21.933Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

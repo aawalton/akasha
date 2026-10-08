@@ -24,4 +24,6 @@ export const acura = {
   sources:
     "1. Acura News (Honda PR): https://acuranews.com\n2. Acura.com official site: https://www.acura.com\n3. Cars.com Acura/Honda strategy: https://www.cars.com/articles/hybrids-evs-and-performance-honda-acura-have-big-plans-for-the-next-few-years-520305/\n4. J.D. Power Acura: https://www.jdpower.com/cars/2025/acura/mdx\n5. Consumer Reports Acura: https://www.consumerreports.org/cars/acura/\n6. NACS adapter PR: https://acuranews.com/en-US/releases/release-ccb19723f8c4bc9d353bc56a2c0ee138-acura-zdx-owners-now-have-access-to-tesla-supercharger-network-with-approved-adapters\n7. Wikipedia Acura ZDX: https://en.wikipedia.org/wiki/Acura_ZDX",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T13:59:25.050Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

@@ -13,4 +13,6 @@ export const fiat500e2025 = {
     "- https://www.cars.com/research/fiat-500e-2025/\n- https://www.kbb.com/fiat/500e/2025/\n- https://www.carsdirect.com/automotive-news/2025-fiat-500e-price-cut-by-2-000\n- https://www.stefanogbac.com/2025/08/19/2025-fiat-500e-quietly-adds-icona-trim/\n- https://www.jdpower.com/cars/2025/fiat/500e/trim",
   exclusionReason: "All trims excluded",
   carModel: "car-model/fiat-500e",
+  createdAt: "2026-05-21T14:04:57.479Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

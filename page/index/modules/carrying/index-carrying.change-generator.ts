@@ -89,4 +89,6 @@ export const indexCarrying = {
       statement: "Nothing here writes a file.",
     },
   ],
+  createdAt: "2026-09-13T15:58:37.192Z",
+  updatedAt: "2026-09-26T17:41:29.000Z",
 } as const satisfies ChangeGenerator

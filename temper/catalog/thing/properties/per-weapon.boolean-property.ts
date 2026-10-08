@@ -7,4 +7,6 @@ export const perWeapon = {
   propertySlug: "per-weapon",
   definition: "whether an effect counts once for each weapon held",
   types: "ts",
+  createdAt: "2026-09-02T02:09:04.553Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

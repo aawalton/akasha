@@ -33,4 +33,6 @@ export const proseOnBeats = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-03T20:59:13.938Z",
+  updatedAt: "2026-10-03T21:07:11.000Z",
 } as const satisfies BooleanProperty

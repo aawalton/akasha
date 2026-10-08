@@ -13,4 +13,6 @@ export const bmw5Series2026 = {
     "- Edmunds 2026 5 Series PHEV — https://www.edmunds.com/bmw/5-series/2026/plug-in-hybrid/\n- KBB 2026 550e — https://www.kbb.com/bmw/5-series/2026/550e-xdrive/\n- BMW Blog 550e review — https://www.bmwblog.com/2026/02/04/2025-bmw-550e-review/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bmw-5-series",
+  createdAt: "2026-05-21T14:13:30.635Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

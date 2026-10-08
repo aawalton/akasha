@@ -51,4 +51,6 @@ export const changeProsePattern = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-08T18:33:10.262Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ChangeAgent

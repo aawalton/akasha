@@ -13,4 +13,6 @@ export const gmcHummerEvSuv2025 = {
     "- https://www.gmc.com/electric/previous-year/hummer-ev/suv\n- https://www.crestmontbuickgmc.com/gmc-hummer-ev-suv-model-review-beachwood-oh/\n- https://cars.usnews.com/cars-trucks/gmc/hummer-ev-suv",
   exclusionReason: "All trims excluded",
   carModel: "car-model/gmc-hummer-ev-suv",
+  createdAt: "2026-05-21T14:10:30.120Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

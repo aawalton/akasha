@@ -24,4 +24,6 @@ export const lotus = {
   sources:
     "- [Lotus Cars Wikipedia](https://en.wikipedia.org/wiki/Lotus_Cars)\n- [Lotus Cars US — Eletre](https://www.lotuscars.com/en-US/eletre)\n- [Lotus Cars US — Emeya](https://www.lotuscars.com/en-US/emeya)\n- [Electrek — Lotus revamps 2026 Emeya and Eletre](https://electrek.co/2025/04/02/lotus-revamps-2026-emeya-eletre-evs-dozen-new-trims-standard-features/)\n- [Edmunds — 2025 Eletre US pricing](https://www.edmunds.com/car-news/2025-lotus-eletre-pricing-announced.html)\n- [DuPont Registry — Eletre orders US](https://news.dupontregistry.com/lotus/lotus-eletre-available-order-us/)\n- [Yicai Global — Lotus drops all-electric](https://www.yicaiglobal.com/news/geelys-ultra-luxury-carmarket-lotus-drops-full-electrification-plans-ceo-says)\n- [CarNewsChina — refreshed Emeya/Eletre](https://carnewschina.com/2025/09/22/lotus-launches-refreshed-emeya-sedan-and-eletre-suv-models-starting-at-74800-usd/)",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:23:59.241Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

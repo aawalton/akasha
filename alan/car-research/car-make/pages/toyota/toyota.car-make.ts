@@ -23,4 +23,6 @@ export const toyota = {
   shortList: true,
   sources:
     "- https://global.toyota/en/newsroom/corporate/38635541.html (electrification strategy)\n- https://pressroom.toyota.com/toyota-to-adopt-nacs-connectors-in-its-bevs-from-2025/ (NACS)\n- https://www.toyota.com/ (lineup)\n- https://www.fueleconomy.gov/ (EPA data)\n- https://www.iihs.org/ratings/ (safety)\n- https://www.nhtsa.gov/ratings (NHTSA, recalls)\n- https://www.consumerreports.org/cars/toyota/ (reliability)",
+  createdAt: "2026-05-21T14:37:07.817Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

@@ -24,4 +24,6 @@ export const rollsRoyce = {
   sources:
     "- https://www.rolls-roycemotorcars.com/en_US/showroom/spectre.html\n- https://www.rolls-roycemotorcars.com/en_US/ownership/charging.html\n- https://www.kbb.com/rolls-royce/electric-cars/\n- https://www.greencarreports.com/news/1144538_rolls-royce-doubles-down-on-evs-planning-suv-and-sedan\n- https://www.bmwblog.com/2026/04/14/rolls-royce-project-nightingale-first-electric-convertible/\n- https://www.greencarreports.com/news/1141149_bmw-mini-rolls-royce-will-adopt-tesla-charge-port-us-and-canada\n- https://www.greencarreports.com/news/1142154_2024-rolls-royce-spectre-ev-recalled",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:35:18.094Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

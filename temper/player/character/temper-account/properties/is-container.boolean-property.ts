@@ -7,4 +7,6 @@ export const isContainer = {
   propertySlug: "is-container",
   definition: "whether an item opens into other items",
   types: "ts",
+  createdAt: "2026-09-02T04:14:53.310Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies BooleanProperty

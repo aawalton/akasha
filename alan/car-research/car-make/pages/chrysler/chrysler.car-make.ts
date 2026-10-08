@@ -24,4 +24,6 @@ export const chrysler = {
   sources:
     "- https://www.chrysler.com/pacifica.html\n- https://www.chrysler.com/pacifica-hybrid.html\n- https://www.chrysler.com/chrysler-innovation/airflow.html\n- https://electrek.co/2022/01/05/chrysler-officially-reveals-airflow-concept-vows-to-go-all-electric-by-2028/\n- https://www.thedrive.com/news/all-jeep-and-chrysler-plug-in-hybrid-models-are-officially-dead-exclusive\n- https://www.cars.com/articles/stellantis-discontinues-chrysler-and-jeep-plug-in-hybrid-vehicles-520181/\n- https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27259&mid=\n- https://www.driveuconnect.com/sirius-xm-guardian.html\n- https://www.iihs.org/ratings/vehicle/chrysler/pacifica-hybrid-minivan/2026\n- https://www.cbtnews.com/controversial-kill-switch-mandate-lives-on/",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:00:20.962Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

@@ -7,4 +7,6 @@ export const isSlottable = {
   propertySlug: "is-slottable",
   definition: "whether a champion star works only while slotted, rather than as a passive",
   types: "ts",
+  createdAt: "2026-09-27T04:53:17.836Z",
+  updatedAt: "2026-09-27T04:53:21.000Z",
 } as const satisfies BooleanProperty

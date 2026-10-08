@@ -40,4 +40,6 @@ export const foldBeatsIntoFile = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
+  createdAt: "2026-10-03T18:16:59.741Z",
+  updatedAt: "2026-10-03T18:17:42.000Z",
 } as const satisfies ChangeAgent

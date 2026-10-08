@@ -7,4 +7,6 @@ export const addonLibrary = {
   propertySlug: "library",
   definition: "whether other add-ons call this one rather than a player running it",
   types: "ts",
+  createdAt: "2026-09-21T16:33:25.921Z",
+  updatedAt: "2026-09-21T16:41:05.000Z",
 } as const satisfies BooleanProperty

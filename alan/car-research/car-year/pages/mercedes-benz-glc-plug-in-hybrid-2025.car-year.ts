@@ -13,4 +13,6 @@ export const mercedesBenzGlcPlugInHybrid2025 = {
     "- https://www.greencarreports.com/news/1142652_2025-mercedes-glc-350e-phev-fast-charging-electric-range\n- https://www.cars.com/research/mercedes_benz-glc_350e-2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mercedes-benz-glc-plug-in-hybrid",
+  createdAt: "2026-05-21T14:31:28.613Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

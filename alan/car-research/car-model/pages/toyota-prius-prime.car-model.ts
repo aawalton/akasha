@@ -17,4 +17,6 @@ export const toyotaPriusPrime = {
     "- https://www.toyota.com/priusprime/\n- https://pressroom.toyota.com/2025-toyota-prius-prime/\n- https://www.fueleconomy.gov/feg/bymodel/2025_Toyota_Prius_Prime.shtml",
   exclusionReason: "All years excluded",
   carMake: "car-make/toyota",
+  createdAt: "2026-05-21T14:44:20.520Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

@@ -51,4 +51,6 @@ export const movePage = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
+  createdAt: "2026-09-06T20:57:52.878Z",
+  updatedAt: "2026-09-24T15:08:28.000Z",
 } as const satisfies ChangeAgent

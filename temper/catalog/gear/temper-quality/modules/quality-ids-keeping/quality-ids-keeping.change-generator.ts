@@ -17,4 +17,6 @@ export const qualityIdsKeeping = {
       statement: "A quality's id is its page's slug.",
     },
   ],
+  createdAt: "2026-09-27T02:18:50.592Z",
+  updatedAt: "2026-09-27T02:19:11.000Z",
 } as const satisfies ChangeGenerator

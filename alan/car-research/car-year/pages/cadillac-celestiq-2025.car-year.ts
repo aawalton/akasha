@@ -13,4 +13,6 @@ export const cadillacCelestiq2025 = {
     "- [Wikipedia Celestiq](https://en.wikipedia.org/wiki/Cadillac_Celestiq)\n- [KBB Celestiq](https://www.kbb.com/cadillac/celestiq/)\n- [Cadillac Society 2025 Celestiq](https://www.crestcadillactx.com/cadillac-reviews/2025-celestiq.htm)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/cadillac-celestiq",
+  createdAt: "2026-05-21T14:02:33.809Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

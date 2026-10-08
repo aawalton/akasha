@@ -32,4 +32,6 @@ export const changeMechanical = {
       statement: "A fault a mechanical change lands is found by the audit.",
     },
   ],
+  createdAt: "2026-09-01T17:08:48.354Z",
+  updatedAt: "2026-09-25T14:05:54.000Z",
 } as const satisfies ChangeKind

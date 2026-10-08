@@ -17,4 +17,6 @@ export const rivianR1s = {
     "- https://rivian.com/r1s\n- https://www.edmunds.com/rivian/r1s/\n- https://theweeklydriver.com/2026/04/2026-rivian-r1s-buyer-guide/\n- https://www.consumerreports.org/cars/rivian/r1s/2026/ratings-specs/\n- https://en.wikipedia.org/wiki/Rivian_R1S",
   exclusionReason: "All years excluded",
   carMake: "car-make/rivian",
+  createdAt: "2026-05-21T14:37:50.839Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

@@ -46,4 +46,6 @@ export const buyShortfall = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T13:28:04.403Z",
+  updatedAt: "2026-09-27T14:46:04.000Z",
 } as const satisfies BooleanProperty

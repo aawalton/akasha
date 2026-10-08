@@ -7,4 +7,6 @@ export const sortDescending = {
   propertySlug: "descending",
   definition: "whether a key orders from the largest down",
   types: "ts",
+  createdAt: "2026-09-03T16:14:57.280Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

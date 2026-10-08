@@ -17,4 +17,6 @@ export const dodgeHornetRT = {
     "- https://www.dodge.com/2025/hornet/specs.rt.html\n- https://cars.usnews.com/cars-trucks/dodge/hornet-plug-in-hybrid\n- https://www.autoblog.com/news/dodge-officially-kills-hornet\n- https://www.edmunds.com/dodge/hornet/2025/plug-in-hybrid/\n- https://www.hornetowners.com/threads/dodge-hornet-and-all-other-stellantis-phev-models-officially-discontinued.1502/",
   exclusionReason: "All years excluded",
   carMake: "car-make/dodge",
+  createdAt: "2026-05-21T14:03:40.976Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

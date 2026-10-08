@@ -30,4 +30,6 @@ export const quoted = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-15T14:39:43.427Z",
+  updatedAt: "2026-09-25T13:43:46.000Z",
 } as const satisfies BooleanProperty

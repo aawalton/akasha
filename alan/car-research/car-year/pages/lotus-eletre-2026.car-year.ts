@@ -13,4 +13,6 @@ export const lotusEletre2026 = {
     "- [Electrek — 2026 Eletre/Emeya trim revamp](https://electrek.co/2025/04/02/lotus-revamps-2026-emeya-eletre-evs-dozen-new-trims-standard-features/)\n- [Carscoops — Lotus revamps Eletre Emeya](https://www.carscoops.com/2025/04/lotus-revamps-eletre-and-emeya-lineups-with-new-trims/)\n- [CarNewsChina — refreshed 2026 launch](https://carnewschina.com/2025/09/22/lotus-launches-refreshed-emeya-sedan-and-eletre-suv-models-starting-at-74800-usd/)\n- [GreenCarsCompare — Eletre R 900 Sport Carbon](https://greencarscompare.com/car/lotus-eletre-r/)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lotus-eletre",
+  createdAt: "2026-05-21T14:24:52.927Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

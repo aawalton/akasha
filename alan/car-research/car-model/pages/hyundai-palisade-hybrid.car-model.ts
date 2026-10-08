@@ -17,4 +17,6 @@ export const hyundaiPalisadeHybrid = {
     "- https://www.hyundaiusa.com/us/en/vehicles/palisade-hybrid\n- https://www.hyundaiusa.com/us/en/vehicles/palisade-hybrid/compare-specs\n- https://www.kbb.com/hyundai/palisade-hybrid/2026/specs/",
   exclusionReason: "All years excluded",
   carMake: "car-make/hyundai",
+  createdAt: "2026-05-21T14:13:14.383Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

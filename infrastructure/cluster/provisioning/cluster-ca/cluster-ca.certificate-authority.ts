@@ -6,4 +6,6 @@ export const clusterCa = {
   slug: "cluster-ca",
   definition: "the authority signing the cluster's own certificates",
   authorityCertificate: "pem",
+  createdAt: "2026-09-03T17:43:13.185Z",
+  updatedAt: "2026-09-22T13:59:52.000Z",
 } as const satisfies CertificateAuthority

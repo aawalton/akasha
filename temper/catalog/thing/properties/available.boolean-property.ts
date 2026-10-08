@@ -7,4 +7,6 @@ export const available = {
   propertySlug: "available",
   definition: "whether the game offers this now",
   types: "ts",
+  createdAt: "2026-09-02T01:27:53.146Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

@@ -58,4 +58,6 @@ export const craftShortfall = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T18:16:51.599Z",
+  updatedAt: "2026-09-24T18:17:39.000Z",
 } as const satisfies BooleanProperty

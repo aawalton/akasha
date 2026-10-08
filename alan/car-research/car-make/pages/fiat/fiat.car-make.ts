@@ -24,4 +24,6 @@ export const fiat = {
   sources:
     "- https://www.fiatusa.com/models/500e\n- https://moparinsiders.com/is-the-fiat-brand-still-relevant-in-north-america/\n- https://moparinsiders.com/stellantis-pulls-back-on-its-2030-all-electric-goal-in-europe/\n- https://www.prnewswire.com/news-releases/stellantis-expands-north-america-fast-charging-access-as-dodge-jeep-ram-fiat-and-maserati-bevs-plug-in-to-the-tesla-supercharger-network-302718753.html\n- https://blog.stellantisnorthamerica.com/2025/07/08/stellantis-introduces-simplified-value-packed-connected-services-for-us-customers/\n- https://www.thetruthaboutcars.com/cars/news-blog/recall-alert-2024-2025-fiat-500e-45131968\n- https://evchargingstations.com/chargingnews/2026-fiat-500e-ccs1/\n- https://www.kbb.com/car-news/nhtsas-new-kill-switch-law-approaches-key-deadline/",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:04:23.671Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

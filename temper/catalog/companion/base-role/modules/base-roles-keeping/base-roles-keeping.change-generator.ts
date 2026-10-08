@@ -20,4 +20,6 @@ export const baseRolesKeeping = {
       statement: "A base role page added, taken away or given a new key writes the roles again.",
     },
   ],
+  createdAt: "2026-09-27T01:28:20.617Z",
+  updatedAt: "2026-09-27T01:28:29.000Z",
 } as const satisfies ChangeGenerator

@@ -12,4 +12,6 @@ export const volvoEx302026 = {
   sources:
     "- https://www.wardsauto.com/news/volvo-ends-EX30-sales-us-2026/815160/\n- https://www.motorcarsvolvocars.com/volvo-electric-models.htm",
   carModel: "car-model/volvo-ex30",
+  createdAt: "2026-05-21T14:43:42.526Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

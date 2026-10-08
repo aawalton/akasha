@@ -17,4 +17,6 @@ export const volkswagenId4 = {
     "- https://www.vw.com/en/models/id-4.html\n- https://www.edmunds.com/volkswagen/id4/\n- https://cars.usnews.com/cars-trucks/volkswagen/id-4\n- https://www.kbb.com/volkswagen/id4/\n- https://www.cars.com/articles/how-much-is-the-2026-volkswagen-id-4-519597/",
   exclusionReason: "All years excluded",
   carMake: "car-make/volkswagen",
+  createdAt: "2026-05-21T14:41:25.549Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

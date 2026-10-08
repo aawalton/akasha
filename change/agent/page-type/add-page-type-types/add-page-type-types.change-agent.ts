@@ -43,4 +43,6 @@ export const addPageTypeTypes = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-09T22:19:43.067Z",
+  updatedAt: "2026-09-22T10:08:50.000Z",
 } as const satisfies ChangeAgent

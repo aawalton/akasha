@@ -7,4 +7,6 @@ export const lastReviewed = {
   propertySlug: "last-reviewed",
   definition: "the day Alan last looked at a part of his chess",
   types: "ts",
+  createdAt: "2026-09-03T04:24:22.114Z",
+  updatedAt: "2026-09-22T13:47:07.000Z",
 } as const satisfies CalendarDateProperty

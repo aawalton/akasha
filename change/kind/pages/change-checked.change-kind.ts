@@ -31,4 +31,6 @@ export const changeChecked = {
       statement: "A program whose change the checks refuse is mended rather than exempted.",
     },
   ],
+  createdAt: "2026-09-05T16:17:29.334Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies ChangeKind

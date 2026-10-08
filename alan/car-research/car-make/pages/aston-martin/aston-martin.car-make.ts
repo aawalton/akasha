@@ -24,4 +24,6 @@ export const astonMartin = {
   sources:
     "- Aston Martin USA Valhalla page: https://www.astonmartin.com/en-us/models/valhalla\n- Aston Martin Connected Car Terms: https://www.astonmartin.com/en-us/legal/am-connected-car-system-terms-and-conditions\n- WardsAuto on BEV delay: https://www.wardsauto.com/news/aston-martin-delays-bev-model-targeting-more-hybrids-and-keeping-v-12/778352/\n- Wikipedia Aston Martin Valhalla: https://en.wikipedia.org/wiki/Aston_Martin_Valhalla\n- J.D. Power Aston Martin ratings: https://www.jdpower.com/cars/ratings/aston-martin\n- Electrive on hybrid strategy: https://www.electrive.com/2022/02/03/aston-martin-to-focus-on-hybrid-and-electric-cars-from-2026/",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T13:58:58.241Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

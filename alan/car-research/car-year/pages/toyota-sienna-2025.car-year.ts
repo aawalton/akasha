@@ -12,4 +12,6 @@ export const toyotaSienna2025 = {
   sources: "- https://www.toyota.com/sienna/2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/toyota-sienna",
+  createdAt: "2026-05-21T15:00:58.209Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

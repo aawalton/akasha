@@ -128,4 +128,6 @@ export const addPageProperty = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-14T12:46:30.496Z",
+  updatedAt: "2026-09-25T15:17:24.000Z",
 } as const satisfies ChangeMechanical

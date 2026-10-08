@@ -11,4 +11,6 @@ export const kiaNiroEv2026 = {
   shortList: true,
   sources: "https://www.kia.com/us/en/niro-ev\nhttps://www.kia.com/us/en/niro-ev/specs-compare",
   carModel: "car-model/kia-niro-ev",
+  createdAt: "2026-05-21T14:19:57.224Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -23,4 +23,6 @@ export const mini = {
   shortList: true,
   sources:
     "- MINI USA: https://www.miniusa.com/model/electric-vehicles.html\n- MINI USA Connected: https://www.miniusa.com/why-mini/mini-connected-technology.html\n- MotoringFile (MINI USA on subscriptions): https://www.motoringfile.com/2025/04/30/miniusa-says-no-thanks-to-expanding-software-subscriptions-for-now/\n- BMWBlog (2030 EV plan): https://www.bmwblog.com/2021/03/12/bmw-wants-to-transition-mini-brand-to-all-electric-by-2030/\n- electrive (2030 EV plan): https://www.electrive.com/2021/03/13/mini-to-be-an-all-electric-brand-by-2030/\n- BMW USA NACS: https://www.bmwusa.com/all-electric/tesla-nacs-charging.html\n- J.D. Power dependability (MotoringFile): https://www.motoringfile.com/2026/03/10/mini-climbs-to-third-in-j-d-power-dependability-study-a-major-milestone-for-quality/\n- Consumer Reports 2025 Cooper reliability: https://www.consumerreports.org/cars/mini/cooper/2025/reliability/\n- IIHS 2025 Countryman: https://www.iihs.org/ratings/vehicle/mini/countryman-4-door-suv/2025\n- KBB EV tax credit: https://www.kbb.com/archive/bmw-announces-full-lineup-of-electric-vehicles-mini-to-go-all-electric-by-2030/",
+  createdAt: "2026-05-21T14:28:37.872Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

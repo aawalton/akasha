@@ -13,4 +13,6 @@ export const kiaSportageHybrid2025 = {
     "https://www.kia.com/us/en/sportage-hybrid/specs-compare\nhttps://www.kbb.com/kia/sportage-hybrid/2025/\nhttps://www.edmunds.com/kia/sportage-hybrid/2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/kia-sportage-hybrid",
+  createdAt: "2026-05-21T14:22:43.193Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

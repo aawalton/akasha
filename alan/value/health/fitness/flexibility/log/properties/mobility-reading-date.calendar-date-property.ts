@@ -7,4 +7,6 @@ export const mobilityReadingDate = {
   propertySlug: "mobility-reading-date",
   definition: "the day the reading was taken",
   types: "ts",
+  createdAt: "2026-09-03T03:37:55.177Z",
+  updatedAt: "2026-09-15T16:02:20.000Z",
 } as const satisfies CalendarDateProperty

@@ -12,4 +12,6 @@ export const audiQ4ETron2025 = {
   sources:
     "- https://cars.usnews.com/cars-trucks/audi/q4-e-tron\n- https://www.truecar.com/overview/audi/q4-e-tron/2025/\n- https://media.audiusa.com/releases/643",
   carModel: "car-model/audi-q4-e-tron",
+  createdAt: "2026-05-21T14:04:01.051Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

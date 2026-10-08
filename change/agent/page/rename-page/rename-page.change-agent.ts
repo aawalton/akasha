@@ -39,4 +39,6 @@ export const renamePage = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-06T14:21:48.342Z",
+  updatedAt: "2026-09-25T14:54:58.000Z",
 } as const satisfies ChangeAgent

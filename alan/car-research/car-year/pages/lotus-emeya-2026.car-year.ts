@@ -13,4 +13,6 @@ export const lotusEmeya2026 = {
     "- [Electrek — 2026 Eletre/Emeya trim revamp](https://electrek.co/2025/04/02/lotus-revamps-2026-emeya-eletre-evs-dozen-new-trims-standard-features/)\n- [Carscoops — Lotus revamps Eletre Emeya](https://www.carscoops.com/2025/04/lotus-revamps-eletre-and-emeya-lineups-with-new-trims/)\n- [GreenCarsCompare — Emeya R 900 Sport](https://greencarscompare.com/car/lotus-emeya-r-2024/)\n- [GreenCarsCompare — Emeya S 600](https://greencarscompare.com/car/lotus-emeya-s-2024/)\n- [Top Gear — Emeya 2026](https://www.topgear.com/car-reviews/lotus/emeya)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lotus-emeya",
+  createdAt: "2026-05-21T14:25:13.324Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

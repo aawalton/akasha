@@ -17,4 +17,6 @@ export const mercedesBenzMaybachEqsSuv = {
     "- https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv\n- https://www.edmunds.com/mercedes-benz/maybach-eqs-suv/\n- https://www.kbb.com/mercedes-benz/mercedes-maybach-eqs-suv/2026/eqs-680-4matic/",
   exclusionReason: "All years excluded",
   carMake: "car-make/mercedes-benz",
+  createdAt: "2026-05-21T14:28:44.332Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

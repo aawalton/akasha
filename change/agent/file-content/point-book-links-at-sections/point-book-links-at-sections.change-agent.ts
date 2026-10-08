@@ -75,4 +75,6 @@ export const pointBookLinksAtSections = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-21T17:55:58.468Z",
+  updatedAt: "2026-09-21T18:04:24.000Z",
 } as const satisfies ChangeAgent

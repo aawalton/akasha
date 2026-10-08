@@ -13,4 +13,6 @@ export const kiaNiroHybrid2026 = {
     "https://www.autoblog.com/news/kias-new-2026-niro-hev-price-tag-could-shake-up-the-hybrid-market\nhttps://carbuzz.com/kia-announces-pricing-for-2026-niro-hev/\nhttps://www.kia.com/us/en/niro/build",
   exclusionReason: "All trims excluded",
   carModel: "car-model/kia-niro-hybrid",
+  createdAt: "2026-05-21T14:20:52.550Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

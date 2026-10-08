@@ -26,4 +26,6 @@ export const secret = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-30T21:03:55.111Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies BooleanProperty

@@ -25,4 +25,6 @@ export const moveFilePageProperty = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-08T17:51:09.549Z",
+  updatedAt: "2026-09-22T10:09:30.000Z",
 } as const satisfies ChangeMechanical

@@ -7,4 +7,6 @@ export const holdsUltimate = {
   propertySlug: "holds-ultimate",
   definition: "whether the slot holds a bar's ultimate rather than an active skill",
   types: "ts",
+  createdAt: "2026-09-27T07:38:30.897Z",
+  updatedAt: "2026-09-27T07:38:53.000Z",
 } as const satisfies BooleanProperty

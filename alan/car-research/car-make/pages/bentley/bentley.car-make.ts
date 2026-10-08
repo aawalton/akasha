@@ -24,4 +24,6 @@ export const bentley = {
   sources:
     "- https://www.bentleymotors.com/en/models/bentley-hybrids.html (Bentley Hybrids range)\n- https://www.bentleymedia.com/en/newsitem/1648 (Beyond100+ Nov 2024 announcement)\n- https://www.bentleymotors.com/en/about-bentley/beyond-100/coming-this-way.html (Bentley electrification overview)\n- https://www.bentleymotors.com/en/models/continental-gt/continental-gt-speed.html (Continental GT Speed PHEV)\n- https://www.bentleymotors.com/en/models/flying-spur.html (Flying Spur PHEV)\n- https://www.bentleymotors.com/en/models/bentayga.html (Bentayga V8 + Hybrid)\n- https://theevreport.com/bentley-extends-beyond100-strategy-to-2035\n- https://www.thetruthaboutcars.com/cars/news-blog/recall-alert-2025-2026-bentley-continental-gtc-continental-gt-flying-spur-45131539",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:00:25.223Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

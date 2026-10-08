@@ -33,4 +33,6 @@ export const appendLines = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-10T16:46:47.935Z",
+  updatedAt: "2026-09-22T10:08:50.000Z",
 } as const satisfies ChangeMechanicalFileContent

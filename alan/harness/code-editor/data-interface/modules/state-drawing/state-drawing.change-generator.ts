@@ -75,4 +75,6 @@ export const stateDrawing = {
       statement: "A picture here is made by reading every page of many page types.",
     },
   ],
+  createdAt: "2026-09-15T19:19:07.724Z",
+  updatedAt: "2026-09-26T17:41:29.000Z",
 } as const satisfies ChangeGenerator

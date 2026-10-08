@@ -7,4 +7,6 @@ export const startsOn = {
   propertySlug: "starts-on",
   definition: "the first day of the month a page covers",
   types: "ts",
+  createdAt: "2026-09-03T16:12:37.504Z",
+  updatedAt: "2026-09-15T16:02:20.000Z",
 } as const satisfies CalendarDateProperty

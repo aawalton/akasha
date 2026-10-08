@@ -134,4 +134,6 @@ export const groupWriting = {
       statement: "A group runs off the body the change leaves rather than off the checkout.",
     },
   ],
+  createdAt: "2026-09-11T00:17:09.018Z",
+  updatedAt: "2026-09-27T17:05:59.000Z",
 } as const satisfies ChangeGenerator

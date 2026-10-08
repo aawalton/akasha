@@ -12,4 +12,6 @@ export const volvoEx302025 = {
   sources:
     "- https://insideevs.com/news/702527/2025-volvo-ex30-range-specs-pricing/\n- https://www.cars.com/research/volvo-ex30-2025/",
   carModel: "car-model/volvo-ex30",
+  createdAt: "2026-05-21T14:43:36.673Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

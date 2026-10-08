@@ -12,4 +12,6 @@ export const hyundaiIoniq52026 = {
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/ioniq-5\n- https://www.hyundaiusa.com/us/en/vehicles/ioniq-5/compare-specs\n- https://cars.usnews.com/cars-trucks/hyundai/ioniq-5",
   carModel: "car-model/hyundai-ioniq-5",
+  createdAt: "2026-05-21T14:13:44.624Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

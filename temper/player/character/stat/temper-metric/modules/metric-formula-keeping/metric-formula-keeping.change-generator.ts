@@ -22,4 +22,6 @@ export const metricFormulaKeeping = {
       statement: "A formula file already in the writer's form is left alone.",
     },
   ],
+  createdAt: "2026-09-26T19:17:36.908Z",
+  updatedAt: "2026-09-26T19:18:09.000Z",
 } as const satisfies ChangeGenerator

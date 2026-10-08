@@ -49,4 +49,6 @@ export const moveCodeExport = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-09T19:16:06.645Z",
+  updatedAt: "2026-09-22T10:09:30.000Z",
 } as const satisfies ChangeMechanical

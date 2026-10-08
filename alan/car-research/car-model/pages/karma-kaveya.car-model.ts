@@ -17,4 +17,6 @@ export const karmaKaveya = {
     "- https://carbuzz.com/cars/karma/kaveya/2026/\n- https://www.edmunds.com/karma/kaveya/\n- https://www.slashgear.com/1444933/karma-kaveya-electric-hypercar-wild-specifications-price/\n- https://www.karmaindianapolis.com/vehicle-details/2025-karma-kaveya-coupe-7350d49cb1fc5a40be6a296be09e60e3\n- https://theshopmag.com/features/full-bev-super-coupe-leads-karma-automotives-new-vehicle-portfolio/",
   exclusionReason: "All years excluded",
   carMake: "car-make/karma",
+  createdAt: "2026-05-21T14:13:35.071Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

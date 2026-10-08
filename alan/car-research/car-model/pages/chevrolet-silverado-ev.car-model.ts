@@ -17,4 +17,6 @@ export const chevroletSilveradoEv = {
     "- [Chevrolet Silverado EV](https://www.chevrolet.com/electric/silverado-ev)\n- [Edmunds 2025](https://www.edmunds.com/chevrolet/silverado-ev/2025/)\n- [Edmunds 2026](https://www.edmunds.com/chevrolet/silverado-ev/)\n- [GM Newsroom Trail Boss](https://news.chevrolet.com/newsroom.detail.html/Pages/news/us/en/2025/may/0521-Trail-Boss-joins-2026-Chevrolet-Silverado-EV.html)",
   exclusionReason: "All years excluded",
   carMake: "car-make/chevrolet",
+  createdAt: "2026-05-21T14:07:30.954Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

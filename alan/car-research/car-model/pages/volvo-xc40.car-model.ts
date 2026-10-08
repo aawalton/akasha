@@ -17,4 +17,6 @@ export const volvoXc40 = {
     "- https://www.volvocars.com/us/cars/xc40/\n- https://www.greencars.com/expert-insights/mild-hybrid-major-comfort-reviewing-the-2026-volvo-xc40",
   exclusionReason: "All years excluded",
   carMake: "car-make/volvo",
+  createdAt: "2026-05-21T14:42:56.724Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

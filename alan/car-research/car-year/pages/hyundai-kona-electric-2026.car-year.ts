@@ -13,4 +13,6 @@ export const hyundaiKonaElectric2026 = {
     "- https://www.hyundaiusa.com/us/en/vehicles/kona-electric\n- https://www.edmunds.com/hyundai/kona-electric/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/hyundai-kona-electric",
+  createdAt: "2026-05-21T14:14:15.865Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

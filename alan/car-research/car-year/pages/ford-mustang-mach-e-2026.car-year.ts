@@ -13,4 +13,6 @@ export const fordMustangMachE2026 = {
     "- [Ford.com 2026 Mach-E](https://www.ford.com/suvs/mach-e/)\n- [Autoblog](https://www.autoblog.com/cars/ford/mustang-mach-e/2026)\n- [CarBuzz 2026 Mach-E](https://carbuzz.com/cars/ford/mustang-mach-e/2026/)",
   exclusionReason: "American car manufacturer — personal exclusion",
   carModel: "car-model/ford-mustang-mach-e",
+  createdAt: "2026-05-21T14:09:19.491Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

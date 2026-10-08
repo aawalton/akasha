@@ -13,4 +13,6 @@ export const ram1500Rev2026 = {
     "- https://www.ramtrucks.com/electric/1500-rev.html\n- https://en.wikipedia.org/wiki/Ram_1500_REV\n- https://insideevs.com/news/751663/ramcharger-ev-and-ice-mpg/\n- https://www.carsdirect.com/ram/1500-ramcharger/2026\n- https://www.cargurus.com/research/articles/2026-ram-1500-ramcharger-pricing-specs-release-date",
   exclusionReason: "All trims excluded",
   carModel: "car-model/ram-1500-rev",
+  createdAt: "2026-05-21T14:36:19.439Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

@@ -13,4 +13,6 @@ export const ferrari296Gtb2026 = {
     "- https://www.iseecars.com/car/ferrari-296-gtb-price\n- https://classic.com/m/ferrari/296/gtb/\n- https://en.wikipedia.org/wiki/Ferrari_296",
   exclusionReason: "All trims excluded",
   carModel: "car-model/ferrari-296-gtb",
+  createdAt: "2026-05-21T14:05:32.694Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

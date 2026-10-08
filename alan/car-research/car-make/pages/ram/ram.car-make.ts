@@ -24,4 +24,6 @@ export const ram = {
   sources:
     "- https://en.wikipedia.org/wiki/Ram_Trucks\n- https://www.ramtrucks.com/\n- https://insideevs.com/news/772186/ram-1500-rev-dead/\n- https://www.wardsauto.com/news/archive-auto-stellantis-cancels-ram-1500-bev-electric-pickup-rev-extended-range/760779/\n- https://www.media.stellantis.com/em-en/ram/press/range-extended-ram-1500-ramcharger-to-lead-brand-s-electrification-push\n- https://www.media.stellantis.com/em-en/ram/press/the-legend-returns-2026-ram-1500-offers-5-7-liter-hemi-v-8-etorque-engine-with-proven-performance-and-capability\n- https://www.destinationcharged.com/news/stellantis-adopts-nacs-to-expand-fast-charging-availability-in-2026/\n- https://www.driveuconnect.com/\n- https://www.iihs.org/ratings/vehicle/ram/1500-crew-cab-pickup/2025\n- https://www.kbb.com/car-news/nhtsas-new-kill-switch-law-approaches-key-deadline/",
   exclusionReason: "All models excluded",
+  createdAt: "2026-05-21T14:34:22.790Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

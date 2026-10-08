@@ -18,4 +18,6 @@ export const volvoEx90 = {
   exclusionReason:
     "All trims excluded for kill switch (interior-sensing impairment-detection system)",
   carMake: "car-make/volvo",
+  createdAt: "2026-05-21T14:42:27.358Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

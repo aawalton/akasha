@@ -13,4 +13,6 @@ export const esoDay = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T22:42:21.571Z",
+  updatedAt: "2026-09-22T22:42:49.000Z",
 } as const satisfies CalendarDateProperty

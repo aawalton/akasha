@@ -13,4 +13,6 @@ export const chryslerPacificaHybrid2026 = {
     "- https://www.chrysler.com/pacifica/hybrid/specs.plugin-hybrid-select.html\n- https://www.chrysler.com/pacifica/hybrid/specs.plugin-hybrid-pinnacle.html\n- https://www.edmunds.com/chrysler/pacifica/2026/plug-in-hybrid/\n- https://www.kbb.com/chrysler/pacifica-hybrid/\n- https://www.iihs.org/ratings/vehicle/chrysler/pacifica-hybrid-minivan/2026",
   exclusionReason: "All trims excluded",
   carModel: "car-model/chrysler-pacifica-hybrid",
+  createdAt: "2026-05-21T14:02:28.632Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

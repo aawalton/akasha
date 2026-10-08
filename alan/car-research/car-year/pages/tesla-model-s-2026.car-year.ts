@@ -13,4 +13,6 @@ export const teslaModelS2026 = {
     "- https://www.kbb.com/tesla/model-s/2026/specs/\n- https://cars.usnews.com/cars-trucks/tesla/model-s\n- https://www.tparts.com/blogs/tesla-latest-news/tesla-adds-7-year-propulsion-warranty-for-2026-models-in-us-and-canada\n- https://www.edmunds.com/tesla/model-s/2026/st-402085866/features-specs/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/tesla-model-s",
+  createdAt: "2026-05-21T14:38:19.886Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

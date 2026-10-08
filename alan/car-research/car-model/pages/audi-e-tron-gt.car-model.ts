@@ -17,4 +17,6 @@ export const audiETronGt = {
     "- https://www.audiusa.com/en/models/e-tron-gt/\n- https://media.audiusa.com/models/e-tron-gt-rs-e-tron-gt\n- https://cars.usnews.com/cars-trucks/audi/e-tron-gt\n- https://media.audiusa.com/releases/643",
   exclusionReason: "All years excluded",
   carMake: "car-make/audi",
+  createdAt: "2026-05-21T14:14:48.857Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

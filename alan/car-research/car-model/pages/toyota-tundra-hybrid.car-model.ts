@@ -17,4 +17,6 @@ export const toyotaTundraHybrid = {
     "- https://www.toyota.com/tundrahybrid/\n- https://www.fueleconomy.gov/feg/bymodel/2025_Toyota_Tundra_hybrid_4WD.shtml",
   exclusionReason: "All years excluded",
   carMake: "car-make/toyota",
+  createdAt: "2026-05-21T14:59:38.858Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

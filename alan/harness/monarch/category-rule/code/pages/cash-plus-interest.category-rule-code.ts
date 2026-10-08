@@ -10,4 +10,6 @@ export const cashPlusInterest = {
     { key: "account", comparison: "is", values: ["2749"] },
   ],
   category: "monarch-category/interest",
+  createdAt: "2026-09-03T03:42:02.447Z",
+  updatedAt: "2026-09-15T16:07:35.000Z",
 } as const satisfies CategoryRuleCode

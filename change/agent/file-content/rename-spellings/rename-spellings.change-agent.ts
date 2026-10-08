@@ -87,4 +87,6 @@ export const renameSpellings = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-22T01:03:57.264Z",
+  updatedAt: "2026-09-22T01:06:55.000Z",
 } as const satisfies ChangeAgent

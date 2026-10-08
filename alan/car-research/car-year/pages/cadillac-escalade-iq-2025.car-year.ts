@@ -13,4 +13,6 @@ export const cadillacEscaladeIq2025 = {
     "- [Edmunds 2025 Escalade IQ](https://www.edmunds.com/cadillac/escalade-iq/2025/)\n- [US News 2025 Escalade IQ](https://cars.usnews.com/cars-trucks/cadillac/escalade-iq/2025)\n- [Cadillac.com 2025 Escalade IQ archive](https://www.cadillac.com/electric/preceding-year/escalade-iq)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/cadillac-escalade-iq",
+  createdAt: "2026-05-21T14:02:07.676Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

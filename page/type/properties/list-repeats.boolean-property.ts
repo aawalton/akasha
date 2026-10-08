@@ -17,4 +17,6 @@ export const listRepeats = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T22:25:18.957Z",
+  updatedAt: "2026-09-22T10:13:52.000Z",
 } as const satisfies BooleanProperty

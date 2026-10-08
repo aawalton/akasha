@@ -7,4 +7,6 @@ export const otherwhereTheLibraryRoomLit = {
   propertySlug: "lit",
   definition: "whether a room of the Library has power",
   types: "ts",
+  createdAt: "2026-09-28T13:30:29.228Z",
+  updatedAt: "2026-09-28T22:48:45.000Z",
 } as const satisfies BooleanProperty

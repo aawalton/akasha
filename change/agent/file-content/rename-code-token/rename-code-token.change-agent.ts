@@ -44,4 +44,6 @@ export const renameCodeToken = {
   ],
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-06T14:21:48.342Z",
+  updatedAt: "2026-09-22T08:56:59.000Z",
 } as const satisfies ChangeAgent

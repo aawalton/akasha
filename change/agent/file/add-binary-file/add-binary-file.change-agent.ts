@@ -51,4 +51,6 @@ export const addBinaryFile = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
+  createdAt: "2026-09-11T15:29:29.772Z",
+  updatedAt: "2026-09-25T12:44:32.000Z",
 } as const satisfies ChangeAgent

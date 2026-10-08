@@ -13,4 +13,6 @@ export const dodgeChargerDaytona2025 = {
     "- https://www.cars.com/research/dodge-charger_daytona-2025/specs/\n- https://carbuzz.com/cars/dodge/charger-daytona/2025/specs-and-trims/\n- https://cars.usnews.com/cars-trucks/dodge/charger-daytona\n- https://www.edmunds.com/dodge/charger/2025/st-402063906/features-specs/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/dodge-charger-daytona",
+  createdAt: "2026-05-21T14:03:53.237Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

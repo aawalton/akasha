@@ -17,4 +17,6 @@ export const mercedesBenzEqeSedan = {
     "- https://www.edmunds.com/mercedes-benz/eqe/\n- https://cars.usnews.com/cars-trucks/mercedes-benz/eqe-sedan\n- https://www.kbb.com/mercedes-benz/mercedes-amg-eqe/",
   exclusionReason: "All years excluded",
   carMake: "car-make/mercedes-benz",
+  createdAt: "2026-05-21T14:28:18.976Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

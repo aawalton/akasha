@@ -7,4 +7,6 @@ export const fullBleed = {
   propertySlug: "full-bleed",
   definition: "whether a page is drawn with no margin held around it",
   types: "ts",
+  createdAt: "2026-09-03T17:04:11.786Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

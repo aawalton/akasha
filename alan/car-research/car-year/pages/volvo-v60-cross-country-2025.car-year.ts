@@ -13,4 +13,6 @@ export const volvoV60CrossCountry2025 = {
     "- https://www.cars.com/research/volvo-v60_cross_country-2025/specs/\n- https://www.beyervolvocarsfallschurch.com/2025-volvo-v60cc-debut.htm",
   exclusionReason: "All trims excluded",
   carModel: "car-model/volvo-v60-cross-country",
+  createdAt: "2026-05-21T14:44:48.404Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

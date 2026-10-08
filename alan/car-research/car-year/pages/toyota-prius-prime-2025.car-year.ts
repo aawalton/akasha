@@ -13,4 +13,6 @@ export const toyotaPriusPrime2025 = {
     "- https://www.toyota.com/priusprime/2025/\n- https://pressroom.toyota.com/2025-toyota-prius-prime/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/toyota-prius-prime",
+  createdAt: "2026-05-21T14:44:30.168Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

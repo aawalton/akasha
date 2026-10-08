@@ -7,4 +7,6 @@ export const publishedDay = {
   propertySlug: "published-day",
   definition: "the day a collection was released",
   types: "ts",
+  createdAt: "2026-09-02T20:44:59.872Z",
+  updatedAt: "2026-09-15T16:02:20.000Z",
 } as const satisfies CalendarDateProperty

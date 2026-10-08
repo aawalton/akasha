@@ -45,4 +45,6 @@ export const dropDeclarationImports = {
       statement: "A file whose only imports are dropped opens on its first statement.",
     },
   ],
+  createdAt: "2026-09-24T23:31:50.910Z",
+  updatedAt: "2026-09-24T23:32:24.000Z",
 } as const satisfies ChangeAgent

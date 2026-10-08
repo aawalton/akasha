@@ -13,4 +13,6 @@ export const mazdaCx702025 = {
     "- Edmunds 2025: https://www.edmunds.com/mazda/cx-70/\n- J.C. Lewis Mazda trim explainer: https://www.jclewismazda.com/mazda-cx-70/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mazda-cx-70",
+  createdAt: "2026-05-21T14:25:53.706Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

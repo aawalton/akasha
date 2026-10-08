@@ -49,4 +49,6 @@ export const addPropertyToPages = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-22T00:03:05.407Z",
+  updatedAt: "2026-09-22T10:09:30.000Z",
 } as const satisfies ChangeMechanicalFileContent

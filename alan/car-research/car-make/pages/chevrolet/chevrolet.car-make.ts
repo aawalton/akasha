@@ -24,4 +24,6 @@ export const chevrolet = {
   sources:
     "- [Chevrolet EV lineup](https://www.chevrolet.com/electric/lineup)\n- [GM zero emissions commitment](https://www.gm.com/commitments/zero-emissions)\n- [FTC v. GM 2025](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-takes-action-against-general-motors-sharing-drivers-precise-location-driving-behavior-data)\n- [The Verge on Blazer EV stop-sale](https://www.theverge.com/2023/12/20/24010098/gm-chevy-blazer-ev-stop-sale-software-issues)\n- [GM 2027 Bolt announcement](https://news.gm.com/home.detail.html/Pages/news/us/en/2025/oct/1009-2027-Chevrolet-Bolt.html)\n- [Consumer Reports 2024 reliability rankings](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-new-cars-a7824554938/)\n- [OnStar plans and pricing](https://gmauthority.com/blog/2025/05/gm-revises-onstar-plans-and-pricing/)",
   exclusionReason: "American car manufacturer — personal exclusion",
+  createdAt: "2026-05-21T14:00:00.372Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

@@ -21,4 +21,6 @@ export const pageTypeTyping = {
       statement: "The files are worked out again only where the change could turn a page type.",
     },
   ],
+  createdAt: "2026-09-24T19:41:59.021Z",
+  updatedAt: "2026-09-24T22:19:44.000Z",
 } as const satisfies ChangeGenerator

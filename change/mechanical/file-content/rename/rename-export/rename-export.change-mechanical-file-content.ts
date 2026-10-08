@@ -11,4 +11,6 @@ export const renameExport = {
   code: "ts",
   test: "ts",
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-06T14:21:48.343Z",
+  updatedAt: "2026-09-22T13:48:01.000Z",
 } as const satisfies ChangeMechanicalFileContent

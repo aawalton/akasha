@@ -17,4 +17,6 @@ export const chevroletBlazerEv = {
     "- [Chevrolet Blazer EV](https://www.chevrolet.com/electric/blazer-ev)\n- [Edmunds 2025](https://www.edmunds.com/chevrolet/blazer-ev/2025/features-specs/)\n- [Edmunds 2026](https://www.edmunds.com/chevrolet/blazer-ev/)\n- [KBB 2026](https://www.kbb.com/chevrolet/blazer-ev/)",
   exclusionReason: "American car manufacturer — personal exclusion",
   carMake: "car-make/chevrolet",
+  createdAt: "2026-05-21T14:04:19.159Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

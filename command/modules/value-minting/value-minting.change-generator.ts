@@ -123,4 +123,6 @@ export const valueMinting = {
       statement: "This module answers no other change.",
     },
   ],
+  createdAt: "2026-08-30T01:18:26.538Z",
+  updatedAt: "2026-10-08T14:53:49.000Z",
 } as const satisfies ChangeGenerator

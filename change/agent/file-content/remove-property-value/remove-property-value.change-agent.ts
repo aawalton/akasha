@@ -74,4 +74,6 @@ export const removePropertyValue = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
+  createdAt: "2026-09-07T00:28:55.392Z",
+  updatedAt: "2026-09-24T16:12:04.000Z",
 } as const satisfies ChangeAgent

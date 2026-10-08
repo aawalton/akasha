@@ -18,4 +18,6 @@ export const ruleLocked = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-05T17:00:45.075Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies BooleanProperty

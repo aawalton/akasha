@@ -13,4 +13,6 @@ export const teslaModelY2025 = {
     "- https://carbuzz.com/2025-tesla-model-y-iihs-top-safety-pick-plus/\n- https://www.tesla.com/IRA\n- https://xcarspace.com/tesla-model-y-juniper-2025-facelift-range-specs-pricing-expert-analysis/\n- https://www.iihs.org/ratings/vehicle/tesla/model-y-4-door-suv/2025",
   exclusionReason: "Tesla / Elon Musk association — personal exclusion",
   carModel: "car-model/tesla-model-y",
+  createdAt: "2026-05-21T14:37:58.568Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

@@ -10,4 +10,6 @@ export const ci = {
   dockerfile: "dockerfile",
   extensions: "json",
   repository: "cluster/ci",
+  createdAt: "2026-09-08T15:13:44.568Z",
+  updatedAt: "2026-09-24T22:19:44.000Z",
 } as const satisfies BuiltImage

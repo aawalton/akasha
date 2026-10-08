@@ -17,4 +17,6 @@ export const lamborghiniUrusSe = {
     "1. https://www.lamborghini.com/en-en/models/urus/urus-se — official\n2. https://en.wikipedia.org/wiki/Lamborghini_Urus\n3. https://www.thedrive.com/car-reviews/2025-lamborghini-urus-se-review\n4. https://carbuzz.com/cars/lamborghini/urus-se/\n5. https://www.kbb.com/lamborghini/urus/\n6. https://www.edmunds.com/lamborghini/urus/",
   exclusionReason: "All years excluded",
   carMake: "car-make/lamborghini",
+  createdAt: "2026-05-21T14:16:34.954Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

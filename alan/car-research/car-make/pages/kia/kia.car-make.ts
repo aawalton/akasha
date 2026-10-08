@@ -23,4 +23,6 @@ export const kia = {
   shortList: true,
   sources:
     "1. https://www.kia.com/us/en/ev.html — official US EV/hybrid lineup\n2. https://www.kiamedia.com/us/en — Kia US Media press kits (per-MY model overviews)\n3. https://www.kianewscenter.com/ — Kia global news center\n4. https://www.kbb.com/car-news/nhtsas-new-kill-switch-law-approaches-key-deadline/ — IIJA mandate background\n5. https://www.jdpower.com/cars/ratings/2025 — JD Power 2025 brand ratings\n6. https://www.jalopnik.com/1962293/kia-reliability-according-to-consumer-reports/ — CR brand ranking\n7. https://www.kiamedia.com/us/en/media/pressreleases/23210/kia-ev6-ev9-and-niro-owners-gain-access-to-over-21500-tesla-superchargers — NACS / Supercharger access announcement\n8. https://owners.kia.com/us/en/about-uvo-link.html — Kia Connect platform overview",
+  createdAt: "2026-05-21T14:13:20.589Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

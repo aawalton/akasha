@@ -7,5 +7,6 @@ export const volumeLimitFrom = {
   propertySlug: "volume-limit-from",
   definition: "the first day a volume limit bound Alan",
   types: "ts",
-  updatedAt: "2026-10-08T15:26:31.555Z",
+  updatedAt: "2026-10-08T15:31:39.535Z",
+  createdAt: "2026-09-21T13:41:04.944Z",
 } as const satisfies CalendarDateProperty

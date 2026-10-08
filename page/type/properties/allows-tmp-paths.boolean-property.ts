@@ -22,4 +22,6 @@ export const allowsTmpPaths = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-05T15:23:47.759Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies BooleanProperty

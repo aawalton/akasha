@@ -7,4 +7,6 @@ export const declineDate = {
   propertySlug: "decline-date",
   definition: "the day Alan turned the movement down",
   types: "ts",
+  createdAt: "2026-09-19T00:42:24.273Z",
+  updatedAt: "2026-09-19T00:45:00.000Z",
 } as const satisfies CalendarDateProperty

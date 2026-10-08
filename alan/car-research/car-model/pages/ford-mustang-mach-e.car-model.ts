@@ -17,4 +17,6 @@ export const fordMustangMachE = {
     "- [Ford.com Mustang Mach-E](https://www.ford.com/suvs/mach-e/)\n- [Edmunds Mach-E](https://www.edmunds.com/ford/mustang-mach-e/)\n- [KBB Mach-E specs](https://www.kbb.com/ford/mustang-mach-e/2025/specs/)\n- [Autoblog 2026 Mach-E](https://www.autoblog.com/cars/ford/mustang-mach-e/2026)",
   exclusionReason: "American car manufacturer — personal exclusion",
   carMake: "car-make/ford",
+  createdAt: "2026-05-21T14:08:01.439Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

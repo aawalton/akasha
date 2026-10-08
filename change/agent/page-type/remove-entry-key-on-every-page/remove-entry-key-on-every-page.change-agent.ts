@@ -45,4 +45,6 @@ export const removeEntryKeyOnEveryPage = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-24T20:30:41.681Z",
+  updatedAt: "2026-09-24T20:31:15.000Z",
 } as const satisfies ChangeAgent

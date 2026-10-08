@@ -189,4 +189,6 @@ export const addPropertyValues = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-09T23:29:59.836Z",
+  updatedAt: "2026-09-29T02:28:20.000Z",
 } as const satisfies ChangeAgent

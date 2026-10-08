@@ -21,4 +21,6 @@ export const removeFileCode = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-07T01:42:10.625Z",
+  updatedAt: "2026-09-22T10:09:40.000Z",
 } as const satisfies ChangeMechanical

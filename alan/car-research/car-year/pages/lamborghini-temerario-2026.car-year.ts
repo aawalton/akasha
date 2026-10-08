@@ -13,4 +13,6 @@ export const lamborghiniTemerario2026 = {
     "1. https://www.lamborghini.com/en-en/models/temerario\n2. https://www.edmunds.com/car-news/2026-lamborghini-temerario-first-drive-review.html\n3. https://www.autoevolution.com/news/lamborghini-finally-kicks-off-temerario-deliveries-lightweight-alleggerita-also-available-263069.html\n4. https://www.kbb.com/lamborghini/temerario/\n5. https://www.cars.com/research/lamborghini-temerario-2026/specs/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lamborghini-temerario",
+  createdAt: "2026-05-21T14:17:01.503Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

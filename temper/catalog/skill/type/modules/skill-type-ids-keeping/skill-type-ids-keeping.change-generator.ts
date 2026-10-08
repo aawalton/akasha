@@ -12,4 +12,6 @@ export const skillTypeIdsKeeping = {
       statement: "The type is written by a machine from the skill type pages.",
     },
   ],
+  createdAt: "2026-09-27T01:56:58.516Z",
+  updatedAt: "2026-09-27T01:57:17.000Z",
 } as const satisfies ChangeGenerator

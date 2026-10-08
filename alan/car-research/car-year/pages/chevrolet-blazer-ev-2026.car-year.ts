@@ -13,4 +13,6 @@ export const chevroletBlazerEv2026 = {
     "- [Chevrolet 2026 Blazer EV](https://www.chevrolet.com/electric/blazer-ev)\n- [Edmunds 2026](https://www.edmunds.com/chevrolet/blazer-ev/)\n- [KBB 2026](https://www.kbb.com/chevrolet/blazer-ev/)",
   exclusionReason: "American car manufacturer — personal exclusion",
   carModel: "car-model/chevrolet-blazer-ev",
+  createdAt: "2026-05-21T14:04:34.941Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

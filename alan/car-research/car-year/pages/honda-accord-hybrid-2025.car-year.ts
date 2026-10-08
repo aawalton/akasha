@@ -13,4 +13,6 @@ export const hondaAccordHybrid2025 = {
     "- https://www.edmunds.com/honda/accord/2025/hybrid/\n- https://www.kbb.com/honda/accord-hybrid/2025/specs/\n- https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=accord-sedan&modelyear=2025",
   exclusionReason: "All trims excluded",
   carModel: "car-model/honda-accord-hybrid",
+  createdAt: "2026-05-21T14:13:12.907Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

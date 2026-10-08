@@ -25,4 +25,6 @@ export const runsTabooCheck = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T20:27:45.046Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies BooleanProperty

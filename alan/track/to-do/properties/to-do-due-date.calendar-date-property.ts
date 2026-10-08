@@ -7,4 +7,6 @@ export const toDoDueDate = {
   propertySlug: "to-do-due-date",
   definition: "the day a to-do comes due",
   types: "ts",
+  createdAt: "2026-09-03T04:57:44.119Z",
+  updatedAt: "2026-09-15T16:02:20.000Z",
 } as const satisfies CalendarDateProperty

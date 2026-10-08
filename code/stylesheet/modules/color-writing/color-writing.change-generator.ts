@@ -59,4 +59,6 @@ export const colorWriting = {
       statement: "Nothing here commits.",
     },
   ],
+  createdAt: "2026-09-24T22:38:22.775Z",
+  updatedAt: "2026-09-24T22:38:34.000Z",
 } as const satisfies ChangeGenerator

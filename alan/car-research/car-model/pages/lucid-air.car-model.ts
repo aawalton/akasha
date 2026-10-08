@@ -17,4 +17,6 @@ export const lucidAir = {
     "- https://lucidmotors.com/air\n- https://www.cars.com/research/lucid-air-2025/\n- https://cars.usnews.com/cars-trucks/lucid/air\n- https://www.kbb.com/lucid/air/2025/specs/\n- https://insideevs.com/news/708712/lucid-air-pure-price-cut/",
   exclusionReason: "All years excluded",
   carMake: "car-make/lucid",
+  createdAt: "2026-05-21T14:22:16.142Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

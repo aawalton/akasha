@@ -12,4 +12,6 @@ export const lexusLx2025 = {
   sources: "- 2025 Lexus LX 700h pressroom",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lexus-lx",
+  createdAt: "2026-05-21T14:25:23.603Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -13,4 +13,6 @@ export const lotusEmeya2025 = {
     "- [InsideEVs — 2025 Emeya first drive](https://insideevs.com/reviews/725170/lotus-emeya-first-drive-review/)\n- [CarBuzz — 2025 Emeya specs and trims](https://carbuzz.com/cars/lotus/emeya/2025/specs-and-trims/)\n- [Top Gear — Emeya](https://www.topgear.com/car-reviews/lotus/emeya)\n- [EV Database — Emeya R](https://ev-database.org/car/2143/Lotus-Emeya-R)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lotus-emeya",
+  createdAt: "2026-05-21T14:25:04.135Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

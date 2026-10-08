@@ -16,4 +16,6 @@ export const volvoEx30 = {
   sources:
     "- https://www.volvocars.com/us/cars/ex30-electric/specifications/\n- https://insideevs.com/news/702527/2025-volvo-ex30-range-specs-pricing/\n- https://www.wardsauto.com/news/volvo-ends-EX30-sales-us-2026/815160/",
   carMake: "car-make/volvo",
+  createdAt: "2026-05-21T14:42:03.946Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel

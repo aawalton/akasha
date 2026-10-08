@@ -7,4 +7,6 @@ export const showCountBadge = {
   propertySlug: "show-count-badge",
   definition: "whether a nav item carries how many pages are under it",
   types: "ts",
+  createdAt: "2026-09-03T16:16:07.168Z",
+  updatedAt: "2026-09-15T15:59:02.000Z",
 } as const satisfies BooleanProperty

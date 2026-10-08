@@ -13,4 +13,6 @@ export const bmw7Series2025 = {
     "- Cars.com 2025 750e — https://www.cars.com/research/bmw-750e-2025/\n- Edmunds 2025 — https://www.edmunds.com/bmw/7-series/2025/plug-in-hybrid/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bmw-7-series",
+  createdAt: "2026-05-21T14:14:19.377Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

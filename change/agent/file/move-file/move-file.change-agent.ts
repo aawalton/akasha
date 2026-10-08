@@ -31,4 +31,6 @@ export const moveFile = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
+  createdAt: "2026-09-22T00:34:06.827Z",
+  updatedAt: "2026-09-22T10:07:43.000Z",
 } as const satisfies ChangeAgent

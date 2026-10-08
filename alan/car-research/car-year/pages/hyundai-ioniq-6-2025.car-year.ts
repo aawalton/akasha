@@ -13,4 +13,6 @@ export const hyundaiIoniq62025 = {
     "- https://www.hyundaiusa.com/us/en/vehicles/ioniq-6\n- https://www.edmunds.com/hyundai/ioniq-6/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/hyundai-ioniq-6",
+  createdAt: "2026-05-21T14:13:57.726Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -7,4 +7,6 @@ export const dropsScripts = {
   propertySlug: "drops-scripts",
   definition: "whether a zone drops scribing scripts",
   types: "ts",
+  createdAt: "2026-09-02T01:38:27.089Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies BooleanProperty

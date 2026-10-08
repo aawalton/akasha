@@ -13,4 +13,6 @@ export const fordEscape2026 = {
     "- [Edmunds 2026 Escape PHEV](https://www.edmunds.com/ford/escape/2026/plug-in-hybrid/)\n- [Jay Malone Ford 2026 trims](https://www.jaymaloneford.com/blog/2026/april/11/2026-ford-escape-trim-levels-active-st-line-st-line-select-st-line-elite-platinum-phev.htm)\n- [Ford Authority - 2026 packages](https://fordauthority.com/2025/10/2026-ford-escape-all-available-packages/)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/ford-escape",
+  createdAt: "2026-05-21T14:10:34.377Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

@@ -23,4 +23,6 @@ export const volvo = {
   shortList: true,
   sources:
     "- https://www.volvocars.com/us/ — official US site\n- https://www.media.volvocars.com/us/en-us/ — Volvo Car USA press releases\n- https://www.volvocars.com/intl/news/our-company/electrification-update-2024/ — 2024 walk-back of all-electric-by-2030\n- https://shopkunes.com/blog/what-volvos-are-discontinuing-in-2026 — S60/S90 discontinuation summary\n- https://www.wardsauto.com/news/volvo-ends-EX30-sales-us-2026/815160/ — EX30 US exit announcement\n- https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/ — CR reliability rankings",
+  createdAt: "2026-05-21T14:41:27.271Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

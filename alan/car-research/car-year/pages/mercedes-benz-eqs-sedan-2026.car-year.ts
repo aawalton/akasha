@@ -13,4 +13,6 @@ export const mercedesBenzEqsSedan2026 = {
     "- https://www.mbusa.com/en/vehicles/class/eqs/sedan\n- https://carbuzz.com/mercedes-benz-ev-models-you-can-buy-in-2026/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mercedes-benz-eqs-sedan",
+  createdAt: "2026-05-21T14:30:23.832Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

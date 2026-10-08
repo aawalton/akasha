@@ -13,4 +13,6 @@ export const bmwXm2026 = {
     "- BMW Blog 2026 XM update — https://www.bmwblog.com/2026/01/14/2026-bmw-xm-price-cut-charging-updates/\n- Edmunds 2026 XM Label — https://www.edmunds.com/bmw/xm-label/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/bmw-xm",
+  createdAt: "2026-05-21T14:12:31.288Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

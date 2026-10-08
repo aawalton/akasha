@@ -12,4 +12,6 @@ export const toyotaBz4x2026 = {
   sources:
     "- https://www.toyota.com/bz/\n- https://pressroom.toyota.com/2026-toyota-bz/\n- https://insideevs.com/news/735069/toyota-bz4x-2026-refresh/\n- https://electrek.co/2025/03/19/toyota-bz-2026-electric-suv-debut/",
   carModel: "car-model/toyota-bz4x",
+  createdAt: "2026-05-21T14:40:00.512Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

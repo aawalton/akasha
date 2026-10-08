@@ -12,4 +12,6 @@ export const mercedesBenzAmgSl63SEPerformance2025 = {
   sources: "- https://www.kbb.com/mercedes-benz/mercedes-amg-sl/2025/sl-63-s-e-performance/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/mercedes-benz-amg-sl-63-s-e-performance",
+  createdAt: "2026-05-21T14:41:56.282Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

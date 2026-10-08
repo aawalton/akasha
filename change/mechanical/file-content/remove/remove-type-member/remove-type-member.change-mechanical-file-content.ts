@@ -71,4 +71,6 @@ export const removeTypeMember = {
     },
   ],
   changeKind: "change-kind/change-mechanical",
+  createdAt: "2026-09-08T19:36:28.167Z",
+  updatedAt: "2026-09-22T10:09:40.000Z",
 } as const satisfies ChangeMechanicalFileContent

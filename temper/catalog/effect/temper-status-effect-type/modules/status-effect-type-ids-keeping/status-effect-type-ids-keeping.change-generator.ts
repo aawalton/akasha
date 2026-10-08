@@ -16,4 +16,6 @@ export const statusEffectTypeIdsKeeping = {
       statement: "A status effect type's id is its page's slug.",
     },
   ],
+  createdAt: "2026-09-27T02:34:33.328Z",
+  updatedAt: "2026-09-27T02:34:37.000Z",
 } as const satisfies ChangeGenerator

@@ -23,4 +23,6 @@ export const hyundai = {
   shortList: true,
   sources:
     "- https://www.hyundaiusa.com/us/en/electrified\n- https://www.hyundainews.com/en-us/releases/3517 (2030 strategy)\n- https://www.electrive.com/2025/09/19/hyundai-sets-2030-target-with-hybrid-and-erev-focus/\n- https://www.hyundainews.com/releases/4406 (NACS access)\n- https://www.prnewswire.com/news-releases/hyundai-owners-gain-access-to-us-tesla-superchargers-with-complimentary-nacs-adapters-302410279.html\n- https://owners.hyundaiusa.com/us/en/page/blue-link\n- https://www.hyundaiusa.com/us/en/bluelinkplus\n- https://www.kbb.com/car-news/nhtsas-new-kill-switch-law-approaches-key-deadline/\n- https://www.consumerreports.org/cars/brands/hyundai/\n- https://www.jdpower.com/cars/2025/hyundai/tucson",
+  createdAt: "2026-05-21T14:10:55.227Z",
+  updatedAt: "2026-09-15T16:05:34.000Z",
 } as const satisfies CarMake

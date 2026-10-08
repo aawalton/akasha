@@ -7,4 +7,6 @@ export const rruleAnchorFromCompletion = {
   propertySlug: "rrule-anchor-from-completion",
   definition: "whether the next occurrence counts from when the task was last done",
   types: "ts",
+  createdAt: "2026-09-02T01:40:40.061Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies BooleanProperty

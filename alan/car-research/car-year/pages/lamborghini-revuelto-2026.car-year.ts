@@ -13,4 +13,6 @@ export const lamborghiniRevuelto2026 = {
     "1. https://www.lamborghini.com/original/DAM/lamborghini/0_facelift_2025/model_details/revuelto/2026/brochure/03_05/Lamborghini_REVUELTO_DIGITAL_BROCHURE_EN_2026_WCAG.pdf\n2. https://www.iseecars.com/car/lamborghini-revuelto-price\n3. https://www.truecar.com/overview/lamborghini/revuelto/2026/\n4. https://www.kbb.com/lamborghini/revuelto/\n5. https://www.autocar.co.uk/car-review/lamborghini/revuelto",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lamborghini-revuelto",
+  createdAt: "2026-05-21T14:16:54.664Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

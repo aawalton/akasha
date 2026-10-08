@@ -13,4 +13,6 @@ export const lincolnCorsairGrandTouring2025 = {
     "- Edmunds 2025 Corsair PHEV: https://www.edmunds.com/lincoln/corsair/2025/plug-in-hybrid/\n- Consumer Guide 2025 Corsair GT: https://blog.consumerguide.com/2025-lincoln-corsair-grand-touring-review-prices-and-specs/\n- KBB 2025 Corsair: https://www.kbb.com/lincoln/corsair/2025/",
   exclusionReason: "All trims excluded",
   carModel: "car-model/lincoln-corsair-grand-touring",
+  createdAt: "2026-05-21T14:19:46.910Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

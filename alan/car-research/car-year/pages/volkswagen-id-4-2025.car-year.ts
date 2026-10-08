@@ -13,4 +13,6 @@ export const volkswagenId42025 = {
     "- https://www.edmunds.com/volkswagen/id4/2025/\n- https://recharged.com/articles/2025-vw-id4\n- https://www.kbb.com/volkswagen/id4/2025/specs/\n- https://media.vw.com/releases/1596",
   exclusionReason: "All trims excluded",
   carModel: "car-model/volkswagen-id-4",
+  createdAt: "2026-05-21T14:41:46.163Z",
+  updatedAt: "2026-09-15T16:06:42.000Z",
 } as const satisfies CarYear

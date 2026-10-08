@@ -16,4 +16,6 @@ export const specialEffectTypeIdsKeeping = {
       statement: "A special effect type's id is its page's slug.",
     },
   ],
+  createdAt: "2026-09-27T02:35:08.673Z",
+  updatedAt: "2026-09-27T02:35:12.000Z",
 } as const satisfies ChangeGenerator

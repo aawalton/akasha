@@ -13,4 +13,6 @@ export const genesisElectrifiedGv702026 = {
     "- [Genesis USA — 2026 Electrified GV70](https://www.genesis.com/us/en/electrified-gv70)\n- [U.S. News 2026 Electrified GV70](https://cars.usnews.com/cars-trucks/genesis/electrified-gv70/2026)\n- [Edmunds 2026 Electrified GV70](https://www.edmunds.com/genesis/electrified-gv70/)\n- [MotorAuthority — 2026 GV70 preview](https://www.motorauthority.com/news/1145089_2026-genesis-gv70-preview)",
   exclusionReason: "All trims excluded",
   carModel: "car-model/genesis-electrified-gv70",
+  createdAt: "2026-05-21T14:08:12.931Z",
+  updatedAt: "2026-09-15T16:06:24.000Z",
 } as const satisfies CarYear

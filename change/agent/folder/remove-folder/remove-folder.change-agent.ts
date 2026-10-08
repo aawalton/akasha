@@ -27,4 +27,6 @@ export const removeFolder = {
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
+  createdAt: "2026-09-08T19:32:22.374Z",
+  updatedAt: "2026-09-22T10:07:38.000Z",
 } as const satisfies ChangeAgent

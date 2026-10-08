@@ -17,4 +17,6 @@ export const fordEscape = {
     "- [Ford.com Escape 2026](https://www.ford.com/suvs-crossovers/escape/)\n- [Ford Authority - Escape discontinuation](https://www.jclewis.com/blog/end-of-an-era-the-2026-ford-escape-and-what-comes-next)\n- [Edmunds Escape PHEV 2026](https://www.edmunds.com/ford/escape/2026/plug-in-hybrid/)\n- [Edmunds Escape PHEV 2025](https://www.edmunds.com/ford/escape/2025/plug-in-hybrid/)\n- [Jay Malone - 2026 Escape trims](https://www.jaymaloneford.com/blog/2026/april/11/2026-ford-escape-trim-levels-active-st-line-st-line-select-st-line-elite-platinum-phev.htm)",
   exclusionReason: "All years excluded",
   carMake: "car-make/ford",
+  createdAt: "2026-05-21T14:08:52.776Z",
+  updatedAt: "2026-09-15T16:06:00.000Z",
 } as const satisfies CarModel
