@@ -93,6 +93,18 @@ export const terminusCentralStar = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The star's polar caps glow as hot spots, shedding mana and X-rays in every direction above them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The star's surface lies near its own photon sphere, so its gravity bends its light very strongly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "That bending smears the hot spots' glow, so the poles get at most two to three times the equator's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Terminus's poles get the fiercest X-rays and brightest aurora, and are the most dangerous.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -150,5 +162,5 @@ export const terminusCentralStar = {
     },
   ],
   createdAt: "2026-10-08T19:28:35.009Z",
-  updatedAt: "2026-10-08T20:39:15.609Z",
+  updatedAt: "2026-10-08T20:43:21.403Z",
 } as const satisfies Lore
