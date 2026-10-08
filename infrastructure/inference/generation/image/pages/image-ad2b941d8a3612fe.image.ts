@@ -19,4 +19,6 @@ export const imageAd2b941d8a3612fe = {
   wardrobeTags: ["wardrobe-tag/shirt"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-02T14:51:48.350Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

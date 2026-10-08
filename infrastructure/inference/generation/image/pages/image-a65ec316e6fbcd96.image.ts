@@ -14,4 +14,6 @@ export const imageA65ec316e6fbcd96 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, candid photograph. The open downs above a fantasy canal city on a bright summer morning, with nobody in the frame. A pale dirt road runs up over the crest and away across a great rolling chalk upland of short green turf, the land going away in long smooth green swells like a sleeping animal's back, bare of trees, all the way to a far horizon. Wild thyme and small flowers grow in the turf at the road's edge, and the long grass beside it leans in the wind. Behind and below, at the bottom of the slope, the roofs, canals and copper domes of the city lie small in the distance, with a wide flat lake beyond them shining silver in the sun. Huge open blue sky fills most of the frame, with a few high white clouds and their shadows sliding over the downs, and tiny dark specks of larks high up. Clear fresh morning light, bright and windy. Nothing lettered. Wide landscape view from the road at the crest, 24mm lens, deep focus, vast sense of space.",
+  createdAt: "2026-10-06T15:35:35.000Z",
+  updatedAt: "2026-10-06T15:35:35.000Z",
 } as const satisfies Image

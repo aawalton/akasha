@@ -19,4 +19,6 @@ export const image99e98ddc0487f69a = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings, wings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. At dawn she sits alone on the crest of a grassy park hill, knees drawn up, watching the sun rise, cradling a steaming cup of tea in both hands, a small open Bible resting on the grass beside her. A soft cream wool blanket is wrapped around her and has slipped down off her shoulders to her waist, her bare back and shoulders turned to the camera, a thin gold chain at her neck. Camera three-quarter from behind at a low angle, her face in soft profile, the rising sun low and rosy on the horizon, mist in the valley below. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:52:58.646Z",
+  updatedAt: "2026-09-28T19:54:02.000Z",
 } as const satisfies Image

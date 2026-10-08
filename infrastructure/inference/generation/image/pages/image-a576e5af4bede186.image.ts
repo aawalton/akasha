@@ -13,4 +13,6 @@ export const imageA576e5af4bede186 = {
   wardrobeTags: ["wardrobe-tag/sweater"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:08:02.894Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

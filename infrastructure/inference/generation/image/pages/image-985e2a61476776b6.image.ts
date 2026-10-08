@@ -14,4 +14,6 @@ export const image985e2a61476776b6 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-up"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/dragon"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

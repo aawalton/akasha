@@ -17,4 +17,6 @@ export const imageAcd345b44da8abd8 = {
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:43.892Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

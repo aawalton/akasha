@@ -19,4 +19,6 @@ export const imageA68777a9e604d2a5 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add no horns or features she does not have. She lies on her back in tall uncut grass on a hilltop in a park, arms stretched lazily above her head, one knee raised, hair fanned out in the grass, gazing up in wonder at huge white cumulus clouds drifting across a deep blue sky, lips parted. She wears a white crochet bikini, the top slightly askew, and a stack of beaded bracelets; the tall grass half-hides her body. Camera low at grass level from beside her head, grass blades blurred in the foreground, bright breezy afternoon. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:40:07.795Z",
+  updatedAt: "2026-09-28T19:42:44.000Z",
 } as const satisfies Image

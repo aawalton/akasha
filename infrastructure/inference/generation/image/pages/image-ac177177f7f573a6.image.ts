@@ -14,4 +14,6 @@ export const imageAc177177f7f573a6 = {
   height: 1216,
   prompt:
     "photorealistic fantasy portrait, a single gorgeous young Korean woman of twenty alone, framed from head to mid-thigh, with a K-pop idol's face and figure: a small V-line face, big sparkling doe eyes with soft aegyo-sal, a small delicate nose, glossy plump pink lips, flawless pale porcelain skin with a soft natural blush, a sweet innocent bright smile, adorable and alluring at once. An idol's slim figure, very slender, tiny waist, long slim legs and a small chest. Soft milk-tea brown hair in two loose low pigtails with ribbons. A fitted off-shoulder butter-yellow knit top and a short brown plaid skirt with cream thigh-high socks. Leaning against a wooden door frame of a cozy fantasy bakery, warm light, soft bokeh.",
+  createdAt: "2026-10-03T12:59:57.428Z",
+  updatedAt: "2026-10-03T12:59:58.000Z",
 } as const satisfies Image

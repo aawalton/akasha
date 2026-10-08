@@ -16,4 +16,6 @@ export const imageA3cdc648c7b74d5c = {
   ],
   prompt:
     "Keep this exact woman: same face, freckles, eyes, lips, skin and hair. Change the scene around her. Photorealistic. She has pale skin with a dense dusting of freckles across her nose, cheeks, shoulders and arms, bright green eyes, thin arched copper brows, a heart-shaped face, a wide mouth, and thick copper-red hair piled up in a messy high bun with loose strands stuck to her neck and falling around her face. She is tall, five foot ten, long-limbed and slim. She wears an oversized faded sage green tee that falls to mid-thigh and has slid off one bare freckled shoulder, no bra under it, the hem hiding any shorts, and white sneakers. She stands squarely at the bottom of an exit ramp, one hand on her hip, chin lifted, her green eyes narrowed in a slow appraising look aimed just past the camera to the left, a sly wide grin spreading across her face. Behind her are the glass doors of a ride gift shop, a steel railed exit ramp, tropical jungle planting and a green coaster track above, and a few blurred park visitors. Midafternoon, bright hot Florida sun, crisp shadows. Framed from the knees up, 50mm lens, shallow depth of field, she fills the frame.",
+  createdAt: "2026-10-06T22:01:07.000Z",
+  updatedAt: "2026-10-06T22:01:07.000Z",
 } as const satisfies Image

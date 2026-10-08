@@ -22,4 +22,6 @@ export const image9b0fdb7a2e89f75b = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/panties"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:12.746Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

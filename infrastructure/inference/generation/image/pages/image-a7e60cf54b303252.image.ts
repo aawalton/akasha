@@ -19,4 +19,6 @@ export const imageA7e60cf54b303252 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She lies face-down directly on the bare grass under a great old oak, no blanket, her cheek resting on her stacked hands, eyes closed, fingers of one hand spread into the grass and roots as if listening to the ground. She wears only a loosened earth-brown linen wrap skirt low on her hips and a beaded anklet; her back is bare and her chest pressed hidden against the earth. Camera from above at an angle, long late-afternoon shadows and warm amber light, fallen leaves around her. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:08:57.373Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

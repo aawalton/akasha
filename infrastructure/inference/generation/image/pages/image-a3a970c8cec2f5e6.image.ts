@@ -19,4 +19,6 @@ export const imageA3a970c8cec2f5e6 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She lies on her back on the bare grass of a sunlit park lawn with her knees bent and her bare feet planted flat, soles pressed into the grass, feeling the earth; her palms rest flat on the grass at her sides. Eyes closed, face tipped up toward the sky with a serene smile. She wears only faded cut-off denim shorts; her long hair is pulled forward over her shoulders and falls across her chest, covering it. Camera low at grass level looking up past her bare feet toward her face, big open blue sky with a few clouds, bright afternoon. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:12:59.405Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

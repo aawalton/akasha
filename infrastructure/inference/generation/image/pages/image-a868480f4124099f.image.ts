@@ -16,4 +16,6 @@ export const imageA868480f4124099f = {
   height: 1216,
   prompt:
     "A 22-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Indian with warm brown skin, waist-length black hair, a small nose stud, slim fit build, sitting cross-legged on a woven mat under a flowering jacaranda in a park, a coral sarong knotted loosely at her hips and nothing on top, long hair falling forward over her chest, sipping iced tea through a straw, looking off at the purple blossoms, three-quarter view, dappled violet-tinted afternoon light, alone, photorealistic, natural skin detail, 85mm",
+  createdAt: "2026-09-28T21:10:15.657Z",
+  updatedAt: "2026-09-28T21:10:35.000Z",
 } as const satisfies Image

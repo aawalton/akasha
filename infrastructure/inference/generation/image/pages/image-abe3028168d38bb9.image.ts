@@ -16,4 +16,6 @@ export const imageAbe3028168d38bb9 = {
   ],
   prompt:
     "Keep this exact place. Fantasy photorealistic, candid photograph. The old toll bridge at Wend Meadows in mid-morning, with nobody in the frame. Keep the old humped stone bridge with its one high arch over the river, weeds growing from its cracks, and the little roofless tollhouse at one end with its door hanging off its hinges. Beside the bridge add a small cluster of low turf-roofed shepherds' huts and dry-stone sheepfolds full of sheep, on a long green valley floor between low hills. The river under the arch is brown, shallow and still, choked with pale silt so the water looks like weak tea. Bright warm summer morning sun, clear sky. Nothing lettered. Wide eye-level view from the riverbank, 28mm lens, deep focus.",
+  createdAt: "2026-10-06T13:10:41.000Z",
+  updatedAt: "2026-10-06T13:10:41.000Z",
 } as const satisfies Image

@@ -11,4 +11,6 @@ export const imageAc53733dab834e32 = {
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:28.038Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

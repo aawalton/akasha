@@ -26,4 +26,6 @@ export const imageAeb72a0074c23273 = {
   poseTags: ["pose-tag/standing", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/coat"],
   fantasyTags: ["fantasy-tag/sci-fi"],
+  createdAt: "2026-06-29T22:43:27.979Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

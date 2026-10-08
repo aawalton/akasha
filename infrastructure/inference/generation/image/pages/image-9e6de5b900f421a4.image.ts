@@ -19,4 +19,6 @@ export const image9e6de5b900f421a4 = {
     "seedvr2-node 5a4bf428f3735cc72ac760d40f372f94dec28422",
   ],
   relationshipLevel: "closeness-level/level-1",
+  createdAt: "2026-09-22T00:10:41.232Z",
+  updatedAt: "2026-09-27T15:47:03.000Z",
 } as const satisfies Image

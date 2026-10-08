@@ -21,4 +21,6 @@ export const image9d3175b9cf100b3d = {
   wardrobeTags: ["wardrobe-tag/camisole"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:28.491Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

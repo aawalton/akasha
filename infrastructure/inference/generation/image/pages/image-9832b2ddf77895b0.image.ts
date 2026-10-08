@@ -16,4 +16,6 @@ export const image9832b2ddf77895b0 = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Native American with warm copper skin, very long straight black hair, a turquoise and silver cuff bracelet, fit athletic build, standing in tall meadow grass and wildflowers at the wild edge of a park, nude, the grass rising to her hips, arms raised gathering her hair up off her neck, face turned toward the setting sun with eyes closed, seen from the side at a distance, warm orange sunset glow, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:25:44.680Z",
+  updatedAt: "2026-09-28T21:26:10.000Z",
 } as const satisfies Image

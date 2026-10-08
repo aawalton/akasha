@@ -12,4 +12,6 @@ export const image9ab0e94f829ec066 = {
     "setting-tag/city",
     "setting-tag/sunset",
   ],
+  createdAt: "2026-09-21T21:50:26.590Z",
+  updatedAt: "2026-09-27T15:48:03.000Z",
 } as const satisfies Image

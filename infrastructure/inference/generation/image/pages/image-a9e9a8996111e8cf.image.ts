@@ -19,4 +19,6 @@ export const imageA9e9a8996111e8cf = {
     "wardrobe-tag/hat",
     "wardrobe-tag/fully-clothed",
   ],
+  createdAt: "2026-09-21T21:51:38.405Z",
+  updatedAt: "2026-09-27T15:50:06.000Z",
 } as const satisfies Image

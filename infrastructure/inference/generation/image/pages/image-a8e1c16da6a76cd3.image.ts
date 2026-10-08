@@ -16,4 +16,6 @@ export const imageA8e1c16da6a76cd3 = {
   height: 1216,
   prompt:
     "Fantasy film still, photorealistic, of a 24-year-old adult woman, a cat-folk fantasy creature: in place of human ears she has pointed furry cat ears that are part of her body, the fur at their base growing from her scalp among the roots of her hair, ears swiveling and expressive, and a long living cat tail that curls and sways, brown tabby ears and tail, very petite slim build, flat chest, A-cup, toned flat stomach, fresh youthful grown woman's face, light brown skin, curly dark hair in two puffs, amber eyes, wearing a little green elf-style tunic dress and striped stockings, chasing a glowing butterfly through an autumn fairy forest of golden leaves, mid-pounce, playful laugh, warm autumn light, 50mm lens",
+  createdAt: "2026-10-05T19:30:24.703Z",
+  updatedAt: "2026-10-05T19:31:06.000Z",
 } as const satisfies Image

@@ -18,4 +18,6 @@ export const image9c27f4ac654ec218 = {
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:50:41.472Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

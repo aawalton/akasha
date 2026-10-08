@@ -17,4 +17,6 @@ export const image9fcca7ce72d50d17 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/plain-background", "setting-tag/studio"],
   poseTags: ["pose-tag/front-view"],
+  createdAt: "2026-09-12T14:11:41.094Z",
+  updatedAt: "2026-09-27T15:49:04.000Z",
 } as const satisfies Image

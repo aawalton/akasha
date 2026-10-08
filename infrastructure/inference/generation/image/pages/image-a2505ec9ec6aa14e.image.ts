@@ -16,4 +16,6 @@ export const imageA2505ec9ec6aa14e = {
   height: 832,
   prompt:
     "A 22-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Vietnamese with golden skin, long black hair in a loose low bun, slim fit build, lying on her stomach on a pale green blanket beside a wicker picnic basket, topless in pink bikini bottoms, feet kicked up behind her and crossed at the ankles, biting into a slice of watermelon, looking down at a magazine, three-quarter view from slightly above, bright summer afternoon sun, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:13:59.003Z",
+  updatedAt: "2026-09-28T21:14:23.000Z",
 } as const satisfies Image

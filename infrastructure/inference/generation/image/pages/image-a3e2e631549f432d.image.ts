@@ -14,4 +14,6 @@ export const imageA3e2e631549f432d = {
   height: 1216,
   prompt:
     "fantasy photorealistic, a tall thin narrow canal house only one window wide, three storeys high with three stacked windows, old red brick, a painted blue front door at street level, squeezed between neighbouring houses on a stone canal walk in a fantasy guild city, red and gold paper lanterns strung along the canal, an overgrown wild garden with poppies and a leaning apple tree beside it, soft morning sunlight, empty scene, no people",
+  createdAt: "2026-10-07T01:17:41.000Z",
+  updatedAt: "2026-10-07T01:17:41.000Z",
 } as const satisfies Image

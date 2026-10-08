@@ -17,4 +17,6 @@ export const imageAc9576b9b2b60d28 = {
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/pants"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:43.894Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -22,4 +22,6 @@ export const image999187025dce2c78 = {
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:09:56.999Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

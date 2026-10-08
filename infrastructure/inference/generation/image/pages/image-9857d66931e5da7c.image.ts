@@ -22,4 +22,6 @@ export const image9857d66931e5da7c = {
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/hologram", "fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:10:24.988Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

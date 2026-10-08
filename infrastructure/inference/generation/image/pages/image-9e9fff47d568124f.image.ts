@@ -16,4 +16,6 @@ export const image9e9fff47d568124f = {
   height: 1216,
   prompt:
     "Candid photograph of a 24-year-old adult woman, grown woman's face, Swedish with fair lightly tanned skin and a few freckles, long wavy honey-blonde hair, slim athletic build with a small chest, sitting on the edge of an elegant hotel pool with her legs in the clear blue water, wearing a white ribbed one-piece swimsuit cut high on the hip, leaning back on her hands, head tipped back laughing at something off to the side, eyes squinting in the sun, not looking at the camera, white stone pool deck, cream parasols and manicured hedges behind, warm morning light, natural light, 35mm lens.",
+  createdAt: "2026-10-04T21:59:08.405Z",
+  updatedAt: "2026-10-04T21:59:52.000Z",
 } as const satisfies Image

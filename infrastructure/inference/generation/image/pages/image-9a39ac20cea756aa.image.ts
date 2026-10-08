@@ -14,4 +14,6 @@ export const image9a39ac20cea756aa = {
   height: 1216,
   prompt:
     "Photorealistic photograph, natural candid portrait. A gorgeous twenty one year old American woman stands alone in a sunny Florida theme park, framed head to thigh, leaning one shoulder against a palm tree, a vintage film camera hanging at her hip, looking at the camera with a cool, knowing half smile. Tall, slim and long legged, with a narrow waist, a small flat chest and small breasts, never curvy or busty. Light olive skin, long dark chocolate brown hair in loose effortless waves past her shoulders, hazel green eyes, thick dark brows, high cheekbones, full lips, a thin gold septum ring, gold hoop earrings. She wears a fitted white cropped tank top showing her flat stomach and loose olive green cargo pants sitting low on her hips. Behind her, softly out of focus, a busy theme park walkway with colourful ride structures and a bright blue sky. Bright late afternoon sunlight, warm golden tones. Shot on a full frame camera with an 85mm lens at f2, shallow depth of field, sharp focus on her eyes, she fills the frame.",
+  createdAt: "2026-10-06T21:30:27.000Z",
+  updatedAt: "2026-10-06T21:30:27.000Z",
 } as const satisfies Image

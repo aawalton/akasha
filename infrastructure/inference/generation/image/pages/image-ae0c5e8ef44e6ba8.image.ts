@@ -16,4 +16,6 @@ export const imageAe0c5e8ef44e6ba8 = {
   ],
   prompt:
     "Keep this exact woman: same face, freckles, eyes, lips, skin and hair. Change the scene around her. Fantasy photorealistic. She has very fair skin, a dusting of freckles across her nose and cheeks, sea-green eyes, sandy brows, a narrow face with a crooked grin, and chin-length tousled strawberry-blonde hair, here soaking wet and dark from swimming, plastered to her forehead and cheeks, droplets on her skin. She wears only the big navy parka, hood down, held closed at the front by one hand, bare skin beneath it, no hoodie, no towel, her bare wet legs drawn up to her chest. She sits on a flat grey slab of rock at the edge of a still dark lake, knees up, the parka wrapped round her like a tent. Her eyes are red-rimmed and wet from crying, her nose pink, and a slow crooked half grin is coming back onto her face as she looks straight into the camera, steady and tender. Behind her the flat mere steams faintly, and black fells stand against a dawn sky going pink, soft pink first light on her wet face. Medium close shot from slightly above, 50mm lens, shallow depth of field, she fills the frame, the water and fells soft behind her.",
+  createdAt: "2026-10-03T01:29:49.895Z",
+  updatedAt: "2026-10-03T01:29:50.000Z",
 } as const satisfies Image

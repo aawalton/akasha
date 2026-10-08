@@ -14,4 +14,6 @@ export const imageAcef9b2561d72507 = {
   height: 1216,
   prompt:
     "fantasy photorealistic interior of a long old Victorian glasshouse with white-painted iron frames at night, rows of pale white orchids on wooden staging glowing faintly silver, moonlight pouring through the glass roof, a small black iron stove with a kettle and a narrow cot against one wall, a stone path down the middle, a walled garden dark beyond the glass, quiet and still, no people, empty scene",
+  createdAt: "2026-10-04T16:16:47.692Z",
+  updatedAt: "2026-10-04T16:16:48.000Z",
 } as const satisfies Image

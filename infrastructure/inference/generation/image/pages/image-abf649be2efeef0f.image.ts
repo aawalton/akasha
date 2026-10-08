@@ -17,4 +17,6 @@ export const imageAbf649be2efeef0f = {
   ],
   prompt:
     "Fantasy photorealistic. Keep the place from the first image: this moment is in the narrow bed under the round window. The woman from the second image, a gorgeous, slim young Korean woman of about twenty with a K-pop idol's face: a small V-line face, big sparkling doe eyes in soft rose pink the same color as her hair, a small delicate nose, glossy pink lips, pale porcelain skin with a soft blush, a sweet bright smile, and short soft rose-pink hair in a layered bob with wispy side-swept bangs, a small pink-and-white flower clip above one ear, wearing a plain white linen shift. She lies in bed under the blanket, her head turned on the pillow toward the window sill, where a smoothed strip of cloth knuckle wrap faintly stained blue lies beside a little lemon tree in a pot and a soft pink carnation in a chipped teacup. Her eyes rest on them, with a small full-hearted smile. Grey early dawn light through the round window, soft and cool. Exactly one woman in frame, no other faces in focus, nothing lettered. Medium shot, 35mm lens, shallow depth of field, every face sharp and readable.",
+  createdAt: "2026-10-04T09:44:48.712Z",
+  updatedAt: "2026-10-04T09:44:49.000Z",
 } as const satisfies Image

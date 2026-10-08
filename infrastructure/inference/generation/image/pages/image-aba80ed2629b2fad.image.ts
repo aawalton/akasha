@@ -13,4 +13,6 @@ export const imageAba80ed2629b2fad = {
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/blue-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:50:50.094Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

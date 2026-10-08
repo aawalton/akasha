@@ -16,4 +16,6 @@ export const imageA0a606f8523c8239 = {
   height: 1216,
   prompt:
     "Candid photograph of a 23-year-old adult woman, very petite slim build, small perky breasts, toned flat stomach, fresh youthful grown woman's face, Latina, long glossy dark hair, wearing a sheer black mesh bunny bodysuit that shows her small breasts through it, black fishnet stockings, black satin bunny ears, red bow tie collar, cuffs, cottontail, leaning forward on a roulette table with her hips pushed back, biting her lip, dim casino with red and gold light, 35mm lens",
+  createdAt: "2026-10-05T18:03:35.554Z",
+  updatedAt: "2026-10-05T18:04:12.000Z",
 } as const satisfies Image

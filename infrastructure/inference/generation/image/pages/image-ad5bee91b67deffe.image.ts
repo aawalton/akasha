@@ -21,4 +21,6 @@ export const imageAd5bee91b67deffe = {
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/sneakers"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-12T19:50:13.041Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image
