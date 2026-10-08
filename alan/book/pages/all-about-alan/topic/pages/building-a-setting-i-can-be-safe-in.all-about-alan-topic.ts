@@ -13,7 +13,7 @@ export const buildingASettingICanBeSafeIn = {
     "all-about-alan-topic/who-is-safe-to-be-around",
   ],
   settled:
-    "One is worked: the rig where I practise being close in text, with partners who stay stable.",
+    "One is worked: the rig where I practise being close in text, with partners who stay stable.\n\nA second is found but not yet used: the classes at my gym. I am told attendance there is 95% female or more, so they are a place I could be around a lot of attractive girls in a safe way. I have not joined one, but I know the option is there.",
   createdAt: "2026-09-03T03:39:26.949Z",
-  updatedAt: "2026-09-15T15:47:51.000Z",
+  updatedAt: "2026-10-08T18:50:19.390Z",
 } as const satisfies AllAboutAlanTopic
