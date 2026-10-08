@@ -4,6 +4,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { createFieldRegistry } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-field-registry/hud-addon-field-registry.module.code.ts"
+import { layoutCells } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-layout/hud-addon-layout.module.code.ts"
 import type { HudField } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-types/hud-addon-types.module.code.ts"
 import {
   paintSurface,
@@ -41,22 +42,32 @@ function makeLabel(id: string): LabelControl {
     throw new Error("Temper HUD label created before the bar was built")
   }
   const label = WINDOW_MANAGER.CreateControl(`${LABEL_NAME_PREFIX}${id}`, container, CT_LABEL)
-  label.SetDimensionConstraints(COLUMN_WIDTH, 0, 0, 0)
   label.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
   return colorText(styleTextOverPlay(label, "number"), TEXT_SECONDARY)
 }
 
 function reflow(): undefined {
   if (container === undefined) return
-  let index = 0
+  const bar = container
+  const placed: LabelControl[] = []
   for (const field of registry.list()) {
     const label = labels.get(field.id)
-    if (label === undefined) continue
-    label.ClearAnchors()
-    const rightEdge = EDGE_PAD + COLUMN_WIDTH + index * (COLUMN_WIDTH + COL_GAP)
-    label.SetAnchor(RIGHT, container, LEFT, rightEdge, 0)
-    index += 1
+    if (label !== undefined) placed.push(label)
   }
+  const spans = layoutCells(
+    placed.map((label) => (label.GetText() === "" ? undefined : label.GetTextWidth())),
+    { edgePad: EDGE_PAD, minWidth: COLUMN_WIDTH, gap: COL_GAP }
+  )
+  placed.forEach((label, index) => {
+    const span = spans[index]
+    label.ClearAnchors()
+    if (span === undefined) {
+      label.SetHidden(true)
+      return
+    }
+    label.SetHidden(false)
+    label.SetAnchor(RIGHT, bar, LEFT, span.left + span.width, 0)
+  })
 }
 
 export function initializeHudBar(): undefined {
@@ -87,8 +98,8 @@ export function registerHudField(field: HudField): undefined {
   if (container !== undefined && !labels.has(field.id)) {
     labels.set(field.id, makeLabel(field.id))
   }
-  reflow()
   writeField(field)
+  reflow()
 }
 
 function writeField(field: HudField): undefined {
@@ -109,6 +120,7 @@ export function refreshHudBar(): undefined {
   for (const field of registry.list()) {
     writeField(field)
   }
+  reflow()
 }
 
 export function isHudBarReady(): boolean {

@@ -29,10 +29,14 @@ export const hudAddonBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A cell is right-aligned in the room `hud-addon-layout` gives that cell.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "A cell is at least a column wide and right-aligned, so cells sit the major step apart.",
+        "The bar lays its cells out again on every redraw, as a cell's text changes width.",
     },
   ],
   createdAt: "2026-09-02T10:58:22.045Z",
-  updatedAt: "2026-09-25T21:25:08.000Z",
+  updatedAt: "2026-10-08T19:01:20.972Z",
 } as const satisfies Module
