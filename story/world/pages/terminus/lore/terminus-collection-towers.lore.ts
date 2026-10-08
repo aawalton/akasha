@@ -69,6 +69,22 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Every tower has a numeric rank.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The two towers at the poles are ranks #1 and #2, the highest-ranked towers of all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The System user who conquers a tower is appointed that tower's Administrator.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A tower's Administrator takes a small cut, about 1%, of the essence flowing through it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Each collection tower reaches through the whole thickness of the shell.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -194,5 +210,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T20:49:45.888Z",
+  updatedAt: "2026-10-08T20:52:48.032Z",
 } as const satisfies Lore
