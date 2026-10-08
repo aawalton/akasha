@@ -5183,6 +5183,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-reading/quest-port-reading.module.ts","id":"01a11c7e-140b-71b6-8dad-778019d3816a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-trace/quest-port-trace.module.ts","id":"01a11c7c-69d2-7678-9470-a390f3f3b142"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-travel/quest-port-travel.module.ts","id":"01a11cf4-ae34-77f5-97fd-67671ce0f801"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-treasure-reading/quest-port-treasure-reading.module.ts","id":"01a11cf9-8e7f-76af-8e9e-ec90bb96f162"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port/quest-port.module.ts","id":"01a11c02-cd8c-7bb1-8acb-3496f7fcce68"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/treasure-port-choose/treasure-port-choose.module.ts","id":"01a11cf5-8f69-7be4-8afa-63466646ca80"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/treasure-port/treasure-port.module.ts","id":"01a11cf8-29b7-71b6-8a8f-d1bb88c62929"}

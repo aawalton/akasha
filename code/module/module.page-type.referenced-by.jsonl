@@ -4980,6 +4980,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-reading/quest-port-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-trace/quest-port-trace.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-travel/quest-port-travel.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-treasure-reading/quest-port-treasure-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port/quest-port.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quest-port/modules/treasure-port-choose/treasure-port-choose.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quest-port/modules/treasure-port/treasure-port.module.ts","typed":true,"deferred":false}

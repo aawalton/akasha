@@ -86,7 +86,7 @@ const RECALL = z.object({
   money: z.number(),
 })
 
-const PRESS = z.object({
+export const PRESS = z.object({
   at: z.number(),
   character: z.string(),
   journalIndex: z.number().optional(),

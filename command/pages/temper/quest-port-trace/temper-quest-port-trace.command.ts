@@ -31,6 +31,10 @@ export const temperQuestPortTrace = {
       statement: "The answer ends with every record of what the T key reaches.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Treasure port presses follow the quest port presses in a section of their own.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the game.",
     },
@@ -38,5 +42,5 @@ export const temperQuestPortTrace = {
   name: "quest-port-trace",
   arguments: [{ argument: "argument/json" }, { argument: "argument/quest-trace-path" }],
   createdAt: "2026-10-08T17:10:57.884Z",
-  updatedAt: "2026-10-08T17:48:20.297Z",
+  updatedAt: "2026-10-08T19:24:39.422Z",
 } as const satisfies Command

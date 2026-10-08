@@ -20,6 +20,12 @@ import {
   QUEST_PORT_SAVED_VARIABLES,
   type QuestPortCaptures,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-reading/quest-port-reading.module.code.ts"
+import {
+  TREASURE_PORT_SAVED_VARIABLES,
+  type TreasurePressReading,
+  treasurePressesIn,
+  treasurePressLines,
+} from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-treasure-reading/quest-port-treasure-reading.module.code.ts"
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
@@ -52,20 +58,36 @@ export function temperQuestPortTrace(argv: readonly string[], given: Given): Ans
   }
 
   let captures: QuestPortCaptures
+  let treasurePresses: readonly TreasurePressReading[]
   try {
     const raw = parseLuaSavedVariablesFile(content, SAVED_VARIABLES_NAME)
     captures = capturesIn(QUEST_PORT_SAVED_VARIABLES.parse(raw))
+    treasurePresses = treasurePressesIn(TREASURE_PORT_SAVED_VARIABLES.parse(raw))
   } catch (thrown) {
     return refused(`${capturePath} holds no capture this reads: ${saidShort(thrown)}`, DATA)
   }
 
   const { journals, presses, assistMoves, keyOwners } = captures
-  if (journals.length + presses.length + assistMoves.length + keyOwners.length === 0) {
+  const counted =
+    journals.length +
+    presses.length +
+    assistMoves.length +
+    keyOwners.length +
+    treasurePresses.length
+  if (counted === 0) {
     return refused(`${capturePath} ${NOTHING_CAPTURED}`, DATA)
   }
 
   if (taken.json) {
-    return asJson({ capturePath, writtenAt, journals, presses, assistMoves, keyOwners })
+    return asJson({
+      capturePath,
+      writtenAt,
+      journals,
+      presses,
+      treasurePresses,
+      assistMoves,
+      keyOwners,
+    })
   }
 
   return told([
@@ -75,6 +97,9 @@ export function temperQuestPortTrace(argv: readonly string[], given: Given): Ans
     "",
     `port presses (${String(presses.length)}, oldest first):`,
     ...presses.flatMap(pressLines),
+    "",
+    `treasure presses (${String(treasurePresses.length)}, oldest first):`,
+    ...treasurePresses.flatMap(treasurePressLines),
     "",
     `next-quest moves (${String(assistMoves.length)}, oldest first):`,
     ...assistMoves.flatMap(assistMoveLines),
