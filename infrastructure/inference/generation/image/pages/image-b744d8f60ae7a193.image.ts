@@ -16,4 +16,6 @@ export const imageB744d8f60ae7a193 = {
   ],
   prompt:
     "Fantasy photorealistic, candid photograph, nobody looks at the camera. Keep the place from the first image: this moment is at the head of the coal wharf, the green barge with geraniums along its cabin roof moored down the line. The quay alone with nobody near: great dark piles of coal and stacked sacks along it, smoke going up from little tin chimneys on the cabin roofs, a few blurred far-off shovellers. Bright early summer morning sun on the coal wharf, long shadows, coal heaps and moored painted barges blurred behind. Nothing lettered. Wide shot, 28mm lens, deep focus.",
+  createdAt: "2026-10-04T14:02:07.000Z",
+  updatedAt: "2026-10-04T14:02:07.000Z",
 } as const satisfies Image

@@ -14,4 +14,6 @@ export const imageB32ae69eea8b9478 = {
   height: 1216,
   prompt:
     "fantasy photorealistic landscape at dusk, a long grassy burial mound barrow on open rolling chalk downs, a ring of weathered grey standing stones around it, a low sealed stone doorway set into the mound's end facing the sunset, wild grass and harebells, wide golden-pink sky, empty, no people, no animals",
+  createdAt: "2026-10-06T15:17:04.676Z",
+  updatedAt: "2026-10-06T15:17:05.000Z",
 } as const satisfies Image

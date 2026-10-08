@@ -22,4 +22,6 @@ export const imageB7d00a06eda7b62c = {
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/bioluminescence"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-08-24T23:41:56.793Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

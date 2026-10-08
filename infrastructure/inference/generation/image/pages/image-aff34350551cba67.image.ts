@@ -16,4 +16,6 @@ export const imageAff34350551cba67 = {
   height: 1216,
   prompt:
     "Fantasy film still, photorealistic, of a 24-year-old adult woman, a cat-folk fantasy creature: in place of human ears she has pointed furry cat ears that are part of her body, the fur at their base growing from her scalp among the roots of her hair, ears swiveling and expressive, and a long living cat tail that curls and sways, golden lion-colored ears and tail with a dark tuft, very petite slim build, flat chest, A-cup, toned flat stomach, fresh youthful grown woman's face, warm brown skin, long dark locs with gold rings, amber eyes, a desert warrior wearing a gold-trimmed linen wrap top and low-slung skirt with a curved dagger at her hip, standing atop sandstone ruins under twin moons, tail swishing, proud teasing smile, warm dusk light, 50mm lens",
+  createdAt: "2026-10-05T19:25:45.112Z",
+  updatedAt: "2026-10-05T19:26:23.000Z",
 } as const satisfies Image

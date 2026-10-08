@@ -16,4 +16,6 @@ export const imageBfa9673f52989413 = {
   height: 832,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Ethiopian with rich dark-brown skin, short cropped natural hair, long elegant neck, slim athletic build, lying face-down on a terracotta-colored cloth on the grass near a small ornamental bridge, nude, bare back and legs, head turned toward the camera resting on stacked hands, eyes closed, peaceful, wide shot from slightly above showing the park path curving away, soft overcast-bright light, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:16:43.842Z",
+  updatedAt: "2026-09-28T21:17:06.000Z",
 } as const satisfies Image

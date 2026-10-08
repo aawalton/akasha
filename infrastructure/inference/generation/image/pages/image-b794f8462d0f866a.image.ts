@@ -16,4 +16,6 @@ export const imageB794f8462d0f866a = {
   height: 832,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Egyptian with warm olive-brown skin, long dark hair tied with a silk scarf, gold ear cuffs, slim athletic build, reclining on a stack of cushions on a woven rug in the shade of a pergola covered in wisteria in a park garden, topless in white linen harem trousers, one arm behind her head, reading a hardcover book held above her face, afternoon shade with bright sun beyond, eye-level side view, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:26:25.981Z",
+  updatedAt: "2026-09-28T21:26:54.000Z",
 } as const satisfies Image

@@ -30,4 +30,6 @@ export const imageC3f3f948e96081b0 = {
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-27T03:27:28.658Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

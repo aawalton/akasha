@@ -16,4 +16,6 @@ export const imageB134afe81ea50949 = {
   height: 1216,
   prompt:
     "Fantasy film still, photorealistic, of a 22-year-old adult woman, a cat-folk fantasy creature: in place of human ears she has pointed furry cat ears that are part of her body, the fur at their base growing from her scalp among the roots of her hair, ears swiveling and expressive, and a long living cat tail that curls and sways, silver-grey ears and tail, very slim slender build, small chest, youthful fresh-faced 21-year-old woman's face, clearly an adult, light olive skin, long dark braid, blue eyes, wearing a hooded traveler's cloak over a linen tunic and leggings, curled up in a hollow of a giant tree with a lantern and a storybook, ears poking out of her hood, sleepy content smile, warm lantern glow in a dark forest, 50mm lens",
+  createdAt: "2026-10-05T19:39:53.854Z",
+  updatedAt: "2026-10-05T19:40:35.000Z",
 } as const satisfies Image

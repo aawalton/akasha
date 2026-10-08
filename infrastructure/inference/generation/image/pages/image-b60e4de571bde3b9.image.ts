@@ -5,4 +5,6 @@ export const imageB60e4de571bde3b9 = {
   type: "page-type/image",
   slug: "image-b60e4de571bde3b9",
   title: "Otherwhere — Nala, glamour close-up candidate 1",
+  createdAt: "2026-09-28T19:01:38.232Z",
+  updatedAt: "2026-09-28T19:01:43.000Z",
 } as const satisfies Image

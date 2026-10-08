@@ -16,4 +16,6 @@ export const imageC1c25f2f49174ec2 = {
   ],
   prompt:
     "Change only the camera: rotate the camera to the right and move it in close to the bed, so the woman lying on the bed fills most of the frame, seen from beside the bed at mattress height, with the round window, the plants on the crate and the small framed mirror on the sloped wall still visible behind her. Keep everything else exactly the same: the same room, the same woman, her face, pink hair, white shift, her pose and hands, the same patchwork quilt and pillow, the same grey dawn light.",
+  createdAt: "2026-10-04T14:02:41.822Z",
+  updatedAt: "2026-10-04T14:02:42.000Z",
 } as const satisfies Image

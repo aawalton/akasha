@@ -8,4 +8,6 @@ export const imageB79a94fce7a51140 = {
   relationshipLevel: "closeness-level/level-1",
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
+  createdAt: "2026-09-21T21:51:50.079Z",
+  updatedAt: "2026-09-27T15:50:06.000Z",
 } as const satisfies Image

@@ -11,4 +11,6 @@ export const imageAfa474f92a181968 = {
   wardrobeTags: ["wardrobe-tag/hair-accessory", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:52:08.479Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const imageC4ad6a1e4bde1e9a = {
   height: 1216,
   prompt:
     "Candid photograph of a 22-year-old adult woman, fresh youthful grown woman's face, Spanish with olive skin, long dark wavy hair under a wide straw sun hat, very slender petite build, flat chest, narrow shoulders, lounging in a white canvas cabana at a luxury hotel pool, wearing a small red triangle bikini with a sheer white cover-up open over it, one knee raised, scrolling her phone with a slight smile, not looking at the camera, cabana curtains tied back, the pool and other loungers beyond, hazy warm afternoon light, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:01:03.950Z",
+  updatedAt: "2026-10-04T22:01:44.000Z",
 } as const satisfies Image

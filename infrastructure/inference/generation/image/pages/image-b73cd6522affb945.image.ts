@@ -16,4 +16,6 @@ export const imageB73cd6522affb945 = {
   height: 832,
   prompt:
     "A 23-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Japanese with light skin, long straight black hair fanned out on the grass, slim fit build, lying on her back directly on the lawn among fallen cherry blossom petals, nude, arms folded behind her head, one leg bent across the other, eyes closed, a faint smile, shot from directly overhead, soft spring morning light, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:12:42.632Z",
+  updatedAt: "2026-09-28T21:13:07.000Z",
 } as const satisfies Image

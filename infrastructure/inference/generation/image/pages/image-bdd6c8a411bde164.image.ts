@@ -21,4 +21,6 @@ export const imageBdd6c8a411bde164 = {
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lingerie", "wardrobe-tag/barefoot"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-12T20:53:33.943Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

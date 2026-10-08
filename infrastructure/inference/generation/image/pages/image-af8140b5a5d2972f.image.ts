@@ -10,4 +10,6 @@ export const imageAf8140b5a5d2972f = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/skirt", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/antlers", "fantasy-tag/wings"],
+  createdAt: "2026-09-21T21:51:50.079Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

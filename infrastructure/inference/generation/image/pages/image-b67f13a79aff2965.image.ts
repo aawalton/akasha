@@ -16,4 +16,6 @@ export const imageB67f13a79aff2965 = {
   height: 1216,
   prompt:
     "Candid photograph of a 22-year-old adult woman, fresh youthful grown woman's face, Italian with sun-kissed olive skin, long wet dark hair slicked back, very slender petite build with small perky breasts, topless, wearing only a tiny black thong bikini bottom, lying on her stomach on a white sun lounger at a secluded luxury hotel pool, untied bikini top beside her, propped on her elbows, glancing back over her shoulder with a slow sultry half smile, droplets on her bare back, sunglasses on the lounger, palms and turquoise water behind, warm golden afternoon light, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:06:53.600Z",
+  updatedAt: "2026-10-04T22:08:29.000Z",
 } as const satisfies Image

@@ -22,4 +22,6 @@ export const imageC12ddae07e0e255e = {
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/bioluminescence", "fantasy-tag/android"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-02T15:41:43.419Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

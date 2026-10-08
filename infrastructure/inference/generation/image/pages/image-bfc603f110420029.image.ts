@@ -21,4 +21,6 @@ export const imageBfc603f110420029 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:09:57.399Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

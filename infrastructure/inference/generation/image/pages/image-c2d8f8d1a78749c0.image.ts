@@ -19,4 +19,6 @@ export const imageC2d8f8d1a78749c0 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She sits on the grassy bank of a park pond with her bare feet dangling in the water, seen three-quarter from behind, her bare back to the camera. A loosely knitted cream wool shawl has slipped down around her waist, a silver arm ring on her upper arm, her hair in loose Norse braids. She looks out across the water toward a little arched wooden footbridge, face in partial profile, calm and far away. Camera behind her at a low angle, soft late-afternoon light glittering on the water. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:16:44.946Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

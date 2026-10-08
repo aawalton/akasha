@@ -19,4 +19,6 @@ export const imageB1da5fdd401b3c22 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She lies face-down on a black blanket at the edge of a still pond in a park, chin resting on her folded arms, eyes half-closed and dreamy, gazing off across the water, not at the camera. She wears a black silk robe slipped down off both shoulders and pooled around her hips, her bare back to the sun, a thin gold anklet on one ankle, her chest pressed hidden against the blanket. Side profile camera at grass level, willow branches trailing into the water behind her, warm low golden-hour light. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:01:59.299Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

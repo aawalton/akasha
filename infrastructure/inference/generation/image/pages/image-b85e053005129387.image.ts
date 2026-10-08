@@ -16,4 +16,6 @@ export const imageB85e053005129387 = {
   ],
   prompt:
     "Her face stays exactly as in the reference: a slim young woman of about twenty-five with pale fair skin, a light dusting of freckles across her nose and cheeks, clear blue-grey eyes, straight dark auburn brows, a small straight nose, soft full rose-pink lips, a heart-shaped face narrowing to a small chin, and long straight dark auburn-red hair worn loose with a side part.\nKeep this exact woman, same face and hair. Epic wide establishing shot from a fantasy film. A vast, empty beach of black sand curves away into haze. She is small in the frame, sitting alone in the sand near the surf, in an oversized grey t-shirt, black shorts and black tights, barefoot, long dark red hair. Behind her a wall of alien jungle with enormous fan-shaped leaves, and beyond it a huge mountain rising out of the island's heart, a thin ribbon of black smoke streaming from its peak across a cloudless sky. Gulls overhead. Hard midday sun, heat shimmer, sweeping cinematic scale, shot on 35mm anamorphic.",
+  createdAt: "2026-09-28T20:05:13.000Z",
+  updatedAt: "2026-09-28T20:05:13.000Z",
 } as const satisfies Image

@@ -20,4 +20,6 @@ export const imageBdef7fa51d16c1c2 = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/android", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
+  createdAt: "2026-06-30T11:10:22.585Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

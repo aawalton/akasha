@@ -32,4 +32,6 @@ export const imageBb49e7ca9457c156 = {
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/vest", "wardrobe-tag/long-sleeves"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:17.960Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

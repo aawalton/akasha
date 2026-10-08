@@ -16,4 +16,6 @@ export const imageBab365a8ceccbd39 = {
   height: 1216,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Jamaican with deep brown skin, long locs pulled up in a high bun, athletic dancer's build, sitting on a blanket on the grass with her back against a tree, topless in a high-waisted leopard-print bikini bottom, one knee up, sipping a coconut through a straw, looking off at the view with sunglasses pushed up on her head, three-quarter close crop from a slightly low angle, bright hot midday light, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:24:25.564Z",
+  updatedAt: "2026-09-28T21:24:49.000Z",
 } as const satisfies Image

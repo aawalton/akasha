@@ -16,4 +16,6 @@ export const imageB8a67bf4dafd187d = {
   height: 1216,
   prompt:
     "Photorealistic photograph of a 22-year-old adult woman, a bunnykin, a fantasy rabbit-folk woman with real long soft furry rabbit ears growing from the top of her head, no headband, and a real fluffy rabbit tail at the base of her spine, ears with jet black fur, very petite slim build, nearly flat chest with tiny breasts, toned flat stomach, fresh youthful grown woman's face, pale skin, sleek black bob, wearing a black lace bralette and matching panties, lying on her stomach on a canopy bed in a candlelit fantasy bedchamber, legs kicked up, tail visible, sultry half-lidded gaze, warm candle glow, 35mm lens",
+  createdAt: "2026-10-05T18:15:56.839Z",
+  updatedAt: "2026-10-05T19:08:20.000Z",
 } as const satisfies Image

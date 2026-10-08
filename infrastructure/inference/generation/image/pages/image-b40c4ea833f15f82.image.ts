@@ -22,4 +22,6 @@ export const imageB40c4ea833f15f82 = {
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/gown"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-35-44"],
+  createdAt: "2026-06-30T11:07:55.801Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

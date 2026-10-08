@@ -27,4 +27,6 @@ export const imageAfa7b78d0478c773 = {
   fantasyTags: ["fantasy-tag/fairy"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:33.376Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

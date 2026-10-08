@@ -16,4 +16,6 @@ export const imageBde8816b10be4d9d = {
   height: 832,
   prompt:
     "Candid photograph of a 22-year-old adult woman, fresh youthful grown woman's face, Lebanese with olive skin, long dark glossy hair, slim build with a small flat chest, lying on her side on a large white daybed by a luxury hotel pool, head propped on one hand, wearing a terracotta bikini, dozing with eyes half closed and a lazy smile, a half-finished glass of rosé and sunglasses beside her, not looking at the camera, sheer white curtains moving in the breeze, the pool glinting beyond, golden late afternoon light, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:02:17.099Z",
+  updatedAt: "2026-10-04T22:03:05.000Z",
 } as const satisfies Image

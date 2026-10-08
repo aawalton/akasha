@@ -22,4 +22,6 @@ export const imageB5350a18da5a0a0c = {
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:17.962Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const imageB95a06317231444d = {
   height: 832,
   prompt:
     "Candid photograph of two 24-year-old adult women, grown women's faces, friends at a luxury hotel pool bar, one Indian with warm brown skin and long dark hair in a braid wearing a mustard yellow bikini, the other Irish with pale skin and wavy auburn hair wearing an emerald green bikini, both slim with small chests, sitting on submerged stools at the swim-up bar, laughing together over tall pink cocktails with paper umbrellas, not looking at the camera, a thatched bar roof, bottles and a bartender's hands in the background, bright tropical afternoon light, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:00:15.658Z",
+  updatedAt: "2026-10-04T22:01:44.000Z",
 } as const satisfies Image

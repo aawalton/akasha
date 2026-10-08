@@ -14,4 +14,6 @@ export const imageBfcce933d8b9acf1 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic photograph. The attic room above the Honeycomb, a small canal-side bakery in a storybook guild city, empty of people. One narrow room under a steeply sloped timber ceiling with dark old beams, whitewashed plaster walls, and wide worn floorboards. A round window set low in the gable end looks out over a quiet canal with paper lanterns strung along it and the roofs of the city beyond, soft grey dawn light coming through it. Under the round window sits a wooden crate of houseplants: a feathery fern, a small potted lemon tree, an aloe and a pot of mint. A narrow bed with a patchwork quilt against the sloping wall, a little rocking wooden table with an inkpot and folded letters, a three-legged stool, a small scrap of mirror on a nail, a candle in a brass holder. Faint flour dust and warm yeasty haze in the air, as if bread is baking below. Cozy, humble, tidy, lived in. Wide shot from the doorway, 24mm lens, deep depth of field, natural soft light, rich warm detail, no people, no text.",
+  createdAt: "2026-10-04T09:23:44.510Z",
+  updatedAt: "2026-10-04T09:23:45.000Z",
 } as const satisfies Image

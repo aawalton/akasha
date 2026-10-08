@@ -16,4 +16,6 @@ export const imageBfaecaa371f0c46b = {
   ],
   prompt:
     "Keep this exact woman, same face and hair. Epic wide establishing shot from a fantasy film. A vast, empty beach of black sand curves away into haze. She is small in the frame, sitting alone in the sand near the surf, in an oversized grey t-shirt, black shorts and black tights, barefoot, long dark red hair. Behind her a wall of alien jungle with enormous fan-shaped leaves, and beyond it a huge mountain rising out of the island's heart, a thin ribbon of black smoke streaming from its peak across a cloudless sky. Gulls overhead. Hard midday sun, heat shimmer, sweeping cinematic scale, shot on 35mm anamorphic.",
+  createdAt: "2026-09-28T20:00:41.820Z",
+  updatedAt: "2026-09-28T20:00:42.000Z",
 } as const satisfies Image

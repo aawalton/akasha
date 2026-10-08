@@ -16,4 +16,6 @@ export const imageB5864f5b89089362 = {
   height: 1216,
   prompt:
     "Candid photograph of a 22-year-old adult woman, very petite slim build, nearly flat chest with tiny breasts, toned flat stomach, fresh youthful grown woman's face, freckled fair skin, short copper red pixie cut, wearing a lavender satin bunny suit cut very high on the hips with a low back, sheer pantyhose, lavender bunny ears, white collar and bow tie, white cuffs, cottontail, lying on her back across a chaise longue with her legs up the wall, laughing, soft pastel afternoon light, 35mm lens",
+  createdAt: "2026-10-05T18:04:52.746Z",
+  updatedAt: "2026-10-05T18:05:19.000Z",
 } as const satisfies Image

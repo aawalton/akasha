@@ -21,4 +21,6 @@ export const imageBc1ec34d99a0ef2a = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:02.191Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

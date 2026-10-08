@@ -16,4 +16,6 @@ export const imageC491214c6004d594 = {
   height: 832,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Scandinavian with pale skin and long platinum-blonde braid, fit slim build, stretched out on her back on a white linen blanket under an old oak in a park, nude, one forearm resting over her eyes against the sun, the other arm across her chest, one knee raised, wide shot with the park lawn around her, soft hazy morning light, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:09:38.959Z",
+  updatedAt: "2026-09-28T21:09:59.000Z",
 } as const satisfies Image

@@ -24,4 +24,6 @@ export const imageC01d65cebd8fbcdf = {
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:03.320Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

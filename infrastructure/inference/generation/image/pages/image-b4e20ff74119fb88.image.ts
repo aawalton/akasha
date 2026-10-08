@@ -6,4 +6,6 @@ export const imageB4e20ff74119fb88 = {
   slug: "image-b4e20ff74119fb88",
   relationshipLevel: "closeness-level/level-1",
   fantasyTags: ["fantasy-tag/hologram"],
+  createdAt: "2026-09-21T21:51:03.323Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

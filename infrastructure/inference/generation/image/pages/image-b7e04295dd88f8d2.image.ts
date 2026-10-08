@@ -17,4 +17,6 @@ export const imageB7e04295dd88f8d2 = {
   ],
   prompt:
     "Fantasy photorealistic, candid photograph, nobody looks at the camera. Keep the place from the first image, the narrow attic room under the sloped timber ceiling, and put this moment sitting on the edge of the narrow bed with the patchwork quilt. The pink-haired woman from the second image sits on the edge of the bed with a small soft worn brown leather satchel with a buckled flap open on her lap, sliding a folded letter flat into it against a small soft blue notebook, her eyes down on the satchel, lips moving as if naming each thing, calm and careful. A small round tin of salve and two rolls of white linen bandage lie on the quilt beside her, waiting to go in. She is alone. She wears a cropped cream halter top laced up the front with a neat bow, a short sage-green skirt, a brown leather belt with small pouches, fingerless brown leather gloves, tall brown leather boots, and a small pink-and-white flower clip above her left ear in her short rose-pink bob. Soft grey-gold early light from the round window, a little before six in the morning, the room still dim. Medium shot from the front and a little to one side at seated height, 35mm lens.",
+  createdAt: "2026-10-04T13:45:55.463Z",
+  updatedAt: "2026-10-04T13:45:56.000Z",
 } as const satisfies Image

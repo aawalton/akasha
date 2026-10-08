@@ -14,4 +14,6 @@ export const imageB01f99fab1d0a9d2 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, warm and scholarly. A portrait of one woman alone, a college tutor of fifty-eight, standing beside a cluttered oak desk in a book-lined tower study with a round leaded window on a grey lake. She is lean and upright, with weathered fair skin, sharp kind blue eyes behind half-moon reading glasses on a chain, laugh lines, and short cropped silver-grey hair. She wears a moss-green tweed jacket over a cream shirt and a long dark wool skirt, a pencil tucked behind one ear, and holds a battered leather notebook. She looks at the viewer with brisk, amused interest. Framed from the top of her head to mid-thigh, close vertical composition, 85mm lens, shallow depth of field, soft grey window light and lamplight, fine skin texture, gentle film grain.",
+  createdAt: "2026-10-02T15:18:06.000Z",
+  updatedAt: "2026-10-02T15:18:06.000Z",
 } as const satisfies Image

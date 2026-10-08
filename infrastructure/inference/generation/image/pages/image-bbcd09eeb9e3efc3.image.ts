@@ -8,4 +8,6 @@ export const imageBbcd09eeb9e3efc3 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/kitchen"],
   poseTags: ["pose-tag/close-up"],
+  createdAt: "2026-06-28T13:01:54.395Z",
+  updatedAt: "2026-09-27T15:49:04.000Z",
 } as const satisfies Image

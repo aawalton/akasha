@@ -21,4 +21,6 @@ export const imageC003a1c30f207cfd = {
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless", "wardrobe-tag/headphones"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-12T23:58:21.080Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

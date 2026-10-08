@@ -22,4 +22,6 @@ export const imageC3396e3a5bf057e4 = {
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/cardigan", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:08.044Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

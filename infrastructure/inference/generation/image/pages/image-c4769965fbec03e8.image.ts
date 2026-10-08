@@ -17,4 +17,6 @@ export const imageC4769965fbec03e8 = {
   ],
   prompt:
     "Fantasy photorealistic, candid photograph, nobody looks at the camera. Keep the place from the first image, the attic room, and put this moment at the little rocking wooden table. The pink-haired woman from the second image sits on the three-legged stool at the table writing a letter. A small glass inkpot is held still between her knees; her right hand holds a dip pen just above a sheet of paper on the table, her left hand flat on the paper to keep it from sliding. She looks down at the page with her brows drawn together, thoughtful and a little wistful, lips pressed softly together, as if deciding the next line. She is alone. She wears a plain white linen shift with thin straps that falls to her knees, bare arms, bare feet tucked under the stool, her rose-pink hair loose, no clip. Behind her the narrow bed with its patchwork quilt is rumpled. Pale grey dawn light from the round window falls across the table and the paper, half past five in the morning, and the corners of the room are dim. Medium shot from the side of the table at seated eye height, 50mm lens.",
+  createdAt: "2026-10-04T13:20:52.882Z",
+  updatedAt: "2026-10-04T13:20:53.000Z",
 } as const satisfies Image

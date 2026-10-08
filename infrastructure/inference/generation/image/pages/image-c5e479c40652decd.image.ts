@@ -14,4 +14,6 @@ export const imageC5e479c40652decd = {
   height: 1216,
   prompt:
     "photorealistic fantasy portrait, a single gorgeous young woman of twenty alone, framed from head to mid-thigh, strikingly beautiful like a fashion model, flawless luminous skin, delicate features, full soft pink lips, long lashes, a light dusting of freckles across her nose, a sweet innocent open smile, adorable and alluring at once. She is petite and slim with a slender waist, slim toned legs and a small perky chest. Big warm brown eyes. Long light chestnut hair in a loose side braid with flyaway strands. A fitted laced cream corset bodice over a sheer off-shoulder peasant blouse and a short dusty-rose skirt, bare legs. Sitting on the edge of a windowsill in a cozy fantasy inn room at golden hour, warm light, soft bokeh.",
+  createdAt: "2026-10-03T12:53:04.000Z",
+  updatedAt: "2026-10-03T12:53:04.000Z",
 } as const satisfies Image

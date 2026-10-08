@@ -20,4 +20,6 @@ export const imageB346944f13887c34 = {
     "wardrobe-tag/mask",
   ],
   fantasyTags: ["fantasy-tag/antlers", "fantasy-tag/weapons", "fantasy-tag/magic"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

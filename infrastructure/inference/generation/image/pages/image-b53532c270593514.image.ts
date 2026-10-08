@@ -19,4 +19,6 @@ export const imageB53532c270593514 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She lies on her back in a ring of tall summer wildflowers in a park meadow, wearing only a crown of daisies and poppies and a loose gauzy white skirt around her hips. Her long hair is spread out and drawn forward over her chest, covering it, and her hands rest in the flowers. Eyes closed, a small contented smile, basking. Camera directly overhead looking down, the flowers framing her, blazing midsummer noon light. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:03:43.461Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

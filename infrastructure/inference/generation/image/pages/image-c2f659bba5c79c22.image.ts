@@ -6,4 +6,6 @@ export const imageC2f659bba5c79c22 = {
   slug: "image-c2f659bba5c79c22",
   relationshipLevel: "closeness-level/level-1",
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/monster-girl", "fantasy-tag/magic"],
+  createdAt: "2026-09-21T21:51:03.323Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

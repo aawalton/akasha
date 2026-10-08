@@ -11,4 +11,6 @@ export const imageC76af67f5b4d2d85 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/belt"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:13.886Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

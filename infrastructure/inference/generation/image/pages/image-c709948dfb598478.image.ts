@@ -28,4 +28,6 @@ export const imageC709948dfb598478 = {
   ],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:09:30.091Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -22,4 +22,6 @@ export const imageBfaa1369ff3d3190 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:17.961Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

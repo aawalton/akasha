@@ -16,4 +16,6 @@ export const imageC27cc17dc646d8af = {
   height: 832,
   prompt:
     "Candid photograph of a 21-year-old adult woman, fresh youthful grown woman's face, American with light freckled skin, a high blonde ponytail, slim petite build with a small flat chest, resting at the end of a long luxury hotel lap pool at dusk, arms folded on the tiled edge, chin on her arms, catching her breath with a happy smile, wet face, looking off along the pool, not at the camera, wearing a teal bikini, glowing underwater pool lights, lanterns along the deck, palm silhouettes against a pink and violet sky, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:01:13.057Z",
+  updatedAt: "2026-10-04T22:01:44.000Z",
 } as const satisfies Image

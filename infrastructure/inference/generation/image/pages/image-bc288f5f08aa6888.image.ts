@@ -22,4 +22,6 @@ export const imageBc288f5f08aa6888 = {
   fantasyTags: ["fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-12T21:04:24.769Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

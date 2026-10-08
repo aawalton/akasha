@@ -11,4 +11,6 @@ export const imageB3eb40433223c0fb = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak", "wardrobe-tag/hair-accessory"],
   fantasyTags: ["fantasy-tag/magic"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

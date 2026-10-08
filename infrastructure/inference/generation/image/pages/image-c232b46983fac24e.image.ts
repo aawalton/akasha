@@ -12,4 +12,6 @@ export const imageC232b46983fac24e = {
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/scales", "fantasy-tag/mermaid", "fantasy-tag/monster-girl"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:12.748Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

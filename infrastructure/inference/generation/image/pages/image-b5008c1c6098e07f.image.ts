@@ -10,4 +10,6 @@ export const imageB5008c1c6098e07f = {
   wardrobeTags: ["wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/angel"],
   ethnicityTags: ["ethnicity-tag/white"],
+  createdAt: "2026-09-21T21:51:22.757Z",
+  updatedAt: "2026-09-27T15:51:41.000Z",
 } as const satisfies Image

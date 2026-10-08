@@ -14,4 +14,6 @@ export const imageC59a06d7a3eceb37 = {
   height: 1216,
   prompt:
     "Fantasy photorealistic photograph, close-up. Two small, pale, slender fists clenched tight around fistfuls of coarse white salt, grains spilling out between the fingers and trickling down in glittering streams. The knuckles are white with effort. Along the inside of one forearm runs a raw red scrape, and salt grains cling to it, the skin around it flushed pink where the salt stings. The loose sleeve of an oversized dark heathered charcoal-grey t-shirt hangs at one wrist, and a long strand of dark red hair falls into the upper edge of the frame. Below the fists, out of focus, a thick white line of salt runs across dark dusty floorboards with a ragged gap scooped out of it, scattered old books with cracked spines lying beyond. The light is dim old gold coming low from one side, making every falling grain of salt catch the light like sparks, the background falling into deep shadow. The mood is grim, fierce, tense resolve, the moment before lunging. Camera close at the level of the fists, slightly below, 100mm lens at f/2.8, the fists, the salt and the scrape razor sharp, background soft and dark, natural skin texture with fine detail, nothing lettered anywhere.",
+  createdAt: "2026-10-02T19:54:00.932Z",
+  updatedAt: "2026-10-02T19:54:01.000Z",
 } as const satisfies Image

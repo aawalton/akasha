@@ -7,4 +7,6 @@ export const imageBde5c779699b0928 = {
   persona: "persona/aelwyn",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/abstract-background"],
+  createdAt: "2026-09-21T21:50:30.189Z",
+  updatedAt: "2026-09-27T15:48:03.000Z",
 } as const satisfies Image
