@@ -1,25 +1,7 @@
 {
   "build": {
-    "weapons": {
-      "1": {
-        "displayText": "Mace, Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "2": {
-        "displayText": "Shield, Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      }
-    },
+    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
+    "companionId": 6,
     "skillAbilityIds": {
       "1": 152625,
       "2": 155328,
@@ -28,38 +10,6 @@
       "5": 155693,
       "6": 0
     },
-    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
-    "jewelry": {
-      "1": {
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "2": {
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        },
-        "isEmpty": false
-      },
-      "3": {
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        },
-        "isEmpty": false
-      }
-    },
-    "mainHandWeaponType": 2,
-    "companionId": 6,
     "armor": {
       "1": {
         "displayText": "Heavy, Vigorous",
@@ -121,6 +71,56 @@
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
+        },
+        "isEmpty": false
+      }
+    },
+    "mainHandWeaponType": 2,
+    "weapons": {
+      "1": {
+        "displayText": "Mace, Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      },
+      "2": {
+        "displayText": "Shield, Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      }
+    },
+    "jewelry": {
+      "1": {
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      },
+      "2": {
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
+        },
+        "isEmpty": false
+      },
+      "3": {
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
         },
         "isEmpty": false
       }
