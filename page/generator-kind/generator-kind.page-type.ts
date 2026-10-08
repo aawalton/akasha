@@ -5,9 +5,21 @@ export const generatorKind = {
   type: "page-type/page-type",
   slug: "generator-kind",
   definition: "how a property's value is worked out when its page is created",
-  parts: ["boolean-property/after-checks", "generator-kind/uuid-v7"],
+  parts: [
+    "boolean-property/after-checks",
+    "boolean-property/every-change",
+    "generator-kind/uuid-v7",
+  ],
   extends: ["page-type/domain"],
-  properties: [{ pageProperty: "boolean-property/after-checks", required: true, many: false }],
+  properties: [
+    { pageProperty: "boolean-property/after-checks", required: true, many: false },
+    {
+      pageProperty: "boolean-property/every-change",
+      required: false,
+      many: false,
+      default: false,
+    },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

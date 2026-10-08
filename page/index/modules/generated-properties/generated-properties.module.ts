@@ -50,6 +50,10 @@ export const generatedProperties = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Whether a value is worked out again on every change is read from that page too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The two kinds are told apart by the value each kind states rather than by their names.",
     },
