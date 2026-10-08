@@ -7,4 +7,6 @@ export const sabrinaCarpenterAlienM22Remix = {
   title: "Alien - M-22 Remix",
   artist: "artist/sabrina-carpenter",
   performed: true,
+  createdAt: "2026-09-19T02:29:00.445Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

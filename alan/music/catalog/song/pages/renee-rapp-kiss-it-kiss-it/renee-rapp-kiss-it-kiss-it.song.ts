@@ -7,4 +7,6 @@ export const reneeRappKissItKissIt = {
   title: "Kiss It Kiss It",
   artist: "artist/renee-rapp",
   performed: true,
+  createdAt: "2026-09-22T19:47:47.929Z",
+  updatedAt: "2026-09-22T19:47:54.000Z",
 } as const satisfies Song

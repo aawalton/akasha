@@ -16,4 +16,6 @@ export const siaBlankPage = {
   artist: "artist/sia",
   performed: true,
   written: "collab",
+  createdAt: "2026-06-08T01:07:17.971Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

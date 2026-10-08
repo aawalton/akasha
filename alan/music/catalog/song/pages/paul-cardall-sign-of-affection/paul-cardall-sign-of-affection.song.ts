@@ -7,4 +7,6 @@ export const paulCardallSignOfAffection = {
   title: "Sign of Affection",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:55.949Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song

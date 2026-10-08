@@ -7,4 +7,6 @@ export const sabrinaCarpenterADreamIsAWishYourHeartMakesSoThisIsLove = {
   title: "A Dream is a Wish Your Heart Makes/So This is Love",
   artist: "artist/sabrina-carpenter",
   performed: true,
+  createdAt: "2026-09-19T02:29:00.117Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

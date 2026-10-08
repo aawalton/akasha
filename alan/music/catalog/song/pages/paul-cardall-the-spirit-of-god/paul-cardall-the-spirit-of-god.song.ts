@@ -7,4 +7,6 @@ export const paulCardallTheSpiritOfGod = {
   title: "The Spirit of God",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:26.372Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

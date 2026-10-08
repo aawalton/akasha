@@ -15,4 +15,6 @@ export const paulCardallOComeOComeEmmanuel = {
   title: "O Come, O Come Emmanuel",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T00:35:53.902Z",
+  updatedAt: "2026-09-19T17:06:10.000Z",
 } as const satisfies Song

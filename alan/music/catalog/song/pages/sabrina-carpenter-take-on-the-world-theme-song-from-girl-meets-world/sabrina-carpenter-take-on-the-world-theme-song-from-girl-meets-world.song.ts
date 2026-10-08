@@ -7,4 +7,6 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorld = {
   title: 'Take On the World - Theme Song From "Girl Meets World"',
   artist: "artist/sabrina-carpenter",
   performed: true,
+  createdAt: "2026-09-19T02:29:02.664Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

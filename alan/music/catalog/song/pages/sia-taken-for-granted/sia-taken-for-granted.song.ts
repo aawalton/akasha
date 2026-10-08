@@ -19,4 +19,6 @@ export const siaTakenForGranted = {
   written: "solo",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T01:14:54.053Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

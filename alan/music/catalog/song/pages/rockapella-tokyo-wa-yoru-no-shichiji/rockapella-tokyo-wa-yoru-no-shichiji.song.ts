@@ -7,4 +7,6 @@ export const rockapellaTokyoWaYoruNoShichiji = {
   title: "Tokyo Wa Yoru No Shichiji",
   artist: "artist/rockapella",
   performed: true,
+  createdAt: "2026-09-24T20:46:21.402Z",
+  updatedAt: "2026-09-24T20:46:23.000Z",
 } as const satisfies Song

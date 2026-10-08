@@ -16,4 +16,6 @@ export const siaTripoutro = {
   artist: "artist/sia",
   performed: true,
   written: "solo",
+  createdAt: "2026-06-08T01:13:25.412Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

@@ -19,4 +19,6 @@ export const siaBabyItSColdOutside = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:44:20.319Z",
+  updatedAt: "2026-09-19T17:55:30.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const rockapellaMomentsOfYou = {
   title: "Moments of You",
   artist: "artist/rockapella",
   performed: true,
+  createdAt: "2026-09-24T20:46:21.401Z",
+  updatedAt: "2026-09-24T20:46:23.000Z",
 } as const satisfies Song

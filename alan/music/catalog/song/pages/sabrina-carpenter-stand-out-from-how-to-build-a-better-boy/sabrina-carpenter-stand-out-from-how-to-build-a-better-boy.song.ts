@@ -7,4 +7,6 @@ export const sabrinaCarpenterStandOutFromHowToBuildABetterBoy = {
   title: 'Stand Out - From "How to Build a Better Boy"',
   artist: "artist/sabrina-carpenter",
   performed: true,
+  createdAt: "2026-09-19T02:29:02.349Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const rockapellaBadBadLeroyBrownYouDontMessAroundWithJim = {
   title: "Bad Bad Leroy Brown / You Don't Mess Around with Jim",
   artist: "artist/rockapella",
   performed: true,
+  createdAt: "2026-09-24T20:46:21.399Z",
+  updatedAt: "2026-09-24T20:46:23.000Z",
 } as const satisfies Song

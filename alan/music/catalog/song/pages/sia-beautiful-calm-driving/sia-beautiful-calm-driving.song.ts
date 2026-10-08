@@ -19,4 +19,6 @@ export const siaBeautifulCalmDriving = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T01:07:01.956Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

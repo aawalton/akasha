@@ -16,4 +16,6 @@ export const sylviaDaleyContortionist = {
   artist: "artist/sylvia-daley",
   performed: true,
   written: "collab",
+  createdAt: "2026-09-19T00:51:35.171Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const sabrinaCarpenterIllBeHomeForChristmas = {
   title: "I'll Be Home For Christmas",
   artist: "artist/sabrina-carpenter",
   performed: true,
+  createdAt: "2026-09-19T02:29:01.107Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

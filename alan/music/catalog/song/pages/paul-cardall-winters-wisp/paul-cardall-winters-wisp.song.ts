@@ -7,4 +7,6 @@ export const paulCardallWintersWisp = {
   title: "Winter's Wisp",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:28:41.710Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

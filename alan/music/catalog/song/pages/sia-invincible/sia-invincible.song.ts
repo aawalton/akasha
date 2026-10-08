@@ -20,4 +20,6 @@ export const siaInvincible = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:43:52.184Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

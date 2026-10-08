@@ -7,4 +7,6 @@ export const reneeRappIThinkILikeYouBetterWhenYoureGone = {
   title: "I Think I Like You Better When You’re Gone",
   artist: "artist/renee-rapp",
   performed: true,
+  createdAt: "2026-09-22T19:47:48.269Z",
+  updatedAt: "2026-09-22T19:47:54.000Z",
 } as const satisfies Song

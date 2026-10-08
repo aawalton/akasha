@@ -7,4 +7,6 @@ export const paulCardallOhWhatDoYouDoInTheSummertime = {
   title: "Oh what do you do in the Summertime",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:28:31.163Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

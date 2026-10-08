@@ -18,4 +18,6 @@ export const sabrinaCarpenterWowRemix = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-09-19T00:49:34.677Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

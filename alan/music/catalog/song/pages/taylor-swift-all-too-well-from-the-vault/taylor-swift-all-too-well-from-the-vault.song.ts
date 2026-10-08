@@ -7,4 +7,6 @@ export const taylorSwiftAllTooWellFromTheVault = {
   title: "All Too Well (From The Vault)",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-23T13:48:25.724Z",
+  updatedAt: "2026-09-23T13:48:53.000Z",
 } as const satisfies Song

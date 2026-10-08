@@ -7,4 +7,6 @@ export const paulCardallWeCouldBeKind = {
   title: "We Could Be Kind",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:28:50.914Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

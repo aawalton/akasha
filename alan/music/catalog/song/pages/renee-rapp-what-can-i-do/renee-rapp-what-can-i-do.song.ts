@@ -7,4 +7,6 @@ export const reneeRappWhatCanIDo = {
   title: "What Can I Do",
   artist: "artist/renee-rapp",
   performed: true,
+  createdAt: "2026-09-22T19:47:52.168Z",
+  updatedAt: "2026-09-22T19:47:54.000Z",
 } as const satisfies Song

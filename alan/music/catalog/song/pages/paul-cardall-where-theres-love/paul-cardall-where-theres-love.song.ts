@@ -7,4 +7,6 @@ export const paulCardallWhereTheresLove = {
   title: "Where There's Love",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:42.062Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const rockapellaAintTooProudToBeg = {
   title: "Ain't Too Proud to Beg",
   artist: "artist/rockapella",
   performed: true,
+  createdAt: "2026-09-24T20:46:21.399Z",
+  updatedAt: "2026-09-24T20:46:23.000Z",
 } as const satisfies Song

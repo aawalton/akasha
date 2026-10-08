@@ -16,4 +16,6 @@ export const taylorSwiftClothesFromMissMabel = {
   artist: "artist/taylor-swift",
   performed: false,
   written: "solo",
+  createdAt: "2026-06-07T21:56:09.073Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

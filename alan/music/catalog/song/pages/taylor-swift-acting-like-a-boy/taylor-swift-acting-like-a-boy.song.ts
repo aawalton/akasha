@@ -16,4 +16,6 @@ export const taylorSwiftActingLikeABoy = {
   artist: "artist/taylor-swift",
   performed: false,
   written: "collab",
+  createdAt: "2026-06-07T21:56:09.178Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

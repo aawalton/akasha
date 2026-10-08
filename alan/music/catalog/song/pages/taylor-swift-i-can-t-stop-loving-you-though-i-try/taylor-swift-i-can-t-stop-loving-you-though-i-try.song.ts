@@ -15,4 +15,6 @@ export const taylorSwiftICanTStopLovingYouThoughITry = {
   title: "I Can’t Stop Loving You (Though I Try)",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-06-07T21:56:11.994Z",
+  updatedAt: "2026-09-19T16:55:02.000Z",
 } as const satisfies Song

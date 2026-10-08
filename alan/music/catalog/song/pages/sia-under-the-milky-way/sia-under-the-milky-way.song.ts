@@ -15,4 +15,6 @@ export const siaUnderTheMilkyWay = {
   title: "Under the Milky Way",
   artist: "artist/sia",
   performed: true,
+  createdAt: "2026-09-19T17:02:07.040Z",
+  updatedAt: "2026-09-19T17:02:23.000Z",
 } as const satisfies Song

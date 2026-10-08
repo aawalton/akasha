@@ -19,4 +19,6 @@ export const siaLayAllYourLoveOnMe = {
   lyricsSource: "lrclib",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T00:29:20.035Z",
+  updatedAt: "2026-09-19T17:55:30.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const rockapellaFlamingoSing = {
   title: "Flamingo Sing",
   artist: "artist/rockapella",
   performed: true,
+  createdAt: "2026-09-24T20:46:21.400Z",
+  updatedAt: "2026-09-24T20:46:23.000Z",
 } as const satisfies Song

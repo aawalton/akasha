@@ -7,4 +7,6 @@ export const paulCardallTheRestorationMedleyJosephsFirstPrayerPraiseToTheMan = {
   title: "The Restoration Medley: Joseph's First Prayer, Praise to the Man",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:28:57.090Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

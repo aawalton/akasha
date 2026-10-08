@@ -7,4 +7,6 @@ export const reneeRappTooWell = {
   title: "Too Well",
   artist: "artist/renee-rapp",
   performed: true,
+  createdAt: "2026-09-22T19:47:52.236Z",
+  updatedAt: "2026-09-22T19:47:54.000Z",
 } as const satisfies Song

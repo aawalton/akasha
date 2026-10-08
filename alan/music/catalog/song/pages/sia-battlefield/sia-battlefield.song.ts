@@ -16,4 +16,6 @@ export const siaBattlefield = {
   artist: "artist/sia",
   performed: false,
   written: "collab",
+  createdAt: "2026-06-08T01:06:25.576Z",
+  updatedAt: "2026-09-19T18:27:18.000Z",
 } as const satisfies Song

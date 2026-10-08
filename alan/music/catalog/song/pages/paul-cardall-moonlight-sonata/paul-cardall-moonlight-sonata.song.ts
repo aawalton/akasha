@@ -7,4 +7,6 @@ export const paulCardallMoonlightSonata = {
   title: "Moonlight Sonata",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:23:34.874Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

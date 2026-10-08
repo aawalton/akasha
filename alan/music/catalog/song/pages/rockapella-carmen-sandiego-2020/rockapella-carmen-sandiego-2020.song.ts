@@ -7,4 +7,6 @@ export const rockapellaCarmenSandiego2020 = {
   title: "Carmen Sandiego 2020",
   artist: "artist/rockapella",
   performed: true,
+  createdAt: "2026-09-24T20:46:21.400Z",
+  updatedAt: "2026-09-24T20:46:23.000Z",
 } as const satisfies Song

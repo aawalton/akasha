@@ -7,4 +7,6 @@ export const paulCardallSleepNremStage1 = {
   title: "Sleep NREM Stage 1",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:28:42.611Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

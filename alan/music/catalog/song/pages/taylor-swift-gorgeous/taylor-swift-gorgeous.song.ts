@@ -19,4 +19,6 @@ export const taylorSwiftGorgeous = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-07T21:56:12.203Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

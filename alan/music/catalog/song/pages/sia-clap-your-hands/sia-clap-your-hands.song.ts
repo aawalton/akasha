@@ -19,4 +19,6 @@ export const siaClapYourHands = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T01:06:04.794Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

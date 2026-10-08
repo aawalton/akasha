@@ -16,4 +16,6 @@ export const sylviaDaleyProximity = {
   artist: "artist/sylvia-daley",
   performed: false,
   written: "collab",
+  createdAt: "2026-09-19T00:51:35.046Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

@@ -19,4 +19,6 @@ export const siaButterflies = {
   written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
+  createdAt: "2026-06-08T01:04:35.531Z",
+  updatedAt: "2026-09-19T18:27:41.000Z",
 } as const satisfies Song

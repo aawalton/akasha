@@ -7,4 +7,6 @@ export const paulCardallLjubljanaHeartOfSlovenia = {
   title: "Ljubljana: Heart of Slovenia",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:28:34.070Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

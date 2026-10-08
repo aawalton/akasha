@@ -7,4 +7,6 @@ export const taylorSwiftAllTooWellRecordedAtLongPondStudios = {
   title: "All Too Well - Recorded at Long Pond Studios",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-23T13:48:44.500Z",
+  updatedAt: "2026-09-23T13:48:53.000Z",
 } as const satisfies Song

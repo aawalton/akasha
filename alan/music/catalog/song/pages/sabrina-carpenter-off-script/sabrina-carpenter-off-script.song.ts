@@ -15,4 +15,6 @@ export const sabrinaCarpenterOffScript = {
   title: "off script",
   artist: "artist/sabrina-carpenter",
   performed: true,
+  createdAt: "2026-09-19T00:49:30.531Z",
+  updatedAt: "2026-09-19T16:49:35.000Z",
 } as const satisfies Song

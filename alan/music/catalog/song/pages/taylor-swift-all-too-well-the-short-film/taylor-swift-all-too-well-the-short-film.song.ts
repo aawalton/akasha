@@ -7,4 +7,6 @@ export const taylorSwiftAllTooWellTheShortFilm = {
   title: "All Too Well (The Short Film)",
   artist: "artist/taylor-swift",
   performed: true,
+  createdAt: "2026-09-23T13:48:44.046Z",
+  updatedAt: "2026-09-23T13:48:53.000Z",
 } as const satisfies Song

@@ -7,4 +7,6 @@ export const sabrinaCarpenterIKnewYouWereTroubleSpotifySingles = {
   title: "I Knew You Were Trouble - Spotify Singles",
   artist: "artist/sabrina-carpenter",
   performed: true,
+  createdAt: "2026-09-19T02:29:02.040Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

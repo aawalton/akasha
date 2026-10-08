@@ -7,4 +7,6 @@ export const paulCardallWhatChildIsThis = {
   title: "What Child Is This?",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:24:24.989Z",
+  updatedAt: "2026-09-19T02:26:42.000Z",
 } as const satisfies Song

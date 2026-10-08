@@ -7,4 +7,6 @@ export const sabrinaCarpenterWhiteXmas = {
   title: "white xmas",
   artist: "artist/sabrina-carpenter",
   performed: true,
+  createdAt: "2026-09-19T02:29:00.782Z",
+  updatedAt: "2026-09-19T02:29:40.000Z",
 } as const satisfies Song

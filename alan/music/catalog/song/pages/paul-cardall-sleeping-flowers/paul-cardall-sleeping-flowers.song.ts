@@ -7,4 +7,6 @@ export const paulCardallSleepingFlowers = {
   title: "Sleeping Flowers",
   artist: "artist/paul-cardall",
   performed: true,
+  createdAt: "2026-09-19T02:27:24.764Z",
+  updatedAt: "2026-09-19T02:28:13.000Z",
 } as const satisfies Song
