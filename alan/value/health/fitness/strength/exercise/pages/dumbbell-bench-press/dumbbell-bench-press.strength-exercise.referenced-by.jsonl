@@ -19,7 +19,8 @@
 {"propertySlug":"exercise","path":"alan/value/health/fitness/strength/log/pages/thursday-push-2026-06-25-c82b391f-dumbbell-bench-press-set-1.strength-log.ts","id":"019f01ac-ad65-7aff-865d-4b42e4b4f516"}
 {"propertySlug":"exercise","path":"alan/value/health/fitness/strength/log/pages/thursday-push-2026-10-08-21b73a7b-dumbbell-bench-press-set-1.strength-log.ts","id":"01a11b63-e2e2-78ec-92a2-4f8ca18c291a"}
 {"propertySlug":"exercise","path":"alan/value/health/fitness/strength/log/pages/thursday-push-2026-10-08-21b73a7b-dumbbell-bench-press-set-2.strength-log.ts","id":"01a11b66-3648-71c5-8cd5-22c505392b47"}
+{"propertySlug":"import","fileName":"dumbbell-bench-press.strength-exercise.ts","path":"command/pages/fitness/modules/targeting/targeting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dumbbell-bench-press.strength-exercise.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dumbbell-bench-press.strength-exercise.ts","path":"command/pages/fitness/next/modules/marking/marking.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"dumbbell-bench-press.strength-exercise.ts","path":"command/pages/fitness/next/modules/targeting/targeting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dumbbell-bench-press.strength-exercise.ts","path":"command/pages/fitness/next/modules/warming/warming.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"dumbbell-bench-press.strength-exercise.ts","path":"command/pages/fitness/today/fitness-today.command.test.ts","typed":false,"deferred":false}

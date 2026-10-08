@@ -1,10 +1,10 @@
 import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
 import { liftedIn } from "akasha/alan/value/health/fitness/strength/modules/lifting/lifting.computed-property-module.code.ts"
+import { weekdayOn } from "akasha/command/pages/fitness/modules/rotation/rotation.module.code.ts"
 import {
   dayOf,
   type Movement,
 } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
-import { weekdayOn } from "akasha/command/pages/fitness/next/modules/rotation/rotation.module.code.ts"
 import {
   numberAt,
   slugAt,

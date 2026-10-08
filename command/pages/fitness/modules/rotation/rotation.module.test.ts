@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"
 import {
   fitsIn,
   focusOn,
   RESTING,
   weekdayOn,
-} from "akasha/command/pages/fitness/next/modules/rotation/rotation.module.code.ts"
+} from "akasha/command/pages/fitness/modules/rotation/rotation.module.code.ts"
+import { movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"
 
 const DAYS = [
   { dayOfWeek: "saturday", focus: "legs" },

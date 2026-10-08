@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"selection-policy.selection-policy.ts","path":"command/pages/fitness/cooldown/fitness-cooldown.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"selection-policy.selection-policy.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"selection-policy.selection-policy.ts","path":"command/pages/fitness/today/fitness-today.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"selection-policy.selection-policy.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts","typed":false,"deferred":false}

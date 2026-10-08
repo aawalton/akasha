@@ -8,13 +8,7 @@ export const fitnessNext = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: [
-    "module/marking",
-    "module/rotation",
-    "module/stepping",
-    "module/targeting",
-    "module/warming",
-  ],
+  parts: ["module/marking", "module/stepping", "module/warming"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -289,4 +283,5 @@ export const fitnessNext = {
   ],
   name: "next",
   arguments: [{ argument: "argument/gym" }, { argument: "argument/json" }],
+  updatedAt: "2026-10-08T15:11:01.194Z",
 } as const satisfies Command

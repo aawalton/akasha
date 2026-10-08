@@ -5,12 +5,12 @@ import { day20260917 } from "akasha/alan/track/daily/day/pages/2026-09-17/day-20
 import { dumbbellBenchPress } from "akasha/alan/value/health/fitness/strength/exercise/pages/dumbbell-bench-press/dumbbell-bench-press.strength-exercise.ts"
 import { kneePushUp } from "akasha/alan/value/health/fitness/strength/exercise/pages/knee-push-up/knee-push-up.strength-exercise.ts"
 import { strengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.ts"
-import { movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"
 import {
   type Aim,
   liftedOn,
   targetOn,
-} from "akasha/command/pages/fitness/next/modules/targeting/targeting.module.code.ts"
+} from "akasha/command/pages/fitness/modules/targeting/targeting.module.code.ts"
+import { movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"
 
 const MONDAY = "2026-09-21"
 

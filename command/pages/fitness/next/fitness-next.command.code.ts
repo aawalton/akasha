@@ -27,6 +27,17 @@ import {
   topLoadFor,
 } from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 import {
+  DAY_TYPE,
+  fitsIn,
+  focusOn,
+  RESTING,
+  weekdayOn,
+} from "akasha/command/pages/fitness/modules/rotation/rotation.module.code.ts"
+import {
+  liftedOn,
+  targetOn,
+} from "akasha/command/pages/fitness/modules/targeting/targeting.module.code.ts"
+import {
   dayOf,
   type Movement,
   nearFailureIn,
@@ -42,21 +53,10 @@ import {
   turnsIn,
 } from "akasha/command/pages/fitness/next/modules/marking/marking.module.code.ts"
 import {
-  DAY_TYPE,
-  fitsIn,
-  focusOn,
-  RESTING,
-  weekdayOn,
-} from "akasha/command/pages/fitness/next/modules/rotation/rotation.module.code.ts"
-import {
   type Step,
   stepFor,
   steppedOf,
 } from "akasha/command/pages/fitness/next/modules/stepping/stepping.module.code.ts"
-import {
-  liftedOn,
-  targetOn,
-} from "akasha/command/pages/fitness/next/modules/targeting/targeting.module.code.ts"
 import {
   type Warmth,
   warmthIn,
