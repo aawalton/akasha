@@ -9,6 +9,14 @@ export const overwhereIvNala3 = {
   about: "character-player/overwhere-iv-nala",
   facts: [
     {
+      fact: "At Dimension Magic LV 3 Nala learned the spell Spatial Sense.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Spatial Sense lets Nala feel every shape and hollow within about five paces, without looking.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
       fact: "Until she holds Sense Casting, a rend aimed by sense alone won't form, and costs nothing.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -167,5 +175,5 @@ export const overwhereIvNala3 = {
     },
   ],
   createdAt: "2026-10-02T17:57:38.987Z",
-  updatedAt: "2026-10-03T12:53:04.000Z",
+  updatedAt: "2026-10-08T16:25:25.115Z",
 } as const satisfies Lore

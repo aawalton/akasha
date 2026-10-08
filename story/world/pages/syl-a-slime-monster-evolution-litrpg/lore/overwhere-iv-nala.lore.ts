@@ -345,14 +345,7 @@ export const overwhereIvNala = {
       fact: "Fighting the goblins raised Nala's Spearmanship to LV 2 and her Dimension Magic to LV 3.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
-    {
-      fact: "At Dimension Magic LV 3 Nala learned the spell Spatial Sense.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
-    },
-    {
-      fact: "Spatial Sense lets Nala feel every shape and hollow within about five paces, without looking.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
-    },
   ],
   secrets: "jsonl",
+  updatedAt: "2026-10-08T16:25:25.115Z",
 } as const satisfies Lore
