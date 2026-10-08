@@ -7,16 +7,16 @@ import { kneePushUp } from "akasha/alan/value/health/fitness/strength/exercise/p
 import { strengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.ts"
 import { movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"
 import {
-  type Aim,
+  type LimitRule,
   liftedOn,
-  targetOn,
+  limitOn,
 } from "akasha/command/pages/fitness/today/modules/limiting/limiting.module.code.ts"
 
 const MONDAY = "2026-09-21"
 
 const SUNDAY = "2026-09-27"
 
-const AIM: Aim = { seed: 3000, from: MONDAY, rise: 20, fall: 100 }
+const RULE: LimitRule = { seed: 3000, from: MONDAY, rise: 20, fall: 100 }
 
 const PRESS = movement(dumbbellBenchPress.slug, { implementCount: 2 })
 
@@ -51,34 +51,34 @@ test("a set naming a movement this does not know moves the weight it states alon
   expect(liftedOn(stray, MOVEMENTS, 177.9).get(day20260916.date)).toBe(30)
 })
 
-test("the target opens at the seed on the first day a target bound Alan", () => {
-  expect(targetOn(new Map(), AIM, MONDAY)).toBe(3000)
+test("the limit opens at the seed on the first day a limit bound Alan", () => {
+  expect(limitOn(new Map(), RULE, MONDAY)).toBe(3000)
 })
 
-test("a day that moved its target raises the next day's target by the rise", () => {
+test("a day that moved its limit raises the next day's limit by the rise", () => {
   const moved = new Map([[MONDAY, 3000]])
-  expect(targetOn(moved, AIM, "2026-09-22")).toBe(3020)
+  expect(limitOn(moved, RULE, "2026-09-22")).toBe(3020)
 })
 
-test("a day short of its target leaves the target where it was", () => {
+test("a day short of its limit leaves the limit where it was", () => {
   const moved = new Map([[MONDAY, 2999]])
-  expect(targetOn(moved, AIM, "2026-09-22")).toBe(3000)
+  expect(limitOn(moved, RULE, "2026-09-22")).toBe(3000)
 })
 
-test("a week that reached its target on no day lowers the target by the fall", () => {
-  expect(targetOn(new Map(), AIM, "2026-09-28")).toBe(2900)
+test("a week that reached its limit on no day lowers the limit by the fall", () => {
+  expect(limitOn(new Map(), RULE, "2026-09-28")).toBe(2900)
 })
 
-test("a week Alan met once is a week that does not lower the target", () => {
+test("a week Alan reached once is a week that does not lower the limit", () => {
   const moved = new Map([["2026-09-23", 3000]])
-  expect(targetOn(moved, AIM, "2026-09-28")).toBe(3020)
+  expect(limitOn(moved, RULE, "2026-09-28")).toBe(3020)
 })
 
 test("a week is judged once Sunday is past rather than during it", () => {
-  expect(targetOn(new Map(), AIM, SUNDAY)).toBe(3000)
+  expect(limitOn(new Map(), RULE, SUNDAY)).toBe(3000)
 })
 
-test("a target never falls below the rise", () => {
-  const long: Aim = { ...AIM, seed: 150 }
-  expect(targetOn(new Map(), long, "2026-12-31")).toBe(20)
+test("a limit never falls below the rise", () => {
+  const long: LimitRule = { ...RULE, seed: 150 }
+  expect(limitOn(new Map(), long, "2026-12-31")).toBe(20)
 })

@@ -18,7 +18,7 @@ import {
 import { fitnessToday as page } from "akasha/command/pages/fitness/today/fitness-today.command.ts"
 import {
   liftedOn,
-  targetOn,
+  limitOn,
 } from "akasha/command/pages/fitness/today/modules/limiting/limiting.module.code.ts"
 import {
   DAY_TYPE,
@@ -122,7 +122,7 @@ function todayOf(root: string, now: Date): Today {
         )
   const week = weekIn(root, day, selectionPolicy.nearFailureRpeFloor)
   const moved = liftedOn(week.sets, week.movements, alan.bodyweight)
-  const target = targetOn(
+  const target = limitOn(
     moved,
     {
       seed: selectionPolicy.volumeLimitSeed,

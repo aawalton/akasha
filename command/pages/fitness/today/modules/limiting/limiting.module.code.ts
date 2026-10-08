@@ -13,7 +13,7 @@ import {
 
 const WEEK_ENDS = "sunday"
 
-export type Aim = {
+export type LimitRule = {
   readonly seed: number
   readonly from: string
   readonly rise: number
@@ -43,22 +43,26 @@ export function liftedOn(
   return held
 }
 
-export function targetOn(moved: ReadonlyMap<string, number>, aim: Aim, today: string): number {
-  let target = aim.seed
+export function limitOn(
+  moved: ReadonlyMap<string, number>,
+  rule: LimitRule,
+  today: string
+): number {
+  let limit = rule.seed
   let met = false
-  let on = aim.from
+  let on = rule.from
   while (on < today) {
-    if ((moved.get(on) ?? 0) >= target) {
-      target += aim.rise
+    if ((moved.get(on) ?? 0) >= limit) {
+      limit += rule.rise
       met = true
     }
     if (weekdayOn(on) === WEEK_ENDS) {
-      if (!met) target -= aim.fall
+      if (!met) limit -= rule.fall
       met = false
     }
     const next = dayAfter(on)
     if (next <= on) break
     on = next
   }
-  return Math.max(aim.rise, target)
+  return Math.max(rule.rise, limit)
 }
