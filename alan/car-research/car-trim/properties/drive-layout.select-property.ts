@@ -8,4 +8,6 @@ export const driveLayout = {
   definition: "which wheels a trim drives",
   values: ["FWD", "RWD", "AWD", "4WD"],
   types: "ts",
+  createdAt: "2026-09-21T18:37:49.616Z",
+  updatedAt: "2026-09-21T18:38:27.000Z",
 } as const satisfies SelectProperty

@@ -13,5 +13,6 @@ export const selectionPolicy = {
   volumeLimitRise: 20,
   volumeLimitFall: 100,
   volumeLimitFrom: "2026-09-21",
-  updatedAt: "2026-10-08T15:26:31.555Z",
+  updatedAt: "2026-10-08T16:03:50.606Z",
+  createdAt: "2026-09-03T17:48:09.134Z",
 } as const satisfies SelectionPolicy

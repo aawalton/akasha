@@ -26,4 +26,6 @@ export const smilingjennyWeb = {
     "secret/smilingjenny-secrets-session-key",
     "secret/smilingjenny-secrets-smilingjenny-ring-credential",
   ],
+  createdAt: "2026-09-01T04:07:55.830Z",
+  updatedAt: "2026-09-30T05:43:33.000Z",
 } as const satisfies ServiceCluster

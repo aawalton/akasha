@@ -8,4 +8,6 @@ export const written = {
   definition: "whether the artist wrote the song alone or with others",
   values: ["solo", "collab"],
   types: "ts",
+  createdAt: "2026-09-02T13:15:58.411Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

@@ -52,4 +52,6 @@ export const alanwaltonAtlas = {
         "Atlas shares its namespace with Alan's command center, so its instance is its own.",
     },
   ],
+  createdAt: "2026-09-01T04:07:55.830Z",
+  updatedAt: "2026-09-25T00:24:17.000Z",
 } as const satisfies ServiceCluster

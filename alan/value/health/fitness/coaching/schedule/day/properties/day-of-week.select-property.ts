@@ -8,4 +8,6 @@ export const dayOfWeek = {
   definition: "which day of the week this one is",
   values: ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
   types: "ts",
+  createdAt: "2026-09-03T04:15:48.269Z",
+  updatedAt: "2026-09-22T14:07:21.000Z",
 } as const satisfies SelectProperty

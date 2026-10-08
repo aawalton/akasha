@@ -12,4 +12,6 @@ export const ddnsHeadscale = {
   schedule: "*/5 * * * *",
   manifest: ["manifest/ddns-headscale"],
   secrets: ["secret/cloudflare-api-token"],
+  createdAt: "2026-09-03T16:20:14.336Z",
+  updatedAt: "2026-09-24T23:14:05.000Z",
 } as const satisfies ServiceCluster

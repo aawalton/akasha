@@ -8,4 +8,6 @@ export const propositionStatus = {
   definition: "where the statement is in being settled",
   values: ["open", "adopted", "proved", "parked"],
   types: "ts",
+  createdAt: "2026-09-03T04:10:11.500Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

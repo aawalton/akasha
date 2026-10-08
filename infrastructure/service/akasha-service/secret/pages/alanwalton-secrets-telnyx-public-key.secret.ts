@@ -5,4 +5,6 @@ export const alanwaltonSecretsTelnyxPublicKey = {
   type: "page-type/secret",
   slug: "alanwalton-secrets-telnyx-public-key",
   placements: [{ resourceName: "alanwalton-secrets", resourceKey: "TELNYX_PUBLIC_KEY" }],
+  createdAt: "2026-09-06T13:11:16.926Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

@@ -8,4 +8,6 @@ export const displayRefreshRate = {
   definition: "how often that monitor redraws",
   values: ["50-hz", "120-hz", "60-hz"],
   types: "ts",
+  createdAt: "2026-09-03T04:34:41.946Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

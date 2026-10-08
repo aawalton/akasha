@@ -12,4 +12,6 @@ export const alanwaltonSecretsHandoverPublicKey = {
     { resourceName: "smilingjenny-secrets", resourceKey: "HANDOVER_PUBLIC_KEY" },
     { resourceName: "auth-proxy-secrets", resourceKey: "HANDOVER_PUBLIC_KEY" },
   ],
+  createdAt: "2026-09-19T19:53:56.086Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

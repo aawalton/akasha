@@ -14,4 +14,6 @@ export const server = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-04T21:25:13.144Z",
+  updatedAt: "2026-09-24T16:58:05.000Z",
 } as const satisfies SelectProperty

@@ -8,4 +8,6 @@ export const playerColor = {
   definition: "which side Alan played",
   values: ["white", "black"],
   types: "ts",
+  createdAt: "2026-09-03T04:24:22.114Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

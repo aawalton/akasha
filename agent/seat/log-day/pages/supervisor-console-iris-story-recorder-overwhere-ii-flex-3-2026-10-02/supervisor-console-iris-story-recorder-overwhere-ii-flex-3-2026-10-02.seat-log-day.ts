@@ -7,4 +7,6 @@ export const supervisorConsoleIrisStoryRecorderOverwhereIiFlex320261002 = {
   source: "log-source/supervisor-console",
   seatName: "iris-story-recorder-overwhere-ii-flex-3",
   date: "2026-10-02",
+  createdAt: "2026-10-02T15:12:43.387Z",
+  updatedAt: "2026-10-02T15:13:01.000Z",
 } as const satisfies SeatLogDay

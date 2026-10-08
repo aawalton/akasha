@@ -5,4 +5,6 @@ export const alanwaltonSecretsAdminUserId = {
   type: "page-type/secret",
   slug: "alanwalton-secrets-admin-user-id",
   placements: [{ resourceName: "alanwalton-secrets", resourceKey: "ADMIN_USER_ID" }],
+  createdAt: "2026-09-06T13:11:16.917Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

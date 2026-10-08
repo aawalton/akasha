@@ -8,4 +8,6 @@ export const proofStatus = {
   definition: "how far an attempt has been taken",
   values: ["draft", "complete", "abandoned"],
   types: "ts",
+  createdAt: "2026-09-03T04:20:41.000Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

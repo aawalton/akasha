@@ -8,4 +8,6 @@ export const caseAnswer = {
   definition: "the value a case expects from a model",
   values: ["YES", "NO"],
   types: "ts",
+  createdAt: "2026-09-02T00:38:51.296Z",
+  updatedAt: "2026-09-25T18:03:55.000Z",
 } as const satisfies SelectProperty

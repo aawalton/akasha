@@ -8,4 +8,6 @@ export const constantFamily = {
   definition: "the group of gear values a constant belongs to",
   values: ["armor-type", "weapon-type", "quality"],
   types: "ts",
+  createdAt: "2026-09-23T14:48:34.005Z",
+  updatedAt: "2026-09-23T14:49:03.000Z",
 } as const satisfies SelectProperty

@@ -57,4 +57,6 @@ export const pageForwarder = {
         "A pod that is reached is a pod the whole path represents rather than a pod that has bound a socket.",
     },
   ],
+  createdAt: "2026-09-01T02:09:16.235Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceCluster

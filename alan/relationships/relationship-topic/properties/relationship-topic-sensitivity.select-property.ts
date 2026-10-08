@@ -8,4 +8,6 @@ export const relationshipTopicSensitivity = {
   definition: "how much care raising this topic takes",
   values: ["not-applicable", "low", "medium", "high", "critical"],
   types: "ts",
+  createdAt: "2026-09-03T04:32:23.823Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies SelectProperty

@@ -11,4 +11,6 @@ export const registryGc = {
   image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
   schedule: "0 4 * * *",
   manifest: ["manifest/registry-gc"],
+  createdAt: "2026-09-03T16:20:14.336Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceCluster

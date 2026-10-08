@@ -8,4 +8,6 @@ export const useLimit = {
   definition: "how many times the offer may be claimed",
   values: ["1", "2", "3", "no-limit"],
   types: "ts",
+  createdAt: "2026-09-03T04:27:14.757Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

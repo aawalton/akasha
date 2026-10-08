@@ -11,4 +11,6 @@ export const buildkitPrune = {
   image: "moby/buildkit:v0.28.0",
   schedule: "0 4 * * 0",
   manifest: ["manifest/buildkit-prune"],
+  createdAt: "2026-09-03T16:20:14.335Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceCluster

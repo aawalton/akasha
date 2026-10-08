@@ -14,4 +14,6 @@ export const slotType = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T22:51:35.740Z",
+  updatedAt: "2026-09-22T22:51:58.000Z",
 } as const satisfies SelectProperty

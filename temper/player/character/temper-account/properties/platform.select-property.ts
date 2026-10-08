@@ -14,4 +14,6 @@ export const platform = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-04T21:25:13.143Z",
+  updatedAt: "2026-09-24T16:58:05.000Z",
 } as const satisfies SelectProperty

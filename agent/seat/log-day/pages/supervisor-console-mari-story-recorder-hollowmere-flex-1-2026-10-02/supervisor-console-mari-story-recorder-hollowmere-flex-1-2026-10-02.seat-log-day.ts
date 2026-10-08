@@ -7,4 +7,6 @@ export const supervisorConsoleMariStoryRecorderHollowmereFlex120261002 = {
   source: "log-source/supervisor-console",
   seatName: "mari-story-recorder-hollowmere-flex-1",
   date: "2026-10-02",
+  createdAt: "2026-10-02T15:01:00.217Z",
+  updatedAt: "2026-10-02T15:01:16.000Z",
 } as const satisfies SeatLogDay

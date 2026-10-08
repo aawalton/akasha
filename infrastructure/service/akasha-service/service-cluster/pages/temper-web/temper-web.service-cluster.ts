@@ -48,5 +48,6 @@ export const temperWeb = {
     "secret/git-transport-secrets-git-access-token",
     "secret/temper-secrets-session-key",
   ],
-  updatedAt: "2026-10-08T15:21:15.805Z",
+  updatedAt: "2026-10-08T16:03:50.606Z",
+  createdAt: "2026-09-01T04:07:55.830Z",
 } as const satisfies ServiceCluster

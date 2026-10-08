@@ -5,4 +5,6 @@ export const headscaleSecretsOidcClientSecret = {
   type: "page-type/secret",
   slug: "headscale-secrets-oidc-client-secret",
   placements: [{ resourceName: "headscale-secrets", resourceKey: "oidc_client_secret" }],
+  createdAt: "2026-09-06T11:47:02.795Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

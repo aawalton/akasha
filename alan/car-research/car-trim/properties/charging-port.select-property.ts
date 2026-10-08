@@ -14,4 +14,6 @@ export const chargingPort = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T18:37:45.324Z",
+  updatedAt: "2026-09-22T13:42:40.000Z",
 } as const satisfies SelectProperty

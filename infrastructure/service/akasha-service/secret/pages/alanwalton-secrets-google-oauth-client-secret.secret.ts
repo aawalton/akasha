@@ -10,4 +10,6 @@ export const alanwaltonSecretsGoogleOauthClientSecret = {
     { resourceName: "archive-of-worlds-secrets", resourceKey: "GOOGLE_OAUTH_CLIENT_SECRET" },
     { resourceName: "audhdalan-secrets", resourceKey: "GOOGLE_OAUTH_CLIENT_SECRET" },
   ],
+  createdAt: "2026-09-19T18:31:12.807Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

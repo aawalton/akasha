@@ -5,4 +5,6 @@ export const registryTlsTlsKey = {
   type: "page-type/secret",
   slug: "registry-tls-tls-key",
   placements: [{ resourceName: "registry-tls", resourceKey: "tls.key" }],
+  createdAt: "2026-09-06T12:00:57.660Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

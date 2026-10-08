@@ -7,4 +7,6 @@ export const oauthProxyConsoleMariStoryRecorderSaltAndLamplightFlex220261002 = {
   source: "log-source/oauth-proxy-console",
   seatName: "mari-story-recorder-salt-and-lamplight-flex-2",
   date: "2026-10-02",
+  createdAt: "2026-10-02T14:44:55.000Z",
+  updatedAt: "2026-10-02T14:44:55.000Z",
 } as const satisfies SeatLogDay

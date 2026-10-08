@@ -8,4 +8,6 @@ export const slidePointColor = {
   definition: "the color a slide's point is marked in",
   values: ["red", "yellow", "green", "blue"],
   types: "ts",
+  createdAt: "2026-09-25T01:16:13.411Z",
+  updatedAt: "2026-09-25T01:16:17.000Z",
 } as const satisfies SelectProperty

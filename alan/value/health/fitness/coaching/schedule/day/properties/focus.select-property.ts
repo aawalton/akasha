@@ -8,4 +8,6 @@ export const focus = {
   definition: "what the day trains",
   values: ["legs", "pull", "push", "rest"],
   types: "ts",
+  createdAt: "2026-09-03T04:15:48.269Z",
+  updatedAt: "2026-09-19T17:45:02.000Z",
 } as const satisfies SelectProperty

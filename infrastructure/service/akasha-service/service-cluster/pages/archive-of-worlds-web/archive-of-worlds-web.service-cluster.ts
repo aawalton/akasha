@@ -27,4 +27,6 @@ export const archiveOfWorldsWeb = {
     "secret/archive-of-worlds-secrets-session-key",
     "secret/git-transport-secrets-git-access-token",
   ],
+  createdAt: "2026-09-01T04:07:55.830Z",
+  updatedAt: "2026-09-25T16:37:40.000Z",
 } as const satisfies ServiceCluster

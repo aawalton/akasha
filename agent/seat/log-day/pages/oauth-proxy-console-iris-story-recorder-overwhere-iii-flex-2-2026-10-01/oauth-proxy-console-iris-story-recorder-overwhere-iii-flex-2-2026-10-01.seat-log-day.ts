@@ -7,4 +7,6 @@ export const oauthProxyConsoleIrisStoryRecorderOverwhereIiiFlex220261001 = {
   source: "log-source/oauth-proxy-console",
   seatName: "iris-story-recorder-overwhere-iii-flex-2",
   date: "2026-10-01",
+  createdAt: "2026-10-01T14:29:30.698Z",
+  updatedAt: "2026-10-01T14:29:31.000Z",
 } as const satisfies SeatLogDay

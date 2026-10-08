@@ -28,4 +28,6 @@ export const priority = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T18:25:15.230Z",
+  updatedAt: "2026-09-21T18:27:30.000Z",
 } as const satisfies SelectProperty

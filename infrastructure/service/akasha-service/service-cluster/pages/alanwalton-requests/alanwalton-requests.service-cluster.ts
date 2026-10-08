@@ -40,4 +40,6 @@ export const alanwaltonRequests = {
     "secret/collections-secrets-scraperapi-api-key",
     "secret/collections-secrets-trakt-client-id",
   ],
+  createdAt: "2026-09-21T18:25:59.210Z",
+  updatedAt: "2026-09-25T16:18:29.000Z",
 } as const satisfies ServiceCluster

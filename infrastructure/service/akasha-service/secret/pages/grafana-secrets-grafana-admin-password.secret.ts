@@ -5,4 +5,6 @@ export const grafanaSecretsGrafanaAdminPassword = {
   type: "page-type/secret",
   slug: "grafana-secrets-grafana-admin-password",
   placements: [{ resourceName: "grafana-secrets", resourceKey: "GRAFANA_ADMIN_PASSWORD" }],
+  createdAt: "2026-09-06T12:04:33.167Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

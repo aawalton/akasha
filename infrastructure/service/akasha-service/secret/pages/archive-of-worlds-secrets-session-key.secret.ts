@@ -7,4 +7,6 @@ export const archiveOfWorldsSecretsSessionKey = {
   placements: [
     { resourceName: "archive-of-worlds-secrets", resourceKey: "ARCHIVE_OF_WORLDS_SESSION_KEY" },
   ],
+  createdAt: "2026-09-19T19:42:36.669Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

@@ -8,4 +8,6 @@ export const conversationEntryKind = {
   definition: "what one entry of a seat's conversation is",
   values: ["person", "agent", "tool", "turn-end", "message"],
   types: "ts",
+  createdAt: "2026-09-24T16:42:12.645Z",
+  updatedAt: "2026-09-24T17:59:31.000Z",
 } as const satisfies SelectProperty

@@ -8,4 +8,6 @@ export const activityType = {
   definition: "what sort of work the set was, where it is not a loaded lift",
   values: ["cardio", "mobility"],
   types: "ts",
+  createdAt: "2026-09-03T04:21:48.925Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

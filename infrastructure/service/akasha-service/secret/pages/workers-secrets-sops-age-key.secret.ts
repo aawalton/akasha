@@ -5,4 +5,6 @@ export const workersSecretsSopsAgeKey = {
   type: "page-type/secret",
   slug: "workers-secrets-sops-age-key",
   placements: [{ resourceName: "workers-secrets", resourceKey: "SOPS_AGE_KEY" }],
+  createdAt: "2026-09-15T12:35:12.762Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

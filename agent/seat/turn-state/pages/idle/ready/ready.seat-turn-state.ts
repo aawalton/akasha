@@ -20,4 +20,6 @@ export const ready = {
       statement: "A seat already waiting on something of its own is waiting rather than ready.",
     },
   ],
+  createdAt: "2026-09-06T12:45:44.824Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies SeatTurnState

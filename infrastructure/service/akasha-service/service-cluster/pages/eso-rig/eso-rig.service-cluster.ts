@@ -81,4 +81,6 @@ export const esoRig = {
       statement: "A fresh Wine prefix creates a new machine identity against the game account.",
     },
   ],
+  createdAt: "2026-09-03T17:52:13.048Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceCluster

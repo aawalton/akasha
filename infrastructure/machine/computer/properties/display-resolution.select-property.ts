@@ -8,4 +8,6 @@ export const displayResolution = {
   definition: "how many pixels that monitor carries",
   values: ["3440x1440", "3456x2234", "1920x1080", "2560x1440", "2048-x-1280"],
   types: "ts",
+  createdAt: "2026-09-03T04:34:41.946Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

@@ -8,4 +8,6 @@ export const alanwaltonSecretsReadingRelaySecret = {
     { resourceName: "alanwalton-secrets", resourceKey: "READING_RELAY_SECRET" },
     { resourceName: "smilingjenny-secrets", resourceKey: "READING_RELAY_SECRET" },
   ],
+  createdAt: "2026-09-06T13:11:16.925Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

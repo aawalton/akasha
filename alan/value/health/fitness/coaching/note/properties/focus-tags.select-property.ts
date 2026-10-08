@@ -19,4 +19,6 @@ export const focusTags = {
     "all",
   ],
   types: "ts",
+  createdAt: "2026-09-03T04:15:54.368Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

@@ -8,4 +8,6 @@ export const identityStatementRank = {
   definition: "how hard this statement is to hold",
   values: ["s-rank", "a-rank", "b-rank", "c-rank", "d-rank"],
   types: "ts",
+  createdAt: "2026-09-03T04:32:47.519Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

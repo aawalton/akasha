@@ -5,4 +5,6 @@ export const smilingjennySecretsSessionKey = {
   type: "page-type/secret",
   slug: "smilingjenny-secrets-session-key",
   placements: [{ resourceName: "smilingjenny-secrets", resourceKey: "SMILINGJENNY_SESSION_KEY" }],
+  createdAt: "2026-09-21T02:51:24.612Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

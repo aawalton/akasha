@@ -7,4 +7,6 @@ export const smilingjennySecretsSmilingjennyRingCredential = {
   placements: [
     { resourceName: "smilingjenny-secrets", resourceKey: "SMILINGJENNY_RING_CREDENTIAL" },
   ],
+  createdAt: "2026-09-06T13:11:16.928Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

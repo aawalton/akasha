@@ -11,4 +11,6 @@ export const promtail = {
   image: "grafana/promtail:3.1.0",
   containerPort: 3101,
   manifest: ["manifest/promtail"],
+  createdAt: "2026-09-03T16:24:54.194Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceCluster

@@ -7,4 +7,6 @@ export const supervisorConsoleMariReviewerEncountersFlex120261006 = {
   source: "log-source/supervisor-console",
   seatName: "mari-reviewer-encounters-flex-1",
   date: "2026-10-06",
+  createdAt: "2026-10-06T22:05:35.000Z",
+  updatedAt: "2026-10-06T22:05:35.000Z",
 } as const satisfies SeatLogDay

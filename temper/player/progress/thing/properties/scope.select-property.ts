@@ -8,4 +8,6 @@ export const scope = {
   definition: "how widely a task reaches across an account",
   values: ["account", "all_characters", "character", "next_character"],
   types: "ts",
+  createdAt: "2026-09-02T01:40:40.062Z",
+  updatedAt: "2026-09-21T23:14:26.000Z",
 } as const satisfies SelectProperty

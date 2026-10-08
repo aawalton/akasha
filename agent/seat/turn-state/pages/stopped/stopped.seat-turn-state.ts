@@ -6,4 +6,6 @@ export const stopped = {
   slug: "stopped",
   definition: "an agent no longer present to take a turn",
   color: "color/text",
+  createdAt: "2026-09-03T21:21:18.711Z",
+  updatedAt: "2026-09-15T16:55:33.000Z",
 } as const satisfies SeatTurnState

@@ -5,4 +5,6 @@ export const gitTransportSecretsGithubAccessToken = {
   type: "page-type/secret",
   slug: "git-transport-secrets-github-access-token",
   placements: [{ resourceName: "git-transport-secrets", resourceKey: "GITHUB_ACCESS_TOKEN" }],
+  createdAt: "2026-09-03T16:55:55.437Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

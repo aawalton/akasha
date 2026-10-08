@@ -8,4 +8,6 @@ export const gpuSize = {
   definition: "how much memory the graphics card carries",
   values: ["16gb", "64gb", "6gb", "8gb", "4gb", "11gb", "10gb"],
   types: "ts",
+  createdAt: "2026-09-03T04:34:41.946Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

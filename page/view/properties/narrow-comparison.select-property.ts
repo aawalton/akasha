@@ -19,4 +19,6 @@ export const narrowComparison = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T21:02:27.899Z",
+  updatedAt: "2026-09-22T10:08:53.000Z",
 } as const satisfies SelectProperty

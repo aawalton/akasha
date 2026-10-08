@@ -11,4 +11,6 @@ export const idle = {
     "seat-turn-state/needs-attention",
   ],
   color: "color/yellow",
+  createdAt: "2026-09-03T21:21:18.711Z",
+  updatedAt: "2026-09-26T18:31:02.000Z",
 } as const satisfies SeatTurnState

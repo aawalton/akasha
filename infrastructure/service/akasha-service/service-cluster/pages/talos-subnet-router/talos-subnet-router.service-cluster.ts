@@ -12,4 +12,6 @@ export const talosSubnetRouter = {
   replicas: 1,
   manifest: ["manifest/talos-subnet-router"],
   secrets: ["secret/subnet-router-auth"],
+  createdAt: "2026-09-03T16:20:14.336Z",
+  updatedAt: "2026-09-24T23:14:05.000Z",
 } as const satisfies ServiceCluster

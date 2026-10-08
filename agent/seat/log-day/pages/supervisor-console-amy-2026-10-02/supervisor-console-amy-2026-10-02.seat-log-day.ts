@@ -7,4 +7,6 @@ export const supervisorConsoleAmy20261002 = {
   source: "log-source/supervisor-console",
   seatName: "amy",
   date: "2026-10-02",
+  createdAt: "2026-10-02T00:00:50.937Z",
+  updatedAt: "2026-10-02T00:00:51.000Z",
 } as const satisfies SeatLogDay

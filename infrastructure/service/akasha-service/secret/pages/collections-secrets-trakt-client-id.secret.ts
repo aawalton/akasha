@@ -5,4 +5,6 @@ export const collectionsSecretsTraktClientId = {
   type: "page-type/secret",
   slug: "collections-secrets-trakt-client-id",
   placements: [{ resourceName: "alanwalton-secrets", resourceKey: "TRAKT_CLIENT_ID" }],
+  createdAt: "2026-09-06T12:36:05.296Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

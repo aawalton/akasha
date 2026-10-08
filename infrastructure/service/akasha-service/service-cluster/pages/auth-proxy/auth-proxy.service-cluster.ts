@@ -16,4 +16,6 @@ export const authProxy = {
     "secret/alanwalton-secrets-handover-public-key",
     "secret/auth-proxy-secrets-session-key",
   ],
+  createdAt: "2026-09-03T17:49:10.140Z",
+  updatedAt: "2026-09-24T23:14:05.000Z",
 } as const satisfies ServiceCluster

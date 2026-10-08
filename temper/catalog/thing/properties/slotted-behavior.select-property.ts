@@ -8,4 +8,6 @@ export const slottedBehavior = {
   definition: "which bar a slotted ability affects",
   values: ["active-bar-only", "either-bar"],
   types: "ts",
+  createdAt: "2026-09-22T22:52:03.062Z",
+  updatedAt: "2026-09-22T22:52:32.000Z",
 } as const satisfies SelectProperty

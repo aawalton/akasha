@@ -5,4 +5,6 @@ export const audhdalanSecretsSessionKey = {
   type: "page-type/secret",
   slug: "audhdalan-secrets-session-key",
   placements: [{ resourceName: "audhdalan-secrets", resourceKey: "AUDHDALAN_SESSION_KEY" }],
+  createdAt: "2026-09-19T19:42:41.682Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

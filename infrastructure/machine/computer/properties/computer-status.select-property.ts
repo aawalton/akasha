@@ -8,4 +8,6 @@ export const computerStatus = {
   definition: "where it is in Alan's hands",
   values: ["active", "needs-repair", "prepare-to-sell", "listed", "sold", "in-storage", "option"],
   types: "ts",
+  createdAt: "2026-09-03T04:34:41.946Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

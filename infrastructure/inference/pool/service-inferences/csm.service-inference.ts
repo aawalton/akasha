@@ -14,4 +14,6 @@ export const csm = {
   port: 8084,
   internalPort: 18084,
   lifecycle: "service-lifecycle/pool",
+  createdAt: "2026-09-11T13:22:40.168Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceInference

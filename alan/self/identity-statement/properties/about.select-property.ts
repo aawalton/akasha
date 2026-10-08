@@ -8,4 +8,6 @@ export const about = {
   definition: "what the statement is about",
   values: ["myself", "others", "reality"],
   types: "ts",
+  createdAt: "2026-09-03T04:32:47.519Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

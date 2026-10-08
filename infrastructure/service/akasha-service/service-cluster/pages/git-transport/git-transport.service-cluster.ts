@@ -16,4 +16,6 @@ export const gitTransport = {
     "secret/git-transport-secrets-git-access-token",
     "secret/git-transport-secrets-github-access-token",
   ],
+  createdAt: "2026-09-03T16:24:39.441Z",
+  updatedAt: "2026-09-24T23:14:17.000Z",
 } as const satisfies ServiceCluster

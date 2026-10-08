@@ -22,4 +22,6 @@ export const countedOn = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T18:24:06.783Z",
+  updatedAt: "2026-09-24T18:24:34.000Z",
 } as const satisfies SelectProperty

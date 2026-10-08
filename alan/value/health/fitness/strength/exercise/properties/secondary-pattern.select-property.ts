@@ -24,4 +24,6 @@ export const secondaryPattern = {
     "v-push",
   ],
   types: "ts",
+  createdAt: "2026-09-03T04:19:22.688Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

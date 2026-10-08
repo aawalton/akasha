@@ -5,4 +5,6 @@ export const cloudflaredCredsCredentialsJson = {
   type: "page-type/secret",
   slug: "cloudflared-creds-credentials-json",
   placements: [{ resourceName: "cloudflared-creds", resourceKey: "credentials.json" }],
+  createdAt: "2026-09-06T12:01:35.891Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

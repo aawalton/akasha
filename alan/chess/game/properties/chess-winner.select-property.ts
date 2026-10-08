@@ -8,4 +8,6 @@ export const chessWinner = {
   definition: "which side won a game",
   values: ["white", "black", "draw"],
   types: "ts",
+  createdAt: "2026-09-03T04:24:22.114Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

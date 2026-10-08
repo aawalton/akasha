@@ -30,4 +30,6 @@ export const agentMessageWarrant = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T16:26:42.683Z",
+  updatedAt: "2026-09-22T17:37:14.000Z",
 } as const satisfies SelectProperty

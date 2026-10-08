@@ -32,4 +32,6 @@ export const trackType = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T18:19:39.000Z",
+  updatedAt: "2026-09-19T18:19:39.000Z",
 } as const satisfies SelectProperty

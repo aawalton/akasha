@@ -8,4 +8,6 @@ export const imageKind = {
   definition: "the sort of Dockerfile written for an image",
   values: ["nextjs", "bun-service", "tool-image"],
   types: "ts",
+  createdAt: "2026-09-08T15:11:59.317Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

@@ -8,4 +8,6 @@ export const chessResult = {
   definition: "a game's final score",
   values: ["1-0", "0-1", "1/2-1/2", "*"],
   types: "ts",
+  createdAt: "2026-09-03T04:24:22.114Z",
+  updatedAt: "2026-09-22T13:42:40.000Z",
 } as const satisfies SelectProperty

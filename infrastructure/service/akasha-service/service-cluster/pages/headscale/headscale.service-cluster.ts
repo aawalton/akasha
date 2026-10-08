@@ -34,4 +34,6 @@ export const headscale = {
         "The pod is rolled by the certificate's checksum changing, which a job stamps every quarter hour.",
     },
   ],
+  createdAt: "2026-09-03T16:20:14.336Z",
+  updatedAt: "2026-09-24T23:45:50.000Z",
 } as const satisfies ServiceCluster

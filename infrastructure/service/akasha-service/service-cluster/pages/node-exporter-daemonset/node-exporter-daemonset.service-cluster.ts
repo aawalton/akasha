@@ -11,4 +11,6 @@ export const nodeExporterDaemonset = {
   image: "prom/node-exporter:v1.8.2",
   containerPort: 9100,
   manifest: ["manifest/node-exporter-daemonset"],
+  createdAt: "2026-09-03T16:20:14.336Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceCluster

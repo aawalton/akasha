@@ -5,4 +5,6 @@ export const cloudflareApiToken = {
   type: "page-type/secret",
   slug: "cloudflare-api-token",
   placements: [{ resourceName: "cloudflare-api-token", resourceKey: "api-token" }],
+  createdAt: "2026-09-03T16:55:55.437Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

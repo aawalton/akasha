@@ -5,4 +5,6 @@ export const headless = {
   type: "page-type/seat-mode",
   slug: "headless",
   title: "Headless",
+  createdAt: "2026-09-24T19:06:16.469Z",
+  updatedAt: "2026-09-24T19:07:12.000Z",
 } as const satisfies SeatMode

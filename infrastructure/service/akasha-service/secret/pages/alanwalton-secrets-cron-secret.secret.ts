@@ -5,4 +5,6 @@ export const alanwaltonSecretsCronSecret = {
   type: "page-type/secret",
   slug: "alanwalton-secrets-cron-secret",
   placements: [{ resourceName: "alanwalton-secrets", resourceKey: "CRON_SECRET" }],
+  createdAt: "2026-09-06T13:11:16.921Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

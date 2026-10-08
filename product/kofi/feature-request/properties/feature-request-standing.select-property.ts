@@ -18,4 +18,6 @@ export const featureRequestStanding = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T15:56:58.718Z",
+  updatedAt: "2026-09-21T15:57:14.000Z",
 } as const satisfies SelectProperty

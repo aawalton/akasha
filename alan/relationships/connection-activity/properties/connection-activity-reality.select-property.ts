@@ -8,4 +8,6 @@ export const connectionActivityReality = {
   definition: "how much of the other person he is actually meeting",
   values: ["authentic", "professional", "celebrity"],
   types: "ts",
+  createdAt: "2026-09-03T04:37:29.998Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies SelectProperty

@@ -5,4 +5,6 @@ export const headscaleSecretsNoisePrivateKey = {
   type: "page-type/secret",
   slug: "headscale-secrets-noise-private-key",
   placements: [{ resourceName: "headscale-secrets", resourceKey: "noise_private_key" }],
+  createdAt: "2026-09-06T11:47:12.511Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

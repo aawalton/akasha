@@ -47,4 +47,6 @@ export const alanwaltonWeb = {
     "secret/alanwalton-secrets-session-key",
     "secret/alanwalton-secrets-stripe-webhook-secret",
   ],
+  createdAt: "2026-09-01T04:07:55.830Z",
+  updatedAt: "2026-09-25T00:13:16.000Z",
 } as const satisfies ServiceCluster

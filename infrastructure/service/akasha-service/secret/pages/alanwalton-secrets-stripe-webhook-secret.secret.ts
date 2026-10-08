@@ -5,4 +5,6 @@ export const alanwaltonSecretsStripeWebhookSecret = {
   type: "page-type/secret",
   slug: "alanwalton-secrets-stripe-webhook-secret",
   placements: [{ resourceName: "alanwalton-secrets", resourceKey: "STRIPE_WEBHOOK_SECRET" }],
+  createdAt: "2026-09-19T16:54:54.768Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

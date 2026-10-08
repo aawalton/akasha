@@ -30,4 +30,6 @@ export const holds = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T22:10:08.092Z",
+  updatedAt: "2026-09-24T16:36:26.000Z",
 } as const satisfies SelectProperty

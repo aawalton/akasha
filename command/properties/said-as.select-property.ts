@@ -30,4 +30,6 @@ export const saidAs = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T07:27:10.121Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies SelectProperty

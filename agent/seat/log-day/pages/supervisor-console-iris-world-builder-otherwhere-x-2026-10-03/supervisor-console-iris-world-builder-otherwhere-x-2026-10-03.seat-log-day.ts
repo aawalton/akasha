@@ -7,4 +7,6 @@ export const supervisorConsoleIrisWorldBuilderOtherwhereX20261003 = {
   source: "log-source/supervisor-console",
   seatName: "iris-world-builder-otherwhere-x",
   date: "2026-10-03",
+  createdAt: "2026-10-03T00:00:16.067Z",
+  updatedAt: "2026-10-03T00:00:57.000Z",
 } as const satisfies SeatLogDay

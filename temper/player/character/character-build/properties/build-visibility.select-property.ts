@@ -26,4 +26,6 @@ export const buildVisibility = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T17:48:18.542Z",
+  updatedAt: "2026-09-21T15:29:06.000Z",
 } as const satisfies SelectProperty

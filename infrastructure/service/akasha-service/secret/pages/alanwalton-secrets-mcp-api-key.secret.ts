@@ -5,4 +5,6 @@ export const alanwaltonSecretsMcpApiKey = {
   type: "page-type/secret",
   slug: "alanwalton-secrets-mcp-api-key",
   placements: [{ resourceName: "alanwalton-secrets", resourceKey: "MCP_API_KEY" }],
+  createdAt: "2026-09-06T12:36:56.862Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Secret

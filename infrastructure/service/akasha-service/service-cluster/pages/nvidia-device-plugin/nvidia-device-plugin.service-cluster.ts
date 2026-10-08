@@ -10,4 +10,6 @@ export const nvidiaDevicePlugin = {
   resourceName: "nvidia-device-plugin-daemonset",
   image: "nvcr.io/nvidia/k8s-device-plugin:v0.14.5",
   manifest: ["manifest/nvidia-device-plugin"],
+  createdAt: "2026-09-03T16:20:14.336Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies ServiceCluster

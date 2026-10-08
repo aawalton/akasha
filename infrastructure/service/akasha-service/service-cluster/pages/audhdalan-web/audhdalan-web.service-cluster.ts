@@ -28,4 +28,6 @@ export const audhdalanWeb = {
     "secret/audhdalan-secrets-subscriber-owner-user-id",
     "secret/git-transport-secrets-git-access-token",
   ],
+  createdAt: "2026-09-01T04:07:55.830Z",
+  updatedAt: "2026-09-30T05:48:25.000Z",
 } as const satisfies ServiceCluster

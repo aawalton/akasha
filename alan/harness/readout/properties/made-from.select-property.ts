@@ -18,4 +18,6 @@ export const madeFrom = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T17:19:21.193Z",
+  updatedAt: "2026-09-25T17:19:30.000Z",
 } as const satisfies SelectProperty

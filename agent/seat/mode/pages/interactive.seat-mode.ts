@@ -5,4 +5,6 @@ export const interactive = {
   type: "page-type/seat-mode",
   slug: "interactive",
   title: "Interactive",
+  createdAt: "2026-09-24T19:06:14.627Z",
+  updatedAt: "2026-09-24T19:07:12.000Z",
 } as const satisfies SeatMode

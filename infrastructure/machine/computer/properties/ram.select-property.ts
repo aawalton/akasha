@@ -8,4 +8,6 @@ export const ram = {
   definition: "how much memory it carries",
   values: ["64gb", "16gb", "32gb", "12gb", "128gb"],
   types: "ts",
+  createdAt: "2026-09-03T04:34:41.946Z",
+  updatedAt: "2026-09-19T15:38:09.000Z",
 } as const satisfies SelectProperty

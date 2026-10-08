@@ -36,4 +36,6 @@ export const runsAt = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-29T15:02:17.083Z",
+  updatedAt: "2026-09-25T18:02:34.000Z",
 } as const satisfies SelectProperty

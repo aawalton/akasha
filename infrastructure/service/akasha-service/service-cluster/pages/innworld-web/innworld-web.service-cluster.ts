@@ -22,4 +22,6 @@ export const innworldWeb = {
   codeSync: { cachePath: "/var/innworld-web-cache", minMemoryMb: 256, killMemoryMb: 2048 },
   manifests: "yaml",
   secrets: ["secret/git-transport-secrets-git-access-token"],
+  createdAt: "2026-09-21T21:42:56.496Z",
+  updatedAt: "2026-09-25T16:41:22.000Z",
 } as const satisfies ServiceCluster

@@ -8,4 +8,6 @@ export const force = {
   definition: "which way the movement drives the load",
   values: ["pull", "push", "static"],
   types: "ts",
+  createdAt: "2026-09-03T04:19:22.687Z",
+  updatedAt: "2026-09-15T16:59:44.000Z",
 } as const satisfies SelectProperty

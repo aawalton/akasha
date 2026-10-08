@@ -15,4 +15,6 @@ export const publicationStatus = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T03:34:14.461Z",
+  updatedAt: "2026-09-19T08:48:28.000Z",
 } as const satisfies SelectProperty

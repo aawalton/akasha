@@ -8,4 +8,6 @@ export const batteryChemistry = {
   definition: "the makeup of the traction battery's cells",
   values: ["NMC", "LFP", "NiMH", "LiPo", "other"],
   types: "ts",
+  createdAt: "2026-09-21T18:37:40.433Z",
+  updatedAt: "2026-09-22T13:47:07.000Z",
 } as const satisfies SelectProperty

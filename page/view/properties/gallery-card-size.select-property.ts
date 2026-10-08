@@ -8,4 +8,6 @@ export const galleryCardSize = {
   definition: "how large a gallery draws a card",
   values: ["small", "medium", "large"],
   types: "ts",
+  createdAt: "2026-09-03T16:14:57.280Z",
+  updatedAt: "2026-09-22T10:09:59.000Z",
 } as const satisfies SelectProperty
