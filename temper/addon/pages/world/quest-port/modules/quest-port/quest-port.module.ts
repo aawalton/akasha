@@ -57,7 +57,11 @@ export const questPort = {
       decisionKind: "decision-kind/departure",
       statement: "Every refusal and every port is said in chat.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every press is written down, from the quest it read to the line it said.",
+    },
   ],
   createdAt: "2026-10-08T14:55:08.172Z",
-  updatedAt: "2026-10-08T16:21:36.217Z",
+  updatedAt: "2026-10-08T17:07:58.033Z",
 } as const satisfies Module

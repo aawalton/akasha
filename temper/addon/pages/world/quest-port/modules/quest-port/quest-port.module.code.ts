@@ -1,4 +1,5 @@
 import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
+import type { PositionAnswer } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
 import {
   type ConditionReading,
   type NodeKind,
@@ -8,6 +9,17 @@ import {
   type PortTarget,
   portTargets,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-choose/quest-port-choose.module.code.ts"
+import {
+  beginPress,
+  noteAnswer,
+  noteCandidates,
+  noteMapStep,
+  noteQuest,
+  noteRecall,
+  noteSaid,
+  noteTask,
+  noteTimedOut,
+} from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-trace/quest-port-trace.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-3/eso-api-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
@@ -37,6 +49,7 @@ let asked: Asked | undefined
 ZO_CreateStringId("SI_BINDING_NAME_TEMPER_PORT_NEAR_QUEST_OBJECTIVE", "Port Near Quest Objective")
 
 function say(this: void, text: string): undefined {
+  noteSaid(text)
   d(`[Temper] ${text}`)
   return undefined
 }
@@ -83,14 +96,23 @@ function setMapToObjective(
   let result = SET_MAP_RESULT_FAILED
   if (condition !== undefined) {
     result = SetMapToQuestCondition(questIndex, condition.stepIndex, condition.conditionIndex)
+    noteMapStep("set-to-condition", result)
   } else {
     const ending = endingStepIndex(questIndex)
-    if (ending !== undefined) result = SetMapToQuestStepEnding(questIndex, ending)
+    if (ending !== undefined) {
+      result = SetMapToQuestStepEnding(questIndex, ending)
+      noteMapStep("set-to-step-ending", result)
+    }
   }
-  if (result === SET_MAP_RESULT_FAILED) result = SetMapToQuestZone(questIndex)
+  if (result === SET_MAP_RESULT_FAILED) {
+    result = SetMapToQuestZone(questIndex)
+    noteMapStep("set-to-quest-zone", result)
+  }
   if (result === SET_MAP_RESULT_FAILED) return false
   for (let zoomOuts = 0; zoomOuts < MAX_ZOOM_OUTS && GetMapType() !== MAPTYPE_ZONE; zoomOuts++) {
-    if (MapZoomOut() === SET_MAP_RESULT_FAILED) break
+    const zoomed = MapZoomOut()
+    noteMapStep("zoom-out", zoomed)
+    if (zoomed === SET_MAP_RESULT_FAILED) break
   }
   return true
 }
@@ -134,7 +156,13 @@ function portTo(this: void, target: PortTarget, objective: string): undefined {
     return undefined
   }
   if (GetInteractionType() !== INTERACTION_FAST_TRAVEL) {
-    const [, blockedFor] = GetRecallCooldown()
+    const [remain, blockedFor] = GetRecallCooldown()
+    noteRecall({
+      remain,
+      blockedFor,
+      cost: GetRecallCost(target.nodeIndex),
+      money: GetCurrentMoney(),
+    })
     if (blockedFor > 0) {
       say(
         `Recall is blocked for ${Math.ceil(blockedFor / 1000)}s, so ${target.name} is out of reach.`
@@ -152,18 +180,17 @@ function portTo(this: void, target: PortTarget, objective: string): undefined {
   return undefined
 }
 
-function onPositionAnswered(
-  this: void,
-  _eventCode: number,
-  taskId: number,
-  _pinType: number,
-  x: number,
-  y: number
-): undefined {
+function onPositionAnswered(this: void, taskId: number, answer: PositionAnswer): undefined {
   if (asked === undefined || asked.taskId !== taskId) return undefined
+  noteAnswer(answer)
   const objective = asked.objective
   asked = undefined
-  const target = nearestTarget(portTargets(nodeReadings()), x, y)
+  const x = answer.xLoc
+  const y = answer.yLoc
+  const nodes = nodeReadings()
+  const targets = portTargets(nodes)
+  const target = nearestTarget(targets, x, y)
+  noteCandidates(nodes.length, targets, x, y, target)
   SetMapToPlayerLocation()
   if (target === undefined) {
     say(`No wayshrine you have found and no house you own is on the map of ${objective}.`)
@@ -174,6 +201,7 @@ function onPositionAnswered(
 
 function giveUpOn(this: void, taskId: number): undefined {
   if (asked === undefined || asked.taskId !== taskId) return undefined
+  noteTimedOut()
   const objective = asked.objective
   asked = undefined
   CancelRequestJournalQuestConditionAssistance(taskId)
@@ -183,6 +211,7 @@ function giveUpOn(this: void, taskId: number): undefined {
 }
 
 export function portNearQuestObjective(this: void): undefined {
+  beginPress()
   if (IsUnitInCombat("player")) return say("Porting waits until you are out of combat.")
   const questIndex = focusedQuestIndex()
   if (questIndex === undefined) return say("No quest is focused in the tracker.")
@@ -197,6 +226,13 @@ export function portNearQuestObjective(this: void): undefined {
     condition === undefined
       ? GetJournalQuestName(questIndex)
       : GetJournalQuestConditionInfo(questIndex, condition.stepIndex, condition.conditionIndex)[0]
+  noteQuest(
+    questIndex,
+    GetJournalQuestName(questIndex),
+    condition?.stepIndex,
+    condition?.conditionIndex,
+    objective
+  )
   if (!setMapToObjective(questIndex, condition)) {
     return say(`The map cannot show where ${objective} is.`)
   }
@@ -208,6 +244,7 @@ export function portNearQuestObjective(this: void): undefined {
           condition.stepIndex,
           condition.conditionIndex
         )
+  noteTask(taskId)
   if (taskId === undefined) {
     SetMapToPlayerLocation()
     return say(`The game gave no position for ${objective}.`)
@@ -218,11 +255,52 @@ export function portNearQuestObjective(this: void): undefined {
 }
 
 export function initQuestPort(this: void): undefined {
-  EVENT_MANAGER.RegisterForEvent<[number, number, number, number]>(
+  EVENT_MANAGER.RegisterForEvent<
+    [
+      number,
+      number,
+      number,
+      number,
+      number,
+      boolean,
+      boolean,
+      number,
+      number,
+      number,
+      number,
+      number,
+    ]
+  >(
     EVENT_NAMESPACE,
     EVENT_QUEST_POSITION_REQUEST_COMPLETE,
-    (eventCode, taskId, pinType, x, y) => {
-      onPositionAnswered(eventCode, taskId, pinType, x, y)
+    (
+      _eventCode,
+      taskId,
+      pinType,
+      xLoc,
+      yLoc,
+      areaRadius,
+      insideCurrentMapWorld,
+      isBreadcrumb,
+      teleportNPCId,
+      waypointId,
+      symbolicState,
+      additionalSymbolicLocX,
+      additionalSymbolicLocY
+    ) => {
+      onPositionAnswered(taskId, {
+        pinType,
+        xLoc,
+        yLoc,
+        areaRadius,
+        insideCurrentMapWorld,
+        isBreadcrumb,
+        teleportNPCId,
+        waypointId,
+        symbolicState,
+        additionalSymbolicLocX,
+        additionalSymbolicLocY,
+      })
     }
   )
   return undefined
