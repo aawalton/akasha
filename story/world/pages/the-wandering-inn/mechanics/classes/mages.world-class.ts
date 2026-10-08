@@ -8,4 +8,6 @@ export const mages = {
   world: "world/the-wandering-inn",
   appearanceCount: 517,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.506Z",
+  updatedAt: "2026-09-22T13:29:35.000Z",
 } as const satisfies WorldClass

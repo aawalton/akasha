@@ -6,4 +6,6 @@ export const knightOfDeathAndDawn = {
   slug: "knight-of-death-and-dawn",
   title: "Knight of Death and Dawn",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:16.477Z",
+  updatedAt: "2026-09-19T16:31:23.000Z",
 } as const satisfies WorldClass

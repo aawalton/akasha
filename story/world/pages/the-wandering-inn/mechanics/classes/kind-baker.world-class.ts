@@ -7,4 +7,6 @@ export const kindBaker = {
   title: "Kind Baker",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-class/baker-of-presents-gifted-chef"],
+  createdAt: "2026-09-03T04:19:16.472Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

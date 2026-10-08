@@ -8,4 +8,6 @@ export const insectRaidrider = {
   world: "world/the-wandering-inn",
   appearanceCount: 1,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.471Z",
+  updatedAt: "2026-09-22T13:29:20.000Z",
 } as const satisfies WorldClass

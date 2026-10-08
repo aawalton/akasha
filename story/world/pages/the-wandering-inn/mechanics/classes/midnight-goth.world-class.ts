@@ -9,4 +9,6 @@ export const midnightGoth = {
   appearanceCount: 3,
   evolvesFromSlugs: ["world-class/goth"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.514Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

@@ -9,4 +9,6 @@ export const intractableAdmiralOfSacrifice = {
   appearanceCount: 2,
   evolvesFromSlugs: ["world-class/sailing-admiral"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.011Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

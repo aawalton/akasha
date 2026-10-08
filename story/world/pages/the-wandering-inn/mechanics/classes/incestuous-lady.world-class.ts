@@ -9,4 +9,6 @@ export const incestuousLady = {
   appearanceCount: 1,
   evolvesToSlugs: ["world-class/sharp-dame"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.470Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

@@ -6,4 +6,6 @@ export const lordOfThunderousHearts = {
   slug: "lord-of-thunderous-hearts",
   title: "Lord of Thunderous Hearts",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:16.495Z",
+  updatedAt: "2026-09-19T16:31:23.000Z",
 } as const satisfies WorldClass

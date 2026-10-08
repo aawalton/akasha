@@ -10,4 +10,6 @@ export const knight = {
   aliases: ["knights"],
   evolvesToSlugs: ["world-class/knight-seeker-of-the-silver-dragon"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.023Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

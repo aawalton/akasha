@@ -8,4 +8,6 @@ export const honorGuard = {
   world: "world/the-wandering-inn",
   appearanceCount: 11,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.468Z",
+  updatedAt: "2026-09-22T13:29:20.000Z",
 } as const satisfies WorldClass

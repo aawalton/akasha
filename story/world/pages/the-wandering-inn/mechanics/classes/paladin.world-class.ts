@@ -9,4 +9,6 @@ export const paladin = {
   appearanceCount: 54,
   aliases: ["paladins"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.533Z",
+  updatedAt: "2026-09-22T13:29:43.000Z",
 } as const satisfies WorldClass

@@ -7,4 +7,6 @@ export const magicPaintShaman = {
   title: "Magic Paint Shaman",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-class/shaman-of-the-old-ways"],
+  createdAt: "2026-09-03T04:19:16.507Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

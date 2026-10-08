@@ -9,4 +9,6 @@ export const medic = {
   appearanceCount: 6,
   aliases: ["medics"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.048Z",
+  updatedAt: "2026-09-22T13:29:35.000Z",
 } as const satisfies WorldClass

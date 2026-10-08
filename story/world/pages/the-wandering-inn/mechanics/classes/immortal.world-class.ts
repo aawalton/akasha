@@ -8,4 +8,6 @@ export const immortal = {
   world: "world/the-wandering-inn",
   appearanceCount: 8,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.470Z",
+  updatedAt: "2026-09-22T13:29:20.000Z",
 } as const satisfies WorldClass

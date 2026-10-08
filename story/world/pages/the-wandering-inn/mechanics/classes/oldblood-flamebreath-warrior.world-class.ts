@@ -6,4 +6,6 @@ export const oldbloodFlamebreathWarrior = {
   slug: "oldblood-flamebreath-warrior",
   title: "Oldblood Flamebreath Warrior",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:16.531Z",
+  updatedAt: "2026-09-19T16:32:45.000Z",
 } as const satisfies WorldClass

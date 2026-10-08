@@ -6,4 +6,6 @@ export const minerOfTheMagicPickaxe = {
   slug: "miner-of-the-magic-pickaxe",
   title: "Miner of the Magic Pickaxe",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:12.050Z",
+  updatedAt: "2026-09-19T16:32:04.000Z",
 } as const satisfies WorldClass

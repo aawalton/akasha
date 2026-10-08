@@ -9,4 +9,6 @@ export const mageCaptain = {
   appearanceCount: 6,
   aliases: ["Mage-Captain"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.033Z",
+  updatedAt: "2026-09-22T13:29:27.000Z",
 } as const satisfies WorldClass

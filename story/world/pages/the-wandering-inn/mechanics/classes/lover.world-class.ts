@@ -9,4 +9,6 @@ export const lover = {
   appearanceCount: 8,
   aliases: ["lovers"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.497Z",
+  updatedAt: "2026-09-22T13:29:27.000Z",
 } as const satisfies WorldClass

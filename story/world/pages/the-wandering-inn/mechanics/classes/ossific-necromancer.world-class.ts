@@ -10,4 +10,6 @@ export const ossificNecromancer = {
   evolvesFromSlugs: ["world-class/necromancer"],
   evolvesToSlugs: ["world-class/deathbane-necromancer"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.053Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

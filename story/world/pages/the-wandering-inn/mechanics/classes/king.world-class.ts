@@ -10,4 +10,6 @@ export const king = {
   aliases: ["kings"],
   evolvesToSlugs: ["world-class/king-of-challenges"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:16.476Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

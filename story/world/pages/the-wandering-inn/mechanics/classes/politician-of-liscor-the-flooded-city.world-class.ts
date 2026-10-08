@@ -6,4 +6,6 @@ export const politicianOfLiscorTheFloodedCity = {
   slug: "politician-of-liscor-the-flooded-city",
   title: "Politician of Liscor, the Flooded City",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:12.062Z",
+  updatedAt: "2026-09-19T16:33:27.000Z",
 } as const satisfies WorldClass

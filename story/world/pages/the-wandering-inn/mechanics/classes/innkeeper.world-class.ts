@@ -10,4 +10,6 @@ export const innkeeper = {
   aliases: ["INNKEEPER", "innkeeper", "innkeepers"],
   evolvesToSlugs: ["world-class/awesome-innkeeper", "world-class/magical-innkeeper"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.010Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

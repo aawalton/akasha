@@ -7,4 +7,6 @@ export const peerlessLance = {
   title: "Peerless Lance",
   world: "world/the-wandering-inn",
   evolvesToSlugs: ["world-class/lancer-of-the-ages"],
+  createdAt: "2026-09-03T04:19:12.055Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

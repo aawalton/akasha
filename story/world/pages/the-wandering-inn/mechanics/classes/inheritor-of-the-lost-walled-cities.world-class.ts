@@ -6,4 +6,6 @@ export const inheritorOfTheLostWalledCities = {
   slug: "inheritor-of-the-lost-walled-cities",
   title: "Inheritor of the Lost Walled Cities",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:16.470Z",
+  updatedAt: "2026-09-19T16:30:44.000Z",
 } as const satisfies WorldClass

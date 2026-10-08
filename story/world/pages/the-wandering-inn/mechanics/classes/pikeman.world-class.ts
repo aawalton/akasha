@@ -8,4 +8,6 @@ export const pikeman = {
   world: "world/the-wandering-inn",
   appearanceCount: 7,
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.342Z",
+  updatedAt: "2026-09-22T13:29:43.000Z",
 } as const satisfies WorldClass
