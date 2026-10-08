@@ -9,4 +9,6 @@ export const weaponTraitChargedFine = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-status-effect-chance",
   value: 1.025,
+  createdAt: "2026-09-24T14:53:24.283Z",
+  updatedAt: "2026-09-24T14:53:49.000Z",
 } as const satisfies TemperGearGrade

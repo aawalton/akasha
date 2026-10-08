@@ -9,4 +9,6 @@ export const armorEnchantMagickaLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-magicka-maximum",
   value: 868,
+  createdAt: "2026-09-24T14:52:37.651Z",
+  updatedAt: "2026-09-24T14:53:35.000Z",
 } as const satisfies TemperGearGrade

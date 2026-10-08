@@ -9,4 +9,6 @@ export const jewelryEnchantStaminaRecoveryLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-stamina-recovery",
   value: 169,
+  createdAt: "2026-09-24T14:59:05.593Z",
+  updatedAt: "2026-09-24T14:59:13.000Z",
 } as const satisfies TemperGearGrade

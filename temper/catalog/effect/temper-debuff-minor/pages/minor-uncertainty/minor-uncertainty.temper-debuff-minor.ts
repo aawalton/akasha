@@ -8,4 +8,6 @@ export const minorUncertainty = {
   key: "minor-uncertainty",
   description: "Reduces Critical Rating by 1314",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:23.877Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperDebuffMinor

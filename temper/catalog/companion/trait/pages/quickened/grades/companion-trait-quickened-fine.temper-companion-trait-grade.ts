@@ -9,4 +9,6 @@ export const companionTraitQuickenedFine = {
   quality: "temper-quality/fine",
   metric: "temper-companion-passive-metric/companion-ability-cooldown",
   value: 0.018,
+  createdAt: "2026-09-24T14:53:26.947Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

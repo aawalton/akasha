@@ -10,4 +10,6 @@ export const qualityCompanionToEsoNoQuality = {
   keyText: "no-quality",
   valueNum: 5,
   displayOrder: 1,
+  createdAt: "2026-09-02T01:50:19.429Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperEsoCompanionEquipmentConstant

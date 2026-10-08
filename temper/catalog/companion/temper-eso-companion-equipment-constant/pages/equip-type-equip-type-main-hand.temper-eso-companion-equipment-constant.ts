@@ -10,4 +10,6 @@ export const equipTypeEquipTypeMainHand = {
   keyText: "EQUIP_TYPE_MAIN_HAND",
   valueNum: 14,
   displayOrder: 13,
+  createdAt: "2026-09-02T01:50:19.426Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperEsoCompanionEquipmentConstant

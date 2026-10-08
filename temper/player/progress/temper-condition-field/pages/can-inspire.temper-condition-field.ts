@@ -8,4 +8,6 @@ export const canInspire = {
   key: "canInspire",
   description:
     "At least one character must sit below the crafting rank cap for the crafting type the item implies where the value is `can-inspire`, and no character may where the value is `cannot-inspire`.",
+  createdAt: "2026-09-05T14:46:55.056Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

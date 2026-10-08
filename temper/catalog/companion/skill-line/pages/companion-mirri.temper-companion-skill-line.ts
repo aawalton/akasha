@@ -9,4 +9,6 @@ export const companionMirri = {
   companionId: "temper-eso-companion/mirri",
   category: "class",
   displayOrder: 9,
+  createdAt: "2026-09-02T01:49:41.413Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

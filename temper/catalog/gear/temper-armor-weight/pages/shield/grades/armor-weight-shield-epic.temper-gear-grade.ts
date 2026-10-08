@@ -8,4 +8,6 @@ export const armorWeightShieldEpic = {
   thing: "temper-armor-weight/shield",
   quality: "temper-quality/epic",
   value: 1660,
+  createdAt: "2026-09-27T02:49:05.044Z",
+  updatedAt: "2026-09-27T02:49:23.000Z",
 } as const satisfies TemperGearGrade

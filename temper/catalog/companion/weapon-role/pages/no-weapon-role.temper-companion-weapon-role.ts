@@ -7,4 +7,6 @@ export const noWeaponRole = {
   key: "no-weapon-role",
   title: "No Weapon Role",
   weaponSkillLineId: "temper-companion-skill-line/no-skill-line",
+  createdAt: "2026-09-02T01:48:45.553Z",
+  updatedAt: "2026-09-22T22:13:28.000Z",
 } as const satisfies TemperCompanionWeaponRole

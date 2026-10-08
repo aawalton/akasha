@@ -8,4 +8,6 @@ export const keepQuantity = {
   key: "keepQuantity",
   description:
     "A rule names how many of the matching item to hold back from an outbound action such as sell or deconstruct, and no condition checker in this checkout reads the number.",
+  createdAt: "2026-09-05T14:46:55.057Z",
+  updatedAt: "2026-09-27T10:00:08.000Z",
 } as const satisfies TemperConditionField

@@ -9,4 +9,6 @@ export const jewelryEnchantDecreasePhysicalHarmFine = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-resistance",
   value: 744,
+  createdAt: "2026-09-24T14:52:42.052Z",
+  updatedAt: "2026-09-24T14:53:58.000Z",
 } as const satisfies TemperGearGrade

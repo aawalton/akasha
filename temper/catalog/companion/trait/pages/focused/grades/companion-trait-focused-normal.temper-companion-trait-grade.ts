@@ -9,4 +9,6 @@ export const companionTraitFocusedNormal = {
   quality: "temper-quality/normal",
   metric: "temper-companion-passive-metric/companion-critical-chance",
   value: 307,
+  createdAt: "2026-09-24T14:53:03.206Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

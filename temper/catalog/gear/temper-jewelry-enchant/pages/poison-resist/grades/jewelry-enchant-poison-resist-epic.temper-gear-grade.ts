@@ -9,4 +9,6 @@ export const jewelryEnchantPoisonResistEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-resistance",
   value: 856,
+  createdAt: "2026-09-24T14:55:53.962Z",
+  updatedAt: "2026-09-24T14:57:17.000Z",
 } as const satisfies TemperGearGrade

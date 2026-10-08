@@ -9,4 +9,6 @@ export const jewelryTraitTriuneLegendaryStaminaMaximum = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-stamina-maximum",
   value: 439,
+  createdAt: "2026-09-24T14:57:12.450Z",
+  updatedAt: "2026-09-24T14:57:25.000Z",
 } as const satisfies TemperGearGrade

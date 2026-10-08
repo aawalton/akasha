@@ -9,4 +9,6 @@ export const jewelryEnchantPrismaticRecoveryLegendaryHealthRecovery = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-health-recovery",
   value: 84,
+  createdAt: "2026-09-24T14:57:28.341Z",
+  updatedAt: "2026-09-24T14:58:51.000Z",
 } as const satisfies TemperGearGrade

@@ -9,4 +9,6 @@ export const armorEnchantStaminaEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-stamina-maximum",
   value: 802,
+  createdAt: "2026-09-24T14:53:20.502Z",
+  updatedAt: "2026-09-24T14:53:35.000Z",
 } as const satisfies TemperGearGrade

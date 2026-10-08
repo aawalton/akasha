@@ -6,4 +6,6 @@ export const waist = {
   slug: "waist",
   title: "Waist",
   equipType: 8,
+  createdAt: "2026-09-27T04:04:37.152Z",
+  updatedAt: "2026-09-27T04:04:39.000Z",
 } as const satisfies TemperEquipType

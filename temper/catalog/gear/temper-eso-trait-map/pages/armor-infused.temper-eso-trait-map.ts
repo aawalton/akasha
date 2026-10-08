@@ -10,4 +10,6 @@ export const armorInfused = {
   traitId: "temper-armor-trait/infused",
   esoTraitNum: 16,
   displayOrder: 6,
+  createdAt: "2026-09-02T01:58:57.734Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies TemperEsoTraitMap

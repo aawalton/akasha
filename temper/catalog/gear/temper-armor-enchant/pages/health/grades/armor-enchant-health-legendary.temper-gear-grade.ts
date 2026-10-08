@@ -9,4 +9,6 @@ export const armorEnchantHealthLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-health-maximum",
   value: 954,
+  createdAt: "2026-09-24T14:52:25.203Z",
+  updatedAt: "2026-09-24T14:53:35.000Z",
 } as const satisfies TemperGearGrade

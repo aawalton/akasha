@@ -9,4 +9,6 @@ export const jewelryTraitTriuneFineStaminaMaximum = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-stamina-maximum",
   value: 373,
+  createdAt: "2026-09-24T14:56:56.119Z",
+  updatedAt: "2026-09-24T14:57:25.000Z",
 } as const satisfies TemperGearGrade

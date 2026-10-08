@@ -8,4 +8,6 @@ export const jewelryTraitHarmonyLegendary = {
   thing: "temper-jewelry-trait/harmony",
   quality: "temper-quality/legendary",
   value: 880,
+  createdAt: "2026-09-24T14:55:06.135Z",
+  updatedAt: "2026-09-24T14:55:22.000Z",
 } as const satisfies TemperGearGrade

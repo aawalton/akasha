@@ -9,4 +9,6 @@ export const jewelryEnchantPrismaticRecoveryFineStaminaRecovery = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-stamina-recovery",
   value: 71,
+  createdAt: "2026-09-24T14:57:00.480Z",
+  updatedAt: "2026-09-24T14:57:17.000Z",
 } as const satisfies TemperGearGrade

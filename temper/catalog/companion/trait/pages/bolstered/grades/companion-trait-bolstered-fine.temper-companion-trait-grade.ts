@@ -9,4 +9,6 @@ export const companionTraitBolsteredFine = {
   quality: "temper-quality/fine",
   metric: "temper-companion-passive-metric/companion-damage-taken",
   value: 0.012,
+  createdAt: "2026-09-24T14:52:48.017Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

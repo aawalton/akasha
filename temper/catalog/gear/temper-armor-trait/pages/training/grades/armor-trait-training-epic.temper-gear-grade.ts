@@ -9,4 +9,6 @@ export const armorTraitTrainingEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-training",
   value: 0.1,
+  createdAt: "2026-09-24T14:55:34.925Z",
+  updatedAt: "2026-09-24T14:56:18.000Z",
 } as const satisfies TemperGearGrade

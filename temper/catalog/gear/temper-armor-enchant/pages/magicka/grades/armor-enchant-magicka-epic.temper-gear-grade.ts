@@ -9,4 +9,6 @@ export const armorEnchantMagickaEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-magicka-maximum",
   value: 802,
+  createdAt: "2026-09-24T14:52:26.912Z",
+  updatedAt: "2026-09-24T14:53:35.000Z",
 } as const satisfies TemperGearGrade

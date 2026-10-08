@@ -10,4 +10,6 @@ export const qualityEsoToCompanion4 = {
   keyText: "4",
   valueText: "epic",
   displayOrder: 4,
+  createdAt: "2026-09-02T01:50:19.431Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperEsoCompanionEquipmentConstant

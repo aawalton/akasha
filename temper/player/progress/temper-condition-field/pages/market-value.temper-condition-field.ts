@@ -8,4 +8,6 @@ export const marketValue = {
   key: "marketValue",
   description:
     "An item's estimated market value is compared against the number or named constant stated, under `<=` by default, and this field overrides `maxValue` and `minValue` entirely.",
+  createdAt: "2026-09-05T14:46:55.057Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

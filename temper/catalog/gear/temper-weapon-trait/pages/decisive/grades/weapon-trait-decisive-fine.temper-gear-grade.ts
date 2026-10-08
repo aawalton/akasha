@@ -8,4 +8,6 @@ export const weaponTraitDecisiveFine = {
   thing: "temper-weapon-trait/decisive",
   quality: "temper-quality/fine",
   value: 0.212,
+  createdAt: "2026-09-24T14:53:36.969Z",
+  updatedAt: "2026-09-24T14:53:49.000Z",
 } as const satisfies TemperGearGrade

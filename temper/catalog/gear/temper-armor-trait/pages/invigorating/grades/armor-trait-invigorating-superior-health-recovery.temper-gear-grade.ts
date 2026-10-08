@@ -9,4 +9,6 @@ export const armorTraitInvigoratingSuperiorHealthRecovery = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-health-recovery",
   value: 12,
+  createdAt: "2026-09-24T14:54:39.330Z",
+  updatedAt: "2026-09-24T14:54:57.000Z",
 } as const satisfies TemperGearGrade

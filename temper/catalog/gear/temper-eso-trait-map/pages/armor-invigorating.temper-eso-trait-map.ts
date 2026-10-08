@@ -10,4 +10,6 @@ export const armorInvigorating = {
   traitId: "temper-armor-trait/invigorating",
   esoTraitNum: 17,
   displayOrder: 7,
+  createdAt: "2026-09-02T01:58:57.735Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies TemperEsoTraitMap

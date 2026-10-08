@@ -6,4 +6,6 @@ export const notEqualTo = {
   slug: "not-equal-to",
   title: "≠",
   key: "!=",
+  createdAt: "2026-09-02T01:44:14.095Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperComparisonOp

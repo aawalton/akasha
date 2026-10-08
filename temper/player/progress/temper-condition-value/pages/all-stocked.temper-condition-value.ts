@@ -8,4 +8,6 @@ export const allStocked = {
   key: "all-stocked",
   conditionField: "temper-condition-field/all-stocked",
   displayOrder: 0,
+  createdAt: "2026-09-27T10:37:54.767Z",
+  updatedAt: "2026-09-27T10:37:57.000Z",
 } as const satisfies TemperConditionValue

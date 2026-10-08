@@ -9,4 +9,6 @@ export const weaponTraitChargedNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-status-effect-chance",
   value: 0.975,
+  createdAt: "2026-09-24T14:53:26.440Z",
+  updatedAt: "2026-09-24T14:53:49.000Z",
 } as const satisfies TemperGearGrade

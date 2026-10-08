@@ -7,4 +7,6 @@ export const forInspiration = {
   title: "For Inspiration",
   key: "for-inspiration",
   displayOrder: 0,
+  createdAt: "2026-09-27T10:11:00.270Z",
+  updatedAt: "2026-09-27T10:11:02.000Z",
 } as const satisfies TemperDeconstructMode

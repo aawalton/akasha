@@ -9,4 +9,6 @@ export const armorTraitImpenetrableNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-resistance-critical",
   value: 116,
+  createdAt: "2026-09-24T14:53:57.865Z",
+  updatedAt: "2026-09-24T14:54:57.000Z",
 } as const satisfies TemperGearGrade

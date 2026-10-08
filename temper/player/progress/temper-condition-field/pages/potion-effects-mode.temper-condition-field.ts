@@ -8,4 +8,6 @@ export const potionEffectsMode = {
   key: "potionEffectsMode",
   description:
     "This modifier chooses whether `potionEffects` asks for every listed effect under `all` or any one listed effect under `any`, defaulting to `any`.",
+  createdAt: "2026-09-05T14:46:55.058Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

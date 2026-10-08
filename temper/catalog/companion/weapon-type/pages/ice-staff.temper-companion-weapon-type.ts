@@ -13,4 +13,6 @@ export const iceStaff = {
   esoWeaponTypeNumber: 13,
   equipmentIconName: "froststaff",
   ttcItemId: 23585,
+  createdAt: "2026-09-02T01:48:45.550Z",
+  updatedAt: "2026-09-27T03:35:13.000Z",
 } as const satisfies TemperCompanionWeaponType

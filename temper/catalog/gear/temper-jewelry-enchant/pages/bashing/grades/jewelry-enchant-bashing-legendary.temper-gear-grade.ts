@@ -9,4 +9,6 @@ export const jewelryEnchantBashingLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-bash-damage",
   value: 500,
+  createdAt: "2026-09-24T14:52:24.801Z",
+  updatedAt: "2026-09-24T14:53:58.000Z",
 } as const satisfies TemperGearGrade

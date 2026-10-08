@@ -14,4 +14,6 @@ export const firstholdFruitAndCheesePlate = {
   level: "CP150",
   effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 6048 }],
   hashPlace: 2,
+  createdAt: "2026-09-27T00:56:31.588Z",
+  updatedAt: "2026-09-27T00:56:37.000Z",
 } as const satisfies TemperFoodOrDrink

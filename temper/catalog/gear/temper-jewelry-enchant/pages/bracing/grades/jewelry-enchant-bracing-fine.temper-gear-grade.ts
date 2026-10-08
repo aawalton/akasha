@@ -9,4 +9,6 @@ export const jewelryEnchantBracingFine = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-stamina-block-cost",
   value: -167,
+  createdAt: "2026-09-24T14:52:31.041Z",
+  updatedAt: "2026-09-24T14:53:58.000Z",
 } as const satisfies TemperGearGrade

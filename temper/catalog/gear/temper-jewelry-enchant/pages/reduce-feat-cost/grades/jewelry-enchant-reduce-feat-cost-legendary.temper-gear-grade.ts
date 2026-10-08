@@ -9,4 +9,6 @@ export const jewelryEnchantReduceFeatCostLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-stamina-ability-cost",
   value: 203,
+  createdAt: "2026-09-24T14:57:47.287Z",
+  updatedAt: "2026-09-24T14:58:51.000Z",
 } as const satisfies TemperGearGrade

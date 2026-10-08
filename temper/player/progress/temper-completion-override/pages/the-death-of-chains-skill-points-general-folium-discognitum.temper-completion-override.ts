@@ -12,4 +12,6 @@ export const theDeathOfChainsSkillPointsGeneralFoliumDiscognitum = {
   floor: 2,
   overrideReason:
     "Unreachable: the wrong quest branch was taken and cannot be undone, so this counts as done rather than as a gap",
+  createdAt: "2026-09-18T23:19:58.763Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperCompletionOverride

@@ -10,4 +10,6 @@ export const weaponTraitDefendingEpicResistanceSpell = {
   metric: "temper-metric-tree/metric-resistance-spell",
   value: 1580,
   rawValue: 1580.7272727272727,
+  createdAt: "2026-09-24T14:53:56.954Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperGearGrade

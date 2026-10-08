@@ -8,4 +8,6 @@ export const canUnlock = {
   key: "canUnlock",
   description:
     "The item must be unknown to at least one character where the value is `can-unlock`, which is the negation of every character already knowing the item.",
+  createdAt: "2026-09-05T14:46:55.056Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

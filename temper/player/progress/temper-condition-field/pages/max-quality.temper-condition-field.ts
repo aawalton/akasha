@@ -8,4 +8,6 @@ export const maxQuality = {
   key: "maxQuality",
   description:
     "An item's quality number is compared against the number stated, under `<=` unless `qualityOp` names another operator.",
+  createdAt: "2026-09-05T14:46:55.058Z",
+  updatedAt: "2026-09-27T10:00:08.000Z",
 } as const satisfies TemperConditionField

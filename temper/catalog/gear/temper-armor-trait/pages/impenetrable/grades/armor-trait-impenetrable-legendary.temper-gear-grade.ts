@@ -9,4 +9,6 @@ export const armorTraitImpenetrableLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-resistance-critical",
   value: 127,
+  createdAt: "2026-09-24T14:54:02.268Z",
+  updatedAt: "2026-09-24T14:54:57.000Z",
 } as const satisfies TemperGearGrade

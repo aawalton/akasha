@@ -13,4 +13,6 @@ export const mhk = {
   zoneKey: "AD5",
   questId: 6186,
   displayOrder: 33,
+  createdAt: "2026-09-02T01:39:30.985Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies TemperDungeon

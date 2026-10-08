@@ -8,4 +8,6 @@ export const stackFullness = {
   key: "stackFullness",
   description:
     "An item's stack count must reach the item's maximum stack size where the value is `full`, and fall below that size where the value is `partial`.",
+  createdAt: "2026-09-05T14:46:55.059Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

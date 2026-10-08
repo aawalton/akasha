@@ -9,4 +9,6 @@ export const companionTraitFocusedLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-companion-passive-metric/companion-critical-chance",
   value: 657,
+  createdAt: "2026-09-24T14:53:09.309Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

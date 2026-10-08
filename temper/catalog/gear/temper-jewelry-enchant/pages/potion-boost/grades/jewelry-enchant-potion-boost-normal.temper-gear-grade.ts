@@ -9,4 +9,6 @@ export const jewelryEnchantPotionBoostNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-potion-duration",
   value: 31,
+  createdAt: "2026-09-24T14:56:14.158Z",
+  updatedAt: "2026-09-24T14:57:17.000Z",
 } as const satisfies TemperGearGrade

@@ -8,4 +8,6 @@ export const weaponTraitInfusedLegendary = {
   thing: "temper-weapon-trait/infused",
   quality: "temper-quality/legendary",
   value: 0.3,
+  createdAt: "2026-09-24T14:54:29.356Z",
+  updatedAt: "2026-09-24T14:55:12.000Z",
 } as const satisfies TemperGearGrade

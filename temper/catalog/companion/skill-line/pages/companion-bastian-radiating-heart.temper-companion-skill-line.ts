@@ -9,4 +9,6 @@ export const companionBastianRadiatingHeart = {
   companionId: "temper-eso-companion/bastian",
   category: "class",
   displayOrder: 7,
+  createdAt: "2026-09-02T01:49:41.408Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

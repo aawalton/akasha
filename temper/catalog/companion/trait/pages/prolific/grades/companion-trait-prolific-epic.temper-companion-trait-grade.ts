@@ -9,4 +9,6 @@ export const companionTraitProlificEpic = {
   quality: "temper-quality/epic",
   metric: "temper-companion-passive-metric/companion-ultimate-generation",
   value: 0.13,
+  createdAt: "2026-09-24T14:53:11.632Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

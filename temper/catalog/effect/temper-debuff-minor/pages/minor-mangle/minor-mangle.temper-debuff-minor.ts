@@ -7,4 +7,6 @@ export const minorMangle = {
   title: "Minor Mangle",
   key: "minor-mangle",
   description: "Reduces Max Health by 10%",
+  createdAt: "2026-09-25T14:10:14.088Z",
+  updatedAt: "2026-09-25T14:10:24.000Z",
 } as const satisfies TemperDebuffMinor

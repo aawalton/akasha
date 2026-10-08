@@ -19,4 +19,6 @@ export const crownFortifyingMeal = {
     { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4105 },
   ],
   hashPlace: 7,
+  createdAt: "2026-09-27T00:56:31.588Z",
+  updatedAt: "2026-09-27T00:56:37.000Z",
 } as const satisfies TemperFoodOrDrink

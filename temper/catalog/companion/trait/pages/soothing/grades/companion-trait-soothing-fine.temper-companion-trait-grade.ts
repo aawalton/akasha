@@ -9,4 +9,6 @@ export const companionTraitSoothingFine = {
   quality: "temper-quality/fine",
   metric: "temper-companion-passive-metric/companion-healing-done",
   value: 0.009,
+  createdAt: "2026-09-24T14:53:58.479Z",
+  updatedAt: "2026-09-24T14:55:22.000Z",
 } as const satisfies TemperCompanionTraitGrade

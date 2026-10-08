@@ -8,4 +8,6 @@ export const canOpen = {
   key: "canOpen",
   description:
     "The item must be a container whose cooldown group has expired, and a transmute crystal container fails once the held crystal count reaches the cap.",
+  createdAt: "2026-09-05T14:46:55.056Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

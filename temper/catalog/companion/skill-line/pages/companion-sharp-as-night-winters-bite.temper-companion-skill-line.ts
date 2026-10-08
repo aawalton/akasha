@@ -9,4 +9,6 @@ export const companionSharpAsNightWintersBite = {
   companionId: "temper-eso-companion/sharp-as-night",
   category: "class",
   displayOrder: 20,
+  createdAt: "2026-09-02T01:49:41.414Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

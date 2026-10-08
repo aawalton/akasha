@@ -16,4 +16,6 @@ export const mirri = {
   companionQuests: "jsonl",
   rapportDailies: "jsonl",
   hashPlace: 2,
+  createdAt: "2026-09-02T01:50:19.423Z",
+  updatedAt: "2026-09-27T03:32:13.000Z",
 } as const satisfies TemperEsoCompanion

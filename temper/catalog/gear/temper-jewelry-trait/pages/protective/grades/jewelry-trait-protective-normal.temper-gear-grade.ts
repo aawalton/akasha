@@ -9,4 +9,6 @@ export const jewelryTraitProtectiveNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-resistance",
   value: 1624,
+  createdAt: "2026-09-24T14:55:51.858Z",
+  updatedAt: "2026-09-24T14:56:44.000Z",
 } as const satisfies TemperGearGrade

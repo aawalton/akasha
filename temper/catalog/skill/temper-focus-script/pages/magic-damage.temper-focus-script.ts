@@ -11,4 +11,6 @@ export const magicDamage = {
   uespId: 5,
   slotType: "focus-slot",
   hashPlace: 4,
+  createdAt: "2026-09-02T01:49:01.650Z",
+  updatedAt: "2026-09-26T18:55:59.000Z",
 } as const satisfies TemperFocusScript

@@ -9,4 +9,6 @@ export const companionIsobelBlazingMight = {
   companionId: "temper-eso-companion/isobel",
   category: "class",
   displayOrder: 14,
+  createdAt: "2026-09-02T01:49:41.410Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

@@ -9,4 +9,6 @@ export const jewelryEnchantMagickaRecoveryLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-magicka-recovery",
   value: 169,
+  createdAt: "2026-09-24T14:55:51.886Z",
+  updatedAt: "2026-09-24T14:57:17.000Z",
 } as const satisfies TemperGearGrade

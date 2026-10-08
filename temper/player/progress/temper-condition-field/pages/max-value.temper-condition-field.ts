@@ -8,4 +8,6 @@ export const maxValue = {
   key: "maxValue",
   description:
     "An item's estimated market value must be no greater than the number stated, and this field is read only where the rule sets no `marketValue`.",
+  createdAt: "2026-09-05T14:46:55.058Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

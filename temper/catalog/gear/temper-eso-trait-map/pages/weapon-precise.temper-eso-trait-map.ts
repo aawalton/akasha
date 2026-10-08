@@ -10,4 +10,6 @@ export const weaponPrecise = {
   traitId: "temper-weapon-trait/precise",
   esoTraitNum: 3,
   displayOrder: 3,
+  createdAt: "2026-09-02T01:58:57.744Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies TemperEsoTraitMap

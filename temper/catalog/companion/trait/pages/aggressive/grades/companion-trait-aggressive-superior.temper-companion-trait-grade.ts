@@ -9,4 +9,6 @@ export const companionTraitAggressiveSuperior = {
   quality: "temper-quality/superior",
   metric: "temper-companion-passive-metric/companion-damage-done",
   value: 0.01275,
+  createdAt: "2026-09-24T14:52:27.621Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

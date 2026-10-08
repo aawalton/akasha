@@ -8,4 +8,6 @@ export const itemNamePattern = {
   key: "itemNamePattern",
   description:
     "An item's name, lowercased, must hold every unnegated token of the pattern and none of the tokens prefixed with `-`, where a quoted run counts as one token.",
+  createdAt: "2026-09-05T14:46:55.057Z",
+  updatedAt: "2026-09-27T10:00:08.000Z",
 } as const satisfies TemperConditionField

@@ -9,4 +9,6 @@ export const armorTraitWellFittedSuperiorStaminaSprintCost = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-stamina-sprint-cost",
   value: 0.036,
+  createdAt: "2026-09-24T14:56:05.016Z",
+  updatedAt: "2026-09-24T14:56:18.000Z",
 } as const satisfies TemperGearGrade

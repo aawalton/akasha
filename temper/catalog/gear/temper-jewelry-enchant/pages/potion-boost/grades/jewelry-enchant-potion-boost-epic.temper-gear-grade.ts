@@ -9,4 +9,6 @@ export const jewelryEnchantPotionBoostEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-potion-duration",
   value: 35,
+  createdAt: "2026-09-24T14:56:07.403Z",
+  updatedAt: "2026-09-24T14:57:17.000Z",
 } as const satisfies TemperGearGrade

@@ -10,4 +10,6 @@ export const weaponTypeBattleaxe = {
   constantId: "battleaxe",
   esoNum: 5,
   displayOrder: 5,
+  createdAt: "2026-09-02T01:58:57.730Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies TemperEsoPlayerEquipmentConstant

@@ -8,4 +8,6 @@ export const keepFloor = {
   key: "keepFloor",
   description:
     "A currency rule names the amount to leave behind, turning the compiled action into `keep-floor` where the destination is not a character, and no item condition reads the amount.",
+  createdAt: "2026-09-05T14:46:55.057Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

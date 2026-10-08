@@ -8,4 +8,6 @@ export const notQuestRelevant = {
   key: "not-quest-relevant",
   conditionField: "temper-condition-field/quest-relevant",
   displayOrder: 1,
+  createdAt: "2026-09-27T10:37:54.768Z",
+  updatedAt: "2026-09-27T10:37:57.000Z",
 } as const satisfies TemperConditionValue

@@ -9,4 +9,6 @@ export const jewelryEnchantBracingNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-stamina-block-cost",
   value: -154,
+  createdAt: "2026-09-24T14:52:33.255Z",
+  updatedAt: "2026-09-24T14:53:58.000Z",
 } as const satisfies TemperGearGrade

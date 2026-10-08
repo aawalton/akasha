@@ -9,4 +9,6 @@ export const companionTraitSoothingEpic = {
   quality: "temper-quality/epic",
   metric: "temper-companion-passive-metric/companion-healing-done",
   value: 0.017,
+  createdAt: "2026-09-24T14:53:56.331Z",
+  updatedAt: "2026-09-24T14:55:22.000Z",
 } as const satisfies TemperCompanionTraitGrade

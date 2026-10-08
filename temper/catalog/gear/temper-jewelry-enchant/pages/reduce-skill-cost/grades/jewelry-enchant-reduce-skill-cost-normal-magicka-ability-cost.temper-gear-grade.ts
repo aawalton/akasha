@@ -9,4 +9,6 @@ export const jewelryEnchantReduceSkillCostNormalMagickaAbilityCost = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-magicka-ability-cost",
   value: 103,
+  createdAt: "2026-09-24T14:58:03.422Z",
+  updatedAt: "2026-09-24T14:58:51.000Z",
 } as const satisfies TemperGearGrade

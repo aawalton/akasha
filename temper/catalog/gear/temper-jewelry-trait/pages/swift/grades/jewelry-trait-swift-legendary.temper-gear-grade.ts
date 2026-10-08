@@ -9,4 +9,6 @@ export const jewelryTraitSwiftLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-movement-speed",
   value: 0.07,
+  createdAt: "2026-09-24T14:56:21.775Z",
+  updatedAt: "2026-09-24T14:56:44.000Z",
 } as const satisfies TemperGearGrade

@@ -9,4 +9,6 @@ export const jewelryEnchantIncreasePhysicalHarmSuperiorPowerSpell = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-power-spell",
   value: 153,
+  createdAt: "2026-09-24T14:55:25.347Z",
+  updatedAt: "2026-09-24T14:55:36.000Z",
 } as const satisfies TemperGearGrade

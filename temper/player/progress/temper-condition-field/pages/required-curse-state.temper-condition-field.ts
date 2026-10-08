@@ -8,4 +8,6 @@ export const requiredCurseState = {
   key: "requiredCurseState",
   description:
     "A character suits the rule only where that character's curse state is exactly the one named, being either vampire or werewolf.",
+  createdAt: "2026-09-05T14:46:55.059Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

@@ -13,4 +13,6 @@ export const restorationStaff = {
   esoWeaponTypeNumber: 9,
   equipmentIconName: "restostaff",
   ttcItemId: 23630,
+  createdAt: "2026-09-02T01:48:45.551Z",
+  updatedAt: "2026-09-27T03:35:13.000Z",
 } as const satisfies TemperCompanionWeaponType

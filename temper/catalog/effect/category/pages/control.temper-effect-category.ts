@@ -7,4 +7,6 @@ export const control = {
   key: "control",
   title: "Control",
   displayOrder: 3,
+  createdAt: "2026-09-26T20:30:49.005Z",
+  updatedAt: "2026-09-26T20:30:52.000Z",
 } as const satisfies TemperEffectCategory

@@ -8,4 +8,6 @@ export const armorHeavy = {
   title: "Heavy Armor",
   category: "armor",
   displayOrder: 44,
+  createdAt: "2026-09-02T01:49:41.404Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

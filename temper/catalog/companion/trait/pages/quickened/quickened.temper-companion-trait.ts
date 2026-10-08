@@ -15,4 +15,6 @@ export const quickened = {
   esoArmorTraitType: 43,
   esoJewelryTraitType: 52,
   ttcTraitId: 31,
+  createdAt: "2026-09-02T01:49:41.424Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies TemperCompanionTrait

@@ -9,4 +9,6 @@ export const weaponEnchantCrushingLegendaryPenetrationSpell = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-penetration-spell",
   value: 2108,
+  createdAt: "2026-09-24T14:52:51.677Z",
+  updatedAt: "2026-09-24T14:53:49.000Z",
 } as const satisfies TemperGearGrade

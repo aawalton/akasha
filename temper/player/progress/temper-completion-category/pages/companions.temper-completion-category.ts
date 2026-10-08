@@ -8,4 +8,6 @@ export const companions = {
   nodeId: "companions",
   tab: "companions",
   displayOrder: 2,
+  createdAt: "2026-09-02T01:46:33.030Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperCompletionCategory

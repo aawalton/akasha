@@ -7,4 +7,6 @@ export const offBalance = {
   title: "Off Balance",
   key: "off-balance",
   description: "Allows Heavy Attacks to restore double resources and stun (non-boss enemies)",
+  createdAt: "2026-09-02T01:40:23.881Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperDebuffOther

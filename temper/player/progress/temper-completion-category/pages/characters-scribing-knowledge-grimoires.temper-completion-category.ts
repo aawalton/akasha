@@ -9,4 +9,6 @@ export const charactersScribingKnowledgeGrimoires = {
   tab: "characters",
   displayOrder: 0,
   parent: "temper-completion-category/characters-scribing-knowledge",
+  createdAt: "2026-09-02T01:46:33.025Z",
+  updatedAt: "2026-09-22T20:48:39.000Z",
 } as const satisfies TemperCompletionCategory

@@ -9,4 +9,6 @@ export const jewelryEnchantFlameResistLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-resistance",
   value: 927,
+  createdAt: "2026-09-24T14:53:30.478Z",
+  updatedAt: "2026-09-24T14:53:58.000Z",
 } as const satisfies TemperGearGrade

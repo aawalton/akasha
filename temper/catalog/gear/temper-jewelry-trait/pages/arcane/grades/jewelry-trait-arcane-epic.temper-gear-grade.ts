@@ -9,4 +9,6 @@ export const jewelryTraitArcaneEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-magicka-maximum",
   value: 847,
+  createdAt: "2026-09-24T14:54:29.356Z",
+  updatedAt: "2026-09-24T14:55:22.000Z",
 } as const satisfies TemperGearGrade

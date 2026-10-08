@@ -8,4 +8,6 @@ export const bound = {
   key: "bound",
   description:
     "An item's bound flag must be true where the value is `bound` and false where the value is `not-bound`.",
+  createdAt: "2026-09-05T14:46:55.055Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

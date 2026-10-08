@@ -9,4 +9,6 @@ export const armorTraitSturdyNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-sturdy",
   value: 0.02,
+  createdAt: "2026-09-24T14:55:28.722Z",
+  updatedAt: "2026-09-24T14:56:18.000Z",
 } as const satisfies TemperGearGrade

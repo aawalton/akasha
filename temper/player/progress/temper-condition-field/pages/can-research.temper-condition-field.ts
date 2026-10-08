@@ -8,4 +8,6 @@ export const canResearch = {
   key: "canResearch",
   description:
     "At least one character must have the item's trait unresearched for the item's crafting type where the value is `can-research`.",
+  createdAt: "2026-09-05T14:46:55.056Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

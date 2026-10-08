@@ -9,4 +9,6 @@ export const jewelryTraitSwiftSuperior = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-movement-speed",
   value: 0.05,
+  createdAt: "2026-09-24T14:56:19.681Z",
+  updatedAt: "2026-09-24T14:56:44.000Z",
 } as const satisfies TemperGearGrade

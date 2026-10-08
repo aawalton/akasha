@@ -8,4 +8,6 @@ export const armorWeightLightSuperior = {
   thing: "temper-armor-weight/light",
   quality: "temper-quality/superior",
   value: 164.5,
+  createdAt: "2026-09-27T02:49:05.044Z",
+  updatedAt: "2026-09-27T02:49:23.000Z",
 } as const satisfies TemperGearGrade

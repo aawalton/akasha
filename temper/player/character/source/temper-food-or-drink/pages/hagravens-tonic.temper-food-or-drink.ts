@@ -14,4 +14,6 @@ export const hagravensTonic = {
   level: "CP150",
   effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 604 }],
   hashPlace: 20,
+  createdAt: "2026-09-27T00:56:31.588Z",
+  updatedAt: "2026-09-27T00:56:37.000Z",
 } as const satisfies TemperFoodOrDrink

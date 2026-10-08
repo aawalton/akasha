@@ -8,4 +8,6 @@ export const allEffects = {
   key: "all",
   conditionField: "temper-condition-field/potion-effects-mode",
   displayOrder: 1,
+  createdAt: "2026-09-27T11:46:34.362Z",
+  updatedAt: "2026-09-27T11:46:42.000Z",
 } as const satisfies TemperConditionValue

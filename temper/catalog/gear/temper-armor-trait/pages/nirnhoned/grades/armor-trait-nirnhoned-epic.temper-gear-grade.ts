@@ -8,4 +8,6 @@ export const armorTraitNirnhonedEpic = {
   thing: "temper-armor-trait/nirnhoned",
   quality: "temper-quality/epic",
   value: 244,
+  createdAt: "2026-09-24T14:55:01.987Z",
+  updatedAt: "2026-09-24T14:56:18.000Z",
 } as const satisfies TemperGearGrade

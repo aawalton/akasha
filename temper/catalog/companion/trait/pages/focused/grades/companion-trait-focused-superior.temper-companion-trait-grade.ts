@@ -9,4 +9,6 @@ export const companionTraitFocusedSuperior = {
   quality: "temper-quality/superior",
   metric: "temper-companion-passive-metric/companion-critical-chance",
   value: 481,
+  createdAt: "2026-09-24T14:53:05.188Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

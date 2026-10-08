@@ -9,4 +9,6 @@ export const jewelryEnchantBracingLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-stamina-block-cost",
   value: -203,
+  createdAt: "2026-09-24T14:52:37.326Z",
+  updatedAt: "2026-09-24T14:53:58.000Z",
 } as const satisfies TemperGearGrade

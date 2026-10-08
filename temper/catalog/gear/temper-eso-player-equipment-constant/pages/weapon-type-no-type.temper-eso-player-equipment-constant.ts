@@ -10,4 +10,6 @@ export const weaponTypeNoType = {
   constantId: "no-type",
   esoNum: 0,
   displayOrder: 0,
+  createdAt: "2026-09-02T01:58:57.733Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies TemperEsoPlayerEquipmentConstant

@@ -16,4 +16,6 @@ export const zerithVarZerithVarBladeOfTheCrossing = {
   validRoles: ["dps"],
   alternateAbilityIds: [213678],
   skillEffects: "jsonl",
+  createdAt: "2026-05-26T13:40:47.406Z",
+  updatedAt: "2026-09-22T20:39:10.000Z",
 } as const satisfies TemperCompanionSkill

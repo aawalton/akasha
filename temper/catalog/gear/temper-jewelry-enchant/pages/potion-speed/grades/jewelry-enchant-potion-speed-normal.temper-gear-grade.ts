@@ -9,4 +9,6 @@ export const jewelryEnchantPotionSpeedNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-potion-cooldown",
   value: -10,
+  createdAt: "2026-09-24T14:56:25.170Z",
+  updatedAt: "2026-09-24T14:57:17.000Z",
 } as const satisfies TemperGearGrade

@@ -15,4 +15,6 @@ export const zerithVarZerithVarPerigeanArmor = {
   skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",
+  createdAt: "2026-05-26T13:40:47.411Z",
+  updatedAt: "2026-09-22T20:39:10.000Z",
 } as const satisfies TemperCompanionSkill

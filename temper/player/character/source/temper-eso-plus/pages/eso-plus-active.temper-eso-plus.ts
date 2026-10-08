@@ -15,4 +15,6 @@ export const esoPlusActive = {
     { metric: "temper-metric/tel-var-gain", effectType: "fractional-change", value: 0.1 },
   ],
   hashPlace: 1,
+  createdAt: "2026-09-26T20:28:21.892Z",
+  updatedAt: "2026-09-26T20:28:31.000Z",
 } as const satisfies TemperEsoPlus

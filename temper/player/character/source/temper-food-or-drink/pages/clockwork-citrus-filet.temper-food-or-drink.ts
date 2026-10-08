@@ -20,4 +20,6 @@ export const clockworkCitrusFilet = {
     { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 338 },
   ],
   hashPlace: 14,
+  createdAt: "2026-09-27T00:56:31.588Z",
+  updatedAt: "2026-09-27T00:56:37.000Z",
 } as const satisfies TemperFoodOrDrink

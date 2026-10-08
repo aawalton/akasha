@@ -9,4 +9,6 @@ export const companionSharpAsNightVerdantGrowth = {
   companionId: "temper-eso-companion/sharp-as-night",
   category: "class",
   displayOrder: 19,
+  createdAt: "2026-09-02T01:49:41.413Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

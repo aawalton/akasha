@@ -7,4 +7,6 @@ export const noEsoPlus = {
   title: "No ESO Plus",
   description: "No ESO Plus subscription active",
   hashPlace: 0,
+  createdAt: "2026-09-26T20:28:21.892Z",
+  updatedAt: "2026-09-26T20:28:31.000Z",
 } as const satisfies TemperEsoPlus

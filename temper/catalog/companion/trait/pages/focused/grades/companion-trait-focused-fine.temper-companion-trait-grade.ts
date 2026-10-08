@@ -9,4 +9,6 @@ export const companionTraitFocusedFine = {
   quality: "temper-quality/fine",
   metric: "temper-companion-passive-metric/companion-critical-chance",
   value: 394,
+  createdAt: "2026-09-24T14:53:00.957Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

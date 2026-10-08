@@ -9,4 +9,6 @@ export const armorTraitTrainingLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-training",
   value: 0.11,
+  createdAt: "2026-09-24T14:55:45.526Z",
+  updatedAt: "2026-09-24T14:56:18.000Z",
 } as const satisfies TemperGearGrade

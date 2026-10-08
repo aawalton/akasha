@@ -9,4 +9,6 @@ export const armorTraitInvigoratingNormalMagickaRecovery = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-magicka-recovery",
   value: 8,
+  createdAt: "2026-09-24T14:54:34.902Z",
+  updatedAt: "2026-09-24T14:54:57.000Z",
 } as const satisfies TemperGearGrade

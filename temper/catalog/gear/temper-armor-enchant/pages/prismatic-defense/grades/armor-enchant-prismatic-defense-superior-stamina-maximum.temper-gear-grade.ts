@@ -9,4 +9,6 @@ export const armorEnchantPrismaticDefenseSuperiorStaminaMaximum = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-stamina-maximum",
   value: 390,
+  createdAt: "2026-09-24T14:53:13.355Z",
+  updatedAt: "2026-09-24T14:53:35.000Z",
 } as const satisfies TemperGearGrade

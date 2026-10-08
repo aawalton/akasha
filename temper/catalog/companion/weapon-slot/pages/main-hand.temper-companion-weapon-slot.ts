@@ -6,4 +6,6 @@ export const mainHand = {
   slug: "main-hand",
   key: "main-hand",
   title: "Main Hand",
+  createdAt: "2026-09-02T01:48:14.466Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperCompanionWeaponSlot

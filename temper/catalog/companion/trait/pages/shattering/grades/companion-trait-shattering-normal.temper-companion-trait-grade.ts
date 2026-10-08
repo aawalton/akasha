@@ -9,4 +9,6 @@ export const companionTraitShatteringNormal = {
   quality: "temper-quality/normal",
   metric: "temper-companion-passive-metric/companion-penetration",
   value: 700,
+  createdAt: "2026-09-24T14:53:49.906Z",
+  updatedAt: "2026-09-24T14:55:22.000Z",
 } as const satisfies TemperCompanionTraitGrade

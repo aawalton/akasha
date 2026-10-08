@@ -7,4 +7,6 @@ export const forMaterials = {
   title: "For Materials",
   key: "for-materials",
   displayOrder: 1,
+  createdAt: "2026-09-27T10:11:00.271Z",
+  updatedAt: "2026-09-27T10:11:02.000Z",
 } as const satisfies TemperDeconstructMode

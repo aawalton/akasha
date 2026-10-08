@@ -10,4 +10,6 @@ export const armorNoTrait = {
   traitId: "temper-armor-trait/no-trait",
   esoTraitNum: 0,
   displayOrder: 0,
+  createdAt: "2026-09-02T01:58:57.736Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies TemperEsoTraitMap

@@ -8,4 +8,6 @@ export const concussed = {
   key: "concussed",
   description: "Applies Minor Vulnerability, increasing damage taken by 5%",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:23.879Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperDebuffOther

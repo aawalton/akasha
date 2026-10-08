@@ -8,4 +8,6 @@ export const tasks = {
   nodeId: "tasks",
   tab: "tasks",
   displayOrder: 3,
+  createdAt: "2026-09-22T00:28:47.958Z",
+  updatedAt: "2026-09-22T00:29:15.000Z",
 } as const satisfies TemperCompletionCategory

@@ -8,4 +8,6 @@ export const jewelryTraitHarmonyNormal = {
   thing: "temper-jewelry-trait/harmony",
   quality: "temper-quality/normal",
   value: 704,
+  createdAt: "2026-09-24T14:54:59.725Z",
+  updatedAt: "2026-09-24T14:55:22.000Z",
 } as const satisfies TemperGearGrade

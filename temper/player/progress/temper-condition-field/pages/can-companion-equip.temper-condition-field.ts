@@ -8,4 +8,6 @@ export const canCompanionEquip = {
   key: "canCompanionEquip",
   description:
     "An item's trait number must fall in the range 34 through 60 where the value is `can-companion-equip`, and outside that range where the value is `cannot-companion-equip`.",
+  createdAt: "2026-09-05T14:46:55.055Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

@@ -10,4 +10,6 @@ export const accountSubclassingSkillMorphs = {
   displayOrder: 16,
   parent: "temper-completion-category/account",
   morphRankMost: 4,
+  createdAt: "2026-09-02T01:46:33.021Z",
+  updatedAt: "2026-09-27T07:09:33.000Z",
 } as const satisfies TemperCompletionCategory

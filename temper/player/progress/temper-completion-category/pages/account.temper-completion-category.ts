@@ -8,4 +8,6 @@ export const account = {
   nodeId: "account",
   tab: "account",
   displayOrder: 0,
+  createdAt: "2026-09-02T01:46:33.022Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperCompletionCategory

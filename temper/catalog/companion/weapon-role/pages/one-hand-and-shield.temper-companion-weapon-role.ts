@@ -9,4 +9,6 @@ export const oneHandAndShield = {
   weaponSkillLineId: "temper-companion-skill-line/weapon-one-hand-shield",
   validMainHandWeaponTypes: ["sword", "axe", "mace", "dagger"],
   validOffHandWeaponTypes: ["shield"],
+  createdAt: "2026-09-02T01:48:45.554Z",
+  updatedAt: "2026-09-22T22:13:28.000Z",
 } as const satisfies TemperCompanionWeaponRole

@@ -9,4 +9,6 @@ export const companionTraitShatteringLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-companion-passive-metric/companion-penetration",
   value: 1500,
+  createdAt: "2026-09-24T14:53:54.370Z",
+  updatedAt: "2026-09-24T14:55:22.000Z",
 } as const satisfies TemperCompanionTraitGrade

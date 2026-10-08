@@ -10,4 +10,6 @@ export const accountGrandMasterStations = {
   displayOrder: 7,
   parent: "temper-completion-category/account",
   completionMost: 332,
+  createdAt: "2026-09-02T01:46:33.020Z",
+  updatedAt: "2026-09-27T06:27:13.000Z",
 } as const satisfies TemperCompletionCategory

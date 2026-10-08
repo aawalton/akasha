@@ -9,4 +9,6 @@ export const companionsCompanionSkillLines = {
   tab: "companions",
   displayOrder: 3,
   parent: "temper-completion-category/companions",
+  createdAt: "2026-09-02T01:46:33.030Z",
+  updatedAt: "2026-09-22T20:48:39.000Z",
 } as const satisfies TemperCompletionCategory

@@ -7,4 +7,6 @@ export const disorient = {
   title: "Disorient",
   key: "disorient",
   description: "Target is disoriented but effect breaks on damage",
+  createdAt: "2026-09-02T01:40:23.880Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperDebuffOther

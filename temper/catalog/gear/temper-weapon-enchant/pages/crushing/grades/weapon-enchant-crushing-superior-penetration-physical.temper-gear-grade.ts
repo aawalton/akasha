@@ -9,4 +9,6 @@ export const weaponEnchantCrushingSuperiorPenetrationPhysical = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-penetration-physical",
   value: 1830,
+  createdAt: "2026-09-24T14:52:44.981Z",
+  updatedAt: "2026-09-24T14:53:49.000Z",
 } as const satisfies TemperGearGrade

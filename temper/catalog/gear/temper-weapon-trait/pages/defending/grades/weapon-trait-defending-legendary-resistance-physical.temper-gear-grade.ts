@@ -9,4 +9,6 @@ export const weaponTraitDefendingLegendaryResistancePhysical = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-resistance-physical",
   value: 1638,
+  createdAt: "2026-09-24T14:54:15.446Z",
+  updatedAt: "2026-09-24T14:55:12.000Z",
 } as const satisfies TemperGearGrade

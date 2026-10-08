@@ -9,4 +9,6 @@ export const majorMaim = {
   effectCategory: "protection",
   description: "Reduces damage done by 10%",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:23.874Z",
+  updatedAt: "2026-09-26T18:25:50.000Z",
 } as const satisfies TemperDebuffMajor

@@ -8,4 +8,6 @@ export const qualityOp = {
   key: "qualityOp",
   description:
     "The operator named here replaces the default `<=` when an item's quality is compared against `maxQuality`.",
+  createdAt: "2026-09-05T14:46:55.058Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

@@ -10,4 +10,6 @@ export const weaponTraitDefendingSuperiorResistancePhysical = {
   metric: "temper-metric-tree/metric-resistance-physical",
   value: 1542,
   rawValue: 1542.5454545454545,
+  createdAt: "2026-09-24T14:54:10.960Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies TemperGearGrade

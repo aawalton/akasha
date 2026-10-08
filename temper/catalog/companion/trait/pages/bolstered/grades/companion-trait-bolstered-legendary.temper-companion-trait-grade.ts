@@ -9,4 +9,6 @@ export const companionTraitBolsteredLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-companion-passive-metric/companion-damage-taken",
   value: 0.02025,
+  createdAt: "2026-09-24T14:52:57.098Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

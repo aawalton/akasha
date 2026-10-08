@@ -10,4 +10,6 @@ export const weaponTraining = {
   traitId: "temper-weapon-trait/training",
   esoTraitNum: 6,
   displayOrder: 6,
+  createdAt: "2026-09-02T01:58:57.744Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies TemperEsoTraitMap

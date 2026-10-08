@@ -9,4 +9,6 @@ export const jewelryEnchantStaminaRecoveryNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-stamina-recovery",
   value: 121,
+  createdAt: "2026-09-24T14:59:01.010Z",
+  updatedAt: "2026-09-24T14:59:13.000Z",
 } as const satisfies TemperGearGrade

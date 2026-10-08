@@ -8,4 +8,6 @@ export const levelOp = {
   key: "levelOp",
   description:
     "The operator named here replaces the default `<=` when an item's required level is compared against `maxLevel`.",
+  createdAt: "2026-09-05T14:46:55.057Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

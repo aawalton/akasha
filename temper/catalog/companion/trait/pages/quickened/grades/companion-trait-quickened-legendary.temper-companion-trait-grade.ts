@@ -9,4 +9,6 @@ export const companionTraitQuickenedLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-companion-passive-metric/companion-ability-cooldown",
   value: 0.03,
+  createdAt: "2026-09-24T14:53:33.763Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

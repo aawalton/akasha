@@ -9,4 +9,6 @@ export const majorBreach = {
   effectCategory: "damage",
   description: "Reduces Physical and Spell Resistance by 5948",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:23.872Z",
+  updatedAt: "2026-09-26T18:25:50.000Z",
 } as const satisfies TemperDebuffMajor

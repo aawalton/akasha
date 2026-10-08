@@ -9,4 +9,6 @@ export const weaponTraitChargedLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-status-effect-chance",
   value: 1.175,
+  createdAt: "2026-09-24T14:53:32.927Z",
+  updatedAt: "2026-09-24T14:53:49.000Z",
 } as const satisfies TemperGearGrade

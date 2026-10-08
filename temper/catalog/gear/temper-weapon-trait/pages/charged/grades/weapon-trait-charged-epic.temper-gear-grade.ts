@@ -9,4 +9,6 @@ export const weaponTraitChargedEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-status-effect-chance",
   value: 1.125,
+  createdAt: "2026-09-24T14:53:22.390Z",
+  updatedAt: "2026-09-24T14:53:49.000Z",
 } as const satisfies TemperGearGrade

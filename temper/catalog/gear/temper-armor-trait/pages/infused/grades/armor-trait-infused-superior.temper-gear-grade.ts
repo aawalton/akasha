@@ -8,4 +8,6 @@ export const armorTraitInfusedSuperior = {
   thing: "temper-armor-trait/infused",
   quality: "temper-quality/superior",
   value: 0.17,
+  createdAt: "2026-09-24T14:54:09.890Z",
+  updatedAt: "2026-09-24T14:54:57.000Z",
 } as const satisfies TemperGearGrade

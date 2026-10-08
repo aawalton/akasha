@@ -9,4 +9,6 @@ export const jewelryEnchantFrostResistLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-resistance",
   value: 927,
+  createdAt: "2026-09-24T14:54:19.122Z",
+  updatedAt: "2026-09-24T14:55:36.000Z",
 } as const satisfies TemperGearGrade

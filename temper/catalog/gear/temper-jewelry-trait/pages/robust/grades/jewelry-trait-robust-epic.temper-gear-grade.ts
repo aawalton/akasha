@@ -9,4 +9,6 @@ export const jewelryTraitRobustEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-stamina-maximum",
   value: 847,
+  createdAt: "2026-09-24T14:56:00.640Z",
+  updatedAt: "2026-09-24T14:56:44.000Z",
 } as const satisfies TemperGearGrade

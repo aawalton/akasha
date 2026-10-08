@@ -9,4 +9,6 @@ export const jewelryEnchantIncreaseMagicalHarmFinePowerWeapon = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-power-weapon",
   value: 141,
+  createdAt: "2026-09-24T14:54:43.091Z",
+  updatedAt: "2026-09-24T14:55:36.000Z",
 } as const satisfies TemperGearGrade

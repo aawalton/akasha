@@ -7,4 +7,6 @@ export const immobilize = {
   title: "Immobilize",
   key: "immobilize",
   description: "Target cannot move but can still attack",
+  createdAt: "2026-09-02T01:40:23.880Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperDebuffOther

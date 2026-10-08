@@ -8,4 +8,6 @@ export const characters = {
   nodeId: "characters",
   tab: "characters",
   displayOrder: 1,
+  createdAt: "2026-09-02T01:46:33.029Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperCompletionCategory

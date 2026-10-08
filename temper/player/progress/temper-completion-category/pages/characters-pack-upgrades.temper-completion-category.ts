@@ -9,4 +9,6 @@ export const charactersPackUpgrades = {
   tab: "characters",
   displayOrder: 11,
   parent: "temper-completion-category/characters",
+  createdAt: "2026-09-02T01:46:33.024Z",
+  updatedAt: "2026-09-22T20:48:39.000Z",
 } as const satisfies TemperCompletionCategory

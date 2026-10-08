@@ -8,4 +8,6 @@ export const value = {
   key: "value",
   description:
     "The greatest of an item's market value, merchant value and replacement value is compared against the number or named constant stated, under `<=` by default.",
+  createdAt: "2026-09-05T14:46:55.059Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

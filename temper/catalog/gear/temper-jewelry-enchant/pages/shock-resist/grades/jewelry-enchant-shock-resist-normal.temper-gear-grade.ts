@@ -9,4 +9,6 @@ export const jewelryEnchantShockResistNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-resistance",
   value: 713,
+  createdAt: "2026-09-24T14:58:39.991Z",
+  updatedAt: "2026-09-24T14:58:51.000Z",
 } as const satisfies TemperGearGrade

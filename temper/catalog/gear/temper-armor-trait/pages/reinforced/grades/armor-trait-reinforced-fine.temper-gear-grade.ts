@@ -8,4 +8,6 @@ export const armorTraitReinforcedFine = {
   thing: "temper-armor-trait/reinforced",
   quality: "temper-quality/fine",
   value: 0.13,
+  createdAt: "2026-09-24T14:55:14.107Z",
+  updatedAt: "2026-09-24T14:56:18.000Z",
 } as const satisfies TemperGearGrade

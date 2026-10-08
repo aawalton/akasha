@@ -9,4 +9,6 @@ export const jewelryTraitTriuneNormalMagickaMaximum = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-magicka-maximum",
   value: 351,
+  createdAt: "2026-09-24T14:56:58.316Z",
+  updatedAt: "2026-09-24T14:57:25.000Z",
 } as const satisfies TemperGearGrade

@@ -9,4 +9,6 @@ export const companionTanlorinDraconicArmor = {
   companionId: "temper-eso-companion/tanlorin",
   category: "class",
   displayOrder: 26,
+  createdAt: "2026-09-02T01:49:41.415Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

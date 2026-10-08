@@ -8,4 +8,6 @@ export const canSell = {
   key: "canSell",
   description:
     "An item's merchant sell price must be above zero, so an item worth nothing to a merchant fails, and the test is offered only for sell and fence-sell rules.",
+  createdAt: "2026-09-05T14:46:55.056Z",
+  updatedAt: "2026-09-27T10:00:08.000Z",
 } as const satisfies TemperConditionField

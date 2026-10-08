@@ -13,4 +13,6 @@ export const ti = {
   zoneKey: "AD4",
   questId: 4538,
   displayOrder: 7,
+  createdAt: "2026-09-02T01:39:30.989Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies TemperDungeon

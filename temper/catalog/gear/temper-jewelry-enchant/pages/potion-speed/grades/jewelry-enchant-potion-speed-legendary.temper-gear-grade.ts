@@ -9,4 +9,6 @@ export const jewelryEnchantPotionSpeedLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-potion-cooldown",
   value: -50,
+  createdAt: "2026-09-24T14:56:32.186Z",
+  updatedAt: "2026-09-24T14:57:17.000Z",
 } as const satisfies TemperGearGrade

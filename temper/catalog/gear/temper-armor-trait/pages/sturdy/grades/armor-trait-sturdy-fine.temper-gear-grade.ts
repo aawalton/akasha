@@ -9,4 +9,6 @@ export const armorTraitSturdyFine = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-sturdy",
   value: 0.025,
+  createdAt: "2026-09-24T14:55:26.556Z",
+  updatedAt: "2026-09-24T14:56:18.000Z",
 } as const satisfies TemperGearGrade

@@ -15,4 +15,6 @@ export const focused = {
   esoArmorTraitType: 45,
   esoJewelryTraitType: 54,
   ttcTraitId: 29,
+  createdAt: "2026-09-02T01:49:41.423Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies TemperCompanionTrait

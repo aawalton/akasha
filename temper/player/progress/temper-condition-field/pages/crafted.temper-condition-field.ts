@@ -8,4 +8,6 @@ export const crafted = {
   key: "crafted",
   description:
     "An item's crafted flag must be true where the value is `crafted` and false where the value is `not-crafted`.",
+  createdAt: "2026-09-05T14:46:55.056Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

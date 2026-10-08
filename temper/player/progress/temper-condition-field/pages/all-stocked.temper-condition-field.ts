@@ -8,4 +8,6 @@ export const allStocked = {
   key: "allStocked",
   description:
     "Every character wanting the item's stock group must already hold at least the stock threshold where the value is `all-stocked`, and one character must fall short where the value is `not-all-stocked`.",
+  createdAt: "2026-09-05T14:46:55.054Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

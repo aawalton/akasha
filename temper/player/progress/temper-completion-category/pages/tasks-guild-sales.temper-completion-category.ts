@@ -9,4 +9,6 @@ export const tasksGuildSales = {
   tab: "tasks",
   displayOrder: 0,
   parent: "temper-completion-category/tasks",
+  createdAt: "2026-09-22T00:28:52.631Z",
+  updatedAt: "2026-09-22T20:48:39.000Z",
 } as const satisfies TemperCompletionCategory

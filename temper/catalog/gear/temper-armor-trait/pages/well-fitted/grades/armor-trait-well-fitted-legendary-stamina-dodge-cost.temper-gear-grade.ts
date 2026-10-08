@@ -9,4 +9,6 @@ export const armorTraitWellFittedLegendaryStaminaDodgeCost = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-stamina-dodge-cost",
   value: 0.06,
+  createdAt: "2026-09-24T14:56:12.390Z",
+  updatedAt: "2026-09-24T14:56:18.000Z",
 } as const satisfies TemperGearGrade

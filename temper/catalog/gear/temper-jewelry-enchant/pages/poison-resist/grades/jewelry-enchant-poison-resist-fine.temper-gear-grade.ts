@@ -9,4 +9,6 @@ export const jewelryEnchantPoisonResistFine = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-resistance",
   value: 744,
+  createdAt: "2026-09-24T14:55:58.898Z",
+  updatedAt: "2026-09-24T14:57:17.000Z",
 } as const satisfies TemperGearGrade

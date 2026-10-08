@@ -8,4 +8,6 @@ export const minorTimidity = {
   key: "minor-timidity",
   description: "Consumes 1 Ultimate every 1.5 seconds",
   effects: "jsonl",
+  createdAt: "2026-09-02T01:40:23.877Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperDebuffMinor

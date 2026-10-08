@@ -10,4 +10,6 @@ export const armorTypeMedium = {
   constantId: "medium",
   esoNum: 2,
   displayOrder: 2,
+  createdAt: "2026-09-02T01:58:57.726Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies TemperEsoPlayerEquipmentConstant

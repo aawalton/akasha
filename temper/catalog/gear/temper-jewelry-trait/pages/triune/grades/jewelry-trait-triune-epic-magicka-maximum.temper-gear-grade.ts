@@ -9,4 +9,6 @@ export const jewelryTraitTriuneEpicMagickaMaximum = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-magicka-maximum",
   value: 417,
+  createdAt: "2026-09-24T14:56:37.861Z",
+  updatedAt: "2026-09-24T14:56:44.000Z",
 } as const satisfies TemperGearGrade

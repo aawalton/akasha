@@ -7,4 +7,6 @@ export const daedra = {
   title: "Daedra",
   key: "daedra",
   displayOrder: 2,
+  createdAt: "2026-09-27T12:24:23.474Z",
+  updatedAt: "2026-09-27T12:24:26.000Z",
 } as const satisfies TemperEnemyType

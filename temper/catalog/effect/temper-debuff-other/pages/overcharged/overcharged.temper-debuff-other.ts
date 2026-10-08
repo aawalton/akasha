@@ -7,4 +7,6 @@ export const overcharged = {
   title: "Overcharged",
   key: "overcharged",
   description: "Applies Minor Magickasteal to enemies",
+  createdAt: "2026-09-02T01:40:23.881Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperDebuffOther

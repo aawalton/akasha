@@ -9,4 +9,6 @@ export const companionTraitAggressiveEpic = {
   quality: "temper-quality/epic",
   metric: "temper-companion-passive-metric/companion-damage-done",
   value: 0.017,
+  createdAt: "2026-09-24T14:48:53.886Z",
+  updatedAt: "2026-09-24T14:49:01.000Z",
 } as const satisfies TemperCompanionTraitGrade

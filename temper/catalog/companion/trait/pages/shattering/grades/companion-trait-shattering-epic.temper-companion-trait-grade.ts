@@ -9,4 +9,6 @@ export const companionTraitShatteringEpic = {
   quality: "temper-quality/epic",
   metric: "temper-companion-passive-metric/companion-penetration",
   value: 1300,
+  createdAt: "2026-09-24T14:53:35.765Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

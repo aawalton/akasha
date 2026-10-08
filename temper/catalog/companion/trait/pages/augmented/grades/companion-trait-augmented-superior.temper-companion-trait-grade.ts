@@ -9,4 +9,6 @@ export const companionTraitAugmentedSuperior = {
   quality: "temper-quality/superior",
   metric: "temper-companion-passive-metric/companion-buff-duration",
   value: 0.022,
+  createdAt: "2026-09-24T14:52:41.138Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

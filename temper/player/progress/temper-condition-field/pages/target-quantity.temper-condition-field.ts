@@ -8,4 +8,6 @@ export const targetQuantity = {
   key: "targetQuantity",
   description:
     "The bank stock summed across the item's whole stock group must fall below the number stated, so an item already banked to target fails.",
+  createdAt: "2026-09-05T14:46:55.059Z",
+  updatedAt: "2026-09-27T10:00:08.000Z",
 } as const satisfies TemperConditionField

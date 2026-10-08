@@ -10,4 +10,6 @@ export const armorOrnate = {
   traitId: "temper-armor-trait/ornate",
   esoTraitNum: 19,
   displayOrder: 9,
+  createdAt: "2026-09-02T01:58:57.736Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies TemperEsoTraitMap

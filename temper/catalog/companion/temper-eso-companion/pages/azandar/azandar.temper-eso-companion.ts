@@ -16,4 +16,6 @@ export const azandar = {
   companionQuests: "jsonl",
   rapportDailies: "jsonl",
   hashPlace: 6,
+  createdAt: "2026-09-02T01:50:19.421Z",
+  updatedAt: "2026-09-27T03:32:13.000Z",
 } as const satisfies TemperEsoCompanion

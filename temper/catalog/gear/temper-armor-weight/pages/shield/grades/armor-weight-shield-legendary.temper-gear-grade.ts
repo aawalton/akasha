@@ -8,4 +8,6 @@ export const armorWeightShieldLegendary = {
   thing: "temper-armor-weight/shield",
   quality: "temper-quality/legendary",
   value: 1720,
+  createdAt: "2026-09-27T02:49:05.044Z",
+  updatedAt: "2026-09-27T02:49:23.000Z",
 } as const satisfies TemperGearGrade

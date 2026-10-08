@@ -8,4 +8,6 @@ export const requiredSkillLines = {
   key: "requiredSkillLines",
   description:
     "A character suits the rule only where every named skill line is at max rank under mode `all-maxed`, or at least one named line is below max under `any-not-maxed`.",
+  createdAt: "2026-09-05T14:46:55.059Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

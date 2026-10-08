@@ -9,4 +9,6 @@ export const armorTraitImpenetrableFine = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-resistance-critical",
   value: 118,
+  createdAt: "2026-09-24T14:53:53.441Z",
+  updatedAt: "2026-09-24T14:54:57.000Z",
 } as const satisfies TemperGearGrade

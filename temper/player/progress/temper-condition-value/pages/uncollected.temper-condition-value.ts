@@ -8,4 +8,6 @@ export const uncollected = {
   key: "uncollected",
   conditionField: "temper-condition-field/uncollected",
   displayOrder: 0,
+  createdAt: "2026-10-08T14:32:35.756Z",
+  updatedAt: "2026-10-08T14:32:58.000Z",
 } as const satisfies TemperConditionValue

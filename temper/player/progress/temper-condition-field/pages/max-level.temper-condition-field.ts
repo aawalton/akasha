@@ -8,4 +8,6 @@ export const maxLevel = {
   key: "maxLevel",
   description:
     "An item's required level, raised to 50 plus a tenth of the item's champion points where those are above zero, is compared against the number stated, under `<=` by default.",
+  createdAt: "2026-09-05T14:46:55.058Z",
+  updatedAt: "2026-09-27T10:00:08.000Z",
 } as const satisfies TemperConditionField

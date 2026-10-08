@@ -13,4 +13,6 @@ export const lm = {
   zoneKey: "AD2",
   questId: 6351,
   displayOrder: 37,
+  createdAt: "2026-09-02T01:39:30.984Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies TemperDungeon

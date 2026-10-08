@@ -11,4 +11,6 @@ export const trauma = {
   uespId: 9,
   slotType: "focus-slot",
   hashPlace: 8,
+  createdAt: "2026-09-02T01:49:01.653Z",
+  updatedAt: "2026-09-26T18:55:59.000Z",
 } as const satisfies TemperFocusScript

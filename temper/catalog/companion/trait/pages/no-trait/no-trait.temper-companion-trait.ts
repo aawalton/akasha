@@ -8,4 +8,6 @@ export const noTrait = {
   title: "No Trait",
   isReduction: false,
   hashPlace: 0,
+  createdAt: "2026-09-02T01:49:41.423Z",
+  updatedAt: "2026-09-24T23:33:18.000Z",
 } as const satisfies TemperCompanionTrait

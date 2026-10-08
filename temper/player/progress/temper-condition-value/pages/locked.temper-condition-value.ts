@@ -8,4 +8,6 @@ export const locked = {
   key: "locked",
   conditionField: "temper-condition-field/locked",
   displayOrder: 0,
+  createdAt: "2026-09-27T10:37:54.768Z",
+  updatedAt: "2026-09-27T10:37:57.000Z",
 } as const satisfies TemperConditionValue

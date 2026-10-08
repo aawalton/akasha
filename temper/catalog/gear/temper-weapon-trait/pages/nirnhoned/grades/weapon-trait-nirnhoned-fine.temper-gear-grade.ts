@@ -8,4 +8,6 @@ export const weaponTraitNirnhonedFine = {
   thing: "temper-weapon-trait/nirnhoned",
   quality: "temper-quality/fine",
   value: 0.13,
+  createdAt: "2026-09-24T14:54:33.417Z",
+  updatedAt: "2026-09-24T14:55:12.000Z",
 } as const satisfies TemperGearGrade

@@ -9,4 +9,6 @@ export const companionBastianDraconicArmor = {
   companionId: "temper-eso-companion/bastian",
   category: "class",
   displayOrder: 8,
+  createdAt: "2026-09-02T01:49:41.407Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

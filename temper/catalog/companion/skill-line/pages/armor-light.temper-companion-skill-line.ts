@@ -8,4 +8,6 @@ export const armorLight = {
   title: "Light Armor",
   category: "armor",
   displayOrder: 42,
+  createdAt: "2026-09-02T01:49:41.405Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

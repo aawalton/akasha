@@ -7,4 +7,6 @@ export const undead = {
   title: "Undead",
   key: "undead",
   displayOrder: 1,
+  createdAt: "2026-09-27T12:24:23.475Z",
+  updatedAt: "2026-09-27T12:24:26.000Z",
 } as const satisfies TemperEnemyType

@@ -9,4 +9,6 @@ export const noCompanion = {
   alliance: "temper-alliance/no-alliance",
   esoCompanionId: 0,
   hashPlace: 0,
+  createdAt: "2026-09-02T01:50:19.424Z",
+  updatedAt: "2026-09-26T15:35:55.000Z",
 } as const satisfies TemperEsoCompanion

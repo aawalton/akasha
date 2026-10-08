@@ -10,4 +10,6 @@ export const jewelryInfused = {
   traitId: "temper-jewelry-trait/infused",
   esoTraitNum: 33,
   displayOrder: 11,
+  createdAt: "2026-09-02T01:58:57.739Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies TemperEsoTraitMap

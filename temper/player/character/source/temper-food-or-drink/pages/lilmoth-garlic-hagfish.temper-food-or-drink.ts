@@ -14,4 +14,6 @@ export const lilmothGarlicHagfish = {
   level: "CP150",
   effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 6608 }],
   hashPlace: 1,
+  createdAt: "2026-09-27T00:54:17.956Z",
+  updatedAt: "2026-09-27T00:54:20.000Z",
 } as const satisfies TemperFoodOrDrink

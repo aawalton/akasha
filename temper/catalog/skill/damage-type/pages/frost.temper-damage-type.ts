@@ -7,4 +7,6 @@ export const frost = {
   title: "Frost",
   key: "frost",
   displayOrder: 6,
+  createdAt: "2026-09-27T12:24:04.466Z",
+  updatedAt: "2026-09-27T12:24:07.000Z",
 } as const satisfies TemperDamageType

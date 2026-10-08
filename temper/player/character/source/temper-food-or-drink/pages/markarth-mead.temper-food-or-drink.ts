@@ -14,4 +14,6 @@ export const markarthMead = {
   level: "CP150",
   effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 660 }],
   hashPlace: 18,
+  createdAt: "2026-09-27T00:56:31.589Z",
+  updatedAt: "2026-09-27T00:56:37.000Z",
 } as const satisfies TemperFoodOrDrink

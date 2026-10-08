@@ -9,4 +9,6 @@ export const vampire = {
   displayOrder: 1,
   esoCurseIds: [40359],
   hashPlace: 1,
+  createdAt: "2026-09-02T01:39:52.748Z",
+  updatedAt: "2026-09-26T20:38:39.000Z",
 } as const satisfies TemperCurse

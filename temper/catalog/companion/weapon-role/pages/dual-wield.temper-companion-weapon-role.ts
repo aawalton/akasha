@@ -9,4 +9,6 @@ export const dualWield = {
   weaponSkillLineId: "temper-companion-skill-line/weapon-dual-wield",
   validMainHandWeaponTypes: ["sword", "axe", "mace", "dagger"],
   validOffHandWeaponTypes: ["sword", "axe", "mace", "dagger"],
+  createdAt: "2026-09-02T01:48:45.552Z",
+  updatedAt: "2026-09-22T22:13:28.000Z",
 } as const satisfies TemperCompanionWeaponRole

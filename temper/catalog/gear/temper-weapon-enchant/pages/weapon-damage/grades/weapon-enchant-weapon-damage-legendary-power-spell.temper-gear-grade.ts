@@ -9,4 +9,6 @@ export const weaponEnchantWeaponDamageLegendaryPowerSpell = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-power-spell",
   value: 174,
+  createdAt: "2026-09-24T14:53:20.259Z",
+  updatedAt: "2026-09-24T14:53:49.000Z",
 } as const satisfies TemperGearGrade

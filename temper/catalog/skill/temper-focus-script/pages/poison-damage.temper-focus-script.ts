@@ -11,4 +11,6 @@ export const poisonDamage = {
   uespId: 2,
   slotType: "focus-slot",
   hashPlace: 1,
+  createdAt: "2026-09-02T01:49:01.652Z",
+  updatedAt: "2026-09-26T18:55:59.000Z",
 } as const satisfies TemperFocusScript

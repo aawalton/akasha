@@ -9,4 +9,6 @@ export const companionEmberLightningCaller = {
   companionId: "temper-eso-companion/ember",
   category: "class",
   displayOrder: 2,
+  createdAt: "2026-09-02T01:49:41.408Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

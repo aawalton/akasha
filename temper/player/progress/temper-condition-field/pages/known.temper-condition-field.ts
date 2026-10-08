@@ -8,4 +8,6 @@ export const known = {
   key: "known",
   description:
     "Every character on the account must already know the item where the value is `known`, and at least one character must not know the item where the value is `not-known`.",
+  createdAt: "2026-09-05T14:46:55.057Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

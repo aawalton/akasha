@@ -10,4 +10,6 @@ export const armorTypeNoWeight = {
   constantId: "no-weight",
   esoNum: 0,
   displayOrder: 0,
+  createdAt: "2026-09-02T01:58:57.727Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies TemperEsoPlayerEquipmentConstant

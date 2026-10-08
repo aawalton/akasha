@@ -9,4 +9,6 @@ export const jewelryEnchantPrismaticRecoveryEpicHealthRecovery = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-health-recovery",
   value: 80,
+  createdAt: "2026-09-24T14:56:34.918Z",
+  updatedAt: "2026-09-24T14:57:17.000Z",
 } as const satisfies TemperGearGrade

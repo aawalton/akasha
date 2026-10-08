@@ -9,4 +9,6 @@ export const tasksDungeonSets = {
   tab: "tasks",
   displayOrder: 4,
   parent: "temper-completion-category/tasks",
+  createdAt: "2026-09-22T00:29:11.140Z",
+  updatedAt: "2026-09-22T20:48:39.000Z",
 } as const satisfies TemperCompletionCategory

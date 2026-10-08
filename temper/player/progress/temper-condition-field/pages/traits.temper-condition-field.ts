@@ -8,4 +8,6 @@ export const traits = {
   key: "traits",
   description:
     "An item's trait number is turned into a temper trait id, which must appear in the list of trait ids stated.",
+  createdAt: "2026-09-05T14:46:55.059Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

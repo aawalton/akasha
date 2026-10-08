@@ -10,4 +10,6 @@ export const weaponTypeLightningStaff = {
   constantId: "lightning-staff",
   esoNum: 15,
   displayOrder: 12,
+  createdAt: "2026-09-02T01:58:57.732Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies TemperEsoPlayerEquipmentConstant

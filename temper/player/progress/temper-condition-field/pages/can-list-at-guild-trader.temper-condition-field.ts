@@ -8,4 +8,6 @@ export const canListAtGuildTrader = {
   key: "canListAtGuildTrader",
   description:
     "A rule marks the matching item as listable at a guild trader, offered only for the `list` action, and no checker in this checkout tests the value.",
+  createdAt: "2026-09-05T14:46:55.056Z",
+  updatedAt: "2026-09-27T11:01:42.000Z",
 } as const satisfies TemperConditionField

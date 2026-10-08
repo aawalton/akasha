@@ -9,4 +9,6 @@ export const tasksActiveQuests = {
   tab: "tasks",
   displayOrder: 2,
   parent: "temper-completion-category/tasks",
+  createdAt: "2026-09-22T00:29:01.724Z",
+  updatedAt: "2026-09-22T20:48:39.000Z",
 } as const satisfies TemperCompletionCategory

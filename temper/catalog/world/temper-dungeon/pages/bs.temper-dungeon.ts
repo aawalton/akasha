@@ -13,4 +13,6 @@ export const bs = {
   zoneKey: "EP1",
   questId: 6896,
   displayOrder: 51,
+  createdAt: "2026-09-02T01:39:30.978Z",
+  updatedAt: "2026-09-27T03:53:34.000Z",
 } as const satisfies TemperDungeon

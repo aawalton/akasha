@@ -8,4 +8,6 @@ export const bow = {
   title: "Bow",
   weaponSkillLineId: "temper-companion-skill-line/weapon-bow",
   validMainHandWeaponTypes: ["bow"],
+  createdAt: "2026-09-02T01:48:45.552Z",
+  updatedAt: "2026-09-22T22:13:28.000Z",
 } as const satisfies TemperCompanionWeaponRole

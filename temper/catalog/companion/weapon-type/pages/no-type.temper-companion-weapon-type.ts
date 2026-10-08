@@ -11,4 +11,6 @@ export const noType = {
   displayOrder: 0,
   hashPlace: 0,
   esoWeaponTypeNumber: 0,
+  createdAt: "2026-09-02T01:48:45.551Z",
+  updatedAt: "2026-09-27T03:35:13.000Z",
 } as const satisfies TemperCompanionWeaponType

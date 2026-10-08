@@ -8,4 +8,6 @@ export const itemIds = {
   key: "itemIds",
   description:
     "An item's id must be one of the ids listed. The value a rule states is a JSON array of item ids, such as `[112427,176040,27037]`, and a stock rule fills its targets from the ids in the order listed, earliest first.",
+  createdAt: "2026-09-26T17:36:59.277Z",
+  updatedAt: "2026-09-26T17:37:24.000Z",
 } as const satisfies TemperConditionField

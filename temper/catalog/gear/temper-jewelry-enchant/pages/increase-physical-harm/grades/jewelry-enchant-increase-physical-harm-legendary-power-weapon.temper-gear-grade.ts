@@ -9,4 +9,6 @@ export const jewelryEnchantIncreasePhysicalHarmLegendaryPowerWeapon = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-power-weapon",
   value: 174,
+  createdAt: "2026-09-24T14:55:27.867Z",
+  updatedAt: "2026-09-24T14:55:36.000Z",
 } as const satisfies TemperGearGrade

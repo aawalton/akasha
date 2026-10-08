@@ -10,4 +10,6 @@ export const equipTypeEquipTypeRing = {
   keyText: "EQUIP_TYPE_RING",
   valueNum: 12,
   displayOrder: 11,
+  createdAt: "2026-09-02T01:50:19.427Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperEsoCompanionEquipmentConstant

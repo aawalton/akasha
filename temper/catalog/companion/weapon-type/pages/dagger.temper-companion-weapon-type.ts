@@ -13,4 +13,6 @@ export const dagger = {
   esoWeaponTypeNumber: 11,
   equipmentIconName: "dagger",
   ttcItemId: 23430,
+  createdAt: "2026-09-02T01:48:45.549Z",
+  updatedAt: "2026-09-27T03:35:13.000Z",
 } as const satisfies TemperCompanionWeaponType

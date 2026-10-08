@@ -9,4 +9,6 @@ export const jewelryEnchantReduceSkillCostSuperiorStaminaAbilityCost = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-stamina-ability-cost",
   value: 119,
+  createdAt: "2026-09-24T14:58:11.303Z",
+  updatedAt: "2026-09-24T14:58:51.000Z",
 } as const satisfies TemperGearGrade

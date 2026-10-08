@@ -8,4 +8,6 @@ export const weaponOneHandShield = {
   title: "One Hand and Shield",
   category: "weapon",
   displayOrder: 34,
+  createdAt: "2026-09-02T01:49:41.421Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

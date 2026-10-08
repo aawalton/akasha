@@ -8,4 +8,6 @@ export const alchemy = {
   esoCraftTypeId: 4,
   key: "alchemy",
   displayOrder: 4,
+  createdAt: "2026-09-27T09:59:44.152Z",
+  updatedAt: "2026-09-27T09:59:51.000Z",
 } as const satisfies TemperCraftType

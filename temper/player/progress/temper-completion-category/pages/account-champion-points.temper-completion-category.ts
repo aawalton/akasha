@@ -10,4 +10,6 @@ export const accountChampionPoints = {
   displayOrder: 5,
   parent: "temper-completion-category/account",
   completionMost: 3600,
+  createdAt: "2026-09-02T01:46:33.019Z",
+  updatedAt: "2026-09-27T05:30:31.000Z",
 } as const satisfies TemperCompletionCategory

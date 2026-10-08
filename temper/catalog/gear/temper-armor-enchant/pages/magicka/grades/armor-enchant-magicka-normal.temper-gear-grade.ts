@@ -9,4 +9,6 @@ export const armorEnchantMagickaNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-magicka-maximum",
   value: 668,
+  createdAt: "2026-09-24T14:52:33.300Z",
+  updatedAt: "2026-09-24T14:53:35.000Z",
 } as const satisfies TemperGearGrade

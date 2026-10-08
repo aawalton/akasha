@@ -9,4 +9,6 @@ export const jewelryTraitBloodthirstyLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-bloodthirsty",
   value: 350,
+  createdAt: "2026-09-24T14:54:54.108Z",
+  updatedAt: "2026-09-24T14:55:22.000Z",
 } as const satisfies TemperGearGrade

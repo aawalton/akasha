@@ -9,4 +9,6 @@ export const companionTraitQuickenedNormal = {
   quality: "temper-quality/normal",
   metric: "temper-companion-passive-metric/companion-ability-cooldown",
   value: 0.014,
+  createdAt: "2026-09-24T14:53:29.242Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

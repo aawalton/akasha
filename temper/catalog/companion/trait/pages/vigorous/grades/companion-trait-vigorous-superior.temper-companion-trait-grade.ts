@@ -9,4 +9,6 @@ export const companionTraitVigorousSuperior = {
   quality: "temper-quality/superior",
   metric: "temper-companion-passive-metric/companion-health-maximum",
   value: 0.022,
+  createdAt: "2026-09-24T14:54:19.370Z",
+  updatedAt: "2026-09-24T14:55:22.000Z",
 } as const satisfies TemperCompanionTraitGrade

@@ -8,4 +8,6 @@ export const replacementValue = {
   key: "replacementValue",
   description:
     "An item's replacement value, read as zero where absent, is compared against the number or named constant stated, under `<=` by default.",
+  createdAt: "2026-09-05T14:46:55.059Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

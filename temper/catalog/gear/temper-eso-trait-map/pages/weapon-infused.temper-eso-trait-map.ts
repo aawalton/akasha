@@ -10,4 +10,6 @@ export const weaponInfused = {
   traitId: "temper-weapon-trait/infused",
   esoTraitNum: 4,
   displayOrder: 4,
+  createdAt: "2026-09-02T01:58:57.742Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies TemperEsoTraitMap

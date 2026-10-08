@@ -17,4 +17,6 @@ export const honestLassieHoneyTea = {
     { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 493 },
   ],
   hashPlace: 23,
+  createdAt: "2026-09-27T00:56:31.589Z",
+  updatedAt: "2026-09-27T00:56:37.000Z",
 } as const satisfies TemperFoodOrDrink

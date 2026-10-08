@@ -9,4 +9,6 @@ export const weaponTraitDefendingNormalResistancePhysical = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-resistance-physical",
   value: 1428,
+  createdAt: "2026-09-24T14:54:04.023Z",
+  updatedAt: "2026-09-24T14:55:12.000Z",
 } as const satisfies TemperGearGrade

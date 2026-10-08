@@ -8,4 +8,6 @@ export const stolen = {
   key: "stolen",
   description:
     "An item's stolen flag must be true where the value is `stolen` and false where the value is `not-stolen`.",
+  createdAt: "2026-09-05T14:46:55.059Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

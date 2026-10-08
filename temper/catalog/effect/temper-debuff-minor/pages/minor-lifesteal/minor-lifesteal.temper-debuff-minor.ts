@@ -7,4 +7,6 @@ export const minorLifesteal = {
   title: "Minor Lifesteal",
   key: "minor-lifesteal",
   description: "Heals attackers for 600 Health when dealing damage",
+  createdAt: "2026-09-02T01:40:23.876Z",
+  updatedAt: "2026-09-21T15:25:48.000Z",
 } as const satisfies TemperDebuffMinor

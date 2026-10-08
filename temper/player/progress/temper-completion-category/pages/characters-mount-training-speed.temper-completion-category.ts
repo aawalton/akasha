@@ -9,4 +9,6 @@ export const charactersMountTrainingSpeed = {
   tab: "characters",
   displayOrder: 0,
   parent: "temper-completion-category/characters-mount-training",
+  createdAt: "2026-09-27T10:04:08.501Z",
+  updatedAt: "2026-09-27T10:04:16.000Z",
 } as const satisfies TemperCompletionCategory

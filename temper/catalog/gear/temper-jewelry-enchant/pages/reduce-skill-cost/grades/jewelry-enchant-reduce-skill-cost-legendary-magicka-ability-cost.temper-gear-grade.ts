@@ -9,4 +9,6 @@ export const jewelryEnchantReduceSkillCostLegendaryMagickaAbilityCost = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-magicka-ability-cost",
   value: 135,
+  createdAt: "2026-09-24T14:58:16.651Z",
+  updatedAt: "2026-09-24T14:58:51.000Z",
 } as const satisfies TemperGearGrade

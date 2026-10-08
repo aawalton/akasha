@@ -11,4 +11,6 @@ export const erinSolsticeSkillPointsGeneralTutorial = {
   completionItemPath: ["general", "tutorial"],
   floor: 1,
   overrideReason: "ESO under-reports; complete in-game (Erin Solstice) #12019",
+  createdAt: "2026-09-02T01:51:22.090Z",
+  updatedAt: "2026-09-24T16:26:32.000Z",
 } as const satisfies TemperCompletionOverride

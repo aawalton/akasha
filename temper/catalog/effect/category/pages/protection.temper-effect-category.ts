@@ -7,4 +7,6 @@ export const protection = {
   key: "protection",
   title: "Protection",
   displayOrder: 2,
+  createdAt: "2026-09-26T20:30:49.006Z",
+  updatedAt: "2026-09-26T20:30:52.000Z",
 } as const satisfies TemperEffectCategory

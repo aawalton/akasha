@@ -8,4 +8,6 @@ export const canLevelMorphs = {
   key: "canLevelMorphs",
   description:
     "A character suits the rule only where the account reports that character can still level a morph, the condition carrying the single mode `can-level`.",
+  createdAt: "2026-09-05T14:46:55.056Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField

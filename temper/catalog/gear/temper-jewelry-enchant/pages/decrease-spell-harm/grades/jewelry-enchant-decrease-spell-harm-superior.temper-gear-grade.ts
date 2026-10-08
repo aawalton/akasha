@@ -9,4 +9,6 @@ export const jewelryEnchantDecreaseSpellHarmSuperior = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-resistance",
   value: 805,
+  createdAt: "2026-09-24T14:53:03.283Z",
+  updatedAt: "2026-09-24T14:53:58.000Z",
 } as const satisfies TemperGearGrade

@@ -9,4 +9,6 @@ export const jewelryTraitHealthyEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-health-maximum",
   value: 932,
+  createdAt: "2026-09-24T14:55:07.931Z",
+  updatedAt: "2026-09-24T14:55:22.000Z",
 } as const satisfies TemperGearGrade

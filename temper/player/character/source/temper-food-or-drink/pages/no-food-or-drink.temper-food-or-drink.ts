@@ -10,4 +10,6 @@ export const noFoodOrDrink = {
   abilityId: 0,
   seconds: 0,
   hashPlace: 0,
+  createdAt: "2026-09-27T00:54:17.957Z",
+  updatedAt: "2026-09-27T00:54:20.000Z",
 } as const satisfies TemperFoodOrDrink

@@ -9,4 +9,6 @@ export const companionTraitProlificSuperior = {
   quality: "temper-quality/superior",
   metric: "temper-companion-passive-metric/companion-ultimate-generation",
   value: 0.11,
+  createdAt: "2026-09-24T14:53:18.265Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

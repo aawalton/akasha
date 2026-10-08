@@ -15,4 +15,6 @@ export const shattering = {
   esoArmorTraitType: 46,
   esoJewelryTraitType: 55,
   ttcTraitId: 32,
+  createdAt: "2026-09-02T01:49:41.424Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies TemperCompanionTrait

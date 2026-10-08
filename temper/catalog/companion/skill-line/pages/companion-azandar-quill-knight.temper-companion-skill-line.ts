@@ -9,4 +9,6 @@ export const companionAzandarQuillKnight = {
   companionId: "temper-eso-companion/azandar",
   category: "class",
   displayOrder: 22,
+  createdAt: "2026-09-02T01:49:41.406Z",
+  updatedAt: "2026-09-22T19:30:19.000Z",
 } as const satisfies TemperCompanionSkillLine

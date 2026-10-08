@@ -10,4 +10,6 @@ export const weaponCharged = {
   traitId: "temper-weapon-trait/charged",
   esoTraitNum: 2,
   displayOrder: 2,
+  createdAt: "2026-09-02T01:58:57.741Z",
+  updatedAt: "2026-09-22T15:55:27.000Z",
 } as const satisfies TemperEsoTraitMap

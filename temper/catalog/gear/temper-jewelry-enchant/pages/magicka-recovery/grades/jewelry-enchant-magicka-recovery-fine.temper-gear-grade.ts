@@ -9,4 +9,6 @@ export const jewelryEnchantMagickaRecoveryFine = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-magicka-recovery",
   value: 133,
+  createdAt: "2026-09-24T14:55:45.192Z",
+  updatedAt: "2026-09-24T14:57:17.000Z",
 } as const satisfies TemperGearGrade

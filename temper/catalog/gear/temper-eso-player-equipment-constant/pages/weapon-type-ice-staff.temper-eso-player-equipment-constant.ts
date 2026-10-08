@@ -10,4 +10,6 @@ export const weaponTypeIceStaff = {
   constantId: "ice-staff",
   esoNum: 13,
   displayOrder: 11,
+  createdAt: "2026-09-02T01:58:57.731Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies TemperEsoPlayerEquipmentConstant

@@ -9,4 +9,6 @@ export const armorEnchantHealthEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-health-maximum",
   value: 882,
+  createdAt: "2026-09-24T14:52:12.080Z",
+  updatedAt: "2026-09-24T14:53:35.000Z",
 } as const satisfies TemperGearGrade

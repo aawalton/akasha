@@ -9,4 +9,6 @@ export const weaponEnchantWeaponDamageSuperiorPowerSpell = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-power-spell",
   value: 153,
+  createdAt: "2026-09-24T14:53:12.968Z",
+  updatedAt: "2026-09-24T14:53:49.000Z",
 } as const satisfies TemperGearGrade

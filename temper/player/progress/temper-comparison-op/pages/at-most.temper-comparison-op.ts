@@ -6,4 +6,6 @@ export const atMost = {
   slug: "at-most",
   title: "≤",
   key: "<=",
+  createdAt: "2026-09-02T01:44:14.094Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperComparisonOp

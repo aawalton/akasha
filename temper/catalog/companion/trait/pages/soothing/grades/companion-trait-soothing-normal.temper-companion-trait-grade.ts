@@ -9,4 +9,6 @@ export const companionTraitSoothingNormal = {
   quality: "temper-quality/normal",
   metric: "temper-companion-passive-metric/companion-healing-done",
   value: 0.005,
+  createdAt: "2026-09-24T14:54:02.838Z",
+  updatedAt: "2026-09-24T14:55:22.000Z",
 } as const satisfies TemperCompanionTraitGrade

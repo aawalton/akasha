@@ -18,4 +18,6 @@ export const jewelsOfMisrule = {
     { metric: "temper-metric/health-maximum", effectType: "integer", value: 3927 },
   ],
   hashPlace: 13,
+  createdAt: "2026-09-27T00:56:31.589Z",
+  updatedAt: "2026-09-27T00:56:37.000Z",
 } as const satisfies TemperFoodOrDrink

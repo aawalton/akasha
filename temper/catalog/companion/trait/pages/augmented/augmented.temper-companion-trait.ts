@@ -15,4 +15,6 @@ export const augmented = {
   esoArmorTraitType: 49,
   esoJewelryTraitType: 58,
   ttcTraitId: 27,
+  createdAt: "2026-09-02T01:49:41.422Z",
+  updatedAt: "2026-09-27T02:54:48.000Z",
 } as const satisfies TemperCompanionTrait

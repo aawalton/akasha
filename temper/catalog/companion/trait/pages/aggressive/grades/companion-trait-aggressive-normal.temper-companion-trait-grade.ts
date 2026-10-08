@@ -9,4 +9,6 @@ export const companionTraitAggressiveNormal = {
   quality: "temper-quality/normal",
   metric: "temper-companion-passive-metric/companion-damage-done",
   value: 0.00425,
+  createdAt: "2026-09-24T14:52:25.937Z",
+  updatedAt: "2026-09-24T14:53:42.000Z",
 } as const satisfies TemperCompanionTraitGrade

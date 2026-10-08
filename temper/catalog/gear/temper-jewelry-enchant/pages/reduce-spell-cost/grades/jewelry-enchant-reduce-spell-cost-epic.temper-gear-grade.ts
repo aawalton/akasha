@@ -9,4 +9,6 @@ export const jewelryEnchantReduceSpellCostEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-magicka-ability-cost",
   value: 191,
+  createdAt: "2026-09-24T14:58:21.624Z",
+  updatedAt: "2026-09-24T14:58:51.000Z",
 } as const satisfies TemperGearGrade

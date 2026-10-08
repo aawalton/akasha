@@ -9,4 +9,6 @@ export const jewelryTraitSwiftNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-movement-speed",
   value: 0.03,
+  createdAt: "2026-09-24T14:56:17.708Z",
+  updatedAt: "2026-09-24T14:56:44.000Z",
 } as const satisfies TemperGearGrade

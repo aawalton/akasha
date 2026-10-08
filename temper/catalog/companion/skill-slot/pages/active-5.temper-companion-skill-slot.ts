@@ -6,4 +6,6 @@ export const active5 = {
   slug: "active-5",
   key: "active-5",
   title: "Active 5",
+  createdAt: "2026-09-02T01:48:14.465Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies TemperCompanionSkillSlot

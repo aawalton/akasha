@@ -9,4 +9,6 @@ export const jewelryEnchantDiseaseResistSuperior = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-resistance",
   value: 805,
+  createdAt: "2026-09-24T14:53:14.529Z",
+  updatedAt: "2026-09-24T14:53:58.000Z",
 } as const satisfies TemperGearGrade

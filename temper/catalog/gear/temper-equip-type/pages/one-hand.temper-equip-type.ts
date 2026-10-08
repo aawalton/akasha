@@ -6,4 +6,6 @@ export const oneHand = {
   slug: "one-hand",
   title: "One-Handed",
   equipType: 5,
+  createdAt: "2026-09-27T04:04:37.152Z",
+  updatedAt: "2026-09-27T04:20:56.000Z",
 } as const satisfies TemperEquipType

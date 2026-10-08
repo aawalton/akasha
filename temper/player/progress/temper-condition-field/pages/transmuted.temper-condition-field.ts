@@ -8,4 +8,6 @@ export const transmuted = {
   key: "transmuted",
   description:
     "An item's transmuted flag must be true where the value is `transmuted` and false where the value is `not-transmuted`, and the test suits equipment alone.",
+  createdAt: "2026-09-05T14:46:55.059Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperConditionField
