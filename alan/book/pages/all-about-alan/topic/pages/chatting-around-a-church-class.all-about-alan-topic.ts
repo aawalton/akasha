@@ -12,7 +12,7 @@ export const chattingAroundAChurchClass = {
     "all-about-alan-topic/why-a-familiar-face-costs-more",
   ],
   settled:
-    "Usually it is after class, sometimes before. I tend to enjoy it.\n\nThe chats tend to be casual, with one other person or at most two. Sometimes they are about the lesson, but usually they are just catching up.\n\nCatching up is usually people asking me about my life. I try to ask questions too, but I am not great at that, so it is still not small talk generally.\n\nThere is a best-behaviour effect at church as well.\n\nIt does feel like a deposit, though a small one.",
+    "Usually it is after class, sometimes before. I tend to enjoy it.\n\nThe chats tend to be casual, with one other person or at most two. Sometimes they are about the lesson, but usually they are just catching up.\n\nCatching up is usually people asking me about my life. I try to ask questions too, but I am not great at that, so it is still not small talk generally.\n\nThere is a best-behaviour effect at church as well.\n\nIt does feel like a deposit, though a small one.\n\nI sometimes can increase the chances of one by lingering. When I am doing really well, at five or above, I can even initiate directly.",
   createdAt: "2026-10-08T19:33:14.439Z",
-  updatedAt: "2026-10-08T19:33:14.439Z",
+  updatedAt: "2026-10-08T19:40:52.586Z",
 } as const satisfies AllAboutAlanTopic
