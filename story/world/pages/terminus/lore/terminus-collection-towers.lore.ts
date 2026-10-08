@@ -113,6 +113,14 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Every tower has a throne.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A tower is claimed by sitting on its throne.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Each tower is conquered in a single challenge, whose difficulty scales with its highest tier.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -322,5 +330,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T21:03:38.643Z",
+  updatedAt: "2026-10-08T21:04:05.204Z",
 } as const satisfies Lore
