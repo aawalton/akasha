@@ -9,4 +9,6 @@ export const psalms1914 = {
   translation: "web",
   position: 5,
   passageText: "txt",
+  createdAt: "2026-08-14T00:19:13.328Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies ScripturePassage

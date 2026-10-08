@@ -12,4 +12,6 @@ export const mosiah29 = {
   unit: "unit/words",
   status: "not-started",
   externalId: "mosiah29",
+  createdAt: "2026-06-27T14:23:38.432Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies ScripturePassage

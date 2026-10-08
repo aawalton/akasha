@@ -20,4 +20,6 @@ export const criminalMindsSeason17EvolutionSeason2 = {
       lastSyncedAt: "2025-12-08",
     },
   ],
+  createdAt: "2026-09-03T16:03:23.960Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Season

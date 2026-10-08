@@ -10,4 +10,6 @@ export const proverbs356 = {
   position: 9,
   passageText: "txt",
   unit: "unit/words",
+  createdAt: "2026-08-14T00:19:13.649Z",
+  updatedAt: "2026-09-25T13:02:31.000Z",
 } as const satisfies ScripturePassage
