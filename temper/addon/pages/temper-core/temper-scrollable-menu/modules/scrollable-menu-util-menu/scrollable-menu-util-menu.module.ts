@@ -26,4 +26,6 @@ export const scrollableMenuUtilMenu = {
         "Hiding the context menu also clears the menu items unless a preventer variable blocks the clearing.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.265Z",
+  updatedAt: "2026-09-22T10:12:24.000Z",
 } as const satisfies Module

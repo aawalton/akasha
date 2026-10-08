@@ -21,4 +21,6 @@ export const scrollableMenuDropdownClassHandlers = {
       statement: "A submenu inherits multi-select from its parent menu on the first click.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.264Z",
+  updatedAt: "2026-09-25T13:18:28.000Z",
 } as const satisfies Module

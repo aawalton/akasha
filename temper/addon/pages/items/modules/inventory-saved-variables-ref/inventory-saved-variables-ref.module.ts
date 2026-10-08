@@ -6,4 +6,6 @@ export const inventorySavedVariablesRef = {
   slug: "inventory-saved-variables-ref",
   definition: "the instance of the saved variables, and the getters over it",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.859Z",
+  updatedAt: "2026-09-22T10:05:23.000Z",
 } as const satisfies Module

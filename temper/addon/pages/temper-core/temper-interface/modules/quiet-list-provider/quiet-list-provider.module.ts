@@ -6,4 +6,6 @@ export const quietListProvider = {
   slug: "quiet-list-provider",
   definition: "the shape a notification provider takes where it is hooked",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.959Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

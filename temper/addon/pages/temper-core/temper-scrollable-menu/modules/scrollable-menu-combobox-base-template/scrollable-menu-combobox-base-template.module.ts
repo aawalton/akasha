@@ -25,4 +25,6 @@ export const scrollableMenuComboboxBaseTemplate = {
       statement: "Each allowed entry type is registered with the dropdown as a custom template.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.262Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

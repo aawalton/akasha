@@ -6,4 +6,6 @@ export const salesHistoryLegacyCategoryLookup = {
   slug: "sales-history-legacy-category-lookup",
   definition: "the newer categories an older category name means",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.629Z",
+  updatedAt: "2026-09-22T10:12:24.000Z",
 } as const satisfies Module

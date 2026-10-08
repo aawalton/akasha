@@ -31,4 +31,6 @@ export const addonMenuPanelOptions = {
         "Setting a handler on a panel prints a warning naming the callback to use instead.",
     },
   ],
+  createdAt: "2026-09-02T07:23:05.088Z",
+  updatedAt: "2026-09-24T20:36:10.000Z",
 } as const satisfies Module

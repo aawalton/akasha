@@ -12,4 +12,6 @@ export const addonKeybindsStrings = {
       statement: "The names are English and are not translated.",
     },
   ],
+  createdAt: "2026-09-02T04:21:47.419Z",
+  updatedAt: "2026-09-22T14:13:12.000Z",
 } as const satisfies Module

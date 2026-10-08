@@ -25,4 +25,6 @@ export const leadsUnitList = {
         "The leads are read from tables the add-on carries, so the list never loads or fails.",
     },
   ],
+  createdAt: "2026-09-02T14:10:09.674Z",
+  updatedAt: "2026-09-26T13:40:45.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const keybinderCasts = {
       statement: "A cast is written here rather than where the value is used.",
     },
   ],
+  createdAt: "2026-09-02T19:03:40.225Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

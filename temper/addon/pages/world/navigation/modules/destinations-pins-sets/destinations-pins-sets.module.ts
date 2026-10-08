@@ -6,4 +6,6 @@ export const destinationsPinsSets = {
   slug: "destinations-pins-sets",
   definition: "the item set a dungeon drops, described for its pin tooltip",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.082Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

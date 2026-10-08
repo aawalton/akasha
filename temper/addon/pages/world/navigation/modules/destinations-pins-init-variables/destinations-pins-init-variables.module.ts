@@ -6,4 +6,6 @@ export const destinationsPinsInitVariables = {
   slug: "destinations-pins-init-variables",
   definition: "the saved variables read into the destinations runtime",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.065Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

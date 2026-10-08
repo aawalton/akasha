@@ -6,4 +6,6 @@ export const destinationsDefaults = {
   slug: "destinations-defaults",
   definition: "a fresh destinations install's starting settings",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.014Z",
+  updatedAt: "2026-09-22T13:55:35.000Z",
 } as const satisfies Module

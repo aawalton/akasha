@@ -16,4 +16,6 @@ export const mainMenuPublish = {
       statement: "A console client is handed nothing.",
     },
   ],
+  createdAt: "2026-09-02T04:23:42.852Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Module

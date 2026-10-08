@@ -6,4 +6,6 @@ export const mainMenuScenes = {
   slug: "main-menu-scenes",
   definition: "showing and toggling the scenes and scene groups a menu entry reaches",
   code: "ts",
+  createdAt: "2026-09-21T17:32:18.614Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

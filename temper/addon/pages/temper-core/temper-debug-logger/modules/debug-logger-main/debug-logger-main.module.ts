@@ -16,4 +16,6 @@ export const debugLoggerMain = {
       statement: "Nothing here is exported.",
     },
   ],
+  createdAt: "2026-09-02T04:29:41.391Z",
+  updatedAt: "2026-09-22T13:48:38.000Z",
 } as const satisfies Module

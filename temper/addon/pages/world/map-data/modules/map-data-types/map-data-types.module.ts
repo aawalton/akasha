@@ -6,4 +6,6 @@ export const mapDataTypes = {
   slug: "map-data-types",
   definition: "the shapes the state table, its internals and a map index entry take",
   code: "ts",
+  createdAt: "2026-09-02T11:29:35.385Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Module

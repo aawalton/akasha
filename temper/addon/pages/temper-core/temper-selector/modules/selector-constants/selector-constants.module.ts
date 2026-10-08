@@ -6,4 +6,6 @@ export const selectorConstants = {
   slug: "selector-constants",
   definition: "the saved packs' fixed names, limits and colours",
   code: "ts",
+  createdAt: "2026-09-02T11:44:59.556Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

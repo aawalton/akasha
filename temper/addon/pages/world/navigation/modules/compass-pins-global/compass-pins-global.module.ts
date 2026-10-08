@@ -6,4 +6,6 @@ export const compassPinsGlobal = {
   slug: "compass-pins-global",
   definition: "the compass pin manager every pin feature imports",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.002Z",
+  updatedAt: "2026-09-22T03:11:28.000Z",
 } as const satisfies Module

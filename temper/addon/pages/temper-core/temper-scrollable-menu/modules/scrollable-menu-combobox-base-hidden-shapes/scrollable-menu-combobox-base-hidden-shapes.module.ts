@@ -16,4 +16,6 @@ export const scrollableMenuComboboxBaseHiddenShapes = {
       statement: "A method a shape names is called on the object that holds it.",
     },
   ],
+  createdAt: "2026-09-21T17:40:28.006Z",
+  updatedAt: "2026-09-25T21:56:53.000Z",
 } as const satisfies Module

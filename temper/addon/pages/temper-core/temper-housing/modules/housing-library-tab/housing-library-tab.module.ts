@@ -12,4 +12,6 @@ export const housingLibraryTab = {
       statement: "A row is drawn only for a library entry the current filter admits.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.264Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

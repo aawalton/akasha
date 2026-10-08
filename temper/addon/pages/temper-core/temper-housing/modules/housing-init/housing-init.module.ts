@@ -16,4 +16,6 @@ export const housingInit = {
       statement: "Saved variables missing a field take the field's default.",
     },
   ],
+  createdAt: "2026-09-02T08:08:23.329Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

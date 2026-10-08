@@ -12,4 +12,6 @@ export const eventsAddonLoaded = {
       statement: "Every timer this add-on holds is started from here.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.346Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const tweakSounds = {
   slug: "tweak-sounds",
   definition: "the game sounds the interface tweaks mute",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.214Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

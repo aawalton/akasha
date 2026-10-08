@@ -6,4 +6,6 @@ export const tweakConstants = {
   slug: "tweak-constants",
   definition: "what the interface tweaks call themselves, with the numbers they hold fixed",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.198Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

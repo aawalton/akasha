@@ -44,4 +44,6 @@ export const inventoryRulesDispatchBankDeposits = {
       statement: "A stock rule's lowest-priority items are banked first, so its first-listed stay.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.856Z",
+  updatedAt: "2026-09-27T15:47:35.000Z",
 } as const satisfies Module

@@ -13,4 +13,6 @@ export const tweakGlobal = {
         "A key on the global table is spelled as the markup that calls the key spells the key.",
     },
   ],
+  createdAt: "2026-09-02T07:46:08.200Z",
+  updatedAt: "2026-09-22T13:48:38.000Z",
 } as const satisfies Module

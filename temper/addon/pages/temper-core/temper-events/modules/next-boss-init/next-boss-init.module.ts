@@ -25,4 +25,6 @@ export const nextBossInit = {
       statement: "A slash command marks a district dead by its number on the round.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.346Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

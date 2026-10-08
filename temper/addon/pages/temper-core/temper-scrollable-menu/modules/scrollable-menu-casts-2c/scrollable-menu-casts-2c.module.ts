@@ -24,4 +24,6 @@ export const scrollableMenuCasts2c = {
       statement: "Membership of this part is decided by the alphabetical name of the target type.",
     },
   ],
+  createdAt: "2026-09-21T17:35:41.340Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

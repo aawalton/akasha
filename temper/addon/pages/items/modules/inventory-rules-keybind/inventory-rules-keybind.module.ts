@@ -6,4 +6,6 @@ export const inventoryRulesKeybind = {
   slug: "inventory-rules-keybind",
   definition: "the keybinds that toggle sell and lock on the hovered item",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.859Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

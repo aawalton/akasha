@@ -6,4 +6,6 @@ export const salesHistoryEventProcessor = {
   slug: "sales-history-event-processor",
   definition: "the processor an add-on asks for and the events that processor is handed",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.627Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

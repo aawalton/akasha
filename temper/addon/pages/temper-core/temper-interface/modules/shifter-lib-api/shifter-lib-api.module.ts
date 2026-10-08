@@ -6,4 +6,6 @@ export const shifterLibApi = {
   slug: "shifter-lib-api",
   definition: "the callable form of the library that builds a shifter box",
   code: "ts",
+  createdAt: "2026-09-02T09:50:46.348Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

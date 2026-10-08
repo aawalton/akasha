@@ -6,4 +6,6 @@ export const mapDataBuildTables = {
   slug: "map-data-build-tables",
   definition: "the lookups from map name, zone name and tile texture back to an id",
   code: "ts",
+  createdAt: "2026-09-02T11:29:35.405Z",
+  updatedAt: "2026-09-22T03:36:30.000Z",
 } as const satisfies Module

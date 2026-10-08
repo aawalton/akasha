@@ -26,4 +26,6 @@ export const hudAddonHideRegistry = {
         "A mechanism the catalog gains and the registry does not is refused at compile time.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const quietEntry = {
   slug: "quiet-entry",
   definition: "what the unwanted-message add-on hooks as the game loads it",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.952Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

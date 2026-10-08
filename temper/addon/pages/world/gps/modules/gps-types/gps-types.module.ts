@@ -6,4 +6,6 @@ export const gpsTypes = {
   slug: "gps-types",
   definition: "the shapes a measurement, a map adapter and the library object take",
   code: "ts",
+  createdAt: "2026-09-02T08:47:29.637Z",
+  updatedAt: "2026-09-22T03:58:40.000Z",
 } as const satisfies Module

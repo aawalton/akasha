@@ -7,4 +7,6 @@ export const leadsReporting = {
   definition: "the lead last found, and where the window says that lead is dug",
   code: "ts",
   decisions: [],
+  createdAt: "2026-09-02T14:10:09.674Z",
+  updatedAt: "2026-09-22T08:16:43.000Z",
 } as const satisfies Module

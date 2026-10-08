@@ -6,4 +6,6 @@ export const treasureBuildData = {
   slug: "treasure-build-data",
   definition: "the pin rows turned into an addon's lookups",
   code: "ts",
+  createdAt: "2026-09-02T11:16:37.694Z",
+  updatedAt: "2026-09-22T13:46:23.000Z",
 } as const satisfies Module

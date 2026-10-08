@@ -6,4 +6,6 @@ export const destinationsSettingsUnknownPoi = {
   slug: "destinations-settings-unknown-poi",
   definition: "the settings menu for unknown points of interest",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.130Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

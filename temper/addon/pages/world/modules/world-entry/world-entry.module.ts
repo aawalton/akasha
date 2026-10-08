@@ -32,4 +32,6 @@ export const worldEntry = {
       statement: "Navigation starts before the features that pin the map through it.",
     },
   ],
+  createdAt: "2026-09-22T01:51:02.275Z",
+  updatedAt: "2026-09-22T10:19:01.000Z",
 } as const satisfies Module

@@ -27,4 +27,6 @@ export const inventoryRulesDispatchOpenQueue = {
     },
   ],
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.858Z",
+  updatedAt: "2026-09-27T15:12:45.000Z",
 } as const satisfies Module

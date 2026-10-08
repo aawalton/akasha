@@ -6,4 +6,6 @@ export const shifterPublicApi = {
   slug: "shifter-public-api",
   definition: "the global name another addon uses for this library",
   code: "ts",
+  createdAt: "2026-09-02T09:50:46.348Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies Module

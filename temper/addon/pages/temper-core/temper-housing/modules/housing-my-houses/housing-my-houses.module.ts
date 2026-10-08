@@ -12,4 +12,6 @@ export const housingMyHouses = {
       statement: "A bought house may be ported to inside or at the front door.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.264Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

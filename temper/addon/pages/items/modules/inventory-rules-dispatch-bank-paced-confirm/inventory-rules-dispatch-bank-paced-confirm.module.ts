@@ -13,4 +13,6 @@ export const inventoryRulesDispatchBankPacedConfirm = {
         "A move landed where the stack left behind is no more than what the move was to leave.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.856Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

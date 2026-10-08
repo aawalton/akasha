@@ -16,4 +16,6 @@ export const hudAddonBuiltins = {
       statement: "A session that was never started is started as the fields are installed.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

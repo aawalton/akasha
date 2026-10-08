@@ -16,4 +16,6 @@ export const salesHistoryStatusTooltip = {
       statement: "Over the game's guild history, the same lines go in the game's own tooltip.",
     },
   ],
+  createdAt: "2026-09-02T10:08:20.635Z",
+  updatedAt: "2026-09-25T18:17:58.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const keybinderInit = {
       statement: "The bind button is held enabled so a bound key can be rebound.",
     },
   ],
+  createdAt: "2026-09-02T19:03:40.225Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

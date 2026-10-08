@@ -6,4 +6,6 @@ export const journalMain = {
   slug: "journal-main",
   definition: "the load order of the journal's modules",
   code: "ts",
+  createdAt: "2026-09-02T09:39:58.673Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

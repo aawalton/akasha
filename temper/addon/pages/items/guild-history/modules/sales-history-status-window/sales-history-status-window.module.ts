@@ -17,4 +17,6 @@ export const salesHistoryStatusWindow = {
       statement: "Each row shows its own history loading, so neither list shows a loading state.",
     },
   ],
+  createdAt: "2026-09-02T10:08:20.636Z",
+  updatedAt: "2026-09-25T18:56:37.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const inventoryCurrency = {
       statement: "A constant the running game does not define is skipped.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.850Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies Module

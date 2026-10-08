@@ -6,4 +6,6 @@ export const quietSettingsMessages = {
   slug: "quiet-settings-messages",
   definition: "the settings rows covering messages",
   code: "ts",
+  createdAt: "2026-09-02T07:07:09.002Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

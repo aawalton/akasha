@@ -6,4 +6,6 @@ export const shifterListClass = {
   slug: "shifter-list-class",
   definition: "the list prototype of each side of a shifter box",
   code: "ts",
+  createdAt: "2026-09-02T09:50:46.345Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

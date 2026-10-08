@@ -16,4 +16,6 @@ export const mapZoneAndSubzone = {
       statement: "Reading the player's position moves the map to the player first.",
     },
   ],
+  createdAt: "2026-09-02T04:30:52.895Z",
+  updatedAt: "2026-09-22T04:57:47.000Z",
 } as const satisfies Module

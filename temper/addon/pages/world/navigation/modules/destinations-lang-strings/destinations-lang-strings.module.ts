@@ -13,4 +13,6 @@ export const destinationsLangStrings = {
         "A name registered as a string id is a key of the settings strings, and no other name is.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.018Z",
+  updatedAt: "2026-09-22T11:23:01.000Z",
 } as const satisfies Module

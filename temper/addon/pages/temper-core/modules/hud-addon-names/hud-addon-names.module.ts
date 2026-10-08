@@ -6,4 +6,6 @@ export const hudAddonNames = {
   slug: "hud-addon-names",
   definition: "what this add-on calls itself to the game and to a settings panel",
   code: "ts",
+  createdAt: "2026-09-22T02:28:54.688Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

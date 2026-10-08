@@ -7,4 +7,6 @@ export const savedVarsLibOverrides = {
   definition:
     "the game's own saved variable constructors, wrapped to record what each constructor made",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.904Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

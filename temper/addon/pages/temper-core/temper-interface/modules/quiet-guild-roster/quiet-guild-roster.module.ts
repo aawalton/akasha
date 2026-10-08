@@ -6,4 +6,6 @@ export const quietGuildRoster = {
   slug: "quiet-guild-roster",
   definition: "the guild roster alerts the add-on has back",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.956Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

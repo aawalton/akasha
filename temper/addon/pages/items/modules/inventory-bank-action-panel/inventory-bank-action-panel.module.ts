@@ -16,4 +16,6 @@ export const inventoryBankActionPanel = {
       statement: "No verdict this panel shows outlives the sweep that judged it.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.847Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

@@ -7,4 +7,6 @@ export const inventoryExplainMatchContext = {
   definition:
     "the facts about an item that a rule's conditions are worded against when it is explained",
   code: "ts",
+  createdAt: "2026-09-02T13:42:13.646Z",
+  updatedAt: "2026-09-22T10:19:01.000Z",
 } as const satisfies Module

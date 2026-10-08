@@ -7,4 +7,6 @@ export const savedVarsProtected = {
   definition:
     "the path into a saved variable table, and the copy a migration makes along that path",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.899Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

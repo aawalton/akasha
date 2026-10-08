@@ -20,4 +20,6 @@ export const notificationTypes = {
       statement: "The only call offered a caller makes a link table.",
     },
   ],
+  createdAt: "2026-09-02T04:21:47.415Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

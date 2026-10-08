@@ -25,4 +25,6 @@ export const inventoryTraitLookup = {
       statement: "The tables are built the first time a trait is asked for, and held after.",
     },
   ],
+  createdAt: "2026-09-27T03:40:49.769Z",
+  updatedAt: "2026-09-27T05:40:50.000Z",
 } as const satisfies Module

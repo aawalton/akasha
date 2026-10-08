@@ -12,4 +12,6 @@ export const chatLinks = {
       statement: "A link of a type no addon registered is rewritten as an unknown link.",
     },
   ],
+  createdAt: "2026-09-02T04:28:22.678Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const housingVisitCardsRender = {
       statement: "A received card is kept in saved variables until the player removes that card.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.270Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

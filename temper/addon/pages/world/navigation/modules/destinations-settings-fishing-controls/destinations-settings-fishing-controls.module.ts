@@ -6,4 +6,6 @@ export const destinationsSettingsFishingControls = {
   slug: "destinations-settings-fishing-controls",
   definition: "the fishing settings menu's repeated controls",
   code: "ts",
+  createdAt: "2026-09-22T11:34:19.825Z",
+  updatedAt: "2026-09-22T14:13:12.000Z",
 } as const satisfies Module

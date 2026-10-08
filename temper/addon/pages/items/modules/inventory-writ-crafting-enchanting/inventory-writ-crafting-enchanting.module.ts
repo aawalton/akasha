@@ -6,4 +6,6 @@ export const inventoryWritCraftingEnchanting = {
   slug: "inventory-writ-crafting-enchanting",
   definition: "resolving an enchanting writ or master writ into the runes it needs",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.861Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

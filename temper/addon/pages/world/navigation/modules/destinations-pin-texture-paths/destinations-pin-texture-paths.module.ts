@@ -20,4 +20,6 @@ export const destinationsPinTexturePaths = {
       statement: "Every achievement pin kind shares the achievement icon.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.092Z",
+  updatedAt: "2026-09-25T18:04:53.000Z",
 } as const satisfies Module

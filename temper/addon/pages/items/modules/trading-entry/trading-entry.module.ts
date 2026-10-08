@@ -22,4 +22,6 @@ export const tradingEntry = {
         "Pressing the button again, the search's close, or leaving the store hides the search.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.386Z",
+  updatedAt: "2026-09-26T13:31:12.000Z",
 } as const satisfies Module

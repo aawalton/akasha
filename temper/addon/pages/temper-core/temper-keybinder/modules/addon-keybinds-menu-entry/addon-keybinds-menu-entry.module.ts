@@ -28,4 +28,6 @@ export const addonKeybindsMenuEntry = {
       statement: "Resetting the menu tree leaves the panel as though unselected.",
     },
   ],
+  createdAt: "2026-09-02T04:21:47.418Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

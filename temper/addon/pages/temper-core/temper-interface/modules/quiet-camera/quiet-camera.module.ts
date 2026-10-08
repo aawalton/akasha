@@ -6,4 +6,6 @@ export const quietCamera = {
   slug: "quiet-camera",
   definition: "the game's own camera spin and chat minimise, as this add-on sets them",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.946Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const salesHistoryLegacyEventListenerApi = {
   slug: "sales-history-legacy-event-listener-api",
   definition: "the calls an add-on makes on an older listener",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.631Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

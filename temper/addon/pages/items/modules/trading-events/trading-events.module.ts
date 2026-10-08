@@ -12,4 +12,6 @@ export const tradingEvents = {
       statement: "Every listener is named after the add-on so a reload can drop those listeners.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.386Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies Module

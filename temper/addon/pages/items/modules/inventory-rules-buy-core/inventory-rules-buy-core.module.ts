@@ -30,4 +30,6 @@ export const inventoryRulesBuyCore = {
         "What is bought never passes the shortfall, the store's limit or the gold carried.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.854Z",
+  updatedAt: "2026-09-27T14:37:56.000Z",
 } as const satisfies Module

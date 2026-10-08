@@ -6,4 +6,6 @@ export const tweakCollectiblesTooltips = {
   slug: "tweak-collectibles-tooltips",
   definition: "the collectible tooltip lines the interface tweaks add",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.197Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

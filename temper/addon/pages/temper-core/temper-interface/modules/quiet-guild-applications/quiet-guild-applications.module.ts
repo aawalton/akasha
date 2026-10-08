@@ -6,4 +6,6 @@ export const quietGuildApplications = {
   slug: "quiet-guild-applications",
   definition: "the guild application notification the add-on hides",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.953Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

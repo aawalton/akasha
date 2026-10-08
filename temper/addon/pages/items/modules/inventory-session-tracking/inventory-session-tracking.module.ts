@@ -6,4 +6,6 @@ export const inventorySessionTracking = {
   slug: "inventory-session-tracking",
   definition: "the net-worth change over the session and the burst shown when it moves",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.860Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const scrollableMenuDropdownClassFilter = {
       statement: "The sort toggle and the edit box and slider change handlers sit alongside.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.263Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

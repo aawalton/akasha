@@ -25,4 +25,6 @@ export const hudAddonEntry = {
       statement: "The session is started again on the first player activation of a login.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-25T14:44:51.000Z",
 } as const satisfies Module

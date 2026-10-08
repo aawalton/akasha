@@ -6,4 +6,6 @@ export const selectorPacks = {
   slug: "selector-packs",
   definition: "packs saved, loaded and deleted against the game's add-on manager",
   code: "ts",
+  createdAt: "2026-09-02T11:44:59.557Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

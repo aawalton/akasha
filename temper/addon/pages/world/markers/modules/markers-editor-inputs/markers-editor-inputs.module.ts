@@ -6,4 +6,6 @@ export const markersEditorInputs = {
   slug: "markers-editor-inputs",
   definition: "the editor's fields and buttons joined to what they change",
   code: "ts",
+  createdAt: "2026-09-26T16:21:04.459Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

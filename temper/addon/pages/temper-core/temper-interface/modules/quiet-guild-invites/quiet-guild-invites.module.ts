@@ -6,4 +6,6 @@ export const quietGuildInvites = {
   slug: "quiet-guild-invites",
   definition: "the guild invitation notifications the add-on hides",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.954Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

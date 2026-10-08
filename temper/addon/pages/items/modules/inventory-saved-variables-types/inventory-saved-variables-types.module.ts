@@ -6,4 +6,6 @@ export const inventorySavedVariablesTypes = {
   slug: "inventory-saved-variables-types",
   definition: "the shapes of the saved database, the diagnostics and the settings",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.861Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

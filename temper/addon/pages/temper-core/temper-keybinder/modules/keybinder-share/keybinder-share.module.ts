@@ -25,4 +25,6 @@ export const keybinderShare = {
       statement: "A hidden action is passed over.",
     },
   ],
+  createdAt: "2026-09-02T19:03:40.225Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

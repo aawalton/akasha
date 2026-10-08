@@ -16,4 +16,6 @@ export const inventoryCategoryTree = {
       statement: "The tree is built the first time it is asked for, and held after.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.850Z",
+  updatedAt: "2026-09-27T03:36:37.000Z",
 } as const satisfies Module

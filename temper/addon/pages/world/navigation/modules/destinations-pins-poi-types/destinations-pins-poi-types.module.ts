@@ -7,4 +7,6 @@ export const destinationsPinsPoiTypes = {
   definition:
     "the point-of-interest kinds, their names and the achievement each zone counts toward",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.075Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

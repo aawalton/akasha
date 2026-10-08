@@ -16,4 +16,6 @@ export const mainMenuKeyboard = {
       statement: "Every reach for the game's menu goes through this one module.",
     },
   ],
+  createdAt: "2026-09-02T04:23:42.851Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

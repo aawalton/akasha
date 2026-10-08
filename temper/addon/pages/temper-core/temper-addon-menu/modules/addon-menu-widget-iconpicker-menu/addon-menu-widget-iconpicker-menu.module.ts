@@ -24,4 +24,6 @@ export const addonMenuWidgetIconpickerMenu = {
       statement: "The menu is a top-level window rather than a child of the picker control.",
     },
   ],
+  createdAt: "2026-09-02T07:23:05.088Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

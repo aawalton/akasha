@@ -19,4 +19,6 @@ export const inventoryBackpackBuffer = {
         "An open whose loot takes no more slots than it empties needs no room above the buffer.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.846Z",
+  updatedAt: "2026-09-27T15:23:28.000Z",
 } as const satisfies Module

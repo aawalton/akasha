@@ -16,4 +16,6 @@ export const customMenuPublicApi = {
       statement: "A checkbox entry is indented by a fixed-width space.",
     },
   ],
+  createdAt: "2026-09-02T04:22:08.671Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

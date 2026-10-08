@@ -12,4 +12,6 @@ export const housingMenuState = {
       statement: "The panel is described before the settings library is there to read the panel.",
     },
   ],
+  createdAt: "2026-09-02T07:44:37.329Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

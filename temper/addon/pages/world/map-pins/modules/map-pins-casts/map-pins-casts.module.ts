@@ -6,4 +6,6 @@ export const mapPinsCasts = {
   slug: "map-pins-casts",
   definition: "what an untyped map pin value the game hands over is taken to be",
   code: "ts",
+  createdAt: "2026-09-02T04:30:52.893Z",
+  updatedAt: "2026-09-22T04:57:47.000Z",
 } as const satisfies Module

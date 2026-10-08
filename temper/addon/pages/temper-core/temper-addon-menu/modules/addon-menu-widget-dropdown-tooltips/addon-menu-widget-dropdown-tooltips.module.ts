@@ -24,4 +24,6 @@ export const addonMenuWidgetDropdownTooltips = {
       statement: "An empty tooltip opens no window.",
     },
   ],
+  createdAt: "2026-09-11T02:55:13.518Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

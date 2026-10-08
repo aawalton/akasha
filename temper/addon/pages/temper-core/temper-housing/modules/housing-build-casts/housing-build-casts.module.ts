@@ -16,4 +16,6 @@ export const housingBuildCasts = {
       statement: "A cast is how the ported add-on reaches a control the game types loosely.",
     },
   ],
+  createdAt: "2026-09-02T07:44:37.325Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

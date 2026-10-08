@@ -12,4 +12,6 @@ export const destinationsSavedVariables = {
       statement: "A saved choice of pin art is read as the one piece of art each kind has.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.099Z",
+  updatedAt: "2026-09-25T18:04:53.000Z",
 } as const satisfies Module

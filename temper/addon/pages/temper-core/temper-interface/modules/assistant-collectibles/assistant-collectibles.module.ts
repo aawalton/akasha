@@ -16,4 +16,6 @@ export const assistantCollectibles = {
       statement: "Each id is copied rather than worked out.",
     },
   ],
+  createdAt: "2026-09-02T06:55:53.835Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -33,4 +33,6 @@ export const inventoryRulesDispatchBuy = {
       statement: "A rule short of its target that buys nothing says why in chat.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.857Z",
+  updatedAt: "2026-09-27T14:37:56.000Z",
 } as const satisfies Module

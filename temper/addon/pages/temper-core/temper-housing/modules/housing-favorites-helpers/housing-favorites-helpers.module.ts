@@ -12,4 +12,6 @@ export const housingFavoritesHelpers = {
       statement: "A favourite's place in the saved list is the number a keybind ports to.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.260Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

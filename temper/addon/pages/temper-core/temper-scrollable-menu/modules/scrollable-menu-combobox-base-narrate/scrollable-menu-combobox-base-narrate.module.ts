@@ -24,4 +24,6 @@ export const scrollableMenuComboboxBaseNarrate = {
       statement: "The addon callback must return a string for anything to be spoken.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.261Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const shifterTypes = {
   slug: "shifter-types",
   definition: "the shapes of a shifter box, a list and a row",
   code: "ts",
+  createdAt: "2026-09-02T09:50:46.339Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Module

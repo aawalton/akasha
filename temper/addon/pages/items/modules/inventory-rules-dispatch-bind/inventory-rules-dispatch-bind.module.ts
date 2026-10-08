@@ -32,4 +32,6 @@ export const inventoryRulesDispatchBind = {
       statement: "A bound item cannot be traded.",
     },
   ],
+  createdAt: "2026-10-08T14:26:23.423Z",
+  updatedAt: "2026-10-08T14:26:37.000Z",
 } as const satisfies Module

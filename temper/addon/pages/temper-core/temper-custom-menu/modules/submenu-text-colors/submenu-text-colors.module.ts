@@ -6,4 +6,6 @@ export const submenuTextColors = {
   slug: "submenu-text-colors",
   definition: "the interface colors a sub-menu row's text takes",
   code: "ts",
+  createdAt: "2026-09-02T04:22:08.672Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

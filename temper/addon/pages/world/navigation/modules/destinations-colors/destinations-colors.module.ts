@@ -6,4 +6,6 @@ export const destinationsColors = {
   slug: "destinations-colors",
   definition: "the colours tinting and titling each destination pin kind",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.009Z",
+  updatedAt: "2026-09-22T13:46:23.000Z",
 } as const satisfies Module

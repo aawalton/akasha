@@ -6,4 +6,6 @@ export const quietStrings = {
   slug: "quiet-strings",
   definition: "the text the unwanted-message add-on shows a player",
   code: "ts",
+  createdAt: "2026-09-02T07:07:09.007Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

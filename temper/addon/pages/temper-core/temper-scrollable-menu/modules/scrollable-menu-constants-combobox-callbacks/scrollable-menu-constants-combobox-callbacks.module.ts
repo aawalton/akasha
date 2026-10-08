@@ -16,4 +16,6 @@ export const scrollableMenuConstantsComboboxCallbacks = {
       statement: "A negative maximum selection count is treated as no limit.",
     },
   ],
+  createdAt: "2026-09-21T15:03:42.857Z",
+  updatedAt: "2026-09-22T10:12:24.000Z",
 } as const satisfies Module

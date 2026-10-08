@@ -16,4 +16,6 @@ export const hudAddonCommandRegistry = {
       statement: "A command is found by the name that command registered under.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

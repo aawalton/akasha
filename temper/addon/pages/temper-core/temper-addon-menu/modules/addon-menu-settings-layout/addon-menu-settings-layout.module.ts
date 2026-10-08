@@ -16,4 +16,6 @@ export const addonMenuSettingsLayout = {
       statement: "The list and the buttons the window holds are built by the modules owning them.",
     },
   ],
+  createdAt: "2026-09-22T05:48:26.369Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

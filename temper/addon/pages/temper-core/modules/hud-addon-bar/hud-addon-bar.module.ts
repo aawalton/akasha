@@ -33,4 +33,6 @@ export const hudAddonBar = {
         "A cell is at least a column wide and right-aligned, so cells sit the major step apart.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-25T21:25:08.000Z",
 } as const satisfies Module

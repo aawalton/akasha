@@ -16,4 +16,6 @@ export const errorsAddonLimits = {
       statement: "A callstack beyond 1900 characters ends in an ellipsis.",
     },
   ],
+  createdAt: "2026-09-02T06:39:25.975Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const addonKeybindsNames = {
       statement: "A row type number is taken from the game's own keybinding list.",
     },
   ],
+  createdAt: "2026-09-02T04:21:47.419Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

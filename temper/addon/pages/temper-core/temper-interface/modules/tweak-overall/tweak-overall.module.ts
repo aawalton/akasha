@@ -6,4 +6,6 @@ export const tweakOverall = {
   slug: "tweak-overall",
   definition: "the interface-wide tweaks that belong to no one window",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.207Z",
+  updatedAt: "2026-09-22T10:25:02.000Z",
 } as const satisfies Module

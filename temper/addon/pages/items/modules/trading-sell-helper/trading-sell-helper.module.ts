@@ -31,4 +31,6 @@ export const tradingSellHelper = {
       statement: "An item a posting flow sets pending opens no price window.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.389Z",
+  updatedAt: "2026-09-26T15:33:14.000Z",
 } as const satisfies Module

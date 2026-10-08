@@ -20,4 +20,6 @@ export const asyncConstants = {
       statement: "A delay is written in milliseconds.",
     },
   ],
+  createdAt: "2026-09-02T04:39:21.940Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies Module

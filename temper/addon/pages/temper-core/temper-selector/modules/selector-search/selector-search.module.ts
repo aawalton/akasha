@@ -6,4 +6,6 @@ export const selectorSearch = {
   slug: "selector-search",
   definition: "the add-on list scrolled to the next row whose name matches what was typed",
   code: "ts",
+  createdAt: "2026-09-02T11:44:59.557Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

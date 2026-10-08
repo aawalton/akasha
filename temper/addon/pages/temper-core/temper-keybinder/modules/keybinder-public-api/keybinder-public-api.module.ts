@@ -16,4 +16,6 @@ export const keybinderPublicApi = {
       statement: "The global has the one toggle and nothing more.",
     },
   ],
+  createdAt: "2026-09-02T19:03:40.225Z",
+  updatedAt: "2026-09-22T13:48:38.000Z",
 } as const satisfies Module

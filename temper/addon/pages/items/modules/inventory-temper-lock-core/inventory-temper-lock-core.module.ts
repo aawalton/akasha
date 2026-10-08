@@ -6,4 +6,6 @@ export const inventoryTemperLockCore = {
   slug: "inventory-temper-lock-core",
   definition: "which lock keys are valid, which should be seeded, and which are stale",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.860Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

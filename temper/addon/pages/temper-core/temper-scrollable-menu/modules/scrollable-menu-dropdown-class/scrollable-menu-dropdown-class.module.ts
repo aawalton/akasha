@@ -24,4 +24,6 @@ export const scrollableMenuDropdownClass = {
       statement: "The dropdown control is created from a virtual template parented to GuiRoot.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.263Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

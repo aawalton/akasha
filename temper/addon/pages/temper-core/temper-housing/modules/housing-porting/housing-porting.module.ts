@@ -20,4 +20,6 @@ export const housingPorting = {
       statement: "A key bound to a favorite slot holding no house says so.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.265Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const housingSettingsMenu = {
       statement: "A setting is written to saved variables as the player changes the setting.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.266Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

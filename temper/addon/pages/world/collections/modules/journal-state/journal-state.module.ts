@@ -6,4 +6,6 @@ export const journalState = {
   slug: "journal-state",
   definition: "the two tables holding every other module's work",
   code: "ts",
+  createdAt: "2026-09-02T09:39:58.675Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Module

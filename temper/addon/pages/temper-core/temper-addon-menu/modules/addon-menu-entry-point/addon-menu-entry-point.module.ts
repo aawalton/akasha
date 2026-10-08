@@ -16,4 +16,6 @@ export const addonMenuEntryPoint = {
       statement: "The file is one line long.",
     },
   ],
+  createdAt: "2026-09-02T07:23:05.088Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

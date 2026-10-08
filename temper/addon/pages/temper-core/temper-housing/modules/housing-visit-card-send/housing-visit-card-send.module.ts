@@ -6,4 +6,6 @@ export const housingVisitCardSend = {
   slug: "housing-visit-card-send",
   definition: "sending a visit card to a friend, a guild or a zone",
   code: "ts",
+  createdAt: "2026-09-02T08:07:41.269Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

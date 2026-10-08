@@ -12,4 +12,6 @@ export const tradingSellPriceStore = {
       statement: "A price is kept per item link rather than per stack.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.389Z",
+  updatedAt: "2026-09-22T02:36:59.000Z",
 } as const satisfies Module

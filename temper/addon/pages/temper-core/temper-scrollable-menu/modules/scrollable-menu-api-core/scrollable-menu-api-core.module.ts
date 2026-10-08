@@ -25,4 +25,6 @@ export const scrollableMenuApiCore = {
       statement: "A divider entry has its callback discarded.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.258Z",
+  updatedAt: "2026-09-22T10:12:24.000Z",
 } as const satisfies Module

@@ -27,4 +27,6 @@ export const housingControlStyle = {
         "A list styles the rows it makes each time it fills, so a row made later looks the same.",
     },
   ],
+  createdAt: "2026-09-25T19:58:55.956Z",
+  updatedAt: "2026-09-25T19:59:03.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const housingConstants = {
       statement: "A number saved under a player's settings keeps the meaning that number had.",
     },
   ],
+  createdAt: "2026-09-02T07:44:37.325Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

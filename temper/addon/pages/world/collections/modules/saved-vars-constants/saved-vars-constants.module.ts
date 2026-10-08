@@ -6,4 +6,6 @@ export const savedVarsConstants = {
   slug: "saved-vars-constants",
   definition: "the key types and the scope numbers this library names",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.897Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

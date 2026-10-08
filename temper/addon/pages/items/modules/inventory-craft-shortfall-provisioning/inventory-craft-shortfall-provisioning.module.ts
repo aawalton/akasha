@@ -33,4 +33,6 @@ export const inventoryCraftShortfallProvisioning = {
       statement: "A rank a recipe needs is checked before the yield passive.",
     },
   ],
+  createdAt: "2026-09-24T18:28:38.298Z",
+  updatedAt: "2026-09-24T18:30:13.000Z",
 } as const satisfies Module

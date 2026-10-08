@@ -6,4 +6,6 @@ export const destinationsSettingsMiscPoiIcons = {
   slug: "destinations-settings-misc-poi-icons",
   definition: "the settings menu for the misc pins that pick an icon of their own",
   code: "ts",
+  createdAt: "2026-09-22T11:34:57.834Z",
+  updatedAt: "2026-09-22T11:37:03.000Z",
 } as const satisfies Module

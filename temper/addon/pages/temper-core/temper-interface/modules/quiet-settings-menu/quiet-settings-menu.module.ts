@@ -6,4 +6,6 @@ export const quietSettingsMenu = {
   slug: "quiet-settings-menu",
   definition: "the settings panel the unwanted-message add-on registers",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.999Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

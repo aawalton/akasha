@@ -21,4 +21,6 @@ export const tweakMailMassDelete = {
       statement: "At that count the next deletion waits for the oldest of them to age out.",
     },
   ],
+  createdAt: "2026-09-02T07:46:08.205Z",
+  updatedAt: "2026-09-27T15:11:21.000Z",
 } as const satisfies Module

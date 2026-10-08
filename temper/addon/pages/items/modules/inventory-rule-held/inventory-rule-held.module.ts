@@ -22,4 +22,6 @@ export const inventoryRuleHeld = {
         "A rule's target is its stock chain's target for the characters its by-priority leg takes.",
     },
   ],
+  createdAt: "2026-09-27T13:37:17.741Z",
+  updatedAt: "2026-09-27T13:37:31.000Z",
 } as const satisfies Module

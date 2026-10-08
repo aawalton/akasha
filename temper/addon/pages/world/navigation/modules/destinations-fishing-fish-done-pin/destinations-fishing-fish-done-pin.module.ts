@@ -6,4 +6,6 @@ export const destinationsFishingFishDonePin = {
   slug: "destinations-fishing-fish-done-pin",
   definition: "the pins for fishing holes whose fish are all caught",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.049Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

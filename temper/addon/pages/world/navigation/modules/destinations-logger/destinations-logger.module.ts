@@ -6,4 +6,6 @@ export const destinationsLogger = {
   slug: "destinations-logger",
   definition: "how the destinations half writes to the chat and the debug log",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.020Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

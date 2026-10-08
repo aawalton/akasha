@@ -24,4 +24,6 @@ export const scrollableMenuDropdownClassShowFilter = {
       statement: "An entry may opt out of filtering through a doNotFilter callback.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.264Z",
+  updatedAt: "2026-09-22T10:19:01.000Z",
 } as const satisfies Module

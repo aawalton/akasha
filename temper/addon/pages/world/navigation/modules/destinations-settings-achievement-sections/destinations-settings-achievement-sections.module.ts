@@ -6,4 +6,6 @@ export const destinationsSettingsAchievementSections = {
   slug: "destinations-settings-achievement-sections",
   definition: "the controls of an achievement pin kind's settings section",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.108Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Module

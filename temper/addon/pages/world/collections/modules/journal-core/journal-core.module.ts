@@ -6,4 +6,6 @@ export const journalCore = {
   slug: "journal-core",
   definition: "showing the window and taking a tab a tracker registers",
   code: "ts",
+  createdAt: "2026-09-02T09:39:58.671Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

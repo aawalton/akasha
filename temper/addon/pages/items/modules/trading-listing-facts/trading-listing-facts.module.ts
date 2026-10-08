@@ -20,4 +20,6 @@ export const tradingListingFacts = {
       statement: "A script's item is read off the script pages compiled into the add-on.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.387Z",
+  updatedAt: "2026-09-26T19:13:19.000Z",
 } as const satisfies Module

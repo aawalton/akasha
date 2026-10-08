@@ -6,4 +6,6 @@ export const mapDataTable = {
   slug: "map-data-table",
   definition: "the whole of what upstream states about every zone and every map index",
   code: "ts",
+  createdAt: "2026-09-02T11:29:35.401Z",
+  updatedAt: "2026-09-22T03:36:30.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const markersCodec = {
       statement: "A profile is saved as pieces of at most 1900 characters.",
     },
   ],
+  createdAt: "2026-09-26T16:21:04.459Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

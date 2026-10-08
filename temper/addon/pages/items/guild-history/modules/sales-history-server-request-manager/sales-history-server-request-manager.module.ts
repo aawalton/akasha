@@ -6,4 +6,6 @@ export const salesHistoryServerRequestManager = {
   slug: "sales-history-server-request-manager",
   definition: "the queue deciding which server request goes next",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.634Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

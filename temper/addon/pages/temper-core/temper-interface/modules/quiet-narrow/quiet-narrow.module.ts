@@ -6,4 +6,6 @@ export const quietNarrow = {
   slug: "quiet-narrow",
   definition: "the tests telling what an unknown value is",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.977Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

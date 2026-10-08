@@ -25,4 +25,6 @@ export const scrollableMenuUtilHighlight = {
         "A row whose highlight template is not a string falls back to the library default.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.265Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

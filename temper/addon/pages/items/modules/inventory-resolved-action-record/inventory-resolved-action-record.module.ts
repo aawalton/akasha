@@ -28,4 +28,6 @@ export const inventoryResolvedActionRecord = {
       statement: "A record says when the rules resolved the item, and a rescan keeps that time.",
     },
   ],
+  createdAt: "2026-09-13T09:34:32.241Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const mapDataPublicApi = {
       statement: "A feature outside this one names this module and no other module here.",
     },
   ],
+  createdAt: "2026-09-02T11:29:35.409Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies Module

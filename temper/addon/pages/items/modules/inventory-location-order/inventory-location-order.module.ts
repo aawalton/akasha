@@ -20,4 +20,6 @@ export const inventoryLocationOrder = {
       statement: "The order is built the first time it is asked for, and held after.",
     },
   ],
+  createdAt: "2026-09-27T02:09:46.532Z",
+  updatedAt: "2026-09-27T02:18:10.000Z",
 } as const satisfies Module

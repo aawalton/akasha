@@ -12,4 +12,6 @@ export const addonKeybindsCasts = {
       statement: "Nothing here checks a value at run time.",
     },
   ],
+  createdAt: "2026-09-02T04:21:47.419Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

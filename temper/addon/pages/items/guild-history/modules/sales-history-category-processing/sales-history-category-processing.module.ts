@@ -6,4 +6,6 @@ export const salesHistoryCategoryProcessing = {
   slug: "sales-history-category-processing",
   definition: "the cached events a category works through in the background",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.623Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

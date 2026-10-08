@@ -6,4 +6,6 @@ export const savedVarsCasts = {
   slug: "saved-vars-casts",
   definition: "the narrowings reading the untyped saved variable tables",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.897Z",
+  updatedAt: "2026-09-22T13:49:49.000Z",
 } as const satisfies Module

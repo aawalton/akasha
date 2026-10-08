@@ -12,4 +12,6 @@ export const destinationsPinsTooltips = {
       statement: "A pin's tooltip carries the same lines by gamepad as by keyboard.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.088Z",
+  updatedAt: "2026-09-25T18:35:33.000Z",
 } as const satisfies Module

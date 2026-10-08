@@ -105,4 +105,6 @@ export const inventoryAssistantChain = {
       statement: "Which assistant fills which role is written here rather than read from the game.",
     },
   ],
+  createdAt: "2026-09-22T14:59:46.622Z",
+  updatedAt: "2026-09-26T18:05:08.000Z",
 } as const satisfies Module

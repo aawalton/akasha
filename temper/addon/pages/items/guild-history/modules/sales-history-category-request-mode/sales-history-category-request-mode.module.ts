@@ -6,4 +6,6 @@ export const salesHistoryCategoryRequestMode = {
   slug: "sales-history-category-request-mode",
   definition: "whether a category asks the server for more events",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.624Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const inventoryBrowserTypes = {
   slug: "inventory-browser-types",
   definition: "the shapes of a browser row, its filter state, and the views it can be narrowed to",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.849Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

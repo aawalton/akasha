@@ -16,4 +16,6 @@ export const errorsAddonEntry = {
       statement: "Saved variables are opened through the capture writer.",
     },
   ],
+  createdAt: "2026-09-02T06:39:25.978Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

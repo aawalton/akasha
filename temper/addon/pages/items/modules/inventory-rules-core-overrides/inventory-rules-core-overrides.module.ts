@@ -6,4 +6,6 @@ export const inventoryRulesCoreOverrides = {
   slug: "inventory-rules-core-overrides",
   definition: "whether an item is already known or can be unlocked, so a rule can be overridden",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.855Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

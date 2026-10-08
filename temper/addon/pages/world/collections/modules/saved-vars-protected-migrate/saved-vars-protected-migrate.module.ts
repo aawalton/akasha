@@ -6,4 +6,6 @@ export const savedVarsProtectedMigrate = {
   slug: "saved-vars-protected-migrate",
   definition: "the copy that spreads a server's settings across every megaserver profile",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.899Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Module

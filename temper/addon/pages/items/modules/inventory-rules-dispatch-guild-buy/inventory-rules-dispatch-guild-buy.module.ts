@@ -70,4 +70,6 @@ export const inventoryRulesDispatchGuildBuy = {
       statement: "Closing the guild store ends buying there.",
     },
   ],
+  createdAt: "2026-09-27T14:44:17.997Z",
+  updatedAt: "2026-09-27T14:44:32.000Z",
 } as const satisfies Module

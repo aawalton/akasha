@@ -12,4 +12,6 @@ export const tradingSearchRequestNative = {
       statement: "The game's own search does the narrowing the filters ask for.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.388Z",
+  updatedAt: "2026-09-22T02:36:59.000Z",
 } as const satisfies Module

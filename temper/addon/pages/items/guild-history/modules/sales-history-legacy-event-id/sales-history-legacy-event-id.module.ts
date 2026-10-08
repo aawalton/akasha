@@ -6,4 +6,6 @@ export const salesHistoryLegacyEventId = {
   slug: "sales-history-legacy-event-id",
   definition: "an event id turned into the 64 bit id the older library used",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.630Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

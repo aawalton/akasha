@@ -22,4 +22,6 @@ export const inventoryBrowserCategoryDefs = {
       statement: "A category matches items the way its page's match names.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.848Z",
+  updatedAt: "2026-09-27T04:37:17.000Z",
 } as const satisfies Module

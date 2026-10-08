@@ -20,4 +20,6 @@ export const scrollableMenuDebugLoggingToggle = {
       statement: "The toggle persists nothing across sessions.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.263Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

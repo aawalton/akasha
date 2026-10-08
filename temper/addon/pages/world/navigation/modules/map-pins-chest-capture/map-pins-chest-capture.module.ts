@@ -6,4 +6,6 @@ export const mapPinsChestCapture = {
   slug: "map-pins-chest-capture",
   definition: "the chest the player opens recorded by its place on the map",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.137Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

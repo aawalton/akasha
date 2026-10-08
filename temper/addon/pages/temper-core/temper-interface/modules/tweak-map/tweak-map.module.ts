@@ -12,4 +12,6 @@ export const tweakMap = {
       statement: "No shared guard stands behind the table guards here.",
     },
   ],
+  createdAt: "2026-09-02T07:46:08.207Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

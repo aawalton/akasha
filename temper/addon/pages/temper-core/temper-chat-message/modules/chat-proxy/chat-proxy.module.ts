@@ -20,4 +20,6 @@ export const chatProxy = {
       statement: "A disabled proxy prints nothing.",
     },
   ],
+  createdAt: "2026-09-02T04:28:22.678Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

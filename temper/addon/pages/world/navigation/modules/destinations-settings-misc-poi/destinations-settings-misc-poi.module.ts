@@ -6,4 +6,6 @@ export const destinationsSettingsMiscPoi = {
   slug: "destinations-settings-misc-poi",
   definition: "the settings menu for wells, ruins, shrines and altars",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.126Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

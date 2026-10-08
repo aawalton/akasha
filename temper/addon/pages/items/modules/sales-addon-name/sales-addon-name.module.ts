@@ -12,4 +12,6 @@ export const salesAddonName = {
       statement: "Nothing here reaches the game.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.681Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

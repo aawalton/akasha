@@ -6,4 +6,6 @@ export const tweakPanelBattleground = {
   slug: "tweak-panel-battleground",
   definition: "the settings rows covering battlegrounds",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.208Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const inventoryTooltipRuleLine = {
       statement: "What is sent on is reckoned by the rule the bank deposits by.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.860Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

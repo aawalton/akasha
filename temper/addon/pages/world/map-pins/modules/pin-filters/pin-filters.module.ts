@@ -24,4 +24,6 @@ export const pinFilters = {
       statement: "A hidden filter checkbox is pulled up by its own height.",
     },
   ],
+  createdAt: "2026-09-02T04:30:52.896Z",
+  updatedAt: "2026-09-22T04:57:47.000Z",
 } as const satisfies Module

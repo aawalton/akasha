@@ -21,4 +21,6 @@ export const leadsTooltips = {
       statement: "A lead's popover names the set piece the antiquity makes and its first bonus.",
     },
   ],
+  createdAt: "2026-09-02T14:10:09.674Z",
+  updatedAt: "2026-09-25T18:27:43.000Z",
 } as const satisfies Module

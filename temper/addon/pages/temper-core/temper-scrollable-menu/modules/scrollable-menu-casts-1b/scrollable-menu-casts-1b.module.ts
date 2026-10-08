@@ -25,4 +25,6 @@ export const scrollableMenuCasts1b = {
       statement: "Method-bearing shapes are spelled out inline as structural object types.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.259Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

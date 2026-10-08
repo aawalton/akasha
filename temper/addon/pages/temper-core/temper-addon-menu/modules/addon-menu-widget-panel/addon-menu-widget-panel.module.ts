@@ -34,4 +34,6 @@ export const addonMenuWidgetPanel = {
       statement: "An id a foreign addon gives names no global of its own.",
     },
   ],
+  createdAt: "2026-09-02T07:23:05.088Z",
+  updatedAt: "2026-09-22T15:20:13.000Z",
 } as const satisfies Module

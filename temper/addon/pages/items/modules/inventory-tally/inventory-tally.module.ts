@@ -6,4 +6,6 @@ export const inventoryTally = {
   slug: "inventory-tally",
   definition: "adding a count to a key of a running tally",
   code: "ts",
+  createdAt: "2026-09-02T13:55:23.322Z",
+  updatedAt: "2026-09-22T10:12:24.000Z",
 } as const satisfies Module

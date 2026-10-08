@@ -20,4 +20,6 @@ export const nextBossState = {
       statement: "The table is cast rather than built.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.342Z",
+  updatedAt: "2026-09-22T10:12:24.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const destinationsPinsColorDefs = {
   slug: "destinations-pins-color-defs",
   definition: "the colour definitions built from the saved colour settings",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.034Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

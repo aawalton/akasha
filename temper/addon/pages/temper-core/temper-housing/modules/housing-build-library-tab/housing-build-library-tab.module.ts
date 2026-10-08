@@ -12,4 +12,6 @@ export const housingBuildLibraryTab = {
       statement: "Controls are built once and hidden rather than made again.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.252Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

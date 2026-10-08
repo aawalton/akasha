@@ -20,4 +20,6 @@ export const keybinderBindingFns = {
       statement: "The add-on does nothing where neither way of binding is open to the add-on.",
     },
   ],
+  createdAt: "2026-09-02T19:03:40.225Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

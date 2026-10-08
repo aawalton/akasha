@@ -54,4 +54,6 @@ export const inventoryCraftShortfallAlchemy = {
       statement: "Potions and poisons both need Chemistry at its full rank.",
     },
   ],
+  createdAt: "2026-09-24T18:31:07.495Z",
+  updatedAt: "2026-09-24T18:45:06.000Z",
 } as const satisfies Module

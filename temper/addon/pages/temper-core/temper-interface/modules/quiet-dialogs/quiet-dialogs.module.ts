@@ -6,4 +6,6 @@ export const quietDialogs = {
   slug: "quiet-dialogs",
   definition: "the confirmation dialogs the add-on answers without showing",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.950Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

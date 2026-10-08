@@ -20,4 +20,6 @@ export const chatHistory = {
       statement: "A replayed event is stored no second time.",
     },
   ],
+  createdAt: "2026-09-02T04:28:22.678Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

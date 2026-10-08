@@ -12,4 +12,6 @@ export const tradingPrune = {
       statement: "A listing older than the expiry is no longer among the guild store's listings.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.387Z",
+  updatedAt: "2026-09-22T02:36:59.000Z",
 } as const satisfies Module

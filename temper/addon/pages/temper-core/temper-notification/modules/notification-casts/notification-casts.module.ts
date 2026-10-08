@@ -12,4 +12,6 @@ export const notificationCasts = {
       statement: "Nothing here checks a value at run time.",
     },
   ],
+  createdAt: "2026-09-02T04:21:47.414Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

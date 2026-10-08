@@ -6,4 +6,6 @@ export const salesHistoryLegacyConstants = {
   slug: "sales-history-legacy-constants",
   definition: "the older library's constants put back in the global table",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.630Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

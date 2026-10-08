@@ -6,4 +6,6 @@ export const mapPinsConstants = {
   slug: "map-pins-constants",
   definition: "a custom map pin's fixed values",
   code: "ts",
+  createdAt: "2026-09-02T04:30:52.893Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const destinationsLangSettingsEs = {
       statement: "The table is the sets joined in order.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.346Z",
+  updatedAt: "2026-09-22T14:19:07.000Z",
 } as const satisfies Module

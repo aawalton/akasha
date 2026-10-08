@@ -40,4 +40,6 @@ export const inventoryVenueExit = {
       statement: "Which interaction each venue is is written here rather than read from the game.",
     },
   ],
+  createdAt: "2026-09-23T03:14:59.999Z",
+  updatedAt: "2026-09-26T18:05:35.000Z",
 } as const satisfies Module

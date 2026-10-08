@@ -46,4 +46,6 @@ export const tamrielTomesBuyAll = {
       statement: "What was bought and what it cost is said in chat once the buying stops.",
     },
   ],
+  createdAt: "2026-09-26T15:39:53.685Z",
+  updatedAt: "2026-09-27T15:07:38.000Z",
 } as const satisfies Module

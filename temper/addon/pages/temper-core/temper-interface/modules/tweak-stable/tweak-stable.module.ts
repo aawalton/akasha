@@ -6,4 +6,6 @@ export const tweakStable = {
   slug: "tweak-stable",
   definition: "the stable window the interface tweaks change",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.215Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const inventoryBankProfileTypes = {
   slug: "inventory-bank-profile-types",
   definition: "the shapes of a bank-session profiler record, its buckets and its capture",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.847Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

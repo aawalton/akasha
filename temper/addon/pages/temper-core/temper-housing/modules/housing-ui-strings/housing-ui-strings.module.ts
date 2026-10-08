@@ -16,4 +16,6 @@ export const housingUiStrings = {
       statement: "English is the only language carried.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.269Z",
+  updatedAt: "2026-09-25T13:18:28.000Z",
 } as const satisfies Module

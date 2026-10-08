@@ -6,4 +6,6 @@ export const chatMessageTypes = {
   slug: "chat-message-types",
   definition: "the shapes a chat proxy, the stored settings and the library object take",
   code: "ts",
+  createdAt: "2026-09-02T04:28:22.676Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

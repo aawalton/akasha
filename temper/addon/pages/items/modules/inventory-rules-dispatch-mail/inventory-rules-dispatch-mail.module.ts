@@ -18,4 +18,6 @@ export const inventoryRulesDispatchMail = {
         "A mail waits until the window has room for its attachments and its send together.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.857Z",
+  updatedAt: "2026-09-27T15:14:10.000Z",
 } as const satisfies Module

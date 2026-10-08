@@ -6,4 +6,6 @@ export const salesHistoryCategoryThresholds = {
   slug: "sales-history-category-thresholds",
   definition: "the counts and the spans deciding a category cache",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.625Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

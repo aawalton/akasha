@@ -20,4 +20,6 @@ export const shifterBoxCursorLabel = {
       statement: "A hidden label is emptied and drawn at the lowest tier.",
     },
   ],
+  createdAt: "2026-09-11T03:06:53.369Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

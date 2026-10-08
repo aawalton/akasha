@@ -6,4 +6,6 @@ export const markersAkamatsuTextures01 = {
   slug: "markers-akamatsu-textures-01",
   definition: "the textures Akamatsu's Marker names by number, part 2",
   code: "ts",
+  createdAt: "2026-09-26T16:21:04.459Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

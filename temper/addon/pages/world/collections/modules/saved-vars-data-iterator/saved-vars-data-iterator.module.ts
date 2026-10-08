@@ -6,4 +6,6 @@ export const savedVarsDataIterator = {
   slug: "saved-vars-data-iterator",
   definition: "an iteration over the pinned account settings and the active settings together",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.902Z",
+  updatedAt: "2026-09-22T10:07:26.000Z",
 } as const satisfies Module

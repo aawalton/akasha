@@ -16,4 +16,6 @@ export const gpsTamrielOMeter = {
       statement: "Measuring moves the shown map and then puts the original map back.",
     },
   ],
+  createdAt: "2026-09-02T08:47:29.637Z",
+  updatedAt: "2026-09-22T03:58:40.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const scrollableMenuDropdownClassShow = {
       statement: "The scroll contents template is swapped by whether the bar is needed.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.264Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

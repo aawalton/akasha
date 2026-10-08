@@ -16,4 +16,6 @@ export const hudAddonHideTypes = {
       statement: "A plan entry has the mechanism the catalog gives its part.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

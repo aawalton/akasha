@@ -6,4 +6,6 @@ export const destinationsPinsUnknownPois = {
   slug: "destinations-pins-unknown-pois",
   definition: "the pins for points of interest the player has not yet found",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.091Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

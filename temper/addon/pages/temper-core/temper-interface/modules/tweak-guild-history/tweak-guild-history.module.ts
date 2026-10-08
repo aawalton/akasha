@@ -12,4 +12,6 @@ export const tweakGuildHistory = {
       statement: "No shared guard is kept for the type each guard here narrows to.",
     },
   ],
+  createdAt: "2026-09-02T07:46:08.201Z",
+  updatedAt: "2026-09-22T13:56:18.000Z",
 } as const satisfies Module

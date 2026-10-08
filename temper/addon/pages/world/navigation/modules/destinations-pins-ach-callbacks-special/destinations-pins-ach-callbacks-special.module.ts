@@ -6,4 +6,6 @@ export const destinationsPinsAchCallbacksSpecial = {
   slug: "destinations-pins-ach-callbacks-special",
   definition: "the pin callbacks for the achievements whose rows need a check of their own",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.027Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

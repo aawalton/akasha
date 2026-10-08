@@ -16,4 +16,6 @@ export const markersRender = {
       statement: "A marker further than the culling distance is hidden.",
     },
   ],
+  createdAt: "2026-09-26T16:21:04.460Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

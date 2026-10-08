@@ -6,4 +6,6 @@ export const inventoryBrowserLocations = {
   slug: "inventory-browser-locations",
   definition: "which browser rows fall inside a location view, and how many are held there",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.849Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

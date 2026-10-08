@@ -12,4 +12,6 @@ export const scrollableMenuUtilArrowColor = {
       statement: "The arrow tint is chosen from whether a nested entry is selected.",
     },
   ],
+  createdAt: "2026-09-21T17:39:01.639Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

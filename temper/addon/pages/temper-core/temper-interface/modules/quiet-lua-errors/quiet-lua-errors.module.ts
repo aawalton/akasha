@@ -6,4 +6,6 @@ export const quietLuaErrors = {
   slug: "quiet-lua-errors",
   definition: "the Lua error notification the add-on hides",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.966Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

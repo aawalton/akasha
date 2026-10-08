@@ -24,4 +24,6 @@ export const notificationRowOverrides = {
       statement: "The keyboard row setup is replaced only where the keyboard panel is loaded.",
     },
   ],
+  createdAt: "2026-09-02T04:21:47.414Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

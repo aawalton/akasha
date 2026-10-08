@@ -28,4 +28,6 @@ export const addonKeybindsListHooks = {
       statement: "A value read as a number is asked its Lua type first.",
     },
   ],
+  createdAt: "2026-09-02T04:21:47.418Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

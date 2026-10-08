@@ -6,4 +6,6 @@ export const salesHistoryLegacyEventFormat = {
   slug: "sales-history-legacy-event-format",
   definition: "an event turned into the argument list the older library gave",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.630Z",
+  updatedAt: "2026-09-22T10:19:01.000Z",
 } as const satisfies Module

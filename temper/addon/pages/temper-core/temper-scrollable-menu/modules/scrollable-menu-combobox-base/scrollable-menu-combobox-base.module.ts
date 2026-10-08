@@ -25,4 +25,6 @@ export const scrollableMenuComboboxBase = {
       statement: "Every new instance appends itself to the library's list of live objects.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.260Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const scrollableMenuComboboxBaseSetupHelpers = {
       statement: "A button group is created only where the entry declares a numeric group index.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.261Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

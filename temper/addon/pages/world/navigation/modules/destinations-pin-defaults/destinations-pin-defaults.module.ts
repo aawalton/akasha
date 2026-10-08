@@ -6,4 +6,6 @@ export const destinationsPinDefaults = {
   slug: "destinations-pin-defaults",
   definition: "the default size, level and texture of each destination pin kind",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.023Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

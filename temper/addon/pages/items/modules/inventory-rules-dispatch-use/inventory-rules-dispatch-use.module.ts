@@ -6,4 +6,6 @@ export const inventoryRulesDispatchUse = {
   slug: "inventory-rules-dispatch-use",
   definition: "using items by rule, one per frame, and opening the safe ones",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.858Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

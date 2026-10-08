@@ -6,4 +6,6 @@ export const salesHistoryTypes = {
   slug: "sales-history-types",
   definition: "the shapes the library object and the internal table take",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.640Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

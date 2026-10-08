@@ -16,4 +16,6 @@ export const housingHolderTypes = {
       statement: "One holder typed in one place is how the ported add-on was written.",
     },
   ],
+  createdAt: "2026-09-02T07:44:37.326Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

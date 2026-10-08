@@ -17,4 +17,6 @@ export const housingHover = {
       statement: "That color is the light window-rows gives a row pointed at.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.262Z",
+  updatedAt: "2026-09-25T16:10:46.000Z",
 } as const satisfies Module

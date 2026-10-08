@@ -6,4 +6,6 @@ export const mapPinsMain = {
   slug: "map-pins-main",
   definition: "the wiring this feature does as the add-on's code is loaded",
   code: "ts",
+  createdAt: "2026-09-02T04:30:52.897Z",
+  updatedAt: "2026-09-22T04:57:47.000Z",
 } as const satisfies Module

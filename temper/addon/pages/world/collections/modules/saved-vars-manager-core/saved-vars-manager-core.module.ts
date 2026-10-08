@@ -6,4 +6,6 @@ export const savedVarsManagerCore = {
   slug: "saved-vars-manager-core",
   definition: "a manager's raw table, found the first time a setting is read",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.900Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Module

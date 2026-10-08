@@ -29,4 +29,6 @@ export const nextBossTimers = {
       statement: "A time here is a second the game counts rather than a date.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.344Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const asyncGlobal = {
       statement: "The library table is published under the addon name.",
     },
   ],
+  createdAt: "2026-09-02T04:39:21.941Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Module

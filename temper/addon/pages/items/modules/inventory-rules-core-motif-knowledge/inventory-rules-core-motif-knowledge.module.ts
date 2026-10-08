@@ -16,4 +16,6 @@ export const inventoryRulesCoreMotifKnowledge = {
       statement: "The captured motif knowledge keyed by item style id is not read here.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.855Z",
+  updatedAt: "2026-09-27T01:35:08.000Z",
 } as const satisfies Module

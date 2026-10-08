@@ -24,4 +24,6 @@ export const scrollableMenuComboboxBaseHighlight = {
       statement: "A template is written onto the row data only where nothing is already set.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.261Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Module

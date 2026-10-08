@@ -6,4 +6,6 @@ export const selectorAddonManager = {
   slug: "selector-addon-manager",
   definition: "the game's add-on manager taken as a list of add-ons and their on-off state",
   code: "ts",
+  createdAt: "2026-09-02T11:44:59.557Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

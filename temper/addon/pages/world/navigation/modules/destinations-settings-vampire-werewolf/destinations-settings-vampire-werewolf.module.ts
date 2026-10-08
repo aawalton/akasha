@@ -6,4 +6,6 @@ export const destinationsSettingsVampireWerewolf = {
   slug: "destinations-settings-vampire-werewolf",
   definition: "the settings menu for vampire and werewolf shrines",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.132Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const inventoryHudFields = {
   slug: "inventory-hud-fields",
   definition: "the net-worth and bag-slot fields this add-on registers on the heads-up display",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.852Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const tweakPanelChat = {
   slug: "tweak-panel-chat",
   definition: "the settings rows covering chat",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.209Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

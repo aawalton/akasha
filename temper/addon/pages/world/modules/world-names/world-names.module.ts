@@ -6,4 +6,6 @@ export const worldNames = {
   slug: "world-names",
   definition: "what this add-on calls itself and which version it is",
   code: "ts",
+  createdAt: "2026-09-22T01:46:12.631Z",
+  updatedAt: "2026-09-22T01:49:45.000Z",
 } as const satisfies Module

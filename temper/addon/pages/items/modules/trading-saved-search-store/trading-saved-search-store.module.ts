@@ -12,4 +12,6 @@ export const tradingSavedSearchStore = {
       statement: "Renaming a search leaves its place in the list.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.388Z",
+  updatedAt: "2026-09-22T02:36:59.000Z",
 } as const satisfies Module

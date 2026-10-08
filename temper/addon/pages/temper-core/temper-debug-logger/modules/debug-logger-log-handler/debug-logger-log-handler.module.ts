@@ -25,4 +25,6 @@ export const debugLoggerLogHandler = {
       statement: "A failed entry is written as a fallback entry rather than dropped.",
     },
   ],
+  createdAt: "2026-09-02T04:29:41.391Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

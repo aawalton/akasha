@@ -6,4 +6,6 @@ export const inventoryItemRuleVerdictStore = {
   slug: "inventory-item-rule-verdict-store",
   definition: "the confirmed verdicts kept in saved variables, and pruning the stale ones",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.853Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

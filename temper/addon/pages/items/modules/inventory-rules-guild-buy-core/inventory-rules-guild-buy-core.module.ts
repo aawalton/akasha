@@ -37,4 +37,6 @@ export const inventoryRulesGuildBuyCore = {
       statement: "Buying nothing names the first check every listing failed.",
     },
   ],
+  createdAt: "2026-09-27T14:39:39.922Z",
+  updatedAt: "2026-09-27T14:40:02.000Z",
 } as const satisfies Module

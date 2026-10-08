@@ -6,4 +6,6 @@ export const destinationsPinsAchCallbacks = {
   slug: "destinations-pins-ach-callbacks",
   definition: "the pin callbacks for the achievements drawn from the shared achievement rows",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.029Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

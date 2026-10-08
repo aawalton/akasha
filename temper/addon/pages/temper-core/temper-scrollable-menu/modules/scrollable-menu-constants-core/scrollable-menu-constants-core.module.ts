@@ -28,4 +28,6 @@ export const scrollableMenuConstantsCore = {
       statement: "The library version is a literal string in the source.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.262Z",
+  updatedAt: "2026-09-25T22:23:33.000Z",
 } as const satisfies Module

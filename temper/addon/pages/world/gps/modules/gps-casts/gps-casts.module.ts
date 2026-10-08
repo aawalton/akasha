@@ -12,4 +12,6 @@ export const gpsCasts = {
       statement: "Nothing here checks a value at run time.",
     },
   ],
+  createdAt: "2026-09-02T08:47:29.632Z",
+  updatedAt: "2026-09-22T03:58:40.000Z",
 } as const satisfies Module

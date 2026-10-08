@@ -6,4 +6,6 @@ export const salesHistoryProcessingRequest = {
   slug: "sales-history-processing-request",
   definition: "a batch of cached events worked through in the background",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.632Z",
+  updatedAt: "2026-09-22T10:05:23.000Z",
 } as const satisfies Module

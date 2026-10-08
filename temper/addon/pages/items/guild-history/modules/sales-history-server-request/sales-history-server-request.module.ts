@@ -6,4 +6,6 @@ export const salesHistoryServerRequest = {
   slug: "sales-history-server-request",
   definition: "an ask to the server for a stretch of guild history",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.633Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

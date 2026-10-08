@@ -16,4 +16,6 @@ export const mainMenuCasts = {
       statement: "A caller narrowing a game value states which shape the caller expects.",
     },
   ],
+  createdAt: "2026-09-02T04:23:42.849Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const treasureTypes = {
       statement: "A pin is placed by where the pin falls on its own map rather than on the world.",
     },
   ],
+  createdAt: "2026-09-02T11:16:37.682Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

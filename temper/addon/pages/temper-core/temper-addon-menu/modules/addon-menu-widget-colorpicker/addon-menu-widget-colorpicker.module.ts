@@ -20,4 +20,6 @@ export const addonMenuWidgetColorpicker = {
       statement: "Gamepad mode opens a different color picker than keyboard mode.",
     },
   ],
+  createdAt: "2026-09-02T07:23:05.088Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

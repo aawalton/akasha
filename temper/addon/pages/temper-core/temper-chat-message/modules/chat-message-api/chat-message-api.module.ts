@@ -20,4 +20,6 @@ export const chatMessageApi = {
       statement: "A custom chat link with no reformatter is rebuilt as a plain game link.",
     },
   ],
+  createdAt: "2026-09-02T04:28:22.677Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const tweakFunctions = {
   slug: "tweak-functions",
   definition: "the small helpers the interface tweaks share",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.200Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const debugLoggerTaggedLogger = {
       statement: "An empty tag is refused.",
     },
   ],
+  createdAt: "2026-09-02T04:29:41.394Z",
+  updatedAt: "2026-09-22T10:09:09.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const destinationsFishingBait = {
   slug: "destinations-fishing-bait",
   definition: "which bait the player carries for each water kind",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.047Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

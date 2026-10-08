@@ -6,4 +6,6 @@ export const salesHistoryCategoryManagedRange = {
   slug: "sales-history-category-managed-range",
   definition: "the stretch of history a category cache holds without a gap",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.623Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

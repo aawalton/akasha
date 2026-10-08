@@ -12,4 +12,6 @@ export const mapPinsPublicApi = {
       statement: "Every other feature reaches this feature through this one export.",
     },
   ],
+  createdAt: "2026-09-02T04:30:52.897Z",
+  updatedAt: "2026-09-22T10:13:50.000Z",
 } as const satisfies Module

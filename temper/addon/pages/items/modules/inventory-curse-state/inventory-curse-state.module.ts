@@ -6,4 +6,6 @@ export const inventoryCurseState = {
   slug: "inventory-curse-state",
   definition: "whether a character is a vampire or a werewolf, for the rules that ask",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.850Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

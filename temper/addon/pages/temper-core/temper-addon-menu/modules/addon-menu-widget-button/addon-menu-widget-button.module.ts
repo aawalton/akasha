@@ -20,4 +20,6 @@ export const addonMenuWidgetButton = {
       statement: "An icon button is a bare 26 by 26 texture rather than a labelled button.",
     },
   ],
+  createdAt: "2026-09-02T07:23:05.088Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

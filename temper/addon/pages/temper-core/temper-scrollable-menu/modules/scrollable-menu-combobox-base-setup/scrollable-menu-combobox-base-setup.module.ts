@@ -28,4 +28,6 @@ export const scrollableMenuComboboxBaseSetup = {
       statement: "A row's base setup is the list's own, called on the list.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.261Z",
+  updatedAt: "2026-09-25T21:51:53.000Z",
 } as const satisfies Module

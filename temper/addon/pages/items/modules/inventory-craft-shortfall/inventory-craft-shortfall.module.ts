@@ -52,4 +52,6 @@ export const inventoryCraftShortfall = {
       statement: "A rule is named in chat by its id, since a compiled rule carries no title.",
     },
   ],
+  createdAt: "2026-09-24T18:27:48.607Z",
+  updatedAt: "2026-09-27T13:37:31.000Z",
 } as const satisfies Module

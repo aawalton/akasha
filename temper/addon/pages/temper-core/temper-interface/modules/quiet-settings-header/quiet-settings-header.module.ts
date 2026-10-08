@@ -6,4 +6,6 @@ export const quietSettingsHeader = {
   slug: "quiet-settings-header",
   definition: "a header row in the settings panel",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.994Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

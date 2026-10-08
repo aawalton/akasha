@@ -12,4 +12,6 @@ export const debugLoggerGlobal = {
       statement: "Loading twice raises an error rather than replacing the library.",
     },
   ],
+  createdAt: "2026-09-02T04:29:41.390Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

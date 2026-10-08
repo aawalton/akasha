@@ -6,4 +6,6 @@ export const compassPinsTypes = {
   slug: "compass-pins-types",
   definition: "the shapes a compass pin, its layout, its data and the library table take",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.006Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

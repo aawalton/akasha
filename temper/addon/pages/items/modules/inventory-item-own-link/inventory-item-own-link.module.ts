@@ -30,4 +30,6 @@ export const inventoryItemOwnLink = {
         "A value the bare item id reads the same is not recorded, to keep the capture small.",
     },
   ],
+  createdAt: "2026-09-27T06:13:12.641Z",
+  updatedAt: "2026-09-27T06:13:25.000Z",
 } as const satisfies Module

@@ -31,4 +31,6 @@ export const inventoryUseGuard = {
       statement: "The item types are the game's own values, written out so a test can reach them.",
     },
   ],
+  createdAt: "2026-09-27T15:28:59.570Z",
+  updatedAt: "2026-09-27T15:33:38.000Z",
 } as const satisfies Module

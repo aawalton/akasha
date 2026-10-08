@@ -6,4 +6,6 @@ export const destinationsPinsQolPins = {
   slug: "destinations-pins-qol-pins",
   definition: "the pins for stables, docks and portals",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.076Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

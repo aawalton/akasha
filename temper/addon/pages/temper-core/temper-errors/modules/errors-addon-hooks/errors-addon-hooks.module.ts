@@ -28,4 +28,6 @@ export const errorsAddonHooks = {
       statement: "The game has no event announcing that Lua is low on memory.",
     },
   ],
+  createdAt: "2026-09-02T06:39:25.978Z",
+  updatedAt: "2026-09-24T16:50:52.000Z",
 } as const satisfies Module

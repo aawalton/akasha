@@ -16,4 +16,6 @@ export const tradingBrowseEngine = {
       statement: "The caller is told after every step of a search, so a window shows where it is.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.385Z",
+  updatedAt: "2026-09-25T18:53:47.000Z",
 } as const satisfies Module

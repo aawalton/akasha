@@ -7,4 +7,6 @@ export const inventoryMoveItem = {
   definition:
     "moving a stack between two slots through the protected call when the game requires it",
   code: "ts",
+  createdAt: "2026-09-02T13:55:23.322Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

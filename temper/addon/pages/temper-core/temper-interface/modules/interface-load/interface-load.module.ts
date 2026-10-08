@@ -6,4 +6,6 @@ export const interfaceLoad = {
   slug: "interface-load",
   definition: "what the interface add-on runs once the game says it is loaded",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.218Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

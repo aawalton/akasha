@@ -6,4 +6,6 @@ export const salesHistoryStatusWindowRows = {
   slug: "sales-history-status-window-rows",
   definition: "the guild rows and the category rows the status window lists",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.638Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

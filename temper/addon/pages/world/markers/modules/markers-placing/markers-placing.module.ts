@@ -12,4 +12,6 @@ export const markersPlacing = {
       statement: "Nothing is placed or removed while more than one profile is loaded.",
     },
   ],
+  createdAt: "2026-09-26T16:21:04.459Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

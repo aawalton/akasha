@@ -12,4 +12,6 @@ export const notificationEntry = {
       statement: "The row overrides are installed as the global is hung on the globals.",
     },
   ],
+  createdAt: "2026-09-02T04:21:47.415Z",
+  updatedAt: "2026-09-22T14:00:24.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const markersEditorSelection = {
       statement: "An edit is kept only once the editor's save is confirmed.",
     },
   ],
+  createdAt: "2026-09-26T16:21:04.459Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

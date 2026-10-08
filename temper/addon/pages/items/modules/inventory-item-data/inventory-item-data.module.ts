@@ -52,4 +52,6 @@ export const inventoryItemData = {
         "A slot records whether its item is an unbound set piece the account has not collected.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.853Z",
+  updatedAt: "2026-10-08T14:34:59.000Z",
 } as const satisfies Module

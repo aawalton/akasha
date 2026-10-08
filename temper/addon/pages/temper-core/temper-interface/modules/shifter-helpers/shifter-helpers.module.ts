@@ -6,4 +6,6 @@ export const shifterHelpers = {
   slug: "shifter-helpers",
   definition: "the cloning, callback and filtering helpers the rest of the library shares",
   code: "ts",
+  createdAt: "2026-09-02T09:50:46.344Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const quietRaidLeaderboard = {
   slug: "quiet-raid-leaderboard",
   definition: "the raid leaderboard notifications the add-on hides",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.987Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

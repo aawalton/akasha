@@ -6,4 +6,6 @@ export const salesHistoryCategory = {
   slug: "sales-history-category",
   definition: "every part a category cache is built from loaded in order",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.621Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

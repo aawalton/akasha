@@ -6,4 +6,6 @@ export const inventoryRulesCoreCharacterFinders = {
   slug: "inventory-rules-core-character-finders",
   definition: "the item key and character context resolving an unlock destination",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.855Z",
+  updatedAt: "2026-09-22T13:48:38.000Z",
 } as const satisfies Module

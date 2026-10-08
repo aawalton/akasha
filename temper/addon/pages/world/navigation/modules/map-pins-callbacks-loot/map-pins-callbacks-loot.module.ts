@@ -6,4 +6,6 @@ export const mapPinsCallbacksLoot = {
   slug: "map-pins-callbacks-loot",
   definition: "the pin callbacks for kinds a looted item finishes",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.160Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

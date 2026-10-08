@@ -12,4 +12,6 @@ export const housingFavoritesRender = {
       statement: "Rows are made once and reused as the list changes.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.261Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

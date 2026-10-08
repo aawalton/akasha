@@ -16,4 +16,6 @@ export const destinationsPoiData06 = {
       statement: "The set is the add-on's own source rather than a derivation.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.281Z",
+  updatedAt: "2026-09-22T14:17:51.000Z",
 } as const satisfies Module

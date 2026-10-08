@@ -6,4 +6,6 @@ export const markersProfiles = {
   slug: "markers-profiles",
   definition: "the profiles a zone keeps and the one loaded",
   code: "ts",
+  createdAt: "2026-09-26T16:21:04.459Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

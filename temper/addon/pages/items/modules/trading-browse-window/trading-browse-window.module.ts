@@ -48,4 +48,6 @@ export const tradingBrowseWindow = {
         "The window opens only when asked, and while open it may cover the game's store window.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.385Z",
+  updatedAt: "2026-09-26T13:49:17.000Z",
 } as const satisfies Module

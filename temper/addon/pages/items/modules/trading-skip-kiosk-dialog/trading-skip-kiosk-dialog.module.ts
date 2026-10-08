@@ -12,4 +12,6 @@ export const tradingSkipKioskDialog = {
       statement: "Only the confirmation is passed and the purchase itself is left alone.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.389Z",
+  updatedAt: "2026-09-22T02:36:59.000Z",
 } as const satisfies Module

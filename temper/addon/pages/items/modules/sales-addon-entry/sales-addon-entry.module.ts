@@ -16,4 +16,6 @@ export const salesAddonEntry = {
       statement: "Capture begins once the writer has handed over its saved variables.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.680Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

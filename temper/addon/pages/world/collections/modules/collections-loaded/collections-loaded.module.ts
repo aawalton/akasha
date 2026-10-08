@@ -16,4 +16,6 @@ export const collectionsLoaded = {
       statement: "No tracker is started twice.",
     },
   ],
+  createdAt: "2026-09-02T13:26:25.632Z",
+  updatedAt: "2026-09-22T02:53:52.000Z",
 } as const satisfies Module

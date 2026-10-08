@@ -6,4 +6,6 @@ export const journalTooltipExtension = {
   slug: "journal-tooltip-extension",
   definition: "the tooltip section taking a tracker's own lines",
   code: "ts",
+  createdAt: "2026-09-02T09:39:58.676Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

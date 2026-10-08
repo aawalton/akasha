@@ -16,4 +16,6 @@ export const hudAddonFieldRegistry = {
       statement: "Two fields of one order keep the order the two fields were registered in.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

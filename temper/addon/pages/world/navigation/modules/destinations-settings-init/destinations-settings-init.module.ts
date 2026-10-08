@@ -6,4 +6,6 @@ export const destinationsSettingsInit = {
   slug: "destinations-settings-init",
   definition: "the destinations settings menu put together and shown",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.121Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

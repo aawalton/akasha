@@ -12,4 +12,6 @@ export const housingPublish = {
       statement: "The keybinds the add-on declares reach the holder by one global name.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.265Z",
+  updatedAt: "2026-09-22T07:01:25.000Z",
 } as const satisfies Module

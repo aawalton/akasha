@@ -6,4 +6,6 @@ export const markersPremades00 = {
   slug: "markers-premades-00",
   definition: "the premade marker profiles More Markers ships, part 1",
   code: "ts",
+  createdAt: "2026-09-26T16:21:04.459Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

@@ -22,4 +22,6 @@ export const inventorySetCategories = {
       statement: "The table is built the first time a category is asked for, and held after.",
     },
   ],
+  createdAt: "2026-09-27T01:52:43.784Z",
+  updatedAt: "2026-09-27T01:52:59.000Z",
 } as const satisfies Module

@@ -25,4 +25,6 @@ export const inventoryRulesDispatchBankVault = {
       statement: "A vault deposit waits where the shared window is full.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.856Z",
+  updatedAt: "2026-09-27T15:12:24.000Z",
 } as const satisfies Module

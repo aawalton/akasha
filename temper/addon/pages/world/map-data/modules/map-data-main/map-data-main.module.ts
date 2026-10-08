@@ -6,4 +6,6 @@ export const mapDataMain = {
   slug: "map-data-main",
   definition: "the wiring this feature does as the bundle loads",
   code: "ts",
+  createdAt: "2026-09-02T11:29:35.410Z",
+  updatedAt: "2026-09-22T03:36:30.000Z",
 } as const satisfies Module

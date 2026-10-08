@@ -6,4 +6,6 @@ export const salesHistoryCategoryTypes = {
   slug: "sales-history-category-types",
   definition: "the shapes the parts of a category cache hand each other",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.625Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

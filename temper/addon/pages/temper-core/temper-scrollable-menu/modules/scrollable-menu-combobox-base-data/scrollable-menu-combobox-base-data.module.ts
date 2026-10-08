@@ -25,4 +25,6 @@ export const scrollableMenuComboboxBaseData = {
       statement: "Header font and divider name are forced by a per-entry-type post-setup function.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.260Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

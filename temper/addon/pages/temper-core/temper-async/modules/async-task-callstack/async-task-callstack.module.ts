@@ -20,4 +20,6 @@ export const asyncTaskCallstack = {
       statement: "A step added to the running task goes in beside the step now running.",
     },
   ],
+  createdAt: "2026-09-02T04:39:21.944Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

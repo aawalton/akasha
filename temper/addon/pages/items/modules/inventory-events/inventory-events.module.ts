@@ -34,4 +34,6 @@ export const inventoryEvents = {
         "A listener this module hands out to another takes a namespace under this one rather than this one.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.851Z",
+  updatedAt: "2026-09-27T15:13:56.000Z",
 } as const satisfies Module

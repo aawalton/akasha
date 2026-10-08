@@ -6,4 +6,6 @@ export const treasureApi = {
   slug: "treasure-api",
   definition: "what the bundle asks about a treasure map or a survey",
   code: "ts",
+  createdAt: "2026-09-02T11:16:37.696Z",
+  updatedAt: "2026-09-25T13:15:53.000Z",
 } as const satisfies Module

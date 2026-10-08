@@ -24,4 +24,6 @@ export const nextBossConstants = {
       statement: "Imperial City is two zones and the Imperial Sewers are a third.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.342Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -26,4 +26,6 @@ export const inventoryStockDepositDecision = {
       statement: "A tier with no quantity takes the whole of what is offered.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.860Z",
+  updatedAt: "2026-09-24T18:49:52.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const destinationsStart = {
   slug: "destinations-start",
   definition: "where the destinations half begins once the add-on has loaded",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.016Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

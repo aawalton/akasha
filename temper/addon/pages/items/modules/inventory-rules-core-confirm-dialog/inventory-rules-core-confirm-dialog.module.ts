@@ -12,4 +12,6 @@ export const inventoryRulesCoreConfirmDialog = {
       statement: "Whether the dialog is on the screen is answered here.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.855Z",
+  updatedAt: "2026-09-21T17:44:29.000Z",
 } as const satisfies Module

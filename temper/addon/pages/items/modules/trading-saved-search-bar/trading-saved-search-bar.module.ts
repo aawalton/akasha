@@ -12,4 +12,6 @@ export const tradingSavedSearchBar = {
       statement: "The active search is marked in the bar rather than named elsewhere.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.388Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

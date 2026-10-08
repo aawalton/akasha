@@ -6,4 +6,6 @@ export const tweakPanelTooltips = {
   slug: "tweak-panel-tooltips",
   definition: "the settings rows covering tooltips",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.211Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

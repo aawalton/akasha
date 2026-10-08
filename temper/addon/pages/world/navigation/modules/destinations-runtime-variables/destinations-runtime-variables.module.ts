@@ -6,4 +6,6 @@ export const destinationsRuntimeVariables = {
   slug: "destinations-runtime-variables",
   definition: "what the destinations half keeps while the game runs",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.098Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

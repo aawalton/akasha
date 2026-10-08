@@ -24,4 +24,6 @@ export const asyncApi = {
       statement: "A stall threshold set by slash command is bounded at both ends.",
     },
   ],
+  createdAt: "2026-09-02T04:39:21.939Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

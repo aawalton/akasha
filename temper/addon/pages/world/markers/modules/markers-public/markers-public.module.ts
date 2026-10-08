@@ -6,4 +6,6 @@ export const markersPublic = {
   slug: "markers-public",
   definition: "the functions the key bindings call",
   code: "ts",
+  createdAt: "2026-09-26T16:21:04.459Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

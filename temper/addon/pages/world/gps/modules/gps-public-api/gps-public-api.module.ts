@@ -12,4 +12,6 @@ export const gpsPublicApi = {
       statement: "A feature outside this one names this module and no other module here.",
     },
   ],
+  createdAt: "2026-09-02T08:47:29.637Z",
+  updatedAt: "2026-09-22T14:00:24.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const housingLibraryLookup = {
       statement: "Which library answers is decided by the world the player is on.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.262Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

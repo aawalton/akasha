@@ -12,4 +12,6 @@ export const tradingSavedVariables = {
       statement: "A guild entry is made on first touch rather than declared up front.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.388Z",
+  updatedAt: "2026-09-22T02:36:59.000Z",
 } as const satisfies Module

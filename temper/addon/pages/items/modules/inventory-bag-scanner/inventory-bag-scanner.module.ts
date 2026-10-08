@@ -7,4 +7,6 @@ export const inventoryBagScanner = {
   definition:
     "reading every slot of a bag, whether it is a real bag, the craft bag, or an iterated one",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.847Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

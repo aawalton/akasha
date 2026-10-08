@@ -6,4 +6,6 @@ export const tweakCasts = {
   slug: "tweak-casts",
   definition: "the narrowing casts through which the interface tweaks reach the game's values",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.196Z",
+  updatedAt: "2026-09-22T14:13:12.000Z",
 } as const satisfies Module

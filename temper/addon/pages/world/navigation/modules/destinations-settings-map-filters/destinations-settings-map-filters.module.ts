@@ -6,4 +6,6 @@ export const destinationsSettingsMapFilters = {
   slug: "destinations-settings-map-filters",
   definition: "the settings menu for the map filters",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.122Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

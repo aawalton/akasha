@@ -6,4 +6,6 @@ export const tweakPanelLoot = {
   slug: "tweak-panel-loot",
   definition: "the settings rows covering loot",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.210Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

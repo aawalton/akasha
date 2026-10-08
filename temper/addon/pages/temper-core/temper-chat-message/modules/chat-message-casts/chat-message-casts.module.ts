@@ -12,4 +12,6 @@ export const chatMessageCasts = {
       statement: "Nothing here checks a value at run time.",
     },
   ],
+  createdAt: "2026-09-02T04:28:22.676Z",
+  updatedAt: "2026-09-22T13:28:06.000Z",
 } as const satisfies Module

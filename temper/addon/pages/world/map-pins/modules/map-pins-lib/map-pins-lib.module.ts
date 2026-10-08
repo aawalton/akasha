@@ -16,4 +16,6 @@ export const mapPinsLib = {
       statement: "A map change to the global filter group leaves the filters alone.",
     },
   ],
+  createdAt: "2026-09-02T04:30:52.896Z",
+  updatedAt: "2026-09-22T04:57:47.000Z",
 } as const satisfies Module

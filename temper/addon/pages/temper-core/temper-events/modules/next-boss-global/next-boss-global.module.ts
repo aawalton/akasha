@@ -12,4 +12,6 @@ export const nextBossGlobal = {
       statement: "A key binding's Lua runs outside the bundle and reaches only a global.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.343Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Module

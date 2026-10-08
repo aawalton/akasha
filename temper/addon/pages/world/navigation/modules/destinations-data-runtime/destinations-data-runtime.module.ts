@@ -6,4 +6,6 @@ export const destinationsDataRuntime = {
   slug: "destinations-data-runtime",
   definition: "the game lookups the destination tables call while they load",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.012Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

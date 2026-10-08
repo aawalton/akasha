@@ -25,4 +25,6 @@ export const scrollableMenuDropdownHandlers = {
       statement: "Row width is measured from the label text through the item font object.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.264Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

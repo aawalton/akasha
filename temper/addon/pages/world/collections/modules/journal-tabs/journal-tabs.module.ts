@@ -6,4 +6,6 @@ export const journalTabs = {
   slug: "journal-tabs",
   definition: "which tab is shown and what the heading above the tab says",
   code: "ts",
+  createdAt: "2026-09-02T09:39:58.675Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

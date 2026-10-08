@@ -24,4 +24,6 @@ export const errorsAddonRecord = {
       statement: "Recording before the add-on has loaded throws.",
     },
   ],
+  createdAt: "2026-09-02T06:39:25.977Z",
+  updatedAt: "2026-09-22T10:09:10.000Z",
 } as const satisfies Module

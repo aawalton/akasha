@@ -17,4 +17,6 @@ export const inventoryOpenRoomWait = {
       statement: "The line counts every container the run left for want of room.",
     },
   ],
+  createdAt: "2026-09-27T15:11:02.016Z",
+  updatedAt: "2026-09-27T15:11:24.000Z",
 } as const satisfies Module

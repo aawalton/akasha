@@ -6,4 +6,6 @@ export const mapPinsAchievementEvents = {
   slug: "map-pins-achievement-events",
   definition: "what happens when an achievement, a skyshard or a book is gained",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.134Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

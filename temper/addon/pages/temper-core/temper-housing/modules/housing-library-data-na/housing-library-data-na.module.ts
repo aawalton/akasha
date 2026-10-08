@@ -16,4 +16,6 @@ export const housingLibraryDataNa = {
       statement: "An entry's place in this list is the place the library tab shows that entry in.",
     },
   ],
+  createdAt: "2026-09-02T07:44:37.329Z",
+  updatedAt: "2026-09-25T13:17:40.000Z",
 } as const satisfies Module

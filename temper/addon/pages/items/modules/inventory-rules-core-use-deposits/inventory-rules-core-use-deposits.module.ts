@@ -6,4 +6,6 @@ export const inventoryRulesCoreUseDeposits = {
   slug: "inventory-rules-core-use-deposits",
   definition: "the deposits owed to other characters after a use action is allocated",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.855Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

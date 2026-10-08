@@ -6,4 +6,6 @@ export const tweakMailContextSubmenus = {
   slug: "tweak-mail-context-submenus",
   definition: "the sub-menus of the mail context menu",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.204Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const salesHistoryCategoryRequests = {
   slug: "sales-history-category-requests",
   definition: "the requests a category sends the server for older events",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.624Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

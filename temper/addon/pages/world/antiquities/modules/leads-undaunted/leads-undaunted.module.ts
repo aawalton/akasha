@@ -12,4 +12,6 @@ export const leadsUndaunted = {
       statement: "The pledge tracker is optional and its absence is not an error.",
     },
   ],
+  createdAt: "2026-09-02T14:10:09.674Z",
+  updatedAt: "2026-09-22T02:33:54.000Z",
 } as const satisfies Module

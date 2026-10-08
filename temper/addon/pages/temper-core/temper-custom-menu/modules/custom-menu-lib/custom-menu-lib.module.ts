@@ -18,4 +18,6 @@ export const customMenuLib = {
         "A special key context menu is registered under its own key rather than a category.",
     },
   ],
+  createdAt: "2026-09-02T04:22:08.670Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

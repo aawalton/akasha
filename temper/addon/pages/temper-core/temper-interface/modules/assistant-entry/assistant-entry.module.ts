@@ -12,4 +12,6 @@ export const assistantEntry = {
       statement: "Keybind names are made again whenever a collectible changes.",
     },
   ],
+  createdAt: "2026-09-02T06:55:53.836Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

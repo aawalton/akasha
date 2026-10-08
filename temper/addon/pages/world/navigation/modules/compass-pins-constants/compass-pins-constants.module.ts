@@ -7,4 +7,6 @@ export const compassPinsConstants = {
   definition:
     "the compass library's name, its version, its pin template and the distance coefficients per map",
   code: "ts",
+  createdAt: "2026-09-02T13:57:33.985Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

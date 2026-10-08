@@ -6,4 +6,6 @@ export const savedVarsDataActive = {
   slug: "saved-vars-data-active",
   definition: "which scope a setting is read from right now",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.901Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const savedVarsManagerState = {
   slug: "saved-vars-manager-state",
   definition: "the managers made so far and the versions still waiting to be written",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.900Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

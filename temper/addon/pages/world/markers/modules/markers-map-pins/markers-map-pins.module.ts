@@ -12,4 +12,6 @@ export const markersMapPins = {
       statement: "The pins are drawn by this add-on's own map pin library rather than LibMapPins.",
     },
   ],
+  createdAt: "2026-09-26T16:21:04.459Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const salesHistoryDialogs = {
       statement: "No warning is shown for a guild's history that has not reached the present.",
     },
   ],
+  createdAt: "2026-09-02T10:08:20.626Z",
+  updatedAt: "2026-09-26T13:36:13.000Z",
 } as const satisfies Module

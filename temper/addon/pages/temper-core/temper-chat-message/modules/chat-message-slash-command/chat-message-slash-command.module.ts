@@ -16,4 +16,6 @@ export const chatMessageSlashCommand = {
       statement: "A command given no argument reports the current setting.",
     },
   ],
+  createdAt: "2026-09-02T04:28:22.679Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies Module

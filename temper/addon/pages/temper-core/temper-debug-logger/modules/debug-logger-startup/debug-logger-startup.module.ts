@@ -29,4 +29,6 @@ export const debugLoggerStartup = {
         "Gathering the client description is wrapped so a failure logs rather than throws.",
     },
   ],
+  createdAt: "2026-09-02T04:29:41.393Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

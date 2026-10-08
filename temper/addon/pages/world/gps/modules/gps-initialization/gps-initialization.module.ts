@@ -12,4 +12,6 @@ export const gpsInitialization = {
       statement: "The map is put on the player's location once the add-on has loaded.",
     },
   ],
+  createdAt: "2026-09-02T08:47:29.635Z",
+  updatedAt: "2026-09-22T03:58:40.000Z",
 } as const satisfies Module

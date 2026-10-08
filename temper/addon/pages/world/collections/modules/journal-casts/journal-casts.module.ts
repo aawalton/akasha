@@ -12,4 +12,6 @@ export const journalCasts = {
       statement: "Nothing here checks a value at run time.",
     },
   ],
+  createdAt: "2026-09-02T09:39:58.669Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

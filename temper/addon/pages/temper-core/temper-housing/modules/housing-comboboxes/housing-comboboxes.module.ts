@@ -12,4 +12,6 @@ export const housingComboboxes = {
       statement: "A favourite chosen in a drop-down ports without a further click.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.257Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

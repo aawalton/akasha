@@ -12,4 +12,6 @@ export const mapDataIndex02 = {
       statement: "These rows are the rows the upstream map-data library states at v1.21.",
     },
   ],
+  createdAt: "2026-09-02T11:29:35.397Z",
+  updatedAt: "2026-09-22T03:36:30.000Z",
 } as const satisfies Module

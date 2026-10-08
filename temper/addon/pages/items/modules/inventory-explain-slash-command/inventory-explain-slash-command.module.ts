@@ -6,4 +6,6 @@ export const inventoryExplainSlashCommand = {
   slug: "inventory-explain-slash-command",
   definition: "the chat commands that explain how the rules judged an item",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.851Z",
+  updatedAt: "2026-09-22T10:05:23.000Z",
 } as const satisfies Module

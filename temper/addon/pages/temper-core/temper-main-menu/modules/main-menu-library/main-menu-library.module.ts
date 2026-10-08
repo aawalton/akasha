@@ -24,4 +24,6 @@ export const mainMenuLibrary = {
       statement: "The library sets itself up on the first call that needs the bars.",
     },
   ],
+  createdAt: "2026-09-02T04:23:42.852Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

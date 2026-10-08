@@ -24,4 +24,6 @@ export const scrollableMenuButtongroup = {
       statement: "A click is checked against the context menu before the group handles the click.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.259Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

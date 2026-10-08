@@ -12,4 +12,6 @@ export const housingDropdowns = {
       statement: "The drop-down choices a player last made are kept in saved variables.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.259Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

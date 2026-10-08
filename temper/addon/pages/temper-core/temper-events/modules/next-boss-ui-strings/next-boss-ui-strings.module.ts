@@ -24,4 +24,6 @@ export const nextBossUiStrings = {
       statement: "Nothing here is written in a language other than English.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.343Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

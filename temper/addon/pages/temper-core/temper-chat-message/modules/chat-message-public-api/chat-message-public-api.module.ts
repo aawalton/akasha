@@ -12,4 +12,6 @@ export const chatMessagePublicApi = {
       statement: "Loading the library a second time raises an error.",
     },
   ],
+  createdAt: "2026-09-02T04:28:22.680Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

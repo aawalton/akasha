@@ -19,4 +19,6 @@ export const tradingConstants = {
         "Listings register under a namespace of their own rather than under the add-on name.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.386Z",
+  updatedAt: "2026-09-22T02:36:59.000Z",
 } as const satisfies Module

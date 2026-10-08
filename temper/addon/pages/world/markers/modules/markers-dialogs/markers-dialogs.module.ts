@@ -12,4 +12,6 @@ export const markersDialogs = {
       statement: "A name is asked for in the gamepad prompt while the player plays by gamepad.",
     },
   ],
+  createdAt: "2026-09-26T16:21:04.459Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

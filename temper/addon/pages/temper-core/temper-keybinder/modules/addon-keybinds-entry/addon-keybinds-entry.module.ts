@@ -16,4 +16,6 @@ export const addonKeybindsEntry = {
       statement: "Nothing waits on the caller to ask for the split.",
     },
   ],
+  createdAt: "2026-09-02T04:21:47.420Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

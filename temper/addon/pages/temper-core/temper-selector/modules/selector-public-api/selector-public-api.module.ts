@@ -6,4 +6,6 @@ export const selectorPublicApi = {
   slug: "selector-public-api",
   definition: "the global the key bindings and another add-on use",
   code: "ts",
+  createdAt: "2026-09-02T11:44:59.557Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies Module

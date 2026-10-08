@@ -6,4 +6,6 @@ export const mapDataQueries = {
   slug: "map-data-queries",
   definition: "what the rest of the bundle asks about a map or a zone",
   code: "ts",
+  createdAt: "2026-09-02T11:29:35.406Z",
+  updatedAt: "2026-09-22T03:36:30.000Z",
 } as const satisfies Module

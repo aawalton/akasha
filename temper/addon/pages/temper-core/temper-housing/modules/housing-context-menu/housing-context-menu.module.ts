@@ -16,4 +16,6 @@ export const housingContextMenu = {
       statement: "The wrap is put on after a delay the game needs to build a context menu.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.258Z",
+  updatedAt: "2026-09-25T13:16:33.000Z",
 } as const satisfies Module

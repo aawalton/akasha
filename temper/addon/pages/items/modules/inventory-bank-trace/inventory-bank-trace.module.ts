@@ -48,4 +48,6 @@ export const inventoryBankTrace = {
       statement: "Neither bucket's brackets are subtracted twice from the unattributed remainder.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.848Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

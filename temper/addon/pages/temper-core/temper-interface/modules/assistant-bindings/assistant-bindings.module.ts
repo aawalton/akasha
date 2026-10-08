@@ -12,4 +12,6 @@ export const assistantBindings = {
       statement: "A name already carrying text is left alone.",
     },
   ],
+  createdAt: "2026-09-02T06:55:53.836Z",
+  updatedAt: "2026-09-22T12:51:44.000Z",
 } as const satisfies Module

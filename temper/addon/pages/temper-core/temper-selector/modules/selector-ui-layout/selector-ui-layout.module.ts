@@ -6,4 +6,6 @@ export const selectorUiLayout = {
   slug: "selector-ui-layout",
   definition: "the controls the add-on puts on the game's add-ons screen",
   code: "ts",
+  createdAt: "2026-09-02T11:44:59.557Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

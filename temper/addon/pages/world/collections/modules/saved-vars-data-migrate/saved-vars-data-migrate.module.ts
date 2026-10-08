@@ -6,4 +6,6 @@ export const savedVarsDataMigrate = {
   slug: "saved-vars-data-migrate",
   definition: "settings carried in from an older saved variable table",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.903Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

@@ -23,4 +23,6 @@ export const destinationsPinTypeConstants = {
         "No pin kind named here is renamed, since a rename clears that pin filter on every character.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.095Z",
+  updatedAt: "2026-09-22T11:23:01.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const journalShape = {
   slug: "journal-shape",
   definition: "the shapes a tab, a row list, a tooltip extension and the journal tables take",
   code: "ts",
+  createdAt: "2026-09-02T09:39:58.674Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

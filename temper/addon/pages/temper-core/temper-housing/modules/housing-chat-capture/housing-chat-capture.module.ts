@@ -16,4 +16,6 @@ export const housingChatCapture = {
       statement: "Which chat channels may have a card is a player setting.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.256Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

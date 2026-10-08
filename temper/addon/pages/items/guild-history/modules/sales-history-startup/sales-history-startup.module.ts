@@ -6,4 +6,6 @@ export const salesHistoryStartup = {
   slug: "sales-history-startup",
   definition: "the wiring done as the game loads this library",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.634Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

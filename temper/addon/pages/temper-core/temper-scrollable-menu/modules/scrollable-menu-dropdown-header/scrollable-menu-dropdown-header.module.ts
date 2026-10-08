@@ -24,4 +24,6 @@ export const scrollableMenuDropdownHeader = {
       statement: "A header with a filter box is widened to the search-header minimum.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.264Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

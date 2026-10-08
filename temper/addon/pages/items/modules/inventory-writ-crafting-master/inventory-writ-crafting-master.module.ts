@@ -6,4 +6,6 @@ export const inventoryWritCraftingMaster = {
   slug: "inventory-writ-crafting-master",
   definition: "dispatching a master writ at the station that can fill it",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.862Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

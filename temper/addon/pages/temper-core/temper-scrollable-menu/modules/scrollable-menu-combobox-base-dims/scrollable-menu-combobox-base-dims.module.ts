@@ -28,4 +28,6 @@ export const scrollableMenuComboboxBaseDims = {
       statement: "A menu shows its list by calling the list's own Show on the list.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.260Z",
+  updatedAt: "2026-09-25T21:50:32.000Z",
 } as const satisfies Module

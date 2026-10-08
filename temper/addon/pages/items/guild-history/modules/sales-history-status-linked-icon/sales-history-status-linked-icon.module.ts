@@ -6,4 +6,6 @@ export const salesHistoryStatusLinkedIcon = {
   slug: "sales-history-status-linked-icon",
   definition: "the icon saying whether a category reaches the present",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.635Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

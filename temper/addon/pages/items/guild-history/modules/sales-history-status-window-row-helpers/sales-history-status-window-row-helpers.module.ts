@@ -6,4 +6,6 @@ export const salesHistoryStatusWindowRowHelpers = {
   slug: "sales-history-status-window-row-helpers",
   definition: "the pieces building a status window row",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.637Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies Module

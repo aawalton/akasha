@@ -25,4 +25,6 @@ export const asyncTaskLoops = {
       statement: "A numeric loop with a zero step raises an error.",
     },
   ],
+  createdAt: "2026-09-02T04:39:21.944Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const hudAddonSavedVariables = {
       statement: "The store is shared by every character on the account.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-22T14:13:12.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const housingTabs = {
       statement: "The chosen tab's title is in the heading part, and the others are muted.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.268Z",
+  updatedAt: "2026-09-25T17:19:34.000Z",
 } as const satisfies Module

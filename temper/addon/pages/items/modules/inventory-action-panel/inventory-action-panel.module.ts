@@ -6,4 +6,6 @@ export const inventoryActionPanel = {
   slug: "inventory-action-panel",
   definition: "the small panel shown over the inventory with the counts of pending actions",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.852Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

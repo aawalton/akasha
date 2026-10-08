@@ -6,4 +6,6 @@ export const compassPinsCasts = {
   slug: "compass-pins-casts",
   definition: "what an untyped value the game hands the compass library is taken to be",
   code: "ts",
+  createdAt: "2026-09-02T13:57:33.983Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

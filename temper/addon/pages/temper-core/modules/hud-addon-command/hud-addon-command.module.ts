@@ -21,4 +21,6 @@ export const hudAddonCommand = {
       statement: "A subcommand with no handler is listed and not dispatched to.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies Module

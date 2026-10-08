@@ -21,4 +21,6 @@ export const hudAddonVisibilityVersion = {
       statement: "A stored value that is not a boolean is left out of the migration.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

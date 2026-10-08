@@ -6,4 +6,6 @@ export const leadsConstants = {
   slug: "leads-constants",
   definition: "the fixed values building the lead window",
   code: "ts",
+  createdAt: "2026-09-02T14:10:09.674Z",
+  updatedAt: "2026-09-22T14:00:24.000Z",
 } as const satisfies Module

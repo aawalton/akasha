@@ -12,4 +12,6 @@ export const esoMenu = {
       statement: "One control has every context menu the game shows.",
     },
   ],
+  createdAt: "2026-09-02T04:22:08.670Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

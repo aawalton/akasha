@@ -12,4 +12,6 @@ export const tradingTypes = {
       statement: "Nothing here runs.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.390Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies Module

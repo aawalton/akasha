@@ -7,4 +7,6 @@ export const compassPinsLib = {
   definition:
     "the compass library table: adding a pin type, refreshing pins and following the player's heading",
   code: "ts",
+  createdAt: "2026-09-02T13:57:33.993Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

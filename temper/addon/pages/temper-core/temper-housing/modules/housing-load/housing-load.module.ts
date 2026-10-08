@@ -12,4 +12,6 @@ export const housingLoad = {
       statement: "Loading begins the port-to-friend part and nothing else.",
     },
   ],
+  createdAt: "2026-09-02T08:08:23.329Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

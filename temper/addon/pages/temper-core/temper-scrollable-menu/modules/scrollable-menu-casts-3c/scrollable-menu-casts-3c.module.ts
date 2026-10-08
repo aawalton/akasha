@@ -25,4 +25,6 @@ export const scrollableMenuCasts3c = {
       statement: "Type names are truncated to a fixed width which forces the digit suffixes.",
     },
   ],
+  createdAt: "2026-09-21T17:41:04.875Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

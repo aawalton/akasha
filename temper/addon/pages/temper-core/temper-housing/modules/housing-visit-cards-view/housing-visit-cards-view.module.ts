@@ -12,4 +12,6 @@ export const housingVisitCardsView = {
       statement: "Nothing here runs.",
     },
   ],
+  createdAt: "2026-09-02T07:44:37.331Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies Module

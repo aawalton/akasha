@@ -6,4 +6,6 @@ export const tweakChat = {
   slug: "tweak-chat",
   definition: "the chat window behaviour the interface tweaks change",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.196Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

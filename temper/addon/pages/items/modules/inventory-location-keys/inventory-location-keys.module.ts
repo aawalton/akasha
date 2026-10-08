@@ -6,4 +6,6 @@ export const inventoryLocationKeys = {
   slug: "inventory-location-keys",
   definition: "the key each location is saved under, for characters, banks, houses and companions",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.853Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

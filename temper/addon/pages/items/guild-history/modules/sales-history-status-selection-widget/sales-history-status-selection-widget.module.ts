@@ -6,4 +6,6 @@ export const salesHistoryStatusSelectionWidget = {
   slug: "sales-history-status-selection-widget",
   definition: "the marker drawn beside the chosen row",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.635Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const inventoryBuildItemFacts = {
         "An item read from a link alone has no uncollected fact unless it is no uncollected set piece.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.849Z",
+  updatedAt: "2026-10-08T14:33:30.000Z",
 } as const satisfies Module

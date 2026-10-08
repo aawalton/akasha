@@ -21,4 +21,6 @@ export const inventoryBrowserCategoryPlacing = {
       statement: "A page stating no title is labelled by its slug.",
     },
   ],
+  createdAt: "2026-09-27T04:09:50.310Z",
+  updatedAt: "2026-09-27T04:10:12.000Z",
 } as const satisfies Module

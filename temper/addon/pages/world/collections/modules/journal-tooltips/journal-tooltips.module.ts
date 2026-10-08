@@ -6,4 +6,6 @@ export const journalTooltips = {
   slug: "journal-tooltips",
   definition: "the item tooltip a tab shows beside the window",
   code: "ts",
+  createdAt: "2026-09-02T09:39:58.676Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

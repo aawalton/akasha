@@ -24,4 +24,6 @@ export const mainMenuSetup = {
       statement: "Leaving secure render mode drops the market category back to inventory.",
     },
   ],
+  createdAt: "2026-09-02T04:23:42.852Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

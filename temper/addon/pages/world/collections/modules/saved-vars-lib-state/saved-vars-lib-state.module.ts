@@ -6,4 +6,6 @@ export const savedVarsLibState = {
   slug: "saved-vars-lib-state",
   definition: "which addon is loading and the source of each saved variable table",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.898Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

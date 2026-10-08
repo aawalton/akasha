@@ -6,4 +6,6 @@ export const inventoryExplainTraceBuilder = {
   slug: "inventory-explain-trace-builder",
   definition: "the trace written when an item's rule outcome is explained",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.852Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

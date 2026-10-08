@@ -12,4 +12,6 @@ export const tweakCollectiblesMounts = {
       statement: "No shared guard stands behind the table guards here.",
     },
   ],
+  createdAt: "2026-09-02T07:46:08.197Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

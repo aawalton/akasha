@@ -6,4 +6,6 @@ export const tweakTypes = {
   slug: "tweak-types",
   definition: "the shapes of the interface tweaks' own values",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.216Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

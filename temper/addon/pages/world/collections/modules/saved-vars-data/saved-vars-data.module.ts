@@ -6,4 +6,6 @@ export const savedVarsData = {
   slug: "saved-vars-data",
   definition: "the data class an addon indexes as though the class were the settings table",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.903Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

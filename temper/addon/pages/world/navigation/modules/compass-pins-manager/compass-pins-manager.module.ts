@@ -6,4 +6,6 @@ export const compassPinsManager = {
   slug: "compass-pins-manager",
   definition: "the control pool that places each compass pin by angle and distance",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.001Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

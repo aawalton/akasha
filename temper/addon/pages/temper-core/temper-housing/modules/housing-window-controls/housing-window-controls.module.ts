@@ -12,4 +12,6 @@ export const housingWindowControls = {
       statement: "A scroll frame has a slider the add-on made rather than the game's.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.271Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Module

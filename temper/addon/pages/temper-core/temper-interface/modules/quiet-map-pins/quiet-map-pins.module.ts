@@ -6,4 +6,6 @@ export const quietMapPins = {
   slug: "quiet-map-pins",
   definition: "the map pins the add-on takes off the map",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.972Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

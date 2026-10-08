@@ -40,4 +40,6 @@ export const inventoryRulesEvalAllocation = {
         "A use allocation reads the current character's live bags rather than her capture.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.858Z",
+  updatedAt: "2026-09-27T15:45:12.000Z",
 } as const satisfies Module

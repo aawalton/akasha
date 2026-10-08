@@ -21,4 +21,6 @@ export const markersTextures = {
         "A built-in texture is shared by its place in this list, as More Markers shares it.",
     },
   ],
+  createdAt: "2026-09-26T16:21:04.460Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies Module

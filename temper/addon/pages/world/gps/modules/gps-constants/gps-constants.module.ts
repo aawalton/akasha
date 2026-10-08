@@ -6,4 +6,6 @@ export const gpsConstants = {
   slug: "gps-constants",
   definition: "the fixed values behind every measurement",
   code: "ts",
+  createdAt: "2026-09-02T08:47:29.634Z",
+  updatedAt: "2026-09-22T13:55:35.000Z",
 } as const satisfies Module

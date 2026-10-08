@@ -6,4 +6,6 @@ export const leadsActivityMap = {
   slug: "leads-activity-map",
   definition: "the antiquity each group activity rewards",
   code: "ts",
+  createdAt: "2026-09-02T14:10:09.674Z",
+  updatedAt: "2026-09-22T02:33:54.000Z",
 } as const satisfies Module

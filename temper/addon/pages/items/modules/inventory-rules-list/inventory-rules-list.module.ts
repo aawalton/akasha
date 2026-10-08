@@ -28,4 +28,6 @@ export const inventoryRulesList = {
       statement: "The caller is told once listing at a visit is over, whatever listing did.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.859Z",
+  updatedAt: "2026-09-27T14:44:32.000Z",
 } as const satisfies Module

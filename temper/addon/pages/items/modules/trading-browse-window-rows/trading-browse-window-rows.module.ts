@@ -21,4 +21,6 @@ export const tradingBrowseWindowRows = {
       statement: "A row pointed at is lit as window-rows lights a row.",
     },
   ],
+  createdAt: "2026-09-02T09:08:07.385Z",
+  updatedAt: "2026-09-25T16:07:28.000Z",
 } as const satisfies Module

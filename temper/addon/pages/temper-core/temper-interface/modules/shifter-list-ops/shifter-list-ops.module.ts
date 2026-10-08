@@ -6,4 +6,6 @@ export const shifterListOps = {
   slug: "shifter-list-ops",
   definition: "the moves that carry entries between the two lists",
   code: "ts",
+  createdAt: "2026-09-02T09:50:46.347Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

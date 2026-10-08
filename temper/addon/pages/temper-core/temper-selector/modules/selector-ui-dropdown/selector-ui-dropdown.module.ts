@@ -6,4 +6,6 @@ export const selectorUiDropdown = {
   slug: "selector-ui-dropdown",
   definition: "the saved packs offered in a dropdown and loaded when one is picked",
   code: "ts",
+  createdAt: "2026-09-02T11:44:59.557Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

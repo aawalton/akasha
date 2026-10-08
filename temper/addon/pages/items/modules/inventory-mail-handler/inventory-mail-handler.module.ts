@@ -7,4 +7,6 @@ export const inventoryMailHandler = {
   definition:
     "taking hireling mail attachments in passes and closing the session when the inbox settles",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.853Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

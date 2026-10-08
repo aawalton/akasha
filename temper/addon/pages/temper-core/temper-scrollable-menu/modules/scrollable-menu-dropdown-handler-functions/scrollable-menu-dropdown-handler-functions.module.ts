@@ -26,4 +26,6 @@ export const scrollableMenuDropdownHandlerFunctions = {
         "The boolean a handler returns decides whether the ZO_ComboBox behaviour also runs.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.264Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const salesHistoryPublicApi = {
   slug: "sales-history-public-api",
   definition: "every part of the library loaded before the library starts",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.633Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

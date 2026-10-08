@@ -24,4 +24,6 @@ export const scrollableMenuComboboxBaseSetupEditbox = {
       statement: "Text type and input length fall back to game-wide defaults when unset.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.261Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

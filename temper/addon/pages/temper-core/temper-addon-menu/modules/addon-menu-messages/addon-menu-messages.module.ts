@@ -20,4 +20,6 @@ export const addonMenuMessages = {
       statement: "A missing LibDebugLogger yields a logger whose methods do nothing.",
     },
   ],
+  createdAt: "2026-09-02T07:23:05.088Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

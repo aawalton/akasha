@@ -12,4 +12,6 @@ export const tweakCraftingSmithing = {
       statement: "No shared guard stands behind the guards here.",
     },
   ],
+  createdAt: "2026-09-02T07:46:08.199Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

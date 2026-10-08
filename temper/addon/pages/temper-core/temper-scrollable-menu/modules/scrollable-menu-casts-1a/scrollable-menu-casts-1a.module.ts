@@ -24,4 +24,6 @@ export const scrollableMenuCasts1a = {
       statement: "A target shape with no named declaration is written inline as a structural type.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.259Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const keybinderKeybindEvents = {
       statement: "The add-on synchronises on the frame after the game announces the bindings.",
     },
   ],
+  createdAt: "2026-09-02T19:03:40.225Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

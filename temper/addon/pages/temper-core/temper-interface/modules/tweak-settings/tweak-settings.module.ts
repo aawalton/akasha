@@ -6,4 +6,6 @@ export const tweakSettings = {
   slug: "tweak-settings",
   definition: "the saved settings of the interface tweaks",
   code: "ts",
+  createdAt: "2026-09-02T07:46:08.213Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

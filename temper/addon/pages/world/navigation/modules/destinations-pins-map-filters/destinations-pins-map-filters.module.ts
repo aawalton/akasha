@@ -6,4 +6,6 @@ export const destinationsPinsMapFilters = {
   slug: "destinations-pins-map-filters",
   definition: "the map filter for each destination pin kind",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.079Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

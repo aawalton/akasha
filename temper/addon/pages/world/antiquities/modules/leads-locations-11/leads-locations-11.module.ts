@@ -6,4 +6,6 @@ export const leadsLocations11 = {
   slug: "leads-locations-11",
   definition: "the location hints for antiquities 659 through 708",
   code: "ts",
+  createdAt: "2026-09-02T14:10:09.675Z",
+  updatedAt: "2026-09-22T02:33:54.000Z",
 } as const satisfies Module

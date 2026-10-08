@@ -6,4 +6,6 @@ export const savedVarsRegistry = {
   slug: "saved-vars-registry",
   definition: "the single table with the library, the manager class and the data class",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.898Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

@@ -67,4 +67,6 @@ export const inventoryCraftShortfallPlan = {
       statement: "With no way priced, the first found is crafted and said to be unpriced.",
     },
   ],
+  createdAt: "2026-09-24T18:22:54.357Z",
+  updatedAt: "2026-09-27T13:35:16.000Z",
 } as const satisfies Module

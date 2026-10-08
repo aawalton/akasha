@@ -21,4 +21,6 @@ export const debugLoggerApi = {
       statement: "The API version this states is two.",
     },
   ],
+  createdAt: "2026-09-02T04:29:41.388Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

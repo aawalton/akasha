@@ -7,4 +7,6 @@ export const inventoryAutoMaintenanceSelect = {
   definition:
     "which soul gems and repair kits are used first when gear needs recharging or repairing",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.846Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

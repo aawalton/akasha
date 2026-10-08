@@ -28,4 +28,6 @@ export const notificationProviders = {
       statement: "A misspelled decline callback is read as well as the correctly spelled name.",
     },
   ],
+  createdAt: "2026-09-02T04:21:47.413Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies Module

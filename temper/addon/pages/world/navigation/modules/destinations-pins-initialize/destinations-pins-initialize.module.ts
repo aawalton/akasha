@@ -6,4 +6,6 @@ export const destinationsPinsInitialize = {
   slug: "destinations-pins-initialize",
   definition: "the startup order of the destination pins, filters and settings",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.063Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

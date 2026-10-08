@@ -6,4 +6,6 @@ export const leadsUnitState = {
   slug: "leads-unit-state",
   definition: "the leads kept for the list, and how far each set has been dug",
   code: "ts",
+  createdAt: "2026-09-02T14:10:09.674Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

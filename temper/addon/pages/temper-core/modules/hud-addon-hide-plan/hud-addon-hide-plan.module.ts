@@ -16,4 +16,6 @@ export const hudAddonHidePlan = {
       statement: "Nothing here touches a game control.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const worldGlobal = {
   slug: "world-global",
   definition: "the table this add-on publishes under its own name",
   code: "ts",
+  createdAt: "2026-09-22T01:50:09.943Z",
+  updatedAt: "2026-09-22T01:52:24.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const tweakInventory = {
       statement: "No shared guard could name the type each guard here narrows to.",
     },
   ],
+  createdAt: "2026-09-02T07:46:08.202Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies Module

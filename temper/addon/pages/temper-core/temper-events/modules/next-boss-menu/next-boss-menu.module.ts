@@ -17,4 +17,6 @@ export const nextBossMenu = {
       statement: "The saved variables are read before the panel is built.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.346Z",
+  updatedAt: "2026-09-22T14:13:12.000Z",
 } as const satisfies Module

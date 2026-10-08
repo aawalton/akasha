@@ -18,4 +18,6 @@ export const nextBossSavedVariables = {
         "The timers kept are read back only where the campaign is the one those timers were kept under.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.344Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const addonMenuUiStrings = {
       statement: "Each string is a plain field on one exported table.",
     },
   ],
+  createdAt: "2026-09-02T07:23:05.088Z",
+  updatedAt: "2026-09-22T10:19:56.000Z",
 } as const satisfies Module

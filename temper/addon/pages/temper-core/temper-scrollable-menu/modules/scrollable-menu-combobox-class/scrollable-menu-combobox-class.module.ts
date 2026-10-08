@@ -24,4 +24,6 @@ export const scrollableMenuComboboxClass = {
       statement: "The visible row count falls back to the library default of ten.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.262Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

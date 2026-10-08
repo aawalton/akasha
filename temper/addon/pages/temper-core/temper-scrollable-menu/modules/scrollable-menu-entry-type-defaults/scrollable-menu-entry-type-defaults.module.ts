@@ -16,4 +16,6 @@ export const scrollableMenuEntryTypeDefaults = {
       statement: "A submenu, a checkbox, a button and a slider row pad their width by the height.",
     },
   ],
+  createdAt: "2026-09-21T17:43:26.683Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

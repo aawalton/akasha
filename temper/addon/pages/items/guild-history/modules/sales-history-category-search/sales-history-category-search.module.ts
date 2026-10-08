@@ -6,4 +6,6 @@ export const salesHistoryCategorySearch = {
   slug: "sales-history-category-search",
   definition: "the search through a category's cached events for an event",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.625Z",
+  updatedAt: "2026-09-22T10:07:46.000Z",
 } as const satisfies Module

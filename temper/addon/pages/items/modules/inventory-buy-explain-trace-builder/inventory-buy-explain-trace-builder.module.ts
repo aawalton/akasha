@@ -20,4 +20,6 @@ export const inventoryBuyExplainTraceBuilder = {
       statement: "A rule's entry carries the max price that rule states.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.850Z",
+  updatedAt: "2026-09-27T14:45:29.000Z",
 } as const satisfies Module

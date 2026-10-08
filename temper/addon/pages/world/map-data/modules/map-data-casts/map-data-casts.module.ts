@@ -12,4 +12,6 @@ export const mapDataCasts = {
       statement: "Nothing here checks a value at run time.",
     },
   ],
+  createdAt: "2026-09-02T11:29:35.386Z",
+  updatedAt: "2026-09-22T03:36:30.000Z",
 } as const satisfies Module

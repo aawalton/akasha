@@ -12,4 +12,6 @@ export const housingStateTypes = {
       statement: "Nothing here runs.",
     },
   ],
+  createdAt: "2026-09-02T07:44:37.330Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

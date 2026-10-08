@@ -12,4 +12,6 @@ export const housingVisitCardsInteract = {
       statement: "One card is selected at a time.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.270Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const mainMenuEntry = {
       statement: "Nothing is declared here.",
     },
   ],
+  createdAt: "2026-09-02T04:23:42.850Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies Module

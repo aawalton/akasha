@@ -17,4 +17,6 @@ export const inventoryRulesDispatchGuildCrafting = {
       statement: "A station crafting anything deconstructs and researches nothing on that visit.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.857Z",
+  updatedAt: "2026-09-24T18:30:13.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const inventoryVenueTitles = {
       statement: "A venue no page titles is named by its key.",
     },
   ],
+  createdAt: "2026-09-27T03:07:01.935Z",
+  updatedAt: "2026-09-27T03:09:56.000Z",
 } as const satisfies Module

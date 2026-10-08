@@ -16,4 +16,6 @@ export const treasurePinsData = {
       statement: "The rows are kept in numbered parts rather than in one file.",
     },
   ],
+  createdAt: "2026-09-02T11:16:37.693Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

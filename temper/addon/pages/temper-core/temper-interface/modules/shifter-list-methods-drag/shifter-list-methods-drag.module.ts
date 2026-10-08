@@ -6,4 +6,6 @@ export const shifterListMethodsDrag = {
   slug: "shifter-list-methods-drag",
   definition: "the drag and drop handlers a list row answers",
   code: "ts",
+  createdAt: "2026-09-02T09:50:46.346Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

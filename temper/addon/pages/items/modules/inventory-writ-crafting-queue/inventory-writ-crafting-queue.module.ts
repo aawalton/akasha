@@ -12,4 +12,6 @@ export const inventoryWritCraftingQueue = {
       statement: "A queue with anything left in it counts as crafting still under way.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.862Z",
+  updatedAt: "2026-09-21T17:44:29.000Z",
 } as const satisfies Module

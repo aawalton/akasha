@@ -21,4 +21,6 @@ export const leadsGlobal = {
       statement: "The function a key is bound to is named as akasha names a function.",
     },
   ],
+  createdAt: "2026-09-02T14:10:09.674Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const selectorPacksCore = {
   slug: "selector-packs-core",
   definition: "a pack built from what is on, and what to switch to make a pack current",
   code: "ts",
+  createdAt: "2026-09-02T11:44:59.557Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

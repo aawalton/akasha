@@ -20,4 +20,6 @@ export const inventoryJunkQueue = {
       statement: "A flag the full window holds back is sent once the window has room.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.853Z",
+  updatedAt: "2026-09-27T15:13:16.000Z",
 } as const satisfies Module

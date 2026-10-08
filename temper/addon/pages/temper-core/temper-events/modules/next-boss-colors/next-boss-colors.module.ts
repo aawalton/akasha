@@ -12,4 +12,6 @@ export const nextBossColors = {
       statement: "A district still on its timer is red and a district that is up is green.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.342Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

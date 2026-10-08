@@ -16,4 +16,6 @@ export const pinState = {
       statement: "Pins are refreshed only where the enabled state changed.",
     },
   ],
+  createdAt: "2026-09-02T04:30:52.895Z",
+  updatedAt: "2026-09-22T04:57:47.000Z",
 } as const satisfies Module

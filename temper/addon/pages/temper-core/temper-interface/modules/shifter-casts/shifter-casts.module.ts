@@ -6,4 +6,6 @@ export const shifterCasts = {
   slug: "shifter-casts",
   definition: "the narrowings reading the untyped shifter box tables",
   code: "ts",
+  createdAt: "2026-09-02T09:50:46.340Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies Module

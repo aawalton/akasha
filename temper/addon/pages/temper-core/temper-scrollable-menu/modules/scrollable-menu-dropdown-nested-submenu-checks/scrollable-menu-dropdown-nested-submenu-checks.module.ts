@@ -24,4 +24,6 @@ export const scrollableMenuDropdownNestedSubmenuChecks = {
       statement: "Reading upward stops at the first entry without a parent control.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.264Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

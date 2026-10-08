@@ -24,4 +24,6 @@ export const scrollableMenuDebugLogger = {
       statement: "A message whose id has no pattern produces nothing.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.263Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

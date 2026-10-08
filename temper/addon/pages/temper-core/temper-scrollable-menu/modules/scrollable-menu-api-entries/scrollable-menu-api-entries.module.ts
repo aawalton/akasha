@@ -20,4 +20,6 @@ export const scrollableMenuApiEntries = {
       statement: "Every wrapper returns the added index and the created entry table.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.259Z",
+  updatedAt: "2026-09-22T10:19:01.000Z",
 } as const satisfies Module

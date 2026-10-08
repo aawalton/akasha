@@ -12,4 +12,6 @@ export const mapPinsAchievementsId = {
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],
+  createdAt: "2026-09-02T13:57:34.403Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

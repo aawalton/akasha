@@ -20,4 +20,6 @@ export const errorsAddonBuildIds = {
       statement: "No build stamp is needed for an error to be recorded.",
     },
   ],
+  createdAt: "2026-09-02T06:39:25.976Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies Module

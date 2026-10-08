@@ -24,4 +24,6 @@ export const addonMenuWidgetEditbox = {
       statement: "Input is capped at three thousand characters when maxChars is absent.",
     },
   ],
+  createdAt: "2026-09-02T07:23:05.088Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

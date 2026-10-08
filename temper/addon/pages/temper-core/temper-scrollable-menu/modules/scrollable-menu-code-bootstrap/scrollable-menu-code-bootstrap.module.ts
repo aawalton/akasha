@@ -24,4 +24,6 @@ export const scrollableMenuCodeBootstrap = {
       statement: "An XML handler resolves its target through the control's owning window.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.260Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Module

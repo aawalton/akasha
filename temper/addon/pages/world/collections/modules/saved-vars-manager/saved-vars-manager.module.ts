@@ -13,4 +13,6 @@ export const savedVarsManager = {
         "A saved table's path is written as its keys joined, a table not yet made included.",
     },
   ],
+  createdAt: "2026-09-02T09:33:47.901Z",
+  updatedAt: "2026-09-24T19:49:55.000Z",
 } as const satisfies Module

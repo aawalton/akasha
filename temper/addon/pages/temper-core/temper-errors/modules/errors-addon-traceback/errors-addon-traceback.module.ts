@@ -24,4 +24,6 @@ export const errorsAddonTraceback = {
       statement: "A sentinel message has the listener's own callstack for want of the origin.",
     },
   ],
+  createdAt: "2026-09-02T06:39:25.976Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

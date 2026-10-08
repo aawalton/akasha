@@ -24,4 +24,6 @@ export const scrollableMenuComboboxBaseContextClickChecks = {
       statement: "Clicking away from the context menu clears the menu before the click is handled.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.260Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

@@ -29,4 +29,6 @@ export const salesCapture = {
         "The event stream is reached through the guild history modules this add-on carries.",
     },
   ],
+  createdAt: "2026-09-02T06:50:31.681Z",
+  updatedAt: "2026-09-25T12:59:54.000Z",
 } as const satisfies Module

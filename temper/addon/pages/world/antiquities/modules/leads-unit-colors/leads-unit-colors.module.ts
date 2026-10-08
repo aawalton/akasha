@@ -12,4 +12,6 @@ export const leadsUnitColors = {
       statement: "A lead with no rarity is in the primary text color.",
     },
   ],
+  createdAt: "2026-09-02T14:10:09.674Z",
+  updatedAt: "2026-09-25T15:18:03.000Z",
 } as const satisfies Module

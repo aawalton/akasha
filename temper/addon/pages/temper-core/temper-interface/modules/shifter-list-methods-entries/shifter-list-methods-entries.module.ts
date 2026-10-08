@@ -6,4 +6,6 @@ export const shifterListMethodsEntries = {
   slug: "shifter-list-methods-entries",
   definition: "the list methods that add, remove and read entries",
   code: "ts",
+  createdAt: "2026-09-02T09:50:46.346Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

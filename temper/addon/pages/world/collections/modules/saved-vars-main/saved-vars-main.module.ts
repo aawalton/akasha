@@ -6,4 +6,6 @@ export const savedVarsMain = {
   slug: "saved-vars-main",
   definition: "the saved-variables parts' installation order",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.904Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies Module

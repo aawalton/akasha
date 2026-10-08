@@ -25,4 +25,6 @@ export const scrollableMenuSubmenuClass = {
       statement: "Hiding runs an optional onHideDropdownCallback supplied by the caller.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.265Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

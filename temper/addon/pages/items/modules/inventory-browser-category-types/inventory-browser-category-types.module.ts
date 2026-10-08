@@ -24,4 +24,6 @@ export const inventoryBrowserCategoryTypes = {
       statement: "A link to no page the numbers know is passed over.",
     },
   ],
+  createdAt: "2026-09-27T04:34:17.391Z",
+  updatedAt: "2026-09-27T04:34:39.000Z",
 } as const satisfies Module

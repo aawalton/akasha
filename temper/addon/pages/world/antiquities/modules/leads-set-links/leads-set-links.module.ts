@@ -6,4 +6,6 @@ export const leadsSetLinks = {
   slug: "leads-set-links",
   definition: "one item of each antiquity set, for reading that set's bonus off",
   code: "ts",
+  createdAt: "2026-09-02T14:10:09.674Z",
+  updatedAt: "2026-09-22T02:33:54.000Z",
 } as const satisfies Module

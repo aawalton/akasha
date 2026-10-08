@@ -6,4 +6,6 @@ export const salesHistoryEventProcessorIteration = {
   slug: "sales-history-event-processor-iteration",
   definition: "the starting of a processor over the events already cached",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.627Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

@@ -22,4 +22,6 @@ export const inventoryPlan = {
       statement: "A plan with nothing pending is an empty plan rather than no plan.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.854Z",
+  updatedAt: "2026-09-26T18:07:26.000Z",
 } as const satisfies Module

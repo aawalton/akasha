@@ -6,4 +6,6 @@ export const mapDataEvents = {
   slug: "map-data-events",
   definition: "the game events this feature watches and the callbacks it fires",
   code: "ts",
+  createdAt: "2026-09-02T11:29:35.408Z",
+  updatedAt: "2026-09-22T03:36:30.000Z",
 } as const satisfies Module

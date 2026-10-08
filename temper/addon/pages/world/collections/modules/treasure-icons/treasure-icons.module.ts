@@ -12,4 +12,6 @@ export const treasureIcons = {
       statement: "Every texture offered is one the game itself ships.",
     },
   ],
+  createdAt: "2026-09-02T11:16:37.684Z",
+  updatedAt: "2026-09-22T13:49:49.000Z",
 } as const satisfies Module

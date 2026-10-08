@@ -36,4 +36,6 @@ export const inventoryServerActionWindow = {
       statement: "No action waits a fixed time before it goes out.",
     },
   ],
+  createdAt: "2026-09-27T15:07:25.637Z",
+  updatedAt: "2026-09-27T15:14:10.000Z",
 } as const satisfies Module

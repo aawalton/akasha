@@ -6,4 +6,6 @@ export const menuRowFactories = {
   slug: "menu-row-factories",
   definition: "how a row of the game's context menu is made and reset",
   code: "ts",
+  createdAt: "2026-09-02T04:22:08.671Z",
+  updatedAt: "2026-09-22T10:09:09.000Z",
 } as const satisfies Module

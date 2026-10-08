@@ -12,4 +12,6 @@ export const gpsMain = {
       statement: "The map hooks are in place before the add-on says it has loaded.",
     },
   ],
+  createdAt: "2026-09-02T08:47:29.636Z",
+  updatedAt: "2026-09-22T03:58:40.000Z",
 } as const satisfies Module

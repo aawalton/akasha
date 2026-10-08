@@ -34,4 +34,6 @@ export const inventoryRulesDispatchVendor = {
       statement: "Closing the vendor stops what was left unsent and says so in chat.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.858Z",
+  updatedAt: "2026-09-27T15:10:14.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const hudAddonSettingsPanel = {
       statement: "A checkbox turned on shows its part.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies Module

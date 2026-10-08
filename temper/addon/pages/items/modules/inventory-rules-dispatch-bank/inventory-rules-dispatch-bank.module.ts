@@ -46,4 +46,6 @@ export const inventoryRulesDispatchBank = {
       statement: "The setting that stacks the backpack at login is the setting that stacks here.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.857Z",
+  updatedAt: "2026-09-22T10:05:23.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const debugLoggerTypes = {
       statement: "Every field past the message is optional.",
     },
   ],
+  createdAt: "2026-09-02T04:29:41.394Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

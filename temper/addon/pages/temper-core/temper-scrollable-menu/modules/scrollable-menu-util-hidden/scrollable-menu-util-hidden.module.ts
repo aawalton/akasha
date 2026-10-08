@@ -24,4 +24,6 @@ export const scrollableMenuUtilHidden = {
       statement: "Verbose tracing sits behind a local flag that is hard-coded to false.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.265Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

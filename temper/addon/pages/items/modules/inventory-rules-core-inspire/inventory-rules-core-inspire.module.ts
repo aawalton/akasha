@@ -13,4 +13,6 @@ export const inventoryRulesCoreInspire = {
       statement: "A trait is matched by name without regard to case.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.855Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const inventoryWritCraftingAlchemySolver = {
   slug: "inventory-writ-crafting-alchemy-solver",
   definition: "which reagent pairs give the potion a writ names",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.861Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies Module

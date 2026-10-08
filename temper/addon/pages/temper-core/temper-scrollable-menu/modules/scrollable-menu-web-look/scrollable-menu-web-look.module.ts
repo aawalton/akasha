@@ -25,4 +25,6 @@ export const scrollableMenuWebLook = {
         "The search field and buttons in a Temper menu's header take the web's look for good.",
     },
   ],
+  createdAt: "2026-09-25T21:38:39.314Z",
+  updatedAt: "2026-09-25T22:14:33.000Z",
 } as const satisfies Module

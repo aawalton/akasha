@@ -6,4 +6,6 @@ export const inventoryBrowserScene = {
   slug: "inventory-browser-scene",
   definition: "the cross-character browser window's scene",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.849Z",
+  updatedAt: "2026-09-22T14:04:10.000Z",
 } as const satisfies Module

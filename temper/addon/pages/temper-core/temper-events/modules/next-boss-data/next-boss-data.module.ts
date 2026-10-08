@@ -25,4 +25,6 @@ export const nextBossData = {
       statement: "The next district is read from one table clockwise and another counterclockwise.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.344Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies Module

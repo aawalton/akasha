@@ -16,4 +16,6 @@ export const debugLoggerCompatibility = {
       statement: "Nothing here is reached by code written against the current names.",
     },
   ],
+  createdAt: "2026-09-02T04:29:41.389Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

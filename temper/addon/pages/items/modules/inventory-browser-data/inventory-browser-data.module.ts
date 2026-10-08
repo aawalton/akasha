@@ -13,4 +13,6 @@ export const inventoryBrowserData = {
         "The fixed location views are written from the location view pages as the addon compiles.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.848Z",
+  updatedAt: "2026-09-27T03:14:22.000Z",
 } as const satisfies Module

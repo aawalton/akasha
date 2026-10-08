@@ -24,4 +24,6 @@ export const scrollableMenuUtilTooltip = {
       statement: "The selected-entry sound is silenced by swapping the game sound table entry.",
     },
   ],
+  createdAt: "2026-09-02T14:11:20.266Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

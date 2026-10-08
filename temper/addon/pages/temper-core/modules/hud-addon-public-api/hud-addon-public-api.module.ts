@@ -20,4 +20,6 @@ export const hudAddonPublicApi = {
       statement: "Another add-on reaches the heads-up add-on through the global alone.",
     },
   ],
+  createdAt: "2026-09-02T10:58:22.045Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies Module

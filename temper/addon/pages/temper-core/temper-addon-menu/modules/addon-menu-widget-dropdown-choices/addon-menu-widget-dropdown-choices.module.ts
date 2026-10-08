@@ -6,4 +6,6 @@ export const addonMenuWidgetDropdownChoices = {
   slug: "addon-menu-widget-dropdown-choices",
   definition: "the choices a dropdown offers, the order they sit in and the value it holds",
   code: "ts",
+  createdAt: "2026-09-21T17:27:24.830Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

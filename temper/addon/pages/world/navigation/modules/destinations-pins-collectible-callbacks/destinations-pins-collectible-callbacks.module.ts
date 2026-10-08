@@ -6,4 +6,6 @@ export const destinationsPinsCollectibleCallbacks = {
   slug: "destinations-pins-collectible-callbacks",
   definition: "the pin callbacks for collectibles found and not yet found",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.032Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

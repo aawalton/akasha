@@ -6,4 +6,6 @@ export const quietPrint = {
   slug: "quiet-print",
   definition: "printing a line to chat before chat is ready",
   code: "ts",
+  createdAt: "2026-09-02T07:07:08.985Z",
+  updatedAt: "2026-09-22T10:09:09.000Z",
 } as const satisfies Module

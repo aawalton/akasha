@@ -6,4 +6,6 @@ export const inventoryRulesDispatchGuildRepackScan = {
   slug: "inventory-rules-dispatch-guild-repack-scan",
   definition: "the groups of items in the guild bank and the backpack slots that could join them",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.857Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

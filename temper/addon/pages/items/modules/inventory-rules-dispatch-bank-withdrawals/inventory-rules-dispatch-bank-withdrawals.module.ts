@@ -20,4 +20,6 @@ export const inventoryRulesDispatchBankWithdrawals = {
       statement: "A stock rule's first-listed items are withdrawn before the ones listed after.",
     },
   ],
+  createdAt: "2026-09-02T13:39:35.856Z",
+  updatedAt: "2026-09-26T17:44:47.000Z",
 } as const satisfies Module

@@ -26,4 +26,6 @@ export const housingListState = {
         "What a list holds is read from the game or the add-on at once, so it never loads or fails.",
     },
   ],
+  createdAt: "2026-09-25T19:34:19.547Z",
+  updatedAt: "2026-09-25T19:34:26.000Z",
 } as const satisfies Module

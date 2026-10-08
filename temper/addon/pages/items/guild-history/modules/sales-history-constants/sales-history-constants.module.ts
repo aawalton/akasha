@@ -6,4 +6,6 @@ export const salesHistoryConstants = {
   slug: "sales-history-constants",
   definition: "the callback names, request and zoom modes, and stop reasons this library uses",
   code: "ts",
+  createdAt: "2026-09-02T10:08:20.626Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies Module

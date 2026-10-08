@@ -6,4 +6,6 @@ export const notificationNames = {
   slug: "notification-names",
   definition: "the global name of the notification rows another add-on reads",
   code: "ts",
+  createdAt: "2026-09-02T04:21:47.414Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

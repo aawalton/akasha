@@ -6,4 +6,6 @@ export const destinationsCompassAchievementPins = {
   slug: "destinations-compass-achievement-pins",
   definition: "the compass pins for each achievement pin kind",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.037Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

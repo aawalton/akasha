@@ -6,4 +6,6 @@ export const destinationsPinsMapContext = {
   slug: "destinations-pins-map-context",
   definition: "which map is shown and its texture name",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.068Z",
+  updatedAt: "2026-09-22T13:49:27.000Z",
 } as const satisfies Module

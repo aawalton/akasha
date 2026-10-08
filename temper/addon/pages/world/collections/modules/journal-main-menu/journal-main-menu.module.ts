@@ -6,4 +6,6 @@ export const journalMainMenu = {
   slug: "journal-main-menu",
   definition: "the button the journal adds to the game's main menu",
   code: "ts",
+  createdAt: "2026-09-02T09:39:58.673Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

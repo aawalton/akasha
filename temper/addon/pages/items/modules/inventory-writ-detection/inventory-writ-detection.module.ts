@@ -6,4 +6,6 @@ export const inventoryWritDetection = {
   slug: "inventory-writ-detection",
   definition: "the writs and master writs active in the journal, read from quest conditions",
   code: "ts",
+  createdAt: "2026-09-02T13:39:35.862Z",
+  updatedAt: "2026-09-21T17:37:10.000Z",
 } as const satisfies Module

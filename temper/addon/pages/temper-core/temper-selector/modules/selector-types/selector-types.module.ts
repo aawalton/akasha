@@ -6,4 +6,6 @@ export const selectorTypes = {
   slug: "selector-types",
   definition: "the shape a pack takes and the shape the account-wide data holding it takes",
   code: "ts",
+  createdAt: "2026-09-02T11:44:59.557Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

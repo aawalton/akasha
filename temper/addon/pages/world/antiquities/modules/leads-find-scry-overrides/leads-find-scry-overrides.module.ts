@@ -6,4 +6,6 @@ export const leadsFindScryOverrides = {
   slug: "leads-find-scry-overrides",
   definition: "the zone a lead is found in where that differs from where it is scryed",
   code: "ts",
+  createdAt: "2026-09-02T14:10:09.674Z",
+  updatedAt: "2026-09-22T02:33:54.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const shifterConstants = {
   slug: "shifter-constants",
   definition: "the sizes, texture names and default settings starting a new shifter box",
   code: "ts",
+  createdAt: "2026-09-02T09:50:46.340Z",
+  updatedAt: "2026-09-22T14:00:24.000Z",
 } as const satisfies Module

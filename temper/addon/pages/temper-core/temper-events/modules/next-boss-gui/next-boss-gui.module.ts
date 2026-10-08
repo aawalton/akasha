@@ -24,4 +24,6 @@ export const nextBossGui = {
       statement: "The map timers are drawn only on the Imperial City map.",
     },
   ],
+  createdAt: "2026-09-02T08:58:40.345Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module

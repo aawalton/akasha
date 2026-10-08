@@ -17,4 +17,6 @@ export const housingLibraryDataEu5 = {
         "An entry's place in this part is the place the gathered list keeps that entry in.",
     },
   ],
+  createdAt: "2026-09-02T07:44:37.328Z",
+  updatedAt: "2026-09-25T13:17:40.000Z",
 } as const satisfies Module

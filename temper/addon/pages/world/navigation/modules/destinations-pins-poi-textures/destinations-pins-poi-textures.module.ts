@@ -6,4 +6,6 @@ export const destinationsPinsPoiTextures = {
   slug: "destinations-pins-poi-textures",
   definition: "the texture for a known or unknown point of interest by its kind",
   code: "ts",
+  createdAt: "2026-09-02T13:57:34.073Z",
+  updatedAt: "2026-09-22T02:18:28.000Z",
 } as const satisfies Module

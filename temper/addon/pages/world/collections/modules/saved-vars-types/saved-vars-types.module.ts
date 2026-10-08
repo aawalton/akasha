@@ -6,4 +6,6 @@ export const savedVarsTypes = {
   slug: "saved-vars-types",
   definition: "the shapes a manager, a data object and the library table take",
   code: "ts",
+  createdAt: "2026-09-02T09:33:47.896Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

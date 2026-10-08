@@ -12,4 +12,6 @@ export const treasureData = {
       statement: "Every lookup is built once as the bundle loads.",
     },
   ],
+  createdAt: "2026-09-02T11:16:37.695Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies Module

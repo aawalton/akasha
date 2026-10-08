@@ -12,4 +12,6 @@ export const housingSlash = {
       statement: "A slash command naming no word opens the window.",
     },
   ],
+  createdAt: "2026-09-02T08:07:41.267Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies Module
