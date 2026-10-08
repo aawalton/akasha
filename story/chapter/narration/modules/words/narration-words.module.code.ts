@@ -104,6 +104,7 @@ const SPELLED_AS_NAMES: ReadonlySet<string> = new Set([
   "its",
   "me",
   "mod",
+  "my",
   "not",
   "of",
   "oft",

@@ -12,7 +12,9 @@ describe("shoutedOf", () => {
   })
 
   test("a short capital word the voice would spell as a name's letters is said as the word", () => {
-    expect(shoutedOf("SIR, US, OUR and WHY")).toBe("[sir](+2), [us](+2), [our](+2) and [why](+2)")
+    expect(shoutedOf("SIR, US, OUR, MY and WHY")).toBe(
+      "[sir](+2), [us](+2), [our](+2), [my](+2) and [why](+2)"
+    )
   })
 
   test("an acronym, a numeral, a vowelless word and markup are left as written", () => {
