@@ -113,6 +113,14 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Each tower is conquered in a single challenge, whose difficulty scales with its highest tier.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Conquering a central tower takes all three of its pulls at once, with no foothold below the top.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A tower's Administrator takes a small cut, about 1%, of the essence flowing through it.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -254,5 +262,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T20:56:27.984Z",
+  updatedAt: "2026-10-08T20:58:09.024Z",
 } as const satisfies Lore
