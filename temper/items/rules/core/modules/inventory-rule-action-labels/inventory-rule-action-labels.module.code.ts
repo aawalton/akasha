@@ -9,6 +9,8 @@ function getActionVerbLabel(action: ItemAction): string {
       return "Lock"
     case "unlock":
       return "Unlock"
+    case "bind":
+      return "Bind"
     case "sell":
       return "Sell"
     case "fence-sell":
@@ -58,6 +60,7 @@ export function formatActionLabel(args: FormatActionLabelArgs): string {
     case "nothing":
     case "lock":
     case "unlock":
+    case "bind":
     case "sell":
     case "fence-sell":
     case "fence-launder":

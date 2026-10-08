@@ -104,7 +104,13 @@ export function fillUseAllocationsInPlace(
 
   for (const rule of rules) {
     if (rule.active === false) continue
-    if (rule.action === "nothing" || rule.action === "lock" || rule.action === "unlock") continue
+    if (
+      rule.action === "nothing" ||
+      rule.action === "lock" ||
+      rule.action === "unlock" ||
+      rule.action === "bind"
+    )
+      continue
     if (rule.id === undefined) continue
     const ruleDestination =
       rule.destination === undefined ? undefined : narrowDestination(rule.destination)
@@ -112,7 +118,13 @@ export function fillUseAllocationsInPlace(
   }
   for (const rule of itemRules) {
     if (rule.active === false) continue
-    if (rule.action === "nothing" || rule.action === "lock" || rule.action === "unlock") continue
+    if (
+      rule.action === "nothing" ||
+      rule.action === "lock" ||
+      rule.action === "unlock" ||
+      rule.action === "bind"
+    )
+      continue
     processRule(rule.id, rule.action, rule.destination, rule)
   }
 }

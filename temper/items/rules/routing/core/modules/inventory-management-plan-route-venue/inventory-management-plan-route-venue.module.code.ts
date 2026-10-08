@@ -101,6 +101,7 @@ export function getActionVenue(
     case "nothing":
     case "lock":
     case "unlock":
+    case "bind":
       return null
     default:
       return assertNever(action)

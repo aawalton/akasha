@@ -31,6 +31,7 @@ export function computePlanItemValue(
     case "nothing":
     case "lock":
     case "unlock":
+    case "bind":
     case "move-to":
     case "stock":
     case "character-equip":

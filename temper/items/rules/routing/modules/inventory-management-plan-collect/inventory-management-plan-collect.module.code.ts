@@ -157,7 +157,13 @@ export function collectSimSteps(
 
   for (const [ruleIdx, rule] of rules.entries()) {
     if (rule.active === false) continue
-    if (rule.action === "nothing" || rule.action === "lock" || rule.action === "unlock") continue
+    if (
+      rule.action === "nothing" ||
+      rule.action === "lock" ||
+      rule.action === "unlock" ||
+      rule.action === "bind"
+    )
+      continue
     if (rule.id === undefined) continue
     const affected = workingAffectedItemsMap.get(rule.id)
     if (!affected) continue
@@ -231,7 +237,13 @@ export function collectSimSteps(
 
   for (const [ruleIdx, rule] of itemRules.entries()) {
     if (rule.active === false) continue
-    if (rule.action === "nothing" || rule.action === "lock" || rule.action === "unlock") continue
+    if (
+      rule.action === "nothing" ||
+      rule.action === "lock" ||
+      rule.action === "unlock" ||
+      rule.action === "bind"
+    )
+      continue
     const affected = workingAffectedItemsMap.get(rule.id)
     if (!affected) continue
     const chainHasByPriorityTier =

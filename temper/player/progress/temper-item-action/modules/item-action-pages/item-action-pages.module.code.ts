@@ -1,3 +1,4 @@
+import { bind } from "akasha/temper/player/progress/temper-item-action/pages/bind.temper-item-action.ts"
 import { characterEquip } from "akasha/temper/player/progress/temper-item-action/pages/character-equip.temper-item-action.ts"
 import { companionEquip } from "akasha/temper/player/progress/temper-item-action/pages/companion-equip.temper-item-action.ts"
 import { deconstruct } from "akasha/temper/player/progress/temper-item-action/pages/deconstruct.temper-item-action.ts"
@@ -22,6 +23,7 @@ export const ITEM_ACTION_PAGES = [
   nothing,
   lock,
   unlock,
+  bind,
   moveTo,
   stock,
   characterEquip,
