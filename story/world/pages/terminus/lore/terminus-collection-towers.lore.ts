@@ -141,6 +141,18 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A tower's essence flow grows with depth, so its deepest layers can hold the strongest defences.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A tower narrows with depth, concentrating its essence as it nears the shell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The tower's narrowing descent is an early stage of essence solidification.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Administrators follow different strategies for fortifying their towers.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -354,5 +366,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T21:07:09.533Z",
+  updatedAt: "2026-10-08T21:08:26.958Z",
 } as const satisfies Lore
