@@ -8,4 +8,6 @@ export const setWayshrines = {
   definition: "the fast travel nodes nearest where a set drops, one for each alliance",
   max: null,
   types: "ts",
+  createdAt: "2026-09-25T14:03:43.169Z",
+  updatedAt: "2026-09-25T14:03:50.000Z",
 } as const satisfies NumberProperty

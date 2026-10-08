@@ -8,4 +8,6 @@ export const durationSeconds = {
   definition: "how long the set ran, where it is counted in time rather than repetitions",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:21:48.925Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

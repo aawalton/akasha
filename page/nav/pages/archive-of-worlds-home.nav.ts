@@ -9,4 +9,6 @@ export const archiveOfWorldsHome = {
   navPlace: -1,
   app: "web-app/archive-of-worlds-web",
   navHref: "/",
+  createdAt: "2026-09-25T14:51:14.927Z",
+  updatedAt: "2026-09-25T14:51:18.000Z",
 } as const satisfies Nav

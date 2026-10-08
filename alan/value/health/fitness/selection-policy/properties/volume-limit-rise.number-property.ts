@@ -8,5 +8,6 @@ export const volumeLimitRise = {
   definition: "the pounds a day's limit climbs by after a day that reached it",
   max: null,
   types: "ts",
-  updatedAt: "2026-10-08T15:25:33.191Z",
+  updatedAt: "2026-10-08T16:02:32.012Z",
+  createdAt: "2026-09-21T13:40:50.291Z",
 } as const satisfies NumberProperty

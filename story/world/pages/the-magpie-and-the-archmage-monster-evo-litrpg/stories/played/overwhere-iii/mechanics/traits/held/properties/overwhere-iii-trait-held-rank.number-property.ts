@@ -9,4 +9,6 @@ export const overwhereIiiTraitHeldRank = {
   nullable: false,
   max: 5,
   types: "ts",
+  createdAt: "2026-09-29T12:20:41.292Z",
+  updatedAt: "2026-09-29T12:20:46.000Z",
 } as const satisfies NumberProperty

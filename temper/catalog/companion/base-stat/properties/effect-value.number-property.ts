@@ -8,4 +8,6 @@ export const effectValue = {
   definition: "how far an effect moves the metric the effect names",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:16:20.588Z",
+  updatedAt: "2026-09-26T18:21:10.000Z",
 } as const satisfies NumberProperty

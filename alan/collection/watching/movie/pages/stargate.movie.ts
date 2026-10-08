@@ -19,4 +19,6 @@ export const stargate = {
       lastSyncedAt: "2025-10-04",
     },
   ],
+  createdAt: "2026-09-03T16:03:04.730Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Movie

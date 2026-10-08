@@ -8,4 +8,6 @@ export const modelYear = {
   definition: "the model year",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:53:12.371Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

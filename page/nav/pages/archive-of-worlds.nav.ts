@@ -10,4 +10,6 @@ export const archiveOfWorlds = {
   app: "web-app/alanwalton-web",
   navParent: "nav/products",
   navHref: "https://archiveofworlds.app",
+  createdAt: "2026-09-25T14:35:15.714Z",
+  updatedAt: "2026-09-26T16:20:47.000Z",
 } as const satisfies Nav

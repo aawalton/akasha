@@ -24,4 +24,6 @@ export const listingHref = {
       statement: "The slash parts the listing from the page of the same name.",
     },
   ],
+  createdAt: "2026-08-29T23:21:44.566Z",
+  updatedAt: "2026-09-22T10:06:58.000Z",
 } as const satisfies NamePlace

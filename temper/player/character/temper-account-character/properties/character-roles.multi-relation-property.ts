@@ -8,4 +8,6 @@ export const characterRoles = {
   definition: "a part a character is planned to play",
   targetPageType: "page-type/temper-character-role",
   types: "ts",
+  createdAt: "2026-09-06T12:48:01.685Z",
+  updatedAt: "2026-09-22T13:58:32.000Z",
 } as const satisfies MultiRelationProperty

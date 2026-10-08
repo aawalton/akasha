@@ -9,4 +9,6 @@ export const seats = {
   navPlace: 4,
   app: "web-app/alanwalton-web",
   mobilePinOrder: 1,
+  createdAt: "2026-09-24T15:48:16.597Z",
+  updatedAt: "2026-09-28T18:54:54.000Z",
 } as const satisfies Nav

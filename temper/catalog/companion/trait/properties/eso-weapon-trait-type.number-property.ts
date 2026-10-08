@@ -8,4 +8,6 @@ export const esoWeaponTraitType = {
   definition: "the number the game gives a companion trait worked into a weapon",
   max: null,
   types: "ts",
+  createdAt: "2026-09-26T17:36:52.013Z",
+  updatedAt: "2026-09-26T17:37:11.000Z",
 } as const satisfies NumberProperty

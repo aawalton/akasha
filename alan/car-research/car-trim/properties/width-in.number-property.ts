@@ -8,4 +8,6 @@ export const widthIn = {
   definition: "how wide the car is across the body, in inches",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:42:27.767Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

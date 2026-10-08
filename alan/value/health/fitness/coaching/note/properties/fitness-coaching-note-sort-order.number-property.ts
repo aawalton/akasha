@@ -8,4 +8,6 @@ export const fitnessCoachingNoteSortOrder = {
   definition: "where a note sits when they are shown as a list",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:15:54.368Z",
+  updatedAt: "2026-09-22T13:24:12.000Z",
 } as const satisfies NumberProperty

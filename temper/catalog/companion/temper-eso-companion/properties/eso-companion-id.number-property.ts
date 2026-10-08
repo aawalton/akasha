@@ -8,4 +8,6 @@ export const esoCompanionId = {
   definition: "the number The Elder Scrolls Online gives a companion",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:50:05.928Z",
+  updatedAt: "2026-09-22T13:57:49.000Z",
 } as const satisfies NumberProperty

@@ -8,4 +8,6 @@ export const changeRuns = {
   definition: "how many times a change is judged",
   max: null,
   types: "ts",
+  createdAt: "2026-08-31T18:25:25.017Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

@@ -8,4 +8,6 @@ export const browserEquipTypes = {
   definition: "the places a thing is worn an item browser category takes",
   targetPageType: "page-type/temper-equip-type",
   types: "ts",
+  createdAt: "2026-09-27T04:27:41.587Z",
+  updatedAt: "2026-09-27T04:27:54.000Z",
 } as const satisfies MultiRelationProperty

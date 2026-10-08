@@ -8,4 +8,6 @@ export const mechanicValue = {
   definition: "the seconds, amount or fraction a companion combat mechanic holds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-26T18:10:13.467Z",
+  updatedAt: "2026-09-26T18:52:12.000Z",
 } as const satisfies NumberProperty

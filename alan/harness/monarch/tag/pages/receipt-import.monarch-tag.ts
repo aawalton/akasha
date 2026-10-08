@@ -9,4 +9,6 @@ export const receiptImport = {
   monarchId: "252673595024481032",
   tagColor: "#8e4ec6",
   tagPlace: 11,
+  createdAt: "2026-09-03T03:39:10.889Z",
+  updatedAt: "2026-09-22T14:07:54.000Z",
 } as const satisfies MonarchTag

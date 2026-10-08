@@ -30,4 +30,6 @@ export const extendsType = {
     },
   ],
   types: "ts",
+  createdAt: "2026-08-28T18:54:50.220Z",
+  updatedAt: "2026-09-22T13:53:49.000Z",
 } as const satisfies MultiRelationProperty

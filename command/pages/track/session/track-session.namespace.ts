@@ -21,4 +21,6 @@ export const trackSession = {
     "module/session-relationships",
   ],
   name: "session",
+  createdAt: "2026-09-07T01:26:40.248Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies Namespace

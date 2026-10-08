@@ -11,4 +11,6 @@ export const browser = {
     "command/browser-sign-in",
   ],
   name: "browser",
+  createdAt: "2026-09-07T12:14:59.478Z",
+  updatedAt: "2026-09-24T18:26:09.000Z",
 } as const satisfies Namespace

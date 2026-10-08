@@ -5,4 +5,6 @@ export const alan = {
   type: "page-type/notification-feed",
   slug: "alan",
   person: "person/alan",
+  createdAt: "2026-09-03T17:50:10.593Z",
+  updatedAt: "2026-09-15T15:52:20.000Z",
 } as const satisfies NotificationFeed

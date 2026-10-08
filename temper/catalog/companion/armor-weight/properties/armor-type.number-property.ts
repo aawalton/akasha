@@ -8,4 +8,6 @@ export const armorType = {
   definition: "the weight class of armor an item is",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:48:48.332Z",
+  updatedAt: "2026-09-26T18:21:36.000Z",
 } as const satisfies NumberProperty

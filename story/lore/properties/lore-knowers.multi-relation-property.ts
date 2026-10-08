@@ -30,4 +30,6 @@ export const loreKnowers = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-26T18:12:58.062Z",
+  updatedAt: "2026-09-26T18:13:39.000Z",
 } as const satisfies MultiRelationProperty

@@ -27,4 +27,6 @@ export const worksWithinSeconds = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-10T18:58:17.872Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies NumberProperty

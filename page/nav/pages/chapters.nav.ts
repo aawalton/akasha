@@ -8,4 +8,6 @@ export const chapters = {
   icon: "BookOpen",
   navPlace: 0,
   app: "web-app/alanwalton-web",
+  createdAt: "2026-09-28T19:55:54.598Z",
+  updatedAt: "2026-09-28T19:59:01.000Z",
 } as const satisfies Nav

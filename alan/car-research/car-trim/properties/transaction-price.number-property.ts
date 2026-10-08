@@ -8,4 +8,6 @@ export const transactionPrice = {
   definition: "what the car is selling for rather than what the maker asks, in dollars",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:43:50.475Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

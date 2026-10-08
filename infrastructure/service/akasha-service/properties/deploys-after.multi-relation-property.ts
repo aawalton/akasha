@@ -31,4 +31,6 @@ export const deploysAfter = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T11:52:10.013Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies MultiRelationProperty

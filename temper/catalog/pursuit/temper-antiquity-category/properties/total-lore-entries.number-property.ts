@@ -8,4 +8,6 @@ export const totalLoreEntries = {
   definition: "how many lore entries an antiquity yields once it is dug up",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T09:14:50.299Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies NumberProperty

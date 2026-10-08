@@ -22,4 +22,6 @@ export const plantGrams = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T05:00:04.619Z",
+  updatedAt: "2026-09-22T10:06:45.000Z",
 } as const satisfies NumberProperty

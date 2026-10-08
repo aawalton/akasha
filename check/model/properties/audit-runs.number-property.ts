@@ -8,4 +8,6 @@ export const auditRuns = {
   definition: "how many times an audit judges, unless it is asked for more",
   max: null,
   types: "ts",
+  createdAt: "2026-08-31T18:25:25.019Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

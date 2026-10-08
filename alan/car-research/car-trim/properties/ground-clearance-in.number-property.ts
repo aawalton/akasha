@@ -8,4 +8,6 @@ export const groundClearanceIn = {
   definition: "how far the lowest part of the car sits above the road, in inches",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:41:31.379Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

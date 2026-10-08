@@ -8,4 +8,6 @@ export const mobilityReadingValueNum = {
   definition: "the reading as a number, where the metric has one",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T03:37:55.177Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

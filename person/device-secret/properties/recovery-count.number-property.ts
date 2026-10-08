@@ -8,4 +8,6 @@ export const recoveryCount = {
   definition: "how many times a device let go of a refused secret and minted another",
   max: null,
   types: "ts",
+  createdAt: "2026-09-25T15:38:26.360Z",
+  updatedAt: "2026-09-25T15:38:36.000Z",
 } as const satisfies NumberProperty

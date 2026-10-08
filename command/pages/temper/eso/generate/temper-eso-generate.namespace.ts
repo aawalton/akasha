@@ -21,4 +21,6 @@ export const temperEsoGenerate = {
     "module/capture-text",
   ],
   name: "generate",
+  createdAt: "2026-09-07T13:38:05.608Z",
+  updatedAt: "2026-09-25T14:36:31.000Z",
 } as const satisfies Namespace

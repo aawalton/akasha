@@ -10,4 +10,6 @@ export const overwhereIiiSkillLevel = {
   nullable: false,
   max: 5,
   types: "ts",
+  createdAt: "2026-09-29T12:39:15.806Z",
+  updatedAt: "2026-09-29T12:39:22.000Z",
 } as const satisfies NumberProperty

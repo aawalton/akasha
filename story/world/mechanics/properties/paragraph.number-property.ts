@@ -8,4 +8,6 @@ export const paragraph = {
   definition: "a naming's paragraph within its chapter",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T03:38:24.529Z",
+  updatedAt: "2026-09-22T13:43:25.000Z",
 } as const satisfies NumberProperty

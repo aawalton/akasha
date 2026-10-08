@@ -7,4 +7,6 @@ export const grammar = {
   definition: "which phrases the Standard Agent English grammar admits, and the words it reads",
   parts: ["command/grammar-refused", "command/grammar-try", "command/grammar-words"],
   name: "grammar",
+  createdAt: "2026-09-25T17:43:43.961Z",
+  updatedAt: "2026-09-25T17:46:49.000Z",
 } as const satisfies Namespace

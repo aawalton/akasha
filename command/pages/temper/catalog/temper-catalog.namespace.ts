@@ -12,4 +12,6 @@ export const temperCatalog = {
     "command/temper-catalog-status",
   ],
   name: "catalog",
+  createdAt: "2026-09-07T13:38:58.561Z",
+  updatedAt: "2026-09-25T12:56:10.000Z",
 } as const satisfies Namespace

@@ -8,4 +8,6 @@ export const eventCount = {
   definition: "how many times a story changes what a character has",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:15:29.485Z",
+  updatedAt: "2026-09-19T08:15:33.000Z",
 } as const satisfies NumberProperty

@@ -17,4 +17,6 @@ export const routeParameter = {
         "A parameter is named for the value that parameter has rather than for how that value is written.",
     },
   ],
+  createdAt: "2026-08-29T23:21:44.564Z",
+  updatedAt: "2026-09-22T13:59:20.000Z",
 } as const satisfies NamePlace

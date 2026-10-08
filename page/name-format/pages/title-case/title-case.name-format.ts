@@ -26,4 +26,6 @@ export const titleCase = {
       statement: "A name padded or doubly spaced is not written in title case.",
     },
   ],
+  createdAt: "2026-08-29T18:13:57.465Z",
+  updatedAt: "2026-09-25T14:06:21.000Z",
 } as const satisfies NameFormat

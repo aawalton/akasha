@@ -8,4 +8,6 @@ export const imageFantasyTags = {
   definition: "the fantasies an image draws on",
   targetPageType: "page-type/fantasy-tag",
   types: "ts",
+  createdAt: "2026-09-26T16:23:55.455Z",
+  updatedAt: "2026-09-26T16:24:45.000Z",
 } as const satisfies MultiRelationProperty

@@ -18,4 +18,6 @@ export const capacityRate = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T02:00:36.367Z",
+  updatedAt: "2026-09-24T19:49:46.000Z",
 } as const satisfies NumberProperty

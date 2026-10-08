@@ -8,4 +8,6 @@ export const weaponTypePower = {
   definition: "the damage a weapon of this kind does at the top quality and level",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.015Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies NumberProperty

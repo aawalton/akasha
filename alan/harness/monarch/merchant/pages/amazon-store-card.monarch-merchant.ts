@@ -6,4 +6,6 @@ export const amazonStoreCard = {
   slug: "amazon-store-card",
   title: "amazon store card",
   merchantPatterns: ["amz_storecrd_pmt"],
+  createdAt: "2026-09-03T03:42:02.460Z",
+  updatedAt: "2026-09-15T17:33:40.000Z",
 } as const satisfies MonarchMerchant

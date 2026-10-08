@@ -8,4 +8,6 @@ export const appearanceCount = {
   definition: "how many chapters of the story say something about this",
   max: null,
   types: "ts",
+  createdAt: "2026-09-22T13:04:11.259Z",
+  updatedAt: "2026-09-22T18:27:19.000Z",
 } as const satisfies NumberProperty

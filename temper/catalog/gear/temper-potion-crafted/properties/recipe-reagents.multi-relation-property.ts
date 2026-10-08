@@ -14,4 +14,6 @@ export const recipeReagents = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-22T21:48:54.674Z",
+  updatedAt: "2026-09-22T21:56:13.000Z",
 } as const satisfies MultiRelationProperty

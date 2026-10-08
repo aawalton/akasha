@@ -15,4 +15,6 @@ export const infrastructureDevServer = {
     "command/infrastructure-dev-server-stop",
     "module/dev-server-running",
   ],
+  createdAt: "2026-09-12T05:10:22.322Z",
+  updatedAt: "2026-09-22T10:08:16.000Z",
 } as const satisfies Namespace

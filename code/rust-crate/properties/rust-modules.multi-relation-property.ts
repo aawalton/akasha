@@ -8,4 +8,6 @@ export const rustModules = {
   definition: "the modules a crate compiles",
   targetPageType: "page-type/rust-module",
   types: "ts",
+  createdAt: "2026-09-02T03:33:04.337Z",
+  updatedAt: "2026-09-22T13:58:03.000Z",
 } as const satisfies MultiRelationProperty

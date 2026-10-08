@@ -8,4 +8,6 @@ export const level = {
   definition: "how far along the closeness ladder this rung is",
   max: null,
   types: "ts",
+  createdAt: "2026-08-30T19:03:39.539Z",
+  updatedAt: "2026-09-15T15:57:46.000Z",
 } as const satisfies NumberProperty

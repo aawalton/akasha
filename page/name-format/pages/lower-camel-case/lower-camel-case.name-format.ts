@@ -61,4 +61,6 @@ export const lowerCamelCase = {
       statement: "A key with no ascii letter and no ascii digit is folded to nothing.",
     },
   ],
+  createdAt: "2026-08-29T18:13:57.465Z",
+  updatedAt: "2026-09-25T15:19:11.000Z",
 } as const satisfies NameFormat

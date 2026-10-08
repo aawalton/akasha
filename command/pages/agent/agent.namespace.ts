@@ -12,4 +12,6 @@ export const agent = {
     "command/agent-turn-color-list",
   ],
   name: "agent",
+  createdAt: "2026-09-08T21:16:06.938Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

@@ -9,4 +9,6 @@ export const jennyFeatureRequests = {
   navPlace: 1,
   app: "web-app/smilingjenny-web",
   navHref: "/requests",
+  createdAt: "2026-09-25T15:15:21.751Z",
+  updatedAt: "2026-09-25T15:15:24.000Z",
 } as const satisfies Nav

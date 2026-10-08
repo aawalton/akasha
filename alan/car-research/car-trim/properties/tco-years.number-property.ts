@@ -8,4 +8,6 @@ export const tcoYears = {
   definition: "how many years the cost of owning the car covers",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:43:01.944Z",
+  updatedAt: "2026-09-22T13:47:07.000Z",
 } as const satisfies NumberProperty

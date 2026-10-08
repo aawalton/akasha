@@ -8,4 +8,6 @@ export const eventLastChapter = {
   definition: "an event's latest possible chapter",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:34:04.225Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies NumberProperty

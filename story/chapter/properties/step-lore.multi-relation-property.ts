@@ -8,4 +8,6 @@ export const stepLore = {
   definition: "the lore the world builder landed for a turn or a written chapter",
   targetPageType: "page-type/lore",
   types: "ts",
+  createdAt: "2026-09-26T17:06:49.518Z",
+  updatedAt: "2026-09-28T19:00:58.000Z",
 } as const satisfies MultiRelationProperty

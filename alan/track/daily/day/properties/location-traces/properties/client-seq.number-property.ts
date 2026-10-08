@@ -8,4 +8,6 @@ export const clientSeq = {
   definition: "the count this device gave the trace, rising by one for each it takes",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T21:38:23.028Z",
+  updatedAt: "2026-09-21T19:18:52.000Z",
 } as const satisfies NumberProperty

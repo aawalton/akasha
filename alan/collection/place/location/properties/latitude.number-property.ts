@@ -8,4 +8,6 @@ export const latitude = {
   definition: "how far north of the equator the place is, in degrees",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:25:23.451Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

@@ -7,4 +7,6 @@ export const temperUpstream = {
   definition: "the data Temper takes in from outside",
   parts: ["command/temper-upstream-data-port", "command/temper-upstream-data-verify"],
   name: "upstream",
+  createdAt: "2026-09-07T13:39:05.805Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

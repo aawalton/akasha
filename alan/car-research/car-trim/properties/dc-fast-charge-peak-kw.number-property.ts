@@ -8,4 +8,6 @@ export const dcFastChargePeakKw = {
   definition: "the most a fast charger ever puts into the car at once, in kilowatts",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:41:09.575Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

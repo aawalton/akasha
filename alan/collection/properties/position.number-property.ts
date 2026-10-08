@@ -8,4 +8,6 @@ export const position = {
   definition: "where a collection sits within its parent collection",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T20:44:59.872Z",
+  updatedAt: "2026-09-22T13:42:40.000Z",
 } as const satisfies NumberProperty

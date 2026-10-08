@@ -8,4 +8,6 @@ export const dcFastCharge10To80Min = {
   definition: "how long a fast charger takes from a tenth full to four fifths, in minutes",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:41:05.368Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

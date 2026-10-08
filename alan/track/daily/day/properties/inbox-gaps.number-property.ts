@@ -8,4 +8,6 @@ export const inboxGaps = {
   definition: "the gaps left at the end of a day",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T19:28:13.726Z",
+  updatedAt: "2026-09-24T19:28:22.000Z",
 } as const satisfies NumberProperty

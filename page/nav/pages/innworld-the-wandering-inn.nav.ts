@@ -9,4 +9,6 @@ export const innworldTheWanderingInn = {
   navPlace: 5,
   app: "web-app/innworld-web",
   navParent: "nav/innworld-world",
+  createdAt: "2026-09-25T15:19:22.096Z",
+  updatedAt: "2026-09-28T22:23:02.000Z",
 } as const satisfies Nav

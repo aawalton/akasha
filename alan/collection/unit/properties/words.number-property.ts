@@ -8,4 +8,6 @@ export const words = {
   definition: "how many words one of a unit is worth",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T20:44:59.872Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

@@ -8,4 +8,6 @@ export const esoItemStyleId = {
   definition: "the number The Elder Scrolls Online gives a crafting style",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T03:35:48.545Z",
+  updatedAt: "2026-09-27T03:35:56.000Z",
 } as const satisfies NumberProperty

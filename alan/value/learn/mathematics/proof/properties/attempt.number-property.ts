@@ -8,4 +8,6 @@ export const attempt = {
   definition: "which try at a proposition a proof is, counting from one",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:20:41.000Z",
+  updatedAt: "2026-09-22T10:05:53.000Z",
 } as const satisfies NumberProperty

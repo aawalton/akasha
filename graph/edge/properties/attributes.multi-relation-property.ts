@@ -8,4 +8,6 @@ export const attributes = {
   definition: "the attributes an edge kind carries",
   targetPageType: "page-type/graph-attribute",
   types: "ts",
+  createdAt: "2026-08-29T23:44:12.479Z",
+  updatedAt: "2026-09-22T13:55:43.000Z",
 } as const satisfies MultiRelationProperty

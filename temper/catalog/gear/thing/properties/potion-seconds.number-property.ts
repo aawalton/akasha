@@ -8,4 +8,6 @@ export const potionSeconds = {
   definition: "how long what a drink grants lasts",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:46:56.883Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies NumberProperty

@@ -22,4 +22,6 @@ export const parts = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-09T18:47:14.682Z",
+  updatedAt: "2026-09-22T13:52:57.000Z",
 } as const satisfies MultiRelationProperty

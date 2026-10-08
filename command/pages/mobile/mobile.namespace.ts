@@ -17,4 +17,6 @@ export const mobile = {
       statement: "Nothing under this namespace reaches the mac except through mobile-cli.",
     },
   ],
+  createdAt: "2026-09-07T12:05:51.678Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Namespace

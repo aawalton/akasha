@@ -18,4 +18,6 @@ export const contributionPointBalance = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T16:48:48.519Z",
+  updatedAt: "2026-09-19T16:49:44.000Z",
 } as const satisfies NumberProperty

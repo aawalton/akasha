@@ -9,4 +9,6 @@ export const encodedTraits = {
     "the number The Elder Scrolls Online packs a brewed drink's effects into on its item link",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T03:39:47.696Z",
+  updatedAt: "2026-09-27T03:40:08.000Z",
 } as const satisfies NumberProperty

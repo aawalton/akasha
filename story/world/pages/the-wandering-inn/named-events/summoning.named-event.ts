@@ -13,4 +13,6 @@ export const summoning = {
   firstChapter: 97,
   namedEventKind: "global-event",
   world: "world/the-wandering-inn",
+  createdAt: "2026-07-16T00:48:26.016Z",
+  updatedAt: "2026-09-22T13:44:58.000Z",
 } as const satisfies NamedEvent

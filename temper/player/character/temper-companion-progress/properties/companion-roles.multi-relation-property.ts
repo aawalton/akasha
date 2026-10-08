@@ -8,4 +8,6 @@ export const companionRoles = {
   definition: "a duty a companion is planned to cover",
   targetPageType: "page-type/temper-companion-role",
   types: "ts",
+  createdAt: "2026-09-06T12:48:08.735Z",
+  updatedAt: "2026-09-22T13:58:41.000Z",
 } as const satisfies MultiRelationProperty

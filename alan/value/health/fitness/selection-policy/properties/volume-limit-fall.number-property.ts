@@ -8,5 +8,6 @@ export const volumeLimitFall = {
   definition: "the pounds a day's limit drops by after a week that reached it on no day",
   max: null,
   types: "ts",
-  updatedAt: "2026-10-08T15:26:00.679Z",
+  updatedAt: "2026-10-08T16:02:32.012Z",
+  createdAt: "2026-09-21T13:40:55.658Z",
 } as const satisfies NumberProperty

@@ -8,4 +8,6 @@ export const usesUsed = {
   definition: "how many times the offer has been claimed",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:27:14.757Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

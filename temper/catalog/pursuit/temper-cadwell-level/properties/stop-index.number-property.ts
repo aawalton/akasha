@@ -8,4 +8,6 @@ export const stopIndex = {
   definition: "where a stop falls in the list Cadwell names for a zone",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T09:43:24.951Z",
+  updatedAt: "2026-09-22T10:13:14.000Z",
 } as const satisfies NumberProperty

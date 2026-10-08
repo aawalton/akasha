@@ -6,4 +6,6 @@ export const adamProffit = {
   slug: "adam-proffit",
   title: "adam proffit",
   merchantPatterns: ["adam proffit"],
+  createdAt: "2026-09-03T03:42:02.460Z",
+  updatedAt: "2026-09-15T17:33:40.000Z",
 } as const satisfies MonarchMerchant

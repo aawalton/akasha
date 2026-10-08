@@ -8,4 +8,6 @@ export const epaRangeTotalMi = {
   definition: "how far the EPA says the car goes on a full battery and a full tank, in miles",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:41:22.353Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

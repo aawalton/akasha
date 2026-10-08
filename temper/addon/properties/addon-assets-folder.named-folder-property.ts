@@ -11,4 +11,6 @@ export const addonAssetsFolder = {
   folderName: "assets",
   holdsBytes: true,
   runsFileLength: false,
+  createdAt: "2026-09-26T16:15:07.459Z",
+  updatedAt: "2026-09-26T16:15:39.000Z",
 } as const satisfies NamedFolderProperty

@@ -19,4 +19,6 @@ export const autoCompactWindow = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T18:13:56.761Z",
+  updatedAt: "2026-09-22T13:50:37.000Z",
 } as const satisfies NumberProperty

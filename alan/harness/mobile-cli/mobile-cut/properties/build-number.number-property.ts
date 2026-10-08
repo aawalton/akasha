@@ -8,4 +8,6 @@ export const buildNumber = {
   definition: "which build of its app a cut is",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T17:42:47.583Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

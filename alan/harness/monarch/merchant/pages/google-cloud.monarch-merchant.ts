@@ -6,4 +6,6 @@ export const googleCloud = {
   slug: "google-cloud",
   title: "google cloud",
   merchantPatterns: ["google cloud", "google *cloud"],
+  createdAt: "2026-09-03T03:42:02.460Z",
+  updatedAt: "2026-09-15T17:33:40.000Z",
 } as const satisfies MonarchMerchant

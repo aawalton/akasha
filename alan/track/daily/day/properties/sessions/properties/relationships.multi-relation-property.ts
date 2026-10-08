@@ -18,4 +18,6 @@ export const relationships = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T02:00:36.367Z",
+  updatedAt: "2026-09-22T15:38:26.000Z",
 } as const satisfies MultiRelationProperty

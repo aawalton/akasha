@@ -25,4 +25,6 @@ export const startCase = {
       statement: "A name padded or doubly spaced is not written in start case.",
     },
   ],
+  createdAt: "2026-08-29T22:31:32.646Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NameFormat

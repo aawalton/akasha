@@ -8,4 +8,6 @@ export const maxMemoryMb = {
   definition: "the most memory a run of the file may hold, in megabytes",
   max: null,
   types: "ts",
+  createdAt: "2026-09-09T19:06:52.208Z",
+  updatedAt: "2026-09-22T10:05:52.000Z",
 } as const satisfies NumberProperty

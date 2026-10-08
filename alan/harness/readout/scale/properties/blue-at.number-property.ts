@@ -8,4 +8,6 @@ export const blueAt = {
   definition: "the reading at which a scale turns blue",
   max: null,
   types: "ts",
+  createdAt: "2026-08-30T20:14:15.029Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

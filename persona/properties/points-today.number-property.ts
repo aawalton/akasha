@@ -8,4 +8,6 @@ export const pointsToday = {
   definition: "the points earned today",
   max: null,
   types: "ts",
+  createdAt: "2026-09-08T16:13:11.219Z",
+  updatedAt: "2026-09-21T16:02:13.000Z",
 } as const satisfies NumberProperty

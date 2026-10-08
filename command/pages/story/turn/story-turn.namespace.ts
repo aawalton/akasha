@@ -28,4 +28,6 @@ export const storyTurn = {
     "module/turn-job-handing",
   ],
   name: "turn",
+  createdAt: "2026-09-26T17:36:45.585Z",
+  updatedAt: "2026-10-04T12:52:19.000Z",
 } as const satisfies Namespace

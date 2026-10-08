@@ -10,4 +10,6 @@ export const addonArtFolder = {
   holdsBytes: true,
   runsFileLength: false,
   types: "ts",
+  createdAt: "2026-09-11T15:51:55.179Z",
+  updatedAt: "2026-09-21T16:29:38.000Z",
 } as const satisfies NamedFolderProperty

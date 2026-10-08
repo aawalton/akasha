@@ -10,4 +10,6 @@ export const grafana = {
   app: "web-app/alanwalton-web",
   navParent: "nav/tech",
   navHref: "https://grafana.alanwalton.com",
+  createdAt: "2026-09-25T14:35:15.715Z",
+  updatedAt: "2026-09-25T14:48:49.000Z",
 } as const satisfies Nav

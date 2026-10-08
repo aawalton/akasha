@@ -14,4 +14,6 @@ export const toolTimeout = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T18:13:56.765Z",
+  updatedAt: "2026-09-25T17:55:17.000Z",
 } as const satisfies NumberProperty

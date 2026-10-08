@@ -12,4 +12,6 @@ export const vmfxx = {
   quantity: 118.42,
   costBasis: 0,
   holdingValue: 118.42,
+  createdAt: "2026-09-03T03:39:10.889Z",
+  updatedAt: "2026-10-03T06:05:08.000Z",
 } as const satisfies MonarchHolding

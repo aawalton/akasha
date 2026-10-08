@@ -7,4 +7,6 @@ export const gap = {
   definition: "the gaps the pages state among their decisions",
   parts: ["command/gap-delete"],
   name: "gap",
+  createdAt: "2026-09-19T03:06:01.181Z",
+  updatedAt: "2026-09-19T03:44:27.000Z",
 } as const satisfies Namespace

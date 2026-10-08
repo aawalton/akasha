@@ -23,4 +23,6 @@ export const servedBy = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T16:48:27.481Z",
+  updatedAt: "2026-09-25T17:37:48.000Z",
 } as const satisfies MultiRelationProperty

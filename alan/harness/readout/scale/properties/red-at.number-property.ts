@@ -8,4 +8,6 @@ export const redAt = {
   definition: "the reading at which a scale turns red",
   max: null,
   types: "ts",
+  createdAt: "2026-08-30T20:14:15.025Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

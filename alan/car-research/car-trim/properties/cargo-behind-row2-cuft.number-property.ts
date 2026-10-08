@@ -8,4 +8,6 @@ export const cargoBehindRow2Cuft = {
   definition: "how much cargo fits behind the second row of seats, in cubic feet",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:40:56.307Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

@@ -19,4 +19,6 @@ export const potionRestores = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T04:00:07.297Z",
+  updatedAt: "2026-09-27T04:00:27.000Z",
 } as const satisfies MultiRelationProperty

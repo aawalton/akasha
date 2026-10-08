@@ -9,4 +9,6 @@ export const overwhereIvSkillUses = {
   nullable: false,
   max: null,
   types: "ts",
+  createdAt: "2026-10-02T18:03:02.725Z",
+  updatedAt: "2026-10-02T18:03:09.000Z",
 } as const satisfies NumberProperty

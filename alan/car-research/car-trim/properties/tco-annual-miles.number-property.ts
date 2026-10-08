@@ -8,4 +8,6 @@ export const tcoAnnualMiles = {
   definition: "the yearly miles behind the cost of owning the car",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:42:57.726Z",
+  updatedAt: "2026-09-22T13:54:40.000Z",
 } as const satisfies NumberProperty

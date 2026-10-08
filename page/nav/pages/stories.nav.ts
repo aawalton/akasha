@@ -9,4 +9,6 @@ export const stories = {
   navPlace: 5,
   app: "web-app/alanwalton-web",
   mobilePinOrder: 2,
+  createdAt: "2026-09-24T16:33:38.191Z",
+  updatedAt: "2026-09-28T18:54:57.000Z",
 } as const satisfies Nav

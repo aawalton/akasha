@@ -8,4 +8,6 @@ export const horsepower = {
   definition: "how much power the car makes, in horsepower",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:41:43.956Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

@@ -8,4 +8,6 @@ export const torqueLbft = {
   definition: "how much turning force the car makes, in pound-feet",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:43:41.050Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

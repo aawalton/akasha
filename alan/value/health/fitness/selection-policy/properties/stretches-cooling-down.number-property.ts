@@ -8,4 +8,6 @@ export const stretchesCoolingDown = {
   definition: "how many held stretches Alan takes to cool down after a bout",
   max: null,
   types: "ts",
+  createdAt: "2026-09-19T17:28:07.079Z",
+  updatedAt: "2026-09-19T17:29:07.000Z",
 } as const satisfies NumberProperty

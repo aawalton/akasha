@@ -7,4 +7,6 @@ export const googleCalendar = {
   definition: "the calendar Alan keeps with Google",
   parts: ["namespace/google-calendar-event"],
   name: "calendar",
+  createdAt: "2026-09-10T20:16:12.741Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

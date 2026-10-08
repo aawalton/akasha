@@ -22,4 +22,6 @@ export const pointsBeforeToday = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-08T17:16:13.190Z",
+  updatedAt: "2026-09-21T16:02:13.000Z",
 } as const satisfies NumberProperty

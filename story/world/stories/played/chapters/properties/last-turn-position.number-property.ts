@@ -14,4 +14,6 @@ export const lastTurnPosition = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-28T02:24:19.767Z",
+  updatedAt: "2026-09-28T02:24:23.000Z",
 } as const satisfies NumberProperty

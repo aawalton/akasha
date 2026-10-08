@@ -14,4 +14,6 @@ export const masteryRank = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T19:56:03.386Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NumberProperty

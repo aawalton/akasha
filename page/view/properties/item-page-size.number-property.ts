@@ -8,4 +8,6 @@ export const itemPageSize = {
   definition: "how many pages a view draws at once inside a group",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T16:14:57.280Z",
+  updatedAt: "2026-09-22T10:17:30.000Z",
 } as const satisfies NumberProperty

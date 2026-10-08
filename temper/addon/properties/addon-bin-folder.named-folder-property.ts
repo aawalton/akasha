@@ -20,4 +20,6 @@ export const addonBinFolder = {
   holdsBytes: true,
   runsFileLength: false,
   types: "ts",
+  createdAt: "2026-09-11T15:52:04.612Z",
+  updatedAt: "2026-09-25T14:14:49.000Z",
 } as const satisfies NamedFolderProperty

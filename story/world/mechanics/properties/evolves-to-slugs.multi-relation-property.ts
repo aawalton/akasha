@@ -14,4 +14,6 @@ export const evolvesToSlugs = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T03:43:52.853Z",
+  updatedAt: "2026-09-22T18:28:00.000Z",
 } as const satisfies MultiRelationProperty

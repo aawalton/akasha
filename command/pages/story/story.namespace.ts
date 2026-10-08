@@ -21,4 +21,6 @@ export const story = {
     "module/tell-continuing",
   ],
   name: "story",
+  createdAt: "2026-09-19T00:10:30.961Z",
+  updatedAt: "2026-10-06T11:34:46.000Z",
 } as const satisfies Namespace

@@ -27,4 +27,6 @@ export const intelligenceTopics = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T21:03:13.117Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NumberProperty

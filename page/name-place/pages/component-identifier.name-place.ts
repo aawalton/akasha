@@ -16,4 +16,6 @@ export const componentIdentifier = {
       statement: "The file with a component is named in lower kebab like every other file.",
     },
   ],
+  createdAt: "2026-08-29T23:09:38.906Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NamePlace

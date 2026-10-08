@@ -8,4 +8,6 @@ export const effectAmount = {
   definition: "how much of a resource an effect gives or takes",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T10:04:06.697Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies NumberProperty

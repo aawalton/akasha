@@ -22,4 +22,6 @@ export const panels = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-26T14:37:13.937Z",
+  updatedAt: "2026-09-28T20:05:23.000Z",
 } as const satisfies MultiRelationProperty

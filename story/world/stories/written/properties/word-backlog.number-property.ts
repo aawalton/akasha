@@ -23,4 +23,6 @@ export const wordBacklog = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-03T14:01:03.262Z",
+  updatedAt: "2026-10-03T14:01:34.000Z",
 } as const satisfies NumberProperty

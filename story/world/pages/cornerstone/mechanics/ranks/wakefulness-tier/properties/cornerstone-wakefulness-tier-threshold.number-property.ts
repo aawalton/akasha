@@ -9,4 +9,6 @@ export const cornerstoneWakefulnessTierThreshold = {
   nullable: false,
   max: 28,
   types: "ts",
+  createdAt: "2026-09-26T18:07:09.102Z",
+  updatedAt: "2026-09-26T18:07:15.000Z",
 } as const satisfies NumberProperty

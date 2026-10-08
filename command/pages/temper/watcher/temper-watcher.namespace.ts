@@ -7,4 +7,6 @@ export const temperWatcher = {
   definition: "the watcher running beside the game",
   parts: ["command/temper-watcher-log", "command/temper-watcher-status"],
   name: "watcher",
+  createdAt: "2026-09-07T13:39:09.143Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

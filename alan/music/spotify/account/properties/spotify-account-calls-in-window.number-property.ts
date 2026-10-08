@@ -18,4 +18,6 @@ export const spotifyAccountCallsInWindow = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-18T23:30:53.990Z",
+  updatedAt: "2026-09-18T23:34:28.000Z",
 } as const satisfies NumberProperty

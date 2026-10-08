@@ -8,4 +8,6 @@ export const statusDistance = {
   definition: "how far a status moves its target",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T10:04:06.701Z",
+  updatedAt: "2026-09-22T13:46:41.000Z",
 } as const satisfies NumberProperty

@@ -22,4 +22,6 @@ export const fitnessEquipmentLoads = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T17:51:17.317Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NumberProperty

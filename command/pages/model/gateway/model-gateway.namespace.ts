@@ -12,4 +12,6 @@ export const modelGateway = {
     "module/live-gateway-seat",
   ],
   name: "gateway",
+  createdAt: "2026-09-07T13:29:09.862Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

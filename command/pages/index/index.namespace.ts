@@ -7,4 +7,6 @@ export const index = {
   definition: "the index over the pages this repository holds",
   parts: ["command/index-refresh"],
   name: "index",
+  createdAt: "2026-09-10T19:19:39.206Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

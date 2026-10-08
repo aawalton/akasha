@@ -8,4 +8,6 @@ export const tagPlace = {
   definition: "where a tag sits in the order Monarch offers its tags",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T16:11:27.616Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

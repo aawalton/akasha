@@ -9,4 +9,6 @@ export const content = {
   navPlace: 1,
   app: "web-app/alanwalton-web",
   bottomSection: true,
+  createdAt: "2026-09-25T14:35:15.715Z",
+  updatedAt: "2026-09-26T16:20:47.000Z",
 } as const satisfies Nav

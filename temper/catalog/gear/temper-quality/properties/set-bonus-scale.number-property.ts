@@ -8,4 +8,6 @@ export const setBonusScale = {
   definition: "what a set piece of this quality counts for when its set's bonuses are scaled",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T04:15:15.330Z",
+  updatedAt: "2026-09-27T04:15:45.000Z",
 } as const satisfies NumberProperty

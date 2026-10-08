@@ -17,4 +17,6 @@ export const upperCamelCase = {
       statement: "Whether an acronym is one word or many words cannot be read off the name.",
     },
   ],
+  createdAt: "2026-08-29T18:13:57.465Z",
+  updatedAt: "2026-09-25T14:06:21.000Z",
 } as const satisfies NameFormat

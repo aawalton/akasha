@@ -8,4 +8,6 @@ export const skillLines = {
   definition: "the skill lines a character test names",
   targetPageType: "page-type/temper-skill-line",
   types: "ts",
+  createdAt: "2026-09-25T12:55:30.206Z",
+  updatedAt: "2026-09-25T12:55:35.000Z",
 } as const satisfies MultiRelationProperty

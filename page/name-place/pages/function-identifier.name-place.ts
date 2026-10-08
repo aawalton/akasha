@@ -12,4 +12,6 @@ export const functionIdentifier = {
       statement: "A function is named for its answer rather than for how the answer is worked out.",
     },
   ],
+  createdAt: "2026-08-29T23:09:38.903Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NamePlace

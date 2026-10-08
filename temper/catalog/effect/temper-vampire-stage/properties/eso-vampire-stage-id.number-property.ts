@@ -8,4 +8,6 @@ export const esoVampireStageId = {
   definition: "a vampire stage's marking ability in The Elder Scrolls Online",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:39:39.342Z",
+  updatedAt: "2026-09-22T13:44:03.000Z",
 } as const satisfies NumberProperty

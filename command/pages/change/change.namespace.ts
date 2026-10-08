@@ -32,4 +32,6 @@ export const change = {
       ],
     },
   ],
+  createdAt: "2026-09-08T13:56:50.541Z",
+  updatedAt: "2026-09-24T15:54:16.000Z",
 } as const satisfies Namespace

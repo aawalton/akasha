@@ -8,4 +8,6 @@ export const maxWallSeconds = {
   definition: "the most time a run of the file may take, in seconds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-09T19:06:47.660Z",
+  updatedAt: "2026-09-22T10:13:52.000Z",
 } as const satisfies NumberProperty

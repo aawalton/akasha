@@ -8,4 +8,6 @@ export const esoAntiquityId = {
   definition: "an antiquity's number in The Elder Scrolls Online",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T09:14:50.299Z",
+  updatedAt: "2026-09-22T13:57:31.000Z",
 } as const satisfies NumberProperty

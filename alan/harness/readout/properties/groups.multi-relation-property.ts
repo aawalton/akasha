@@ -8,4 +8,6 @@ export const groups = {
   definition: "a reading's groups",
   targetPageType: "page-type/readout-group",
   types: "ts",
+  createdAt: "2026-08-30T20:05:28.037Z",
+  updatedAt: "2026-09-22T14:07:21.000Z",
 } as const satisfies MultiRelationProperty

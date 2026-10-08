@@ -21,4 +21,6 @@ export const lowerUuid = {
       statement: "`id-is-a-uuid-version-7` judges which version or variant a uuid has.",
     },
   ],
+  createdAt: "2026-08-29T18:13:57.465Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NameFormat

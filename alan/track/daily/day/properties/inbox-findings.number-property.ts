@@ -8,4 +8,6 @@ export const inboxFindings = {
   definition: "the findings left at the end of a day",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T17:29:33.158Z",
+  updatedAt: "2026-09-24T17:29:49.000Z",
 } as const satisfies NumberProperty

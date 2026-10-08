@@ -14,4 +14,6 @@ export const esoAntiquitySetId = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T09:32:41.618Z",
+  updatedAt: "2026-09-24T23:48:00.000Z",
 } as const satisfies NumberProperty

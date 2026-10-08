@@ -8,4 +8,6 @@ export const evidenceBeat = {
   definition: "how far into that chapter the wording is",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:34:04.225Z",
+  updatedAt: "2026-09-19T05:05:02.000Z",
 } as const satisfies NumberProperty

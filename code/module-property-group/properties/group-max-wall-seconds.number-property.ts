@@ -8,4 +8,6 @@ export const groupMaxWallSeconds = {
   definition: "the most clock time a run of a group's code may take, in seconds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-10T14:23:07.808Z",
+  updatedAt: "2026-09-22T10:07:02.000Z",
 } as const satisfies NumberProperty

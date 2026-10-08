@@ -8,4 +8,6 @@ export const referenceLevel = {
   definition: "the level the text gives at a naming",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T03:38:24.529Z",
+  updatedAt: "2026-09-19T11:55:56.000Z",
 } as const satisfies NumberProperty

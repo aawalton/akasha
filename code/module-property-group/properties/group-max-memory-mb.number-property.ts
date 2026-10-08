@@ -8,4 +8,6 @@ export const groupMaxMemoryMb = {
   definition: "the most memory a run of a group's code may hold, in megabytes",
   max: null,
   types: "ts",
+  createdAt: "2026-09-10T14:23:12.391Z",
+  updatedAt: "2026-09-22T10:06:53.000Z",
 } as const satisfies NumberProperty

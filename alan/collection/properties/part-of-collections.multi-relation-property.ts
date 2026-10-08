@@ -14,4 +14,6 @@ export const partOfCollections = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-02T20:44:59.872Z",
+  updatedAt: "2026-09-22T14:00:06.000Z",
 } as const satisfies MultiRelationProperty

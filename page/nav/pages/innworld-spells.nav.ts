@@ -8,4 +8,6 @@ export const innworldSpells = {
   icon: "wand-sparkles",
   navPlace: 4,
   app: "web-app/innworld-web",
+  createdAt: "2026-09-25T15:19:22.096Z",
+  updatedAt: "2026-09-28T22:23:02.000Z",
 } as const satisfies Nav

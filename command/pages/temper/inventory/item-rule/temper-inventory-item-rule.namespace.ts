@@ -16,4 +16,6 @@ export const temperInventoryItemRule = {
     "command/temper-inventory-item-rule-update",
   ],
   name: "item-rule",
+  createdAt: "2026-09-07T13:38:21.496Z",
+  updatedAt: "2026-09-22T10:08:24.000Z",
 } as const satisfies Namespace

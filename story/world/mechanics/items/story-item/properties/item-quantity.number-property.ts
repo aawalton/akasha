@@ -18,4 +18,6 @@ export const itemQuantity = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-30T10:42:25.247Z",
+  updatedAt: "2026-09-30T10:42:30.000Z",
 } as const satisfies NumberProperty

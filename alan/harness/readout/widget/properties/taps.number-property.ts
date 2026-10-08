@@ -8,4 +8,6 @@ export const taps = {
   definition: "how many taps a widget has taken",
   max: null,
   types: "ts",
+  createdAt: "2026-09-06T21:27:27.749Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

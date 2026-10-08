@@ -8,4 +8,6 @@ export const gatewayPort = {
   definition: "a seat's port to its model",
   max: null,
   types: "ts",
+  createdAt: "2026-08-30T19:02:03.969Z",
+  updatedAt: "2026-09-22T20:20:41.000Z",
 } as const satisfies NumberProperty

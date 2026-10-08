@@ -9,4 +9,6 @@ export const otherwhereViSkillLevel = {
   nullable: false,
   max: null,
   types: "ts",
+  createdAt: "2026-09-28T23:10:00.262Z",
+  updatedAt: "2026-09-28T23:10:07.000Z",
 } as const satisfies NumberProperty

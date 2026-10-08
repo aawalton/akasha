@@ -8,4 +8,6 @@ export const maxDistance = {
   definition: "a test's furthest range",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T10:04:06.703Z",
+  updatedAt: "2026-09-22T14:05:15.000Z",
 } as const satisfies NumberProperty

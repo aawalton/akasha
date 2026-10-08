@@ -8,4 +8,6 @@ export const lorePinMapId = {
   definition: "the id of the map a lore book's place is drawn on",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T23:57:55.489Z",
+  updatedAt: "2026-09-24T23:58:01.000Z",
 } as const satisfies NumberProperty

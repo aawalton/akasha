@@ -8,4 +8,6 @@ export const healCount = {
   definition: "how many heals a cast lands",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T10:04:06.698Z",
+  updatedAt: "2026-09-22T10:05:54.000Z",
 } as const satisfies NumberProperty

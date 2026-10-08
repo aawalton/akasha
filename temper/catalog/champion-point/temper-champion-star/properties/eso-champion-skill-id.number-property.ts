@@ -8,4 +8,6 @@ export const esoChampionSkillId = {
   definition: "the number The Elder Scrolls Online gives a champion star, or zero for no star",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T04:53:17.836Z",
+  updatedAt: "2026-09-27T04:53:21.000Z",
 } as const satisfies NumberProperty

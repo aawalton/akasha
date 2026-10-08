@@ -9,4 +9,6 @@ export const skillManaCost = {
   nullable: false,
   max: null,
   types: "ts",
+  createdAt: "2026-09-28T18:54:40.738Z",
+  updatedAt: "2026-09-28T18:54:46.000Z",
 } as const satisfies NumberProperty

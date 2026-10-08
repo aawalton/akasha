@@ -8,4 +8,6 @@ export const images = {
   icon: "Images",
   navPlace: 1,
   app: "web-app/alanwalton-web",
+  createdAt: "2026-09-27T20:30:03.713Z",
+  updatedAt: "2026-09-28T18:54:46.000Z",
 } as const satisfies Nav

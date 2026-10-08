@@ -30,4 +30,6 @@ export const measure = {
     "namespace/measure-complexity",
   ],
   name: "measure",
+  createdAt: "2026-09-07T01:14:31.922Z",
+  updatedAt: "2026-09-28T18:32:16.000Z",
 } as const satisfies Namespace

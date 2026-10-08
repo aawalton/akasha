@@ -9,4 +9,6 @@ export const atlasMap = {
   navPlace: 2,
   app: "web-app/alanwalton-atlas-web",
   navHref: "/map",
+  createdAt: "2026-09-25T14:51:14.928Z",
+  updatedAt: "2026-09-25T14:51:18.000Z",
 } as const satisfies Nav

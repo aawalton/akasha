@@ -17,4 +17,6 @@ export const seat = {
     "command/seat-send",
   ],
   name: "seat",
+  createdAt: "2026-09-07T01:27:53.094Z",
+  updatedAt: "2026-09-24T17:41:33.000Z",
 } as const satisfies Namespace

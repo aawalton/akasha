@@ -9,4 +9,6 @@ export const overwhereIiiTraitNodeFactor = {
   nullable: false,
   max: null,
   types: "ts",
+  createdAt: "2026-09-29T12:31:21.373Z",
+  updatedAt: "2026-09-29T12:31:25.000Z",
 } as const satisfies NumberProperty

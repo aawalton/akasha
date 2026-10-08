@@ -8,4 +8,6 @@ export const requests = {
   icon: "Lightbulb",
   navPlace: 14,
   app: "web-app/alanwalton-requests-web",
+  createdAt: "2026-09-21T16:01:42.553Z",
+  updatedAt: "2026-09-22T22:38:35.000Z",
 } as const satisfies Nav

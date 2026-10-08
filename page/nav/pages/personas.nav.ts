@@ -8,4 +8,6 @@ export const personas = {
   icon: "UsersRound",
   navPlace: 2,
   app: "web-app/alanwalton-web",
+  createdAt: "2026-09-26T16:03:38.567Z",
+  updatedAt: "2026-09-28T18:54:48.000Z",
 } as const satisfies Nav

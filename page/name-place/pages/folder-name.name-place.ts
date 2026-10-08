@@ -20,4 +20,6 @@ export const folderName = {
       statement: "A folder with many pages of one type is named `pages`.",
     },
   ],
+  createdAt: "2026-08-29T23:17:57.610Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NamePlace

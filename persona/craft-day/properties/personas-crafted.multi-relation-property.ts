@@ -8,4 +8,6 @@ export const personasCrafted = {
   definition: "the personas made or improved on a day",
   targetPageType: "page-type/persona",
   types: "ts",
+  createdAt: "2026-09-03T03:41:16.827Z",
+  updatedAt: "2026-09-22T13:55:53.000Z",
 } as const satisfies MultiRelationProperty

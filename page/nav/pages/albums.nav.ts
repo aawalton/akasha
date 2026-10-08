@@ -8,4 +8,6 @@ export const albums = {
   icon: "BookImage",
   navPlace: 0,
   app: "web-app/alanwalton-web",
+  createdAt: "2026-09-28T18:54:30.226Z",
+  updatedAt: "2026-09-28T18:54:45.000Z",
 } as const satisfies Nav

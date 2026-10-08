@@ -8,4 +8,6 @@ export const rawQualityValue = {
   definition: "the unrounded worth the game scales a grade from, where it rounds what it shows",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T03:40:49.770Z",
+  updatedAt: "2026-09-27T03:41:25.000Z",
 } as const satisfies NumberProperty

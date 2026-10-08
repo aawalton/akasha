@@ -13,4 +13,6 @@ export const changeSubagent = {
     "module/subagent-edits-acting",
   ],
   name: "subagent",
+  createdAt: "2026-09-13T19:20:20.892Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

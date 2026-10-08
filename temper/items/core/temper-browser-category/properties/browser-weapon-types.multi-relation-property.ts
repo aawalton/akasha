@@ -8,4 +8,6 @@ export const browserWeaponTypes = {
   definition: "the kinds of weapon an item browser category takes",
   targetPageType: "page-type/temper-weapon-type",
   types: "ts",
+  createdAt: "2026-09-27T04:27:41.588Z",
+  updatedAt: "2026-09-27T04:27:54.000Z",
 } as const satisfies MultiRelationProperty

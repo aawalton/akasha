@@ -8,4 +8,6 @@ export const equipType = {
   definition: "the number the game gives a place a thing is worn",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:47:06.958Z",
+  updatedAt: "2026-09-27T04:55:40.000Z",
 } as const satisfies NumberProperty

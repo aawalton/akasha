@@ -9,4 +9,6 @@ export const overwhereISkillLevel = {
   nullable: false,
   max: 10,
   types: "ts",
+  createdAt: "2026-09-29T12:13:40.859Z",
+  updatedAt: "2026-09-29T12:13:46.000Z",
 } as const satisfies NumberProperty

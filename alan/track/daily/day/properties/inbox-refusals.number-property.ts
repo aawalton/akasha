@@ -8,4 +8,6 @@ export const inboxRefusals = {
   definition: "the definitions the grammar refuses at the end of a day",
   max: null,
   types: "ts",
+  createdAt: "2026-09-25T15:33:36.736Z",
+  updatedAt: "2026-09-25T15:33:42.000Z",
 } as const satisfies NumberProperty

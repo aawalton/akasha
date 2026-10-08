@@ -8,4 +8,6 @@ export const craftedGlyphItemId = {
   definition: "the glyph a crafted piece of a weight is shown enchanted with, as its item id",
   max: null,
   types: "ts",
+  createdAt: "2026-09-25T18:17:15.679Z",
+  updatedAt: "2026-09-25T18:17:31.000Z",
 } as const satisfies NumberProperty

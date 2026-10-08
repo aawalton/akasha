@@ -13,4 +13,6 @@ export const initiative = {
     "command/initiative-move-intent",
   ],
   name: "initiative",
+  createdAt: "2026-09-08T21:24:40.810Z",
+  updatedAt: "2026-09-24T16:34:09.000Z",
 } as const satisfies Namespace

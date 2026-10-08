@@ -18,4 +18,6 @@ export const runsAfter = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T19:20:19.021Z",
+  updatedAt: "2026-09-24T19:20:35.000Z",
 } as const satisfies MultiRelationProperty

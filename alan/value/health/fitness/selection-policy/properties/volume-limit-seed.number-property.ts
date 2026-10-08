@@ -8,5 +8,6 @@ export const volumeLimitSeed = {
   definition: "the pounds a day's limit opens at before any day has moved it",
   max: null,
   types: "ts",
-  updatedAt: "2026-10-08T15:25:02.755Z",
+  updatedAt: "2026-10-08T16:02:32.012Z",
+  createdAt: "2026-09-21T13:40:44.493Z",
 } as const satisfies NumberProperty

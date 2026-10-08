@@ -13,5 +13,6 @@ export const fitness = {
     "module/training-week",
   ],
   name: "fitness",
-  updatedAt: "2026-10-08T15:15:26.338Z",
+  updatedAt: "2026-10-08T16:02:32.012Z",
+  createdAt: "2026-09-18T23:33:55.539Z",
 } as const satisfies Namespace

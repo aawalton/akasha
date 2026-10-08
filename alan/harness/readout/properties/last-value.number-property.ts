@@ -8,4 +8,6 @@ export const lastValue = {
   definition: "the reading last taken",
   max: null,
   types: "ts",
+  createdAt: "2026-08-30T20:05:28.041Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

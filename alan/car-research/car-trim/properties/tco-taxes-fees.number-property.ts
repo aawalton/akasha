@@ -8,4 +8,6 @@ export const tcoTaxesFees = {
   definition: "what tax and registration are reckoned to cost over those years, in dollars",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:43:32.240Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

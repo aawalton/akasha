@@ -8,4 +8,6 @@ export const tcoDepreciation = {
   definition: "what the car is reckoned to lose in value over those years, in dollars",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:43:06.175Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

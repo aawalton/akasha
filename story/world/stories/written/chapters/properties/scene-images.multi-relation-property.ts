@@ -23,4 +23,6 @@ export const sceneImages = {
     },
   ],
   types: "ts",
+  createdAt: "2026-10-01T22:15:31.168Z",
+  updatedAt: "2026-10-02T16:49:56.000Z",
 } as const satisfies MultiRelationProperty

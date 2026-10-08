@@ -8,4 +8,6 @@ export const nhtsaOverallStars = {
   definition: "how many stars the highway safety administration gave the car overall",
   max: 5,
   types: "ts",
+  createdAt: "2026-09-21T18:42:44.690Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

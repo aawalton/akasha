@@ -8,4 +8,6 @@ export const hazardsMarked = {
   definition: "how many hazards the team has marked",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:14:42.423Z",
+  updatedAt: "2026-09-15T15:57:46.000Z",
 } as const satisfies NumberProperty

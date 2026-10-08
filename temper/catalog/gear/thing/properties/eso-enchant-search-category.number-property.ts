@@ -8,4 +8,6 @@ export const esoEnchantSearchCategory = {
   definition: "the number The Elder Scrolls Online gives an enchant's search category",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T04:03:00.540Z",
+  updatedAt: "2026-09-27T04:03:27.000Z",
 } as const satisfies NumberProperty

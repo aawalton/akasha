@@ -8,4 +8,6 @@ export const traceLongitude = {
   definition: "how far east or west of the meridian the trace was taken",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T21:38:23.028Z",
+  updatedAt: "2026-09-21T19:18:52.000Z",
 } as const satisfies NumberProperty

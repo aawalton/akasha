@@ -9,4 +9,6 @@ export const metricValue = {
   nullable: false,
   max: null,
   types: "ts",
+  createdAt: "2026-09-22T16:52:03.118Z",
+  updatedAt: "2026-09-26T14:49:52.000Z",
 } as const satisfies NumberProperty

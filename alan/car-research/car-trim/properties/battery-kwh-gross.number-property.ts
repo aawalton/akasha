@@ -8,4 +8,6 @@ export const batteryKwhGross = {
   definition: "how much energy the traction battery holds in all, in kilowatt hours",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:40:36.144Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

@@ -13,4 +13,6 @@ export const imessage = {
     "command/imessage-unread-list",
   ],
   name: "imessage",
+  createdAt: "2026-09-07T01:01:46.106Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

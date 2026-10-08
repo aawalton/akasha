@@ -8,4 +8,6 @@ export const bonusCount = {
   definition: "how many pieces of a set are worn before a bonus is given",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.006Z",
+  updatedAt: "2026-09-21T15:28:58.000Z",
 } as const satisfies NumberProperty

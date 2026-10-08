@@ -65,4 +65,6 @@ export const lowerKebabCase = {
       statement: "The second writer is kept for names another system spells.",
     },
   ],
+  createdAt: "2026-08-29T18:13:57.465Z",
+  updatedAt: "2026-09-25T15:56:48.000Z",
 } as const satisfies NameFormat

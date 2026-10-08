@@ -8,4 +8,6 @@ export const curbWeightLb = {
   definition: "what the car weighs ready to drive and carrying nobody, in pounds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:41:00.702Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

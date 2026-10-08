@@ -27,4 +27,6 @@ export const cooldownSeconds = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T11:51:55.438Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies NumberProperty

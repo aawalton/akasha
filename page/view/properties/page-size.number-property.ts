@@ -8,4 +8,6 @@ export const pageSize = {
   definition: "how many pages a view draws at once",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T16:14:57.280Z",
+  updatedAt: "2026-09-15T15:57:46.000Z",
 } as const satisfies NumberProperty

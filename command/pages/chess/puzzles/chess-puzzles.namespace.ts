@@ -7,4 +7,6 @@ export const chessPuzzles = {
   definition: "the chess puzzles Alan works through and their source",
   parts: ["command/chess-puzzles-import"],
   name: "puzzles",
+  createdAt: "2026-09-14T14:32:43.365Z",
+  updatedAt: "2026-09-22T13:44:42.000Z",
 } as const satisfies Namespace

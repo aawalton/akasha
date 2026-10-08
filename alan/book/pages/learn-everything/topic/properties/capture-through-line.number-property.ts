@@ -8,4 +8,6 @@ export const captureThroughLine = {
   definition: "the line of a transcript a score was read through to",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:55:52.026Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

@@ -9,4 +9,6 @@ export const max = {
   nullable: true,
   max: null,
   types: "ts",
+  createdAt: "2026-08-28T18:54:50.220Z",
+  updatedAt: "2026-09-15T15:57:46.000Z",
 } as const satisfies NumberProperty

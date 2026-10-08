@@ -7,4 +7,6 @@ export const emailDraft = {
   definition: "a message written and not sent",
   parts: ["command/email-draft-create", "command/email-draft-list"],
   name: "draft",
+  createdAt: "2026-09-07T12:01:59.694Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

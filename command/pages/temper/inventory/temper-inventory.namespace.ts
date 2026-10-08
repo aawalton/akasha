@@ -28,4 +28,6 @@ export const temperInventory = {
     "namespace/temper-inventory-rule",
   ],
   name: "inventory",
+  createdAt: "2026-09-07T13:39:12.435Z",
+  updatedAt: "2026-09-27T13:54:16.000Z",
 } as const satisfies Namespace

@@ -22,4 +22,6 @@ export const otherwhereTheLibraryRoomShownTo = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-28T13:30:29.229Z",
+  updatedAt: "2026-09-28T22:48:45.000Z",
 } as const satisfies MultiRelationProperty

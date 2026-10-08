@@ -12,4 +12,6 @@ export const modelAccount = {
     "command/model-account-login",
   ],
   name: "model-account",
+  createdAt: "2026-09-07T12:14:59.478Z",
+  updatedAt: "2026-09-30T06:51:51.000Z",
 } as const satisfies Namespace

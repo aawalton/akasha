@@ -8,4 +8,6 @@ export const lorePinLocationDetail = {
   definition: "the note the LoreBooks add-on shows beside a place, by that note's number",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T23:57:55.489Z",
+  updatedAt: "2026-09-24T23:58:01.000Z",
 } as const satisfies NumberProperty

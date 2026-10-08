@@ -8,4 +8,6 @@ export const nearFailureRpeFloor = {
   definition: "the effort at or above which a set counts toward a weekly total",
   max: null,
   types: "ts",
+  createdAt: "2026-09-18T23:25:10.484Z",
+  updatedAt: "2026-09-18T23:27:51.000Z",
 } as const satisfies NumberProperty

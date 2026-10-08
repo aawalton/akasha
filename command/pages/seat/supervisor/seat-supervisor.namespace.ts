@@ -7,4 +7,6 @@ export const seatSupervisor = {
   definition: "the process running a seat",
   parts: ["command/seat-supervisor-restart", "command/seat-supervisor-stop"],
   name: "supervisor",
+  createdAt: "2026-09-07T01:27:53.121Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

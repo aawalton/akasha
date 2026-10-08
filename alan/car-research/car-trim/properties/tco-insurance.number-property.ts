@@ -8,4 +8,6 @@ export const tcoInsurance = {
   definition: "what insuring the car is reckoned to cost over those years, in dollars",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:43:19.195Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

@@ -16,4 +16,6 @@ export const track = {
     "command/track-topic-words",
   ],
   name: "track",
+  createdAt: "2026-09-07T01:26:40.171Z",
+  updatedAt: "2026-09-22T17:50:32.000Z",
 } as const satisfies Namespace

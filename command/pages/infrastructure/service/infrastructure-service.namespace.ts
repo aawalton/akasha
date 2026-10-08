@@ -15,4 +15,6 @@ export const infrastructureService = {
     "module/service-unit-asking",
     "command/infrastructure-service-bundle",
   ],
+  createdAt: "2026-09-12T05:14:44.095Z",
+  updatedAt: "2026-09-22T15:03:20.000Z",
 } as const satisfies Namespace

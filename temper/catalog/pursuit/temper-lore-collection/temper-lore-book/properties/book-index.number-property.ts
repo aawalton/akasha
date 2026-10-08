@@ -8,4 +8,6 @@ export const bookIndex = {
   definition: "the number the game orders a book by inside its collection",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T17:56:34.423Z",
+  updatedAt: "2026-09-24T23:58:01.000Z",
 } as const satisfies NumberProperty

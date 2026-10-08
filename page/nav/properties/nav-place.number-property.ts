@@ -8,4 +8,6 @@ export const navPlace = {
   definition: "where a nav item sits among its siblings",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T16:16:07.168Z",
+  updatedAt: "2026-09-15T15:57:46.000Z",
 } as const satisfies NumberProperty

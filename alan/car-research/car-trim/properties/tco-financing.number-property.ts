@@ -8,4 +8,6 @@ export const tcoFinancing = {
   definition: "what borrowing to buy the car is reckoned to cost over those years, in dollars",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:43:10.502Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

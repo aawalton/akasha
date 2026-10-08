@@ -8,4 +8,6 @@ export const esoTraitNum = {
   definition: "the number The Elder Scrolls Online gives a trait",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.010Z",
+  updatedAt: "2026-09-22T13:57:49.000Z",
 } as const satisfies NumberProperty

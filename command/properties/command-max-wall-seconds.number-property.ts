@@ -35,4 +35,6 @@ export const commandMaxWallSeconds = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-08T17:28:01.458Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NumberProperty

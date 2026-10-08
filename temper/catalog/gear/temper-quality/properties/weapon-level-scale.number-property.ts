@@ -8,4 +8,6 @@ export const weaponLevelScale = {
   definition: "the share of a legendary weapon's level-scaled power a weapon of this quality has",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T04:15:15.330Z",
+  updatedAt: "2026-09-27T04:15:45.000Z",
 } as const satisfies NumberProperty

@@ -8,4 +8,6 @@ export const place = {
   definition: "where a thing sits among those shown with it",
   max: null,
   types: "ts",
+  createdAt: "2026-08-30T20:05:28.035Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

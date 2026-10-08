@@ -9,4 +9,6 @@ export const defaultDifficulty = {
     "the difficulty a session takes where its title names this activity and nothing else says",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:32:05.911Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

@@ -8,4 +8,6 @@ export const craters = {
   definition: "how many craters the team has set off",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:14:42.423Z",
+  updatedAt: "2026-09-15T15:57:46.000Z",
 } as const satisfies NumberProperty

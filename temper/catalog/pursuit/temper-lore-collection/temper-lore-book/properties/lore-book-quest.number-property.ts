@@ -8,4 +8,6 @@ export const loreBookQuest = {
   definition: "the game's id of the quest the LoreBooks add-on names beside a book",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T23:57:55.489Z",
+  updatedAt: "2026-09-24T23:58:01.000Z",
 } as const satisfies NumberProperty

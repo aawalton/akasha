@@ -8,4 +8,6 @@ export const armorMultiplier = {
   definition: "the share of a weight's armor a piece of this kind carries",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.006Z",
+  updatedAt: "2026-09-22T10:08:29.000Z",
 } as const satisfies NumberProperty

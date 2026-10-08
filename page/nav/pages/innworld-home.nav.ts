@@ -9,4 +9,6 @@ export const innworldHome = {
   navPlace: 0,
   app: "web-app/innworld-web",
   navHref: "/",
+  createdAt: "2026-09-25T15:19:22.095Z",
+  updatedAt: "2026-09-25T15:19:26.000Z",
 } as const satisfies Nav

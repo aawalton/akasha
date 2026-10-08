@@ -17,4 +17,6 @@ export const typeIdentifier = {
       statement: "A type and the value of the same name are parted by their case alone.",
     },
   ],
+  createdAt: "2026-08-29T23:09:38.902Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NamePlace

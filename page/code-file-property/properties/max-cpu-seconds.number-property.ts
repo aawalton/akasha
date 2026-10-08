@@ -8,4 +8,6 @@ export const maxCpuSeconds = {
   definition: "the most processor time a run of the file may spend, in seconds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-09T19:06:43.278Z",
+  updatedAt: "2026-09-22T10:06:58.000Z",
 } as const satisfies NumberProperty

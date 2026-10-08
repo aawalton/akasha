@@ -9,4 +9,6 @@ export const overwhereILegacyHeldWorkings = {
   nullable: false,
   max: null,
   types: "ts",
+  createdAt: "2026-09-30T08:00:55.505Z",
+  updatedAt: "2026-09-30T08:01:00.000Z",
 } as const satisfies NumberProperty

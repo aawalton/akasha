@@ -8,4 +8,6 @@ export const msrp = {
   definition: "the price the maker asks for this trim, in dollars",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:34:15.004Z",
+  updatedAt: "2026-09-21T18:36:47.000Z",
 } as const satisfies NumberProperty

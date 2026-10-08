@@ -8,4 +8,6 @@ export const tcoFuel = {
   definition: "what fuel and charging are reckoned to cost over those years, in dollars",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:43:15.131Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

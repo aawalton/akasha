@@ -8,4 +8,6 @@ export const requiredRapportLevel = {
   definition: "the rapport level a companion must reach before a quest is offered",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T01:54:14.106Z",
+  updatedAt: "2026-09-27T01:54:22.000Z",
 } as const satisfies NumberProperty

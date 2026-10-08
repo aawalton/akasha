@@ -8,4 +8,6 @@ export const mediumArmorValue = {
   definition: "the armor a medium companion armor piece of a quality gives",
   max: null,
   types: "ts",
+  createdAt: "2026-09-26T16:46:21.693Z",
+  updatedAt: "2026-09-26T16:46:52.000Z",
 } as const satisfies NumberProperty

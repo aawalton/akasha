@@ -19,4 +19,6 @@ export const contributionPoints = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-19T16:48:20.443Z",
+  updatedAt: "2026-09-22T10:07:59.000Z",
 } as const satisfies NumberProperty

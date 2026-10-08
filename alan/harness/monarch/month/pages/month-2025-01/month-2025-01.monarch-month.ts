@@ -7,4 +7,6 @@ export const month202501 = {
   title: "January 2025",
   startsOn: "2025-01-01",
   transactions: "jsonl",
+  createdAt: "2026-09-03T03:39:10.913Z",
+  updatedAt: "2026-09-15T15:43:53.000Z",
 } as const satisfies MonarchMonth

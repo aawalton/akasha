@@ -8,4 +8,6 @@ export const lengthIn = {
   definition: "how long the car is nose to tail, in inches",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:41:52.218Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

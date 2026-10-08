@@ -9,4 +9,6 @@ export const temperShopping = {
   navPlace: 7,
   app: "web-app/temper-web",
   navHref: "/shopping",
+  createdAt: "2026-09-25T14:55:57.218Z",
+  updatedAt: "2026-09-25T14:56:19.000Z",
 } as const satisfies Nav

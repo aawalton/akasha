@@ -18,4 +18,6 @@ export const coverImages = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T21:41:10.390Z",
+  updatedAt: "2026-09-22T13:54:02.000Z",
 } as const satisfies MultiRelationProperty

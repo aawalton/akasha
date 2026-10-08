@@ -8,4 +8,6 @@ export const chapterNumber = {
   definition: "the chapter of a story marking how current something is",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:12:35.077Z",
+  updatedAt: "2026-09-26T18:17:31.000Z",
 } as const satisfies NumberProperty

@@ -9,4 +9,6 @@ export const armorLevelScale = {
     "the share of a legendary body piece's level-scaled armor a piece of this quality has",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T04:15:15.330Z",
+  updatedAt: "2026-09-27T04:15:45.000Z",
 } as const satisfies NumberProperty

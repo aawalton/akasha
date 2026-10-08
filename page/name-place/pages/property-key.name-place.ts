@@ -25,4 +25,6 @@ export const propertyKey = {
       statement: "The key and the slug are one name in two formats rather than two spellings.",
     },
   ],
+  createdAt: "2026-08-29T23:48:59.455Z",
+  updatedAt: "2026-09-22T13:54:50.000Z",
 } as const satisfies NamePlace

@@ -7,4 +7,6 @@ export const storyTurnKept = {
   definition: "the commands reaching the edits kept beside a played turn",
   parts: ["command/story-turn-kept-list", "command/story-turn-kept-drop"],
   name: "kept",
+  createdAt: "2026-09-28T22:54:15.337Z",
+  updatedAt: "2026-09-28T22:55:18.000Z",
 } as const satisfies Namespace

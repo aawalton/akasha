@@ -8,4 +8,6 @@ export const seatingCapacity = {
   definition: "how many people the car seats",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:42:53.443Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

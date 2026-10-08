@@ -8,4 +8,6 @@ export const slidePointFill = {
   definition: "how full the bar a slide's point shows is, from 0 to 1",
   max: 1,
   types: "ts",
+  createdAt: "2026-09-25T01:16:13.411Z",
+  updatedAt: "2026-09-25T01:16:17.000Z",
 } as const satisfies NumberProperty

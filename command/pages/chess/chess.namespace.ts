@@ -7,4 +7,6 @@ export const chess = {
   definition: "the games Alan plays out against a model and the puzzles kept beside them",
   parts: ["command/chess-play", "module/chess-page-writing", "namespace/chess-puzzles"],
   name: "chess",
+  createdAt: "2026-09-14T14:09:27.629Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

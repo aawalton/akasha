@@ -8,4 +8,6 @@ export const payloadCapacityLb = {
   definition: "how much the car may carry in people and cargo together, in pounds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:42:49.376Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

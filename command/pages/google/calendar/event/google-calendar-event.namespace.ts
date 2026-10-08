@@ -14,4 +14,6 @@ export const googleCalendarEvent = {
     "command/google-calendar-event-update",
   ],
   name: "event",
+  createdAt: "2026-09-10T20:16:07.620Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

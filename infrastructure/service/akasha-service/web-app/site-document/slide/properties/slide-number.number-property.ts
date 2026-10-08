@@ -8,4 +8,6 @@ export const slideNumber = {
   definition: "where a slide falls in its deck, counted from zero",
   max: null,
   types: "ts",
+  createdAt: "2026-09-25T01:16:13.411Z",
+  updatedAt: "2026-09-25T01:16:17.000Z",
 } as const satisfies NumberProperty

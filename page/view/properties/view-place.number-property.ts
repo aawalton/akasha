@@ -8,4 +8,6 @@ export const viewPlace = {
   definition: "where a view sits among the views under a nav item",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T16:14:57.280Z",
+  updatedAt: "2026-09-22T10:17:30.000Z",
 } as const satisfies NumberProperty

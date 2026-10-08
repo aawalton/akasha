@@ -8,4 +8,6 @@ export const subagentSpawnDepth = {
   definition: "the limit on steps from a seat to a subagent under the seat",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T18:13:56.762Z",
+  updatedAt: "2026-09-25T17:54:39.000Z",
 } as const satisfies NumberProperty

@@ -8,4 +8,6 @@ export const foundingYear = {
   definition: "the year the make was founded",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:55:06.622Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

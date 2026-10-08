@@ -13,4 +13,6 @@ export const challengeGolems = {
   firstChapter: 164,
   namedEventKind: "global-event",
   world: "world/the-wandering-inn",
+  createdAt: "2026-07-16T00:48:29.281Z",
+  updatedAt: "2026-09-22T13:44:58.000Z",
 } as const satisfies NamedEvent

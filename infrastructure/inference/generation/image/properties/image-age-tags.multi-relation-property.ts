@@ -8,4 +8,6 @@ export const imageAgeTags = {
   definition: "the ages the figures in an image are drawn as",
   targetPageType: "page-type/age-tag",
   types: "ts",
+  createdAt: "2026-09-26T16:23:55.454Z",
+  updatedAt: "2026-09-26T16:24:45.000Z",
 } as const satisfies MultiRelationProperty

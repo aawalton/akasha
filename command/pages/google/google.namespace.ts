@@ -7,4 +7,6 @@ export const google = {
   definition: "what Alan keeps with Google, reached under a consent",
   parts: ["command/google-login", "namespace/google-calendar", "namespace/google-drive"],
   name: "google",
+  createdAt: "2026-09-10T19:41:46.979Z",
+  updatedAt: "2026-09-22T10:09:03.000Z",
 } as const satisfies Namespace

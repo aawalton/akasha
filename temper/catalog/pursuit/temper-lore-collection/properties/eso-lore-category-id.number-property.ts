@@ -8,4 +8,6 @@ export const esoLoreCategoryId = {
   definition: "the number The Elder Scrolls Online gives a lore library category",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T17:56:34.423Z",
+  updatedAt: "2026-09-22T14:05:15.000Z",
 } as const satisfies NumberProperty

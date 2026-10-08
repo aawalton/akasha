@@ -9,4 +9,6 @@ export const overwhereIiiTraitStrain = {
   nullable: false,
   max: null,
   types: "ts",
+  createdAt: "2026-09-29T12:20:41.293Z",
+  updatedAt: "2026-09-29T12:20:46.000Z",
 } as const satisfies NumberProperty

@@ -10,4 +10,6 @@ export const innworldWiki = {
   app: "web-app/alanwalton-web",
   navParent: "nav/products",
   navHref: "https://innworld.wiki",
+  createdAt: "2026-09-25T14:35:15.715Z",
+  updatedAt: "2026-09-25T14:35:19.000Z",
 } as const satisfies Nav

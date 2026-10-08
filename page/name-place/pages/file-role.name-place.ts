@@ -17,4 +17,6 @@ export const fileRole = {
       statement: "A page's own file states no role.",
     },
   ],
+  createdAt: "2026-08-29T23:17:57.608Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NamePlace

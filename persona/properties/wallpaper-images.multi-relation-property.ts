@@ -19,4 +19,6 @@ export const wallpaperImages = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T21:41:13.988Z",
+  updatedAt: "2026-09-22T13:54:13.000Z",
 } as const satisfies MultiRelationProperty

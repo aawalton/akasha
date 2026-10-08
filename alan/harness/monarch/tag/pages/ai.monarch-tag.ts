@@ -9,4 +9,6 @@ export const ai = {
   monarchId: "251487307081586966",
   tagColor: "#bdee63",
   tagPlace: 10,
+  createdAt: "2026-09-03T03:39:10.889Z",
+  updatedAt: "2026-09-22T14:07:54.000Z",
 } as const satisfies MonarchTag

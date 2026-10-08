@@ -29,4 +29,6 @@ export const mobileSim = {
         "A command driving the simulator attaches to the session already open rather than opening its own.",
     },
   ],
+  createdAt: "2026-09-07T12:05:51.678Z",
+  updatedAt: "2026-09-25T14:10:42.000Z",
 } as const satisfies Namespace

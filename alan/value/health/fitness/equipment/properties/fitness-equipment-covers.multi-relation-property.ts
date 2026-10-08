@@ -14,4 +14,6 @@ export const fitnessEquipmentCovers = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-12T01:25:49.334Z",
+  updatedAt: "2026-09-22T14:00:25.000Z",
 } as const satisfies MultiRelationProperty

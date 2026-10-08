@@ -8,4 +8,6 @@ export const sfrScore = {
   definition: "how much stimulus the movement returns for the fatigue it costs",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:19:22.688Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

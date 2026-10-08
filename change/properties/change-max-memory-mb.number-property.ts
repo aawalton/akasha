@@ -26,4 +26,6 @@ export const changeMaxMemoryMb = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-14T13:34:02.595Z",
+  updatedAt: "2026-09-22T10:10:15.000Z",
 } as const satisfies NumberProperty

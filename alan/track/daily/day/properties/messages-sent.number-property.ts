@@ -18,4 +18,6 @@ export const messagesSent = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-08T21:10:24.534Z",
+  updatedAt: "2026-09-22T10:06:45.000Z",
 } as const satisfies NumberProperty

@@ -19,4 +19,6 @@ export const maxLength = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-06T18:45:36.837Z",
+  updatedAt: "2026-09-22T10:06:58.000Z",
 } as const satisfies NumberProperty

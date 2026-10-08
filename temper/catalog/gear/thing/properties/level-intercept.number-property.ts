@@ -8,4 +8,6 @@ export const levelIntercept = {
   definition: "a legendary piece's base worth before the level it is made at is counted",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T04:15:15.330Z",
+  updatedAt: "2026-09-27T04:15:45.000Z",
 } as const satisfies NumberProperty

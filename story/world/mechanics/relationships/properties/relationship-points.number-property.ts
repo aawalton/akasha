@@ -8,4 +8,6 @@ export const relationshipPoints = {
   definition: "the points a relationship has earned in play",
   max: null,
   types: "ts",
+  createdAt: "2026-09-26T15:06:00.258Z",
+  updatedAt: "2026-09-26T15:06:11.000Z",
 } as const satisfies NumberProperty

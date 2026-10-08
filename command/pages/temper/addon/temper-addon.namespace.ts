@@ -14,4 +14,6 @@ export const temperAddon = {
     "command/temper-addon-typecheck",
   ],
   name: "addon",
+  createdAt: "2026-09-07T13:38:55.024Z",
+  updatedAt: "2026-09-26T15:14:05.000Z",
 } as const satisfies Namespace

@@ -8,4 +8,6 @@ export const programs = {
   definition: "the programs an app builds",
   targetPageType: "page-type/ios-program",
   types: "ts",
+  createdAt: "2026-09-06T15:38:53.514Z",
+  updatedAt: "2026-09-22T13:57:43.000Z",
 } as const satisfies MultiRelationProperty

@@ -8,4 +8,6 @@ export const heightIn = {
   definition: "how tall the car is, in inches",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:41:39.657Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

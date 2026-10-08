@@ -9,4 +9,6 @@ export const overwhereIiTalentHardWorkings = {
   nullable: false,
   max: 1000,
   types: "ts",
+  createdAt: "2026-09-30T10:49:57.034Z",
+  updatedAt: "2026-09-30T10:50:01.000Z",
 } as const satisfies NumberProperty

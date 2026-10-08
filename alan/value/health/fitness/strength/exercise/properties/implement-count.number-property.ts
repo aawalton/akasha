@@ -8,4 +8,6 @@ export const implementCount = {
   definition: "how many pieces of kit are loaded at once, so a pair of dumbbells counts twice",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:19:22.687Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

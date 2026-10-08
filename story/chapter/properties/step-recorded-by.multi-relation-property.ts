@@ -28,4 +28,6 @@ export const stepRecordedBy = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T00:51:25.215Z",
+  updatedAt: "2026-10-04T00:19:32.000Z",
 } as const satisfies MultiRelationProperty

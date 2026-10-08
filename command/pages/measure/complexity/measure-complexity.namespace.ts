@@ -12,4 +12,6 @@ export const measureComplexity = {
     "command/measure-complexity-report",
   ],
   name: "complexity",
+  createdAt: "2026-09-10T19:31:48.685Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

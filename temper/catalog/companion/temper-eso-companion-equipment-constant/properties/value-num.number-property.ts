@@ -8,4 +8,6 @@ export const valueNum = {
   definition: "the number a constant holds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:50:05.930Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies NumberProperty

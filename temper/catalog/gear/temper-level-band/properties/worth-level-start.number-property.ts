@@ -8,4 +8,6 @@ export const worthLevelStart = {
   definition: "the worth level a gear value's slope reads just below the band",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T05:50:40.948Z",
+  updatedAt: "2026-09-27T05:50:45.000Z",
 } as const satisfies NumberProperty

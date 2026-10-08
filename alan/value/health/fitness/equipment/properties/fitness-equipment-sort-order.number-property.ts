@@ -8,4 +8,6 @@ export const fitnessEquipmentSortOrder = {
   definition: "where a piece of kit sits when the kit is shown as a list",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T17:51:17.317Z",
+  updatedAt: "2026-09-22T13:24:12.000Z",
 } as const satisfies NumberProperty

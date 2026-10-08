@@ -8,4 +8,6 @@ export const esoInterfaces = {
   definition: "the XML documents an addon loads",
   targetPageType: "page-type/eso-interface",
   types: "ts",
+  createdAt: "2026-09-02T03:43:06.616Z",
+  updatedAt: "2026-09-22T13:58:12.000Z",
 } as const satisfies MultiRelationProperty

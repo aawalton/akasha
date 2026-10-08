@@ -9,4 +9,6 @@ export const worldRankPlace = {
   nullable: false,
   max: null,
   types: "ts",
+  createdAt: "2026-09-26T17:55:55.717Z",
+  updatedAt: "2026-09-26T17:56:00.000Z",
 } as const satisfies NumberProperty

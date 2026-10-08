@@ -8,4 +8,6 @@ export const edges = {
   definition: "the edge kinds a predicate follows",
   targetPageType: "page-type/graph-edge",
   types: "ts",
+  createdAt: "2026-09-15T16:20:57.835Z",
+  updatedAt: "2026-09-22T13:55:32.000Z",
 } as const satisfies MultiRelationProperty

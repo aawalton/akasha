@@ -8,4 +8,6 @@ export const altitudeM = {
   definition: "how far above sea level the trace was taken, in metres",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T21:38:23.027Z",
+  updatedAt: "2026-09-21T19:18:52.000Z",
 } as const satisfies NumberProperty

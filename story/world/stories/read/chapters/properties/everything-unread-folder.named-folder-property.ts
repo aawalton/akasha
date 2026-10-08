@@ -33,4 +33,6 @@ export const everythingUnreadFolder = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-29T02:43:46.284Z",
+  updatedAt: "2026-09-29T02:56:03.000Z",
 } as const satisfies NamedFolderProperty

@@ -7,4 +7,6 @@ export const git = {
   definition: "this checkout, reached where git's own command is refused an agent",
   parts: ["command/git-push", "command/git-restore", "command/git-sweep"],
   name: "git",
+  createdAt: "2026-09-10T21:45:43.813Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

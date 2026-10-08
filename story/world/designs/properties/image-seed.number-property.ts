@@ -14,4 +14,6 @@ export const imageSeed = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-27T16:07:03.490Z",
+  updatedAt: "2026-09-27T16:07:07.000Z",
 } as const satisfies NumberProperty

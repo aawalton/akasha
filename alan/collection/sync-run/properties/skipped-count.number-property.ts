@@ -8,4 +8,6 @@ export const skippedCount = {
   definition: "how many pages a pull left as they were",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T17:47:25.668Z",
+  updatedAt: "2026-09-15T15:55:06.000Z",
 } as const satisfies NumberProperty

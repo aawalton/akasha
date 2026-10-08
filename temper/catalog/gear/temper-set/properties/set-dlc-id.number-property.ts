@@ -8,4 +8,6 @@ export const setDlcId = {
   definition: "the number the sets addon gives the release that brought a set",
   max: null,
   types: "ts",
+  createdAt: "2026-09-25T14:03:43.166Z",
+  updatedAt: "2026-09-25T14:03:50.000Z",
 } as const satisfies NumberProperty

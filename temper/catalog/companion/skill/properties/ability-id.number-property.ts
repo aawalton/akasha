@@ -8,4 +8,6 @@ export const abilityId = {
   definition: "the number The Elder Scrolls Online gives an ability",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:50:33.725Z",
+  updatedAt: "2026-09-22T14:05:35.000Z",
 } as const satisfies NumberProperty

@@ -9,4 +9,6 @@ export const otherwhereVRank = {
   nullable: false,
   max: null,
   types: "ts",
+  createdAt: "2026-09-28T21:51:35.661Z",
+  updatedAt: "2026-09-28T21:51:44.000Z",
 } as const satisfies NumberProperty

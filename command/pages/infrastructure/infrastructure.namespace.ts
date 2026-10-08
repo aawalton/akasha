@@ -13,4 +13,6 @@ export const infrastructure = {
     "command/infrastructure-provisioned-file-install",
   ],
   name: "infrastructure",
+  createdAt: "2026-09-08T21:50:03.333Z",
+  updatedAt: "2026-09-22T14:10:58.000Z",
 } as const satisfies Namespace

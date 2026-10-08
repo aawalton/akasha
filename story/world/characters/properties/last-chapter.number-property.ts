@@ -14,4 +14,6 @@ export const lastChapter = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T04:15:29.485Z",
+  updatedAt: "2026-09-22T14:08:59.000Z",
 } as const satisfies NumberProperty

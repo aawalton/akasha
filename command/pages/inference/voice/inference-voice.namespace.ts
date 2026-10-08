@@ -7,4 +7,6 @@ export const inferenceVoice = {
   definition: "a voice copied from a recording or drawn up from a description",
   parts: ["command/inference-voice-clone", "command/inference-voice-design"],
   name: "voice",
+  createdAt: "2026-09-07T12:05:51.677Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

@@ -8,4 +8,6 @@ export const conversationImages = {
   definition: "the number of images a person sends with the words",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T16:42:27.399Z",
+  updatedAt: "2026-09-25T18:01:14.000Z",
 } as const satisfies NumberProperty

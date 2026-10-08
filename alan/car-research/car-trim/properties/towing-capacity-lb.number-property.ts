@@ -8,4 +8,6 @@ export const towingCapacityLb = {
   definition: "how much the car may tow behind it, in pounds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:43:45.699Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

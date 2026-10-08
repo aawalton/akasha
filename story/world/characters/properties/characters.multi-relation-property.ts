@@ -18,4 +18,6 @@ export const characters = {
   ],
   targetPageType: "page-type/world-character",
   types: "ts",
+  createdAt: "2026-09-26T15:06:00.258Z",
+  updatedAt: "2026-09-26T17:44:02.000Z",
 } as const satisfies MultiRelationProperty

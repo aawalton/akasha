@@ -7,4 +7,6 @@ export const refresh = {
   definition: "what a page carries, worked out again from where it came",
   parts: ["command/refresh-message", "command/refresh-persona"],
   name: "refresh",
+  createdAt: "2026-09-08T17:20:55.969Z",
+  updatedAt: "2026-09-21T15:57:11.000Z",
 } as const satisfies Namespace

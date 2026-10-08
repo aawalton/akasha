@@ -14,4 +14,6 @@ export const summerSolsticeY2 = {
   namedEventKind: "festival",
   lastChapter: 700,
   world: "world/the-wandering-inn",
+  createdAt: "2026-07-16T00:48:26.583Z",
+  updatedAt: "2026-09-22T13:44:58.000Z",
 } as const satisfies NamedEvent

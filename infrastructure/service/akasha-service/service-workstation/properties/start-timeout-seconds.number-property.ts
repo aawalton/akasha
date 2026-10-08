@@ -8,4 +8,6 @@ export const startTimeoutSeconds = {
   definition: "how long a unit is given to finish starting",
   max: null,
   types: "ts",
+  createdAt: "2026-08-31T23:55:19.471Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies NumberProperty

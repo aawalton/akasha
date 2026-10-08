@@ -12,4 +12,6 @@ export const pageSecret = {
     "command/page-secret-show",
   ],
   name: "secret",
+  createdAt: "2026-09-07T12:10:30.250Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

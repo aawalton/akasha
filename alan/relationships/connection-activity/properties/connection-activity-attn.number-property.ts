@@ -8,4 +8,6 @@ export const connectionActivityAttn = {
   definition: "how much of their attention is on him",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:37:29.997Z",
+  updatedAt: "2026-09-25T13:01:00.000Z",
 } as const satisfies NumberProperty

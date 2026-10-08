@@ -7,4 +7,6 @@ export const temperInventoryBank = {
   definition: "what a character keeps in the bank",
   parts: ["command/temper-inventory-bank-profile", "command/temper-inventory-bank-trace"],
   name: "bank",
+  createdAt: "2026-09-07T13:38:15.167Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

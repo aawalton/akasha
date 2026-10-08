@@ -7,4 +7,6 @@ export const upperSnakeCase = {
   definition: "a name format joining words with underscores, all letters capital",
   code: "ts",
   test: "ts",
+  createdAt: "2026-08-29T18:13:57.465Z",
+  updatedAt: "2026-09-15T15:50:36.000Z",
 } as const satisfies NameFormat

@@ -8,4 +8,6 @@ export const hashPlace = {
   definition: "the place a build hash holds a page at in the table it reads by place",
   max: null,
   types: "ts",
+  createdAt: "2026-09-24T23:32:57.567Z",
+  updatedAt: "2026-09-24T23:33:18.000Z",
 } as const satisfies NumberProperty

@@ -11,4 +11,6 @@ export const temperCommunity = {
     "command/temper-community-addon-update",
   ],
   name: "community",
+  createdAt: "2026-09-07T13:39:02.301Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

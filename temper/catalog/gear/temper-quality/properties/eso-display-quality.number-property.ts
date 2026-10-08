@@ -8,4 +8,6 @@ export const esoDisplayQuality = {
   definition: "the number The Elder Scrolls Online gives a quality it shows",
   max: null,
   types: "ts",
+  createdAt: "2026-09-27T02:30:19.897Z",
+  updatedAt: "2026-09-27T02:30:32.000Z",
 } as const satisfies NumberProperty

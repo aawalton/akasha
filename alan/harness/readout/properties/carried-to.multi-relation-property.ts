@@ -19,4 +19,6 @@ export const carriedTo = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-25T17:18:50.478Z",
+  updatedAt: "2026-09-25T17:19:02.000Z",
 } as const satisfies MultiRelationProperty

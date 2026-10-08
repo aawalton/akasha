@@ -8,4 +8,6 @@ export const esoSetId = {
   definition: "the number The Elder Scrolls Online gives a set",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T01:53:02.010Z",
+  updatedAt: "2026-09-22T14:05:15.000Z",
 } as const satisfies NumberProperty

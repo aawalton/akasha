@@ -8,4 +8,6 @@ export const mpgeCombined = {
   definition: "how far the car goes on a gallon's worth of energy over the EPA's mixed cycle",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:42:05.184Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

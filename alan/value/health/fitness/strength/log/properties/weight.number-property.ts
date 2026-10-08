@@ -8,4 +8,6 @@ export const weight = {
   definition: "the load on an implement, in pounds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T04:21:48.925Z",
+  updatedAt: "2026-09-22T10:05:53.000Z",
 } as const satisfies NumberProperty

@@ -8,4 +8,6 @@ export const risks = {
   definition: "how many times over Alan took the same risk at one go",
   max: null,
   types: "ts",
+  createdAt: "2026-09-18T15:08:16.720Z",
+  updatedAt: "2026-09-18T15:12:18.000Z",
 } as const satisfies NumberProperty

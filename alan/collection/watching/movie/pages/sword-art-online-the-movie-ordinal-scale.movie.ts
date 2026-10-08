@@ -23,4 +23,6 @@ export const swordArtOnlineTheMovieOrdinalScale = {
     },
   ],
   imdbId: "tt5544384",
+  createdAt: "2026-06-07T22:44:50.759Z",
+  updatedAt: "2026-09-25T12:50:49.000Z",
 } as const satisfies Movie

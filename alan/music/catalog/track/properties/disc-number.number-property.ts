@@ -18,4 +18,6 @@ export const discNumber = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-15T16:21:55.721Z",
+  updatedAt: "2026-09-22T13:46:30.000Z",
 } as const satisfies NumberProperty

@@ -8,4 +8,6 @@ export const targetRange = {
   definition: "how far away an effect reaches",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T10:04:06.699Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies NumberProperty

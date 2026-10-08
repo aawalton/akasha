@@ -33,4 +33,6 @@ export const foreignName = {
       statement: "A name beside a name its owner spells still answers the test alone.",
     },
   ],
+  createdAt: "2026-08-29T23:47:09.343Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NamePlace

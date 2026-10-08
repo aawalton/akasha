@@ -8,4 +8,6 @@ export const cooldownMilliseconds = {
   definition: "how long changes to a file are collected before that file is written again",
   max: null,
   types: "ts",
+  createdAt: "2026-09-05T15:35:07.267Z",
+  updatedAt: "2026-09-22T00:50:00.000Z",
 } as const satisfies NumberProperty

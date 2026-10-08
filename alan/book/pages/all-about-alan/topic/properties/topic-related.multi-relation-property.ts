@@ -18,4 +18,6 @@ export const topicRelated = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-03T03:40:37.941Z",
+  updatedAt: "2026-09-22T14:01:56.000Z",
 } as const satisfies MultiRelationProperty

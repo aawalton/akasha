@@ -8,4 +8,6 @@ export const esoCollectionIndex = {
   definition: "the number The Elder Scrolls Online gives a lore collection",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T17:56:34.423Z",
+  updatedAt: "2026-09-22T13:49:36.000Z",
 } as const satisfies NumberProperty

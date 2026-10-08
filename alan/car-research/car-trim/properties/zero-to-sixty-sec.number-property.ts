@@ -8,4 +8,6 @@ export const zeroToSixtySec = {
   definition: "how long the car takes to reach sixty miles an hour, in seconds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:43:59.360Z",
+  updatedAt: "2026-09-21T18:44:23.000Z",
 } as const satisfies NumberProperty

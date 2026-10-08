@@ -8,4 +8,6 @@ export const tickInterval = {
   definition: "how many seconds fall between one tick of an effect and the next",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T10:04:06.696Z",
+  updatedAt: "2026-09-21T15:26:51.000Z",
 } as const satisfies NumberProperty

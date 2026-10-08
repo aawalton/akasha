@@ -11,4 +11,6 @@ export const addonTexturesFolder = {
   folderName: "textures",
   holdsBytes: true,
   runsFileLength: false,
+  createdAt: "2026-09-26T15:39:19.411Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies NamedFolderProperty

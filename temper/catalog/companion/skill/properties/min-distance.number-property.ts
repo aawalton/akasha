@@ -8,4 +8,6 @@ export const minDistance = {
   definition: "a test's nearest range",
   max: null,
   types: "ts",
+  createdAt: "2026-09-02T10:04:06.702Z",
+  updatedAt: "2026-09-22T14:14:06.000Z",
 } as const satisfies NumberProperty

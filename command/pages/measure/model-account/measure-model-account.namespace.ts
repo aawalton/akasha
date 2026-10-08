@@ -7,4 +7,6 @@ export const measureModelAccount = {
   definition: "what the fleet of model accounts has spent",
   parts: ["command/measure-model-account-cost", "command/measure-model-account-usage"],
   name: "model-account",
+  createdAt: "2026-09-07T01:14:31.951Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

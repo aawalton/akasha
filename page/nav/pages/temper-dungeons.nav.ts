@@ -8,4 +8,6 @@ export const temperDungeons = {
   icon: "file-text",
   navPlace: 10,
   app: "web-app/temper-web",
+  createdAt: "2026-09-03T04:11:42.483Z",
+  updatedAt: "2026-09-25T14:56:19.000Z",
 } as const satisfies Nav

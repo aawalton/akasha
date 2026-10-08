@@ -8,4 +8,6 @@ export const epaRangeElectricMi = {
   definition: "how far the EPA says the car goes on the battery alone, in miles",
   max: null,
   types: "ts",
+  createdAt: "2026-09-21T18:41:18.054Z",
+  updatedAt: "2026-09-21T18:42:37.000Z",
 } as const satisfies NumberProperty

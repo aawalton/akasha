@@ -18,4 +18,6 @@ export const idleCompactWindow = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T19:57:06.172Z",
+  updatedAt: "2026-09-25T17:53:23.000Z",
 } as const satisfies NumberProperty

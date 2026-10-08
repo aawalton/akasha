@@ -16,4 +16,6 @@ export const environmentVariable = {
       statement: "A name akasha reads opens with the name of the system that set that name.",
     },
   ],
+  createdAt: "2026-08-29T23:48:59.456Z",
+  updatedAt: "2026-09-22T13:46:01.000Z",
 } as const satisfies NamePlace

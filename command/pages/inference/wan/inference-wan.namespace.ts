@@ -14,4 +14,6 @@ export const inferenceWan = {
     "module/wan-hosting",
   ],
   name: "wan",
+  createdAt: "2026-09-12T04:59:03.134Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

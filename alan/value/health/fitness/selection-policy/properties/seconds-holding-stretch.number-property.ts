@@ -8,4 +8,6 @@ export const secondsHoldingStretch = {
   definition: "how many seconds Alan holds any stretch that cools him down",
   max: null,
   types: "ts",
+  createdAt: "2026-09-19T17:28:14.787Z",
+  updatedAt: "2026-09-22T10:05:53.000Z",
 } as const satisfies NumberProperty

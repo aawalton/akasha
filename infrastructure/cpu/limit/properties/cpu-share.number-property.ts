@@ -18,4 +18,6 @@ export const cpuShare = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-24T22:58:13.260Z",
+  updatedAt: "2026-09-24T22:58:21.000Z",
 } as const satisfies NumberProperty

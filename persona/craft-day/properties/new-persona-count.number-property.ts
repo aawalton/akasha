@@ -8,4 +8,6 @@ export const newPersonaCount = {
   definition: "how many personas came to be on a day",
   max: null,
   types: "ts",
+  createdAt: "2026-09-03T03:41:16.827Z",
+  updatedAt: "2026-09-15T15:57:46.000Z",
 } as const satisfies NumberProperty

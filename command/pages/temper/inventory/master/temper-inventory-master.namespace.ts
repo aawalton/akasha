@@ -11,4 +11,6 @@ export const temperInventoryMaster = {
     "command/temper-inventory-master-writ-probe",
   ],
   name: "master",
+  createdAt: "2026-09-07T13:38:24.780Z",
+  updatedAt: "2026-09-15T15:51:21.000Z",
 } as const satisfies Namespace

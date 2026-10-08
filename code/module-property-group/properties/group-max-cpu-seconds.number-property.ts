@@ -8,4 +8,6 @@ export const groupMaxCpuSeconds = {
   definition: "the most processor time a run of a group's code may spend, in seconds",
   max: null,
   types: "ts",
+  createdAt: "2026-09-10T14:23:03.273Z",
+  updatedAt: "2026-09-22T10:05:48.000Z",
 } as const satisfies NumberProperty

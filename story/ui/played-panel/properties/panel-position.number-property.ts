@@ -23,4 +23,6 @@ export const panelPosition = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-28T12:27:19.650Z",
+  updatedAt: "2026-09-28T12:27:35.000Z",
 } as const satisfies NumberProperty

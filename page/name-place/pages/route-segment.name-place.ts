@@ -20,4 +20,6 @@ export const routeSegment = {
       statement: "The part before the dot is the name.",
     },
   ],
+  createdAt: "2026-08-29T23:21:44.563Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies NamePlace

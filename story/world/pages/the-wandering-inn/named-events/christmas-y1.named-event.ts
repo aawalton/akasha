@@ -14,4 +14,6 @@ export const christmasY1 = {
   namedEventKind: "festival",
   lastChapter: 230,
   world: "world/the-wandering-inn",
+  createdAt: "2026-07-16T00:48:26.682Z",
+  updatedAt: "2026-09-22T13:44:58.000Z",
 } as const satisfies NamedEvent

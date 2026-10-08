@@ -30,4 +30,6 @@ export const errorCount = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-01T23:13:37.760Z",
+  updatedAt: "2026-09-24T23:22:29.000Z",
 } as const satisfies NumberProperty
