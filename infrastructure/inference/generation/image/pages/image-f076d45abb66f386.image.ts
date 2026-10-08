@@ -7,4 +7,6 @@ export const imageF076d45abb66f386 = {
   title: "Orange chicken with white rice",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
+  createdAt: "2026-09-21T21:55:35.111Z",
+  updatedAt: "2026-09-27T15:48:03.000Z",
 } as const satisfies Image

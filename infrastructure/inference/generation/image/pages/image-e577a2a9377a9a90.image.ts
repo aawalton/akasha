@@ -23,4 +23,6 @@ export const imageE577a2a9377a9a90 = {
   fantasyTags: ["fantasy-tag/monster-girl", "fantasy-tag/ghost", "fantasy-tag/gothic"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-24T22:48:13.980Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -14,4 +14,6 @@ export const imageF496d70f20454f5c = {
   height: 1216,
   prompt:
     "Fantasy photorealistic, candid photograph. The inside of an ancient barrow, a narrow stone burial passage running into a grassy mound, with nobody in the frame. The passage is so narrow a person's shoulders would brush both walls, and low, built of huge rough grey dressed stones fitted without mortar, with great flat capstones for a roof. It turns a little ahead and widens slightly, and along its left-hand wall a row of low dark niches is cut into the stone, shelves the length of a person, one after another, most empty or holding only grey dust and old cobweb. Damp glistens on the stones and fine dust lies on the floor. The only light is a thin hard line of warm gold lamplight lying along the floor and sliding across the stone from a shuttered lantern out of frame behind the camera, and a faint grey glow of daylight from the low doorway far behind. Everything beyond the lamplight falls away into deep black. Cold, still, very old. Nothing lettered. Eye-level view down the passage toward the niches, 24mm lens, deep shadows, dramatic low-key lighting.",
+  createdAt: "2026-10-06T15:36:39.000Z",
+  updatedAt: "2026-10-06T15:36:39.000Z",
 } as const satisfies Image

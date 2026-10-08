@@ -19,4 +19,6 @@ export const imageE79a6e39de58424a = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She lies on her stomach on a canvas tool-roll blanket in a sunny park, propped on her elbows, tinkering with a small intricate brass clockwork bird in her hands with a tiny screwdriver, tongue between her teeth in concentration, eyes on the work. Her denim overall shorts are unbuckled with the bib folded down around her waist, her back bare to the sun, her chest pressed to the blanket and hidden; a delicate thin gold tiara pushed back in her hair. Camera from above at three-quarter view, tools and brass gears scattered on the canvas, warm mid-afternoon light. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:14:56.276Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

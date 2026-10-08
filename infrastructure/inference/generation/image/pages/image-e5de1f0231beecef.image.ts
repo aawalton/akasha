@@ -14,4 +14,6 @@ export const imageE5de1f0231beecef = {
   height: 1216,
   prompt:
     "Fantasy photorealistic photograph. The first floor of the Underbloom, a gentle dungeon of old vaulted brick cellars beneath a city's flower market, empty of people. A long low passage of arched red-brown brick vaults runs away from the camera, the old mortar crumbling, puddles on the worn flagstone floor. Everywhere the walls, arches and floor edges are overgrown with masses of pale soft flowers that glow by themselves, white, pale blue and faint violet, so the whole cellar is lit by their soft bioluminescent light with no lamp. Glowing petals drift in the still air. Side passages open off the main way, half choked by dark twisting stranglevine with hooked tendrils. In the middle distance a cat-sized iridescent beetle grazes on the flowers. Far down the passage a low arch opens into a round chamber with an old stone cistern, and near the camera a stone stair climbs up toward a square of daylight. Hushed, damp, enchanting, more lovely than frightening. Eye-level wide shot down the passage, 24mm lens, deep depth of field, soft glowing light from the flowers, rich detail, no people, no text.",
+  createdAt: "2026-10-04T09:26:16.000Z",
+  updatedAt: "2026-10-04T09:26:16.000Z",
 } as const satisfies Image

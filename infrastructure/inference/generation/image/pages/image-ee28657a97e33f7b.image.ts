@@ -21,4 +21,6 @@ export const imageEe28657a97e33f7b = {
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:10:24.991Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

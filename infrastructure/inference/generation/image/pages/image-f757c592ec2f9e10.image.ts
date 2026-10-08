@@ -28,4 +28,6 @@ export const imageF757c592ec2f9e10 = {
   fantasyTags: ["fantasy-tag/dragon", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:03.322Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

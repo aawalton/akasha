@@ -8,4 +8,6 @@ export const imageF849129a830f6990 = {
   grade: "B",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/abstract-background"],
+  createdAt: "2026-09-25T13:12:13.242Z",
+  updatedAt: "2026-09-27T15:48:03.000Z",
 } as const satisfies Image

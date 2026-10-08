@@ -16,4 +16,6 @@ export const imageE15269b11eecbece = {
   ],
   prompt:
     "Her face stays exactly as in the reference: a slim young woman of about twenty-five with pale fair skin, a light dusting of freckles across her nose and cheeks, clear blue-grey eyes, straight dark auburn brows, a small straight nose, soft full rose-pink lips, a heart-shaped face narrowing to a small chin, and long straight dark auburn-red hair worn loose with a side part.\nKeep this exact woman, same face and hair. Film still, over-the-shoulder shot from behind and slightly to her side: she has just sat up on a black sand beach and turns her head back to look over her shoulder toward the camera, eyes wide, lips parted, alarmed. One hand braced in the sand. Her oversized grey t-shirt has slid off one shoulder, her long heavy dark red hair tangled with black sand. She wears black shorts sagging over black compression tights, feet bare. Past her, the surf of a wild blue sea rolls in. Bright morning sun from the sea side, rim-lighting her hair, deep shadows, fine sea spray in the air, teal and amber color grade.",
+  createdAt: "2026-09-28T20:05:55.532Z",
+  updatedAt: "2026-09-28T20:05:56.000Z",
 } as const satisfies Image

@@ -21,4 +21,6 @@ export const imageE5b249c6eee194b0 = {
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/body-paint"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-12T20:33:48.805Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

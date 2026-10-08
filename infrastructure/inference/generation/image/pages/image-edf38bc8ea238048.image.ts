@@ -16,4 +16,6 @@ export const imageEdf38bc8ea238048 = {
   ],
   prompt:
     "Keep this exact place: the same coal wharf, canal, barges, crane and lock. Fantasy photorealistic, candid photograph. The Long Cut coal wharf in early summer morning: a long stone quay black with coal dust, heaped along its length with great dark piles of coal and stacked sacks, barges moored along the quayside nose to tail, low and broad and painted red and blue and green and yellow under their grime, thin smoke rising from little tin chimneys on their cabin roofs. Halfway down the line lies a long bottle-green barge, old and well kept, with shining brass and pots of red and pink geraniums all along its cabin roof. At the far end the canal runs straight toward a lock with heavy black gates, a crane leaning beside it, and a small brick wharf office. Nobody in the frame, the quay empty. Low bright morning sun, long shadows, gulls overhead. Nothing lettered. Wide shot, 28mm lens, deep focus.",
+  createdAt: "2026-10-04T14:18:53.000Z",
+  updatedAt: "2026-10-04T14:18:53.000Z",
 } as const satisfies Image

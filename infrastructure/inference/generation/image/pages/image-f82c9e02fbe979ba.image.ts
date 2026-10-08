@@ -26,4 +26,6 @@ export const imageF82c9e02fbe979ba = {
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:50:26.593Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

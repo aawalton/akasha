@@ -9,4 +9,6 @@ export const imageE7a35450520c346e = {
   settingTags: ["setting-tag/waterfall", "setting-tag/cave", "setting-tag/market"],
   poseTags: ["pose-tag/standing", "pose-tag/walking"],
   wardrobeTags: ["wardrobe-tag/fully-clothed", "wardrobe-tag/armor", "wardrobe-tag/tunic"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:06.000Z",
 } as const satisfies Image

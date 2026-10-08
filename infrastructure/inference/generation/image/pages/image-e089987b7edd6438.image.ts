@@ -14,4 +14,6 @@ export const imageE089987b7edd6438 = {
   height: 1216,
   prompt:
     "photorealistic fantasy portrait, a single gorgeous young woman of twenty alone, framed from head to mid-thigh, strikingly beautiful, flawless luminous skin, delicate features, full soft lips, long lashes, a sweet innocent open smile, adorable and alluring at once. She is petite and slim with a slender waist, slim legs and a small chest. Big blue-violet eyes. Pastel strawberry-pink tinted blonde hair in two soft low pigtails tied with ribbons. A fitted lavender babydoll dress with puffed short sleeves and a short flared skirt, white frilly ankle socks and mary-janes. Twirling happily in a sunny flower meadow outside a fantasy city wall, golden light, soft bokeh.",
+  createdAt: "2026-10-03T12:56:09.000Z",
+  updatedAt: "2026-10-03T12:56:09.000Z",
 } as const satisfies Image

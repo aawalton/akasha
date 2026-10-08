@@ -19,4 +19,6 @@ export const imageF1fe47b49d404807 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. After a run she sits on the grass of a wide park meadow with her knees drawn up, wearing only black running shorts and trainers, her sports top pulled off and held bunched against her chest, forearms resting on her knees hiding her chest. Her face is tipped up to the sun with eyes closed, catching her breath, a water bottle beside her. Wide shot from the side with the meadow and a line of oaks around her, bright late-morning sun. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:02:52.466Z",
+  updatedAt: "2026-09-28T19:20:34.000Z",
 } as const satisfies Image

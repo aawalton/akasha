@@ -17,4 +17,6 @@ export const imageEf2997585d764fd2 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph, nobody looks at the camera. Keep the place from the first image, the attic room, at the little wooden table by the wall. The pink-haired woman from the second image sits on the three-legged stool at the table, an inkpot held still between her knees, a pen poised above a sheet of letter paper, looking down at the page with a soft, wistful, hopeful expression, lips slightly parted as if choosing the words. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs; slim build, small chest; she wears a plain white linen shift, barefoot. Pale early morning light from the round window falling across the table and paper. Medium close shot from the side at table height, 50mm lens, her face and the letter in focus, shallow depth of field, nothing on the paper readable.",
+  createdAt: "2026-10-04T09:47:53.638Z",
+  updatedAt: "2026-10-04T09:47:54.000Z",
 } as const satisfies Image

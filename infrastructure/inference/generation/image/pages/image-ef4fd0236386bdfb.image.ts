@@ -16,4 +16,6 @@ export const imageEf4fd0236386bdfb = {
   height: 832,
   prompt:
     "A 23-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Black with dark glowing skin and long box braids gathered up in a wrap, fit athletic build, lying on her side on a mustard yellow towel on a grassy slope in a park, propped on one elbow, wearing only an open silk kimono robe slipping off one shoulder, over-ear headphones on, eyes closed, lost in the music, profile view, late golden-hour light, city skyline hazy in the far distance, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:11:33.038Z",
+  updatedAt: "2026-09-28T21:11:53.000Z",
 } as const satisfies Image

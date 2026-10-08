@@ -16,4 +16,6 @@ export const imageEc5b334807f70069 = {
   height: 1216,
   prompt:
     "Candid photograph of a 23-year-old adult woman, fresh youthful grown woman's face, Ethiopian with deep brown skin, short natural curls, slim graceful build with a small flat chest, sitting on the steps into a luxury hotel pool with the water at her waist, wearing a bright white bikini, tipping her face up to the sun with her eyes closed, hands resting on the step behind her, peaceful smile, not looking at the camera, mosaic-tiled steps, palms and arched colonnade behind, warm late morning light, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:02:35.378Z",
+  updatedAt: "2026-10-04T22:03:05.000Z",
 } as const satisfies Image

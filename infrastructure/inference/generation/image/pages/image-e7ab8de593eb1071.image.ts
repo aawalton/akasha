@@ -16,4 +16,6 @@ export const imageE7ab8de593eb1071 = {
   height: 1216,
   prompt:
     "Candid photograph of a 23-year-old adult woman, fresh youthful grown woman's face, Swedish with fair lightly tanned skin and freckles, long wavy honey-blonde hair dripping wet, slim build with small breasts, rising out of a luxury hotel pool at the edge, water streaming down her body, wearing a wet white string bikini gone sheer, hands pushing her hair back off her face, lips parted, eyes half closed, sensual expression, not looking at the camera, white stone deck and cream parasols behind, bright late afternoon sun glinting on wet skin, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:07:02.760Z",
+  updatedAt: "2026-10-04T22:08:29.000Z",
 } as const satisfies Image

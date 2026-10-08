@@ -5,4 +5,6 @@ export const imageF8bd57b307b84a45 = {
   type: "page-type/image",
   slug: "image-f8bd57b307b84a45",
   title: "Otherwhere turn 1 — edit prompt A, place first and concrete",
+  createdAt: "2026-09-28T19:31:27.264Z",
+  updatedAt: "2026-09-28T19:31:32.000Z",
 } as const satisfies Image

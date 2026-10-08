@@ -22,4 +22,6 @@ export const imageE555f3cfda4934a3 = {
   wardrobeTags: ["wardrobe-tag/robe"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:50:58.831Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

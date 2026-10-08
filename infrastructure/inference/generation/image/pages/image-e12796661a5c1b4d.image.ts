@@ -22,4 +22,6 @@ export const imageE12796661a5c1b4d = {
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/black"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:17.996Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

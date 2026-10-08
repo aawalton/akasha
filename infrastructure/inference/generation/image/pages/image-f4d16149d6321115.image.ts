@@ -11,4 +11,6 @@ export const imageF4d16149d6321115 = {
   wardrobeTags: ["wardrobe-tag/cloak"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:50.078Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

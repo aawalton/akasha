@@ -16,4 +16,6 @@ export const imageEfe07cad6ff60cd6 = {
   ],
   prompt:
     "Keep this exact woman: same face, eyes, lips, skin and hair. Change the scene around her. Fantasy photorealistic, candid photograph, she does not look at the camera. Her hair is down, wet and loose, straight and black to her waist. She is a gorgeous, tall, willowy young Japanese woman of twenty-four with a J-pop idol's face: a fine-boned delicate oval face, high cheekbones, cool grey eyes under straight dark brows, a small straight nose, soft full lips set in a composed unsmiling line, flawless pale porcelain skin, and glossy black hair scraped smoothly back from a bare forehead, no fringe, into a severe low bun at the nape, not a strand loose, with a slim build and small chest. She wears a big rough white towel wrapped round her body up under her arms, her pale shoulders bare and smooth, a white bandage round one forearm resting on her knee. She sits very straight and still on the slatted cedar bench of a small round steam room tiled in white, with a slatted wooden bench round the wall, thick white steam in the air, her grey eyes lowered, composed, her lips pressed together. Nothing lettered. Medium shot, 50mm lens, shallow depth of field.",
+  createdAt: "2026-10-04T16:02:27.586Z",
+  updatedAt: "2026-10-04T16:02:28.000Z",
 } as const satisfies Image

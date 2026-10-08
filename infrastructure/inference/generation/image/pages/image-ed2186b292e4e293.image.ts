@@ -19,4 +19,6 @@ export const imageEd2186b292e4e293 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add no horns or features she does not have. She sits on a sage-green yoga mat on a quiet park lawn in early morning, legs stretched straight out, folding gently forward in a seated stretch reaching toward her toes, eyes closed, calm. She wears only high-waisted sage yoga leggings; her cropped tank top is tossed on the grass beside her, her long bare back curved to the camera, her folded pose and arms hiding her chest, a thin anklet on one ankle. Camera three-quarter from behind and to the side at low height, soft pale gold sunrise light, dew and a faint mist over the lawn. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:48:01.329Z",
+  updatedAt: "2026-09-28T19:48:29.000Z",
 } as const satisfies Image

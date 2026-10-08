@@ -11,4 +11,6 @@ export const imageE21e1acdf2b19d2e = {
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:52:02.381Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

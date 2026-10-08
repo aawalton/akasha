@@ -14,4 +14,6 @@ export const imageF0c38aa53cc34fbf = {
   height: 1216,
   prompt:
     "photorealistic fantasy portrait, a single gorgeous young Korean woman of twenty alone, framed from head to mid-thigh, with a K-pop idol's face and figure: a small V-line face, big sparkling doe eyes with soft aegyo-sal, a small delicate nose, glossy plump pink lips, flawless pale porcelain skin with a soft natural blush, a sweet innocent bright smile, adorable and alluring at once. An idol's slim figure, very slender, tiny waist, long slim legs and a small chest. Long dark brown hair in a high ponytail with face-framing strands. A light fitted leather adventurer's vest laced over a white cropped blouse, short shorts, a belt with pouches, tall boots, a small healer's satchel. Standing in front of a quest board in a stone fantasy guild hall, warm torchlight, soft bokeh.",
+  createdAt: "2026-10-03T13:00:15.715Z",
+  updatedAt: "2026-10-03T13:00:16.000Z",
 } as const satisfies Image

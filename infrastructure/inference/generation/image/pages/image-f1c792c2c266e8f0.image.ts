@@ -12,4 +12,6 @@ export const imageF1c792c2c266e8f0 = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bodysuit", "wardrobe-tag/sheer"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:17.960Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

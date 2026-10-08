@@ -21,4 +21,6 @@ export const imageF1f6789a1bc81eb7 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:01.687Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

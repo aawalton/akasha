@@ -12,4 +12,6 @@ export const imageF1c5e1539cd19e86 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/pants-down", "wardrobe-tag/hoodie"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:50:54.281Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

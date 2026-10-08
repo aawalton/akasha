@@ -6,4 +6,6 @@ export const imageE0c121f7526be6e8 = {
   slug: "image-e0c121f7526be6e8",
   relationshipLevel: "closeness-level/level-1",
   fantasyTags: ["fantasy-tag/bioluminescence"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

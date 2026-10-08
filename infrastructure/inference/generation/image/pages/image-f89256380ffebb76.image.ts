@@ -7,4 +7,6 @@ export const imageF89256380ffebb76 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/workshop", "setting-tag/indoor"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/steampunk"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

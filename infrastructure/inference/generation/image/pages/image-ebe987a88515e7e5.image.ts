@@ -16,4 +16,6 @@ export const imageEbe987a88515e7e5 = {
   height: 1216,
   prompt:
     "Candid photograph of a 23-year-old adult woman, grown woman's face, French with fair skin, a short chestnut pixie cut, slim willowy build with a small flat chest, standing on a hotel pool deck wrapping a white hotel towel around her hips after a swim, wearing a navy and white striped bandeau bikini top, wet shoulders, looking down at the towel as she tucks it in with a half smile, not looking at the camera, art deco hotel facade with green shutters and a tiled pool behind, soft late afternoon light, natural light, 35mm lens.",
+  createdAt: "2026-10-04T22:00:06.565Z",
+  updatedAt: "2026-10-04T22:01:44.000Z",
 } as const satisfies Image

@@ -16,4 +16,6 @@ export const imageE488babbfbece30a = {
   ],
   prompt:
     "Keep this exact woman: same face, eyes, lips, skin and hair. Change the scene around her. Fantasy photorealistic, candid photograph, she does not look at the camera. She is a sturdy, broad-shouldered Korean bargewoman in her fifties: a round face weathered by sun and wind, laughing green eyes with deep crow's feet, a wide generous mouth, warm tanned golden skin dusted with old freckles, and thick curly copper-red hair going grey, pinned up roughly with a wooden comb. She wears a faded red shirt with the sleeves rolled, a coal-dusted dark canvas apron over it, brown trousers and a grey knitted shawl round her shoulders, a dish rag in one hand. She climbs half out of the cabin hatch of a long bottle-green coal barge, one hand on the hatch rim, and shouts with her whole body toward the quay, mouth wide open, eyes fixed into the distance, joy breaking over her weathered face. Pots of red and pink geraniums line the cabin roof around her; coal heaps and moored barges blur behind. Bright early summer morning sun. Nothing lettered. Medium shot, 35mm lens, shallow depth of field.",
+  createdAt: "2026-10-04T14:20:47.000Z",
+  updatedAt: "2026-10-04T14:20:47.000Z",
 } as const satisfies Image

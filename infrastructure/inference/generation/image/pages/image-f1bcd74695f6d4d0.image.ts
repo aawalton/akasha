@@ -14,4 +14,6 @@ export const imageF1bcd74695f6d4d0 = {
   height: 1216,
   prompt:
     "real photograph, natural realistic skin texture, fantasy setting. A single gorgeous young Korean woman of twenty alone, framed from head to mid-thigh, with a K-pop idol's face: a small V-line face, big sparkling doe eyes with soft aegyo-sal, a small delicate nose, glossy pink lips, pale porcelain skin with a soft blush, a sweet innocent bright smile, adorable and a little alluring. Her eyes are soft rose pink, the same pink as her hair. A very slim, slender, petite build with narrow shoulders, a tiny waist, slim legs and a small flat A-cup chest with no cleavage. Rose-pink hair in a chin-length bob with two tiny buns on top and loose strands. A soft white puff-sleeved blouse tucked into a short high-waisted strawberry-red pinafore skirt with a little apron pocket, a flour smudge on her cheek. Laughing in a warm fantasy bakery kitchen holding a tray of buns, soft bokeh.",
+  createdAt: "2026-10-03T13:15:20.455Z",
+  updatedAt: "2026-10-03T13:15:21.000Z",
 } as const satisfies Image

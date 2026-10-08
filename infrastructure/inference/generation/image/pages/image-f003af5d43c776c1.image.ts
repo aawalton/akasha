@@ -22,4 +22,6 @@ export const imageF003af5d43c776c1 = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:12.750Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

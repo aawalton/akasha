@@ -10,4 +10,6 @@ export const imageE3fca913c7d1f9ba = {
   poseTags: ["pose-tag/standing", "pose-tag/back-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing", "fantasy-tag/gothic"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

@@ -17,4 +17,6 @@ export const imageE0b8df4086656531 = {
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:50.078Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

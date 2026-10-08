@@ -10,4 +10,6 @@ export const imageE8e90f12fac9bddc = {
   poseTags: ["pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/robe", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/dragon", "fantasy-tag/magic", "fantasy-tag/monster-girl"],
+  createdAt: "2026-09-21T21:51:38.405Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

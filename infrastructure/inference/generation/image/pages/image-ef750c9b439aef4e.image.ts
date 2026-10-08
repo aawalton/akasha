@@ -19,4 +19,6 @@ export const imageEf750c9b439aef4e = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add no horns or features she does not have. She sits on the grass beneath a climbing-rose arbor in a park garden, knees drawn up, writing in a leather-bound journal propped on her knees with a fountain pen, absorbed, looking down at the page with a small private smile. An ivory silk blouse hangs unbuttoned and open, slipping off one shoulder, her knees and the journal hiding her chest; a cream silk skirt pooled around her, pearl stud earrings. Camera from the side and slightly above, soft diffused afternoon light, rose petals scattered on the grass. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:50:54.323Z",
+  updatedAt: "2026-09-28T19:52:01.000Z",
 } as const satisfies Image
