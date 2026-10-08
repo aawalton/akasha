@@ -109,6 +109,22 @@ export interface PortTraceEntry {
   said: string[]
 }
 
+export interface AssistedReading {
+  readonly journalIndex?: number
+  readonly questName?: string
+  readonly headerText?: string
+  readonly headerHidden?: boolean
+  readonly panelHidden?: boolean
+}
+
+export interface AssistNextEntry {
+  at: number
+  character: string
+  before?: AssistedReading
+  after?: AssistedReading
+  later?: AssistedReading
+}
+
 export function keepLast<T>(this: void, list: readonly T[], item: T, cap: number): T[] {
   const next = [...list, item]
   if (next.length <= cap) return next

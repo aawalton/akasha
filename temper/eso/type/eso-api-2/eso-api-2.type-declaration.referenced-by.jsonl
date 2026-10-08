@@ -97,6 +97,7 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-profile-dialogs/markers-profile-dialogs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-mode/minimap-mode.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-ui-strings/minimap-ui-strings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-assist-trace/quest-port-assist-trace.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-library/lorebooks-library.module.code.ts","typed":false,"deferred":false}

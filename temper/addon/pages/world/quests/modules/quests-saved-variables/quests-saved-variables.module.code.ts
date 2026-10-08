@@ -1,5 +1,6 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import type {
+  AssistNextEntry,
   JournalCapture,
   PortTraceEntry,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
@@ -17,6 +18,7 @@ interface SavedVariablesData {
   migratedFromCharacters?: boolean
   questJournal?: Record<string, JournalCapture>
   questPortTrace?: PortTraceEntry[]
+  assistNextTrace?: AssistNextEntry[]
 }
 
 const CHARACTERS_SAVED_VARIABLES_NAME = "TemperCharacters_SavedVariables"

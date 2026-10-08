@@ -53,6 +53,7 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-state/minimap-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-toggles/minimap-toggles.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-update/minimap-update.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-assist-trace/quest-port-assist-trace.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-opened-map/lost-treasure-opened-map.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

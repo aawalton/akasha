@@ -114,6 +114,7 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-init/minimap-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-mode/minimap-mode.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-toggles/minimap-toggles.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-assist-trace/quest-port-assist-trace.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-journal/quest-port-journal.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port/quest-port.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/quests/modules/quests-saved-variables/quests-saved-variables.module.code.ts","typed":false,"deferred":false}
