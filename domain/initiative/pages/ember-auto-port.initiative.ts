@@ -9,9 +9,9 @@ export const emberAutoPort = {
   intentStack: [
     {
       statement:
-        "A keybind ports Alan to the wayshrine nearest the next objective of the quest he is on.",
+        "A keybind ports Alan to the wayshrine or owned house nearest his focused quest's next objective.",
       workingMemory:
-        "The game answers where a quest objective is through RequestJournalQuestConditionAssistance, whose answer comes back as EVENT_QUEST_POSITION_REQUEST_COMPLETE with map x and y. GetFastTravelNodeInfo gives each wayshrine's map x and y and whether it is known. FastTravelToNode ports, and Temper already calls it in craft-utilities, sets-core-api-nav and pithka-labels. Nothing is built yet.",
+        "RequestJournalQuestConditionAssistance answers through EVENT_QUEST_POSITION_REQUEST_COMPLETE with map x and y. GetFastTravelNodeInfo gives every node's x and y; a house is a node of POI_TYPE_HOUSE, and GetFastTravelNodeHouseId names it. FastTravelToNode ports to a known wayshrine. RequestJumpToHouse(houseId, true) ports outside a house. Alan approved the design; the build is under way.",
     },
   ],
 } as const satisfies Initiative
