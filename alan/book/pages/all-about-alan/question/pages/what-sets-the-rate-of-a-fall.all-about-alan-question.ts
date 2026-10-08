@@ -6,4 +6,6 @@ export const whatSetsTheRateOfAFall = {
   slug: "what-sets-the-rate-of-a-fall",
   topic: "all-about-alan-topic/what-a-level-of-recovery-costs",
   ask: "A fall is only described as a fraction of the climb. What sets the rate of a fall, and do particular outside factors carry particular sizes?",
+  createdAt: "2026-09-06T18:08:18.486Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatFillsTheChaptersThatAreTitlesOnly = {
   slug: "what-fills-the-chapters-that-are-titles-only",
   topic: "all-about-alan-topic/the-chapters-of-my-life",
   ask: "Middle school, high school, the mission, marriage and the four working years are titles only. What fills each, at an interview's worth apiece?",
+  createdAt: "2026-09-06T18:19:09.382Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

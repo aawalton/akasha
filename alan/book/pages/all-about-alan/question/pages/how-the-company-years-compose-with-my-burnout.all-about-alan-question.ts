@@ -6,4 +6,6 @@ export const howTheCompanyYearsComposeWithMyBurnout = {
   slug: "how-the-company-years-compose-with-my-burnout",
   topic: "all-about-alan-topic/the-company-years",
   ask: "How do the company years compose with the burnout decline and with my leaving employment?",
+  createdAt: "2026-09-06T18:02:52.538Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

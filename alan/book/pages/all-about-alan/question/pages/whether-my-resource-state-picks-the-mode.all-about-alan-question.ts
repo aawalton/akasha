@@ -6,4 +6,6 @@ export const whetherMyResourceStatePicksTheMode = {
   slug: "whether-my-resource-state-picks-the-mode",
   topic: "all-about-alan-topic/how-a-skill-gets-into-me",
   ask: "Does my resource state decide which mode of learning is even available to me?",
+  createdAt: "2026-09-06T18:05:49.054Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

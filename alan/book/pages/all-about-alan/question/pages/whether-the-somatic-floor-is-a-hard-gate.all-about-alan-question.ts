@@ -6,4 +6,6 @@ export const whetherTheSomaticFloorIsAHardGate = {
   slug: "whether-the-somatic-floor-is-a-hard-gate",
   topic: "all-about-alan-topic/the-three-parts-of-me",
   ask: "Is the somatic floor a hard gate on my conceptual work, or only an expensive one?",
+  createdAt: "2026-09-06T18:08:41.428Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

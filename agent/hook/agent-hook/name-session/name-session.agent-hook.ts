@@ -34,4 +34,6 @@ export const nameSession = {
       statement: "This hook refuses nothing.",
     },
   ],
+  createdAt: "2026-09-12T05:35:33.876Z",
+  updatedAt: "2026-09-25T18:00:50.000Z",
 } as const satisfies AgentHook

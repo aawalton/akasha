@@ -6,4 +6,6 @@ export const whetherWritingARehearsalOutTrainsBetterThanThinkingIt = {
   slug: "whether-writing-a-rehearsal-out-trains-better-than-thinking-it",
   topic: "all-about-alan-topic/how-a-skill-gets-into-me",
   ask: "Does rehearsing a response in writing, offline, train the weight more reliably than rehearsing it in thought? I have not tried it.",
+  createdAt: "2026-09-21T21:42:09.572Z",
+  updatedAt: "2026-09-21T21:42:13.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const howManyChildrenWereAtThatBirthdayParty = {
   slug: "how-many-children-were-at-that-birthday-party",
   topic: "all-about-alan-topic/the-friends-i-lost-track-of",
   ask: "I have told it both ways: thirty children invited to a birthday party, and twenty friends wanted at my tenth birthday. Which is the number, and is it one party or two?",
+  createdAt: "2026-09-21T23:14:52.028Z",
+  updatedAt: "2026-09-21T23:14:57.000Z",
 } as const satisfies AllAboutAlanQuestion

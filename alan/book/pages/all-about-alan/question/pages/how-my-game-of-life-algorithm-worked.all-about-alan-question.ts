@@ -6,4 +6,6 @@ export const howMyGameOfLifeAlgorithmWorked = {
   slug: "how-my-game-of-life-algorithm-worked",
   topic: "all-about-alan-topic/being-an-inventor-not-a-coder",
   ask: "How did my novel algorithm for optimising The Game of Life work?",
+  createdAt: "2026-09-06T18:02:39.490Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

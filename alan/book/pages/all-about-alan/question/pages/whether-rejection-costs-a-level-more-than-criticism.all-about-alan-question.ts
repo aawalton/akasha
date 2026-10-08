@@ -6,4 +6,6 @@ export const whetherRejectionCostsALevelMoreThanCriticism = {
   slug: "whether-rejection-costs-a-level-more-than-criticism",
   topic: "all-about-alan-topic/why-i-have-to-be-perfect",
   ask: "Does rejection cost me one level more than criticism, affordable at six and free at seven, a calibration I owe once I am consistently at those levels?",
+  createdAt: "2026-09-06T18:07:24.386Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

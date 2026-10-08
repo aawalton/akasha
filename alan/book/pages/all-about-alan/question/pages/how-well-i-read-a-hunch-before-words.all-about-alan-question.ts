@@ -6,4 +6,6 @@ export const howWellIReadAHunchBeforeWords = {
   slug: "how-well-i-read-a-hunch-before-words",
   topic: "all-about-alan-topic/reading-myself-before-the-words",
   ask: "How reliably can I read a hunch or a dissatisfaction before either one resolves into words, given how little of my feeling reaches me?",
+  createdAt: "2026-09-06T18:02:54.401Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

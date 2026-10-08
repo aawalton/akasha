@@ -58,4 +58,6 @@ export const stateCompacting = {
       statement: "No turn ends and no prompt arrives between the first event and the second.",
     },
   ],
+  createdAt: "2026-09-04T14:11:28.387Z",
+  updatedAt: "2026-09-25T18:04:33.000Z",
 } as const satisfies AgentHook

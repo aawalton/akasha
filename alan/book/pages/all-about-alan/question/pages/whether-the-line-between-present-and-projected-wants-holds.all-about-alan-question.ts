@@ -6,4 +6,6 @@ export const whetherTheLineBetweenPresentAndProjectedWantsHolds = {
   slug: "whether-the-line-between-present-and-projected-wants-holds",
   topic: "all-about-alan-topic/how-a-want-fires",
   ask: "I use the line between a want anchored in the present and a want projected forward to say which want can be installed, but does that line hold against cases?",
+  createdAt: "2026-09-06T18:07:07.647Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

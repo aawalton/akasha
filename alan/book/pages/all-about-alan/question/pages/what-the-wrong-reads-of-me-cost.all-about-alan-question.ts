@@ -6,4 +6,6 @@ export const whatTheWrongReadsOfMeCost = {
   slug: "what-the-wrong-reads-of-me-cost",
   topic: "all-about-alan-topic/when-someone-gets-me-wrong",
   ask: "Cataloguing the episodes would anchor the whole claim, so what did each person predict about me, what was actually there, and what did the wrong read cost?",
+  createdAt: "2026-09-06T18:19:22.115Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

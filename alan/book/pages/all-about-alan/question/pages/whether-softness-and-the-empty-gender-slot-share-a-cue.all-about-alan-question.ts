@@ -6,4 +6,6 @@ export const whetherSoftnessAndTheEmptyGenderSlotShareACue = {
   slug: "whether-softness-and-the-empty-gender-slot-share-a-cue",
   topic: "all-about-alan-topic/what-draws-me-to-someone",
   ask: "Softness reads as safe, and the empty slot where a felt gender would be reads as a safety signal too. Are both running off one cue for two ends?",
+  createdAt: "2026-09-06T18:13:15.996Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

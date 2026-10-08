@@ -6,4 +6,6 @@ export const whatBeingCorrectedOnCoveredGroundCostsMe = {
   slug: "what-being-corrected-on-covered-ground-costs-me",
   topic: "all-about-alan-topic/arriving-ahead-of-whoever-teaches-me",
   ask: "What does it cost me to be corrected on ground I have already covered?",
+  createdAt: "2026-09-06T18:00:59.531Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

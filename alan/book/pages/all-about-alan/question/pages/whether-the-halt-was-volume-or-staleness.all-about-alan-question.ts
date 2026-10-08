@@ -6,4 +6,6 @@ export const whetherTheHaltWasVolumeOrStaleness = {
   slug: "whether-the-halt-was-volume-or-staleness",
   topic: "all-about-alan-topic/why-i-rebuilt-everything",
   ask: "Did the halt come from the sheer volume, or from how much of the three million lines had gone stale?",
+  createdAt: "2026-09-06T18:10:11.356Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

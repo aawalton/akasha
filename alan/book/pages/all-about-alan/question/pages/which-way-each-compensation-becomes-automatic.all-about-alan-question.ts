@@ -6,4 +6,6 @@ export const whichWayEachCompensationBecomesAutomatic = {
   slug: "which-way-each-compensation-becomes-automatic",
   topic: "all-about-alan-topic/the-five-ways-something-becomes-automatic",
   ask: "My compensations are still described on an older two-way split. Which of the five ways does each compensation actually use?",
+  createdAt: "2026-09-06T18:07:29.487Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

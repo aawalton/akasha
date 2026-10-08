@@ -6,4 +6,6 @@ export const whichFrameworksITookUpAndDropped = {
   slug: "which-frameworks-i-took-up-and-dropped",
   topic: "all-about-alan-topic/which-frameworks-take-in-me",
   ask: "What is the full list of the frameworks I took up, and above all the frameworks I took up and later dropped, where the fit fails?",
+  createdAt: "2026-09-06T18:14:58.260Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

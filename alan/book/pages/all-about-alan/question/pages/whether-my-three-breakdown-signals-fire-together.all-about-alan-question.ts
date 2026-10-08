@@ -6,4 +6,6 @@ export const whetherMyThreeBreakdownSignalsFireTogether = {
   slug: "whether-my-three-breakdown-signals-fire-together",
   topic: "all-about-alan-topic/how-i-fall-asleep",
   ask: "Losing the count, losing the words and the pictures moving on their own are three breakdown signals. Do those three fire at the same depth?",
+  createdAt: "2026-09-06T18:14:15.800Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

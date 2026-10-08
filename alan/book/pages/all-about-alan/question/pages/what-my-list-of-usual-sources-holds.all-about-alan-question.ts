@@ -6,4 +6,6 @@ export const whatMyListOfUsualSourcesHolds = {
   slug: "what-my-list-of-usual-sources-holds",
   topic: "all-about-alan-topic/what-wears-my-body-down",
   ask: "Until the list is written out, what is left is asserted rather than auditable. What is on my list of usual sources, with each marked covered, partial or open?",
+  createdAt: "2026-09-06T18:14:49.919Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

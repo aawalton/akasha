@@ -6,4 +6,6 @@ export const whereAConcentrationFitsInMyRanking = {
   slug: "where-a-concentration-fits-in-my-ranking",
   topic: "all-about-alan-topic/getting-out-from-under-a-dependency",
   ask: "Where do a critical thing with no spare and a supplier holding more than one role fit in my ranking of the ways out?",
+  createdAt: "2026-09-06T18:01:34.864Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatChangedAfterMyLastBeliefReplacement = {
   slug: "what-changed-after-my-last-belief-replacement",
   topic: "all-about-alan-topic/digging-up-an-old-belief",
   ask: "What actually changed after my last belief replacement, and over what span?",
+  createdAt: "2026-09-06T18:12:30.299Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

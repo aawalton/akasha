@@ -6,4 +6,6 @@ export const whenARubricIsFinished = {
   slug: "when-a-rubric-is-finished",
   topic: "all-about-alan-topic/how-i-make-a-decision-i-cannot-undo",
   ask: "How do I know the iteration on a rubric is finished, and is there a test for it, or does the iteration simply stop when no pair flips?",
+  createdAt: "2026-09-06T18:05:47.243Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

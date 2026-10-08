@@ -6,4 +6,6 @@ export const whetherJenKeepsLooking = {
   slug: "whether-jen-keeps-looking",
   topic: "all-about-alan-topic/showing-jen-where-i-am",
   ask: "The widget is not built, so nothing has been observed yet. Does Jen keep looking at the widget?",
+  createdAt: "2026-09-06T18:11:05.617Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

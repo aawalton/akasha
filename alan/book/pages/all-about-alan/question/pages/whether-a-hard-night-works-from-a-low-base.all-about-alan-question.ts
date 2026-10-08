@@ -6,4 +6,6 @@ export const whetherAHardNightWorksFromALowBase = {
   slug: "whether-a-hard-night-works-from-a-low-base",
   topic: "all-about-alan-topic/the-two-nights-we-keep",
   ask: "Both nights ran from near the top of my normal range, and the calendar schedules them rather than my level. Does the same night from a low base produce the same change?",
+  createdAt: "2026-09-06T18:12:10.926Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

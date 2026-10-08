@@ -6,4 +6,6 @@ export const whetherAProbabilityIStateIsGraded = {
   slug: "whether-a-probability-i-state-is-graded",
   topic: "all-about-alan-topic/how-i-know-things",
   ask: "Does a probability I state carry graded weight, or does the probability collapse to a binary?",
+  createdAt: "2026-09-06T18:04:37.021Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

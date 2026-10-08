@@ -6,4 +6,6 @@ export const whatGivesMyInstinctiveChannelAwayEarlier = {
   slug: "what-gives-my-instinctive-channel-away-earlier",
   topic: "all-about-alan-topic/what-pulls-me-into-doing-something",
   ask: "My instinctive channel is visible only afterwards. Does a body cue or a time of day give that channel away earlier?",
+  createdAt: "2026-09-06T18:06:52.733Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

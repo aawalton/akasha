@@ -6,4 +6,6 @@ export const whetherTheWindowOfRoomCanBeWidened = {
   slug: "whether-the-window-of-room-can-be-widened",
   topic: "all-about-alan-topic/what-it-costs-someone-to-know-me",
   ask: "Can the window where Jen and I both have room be widened, or spent on being known rather than on unblocking me?",
+  createdAt: "2026-09-06T18:09:13.996Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

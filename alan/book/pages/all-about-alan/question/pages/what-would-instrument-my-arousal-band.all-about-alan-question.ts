@@ -6,4 +6,6 @@ export const whatWouldInstrumentMyArousalBand = {
   slug: "what-would-instrument-my-arousal-band",
   topic: "all-about-alan-topic/how-stimulated-i-am",
   ask: "What measured proxy for arousal could I read against being in my band or out of it, since nothing instruments the band today?",
+  createdAt: "2026-09-06T18:02:51.995Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

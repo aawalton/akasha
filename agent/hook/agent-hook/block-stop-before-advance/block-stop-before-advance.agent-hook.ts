@@ -53,4 +53,6 @@ export const blockStopBeforeAdvance = {
       statement: "A stop nothing could judge is let through.",
     },
   ],
+  createdAt: "2026-09-29T03:37:35.884Z",
+  updatedAt: "2026-10-03T15:30:33.000Z",
 } as const satisfies AgentHook

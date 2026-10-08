@@ -6,4 +6,6 @@ export const whatRecognisingTheAbuseFeltLike = {
   slug: "what-recognising-the-abuse-felt-like",
   topic: "all-about-alan-topic/calling-it-what-it-was",
   ask: "What did recognising the arc from cared for to neglected to abused feel like, in my own words?",
+  createdAt: "2026-09-06T18:09:53.327Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

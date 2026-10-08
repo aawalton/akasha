@@ -6,4 +6,6 @@ export const whetherAFaceMakesOneOfMyOwnFeelingsReadable = {
   slug: "whether-a-face-makes-one-of-my-own-feelings-readable",
   topic: "all-about-alan-topic/how-one-of-them-reaches-me",
   ask: "Does giving a feeling a face and setting it across the table from me let me read a feeling of my own that is too close and too quiet to read from inside?",
+  createdAt: "2026-09-21T20:11:13.536Z",
+  updatedAt: "2026-09-21T20:11:18.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whoStandsBehindMyPractitioners = {
   slug: "who-stands-behind-my-practitioners",
   topic: "all-about-alan-topic/trusting-a-person-not-an-institution",
   ask: "No second provider stands behind my doctor, the children's dentist or the garage. Who would stand behind each of the three?",
+  createdAt: "2026-09-06T18:04:16.465Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

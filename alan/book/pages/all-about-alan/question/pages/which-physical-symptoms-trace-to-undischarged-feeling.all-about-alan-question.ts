@@ -6,4 +6,6 @@ export const whichPhysicalSymptomsTraceToUndischargedFeeling = {
   slug: "which-physical-symptoms-trace-to-undischarged-feeling",
   topic: "all-about-alan-topic/health-bar",
   ask: "What are the serious physical symptoms of the load I carry, and which symptom traces to undischarged feeling rather than elsewhere?",
+  createdAt: "2026-09-06T18:03:02.556Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

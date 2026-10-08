@@ -6,4 +6,6 @@ export const whatPicksMyNextMoveAmongFairOptions = {
   slug: "what-picks-my-next-move-among-fair-options",
   topic: "all-about-alan-topic/how-a-want-fires",
   ask: "When fair options sit there and nothing forces my hand, what picks my next move: interest, the reversibility rubric, or the raw pull of a gap?",
+  createdAt: "2026-09-06T18:07:07.646Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

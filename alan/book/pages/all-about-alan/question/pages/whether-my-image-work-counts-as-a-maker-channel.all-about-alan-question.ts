@@ -6,4 +6,6 @@ export const whetherMyImageWorkCountsAsAMakerChannel = {
   slug: "whether-my-image-work-counts-as-a-maker-channel",
   topic: "all-about-alan-topic/getting-back-to-making-with-my-hands",
   ask: "The maker in me is less buried than before and edges are surfacing. Do the image work, the storytelling and the souls count as maker channels?",
+  createdAt: "2026-09-06T18:15:02.154Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

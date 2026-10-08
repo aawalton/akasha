@@ -6,4 +6,6 @@ export const whetherAFastLeverShortensTheTail = {
   slug: "whether-a-fast-lever-shortens-the-tail",
   topic: "all-about-alan-topic/after-something-alarms-me",
   ask: "An exposure drops me in minutes and the integral takes days to weeks. Would a fast vagal lever applied during it shorten the tail?",
+  createdAt: "2026-09-21T20:17:25.015Z",
+  updatedAt: "2026-09-21T20:17:28.000Z",
 } as const satisfies AllAboutAlanQuestion

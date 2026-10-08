@@ -6,4 +6,6 @@ export const whatPromptsMeToLookAtTheCircles = {
   slug: "what-prompts-me-to-look-at-the-circles",
   topic: "all-about-alan-topic/the-coloured-circles-i-run-on",
   ask: "What prompts me to look at the circles at all, given that noticing I should check is itself a signal I do not have?",
+  createdAt: "2026-09-06T18:20:13.317Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

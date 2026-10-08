@@ -6,4 +6,6 @@ export const howNotHabituatingSquaresWithThingsGettingAutomatic = {
   slug: "how-not-habituating-squares-with-things-getting-automatic",
   topic: "all-about-alan-topic/what-my-two-roots-do-together",
   ask: "Not habituating is a root of mine, yet sensory habituation is one of the five ways a thing becomes automatic in me. Where does each hold?",
+  createdAt: "2026-09-21T20:01:05.403Z",
+  updatedAt: "2026-09-21T20:01:09.000Z",
 } as const satisfies AllAboutAlanQuestion

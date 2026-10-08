@@ -6,4 +6,6 @@ export const whatTheHardCoursesCostAndTaught = {
   slug: "what-the-hard-courses-cost-and-taught",
   topic: "all-about-alan-topic/the-best-three-years",
   ask: "What did taking all the hard courses cost me and teach me, apart from the grades?",
+  createdAt: "2026-09-06T18:17:32.092Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

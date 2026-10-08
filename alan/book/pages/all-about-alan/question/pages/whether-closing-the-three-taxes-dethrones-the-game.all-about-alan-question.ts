@@ -6,4 +6,6 @@ export const whetherClosingTheThreeTaxesDethronesTheGame = {
   slug: "whether-closing-the-three-taxes-dethrones-the-game",
   topic: "all-about-alan-topic/the-version-of-me-i-have-never-met",
   ask: "Real life pays three taxes the game does not: the numbers' meaning drifts, I build every piece myself, and part needs technology that does not exist. Would closing the taxes dethrone the game?",
+  createdAt: "2026-09-06T18:13:37.980Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

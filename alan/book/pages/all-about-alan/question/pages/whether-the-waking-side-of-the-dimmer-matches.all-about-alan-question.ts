@@ -6,4 +6,6 @@ export const whetherTheWakingSideOfTheDimmerMatches = {
   slug: "whether-the-waking-side-of-the-dimmer-matches",
   topic: "all-about-alan-topic/the-pictures-at-the-edge-of-sleep",
   ask: "Does the waking side of the dimmer match the falling-asleep side, and does the steering behave the same coming up?",
+  createdAt: "2026-09-06T18:15:07.556Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

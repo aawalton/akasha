@@ -6,4 +6,6 @@ export const whetherTheBorrowedReturnFades = {
   slug: "whether-the-borrowed-return-fades",
   topic: "all-about-alan-topic/why-a-holiday-costs-me",
   ask: "Does the borrowed return fade when the enjoyment I read is faint, mixed or dutiful, and is there a level below which the borrowed return stops paying at all?",
+  createdAt: "2026-09-06T18:18:24.573Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

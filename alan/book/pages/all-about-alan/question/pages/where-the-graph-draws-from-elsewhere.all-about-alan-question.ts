@@ -6,4 +6,6 @@ export const whereTheGraphDrawsFromElsewhere = {
   slug: "where-the-graph-draws-from-elsewhere",
   topic: "all-about-alan-topic/what-the-graph-is-made-of",
   ask: "Where does the graph draw from something other than pages, the filesystem or code?",
+  createdAt: "2026-09-06T18:12:40.274Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

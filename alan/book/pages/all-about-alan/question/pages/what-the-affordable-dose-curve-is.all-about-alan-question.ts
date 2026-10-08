@@ -6,4 +6,6 @@ export const whatTheAffordableDoseCurveIs = {
   slug: "what-the-affordable-dose-curve-is",
   topic: "all-about-alan-topic/how-much-company-i-can-take",
   ask: "What is the curve of the affordable dose of company against my capacity, which is qualitative today and has never been drawn?",
+  createdAt: "2026-09-06T18:13:48.544Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

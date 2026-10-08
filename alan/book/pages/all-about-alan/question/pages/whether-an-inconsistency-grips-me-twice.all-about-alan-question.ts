@@ -6,4 +6,6 @@ export const whetherAnInconsistencyGripsMeTwice = {
   slug: "whether-an-inconsistency-grips-me-twice",
   topic: "all-about-alan-topic/how-i-know-things",
   ask: "When I meet the same inconsistency later, does the grip re-form, or does something in me remember the inconsistency was already flagged?",
+  createdAt: "2026-09-06T18:04:37.021Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

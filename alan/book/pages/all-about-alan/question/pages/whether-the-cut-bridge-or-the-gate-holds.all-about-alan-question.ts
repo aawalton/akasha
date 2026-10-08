@@ -6,4 +6,6 @@ export const whetherTheCutBridgeOrTheGateHolds = {
   slug: "whether-the-cut-bridge-or-the-gate-holds",
   topic: "all-about-alan-topic/when-someone-says-something-good",
   ask: "Is the cut bridge the load-bearing account of praise never landing, or is the gate at delivery, or do the cut bridge and the gate compose?",
+  createdAt: "2026-09-06T18:04:19.734Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

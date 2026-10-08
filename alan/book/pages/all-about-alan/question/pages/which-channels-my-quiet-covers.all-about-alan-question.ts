@@ -6,4 +6,6 @@ export const whichChannelsMyQuietCovers = {
   slug: "which-channels-my-quiet-covers",
   topic: "all-about-alan-topic/keeping-my-own-volume-down",
   ask: "Which channels does keeping my volume down cover, out of volume, face, gesture, pace and wording, and which channels run untouched?",
+  createdAt: "2026-09-06T18:07:46.404Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

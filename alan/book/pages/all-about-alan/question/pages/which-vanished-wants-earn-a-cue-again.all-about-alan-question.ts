@@ -6,4 +6,6 @@ export const whichVanishedWantsEarnACueAgain = {
   slug: "which-vanished-wants-earn-a-cue-again",
   topic: "all-about-alan-topic/building-my-wants-into-the-room",
   ask: "Not everything that fell out should come back. What is my rule for which vanished wants earn a cue again?",
+  createdAt: "2026-09-06T18:09:23.281Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

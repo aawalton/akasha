@@ -6,4 +6,6 @@ export const whetherJenFitsAsMyIntellectualPartner = {
   slug: "whether-jen-fits-as-my-intellectual-partner",
   topic: "all-about-alan-topic/where-connection-could-come-from",
   ask: "Permission is not what is in doubt, so does Jen have the capacity and the fit to be my main intellectual partner?",
+  createdAt: "2026-09-06T18:06:51.960Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

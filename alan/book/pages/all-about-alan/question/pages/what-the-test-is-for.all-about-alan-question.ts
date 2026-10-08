@@ -6,4 +6,6 @@ export const whatTheTestIsFor = {
   slug: "what-the-test-is-for",
   topic: "all-about-alan-topic/what-this-life-is-for",
   ask: "What the test is for is a placeholder I put there, a researcher gathering intelligences unlike each other for endless work. What would firm that placeholder up or replace it?",
+  createdAt: "2026-09-06T18:13:44.963Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

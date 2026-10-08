@@ -6,4 +6,6 @@ export const whetherTheDayLongFadeIsReal = {
   slug: "whether-the-day-long-fade-is-real",
   topic: "all-about-alan-topic/warming-up-what-i-will-need",
   ask: "The day-long fade of what I warmed is modelled rather than confirmed. Does a persona's name fade the same way a book does?",
+  createdAt: "2026-09-06T18:07:47.030Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

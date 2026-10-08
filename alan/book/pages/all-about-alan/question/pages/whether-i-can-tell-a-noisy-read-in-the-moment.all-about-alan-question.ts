@@ -6,4 +6,6 @@ export const whetherICanTellANoisyReadInTheMoment = {
   slug: "whether-i-can-tell-a-noisy-read-in-the-moment",
   topic: "all-about-alan-topic/how-i-make-a-decision-i-cannot-undo",
   ask: "Does anything tell a signal-bearing read from a noisy one in the moment, before the consistency check catches the noisy read?",
+  createdAt: "2026-09-06T18:05:47.244Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

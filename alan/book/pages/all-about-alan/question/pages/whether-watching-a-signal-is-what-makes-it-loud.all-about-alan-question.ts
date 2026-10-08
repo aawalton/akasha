@@ -6,4 +6,6 @@ export const whetherWatchingASignalIsWhatMakesItLoud = {
   slug: "whether-watching-a-signal-is-what-makes-it-loud",
   topic: "all-about-alan-topic/being-alone-on-purpose",
   ask: "Are my other signals loud mostly because I am watching them, so that looking away beats meeting the need?",
+  createdAt: "2026-09-06T18:02:08.593Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatEachJobCostMeYearByYear = {
   slug: "what-each-job-cost-me-year-by-year",
   topic: "all-about-alan-topic/why-i-stopped-working",
   ask: "Only the last role is anchored, and the rest would make the ratchet something that could be shown wrong. What did each role actually cost me, year by year?",
+  createdAt: "2026-09-06T18:10:46.407Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatPauseJenAndICanBothHold = {
   slug: "what-pause-jen-and-i-can-both-hold",
   topic: "all-about-alan-topic/how-a-hard-talk-with-jen-gets-safer",
   ask: "What pause could Jen and I both hold under stress, and what brings the stress down before we try again rather than carrying on already stressed?",
+  createdAt: "2026-09-06T18:05:12.224Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

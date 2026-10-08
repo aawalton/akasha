@@ -6,4 +6,6 @@ export const howTheThreeSafetySignalsCombine = {
   slug: "how-the-three-safety-signals-combine",
   topic: "all-about-alan-topic/how-i-read-whether-someone-is-safe",
   ask: "How do physiology, behaviour and my uncertainty combine into one read: does the lowest win, do the three add up, or is each weighted by how reliable it is?",
+  createdAt: "2026-09-06T18:09:45.843Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

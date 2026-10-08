@@ -6,4 +6,6 @@ export const whetherAHeldValueAddsToTheResponse = {
   slug: "whether-a-held-value-adds-to-the-response",
   topic: "all-about-alan-topic/what-draws-me-to-someone",
   ask: "One image embodying freedom lifted past its ceiling with no visual change. Does a held value generally add to the involuntary response, or is freedom special?",
+  createdAt: "2026-09-06T18:13:15.989Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

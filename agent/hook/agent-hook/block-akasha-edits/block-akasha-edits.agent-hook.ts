@@ -77,4 +77,6 @@ export const blockAkashaEdits = {
       ],
     },
   ],
+  createdAt: "2026-08-29T15:15:27.704Z",
+  updatedAt: "2026-09-25T17:59:58.000Z",
 } as const satisfies AgentHook

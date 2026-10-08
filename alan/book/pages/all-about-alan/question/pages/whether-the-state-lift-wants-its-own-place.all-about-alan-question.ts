@@ -6,4 +6,6 @@ export const whetherTheStateLiftWantsItsOwnPlace = {
   slug: "whether-the-state-lift-wants-its-own-place",
   topic: "all-about-alan-topic/when-it-actually-lands",
   ask: "Does the state lift want its own place under safety, as an outside route back up?",
+  createdAt: "2026-09-06T18:17:51.806Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const howMyHarnessHoldsEachKindOfThing = {
   slug: "how-my-harness-holds-each-kind-of-thing",
   topic: "all-about-alan-topic/small-bites-of-many-things",
   ask: "No worked shape has been written for any of the five. How does my harness hold a book, a show, a course, a project or a game?",
+  createdAt: "2026-09-06T18:14:40.842Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

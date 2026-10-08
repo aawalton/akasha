@@ -6,4 +6,6 @@ export const whereMyCoverageRunsOutAtFiveAndSix = {
   slug: "where-my-coverage-runs-out-at-five-and-six",
   topic: "all-about-alan-topic/why-climbing-sets-off-the-fall",
   ask: "Where does my coverage run out at five and six, when the only two sixes I have are singing in front of people?",
+  createdAt: "2026-09-06T18:04:36.944Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -7,4 +7,6 @@ export const waitResumeNudge = {
   text: "md",
   warrant:
     "Goes to a seat that is alive and idle whose previous turn was ended by a failure between it and the model service, the service overloaded or the connection to it lost, rather than by the seat itself. These words are the anti-hammer key in the same way, and the window they are asked against grows with each such failure in a row, so editing them retires a key a growing window was measured against.",
+  createdAt: "2026-09-03T17:50:10.595Z",
+  updatedAt: "2026-09-22T17:37:14.000Z",
 } as const satisfies AgentMessageNotice

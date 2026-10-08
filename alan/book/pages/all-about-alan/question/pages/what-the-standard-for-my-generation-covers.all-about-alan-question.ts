@@ -6,4 +6,6 @@ export const whatTheStandardForMyGenerationCovers = {
   slug: "what-the-standard-for-my-generation-covers",
   topic: "all-about-alan-topic/calling-it-what-it-was",
   ask: "What does the standard extent for my generation include and exclude, normal for the era against abuse by today's naming, without collapsing either into the other?",
+  createdAt: "2026-09-06T18:09:53.329Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

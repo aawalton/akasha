@@ -6,4 +6,6 @@ export const whatMonitorsIntellectualCloseness = {
   slug: "what-monitors-intellectual-closeness",
   topic: "all-about-alan-topic/my-rules-about-other-women",
   ask: "My lines are physical and catch physical risk, missing unguarded intellectual closeness, which I cannot feel myself entering. What monitor would catch that channel?",
+  createdAt: "2026-09-06T18:11:45.093Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

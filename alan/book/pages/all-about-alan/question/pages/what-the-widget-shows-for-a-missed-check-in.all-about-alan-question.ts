@@ -6,4 +6,6 @@ export const whatTheWidgetShowsForAMissedCheckIn = {
   slug: "what-the-widget-shows-for-a-missed-check-in",
   topic: "all-about-alan-topic/showing-jen-where-i-am",
   ask: "What does the display show for a check-in I missed, rather than for one I answered low?",
+  createdAt: "2026-09-06T18:11:05.616Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

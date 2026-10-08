@@ -6,4 +6,6 @@ export const whatCountsAsTheComputeHorizonPassing = {
   slug: "what-counts-as-the-compute-horizon-passing",
   topic: "all-about-alan-topic/the-money-we-are-living-on",
   ask: "A few months to a year is the horizon on the compute earning. What would count as that horizon having passed?",
+  createdAt: "2026-09-06T18:10:59.811Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

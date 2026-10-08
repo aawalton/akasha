@@ -6,4 +6,6 @@ export const whatPartialWorkCouldLookLike = {
   slug: "what-partial-work-could-look-like",
   topic: "all-about-alan-topic/why-i-stopped-working",
   ask: "What could partial or different work look like if I keep recovering, given what a higher state permits?",
+  createdAt: "2026-09-06T18:10:46.408Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

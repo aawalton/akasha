@@ -6,4 +6,6 @@ export const whetherTheNeedsVerdictUnderliesTheUnsafeOne = {
   slug: "whether-the-needs-verdict-underlies-the-unsafe-one",
   topic: "all-about-alan-topic/why-people-read-as-unsafe",
   ask: "Does the verdict that my needs are not important actually underlie people-are-not-safe, or did that verdict only come first by a different route?",
+  createdAt: "2026-09-06T18:12:54.084Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

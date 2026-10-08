@@ -6,4 +6,6 @@ export const whatMyMustsInventoryHolds = {
   slug: "what-my-musts-inventory-holds",
   topic: "all-about-alan-topic/the-things-i-never-weigh",
   ask: "What have I already refiled, what is still filed as a must and could move, and what is correctly a must?",
+  createdAt: "2026-09-06T18:07:45.566Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

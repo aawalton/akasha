@@ -6,4 +6,6 @@ export const whatReplacingClockTimeCosts = {
   slug: "what-replacing-clock-time-costs",
   topic: "all-about-alan-topic/how-i-keep-urgency-out",
   ask: "What does my replacement for clock time cost, in load on Jen's schedule and in the times my state and her schedule diverge?",
+  createdAt: "2026-09-06T18:03:55.740Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

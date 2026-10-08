@@ -6,4 +6,6 @@ export const remoteControl = {
   slug: "remote-control",
   definition: "remote control's fallback scopes",
   harnessSettings: "json",
+  createdAt: "2026-09-03T04:16:39.232Z",
+  updatedAt: "2026-09-22T13:54:40.000Z",
 } as const satisfies AgentSettings

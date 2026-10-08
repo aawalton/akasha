@@ -6,4 +6,6 @@ export const whereTheWeightOfTheFindingLands = {
   slug: "where-the-weight-of-the-finding-lands",
   topic: "all-about-alan-topic/testing-the-thing-at-my-centre",
   ask: "Reaching the finding is calm and holding the finding is the whole weight. Where does that weight land, and what does either answer put in play?",
+  createdAt: "2026-09-06T18:16:57.620Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

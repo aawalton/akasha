@@ -6,4 +6,6 @@ export const whetherMyFloorIsAKnotOrACentre = {
   slug: "whether-my-floor-is-a-knot-or-a-centre",
   topic: "all-about-alan-topic/what-is-at-my-floor",
   ask: "Truth is welded to my root and now freedom is too. Is my floor one three-way knot, or self-improvement at the centre with truth and freedom as what it cannot do without?",
+  createdAt: "2026-09-06T18:08:09.167Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

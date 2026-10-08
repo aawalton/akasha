@@ -6,4 +6,6 @@ export const whetherTheSensoryProcessingLabelAddsAnything = {
   slug: "whether-the-sensory-processing-label-adds-anything",
   topic: "all-about-alan-topic/what-my-senses-cost-me",
   ask: "Does the sensory-processing label name anything my own account of what sound, light and touch cost me does not already cover?",
+  createdAt: "2026-09-06T18:05:15.255Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

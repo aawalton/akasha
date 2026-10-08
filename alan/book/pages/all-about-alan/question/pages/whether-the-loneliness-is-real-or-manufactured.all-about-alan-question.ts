@@ -6,4 +6,6 @@ export const whetherTheLonelinessIsRealOrManufactured = {
   slug: "whether-the-loneliness-is-real-or-manufactured",
   topic: "all-about-alan-topic/being-alone-on-purpose",
   ask: "Does the loneliness keep rising as I recover even with my attention off it, which makes the loneliness real and growing, or does it go quiet, which means I made it?",
+  createdAt: "2026-09-06T18:02:08.592Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

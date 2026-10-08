@@ -6,4 +6,6 @@ export const whichRitchieMyGrandfatherIntroduced = {
   slug: "which-ritchie-my-grandfather-introduced",
   topic: "all-about-alan-topic/the-code-in-my-family",
   ask: "I said Daniel Ritchie for the person my grandfather introduced to the B team. Abby's reading is that the public record for B and C carries Dennis Ritchie. Which name did I mean?",
+  createdAt: "2026-09-06T18:19:43.106Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

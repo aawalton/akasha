@@ -6,4 +6,6 @@ export const howFastMyConnectionDebtClears = {
   slug: "how-fast-my-connection-debt-clears",
   topic: "all-about-alan-topic/how-far-behind-i-am-on-people",
   ask: "How fast does my connection debt actually clear at a given quality of access, measured against the ten thousand hours?",
+  createdAt: "2026-09-06T18:09:20.160Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

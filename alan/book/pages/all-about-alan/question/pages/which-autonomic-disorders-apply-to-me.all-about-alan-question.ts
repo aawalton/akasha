@@ -6,4 +6,6 @@ export const whichAutonomicDisordersApplyToMe = {
   slug: "which-autonomic-disorders-apply-to-me",
   topic: "all-about-alan-topic/what-comes-with-it",
   ask: "Which autonomic disorders apply to me beyond my knowing that POTS does not?",
+  createdAt: "2026-09-06T18:12:14.792Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

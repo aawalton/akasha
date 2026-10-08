@@ -6,4 +6,6 @@ export const whatActivitySitsAtTheLowestRung = {
   slug: "what-activity-sits-at-the-lowest-rung",
   topic: "all-about-alan-topic/what-comes-back-into-reach-as-i-climb",
   ask: "The lowest rung is whether I still want anything at all. What activity attaches to that rung?",
+  createdAt: "2026-09-06T18:11:39.554Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

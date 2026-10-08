@@ -6,4 +6,6 @@ export const whatAnEndlessHorizonDoesToPlanning = {
   slug: "what-an-endless-horizon-does-to-planning",
   topic: "all-about-alan-topic/how-time-passes-for-me",
   ask: "What does an effectively endless horizon do to how I plan a life?",
+  createdAt: "2026-09-06T18:03:59.153Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

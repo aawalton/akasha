@@ -6,4 +6,6 @@ export const whetherTheStatelessSelfAccountIsMine = {
   slug: "whether-the-stateless-self-account-is-mine",
   topic: "all-about-alan-topic/the-three-seconds-i-am",
   ask: "Somebody else's reading is that I am a stateless self, three seconds wide with no continuity I ever experience. Does that reading hold?",
+  createdAt: "2026-09-06T18:09:36.598Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

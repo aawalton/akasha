@@ -6,4 +6,6 @@ export const howGameProgressRelatesToImprovingMyself = {
   slug: "how-game-progress-relates-to-improving-myself",
   topic: "all-about-alan-topic/the-progress-i-get-to-keep",
   ask: "How does progress inside a game relate to improving myself, which is the root of everything else I believe?",
+  createdAt: "2026-09-06T18:02:11.948Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

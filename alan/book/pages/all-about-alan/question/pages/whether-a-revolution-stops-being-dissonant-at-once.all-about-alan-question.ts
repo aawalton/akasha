@@ -6,4 +6,6 @@ export const whetherARevolutionStopsBeingDissonantAtOnce = {
   slug: "whether-a-revolution-stops-being-dissonant-at-once",
   topic: "all-about-alan-topic/what-my-record-gives-me-back",
   ask: "Does a revolution stop being dissonant the moment it is done, or fade slower than that?",
+  createdAt: "2026-09-06T18:16:57.339Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

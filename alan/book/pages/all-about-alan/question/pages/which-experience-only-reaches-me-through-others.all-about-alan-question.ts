@@ -6,4 +6,6 @@ export const whichExperienceOnlyReachesMeThroughOthers = {
   slug: "which-experience-only-reaches-me-through-others",
   topic: "all-about-alan-topic/working-out-how-she-thinks",
   ask: "Other people, Jen most of all, are my way into experience I cannot reach firsthand. Which classes of experience only reach me by that route?",
+  createdAt: "2026-09-06T18:17:13.990Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

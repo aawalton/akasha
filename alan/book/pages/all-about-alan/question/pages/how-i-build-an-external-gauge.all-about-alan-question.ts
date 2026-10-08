@@ -6,4 +6,6 @@ export const howIBuildAnExternalGauge = {
   slug: "how-i-build-an-external-gauge",
   topic: "all-about-alan-topic/how-i-read-myself",
   ask: "I make the move everywhere and name the move nowhere. What is my method for building an external gauge for a state I cannot read, across proxies, an observer and check-ins?",
+  createdAt: "2026-09-06T18:09:15.798Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

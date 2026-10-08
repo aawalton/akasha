@@ -6,4 +6,6 @@ export const whatTheFaithStrandUnderMyWordHolds = {
   slug: "what-the-faith-strand-under-my-word-holds",
   topic: "all-about-alan-topic/keeping-my-word",
   ask: "One strand of my beliefs about keeping my word comes from something deeper in faith and ethics. What does that strand hold, and how does it sit with the stress-capacity account?",
+  createdAt: "2026-09-06T18:08:50.968Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

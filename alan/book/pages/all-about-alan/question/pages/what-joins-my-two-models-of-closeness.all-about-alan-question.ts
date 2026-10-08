@@ -6,4 +6,6 @@ export const whatJoinsMyTwoModelsOfCloseness = {
   slug: "what-joins-my-two-models-of-closeness",
   topic: "all-about-alan-topic/why-getting-close-hurts",
   ask: "Closeness runs the damage count and also makes a judge inescapable. What joins two models that each put closeness at the centre of a different harm?",
+  createdAt: "2026-09-06T18:06:08.362Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

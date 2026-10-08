@@ -6,4 +6,6 @@ export const whatSomeoneWithoutARunwayDoes = {
   slug: "what-someone-without-a-runway-does",
   topic: "all-about-alan-topic/why-i-stopped-working",
   ask: "I have named the question as a separate problem and never worked the problem. What does someone without a runway do instead of stopping?",
+  createdAt: "2026-09-06T18:10:46.408Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

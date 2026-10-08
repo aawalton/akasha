@@ -6,4 +6,6 @@ export const whatAStressStatementRefersTo = {
   slug: "what-a-stress-statement-refers-to",
   topic: "all-about-alan-topic/stress-level",
   ask: "My stress level and my stress capacity get used for each other in the record. Which does a given statement mean?",
+  createdAt: "2026-09-06T18:16:08.360Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

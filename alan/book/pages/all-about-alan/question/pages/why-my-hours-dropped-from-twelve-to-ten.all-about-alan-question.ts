@@ -6,4 +6,6 @@ export const whyMyHoursDroppedFromTwelveToTen = {
   slug: "why-my-hours-dropped-from-twelve-to-ten",
   topic: "all-about-alan-topic/the-scaffolding-i-built",
   ask: "I stopped tracking the hours: does my drop from twelve hours a day to eight or ten answer a rough stretch, or is that drop independent settling?",
+  createdAt: "2026-09-06T18:05:11.410Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

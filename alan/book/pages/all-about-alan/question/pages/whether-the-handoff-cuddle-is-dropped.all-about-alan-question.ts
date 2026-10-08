@@ -6,4 +6,6 @@ export const whetherTheHandoffCuddleIsDropped = {
   slug: "whether-the-handoff-cuddle-is-dropped",
   topic: "all-about-alan-topic/sharing-a-bed",
   ask: "The cuddle at the handoff is parked because setting the cuddle up is a level-five conversation. Is the cuddle dropped, or only overtaken?",
+  createdAt: "2026-09-06T18:09:55.281Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

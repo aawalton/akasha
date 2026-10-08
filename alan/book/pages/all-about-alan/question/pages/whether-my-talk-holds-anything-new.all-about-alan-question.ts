@@ -6,4 +6,6 @@ export const whetherMyTalkHoldsAnythingNew = {
   slug: "whether-my-talk-holds-anything-new",
   topic: "all-about-alan-topic/how-i-read-myself",
   ask: "Does the talk I gave this year, my fullest outside statement on reading myself, hold anything new?",
+  createdAt: "2026-09-06T18:09:15.798Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

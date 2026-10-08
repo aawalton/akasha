@@ -6,4 +6,6 @@ export const whereTheCueStopsBeingDiscreteEnough = {
   slug: "where-the-cue-stops-being-discrete-enough",
   topic: "all-about-alan-topic/how-i-remember-anything",
   ask: "How discrete does a cue have to be for the chain to hold, across memorising a text, giving a talk and running the harness?",
+  createdAt: "2026-09-21T20:11:06.567Z",
+  updatedAt: "2026-09-21T20:11:11.000Z",
 } as const satisfies AllAboutAlanQuestion

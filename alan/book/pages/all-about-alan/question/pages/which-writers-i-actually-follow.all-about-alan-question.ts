@@ -6,4 +6,6 @@ export const whichWritersIActuallyFollow = {
   slug: "which-writers-i-actually-follow",
   topic: "all-about-alan-topic/a-platform-that-stays-out-of-the-way",
   ask: "Which writers do I actually read on Substack, what does each cover, and which would I follow off the platform?",
+  createdAt: "2026-09-21T20:27:02.596Z",
+  updatedAt: "2026-09-21T20:27:06.000Z",
 } as const satisfies AllAboutAlanQuestion

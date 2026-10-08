@@ -6,4 +6,6 @@ export const whatEachPersonaIsCutFrom = {
   slug: "what-each-persona-is-cut-from",
   topic: "all-about-alan-topic/the-women-i-made-out-of-myself",
   ask: "Two personas are written and the others are open, and nothing may be read off position. What is each of the other personas cut from, and which value does each carry?",
+  createdAt: "2026-09-06T18:15:16.190Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

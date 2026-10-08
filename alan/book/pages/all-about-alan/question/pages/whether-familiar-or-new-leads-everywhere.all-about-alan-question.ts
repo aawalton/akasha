@@ -6,4 +6,6 @@ export const whetherFamiliarOrNewLeadsEverywhere = {
   slug: "whether-familiar-or-new-leads-everywhere",
   topic: "all-about-alan-topic/what-pulls-me-into-doing-something",
   ask: "One case is all I rest the answer on. Does a single dimension fire the instinctive channel everywhere, or does the leading dimension shift by context?",
+  createdAt: "2026-09-06T18:06:52.734Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whichPlansSurviveOwnActionsOnly = {
   slug: "which-plans-survive-own-actions-only",
   topic: "all-about-alan-topic/where-connection-could-come-from",
   ask: "Sweeping the plans I already hold, which plans survive the scope that keeps only moves that are my own act?",
+  createdAt: "2026-09-06T18:06:51.961Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

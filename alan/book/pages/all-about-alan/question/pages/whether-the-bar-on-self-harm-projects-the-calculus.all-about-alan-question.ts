@@ -6,4 +6,6 @@ export const whetherTheBarOnSelfHarmProjectsTheCalculus = {
   slug: "whether-the-bar-on-self-harm-projects-the-calculus",
   topic: "all-about-alan-topic/where-my-ethics-meets-my-rules",
   ask: "Is my bar against harming myself the right projection of a tradeable calculus for a mind without perfect knowledge, or a place where the framework and the rule come apart?",
+  createdAt: "2026-09-06T18:10:16.612Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

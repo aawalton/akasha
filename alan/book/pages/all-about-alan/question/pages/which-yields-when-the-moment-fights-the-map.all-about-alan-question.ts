@@ -6,4 +6,6 @@ export const whichYieldsWhenTheMomentFightsTheMap = {
   slug: "which-yields-when-the-moment-fights-the-map",
   topic: "all-about-alan-topic/keeping-faith-with-myself",
   ask: "What does running true look like when the moment's read conflicts with my held understanding, which side yields, and how is that conflict noticed with no inner sense to flag it?",
+  createdAt: "2026-09-06T18:06:09.342Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

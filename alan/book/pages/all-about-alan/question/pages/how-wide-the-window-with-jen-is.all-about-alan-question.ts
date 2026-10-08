@@ -6,4 +6,6 @@ export const howWideTheWindowWithJenIs = {
   slug: "how-wide-the-window-with-jen-is",
   topic: "all-about-alan-topic/how-much-being-known-i-need",
   ask: "How wide is the window where Jen and I both have surplus, and does scheduling or recovery order widen that window?",
+  createdAt: "2026-09-06T18:13:11.311Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

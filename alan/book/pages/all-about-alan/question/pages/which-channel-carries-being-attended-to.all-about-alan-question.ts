@@ -6,4 +6,6 @@ export const whichChannelCarriesBeingAttendedTo = {
   slug: "which-channel-carries-being-attended-to",
   topic: "all-about-alan-topic/what-the-channel-has-to-carry",
   ask: "Which physical channel actually carries the sense of being attended to, and why does a nervous system like mine read that sense through sheer bandwidth?",
+  createdAt: "2026-09-06T18:11:13.391Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

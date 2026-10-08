@@ -6,4 +6,6 @@ export const howFastMyStartleTailDecays = {
   slug: "how-fast-my-startle-tail-decays",
   topic: "all-about-alan-topic/after-something-alarms-me",
   ask: "How fast does my week of being easily startled decay after an alarm, and would a reading every six to twelve hours pin the half-life?",
+  createdAt: "2026-09-06T17:57:45.207Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

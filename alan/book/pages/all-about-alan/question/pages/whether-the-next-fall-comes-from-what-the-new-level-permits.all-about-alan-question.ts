@@ -6,4 +6,6 @@ export const whetherTheNextFallComesFromWhatTheNewLevelPermits = {
   slug: "whether-the-next-fall-comes-from-what-the-new-level-permits",
   topic: "all-about-alan-topic/why-climbing-sets-off-the-fall",
   ask: "An interviewer's reading, not mine: if each fall comes from something the new level newly permitted, is the next one forecastable in kind if not in date?",
+  createdAt: "2026-09-21T21:48:30.274Z",
+  updatedAt: "2026-09-21T21:48:33.000Z",
 } as const satisfies AllAboutAlanQuestion

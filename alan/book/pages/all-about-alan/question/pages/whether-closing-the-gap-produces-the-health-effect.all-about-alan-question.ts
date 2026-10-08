@@ -6,4 +6,6 @@ export const whetherClosingTheGapProducesTheHealthEffect = {
   slug: "whether-closing-the-gap-produces-the-health-effect",
   topic: "all-about-alan-topic/what-loneliness-costs-my-body",
   ask: "Does closing the gap produce the broad health effect, or does taking attention off the gap produce the same effect, when both rivals run against the same readouts?",
+  createdAt: "2026-09-06T18:13:24.026Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

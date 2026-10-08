@@ -6,4 +6,6 @@ export const whichQuantityMySafetyFiguresRead = {
   slug: "which-quantity-my-safety-figures-read",
   topic: "all-about-alan-topic/where-safety-has-got-to",
   ask: "My stated medians and the recorded figures disagree, so which quantity does a stated median read and which quantity does a recorded figure read?",
+  createdAt: "2026-09-06T18:10:34.922Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

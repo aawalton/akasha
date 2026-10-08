@@ -6,4 +6,6 @@ export const whoseRecoveriesMyRecoveryFigureRestsOn = {
   slug: "whose-recoveries-my-recovery-figure-rests-on",
   topic: "all-about-alan-topic/how-far-back-i-expect-to-come",
   ask: "Whose recoveries does my three-to-five-year figure actually rest on?",
+  createdAt: "2026-09-06T18:09:02.596Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

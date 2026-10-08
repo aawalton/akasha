@@ -6,4 +6,6 @@ export const whetherICanDetectTheGateDirectly = {
   slug: "whether-i-can-detect-the-gate-directly",
   topic: "all-about-alan-topic/what-i-cannot-play-forward",
   ask: "Can I detect the gate directly, or only ever infer the gate from what my dreams do and my waking mind does not?",
+  createdAt: "2026-09-06T18:17:01.828Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

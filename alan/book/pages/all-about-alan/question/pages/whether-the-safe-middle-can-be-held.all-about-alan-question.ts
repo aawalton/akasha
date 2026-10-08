@@ -6,4 +6,6 @@ export const whetherTheSafeMiddleCanBeHeld = {
   slug: "whether-the-safe-middle-can-be-held",
   topic: "all-about-alan-topic/who-is-safe-to-be-around",
   ask: "Can the safe middle be held, or is the safe middle only the slower part of the same one-way slide?",
+  createdAt: "2026-09-06T18:17:47.204Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

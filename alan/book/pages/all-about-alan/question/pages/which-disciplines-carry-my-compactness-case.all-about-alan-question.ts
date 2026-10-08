@@ -6,4 +6,6 @@ export const whichDisciplinesCarryMyCompactnessCase = {
   slug: "which-disciplines-carry-my-compactness-case",
   topic: "all-about-alan-topic/why-i-hold-the-book-true",
   ask: "Which disciplines did I attack the Book of Mormon from, what does each contribute, and what specific patch does each naturalistic account have to add?",
+  createdAt: "2026-09-06T18:07:52.845Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

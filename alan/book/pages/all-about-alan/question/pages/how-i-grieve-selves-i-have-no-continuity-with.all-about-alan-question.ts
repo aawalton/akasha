@@ -6,4 +6,6 @@ export const howIGrieveSelvesIHaveNoContinuityWith = {
   slug: "how-i-grieve-selves-i-have-no-continuity-with",
   topic: "all-about-alan-topic/the-feelings-i-can-name",
   ask: "How do I grieve selves I have no continuity with, when grief needs an arc?",
+  createdAt: "2026-09-06T18:06:17.382Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

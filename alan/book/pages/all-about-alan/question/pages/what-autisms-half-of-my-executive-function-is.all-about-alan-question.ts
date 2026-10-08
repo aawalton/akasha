@@ -6,4 +6,6 @@ export const whatAutismsHalfOfMyExecutiveFunctionIs = {
   slug: "what-autisms-half-of-my-executive-function-is",
   topic: "all-about-alan-topic/how-i-get-anything-done",
   ask: "My executive function is hit twice, autism on top of ADHD. What does autism's half look like on its own?",
+  createdAt: "2026-09-06T18:14:46.221Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

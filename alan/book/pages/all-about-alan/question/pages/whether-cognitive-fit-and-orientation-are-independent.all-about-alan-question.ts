@@ -6,4 +6,6 @@ export const whetherCognitiveFitAndOrientationAreIndependent = {
   slug: "whether-cognitive-fit-and-orientation-are-independent",
   topic: "all-about-alan-topic/being-met",
   ask: "Are cognitive fit and orientation independent, or does orientation only fire once knowing me is cheap enough?",
+  createdAt: "2026-09-06T18:04:55.741Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherASourceParticularToMeIsOffTheList = {
   slug: "whether-a-source-particular-to-me-is-off-the-list",
   topic: "all-about-alan-topic/what-wears-my-body-down",
   ask: "Grinding a problem at the edge of sleep is one candidate. Does a source particular to me sit off the list of usual sources, where ruling things out cannot reach?",
+  createdAt: "2026-09-06T18:14:49.919Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

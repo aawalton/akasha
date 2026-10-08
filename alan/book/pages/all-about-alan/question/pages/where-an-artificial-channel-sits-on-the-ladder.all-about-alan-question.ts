@@ -6,4 +6,6 @@ export const whereAnArtificialChannelSitsOnTheLadder = {
   slug: "where-an-artificial-channel-sits-on-the-ladder",
   topic: "all-about-alan-topic/what-the-channel-has-to-carry",
   ask: "What is my measured response curve across text, picture, voice and in person against the loneliness gauge, and where does an artificial channel sit on that ladder today?",
+  createdAt: "2026-09-06T18:11:13.392Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

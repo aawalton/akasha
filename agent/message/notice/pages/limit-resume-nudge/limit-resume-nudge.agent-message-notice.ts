@@ -7,4 +7,6 @@ export const limitResumeNudge = {
   text: "md",
   warrant:
     "Goes to a seat that is alive and idle rather than respawned, whose previous turn ended at a Claude usage limit that has since cleared. These words are also the monitor's anti-hammer key: before sending, the monitor asks whether a message carrying exactly them landed recently. Editing them retires the old key, so a seat nudged under the previous wording inside that window may be nudged once more, which costs one turn and is bounded by one window.",
+  createdAt: "2026-09-03T17:50:10.595Z",
+  updatedAt: "2026-09-22T17:37:14.000Z",
 } as const satisfies AgentMessageNotice

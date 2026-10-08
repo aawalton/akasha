@@ -6,4 +6,6 @@ export const whetherAnotherGameWouldFillTheGap = {
   slug: "whether-another-game-would-fill-the-gap",
   topic: "all-about-alan-topic/how-i-watch-my-agents",
   ask: "Would another game serve as the filler, or do the loading screens make this game the right one?",
+  createdAt: "2026-09-06T18:10:31.857Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

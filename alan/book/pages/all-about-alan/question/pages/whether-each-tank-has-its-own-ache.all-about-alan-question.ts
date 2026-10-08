@@ -6,4 +6,6 @@ export const whetherEachTankHasItsOwnAche = {
   slug: "whether-each-tank-has-its-own-ache",
   topic: "all-about-alan-topic/the-four-things-i-need-from-people",
   ask: "I hold one data point on the tanks. Does a tank other than being known running low make its own distinct ache, or does every shortfall collapse into one loneliness?",
+  createdAt: "2026-09-06T18:08:25.450Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

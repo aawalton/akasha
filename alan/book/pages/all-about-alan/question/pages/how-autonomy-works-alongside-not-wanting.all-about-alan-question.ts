@@ -6,4 +6,6 @@ export const howAutonomyWorksAlongsideNotWanting = {
   slug: "how-autonomy-works-alongside-not-wanting",
   topic: "all-about-alan-topic/the-best-three-years",
   ask: "How does autonomy work as a driver alongside not-wanting?",
+  createdAt: "2026-09-06T18:17:32.093Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

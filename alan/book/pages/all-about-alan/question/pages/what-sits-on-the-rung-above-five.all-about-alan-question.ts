@@ -6,4 +6,6 @@ export const whatSitsOnTheRungAboveFive = {
   slug: "what-sits-on-the-rung-above-five",
   topic: "all-about-alan-topic/the-rungs-of-my-safety-scale",
   ask: "My rung ladder stops at five and my instrument reads to six. What is the capability anchor on six?",
+  createdAt: "2026-09-21T20:09:25.841Z",
+  updatedAt: "2026-09-21T20:09:29.000Z",
 } as const satisfies AllAboutAlanQuestion

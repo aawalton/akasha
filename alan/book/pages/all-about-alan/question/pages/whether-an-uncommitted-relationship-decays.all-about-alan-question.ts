@@ -6,4 +6,6 @@ export const whetherAnUncommittedRelationshipDecays = {
   slug: "whether-an-uncommitted-relationship-decays",
   topic: "all-about-alan-topic/what-my-love-is-built-out-of",
   ask: "Does a relationship that is familiar and useful but uncommitted actually decay, and how fast?",
+  createdAt: "2026-09-06T18:16:25.186Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

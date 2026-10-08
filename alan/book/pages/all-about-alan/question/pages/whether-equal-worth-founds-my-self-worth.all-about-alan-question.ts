@@ -6,4 +6,6 @@ export const whetherEqualWorthFoundsMySelfWorth = {
   slug: "whether-equal-worth-founds-my-self-worth",
   topic: "all-about-alan-topic/where-my-ethics-meets-my-rules",
   ask: "Does the equal-worth guarantee supply the foundation for self-worth I have never built, or only move the gap?",
+  createdAt: "2026-09-06T18:10:16.614Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

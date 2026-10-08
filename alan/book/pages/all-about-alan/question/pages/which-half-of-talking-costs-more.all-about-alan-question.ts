@@ -6,4 +6,6 @@ export const whichHalfOfTalkingCostsMore = {
   slug: "which-half-of-talking-costs-more",
   topic: "all-about-alan-topic/what-an-activity-costs-me",
   ask: "Talking costs me twice, in the work of keeping up and in the recovery talking pauses. Which half is the bigger one?",
+  createdAt: "2026-09-06T18:09:11.178Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

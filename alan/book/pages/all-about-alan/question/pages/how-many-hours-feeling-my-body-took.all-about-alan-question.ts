@@ -6,4 +6,6 @@ export const howManyHoursFeelingMyBodyTook = {
   slug: "how-many-hours-feeling-my-body-took",
   topic: "all-about-alan-topic/how-i-learned-to-feel-my-body",
   ask: "How many hours or sessions did the arc actually take, given the count would anchor everything I say about how much a skill costs me?",
+  createdAt: "2026-09-06T18:05:17.148Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

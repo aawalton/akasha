@@ -6,4 +6,6 @@ export const whetherNamingTheAbuseChangesTheStory = {
   slug: "whether-naming-the-abuse-changes-the-story",
   topic: "all-about-alan-topic/calling-it-what-it-was",
   ask: "Does naming what happened at home as abuse change the story of how the perfection and people-aren't-safe verdicts were installed in me?",
+  createdAt: "2026-09-06T18:09:53.329Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whichResponsesAreWorthRetraining = {
   slug: "which-responses-are-worth-retraining",
   topic: "all-about-alan-topic/nothing-i-do-starts-with-a-decision",
   ask: "Which responses are worth retraining, and which responses do I route around on the way in for good?",
+  createdAt: "2026-09-06T18:13:11.713Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

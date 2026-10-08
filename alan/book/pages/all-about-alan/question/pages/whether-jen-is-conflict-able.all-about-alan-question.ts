@@ -6,4 +6,6 @@ export const whetherJenIsConflictAble = {
   slug: "whether-jen-is-conflict-able",
   topic: "all-about-alan-topic/what-makes-a-person-expensive",
   ask: "My notes had it that Jen is conflict-able, neither seeking conflict out nor avoiding it, and nothing on record is behind it. Is that right?",
+  createdAt: "2026-09-21T23:36:42.348Z",
+  updatedAt: "2026-09-21T23:37:02.000Z",
 } as const satisfies AllAboutAlanQuestion

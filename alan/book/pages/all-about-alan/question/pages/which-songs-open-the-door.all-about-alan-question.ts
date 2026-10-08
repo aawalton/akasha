@@ -6,4 +6,6 @@ export const whichSongsOpenTheDoor = {
   slug: "which-songs-open-the-door",
   topic: "all-about-alan-topic/how-a-song-reaches-me",
   ask: "Which songs open the door for me, and which slide past as pretty surface?",
+  createdAt: "2026-09-06T18:06:21.834Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

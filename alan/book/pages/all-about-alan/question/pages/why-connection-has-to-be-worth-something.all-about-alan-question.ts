@@ -6,4 +6,6 @@ export const whyConnectionHasToBeWorthSomething = {
   slug: "why-connection-has-to-be-worth-something",
   topic: "all-about-alan-topic/what-my-love-is-built-out-of",
   ask: "The attention story for why usefulness is required is held at forty percent. Underneath that story, why does connection have to be worth something?",
+  createdAt: "2026-09-06T18:16:25.188Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

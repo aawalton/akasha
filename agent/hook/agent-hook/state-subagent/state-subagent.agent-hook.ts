@@ -91,4 +91,6 @@ export const stateSubagent = {
         "A page half-landed by a process that died is swept by the next process to take that lock.",
     },
   ],
+  createdAt: "2026-08-31T20:42:25.374Z",
+  updatedAt: "2026-09-25T18:04:53.000Z",
 } as const satisfies AgentHook

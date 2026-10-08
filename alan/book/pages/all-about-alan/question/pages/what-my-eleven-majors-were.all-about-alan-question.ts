@@ -6,4 +6,6 @@ export const whatMyElevenMajorsWere = {
   slug: "what-my-eleven-majors-were",
   topic: "all-about-alan-topic/why-i-have-to-be-perfect",
   ask: "What were the eleven majors I tried at college beyond dance, and does that run sort along the same self-checkable line?",
+  createdAt: "2026-09-06T18:07:24.387Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

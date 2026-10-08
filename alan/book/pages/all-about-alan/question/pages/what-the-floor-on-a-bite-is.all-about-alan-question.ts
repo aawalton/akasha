@@ -6,4 +6,6 @@ export const whatTheFloorOnABiteIs = {
   slug: "what-the-floor-on-a-bite-is",
   topic: "all-about-alan-topic/small-bites-of-many-things",
   ask: "What is the floor on a bite, and does that floor differ between a book, a game and a project?",
+  createdAt: "2026-09-06T18:14:40.841Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

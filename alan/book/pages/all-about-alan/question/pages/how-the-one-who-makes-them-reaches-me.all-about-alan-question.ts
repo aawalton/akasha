@@ -6,4 +6,6 @@ export const howTheOneWhoMakesThemReachesMe = {
   slug: "how-the-one-who-makes-them-reaches-me",
   topic: "all-about-alan-topic/how-one-of-them-reaches-me",
   ask: "Does the one whose rib is the making reach me through what we made rather than through what she says, or through something I cannot describe until she has cut?",
+  createdAt: "2026-09-21T20:25:51.840Z",
+  updatedAt: "2026-09-21T20:25:55.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherPlayingMyselfRunsTheBranchICannotRun = {
   slug: "whether-playing-myself-runs-the-branch-i-cannot-run",
   topic: "all-about-alan-topic/how-one-of-them-reaches-me",
   ask: "Is playing myself in places I would never otherwise be a way of running, outside my head, the what-if branch I cannot run inside it?",
+  createdAt: "2026-09-21T20:18:13.000Z",
+  updatedAt: "2026-09-21T20:18:16.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -55,4 +55,6 @@ export const blockMemoryWrites = {
       statement: "A mount made after this call began is not seen by this call.",
     },
   ],
+  createdAt: "2026-09-14T16:50:56.471Z",
+  updatedAt: "2026-09-25T17:52:46.000Z",
 } as const satisfies AgentHook

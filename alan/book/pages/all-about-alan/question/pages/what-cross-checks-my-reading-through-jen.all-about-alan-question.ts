@@ -6,4 +6,6 @@ export const whatCrossChecksMyReadingThroughJen = {
   slug: "what-cross-checks-my-reading-through-jen",
   topic: "all-about-alan-topic/living-with-jen",
   ask: "I read every other relationship through Jen, so if that one reading is off the whole instrument is off. What cross-check could I run on Jen's reading?",
+  createdAt: "2026-09-06T18:10:21.969Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

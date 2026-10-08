@@ -6,4 +6,6 @@ export const howSomethingRetiresFromTheRotation = {
   slug: "how-something-retires-from-the-rotation",
   topic: "all-about-alan-topic/how-something-joins-the-rotation",
   ask: "How does something retire from the rotation — finished, quit, or forgotten — when no convention says which of the three it was?",
+  createdAt: "2026-09-06T18:16:49.984Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

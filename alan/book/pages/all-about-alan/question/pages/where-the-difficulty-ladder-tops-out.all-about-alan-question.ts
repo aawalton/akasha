@@ -6,4 +6,6 @@ export const whereTheDifficultyLadderTopsOut = {
   slug: "where-the-difficulty-ladder-tops-out",
   topic: "all-about-alan-topic/how-hard-a-thing-is",
   ask: "Door-knocking in a foreign language sits above criticism, and that label may be two things rather than one rung, so where does the difficulty ladder top out?",
+  createdAt: "2026-09-06T18:10:05.061Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

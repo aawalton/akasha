@@ -6,4 +6,6 @@ export const whetherTheSafeMiddleHolds = {
   slug: "whether-the-safe-middle-holds",
   topic: "all-about-alan-topic/whether-any-closeness-escapes-it",
   ask: "Does the safe middle hold, or is the safe middle the same decay running slower?",
+  createdAt: "2026-09-06T18:12:21.124Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

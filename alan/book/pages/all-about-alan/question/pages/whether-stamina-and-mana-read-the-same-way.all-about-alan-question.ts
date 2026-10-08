@@ -6,4 +6,6 @@ export const whetherStaminaAndManaReadTheSameWay = {
   slug: "whether-stamina-and-mana-read-the-same-way",
   topic: "all-about-alan-topic/the-colours-i-read-myself-in",
   ask: "Stamina's stoplight reads as direction, wanting to move against wanting to be still, where mana's reads as amount. Is that asymmetry real, or does it dissolve past stoplight?",
+  createdAt: "2026-09-06T18:02:22.131Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatTheBeliefLayerOfSexHolds = {
   slug: "what-the-belief-layer-of-sex-holds",
   topic: "all-about-alan-topic/sex",
   ask: "The marriage layer and the plain need are worked, and the belief layer tangled in with them is thin. What does the belief layer hold?",
+  createdAt: "2026-09-06T18:09:24.796Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

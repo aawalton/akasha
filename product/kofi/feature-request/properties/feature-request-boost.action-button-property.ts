@@ -19,4 +19,6 @@ export const featureRequestBoost = {
     },
   ],
   types: "ts",
+  createdAt: "2026-09-21T22:01:36.804Z",
+  updatedAt: "2026-09-22T13:46:58.000Z",
 } as const satisfies ActionButtonProperty

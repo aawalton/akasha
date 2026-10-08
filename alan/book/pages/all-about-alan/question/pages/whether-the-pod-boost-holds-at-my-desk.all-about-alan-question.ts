@@ -6,4 +6,6 @@ export const whetherThePodBoostHoldsAtMyDesk = {
   slug: "whether-the-pod-boost-holds-at-my-desk",
   topic: "all-about-alan-topic/what-the-pod-does-to-the-price",
   ask: "Abby's reading is that I was wearing the Nuropod while working when this came up and did not say either way. Does the Nuropod boost apply the same way while I am working at a desk?",
+  createdAt: "2026-09-06T18:12:59.509Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

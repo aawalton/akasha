@@ -204,4 +204,6 @@ export const blockCombinedAkashaCalls = {
         "A call this hook never finds is judged when it runs, against the command the shell was handed.",
     },
   ],
+  createdAt: "2026-09-08T01:25:21.059Z",
+  updatedAt: "2026-09-25T16:04:46.000Z",
 } as const satisfies AgentHook

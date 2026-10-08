@@ -6,4 +6,6 @@ export const howIKeepSkinApartAsleep = {
   slug: "how-i-keep-skin-apart-asleep",
   topic: "all-about-alan-topic/keeping-my-skin-off-my-skin",
   ask: "How do I keep my skin off my skin while asleep, where does the pillow go, and how does the pillow sit with the weighted blanket?",
+  createdAt: "2026-09-06T18:08:19.984Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

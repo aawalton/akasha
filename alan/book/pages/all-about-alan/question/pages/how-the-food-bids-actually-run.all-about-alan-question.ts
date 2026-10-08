@@ -6,4 +6,6 @@ export const howTheFoodBidsActuallyRun = {
   slug: "how-the-food-bids-actually-run",
   topic: "all-about-alan-topic/eating-what-she-brings-me",
   ask: "How do the food bids actually run in her terms: how often, what she says, and what I feel receiving the food against eating it?",
+  createdAt: "2026-09-06T18:13:35.416Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherLettingCleanupGoGeneralises = {
   slug: "whether-letting-cleanup-go-generalises",
   topic: "all-about-alan-topic/the-foods-i-can-still-manage",
   ask: "Does letting the cleanup go at crisis-low generalise to laundry, messages and projects?",
+  createdAt: "2026-09-06T18:07:49.032Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

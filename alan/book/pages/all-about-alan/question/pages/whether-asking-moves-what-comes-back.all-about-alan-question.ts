@@ -6,4 +6,6 @@ export const whetherAskingMovesWhatComesBack = {
   slug: "whether-asking-moves-what-comes-back",
   topic: "all-about-alan-topic/what-praying-does-for-me",
   ask: "I hold that my asking moves what comes back rather than only priming me to notice it. Could anything tell moving and priming apart?",
+  createdAt: "2026-09-06T18:06:17.338Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

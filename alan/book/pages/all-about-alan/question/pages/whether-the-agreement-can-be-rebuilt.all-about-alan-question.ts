@@ -6,4 +6,6 @@ export const whetherTheAgreementCanBeRebuilt = {
   slug: "whether-the-agreement-can-be-rebuilt",
   topic: "all-about-alan-topic/the-person-i-could-relax-around",
   ask: "The agreement broke because what funded it ran out. Can the agreement be rebuilt on a footing that does not ask her to defer her needs?",
+  createdAt: "2026-09-06T18:14:20.133Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

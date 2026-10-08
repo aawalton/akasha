@@ -6,4 +6,6 @@ export const whetherTheDownwardProbeWalksTheRungs = {
   slug: "whether-the-downward-probe-walks-the-rungs",
   topic: "all-about-alan-topic/how-hard-a-thing-is",
   ask: "The downward probe assumes an ordered list of easier things to walk down. Is that list these rungs, or a finer personal ordering I actually step through?",
+  createdAt: "2026-09-06T18:10:05.062Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

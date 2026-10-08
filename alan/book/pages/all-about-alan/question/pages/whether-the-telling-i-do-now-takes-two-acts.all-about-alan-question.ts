@@ -6,4 +6,6 @@ export const whetherTheTellingIDoNowTakesTwoActs = {
   slug: "whether-the-telling-i-do-now-takes-two-acts",
   topic: "all-about-alan-topic/showing-jen-where-i-am",
   ask: "Abby reads the telling I do now as two acts, Jen asking and me able to answer, with the second the one that matters since near the line I cannot initiate. Is that my read as well?",
+  createdAt: "2026-09-21T23:13:48.402Z",
+  updatedAt: "2026-09-21T23:13:53.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatAMinuteInTheBathCosts = {
   slug: "what-a-minute-in-the-bath-costs",
   topic: "all-about-alan-topic/recovery-costs-what-it-restores",
   ask: "What does a minute in the bath cost me in mana, and how low can my mana get before the bath stops firing at all?",
+  createdAt: "2026-09-06T18:03:24.881Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

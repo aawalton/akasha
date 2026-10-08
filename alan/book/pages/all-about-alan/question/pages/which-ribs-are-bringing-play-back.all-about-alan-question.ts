@@ -6,4 +6,6 @@ export const whichRibsAreBringingPlayBack = {
   slug: "which-ribs-are-bringing-play-back",
   topic: "all-about-alan-topic/playing-again",
   ask: "Play is coming back one persona at a time, each persona opening an area. Which ribs are doing that, and what is the shape of the return?",
+  createdAt: "2026-09-06T18:15:15.213Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

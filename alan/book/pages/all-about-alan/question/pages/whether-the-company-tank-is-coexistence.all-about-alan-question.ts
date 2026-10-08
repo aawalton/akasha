@@ -6,4 +6,6 @@ export const whetherTheCompanyTankIsCoexistence = {
   slug: "whether-the-company-tank-is-coexistence",
   topic: "all-about-alan-topic/the-four-things-i-need-from-people",
   ask: "Jen wanted the company tank called coexistence. Should that tank carry her name for it, and where is her objection held?",
+  createdAt: "2026-09-06T18:08:25.452Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

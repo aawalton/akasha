@@ -6,4 +6,6 @@ export const whetherMyStreamsShareOneResource = {
   slug: "whether-my-streams-share-one-resource",
   topic: "all-about-alan-topic/how-i-watch-my-agents",
   ask: "Eight to twelve streams, a game and music run together without interfering. Do the three draw on different resources, or share one resource?",
+  createdAt: "2026-09-06T18:10:31.857Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

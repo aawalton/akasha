@@ -6,4 +6,6 @@ export const howMuchTailClosingAChannelSaves = {
   slug: "how-much-tail-closing-a-channel-saves",
   topic: "all-about-alan-topic/shutting-a-channel-after-it-hurt-me",
   ask: "How much of the tail does closing a channel actually save, measured against the same kind of event with no channel closed?",
+  createdAt: "2026-09-06T18:11:41.999Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

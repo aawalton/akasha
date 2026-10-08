@@ -6,4 +6,6 @@ export const whetherAStarvedGoodChannelFedTheScar = {
   slug: "whether-a-starved-good-channel-fed-the-scar",
   topic: "all-about-alan-topic/when-someone-says-something-good",
   ask: "Did appreciation never landing feed the scar, so that the good channel was starved rather than the bad channel being loud?",
+  createdAt: "2026-09-06T18:04:19.735Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

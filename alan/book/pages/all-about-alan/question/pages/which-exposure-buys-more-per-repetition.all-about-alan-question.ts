@@ -6,4 +6,6 @@ export const whichExposureBuysMorePerRepetition = {
   slug: "which-exposure-buys-more-per-repetition",
   topic: "all-about-alan-topic/how-much-company-i-can-take",
   ask: "Which exposure buys me more per repetition, conversation or the costlier one?",
+  createdAt: "2026-09-06T18:13:48.546Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

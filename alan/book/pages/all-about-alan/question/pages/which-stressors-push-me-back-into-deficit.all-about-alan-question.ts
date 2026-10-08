@@ -6,4 +6,6 @@ export const whichStressorsPushMeBackIntoDeficit = {
   slug: "which-stressors-push-me-back-into-deficit",
   topic: "all-about-alan-topic/having-no-margin",
   ask: "Which unexpected stressors actually push me back into deficit?",
+  createdAt: "2026-09-06T18:02:45.829Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

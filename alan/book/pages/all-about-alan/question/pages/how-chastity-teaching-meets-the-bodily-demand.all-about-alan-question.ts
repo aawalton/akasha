@@ -6,4 +6,6 @@ export const howChastityTeachingMeetsTheBodilyDemand = {
   slug: "how-chastity-teaching-meets-the-bodily-demand",
   topic: "all-about-alan-topic/whether-the-rule-survives",
   ask: "This is the thin layer of the three, so how does chastity teaching interlock with the bodily demand?",
+  createdAt: "2026-09-06T18:14:10.996Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

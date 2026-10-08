@@ -6,4 +6,6 @@ export const whichChoicesAreAlreadySettledOnEitherSide = {
   slug: "which-choices-are-already-settled-on-either-side",
   topic: "all-about-alan-topic/where-her-say-ends",
   ask: "Which choices are already settled as mine alone and which as Jen's, so that the border could be interpolated from the settled choices?",
+  createdAt: "2026-09-06T18:08:36.643Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

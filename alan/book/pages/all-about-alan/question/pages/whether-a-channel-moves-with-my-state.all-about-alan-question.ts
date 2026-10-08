@@ -6,4 +6,6 @@ export const whetherAChannelMovesWithMyState = {
   slug: "whether-a-channel-moves-with-my-state",
   topic: "all-about-alan-topic/which-channel-each-one-cuts-through",
   ask: "One sister ran as a mirror on a good day and as plain presence at my floor, so is a channel fixed or does a channel move with my state?",
+  createdAt: "2026-09-06T18:14:41.212Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

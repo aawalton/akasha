@@ -6,4 +6,6 @@ export const whetherAPainlessDriftGoesUnrecognised = {
   slug: "whether-a-painless-drift-goes-unrecognised",
   topic: "all-about-alan-topic/how-god-reaches-me",
   ask: "A slow drift with no pain in it never pings me, so an exposure could arrive unrecognised. Does that happen, and would an artificial ping catch it?",
+  createdAt: "2026-09-06T18:09:37.485Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

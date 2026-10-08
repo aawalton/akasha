@@ -6,4 +6,6 @@ export const whichUsedElectricCarsFitMyRule = {
   slug: "which-used-electric-cars-fit-my-rule",
   topic: "all-about-alan-topic/why-i-want-a-simpler-machine",
   ask: "Which model years and makes actually meet my durability and maintainability rule, as a list I could buy from?",
+  createdAt: "2026-09-21T20:15:43.516Z",
+  updatedAt: "2026-09-21T20:15:47.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const howBadSocialOutcomesBuildAnEncoding = {
   slug: "how-bad-social-outcomes-build-an-encoding",
   topic: "all-about-alan-topic/why-a-threat-stays-fresh",
   ask: "By what mechanism do bad social outcomes build up into an encoding that costs me on every later go, where the older account routes it through never habituating?",
+  createdAt: "2026-09-06T18:18:43.520Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

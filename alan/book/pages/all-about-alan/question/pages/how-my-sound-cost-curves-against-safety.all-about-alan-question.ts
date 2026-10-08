@@ -6,4 +6,6 @@ export const howMySoundCostCurvesAgainstSafety = {
   slug: "how-my-sound-cost-curves-against-safety",
   topic: "all-about-alan-topic/how-i-keep-sound-down",
   ask: "How does my sound cost curve against my safety level between the two ends, from half my daily cost down to rare?",
+  createdAt: "2026-09-06T18:03:11.936Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

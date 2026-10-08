@@ -6,4 +6,6 @@ export const whetherHardNightsCrossIntoADisorder = {
   slug: "whether-hard-nights-cross-into-a-disorder",
   topic: "all-about-alan-topic/sleep",
   ask: "Do the nights that go hard ever cross into a disorder, or do those nights stay variation driven by my state?",
+  createdAt: "2026-09-06T18:13:04.495Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

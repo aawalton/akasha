@@ -6,4 +6,6 @@ export const whetherMySafetyAnchorsGoNumeric = {
   slug: "whether-my-safety-anchors-go-numeric",
   topic: "all-about-alan-topic/how-well-i-can-measure",
   ask: "Safety sits at numbered levels with no numeric scale under them, and has been my limiting resource long enough that more resolution might land. Will my safety anchors go numeric?",
+  createdAt: "2026-09-06T18:05:52.373Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherAPhysicalProxyReadsMyReserve = {
   slug: "whether-a-physical-proxy-reads-my-reserve",
   topic: "all-about-alan-topic/how-a-hard-talk-with-jen-gets-safer",
   ask: "Could a physical proxy tell me I have anchor-grade reserve right now, turning the go or no-go from a felt sense into an instrument?",
+  createdAt: "2026-09-06T18:05:12.224Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

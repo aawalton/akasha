@@ -6,4 +6,6 @@ export const whetherAnOpenQuestionIsRealNervousLoad = {
   slug: "whether-an-open-question-is-real-nervous-load",
   topic: "all-about-alan-topic/why-settling-a-question-steadies-me",
   ask: "Does my nervous system carry an unsettled question as real load, or is the question only a cost in my head that touches safety indirectly?",
+  createdAt: "2026-09-06T18:14:08.861Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

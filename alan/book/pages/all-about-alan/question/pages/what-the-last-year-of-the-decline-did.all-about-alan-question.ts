@@ -6,4 +6,6 @@ export const whatTheLastYearOfTheDeclineDid = {
   slug: "what-the-last-year-of-the-decline-did",
   topic: "all-about-alan-topic/the-arithmetic-of-the-decline",
   ask: "I have told the last year of the decline both ways: another fifty percent drop in capacity, and an unexpected fifty percent rise in load. Is it one, the other, or both?",
+  createdAt: "2026-09-21T23:15:02.287Z",
+  updatedAt: "2026-09-21T23:15:08.000Z",
 } as const satisfies AllAboutAlanQuestion

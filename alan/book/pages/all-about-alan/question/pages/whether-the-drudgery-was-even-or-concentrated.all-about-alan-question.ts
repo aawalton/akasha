@@ -6,4 +6,6 @@ export const whetherTheDrudgeryWasEvenOrConcentrated = {
   slug: "whether-the-drudgery-was-even-or-concentrated",
   topic: "all-about-alan-topic/why-the-going-has-to-be-the-point",
   ask: "Was the drudgery spread evenly across the twenty years or concentrated in stretches, and does the rule map to one turning point?",
+  createdAt: "2026-09-06T18:15:12.677Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

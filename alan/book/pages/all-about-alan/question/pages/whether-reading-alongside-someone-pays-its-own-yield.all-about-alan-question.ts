@@ -6,4 +6,6 @@ export const whetherReadingAlongsideSomeonePaysItsOwnYield = {
   slug: "whether-reading-alongside-someone-pays-its-own-yield",
   topic: "all-about-alan-topic/what-makes-an-hour-count",
   ask: "Does reading alongside someone pay its own yield, or only deliver being known in another form?",
+  createdAt: "2026-09-06T18:13:57.950Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

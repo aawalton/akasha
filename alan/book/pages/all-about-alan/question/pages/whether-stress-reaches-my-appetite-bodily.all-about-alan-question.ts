@@ -6,4 +6,6 @@ export const whetherStressReachesMyAppetiteBodily = {
   slug: "whether-stress-reaches-my-appetite-bodily",
   topic: "all-about-alan-topic/what-makes-me-start-eating",
   ask: "Does stress reach my appetite by any bodily route, rather than only through capacity and convenience?",
+  createdAt: "2026-09-06T18:15:02.512Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

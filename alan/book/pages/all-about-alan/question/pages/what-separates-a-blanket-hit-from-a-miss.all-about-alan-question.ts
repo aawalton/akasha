@@ -6,4 +6,6 @@ export const whatSeparatesABlanketHitFromAMiss = {
   slug: "what-separates-a-blanket-hit-from-a-miss",
   topic: "all-about-alan-topic/the-weighted-blanket",
   ask: "The weighted blanket helps about half the times I reach for it. What separates the hits from the misses?",
+  createdAt: "2026-09-06T18:14:08.744Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

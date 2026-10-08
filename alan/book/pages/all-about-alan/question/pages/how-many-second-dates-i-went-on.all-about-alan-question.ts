@@ -6,4 +6,6 @@ export const howManySecondDatesIWentOn = {
   slug: "how-many-second-dates-i-went-on",
   topic: "all-about-alan-topic/how-i-got-to-jen",
   ask: "I have told it both ways: second dates with about six, and three second dates against over a hundred first dates in college. Which is the number?",
+  createdAt: "2026-09-21T23:14:42.033Z",
+  updatedAt: "2026-09-21T23:14:47.000Z",
 } as const satisfies AllAboutAlanQuestion

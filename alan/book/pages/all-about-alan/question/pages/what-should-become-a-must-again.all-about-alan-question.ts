@@ -6,4 +6,6 @@ export const whatShouldBecomeAMustAgain = {
   slug: "what-should-become-a-must-again",
   topic: "all-about-alan-topic/the-things-i-never-weigh",
   ask: "The gate runs both ways. Which things should become a must again as my capacity rises?",
+  createdAt: "2026-09-06T18:07:45.567Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

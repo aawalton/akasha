@@ -6,4 +6,6 @@ export const whatLiftsTheLowFeelingModifier = {
   slug: "what-lifts-the-low-feeling-modifier",
   topic: "all-about-alan-topic/the-low-feeling-that-costs-me-a-level",
   ask: "Reading my record returns the fact of what I did and not the experience, and naming the weight helps some. What else actually lifts the modifier?",
+  createdAt: "2026-09-06T18:09:56.510Z",
+  updatedAt: "2026-09-28T19:43:38.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatElseHasMovedOutOfCompulsory = {
   slug: "what-else-has-moved-out-of-compulsory",
   topic: "all-about-alan-topic/what-i-have-stopped-treating-as-compulsory",
   ask: "What else have I already reclassified out of the compulsory, and which things I still treat as compulsory are candidates to move?",
+  createdAt: "2026-09-06T18:05:25.930Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

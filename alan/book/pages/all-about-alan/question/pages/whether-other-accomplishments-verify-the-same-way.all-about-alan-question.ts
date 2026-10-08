@@ -6,4 +6,6 @@ export const whetherOtherAccomplishmentsVerifyTheSameWay = {
   slug: "whether-other-accomplishments-verify-the-same-way",
   topic: "all-about-alan-topic/proof-i-can-do-things",
   ask: "Finishing a project is the anchored case. Do physical accomplishment, social effectiveness and control over my surroundings run through the same verification?",
+  createdAt: "2026-09-06T18:17:14.391Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

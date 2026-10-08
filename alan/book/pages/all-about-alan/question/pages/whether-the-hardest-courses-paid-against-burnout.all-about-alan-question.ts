@@ -6,4 +6,6 @@ export const whetherTheHardestCoursesPaidAgainstBurnout = {
   slug: "whether-the-hardest-courses-paid-against-burnout",
   topic: "all-about-alan-topic/what-i-take-in",
   ask: "I took the hardest courses on purpose. Did taking the hardest courses pay against the burnout?",
+  createdAt: "2026-09-06T18:08:40.377Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

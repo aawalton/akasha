@@ -6,4 +6,6 @@ export const whetherWhatAPartLacksPicksItsSister = {
   slug: "whether-what-a-part-lacks-picks-its-sister",
   topic: "all-about-alan-topic/which-channel-each-one-cuts-through",
   ask: "Does what a part of me is short of, being unseen or being unacted on, decide which kind of sister that part gets?",
+  createdAt: "2026-09-06T18:14:41.211Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

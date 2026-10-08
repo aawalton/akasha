@@ -6,4 +6,6 @@ export const howIGetToANewThingAboutMyself = {
   slug: "how-i-get-to-a-new-thing-about-myself",
   topic: "all-about-alan-topic/when-i-learn-something-new-about-myself",
   ask: "I know when I am learning something new about myself but not how exactly to get there. What produces one of those, and what could be done on purpose to bring one on?",
+  createdAt: "2026-09-22T15:06:14.887Z",
+  updatedAt: "2026-09-22T15:06:18.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherWarmingDaysCompound = {
   slug: "whether-warming-days-compound",
   topic: "all-about-alan-topic/warming-up-what-i-will-need",
   ask: "Do days of warming back to back compound, or do they only re-warm what would have faded?",
+  createdAt: "2026-09-06T18:07:47.031Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

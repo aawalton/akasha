@@ -6,4 +6,6 @@ export const whetherRespondingCanBecomeADefault = {
   slug: "whether-responding-can-become-a-default",
   topic: "all-about-alan-topic/noticing-what-she-needs",
   ask: "Can a default path for responding be installed at all, or does responding only ever run on surplus?",
+  createdAt: "2026-09-06T18:13:49.759Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whenMyTermPoliciesExpire = {
   slug: "when-my-term-policies-expire",
   topic: "all-about-alan-topic/when-the-life-cover-can-shrink",
   ask: "When does each of my two term policies expire, does each renew or re-rate, and how much warning do I get?",
+  createdAt: "2026-09-21T20:08:13.546Z",
+  updatedAt: "2026-09-21T20:08:17.000Z",
 } as const satisfies AllAboutAlanQuestion

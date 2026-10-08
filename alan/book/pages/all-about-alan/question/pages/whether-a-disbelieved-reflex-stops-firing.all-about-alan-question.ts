@@ -6,4 +6,6 @@ export const whetherADisbelievedReflexStopsFiring = {
   slug: "whether-a-disbelieved-reflex-stops-firing",
   topic: "all-about-alan-topic/turning-punishment-into-self-hatred",
   ask: "Does a reflex whose verdict I have stopped believing eventually stop firing, or does that reflex remain as a vestigial flinch?",
+  createdAt: "2026-09-06T18:04:51.842Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

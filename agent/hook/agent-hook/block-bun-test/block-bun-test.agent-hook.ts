@@ -46,4 +46,6 @@ export const blockBunTest = {
       statement: "Every test file the akasha folder has is an akasha test.",
     },
   ],
+  createdAt: "2026-08-29T17:57:59.160Z",
+  updatedAt: "2026-09-25T14:18:45.000Z",
 } as const satisfies AgentHook

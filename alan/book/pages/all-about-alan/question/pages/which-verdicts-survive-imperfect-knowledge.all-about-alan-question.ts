@@ -6,4 +6,6 @@ export const whichVerdictsSurviveImperfectKnowledge = {
   slug: "which-verdicts-survive-imperfect-knowledge",
   topic: "all-about-alan-topic/the-ethics-i-worked-out",
   ask: "Which of the framework's verdicts survive losing the perfect knowledge, and is approximating that knowledge the bridge, or does a verdict invert instead?",
+  createdAt: "2026-09-06T18:04:35.516Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

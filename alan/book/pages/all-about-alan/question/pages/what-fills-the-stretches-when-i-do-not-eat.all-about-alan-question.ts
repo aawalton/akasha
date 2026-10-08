@@ -6,4 +6,6 @@ export const whatFillsTheStretchesWhenIDoNotEat = {
   slug: "what-fills-the-stretches-when-i-do-not-eat",
   topic: "all-about-alan-topic/how-i-eat",
   ask: "What makes up the stretches when I do not eat?",
+  createdAt: "2026-09-06T18:13:56.956Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

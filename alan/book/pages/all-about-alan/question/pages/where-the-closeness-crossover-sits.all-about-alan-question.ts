@@ -6,4 +6,6 @@ export const whereTheClosenessCrossoverSits = {
   slug: "where-the-closeness-crossover-sits",
   topic: "all-about-alan-topic/whether-any-closeness-escapes-it",
   ask: "Where does the crossover sit, at which level, after how many corrections, and how fast?",
+  createdAt: "2026-09-06T18:12:21.124Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

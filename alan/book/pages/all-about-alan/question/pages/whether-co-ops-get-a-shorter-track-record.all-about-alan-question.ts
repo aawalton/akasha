@@ -6,4 +6,6 @@ export const whetherCoOpsGetAShorterTrackRecord = {
   slug: "whether-co-ops-get-a-shorter-track-record",
   topic: "all-about-alan-topic/which-organisations-i-trust",
   ask: "Does the duration condition relax for co-ops and member-owned bodies, structurally insulated from the pressure?",
+  createdAt: "2026-09-06T18:16:43.014Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

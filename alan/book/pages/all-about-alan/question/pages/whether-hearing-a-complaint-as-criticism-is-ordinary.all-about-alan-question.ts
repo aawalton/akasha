@@ -6,4 +6,6 @@ export const whetherHearingAComplaintAsCriticismIsOrdinary = {
   slug: "whether-hearing-a-complaint-as-criticism-is-ordinary",
   topic: "all-about-alan-topic/what-criticism-does-to-me",
   ask: "Is hearing a complaint as criticism the ordinary male version of that, or is it amplified by my bin?",
+  createdAt: "2026-09-06T18:12:46.085Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

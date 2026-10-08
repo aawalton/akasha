@@ -6,4 +6,6 @@ export const whetherAnniversariesEarnTheirKeepOnFunction = {
   slug: "whether-anniversaries-earn-their-keep-on-function",
   topic: "all-about-alan-topic/the-repeating-i-do-to-settle",
   ask: "Do anniversaries and traditions earn their keep on function alone, with no sentiment behind them?",
+  createdAt: "2026-09-06T18:04:04.904Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatArbitratesBetweenMyPresentAndFutureSelves = {
   slug: "what-arbitrates-between-my-present-and-future-selves",
   topic: "all-about-alan-topic/the-ones-i-have-not-been-yet",
   ask: "What arbitrates when my present self and a future self diverge, both being owed better treatment?",
+  createdAt: "2026-09-06T18:12:43.865Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

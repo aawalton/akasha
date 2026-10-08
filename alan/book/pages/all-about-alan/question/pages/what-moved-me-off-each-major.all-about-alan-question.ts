@@ -6,4 +6,6 @@ export const whatMovedMeOffEachMajor = {
   slug: "what-moved-me-off-each-major",
   topic: "all-about-alan-topic/how-i-came-out-of-computer-science",
   ask: "I went through eleven majors before ending on Math. What were they, and what moved me off each one?",
+  createdAt: "2026-09-06T18:11:08.818Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherDanceClassesBeganMyBodyControl = {
   slug: "whether-dance-classes-began-my-body-control",
   topic: "all-about-alan-topic/the-best-three-years",
   ask: "Are the dance classes I took in those three years the start of my body-control arc?",
+  createdAt: "2026-09-06T18:17:32.093Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

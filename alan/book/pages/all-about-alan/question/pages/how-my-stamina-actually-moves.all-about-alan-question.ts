@@ -6,4 +6,6 @@ export const howMyStaminaActuallyMoves = {
   slug: "how-my-stamina-actually-moves",
   topic: "all-about-alan-topic/stamina-bar",
   ask: "How does my stamina actually move: what sleep puts back, what the day takes out, and what fatigue, sleep debt, hunger and thirst do to the bar?",
+  createdAt: "2026-09-06T18:15:07.625Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

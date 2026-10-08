@@ -6,4 +6,6 @@ export const whatSeparatesACompoundFeelingICanAssemble = {
   slug: "what-separates-a-compound-feeling-i-can-assemble",
   topic: "all-about-alan-topic/the-feelings-i-can-name",
   ask: "What separates a compound feeling I can sometimes assemble from one I never can: the number of strokes, or which way its arc points?",
+  createdAt: "2026-09-06T18:06:17.380Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

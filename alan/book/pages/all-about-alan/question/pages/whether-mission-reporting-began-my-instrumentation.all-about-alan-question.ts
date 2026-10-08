@@ -6,4 +6,6 @@ export const whetherMissionReportingBeganMyInstrumentation = {
   slug: "whether-mission-reporting-began-my-instrumentation",
   topic: "all-about-alan-topic/the-chapters-of-my-life",
   ask: "Is the reporting I did on the mission where my self-instrumentation starts?",
+  createdAt: "2026-09-06T18:19:09.383Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

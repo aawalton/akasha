@@ -6,4 +6,6 @@ export const whetherConnectionDebtIsABar = {
   slug: "whether-connection-debt-is-a-bar",
   topic: "all-about-alan-topic/resource-bars",
   ask: "Connection debt tracks a need as the four bars do, but is shaped as a payable debt stock rather than a capacity buffer. Does connection debt belong inside the bar model or beside it?",
+  createdAt: "2026-09-06T18:04:41.364Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

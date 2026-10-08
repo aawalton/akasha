@@ -6,4 +6,6 @@ export const howLiveTheWayFromAnIdeaToAFeelingIs = {
   slug: "how-live-the-way-from-an-idea-to-a-feeling-is",
   topic: "all-about-alan-topic/getting-to-a-feeling-through-an-idea",
   ask: "How much of the way from an idea to a feeling is still live, measured by probing that way directly rather than worked out from anything nearby?",
+  createdAt: "2026-09-06T18:01:54.766Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const howStressLevelAndStressCapacitySeparate = {
   slug: "how-stress-level-and-stress-capacity-separate",
   topic: "all-about-alan-topic/health-bar",
   ask: "How do I separate stress level from stress capacity, given that one bar holds both and each runs on its own time scale?",
+  createdAt: "2026-09-06T18:03:02.554Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

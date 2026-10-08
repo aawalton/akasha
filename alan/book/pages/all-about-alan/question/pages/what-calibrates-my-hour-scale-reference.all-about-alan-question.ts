@@ -6,4 +6,6 @@ export const whatCalibratesMyHourScaleReference = {
   slug: "what-calibrates-my-hour-scale-reference",
   topic: "all-about-alan-topic/what-makes-an-hour-count",
   ask: "The reference the whole scale hangs off is an estimate. What do real scored hours calibrate that reference to, so that every score means something?",
+  createdAt: "2026-09-06T18:13:57.952Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

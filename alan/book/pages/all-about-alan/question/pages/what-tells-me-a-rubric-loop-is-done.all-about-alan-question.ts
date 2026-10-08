@@ -6,4 +6,6 @@ export const whatTellsMeARubricLoopIsDone = {
   slug: "what-tells-me-a-rubric-loop-is-done",
   topic: "all-about-alan-topic/how-i-decide",
   ask: "I iterate a rubric until it coheres. What tells me the loop is done: a fixed point where no pair flips, or something else?",
+  createdAt: "2026-09-06T18:13:15.754Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherTheLowFeelingHasItsOwnTimeConstant = {
   slug: "whether-the-low-feeling-has-its-own-time-constant",
   topic: "all-about-alan-topic/the-low-feeling-that-costs-me-a-level",
   ask: "Does the modifier have its own time constant, or does it track something else that has one?",
+  createdAt: "2026-09-06T18:09:56.511Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherTheWomenAndMenParallelGeneralises = {
   slug: "whether-the-women-and-men-parallel-generalises",
   topic: "all-about-alan-topic/where-i-land-on-gender",
   ask: "Does the parallel with how women are placed against men generalise beyond this one instance?",
+  createdAt: "2026-09-06T18:08:53.363Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

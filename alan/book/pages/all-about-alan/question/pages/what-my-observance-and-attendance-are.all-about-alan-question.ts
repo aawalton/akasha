@@ -6,4 +6,6 @@ export const whatMyObservanceAndAttendanceAre = {
   slug: "what-my-observance-and-attendance-are",
   topic: "all-about-alan-topic/how-i-practise-my-faith",
   ask: "What are my observance and my attendance at present?",
+  createdAt: "2026-09-06T18:07:36.918Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

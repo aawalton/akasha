@@ -6,4 +6,6 @@ export const whatWouldMoveMySecondAxis = {
   slug: "what-would-move-my-second-axis",
   topic: "all-about-alan-topic/when-it-actually-lands",
   ask: "One paired reading of me is high on its first axis and negative on its second. What would move the second: keeping the lens on me with a real arousal axis, or a deeper bond level?",
+  createdAt: "2026-09-06T18:17:51.805Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whichWordsBecomeALevelsCue = {
   slug: "which-words-become-a-levels-cue",
   topic: "all-about-alan-topic/how-i-remember-anything",
   ask: "When I split a passage into levels, what makes one word rather than another become the cue for a level?",
+  createdAt: "2026-09-06T18:01:26.007Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const howLongICanWearEarbuds = {
   slug: "how-long-i-can-wear-earbuds",
   topic: "all-about-alan-topic/how-i-keep-sound-down",
   ask: "How many hours can I wear the earbuds before the earbud pressure costs me more than the noise would?",
+  createdAt: "2026-09-06T18:03:11.935Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

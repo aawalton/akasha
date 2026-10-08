@@ -6,4 +6,6 @@ export const whatMaskingNoiseSavesMe = {
   slug: "what-masking-noise-saves-me",
   topic: "all-about-alan-topic/how-i-keep-sound-down",
   ask: "What number does the masking noise I put over the top actually save me, beyond that the masking noise helps a lot?",
+  createdAt: "2026-09-06T18:03:11.936Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatGroundMyCentreBeliefRestsOn = {
   slug: "what-ground-my-centre-belief-rests-on",
   topic: "all-about-alan-topic/testing-the-thing-at-my-centre",
   ask: "I have never stated the ground straight out. What positive ground does the belief at my centre rest on, now that because-an-authority-says-so is gone?",
+  createdAt: "2026-09-06T18:16:57.619Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

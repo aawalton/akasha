@@ -6,4 +6,6 @@ export const whereNotForkingAPretendSelfClosesAMethod = {
   slug: "where-not-forking-a-pretend-self-closes-a-method",
   topic: "all-about-alan-topic/building-a-people-skill-by-hand",
   ask: "I cannot fork a pretend self off the one map I am living. Where else does that close a method for me, beyond rehearsing a conversation?",
+  createdAt: "2026-09-06T18:07:58.076Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

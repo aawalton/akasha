@@ -6,4 +6,6 @@ export const whichRootAxiomsLiePastTheTwo = {
   slug: "which-root-axioms-lie-past-the-two",
   topic: "all-about-alan-topic/what-i-think-truth-is",
   ask: "Which root axioms lie past growing toward truth and a sentient being's experience mattering, and does ethics derive from those axioms?",
+  createdAt: "2026-09-06T18:09:54.183Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

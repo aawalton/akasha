@@ -6,4 +6,6 @@ export const whatEndedMyLearningDecade = {
   slug: "what-ended-my-learning-decade",
   topic: "all-about-alan-topic/playing-the-long-game",
   ask: "What ended my learning decade and started the harness decade, and was the meta-skill judged enough or did life force the switch?",
+  createdAt: "2026-09-06T18:15:51.688Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

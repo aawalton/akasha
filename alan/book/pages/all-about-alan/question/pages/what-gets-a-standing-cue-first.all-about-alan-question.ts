@@ -6,4 +6,6 @@ export const whatGetsAStandingCueFirst = {
   slug: "what-gets-a-standing-cue-first",
   topic: "all-about-alan-topic/building-my-wants-into-the-room",
   ask: "As my surroundings widen again after the years I could not afford them, what gets a standing cue first, and what orders the rebuild?",
+  createdAt: "2026-09-06T18:09:23.280Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

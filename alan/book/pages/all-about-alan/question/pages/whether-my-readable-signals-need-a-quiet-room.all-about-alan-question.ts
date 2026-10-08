@@ -6,4 +6,6 @@ export const whetherMyReadableSignalsNeedAQuietRoom = {
   slug: "whether-my-readable-signals-need-a-quiet-room",
   topic: "all-about-alan-topic/not-wanting-to-is-the-gauge",
   ask: "Do my readable signals need a quiet room, since a quiet signal loses the attention competition in a loud one?",
+  createdAt: "2026-09-06T18:14:40.641Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

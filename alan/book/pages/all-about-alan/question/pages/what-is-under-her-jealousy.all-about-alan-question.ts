@@ -6,4 +6,6 @@ export const whatIsUnderHerJealousy = {
   slug: "what-is-under-her-jealousy",
   topic: "all-about-alan-topic/working-out-how-she-thinks",
   ask: "What I have is the wanting to know, not a model. What is the psychology under Jen's jealousy, which feels excessive to me?",
+  createdAt: "2026-09-06T18:17:13.989Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

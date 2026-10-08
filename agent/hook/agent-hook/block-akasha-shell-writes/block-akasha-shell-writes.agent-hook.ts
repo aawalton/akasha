@@ -194,4 +194,6 @@ export const blockAkashaShellWrites = {
       statement: "A path a word represents lands in the same read-only checkout as a spelled path.",
     },
   ],
+  createdAt: "2026-08-29T19:05:22.841Z",
+  updatedAt: "2026-09-25T22:13:39.000Z",
 } as const satisfies AgentHook

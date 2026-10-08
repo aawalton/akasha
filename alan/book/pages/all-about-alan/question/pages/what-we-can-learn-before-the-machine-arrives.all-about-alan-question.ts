@@ -6,4 +6,6 @@ export const whatWeCanLearnBeforeTheMachineArrives = {
   slug: "what-we-can-learn-before-the-machine-arrives",
   topic: "all-about-alan-topic/getting-off-anthropic",
   ask: "How much of the household's re-training on local tooling can happen during the wait, so the switch costs less when the hardware lands?",
+  createdAt: "2026-09-21T21:55:46.579Z",
+  updatedAt: "2026-09-21T21:55:49.000Z",
 } as const satisfies AllAboutAlanQuestion

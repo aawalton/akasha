@@ -6,4 +6,6 @@ export const whatHappensWhenAPersonaTipsYellow = {
   slug: "what-happens-when-a-persona-tips-yellow",
   topic: "all-about-alan-topic/the-coloured-circles-i-run-on",
   ask: "When a persona of mine tips from green to yellow something changes in what I do. What is the step between the two colours?",
+  createdAt: "2026-09-06T18:20:13.317Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

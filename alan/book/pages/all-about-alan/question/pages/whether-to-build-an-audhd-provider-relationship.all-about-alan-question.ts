@@ -6,4 +6,6 @@ export const whetherToBuildAnAudhdProviderRelationship = {
   slug: "whether-to-build-an-audhd-provider-relationship",
   topic: "all-about-alan-topic/who-looks-after-our-health",
   ask: "Should we build an autism and ADHD provider relationship before Lizzy and Joseph are further into adolescence?",
+  createdAt: "2026-09-21T20:23:51.609Z",
+  updatedAt: "2026-09-21T20:23:55.000Z",
 } as const satisfies AllAboutAlanQuestion

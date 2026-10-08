@@ -6,4 +6,6 @@ export const whyIWaitFiveMinutesAfterAHandwash = {
   slug: "why-i-wait-five-minutes-after-a-handwash",
   topic: "all-about-alan-topic/keeping-my-hands-lotioned",
   ask: "Why do I wait five minutes after a handwash rather than two or ten, and is that skin biology or just where I landed?",
+  createdAt: "2026-09-06T18:07:12.443Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

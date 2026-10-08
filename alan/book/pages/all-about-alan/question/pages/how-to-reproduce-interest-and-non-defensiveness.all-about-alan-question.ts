@@ -6,4 +6,6 @@ export const howToReproduceInterestAndNonDefensiveness = {
   slug: "how-to-reproduce-interest-and-non-defensiveness",
   topic: "all-about-alan-topic/being-known",
   ask: "How do I reproduce real interest and non-defensiveness on purpose, when both live in the other person?",
+  createdAt: "2026-09-06T18:04:01.729Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

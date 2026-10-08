@@ -6,4 +6,6 @@ export const howIWillJudgeALocalModelSufficient = {
   slug: "how-i-will-judge-a-local-model-sufficient",
   topic: "all-about-alan-topic/getting-off-anthropic",
   ask: "Which open-weights models do I test, on which of my real workloads, against what success criteria? The testing step needs a concrete rubric before it runs.",
+  createdAt: "2026-09-21T21:55:23.086Z",
+  updatedAt: "2026-09-21T21:55:26.000Z",
 } as const satisfies AllAboutAlanQuestion

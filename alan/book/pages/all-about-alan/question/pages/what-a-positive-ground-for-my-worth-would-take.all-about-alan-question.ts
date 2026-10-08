@@ -6,4 +6,6 @@ export const whatAPositiveGroundForMyWorthWouldTake = {
   slug: "what-a-positive-ground-for-my-worth-would-take",
   topic: "all-about-alan-topic/the-proof-that-i-am-worth-something",
   ask: "What would asserting the front half take, a positive ground rather than a parity, given that the ethics candidate on the table shares the same gap?",
+  createdAt: "2026-09-06T18:03:29.665Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

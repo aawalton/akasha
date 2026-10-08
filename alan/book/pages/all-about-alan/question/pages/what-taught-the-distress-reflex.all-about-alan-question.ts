@@ -6,4 +6,6 @@ export const whatTaughtTheDistressReflex = {
   slug: "what-taught-the-distress-reflex",
   topic: "all-about-alan-topic/why-someone-elses-distress-alarms-me",
   ask: "The reflex was in place by six and nothing about the training is recoverable. Could family accounts or the shape of the schedule recover what taught the reflex?",
+  createdAt: "2026-09-06T18:14:38.889Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

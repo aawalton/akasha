@@ -6,4 +6,6 @@ export const whetherMakingThingsWithTheGirlsQuietsTheAlarm = {
   slug: "whether-making-things-with-the-girls-quiets-the-alarm",
   topic: "all-about-alan-topic/why-making-things-hurts",
   ask: "Does making things alongside the girls raise safety enough to quiet the alarm?",
+  createdAt: "2026-09-06T18:11:52.502Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

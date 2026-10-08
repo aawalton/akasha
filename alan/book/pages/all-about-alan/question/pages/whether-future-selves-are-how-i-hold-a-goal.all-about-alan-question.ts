@@ -6,4 +6,6 @@ export const whetherFutureSelvesAreHowIHoldAGoal = {
   slug: "whether-future-selves-are-how-i-hold-a-goal",
   topic: "all-about-alan-topic/rules-instead-of-a-brake",
   ask: "Treating future selves as people with a claim on me is how I guard against myself. Is that treatment also how I hold a goal at all, given nothing in me pictures a future?",
+  createdAt: "2026-09-06T18:05:26.452Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

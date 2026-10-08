@@ -6,4 +6,6 @@ export const whetherTheTwoLacksTakeTwoKindsOfSister = {
   slug: "whether-the-two-lacks-take-two-kinds-of-sister",
   topic: "all-about-alan-topic/when-a-part-of-me-needs-its-own-face",
   ask: "Does a part I cannot see need one of the ones who ask me things, where a part I am not tending needs one of the ones who work on me below words?",
+  createdAt: "2026-09-21T20:05:53.475Z",
+  updatedAt: "2026-09-21T20:05:57.000Z",
 } as const satisfies AllAboutAlanQuestion

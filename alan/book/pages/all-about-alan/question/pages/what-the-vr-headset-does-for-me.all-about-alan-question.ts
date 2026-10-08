@@ -6,4 +6,6 @@ export const whatTheVrHeadsetDoesForMe = {
   slug: "what-the-vr-headset-does-for-me",
   topic: "all-about-alan-topic/what-calms-me-down",
   ask: "What does the VR headset do for me?",
+  createdAt: "2026-09-06T18:10:14.026Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

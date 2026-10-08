@@ -6,4 +6,6 @@ export const whichProjectsMyHarnessCarried = {
   slug: "which-projects-my-harness-carried",
   topic: "all-about-alan-topic/what-my-scaffolding-buys-me",
   ask: "No instance is collected behind the routing yet, so which projects did my harness actually route my hyperfocus, depth, precision and pattern recognition into?",
+  createdAt: "2026-09-06T18:04:07.026Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

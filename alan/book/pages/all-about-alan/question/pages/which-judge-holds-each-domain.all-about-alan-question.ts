@@ -6,4 +6,6 @@ export const whichJudgeHoldsEachDomain = {
   slug: "which-judge-holds-each-domain",
   topic: "all-about-alan-topic/where-the-scar-ends",
   ask: "Per domain, which judge holds it, which event installed it and in what era. Making by hand is one fortress with its own founding date, and the list is askable one at a time.",
+  createdAt: "2026-09-21T21:38:50.438Z",
+  updatedAt: "2026-09-21T21:38:54.000Z",
 } as const satisfies AllAboutAlanQuestion

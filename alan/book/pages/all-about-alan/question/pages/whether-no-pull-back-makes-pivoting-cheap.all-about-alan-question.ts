@@ -6,4 +6,6 @@ export const whetherNoPullBackMakesPivotingCheap = {
   slug: "whether-no-pull-back-makes-pivoting-cheap",
   topic: "all-about-alan-topic/how-i-get-anything-done",
   ask: "Is having no pull back toward the past what makes both pivoting cheap and letting an impulse pass easy?",
+  createdAt: "2026-09-06T18:14:46.221Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

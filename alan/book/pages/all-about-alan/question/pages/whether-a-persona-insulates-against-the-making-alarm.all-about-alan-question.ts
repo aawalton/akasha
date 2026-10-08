@@ -6,4 +6,6 @@ export const whetherAPersonaInsulatesAgainstTheMakingAlarm = {
   slug: "whether-a-persona-insulates-against-the-making-alarm",
   topic: "all-about-alan-topic/what-a-persona-makes-cheaper",
   ask: "Do the personas insulate me against the alarm on making things, along the same ramp?",
+  createdAt: "2026-09-06T18:09:41.897Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

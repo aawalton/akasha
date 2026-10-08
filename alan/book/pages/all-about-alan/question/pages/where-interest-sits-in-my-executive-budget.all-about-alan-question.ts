@@ -6,4 +6,6 @@ export const whereInterestSitsInMyExecutiveBudget = {
   slug: "where-interest-sits-in-my-executive-budget",
   topic: "all-about-alan-topic/what-i-let-myself-take-on",
   ask: "Does interest add to what my executive function can spend, bypass that budget, or come out of that budget?",
+  createdAt: "2026-09-06T18:06:18.698Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

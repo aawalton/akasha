@@ -6,4 +6,6 @@ export const whetherMyDeliveryProjectsCertainty = {
   slug: "whether-my-delivery-projects-certainty",
   topic: "all-about-alan-topic/how-i-come-across",
   ask: "Does my flat, proof-shaped delivery project near-certainty, so that a tentative idea of mine lands as a challenge?",
+  createdAt: "2026-09-06T18:12:53.992Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

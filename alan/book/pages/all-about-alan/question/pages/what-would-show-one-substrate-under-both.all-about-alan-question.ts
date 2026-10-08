@@ -6,4 +6,6 @@ export const whatWouldShowOneSubstrateUnderBoth = {
   slug: "what-would-show-one-substrate-under-both",
   topic: "all-about-alan-topic/two-conditions-or-one",
   ask: "What would confirm or rule out one substrate under both my autism and my ADHD, and do the two come apart cleanly?",
+  createdAt: "2026-09-06T18:05:30.763Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

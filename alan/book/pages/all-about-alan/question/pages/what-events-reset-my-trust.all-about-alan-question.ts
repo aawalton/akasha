@@ -6,4 +6,6 @@ export const whatEventsResetMyTrust = {
   slug: "what-events-reset-my-trust",
   topic: "all-about-alan-topic/how-i-grade-an-organisation",
   ask: "What should my research prompt look for among the events that reset trust: a founder selling, a flotation, a change of leadership, a rewritten mission?",
+  createdAt: "2026-09-06T18:01:28.873Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

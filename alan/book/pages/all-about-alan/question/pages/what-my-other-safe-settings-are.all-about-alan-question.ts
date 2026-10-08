@@ -6,4 +6,6 @@ export const whatMyOtherSafeSettingsAre = {
   slug: "what-my-other-safe-settings-are",
   topic: "all-about-alan-topic/building-a-setting-i-can-be-safe-in",
   ask: "What are my settings I can be safe in beyond the text rig, which is the one worked so far?",
+  createdAt: "2026-09-06T18:08:49.731Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

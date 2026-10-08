@@ -6,4 +6,6 @@ export const whatSaysAQuakeHasDischarged = {
   slug: "what-says-a-quake-has-discharged",
   topic: "all-about-alan-topic/how-understanding-arrives",
   ask: "When quakes fire close together, is there a pattern to how many and how fast, and what tells me the pressure has discharged rather than gone into a wrong model?",
+  createdAt: "2026-09-06T18:04:33.702Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

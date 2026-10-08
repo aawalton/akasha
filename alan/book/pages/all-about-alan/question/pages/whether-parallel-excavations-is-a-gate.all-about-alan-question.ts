@@ -6,4 +6,6 @@ export const whetherParallelExcavationsIsAGate = {
   slug: "whether-parallel-excavations-is-a-gate",
   topic: "all-about-alan-topic/how-i-read-my-safety-level",
   ask: "Is running parallel excavations another gate, or was that one good day?",
+  createdAt: "2026-09-06T18:08:40.409Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

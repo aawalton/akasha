@@ -6,4 +6,6 @@ export const whetherMyDistanceEstimatesHaveSettled = {
   slug: "whether-my-distance-estimates-have-settled",
   topic: "all-about-alan-topic/how-different-i-actually-am",
   ask: "Does each revision still turn up more distance between me and most people, or have my estimates begun to settle?",
+  createdAt: "2026-09-06T18:07:35.254Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

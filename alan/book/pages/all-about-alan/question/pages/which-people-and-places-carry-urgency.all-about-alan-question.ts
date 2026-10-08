@@ -6,4 +6,6 @@ export const whichPeopleAndPlacesCarryUrgency = {
   slug: "which-people-and-places-carry-urgency",
   topic: "all-about-alan-topic/how-i-keep-urgency-out",
   ask: "Which people and which places fail my ambient-pressure filter, worked through as an example?",
+  createdAt: "2026-09-06T18:03:55.741Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

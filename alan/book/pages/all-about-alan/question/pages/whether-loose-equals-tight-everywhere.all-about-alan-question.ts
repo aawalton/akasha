@@ -6,4 +6,6 @@ export const whetherLooseEqualsTightEverywhere = {
   slug: "whether-loose-equals-tight-everywhere",
   topic: "all-about-alan-topic/keeping-my-skin-off-my-skin",
   ask: "Does a loose layer really equal a tight one everywhere, or do certain places do better with one than with the other?",
+  createdAt: "2026-09-06T18:08:19.985Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

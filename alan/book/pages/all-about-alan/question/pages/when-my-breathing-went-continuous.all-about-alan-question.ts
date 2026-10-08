@@ -6,4 +6,6 @@ export const whenMyBreathingWentContinuous = {
   slug: "when-my-breathing-went-continuous",
   topic: "all-about-alan-topic/how-i-actually-breathe",
   ask: "My breathing started with a phone call from Germany and is now most of my waking day, twenty years on. When did the cadence settle, and when did it go continuous?",
+  createdAt: "2026-09-06T18:10:32.827Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

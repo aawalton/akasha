@@ -6,4 +6,6 @@ export const whetherICanHoldAFalseBelief = {
   slug: "whether-i-can-hold-a-false-belief",
   topic: "all-about-alan-topic/re-opening-what-i-took-in-whole",
   ask: "Am I unable to build a false belief at all, or only unable to hold one against my own truth-detector? The holding end is unprobed, so which is it?",
+  createdAt: "2026-09-06T18:04:10.929Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatWouldMonitorIntellectualIntimacy = {
   slug: "what-would-monitor-intellectual-intimacy",
   topic: "all-about-alan-topic/my-rules-about-other-women",
   ask: "What monitor could I add for unguarded intellectual intimacy, the one channel my bright lines do not catch because I cannot feel myself entering it?",
+  createdAt: "2026-09-21T21:42:54.570Z",
+  updatedAt: "2026-09-21T21:42:57.000Z",
 } as const satisfies AllAboutAlanQuestion

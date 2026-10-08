@@ -6,4 +6,6 @@ export const whetherLonelinessChargesMyBodyARent = {
   slug: "whether-loneliness-charges-my-body-a-rent",
   topic: "all-about-alan-topic/being-alone-at-the-centre",
   ask: "Does the loneliness charge my body a rent my mind never sees, even with my attention fully off the loneliness?",
+  createdAt: "2026-09-06T18:01:28.046Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

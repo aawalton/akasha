@@ -61,4 +61,6 @@ export const blockBiome = {
       statement: "A biome write reaches akasha content with no commit.",
     },
   ],
+  createdAt: "2026-08-29T18:54:47.609Z",
+  updatedAt: "2026-09-25T15:56:43.000Z",
 } as const satisfies AgentHook

@@ -6,4 +6,6 @@ export const whatChoosesBetweenRewritingAndGrinding = {
   slug: "what-chooses-between-rewriting-and-grinding",
   topic: "all-about-alan-topic/nothing-i-do-starts-with-a-decision",
   ask: "When something fires a project to change my own triggers, what decides between rewriting the causes and grinding the response down?",
+  createdAt: "2026-09-06T18:13:11.713Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

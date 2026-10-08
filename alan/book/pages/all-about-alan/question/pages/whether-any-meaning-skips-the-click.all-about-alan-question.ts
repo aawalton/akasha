@@ -6,4 +6,6 @@ export const whetherAnyMeaningSkipsTheClick = {
   slug: "whether-any-meaning-skips-the-click",
   topic: "all-about-alan-topic/when-something-starts-to-mean-something",
   ask: "Does any meaning arrive straight off a thing in front of me with no click in it, or does every meaning of mine route through the click?",
+  createdAt: "2026-09-06T18:05:43.895Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

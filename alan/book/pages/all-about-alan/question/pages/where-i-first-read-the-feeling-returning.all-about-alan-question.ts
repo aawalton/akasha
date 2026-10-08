@@ -6,4 +6,6 @@ export const whereIFirstReadTheFeelingReturning = {
   slug: "where-i-first-read-the-feeling-returning",
   topic: "all-about-alan-topic/what-praying-does-for-me",
   ask: "If the feeling returns as my safety rises, is prayer where I first read that return, and what does the settling feel like then?",
+  createdAt: "2026-09-06T18:06:17.339Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

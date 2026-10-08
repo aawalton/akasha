@@ -6,4 +6,6 @@ export const whatOurImageryGapDoes = {
   slug: "what-our-imagery-gap-does",
   topic: "all-about-alan-topic/working-out-how-she-thinks",
   ask: "Jen is at the opposite pole from me on imagery. What does that gap do to co-regulation, planning and disagreement between us?",
+  createdAt: "2026-09-06T18:17:13.990Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

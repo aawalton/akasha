@@ -6,4 +6,6 @@ export const whetherAStoryDrainsTheBacklog = {
   slug: "whether-a-story-drains-the-backlog",
   topic: "all-about-alan-topic/letting-a-feeling-in-through-a-story",
   ask: "Between draining and relieving I hold a spread rather than a verdict. Does a story drain my backlog of suppressed feeling, or only relieve the backlog until it refills?",
+  createdAt: "2026-09-06T18:09:38.446Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

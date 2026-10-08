@@ -6,4 +6,6 @@ export const whetherTheWinIsGrepOrTheFileShape = {
   slug: "whether-the-win-is-grep-or-the-file-shape",
   topic: "all-about-alan-topic/why-i-keep-my-data-in-files",
   ask: "Is the win grep itself, or the shape I gave the files?",
+  createdAt: "2026-09-06T18:09:41.916Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

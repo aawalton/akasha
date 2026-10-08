@@ -6,4 +6,6 @@ export const whenPractisingAnEmotionalConflictBecomesAffordable = {
   slug: "when-practising-an-emotional-conflict-becomes-affordable",
   topic: "all-about-alan-topic/practising-closeness-somewhere-safe",
   ask: "I keep the rig to conceptual disagreement for now. At what fidelity, and at what safety, does practising an emotional conflict become affordable?",
+  createdAt: "2026-09-06T18:16:58.320Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

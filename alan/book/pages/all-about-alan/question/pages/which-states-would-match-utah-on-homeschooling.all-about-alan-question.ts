@@ -6,4 +6,6 @@ export const whichStatesWouldMatchUtahOnHomeschooling = {
   slug: "which-states-would-match-utah-on-homeschooling",
   topic: "all-about-alan-topic/the-law-that-lets-us-homeschool",
   ask: "If Utah's homeschool friendliness erodes, which states match it, and what would each cost me in state tax to move to?",
+  createdAt: "2026-09-21T20:22:16.032Z",
+  updatedAt: "2026-09-21T20:22:19.000Z",
 } as const satisfies AllAboutAlanQuestion

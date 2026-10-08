@@ -6,4 +6,6 @@ export const whetherStayingWithOneStoneIsWhatCommitmentIs = {
   slug: "whether-staying-with-one-stone-is-what-commitment-is",
   topic: "all-about-alan-topic/loving-for-its-own-sake",
   ask: "Pure utility would trade one stone for a better one downstream, and I do not. Is staying with the irreplaceable what commitment is, read from outside?",
+  createdAt: "2026-09-21T21:48:31.403Z",
+  updatedAt: "2026-09-21T21:49:01.000Z",
 } as const satisfies AllAboutAlanQuestion

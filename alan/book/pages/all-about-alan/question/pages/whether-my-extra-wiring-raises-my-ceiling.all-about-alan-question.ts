@@ -6,4 +6,6 @@ export const whetherMyExtraWiringRaisesMyCeiling = {
   slug: "whether-my-extra-wiring-raises-my-ceiling",
   topic: "all-about-alan-topic/why-too-much-and-too-little-swap-over",
   ask: "Does the extra wiring raise my ceiling too, so more attention is available when the metering holds, or does the wiring only change what I draw at rest?",
+  createdAt: "2026-09-06T18:16:40.896Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

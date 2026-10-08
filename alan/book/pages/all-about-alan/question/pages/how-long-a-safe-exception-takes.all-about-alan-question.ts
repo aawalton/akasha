@@ -6,4 +6,6 @@ export const howLongASafeExceptionTakes = {
   slug: "how-long-a-safe-exception-takes",
   topic: "all-about-alan-topic/the-safety-ledger-i-keep-on-one-person",
   ask: "How long and how many safe exposures before one person banks an exception, and does it ever override the physiology prior or only soften it?",
+  createdAt: "2026-09-21T20:21:45.122Z",
+  updatedAt: "2026-09-21T20:21:48.000Z",
 } as const satisfies AllAboutAlanQuestion

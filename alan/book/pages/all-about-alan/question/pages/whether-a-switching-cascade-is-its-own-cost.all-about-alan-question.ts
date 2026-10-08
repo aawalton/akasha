@@ -6,4 +6,6 @@ export const whetherASwitchingCascadeIsItsOwnCost = {
   slug: "whether-a-switching-cascade-is-its-own-cost",
   topic: "all-about-alan-topic/getting-out-from-under-a-dependency",
   ask: "Switching one thing often forces switching another. Should that cascade be counted on its own rather than folded into switching cost?",
+  createdAt: "2026-09-06T18:01:34.864Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

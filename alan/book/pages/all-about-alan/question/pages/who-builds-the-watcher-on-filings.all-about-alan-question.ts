@@ -6,4 +6,6 @@ export const whoBuildsTheWatcherOnFilings = {
   slug: "who-builds-the-watcher-on-filings",
   topic: "all-about-alan-topic/when-a-company-changes-hands",
   ask: "Nothing tells me a company changed hands but the service getting worse. My framework names a watcher reading filings and governance on a schedule, so who builds that watcher?",
+  createdAt: "2026-09-06T18:15:35.290Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

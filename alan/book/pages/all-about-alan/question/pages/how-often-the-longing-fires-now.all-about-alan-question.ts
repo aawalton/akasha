@@ -6,4 +6,6 @@ export const howOftenTheLongingFiresNow = {
   slug: "how-often-the-longing-fires-now",
   topic: "all-about-alan-topic/what-has-kept-me-here",
   ask: "How often does the longing fire now, and is the guardrail ever tested in the present rather than only historically?",
+  createdAt: "2026-09-06T18:15:55.367Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

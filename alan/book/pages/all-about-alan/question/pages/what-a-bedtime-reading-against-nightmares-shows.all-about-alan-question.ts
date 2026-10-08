@@ -6,4 +6,6 @@ export const whatABedtimeReadingAgainstNightmaresShows = {
   slug: "what-a-bedtime-reading-against-nightmares-shows",
   topic: "all-about-alan-topic/what-happens-when-i-sleep",
   ask: "What would a measured bedtime reading against my nightmare frequency show, and would that reading make a long-held observation falsifiable?",
+  createdAt: "2026-09-06T18:14:04.073Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

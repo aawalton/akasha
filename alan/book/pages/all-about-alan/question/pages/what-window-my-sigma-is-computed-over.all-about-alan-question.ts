@@ -6,4 +6,6 @@ export const whatWindowMySigmaIsComputedOver = {
   slug: "what-window-my-sigma-is-computed-over",
   topic: "all-about-alan-topic/where-my-stoplight-anchors-sit",
   ask: "Is the sigma my bands are spaced by taken over a long baseline, or over a rolling recent window?",
+  createdAt: "2026-09-21T20:27:14.317Z",
+  updatedAt: "2026-09-21T20:27:23.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const howMuchOfMyContinuityMySystemsCarry = {
   slug: "how-much-of-my-continuity-my-systems-carry",
   topic: "all-about-alan-topic/the-three-seconds-i-am",
   ask: "How much of what feels like continuity across my projects is actually carried by the systems outside me, in place of the thread I do not have?",
+  createdAt: "2026-09-06T18:09:36.599Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

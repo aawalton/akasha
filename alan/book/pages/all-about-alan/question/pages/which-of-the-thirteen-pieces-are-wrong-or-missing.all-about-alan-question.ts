@@ -6,4 +6,6 @@ export const whichOfTheThirteenPiecesAreWrongOrMissing = {
   slug: "which-of-the-thirteen-pieces-are-wrong-or-missing",
   topic: "all-about-alan-topic/working-out-what-love-is",
   ask: "The list of thirteen pieces stays provisional. Which entries are wrong, and which pieces of love are missing from the list?",
+  createdAt: "2026-09-06T18:17:49.724Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

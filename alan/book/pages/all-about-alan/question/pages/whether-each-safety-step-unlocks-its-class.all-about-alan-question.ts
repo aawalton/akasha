@@ -6,4 +6,6 @@ export const whetherEachSafetyStepUnlocksItsClass = {
   slug: "whether-each-safety-step-unlocks-its-class",
   topic: "all-about-alan-topic/where-safety-has-got-to",
   ask: "Read as recovery milestones rather than numbers, does each step in the one-sigma low unlock its named class: conflict bearable at 4, criticism bearable at 5, conflict recurringly initiate-able at 4?",
+  createdAt: "2026-09-06T18:10:34.921Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

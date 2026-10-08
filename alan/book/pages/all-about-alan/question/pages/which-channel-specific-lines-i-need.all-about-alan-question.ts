@@ -6,4 +6,6 @@ export const whichChannelSpecificLinesINeed = {
   slug: "which-channel-specific-lines-i-need",
   topic: "all-about-alan-topic/my-rules-about-other-women",
   ask: "Which channel-specific lines do I need, given that writing or voice shifts the risk in ways my map does not cover?",
+  createdAt: "2026-09-06T18:11:45.095Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

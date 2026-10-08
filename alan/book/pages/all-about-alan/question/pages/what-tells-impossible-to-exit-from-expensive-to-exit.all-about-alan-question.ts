@@ -6,4 +6,6 @@ export const whatTellsImpossibleToExitFromExpensiveToExit = {
   slug: "what-tells-impossible-to-exit-from-expensive-to-exit",
   topic: "all-about-alan-topic/getting-out-from-under-a-dependency",
   ask: "What tells impossible to exit apart from expensive to exit, given that the difference decides whether I leave or pay?",
+  createdAt: "2026-09-06T18:01:34.864Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

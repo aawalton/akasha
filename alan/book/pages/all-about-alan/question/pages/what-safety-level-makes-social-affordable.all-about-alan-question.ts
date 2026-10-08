@@ -6,4 +6,6 @@ export const whatSafetyLevelMakesSocialAffordable = {
   slug: "what-safety-level-makes-social-affordable",
   topic: "all-about-alan-topic/practising-closeness-somewhere-safe",
   ask: "I am waiting for my safety to make social affordable. Which of the nine gates is that line, and how will I know when my safety has reached the line?",
+  createdAt: "2026-09-06T18:25:19.831Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

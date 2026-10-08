@@ -6,4 +6,6 @@ export const whetherSelfImprovementIsRootOrInstance = {
   slug: "whether-self-improvement-is-root-or-instance",
   topic: "all-about-alan-topic/self-improvement",
   ask: "Is self-improvement the root with compression an instance of it, or is compression the root with self-improvement the instance?",
+  createdAt: "2026-09-06T18:08:48.424Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

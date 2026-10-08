@@ -6,4 +6,6 @@ export const whatDemotesAnActivityHalfwayThrough = {
   slug: "what-demotes-an-activity-halfway-through",
   topic: "all-about-alan-topic/when-something-is-fun",
   ask: "What demotes an activity halfway through, and can the activity be promoted back inside the same sitting?",
+  createdAt: "2026-09-06T18:05:06.773Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

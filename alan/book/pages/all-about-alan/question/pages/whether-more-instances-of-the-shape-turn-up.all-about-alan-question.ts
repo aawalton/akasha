@@ -6,4 +6,6 @@ export const whetherMoreInstancesOfTheShapeTurnUp = {
   slug: "whether-more-instances-of-the-shape-turn-up",
   topic: "all-about-alan-topic/where-i-stand-like-a-woman-does",
   ask: "Beyond women against men and autistic against everyone else, do further instances of the shape turn up, making the parallel a thing of its own rather than one comparison?",
+  createdAt: "2026-09-06T18:09:12.078Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherTheSensoryStackMadeTheBedroomWork = {
   slug: "whether-the-sensory-stack-made-the-bedroom-work",
   topic: "all-about-alan-topic/sharing-a-bed",
   ask: "Is my sensory stack what made the shared bedroom survivable, or does the stack only accompany the bedroom being survivable?",
+  createdAt: "2026-09-06T18:09:55.282Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

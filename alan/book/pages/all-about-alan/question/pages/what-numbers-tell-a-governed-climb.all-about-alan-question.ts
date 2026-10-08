@@ -6,4 +6,6 @@ export const whatNumbersTellAGovernedClimb = {
   slug: "what-numbers-tell-a-governed-climb",
   topic: "all-about-alan-topic/why-climbing-sets-off-the-fall",
   ask: "What tells a governed climb from an ungoverned one in numbers, as a dose curve and a duration?",
+  createdAt: "2026-09-06T18:04:36.944Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

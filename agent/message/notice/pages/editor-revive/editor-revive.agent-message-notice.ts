@@ -7,4 +7,6 @@ export const editorRevive = {
   text: "md",
   warrant:
     "Goes to a seat Alan brings back from the Agents panel in his editor. He is at the keyboard when it is composed, so a failure to compose it refuses the revive and tells him rather than reviving a seat with nothing to say to it.",
+  createdAt: "2026-09-03T17:50:10.595Z",
+  updatedAt: "2026-09-22T17:37:14.000Z",
 } as const satisfies AgentMessageNotice

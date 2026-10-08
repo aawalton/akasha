@@ -6,4 +6,6 @@ export const whetherMeaningFadesOnceAThingIsUnderstood = {
   slug: "whether-meaning-fades-once-a-thing-is-understood",
   topic: "all-about-alan-topic/when-something-starts-to-mean-something",
   ask: "Once a thing is fully understood and nothing is resolving any more, does the meaning fade, hold steady, or need re-engaging to fire again?",
+  createdAt: "2026-09-06T18:05:43.894Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

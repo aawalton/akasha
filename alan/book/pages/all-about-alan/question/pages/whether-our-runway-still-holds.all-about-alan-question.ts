@@ -6,4 +6,6 @@ export const whetherOurRunwayStillHolds = {
   slug: "whether-our-runway-still-holds",
   topic: "all-about-alan-topic/the-money-we-are-living-on",
   ask: "The runway has not been recomputed since retiring, the trip and the new arrangement. Does the eight to eighteen years still hold?",
+  createdAt: "2026-09-06T18:10:59.810Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

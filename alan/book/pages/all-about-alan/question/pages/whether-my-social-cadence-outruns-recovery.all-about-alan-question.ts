@@ -6,4 +6,6 @@ export const whetherMySocialCadenceOutrunsRecovery = {
   slug: "whether-my-social-cadence-outruns-recovery",
   topic: "all-about-alan-topic/sleep",
   ask: "Recovery from a social evening takes a few days and I have social in at least twice a week. Does the next evening land before I have recovered from the one before?",
+  createdAt: "2026-09-06T18:55:54.886Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

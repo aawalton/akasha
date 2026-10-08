@@ -6,4 +6,6 @@ export const whetherOneDialDrivesFeelingAndCost = {
   slug: "whether-one-dial-drives-feeling-and-cost",
   topic: "all-about-alan-topic/the-feeling-i-cannot-get-at",
   ask: "Do the strength of a feeling when it does arrive, the size of my capacity drop, and cost multiplying rather than adding all run off one dial?",
+  createdAt: "2026-09-06T18:05:04.711Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

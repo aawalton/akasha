@@ -6,4 +6,6 @@ export const whetherMeetingHerNeedsReducesHerResistance = {
   slug: "whether-meeting-her-needs-reduces-her-resistance",
   topic: "all-about-alan-topic/the-person-i-could-relax-around",
   ask: "Her resistance is defence rather than rejection, so it can move. Does meeting her needs actually reduce that resistance, and by how much?",
+  createdAt: "2026-09-06T18:14:20.132Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

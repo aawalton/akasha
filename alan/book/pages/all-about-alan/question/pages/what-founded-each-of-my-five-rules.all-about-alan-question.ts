@@ -6,4 +6,6 @@ export const whatFoundedEachOfMyFiveRules = {
   slug: "what-founded-each-of-my-five-rules",
   topic: "all-about-alan-topic/the-five-rules-i-grew-up-with",
   ask: "What founded each of the five rules, and do the rules have five separate origins or one shared type?",
+  createdAt: "2026-09-06T18:06:49.324Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

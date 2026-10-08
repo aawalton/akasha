@@ -6,4 +6,6 @@ export const whatTheSsdiRulesAskOfThoseAccounts = {
   slug: "what-the-ssdi-rules-ask-of-those-accounts",
   topic: "all-about-alan-topic/where-the-government-touches-me",
   ask: "What do the disability rules actually require of the savings accounts I hold for relatives, and where would we breach them?",
+  createdAt: "2026-09-21T20:13:24.185Z",
+  updatedAt: "2026-09-21T20:13:27.000Z",
 } as const satisfies AllAboutAlanQuestion

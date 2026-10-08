@@ -6,4 +6,6 @@ export const whichYearsExecutiveFunctionWasMyBottleneck = {
   slug: "which-years-executive-function-was-my-bottleneck",
   topic: "all-about-alan-topic/what-limits-me",
   ask: "Which years did executive function hold the bottleneck, and when did each restorer take effect?",
+  createdAt: "2026-09-06T18:13:07.132Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

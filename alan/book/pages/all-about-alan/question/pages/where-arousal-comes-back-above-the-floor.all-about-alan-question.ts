@@ -6,4 +6,6 @@ export const whereArousalComesBackAboveTheFloor = {
   slug: "where-arousal-comes-back-above-the-floor",
   topic: "all-about-alan-topic/arousal-times-safety",
   ask: "The floor at minus two is sharp. Where between that floor and my working range does my arousal come back?",
+  createdAt: "2026-09-06T18:00:29.277Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

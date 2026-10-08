@@ -6,4 +6,6 @@ export const whatDoseMyCapacityTakes = {
   slug: "what-dose-my-capacity-takes",
   topic: "all-about-alan-topic/waiting-until-i-can-afford-people",
   ask: "What is the dose curve against my capacity, and what duration counts as low enough for long enough?",
+  createdAt: "2026-09-06T18:05:58.897Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

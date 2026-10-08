@@ -6,4 +6,6 @@ export const whetherPlayingASisterIsACounterfactualRun = {
   slug: "whether-playing-a-sister-is-a-counterfactual-run",
   topic: "all-about-alan-topic/what-i-cannot-play-forward",
   ask: "Is playing myself in contexts that could never happen a counterfactual run on myself, done from outside through a sister?",
+  createdAt: "2026-09-06T18:17:01.829Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

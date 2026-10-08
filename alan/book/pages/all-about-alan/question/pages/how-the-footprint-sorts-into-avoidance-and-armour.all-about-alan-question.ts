@@ -6,4 +6,6 @@ export const howTheFootprintSortsIntoAvoidanceAndArmour = {
   slug: "how-the-footprint-sorts-into-avoidance-and-armour",
   topic: "all-about-alan-topic/where-the-scar-ends",
   ask: "Once the footprint is enumerated in full, how does the footprint sort into avoidance and armour?",
+  createdAt: "2026-09-06T18:11:10.276Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

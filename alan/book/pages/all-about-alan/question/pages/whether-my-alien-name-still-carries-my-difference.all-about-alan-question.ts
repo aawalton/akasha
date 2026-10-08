@@ -6,4 +6,6 @@ export const whetherMyAlienNameStillCarriesMyDifference = {
   slug: "whether-my-alien-name-still-carries-my-difference",
   topic: "all-about-alan-topic/how-a-song-reaches-me",
   ask: "I named myself with a play on my own name that came out as alien, and it surfaced in a song rather than in talk. Does that name still carry how I hold my difference?",
+  createdAt: "2026-09-06T18:06:21.836Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

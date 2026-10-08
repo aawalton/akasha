@@ -6,4 +6,6 @@ export const whetherIBuildTheCuriosityProsthesis = {
   slug: "whether-i-build-the-curiosity-prosthesis",
   topic: "all-about-alan-topic/being-curious-about-her",
   ask: "Do I build the drafted prosthesis, research the known ground, find the gaps, aim a question at the steepest one, as my first piece closed by porting a system rather than compiling a definition?",
+  createdAt: "2026-09-06T18:03:16.234Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

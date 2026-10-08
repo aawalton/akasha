@@ -6,4 +6,6 @@ export const whichTermDominatesMyConnectionAsymmetry = {
   slug: "which-term-dominates-my-connection-asymmetry",
   topic: "all-about-alan-topic/how-far-behind-i-am-on-people",
   ask: "Which term dominates the asymmetry: the depth damage, the general weighting, or the fidelity of the channel?",
+  createdAt: "2026-09-06T18:09:20.160Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

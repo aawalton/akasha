@@ -6,4 +6,6 @@ export const whetherAReflexBecomesBeliefReachable = {
   slug: "whether-a-reflex-becomes-belief-reachable",
   topic: "all-about-alan-topic/which-lever-reaches-a-response",
   ask: "Can a reflex quiet enough that thought arrives in time and the reflex becomes belief-reachable, or does the reflex only ever grow quieter and remain reflexive?",
+  createdAt: "2026-09-06T18:16:16.569Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whichUntriedCandidatesPauseMyBreathing = {
   slug: "which-untried-candidates-pause-my-breathing",
   topic: "all-about-alan-topic/what-interrupts-my-breathing",
   ask: "Do gum, drinking, a chest-strap monitor, sleeping face-down under weight, tight chest bands and an embrace held through a conversation each pause my breathing?",
+  createdAt: "2026-09-06T18:07:41.573Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

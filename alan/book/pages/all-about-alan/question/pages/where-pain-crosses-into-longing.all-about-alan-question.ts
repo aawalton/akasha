@@ -6,4 +6,6 @@ export const wherePainCrossesIntoLonging = {
   slug: "where-pain-crosses-into-longing",
   topic: "all-about-alan-topic/what-i-do-when-i-am-past-bearing",
   ask: "Where does pain cross into the kind that generates longing, and does that crossing move with my state or only with the pain?",
+  createdAt: "2026-09-06T18:04:21.370Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

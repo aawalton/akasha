@@ -6,4 +6,6 @@ export const whetherStructuredThinkingSurvivesLowCapacity = {
   slug: "whether-structured-thinking-survives-low-capacity",
   topic: "all-about-alan-topic/how-i-eat",
   ask: "Does other structured thinking of mine survive low capacity, or is balancing the macros a one-off?",
+  createdAt: "2026-09-06T18:13:56.954Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherPureThoughtCarriesAnyCharge = {
   slug: "whether-pure-thought-carries-any-charge",
   topic: "all-about-alan-topic/where-the-scar-ends",
   ask: "By the mind-not-hands rule pure thought should be the coolest ground, so does pure thought carry any charge at all?",
+  createdAt: "2026-09-06T18:11:10.276Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

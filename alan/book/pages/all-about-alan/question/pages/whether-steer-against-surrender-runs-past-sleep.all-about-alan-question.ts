@@ -6,4 +6,6 @@ export const whetherSteerAgainstSurrenderRunsPastSleep = {
   slug: "whether-steer-against-surrender-runs-past-sleep",
   topic: "all-about-alan-topic/the-pictures-at-the-edge-of-sleep",
   ask: "Does the steer-against-surrender axis run outside the sleep edge, through meditation and through how I handle feeling?",
+  createdAt: "2026-09-06T18:15:07.557Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

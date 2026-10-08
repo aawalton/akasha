@@ -6,4 +6,6 @@ export const whetherExpansionResumesWhenTheGaugeCrosses = {
   slug: "whether-expansion-resumes-when-the-gauge-crosses",
   topic: "all-about-alan-topic/waiting-until-i-can-afford-people",
   ask: "A calibrated hold and an avoidance built out of masking look the same from outside. Does my expansion actually resume once the gauge crosses?",
+  createdAt: "2026-09-06T18:05:58.895Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

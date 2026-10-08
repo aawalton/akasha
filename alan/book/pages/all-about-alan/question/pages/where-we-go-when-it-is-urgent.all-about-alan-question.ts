@@ -6,4 +6,6 @@ export const whereWeGoWhenItIsUrgent = {
   slug: "where-we-go-when-it-is-urgent",
   topic: "all-about-alan-topic/who-looks-after-our-health",
   ask: "Where do the five of us actually go for urgent care, for an emergency, and out of hours, and who does our eyes?",
+  createdAt: "2026-09-21T20:24:00.755Z",
+  updatedAt: "2026-09-21T20:24:04.000Z",
 } as const satisfies AllAboutAlanQuestion

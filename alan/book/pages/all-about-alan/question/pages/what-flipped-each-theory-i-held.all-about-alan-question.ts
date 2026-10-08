@@ -6,4 +6,6 @@ export const whatFlippedEachTheoryIHeld = {
   slug: "what-flipped-each-theory-i-held",
   topic: "all-about-alan-topic/how-i-know-things",
   ask: "Beyond the two flipped-theory cases on record, what were the other phases I went through and what flipped each phase?",
+  createdAt: "2026-09-06T18:04:37.020Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

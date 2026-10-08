@@ -6,4 +6,6 @@ export const whatClosingLooksLikeForNewsAndChats = {
   slug: "what-closing-looks-like-for-news-and-chats",
   topic: "all-about-alan-topic/shutting-a-channel-after-it-hurt-me",
   ask: "One channel has a worked shape. What is the shape for news, for chats and for a conversation that lands badly, given blocking or muting is weaker than deleting?",
+  createdAt: "2026-09-06T18:11:42.000Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

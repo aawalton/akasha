@@ -6,4 +6,6 @@ export const howMuchMarginIActuallyHave = {
   slug: "how-much-margin-i-actually-have",
   topic: "all-about-alan-topic/having-no-margin",
   ask: "How much margin do I actually have, and is margin worth measuring apart from what I can do at all?",
+  createdAt: "2026-09-06T18:02:45.829Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

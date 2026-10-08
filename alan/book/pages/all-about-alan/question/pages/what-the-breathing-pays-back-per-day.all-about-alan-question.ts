@@ -6,4 +6,6 @@ export const whatTheBreathingPaysBackPerDay = {
   slug: "what-the-breathing-pays-back-per-day",
   topic: "all-about-alan-topic/recovery-costs-what-it-restores",
   ask: "The breathing is written down as paying back a third of what both its own anchors give per day. Which figure is right?",
+  createdAt: "2026-09-06T18:03:24.882Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

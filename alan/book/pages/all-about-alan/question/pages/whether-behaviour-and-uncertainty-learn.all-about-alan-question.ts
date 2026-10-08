@@ -6,4 +6,6 @@ export const whetherBehaviourAndUncertaintyLearn = {
   slug: "whether-behaviour-and-uncertainty-learn",
   topic: "all-about-alan-topic/how-i-read-whether-someone-is-safe",
   ask: "Do the behaviour read and the uncertainty read learn person by person too, or does only the physiological read learn?",
+  createdAt: "2026-09-06T18:09:45.844Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -51,4 +51,6 @@ export const blockDestructiveGit = {
         "No git call in an agent's shell writes the checkout or its .git, which bwrap keeps read-only.",
     },
   ],
+  createdAt: "2026-08-29T15:15:13.920Z",
+  updatedAt: "2026-09-25T20:44:06.000Z",
 } as const satisfies AgentHook

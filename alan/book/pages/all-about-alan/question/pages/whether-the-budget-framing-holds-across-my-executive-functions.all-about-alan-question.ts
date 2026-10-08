@@ -6,4 +6,6 @@ export const whetherTheBudgetFramingHoldsAcrossMyExecutiveFunctions = {
   slug: "whether-the-budget-framing-holds-across-my-executive-functions",
   topic: "all-about-alan-topic/how-i-get-anything-done",
   ask: "The budget framing was drawn from part of my executive functions. Does that framing hold against the rest of them?",
+  createdAt: "2026-09-06T18:14:46.222Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

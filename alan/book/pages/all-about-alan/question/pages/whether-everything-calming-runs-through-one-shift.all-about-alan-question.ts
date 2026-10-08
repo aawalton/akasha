@@ -6,4 +6,6 @@ export const whetherEverythingCalmingRunsThroughOneShift = {
   slug: "whether-everything-calming-runs-through-one-shift",
   topic: "all-about-alan-topic/what-calms-me-down",
   ask: "Does everything else that calms me run through the same shift, or are the bath, slow breathing and hard exercise a family of their own?",
+  createdAt: "2026-09-06T18:10:14.024Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatWritesANewMeasureIntoTheMap = {
   slug: "what-writes-a-new-measure-into-the-map",
   topic: "all-about-alan-topic/writing-a-new-want-into-myself",
   ask: "What writes a new measure into the map, what makes a measure stick, and is writing one itself a want?",
+  createdAt: "2026-09-06T18:18:30.653Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

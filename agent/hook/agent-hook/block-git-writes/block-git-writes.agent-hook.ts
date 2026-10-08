@@ -135,4 +135,6 @@ export const blockGitWrites = {
       statement: "A read flag is taken as a flag rather than as another flag's value.",
     },
   ],
+  createdAt: "2026-08-29T15:15:13.920Z",
+  updatedAt: "2026-09-25T17:52:01.000Z",
 } as const satisfies AgentHook

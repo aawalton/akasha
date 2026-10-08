@@ -6,4 +6,6 @@ export const whetherTheBlanketStillGroundsMe = {
   slug: "whether-the-blanket-still-grounds-me",
   topic: "all-about-alan-topic/the-weighted-blanket",
   ask: "I first called the weighted blanket grounding and now reach for it for stillness and heat. Does grounding still fire at all?",
+  createdAt: "2026-09-06T18:14:08.746Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

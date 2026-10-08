@@ -6,4 +6,6 @@ export const whetherRobotModeSavesCapacity = {
   slug: "whether-robot-mode-saves-capacity",
   topic: "all-about-alan-topic/the-modes-i-run-in",
   ask: "Does running robot mode save capacity, or cost more than the masking robot mode replaces? And when do I reach for it?",
+  createdAt: "2026-09-06T18:10:26.491Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

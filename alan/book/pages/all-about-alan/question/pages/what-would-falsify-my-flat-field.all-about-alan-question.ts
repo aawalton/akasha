@@ -6,4 +6,6 @@ export const whatWouldFalsifyMyFlatField = {
   slug: "what-would-falsify-my-flat-field",
   topic: "all-about-alan-topic/what-criticism-does-to-me",
   ask: "There is no in-group and out-group in me to move anyone across. What would falsify that flat field?",
+  createdAt: "2026-09-06T18:12:46.086Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

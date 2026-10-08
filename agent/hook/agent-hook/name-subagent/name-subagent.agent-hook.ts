@@ -42,4 +42,6 @@ export const nameSubagent = {
       statement: "This hook refuses nothing.",
     },
   ],
+  createdAt: "2026-08-29T23:03:58.720Z",
+  updatedAt: "2026-09-25T18:00:20.000Z",
 } as const satisfies AgentHook

@@ -6,4 +6,6 @@ export const whoHandlesTyresAndRoutineMaintenance = {
   slug: "who-handles-tyres-and-routine-maintenance",
   topic: "all-about-alan-topic/who-keeps-the-car-running",
   ask: "Tyres and routine maintenance are not accounted for anywhere. Does Edgemont Auto do those too, or is there a separate vendor I depend on and have never graded?",
+  createdAt: "2026-09-21T22:09:08.323Z",
+  updatedAt: "2026-09-21T22:09:11.000Z",
 } as const satisfies AllAboutAlanQuestion

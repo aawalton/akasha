@@ -6,4 +6,6 @@ export const whetherWeightingWhatMattersFollowsFromNoLoops = {
   slug: "whether-weighting-what-matters-follows-from-no-loops",
   topic: "all-about-alan-topic/what-matters-against-what-shouts",
   ask: "Does weighting what matters over what shouts follow from keeping no open loops, or is that weighting a value of mine that statelessness merely makes cheap?",
+  createdAt: "2026-09-06T18:15:25.913Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

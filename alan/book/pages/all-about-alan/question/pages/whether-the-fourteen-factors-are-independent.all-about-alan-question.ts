@@ -6,4 +6,6 @@ export const whetherTheFourteenFactorsAreIndependent = {
   slug: "whether-the-fourteen-factors-are-independent",
   topic: "all-about-alan-topic/what-makes-an-hour-count",
   ask: "Are the fourteen factors really independent, or do factors move together closely enough to collapse into one?",
+  createdAt: "2026-09-06T18:13:57.951Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

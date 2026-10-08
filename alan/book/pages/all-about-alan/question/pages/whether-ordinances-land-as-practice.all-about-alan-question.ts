@@ -6,4 +6,6 @@ export const whetherOrdinancesLandAsPractice = {
   slug: "whether-ordinances-land-as-practice",
   topic: "all-about-alan-topic/how-i-practise-my-faith",
   ask: "Do ordinances, covenants, the sacrament, tithing and the priesthood land as practice for me, rather than as a statement about what is true?",
+  createdAt: "2026-09-06T18:07:36.917Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

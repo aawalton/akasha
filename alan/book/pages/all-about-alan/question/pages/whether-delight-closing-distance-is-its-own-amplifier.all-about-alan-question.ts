@@ -6,4 +6,6 @@ export const whetherDelightClosingDistanceIsItsOwnAmplifier = {
   slug: "whether-delight-closing-distance-is-its-own-amplifier",
   topic: "all-about-alan-topic/being-met",
   ask: "Is delight closing distance a separate amplifier on top of plain orientation, or the most legible form of plain orientation?",
+  createdAt: "2026-09-06T18:04:55.740Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

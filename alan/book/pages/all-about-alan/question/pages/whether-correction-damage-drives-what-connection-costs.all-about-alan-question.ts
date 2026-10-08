@@ -6,4 +6,6 @@ export const whetherCorrectionDamageDrivesWhatConnectionCosts = {
   slug: "whether-correction-damage-drives-what-connection-costs",
   topic: "all-about-alan-topic/why-getting-close-hurts",
   ask: "Is the damage from kindly meant corrections the main driver of what connection costs me, or a minor one beside the rest?",
+  createdAt: "2026-09-06T18:06:08.361Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatMakesAPushSlipPastMyRules = {
   slug: "what-makes-a-push-slip-past-my-rules",
   topic: "all-about-alan-topic/rules-instead-of-a-brake",
   ask: "What makes a push slip past my rules: not remembering a rule, not seeing the thing as recurring, or not seeing the self-hurt until after?",
+  createdAt: "2026-09-06T18:05:26.451Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

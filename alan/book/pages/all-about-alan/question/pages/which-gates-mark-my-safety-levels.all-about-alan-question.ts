@@ -6,4 +6,6 @@ export const whichGatesMarkMySafetyLevels = {
   slug: "which-gates-mark-my-safety-levels",
   topic: "all-about-alan-topic/how-i-read-my-safety-level",
   ask: "Which involuntary gates mark my other safety levels, when only the level-four default smile is named and the table is missing every other row?",
+  createdAt: "2026-09-06T18:08:40.408Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

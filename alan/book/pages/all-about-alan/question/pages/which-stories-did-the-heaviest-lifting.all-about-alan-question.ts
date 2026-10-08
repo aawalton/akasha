@@ -6,4 +6,6 @@ export const whichStoriesDidTheHeaviestLifting = {
   slug: "which-stories-did-the-heaviest-lifting",
   topic: "all-about-alan-topic/the-stories-that-buy-me-a-day",
   ask: "Which stories did the heaviest lifting for me, and what made one story land harder than another?",
+  createdAt: "2026-09-06T18:07:13.283Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

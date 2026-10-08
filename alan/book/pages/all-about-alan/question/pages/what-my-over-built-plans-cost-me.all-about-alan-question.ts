@@ -6,4 +6,6 @@ export const whatMyOverBuiltPlansCostMe = {
   slug: "what-my-over-built-plans-cost-me",
   topic: "all-about-alan-topic/the-plans-i-over-build",
   ask: "The visible cost is the plans being over-robust rather than absent. Where does that show: time planning over doing, rigidity once built, or all-or-nothing?",
+  createdAt: "2026-09-21T20:27:12.498Z",
+  updatedAt: "2026-09-21T20:27:16.000Z",
 } as const satisfies AllAboutAlanQuestion

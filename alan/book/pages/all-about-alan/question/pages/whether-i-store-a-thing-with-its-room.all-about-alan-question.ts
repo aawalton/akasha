@@ -6,4 +6,6 @@ export const whetherIStoreAThingWithItsRoom = {
   slug: "whether-i-store-a-thing-with-its-room",
   topic: "all-about-alan-topic/how-i-remember-anything",
   ask: "Most people store a thing together with the room they learned it in and I do not. Does that absence reach past skills and imagery?",
+  createdAt: "2026-09-06T17:53:17.691Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

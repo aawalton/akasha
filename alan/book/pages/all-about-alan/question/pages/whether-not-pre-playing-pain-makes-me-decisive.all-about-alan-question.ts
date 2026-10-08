@@ -6,4 +6,6 @@ export const whetherNotPrePlayingPainMakesMeDecisive = {
   slug: "whether-not-pre-playing-pain-makes-me-decisive",
   topic: "all-about-alan-topic/why-i-act-fast",
   ask: "Is not being able to pre-play the pain what makes me decisive, or does it merely sit alongside a truth-drive that would push me to act anyway?",
+  createdAt: "2026-09-06T18:06:35.569Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

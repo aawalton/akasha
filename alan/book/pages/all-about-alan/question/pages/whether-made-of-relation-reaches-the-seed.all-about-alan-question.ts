@@ -6,4 +6,6 @@ export const whetherMadeOfRelationReachesTheSeed = {
   slug: "whether-made-of-relation-reaches-the-seed",
   topic: "all-about-alan-topic/what-kind-of-thing-a-self-is",
   ask: "Does made-of-relation reach the seed underneath, or is a fourth kind of object needed?",
+  createdAt: "2026-09-06T18:12:24.719Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherTwentyClosedOneDoorOrAll = {
   slug: "whether-twenty-closed-one-door-or-all",
   topic: "all-about-alan-topic/feeling-my-faith",
   ask: "Did felt connection to people shut at the same time, or only the faith one, which would say whether twenty closed one door or all of them?",
+  createdAt: "2026-09-06T18:14:37.353Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whereTouchAndTasteToolsSit = {
   slug: "where-touch-and-taste-tools-sit",
   topic: "all-about-alan-topic/how-i-pick-a-sensory-tool",
   ask: "Where do my touch tools and my taste tools sit in the order, which has never been read against touch or taste?",
+  createdAt: "2026-09-06T18:07:07.962Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

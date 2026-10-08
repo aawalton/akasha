@@ -6,4 +6,6 @@ export const whichBodySignalsRunLoudest = {
   slug: "which-body-signals-run-loudest",
   topic: "all-about-alan-topic/the-body-signals-i-can-barely-hear",
   ask: "Which body signals of mine run loudest and which run quietest: hunger, thirst, heat, heart rate, breath, pain, nausea, bladder?",
+  createdAt: "2026-09-06T18:18:03.063Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

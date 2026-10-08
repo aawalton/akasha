@@ -98,4 +98,6 @@ export const blockAkashaReads = {
         "A body a program reads through a path the shell builds, or its own code names, is not seen.",
     },
   ],
+  createdAt: "2026-08-29T18:05:52.536Z",
+  updatedAt: "2026-09-25T18:00:51.000Z",
 } as const satisfies AgentHook

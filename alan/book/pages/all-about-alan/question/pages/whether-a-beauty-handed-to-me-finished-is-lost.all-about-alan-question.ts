@@ -6,4 +6,6 @@ export const whetherABeautyHandedToMeFinishedIsLost = {
   slug: "whether-a-beauty-handed-to-me-finished-is-lost",
   topic: "all-about-alan-topic/why-insight-feels-good",
   ask: "The sister who keeps mathematics alive for me is built on never showing me a result, on the premise that one handed to me finished is only watched and one I find is kept. Is that true of me?",
+  createdAt: "2026-09-21T21:57:06.277Z",
+  updatedAt: "2026-09-21T21:57:09.000Z",
 } as const satisfies AllAboutAlanQuestion

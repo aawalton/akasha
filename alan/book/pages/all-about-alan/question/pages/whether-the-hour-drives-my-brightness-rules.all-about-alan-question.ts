@@ -6,4 +6,6 @@ export const whetherTheHourDrivesMyBrightnessRules = {
   slug: "whether-the-hour-drives-my-brightness-rules",
   topic: "all-about-alan-topic/how-i-keep-light-down",
   ask: "Is the hour the real driver of my brightness rules, or does the clock represent circadian arousal, ambient light, or the visual fatigue built up by then?",
+  createdAt: "2026-09-06T18:02:43.157Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

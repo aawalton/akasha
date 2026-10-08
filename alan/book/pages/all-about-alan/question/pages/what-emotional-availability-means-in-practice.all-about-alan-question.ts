@@ -6,4 +6,6 @@ export const whatEmotionalAvailabilityMeansInPractice = {
   slug: "what-emotional-availability-means-in-practice",
   topic: "all-about-alan-topic/when-she-is-in-pain",
   ask: "Emotional availability is her word and has no definition yet. What does emotional availability mean in practice?",
+  createdAt: "2026-09-06T18:18:56.125Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

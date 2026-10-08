@@ -6,4 +6,6 @@ export const howIScoreWhoOwnsAnOrganisation = {
   slug: "how-i-score-who-owns-an-organisation",
   topic: "all-about-alan-topic/how-i-grade-an-organisation",
   ask: "How do I score who owns an organisation, and what band does publicly traded, private, mutual, co-operative, purpose trust or employee-owned each get?",
+  createdAt: "2026-09-06T18:01:28.873Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

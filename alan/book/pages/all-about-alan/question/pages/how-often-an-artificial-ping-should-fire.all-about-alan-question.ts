@@ -6,4 +6,6 @@ export const howOftenAnArtificialPingShouldFire = {
   slug: "how-often-an-artificial-ping-should-fire",
   topic: "all-about-alan-topic/how-i-hold-a-goal",
   ask: "How often should a ping for a painless drift fire, when the missing signal is the reason the ping exists and so cannot tune it?",
+  createdAt: "2026-09-21T20:22:05.872Z",
+  updatedAt: "2026-09-21T20:22:09.000Z",
 } as const satisfies AllAboutAlanQuestion

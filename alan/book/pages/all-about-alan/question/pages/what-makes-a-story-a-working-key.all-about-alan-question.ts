@@ -6,4 +6,6 @@ export const whatMakesAStoryAWorkingKey = {
   slug: "what-makes-a-story-a-working-key",
   topic: "all-about-alan-topic/how-a-story-gets-my-own-feeling-back",
   ask: "What makes one story a working key to a particular sealed feeling of mine, when a handful of authors do far more for me than the rest?",
+  createdAt: "2026-09-06T18:06:40.362Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

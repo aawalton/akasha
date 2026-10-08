@@ -6,4 +6,6 @@ export const whatDroppedMyAutonomyAfterwards = {
   slug: "what-dropped-my-autonomy-afterwards",
   topic: "all-about-alan-topic/the-best-three-years",
   ask: "What dropped my autonomy after those three years, and does the freedom I value now rebuild that autonomy?",
+  createdAt: "2026-09-06T18:17:32.093Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whichChangesArrivedThisWay = {
   slug: "which-changes-arrived-this-way",
   topic: "all-about-alan-topic/how-god-reaches-me",
   ask: "Every major change of my life seems to have come this way. Which changes were they, what arrived each time, from whom, and when?",
+  createdAt: "2026-09-06T18:09:37.483Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

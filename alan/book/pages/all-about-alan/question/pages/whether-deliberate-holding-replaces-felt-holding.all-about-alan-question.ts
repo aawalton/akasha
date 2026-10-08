@@ -6,4 +6,6 @@ export const whetherDeliberateHoldingReplacesFeltHolding = {
   slug: "whether-deliberate-holding-replaces-felt-holding",
   topic: "all-about-alan-topic/who-is-holding-the-rope",
   ask: "Can deliberate holding from my side take the place of the felt holding the other person supplies?",
+  createdAt: "2026-09-06T18:17:18.255Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

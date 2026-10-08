@@ -6,4 +6,6 @@ export const whichPartsOfMyEthicsAreMine = {
   slug: "which-parts-of-my-ethics-are-mine",
   topic: "all-about-alan-topic/the-ethics-i-worked-out",
   ask: "This is the central unresolved thread and should be asked directly: which parts of the moral framework are mine, and which belong to the idealised system the framework is written for?",
+  createdAt: "2026-09-06T18:04:35.515Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

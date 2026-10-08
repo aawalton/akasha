@@ -6,4 +6,6 @@ export const whenAGarmentStopsHolding = {
   slug: "when-a-garment-stops-holding",
   topic: "all-about-alan-topic/tight-clothes",
   ask: "Fabric stretches with wear, so at what point has a garment stopped holding me?",
+  createdAt: "2026-09-06T18:02:48.790Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

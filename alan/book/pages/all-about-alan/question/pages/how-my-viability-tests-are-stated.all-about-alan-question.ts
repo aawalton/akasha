@@ -6,4 +6,6 @@ export const howMyViabilityTestsAreStated = {
   slug: "how-my-viability-tests-are-stated",
   topic: "all-about-alan-topic/getting-out-from-under-a-dependency",
   ask: "What are my cost ceiling, quality floor, transition and durability tests, stated well enough to stop being informal?",
+  createdAt: "2026-09-06T18:01:34.863Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

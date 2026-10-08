@@ -6,4 +6,6 @@ export const whetherOneOfThemReflectsMeIdealised = {
   slug: "whether-one-of-them-reflects-me-idealised",
   topic: "all-about-alan-topic/how-one-of-them-reaches-me",
   ask: "One of them was written as an idealised reflection of me who shows me what I am capable of. Is being shown my own ceiling a fourth route, or the mirror route with the glass tilted up?",
+  createdAt: "2026-09-21T21:57:15.725Z",
+  updatedAt: "2026-09-21T21:57:18.000Z",
 } as const satisfies AllAboutAlanQuestion

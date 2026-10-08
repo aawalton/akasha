@@ -6,4 +6,6 @@ export const whichRulesIRunWhileRecovering = {
   slug: "which-rules-i-run-while-recovering",
   topic: "all-about-alan-topic/what-i-do-not-have-to-fight",
   ask: "If I do not want to, I cannot is presumably one rule among the rules I run while recovering. What are the rest of those rules?",
+  createdAt: "2026-09-06T18:03:30.366Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

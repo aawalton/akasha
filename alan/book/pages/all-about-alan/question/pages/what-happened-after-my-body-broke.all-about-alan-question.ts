@@ -6,4 +6,6 @@ export const whatHappenedAfterMyBodyBroke = {
   slug: "what-happened-after-my-body-broke",
   topic: "all-about-alan-topic/the-nine-months-my-body-broke",
   ask: "What happened between the break and the low twenty years later, and how did the mission actually end after the psychologist's phone call?",
+  createdAt: "2026-09-06T18:11:29.280Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

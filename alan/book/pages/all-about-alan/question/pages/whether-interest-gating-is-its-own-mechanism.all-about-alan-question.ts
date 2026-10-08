@@ -6,4 +6,6 @@ export const whetherInterestGatingIsItsOwnMechanism = {
   slug: "whether-interest-gating-is-its-own-mechanism",
   topic: "all-about-alan-topic/how-my-attention-works",
   ask: "Interest gates how long I hold attention, sharply enough that my college grades inverted against course difficulty. Is that asymmetry a mechanism of its own?",
+  createdAt: "2026-09-06T18:14:44.364Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

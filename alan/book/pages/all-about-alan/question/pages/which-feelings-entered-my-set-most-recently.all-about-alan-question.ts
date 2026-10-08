@@ -6,4 +6,6 @@ export const whichFeelingsEnteredMySetMostRecently = {
   slug: "which-feelings-entered-my-set-most-recently",
   topic: "all-about-alan-topic/the-feelings-i-can-name",
   ask: "Which feelings entered the set I can name most recently, and did naming work, exposure, or knowing the mechanism drive that entry?",
+  createdAt: "2026-09-06T18:06:17.381Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

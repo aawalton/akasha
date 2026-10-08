@@ -6,4 +6,6 @@ export const whatSendsMeIntoMachineMode = {
   slug: "what-sends-me-into-machine-mode",
   topic: "all-about-alan-topic/driving-myself-like-a-machine",
   ask: "What sends me into driving myself like a machine, and do I choose that mode each time or fall into it when nothing else is available?",
+  createdAt: "2026-09-06T18:13:05.816Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

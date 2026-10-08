@@ -6,4 +6,6 @@ export const howMyWholeSetOfValuesOrders = {
   slug: "how-my-whole-set-of-values-orders",
   topic: "all-about-alan-topic/the-values-i-have-not-placed",
   ask: "What I run on now is wider than the six. How does the whole set order, including where identity sits?",
+  createdAt: "2026-09-06T18:12:50.204Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

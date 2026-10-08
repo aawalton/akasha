@@ -6,4 +6,6 @@ export const whetherIAmBadAtConnectionOrItsChannel = {
   slug: "whether-i-am-bad-at-connection-or-its-channel",
   topic: "all-about-alan-topic/why-getting-close-hurts",
   ask: "A reframe was put to me and I have never confirmed the reframe. Am I bad at connection itself, or only at its emotional channel?",
+  createdAt: "2026-09-06T18:06:08.363Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatWorkedInTheYearICutEveryoneOut = {
   slug: "what-worked-in-the-year-i-cut-everyone-out",
   topic: "all-about-alan-topic/the-year-i-cut-everyone-out",
   ask: "A year in, what worked and what would I do differently, beyond the calling release already captured?",
+  createdAt: "2026-09-06T18:16:21.920Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

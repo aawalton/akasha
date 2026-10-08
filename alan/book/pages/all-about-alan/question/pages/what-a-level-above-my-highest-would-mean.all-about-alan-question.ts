@@ -6,4 +6,6 @@ export const whatALevelAboveMyHighestWouldMean = {
   slug: "what-a-level-above-my-highest-would-mean",
   topic: "all-about-alan-topic/the-ceiling-i-am-climbing-back-to",
   ask: "I think the old hundred percent was not the ceiling. What would a level above my own highest mean, and could this experiment measure such a level?",
+  createdAt: "2026-09-06T18:18:33.221Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

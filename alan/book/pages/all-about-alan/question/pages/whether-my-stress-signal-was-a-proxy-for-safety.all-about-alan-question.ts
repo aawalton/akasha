@@ -6,4 +6,6 @@ export const whetherMyStressSignalWasAProxyForSafety = {
   slug: "whether-my-stress-signal-was-a-proxy-for-safety",
   topic: "all-about-alan-topic/what-limits-me",
   ask: "Was the stress signal I tracked for twenty years only ever a proxy for safety, which would dissolve my account of the bottleneck moving rather than confirm it?",
+  createdAt: "2026-09-06T18:13:07.133Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

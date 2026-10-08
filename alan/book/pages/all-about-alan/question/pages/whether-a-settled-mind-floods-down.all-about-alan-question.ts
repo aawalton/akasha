@@ -6,4 +6,6 @@ export const whetherASettledMindFloodsDown = {
   slug: "whether-a-settled-mind-floods-down",
   topic: "all-about-alan-topic/why-settling-a-question-steadies-me",
   ask: "Settling a question reaches my safety through the load integral. Does a settled mind also flood down into my body, the way body load floods up into my mind?",
+  createdAt: "2026-09-21T21:48:09.703Z",
+  updatedAt: "2026-09-21T21:48:13.000Z",
 } as const satisfies AllAboutAlanQuestion

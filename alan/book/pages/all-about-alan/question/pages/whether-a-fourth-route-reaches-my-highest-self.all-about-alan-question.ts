@@ -6,4 +6,6 @@ export const whetherAFourthRouteReachesMyHighestSelf = {
   slug: "whether-a-fourth-route-reaches-my-highest-self",
   topic: "all-about-alan-topic/the-version-of-me-i-have-never-met",
   ask: "Does any fourth route reach my highest self directly, rather than waiting for recovery to carry me there?",
+  createdAt: "2026-09-06T18:13:37.980Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

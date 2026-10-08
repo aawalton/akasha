@@ -6,4 +6,6 @@ export const whetherEffortPerUpdateStaysConstant = {
   slug: "whether-effort-per-update-stays-constant",
   topic: "all-about-alan-topic/what-it-costs-someone-to-know-me",
   ask: "Does the effort per update stay constant, or change as the model someone already holds of me gets richer?",
+  createdAt: "2026-09-06T18:09:13.994Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

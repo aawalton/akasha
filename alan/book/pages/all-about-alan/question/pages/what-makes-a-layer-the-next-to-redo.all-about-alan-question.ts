@@ -6,4 +6,6 @@ export const whatMakesALayerTheNextToRedo = {
   slug: "what-makes-a-layer-the-next-to-redo",
   topic: "all-about-alan-topic/how-often-i-start-over",
   ask: "What makes a layer the next one to redo, rather than a layer further out?",
+  createdAt: "2026-09-06T18:15:45.861Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

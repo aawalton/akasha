@@ -6,4 +6,6 @@ export const whatTheMooreMethodGaveMe = {
   slug: "what-the-moore-method-gave-me",
   topic: "all-about-alan-topic/being-an-inventor-not-a-coder",
   ask: "What did the Moore method give me, and does the Moore method show up in how I build now?",
+  createdAt: "2026-09-06T18:02:39.492Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherEveryFeelingNeedsAConceptFirst = {
   slug: "whether-every-feeling-needs-a-concept-first",
   topic: "all-about-alan-topic/getting-to-a-feeling-through-an-idea",
   ask: "Does every feeling of mine need a concept built first, or only a feeling anchored in the past, and how much structure is enough to set a feeling off?",
+  createdAt: "2026-09-06T18:01:54.766Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

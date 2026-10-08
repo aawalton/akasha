@@ -6,4 +6,6 @@ export const whetherRecoveryModeWasTheReplacementOrTheGap = {
   slug: "whether-recovery-mode-was-the-replacement-or-the-gap",
   topic: "all-about-alan-topic/blank-check-mode-and-recovery-mode",
   ask: "Was recovery mode the new belief already catching, or the unprotected stretch before it caught?",
+  createdAt: "2026-09-06T20:15:35.559Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

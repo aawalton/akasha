@@ -6,4 +6,6 @@ export const whetherRepetitionMovesMyBaseline = {
   slug: "whether-repetition-moves-my-baseline",
   topic: "all-about-alan-topic/what-calms-me-down",
   ask: "Repeating the bath, slow breathing and hard exercise is meant to move my resting baseline rather than only the hour I am in. Does my baseline move?",
+  createdAt: "2026-09-06T18:10:14.026Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

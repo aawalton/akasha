@@ -6,4 +6,6 @@ export const whatSafetyLevelBringsTheFeelingBack = {
   slug: "what-safety-level-brings-the-feeling-back",
   topic: "all-about-alan-topic/feeling-my-faith",
   ask: "What level of safety does it take for the devotional feeling to recur, so that I can finally read it?",
+  createdAt: "2026-09-06T18:14:37.353Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

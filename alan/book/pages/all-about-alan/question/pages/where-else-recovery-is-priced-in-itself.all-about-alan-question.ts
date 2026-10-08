@@ -6,4 +6,6 @@ export const whereElseRecoveryIsPricedInItself = {
   slug: "where-else-recovery-is-priced-in-itself",
   topic: "all-about-alan-topic/recovery-costs-what-it-restores",
   ask: "Health gating my mana and stamina recovery moves is the one worked case. Where else does a recovery move come priced in the very resource that move pays back?",
+  createdAt: "2026-09-06T18:03:24.880Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

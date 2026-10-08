@@ -6,4 +6,6 @@ export const whichSubjectsComeNextOutLoud = {
   slug: "which-subjects-come-next-out-loud",
   topic: "all-about-alan-topic/walking-a-hard-subject-out-loud",
   ask: "Which subjects are waiting to be walked out loud, and in what order against what I can afford?",
+  createdAt: "2026-09-06T18:06:28.831Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatOnePrestigeCostsNow = {
   slug: "what-one-prestige-costs-now",
   topic: "all-about-alan-topic/how-often-i-start-over",
   ask: "What does one prestige cost me now, at four a day rather than one a month?",
+  createdAt: "2026-09-06T18:15:45.861Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

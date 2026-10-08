@@ -6,4 +6,6 @@ export const whetherAttendingRaisesWhatAffectionIFeel = {
   slug: "whether-attending-raises-what-affection-i-feel",
   topic: "all-about-alan-topic/feeling-affection",
   ask: "Does deliberately attending during affectionate moments raise what I feel, the way a quiet room raises a body signal, or does attention over-amplify a quiet signal?",
+  createdAt: "2026-09-06T18:13:58.817Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

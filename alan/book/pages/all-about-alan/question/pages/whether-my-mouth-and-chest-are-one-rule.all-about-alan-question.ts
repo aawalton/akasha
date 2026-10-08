@@ -6,4 +6,6 @@ export const whetherMyMouthAndChestAreOneRule = {
   slug: "whether-my-mouth-and-chest-are-one-rule",
   topic: "all-about-alan-topic/what-interrupts-my-breathing",
   ask: "Are my mouth and my chest one rule, or two rules that have happened to agree so far?",
+  createdAt: "2026-09-06T18:07:41.575Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherMyDisclosureWidensWithSafety = {
   slug: "whether-my-disclosure-widens-with-safety",
   topic: "all-about-alan-topic/why-i-keep-hard-truths-back",
   ask: "Is the loosening measurable, so that what I disclose widens as safety comes back?",
+  createdAt: "2026-09-06T18:09:19.023Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

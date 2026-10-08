@@ -6,4 +6,6 @@ export const whatFailsInTheMeteringWhenIAmLow = {
   slug: "what-fails-in-the-metering-when-i-am-low",
   topic: "all-about-alan-topic/why-too-much-and-too-little-swap-over",
   ask: "What actually fails in the metering when I am low on resources?",
+  createdAt: "2026-09-06T18:16:40.896Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

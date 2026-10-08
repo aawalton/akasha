@@ -6,4 +6,6 @@ export const whetherIThinkInMathsShapedFrames = {
   slug: "whether-i-think-in-maths-shaped-frames",
   topic: "all-about-alan-topic/how-i-decide",
   ask: "Do I think in maths-shaped frames more widely, in monotonic progress and convergence and optimisation, or is that one borrowed frame?",
+  createdAt: "2026-09-06T18:13:15.755Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

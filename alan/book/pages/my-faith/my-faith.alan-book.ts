@@ -8,4 +8,6 @@ export const myFaith = {
   title: "My Faith",
   description: "This is the orientation the `/talia`",
   unit: "unit/words",
+  createdAt: "2026-09-03T04:53:15.677Z",
+  updatedAt: "2026-09-15T15:44:57.000Z",
 } as const satisfies AlanBook

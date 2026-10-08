@@ -6,4 +6,6 @@ export const whatCalmingSurvivesMyConstraint = {
   slug: "what-calming-survives-my-constraint",
   topic: "all-about-alan-topic/what-calms-me-down",
   ask: "What calming methods survive the constraint that nothing built on a felt sense or on picturing something has anything in me to work with?",
+  createdAt: "2026-09-06T18:10:14.025Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

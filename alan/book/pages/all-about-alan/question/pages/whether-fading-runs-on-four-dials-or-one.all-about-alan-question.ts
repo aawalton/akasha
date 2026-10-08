@@ -6,4 +6,6 @@ export const whetherFadingRunsOnFourDialsOrOne = {
   slug: "whether-fading-runs-on-four-dials-or-one",
   topic: "all-about-alan-topic/how-an-alarm-wears-off",
   ask: "Not habituating, noticing change, novelty wearing off and extinction all govern whether a response of mine fades. Are those four dials or one?",
+  createdAt: "2026-09-06T18:05:29.968Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

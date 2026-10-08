@@ -6,4 +6,6 @@ export const whatContinuousDeployStillNeeds = {
   slug: "what-continuous-deploy-still-needs",
   topic: "all-about-alan-topic/how-my-services-decide-to-deploy",
   ask: "What does continuous deploy on graph changes still need before it is running?",
+  createdAt: "2026-09-06T18:15:11.815Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

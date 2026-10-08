@@ -6,4 +6,6 @@ export const whetherPlaysCarryOverGrowsAsIRecover = {
   slug: "whether-plays-carry-over-grows-as-i-recover",
   topic: "all-about-alan-topic/the-version-of-me-i-have-never-met",
   ask: "Does the carry-over from play grow as my floor rises, so that the simulation slowly becomes a partial direct route?",
+  createdAt: "2026-09-06T18:13:37.979Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

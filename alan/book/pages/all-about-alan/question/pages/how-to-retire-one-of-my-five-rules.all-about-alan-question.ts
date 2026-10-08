@@ -6,4 +6,6 @@ export const howToRetireOneOfMyFiveRules = {
   slug: "how-to-retire-one-of-my-five-rules",
   topic: "all-about-alan-topic/the-five-rules-i-grew-up-with",
   ask: "Retiring a rule is where a disbelieved reflex still firing bites hardest. How do I retire one rule of the five?",
+  createdAt: "2026-09-06T18:06:49.325Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

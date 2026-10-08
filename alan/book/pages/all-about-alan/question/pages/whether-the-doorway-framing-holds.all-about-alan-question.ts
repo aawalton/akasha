@@ -6,4 +6,6 @@ export const whetherTheDoorwayFramingHolds = {
   slug: "whether-the-doorway-framing-holds",
   topic: "all-about-alan-topic/what-a-persona-makes-cheaper",
   ask: "Only the part of the doorway framing saying a persona lowers the cost of starting is mine. Does the rest of that framing hold?",
+  createdAt: "2026-09-06T18:09:41.897Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

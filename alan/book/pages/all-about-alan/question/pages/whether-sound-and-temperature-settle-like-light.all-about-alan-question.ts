@@ -6,4 +6,6 @@ export const whetherSoundAndTemperatureSettleLikeLight = {
   slug: "whether-sound-and-temperature-settle-like-light",
   topic: "all-about-alan-topic/when-we-need-opposite-things",
   ask: "Do sound, temperature and scheduling settle the way light does, with me deferring by default and an override underneath?",
+  createdAt: "2026-09-06T18:05:59.320Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

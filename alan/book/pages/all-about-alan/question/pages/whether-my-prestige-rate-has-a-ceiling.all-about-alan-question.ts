@@ -6,4 +6,6 @@ export const whetherMyPrestigeRateHasACeiling = {
   slug: "whether-my-prestige-rate-has-a-ceiling",
   topic: "all-about-alan-topic/how-often-i-start-over",
   ask: "Can the rate I prestige at keep climbing, or does the rate have a ceiling?",
+  createdAt: "2026-09-06T18:15:45.860Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherTheTenToOneHoldsAtEveryLevel = {
   slug: "whether-the-ten-to-one-holds-at-every-level",
   topic: "all-about-alan-topic/how-far-behind-i-am-on-people",
   ask: "Does the ten to one hold at every level, or does safety buffer the bad side so the ratio falls as I climb?",
+  createdAt: "2026-09-06T18:09:20.160Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const howMyPunishmentEpisodesActuallyWent = {
   slug: "how-my-punishment-episodes-actually-went",
   topic: "all-about-alan-topic/why-i-have-to-be-perfect",
   ask: "How did the art class and the squash farm actually go, past the one compressed line each of those cases gets here?",
+  createdAt: "2026-09-06T18:07:24.391Z",
+  updatedAt: "2026-09-22T18:30:00.000Z",
 } as const satisfies AllAboutAlanQuestion

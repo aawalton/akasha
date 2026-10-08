@@ -6,4 +6,6 @@ export const whetherJensBeliefIsStable = {
   slug: "whether-jens-belief-is-stable",
   topic: "all-about-alan-topic/what-i-cannot-say-to-her",
   ask: "The landing rests on Jen holding a belief my silence protects. Is that belief stable, and what happens if the construction becomes visible to her?",
+  createdAt: "2026-09-06T18:17:30.581Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherMachineModeIsAStageOrHowIRun = {
   slug: "whether-machine-mode-is-a-stage-or-how-i-run",
   topic: "all-about-alan-topic/driving-myself-like-a-machine",
   ask: "Is driving myself like a machine a stage on the way to running closeness natively, or simply how I run?",
+  createdAt: "2026-09-06T18:13:05.815Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

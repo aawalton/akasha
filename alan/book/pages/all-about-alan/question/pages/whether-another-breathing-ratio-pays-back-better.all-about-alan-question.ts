@@ -6,4 +6,6 @@ export const whetherAnotherBreathingRatioPaysBackBetter = {
   slug: "whether-another-breathing-ratio-pays-back-better",
   topic: "all-about-alan-topic/how-i-actually-breathe",
   ask: "Four-twelve is the only breathing ratio I have run. Would another ratio pay back better?",
+  createdAt: "2026-09-06T18:10:32.825Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

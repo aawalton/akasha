@@ -6,4 +6,6 @@ export const whetherMyLongDaysAreRawHours = {
   slug: "whether-my-long-days-are-raw-hours",
   topic: "all-about-alan-topic/what-my-scaffolding-buys-me",
   ask: "Do I still throw raw hours at a problem under acute overload, and are my long days that rather than leverage from my harness?",
+  createdAt: "2026-09-06T18:04:07.028Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

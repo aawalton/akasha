@@ -6,4 +6,6 @@ export const whetherTheCertaintyGapPullsPeopleIntoConflict = {
   slug: "whether-the-certainty-gap-pulls-people-into-conflict",
   topic: "all-about-alan-topic/how-i-come-across",
   ask: "Does the gap between how sure I sound and how sure I am pull people into defensiveness, and into the conflict I of anyone can least afford to pay for?",
+  createdAt: "2026-09-06T18:12:53.993Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

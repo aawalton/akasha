@@ -6,4 +6,6 @@ export const whetherDailyImagesPayDownTheArtCost = {
   slug: "whether-daily-images-pay-down-the-art-cost",
   topic: "all-about-alan-topic/what-a-persona-makes-cheaper",
   ask: "Is the art part of that cost paying down through the images I make daily, or is that hope rather than fact?",
+  createdAt: "2026-09-06T18:09:41.896Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

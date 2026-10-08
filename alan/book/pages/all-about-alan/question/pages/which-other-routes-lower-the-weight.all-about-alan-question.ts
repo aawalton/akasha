@@ -6,4 +6,6 @@ export const whichOtherRoutesLowerTheWeight = {
   slug: "which-other-routes-lower-the-weight",
   topic: "all-about-alan-topic/letting-a-feeling-in-through-a-story",
   ask: "Which other routes lower the weight of my suppressed feeling, among sleep, breathing, bodywork and old feelings?",
+  createdAt: "2026-09-06T18:09:38.447Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

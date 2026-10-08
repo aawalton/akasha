@@ -6,4 +6,6 @@ export const whereTheSlowRecalibrationBelongs = {
   slug: "where-the-slow-recalibration-belongs",
   topic: "all-about-alan-topic/stress-capacity",
   ask: "Repeated exposure is meant to lower my setpoint over weeks, apart from what each exposure does on the day. Where does that slower recalibration belong?",
+  createdAt: "2026-09-06T18:15:32.751Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

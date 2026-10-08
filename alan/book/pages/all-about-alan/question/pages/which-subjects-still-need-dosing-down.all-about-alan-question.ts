@@ -6,4 +6,6 @@ export const whichSubjectsStillNeedDosingDown = {
   slug: "which-subjects-still-need-dosing-down",
   topic: "all-about-alan-topic/how-a-hard-talk-with-jen-gets-safer",
   ask: "Which subjects with Jen still have to be dosed down?",
+  createdAt: "2026-09-06T18:05:12.225Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherTheTwoSurvivingBondsShareSomething = {
   slug: "whether-the-two-surviving-bonds-share-something",
   topic: "all-about-alan-topic/who-is-holding-the-rope",
   ask: "Do the two survivors share something, the other person's tolerance, a covenant, my own commitment rule being in play, or did it come down to who happened to keep trying?",
+  createdAt: "2026-09-06T18:17:18.255Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

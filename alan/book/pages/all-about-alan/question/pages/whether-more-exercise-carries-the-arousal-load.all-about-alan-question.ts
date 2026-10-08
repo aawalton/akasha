@@ -6,4 +6,6 @@ export const whetherMoreExerciseCarriesTheArousalLoad = {
   slug: "whether-more-exercise-carries-the-arousal-load",
   topic: "all-about-alan-topic/what-calms-me-down",
   ask: "Arousal runs the same up-then-down as exercise and returns more per dose. Could far more exercise carry that load instead?",
+  createdAt: "2026-09-06T18:10:14.026Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const howLongACueStaysCleanBeforeItIsSafe = {
   slug: "how-long-a-cue-stays-clean-before-it-is-safe",
   topic: "all-about-alan-topic/how-an-alarm-wears-off",
   ask: "How many clean repetitions, over how long, before my nervous system marks a cue safe?",
+  createdAt: "2026-09-06T18:05:29.968Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

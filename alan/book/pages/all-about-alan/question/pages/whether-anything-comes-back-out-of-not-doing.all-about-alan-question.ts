@@ -6,4 +6,6 @@ export const whetherAnythingComesBackOutOfNotDoing = {
   slug: "whether-anything-comes-back-out-of-not-doing",
   topic: "all-about-alan-topic/what-matters-against-what-shouts",
   ask: "Does anything ever come back out of Not Doing, or is the deletion final once made?",
+  createdAt: "2026-09-06T18:15:25.913Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

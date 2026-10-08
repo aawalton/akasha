@@ -6,4 +6,6 @@ export const whatSitsBelowZeroOnStamina = {
   slug: "what-sits-below-zero-on-stamina",
   topic: "all-about-alan-topic/stamina-bar",
   ask: "Nothing below zero has come up for stamina, and the same three readings fit as for mana. What sits below zero on my stamina bar?",
+  createdAt: "2026-09-06T18:15:07.624Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

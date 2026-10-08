@@ -6,4 +6,6 @@ export const whichIdentityReadingCameFirst = {
   slug: "which-identity-reading-came-first",
   topic: "all-about-alan-topic/where-my-ethics-meets-my-rules",
   ask: "Which identity reading came first, my ethics or my sense of self, and are the two readings one insight in two hats?",
+  createdAt: "2026-09-06T18:10:16.615Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

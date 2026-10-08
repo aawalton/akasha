@@ -6,4 +6,6 @@ export const whichSelfIAmImproving = {
   slug: "which-self-i-am-improving",
   topic: "all-about-alan-topic/self-improvement",
   ask: "Which self am I improving, the thread across time or the seed underneath, now that recovery puts my body in scope?",
+  createdAt: "2026-09-06T18:08:48.423Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

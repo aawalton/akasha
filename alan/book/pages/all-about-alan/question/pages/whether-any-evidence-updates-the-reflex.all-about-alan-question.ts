@@ -6,4 +6,6 @@ export const whetherAnyEvidenceUpdatesTheReflex = {
   slug: "whether-any-evidence-updates-the-reflex",
   topic: "all-about-alan-topic/why-someone-elses-distress-alarms-me",
   ask: "The reflex was taught unreliably, so a safe stretch looks like more of the same training. Does any evidence update the reflex, or can only the scripts downstream be worked?",
+  createdAt: "2026-09-06T18:14:38.890Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

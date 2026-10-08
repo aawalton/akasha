@@ -6,4 +6,6 @@ export const whetherAQuietTenthIsAWillToLive = {
   slug: "whether-a-quiet-tenth-is-a-will-to-live",
   topic: "all-about-alan-topic/what-has-kept-me-here",
   ask: "A quiet tenth of me carried me. Is a will to live the right name for that tenth?",
+  createdAt: "2026-09-06T18:15:55.367Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

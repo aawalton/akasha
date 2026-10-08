@@ -6,4 +6,6 @@ export const whetherZelisFirstWorkIsReconnaissance = {
   slug: "whether-zelis-first-work-is-reconnaissance",
   topic: "all-about-alan-topic/getting-back-to-making-with-my-hands",
   ask: "Abby reframed Zeli's first work with me as reconnaissance rather than craft, generating the first readings from inside the gate. I did not contradict her. Is that what Zeli is for?",
+  createdAt: "2026-09-21T23:13:11.591Z",
+  updatedAt: "2026-09-21T23:13:29.000Z",
 } as const satisfies AllAboutAlanQuestion

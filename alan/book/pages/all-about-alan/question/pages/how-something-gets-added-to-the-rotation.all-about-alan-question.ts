@@ -6,4 +6,6 @@ export const howSomethingGetsAddedToTheRotation = {
   slug: "how-something-gets-added-to-the-rotation",
   topic: "all-about-alan-topic/how-something-joins-the-rotation",
   ask: "How do I decide to add something to the rotation: does interest fire, or do I put the thing there deliberately?",
+  createdAt: "2026-09-06T18:16:49.983Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

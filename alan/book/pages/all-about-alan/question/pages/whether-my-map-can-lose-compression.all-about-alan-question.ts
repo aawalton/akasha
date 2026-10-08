@@ -6,4 +6,6 @@ export const whetherMyMapCanLoseCompression = {
   slug: "whether-my-map-can-lose-compression",
   topic: "all-about-alan-topic/what-i-think-truth-is",
   ask: "Can my map ever lose compression, and what does an old truth-claim mean once the map moves?",
+  createdAt: "2026-09-06T18:09:54.185Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

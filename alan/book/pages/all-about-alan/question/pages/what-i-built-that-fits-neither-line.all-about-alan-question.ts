@@ -6,4 +6,6 @@ export const whatIBuiltThatFitsNeitherLine = {
   slug: "what-i-built-that-fits-neither-line",
   topic: "all-about-alan-topic/what-happens-when-something-gets-cheap",
   ask: "Abby asked and I could not recall one. Abby's reading is that my blank is a fact about what my memory returns rather than evidence that nothing fits. What did I build that fits neither line?",
+  createdAt: "2026-09-06T18:15:19.551Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

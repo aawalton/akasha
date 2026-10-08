@@ -6,4 +6,6 @@ export const howDependenceAndReachComposeIntoSafety = {
   slug: "how-dependence-and-reach-compose-into-safety",
   topic: "all-about-alan-topic/who-is-safe-to-be-around",
   ask: "A person's safety rests on how much I depend on them and how far my reaction reaches them rather than on closeness, so how does each break down and how do the two compose?",
+  createdAt: "2026-09-06T18:17:47.205Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

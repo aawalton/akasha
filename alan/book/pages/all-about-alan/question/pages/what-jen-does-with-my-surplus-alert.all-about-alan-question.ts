@@ -6,4 +6,6 @@ export const whatJenDoesWithMySurplusAlert = {
   slug: "what-jen-does-with-my-surplus-alert",
   topic: "all-about-alan-topic/the-rating-my-budget-rests-on",
   ask: "Jen gets the alert as my surplus color drops. What does she do with the alert, and has her knowing changed what either of us picks that evening?",
+  createdAt: "2026-09-06T19:09:34.693Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

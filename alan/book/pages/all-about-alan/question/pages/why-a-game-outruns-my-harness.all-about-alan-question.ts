@@ -6,4 +6,6 @@ export const whyAGameOutrunsMyHarness = {
   slug: "why-a-game-outruns-my-harness",
   topic: "all-about-alan-topic/the-progress-i-get-to-keep",
   ask: "Why is my deepest and most reliable source of permanent progress a game rather than my harness or my notes?",
+  createdAt: "2026-09-06T18:02:11.949Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

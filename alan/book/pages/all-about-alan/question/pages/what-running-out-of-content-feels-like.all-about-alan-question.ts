@@ -6,4 +6,6 @@ export const whatRunningOutOfContentFeelsLike = {
   slug: "what-running-out-of-content-feels-like",
   topic: "all-about-alan-topic/running-out-of-content",
   ask: "Running out of content is a real and aversive state. What does the aversion feel like, and what does the aversion run on?",
+  createdAt: "2026-09-06T18:06:17.227Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherMyKnowingGapIsWidening = {
   slug: "whether-my-knowing-gap-is-widening",
   topic: "all-about-alan-topic/what-it-costs-someone-to-know-me",
   ask: "How much does the channel carry against how fast I change, and is the gap widening or closing?",
+  createdAt: "2026-09-06T18:09:13.995Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

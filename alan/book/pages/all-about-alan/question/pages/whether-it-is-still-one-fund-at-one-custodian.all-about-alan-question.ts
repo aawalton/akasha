@@ -6,4 +6,6 @@ export const whetherItIsStillOneFundAtOneCustodian = {
   slug: "whether-it-is-still-one-fund-at-one-custodian",
   topic: "all-about-alan-topic/the-one-stack-it-is-all-in",
   ask: "Is the liquid stock still wholly in one fund at one custodian, or has that moved since I last confirmed it?",
+  createdAt: "2026-09-21T20:20:22.285Z",
+  updatedAt: "2026-09-21T20:20:25.000Z",
 } as const satisfies AllAboutAlanQuestion

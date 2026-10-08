@@ -6,4 +6,6 @@ export const whetherARelistenSeparatesTheTwoWrites = {
   slug: "whether-a-relisten-separates-the-two-writes",
   topic: "all-about-alan-topic/warming-up-what-i-will-need",
   ask: "Would re-listening to a recording with nothing new in it separate warming the ideas from improving them?",
+  createdAt: "2026-09-06T18:07:47.032Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

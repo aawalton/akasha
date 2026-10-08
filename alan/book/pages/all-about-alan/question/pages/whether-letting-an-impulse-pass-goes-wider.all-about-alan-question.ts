@@ -6,4 +6,6 @@ export const whetherLettingAnImpulsePassGoesWider = {
   slug: "whether-letting-an-impulse-pass-goes-wider",
   topic: "all-about-alan-topic/what-i-do-not-have-to-fight",
   ask: "Letting an impulse pass is worked for holding an impulse back and for starting. Does the same shape hold anywhere else?",
+  createdAt: "2026-09-06T18:03:30.365Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

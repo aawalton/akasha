@@ -6,4 +6,6 @@ export const whetherMyThreeFailureCategoriesAreTheWholeSet = {
   slug: "whether-my-three-failure-categories-are-the-whole-set",
   topic: "all-about-alan-topic/the-three-ways-an-agent-gets-it-wrong",
   ask: "Are those three categories of wrong the whole set, or the three I have hit most?",
+  createdAt: "2026-09-06T18:09:52.487Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

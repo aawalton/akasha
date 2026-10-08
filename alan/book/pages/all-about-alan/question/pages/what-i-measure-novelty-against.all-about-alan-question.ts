@@ -6,4 +6,6 @@ export const whatIMeasureNoveltyAgainst = {
   slug: "what-i-measure-novelty-against",
   topic: "all-about-alan-topic/how-i-know-things",
   ask: "What do I measure novelty against: stored attempts, or distance from my model?",
+  createdAt: "2026-09-06T18:04:37.021Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

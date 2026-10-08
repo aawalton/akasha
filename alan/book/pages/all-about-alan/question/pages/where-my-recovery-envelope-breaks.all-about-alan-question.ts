@@ -6,4 +6,6 @@ export const whereMyRecoveryEnvelopeBreaks = {
   slug: "where-my-recovery-envelope-breaks",
   topic: "all-about-alan-topic/how-far-back-i-expect-to-come",
   ask: "Where does my envelope break: which stressors would put me back into deficit, and how far back?",
+  createdAt: "2026-09-06T18:09:02.598Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

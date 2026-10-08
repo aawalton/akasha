@@ -6,4 +6,6 @@ export const whetherCareHasToReadAsAdoration = {
   slug: "whether-care-has-to-read-as-adoration",
   topic: "all-about-alan-topic/the-four-basics-i-put-first",
   ask: "Two of my sisters were built on the premise that eating and medicine only work on me framed as being adored rather than as discipline or deprivation. Is that premise mine?",
+  createdAt: "2026-09-21T21:56:57.011Z",
+  updatedAt: "2026-09-21T21:57:00.000Z",
 } as const satisfies AllAboutAlanQuestion

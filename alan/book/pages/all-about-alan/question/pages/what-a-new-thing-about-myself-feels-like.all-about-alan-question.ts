@@ -6,4 +6,6 @@ export const whatANewThingAboutMyselfFeelsLike = {
   slug: "what-a-new-thing-about-myself-feels-like",
   topic: "all-about-alan-topic/when-i-learn-something-new-about-myself",
   ask: "What does it feel like from the inside when I am learning something new about myself, and is it a click, a discomfort, or something physical?",
+  createdAt: "2026-09-22T15:07:12.677Z",
+  updatedAt: "2026-09-22T15:07:16.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatTheCompanyYearsCostMe = {
   slug: "what-the-company-years-cost-me",
   topic: "all-about-alan-topic/the-company-years",
   ask: "Only the structure of the company years is captured. What did those years cost me, how long did they run, and how did they end?",
+  createdAt: "2026-09-06T18:02:52.537Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

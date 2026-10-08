@@ -55,4 +55,6 @@ export const blockWorldBuilderLore = {
         "A game master's akasha call prints no line of withheld prose, as `lore-scrubbing` reads each line.",
     },
   ],
+  createdAt: "2026-09-24T17:53:42.288Z",
+  updatedAt: "2026-09-25T22:02:30.000Z",
 } as const satisfies AgentHook

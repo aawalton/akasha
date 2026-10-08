@@ -6,4 +6,6 @@ export const whatTheLiveRenegotiationWithJenHolds = {
   slug: "what-the-live-renegotiation-with-jen-holds",
   topic: "all-about-alan-topic/singing-out-loud",
   ask: "The renegotiation with Jen is live and undocumented. What does that renegotiation hold?",
+  createdAt: "2026-09-06T18:12:23.830Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

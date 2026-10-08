@@ -6,4 +6,6 @@ export const whetherSurveyingStrangersWorksElsewhere = {
   slug: "whether-surveying-strangers-works-elsewhere",
   topic: "all-about-alan-topic/what-the-book-of-me-is-for",
   ask: "In college I surveyed strangers, probed, aggregated across people and acted on the result. Does that way of getting at what I cannot see from inside work anywhere else?",
+  createdAt: "2026-09-06T18:10:35.240Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

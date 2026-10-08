@@ -6,4 +6,6 @@ export const howToTallyAPartialChannel = {
   slug: "how-to-tally-a-partial-channel",
   topic: "all-about-alan-topic/how-much-company-i-can-take",
   ask: "What counts as an hour of being known, and how do I tally an hour where a partial channel pays partial?",
+  createdAt: "2026-09-06T18:13:48.546Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

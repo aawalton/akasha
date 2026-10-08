@@ -6,4 +6,6 @@ export const whetherWorkingAToolPaysBack = {
   slug: "whether-working-a-tool-pays-back",
   topic: "all-about-alan-topic/how-i-pick-a-sensory-tool",
   ask: "Does the effort of working a sensory tool always pay back in capacity saved, or only above a certain load?",
+  createdAt: "2026-09-06T18:07:07.963Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

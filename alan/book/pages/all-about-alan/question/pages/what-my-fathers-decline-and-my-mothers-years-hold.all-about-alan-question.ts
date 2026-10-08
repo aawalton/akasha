@@ -6,4 +6,6 @@ export const whatMyFathersDeclineAndMyMothersYearsHold = {
   slug: "what-my-fathers-decline-and-my-mothers-years-hold",
   topic: "all-about-alan-topic/the-years-with-my-parents",
   ask: "What is there to write about the run nowhere written down: my father's decline and death, the eighteen months I cared for him, and the eight years my mother lived with us?",
+  createdAt: "2026-09-06T18:17:05.555Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

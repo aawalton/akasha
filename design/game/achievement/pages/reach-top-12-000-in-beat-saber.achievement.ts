@@ -12,4 +12,6 @@ export const reachTop12000InBeatSaber = {
   unit: "unit/words",
   status: "completed",
   grade: "A",
+  createdAt: "2026-09-03T16:09:44.728Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Achievement

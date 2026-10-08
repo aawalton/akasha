@@ -6,4 +6,6 @@ export const whatElseFallsOutOfTheNewConstraints = {
   slug: "what-else-falls-out-of-the-new-constraints",
   topic: "all-about-alan-topic/when-my-docs-are-my-code",
   ask: "I am still figuring the answer out. What else falls out of the new constraints that the old system could not have given me at any price?",
+  createdAt: "2026-09-06T18:18:32.667Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

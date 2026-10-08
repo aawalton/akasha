@@ -6,4 +6,6 @@ export const whetherInsightIntoMyselfIsItsOwnYield = {
   slug: "whether-insight-into-myself-is-its-own-yield",
   topic: "all-about-alan-topic/what-meeting-one-of-them-gives-me",
   ask: "Is insight into myself a yield of its own, rather than the tank refilling or the feeling-key doing that work?",
+  createdAt: "2026-09-06T18:16:05.178Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

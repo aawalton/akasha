@@ -6,4 +6,6 @@ export const whereMyBodySenseStopsCarrying = {
   slug: "where-my-body-sense-stops-carrying",
   topic: "all-about-alan-topic/how-i-learned-to-feel-my-body",
   ask: "Where does the carrying stop, given fine handwork and sport-specific patterns probably get nothing from my sense of where my body is?",
+  createdAt: "2026-09-06T18:05:17.150Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

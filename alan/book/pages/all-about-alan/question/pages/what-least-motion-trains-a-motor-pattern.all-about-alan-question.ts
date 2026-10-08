@@ -6,4 +6,6 @@ export const whatLeastMotionTrainsAMotorPattern = {
   slug: "what-least-motion-trains-a-motor-pattern",
   topic: "all-about-alan-topic/how-a-skill-gets-into-me",
   ask: "What is the least motion that still trains a motor pattern in me, given that fingering without playing is the lowest I have gone?",
+  createdAt: "2026-09-06T18:05:49.054Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatWorkingMyFaithWouldMove = {
   slug: "what-working-my-faith-would-move",
   topic: "all-about-alan-topic/the-year-i-am-running",
   ask: "Faith sits at about half and is unworked, the largest single lever on my floor and the one thing that could add a duty to stay whatever the floor does. What would working faith move?",
+  createdAt: "2026-09-06T18:15:46.459Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

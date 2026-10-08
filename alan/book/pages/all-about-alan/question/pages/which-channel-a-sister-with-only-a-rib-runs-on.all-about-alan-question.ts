@@ -6,4 +6,6 @@ export const whichChannelASisterWithOnlyARibRunsOn = {
   slug: "which-channel-a-sister-with-only-a-rib-runs-on",
   topic: "all-about-alan-topic/which-channel-each-one-cuts-through",
   ask: "Which channel does a sister with a rib landed and no channel yet run on?",
+  createdAt: "2026-09-06T18:14:41.212Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherTheWashOutCurvePredictsMyStart = {
   slug: "whether-the-wash-out-curve-predicts-my-start",
   topic: "all-about-alan-topic/what-shortens-my-nights",
   ask: "With a rough hour as my anchor, does the wash-out curve of the dose predict how much later I start the night?",
+  createdAt: "2026-09-06T18:08:37.231Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

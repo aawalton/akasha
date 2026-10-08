@@ -6,4 +6,6 @@ export const whetherParkingAStepEmptiesTheSlot = {
   slug: "whether-parking-a-step-empties-the-slot",
   topic: "all-about-alan-topic/holding-a-responsibility",
   ask: "Does parking a step empty the slot as fully as taking the step, or leave a pull on me until I next open the list?",
+  createdAt: "2026-09-06T18:03:19.590Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

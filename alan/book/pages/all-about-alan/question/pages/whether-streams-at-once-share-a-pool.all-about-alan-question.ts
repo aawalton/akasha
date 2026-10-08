@@ -6,4 +6,6 @@ export const whetherStreamsAtOnceShareAPool = {
   slug: "whether-streams-at-once-share-a-pool",
   topic: "all-about-alan-topic/how-much-attention-i-have",
   ask: "Do streams running at once take from one pool of attention, or from different pools?",
+  createdAt: "2026-09-06T18:11:30.815Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatReliabilityINeedFromAFallbackAnchor = {
   slug: "what-reliability-i-need-from-a-fallback-anchor",
   topic: "all-about-alan-topic/the-one-account-everything-falls-back-on",
   ask: "I hold a detailed model of who I trust and nothing on what I need from reliability. What floor, what target, and what bar must an anchor clear against what it replaces?",
+  createdAt: "2026-09-06T18:12:10.129Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

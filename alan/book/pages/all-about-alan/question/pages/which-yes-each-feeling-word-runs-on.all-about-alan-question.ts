@@ -6,4 +6,6 @@ export const whichYesEachFeelingWordRunsOn = {
   slug: "which-yes-each-feeling-word-runs-on",
   topic: "all-about-alan-topic/when-i-agree-a-feeling-word-fits",
   ask: "The distinction rests on a handful of cases and my vocabulary is unsorted word by word, so does each feeling word run on a live tell or on a definitional match?",
+  createdAt: "2026-09-06T18:16:36.813Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

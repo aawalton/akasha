@@ -7,4 +7,6 @@ export const automaticitySystems = {
   title: "Automaticity Systems",
   definition: "how fast and how far each of my two learning pathways reaches",
   simulation: "py",
+  createdAt: "2026-09-03T04:20:59.817Z",
+  updatedAt: "2026-09-21T20:09:58.000Z",
 } as const satisfies AllAboutAlanModel

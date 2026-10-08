@@ -6,4 +6,6 @@ export const whatCountsAsAnHourOfBeingKnown = {
   slug: "what-counts-as-an-hour-of-being-known",
   topic: "all-about-alan-topic/how-much-being-known-i-need",
   ask: "What counts as one hour of being known, and how do I tally the hours honestly when fidelity is partial and the count would have to be weighted?",
+  createdAt: "2026-09-06T18:13:11.311Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

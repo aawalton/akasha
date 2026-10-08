@@ -6,4 +6,6 @@ export const whyIWeightCommitmentSoHeavily = {
   slug: "why-i-weight-commitment-so-heavily",
   topic: "all-about-alan-topic/why-the-peace-holds",
   ask: "Why do I weight commitment as heavily as I do, what does commitment protect, and does the weighting survive examination?",
+  createdAt: "2026-09-06T18:15:56.495Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

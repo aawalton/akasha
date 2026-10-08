@@ -6,4 +6,6 @@ export const whenTheOverloadBehindMySecondOrganHit = {
   slug: "when-the-overload-behind-my-second-organ-hit",
   topic: "all-about-alan-topic/the-scaffolding-i-built",
   ask: "When did the overload that drove my second permanent organ happen, the way the first organ is anchored to being overwhelmed at Epic?",
+  createdAt: "2026-09-06T18:05:11.409Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

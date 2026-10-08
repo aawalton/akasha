@@ -6,4 +6,6 @@ export const whetherAPreFeltPayoffBlocksANewWant = {
   slug: "whether-a-pre-felt-payoff-blocks-a-new-want",
   topic: "all-about-alan-topic/writing-a-new-want-into-myself",
   ask: "My prediction is untested. Does a want needing a pre-felt payoff never install, while a want that reduces to a present irritant takes?",
+  createdAt: "2026-09-06T18:18:30.654Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

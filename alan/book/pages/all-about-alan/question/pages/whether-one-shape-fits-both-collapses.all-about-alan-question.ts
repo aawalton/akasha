@@ -6,4 +6,6 @@ export const whetherOneShapeFitsBothCollapses = {
   slug: "whether-one-shape-fits-both-collapses",
   topic: "all-about-alan-topic/what-happens-when-something-gets-cheap",
   ask: "Abby's reading is that one shape turned up twice: cheap instructions breaking on volume, cheap checks breaking on evaluation, each fixed by one structure built once. Does that reading hold?",
+  createdAt: "2026-09-06T18:15:19.552Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

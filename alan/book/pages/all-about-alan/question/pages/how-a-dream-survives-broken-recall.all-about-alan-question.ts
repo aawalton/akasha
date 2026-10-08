@@ -6,4 +6,6 @@ export const howADreamSurvivesBrokenRecall = {
   slug: "how-a-dream-survives-broken-recall",
   topic: "all-about-alan-topic/what-happens-when-i-sleep",
   ask: "If my waking recall is broken, how does enough of a dream survive for me to know it held senses and feelings, and to write it down?",
+  createdAt: "2026-09-06T18:14:04.071Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

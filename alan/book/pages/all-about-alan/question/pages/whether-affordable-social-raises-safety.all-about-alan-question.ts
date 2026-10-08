@@ -6,4 +6,6 @@ export const whetherAffordableSocialRaisesSafety = {
   slug: "whether-affordable-social-raises-safety",
   topic: "all-about-alan-topic/the-marriage-lever-i-cannot-read",
   ask: "Does positive affordable social raise my safety in its own right, and is that a reach of the marriage dimension or a lever of its own?",
+  createdAt: "2026-09-06T18:46:38.176Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

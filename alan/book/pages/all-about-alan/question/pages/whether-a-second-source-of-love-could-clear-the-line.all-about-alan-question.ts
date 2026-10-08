@@ -6,4 +6,6 @@ export const whetherASecondSourceOfLoveCouldClearTheLine = {
   slug: "whether-a-second-source-of-love-could-clear-the-line",
   topic: "all-about-alan-topic/living-with-jen",
   ask: "Love only greens on positive-capacity time and Jen is my one source of it. Could a second source ever clear the line, or is love pinned to Jen until my safety rises?",
+  createdAt: "2026-09-06T18:10:21.968Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const howLongAStoryHoldsTheDoorOpen = {
   slug: "how-long-a-story-holds-the-door-open",
   topic: "all-about-alan-topic/how-a-story-gets-my-own-feeling-back",
   ask: "Does a story's retrieval hold the door to my feeling open for a while, or only flash it open in the moment?",
+  createdAt: "2026-09-06T18:06:40.361Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

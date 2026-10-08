@@ -6,4 +6,6 @@ export const whichDoorwayBackIntoMakingCostsLeast = {
   slug: "which-doorway-back-into-making-costs-least",
   topic: "all-about-alan-topic/getting-back-to-making-with-my-hands",
   ask: "Which doorway back into making costs least, now that quilting is scarred through, Lego is held back by expense rather than by a scar, and drawing alone sits at five or six?",
+  createdAt: "2026-09-06T18:15:02.155Z",
+  updatedAt: "2026-09-22T18:29:54.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherTheOtherLeversWorkLikeSurplus = {
   slug: "whether-the-other-levers-work-like-surplus",
   topic: "all-about-alan-topic/the-harness-around-my-safety",
   ask: "Surplus above zero raises my baseline safety over time. Do akasha flowing and my marriage work the same way, as a rate that accrues, or do they move the level directly?",
+  createdAt: "2026-09-06T18:42:55.610Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

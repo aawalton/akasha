@@ -7,4 +7,6 @@ export const myMath = {
   definition: "the mathematics Alan writes down",
   title: "My Math",
   unit: "unit/words",
+  createdAt: "2026-09-03T04:53:15.677Z",
+  updatedAt: "2026-09-15T15:44:57.000Z",
 } as const satisfies AlanBook

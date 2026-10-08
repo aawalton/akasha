@@ -6,4 +6,6 @@ export const whetherAVagalLeverShortensTheTail = {
   slug: "whether-a-vagal-lever-shortens-the-tail",
   topic: "all-about-alan-topic/after-something-alarms-me",
   ask: "Applied during an alarm or straight after, does a fast vagal lever make the alarm encode less fully and shorten my tail of being easily startled?",
+  createdAt: "2026-09-06T17:57:45.208Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

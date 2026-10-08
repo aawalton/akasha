@@ -6,4 +6,6 @@ export const whetherDrivingMyselfCostsOrSaves = {
   slug: "whether-driving-myself-costs-or-saves",
   topic: "all-about-alan-topic/driving-myself-like-a-machine",
   ask: "Does driving myself like a machine cost me something of its own, the way wearing a face does, or is it cheaper than acting on feeling because it skips that layer?",
+  createdAt: "2026-09-06T18:13:05.813Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

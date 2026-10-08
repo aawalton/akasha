@@ -6,4 +6,6 @@ export const whetherAnythingINeededNeverStuck = {
   slug: "whether-anything-i-needed-never-stuck",
   topic: "all-about-alan-topic/how-i-know-things",
   ask: "Nothing goes into my conceptual map on purpose. Has there been a point I needed in there that never stuck, and what did I do about the gap?",
+  createdAt: "2026-09-06T18:07:39.400Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

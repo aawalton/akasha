@@ -6,4 +6,6 @@ export const whereMyOldRuleAgainstHarmCameFrom = {
   slug: "where-my-old-rule-against-harm-came-from",
   topic: "all-about-alan-topic/the-rule-that-i-may-not-spend-myself",
   ask: "Where did the old rule come from, an explicit rule I was given as a child or a default I never compiled, and does that rule share a root with the rule about wanting things?",
+  createdAt: "2026-09-06T18:04:36.851Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

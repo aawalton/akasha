@@ -161,4 +161,6 @@ export const clearReadsOnContextReplaced = {
         "A reading kept across a compaction would keep that page's body out of every later answer.",
     },
   ],
+  createdAt: "2026-08-29T22:33:35.608Z",
+  updatedAt: "2026-09-25T17:56:11.000Z",
 } as const satisfies AgentHook

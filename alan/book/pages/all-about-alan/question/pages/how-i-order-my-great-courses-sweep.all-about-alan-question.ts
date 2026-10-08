@@ -6,4 +6,6 @@ export const howIOrderMyGreatCoursesSweep = {
   slug: "how-i-order-my-great-courses-sweep",
   topic: "all-about-alan-topic/what-i-take-in",
   ask: "Does my sweep through the Great Courses run in a deliberate order, and how do the remaining seven thousand hours get ordered?",
+  createdAt: "2026-09-06T18:08:40.377Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

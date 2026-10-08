@@ -6,4 +6,6 @@ export const whetherTheSupermajorityArrivesInTime = {
   slug: "whether-the-supermajority-arrives-in-time",
   topic: "all-about-alan-topic/deciding-together",
   ask: "Does the supermajority of days at level five or above arrive before the eighteen-month clock ends the justification?",
+  createdAt: "2026-09-06T18:10:56.705Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

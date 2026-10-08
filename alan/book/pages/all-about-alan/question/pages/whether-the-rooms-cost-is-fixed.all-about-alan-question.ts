@@ -6,4 +6,6 @@ export const whetherTheRoomsCostIsFixed = {
   slug: "whether-the-rooms-cost-is-fixed",
   topic: "all-about-alan-topic/how-much-attention-i-have",
   ask: "Is the cost of processing the room genuinely fixed, or does that cost go up in a louder room?",
+  createdAt: "2026-09-06T18:11:30.814Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

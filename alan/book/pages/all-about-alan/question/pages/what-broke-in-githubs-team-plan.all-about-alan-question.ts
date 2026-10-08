@@ -6,4 +6,6 @@ export const whatBrokeInGithubsTeamPlan = {
   slug: "what-broke-in-githubs-team-plan",
   topic: "all-about-alan-topic/how-my-services-decide-to-deploy",
   ask: "What exactly broke in GitHub's team plan when I broke it as an individual in January, and what was the limit?",
+  createdAt: "2026-09-06T18:15:11.814Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

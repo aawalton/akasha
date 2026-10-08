@@ -6,4 +6,6 @@ export const whatShareOfRecoveryRunsThroughTheNerve = {
   slug: "what-share-of-recovery-runs-through-the-nerve",
   topic: "all-about-alan-topic/how-safety-climbs",
   ask: "What share of each recovery practice runs through the direct nerve route rather than through rebuilt capacity?",
+  createdAt: "2026-09-06T18:16:19.352Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

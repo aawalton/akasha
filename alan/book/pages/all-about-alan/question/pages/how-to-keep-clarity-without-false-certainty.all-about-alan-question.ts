@@ -6,4 +6,6 @@ export const howToKeepClarityWithoutFalseCertainty = {
   slug: "how-to-keep-clarity-without-false-certainty",
   topic: "all-about-alan-topic/how-i-come-across",
   ask: "How do I keep the clarity without the false certainty?",
+  createdAt: "2026-09-06T18:12:53.994Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

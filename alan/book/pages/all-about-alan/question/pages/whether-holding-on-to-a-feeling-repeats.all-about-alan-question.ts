@@ -6,4 +6,6 @@ export const whetherHoldingOnToAFeelingRepeats = {
   slug: "whether-holding-on-to-a-feeling-repeats",
   topic: "all-about-alan-topic/the-two-decades-i-came-through",
   ask: "Is holding on to a feeling a repeatable move, and how is it done when nothing stays by itself?",
+  createdAt: "2026-09-06T18:11:39.627Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

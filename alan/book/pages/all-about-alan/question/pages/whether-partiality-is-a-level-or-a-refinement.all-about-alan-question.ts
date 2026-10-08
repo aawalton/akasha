@@ -6,4 +6,6 @@ export const whetherPartialityIsALevelOrARefinement = {
   slug: "whether-partiality-is-a-level-or-a-refinement",
   topic: "all-about-alan-topic/whether-i-stay",
   ask: "Plain utility with no weighting of myself against anyone else runs against how the ethics canon frames partiality: are the two different levels, or is mine a real refinement?",
+  createdAt: "2026-09-06T18:13:05.885Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

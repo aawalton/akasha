@@ -6,4 +6,6 @@ export const whetherTheLooseBreakFiresOnManaAlone = {
   slug: "whether-the-loose-break-fires-on-mana-alone",
   topic: "all-about-alan-topic/defaulting-to-too-much-protection",
   ask: "Does my loose break fire on mana alone or on mana and safety together?",
+  createdAt: "2026-09-06T18:11:54.994Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

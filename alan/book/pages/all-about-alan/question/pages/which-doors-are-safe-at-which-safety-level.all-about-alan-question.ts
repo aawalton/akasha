@@ -6,4 +6,6 @@ export const whichDoorsAreSafeAtWhichSafetyLevel = {
   slug: "which-doors-are-safe-at-which-safety-level",
   topic: "all-about-alan-topic/walking-a-hard-subject-out-loud",
   ask: "Which doors are safe to open at which safety level, and what ladder would put that judgement on the footing the affordable-and-free ladder has?",
+  createdAt: "2026-09-06T18:06:28.832Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

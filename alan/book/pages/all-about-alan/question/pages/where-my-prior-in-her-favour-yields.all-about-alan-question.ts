@@ -6,4 +6,6 @@ export const whereMyPriorInHerFavourYields = {
   slug: "where-my-prior-in-her-favour-yields",
   topic: "all-about-alan-topic/giving-her-the-benefit-of-the-doubt",
   ask: "How does my thumb on the scale in her favour behave under a real conflict with contrary evidence, where does the prior yield, and does it drift into a blank cheque?",
+  createdAt: "2026-09-06T18:02:09.984Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

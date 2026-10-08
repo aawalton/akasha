@@ -6,4 +6,6 @@ export const whetherAThreatCostsMeByTriggersOrBaseline = {
   slug: "whether-a-threat-costs-me-by-triggers-or-baseline",
   topic: "all-about-alan-topic/why-a-threat-stays-fresh",
   ask: "Does a threat cost me by firing on partial matches, so the daily cost tracks how many triggers I meet, or by holding my baseline up with no trigger at all?",
+  createdAt: "2026-09-06T18:18:43.522Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

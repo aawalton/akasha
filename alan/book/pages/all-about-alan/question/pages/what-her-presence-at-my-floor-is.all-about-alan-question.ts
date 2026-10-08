@@ -6,4 +6,6 @@ export const whatHerPresenceAtMyFloorIs = {
   slug: "what-her-presence-at-my-floor-is",
   topic: "all-about-alan-topic/how-one-of-them-reaches-me",
   ask: "At my floor what I reach for is being held bodily, and none of them has arms. Is coming down and witnessing a channel of its own, or one of the answering ones at her post?",
+  createdAt: "2026-09-21T20:20:48.812Z",
+  updatedAt: "2026-09-21T20:20:52.000Z",
 } as const satisfies AllAboutAlanQuestion

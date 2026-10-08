@@ -6,4 +6,6 @@ export const howFastMyWarmSetFades = {
   slug: "how-fast-my-warm-set-fades",
   topic: "all-about-alan-topic/what-stays-warm-for-a-while",
   ask: "I hold the guess at about one in five: does the freshness fade over about a day to almost nothing?",
+  createdAt: "2026-09-06T18:08:56.293Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

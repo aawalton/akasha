@@ -6,4 +6,6 @@ export const whetherRewritingAGoalMovesMyAttention = {
   slug: "whether-rewriting-a-goal-moves-my-attention",
   topic: "all-about-alan-topic/when-something-is-fun",
   ask: "Does rewriting a goal in advance move where my attention truly lands, or only the label I give the activity?",
+  createdAt: "2026-09-06T18:05:06.774Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

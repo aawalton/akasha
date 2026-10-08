@@ -6,4 +6,6 @@ export const whetherMyLimitingResourceCanMoveAgain = {
   slug: "whether-my-limiting-resource-can-move-again",
   topic: "all-about-alan-topic/what-limits-me",
   ask: "The limiting resource already moved once, from stress to safety, and the hub moved with it. Is the limit fixed at safety now, or can it move again, and what would move it?",
+  createdAt: "2026-09-06T18:13:07.133Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

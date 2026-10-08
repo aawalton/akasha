@@ -6,4 +6,6 @@ export const whichPlacesWeEatAreWorthCultivating = {
   slug: "which-places-we-eat-are-worth-cultivating",
   topic: "all-about-alan-topic/trusting-a-person-not-an-institution",
   ask: "The places we eat sit in the audit as one lump, which my framework refuses everywhere else. Which of those places are worth cultivating?",
+  createdAt: "2026-09-06T18:04:16.466Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

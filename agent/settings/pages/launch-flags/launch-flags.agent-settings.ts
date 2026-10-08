@@ -6,4 +6,6 @@ export const launchFlags = {
   slug: "launch-flags",
   definition: "the flags launching the client",
   harnessSettings: "json",
+  createdAt: "2026-09-03T04:16:39.232Z",
+  updatedAt: "2026-09-22T13:50:37.000Z",
 } as const satisfies AgentSettings

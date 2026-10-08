@@ -6,4 +6,6 @@ export const howMyFoodPrepGetsKeptUp = {
   slug: "how-my-food-prep-gets-kept-up",
   topic: "all-about-alan-topic/the-foods-i-can-still-manage",
   ask: "How does the upstream prep get kept up, when that maintenance is invisible exactly when the set of foods is needed?",
+  createdAt: "2026-09-06T18:07:49.030Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

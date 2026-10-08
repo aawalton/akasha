@@ -6,4 +6,6 @@ export const howINameAFactorBehindAVerdict = {
   slug: "how-i-name-a-factor-behind-a-verdict",
   topic: "all-about-alan-topic/how-understanding-arrives",
   ask: "When my whole verdict overrules the rubric, how do I reverse-engineer that verdict into a named factor?",
+  createdAt: "2026-09-06T18:04:33.701Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

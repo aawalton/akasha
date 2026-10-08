@@ -6,4 +6,6 @@ export const whetherMakingAloneIsActuallyBreached = {
   slug: "whether-making-alone-is-actually-breached",
   topic: "all-about-alan-topic/whether-the-alarm-needs-a-possible-witness",
   ask: "Whether open making in a truly private room fires the alarm. The for-myself channel should be safe by my model, and the one test that would tell has never been run.",
+  createdAt: "2026-09-21T21:38:44.880Z",
+  updatedAt: "2026-09-21T21:38:49.000Z",
 } as const satisfies AllAboutAlanQuestion

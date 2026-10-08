@@ -6,4 +6,6 @@ export const whetherTheFiringCarriesAFreshEncodingSignature = {
   slug: "whether-the-firing-carries-a-fresh-encoding-signature",
   topic: "all-about-alan-topic/when-i-lost-who-i-was",
   ask: "Does the firing carry the fresh-encoding signature, and what cues set the firing off?",
+  createdAt: "2026-09-06T18:17:11.402Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

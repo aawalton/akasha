@@ -6,4 +6,6 @@ export const whichFeminineSignalsRaiseMySafety = {
   slug: "which-feminine-signals-raise-my-safety",
   topic: "all-about-alan-topic/where-i-land-on-gender",
   ask: "Which feminine signals do I use to raise my own safety, catalogued visible against private and now against earlier?",
+  createdAt: "2026-09-06T18:08:53.362Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

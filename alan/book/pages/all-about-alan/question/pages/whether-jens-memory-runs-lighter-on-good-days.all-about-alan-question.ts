@@ -6,4 +6,6 @@ export const whetherJensMemoryRunsLighterOnGoodDays = {
   slug: "whether-jens-memory-runs-lighter-on-good-days",
   topic: "all-about-alan-topic/the-twenty-years-we-remember-differently",
   ask: "A figure would make the swing measurable rather than one-directional, so does Jen's memory of the twenty years run lighter than my record on her good days, and by how much?",
+  createdAt: "2026-09-06T18:11:04.365Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

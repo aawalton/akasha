@@ -6,4 +6,6 @@ export const whatTriggersMyLooseClothingBreak = {
   slug: "what-triggers-my-loose-clothing-break",
   topic: "all-about-alan-topic/how-the-bars-pull-on-each-other",
   ask: "Is my loose-clothing break triggered by mana alone, or by mana and safety together?",
+  createdAt: "2026-09-06T18:03:22.778Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

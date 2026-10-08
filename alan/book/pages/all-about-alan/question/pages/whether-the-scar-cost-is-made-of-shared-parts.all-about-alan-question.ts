@@ -6,4 +6,6 @@ export const whetherTheScarCostIsMadeOfSharedParts = {
   slug: "whether-the-scar-cost-is-made-of-shared-parts",
   topic: "all-about-alan-topic/what-came-back-together-and-what-did-not",
   ask: "Abby read the surcharge as parts shared across activities rather than one lump each, the screen part paid down once being why the four clustered. I built on it without contradicting it. Does it hold?",
+  createdAt: "2026-09-21T23:00:10.499Z",
+  updatedAt: "2026-09-21T23:00:15.000Z",
 } as const satisfies AllAboutAlanQuestion

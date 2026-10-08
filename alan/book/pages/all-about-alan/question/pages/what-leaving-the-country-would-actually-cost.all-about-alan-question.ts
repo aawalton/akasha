@@ -6,4 +6,6 @@ export const whatLeavingTheCountryWouldActuallyCost = {
   slug: "what-leaving-the-country-would-actually-cost",
   topic: "all-about-alan-topic/the-layers-i-live-inside",
   ask: "What would expatriation actually cost me, priced against the exit tax on the liquid stock and on the illiquid startup stake?",
+  createdAt: "2026-09-21T20:22:24.743Z",
+  updatedAt: "2026-09-21T20:22:28.000Z",
 } as const satisfies AllAboutAlanQuestion

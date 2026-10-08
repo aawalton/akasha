@@ -7,4 +7,6 @@ export const exp4VoiceRewardDose = {
   title: "Exp 4 — Voice-Reward Dose",
   definition: "how much reward I feel from praise read to me in a cloned voice",
   lineSet: "json",
+  createdAt: "2026-09-03T04:20:59.817Z",
+  updatedAt: "2026-09-21T20:09:32.000Z",
 } as const satisfies AllAboutAlanExperiment

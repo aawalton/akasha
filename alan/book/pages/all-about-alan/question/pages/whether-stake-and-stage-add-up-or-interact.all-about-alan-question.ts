@@ -6,4 +6,6 @@ export const whetherStakeAndStageAddUpOrInteract = {
   slug: "whether-stake-and-stage-add-up-or-interact",
   topic: "all-about-alan-topic/whether-any-closeness-escapes-it",
   ask: "Do the stake and the stage of a relationship add up, or do the stake and the stage interact?",
+  createdAt: "2026-09-06T18:12:21.124Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

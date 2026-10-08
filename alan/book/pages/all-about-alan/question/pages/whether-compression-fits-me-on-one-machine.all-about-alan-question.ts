@@ -6,4 +6,6 @@ export const whetherCompressionFitsMeOnOneMachine = {
   slug: "whether-compression-fits-me-on-one-machine",
   topic: "all-about-alan-topic/what-the-book-of-me-is-for",
   ask: "Do clarity and compression ever get the whole picture onto one machine, and how do I compress the picture without losing the thing compressed?",
+  createdAt: "2026-09-06T18:10:35.243Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whyMakingIsEasierNowThanItWas = {
   slug: "why-making-is-easier-now-than-it-was",
   topic: "all-about-alan-topic/why-making-things-hurts",
   ask: "Making is easier for me now than it was at the fort, and I do not know why. One candidate is that the personas insulate me.",
+  createdAt: "2026-09-21T20:29:21.188Z",
+  updatedAt: "2026-09-21T20:29:24.000Z",
 } as const satisfies AllAboutAlanQuestion

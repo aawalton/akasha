@@ -6,4 +6,6 @@ export const whatAWholeBodyOfWorkGivesMe = {
   slug: "what-a-whole-body-of-work-gives-me",
   topic: "all-about-alan-topic/what-i-take-in",
   ask: "What does a whole body of work give me that the best single book does not: coverage, coherence, or seeing the work applied across fields?",
+  createdAt: "2026-09-06T18:08:40.376Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whichSocialSituationsIMisread = {
   slug: "which-social-situations-i-misread",
   topic: "all-about-alan-topic/why-people-read-as-unsafe",
   ask: "The account has no worked case under it while the episodes stay uncatalogued: which social situations have I catastrophically misread?",
+  createdAt: "2026-09-06T18:12:54.084Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

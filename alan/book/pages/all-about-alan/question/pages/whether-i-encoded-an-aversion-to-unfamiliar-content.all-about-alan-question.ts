@@ -6,4 +6,6 @@ export const whetherIEncodedAnAversionToUnfamiliarContent = {
   slug: "whether-i-encoded-an-aversion-to-unfamiliar-content",
   topic: "all-about-alan-topic/what-repetition-encodes",
   ask: "Did being made to start unfamiliar things under low resources encode a blanket aversion to unfamiliar content in me?",
+  createdAt: "2026-09-06T18:07:30.994Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

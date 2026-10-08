@@ -6,4 +6,6 @@ export const whatHoldsMyFeelingHalfUp = {
   slug: "what-holds-my-feeling-half-up",
   topic: "all-about-alan-topic/how-different-i-actually-am",
   ask: "What holds my feeling half up rather than letting it sag to the body figure?",
+  createdAt: "2026-09-06T18:07:35.256Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

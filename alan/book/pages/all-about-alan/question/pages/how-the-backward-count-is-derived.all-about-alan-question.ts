@@ -6,4 +6,6 @@ export const howTheBackwardCountIsDerived = {
   slug: "how-the-backward-count-is-derived",
   topic: "all-about-alan-topic/the-crowd-that-has-been-me",
   ask: "The forward count comes from a branching rate times the years left. What derives the backward one, where the chain behind me is a single realised run?",
+  createdAt: "2026-09-21T20:25:44.955Z",
+  updatedAt: "2026-09-21T20:25:48.000Z",
 } as const satisfies AllAboutAlanQuestion

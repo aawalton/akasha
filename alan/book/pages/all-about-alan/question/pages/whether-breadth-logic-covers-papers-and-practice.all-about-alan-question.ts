@@ -6,4 +6,6 @@ export const whetherBreadthLogicCoversPapersAndPractice = {
   slug: "whether-breadth-logic-covers-papers-and-practice",
   topic: "all-about-alan-topic/what-i-take-in",
   ask: "Do papers, conversations and practice run on the same breadth logic my reading runs on?",
+  createdAt: "2026-09-06T18:08:40.377Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

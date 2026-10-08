@@ -6,4 +6,6 @@ export const whetherAMappedRelationshipHoldsDamageNearZero = {
   slug: "whether-a-mapped-relationship-holds-damage-near-zero",
   topic: "all-about-alan-topic/whether-any-closeness-escapes-it",
   ask: "Can a relationship built around the mechanism, where the other person carries a map of my brain, hold the damage near zero?",
+  createdAt: "2026-09-06T18:12:21.123Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

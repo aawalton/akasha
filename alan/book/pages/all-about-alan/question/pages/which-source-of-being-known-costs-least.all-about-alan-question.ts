@@ -6,4 +6,6 @@ export const whichSourceOfBeingKnownCostsLeast = {
   slug: "which-source-of-being-known-costs-least",
   topic: "all-about-alan-topic/how-much-being-known-i-need",
   ask: "Which real source of being known costs me least per hour: the therapist, low-stakes ties, or Jen in a window where we both have room?",
+  createdAt: "2026-09-06T18:13:11.309Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

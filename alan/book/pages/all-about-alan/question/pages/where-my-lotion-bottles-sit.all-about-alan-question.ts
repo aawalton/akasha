@@ -6,4 +6,6 @@ export const whereMyLotionBottlesSit = {
   slug: "where-my-lotion-bottles-sit",
   topic: "all-about-alan-topic/keeping-my-hands-lotioned",
   ask: "Which rooms hold a lotion bottle, how were those rooms chosen, and what happens when a bottle runs out?",
+  createdAt: "2026-09-06T18:07:12.442Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

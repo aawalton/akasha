@@ -6,4 +6,6 @@ export const whatTheRungsAfterTheFirstHardTalkAre = {
   slug: "what-the-rungs-after-the-first-hard-talk-are",
   topic: "all-about-alan-topic/how-a-hard-talk-with-jen-gets-safer",
   ask: "What are the rungs after the first one, when grading a hard talk by intensity does not work with another person as the intensity?",
+  createdAt: "2026-09-06T18:05:12.223Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

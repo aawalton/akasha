@@ -6,4 +6,6 @@ export const howTheGateScoresACandidateOntoTheBoard = {
   slug: "how-the-gate-scores-a-candidate-onto-the-board",
   topic: "all-about-alan-topic/what-matters-against-what-shouts",
   ask: "How does the gate score a candidate onto the board in the first place?",
+  createdAt: "2026-09-06T18:15:25.908Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

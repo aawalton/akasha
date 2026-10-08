@@ -6,4 +6,6 @@ export const whatMyBodyCarriesWhenMyHeadIsKnown = {
   slug: "what-my-body-carries-when-my-head-is-known",
   topic: "all-about-alan-topic/how-much-being-known-i-need",
   ask: "What settles what my body carries, when being known in my head does not settle it and Jen is the only payer there?",
+  createdAt: "2026-09-06T18:13:11.312Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

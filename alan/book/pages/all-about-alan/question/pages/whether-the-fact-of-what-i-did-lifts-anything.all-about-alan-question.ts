@@ -6,4 +6,6 @@ export const whetherTheFactOfWhatIDidLiftsAnything = {
   slug: "whether-the-fact-of-what-i-did-lifts-anything",
   topic: "all-about-alan-topic/what-my-record-gives-me-back",
   ask: "Does the fact of what I did do anything beyond being nice, and does that fact lift anything?",
+  createdAt: "2026-09-06T18:16:57.338Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

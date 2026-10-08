@@ -6,4 +6,6 @@ export const whetherAnOutsideSensorCatchesTheInvisibleHalf = {
   slug: "whether-an-outside-sensor-catches-the-invisible-half",
   topic: "all-about-alan-topic/why-i-keep-hard-truths-back",
   ask: "Could an outside sensor catch the invisible half, Jen flagging what she wanted and did not get, without the flag landing as pain in the same place?",
+  createdAt: "2026-09-06T18:09:19.022Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

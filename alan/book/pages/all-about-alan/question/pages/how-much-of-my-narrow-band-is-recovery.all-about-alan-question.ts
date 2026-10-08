@@ -6,4 +6,6 @@ export const howMuchOfMyNarrowBandIsRecovery = {
   slug: "how-much-of-my-narrow-band-is-recovery",
   topic: "all-about-alan-topic/how-stimulated-i-am",
   ask: "How much of my band's remaining narrowness widens as I recover, and how much is simply how I am built?",
+  createdAt: "2026-09-06T18:02:51.993Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

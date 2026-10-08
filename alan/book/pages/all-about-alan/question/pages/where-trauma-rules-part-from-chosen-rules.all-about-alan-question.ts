@@ -6,4 +6,6 @@ export const whereTraumaRulesPartFromChosenRules = {
   slug: "where-trauma-rules-part-from-chosen-rules",
   topic: "all-about-alan-topic/where-my-ethics-meets-my-rules",
   ask: "Where does the split run between rules installed by trauma and rules I chose, and can I endorse that split once it is no longer leaky?",
+  createdAt: "2026-09-06T18:10:16.615Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

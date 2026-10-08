@@ -6,4 +6,6 @@ export const whetherMyBreathingBeatHoldsWhileProgramming = {
   slug: "whether-my-breathing-beat-holds-while-programming",
   topic: "all-about-alan-topic/how-i-actually-breathe",
   ask: "Does my one-second beat hold through programming as well as it holds through walking?",
+  createdAt: "2026-09-06T18:10:32.826Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

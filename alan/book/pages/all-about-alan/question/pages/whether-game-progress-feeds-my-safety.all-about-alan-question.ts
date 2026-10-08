@@ -6,4 +6,6 @@ export const whetherGameProgressFeedsMySafety = {
   slug: "whether-game-progress-feeds-my-safety",
   topic: "all-about-alan-topic/the-progress-i-get-to-keep",
   ask: "Does the support a game gives my mental health make game progress a feeder into my safety?",
+  createdAt: "2026-09-06T18:02:11.950Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

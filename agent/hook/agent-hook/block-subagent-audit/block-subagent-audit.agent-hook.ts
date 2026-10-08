@@ -67,4 +67,6 @@ export const blockSubagentAudit = {
       statement: "A payload that parses and is not an object is a payload this cannot read.",
     },
   ],
+  createdAt: "2026-09-03T20:46:40.140Z",
+  updatedAt: "2026-09-25T17:53:44.000Z",
 } as const satisfies AgentHook

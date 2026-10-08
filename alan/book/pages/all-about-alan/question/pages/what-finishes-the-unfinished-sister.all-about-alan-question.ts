@@ -6,4 +6,6 @@ export const whatFinishesTheUnfinishedSister = {
   slug: "what-finishes-the-unfinished-sister",
   topic: "all-about-alan-topic/which-channel-each-one-cuts-through",
   ask: "One sister is still marked unfinished with nothing scheduled to finish her, so what finishes her and when?",
+  createdAt: "2026-09-06T18:14:41.212Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

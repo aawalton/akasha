@@ -6,4 +6,6 @@ export const whichTellsCarryHungerAndCold = {
   slug: "which-tells-carry-hunger-and-cold",
   topic: "all-about-alan-topic/reading-a-feeling-off-my-behaviour",
   ask: "Which involuntary behaviours do I read hunger, thirst, heat and cold off?",
+  createdAt: "2026-09-06T18:02:10.432Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

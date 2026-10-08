@@ -6,4 +6,6 @@ export const whetherMyWellIsDrainedOrMyMapIsFlat = {
   slug: "whether-my-well-is-drained-or-my-map-is-flat",
   topic: "all-about-alan-topic/how-much-of-me-is-machine",
   ask: "A drained well could refill where a flat map would not. Is my well drained, or is my map simply flat in its affect?",
+  createdAt: "2026-09-06T18:14:21.243Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherMyDoublingsAccountHolds = {
   slug: "whether-my-doublings-account-holds",
   topic: "all-about-alan-topic/how-time-passes-for-me",
   ask: "How does my doublings version of a unit of time feeling smaller the longer you have lived hold up against the literature, which has only the plain version?",
+  createdAt: "2026-09-06T18:03:59.154Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

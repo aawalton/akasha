@@ -16,4 +16,6 @@ export const agents = {
       statement: "A seat has no agent view, so nothing moves that seat into the background.",
     },
   ],
+  createdAt: "2026-09-03T04:16:39.232Z",
+  updatedAt: "2026-09-22T13:42:40.000Z",
 } as const satisfies AgentSettings

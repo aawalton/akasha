@@ -6,4 +6,6 @@ export const whichIdentitiesSurvivedTheCollapse = {
   slug: "which-identities-survived-the-collapse",
   topic: "all-about-alan-topic/when-i-lost-who-i-was",
   ask: "My record stops at what fell, so which identities survived, and how were those identities rebuilt or replaced after?",
+  createdAt: "2026-09-06T18:17:11.400Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

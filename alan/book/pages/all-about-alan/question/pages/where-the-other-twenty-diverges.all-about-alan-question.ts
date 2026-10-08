@@ -6,4 +6,6 @@ export const whereTheOtherTwentyDiverges = {
   slug: "where-the-other-twenty-diverges",
   topic: "all-about-alan-topic/how-much-of-me-is-machine",
   ask: "Where does the other twenty diverge — the body, sleep, food, sensory load — set out one by one against the rest?",
+  createdAt: "2026-09-06T18:14:21.242Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

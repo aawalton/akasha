@@ -6,4 +6,6 @@ export const whatPredictsDroppingOffFast = {
   slug: "what-predicts-dropping-off-fast",
   topic: "all-about-alan-topic/how-i-fall-asleep",
   ask: "Does dropping off fast track my health, or capacity left, or the two together, and do mana and stamina come into it at all?",
+  createdAt: "2026-09-06T18:14:15.799Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

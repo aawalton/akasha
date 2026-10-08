@@ -6,4 +6,6 @@ export const howTheThreeReadoutsTrackAgainstBeingAlone = {
   slug: "how-the-three-readouts-track-against-being-alone",
   topic: "all-about-alan-topic/being-alone-on-purpose",
   ask: "How do the three readouts, my safety multiplier, my cost multiplier and whether the counting goes quiet, track against the experiment?",
+  createdAt: "2026-09-06T18:02:08.594Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

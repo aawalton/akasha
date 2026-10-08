@@ -6,4 +6,6 @@ export const whetherTheThreeSelvesTaxonomyIsMine = {
   slug: "whether-the-three-selves-taxonomy-is-mine",
   topic: "all-about-alan-topic/what-kind-of-thing-a-self-is",
   ask: "The three selves were named to me in conversation and I agreed and built on them, so it is my model rather than a finding. Does it hold as more than my model?",
+  createdAt: "2026-09-21T22:06:29.552Z",
+  updatedAt: "2026-09-21T22:06:33.000Z",
 } as const satisfies AllAboutAlanQuestion

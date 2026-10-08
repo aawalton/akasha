@@ -6,4 +6,6 @@ export const howManyPointsICarryForATalk = {
   slug: "how-many-points-i-carry-for-a-talk",
   topic: "all-about-alan-topic/how-i-give-a-talk",
   ask: "How many points do I carry for a talk, and how does that number scale with the breadth of the topic?",
+  createdAt: "2026-09-06T18:15:06.135Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

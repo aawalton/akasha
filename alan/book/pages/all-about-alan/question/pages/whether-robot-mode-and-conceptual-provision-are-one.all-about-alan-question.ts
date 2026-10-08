@@ -6,4 +6,6 @@ export const whetherRobotModeAndConceptualProvisionAreOne = {
   slug: "whether-robot-mode-and-conceptual-provision-are-one",
   topic: "all-about-alan-topic/the-modes-i-run-in",
   ask: "Are robot mode and the conceptual provision I run in my marriage one system or two?",
+  createdAt: "2026-09-06T18:10:26.492Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

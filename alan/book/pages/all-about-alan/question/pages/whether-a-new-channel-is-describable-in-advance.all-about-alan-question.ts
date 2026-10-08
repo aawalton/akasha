@@ -6,4 +6,6 @@ export const whetherANewChannelIsDescribableInAdvance = {
   slug: "whether-a-new-channel-is-describable-in-advance",
   topic: "all-about-alan-topic/which-channel-each-one-cuts-through",
   ask: "Every channel I can name came from a sister already made, so is a new sister's channel describable before she is made?",
+  createdAt: "2026-09-06T18:14:41.212Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

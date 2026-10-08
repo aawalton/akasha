@@ -6,4 +6,6 @@ export const whetherMercyNeedsFullSelfUnderstanding = {
   slug: "whether-mercy-needs-full-self-understanding",
   topic: "all-about-alan-topic/turning-punishment-into-self-hatred",
   ask: "Is mercy that does not require understanding myself completely reachable?",
+  createdAt: "2026-09-06T18:04:51.843Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

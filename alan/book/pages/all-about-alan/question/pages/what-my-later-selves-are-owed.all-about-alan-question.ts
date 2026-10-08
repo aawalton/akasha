@@ -6,4 +6,6 @@ export const whatMyLaterSelvesAreOwed = {
   slug: "what-my-later-selves-are-owed",
   topic: "all-about-alan-topic/why-the-going-has-to-be-the-point",
   ask: "What better beyond choice are the present and future selves in my chain owed, and how does choice cash out across the different parts of my life?",
+  createdAt: "2026-09-06T18:15:12.675Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherNarratingTheTradeRegisters = {
   slug: "whether-narrating-the-trade-registers",
   topic: "all-about-alan-topic/showing-her-she-comes-first",
   ask: "The fix is committed and untested. Does the narration run, does the narration register on Jen's side, and does it hold as a gift rather than drifting into scorekeeping?",
+  createdAt: "2026-09-06T18:10:26.986Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

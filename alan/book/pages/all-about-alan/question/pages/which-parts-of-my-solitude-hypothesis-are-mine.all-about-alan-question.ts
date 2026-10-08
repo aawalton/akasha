@@ -6,4 +6,6 @@ export const whichPartsOfMySolitudeHypothesisAreMine = {
   slug: "which-parts-of-my-solitude-hypothesis-are-mine",
   topic: "all-about-alan-topic/believing-things-i-cannot-trace",
   ask: "The hypothesis my solitude work runs on is partly borrowed. Which parts of that hypothesis are mine?",
+  createdAt: "2026-09-06T18:06:58.233Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

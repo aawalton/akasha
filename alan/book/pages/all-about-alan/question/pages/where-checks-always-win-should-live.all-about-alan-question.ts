@@ -6,4 +6,6 @@ export const whereChecksAlwaysWinShouldLive = {
   slug: "where-checks-always-win-should-live",
   topic: "all-about-alan-topic/how-i-prevent-a-category-of-wrong",
   ask: "No domain carries the rule that checks always win today. Where should that rule live, so the rule binds rather than only describing me?",
+  createdAt: "2026-09-06T18:08:07.442Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherEngineeringASettingAndRaisingMyCentreCompose = {
   slug: "whether-engineering-a-setting-and-raising-my-centre-compose",
   topic: "all-about-alan-topic/building-a-setting-i-can-be-safe-in",
   ask: "Do engineering the setting and raising my centre substitute for each other or compose, given the two would be run quite differently?",
+  createdAt: "2026-09-06T18:08:49.731Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

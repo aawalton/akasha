@@ -6,4 +6,6 @@ export const whetherMyFaithWarrantsZeroTolerance = {
   slug: "whether-my-faith-warrants-zero-tolerance",
   topic: "all-about-alan-topic/sex",
   ask: "I decided on the check and never ran it, and the chastity theology under my zero-tolerance rule is barely dug. Does my faith actually warrant that rule?",
+  createdAt: "2026-09-06T18:09:24.796Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

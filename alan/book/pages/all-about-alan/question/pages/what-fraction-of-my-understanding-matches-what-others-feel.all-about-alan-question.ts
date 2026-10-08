@@ -6,4 +6,6 @@ export const whatFractionOfMyUnderstandingMatchesWhatOthersFeel = {
   slug: "what-fraction-of-my-understanding-matches-what-others-feel",
   topic: "all-about-alan-topic/getting-to-a-feeling-through-an-idea",
   ask: "I flagged my own figure provisional and nobody has rechecked the figure. What fraction of what I understand matches what other people feel?",
+  createdAt: "2026-09-06T18:01:54.765Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

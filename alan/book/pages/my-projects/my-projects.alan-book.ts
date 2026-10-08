@@ -9,4 +9,6 @@ export const myProjects = {
   description:
     "The undertakings in my life that have a scope, a decision to make, or work left to do — the house and its envelope, rooftop solar, the garden and where our food comes from, the vehicles, the insurance and the holdings, the second passport, and the vendors everything else rests on. Each section is one undertaking, and holds what I have settled about it and what is still open.",
   unit: "unit/words",
+  createdAt: "2026-09-06T13:18:54.063Z",
+  updatedAt: "2026-09-15T15:44:57.000Z",
 } as const satisfies AlanBook

@@ -6,4 +6,6 @@ export const whetherTheRenegotiationStartsAtAll = {
   slug: "whether-the-renegotiation-starts-at-all",
   topic: "all-about-alan-topic/deciding-together",
   ask: "The renegotiation of joint governance has barely started. Does it start at all, and can it run at the very gate level it was built to avoid?",
+  createdAt: "2026-09-06T18:10:56.706Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

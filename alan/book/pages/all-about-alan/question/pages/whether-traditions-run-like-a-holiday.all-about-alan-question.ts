@@ -6,4 +6,6 @@ export const whetherTraditionsRunLikeAHoliday = {
   slug: "whether-traditions-run-like-a-holiday",
   topic: "all-about-alan-topic/why-a-holiday-costs-me",
   ask: "Do anniversaries, traditions and the things we always do run the way a holiday does, or is any of them worth it on the coordination alone?",
+  createdAt: "2026-09-06T18:18:24.572Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

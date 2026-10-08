@@ -6,4 +6,6 @@ export const whichOtherKnobsSitInTheArousalLoop = {
   slug: "which-other-knobs-sit-in-the-arousal-loop",
   topic: "all-about-alan-topic/how-stimulated-i-am",
   ask: "Are walking, temperature, conversation and the breathing knobs in the same loop I run by hand, and how do those four rank against each other?",
+  createdAt: "2026-09-06T18:02:51.995Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

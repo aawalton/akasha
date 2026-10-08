@@ -6,4 +6,6 @@ export const whetherTrustIsAPieceOfLove = {
   slug: "whether-trust-is-a-piece-of-love",
   topic: "all-about-alan-topic/working-out-what-love-is",
   ask: "Is trust a piece of love, or its own thing to work out?",
+  createdAt: "2026-09-06T18:17:49.724Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

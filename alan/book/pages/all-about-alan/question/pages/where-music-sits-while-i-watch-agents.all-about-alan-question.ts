@@ -6,4 +6,6 @@ export const whereMusicSitsWhileIWatchAgents = {
   slug: "where-music-sits-while-i-watch-agents",
   topic: "all-about-alan-topic/how-i-watch-my-agents",
   ask: "Where does music sit while I watch my agents: is music only a knob on how wound up I am, or does music set which gear I scan in?",
+  createdAt: "2026-09-06T18:10:31.857Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

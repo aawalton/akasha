@@ -6,4 +6,6 @@ export const whetherEveryShutSeamRoutesThroughMySilence = {
   slug: "whether-every-shut-seam-routes-through-my-silence",
   topic: "all-about-alan-topic/the-part-i-have-not-opened",
   ask: "Does every shut seam route through my silence, and does each sit at or above where my safety is now?",
+  createdAt: "2026-09-06T18:13:47.861Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherDeliberateCareSatisfiesANeedForAttachment = {
   slug: "whether-deliberate-care-satisfies-a-need-for-attachment",
   topic: "all-about-alan-topic/being-alone-at-the-centre",
   ask: "Can deliberate care ever fully satisfy a need that is for felt attachment, or does a residual stay that nothing closes?",
+  createdAt: "2026-09-06T18:01:28.047Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

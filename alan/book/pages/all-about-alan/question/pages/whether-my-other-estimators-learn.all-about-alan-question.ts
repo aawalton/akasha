@@ -6,4 +6,6 @@ export const whetherMyOtherEstimatorsLearn = {
   slug: "whether-my-other-estimators-learn",
   topic: "all-about-alan-topic/the-safety-ledger-i-keep-on-one-person",
   ask: "My physiology estimator learns person by person. Do the behaviour and uncertainty estimators carry their own per-person learning too?",
+  createdAt: "2026-09-21T20:21:54.382Z",
+  updatedAt: "2026-09-21T20:21:58.000Z",
 } as const satisfies AllAboutAlanQuestion

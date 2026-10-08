@@ -6,4 +6,6 @@ export const whetherBoredomStartsATeamICannotKeepUpWith = {
   slug: "whether-boredom-starts-a-team-i-cannot-keep-up-with",
   topic: "all-about-alan-topic/how-i-watch-my-agents",
   ask: "Does boredom ever start a team I cannot keep up with, a slot free but my attention already full?",
+  createdAt: "2026-09-06T18:10:31.855Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

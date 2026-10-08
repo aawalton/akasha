@@ -55,4 +55,6 @@ export const learnEverything = {
       statement: "The answers Alan got right and the answers Alan got wrong are told to Alan.",
     },
   ],
+  createdAt: "2026-09-03T04:53:15.677Z",
+  updatedAt: "2026-09-21T22:13:13.000Z",
 } as const satisfies AlanBook

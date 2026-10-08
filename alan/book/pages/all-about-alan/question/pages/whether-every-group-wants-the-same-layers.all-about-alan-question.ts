@@ -6,4 +6,6 @@ export const whetherEveryGroupWantsTheSameLayers = {
   slug: "whether-every-group-wants-the-same-layers",
   topic: "all-about-alan-topic/the-coloured-circles-i-run-on",
   ask: "Does every group want the same number of layers, given the argument is about my range in an area and the areas differ?",
+  createdAt: "2026-09-06T18:20:13.317Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

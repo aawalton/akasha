@@ -6,4 +6,6 @@ export const whetherPrayerSilenceAndBreathSilenceAreOne = {
   slug: "whether-prayer-silence-and-breath-silence-are-one",
   topic: "all-about-alan-topic/what-praying-does-for-me",
   ask: "Is the silence in prayer and the silence while counting breath one mode pointed two ways, or two modes?",
+  createdAt: "2026-09-06T18:06:17.340Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

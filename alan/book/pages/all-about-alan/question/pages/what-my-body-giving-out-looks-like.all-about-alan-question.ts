@@ -6,4 +6,6 @@ export const whatMyBodyGivingOutLooksLike = {
   slug: "what-my-body-giving-out-looks-like",
   topic: "all-about-alan-topic/what-it-takes-to-break-me",
   ask: "What does my body giving out look like, how near did twenty years run to that floor, and does giving out leave a signature?",
+  createdAt: "2026-09-06T18:11:24.114Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

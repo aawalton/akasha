@@ -6,4 +6,6 @@ export const whereTheSeedSitsAgainstMySelves = {
   slug: "where-the-seed-sits-against-my-selves",
   topic: "all-about-alan-topic/what-this-life-is-for",
   ask: "Where does the seed sit against the selves I am built of?",
+  createdAt: "2026-09-06T18:13:44.965Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

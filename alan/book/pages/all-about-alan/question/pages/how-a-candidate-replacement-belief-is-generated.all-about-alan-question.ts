@@ -6,4 +6,6 @@ export const howACandidateReplacementBeliefIsGenerated = {
   slug: "how-a-candidate-replacement-belief-is-generated",
   topic: "all-about-alan-topic/digging-up-an-old-belief",
   ask: "How does a candidate replacement belief get generated, as against how one gets chosen?",
+  createdAt: "2026-09-06T18:12:30.300Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

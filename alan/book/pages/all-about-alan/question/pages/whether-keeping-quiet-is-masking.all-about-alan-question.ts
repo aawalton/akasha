@@ -6,4 +6,6 @@ export const whetherKeepingQuietIsMasking = {
   slug: "whether-keeping-quiet-is-masking",
   topic: "all-about-alan-topic/keeping-my-own-volume-down",
   ask: "Is keeping my volume down the same thing as masking, and does it fall apart along with masking under load?",
+  createdAt: "2026-09-06T18:07:46.403Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

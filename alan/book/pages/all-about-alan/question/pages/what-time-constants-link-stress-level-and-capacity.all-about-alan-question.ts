@@ -6,4 +6,6 @@ export const whatTimeConstantsLinkStressLevelAndCapacity = {
   slug: "what-time-constants-link-stress-level-and-capacity",
   topic: "all-about-alan-topic/stress-level",
   ask: "What are the time constants between my stress level and my stress capacity, and what does an intervention do to either?",
+  createdAt: "2026-09-06T18:16:08.361Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

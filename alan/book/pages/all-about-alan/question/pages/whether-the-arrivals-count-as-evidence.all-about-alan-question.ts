@@ -6,4 +6,6 @@ export const whetherTheArrivalsCountAsEvidence = {
   slug: "whether-the-arrivals-count-as-evidence",
   topic: "all-about-alan-topic/how-god-reaches-me",
   ask: "Does that run of arrivals count as evidence the way repeated runs of an experiment do, or is it one conviction retold?",
+  createdAt: "2026-09-06T18:09:37.485Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

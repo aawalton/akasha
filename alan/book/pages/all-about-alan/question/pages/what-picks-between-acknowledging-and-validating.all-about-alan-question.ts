@@ -6,4 +6,6 @@ export const whatPicksBetweenAcknowledgingAndValidating = {
   slug: "what-picks-between-acknowledging-and-validating",
   topic: "all-about-alan-topic/when-she-is-in-pain",
   ask: "Could anything pick between acknowledging, validating and just being there once the alarm has fired?",
+  createdAt: "2026-09-06T18:18:56.138Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatTheTrusteeshipAndTheEstrangementHold = {
   slug: "what-the-trusteeship-and-the-estrangement-hold",
   topic: "all-about-alan-topic/the-years-with-my-parents",
   ask: "What is there to write about the trusteeship and the ten years of unfiled trust taxes, the estrangement from my mother, and what she asked me about Medicaid?",
+  createdAt: "2026-09-06T18:17:05.556Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

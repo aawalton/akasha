@@ -6,4 +6,6 @@ export const whichDriveMadeTheTears = {
   slug: "which-drive-made-the-tears",
   topic: "all-about-alan-topic/studying-my-own-heart-from-outside",
   ask: "Which drive made the tears: the will to live, elevation, or being loved. The tell gave presence and category, never the source.",
+  createdAt: "2026-09-21T20:13:10.480Z",
+  updatedAt: "2026-09-21T20:13:14.000Z",
 } as const satisfies AllAboutAlanQuestion

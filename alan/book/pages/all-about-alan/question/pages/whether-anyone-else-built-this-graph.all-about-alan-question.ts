@@ -6,4 +6,6 @@ export const whetherAnyoneElseBuiltThisGraph = {
   slug: "whether-anyone-else-built-this-graph",
   topic: "all-about-alan-topic/the-graph-i-built-to-run-my-checks",
   ask: "I have only said I have not heard anyone talk about this graph. Has anyone else built the graph and not talked about it?",
+  createdAt: "2026-09-06T18:08:54.812Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

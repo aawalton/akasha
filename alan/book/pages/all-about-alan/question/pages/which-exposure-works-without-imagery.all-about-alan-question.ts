@@ -6,4 +6,6 @@ export const whichExposureWorksWithoutImagery = {
   slug: "which-exposure-works-without-imagery",
   topic: "all-about-alan-topic/why-a-threat-stays-fresh",
   ask: "Which kinds of exposure actually work on someone with no imagery, live, eye movement or bodywork?",
+  createdAt: "2026-09-06T18:18:43.521Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

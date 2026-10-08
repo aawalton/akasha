@@ -6,4 +6,6 @@ export const whetherMyWantingAsymmetryIsCalibrated = {
   slug: "whether-my-wanting-asymmetry-is-calibrated",
   topic: "all-about-alan-topic/what-the-gauge-is-actually-reading",
   ask: "There may be states where not wanting to is untrustworthy and the bar to push past it is low, and states where wanting should be trusted. Is the asymmetry set right?",
+  createdAt: "2026-09-06T18:11:32.388Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

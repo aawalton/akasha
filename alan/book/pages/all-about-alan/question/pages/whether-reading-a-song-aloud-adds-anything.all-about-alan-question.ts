@@ -6,4 +6,6 @@ export const whetherReadingASongAloudAddsAnything = {
   slug: "whether-reading-a-song-aloud-adds-anything",
   topic: "all-about-alan-topic/how-a-song-reaches-me",
   ask: "Does reading a song aloud with someone add anything beyond unpacking that song alone, or is the lift being met, paying separately?",
+  createdAt: "2026-09-06T18:06:21.835Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherTheDysphoriaYearsSitDifferentlyNow = {
   slug: "whether-the-dysphoria-years-sit-differently-now",
   topic: "all-about-alan-topic/what-i-thought-was-dysphoria",
   ask: "This asks about fit, not about how much it hurts: now that I have the layers and the measurement error, does the whole thing sit differently rather than as a condition I have?",
+  createdAt: "2026-09-06T18:10:10.907Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

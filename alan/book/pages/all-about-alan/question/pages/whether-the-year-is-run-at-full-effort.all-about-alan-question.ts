@@ -6,4 +6,6 @@ export const whetherTheYearIsRunAtFullEffort = {
   slug: "whether-the-year-is-run-at-full-effort",
   topic: "all-about-alan-topic/the-year-i-am-running",
   ask: "The validity risk on the whole trial is this: is the year genuinely being run at full effort, with both levers pulled rather than avoidantly?",
+  createdAt: "2026-09-06T18:15:46.460Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

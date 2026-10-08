@@ -6,4 +6,6 @@ export const howBigOutboundAttendingNetsOnMyBudget = {
   slug: "how-big-outbound-attending-nets-on-my-budget",
   topic: "all-about-alan-topic/being-the-one-who-knows",
   ask: "I know the sign of what outbound attending nets on my budget but not the size. How big is that net?",
+  createdAt: "2026-09-06T18:06:17.077Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

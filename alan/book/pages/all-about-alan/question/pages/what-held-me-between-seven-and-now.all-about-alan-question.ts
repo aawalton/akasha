@@ -6,4 +6,6 @@ export const whatHeldMeBetweenSevenAndNow = {
   slug: "what-held-me-between-seven-and-now",
   topic: "all-about-alan-topic/what-has-kept-me-here",
   ask: "What held me across the long stretch between seven and now, and did each guardrail hand over cleanly to the next?",
+  createdAt: "2026-09-06T18:15:55.366Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

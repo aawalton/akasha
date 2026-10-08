@@ -6,4 +6,6 @@ export const whichPapersSaidAgentsDoBetterWithFiles = {
   slug: "which-papers-said-agents-do-better-with-files",
   topic: "all-about-alan-topic/what-i-invented-and-what-i-read",
   ask: "Which research papers did I see on agents doing better with files, and what did each paper actually claim?",
+  createdAt: "2026-09-06T18:05:48.602Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

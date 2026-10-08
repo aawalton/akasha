@@ -6,4 +6,6 @@ export const howMyComponentScoresMakeALetter = {
   slug: "how-my-component-scores-make-a-letter",
   topic: "all-about-alan-topic/how-i-grade-an-organisation",
   ask: "How do the component scores on an organisation combine into a letter, and should a component under a line cap the grade however strong the rest are?",
+  createdAt: "2026-09-06T18:01:28.872Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

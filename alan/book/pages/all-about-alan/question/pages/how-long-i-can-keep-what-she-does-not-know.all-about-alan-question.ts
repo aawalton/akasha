@@ -6,4 +6,6 @@ export const howLongICanKeepWhatSheDoesNotKnow = {
   slug: "how-long-i-can-keep-what-she-does-not-know",
   topic: "all-about-alan-topic/what-i-cannot-say-to-her",
   ask: "How long can I go on being the keeper of something Jen does not know, when that length sets the ceiling on meeting her needs?",
+  createdAt: "2026-09-06T18:17:30.581Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

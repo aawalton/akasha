@@ -6,4 +6,6 @@ export const whatThe31JulyStepMeans = {
   slug: "what-the-31-july-step-means",
   topic: "all-about-alan-topic/the-eight-weeks-i-tracked",
   ask: "Is the step down at 31 July the price of starting the new arrangement or the beginning of a slide? Eight weeks cannot answer it and more weeks can.",
+  createdAt: "2026-09-21T20:24:59.837Z",
+  updatedAt: "2026-09-21T20:25:03.000Z",
 } as const satisfies AllAboutAlanQuestion

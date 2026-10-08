@@ -6,4 +6,6 @@ export const whatTheGaugeDoesWhenTwoBarsAreLow = {
   slug: "what-the-gauge-does-when-two-bars-are-low",
   topic: "all-about-alan-topic/not-wanting-to-is-the-gauge",
   ask: "When two bars are low at once, or the signals conflict, does the gauge resolve which bar it is, or return an ambiguous read that vetoes anyway?",
+  createdAt: "2026-09-06T18:14:40.642Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

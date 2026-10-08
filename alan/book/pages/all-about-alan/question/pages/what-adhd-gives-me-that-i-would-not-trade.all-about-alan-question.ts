@@ -6,4 +6,6 @@ export const whatAdhdGivesMeThatIWouldNotTrade = {
   slug: "what-adhd-gives-me-that-i-would-not-trade",
   topic: "all-about-alan-topic/having-adhd",
   ask: "What does ADHD give me that I would not trade, and do those gifts separate cleanly from autism's?",
+  createdAt: "2026-09-06T18:02:30.170Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

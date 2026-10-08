@@ -6,4 +6,6 @@ export const whichWitnessesAttestedWhat = {
   slug: "which-witnesses-attested-what",
   topic: "all-about-alan-topic/why-i-hold-the-book-true",
   ask: "Which of the witnesses attested what, and when had each witness already fallen out with Joseph Smith?",
+  createdAt: "2026-09-06T18:07:52.846Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

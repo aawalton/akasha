@@ -6,4 +6,6 @@ export const whetherPositivePullEverStartsMe = {
   slug: "whether-positive-pull-ever-starts-me",
   topic: "all-about-alan-topic/nothing-i-do-starts-with-a-decision",
   ask: "Is anything I do ever started by positive pull rather than by discomfort, or is interest only a pull left unfilled?",
+  createdAt: "2026-09-06T18:13:11.711Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

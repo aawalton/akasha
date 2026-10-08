@@ -6,4 +6,6 @@ export const whetherMySleepIsNeedOrDebt = {
   slug: "whether-my-sleep-is-need-or-debt",
   topic: "all-about-alan-topic/sleep",
   ask: "A debt should come down as I recover. Are my nine or ten hours what I need, or what I currently owe?",
+  createdAt: "2026-09-06T18:13:04.494Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

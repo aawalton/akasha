@@ -6,4 +6,6 @@ export const whetherBeingSeenIsASurchargeOrWelded = {
   slug: "whether-being-seen-is-a-surcharge-or-welded",
   topic: "all-about-alan-topic/singing-out-loud",
   ask: "Only what neither the feeling floor nor the surcharge explains would tell an honest surcharge from a welded one. Is being seen an honest surcharge on singing, or partly a welded charge?",
+  createdAt: "2026-09-06T18:12:23.830Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

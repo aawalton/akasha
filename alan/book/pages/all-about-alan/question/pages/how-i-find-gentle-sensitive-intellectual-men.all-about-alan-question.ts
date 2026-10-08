@@ -6,4 +6,6 @@ export const howIFindGentleSensitiveIntellectualMen = {
   slug: "how-i-find-gentle-sensitive-intellectual-men",
   topic: "all-about-alan-topic/where-connection-could-come-from",
   ask: "By what concrete method do I find the minority of men who are gentle, sensitive and intellectual?",
+  createdAt: "2026-09-06T18:06:51.961Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

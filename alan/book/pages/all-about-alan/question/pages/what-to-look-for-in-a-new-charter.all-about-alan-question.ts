@@ -6,4 +6,6 @@ export const whatToLookForInANewCharter = {
   slug: "what-to-look-for-in-a-new-charter",
   topic: "all-about-alan-topic/when-a-company-changes-hands",
   ask: "What should I actually look for in a new charter or mission statement at the moment a company changes hands?",
+  createdAt: "2026-09-06T18:15:35.290Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

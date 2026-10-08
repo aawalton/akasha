@@ -6,4 +6,6 @@ export const whetherAMeasureCanBeRetired = {
   slug: "whether-a-measure-can-be-retired",
   topic: "all-about-alan-topic/writing-a-new-want-into-myself",
   ask: "Can a measure be retired at all, or can only its triggers be managed?",
+  createdAt: "2026-09-06T18:18:30.654Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

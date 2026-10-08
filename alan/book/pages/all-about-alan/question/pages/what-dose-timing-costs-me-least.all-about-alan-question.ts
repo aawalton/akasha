@@ -6,4 +6,6 @@ export const whatDoseTimingCostsMeLeast = {
   slug: "what-dose-timing-costs-me-least",
   topic: "all-about-alan-topic/what-shortens-my-nights",
   ask: "How does the dose's half-life work out against bedtime, and what timing would cost me least at the front of the night?",
+  createdAt: "2026-09-06T18:08:37.231Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

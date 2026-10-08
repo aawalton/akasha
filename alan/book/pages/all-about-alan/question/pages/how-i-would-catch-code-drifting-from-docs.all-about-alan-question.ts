@@ -6,4 +6,6 @@ export const howIWouldCatchCodeDriftingFromDocs = {
   slug: "how-i-would-catch-code-drifting-from-docs",
   topic: "all-about-alan-topic/not-reading-code-any-more",
   ask: "How would I find out if the code stopped matching the documentation it runs off?",
+  createdAt: "2026-09-06T18:14:08.778Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

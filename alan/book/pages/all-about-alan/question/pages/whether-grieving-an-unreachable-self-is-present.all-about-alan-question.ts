@@ -6,4 +6,6 @@ export const whetherGrievingAnUnreachableSelfIsPresent = {
   slug: "whether-grieving-an-unreachable-self-is-present",
   topic: "all-about-alan-topic/why-the-going-has-to-be-the-point",
   ask: "Is grieving a self who is not real to me a present response to the shape of what that self went through, rather than sadness felt again?",
+  createdAt: "2026-09-06T18:15:12.676Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whichSafetyScaleAQuotedLevelUses = {
   slug: "which-safety-scale-a-quoted-level-uses",
   topic: "all-about-alan-topic/how-i-read-my-safety-level",
   ask: "How does the nought-to-five table reconcile with the minus-two-to-six one, when nothing does so today and a quoted level may not be in the units I read it in?",
+  createdAt: "2026-09-06T18:08:40.410Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

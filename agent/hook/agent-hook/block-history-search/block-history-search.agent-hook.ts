@@ -48,4 +48,6 @@ export const blockHistorySearch = {
       statement: "No search of commit messages is read here.",
     },
   ],
+  createdAt: "2026-09-13T21:29:41.446Z",
+  updatedAt: "2026-09-25T17:52:24.000Z",
 } as const satisfies AgentHook

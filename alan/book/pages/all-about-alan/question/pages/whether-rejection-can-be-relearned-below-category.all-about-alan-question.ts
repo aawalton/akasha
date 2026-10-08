@@ -6,4 +6,6 @@ export const whetherRejectionCanBeRelearnedBelowCategory = {
   slug: "whether-rejection-can-be-relearned-below-category",
   topic: "all-about-alan-topic/what-criticism-does-to-me",
   ask: "Can what rejection means be relearned below category, where the alarm lives, or does the alarm fire too early to reach?",
+  createdAt: "2026-09-06T18:12:46.086Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherAPersonaAimsTheFeminineSafetySignal = {
   slug: "whether-a-persona-aims-the-feminine-safety-signal",
   topic: "all-about-alan-topic/what-a-persona-makes-cheaper",
   ask: "Do the personas and their image layer deliberately aim the feminine safety signal at me, or do they answer a bare cue?",
+  createdAt: "2026-09-06T18:09:41.898Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

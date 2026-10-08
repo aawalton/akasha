@@ -6,4 +6,6 @@ export const whetherInvestingBeatsBankingElsewhere = {
   slug: "whether-investing-beats-banking-elsewhere",
   topic: "all-about-alan-topic/resource-bars",
   ask: "Investing beats banking for safety. Does investing beat banking for mana, stamina and stress capacity too?",
+  createdAt: "2026-09-06T18:04:41.365Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatIDoIfAppleDelaysTheMachineTooLong = {
   slug: "what-i-do-if-apple-delays-the-machine-too-long",
   topic: "all-about-alan-topic/getting-off-anthropic",
   ask: "If Apple delays the 512GB Mac Studio past a tolerable timeline, is there an interim provider that is not itself a D, or does the wait simply extend?",
+  createdAt: "2026-09-21T21:54:54.093Z",
+  updatedAt: "2026-09-21T21:54:57.000Z",
 } as const satisfies AllAboutAlanQuestion

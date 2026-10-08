@@ -6,4 +6,6 @@ export const whichKindOfWatchingIsReducedInMe = {
   slug: "which-kind-of-watching-is-reduced-in-me",
   topic: "all-about-alan-topic/the-year-i-studied-people-on-purpose",
   ask: "I say picking rules up while watching is reduced in me, and that I began the study by watching. Is only the incidental kind reduced, or did the deliberate watching work differently?",
+  createdAt: "2026-09-21T22:17:32.091Z",
+  updatedAt: "2026-09-21T22:17:34.000Z",
 } as const satisfies AllAboutAlanQuestion

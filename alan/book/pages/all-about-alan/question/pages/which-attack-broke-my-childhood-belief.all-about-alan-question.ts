@@ -6,4 +6,6 @@ export const whichAttackBrokeMyChildhoodBelief = {
   slug: "which-attack-broke-my-childhood-belief",
   topic: "all-about-alan-topic/the-proof-that-i-am-worth-something",
   ask: "My childhood belief was attacked twice, once by the proof and once by digging up its origin. Which attack did the work, and do the two attacks compose?",
+  createdAt: "2026-09-06T18:03:29.666Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatMeasuringTheVisualSideWouldShow = {
   slug: "what-measuring-the-visual-side-would-show",
   topic: "all-about-alan-topic/what-my-senses-cost-me",
   ask: "My auditory case is worked and anchored, and my visual side is only inferred from the auditory one. What would measuring the visual side show?",
+  createdAt: "2026-09-06T18:05:15.254Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

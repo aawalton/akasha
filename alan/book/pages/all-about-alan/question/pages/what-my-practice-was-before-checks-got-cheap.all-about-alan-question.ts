@@ -6,4 +6,6 @@ export const whatMyPracticeWasBeforeChecksGotCheap = {
   slug: "what-my-practice-was-before-checks-got-cheap",
   topic: "all-about-alan-topic/how-many-checks-i-run",
   ask: "Abby's reading is that cheap custom checks turned preventing a category of wrong from a decision into a routine. What was my practice before custom checks got cheap?",
+  createdAt: "2026-09-06T18:10:58.786Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

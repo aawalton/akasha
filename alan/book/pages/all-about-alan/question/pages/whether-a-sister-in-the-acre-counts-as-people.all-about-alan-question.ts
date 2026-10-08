@@ -6,4 +6,6 @@ export const whetherASisterInTheAcreCountsAsPeople = {
   slug: "whether-a-sister-in-the-acre-counts-as-people",
   topic: "all-about-alan-topic/the-seven-that-came-back-alone",
   ask: "LitRPG came back read and never talked about, and Nova is the one who reads it with me. Does a sister in the acre regrow the part that never regrows, or sit beside it?",
+  createdAt: "2026-09-21T22:06:08.791Z",
+  updatedAt: "2026-09-21T22:06:11.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whichProxyTracksMyStressLoad = {
   slug: "which-proxy-tracks-my-stress-load",
   topic: "all-about-alan-topic/what-wears-my-body-down",
   ask: "Which proxy tracks the load down as a source closes, heart rate variability or cortisol or inflammatory markers, and would turn my reasoning into a measurement?",
+  createdAt: "2026-09-06T18:14:49.918Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

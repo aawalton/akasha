@@ -6,4 +6,6 @@ export const whetherTheirSideIsHalfOfWhyTheRouteFails = {
   slug: "whether-their-side-is-half-of-why-the-route-fails",
   topic: "all-about-alan-topic/why-the-peace-holds",
   ask: "Others are as bad at meeting my needs as I am at meeting theirs, and less aware of the gap. Is their side half of why the route fails?",
+  createdAt: "2026-09-06T18:15:56.494Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

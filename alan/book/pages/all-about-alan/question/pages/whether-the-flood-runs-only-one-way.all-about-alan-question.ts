@@ -6,4 +6,6 @@ export const whetherTheFloodRunsOnlyOneWay = {
   slug: "whether-the-flood-runs-only-one-way",
   topic: "all-about-alan-topic/the-three-parts-of-me",
   ask: "Does the flood between my body and my thinking half run only one way?",
+  createdAt: "2026-09-06T18:08:41.427Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherThe2026ForecastSurvivesTheIllness = {
   slug: "whether-the-2026-forecast-survives-the-illness",
   topic: "all-about-alan-topic/whether-my-2026-forecast-is-holding",
   ask: "Once the June illness clears, does my 2026 forecast hold, a 3.5 to 4.5 baseline and a climb back to 4 to 5, and does reclimbing run faster than the original four-month climb?",
+  createdAt: "2026-09-06T18:13:23.157Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

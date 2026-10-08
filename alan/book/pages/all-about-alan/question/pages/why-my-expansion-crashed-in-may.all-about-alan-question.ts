@@ -6,4 +6,6 @@ export const whyMyExpansionCrashedInMay = {
   slug: "why-my-expansion-crashed-in-may",
   topic: "all-about-alan-topic/waiting-until-i-can-afford-people",
   ask: "Why did my expansion crash in May: a governor failing open, no dread-brake, or an aphantasia inversion?",
+  createdAt: "2026-09-06T18:05:58.896Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

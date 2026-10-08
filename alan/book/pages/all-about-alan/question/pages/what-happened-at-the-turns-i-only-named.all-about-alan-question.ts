@@ -6,4 +6,6 @@ export const whatHappenedAtTheTurnsIOnlyNamed = {
   slug: "what-happened-at-the-turns-i-only-named",
   topic: "all-about-alan-topic/the-chapters-of-my-life",
   ask: "The road trip, Nauvoo and the year of isolation are named as turns in my life. What happened in each?",
+  createdAt: "2026-09-06T18:19:09.383Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

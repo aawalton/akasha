@@ -6,4 +6,6 @@ export const whetherTheRebuildIsReallyRungThree = {
   slug: "whether-the-rebuild-is-really-rung-three",
   topic: "all-about-alan-topic/how-hard-a-thing-is",
   ask: "Abby's reading is that I confirmed the cost at a framing that priced the rebuild at rung three without ever naming the rung. Is the rebuild really rung three?",
+  createdAt: "2026-09-06T18:10:05.062Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

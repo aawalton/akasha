@@ -6,4 +6,6 @@ export const howManyWarmingHoursBuyABetterDay = {
   slug: "how-many-warming-hours-buy-a-better-day",
   topic: "all-about-alan-topic/warming-up-what-i-will-need",
   ask: "How many hours of warming up buys how much of a better day?",
+  createdAt: "2026-09-06T18:07:47.031Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

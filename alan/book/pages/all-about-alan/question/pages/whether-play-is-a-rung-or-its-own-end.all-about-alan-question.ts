@@ -6,4 +6,6 @@ export const whetherPlayIsARungOrItsOwnEnd = {
   slug: "whether-play-is-a-rung-or-its-own-end",
   topic: "all-about-alan-topic/what-a-level-of-recovery-costs",
   ask: "Is play a rung on this climb, or a thing worth reaching for on its own?",
+  createdAt: "2026-09-06T18:08:18.487Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

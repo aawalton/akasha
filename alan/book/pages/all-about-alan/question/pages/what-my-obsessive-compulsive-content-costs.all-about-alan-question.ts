@@ -6,4 +6,6 @@ export const whatMyObsessiveCompulsiveContentCosts = {
   slug: "what-my-obsessive-compulsive-content-costs",
   topic: "all-about-alan-topic/what-comes-with-it",
   ask: "What kind of obsessive-compulsive content do I have, and what does that content cost me?",
+  createdAt: "2026-09-06T18:12:14.793Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

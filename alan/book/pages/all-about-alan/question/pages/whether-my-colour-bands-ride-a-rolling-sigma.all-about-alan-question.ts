@@ -6,4 +6,6 @@ export const whetherMyColourBandsRideARollingSigma = {
   slug: "whether-my-colour-bands-ride-a-rolling-sigma",
   topic: "all-about-alan-topic/the-colours-i-read-myself-in",
   ask: "Is the sigma behind my colour bands computed over a long baseline or a rolling recent window, so that the alarm bands either hold still while a slide runs or drift down with the slide?",
+  createdAt: "2026-09-06T18:02:22.130Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

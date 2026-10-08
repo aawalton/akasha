@@ -80,4 +80,6 @@ export const blockTypecheck = {
         "A compiler call another program builds writes nothing and at worst reports a false success.",
     },
   ],
+  createdAt: "2026-08-31T17:20:25.405Z",
+  updatedAt: "2026-09-25T17:54:24.000Z",
 } as const satisfies AgentHook

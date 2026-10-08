@@ -6,4 +6,6 @@ export const whatLetMyLastLiftReachWholeWorldScale = {
   slug: "what-let-my-last-lift-reach-whole-world-scale",
   topic: "all-about-alan-topic/why-climbing-sets-off-the-fall",
   ask: "What let my last lift run all the way to whole-world scale, rather than stopping at a smaller uncovered case?",
+  createdAt: "2026-09-06T18:04:36.943Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

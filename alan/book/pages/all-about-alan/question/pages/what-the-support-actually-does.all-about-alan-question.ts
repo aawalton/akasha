@@ -6,4 +6,6 @@ export const whatTheSupportActuallyDoes = {
   slug: "what-the-support-actually-does",
   topic: "all-about-alan-topic/playing-again",
   ask: "What is the support actually doing for my play, absorbing the risk of a flop or carrying me past the cold start?",
+  createdAt: "2026-09-06T18:15:15.212Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

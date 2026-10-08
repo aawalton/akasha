@@ -6,4 +6,6 @@ export const whetherMyConnectionBaselineIsConstant = {
   slug: "whether-my-connection-baseline-is-constant",
   topic: "all-about-alan-topic/how-far-behind-i-am-on-people",
   ask: "Is my daily baseline of connection debt constant, or does it scale with my state and with how long since my last hour with someone?",
+  createdAt: "2026-09-06T18:09:20.159Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherThreeBooksBeatsOne = {
   slug: "whether-three-books-beats-one",
   topic: "all-about-alan-topic/how-i-know-things",
   ask: "I read three books quickly rather than one carefully so the repeated points stick. Have I ever checked that against reading one carefully?",
+  createdAt: "2026-09-06T18:07:39.401Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

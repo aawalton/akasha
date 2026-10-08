@@ -6,4 +6,6 @@ export const howIPickTheActivityThatUnblocksARung = {
   slug: "how-i-pick-the-activity-that-unblocks-a-rung",
   topic: "all-about-alan-topic/what-comes-back-into-reach-as-i-climb",
   ask: "How do I pick the one activity that unblocks the next rung, off felt affordability or off plain reasoning?",
+  createdAt: "2026-09-06T18:11:39.554Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

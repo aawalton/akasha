@@ -6,4 +6,6 @@ export const whetherAnythingButUnderstandingReachesMe = {
   slug: "whether-anything-but-understanding-reaches-me",
   topic: "all-about-alan-topic/what-understanding-cannot-reach",
   ask: "Does anything reach me that is not understanding, and what would that even look like?",
+  createdAt: "2026-09-06T18:14:15.469Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

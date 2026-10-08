@@ -6,4 +6,6 @@ export const whetherFairnessToFutureSelvesChangesMyChoices = {
   slug: "whether-fairness-to-future-selves-changes-my-choices",
   topic: "all-about-alan-topic/the-ones-i-have-not-been-yet",
   ask: "Does owing the selves ahead of me fairness change my ordinary long-horizon choices, and not just the veto on what I cannot undo?",
+  createdAt: "2026-09-06T18:12:43.865Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

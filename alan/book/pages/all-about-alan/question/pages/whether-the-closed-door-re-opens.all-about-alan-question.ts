@@ -6,4 +6,6 @@ export const whetherTheClosedDoorReOpens = {
   slug: "whether-the-closed-door-re-opens",
   topic: "all-about-alan-topic/why-the-peace-holds",
   ask: "The peace is days old and rests on what seeking costs. If recovery lowers that cost the equilibrium moves, so does the closed door re-open?",
+  createdAt: "2026-09-06T18:15:56.490Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const howMuchLoadFloodsIntoMyThinkingHalf = {
   slug: "how-much-load-floods-into-my-thinking-half",
   topic: "all-about-alan-topic/the-three-parts-of-me",
   ask: "How much physical load does it take to flood across into my thinking half, and is that crossing the same one as bearable turning unbearable or a boundary of its own?",
+  createdAt: "2026-09-06T18:08:41.426Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

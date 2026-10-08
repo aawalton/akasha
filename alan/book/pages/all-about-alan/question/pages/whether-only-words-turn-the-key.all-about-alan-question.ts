@@ -6,4 +6,6 @@ export const whetherOnlyWordsTurnTheKey = {
   slug: "whether-only-words-turn-the-key",
   topic: "all-about-alan-topic/how-a-story-gets-my-own-feeling-back",
   ask: "Can a film, a game or a picture turn the same key a story turns, or only words?",
+  createdAt: "2026-09-06T18:06:40.363Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

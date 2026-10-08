@@ -6,4 +6,6 @@ export const whetherEmptyAndListenSubtractsAnything = {
   slug: "whether-empty-and-listen-subtracts-anything",
   topic: "all-about-alan-topic/why-feeling-cannot-take-my-thinking",
   ask: "Is my empty-and-listen posture actively subtracting candidates, or simply my default with nothing there to subtract?",
+  createdAt: "2026-09-06T18:05:34.665Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

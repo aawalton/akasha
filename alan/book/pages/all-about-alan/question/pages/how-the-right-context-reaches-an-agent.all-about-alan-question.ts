@@ -6,4 +6,6 @@ export const howTheRightContextReachesAnAgent = {
   slug: "how-the-right-context-reaches-an-agent",
   topic: "all-about-alan-topic/why-i-rebuilt-everything",
   ask: "Abby's reading is that on 27 August an agent of mine held every domain governing its seat and still had to be told the book about me existed. How does the right context reach an agent in time?",
+  createdAt: "2026-09-06T18:10:11.355Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherThePauseOnTheSolarBidIsDeliberate = {
   slug: "whether-the-pause-on-the-solar-bid-is-deliberate",
   topic: "all-about-alan-topic/the-plans-i-over-build",
   ask: "The solar plan is worked out to the point of asking for a bid, and no bid is recorded as asked for. Is that pause deliberate?",
+  createdAt: "2026-09-06T18:15:39.862Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

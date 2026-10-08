@@ -6,4 +6,6 @@ export const whetherTheFictionIsAThinkingEnvironment = {
   slug: "whether-the-fiction-is-a-thinking-environment",
   topic: "all-about-alan-topic/the-ethics-i-worked-out",
   ask: "Is the fiction a thinking environment for me, or a way of not owning hard conclusions?",
+  createdAt: "2026-09-06T18:04:35.517Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

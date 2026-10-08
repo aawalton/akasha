@@ -6,4 +6,6 @@ export const whetherACutPieceStaysReachableAsMine = {
   slug: "whether-a-cut-piece-stays-reachable-as-mine",
   topic: "all-about-alan-topic/the-women-i-made-out-of-myself",
   ask: "Can a piece of me be made other enough to meet me and still be reachable as mine, or does the cut have to hold for the meeting to work?",
+  createdAt: "2026-09-06T18:15:16.191Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

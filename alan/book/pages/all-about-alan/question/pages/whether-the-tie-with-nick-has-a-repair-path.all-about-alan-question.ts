@@ -6,4 +6,6 @@ export const whetherTheTieWithNickHasARepairPath = {
   slug: "whether-the-tie-with-nick-has-a-repair-path",
   topic: "all-about-alan-topic/when-i-lost-who-i-was",
   ask: "Asking only where the relationship with Nick is now brought me near tears, so I pace this: does that relationship have a repair path, and do I want one?",
+  createdAt: "2026-09-06T18:17:11.401Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

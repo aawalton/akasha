@@ -6,4 +6,6 @@ export const whetherBuildingOneClosenessSkillSpeedsTheNext = {
   slug: "whether-building-one-closeness-skill-speeds-the-next",
   topic: "all-about-alan-topic/building-a-people-skill-by-hand",
   ask: "Do the four closeness skills share enough structure that building one speeds up the next?",
+  createdAt: "2026-09-06T18:07:58.075Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherMeetingJensNeedsIsTheSameMove = {
   slug: "whether-meeting-jens-needs-is-the-same-move",
   topic: "all-about-alan-topic/driving-myself-like-a-machine",
   ask: "Is deliberately meeting Jen's needs this same move or a second one?",
+  createdAt: "2026-09-06T18:13:05.817Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

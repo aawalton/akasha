@@ -6,4 +6,6 @@ export const whyIKeepCommitmentsAtAll = {
   slug: "why-i-keep-commitments-at-all",
   topic: "all-about-alan-topic/keeping-my-word",
   ask: "I park this on purpose, because the rule guards a hazard and probing whether the rule is still needed is itself the risk: why do I keep commitments at all?",
+  createdAt: "2026-09-06T18:08:50.969Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

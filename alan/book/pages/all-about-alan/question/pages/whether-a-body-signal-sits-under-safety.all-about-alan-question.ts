@@ -6,4 +6,6 @@ export const whetherABodySignalSitsUnderSafety = {
   slug: "whether-a-body-signal-sits-under-safety",
   topic: "all-about-alan-topic/not-wanting-to-is-the-gauge",
   ask: "Safety has no direct body probe and I reconstruct safety by walking down through easier things. Does any body signal sit under safety?",
+  createdAt: "2026-09-06T18:14:40.639Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

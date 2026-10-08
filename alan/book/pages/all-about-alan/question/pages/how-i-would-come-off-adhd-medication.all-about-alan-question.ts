@@ -6,4 +6,6 @@ export const howIWouldComeOffAdhdMedication = {
   slug: "how-i-would-come-off-adhd-medication",
   topic: "all-about-alan-topic/having-adhd",
   ask: "What are the steps for coming off my ADHD medication?",
+  createdAt: "2026-09-06T18:02:30.170Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

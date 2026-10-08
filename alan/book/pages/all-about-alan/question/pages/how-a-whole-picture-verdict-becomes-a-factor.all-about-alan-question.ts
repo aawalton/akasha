@@ -6,4 +6,6 @@ export const howAWholePictureVerdictBecomesAFactor = {
   slug: "how-a-whole-picture-verdict-becomes-a-factor",
   topic: "all-about-alan-topic/how-i-make-a-decision-i-cannot-undo",
   ask: "By what method do I turn an unnamed whole-picture verdict into an explicit factor, rather than only naming that turn as a step?",
+  createdAt: "2026-09-06T18:05:47.243Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

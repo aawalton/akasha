@@ -6,4 +6,6 @@ export const whatMyActualWeightHistoryIs = {
   slug: "what-my-actual-weight-history-is",
   topic: "all-about-alan-topic/how-i-eat",
   ask: "My weight history is in the record as rough figures from a handoff. What is my actual weight history?",
+  createdAt: "2026-09-06T18:13:56.956Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -58,4 +58,6 @@ export const allAboutAlan = {
       ],
     },
   ],
+  createdAt: "2026-09-03T04:53:15.677Z",
+  updatedAt: "2026-09-21T21:45:52.000Z",
 } as const satisfies AlanBook

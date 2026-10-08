@@ -6,4 +6,6 @@ export const whetherImprovingFallsInsideItsOwnInstruction = {
   slug: "whether-improving-falls-inside-its-own-instruction",
   topic: "all-about-alan-topic/what-i-think-truth-is",
   ask: "Does improving fall inside its own instruction, or is improving the one fixed point?",
+  createdAt: "2026-09-06T18:09:54.184Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

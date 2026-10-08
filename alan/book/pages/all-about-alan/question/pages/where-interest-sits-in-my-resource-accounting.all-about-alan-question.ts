@@ -6,4 +6,6 @@ export const whereInterestSitsInMyResourceAccounting = {
   slug: "where-interest-sits-in-my-resource-accounting",
   topic: "all-about-alan-topic/what-pulls-me-into-doing-something",
   ask: "Where does interest sit in my resource accounting? Does interest spend mana, spend stamina, or sit outside both?",
+  createdAt: "2026-09-06T18:06:52.734Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

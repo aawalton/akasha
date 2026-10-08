@@ -11,4 +11,6 @@ export const reachTop8000InBeatSaber = {
   ownProgress: 0,
   unit: "unit/words",
   status: "not-started",
+  createdAt: "2026-09-03T16:09:44.728Z",
+  updatedAt: "2026-09-15T15:43:56.000Z",
 } as const satisfies Achievement

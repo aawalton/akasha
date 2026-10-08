@@ -6,4 +6,6 @@ export const whetherStoringConceptsCausesHowIKnow = {
   slug: "whether-storing-concepts-causes-how-i-know",
   topic: "all-about-alan-topic/how-i-know-things",
   ask: "Does storing concepts rather than pictures cause how I know things, or does the storing merely sit beside how I know things?",
+  createdAt: "2026-09-06T18:04:37.019Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

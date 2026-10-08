@@ -6,4 +6,6 @@ export const whatAProgrammerMotherDidToMe = {
   slug: "what-a-programmer-mother-did-to-me",
   topic: "all-about-alan-topic/the-code-in-my-family",
   ask: "What did having a programmer for a mother through my whole childhood do to me?",
+  createdAt: "2026-09-06T18:19:43.107Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

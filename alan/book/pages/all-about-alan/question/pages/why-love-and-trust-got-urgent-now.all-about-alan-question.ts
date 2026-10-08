@@ -6,4 +6,6 @@ export const whyLoveAndTrustGotUrgentNow = {
   slug: "why-love-and-trust-got-urgent-now",
   topic: "all-about-alan-topic/living-with-jen",
   ask: "What made love and trust urgent for me to work out now, rather than at any other point?",
+  createdAt: "2026-09-06T18:10:21.967Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

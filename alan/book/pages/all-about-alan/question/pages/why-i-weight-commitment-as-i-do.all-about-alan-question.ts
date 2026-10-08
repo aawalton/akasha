@@ -6,4 +6,6 @@ export const whyIWeightCommitmentAsIDo = {
   slug: "why-i-weight-commitment-as-i-do",
   topic: "all-about-alan-topic/what-holds-my-marriage",
   ask: "Why do I weight commitment as I do?",
+  createdAt: "2026-09-06T18:16:30.765Z",
+  updatedAt: "2026-09-15T15:47:26.000Z",
 } as const satisfies AllAboutAlanQuestion

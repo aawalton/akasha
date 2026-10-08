@@ -6,4 +6,6 @@ export const howFarOffMyLiveReadingRuns = {
   slug: "how-far-off-my-live-reading-runs",
   topic: "all-about-alan-topic/the-rating-my-budget-rests-on",
   ask: "My live safety reading runs optimistic until I revise the reading down. By how much, and how long does the optimistic reading govern before the correction lands?",
+  createdAt: "2026-09-06T19:15:39.284Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

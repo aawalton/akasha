@@ -6,4 +6,6 @@ export const whichLeverAMixedResponseTakesFirst = {
   slug: "which-lever-a-mixed-response-takes-first",
   topic: "all-about-alan-topic/which-lever-reaches-a-response",
   ask: "For a response that is part belief and part reflex, which lever do I reach for first, and does rewriting the belief lighten what exposure has to do?",
+  createdAt: "2026-09-06T18:16:16.568Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whereTightEnoughBecomesTooTight = {
   slug: "where-tight-enough-becomes-too-tight",
   topic: "all-about-alan-topic/tight-clothes",
   ask: "Where is the boundary between tight enough and too tight for me, even on a default day?",
+  createdAt: "2026-09-06T18:02:48.789Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

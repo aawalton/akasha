@@ -6,4 +6,6 @@ export const whetherAnythingAtMyFloorIsAtWarWithItself = {
   slug: "whether-anything-at-my-floor-is-at-war-with-itself",
   topic: "all-about-alan-topic/what-is-at-my-floor",
   ask: "I confirmed one root rather than the stronger reading. Is anything at my floor at war with itself?",
+  createdAt: "2026-09-06T18:08:09.168Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

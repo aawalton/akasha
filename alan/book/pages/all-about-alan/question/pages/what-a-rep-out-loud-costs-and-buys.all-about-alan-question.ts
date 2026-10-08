@@ -6,4 +6,6 @@ export const whatARepOutLoudCostsAndBuys = {
   slug: "what-a-rep-out-loud-costs-and-buys",
   topic: "all-about-alan-topic/walking-a-hard-subject-out-loud",
   ask: "Talking to my surviving friend bills about two days in bed a rep. What do these conversations cost per rep, and what does each rep buy?",
+  createdAt: "2026-09-06T18:06:28.833Z",
+  updatedAt: "2026-09-15T15:46:13.000Z",
 } as const satisfies AllAboutAlanQuestion

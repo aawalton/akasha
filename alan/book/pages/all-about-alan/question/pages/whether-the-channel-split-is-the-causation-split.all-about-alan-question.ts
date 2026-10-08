@@ -6,4 +6,6 @@ export const whetherTheChannelSplitIsTheCausationSplit = {
   slug: "whether-the-channel-split-is-the-causation-split",
   topic: "all-about-alan-topic/how-one-of-them-reaches-me",
   ask: "The Pearl ladder is mine and so are the two channels. Abby read them as the same cut: the mirror ones observation, the embodied ones intervention. Is the channel split the causation split?",
+  createdAt: "2026-09-21T22:59:04.473Z",
+  updatedAt: "2026-09-21T22:59:41.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whatPhysiologyFailsWhenTheLightsGo = {
   slug: "what-physiology-fails-when-the-lights-go",
   topic: "all-about-alan-topic/stress-level",
   ask: "What actually fails when the lights go at low resources: sympathetic dominance, vagal withdrawal, or the stress axis?",
+  createdAt: "2026-09-06T18:16:08.359Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

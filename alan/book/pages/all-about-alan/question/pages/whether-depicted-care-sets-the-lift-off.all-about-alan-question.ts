@@ -6,4 +6,6 @@ export const whetherDepictedCareSetsTheLiftOff = {
   slug: "whether-depicted-care-sets-the-lift-off",
   topic: "all-about-alan-topic/what-other-peoples-kindness-does",
   ask: "Does depicted care set the lift off, kindness in a story or in the news with nobody in the room, or does a person have to be in front of me?",
+  createdAt: "2026-09-06T18:05:43.744Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

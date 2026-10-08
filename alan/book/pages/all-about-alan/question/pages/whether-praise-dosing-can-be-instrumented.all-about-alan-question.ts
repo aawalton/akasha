@@ -6,4 +6,6 @@ export const whetherPraiseDosingCanBeInstrumented = {
   slug: "whether-praise-dosing-can-be-instrumented",
   topic: "all-about-alan-topic/when-it-actually-lands",
   ask: "Can the dose and the spacing between days be instrumented the way connection dosing is?",
+  createdAt: "2026-09-06T18:17:51.807Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

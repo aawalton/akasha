@@ -6,4 +6,6 @@ export const whetherMyHighestSelfIsASettingOrAKind = {
   slug: "whether-my-highest-self-is-a-setting-or-a-kind",
   topic: "all-about-alan-topic/the-ceiling-i-am-climbing-back-to",
   ask: "Is what keeps me out of my highest self a setting nobody has built yet, which I could close, or a difference in kind I can only be walked into from outside?",
+  createdAt: "2026-09-06T18:18:33.220Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

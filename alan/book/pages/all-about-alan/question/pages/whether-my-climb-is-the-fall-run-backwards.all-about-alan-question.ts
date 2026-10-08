@@ -6,4 +6,6 @@ export const whetherMyClimbIsTheFallRunBackwards = {
   slug: "whether-my-climb-is-the-fall-run-backwards",
   topic: "all-about-alan-topic/how-far-back-i-expect-to-come",
   ask: "Is my climb the fall run backwards, and what does my measured trajectory show?",
+  createdAt: "2026-09-06T18:09:02.598Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

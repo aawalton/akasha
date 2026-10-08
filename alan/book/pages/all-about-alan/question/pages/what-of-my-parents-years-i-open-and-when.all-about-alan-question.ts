@@ -6,4 +6,6 @@ export const whatOfMyParentsYearsIOpenAndWhen = {
   slug: "what-of-my-parents-years-i-open-and-when",
   topic: "all-about-alan-topic/the-years-with-my-parents",
   ask: "The years with my parents surfaced at a low state, so the call is mine rather than anyone else's. What do I open of those years, and when?",
+  createdAt: "2026-09-06T18:17:05.556Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion

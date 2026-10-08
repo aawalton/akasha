@@ -6,4 +6,6 @@ export const whetherEveryLagSortsIntoTheTwoKinds = {
   slug: "whether-every-lag-sorts-into-the-two-kinds",
   topic: "all-about-alan-topic/why-my-doing-lags-my-believing",
   ask: "The two kinds were stated in general and tested mostly on how I connect with people. Does every lag I can name sort into those two kinds with no residue?",
+  createdAt: "2026-09-06T18:12:21.345Z",
+  updatedAt: "2026-09-15T15:46:51.000Z",
 } as const satisfies AllAboutAlanQuestion

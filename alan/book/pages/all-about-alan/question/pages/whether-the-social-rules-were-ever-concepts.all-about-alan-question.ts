@@ -6,4 +6,6 @@ export const whetherTheSocialRulesWereEverConcepts = {
   slug: "whether-the-social-rules-were-ever-concepts",
   topic: "all-about-alan-topic/building-a-people-skill-by-hand",
   ask: "Two chapters say I ran a yearlong conceptual investigation of social interaction rules. I say I arranged the exposure and the map built itself. Which account describes the AIM years?",
+  createdAt: "2026-09-06T18:11:31.204Z",
+  updatedAt: "2026-09-15T15:47:09.000Z",
 } as const satisfies AllAboutAlanQuestion

@@ -6,4 +6,6 @@ export const whetherALowerActivityLeaves = {
   slug: "whether-a-lower-activity-leaves",
   topic: "all-about-alan-topic/what-comes-back-into-reach-as-i-climb",
   ask: "Does a lower activity actually leave as a better one comes into reach, or do more than one run side by side?",
+  createdAt: "2026-09-06T18:11:39.554Z",
+  updatedAt: "2026-09-15T15:46:31.000Z",
 } as const satisfies AllAboutAlanQuestion
