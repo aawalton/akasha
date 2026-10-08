@@ -18,4 +18,6 @@ export const image90e0d368ac2afe00 = {
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/green-hair"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-04T15:50:04.221Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

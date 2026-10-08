@@ -21,4 +21,6 @@ export const image860b74b98e60d250 = {
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/headphones"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-04T13:22:05.104Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

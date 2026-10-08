@@ -20,4 +20,6 @@ export const image8d5396c7b9570a33 = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/android", "fantasy-tag/hologram", "fantasy-tag/glowing"],
+  createdAt: "2026-06-30T11:10:22.589Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

@@ -27,4 +27,6 @@ export const image84ad1f80d251e2cd = {
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/hoodie", "wardrobe-tag/off-shoulder"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:50:45.791Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

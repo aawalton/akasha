@@ -22,4 +22,6 @@ export const image8156eb72fe276ecd = {
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/horns", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T11:09:48.090Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -15,4 +15,6 @@ export const image92e6d16db92f244d = {
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:33.378Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

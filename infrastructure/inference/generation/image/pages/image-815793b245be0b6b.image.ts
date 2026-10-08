@@ -19,4 +19,6 @@ export const image815793b245be0b6b = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add no horns or features she does not have. She lies on her side on a crimson silk blanket under a flowering plum tree in a park, head resting on one hand, holding up a ripe peach and looking at the viewer with a warm, knowing smile. A fine red thread is tied around her little finger. Her red silk cheongsam is unfastened at the shoulder and slipped down off one side to her waist, her bare shoulder and back to the light, her upper arm and the fallen silk covering her chest, gold bangles on her wrist. Camera at her eye level from the front, warm golden-hour light, pink blossoms drifting down. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:45:56.237Z",
+  updatedAt: "2026-09-28T19:46:25.000Z",
 } as const satisfies Image

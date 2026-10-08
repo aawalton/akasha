@@ -9,4 +9,6 @@ export const image9314f91bfa6b7572 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
   poseTags: ["pose-tag/top-down-view"],
   wardrobeTags: ["wardrobe-tag/barefoot"],
+  createdAt: "2026-09-21T21:55:35.111Z",
+  updatedAt: "2026-09-27T15:50:06.000Z",
 } as const satisfies Image

@@ -12,4 +12,6 @@ export const image8ec7cfe4d6f9aef8 = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bodysuit", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:08.045Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

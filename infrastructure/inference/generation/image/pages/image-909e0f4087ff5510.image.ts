@@ -11,4 +11,6 @@ export const image909e0f4087ff5510 = {
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/dress"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:38.404Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

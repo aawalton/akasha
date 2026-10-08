@@ -5,4 +5,6 @@ export const image7fa0bd62f8e19657 = {
   type: "page-type/image",
   slug: "image-7fa0bd62f8e19657",
   title: "Otherwhere turn 1 — edit prompt E, literal readings removed",
+  createdAt: "2026-09-28T19:49:09.853Z",
+  updatedAt: "2026-09-28T19:49:18.000Z",
 } as const satisfies Image

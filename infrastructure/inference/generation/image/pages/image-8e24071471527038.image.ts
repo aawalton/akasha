@@ -34,4 +34,6 @@ export const image8e24071471527038 = {
   ],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-02T15:29:20.783Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

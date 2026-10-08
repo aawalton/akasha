@@ -22,4 +22,6 @@ export const image8ba3679e50dd8193 = {
   fantasyTags: ["fantasy-tag/android", "fantasy-tag/cyberpunk", "fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-02T16:59:49.912Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

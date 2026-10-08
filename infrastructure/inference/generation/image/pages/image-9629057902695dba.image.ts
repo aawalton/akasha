@@ -9,4 +9,6 @@ export const image9629057902695dba = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/garden"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  createdAt: "2026-09-21T21:51:50.079Z",
+  updatedAt: "2026-09-27T15:50:06.000Z",
 } as const satisfies Image

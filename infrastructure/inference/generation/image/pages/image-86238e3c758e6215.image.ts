@@ -17,4 +17,6 @@ export const image86238e3c758e6215 = {
   ],
   prompt:
     "Fantasy photorealistic. Keep the place from the first image: this moment is coming in through the great doors into the main hall. The woman from the second image, a gorgeous, slim young Korean woman of about twenty with a K-pop idol's face: a small V-line face, big sparkling doe eyes in soft rose pink the same color as her hair, a small delicate nose, glossy pink lips, pale porcelain skin with a soft blush, a sweet bright smile, and short soft rose-pink hair in a layered bob with wispy side-swept bangs, a small pink-and-white flower clip above one ear, wearing a cropped cream halter top laced up the front, a short sage-green skirt, a brown leather belt with pouches, brown fingerless gloves and tall brown boots. She walks in with a small satchel at her hip, smiling, while all along the long tables blurred adventurers turn their heads to stare and whisper behind their hands. Morning sunlight slanting through the high windows in warm shafts. Exactly one woman in frame, no other faces in focus, nothing lettered. Medium shot, 35mm lens, shallow depth of field, every face sharp and readable.",
+  createdAt: "2026-10-04T10:05:35.000Z",
+  updatedAt: "2026-10-04T10:05:35.000Z",
 } as const satisfies Image

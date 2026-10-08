@@ -29,4 +29,6 @@ export const image82d46e68b92d37e6 = {
   fantasyTags: ["fantasy-tag/blue-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-23T02:25:12.162Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

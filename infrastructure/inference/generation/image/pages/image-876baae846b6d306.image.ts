@@ -22,4 +22,6 @@ export const image876baae846b6d306 = {
   fantasyTags: ["fantasy-tag/historical"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:09:58.085Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

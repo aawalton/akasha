@@ -19,4 +19,6 @@ export const image88b71cacd0cbd717 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She sits in the cool shade of a huge old oak on a soft blue blanket, hugging her bare knees to her chest, which hides it, her cheek resting sideways on her knees, looking toward the camera with a drowsy, shy smile. A slouchy oatmeal knit cardigan hangs open and has slipped down off both shoulders to her elbows, with nothing beneath, and a small silver locket on a chain hangs at her throat. Close three-quarter shot at her eye level, sunlit lawn glowing bright beyond the shade. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:23:55.517Z",
+  updatedAt: "2026-09-28T19:24:18.000Z",
 } as const satisfies Image

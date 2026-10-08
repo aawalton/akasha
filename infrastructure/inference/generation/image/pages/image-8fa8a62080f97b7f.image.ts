@@ -12,4 +12,6 @@ export const image8fa8a62080f97b7f = {
   fantasyTags: ["fantasy-tag/unusual-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:08.046Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

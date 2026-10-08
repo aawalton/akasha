@@ -11,4 +11,6 @@ export const image85e6b29926ce6d3b = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:12.751Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -12,4 +12,6 @@ export const image86e2505de5de9330 = {
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/gloves", "wardrobe-tag/high-neck"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:17.960Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

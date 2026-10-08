@@ -17,4 +17,6 @@ export const image969453b6884f7325 = {
   ],
   prompt:
     "Fantasy photorealistic, candid photograph, nobody looks at the camera. Keep the place from the first image, the narrow attic room under the sloped timber ceiling, and put this moment in the narrow bed against the sloping wall. The pink-haired woman from the second image has just woken far too early and lies on her back in the bed under the patchwork quilt, her head on the pillow, both hands knotted together on her stomach on top of the quilt, her eyes wide open and fixed on the dark beams above her, her lips pressed together, nervous and wide awake. She is alone in the room. Her short rose-pink bob is mussed from sleep and she wears no flower clip. She wears a plain white linen shift with thin straps, the quilt drawn up to her waist. The round window over the canal behind the plant crate is pale grey with the first dawn, ten past five in the morning; the room is dim and cool, with a faint warm haze of baking bread rising through the old floorboards from the bakery below. Medium shot from beside the bed at mattress height, 35mm lens.",
+  createdAt: "2026-10-04T13:35:54.000Z",
+  updatedAt: "2026-10-04T13:35:54.000Z",
 } as const satisfies Image

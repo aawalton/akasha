@@ -14,4 +14,6 @@ export const image8ab1c13752a3dc15 = {
   height: 1216,
   prompt:
     "fantasy photorealistic, an empty wide wooden festival barge with an empty deck alone on a calm open lake at dusk, its rails strung with hundreds of glowing paper lanterns, an empty raised wooden stage at its stern under a canopy of gold cloth, lantern light reflected in the dark water, a medieval canal town of stone and timber far off on the shore, deserted, uninhabited, no humans, no figures",
+  createdAt: "2026-10-06T21:36:02.000Z",
+  updatedAt: "2026-10-06T21:36:02.000Z",
 } as const satisfies Image

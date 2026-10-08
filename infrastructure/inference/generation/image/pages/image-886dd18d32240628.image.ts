@@ -14,4 +14,6 @@ export const image886dd18d32240628 = {
   height: 832,
   prompt:
     "Fantasy photorealistic, playful and hot. One gorgeous young woman of twenty-two stands topless on a thick rug in a grand art deco hotel lobby, in nothing but a little red pillbox cap and a short red skirt, her red bellhop's jacket dropped on the rug at her feet. She is petite and slender, boyishly slim with narrow hips and a flat stomach, small perky bare breasts with pink stiff nipples, freckles all over her shoulders, chest and face, a copper-red bob, bright green eyes. Her hands are on her narrow hips and she grins wide and cheeky at the viewer, flushed pink through her freckles, the small gap between her front teeth showing. Behind her, oxblood velvet, polished brass and a crystal chandelier lit low and gold, warm sconces, soft shadows. Framed from head to mid-thigh, 50mm lens, shallow depth of field, the lobby softly blurred, fine skin texture, vivid reds against dark gold, gentle film grain.",
+  createdAt: "2026-09-28T14:11:23.955Z",
+  updatedAt: "2026-09-28T14:11:24.000Z",
 } as const satisfies Image

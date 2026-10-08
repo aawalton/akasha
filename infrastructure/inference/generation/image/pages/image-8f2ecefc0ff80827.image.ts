@@ -16,4 +16,6 @@ export const image8f2ecefc0ff80827 = {
   poseTags: ["pose-tag/standing", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/medieval"],
+  createdAt: "2026-09-21T21:51:38.406Z",
+  updatedAt: "2026-09-27T15:50:48.000Z",
 } as const satisfies Image

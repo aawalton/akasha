@@ -12,4 +12,6 @@ export const image9341a553f4296d50 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/black"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-09-21T21:51:17.961Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

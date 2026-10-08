@@ -16,4 +16,6 @@ export const image91e59a33bddbc657 = {
   height: 1216,
   prompt:
     "Fantasy film still, photorealistic, of a 24-year-old adult woman, a rabbit-folk fantasy creature: in place of human ears she has long living rabbit ears that are part of her body, covered in short fur at the base that grows from her scalp among the roots of her hair, ears twitching and expressive, and a fluffy rabbit tail, golden fawn ears, very petite slim build, flat chest, A-cup, toned flat stomach, fresh youthful grown woman's face, warm brown skin, long braids, wearing a tiny wrap of sheer saffron silk tied at the hip, wading in a lily pond at sunset with her back to the camera, turning her head to smile over her shoulder, tail wet, ears catching the light, golden hour, 50mm lens",
+  createdAt: "2026-10-05T18:21:36.497Z",
+  updatedAt: "2026-10-05T19:08:20.000Z",
 } as const satisfies Image

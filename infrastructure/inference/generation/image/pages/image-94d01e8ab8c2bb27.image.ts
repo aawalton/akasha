@@ -21,4 +21,6 @@ export const image94d01e8ab8c2bb27 = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/tights", "wardrobe-tag/sneakers"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-08-17T12:11:18.529Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

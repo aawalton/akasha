@@ -19,4 +19,6 @@ export const image8a018aa5e0549580 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings or non-human traits. Keep her head exactly as in the reference and add no horns or features she does not have. She lies on her back on a white towel in the blazing midday sun in the open middle of a park lawn, one hand raised to shade her eyes as she squints up into the brilliant sky with a delighted grin, the other arm resting at her side. She wears a gold lame bikini and a gold cuff on her upper arm, her skin glowing with a fine golden shimmer that catches the light, her hair spread out like rays around her head. Camera directly overhead, dazzling bright light, crisp short shadows, lens flare. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:55:17.666Z",
+  updatedAt: "2026-09-28T19:56:39.000Z",
 } as const satisfies Image

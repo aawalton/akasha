@@ -21,4 +21,6 @@ export const image83dded61b997e3ca = {
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/top", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-06-30T15:06:41.710Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -7,4 +7,6 @@ export const image946d87eeab0ef664 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/restaurant", "setting-tag/indoor"],
   poseTags: ["pose-tag/top-down-view"],
+  createdAt: "2026-09-21T21:52:02.382Z",
+  updatedAt: "2026-09-27T15:49:04.000Z",
 } as const satisfies Image

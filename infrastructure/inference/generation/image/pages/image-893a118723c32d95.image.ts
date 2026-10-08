@@ -17,4 +17,6 @@ export const image893a118723c32d95 = {
   ],
   prompt:
     "Fantasy photorealistic candid photograph. Keep the place from the first image, inside the Hall of Naming under the glass dome. The pink-haired woman from the second image stands very still alone in the silver circle in the middle of the marble floor, small in the frame, a faint violet glow above her, her arms at her sides, shoulders tight, eyes wide. All around the curved walls the benches are full of East Asian young adults and their mothers, every face turned toward her in shocked silence, a hand at a mouth, a grey-robed priestess beside the circle with her paper roll half lowered and her mouth open. A small V-line face, big rose-pink doe eyes, glossy pink lips, pale porcelain skin, short rose-pink layered bob with side-swept bangs and a pink-and-white flower clip; slim build, small chest; cropped cream halter top laced up the front, short sage-green skirt, brown belt with pouches, fingerless leather gloves, tall brown boots. Cold still light from the dome, tense hush. Wide shot from behind the benches looking past the staring heads toward her, 35mm lens, her face readable, nothing lettered.",
+  createdAt: "2026-10-04T10:12:59.632Z",
+  updatedAt: "2026-10-04T10:13:00.000Z",
 } as const satisfies Image

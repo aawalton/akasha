@@ -17,4 +17,6 @@ export const image8ac8a040b7e18941 = {
   fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/magic", "fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:11.788Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

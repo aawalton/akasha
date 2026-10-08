@@ -17,4 +17,6 @@ export const image80054c2ca169c222 = {
   ],
   prompt:
     "Fantasy photorealistic. Keep the place from the first image: this moment is on a steep slate roof above Tanner's Row. The woman from the second image, a gorgeous, slim, athletic young Korean woman of twenty-one with a K-pop idol's pretty face: a small V-line face, almond-shaped eyes of bright green, a small nose, full lips in a crooked teasing grin, warm sun-kissed golden skin dusted with light freckles across her nose and cheeks, and a wild mass of long copper-red curls, barely tied back, wearing a sleeveless battered brown leather jerkin, cloth knuckle wraps, dark trousers and scuffed boots, one forearm bandaged white from wrist to elbow. She crouches on the slope with one hand held out, coaxing. Above her on the chimney a big ginger tom with a white bib and a torn ear arches his back and spits, ears flat, fur on end. Late summer morning, bright sun high on the roofs, warm shade below. Exactly one woman in frame, no other faces in focus, nothing lettered. Medium shot, 35mm lens, shallow depth of field, every face sharp and readable.",
+  createdAt: "2026-10-04T11:48:33.660Z",
+  updatedAt: "2026-10-04T11:48:34.000Z",
 } as const satisfies Image

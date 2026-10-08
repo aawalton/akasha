@@ -16,4 +16,6 @@ export const image8f14a104d7e51fb8 = {
   height: 832,
   prompt:
     "A 24-year-old adult woman, grown woman's face with defined cheekbones and jawline, adult body proportions, Ukrainian with fair skin, long honey-blonde hair in a crown braid threaded with daisies, slim fit build, lying on her stomach in a field of daisies at the edge of a park, nude, chin propped on her hands, making a daisy chain, looking down at it with a small smile, ground-level view from the front at a slight side angle, soft warm early-evening light, alone, photorealistic, natural skin detail",
+  createdAt: "2026-09-28T21:29:22.757Z",
+  updatedAt: "2026-09-28T21:29:46.000Z",
 } as const satisfies Image

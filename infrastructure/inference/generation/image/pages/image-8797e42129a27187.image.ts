@@ -8,4 +8,6 @@ export const image8797e42129a27187 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow", "setting-tag/rocks"],
   poseTags: ["pose-tag/sitting", "pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  createdAt: "2026-09-21T21:51:22.757Z",
+  updatedAt: "2026-09-27T15:50:06.000Z",
 } as const satisfies Image

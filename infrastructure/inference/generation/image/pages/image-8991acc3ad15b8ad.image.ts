@@ -16,4 +16,6 @@ export const image8991acc3ad15b8ad = {
   height: 1216,
   prompt:
     "Candid photograph of a 23-year-old adult woman, very petite slim build, nearly flat chest with tiny breasts, toned flat stomach, fresh youthful grown woman's face, warm brown skin, long box braids, wearing a red latex bunny bodysuit cut extremely high on the hips, black fishnet stockings, red bunny ears, black collar and bow tie, white cuffs, cottontail, on all fours across a black leather couch looking back over her shoulder, smoldering gaze, red and violet club light, 35mm lens",
+  createdAt: "2026-10-05T18:04:42.711Z",
+  updatedAt: "2026-10-05T18:05:19.000Z",
 } as const satisfies Image

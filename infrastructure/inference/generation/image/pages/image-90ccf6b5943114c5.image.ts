@@ -12,4 +12,6 @@ export const image90ccf6b5943114c5 = {
   fantasyTags: ["fantasy-tag/naga", "fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-09-21T21:51:50.080Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

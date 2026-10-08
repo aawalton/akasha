@@ -26,4 +26,6 @@ export const image94abffb2f4cc2ef6 = {
   ],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-04T13:24:09.588Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

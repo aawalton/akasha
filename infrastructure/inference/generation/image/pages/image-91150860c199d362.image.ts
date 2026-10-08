@@ -15,4 +15,6 @@ export const image91150860c199d362 = {
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/spaghetti-straps"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:10:12.597Z",
+  updatedAt: "2026-09-27T15:59:30.000Z",
 } as const satisfies Image

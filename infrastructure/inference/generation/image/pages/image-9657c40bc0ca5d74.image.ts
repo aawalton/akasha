@@ -22,4 +22,6 @@ export const image9657c40bc0ca5d74 = {
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  createdAt: "2026-06-30T11:09:55.785Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

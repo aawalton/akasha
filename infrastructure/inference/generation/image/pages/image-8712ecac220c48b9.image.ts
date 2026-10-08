@@ -21,4 +21,6 @@ export const image8712ecac220c48b9 = {
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/topless", "wardrobe-tag/suit"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  createdAt: "2026-07-12T19:54:08.068Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

@@ -19,4 +19,6 @@ export const image8ac78803ac20a5f0 = {
   ],
   prompt:
     "She is an adult woman. Keep her exact face, hair, eyes and every distinctive feature, including any horns, ears, markings, wings or non-human traits. Keep her head exactly as in the reference and add nothing she does not have. She kneels on a white linen cloth in the middle of a wide sunlit park lawn, eyes closed, face tipped up toward the sun in quiet prayer, her hands pressed together at her chest. She wears a white linen sheet wrapped around her body under her arms and knotted at one shoulder, the other shoulder and her upper back bare, and a delicate gold chain with a tiny dove pendant. Wide shot from a low angle, strong warm backlight haloing her hair, long grass glowing gold around her. No other people. Photorealistic, natural skin detail.",
+  createdAt: "2026-09-28T19:49:26.699Z",
+  updatedAt: "2026-09-28T19:49:57.000Z",
 } as const satisfies Image

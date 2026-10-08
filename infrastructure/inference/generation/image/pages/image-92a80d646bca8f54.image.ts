@@ -14,4 +14,6 @@ export const image92a80d646bca8f54 = {
   height: 1216,
   prompt:
     "fantasy photorealistic medieval scene, a great wide wooden festival barge alone on a calm open lake at dusk, its rails hung with hundreds of glowing paper lanterns, a raised wooden stage at its stern under a canopy of gold cloth, lantern light reflected in the dark water, far off on the shore an old medieval canal town of stone and timber with arched bridges, deserted, no people anywhere, no modern buildings",
+  createdAt: "2026-10-06T21:35:46.000Z",
+  updatedAt: "2026-10-06T21:35:46.000Z",
 } as const satisfies Image

@@ -23,4 +23,6 @@ export const image8610e4d24e736933 = {
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-35-44"],
+  createdAt: "2026-09-21T21:50:58.832Z",
+  updatedAt: "2026-09-27T15:52:40.000Z",
 } as const satisfies Image

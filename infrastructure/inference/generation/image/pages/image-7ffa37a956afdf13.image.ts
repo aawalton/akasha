@@ -16,4 +16,6 @@ export const image7ffa37a956afdf13 = {
   ],
   prompt:
     "Keep this exact place. Change the light and time around it. Fantasy photorealistic, candid photograph, with nobody in the frame. Hobb Mill in late morning: a tall, square, grey watermill built of river stone, standing on the bank where a quick brown river runs narrow, with small deep windows high up and a wooden hoist arm jutting out under the roof. Beside it stands an enormous dark wet wooden waterwheel, taller than the mill door, with paddles all round it, standing still. The stone race channel that feeds the wheel is choked with long green river weed and round grey stones packed tight between the paddles, so the water goes past sluggish and sulky. A great weeping willow trails its long green hair into the river beside the wheel. Behind the mill, in a garden of tall bean rows, sits a low cottage with a golden thatched roof and a thin line of smoke rising from its chimney. Warm bright late-morning summer sun, blue sky, dust on a pale road in the foreground. Nothing lettered. Eye-level view from the river road at the bend, 35mm lens, deep focus.",
+  createdAt: "2026-10-06T19:08:52.000Z",
+  updatedAt: "2026-10-06T19:08:52.000Z",
 } as const satisfies Image

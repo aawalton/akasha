@@ -16,4 +16,6 @@ export const image8e51772cb10953dc = {
   height: 1216,
   prompt:
     "Candid photograph of a 24-year-old adult woman, very petite slim build, small perky breasts, toned flat stomach, fresh youthful grown woman's face, light brown skin, long dark curly hair, wearing a gold sequin bunny bodysuit cut extremely high on the hips with an open back, sheer black pantyhose, gold bunny ears, black bow tie collar, cuffs, cottontail, on her knees on a velvet ottoman arching her back toward the camera, sultry gaze over her shoulder, champagne bucket nearby, low warm light, 35mm lens",
+  createdAt: "2026-10-05T18:03:25.584Z",
+  updatedAt: "2026-10-05T18:04:12.000Z",
 } as const satisfies Image
