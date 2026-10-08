@@ -11,4 +11,6 @@ export const firebirdsWoodFiredGrill = {
   sourceUrl:
     "https://www.google.com/maps/place/Firebirds+Wood+Fired+Grill/data=!4m2!3m1!1s0x88e77a95aa76b277:0x338ec921b22690dd",
   locationSource: "saved:Florida",
+  createdAt: "2026-06-30T23:45:05.792Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const stPetersBasilica = {
   sourceUrl:
     "https://www.google.com/maps/place/St.+Peter's+Basilica/data=!4m2!3m1!1s0x132f6061b7149b59:0x724bf077cd875283",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.457Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

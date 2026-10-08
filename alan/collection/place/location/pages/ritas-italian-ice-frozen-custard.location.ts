@@ -12,4 +12,6 @@ export const ritasItalianIceFrozenCustard = {
   sourceUrl:
     "https://www.google.com/maps/place/Rita's+Italian+Ice+%26+Frozen+Custard/data=!4m2!3m1!1s0x875285d45047c7db:0x3ce32994880a95f0",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.514Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

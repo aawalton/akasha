@@ -12,4 +12,6 @@ export const hansChristianAndersenGravesite = {
   sourceUrl:
     "https://www.google.com/maps/place/Hans+Christian+Andersen+gravesite/data=!4m2!3m1!1s0x465253a96226ec9d:0x6c05d1cb8d89e4c5",
   locationSource: "saved:Denmark",
+  createdAt: "2026-07-01T01:26:58.146Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

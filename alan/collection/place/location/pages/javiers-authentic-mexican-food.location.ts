@@ -12,4 +12,6 @@ export const javiersAuthenticMexicanFood = {
   sourceUrl:
     "https://www.google.com/maps/place/Javier's+Authentic+Mexican+Food/data=!4m2!3m1!1s0x8753060629d8268d:0xa10c921f766838b8",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.933Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

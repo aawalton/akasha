@@ -11,4 +11,6 @@ export const gallaghersBoxtyHouse = {
   sourceUrl:
     "https://www.google.com/maps/place/Gallaghers+Boxty+House/data=!4m2!3m1!1s0x48670e8352089e65:0x110b1df99a694a64",
   locationSource: "saved:Ireland",
+  createdAt: "2026-07-01T01:26:58.072Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

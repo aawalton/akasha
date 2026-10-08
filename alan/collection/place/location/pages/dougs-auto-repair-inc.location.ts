@@ -12,4 +12,6 @@ export const dougsAutoRepairInc = {
   sourceUrl:
     "https://www.google.com/maps/place/Doug's+Auto+Repair+Inc./data=!4m2!3m1!1s0x874d9a64bbfe0211:0x5002a66624dfd5a8",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.485Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

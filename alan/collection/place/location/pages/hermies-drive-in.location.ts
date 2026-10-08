@@ -12,4 +12,6 @@ export const hermiesDriveIn = {
   sourceUrl:
     "https://www.google.com/maps/place/Hermie's+Drive+In/data=!4m2!3m1!1s0x80b561a543ca4e7d:0xf260dada2972f544",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.299Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

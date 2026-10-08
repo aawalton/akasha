@@ -11,4 +11,6 @@ export const ghirardelliSodaFountainAndChocolateShop = {
   sourceUrl:
     "https://www.google.com/maps/place/Ghirardelli+Soda+Fountain+and+Chocolate+Shop/data=!4m2!3m1!1s0x88dd7f8130e37b3b:0x608d9e7d40b6bdaf",
   locationSource: "saved:Florida",
+  createdAt: "2026-07-01T01:26:59.186Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

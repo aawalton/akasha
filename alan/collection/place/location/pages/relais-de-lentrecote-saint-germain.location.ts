@@ -11,4 +11,6 @@ export const relaisDeLentrecoteSaintGermain = {
   sourceUrl:
     "https://www.google.com/maps/place/Relais+de+l'Entrec%C3%B4te+Saint-Germain/data=!4m2!3m1!1s0x47e671d78858a4cd:0xdd82a84bf63c1497",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.361Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

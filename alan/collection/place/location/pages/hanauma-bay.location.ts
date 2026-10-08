@@ -11,4 +11,6 @@ export const hanaumaBay = {
   sourceUrl:
     "https://www.google.com/maps/place/Hanauma+Bay/data=!4m2!3m1!1s0x7c001273a5a0c3bf:0xe270349d165d1bfa",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:58.008Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

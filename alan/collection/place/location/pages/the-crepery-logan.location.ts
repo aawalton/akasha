@@ -11,4 +11,6 @@ export const theCreperyLogan = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Cr%C3%AApery+Logan/data=!4m2!3m1!1s0x87547e3fc6cf56cf:0xec88ccd1050b884c",
   locationSource: "saved:Ut, Logan",
+  createdAt: "2026-06-30T23:45:05.804Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

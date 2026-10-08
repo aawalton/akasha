@@ -11,4 +11,6 @@ export const templeDeParisLegliseDeJesusChristDesSaintsDesDerniersJours = {
   sourceUrl:
     "https://www.google.com/maps/place/Temple+de+Paris+-+L%E2%80%99%C3%89glise+de+J%C3%A9sus-Christ+des+Saints+des+Derniers+Jours/data=!4m2!3m1!1s0x47e67da72af71535:0x9c56a0ebdbc0f4ad",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.346Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

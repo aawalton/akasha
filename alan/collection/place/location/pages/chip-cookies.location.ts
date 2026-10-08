@@ -16,4 +16,6 @@ export const chipCookies = {
   sourceUrl: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x92d5d698b33629a1",
   locationSource: "review",
   visited: true,
+  createdAt: "2026-06-30T23:45:05.927Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const hubByPremierInnEdinburghRoyalMile = {
   sourceUrl:
     "https://www.google.com/maps/place/hub+by+Premier+Inn+Edinburgh+Royal+Mile/data=!4m2!3m1!1s0x4887c788b12bb817:0xdc2ae58e9a240527",
   locationSource: "saved:Scotland",
+  createdAt: "2026-07-01T01:26:58.848Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

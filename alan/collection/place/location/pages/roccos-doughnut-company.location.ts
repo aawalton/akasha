@@ -12,4 +12,6 @@ export const roccosDoughnutCompany = {
   sourceUrl:
     "https://www.google.com/maps/place/Roccos+Doughnut+Company/data=!4m2!3m1!1s0x89e40b1bf6d13aab:0x63ddc1f5d1e07819",
   locationSource: "saved:Foodie Spots To Try",
+  createdAt: "2026-07-01T01:26:59.099Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

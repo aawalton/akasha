@@ -11,4 +11,6 @@ export const dominosEagleMountain = {
   longitude: -112.0184476,
   sourcePlaceId: "ssc:loc:dominos:eagle-mountain",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.287Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

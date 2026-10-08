@@ -11,4 +11,6 @@ export const theCopperOnion = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Copper+Onion/data=!4m2!3m1!1s0x8752f511e6e92fad:0x1060fd13b457b3cb",
   locationSource: "saved:Want to go; saved:Favorite places",
+  createdAt: "2026-06-30T23:45:05.219Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

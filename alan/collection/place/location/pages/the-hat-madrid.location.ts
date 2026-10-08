@@ -12,4 +12,6 @@ export const theHatMadrid = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Hat+Madrid/data=!4m2!3m1!1s0xd42287f399c8ac1:0xec89625d35a78abb",
   locationSource: "saved:Madrid, Spain",
+  createdAt: "2026-06-30T23:45:05.392Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

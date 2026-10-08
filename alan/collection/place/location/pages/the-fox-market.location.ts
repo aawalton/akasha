@@ -12,4 +12,6 @@ export const theFoxMarket = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Fox+Market/data=!4m2!3m1!1s0x87526374da8dbc49:0x599233454b4ffbdd",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.265Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

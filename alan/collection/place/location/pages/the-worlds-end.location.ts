@@ -11,4 +11,6 @@ export const theWorldsEnd = {
   sourceUrl:
     "https://www.google.com/maps/place/The+World's+End/data=!4m2!3m1!1s0x4887c788aa676d27:0x756dd043e146e9a9",
   locationSource: "saved:Scotland",
+  createdAt: "2026-06-30T23:45:05.677Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

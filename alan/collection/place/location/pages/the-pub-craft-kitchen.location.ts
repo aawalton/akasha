@@ -11,4 +11,6 @@ export const thePubCraftKitchen = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Pub+Craft+Kitchen/data=!4m2!3m1!1s0x80b561ba37f892ed:0x16701213e53c0ea6",
   locationSource: "saved:UT, Cedar City",
+  createdAt: "2026-07-01T01:26:58.915Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

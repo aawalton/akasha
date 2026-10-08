@@ -11,4 +11,6 @@ export const cocaColaLondonEye = {
   sourceUrl:
     "https://www.google.com/maps/place/Coca-Cola+London+Eye/data=!4m2!3m1!1s0x487604b900d26973:0x4291f3172409ea92",
   locationSource: "saved:London, England",
+  createdAt: "2026-07-01T01:26:58.787Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

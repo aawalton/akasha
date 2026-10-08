@@ -11,4 +11,6 @@ export const siebertBakery = {
   sourceUrl:
     "https://www.google.com/maps/place/Siebert+Bakery/data=!4m2!3m1!1s0x416521a389116af3:0x3e4ddb92ada51852",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-06-30T23:45:05.359Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

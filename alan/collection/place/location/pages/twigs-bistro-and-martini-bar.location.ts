@@ -11,4 +11,6 @@ export const twigsBistroAndMartiniBar = {
   sourceUrl:
     "https://www.google.com/maps/place/Twigs+Bistro+and+Martini+Bar/data=!4m2!3m1!1s0x8752fee1a5bfbb81:0x3833248a6f478b6",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.496Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

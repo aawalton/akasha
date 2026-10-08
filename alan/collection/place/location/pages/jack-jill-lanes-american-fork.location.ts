@@ -11,4 +11,6 @@ export const jackJillLanesAmericanFork = {
   longitude: -111.7787242,
   sourcePlaceId: "ssc:loc:jack-and-jill-lanes:american-fork",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.916Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

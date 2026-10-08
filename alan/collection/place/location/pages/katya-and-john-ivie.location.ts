@@ -10,4 +10,6 @@ export const katyaAndJohnIvie = {
   longitude: -111.71015949999999,
   sourcePlaceId: "takeout:katya-and-john-ivie:450-600-w-orem-ut-84058-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.867Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

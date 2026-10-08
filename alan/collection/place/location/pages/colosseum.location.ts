@@ -11,4 +11,6 @@ export const colosseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Colosseum/data=!4m2!3m1!1s0x132f61b6532013ad:0x28f1c82e908503c4",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.455Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const theUnlockablesAPuzzleEscapeExperience = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Unlockables:+A+Puzzle+Escape+Experience/data=!4m2!3m1!1s0x80dbff9b198fe739:0x51081e02869427ae",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-07-01T01:26:58.701Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const rialtoBridge = {
   sourceUrl:
     "https://www.google.com/maps/place/Rialto+Bridge/data=!4m2!3m1!1s0x477eb1c7faa33a3b:0x732011a1298ecc89",
   locationSource: "saved:Venice, Italy",
+  createdAt: "2026-06-30T23:45:05.568Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

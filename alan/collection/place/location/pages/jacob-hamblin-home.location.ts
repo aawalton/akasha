@@ -11,4 +11,6 @@ export const jacobHamblinHome = {
   sourceUrl:
     "https://www.google.com/maps/place/Jacob+Hamblin+Home/data=!4m2!3m1!1s0x80ca41949f8de8f5:0xbeccee1fe60e902c",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-07-01T01:26:58.823Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

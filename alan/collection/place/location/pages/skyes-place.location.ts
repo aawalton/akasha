@@ -10,4 +10,6 @@ export const skyesPlace = {
   longitude: -122.0778031,
   sourcePlaceId: "takeout:skye-s-place:19829-se-316th-pl-kent-wa-98042-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.857Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const fountainOfJustice = {
   sourceUrl:
     "https://www.google.com/maps/place/Fountain+of+Justice/data=!4m2!3m1!1s0x47bd0ea61483463f:0x63a33a6095f1af8a",
   locationSource: "saved:Frankfurt, Germany",
+  createdAt: "2026-07-01T01:26:58.866Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

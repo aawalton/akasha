@@ -11,4 +11,6 @@ export const grandOleOpry = {
   sourceUrl:
     "https://www.google.com/maps/place/Grand+Ole+Opry/data=!4m2!3m1!1s0x886469cff7602a55:0x277ee7b8e17cec75",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.523Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

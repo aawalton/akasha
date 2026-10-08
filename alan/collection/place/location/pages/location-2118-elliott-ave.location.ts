@@ -11,4 +11,6 @@ export const location2118ElliottAve = {
   sourceUrl:
     "https://www.google.com/maps/place/2118+Elliott+Ave/data=!4m2!3m1!1s0x886465d4f9813d23:0x8f3d984fa2246ce3",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.520Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

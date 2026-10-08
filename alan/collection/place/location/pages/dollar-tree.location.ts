@@ -11,4 +11,6 @@ export const dollarTree = {
   sourceUrl:
     "https://www.google.com/maps/place/Dollar+Tree/data=!4m2!3m1!1s0x5490654412eb0455:0x7d991e55e142d276",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.151Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

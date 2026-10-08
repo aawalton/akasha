@@ -11,4 +11,6 @@ export const lidl = {
   sourceUrl:
     "https://www.google.com/maps/place/Lidl/data=!4m2!3m1!1s0x485c49664d5a4cb3:0x8340f30686f33ece",
   locationSource: "saved:Ireland",
+  createdAt: "2026-06-30T23:45:05.380Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

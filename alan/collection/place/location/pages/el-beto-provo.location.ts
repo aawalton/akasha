@@ -11,4 +11,6 @@ export const elBetoProvo = {
   longitude: -111.6587085,
   sourcePlaceId: "ssc:loc:el-beto:provo",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.386Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

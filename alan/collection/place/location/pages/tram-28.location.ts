@@ -11,4 +11,6 @@ export const tram28 = {
   sourceUrl:
     "https://www.google.com/maps/place/Tram+28/data=!4m2!3m1!1s0xd19334437a4dc6f:0x929237d5776a2554",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-07-01T01:26:59.018Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

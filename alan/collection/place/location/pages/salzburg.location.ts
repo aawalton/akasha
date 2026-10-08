@@ -12,4 +12,6 @@ export const salzburg = {
   sourceUrl:
     "https://www.google.com/maps/place/Salzburg/data=!4m2!3m1!1s0x47769adda908d4b1:0xc1e183a1412af73d",
   locationSource: "saved:Austria",
+  createdAt: "2026-06-30T23:45:05.826Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

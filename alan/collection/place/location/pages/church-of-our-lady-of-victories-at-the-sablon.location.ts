@@ -13,4 +13,6 @@ export const churchOfOurLadyOfVictoriesAtTheSablon = {
   sourceUrl:
     "https://www.google.com/maps/place/Church+of+Our+Lady+of+Victories+at+the+Sablon/data=!4m2!3m1!1s0x47c3c47d9940094f:0x7da1559642889bdd",
   locationSource: "saved:Belgium",
+  createdAt: "2026-07-01T01:26:59.060Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

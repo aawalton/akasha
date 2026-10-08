@@ -11,4 +11,6 @@ export const nashvilleFarmersMarket = {
   sourceUrl:
     "https://www.google.com/maps/place/Nashville+Farmers'+Market/data=!4m2!3m1!1s0x88646719418ff6cd:0x4b3b48b1e51e2914",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.435Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

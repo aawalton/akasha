@@ -11,4 +11,6 @@ export const piazzaDelPopolo = {
   sourceUrl:
     "https://www.google.com/maps/place/Piazza+del+Popolo/data=!4m2!3m1!1s0x132f60f8e5e81687:0x43ee9ffffdce4350",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.453Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

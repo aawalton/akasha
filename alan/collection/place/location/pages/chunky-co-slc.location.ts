@@ -11,4 +11,6 @@ export const chunkyCoSlc = {
   sourceUrl:
     "https://www.google.com/maps/place/Chunky+%26+Co+SLC/data=!4m2!3m1!1s0x8752f59bb3c4474d:0x200c6b5391c2beeb",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.681Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const siciliaMia = {
   sourceUrl:
     "https://www.google.com/maps/place/Sicilia+Mia/data=!4m2!3m1!1s0x875261f10f513db7:0xfdbd1edadf945050",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.313Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

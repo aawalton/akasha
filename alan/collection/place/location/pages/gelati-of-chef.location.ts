@@ -11,4 +11,6 @@ export const gelatiOfChef = {
   sourceUrl:
     "https://www.google.com/maps/place/Gelati+of+chef/data=!4m2!3m1!1s0xd1edb85c0404e97:0xc40f6feef406da2c",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-07-01T01:26:59.007Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

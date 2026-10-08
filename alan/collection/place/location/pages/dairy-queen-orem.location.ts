@@ -11,4 +11,6 @@ export const dairyQueenOrem = {
   longitude: -111.681016,
   sourcePlaceId: "ssc:loc:dairy-queen:orem",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.226Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

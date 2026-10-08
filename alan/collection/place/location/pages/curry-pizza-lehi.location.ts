@@ -11,4 +11,6 @@ export const curryPizzaLehi = {
   longitude: -111.8887415,
   sourcePlaceId: "ssc:loc:curry-pizza:lehi",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.209Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

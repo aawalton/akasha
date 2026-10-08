@@ -11,4 +11,6 @@ export const jacksBarBQue = {
   sourceUrl:
     "https://www.google.com/maps/place/Jack's+Bar-B-Que/data=!4m2!3m1!1s0x8864665945909b3f:0xd3df22d6ee832415",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.384Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

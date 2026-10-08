@@ -11,4 +11,6 @@ export const tonysTacos = {
   sourceUrl:
     "https://www.google.com/maps/place/Tony's+Tacos/data=!4m2!3m1!1s0x874df59022322743:0x6e6ef15330edab2b",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-07-01T01:26:58.024Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

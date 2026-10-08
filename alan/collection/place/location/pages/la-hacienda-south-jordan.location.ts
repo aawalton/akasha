@@ -12,4 +12,6 @@ export const laHaciendaSouthJordan = {
   sourceUrl:
     "https://www.google.com/maps/place/La+Hacienda+South+Jordan/data=!4m2!3m1!1s0x87528566cdda3cb7:0xe763d19b2cdeaa19",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.872Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

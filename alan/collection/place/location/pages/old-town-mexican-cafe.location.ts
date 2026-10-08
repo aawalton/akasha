@@ -11,4 +11,6 @@ export const oldTownMexicanCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Old+Town+Mexican+Cafe/data=!4m2!3m1!1s0x80deaade5d0a2c19:0x4abf2dc87b241382",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-06-30T23:45:05.617Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

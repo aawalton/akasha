@@ -16,4 +16,6 @@ export const lovelandLivingPlanetAquarium = {
   sourceUrl: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbaf443f16b40940c",
   locationSource: "review",
   visited: true,
+  createdAt: "2026-06-30T23:45:06.006Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

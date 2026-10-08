@@ -12,4 +12,6 @@ export const saffronCircleRiverton = {
   sourceUrl:
     "https://www.google.com/maps/place/Saffron+Circle+-+Riverton/data=!4m2!3m1!1s0x875285d3001d50f9:0x5443cf2cdbb47e01",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.645Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

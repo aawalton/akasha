@@ -11,4 +11,6 @@ export const restauradoresSquare = {
   sourceUrl:
     "https://www.google.com/maps/place/Restauradores+Square/data=!4m2!3m1!1s0xd193380df7aca9f:0x213be273dddd64f",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.724Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

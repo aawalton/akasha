@@ -11,4 +11,6 @@ export const lewisClarkInterpretiveCenter = {
   sourceUrl:
     "https://www.google.com/maps/place/Lewis+%26+Clark+Interpretive+Center/data=!4m2!3m1!1s0x54936c4a881f8acf:0xf4976d6b5bf7ba7e",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.145Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

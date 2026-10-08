@@ -11,4 +11,6 @@ export const daliTheatreMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Dal%C3%AD+Theatre-Museum/data=!4m2!3m1!1s0x12ba8ddd391db6c9:0x493f0fc6074ca1f0",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-07-01T01:26:58.735Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

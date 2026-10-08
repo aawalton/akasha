@@ -11,4 +11,6 @@ export const grootBijgaardenCastle = {
   sourceUrl:
     "https://www.google.com/maps/place/Groot-Bijgaarden+Castle/data=!4m2!3m1!1s0x47c3c11fa6c53219:0xfdd2e68ea3f18e70",
   locationSource: "saved:Belgium",
+  createdAt: "2026-07-01T01:26:59.063Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

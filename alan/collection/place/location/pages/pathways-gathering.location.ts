@@ -10,4 +10,6 @@ export const pathwaysGathering = {
   longitude: -86.69191,
   sourcePlaceId: "takeout:pathways-gathering:1646-sunset-rd-brentwood-tn-37027-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.835Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

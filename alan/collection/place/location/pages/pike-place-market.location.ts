@@ -11,4 +11,6 @@ export const pikePlaceMarket = {
   sourceUrl:
     "https://www.google.com/maps/place/Pike+Place+Market/data=!4m2!3m1!1s0x54906bb2f3f5ca3d:0x93f18f02f14e0a2c",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.191Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const seasons52 = {
   sourceUrl:
     "https://www.google.com/maps/place/Seasons+52/data=!4m2!3m1!1s0x88e77fa6b18ac9c3:0x75edd064a8fa9819",
   locationSource: "saved:Florida",
+  createdAt: "2026-06-30T23:45:05.791Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

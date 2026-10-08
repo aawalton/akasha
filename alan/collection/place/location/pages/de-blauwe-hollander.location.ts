@@ -12,4 +12,6 @@ export const deBlauweHollander = {
   sourceUrl:
     "https://www.google.com/maps/place/De+Blauwe+Hollander/data=!4m2!3m1!1s0x47c609e91a68402f:0x54203e1ec98f3bac",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.571Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

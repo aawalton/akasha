@@ -11,4 +11,6 @@ export const gameGridLehi = {
   longitude: -111.8327824,
   sourcePlaceId: "ssc:loc:game-grid:lehi",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.626Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const stortorget = {
   sourceUrl:
     "https://www.google.com/maps/place/Stortorget/data=!4m2!3m1!1s0x465f77e2621b911f:0xf209e902c54ec47b",
   locationSource: "saved:Sweden",
+  createdAt: "2026-06-30T23:45:05.546Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

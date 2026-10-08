@@ -11,4 +11,6 @@ export const parkGuell = {
   sourceUrl:
     "https://www.google.com/maps/place/Park+G%C3%BCell/data=!4m2!3m1!1s0x12a4a2ae52d441ab:0x899a0ba01aaace58",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-06-30T23:45:05.651Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

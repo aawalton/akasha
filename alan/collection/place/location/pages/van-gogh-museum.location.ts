@@ -11,4 +11,6 @@ export const vanGoghMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Van+Gogh+Museum/data=!4m2!3m1!1s0x47c609ef96d35a5f:0xc22828aef97cc51a",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.597Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

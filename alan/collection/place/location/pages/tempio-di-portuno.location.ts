@@ -11,4 +11,6 @@ export const tempioDiPortuno = {
   sourceUrl:
     "https://www.google.com/maps/place/Tempio+di+Portuno/data=!4m2!3m1!1s0x132f604a62e1b9f5:0xb03b45498ef8f1ac",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.445Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

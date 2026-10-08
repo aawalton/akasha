@@ -16,4 +16,6 @@ export const nothingBundtCakes = {
   sourceUrl: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6fe0a63a31cf3408",
   locationSource: "review",
   visited: true,
+  createdAt: "2026-06-30T23:45:06.099Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

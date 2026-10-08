@@ -11,4 +11,6 @@ export const clasRopesCourseOrem = {
   longitude: -111.6944313,
   sourcePlaceId: "ssc:loc:clas-ropes-course:orem",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:49.904Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const elPatronMexicanGrill = {
   sourceUrl:
     "https://www.google.com/maps/place/El+Patron+Mexican+Grill/data=!4m2!3m1!1s0x87530f1c412ce799:0x71df9f8959f8ee3f",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.343Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

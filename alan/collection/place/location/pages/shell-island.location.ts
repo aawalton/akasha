@@ -13,4 +13,6 @@ export const shellIsland = {
   sourceUrl:
     "https://www.google.com/maps/place/Shell+Island/data=!4m2!3m1!1s0x8893875117432ec5:0x67724a34181e745f",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.227Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

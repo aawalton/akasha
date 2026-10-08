@@ -11,4 +11,6 @@ export const strget = {
   sourceUrl:
     "https://www.google.com/maps/place/Str%C3%B8get/data=!4m2!3m1!1s0x4652531126d48c09:0xe7bb9da935dc7616",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.424Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

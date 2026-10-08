@@ -11,4 +11,6 @@ export const dam = {
   sourceUrl:
     "https://www.google.com/maps/place/Dam/data=!4m2!3m1!1s0x47c609c73b4b14ef:0x7e86dfc7e2ced272",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.584Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

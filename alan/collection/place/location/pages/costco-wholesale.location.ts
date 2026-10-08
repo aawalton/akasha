@@ -11,4 +11,6 @@ export const costcoWholesale = {
   sourceUrl:
     "https://www.google.com/maps/place/Costco+Wholesale/data=!4m2!3m1!1s0x7c006e6f940f1597:0xb9e7677df6977190",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.981Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

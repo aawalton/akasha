@@ -11,4 +11,6 @@ export const pegLegPorkerBbq = {
   sourceUrl:
     "https://www.google.com/maps/place/Peg+Leg+Porker+BBQ/data=!4m2!3m1!1s0x88646661d20bc667:0xd7077d6f399ac893",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.406Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

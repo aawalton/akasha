@@ -11,4 +11,6 @@ export const edHoysInternationalArtGlassSupplies = {
   sourceUrl:
     "https://www.google.com/maps/place/Ed+Hoy's+International+Art+Glass+%26+Supplies/data=!4m2!3m1!1s0x880e563cad01a03d:0xfe643bfcba2de30",
   locationSource: "saved:IL, Chicago",
+  createdAt: "2026-07-01T01:26:58.999Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

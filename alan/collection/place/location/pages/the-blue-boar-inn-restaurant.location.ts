@@ -11,4 +11,6 @@ export const theBlueBoarInnRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Blue+Boar+Inn+%26+Restaurant/data=!4m2!3m1!1s0x87527525257af091:0xce2029444b5dae3f",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.585Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

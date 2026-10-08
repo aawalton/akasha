@@ -12,4 +12,6 @@ export const elMexsal = {
   sourceUrl:
     "https://www.google.com/maps/place/El+Mexsal/data=!4m2!3m1!1s0x874d975691a4c99b:0x6d1ce8b24bb3344c",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.304Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const zaanseSchans = {
   sourceUrl:
     "https://www.google.com/maps/place/Zaanse+Schans/data=!4m2!3m1!1s0x47c5fcf7bec1145b:0x8b2f4837e2ca20fe",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.573Z",
+  updatedAt: "2026-09-15T17:22:28.000Z",
 } as const satisfies Location

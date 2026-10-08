@@ -11,4 +11,6 @@ export const chihulyGardenAndGlass = {
   sourceUrl:
     "https://www.google.com/maps/place/Chihuly+Garden+and+Glass/data=!4m2!3m1!1s0x54901545d66b3b55:0x7b41db287e00e687",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.199Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

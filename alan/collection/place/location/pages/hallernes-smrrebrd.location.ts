@@ -13,4 +13,6 @@ export const hallernesSmrrebrd = {
   sourceUrl:
     "https://www.google.com/maps/place/Hallernes+Sm%C3%B8rrebr%C3%B8d/data=!4m2!3m1!1s0x465253050ba221cd:0xa74608b2c4e66533",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.410Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

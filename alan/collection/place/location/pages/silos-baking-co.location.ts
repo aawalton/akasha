@@ -11,4 +11,6 @@ export const silosBakingCo = {
   sourceUrl:
     "https://www.google.com/maps/place/Silos+Baking+Co./data=!4m2!3m1!1s0x864f824e64ef4437:0xe7e750a6437e605a",
   locationSource: "saved:Waco, Texas",
+  createdAt: "2026-06-30T23:45:05.682Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

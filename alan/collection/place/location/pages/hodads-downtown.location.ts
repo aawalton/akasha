@@ -11,4 +11,6 @@ export const hodadsDowntown = {
   sourceUrl:
     "https://www.google.com/maps/place/Hodad's+Downtown/data=!4m2!3m1!1s0x80d9535f53fb2143:0xc66fa596923678d7",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-06-30T23:45:05.632Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

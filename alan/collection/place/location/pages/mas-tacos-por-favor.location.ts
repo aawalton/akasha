@@ -11,4 +11,6 @@ export const masTacosPorFavor = {
   sourceUrl:
     "https://www.google.com/maps/place/Mas+Tacos+Por+Favor/data=!4m2!3m1!1s0x886467cf0fa68157:0x7df698c6256d3333",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.514Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

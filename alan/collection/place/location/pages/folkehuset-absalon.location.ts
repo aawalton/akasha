@@ -12,4 +12,6 @@ export const folkehusetAbsalon = {
   sourceUrl:
     "https://www.google.com/maps/place/Folkehuset+Absalon/data=!4m2!3m1!1s0x4652537644f2540d:0x52c1a2c38a7a35e0",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.411Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

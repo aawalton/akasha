@@ -11,4 +11,6 @@ export const richardWalkersPancakeHouseA27f = {
   sourceUrl:
     "https://www.google.com/maps/place/Richard+Walker's+Pancake+House/data=!4m2!3m1!1s0x80d95356fe42f055:0xeb3065308830bcf4",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-06-30T23:45:05.635Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

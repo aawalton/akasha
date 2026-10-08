@@ -12,4 +12,6 @@ export const pizzaParty = {
   sourceUrl:
     "https://www.google.com/maps/place/Pizza+Party/data=!4m2!3m1!1s0x465253257f77e05d:0xf6898c1ebb7ebf92",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.414Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

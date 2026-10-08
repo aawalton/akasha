@@ -12,4 +12,6 @@ export const deliceBakeryCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/D%C3%A9lice+Bakery+%26+Caf%C3%A9/data=!4m2!3m1!1s0x87528b18dd92719f:0xeea9cf17e3be239d",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.331Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

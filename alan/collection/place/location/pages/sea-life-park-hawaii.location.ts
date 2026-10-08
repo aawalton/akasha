@@ -11,4 +11,6 @@ export const seaLifeParkHawaii = {
   sourceUrl:
     "https://www.google.com/maps/place/Sea+Life+Park+Hawaii/data=!4m2!3m1!1s0x7c00117cb5b874e1:0x5def94f09ab5dc01",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.986Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

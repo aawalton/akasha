@@ -11,4 +11,6 @@ export const firebirdPizzaPasta = {
   sourceUrl:
     "https://www.google.com/maps/place/Firebird+Pizza+%26+Pasta/data=!4m2!3m1!1s0x874d8416f64b181d:0xd1bffd8ecfae2269",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.311Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

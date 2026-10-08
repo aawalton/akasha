@@ -11,4 +11,6 @@ export const tedsBakery = {
   sourceUrl:
     "https://www.google.com/maps/place/Ted's+Bakery/data=!4m2!3m1!1s0x7c0050af67435885:0xa43a1764fbd7e1d",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:58.002Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

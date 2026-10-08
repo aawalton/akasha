@@ -11,4 +11,6 @@ export const woodcraftOfSaltLakeCitySouthValley = {
   sourceUrl:
     "https://www.google.com/maps/place/Woodcraft+of+Salt+Lake+City%2FSouth+Valley/data=!4m2!3m1!1s0x8752862ae20282a1:0xd8864aa9cd42c26e",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.580Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

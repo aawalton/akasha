@@ -11,4 +11,6 @@ export const germanFairyTaleRoadEV = {
   sourceUrl:
     "https://www.google.com/maps/place/German+Fairy+Tale+Road+e.V./data=!4m2!3m1!1s0x47bb3f4bcc4f9cad:0x8b78b61a05307e03",
   locationSource: "saved:Frankfurt, Germany",
+  createdAt: "2026-07-01T01:26:58.871Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

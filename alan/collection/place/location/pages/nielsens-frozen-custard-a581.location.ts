@@ -19,4 +19,6 @@ export const nielsensFrozenCustardA581 = {
     "https://www.google.com/maps/place/Nielsen's+Frozen+Custard/data=!4m2!3m1!1s0x87528f61fac68c43:0xd868b190b9a9a150",
   locationSource: "saved:UT, SLC",
   visited: true,
+  createdAt: "2026-06-30T23:45:05.918Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

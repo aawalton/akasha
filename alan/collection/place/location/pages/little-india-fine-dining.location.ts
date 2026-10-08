@@ -12,4 +12,6 @@ export const littleIndiaFineDining = {
   sourceUrl:
     "https://www.google.com/maps/place/Little+India+Fine+Dining/data=!4m2!3m1!1s0x874d81861c2cf3c5:0x2ae0a954cef463b4",
   locationSource: "saved:UT, Utah County; saved:Favorite places",
+  createdAt: "2026-06-30T23:45:05.539Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

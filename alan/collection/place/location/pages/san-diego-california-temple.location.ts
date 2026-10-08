@@ -11,4 +11,6 @@ export const sanDiegoCaliforniaTemple = {
   sourceUrl:
     "https://www.google.com/maps/place/San+Diego+California+Temple/data=!4m2!3m1!1s0x80dc06d32da29aff:0x3681ef10f8a92fa4",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-06-30T23:45:05.621Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

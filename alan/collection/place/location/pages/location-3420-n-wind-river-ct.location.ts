@@ -12,4 +12,6 @@ export const location3420NWindRiverCt = {
   sourceUrl:
     "https://www.google.com/maps/place/3420+N+Wind+River+Ct/data=!4m2!3m1!1s0x8753a0fdeae6c35f:0x93cbc51f0d721980",
   locationSource: "saved:Eden, Utah",
+  createdAt: "2026-07-01T01:26:58.128Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const doughLady = {
   sourceUrl:
     "https://www.google.com/maps/place/Dough+Lady/data=!4m2!3m1!1s0x894e4e9ecaa76f3:0x3038152864385daa",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.261Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

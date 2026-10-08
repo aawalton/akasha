@@ -11,4 +11,6 @@ export const thaiTimeOfProvo = {
   sourceUrl:
     "https://www.google.com/maps/place/Thai+Time+of+Provo/data=!4m2!3m1!1s0x874d917196dae781:0xbcafc9c4656d3b1",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.636Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

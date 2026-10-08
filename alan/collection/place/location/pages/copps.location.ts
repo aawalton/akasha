@@ -9,4 +9,6 @@ export const copps = {
   longitude: -89.498148,
   sourcePlaceId: "takeout:copps:43.01370,-89.49815",
   locationSource: "mymaps:My Grocery Stores - Madison West",
+  createdAt: "2026-06-30T23:45:05.899Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

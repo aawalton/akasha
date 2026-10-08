@@ -11,4 +11,6 @@ export const marsWrigleyConfectionery = {
   sourceUrl:
     "https://www.google.com/maps/place/Mars+Wrigley+Confectionery/data=!4m2!3m1!1s0x864f86c1b2eabc61:0xad946961621ab038",
   locationSource: "saved:Waco, Texas",
+  createdAt: "2026-06-30T23:45:05.686Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

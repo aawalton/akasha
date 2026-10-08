@@ -11,4 +11,6 @@ export const garageGrillSaltFlatsBarHerriman = {
   sourceUrl:
     "https://www.google.com/maps/place/Garage+Grill+%26+Salt+Flats+Bar+Herriman/data=!4m2!3m1!1s0x8752854cf3b9340d:0xf63ef9d09de3c91f",
   locationSource: "saved:Favorite places",
+  createdAt: "2026-07-01T01:26:59.134Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

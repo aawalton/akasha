@@ -11,4 +11,6 @@ export const christTheKing = {
   sourceUrl:
     "https://www.google.com/maps/place/Christ+The+King/data=!4m2!3m1!1s0xd1934e79edcc73d:0x640bf28fe6e9ea81",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-07-01T01:26:59.039Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

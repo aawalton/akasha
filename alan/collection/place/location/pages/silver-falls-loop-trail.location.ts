@@ -11,4 +11,6 @@ export const silverFallsLoopTrail = {
   sourceUrl:
     "https://www.google.com/maps/place/Silver+Falls+Loop+Trail/data=!4m2!3m1!1s0x5497320da3e4f161:0x5a42cc80057ffd37",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.154Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

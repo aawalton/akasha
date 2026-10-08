@@ -9,4 +9,6 @@ export const woodmansFoodMarket = {
   longitude: -89.50201,
   sourcePlaceId: "takeout:woodman-s-food-market:43.04895,-89.50201",
   locationSource: "mymaps:My Grocery Stores - Madison West",
+  createdAt: "2026-06-30T23:45:05.900Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

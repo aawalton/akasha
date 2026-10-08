@@ -11,4 +11,6 @@ export const location12South = {
   sourceUrl:
     "https://www.google.com/maps/place/12+South/data=!4m2!3m1!1s0x8864642f91478f11:0xc7d1219a06ea299d",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.527Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

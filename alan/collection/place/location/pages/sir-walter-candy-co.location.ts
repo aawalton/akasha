@@ -12,4 +12,6 @@ export const sirWalterCandyCo = {
   sourceUrl:
     "https://www.google.com/maps/place/Sir+Walter+Candy+Co./data=!4m2!3m1!1s0x87528ae77df0ebad:0xd39352357498cc02",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.646Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

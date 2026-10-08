@@ -11,4 +11,6 @@ export const theSouthernSteakOyster = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Southern+Steak+%26+Oyster/data=!4m2!3m1!1s0x8864665c796587b1:0x7f9f854fd411041d",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.509Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const havolineUtahCounty = {
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:havoline:utah-county",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.827Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

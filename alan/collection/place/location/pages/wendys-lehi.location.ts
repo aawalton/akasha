@@ -11,4 +11,6 @@ export const wendysLehi = {
   longitude: -111.8859869,
   sourcePlaceId: "ssc:loc:wendys:lehi",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.276Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

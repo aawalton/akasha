@@ -11,4 +11,6 @@ export const montSaintMichel = {
   sourceUrl:
     "https://www.google.com/maps/place/Mont+Saint-Michel/data=!4m2!3m1!1s0x480ea8d67c9ceeb3:0xc5834ce47e0dc3fe",
   locationSource: "saved:Mont Saint-Michel, France",
+  createdAt: "2026-06-30T23:45:05.819Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

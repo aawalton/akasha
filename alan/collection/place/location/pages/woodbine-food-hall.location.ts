@@ -11,4 +11,6 @@ export const woodbineFoodHall = {
   sourceUrl:
     "https://www.google.com/maps/place/Woodbine+Food+Hall/data=!4m2!3m1!1s0x8752f57cf863019d:0xad5176d7db563b82",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.282Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

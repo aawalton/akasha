@@ -12,4 +12,6 @@ export const pompanoBeachFisherFamilyPier = {
   sourceUrl:
     "https://www.google.com/maps/place/Pompano+Beach+Fisher+Family+Pier/data=!4m2!3m1!1s0x88d8fd667659cc83:0x33f693b0098bc6fb",
   locationSource: "saved:Florida",
+  createdAt: "2026-07-01T01:26:59.171Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

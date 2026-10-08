@@ -9,4 +9,6 @@ export const institute = {
   longitude: -113.072158,
   sourcePlaceId: "takeout:institute:37.67774,-113.07216",
   locationSource: "mymaps:Cedar City Haunts",
+  createdAt: "2026-06-30T23:45:05.911Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const peterBeierChokolade = {
   sourceUrl:
     "https://www.google.com/maps/place/Peter+Beier+Chokolade/data=!4m2!3m1!1s0x4652531849d58835:0xaa73b7355897ebbe",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.416Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const puertaDelSol = {
   sourceUrl:
     "https://www.google.com/maps/place/Puerta+del+Sol/data=!4m2!3m1!1s0xd422880a07d7dc7:0x694aee57da1dc679",
   locationSource: "saved:Madrid, Spain",
+  createdAt: "2026-06-30T23:45:05.389Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

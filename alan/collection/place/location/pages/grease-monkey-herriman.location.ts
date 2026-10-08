@@ -11,4 +11,6 @@ export const greaseMonkeyHerriman = {
   longitude: -112.0329086,
   sourcePlaceId: "ssc:loc:grease-monkey:herriman",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.798Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

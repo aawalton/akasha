@@ -12,4 +12,6 @@ export const tulieBakery = {
   sourceUrl:
     "https://www.google.com/maps/place/Tulie+Bakery/data=!4m2!3m1!1s0x8752f55cf4f50703:0xe86d0ef7ad891dd4",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.280Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

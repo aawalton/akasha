@@ -11,4 +11,6 @@ export const oakCreekCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Oak+Creek+Cafe/data=!4m2!3m1!1s0x865b4184117f5925:0xe010f4684f2744c7",
   locationSource: "saved:Austin, Texas",
+  createdAt: "2026-07-01T01:26:58.667Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

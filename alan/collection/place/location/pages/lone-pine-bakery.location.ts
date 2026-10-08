@@ -11,4 +11,6 @@ export const lonePineBakery = {
   sourceUrl:
     "https://www.google.com/maps/place/Lone+Pine+Bakery/data=!4m2!3m1!1s0x875287fcae04c837:0xe21dee94f09591c9",
   locationSource: "saved:UT, Sandy - Draper - Riverton",
+  createdAt: "2026-07-01T01:26:59.219Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

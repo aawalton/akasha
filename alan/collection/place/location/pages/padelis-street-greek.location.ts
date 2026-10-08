@@ -11,4 +11,6 @@ export const padelisStreetGreek = {
   sourceUrl:
     "https://www.google.com/maps/place/Padeli's+Street+Greek/data=!4m2!3m1!1s0x8752813e448745a1:0x221e202a5458b3ee",
   locationSource: "saved:UT, Utah County",
+  createdAt: "2026-06-30T23:45:05.537Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

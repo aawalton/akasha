@@ -11,4 +11,6 @@ export const theHolyGrillAndBar = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Holy+Grill+And+Bar/data=!4m2!3m1!1s0x874d8441c7a339bf:0xc4eb5374cdcc8536",
   locationSource: "saved:Default list",
+  createdAt: "2026-07-01T01:26:59.236Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

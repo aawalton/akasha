@@ -11,4 +11,6 @@ export const westgateParkCityResortSpa = {
   sourceUrl:
     "https://www.google.com/maps/place/Westgate+Park+City+Resort+%26+Spa/data=!4m2!3m1!1s0x87526c333ae9eeef:0xc5d7bf579d142912",
   locationSource: "saved:Favorite places",
+  createdAt: "2026-07-01T01:26:59.148Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -13,4 +13,6 @@ export const muranoGlassNativitySet = {
   sourceUrl:
     "https://www.google.com/shopping/product/1?prds=epd:3481895918613756270,pid:3481895918613756270",
   locationSource: "saved:Default list(4)",
+  createdAt: "2026-07-01T01:26:59.201Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

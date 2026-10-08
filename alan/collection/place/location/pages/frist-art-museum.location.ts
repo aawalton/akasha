@@ -11,4 +11,6 @@ export const fristArtMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Frist+Art+Museum/data=!4m2!3m1!1s0x886466f5af3c0911:0xe73387e710457e9b",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.519Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

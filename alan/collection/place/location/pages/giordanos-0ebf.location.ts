@@ -11,4 +11,6 @@ export const giordanos0ebf = {
   sourceUrl:
     "https://www.google.com/maps/place/Giordano's/data=!4m2!3m1!1s0x880e2ca606b47887:0xe494c5a4cb742aeb",
   locationSource: "saved:IL, Chicago",
+  createdAt: "2026-06-30T23:45:05.710Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

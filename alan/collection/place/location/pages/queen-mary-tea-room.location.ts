@@ -11,4 +11,6 @@ export const queenMaryTeaRoom = {
   sourceUrl:
     "https://www.google.com/maps/place/Queen+Mary+Tea+Room/data=!4m2!3m1!1s0x54901480b19720ad:0x89e45be77880a0cf",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.183Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

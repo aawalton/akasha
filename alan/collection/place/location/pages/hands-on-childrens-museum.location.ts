@@ -11,4 +11,6 @@ export const handsOnChildrensMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Hands+On+Children's+Museum/data=!4m2!3m1!1s0x549174fd4fabd173:0x9bd4de293a89eea8",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.167Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

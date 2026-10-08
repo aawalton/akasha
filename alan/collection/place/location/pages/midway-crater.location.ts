@@ -11,4 +11,6 @@ export const midwayCrater = {
   sourceUrl:
     "https://www.google.com/maps/place/Midway+Crater/data=!4m2!3m1!1s0x87527591706d04f3:0xd4b6f2d9a9811b36",
   locationSource: "saved:UT, Heber City",
+  createdAt: "2026-07-01T01:26:59.085Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

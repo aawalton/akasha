@@ -12,4 +12,6 @@ export const provoRiverTrailParking3 = {
   sourceUrl:
     "https://www.google.com/maps/place/Provo+River+Trail+Parking+%233/data=!4m2!3m1!1s0x874d9a34a03080df:0x584766c3d68e5e4b",
   locationSource: "saved:Walking trails with Alan",
+  createdAt: "2026-07-01T01:26:58.014Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const mcdonaldsOrem = {
   longitude: -111.7127644,
   sourcePlaceId: "ssc:loc:mcdonalds:orem",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.803Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

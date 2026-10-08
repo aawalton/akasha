@@ -12,4 +12,6 @@ export const tilikumPlaceCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Tilikum+Place+Cafe/data=!4m2!3m1!1s0x5490154f3b483be9:0xb8dba873b8fad944",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.187Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

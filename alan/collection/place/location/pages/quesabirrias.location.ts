@@ -11,4 +11,6 @@ export const quesabirrias = {
   sourceUrl:
     "https://www.google.com/maps/place/Quesabirria's/data=!4m2!3m1!1s0x874df5d71043a189:0x5ff36355d637e9d0",
   locationSource: "saved:UT, Heber City",
+  createdAt: "2026-07-01T01:26:59.080Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

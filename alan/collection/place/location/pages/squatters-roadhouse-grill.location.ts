@@ -11,4 +11,6 @@ export const squattersRoadhouseGrill = {
   sourceUrl:
     "https://www.google.com/maps/place/Squatters+Roadhouse+Grill/data=!4m2!3m1!1s0x87526d64d6123723:0x77a8dbaaedee4ae8",
   locationSource: "saved:UT, Heber City",
+  createdAt: "2026-07-01T01:26:59.093Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -13,4 +13,6 @@ export const saintVincentsBeach = {
   sourceUrl:
     "https://www.google.com/maps/place/Saint+Vincent%E2%80%99s+Beach/data=!4m2!3m1!1s0x4b0d68bfcccc1a9b:0x4b339a8f7b5fa8b4",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.270Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

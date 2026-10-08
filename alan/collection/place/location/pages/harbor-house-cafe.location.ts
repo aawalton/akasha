@@ -11,4 +11,6 @@ export const harborHouseCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Harbor+House+Cafe/data=!4m2!3m1!1s0x80dcf050c2ef2ccb:0x30b758d16bf82103",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-07-01T01:26:58.687Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

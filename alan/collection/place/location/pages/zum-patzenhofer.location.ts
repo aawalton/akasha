@@ -12,4 +12,6 @@ export const zumPatzenhofer = {
   sourceUrl:
     "https://www.google.com/maps/place/Zum+Patzenhofer/data=!4m2!3m1!1s0x47a850f94e6643d7:0xa3afde1658fb178",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-06-30T23:45:05.356Z",
+  updatedAt: "2026-09-15T17:22:28.000Z",
 } as const satisfies Location

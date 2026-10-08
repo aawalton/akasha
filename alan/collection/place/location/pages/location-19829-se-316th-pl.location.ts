@@ -12,4 +12,6 @@ export const location19829Se316thPl = {
   sourceUrl:
     "https://www.google.com/maps/place/19829+SE+316th+Pl/data=!4m2!3m1!1s0x5490f5a6a780c5cd:0x92a8d5a8d7ce94bb",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.171Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

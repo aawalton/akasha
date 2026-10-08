@@ -11,4 +11,6 @@ export const theFrenchSpot = {
   sourceUrl:
     "https://www.google.com/maps/place/The+French+Spot/data=!4m2!3m1!1s0x80b561ba40be119b:0x8913f554a020de31",
   locationSource: "saved:UT, Cedar City",
+  createdAt: "2026-06-30T23:45:05.696Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

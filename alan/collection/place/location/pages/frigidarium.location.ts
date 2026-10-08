@@ -13,4 +13,6 @@ export const frigidarium = {
   sourceUrl:
     "https://www.google.com/maps/place/Frigidarium/data=!4m2!3m1!1s0x132f604517b66b91:0xde0b80504f7164f",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.436Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

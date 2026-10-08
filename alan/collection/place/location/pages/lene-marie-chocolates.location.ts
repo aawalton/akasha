@@ -12,4 +12,6 @@ export const leneMarieChocolates = {
   sourceUrl:
     "https://www.google.com/maps/place/Lene'+Marie+Chocolates/data=!4m2!3m1!1s0x87530fd0f934c0cb:0xae974572c7d02948",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.648Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

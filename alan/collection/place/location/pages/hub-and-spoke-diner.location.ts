@@ -12,4 +12,6 @@ export const hubAndSpokeDiner = {
   sourceUrl:
     "https://www.google.com/maps/place/Hub+and+Spoke+Diner/data=!4m2!3m1!1s0x8752f5551c58e951:0xf4aff47160bddce4",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.523Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

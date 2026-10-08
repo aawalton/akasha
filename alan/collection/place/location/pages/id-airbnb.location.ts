@@ -10,4 +10,6 @@ export const idAirbnb = {
   longitude: -112.01635209999999,
   sourcePlaceId: "takeout:id-airbnb:10956-s-dempsey-creek-rd-lava-hot-springs-id-83246-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.855Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

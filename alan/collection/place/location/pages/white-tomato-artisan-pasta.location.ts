@@ -11,4 +11,6 @@ export const whiteTomatoArtisanPasta = {
   sourceUrl:
     "https://www.google.com/maps/place/White+Tomato+Artisan+Pasta/data=!4m2!3m1!1s0x8752870028bc3367:0x84fefe18de1b1505",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.678Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

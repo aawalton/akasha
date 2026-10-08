@@ -11,4 +11,6 @@ export const rumbiIslandGrillUtahCounty = {
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:rumbi-island-grill:utah-county",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.015Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

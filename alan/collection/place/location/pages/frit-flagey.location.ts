@@ -12,4 +12,6 @@ export const fritFlagey = {
   sourceUrl:
     "https://www.google.com/maps/place/Frit+Flagey/data=!4m2!3m1!1s0x47c3c4930dee375f:0x24d07daa0595f6d7",
   locationSource: "saved:Belgium",
+  createdAt: "2026-06-30T23:45:05.749Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

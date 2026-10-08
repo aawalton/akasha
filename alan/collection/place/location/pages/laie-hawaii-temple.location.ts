@@ -11,4 +11,6 @@ export const laieHawaiiTemple = {
   sourceUrl:
     "https://www.google.com/maps/place/Laie+Hawaii+Temple/data=!4m2!3m1!1s0x7c00455de0b6c321:0xebaa91b36a6985b5",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:58.011Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

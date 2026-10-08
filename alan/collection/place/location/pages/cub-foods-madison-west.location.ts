@@ -9,4 +9,6 @@ export const cubFoodsMadisonWest = {
   longitude: -89.510422,
   sourcePlaceId: "takeout:cub-foods-madison-west:43.05785,-89.51042",
   locationSource: "mymaps:My Grocery Stores - Madison West",
+  createdAt: "2026-06-30T23:45:05.898Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

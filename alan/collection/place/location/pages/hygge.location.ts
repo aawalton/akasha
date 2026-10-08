@@ -12,4 +12,6 @@ export const hygge = {
   sourceUrl:
     "https://www.google.com/maps/place/Hygge/data=!4m2!3m1!1s0x47c3c48856a92229:0x9582ef3a47c0cffd",
   locationSource: "saved:Belgium",
+  createdAt: "2026-06-30T23:45:05.745Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

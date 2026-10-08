@@ -12,4 +12,6 @@ export const theGreatGreekMediterraneanGrillPleasantGroveUt = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Great+Greek+Mediterranean+Grill+-+Pleasant+Grove+,+UT/data=!4m2!3m1!1s0x874d83fc24127a01:0xb73a6ea28c9dcf67",
   locationSource: "saved:UT, Utah County",
+  createdAt: "2026-07-01T01:26:58.458Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

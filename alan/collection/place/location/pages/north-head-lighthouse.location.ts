@@ -11,4 +11,6 @@ export const northHeadLighthouse = {
   sourceUrl:
     "https://www.google.com/maps/place/North+Head+Lighthouse/data=!4m2!3m1!1s0x54936c5729cbaabb:0xa314fcd12b84a54f",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.179Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

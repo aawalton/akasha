@@ -11,4 +11,6 @@ export const saltStraw = {
   sourceUrl:
     "https://www.google.com/maps/place/Salt+%26+Straw/data=!4m2!3m1!1s0x54906acb7e03ffff:0x6fcc2307c708c8fd",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.155Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

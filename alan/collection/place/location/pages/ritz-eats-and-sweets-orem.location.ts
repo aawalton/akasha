@@ -11,4 +11,6 @@ export const ritzEatsAndSweetsOrem = {
   longitude: -111.6944313,
   sourcePlaceId: "ssc:loc:ritz-eats-and-sweets:orem",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.981Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

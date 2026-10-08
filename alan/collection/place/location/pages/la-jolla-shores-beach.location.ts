@@ -11,4 +11,6 @@ export const laJollaShoresBeach = {
   sourceUrl:
     "https://www.google.com/maps/place/La+Jolla+Shores+Beach/data=!4m2!3m1!1s0x80dc0152f304cdc9:0xf86a9dbe70028681",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-06-30T23:45:05.630Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

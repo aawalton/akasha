@@ -11,4 +11,6 @@ export const palaceOfVersailles = {
   sourceUrl:
     "https://www.google.com/maps/place/Palace+of+Versailles/data=!4m2!3m1!1s0x47e67d94d7b14c75:0x538fcc15f59ce8f",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.371Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

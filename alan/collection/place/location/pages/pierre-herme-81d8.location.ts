@@ -11,4 +11,6 @@ export const pierreHerme81d8 = {
   sourceUrl:
     "https://www.google.com/maps/place/Pierre+Herm%C3%A9/data=!4m2!3m1!1s0x47e6719ddf0f022d:0xddc4a38d771fe198",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-06-30T23:45:05.482Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

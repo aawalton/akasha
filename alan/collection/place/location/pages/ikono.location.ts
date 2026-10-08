@@ -12,4 +12,6 @@ export const ikono = {
   sourceUrl:
     "https://www.google.com/maps/place/IKONO/data=!4m2!3m1!1s0xd42278ec59b5723:0xb30d39c310f4669",
   locationSource: "saved:Madrid, Spain",
+  createdAt: "2026-06-30T23:45:05.387Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const chihulyBridgeOfGlass = {
   sourceUrl:
     "https://www.google.com/maps/place/Chihuly+Bridge+of+Glass/data=!4m2!3m1!1s0x54905576e4823933:0xf8d73b6fb9c75494",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.198Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

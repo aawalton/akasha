@@ -10,4 +10,6 @@ export const marquiesHouse = {
   longitude: -111.66124579999999,
   sourcePlaceId: "takeout:marquie-s-house:144-400-n-provo-ut-84601-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.849Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

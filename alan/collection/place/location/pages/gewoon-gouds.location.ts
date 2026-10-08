@@ -12,4 +12,6 @@ export const gewoonGouds = {
   sourceUrl:
     "https://www.google.com/maps/place/Gewoon+Gouds/data=!4m2!3m1!1s0x47c5d40278015561:0x33b6c47e8b7ac7da",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.570Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const shell = {
   sourceUrl:
     "https://www.google.com/maps/place/Shell/data=!4m2!3m1!1s0x464b719cef1c1067:0xa5b45d5f51a3834",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.398Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

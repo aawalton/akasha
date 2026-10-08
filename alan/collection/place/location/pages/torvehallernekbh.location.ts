@@ -12,4 +12,6 @@ export const torvehallernekbh = {
   sourceUrl:
     "https://www.google.com/maps/place/TorvehallerneKBH/data=!4m2!3m1!1s0x465253051285311b:0x7374ede35ce9623b",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.413Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

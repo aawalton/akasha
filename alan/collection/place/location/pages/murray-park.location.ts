@@ -11,4 +11,6 @@ export const murrayPark = {
   sourceUrl:
     "https://www.google.com/maps/place/Murray+Park/data=!4m2!3m1!1s0x87528a21721568c3:0x113e555789ecca05",
   locationSource: "saved:Default list",
+  createdAt: "2026-06-30T23:45:05.809Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

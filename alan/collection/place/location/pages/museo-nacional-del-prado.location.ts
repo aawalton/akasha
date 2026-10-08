@@ -11,4 +11,6 @@ export const museoNacionalDelPrado = {
   sourceUrl:
     "https://www.google.com/maps/place/Museo+Nacional+del+Prado/data=!4m2!3m1!1s0xd42289d66d8a2ed:0x1094f07d93ad885a",
   locationSource: "saved:Madrid, Spain",
+  createdAt: "2026-06-30T23:45:05.394Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

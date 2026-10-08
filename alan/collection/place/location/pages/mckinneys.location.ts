@@ -10,4 +10,6 @@ export const mckinneys = {
   longitude: -111.5931763,
   sourcePlaceId: "takeout:mckinney-s:1174-w-120-n-mapleton-ut-84664-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.834Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

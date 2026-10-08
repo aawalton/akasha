@@ -11,4 +11,6 @@ export const jennysCanyonTrail = {
   sourceUrl:
     "https://www.google.com/maps/place/Jenny's+Canyon+Trail/data=!4m2!3m1!1s0x80ca42152d735f27:0x3b73d8e2e0d2b576",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-07-01T01:26:58.805Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

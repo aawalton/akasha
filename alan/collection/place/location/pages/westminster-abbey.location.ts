@@ -11,4 +11,6 @@ export const westminsterAbbey = {
   sourceUrl:
     "https://www.google.com/maps/place/Westminster+Abbey/data=!4m2!3m1!1s0x487604c359914745:0x700da0b0ccd9ee00",
   locationSource: "saved:London, England",
+  createdAt: "2026-06-30T23:45:05.664Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

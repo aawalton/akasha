@@ -11,4 +11,6 @@ export const greatHarvestBreadCoProvo = {
   longitude: -111.6608749,
   sourcePlaceId: "ssc:loc:great-harvest-bread-co:provo",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.814Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

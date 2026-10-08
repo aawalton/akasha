@@ -12,4 +12,6 @@ export const theOtherSideDonuts = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Other+Side+Donuts/data=!4m2!3m1!1s0x8752f5acddfdb23d:0x35d7bd10b2988a21",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.283Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

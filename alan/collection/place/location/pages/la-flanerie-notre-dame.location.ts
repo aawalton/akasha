@@ -12,4 +12,6 @@ export const laFlanerieNotreDame = {
   sourceUrl:
     "https://www.google.com/maps/place/La+Fl%C3%A2nerie+Notre-Dame/data=!4m2!3m1!1s0x47e671820441db29:0xd169c4ae6ca8d92b",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.316Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

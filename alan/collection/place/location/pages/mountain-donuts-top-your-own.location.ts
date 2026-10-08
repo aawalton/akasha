@@ -11,4 +11,6 @@ export const mountainDonutsTopYourOwn = {
   sourceUrl:
     "https://www.google.com/maps/place/Mountain+Donuts+%E2%80%9CTop+Your+Own%E2%80%9D/data=!4m2!3m1!1s0x87530fc46c664af5:0x1428224b452a3c68",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.947Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

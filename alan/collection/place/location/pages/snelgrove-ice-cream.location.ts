@@ -11,4 +11,6 @@ export const snelgroveIceCream = {
   sourceUrl:
     "https://www.google.com/maps/place/Snelgrove+Ice+Cream/data=!4m2!3m1!1s0x80ca519229cb9ec1:0xfeb183b3351390b3",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-07-01T01:26:58.807Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

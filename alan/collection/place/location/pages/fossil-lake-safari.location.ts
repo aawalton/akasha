@@ -12,4 +12,6 @@ export const fossilLakeSafari = {
   sourceUrl:
     "https://www.google.com/maps/place/Fossil+Lake+Safari/data=!4m2!3m1!1s0x8751351a234393cb:0xbc284b243d0bf4de",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.638Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

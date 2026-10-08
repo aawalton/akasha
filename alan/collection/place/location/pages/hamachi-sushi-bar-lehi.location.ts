@@ -12,4 +12,6 @@ export const hamachiSushiBarLehi = {
   sourceUrl:
     "https://www.google.com/maps/place/Hamachi+Sushi+Bar+Lehi/data=!4m2!3m1!1s0x87528157afd01b35:0x10dc396adc998ac",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.246Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

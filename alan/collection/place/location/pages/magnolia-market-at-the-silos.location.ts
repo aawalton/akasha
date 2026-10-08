@@ -11,4 +11,6 @@ export const magnoliaMarketAtTheSilos = {
   sourceUrl:
     "https://www.google.com/maps/place/Magnolia+Market+at+the+Silos/data=!4m2!3m1!1s0x864f8237195fa259:0xe86986e43f0ea285",
   locationSource: "saved:Waco, Texas",
+  createdAt: "2026-07-01T01:26:58.877Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

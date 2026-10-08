@@ -11,4 +11,6 @@ export const leGrenierAPain = {
   sourceUrl:
     "https://www.google.com/maps/place/Le+Grenier+%C3%A0+Pain/data=!4m2!3m1!1s0x47e66e456a10e875:0x35ec24b82d815c48",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-06-30T23:45:05.491Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

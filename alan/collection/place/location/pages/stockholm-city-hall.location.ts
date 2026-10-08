@@ -11,4 +11,6 @@ export const stockholmCityHall = {
   sourceUrl:
     "https://www.google.com/maps/place/Stockholm+City+Hall/data=!4m2!3m1!1s0x465f77df9092cde9:0xaeafc90d911394c0",
   locationSource: "saved:Sweden; saved:Norway",
+  createdAt: "2026-06-30T23:45:05.552Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

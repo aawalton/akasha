@@ -12,4 +12,6 @@ export const stonegroundItalianKitchen = {
   sourceUrl:
     "https://www.google.com/maps/place/Stoneground+Italian+Kitchen/data=!4m2!3m1!1s0x8752f5130a0017b7:0x3754c82da6bbc010",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.754Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

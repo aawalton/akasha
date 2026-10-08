@@ -11,4 +11,6 @@ export const truByHiltonNapervilleChicago = {
   sourceUrl:
     "https://www.google.com/maps/place/Tru+by+Hilton+Naperville+Chicago/data=!4m2!3m1!1s0x880ef91da033782d:0xc73c77b8fe93f3d",
   locationSource: "saved:Hotels(1)",
+  createdAt: "2026-07-01T01:26:58.479Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

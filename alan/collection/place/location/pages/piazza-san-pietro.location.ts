@@ -11,4 +11,6 @@ export const piazzaSanPietro = {
   sourceUrl:
     "https://www.google.com/maps/place/Piazza+San+Pietro/data=!4m2!3m1!1s0x132f6067b0ad3535:0xb0be9b5b5aad7258",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.458Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

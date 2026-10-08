@@ -11,4 +11,6 @@ export const rijksmuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Rijksmuseum/data=!4m2!3m1!1s0x47c609eec1bb16e5:0xd54373ae6a408585",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.599Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

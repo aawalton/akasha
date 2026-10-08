@@ -11,4 +11,6 @@ export const seattleChinatownInternationalDistrict = {
   sourceUrl:
     "https://www.google.com/maps/place/Seattle+Chinatown-International+District/data=!4m2!3m1!1s0x54906abe8928c5f3:0x8067969a0571117c",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.158Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

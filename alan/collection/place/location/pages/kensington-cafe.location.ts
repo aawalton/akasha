@@ -17,4 +17,6 @@ export const kensingtonCafe = {
     "https://www.google.com/maps/place/Kensington+Cafe/data=!4m2!3m1!1s0x80d95449713b2939:0xdf541a36ecf6f05e",
   locationSource: "saved:CA, San Diego; saved:Favorite places",
   visited: true,
+  createdAt: "2026-06-30T23:45:05.620Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

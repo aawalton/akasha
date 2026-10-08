@@ -12,4 +12,6 @@ export const laCrepeOg = {
   sourceUrl:
     "https://www.google.com/maps/place/La+Crepe+OG/data=!4m2!3m1!1s0x87530fae0d3da091:0x674fa3ad98c3ea60",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.340Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

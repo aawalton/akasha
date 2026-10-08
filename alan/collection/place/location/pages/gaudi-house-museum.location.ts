@@ -11,4 +11,6 @@ export const gaudiHouseMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Gaud%C3%AD+House+Museum/data=!4m2!3m1!1s0x12a4a2dccefde0e1:0xf3586e29b7410dfe",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-07-01T01:26:58.744Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

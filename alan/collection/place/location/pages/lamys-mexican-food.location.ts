@@ -11,4 +11,6 @@ export const lamysMexicanFood = {
   sourceUrl:
     "https://www.google.com/maps/place/Lamy's+Mexican+Food/data=!4m2!3m1!1s0x80ca456a51cd1287:0x110662c3ed982a81",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-07-01T01:26:58.820Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

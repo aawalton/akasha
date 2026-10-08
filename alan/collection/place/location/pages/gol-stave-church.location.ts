@@ -11,4 +11,6 @@ export const golStaveChurch = {
   sourceUrl:
     "https://www.google.com/maps/place/Gol+Stave+Church/data=!4m2!3m1!1s0x46416c37d7970ecf:0x1a848f503254b764",
   locationSource: "saved:Norway",
+  createdAt: "2026-07-01T01:26:59.119Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

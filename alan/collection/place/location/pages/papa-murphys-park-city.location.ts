@@ -11,4 +11,6 @@ export const papaMurphysParkCity = {
   longitude: -111.938039,
   sourcePlaceId: "ssc:loc:papa-murphys:park-city",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.882Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

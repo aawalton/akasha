@@ -12,4 +12,6 @@ export const evasBakery = {
   sourceUrl:
     "https://www.google.com/maps/place/Eva's+Bakery/data=!4m2!3m1!1s0x8752f50f0d344c09:0x8657d6e1431157b",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.501Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

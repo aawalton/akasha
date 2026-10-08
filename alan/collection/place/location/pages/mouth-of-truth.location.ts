@@ -11,4 +11,6 @@ export const mouthOfTruth = {
   sourceUrl:
     "https://www.google.com/maps/place/Mouth+of+Truth/data=!4m2!3m1!1s0x132f60357bd95f9b:0x8266dc9debf0b1e7",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.461Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const paintNightOption = {
   sourcePlaceId:
     "takeout:paint-night-option:hilton-san-diego-mission-valley-901-camino-del-rio-s-san-diego-ca-92108-united-states",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.861Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

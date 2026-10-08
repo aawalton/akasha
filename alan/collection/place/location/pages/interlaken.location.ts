@@ -12,4 +12,6 @@ export const interlaken = {
   sourceUrl:
     "https://www.google.com/maps/place/Interlaken/data=!4m2!3m1!1s0x1453996a31921a05:0x9c111af14c02be00",
   locationSource: "saved:Switzerland",
+  createdAt: "2026-06-30T23:45:05.800Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

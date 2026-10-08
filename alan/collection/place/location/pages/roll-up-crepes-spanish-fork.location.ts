@@ -11,4 +11,6 @@ export const rollUpCrepesSpanishFork = {
   longitude: -111.6547774,
   sourcePlaceId: "ssc:loc:roll-up-crepes:spanish-fork",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.996Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

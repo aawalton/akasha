@@ -11,4 +11,6 @@ export const professionails = {
   sourceUrl:
     "https://www.google.com/maps/place/ProfessioNails/data=!4m2!3m1!1s0x874d9a77f5861a9d:0x4e2de577d32416ac",
   locationSource: "saved:UT, Utah County",
+  createdAt: "2026-07-01T01:26:58.454Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

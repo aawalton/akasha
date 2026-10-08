@@ -11,4 +11,6 @@ export const olympia = {
   sourceUrl:
     "https://www.google.com/maps/place/Olympia/data=!4m2!3m1!1s0x5491c9c1ae285569:0x4f146197e2881b83",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.169Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

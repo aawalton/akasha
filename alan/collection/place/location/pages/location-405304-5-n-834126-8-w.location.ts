@@ -12,4 +12,6 @@ export const location4053045N8341268W = {
   sourcePlaceId: "takeout:40-53-04-5-n-83-41-26-8-w:noloc",
   sourceUrl: "https://www.google.com/maps/search/40.8845833,-83.6907778",
   locationSource: "saved:Family History",
+  createdAt: "2026-06-30T23:45:05.828Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

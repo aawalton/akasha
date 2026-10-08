@@ -11,4 +11,6 @@ export const lovelessCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Loveless+Cafe/data=!4m2!3m1!1s0x88648611e39c5b19:0x954eaa8c1336f2ed",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.512Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

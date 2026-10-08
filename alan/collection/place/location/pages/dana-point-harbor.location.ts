@@ -11,4 +11,6 @@ export const danaPointHarbor = {
   sourceUrl:
     "https://www.google.com/maps/place/Dana+Point+Harbor/data=!4m2!3m1!1s0x80dcf0ff377100f7:0x401b764516f668df",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-07-01T01:26:58.699Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

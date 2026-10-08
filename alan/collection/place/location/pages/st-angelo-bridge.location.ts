@@ -11,4 +11,6 @@ export const stAngeloBridge = {
   sourceUrl:
     "https://www.google.com/maps/place/St.+Angelo+Bridge/data=!4m2!3m1!1s0x132f605ca1d70975:0xa8ab4616b7b40209",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-07-01T01:26:58.298Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

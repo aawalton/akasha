@@ -11,4 +11,6 @@ export const weienseeCemetery = {
   sourceUrl:
     "https://www.google.com/maps/place/Wei%C3%9Fensee+cemetery/data=!4m2!3m1!1s0x47a84ddb7bd1fa6b:0x6c861a5382820d84",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-06-30T23:45:05.370Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

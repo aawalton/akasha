@@ -11,4 +11,6 @@ export const royalPalaceAmsterdam = {
   sourceUrl:
     "https://www.google.com/maps/place/Royal+Palace+Amsterdam/data=!4m2!3m1!1s0x47c609c6c0880e15:0x39914e99b51dcf8a",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.591Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

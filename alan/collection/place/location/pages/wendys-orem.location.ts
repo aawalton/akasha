@@ -11,4 +11,6 @@ export const wendysOrem = {
   longitude: -111.7035835,
   sourcePlaceId: "ssc:loc:wendys:orem",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.279Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

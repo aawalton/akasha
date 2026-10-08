@@ -9,4 +9,6 @@ export const jamesHouse = {
   longitude: -111.7036267,
   sourcePlaceId: "takeout:james-house:40.28472,-111.70363",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.853Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

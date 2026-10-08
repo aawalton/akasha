@@ -11,4 +11,6 @@ export const kahiSushi = {
   sourceUrl:
     "https://www.google.com/maps/place/Kahi+Sushi/data=!4m2!3m1!1s0x874d81a15b20b681:0x71c214f49abc45c3",
   locationSource: "saved:Favorite places",
+  createdAt: "2026-06-30T23:45:05.772Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

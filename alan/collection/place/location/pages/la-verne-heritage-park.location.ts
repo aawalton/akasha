@@ -9,4 +9,6 @@ export const laVerneHeritagePark = {
   longitude: -117.7752683,
   sourcePlaceId: "takeout:la-verne-heritage-park:34.12801,-117.77527",
   locationSource: "mymaps:Joseph 12 Y.O",
+  createdAt: "2026-06-30T23:45:05.895Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const mcnamarasIrishPubAndRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/McNamara's+Irish+Pub+and+Restaurant/data=!4m2!3m1!1s0x8864697e8e227ed9:0xc8cdc5d98d64eefd",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.416Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

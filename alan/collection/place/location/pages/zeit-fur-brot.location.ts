@@ -11,4 +11,6 @@ export const zeitFurBrot = {
   sourceUrl:
     "https://www.google.com/maps/place/Zeit+f%C3%BCr+Brot/data=!4m2!3m1!1s0x47a851e26bdd33c9:0x1231990246d7414",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-06-30T23:45:05.365Z",
+  updatedAt: "2026-09-15T17:22:28.000Z",
 } as const satisfies Location

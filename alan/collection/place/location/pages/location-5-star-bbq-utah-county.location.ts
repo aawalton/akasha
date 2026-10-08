@@ -11,4 +11,6 @@ export const location5StarBbqUtahCounty = {
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:5-star-bbq:utah-county",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:49.391Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

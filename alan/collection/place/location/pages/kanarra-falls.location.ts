@@ -11,4 +11,6 @@ export const kanarraFalls = {
   sourceUrl:
     "https://www.google.com/maps/place/Kanarra+Falls/data=!4m2!3m1!1s0x80ca9b4d360d99b3:0xc5754cc536fe0f9f",
   locationSource: "saved:UT, Cedar City",
+  createdAt: "2026-07-01T01:26:58.912Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

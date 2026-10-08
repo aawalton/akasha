@@ -11,4 +11,6 @@ export const skansen = {
   sourcePlaceId: "gmaps:0x2c35b6cfd6468531",
   sourceUrl: "https://www.google.com/maps/place/Skansen/data=!4m2!3m1!1s0x0:0x2c35b6cfd6468531",
   locationSource: "saved:Sweden",
+  createdAt: "2026-06-30T23:45:05.545Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

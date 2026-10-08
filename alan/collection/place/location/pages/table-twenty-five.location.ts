@@ -12,4 +12,6 @@ export const tableTwentyFive = {
   sourceUrl:
     "https://www.google.com/maps/place/Table+Twenty+Five/data=!4m2!3m1!1s0x87530f0e23a23041:0xcaf5c91699849668",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.916Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

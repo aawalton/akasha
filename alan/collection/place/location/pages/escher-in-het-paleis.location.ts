@@ -11,4 +11,6 @@ export const escherInHetPaleis = {
   sourceUrl:
     "https://www.google.com/maps/place/Escher+in+Het+Paleis/data=!4m2!3m1!1s0x47c5b73b82e24173:0xf6db9c2b90506217",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.607Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

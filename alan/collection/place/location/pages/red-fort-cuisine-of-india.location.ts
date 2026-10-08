@@ -12,4 +12,6 @@ export const redFortCuisineOfIndia = {
   sourceUrl:
     "https://www.google.com/maps/place/Red+Fort+Cuisine+of+India/data=!4m2!3m1!1s0x87530368ecfed141:0x47edfb1faa25619",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.518Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

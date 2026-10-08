@@ -11,4 +11,6 @@ export const oceanShores = {
   sourceUrl:
     "https://www.google.com/maps/place/Ocean+Shores/data=!4m2!3m1!1s0x5492115a757b7723:0x70097963f182faa3",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.165Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const silverStarCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Silver+Star+Cafe/data=!4m2!3m1!1s0x87526d7bde61bc99:0x55b7006e478b42b3",
   locationSource: "saved:UT, Heber City",
+  createdAt: "2026-07-01T01:26:59.095Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

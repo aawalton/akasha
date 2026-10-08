@@ -11,4 +11,6 @@ export const jenisSplendidIceCreams = {
   sourceUrl:
     "https://www.google.com/maps/place/Jeni's+Splendid+Ice+Creams/data=!4m2!3m1!1s0x8864642ec2958fdf:0x410684f065c72c72",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.499Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

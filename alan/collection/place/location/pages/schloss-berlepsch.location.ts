@@ -11,4 +11,6 @@ export const schlossBerlepsch = {
   sourceUrl:
     "https://www.google.com/maps/place/Schloss+Berlepsch/data=!4m2!3m1!1s0x47bb33203eb8c279:0x4eede2153cb368ff",
   locationSource: "saved:Germany",
+  createdAt: "2026-06-30T23:45:05.780Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

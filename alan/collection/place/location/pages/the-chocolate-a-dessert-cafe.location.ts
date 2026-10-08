@@ -16,4 +16,6 @@ export const theChocolateADessertCafe = {
   sourceUrl: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x952325b9e8c44752",
   locationSource: "review",
   visited: true,
+  createdAt: "2026-06-30T23:45:06.054Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

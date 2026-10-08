@@ -11,4 +11,6 @@ export const museumOfIceCream = {
   sourceUrl:
     "https://www.google.com/maps/place/MUSEUM+OF+ICE+CREAM/data=!4m2!3m1!1s0x8644cd4e0822b317:0x4314f1d0a755e949",
   locationSource: "saved:Austin, Texas",
+  createdAt: "2026-06-30T23:45:05.612Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

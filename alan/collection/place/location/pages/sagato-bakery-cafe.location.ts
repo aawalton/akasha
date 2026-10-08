@@ -12,4 +12,6 @@ export const sagatoBakeryCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Sagato+Bakery+%26+Cafe/data=!4m2!3m1!1s0x875289fb88e4c227:0xb7d79eb08391358b",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.319Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

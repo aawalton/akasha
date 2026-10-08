@@ -11,4 +11,6 @@ export const yummysKoreanBbqUtahCounty = {
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:yummys-korean-bbq:utah-county",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.317Z",
+  updatedAt: "2026-09-15T17:22:28.000Z",
 } as const satisfies Location

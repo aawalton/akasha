@@ -11,4 +11,6 @@ export const medelhavsmuseet = {
   sourceUrl:
     "https://www.google.com/maps/place/Medelhavsmuseet/data=!4m2!3m1!1s0x465f9d5f2706b1ef:0x9a628e62e1f17c6b",
   locationSource: "saved:Sweden",
+  createdAt: "2026-06-30T23:45:05.549Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -9,4 +9,6 @@ export const gwc = {
   longitude: -113.081514,
   sourcePlaceId: "takeout:gwc:37.66064,-113.08151",
   locationSource: "mymaps:Cedar City Haunts",
+  createdAt: "2026-06-30T23:45:05.914Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

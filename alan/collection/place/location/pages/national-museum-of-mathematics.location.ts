@@ -12,4 +12,6 @@ export const nationalMuseumOfMathematics = {
   sourceUrl:
     "https://www.google.com/maps/place/National+Museum+of+Mathematics/data=!4m2!3m1!1s0x89c259a6f4d60159:0x8798ba3704f2bc28",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.264Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

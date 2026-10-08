@@ -11,4 +11,6 @@ export const knickerbockersDeli = {
   sourceUrl:
     "https://www.google.com/maps/place/Knickerbockers+Deli/data=!4m2!3m1!1s0x87528791e064f675:0x8733e210c373691d",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.288Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

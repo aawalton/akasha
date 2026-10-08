@@ -11,4 +11,6 @@ export const theBellyOfTheDragonTrailhead = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Belly+of+the+Dragon+(Trailhead)/data=!4m2!3m1!1s0x80cad360c5ae3501:0xf58f8edf783f50c5",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.777Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

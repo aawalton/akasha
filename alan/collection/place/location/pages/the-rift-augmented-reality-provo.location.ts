@@ -11,4 +11,6 @@ export const theRiftAugmentedRealityProvo = {
   longitude: -111.6587085,
   sourcePlaceId: "ssc:loc:the-rift-augmented-reality:provo",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.138Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

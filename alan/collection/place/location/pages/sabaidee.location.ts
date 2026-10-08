@@ -11,4 +11,6 @@ export const sabaidee = {
   sourceUrl:
     "https://www.google.com/maps/place/Sabaidee/data=!4m2!3m1!1s0x874d80288f5e22ad:0x8660146514c3171f",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.260Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

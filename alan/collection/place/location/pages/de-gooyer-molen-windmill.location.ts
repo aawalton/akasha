@@ -11,4 +11,6 @@ export const deGooyerMolenWindmill = {
   sourceUrl:
     "https://www.google.com/maps/place/De+Gooyer+Molen+(windmill)/data=!4m2!3m1!1s0x47c6090b6ad07fcb:0x472ea1d6534f9ecd",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-07-01T01:26:58.653Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

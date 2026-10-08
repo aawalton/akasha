@@ -11,4 +11,6 @@ export const salvadorDaliHouseMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Salvador+Dal%C3%AD+House+Museum/data=!4m2!3m1!1s0x12ba6f113c8b042b:0xc34cd1d9c591759d",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-07-01T01:26:58.738Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

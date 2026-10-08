@@ -11,4 +11,6 @@ export const viaDelPorticoDottavia = {
   sourceUrl:
     "https://www.google.com/maps/place/Via+del+Portico+d'Ottavia/data=!4m2!3m1!1s0x132f6049642252e3:0xd0b80ba6f1ae97b9",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.446Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const museumOfGlassA1f2 = {
   sourceUrl:
     "https://www.google.com/maps/place/Museum+of+Glass/data=!4m2!3m1!1s0x477eae03e1aa9693:0x569fe7f5672ff1b",
   locationSource: "saved:Venice, Italy",
+  createdAt: "2026-07-01T01:26:58.577Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

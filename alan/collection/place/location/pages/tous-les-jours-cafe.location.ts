@@ -12,4 +12,6 @@ export const tousLesJoursCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/TOUS+les+JOURS+Caf%C3%A9/data=!4m2!3m1!1s0x875289417f8c1133:0x66aa7759ae82b9ec",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.293Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

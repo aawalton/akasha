@@ -11,4 +11,6 @@ export const londonEnglandTemple = {
   sourceUrl:
     "https://www.google.com/maps/place/London+England+Temple/data=!4m2!3m1!1s0x4875f7740a80f7f3:0x33a33f1f79553122",
   locationSource: "saved:London, England",
+  createdAt: "2026-06-30T23:45:05.656Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

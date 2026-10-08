@@ -11,4 +11,6 @@ export const pioneerNames = {
   sourceUrl:
     "https://www.google.com/maps/place/Pioneer+Names/data=!4m2!3m1!1s0x80ca43e2558dde9d:0x7f638c4630f43c88",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-07-01T01:26:58.825Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const miracleBowlOrem = {
   longitude: -111.6812849,
   sourcePlaceId: "ssc:loc:miracle-bowl:orem",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.836Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

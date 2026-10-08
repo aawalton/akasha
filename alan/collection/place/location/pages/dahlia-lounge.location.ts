@@ -11,4 +11,6 @@ export const dahliaLounge = {
   sourceUrl:
     "https://www.google.com/maps/place/Dahlia+Lounge/data=!4m2!3m1!1s0x5490154c9e5cae49:0xe954e42d22a80fdd",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.190Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

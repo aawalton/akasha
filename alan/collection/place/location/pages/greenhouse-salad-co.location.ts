@@ -11,4 +11,6 @@ export const greenhouseSaladCo = {
   sourceUrl:
     "https://www.google.com/maps/place/Greenhouse+Salad+Co/data=!4m2!3m1!1s0x874d9152b7984897:0x1a8e9fa707903fc9",
   locationSource: "saved:Default list",
+  createdAt: "2026-07-01T01:26:59.232Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

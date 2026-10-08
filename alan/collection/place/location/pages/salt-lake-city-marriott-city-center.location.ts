@@ -13,4 +13,6 @@ export const saltLakeCityMarriottCityCenter = {
   sourceUrl:
     "https://www.google.com/maps/place/Salt+Lake+City+Marriott+City+Center/data=!4m2!3m1!1s0x8752f50e3f7cfce1:0x91c02647cb40f017",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.502Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

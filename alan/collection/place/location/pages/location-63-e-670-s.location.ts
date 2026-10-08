@@ -10,4 +10,6 @@ export const location63E670S = {
   notes: "My house<br><br>Cedar City, UT 84720",
   sourcePlaceId: "takeout:63-e-670-s:37.66551,-113.06106",
   locationSource: "mymaps:Cedar City Haunts",
+  createdAt: "2026-06-30T23:45:05.908Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const hamptonInnSuitesDownersGroveChicago = {
   sourceUrl:
     "https://www.google.com/maps/place/Hampton+Inn+%26+Suites+Downers+Grove+Chicago/data=!4m2!3m1!1s0x880e5357700aecdd:0x2cdd10609edc5499",
   locationSource: "saved:Hotels(1)",
+  createdAt: "2026-07-01T01:26:58.481Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

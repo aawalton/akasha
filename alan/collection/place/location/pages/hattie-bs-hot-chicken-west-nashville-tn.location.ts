@@ -11,4 +11,6 @@ export const hattieBsHotChickenWestNashvilleTn = {
   sourceUrl:
     "https://www.google.com/maps/place/Hattie+B's+Hot+Chicken+-+West+Nashville,+TN/data=!4m2!3m1!1s0x8864616dde13ba73:0xf1be340a9893ec94",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.411Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const spangenbergCastle = {
   sourceUrl:
     "https://www.google.com/maps/place/Spangenberg+Castle/data=!4m2!3m1!1s0x47bb4df909e108f5:0xee69949fb0913ee7",
   locationSource: "saved:Germany",
+  createdAt: "2026-06-30T23:45:05.779Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

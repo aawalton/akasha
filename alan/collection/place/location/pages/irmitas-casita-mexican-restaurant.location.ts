@@ -11,4 +11,6 @@ export const irmitasCasitaMexicanRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/Irmita's+Casita+Mexican+Restaurant/data=!4m2!3m1!1s0x80ca4527ddbecf53:0x4235af57abc06c4d",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-07-01T01:26:58.817Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

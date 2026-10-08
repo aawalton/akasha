@@ -10,4 +10,6 @@ export const esoTavern2026BurgLudwigstein = {
   longitude: 9.9092,
   scheduledEndAt: "2026-07-12T12:00:00.000Z",
   scheduledStartAt: "2026-07-10T15:00:00.000Z",
+  createdAt: "2026-07-06T13:41:24.224Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

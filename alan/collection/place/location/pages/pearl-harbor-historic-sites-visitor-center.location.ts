@@ -11,4 +11,6 @@ export const pearlHarborHistoricSitesVisitorCenter = {
   sourceUrl:
     "https://www.google.com/maps/place/Pearl+Harbor+Historic+Sites+Visitor+Center/data=!4m2!3m1!1s0x7c006f4309519c07:0xb65d2a7ac3e4b15",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:58.009Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const ikesLehi = {
   longitude: -111.8314048,
   sourcePlaceId: "ssc:loc:ikes:lehi",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.908Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

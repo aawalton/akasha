@@ -12,4 +12,6 @@ export const embassySuitesByHiltonSouthJordanSaltLakeCity = {
   sourceUrl:
     "https://www.google.com/maps/place/Embassy+Suites+by+Hilton+South+Jordan+Salt+Lake+City/data=!4m2!3m1!1s0x875287cc612b858b:0x113621e4b1e73d29",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.618Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

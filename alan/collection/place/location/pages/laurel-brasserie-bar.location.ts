@@ -11,4 +11,6 @@ export const laurelBrasserieBar = {
   sourceUrl:
     "https://www.google.com/maps/place/Laurel+Brasserie+%26+Bar/data=!4m2!3m1!1s0x8752f5d3adc77969:0x62f5572e8e6bdf09",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.310Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

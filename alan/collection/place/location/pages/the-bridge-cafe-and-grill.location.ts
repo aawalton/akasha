@@ -11,4 +11,6 @@ export const theBridgeCafeAndGrill = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Bridge+Cafe+and+Grill/data=!4m2!3m1!1s0x875272a2987201ad:0xacc88814097dbc1b",
   locationSource: "saved:UT, Heber City",
+  createdAt: "2026-07-01T01:26:59.088Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const edinburghCastle = {
   sourceUrl:
     "https://www.google.com/maps/place/Edinburgh+Castle/data=!4m2!3m1!1s0x4887c79a2099c0f7:0x469a1eebe54c0a58",
   locationSource: "saved:Scotland",
+  createdAt: "2026-06-30T23:45:05.678Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

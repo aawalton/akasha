@@ -11,4 +11,6 @@ export const worldMarket = {
   sourceUrl:
     "https://www.google.com/maps/place/World+Market/data=!4m2!3m1!1s0x87526280157e7ab9:0xa0e866557a0a0af",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.488Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const theBruceScottishPub = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Bruce+Scottish+Pub/data=!4m2!3m1!1s0x8752f501e4c12f71:0xbce730ae9d188968",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.275Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

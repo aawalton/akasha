@@ -11,4 +11,6 @@ export const diamantMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Diamant+Museum/data=!4m2!3m1!1s0x47c609eefe52e217:0xc2a8e54ec45198db",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-07-01T01:26:58.632Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

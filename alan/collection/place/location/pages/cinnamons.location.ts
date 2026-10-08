@@ -11,4 +11,6 @@ export const cinnamons = {
   sourceUrl:
     "https://www.google.com/maps/place/Cinnamon's/data=!4m2!3m1!1s0x7c0014dc22d0a05d:0xb9aec21333b648b2",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.995Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

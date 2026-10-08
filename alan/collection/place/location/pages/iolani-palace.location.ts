@@ -11,4 +11,6 @@ export const iolaniPalace = {
   sourceUrl:
     "https://www.google.com/maps/place/Iolani+Palace/data=!4m2!3m1!1s0x7c006e7534be4cab:0x68b286145303e117",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.976Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

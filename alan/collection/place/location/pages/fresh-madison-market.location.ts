@@ -9,4 +9,6 @@ export const freshMadisonMarket = {
   longitude: -89.398327,
   sourcePlaceId: "takeout:fresh-madison-market:43.07278,-89.39833",
   locationSource: "mymaps:My Grocery Stores - Madison West",
+  createdAt: "2026-06-30T23:45:05.904Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

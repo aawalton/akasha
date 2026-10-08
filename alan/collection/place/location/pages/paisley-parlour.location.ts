@@ -11,4 +11,6 @@ export const paisleyParlour = {
   sourceUrl:
     "https://www.google.com/maps/place/Paisley+Parlour/data=!4m2!3m1!1s0x54906f833b31fb23:0x4d851e8be6eafe4f",
   locationSource: "saved:Washington State",
+  createdAt: "2026-07-01T01:26:57.520Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

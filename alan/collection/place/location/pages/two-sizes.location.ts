@@ -12,4 +12,6 @@ export const twoSizes = {
   sourceUrl:
     "https://www.google.com/maps/place/Two+Sizes/data=!4m2!3m1!1s0x132f604566693529:0xe8f4e4319c2df271",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.437Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

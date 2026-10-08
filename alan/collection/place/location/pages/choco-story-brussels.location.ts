@@ -11,4 +11,6 @@ export const chocoStoryBrussels = {
   sourceUrl:
     "https://www.google.com/maps/place/Choco-Story+Brussels/data=!4m2!3m1!1s0x47c3c478b8e65d27:0x6ec43ed676c4b19c",
   locationSource: "saved:Belgium",
+  createdAt: "2026-06-30T23:45:05.753Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

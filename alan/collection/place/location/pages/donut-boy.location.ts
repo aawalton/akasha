@@ -11,4 +11,6 @@ export const donutBoy = {
   sourceUrl:
     "https://www.google.com/maps/place/Donut+Boy/data=!4m2!3m1!1s0x87528b639608c0e9:0x8b661b416c149451",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.348Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

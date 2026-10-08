@@ -11,4 +11,6 @@ export const waltonCove = {
   sourceUrl:
     "https://www.google.com/maps/place/Walton+Cove/data=!4m2!3m1!1s0x89e366b1b8076f11:0xf236b66a44ea9515",
   locationSource: "saved:Family History(1)",
+  createdAt: "2026-06-30T23:45:05.797Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

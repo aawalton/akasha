@@ -10,4 +10,6 @@ export const nicksHouse = {
   longitude: -111.76257849999999,
   sourcePlaceId: "takeout:nick-s-house:722-n-380-w-vineyard-ut-84059-united-states",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.840Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

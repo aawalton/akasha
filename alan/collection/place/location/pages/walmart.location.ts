@@ -11,4 +11,6 @@ export const walmart = {
   sourceUrl:
     "https://www.google.com/maps/place/Walmart/data=!4m2!3m1!1s0x7c006e74884c7a77:0x1517f2b0e18a4863",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.988Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

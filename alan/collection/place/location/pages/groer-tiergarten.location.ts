@@ -11,4 +11,6 @@ export const groerTiergarten = {
   sourceUrl:
     "https://www.google.com/maps/place/Gro%C3%9Fer+Tiergarten/data=!4m2!3m1!1s0x47a851ae4addd1e1:0x83c392f1dcd0ab7a",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-06-30T23:45:05.371Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

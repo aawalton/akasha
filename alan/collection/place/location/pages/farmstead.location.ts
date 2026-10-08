@@ -12,4 +12,6 @@ export const farmstead = {
   sourceUrl:
     "https://www.google.com/maps/place/Farmstead/data=!4m2!3m1!1s0x80ca459e541aae11:0xf96d693e5a1e54e2",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-06-30T23:45:05.666Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

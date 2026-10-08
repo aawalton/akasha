@@ -12,4 +12,6 @@ export const lincolnCity = {
   sourceUrl:
     "https://www.google.com/maps/place/Lincoln+City/data=!4m2!3m1!1s0x54ea8d760b76bd77:0x71530e6a7d2ce862",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.213Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

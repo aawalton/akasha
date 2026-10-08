@@ -11,4 +11,6 @@ export const hartBageri = {
   sourceUrl:
     "https://www.google.com/maps/place/Hart+Bageri/data=!4m2!3m1!1s0x46525359dd35f91b:0xbcdb8a2acd2c254b",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.408Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

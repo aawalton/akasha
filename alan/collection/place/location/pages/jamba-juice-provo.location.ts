@@ -11,4 +11,6 @@ export const jambaJuiceProvo = {
   longitude: -111.654986,
   sourcePlaceId: "ssc:loc:jamba-juice:provo",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.940Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

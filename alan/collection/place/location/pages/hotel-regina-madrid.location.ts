@@ -12,4 +12,6 @@ export const hotelReginaMadrid = {
   sourceUrl:
     "https://www.google.com/maps/place/Hotel+Regina+Madrid/data=!4m2!3m1!1s0xd4228812e75ebff:0x9a0d9376949f5735",
   locationSource: "saved:Madrid, Spain",
+  createdAt: "2026-06-30T23:45:05.383Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

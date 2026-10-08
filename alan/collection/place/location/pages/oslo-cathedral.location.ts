@@ -11,4 +11,6 @@ export const osloCathedral = {
   sourceUrl:
     "https://www.google.com/maps/place/Oslo+Cathedral/data=!4m2!3m1!1s0x46416e628755f369:0xb35270be6dddce4b",
   locationSource: "saved:Norway",
+  createdAt: "2026-06-30T23:45:05.762Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

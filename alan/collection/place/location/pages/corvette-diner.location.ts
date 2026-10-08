@@ -11,4 +11,6 @@ export const corvetteDiner = {
   sourceUrl:
     "https://www.google.com/maps/place/Corvette+Diner/data=!4m2!3m1!1s0x80deab0339f548b1:0x76803752ce827901",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-06-30T23:45:05.628Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

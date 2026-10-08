@@ -9,4 +9,6 @@ export const gelatoloveCarlsbadVillage = {
   longitude: -117.3508525,
   sourcePlaceId: "takeout:gelatolove-carlsbad-village:33.15915,-117.35085",
   locationSource: "mymaps:Joseph 12 Y.O",
+  createdAt: "2026-06-30T23:45:05.885Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const keplerMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Kepler-Museum/data=!4m2!3m1!1s0x4797612d87c012bd:0xe40264dbe8282bd6",
   locationSource: "saved:Frankfurt, Germany",
+  createdAt: "2026-07-01T01:26:58.850Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

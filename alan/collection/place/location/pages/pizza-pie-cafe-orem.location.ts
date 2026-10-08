@@ -11,4 +11,6 @@ export const pizzaPieCafeOrem = {
   longitude: -111.7097544,
   sourcePlaceId: "ssc:loc:pizza-pie-caf:orem",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.924Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

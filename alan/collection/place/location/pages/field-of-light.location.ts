@@ -12,4 +12,6 @@ export const fieldOfLight = {
   sourceUrl:
     "https://www.google.com/maps/place/Field+of+Light/data=!4m2!3m1!1s0x80ecc7f4f255b795:0xf857c90277a3be4b",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.300Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

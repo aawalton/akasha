@@ -11,4 +11,6 @@ export const roxberryJuiceCoSpanishFork = {
   longitude: -111.644872,
   sourcePlaceId: "ssc:loc:roxberry-juice-co:spanish-fork",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.009Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

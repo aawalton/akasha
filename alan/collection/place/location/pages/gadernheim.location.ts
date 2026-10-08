@@ -11,4 +11,6 @@ export const gadernheim = {
   sourceUrl:
     "https://www.google.com/maps/place/Gadernheim/data=!4m2!3m1!1s0x47bd623b9add177f:0xa224352aa8ebf50",
   locationSource: "saved:Frankfurt, Germany",
+  createdAt: "2026-07-01T01:26:58.853Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

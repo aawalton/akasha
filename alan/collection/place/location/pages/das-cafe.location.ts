@@ -11,4 +11,6 @@ export const dasCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Das+Caf%C3%A9/data=!4m2!3m1!1s0x874c6ca10824f421:0x5b5e94c3213ec8ef",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.218Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const stGeorgeUtahTemple = {
   sourceUrl:
     "https://www.google.com/maps/place/St.+George+Utah+Temple/data=!4m2!3m1!1s0x80ca44d5be3dd457:0xbdec23ada91a2805",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-06-30T23:45:05.671Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const mollyMoonsHomemadeIceCream = {
   sourceUrl:
     "https://www.google.com/maps/place/Molly+Moon's+Homemade+Ice+Cream/data=!4m2!3m1!1s0x54906accf9dbfa53:0xb19cef4e9ba2ba14",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.156Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

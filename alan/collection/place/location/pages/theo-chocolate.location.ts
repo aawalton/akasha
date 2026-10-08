@@ -11,4 +11,6 @@ export const theoChocolate = {
   sourceUrl:
     "https://www.google.com/maps/place/Theo+Chocolate/data=!4m2!3m1!1s0x549015a9d13dd7c3:0xb305a28a5f9ec3c7",
   locationSource: "saved:Washington State",
+  createdAt: "2026-07-01T01:26:57.536Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

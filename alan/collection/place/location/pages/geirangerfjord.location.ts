@@ -12,4 +12,6 @@ export const geirangerfjord = {
   sourceUrl:
     "https://www.google.com/maps/place/Geirangerfjord/data=!4m2!3m1!1s0x46169d427b268c51:0xb8c99540dcc397fe",
   locationSource: "saved:Norway",
+  createdAt: "2026-06-30T23:45:05.769Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

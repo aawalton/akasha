@@ -12,4 +12,6 @@ export const groveOfThePatriarchsTrail = {
   sourceUrl:
     "https://www.google.com/maps/place/Grove+of+the+Patriarchs+Trail/data=!4m2!3m1!1s0x5497325b66a1ba9b:0x4a0283efbfd4297f",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.184Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

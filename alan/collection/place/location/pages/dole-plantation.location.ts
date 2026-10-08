@@ -11,4 +11,6 @@ export const dolePlantation = {
   sourceUrl:
     "https://www.google.com/maps/place/Dole+Plantation/data=!4m2!3m1!1s0x7c005dd04cec9bc1:0xbfbe6e27bf242647",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:58.007Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

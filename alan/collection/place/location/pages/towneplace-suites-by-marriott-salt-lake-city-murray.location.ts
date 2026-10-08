@@ -12,4 +12,6 @@ export const towneplaceSuitesByMarriottSaltLakeCityMurray = {
   sourceUrl:
     "https://www.google.com/maps/place/TownePlace+Suites+by+Marriott+Salt+Lake+City+Murray/data=!4m2!3m1!1s0x8752894722a738bf:0x9182746b6bbd148e",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.504Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

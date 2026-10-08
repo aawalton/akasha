@@ -11,4 +11,6 @@ export const eiffelTower = {
   longitude: 2.2945006,
   sourcePlaceId:
     "5112386d21235b024059effbdc75db6d4840f00102f901747f4c0000000000c0020192030c45696666656c20546f776572",
+  createdAt: "2026-06-30T17:03:23.996Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

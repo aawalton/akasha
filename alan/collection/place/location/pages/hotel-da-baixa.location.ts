@@ -12,4 +12,6 @@ export const hotelDaBaixa = {
   sourceUrl:
     "https://www.google.com/maps/place/Hotel+da+Baixa/data=!4m2!3m1!1s0xd193478f4e06b95:0x3f240942868424eb",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.718Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

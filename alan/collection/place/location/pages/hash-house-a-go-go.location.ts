@@ -11,4 +11,6 @@ export const hashHouseAGoGo = {
   sourceUrl:
     "https://www.google.com/maps/place/Hash+House+A+Go+Go/data=!4m2!3m1!1s0x80d954c576acc551:0xac9f987fe92661d2",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-07-01T01:26:58.727Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

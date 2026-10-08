@@ -11,4 +11,6 @@ export const losCucosMexicanCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Los+Cucos+Mexican+Cafe/data=!4m2!3m1!1s0x875287b87b1cec4f:0x18f7192feff43e9a",
   locationSource: "saved:UT, Sandy - Draper - Riverton",
+  createdAt: "2026-07-01T01:26:59.220Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

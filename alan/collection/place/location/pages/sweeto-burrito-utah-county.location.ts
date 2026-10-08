@@ -11,4 +11,6 @@ export const sweetoBurritoUtahCounty = {
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:sweeto-burrito:utah-county",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.059Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

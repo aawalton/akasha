@@ -16,4 +16,6 @@ export const laSalsaPermanentlyClosed = {
   sourceUrl: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x746f66708589bde0",
   locationSource: "review",
   visited: true,
+  createdAt: "2026-06-30T23:45:06.031Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

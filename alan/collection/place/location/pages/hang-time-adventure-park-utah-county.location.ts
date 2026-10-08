@@ -11,4 +11,6 @@ export const hangTimeAdventureParkUtahCounty = {
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:hang-time-adventure-park:utah-county",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.823Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

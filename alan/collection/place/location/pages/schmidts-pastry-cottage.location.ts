@@ -11,4 +11,6 @@ export const schmidtsPastryCottage = {
   sourceUrl:
     "https://www.google.com/maps/place/Schmidt's+Pastry+Cottage/data=!4m2!3m1!1s0x87528f2555555555:0xcddf241e6f9f16cb",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.290Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

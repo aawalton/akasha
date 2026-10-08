@@ -12,4 +12,6 @@ export const lasRamblas = {
   sourceUrl:
     "https://www.google.com/maps/place/Las+Ramblas/data=!4m2!3m1!1s0x12a4a3559224fe7d:0xb616b61a5731ea1a",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-06-30T23:45:05.643Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

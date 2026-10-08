@@ -11,4 +11,6 @@ export const skinnyBridge = {
   sourceUrl:
     "https://www.google.com/maps/place/Skinny+Bridge/data=!4m2!3m1!1s0x47c60996f52c2299:0x52640e54bb8e1f93",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.600Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

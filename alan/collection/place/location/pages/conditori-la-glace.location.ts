@@ -12,4 +12,6 @@ export const conditoriLaGlace = {
   sourceUrl:
     "https://www.google.com/maps/place/Conditori+La+Glace/data=!4m2!3m1!1s0x46525311adf13159:0x71dd10b224c56a51",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.432Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

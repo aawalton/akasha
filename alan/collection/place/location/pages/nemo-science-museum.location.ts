@@ -11,4 +11,6 @@ export const nemoScienceMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/NEMO+Science+Museum/data=!4m2!3m1!1s0x47c609a4fe55bb9b:0xc748bda26202cebc",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-07-01T01:26:58.647Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

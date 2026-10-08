@@ -11,4 +11,6 @@ export const vondelpark = {
   sourceUrl:
     "https://www.google.com/maps/place/Vondelpark/data=!4m2!3m1!1s0x47c609e2c5b47ccf:0x6cd478550520ca35",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.604Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

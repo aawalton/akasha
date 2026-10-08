@@ -11,4 +11,6 @@ export const musicalInstrumentsMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Musical+Instruments+Museum/data=!4m2!3m1!1s0x47c3c480b41468cf:0x2521d2012cf3e663",
   locationSource: "saved:Belgium",
+  createdAt: "2026-06-30T23:45:05.752Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

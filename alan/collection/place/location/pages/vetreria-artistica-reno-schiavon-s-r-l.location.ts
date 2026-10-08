@@ -11,4 +11,6 @@ export const vetreriaArtisticaRenoSchiavonSRL = {
   sourceUrl:
     "https://www.google.com/maps/place/Vetreria+Artistica+Reno+Schiavon+S.r.l./data=!4m2!3m1!1s0x477eb1e29f7d6421:0x7618ed96686df2ae",
   locationSource: "saved:Venice, Italy",
+  createdAt: "2026-07-01T01:26:58.572Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

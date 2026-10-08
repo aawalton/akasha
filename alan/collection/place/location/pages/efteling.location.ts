@@ -11,4 +11,6 @@ export const efteling = {
   sourceUrl:
     "https://www.google.com/maps/place/Efteling/data=!4m2!3m1!1s0x47c696a9aff44307:0x443bdab1ed5cb89a",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.583Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

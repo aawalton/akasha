@@ -11,4 +11,6 @@ export const location55431IosepaSt = {
   sourceUrl:
     "https://www.google.com/maps/place/55-431+Iosepa+St/data=!4m2!3m1!1s0x7c0045644925d90f:0x1ccd3ec10445b23d",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.993Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

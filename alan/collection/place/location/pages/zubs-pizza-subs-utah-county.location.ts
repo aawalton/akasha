@@ -11,4 +11,6 @@ export const zubsPizzaSubsUtahCounty = {
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:zubs-pizza-and-subs:utah-county",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.330Z",
+  updatedAt: "2026-09-15T17:22:28.000Z",
 } as const satisfies Location

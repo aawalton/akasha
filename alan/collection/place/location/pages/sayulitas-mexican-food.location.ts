@@ -12,4 +12,6 @@ export const sayulitasMexicanFood = {
   sourceUrl:
     "https://www.google.com/maps/place/Sayulitas+Mexican+Food/data=!4m2!3m1!1s0x80c8c525abcfbf0f:0x78e971bf3ecea35c",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.874Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const topsoilDeliveryServices = {
   sourceUrl:
     "https://www.google.com/maps/place/Topsoil+Delivery+%26+Services/data=!4m2!3m1!1s0x874d9bcf6166a445:0x8eff653525756c77",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.939Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

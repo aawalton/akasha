@@ -11,4 +11,6 @@ export const thePizzaCart = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Pizza+Cart/data=!4m2!3m1!1s0x80b561faade69a81:0x3a4c9df24625fff2",
   locationSource: "saved:UT, Cedar City",
+  createdAt: "2026-07-01T01:26:58.898Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

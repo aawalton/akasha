@@ -11,4 +11,6 @@ export const royalPalaceOfMadrid = {
   sourceUrl:
     "https://www.google.com/maps/place/Royal+Palace+of+Madrid/data=!4m2!3m1!1s0xd42287e7da4a9c1:0x2e7fec79d6ce4851",
   locationSource: "saved:Madrid, Spain",
+  createdAt: "2026-06-30T23:45:05.388Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

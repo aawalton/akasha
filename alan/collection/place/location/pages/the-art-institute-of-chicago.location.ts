@@ -11,4 +11,6 @@ export const theArtInstituteOfChicago = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Art+Institute+of+Chicago/data=!4m2!3m1!1s0x880e2ca3e2d94695:0x4829f3cc9ca2d0de",
   locationSource: "saved:IL, Chicago",
+  createdAt: "2026-06-30T23:45:05.702Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const universalStudioTour = {
   sourceUrl:
     "https://www.google.com/maps/place/Universal+Studio+Tour/data=!4m2!3m1!1s0x80c2be495a922eb5:0xe5ac8d14954bc930",
   locationSource: "saved:CA, Los Angeles",
+  createdAt: "2026-07-01T01:26:59.217Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

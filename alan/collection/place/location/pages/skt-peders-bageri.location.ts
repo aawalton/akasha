@@ -11,4 +11,6 @@ export const sktPedersBageri = {
   sourceUrl:
     "https://www.google.com/maps/place/Skt.+Peders+Bageri/data=!4m2!3m1!1s0x4652530e33a69061:0xe477364e4203090d",
   locationSource: "saved:Denmark",
+  createdAt: "2026-07-01T01:26:58.162Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

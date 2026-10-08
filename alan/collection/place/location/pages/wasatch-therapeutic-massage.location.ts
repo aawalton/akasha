@@ -11,4 +11,6 @@ export const wasatchTherapeuticMassage = {
   sourceUrl:
     "https://www.google.com/maps/place/Wasatch+Therapeutic+Massage/data=!4m2!3m1!1s0x874d90ac67e465f3:0x2fdf3e3750a09702",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.948Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

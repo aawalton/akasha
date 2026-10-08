@@ -12,4 +12,6 @@ export const curryConnect = {
   sourceUrl:
     "https://www.google.com/maps/place/Curry+Connect/data=!4m2!3m1!1s0x87528776701ff615:0xb8e6b6539f9d1d75",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.257Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const treviFountain = {
   sourceUrl:
     "https://www.google.com/maps/place/Trevi+Fountain/data=!4m2!3m1!1s0x132f6053278340d5:0xf676f1e1cc02bbb6",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.464Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const escapesInTimeProvo = {
   longitude: -111.6587085,
   sourcePlaceId: "ssc:loc:escapes-in-time:provo",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.480Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

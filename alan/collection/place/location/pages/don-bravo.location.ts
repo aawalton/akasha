@@ -11,4 +11,6 @@ export const donBravo = {
   sourceUrl:
     "https://www.google.com/maps/place/Don+Bravo/data=!4m2!3m1!1s0x80dc022a8bd4b9d9:0xc050ceb8e6593aaa",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-07-01T01:26:58.725Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

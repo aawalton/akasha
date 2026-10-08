@@ -13,4 +13,6 @@ export const willisTower = {
   sourceUrl:
     "https://www.google.com/maps/place/Willis+Tower/data=!4m2!3m1!1s0x880e2cbee269fbbb:0x10f6dce5eb88c7d",
   locationSource: "saved:IL, Chicago",
+  createdAt: "2026-06-30T23:45:05.704Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

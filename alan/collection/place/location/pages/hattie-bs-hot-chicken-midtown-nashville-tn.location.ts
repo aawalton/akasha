@@ -11,4 +11,6 @@ export const hattieBsHotChickenMidtownNashvilleTn = {
   sourceUrl:
     "https://www.google.com/maps/place/Hattie+B's+Hot+Chicken+-+Midtown+Nashville,+TN/data=!4m2!3m1!1s0x886466938a02b449:0xa1196c3f373a879b",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.407Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

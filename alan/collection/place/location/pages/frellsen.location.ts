@@ -12,4 +12,6 @@ export const frellsen = {
   sourceUrl:
     "https://www.google.com/maps/place/Frellsen/data=!4m2!3m1!1s0x46525310ba8d818b:0x5e6076d4d5b56ea1",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.399Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

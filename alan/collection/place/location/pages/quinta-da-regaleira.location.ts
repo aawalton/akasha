@@ -11,4 +11,6 @@ export const quintaDaRegaleira = {
   sourceUrl:
     "https://www.google.com/maps/place/Quinta+da+Regaleira/data=!4m2!3m1!1s0xd1edac264c6d47b:0xbfe1c516d48a6523",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.740Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

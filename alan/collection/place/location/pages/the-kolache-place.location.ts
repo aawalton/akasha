@@ -14,4 +14,6 @@ export const theKolachePlace = {
   sourceUrl: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdbd95fc7db9f0714",
   locationSource: "review",
   visited: true,
+  createdAt: "2026-06-30T23:45:06.107Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

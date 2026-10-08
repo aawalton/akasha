@@ -10,4 +10,6 @@ export const testCafe = {
   collection: "location-collection/my-places",
   cuisineOrType: "Coffee",
   visited: false,
+  createdAt: "2026-06-29T22:47:05.905Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

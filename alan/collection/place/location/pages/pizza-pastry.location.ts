@@ -11,4 +11,6 @@ export const pizzaPastry = {
   sourcePlaceId:
     "takeout:pizza-pastry:pasticceria-boccione-via-del-portico-d-ottavia-1-00186-roma-rm-italy",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.838Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

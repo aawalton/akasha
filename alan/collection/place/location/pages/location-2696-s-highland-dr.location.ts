@@ -12,4 +12,6 @@ export const location2696SHighlandDr = {
   sourceUrl:
     "https://www.google.com/maps/place/2696+S+Highland+Dr/data=!4m2!3m1!1s0x87526027947b9705:0x23ef6555d9f4b6e3",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.526Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

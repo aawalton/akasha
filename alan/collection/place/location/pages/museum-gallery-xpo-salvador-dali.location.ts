@@ -11,4 +11,6 @@ export const museumGalleryXpoSalvadorDali = {
   sourceUrl:
     "https://www.google.com/maps/place/Museum+-+Gallery+XPO+Salvador+Dal%C3%AD/data=!4m2!3m1!1s0x47c350d06e20a963:0x330dfa8a1f689c75",
   locationSource: "saved:Belgium",
+  createdAt: "2026-07-01T01:26:59.077Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

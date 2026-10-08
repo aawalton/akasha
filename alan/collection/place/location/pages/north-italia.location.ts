@@ -11,4 +11,6 @@ export const northItalia = {
   sourceUrl:
     "https://www.google.com/maps/place/North+Italia/data=!4m2!3m1!1s0x8752852080cddfa9:0x54197f4f9fd94bf3",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.255Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

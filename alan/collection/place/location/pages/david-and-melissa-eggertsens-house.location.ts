@@ -10,4 +10,6 @@ export const davidAndMelissaEggertsensHouse = {
   longitude: -81.7255255,
   sourcePlaceId: "takeout:david-and-melissa-eggertsen-s-house:866-oxbow-rd-minneola-fl-34715-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.846Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

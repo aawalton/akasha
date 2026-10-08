@@ -11,4 +11,6 @@ export const rubyBeach = {
   sourceUrl:
     "https://www.google.com/maps/place/Ruby+Beach/data=!4m2!3m1!1s0x548ddf3b68ebcbbd:0x6b94341955be96e3",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.181Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

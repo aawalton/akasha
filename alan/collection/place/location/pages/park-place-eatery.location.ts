@@ -11,4 +11,6 @@ export const parkPlaceEatery = {
   sourceUrl:
     "https://www.google.com/maps/place/Park+Place+Eatery/data=!4m2!3m1!1s0x80b561ba16033f6f:0xf077fa8ac46806a4",
   locationSource: "saved:UT, Cedar City",
+  createdAt: "2026-06-30T23:45:05.687Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

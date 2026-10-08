@@ -11,4 +11,6 @@ export const magicFountainOfMontjuic = {
   sourceUrl:
     "https://www.google.com/maps/place/Magic+Fountain+of+Montju%C3%AFc/data=!4m2!3m1!1s0x12a4a27086559937:0x1ec6375cbadc316a",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-06-30T23:45:05.647Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

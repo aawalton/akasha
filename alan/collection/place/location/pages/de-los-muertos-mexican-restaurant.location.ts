@@ -12,4 +12,6 @@ export const deLosMuertosMexicanRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/De+Los+Muertos+-+Mexican+Restaurant/data=!4m2!3m1!1s0x875261cae54205ad:0x693472fd826766bb",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.752Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

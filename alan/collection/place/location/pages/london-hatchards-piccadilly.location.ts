@@ -11,4 +11,6 @@ export const londonHatchardsPiccadilly = {
   sourceUrl:
     "https://www.google.com/maps/place/London+-+Hatchards+-+Piccadilly/data=!4m2!3m1!1s0x487604d68aa66449:0x81cfe967b2e4be7b",
   locationSource: "saved:London, England",
+  createdAt: "2026-07-01T01:26:58.777Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

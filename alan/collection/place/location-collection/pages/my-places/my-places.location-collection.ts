@@ -7,4 +7,6 @@ export const myPlaces = {
   title: "My Places",
   locationCollectionDescription: "txt",
   icon: "file-text",
+  createdAt: "2026-06-29T22:46:44.698Z",
+  updatedAt: "2026-09-15T17:22:48.000Z",
 } as const satisfies LocationCollection

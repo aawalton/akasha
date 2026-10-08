@@ -11,4 +11,6 @@ export const kingsGarden = {
   sourceUrl:
     "https://www.google.com/maps/place/King's+Garden/data=!4m2!3m1!1s0x465f9d5945458205:0x1df0a2acc2aa00fc",
   locationSource: "saved:Sweden",
+  createdAt: "2026-06-30T23:45:05.551Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

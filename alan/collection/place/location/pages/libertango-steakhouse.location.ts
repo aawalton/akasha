@@ -12,4 +12,6 @@ export const libertangoSteakhouse = {
   sourceUrl:
     "https://www.google.com/maps/place/Libertango+Steakhouse/data=!4m2!3m1!1s0x875287b798875b8f:0x38221fa0921fa0e3",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.309Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const lilihaBakery = {
   sourceUrl:
     "https://www.google.com/maps/place/Liliha+Bakery/data=!4m2!3m1!1s0x7c006e7f4fa7d643:0x5fb0aa373e0e76de",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:58.004Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

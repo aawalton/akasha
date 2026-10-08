@@ -12,4 +12,6 @@ export const maisonKuntz = {
   sourceUrl:
     "https://www.google.com/maps/place/Maison+Kuntz/data=!4m2!3m1!1s0x47e665569ce79199:0x16a305f233b2cbd8",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.315Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

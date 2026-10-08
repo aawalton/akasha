@@ -11,4 +11,6 @@ export const pizzaNono = {
   sourceUrl:
     "https://www.google.com/maps/place/Pizza+Nono/data=!4m2!3m1!1s0x8752f55a40428dcb:0xfba637df89f581c9",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.296Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

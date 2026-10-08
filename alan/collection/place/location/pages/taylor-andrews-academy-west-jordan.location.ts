@@ -11,4 +11,6 @@ export const taylorAndrewsAcademyWestJordan = {
   longitude: -111.9343903,
   sourcePlaceId: "ssc:loc:taylor-andrews-academy:west-jordan",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.082Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

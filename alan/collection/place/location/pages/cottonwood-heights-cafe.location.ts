@@ -13,4 +13,6 @@ export const cottonwoodHeightsCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Cottonwood+Heights+Cafe/data=!4m2!3m1!1s0x8752628d1f2c6ca1:0xd37203ef2d09784f",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.491Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const enricosDeliPizzeria = {
   sourceUrl:
     "https://www.google.com/maps/place/Enrico's+Deli+%26+Pizzeria/data=!4m2!3m1!1s0x8752890063ce5875:0x728914d7fcb29e45",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.600Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

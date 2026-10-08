@@ -11,4 +11,6 @@ export const monellsAtTheManor = {
   sourceUrl:
     "https://www.google.com/maps/place/Monell's+At+the+Manor/data=!4m2!3m1!1s0x88646ec4bd3ac9bb:0xf9d2862b61abbcb",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.418Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

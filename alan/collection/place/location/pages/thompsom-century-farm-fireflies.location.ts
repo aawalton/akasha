@@ -11,4 +11,6 @@ export const thompsomCenturyFarmFireflies = {
   sourceUrl:
     "https://www.google.com/maps/place/Thompsom+Century+Farm+Fireflies/data=!4m2!3m1!1s0x874dbdbed9fecefb:0x21b7aa85a406ed0b",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.664Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const pasticceriaBoccione = {
   sourceUrl:
     "https://www.google.com/maps/place/Pasticceria+Boccione/data=!4m2!3m1!1s0x132f604947079b41:0x8e48330da323cac4",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-07-01T01:26:58.242Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

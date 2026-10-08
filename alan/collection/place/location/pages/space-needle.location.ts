@@ -11,4 +11,6 @@ export const spaceNeedle = {
   sourceUrl:
     "https://www.google.com/maps/place/Space+Needle/data=!4m2!3m1!1s0x5490151f4ed5b7f9:0xdb2ba8689ed0920d",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.193Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const nryfjordWorldHeritagePark = {
   sourceUrl:
     "https://www.google.com/maps/place/N%C3%A6r%C3%B8yfjord+World+Heritage+Park/data=!4m2!3m1!1s0x463e058855555555:0x7e3be3172827ea23",
   locationSource: "saved:Norway",
+  createdAt: "2026-07-01T01:26:59.121Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

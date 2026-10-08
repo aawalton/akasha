@@ -11,4 +11,6 @@ export const legatoGelato = {
   sourceUrl:
     "https://www.google.com/maps/place/Legato+Gelato/data=!4m2!3m1!1s0x886466853446d933:0x3017c9c07821040b",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.529Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

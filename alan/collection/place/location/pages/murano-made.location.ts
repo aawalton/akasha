@@ -11,4 +11,6 @@ export const muranoMade = {
   sourceUrl:
     "https://www.google.com/maps/place/Murano+made/data=!4m2!3m1!1s0x477eb1c59faa731f:0xfcbfd1dcd4fc1df3",
   locationSource: "saved:Venice, Italy",
+  createdAt: "2026-07-01T01:26:58.568Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

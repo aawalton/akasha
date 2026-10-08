@@ -9,4 +9,6 @@ export const millerSonsSuperMarket = {
   longitude: -89.533442,
   sourcePlaceId: "takeout:miller-sons-super-market:42.98823,-89.53344",
   locationSource: "mymaps:My Grocery Stores - Madison West",
+  createdAt: "2026-06-30T23:45:05.903Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

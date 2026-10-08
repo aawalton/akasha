@@ -9,4 +9,6 @@ export const siteOfFirstSeesCandiesLocation1921 = {
   longitude: -118.3093784,
   sourcePlaceId: "takeout:site-of-first-see-s-candies-location-1921:34.07415,-118.30938",
   locationSource: "mymaps:Joseph 12 Y.O",
+  createdAt: "2026-06-30T23:45:05.896Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

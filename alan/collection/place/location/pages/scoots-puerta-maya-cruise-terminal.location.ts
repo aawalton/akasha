@@ -11,4 +11,6 @@ export const scootsPuertaMayaCruiseTerminal = {
   sourcePlaceId:
     "takeout:scoots-puerta-maya-cruise-terminal:cozumel-cruise-terminal-costera-sur-77600-cozumel-qroo-mexico",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.851Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

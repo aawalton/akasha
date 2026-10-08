@@ -10,4 +10,6 @@ export const home = {
   longitude: -111.6348074,
   sourcePlaceId: "takeout:home:1350-apple-ave-provo-ut-84604-united-states",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.830Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

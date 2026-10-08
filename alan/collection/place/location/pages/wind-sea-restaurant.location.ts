@@ -11,4 +11,6 @@ export const windSeaRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/Wind+%26+Sea+Restaurant/data=!4m2!3m1!1s0x80dcf0ff97d756bd:0x47506ae78b80e007",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-07-01T01:26:58.690Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

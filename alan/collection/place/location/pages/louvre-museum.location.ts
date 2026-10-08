@@ -11,4 +11,6 @@ export const louvreMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Louvre+Museum/data=!4m2!3m1!1s0x47e671d877937b0f:0xb975fcfa192f84d4",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-06-30T23:45:05.494Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

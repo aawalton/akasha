@@ -11,4 +11,6 @@ export const monellsDiningAndCatering = {
   sourceUrl:
     "https://www.google.com/maps/place/Monell's+Dining+and+Catering/data=!4m2!3m1!1s0x886466fd0ae00831:0x50d55e9436c81a35",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.518Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

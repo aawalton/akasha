@@ -12,4 +12,6 @@ export const jugendburgLudwigstein = {
   sourceUrl:
     "https://www.google.com/maps/place/Jugendburg+Ludwigstein/data=!4m2!3m1!1s0x47a4cbbbfa8e0905:0x1c702a57544481a9",
   locationSource: "saved:Germany",
+  createdAt: "2026-06-30T23:45:05.782Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

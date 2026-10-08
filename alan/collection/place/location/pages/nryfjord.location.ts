@@ -12,4 +12,6 @@ export const nryfjord = {
   sourceUrl:
     "https://www.google.com/maps/place/N%C3%A6r%C3%B8yfjord/data=!4m2!3m1!1s0x463e0f406f7fbb4b:0x81a0dd61122025d3",
   locationSource: "saved:Norway",
+  createdAt: "2026-06-30T23:45:05.770Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const slimHuskysPizzaBeeria = {
   sourceUrl:
     "https://www.google.com/maps/place/Slim+%26+Husky's+Pizza+Beeria/data=!4m2!3m1!1s0x88646721ce7ce041:0x3a8c32961b4da610",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.502Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

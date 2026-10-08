@@ -11,4 +11,6 @@ export const parkBurgerPlattPark = {
   sourceUrl:
     "https://www.google.com/maps/place/Park+Burger+-+Platt+Park/data=!4m2!3m1!1s0x876c7e4bdd5196af:0xbb7d9649e3e51f60",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.349Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

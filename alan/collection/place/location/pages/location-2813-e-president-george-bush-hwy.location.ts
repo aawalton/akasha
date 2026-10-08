@@ -12,4 +12,6 @@ export const location2813EPresidentGeorgeBushHwy = {
   sourceUrl:
     "https://www.google.com/maps/place/2813+E+President+George+Bush+Hwy/data=!4m2!3m1!1s0x864c194ffe39b3ff:0x97bc6d4d5a0deca2",
   locationSource: "saved:TX, Dallas",
+  createdAt: "2026-07-01T01:26:58.138Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

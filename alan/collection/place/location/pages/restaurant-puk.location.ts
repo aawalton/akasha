@@ -12,4 +12,6 @@ export const restaurantPuk = {
   sourceUrl:
     "https://www.google.com/maps/place/Restaurant+Puk/data=!4m2!3m1!1s0x465253117e773ba5:0xfa4906006273e5ec",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.423Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

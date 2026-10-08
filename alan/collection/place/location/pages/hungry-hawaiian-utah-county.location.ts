@@ -11,4 +11,6 @@ export const hungryHawaiianUtahCounty = {
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:hungry-hawaiian:utah-county",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.903Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

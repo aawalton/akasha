@@ -11,4 +11,6 @@ export const rembrandtpark = {
   sourceUrl:
     "https://www.google.com/maps/place/Rembrandtpark/data=!4m2!3m1!1s0x47c5e2141a48edf9:0x3e5e944517b46ecb",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.606Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

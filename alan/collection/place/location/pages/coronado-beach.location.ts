@@ -12,4 +12,6 @@ export const coronadoBeach = {
   sourceUrl:
     "https://www.google.com/maps/place/Coronado+Beach/data=!4m2!3m1!1s0x80deacc6539184dd:0x11b91f6167735576",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-06-30T23:45:05.616Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

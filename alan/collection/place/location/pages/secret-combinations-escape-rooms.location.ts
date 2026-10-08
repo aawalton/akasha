@@ -12,4 +12,6 @@ export const secretCombinationsEscapeRooms = {
   sourceUrl:
     "https://www.google.com/maps/place/Secret+Combinations+Escape+Rooms/data=!4m2!3m1!1s0x874d81c6ab12b8e1:0x4049383aacf56752",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.320Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

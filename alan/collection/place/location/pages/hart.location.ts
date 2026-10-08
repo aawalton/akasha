@@ -11,4 +11,6 @@ export const hart = {
   sourceUrl:
     "https://www.google.com/maps/place/Hart/data=!4m2!3m1!1s0x46525352f094be63:0x852bf40f2cef931c",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.409Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

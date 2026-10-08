@@ -11,4 +11,6 @@ export const location1302WawePl = {
   sourceUrl:
     "https://www.google.com/maps/place/1302+Wawe+Pl/data=!4m2!3m1!1s0x7c006f3f14137603:0xdb5d0a0af4a64363",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.975Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

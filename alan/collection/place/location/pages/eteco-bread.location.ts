@@ -12,4 +12,6 @@ export const etecoBread = {
   sourceUrl:
     "https://www.google.com/maps/place/%C3%A9t%C3%A9co+bread/data=!4m2!3m1!1s0x6018f3afaaab9c1f:0xebc09730bba5ac06",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.571Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

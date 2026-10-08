@@ -12,4 +12,6 @@ export const meyersDeli = {
   sourceUrl:
     "https://www.google.com/maps/place/Meyers+Deli/data=!4m2!3m1!1s0x465253a1bd7643df:0x433491c7dcc3be82",
   locationSource: "saved:Denmark",
+  createdAt: "2026-07-01T01:26:58.184Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

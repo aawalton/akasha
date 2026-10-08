@@ -11,4 +11,6 @@ export const theHarryPotterShopAtPlatform934 = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Harry+Potter+Shop+at+Platform+9+3%2F4/data=!4m2!3m1!1s0x48761b3c10d9ee25:0xcc876d3b437d7608",
   locationSource: "saved:London, England",
+  createdAt: "2026-06-30T23:45:05.659Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

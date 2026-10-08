@@ -11,4 +11,6 @@ export const finnsCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Finn's+Cafe/data=!4m2!3m1!1s0x87528aa97664c2c9:0xae2d873d578b3449",
   locationSource: "saved:UT, SLC; saved:Sweden",
+  createdAt: "2026-07-01T01:26:58.482Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

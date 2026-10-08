@@ -12,4 +12,6 @@ export const location260W1800SSt = {
   sourceUrl:
     "https://www.google.com/maps/place/260+W+1800+S+St/data=!4m2!3m1!1s0x874d9a583ccd3a35:0xfeb5852bc1900040",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.289Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

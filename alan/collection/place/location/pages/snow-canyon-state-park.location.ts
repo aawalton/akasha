@@ -11,4 +11,6 @@ export const snowCanyonStatePark = {
   sourceUrl:
     "https://www.google.com/maps/place/Snow+Canyon+State+Park/data=!4m2!3m1!1s0x80ca69dbff8e87e5:0x680b16022dc66697",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-07-01T01:26:58.822Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

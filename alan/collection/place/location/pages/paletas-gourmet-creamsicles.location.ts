@@ -12,4 +12,6 @@ export const paletasGourmetCreamsicles = {
   sourceUrl:
     "https://www.google.com/maps/place/Paletas+gourmet+creamsicles/data=!4m2!3m1!1s0x80ca451379f5e94d:0xc60e60413932f558",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.228Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const theEscapeGameNashville = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Escape+Game+Nashville/data=!4m2!3m1!1s0x886465c1881fa6bf:0x59006e48ec733ff1",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.521Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

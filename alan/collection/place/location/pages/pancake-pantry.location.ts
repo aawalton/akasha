@@ -11,4 +11,6 @@ export const pancakePantry = {
   sourceUrl:
     "https://www.google.com/maps/place/Pancake+Pantry/data=!4m2!3m1!1s0x8864669f72fce4af:0xa2c8e7c47d65b2ec",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.500Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

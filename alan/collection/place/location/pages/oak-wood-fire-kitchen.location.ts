@@ -12,4 +12,6 @@ export const oakWoodFireKitchen = {
   sourceUrl:
     "https://www.google.com/maps/place/OAK+Wood+Fire+Kitchen/data=!4m2!3m1!1s0x87528768ee212cd3:0x3c102104af8a8fb3",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.248Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const salonDeTheTheSmallestHouseInAmsterdam = {
   sourceUrl:
     "https://www.google.com/maps/place/Salon+de+Th%C3%A9+(The+Smallest+House+in+Amsterdam)/data=!4m2!3m1!1s0x47c609bf3a813ffd:0x53c73734fbb6b676",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-07-01T01:26:58.592Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

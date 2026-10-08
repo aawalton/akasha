@@ -9,4 +9,6 @@ export const scootsPuertaMayaCruiseTerminal92e6 = {
   longitude: -86.9736336,
   sourcePlaceId: "takeout:scoots-puerta-maya-cruise-terminal:20.47895,-86.97363",
   locationSource: "mymaps:Scoots Rental Locations",
+  createdAt: "2026-06-30T23:45:05.907Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

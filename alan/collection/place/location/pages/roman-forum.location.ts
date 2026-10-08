@@ -11,4 +11,6 @@ export const romanForum = {
   sourceUrl:
     "https://www.google.com/maps/place/Roman+Forum/data=!4m2!3m1!1s0x132f61b383a9cdef:0xfa914007c0ec7de6",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.463Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

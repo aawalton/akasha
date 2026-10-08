@@ -12,4 +12,6 @@ export const reedsDairy = {
   sourceUrl:
     "https://www.google.com/maps/place/Reed's+Dairy/data=!4m2!3m1!1s0x53545bd4f768d5d7:0xc7bb65bc32d3151f",
   locationSource: "saved:Idaho",
+  createdAt: "2026-06-30T23:45:05.817Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

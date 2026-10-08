@@ -10,4 +10,6 @@ export const goff = {
   longitude: -111.721059,
   sourcePlaceId: "takeout:goff:320-s-1065-w-st-orem-ut-84058-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.856Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

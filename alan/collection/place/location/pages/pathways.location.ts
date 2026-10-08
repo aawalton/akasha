@@ -10,4 +10,6 @@ export const pathways = {
   longitude: -86.82124999999999,
   sourcePlaceId: "takeout:pathways:4304-hillsboro-pike-nashville-tn-37215-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.876Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const tablaoFlamenco1911 = {
   sourceUrl:
     "https://www.google.com/maps/place/Tablao+Flamenco+1911/data=!4m2!3m1!1s0xd42288043677993:0xfba177ef330285d8",
   locationSource: "saved:Madrid, Spain",
+  createdAt: "2026-06-30T23:45:05.382Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

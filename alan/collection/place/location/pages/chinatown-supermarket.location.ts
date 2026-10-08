@@ -11,4 +11,6 @@ export const chinatownSupermarket = {
   sourceUrl:
     "https://www.google.com/maps/place/Chinatown+Supermarket+-+%E4%B8%AD%E5%9C%8B%E5%9F%8E%E8%B6%85%E5%B8%82/data=!4m2!3m1!1s0x87528af70732f8dd:0x1b730a81c65467b8",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.510Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

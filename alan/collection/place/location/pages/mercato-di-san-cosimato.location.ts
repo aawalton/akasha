@@ -11,4 +11,6 @@ export const mercatoDiSanCosimato = {
   sourceUrl:
     "https://www.google.com/maps/place/Mercato+di+San+Cosimato/data=!4m2!3m1!1s0x132f6039abb34f2f:0x23e57e6c842abb06",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.450Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

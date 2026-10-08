@@ -11,4 +11,6 @@ export const laSagradaFamilia = {
   sourceUrl:
     "https://www.google.com/maps/place/La+Sagrada+Familia/data=!4m2!3m1!1s0x12a4a2dcd83dfb93:0x9bd8aac21bc3c950",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-06-30T23:45:05.652Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

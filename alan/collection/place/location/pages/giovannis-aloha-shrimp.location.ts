@@ -11,4 +11,6 @@ export const giovannisAlohaShrimp = {
   sourceUrl:
     "https://www.google.com/maps/place/Giovanni's+Aloha+Shrimp/data=!4m2!3m1!1s0x7c004fe0fd3eb70d:0x13a22eb0675cd966",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.971Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

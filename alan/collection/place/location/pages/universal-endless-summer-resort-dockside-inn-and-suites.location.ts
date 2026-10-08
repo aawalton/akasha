@@ -11,4 +11,6 @@ export const universalEndlessSummerResortDocksideInnAndSuites = {
   sourceUrl:
     "https://www.google.com/maps/place/Universal+Endless+Summer+Resort+-+Dockside+Inn+and+Suites/data=!4m2!3m1!1s0x88e77f436ca4cc19:0x98cf06447496fbd",
   locationSource: "saved:Florida",
+  createdAt: "2026-07-01T01:26:59.168Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

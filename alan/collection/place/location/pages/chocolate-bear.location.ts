@@ -12,4 +12,6 @@ export const chocolateBear = {
   sourceUrl:
     "https://www.google.com/maps/place/Chocolate+Bear/data=!4m2!3m1!1s0x87541232cafac4a5:0xff780c622c23577f",
   locationSource: "saved:Bear Lake - Garden City",
+  createdAt: "2026-07-01T01:26:59.240Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

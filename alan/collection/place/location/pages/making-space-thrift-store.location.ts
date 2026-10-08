@@ -11,4 +11,6 @@ export const makingSpaceThriftStore = {
   sourceUrl:
     "https://www.google.com/maps/place/Making+Space+Thrift+Store/data=!4m2!3m1!1s0x874dbd1fb35d0a55:0x3f9f32b9050add04",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.860Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const normalIceCreamStore = {
   sourceUrl:
     "https://www.google.com/maps/place/normal+ice+cream+store/data=!4m2!3m1!1s0x8752f59b004dddf7:0xbde50383289ba1bd",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.773Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const nonnaBetta = {
   sourceUrl:
     "https://www.google.com/maps/place/Nonna+Betta/data=!4m2!3m1!1s0x132f604be1d8194d:0x62e75348b022ab4",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.439Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

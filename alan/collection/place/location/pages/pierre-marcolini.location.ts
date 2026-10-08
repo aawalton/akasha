@@ -12,4 +12,6 @@ export const pierreMarcolini = {
   sourceUrl:
     "https://www.google.com/maps/place/Pierre+Marcolini/data=!4m2!3m1!1s0x47c3c47c47dc1515:0xd959c92a33606670",
   locationSource: "saved:Belgium",
+  createdAt: "2026-06-30T23:45:05.743Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

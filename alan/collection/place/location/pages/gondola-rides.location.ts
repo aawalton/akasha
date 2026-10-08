@@ -11,4 +11,6 @@ export const gondolaRides = {
   sourceUrl:
     "https://www.google.com/maps/place/Gondola+Rides/data=!4m2!3m1!1s0x477eb1d991f7fbe1:0x19ae924ab50d9803",
   locationSource: "saved:Venice, Italy",
+  createdAt: "2026-07-01T01:26:58.581Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const palaceOfGaudiAstorga = {
   sourceUrl:
     "https://www.google.com/maps/place/Palace+of+Gaud%C3%AC+Astorga/data=!4m2!3m1!1s0xd3760bb1d11a863:0xcf7ec0ab852302b4",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-07-01T01:26:58.743Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

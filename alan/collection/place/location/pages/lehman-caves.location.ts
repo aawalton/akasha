@@ -11,4 +11,6 @@ export const lehmanCaves = {
   sourceUrl:
     "https://www.google.com/maps/place/Lehman+Caves/data=!4m2!3m1!1s0x80b160a371a50757:0x6c4b43487ae4b348",
   locationSource: "saved:Nevada",
+  createdAt: "2026-06-30T23:45:05.827Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

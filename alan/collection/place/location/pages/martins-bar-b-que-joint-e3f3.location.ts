@@ -11,4 +11,6 @@ export const martinsBarBQueJointE3f3 = {
   sourceUrl:
     "https://www.google.com/maps/place/Martin's+Bar-B-Que+Joint/data=!4m2!3m1!1s0x8864643bfa32b905:0xb8b4b4a1557d572b",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.511Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

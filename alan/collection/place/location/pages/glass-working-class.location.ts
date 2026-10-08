@@ -10,4 +10,6 @@ export const glassWorkingClass = {
   longitude: 12.3333207,
   sourcePlaceId: "takeout:glass-working-class:calle-delle-ostreghe-2442-30124-venezia-ve-italy",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.844Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

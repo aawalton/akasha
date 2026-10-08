@@ -11,4 +11,6 @@ export const rancheritosPleasantGrove = {
   longitude: -111.7386884,
   sourcePlaceId: "ssc:loc:rancheritos:pleasant-grove",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.966Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

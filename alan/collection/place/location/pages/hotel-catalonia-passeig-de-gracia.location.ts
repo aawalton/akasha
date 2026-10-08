@@ -12,4 +12,6 @@ export const hotelCataloniaPasseigDeGracia = {
   sourceUrl:
     "https://www.google.com/maps/place/Hotel+Catalonia+Passeig+de+Gr%C3%A0cia/data=!4m2!3m1!1s0x12a4a2f1f7ec32fd:0xb9ffe060aa1c5bee",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-06-30T23:45:05.637Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

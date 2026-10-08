@@ -11,4 +11,6 @@ export const pasteisDeBelem = {
   sourceUrl:
     "https://www.google.com/maps/place/Past%C3%A9is+de+Bel%C3%A9m/data=!4m2!3m1!1s0xd1ecb452efd715b:0xffeff6c6b46d9665",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.732Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

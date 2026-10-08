@@ -12,4 +12,6 @@ export const dugwayGeodeBeds = {
   sourceUrl:
     "https://www.google.com/maps/place/Dugway+Geode+Beds/data=!4m2!3m1!1s0x80b29306df85fb3f:0x418dd6e267d6f0a6",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.225Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

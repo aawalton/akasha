@@ -11,4 +11,6 @@ export const eiffelTower7af8 = {
   sourceUrl:
     "https://www.google.com/maps/place/Eiffel+Tower/data=!4m2!3m1!1s0x47e66e2964e34e2d:0x8ddca9ee380ef7e0",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-06-30T23:45:05.485Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

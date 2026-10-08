@@ -9,4 +9,6 @@ export const suuLibrary = {
   longitude: -113.071611,
   sourcePlaceId: "takeout:suu-library:37.67553,-113.07161",
   locationSource: "mymaps:Cedar City Haunts",
+  createdAt: "2026-06-30T23:45:05.912Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

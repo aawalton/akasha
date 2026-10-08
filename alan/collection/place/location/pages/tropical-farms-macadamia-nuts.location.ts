@@ -11,4 +11,6 @@ export const tropicalFarmsMacadamiaNuts = {
   sourceUrl:
     "https://www.google.com/maps/place/Tropical+Farms+Macadamia+Nuts/data=!4m2!3m1!1s0x7c004179863beea7:0x99c139c8cca94ad3",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.992Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

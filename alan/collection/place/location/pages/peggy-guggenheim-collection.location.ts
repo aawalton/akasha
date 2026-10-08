@@ -11,4 +11,6 @@ export const peggyGuggenheimCollection = {
   sourceUrl:
     "https://www.google.com/maps/place/Peggy+Guggenheim+Collection/data=!4m2!3m1!1s0x477eb1d3d3b8fec5:0xe3c68f64caa349ed",
   locationSource: "saved:Rome, Italy; saved:Venice, Italy",
+  createdAt: "2026-06-30T23:45:05.562Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

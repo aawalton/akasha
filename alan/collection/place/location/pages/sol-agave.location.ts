@@ -12,4 +12,6 @@ export const solAgave = {
   sourceUrl:
     "https://www.google.com/maps/place/Sol+Agave/data=!4m2!3m1!1s0x874d81d965bac665:0x3a920695a3caae22",
   locationSource: "saved:UT, Utah County",
+  createdAt: "2026-06-30T23:45:05.543Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

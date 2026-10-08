@@ -10,4 +10,6 @@ export const dancingWithDolphins = {
   longitude: -117.69560729999999,
   sourcePlaceId: "takeout:dancing-with-dolphins:dana-point-harbor",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.832Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

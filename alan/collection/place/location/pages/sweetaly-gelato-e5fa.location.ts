@@ -16,4 +16,6 @@ export const sweetalyGelatoE5fa = {
     "https://www.google.com/maps/place/Sweetaly+Gelato/data=!4m2!3m1!1s0x87528a8b00238d5f:0xb4882bf5274cad0",
   locationSource: "saved:Favorite places",
   visited: true,
+  createdAt: "2026-06-30T23:45:05.778Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

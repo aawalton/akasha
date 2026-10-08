@@ -11,4 +11,6 @@ export const icelandicMemorial = {
   sourceUrl:
     "https://www.google.com/maps/place/Icelandic+Memorial/data=!4m2!3m1!1s0x874dbcea8b9bf45d:0x4140b97348cce05c",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.698Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

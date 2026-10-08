@@ -12,4 +12,6 @@ export const cruiseTerminal10 = {
   sourceUrl:
     "https://www.google.com/maps/place/Cruise+Terminal+%2310/data=!4m2!3m1!1s0x88e0a6268a188f1d:0xd94ae98f8346c10a",
   locationSource: "saved:Flordia",
+  createdAt: "2026-07-01T01:26:58.127Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

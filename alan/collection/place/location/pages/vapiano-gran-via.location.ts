@@ -12,4 +12,6 @@ export const vapianoGranVia = {
   sourceUrl:
     "https://www.google.com/maps/place/Vapiano+Gran+Via/data=!4m2!3m1!1s0x12a4a3a262441945:0x8c56f0065feecac1",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-06-30T23:45:05.638Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const shopPralusParisRambuteau = {
   sourceUrl:
     "https://www.google.com/maps/place/Shop+Pralus+Paris+Rambuteau/data=!4m2!3m1!1s0x47e66e1b7d8a95c5:0x51a3914b47876bf8",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.342Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

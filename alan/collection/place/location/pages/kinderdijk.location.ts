@@ -12,4 +12,6 @@ export const kinderdijk = {
   sourceUrl:
     "https://www.google.com/maps/place/Kinderdijk/data=!4m2!3m1!1s0x47c42c5744e4dd15:0x94be6c07e4c17eaa",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.574Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const wetnwildHawaii = {
   sourceUrl:
     "https://www.google.com/maps/place/Wet'n'Wild+Hawaii/data=!4m2!3m1!1s0x7c006323c931c921:0x7158d2f1447fe621",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.985Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

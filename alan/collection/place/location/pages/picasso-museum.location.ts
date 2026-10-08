@@ -11,4 +11,6 @@ export const picassoMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Picasso+Museum/data=!4m2!3m1!1s0x12a4a2fe99bce26b:0x27011e710700cc63",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-06-30T23:45:05.646Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

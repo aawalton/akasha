@@ -11,4 +11,6 @@ export const nashvilleWhatliftsyouWingsMural = {
   sourceUrl:
     "https://www.google.com/maps/place/Nashville+WhatLiftsYou+Wings+Mural/data=!4m2!3m1!1s0x8864668ac3000001:0xf8b24ec5f426f8b4",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.442Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

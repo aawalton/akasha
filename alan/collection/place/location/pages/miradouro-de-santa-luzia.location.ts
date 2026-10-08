@@ -11,4 +11,6 @@ export const miradouroDeSantaLuzia = {
   sourceUrl:
     "https://www.google.com/maps/place/Miradouro+de+Santa+Luzia/data=!4m2!3m1!1s0xd1933849770e4c7:0x41203b21edcd2769",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.728Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

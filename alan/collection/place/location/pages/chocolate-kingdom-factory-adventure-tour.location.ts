@@ -11,4 +11,6 @@ export const chocolateKingdomFactoryAdventureTour = {
   sourceUrl:
     "https://www.google.com/maps/place/Chocolate+Kingdom+-+Factory+Adventure+Tour/data=!4m2!3m1!1s0x88e77e373e7f4b51:0x4a6c9e5c18855502",
   locationSource: "saved:Florida",
+  createdAt: "2026-06-30T23:45:05.794Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

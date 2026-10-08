@@ -12,4 +12,6 @@ export const stansDonutsCoffee = {
   sourceUrl:
     "https://www.google.com/maps/place/Stan%E2%80%99s+Donuts+%26+Coffee/data=!4m2!3m1!1s0x880e2daf78ce5601:0xeb82598ff887de50",
   locationSource: "saved:IL, Chicago",
+  createdAt: "2026-06-30T23:45:05.706Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

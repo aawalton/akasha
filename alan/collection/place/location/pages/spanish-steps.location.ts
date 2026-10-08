@@ -11,4 +11,6 @@ export const spanishSteps = {
   sourceUrl:
     "https://www.google.com/maps/place/Spanish+Steps/data=!4m2!3m1!1s0x132f60541678ae75:0x7fc0d4978aae690f",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.452Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const memorialToTheMurderedJewsOfEurope = {
   sourceUrl:
     "https://www.google.com/maps/place/Memorial+to+the+Murdered+Jews+of+Europe/data=!4m2!3m1!1s0x47a851c607196a5b:0x1434a79012ee5bc8",
   locationSource: "saved:Berlin, Germany",
+  createdAt: "2026-06-30T23:45:05.373Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

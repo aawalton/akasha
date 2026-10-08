@@ -10,4 +10,6 @@ export const seattleAirbnb = {
   longitude: -122.3700803,
   sourcePlaceId: "takeout:seattle-airbnb:7500-11th-ave-nw-seattle-wa-98117-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.864Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

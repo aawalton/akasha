@@ -11,4 +11,6 @@ export const scootsPlayaDelCarmen = {
   sourcePlaceId:
     "takeout:scoots-playa-del-carmen:ferry-to-playa-del-carmen-calle-2-nte-100-centro-77600-cozumel-q-r-mexico",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.860Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

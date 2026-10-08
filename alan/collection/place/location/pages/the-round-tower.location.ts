@@ -12,4 +12,6 @@ export const theRoundTower = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Round+Tower/data=!4m2!3m1!1s0x4652531083fb9ba1:0xe73a9f6da33ea437",
   locationSource: "saved:Denmark",
+  createdAt: "2026-07-01T01:26:58.191Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

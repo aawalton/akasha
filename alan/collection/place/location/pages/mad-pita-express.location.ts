@@ -12,4 +12,6 @@ export const madPitaExpress = {
   sourceUrl:
     "https://www.google.com/maps/place/Mad+Pita+Express/data=!4m2!3m1!1s0x80ca5b0ea159cfcf:0xa5c0feb29e3ffc35",
   locationSource: "saved:UT, Utah County",
+  createdAt: "2026-06-30T23:45:05.535Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const elPolloLocoLehi = {
   longitude: -111.8249082,
   sourcePlaceId: "ssc:loc:el-pollo-loco:lehi",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.403Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

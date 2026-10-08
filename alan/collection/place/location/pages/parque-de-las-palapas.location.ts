@@ -12,4 +12,6 @@ export const parqueDeLasPalapas = {
   sourceUrl:
     "https://www.google.com/maps/place/Parque+de+las+Palapas/data=!4m2!3m1!1s0x8f4c2c0737a9f0ab:0x1a0a54df0bd2c1b9",
   locationSource: "saved:Cancun, Mexico",
+  createdAt: "2026-07-01T01:26:58.015Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

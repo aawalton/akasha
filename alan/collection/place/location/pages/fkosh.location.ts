@@ -12,4 +12,6 @@ export const fkosh = {
   sourceUrl:
     "https://www.google.com/maps/place/F'kosh/data=!4m2!3m1!1s0x874d81962b40f2b3:0x5167e3f8c411a629",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.207Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

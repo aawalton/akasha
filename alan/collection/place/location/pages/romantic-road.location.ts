@@ -11,4 +11,6 @@ export const romanticRoad = {
   sourceUrl:
     "https://www.google.com/maps/place/Romantic+Road/data=!4m2!3m1!1s0x47992b9d4649af23:0x5949060ba19bfb50",
   locationSource: "saved:Germany",
+  createdAt: "2026-06-30T23:45:05.786Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

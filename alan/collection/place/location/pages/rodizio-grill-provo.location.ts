@@ -11,4 +11,6 @@ export const rodizioGrillProvo = {
   longitude: -111.6587085,
   sourcePlaceId: "ssc:loc:rodizio-grill:provo",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.990Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

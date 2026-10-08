@@ -11,4 +11,6 @@ export const mooseBuns = {
   sourceUrl:
     "https://www.google.com/maps/place/Moose+Buns/data=!4m2!3m1!1s0x87541355a660e375:0x87a020fe5aa3e91f",
   locationSource: "saved:Bear Lake - Garden City",
+  createdAt: "2026-07-01T01:26:59.243Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

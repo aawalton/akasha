@@ -9,4 +9,6 @@ export const discoveryCubeLosAngeles = {
   longitude: -118.3932272,
   sourcePlaceId: "takeout:discovery-cube-los-angeles:34.27294,-118.39323",
   locationSource: "mymaps:Joseph 12 Y.O",
+  createdAt: "2026-06-30T23:45:05.892Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

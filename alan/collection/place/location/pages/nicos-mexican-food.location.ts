@@ -11,4 +11,6 @@ export const nicosMexicanFood = {
   sourceUrl:
     "https://www.google.com/maps/place/Nico's+Mexican+Food/data=!4m2!3m1!1s0x80deaa3755bbcf91:0x7261a6259f5e1328",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-06-30T23:45:05.623Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

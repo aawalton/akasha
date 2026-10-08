@@ -11,4 +11,6 @@ export const diamondHead = {
   sourceUrl:
     "https://www.google.com/maps/place/Diamond+Head/data=!4m2!3m1!1s0x7c0072619ae2ab3f:0xf7fe4029c4a94f59",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.989Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

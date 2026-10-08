@@ -11,4 +11,6 @@ export const worldKiteMuseumHallFame = {
   sourceUrl:
     "https://www.google.com/maps/place/World+Kite+Museum+%26+Hall-Fame/data=!4m2!3m1!1s0x54936d56e1497fc5:0xffed283912e500da",
   locationSource: "saved:Washington State",
+  createdAt: "2026-07-01T01:26:57.507Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

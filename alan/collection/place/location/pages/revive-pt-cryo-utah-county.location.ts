@@ -11,4 +11,6 @@ export const revivePtCryoUtahCounty = {
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:revive-pt-cryo:utah-county",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.975Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

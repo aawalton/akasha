@@ -11,4 +11,6 @@ export const edleysBarBQue = {
   sourceUrl:
     "https://www.google.com/maps/place/Edley's+Bar-B-Que/data=!4m2!3m1!1s0x8864642fd73d92ed:0x2aabbf6c23ec3bdf",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.399Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const siragusasTasteOfItaly = {
   sourceUrl:
     "https://www.google.com/maps/place/Siragusa's+Taste+of+Italy/data=!4m2!3m1!1s0x87528b9cbe19517f:0xa7b4727bdce66e05",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.530Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

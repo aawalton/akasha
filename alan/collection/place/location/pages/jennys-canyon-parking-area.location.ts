@@ -11,4 +11,6 @@ export const jennysCanyonParkingArea = {
   sourceUrl:
     "https://www.google.com/maps/place/Jenny's+Canyon+Parking+Area/data=!4m2!3m1!1s0x80ca43a49a30d4c7:0x78dd37698375825c",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-07-01T01:26:58.827Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

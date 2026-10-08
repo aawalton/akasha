@@ -11,4 +11,6 @@ export const sweetRolledTacos = {
   sourceUrl:
     "https://www.google.com/maps/place/Sweet+Rolled+Tacos/data=!4m2!3m1!1s0x80ca5b1b7b1258af:0x68fed29739beb8d7",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-06-30T23:45:05.667Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

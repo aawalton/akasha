@@ -6,4 +6,6 @@ export const starvingStudentCard = {
   slug: "starving-student-card",
   title: "Starving Student Card",
   locationCollectionDescription: "txt",
+  createdAt: "2026-07-05T12:06:49.307Z",
+  updatedAt: "2026-09-15T17:22:48.000Z",
 } as const satisfies LocationCollection

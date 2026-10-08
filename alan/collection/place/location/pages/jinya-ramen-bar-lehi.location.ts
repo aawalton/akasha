@@ -11,4 +11,6 @@ export const jinyaRamenBarLehi = {
   sourceUrl:
     "https://www.google.com/maps/place/JINYA+Ramen+Bar+-+Lehi/data=!4m2!3m1!1s0x875281c8b58e24e1:0x5224e77b4d143d3d",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.263Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

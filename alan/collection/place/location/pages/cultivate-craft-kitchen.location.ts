@@ -18,4 +18,6 @@ export const cultivateCraftKitchen = {
     "https://www.google.com/maps/place/Cultivate+Craft+Kitchen/data=!4m2!3m1!1s0x87527d415fc0e0cf:0x1cc6075344a4f30d",
   locationSource: "saved:UT, SLC",
   visited: true,
+  createdAt: "2026-06-30T23:45:05.948Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

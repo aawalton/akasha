@@ -11,4 +11,6 @@ export const nomadEatery = {
   sourceUrl:
     "https://www.google.com/maps/place/Nomad+Eatery/data=!4m2!3m1!1s0x8752f477d6a55ecd:0xcf42f8a89a4d7ac7",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.286Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

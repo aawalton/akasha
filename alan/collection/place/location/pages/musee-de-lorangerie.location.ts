@@ -12,4 +12,6 @@ export const museeDeLorangerie = {
   sourceUrl:
     "https://www.google.com/maps/place/Mus%C3%A9e+de+l'Orangerie/data=!4m2!3m1!1s0x47e66e2eeaaaaaa3:0xdc3fd08aa701960a",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-06-30T23:45:05.476Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

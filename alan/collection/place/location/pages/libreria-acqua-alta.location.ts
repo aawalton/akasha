@@ -11,4 +11,6 @@ export const libreriaAcquaAlta = {
   sourceUrl:
     "https://www.google.com/maps/place/Libreria+Acqua+Alta/data=!4m2!3m1!1s0x477eb1d896baf485:0x8afa0f9c7769b984",
   locationSource: "saved:Venice, Italy",
+  createdAt: "2026-06-30T23:45:05.564Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

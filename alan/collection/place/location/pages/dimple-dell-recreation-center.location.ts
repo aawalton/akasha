@@ -11,4 +11,6 @@ export const dimpleDellRecreationCenter = {
   sourceUrl:
     "https://www.google.com/maps/place/Dimple+Dell+Recreation+Center/data=!4m2!3m1!1s0x87528788cb6fd5bf:0xa71e492ef7dc6984",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.215Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

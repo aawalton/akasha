@@ -12,4 +12,6 @@ export const laCasaDelTamal = {
   sourceUrl:
     "https://www.google.com/maps/place/La+Casa+Del+Tamal/data=!4m2!3m1!1s0x87528d0464aad223:0xc4bb6d0774560b23",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.325Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

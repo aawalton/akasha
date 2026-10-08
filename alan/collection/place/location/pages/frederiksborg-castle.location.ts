@@ -12,4 +12,6 @@ export const frederiksborgCastle = {
   sourceUrl:
     "https://www.google.com/maps/place/Frederiksborg+Castle/data=!4m2!3m1!1s0x46524097762941e1:0x12c6a634246b6152",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.430Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const greekCityGrill = {
   sourceUrl:
     "https://www.google.com/maps/place/Greek+City+Grill/data=!4m2!3m1!1s0x87526267e0873e09:0x3bb26bafa80527c6",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.533Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

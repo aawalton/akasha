@@ -9,4 +9,6 @@ export const legolandCalifornia = {
   longitude: -117.310507,
   sourcePlaceId: "takeout:legoland-california:33.12623,-117.31051",
   locationSource: "mymaps:Joseph 12 Y.O",
+  createdAt: "2026-06-30T23:45:05.882Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

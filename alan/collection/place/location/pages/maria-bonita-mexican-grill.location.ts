@@ -11,4 +11,6 @@ export const mariaBonitaMexicanGrill = {
   sourceUrl:
     "https://www.google.com/maps/place/Maria+Bonita+Mexican+Grill/data=!4m2!3m1!1s0x874d8531bf5eef4d:0xe774421aac5ddb8f",
   locationSource: "saved:UT, Utah County",
+  createdAt: "2026-07-01T01:26:58.476Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

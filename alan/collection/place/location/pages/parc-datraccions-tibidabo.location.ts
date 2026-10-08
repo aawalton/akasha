@@ -11,4 +11,6 @@ export const parcDatraccionsTibidabo = {
   sourceUrl:
     "https://www.google.com/maps/place/Parc+d'atraccions+Tibidabo/data=!4m2!3m1!1s0x12a4982760ca89c1:0x2fe459482acc3dcb",
   locationSource: "saved:Barcelona, Spain",
+  createdAt: "2026-06-30T23:45:05.648Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

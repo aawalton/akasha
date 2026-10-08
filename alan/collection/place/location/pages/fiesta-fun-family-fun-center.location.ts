@@ -11,4 +11,6 @@ export const fiestaFunFamilyFunCenter = {
   sourceUrl:
     "https://www.google.com/maps/place/Fiesta+Fun+Family+Fun+Center/data=!4m2!3m1!1s0x80ca452e1f0e86cb:0xc3e87971fd7eec00",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-07-01T01:26:58.836Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

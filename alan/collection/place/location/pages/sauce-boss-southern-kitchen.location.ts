@@ -11,4 +11,6 @@ export const sauceBossSouthernKitchen = {
   sourceUrl:
     "https://www.google.com/maps/place/Sauce+Boss+Southern+Kitchen/data=!4m2!3m1!1s0x87528796af77ba79:0x617573885814a5b9",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.322Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

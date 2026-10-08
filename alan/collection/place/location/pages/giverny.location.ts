@@ -11,4 +11,6 @@ export const giverny = {
   sourceUrl:
     "https://www.google.com/maps/place/Giverny/data=!4m2!3m1!1s0x47e6c8e2b4ec4081:0x40c14484fbba300",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.330Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

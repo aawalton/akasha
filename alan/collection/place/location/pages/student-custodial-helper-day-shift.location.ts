@@ -9,4 +9,6 @@ export const studentCustodialHelperDayShift = {
   longitude: -116.998957,
   sourcePlaceId: "takeout:student-custodial-helper-day-shift:noloc",
   locationSource: "saved:Favorite jobs",
+  createdAt: "2026-07-01T01:26:58.130Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

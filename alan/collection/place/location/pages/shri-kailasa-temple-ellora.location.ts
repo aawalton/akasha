@@ -12,4 +12,6 @@ export const shriKailasaTempleEllora = {
   sourceUrl:
     "https://www.google.com/maps/place/Shri+Kailasa+Temple,+Ellora/data=!4m2!3m1!1s0x3bdb925d7576f3e7:0xc53f42c5f6812405",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.688Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

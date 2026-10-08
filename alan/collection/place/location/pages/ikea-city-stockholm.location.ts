@@ -11,4 +11,6 @@ export const ikeaCityStockholm = {
   sourceUrl:
     "https://www.google.com/maps/place/IKEA+City+-+Stockholm/data=!4m2!3m1!1s0x465f9d8d17ea4557:0x66034a60a8bc78f3",
   locationSource: "saved:Sweden",
+  createdAt: "2026-06-30T23:45:05.555Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

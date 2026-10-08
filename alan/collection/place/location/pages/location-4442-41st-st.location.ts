@@ -11,4 +11,6 @@ export const location444241stSt = {
   sourceUrl:
     "https://www.google.com/maps/place/4442+41st+St/data=!4m2!3m1!1s0x80d954461821af0f:0x76e1a41c112efe83",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-06-30T23:45:05.634Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

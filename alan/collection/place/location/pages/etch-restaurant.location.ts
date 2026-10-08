@@ -11,4 +11,6 @@ export const etchRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/Etch+Restaurant/data=!4m2!3m1!1s0x8864665c7b6a796f:0x5357e1830040fdf5",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.400Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

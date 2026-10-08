@@ -11,4 +11,6 @@ export const theHagueNetherlandsTemple = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Hague+Netherlands+Temple/data=!4m2!3m1!1s0x47c5ced256b2d639:0x98944e05ce622a99",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-07-01T01:26:58.605Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

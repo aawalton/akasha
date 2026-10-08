@@ -12,4 +12,6 @@ export const moesSouthwestGrill = {
   sourceUrl:
     "https://www.google.com/maps/place/Moe's+Southwest+Grill/data=!4m2!3m1!1s0x875303918d0f5737:0xc675c920d37870df",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.327Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

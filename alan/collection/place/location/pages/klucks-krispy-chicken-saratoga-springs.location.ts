@@ -11,4 +11,6 @@ export const klucksKrispyChickenSaratogaSprings = {
   longitude: -111.9130188,
   sourcePlaceId: "ssc:loc:klucks-krispy-chicken:saratoga-springs",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.497Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

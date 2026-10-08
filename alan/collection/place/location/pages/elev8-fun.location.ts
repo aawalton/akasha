@@ -12,4 +12,6 @@ export const elev8Fun = {
   sourceUrl:
     "https://www.google.com/maps/place/Elev8+Fun/data=!4m2!3m1!1s0x88e70dc381c42c71:0xb871b671d92e8d0a",
   locationSource: "saved:Florida",
+  createdAt: "2026-06-30T23:45:05.790Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

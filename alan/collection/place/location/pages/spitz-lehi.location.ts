@@ -11,4 +11,6 @@ export const spitzLehi = {
   sourceUrl:
     "https://www.google.com/maps/place/Spitz+-+Lehi/data=!4m2!3m1!1s0x8752814ddea7ec8f:0x886950e9852a5d55",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.262Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

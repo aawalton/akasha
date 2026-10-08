@@ -11,4 +11,6 @@ export const porcupinePubGrille = {
   sourceUrl:
     "https://www.google.com/maps/place/Porcupine+Pub+%26+Grille/data=!4m2!3m1!1s0x87526315e85760ff:0x476f990d3935c94",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.531Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

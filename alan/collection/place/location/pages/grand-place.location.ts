@@ -12,4 +12,6 @@ export const grandPlace = {
   sourceUrl:
     "https://www.google.com/maps/place/Grand+Place/data=!4m2!3m1!1s0x47c3c47f4614f1f1:0xb03c355d8fe2cfb6",
   locationSource: "saved:Belgium",
+  createdAt: "2026-06-30T23:45:05.747Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

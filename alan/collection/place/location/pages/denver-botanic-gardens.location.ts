@@ -11,4 +11,6 @@ export const denverBotanicGardens = {
   sourceUrl:
     "https://www.google.com/maps/place/Denver+Botanic+Gardens/data=!4m2!3m1!1s0x876c7eb83b813ed1:0x401bdfcb1ed16e1a",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.350Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

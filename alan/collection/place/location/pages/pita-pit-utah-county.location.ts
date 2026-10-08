@@ -11,4 +11,6 @@ export const pitaPitUtahCounty = {
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:pita-pit:utah-county",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.910Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

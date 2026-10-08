@@ -11,4 +11,6 @@ export const theTacoStand661f = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Taco+Stand/data=!4m2!3m1!1s0x80d954a7012bb4e3:0x48aa2ee98b73f5ca",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-06-30T23:45:05.629Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

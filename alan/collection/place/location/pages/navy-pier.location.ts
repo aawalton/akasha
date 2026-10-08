@@ -11,4 +11,6 @@ export const navyPier = {
   sourceUrl:
     "https://www.google.com/maps/place/Navy+Pier/data=!4m2!3m1!1s0x880e2b4d91f12edb:0xd0acdb96b088a4dc",
   locationSource: "saved:IL, Chicago",
+  createdAt: "2026-06-30T23:45:05.714Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

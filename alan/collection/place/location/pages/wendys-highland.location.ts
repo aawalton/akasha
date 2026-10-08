@@ -11,4 +11,6 @@ export const wendysHighland = {
   longitude: -111.7897911,
   sourcePlaceId: "ssc:loc:wendys:highland",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.273Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

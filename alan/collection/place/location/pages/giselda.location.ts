@@ -12,4 +12,6 @@ export const giselda = {
   sourceUrl:
     "https://www.google.com/maps/place/Giselda/data=!4m2!3m1!1s0x132f6039d1217c1d:0x3a1ed2c6871e95f0",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.434Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

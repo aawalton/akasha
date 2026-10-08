@@ -11,4 +11,6 @@ export const theOldTown = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Old+Town/data=!4m2!3m1!1s0x464c3fe95ac46a89:0xb5564e6a17eef6c9",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.429Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

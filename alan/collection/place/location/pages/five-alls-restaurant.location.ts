@@ -12,4 +12,6 @@ export const fiveAllsRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/Five+Alls+restaurant/data=!4m2!3m1!1s0x87526071ccfff509:0x719cd11b4508b814",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.208Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

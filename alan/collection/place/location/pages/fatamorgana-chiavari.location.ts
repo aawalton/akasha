@@ -11,4 +11,6 @@ export const fatamorganaChiavari = {
   sourceUrl:
     "https://www.google.com/maps/place/Fatamorgana+Chiavari/data=!4m2!3m1!1s0x132f604f312eceeb:0x7616d5c87bc97a82",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.447Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

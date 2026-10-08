@@ -11,4 +11,6 @@ export const wendysAmericanFork = {
   longitude: -111.7889412,
   sourcePlaceId: "ssc:loc:wendys:american-fork",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.269Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

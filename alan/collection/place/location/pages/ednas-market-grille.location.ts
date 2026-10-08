@@ -12,4 +12,6 @@ export const ednasMarketGrille = {
   sourceUrl:
     "https://www.google.com/maps/place/Ednas+Market+%26+Grille/data=!4m2!3m1!1s0x874d81c85bb88d17:0x347d7d6a441558ac",
   locationSource: "saved:UT, Utah County",
+  createdAt: "2026-07-01T01:26:58.468Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

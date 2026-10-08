@@ -11,4 +11,6 @@ export const specialCourses = {
   sourceUrl:
     "https://www.google.com/maps/place/SPECIAL+COURSES/data=!4m2!3m1!1s0x874d8417ce7f852d:0x92d713480df1978",
   locationSource: "saved:UT, Sandy - Draper - Riverton",
+  createdAt: "2026-07-01T01:26:59.222Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

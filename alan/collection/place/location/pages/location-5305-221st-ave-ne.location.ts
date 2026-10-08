@@ -12,4 +12,6 @@ export const location5305221stAveNe = {
   sourceUrl:
     "https://www.google.com/maps/place/5305+221st+Ave+NE/data=!4m2!3m1!1s0x5490725373a622bf:0xb47a352828bad3a7",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.177Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

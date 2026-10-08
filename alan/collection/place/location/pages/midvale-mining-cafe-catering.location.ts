@@ -11,4 +11,6 @@ export const midvaleMiningCafeCatering = {
   sourceUrl:
     "https://www.google.com/maps/place/Midvale+Mining+Cafe+%26+Catering/data=!4m2!3m1!1s0x875289a978f0f47f:0x84b25df3fc321416",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.295Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

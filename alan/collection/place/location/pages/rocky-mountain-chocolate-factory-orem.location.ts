@@ -11,4 +11,6 @@ export const rockyMountainChocolateFactoryOrem = {
   longitude: -111.6591599,
   sourcePlaceId: "ssc:loc:rocky-mountain-chocolate-factory:orem",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.984Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const parowanGapPetroglyphs = {
   sourceUrl:
     "https://www.google.com/maps/place/Parowan+Gap+Petroglyphs/data=!4m2!3m1!1s0x80b54233d5963b87:0x5c44d4b9665cf89b",
   locationSource: "saved:UT, Cedar City",
+  createdAt: "2026-07-01T01:26:58.913Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

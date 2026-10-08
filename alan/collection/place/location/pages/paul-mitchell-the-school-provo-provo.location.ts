@@ -11,4 +11,6 @@ export const paulMitchellTheSchoolProvoProvo = {
   longitude: -111.685758,
   sourcePlaceId: "ssc:loc:paul-mitchell-the-school-provo:provo",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.894Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

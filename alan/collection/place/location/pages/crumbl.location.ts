@@ -16,4 +16,6 @@ export const crumbl = {
   sourceUrl: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1817489e387683d6",
   locationSource: "review",
   visited: true,
+  createdAt: "2026-06-30T23:45:06.016Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

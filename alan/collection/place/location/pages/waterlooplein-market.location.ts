@@ -11,4 +11,6 @@ export const waterloopleinMarket = {
   sourceUrl:
     "https://www.google.com/maps/place/Waterlooplein+Market/data=!4m2!3m1!1s0x47c609be12672301:0x68b3d28ec9507f9",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.601Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const theCrookedSpoon = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Crooked+Spoon/data=!4m2!3m1!1s0x88e78e571b5e6487:0xc349013de61c703e",
   locationSource: "saved:Florida",
+  createdAt: "2026-07-01T01:26:59.169Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

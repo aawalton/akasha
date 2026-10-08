@@ -11,4 +11,6 @@ export const sazonEmsBrunchCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/SAZON+%2F+EM%E2%80%99s+Brunch+%26+Caf%C3%A9/data=!4m2!3m1!1s0x874d7d80286e9c3d:0xd347d8be03979aed",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.561Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

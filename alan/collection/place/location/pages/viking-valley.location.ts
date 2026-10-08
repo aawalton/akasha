@@ -11,4 +11,6 @@ export const vikingValley = {
   sourceUrl:
     "https://www.google.com/maps/place/Viking+Valley/data=!4m2!3m1!1s0x463e0963858c0545:0xbdd298e96f2d6f4",
   locationSource: "saved:Norway",
+  createdAt: "2026-06-30T23:45:05.767Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

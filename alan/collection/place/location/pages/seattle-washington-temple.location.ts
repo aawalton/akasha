@@ -11,4 +11,6 @@ export const seattleWashingtonTemple = {
   sourceUrl:
     "https://www.google.com/maps/place/Seattle+Washington+Temple/data=!4m2!3m1!1s0x54906e9f85ad6089:0x2b9193587e9dffa",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.195Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

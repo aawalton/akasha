@@ -11,4 +11,6 @@ export const grahamsRoyaltea = {
   sourceUrl:
     "https://www.google.com/maps/place/Graham's+RoyalTea/data=!4m2!3m1!1s0x54900e6bc800275d:0x1333366ad22bb978",
   locationSource: "saved:Washington State",
+  createdAt: "2026-07-01T01:26:57.518Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

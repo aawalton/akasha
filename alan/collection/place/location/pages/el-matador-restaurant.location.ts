@@ -13,4 +13,6 @@ export const elMatadorRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/El+Matador+Restaurant/data=!4m2!3m1!1s0x8752f7f2d4ca54ef:0x7618fb48f61dad6",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.525Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

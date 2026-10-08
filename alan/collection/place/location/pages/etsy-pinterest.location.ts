@@ -11,4 +11,6 @@ export const etsyPinterest = {
   sourceUrl:
     "https://s-media-cache-ak0.pinimg.com/236x/ca/4f/bb/ca4fbb6f8d61e2cf023ed1e6fa87f916.jpg",
   locationSource: "saved:Images",
+  createdAt: "2026-07-01T01:26:58.921Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

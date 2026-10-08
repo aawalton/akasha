@@ -12,4 +12,6 @@ export const restaurantKarla = {
   sourceUrl:
     "https://www.google.com/maps/place/Restaurant+Karla/data=!4m2!3m1!1s0x46525313a3ab27af:0xfa6d36627565e0af",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.418Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

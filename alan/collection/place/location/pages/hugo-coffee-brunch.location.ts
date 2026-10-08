@@ -12,4 +12,6 @@ export const hugoCoffeeBrunch = {
   sourceUrl:
     "https://www.google.com/maps/place/Hugo+coffee+%26+brunch/data=!4m2!3m1!1s0x47954f002ffe1f73:0xc31a984d6b6b7068",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.203Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

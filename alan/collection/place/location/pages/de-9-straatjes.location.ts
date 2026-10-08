@@ -11,4 +11,6 @@ export const de9Straatjes = {
   sourceUrl:
     "https://www.google.com/maps/place/De+9+Straatjes/data=!4m2!3m1!1s0x47c609c322fdb30f:0x286568ece0f9b732",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.595Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

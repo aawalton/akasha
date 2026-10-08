@@ -11,4 +11,6 @@ export const muiderslot = {
   sourceUrl:
     "https://www.google.com/maps/place/Muiderslot/data=!4m2!3m1!1s0x47c60dff27867055:0x7bb6726706837ea2",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.609Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

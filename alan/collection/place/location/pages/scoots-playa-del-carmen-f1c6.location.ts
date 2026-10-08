@@ -9,4 +9,6 @@ export const scootsPlayaDelCarmenF1c6 = {
   longitude: -86.9497232,
   sourcePlaceId: "takeout:scoots-playa-del-carmen:20.51127,-86.94972",
   locationSource: "mymaps:Scoots Rental Locations",
+  createdAt: "2026-06-30T23:45:05.906Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

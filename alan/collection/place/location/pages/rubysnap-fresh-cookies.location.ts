@@ -11,4 +11,6 @@ export const rubysnapFreshCookies = {
   sourceUrl:
     "https://www.google.com/maps/place/RubySnap+Fresh+Cookies/data=!4m2!3m1!1s0x8752f51f40c34d57:0x11e6debd9f3e50bb",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.538Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const cloudGate = {
   sourceUrl:
     "https://www.google.com/maps/place/Cloud+Gate/data=!4m2!3m1!1s0x880e2ca687332bf5:0x64d3fefce3a4a51",
   locationSource: "saved:IL, Chicago",
+  createdAt: "2026-06-30T23:45:05.716Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

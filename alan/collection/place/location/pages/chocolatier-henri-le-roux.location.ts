@@ -11,4 +11,6 @@ export const chocolatierHenriLeRoux = {
   sourceUrl:
     "https://www.google.com/maps/place/Chocolatier+Henri+Le+Roux/data=!4m2!3m1!1s0x47e66fd9c7d8e139:0xf834e15f3a65cf25",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.352Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

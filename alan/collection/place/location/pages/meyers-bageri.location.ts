@@ -12,4 +12,6 @@ export const meyersBageri = {
   sourceUrl:
     "https://www.google.com/maps/place/Meyers+Bageri/data=!4m2!3m1!1s0x465252e476f5fff9:0xa16ebb7e074259e",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.419Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

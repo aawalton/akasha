@@ -11,4 +11,6 @@ export const paneraBread = {
   sourceUrl:
     "https://www.google.com/maps/place/Panera+Bread/data=!4m2!3m1!1s0x874d83fbeae8ce05:0x14ce2f08a6eb606d",
   locationSource: "saved:Default list",
+  createdAt: "2026-06-30T23:45:05.811Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

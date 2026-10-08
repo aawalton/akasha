@@ -11,4 +11,6 @@ export const location1646SunsetRd = {
   sourceUrl:
     "https://www.google.com/maps/place/1646+Sunset+Rd/data=!4m2!3m1!1s0x8864712fe0289edf:0x8135f0aae44faca2",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.378Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

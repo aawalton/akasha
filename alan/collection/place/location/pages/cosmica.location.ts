@@ -12,4 +12,6 @@ export const cosmica = {
   sourceUrl:
     "https://www.google.com/maps/place/Cosmica/data=!4m2!3m1!1s0x8752f571b097905d:0xc4e4a005b428acac",
   locationSource: "saved:Default list",
+  createdAt: "2026-06-30T23:45:05.813Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

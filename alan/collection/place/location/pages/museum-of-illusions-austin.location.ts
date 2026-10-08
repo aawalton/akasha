@@ -11,4 +11,6 @@ export const museumOfIllusionsAustin = {
   sourceUrl:
     "https://www.google.com/maps/place/Museum+of+Illusions+Austin/data=!4m2!3m1!1s0x8644cd2b422ffa09:0xdd1869bfab0d590",
   locationSource: "saved:Austin, Texas",
+  createdAt: "2026-06-30T23:45:05.614Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

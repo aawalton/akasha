@@ -11,4 +11,6 @@ export const location1800ParkRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/1800+Park+Restaurant/data=!4m2!3m1!1s0x87526d645fd4b751:0x48aa9a56761078e6",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.237Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

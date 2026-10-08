@@ -11,4 +11,6 @@ export const littleItalyStreetSign = {
   sourceUrl:
     "https://www.google.com/maps/place/Little+Italy+Street+Sign/data=!4m2!3m1!1s0x80d954adf82f8e13:0xe55e3ccec782f14a",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-07-01T01:26:58.698Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

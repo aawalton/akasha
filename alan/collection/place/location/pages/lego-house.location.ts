@@ -11,4 +11,6 @@ export const legoHouse = {
   sourceUrl:
     "https://www.google.com/maps/place/LEGO+House/data=!4m2!3m1!1s0x464b7178cc61342b:0xe381471b9e657703",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.426Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

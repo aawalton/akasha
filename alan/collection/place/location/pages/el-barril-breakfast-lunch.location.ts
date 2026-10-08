@@ -12,4 +12,6 @@ export const elBarrilBreakfastLunch = {
   sourceUrl:
     "https://www.google.com/maps/place/El+Barril+Breakfast+%26+Lunch/data=!4m2!3m1!1s0x8752879dd5b9e5f9:0x23d9ef21db735c9b",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.865Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const tinRoofGrill = {
   sourceUrl:
     "https://www.google.com/maps/place/Tin+Roof+Grill/data=!4m2!3m1!1s0x87528809d98975b1:0x9d1a10b411035ab",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.258Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

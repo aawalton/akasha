@@ -11,4 +11,6 @@ export const laCaille = {
   sourceUrl:
     "https://www.google.com/maps/place/La+Caille/data=!4m2!3m1!1s0x87527cc3475aa1d7:0xf7d52f151b960c3c",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.294Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

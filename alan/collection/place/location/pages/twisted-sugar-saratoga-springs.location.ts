@@ -11,4 +11,6 @@ export const twistedSugarSaratogaSprings = {
   longitude: -111.9106887,
   sourcePlaceId: "ssc:loc:twisted-sugar:saratoga-springs",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.223Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

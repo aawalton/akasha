@@ -11,4 +11,6 @@ export const goldenCorralBuffetOrem = {
   longitude: -111.699554,
   sourcePlaceId: "ssc:loc:golden-corral-buffet:orem",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.787Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const madBatterBakehouse = {
   sourceUrl:
     "https://www.google.com/maps/place/Mad+Batter+Bakehouse/data=!4m2!3m1!1s0x548f8b49d44144cd:0x6a42da75e044a1b2",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.252Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

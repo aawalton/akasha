@@ -11,4 +11,6 @@ export const mokuleiaBeach = {
   sourceUrl:
     "https://www.google.com/maps/place/Mokul%C4%93%E2%80%98Ia+Beach/data=!4m2!3m1!1s0x7c00f5e8fac12b25:0xbef0bf60f04b756",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.965Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

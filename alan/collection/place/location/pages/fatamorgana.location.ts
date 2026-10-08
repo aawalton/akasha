@@ -11,4 +11,6 @@ export const fatamorgana = {
   sourceUrl:
     "https://www.google.com/maps/place/Fatamorgana/data=!4m2!3m1!1s0x132f603975d55691:0x195ac7d1181ff02f",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.448Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

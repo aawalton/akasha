@@ -11,4 +11,6 @@ export const pantheon = {
   sourceUrl:
     "https://www.google.com/maps/place/Pantheon/data=!4m2!3m1!1s0x132f604f678640a9:0xcad165fa2036ce2c",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.456Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

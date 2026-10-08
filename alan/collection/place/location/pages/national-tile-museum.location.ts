@@ -11,4 +11,6 @@ export const nationalTileMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/National+Tile+Museum/data=!4m2!3m1!1s0xd1933e8da53a15f:0xb31d6f4a8645bc28",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.730Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

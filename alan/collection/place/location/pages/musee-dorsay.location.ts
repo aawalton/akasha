@@ -12,4 +12,6 @@ export const museeDorsay = {
   sourceUrl:
     "https://www.google.com/maps/place/Mus%C3%A9e+d'Orsay/data=!4m2!3m1!1s0x47e66e2bb630941b:0xd071bd8cb14423d8",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-06-30T23:45:05.477Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

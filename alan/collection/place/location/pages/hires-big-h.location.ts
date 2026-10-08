@@ -12,4 +12,6 @@ export const hiresBigH = {
   sourceUrl:
     "https://www.google.com/maps/place/Hires+Big+H/data=!4m2!3m1!1s0x8752f568f26f0c25:0x837e88dbea1279e9",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.274Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

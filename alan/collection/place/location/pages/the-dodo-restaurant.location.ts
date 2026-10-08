@@ -12,4 +12,6 @@ export const theDodoRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Dodo+Restaurant/data=!4m2!3m1!1s0x8752601ebc78f39d:0x2d4396deb77610d1",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.254Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

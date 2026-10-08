@@ -11,4 +11,6 @@ export const disneylandParis = {
   sourceUrl:
     "https://www.google.com/maps/place/Disneyland+Paris/data=!4m2!3m1!1s0x47e61d19ca7ae2bd:0x57faf8cb6310e660",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-07-01T01:26:58.331Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

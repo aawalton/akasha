@@ -11,4 +11,6 @@ export const experimintaSciencecenter = {
   sourceUrl:
     "https://www.google.com/maps/place/EXPERIMINTA+ScienceCenter/data=!4m2!3m1!1s0x47bd095c6c78d809:0x48649a07e3ff9c2c",
   locationSource: "saved:Frankfurt, Germany",
+  createdAt: "2026-07-01T01:26:58.868Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

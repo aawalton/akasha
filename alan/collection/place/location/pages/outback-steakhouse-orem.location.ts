@@ -11,4 +11,6 @@ export const outbackSteakhouseOrem = {
   longitude: -111.6855561,
   sourcePlaceId: "ssc:loc:outback-steakhouse:orem",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.879Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

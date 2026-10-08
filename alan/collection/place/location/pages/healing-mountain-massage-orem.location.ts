@@ -11,4 +11,6 @@ export const healingMountainMassageOrem = {
   longitude: -111.6944313,
   sourcePlaceId: "ssc:loc:healing-mountain-massage:orem",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.830Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

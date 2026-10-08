@@ -11,4 +11,6 @@ export const mcdonaldsAmericanFork = {
   longitude: -111.7875628,
   sourcePlaceId: "ssc:loc:mcdonalds:american-fork",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.725Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

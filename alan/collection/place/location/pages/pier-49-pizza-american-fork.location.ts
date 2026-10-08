@@ -11,4 +11,6 @@ export const pier49PizzaAmericanFork = {
   longitude: -111.8187387,
   sourcePlaceId: "ssc:loc:pier-49-pizza:american-fork",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:51.904Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

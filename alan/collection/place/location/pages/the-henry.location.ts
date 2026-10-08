@@ -11,4 +11,6 @@ export const theHenry = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Henry/data=!4m2!3m1!1s0x80deaccbfd45748b:0x16be1bb7ecfbc042",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-07-01T01:26:58.680Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

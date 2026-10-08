@@ -11,4 +11,6 @@ export const lanikaiBeach = {
   sourceUrl:
     "https://www.google.com/maps/place/Lanikai+Beach/data=!4m2!3m1!1s0x7c0014dd17442541:0x88415fbfd50f90b8",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.966Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

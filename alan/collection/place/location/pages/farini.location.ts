@@ -12,4 +12,6 @@ export const farini = {
   sourceUrl:
     "https://www.google.com/maps/place/Farini/data=!4m2!3m1!1s0x477eb1db69410d2b:0xc2b4c400be9a10a1",
   locationSource: "saved:Venice, Italy",
+  createdAt: "2026-06-30T23:45:05.559Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

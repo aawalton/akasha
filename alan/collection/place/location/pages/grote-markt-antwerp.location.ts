@@ -11,4 +11,6 @@ export const groteMarktAntwerp = {
   sourceUrl:
     "https://www.google.com/maps/place/Grote+Markt+Antwerp/data=!4m2!3m1!1s0x47c3f6f647a587fb:0xbf6e3b320ec18fdc",
   locationSource: "saved:Belgium",
+  createdAt: "2026-06-30T23:45:05.754Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

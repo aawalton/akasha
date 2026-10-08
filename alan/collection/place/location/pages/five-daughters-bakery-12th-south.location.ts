@@ -11,4 +11,6 @@ export const fiveDaughtersBakery12thSouth = {
   sourceUrl:
     "https://www.google.com/maps/place/Five+Daughters+Bakery+12th+South/data=!4m2!3m1!1s0x8864642ef3d4cdcd:0x386e1ad185a7869e",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.506Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

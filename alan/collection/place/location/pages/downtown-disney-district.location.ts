@@ -9,4 +9,6 @@ export const downtownDisneyDistrict = {
   longitude: -117.9237869,
   sourcePlaceId: "takeout:downtown-disney-district:33.80979,-117.92379",
   locationSource: "mymaps:Joseph 12 Y.O",
+  createdAt: "2026-06-30T23:45:05.887Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

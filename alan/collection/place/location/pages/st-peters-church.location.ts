@@ -11,4 +11,6 @@ export const stPetersChurch = {
   sourceUrl:
     "https://www.google.com/maps/place/St.+Peter's+Church/data=!4m2!3m1!1s0x479e758ac56cfd59:0xae91f2308ed4ac67",
   locationSource: "saved:Germany",
+  createdAt: "2026-06-30T23:45:05.784Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

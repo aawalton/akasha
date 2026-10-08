@@ -12,4 +12,6 @@ export const vienna = {
   sourceUrl:
     "https://www.google.com/maps/place/Vienna/data=!4m2!3m1!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46",
   locationSource: "saved:Austria",
+  createdAt: "2026-06-30T23:45:05.825Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

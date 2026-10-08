@@ -12,4 +12,6 @@ export const taqueriaLosChachalacos = {
   sourceUrl:
     "https://www.google.com/maps/place/Taqueria+Los+Chachalacos/data=!4m2!3m1!1s0x8f4c2bf382f71da1:0x435f8df191d2d6d4",
   locationSource: "saved:Cancun, Mexico",
+  createdAt: "2026-06-30T23:45:05.354Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

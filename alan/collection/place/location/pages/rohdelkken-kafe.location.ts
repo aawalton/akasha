@@ -12,4 +12,6 @@ export const rohdelkkenKafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Rohdel%C3%B8kken+%EF%BB%BFKaf%C3%A9/data=!4m2!3m1!1s0x46416d8147dbd103:0xeb6a4345dc0f466b",
   locationSource: "saved:Norway",
+  createdAt: "2026-06-30T23:45:05.764Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

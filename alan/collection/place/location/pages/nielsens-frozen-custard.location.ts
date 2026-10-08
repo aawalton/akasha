@@ -11,4 +11,6 @@ export const nielsensFrozenCustard = {
   sourceUrl:
     "https://www.google.com/maps/place/Nielsen's+Frozen+Custard/data=!4m2!3m1!1s0x80ca44cd58bc765b:0xec0cfd611762879c",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-06-30T23:45:05.668Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

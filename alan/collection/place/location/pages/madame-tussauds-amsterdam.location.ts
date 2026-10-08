@@ -11,4 +11,6 @@ export const madameTussaudsAmsterdam = {
   sourceUrl:
     "https://www.google.com/maps/place/Madame+Tussauds+Amsterdam/data=!4m2!3m1!1s0x47c609c729cad5d7:0x3f27d37cf64a066b",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.586Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

@@ -6,4 +6,6 @@ export const europeTrip2026 = {
   slug: "europe-trip-2026",
   title: "Europe Trip 2026",
   icon: "file-text",
+  createdAt: "2026-07-06T13:41:09.303Z",
+  updatedAt: "2026-09-15T17:22:48.000Z",
 } as const satisfies LocationCollection

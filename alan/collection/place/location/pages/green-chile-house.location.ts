@@ -12,4 +12,6 @@ export const greenChileHouse = {
   sourceUrl:
     "https://www.google.com/maps/place/Green+Chile+House/data=!4m2!3m1!1s0xa7f653b41dac6cdf:0x757659935ab2ff8c",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.719Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const fivePointsPizzaEast = {
   sourceUrl:
     "https://www.google.com/maps/place/Five+Points+Pizza+East/data=!4m2!3m1!1s0x886467d294e1c6dd:0xb7f24e896b575ffe",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.515Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

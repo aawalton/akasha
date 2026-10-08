@@ -11,4 +11,6 @@ export const rainbowDriveIn = {
   sourceUrl:
     "https://www.google.com/maps/place/Rainbow+Drive-In/data=!4m2!3m1!1s0x7c00727f31c4a949:0xb56da5e39fe7be61",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.998Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

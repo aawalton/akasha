@@ -11,4 +11,6 @@ export const edam = {
   sourceUrl:
     "https://www.google.com/maps/place/Edam/data=!4m2!3m1!1s0x47c6037effc9069d:0xde1659be415b4a44",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.579Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

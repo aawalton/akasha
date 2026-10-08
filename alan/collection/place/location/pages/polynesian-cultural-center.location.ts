@@ -11,4 +11,6 @@ export const polynesianCulturalCenter = {
   sourceUrl:
     "https://www.google.com/maps/place/Polynesian+Cultural+Center/data=!4m2!3m1!1s0x7c007275be11938d:0xcbb5e94e7969058a",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:58.012Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const theShwackBeachGrill = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Shwack+Beach+Grill/data=!4m2!3m1!1s0x80dcf050a9c5d9d3:0x58cd1bf17376ec5c",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-07-01T01:26:58.685Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

@@ -12,4 +12,6 @@ export const daliCrepesCateringCafe = {
   sourceUrl:
     "https://www.google.com/maps/place/Dali+Crepes+Catering+%26+Cafe/data=!4m2!3m1!1s0x87528be549a134fd:0x726cb96eeb2ed19f",
   locationSource: "saved:Want to go",
+  createdAt: "2026-07-01T01:26:57.706Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const diverseAsianDining = {
   sourceUrl:
     "https://www.google.com/travel/things-to-do/experience?gsas=1&experience_id=/g/11gw2_22b8&otf=1&dest_mid=/m/0d9jr&dest_state_type=exp&dest_src=saves",
   locationSource: "saved:Saved for later",
+  createdAt: "2026-07-01T01:26:59.194Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

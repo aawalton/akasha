@@ -11,4 +11,6 @@ export const stPatricksCathedral = {
   sourceUrl:
     "https://www.google.com/maps/place/St+Patrick's+Cathedral/data=!4m2!3m1!1s0x4844a7096c3558a5:0x92c8e69bb625b154",
   locationSource: "saved:Ireland",
+  createdAt: "2026-06-30T23:45:05.377Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

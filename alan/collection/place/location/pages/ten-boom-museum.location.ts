@@ -11,4 +11,6 @@ export const tenBoomMuseum = {
   sourceUrl:
     "https://www.google.com/maps/place/Ten+Boom+Museum/data=!4m2!3m1!1s0x47c5ef6b7f13ab81:0x27136033a77a4718",
   locationSource: "saved:UT, Utah County; saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.569Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

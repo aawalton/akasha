@@ -11,4 +11,6 @@ export const theDollyLlama = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Dolly+Llama/data=!4m2!3m1!1s0x874d858cd12706f3:0x2f2e6be53a5362a7",
   locationSource: "saved:UT, Utah County",
+  createdAt: "2026-07-01T01:26:58.459Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

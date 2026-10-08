@@ -11,4 +11,6 @@ export const elCamino = {
   sourceUrl:
     "https://www.google.com/maps/place/El+Camino/data=!4m2!3m1!1s0x5490150747cc571b:0xf639791e56bd6bd",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.189Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

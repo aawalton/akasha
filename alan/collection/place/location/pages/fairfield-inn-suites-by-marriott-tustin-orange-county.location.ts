@@ -12,4 +12,6 @@ export const fairfieldInnSuitesByMarriottTustinOrangeCounty = {
   sourceUrl:
     "https://www.google.com/maps/place/Fairfield+Inn+%26+Suites+by+Marriott+Tustin+Orange+County/data=!4m2!3m1!1s0x80dcd9570bf31689:0x5a40b626d86b188f",
   locationSource: "saved:CA, Los Angeles",
+  createdAt: "2026-07-01T01:26:59.216Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

@@ -9,4 +9,6 @@ export const superNintendoWorldUniversalStudiosHollywood = {
   longitude: -118.3576109,
   sourcePlaceId: "takeout:super-nintendo-world-universal-studios-hollywood:34.14104,-118.35761",
   locationSource: "mymaps:Joseph 12 Y.O",
+  createdAt: "2026-06-30T23:45:05.889Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

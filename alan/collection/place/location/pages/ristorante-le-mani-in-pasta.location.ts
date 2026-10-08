@@ -12,4 +12,6 @@ export const ristoranteLeManiInPasta = {
   sourceUrl:
     "https://www.google.com/maps/place/Ristorante+le+Mani+in+Pasta/data=!4m2!3m1!1s0x132f60366b7febb1:0x37886ce837fa5435",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.441Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

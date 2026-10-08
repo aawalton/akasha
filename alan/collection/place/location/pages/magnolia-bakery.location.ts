@@ -11,4 +11,6 @@ export const magnoliaBakery = {
   sourceUrl:
     "https://www.google.com/maps/place/Magnolia+Bakery/data=!4m2!3m1!1s0x8752633d6ff9b171:0xa92e2c3b384ae24e",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.205Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

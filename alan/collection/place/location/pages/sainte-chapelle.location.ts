@@ -13,4 +13,6 @@ export const sainteChapelle = {
   sourceUrl:
     "https://www.google.com/maps/place/Sainte-Chapelle/data=!4m2!3m1!1s0x47e66e1fd8767d47:0x33f441f9dc242768",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-06-30T23:45:05.472Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const redmondHeritageFarmStore = {
   sourceUrl:
     "https://www.google.com/maps/place/Redmond+Heritage+Farm+Store/data=!4m2!3m1!1s0x874d852f69772f7f:0xb0882e6ac376f215",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.276Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const junoTheBakery = {
   sourceUrl:
     "https://www.google.com/maps/place/Juno+the+bakery/data=!4m2!3m1!1s0x465252f035a89c17:0x11c1cda65903316",
   locationSource: "saved:Denmark",
+  createdAt: "2026-06-30T23:45:05.403Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

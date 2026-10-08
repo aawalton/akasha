@@ -11,4 +11,6 @@ export const leftForkGrill = {
   sourceUrl:
     "https://www.google.com/maps/place/Left+Fork+Grill/data=!4m2!3m1!1s0x87528a507da1777b:0xaaa259b225d3a0fd",
   locationSource: "saved:UT, SLC",
+  createdAt: "2026-07-01T01:26:58.536Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

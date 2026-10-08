@@ -11,4 +11,6 @@ export const theKaniakapupuRuins = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Kaniakapupu+Ruins/data=!4m2!3m1!1s0x7c006c6699c30c89:0x3a242ff8188c5ef4",
   locationSource: "saved:Oahu, Hawaii",
+  createdAt: "2026-07-01T01:26:57.964Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

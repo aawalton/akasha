@@ -11,4 +11,6 @@ export const waybackBurgers = {
   sourceUrl:
     "https://www.google.com/maps/place/Wayback+Burgers/data=!4m2!3m1!1s0x875289007a16a8d5:0x34c109883d64db24",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.241Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

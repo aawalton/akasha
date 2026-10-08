@@ -11,4 +11,6 @@ export const romeItalyTemple = {
   sourceUrl:
     "https://www.google.com/maps/place/Rome+Italy+Temple/data=!4m2!3m1!1s0x132f643086c21e99:0xcb6509821c71b70c",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-06-30T23:45:05.471Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

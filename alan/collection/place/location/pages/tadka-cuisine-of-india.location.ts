@@ -12,4 +12,6 @@ export const tadkaCuisineOfIndia = {
   sourceUrl:
     "https://www.google.com/maps/place/Tadka+Cuisine+of+India/data=!4m2!3m1!1s0x874da45f275a1daf:0xadb53c96dfc7883a",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.242Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

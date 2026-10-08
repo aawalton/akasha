@@ -12,4 +12,6 @@ export const rucas = {
   sourceUrl:
     "https://www.google.com/maps/place/Ruca's/data=!4m2!3m1!1s0x87541232b923bcb5:0xcc99a42774913798",
   locationSource: "saved:Bear Lake - Garden City",
+  createdAt: "2026-06-30T23:45:05.815Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

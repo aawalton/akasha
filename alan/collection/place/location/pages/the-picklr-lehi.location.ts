@@ -11,4 +11,6 @@ export const thePicklrLehi = {
   longitude: -111.8486019,
   sourcePlaceId: "ssc:loc:the-picklr:lehi",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:52.103Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

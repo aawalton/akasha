@@ -11,4 +11,6 @@ export const theParthenon = {
   sourceUrl:
     "https://www.google.com/maps/place/The+Parthenon/data=!4m2!3m1!1s0x8864614bd6f28fe5:0x70f4d37bc63ae1a6",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-07-01T01:26:58.421Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

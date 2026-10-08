@@ -11,4 +11,6 @@ export const streetsideTacos = {
   sourceUrl:
     "https://www.google.com/maps/place/Streetside+Tacos/data=!4m2!3m1!1s0x54936d5622f09e2b:0x2231108484de104f",
   locationSource: "saved:Washington State",
+  createdAt: "2026-07-01T01:26:57.450Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

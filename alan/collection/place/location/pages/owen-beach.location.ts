@@ -11,4 +11,6 @@ export const owenBeach = {
   sourceUrl:
     "https://www.google.com/maps/place/Owen+Beach/data=!4m2!3m1!1s0x5490530cf2532fff:0xdf518fbdeabf51dc",
   locationSource: "saved:Washington State",
+  createdAt: "2026-06-30T23:45:05.142Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

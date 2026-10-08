@@ -11,4 +11,6 @@ export const jimmysFamousAmericanTavern = {
   sourceUrl:
     "https://www.google.com/maps/place/Jimmy's+Famous+American+Tavern/data=!4m2!3m1!1s0x80dcf0ff9eb49c1d:0x475dc4b2f6e0df1e",
   locationSource: "saved:CA, San Diego",
+  createdAt: "2026-06-30T23:45:05.619Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

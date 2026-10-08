@@ -11,4 +11,6 @@ export const leonardoDaVinciInternationalAirport = {
   sourceUrl:
     "https://www.google.com/maps/place/Leonardo+da+Vinci+International+Airport/data=!4m2!3m1!1s0x1325f0793898141f:0xafe513b4e358316f",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-07-01T01:26:58.261Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

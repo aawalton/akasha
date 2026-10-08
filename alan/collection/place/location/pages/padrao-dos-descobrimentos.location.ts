@@ -11,4 +11,6 @@ export const padraoDosDescobrimentos = {
   sourceUrl:
     "https://www.google.com/maps/place/Padr%C3%A3o+dos+Descobrimentos/data=!4m2!3m1!1s0xd1ecb440d5eca49:0x7f48f00e8bf9e619",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.741Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

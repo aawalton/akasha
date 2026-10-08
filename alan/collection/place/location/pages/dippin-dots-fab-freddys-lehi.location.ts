@@ -11,4 +11,6 @@ export const dippinDotsFabFreddysLehi = {
   longitude: -111.8486019,
   sourcePlaceId: "ssc:loc:dippin-dots-fab-freddys:lehi",
   locationSource: "starving-student-card",
+  createdAt: "2026-07-05T12:06:50.244Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

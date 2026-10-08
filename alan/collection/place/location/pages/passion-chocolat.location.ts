@@ -13,4 +13,6 @@ export const passionChocolat = {
   sourceUrl:
     "https://www.google.com/maps/place/Passion+Chocolat/data=!4m2!3m1!1s0x47c3c47dbc2d818f:0x5287fd6409077b83",
   locationSource: "saved:Belgium",
+  createdAt: "2026-06-30T23:45:05.756Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

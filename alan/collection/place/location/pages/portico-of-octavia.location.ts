@@ -11,4 +11,6 @@ export const porticoOfOctavia = {
   sourceUrl:
     "https://www.google.com/maps/place/Portico+of+Octavia/data=!4m2!3m1!1s0x132f6049457431a5:0x5d73532f3eb9c950",
   locationSource: "saved:Rome, Italy",
+  createdAt: "2026-07-01T01:26:58.248Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const duPainEtDesIdees = {
   sourceUrl:
     "https://www.google.com/maps/place/Du+Pain+et+des+Id%C3%A9es/data=!4m2!3m1!1s0x47e66e0bfc163805:0x3413388064195613",
   locationSource: "saved:Paris, France",
+  createdAt: "2026-06-30T23:45:05.496Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

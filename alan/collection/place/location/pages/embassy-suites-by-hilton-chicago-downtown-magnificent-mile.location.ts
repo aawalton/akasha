@@ -11,4 +11,6 @@ export const embassySuitesByHiltonChicagoDowntownMagnificentMile = {
   sourceUrl:
     "https://www.google.com/maps/place/Embassy+Suites+by+Hilton+Chicago+Downtown+Magnificent+Mile/data=!4m2!3m1!1s0x880e2caa4065c237:0xe146889acc4a0768",
   locationSource: "saved:IL, Chicago",
+  createdAt: "2026-06-30T23:45:05.712Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

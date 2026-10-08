@@ -11,4 +11,6 @@ export const erawanThaiCuisine = {
   sourceUrl:
     "https://www.google.com/maps/place/Erawan+%7C+Thai+Cuisine/data=!4m2!3m1!1s0x80b56179af33e407:0xa9b3196e477cbd42",
   locationSource: "saved:UT, Cedar City",
+  createdAt: "2026-06-30T23:45:05.690Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

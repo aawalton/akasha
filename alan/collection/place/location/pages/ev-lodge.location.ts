@@ -12,4 +12,6 @@ export const evLodge = {
   sourceUrl:
     "https://www.google.com/maps/place/Ev+Lodge/data=!4m2!3m1!1s0x87c0e7bd525bc11b:0x1d73a50c3c4dd5f3",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.224Z",
+  updatedAt: "2026-09-15T17:20:22.000Z",
 } as const satisfies Location

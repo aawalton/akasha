@@ -11,4 +11,6 @@ export const hotelIndigoWacoBaylor = {
   sourceUrl:
     "https://www.google.com/maps/place/Hotel+Indigo+Waco+-+Baylor/data=!4m2!3m1!1s0x864f825a79788e85:0x830cfa4eef54c8e8",
   locationSource: "saved:Waco, Texas",
+  createdAt: "2026-06-30T23:45:05.685Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

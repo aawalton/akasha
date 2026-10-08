@@ -11,4 +11,6 @@ export const marcheArtisanFoods = {
   sourceUrl:
     "https://www.google.com/maps/place/March%C3%A9+Artisan+Foods/data=!4m2!3m1!1s0x886467d285eaac9f:0x18c1e9585c0ee42f",
   locationSource: "saved:Nashville, Tennessee",
+  createdAt: "2026-06-30T23:45:05.504Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

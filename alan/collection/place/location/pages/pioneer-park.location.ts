@@ -11,4 +11,6 @@ export const pioneerPark = {
   sourceUrl:
     "https://www.google.com/maps/place/Pioneer+Park/data=!4m2!3m1!1s0x80ca44cbe9b30605:0xfabbdfd3c4c625",
   locationSource: "saved:UT, St. George",
+  createdAt: "2026-06-30T23:45:05.669Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

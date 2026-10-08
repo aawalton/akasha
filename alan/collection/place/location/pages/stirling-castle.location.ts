@@ -12,4 +12,6 @@ export const stirlingCastle = {
   sourceUrl:
     "https://www.google.com/maps/place/Stirling+Castle/data=!4m2!3m1!1s0x48886292283cd5a7:0x7c5004fb1541fb67",
   locationSource: "saved:Scotland",
+  createdAt: "2026-06-30T23:45:05.674Z",
+  updatedAt: "2026-09-15T17:22:08.000Z",
 } as const satisfies Location

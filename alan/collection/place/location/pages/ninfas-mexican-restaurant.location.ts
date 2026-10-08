@@ -11,4 +11,6 @@ export const ninfasMexicanRestaurant = {
   sourceUrl:
     "https://www.google.com/maps/place/Ninfa's+Mexican+Restaurant/data=!4m2!3m1!1s0x864f8251b239f229:0x94cf80d26839da3e",
   locationSource: "saved:Waco, Texas",
+  createdAt: "2026-07-01T01:26:58.887Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

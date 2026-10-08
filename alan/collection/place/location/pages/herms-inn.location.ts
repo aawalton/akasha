@@ -11,4 +11,6 @@ export const hermsInn = {
   sourceUrl:
     "https://www.google.com/maps/place/Herm's+Inn/data=!4m2!3m1!1s0x87547e8539e44287:0x2673d1ca3f96f9a9",
   locationSource: "saved:Ut, Logan",
+  createdAt: "2026-06-30T23:45:05.802Z",
+  updatedAt: "2026-09-15T17:20:44.000Z",
 } as const satisfies Location

@@ -11,4 +11,6 @@ export const siegfriedsDelicatessen = {
   sourceUrl:
     "https://www.google.com/maps/place/Siegfried's+Delicatessen/data=!4m2!3m1!1s0x8752f50f798a1405:0xfea701e9797089a0",
   locationSource: "saved:Want to go",
+  createdAt: "2026-06-30T23:45:05.345Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location

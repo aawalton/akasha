@@ -11,4 +11,6 @@ export const museumGouda = {
   sourceUrl:
     "https://www.google.com/maps/place/Museum+Gouda/data=!4m2!3m1!1s0x47c5d402efab4425:0x389c5559e943b79e",
   locationSource: "saved:Netherlands",
+  createdAt: "2026-06-30T23:45:05.610Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

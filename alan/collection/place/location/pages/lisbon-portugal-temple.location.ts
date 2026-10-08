@@ -11,4 +11,6 @@ export const lisbonPortugalTemple = {
   sourceUrl:
     "https://www.google.com/maps/place/Lisbon+Portugal+Temple/data=!4m2!3m1!1s0xd1931f52468b25f:0x848011c69aa026b9",
   locationSource: "saved:Lisbon, Portugal",
+  createdAt: "2026-06-30T23:45:05.722Z",
+  updatedAt: "2026-09-15T17:21:15.000Z",
 } as const satisfies Location

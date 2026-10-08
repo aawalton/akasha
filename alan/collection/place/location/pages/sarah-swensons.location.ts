@@ -10,4 +10,6 @@ export const sarahSwensons = {
   longitude: -111.92730929999999,
   sourcePlaceId: "takeout:sarah-swenson-s:471-w-rolling-sage-way-saratoga-springs-ut-84045-usa",
   locationSource: "labeled",
+  createdAt: "2026-06-30T23:45:05.879Z",
+  updatedAt: "2026-09-15T17:21:46.000Z",
 } as const satisfies Location
