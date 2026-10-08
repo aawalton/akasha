@@ -7,10 +7,10 @@ export const cleanToilet = {
   title: "Clean toilet",
   toDoCategory: "health",
   difficulty: "hard",
-  toDoDueDate: "2026-10-08",
+  toDoDueDate: "2026-10-26",
   priority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 30,
   toDoValue: "value/health",
-  toDoLastCompletedAt: "2026-09-07T12:01:33.319Z",
+  toDoLastCompletedAt: "2026-10-08T14:41:10.889Z",
 } as const satisfies ToDo
