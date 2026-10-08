@@ -8,6 +8,7 @@ export const foodEntry20261008KirklandChocolateChipGranolaBar = {
   happenedAt: "2026-10-08T17:48:00.000Z",
   plantGrams: 12,
   estimatedCalories: 100,
+  cover: "image/image-649b567659fb55b0",
   createdAt: "2026-10-08T17:48:57.066Z",
-  updatedAt: "2026-10-08T17:48:57.066Z",
+  updatedAt: "2026-10-08T17:53:22.747Z",
 } as const satisfies FoodEntry
