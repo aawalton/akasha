@@ -8,10 +8,6 @@ export const astraPageTimestamps = {
   persona: "persona/astra",
   intentStack: [
     {
-      statement:
-        "A generator kind states whether it works its value out again when committed values change.",
-    },
-    {
       statement: "A page being created is given the moment it was created as `created-at`.",
     },
     {
