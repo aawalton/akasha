@@ -20,4 +20,6 @@ export const thePrimalHunter0165Chapter1292NegotiatingWithFrogs101 = {
   ],
   publishedAt: "2026-04-13",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.109Z",
+  updatedAt: "2026-09-28T20:27:37.000Z",
 } as const satisfies StoryChapterRead

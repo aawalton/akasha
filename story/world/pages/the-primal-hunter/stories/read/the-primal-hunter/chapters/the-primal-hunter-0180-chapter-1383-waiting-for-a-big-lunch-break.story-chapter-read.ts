@@ -20,4 +20,6 @@ export const thePrimalHunter0180Chapter1383WaitingForABigLunchBreak = {
   story: "story-read/the-primal-hunter",
   ownLength: 2858,
   prose: "txt",
+  createdAt: "2026-09-16T16:03:45.207Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

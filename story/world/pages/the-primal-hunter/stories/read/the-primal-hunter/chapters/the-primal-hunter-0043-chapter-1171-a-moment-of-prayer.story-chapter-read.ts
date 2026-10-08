@@ -21,4 +21,6 @@ export const thePrimalHunter0043Chapter1171AMomentOfPrayer = {
   ownProgress: 2836,
   completedAt: "2026-06-29T19:30:37.341Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.050Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

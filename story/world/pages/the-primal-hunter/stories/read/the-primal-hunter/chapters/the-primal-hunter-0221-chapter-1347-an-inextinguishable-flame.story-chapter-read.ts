@@ -20,4 +20,6 @@ export const thePrimalHunter0221Chapter1347AnInextinguishableFlame = {
   ],
   publishedAt: "2026-07-06",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.137Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

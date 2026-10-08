@@ -18,4 +18,6 @@ export const theRunesmith0089Ch87 = {
   ],
   publishedAt: "2022-01-16",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.244Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const thePrimalHunter0174Chapter1377TakingAdvantageOfTheSituation = {
   title: "Chapter 1377 - Taking Advantage of the Situation",
   ownLength: 2699,
   prose: "txt",
+  createdAt: "2026-09-08T16:19:40.892Z",
+  updatedAt: "2026-09-28T20:27:37.000Z",
 } as const satisfies StoryChapterRead

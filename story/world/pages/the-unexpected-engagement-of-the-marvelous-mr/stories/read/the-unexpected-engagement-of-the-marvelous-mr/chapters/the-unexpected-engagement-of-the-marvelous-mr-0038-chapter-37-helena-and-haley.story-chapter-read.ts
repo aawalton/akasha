@@ -20,4 +20,6 @@ export const theUnexpectedEngagementOfTheMarvelousMr0038Chapter37HelenaAndHaley 
   ],
   publishedAt: "2022-06-29",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.146Z",
+  updatedAt: "2026-09-28T20:27:42.000Z",
 } as const satisfies StoryChapterRead

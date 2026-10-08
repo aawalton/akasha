@@ -20,4 +20,6 @@ export const theUnexpectedEngagementOfTheMarvelousMr0039Chapter38RaphaelSStory =
   ],
   publishedAt: "2022-06-30",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.148Z",
+  updatedAt: "2026-09-28T20:27:42.000Z",
 } as const satisfies StoryChapterRead

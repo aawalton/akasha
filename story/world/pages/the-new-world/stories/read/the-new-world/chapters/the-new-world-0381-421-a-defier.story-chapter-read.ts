@@ -21,4 +21,6 @@ export const theNewWorld0381421ADefier = {
   ownProgress: 6173,
   completedAt: "2026-06-29T21:34:23.975Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.317Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

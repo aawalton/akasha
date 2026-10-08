@@ -21,4 +21,6 @@ export const theStubbornSkillGrinderInATimeLoopBook0033Chapter102TestingLimitsI 
   ownProgress: 15250,
   completedAt: "2026-06-29T20:05:09.109Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.382Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

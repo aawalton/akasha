@@ -21,4 +21,6 @@ export const thePrimalHunter0136Chapter1263HowToTrainAGeneration = {
   ownProgress: 3075,
   completedAt: "2026-06-29T19:35:17.769Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.096Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

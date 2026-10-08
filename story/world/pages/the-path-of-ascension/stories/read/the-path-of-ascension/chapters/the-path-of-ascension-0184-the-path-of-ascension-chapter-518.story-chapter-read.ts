@@ -20,4 +20,6 @@ export const thePathOfAscension0184ThePathOfAscensionChapter518 = {
   story: "story-read/the-path-of-ascension",
   ownLength: 11953,
   prose: "txt",
+  createdAt: "2026-09-14T19:07:26.923Z",
+  updatedAt: "2026-09-28T20:27:36.000Z",
 } as const satisfies StoryChapterRead

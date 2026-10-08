@@ -20,4 +20,6 @@ export const thePrimalHunter0181Chapter1384TheMysteryOfTheGoldenStatues = {
   story: "story-read/the-primal-hunter",
   ownLength: 2703,
   prose: "txt",
+  createdAt: "2026-09-17T16:05:35.311Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

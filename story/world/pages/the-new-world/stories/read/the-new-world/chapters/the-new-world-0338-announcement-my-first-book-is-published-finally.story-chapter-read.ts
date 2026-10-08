@@ -21,4 +21,6 @@ export const theNewWorld0338AnnouncementMyFirstBookIsPublishedFinally = {
   ownProgress: 280,
   completedAt: "2026-06-29T21:32:50.242Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.290Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

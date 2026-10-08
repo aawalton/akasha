@@ -20,4 +20,6 @@ export const thePrimalHunter0166Chapter1369Swordsmanship = {
   ],
   publishedAt: "2026-08-05",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.110Z",
+  updatedAt: "2026-09-28T20:27:37.000Z",
 } as const satisfies StoryChapterRead

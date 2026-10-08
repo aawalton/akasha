@@ -21,4 +21,6 @@ export const theStubbornSkillGrinderInATimeLoopBook0023Chapter94DiversifyingTheB
   ownProgress: 17178,
   completedAt: "2026-06-29T20:04:48.482Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.357Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

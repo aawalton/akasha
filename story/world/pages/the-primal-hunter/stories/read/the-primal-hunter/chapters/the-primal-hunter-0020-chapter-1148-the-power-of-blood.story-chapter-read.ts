@@ -21,4 +21,6 @@ export const thePrimalHunter0020Chapter1148ThePowerOfBlood = {
   ownProgress: 3076,
   completedAt: "2026-06-29T19:29:53.436Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.034Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

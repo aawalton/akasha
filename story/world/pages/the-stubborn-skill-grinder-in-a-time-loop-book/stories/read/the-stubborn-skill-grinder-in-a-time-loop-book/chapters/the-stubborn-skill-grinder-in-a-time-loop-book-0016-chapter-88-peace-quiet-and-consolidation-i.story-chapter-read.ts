@@ -21,4 +21,6 @@ export const theStubbornSkillGrinderInATimeLoopBook0016Chapter88PeaceQuietAndCon
   ownProgress: 8236,
   completedAt: "2026-06-29T20:04:35.113Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.344Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

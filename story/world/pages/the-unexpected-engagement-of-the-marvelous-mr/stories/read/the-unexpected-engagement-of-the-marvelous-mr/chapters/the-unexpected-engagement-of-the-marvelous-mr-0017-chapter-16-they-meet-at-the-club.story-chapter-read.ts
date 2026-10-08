@@ -20,4 +20,6 @@ export const theUnexpectedEngagementOfTheMarvelousMr0017Chapter16TheyMeetAtTheCl
   ],
   publishedAt: "2022-06-07",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.137Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

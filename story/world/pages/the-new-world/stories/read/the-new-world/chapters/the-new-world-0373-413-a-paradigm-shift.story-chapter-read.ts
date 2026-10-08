@@ -21,4 +21,6 @@ export const theNewWorld0373413AParadigmShift = {
   ownProgress: 5127,
   completedAt: "2026-06-29T21:34:07.181Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.311Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

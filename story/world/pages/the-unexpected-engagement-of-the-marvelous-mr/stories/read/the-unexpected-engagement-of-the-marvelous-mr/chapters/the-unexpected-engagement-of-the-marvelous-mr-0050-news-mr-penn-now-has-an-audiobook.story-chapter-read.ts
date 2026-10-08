@@ -20,4 +20,6 @@ export const theUnexpectedEngagementOfTheMarvelousMr0050NewsMrPennNowHasAnAudiob
   ],
   publishedAt: "2026-06-05",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.152Z",
+  updatedAt: "2026-09-28T20:27:42.000Z",
 } as const satisfies StoryChapterRead

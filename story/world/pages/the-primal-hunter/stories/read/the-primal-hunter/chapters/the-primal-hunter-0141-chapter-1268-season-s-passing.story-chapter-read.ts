@@ -21,4 +21,6 @@ export const thePrimalHunter0141Chapter1268SeasonSPassing = {
   ownProgress: 2802,
   completedAt: "2026-06-29T19:34:46.008Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.097Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

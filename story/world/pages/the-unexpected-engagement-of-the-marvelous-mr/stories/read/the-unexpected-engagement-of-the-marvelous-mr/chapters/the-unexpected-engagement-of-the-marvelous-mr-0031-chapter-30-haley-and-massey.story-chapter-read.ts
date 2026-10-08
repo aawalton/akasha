@@ -20,4 +20,6 @@ export const theUnexpectedEngagementOfTheMarvelousMr0031Chapter30HaleyAndMassey 
   ],
   publishedAt: "2022-06-22",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.144Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

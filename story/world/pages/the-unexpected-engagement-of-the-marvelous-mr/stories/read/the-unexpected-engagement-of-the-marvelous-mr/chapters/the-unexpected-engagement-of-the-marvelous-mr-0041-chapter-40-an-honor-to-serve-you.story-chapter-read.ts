@@ -20,4 +20,6 @@ export const theUnexpectedEngagementOfTheMarvelousMr0041Chapter40AnHonorToServeY
   ],
   publishedAt: "2022-07-02",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.150Z",
+  updatedAt: "2026-09-28T20:27:42.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const theStubbornSkillGrinderInATimeLoopBook0009Chapter82PortBellgraveRev
   ownProgress: 22816,
   completedAt: "2026-06-29T20:04:20.697Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.322Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

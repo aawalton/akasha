@@ -20,4 +20,6 @@ export const theUnexpectedEngagementOfTheMarvelousMr0046Chapter45TheArrest = {
   ],
   publishedAt: "2022-07-06",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.151Z",
+  updatedAt: "2026-09-28T20:27:42.000Z",
 } as const satisfies StoryChapterRead

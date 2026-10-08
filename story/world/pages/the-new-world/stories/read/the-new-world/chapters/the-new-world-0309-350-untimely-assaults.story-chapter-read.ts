@@ -21,4 +21,6 @@ export const theNewWorld0309350UntimelyAssaults = {
   ownProgress: 3312,
   completedAt: "2026-06-29T21:31:46.505Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.281Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

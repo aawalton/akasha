@@ -21,4 +21,6 @@ export const thePrimalHunter0109Chapter1237DragonHunter6 = {
   ownProgress: 3439,
   completedAt: "2026-06-29T19:32:43.413Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.080Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const thePrimalHunter0153Chapter1280UncomfortableTruthsAndAFewMoreBeers =
   ],
   publishedAt: "2026-03-26",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.101Z",
+  updatedAt: "2026-09-28T20:27:37.000Z",
 } as const satisfies StoryChapterRead

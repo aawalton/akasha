@@ -20,4 +20,6 @@ export const thePrimalHunter0179Chapter1382GateOfAbundance = {
   story: "story-read/the-primal-hunter",
   ownLength: 2751,
   prose: "txt",
+  createdAt: "2026-09-15T16:03:43.824Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

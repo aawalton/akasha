@@ -21,4 +21,6 @@ export const thePathOfAscension0164ThePathOfAscensionChapter465 = {
   ownProgress: 5636,
   completedAt: "2026-06-29T19:33:23.835Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.719Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

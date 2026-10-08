@@ -21,4 +21,6 @@ export const thePrimalHunter0022Chapter1150ReturnOfTheKing2GoldEdition = {
   ownProgress: 2709,
   completedAt: "2026-06-29T19:29:57.185Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.038Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const theNewWorld0402442AFracturedReality = {
   ownProgress: 4366,
   completedAt: "2026-06-29T21:35:10.176Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.334Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const theNewWorld0296337ScorchedEarthAndShiningSoil = {
   ownProgress: 3282,
   completedAt: "2026-06-29T21:31:22.014Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.275Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

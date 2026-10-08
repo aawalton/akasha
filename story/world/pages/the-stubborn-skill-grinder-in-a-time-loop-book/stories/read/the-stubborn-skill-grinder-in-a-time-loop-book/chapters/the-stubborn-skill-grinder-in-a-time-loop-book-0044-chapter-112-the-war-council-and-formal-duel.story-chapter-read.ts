@@ -21,4 +21,6 @@ export const theStubbornSkillGrinderInATimeLoopBook0044Chapter112TheWarCouncilAn
   ownProgress: 13381,
   completedAt: "2026-06-29T20:05:31.258Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.408Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

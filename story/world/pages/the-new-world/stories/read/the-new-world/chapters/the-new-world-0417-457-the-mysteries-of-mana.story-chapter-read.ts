@@ -21,4 +21,6 @@ export const theNewWorld0417457TheMysteriesOfMana = {
   ownProgress: 2714,
   completedAt: "2026-06-29T21:35:41.433Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.347Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

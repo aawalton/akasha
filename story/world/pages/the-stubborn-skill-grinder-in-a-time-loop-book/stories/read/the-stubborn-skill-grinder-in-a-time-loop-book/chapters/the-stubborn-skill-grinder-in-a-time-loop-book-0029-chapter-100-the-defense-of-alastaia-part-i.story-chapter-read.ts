@@ -21,4 +21,6 @@ export const theStubbornSkillGrinderInATimeLoopBook0029Chapter100TheDefenseOfAla
   ownProgress: 18240,
   completedAt: "2026-06-29T20:05:00.711Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.372Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

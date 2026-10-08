@@ -20,4 +20,6 @@ export const thePrimalHunter0171Chapter1374LocalResidents = {
   title: "Chapter 1374 - Local Residents",
   ownLength: 2657,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:31.381Z",
+  updatedAt: "2026-09-28T20:27:37.000Z",
 } as const satisfies StoryChapterRead

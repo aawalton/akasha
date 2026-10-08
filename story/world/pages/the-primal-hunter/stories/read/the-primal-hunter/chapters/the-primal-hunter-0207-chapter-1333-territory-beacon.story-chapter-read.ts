@@ -20,4 +20,6 @@ export const thePrimalHunter0207Chapter1333TerritoryBeacon = {
   ],
   publishedAt: "2026-06-12",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.132Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

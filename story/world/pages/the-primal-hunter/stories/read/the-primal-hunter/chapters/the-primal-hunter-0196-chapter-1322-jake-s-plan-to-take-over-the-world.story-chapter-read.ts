@@ -20,4 +20,6 @@ export const thePrimalHunter0196Chapter1322JakeSPlanToTakeOverTheWorld = {
   ],
   publishedAt: "2026-05-28",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.125Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

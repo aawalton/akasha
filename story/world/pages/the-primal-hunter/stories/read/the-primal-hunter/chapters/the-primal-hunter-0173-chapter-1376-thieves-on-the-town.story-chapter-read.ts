@@ -20,4 +20,6 @@ export const thePrimalHunter0173Chapter1376ThievesOnTheTown = {
   title: "Chapter 1376 - Thieves On the Town",
   ownLength: 2618,
   prose: "txt",
+  createdAt: "2026-09-07T16:08:03.149Z",
+  updatedAt: "2026-09-28T20:27:37.000Z",
 } as const satisfies StoryChapterRead

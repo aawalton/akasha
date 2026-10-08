@@ -21,4 +21,6 @@ export const theNewWorld0325366AMindOfMetal = {
   ownProgress: 3554,
   completedAt: "2026-06-29T21:32:21.691Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.287Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

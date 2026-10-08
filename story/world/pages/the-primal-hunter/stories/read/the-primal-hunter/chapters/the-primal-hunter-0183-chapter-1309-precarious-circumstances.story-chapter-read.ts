@@ -20,4 +20,6 @@ export const thePrimalHunter0183Chapter1309PrecariousCircumstances = {
   ],
   publishedAt: "2026-05-11",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.119Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

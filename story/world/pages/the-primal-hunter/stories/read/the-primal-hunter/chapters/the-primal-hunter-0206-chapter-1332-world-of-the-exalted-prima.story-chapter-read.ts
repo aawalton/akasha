@@ -20,4 +20,6 @@ export const thePrimalHunter0206Chapter1332WorldOfTheExaltedPrima = {
   ],
   publishedAt: "2026-06-11",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.132Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

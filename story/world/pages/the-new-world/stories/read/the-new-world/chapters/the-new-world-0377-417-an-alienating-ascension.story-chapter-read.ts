@@ -21,4 +21,6 @@ export const theNewWorld0377417AnAlienatingAscension = {
   ownProgress: 5387,
   completedAt: "2026-06-29T21:34:15.687Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.314Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -11,4 +11,6 @@ export const theWanderingInnEverythingUnread = {
   story: "story-read/the-wandering-inn",
   ownLength: 2035965,
   prose: "txt",
+  createdAt: "2026-09-29T02:46:32.151Z",
+  updatedAt: "2026-09-29T03:08:31.000Z",
 } as const satisfies StoryChapterRead

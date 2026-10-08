@@ -20,4 +20,6 @@ export const thePrimalHunter0178Chapter1381StaffOfTheMagi = {
   story: "story-read/the-primal-hunter",
   ownLength: 2816,
   prose: "txt",
+  createdAt: "2026-09-14T16:07:46.375Z",
+  updatedAt: "2026-09-28T20:27:37.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const thePrimalHunter0234Chapter1360BeyondTheSpatialDistortion = {
   ],
   publishedAt: "2026-07-23",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.146Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

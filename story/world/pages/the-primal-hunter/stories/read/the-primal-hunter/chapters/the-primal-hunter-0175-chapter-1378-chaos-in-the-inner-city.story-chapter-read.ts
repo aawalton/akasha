@@ -20,4 +20,6 @@ export const thePrimalHunter0175Chapter1378ChaosInTheInnerCity = {
   story: "story-read/the-primal-hunter",
   ownLength: 2731,
   prose: "txt",
+  createdAt: "2026-09-09T16:03:21.935Z",
+  updatedAt: "2026-09-28T20:27:37.000Z",
 } as const satisfies StoryChapterRead

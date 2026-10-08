@@ -20,4 +20,6 @@ export const thePrimalHunter0227Chapter1353ExploringSystemMechanics = {
   ],
   publishedAt: "2026-07-14",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.143Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const theStubbornSkillGrinderInATimeLoopBook0040Chapter109TheEdgeOfSystem
   ownProgress: 8613,
   completedAt: "2026-06-29T20:05:23.394Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.399Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

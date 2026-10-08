@@ -20,4 +20,6 @@ export const thePathOfAscension0201ThePathOfAscensionChapter501 = {
   ],
   publishedAt: "2026-06-22",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.755Z",
+  updatedAt: "2026-09-28T20:27:36.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const theUnexpectedEngagementOfTheMarvelousMr0027Chapter26TheBody = {
   ],
   publishedAt: "2022-06-17",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.140Z",
+  updatedAt: "2026-09-28T20:27:38.000Z",
 } as const satisfies StoryChapterRead

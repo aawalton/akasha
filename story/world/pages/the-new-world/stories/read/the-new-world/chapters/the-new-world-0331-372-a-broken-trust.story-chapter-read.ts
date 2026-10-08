@@ -21,4 +21,6 @@ export const theNewWorld0331372ABrokenTrust = {
   ownProgress: 2216,
   completedAt: "2026-06-29T21:32:34.402Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.288Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

@@ -21,4 +21,6 @@ export const theStubbornSkillGrinderInATimeLoopBook0036Chapter105AnInvasionAndAN
   ownProgress: 22607,
   completedAt: "2026-06-29T20:05:15.383Z",
   prose: "txt",
+  createdAt: "2026-09-03T12:13:34.393Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead
