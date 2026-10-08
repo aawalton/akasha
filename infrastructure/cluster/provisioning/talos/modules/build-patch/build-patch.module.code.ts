@@ -45,10 +45,13 @@ function kernelModulesBlock(node: NodeIntent): Record<string, unknown> {
 
 const USER_NAMESPACES = "1048576"
 
+const MAP_COUNT = "1048576"
+
 function sysctlsBlock(node: NodeIntent): Record<string, unknown> {
   return {
     sysctls: {
       "user.max_user_namespaces": USER_NAMESPACES,
+      "vm.max_map_count": MAP_COUNT,
       ...(hasNvidiaDriver(node) ? { "net.core.bpf_jit_harden": "1" } : {}),
     },
   }

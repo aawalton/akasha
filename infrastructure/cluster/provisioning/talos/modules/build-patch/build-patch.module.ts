@@ -7,8 +7,12 @@ export const buildPatch = {
   definition: "a node and its cluster turned into a Talos machine-config patch",
   decisions: [
     { decisionKind: "decision-kind/departure", statement: "Every node admits a user namespace." },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every node admits a million memory mappings in one process.",
+    },
   ],
   code: "ts",
   createdAt: "2026-09-03T16:21:42.287Z",
-  updatedAt: "2026-09-15T18:34:44.000Z",
+  updatedAt: "2026-10-08T17:02:30.411Z",
 } as const satisfies Module
