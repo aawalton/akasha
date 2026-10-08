@@ -9,4 +9,6 @@ export const audio3c2aaa0d7f1b2404 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "And now you have forgotten these fine sentiments, and pay no respect to us the laws, of whom you are the destroyer; and are doing what only a miserable slave would do, running away and turning your back upon the compacts and agreements which you made as a citizen. And first of all answer this very question: Are we right in saying that you agreed to be governed according to us in deed, and not in word only? Is that true or not?' How shall we answer, Crito? Must we not assent?",
+  createdAt: "2026-09-21T23:27:49.828Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

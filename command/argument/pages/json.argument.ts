@@ -7,4 +7,6 @@ export const json = {
   said: "--json",
   takes: "answer as JSON rather than as the lines a reader takes",
   value: "none",
+  createdAt: "2026-09-12T07:05:58.917Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

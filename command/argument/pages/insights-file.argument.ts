@@ -8,4 +8,6 @@ export const insightsFile = {
   takes: "the file the insights are read from",
   value: "path",
   placeholder: "file",
+  createdAt: "2026-09-12T09:14:43.853Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

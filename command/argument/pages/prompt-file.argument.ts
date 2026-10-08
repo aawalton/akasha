@@ -8,4 +8,6 @@ export const promptFile = {
   takes: "the file the prompt is read from, or `-` for standard input",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T08:59:46.748Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

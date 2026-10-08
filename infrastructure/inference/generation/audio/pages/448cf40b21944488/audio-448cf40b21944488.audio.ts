@@ -5,4 +5,6 @@ export const audio448cf40b21944488 = {
   type: "page-type/audio",
   slug: "audio-448cf40b21944488",
   title: "Ember voice reference",
+  createdAt: "2026-09-21T23:27:38.313Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

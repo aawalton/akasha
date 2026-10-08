@@ -36,4 +36,6 @@ export const zaraLarsson = {
     "disco",
     "hip hop",
   ],
+  createdAt: "2026-06-08T00:23:52.750Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Artist

@@ -9,4 +9,6 @@ export const audio48508af8ee5d7ecf = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Clover, he said. Late clover. I couldn't tell you clover from anything, but I believed him.",
+  createdAt: "2026-09-21T23:31:08.599Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

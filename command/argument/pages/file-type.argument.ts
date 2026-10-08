@@ -8,4 +8,6 @@ export const fileType = {
   takes: "a kind of file as ripgrep names kinds, such as `ts` or `json`",
   value: "text",
   placeholder: "kind",
+  createdAt: "2026-09-25T16:19:07.233Z",
+  updatedAt: "2026-09-25T16:19:30.000Z",
 } as const satisfies Argument

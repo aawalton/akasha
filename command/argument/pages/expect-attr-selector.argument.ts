@@ -8,4 +8,6 @@ export const expectAttrSelector = {
   takes: "the element an attribute is read off",
   value: "text",
   placeholder: "sel",
+  createdAt: "2026-09-12T08:49:10.143Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

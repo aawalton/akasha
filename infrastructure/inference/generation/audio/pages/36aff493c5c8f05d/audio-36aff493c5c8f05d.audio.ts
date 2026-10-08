@@ -9,4 +9,6 @@ export const audio36aff493c5c8f05d = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Killing [Storm Sailors] with each volley. She had seen this vessel before. The Singer finally remembered where. The battle at sea. She uttered one word. “Rhir.”",
+  createdAt: "2026-09-21T23:32:48.291Z",
+  updatedAt: "2026-09-21T23:32:49.000Z",
 } as const satisfies Audio

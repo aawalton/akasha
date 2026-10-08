@@ -9,4 +9,6 @@ export const audio2a0117cf36c2806f = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Zadi reached over and pressed the lid down without being asked, and went back to her coffee.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

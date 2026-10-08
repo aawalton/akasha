@@ -8,4 +8,6 @@ export const initiative = {
   takes: "an initiative, named by the slug that initiative declares",
   value: "text",
   placeholder: "initiative",
+  createdAt: "2026-09-12T08:52:17.602Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

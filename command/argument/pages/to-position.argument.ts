@@ -8,4 +8,6 @@ export const toPosition = {
   takes: "the position the rule moves to, counted over the rules a person wrote",
   value: "whole-number",
   placeholder: "index",
+  createdAt: "2026-09-12T10:04:50.280Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

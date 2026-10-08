@@ -8,4 +8,6 @@ export const method = {
   takes: "how the host hands over, `auto` where none is said",
   value: "text",
   placeholder: "auto|kexec|dd",
+  createdAt: "2026-09-12T09:18:59.238Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

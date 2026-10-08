@@ -37,4 +37,6 @@ export const billieEilish = {
     "contemporary r&b",
     "indie pop",
   ],
+  createdAt: "2026-06-08T00:35:35.942Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Artist

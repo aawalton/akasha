@@ -8,4 +8,6 @@ export const readingsDir = {
   takes: "the folder holding one file of gathered readings to a chapter",
   value: "text",
   placeholder: "dir",
+  createdAt: "2026-09-19T00:10:20.446Z",
+  updatedAt: "2026-09-19T00:16:27.000Z",
 } as const satisfies Argument

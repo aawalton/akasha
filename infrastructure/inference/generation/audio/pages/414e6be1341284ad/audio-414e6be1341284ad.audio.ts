@@ -9,4 +9,6 @@ export const audio414e6be1341284ad = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The intensive-care tomatoes.",
+  createdAt: "2026-09-21T23:31:08.600Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

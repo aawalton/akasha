@@ -8,4 +8,6 @@ export const modelTest = {
   takes: "the model test whose prompt is put to the model",
   value: "text",
   placeholder: "test",
+  createdAt: "2026-09-12T09:35:30.603Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

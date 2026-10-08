@@ -8,4 +8,6 @@ export const expectText = {
   takes: "text the rendered body is to hold",
   value: "text",
   placeholder: "text",
+  createdAt: "2026-09-12T08:48:50.481Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

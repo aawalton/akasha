@@ -21,4 +21,6 @@ export const nickelCreek = {
     },
   ],
   title: "Nickel Creek",
+  createdAt: "2026-09-03T16:04:08.684Z",
+  updatedAt: "2026-09-22T19:47:33.000Z",
 } as const satisfies Artist

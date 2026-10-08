@@ -8,4 +8,6 @@ export const notice = {
   takes: "the notice a seat takes up as its first turn, by that notice's slug",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-13T15:18:34.823Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

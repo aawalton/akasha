@@ -8,4 +8,6 @@ export const id = {
   takes: "the stretch to act on, named by the id that stretch carries",
   value: "text",
   placeholder: "uuid",
+  createdAt: "2026-09-12T09:07:08.151Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const pageType = {
   takes: "the page type the answer is said about",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-12T08:46:12.605Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

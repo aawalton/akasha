@@ -8,4 +8,6 @@ export const packageName = {
   takes: "a folder under `temper/` to typecheck, said once per folder",
   value: "text",
   placeholder: "name",
+  createdAt: "2026-09-12T09:02:52.830Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const toHandle = {
   takes: "who the message goes to, as a phone number, an address, or an address book name",
   value: "text",
   placeholder: "name-or-handle",
+  createdAt: "2026-09-12T10:04:50.276Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

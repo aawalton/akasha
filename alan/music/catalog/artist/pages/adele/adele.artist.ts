@@ -20,4 +20,6 @@ export const adele = {
       lastSyncedAt: "2026-09-24",
     },
   ],
+  createdAt: "2026-09-03T16:04:08.682Z",
+  updatedAt: "2026-09-24T20:46:51.000Z",
 } as const satisfies Artist

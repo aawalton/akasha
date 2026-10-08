@@ -9,4 +9,6 @@ export const waitSeconds = {
   value: "whole-number",
   placeholder: "seconds",
   default: "900",
+  createdAt: "2026-09-22T14:04:31.898Z",
+  updatedAt: "2026-09-22T14:12:39.000Z",
 } as const satisfies Argument

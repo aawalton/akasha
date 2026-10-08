@@ -28,4 +28,6 @@ export const arianaGrande = {
   ],
   title: "Ariana Grande",
   genre: ["pop", "r&b", "dance-pop", "contemporary r&b", "trap soul"],
+  createdAt: "2026-06-08T01:36:34.465Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Artist

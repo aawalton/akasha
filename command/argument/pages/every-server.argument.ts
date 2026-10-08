@@ -7,4 +7,6 @@ export const everyServer = {
   said: "--all",
   takes: "every server a state file tracks, in place of naming one",
   value: "none",
+  createdAt: "2026-09-12T09:24:35.304Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

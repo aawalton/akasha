@@ -9,4 +9,6 @@ export const frames = {
   value: "whole-number",
   placeholder: "n",
   default: "16",
+  createdAt: "2026-09-12T07:28:06.288Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

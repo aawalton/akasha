@@ -8,4 +8,6 @@ export const value = {
   takes: "what the toggle becomes, where `null` takes the entry away",
   value: "text",
   placeholder: "true|false|null",
+  createdAt: "2026-09-12T08:53:52.843Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const subjectFile = {
   takes: "the file the subject is read from, or `-` for standard input",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T09:11:59.270Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

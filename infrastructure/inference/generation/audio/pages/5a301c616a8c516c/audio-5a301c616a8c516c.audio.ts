@@ -9,4 +9,6 @@ export const audio5a301c616a8c516c = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Crito: We cannot help it, Socrates. Socrates: Then will they not say: 'You, Socrates, are breaking the covenants and agreements which you made with us at your leisure, not in any haste or under any compulsion or deception, but after you have had seventy years to think of them, during which time you were at liberty to leave the city, if we were not to your mind, or if our covenants appeared to you to be unfair. You had your choice, and might have gone either to Lacedaemon or Crete, both which states are often praised by you for their good government, or to some other Hellenic or foreign state. Whereas you, above all other Athenians, seemed to be so fond of the state, or, in other words, of us her laws (and who would care about a state which has no laws?), that you never stirred out of her; the halt, the blind, the maimed, were not more stationary in her than you were. And now you run away and forsake your agreements. Not so, Socrates, if you will take our advice; do not make yourself ridiculous by escaping out of the city.",
+  createdAt: "2026-09-21T23:31:36.842Z",
+  updatedAt: "2026-09-21T23:31:38.000Z",
 } as const satisfies Audio

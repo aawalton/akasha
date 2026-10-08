@@ -9,4 +9,6 @@ export const audio35e78ff2f322bf91 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The room stayed that size, this late, pulled in close around the three of them and what was left on the plates.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

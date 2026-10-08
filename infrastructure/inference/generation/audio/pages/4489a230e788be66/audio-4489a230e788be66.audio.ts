@@ -5,4 +5,6 @@ export const audio4489a230e788be66 = {
   type: "page-type/audio",
   slug: "audio-4489a230e788be66",
   title: "Shaestrel voice reference",
+  createdAt: "2026-09-21T23:35:48.146Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

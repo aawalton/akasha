@@ -9,4 +9,6 @@ export const audio41f56ccb233104a5 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "I do ration them. I failed. It was too good, I have no regrets, and now I get the other kind of pleasure, which is choosing the next one. I've got three on the shelf making their cases.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

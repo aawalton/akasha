@@ -8,4 +8,6 @@ export const flex = {
   takes: "`flex-` and a number, which is what keeps it out of every vocabulary",
   value: "text",
   placeholder: "flex-n",
+  createdAt: "2026-09-12T09:17:03.987Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

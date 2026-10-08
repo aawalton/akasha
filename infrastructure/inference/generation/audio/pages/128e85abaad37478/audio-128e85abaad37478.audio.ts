@@ -5,4 +5,6 @@ export const audio128e85abaad37478 = {
   type: "page-type/audio",
   slug: "audio-128e85abaad37478",
   title: "Athena voice reference",
+  createdAt: "2026-09-21T23:27:38.312Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

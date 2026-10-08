@@ -7,4 +7,6 @@ export const fullPage = {
   said: "--full-page",
   takes: "the whole scrolling page rather than what the window holds",
   value: "none",
+  createdAt: "2026-09-21T16:24:23.162Z",
+  updatedAt: "2026-09-21T16:25:55.000Z",
 } as const satisfies Argument

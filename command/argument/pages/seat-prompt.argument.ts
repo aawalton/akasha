@@ -8,4 +8,6 @@ export const seatPrompt = {
   takes: "the text of the first turn the seat takes up",
   value: "text",
   placeholder: "text",
+  createdAt: "2026-09-12T09:12:08.302Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

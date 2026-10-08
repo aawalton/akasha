@@ -8,4 +8,6 @@ export const issuesFile = {
   takes: "the file a reviewer's or a mechanics recorder's issues are read from, one to a line",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-26T17:36:45.585Z",
+  updatedAt: "2026-10-03T15:17:18.000Z",
 } as const satisfies Argument

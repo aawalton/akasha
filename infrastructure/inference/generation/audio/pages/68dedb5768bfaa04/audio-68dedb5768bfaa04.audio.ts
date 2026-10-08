@@ -9,4 +9,6 @@ export const audio68dedb5768bfaa04 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The blue one. I don't even know what it's about. I liked the weight of it in my hand.",
+  createdAt: "2026-09-21T23:31:08.600Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

@@ -8,4 +8,6 @@ export const out = {
   takes: "the file what is made is written to",
   value: "path",
   placeholder: "file",
+  createdAt: "2026-09-21T16:24:19.262Z",
+  updatedAt: "2026-09-21T16:25:55.000Z",
 } as const satisfies Argument

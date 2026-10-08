@@ -8,4 +8,6 @@ export const only = {
   takes: "restrict the run to one addon folder, said once per folder",
   value: "text",
   placeholder: "dir",
+  createdAt: "2026-09-12T08:50:05.231Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

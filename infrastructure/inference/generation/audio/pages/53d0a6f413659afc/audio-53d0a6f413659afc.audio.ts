@@ -9,4 +9,6 @@ export const audio53d0a6f413659afc = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Next month it's my table, and fair warning, I cook one thing well and it's soup. There will be soup, there will be bread I bought from someone more talented than me, and there will be a poem before anyone's allowed to leave. A short one. Traditional.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

@@ -9,4 +9,6 @@ export const audio1dd1298cdbf6a458 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: '"The little ones, by the back step where I can see them from the sink."',
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

@@ -27,4 +27,6 @@ export const jessicaBaio = {
     },
   ],
   title: "Jessica Baio",
+  createdAt: "2026-06-08T01:17:53.302Z",
+  updatedAt: "2026-09-21T22:42:03.000Z",
 } as const satisfies Artist

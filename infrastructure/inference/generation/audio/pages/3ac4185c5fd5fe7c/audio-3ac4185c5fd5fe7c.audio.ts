@@ -9,4 +9,6 @@ export const audio3ac4185c5fd5fe7c = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "This way, please.” Teriarch jerked his head in clear relief. The Dragon began to limp away. The Wyvern Lord waddled after him—then turned. He made an inquisitive, croaking sound. “Hmm?” Chieftain Rags glanced over her shoulders, and the Wyvern Lord waved a wing. She pointed at her face, and he nodded again. Teriarch hesitated, but then sighed. “Appropriate, I suppose. I really shouldn’t have said we’d never meet again, Chieftain Rags.” He winked one of his eyes at her, and she blinked at him. He remembered her? Yes. The Dragonlord remembered everything. His eyes rose skywards, and he muttered under his breath, so softly that all but the Wyvern Lord and Rags didn’t hear him. “Ah! I had better cancel that bounty.” Then he remembered his audience and gave them a guilty smile. They both glowered at him.",
+  createdAt: "2026-09-21T23:31:01.932Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

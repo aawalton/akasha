@@ -22,4 +22,6 @@ export const alexandria = {
   ],
   title: "Alexandria",
   genre: [],
+  createdAt: "2026-09-03T16:04:08.682Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Artist

@@ -26,4 +26,6 @@ export const strength = {
       statement: "A day with no pounds earns nothing rather than a strength of zero.",
     },
   ],
+  createdAt: "2026-09-03T17:12:06.836Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Attribute

@@ -9,4 +9,6 @@ export const audio1342189c7cbaefbe = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Store bread holds honey tighter. Doesn't soak.",
+  createdAt: "2026-09-21T23:31:08.600Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

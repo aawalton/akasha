@@ -8,4 +8,6 @@ export const instructFile = {
   takes: "the file the voice description is read from, or `-` for standard input",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T09:04:55.405Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

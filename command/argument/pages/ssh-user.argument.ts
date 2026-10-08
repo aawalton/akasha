@@ -8,4 +8,6 @@ export const sshUser = {
   takes: "the user to reach the host as, holding sudo without a password",
   value: "text",
   placeholder: "user",
+  createdAt: "2026-09-12T09:17:40.948Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

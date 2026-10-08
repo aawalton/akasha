@@ -8,4 +8,6 @@ export const keptRecord = {
   takes: "the number a list gives an edit kept beside a turn",
   value: "whole-number",
   placeholder: "number",
+  createdAt: "2026-09-28T22:54:15.336Z",
+  updatedAt: "2026-09-28T22:55:18.000Z",
 } as const satisfies Argument

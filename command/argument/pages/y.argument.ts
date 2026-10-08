@@ -8,4 +8,6 @@ export const y = {
   takes: "how far down the viewport the point is",
   value: "whole-number",
   placeholder: "px",
+  createdAt: "2026-09-12T08:31:15.559Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

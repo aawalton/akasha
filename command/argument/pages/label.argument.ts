@@ -8,4 +8,6 @@ export const label = {
   takes: "a label id a listing is held to, said again for each",
   value: "text",
   placeholder: "id",
+  createdAt: "2026-09-12T09:15:44.030Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

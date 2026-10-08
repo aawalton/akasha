@@ -9,4 +9,6 @@ export const audio28aed57734149c01 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "We'll all be using coasters.",
+  createdAt: "2026-09-21T23:31:08.600Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

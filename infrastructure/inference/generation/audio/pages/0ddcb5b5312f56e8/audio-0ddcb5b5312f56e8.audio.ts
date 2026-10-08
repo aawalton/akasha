@@ -9,4 +9,6 @@ export const audio0ddcb5b5312f56e8 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "That one. I'm not proud. I know my one thing, and it's soup.",
+  createdAt: "2026-09-21T23:31:08.600Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

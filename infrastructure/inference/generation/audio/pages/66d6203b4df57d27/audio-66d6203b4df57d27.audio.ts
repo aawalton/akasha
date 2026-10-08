@@ -9,4 +9,6 @@ export const audio66d6203b4df57d27 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "She had it with her, on the chair at her side, the way she carried the ones she was still inside of.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

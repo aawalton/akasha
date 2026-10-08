@@ -8,4 +8,6 @@ export const link = {
   takes: "the game item link read",
   value: "text",
   placeholder: "link",
+  createdAt: "2026-09-12T08:43:32.688Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

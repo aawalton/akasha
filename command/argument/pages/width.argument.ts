@@ -9,4 +9,6 @@ export const width = {
   value: "whole-number",
   placeholder: "n",
   default: "1024",
+  createdAt: "2026-09-12T09:00:29.224Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

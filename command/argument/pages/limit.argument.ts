@@ -8,4 +8,6 @@ export const limit = {
   takes: "the most rows the answer carries",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-12T08:32:27.536Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

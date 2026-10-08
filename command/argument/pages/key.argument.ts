@@ -8,4 +8,6 @@ export const key = {
   takes: "the one secret acted on, as the page type declares that secret",
   value: "text",
   placeholder: "name",
+  createdAt: "2026-09-12T08:50:31.266Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

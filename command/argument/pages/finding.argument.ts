@@ -8,4 +8,6 @@ export const finding = {
   takes: "a finding, named by the slug that finding is filed under",
   value: "text",
   placeholder: "finding",
+  createdAt: "2026-09-19T03:06:01.181Z",
+  updatedAt: "2026-09-19T03:44:27.000Z",
 } as const satisfies Argument

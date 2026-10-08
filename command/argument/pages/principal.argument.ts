@@ -8,4 +8,6 @@ export const principal = {
   takes: "who this seat's output is for — a person, or `agent` for the fleet",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-12T09:16:40.656Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

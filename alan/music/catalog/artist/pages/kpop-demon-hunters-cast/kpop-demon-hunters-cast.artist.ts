@@ -20,4 +20,6 @@ export const kpopDemonHuntersCast = {
     },
   ],
   title: "KPop Demon Hunters Cast",
+  createdAt: "2026-09-03T16:04:08.683Z",
+  updatedAt: "2026-09-22T13:40:12.000Z",
 } as const satisfies Artist

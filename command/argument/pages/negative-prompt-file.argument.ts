@@ -8,4 +8,6 @@ export const negativePromptFile = {
   takes: "the file the negative prompt is read from, or `-` for standard input",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T09:02:16.165Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

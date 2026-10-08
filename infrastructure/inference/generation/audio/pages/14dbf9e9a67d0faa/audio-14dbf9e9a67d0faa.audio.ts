@@ -9,4 +9,6 @@ export const audio14dbf9e9a67d0faa = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "This is the part of the evening I like best, you know. Not the cobbler — well, also the cobbler. But this part. Candles getting low, nobody in a hurry. The conversation starts taking its shoes off.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

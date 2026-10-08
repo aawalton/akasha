@@ -8,4 +8,6 @@ export const since = {
   takes: "how far back the records reach, said in seconds, minutes, hours or days",
   value: "text",
   placeholder: "duration",
+  createdAt: "2026-09-12T08:48:07.164Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

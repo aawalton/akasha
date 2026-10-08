@@ -26,4 +26,6 @@ export const intelligence = {
       statement: "Nothing here counts the topics a commit updated.",
     },
   ],
+  createdAt: "2026-09-03T17:12:06.789Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Attribute

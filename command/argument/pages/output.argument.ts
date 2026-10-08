@@ -8,4 +8,6 @@ export const output = {
   takes: "where what this command makes is written",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T07:27:41.186Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

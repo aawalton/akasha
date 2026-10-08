@@ -8,4 +8,6 @@ export const toggleTarget = {
   takes: "which interface a toggle carried by both is set on",
   value: "text",
   placeholder: "characters|companions",
+  createdAt: "2026-09-12T10:04:50.271Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

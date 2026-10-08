@@ -9,4 +9,6 @@ export const audio179d98e6158e7f4d = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "I brought the honey. Said I would.",
+  createdAt: "2026-09-21T23:31:01.932Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

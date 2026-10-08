@@ -8,4 +8,6 @@ export const timezone = {
   takes: "the IANA zone a start and an end carrying none are read in",
   value: "text",
   placeholder: "iana",
+  createdAt: "2026-09-12T08:59:46.835Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

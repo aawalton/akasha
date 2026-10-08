@@ -8,4 +8,6 @@ export const sshKey = {
   takes: "the private key that user is reached with",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T09:18:28.845Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

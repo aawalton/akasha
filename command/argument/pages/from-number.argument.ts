@@ -8,4 +8,6 @@ export const fromNumber = {
   takes: "the number to send from, written in E.164",
   value: "text",
   placeholder: "e164",
+  createdAt: "2026-09-12T09:22:30.959Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const message = {
   takes: "the message acted on, said as the id Gmail gives it",
   value: "text",
   placeholder: "id",
+  createdAt: "2026-09-12T08:31:49.143Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -11,4 +11,6 @@ export const audio572b1d26352be353 = {
   text: "Mm — you found me at the good hour. The fire's gone gold, and the metal's started singing back. Come stand by the heat… everything worth making has a rhythm. Stay a while, and I'll show you what mine can do.",
   instruct:
     "A young woman's cat-girl voice, warm and playful with an unmistakable feline lilt — she stretches and curls her vowels like a cat, purrs audibly on the ends of words, a teasing nya-like color in her tone; smoky-sweet, mischievous, affectionate.",
+  createdAt: "2026-09-21T23:27:38.313Z",
+  updatedAt: "2026-09-21T23:27:39.000Z",
 } as const satisfies Audio

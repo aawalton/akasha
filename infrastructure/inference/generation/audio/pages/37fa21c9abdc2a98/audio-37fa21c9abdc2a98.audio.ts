@@ -9,4 +9,6 @@ export const audio37fa21c9abdc2a98 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Oh — the poem. Before anybody leaves. I promised a poem and I'm not letting it slide.",
+  createdAt: "2026-09-21T23:31:08.601Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

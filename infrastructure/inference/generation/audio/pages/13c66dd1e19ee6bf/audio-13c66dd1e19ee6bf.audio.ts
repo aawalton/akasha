@@ -9,4 +9,6 @@ export const audio13c66dd1e19ee6bf = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "There's a heel of bread nobody's claimed.",
+  createdAt: "2026-09-21T23:31:18.017Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

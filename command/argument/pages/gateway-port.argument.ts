@@ -8,4 +8,6 @@ export const gatewayPort = {
   takes: "the port to ask for, 0 for any free one",
   value: "whole-number",
   placeholder: "port",
+  createdAt: "2026-09-12T09:40:14.297Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

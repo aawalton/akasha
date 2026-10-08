@@ -9,4 +9,6 @@ export const audio67f9c00532f8f8c3 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "<Title – Recognized by the Empress of Wings Obtained!> [Title Skill – Levy the Satrapy (Birds) Granted!] As for his new Skill…he had no actual idea what it meant. But Laken Godart suddenly had plans to entice a population of birds to join his colony. He could always do crows…but he sort of felt like that was Mavika’s thing. Mostly, though…Laken sighed as he slumped over his table. A gift from the Empress of Wings and valuable information from the future was all very well for someone who’d failed to be the pivotal actor in this event—or even more than a minor part. —But with that said, he couldn’t help but feel a tiny bit jealous that the Witch of Repasts hadn’t stayed. Or if she had to go…he just felt a tiny bit jealous, which he knew was crass of him. However—he couldn’t help it. ——",
+  createdAt: "2026-09-21T23:30:52.344Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

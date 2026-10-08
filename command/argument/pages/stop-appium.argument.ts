@@ -7,4 +7,6 @@ export const stopAppium = {
   said: "--stop-appium",
   takes: "stop the mac's Appium server as well as ending the session",
   value: "none",
+  createdAt: "2026-09-12T08:37:52.483Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

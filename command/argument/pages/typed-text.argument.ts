@@ -8,4 +8,6 @@ export const typedText = {
   takes: "the text typed, `-` reading it from what is piped in",
   value: "text",
   placeholder: "text",
+  createdAt: "2026-09-12T08:38:50.725Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

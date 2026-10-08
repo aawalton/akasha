@@ -9,4 +9,6 @@ export const audio082922771d6e6379 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "There would be bowls to send home with both of them, and she'd set the containers out on the counter by the door before they came.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

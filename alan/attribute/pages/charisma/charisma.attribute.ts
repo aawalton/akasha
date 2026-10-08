@@ -50,4 +50,6 @@ export const charisma = {
       statement: "A day is taken as holding two hundred stretches at the most.",
     },
   ],
+  createdAt: "2026-09-03T17:12:06.722Z",
+  updatedAt: "2026-09-22T14:34:11.000Z",
 } as const satisfies Attribute

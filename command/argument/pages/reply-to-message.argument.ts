@@ -8,4 +8,6 @@ export const replyToMessage = {
   takes: "the message whose id seeds In-Reply-To and References",
   value: "text",
   placeholder: "id",
+  createdAt: "2026-09-12T09:24:57.641Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

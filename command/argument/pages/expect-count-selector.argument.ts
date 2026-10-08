@@ -8,4 +8,6 @@ export const expectCountSelector = {
   takes: "the elements a count is taken over",
   value: "text",
   placeholder: "sel",
+  createdAt: "2026-09-12T08:49:00.228Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

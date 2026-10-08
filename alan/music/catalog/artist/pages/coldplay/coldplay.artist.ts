@@ -37,4 +37,6 @@ export const coldplay = {
     "art pop",
     "britpop",
   ],
+  createdAt: "2026-09-03T16:04:08.683Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Artist

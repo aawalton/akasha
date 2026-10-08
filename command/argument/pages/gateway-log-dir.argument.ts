@@ -8,4 +8,6 @@ export const gatewayLogDir = {
   takes: "where the gateway console and the errors under it are written",
   value: "path",
   placeholder: "dir",
+  createdAt: "2026-09-12T09:39:46.645Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

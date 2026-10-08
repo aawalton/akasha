@@ -9,4 +9,6 @@ export const rootSelector = {
   value: "text",
   placeholder: "sel",
   default: "main",
+  createdAt: "2026-09-12T08:46:17.633Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

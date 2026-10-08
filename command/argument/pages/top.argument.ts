@@ -8,4 +8,6 @@ export const top = {
   takes: "how many rows are in the answer, worst first",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-12T08:45:25.019Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

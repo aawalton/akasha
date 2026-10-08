@@ -7,4 +7,6 @@ export const jsonInOneObject = {
   said: "--json",
   takes: "answer as one JSON object holding every line rather than one object a line",
   value: "none",
+  createdAt: "2026-09-12T08:48:55.604Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

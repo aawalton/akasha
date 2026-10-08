@@ -8,4 +8,6 @@ export const expectAttrMode = {
   takes: "`equals` or `contains-token`, equals where none is said",
   value: "text",
   placeholder: "mode",
+  createdAt: "2026-09-12T08:49:25.182Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

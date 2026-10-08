@@ -8,4 +8,6 @@ export const questTracePath = {
   takes: "the saved-variables file the auto-quest trace is read from",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T09:03:30.010Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

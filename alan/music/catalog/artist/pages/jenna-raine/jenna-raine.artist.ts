@@ -21,4 +21,6 @@ export const jennaRaine = {
     },
   ],
   title: "Jenna Raine",
+  createdAt: "2026-09-03T16:04:08.683Z",
+  updatedAt: "2026-09-21T22:40:59.000Z",
 } as const satisfies Artist

@@ -8,4 +8,6 @@ export const filePath = {
   takes: "a file in the repository, said from the repository root",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T08:27:04.039Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

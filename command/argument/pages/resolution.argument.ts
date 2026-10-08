@@ -8,4 +8,6 @@ export const resolution = {
   takes: "how many pixels the shortest edge is remade at",
   value: "whole-number",
   placeholder: "px",
+  createdAt: "2026-09-12T08:51:32.856Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

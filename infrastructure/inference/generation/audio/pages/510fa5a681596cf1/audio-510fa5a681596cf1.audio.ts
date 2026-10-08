@@ -9,4 +9,6 @@ export const audio510fa5a681596cf1 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Needs a human: kill the loop cleanly (stop supervisor + clear pending requested-action/self-heal queue, then one clean start), not another restart into the same loop. Her own #15282/#15283/#15284 hold the fix shapes. My board is otherwise clean.",
+  createdAt: "2026-09-21T23:28:28.923Z",
+  updatedAt: "2026-09-21T23:28:30.000Z",
 } as const satisfies Audio

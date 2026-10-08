@@ -9,4 +9,6 @@ export const audio5be2f229834fd543 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: '"The shelf is not going to run out," Amy said, and that was the end of it.',
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

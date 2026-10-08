@@ -8,4 +8,6 @@ export const story = {
   takes: "the story being told",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-24T19:28:44.829Z",
+  updatedAt: "2026-09-24T19:31:24.000Z",
 } as const satisfies Argument

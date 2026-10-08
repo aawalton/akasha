@@ -9,4 +9,6 @@ export const audio3ca19ca251852e38 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "I don't measure herbs, Amy. I'm not a chemist.",
+  createdAt: "2026-09-21T23:31:08.600Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

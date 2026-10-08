@@ -8,4 +8,6 @@ export const gradeTarget = {
   takes: "which sort of music page the call names",
   value: "text",
   placeholder: "artist|song|track|release",
+  createdAt: "2026-09-12T10:06:01.582Z",
+  updatedAt: "2026-09-21T20:16:23.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const recurrence = {
   takes: "one RRULE body, said once over for each rule it carries",
   value: "text",
   placeholder: "rrule",
+  createdAt: "2026-09-12T08:59:52.198Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

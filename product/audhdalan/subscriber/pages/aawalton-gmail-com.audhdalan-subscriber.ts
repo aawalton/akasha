@@ -5,4 +5,6 @@ export const aawaltonGmailCom = {
   type: "page-type/audhdalan-subscriber",
   slug: "aawalton-gmail-com",
   email: "aawalton@gmail.com",
+  createdAt: "2026-05-14T16:44:36.614Z",
+  updatedAt: "2026-09-15T15:51:17.000Z",
 } as const satisfies AudhdalanSubscriber

@@ -9,4 +9,6 @@ export const audio2ddc7abd49e8d842 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The candles are almost down to the wood. I always like when they get like this.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

@@ -9,4 +9,6 @@ export const audio018c820aefde8312 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "(Hey everyone, I’m taking my very-delayed yearly break until May 10th! Time to rest, recharge, and read a story myself. –pirateaba) {This chapter was released in three parts. Be sure you started with Pt. 1! –pirateaba}",
+  createdAt: "2026-09-21T23:30:52.344Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

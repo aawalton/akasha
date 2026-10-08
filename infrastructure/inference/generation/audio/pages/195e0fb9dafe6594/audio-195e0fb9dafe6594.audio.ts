@@ -5,4 +5,6 @@ export const audio195e0fb9dafe6594 = {
   type: "page-type/audio",
   slug: "audio-195e0fb9dafe6594",
   title: "Nimue voice reference",
+  createdAt: "2026-09-21T23:35:48.146Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

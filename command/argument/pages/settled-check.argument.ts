@@ -8,4 +8,6 @@ export const settledCheck = {
   takes: "the check a roll is settled by",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-26T14:39:37.211Z",
+  updatedAt: "2026-09-26T14:39:53.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const uri = {
   takes: "the exact track played, which searches for nothing",
   value: "text",
   placeholder: "uri",
+  createdAt: "2026-09-12T08:34:34.233Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

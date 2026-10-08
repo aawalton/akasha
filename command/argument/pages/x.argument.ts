@@ -8,4 +8,6 @@ export const x = {
   takes: "how far across the viewport the point is",
   value: "whole-number",
   placeholder: "px",
+  createdAt: "2026-09-12T08:30:41.429Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

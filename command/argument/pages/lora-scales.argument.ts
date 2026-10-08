@@ -9,4 +9,6 @@ export const loraScales = {
   value: "text",
   placeholder: "f",
   default: "1.0",
+  createdAt: "2026-09-12T09:00:45.827Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

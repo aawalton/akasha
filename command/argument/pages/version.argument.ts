@@ -8,4 +8,6 @@ export const version = {
   takes: "the version the boot environment carries",
   value: "text",
   placeholder: "version",
+  createdAt: "2026-09-12T09:41:09.145Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

@@ -9,4 +9,6 @@ export const audio499242959da0c58a = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The greens she'd put in were up now, low and dark, taking the cold better than she'd thought they would.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

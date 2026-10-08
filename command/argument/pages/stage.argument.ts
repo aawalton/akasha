@@ -8,4 +8,6 @@ export const stage = {
   takes: "the directory the bodies are staged in",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T08:02:19.938Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

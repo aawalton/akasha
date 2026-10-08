@@ -28,4 +28,6 @@ export const sia = {
   title: "Sia",
   genre: ["pop", "electropop", "dance-pop", "indie pop", "alternative pop", "art pop"],
   reaction: "txt",
+  createdAt: "2026-06-08T01:03:37.477Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Artist

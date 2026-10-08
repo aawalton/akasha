@@ -9,4 +9,6 @@ export const audio34f8af90ad5a277d = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Leave the candles, I'll get them.",
+  createdAt: "2026-09-21T23:31:18.017Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

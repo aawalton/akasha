@@ -9,4 +9,6 @@ export const tail = {
   value: "whole-number",
   placeholder: "n",
   default: "100",
+  createdAt: "2026-09-12T08:23:57.375Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

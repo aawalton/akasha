@@ -8,4 +8,6 @@ export const personalConnectionsFile = {
   takes: "the file the personal connections are read from",
   value: "path",
   placeholder: "file",
+  createdAt: "2026-09-12T09:14:39.206Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

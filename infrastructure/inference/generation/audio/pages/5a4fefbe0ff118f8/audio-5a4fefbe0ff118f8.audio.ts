@@ -9,4 +9,6 @@ export const audio5a4fefbe0ff118f8 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "He wished… Oh, that stupid, little child. Did she have to keep smiling at him? What about her? He wiped at his eyes. “All I do is cry, these days. What happened to me? I used to be so much more dignified.”",
+  createdAt: "2026-09-21T23:31:01.932Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

@@ -8,4 +8,6 @@ export const seatDomain = {
   takes: "where this seat works, outranking the persona's own domain",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-12T09:16:16.969Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

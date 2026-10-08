@@ -9,4 +9,6 @@ export const audio464043df8cee825e = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "There is Nicostratus the son of Theosdotides, and the brother of Theodotus (now Theodotus himself is dead, and therefore he, at any rate, will not seek to stop him); and there is Paralus the son of Demodocus, who had a brother Theages; and Adeimantus the son of Ariston, whose brother Plato is present; and Aeantodorus, who is the brother of Apollodorus, whom I also see. I might mention a great many others, some of whom Meletus should have produced as witnesses in the course of his speech; and let him still produce them, if he has forgotten—I will make way for him. And let him say, if he has any testimony of the sort which he can produce. Nay, Athenians, the very opposite is the truth. For all these are ready to witness on behalf of the corrupter, of the injurer of their kindred, as Meletus and Anytus call me; not the corrupted youth only—there might have been a motive for that—but their uncorrupted elder relatives. Why should they too support me with their testimony? Why, indeed, except for the sake of truth and justice, and because they know that I am speaking the truth, and that Meletus is a liar.",
+  createdAt: "2026-09-21T23:27:49.827Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

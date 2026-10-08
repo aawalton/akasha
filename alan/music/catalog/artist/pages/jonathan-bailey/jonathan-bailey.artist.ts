@@ -19,4 +19,6 @@ export const jonathanBailey = {
     },
   ],
   title: "Jonathan Bailey",
+  createdAt: "2026-09-19T03:09:42.137Z",
+  updatedAt: "2026-09-19T03:10:54.000Z",
 } as const satisfies Artist

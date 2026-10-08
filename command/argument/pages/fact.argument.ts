@@ -8,4 +8,6 @@ export const fact = {
   takes: "one fact, word for word as its lore page states it",
   value: "text",
   placeholder: "text",
+  createdAt: "2026-09-26T18:18:19.311Z",
+  updatedAt: "2026-09-26T18:18:33.000Z",
 } as const satisfies Argument

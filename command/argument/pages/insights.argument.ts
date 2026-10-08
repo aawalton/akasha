@@ -8,4 +8,6 @@ export const insights = {
   takes: "what Alan found in a song",
   value: "text",
   placeholder: "md",
+  createdAt: "2026-09-12T09:25:59.782Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

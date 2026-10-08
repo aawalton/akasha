@@ -8,4 +8,6 @@ export const messageQuery = {
   takes: "the run of characters a message's text must hold",
   value: "text",
   placeholder: "text",
+  createdAt: "2026-09-12T09:13:46.000Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

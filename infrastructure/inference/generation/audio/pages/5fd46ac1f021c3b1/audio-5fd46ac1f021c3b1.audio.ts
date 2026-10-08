@@ -9,4 +9,6 @@ export const audio5fd46ac1f021c3b1 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "If it exists—it’s just another frontier.” What a madman. He regretted saying it the moment he heard his own voice, because it sounded insane. But then he looked around and realized he was in the company of an old friend, a Skill, and Erin Solstice. She just smiled at him, seeing a piece of his soul—and he gazed at the Gnome’s face. A suit meant for an explorer, not a warrior. It wasn’t armored. He didn’t carry a weapon. So that was a Gnome. Niers raised a hand, gazing at the sky streaked with colors. And he did reply. He swept a hand over the vision before him, and the air split in two. Erin’s vision of the lands of the dead remained, but halfway towards him, the colors stopped. He heard a voice panting.",
+  createdAt: "2026-09-21T23:32:29.040Z",
+  updatedAt: "2026-09-21T23:32:30.000Z",
 } as const satisfies Audio

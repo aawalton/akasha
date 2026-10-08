@@ -8,4 +8,6 @@ export const hydrationSelector = {
   takes: "an element that is there once the page has hydrated",
   value: "text",
   placeholder: "sel",
+  createdAt: "2026-09-12T08:46:23.117Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

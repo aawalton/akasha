@@ -9,4 +9,6 @@ export const firstDay = {
   value: "text",
   placeholder: "YYYY-MM-DD",
   default: "0001-01-01",
+  createdAt: "2026-09-12T09:25:05.736Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -9,4 +9,6 @@ export const audio1db21f75b0172a52 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "No response was sent back. Not that the Titan of Baleros had been holding his breath. Niers Astoragon sat and tapped his fingers on the chess board he was no longer using, then turned. “Send Wil and Yerranola with Erin Solstice’s party. Tell them that the Singer of Terandria is either on board those ships…or those screams they heard from the harbor mean she escaped. Hand Wil a copy of my notes on Rhir for senior [Strategists].” Atmodeca, his [Seneschal], nodded, and the Crocodile Beastkin stepped away. “At once, Lord Astoragon.” —— When Cara opened her eyes and found a seagull pecking at her hair, she realized she was badly sunburnt. Also, alive. She sat up on the beach, searched around, and began swearing. ——",
+  createdAt: "2026-09-21T23:32:48.292Z",
+  updatedAt: "2026-09-21T23:32:49.000Z",
 } as const satisfies Audio

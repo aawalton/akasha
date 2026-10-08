@@ -7,4 +7,6 @@ export const includeStale = {
   said: "--include-stale",
   takes: "show the entries left behind by an older session too",
   value: "none",
+  createdAt: "2026-09-12T08:52:10.222Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

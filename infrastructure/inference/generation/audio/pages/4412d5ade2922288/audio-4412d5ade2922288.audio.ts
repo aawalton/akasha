@@ -9,4 +9,6 @@ export const audio4412d5ade2922288 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Every good table is nothing but backstories, sugar. That's the recipe box again. Cobbler's coming out in a minute — peaches from the stand out on the county road, the one with the dog that supervises the till.",
+  createdAt: "2026-09-21T23:31:01.930Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

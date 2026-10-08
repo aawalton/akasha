@@ -8,4 +8,6 @@ export const shuffleState = {
   takes: "whether a device draws its tracks at random or in the order they are queued",
   value: "text",
   placeholder: "on|off",
+  createdAt: "2026-09-14T13:42:43.217Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

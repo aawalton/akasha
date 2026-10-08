@@ -7,4 +7,6 @@ export const open = {
   said: "--open",
   takes: "the stretch to act on, which is the one that is open",
   value: "none",
+  createdAt: "2026-09-12T09:07:59.753Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const removeLabel = {
   takes: "a label id to take off it, said again for each",
   value: "text",
   placeholder: "label-id",
+  createdAt: "2026-09-12T09:07:14.330Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

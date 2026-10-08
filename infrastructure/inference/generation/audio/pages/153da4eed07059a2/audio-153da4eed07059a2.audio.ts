@@ -9,4 +9,6 @@ export const audio153da4eed07059a2 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Amy had brought a jar of pickled beans and put it in the middle of the table where everyone could reach it.",
+  createdAt: "2026-09-21T23:31:18.017Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

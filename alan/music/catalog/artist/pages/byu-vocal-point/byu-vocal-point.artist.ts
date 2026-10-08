@@ -18,4 +18,6 @@ export const byuVocalPoint = {
       lastSyncedAt: "2026-03-02",
     },
   ],
+  createdAt: "2026-09-03T16:04:08.683Z",
+  updatedAt: "2026-09-15T15:49:56.000Z",
 } as const satisfies Artist

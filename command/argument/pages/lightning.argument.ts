@@ -7,4 +7,6 @@ export const lightning = {
   said: "--lightning",
   takes: "the four-step Lightning pair, which drops guidance to one",
   value: "none",
+  createdAt: "2026-09-12T08:28:33.221Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

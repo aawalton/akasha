@@ -9,4 +9,6 @@ export const audio51d83b05614950ab = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The poets appeared to me to be much in the same case; and I further observed that upon the strength of their poetry they believed themselves to be the wisest of men in other things in which they were not wise. So I departed, conceiving myself to be superior to them for the same reason that I was superior to the politicians.",
+  createdAt: "2026-09-21T23:32:14.098Z",
+  updatedAt: "2026-09-21T23:32:15.000Z",
 } as const satisfies Audio

@@ -8,4 +8,6 @@ export const textFile = {
   takes: "the file the text is read from, or `-` for standard input",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T09:03:44.767Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

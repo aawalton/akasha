@@ -8,4 +8,6 @@ export const instruct = {
   takes: "the voice described in words",
   value: "text",
   placeholder: "description",
+  createdAt: "2026-09-12T09:20:35.004Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -38,4 +38,6 @@ export const imagineDragons = {
     "rock",
   ],
   reaction: "txt",
+  createdAt: "2026-06-08T00:16:21.423Z",
+  updatedAt: "2026-09-24T22:14:38.000Z",
 } as const satisfies Artist

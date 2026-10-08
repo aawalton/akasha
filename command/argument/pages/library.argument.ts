@@ -8,4 +8,6 @@ export const library = {
   takes: "the upstream library acted on: housing, lib-map-data, lib-treasure or lib-zone",
   value: "text",
   placeholder: "library",
+  createdAt: "2026-09-12T08:41:41.160Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

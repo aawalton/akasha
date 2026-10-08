@@ -8,4 +8,6 @@ export const game = {
   takes: "the game being played",
   value: "text",
   placeholder: "address",
+  createdAt: "2026-09-21T22:03:35.047Z",
+  updatedAt: "2026-09-21T22:04:07.000Z",
 } as const satisfies Argument

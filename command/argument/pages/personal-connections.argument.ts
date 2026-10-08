@@ -8,4 +8,6 @@ export const personalConnections = {
   takes: "what a song is tied to in Alan's own life",
   value: "text",
   placeholder: "md",
+  createdAt: "2026-09-12T09:25:33.497Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

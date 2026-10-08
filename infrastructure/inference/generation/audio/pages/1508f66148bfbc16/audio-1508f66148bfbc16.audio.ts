@@ -9,4 +9,6 @@ export const audio1508f66148bfbc16 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "It sounds like nothing when I say it, but it wasn't nothing.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

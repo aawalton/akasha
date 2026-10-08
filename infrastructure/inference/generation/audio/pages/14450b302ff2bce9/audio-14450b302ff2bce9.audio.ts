@@ -9,4 +9,6 @@ export const audio14450b302ff2bce9 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "That's the best thing anyone has said at this table all year, and I include the night we argued about Middlemarch until one in the morning.",
+  createdAt: "2026-09-21T23:30:52.345Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

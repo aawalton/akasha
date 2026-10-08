@@ -29,4 +29,6 @@ export const emBeihold = {
   title: "Em Beihold",
   genre: ["pop", "singer-songwriter", "teen pop"],
   reaction: "txt",
+  createdAt: "2026-06-08T01:35:23.547Z",
+  updatedAt: "2026-09-24T13:47:25.000Z",
 } as const satisfies Artist

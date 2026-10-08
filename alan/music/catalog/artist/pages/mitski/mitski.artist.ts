@@ -38,4 +38,6 @@ export const mitski = {
     "folk rock",
   ],
   reaction: "txt",
+  createdAt: "2026-06-28T14:22:01.698Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Artist

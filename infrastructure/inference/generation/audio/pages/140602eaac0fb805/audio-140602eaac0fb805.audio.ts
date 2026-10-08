@@ -9,4 +9,6 @@ export const audio140602eaac0fb805 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Outside, the wind had come up a little, and the house made its small sound somewhere up above them, and nothing else. The candle in front of Natalie had burned down nearly to the holder, low and steady in the last of the wax. Zadi had the book on her knee under the table, one hand resting on it, not reading, just keeping it there. Natalie sat back with her coffee. The steam came off it, leaned, and came off again. Amy said something low and Zadi laughed at it, and Natalie let the two of them go on, and drank her coffee while it was still warm, and stayed in her chair.",
+  createdAt: "2026-09-21T23:31:18.019Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

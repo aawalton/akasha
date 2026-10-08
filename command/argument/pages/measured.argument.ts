@@ -7,4 +7,6 @@ export const measured = {
   said: "--measured",
   takes: "run the whole deploy under no ceiling, so what it cost is recorded",
   value: "none",
+  createdAt: "2026-09-12T09:44:20.251Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

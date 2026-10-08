@@ -8,4 +8,6 @@ export const tag = {
   takes: "a word Alan files this under, said once for each tag",
   value: "text",
   placeholder: "tag",
+  createdAt: "2026-09-21T19:14:14.048Z",
+  updatedAt: "2026-09-21T19:15:22.000Z",
 } as const satisfies Argument

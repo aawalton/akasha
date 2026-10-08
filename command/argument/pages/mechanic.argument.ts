@@ -8,4 +8,6 @@ export const mechanic = {
   takes: "the mechanic the numbers come from",
   value: "text",
   placeholder: "address",
+  createdAt: "2026-09-21T22:03:40.064Z",
+  updatedAt: "2026-09-21T22:04:07.000Z",
 } as const satisfies Argument

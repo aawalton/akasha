@@ -8,4 +8,6 @@ export const recorder = {
   takes: "the story recorder whose drafted edits are done",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-27T00:53:57.469Z",
+  updatedAt: "2026-09-27T00:54:01.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const text = {
   takes: "the message body",
   value: "text",
   placeholder: "body",
+  createdAt: "2026-09-12T09:22:25.998Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

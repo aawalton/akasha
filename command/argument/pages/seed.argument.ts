@@ -8,4 +8,6 @@ export const seed = {
   takes: "the sampler seed",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-12T08:21:59.031Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

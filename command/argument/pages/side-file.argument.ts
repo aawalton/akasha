@@ -8,4 +8,6 @@ export const sideFile = {
   takes: "the file the catalog addon's outstanding collection request is carried in",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T08:31:49.847Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

@@ -7,4 +7,6 @@ export const noPersist = {
   said: "--no-persist",
   takes: "leave what was written where it is and file no page for it",
   value: "none",
+  createdAt: "2026-09-12T08:23:10.187Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

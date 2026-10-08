@@ -8,4 +8,6 @@ export const sendUpdates = {
   takes: "who is emailed about the act, of `all`, `externalOnly` and `none`",
   value: "text",
   placeholder: "who",
+  createdAt: "2026-09-12T08:48:25.294Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

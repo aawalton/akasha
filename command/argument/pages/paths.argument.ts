@@ -7,4 +7,6 @@ export const paths = {
   said: "--paths",
   takes: "the file carrying each domain, drawn beside its slug",
   value: "none",
+  createdAt: "2026-09-12T09:34:25.203Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

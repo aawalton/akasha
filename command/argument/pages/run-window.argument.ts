@@ -8,4 +8,6 @@ export const runWindow = {
   takes: "how many of the most recent runs the numbers cover, or a period ending now",
   value: "text",
   placeholder: "window",
+  createdAt: "2026-09-12T09:27:03.637Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

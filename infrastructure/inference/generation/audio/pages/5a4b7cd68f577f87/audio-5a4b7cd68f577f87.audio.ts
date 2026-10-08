@@ -5,4 +5,6 @@ export const audio5a4b7cd68f577f87 = {
   type: "page-type/audio",
   slug: "audio-5a4b7cd68f577f87",
   title: "Aranya voice reference",
+  createdAt: "2026-09-21T23:27:38.313Z",
+  updatedAt: "2026-09-21T23:35:49.000Z",
 } as const satisfies Audio

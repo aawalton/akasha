@@ -8,4 +8,6 @@ export const reviewer = {
   takes: "the story reviewer handing in what it found",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-26T17:36:45.585Z",
+  updatedAt: "2026-09-26T17:36:57.000Z",
 } as const satisfies Argument

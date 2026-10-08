@@ -9,4 +9,6 @@ export const audio2da94270e460c7ac = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The stew had been on since noon, and by the time Amy and Zadi came in out of the cold it had cooked down to the thick part, where the potatoes gave up their edges and went soft into the rest of it.",
+  createdAt: "2026-09-21T23:31:18.017Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

@@ -9,4 +9,6 @@ export const audio0cb4a2df9ee9b39f = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "—— Mrsha du Marquin was dead. The [Palace of Fates] had fallen to pieces, every world gone with it. All that remained was a single door held open by the Apostle Pawn. The Goblin King had reached The Wandering Inn and returned to reality. Along with the Necromancer. ——",
+  createdAt: "2026-09-21T23:30:52.344Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

@@ -8,4 +8,6 @@ export const queryFile = {
   takes: "the file the query is read from, or `-` for standard input",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T09:12:47.315Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

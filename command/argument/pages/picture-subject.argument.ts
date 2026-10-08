@@ -8,4 +8,6 @@ export const pictureSubject = {
   takes: "the window to draw, named by the slug the harness lists it under",
   value: "text",
   placeholder: "window",
+  createdAt: "2026-09-22T18:33:22.407Z",
+  updatedAt: "2026-09-22T18:36:14.000Z",
 } as const satisfies Argument

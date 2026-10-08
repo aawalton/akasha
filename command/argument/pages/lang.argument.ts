@@ -9,4 +9,6 @@ export const lang = {
   value: "text",
   placeholder: "name",
   default: "English",
+  createdAt: "2026-09-12T08:59:42.970Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -7,4 +7,6 @@ export const takeBackMechanics = {
   said: "--take-back-mechanics",
   takes: "take back the mechanics lines already written for the turn, restoring each page's value",
   value: "none",
+  createdAt: "2026-09-28T11:48:32.224Z",
+  updatedAt: "2026-09-28T11:48:36.000Z",
 } as const satisfies Argument

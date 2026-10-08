@@ -7,4 +7,6 @@ export const full = {
   said: "--full",
   takes: "the whole body, whatever your record holds",
   value: "none",
+  createdAt: "2026-09-12T10:01:06.893Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -7,4 +7,6 @@ export const jsonOneLine = {
   said: "--json",
   takes: "answer the JSON on one line rather than indented",
   value: "none",
+  createdAt: "2026-09-12T08:47:13.556Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

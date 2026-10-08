@@ -7,4 +7,6 @@ export const justPlayed = {
   said: "--just-played",
   takes: "the track Spotify played last, rather than a page named by its slug",
   value: "none",
+  createdAt: "2026-09-21T22:06:22.675Z",
+  updatedAt: "2026-09-21T22:06:36.000Z",
 } as const satisfies Argument

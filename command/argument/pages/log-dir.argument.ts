@@ -8,4 +8,6 @@ export const logDir = {
   takes: "the directory the watcher's logs are read from",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T08:48:32.510Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

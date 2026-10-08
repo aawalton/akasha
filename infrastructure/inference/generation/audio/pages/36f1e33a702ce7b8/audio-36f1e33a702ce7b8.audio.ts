@@ -9,4 +9,6 @@ export const audio36f1e33a702ce7b8 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "The tomato jars from the end of summer were still going; she'd sent them home with everybody and kept a shelf of her own.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

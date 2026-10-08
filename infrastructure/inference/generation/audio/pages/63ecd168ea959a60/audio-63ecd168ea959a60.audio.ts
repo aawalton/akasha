@@ -9,4 +9,6 @@ export const audio63ecd168ea959a60 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "I saved room. I planned for cobbler the way I plan everything — in advance and with contingencies.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

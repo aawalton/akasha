@@ -15,4 +15,6 @@ export const evynneHollens = {
   ],
   title: "Evynne Hollens",
   genre: [],
+  createdAt: "2026-06-08T01:18:01.506Z",
+  updatedAt: "2026-09-19T17:05:46.000Z",
 } as const satisfies Artist

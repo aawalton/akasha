@@ -8,4 +8,6 @@ export const glob = {
   takes: "a glob a file's path must match, or must not where the glob opens with `!`",
   value: "text",
   placeholder: "glob",
+  createdAt: "2026-09-25T16:19:07.234Z",
+  updatedAt: "2026-09-25T16:19:30.000Z",
 } as const satisfies Argument

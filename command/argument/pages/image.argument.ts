@@ -8,4 +8,6 @@ export const image = {
   takes: "the image read in",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T08:26:52.488Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

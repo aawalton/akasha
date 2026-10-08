@@ -8,4 +8,6 @@ export const max = {
   takes: "how many rows to answer with at most",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-12T09:07:38.297Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

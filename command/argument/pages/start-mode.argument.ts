@@ -8,4 +8,6 @@ export const startMode = {
   takes: "`interactive` or `headless`, which is whether a terminal is attached",
   value: "text",
   placeholder: "mode",
+  createdAt: "2026-09-12T09:09:46.213Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

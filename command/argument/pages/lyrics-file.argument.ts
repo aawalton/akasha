@@ -8,4 +8,6 @@ export const lyricsFile = {
   takes: "the file the lyrics are read from, or `-` for standard input",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T09:03:08.551Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

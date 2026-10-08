@@ -43,4 +43,6 @@ export const luck = {
       statement: "Nothing here reads a figure the tracking day has.",
     },
   ],
+  createdAt: "2026-09-03T17:12:06.811Z",
+  updatedAt: "2026-09-18T15:12:18.000Z",
 } as const satisfies Attribute

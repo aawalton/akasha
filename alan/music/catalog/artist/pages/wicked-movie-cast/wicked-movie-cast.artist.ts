@@ -19,4 +19,6 @@ export const wickedMovieCast = {
     },
   ],
   title: "Wicked Movie Cast",
+  createdAt: "2026-09-19T03:09:42.135Z",
+  updatedAt: "2026-09-19T03:10:54.000Z",
 } as const satisfies Artist

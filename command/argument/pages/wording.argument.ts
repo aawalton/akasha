@@ -8,4 +8,6 @@ export const wording = {
   takes: "a phrase the grammar parses",
   value: "text",
   placeholder: "wording",
+  createdAt: "2026-09-25T17:46:39.367Z",
+  updatedAt: "2026-09-25T17:46:49.000Z",
 } as const satisfies Argument

@@ -7,4 +7,6 @@ export const performance = {
   said: "--performance",
   takes: "the slug of the one performance to run",
   value: "text",
+  createdAt: "2026-09-12T09:28:28.403Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

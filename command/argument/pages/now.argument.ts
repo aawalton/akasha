@@ -7,4 +7,6 @@ export const now = {
   said: "--now",
   takes: "act on a live seat without waiting for the turn it is in to end",
   value: "none",
+  createdAt: "2026-09-13T13:40:07.358Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

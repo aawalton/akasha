@@ -11,4 +11,6 @@ export const audio53612c90ce12181d = {
   text: "Oh! Oh, you have to see this — I found it on the third shelf, exactly where it wanted to be. Take it, it's yours to borrow — just remember to bring it back!",
   instruct:
     "A young woman's voice, low-medium pitch with a soft husky edge, animated and quick but grounded; bookish warmth, confident and playful; excitement carried in rhythm and breath rather than height of pitch.",
+  createdAt: "2026-09-21T23:27:49.828Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

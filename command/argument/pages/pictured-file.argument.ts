@@ -8,4 +8,6 @@ export const picturedFile = {
   takes: "the file a written chapter's pictures are read from, one json picture to a line",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-10-03T18:37:15.746Z",
+  updatedAt: "2026-10-03T18:38:03.000Z",
 } as const satisfies Argument

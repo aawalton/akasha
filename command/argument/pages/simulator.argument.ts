@@ -7,4 +7,6 @@ export const simulator = {
   said: "--simulator",
   takes: "install an ios app on a simulator rather than hand it to Apple",
   value: "none",
+  createdAt: "2026-09-12T09:44:45.965Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

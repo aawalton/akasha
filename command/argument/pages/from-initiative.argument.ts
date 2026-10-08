@@ -8,4 +8,6 @@ export const fromInitiative = {
   takes: "the initiative stating the intent now",
   value: "text",
   placeholder: "from",
+  createdAt: "2026-09-12T08:53:15.450Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

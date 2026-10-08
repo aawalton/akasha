@@ -11,4 +11,6 @@ export const audio64218f1827140af3 = {
   text: "Good morning — I've already walked the grounds. The roses took the night well, the panels are drinking, and there's one bed gone dense I'd like to open to the light today. Come see; the stone's already warm.",
   instruct:
     "A woman's voice in a warm medium-LOW register, unhurried like late golden hour; an audible smile with something knowing and faintly grave beneath it — ancient warmth, settled and fond, letting each phrase land before the next, never breathy, never squeaky.",
+  createdAt: "2026-09-21T23:27:49.828Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

@@ -8,4 +8,6 @@ export const staleAfterHours = {
   takes: "how far behind the log frontier an entry is before it counts as stale",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-12T08:52:33.995Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

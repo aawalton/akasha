@@ -8,4 +8,6 @@ export const video = {
   takes: "the clip read, whose frames are taken here",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T07:27:45.840Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

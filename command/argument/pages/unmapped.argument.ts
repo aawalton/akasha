@@ -7,4 +7,6 @@ export const unmapped = {
   said: "--unmapped",
   takes: "name the items no rule reaches and the items left undecided rather than the plan",
   value: "none",
+  createdAt: "2026-09-12T14:39:21.338Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

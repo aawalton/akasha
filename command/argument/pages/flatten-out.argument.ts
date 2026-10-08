@@ -8,4 +8,6 @@ export const flattenOut = {
   takes: "where that flattened image is written",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T09:58:28.281Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

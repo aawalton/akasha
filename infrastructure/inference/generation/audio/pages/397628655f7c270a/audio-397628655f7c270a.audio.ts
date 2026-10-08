@@ -11,4 +11,6 @@ export const audio397628655f7c270a = {
   text: "Oh! Oh, you have to see this — I found it on the third shelf, exactly where it wanted to be. Take it, it's yours to borrow — just remember to bring it back!",
   instruct:
     "A warm alto woman's voice, low-pitched and smooth, poised and confident; a smile audible under the calm; delight rises in the phrasing, not the pitch; crisp articulate diction, rich warm timbre.",
+  createdAt: "2026-09-21T23:27:49.828Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

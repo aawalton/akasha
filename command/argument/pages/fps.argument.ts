@@ -8,4 +8,6 @@ export const fps = {
   takes: "the rate a clip is resampled to, every frame kept where none is said",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-12T07:28:11.719Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

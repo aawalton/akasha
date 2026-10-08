@@ -8,4 +8,6 @@ export const stockScope = {
   takes: "whether stocking counts one character or every character",
   value: "text",
   placeholder: "scope",
+  createdAt: "2026-09-12T08:26:00.382Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

@@ -9,4 +9,6 @@ export const audio36b94463cec0ffa6 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Take your time, sugar.",
+  createdAt: "2026-09-21T23:31:08.601Z",
+  updatedAt: "2026-09-21T23:31:10.000Z",
 } as const satisfies Audio

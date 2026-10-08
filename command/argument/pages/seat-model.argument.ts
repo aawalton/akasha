@@ -8,4 +8,6 @@ export const seatModel = {
   takes: "the model the seat launched here runs on",
   value: "text",
   placeholder: "id",
+  createdAt: "2026-09-12T09:20:34.144Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

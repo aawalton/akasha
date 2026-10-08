@@ -8,4 +8,6 @@ export const reaction = {
   takes: "what Alan said about an artist",
   value: "text",
   placeholder: "md",
+  createdAt: "2026-09-12T09:25:02.951Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

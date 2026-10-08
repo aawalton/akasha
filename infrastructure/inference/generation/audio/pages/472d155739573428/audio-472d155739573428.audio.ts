@@ -11,4 +11,6 @@ export const audio472d155739573428 = {
   text: "Oh! Oh, you have to see this — I found it on the third shelf, exactly where it wanted to be. Take it, it's yours to borrow — just remember to bring it back!",
   instruct:
     "A sparkly, effervescent young woman's voice, girlish and quick, almost chirping with joy; high-energy and a touch squeaky at the peaks of excitement, utterly unguarded; fast light rhythm.",
+  createdAt: "2026-09-21T23:27:49.828Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

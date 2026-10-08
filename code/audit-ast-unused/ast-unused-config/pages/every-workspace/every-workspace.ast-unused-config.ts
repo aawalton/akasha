@@ -6,4 +6,6 @@ export const everyWorkspace = {
   slug: "every-workspace",
   definition: "the root of the ast-unused curation",
   curation: "json",
+  createdAt: "2026-09-08T15:17:58.100Z",
+  updatedAt: "2026-09-15T15:50:39.000Z",
 } as const satisfies AstUnusedConfig

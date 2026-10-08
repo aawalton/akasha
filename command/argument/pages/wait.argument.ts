@@ -7,4 +7,6 @@ export const wait = {
   said: "--wait",
   takes: "hold until the build is valid or has failed rather than answering once",
   value: "none",
+  createdAt: "2026-09-12T08:42:04.868Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

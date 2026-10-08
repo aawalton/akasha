@@ -27,4 +27,6 @@ export const sylviaDaley = {
   ],
   title: "Sylvia Daley",
   genre: ["pop", "singer-songwriter"],
+  createdAt: "2026-09-03T16:04:08.684Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Artist

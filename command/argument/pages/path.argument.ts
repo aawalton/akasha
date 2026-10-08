@@ -8,4 +8,6 @@ export const path = {
   takes: "the path fetched under the origin",
   value: "text",
   placeholder: "path",
+  createdAt: "2026-09-12T08:46:07.457Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const reference = {
   takes: "the identity each frame is measured against",
   value: "path",
   placeholder: "png",
+  createdAt: "2026-09-12T08:53:09.983Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

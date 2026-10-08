@@ -9,4 +9,6 @@ export const audio0e0b13a9d31f1fd9 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Sit, sit — it's soup, it doesn't need a standing ovation. That's the whole menu, I told everybody. Soup, and bread I didn't make.",
+  createdAt: "2026-09-21T23:31:01.932Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

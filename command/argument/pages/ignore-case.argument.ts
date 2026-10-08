@@ -7,4 +7,6 @@ export const ignoreCase = {
   said: "--ignore-case",
   takes: "a match whatever the case of its letters",
   value: "none",
+  createdAt: "2026-09-25T16:19:07.234Z",
+  updatedAt: "2026-09-25T16:19:30.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const stretchEnd = {
   takes: "the wall time the stretch ended",
   value: "text",
   placeholder: "time",
+  createdAt: "2026-09-12T09:13:21.270Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

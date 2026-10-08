@@ -7,4 +7,6 @@ export const mend = {
   said: "--mend",
   takes: "close the gap a dropped stretch leaves behind",
   value: "none",
+  createdAt: "2026-09-12T09:12:11.114Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

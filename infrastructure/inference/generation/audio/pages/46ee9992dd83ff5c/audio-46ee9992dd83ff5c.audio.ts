@@ -11,4 +11,6 @@ export const audio46ee9992dd83ff5c = {
   text: "Come in — I was just reading. Sit with me a moment, and I'll show you what the text actually says about her. It isn't what the song claims. It almost never is.",
   instruct:
     "A soft-spoken young Welsh woman, mid-low pitch, unhurried, with the measured cadence of someone reading aloud from an old book. Her tone is warm, knowing, and faintly amused, with a quiet sing-song undertone in the vowels. Never raised, never rushed.",
+  createdAt: "2026-09-21T23:27:49.829Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

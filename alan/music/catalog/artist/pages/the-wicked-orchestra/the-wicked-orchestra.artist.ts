@@ -19,4 +19,6 @@ export const theWickedOrchestra = {
     },
   ],
   title: "The Wicked Orchestra",
+  createdAt: "2026-09-19T03:09:42.139Z",
+  updatedAt: "2026-09-19T03:10:54.000Z",
 } as const satisfies Artist

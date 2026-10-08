@@ -8,4 +8,6 @@ export const predicate = {
   takes: "the slug of the one predicate a closure follows",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-15T18:24:57.503Z",
+  updatedAt: "2026-09-15T18:31:02.000Z",
 } as const satisfies Argument

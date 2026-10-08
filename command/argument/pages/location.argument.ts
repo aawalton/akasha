@@ -8,4 +8,6 @@ export const location = {
   takes: "the event's location",
   value: "text",
   placeholder: "text",
+  createdAt: "2026-09-12T08:59:34.898Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const role = {
   takes: "what this seat does, outranking the persona's own role",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-12T09:15:53.968Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

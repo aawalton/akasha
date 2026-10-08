@@ -9,4 +9,6 @@ export const audio14c8cb41bd06229b = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: '"It\'s cold enough out there to mean it now."',
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

@@ -8,4 +8,6 @@ export const ledger = {
   takes: "the rows beside a game's page that become pages",
   value: "text",
   placeholder: "name",
+  createdAt: "2026-09-22T13:14:12.746Z",
+  updatedAt: "2026-09-22T13:19:46.000Z",
 } as const satisfies Argument

@@ -8,4 +8,6 @@ export const udid = {
   takes: "the simulator driven, the session's own or the first booted where none is said",
   value: "text",
   placeholder: "udid",
+  createdAt: "2026-09-12T08:29:08.097Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

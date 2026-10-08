@@ -9,4 +9,6 @@ export const audio28f6e5ccbff0bef3 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: '"I finished the blue book," Zadi said.',
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

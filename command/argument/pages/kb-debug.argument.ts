@@ -7,4 +7,6 @@ export const kbDebug = {
   said: "--kb-debug",
   takes: "mount the keyboard-geometry readout over the block editor",
   value: "none",
+  createdAt: "2026-09-12T08:40:47.928Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

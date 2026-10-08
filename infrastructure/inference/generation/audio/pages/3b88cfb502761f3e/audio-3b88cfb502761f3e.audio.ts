@@ -9,4 +9,6 @@ export const audio3b88cfb502761f3e = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: '"And then it ended, and I was glad, and I felt a little tricked, in a good way." Zadi turned her spoon over.',
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

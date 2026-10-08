@@ -8,4 +8,6 @@ export const within = {
   takes: "a file or folder in the repository searched, said from the repository root",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-25T16:19:07.234Z",
+  updatedAt: "2026-09-25T16:19:30.000Z",
 } as const satisfies Argument

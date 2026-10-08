@@ -8,4 +8,6 @@ export const trackLimit = {
   takes: "how many tracks at most one run acts on",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-19T02:00:48.000Z",
+  updatedAt: "2026-09-19T02:00:48.000Z",
 } as const satisfies Argument

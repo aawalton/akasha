@@ -9,4 +9,6 @@ export const audio234e442e161d0148 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "She could tell a few spoonfuls in, once she'd stopped checking it and started just eating it.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

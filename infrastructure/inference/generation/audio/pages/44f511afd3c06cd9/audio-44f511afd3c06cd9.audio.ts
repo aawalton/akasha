@@ -9,4 +9,6 @@ export const audio44f511afd3c06cd9 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Amy said something low and Zadi laughed at it, and Natalie let the two of them go on, and drank her coffee while it was still warm, and stayed in her chair.",
+  createdAt: "2026-09-21T23:31:18.019Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

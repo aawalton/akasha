@@ -8,4 +8,6 @@ export const memoryFile = {
   takes: "the file the memory recorder's memories are read from, one json memory to a line",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-10-03T16:12:33.425Z",
+  updatedAt: "2026-10-03T16:13:22.000Z",
 } as const satisfies Argument

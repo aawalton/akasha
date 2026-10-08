@@ -11,4 +11,6 @@ export const audio4f493ddfbb72cf33 = {
   text: "Come in — I was just reading. Sit with me a moment, and I'll show you what the text actually says about her. It isn't what the song claims. It almost never is.",
   instruct:
     "A young woman with a gentle Welsh accent, voice low and hushed, calm and deliberate. She speaks slowly with scholarly precision, and there is a subtle melodic lilt threaded through every sentence — musical without meaning to be. Intimate, quiet-room volume, warm and slightly wry.",
+  createdAt: "2026-09-21T23:27:49.829Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

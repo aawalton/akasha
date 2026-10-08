@@ -8,4 +8,6 @@ export const through = {
   takes: "the number of the last turn a chapter takes",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-24T19:28:46.313Z",
+  updatedAt: "2026-09-24T19:31:24.000Z",
 } as const satisfies Argument

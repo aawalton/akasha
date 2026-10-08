@@ -8,4 +8,6 @@ export const framesDir = {
   takes: "the directory of frames read",
   value: "path",
   placeholder: "dir",
+  createdAt: "2026-09-12T07:27:51.205Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

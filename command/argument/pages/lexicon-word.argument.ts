@@ -8,4 +8,6 @@ export const lexiconWord = {
   takes: "a word looked up in the lexicon",
   value: "text",
   placeholder: "word",
+  createdAt: "2026-09-25T17:44:50.761Z",
+  updatedAt: "2026-09-25T17:45:01.000Z",
 } as const satisfies Argument

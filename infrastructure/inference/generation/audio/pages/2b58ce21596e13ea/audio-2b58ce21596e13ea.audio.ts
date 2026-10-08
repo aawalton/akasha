@@ -9,4 +9,6 @@ export const audio2b58ce21596e13ea = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "There it is. Careful, the dish is still hot — Amy, honey, pass me that towel. Third try's the charm on this bread, I'm telling you. First loaf came out a brick, second one a sponge, and this one — well, look at it. This one came out a loaf of bread.",
+  createdAt: "2026-09-21T23:30:52.345Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

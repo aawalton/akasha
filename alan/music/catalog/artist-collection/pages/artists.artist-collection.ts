@@ -10,4 +10,6 @@ export const artists = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-applicable",
+  createdAt: "2026-09-03T16:09:40.858Z",
+  updatedAt: "2026-09-15T15:50:18.000Z",
 } as const satisfies ArtistCollection

@@ -9,4 +9,6 @@ export const audio5b245b86e29a69ca = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Oh. Oh, that's — everyone stop talking for a second. This deserves quiet.",
+  createdAt: "2026-09-21T23:31:01.931Z",
+  updatedAt: "2026-09-21T23:31:03.000Z",
 } as const satisfies Audio

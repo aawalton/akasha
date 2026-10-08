@@ -8,4 +8,6 @@ export const percent = {
   takes: "a number of nought to a hundred",
   value: "whole-number",
   placeholder: "percent",
+  createdAt: "2026-09-14T13:38:11.918Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

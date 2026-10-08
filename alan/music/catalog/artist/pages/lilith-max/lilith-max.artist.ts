@@ -27,4 +27,6 @@ export const lilithMax = {
     },
   ],
   title: "Lilith Max",
+  createdAt: "2026-06-08T01:35:15.112Z",
+  updatedAt: "2026-09-22T13:46:18.000Z",
 } as const satisfies Artist

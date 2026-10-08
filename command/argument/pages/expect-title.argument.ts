@@ -8,4 +8,6 @@ export const expectTitle = {
   takes: "the title the document is to carry",
   value: "text",
   placeholder: "text",
+  createdAt: "2026-09-12T08:48:55.407Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

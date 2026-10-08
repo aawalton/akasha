@@ -8,4 +8,6 @@ export const loreCategory = {
   takes: "the lore library category, by the game's number, whose books are made pages",
   value: "text",
   placeholder: "number",
+  createdAt: "2026-09-25T00:06:19.865Z",
+  updatedAt: "2026-09-25T00:06:40.000Z",
 } as const satisfies Argument

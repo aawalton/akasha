@@ -8,4 +8,6 @@ export const featureRequest = {
   takes: "a feature request, named by the slug that request declares",
   value: "text",
   placeholder: "feature-request",
+  createdAt: "2026-09-21T17:26:13.208Z",
+  updatedAt: "2026-09-21T17:26:50.000Z",
 } as const satisfies Argument

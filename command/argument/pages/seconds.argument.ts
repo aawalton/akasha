@@ -8,4 +8,6 @@ export const seconds = {
   takes: "a number of seconds",
   value: "whole-number",
   placeholder: "seconds",
+  createdAt: "2026-09-12T09:42:08.449Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

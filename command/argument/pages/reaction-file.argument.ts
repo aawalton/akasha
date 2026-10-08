@@ -8,4 +8,6 @@ export const reactionFile = {
   takes: "the file the reaction is read from",
   value: "path",
   placeholder: "file",
+  createdAt: "2026-09-12T09:14:34.374Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

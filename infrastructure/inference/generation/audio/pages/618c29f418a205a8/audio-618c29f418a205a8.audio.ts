@@ -9,4 +9,6 @@ export const audio618c29f418a205a8 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "This sentence is being spoken as a continuation smoke test to confirm the mode field is honored by the patched server.",
+  createdAt: "2026-09-21T23:27:38.313Z",
+  updatedAt: "2026-09-21T23:27:39.000Z",
 } as const satisfies Audio

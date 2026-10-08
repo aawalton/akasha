@@ -7,4 +7,6 @@ export const filesOnly = {
   said: "--files-only",
   takes: "the path of each file that matches, and no line of it",
   value: "none",
+  createdAt: "2026-09-25T16:19:07.234Z",
+  updatedAt: "2026-09-25T16:19:30.000Z",
 } as const satisfies Argument

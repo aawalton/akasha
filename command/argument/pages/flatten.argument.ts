@@ -9,4 +9,6 @@ export const flatten = {
     "also write the foreground on a solid color, said `#RRGGBB` or as numbers parted by commas",
   value: "text",
   placeholder: "color",
+  createdAt: "2026-09-12T09:58:01.677Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

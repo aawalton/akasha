@@ -38,4 +38,6 @@ export const aurora = {
     "alternative dance",
   ],
   reaction: "txt",
+  createdAt: "2026-06-08T00:29:49.844Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Artist

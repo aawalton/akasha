@@ -8,4 +8,6 @@ export const knower = {
   takes: "a character who comes to know a fact, said again for each",
   value: "text",
   placeholder: "page",
+  createdAt: "2026-09-26T18:18:19.312Z",
+  updatedAt: "2026-09-26T18:18:33.000Z",
 } as const satisfies Argument

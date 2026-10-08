@@ -8,4 +8,6 @@ export const time = {
   takes: "the Mountain wall clock the act happened at, read on that date",
   value: "text",
   placeholder: "HH:MM",
+  createdAt: "2026-09-12T09:10:15.550Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

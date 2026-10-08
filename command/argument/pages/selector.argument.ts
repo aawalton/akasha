@@ -8,4 +8,6 @@ export const selector = {
   takes: "the element found by CSS in the webview",
   value: "text",
   placeholder: "css",
+  createdAt: "2026-09-12T08:31:51.258Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

@@ -7,4 +7,6 @@ export const warm = {
   said: "--warm",
   takes: "leave the app running, so the tap measures a warm open rather than a cold one",
   value: "none",
+  createdAt: "2026-09-12T08:41:27.860Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

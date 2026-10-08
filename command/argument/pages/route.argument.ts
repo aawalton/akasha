@@ -8,4 +8,6 @@ export const route = {
   takes: "the route named, such as `/home` or a page's own path",
   value: "text",
   placeholder: "path",
+  createdAt: "2026-09-12T08:29:51.900Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

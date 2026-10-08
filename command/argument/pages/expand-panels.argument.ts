@@ -7,4 +7,6 @@ export const expandPanels = {
   said: "--expand-panels",
   takes: "open every panel the page holds closed rather than shoot them closed",
   value: "none",
+  createdAt: "2026-09-21T16:50:18.528Z",
+  updatedAt: "2026-09-21T16:51:58.000Z",
 } as const satisfies Argument

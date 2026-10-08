@@ -8,4 +8,6 @@ export const workerIps = {
   takes: "every worker's address, where the cluster has workers",
   value: "text",
   placeholder: "csv",
+  createdAt: "2026-09-12T09:16:30.507Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

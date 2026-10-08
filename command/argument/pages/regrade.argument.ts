@@ -7,4 +7,6 @@ export const regrade = {
   said: "--regrade",
   takes: "write over a grade a part already carries",
   value: "none",
+  createdAt: "2026-09-21T20:17:44.815Z",
+  updatedAt: "2026-09-21T20:18:00.000Z",
 } as const satisfies Argument

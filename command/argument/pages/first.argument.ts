@@ -9,4 +9,6 @@ export const first = {
   value: "whole-number",
   placeholder: "n",
   default: "8",
+  createdAt: "2026-09-25T17:43:43.961Z",
+  updatedAt: "2026-09-25T17:43:57.000Z",
 } as const satisfies Argument

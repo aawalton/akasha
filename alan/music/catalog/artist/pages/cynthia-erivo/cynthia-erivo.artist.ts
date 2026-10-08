@@ -19,4 +19,6 @@ export const cynthiaErivo = {
     },
   ],
   title: "Cynthia Erivo",
+  createdAt: "2026-09-19T03:09:42.133Z",
+  updatedAt: "2026-09-19T03:10:54.000Z",
 } as const satisfies Artist

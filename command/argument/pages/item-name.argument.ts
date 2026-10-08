@@ -8,4 +8,6 @@ export const itemName = {
   takes: "the item's display name, where the id remains what it matches on",
   value: "text",
   placeholder: "name",
+  createdAt: "2026-09-12T08:28:15.662Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

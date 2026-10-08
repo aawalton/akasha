@@ -8,4 +8,6 @@ export const tracedItemId = {
   takes: "the item whose stored trace is compared",
   value: "whole-number",
   placeholder: "item-id",
+  createdAt: "2026-09-12T08:43:58.678Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

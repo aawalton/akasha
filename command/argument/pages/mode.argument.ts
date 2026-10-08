@@ -8,4 +8,6 @@ export const mode = {
   takes: "whether the clip is the voice to match or a tail to carry on from",
   value: "text",
   placeholder: "how",
+  createdAt: "2026-09-12T08:58:57.158Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

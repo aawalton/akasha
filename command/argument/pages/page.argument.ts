@@ -8,4 +8,6 @@ export const page = {
   takes: "a page, named by its page type and the slug that page is filed under",
   value: "text",
   placeholder: "page",
+  createdAt: "2026-09-19T03:06:01.181Z",
+  updatedAt: "2026-09-19T03:44:27.000Z",
 } as const satisfies Argument

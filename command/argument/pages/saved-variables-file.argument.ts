@@ -8,4 +8,6 @@ export const savedVariablesFile = {
   takes: "the file the catalog addon's collected data is read from",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T08:51:21.530Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

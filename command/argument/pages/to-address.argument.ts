@@ -8,4 +8,6 @@ export const toAddress = {
   takes: "who the mail goes to, said again or parted by commas",
   value: "text",
   placeholder: "addr,..",
+  createdAt: "2026-09-12T10:04:50.273Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

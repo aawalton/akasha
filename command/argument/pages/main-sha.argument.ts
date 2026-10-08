@@ -8,4 +8,6 @@ export const mainSha = {
   takes: "the code-repo commit the cut was taken at",
   value: "text",
   placeholder: "sha",
+  createdAt: "2026-09-12T08:42:41.154Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

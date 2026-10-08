@@ -8,4 +8,6 @@ export const status = {
   takes: "the response to set, of `accepted`, `declined` and `tentative`",
   value: "text",
   placeholder: "status",
+  createdAt: "2026-09-12T09:03:13.802Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

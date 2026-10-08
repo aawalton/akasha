@@ -8,4 +8,6 @@ export const fen = {
   takes: "the position to open from, in Forsyth-Edwards notation",
   value: "text",
   placeholder: "position",
+  createdAt: "2026-09-14T14:05:03.415Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

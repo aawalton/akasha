@@ -21,4 +21,6 @@ export const yaelokre = {
     },
   ],
   title: "Yaelokre",
+  createdAt: "2026-09-03T16:04:08.684Z",
+  updatedAt: "2026-09-23T13:49:18.000Z",
 } as const satisfies Artist

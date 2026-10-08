@@ -8,4 +8,6 @@ export const inventoryPath = {
   takes: "the saved-variables file the addon's inventory capture is read from",
   value: "path",
   placeholder: "path",
+  createdAt: "2026-09-12T08:12:41.785Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

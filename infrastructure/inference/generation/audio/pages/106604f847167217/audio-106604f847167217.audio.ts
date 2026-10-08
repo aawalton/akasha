@@ -9,4 +9,6 @@ export const audio106604f847167217 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "⚠️ Hands-on-keyboard needed: athena is in a RESTART LOOP (captured #15292). She went RC-degraded/wedged; the rc-degraded escalation routed to me as a live lead (keeper can't escalate to herself). I investigated + issued ONE sanctioned hand-restart (verb returned 'revived') — it did NOT settle. Her spawn-state startedAt advances every ~2.5min (21:07→21:10→21:12→21:14…) even during a 200s window where I issued ZERO restarts, and 'agent alive' never reaches 'live' (stuck 'indeterminate/heartbeated'). So her OWN restart machinery is looping — root cause almost certainly her #15284 (restart self-heal/supersede bug) gone self-sustaining. Per revive-loop protection I STOPPED at one restart rather than thrash.",
+  createdAt: "2026-09-21T23:28:28.923Z",
+  updatedAt: "2026-09-21T23:28:30.000Z",
 } as const satisfies Audio

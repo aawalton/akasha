@@ -7,4 +7,6 @@ export const nowPlaying = {
   said: "--now-playing",
   takes: "the track Spotify is playing now, rather than a page named by its slug",
   value: "none",
+  createdAt: "2026-09-21T19:16:55.006Z",
+  updatedAt: "2026-09-21T19:23:54.000Z",
 } as const satisfies Argument

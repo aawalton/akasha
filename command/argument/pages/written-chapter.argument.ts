@@ -8,4 +8,6 @@ export const writtenChapter = {
   takes: "the written chapter being made, named by its address",
   value: "text",
   placeholder: "address",
+  createdAt: "2026-09-28T19:08:35.893Z",
+  updatedAt: "2026-09-28T19:08:45.000Z",
 } as const satisfies Argument

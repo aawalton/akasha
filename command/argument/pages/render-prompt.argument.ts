@@ -8,4 +8,6 @@ export const renderPrompt = {
   takes: "what the render is asked for",
   value: "text",
   placeholder: "text",
+  createdAt: "2026-09-12T10:03:43.168Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

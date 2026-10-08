@@ -9,4 +9,6 @@ export const audio5048f9c1cbab0228 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "That argument, which, as I believe, is maintained by many persons of authority, was to the effect, as I was saying, that the opinions of some men are to be regarded, and of other men not to be regarded. Now you, Crito, are not going to die to-morrow--at least, there is no human probability of this, and therefore you are disinterested and not liable to be deceived by the circumstances in which you are placed. Tell me then, whether I am right in saying that some opinions, and the opinions of some men only, are to be valued, and that other opinions, and the opinions of other men, are not to be valued. I ask you whether I was right in maintaining this?",
+  createdAt: "2026-09-21T23:27:49.828Z",
+  updatedAt: "2026-09-21T23:27:51.000Z",
 } as const satisfies Audio

@@ -8,4 +8,6 @@ export const grade = {
   takes: "the grade, a rung on the ladder from `F` up to `S+`",
   value: "text",
   placeholder: "F..S+",
+  createdAt: "2026-09-12T09:03:59.777Z",
+  updatedAt: "2026-09-21T18:21:30.000Z",
 } as const satisfies Argument

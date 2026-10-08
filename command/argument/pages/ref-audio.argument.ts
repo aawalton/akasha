@@ -8,4 +8,6 @@ export const refAudio = {
   takes: "the clip the voice is taken from",
   value: "path",
   placeholder: "path.wav",
+  createdAt: "2026-09-12T08:58:46.679Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

@@ -7,4 +7,6 @@ export const keepLastNewline = {
   said: "--keep-last-newline",
   takes: "the trailing newline, for a value that is a whole file ending in one",
   value: "none",
+  createdAt: "2026-09-12T09:14:40.675Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

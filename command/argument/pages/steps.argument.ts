@@ -8,4 +8,6 @@ export const steps = {
   takes: "how many denoise steps the sampler runs",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-12T08:24:34.508Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

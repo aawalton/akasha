@@ -8,4 +8,6 @@ export const persona = {
   takes: "who this seat is, filling the role and the domain neither of which is said",
   value: "text",
   placeholder: "slug",
+  createdAt: "2026-09-12T09:15:31.318Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

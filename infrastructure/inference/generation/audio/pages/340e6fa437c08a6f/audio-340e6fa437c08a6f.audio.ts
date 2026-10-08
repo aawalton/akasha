@@ -9,4 +9,6 @@ export const audio340e6fa437c08a6f = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "For I am in want, and he has enough; and he only gives you the appearance of happiness, and I give you the reality. And if I am to estimate the penalty fairly, I should say that maintenance in the Prytaneum is the just return.",
+  createdAt: "2026-09-21T23:31:36.841Z",
+  updatedAt: "2026-09-21T23:31:38.000Z",
 } as const satisfies Audio

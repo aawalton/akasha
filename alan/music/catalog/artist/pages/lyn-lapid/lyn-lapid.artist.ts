@@ -21,4 +21,6 @@ export const lynLapid = {
     },
   ],
   title: "Lyn Lapid",
+  createdAt: "2026-09-03T16:04:08.683Z",
+  updatedAt: "2026-09-22T13:47:09.000Z",
 } as const satisfies Artist

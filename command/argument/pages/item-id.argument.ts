@@ -8,4 +8,6 @@ export const itemId = {
   takes: "the game item id the rule matches on",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-12T08:27:41.488Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

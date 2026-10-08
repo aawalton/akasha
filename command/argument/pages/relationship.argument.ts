@@ -8,4 +8,6 @@ export const relationship = {
   takes: "who the stretch was with, by id or by title",
   value: "text",
   placeholder: "id|title",
+  createdAt: "2026-09-12T08:16:51.123Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

@@ -9,4 +9,6 @@ export const audio64bb18b48d1ec34c = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Outside, the wind had come up a little, and the house made its small sound somewhere up above them, and nothing else.",
+  createdAt: "2026-09-21T23:31:18.019Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

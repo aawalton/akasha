@@ -8,4 +8,6 @@ export const picture = {
   takes: "the picture to bring, named by its image page's slug",
   value: "text",
   placeholder: "image-…",
+  createdAt: "2026-09-13T20:11:18.843Z",
+  updatedAt: "2026-09-21T22:31:33.000Z",
 } as const satisfies Argument

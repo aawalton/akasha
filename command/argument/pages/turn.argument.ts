@@ -8,4 +8,6 @@ export const turn = {
   takes: "which turn of the game this is",
   value: "whole-number",
   placeholder: "n",
+  createdAt: "2026-09-21T22:03:49.662Z",
+  updatedAt: "2026-09-21T22:04:07.000Z",
 } as const satisfies Argument

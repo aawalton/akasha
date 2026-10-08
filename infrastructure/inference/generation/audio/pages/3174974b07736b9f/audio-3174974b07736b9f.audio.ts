@@ -9,4 +9,6 @@ export const audio3174974b07736b9f = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Natalie got up to move the coffee off the heat and stood a moment at the counter with her back to them.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio

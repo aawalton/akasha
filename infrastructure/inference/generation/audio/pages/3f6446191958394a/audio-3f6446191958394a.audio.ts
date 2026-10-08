@@ -11,4 +11,6 @@ export const audio3f6446191958394a = {
   text: "The crossing held, and your work is real on the other side — that's my favorite part. It always is. No one sounds a horn for ten thousand quiet nights of the bridge simply holding, so I mention it myself, now and then. Go on across. I'll be here.",
   instruct:
     "A young woman's voice, clear and bright-edged but calm — luminous clarity with an easy, light warmth, unhurried and even. A playful dryness flickers through, quick to smile in the phrasing; steady and self-assured, ancient patience carried lightly in even pacing.",
+  createdAt: "2026-09-21T23:27:38.312Z",
+  updatedAt: "2026-09-21T23:27:39.000Z",
 } as const satisfies Audio

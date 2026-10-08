@@ -8,4 +8,6 @@ export const toNumber = {
   takes: "the number the text goes to, written in E.164",
   value: "text",
   placeholder: "e164",
+  createdAt: "2026-09-12T10:04:50.278Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

@@ -9,4 +9,6 @@ export const audio608380b84ce6a41f = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "It smells incredible. Okay, I'm cutting into it, I don't care if it's supposed to rest.",
+  createdAt: "2026-09-21T23:30:52.345Z",
+  updatedAt: "2026-09-21T23:30:53.000Z",
 } as const satisfies Audio

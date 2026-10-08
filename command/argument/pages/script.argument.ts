@@ -8,4 +8,6 @@ export const script = {
   takes: "the script run, `-` reading it from what is piped in",
   value: "text",
   placeholder: "js",
+  createdAt: "2026-09-12T08:38:16.822Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

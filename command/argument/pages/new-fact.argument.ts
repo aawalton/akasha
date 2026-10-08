@@ -7,4 +7,6 @@ export const newFact = {
   said: "--new-fact",
   takes: "add the fact to the page where the page holds it nowhere",
   value: "none",
+  createdAt: "2026-09-28T22:23:20.862Z",
+  updatedAt: "2026-09-28T22:23:25.000Z",
 } as const satisfies Argument

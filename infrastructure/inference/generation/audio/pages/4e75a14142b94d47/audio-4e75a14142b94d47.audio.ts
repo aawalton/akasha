@@ -9,4 +9,6 @@ export const audio4e75a14142b94d47 = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Niers jumped and reached for a sword at his side as the pieces bounced to the floor of the gazebo or fell into the aether and vanished. Erin leaned over the table and beckoned. “I wouldn’t blame you for thinking that. The last time you tried to meet me, a bird ate your leg, right? You opened the door anyways. Don’t fear me, Niers. I think I wanted to meet you to thank you, because I need help, and because I know you’re smart and I must plan ahead. But I also think I wanted to meet you so you could judge me. It feels like everyone I meet is afraid of me or thinks I’m silly. But you won’t do that.” She glanced up at him, and the Titan stood there, frozen a second, before walking over. He sat down, glancing at her, taking in her hair, her arms, the scar around her neck…and she wondered what he saw of her.",
+  createdAt: "2026-09-21T23:32:48.293Z",
+  updatedAt: "2026-09-21T23:32:49.000Z",
 } as const satisfies Audio

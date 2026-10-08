@@ -8,4 +8,6 @@ export const node = {
   takes: "the node acted on, as the node table names it",
   value: "text",
   placeholder: "id",
+  createdAt: "2026-09-12T07:27:36.344Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

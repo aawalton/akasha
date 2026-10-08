@@ -8,4 +8,6 @@ export const refText = {
   takes: "what the reference clip says",
   value: "text",
   placeholder: "transcript",
+  createdAt: "2026-09-12T09:19:38.732Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

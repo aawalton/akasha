@@ -9,4 +9,6 @@ export const kubeNamespace = {
   value: "text",
   placeholder: "ns",
   default: "ci",
+  createdAt: "2026-09-12T09:21:21.062Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

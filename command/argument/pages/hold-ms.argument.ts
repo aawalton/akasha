@@ -9,4 +9,6 @@ export const holdMs = {
   value: "whole-number",
   placeholder: "ms",
   default: "800",
+  createdAt: "2026-09-12T08:39:33.574Z",
+  updatedAt: "2026-09-15T15:49:18.000Z",
 } as const satisfies Argument

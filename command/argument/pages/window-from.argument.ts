@@ -8,4 +8,6 @@ export const windowFrom = {
   takes: "where the window opens",
   value: "text",
   placeholder: "iso",
+  createdAt: "2026-09-12T09:21:10.862Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

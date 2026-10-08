@@ -8,4 +8,6 @@ export const timeout = {
   takes: "how many seconds the wait runs for",
   value: "whole-number",
   placeholder: "s",
+  createdAt: "2026-09-12T07:28:16.610Z",
+  updatedAt: "2026-09-15T15:49:36.000Z",
 } as const satisfies Argument

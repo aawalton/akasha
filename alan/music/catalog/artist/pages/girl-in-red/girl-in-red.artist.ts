@@ -28,4 +28,6 @@ export const girlInRed = {
   ],
   title: "girl in red",
   genre: ["dream pop", "indie rock", "bedroom pop", "indie pop", "lo-fi"],
+  createdAt: "2026-09-03T16:04:08.683Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies Artist

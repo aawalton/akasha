@@ -9,4 +9,6 @@ export const audio0f245d54f18178fd = {
   operation: "voice-clone",
   model: "OpenMOSS-Team/MOSS-TTS-v1.5",
   text: "Amy started stacking the bowls, and Natalie told her to leave them, and for once Amy left them.",
+  createdAt: "2026-09-21T23:31:18.018Z",
+  updatedAt: "2026-09-21T23:31:19.000Z",
 } as const satisfies Audio
