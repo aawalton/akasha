@@ -8,4 +8,6 @@ export const otherwhereVDeeds = {
   world: "world/ends-of-magic",
   aliases: ["Deed", "great deed"],
   description: "A great feat.",
+  createdAt: "2026-09-28T21:51:12.302Z",
+  updatedAt: "2026-09-28T21:51:15.000Z",
 } as const satisfies WorldMechanic

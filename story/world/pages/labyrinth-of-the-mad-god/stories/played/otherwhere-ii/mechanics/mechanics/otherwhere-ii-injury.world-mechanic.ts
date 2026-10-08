@@ -7,4 +7,6 @@ export const otherwhereIiInjury = {
   title: "Injury",
   world: "world/labyrinth-of-the-mad-god",
   description: "Hurt to the body: cuts, bites, burns and breaks, and the slow mending after.",
+  createdAt: "2026-09-28T19:55:19.477Z",
+  updatedAt: "2026-09-28T22:39:05.000Z",
 } as const satisfies WorldMechanic

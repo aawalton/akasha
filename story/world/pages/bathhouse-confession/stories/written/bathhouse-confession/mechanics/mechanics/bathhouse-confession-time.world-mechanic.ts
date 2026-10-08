@@ -7,4 +7,6 @@ export const bathhouseConfessionTime = {
   title: "Time",
   world: "world/bathhouse-confession",
   description: "The hour of the one night Rumi, Mira and Zoey spend at the bathhouse.",
+  createdAt: "2026-10-03T19:17:53.384Z",
+  updatedAt: "2026-10-03T19:17:56.000Z",
 } as const satisfies WorldMechanic

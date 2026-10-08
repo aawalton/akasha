@@ -12,4 +12,6 @@ export const overwhereIvCoin = {
     { name: "silver", worth: 10 },
     { name: "copper", worth: 1 },
   ],
+  createdAt: "2026-09-30T10:43:52.733Z",
+  updatedAt: "2026-09-30T10:43:58.000Z",
 } as const satisfies WorldCurrency

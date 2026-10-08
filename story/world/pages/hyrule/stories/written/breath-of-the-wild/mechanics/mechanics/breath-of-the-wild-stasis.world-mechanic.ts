@@ -9,4 +9,6 @@ export const breathOfTheWildStasis = {
   description:
     "A Sheikah Slate rune that freezes an object, never a living thing, in time for a few seconds, storing the force of blows struck on it.",
   unrevealed: false,
+  createdAt: "2026-10-03T19:15:51.778Z",
+  updatedAt: "2026-10-03T19:15:54.000Z",
 } as const satisfies WorldMechanic

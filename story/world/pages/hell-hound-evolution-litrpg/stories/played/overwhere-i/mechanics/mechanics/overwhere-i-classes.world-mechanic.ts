@@ -7,4 +7,6 @@ export const overwhereIClasses = {
   title: "Classes",
   world: "world/hell-hound-evolution-litrpg",
   description: "The calling the System shapes a human toward.",
+  createdAt: "2026-09-29T12:24:53.830Z",
+  updatedAt: "2026-09-29T12:24:56.000Z",
 } as const satisfies WorldMechanic

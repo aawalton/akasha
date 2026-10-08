@@ -8,4 +8,6 @@ export const otherwhereVClasses = {
   world: "world/ends-of-magic",
   aliases: ["class"],
   description: "A person's leveled calling.",
+  createdAt: "2026-09-28T21:38:43.723Z",
+  updatedAt: "2026-09-28T21:48:41.000Z",
 } as const satisfies WorldMechanic

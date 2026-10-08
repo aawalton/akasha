@@ -7,4 +7,6 @@ export const superSupportiveGarmentsForHousekeeper = {
   title: "Garments for Housekeeper",
   world: "world/super-supportive",
   description: "A black Wardrobe tunic and pants that give +0.5 Stamina.",
+  createdAt: "2026-09-28T21:37:54.678Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldItem

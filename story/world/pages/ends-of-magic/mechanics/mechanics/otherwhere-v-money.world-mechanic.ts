@@ -8,4 +8,6 @@ export const otherwhereVMoney = {
   world: "world/ends-of-magic",
   aliases: ["currency", "coin"],
   description: "The currencies of Davrar.",
+  createdAt: "2026-09-28T21:56:15.618Z",
+  updatedAt: "2026-09-28T21:56:18.000Z",
 } as const satisfies WorldMechanic

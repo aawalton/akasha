@@ -7,4 +7,6 @@ export const overwhereIiiSmallBlightstone = {
   title: "Small Blightstone",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A small dark stone of clotted blight, cold to the touch, from a corrupted beast.",
+  createdAt: "2026-10-03T11:55:22.281Z",
+  updatedAt: "2026-10-03T11:55:30.000Z",
 } as const satisfies WorldItem

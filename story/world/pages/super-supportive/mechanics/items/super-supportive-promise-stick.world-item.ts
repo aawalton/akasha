@@ -7,4 +7,6 @@ export const superSupportivePromiseStick = {
   title: "Promise stick",
   world: "world/super-supportive",
   description: "A polished wooden stick.",
+  createdAt: "2026-09-28T21:37:54.679Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldItem

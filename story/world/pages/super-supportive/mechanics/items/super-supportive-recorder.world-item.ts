@@ -9,4 +9,6 @@ export const superSupportiveRecorder = {
   aliases: ["recorder cubes"],
   description:
     "An Artonan stone shape that gives a multisensory experience of its recorded content when activated.",
+  createdAt: "2026-09-28T21:47:30.306Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldItem

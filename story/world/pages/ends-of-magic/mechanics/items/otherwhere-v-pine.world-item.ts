@@ -7,4 +7,6 @@ export const otherwhereVPine = {
   title: "Pine",
   world: "world/ends-of-magic",
   description: "An evergreen needled tree.",
+  createdAt: "2026-09-28T21:50:50.241Z",
+  updatedAt: "2026-09-28T21:50:54.000Z",
 } as const satisfies WorldItem

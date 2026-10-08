@@ -7,4 +7,6 @@ export const otherwhereVTravel = {
   title: "Travel",
   world: "world/ends-of-magic",
   description: "Journeys across Davrar by land, sea and air.",
+  createdAt: "2026-09-28T21:47:12.585Z",
+  updatedAt: "2026-09-28T22:04:18.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveArtificialWomb = {
   world: "world/super-supportive",
   aliases: ["cradle"],
   description: "A womb that carries a fetus outside the body, held and monitored in a cradle pod.",
+  createdAt: "2026-09-28T21:47:30.305Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldItem

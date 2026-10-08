@@ -7,4 +7,6 @@ export const theIdleEpochPrestigeShard = {
   title: "Prestige Shards",
   world: "world/the-idle-epoch",
   description: "Shards the Substrate awards at a Condense, spent on permanent prestige skills.",
+  createdAt: "2026-10-03T19:16:27.400Z",
+  updatedAt: "2026-10-03T19:16:30.000Z",
 } as const satisfies WorldCurrency

@@ -8,4 +8,6 @@ export const towerOfNimueBasicStrike = {
   world: "world/tower-of-nimue",
   definition: "the damage a basic strike deals in the Tower of Nimue, two for each point of PWR",
   formula: {},
+  createdAt: "2026-09-26T18:11:44.575Z",
+  updatedAt: "2026-09-26T18:12:05.000Z",
 } as const satisfies WorldDerivedMetric

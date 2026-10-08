@@ -7,4 +7,6 @@ export const fairweatherBirchCrown = {
   title: "Birch Crown",
   world: "world/fairweather",
   description: "A ring of green birch leaves tied with ribbons, worn on the head.",
+  createdAt: "2026-10-06T22:46:18.059Z",
+  updatedAt: "2026-10-06T22:46:21.000Z",
 } as const satisfies WorldItem

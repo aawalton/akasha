@@ -8,4 +8,6 @@ export const superSupportiveMagiphysGym = {
   world: "world/super-supportive",
   aliases: ["gym floor", "white floor"],
   description: "An unbreakable gym whose floor blocks serious harm when switched on.",
+  createdAt: "2026-09-28T21:38:45.992Z",
+  updatedAt: "2026-09-28T21:38:49.000Z",
 } as const satisfies WorldItem

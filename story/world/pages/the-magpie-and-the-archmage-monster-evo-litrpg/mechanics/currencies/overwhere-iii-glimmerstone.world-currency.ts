@@ -8,4 +8,6 @@ export const overwhereIiiGlimmerstone = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description:
     "Small glowing monster cores that the System keeps for its bearer and takes as payment.",
+  createdAt: "2026-09-30T10:48:39.097Z",
+  updatedAt: "2026-09-30T10:48:42.000Z",
 } as const satisfies WorldCurrency

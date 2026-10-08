@@ -7,4 +7,6 @@ export const superSupportiveSensitivityKit = {
   title: "Sensitivity training kit",
   world: "world/super-supportive",
   description: "A set of ingredients for practising the sense of spell-relevant properties.",
+  createdAt: "2026-09-28T21:46:43.329Z",
+  updatedAt: "2026-09-28T21:46:46.000Z",
 } as const satisfies WorldItem

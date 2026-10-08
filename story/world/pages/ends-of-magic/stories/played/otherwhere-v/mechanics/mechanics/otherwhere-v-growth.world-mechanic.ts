@@ -7,4 +7,6 @@ export const otherwhereVGrowth = {
   title: "Growth",
   world: "world/ends-of-magic",
   description: "Getting stronger and more skilled.",
+  createdAt: "2026-09-28T21:36:02.821Z",
+  updatedAt: "2026-09-28T22:05:06.000Z",
 } as const satisfies WorldMechanic

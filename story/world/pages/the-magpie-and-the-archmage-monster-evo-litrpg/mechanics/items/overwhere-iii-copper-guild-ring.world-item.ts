@@ -8,4 +8,6 @@ export const overwhereIiiCopperGuildRing = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description:
     "A plain copper band stamped with the Guild's mark that resizes to its wearer. It shows the wearer's quests in System windows.",
+  createdAt: "2026-09-30T11:03:09.033Z",
+  updatedAt: "2026-09-30T11:03:11.000Z",
 } as const satisfies WorldItem

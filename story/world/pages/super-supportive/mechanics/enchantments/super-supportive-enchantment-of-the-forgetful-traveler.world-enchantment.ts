@@ -7,4 +7,6 @@ export const superSupportiveEnchantmentOfTheForgetfulTraveler = {
   title: "Enchantment of the Forgetful Traveler",
   world: "world/super-supportive",
   description: "An enchantment that makes an object tend to return to its owner.",
+  createdAt: "2026-09-28T21:46:43.327Z",
+  updatedAt: "2026-09-28T22:05:16.000Z",
 } as const satisfies WorldEnchantment

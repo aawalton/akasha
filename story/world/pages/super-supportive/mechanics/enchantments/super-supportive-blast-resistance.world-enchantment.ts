@@ -7,4 +7,6 @@ export const superSupportiveBlastResistance = {
   title: "Blast Resistance",
   world: "world/super-supportive",
   description: "An enchantment that resists heat and sudden explosive force.",
+  createdAt: "2026-09-28T21:34:06.324Z",
+  updatedAt: "2026-09-28T21:34:09.000Z",
 } as const satisfies WorldEnchantment

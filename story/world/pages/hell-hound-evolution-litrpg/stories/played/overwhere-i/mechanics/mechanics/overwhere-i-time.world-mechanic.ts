@@ -7,4 +7,6 @@ export const overwhereITime = {
   title: "Time",
   world: "world/hell-hound-evolution-litrpg",
   description: "The day and hour it is.",
+  createdAt: "2026-09-29T12:21:02.517Z",
+  updatedAt: "2026-09-29T12:21:06.000Z",
 } as const satisfies WorldMechanic

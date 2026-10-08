@@ -7,4 +7,6 @@ export const overwhereIiiBoneRing = {
   title: "Bone Ring",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A plain ring carved from yellowed bone, cracked across.",
+  createdAt: "2026-10-03T00:51:16.866Z",
+  updatedAt: "2026-10-03T00:51:20.000Z",
 } as const satisfies WorldItem

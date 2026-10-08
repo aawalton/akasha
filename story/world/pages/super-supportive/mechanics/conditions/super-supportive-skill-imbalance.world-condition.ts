@@ -9,4 +9,6 @@ export const superSupportiveSkillImbalance = {
   aliases: ["A scale tips", "imbalance and loss of skill assignment"],
   description:
     "A dangerous state where free authority grows strong enough to break an Avowed's affixation.",
+  createdAt: "2026-09-28T21:37:54.678Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldCondition

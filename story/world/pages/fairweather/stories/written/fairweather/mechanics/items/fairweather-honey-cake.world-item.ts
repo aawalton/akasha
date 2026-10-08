@@ -8,4 +8,6 @@ export const fairweatherHoneyCake = {
   world: "world/fairweather",
   description:
     "A round golden cake made with a whole comb of honey, dense and sticky, best after a night's rest under a cloth.",
+  createdAt: "2026-10-04T09:14:16.355Z",
+  updatedAt: "2026-10-04T09:14:19.000Z",
 } as const satisfies WorldItem

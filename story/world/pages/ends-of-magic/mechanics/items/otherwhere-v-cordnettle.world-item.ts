@@ -7,4 +7,6 @@ export const otherwhereVCordnettle = {
   title: "Cordnettle",
   world: "world/ends-of-magic",
   description: "A tall, hairy-stemmed stinging nettle.",
+  createdAt: "2026-09-28T22:01:27.751Z",
+  updatedAt: "2026-09-28T22:01:30.000Z",
 } as const satisfies WorldItem

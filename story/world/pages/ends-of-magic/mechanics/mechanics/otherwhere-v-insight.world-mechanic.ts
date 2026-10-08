@@ -8,4 +8,6 @@ export const otherwhereVInsight = {
   world: "world/ends-of-magic",
   aliases: ["Insights", "Grand Insight"],
   description: "A true understanding of how something works.",
+  createdAt: "2026-09-28T21:42:31.109Z",
+  updatedAt: "2026-09-28T21:47:22.000Z",
 } as const satisfies WorldMechanic

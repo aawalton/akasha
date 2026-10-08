@@ -7,4 +7,6 @@ export const overwhereIResolution = {
   title: "Resolution",
   world: "world/hell-hound-evolution-litrpg",
   description: "Whether an attempt in doubt succeeds, and how well.",
+  createdAt: "2026-09-29T12:24:31.367Z",
+  updatedAt: "2026-09-29T12:24:34.000Z",
 } as const satisfies WorldMechanic

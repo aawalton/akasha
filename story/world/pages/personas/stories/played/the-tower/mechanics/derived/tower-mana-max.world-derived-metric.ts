@@ -7,4 +7,6 @@ export const towerManaMax = {
   title: "Max Mana",
   definition: "the most mana a character in the Tower can hold",
   formula: {},
+  createdAt: "2026-09-22T17:42:53.351Z",
+  updatedAt: "2026-09-26T14:54:15.000Z",
 } as const satisfies WorldDerivedMetric

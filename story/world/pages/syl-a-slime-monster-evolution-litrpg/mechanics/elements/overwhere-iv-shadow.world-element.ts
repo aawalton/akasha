@@ -7,4 +7,6 @@ export const overwhereIvShadow = {
   title: "Shadow",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The mana of darkness and concealment.",
+  createdAt: "2026-09-29T12:45:14.913Z",
+  updatedAt: "2026-09-29T12:45:17.000Z",
 } as const satisfies WorldElement

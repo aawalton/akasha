@@ -8,4 +8,6 @@ export const superSupportiveSpellRing = {
   world: "world/super-supportive",
   aliases: ["wizard's ring"],
   description: "An enchanted ring that works one spell effect.",
+  createdAt: "2026-09-28T21:38:45.992Z",
+  updatedAt: "2026-09-28T21:38:49.000Z",
 } as const satisfies WorldItem

@@ -7,4 +7,6 @@ export const overwhereIiGreymawEar = {
   title: "Greymaw Ear",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "A severed ear, furred and grey-scaled, reeking of rotten salt.",
+  createdAt: "2026-09-30T19:31:27.432Z",
+  updatedAt: "2026-09-30T19:31:30.000Z",
 } as const satisfies WorldItem

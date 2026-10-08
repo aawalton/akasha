@@ -7,4 +7,6 @@ export const towerMentalAttack = {
   title: "Mental Attack",
   definition: "how hard a character in the Tower presses on another mind",
   formula: {},
+  createdAt: "2026-09-22T17:45:05.906Z",
+  updatedAt: "2026-09-26T14:54:15.000Z",
 } as const satisfies WorldDerivedMetric

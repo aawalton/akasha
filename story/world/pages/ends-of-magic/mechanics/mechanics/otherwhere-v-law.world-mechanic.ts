@@ -8,4 +8,6 @@ export const otherwhereVLaw = {
   world: "world/ends-of-magic",
   aliases: ["blood price", "the Truce of Ostren"],
   description: "The common laws of Davrar.",
+  createdAt: "2026-09-28T21:57:00.955Z",
+  updatedAt: "2026-09-28T21:57:03.000Z",
 } as const satisfies WorldMechanic

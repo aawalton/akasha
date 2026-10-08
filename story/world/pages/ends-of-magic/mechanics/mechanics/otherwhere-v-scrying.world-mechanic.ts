@@ -8,4 +8,6 @@ export const otherwhereVScrying = {
   world: "world/ends-of-magic",
   aliases: ["divination", "detection magic"],
   description: "Magical sight of distant places and hidden things.",
+  createdAt: "2026-09-28T21:51:00.551Z",
+  updatedAt: "2026-09-28T21:51:05.000Z",
 } as const satisfies WorldMechanic

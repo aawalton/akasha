@@ -7,4 +7,6 @@ export const otherwhereVBargaining = {
   title: "Bargaining",
   world: "world/ends-of-magic",
   description: "Trading goods, work and coin with the people Nala meets.",
+  createdAt: "2026-09-28T21:36:02.820Z",
+  updatedAt: "2026-09-28T21:36:06.000Z",
 } as const satisfies WorldMechanic

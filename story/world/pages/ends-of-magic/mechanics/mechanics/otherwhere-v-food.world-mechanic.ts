@@ -8,4 +8,6 @@ export const otherwhereVFood = {
   world: "world/ends-of-magic",
   aliases: ["drink", "cuisine"],
   description: "The food and drink of Davrar.",
+  createdAt: "2026-09-28T21:56:15.618Z",
+  updatedAt: "2026-09-28T21:56:18.000Z",
 } as const satisfies WorldMechanic

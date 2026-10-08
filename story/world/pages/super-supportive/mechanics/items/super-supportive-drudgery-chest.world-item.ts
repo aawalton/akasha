@@ -8,4 +8,6 @@ export const superSupportiveDrudgeryChest = {
   world: "world/super-supportive",
   aliases: ["drudgery box", "drudgery room"],
   description: "A little factory that can be taught to do a repetitive job.",
+  createdAt: "2026-09-28T21:42:46.963Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

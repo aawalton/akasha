@@ -7,4 +7,6 @@ export const otherwhereVUnderworldMagic = {
   title: "Magic of the Underworld",
   world: "world/ends-of-magic",
   description: "The deep magic of the world beneath Davrar's surface.",
+  createdAt: "2026-09-28T21:53:13.926Z",
+  updatedAt: "2026-09-28T21:53:17.000Z",
 } as const satisfies WorldMechanic

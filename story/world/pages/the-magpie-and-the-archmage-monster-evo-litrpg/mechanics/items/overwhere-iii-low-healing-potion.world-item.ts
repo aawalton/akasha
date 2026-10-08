@@ -8,4 +8,6 @@ export const overwhereIiiLowHealingPotion = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description:
     "A stoppered clay flask of cloudy green herb-brew that eases pain and gives back about 10 health.",
+  createdAt: "2026-09-30T17:30:14.027Z",
+  updatedAt: "2026-09-30T17:30:16.000Z",
 } as const satisfies WorldItem

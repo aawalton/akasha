@@ -7,4 +7,6 @@ export const otherwhereVResolution = {
   title: "Resolution",
   world: "world/ends-of-magic",
   description: "Whether what Nala tries comes off: well, at a price, or not at all.",
+  createdAt: "2026-09-28T21:35:45.364Z",
+  updatedAt: "2026-09-28T21:35:48.000Z",
 } as const satisfies WorldMechanic

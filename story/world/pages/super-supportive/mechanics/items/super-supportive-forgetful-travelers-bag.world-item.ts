@@ -8,4 +8,6 @@ export const superSupportiveForgetfulTravelersBag = {
   world: "world/super-supportive",
   aliases: ["messenger bag"],
   description: "A satchel more likely to return to its owner than a mundane object would be.",
+  createdAt: "2026-09-28T21:46:43.328Z",
+  updatedAt: "2026-09-28T21:46:46.000Z",
 } as const satisfies WorldItem

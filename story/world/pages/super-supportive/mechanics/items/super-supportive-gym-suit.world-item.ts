@@ -8,4 +8,6 @@ export const superSupportiveGymSuit = {
   world: "world/super-supportive",
   aliases: ["protective bodysuit", "unitard"],
   description: "A gray self-sealing suit with red bands worn in the MagiPhys Gym.",
+  createdAt: "2026-09-28T21:38:45.991Z",
+  updatedAt: "2026-09-28T21:38:49.000Z",
 } as const satisfies WorldItem

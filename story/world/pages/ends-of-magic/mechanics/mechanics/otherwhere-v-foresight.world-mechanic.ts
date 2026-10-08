@@ -8,4 +8,6 @@ export const otherwhereVForesight = {
   world: "world/ends-of-magic",
   aliases: ["prophecy", "fate-reading", "fate-weaving", "foretelling"],
   description: "Magic of fate and the future.",
+  createdAt: "2026-09-28T21:51:28.429Z",
+  updatedAt: "2026-09-28T21:51:32.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereIxGlaive = {
   title: "Glaive",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A long pole weapon with a curved, single-edged blade at its tip.",
+  createdAt: "2026-09-28T23:03:59.162Z",
+  updatedAt: "2026-09-28T23:04:02.000Z",
 } as const satisfies WorldItem

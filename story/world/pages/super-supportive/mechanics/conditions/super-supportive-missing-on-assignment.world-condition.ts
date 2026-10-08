@@ -11,4 +11,6 @@ export const superSupportiveMissingOnAssignment = {
     "Presumed Dead due to Teleportation Failure",
   ],
   description: "A System status for an Avowed lost on a quest.",
+  createdAt: "2026-09-28T21:37:54.678Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldCondition

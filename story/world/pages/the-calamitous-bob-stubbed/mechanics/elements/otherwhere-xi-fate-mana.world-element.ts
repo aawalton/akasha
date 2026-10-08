@@ -8,4 +8,6 @@ export const otherwhereXiFateMana = {
   world: "world/the-calamitous-bob-stubbed",
   description: "The hue of mana that is distant causality itself.",
   aliases: ["Fate magic"],
+  createdAt: "2026-09-29T00:12:54.254Z",
+  updatedAt: "2026-09-29T00:13:05.000Z",
 } as const satisfies WorldElement

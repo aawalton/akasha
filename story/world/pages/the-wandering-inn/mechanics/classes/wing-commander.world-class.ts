@@ -9,4 +9,6 @@ export const wingCommander = {
   appearanceCount: 15,
   aliases: ["wing-commanders"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.454Z",
+  updatedAt: "2026-09-22T13:30:28.000Z",
 } as const satisfies WorldClass

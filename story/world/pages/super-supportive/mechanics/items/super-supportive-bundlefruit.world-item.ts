@@ -8,4 +8,6 @@ export const superSupportiveBundlefruit = {
   world: "world/super-supportive",
   aliases: ["bundlefruit wine"],
   description: "A fruit.",
+  createdAt: "2026-09-28T21:47:30.306Z",
+  updatedAt: "2026-09-28T22:05:16.000Z",
 } as const satisfies WorldItem

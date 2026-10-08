@@ -7,4 +7,6 @@ export const otherwhereIxKrakenMeat = {
   title: "Kraken Meat",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The meat of a kraken.",
+  createdAt: "2026-09-28T23:02:36.247Z",
+  updatedAt: "2026-09-28T23:02:39.000Z",
 } as const satisfies WorldItem

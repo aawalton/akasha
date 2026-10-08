@@ -8,4 +8,6 @@ export const otherwhereIvTime = {
   world: "world/beware-of-chicken",
   description:
     "The day and hour it is where Nala is, counted in days from the morning she came to.",
+  createdAt: "2026-09-28T21:27:33.429Z",
+  updatedAt: "2026-09-28T21:27:38.000Z",
 } as const satisfies WorldMechanic

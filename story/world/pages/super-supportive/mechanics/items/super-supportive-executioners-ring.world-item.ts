@@ -8,4 +8,6 @@ export const superSupportiveExecutionersRing = {
   world: "world/super-supportive",
   aliases: ["ring of death"],
   description: "A black ring engraved with the logogram for death.",
+  createdAt: "2026-09-28T21:44:48.768Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldItem

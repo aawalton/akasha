@@ -7,4 +7,6 @@ export const overwhereIiColdIronBoarSpear = {
   title: "Cold-Iron Boar Spear",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "A long boar spear whose dark, dull head has a crossbar below the blade.",
+  createdAt: "2026-09-30T18:22:17.279Z",
+  updatedAt: "2026-09-30T18:26:44.000Z",
 } as const satisfies WorldItem

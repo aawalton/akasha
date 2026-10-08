@@ -8,4 +8,6 @@ export const otherwhereVSpells = {
   world: "world/ends-of-magic",
   aliases: ["spells"],
   description: "Particular spells known by name.",
+  createdAt: "2026-09-28T21:37:46.192Z",
+  updatedAt: "2026-09-28T21:48:29.000Z",
 } as const satisfies WorldMechanic

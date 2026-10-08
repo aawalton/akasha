@@ -8,4 +8,6 @@ export const breathOfTheWildSpiritOrb = {
   world: "world/hyrule",
   description:
     "A small warm sphere of light a shrine's monk becomes, carried in the Sheikah Slate.",
+  createdAt: "2026-10-03T19:15:51.777Z",
+  updatedAt: "2026-10-03T19:15:54.000Z",
 } as const satisfies WorldCurrency

@@ -7,4 +7,6 @@ export const otherwhereViiiResolution = {
   title: "Resolution",
   world: "world/breaker-of-horizons",
   description: "Whether what Nala tries comes off: well, at a price, or not at all.",
+  createdAt: "2026-09-28T23:09:16.716Z",
+  updatedAt: "2026-09-28T23:09:21.000Z",
 } as const satisfies WorldMechanic

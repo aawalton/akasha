@@ -9,4 +9,6 @@ export const breathOfTheWildRemoteBomb = {
   description:
     "A Sheikah Slate rune that makes a round or cube bomb of blue light, set off from a distance.",
   unrevealed: false,
+  createdAt: "2026-10-03T19:15:51.778Z",
+  updatedAt: "2026-10-03T19:15:54.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const towerInitiative = {
   title: "Initiative",
   definition: "how early a character in the Tower acts in a fight",
   formula: {},
+  createdAt: "2026-09-22T17:43:58.596Z",
+  updatedAt: "2026-09-26T14:54:15.000Z",
 } as const satisfies WorldDerivedMetric

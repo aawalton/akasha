@@ -8,4 +8,6 @@ export const otherwhereVWorship = {
   world: "world/ends-of-magic",
   aliases: ["religion", "the Deicide Concord"],
   description: "The worship of Davrar's gods.",
+  createdAt: "2026-09-28T21:57:00.955Z",
+  updatedAt: "2026-09-28T21:57:03.000Z",
 } as const satisfies WorldMechanic

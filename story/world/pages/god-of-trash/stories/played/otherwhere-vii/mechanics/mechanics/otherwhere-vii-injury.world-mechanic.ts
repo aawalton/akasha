@@ -7,4 +7,6 @@ export const otherwhereViiInjury = {
   title: "Injury",
   world: "world/god-of-trash",
   description: "Hurt to the body: cuts, bruises, bites, burns and breaks.",
+  createdAt: "2026-09-28T22:45:29.189Z",
+  updatedAt: "2026-09-28T22:45:44.000Z",
 } as const satisfies WorldMechanic

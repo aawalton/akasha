@@ -8,4 +8,6 @@ export const overwhereIiiHoodedCloak = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description:
     "A heavy gray wool cloak with a deep hood, pinned at the throat with a plain horn toggle.",
+  createdAt: "2026-09-30T18:28:32.213Z",
+  updatedAt: "2026-09-30T18:28:35.000Z",
 } as const satisfies WorldItem

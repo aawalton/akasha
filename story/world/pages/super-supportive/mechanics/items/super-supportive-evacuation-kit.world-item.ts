@@ -9,4 +9,6 @@ export const superSupportiveEvacuationKit = {
   aliases: ["beacon orb", "personal medical kit"],
   description:
     "A prepared case of supplies for one person's evacuation, with a beacon orb, medical kit and tablet.",
+  createdAt: "2026-09-28T21:42:46.963Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

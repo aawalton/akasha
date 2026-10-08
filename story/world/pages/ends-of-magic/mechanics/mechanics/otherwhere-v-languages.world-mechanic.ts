@@ -8,4 +8,6 @@ export const otherwhereVLanguages = {
   world: "world/ends-of-magic",
   aliases: ["idioms", "sayings", "curses"],
   description: "The tongues and sayings of Davrar's peoples.",
+  createdAt: "2026-09-28T21:55:44.772Z",
+  updatedAt: "2026-09-28T21:55:48.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const towerStaminaMax = {
   title: "Max Stamina",
   definition: "the most effort a character in the Tower can spend",
   formula: {},
+  createdAt: "2026-09-22T17:43:12.172Z",
+  updatedAt: "2026-09-26T14:54:15.000Z",
 } as const satisfies WorldDerivedMetric

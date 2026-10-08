@@ -7,4 +7,6 @@ export const superSupportiveMoverDiscs = {
   title: "Mover discs",
   world: "world/super-supportive",
   description: "Silver pucks that stick to objects and lift them by remote.",
+  createdAt: "2026-09-28T21:38:45.992Z",
+  updatedAt: "2026-09-28T21:38:49.000Z",
 } as const satisfies WorldItem

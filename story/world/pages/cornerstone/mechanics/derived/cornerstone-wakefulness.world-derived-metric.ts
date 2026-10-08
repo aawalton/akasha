@@ -22,4 +22,6 @@ export const cornerstoneWakefulness = {
       statement: "The tier the Waking Stone is at is the highest tier its Wakefulness reaches.",
     },
   ],
+  createdAt: "2026-09-26T18:08:43.643Z",
+  updatedAt: "2026-09-26T18:08:55.000Z",
 } as const satisfies WorldDerivedMetric

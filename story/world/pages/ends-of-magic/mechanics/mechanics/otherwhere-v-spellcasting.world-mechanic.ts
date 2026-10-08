@@ -8,4 +8,6 @@ export const otherwhereVSpellcasting = {
   world: "world/ends-of-magic",
   aliases: ["magery", "spell weaves", "spell constructs"],
   description: "The mage's craft of spells.",
+  createdAt: "2026-09-28T21:36:41.273Z",
+  updatedAt: "2026-09-28T21:48:29.000Z",
 } as const satisfies WorldMechanic

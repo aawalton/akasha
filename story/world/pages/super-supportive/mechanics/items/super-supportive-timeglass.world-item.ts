@@ -8,4 +8,6 @@ export const superSupportiveTimeglass = {
   world: "world/super-supportive",
   aliases: ["fifteen-year timer"],
   description: "A horizontal hourglass that drops one grain of sand a minute for fifteen years.",
+  createdAt: "2026-09-28T21:42:46.964Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

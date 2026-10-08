@@ -8,4 +8,6 @@ export const otherwhereIiChests = {
   world: "world/labyrinth-of-the-mad-god",
   description:
     "A reward box from the System, graded by its color, holding items and knowledge points.",
+  createdAt: "2026-09-28T20:13:31.357Z",
+  updatedAt: "2026-09-28T22:39:05.000Z",
 } as const satisfies WorldMechanic

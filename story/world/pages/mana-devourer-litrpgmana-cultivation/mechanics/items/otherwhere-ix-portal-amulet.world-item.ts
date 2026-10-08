@@ -7,4 +7,6 @@ export const otherwhereIxPortalAmulet = {
   title: "Portal Amulet",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "An amulet that opens a portal to a set place.",
+  createdAt: "2026-09-28T23:03:15.905Z",
+  updatedAt: "2026-09-28T23:03:21.000Z",
 } as const satisfies WorldItem

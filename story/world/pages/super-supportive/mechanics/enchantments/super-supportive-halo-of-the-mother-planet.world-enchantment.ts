@@ -7,4 +7,6 @@ export const superSupportiveHaloOfTheMotherPlanet = {
   title: "Halo of the Mother Planet",
   world: "world/super-supportive",
   description: "A magical effect worked into a uniform.",
+  createdAt: "2026-09-28T21:34:06.324Z",
+  updatedAt: "2026-09-28T21:34:09.000Z",
 } as const satisfies WorldEnchantment

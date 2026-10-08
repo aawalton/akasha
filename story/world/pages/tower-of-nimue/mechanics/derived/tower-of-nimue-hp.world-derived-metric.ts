@@ -8,4 +8,6 @@ export const towerOfNimueHp = {
   world: "world/tower-of-nimue",
   definition: "the health a climber in the Tower of Nimue has, ten for each point of VIT",
   formula: {},
+  createdAt: "2026-09-26T18:11:44.576Z",
+  updatedAt: "2026-09-26T18:12:05.000Z",
 } as const satisfies WorldDerivedMetric

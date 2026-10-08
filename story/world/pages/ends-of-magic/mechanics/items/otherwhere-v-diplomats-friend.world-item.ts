@@ -7,4 +7,6 @@ export const otherwhereVDiplomatsFriend = {
   title: "Diplomat's Friend",
   world: "world/ends-of-magic",
   description: "A small vial of poison-testing reagent.",
+  createdAt: "2026-09-28T21:44:01.771Z",
+  updatedAt: "2026-09-28T21:49:15.000Z",
 } as const satisfies WorldItem

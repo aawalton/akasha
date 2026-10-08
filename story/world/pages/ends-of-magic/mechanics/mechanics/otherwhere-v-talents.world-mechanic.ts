@@ -8,4 +8,6 @@ export const otherwhereVTalents = {
   world: "world/ends-of-magic",
   aliases: ["Talent", "Permanent Talent", "Pending Talent"],
   description: "A ranked personal power.",
+  createdAt: "2026-09-28T21:37:50.056Z",
+  updatedAt: "2026-09-28T21:48:41.000Z",
 } as const satisfies WorldMechanic

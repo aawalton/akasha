@@ -8,4 +8,6 @@ export const otherwhereVMagicResistance = {
   world: "world/ends-of-magic",
   aliases: ["resisting magic"],
   description: "A person's resistance to spells.",
+  createdAt: "2026-09-28T21:42:01.741Z",
+  updatedAt: "2026-09-28T21:48:52.000Z",
 } as const satisfies WorldMechanic

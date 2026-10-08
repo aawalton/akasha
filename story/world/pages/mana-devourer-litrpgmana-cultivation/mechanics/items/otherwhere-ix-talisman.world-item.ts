@@ -7,4 +7,6 @@ export const otherwhereIxTalisman = {
   title: "Talisman",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A paper charm written with a single spell.",
+  createdAt: "2026-09-28T23:01:46.294Z",
+  updatedAt: "2026-09-28T23:01:50.000Z",
 } as const satisfies WorldItem

@@ -6,4 +6,6 @@ export const theSynecticHaze = {
   slug: "the-synectic-haze",
   title: "The Synectic Haze",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:39:53.863Z",
+  updatedAt: "2026-09-19T16:16:21.000Z",
 } as const satisfies WorldCurse

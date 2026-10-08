@@ -8,4 +8,6 @@ export const superSupportiveBarrierDevice = {
   world: "world/super-supportive",
   aliases: ["barrier device"],
   description: "A tall wand-shaped device; several together make a light dome that zaps demons.",
+  createdAt: "2026-09-28T21:38:45.990Z",
+  updatedAt: "2026-09-28T21:38:49.000Z",
 } as const satisfies WorldItem

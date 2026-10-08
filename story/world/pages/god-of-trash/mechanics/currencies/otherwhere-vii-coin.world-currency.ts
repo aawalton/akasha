@@ -12,4 +12,6 @@ export const otherwhereViiCoin = {
     { name: "silver", worth: 100 },
     { name: "penny", worth: 1 },
   ],
+  createdAt: "2026-09-30T10:41:35.527Z",
+  updatedAt: "2026-09-30T10:41:41.000Z",
 } as const satisfies WorldCurrency

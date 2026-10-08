@@ -7,4 +7,6 @@ export const overwhereIvHoly = {
   title: "Holy",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The sacred mana that wards against curses and the undead.",
+  createdAt: "2026-09-29T12:45:14.912Z",
+  updatedAt: "2026-09-29T12:45:17.000Z",
 } as const satisfies WorldElement

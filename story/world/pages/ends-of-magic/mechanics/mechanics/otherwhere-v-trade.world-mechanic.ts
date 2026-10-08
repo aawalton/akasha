@@ -7,4 +7,6 @@ export const otherwhereVTrade = {
   title: "Trade",
   world: "world/ends-of-magic",
   description: "The commerce of Davrar.",
+  createdAt: "2026-09-28T21:56:15.618Z",
+  updatedAt: "2026-09-28T21:57:03.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereVInjury = {
   title: "Injury",
   world: "world/ends-of-magic",
   description: "Hurt to the body: cuts, bites, burns and breaks.",
+  createdAt: "2026-09-28T21:35:45.363Z",
+  updatedAt: "2026-09-28T22:05:39.000Z",
 } as const satisfies WorldMechanic

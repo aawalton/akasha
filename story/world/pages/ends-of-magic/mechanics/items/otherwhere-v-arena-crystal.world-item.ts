@@ -8,4 +8,6 @@ export const otherwhereVArenaCrystal = {
   world: "world/ends-of-magic",
   aliases: ["arena shell"],
   description: "An indestructible magical crystal.",
+  createdAt: "2026-09-28T21:56:09.961Z",
+  updatedAt: "2026-09-28T22:04:18.000Z",
 } as const satisfies WorldItem

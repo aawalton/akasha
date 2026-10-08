@@ -9,4 +9,6 @@ export const veteranWarrior = {
   appearanceCount: 1,
   evolvesToSlugs: ["world-class/exemplar-warrior"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.110Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

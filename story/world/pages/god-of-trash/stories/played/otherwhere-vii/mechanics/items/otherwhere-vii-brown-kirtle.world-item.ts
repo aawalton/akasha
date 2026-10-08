@@ -7,4 +7,6 @@ export const otherwhereViiBrownKirtle = {
   title: "Brown Kirtle",
   world: "world/god-of-trash",
   description: "A plain brown wool dress, laced at the front, worn soft at the elbows.",
+  createdAt: "2026-09-29T01:15:12.282Z",
+  updatedAt: "2026-09-29T01:15:15.000Z",
 } as const satisfies WorldItem

@@ -8,4 +8,6 @@ export const otherwhereVTeleportation = {
   world: "world/ends-of-magic",
   aliases: ["Teleport", "gates", "Gate-stones", "Travel"],
   description: "Instant magical travel between places.",
+  createdAt: "2026-09-28T21:47:40.254Z",
+  updatedAt: "2026-09-28T21:49:28.000Z",
 } as const satisfies WorldMechanic

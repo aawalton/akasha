@@ -7,4 +7,6 @@ export const otherwhereIxChameleonPotion = {
   title: "Chameleon Potion",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A potion that makes its drinker blend into their surroundings.",
+  createdAt: "2026-09-28T23:00:57.625Z",
+  updatedAt: "2026-09-28T23:01:01.000Z",
 } as const satisfies WorldItem

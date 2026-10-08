@@ -8,4 +8,6 @@ export const cornerstoneFusedPowers = {
   world: "world/cornerstone",
   description:
     "Research can fuse two Faculties into a higher Power once at least two Faculties stand at Depth 3 or more. A fusion adds no Wakefulness but unlocks a named Power: Sight and Memory fuse into Foresight, and Warmth and Provision fuse into Stewardship. The first fused Powers appear at the Knowing tier.",
+  createdAt: "2026-09-26T18:06:09.401Z",
+  updatedAt: "2026-09-26T18:06:13.000Z",
 } as const satisfies WorldMechanic

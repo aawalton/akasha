@@ -6,4 +6,6 @@ export const cornerstoneTheFourLaborsTheFoundingFork = {
   slug: "cornerstone-the-four-labors-the-founding-fork",
   title: "The Four Labors (the founding fork)",
   world: "world/cornerstone",
+  createdAt: "2026-09-26T17:41:16.798Z",
+  updatedAt: "2026-09-26T17:41:21.000Z",
 } as const satisfies WorldMechanic

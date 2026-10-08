@@ -9,4 +9,6 @@ export const superSupportiveOppositeStone = {
   aliases: ["blinky checker", "crystal checker"],
   description:
     "A flat, cloudy, checker-sized crystal that glows when its holder's Opposite does a wordchain.",
+  createdAt: "2026-09-28T21:43:33.025Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldItem

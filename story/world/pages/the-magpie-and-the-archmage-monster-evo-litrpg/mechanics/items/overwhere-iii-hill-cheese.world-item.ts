@@ -7,4 +7,6 @@ export const overwhereIiiHillCheese = {
   title: "Hill Cheese",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A hard, pale wedge of sheep's cheese with a waxed rind.",
+  createdAt: "2026-10-03T11:28:39.595Z",
+  updatedAt: "2026-10-03T11:28:46.000Z",
 } as const satisfies WorldItem

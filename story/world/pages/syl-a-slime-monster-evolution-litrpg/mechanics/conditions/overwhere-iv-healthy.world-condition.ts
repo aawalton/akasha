@@ -7,4 +7,6 @@ export const overwhereIvHealthy = {
   title: "Healthy",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The status of a body with no wound, sickness or affliction upon it.",
+  createdAt: "2026-09-30T09:51:24.758Z",
+  updatedAt: "2026-09-30T09:51:29.000Z",
 } as const satisfies WorldCondition

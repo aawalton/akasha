@@ -8,4 +8,6 @@ export const wyvernRider = {
   world: "world/the-wandering-inn",
   appearanceCount: 14,
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.469Z",
+  updatedAt: "2026-09-22T13:30:28.000Z",
 } as const satisfies WorldClass

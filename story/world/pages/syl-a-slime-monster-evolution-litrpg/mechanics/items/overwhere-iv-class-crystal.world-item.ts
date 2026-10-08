@@ -7,4 +7,6 @@ export const overwhereIvClassCrystal = {
   title: "Class Crystal",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "A city crystal through which a person swaps to any class they have unlocked.",
+  createdAt: "2026-09-29T12:44:28.506Z",
+  updatedAt: "2026-09-29T12:44:31.000Z",
 } as const satisfies WorldItem

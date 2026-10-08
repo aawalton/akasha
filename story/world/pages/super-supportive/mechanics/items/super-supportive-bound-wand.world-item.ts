@@ -8,4 +8,6 @@ export const superSupportiveBoundWand = {
   world: "world/super-supportive",
   aliases: ["wand"],
   description: "A wand bound to one wizard, almost like an auriad.",
+  createdAt: "2026-09-28T21:43:02.945Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldItem

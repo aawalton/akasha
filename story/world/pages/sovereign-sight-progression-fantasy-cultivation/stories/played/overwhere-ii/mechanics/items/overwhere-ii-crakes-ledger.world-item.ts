@@ -7,4 +7,6 @@ export const overwhereIiCrakesLedger = {
   title: "Crake's Ledger",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "A fat leather ledger, its pages close-written in a neat, small hand.",
+  createdAt: "2026-10-02T18:14:23.851Z",
+  updatedAt: "2026-10-02T18:14:27.000Z",
 } as const satisfies WorldItem

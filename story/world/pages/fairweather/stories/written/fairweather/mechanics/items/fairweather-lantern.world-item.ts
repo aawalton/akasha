@@ -8,4 +8,6 @@ export const fairweatherLantern = {
   world: "world/fairweather",
   description:
     "A tin hand lantern with a glass chimney and a ring to carry it by, burning lamp oil.",
+  createdAt: "2026-10-04T08:49:52.863Z",
+  updatedAt: "2026-10-04T08:49:55.000Z",
 } as const satisfies WorldItem

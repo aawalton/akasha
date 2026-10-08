@@ -8,4 +8,6 @@ export const otherwhereVPaths = {
   world: "world/ends-of-magic",
   aliases: ["Path", "Path of Faith"],
   description: "A named line of power a person commits to.",
+  createdAt: "2026-09-28T21:51:12.302Z",
+  updatedAt: "2026-09-28T21:51:15.000Z",
 } as const satisfies WorldMechanic

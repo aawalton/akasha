@@ -7,4 +7,6 @@ export const otherwhereVDisadvantage = {
   title: "Disadvantage",
   world: "world/ends-of-magic",
   description: "The state of a grown person with no Talents, classes or skills.",
+  createdAt: "2026-09-28T21:42:31.109Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldMechanic

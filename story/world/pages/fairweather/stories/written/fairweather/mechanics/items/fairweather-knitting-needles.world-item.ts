@@ -7,4 +7,6 @@ export const fairweatherKnittingNeedles = {
   title: "Knitting Needles",
   world: "world/fairweather",
   description: "A pair of smooth pointed needles of polished birch, for knitting wool.",
+  createdAt: "2026-10-06T14:03:32.265Z",
+  updatedAt: "2026-10-06T14:03:34.000Z",
 } as const satisfies WorldItem

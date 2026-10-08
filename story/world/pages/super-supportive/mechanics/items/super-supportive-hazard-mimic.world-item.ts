@@ -8,4 +8,6 @@ export const superSupportiveHazardMimic = {
   world: "world/super-supportive",
   description:
     "An expandable, rubbery training polyhedron on four pointed legs that charges or flees like a creature.",
+  createdAt: "2026-09-28T21:46:43.329Z",
+  updatedAt: "2026-09-28T21:46:46.000Z",
 } as const satisfies WorldItem

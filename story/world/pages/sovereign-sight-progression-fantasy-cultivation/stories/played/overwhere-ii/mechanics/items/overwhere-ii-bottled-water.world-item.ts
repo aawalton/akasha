@@ -8,4 +8,6 @@ export const overwhereIiBottledWater = {
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description:
     "A small stoppered bottle of cold, dense Water drawn out of a Talent, a draught's worth.",
+  createdAt: "2026-10-02T18:14:17.717Z",
+  updatedAt: "2026-10-02T18:14:21.000Z",
 } as const satisfies WorldItem

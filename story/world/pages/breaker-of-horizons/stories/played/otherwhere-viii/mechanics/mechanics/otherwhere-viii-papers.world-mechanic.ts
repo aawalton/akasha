@@ -7,4 +7,6 @@ export const otherwhereViiiPapers = {
   title: "Papers",
   world: "world/breaker-of-horizons",
   description: "Proof of who someone is, on a civic card, in a land that asks for it.",
+  createdAt: "2026-09-28T23:09:16.716Z",
+  updatedAt: "2026-09-28T23:09:21.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereVBrookberry = {
   title: "Brookberry",
   world: "world/ends-of-magic",
   description: "A small dark-red berry on thorny canes.",
+  createdAt: "2026-09-28T22:01:04.543Z",
+  updatedAt: "2026-09-28T22:01:07.000Z",
 } as const satisfies WorldItem

@@ -7,4 +7,6 @@ export const overwhereIiiGlimmerSpeck = {
   title: "Glimmer Speck",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A crumb of pale, faintly glowing stone, a tenth of a glimmerstone.",
+  createdAt: "2026-09-30T22:17:51.807Z",
+  updatedAt: "2026-10-02T20:45:29.000Z",
 } as const satisfies WorldItem

@@ -8,4 +8,6 @@ export const superSupportiveDetectorFlashlight = {
   world: "world/super-supportive",
   description:
     "A flashlight whose red beam shows flaws in handcrafted or spell-crafted objects as hot pink.",
+  createdAt: "2026-09-28T21:42:46.962Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

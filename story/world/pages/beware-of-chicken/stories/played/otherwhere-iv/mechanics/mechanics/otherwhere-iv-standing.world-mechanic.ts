@@ -7,4 +7,6 @@ export const otherwhereIvStanding = {
   title: "Standing",
   world: "world/beware-of-chicken",
   description: "How far a person, or a beast, has come to trust and respect Nala.",
+  createdAt: "2026-09-28T21:38:27.080Z",
+  updatedAt: "2026-09-28T21:38:33.000Z",
 } as const satisfies WorldMechanic

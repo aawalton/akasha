@@ -8,4 +8,6 @@ export const superSupportiveSkillFatigue = {
   world: "world/super-supportive",
   aliases: ["full magical fatigue", "skill drain", "skill exhaustion"],
   description: "Exhaustion from overusing a skill, ending in an apathetic, placid collapse.",
+  createdAt: "2026-09-28T21:37:54.678Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldCondition

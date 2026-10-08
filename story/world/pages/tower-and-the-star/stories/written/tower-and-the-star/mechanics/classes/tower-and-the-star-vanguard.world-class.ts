@@ -8,4 +8,6 @@ export const towerAndTheStarVanguard = {
   world: "world/tower-and-the-star",
   description:
     "A front-line defender who holds the line with shield and gauntlets, with skills such as Shield Rush and Iron Stance.",
+  createdAt: "2026-10-03T19:31:08.852Z",
+  updatedAt: "2026-10-03T19:31:12.000Z",
 } as const satisfies WorldClass

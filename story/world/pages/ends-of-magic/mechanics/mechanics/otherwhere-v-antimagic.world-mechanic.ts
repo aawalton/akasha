@@ -8,4 +8,6 @@ export const otherwhereVAntimagic = {
   world: "world/ends-of-magic",
   aliases: ["antimage", "antimages"],
   description: "Power opposed to magic itself.",
+  createdAt: "2026-09-28T21:43:08.245Z",
+  updatedAt: "2026-09-28T21:48:52.000Z",
 } as const satisfies WorldMechanic

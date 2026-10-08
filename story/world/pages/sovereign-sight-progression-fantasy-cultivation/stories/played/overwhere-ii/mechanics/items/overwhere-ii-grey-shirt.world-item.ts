@@ -7,4 +7,6 @@ export const overwhereIiGreyShirt = {
   title: "Grey Shirt",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "A loose dark grey shirt of soft, finely knit cloth, far too big for her.",
+  createdAt: "2026-09-30T09:17:09.992Z",
+  updatedAt: "2026-09-30T09:17:16.000Z",
 } as const satisfies WorldItem

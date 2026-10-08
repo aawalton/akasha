@@ -8,4 +8,6 @@ export const otherwhereVShieldOfSolemnance = {
   world: "world/ends-of-magic",
   aliases: ["Shields of Solemnance"],
   description: "A great warding artifact of wizardry.",
+  createdAt: "2026-09-28T21:54:53.361Z",
+  updatedAt: "2026-09-28T21:54:59.000Z",
 } as const satisfies WorldItem

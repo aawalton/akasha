@@ -7,4 +7,6 @@ export const otherwhereVGlowfern = {
   title: "Glowfern",
   world: "world/ends-of-magic",
   description: "A knee-high, feathery blue-green forest fern.",
+  createdAt: "2026-09-28T22:00:44.756Z",
+  updatedAt: "2026-09-28T22:00:47.000Z",
 } as const satisfies WorldItem

@@ -7,4 +7,6 @@ export const overwhereIiCanvasKnapsack = {
   title: "Canvas Knapsack",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "A worn canvas knapsack with a flap and two leather shoulder straps.",
+  createdAt: "2026-09-30T18:22:17.277Z",
+  updatedAt: "2026-09-30T18:22:21.000Z",
 } as const satisfies WorldItem

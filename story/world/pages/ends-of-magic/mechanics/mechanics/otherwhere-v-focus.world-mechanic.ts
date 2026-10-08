@@ -8,4 +8,6 @@ export const otherwhereVFocus = {
   world: "world/ends-of-magic",
   aliases: ["Regenerative Focus", "Limitless Focus"],
   description: "A class resource of mental power.",
+  createdAt: "2026-09-28T21:44:26.292Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldMechanic

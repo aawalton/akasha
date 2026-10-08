@@ -7,4 +7,6 @@ export const overwhereIvGuildTag = {
   title: "Guild Tag",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "An adventurer's crystal tag, bearing a name and holding coin, kills and quests.",
+  createdAt: "2026-09-29T12:44:28.506Z",
+  updatedAt: "2026-09-29T12:44:31.000Z",
 } as const satisfies WorldItem

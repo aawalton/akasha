@@ -8,4 +8,6 @@ export const towerAndTheStarJester = {
   world: "world/tower-and-the-star",
   description:
     "A disruptor with random effects, with Chaos Grenades and skills such as Stumble and Pattern Break.",
+  createdAt: "2026-10-03T19:31:08.852Z",
+  updatedAt: "2026-10-03T19:31:12.000Z",
 } as const satisfies WorldClass

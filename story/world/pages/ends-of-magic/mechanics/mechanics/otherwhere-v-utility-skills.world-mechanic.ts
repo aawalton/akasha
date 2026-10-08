@@ -8,4 +8,6 @@ export const otherwhereVUtilitySkills = {
   world: "world/ends-of-magic",
   aliases: ["utility skill", "Pending utility skill"],
   description: "A ranked skill belonging to no class.",
+  createdAt: "2026-09-28T21:41:31.964Z",
+  updatedAt: "2026-09-28T21:48:41.000Z",
 } as const satisfies WorldMechanic

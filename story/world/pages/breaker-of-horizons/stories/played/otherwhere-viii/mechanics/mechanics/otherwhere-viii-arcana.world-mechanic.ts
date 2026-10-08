@@ -7,4 +7,6 @@ export const otherwhereViiiArcana = {
   title: "Arcana",
   world: "world/breaker-of-horizons",
   description: "The energy of the Art, drawn from within a person and from the air around.",
+  createdAt: "2026-09-28T23:09:16.715Z",
+  updatedAt: "2026-09-28T23:09:21.000Z",
 } as const satisfies WorldMechanic

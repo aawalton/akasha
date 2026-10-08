@@ -8,4 +8,6 @@ export const superSupportiveQuickEmbroidery = {
   world: "world/super-supportive",
   aliases: ["instant embroidery"],
   description: "Small paper packets of gray thread that apply embroidery like stickers.",
+  createdAt: "2026-09-28T21:42:46.964Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

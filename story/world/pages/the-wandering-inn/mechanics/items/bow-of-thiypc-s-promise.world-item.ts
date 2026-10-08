@@ -6,4 +6,6 @@ export const bowOfThiypcSPromise = {
   slug: "bow-of-thiypc-s-promise",
   title: "Bow of Thiypc’s Promise",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:40:23.807Z",
+  updatedAt: "2026-09-19T16:17:10.000Z",
 } as const satisfies WorldItem

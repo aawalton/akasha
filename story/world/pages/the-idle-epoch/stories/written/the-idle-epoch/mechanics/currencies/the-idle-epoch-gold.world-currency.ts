@@ -7,4 +7,6 @@ export const theIdleEpochGold = {
   title: "Gold",
   world: "world/the-idle-epoch",
   description: "The Substrate's money, written G and counted in whole Gold.",
+  createdAt: "2026-10-03T19:16:27.400Z",
+  updatedAt: "2026-10-03T19:16:30.000Z",
 } as const satisfies WorldCurrency

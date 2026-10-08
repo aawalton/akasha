@@ -9,4 +9,6 @@ export const superSupportiveCamouflageMask = {
   aliases: ["Anesidora mask"],
   description:
     "A Wrightwork mask made for one environment that makes its wearer part of that place.",
+  createdAt: "2026-09-28T21:46:43.328Z",
+  updatedAt: "2026-09-28T21:46:46.000Z",
 } as const satisfies WorldItem

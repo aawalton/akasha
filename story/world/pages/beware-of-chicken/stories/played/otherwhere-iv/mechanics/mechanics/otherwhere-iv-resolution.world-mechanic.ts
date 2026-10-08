@@ -7,4 +7,6 @@ export const otherwhereIvResolution = {
   title: "Resolution",
   world: "world/beware-of-chicken",
   description: "Whether something Nala tries comes off, when it could go either way.",
+  createdAt: "2026-09-28T21:28:34.504Z",
+  updatedAt: "2026-09-28T21:28:39.000Z",
 } as const satisfies WorldMechanic

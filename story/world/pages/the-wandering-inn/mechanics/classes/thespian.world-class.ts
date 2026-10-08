@@ -8,4 +8,6 @@ export const thespian = {
   world: "world/the-wandering-inn",
   appearanceCount: 6,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.106Z",
+  updatedAt: "2026-09-22T13:30:22.000Z",
 } as const satisfies WorldClass

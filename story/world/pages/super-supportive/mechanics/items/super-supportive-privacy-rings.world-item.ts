@@ -9,4 +9,6 @@ export const superSupportivePrivacyRings = {
   aliases: ["obscuring rings", "private conversation rings"],
   description:
     "A set of very old rough stone rings that keep the wearers' words from reaching other ears.",
+  createdAt: "2026-09-28T21:46:43.329Z",
+  updatedAt: "2026-09-28T21:46:46.000Z",
 } as const satisfies WorldItem

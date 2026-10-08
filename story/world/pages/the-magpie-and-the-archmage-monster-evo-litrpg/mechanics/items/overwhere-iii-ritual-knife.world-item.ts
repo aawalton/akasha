@@ -7,4 +7,6 @@ export const overwhereIiiRitualKnife = {
   title: "Ritual Knife",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A bone-handled knife with a black blade.",
+  createdAt: "2026-10-03T00:51:16.867Z",
+  updatedAt: "2026-10-03T00:51:20.000Z",
 } as const satisfies WorldItem

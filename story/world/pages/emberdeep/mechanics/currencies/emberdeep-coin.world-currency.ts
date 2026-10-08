@@ -12,4 +12,6 @@ export const emberdeepCoin = {
     { name: "mark", worth: 12 },
     { name: "penny", worth: 1 },
   ],
+  createdAt: "2026-10-02T18:35:44.904Z",
+  updatedAt: "2026-10-02T18:35:51.000Z",
 } as const satisfies WorldCurrency

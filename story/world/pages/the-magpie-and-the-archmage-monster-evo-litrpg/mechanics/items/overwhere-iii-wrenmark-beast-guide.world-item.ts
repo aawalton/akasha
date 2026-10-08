@@ -8,4 +8,6 @@ export const overwhereIiiWrenmarkBeastGuide = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description:
     "A fat, scuffed Guild book of the Wrenmark's beasts by level, with sketches, weak spots, bounties and what parts sell.",
+  createdAt: "2026-09-30T20:20:35.564Z",
+  updatedAt: "2026-09-30T20:20:38.000Z",
 } as const satisfies WorldItem

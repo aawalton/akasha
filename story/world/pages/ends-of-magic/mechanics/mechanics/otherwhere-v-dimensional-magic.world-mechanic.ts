@@ -8,4 +8,6 @@ export const otherwhereVDimensionalMagic = {
   world: "world/ends-of-magic",
   aliases: ["dimensional bags", "dimensional storage", "space magic"],
   description: "Magic of folded and warped space.",
+  createdAt: "2026-09-28T21:49:52.075Z",
+  updatedAt: "2026-09-28T21:49:58.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveKnightPin = {
   world: "world/super-supportive",
   aliases: ["wooden pins"],
   description: "A wooden shoulder pin carved with a knight's skill symbol.",
+  createdAt: "2026-09-28T21:43:55.442Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldItem

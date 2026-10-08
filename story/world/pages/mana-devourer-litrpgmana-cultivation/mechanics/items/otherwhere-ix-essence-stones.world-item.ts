@@ -8,4 +8,6 @@ export const otherwhereIxEssenceStones = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["Essence Stone"],
   description: "A small gemstone that stores mana.",
+  createdAt: "2026-09-28T23:01:09.168Z",
+  updatedAt: "2026-09-28T23:01:14.000Z",
 } as const satisfies WorldItem

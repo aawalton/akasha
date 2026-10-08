@@ -7,4 +7,6 @@ export const otherwhereIxFlameRetardantCuirass = {
   title: "Flame-Retardant Cuirass",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A leather cuirass lined with metal, made to resist fire.",
+  createdAt: "2026-09-28T23:03:59.162Z",
+  updatedAt: "2026-09-28T23:04:02.000Z",
 } as const satisfies WorldItem

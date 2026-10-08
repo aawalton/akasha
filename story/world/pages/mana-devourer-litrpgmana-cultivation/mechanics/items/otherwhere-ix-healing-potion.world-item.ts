@@ -7,4 +7,6 @@ export const otherwhereIxHealingPotion = {
   title: "Healing Potion",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A red draught in a small vial that heals the body.",
+  createdAt: "2026-09-28T23:00:57.625Z",
+  updatedAt: "2026-09-28T23:01:01.000Z",
 } as const satisfies WorldItem

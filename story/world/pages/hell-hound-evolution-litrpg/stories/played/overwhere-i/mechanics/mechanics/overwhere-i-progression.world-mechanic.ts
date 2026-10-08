@@ -7,4 +7,6 @@ export const overwhereIProgression = {
   title: "Progression",
   world: "world/hell-hound-evolution-litrpg",
   description: "How a person grows stronger: levels, stats, skills, class and legacy.",
+  createdAt: "2026-09-29T12:24:31.367Z",
+  updatedAt: "2026-09-29T12:24:34.000Z",
 } as const satisfies WorldMechanic

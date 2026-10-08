@@ -9,4 +9,6 @@ export const towerOfNimueFocus = {
   definition:
     "the resource a climber in the Tower of Nimue spends on active essences, five for each ATT",
   formula: {},
+  createdAt: "2026-09-26T18:11:44.576Z",
+  updatedAt: "2026-09-26T18:12:05.000Z",
 } as const satisfies WorldDerivedMetric

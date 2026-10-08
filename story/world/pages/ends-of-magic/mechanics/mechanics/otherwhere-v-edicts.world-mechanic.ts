@@ -8,4 +8,6 @@ export const otherwhereVEdicts = {
   world: "world/ends-of-magic",
   aliases: ["Edict"],
   description: "Spoken laws upon reality.",
+  createdAt: "2026-09-28T21:38:48.952Z",
+  updatedAt: "2026-09-28T21:48:52.000Z",
 } as const satisfies WorldMechanic

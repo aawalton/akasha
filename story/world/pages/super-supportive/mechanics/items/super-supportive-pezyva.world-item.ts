@@ -7,4 +7,6 @@ export const superSupportivePezyva = {
   title: "pezyva",
   world: "world/super-supportive",
   description: "An Artonan sleeveless outer vest with a diagonal closure and two triangular tails.",
+  createdAt: "2026-09-28T21:43:33.026Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldItem

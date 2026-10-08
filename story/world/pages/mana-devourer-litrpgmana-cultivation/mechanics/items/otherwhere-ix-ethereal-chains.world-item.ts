@@ -7,4 +7,6 @@ export const otherwhereIxEtherealChains = {
   title: "Ethereal Chains",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Ghostly conjured chains that bind a prisoner.",
+  createdAt: "2026-09-28T23:03:15.905Z",
+  updatedAt: "2026-09-28T23:03:21.000Z",
 } as const satisfies WorldItem

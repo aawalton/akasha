@@ -8,4 +8,6 @@ export const otherwhereVWizardry = {
   world: "world/ends-of-magic",
   aliases: ["true wizardry"],
   description: "A higher realm of magic.",
+  createdAt: "2026-09-28T21:38:33.712Z",
+  updatedAt: "2026-09-28T22:04:18.000Z",
 } as const satisfies WorldMechanic

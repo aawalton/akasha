@@ -8,4 +8,6 @@ export const otherwhereVNotifications = {
   world: "world/ends-of-magic",
   aliases: ["blue box", "box", "notification"],
   description: "A blue box of text in a person's sight.",
+  createdAt: "2026-09-28T21:47:44.974Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldMechanic

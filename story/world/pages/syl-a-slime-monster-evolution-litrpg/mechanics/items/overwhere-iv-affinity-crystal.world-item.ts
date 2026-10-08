@@ -8,4 +8,6 @@ export const overwhereIvAffinityCrystal = {
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description:
     "A crystal that glows in the colours of the elements whoever touches it leans toward.",
+  createdAt: "2026-09-29T12:44:28.505Z",
+  updatedAt: "2026-09-29T12:44:31.000Z",
 } as const satisfies WorldItem

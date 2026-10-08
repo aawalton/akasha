@@ -8,4 +8,6 @@ export const otherwhereVEnchanting = {
   world: "world/ends-of-magic",
   aliases: ["enchantments", "enchanted items", "artifice", "wards"],
   description: "The craft of lasting magic in objects and places.",
+  createdAt: "2026-09-28T21:40:30.882Z",
+  updatedAt: "2026-09-28T21:48:52.000Z",
 } as const satisfies WorldMechanic

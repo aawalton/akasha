@@ -8,4 +8,6 @@ export const trustedSergeantOfTheWatch = {
   world: "world/the-wandering-inn",
   appearanceCount: 8,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.109Z",
+  updatedAt: "2026-09-22T13:30:22.000Z",
 } as const satisfies WorldClass

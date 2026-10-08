@@ -7,4 +7,6 @@ export const overwhereIiRoadFood = {
   title: "Road Food",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "A cloth bundle of bread, cheese and cold mutton, a day's eating.",
+  createdAt: "2026-09-30T22:24:12.594Z",
+  updatedAt: "2026-09-30T22:24:15.000Z",
 } as const satisfies WorldItem

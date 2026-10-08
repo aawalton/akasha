@@ -9,4 +9,6 @@ export const superSupportiveOfferedFoodRule = {
   aliases: ["The cow didn't give it to me"],
   description:
     "A mental wall stopping a person from eating animal products that were not offered to them.",
+  createdAt: "2026-09-28T21:37:54.678Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldCondition

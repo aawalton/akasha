@@ -7,4 +7,6 @@ export const otherwhereViiSkills = {
   title: "Skills",
   world: "world/god-of-trash",
   description: "The abilities the System counts by level, from sewing to resisting pain.",
+  createdAt: "2026-09-28T22:50:41.802Z",
+  updatedAt: "2026-09-28T22:50:51.000Z",
 } as const satisfies WorldMechanic

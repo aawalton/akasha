@@ -7,4 +7,6 @@ export const otherwhereViiiLearning = {
   title: "Learning the Art",
   world: "world/breaker-of-horizons",
   description: "How far Nala has come in the Art: her glyphs, her control and her works.",
+  createdAt: "2026-09-28T23:09:16.716Z",
+  updatedAt: "2026-09-28T23:09:21.000Z",
 } as const satisfies WorldMechanic

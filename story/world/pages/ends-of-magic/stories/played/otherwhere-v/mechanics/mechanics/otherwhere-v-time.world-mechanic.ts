@@ -7,4 +7,6 @@ export const otherwhereVTime = {
   title: "Time",
   world: "world/ends-of-magic",
   description: "The day and hour it is where Nala is.",
+  createdAt: "2026-09-28T21:35:45.364Z",
+  updatedAt: "2026-09-28T22:05:22.000Z",
 } as const satisfies WorldMechanic

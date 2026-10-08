@@ -8,4 +8,6 @@ export const sharpness = {
   world: "world/the-wandering-inn",
   appearanceCount: 3,
   references: "jsonl",
+  createdAt: "2026-09-03T03:40:23.803Z",
+  updatedAt: "2026-09-22T13:30:30.000Z",
 } as const satisfies WorldEnchantment

@@ -7,4 +7,6 @@ export const overwhereIvDeath = {
   title: "Death",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The forbidden mana of death and the undead.",
+  createdAt: "2026-09-29T12:45:14.912Z",
+  updatedAt: "2026-09-29T12:45:17.000Z",
 } as const satisfies WorldElement

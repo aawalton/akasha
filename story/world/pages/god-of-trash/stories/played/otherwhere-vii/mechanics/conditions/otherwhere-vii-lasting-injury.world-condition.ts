@@ -7,4 +7,6 @@ export const otherwhereViiLastingInjury = {
   title: "Lasting Injury",
   world: "world/god-of-trash",
   description: "A wound deep enough to stay: a broken bone, a torn muscle, a gash that festers.",
+  createdAt: "2026-09-28T23:02:54.571Z",
+  updatedAt: "2026-09-28T23:02:58.000Z",
 } as const satisfies WorldCondition

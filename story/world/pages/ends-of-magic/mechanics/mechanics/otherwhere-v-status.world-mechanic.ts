@@ -8,4 +8,6 @@ export const otherwhereVStatus = {
   world: "world/ends-of-magic",
   aliases: ["status box", "status sheet", "status screen"],
   description: "A box of a person's Talents, classes, levels, resources and skills.",
+  createdAt: "2026-09-28T21:36:35.979Z",
+  updatedAt: "2026-09-28T21:48:41.000Z",
 } as const satisfies WorldMechanic

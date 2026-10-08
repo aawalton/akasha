@@ -9,4 +9,6 @@ export const superSupportiveSelecteeStatus = {
   aliases: ["selectee"],
   description:
     "The status of someone the System has chosen who has not yet accepted the Contract, with a countdown to decide.",
+  createdAt: "2026-09-28T21:37:54.678Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldCondition

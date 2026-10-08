@@ -8,4 +8,6 @@ export const otherwhereVQuests = {
   world: "world/ends-of-magic",
   aliases: ["Quest", "New Quest"],
   description: "A task with a stated reward.",
+  createdAt: "2026-09-28T21:47:03.947Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldMechanic

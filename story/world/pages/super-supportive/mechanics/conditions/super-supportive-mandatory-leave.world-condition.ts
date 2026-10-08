@@ -8,4 +8,6 @@ export const superSupportiveMandatoryLeave = {
   world: "world/super-supportive",
   aliases: ["leave"],
   description: "A leave logged with the System that blocks all quests for its length.",
+  createdAt: "2026-09-28T21:37:54.677Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldCondition

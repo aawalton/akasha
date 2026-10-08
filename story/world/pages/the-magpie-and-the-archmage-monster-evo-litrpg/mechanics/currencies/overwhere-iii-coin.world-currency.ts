@@ -12,4 +12,6 @@ export const overwhereIiiCoin = {
     { name: "silver", worth: 100 },
     { name: "copper", worth: 1 },
   ],
+  createdAt: "2026-09-30T10:43:52.734Z",
+  updatedAt: "2026-09-30T10:43:58.000Z",
 } as const satisfies WorldCurrency

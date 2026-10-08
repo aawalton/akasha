@@ -8,4 +8,6 @@ export const superSupportiveNineEdgedSon = {
   world: "world/super-supportive",
   aliases: ["the nonagon", "big green cookie", "green nonagon platform"],
   description: "A translucent green nine-sided flying platform.",
+  createdAt: "2026-09-28T21:42:46.963Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

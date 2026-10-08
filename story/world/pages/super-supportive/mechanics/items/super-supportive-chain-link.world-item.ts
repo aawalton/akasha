@@ -7,4 +7,6 @@ export const superSupportiveChainLink = {
   title: "chain link",
   world: "world/super-supportive",
   description: "An inch-long silver rounded rectangle, one link of a Palace reward chain.",
+  createdAt: "2026-09-28T21:43:33.024Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldItem

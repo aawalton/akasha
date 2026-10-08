@@ -8,4 +8,6 @@ export const fairweatherMoonbell = {
   world: "world/fairweather",
   description:
     "A small blue bell-shaped flower from the Glasswood's hollows, open only between dusk and midnight, steeped cold for fever draughts.",
+  createdAt: "2026-10-03T19:03:11.320Z",
+  updatedAt: "2026-10-03T19:03:14.000Z",
 } as const satisfies WorldItem

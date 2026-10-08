@@ -7,4 +7,6 @@ export const superSupportiveFlyerBubble = {
   title: "Flyer bubble",
   world: "world/super-supportive",
   description: "An airy bubble vehicle with a bench and a clear dome that can show images.",
+  createdAt: "2026-09-28T21:47:30.306Z",
+  updatedAt: "2026-09-28T22:05:16.000Z",
 } as const satisfies WorldItem

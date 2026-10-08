@@ -9,4 +9,6 @@ export const superSupportiveCorruptionWound = {
   aliases: ["chaos wound"],
   description:
     "Harm from chaos: silver streaks and blackened rot in flesh, or cracked, blackening skin.",
+  createdAt: "2026-09-28T21:37:54.677Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldCondition

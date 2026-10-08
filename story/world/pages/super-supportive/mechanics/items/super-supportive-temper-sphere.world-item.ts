@@ -8,4 +8,6 @@ export const superSupportiveTemperSphere = {
   world: "world/super-supportive",
   aliases: ["banshee orb"],
   description: "A glass ball half full of glittering sand with a network of enchantments.",
+  createdAt: "2026-09-28T21:37:54.679Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldItem

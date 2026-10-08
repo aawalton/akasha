@@ -7,4 +7,6 @@ export const otherwhereViiiOverdraw = {
   title: "Overdraw",
   world: "world/breaker-of-horizons",
   description: "The sickness of drawing more arcana than one holds.",
+  createdAt: "2026-09-28T23:09:16.716Z",
+  updatedAt: "2026-09-28T23:09:21.000Z",
 } as const satisfies WorldMechanic

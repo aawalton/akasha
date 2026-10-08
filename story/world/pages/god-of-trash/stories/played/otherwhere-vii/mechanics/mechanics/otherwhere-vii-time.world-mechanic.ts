@@ -7,4 +7,6 @@ export const otherwhereViiTime = {
   title: "Time",
   world: "world/god-of-trash",
   description: "The day and hour it is where Nala is.",
+  createdAt: "2026-09-28T22:37:11.332Z",
+  updatedAt: "2026-09-28T22:37:18.000Z",
 } as const satisfies WorldMechanic

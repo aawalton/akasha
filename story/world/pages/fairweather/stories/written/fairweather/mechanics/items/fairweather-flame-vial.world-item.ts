@@ -8,4 +8,6 @@ export const fairweatherFlameVial = {
   world: "world/fairweather",
   description:
     "A small corked glass vial that bursts into fire when thrown, the flame running along whatever it lands on.",
+  createdAt: "2026-10-04T08:48:10.526Z",
+  updatedAt: "2026-10-04T08:48:13.000Z",
 } as const satisfies WorldItem

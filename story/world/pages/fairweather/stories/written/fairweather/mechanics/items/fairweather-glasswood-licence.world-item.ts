@@ -8,4 +8,6 @@ export const fairweatherGlasswoodLicence = {
   world: "world/fairweather",
   description:
     "A stamped guild paper licensing one party into the Glasswood's edge for a day and a night, its members' names written on it.",
+  createdAt: "2026-10-03T19:03:11.320Z",
+  updatedAt: "2026-10-03T19:03:14.000Z",
 } as const satisfies WorldItem

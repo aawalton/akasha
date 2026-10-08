@@ -7,4 +7,6 @@ export const superSupportiveGround = {
   title: "Ground",
   world: "world/super-supportive",
   description: "A symbolic element: the fundament of the planet that supports its life.",
+  createdAt: "2026-09-28T21:36:47.942Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldElement

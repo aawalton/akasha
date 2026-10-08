@@ -8,4 +8,6 @@ export const otherwhereVEndings = {
   world: "world/ends-of-magic",
   aliases: ["Ending"],
   description: "A recurring world-wide catastrophe.",
+  createdAt: "2026-09-28T21:46:02.219Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldMechanic

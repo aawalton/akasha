@@ -8,4 +8,6 @@ export const otherwhereVFloatingStones = {
   world: "world/ends-of-magic",
   aliases: ["floating rocks", "driftboat anchors"],
   description: "Rocks that float in the air.",
+  createdAt: "2026-09-28T21:56:23.554Z",
+  updatedAt: "2026-09-28T22:03:30.000Z",
 } as const satisfies WorldItem

@@ -9,4 +9,6 @@ export const superSupportiveScratchartCard = {
   aliases: ["scratchpad"],
   description:
     "A paired card of black cardstock; what is scratched on one half appears on the other.",
+  createdAt: "2026-09-28T21:42:46.964Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

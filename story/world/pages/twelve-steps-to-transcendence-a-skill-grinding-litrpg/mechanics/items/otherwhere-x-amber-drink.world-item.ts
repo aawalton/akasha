@@ -7,4 +7,6 @@ export const otherwhereXAmberDrink = {
   title: "The Commander's Amber Drink",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A shimmering amber drink, sweet as honey, poured from a metal jug.",
+  createdAt: "2026-09-29T00:04:42.586Z",
+  updatedAt: "2026-09-29T00:04:46.000Z",
 } as const satisfies WorldItem

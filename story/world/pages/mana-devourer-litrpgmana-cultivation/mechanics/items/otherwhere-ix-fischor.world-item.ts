@@ -7,4 +7,6 @@ export const otherwhereIxFischor = {
   title: "Fischor",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A metal worked mostly into jewelry.",
+  createdAt: "2026-09-28T23:01:46.294Z",
+  updatedAt: "2026-09-28T23:01:50.000Z",
 } as const satisfies WorldItem

@@ -7,4 +7,6 @@ export const otherwhereVEarthBornBodies = {
   title: "Earth-Born Bodies",
   world: "world/ends-of-magic",
   description: "The bodies of people born on Earth.",
+  createdAt: "2026-09-28T21:43:31.574Z",
+  updatedAt: "2026-09-28T21:49:15.000Z",
 } as const satisfies WorldMechanic

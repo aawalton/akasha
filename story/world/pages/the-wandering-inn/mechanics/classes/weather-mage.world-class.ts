@@ -8,4 +8,6 @@ export const weatherMage = {
   world: "world/the-wandering-inn",
   appearanceCount: 12,
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.454Z",
+  updatedAt: "2026-09-22T13:30:28.000Z",
 } as const satisfies WorldClass

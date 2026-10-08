@@ -7,4 +7,6 @@ export const otherwhereIvCultivation = {
   title: "Cultivation",
   world: "world/beware-of-chicken",
   description: "Drawing Qi into the body and climbing the realms a cultivator rises through.",
+  createdAt: "2026-09-28T21:48:14.762Z",
+  updatedAt: "2026-09-28T21:48:18.000Z",
 } as const satisfies WorldMechanic

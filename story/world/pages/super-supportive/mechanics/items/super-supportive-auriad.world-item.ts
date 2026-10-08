@@ -7,4 +7,6 @@ export const superSupportiveAuriad = {
   title: "Auriad",
   world: "world/super-supportive",
   description: "A loop of iridescent string that bonds to its owner's authority.",
+  createdAt: "2026-09-28T21:37:54.678Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldItem

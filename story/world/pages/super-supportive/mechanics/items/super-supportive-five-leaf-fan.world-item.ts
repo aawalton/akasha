@@ -9,4 +9,6 @@ export const superSupportiveFiveLeafFan = {
   aliases: ["casting fan", "engraved fan"],
   description:
     "A black engraved folding fan used as a casting tool, with shallow dimples for the fingers.",
+  createdAt: "2026-09-28T21:43:55.441Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldItem

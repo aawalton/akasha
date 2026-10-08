@@ -8,4 +8,6 @@ export const otherwhereVStamina = {
   world: "world/ends-of-magic",
   aliases: ["stamina resource", "Deepened Stamina", "Bottomless Stamina"],
   description: "A class resource of bodily power.",
+  createdAt: "2026-09-28T21:44:26.293Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldMechanic

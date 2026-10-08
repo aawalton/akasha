@@ -7,4 +7,6 @@ export const otherwhereViiFlux = {
   title: "Flux",
   world: "world/god-of-trash",
   description: "A griping sickness of the bowels from foul water or spoiled food.",
+  createdAt: "2026-09-28T23:02:54.571Z",
+  updatedAt: "2026-09-28T23:02:58.000Z",
 } as const satisfies WorldCondition

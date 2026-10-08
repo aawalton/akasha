@@ -6,4 +6,6 @@ export const signetRingOfLiscor = {
   slug: "signet-ring-of-liscor",
   title: "Signet Ring of Liscor",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:40:23.807Z",
+  updatedAt: "2026-09-19T16:17:10.000Z",
 } as const satisfies WorldItem

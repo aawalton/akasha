@@ -7,4 +7,6 @@ export const superSupportiveObject = {
   title: "Object",
   world: "world/super-supportive",
   description: "The element of crafted things.",
+  createdAt: "2026-09-28T21:36:47.943Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldElement

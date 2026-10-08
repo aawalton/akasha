@@ -8,4 +8,6 @@ export const otherwhereVCustoms = {
   world: "world/ends-of-magic",
   aliases: ["oaths", "salutes", "gladiatorial combat"],
   description: "The common customs of Davrar.",
+  createdAt: "2026-09-28T21:57:00.955Z",
+  updatedAt: "2026-09-28T21:57:03.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveBreakPlates = {
   world: "world/super-supportive",
   description:
     "Protective tiles stuck to a black safety suit; some soften impacts, some dull magical effects.",
+  createdAt: "2026-09-28T21:46:43.328Z",
+  updatedAt: "2026-09-28T21:46:46.000Z",
 } as const satisfies WorldItem

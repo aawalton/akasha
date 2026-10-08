@@ -7,4 +7,6 @@ export const otherwhereIxRingOfControl = {
   title: "Ring of Control",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "An emerald-set ring bound to a single made monster.",
+  createdAt: "2026-09-28T23:02:36.247Z",
+  updatedAt: "2026-09-28T23:02:39.000Z",
 } as const satisfies WorldItem

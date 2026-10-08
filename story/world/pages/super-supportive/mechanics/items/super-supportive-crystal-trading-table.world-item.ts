@@ -8,4 +8,6 @@ export const superSupportiveCrystalTradingTable = {
   world: "world/super-supportive",
   aliases: ["crystal table"],
   description: "A milky white crystal table that connects selectees to the trading platform.",
+  createdAt: "2026-09-28T21:38:45.991Z",
+  updatedAt: "2026-09-28T21:38:49.000Z",
 } as const satisfies WorldItem

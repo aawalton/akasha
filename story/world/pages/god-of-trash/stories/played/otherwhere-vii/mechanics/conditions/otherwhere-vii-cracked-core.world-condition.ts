@@ -7,4 +7,6 @@ export const otherwhereViiCrackedCore = {
   title: "Cracked Core",
   world: "world/god-of-trash",
   description: "A core split by strain, leaking mana and aching deep in the belly.",
+  createdAt: "2026-09-28T23:02:54.570Z",
+  updatedAt: "2026-09-28T23:02:58.000Z",
 } as const satisfies WorldCondition

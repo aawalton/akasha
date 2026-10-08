@@ -8,4 +8,6 @@ export const superSupportiveHappyAvowedDays = {
   world: "world/super-supportive",
   description:
     "Scheduling software with an animated character who acts out the user's calendar as a superhuman.",
+  createdAt: "2026-09-28T21:47:30.306Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldItem

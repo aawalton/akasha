@@ -7,4 +7,6 @@ export const superSupportiveNyip = {
   title: "Nyip pod",
   world: "world/super-supportive",
   description: "The pod of the wild nyip plant, which bears one every half century.",
+  createdAt: "2026-09-28T21:47:30.306Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldItem

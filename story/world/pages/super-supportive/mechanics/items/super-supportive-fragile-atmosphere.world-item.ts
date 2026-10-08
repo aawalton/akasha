@@ -7,4 +7,6 @@ export const superSupportiveFragileAtmosphere = {
   title: "The Fragile Atmosphere",
   world: "world/super-supportive",
   description: "A single-use tool that gives a few minutes of Earth air, gravity and pressure.",
+  createdAt: "2026-09-28T21:38:45.991Z",
+  updatedAt: "2026-09-28T21:38:49.000Z",
 } as const satisfies WorldItem

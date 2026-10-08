@@ -7,4 +7,6 @@ export const otherwhereVGloamberry = {
   title: "Gloamberry",
   world: "world/ends-of-magic",
   description: "A glossy blue-black berry on a red-stemmed bush.",
+  createdAt: "2026-09-28T22:01:04.543Z",
+  updatedAt: "2026-09-28T22:01:07.000Z",
 } as const satisfies WorldItem

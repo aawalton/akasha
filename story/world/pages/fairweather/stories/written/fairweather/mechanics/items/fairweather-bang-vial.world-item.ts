@@ -8,4 +8,6 @@ export const fairweatherBangVial = {
   world: "world/fairweather",
   description:
     "A small corked glass vial of Tilly's brewing that bursts when thrown, in a flash of green fire and a loud bang.",
+  createdAt: "2026-10-03T19:03:11.320Z",
+  updatedAt: "2026-10-03T19:03:14.000Z",
 } as const satisfies WorldItem

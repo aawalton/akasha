@@ -9,4 +9,6 @@ export const breathOfTheWildCryonis = {
   description:
     "A Sheikah Slate rune that raises a pillar of ice from a water surface, three at most at once.",
   unrevealed: false,
+  createdAt: "2026-10-03T19:15:51.778Z",
+  updatedAt: "2026-10-03T19:15:54.000Z",
 } as const satisfies WorldMechanic

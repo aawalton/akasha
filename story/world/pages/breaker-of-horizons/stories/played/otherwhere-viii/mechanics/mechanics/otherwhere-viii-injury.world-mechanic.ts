@@ -7,4 +7,6 @@ export const otherwhereViiiInjury = {
   title: "Injury",
   world: "world/breaker-of-horizons",
   description: "Hurt to the body: bruises, cuts, burns, breaks, and hurt done by arcana.",
+  createdAt: "2026-09-28T23:09:16.716Z",
+  updatedAt: "2026-09-28T23:09:21.000Z",
 } as const satisfies WorldMechanic

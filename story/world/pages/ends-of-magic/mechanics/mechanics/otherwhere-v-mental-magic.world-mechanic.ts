@@ -8,4 +8,6 @@ export const otherwhereVMentalMagic = {
   world: "world/ends-of-magic",
   aliases: ["mind magic", "mind control", "mental skills"],
   description: "Magic of the mind.",
+  createdAt: "2026-09-28T21:44:23.754Z",
+  updatedAt: "2026-09-28T21:49:15.000Z",
 } as const satisfies WorldMechanic

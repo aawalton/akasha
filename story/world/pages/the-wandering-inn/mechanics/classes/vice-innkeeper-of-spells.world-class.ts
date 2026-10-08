@@ -9,4 +9,6 @@ export const viceInnkeeperOfSpells = {
   appearanceCount: 3,
   evolvesToSlugs: ["world-class/innkeeper-of-the-magical-frontier"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.447Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

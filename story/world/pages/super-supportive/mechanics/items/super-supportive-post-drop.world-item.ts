@@ -7,4 +7,6 @@ export const superSupportivePostDrop = {
   title: "Post Drop",
   world: "world/super-supportive",
   description: "A talking mailbox on Anesidora that scans and sends mail.",
+  createdAt: "2026-09-28T21:38:45.992Z",
+  updatedAt: "2026-09-28T21:38:49.000Z",
 } as const satisfies WorldItem

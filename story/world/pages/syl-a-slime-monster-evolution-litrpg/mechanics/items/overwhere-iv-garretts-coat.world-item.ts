@@ -7,4 +7,6 @@ export const overwhereIvGarrettsCoat = {
   title: "Garrett's Coat",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "A patched brown wool coat, big on anyone slight, that smells of horse.",
+  createdAt: "2026-09-30T08:30:39.365Z",
+  updatedAt: "2026-09-30T08:30:42.000Z",
 } as const satisfies WorldItem

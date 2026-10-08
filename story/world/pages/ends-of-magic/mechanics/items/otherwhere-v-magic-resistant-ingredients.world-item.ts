@@ -7,4 +7,6 @@ export const otherwhereVMagicResistantIngredients = {
   title: "Magic-Resistant Alchemical Ingredients",
   world: "world/ends-of-magic",
   description: "Magic-resistant alchemical substances.",
+  createdAt: "2026-09-28T21:44:01.771Z",
+  updatedAt: "2026-09-28T21:49:15.000Z",
 } as const satisfies WorldItem

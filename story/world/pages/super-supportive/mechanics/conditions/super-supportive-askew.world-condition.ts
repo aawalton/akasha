@@ -9,4 +9,6 @@ export const superSupportiveAskew = {
   aliases: ["askewness"],
   description:
     "A state of being pushed slightly out of one's natural alignment, felt in one's authority.",
+  createdAt: "2026-09-28T21:37:54.676Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldCondition

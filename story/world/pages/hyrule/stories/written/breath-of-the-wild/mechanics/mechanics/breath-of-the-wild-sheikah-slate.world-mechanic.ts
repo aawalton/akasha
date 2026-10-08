@@ -8,4 +8,6 @@ export const breathOfTheWildSheikahSlate = {
   world: "world/hyrule",
   description:
     "A Sheikah tablet that shows its holder's hearts, stamina wheels, runes, map and Spirit Orbs as short boxed screens, and chimes when they change.",
+  createdAt: "2026-10-03T19:15:51.778Z",
+  updatedAt: "2026-10-03T19:15:54.000Z",
 } as const satisfies WorldMechanic

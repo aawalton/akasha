@@ -7,4 +7,6 @@ export const fairweatherWool = {
   title: "Wool",
   world: "world/fairweather",
   description: "Soft spun sheep's wool wound in a skein, dyed any colour, for knitting.",
+  createdAt: "2026-10-06T14:03:32.265Z",
+  updatedAt: "2026-10-06T14:03:34.000Z",
 } as const satisfies WorldItem

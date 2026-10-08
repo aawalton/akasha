@@ -8,4 +8,6 @@ export const overwhereIiAnnisCloak = {
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description:
     "A hooded cloak of heavy brown wool, patched at the hem and smelling faintly of cedar.",
+  createdAt: "2026-09-30T09:17:09.992Z",
+  updatedAt: "2026-09-30T09:52:42.000Z",
 } as const satisfies WorldItem

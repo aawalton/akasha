@@ -7,4 +7,6 @@ export const superSupportiveSenvaSeed = {
   title: "senva seed",
   world: "world/super-supportive",
   description: "A seed like a scrambled dandelion that smells of basil.",
+  createdAt: "2026-09-28T21:43:33.026Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldItem

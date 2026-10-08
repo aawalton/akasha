@@ -8,4 +8,6 @@ export const otherwhereVScalebarkTree = {
   world: "world/ends-of-magic",
   aliases: ["scalebark"],
   description: "A huge, straight forest tree with grey scaled bark and bluish leaves.",
+  createdAt: "2026-09-28T22:00:44.756Z",
+  updatedAt: "2026-09-28T22:00:47.000Z",
 } as const satisfies WorldItem

@@ -7,4 +7,6 @@ export const superSupportiveGlossed = {
   title: "Glossed",
   world: "world/super-supportive",
   description: "The state of being under the Gloss, where luck bends one's way.",
+  createdAt: "2026-09-28T21:37:54.677Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldCondition

@@ -7,4 +7,6 @@ export const otherwhereVHollowbell = {
   title: "Hollowbell",
   world: "world/ends-of-magic",
   description: "A low herb with round silver-green leaves and pale blue bell flowers.",
+  createdAt: "2026-09-28T22:01:27.751Z",
+  updatedAt: "2026-09-28T22:01:30.000Z",
 } as const satisfies WorldItem

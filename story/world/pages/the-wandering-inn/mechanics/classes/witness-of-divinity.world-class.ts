@@ -9,4 +9,6 @@ export const witnessOfDivinity = {
   appearanceCount: 1,
   evolvesFromSlugs: ["world-class/prophet-of-the-holy-people"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.467Z",
+  updatedAt: "2026-09-22T18:27:39.000Z",
 } as const satisfies WorldClass

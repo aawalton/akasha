@@ -8,4 +8,6 @@ export const otherwhereVElothianCoin = {
   world: "world/ends-of-magic",
   aliases: ["tesk", "lir", "oruna"],
   description: "The coins used on Elothia's settled rim.",
+  createdAt: "2026-09-28T21:53:49.630Z",
+  updatedAt: "2026-09-28T21:53:55.000Z",
 } as const satisfies WorldMechanic

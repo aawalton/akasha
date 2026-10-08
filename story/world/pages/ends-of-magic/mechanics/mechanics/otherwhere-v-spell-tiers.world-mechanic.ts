@@ -8,4 +8,6 @@ export const otherwhereVSpellTiers = {
   world: "world/ends-of-magic",
   aliases: ["tiers of magic", "realms of magic"],
   description: "The ranking of magic by power.",
+  createdAt: "2026-09-28T21:36:58.384Z",
+  updatedAt: "2026-09-28T21:48:29.000Z",
 } as const satisfies WorldMechanic

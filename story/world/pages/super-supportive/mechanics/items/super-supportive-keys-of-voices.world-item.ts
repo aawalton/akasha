@@ -8,4 +8,6 @@ export const superSupportiveKeysOfVoices = {
   world: "world/super-supportive",
   aliases: ["keys", "keys of eyes"],
   description: "Small black discs that glitter at the edges.",
+  createdAt: "2026-09-28T21:42:46.963Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

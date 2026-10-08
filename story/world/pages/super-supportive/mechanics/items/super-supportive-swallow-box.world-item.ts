@@ -7,4 +7,6 @@ export const superSupportiveSwallowBox = {
   title: "swallow box",
   world: "world/super-supportive",
   description: "A container that swallows large objects.",
+  createdAt: "2026-09-28T21:42:46.964Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

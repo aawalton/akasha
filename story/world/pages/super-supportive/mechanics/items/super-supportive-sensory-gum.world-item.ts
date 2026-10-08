@@ -8,4 +8,6 @@ export const superSupportiveSensoryGum = {
   world: "world/super-supportive",
   aliases: ["sensory sharing gum"],
   description: "A gum that links taste, smell and touch between people who chew it.",
+  createdAt: "2026-09-28T21:38:45.992Z",
+  updatedAt: "2026-09-28T21:38:49.000Z",
 } as const satisfies WorldItem

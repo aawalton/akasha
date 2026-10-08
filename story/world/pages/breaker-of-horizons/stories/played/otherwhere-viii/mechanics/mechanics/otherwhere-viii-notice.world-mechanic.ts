@@ -7,4 +7,6 @@ export const otherwhereViiiNotice = {
   title: "Notice",
   world: "world/breaker-of-horizons",
   description: "How much attention Nala has drawn.",
+  createdAt: "2026-09-28T23:09:16.716Z",
+  updatedAt: "2026-09-28T23:09:21.000Z",
 } as const satisfies WorldMechanic

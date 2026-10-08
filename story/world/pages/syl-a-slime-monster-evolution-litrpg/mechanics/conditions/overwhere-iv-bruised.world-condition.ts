@@ -7,4 +7,6 @@ export const overwhereIvBruised = {
   title: "Bruised",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The status of a body knocked hard: sore and stiff where it struck, but unbroken.",
+  createdAt: "2026-09-30T12:44:55.935Z",
+  updatedAt: "2026-09-30T12:44:58.000Z",
 } as const satisfies WorldCondition

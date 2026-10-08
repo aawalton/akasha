@@ -8,4 +8,6 @@ export const superSupportiveAbomination = {
   world: "world/super-supportive",
   aliases: ["chaos-generating monster"],
   description: "What an Avowed whose integration or balance fails can become.",
+  createdAt: "2026-09-28T21:37:54.676Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldCondition

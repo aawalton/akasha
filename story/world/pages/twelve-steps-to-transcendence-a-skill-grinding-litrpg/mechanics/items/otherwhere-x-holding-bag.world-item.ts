@@ -7,4 +7,6 @@ export const otherwhereXHoldingBag = {
   title: "Holding Bag",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A small magic pouch that holds far more than its size.",
+  createdAt: "2026-09-29T00:04:42.586Z",
+  updatedAt: "2026-09-29T00:04:46.000Z",
 } as const satisfies WorldItem

@@ -8,4 +8,6 @@ export const overwhereIiiCanvasKnapsack = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description:
     "An old oiled-canvas knapsack with two leather straps and a buckled flap, patched at one corner.",
+  createdAt: "2026-09-30T18:36:57.746Z",
+  updatedAt: "2026-09-30T18:37:02.000Z",
 } as const satisfies WorldItem

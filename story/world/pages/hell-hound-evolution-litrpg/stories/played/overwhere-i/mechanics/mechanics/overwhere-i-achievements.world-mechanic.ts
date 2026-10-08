@@ -7,4 +7,6 @@ export const overwhereIAchievements = {
   title: "Achievements",
   world: "world/hell-hound-evolution-litrpg",
   description: "Feats the System marks and rewards.",
+  createdAt: "2026-09-29T12:24:53.829Z",
+  updatedAt: "2026-09-29T12:24:56.000Z",
 } as const satisfies WorldMechanic

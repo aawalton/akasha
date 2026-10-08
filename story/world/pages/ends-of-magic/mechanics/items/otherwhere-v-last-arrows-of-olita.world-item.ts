@@ -8,4 +8,6 @@ export const otherwhereVLastArrowsOfOlita = {
   world: "world/ends-of-magic",
   aliases: ["Last Arrow of Olita", "Arrow of Olita"],
   description: "A divine relic spell.",
+  createdAt: "2026-09-28T21:55:45.491Z",
+  updatedAt: "2026-09-28T22:03:30.000Z",
 } as const satisfies WorldItem

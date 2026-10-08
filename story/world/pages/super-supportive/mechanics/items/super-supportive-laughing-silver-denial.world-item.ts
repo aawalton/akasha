@@ -7,4 +7,6 @@ export const superSupportiveLaughingSilverDenial = {
   title: "Laughing Silver Denial",
   world: "world/super-supportive",
   description: "A diamond-shaped Meister shield.",
+  createdAt: "2026-09-28T21:42:46.963Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

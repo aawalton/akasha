@@ -7,4 +7,6 @@ export const overwhereIiiFrostcap = {
   title: "Frostcap",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A thumb-sized mushroom with a pale blue-white cap rimed like frost.",
+  createdAt: "2026-09-30T09:24:22.523Z",
+  updatedAt: "2026-09-30T09:24:25.000Z",
 } as const satisfies WorldItem

@@ -8,4 +8,6 @@ export const superSupportiveEyeRings = {
   world: "world/super-supportive",
   aliases: ["eyerings", "iris rings"],
   description: "Metal rings worn around an Artonan's irises.",
+  createdAt: "2026-09-28T21:42:46.963Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

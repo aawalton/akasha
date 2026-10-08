@@ -7,4 +7,6 @@ export const superSupportiveSummonarium = {
   title: "Summonarium",
   world: "world/super-supportive",
   description: "A place with a runic floor for summoning and teleporting.",
+  createdAt: "2026-09-28T21:37:54.679Z",
+  updatedAt: "2026-09-28T21:53:04.000Z",
 } as const satisfies WorldItem

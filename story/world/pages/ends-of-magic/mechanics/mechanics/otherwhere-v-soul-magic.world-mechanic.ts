@@ -7,4 +7,6 @@ export const otherwhereVSoulMagic = {
   title: "Soul Magic",
   world: "world/ends-of-magic",
   description: "Magic of the soul.",
+  createdAt: "2026-09-28T21:45:01.715Z",
+  updatedAt: "2026-09-28T21:49:15.000Z",
 } as const satisfies WorldMechanic

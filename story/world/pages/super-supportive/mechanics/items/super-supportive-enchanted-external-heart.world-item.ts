@@ -7,4 +7,6 @@ export const superSupportiveEnchantedExternalHeart = {
   title: "Enchanted external heart",
   world: "world/super-supportive",
   description: "A clear red jellyfish-like blob that does the work of a stopped heart.",
+  createdAt: "2026-09-28T21:47:30.306Z",
+  updatedAt: "2026-09-28T22:05:16.000Z",
 } as const satisfies WorldItem

@@ -7,4 +7,6 @@ export const superSupportiveWrightPuzzleBox = {
   title: "Wrightwork puzzle box",
   world: "world/super-supportive",
   description: "An enchanted puzzle box that opens only for its owner.",
+  createdAt: "2026-09-28T21:46:43.329Z",
+  updatedAt: "2026-09-28T21:46:46.000Z",
 } as const satisfies WorldItem

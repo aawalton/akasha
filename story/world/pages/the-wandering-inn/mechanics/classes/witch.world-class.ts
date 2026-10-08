@@ -10,4 +10,6 @@ export const witch = {
   aliases: ["WITCH"],
   evolvesToSlugs: ["world-class/witch-of-second-chances"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:27:58.461Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldClass

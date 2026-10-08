@@ -8,4 +8,6 @@ export const villageHead = {
   world: "world/the-wandering-inn",
   appearanceCount: 9,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.111Z",
+  updatedAt: "2026-09-22T13:30:22.000Z",
 } as const satisfies WorldClass

@@ -7,4 +7,6 @@ export const otherwhereViiiLanguage = {
   title: "Language",
   world: "world/breaker-of-horizons",
   description: "The tongues Nala speaks and reads.",
+  createdAt: "2026-09-28T23:09:16.716Z",
+  updatedAt: "2026-09-28T23:09:21.000Z",
 } as const satisfies WorldMechanic

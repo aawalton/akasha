@@ -8,4 +8,6 @@ export const otherwhereXiGravitite = {
   world: "world/the-calamitous-bob-stubbed",
   description: "A quartz-like stone that pushes against gravity.",
   aliases: ["Manatite"],
+  createdAt: "2026-09-29T00:20:07.247Z",
+  updatedAt: "2026-09-29T00:20:16.000Z",
 } as const satisfies WorldItem

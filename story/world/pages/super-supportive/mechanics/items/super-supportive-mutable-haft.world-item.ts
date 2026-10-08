@@ -8,4 +8,6 @@ export const superSupportiveMutableHaft = {
   world: "world/super-supportive",
   aliases: ["Marsha's polearm"],
   description: "A polearm with an engraved bone haft and a shape-changing blade.",
+  createdAt: "2026-09-28T21:42:46.963Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

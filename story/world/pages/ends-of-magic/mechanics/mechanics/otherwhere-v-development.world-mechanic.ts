@@ -8,4 +8,6 @@ export const otherwhereVDevelopment = {
   world: "world/ends-of-magic",
   aliases: ["Developments", "develop"],
   description: "The change of a Talent, skill or class into a new, stronger form.",
+  createdAt: "2026-09-28T21:43:33.864Z",
+  updatedAt: "2026-09-28T21:43:37.000Z",
 } as const satisfies WorldMechanic

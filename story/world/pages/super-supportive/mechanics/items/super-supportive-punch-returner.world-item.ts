@@ -7,4 +7,6 @@ export const superSupportivePunchReturner = {
   title: "Punch returner",
   world: "world/super-supportive",
   description: "A single-use Wrightmade device that returns a punch.",
+  createdAt: "2026-09-28T21:46:43.329Z",
+  updatedAt: "2026-09-28T21:46:46.000Z",
 } as const satisfies WorldItem

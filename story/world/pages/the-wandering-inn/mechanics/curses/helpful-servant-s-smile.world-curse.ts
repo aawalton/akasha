@@ -6,4 +6,6 @@ export const helpfulServantSSmile = {
   slug: "helpful-servant-s-smile",
   title: "Helpful Servant’s Smile",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:39:53.863Z",
+  updatedAt: "2026-09-19T16:16:21.000Z",
 } as const satisfies WorldCurse

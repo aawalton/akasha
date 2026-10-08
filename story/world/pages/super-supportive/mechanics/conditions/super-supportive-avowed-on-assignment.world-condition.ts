@@ -9,4 +9,6 @@ export const superSupportiveAvowedOnAssignment = {
   aliases: ["red halo", "red ring", "dark red assignment halo"],
   description:
     "The status of an Avowed carrying out orders, shown on others' interfaces as a dark red halo over the head.",
+  createdAt: "2026-09-28T21:40:07.789Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldCondition

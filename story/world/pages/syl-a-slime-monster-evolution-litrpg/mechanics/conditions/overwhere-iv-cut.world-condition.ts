@@ -7,4 +7,6 @@ export const overwhereIvCut = {
   title: "Cut",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The status of a body with an open cut that stings and bleeds until bound.",
+  createdAt: "2026-10-02T23:47:11.685Z",
+  updatedAt: "2026-10-02T23:47:22.000Z",
 } as const satisfies WorldCondition

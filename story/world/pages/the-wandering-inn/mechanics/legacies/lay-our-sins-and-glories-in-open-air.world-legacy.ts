@@ -6,4 +6,6 @@ export const layOurSinsAndGloriesInOpenAir = {
   slug: "lay-our-sins-and-glories-in-open-air",
   title: "Lay Our Sins and Glories in Open Air",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:39:53.863Z",
+  updatedAt: "2026-09-19T16:17:31.000Z",
 } as const satisfies WorldLegacy

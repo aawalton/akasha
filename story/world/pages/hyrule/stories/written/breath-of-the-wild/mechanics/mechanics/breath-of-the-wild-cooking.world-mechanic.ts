@@ -8,4 +8,6 @@ export const breathOfTheWildCooking = {
   world: "world/hyrule",
   description:
     "Ingredients cooked together in a pot over a fire make a dish that restores hearts and may grant an effect for a time; ingredients that do not go together make Dubious Food.",
+  createdAt: "2026-10-03T19:15:51.778Z",
+  updatedAt: "2026-10-03T19:15:54.000Z",
 } as const satisfies WorldMechanic

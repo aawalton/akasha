@@ -7,4 +7,6 @@ export const otherwhereVOlive = {
   title: "Olive",
   world: "world/ends-of-magic",
   description: "A small, oily tree fruit.",
+  createdAt: "2026-09-28T21:50:50.241Z",
+  updatedAt: "2026-09-28T21:50:54.000Z",
 } as const satisfies WorldItem

@@ -8,4 +8,6 @@ export const warlock = {
   world: "world/the-wandering-inn",
   appearanceCount: 8,
   references: "jsonl",
+  createdAt: "2026-09-03T04:19:12.112Z",
+  updatedAt: "2026-09-22T13:30:28.000Z",
 } as const satisfies WorldClass

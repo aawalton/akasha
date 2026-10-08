@@ -6,4 +6,6 @@ export const wordsOfDisgrace = {
   slug: "words-of-disgrace",
   title: "Words of Disgrace",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:40:23.803Z",
+  updatedAt: "2026-09-19T16:15:37.000Z",
 } as const satisfies WorldCondition

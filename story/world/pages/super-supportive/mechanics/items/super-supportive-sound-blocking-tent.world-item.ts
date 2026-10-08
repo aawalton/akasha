@@ -8,4 +8,6 @@ export const superSupportiveSoundBlockingTent = {
   world: "world/super-supportive",
   aliases: ["soundproof tent"],
   description: "A bag that opens into an opaque green half-dome no sound escapes.",
+  createdAt: "2026-09-28T21:46:43.329Z",
+  updatedAt: "2026-09-28T21:46:46.000Z",
 } as const satisfies WorldItem

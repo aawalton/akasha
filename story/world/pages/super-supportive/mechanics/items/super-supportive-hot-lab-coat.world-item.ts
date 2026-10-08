@@ -9,4 +9,6 @@ export const superSupportiveHotLabCoat = {
   aliases: ["lab coat"],
   description:
     "A long shiny red Wardrobe coat with goggles that gives Dexterity, Agility and Blast Resistance.",
+  createdAt: "2026-09-28T21:37:54.678Z",
+  updatedAt: "2026-09-28T21:37:57.000Z",
 } as const satisfies WorldItem

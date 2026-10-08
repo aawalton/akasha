@@ -8,4 +8,6 @@ export const otherwhereVDivinity = {
   world: "world/ends-of-magic",
   aliases: ["divine magic", "divine power", "Faith"],
   description: "Holy power drawn from faith.",
+  createdAt: "2026-09-28T21:39:29.443Z",
+  updatedAt: "2026-09-28T21:47:22.000Z",
 } as const satisfies WorldMechanic

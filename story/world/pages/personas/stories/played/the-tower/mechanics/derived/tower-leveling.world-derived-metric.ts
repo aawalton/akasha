@@ -31,4 +31,6 @@ export const towerLeveling = {
         "A level is the third way a climber grows, beside the skill rungs and the attunement ranks.",
     },
   ],
+  createdAt: "2026-09-26T14:31:16.948Z",
+  updatedAt: "2026-09-26T14:54:15.000Z",
 } as const satisfies WorldDerivedMetric

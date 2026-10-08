@@ -7,4 +7,6 @@ export const otherwhereXiDivineMana = {
   title: "Divine Mana",
   world: "world/the-calamitous-bob-stubbed",
   description: "The mana of the gods, colored by each god who gives it.",
+  createdAt: "2026-09-29T00:10:39.586Z",
+  updatedAt: "2026-09-29T00:10:51.000Z",
 } as const satisfies WorldElement

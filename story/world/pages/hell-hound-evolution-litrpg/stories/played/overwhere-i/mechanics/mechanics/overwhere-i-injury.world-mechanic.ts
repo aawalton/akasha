@@ -7,4 +7,6 @@ export const overwhereIInjury = {
   title: "Injury",
   world: "world/hell-hound-evolution-litrpg",
   description: "Wounds, how bad they are, and how they heal.",
+  createdAt: "2026-09-29T12:24:31.367Z",
+  updatedAt: "2026-09-29T12:24:34.000Z",
 } as const satisfies WorldMechanic

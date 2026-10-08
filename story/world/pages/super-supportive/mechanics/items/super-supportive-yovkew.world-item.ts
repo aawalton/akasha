@@ -7,4 +7,6 @@ export const superSupportiveYovkew = {
   title: "Yovkew",
   world: "world/super-supportive",
   description: "An inch-long, crunchy fish-like animal, eaten dry.",
+  createdAt: "2026-09-28T21:47:30.306Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldItem

@@ -8,4 +8,6 @@ export const otherwhereVPoliteWar = {
   world: "world/ends-of-magic",
   aliases: ["Polite Wars", "formal Questor conflict", "Questor war"],
   description: "A formal war between Questors under agreed terms.",
+  createdAt: "2026-09-28T21:49:39.030Z",
+  updatedAt: "2026-09-28T21:49:45.000Z",
 } as const satisfies WorldMechanic

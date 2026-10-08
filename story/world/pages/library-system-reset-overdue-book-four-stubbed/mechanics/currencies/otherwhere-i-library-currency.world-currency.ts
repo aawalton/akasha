@@ -7,4 +7,6 @@ export const otherwhereILibraryCurrency = {
   title: "Universal Library Currency",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   description: "The currency a Library account holds.",
+  createdAt: "2026-09-30T10:43:52.733Z",
+  updatedAt: "2026-09-30T10:43:58.000Z",
 } as const satisfies WorldCurrency

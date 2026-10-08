@@ -7,4 +7,6 @@ export const overwhereIiIronCoinBox = {
   title: "Iron Coin Box",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "A heavy, locked iron box the size of a loaf, that clinks when tipped.",
+  createdAt: "2026-10-02T18:14:31.532Z",
+  updatedAt: "2026-10-02T18:14:35.000Z",
 } as const satisfies WorldItem

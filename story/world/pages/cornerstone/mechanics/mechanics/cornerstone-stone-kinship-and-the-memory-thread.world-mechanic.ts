@@ -6,4 +6,6 @@ export const cornerstoneStoneKinshipAndTheMemoryThread = {
   slug: "cornerstone-stone-kinship-and-the-memory-thread",
   title: "Stone-Kinship and the Memory-Thread",
   world: "world/cornerstone",
+  createdAt: "2026-09-26T17:29:39.430Z",
+  updatedAt: "2026-09-26T17:29:43.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveInjector = {
   world: "world/super-supportive",
   aliases: ["anti-emetic injector", "pain injector", "stimulant injector"],
   description: "A thimble-sized cylinder of medicine that injects itself into the body.",
+  createdAt: "2026-09-28T21:42:46.963Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

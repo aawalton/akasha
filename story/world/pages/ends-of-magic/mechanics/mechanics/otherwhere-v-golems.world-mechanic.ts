@@ -8,4 +8,6 @@ export const otherwhereVGolems = {
   world: "world/ends-of-magic",
   aliases: ["golem", "enchanted constructs"],
   description: "Magically animated statues and constructs.",
+  createdAt: "2026-09-28T21:40:49.851Z",
+  updatedAt: "2026-09-28T21:48:52.000Z",
 } as const satisfies WorldMechanic

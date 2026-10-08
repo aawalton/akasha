@@ -7,4 +7,6 @@ export const overwhereIvEarth = {
   title: "Earth",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "One of the four basic elements: soil, stone and ore.",
+  createdAt: "2026-09-29T12:45:14.912Z",
+  updatedAt: "2026-09-29T12:45:17.000Z",
 } as const satisfies WorldElement

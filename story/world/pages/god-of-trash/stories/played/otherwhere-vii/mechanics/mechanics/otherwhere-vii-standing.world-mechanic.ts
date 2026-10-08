@@ -7,4 +7,6 @@ export const otherwhereViiStanding = {
   title: "Standing",
   world: "world/god-of-trash",
   description: "What the people and beasts Nala deals with think of her.",
+  createdAt: "2026-09-28T22:48:12.685Z",
+  updatedAt: "2026-09-28T22:48:26.000Z",
 } as const satisfies WorldMechanic

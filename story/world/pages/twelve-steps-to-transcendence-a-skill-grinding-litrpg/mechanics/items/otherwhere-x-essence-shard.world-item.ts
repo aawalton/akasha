@@ -7,4 +7,6 @@ export const otherwhereXEssenceShard = {
   title: "Essence Shard",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A small, faintly glowing blue crystal that holds essence.",
+  createdAt: "2026-09-29T00:01:34.417Z",
+  updatedAt: "2026-09-29T00:01:37.000Z",
 } as const satisfies WorldItem

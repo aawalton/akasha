@@ -6,4 +6,6 @@ export const cornerstoneTheComingWantScarcity = {
   slug: "cornerstone-the-coming-want-scarcity",
   title: "The Coming Want (scarcity)",
   world: "world/cornerstone",
+  createdAt: "2026-09-26T17:41:16.798Z",
+  updatedAt: "2026-09-26T17:41:21.000Z",
 } as const satisfies WorldMechanic

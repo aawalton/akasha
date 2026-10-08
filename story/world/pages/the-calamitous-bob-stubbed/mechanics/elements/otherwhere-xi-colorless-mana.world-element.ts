@@ -8,4 +8,6 @@ export const otherwhereXiColorlessMana = {
   world: "world/the-calamitous-bob-stubbed",
   description: "The clear, hueless kind of mana.",
   aliases: ["Arcane mana", "Transparent mana"],
+  createdAt: "2026-09-29T00:09:03.849Z",
+  updatedAt: "2026-09-29T00:09:10.000Z",
 } as const satisfies WorldElement

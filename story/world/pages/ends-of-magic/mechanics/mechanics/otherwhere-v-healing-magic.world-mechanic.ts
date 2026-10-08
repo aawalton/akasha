@@ -8,4 +8,6 @@ export const otherwhereVHealingMagic = {
   world: "world/ends-of-magic",
   aliases: ["curing"],
   description: "Magic of mending wounds and bodies.",
+  createdAt: "2026-09-28T21:52:46.454Z",
+  updatedAt: "2026-09-28T21:52:50.000Z",
 } as const satisfies WorldMechanic

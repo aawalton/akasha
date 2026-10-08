@@ -7,4 +7,6 @@ export const otherwhereXGreyShirt = {
   title: "Grey Shirt",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A loose dark grey shirt of soft, fine-knit cloth.",
+  createdAt: "2026-09-29T00:11:54.145Z",
+  updatedAt: "2026-09-29T00:12:06.000Z",
 } as const satisfies WorldItem

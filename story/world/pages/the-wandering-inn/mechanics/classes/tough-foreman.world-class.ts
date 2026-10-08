@@ -6,4 +6,6 @@ export const toughForeman = {
   slug: "tough-foreman",
   title: "Tough Foreman",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:19:12.108Z",
+  updatedAt: "2026-09-19T16:36:27.000Z",
 } as const satisfies WorldClass

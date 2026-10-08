@@ -7,4 +7,6 @@ export const otherwhereXEscapeScroll = {
   title: "Escape Scroll",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A magic scroll that teleports whoever tears it.",
+  createdAt: "2026-09-29T00:04:42.586Z",
+  updatedAt: "2026-09-29T00:04:46.000Z",
 } as const satisfies WorldItem

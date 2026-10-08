@@ -8,4 +8,6 @@ export const superSupportiveInfogear = {
   world: "world/super-supportive",
   aliases: ["Informant's wearables"],
   description: "Wearable gear that records information in public spaces.",
+  createdAt: "2026-09-28T21:38:45.991Z",
+  updatedAt: "2026-09-28T21:38:49.000Z",
 } as const satisfies WorldItem

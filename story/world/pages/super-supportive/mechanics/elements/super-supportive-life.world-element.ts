@@ -8,4 +8,6 @@ export const superSupportiveLife = {
   world: "world/super-supportive",
   aliases: ["lifemass"],
   description: "The element of living things.",
+  createdAt: "2026-09-28T21:36:47.943Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldElement

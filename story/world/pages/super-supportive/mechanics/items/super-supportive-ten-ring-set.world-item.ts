@@ -8,4 +8,6 @@ export const superSupportiveTenRingSet = {
   world: "world/super-supportive",
   aliases: ["armor rings", "ten-ring hand protection"],
   description: "A set of ten enchanted rings that armor a hand caster's hands and lower arms.",
+  createdAt: "2026-09-28T21:46:43.329Z",
+  updatedAt: "2026-09-28T21:46:46.000Z",
 } as const satisfies WorldItem

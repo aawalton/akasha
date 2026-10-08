@@ -7,4 +7,6 @@ export const overwhereIiiBrownLoaf = {
   title: "Brown Loaf",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A round loaf of coarse brown bread, a day's plain eating.",
+  createdAt: "2026-09-30T23:28:26.839Z",
+  updatedAt: "2026-09-30T23:28:29.000Z",
 } as const satisfies WorldItem

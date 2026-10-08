@@ -8,4 +8,6 @@ export const superSupportiveFamilyStone = {
   world: "world/super-supportive",
   aliases: ["hearthstone"],
   description: "A household's own stone, set at the base of the hearth.",
+  createdAt: "2026-09-28T21:44:48.769Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldItem

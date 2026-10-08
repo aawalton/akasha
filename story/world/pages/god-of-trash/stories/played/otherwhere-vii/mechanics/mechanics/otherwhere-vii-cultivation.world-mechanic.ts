@@ -7,4 +7,6 @@ export const otherwhereViiCultivation = {
   title: "Cultivation",
   world: "world/god-of-trash",
   description: "Waking to mana, gathering it into a core, and climbing the Tiers.",
+  createdAt: "2026-09-28T22:50:41.802Z",
+  updatedAt: "2026-09-28T22:50:51.000Z",
 } as const satisfies WorldMechanic

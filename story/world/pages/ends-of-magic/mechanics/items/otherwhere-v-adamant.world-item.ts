@@ -8,4 +8,6 @@ export const otherwhereVAdamant = {
   world: "world/ends-of-magic",
   aliases: ["adamantium"],
   description: "A legendary dark metal.",
+  createdAt: "2026-09-28T21:53:57.036Z",
+  updatedAt: "2026-09-28T21:54:01.000Z",
 } as const satisfies WorldItem

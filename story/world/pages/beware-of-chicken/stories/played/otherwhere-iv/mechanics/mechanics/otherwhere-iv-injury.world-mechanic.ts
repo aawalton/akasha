@@ -7,4 +7,6 @@ export const otherwhereIvInjury = {
   title: "Harm and Injury",
   world: "world/beware-of-chicken",
   description: "Hurt done to a body, and how that body mends.",
+  createdAt: "2026-09-28T21:42:04.438Z",
+  updatedAt: "2026-09-28T21:42:10.000Z",
 } as const satisfies WorldMechanic

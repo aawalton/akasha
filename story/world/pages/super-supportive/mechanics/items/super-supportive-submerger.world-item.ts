@@ -9,4 +9,6 @@ export const superSupportiveSubmerger = {
   aliases: ["Sinker Sender"],
   description:
     "An aquarium-like device of yellow oil and water with a silver bead, which sinks a boat deep and hides it.",
+  createdAt: "2026-09-28T21:42:46.964Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

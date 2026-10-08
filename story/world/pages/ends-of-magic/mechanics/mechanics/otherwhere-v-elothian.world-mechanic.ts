@@ -7,4 +7,6 @@ export const otherwhereVElothian = {
   title: "Elothian",
   world: "world/ends-of-magic",
   description: "The common tongue of Elothia's settled rim.",
+  createdAt: "2026-09-28T21:53:30.776Z",
+  updatedAt: "2026-09-28T21:53:34.000Z",
 } as const satisfies WorldMechanic

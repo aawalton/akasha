@@ -7,4 +7,6 @@ export const superSupportiveMindhurt = {
   title: "Mindhurt",
   world: "world/super-supportive",
   description: "A condition of the mind caused by stress.",
+  createdAt: "2026-09-28T21:45:47.109Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldCondition

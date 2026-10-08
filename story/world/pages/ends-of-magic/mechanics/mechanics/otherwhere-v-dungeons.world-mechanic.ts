@@ -8,4 +8,6 @@ export const otherwhereVDungeons = {
   world: "world/ends-of-magic",
   aliases: ["dungeon"],
   description: "Magical strongholds of monsters and traps.",
+  createdAt: "2026-09-28T21:45:48.890Z",
+  updatedAt: "2026-09-28T21:49:28.000Z",
 } as const satisfies WorldMechanic

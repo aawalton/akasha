@@ -9,4 +9,6 @@ export const superSupportiveChaosPainting = {
   aliases: ["angle-dependent painting"],
   description:
     "An Artonan painting visible only from its ideal angle, which can draw the viewer into the scene.",
+  createdAt: "2026-09-28T21:47:30.306Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldItem

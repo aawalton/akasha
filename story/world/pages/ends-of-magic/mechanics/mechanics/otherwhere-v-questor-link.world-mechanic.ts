@@ -8,4 +8,6 @@ export const otherwhereVQuestorLink = {
   world: "world/ends-of-magic",
   aliases: ["the knot", "Davrar link"],
   description: "The tie of power between a Questor and Davrar.",
+  createdAt: "2026-09-28T21:51:36.283Z",
+  updatedAt: "2026-09-28T21:51:43.000Z",
 } as const satisfies WorldMechanic

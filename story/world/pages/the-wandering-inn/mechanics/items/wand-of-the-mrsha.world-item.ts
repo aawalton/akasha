@@ -6,4 +6,6 @@ export const wandOfTheMrsha = {
   slug: "wand-of-the-mrsha",
   title: "Wand of the Mrsha",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:40:23.808Z",
+  updatedAt: "2026-09-19T16:17:10.000Z",
 } as const satisfies WorldItem

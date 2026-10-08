@@ -8,4 +8,6 @@ export const superSupportivePotionInhaler = {
   world: "world/super-supportive",
   aliases: ["inhaler"],
   description: "An inhaler holding a potion.",
+  createdAt: "2026-09-28T21:46:43.329Z",
+  updatedAt: "2026-09-28T22:05:16.000Z",
 } as const satisfies WorldItem

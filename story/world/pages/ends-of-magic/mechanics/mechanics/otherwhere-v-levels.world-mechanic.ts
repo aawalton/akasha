@@ -8,4 +8,6 @@ export const otherwhereVLevels = {
   world: "world/ends-of-magic",
   aliases: ["level"],
   description: "The number measuring a class's growth.",
+  createdAt: "2026-09-28T21:39:45.239Z",
+  updatedAt: "2026-09-28T21:48:41.000Z",
 } as const satisfies WorldMechanic

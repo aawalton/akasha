@@ -8,4 +8,6 @@ export const superSupportiveBirthdirtPotion = {
   world: "world/super-supportive",
   aliases: ["birth dirt potion", "mud potion"],
   description: "A personal mud potion tied to one's birthplace.",
+  createdAt: "2026-09-28T21:42:46.962Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

@@ -7,4 +7,6 @@ export const towerPhysicalDefence = {
   title: "Physical Defence",
   definition: "how well a character in the Tower turns a blow aside",
   formula: {},
+  createdAt: "2026-09-22T17:44:45.666Z",
+  updatedAt: "2026-09-26T14:54:15.000Z",
 } as const satisfies WorldDerivedMetric

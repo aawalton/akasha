@@ -7,4 +7,6 @@ export const overwhereIItems = {
   title: "Items",
   world: "world/hell-hound-evolution-litrpg",
   description: "The things a person carries or wears, and the things set down somewhere.",
+  createdAt: "2026-10-03T19:47:58.753Z",
+  updatedAt: "2026-10-03T19:48:01.000Z",
 } as const satisfies WorldMechanic

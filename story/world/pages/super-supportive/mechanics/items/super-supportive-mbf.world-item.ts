@@ -8,4 +8,6 @@ export const superSupportiveMbf = {
   world: "world/super-supportive",
   aliases: ["my friend", "The All-seeker"],
   description: "A Wrightwork entity that stores versions of people and makes predictions.",
+  createdAt: "2026-09-28T21:42:46.963Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

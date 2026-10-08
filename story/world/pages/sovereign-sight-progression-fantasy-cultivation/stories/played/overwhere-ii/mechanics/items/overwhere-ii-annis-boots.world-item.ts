@@ -7,4 +7,6 @@ export const overwhereIiAnnisBoots = {
   title: "Anni's Boots",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "A pair of worn brown leather boots, laced to the shin, a little large for her.",
+  createdAt: "2026-09-30T09:17:09.991Z",
+  updatedAt: "2026-09-30T09:17:16.000Z",
 } as const satisfies WorldItem

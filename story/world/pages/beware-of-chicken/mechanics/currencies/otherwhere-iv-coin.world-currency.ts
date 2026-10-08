@@ -12,4 +12,6 @@ export const otherwhereIvCoin = {
     { name: "string", worth: 100 },
     { name: "copper", worth: 1 },
   ],
+  createdAt: "2026-09-30T10:41:35.525Z",
+  updatedAt: "2026-09-30T10:41:41.000Z",
 } as const satisfies WorldCurrency

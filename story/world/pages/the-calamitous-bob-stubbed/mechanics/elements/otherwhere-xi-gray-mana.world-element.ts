@@ -8,4 +8,6 @@ export const otherwhereXiGrayMana = {
   world: "world/the-calamitous-bob-stubbed",
   description: "The gray hue of mana, the mana of air.",
   aliases: ["Air mana"],
+  createdAt: "2026-09-29T00:10:39.586Z",
+  updatedAt: "2026-09-29T00:10:51.000Z",
 } as const satisfies WorldElement

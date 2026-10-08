@@ -8,4 +8,6 @@ export const championOfTheBlightedLands = {
   world: "world/the-wandering-inn",
   appearanceCount: 1,
   references: "jsonl",
+  createdAt: "2026-09-03T03:40:23.802Z",
+  updatedAt: "2026-09-22T13:30:29.000Z",
 } as const satisfies WorldCondition

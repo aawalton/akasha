@@ -7,4 +7,6 @@ export const otherwhereXMemoryShard = {
   title: "Memory Shard",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A shard holding a memory of a skill being used.",
+  createdAt: "2026-09-29T00:01:34.418Z",
+  updatedAt: "2026-09-29T00:01:37.000Z",
 } as const satisfies WorldItem

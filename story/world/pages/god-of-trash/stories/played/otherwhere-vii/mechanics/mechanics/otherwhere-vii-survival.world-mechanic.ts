@@ -7,4 +7,6 @@ export const otherwhereViiSurvival = {
   title: "Needs",
   world: "world/god-of-trash",
   description: "Food, water, sleep and warmth, and what going without them does to a body.",
+  createdAt: "2026-09-28T22:46:50.399Z",
+  updatedAt: "2026-09-28T22:47:01.000Z",
 } as const satisfies WorldMechanic

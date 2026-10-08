@@ -9,4 +9,6 @@ export const breathOfTheWildMagnesis = {
   description:
     "A Sheikah Slate rune that shows metal glowing pink and lifts and moves metallic objects by magnetism.",
   unrevealed: false,
+  createdAt: "2026-10-03T19:15:51.778Z",
+  updatedAt: "2026-10-03T19:15:54.000Z",
 } as const satisfies WorldMechanic

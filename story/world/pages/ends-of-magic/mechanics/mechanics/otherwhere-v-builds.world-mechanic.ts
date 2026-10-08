@@ -8,4 +8,6 @@ export const otherwhereVBuilds = {
   world: "world/ends-of-magic",
   aliases: ["build"],
   description: "A person's whole combination of Talents, classes and skills.",
+  createdAt: "2026-09-28T21:51:12.301Z",
+  updatedAt: "2026-09-28T21:51:15.000Z",
 } as const satisfies WorldMechanic

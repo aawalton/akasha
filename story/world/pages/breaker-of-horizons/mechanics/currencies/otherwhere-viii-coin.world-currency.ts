@@ -11,4 +11,6 @@ export const otherwhereViiiCoin = {
     { name: "crown", worth: 100 },
     { name: "bit", worth: 1 },
   ],
+  createdAt: "2026-09-30T10:42:32.340Z",
+  updatedAt: "2026-09-30T10:42:39.000Z",
 } as const satisfies WorldCurrency

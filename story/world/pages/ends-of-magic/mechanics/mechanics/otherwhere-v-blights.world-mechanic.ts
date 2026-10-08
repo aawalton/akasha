@@ -8,4 +8,6 @@ export const otherwhereVBlights = {
   world: "world/ends-of-magic",
   aliases: ["blight", "corruption", "blighted lands", "corrupted zones"],
   description: "Vast lands of corrupted magic.",
+  createdAt: "2026-09-28T21:47:06.056Z",
+  updatedAt: "2026-09-28T21:49:28.000Z",
 } as const satisfies WorldMechanic

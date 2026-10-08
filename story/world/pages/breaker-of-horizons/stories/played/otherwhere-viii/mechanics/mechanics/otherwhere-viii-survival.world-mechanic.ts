@@ -7,4 +7,6 @@ export const otherwhereViiiSurvival = {
   title: "Survival",
   world: "world/breaker-of-horizons",
   description: "Thirst, hunger, sleep and cold, as the body feels them.",
+  createdAt: "2026-09-28T23:09:16.716Z",
+  updatedAt: "2026-09-28T23:09:21.000Z",
 } as const satisfies WorldMechanic

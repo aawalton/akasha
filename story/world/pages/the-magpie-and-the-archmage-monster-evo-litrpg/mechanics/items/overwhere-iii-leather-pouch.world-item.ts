@@ -7,4 +7,6 @@ export const overwhereIiiLeatherPouch = {
   title: "Leather Pouch",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A small old leather pouch with a drawstring, cracked at the seams.",
+  createdAt: "2026-10-02T19:52:16.110Z",
+  updatedAt: "2026-10-02T19:52:19.000Z",
 } as const satisfies WorldItem

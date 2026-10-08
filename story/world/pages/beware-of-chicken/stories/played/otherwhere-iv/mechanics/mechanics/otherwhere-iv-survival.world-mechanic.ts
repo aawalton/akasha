@@ -7,4 +7,6 @@ export const otherwhereIvSurvival = {
   title: "Needs",
   world: "world/beware-of-chicken",
   description: "Food, water, sleep and warmth, and what going without them does to a body.",
+  createdAt: "2026-09-28T21:35:19.485Z",
+  updatedAt: "2026-09-28T21:35:23.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveEscapeFlyer = {
   world: "world/super-supportive",
   aliases: ["flyer"],
   description: "A one-seat silver egg with a clear top that flies a preset course to safety.",
+  createdAt: "2026-09-28T21:42:46.963Z",
+  updatedAt: "2026-09-28T21:42:50.000Z",
 } as const satisfies WorldItem

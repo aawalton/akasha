@@ -8,4 +8,6 @@ export const fairweatherProgression = {
   world: "world/fairweather",
   description:
     "How an adventurer grows: a class gains levels from experience earned on quests, in dungeons and in using its skills, and new skills come with levels, and her class raises her attributes at each level as fairweather-class-attributes states. Every adventurer starts at level 1. A window shows experience as earned over needed: level 2 needs 100, and each level after needs half again as much as the one before, rounded to the nearest ten. Experience starts again from 0 at each new level. Guild rank is separate from level: the Adventurers' Guild ranks adventurers from F up to S, and a rank rises only when the guild grants it. Every party member's class held, level, experience, attributes, rank held, skills held, purse and items are tracked as Elsie's are, each on her own pages, and the mechanics recorder moves them each chapter as the prose shows.",
+  createdAt: "2026-10-03T14:07:52.420Z",
+  updatedAt: "2026-10-04T12:34:16.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const towerAndTheStarArcanist = {
   world: "world/tower-and-the-star",
   description:
     "A caster who reads and channels Mana, with skills such as Arcane Analysis, Arcane Bolt and Ley Conduit.",
+  createdAt: "2026-10-03T19:31:08.851Z",
+  updatedAt: "2026-10-03T19:31:12.000Z",
 } as const satisfies WorldClass

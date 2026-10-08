@@ -7,4 +7,6 @@ export const overwhereIvEmptied = {
   title: "Emptied",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The status of one who has spent the last of their mana: an ache behind the eyes.",
+  createdAt: "2026-10-03T01:39:32.845Z",
+  updatedAt: "2026-10-03T01:39:36.000Z",
 } as const satisfies WorldCondition

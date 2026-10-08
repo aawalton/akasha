@@ -7,4 +7,6 @@ export const superSupportiveDevotionChip = {
   title: "Devotion chip",
   world: "world/super-supportive",
   description: "An implant in the cheek that sends random painful shocks as a show of devotion.",
+  createdAt: "2026-09-28T21:45:47.110Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldItem
