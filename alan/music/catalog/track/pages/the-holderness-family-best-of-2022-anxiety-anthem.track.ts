@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2022AnxietyAnthem = {
       externalLink: "https://open.spotify.com/track/3i308VK08UhG2Kxbs8kt9s",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.457Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

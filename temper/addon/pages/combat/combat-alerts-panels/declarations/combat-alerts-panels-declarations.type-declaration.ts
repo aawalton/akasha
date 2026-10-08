@@ -6,4 +6,6 @@ export const combatAlertsPanelsDeclarations = {
   slug: "combat-alerts-panels-declarations",
   definition: "the crowd control labels and animation calls the combat alerts panels reach",
   d: "ts",
+  createdAt: "2026-09-26T16:21:47.986Z",
+  updatedAt: "2026-09-26T17:21:00.000Z",
 } as const satisfies TypeDeclaration

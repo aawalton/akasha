@@ -34,4 +34,6 @@ export const zaraLarssonRuinMyLifeFutoseRemixRuinMyLifeFutoseRemix = {
       externalLink: "https://open.spotify.com/track/64eknQZcDCUqCagbPeOZF9",
     },
   ],
+  createdAt: "2026-09-16T13:51:04.470Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

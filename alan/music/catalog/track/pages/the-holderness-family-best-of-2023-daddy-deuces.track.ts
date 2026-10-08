@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2023DaddyDeuces = {
       externalLink: "https://open.spotify.com/track/7eYK9cYJvzPlXSTSdqAaj5",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.113Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

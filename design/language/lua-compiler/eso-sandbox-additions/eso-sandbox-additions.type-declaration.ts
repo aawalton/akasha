@@ -6,4 +6,6 @@ export const esoSandboxAdditions = {
   slug: "eso-sandbox-additions",
   definition: "the names the game's sandbox adds to Lua",
   d: "ts",
+  createdAt: "2026-09-24T22:44:32.578Z",
+  updatedAt: "2026-09-24T22:45:16.000Z",
 } as const satisfies TypeDeclaration

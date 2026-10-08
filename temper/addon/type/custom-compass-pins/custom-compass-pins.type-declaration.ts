@@ -6,4 +6,6 @@ export const customCompassPins = {
   slug: "custom-compass-pins",
   definition: "the shapes a compass pin, its layout and its manager have",
   d: "ts",
+  createdAt: "2026-09-02T05:21:47.951Z",
+  updatedAt: "2026-09-22T03:11:28.000Z",
 } as const satisfies TypeDeclaration

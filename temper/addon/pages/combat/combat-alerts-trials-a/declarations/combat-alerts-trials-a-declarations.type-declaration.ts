@@ -6,4 +6,6 @@ export const combatAlertsTrialsADeclarations = {
   slug: "combat-alerts-trials-a-declarations",
   definition: "the Cloudrest spear and check textures the trial alerts reach",
   d: "ts",
+  createdAt: "2026-09-26T17:38:24.601Z",
+  updatedAt: "2026-09-26T17:38:42.000Z",
 } as const satisfies TypeDeclaration

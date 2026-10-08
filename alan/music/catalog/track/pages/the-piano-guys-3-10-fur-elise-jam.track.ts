@@ -34,4 +34,6 @@ export const thePianoGuys310FurEliseJam = {
       externalLink: "https://open.spotify.com/track/121xDi99fhyvOQy8MLOuKm",
     },
   ],
+  createdAt: "2026-09-17T13:50:27.471Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

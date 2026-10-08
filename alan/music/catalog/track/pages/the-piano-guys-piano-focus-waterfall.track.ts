@@ -28,4 +28,6 @@ export const thePianoGuysPianoFocusWaterfall = {
       externalLink: "https://open.spotify.com/track/2fs8VzuqyV7SNScgCYce06",
     },
   ],
+  createdAt: "2026-09-17T13:50:09.506Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

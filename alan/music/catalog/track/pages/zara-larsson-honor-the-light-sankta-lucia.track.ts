@@ -24,4 +24,6 @@ export const zaraLarssonHonorTheLightSanktaLucia = {
       externalLink: "https://open.spotify.com/track/4IsV7HoiBe2lPQ8FLnUVVK",
     },
   ],
+  createdAt: "2026-09-16T13:51:02.982Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

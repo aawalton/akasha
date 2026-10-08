@@ -5,4 +5,6 @@ export const judgment = {
   type: "page-type/tracking-capture",
   slug: "judgment",
   definition: "something weighing it and saying so",
+  createdAt: "2026-09-14T13:28:38.937Z",
+  updatedAt: "2026-09-15T16:31:47.000Z",
 } as const satisfies TrackingCapture

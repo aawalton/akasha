@@ -24,4 +24,6 @@ export const zaraLarssonBadBoysTodayRemixBadBoysTodayRemix = {
       externalLink: "https://open.spotify.com/track/1Go2mkW0NdmZA5QnNB7kfr",
     },
   ],
+  createdAt: "2026-09-16T13:51:05.203Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

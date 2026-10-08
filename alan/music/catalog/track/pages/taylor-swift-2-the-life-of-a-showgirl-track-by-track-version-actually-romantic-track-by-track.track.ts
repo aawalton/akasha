@@ -24,4 +24,6 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersionActuallyRomanticTr
       externalLink: "https://open.spotify.com/track/6FJemhBlVTGTCgrrrLam3D",
     },
   ],
+  createdAt: "2026-09-23T13:48:17.146Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

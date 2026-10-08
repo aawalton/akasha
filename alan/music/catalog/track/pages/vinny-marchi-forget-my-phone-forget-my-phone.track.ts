@@ -24,4 +24,6 @@ export const vinnyMarchiForgetMyPhoneForgetMyPhone = {
       externalLink: "https://open.spotify.com/track/6eE5jQ9nSoq0l4JcUujPWC",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.911Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

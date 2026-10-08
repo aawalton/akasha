@@ -24,4 +24,6 @@ export const vinnyMarchiWingsOfWaxWingsOfWax = {
       externalLink: "https://open.spotify.com/track/1PDdKCwJ7dM8YTQOApRPUk",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.978Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

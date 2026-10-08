@@ -24,4 +24,6 @@ export const thePianoGuys3LiveFathersEyesIntroductionLive = {
       externalLink: "https://open.spotify.com/track/1hfBjYkNN1SkyfNzaznxj7",
     },
   ],
+  createdAt: "2026-09-17T13:50:29.891Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

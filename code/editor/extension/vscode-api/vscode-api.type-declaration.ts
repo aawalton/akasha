@@ -41,4 +41,6 @@ export const vscodeApi = {
       statement: "Nothing here is written by hand.",
     },
   ],
+  createdAt: "2026-09-03T16:12:55.541Z",
+  updatedAt: "2026-09-22T14:08:17.000Z",
 } as const satisfies TypeDeclaration

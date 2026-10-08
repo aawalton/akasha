@@ -24,4 +24,6 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerLowSlow = {
       externalLink: "https://open.spotify.com/track/3UrYwt4X7xVIx6ZD5ZsUyY",
     },
   ],
+  createdAt: "2026-09-16T13:51:03.571Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

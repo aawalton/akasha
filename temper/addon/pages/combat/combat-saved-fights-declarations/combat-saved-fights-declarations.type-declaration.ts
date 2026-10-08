@@ -6,4 +6,6 @@ export const combatSavedFightsDeclarations = {
   slug: "combat-saved-fights-declarations",
   definition: "the game's global name for this add-on's recorded fights",
   d: "ts",
+  createdAt: "2026-09-02T13:46:56.133Z",
+  updatedAt: "2026-09-22T13:44:02.000Z",
 } as const satisfies TypeDeclaration

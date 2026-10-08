@@ -6,4 +6,6 @@ export const potionDeclControls = {
   slug: "potion-decl-controls",
   definition: "the control names the potion window's XML document creates",
   d: "ts",
+  createdAt: "2026-09-02T11:01:26.268Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies TypeDeclaration

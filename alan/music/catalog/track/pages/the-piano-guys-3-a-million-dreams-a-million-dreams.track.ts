@@ -29,4 +29,6 @@ export const thePianoGuys3AMillionDreamsAMillionDreams = {
       externalLink: "https://open.spotify.com/track/3Jj5Jho1NVrUXi9j6Nunf1",
     },
   ],
+  createdAt: "2026-09-17T13:50:32.400Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const zaraLarssonPosterGirlLookWhatYouveDone = {
       externalLink: "https://open.spotify.com/track/4bsOYodM01jQ2sx6hMc9BR",
     },
   ],
+  createdAt: "2026-09-16T13:51:00.922Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

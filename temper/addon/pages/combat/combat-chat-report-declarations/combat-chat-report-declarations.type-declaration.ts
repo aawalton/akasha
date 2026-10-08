@@ -6,4 +6,6 @@ export const combatChatReportDeclarations = {
   slug: "combat-chat-report-declarations",
   definition: "the chat posting modes this add-on publishes as global numbers",
   d: "ts",
+  createdAt: "2026-09-02T12:47:05.768Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies TypeDeclaration

@@ -24,4 +24,6 @@ export const taylorSwift2TaylorSwiftKaraokeReputationReadyForItKaraokeVersion = 
       externalLink: "https://open.spotify.com/track/4twNUyTpLMPWokYmCdFDCH",
     },
   ],
+  createdAt: "2026-09-23T13:48:32.320Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

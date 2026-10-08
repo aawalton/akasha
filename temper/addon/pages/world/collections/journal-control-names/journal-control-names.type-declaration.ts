@@ -6,4 +6,6 @@ export const journalControlNames = {
   slug: "journal-control-names",
   definition: "the controls the journal's own markup leaves in reach",
   d: "ts",
+  createdAt: "2026-09-02T09:39:58.670Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies TypeDeclaration

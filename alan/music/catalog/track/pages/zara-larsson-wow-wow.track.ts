@@ -24,4 +24,6 @@ export const zaraLarssonWowWow = {
       externalLink: "https://open.spotify.com/track/3O8b0dDy1Z8BNM81U8DE1j",
     },
   ],
+  createdAt: "2026-09-16T13:51:04.406Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

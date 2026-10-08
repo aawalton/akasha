@@ -24,4 +24,6 @@ export const vinnyMarchiSugarStarsLullabyForTheAnxious = {
       externalLink: "https://open.spotify.com/track/3cjOwkLUUasPNEIK02OhpD",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.717Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

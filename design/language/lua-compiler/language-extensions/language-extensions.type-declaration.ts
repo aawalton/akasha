@@ -12,4 +12,6 @@ export const languageExtensions = {
       statement: "Each name here is a name the compiler gives a meaning of its own at a call site.",
     },
   ],
+  createdAt: "2026-09-04T13:01:02.774Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TypeDeclaration

@@ -24,4 +24,6 @@ export const vinnyMarchiPoserRemasteredDrivingMePsychoRemastered = {
       externalLink: "https://open.spotify.com/track/5Acyqsg9YUkC95BDY96zSe",
     },
   ],
+  createdAt: "2026-09-17T20:33:01.085Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

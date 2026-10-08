@@ -24,4 +24,6 @@ export const vinnyMarchiBushwickBelleIfYouFall = {
       externalLink: "https://open.spotify.com/track/65OVAf4yPG3umtRv1p5mXD",
     },
   ],
+  createdAt: "2026-09-17T20:32:58.817Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

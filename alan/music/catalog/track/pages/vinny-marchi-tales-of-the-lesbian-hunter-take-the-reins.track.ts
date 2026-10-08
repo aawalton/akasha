@@ -24,4 +24,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTakeTheReins = {
       externalLink: "https://open.spotify.com/track/1ib3QJM5JM2nMWkQpVEkDZ",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.306Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe90sPumpkinSpiceLatte = {
       externalLink: "https://open.spotify.com/track/638rN57DGb8f3NthQJxkdA",
     },
   ],
+  createdAt: "2026-09-18T13:48:43.660Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

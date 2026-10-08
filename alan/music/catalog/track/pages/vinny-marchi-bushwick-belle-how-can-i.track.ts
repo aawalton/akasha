@@ -24,4 +24,6 @@ export const vinnyMarchiBushwickBelleHowCanI = {
       externalLink: "https://open.spotify.com/track/1S0hRMjVT6DX9xJEvBF66x",
     },
   ],
+  createdAt: "2026-09-17T20:32:58.524Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

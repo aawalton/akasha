@@ -35,4 +35,6 @@ export const thePianoGuys3WalkingTheWireLargoWalkingTheWireLargo = {
       externalLink: "https://open.spotify.com/track/0pj0O8Yk4ZPHd0CHlWLojw",
     },
   ],
+  createdAt: "2026-09-17T13:50:32.524Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

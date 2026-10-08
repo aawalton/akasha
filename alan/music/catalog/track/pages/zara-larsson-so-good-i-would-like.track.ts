@@ -24,4 +24,6 @@ export const zaraLarssonSoGoodIWouldLike = {
       externalLink: "https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.232Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

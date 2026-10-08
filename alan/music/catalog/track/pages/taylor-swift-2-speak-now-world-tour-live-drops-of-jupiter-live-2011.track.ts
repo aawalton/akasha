@@ -24,4 +24,6 @@ export const taylorSwift2SpeakNowWorldTourLiveDropsOfJupiterLive2011 = {
       externalLink: "https://open.spotify.com/track/0BSmbCIY36iw04azzJ3S0S",
     },
   ],
+  createdAt: "2026-09-23T13:48:39.818Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -6,4 +6,6 @@ export const libGroupBroadcast = {
   slug: "lib-group-broadcast",
   definition: "the library carrying small messages between the members of a group",
   d: "ts",
+  createdAt: "2026-09-02T08:44:35.680Z",
+  updatedAt: "2026-09-21T17:56:05.000Z",
 } as const satisfies TypeDeclaration

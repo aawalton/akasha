@@ -6,4 +6,6 @@ export const combatSavedVariablesDeclarations = {
   slug: "combat-saved-variables-declarations",
   definition: "the saved table holding this add-on's settings",
   d: "ts",
+  createdAt: "2026-09-02T12:47:05.768Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies TypeDeclaration

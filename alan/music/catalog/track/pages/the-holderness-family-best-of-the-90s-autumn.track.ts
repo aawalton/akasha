@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe90sAutumn = {
       externalLink: "https://open.spotify.com/track/1G5sDRJS4nBCqebKocFMCZ",
     },
   ],
+  createdAt: "2026-09-18T13:48:43.700Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

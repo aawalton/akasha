@@ -24,4 +24,6 @@ export const vinnyMarchiBabaYetuBabaYetu = {
       externalLink: "https://open.spotify.com/track/5vk0vzanBvEcQ4GpNdNxZM",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.111Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

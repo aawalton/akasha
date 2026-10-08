@@ -24,4 +24,6 @@ export const thePianoGuys3PopOnPianoLoseYouToLoveMe = {
       externalLink: "https://open.spotify.com/track/3Lw00ZkPlcvclWykdkbG1V",
     },
   ],
+  createdAt: "2026-09-17T13:50:12.032Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

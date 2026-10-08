@@ -31,4 +31,6 @@ export const yaelokreComposingColentineColesResponse = {
       externalLink: "https://open.spotify.com/track/0kKbDF54vvTdnUH3077Zxv",
     },
   ],
+  createdAt: "2026-09-23T13:49:14.481Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

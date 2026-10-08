@@ -24,4 +24,6 @@ export const zaraLarssonSoGoodSundownFeatWizkid = {
       externalLink: "https://open.spotify.com/track/1yQ8woSt5tJ7pGJyQGuc2q",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.397Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2PreludeMyLittleGi
       externalLink: "https://open.spotify.com/track/4xCaFcsJGOLm6b3CADiofW",
     },
   ],
+  createdAt: "2026-09-17T13:50:08.750Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

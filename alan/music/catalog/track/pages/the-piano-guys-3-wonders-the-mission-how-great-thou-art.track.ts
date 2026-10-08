@@ -24,4 +24,6 @@ export const thePianoGuys3WondersTheMissionHowGreatThouArt = {
       externalLink: "https://open.spotify.com/track/1paWB93HOc8W9RAZRooFg4",
     },
   ],
+  createdAt: "2026-09-17T13:50:30.587Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const theHoldernessFamilyHotDadSummerHotDadSummer = {
       externalLink: "https://open.spotify.com/track/0NCJnJ3Io64jF10uXasrw9",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.916Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const zaraLarssonPosterGirlINeedLove = {
       externalLink: "https://open.spotify.com/track/2sHO6TNbkIYXRHfcPJaaAh",
     },
   ],
+  createdAt: "2026-09-16T13:51:00.880Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

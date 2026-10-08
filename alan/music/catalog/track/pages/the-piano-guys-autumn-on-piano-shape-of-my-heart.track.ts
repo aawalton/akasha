@@ -50,4 +50,6 @@ export const thePianoGuysAutumnOnPianoShapeOfMyHeart = {
       externalLink: "https://open.spotify.com/track/0wWsp2yaL72U4aD9tDaCPf",
     },
   ],
+  createdAt: "2026-09-17T13:50:08.324Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2TheFateOfOpheliaLoudLuxuryRemixTheFateOfOpheliaLoudLuxu
       externalLink: "https://open.spotify.com/track/6PlBKImSl4AZoxBU7F649D",
     },
   ],
+  createdAt: "2026-09-23T13:48:42.440Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

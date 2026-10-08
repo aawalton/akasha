@@ -25,4 +25,6 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemixHostileGovernmentTakeov
       externalLink: "https://open.spotify.com/track/1Ztfx8ORaPdsvSZeHRglgr",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.207Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

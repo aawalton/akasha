@@ -29,4 +29,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveHypatonRemix = {
       externalLink: "https://open.spotify.com/track/2t5aPfRRi1vgQPPZ0r7LU2",
     },
   ],
+  createdAt: "2026-09-16T13:50:59.607Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

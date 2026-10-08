@@ -24,4 +24,6 @@ export const zaraLarssonIWouldLikeGorgonCityRemixIWouldLikeGorgonCityRemix = {
       externalLink: "https://open.spotify.com/track/6shSHDBeA8Hj5qnyIq7jdQ",
     },
   ],
+  createdAt: "2026-09-16T13:51:05.112Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

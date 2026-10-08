@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2023PileOnTheStairs = {
       externalLink: "https://open.spotify.com/track/5H783MhgupDfz1PqtSijBi",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.246Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

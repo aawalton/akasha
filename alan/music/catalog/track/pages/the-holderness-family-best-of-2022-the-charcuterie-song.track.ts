@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2022TheCharcuterieSong = {
       externalLink: "https://open.spotify.com/track/7qGDs1gmV4vvzYIjkCRqR5",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.387Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

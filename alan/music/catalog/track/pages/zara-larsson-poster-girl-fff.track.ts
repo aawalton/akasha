@@ -34,4 +34,6 @@ export const zaraLarssonPosterGirlFff = {
       externalLink: "https://open.spotify.com/track/5J7prDcNNF9H7hMktkXipm",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.057Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

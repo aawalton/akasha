@@ -24,4 +24,6 @@ export const taylorSwift2Willow90STrendRemixWillow90sTrendRemix = {
       externalLink: "https://open.spotify.com/track/77p4fRpoeiZMtUy3P9kN21",
     },
   ],
+  createdAt: "2026-09-23T13:48:44.991Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

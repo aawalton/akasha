@@ -24,4 +24,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneGetOutTheDoor = {
       externalLink: "https://open.spotify.com/track/5ylfCoFvdhfBqccUSkb0ih",
     },
   ],
+  createdAt: "2026-09-18T13:48:44.239Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

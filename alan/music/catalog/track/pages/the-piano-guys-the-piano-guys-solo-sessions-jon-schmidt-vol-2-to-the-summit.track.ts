@@ -24,4 +24,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2ToTheSummit = {
       externalLink: "https://open.spotify.com/track/0tRKhRuFAfUNgBLrktesNA",
     },
   ],
+  createdAt: "2026-09-17T13:50:08.819Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

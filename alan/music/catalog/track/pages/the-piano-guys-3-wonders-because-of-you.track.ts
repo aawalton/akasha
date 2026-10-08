@@ -24,4 +24,6 @@ export const thePianoGuys3WondersBecauseOfYou = {
       externalLink: "https://open.spotify.com/track/7KDCIv5nMgL5f5u6xbUVZq",
     },
   ],
+  createdAt: "2026-09-17T13:50:30.619Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

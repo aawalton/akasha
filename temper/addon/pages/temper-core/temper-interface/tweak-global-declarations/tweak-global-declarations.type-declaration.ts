@@ -6,4 +6,6 @@ export const tweakGlobalDeclarations = {
   slug: "tweak-global-declarations",
   definition: "the shape of the global table the interface tweaks publish",
   d: "ts",
+  createdAt: "2026-09-02T13:31:14.091Z",
+  updatedAt: "2026-09-22T06:38:56.000Z",
 } as const satisfies TypeDeclaration

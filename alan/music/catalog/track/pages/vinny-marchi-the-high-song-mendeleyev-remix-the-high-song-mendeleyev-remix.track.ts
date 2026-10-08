@@ -24,4 +24,6 @@ export const vinnyMarchiTheHighSongMendeleyevRemixTheHighSongMendeleyevRemix = {
       externalLink: "https://open.spotify.com/track/5Tw1HRQT0UnkCrnmO5wvBI",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.770Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

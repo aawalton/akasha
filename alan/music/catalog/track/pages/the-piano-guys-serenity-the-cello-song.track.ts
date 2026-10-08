@@ -24,4 +24,6 @@ export const thePianoGuysSerenityTheCelloSong = {
       externalLink: "https://open.spotify.com/track/0y1z7SkwuZgeg6Xh9qy0uZ",
     },
   ],
+  createdAt: "2026-09-17T13:50:26.956Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

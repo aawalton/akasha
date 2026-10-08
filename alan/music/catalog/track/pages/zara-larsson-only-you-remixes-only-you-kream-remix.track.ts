@@ -24,4 +24,6 @@ export const zaraLarssonOnlyYouRemixesOnlyYouKreamRemix = {
       externalLink: "https://open.spotify.com/track/5mMchLiMiVmZETS4sp0Yfk",
     },
   ],
+  createdAt: "2026-09-16T13:51:04.790Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

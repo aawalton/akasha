@@ -42,4 +42,6 @@ export const thePianoGuys3EasyOnMeEasyOnMe = {
       externalLink: "https://open.spotify.com/track/1Acs6mGwPJhv8aiIbZvs6t",
     },
   ],
+  createdAt: "2026-09-17T13:50:24.989Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

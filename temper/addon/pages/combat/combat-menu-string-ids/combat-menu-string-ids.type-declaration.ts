@@ -6,4 +6,6 @@ export const combatMenuStringIds = {
   slug: "combat-menu-string-ids",
   definition: "the string ids wording the settings menu",
   d: "ts",
+  createdAt: "2026-09-02T11:29:28.131Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies TypeDeclaration

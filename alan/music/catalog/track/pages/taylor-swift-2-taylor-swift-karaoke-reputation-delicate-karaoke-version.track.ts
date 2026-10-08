@@ -24,4 +24,6 @@ export const taylorSwift2TaylorSwiftKaraokeReputationDelicateKaraokeVersion = {
       externalLink: "https://open.spotify.com/track/5Iadj8IBPrt634WW0yGPRI",
     },
   ],
+  createdAt: "2026-09-23T13:48:32.467Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

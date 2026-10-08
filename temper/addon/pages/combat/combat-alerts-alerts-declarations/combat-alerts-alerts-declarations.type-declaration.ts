@@ -6,4 +6,6 @@ export const combatAlertsAlertsDeclarations = {
   slug: "combat-alerts-alerts-declarations",
   definition: "the Fancy Action Bar calls the combat alerts ability overlay reaches",
   d: "ts",
+  createdAt: "2026-09-26T16:41:24.242Z",
+  updatedAt: "2026-09-26T16:41:42.000Z",
 } as const satisfies TypeDeclaration

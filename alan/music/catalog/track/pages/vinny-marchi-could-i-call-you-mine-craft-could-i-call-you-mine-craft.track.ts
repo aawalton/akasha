@@ -24,4 +24,6 @@ export const vinnyMarchiCouldICallYouMineCraftCouldICallYouMineCraft = {
       externalLink: "https://open.spotify.com/track/15PicWRj00doMuDMZ9QHRU",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.042Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

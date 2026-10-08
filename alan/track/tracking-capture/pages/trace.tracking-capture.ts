@@ -5,4 +5,6 @@ export const trace = {
   type: "page-type/tracking-capture",
   slug: "trace",
   definition: "Alan using another system",
+  createdAt: "2026-09-14T13:29:03.684Z",
+  updatedAt: "2026-09-15T16:31:47.000Z",
 } as const satisfies TrackingCapture

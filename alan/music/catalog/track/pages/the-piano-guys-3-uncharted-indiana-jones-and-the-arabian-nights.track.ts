@@ -24,4 +24,6 @@ export const thePianoGuys3UnchartedIndianaJonesAndTheArabianNights = {
       externalLink: "https://open.spotify.com/track/3cttLo7IxWWiMHwsj9teQG",
     },
   ],
+  createdAt: "2026-09-17T13:50:29.579Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

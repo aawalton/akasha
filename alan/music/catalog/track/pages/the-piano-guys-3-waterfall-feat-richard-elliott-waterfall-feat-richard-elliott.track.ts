@@ -29,4 +29,6 @@ export const thePianoGuys3WaterfallFeatRichardElliottWaterfallFeatRichardElliott
       externalLink: "https://open.spotify.com/track/04yTIa8owaSc7Yd25h76sX",
     },
   ],
+  createdAt: "2026-09-17T13:50:21.097Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -6,4 +6,6 @@ export const setsSearchUiShapes = {
   slug: "sets-search-ui-shapes",
   definition: "the controls and combo boxes the lib-sets search window drives",
   d: "ts",
+  createdAt: "2026-09-02T10:44:24.028Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies TypeDeclaration

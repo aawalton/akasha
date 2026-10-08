@@ -31,4 +31,6 @@ export const yaelokreHayfieldsHartebeest = {
       externalLink: "https://open.spotify.com/track/2wTtv6vlH0IwQZVFBN4Fua",
     },
   ],
+  createdAt: "2026-09-23T13:49:14.913Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

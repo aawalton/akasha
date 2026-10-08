@@ -24,4 +24,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistForeverAlways 
       externalLink: "https://open.spotify.com/track/0QCS4NpURHvWdF1icdkfBw",
     },
   ],
+  createdAt: "2026-09-23T13:48:34.868Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2TaylorSwiftKaraokeReputationThisIsWhyWeCantHaveNiceThin
       externalLink: "https://open.spotify.com/track/0MtU9ETYyVX8YPBDCYPdMb",
     },
   ],
+  createdAt: "2026-09-23T13:48:32.731Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

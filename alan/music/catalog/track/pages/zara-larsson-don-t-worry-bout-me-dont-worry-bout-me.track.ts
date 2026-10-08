@@ -24,4 +24,6 @@ export const zaraLarssonDonTWorryBoutMeDontWorryBoutMe = {
       externalLink: "https://open.spotify.com/track/507tQXutCPYNFkpOq8tmKF",
     },
   ],
+  createdAt: "2026-09-16T13:51:04.437Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

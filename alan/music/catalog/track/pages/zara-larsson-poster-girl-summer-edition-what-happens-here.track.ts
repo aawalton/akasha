@@ -34,4 +34,6 @@ export const zaraLarssonPosterGirlSummerEditionWhatHappensHere = {
       externalLink: "https://open.spotify.com/track/7cvQP9Zzwqhlfb4ZsVH6z4",
     },
   ],
+  createdAt: "2026-09-16T13:51:00.294Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

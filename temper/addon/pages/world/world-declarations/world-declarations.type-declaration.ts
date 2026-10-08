@@ -16,4 +16,6 @@ export const worldDeclarations = {
       statement: "Nothing here runs.",
     },
   ],
+  createdAt: "2026-09-22T01:46:27.605Z",
+  updatedAt: "2026-09-22T01:49:45.000Z",
 } as const satisfies TypeDeclaration

@@ -6,4 +6,6 @@ export const quietCameraKeybindDeclarations = {
   slug: "quiet-camera-keybind-declarations",
   definition: "the global the camera-spin keybind calls",
   d: "ts",
+  createdAt: "2026-09-02T13:31:14.091Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies TypeDeclaration

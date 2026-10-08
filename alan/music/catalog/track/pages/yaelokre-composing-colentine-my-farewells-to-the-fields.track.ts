@@ -42,4 +42,6 @@ export const yaelokreComposingColentineMyFarewellsToTheFields = {
       externalLink: "https://open.spotify.com/track/6DadLPlOfruq1bm32MarrB",
     },
   ],
+  createdAt: "2026-09-23T13:49:14.600Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

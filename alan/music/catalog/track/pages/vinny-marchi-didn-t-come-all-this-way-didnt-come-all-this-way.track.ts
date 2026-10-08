@@ -34,4 +34,6 @@ export const vinnyMarchiDidnTComeAllThisWayDidntComeAllThisWay = {
       externalLink: "https://open.spotify.com/track/4CoIGoKauG5COr0s5LKccj",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.238Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheSadSadAlphaMan = {
       externalLink: "https://open.spotify.com/track/0SW7UyvrGTN2neA8F8ZzeW",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.244Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

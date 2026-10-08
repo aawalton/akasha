@@ -24,4 +24,6 @@ export const zaraLarssonSpotifySinglesSexualRecordedAtSpotifyStudiosNyc = {
       externalLink: "https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ",
     },
   ],
+  createdAt: "2026-09-16T13:51:04.933Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

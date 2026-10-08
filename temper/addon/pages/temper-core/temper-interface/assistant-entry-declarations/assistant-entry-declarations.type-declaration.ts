@@ -6,4 +6,6 @@ export const assistantEntryDeclarations = {
   slug: "assistant-entry-declarations",
   definition: "the global holding every personal assistant's collectible id",
   d: "ts",
+  createdAt: "2026-09-02T13:31:14.091Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies TypeDeclaration

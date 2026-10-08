@@ -24,4 +24,6 @@ export const thePianoGuys3ChristmasTogetherOdeToJoyToTheWorld = {
       externalLink: "https://open.spotify.com/track/67KjzQfkZvrwibD4dGLyOs",
     },
   ],
+  createdAt: "2026-09-17T13:50:28.888Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

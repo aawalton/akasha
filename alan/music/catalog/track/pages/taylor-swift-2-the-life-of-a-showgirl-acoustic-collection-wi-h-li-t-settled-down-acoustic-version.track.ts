@@ -24,4 +24,6 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionWiHLiTSettledDownAc
       externalLink: "https://open.spotify.com/track/1qwClaxDb5fCrLjXaAmB35",
     },
   ],
+  createdAt: "2026-09-23T13:48:15.883Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

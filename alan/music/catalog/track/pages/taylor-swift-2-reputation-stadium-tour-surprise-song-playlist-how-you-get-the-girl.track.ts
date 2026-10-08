@@ -42,4 +42,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistHowYouGetTheGi
       externalLink: "https://open.spotify.com/track/3aSYZ4upQ6OSNos26YeVWL",
     },
   ],
+  createdAt: "2026-09-23T13:48:36.106Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

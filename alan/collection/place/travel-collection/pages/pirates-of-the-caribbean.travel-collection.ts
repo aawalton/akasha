@@ -11,4 +11,6 @@ export const piratesOfTheCaribbean = {
   ownProgress: 0,
   unit: "unit/words",
   status: "completed",
+  createdAt: "2026-09-03T16:10:01.765Z",
+  updatedAt: "2026-09-15T16:32:11.000Z",
 } as const satisfies TravelCollection

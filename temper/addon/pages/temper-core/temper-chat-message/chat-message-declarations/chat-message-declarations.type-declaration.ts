@@ -6,4 +6,6 @@ export const chatMessageDeclarations = {
   slug: "chat-message-declarations",
   definition: "the Lua and game names this addon reaches without importing them",
   d: "ts",
+  createdAt: "2026-09-02T13:13:39.339Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies TypeDeclaration

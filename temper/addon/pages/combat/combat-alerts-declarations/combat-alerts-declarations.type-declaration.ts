@@ -6,4 +6,6 @@ export const combatAlertsDeclarations = {
   slug: "combat-alerts-declarations",
   definition: "the globals, saved tables and controls the combat alerts reach",
   d: "ts",
+  createdAt: "2026-09-26T15:58:08.680Z",
+  updatedAt: "2026-09-26T15:58:19.000Z",
 } as const satisfies TypeDeclaration

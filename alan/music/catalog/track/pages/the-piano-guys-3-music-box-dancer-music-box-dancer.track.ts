@@ -50,4 +50,6 @@ export const thePianoGuys3MusicBoxDancerMusicBoxDancer = {
       externalLink: "https://open.spotify.com/track/5dukySw7gyngBJDML7EZwe",
     },
   ],
+  createdAt: "2026-09-17T13:50:22.198Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

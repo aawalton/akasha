@@ -6,4 +6,6 @@ export const sparseArray = {
   slug: "sparse-array",
   definition: "the array with its own length that a spread of holes compiles to",
   d: "ts",
+  createdAt: "2026-09-04T13:01:02.775Z",
+  updatedAt: "2026-09-15T16:32:41.000Z",
 } as const satisfies TypeDeclaration

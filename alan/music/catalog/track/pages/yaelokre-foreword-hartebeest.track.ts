@@ -24,4 +24,6 @@ export const yaelokreForewordHartebeest = {
       externalLink: "https://open.spotify.com/track/0wZtIm5soWBIKEL1649oYO",
     },
   ],
+  createdAt: "2026-09-23T13:49:13.193Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const zaraLarsson1CarryYouHome = {
       externalLink: "https://open.spotify.com/track/1N8f3LpdR5TePmSYVSLU85",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.803Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

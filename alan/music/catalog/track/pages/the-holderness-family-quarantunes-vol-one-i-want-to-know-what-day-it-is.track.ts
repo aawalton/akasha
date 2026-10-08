@@ -24,4 +24,6 @@ export const theHoldernessFamilyQuarantunesVolOneIWantToKnowWhatDayItIs = {
       externalLink: "https://open.spotify.com/track/4Hs2b73YOpMYOG4bHiD5BT",
     },
   ],
+  createdAt: "2026-09-18T13:48:42.052Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

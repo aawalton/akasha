@@ -24,4 +24,6 @@ export const zaraLarssonUncoverShesNotMePt12 = {
       externalLink: "https://open.spotify.com/track/2QRIcuedP1GlMiCgqToDgF",
     },
   ],
+  createdAt: "2026-09-16T13:51:05.420Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

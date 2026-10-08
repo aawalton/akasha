@@ -24,4 +24,6 @@ export const yaelokreForewordToDouseAScaldedTongue = {
       externalLink: "https://open.spotify.com/track/2Tq9nBSk8u55prKEZlWUeN",
     },
   ],
+  createdAt: "2026-09-23T13:49:13.668Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

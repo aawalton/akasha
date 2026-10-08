@@ -6,4 +6,6 @@ export const libLua52 = {
   slug: "lib-lua-52",
   definition: "the raw table walks the lib-lua-52 library leaves in another add-on's reach",
   d: "ts",
+  createdAt: "2026-09-02T09:23:14.066Z",
+  updatedAt: "2026-09-21T17:56:05.000Z",
 } as const satisfies TypeDeclaration

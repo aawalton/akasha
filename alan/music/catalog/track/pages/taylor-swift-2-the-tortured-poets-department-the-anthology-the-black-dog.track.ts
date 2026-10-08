@@ -24,4 +24,6 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyTheBlackDog = {
       externalLink: "https://open.spotify.com/track/62E2nR0od0M5HYxuYLaDz7",
     },
   ],
+  createdAt: "2026-09-23T13:48:18.409Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

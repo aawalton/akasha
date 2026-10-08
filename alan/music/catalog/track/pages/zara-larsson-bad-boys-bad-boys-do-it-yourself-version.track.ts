@@ -24,4 +24,6 @@ export const zaraLarssonBadBoysBadBoysDoItYourselfVersion = {
       externalLink: "https://open.spotify.com/track/2mJaEVfZ2RFxsIWF00lcER",
     },
   ],
+  createdAt: "2026-09-16T13:51:05.265Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

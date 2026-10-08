@@ -31,4 +31,6 @@ export const thePianoGuys3BeforeYouGoBeforeYouGo = {
       externalLink: "https://open.spotify.com/track/6DcQaaai7MGhgMXEaCg0oF",
     },
   ],
+  createdAt: "2026-09-17T13:50:26.814Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

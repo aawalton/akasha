@@ -6,4 +6,6 @@ export const setsSearchUiGlobals = {
   slug: "sets-search-ui-globals",
   definition: "the search window handles lib-sets leaves in the global table",
   d: "ts",
+  createdAt: "2026-09-02T10:44:24.028Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies TypeDeclaration

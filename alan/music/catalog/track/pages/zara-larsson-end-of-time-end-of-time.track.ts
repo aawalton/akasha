@@ -24,4 +24,6 @@ export const zaraLarssonEndOfTimeEndOfTime = {
       externalLink: "https://open.spotify.com/track/1r3uphR9yQTbDAzVDhWX6D",
     },
   ],
+  createdAt: "2026-09-16T13:51:03.390Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const thePianoGuysSerenityBeginAgain = {
       externalLink: "https://open.spotify.com/track/4ADYtCeB7Fi4OLQ3bFLpHg",
     },
   ],
+  createdAt: "2026-09-17T13:50:27.128Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

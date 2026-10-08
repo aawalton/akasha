@@ -24,4 +24,6 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeZacSamuelRemixExtended = {
       externalLink: "https://open.spotify.com/track/2rTGxajsuCW6O50MT1Rzai",
     },
   ],
+  createdAt: "2026-09-16T13:50:58.642Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

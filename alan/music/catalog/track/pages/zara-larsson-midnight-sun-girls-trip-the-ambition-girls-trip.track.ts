@@ -39,4 +39,6 @@ export const zaraLarssonMidnightSunGirlsTripTheAmbitionGirlsTrip = {
       externalLink: "https://open.spotify.com/track/3CrR1Xs9Blmmf7YrVAJA9z",
     },
   ],
+  createdAt: "2026-09-16T13:50:56.814Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

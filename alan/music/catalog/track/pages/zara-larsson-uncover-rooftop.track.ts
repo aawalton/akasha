@@ -24,4 +24,6 @@ export const zaraLarssonUncoverRooftop = {
       externalLink: "https://open.spotify.com/track/4JKdEJW98WkBcBi6cB0d89",
     },
   ],
+  createdAt: "2026-09-16T13:51:05.451Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

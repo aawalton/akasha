@@ -24,4 +24,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneSipMyChardonayNay = {
       externalLink: "https://open.spotify.com/track/2qAguyMOcz0osgyCfTRdYK",
     },
   ],
+  createdAt: "2026-09-18T13:48:43.929Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

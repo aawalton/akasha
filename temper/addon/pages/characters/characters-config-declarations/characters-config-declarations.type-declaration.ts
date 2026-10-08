@@ -6,4 +6,6 @@ export const charactersConfigDeclarations = {
   slug: "characters-config-declarations",
   definition: "the config table this add-on's own Lua leaves in the global table",
   d: "ts",
+  createdAt: "2026-09-02T16:34:47.266Z",
+  updatedAt: "2026-09-21T17:05:12.000Z",
 } as const satisfies TypeDeclaration

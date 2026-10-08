@@ -34,4 +34,6 @@ export const thePianoGuys3TheFirstNoelTheFirstNoel = {
       externalLink: "https://open.spotify.com/track/7amrodXJN48qEqs5Lld0Dp",
     },
   ],
+  createdAt: "2026-09-17T13:50:18.217Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

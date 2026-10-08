@@ -24,4 +24,6 @@ export const taylorSwift2TaylorSwiftKaraokeReputationKingOfMyHeartKaraokeVersion
       externalLink: "https://open.spotify.com/track/5EsfyTD26nlVQ0DtYo16uJ",
     },
   ],
+  createdAt: "2026-09-23T13:48:32.630Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

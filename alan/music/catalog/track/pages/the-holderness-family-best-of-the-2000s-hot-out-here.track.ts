@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe2000sHotOutHere = {
       externalLink: "https://open.spotify.com/track/1eSQTixZg5XDh6Iz5miiAE",
     },
   ],
+  createdAt: "2026-09-18T13:48:42.689Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

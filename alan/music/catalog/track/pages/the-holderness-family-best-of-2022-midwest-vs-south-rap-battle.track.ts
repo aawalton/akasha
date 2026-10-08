@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2022MidwestVsSouthRapBattle = {
       externalLink: "https://open.spotify.com/track/7BBqaaVmoJA6Lt4IsZtLgf",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.629Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

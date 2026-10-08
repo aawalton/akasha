@@ -31,4 +31,6 @@ export const thePianoGuys3LimitlessRewriteTheStars = {
       externalLink: "https://open.spotify.com/track/3wliVjxGl2X28AQ6h1udXW",
     },
   ],
+  createdAt: "2026-09-17T13:50:28.392Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -16,4 +16,6 @@ export const typescriptInternals = {
       statement: "A program's options are read as the Lua compiler's options.",
     },
   ],
+  createdAt: "2026-09-03T21:14:14.374Z",
+  updatedAt: "2026-09-22T13:55:14.000Z",
 } as const satisfies TypeDeclaration

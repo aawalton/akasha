@@ -31,4 +31,6 @@ export const vinnyMarchiBushwickBelleDowntown = {
       externalLink: "https://open.spotify.com/track/1awHjw2GZ9nkdDvHsbhB4g",
     },
   ],
+  createdAt: "2026-09-17T20:32:58.561Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

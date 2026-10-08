@@ -24,4 +24,6 @@ export const taylorSwift2SpeakNowLongLive = {
       externalLink: "https://open.spotify.com/track/6XDBA3QWX51lDJ0oZbaJJN",
     },
   ],
+  createdAt: "2026-09-23T13:48:38.600Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -42,4 +42,6 @@ export const thePianoGuys3ChillYouAreTheReason = {
       externalLink: "https://open.spotify.com/track/1oUzdnQof2tsyTAzFtc6qa",
     },
   ],
+  createdAt: "2026-09-17T13:50:16.997Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const vinnyMarchiLeaveThisPartyLeaveThisParty = {
       externalLink: "https://open.spotify.com/track/2knVmukUYh6iltBr9cvvBV",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.664Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

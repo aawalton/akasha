@@ -31,4 +31,6 @@ export const yaelokreComposingColentineKidLeveret = {
       externalLink: "https://open.spotify.com/track/4nguD9hn6U1NmQqssPA4kM",
     },
   ],
+  createdAt: "2026-09-23T13:49:14.521Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

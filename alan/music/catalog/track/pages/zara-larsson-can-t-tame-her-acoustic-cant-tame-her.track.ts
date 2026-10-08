@@ -42,4 +42,6 @@ export const zaraLarssonCanTTameHerAcousticCantTameHer = {
       externalLink: "https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4",
     },
   ],
+  createdAt: "2026-09-16T13:51:03.665Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const thePianoGuys3UnchartedFightSongAmazingGrace = {
       externalLink: "https://open.spotify.com/track/0enLtCNBPxgqHQJ68Uk1H8",
     },
   ],
+  createdAt: "2026-09-17T13:50:29.205Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

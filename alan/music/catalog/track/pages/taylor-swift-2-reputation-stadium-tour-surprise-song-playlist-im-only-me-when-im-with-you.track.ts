@@ -24,4 +24,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistImOnlyMeWhenIm
       externalLink: "https://open.spotify.com/track/6Py8IKZqDyU8aQVrjilbJw",
     },
   ],
+  createdAt: "2026-09-23T13:48:35.063Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

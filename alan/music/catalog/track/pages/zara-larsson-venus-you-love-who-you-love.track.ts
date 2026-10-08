@@ -24,4 +24,6 @@ export const zaraLarssonVenusYouLoveWhoYouLove = {
       externalLink: "https://open.spotify.com/track/3bWHOxTJpHL6fyATpYFQXl",
     },
   ],
+  createdAt: "2026-09-16T13:50:59.358Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

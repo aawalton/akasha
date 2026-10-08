@@ -29,4 +29,6 @@ export const vinnyMarchiJennyOfOldstonesJennyOfOldstones = {
       externalLink: "https://open.spotify.com/track/7eWuRDPxGwMvBjAUBjSDiY",
     },
   ],
+  createdAt: "2026-09-17T20:32:58.912Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

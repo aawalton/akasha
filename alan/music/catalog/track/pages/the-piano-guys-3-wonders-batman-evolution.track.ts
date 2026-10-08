@@ -24,4 +24,6 @@ export const thePianoGuys3WondersBatmanEvolution = {
       externalLink: "https://open.spotify.com/track/6ibZXyBDdozPtgmqM0mPvm",
     },
   ],
+  createdAt: "2026-09-17T13:50:30.487Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

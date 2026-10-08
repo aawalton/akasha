@@ -12,4 +12,6 @@ export const performanceGlobal = {
       statement: "The global declared here is implemented by the compiler's own runtime library.",
     },
   ],
+  createdAt: "2026-09-04T13:01:02.774Z",
+  updatedAt: "2026-09-22T13:51:13.000Z",
 } as const satisfies TypeDeclaration

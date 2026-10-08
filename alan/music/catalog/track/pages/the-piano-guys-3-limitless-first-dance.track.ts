@@ -24,4 +24,6 @@ export const thePianoGuys3LimitlessFirstDance = {
       externalLink: "https://open.spotify.com/track/0g7tfERffxAbZy6q1BmykR",
     },
   ],
+  createdAt: "2026-09-17T13:50:28.707Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

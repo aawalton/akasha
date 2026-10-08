@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2022Introverting = {
       externalLink: "https://open.spotify.com/track/3ou5fNLX5kKRJbVs7kaH0i",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.493Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

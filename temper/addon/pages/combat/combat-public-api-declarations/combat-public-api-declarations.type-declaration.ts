@@ -6,4 +6,6 @@ export const combatPublicApiDeclarations = {
   slug: "combat-public-api-declarations",
   definition: "the shape of the global table this add-on publishes",
   d: "ts",
+  createdAt: "2026-09-02T12:47:05.768Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies TypeDeclaration

@@ -24,4 +24,6 @@ export const vinnyMarchiSugarStarsCutTheCake = {
       externalLink: "https://open.spotify.com/track/3XiV1hZl7W4o510SdSHMAy",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.812Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

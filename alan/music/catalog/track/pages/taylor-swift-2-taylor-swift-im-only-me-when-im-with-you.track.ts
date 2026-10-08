@@ -24,4 +24,6 @@ export const taylorSwift2TaylorSwiftImOnlyMeWhenImWithYou = {
       externalLink: "https://open.spotify.com/track/0JIdBrXGSJXS72zjF9ss9u",
     },
   ],
+  createdAt: "2026-09-23T13:48:42.085Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

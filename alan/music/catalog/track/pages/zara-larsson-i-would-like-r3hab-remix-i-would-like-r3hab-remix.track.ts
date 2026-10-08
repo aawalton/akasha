@@ -24,4 +24,6 @@ export const zaraLarssonIWouldLikeR3habRemixIWouldLikeR3habRemix = {
       externalLink: "https://open.spotify.com/track/6gXTlkZQjtNo5j3Kp86H4G",
     },
   ],
+  createdAt: "2026-09-16T13:51:05.081Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

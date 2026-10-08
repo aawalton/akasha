@@ -24,4 +24,6 @@ export const vinnyMarchiAtmosphereAtmosphere = {
       externalLink: "https://open.spotify.com/track/6FAz7xrWdeXGentftxyqd5",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.739Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

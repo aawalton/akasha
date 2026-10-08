@@ -24,4 +24,6 @@ export const vinnyMarchiSugarStarsFutureMe = {
       externalLink: "https://open.spotify.com/track/63Q6vuZWEOvu1oIVOB6BJH",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.747Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

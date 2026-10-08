@@ -24,4 +24,6 @@ export const zaraLarssonWowImanbekRemixWowImanbekRemix = {
       externalLink: "https://open.spotify.com/track/07dzaQfXNcQPVm149RGlMg",
     },
   ],
+  createdAt: "2026-09-16T13:51:03.953Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

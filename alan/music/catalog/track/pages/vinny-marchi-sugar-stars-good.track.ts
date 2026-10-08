@@ -24,4 +24,6 @@ export const vinnyMarchiSugarStarsGood = {
       externalLink: "https://open.spotify.com/track/12XwertpK0Q36AyuHgDA3P",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.681Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

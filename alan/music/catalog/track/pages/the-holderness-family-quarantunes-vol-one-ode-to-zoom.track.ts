@@ -24,4 +24,6 @@ export const theHoldernessFamilyQuarantunesVolOneOdeToZoom = {
       externalLink: "https://open.spotify.com/track/0KAQrw260uusQxE5bmIRfE",
     },
   ],
+  createdAt: "2026-09-18T13:48:42.125Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2SpeakNowDeluxeEditionIfThisWasAMovie = {
       externalLink: "https://open.spotify.com/track/0vvt4IZOMkRug195S4MUq0",
     },
   ],
+  createdAt: "2026-09-23T13:48:39.254Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

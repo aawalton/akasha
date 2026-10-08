@@ -24,4 +24,6 @@ export const thePianoGuys3LiveSummerJamLive = {
       externalLink: "https://open.spotify.com/track/5eqn01HUwtVcyNS9MxULzW",
     },
   ],
+  createdAt: "2026-09-17T13:50:29.854Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

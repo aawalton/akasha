@@ -24,4 +24,6 @@ export const taylorSwift2SpeakNowTaylorSVersionMineTaylorsVersion = {
       externalLink: "https://open.spotify.com/track/7G0gBu6nLdhFDPRLc0HdDG",
     },
   ],
+  createdAt: "2026-09-23T13:48:21.355Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

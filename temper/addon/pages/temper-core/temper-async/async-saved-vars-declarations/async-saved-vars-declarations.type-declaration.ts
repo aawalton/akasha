@@ -6,4 +6,6 @@ export const asyncSavedVarsDeclarations = {
   slug: "async-saved-vars-declarations",
   definition: "the global name of this scheduler's stall threshold",
   d: "ts",
+  createdAt: "2026-09-02T13:46:56.133Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies TypeDeclaration

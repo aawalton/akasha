@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2022SinusPressure = {
       externalLink: "https://open.spotify.com/track/2cOq2mChaXpgGezttfiRkd",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.529Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

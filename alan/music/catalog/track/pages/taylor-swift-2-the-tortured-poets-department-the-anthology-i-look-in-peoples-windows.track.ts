@@ -24,4 +24,6 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyILookInPeoplesWin
       externalLink: "https://open.spotify.com/track/1Zai5UJ2di3qEuR2HeT2s8",
     },
   ],
+  createdAt: "2026-09-23T13:48:18.701Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

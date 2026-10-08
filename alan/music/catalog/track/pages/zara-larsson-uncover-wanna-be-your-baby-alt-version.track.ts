@@ -24,4 +24,6 @@ export const zaraLarssonUncoverWannaBeYourBabyAltVersion = {
       externalLink: "https://open.spotify.com/track/5oH5lv8dRUijckd6FO9HHh",
     },
   ],
+  createdAt: "2026-09-16T13:51:05.297Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

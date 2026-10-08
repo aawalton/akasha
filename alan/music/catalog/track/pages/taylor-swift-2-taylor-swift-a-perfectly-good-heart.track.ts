@@ -24,4 +24,6 @@ export const taylorSwift2TaylorSwiftAPerfectlyGoodHeart = {
       externalLink: "https://open.spotify.com/track/1spLfUJxtyVyiKKTegQ2r4",
     },
   ],
+  createdAt: "2026-09-23T13:48:42.162Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

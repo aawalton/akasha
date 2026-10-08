@@ -24,4 +24,6 @@ export const nextBossDeclarations = {
       statement: "A name the game or a library owns is declared in the shared set instead.",
     },
   ],
+  createdAt: "2026-09-02T12:14:18.981Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies TypeDeclaration

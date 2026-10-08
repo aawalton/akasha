@@ -6,4 +6,6 @@ export const combatAlertsDrawingDeclarations = {
   slug: "combat-alerts-drawing-declarations",
   definition: "the optional icon library and colour blending the combat alerts drawing reaches",
   d: "ts",
+  createdAt: "2026-09-26T16:37:29.727Z",
+  updatedAt: "2026-09-26T16:37:44.000Z",
 } as const satisfies TypeDeclaration

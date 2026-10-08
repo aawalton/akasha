@@ -6,4 +6,6 @@ export const setsSearchUiShapes4 = {
   slug: "sets-search-ui-shapes-4",
   definition: "the result list behind the lib-sets search window and the classes that build it",
   d: "ts",
+  createdAt: "2026-09-02T10:44:24.030Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies TypeDeclaration

@@ -42,4 +42,6 @@ export const thePianoGuys3Unstoppable2WhenYoureGone = {
       externalLink: "https://open.spotify.com/track/56XGOjaT2JGsf8JOEz76XU",
     },
   ],
+  createdAt: "2026-09-17T13:50:15.135Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

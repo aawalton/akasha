@@ -34,4 +34,6 @@ export const taylorSwift2SpeakNowMine = {
       externalLink: "https://open.spotify.com/track/6LZaxlycSWrJZ4Volb25qx",
     },
   ],
+  createdAt: "2026-09-23T13:48:38.637Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const vinnyMarchiLovelessAndModernLanguageLovelessAndModernLanguage = {
       externalLink: "https://open.spotify.com/track/1Uvh2rj7jS5Om4vaJNhtfs",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.950Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

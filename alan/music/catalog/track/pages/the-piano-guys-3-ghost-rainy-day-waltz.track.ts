@@ -34,4 +34,6 @@ export const thePianoGuys3GhostRainyDayWaltz = {
       externalLink: "https://open.spotify.com/track/687mPrGeQeTVZmN9BGXfDi",
     },
   ],
+  createdAt: "2026-09-17T13:50:23.724Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

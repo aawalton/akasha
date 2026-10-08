@@ -6,4 +6,6 @@ export const writGlobal = {
   slug: "writ-global",
   definition: "the global table holding the writ tracker's namespaces and saved variables",
   d: "ts",
+  createdAt: "2026-09-02T11:01:26.335Z",
+  updatedAt: "2026-09-22T13:58:42.000Z",
 } as const satisfies TypeDeclaration

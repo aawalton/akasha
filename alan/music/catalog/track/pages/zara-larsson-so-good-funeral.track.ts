@@ -24,4 +24,6 @@ export const zaraLarssonSoGoodFuneral = {
       externalLink: "https://open.spotify.com/track/75gU1E0ou9Kf8GBVwGs1Xk",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.559Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistStateOfGrace =
       externalLink: "https://open.spotify.com/track/0YRGTdfmJPALpglAaraYUr",
     },
   ],
+  createdAt: "2026-09-23T13:48:34.031Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const thePianoGuysSerenityBlessTheBrokenRoad = {
       externalLink: "https://open.spotify.com/track/1Ihys8VEEtMJ5L12E82GHq",
     },
   ],
+  createdAt: "2026-09-17T13:50:27.094Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyTheManuscript = {
       externalLink: "https://open.spotify.com/track/1DTRUYVd8rYpla9hhVVwjo",
     },
   ],
+  createdAt: "2026-09-23T13:48:18.924Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

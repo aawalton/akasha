@@ -24,4 +24,6 @@ export const zaraLarssonVenusEscape = {
       externalLink: "https://open.spotify.com/track/10ky5LMbNGGXlHbfniwRmC",
     },
   ],
+  createdAt: "2026-09-16T13:50:59.469Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

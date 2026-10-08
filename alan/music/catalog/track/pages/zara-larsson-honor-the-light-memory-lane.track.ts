@@ -31,4 +31,6 @@ export const zaraLarssonHonorTheLightMemoryLane = {
       externalLink: "https://open.spotify.com/track/624PTd4WB9XanWV1egM2lS",
     },
   ],
+  createdAt: "2026-09-16T13:51:02.816Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

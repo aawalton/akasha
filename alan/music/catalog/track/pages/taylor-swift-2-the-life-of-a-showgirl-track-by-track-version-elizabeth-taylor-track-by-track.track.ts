@@ -24,4 +24,6 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersionElizabethTaylorTra
       externalLink: "https://open.spotify.com/track/3r9fAceWmaDFvbNiTnFiLr",
     },
   ],
+  createdAt: "2026-09-23T13:48:16.609Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

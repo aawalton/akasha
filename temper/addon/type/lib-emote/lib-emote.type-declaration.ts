@@ -6,4 +6,6 @@ export const libEmote = {
   slug: "lib-emote",
   definition: "the custom emote library whose icons an imported marker may name",
   d: "ts",
+  createdAt: "2026-09-26T16:10:47.851Z",
+  updatedAt: "2026-09-26T16:11:20.000Z",
 } as const satisfies TypeDeclaration

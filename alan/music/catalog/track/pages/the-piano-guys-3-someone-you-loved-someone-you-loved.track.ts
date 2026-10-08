@@ -34,4 +34,6 @@ export const thePianoGuys3SomeoneYouLovedSomeoneYouLoved = {
       externalLink: "https://open.spotify.com/track/6exccVMFxHjO0gsWeLum7Q",
     },
   ],
+  createdAt: "2026-09-17T13:50:32.312Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

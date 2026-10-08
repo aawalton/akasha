@@ -24,4 +24,6 @@ export const thePianoGuys3WondersHome = {
       externalLink: "https://open.spotify.com/track/1mdUTN1RtD2oOUIusIhium",
     },
   ],
+  createdAt: "2026-09-17T13:50:30.555Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

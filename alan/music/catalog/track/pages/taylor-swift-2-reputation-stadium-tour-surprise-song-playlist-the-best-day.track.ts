@@ -24,4 +24,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistTheBestDay = {
       externalLink: "https://open.spotify.com/track/7APTsjmZbj7TFXQJAiRti4",
     },
   ],
+  createdAt: "2026-09-23T13:48:33.479Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

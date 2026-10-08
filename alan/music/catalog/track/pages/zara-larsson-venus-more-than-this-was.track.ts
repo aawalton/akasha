@@ -24,4 +24,6 @@ export const zaraLarssonVenusMoreThanThisWas = {
       externalLink: "https://open.spotify.com/track/6CwrlA656MPLMRFgZZsvuD",
     },
   ],
+  createdAt: "2026-09-16T13:50:59.215Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

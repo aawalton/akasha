@@ -6,4 +6,6 @@ export const setsSearchUiShapes3 = {
   slug: "sets-search-ui-shapes-3",
   definition: "the keyboard search object and the rows it searches",
   d: "ts",
+  createdAt: "2026-09-02T10:44:24.030Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies TypeDeclaration

@@ -24,4 +24,6 @@ export const theHoldernessFamilyFantasyFootballAnthemFantasyFootballAnthem = {
       externalLink: "https://open.spotify.com/track/3Vdym0RxtEBXzSgLeGB6fV",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.885Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -29,4 +29,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveFelixJaehnRemix = {
       externalLink: "https://open.spotify.com/track/3eLkxnSFU8L4fPhScVfNe2",
     },
   ],
+  createdAt: "2026-09-16T13:50:59.647Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

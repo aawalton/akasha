@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe90sResolutions = {
       externalLink: "https://open.spotify.com/track/0qR2WF5ux995rg6Mn4p9Kt",
     },
   ],
+  createdAt: "2026-09-18T13:48:43.762Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

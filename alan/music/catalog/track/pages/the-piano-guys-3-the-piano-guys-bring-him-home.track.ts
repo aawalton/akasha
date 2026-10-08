@@ -24,4 +24,6 @@ export const thePianoGuys3ThePianoGuysBringHimHome = {
       externalLink: "https://open.spotify.com/track/3FvgjfERD2q146UmzjNTc4",
     },
   ],
+  createdAt: "2026-09-17T13:50:31.532Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -58,4 +58,6 @@ export const thePianoGuys3GoldenHourGoldenHour = {
       externalLink: "https://open.spotify.com/track/4bcYfAnZB7sm4Pblu2TqyX",
     },
   ],
+  createdAt: "2026-09-17T13:50:23.279Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

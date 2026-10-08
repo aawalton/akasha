@@ -24,4 +24,6 @@ export const yaelokreForewordKamahalan = {
       externalLink: "https://open.spotify.com/track/0sUBOIdWu7XYDPISFcvtAa",
     },
   ],
+  createdAt: "2026-09-23T13:49:13.729Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

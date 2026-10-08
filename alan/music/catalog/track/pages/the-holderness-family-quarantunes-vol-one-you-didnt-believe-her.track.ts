@@ -24,4 +24,6 @@ export const theHoldernessFamilyQuarantunesVolOneYouDidntBelieveHer = {
       externalLink: "https://open.spotify.com/track/36SWHaN7gFP9BJlyWA7wGz",
     },
   ],
+  createdAt: "2026-09-18T13:48:42.165Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

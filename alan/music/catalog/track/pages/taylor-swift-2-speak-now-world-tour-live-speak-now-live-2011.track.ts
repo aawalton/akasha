@@ -24,4 +24,6 @@ export const taylorSwift2SpeakNowWorldTourLiveSpeakNowLive2011 = {
       externalLink: "https://open.spotify.com/track/3QFB14MOUf3imlyISNmrbT",
     },
   ],
+  createdAt: "2026-09-23T13:48:39.739Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

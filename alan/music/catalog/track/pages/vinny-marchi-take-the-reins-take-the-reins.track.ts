@@ -24,4 +24,6 @@ export const vinnyMarchiTakeTheReinsTakeTheReins = {
       externalLink: "https://open.spotify.com/track/3T5qpu2NWLeKFobTBKpapI",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.373Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

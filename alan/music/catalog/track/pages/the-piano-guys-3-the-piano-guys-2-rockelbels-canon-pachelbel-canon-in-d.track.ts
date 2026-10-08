@@ -24,4 +24,6 @@ export const thePianoGuys3ThePianoGuys2RockelbelsCanonPachelbelCanonInD = {
       externalLink: "https://open.spotify.com/track/4Zffu1oqSybEnJgI9oyYmX",
     },
   ],
+  createdAt: "2026-09-17T13:50:32.938Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

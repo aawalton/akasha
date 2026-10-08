@@ -24,4 +24,6 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyHowDidItEnd = {
       externalLink: "https://open.spotify.com/track/5Bedn0svl0ZD7RGmJkmKKw",
     },
   ],
+  createdAt: "2026-09-23T13:48:18.553Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const thePianoGuys3ChristmasTogetherWhatChildIsThis = {
       externalLink: "https://open.spotify.com/track/40LRZ7NA5Pv7PVgsV7sQW1",
     },
   ],
+  createdAt: "2026-09-17T13:50:28.924Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -35,4 +35,6 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeFrenchBraidsRemixExtended = {
       externalLink: "https://open.spotify.com/track/5QTCNVhm1Vd5GZd2tCHpXM",
     },
   ],
+  createdAt: "2026-09-16T13:50:58.714Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

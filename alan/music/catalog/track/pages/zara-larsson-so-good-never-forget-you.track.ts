@@ -24,4 +24,6 @@ export const zaraLarssonSoGoodNeverForgetYou = {
       externalLink: "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.365Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

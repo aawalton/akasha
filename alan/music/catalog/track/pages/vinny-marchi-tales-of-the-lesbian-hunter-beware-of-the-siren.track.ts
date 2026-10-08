@@ -24,4 +24,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterBewareOfTheSiren = {
       externalLink: "https://open.spotify.com/track/7BA7IU3c0oItfFL5DHOiSD",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.407Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

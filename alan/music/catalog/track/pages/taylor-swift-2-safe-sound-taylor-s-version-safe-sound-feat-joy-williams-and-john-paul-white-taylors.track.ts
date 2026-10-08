@@ -39,4 +39,6 @@ export const taylorSwift2SafeSoundTaylorSVersionSafeSoundFeatJoyWilliamsAndJohnP
       externalLink: "https://open.spotify.com/track/6Q237Ts37YGYRIi5Vy5lVX",
     },
   ],
+  createdAt: "2026-09-23T13:48:44.825Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

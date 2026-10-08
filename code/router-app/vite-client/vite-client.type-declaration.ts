@@ -17,4 +17,6 @@ export const viteClient = {
       statement: "Every router app compiles against the same bundler declarations.",
     },
   ],
+  createdAt: "2026-09-03T21:14:26.839Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TypeDeclaration

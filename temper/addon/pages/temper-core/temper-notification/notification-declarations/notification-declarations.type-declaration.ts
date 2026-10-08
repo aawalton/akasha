@@ -24,4 +24,6 @@ export const notificationDeclarations = {
       statement: "This module restates declarations the game keeps outside akasha.",
     },
   ],
+  createdAt: "2026-09-02T12:14:18.982Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies TypeDeclaration

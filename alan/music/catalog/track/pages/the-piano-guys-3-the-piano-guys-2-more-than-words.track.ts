@@ -24,4 +24,6 @@ export const thePianoGuys3ThePianoGuys2MoreThanWords = {
       externalLink: "https://open.spotify.com/track/5NHT6xEIVlW1lG6oJmoEHF",
     },
   ],
+  createdAt: "2026-09-17T13:50:33.309Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

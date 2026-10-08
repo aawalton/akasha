@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe90sByeByeBye = {
       externalLink: "https://open.spotify.com/track/5DdkU39g2myZPnRPz86H65",
     },
   ],
+  createdAt: "2026-09-18T13:48:43.587Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

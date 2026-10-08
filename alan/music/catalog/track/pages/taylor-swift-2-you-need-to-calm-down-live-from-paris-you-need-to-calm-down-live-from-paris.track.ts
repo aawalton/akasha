@@ -24,4 +24,6 @@ export const taylorSwift2YouNeedToCalmDownLiveFromParisYouNeedToCalmDownLiveFrom
       externalLink: "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7",
     },
   ],
+  createdAt: "2026-09-23T13:48:46.121Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

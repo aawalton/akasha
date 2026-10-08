@@ -6,4 +6,6 @@ export const companionsDeclarations = {
   slug: "companions-declarations",
   definition: "the game names the companion code reaches without importing them",
   d: "ts",
+  createdAt: "2026-09-02T13:13:39.339Z",
+  updatedAt: "2026-09-22T01:42:08.000Z",
 } as const satisfies TypeDeclaration

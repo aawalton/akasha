@@ -16,4 +16,6 @@ export const slashCommanderDeclarations = {
       statement: "This page restates declarations the game keeps outside akasha.",
     },
   ],
+  createdAt: "2026-09-02T04:35:26.340Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies TypeDeclaration

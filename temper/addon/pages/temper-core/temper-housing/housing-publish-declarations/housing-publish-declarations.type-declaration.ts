@@ -6,4 +6,6 @@ export const housingPublishDeclarations = {
   slug: "housing-publish-declarations",
   definition: "the older port-to-friend add-on's global name",
   d: "ts",
+  createdAt: "2026-09-02T13:46:56.133Z",
+  updatedAt: "2026-09-22T13:54:21.000Z",
 } as const satisfies TypeDeclaration

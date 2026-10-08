@@ -24,4 +24,6 @@ export const yaelokreForewordHearken = {
       externalLink: "https://open.spotify.com/track/053YVcun37YnFMDk5T5pfG",
     },
   ],
+  createdAt: "2026-09-23T13:49:13.854Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

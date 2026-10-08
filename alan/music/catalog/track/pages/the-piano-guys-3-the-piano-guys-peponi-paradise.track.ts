@@ -24,4 +24,6 @@ export const thePianoGuys3ThePianoGuysPeponiParadise = {
       externalLink: "https://open.spotify.com/track/20ig2hDnHXETisuRBR4wVB",
     },
   ],
+  createdAt: "2026-09-17T13:50:31.107Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

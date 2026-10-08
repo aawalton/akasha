@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2023StupidMentalHealthWalk = {
       externalLink: "https://open.spotify.com/track/37jT0vOT9Tv0bp9Aw5MeMd",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.036Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

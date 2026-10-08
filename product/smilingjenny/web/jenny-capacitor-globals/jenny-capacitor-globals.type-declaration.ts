@@ -16,4 +16,6 @@ export const jennyCapacitorGlobals = {
       statement: "A browser outside that shell carries no such global.",
     },
   ],
+  createdAt: "2026-09-09T21:37:46.953Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies TypeDeclaration

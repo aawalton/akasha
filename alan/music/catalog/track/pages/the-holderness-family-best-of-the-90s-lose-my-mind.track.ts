@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe90sLoseMyMind = {
       externalLink: "https://open.spotify.com/track/4YRzOCeziKIVFtSm3bJASP",
     },
   ],
+  createdAt: "2026-09-18T13:48:43.481Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

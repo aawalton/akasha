@@ -6,4 +6,6 @@ export const interfaceAddonNeighbours = {
   slug: "interface-addon-neighbours",
   definition: "the globals the add-ons beside the interface add-on publish",
   d: "ts",
+  createdAt: "2026-09-02T07:46:08.194Z",
+  updatedAt: "2026-09-21T17:56:05.000Z",
 } as const satisfies TypeDeclaration

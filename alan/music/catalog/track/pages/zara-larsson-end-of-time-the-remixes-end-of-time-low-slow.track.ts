@@ -24,4 +24,6 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeLowSlow = {
       externalLink: "https://open.spotify.com/track/6MSiNKK8APKdJhuVlSAv4u",
     },
   ],
+  createdAt: "2026-09-16T13:51:03.251Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

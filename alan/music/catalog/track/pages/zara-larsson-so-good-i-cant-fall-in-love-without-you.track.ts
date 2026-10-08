@@ -24,4 +24,6 @@ export const zaraLarssonSoGoodICantFallInLoveWithoutYou = {
       externalLink: "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.594Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

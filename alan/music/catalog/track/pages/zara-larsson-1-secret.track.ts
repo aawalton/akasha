@@ -24,4 +24,6 @@ export const zaraLarsson1Secret = {
       externalLink: "https://open.spotify.com/track/3SZRfIDIPKmwQ4Q5eELRgu",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.952Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

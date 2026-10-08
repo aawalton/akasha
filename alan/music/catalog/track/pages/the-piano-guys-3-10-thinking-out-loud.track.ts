@@ -42,4 +42,6 @@ export const thePianoGuys310ThinkingOutLoud = {
       externalLink: "https://open.spotify.com/track/752jJnfS04iL1jSlpp9Ttj",
     },
   ],
+  createdAt: "2026-09-17T13:50:27.537Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

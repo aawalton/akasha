@@ -24,4 +24,6 @@ export const thePianoGuys3ThePianoGuys2BeginAgain = {
       externalLink: "https://open.spotify.com/track/0yZ9AtjultQdU5KL7mL1ai",
     },
   ],
+  createdAt: "2026-09-17T13:50:32.902Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

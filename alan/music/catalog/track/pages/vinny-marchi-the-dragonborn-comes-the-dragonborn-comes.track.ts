@@ -24,4 +24,6 @@ export const vinnyMarchiTheDragonbornComesTheDragonbornComes = {
       externalLink: "https://open.spotify.com/track/0iYSkRJhBwOuaBo5Ie7mNt",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.982Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

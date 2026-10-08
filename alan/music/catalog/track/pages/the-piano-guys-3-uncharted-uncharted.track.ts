@@ -24,4 +24,6 @@ export const thePianoGuys3UnchartedUncharted = {
       externalLink: "https://open.spotify.com/track/5vJev1rsuQ71Uonb1gxmnw",
     },
   ],
+  createdAt: "2026-09-17T13:50:29.546Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

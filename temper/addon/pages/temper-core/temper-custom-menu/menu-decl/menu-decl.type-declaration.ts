@@ -6,4 +6,6 @@ export const menuDecl = {
   slug: "menu-decl",
   definition: "the game names this addon reaches without importing them",
   d: "ts",
+  createdAt: "2026-09-02T12:58:13.603Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies TypeDeclaration

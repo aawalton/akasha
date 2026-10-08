@@ -24,4 +24,6 @@ export const thePianoGuys3AFamilyChristmasGoodKingWenceslas = {
       externalLink: "https://open.spotify.com/track/7bhwnZvz6oDszzeGAFG6kn",
     },
   ],
+  createdAt: "2026-09-17T13:50:30.744Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

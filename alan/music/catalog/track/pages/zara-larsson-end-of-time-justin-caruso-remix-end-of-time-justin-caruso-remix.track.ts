@@ -34,4 +34,6 @@ export const zaraLarssonEndOfTimeJustinCarusoRemixEndOfTimeJustinCarusoRemix = {
       externalLink: "https://open.spotify.com/track/3fKcQ6KLB8DHxTe1UHHroa",
     },
   ],
+  createdAt: "2026-09-16T13:51:03.355Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

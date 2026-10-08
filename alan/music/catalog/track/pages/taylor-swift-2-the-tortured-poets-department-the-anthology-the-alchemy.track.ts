@@ -34,4 +34,6 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyTheAlchemy = {
       externalLink: "https://open.spotify.com/track/1tuNqJOtRQVHvONR8Lg3MZ",
     },
   ],
+  createdAt: "2026-09-23T13:48:19.510Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

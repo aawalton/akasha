@@ -12,4 +12,6 @@ export const markersDeclarations = {
       statement: "Every control named here is declared by the markup rather than by any code.",
     },
   ],
+  createdAt: "2026-09-26T16:21:04.458Z",
+  updatedAt: "2026-09-26T16:21:52.000Z",
 } as const satisfies TypeDeclaration

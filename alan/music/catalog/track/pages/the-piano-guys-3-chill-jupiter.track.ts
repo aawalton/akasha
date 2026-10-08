@@ -24,4 +24,6 @@ export const thePianoGuys3ChillJupiter = {
       externalLink: "https://open.spotify.com/track/2IpKKmIudVllzv6NKOtNwq",
     },
   ],
+  createdAt: "2026-09-17T13:50:16.890Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

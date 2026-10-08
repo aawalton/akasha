@@ -24,4 +24,6 @@ export const thePianoGuys3SoFarSoGoodTitaniumPavane = {
       externalLink: "https://open.spotify.com/track/2traHrKT3QSX2gczW5nWOs",
     },
   ],
+  createdAt: "2026-09-17T13:50:31.924Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

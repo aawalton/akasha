@@ -24,4 +24,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistNeverGrowUp = 
       externalLink: "https://open.spotify.com/track/1UPDfqsVIZLEiZeMuUsni2",
     },
   ],
+  createdAt: "2026-09-23T13:48:34.105Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

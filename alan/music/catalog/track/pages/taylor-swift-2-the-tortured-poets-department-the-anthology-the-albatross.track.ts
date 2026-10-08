@@ -24,4 +24,6 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyTheAlbatross = {
       externalLink: "https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX",
     },
   ],
+  createdAt: "2026-09-23T13:48:18.481Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

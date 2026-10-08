@@ -24,4 +24,6 @@ export const taylorSwift2RonanRonan = {
       externalLink: "https://open.spotify.com/track/0Nw8hv79MLJa1yjtsEgz08",
     },
   ],
+  createdAt: "2026-09-23T13:48:47.021Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

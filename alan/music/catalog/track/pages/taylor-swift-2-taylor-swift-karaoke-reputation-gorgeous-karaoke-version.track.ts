@@ -24,4 +24,6 @@ export const taylorSwift2TaylorSwiftKaraokeReputationGorgeousKaraokeVersion = {
       externalLink: "https://open.spotify.com/track/3ZHTwJzCNDFvjLpVQiqpH6",
     },
   ],
+  createdAt: "2026-09-23T13:48:32.564Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

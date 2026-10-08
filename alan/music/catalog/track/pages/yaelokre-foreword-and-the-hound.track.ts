@@ -24,4 +24,6 @@ export const yaelokreForewordAndTheHound = {
       externalLink: "https://open.spotify.com/track/3ltIAerCv33YRrYhXmLxjG",
     },
   ],
+  createdAt: "2026-09-23T13:49:13.331Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -6,4 +6,6 @@ export const combatUiLiveReportDeclarations = {
   slug: "combat-ui-live-report-declarations",
   definition: "the global name the markup gives the window shown during a fight",
   d: "ts",
+  createdAt: "2026-09-02T13:46:56.133Z",
+  updatedAt: "2026-09-21T17:08:25.000Z",
 } as const satisfies TypeDeclaration

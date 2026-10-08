@@ -31,4 +31,6 @@ export const thePianoGuys3AFamilyChristmasLetItSnowWinterWonderland = {
       externalLink: "https://open.spotify.com/track/7h8WFgo7wjWVlEA3PxaFa5",
     },
   ],
+  createdAt: "2026-09-17T13:50:30.835Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

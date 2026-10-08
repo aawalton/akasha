@@ -24,4 +24,6 @@ export const taylorSwift2SpeakNowWorldTourLiveTheStoryOfUsLive = {
       externalLink: "https://open.spotify.com/track/72GIZuUXo14oyrS0si3Rgc",
     },
   ],
+  createdAt: "2026-09-23T13:48:39.521Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const thePianoGuys3LimitlessNorthCape = {
       externalLink: "https://open.spotify.com/track/7LdwWWep99mc0L5c1gY8e7",
     },
   ],
+  createdAt: "2026-09-17T13:50:28.673Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

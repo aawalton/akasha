@@ -24,4 +24,6 @@ export const zaraLarsson1WeakHeart = {
       externalLink: "https://open.spotify.com/track/4gmO89eAVOQeudq2EVhqyq",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.876Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

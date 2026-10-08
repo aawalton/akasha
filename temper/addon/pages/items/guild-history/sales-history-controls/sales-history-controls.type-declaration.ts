@@ -6,4 +6,6 @@ export const salesHistoryControls = {
   slug: "sales-history-controls",
   definition: "the controls the guild history status window's own markup leaves in reach",
   d: "ts",
+  createdAt: "2026-09-02T10:08:20.641Z",
+  updatedAt: "2026-09-22T02:54:45.000Z",
 } as const satisfies TypeDeclaration

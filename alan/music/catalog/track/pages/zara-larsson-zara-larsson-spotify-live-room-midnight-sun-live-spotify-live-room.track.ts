@@ -24,4 +24,6 @@ export const zaraLarssonZaraLarssonSpotifyLiveRoomMidnightSunLiveSpotifyLiveRoom
       externalLink: "https://open.spotify.com/track/6ZN4ZI5f7ZIXO0lMe5fcyQ",
     },
   ],
+  createdAt: "2026-09-16T13:50:58.012Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

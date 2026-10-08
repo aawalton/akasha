@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2023WeWereMostlyClowns = {
       externalLink: "https://open.spotify.com/track/3DXHiMEJk4qW7LSvCoRb19",
     },
   ],
+  createdAt: "2026-09-18T13:48:40.938Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

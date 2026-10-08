@@ -24,4 +24,6 @@ export const vinnyMarchiPoserPoser = {
       externalLink: "https://open.spotify.com/track/3YAVYFHT3DPMpYK326yat3",
     },
   ],
+  createdAt: "2026-09-17T20:33:01.522Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

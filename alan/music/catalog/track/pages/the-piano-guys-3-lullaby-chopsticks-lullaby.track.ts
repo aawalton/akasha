@@ -24,4 +24,6 @@ export const thePianoGuys3LullabyChopsticksLullaby = {
       externalLink: "https://open.spotify.com/track/1eAhoZnCqxk1sQpptsJWAT",
     },
   ],
+  createdAt: "2026-09-17T13:50:15.942Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

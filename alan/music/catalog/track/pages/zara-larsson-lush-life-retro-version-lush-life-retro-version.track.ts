@@ -34,4 +34,6 @@ export const zaraLarssonLushLifeRetroVersionLushLifeRetroVersion = {
       externalLink: "https://open.spotify.com/track/0qEGJGT2N0br36oHPkjZZh",
     },
   ],
+  createdAt: "2026-09-16T13:51:03.818Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

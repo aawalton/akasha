@@ -6,4 +6,6 @@ export const journalSavedVariables = {
   slug: "journal-saved-variables",
   definition: "the tooltip colors the journal keeps between sessions",
   d: "ts",
+  createdAt: "2026-09-02T09:39:58.674Z",
+  updatedAt: "2026-09-22T02:48:18.000Z",
 } as const satisfies TypeDeclaration

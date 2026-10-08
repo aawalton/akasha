@@ -24,4 +24,6 @@ export const theHoldernessFamilyQuarantunesVolOneEndOfTheRoll = {
       externalLink: "https://open.spotify.com/track/18aYUP185lK6fBqnsGCXWP",
     },
   ],
+  createdAt: "2026-09-18T13:48:42.348Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

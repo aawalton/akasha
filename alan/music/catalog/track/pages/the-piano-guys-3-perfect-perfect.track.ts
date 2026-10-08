@@ -24,4 +24,6 @@ export const thePianoGuys3PerfectPerfect = {
       externalLink: "https://open.spotify.com/track/2R0FW1n6cOkQDJhAkQENsf",
     },
   ],
+  createdAt: "2026-09-17T13:50:32.555Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

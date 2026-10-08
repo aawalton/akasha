@@ -25,4 +25,6 @@ export const taylorSwift2TheJokerAndTheQueenFeatTaylorSwiftTheJokerAndTheQueenFe
       externalLink: "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP",
     },
   ],
+  createdAt: "2026-09-23T13:48:44.200Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

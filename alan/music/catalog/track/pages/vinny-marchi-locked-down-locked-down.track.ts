@@ -24,4 +24,6 @@ export const vinnyMarchiLockedDownLockedDown = {
       externalLink: "https://open.spotify.com/track/6Zcfkqfod1trj4MQ8Rvsac",
     },
   ],
+  createdAt: "2026-09-17T20:33:01.642Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

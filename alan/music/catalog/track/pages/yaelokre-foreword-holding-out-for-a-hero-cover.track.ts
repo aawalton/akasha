@@ -24,4 +24,6 @@ export const yaelokreForewordHoldingOutForAHeroCover = {
       externalLink: "https://open.spotify.com/track/4bhJ9XaXLfglACXVt7nORb",
     },
   ],
+  createdAt: "2026-09-23T13:49:13.914Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

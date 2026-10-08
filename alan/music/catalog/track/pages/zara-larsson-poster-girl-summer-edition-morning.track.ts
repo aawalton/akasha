@@ -24,4 +24,6 @@ export const zaraLarssonPosterGirlSummerEditionMorning = {
       externalLink: "https://open.spotify.com/track/3YlDIGeJwj63vf95TW06WQ",
     },
   ],
+  createdAt: "2026-09-16T13:51:00.344Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

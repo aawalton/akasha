@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2023PuffyVest = {
       externalLink: "https://open.spotify.com/track/0OJ73oWnabu4xv6ipm2VCF",
     },
   ],
+  createdAt: "2026-09-18T13:48:40.970Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

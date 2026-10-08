@@ -34,4 +34,6 @@ export const zaraLarssonEndOfTimeKungsRemixEndOfTimeKungsRemix = {
       externalLink: "https://open.spotify.com/track/3M0F5j3w18mNOEKhp0x5Au",
     },
   ],
+  createdAt: "2026-09-16T13:51:03.285Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

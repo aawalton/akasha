@@ -24,4 +24,6 @@ export const taylorSwift2SpeakNowTaylorSVersionTimelessTaylorsVersionFromTheVaul
       externalLink: "https://open.spotify.com/track/1HCdems7PQZRj42QDWLA0A",
     },
   ],
+  createdAt: "2026-09-23T13:48:22.284Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

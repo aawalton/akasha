@@ -24,4 +24,6 @@ export const thePianoGuys3ThePianoGuys2LordOfTheRings = {
       externalLink: "https://open.spotify.com/track/7frDwJ4Fe57hNs0gtHAMR4",
     },
   ],
+  createdAt: "2026-09-17T13:50:33.013Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

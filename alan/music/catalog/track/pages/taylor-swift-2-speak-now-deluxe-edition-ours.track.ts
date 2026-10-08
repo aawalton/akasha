@@ -24,4 +24,6 @@ export const taylorSwift2SpeakNowDeluxeEditionOurs = {
       externalLink: "https://open.spotify.com/track/1EQn3Uc5AyUXoiPLeyCrrg",
     },
   ],
+  createdAt: "2026-09-23T13:48:39.216Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

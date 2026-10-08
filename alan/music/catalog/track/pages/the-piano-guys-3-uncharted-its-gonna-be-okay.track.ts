@@ -24,4 +24,6 @@ export const thePianoGuys3UnchartedItsGonnaBeOkay = {
       externalLink: "https://open.spotify.com/track/6DNVulVDW2tia3ZIpZjcIR",
     },
   ],
+  createdAt: "2026-09-17T13:50:29.305Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

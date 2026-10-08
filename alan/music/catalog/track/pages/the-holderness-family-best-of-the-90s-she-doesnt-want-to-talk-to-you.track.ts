@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe90sSheDoesntWantToTalkToYou = {
       externalLink: "https://open.spotify.com/track/6s1coWypzu3MrKA6TiSOJR",
     },
   ],
+  createdAt: "2026-09-18T13:48:43.623Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

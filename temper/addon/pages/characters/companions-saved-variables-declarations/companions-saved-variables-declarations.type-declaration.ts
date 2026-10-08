@@ -6,4 +6,6 @@ export const companionsSavedVariablesDeclarations = {
   slug: "companions-saved-variables-declarations",
   definition: "the saved table this add-on leaves in the global table",
   d: "ts",
+  createdAt: "2026-09-02T13:13:39.339Z",
+  updatedAt: "2026-09-22T01:32:08.000Z",
 } as const satisfies TypeDeclaration

@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe80sAlgebra = {
       externalLink: "https://open.spotify.com/track/1FTOAZGCDYcIZDlnNzzG14",
     },
   ],
+  createdAt: "2026-09-18T13:48:43.117Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

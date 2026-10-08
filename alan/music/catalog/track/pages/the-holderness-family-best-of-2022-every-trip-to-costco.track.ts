@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2022EveryTripToCostco = {
       externalLink: "https://open.spotify.com/track/02y1w6xPZ3ZZw2ALka1svz",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.566Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

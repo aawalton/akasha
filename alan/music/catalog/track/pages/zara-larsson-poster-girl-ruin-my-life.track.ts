@@ -34,4 +34,6 @@ export const zaraLarssonPosterGirlRuinMyLife = {
       externalLink: "https://open.spotify.com/track/1i53E1c5niobtiwDceo0XD",
     },
   ],
+  createdAt: "2026-09-16T13:51:00.967Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

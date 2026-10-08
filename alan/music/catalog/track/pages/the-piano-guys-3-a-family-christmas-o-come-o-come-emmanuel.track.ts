@@ -24,4 +24,6 @@ export const thePianoGuys3AFamilyChristmasOComeOComeEmmanuel = {
       externalLink: "https://open.spotify.com/track/0YwlC9RkXUNATmbP4N6hsb",
     },
   ],
+  createdAt: "2026-09-17T13:50:30.713Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

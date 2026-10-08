@@ -12,4 +12,6 @@ export const leadsWindowDeclarations = {
       statement: "Every name here is declared by the markup rather than by any code.",
     },
   ],
+  createdAt: "2026-09-02T14:10:09.675Z",
+  updatedAt: "2026-09-22T10:13:50.000Z",
 } as const satisfies TypeDeclaration

@@ -31,4 +31,6 @@ export const yaelokreComposingColentineHearken = {
       externalLink: "https://open.spotify.com/track/4xEBLCaklcfiEk0d6BIeZe",
     },
   ],
+  createdAt: "2026-09-23T13:49:14.158Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

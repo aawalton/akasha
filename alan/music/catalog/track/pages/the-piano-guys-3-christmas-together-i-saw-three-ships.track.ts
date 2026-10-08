@@ -24,4 +24,6 @@ export const thePianoGuys3ChristmasTogetherISawThreeShips = {
       externalLink: "https://open.spotify.com/track/78nKXeLoOWkuCDVEGTLLFs",
     },
   ],
+  createdAt: "2026-09-17T13:50:29.097Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

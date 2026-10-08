@@ -24,4 +24,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2OurSaviorsLove = 
       externalLink: "https://open.spotify.com/track/37sn9XyJDUdCRs5fEBBwFh",
     },
   ],
+  createdAt: "2026-09-17T13:50:08.787Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

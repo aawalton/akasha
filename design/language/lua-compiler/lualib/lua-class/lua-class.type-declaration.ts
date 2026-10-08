@@ -24,4 +24,6 @@ export const luaClass = {
       statement: "A class's own instance test takes that class table as its receiver.",
     },
   ],
+  createdAt: "2026-09-24T17:03:37.037Z",
+  updatedAt: "2026-09-24T17:04:31.000Z",
 } as const satisfies TypeDeclaration

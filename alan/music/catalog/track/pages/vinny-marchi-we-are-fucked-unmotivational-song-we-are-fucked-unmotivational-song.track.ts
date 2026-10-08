@@ -24,4 +24,6 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSongWeAreFuckedUnmotivationalSo
       externalLink: "https://open.spotify.com/track/6Gr7e1oGkSI1yKU50mRArD",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.144Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

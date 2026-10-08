@@ -7,4 +7,6 @@ export const combatAlertsSettingsDeclarations = {
   definition:
     "the settings panel controls the combat alerts settings reach by their reference names",
   d: "ts",
+  createdAt: "2026-09-26T16:52:26.420Z",
+  updatedAt: "2026-09-26T17:02:57.000Z",
 } as const satisfies TypeDeclaration

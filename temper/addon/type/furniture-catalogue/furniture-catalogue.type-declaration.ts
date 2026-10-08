@@ -6,4 +6,6 @@ export const furnitureCatalogue = {
   slug: "furniture-catalogue",
   definition: "what the furniture-catalogue library leaves in another add-on's reach",
   d: "ts",
+  createdAt: "2026-09-02T09:05:29.629Z",
+  updatedAt: "2026-09-21T17:56:05.000Z",
 } as const satisfies TypeDeclaration

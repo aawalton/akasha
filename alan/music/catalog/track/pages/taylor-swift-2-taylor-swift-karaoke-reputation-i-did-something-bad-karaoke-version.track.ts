@@ -24,4 +24,6 @@ export const taylorSwift2TaylorSwiftKaraokeReputationIDidSomethingBadKaraokeVers
       externalLink: "https://open.spotify.com/track/2hecdut2HWM5JMHqLTWThq",
     },
   ],
+  createdAt: "2026-09-23T13:48:32.399Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

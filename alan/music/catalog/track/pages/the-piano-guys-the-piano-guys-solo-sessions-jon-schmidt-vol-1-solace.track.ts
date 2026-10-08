@@ -24,4 +24,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Solace = {
       externalLink: "https://open.spotify.com/track/7jxSZjuVfjbE7hzO1iyKpQ",
     },
   ],
+  createdAt: "2026-09-17T13:50:09.765Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

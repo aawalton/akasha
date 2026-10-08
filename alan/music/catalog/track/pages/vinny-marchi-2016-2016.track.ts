@@ -24,4 +24,6 @@ export const vinnyMarchi20162016 = {
       externalLink: "https://open.spotify.com/track/2kEVkLC16SVPwHjAgxeBUT",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.048Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

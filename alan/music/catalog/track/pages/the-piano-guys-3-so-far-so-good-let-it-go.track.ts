@@ -24,4 +24,6 @@ export const thePianoGuys3SoFarSoGoodLetItGo = {
       externalLink: "https://open.spotify.com/track/3QOelbDFgwXiagpUHBxARi",
     },
   ],
+  createdAt: "2026-09-17T13:50:31.855Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

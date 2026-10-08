@@ -24,4 +24,6 @@ export const vinnyMarchiISeeFireISeeFire = {
       externalLink: "https://open.spotify.com/track/2eqMCwauppMk6KPj66Mv8l",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.629Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

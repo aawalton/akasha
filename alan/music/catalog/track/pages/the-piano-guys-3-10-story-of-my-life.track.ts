@@ -24,4 +24,6 @@ export const thePianoGuys310StoryOfMyLife = {
       externalLink: "https://open.spotify.com/track/2kH5Ja9CChF2jU8JJic5Pj",
     },
   ],
+  createdAt: "2026-09-17T13:50:28.300Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

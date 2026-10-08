@@ -24,4 +24,6 @@ export const vinnyMarchiBushwickBelleNoDiggityDum = {
       externalLink: "https://open.spotify.com/track/5G3w4MRoOmzMHV8dj2HUMS",
     },
   ],
+  createdAt: "2026-09-17T20:32:58.704Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const zaraLarsson1SkippinABeat = {
       externalLink: "https://open.spotify.com/track/5OYANUpKMMHodc3QM1crJB",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.667Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

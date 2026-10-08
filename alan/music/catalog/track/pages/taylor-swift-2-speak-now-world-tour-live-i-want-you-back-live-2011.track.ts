@@ -24,4 +24,6 @@ export const taylorSwift2SpeakNowWorldTourLiveIWantYouBackLive2011 = {
       externalLink: "https://open.spotify.com/track/4KB3zBArZ1rHRExilzycaV",
     },
   ],
+  createdAt: "2026-09-23T13:48:39.895Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

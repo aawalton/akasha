@@ -6,4 +6,6 @@ export const writMarkDeclTracker = {
   slug: "writ-mark-decl-tracker",
   definition: "the writ list the marker reads from the writ tracker beside it",
   d: "ts",
+  createdAt: "2026-09-02T11:01:26.305Z",
+  updatedAt: "2026-09-22T06:28:58.000Z",
 } as const satisfies TypeDeclaration

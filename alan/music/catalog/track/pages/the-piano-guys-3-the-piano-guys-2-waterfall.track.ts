@@ -24,4 +24,6 @@ export const thePianoGuys3ThePianoGuys2Waterfall = {
       externalLink: "https://open.spotify.com/track/1XZR9unh2oXTn5aWG60ipY",
     },
   ],
+  createdAt: "2026-09-17T13:50:33.162Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

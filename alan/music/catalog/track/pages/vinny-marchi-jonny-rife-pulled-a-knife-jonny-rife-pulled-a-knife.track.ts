@@ -34,4 +34,6 @@ export const vinnyMarchiJonnyRifePulledAKnifeJonnyRifePulledAKnife = {
       externalLink: "https://open.spotify.com/track/2RM5EdNddpjmgUHQ5rpDBs",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.343Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

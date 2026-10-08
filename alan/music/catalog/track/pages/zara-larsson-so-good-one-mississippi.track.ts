@@ -24,4 +24,6 @@ export const zaraLarssonSoGoodOneMississippi = {
       externalLink: "https://open.spotify.com/track/7oArXBmMlLCtZdUkXWQZGs",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.528Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

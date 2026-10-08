@@ -24,4 +24,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2APoorWayfaringMan
       externalLink: "https://open.spotify.com/track/0e6Ax8RLh9irqhyxfuTmYt",
     },
   ],
+  createdAt: "2026-09-17T13:50:08.714Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

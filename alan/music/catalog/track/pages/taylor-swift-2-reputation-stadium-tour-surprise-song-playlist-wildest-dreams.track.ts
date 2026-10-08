@@ -42,4 +42,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistWildestDreams 
       externalLink: "https://open.spotify.com/track/22C0JIVhFaczZ4t9heqREN",
     },
   ],
+  createdAt: "2026-09-23T13:48:36.066Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

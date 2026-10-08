@@ -24,4 +24,6 @@ export const zaraLarssonSoGoodSoGoodFeatTyDollaIgn = {
       externalLink: "https://open.spotify.com/track/54LGxQGf5LPXNGjtzDZ5IE",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.266Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2CantHelpFallingIn
       externalLink: "https://open.spotify.com/track/2wkCZfGvdLLjPg1XG1KFJ1",
     },
   ],
+  createdAt: "2026-09-17T13:50:08.683Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

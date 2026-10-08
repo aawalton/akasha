@@ -24,4 +24,6 @@ export const vinnyMarchiBadDaysGoodBadDaysGood = {
       externalLink: "https://open.spotify.com/track/0Rjy1m7fY46sKHPY7wvuGM",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.700Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

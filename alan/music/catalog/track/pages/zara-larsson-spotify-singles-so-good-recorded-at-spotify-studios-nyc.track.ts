@@ -24,4 +24,6 @@ export const zaraLarssonSpotifySinglesSoGoodRecordedAtSpotifyStudiosNyc = {
       externalLink: "https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ",
     },
   ],
+  createdAt: "2026-09-16T13:51:04.888Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

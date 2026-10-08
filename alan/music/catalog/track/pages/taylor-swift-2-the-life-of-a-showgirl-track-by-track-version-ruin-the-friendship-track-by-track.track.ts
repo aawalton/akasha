@@ -24,4 +24,6 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersionRuinTheFriendshipT
       externalLink: "https://open.spotify.com/track/6NUy8xajng5zMSGJRKniAG",
     },
   ],
+  createdAt: "2026-09-23T13:48:17.034Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

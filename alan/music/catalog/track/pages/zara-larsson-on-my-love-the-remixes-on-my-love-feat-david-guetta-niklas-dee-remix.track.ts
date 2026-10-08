@@ -29,4 +29,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveFeatDavidGuettaNiklasDeeRemix 
       externalLink: "https://open.spotify.com/track/02RcqmX7SdaSfFGx60yzjq",
     },
   ],
+  createdAt: "2026-09-16T13:50:59.678Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

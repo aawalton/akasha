@@ -24,4 +24,6 @@ export const zaraLarssonHonorTheLightSilentNight = {
       externalLink: "https://open.spotify.com/track/4TwKTu6EOJFvAlDAzQRWrd",
     },
   ],
+  createdAt: "2026-09-16T13:51:02.885Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

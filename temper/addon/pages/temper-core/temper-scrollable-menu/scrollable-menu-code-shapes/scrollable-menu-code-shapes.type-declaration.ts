@@ -6,4 +6,6 @@ export const scrollableMenuCodeShapes = {
   slug: "scrollable-menu-code-shapes",
   definition: "the shapes the load hook and the XML handlers reach",
   d: "ts",
+  createdAt: "2026-09-02T14:11:20.260Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies TypeDeclaration

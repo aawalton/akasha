@@ -24,4 +24,6 @@ export const thePianoGuys310MoreThanAFeelingLongTime = {
       externalLink: "https://open.spotify.com/track/7HCwlk7B71Bi8f8oce9kc4",
     },
   ],
+  createdAt: "2026-09-17T13:50:27.504Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

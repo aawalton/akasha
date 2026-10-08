@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2023ParkingAtChristmas = {
       externalLink: "https://open.spotify.com/track/4rN5iua4lD3GsvvuYWTLJv",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.003Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

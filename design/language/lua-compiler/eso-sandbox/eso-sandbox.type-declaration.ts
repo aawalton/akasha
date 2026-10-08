@@ -16,4 +16,6 @@ export const esoSandbox = {
       statement: "The names the game adds to Lua are declared on `eso-sandbox-additions`.",
     },
   ],
+  createdAt: "2026-09-04T13:01:02.773Z",
+  updatedAt: "2026-09-24T22:45:37.000Z",
 } as const satisfies TypeDeclaration

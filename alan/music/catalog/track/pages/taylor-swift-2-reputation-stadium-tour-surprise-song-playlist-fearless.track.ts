@@ -24,4 +24,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistFearless = {
       externalLink: "https://open.spotify.com/track/43sE2O3skbGBpT2tO6fzv9",
     },
   ],
+  createdAt: "2026-09-23T13:48:34.255Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

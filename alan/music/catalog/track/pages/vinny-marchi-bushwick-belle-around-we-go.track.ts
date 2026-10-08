@@ -24,4 +24,6 @@ export const vinnyMarchiBushwickBelleAroundWeGo = {
       externalLink: "https://open.spotify.com/track/2WPlD94fcn593aogYP0vLm",
     },
   ],
+  createdAt: "2026-09-17T20:32:58.738Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const taylorSwift2SpeakNowWorldTourLiveEnchantedLive2011 = {
       externalLink: "https://open.spotify.com/track/3lm4L3pPL32PFy74dR17OR",
     },
   ],
+  createdAt: "2026-09-23T13:48:39.972Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

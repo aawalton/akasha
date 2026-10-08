@@ -24,4 +24,6 @@ export const vinnyMarchiTakeMeBackToYouTakeMeBackToYou = {
       externalLink: "https://open.spotify.com/track/4rq6nkBFGGWn0Ggc64QRPp",
     },
   ],
+  createdAt: "2026-09-17T20:33:01.226Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

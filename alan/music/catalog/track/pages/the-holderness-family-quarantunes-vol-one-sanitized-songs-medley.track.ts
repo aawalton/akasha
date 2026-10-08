@@ -24,4 +24,6 @@ export const theHoldernessFamilyQuarantunesVolOneSanitizedSongsMedley = {
       externalLink: "https://open.spotify.com/track/0Cpu3ra26hOBJduiAoxNza",
     },
   ],
+  createdAt: "2026-09-18T13:48:42.265Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

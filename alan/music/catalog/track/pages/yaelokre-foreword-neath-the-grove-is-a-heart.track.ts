@@ -24,4 +24,6 @@ export const yaelokreForewordNeathTheGroveIsAHeart = {
       externalLink: "https://open.spotify.com/track/1fXGKI8iX05qgeG8wXvehU",
     },
   ],
+  createdAt: "2026-09-23T13:49:13.402Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

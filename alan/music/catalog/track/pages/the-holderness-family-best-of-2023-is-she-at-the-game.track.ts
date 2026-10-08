@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2023IsSheAtTheGame = {
       externalLink: "https://open.spotify.com/track/4zxy3SfQBjg5YLkqit6eB8",
     },
   ],
+  createdAt: "2026-09-18T13:48:40.893Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

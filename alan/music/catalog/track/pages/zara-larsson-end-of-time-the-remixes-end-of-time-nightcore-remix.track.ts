@@ -24,4 +24,6 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeNightcoreRemix = {
       externalLink: "https://open.spotify.com/track/742FLNTVra78jxqtu367bW",
     },
   ],
+  createdAt: "2026-09-16T13:51:03.179Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

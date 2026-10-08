@@ -24,4 +24,6 @@ export const vinnyMarchiComeLittleChildrenComeLittleChildren = {
       externalLink: "https://open.spotify.com/track/5YQuo1ly8Hdv4gHZYygFI1",
     },
   ],
+  createdAt: "2026-09-17T20:33:01.371Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

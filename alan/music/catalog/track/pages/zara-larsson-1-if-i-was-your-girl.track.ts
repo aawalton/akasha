@@ -24,4 +24,6 @@ export const zaraLarsson1IfIWasYourGirl = {
       externalLink: "https://open.spotify.com/track/6jHeMZkWtBd4Q8GCyZl8mx",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.914Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const zaraLarsson1CantHoldBack = {
       externalLink: "https://open.spotify.com/track/6XtuvafYJpfFyKi0ijqggr",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.837Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

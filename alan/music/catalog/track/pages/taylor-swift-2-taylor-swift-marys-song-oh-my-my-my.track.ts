@@ -24,4 +24,6 @@ export const taylorSwift2TaylorSwiftMarysSongOhMyMyMy = {
       externalLink: "https://open.spotify.com/track/2QrQCMel6v2JiLxqrg4p2O",
     },
   ],
+  createdAt: "2026-09-23T13:48:42.008Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

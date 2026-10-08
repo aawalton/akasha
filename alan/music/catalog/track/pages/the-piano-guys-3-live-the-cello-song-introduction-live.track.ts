@@ -24,4 +24,6 @@ export const thePianoGuys3LiveTheCelloSongIntroductionLive = {
       externalLink: "https://open.spotify.com/track/23jE7bp7YZCyhVx2OnNrIb",
     },
   ],
+  createdAt: "2026-09-17T13:50:30.005Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

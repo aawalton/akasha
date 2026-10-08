@@ -6,4 +6,6 @@ export const craftingAddonNeighbours = {
   slug: "crafting-addon-neighbours",
   definition: "the add-ons a crafting add-on reaches when the player has them",
   d: "ts",
+  createdAt: "2026-09-02T09:25:05.042Z",
+  updatedAt: "2026-09-21T17:56:05.000Z",
 } as const satisfies TypeDeclaration

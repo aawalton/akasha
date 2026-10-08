@@ -24,4 +24,6 @@ export const zaraLarssonLikeItIsLikeItIs = {
       externalLink: "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN",
     },
   ],
+  createdAt: "2026-09-16T13:51:04.061Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

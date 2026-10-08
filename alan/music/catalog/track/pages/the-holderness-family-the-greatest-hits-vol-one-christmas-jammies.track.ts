@@ -24,4 +24,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneChristmasJammies = {
       externalLink: "https://open.spotify.com/track/3ME26Zye2lrCm6GS6Ji3l9",
     },
   ],
+  createdAt: "2026-09-18T13:48:43.859Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

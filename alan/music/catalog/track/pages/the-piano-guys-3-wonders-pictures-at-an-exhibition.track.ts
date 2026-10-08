@@ -24,4 +24,6 @@ export const thePianoGuys3WondersPicturesAtAnExhibition = {
       externalLink: "https://open.spotify.com/track/6dqDzxkK6QVjRIogGJo9U9",
     },
   ],
+  createdAt: "2026-09-17T13:50:30.653Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

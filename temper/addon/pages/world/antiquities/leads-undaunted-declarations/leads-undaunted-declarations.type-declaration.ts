@@ -6,4 +6,6 @@ export const leadsUndauntedDeclarations = {
   slug: "leads-undaunted-declarations",
   definition: "the shape of the pledge tracker this add-on reads where it is installed",
   d: "ts",
+  createdAt: "2026-09-02T14:10:09.675Z",
+  updatedAt: "2026-09-22T02:33:54.000Z",
 } as const satisfies TypeDeclaration

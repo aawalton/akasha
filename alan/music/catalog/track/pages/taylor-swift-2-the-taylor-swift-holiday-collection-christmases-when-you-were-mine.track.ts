@@ -24,4 +24,6 @@ export const taylorSwift2TheTaylorSwiftHolidayCollectionChristmasesWhenYouWereMi
       externalLink: "https://open.spotify.com/track/1g09DZjQ7yBommCT6POY2n",
     },
   ],
+  createdAt: "2026-09-23T13:48:47.144Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

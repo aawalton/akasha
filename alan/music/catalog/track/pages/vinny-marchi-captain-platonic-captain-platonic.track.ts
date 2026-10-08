@@ -34,4 +34,6 @@ export const vinnyMarchiCaptainPlatonicCaptainPlatonic = {
       externalLink: "https://open.spotify.com/track/1dasDI7zosTvvGBibN4itg",
     },
   ],
+  createdAt: "2026-09-17T20:33:00.500Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

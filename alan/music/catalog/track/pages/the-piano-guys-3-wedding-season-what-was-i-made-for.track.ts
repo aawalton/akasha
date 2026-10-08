@@ -42,4 +42,6 @@ export const thePianoGuys3WeddingSeasonWhatWasIMadeFor = {
       externalLink: "https://open.spotify.com/track/412o7iyKyd6PtaAWvJz6eL",
     },
   ],
+  createdAt: "2026-09-17T13:50:14.382Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

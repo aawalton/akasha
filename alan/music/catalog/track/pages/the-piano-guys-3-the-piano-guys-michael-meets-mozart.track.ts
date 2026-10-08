@@ -24,4 +24,6 @@ export const thePianoGuys3ThePianoGuysMichaelMeetsMozart = {
       externalLink: "https://open.spotify.com/track/7i9XGfQXm9fY3CM4fLa2vA",
     },
   ],
+  createdAt: "2026-09-17T13:50:31.388Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

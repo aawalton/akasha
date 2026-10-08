@@ -42,4 +42,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistIKnowPlaces = 
       externalLink: "https://open.spotify.com/track/3qGLcmO0XnnrcpAQGZwTvA",
     },
   ],
+  createdAt: "2026-09-23T13:48:36.189Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

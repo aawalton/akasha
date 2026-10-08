@@ -24,4 +24,6 @@ export const yaelokreForewordHarpyHare = {
       externalLink: "https://open.spotify.com/track/3QQVAOt2xne9Rt5HvzCrJD",
     },
   ],
+  createdAt: "2026-09-23T13:49:13.261Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

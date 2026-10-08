@@ -24,4 +24,6 @@ export const taylorSwift2SpeakNowTaylorSVersionSparksFlyTaylorsVersion = {
       externalLink: "https://open.spotify.com/track/3MytWN8L7shNYzGl4tAKRp",
     },
   ],
+  createdAt: "2026-09-23T13:48:21.389Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

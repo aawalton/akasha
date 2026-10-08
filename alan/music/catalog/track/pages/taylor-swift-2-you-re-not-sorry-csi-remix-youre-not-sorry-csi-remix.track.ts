@@ -24,4 +24,6 @@ export const taylorSwift2YouReNotSorryCsiRemixYoureNotSorryCsiRemix = {
       externalLink: "https://open.spotify.com/track/4VbErhGDMTnvPAnt5z70DL",
     },
   ],
+  createdAt: "2026-09-23T13:48:46.284Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

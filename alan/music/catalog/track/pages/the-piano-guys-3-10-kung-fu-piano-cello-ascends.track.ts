@@ -34,4 +34,6 @@ export const thePianoGuys310KungFuPianoCelloAscends = {
       externalLink: "https://open.spotify.com/track/3AJkijY8fS8mFae3TvZQM3",
     },
   ],
+  createdAt: "2026-09-17T13:50:27.995Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

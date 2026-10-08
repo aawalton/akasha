@@ -24,4 +24,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveNightcoreRemix = {
       externalLink: "https://open.spotify.com/track/7oQEQf1ORmabztEv4kV6N0",
     },
   ],
+  createdAt: "2026-09-16T13:50:59.781Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

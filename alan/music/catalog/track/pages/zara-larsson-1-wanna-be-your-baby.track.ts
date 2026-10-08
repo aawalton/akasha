@@ -24,4 +24,6 @@ export const zaraLarsson1WannaBeYourBaby = {
       externalLink: "https://open.spotify.com/track/5D8VLjaTQLbf8H7aNdA4Bz",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.704Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

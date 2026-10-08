@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe90sItWasntMe = {
       externalLink: "https://open.spotify.com/track/1ivG0P3MQP0cd9dWcJA0HJ",
     },
   ],
+  createdAt: "2026-09-18T13:48:43.792Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

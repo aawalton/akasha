@@ -29,4 +29,6 @@ export const thePianoGuys3RewriteTheStarsRewriteTheStars = {
       externalLink: "https://open.spotify.com/track/163iPjMqMftS8AbK6INHqw",
     },
   ],
+  createdAt: "2026-09-17T13:50:32.433Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -6,4 +6,6 @@ export const combatStringIds = {
   slug: "combat-string-ids",
   definition: "the two string ids wording the calculation progress",
   d: "ts",
+  createdAt: "2026-09-02T12:05:41.125Z",
+  updatedAt: "2026-09-22T13:43:25.000Z",
 } as const satisfies TypeDeclaration

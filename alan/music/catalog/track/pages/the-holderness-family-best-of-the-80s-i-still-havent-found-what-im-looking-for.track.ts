@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe80sIStillHaventFoundWhatImLookingFor = 
       externalLink: "https://open.spotify.com/track/4vdLzkw6wsUVQtHJnvCdbN",
     },
   ],
+  createdAt: "2026-09-18T13:48:43.180Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

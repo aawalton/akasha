@@ -24,4 +24,6 @@ export const taylorSwift2TaylorSwiftInvisible = {
       externalLink: "https://open.spotify.com/track/5OOd01o2YS1QFwdpVLds3r",
     },
   ],
+  createdAt: "2026-09-23T13:48:42.123Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

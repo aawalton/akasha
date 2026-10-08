@@ -7,4 +7,6 @@ export const pithkaDeclarations = {
   definition:
     "the achievement tracker and group finder windows the characters add-on's markup makes",
   d: "ts",
+  createdAt: "2026-09-26T16:22:28.106Z",
+  updatedAt: "2026-09-26T16:23:01.000Z",
 } as const satisfies TypeDeclaration

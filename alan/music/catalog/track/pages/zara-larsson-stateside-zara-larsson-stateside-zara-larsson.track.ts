@@ -24,4 +24,6 @@ export const zaraLarssonStatesideZaraLarssonStatesideZaraLarsson = {
       externalLink: "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId",
     },
   ],
+  createdAt: "2026-09-16T13:51:02.293Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

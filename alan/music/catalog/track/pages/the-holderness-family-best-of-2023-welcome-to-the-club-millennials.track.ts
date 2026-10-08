@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOf2023WelcomeToTheClubMillennials = {
       externalLink: "https://open.spotify.com/track/1A40m9XJuZQVw0f2OYRbfI",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.073Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

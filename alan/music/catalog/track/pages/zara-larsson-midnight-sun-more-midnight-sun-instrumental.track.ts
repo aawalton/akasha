@@ -24,4 +24,6 @@ export const zaraLarssonMidnightSunMoreMidnightSunInstrumental = {
       externalLink: "https://open.spotify.com/track/043NearEhVq8RpAUHtkY5r",
     },
   ],
+  createdAt: "2026-09-16T13:50:58.156Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

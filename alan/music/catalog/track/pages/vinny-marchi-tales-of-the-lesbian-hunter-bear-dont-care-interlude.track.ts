@@ -24,4 +24,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterBearDontCareInterlude = {
       externalLink: "https://open.spotify.com/track/491lRV7SaUL1sW04GzjMRe",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.336Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

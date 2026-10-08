@@ -24,4 +24,6 @@ export const zaraLarssonAinTMyFaultFeatLilYachtyRemixAintMyFaultFeatLilYachtyRem
       externalLink: "https://open.spotify.com/track/4Un6pB4KZKekFh3SVIa9qB",
     },
   ],
+  createdAt: "2026-09-16T13:51:05.172Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

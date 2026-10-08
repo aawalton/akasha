@@ -30,4 +30,6 @@ export const thePianoGuysSerenityLoseYouToLoveMe = {
       externalLink: "https://open.spotify.com/track/0i4RHjmmo6OcGuBYhzhwF4",
     },
   ],
+  createdAt: "2026-09-17T13:50:27.301Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

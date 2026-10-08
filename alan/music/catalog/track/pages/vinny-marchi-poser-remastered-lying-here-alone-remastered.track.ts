@@ -24,4 +24,6 @@ export const vinnyMarchiPoserRemasteredLyingHereAloneRemastered = {
       externalLink: "https://open.spotify.com/track/1HFvtpQGvdDOEWdOxjPVSw",
     },
   ],
+  createdAt: "2026-09-17T20:33:01.161Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

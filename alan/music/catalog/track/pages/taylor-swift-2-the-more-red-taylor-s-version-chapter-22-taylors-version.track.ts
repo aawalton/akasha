@@ -24,4 +24,6 @@ export const taylorSwift2TheMoreRedTaylorSVersionChapter22TaylorsVersion = {
       externalLink: "https://open.spotify.com/track/5WzJ6723XqI2JpyGUDxREq",
     },
   ],
+  createdAt: "2026-09-23T13:48:44.668Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -16,4 +16,6 @@ export const catalogConfigGlobal = {
       statement: "An empty side file leaves the name with nothing.",
     },
   ],
+  createdAt: "2026-09-02T20:13:35.746Z",
+  updatedAt: "2026-09-22T13:46:35.000Z",
 } as const satisfies TypeDeclaration

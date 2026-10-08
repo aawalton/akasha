@@ -5,4 +5,6 @@ export const measurement = {
   type: "page-type/tracking-capture",
   slug: "measurement",
   definition: "a device measuring it",
+  createdAt: "2026-09-14T13:28:44.934Z",
+  updatedAt: "2026-09-15T16:31:47.000Z",
 } as const satisfies TrackingCapture

@@ -29,4 +29,6 @@ export const thePianoGuys3AFamilyChristmasAwayInAManger = {
       externalLink: "https://open.spotify.com/track/4AdyjF5Db6nVtSkHSQVe7m",
     },
   ],
+  createdAt: "2026-09-17T13:50:30.934Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

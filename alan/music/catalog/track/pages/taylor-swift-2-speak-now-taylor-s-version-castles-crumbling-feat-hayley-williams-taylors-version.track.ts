@@ -25,4 +25,6 @@ export const taylorSwift2SpeakNowTaylorSVersionCastlesCrumblingFeatHayleyWilliam
       externalLink: "https://open.spotify.com/track/4ABYxlb92WBIjHu7TIKmml",
     },
   ],
+  createdAt: "2026-09-23T13:48:22.149Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

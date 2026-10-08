@@ -24,4 +24,6 @@ export const vinnyMarchiLifelineLifeline = {
       externalLink: "https://open.spotify.com/track/5fXqQoYXs7VDmJCywveVet",
     },
   ],
+  createdAt: "2026-09-17T20:33:01.795Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -6,4 +6,6 @@ export const inventoryConfigGlobal = {
   slug: "inventory-config-global",
   definition: "the name the game fills from the inventory config file",
   d: "ts",
+  createdAt: "2026-09-02T13:39:35.862Z",
+  updatedAt: "2026-09-22T13:50:05.000Z",
 } as const satisfies TypeDeclaration

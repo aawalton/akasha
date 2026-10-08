@@ -6,4 +6,6 @@ export const combatAlertsTrialsCDeclarations = {
   slug: "combat-alerts-trials-c-declarations",
   definition: "the OdySupportIcons global the trial zone alerts override",
   d: "ts",
+  createdAt: "2026-09-26T16:23:32.531Z",
+  updatedAt: "2026-09-26T16:23:47.000Z",
 } as const satisfies TypeDeclaration

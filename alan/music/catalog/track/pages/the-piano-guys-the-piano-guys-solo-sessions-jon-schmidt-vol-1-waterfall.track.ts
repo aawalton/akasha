@@ -24,4 +24,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Waterfall = {
       externalLink: "https://open.spotify.com/track/6NEiZJnTplS7AiLrw4XZkH",
     },
   ],
+  createdAt: "2026-09-17T13:50:09.579Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

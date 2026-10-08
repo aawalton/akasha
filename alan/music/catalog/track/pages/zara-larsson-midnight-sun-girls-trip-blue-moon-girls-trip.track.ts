@@ -24,4 +24,6 @@ export const zaraLarssonMidnightSunGirlsTripBlueMoonGirlsTrip = {
       externalLink: "https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx",
     },
   ],
+  createdAt: "2026-09-16T13:50:56.598Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

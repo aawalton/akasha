@@ -24,4 +24,6 @@ export const zaraLarssonHonorTheLightTandEttLjus = {
       externalLink: "https://open.spotify.com/track/1kdYhWxuJXPFKJgxrk1Q7v",
     },
   ],
+  createdAt: "2026-09-16T13:51:02.950Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

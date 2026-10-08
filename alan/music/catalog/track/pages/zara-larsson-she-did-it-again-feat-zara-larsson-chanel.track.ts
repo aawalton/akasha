@@ -24,4 +24,6 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonChanel = {
       externalLink: "https://open.spotify.com/track/6NAGWS1utZVyCy1pOnZSFN",
     },
   ],
+  createdAt: "2026-09-16T13:50:57.933Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe2000sShoesYourself = {
       externalLink: "https://open.spotify.com/track/0tlRrL2aG3ktFrKMbBe9oq",
     },
   ],
+  createdAt: "2026-09-18T13:48:42.906Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

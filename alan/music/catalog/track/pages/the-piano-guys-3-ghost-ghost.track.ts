@@ -58,4 +58,6 @@ export const thePianoGuys3GhostGhost = {
       externalLink: "https://open.spotify.com/track/0128MEwwH1KXe0YNzAey0C",
     },
   ],
+  createdAt: "2026-09-17T13:50:23.691Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

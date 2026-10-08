@@ -24,4 +24,6 @@ export const zaraLarssonBadBoysBadBoys = {
       externalLink: "https://open.spotify.com/track/67NSunZZnjNmwYibRwv9n5",
     },
   ],
+  createdAt: "2026-09-16T13:51:05.233Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

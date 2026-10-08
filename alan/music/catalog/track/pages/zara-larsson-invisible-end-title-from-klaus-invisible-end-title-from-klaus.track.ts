@@ -24,4 +24,6 @@ export const zaraLarssonInvisibleEndTitleFromKlausInvisibleEndTitleFromKlaus = {
       externalLink: "https://open.spotify.com/track/33dJ9qPTAHONK1on4DrW6l",
     },
   ],
+  createdAt: "2026-09-16T13:51:04.096Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

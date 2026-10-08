@@ -34,4 +34,6 @@ export const zaraLarssonEndOfTimeSpinallRemixEndOfTimeSpinallRemix = {
       externalLink: "https://open.spotify.com/track/3qtkD12p554LBcyQo91UA3",
     },
   ],
+  createdAt: "2026-09-16T13:51:03.320Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

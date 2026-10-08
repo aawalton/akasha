@@ -66,4 +66,6 @@ export const thePianoGuys3Unstoppable2NeverGonnaGiveYouUp = {
       externalLink: "https://open.spotify.com/track/6AAlGtVKyXWrEMkpSpuaD3",
     },
   ],
+  createdAt: "2026-09-17T13:50:15.375Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

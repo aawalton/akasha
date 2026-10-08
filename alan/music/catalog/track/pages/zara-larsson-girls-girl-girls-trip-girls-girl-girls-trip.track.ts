@@ -34,4 +34,6 @@ export const zaraLarssonGirlsGirlGirlsTripGirlsGirlGirlsTrip = {
       externalLink: "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY",
     },
   ],
+  createdAt: "2026-09-16T13:50:57.540Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

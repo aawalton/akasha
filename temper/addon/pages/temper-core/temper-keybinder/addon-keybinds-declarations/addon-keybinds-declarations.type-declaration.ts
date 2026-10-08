@@ -20,4 +20,6 @@ export const addonKeybindsDeclarations = {
       statement: "A compiler emits nothing from this file.",
     },
   ],
+  createdAt: "2026-09-02T13:40:44.092Z",
+  updatedAt: "2026-09-22T05:50:40.000Z",
 } as const satisfies TypeDeclaration

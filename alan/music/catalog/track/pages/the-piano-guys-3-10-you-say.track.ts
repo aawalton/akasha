@@ -24,4 +24,6 @@ export const thePianoGuys310YouSay = {
       externalLink: "https://open.spotify.com/track/0MosvoiclHAgGZKlpSqYBd",
     },
   ],
+  createdAt: "2026-09-17T13:50:27.403Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

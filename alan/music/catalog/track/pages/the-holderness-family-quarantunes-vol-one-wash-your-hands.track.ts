@@ -24,4 +24,6 @@ export const theHoldernessFamilyQuarantunesVolOneWashYourHands = {
       externalLink: "https://open.spotify.com/track/4u20SexcdNNXN5c3KJ5M8N",
     },
   ],
+  createdAt: "2026-09-18T13:48:41.983Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

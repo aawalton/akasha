@@ -24,4 +24,6 @@ export const vinnyMarchiSugarStarsLoveTheFriendYouBuried = {
       externalLink: "https://open.spotify.com/track/3RjCKCctSwmabMFIjP1Eqk",
     },
   ],
+  createdAt: "2026-09-17T20:32:59.843Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

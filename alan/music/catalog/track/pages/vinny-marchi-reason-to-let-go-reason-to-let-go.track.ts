@@ -24,4 +24,6 @@ export const vinnyMarchiReasonToLetGoReasonToLetGo = {
       externalLink: "https://open.spotify.com/track/1w9ZAflleuPDEVhdY2cOHV",
     },
   ],
+  createdAt: "2026-09-17T20:33:01.908Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

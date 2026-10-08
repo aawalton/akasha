@@ -12,4 +12,6 @@ export const leadsGlobalDeclarations = {
       statement: "A key here is spelled as the markup that calls the key spells the key.",
     },
   ],
+  createdAt: "2026-09-02T14:10:09.675Z",
+  updatedAt: "2026-09-22T13:45:15.000Z",
 } as const satisfies TypeDeclaration

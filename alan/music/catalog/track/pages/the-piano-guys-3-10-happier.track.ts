@@ -42,4 +42,6 @@ export const thePianoGuys310Happier = {
       externalLink: "https://open.spotify.com/track/4WisyS4wK9Jd2BOIM8GxI6",
     },
   ],
+  createdAt: "2026-09-17T13:50:27.641Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

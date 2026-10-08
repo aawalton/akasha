@@ -50,4 +50,6 @@ export const thePianoGuys3IAinTWorriedIAintWorried = {
       externalLink: "https://open.spotify.com/track/6TOFTlFa4FI3wnC873ra6U",
     },
   ],
+  createdAt: "2026-09-17T13:50:19.743Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

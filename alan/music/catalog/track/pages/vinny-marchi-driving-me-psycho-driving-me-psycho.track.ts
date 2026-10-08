@@ -24,4 +24,6 @@ export const vinnyMarchiDrivingMePsychoDrivingMePsycho = {
       externalLink: "https://open.spotify.com/track/2jwxG2fGcgTRirSDOXTEqO",
     },
   ],
+  createdAt: "2026-09-17T20:33:01.681Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

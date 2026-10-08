@@ -24,4 +24,6 @@ export const thePianoGuys3LiveAThousandYearsLive = {
       externalLink: "https://open.spotify.com/track/3JFrIRgNqkrwITPR5Y1DUd",
     },
   ],
+  createdAt: "2026-09-17T13:50:30.203Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

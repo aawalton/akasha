@@ -24,4 +24,6 @@ export const theHoldernessFamilyBestOfThe2000sHowMuchLonger = {
       externalLink: "https://open.spotify.com/track/4Xwv6mnZ154QDf59qydBQq",
     },
   ],
+  createdAt: "2026-09-18T13:48:42.875Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

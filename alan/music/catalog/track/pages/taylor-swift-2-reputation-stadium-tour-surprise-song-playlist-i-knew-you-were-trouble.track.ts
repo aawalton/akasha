@@ -24,4 +24,6 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistIKnewYouWereTr
       externalLink: "https://open.spotify.com/track/2o2IVjuqRkR9hJxtPjtAP0",
     },
   ],
+  createdAt: "2026-09-23T13:48:33.703Z",
+  updatedAt: "2026-09-24T20:00:57.000Z",
 } as const satisfies Track

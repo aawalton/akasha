@@ -24,4 +24,6 @@ export const zaraLarssonSoGoodMakeThatMoneyGirl = {
       externalLink: "https://open.spotify.com/track/1DJY8zj0Cbglv1kMjDivke",
     },
   ],
+  createdAt: "2026-09-16T13:51:01.462Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const thePianoGuys3AFamilyChristmasSilentNight = {
       externalLink: "https://open.spotify.com/track/48O4tCMl9OJqyLLhd7u7hF",
     },
   ],
+  createdAt: "2026-09-17T13:50:31.039Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -6,4 +6,6 @@ export const nextBossGlobalDeclarations = {
   slug: "next-boss-global-declarations",
   definition: "the name opening this tracker's table to a keybind's Lua",
   d: "ts",
+  createdAt: "2026-09-02T13:36:03.312Z",
+  updatedAt: "2026-09-22T13:48:38.000Z",
 } as const satisfies TypeDeclaration

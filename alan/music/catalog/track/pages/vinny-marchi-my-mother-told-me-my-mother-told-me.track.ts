@@ -24,4 +24,6 @@ export const vinnyMarchiMyMotherToldMeMyMotherToldMe = {
       externalLink: "https://open.spotify.com/track/3Y4nQSWnC0U9Sin2ZQ5Fbx",
     },
   ],
+  createdAt: "2026-09-17T20:33:01.192Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

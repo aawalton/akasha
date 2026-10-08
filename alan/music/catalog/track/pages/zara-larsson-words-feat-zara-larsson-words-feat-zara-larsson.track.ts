@@ -24,4 +24,6 @@ export const zaraLarssonWordsFeatZaraLarssonWordsFeatZaraLarsson = {
       externalLink: "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs",
     },
   ],
+  createdAt: "2026-09-16T13:51:03.787Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

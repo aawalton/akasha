@@ -24,4 +24,6 @@ export const alchemyStationDeclarations = {
       statement: "This module restates declarations the game keeps outside akasha.",
     },
   ],
+  createdAt: "2026-09-02T12:14:18.983Z",
+  updatedAt: "2026-09-22T03:24:53.000Z",
 } as const satisfies TypeDeclaration

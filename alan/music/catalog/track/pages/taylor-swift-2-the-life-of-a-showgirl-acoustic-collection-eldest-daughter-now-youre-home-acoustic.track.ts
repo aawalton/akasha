@@ -24,4 +24,6 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionEldestDaughterNowYo
       externalLink: "https://open.spotify.com/track/2JHzTARFUispsjZHKhrxxO",
     },
   ],
+  createdAt: "2026-09-23T13:48:15.807Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

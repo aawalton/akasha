@@ -31,4 +31,6 @@ export const thePianoGuys3FlickerFlicker = {
       externalLink: "https://open.spotify.com/track/76vpjsz9JbD4qsSyVScMDq",
     },
   ],
+  createdAt: "2026-09-17T13:50:32.493Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const zaraLarssonMidnightSun3TheAmbition = {
       externalLink: "https://open.spotify.com/track/3KzE1qTzvwXM3WO1NQX5VN",
     },
   ],
+  createdAt: "2026-09-16T13:50:59.056Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

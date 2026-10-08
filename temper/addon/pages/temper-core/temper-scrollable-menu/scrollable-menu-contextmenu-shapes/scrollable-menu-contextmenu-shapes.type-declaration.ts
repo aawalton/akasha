@@ -6,4 +6,6 @@ export const scrollableMenuContextmenuShapes = {
   slug: "scrollable-menu-contextmenu-shapes",
   definition: "the shapes of the context menu class and its live object",
   d: "ts",
+  createdAt: "2026-09-02T14:11:20.263Z",
+  updatedAt: "2026-09-22T10:19:01.000Z",
 } as const satisfies TypeDeclaration

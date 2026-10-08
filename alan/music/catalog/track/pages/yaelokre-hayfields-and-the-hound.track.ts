@@ -31,4 +31,6 @@ export const yaelokreHayfieldsAndTheHound = {
       externalLink: "https://open.spotify.com/track/0L074h3NOjXSqi0D6RFDIF",
     },
   ],
+  createdAt: "2026-09-23T13:49:14.827Z",
+  updatedAt: "2026-09-24T20:01:46.000Z",
 } as const satisfies Track

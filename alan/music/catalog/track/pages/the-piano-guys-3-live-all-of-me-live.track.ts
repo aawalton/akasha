@@ -24,4 +24,6 @@ export const thePianoGuys3LiveAllOfMeLive = {
       externalLink: "https://open.spotify.com/track/4aiFs6ayHT53BJYNvZwAzb",
     },
   ],
+  createdAt: "2026-09-17T13:50:29.681Z",
+  updatedAt: "2026-09-24T20:01:24.000Z",
 } as const satisfies Track
