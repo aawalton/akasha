@@ -21,4 +21,6 @@ export const bunnyGirlEvolution0041174SaintessRuneOfFate = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T22:18:18.958Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

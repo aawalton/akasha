@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0034222TourGuideElisesCavernTour = {
   title: "222 - Tour Guide Elise's Cavern Tour",
   ownLength: 2524,
   prose: "txt",
+  createdAt: "2026-09-08T07:08:08.948Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead

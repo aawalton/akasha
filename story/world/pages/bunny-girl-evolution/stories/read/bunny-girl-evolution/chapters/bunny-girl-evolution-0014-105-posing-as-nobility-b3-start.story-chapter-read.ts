@@ -21,4 +21,6 @@ export const bunnyGirlEvolution0014105PosingAsNobilityB3Start = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:34:45.230Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

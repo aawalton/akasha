@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0036224WaitDidILevelUp = {
   story: "story-read/bunny-girl-evolution",
   ownLength: 2859,
   prose: "txt",
+  createdAt: "2026-09-15T08:05:19.873Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead

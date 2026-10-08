@@ -20,4 +20,6 @@ export const catGirlEvolution0143140DungeonCoresAndSoulWeapons = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.732Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryChapterRead

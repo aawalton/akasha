@@ -20,4 +20,6 @@ export const catGirlEvolution0161158HeraldOfLimos = {
   title: "158 - Herald of Limos",
   ownLength: 2395,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.747Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryChapterRead

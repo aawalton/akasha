@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0037225WantSomethingThatIWant = {
   story: "story-read/bunny-girl-evolution",
   ownLength: 3727,
   prose: "txt",
+  createdAt: "2026-09-19T05:07:11.198Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead

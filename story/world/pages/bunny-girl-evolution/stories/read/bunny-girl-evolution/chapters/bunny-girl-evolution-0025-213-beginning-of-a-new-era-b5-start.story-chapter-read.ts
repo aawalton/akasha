@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0025213BeginningOfANewEraB5Start = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:34:45.256Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead

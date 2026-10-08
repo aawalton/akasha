@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0048180EliseFindsASpider = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.274Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead

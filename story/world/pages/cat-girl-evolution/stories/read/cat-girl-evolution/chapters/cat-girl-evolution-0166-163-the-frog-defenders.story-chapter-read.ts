@@ -20,4 +20,6 @@ export const catGirlEvolution0166163TheFrogDefenders = {
   story: "story-read/cat-girl-evolution",
   ownLength: 2453,
   prose: "txt",
+  createdAt: "2026-09-16T08:08:14.875Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryChapterRead

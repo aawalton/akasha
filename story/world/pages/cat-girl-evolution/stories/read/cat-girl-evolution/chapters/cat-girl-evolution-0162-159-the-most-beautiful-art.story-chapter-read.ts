@@ -20,4 +20,6 @@ export const catGirlEvolution0162159TheMostBeautifulArt = {
   title: "159 - The Most Beautiful Art",
   ownLength: 2683,
   prose: "txt",
+  createdAt: "2026-09-07T08:06:11.435Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryChapterRead

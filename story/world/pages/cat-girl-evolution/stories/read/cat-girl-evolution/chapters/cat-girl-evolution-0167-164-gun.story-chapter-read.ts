@@ -20,4 +20,6 @@ export const catGirlEvolution0167164Gun = {
   story: "story-read/cat-girl-evolution",
   ownLength: 2276,
   prose: "txt",
+  createdAt: "2026-09-18T08:04:18.910Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryChapterRead

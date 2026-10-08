@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0046179InTheDungeonSDepths = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.273Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead

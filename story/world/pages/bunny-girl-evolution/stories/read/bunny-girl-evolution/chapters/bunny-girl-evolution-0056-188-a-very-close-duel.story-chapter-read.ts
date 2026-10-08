@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0056188AVeryCloseDuel = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:15:04.282Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead

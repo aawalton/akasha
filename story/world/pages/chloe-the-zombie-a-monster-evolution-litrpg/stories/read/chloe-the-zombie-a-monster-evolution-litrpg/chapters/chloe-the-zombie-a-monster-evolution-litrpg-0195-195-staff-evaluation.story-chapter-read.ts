@@ -19,4 +19,6 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0195195StaffEvaluation = {
   title: "195: Staff Evaluation",
   ownLength: 2179,
   prose: "txt",
+  createdAt: "2026-09-07T16:08:03.148Z",
+  updatedAt: "2026-09-19T18:25:57.000Z",
 } as const satisfies StoryChapterRead

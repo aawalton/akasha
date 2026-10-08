@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0029217PainIsGoodForYou = {
     },
   ],
   prose: "txt",
+  createdAt: "2026-09-03T12:34:45.267Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead

@@ -20,4 +20,6 @@ export const catGirlEvolution0163160TheStageIsSet = {
   story: "story-read/cat-girl-evolution",
   ownLength: 2960,
   prose: "txt",
+  createdAt: "2026-09-10T01:04:21.466Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryChapterRead

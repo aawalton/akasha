@@ -20,4 +20,6 @@ export const bunnyGirlEvolution0033221EliseGetsANewRoommate = {
   title: "221 - Elise Gets a New Roommate",
   ownLength: 3256,
   prose: "txt",
+  createdAt: "2026-09-05T16:06:24.746Z",
+  updatedAt: "2026-09-28T20:27:07.000Z",
 } as const satisfies StoryChapterRead
