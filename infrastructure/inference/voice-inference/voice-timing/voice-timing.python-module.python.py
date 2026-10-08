@@ -6,12 +6,25 @@ each token, counted within the audio of the chunk that token falls in, so a
 sentence's moment is the start of the first token at or after the character
 the sentence begins at. Where no token carries a timestamp, the segment's
 speech is shared out among its sentences by characters.
+
+A word wrapped in Kokoro's markup, [word](/phonemes/), reaches the tokens as the
+word alone, so characters are counted over the text with that markup taken out.
 """
+
+import re
 
 import numpy as np
 
 import voice_inference
 from voice_hls import SAMPLE_RATE
+
+
+_MARKUP = re.compile(r"\[([^\]]+)\]\([^)]*\)")
+
+
+def _shown(text: str) -> str:
+    """The text as its tokens spell it, each marked-up word left as the word alone."""
+    return _MARKUP.sub(r"\1", text)
 
 
 def _whole(value: object) -> bool:
@@ -68,9 +81,11 @@ def sentence_seconds(
     """[(seconds, wordStart)] for each sentence, and whether the timestamps gave them."""
     if not sentences:
         return [], True
-    scale = token_chars / len(text) if text and token_chars > 0 else 1.0
+    length = len(_shown(text))
+    scale = token_chars / length if length and token_chars > 0 else 1.0
     out: "list[tuple[float, int]]" = []
-    for char, word in sentences:
+    for marked, word in sentences:
+        char = len(_shown(text[:marked]))
         seconds: "float | None" = None
         wanted = char * scale
         for token_char, token_seconds in starts:
@@ -78,7 +93,7 @@ def sentence_seconds(
                 seconds = token_seconds
                 break
         if seconds is None:
-            seconds = spoken_seconds * (char / len(text)) if text else 0.0
+            seconds = spoken_seconds * (char / length) if length else 0.0
         if out and seconds < out[-1][0]:
             seconds = out[-1][0]
         out.append((min(seconds, spoken_seconds), word))

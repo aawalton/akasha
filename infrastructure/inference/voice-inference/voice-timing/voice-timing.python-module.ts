@@ -20,7 +20,11 @@ export const voiceTiming = {
       decisionKind: "decision-kind/departure",
       statement: "A sentence never begins before the sentence ahead of it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A word in Kokoro's markup is counted as the word alone, as its token spells it.",
+    },
   ],
   createdAt: "2026-10-06T15:15:39.983Z",
-  updatedAt: "2026-10-06T15:15:42.000Z",
+  updatedAt: "2026-10-08T17:45:20.561Z",
 } as const satisfies PythonModule
