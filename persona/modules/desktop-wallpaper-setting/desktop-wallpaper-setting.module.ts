@@ -10,7 +10,8 @@ export const desktopWallpaperSetting = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The persona shown is the persona Alan messaged most recently.",
+      statement:
+        "The persona shown is the persona Alan messaged most recently at a seat drawn under the personas.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -64,4 +65,5 @@ export const desktopWallpaperSetting = {
       statement: "Nothing here asks on a schedule what the wallpaper should be.",
     },
   ],
+  updatedAt: "2026-10-08T14:57:48.470Z",
 } as const satisfies Module

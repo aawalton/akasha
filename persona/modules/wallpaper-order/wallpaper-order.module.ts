@@ -18,7 +18,7 @@ export const wallpaperOrder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The persona messaged most recently comes first.",
+      statement: "The persona whose last-messaged mark is newest comes first.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -37,4 +37,5 @@ export const wallpaperOrder = {
       statement: "A stamp nothing can read sorts behind every stamp something can read.",
     },
   ],
+  updatedAt: "2026-10-08T14:57:48.470Z",
 } as const satisfies Module
