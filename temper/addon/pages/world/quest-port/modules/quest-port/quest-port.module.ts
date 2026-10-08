@@ -69,7 +69,11 @@ export const questPort = {
       decisionKind: "decision-kind/departure",
       statement: "Every press is written down, from the quest it read to the line it said.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every press also writes down which actions the T key reaches at that moment.",
+    },
   ],
   createdAt: "2026-10-08T14:55:08.172Z",
-  updatedAt: "2026-10-08T17:30:45.270Z",
+  updatedAt: "2026-10-08T17:45:56.828Z",
 } as const satisfies Module

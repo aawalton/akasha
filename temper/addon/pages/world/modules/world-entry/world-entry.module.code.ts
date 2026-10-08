@@ -18,6 +18,7 @@ import { onAddOnLoaded as initNavigation } from "akasha/temper/addon/pages/world
 import { initQuestPort } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port/quest-port.module.code.ts"
 import { initQuestPortAssistTrace } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-assist-trace/quest-port-assist-trace.module.code.ts"
 import { initQuestPortJournal } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-journal/quest-port-journal.module.code.ts"
+import { initQuestPortKeyOwners } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-key-owners/quest-port-key-owners.module.code.ts"
 import { initQuests } from "akasha/temper/addon/pages/world/quests/modules/quests-entry/quests-entry.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
 
@@ -30,6 +31,7 @@ function onAddOnLoaded(this: void): undefined {
   initQuestPort()
   initQuestPortJournal()
   initQuestPortAssistTrace()
+  initQuestPortKeyOwners()
   initAntiquities()
   initCollections()
   initMarkers()

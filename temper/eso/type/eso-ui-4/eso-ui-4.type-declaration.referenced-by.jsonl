@@ -11,4 +11,5 @@
 {"propertySlug":"import","fileName":"eso-ui-4.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-render/markers-render.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-4.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-settings-placing/markers-settings-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui-4.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-sharing/markers-sharing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-ui-4.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-key-owners/quest-port-key-owners.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

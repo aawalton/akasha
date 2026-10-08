@@ -11,6 +11,7 @@ import {
   portTargets,
   type StepReading,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-choose/quest-port-choose.module.code.ts"
+import { noteKeyOwners } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-key-owners/quest-port-key-owners.module.code.ts"
 import {
   beginPress,
   noteAnswer,
@@ -224,6 +225,7 @@ function giveUpOn(this: void, taskId: number): undefined {
 
 export function portNearQuestObjective(this: void): undefined {
   beginPress()
+  noteKeyOwners("port-press")
   if (IsUnitInCombat("player")) return say("Porting waits until you are out of combat.")
   const questIndex = focusedQuestIndex()
   if (questIndex === undefined) return say("No quest is focused in the tracker.")

@@ -12,4 +12,5 @@
 {"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-search-box/keybinder-search-box.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-key-owners/quest-port-key-owners.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

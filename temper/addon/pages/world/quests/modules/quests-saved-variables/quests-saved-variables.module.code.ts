@@ -4,6 +4,7 @@ import type {
   JournalCapture,
   PortTraceEntry,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
+import type { KeyOwnersEntry } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-key-owners/quest-port-key-owners.module.code.ts"
 import type { AutoQuestTraceEntry } from "akasha/temper/addon/pages/world/quests/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 import {
   SAVED_VARIABLES_NAME,
@@ -19,6 +20,7 @@ interface SavedVariablesData {
   questJournal?: Record<string, JournalCapture>
   questPortTrace?: PortTraceEntry[]
   assistNextTrace?: AssistNextEntry[]
+  keyOwnersTrace?: KeyOwnersEntry[]
 }
 
 const CHARACTERS_SAVED_VARIABLES_NAME = "TemperCharacters_SavedVariables"
