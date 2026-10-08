@@ -3,6 +3,8 @@ export const LIVE_MODEL = "models/gemini-3.8-live"
 export const LIVE_AT =
   "wss://generativelanguage.googleapis.com/ws/google.ai.generativelanguage.v1beta.GenerativeService.BidiGenerateContentConstrained"
 
+const LIVE_VOICE = "Achernar"
+
 export const ASK_SEAT = "ask_seat"
 
 export const HEARD_RATE = 16_000
@@ -30,7 +32,10 @@ function instructionFor(persona: string): string {
 export function voiceSetupFor(persona: string) {
   return {
     model: LIVE_MODEL,
-    generationConfig: { responseModalities: ["AUDIO"] },
+    generationConfig: {
+      responseModalities: ["AUDIO"],
+      speechConfig: { voiceConfig: { prebuiltVoiceConfig: { voiceName: LIVE_VOICE } } },
+    },
     sessionResumption: {},
     contextWindowCompression: { slidingWindow: {} },
     inputAudioTranscription: {},

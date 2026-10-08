@@ -23,5 +23,9 @@ export const seatVoice = {
       decisionKind: "decision-kind/absence",
       statement: "The voice is one of Gemini's own rather than the persona's.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Gemini Live speaks only in its prebuilt voices and ignores a designed one.",
+    },
   ],
 } as const satisfies Domain
