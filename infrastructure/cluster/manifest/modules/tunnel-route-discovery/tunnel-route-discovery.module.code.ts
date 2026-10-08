@@ -34,11 +34,14 @@ function routeIn(held: Value): TunnelRoute {
   }
 }
 
-function statedIn(given: string | Reading): readonly DiscoveredRoute[] {
+function statedIn(
+  given: string | Reading,
+  pageTypeSlugs: readonly string[] | null
+): readonly DiscoveredRoute[] {
   const reading = readingIn(given)
   const key = exportedAs(TUNNEL_ROUTES)
   const found: DiscoveredRoute[] = []
-  for (const pageTypeSlug of pageTypesIn(reading)) {
+  for (const pageTypeSlug of pageTypeSlugs ?? pageTypesIn(reading)) {
     for (const one of valuesOfType(reading, pageTypeSlug)) {
       const held = one.value[key]
       if (held === undefined) continue
@@ -53,9 +56,10 @@ function statedIn(given: string | Reading): readonly DiscoveredRoute[] {
 }
 
 export function discoverTunnelRoutes(
-  given: string | Reading = akashaRoot()
+  given: string | Reading = akashaRoot(),
+  pageTypeSlugs: readonly string[] | null = null
 ): readonly DiscoveredRoute[] {
-  const sourced = statedIn(given)
+  const sourced = statedIn(given, pageTypeSlugs)
   validateRoutes(sourced)
   return sourced
 }

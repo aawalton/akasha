@@ -22,6 +22,10 @@ export const tunnelRouteDiscovery = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller naming page types is answered from pages of those types alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name and a host name each belong to one route across every page.",
     },
     {
@@ -30,5 +34,5 @@ export const tunnelRouteDiscovery = {
     },
   ],
   createdAt: "2026-09-03T16:17:58.882Z",
-  updatedAt: "2026-09-22T14:22:32.000Z",
+  updatedAt: "2026-10-08T18:45:14.484Z",
 } as const satisfies Module
