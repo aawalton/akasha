@@ -11,6 +11,4 @@ export const sophia = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
-  createdAt: "2026-10-08T15:45:15.312Z",
-  updatedAt: "2026-10-08T15:45:15.312Z",
 } as const satisfies Seat
