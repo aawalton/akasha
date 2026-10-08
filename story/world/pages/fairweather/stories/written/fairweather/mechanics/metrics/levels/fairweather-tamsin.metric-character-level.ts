@@ -8,4 +8,6 @@ export const fairweatherTamsin = {
   value: 8,
   minValue: 1,
   unrevealed: true,
+  createdAt: "2026-10-03T20:12:33.392Z",
+  updatedAt: "2026-10-03T20:12:35.000Z",
 } as const satisfies MetricCharacterLevel

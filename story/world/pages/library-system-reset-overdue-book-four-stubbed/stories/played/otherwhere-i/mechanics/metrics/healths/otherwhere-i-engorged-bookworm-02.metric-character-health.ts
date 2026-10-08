@@ -9,4 +9,6 @@ export const otherwhereIEngorgedBookworm02 = {
   minValue: 0,
   maxValue: 12,
   history: "jsonl",
+  createdAt: "2026-09-27T20:17:23.002Z",
+  updatedAt: "2026-09-30T11:17:00.000Z",
 } as const satisfies MetricCharacterHealth

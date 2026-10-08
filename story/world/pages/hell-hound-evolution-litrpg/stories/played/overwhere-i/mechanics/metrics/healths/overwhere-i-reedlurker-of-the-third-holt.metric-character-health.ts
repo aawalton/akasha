@@ -9,4 +9,6 @@ export const overwhereIReedlurkerOfTheThirdHolt = {
   minValue: 0,
   maxValue: 20,
   displayOrder: 1,
+  createdAt: "2026-09-30T18:42:26.966Z",
+  updatedAt: "2026-09-30T18:56:00.000Z",
 } as const satisfies MetricCharacterHealth

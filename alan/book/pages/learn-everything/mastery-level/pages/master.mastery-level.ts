@@ -8,4 +8,6 @@ export const master = {
   rank: 5,
   behaviour:
     "Sees the frontier: knows the open problems and the limits of current knowledge, and can tell a settled question from a live one.",
+  createdAt: "2026-09-06T19:56:03.385Z",
+  updatedAt: "2026-09-15T17:25:57.000Z",
 } as const satisfies MasteryLevel

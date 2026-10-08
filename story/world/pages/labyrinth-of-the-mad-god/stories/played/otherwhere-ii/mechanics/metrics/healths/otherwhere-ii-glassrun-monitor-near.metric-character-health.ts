@@ -9,4 +9,6 @@ export const otherwhereIiGlassrunMonitorNear = {
   minValue: 0,
   maxValue: 28,
   history: "jsonl",
+  createdAt: "2026-09-28T22:01:55.972Z",
+  updatedAt: "2026-09-30T11:15:47.000Z",
 } as const satisfies MetricCharacterHealth

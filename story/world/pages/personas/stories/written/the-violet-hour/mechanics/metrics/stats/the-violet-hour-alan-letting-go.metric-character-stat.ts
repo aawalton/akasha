@@ -7,4 +7,6 @@ export const theVioletHourAlanLettingGo = {
   character: "character-other/the-violet-hour-alan",
   value: 2,
   minValue: 0,
+  createdAt: "2026-10-03T20:32:56.272Z",
+  updatedAt: "2026-10-03T20:32:58.000Z",
 } as const satisfies MetricCharacterStat

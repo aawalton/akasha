@@ -7,4 +7,6 @@ export const theIdleEpochCallumIntelligence = {
   character: "character-player/the-idle-epoch-callum",
   value: 40,
   minValue: 0,
+  createdAt: "2026-10-03T19:16:27.400Z",
+  updatedAt: "2026-10-03T19:16:30.000Z",
 } as const satisfies MetricCharacterStat

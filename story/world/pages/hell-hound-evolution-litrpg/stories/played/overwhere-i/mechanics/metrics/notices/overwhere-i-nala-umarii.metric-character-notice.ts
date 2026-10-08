@@ -10,4 +10,6 @@ export const overwhereINalaUmarii = {
   maxValue: 5,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-29T12:40:07.535Z",
+  updatedAt: "2026-09-30T11:25:33.000Z",
 } as const satisfies MetricCharacterNotice

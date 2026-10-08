@@ -10,4 +10,6 @@ export const nvidiaDevicePlugin = {
   minMemoryMb: 64,
   killMemoryMb: 64,
   generatedDirectory: true,
+  createdAt: "2026-09-05T21:51:53.621Z",
+  updatedAt: "2026-09-24T23:15:06.000Z",
 } as const satisfies Manifest

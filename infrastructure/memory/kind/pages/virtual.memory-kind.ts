@@ -23,4 +23,6 @@ export const virtual = {
       statement: "The address space limit an rlimit states is read in virtual memory.",
     },
   ],
+  createdAt: "2026-09-11T15:58:51.971Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies MemoryKind

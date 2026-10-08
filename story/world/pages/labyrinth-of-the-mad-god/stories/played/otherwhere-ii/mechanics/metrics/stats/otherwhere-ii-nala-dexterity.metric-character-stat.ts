@@ -8,4 +8,6 @@ export const otherwhereIiNalaDexterity = {
   value: 7,
   minValue: 0,
   history: "jsonl",
+  createdAt: "2026-09-28T19:59:42.201Z",
+  updatedAt: "2026-09-30T11:15:47.000Z",
 } as const satisfies MetricCharacterStat

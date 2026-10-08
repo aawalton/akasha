@@ -8,4 +8,6 @@ export const expert = {
   rank: 4,
   behaviour:
     "Fluent across the whole field — edge cases, failure modes, where the bodies are buried; can teach it. A compact, well-integrated model with few surprises left inside it.",
+  createdAt: "2026-09-06T19:56:03.385Z",
+  updatedAt: "2026-09-15T17:25:57.000Z",
 } as const satisfies MasteryLevel

@@ -7,4 +7,6 @@ export const typeError = {
   definition: "the error type a value of the wrong type is",
   code: "ts",
   luaExport: "TypeError",
+  createdAt: "2026-09-08T16:01:53.802Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

@@ -8,4 +8,6 @@ export const otherwhereIAlanStrength = {
   value: 4,
   minValue: 0,
   history: "jsonl",
+  createdAt: "2026-09-27T15:02:14.700Z",
+  updatedAt: "2026-09-30T11:17:00.000Z",
 } as const satisfies MetricCharacterStat

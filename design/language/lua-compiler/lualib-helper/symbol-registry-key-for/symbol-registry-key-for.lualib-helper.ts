@@ -7,4 +7,6 @@ export const symbolRegistryKeyFor = {
   definition: "a registered symbol's key",
   code: "ts",
   luaExport: "__TS__SymbolRegistryKeyFor",
+  createdAt: "2026-09-08T16:21:36.927Z",
+  updatedAt: "2026-09-22T13:44:00.000Z",
 } as const satisfies LualibHelper

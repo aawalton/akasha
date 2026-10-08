@@ -10,4 +10,6 @@ export const otherwhereVNala = {
   maxValue: 20,
   history: "jsonl",
   displayOrder: 1,
+  createdAt: "2026-09-28T21:50:50.950Z",
+  updatedAt: "2026-09-30T11:12:56.000Z",
 } as const satisfies MetricCharacterHealth

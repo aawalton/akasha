@@ -11,4 +11,6 @@ export const overwhereIvNala = {
   history: "jsonl",
   displayOrder: 2,
   revealedAs: "The warmth behind your ribs: nearly three-quarters full.",
+  createdAt: "2026-09-29T12:28:03.639Z",
+  updatedAt: "2026-10-03T12:45:44.000Z",
 } as const satisfies MetricCharacterMana

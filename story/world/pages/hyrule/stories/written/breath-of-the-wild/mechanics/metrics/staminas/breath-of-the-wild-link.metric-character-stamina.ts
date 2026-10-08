@@ -10,4 +10,6 @@ export const breathOfTheWildLink = {
   minValue: 0,
   maxValue: 1,
   displayOrder: 2,
+  createdAt: "2026-10-03T19:16:26.598Z",
+  updatedAt: "2026-10-03T19:16:29.000Z",
 } as const satisfies MetricCharacterStamina

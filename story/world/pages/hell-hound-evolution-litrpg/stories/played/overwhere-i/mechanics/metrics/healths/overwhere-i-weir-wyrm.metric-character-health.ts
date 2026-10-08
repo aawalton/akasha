@@ -9,4 +9,6 @@ export const overwhereIWeirWyrm = {
   minValue: 0,
   maxValue: 80,
   displayOrder: 1,
+  createdAt: "2026-10-03T11:21:06.651Z",
+  updatedAt: "2026-10-03T12:05:35.000Z",
 } as const satisfies MetricCharacterHealth

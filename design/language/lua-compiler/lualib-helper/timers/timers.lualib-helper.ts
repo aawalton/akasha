@@ -7,4 +7,6 @@ export const timers = {
   definition: "the handles, cancellations and names the timers share",
   code: "ts",
   luaExport: "__TS__Timers",
+  createdAt: "2026-09-08T16:18:12.843Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

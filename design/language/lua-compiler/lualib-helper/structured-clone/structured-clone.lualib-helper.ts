@@ -7,4 +7,6 @@ export const structuredClone = {
   definition: "a deep copy of a value, where a reference held twice is copied once",
   code: "ts",
   luaExport: "__TS__StructuredClone",
+  createdAt: "2026-09-10T16:57:58.972Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

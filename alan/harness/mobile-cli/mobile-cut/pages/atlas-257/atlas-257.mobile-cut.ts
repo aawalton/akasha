@@ -11,4 +11,6 @@ export const atlas257 = {
   shellSha: "72789321b7af67fa9b229f42cf2a992844260d7a",
   buildInputTreeHash: "b4417ae878cb3bd20a52b86b4d08486be3fe4e04efb76ea3668ec0a637b50a6c",
   cutAt: "2026-10-03T23:53:06.366Z",
+  createdAt: "2026-10-03T23:53:06.373Z",
+  updatedAt: "2026-10-03T23:53:07.000Z",
 } as const satisfies MobileCut

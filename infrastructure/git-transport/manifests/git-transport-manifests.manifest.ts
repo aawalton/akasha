@@ -11,4 +11,6 @@ export const gitTransportManifests = {
   minMemoryMb: 8192,
   killMemoryMb: 8192,
   generatedDirectory: true,
+  createdAt: "2026-09-05T21:41:35.866Z",
+  updatedAt: "2026-09-24T23:21:37.000Z",
 } as const satisfies Manifest

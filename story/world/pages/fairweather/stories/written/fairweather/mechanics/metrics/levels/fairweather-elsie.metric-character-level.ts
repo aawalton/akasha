@@ -9,4 +9,6 @@ export const fairweatherElsie = {
   minValue: 1,
   history: "jsonl",
   unrevealed: false,
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-06T20:05:18.000Z",
 } as const satisfies MetricCharacterLevel

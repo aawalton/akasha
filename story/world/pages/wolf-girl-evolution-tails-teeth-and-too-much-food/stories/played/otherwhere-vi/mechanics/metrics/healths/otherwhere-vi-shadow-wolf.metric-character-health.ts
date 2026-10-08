@@ -10,4 +10,6 @@ export const otherwhereViShadowWolf = {
   minValue: 0,
   maxValue: 32,
   history: "jsonl",
+  createdAt: "2026-09-28T23:17:17.136Z",
+  updatedAt: "2026-09-30T11:06:17.000Z",
 } as const satisfies MetricCharacterHealth

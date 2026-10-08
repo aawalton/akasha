@@ -10,4 +10,6 @@ export const talosSubnetRouter = {
   minMemoryMb: 1024,
   killMemoryMb: 1024,
   generatedDirectory: true,
+  createdAt: "2026-09-05T21:54:17.876Z",
+  updatedAt: "2026-09-24T23:10:13.000Z",
 } as const satisfies Manifest

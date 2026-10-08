@@ -9,4 +9,6 @@ export const overwhereIMireSnapperOne = {
   minValue: 0,
   maxValue: 40,
   displayOrder: 1,
+  createdAt: "2026-10-01T14:24:40.103Z",
+  updatedAt: "2026-10-02T14:19:24.000Z",
 } as const satisfies MetricCharacterHealth

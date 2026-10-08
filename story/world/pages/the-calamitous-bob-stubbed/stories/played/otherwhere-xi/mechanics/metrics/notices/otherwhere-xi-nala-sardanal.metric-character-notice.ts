@@ -10,4 +10,6 @@ export const otherwhereXiNalaSardanal = {
   maxValue: 100,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-29T03:32:17.121Z",
+  updatedAt: "2026-09-30T11:10:07.000Z",
 } as const satisfies MetricCharacterNotice

@@ -9,4 +9,6 @@ export const otherwhereViNalaLevel = {
   minValue: 1,
   maxValue: 10,
   history: "jsonl",
+  createdAt: "2026-09-28T23:06:20.597Z",
+  updatedAt: "2026-09-30T11:06:17.000Z",
 } as const satisfies MetricCharacterStat

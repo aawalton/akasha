@@ -13,4 +13,6 @@ export const fairweatherTilly = {
   history: "jsonl",
   displayOrder: 1,
   unrevealed: true,
+  createdAt: "2026-10-03T20:12:33.392Z",
+  updatedAt: "2026-10-07T02:24:42.000Z",
 } as const satisfies MetricCharacterCurrency

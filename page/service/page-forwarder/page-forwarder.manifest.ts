@@ -11,4 +11,6 @@ export const pageForwarder = {
   minMemoryMb: 32,
   killMemoryMb: 64,
   generatedDirectory: true,
+  createdAt: "2026-09-05T21:47:46.216Z",
+  updatedAt: "2026-09-24T23:21:37.000Z",
 } as const satisfies Manifest

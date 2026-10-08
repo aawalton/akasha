@@ -11,4 +11,6 @@ export const otherwhereXiNala = {
   history: "jsonl",
   displayOrder: 1,
   unrevealed: true,
+  createdAt: "2026-09-29T00:10:39.835Z",
+  updatedAt: "2026-09-30T11:10:07.000Z",
 } as const satisfies MetricCharacterHealth

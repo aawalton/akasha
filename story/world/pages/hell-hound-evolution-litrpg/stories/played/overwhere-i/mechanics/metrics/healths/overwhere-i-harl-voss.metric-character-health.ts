@@ -9,4 +9,6 @@ export const overwhereIHarlVoss = {
   minValue: 0,
   maxValue: 90,
   displayOrder: 1,
+  createdAt: "2026-10-02T15:29:55.814Z",
+  updatedAt: "2026-10-02T20:24:53.000Z",
 } as const satisfies MetricCharacterHealth

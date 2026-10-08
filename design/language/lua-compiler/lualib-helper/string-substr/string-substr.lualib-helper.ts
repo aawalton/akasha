@@ -7,4 +7,6 @@ export const stringSubstr = {
   definition: "the text of a length taken from an index of other text",
   code: "ts",
   luaExport: "__TS__StringSubstr",
+  createdAt: "2026-09-08T17:00:48.557Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

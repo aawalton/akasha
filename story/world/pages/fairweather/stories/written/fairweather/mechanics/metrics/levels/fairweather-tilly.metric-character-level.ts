@@ -9,4 +9,6 @@ export const fairweatherTilly = {
   minValue: 1,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-10-03T20:12:33.392Z",
+  updatedAt: "2026-10-06T12:21:38.000Z",
 } as const satisfies MetricCharacterLevel

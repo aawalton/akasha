@@ -10,4 +10,6 @@ export const dcgmExporterDaemonset = {
   minMemoryMb: 576,
   killMemoryMb: 576,
   generatedDirectory: true,
+  createdAt: "2026-09-05T21:52:20.076Z",
+  updatedAt: "2026-09-24T23:20:38.000Z",
 } as const satisfies Manifest

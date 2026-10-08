@@ -8,4 +8,6 @@ export const scholar = {
   rank: 3,
   behaviour:
     "Derives consequences and handles novel in-field cases from the core — reconstructs rather than recalls, explains why not just what. The model has become generative.",
+  createdAt: "2026-09-06T19:56:03.385Z",
+  updatedAt: "2026-09-15T17:25:57.000Z",
 } as const satisfies MasteryLevel

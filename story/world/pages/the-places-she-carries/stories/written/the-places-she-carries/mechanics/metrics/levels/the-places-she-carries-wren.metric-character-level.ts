@@ -8,4 +8,6 @@ export const thePlacesSheCarriesWren = {
   value: 6,
   minValue: 1,
   unrevealed: false,
+  createdAt: "2026-10-03T19:22:22.859Z",
+  updatedAt: "2026-10-03T19:39:31.000Z",
 } as const satisfies MetricCharacterLevel

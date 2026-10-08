@@ -9,4 +9,6 @@ export const otherwhereIxYoungShardback = {
   minValue: 0,
   maxValue: 90,
   history: "jsonl",
+  createdAt: "2026-09-28T23:06:58.208Z",
+  updatedAt: "2026-09-30T10:55:36.000Z",
 } as const satisfies MetricCharacterHealth

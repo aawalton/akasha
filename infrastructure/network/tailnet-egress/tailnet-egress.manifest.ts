@@ -31,4 +31,6 @@ export const tailnetEgress = {
         "The running pod goes before its replacement starts, so one proxy holds that disk at a time.",
     },
   ],
+  createdAt: "2026-09-05T21:52:14.768Z",
+  updatedAt: "2026-09-24T23:10:13.000Z",
 } as const satisfies Manifest

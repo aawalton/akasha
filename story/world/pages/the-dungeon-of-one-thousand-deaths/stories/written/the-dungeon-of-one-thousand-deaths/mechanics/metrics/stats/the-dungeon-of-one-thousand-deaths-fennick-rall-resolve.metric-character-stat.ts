@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsFennickRallResolve = {
   character: "character-other/the-dungeon-of-one-thousand-deaths-fennick-rall",
   value: 31,
   minValue: 0,
+  createdAt: "2026-10-03T19:32:53.849Z",
+  updatedAt: "2026-10-03T19:32:56.000Z",
 } as const satisfies MetricCharacterStat

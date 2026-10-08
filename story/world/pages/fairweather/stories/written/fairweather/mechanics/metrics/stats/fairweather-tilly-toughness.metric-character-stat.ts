@@ -9,4 +9,6 @@ export const fairweatherTillyToughness = {
   value: 3,
   minValue: 0,
   displayOrder: 2,
+  createdAt: "2026-10-04T12:38:17.253Z",
+  updatedAt: "2026-10-04T12:49:14.000Z",
 } as const satisfies MetricCharacterStat

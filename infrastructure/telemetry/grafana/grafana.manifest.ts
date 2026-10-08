@@ -27,4 +27,6 @@ export const grafana = {
         "The pod template carries the hash of the grafana-datasources and grafana-dashboards configmaps.",
     },
   ],
+  createdAt: "2026-09-05T22:08:21.075Z",
+  updatedAt: "2026-09-24T23:20:38.000Z",
 } as const satisfies Manifest

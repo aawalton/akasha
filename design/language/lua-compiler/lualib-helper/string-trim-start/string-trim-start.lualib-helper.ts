@@ -7,4 +7,6 @@ export const stringTrimStart = {
   definition: "the text left once the whitespace at its front is taken away",
   code: "ts",
   luaExport: "__TS__StringTrimStart",
+  createdAt: "2026-09-08T16:50:31.878Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

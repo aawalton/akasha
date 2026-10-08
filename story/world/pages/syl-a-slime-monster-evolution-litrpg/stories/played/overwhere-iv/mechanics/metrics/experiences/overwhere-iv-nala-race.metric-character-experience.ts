@@ -11,4 +11,6 @@ export const overwhereIvNalaRace = {
   history: "jsonl",
   displayOrder: 3,
   unrevealed: true,
+  createdAt: "2026-09-29T12:28:03.638Z",
+  updatedAt: "2026-10-03T11:54:19.000Z",
 } as const satisfies MetricCharacterExperience

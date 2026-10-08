@@ -11,4 +11,6 @@ export const overwhereINala = {
   history: "jsonl",
   displayOrder: 10,
   unrevealed: true,
+  createdAt: "2026-09-29T12:38:13.264Z",
+  updatedAt: "2026-10-03T12:17:30.000Z",
 } as const satisfies MetricCharacterExperience

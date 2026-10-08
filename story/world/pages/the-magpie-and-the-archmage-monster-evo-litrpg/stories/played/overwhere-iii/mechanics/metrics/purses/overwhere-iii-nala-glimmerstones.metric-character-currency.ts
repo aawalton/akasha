@@ -10,4 +10,6 @@ export const overwhereIiiNalaGlimmerstones = {
   minValue: 0,
   history: "jsonl",
   displayOrder: 4,
+  createdAt: "2026-09-30T10:48:39.098Z",
+  updatedAt: "2026-10-02T22:01:07.000Z",
 } as const satisfies MetricCharacterCurrency

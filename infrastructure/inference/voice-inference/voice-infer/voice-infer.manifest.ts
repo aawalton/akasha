@@ -17,4 +17,6 @@ export const voiceInfer = {
       statement: "The workload writes no audio anywhere, and reaches no object store.",
     },
   ],
+  createdAt: "2026-09-05T21:18:28.773Z",
+  updatedAt: "2026-09-24T23:15:06.000Z",
 } as const satisfies Manifest

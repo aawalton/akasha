@@ -26,4 +26,6 @@ export const clusterReachSynth = {
       statement: "An account this names that the cluster does not hold answers every read 401.",
     },
   ],
+  createdAt: "2026-09-11T19:06:31.177Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Manifest

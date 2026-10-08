@@ -9,4 +9,6 @@ export const fairweatherTillyGrace = {
   value: 7,
   minValue: 0,
   displayOrder: 3,
+  createdAt: "2026-10-04T12:38:17.253Z",
+  updatedAt: "2026-10-06T12:21:38.000Z",
 } as const satisfies MetricCharacterStat

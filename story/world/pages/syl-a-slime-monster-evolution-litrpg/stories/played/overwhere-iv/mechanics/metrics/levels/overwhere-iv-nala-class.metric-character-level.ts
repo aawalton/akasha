@@ -8,4 +8,6 @@ export const overwhereIvNalaClass = {
   value: 4,
   minValue: 1,
   history: "jsonl",
+  createdAt: "2026-09-30T19:36:32.291Z",
+  updatedAt: "2026-10-02T22:39:42.000Z",
 } as const satisfies MetricCharacterLevel

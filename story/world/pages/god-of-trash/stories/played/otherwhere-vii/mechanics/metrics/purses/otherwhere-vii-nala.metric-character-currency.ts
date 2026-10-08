@@ -11,4 +11,6 @@ export const otherwhereViiNala = {
   history: "jsonl",
   displayOrder: 3,
   unrevealed: true,
+  createdAt: "2026-09-28T22:51:14.531Z",
+  updatedAt: "2026-09-30T10:41:41.000Z",
 } as const satisfies MetricCharacterCurrency

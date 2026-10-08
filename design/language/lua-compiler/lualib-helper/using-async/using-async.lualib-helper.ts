@@ -7,4 +7,6 @@ export const usingAsync = {
   definition: "a call whose disposable arguments are disposed of, awaiting the asynchronous ones",
   code: "ts",
   luaExport: "__TS__UsingAsync",
+  createdAt: "2026-09-10T16:57:47.146Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

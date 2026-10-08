@@ -6,4 +6,6 @@ export const certManagerSynth = {
   slug: "cert-manager-synth",
   definition: "the issuer that answers a certificate request through a DNS record",
   code: "ts",
+  createdAt: "2026-09-03T16:17:58.882Z",
+  updatedAt: "2026-09-15T17:25:34.000Z",
 } as const satisfies Manifest

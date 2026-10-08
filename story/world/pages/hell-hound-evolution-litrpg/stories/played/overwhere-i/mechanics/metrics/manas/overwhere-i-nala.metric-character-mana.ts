@@ -10,4 +10,6 @@ export const overwhereINala = {
   maxValue: 360,
   history: "jsonl",
   displayOrder: 2,
+  createdAt: "2026-09-29T12:38:35.134Z",
+  updatedAt: "2026-10-03T13:25:17.000Z",
 } as const satisfies MetricCharacterMana

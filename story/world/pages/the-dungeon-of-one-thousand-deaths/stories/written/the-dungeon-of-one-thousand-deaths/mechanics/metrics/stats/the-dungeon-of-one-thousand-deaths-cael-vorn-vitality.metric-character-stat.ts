@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsCaelVornVitality = {
   character: "character-other/the-dungeon-of-one-thousand-deaths-cael-vorn",
   value: 0,
   minValue: 0,
+  createdAt: "2026-10-03T19:51:39.073Z",
+  updatedAt: "2026-10-03T19:51:42.000Z",
 } as const satisfies MetricCharacterStat

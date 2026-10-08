@@ -9,4 +9,6 @@ export const fairweatherCoraStrength = {
   value: 3,
   minValue: 0,
   displayOrder: 1,
+  createdAt: "2026-10-04T12:38:17.252Z",
+  updatedAt: "2026-10-04T12:49:14.000Z",
 } as const satisfies MetricCharacterStat

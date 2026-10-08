@@ -10,4 +10,6 @@ export const otherwhereViiiNalaBasicSet = {
   maxValue: 100,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-28T23:06:55.654Z",
+  updatedAt: "2026-09-30T11:10:59.000Z",
 } as const satisfies MetricCharacterFluency

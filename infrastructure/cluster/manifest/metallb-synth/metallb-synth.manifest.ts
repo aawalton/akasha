@@ -6,4 +6,6 @@ export const metallbSynth = {
   slug: "metallb-synth",
   definition: "the address pool holding the addresses a load balancer hands a service",
   code: "ts",
+  createdAt: "2026-09-03T16:17:58.882Z",
+  updatedAt: "2026-09-22T13:46:54.000Z",
 } as const satisfies Manifest

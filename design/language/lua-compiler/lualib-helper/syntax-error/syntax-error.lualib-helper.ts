@@ -7,4 +7,6 @@ export const syntaxError = {
   definition: "the error type source the parser refuses is",
   code: "ts",
   luaExport: "SyntaxError",
+  createdAt: "2026-09-08T16:01:42.979Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

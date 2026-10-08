@@ -16,4 +16,6 @@ export const nodeExporterDaemonset = {
   minMemoryMb: 64,
   killMemoryMb: 64,
   generatedDirectory: true,
+  createdAt: "2026-09-05T21:54:24.901Z",
+  updatedAt: "2026-09-24T23:20:38.000Z",
 } as const satisfies Manifest

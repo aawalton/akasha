@@ -11,4 +11,6 @@ export const promtail = {
   minMemoryMb: 512,
   killMemoryMb: 512,
   generatedDirectory: true,
+  createdAt: "2026-09-05T21:31:02.798Z",
+  updatedAt: "2026-09-24T23:19:34.000Z",
 } as const satisfies Manifest

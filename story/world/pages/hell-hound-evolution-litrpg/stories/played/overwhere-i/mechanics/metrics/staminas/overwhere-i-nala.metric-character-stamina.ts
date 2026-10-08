@@ -10,4 +10,6 @@ export const overwhereINala = {
   maxValue: 84,
   history: "jsonl",
   displayOrder: 3,
+  createdAt: "2026-09-29T12:38:45.883Z",
+  updatedAt: "2026-10-03T11:11:31.000Z",
 } as const satisfies MetricCharacterStamina

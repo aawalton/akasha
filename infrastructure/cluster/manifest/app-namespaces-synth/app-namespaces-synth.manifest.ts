@@ -28,4 +28,6 @@ export const appNamespacesSynth = {
       statement: "A namespace named nowhere here is on the cluster until a hand deletes it.",
     },
   ],
+  createdAt: "2026-09-03T16:17:58.882Z",
+  updatedAt: "2026-09-24T22:49:47.000Z",
 } as const satisfies Manifest

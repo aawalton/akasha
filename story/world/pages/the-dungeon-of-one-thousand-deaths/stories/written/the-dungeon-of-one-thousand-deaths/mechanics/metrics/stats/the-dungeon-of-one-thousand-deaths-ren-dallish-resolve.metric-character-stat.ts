@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsRenDallishResolve = {
   character: "character-other/the-dungeon-of-one-thousand-deaths-ren-dallish",
   value: 17,
   minValue: 0,
+  createdAt: "2026-10-03T19:38:12.727Z",
+  updatedAt: "2026-10-03T19:38:16.000Z",
 } as const satisfies MetricCharacterStat

@@ -7,4 +7,6 @@ export const stringTrimEnd = {
   definition: "the text left once the whitespace at its end is taken away",
   code: "ts",
   luaExport: "__TS__StringTrimEnd",
+  createdAt: "2026-09-08T16:50:31.878Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

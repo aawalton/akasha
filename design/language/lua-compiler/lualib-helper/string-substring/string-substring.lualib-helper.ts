@@ -7,4 +7,6 @@ export const stringSubstring = {
   definition: "the text between two indexes of other text, the lower index first",
   code: "ts",
   luaExport: "__TS__StringSubstring",
+  createdAt: "2026-09-08T17:00:48.557Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

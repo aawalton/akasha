@@ -11,4 +11,6 @@ export const overwhereIiiNala = {
   history: "jsonl",
   displayOrder: 2,
   revealedAs: "Nearly dry; a ward and three braids",
+  createdAt: "2026-09-29T12:33:44.444Z",
+  updatedAt: "2026-10-03T13:14:36.000Z",
 } as const satisfies MetricCharacterMana

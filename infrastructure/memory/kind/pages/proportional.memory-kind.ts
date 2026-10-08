@@ -20,4 +20,6 @@ export const proportional = {
       statement: "A process's proportional memory rises when a process sharing with it ends.",
     },
   ],
+  createdAt: "2026-09-11T15:59:05.142Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies MemoryKind

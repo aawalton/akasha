@@ -11,4 +11,6 @@ export const otherwhereIxNala = {
   history: "jsonl",
   displayOrder: 4,
   unrevealed: true,
+  createdAt: "2026-09-28T22:53:58.397Z",
+  updatedAt: "2026-09-30T10:42:39.000Z",
 } as const satisfies MetricCharacterCurrency

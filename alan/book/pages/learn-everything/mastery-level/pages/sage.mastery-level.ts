@@ -7,4 +7,6 @@ export const sage = {
   definition: "the frontier redrawn",
   rank: 7,
   behaviour: "Defines the frontier — reframes the field and sets the questions others work on.",
+  createdAt: "2026-09-06T19:56:03.385Z",
+  updatedAt: "2026-09-15T17:25:57.000Z",
 } as const satisfies MasteryLevel

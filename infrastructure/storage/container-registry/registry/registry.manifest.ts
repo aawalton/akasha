@@ -10,4 +10,6 @@ export const registry = {
   minMemoryMb: 512,
   killMemoryMb: 512,
   generatedDirectory: true,
+  createdAt: "2026-09-05T21:46:11.741Z",
+  updatedAt: "2026-09-24T23:15:06.000Z",
 } as const satisfies Manifest

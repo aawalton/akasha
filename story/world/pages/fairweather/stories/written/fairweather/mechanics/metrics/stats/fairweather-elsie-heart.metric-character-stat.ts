@@ -11,4 +11,6 @@ export const fairweatherElsieHeart = {
   displayOrder: 5,
   history: "jsonl",
   unrevealed: false,
+  createdAt: "2026-10-04T12:38:17.252Z",
+  updatedAt: "2026-10-07T02:24:42.000Z",
 } as const satisfies MetricCharacterStat

@@ -11,4 +11,6 @@ export const alanwalton290 = {
   shellSha: "9d2e02fe86b8d173521129858b41d2212c4d8a7a",
   buildInputTreeHash: "4893035a6a3948fd07129810b061ea415a0ff7fdf4bc4b1e1f8cd5a5de20a52f",
   cutAt: "2026-09-17T12:47:05.904Z",
+  createdAt: "2026-09-17T12:47:05.905Z",
+  updatedAt: "2026-09-17T12:47:13.000Z",
 } as const satisfies MobileCut

@@ -23,4 +23,6 @@ export const resident = {
       statement: "What one process is holding is asked in resident memory.",
     },
   ],
+  createdAt: "2026-09-11T15:58:44.310Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies MemoryKind

@@ -10,4 +10,6 @@ export const otherwhereIiNala = {
   maxValue: 6,
   history: "jsonl",
   displayOrder: 2,
+  createdAt: "2026-09-28T19:58:45.247Z",
+  updatedAt: "2026-09-30T11:15:47.000Z",
 } as const satisfies MetricCharacterMana

@@ -9,4 +9,6 @@ export const overwhereIVossDrakewolf = {
   minValue: 0,
   maxValue: 35,
   displayOrder: 1,
+  createdAt: "2026-10-02T15:29:55.816Z",
+  updatedAt: "2026-10-02T20:57:41.000Z",
 } as const satisfies MetricCharacterHealth

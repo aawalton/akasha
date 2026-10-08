@@ -8,4 +8,6 @@ export const wellKnownSymbols = {
   code: "ts",
   luaExport: "Symbol",
   luaFeature: "WellKnownSymbols",
+  createdAt: "2026-09-08T16:30:19.885Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

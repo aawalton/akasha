@@ -8,4 +8,6 @@ export const otherwhereIxNala = {
   value: 4,
   minValue: 1,
   history: "jsonl",
+  createdAt: "2026-09-28T22:53:58.395Z",
+  updatedAt: "2026-09-30T10:55:36.000Z",
 } as const satisfies MetricCharacterLevel

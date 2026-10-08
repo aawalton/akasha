@@ -79,4 +79,6 @@ export const gitTransportJanitor = {
         "The sweep carries none of the labels the server is selected by, so no traffic reaches it.",
     },
   ],
+  createdAt: "2026-09-07T15:24:15.996Z",
+  updatedAt: "2026-09-24T23:15:06.000Z",
 } as const satisfies Manifest

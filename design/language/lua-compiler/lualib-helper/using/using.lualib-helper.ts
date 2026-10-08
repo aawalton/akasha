@@ -7,4 +7,6 @@ export const using = {
   definition: "a call disposing of its disposable arguments once that call is over",
   code: "ts",
   luaExport: "__TS__Using",
+  createdAt: "2026-09-10T16:55:32.208Z",
+  updatedAt: "2026-09-22T13:59:52.000Z",
 } as const satisfies LualibHelper

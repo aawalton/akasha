@@ -31,4 +31,6 @@ export const swap = {
       statement: "A host with no swap at all is a host whose swap is drained.",
     },
   ],
+  createdAt: "2026-09-11T15:59:26.887Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies MemoryKind

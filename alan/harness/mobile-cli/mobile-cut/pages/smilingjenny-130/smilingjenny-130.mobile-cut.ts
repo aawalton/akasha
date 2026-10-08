@@ -11,4 +11,6 @@ export const smilingjenny130 = {
   shellSha: "762c10e7fc04233f0c5469c3207c89d6f3b3449c",
   buildInputTreeHash: "ebe5268027b5918b6bd3bdcdfa8355c065aec190c1600610a3cc3114d9697151",
   cutAt: "2026-09-19T13:08:08.207Z",
+  createdAt: "2026-09-19T13:08:08.210Z",
+  updatedAt: "2026-09-19T13:08:18.000Z",
 } as const satisfies MobileCut

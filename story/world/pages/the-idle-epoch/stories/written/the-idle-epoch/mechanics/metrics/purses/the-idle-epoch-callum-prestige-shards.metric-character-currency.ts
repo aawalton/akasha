@@ -10,4 +10,6 @@ export const theIdleEpochCallumPrestigeShards = {
   minValue: 0,
   displayOrder: 2,
   unrevealed: false,
+  createdAt: "2026-10-03T19:16:27.400Z",
+  updatedAt: "2026-10-03T19:16:30.000Z",
 } as const satisfies MetricCharacterCurrency

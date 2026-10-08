@@ -20,4 +20,6 @@ export const deployAccount = {
       statement: "This account is allowed every action on every object the cluster holds.",
     },
   ],
+  createdAt: "2026-09-14T19:26:34.772Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies Manifest

@@ -9,4 +9,6 @@ export const overwhereICampKeeperTwo = {
   minValue: 0,
   maxValue: 36,
   displayOrder: 1,
+  createdAt: "2026-10-02T19:49:48.717Z",
+  updatedAt: "2026-10-02T19:53:49.000Z",
 } as const satisfies MetricCharacterHealth

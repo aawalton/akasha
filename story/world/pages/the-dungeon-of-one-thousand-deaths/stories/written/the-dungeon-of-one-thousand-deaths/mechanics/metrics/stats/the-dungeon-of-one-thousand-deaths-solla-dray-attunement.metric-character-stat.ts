@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsSollaDrayAttunement = {
   character: "character-other/the-dungeon-of-one-thousand-deaths-solla-dray",
   value: 8,
   minValue: 0,
+  createdAt: "2026-10-03T19:50:00.113Z",
+  updatedAt: "2026-10-03T19:50:03.000Z",
 } as const satisfies MetricCharacterStat

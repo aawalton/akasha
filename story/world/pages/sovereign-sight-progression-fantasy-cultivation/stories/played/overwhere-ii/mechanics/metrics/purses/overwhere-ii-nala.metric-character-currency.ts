@@ -10,4 +10,6 @@ export const overwhereIiNala = {
   minValue: 0,
   history: "jsonl",
   displayOrder: 3,
+  createdAt: "2026-09-29T12:38:44.123Z",
+  updatedAt: "2026-10-02T21:55:43.000Z",
 } as const satisfies MetricCharacterCurrency

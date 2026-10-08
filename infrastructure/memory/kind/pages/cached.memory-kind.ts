@@ -23,4 +23,6 @@ export const cached = {
       statement: "Memory a process holds is never given up this way.",
     },
   ],
+  createdAt: "2026-09-11T15:59:19.408Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies MemoryKind

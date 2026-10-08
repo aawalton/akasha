@@ -8,4 +8,6 @@ export const theIdleEpochCallumRecursion = {
   value: 16,
   minValue: 0,
   unrevealed: false,
+  createdAt: "2026-10-03T19:16:27.401Z",
+  updatedAt: "2026-10-03T19:16:30.000Z",
 } as const satisfies MetricCharacterStat

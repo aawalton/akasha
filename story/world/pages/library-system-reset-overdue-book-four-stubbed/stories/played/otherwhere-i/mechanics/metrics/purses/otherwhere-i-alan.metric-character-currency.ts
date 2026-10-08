@@ -10,4 +10,6 @@ export const otherwhereIAlan = {
   minValue: 0,
   history: "jsonl",
   displayOrder: 3,
+  createdAt: "2026-09-27T15:02:14.700Z",
+  updatedAt: "2026-09-30T10:43:58.000Z",
 } as const satisfies MetricCharacterCurrency

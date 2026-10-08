@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsAldousVrenAttunement = {
   character: "character-other/the-dungeon-of-one-thousand-deaths-aldous-vren",
   value: 18,
   minValue: 0,
+  createdAt: "2026-10-03T19:34:05.866Z",
+  updatedAt: "2026-10-03T19:34:09.000Z",
 } as const satisfies MetricCharacterStat

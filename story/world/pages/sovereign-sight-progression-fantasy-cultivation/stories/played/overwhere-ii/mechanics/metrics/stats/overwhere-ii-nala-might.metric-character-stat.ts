@@ -9,4 +9,6 @@ export const overwhereIiNalaMight = {
   minValue: 0,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-29T12:37:00.984Z",
+  updatedAt: "2026-10-02T21:16:50.000Z",
 } as const satisfies MetricCharacterStat

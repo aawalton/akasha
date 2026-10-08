@@ -8,4 +8,6 @@ export const unpack = {
   code: "ts",
   lua50Code: "ts",
   luaExport: "__TS__Unpack",
+  createdAt: "2026-09-10T17:27:51.516Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

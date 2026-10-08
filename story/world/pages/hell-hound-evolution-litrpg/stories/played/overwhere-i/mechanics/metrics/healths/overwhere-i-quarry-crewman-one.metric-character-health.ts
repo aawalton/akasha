@@ -9,4 +9,6 @@ export const overwhereIQuarryCrewmanOne = {
   minValue: 0,
   maxValue: 30,
   displayOrder: 1,
+  createdAt: "2026-10-02T15:29:55.815Z",
+  updatedAt: "2026-10-02T17:34:59.000Z",
 } as const satisfies MetricCharacterHealth

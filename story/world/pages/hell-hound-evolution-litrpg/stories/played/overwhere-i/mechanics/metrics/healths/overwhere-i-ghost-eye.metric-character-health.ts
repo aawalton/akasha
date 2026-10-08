@@ -9,4 +9,6 @@ export const overwhereIGhostEye = {
   minValue: 0,
   maxValue: 70,
   displayOrder: 1,
+  createdAt: "2026-09-30T21:02:15.559Z",
+  updatedAt: "2026-09-30T21:43:09.000Z",
 } as const satisfies MetricCharacterHealth

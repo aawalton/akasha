@@ -10,4 +10,6 @@ export const otherwhereIAlan = {
   maxValue: 18,
   history: "jsonl",
   displayOrder: 2,
+  createdAt: "2026-09-27T15:01:52.111Z",
+  updatedAt: "2026-09-30T11:17:00.000Z",
 } as const satisfies MetricCharacterMana

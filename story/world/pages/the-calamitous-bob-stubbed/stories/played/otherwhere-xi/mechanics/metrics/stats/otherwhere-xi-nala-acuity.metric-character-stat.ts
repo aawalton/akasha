@@ -9,4 +9,6 @@ export const otherwhereXiNalaAcuity = {
   minValue: 0,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-29T00:10:39.833Z",
+  updatedAt: "2026-09-30T11:10:07.000Z",
 } as const satisfies MetricCharacterStat

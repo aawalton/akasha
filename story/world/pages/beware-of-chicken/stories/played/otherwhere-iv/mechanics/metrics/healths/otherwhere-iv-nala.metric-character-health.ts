@@ -11,4 +11,6 @@ export const otherwhereIvNala = {
   history: "jsonl",
   displayOrder: 1,
   unrevealed: true,
+  createdAt: "2026-09-28T21:42:30.316Z",
+  updatedAt: "2026-09-30T11:12:21.000Z",
 } as const satisfies MetricCharacterHealth

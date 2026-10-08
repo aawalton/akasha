@@ -8,4 +8,6 @@ export const novice = {
   rank: 0,
   behaviour:
     "No foothold. The vocabulary cues nothing; he can't engage the field at all. Pre-recognition.",
+  createdAt: "2026-09-06T19:56:03.385Z",
+  updatedAt: "2026-09-15T17:25:57.000Z",
 } as const satisfies MasteryLevel

@@ -7,4 +7,6 @@ export const theIdleEpochCallumPrestige = {
   character: "character-player/the-idle-epoch-callum",
   value: 1,
   minValue: 0,
+  createdAt: "2026-10-03T19:16:27.401Z",
+  updatedAt: "2026-10-03T19:16:30.000Z",
 } as const satisfies MetricCharacterStat

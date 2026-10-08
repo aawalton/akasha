@@ -10,4 +10,6 @@ export const otherwhereVNala = {
   minValue: 0,
   history: "jsonl",
   displayOrder: 2,
+  createdAt: "2026-09-28T21:50:50.951Z",
+  updatedAt: "2026-09-30T10:41:41.000Z",
 } as const satisfies MetricCharacterCurrency

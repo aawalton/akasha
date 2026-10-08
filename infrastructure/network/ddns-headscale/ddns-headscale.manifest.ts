@@ -10,4 +10,6 @@ export const ddnsHeadscale = {
   minMemoryMb: 64,
   killMemoryMb: 64,
   generatedDirectory: true,
+  createdAt: "2026-09-05T21:47:18.498Z",
+  updatedAt: "2026-09-24T23:10:13.000Z",
 } as const satisfies Manifest

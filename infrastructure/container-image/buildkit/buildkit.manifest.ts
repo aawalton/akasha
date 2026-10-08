@@ -16,4 +16,6 @@ export const buildkit = {
       statement: "The pod template carries the hash of the buildkit-config configmap.",
     },
   ],
+  createdAt: "2026-09-05T21:40:17.047Z",
+  updatedAt: "2026-09-24T23:15:06.000Z",
 } as const satisfies Manifest

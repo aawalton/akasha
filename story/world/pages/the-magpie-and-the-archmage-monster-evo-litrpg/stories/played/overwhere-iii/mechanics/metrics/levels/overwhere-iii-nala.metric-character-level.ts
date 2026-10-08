@@ -8,4 +8,6 @@ export const overwhereIiiNala = {
   value: 3,
   minValue: 1,
   history: "jsonl",
+  createdAt: "2026-09-29T12:33:44.442Z",
+  updatedAt: "2026-10-03T11:57:11.000Z",
 } as const satisfies MetricCharacterLevel

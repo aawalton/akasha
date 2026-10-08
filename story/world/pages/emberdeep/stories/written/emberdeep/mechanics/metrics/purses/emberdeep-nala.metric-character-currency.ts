@@ -11,4 +11,6 @@ export const emberdeepNala = {
   minValue: 0,
   displayOrder: 1,
   unrevealed: false,
+  createdAt: "2026-10-02T18:35:44.906Z",
+  updatedAt: "2026-10-02T21:42:19.000Z",
 } as const satisfies MetricCharacterCurrency

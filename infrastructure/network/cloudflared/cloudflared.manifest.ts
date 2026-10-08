@@ -24,4 +24,6 @@ export const cloudflared = {
       statement: "The pod template carries the hash of the cloudflared-config configmap.",
     },
   ],
+  createdAt: "2026-09-05T21:44:25.460Z",
+  updatedAt: "2026-09-24T23:10:13.000Z",
 } as const satisfies Manifest

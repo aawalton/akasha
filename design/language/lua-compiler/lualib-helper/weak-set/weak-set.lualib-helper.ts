@@ -7,4 +7,6 @@ export const weakSet = {
   definition: "the set with its values weakly, so a value there may still be collected",
   code: "ts",
   luaExport: "WeakSet",
+  createdAt: "2026-09-08T17:12:48.297Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

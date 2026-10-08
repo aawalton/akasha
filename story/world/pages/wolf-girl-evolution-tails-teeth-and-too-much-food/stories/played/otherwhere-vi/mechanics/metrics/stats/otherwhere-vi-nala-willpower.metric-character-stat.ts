@@ -8,4 +8,6 @@ export const otherwhereViNalaWillpower = {
   value: 6,
   minValue: 0,
   history: "jsonl",
+  createdAt: "2026-09-28T23:06:20.598Z",
+  updatedAt: "2026-09-30T11:06:17.000Z",
 } as const satisfies MetricCharacterStat

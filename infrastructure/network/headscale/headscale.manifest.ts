@@ -51,4 +51,6 @@ export const headscale = {
       statement: "No copy of the server's database is kept anywhere but that disk.",
     },
   ],
+  createdAt: "2026-09-05T21:49:47.223Z",
+  updatedAt: "2026-09-24T23:10:13.000Z",
 } as const satisfies Manifest

@@ -12,4 +12,6 @@ export const overwhereIiNala = {
   history: "jsonl",
   displayOrder: 1,
   revealedAs: "Drunk her fill, head pounding eased; a frame like oak, iron",
+  createdAt: "2026-09-29T12:38:44.124Z",
+  updatedAt: "2026-10-03T13:25:52.000Z",
 } as const satisfies MetricCharacterHealth

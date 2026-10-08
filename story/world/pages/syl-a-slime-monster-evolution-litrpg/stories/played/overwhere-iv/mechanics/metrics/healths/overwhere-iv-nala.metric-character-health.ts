@@ -11,4 +11,6 @@ export const overwhereIvNala = {
   history: "jsonl",
   displayOrder: 1,
   revealedAs: "Breathless, a sling bruise throbbing on your shoulder.",
+  createdAt: "2026-09-29T12:28:03.639Z",
+  updatedAt: "2026-10-03T13:28:10.000Z",
 } as const satisfies MetricCharacterHealth

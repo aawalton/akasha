@@ -12,4 +12,6 @@ export const prometheus = {
   minMemoryMb: 8192,
   killMemoryMb: 8192,
   generatedDirectory: true,
+  createdAt: "2026-09-05T22:02:46.083Z",
+  updatedAt: "2026-09-24T23:20:38.000Z",
 } as const satisfies Manifest

@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsTovaFennVitality = {
   character: "character-other/the-dungeon-of-one-thousand-deaths-tova-fenn",
   value: 0,
   minValue: 0,
+  createdAt: "2026-10-03T19:44:47.746Z",
+  updatedAt: "2026-10-03T19:44:50.000Z",
 } as const satisfies MetricCharacterStat

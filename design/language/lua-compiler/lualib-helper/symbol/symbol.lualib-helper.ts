@@ -7,4 +7,6 @@ export const symbol = {
   definition: "the unique value wrapping a description",
   code: "ts",
   luaExport: "__TS__Symbol",
+  createdAt: "2026-09-08T16:30:07.853Z",
+  updatedAt: "2026-09-22T13:48:12.000Z",
 } as const satisfies LualibHelper

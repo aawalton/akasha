@@ -23,4 +23,6 @@ export const shared = {
       statement: "Ending one process holding a shared page frees none of that page.",
     },
   ],
+  createdAt: "2026-09-11T15:58:58.680Z",
+  updatedAt: "2026-09-15T17:36:15.000Z",
 } as const satisfies MemoryKind

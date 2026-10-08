@@ -7,4 +7,6 @@ export const symbolRegistry = {
   definition: "the symbols a key reaches, shared by the two registry calls",
   code: "ts",
   luaExport: "__TS__SymbolRegistry",
+  createdAt: "2026-09-08T16:21:13.683Z",
+  updatedAt: "2026-09-15T17:24:36.000Z",
 } as const satisfies LualibHelper

@@ -9,4 +9,6 @@ export const overwhereIPineIsleDrakewolfFive = {
   minValue: 0,
   maxValue: 35,
   displayOrder: 1,
+  createdAt: "2026-09-30T20:35:40.825Z",
+  updatedAt: "2026-09-30T20:35:44.000Z",
 } as const satisfies MetricCharacterHealth

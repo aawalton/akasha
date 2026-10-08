@@ -10,4 +10,6 @@ export const otherwhereXiNalaMaradoc = {
   maxValue: 100,
   history: "jsonl",
   unrevealed: true,
+  createdAt: "2026-09-29T00:12:54.034Z",
+  updatedAt: "2026-09-30T11:10:07.000Z",
 } as const satisfies MetricCharacterNotice

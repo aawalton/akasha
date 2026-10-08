@@ -11,4 +11,6 @@ export const kubeStateMetrics = {
   minMemoryMb: 96,
   killMemoryMb: 96,
   generatedDirectory: true,
+  createdAt: "2026-09-05T21:57:14.627Z",
+  updatedAt: "2026-09-24T23:20:38.000Z",
 } as const satisfies Manifest

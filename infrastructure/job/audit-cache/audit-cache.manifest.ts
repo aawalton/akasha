@@ -32,4 +32,6 @@ export const auditCache = {
       statement: "Nothing here says what a job does with that disk.",
     },
   ],
+  createdAt: "2026-09-22T16:08:39.779Z",
+  updatedAt: "2026-09-22T16:09:12.000Z",
 } as const satisfies Manifest

@@ -11,4 +11,6 @@ export const otherwhereViNala = {
   maxValue: 30,
   history: "jsonl",
   displayOrder: 1,
+  createdAt: "2026-09-28T22:59:38.317Z",
+  updatedAt: "2026-09-30T11:06:17.000Z",
 } as const satisfies MetricCharacterHealth

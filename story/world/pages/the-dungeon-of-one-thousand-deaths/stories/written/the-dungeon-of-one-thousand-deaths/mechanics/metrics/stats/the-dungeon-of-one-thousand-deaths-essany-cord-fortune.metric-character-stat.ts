@@ -7,4 +7,6 @@ export const theDungeonOfOneThousandDeathsEssanyCordFortune = {
   character: "character-other/the-dungeon-of-one-thousand-deaths-essany-cord",
   value: 11,
   minValue: 0,
+  createdAt: "2026-10-03T19:36:31.132Z",
+  updatedAt: "2026-10-03T19:36:34.000Z",
 } as const satisfies MetricCharacterStat

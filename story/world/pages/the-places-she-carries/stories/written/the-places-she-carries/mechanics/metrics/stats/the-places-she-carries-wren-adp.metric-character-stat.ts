@@ -8,4 +8,6 @@ export const thePlacesSheCarriesWrenAdp = {
   character: "character-player/the-places-she-carries-wren",
   value: 11,
   minValue: 0,
+  createdAt: "2026-10-03T19:22:22.859Z",
+  updatedAt: "2026-10-03T19:39:31.000Z",
 } as const satisfies MetricCharacterStat

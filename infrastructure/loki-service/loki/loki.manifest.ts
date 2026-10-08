@@ -10,4 +10,6 @@ export const loki = {
   minMemoryMb: 2048,
   killMemoryMb: 2048,
   generatedDirectory: true,
+  createdAt: "2026-09-05T21:28:32.565Z",
+  updatedAt: "2026-09-24T23:19:34.000Z",
 } as const satisfies Manifest
