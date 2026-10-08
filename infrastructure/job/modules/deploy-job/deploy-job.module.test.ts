@@ -38,3 +38,7 @@ test("the commit the subject was last deployed at is fetched beside the one bein
 test("a job carries the name it is known by", () => {
   expect(jobYamlFor(ROOT, SUBJECT, COMMIT, null)).toContain(jobNameFor(SUBJECT, COMMIT))
 })
+
+test("a deploy's job is ended a quarter hour after it starts", () => {
+  expect(jobYamlFor(ROOT, SUBJECT, COMMIT, null)).toContain("activeDeadlineSeconds: 900")
+})

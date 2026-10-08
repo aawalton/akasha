@@ -164,7 +164,8 @@ function jobFor(
   name: string,
   script: string,
   keptAt: string | null,
-  account: string | null
+  account: string | null,
+  deadline: number
 ): ApiObjectManifest {
   return {
     apiVersion: "batch/v1",
@@ -172,7 +173,7 @@ function jobFor(
     metadata: { name, namespace: JOB_NAMESPACE },
     spec: {
       backoffLimit: 0,
-      activeDeadlineSeconds: DEADLINE_SECONDS,
+      activeDeadlineSeconds: deadline,
       ttlSecondsAfterFinished: KEPT_SECONDS,
       template: {
         spec: {
@@ -233,9 +234,10 @@ export function jobYamlFor(
   name: string,
   script: string,
   keptAt: string | null = null,
-  account: string | null = deployAccount.slug
+  account: string | null = deployAccount.slug,
+  deadline: number = DEADLINE_SECONDS
 ): string {
-  return synthOne(JOB_NAMESPACE, name, jobFor(name, script, keptAt, account))
+  return synthOne(JOB_NAMESPACE, name, jobFor(name, script, keptAt, account, deadline))
 }
 
 export type Running = (argv: readonly string[], text: string | null) => Promise<Ran>

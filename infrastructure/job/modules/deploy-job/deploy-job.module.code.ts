@@ -2,6 +2,7 @@ import { measured } from "akasha/command/argument/pages/measured.argument.ts"
 import { ref } from "akasha/command/argument/pages/ref.argument.ts"
 import { uncounted } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { deploy } from "akasha/command/pages/deploy/deploy.command.ts"
+import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-account.manifest.ts"
 import {
   checkedOut,
   NAMED,
@@ -10,6 +11,8 @@ import {
 import { inCluster } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import { dispatcherIn } from "akasha/infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+
+const DEADLINE_SECONDS = 900
 
 export function jobNameFor(subject: string, commit: string): string {
   return `${deploy.name}-${subject}-${commit.slice(0, NAMED)}`
@@ -53,5 +56,6 @@ export function jobYamlFor(
   commit: string,
   was: string | null
 ): string {
-  return yamlFor(jobNameFor(subject, commit), scriptFor(given, subject, commit, was))
+  const script = scriptFor(given, subject, commit, was)
+  return yamlFor(jobNameFor(subject, commit), script, null, deployAccount.slug, DEADLINE_SECONDS)
 }

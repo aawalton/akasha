@@ -208,6 +208,10 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "How long a job may run is its caller's to say, and an hour where none says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A job reserves what one run needs and may take what the fastest node has spare.",
     },
     {
@@ -322,6 +326,6 @@ export const clusterRunning = {
       statement: "A tree naming no commit of its own asks for every commit, however much it holds.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:46.396Z",
+  updatedAt: "2026-10-08T17:04:14.882Z",
   createdAt: "2026-09-16T15:05:01.599Z",
 } as const satisfies Module
