@@ -10,7 +10,7 @@ export const emberTemperAlpha = {
     {
       statement: "A player besides Alan plays with the Temper addons.",
       workingMemory:
-        "Anyone can download temper-addons.zip at https://tempereso.com/api/addons/download without signing in. The zip holds Temper, TemperCatalog, TemperCharacters, TemperCombat, TemperItems and TemperWorld, and needs no addon outside it. The landing page at tempereso.com explains the setup. Sign-up is Google-only through alanwalton.com, and no limit on who signs up was found in the code; no fresh Google account has tried it. The first alpha user is Joseph (person/joseph), at josephdoggy7@gmail.com.",
+        "The zip at https://tempereso.com/api/addons/download needs no sign-in and no addon outside it. Sign-up is Google-only through alanwalton.com, and no fresh Google account has tried it. The first alpha user is Joseph (person/joseph). On 2026-10-08 Alan's Gmail sent Joseph the link and the setup steps, in thread 1a11bc3bb554e54e. Left is Joseph installing the addons and playing with them.",
     },
   ],
   constraints: [
