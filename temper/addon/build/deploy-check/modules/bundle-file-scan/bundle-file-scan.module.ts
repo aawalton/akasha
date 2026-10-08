@@ -20,4 +20,6 @@ export const bundleFileScan = {
       statement: "Nothing here judges what a scanner found.",
     },
   ],
+  createdAt: "2026-09-11T13:21:59.826Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

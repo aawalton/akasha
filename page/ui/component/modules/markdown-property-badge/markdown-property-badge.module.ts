@@ -6,4 +6,6 @@ export const markdownPropertyBadge = {
   slug: "markdown-property-badge",
   definition: "The badge for a markdown property, rendered as elements.",
   code: "tsx",
+  createdAt: "2026-09-02T12:19:38.821Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

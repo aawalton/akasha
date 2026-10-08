@@ -16,4 +16,6 @@ export const swapDecision = {
       statement: "A warm service is evicted only for another service that is not warm.",
     },
   ],
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-22T13:46:01.000Z",
 } as const satisfies Module

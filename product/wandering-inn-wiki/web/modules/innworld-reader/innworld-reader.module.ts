@@ -25,4 +25,6 @@ export const innworldReader = {
       statement: "The store in the browser is told this reader, so the browser asks for its pages.",
     },
   ],
+  createdAt: "2026-09-21T22:00:19.030Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

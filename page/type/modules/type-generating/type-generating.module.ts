@@ -53,4 +53,6 @@ export const typeGenerating = {
       statement: "Nothing here writes a file.",
     },
   ],
+  createdAt: "2026-09-09T19:30:59.050Z",
+  updatedAt: "2026-09-24T19:54:58.000Z",
 } as const satisfies Module

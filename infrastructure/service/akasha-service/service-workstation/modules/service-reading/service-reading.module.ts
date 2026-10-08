@@ -121,4 +121,6 @@ export const serviceReading = {
       statement: "A checkout is read-only only where the system says the file system is.",
     },
   ],
+  createdAt: "2026-09-01T00:35:25.729Z",
+  updatedAt: "2026-09-27T13:10:47.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const collectionLookup = {
   slug: "collection-lookup",
   definition: "what the store already holds for a page under a planned write",
   code: "ts",
+  createdAt: "2026-09-01T11:22:40.763Z",
+  updatedAt: "2026-09-22T13:55:48.000Z",
 } as const satisfies Module

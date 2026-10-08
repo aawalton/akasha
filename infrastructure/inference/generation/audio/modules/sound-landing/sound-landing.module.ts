@@ -37,4 +37,6 @@ export const soundLanding = {
       statement: "The page landed and the bytes placed are each pushed into the caller's `done`.",
     },
   ],
+  createdAt: "2026-09-21T23:15:50.309Z",
+  updatedAt: "2026-09-21T23:21:23.000Z",
 } as const satisfies Module

@@ -80,4 +80,6 @@ export const fileFollowing = {
       statement: "Nothing here works out which folders to watch.",
     },
   ],
+  createdAt: "2026-09-01T00:28:45.254Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

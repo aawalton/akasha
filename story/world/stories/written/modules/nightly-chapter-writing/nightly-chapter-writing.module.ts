@@ -67,4 +67,6 @@ export const nightlyChapterWriting = {
         "A dry run says which stories would have a chapter started, and why, starting none.",
     },
   ],
+  createdAt: "2026-09-28T20:02:27.955Z",
+  updatedAt: "2026-10-03T14:03:54.000Z",
 } as const satisfies Module

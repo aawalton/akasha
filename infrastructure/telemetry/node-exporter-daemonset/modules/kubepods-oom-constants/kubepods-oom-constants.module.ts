@@ -6,4 +6,6 @@ export const kubepodsOomConstants = {
   slug: "kubepods-oom-constants",
   definition: "the metric names and paths by which an out-of-memory kill is counted",
   code: "ts",
+  createdAt: "2026-09-03T16:17:58.882Z",
+  updatedAt: "2026-09-22T14:08:50.000Z",
 } as const satisfies Module

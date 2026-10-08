@@ -6,4 +6,6 @@ export const pageTableColumnDndHelpers = {
   slug: "page-table-column-dnd-helpers",
   definition: "Computes a table column drop zone by pointer X and reorders the columns around it.",
   code: "ts",
+  createdAt: "2026-09-01T09:12:18.406Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

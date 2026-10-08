@@ -73,4 +73,6 @@ export const pageBeside = {
         "The naming grammar lets only this page claim a file with its name and a property's sections.",
     },
   ],
+  createdAt: "2026-08-29T17:53:28.298Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

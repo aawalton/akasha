@@ -97,4 +97,6 @@ export const sceneCoverPanel = {
       statement: "The new cover arrives the way every change to the turns arrives.",
     },
   ],
+  createdAt: "2026-09-28T12:30:48.168Z",
+  updatedAt: "2026-10-04T09:31:22.000Z",
 } as const satisfies Module

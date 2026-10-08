@@ -24,4 +24,6 @@ export const storyChapters = {
       statement: "A story played draws no such listing, since its play screen shows its chapters.",
     },
   ],
+  createdAt: "2026-09-26T14:28:50.717Z",
+  updatedAt: "2026-09-28T20:53:34.000Z",
 } as const satisfies Module

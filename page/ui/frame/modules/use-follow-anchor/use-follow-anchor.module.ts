@@ -21,4 +21,6 @@ export const useFollowAnchor = {
         "A page held only once lets go for good at the reader's first scroll, touch or key.",
     },
   ],
+  createdAt: "2026-09-01T11:50:09.132Z",
+  updatedAt: "2026-10-02T18:54:44.000Z",
 } as const satisfies Module

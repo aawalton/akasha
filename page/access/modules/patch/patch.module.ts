@@ -16,4 +16,6 @@ export const patch = {
       statement: "No patch creates a page.",
     },
   ],
+  createdAt: "2026-09-01T07:19:56.980Z",
+  updatedAt: "2026-09-24T17:02:31.000Z",
 } as const satisfies Module

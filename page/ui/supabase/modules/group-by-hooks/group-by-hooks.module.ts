@@ -6,4 +6,6 @@ export const groupByHooks = {
   slug: "group-by-hooks",
   definition: "React hook querying pages by page type and bucketing its rows into groups.",
   code: "ts",
+  createdAt: "2026-09-02T09:13:05.030Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

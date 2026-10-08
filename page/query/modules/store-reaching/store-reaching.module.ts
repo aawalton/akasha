@@ -47,4 +47,6 @@ export const storeReaching = {
       statement: "Nothing here knows the parts a question or a write holds.",
     },
   ],
+  createdAt: "2026-09-01T03:04:31.146Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

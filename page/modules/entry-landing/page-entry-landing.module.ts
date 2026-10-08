@@ -113,4 +113,6 @@ export const pageEntryLanding = {
       statement: "That landing is the oracle an appending writer's rolling is proved against.",
     },
   ],
+  createdAt: "2026-09-02T14:59:09.149Z",
+  updatedAt: "2026-09-25T13:58:01.000Z",
 } as const satisfies Module

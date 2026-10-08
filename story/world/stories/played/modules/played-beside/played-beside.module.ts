@@ -30,4 +30,6 @@ export const playedBeside = {
       statement: "Nothing here polls, so these are read once as the story opens.",
     },
   ],
+  createdAt: "2026-09-14T19:23:45.843Z",
+  updatedAt: "2026-09-28T14:31:22.000Z",
 } as const satisfies Module

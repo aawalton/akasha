@@ -25,4 +25,6 @@ export const memoryGuard = {
       statement: "A meminfo line that does not match refuses rather than reading as zero.",
     },
   ],
+  createdAt: "2026-09-01T09:57:29.389Z",
+  updatedAt: "2026-09-19T15:39:26.000Z",
 } as const satisfies Module

@@ -94,4 +94,6 @@ export const calculationLoading = {
       statement: "Nothing here runs the calculation this module answers.",
     },
   ],
+  createdAt: "2026-09-05T14:19:56.759Z",
+  updatedAt: "2026-09-19T02:58:29.000Z",
 } as const satisfies Module

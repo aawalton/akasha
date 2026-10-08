@@ -17,4 +17,6 @@ export const wanSize = {
       statement: "A size that does not read answers as nothing rather than raising.",
     },
   ],
+  createdAt: "2026-09-03T15:44:22.572Z",
+  updatedAt: "2026-09-22T13:46:54.000Z",
 } as const satisfies Module

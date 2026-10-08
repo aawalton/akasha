@@ -62,4 +62,6 @@ export const besideDeclaring = {
       statement: "Nothing here says where a declared file sits.",
     },
   ],
+  createdAt: "2026-09-15T15:36:50.656Z",
+  updatedAt: "2026-09-27T01:33:26.000Z",
 } as const satisfies Module

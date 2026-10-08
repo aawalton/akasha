@@ -25,4 +25,6 @@ export const featureRequestServing = {
       statement: "The newer of two feature requests is the one whose uuid v7 id is the greater.",
     },
   ],
+  createdAt: "2026-09-21T16:00:47.941Z",
+  updatedAt: "2026-09-22T10:07:59.000Z",
 } as const satisfies Module

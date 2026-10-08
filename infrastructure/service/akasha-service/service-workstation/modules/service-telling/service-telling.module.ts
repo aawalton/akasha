@@ -54,4 +54,6 @@ export const serviceTelling = {
       statement: "Nothing here writes a verdict or a moment beside a service's page.",
     },
   ],
+  createdAt: "2026-09-22T14:46:27.702Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

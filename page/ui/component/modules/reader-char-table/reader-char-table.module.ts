@@ -7,4 +7,6 @@ export const readerCharTable = {
   definition:
     "Converts between a prose block position and a fraction of the whole body's characters.",
   code: "ts",
+  createdAt: "2026-09-01T09:12:18.407Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

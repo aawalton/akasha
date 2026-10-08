@@ -12,4 +12,6 @@ export const markdownDocument = {
       statement: "Nothing here parses or judges anything.",
     },
   ],
+  createdAt: "2026-09-01T11:41:25.916Z",
+  updatedAt: "2026-09-25T16:49:00.000Z",
 } as const satisfies Module

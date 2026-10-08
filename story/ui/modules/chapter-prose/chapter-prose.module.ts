@@ -12,4 +12,6 @@ export const chapterProse = {
       statement: "The covers handed are drawn among the paragraphs, each after the one it shows.",
     },
   ],
+  createdAt: "2026-09-02T17:25:53.928Z",
+  updatedAt: "2026-10-02T17:25:43.000Z",
 } as const satisfies Module

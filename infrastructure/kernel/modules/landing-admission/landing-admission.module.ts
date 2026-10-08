@@ -46,4 +46,6 @@ export const landingAdmission = {
         "One landing is spaced from the next by what memory is free rather than by a wait.",
     },
   ],
+  createdAt: "2026-09-14T16:10:24.716Z",
+  updatedAt: "2026-09-19T15:39:59.000Z",
 } as const satisfies Module

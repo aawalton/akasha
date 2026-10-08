@@ -16,4 +16,6 @@ export const jennyCapacitorBridge = {
       statement: "A plugin the shell does not have is read back as null rather than thrown over.",
     },
   ],
+  createdAt: "2026-09-03T03:38:30.988Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

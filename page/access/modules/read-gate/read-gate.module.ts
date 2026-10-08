@@ -58,4 +58,6 @@ export const readGate = {
         "A narrow on a key the page type does not carry is refused rather than reaching no pages.",
     },
   ],
+  createdAt: "2026-09-21T18:44:34.478Z",
+  updatedAt: "2026-09-25T14:48:58.000Z",
 } as const satisfies Module

@@ -43,4 +43,6 @@ export const pageTypeInheritance = {
       statement: "The page types one page type takes from are answered nearest first.",
     },
   ],
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-25T15:11:27.000Z",
 } as const satisfies Module

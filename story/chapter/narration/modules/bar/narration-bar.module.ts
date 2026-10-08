@@ -37,4 +37,6 @@ export const narrationBar = {
       statement: "Chrome reaches no part of a stream with no end, so the bar there scrubs nowhere.",
     },
   ],
+  createdAt: "2026-10-05T20:45:59.481Z",
+  updatedAt: "2026-10-06T14:56:00.000Z",
 } as const satisfies Module

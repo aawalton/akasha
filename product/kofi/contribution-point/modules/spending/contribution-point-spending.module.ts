@@ -42,4 +42,6 @@ export const contributionPointSpending = {
       statement: "Nothing here reads a page or writes one, the caller handing in what it holds.",
     },
   ],
+  createdAt: "2026-09-21T17:14:17.821Z",
+  updatedAt: "2026-09-21T23:18:09.000Z",
 } as const satisfies Module

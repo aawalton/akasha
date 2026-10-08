@@ -6,4 +6,6 @@ export const cgroupPsiCollector = {
   slug: "cgroup-psi-collector",
   definition: "the sidecar that reads each control group's pressure off the node",
   code: "ts",
+  createdAt: "2026-09-03T16:17:58.882Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

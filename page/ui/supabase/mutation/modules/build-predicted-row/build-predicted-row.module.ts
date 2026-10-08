@@ -6,4 +6,6 @@ export const buildPredictedRow = {
   slug: "build-predicted-row",
   definition: "the row a write is predicted to leave before the server answers",
   code: "ts",
+  createdAt: "2026-09-01T11:22:40.763Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

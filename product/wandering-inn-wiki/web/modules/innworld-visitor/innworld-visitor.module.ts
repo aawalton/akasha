@@ -16,4 +16,6 @@ export const innworldVisitor = {
       statement: "This name is alone here, so a browser reaching it reaches no server code.",
     },
   ],
+  createdAt: "2026-09-22T00:00:52.729Z",
+  updatedAt: "2026-09-22T14:00:26.000Z",
 } as const satisfies Module

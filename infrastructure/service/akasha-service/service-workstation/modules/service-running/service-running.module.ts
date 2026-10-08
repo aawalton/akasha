@@ -54,4 +54,6 @@ export const serviceRunning = {
       statement: "Nothing a unit spells past the slug is handed to the service's own run.",
     },
   ],
+  createdAt: "2026-09-12T11:49:04.447Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

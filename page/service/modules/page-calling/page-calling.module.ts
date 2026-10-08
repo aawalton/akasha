@@ -205,4 +205,6 @@ export const pageCalling = {
       statement: "A stream of changes is opened once, and a caller opens it again as it sees fit.",
     },
   ],
+  createdAt: "2026-09-01T17:34:08.092Z",
+  updatedAt: "2026-09-25T16:06:26.000Z",
 } as const satisfies Module

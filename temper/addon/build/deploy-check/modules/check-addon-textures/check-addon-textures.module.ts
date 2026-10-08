@@ -40,4 +40,6 @@ export const checkAddonTextures = {
       statement: "The game's art is read on the workstation, and only a path it lacks is named.",
     },
   ],
+  createdAt: "2026-09-25T17:40:52.575Z",
+  updatedAt: "2026-09-25T18:24:09.000Z",
 } as const satisfies Module

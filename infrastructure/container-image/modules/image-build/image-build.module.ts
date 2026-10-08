@@ -50,4 +50,6 @@ export const imageBuild = {
       statement: "A caller handing in no pages has the recipes read from the checkout.",
     },
   ],
+  createdAt: "2026-09-11T00:40:29.217Z",
+  updatedAt: "2026-09-25T18:14:32.000Z",
 } as const satisfies Module

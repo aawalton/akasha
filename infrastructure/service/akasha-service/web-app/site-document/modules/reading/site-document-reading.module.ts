@@ -26,4 +26,6 @@ export const siteDocumentReading = {
         "A path showing a site document stating it is public is open to a reader who has not signed in.",
     },
   ],
+  createdAt: "2026-09-24T23:06:41.406Z",
+  updatedAt: "2026-09-27T14:07:30.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const useBlockKeys = {
   slug: "use-block-keys",
   definition: "The key handling an editor block needs: enter, backspace, tab and the arrows.",
   code: "ts",
+  createdAt: "2026-09-02T12:08:30.266Z",
+  updatedAt: "2026-09-22T10:05:52.000Z",
 } as const satisfies Module

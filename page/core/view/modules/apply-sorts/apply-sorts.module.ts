@@ -6,4 +6,6 @@ export const applySorts = {
   slug: "apply-sorts",
   definition: "the order view sorts give a list of rows",
   code: "ts",
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-22T13:54:50.000Z",
 } as const satisfies Module

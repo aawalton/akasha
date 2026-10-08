@@ -88,4 +88,6 @@ export const indexAnswering = {
       statement: "A face is built for one change and lives no longer than that change.",
     },
   ],
+  createdAt: "2026-09-01T21:04:53.833Z",
+  updatedAt: "2026-09-25T14:05:13.000Z",
 } as const satisfies Module

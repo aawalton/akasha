@@ -103,4 +103,6 @@ export const serviceWellness = {
       statement: "Nothing here asks systemd anything.",
     },
   ],
+  createdAt: "2026-09-10T17:57:42.765Z",
+  updatedAt: "2026-09-25T16:44:18.000Z",
 } as const satisfies Module

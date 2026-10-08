@@ -60,4 +60,6 @@ export const orphanSweeping = {
       statement: "Nothing waiting for the handler ends the run rather than losing the finding.",
     },
   ],
+  createdAt: "2026-09-03T17:56:43.735Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

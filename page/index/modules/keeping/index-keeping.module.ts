@@ -139,4 +139,6 @@ export const indexKeeping = {
       statement: "No mark says an index is whole, and nothing here writes one.",
     },
   ],
+  createdAt: "2026-08-31T14:53:00.013Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

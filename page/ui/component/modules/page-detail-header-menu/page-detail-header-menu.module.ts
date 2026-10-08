@@ -20,4 +20,6 @@ export const pageDetailHeaderMenu = {
       statement: "A reader may hand the menu items of its own, drawn above the items a body adds.",
     },
   ],
+  createdAt: "2026-09-02T11:43:33.486Z",
+  updatedAt: "2026-10-05T20:39:34.000Z",
 } as const satisfies Module

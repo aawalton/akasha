@@ -6,4 +6,6 @@ export const applyGroupingSort = {
   slug: "apply-grouping-sort",
   definition: "the order of a view's sorted groups",
   code: "ts",
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-22T13:46:01.000Z",
 } as const satisfies Module

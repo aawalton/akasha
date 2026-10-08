@@ -32,4 +32,6 @@ export const logBoundSaying = {
       statement: "Nothing here fetches a log line.",
     },
   ],
+  createdAt: "2026-09-03T04:24:39.216Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

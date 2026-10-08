@@ -20,4 +20,6 @@ export const conditionEval = {
       statement: "A path reaching no value is weighed as a key carrying nothing.",
     },
   ],
+  createdAt: "2026-09-01T05:20:20.812Z",
+  updatedAt: "2026-09-22T10:05:52.000Z",
 } as const satisfies Module

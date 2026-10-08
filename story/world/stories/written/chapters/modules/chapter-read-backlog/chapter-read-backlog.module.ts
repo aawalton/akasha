@@ -21,4 +21,6 @@ export const chapterReadBacklog = {
       statement: "A rule run that fails or throws is said as failed and never thrown.",
     },
   ],
+  createdAt: "2026-10-03T11:57:41.890Z",
+  updatedAt: "2026-10-03T14:05:54.000Z",
 } as const satisfies Module

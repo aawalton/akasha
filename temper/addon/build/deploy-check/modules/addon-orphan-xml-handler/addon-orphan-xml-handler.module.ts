@@ -28,4 +28,6 @@ export const addonOrphanXmlHandler = {
       statement: "A member written onto any object anywhere in the add-on counts as defined.",
     },
   ],
+  createdAt: "2026-09-02T15:07:11.594Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

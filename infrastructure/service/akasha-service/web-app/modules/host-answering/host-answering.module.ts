@@ -63,4 +63,6 @@ export const hostAnswering = {
       statement: "Nothing here writes a verdict.",
     },
   ],
+  createdAt: "2026-09-25T16:37:30.393Z",
+  updatedAt: "2026-09-27T14:23:53.000Z",
 } as const satisfies Module

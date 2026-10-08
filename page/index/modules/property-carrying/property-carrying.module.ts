@@ -250,4 +250,6 @@ export const propertyCarrying = {
       statement: "A face answers the page types alone as well as the pages.",
     },
   ],
+  createdAt: "2026-08-31T17:18:29.702Z",
+  updatedAt: "2026-09-27T01:05:13.000Z",
 } as const satisfies Module

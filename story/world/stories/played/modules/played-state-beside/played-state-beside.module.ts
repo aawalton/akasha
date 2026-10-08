@@ -73,4 +73,6 @@ export const playedStateBeside = {
       statement: "Nothing here writes a page.",
     },
   ],
+  createdAt: "2026-09-26T15:18:51.476Z",
+  updatedAt: "2026-10-03T20:11:47.000Z",
 } as const satisfies Module

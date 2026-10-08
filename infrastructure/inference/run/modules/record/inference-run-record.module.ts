@@ -26,4 +26,6 @@ export const inferenceRunRecord = {
         "That command line is the call the command was handed rather than a name its code spells.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-26T16:51:37.000Z",
 } as const satisfies Module

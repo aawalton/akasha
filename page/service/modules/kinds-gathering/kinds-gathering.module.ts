@@ -183,4 +183,6 @@ export const kindsGathering = {
         "A relation a calculation holds reaches its stated page type and every page type under it.",
     },
   ],
+  createdAt: "2026-09-05T15:42:05.209Z",
+  updatedAt: "2026-09-28T23:48:54.000Z",
 } as const satisfies Module

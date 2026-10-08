@@ -6,4 +6,6 @@ export const usePagesFilteredHrefs = {
   slug: "use-pages-filtered-hrefs",
   definition: "the links out of a filtered listing of pages",
   code: "ts",
+  createdAt: "2026-09-01T11:50:09.132Z",
+  updatedAt: "2026-09-22T13:59:59.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const persistMedia = {
       statement: "Nothing here lands a page or places bytes.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-21T23:23:42.000Z",
 } as const satisfies Module

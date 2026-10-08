@@ -39,4 +39,6 @@ export const collectRelatedIds = {
       statement: "A page's scoped address is read as the page resolver keys that page.",
     },
   ],
+  createdAt: "2026-09-01T10:22:24.364Z",
+  updatedAt: "2026-09-25T15:20:56.000Z",
 } as const satisfies Module

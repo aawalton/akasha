@@ -157,4 +157,6 @@ export const pageComputing = {
       statement: "A property naming a page type to reach and holding another kind is refused.",
     },
   ],
+  createdAt: "2026-09-05T12:58:08.148Z",
+  updatedAt: "2026-09-25T13:07:21.000Z",
 } as const satisfies Module

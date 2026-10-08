@@ -13,4 +13,6 @@ export const shapeDescriptor = {
       statement: "A set is named by ids, by slugs, or by the values one relation holds.",
     },
   ],
+  createdAt: "2026-09-01T05:20:20.805Z",
+  updatedAt: "2026-09-26T15:04:02.000Z",
 } as const satisfies Module

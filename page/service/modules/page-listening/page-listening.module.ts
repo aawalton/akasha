@@ -103,4 +103,6 @@ export const pageListening = {
       statement: "Each such landing is said with its commit and the time each phase took.",
     },
   ],
+  createdAt: "2026-08-31T23:59:18.777Z",
+  updatedAt: "2026-09-27T19:41:56.000Z",
 } as const satisfies Module

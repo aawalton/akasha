@@ -41,4 +41,6 @@ export const featureRequestProposeDialog = {
         "A request that opened is read into the store at once rather than at the next poll.",
     },
   ],
+  createdAt: "2026-09-21T18:29:12.540Z",
+  updatedAt: "2026-09-27T12:24:04.000Z",
 } as const satisfies Module

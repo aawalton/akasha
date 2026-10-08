@@ -6,4 +6,6 @@ export const useRestoreReadPosition = {
   slug: "use-restore-read-position",
   definition: "the hook returning a reader to that reader's last position",
   code: "ts",
+  createdAt: "2026-09-02T09:40:45.997Z",
+  updatedAt: "2026-09-22T14:00:26.000Z",
 } as const satisfies Module

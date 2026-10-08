@@ -49,4 +49,6 @@ export const typeTurning = {
       statement: "Nothing here writes a type or reaches a generator.",
     },
   ],
+  createdAt: "2026-09-11T14:30:20.118Z",
+  updatedAt: "2026-09-24T19:47:32.000Z",
 } as const satisfies Module

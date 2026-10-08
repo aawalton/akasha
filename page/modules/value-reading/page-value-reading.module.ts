@@ -54,4 +54,6 @@ export const pageValueReading = {
       statement: "Nothing here loads a body.",
     },
   ],
+  createdAt: "2026-09-06T12:33:27.203Z",
+  updatedAt: "2026-09-24T17:12:54.000Z",
 } as const satisfies Module

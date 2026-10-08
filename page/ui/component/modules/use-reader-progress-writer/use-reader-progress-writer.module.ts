@@ -6,4 +6,6 @@ export const useReaderProgressWriter = {
   slug: "use-reader-progress-writer",
   definition: "Writes a reader's progress back as the reading moves.",
   code: "ts",
+  createdAt: "2026-09-02T12:08:30.268Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

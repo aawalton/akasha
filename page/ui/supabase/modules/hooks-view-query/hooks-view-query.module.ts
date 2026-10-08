@@ -27,4 +27,6 @@ export const hooksViewQuery = {
       statement: "A view naming more than a hundred related pages asks for them in one answer.",
     },
   ],
+  createdAt: "2026-09-02T11:27:44.767Z",
+  updatedAt: "2026-09-28T19:54:54.000Z",
 } as const satisfies Module

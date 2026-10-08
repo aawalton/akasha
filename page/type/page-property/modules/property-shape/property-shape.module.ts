@@ -45,4 +45,6 @@ export const propertyShape = {
       statement: "Nothing here opens a file.",
     },
   ],
+  createdAt: "2026-09-15T01:35:45.132Z",
+  updatedAt: "2026-09-21T10:13:55.000Z",
 } as const satisfies Module

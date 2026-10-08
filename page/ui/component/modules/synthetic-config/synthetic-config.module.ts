@@ -12,4 +12,6 @@ export const syntheticConfig = {
       statement: "The parameter naming which view is shown narrows the listing by nothing.",
     },
   ],
+  createdAt: "2026-09-01T11:50:09.132Z",
+  updatedAt: "2026-09-24T16:28:05.000Z",
 } as const satisfies Module

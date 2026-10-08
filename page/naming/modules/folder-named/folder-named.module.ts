@@ -24,4 +24,6 @@ export const folderNamed = {
       statement: "A domain beside a workspace names the folder the two share.",
     },
   ],
+  createdAt: "2026-09-15T03:12:02.931Z",
+  updatedAt: "2026-09-25T14:50:28.000Z",
 } as const satisfies Module

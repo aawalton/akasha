@@ -6,4 +6,6 @@ export const safeTarget = {
   slug: "safe-target",
   definition: "whether a URL is one a reader may be sent to",
   code: "ts",
+  createdAt: "2026-09-01T08:26:25.762Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

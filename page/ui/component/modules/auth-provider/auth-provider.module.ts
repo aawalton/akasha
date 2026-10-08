@@ -33,4 +33,6 @@ export const authProvider = {
       statement: "A reader who has not signed in is named to the store as `anonymous`.",
     },
   ],
+  createdAt: "2026-09-03T04:23:43.671Z",
+  updatedAt: "2026-09-25T19:42:09.000Z",
 } as const satisfies Module

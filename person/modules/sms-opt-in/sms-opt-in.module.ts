@@ -47,4 +47,6 @@ export const smsOptIn = {
         "Each link is named by its document's title, and every other word is a web phrase.",
     },
   ],
+  createdAt: "2026-09-01T04:57:50.083Z",
+  updatedAt: "2026-09-27T14:31:37.000Z",
 } as const satisfies Module

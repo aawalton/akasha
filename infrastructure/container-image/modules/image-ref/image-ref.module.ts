@@ -21,4 +21,6 @@ export const imageRef = {
       statement: "Nothing here builds or pushes an image.",
     },
   ],
+  createdAt: "2026-09-10T23:25:22.311Z",
+  updatedAt: "2026-09-22T13:59:20.000Z",
 } as const satisfies Module

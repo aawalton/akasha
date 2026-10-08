@@ -6,4 +6,6 @@ export const appVersionCheck = {
   slug: "app-version-check",
   definition: "whether the build a browser runs is behind the live one, and the url onto it",
   code: "ts",
+  createdAt: "2026-09-01T08:21:56.942Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

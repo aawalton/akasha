@@ -13,4 +13,6 @@ export const pageCardNotes = {
         "A card's notes are the value its listing row holds rather than a page read again.",
     },
   ],
+  createdAt: "2026-09-02T13:38:02.086Z",
+  updatedAt: "2026-09-24T22:01:20.000Z",
 } as const satisfies Module

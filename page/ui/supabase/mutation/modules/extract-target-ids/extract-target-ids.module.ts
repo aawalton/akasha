@@ -6,4 +6,6 @@ export const extractTargetIds = {
   slug: "extract-target-ids",
   definition: "the page ids a where clause narrows a write down to",
   code: "ts",
+  createdAt: "2026-09-01T11:13:02.032Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

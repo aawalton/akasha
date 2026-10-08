@@ -13,4 +13,6 @@ export const useViewConfigHandlers = {
         "A change made on a view keeps the related narrows the view states and never shows.",
     },
   ],
+  createdAt: "2026-09-01T11:28:48.828Z",
+  updatedAt: "2026-09-28T22:40:15.000Z",
 } as const satisfies Module

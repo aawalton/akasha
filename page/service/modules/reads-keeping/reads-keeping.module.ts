@@ -42,4 +42,6 @@ export const readsKeeping = {
       statement: "What a page read is folded into its folders as what a property keeps is.",
     },
   ],
+  createdAt: "2026-09-24T19:18:10.094Z",
+  updatedAt: "2026-09-28T23:48:54.000Z",
 } as const satisfies Module

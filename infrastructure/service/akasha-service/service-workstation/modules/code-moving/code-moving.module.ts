@@ -98,4 +98,6 @@ export const codeMoving = {
       statement: "That unit is read as a file rather than asked of systemd.",
     },
   ],
+  createdAt: "2026-09-12T06:56:38.609Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const useSubpages = {
       statement: "A parent relation stating no target is asked, since it may hold any page.",
     },
   ],
+  createdAt: "2026-09-01T11:50:09.132Z",
+  updatedAt: "2026-09-27T05:58:11.000Z",
 } as const satisfies Module

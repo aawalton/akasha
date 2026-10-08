@@ -6,4 +6,6 @@ export const useOverflowFade = {
   slug: "use-overflow-fade",
   definition: "a ref and a style fading the right edge of a box whose content runs past it",
   code: "ts",
+  createdAt: "2026-09-01T10:22:24.365Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

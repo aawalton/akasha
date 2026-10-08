@@ -25,4 +25,6 @@ export const fileBackedRoster = {
       statement: "A roster with no page type refuses rather than reading as no page being a file.",
     },
   ],
+  createdAt: "2026-09-11T03:55:24.728Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

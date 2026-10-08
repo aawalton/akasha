@@ -16,4 +16,6 @@ export const strikeResolution = {
       statement: "Nothing here knows which story's strike is resolving.",
     },
   ],
+  createdAt: "2026-09-26T16:18:37.257Z",
+  updatedAt: "2026-09-26T16:18:47.000Z",
 } as const satisfies Module

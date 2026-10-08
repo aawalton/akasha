@@ -75,4 +75,6 @@ export const characterItemsBeside = {
       statement: "Nothing here writes a page.",
     },
   ],
+  createdAt: "2026-09-22T19:47:24.481Z",
+  updatedAt: "2026-10-04T08:13:34.000Z",
 } as const satisfies Module

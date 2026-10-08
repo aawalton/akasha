@@ -6,4 +6,6 @@ export const blockTree = {
   slug: "block-tree",
   definition: "Renders a block and its children as nested rows, leaving out the collapsed ones.",
   code: "tsx",
+  createdAt: "2026-09-02T09:13:05.030Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const entryRows = {
       statement: "Nothing here reads what a row says.",
     },
   ],
+  createdAt: "2026-09-21T19:27:35.453Z",
+  updatedAt: "2026-09-22T10:05:52.000Z",
 } as const satisfies Module

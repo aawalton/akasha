@@ -131,4 +131,6 @@ export const playedShell = {
       statement: "The panels drawn are the panels the story played names, not its game.",
     },
   ],
+  createdAt: "2026-09-14T19:28:23.697Z",
+  updatedAt: "2026-10-02T18:26:48.000Z",
 } as const satisfies Module

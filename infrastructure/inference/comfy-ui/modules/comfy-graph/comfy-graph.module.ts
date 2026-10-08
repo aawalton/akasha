@@ -17,4 +17,6 @@ export const comfyGraph = {
         "A link is the node that link comes from paired with the slot that link comes out of.",
     },
   ],
+  createdAt: "2026-09-03T16:17:57.096Z",
+  updatedAt: "2026-09-25T16:41:42.000Z",
 } as const satisfies Module

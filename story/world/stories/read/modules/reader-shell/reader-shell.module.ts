@@ -37,4 +37,6 @@ export const readerShell = {
       statement: "Only this story's chapters are asked for, never every chapter there is.",
     },
   ],
+  createdAt: "2026-09-14T18:01:35.365Z",
+  updatedAt: "2026-10-05T21:40:28.000Z",
 } as const satisfies Module

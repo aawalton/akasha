@@ -37,4 +37,6 @@ export const storeSpelledAsking = {
       statement: "Nothing this road reaches opens a file.",
     },
   ],
+  createdAt: "2026-09-02T20:06:25.485Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

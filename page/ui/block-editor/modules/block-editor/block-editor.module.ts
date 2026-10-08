@@ -6,4 +6,6 @@ export const blockEditor = {
   slug: "block-editor",
   definition: "the editor a rich document is written in, one block at a time",
   code: "tsx",
+  createdAt: "2026-09-02T13:32:29.640Z",
+  updatedAt: "2026-09-22T10:17:30.000Z",
 } as const satisfies Module

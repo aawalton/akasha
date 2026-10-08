@@ -220,4 +220,6 @@ export const pageWriting = {
         "A writer may be handed a wait that every batch it lands and every act runs inside.",
     },
   ],
+  createdAt: "2026-09-01T02:13:15.909Z",
+  updatedAt: "2026-09-27T13:36:04.000Z",
 } as const satisfies Module

@@ -287,4 +287,6 @@ export const pageServing = {
       statement: "An answer to an increment names the count that increment left.",
     },
   ],
+  createdAt: "2026-08-31T22:59:50.433Z",
+  updatedAt: "2026-09-25T17:00:22.000Z",
 } as const satisfies Module

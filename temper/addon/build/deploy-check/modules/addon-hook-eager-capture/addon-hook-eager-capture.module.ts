@@ -28,4 +28,6 @@ export const addonHookEagerCapture = {
       statement: "The hook installers recognised are named in the code rather than worked out.",
     },
   ],
+  createdAt: "2026-09-02T15:23:19.922Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

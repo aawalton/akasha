@@ -41,4 +41,6 @@ export const exportSpelling = {
       statement: "Nothing here reads the disk.",
     },
   ],
+  createdAt: "2026-09-12T05:25:09.322Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

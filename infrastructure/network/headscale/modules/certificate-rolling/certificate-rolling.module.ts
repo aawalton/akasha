@@ -18,4 +18,6 @@ export const certificateRolling = {
       statement: "The job reaches only the one secret and the one workload in their own namespace.",
     },
   ],
+  createdAt: "2026-09-24T23:05:37.802Z",
+  updatedAt: "2026-09-24T23:05:46.000Z",
 } as const satisfies Module

@@ -141,4 +141,6 @@ export const rruleWording = {
       statement: "A rule is wordable exactly where the wording does not fall back on its text.",
     },
   ],
+  createdAt: "2026-09-21T17:18:01.722Z",
+  updatedAt: "2026-09-25T15:03:09.000Z",
 } as const satisfies Module

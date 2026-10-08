@@ -97,4 +97,6 @@ export const packageReaching = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-01T02:55:51.408Z",
+  updatedAt: "2026-09-25T15:05:23.000Z",
 } as const satisfies Module

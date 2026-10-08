@@ -16,4 +16,6 @@ export const relationPopover = {
       statement: "A relation is taken away by the value the page carries rather than by an id.",
     },
   ],
+  createdAt: "2026-09-02T09:40:45.997Z",
+  updatedAt: "2026-09-22T14:08:59.000Z",
 } as const satisfies Module

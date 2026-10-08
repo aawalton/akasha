@@ -6,4 +6,6 @@ export const quickAddForm = {
   slug: "quick-add-form",
   definition: "the form a new page is typed into, with inline tokens taken as properties",
   code: "tsx",
+  createdAt: "2026-09-02T13:38:02.104Z",
+  updatedAt: "2026-09-22T13:25:39.000Z",
 } as const satisfies Module

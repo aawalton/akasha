@@ -276,4 +276,6 @@ export const serviceBundling = {
       statement: "The commit a service was last put up at is read off the bundle its unit names.",
     },
   ],
+  createdAt: "2026-09-22T15:01:18.363Z",
+  updatedAt: "2026-09-26T20:36:03.000Z",
 } as const satisfies Module

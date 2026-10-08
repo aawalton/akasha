@@ -6,4 +6,6 @@ export const innworldAppId = {
   slug: "innworld-app-id",
   definition: "this wiki's id and the app page a nav item names",
   code: "ts",
+  createdAt: "2026-09-25T15:23:23.311Z",
+  updatedAt: "2026-09-25T15:23:35.000Z",
 } as const satisfies Module

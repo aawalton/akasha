@@ -40,4 +40,6 @@ export const pagesByRelationContent = {
       statement: "A relation picker in a listing asks for the pages of the relation's own type.",
     },
   ],
+  createdAt: "2026-09-02T13:40:15.882Z",
+  updatedAt: "2026-09-28T20:54:14.000Z",
 } as const satisfies Module

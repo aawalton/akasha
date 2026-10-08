@@ -6,4 +6,6 @@ export const filterToCondition = {
   slug: "filter-to-condition",
   definition: "the page conditions out of a property filter",
   code: "ts",
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-22T13:48:27.000Z",
 } as const satisfies Module

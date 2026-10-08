@@ -29,4 +29,6 @@ export const pageAudio = {
         "Those words are counted in the page's own length, from the sentence's first word.",
     },
   ],
+  createdAt: "2026-10-05T20:39:17.003Z",
+  updatedAt: "2026-10-06T15:19:52.000Z",
 } as const satisfies Module

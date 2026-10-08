@@ -74,4 +74,6 @@ export const phaseTiming = {
         "A run's whole time is from its first phase's start to its last phase's end, leaving out the player.",
     },
   ],
+  createdAt: "2026-09-28T18:27:12.495Z",
+  updatedAt: "2026-09-28T18:41:13.000Z",
 } as const satisfies Module

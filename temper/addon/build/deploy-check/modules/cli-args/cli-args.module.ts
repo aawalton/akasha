@@ -33,4 +33,6 @@ export const cliArgs = {
       statement: "A line naming no single file, or no line this shape reads, is one file of none.",
     },
   ],
+  createdAt: "2026-09-02T14:30:40.449Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

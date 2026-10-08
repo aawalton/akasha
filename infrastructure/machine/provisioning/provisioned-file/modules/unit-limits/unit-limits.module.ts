@@ -21,4 +21,6 @@ export const unitLimits = {
       statement: "A whole number of gigabytes is written in gigabytes, and any other in megabytes.",
     },
   ],
+  createdAt: "2026-09-24T23:02:48.521Z",
+  updatedAt: "2026-09-24T23:03:02.000Z",
 } as const satisfies Module

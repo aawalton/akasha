@@ -44,4 +44,6 @@ export const recordPropertyBadge = {
       statement: "No field drawn here is edited.",
     },
   ],
+  createdAt: "2026-09-22T15:15:59.950Z",
+  updatedAt: "2026-09-22T15:32:41.000Z",
 } as const satisfies Module

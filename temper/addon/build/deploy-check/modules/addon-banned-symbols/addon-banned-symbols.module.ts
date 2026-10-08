@@ -36,4 +36,6 @@ export const addonBannedSymbols = {
       statement: "A line falling back from `table.unpack` to the `unpack` the game keeps is no finding.",
     },
   ],
+  createdAt: "2026-09-02T18:33:38.087Z",
+  updatedAt: "2026-09-25T13:27:47.000Z",
 } as const satisfies Module

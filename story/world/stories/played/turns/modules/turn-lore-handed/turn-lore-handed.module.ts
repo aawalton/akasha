@@ -21,4 +21,6 @@ export const turnLoreHanded = {
       statement: "A refusal names the address it refuses.",
     },
   ],
+  createdAt: "2026-09-30T08:42:32.180Z",
+  updatedAt: "2026-09-30T08:43:28.000Z",
 } as const satisfies Module

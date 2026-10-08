@@ -7,4 +7,6 @@ export const useOptimisticUpsertPage = {
   definition:
     "Overlays a predicted upsert on a page in the local store, then runs the caller's upsert.",
   code: "ts",
+  createdAt: "2026-09-02T11:07:06.702Z",
+  updatedAt: "2026-09-22T10:08:53.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const deleting = {
       statement: "A removal takes the page's file rather than raising a flag on that page.",
     },
   ],
+  createdAt: "2026-09-01T07:19:56.971Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

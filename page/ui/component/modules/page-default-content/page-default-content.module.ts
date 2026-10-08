@@ -42,4 +42,6 @@ export const pageDefaultContent = {
         "A page type's own component may ask for the title alone, drawn as wide as the page.",
     },
   ],
+  createdAt: "2026-09-02T13:41:59.083Z",
+  updatedAt: "2026-09-28T19:01:09.000Z",
 } as const satisfies Module

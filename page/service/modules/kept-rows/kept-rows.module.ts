@@ -35,4 +35,6 @@ export const keptRows = {
       statement: "Nothing here writes a file.",
     },
   ],
+  createdAt: "2026-09-25T13:09:53.526Z",
+  updatedAt: "2026-09-25T13:10:28.000Z",
 } as const satisfies Module

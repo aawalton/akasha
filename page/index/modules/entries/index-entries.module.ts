@@ -108,4 +108,6 @@ export const indexEntries = {
       statement: "A page type that is a file property group holds nothing of its own in a file.",
     },
   ],
+  createdAt: "2026-08-29T03:03:42.021Z",
+  updatedAt: "2026-09-25T16:23:24.000Z",
 } as const satisfies Module

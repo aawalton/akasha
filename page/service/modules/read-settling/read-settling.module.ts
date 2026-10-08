@@ -63,4 +63,6 @@ export const readSettling = {
       statement: "No read is answered again or refused for a landing that came and went.",
     },
   ],
+  createdAt: "2026-09-27T12:51:05.807Z",
+  updatedAt: "2026-09-27T18:00:58.000Z",
 } as const satisfies Module

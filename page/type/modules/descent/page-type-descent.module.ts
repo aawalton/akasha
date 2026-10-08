@@ -41,4 +41,6 @@ export const pageTypeDescent = {
       statement: "Nothing here walks the pages.",
     },
   ],
+  createdAt: "2026-08-29T18:31:00.822Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

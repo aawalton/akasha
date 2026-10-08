@@ -20,4 +20,6 @@ export const completionMark = {
       statement: "A page not begun is marked with an empty circle.",
     },
   ],
+  createdAt: "2026-10-02T15:16:29.103Z",
+  updatedAt: "2026-10-02T15:16:49.000Z",
 } as const satisfies Module

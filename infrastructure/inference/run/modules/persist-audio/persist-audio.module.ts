@@ -24,4 +24,6 @@ export const persistAudio = {
       statement: "Nothing here names an object store.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-21T23:23:42.000Z",
 } as const satisfies Module

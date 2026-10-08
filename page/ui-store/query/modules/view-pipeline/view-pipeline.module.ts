@@ -6,4 +6,6 @@ export const viewPipeline = {
   slug: "view-pipeline",
   definition: "the pipeline answering with the pages a view holds",
   code: "ts",
+  createdAt: "2026-09-01T05:20:20.818Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

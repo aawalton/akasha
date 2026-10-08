@@ -86,4 +86,6 @@ export const deploySubjectListing = {
       statement: "Nothing here reads what a deploy last put up.",
     },
   ],
+  createdAt: "2026-09-12T11:58:31.077Z",
+  updatedAt: "2026-09-25T17:25:02.000Z",
 } as const satisfies Module

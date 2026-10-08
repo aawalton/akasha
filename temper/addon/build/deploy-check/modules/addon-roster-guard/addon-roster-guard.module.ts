@@ -12,4 +12,6 @@ export const addonRosterGuard = {
       statement: "A scan over an empty roster reports clean without having looked at anything.",
     },
   ],
+  createdAt: "2026-09-02T14:30:40.449Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

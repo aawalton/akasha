@@ -55,4 +55,6 @@ export const playedChannel = {
       statement: "No session divider is drawn, because no played turn states a session.",
     },
   ],
+  createdAt: "2026-09-14T19:26:29.125Z",
+  updatedAt: "2026-10-02T17:25:43.000Z",
 } as const satisfies Module

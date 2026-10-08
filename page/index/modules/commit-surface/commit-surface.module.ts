@@ -63,4 +63,6 @@ export const commitSurface = {
       statement: "The commit is named by the caller asking.",
     },
   ],
+  createdAt: "2026-09-22T19:56:10.452Z",
+  updatedAt: "2026-09-25T17:48:15.000Z",
 } as const satisfies Module

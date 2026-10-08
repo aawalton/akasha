@@ -21,4 +21,6 @@ export const pagePutting = {
       statement: "Nothing here lands what it names.",
     },
   ],
+  createdAt: "2026-09-22T13:17:26.005Z",
+  updatedAt: "2026-09-22T13:19:46.000Z",
 } as const satisfies Module

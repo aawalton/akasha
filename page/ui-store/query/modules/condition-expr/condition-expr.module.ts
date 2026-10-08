@@ -12,4 +12,6 @@ export const conditionExpr = {
       statement: "A condition on a path is written as no expression and is weighed over the rows.",
     },
   ],
+  createdAt: "2026-09-01T05:20:20.813Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

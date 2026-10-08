@@ -90,4 +90,6 @@ export const deployChoosing = {
         "That wait is what keeps a service that cannot be put up from starving the rest of its kind.",
     },
   ],
+  createdAt: "2026-09-12T11:50:32.060Z",
+  updatedAt: "2026-09-25T16:09:43.000Z",
 } as const satisfies Module

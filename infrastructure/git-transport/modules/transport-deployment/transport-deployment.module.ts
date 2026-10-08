@@ -44,4 +44,6 @@ export const transportDeployment = {
       statement: "Where that code sits in the cache is asked of the index rather than spelled.",
     },
   ],
+  createdAt: "2026-09-03T16:24:39.441Z",
+  updatedAt: "2026-09-21T19:34:49.000Z",
 } as const satisfies Module

@@ -93,5 +93,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-08T15:13:58.386Z",
+  updatedAt: "2026-10-08T16:01:46.396Z",
+  createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module

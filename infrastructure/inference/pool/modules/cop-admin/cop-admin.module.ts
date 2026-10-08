@@ -21,4 +21,6 @@ export const copAdmin = {
       statement: "An activate posted is named before its answer is read, since that read can fail.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

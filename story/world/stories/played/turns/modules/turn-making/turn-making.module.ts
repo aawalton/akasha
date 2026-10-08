@@ -30,4 +30,6 @@ export const turnMaking = {
         "A story left with no open turn makes its next turn after its last chapter's last turn.",
     },
   ],
+  createdAt: "2026-09-26T17:39:09.550Z",
+  updatedAt: "2026-09-28T02:27:32.000Z",
 } as const satisfies Module

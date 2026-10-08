@@ -31,4 +31,6 @@ export const propertyConfigSchemas = {
       statement: "Nothing here says which shade a named color draws as.",
     },
   ],
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-25T20:02:34.000Z",
 } as const satisfies Module

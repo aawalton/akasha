@@ -12,4 +12,6 @@ export const dockerfileNextjs = {
       statement: "The source folders copied in are the ones the app's entry files reach.",
     },
   ],
+  createdAt: "2026-09-03T17:51:28.767Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const pageBadge = {
       statement: "A page no page type above it draws takes the chip beside page.",
     },
   ],
+  createdAt: "2026-09-14T17:19:48.361Z",
+  updatedAt: "2026-09-22T10:17:30.000Z",
 } as const satisfies Module

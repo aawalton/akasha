@@ -61,4 +61,6 @@ export const tickSleeping = {
       statement: "No service that keeps running writes this wait for itself.",
     },
   ],
+  createdAt: "2026-09-03T17:56:43.735Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

@@ -31,4 +31,6 @@ export const beatMemory = {
         "A fact the world builder wrote stays the world builder's, and only its knowers grow.",
     },
   ],
+  createdAt: "2026-10-03T16:12:10.071Z",
+  updatedAt: "2026-10-03T16:12:18.000Z",
 } as const satisfies Module

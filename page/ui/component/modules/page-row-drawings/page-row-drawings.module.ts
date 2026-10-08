@@ -6,4 +6,6 @@ export const pageRowDrawings = {
   slug: "page-row-drawings",
   definition: "the row each page type draws a page of that type as, taken by the bundler",
   code: "ts",
+  createdAt: "2026-09-14T17:43:54.403Z",
+  updatedAt: "2026-09-22T14:22:32.000Z",
 } as const satisfies Module

@@ -7,4 +7,6 @@ export const pageSystemViewHelpers = {
   definition:
     "Sorting server-grouped sections, the empty state, the create button and the timeline body.",
   code: "tsx",
+  createdAt: "2026-09-02T12:08:30.267Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

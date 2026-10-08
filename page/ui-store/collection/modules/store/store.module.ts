@@ -100,4 +100,6 @@ export const store = {
       statement: "The roster carried that way lets a shape attach without waiting to ask for it.",
     },
   ],
+  createdAt: "2026-09-01T05:20:20.806Z",
+  updatedAt: "2026-09-27T14:39:42.000Z",
 } as const satisfies Module

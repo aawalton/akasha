@@ -6,4 +6,6 @@ export const clusterNodes = {
   slug: "cluster-nodes",
   definition: "the hosts the cluster runs on, with each host's address and account",
   code: "ts",
+  createdAt: "2026-09-07T15:52:13.165Z",
+  updatedAt: "2026-09-22T13:46:54.000Z",
 } as const satisfies Module

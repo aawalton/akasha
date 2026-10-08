@@ -6,4 +6,6 @@ export const relationFilterInputs = {
   slug: "relation-filter-inputs",
   definition: "The inputs a relation filter takes, for one related page or for many.",
   code: "tsx",
+  createdAt: "2026-09-02T11:43:33.486Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const pageCover = {
       statement: "An image's cover is that image, whatever cover the image states.",
     },
   ],
+  createdAt: "2026-09-02T09:40:45.997Z",
+  updatedAt: "2026-09-27T20:37:15.000Z",
 } as const satisfies Module

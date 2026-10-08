@@ -51,4 +51,6 @@ export const coverRedrawing = {
         "A picture made again takes a new seed, since the old seed makes the same picture.",
     },
   ],
+  createdAt: "2026-10-04T08:32:02.818Z",
+  updatedAt: "2026-10-04T09:17:50.000Z",
 } as const satisfies Module

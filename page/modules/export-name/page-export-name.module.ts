@@ -63,4 +63,6 @@ export const pageExportName = {
       statement: "Nothing here folds a key that is no slug.",
     },
   ],
+  createdAt: "2026-08-29T16:07:03.896Z",
+  updatedAt: "2026-09-25T15:17:40.000Z",
 } as const satisfies Module

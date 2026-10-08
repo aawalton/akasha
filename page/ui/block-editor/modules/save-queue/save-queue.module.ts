@@ -6,4 +6,6 @@ export const saveQueue = {
   slug: "save-queue",
   definition: "a queue running one write at a time, each waiting on the one before it",
   code: "ts",
+  createdAt: "2026-09-01T10:22:24.361Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

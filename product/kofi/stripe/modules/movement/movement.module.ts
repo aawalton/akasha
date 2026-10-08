@@ -37,4 +37,6 @@ export const movement = {
       statement: "Nothing here reaches Stripe or the pages.",
     },
   ],
+  createdAt: "2026-09-19T16:58:09.440Z",
+  updatedAt: "2026-09-24T23:10:22.000Z",
 } as const satisfies Module

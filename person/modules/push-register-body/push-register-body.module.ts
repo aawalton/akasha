@@ -33,4 +33,6 @@ export const pushRegisterBody = {
       statement: "A body carrying anything beyond those three is refused.",
     },
   ],
+  createdAt: "2026-09-01T04:57:50.087Z",
+  updatedAt: "2026-09-19T17:01:45.000Z",
 } as const satisfies Module

@@ -54,4 +54,6 @@ export const derivedBeside = {
       statement: "Nothing here writes a page.",
     },
   ],
+  createdAt: "2026-09-26T16:02:43.763Z",
+  updatedAt: "2026-09-26T17:42:10.000Z",
 } as const satisfies Module

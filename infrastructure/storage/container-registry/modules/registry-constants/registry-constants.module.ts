@@ -6,4 +6,6 @@ export const registryConstants = {
   slug: "registry-constants",
   definition: "the namespace and labels the image store's workloads carry",
   code: "ts",
+  createdAt: "2026-09-03T16:17:58.883Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

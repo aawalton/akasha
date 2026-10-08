@@ -16,4 +16,6 @@ export const viewTabContent = {
       statement: "A tab drawn beneath a page lists the rows that page narrows its view to.",
     },
   ],
+  createdAt: "2026-09-02T13:40:15.886Z",
+  updatedAt: "2026-09-28T20:50:55.000Z",
 } as const satisfies Module

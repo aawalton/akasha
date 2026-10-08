@@ -16,4 +16,6 @@ export const appEditing = {
       statement: "An app that is not edited from the browser shows no act that would edit it.",
     },
   ],
+  createdAt: "2026-09-21T19:58:02.962Z",
+  updatedAt: "2026-09-21T22:26:12.000Z",
 } as const satisfies Module

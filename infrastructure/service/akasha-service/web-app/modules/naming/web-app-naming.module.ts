@@ -16,4 +16,6 @@ export const webAppNaming = {
       statement: "A web app whose page has no title is shown under its slug.",
     },
   ],
+  createdAt: "2026-09-27T11:44:10.973Z",
+  updatedAt: "2026-09-27T11:44:33.000Z",
 } as const satisfies Module

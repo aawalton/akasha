@@ -39,4 +39,6 @@ export const beatProse = {
       statement: "Beat 1 has no paragraph before it, so beat 1 continuing is refused.",
     },
   ],
+  createdAt: "2026-10-03T20:59:13.938Z",
+  updatedAt: "2026-10-07T00:33:13.000Z",
 } as const satisfies Module

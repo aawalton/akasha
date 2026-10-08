@@ -13,4 +13,6 @@ export const propertyRow = {
       statement: "A property no page type above it draws takes the row beside page-property.",
     },
   ],
+  createdAt: "2026-09-14T16:49:16.703Z",
+  updatedAt: "2026-09-22T10:05:52.000Z",
 } as const satisfies Module

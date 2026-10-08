@@ -33,4 +33,6 @@ export const keyNaming = {
       statement: "Nothing here judges whether a key is declared, nor rewrites a body.",
     },
   ],
+  createdAt: "2026-09-21T19:22:27.597Z",
+  updatedAt: "2026-09-21T19:25:53.000Z",
 } as const satisfies Module

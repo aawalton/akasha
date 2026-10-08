@@ -46,4 +46,6 @@ export const fileWriteNarrow = {
       statement: "Nothing here reaches the service.",
     },
   ],
+  createdAt: "2026-09-06T11:54:28.537Z",
+  updatedAt: "2026-09-27T16:36:46.000Z",
 } as const satisfies Module

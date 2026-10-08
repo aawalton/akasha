@@ -82,5 +82,6 @@ export const narrationPlayer = {
       statement: "The app takes the lock screen's play and pause while a narration opens or plays.",
     },
   ],
-  updatedAt: "2026-10-08T15:57:10.204Z",
+  updatedAt: "2026-10-08T16:01:46.396Z",
+  createdAt: "2026-10-05T20:45:59.482Z",
 } as const satisfies Module

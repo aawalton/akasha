@@ -16,4 +16,6 @@ export const panelShowing = {
       statement: "A panel's own page writes no markup, so its code runs in a browser unturned.",
     },
   ],
+  createdAt: "2026-09-21T15:53:16.697Z",
+  updatedAt: "2026-09-26T17:41:29.000Z",
 } as const satisfies Module

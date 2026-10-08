@@ -6,4 +6,6 @@ export const archiveOfWorldsNavCommand = {
   slug: "archive-of-worlds-nav-command",
   definition: "the keys by which a reader reaches each archive of worlds nav",
   code: "tsx",
+  createdAt: "2026-09-03T04:23:43.671Z",
+  updatedAt: "2026-09-22T14:00:26.000Z",
 } as const satisfies Module

@@ -29,4 +29,6 @@ export const turnNotice = {
       statement: "Nothing here reads the disk.",
     },
   ],
+  createdAt: "2026-09-27T16:20:43.650Z",
+  updatedAt: "2026-09-27T16:20:56.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const relation = {
       statement: "A relation names the page type it points at by that page type's id or its slug.",
     },
   ],
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-28T19:41:04.000Z",
 } as const satisfies Module

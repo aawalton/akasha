@@ -6,4 +6,6 @@ export const viewFilterToCondition = {
   slug: "view-filter-to-condition",
   definition: "the query condition a view's filters come to",
   code: "ts",
+  createdAt: "2026-09-01T11:22:40.762Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

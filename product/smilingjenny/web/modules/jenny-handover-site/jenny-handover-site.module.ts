@@ -16,4 +16,6 @@ export const jennyHandoverSite = {
       statement: "Jenny's site signs its own cookie with `SMILINGJENNY_SESSION_KEY`.",
     },
   ],
+  createdAt: "2026-09-21T02:56:04.386Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const idSuffixPipeline = {
   slug: "id-suffix-pipeline",
   definition: "the pipeline answering with the page an id suffix names",
   code: "ts",
+  createdAt: "2026-09-01T05:20:20.814Z",
+  updatedAt: "2026-09-22T10:13:52.000Z",
 } as const satisfies Module

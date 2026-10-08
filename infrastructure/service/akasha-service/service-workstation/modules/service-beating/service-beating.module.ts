@@ -73,4 +73,6 @@ export const serviceBeating = {
       statement: "Nothing here says a service is broken or tells anyone so.",
     },
   ],
+  createdAt: "2026-09-10T18:59:56.795Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

@@ -26,4 +26,6 @@ export const formatReaching = {
       statement: "Each format is loaded once and held.",
     },
   ],
+  createdAt: "2026-08-30T00:02:24.216Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

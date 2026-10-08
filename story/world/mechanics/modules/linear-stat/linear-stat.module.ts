@@ -25,4 +25,6 @@ export const linearStat = {
       statement: "Nothing here knows which mechanic is summing.",
     },
   ],
+  createdAt: "2026-09-21T14:49:39.118Z",
+  updatedAt: "2026-09-26T14:47:20.000Z",
 } as const satisfies Module

@@ -29,4 +29,6 @@ export const diceRolling = {
       statement: "Nothing here settles a seed or reads what the faces come to.",
     },
   ],
+  createdAt: "2026-09-21T21:55:58.960Z",
+  updatedAt: "2026-09-26T14:47:20.000Z",
 } as const satisfies Module

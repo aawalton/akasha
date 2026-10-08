@@ -20,4 +20,6 @@ export const fileShape = {
       statement: "A page type's declarations go unread here.",
     },
   ],
+  createdAt: "2026-09-01T07:19:56.977Z",
+  updatedAt: "2026-09-25T13:39:49.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const valueFilterInputs = {
   slug: "value-filter-inputs",
   definition: "the inputs taking a filter's comparison value",
   code: "tsx",
+  createdAt: "2026-09-02T09:40:45.997Z",
+  updatedAt: "2026-09-22T13:48:49.000Z",
 } as const satisfies Module

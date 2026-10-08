@@ -34,4 +34,6 @@ export const innworldShelves = {
         "An item leading nowhere of its own links its nav page and reaches the type its first view lists.",
     },
   ],
+  createdAt: "2026-09-25T15:23:23.312Z",
+  updatedAt: "2026-09-28T22:20:47.000Z",
 } as const satisfies Module

@@ -34,4 +34,6 @@ export const listingReadiness = {
       statement: "Held rows are kept for a bounded number of the listings read most lately.",
     },
   ],
+  createdAt: "2026-09-27T07:12:24.887Z",
+  updatedAt: "2026-09-27T07:40:21.000Z",
 } as const satisfies Module

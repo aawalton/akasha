@@ -37,4 +37,6 @@ export const turnLifecycle = {
         "A notice moving a turn to game-master names the player's intent for the character.",
     },
   ],
+  createdAt: "2026-09-26T17:28:05.792Z",
+  updatedAt: "2026-10-03T21:31:25.000Z",
 } as const satisfies Module

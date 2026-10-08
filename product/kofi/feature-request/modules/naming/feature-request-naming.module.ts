@@ -41,4 +41,6 @@ export const featureRequestNaming = {
       statement: "Nothing here reads which names are taken, the caller handing those in.",
     },
   ],
+  createdAt: "2026-09-21T17:31:58.312Z",
+  updatedAt: "2026-09-21T17:42:53.000Z",
 } as const satisfies Module

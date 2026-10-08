@@ -6,4 +6,6 @@ export const useViewTabContentData = {
   slug: "use-view-tab-content-data",
   definition: "The rows, groups and definitions a view tab shows.",
   code: "ts",
+  createdAt: "2026-09-02T12:08:30.268Z",
+  updatedAt: "2026-09-22T10:17:30.000Z",
 } as const satisfies Module

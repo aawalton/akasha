@@ -59,4 +59,6 @@ export const fetchAttach = {
       statement: "A row a wider page type's shape reads keeps the keys only its own type states.",
     },
   ],
+  createdAt: "2026-09-01T05:20:20.799Z",
+  updatedAt: "2026-10-05T20:29:55.000Z",
 } as const satisfies Module

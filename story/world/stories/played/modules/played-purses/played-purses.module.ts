@@ -24,4 +24,6 @@ export const playedPurses = {
       statement: "Nothing here writes a page.",
     },
   ],
+  createdAt: "2026-10-02T15:23:23.791Z",
+  updatedAt: "2026-10-02T15:23:56.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const viewRow = {
   slug: "view-row",
   definition: "the shape of a row a view draws",
   code: "ts",
+  createdAt: "2026-09-01T11:13:02.032Z",
+  updatedAt: "2026-09-22T10:07:59.000Z",
 } as const satisfies Module

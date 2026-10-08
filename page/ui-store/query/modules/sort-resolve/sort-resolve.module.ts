@@ -20,4 +20,6 @@ export const sortResolve = {
       statement: "A shuffle keeps its order while that load lasts and changes on the next load.",
     },
   ],
+  createdAt: "2026-09-01T05:20:20.816Z",
+  updatedAt: "2026-09-27T22:18:31.000Z",
 } as const satisfies Module

@@ -59,4 +59,6 @@ export const comfyClient = {
         "A history the poll cannot reach is retried until the deadline rather than refused.",
     },
   ],
+  createdAt: "2026-09-03T16:50:11.317Z",
+  updatedAt: "2026-10-04T12:20:13.000Z",
 } as const satisfies Module

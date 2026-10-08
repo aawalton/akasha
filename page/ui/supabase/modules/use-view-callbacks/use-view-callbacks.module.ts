@@ -6,4 +6,6 @@ export const useViewCallbacks = {
   slug: "use-view-callbacks",
   definition: "The callbacks a view uses to create, patch and delete the pages it lists.",
   code: "ts",
+  createdAt: "2026-09-02T11:43:33.486Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

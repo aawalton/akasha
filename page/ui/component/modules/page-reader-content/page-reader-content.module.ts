@@ -32,4 +32,6 @@ export const pageReaderContent = {
         "A page whose type renders its pages as audio offers Play Audio in its menu where a player is held.",
     },
   ],
+  createdAt: "2026-09-02T12:08:30.268Z",
+  updatedAt: "2026-10-06T15:23:54.000Z",
 } as const satisfies Module

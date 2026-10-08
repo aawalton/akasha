@@ -21,4 +21,6 @@ export const chapterBeatReading = {
       statement: "A chapter's beats version changes with its cover or any of its scenes.",
     },
   ],
+  createdAt: "2026-10-04T09:30:40.247Z",
+  updatedAt: "2026-10-04T13:27:04.000Z",
 } as const satisfies Module

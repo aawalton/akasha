@@ -33,4 +33,6 @@ export const callReading = {
       statement: "Nothing here answers a call.",
     },
   ],
+  createdAt: "2026-09-14T22:46:33.933Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

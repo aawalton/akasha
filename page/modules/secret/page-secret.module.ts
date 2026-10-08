@@ -88,4 +88,6 @@ export const pageSecret = {
       statement: "The key names a file has are read without decrypting that file.",
     },
   ],
+  createdAt: "2026-08-30T22:26:16.878Z",
+  updatedAt: "2026-09-25T16:43:40.000Z",
 } as const satisfies Module

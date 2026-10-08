@@ -25,4 +25,6 @@ export const viewPageContent = {
         "A view's settings changed by nobody signed in are kept in the browser and not written.",
     },
   ],
+  createdAt: "2026-09-02T13:40:15.885Z",
+  updatedAt: "2026-09-28T22:13:55.000Z",
 } as const satisfies Module

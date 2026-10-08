@@ -6,4 +6,6 @@ export const headscaleConfigmaps = {
   slug: "headscale-configmaps",
   definition: "the config maps with the coordination server's settings and access rules",
   code: "ts",
+  createdAt: "2026-09-05T22:26:55.500Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

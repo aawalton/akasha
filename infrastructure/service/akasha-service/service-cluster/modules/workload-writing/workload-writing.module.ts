@@ -17,4 +17,6 @@ export const workloadWriting = {
       statement: "Nothing here reads a page.",
     },
   ],
+  createdAt: "2026-09-25T16:36:42.311Z",
+  updatedAt: "2026-09-25T16:37:05.000Z",
 } as const satisfies Module

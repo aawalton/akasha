@@ -59,4 +59,6 @@ export const devServerTree = {
       statement: "A folder stays open to writing, so a build and a cache are made inside the tree.",
     },
   ],
+  createdAt: "2026-09-19T00:29:33.407Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

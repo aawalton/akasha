@@ -41,4 +41,6 @@ export const incrementProperty = {
       statement: "Increments sent together are each counted.",
     },
   ],
+  createdAt: "2026-09-24T19:23:46.840Z",
+  updatedAt: "2026-09-24T19:25:02.000Z",
 } as const satisfies Module

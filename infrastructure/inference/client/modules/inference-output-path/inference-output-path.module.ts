@@ -33,4 +33,6 @@ export const inferenceOutputPath = {
       statement: "The folder a path names is made before the file is written.",
     },
   ],
+  createdAt: "2026-09-03T16:50:11.317Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

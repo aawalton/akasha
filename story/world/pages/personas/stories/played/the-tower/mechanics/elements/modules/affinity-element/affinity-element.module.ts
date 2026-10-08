@@ -32,4 +32,6 @@ export const affinityElement = {
       statement: "Cold is no element a climber absorbs.",
     },
   ],
+  createdAt: "2026-09-21T17:30:15.563Z",
+  updatedAt: "2026-09-26T14:30:52.000Z",
 } as const satisfies Module

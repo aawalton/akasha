@@ -29,4 +29,6 @@ export const refusalFault = {
       statement: "Only a refusal a race brought on may land when sent again unchanged.",
     },
   ],
+  createdAt: "2026-09-25T15:23:53.650Z",
+  updatedAt: "2026-09-25T15:38:39.000Z",
 } as const satisfies Module

@@ -119,4 +119,6 @@ export const deviceTokenRegistration = {
       statement: "Nothing here reaches Apple.",
     },
   ],
+  createdAt: "2026-09-01T10:49:24.725Z",
+  updatedAt: "2026-09-25T15:27:30.000Z",
 } as const satisfies Module

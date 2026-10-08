@@ -87,4 +87,6 @@ export const sheetPanel = {
         "A part of the sheet already opened says it holds none yet rather than going away.",
     },
   ],
+  createdAt: "2026-09-02T14:52:27.089Z",
+  updatedAt: "2026-10-03T20:11:47.000Z",
 } as const satisfies Module

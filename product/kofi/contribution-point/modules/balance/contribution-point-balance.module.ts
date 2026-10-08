@@ -25,4 +25,6 @@ export const contributionPointBalance = {
       statement: "Nothing here reads a contributor's page, the caller handing the lines in.",
     },
   ],
+  createdAt: "2026-09-21T17:31:58.312Z",
+  updatedAt: "2026-09-21T17:42:53.000Z",
 } as const satisfies Module

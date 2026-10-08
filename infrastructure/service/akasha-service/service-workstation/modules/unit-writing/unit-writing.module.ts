@@ -152,4 +152,6 @@ export const unitWriting = {
       statement: "An exit a unit counts as a success fails that unit, and so tells, by nothing.",
     },
   ],
+  createdAt: "2026-09-01T00:20:28.273Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

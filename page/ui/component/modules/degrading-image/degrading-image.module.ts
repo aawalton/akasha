@@ -7,4 +7,6 @@ export const degradingImage = {
   definition:
     "Renders an img that swaps to fallback content on load error, resetting when src changes.",
   code: "tsx",
+  createdAt: "2026-09-01T09:15:01.906Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

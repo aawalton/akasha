@@ -65,5 +65,6 @@ export const desktopWallpaperSetting = {
       statement: "Nothing here asks on a schedule what the wallpaper should be.",
     },
   ],
-  updatedAt: "2026-10-08T14:57:48.470Z",
+  updatedAt: "2026-10-08T16:01:46.396Z",
+  createdAt: "2026-09-06T20:31:24.200Z",
 } as const satisfies Module

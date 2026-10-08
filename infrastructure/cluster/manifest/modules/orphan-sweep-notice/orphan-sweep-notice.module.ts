@@ -21,4 +21,6 @@ export const orphanSweepNotice = {
       statement: "Every orphan is named with the deploy that manages that orphan.",
     },
   ],
+  createdAt: "2026-09-03T17:59:28.300Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

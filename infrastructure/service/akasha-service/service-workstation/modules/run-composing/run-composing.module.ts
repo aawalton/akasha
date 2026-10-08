@@ -74,4 +74,6 @@ export const runComposing = {
         "A page handed over as an argument keeps its own path, since a page is read under the root.",
     },
   ],
+  createdAt: "2026-09-11T01:05:05.855Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

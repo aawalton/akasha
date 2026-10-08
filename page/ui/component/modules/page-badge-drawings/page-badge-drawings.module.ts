@@ -6,4 +6,6 @@ export const pageBadgeDrawings = {
   slug: "page-badge-drawings",
   definition: "the chip each page type draws a page of that type as, taken by the bundler",
   code: "ts",
+  createdAt: "2026-09-14T17:19:59.506Z",
+  updatedAt: "2026-09-22T14:22:32.000Z",
 } as const satisfies Module

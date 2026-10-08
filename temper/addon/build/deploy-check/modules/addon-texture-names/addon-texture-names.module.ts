@@ -40,4 +40,6 @@ export const addonTextureNames = {
       statement: "A path is compared in lower case with forward slashes, as the game compares it.",
     },
   ],
+  createdAt: "2026-09-25T17:40:52.574Z",
+  updatedAt: "2026-09-25T18:28:56.000Z",
 } as const satisfies Module

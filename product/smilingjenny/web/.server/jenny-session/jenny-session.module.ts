@@ -33,4 +33,6 @@ export const jennySession = {
       statement: "What a refused caller is told is said on the site's home document.",
     },
   ],
+  createdAt: "2026-09-03T03:38:30.988Z",
+  updatedAt: "2026-09-27T12:25:16.000Z",
 } as const satisfies Module

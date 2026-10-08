@@ -34,4 +34,6 @@ export const narrationReport = {
       statement: "A report that fails to send is dropped and changes nothing Alan hears.",
     },
   ],
+  createdAt: "2026-10-07T01:28:49.165Z",
+  updatedAt: "2026-10-07T01:28:56.000Z",
 } as const satisfies Module

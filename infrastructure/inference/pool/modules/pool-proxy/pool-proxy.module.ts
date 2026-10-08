@@ -6,4 +6,6 @@ export const poolProxy = {
   slug: "pool-proxy",
   definition: "a request passed to a service's own port and the answer passed back",
   code: "ts",
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

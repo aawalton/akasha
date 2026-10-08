@@ -131,4 +131,6 @@ export const declaredProperties = {
       statement: "A property naming what alone writes it is answered with that writer beside it.",
     },
   ],
+  createdAt: "2026-08-30T18:37:37.579Z",
+  updatedAt: "2026-09-25T16:47:26.000Z",
 } as const satisfies Module

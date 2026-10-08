@@ -66,4 +66,6 @@ export const beatReading = {
       statement: "A chapter whose beats carry no prose is drawn as it was, from its prose file.",
     },
   ],
+  createdAt: "2026-10-03T20:59:13.938Z",
+  updatedAt: "2026-10-07T00:36:52.000Z",
 } as const satisfies Module

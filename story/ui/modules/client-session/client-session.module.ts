@@ -7,4 +7,6 @@ export const clientSession = {
   definition:
     "a game state narrowed to the hud, beats, quests, sheet and chapter links a browser gets",
   code: "ts",
+  createdAt: "2026-09-02T14:38:30.874Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

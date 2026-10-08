@@ -6,4 +6,6 @@ export const convergence = {
   slug: "convergence",
   definition: "waiting until a written row reads back as what was written",
   code: "ts",
+  createdAt: "2026-09-01T05:20:20.809Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const systemChoiceCard = {
   slug: "system-choice-card",
   definition: "a system choice as a card of selectable options under a confirm button",
   code: "tsx",
+  createdAt: "2026-09-02T17:25:53.926Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

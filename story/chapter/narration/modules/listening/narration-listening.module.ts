@@ -71,5 +71,6 @@ export const narrationListening = {
       statement: "hls.js holds ten minutes of a narration past the playhead.",
     },
   ],
-  updatedAt: "2026-10-08T15:57:10.204Z",
+  updatedAt: "2026-10-08T16:01:46.396Z",
+  createdAt: "2026-10-05T20:45:59.481Z",
 } as const satisfies Module

@@ -22,4 +22,6 @@ export const endingRefusing = {
       statement: "That refusal says to write the file at a path of its own.",
     },
   ],
+  createdAt: "2026-09-27T01:32:29.064Z",
+  updatedAt: "2026-09-27T01:32:59.000Z",
 } as const satisfies Module

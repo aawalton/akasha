@@ -14,4 +14,6 @@ export const usePageDefaultContent = {
         "A page's content loads until the page, the page types and its related pages are in.",
     },
   ],
+  createdAt: "2026-09-02T12:08:30.268Z",
+  updatedAt: "2026-09-27T07:53:01.000Z",
 } as const satisfies Module

@@ -41,4 +41,6 @@ export const verifyStripeSignature = {
       statement: "Nothing here throws.",
     },
   ],
+  createdAt: "2026-09-19T16:51:06.269Z",
+  updatedAt: "2026-09-19T16:52:17.000Z",
 } as const satisfies Module

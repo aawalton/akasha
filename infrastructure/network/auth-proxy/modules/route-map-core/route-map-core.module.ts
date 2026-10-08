@@ -16,4 +16,6 @@ export const routeMapCore = {
       statement: "Text the proxy cannot read as a map stops the proxy from starting.",
     },
   ],
+  createdAt: "2026-09-03T17:49:10.140Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

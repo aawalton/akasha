@@ -6,4 +6,6 @@ export const applyPrediction = {
   slug: "apply-prediction",
   definition: "Runs a mutation against the pages store with its optimistic plans applied first.",
   code: "ts",
+  createdAt: "2026-09-02T09:13:05.030Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

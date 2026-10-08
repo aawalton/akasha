@@ -16,4 +16,6 @@ export const pageHref = {
       statement: "A page with no id is written as no link rather than as a link to nowhere.",
     },
   ],
+  createdAt: "2026-09-01T08:26:25.761Z",
+  updatedAt: "2026-09-22T10:07:59.000Z",
 } as const satisfies Module

@@ -46,4 +46,6 @@ export const holdNaming = {
       statement: "A phase is kept on a landing only at or over the least time its mark names.",
     },
   ],
+  createdAt: "2026-09-27T16:07:55.274Z",
+  updatedAt: "2026-09-27T19:41:56.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const zimageEditRunning = {
       statement: "The seed is the caller's, so the caller can record the seed it drew.",
     },
   ],
+  createdAt: "2026-10-04T08:27:57.011Z",
+  updatedAt: "2026-10-04T09:17:50.000Z",
 } as const satisfies Module

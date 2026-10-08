@@ -29,4 +29,6 @@ export const smsConsent = {
       statement: "Nothing here records who agreed.",
     },
   ],
+  createdAt: "2026-09-01T04:57:50.082Z",
+  updatedAt: "2026-09-27T12:13:50.000Z",
 } as const satisfies Module

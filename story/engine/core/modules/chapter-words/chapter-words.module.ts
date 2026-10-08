@@ -7,4 +7,6 @@ export const chapterWords = {
   definition: "how many words a chapter holds, once the speaker marker opening a paragraph is off",
   code: "ts",
   test: "ts",
+  createdAt: "2026-09-02T14:30:33.190Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

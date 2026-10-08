@@ -16,4 +16,6 @@ export const buildPatchPlan = {
       statement: "Every other key is set in the attributes.",
     },
   ],
+  createdAt: "2026-09-01T11:22:40.762Z",
+  updatedAt: "2026-09-22T10:08:53.000Z",
 } as const satisfies Module

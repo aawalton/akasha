@@ -74,4 +74,6 @@ export const binaryRunning = {
       statement: "Importing this module's file runs nothing.",
     },
   ],
+  createdAt: "2026-09-11T18:12:44.190Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

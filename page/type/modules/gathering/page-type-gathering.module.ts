@@ -33,4 +33,6 @@ export const pageTypeGathering = {
       statement: "The types gathered from one reading are gathered once for that reading and held.",
     },
   ],
+  createdAt: "2026-09-06T20:57:52.878Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

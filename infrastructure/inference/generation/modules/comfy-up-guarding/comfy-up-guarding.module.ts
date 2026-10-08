@@ -33,4 +33,6 @@ export const comfyUpGuarding = {
       statement: "Nothing here names one generation.",
     },
   ],
+  createdAt: "2026-09-11T15:57:06.348Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

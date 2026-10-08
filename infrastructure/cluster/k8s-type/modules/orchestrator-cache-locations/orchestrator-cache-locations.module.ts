@@ -26,4 +26,6 @@ export const orchestratorCacheLocations = {
         "Only a writer holding the checkout alone clears a lock, so no git it is for still runs.",
     },
   ],
+  createdAt: "2026-09-03T12:19:38.524Z",
+  updatedAt: "2026-09-30T05:24:29.000Z",
 } as const satisfies Module

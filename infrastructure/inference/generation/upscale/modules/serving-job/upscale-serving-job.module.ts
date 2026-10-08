@@ -37,4 +37,6 @@ export const upscaleServingJob = {
       statement: "The job reaches the pages over the forwarder the cluster already runs.",
     },
   ],
+  createdAt: "2026-09-05T22:27:41.801Z",
+  updatedAt: "2026-09-22T13:05:50.000Z",
 } as const satisfies Module

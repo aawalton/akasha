@@ -51,4 +51,6 @@ export const exportNaming = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-08T12:08:01.284Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

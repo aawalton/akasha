@@ -29,4 +29,6 @@ export const pageCarry = {
       statement: "Nothing here reads a file.",
     },
   ],
+  createdAt: "2026-09-03T18:01:01.191Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

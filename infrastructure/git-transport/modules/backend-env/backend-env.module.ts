@@ -32,4 +32,6 @@ export const backendEnv = {
       statement: "Nothing but the names spelled here reaches the backend.",
     },
   ],
+  createdAt: "2026-09-03T16:24:39.441Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

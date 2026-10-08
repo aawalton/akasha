@@ -21,4 +21,6 @@ export const lokiManifests = {
       statement: "That disk is on one node, and Loki runs on the node holding that disk.",
     },
   ],
+  createdAt: "2026-09-03T16:24:54.193Z",
+  updatedAt: "2026-09-24T16:28:05.000Z",
 } as const satisfies Module

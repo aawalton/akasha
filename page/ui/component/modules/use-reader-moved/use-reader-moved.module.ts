@@ -20,4 +20,6 @@ export const useReaderMoved = {
       statement: "Opening another page starts the reader unmoved again.",
     },
   ],
+  createdAt: "2026-10-02T20:49:37.767Z",
+  updatedAt: "2026-10-02T20:50:04.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const blockMarkers = {
   slug: "block-markers",
   definition: "the marker prefix opening a list, to-do or toggle block",
   code: "ts",
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-22T13:48:22.000Z",
 } as const satisfies Module

@@ -94,4 +94,6 @@ export const hooks = {
       statement: "A page type's line is asked for type by type, each after the type extending it.",
     },
   ],
+  createdAt: "2026-09-02T12:08:30.267Z",
+  updatedAt: "2026-09-28T20:53:34.000Z",
 } as const satisfies Module

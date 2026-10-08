@@ -54,4 +54,6 @@ export const readAnswering = {
       statement: "Nothing here imports code that writes, lands or follows.",
     },
   ],
+  createdAt: "2026-09-27T12:53:46.219Z",
+  updatedAt: "2026-09-27T13:36:04.000Z",
 } as const satisfies Module

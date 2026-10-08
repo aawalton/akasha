@@ -24,4 +24,6 @@ export const checkAddonInlineHandlerDispatch = {
       statement: "The run names every namespace the run governs.",
     },
   ],
+  createdAt: "2026-09-02T15:07:11.594Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

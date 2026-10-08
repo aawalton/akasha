@@ -127,4 +127,6 @@ export const pageEntries = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-02T01:09:23.144Z",
+  updatedAt: "2026-09-24T17:19:54.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const jennyPushRegistrationSync = {
       statement: "A browser outside the native shell registers nothing.",
     },
   ],
+  createdAt: "2026-09-03T03:38:30.988Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

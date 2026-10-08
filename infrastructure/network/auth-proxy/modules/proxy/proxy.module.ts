@@ -20,4 +20,6 @@ export const proxy = {
       statement: "A body is passed on still compressed.",
     },
   ],
+  createdAt: "2026-09-03T17:49:10.140Z",
+  updatedAt: "2026-09-21T14:02:40.000Z",
 } as const satisfies Module

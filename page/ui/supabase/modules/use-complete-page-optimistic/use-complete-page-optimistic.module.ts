@@ -17,4 +17,6 @@ export const useCompletePageOptimistic = {
       statement: "Taking a completion back clears the key that said the task was done.",
     },
   ],
+  createdAt: "2026-09-07T01:19:48.876Z",
+  updatedAt: "2026-09-22T10:17:30.000Z",
 } as const satisfies Module

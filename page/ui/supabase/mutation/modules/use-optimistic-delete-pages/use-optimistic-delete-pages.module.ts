@@ -7,4 +7,6 @@ export const useOptimisticDeletePages = {
   definition:
     "Takes the predicted pages out of the local store, then runs the delete the caller handed in.",
   code: "ts",
+  createdAt: "2026-09-02T11:07:06.702Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

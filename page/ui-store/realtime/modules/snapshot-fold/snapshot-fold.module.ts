@@ -6,4 +6,6 @@ export const snapshotFold = {
   slug: "snapshot-fold",
   definition: "the rows a snapshot's entries fold down to",
   code: "ts",
+  createdAt: "2026-09-01T05:20:20.824Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

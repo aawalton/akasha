@@ -7,4 +7,6 @@ export const blockAccessoryBar = {
   definition:
     "The bar of actions beside the block being edited, and the room a keyboard leaves below it.",
   code: "tsx",
+  createdAt: "2026-09-02T11:43:33.486Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

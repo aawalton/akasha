@@ -47,4 +47,6 @@ export const readViewFilters = {
         "A view written back from the narrows it shows keeps every related narrow it states.",
     },
   ],
+  createdAt: "2026-09-28T19:51:58.809Z",
+  updatedAt: "2026-09-28T22:40:15.000Z",
 } as const satisfies Module

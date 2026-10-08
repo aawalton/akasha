@@ -30,4 +30,6 @@ export const checkAddonSandboxLoad = {
       statement: "That call is the file running rather than a path spelled here.",
     },
   ],
+  createdAt: "2026-09-02T18:33:38.087Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

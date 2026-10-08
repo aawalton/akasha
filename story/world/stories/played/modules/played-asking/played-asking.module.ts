@@ -31,4 +31,6 @@ export const playedAsking = {
       statement: "Nothing here writes a page.",
     },
   ],
+  createdAt: "2026-09-28T14:27:43.635Z",
+  updatedAt: "2026-09-28T14:27:55.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const pageCollectionContent = {
       statement: "A collection page opened at its end lets go of the end once the reader moves.",
     },
   ],
+  createdAt: "2026-09-02T13:41:59.082Z",
+  updatedAt: "2026-10-02T18:54:44.000Z",
 } as const satisfies Module

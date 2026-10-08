@@ -6,4 +6,6 @@ export const inputsHash = {
   slug: "inputs-hash",
   definition: "a hash over a set of files, named as twelve lowercase hex",
   code: "ts",
+  createdAt: "2026-09-06T15:05:31.441Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

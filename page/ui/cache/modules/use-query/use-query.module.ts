@@ -16,4 +16,6 @@ export const useQuery = {
       statement: "A listing answered before shows the rows it last held while it is read again.",
     },
   ],
+  createdAt: "2026-09-01T11:50:09.132Z",
+  updatedAt: "2026-09-27T07:14:59.000Z",
 } as const satisfies Module

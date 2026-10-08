@@ -22,4 +22,6 @@ export const chapterTurns = {
         "A turn carries no prose, because a chapter's prose is read on that chapter's page.",
     },
   ],
+  createdAt: "2026-09-14T17:50:36.025Z",
+  updatedAt: "2026-10-05T21:40:28.000Z",
 } as const satisfies Module

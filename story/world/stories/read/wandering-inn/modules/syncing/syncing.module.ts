@@ -52,4 +52,6 @@ export const syncing = {
       statement: "Nothing here reaches the page store over the network.",
     },
   ],
+  createdAt: "2026-09-03T17:56:43.735Z",
+  updatedAt: "2026-09-25T15:48:35.000Z",
 } as const satisfies Module

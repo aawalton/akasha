@@ -33,4 +33,6 @@ export const serviceAsking = {
       statement: "Nothing here throws out of the landing.",
     },
   ],
+  createdAt: "2026-09-12T05:44:03.032Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

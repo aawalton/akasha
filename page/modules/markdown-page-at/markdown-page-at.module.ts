@@ -12,4 +12,6 @@ export const markdownPageAt = {
       statement: "A set of roots may name a repository the set of roots is under as its target.",
     },
   ],
+  createdAt: "2026-09-01T11:41:25.916Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

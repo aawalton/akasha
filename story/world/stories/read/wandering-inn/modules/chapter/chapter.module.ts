@@ -28,4 +28,6 @@ export const chapter = {
       statement: "A chapter behind patron early access is known by the chapter's title.",
     },
   ],
+  createdAt: "2026-09-03T04:13:00.577Z",
+  updatedAt: "2026-09-25T15:48:35.000Z",
 } as const satisfies Module

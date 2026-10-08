@@ -46,4 +46,6 @@ export const comfyUpBody = {
       statement: "Nothing here asks the index where a recipe sits.",
     },
   ],
+  createdAt: "2026-09-11T16:05:34.232Z",
+  updatedAt: "2026-09-22T14:01:10.000Z",
 } as const satisfies Module

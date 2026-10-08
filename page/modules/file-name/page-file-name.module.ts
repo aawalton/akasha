@@ -177,4 +177,6 @@ export const pageFileName = {
       statement: "Nothing here reads the index or the disk.",
     },
   ],
+  createdAt: "2026-08-29T15:55:37.192Z",
+  updatedAt: "2026-09-24T16:17:02.000Z",
 } as const satisfies Module

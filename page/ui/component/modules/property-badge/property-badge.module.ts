@@ -17,4 +17,6 @@ export const propertyBadge = {
         "A badge in a row of a property list is drawn bare unless its color names something.",
     },
   ],
+  createdAt: "2026-09-02T12:19:38.821Z",
+  updatedAt: "2026-09-24T20:01:31.000Z",
 } as const satisfies Module

@@ -47,4 +47,6 @@ export const beatReplay = {
       statement: "A refusal names a beat by its number and its turn, and never quotes it.",
     },
   ],
+  createdAt: "2026-10-03T14:44:06.617Z",
+  updatedAt: "2026-10-03T14:50:56.000Z",
 } as const satisfies Module

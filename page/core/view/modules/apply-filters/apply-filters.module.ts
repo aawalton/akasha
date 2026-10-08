@@ -17,4 +17,6 @@ export const applyFilters = {
       statement: "Pages are left whole while the properties of their page type are unread.",
     },
   ],
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-28T19:44:45.000Z",
 } as const satisfies Module

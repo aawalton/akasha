@@ -239,4 +239,6 @@ export const pathClaiming = {
       statement: "The answers a reading gives for claiming are gathered once for that reading.",
     },
   ],
+  createdAt: "2026-09-08T17:17:00.016Z",
+  updatedAt: "2026-09-25T16:26:12.000Z",
 } as const satisfies Module

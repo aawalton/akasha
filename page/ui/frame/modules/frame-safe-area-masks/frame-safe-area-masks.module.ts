@@ -6,4 +6,6 @@ export const frameSafeAreaMasks = {
   slug: "frame-safe-area-masks",
   definition: "The panels covering a display frame's top and bottom safe areas.",
   code: "tsx",
+  createdAt: "2026-09-02T09:13:05.030Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

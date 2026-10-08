@@ -16,4 +16,6 @@ export const resourceList = {
       statement: "A place's icon is chosen here by the address it links to.",
     },
   ],
+  createdAt: "2026-09-03T03:38:30.988Z",
+  updatedAt: "2026-09-24T23:24:49.000Z",
 } as const satisfies Module

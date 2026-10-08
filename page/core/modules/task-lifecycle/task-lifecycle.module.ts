@@ -106,4 +106,6 @@ export const taskLifecycle = {
         "A second marking on the day of the first leaves the due date where the first put it.",
     },
   ],
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-10-02T15:16:49.000Z",
 } as const satisfies Module

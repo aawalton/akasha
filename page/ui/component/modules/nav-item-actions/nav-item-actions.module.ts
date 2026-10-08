@@ -26,4 +26,6 @@ export const navItemActions = {
       statement: "Answering the deletion question reaches nothing the nav item sits in.",
     },
   ],
+  createdAt: "2026-09-02T11:43:33.486Z",
+  updatedAt: "2026-09-27T05:19:27.000Z",
 } as const satisfies Module

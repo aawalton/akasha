@@ -76,4 +76,6 @@ export const chapterFiling = {
         "Chapters are filed by reaching the pages data directly rather than through the pages system service.",
     },
   ],
+  createdAt: "2026-09-03T17:59:28.300Z",
+  updatedAt: "2026-09-25T15:48:35.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const reportStall = {
   slug: "report-stall",
   definition: "the note given off when the page store has stalled",
   code: "ts",
+  createdAt: "2026-09-01T05:20:20.825Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const poolSwap = {
   slug: "pool-swap",
   definition: "the set of resident services, changed so an asked-for one is live",
   code: "ts",
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

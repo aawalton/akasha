@@ -6,4 +6,6 @@ export const pageSystemViewSettings = {
   slug: "page-system-view-settings",
   definition: "The button opening a view's settings, and the settings it offers.",
   code: "tsx",
+  createdAt: "2026-09-02T12:08:30.267Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

@@ -136,4 +136,6 @@ export const turnAdvancing = {
       statement: "A refusal names a beat or an issue by its place, and never quotes it.",
     },
   ],
+  createdAt: "2026-10-03T14:34:03.612Z",
+  updatedAt: "2026-10-06T22:15:41.000Z",
 } as const satisfies Module

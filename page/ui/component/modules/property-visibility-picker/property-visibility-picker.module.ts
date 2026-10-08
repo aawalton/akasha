@@ -6,4 +6,6 @@ export const propertyVisibilityPicker = {
   slug: "property-visibility-picker",
   definition: "Picks which properties a view shows, and the order they appear in.",
   code: "tsx",
+  createdAt: "2026-09-02T11:43:33.486Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

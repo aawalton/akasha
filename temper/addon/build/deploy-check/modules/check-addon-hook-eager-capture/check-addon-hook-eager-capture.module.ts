@@ -28,4 +28,6 @@ export const checkAddonHookEagerCapture = {
       statement: "The files the run declined to read are reported beside the files the run read.",
     },
   ],
+  createdAt: "2026-09-02T15:07:11.594Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

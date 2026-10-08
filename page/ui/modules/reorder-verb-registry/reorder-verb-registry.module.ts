@@ -6,4 +6,6 @@ export const reorderVerbRegistry = {
   slug: "reorder-verb-registry",
   definition: "the handlers a reorder is carried to, held by verb",
   code: "ts",
+  createdAt: "2026-09-01T10:22:24.364Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

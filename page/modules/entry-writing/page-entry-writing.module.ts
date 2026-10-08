@@ -86,4 +86,6 @@ export const pageEntryWriting = {
       statement: "Nothing here judges a value against the shape declaring that value.",
     },
   ],
+  createdAt: "2026-09-02T10:07:15.233Z",
+  updatedAt: "2026-09-25T16:47:26.000Z",
 } as const satisfies Module

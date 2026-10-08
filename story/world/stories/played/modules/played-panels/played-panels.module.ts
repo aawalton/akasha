@@ -20,4 +20,6 @@ export const playedPanels = {
       statement: "The pools a hud bars are the pools the game's display names and no other.",
     },
   ],
+  createdAt: "2026-09-14T19:27:06.876Z",
+  updatedAt: "2026-09-19T08:48:28.000Z",
 } as const satisfies Module

@@ -47,4 +47,6 @@ export const hostsEntering = {
       statement: "A host page stating no address wants no line.",
     },
   ],
+  createdAt: "2026-09-22T14:23:08.773Z",
+  updatedAt: "2026-09-22T14:25:03.000Z",
 } as const satisfies Module

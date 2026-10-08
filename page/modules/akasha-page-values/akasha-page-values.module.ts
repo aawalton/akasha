@@ -50,4 +50,6 @@ export const akashaPageValues = {
       statement: "An akasha page and a markdown page are one population.",
     },
   ],
+  createdAt: "2026-09-03T18:59:58.320Z",
+  updatedAt: "2026-09-22T13:48:22.000Z",
 } as const satisfies Module

@@ -7,4 +7,6 @@ export const propertyRowDrawings = {
   definition:
     "the row each page type draws a property's label with its value as, taken by the bundler",
   code: "ts",
+  createdAt: "2026-09-14T16:49:03.601Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

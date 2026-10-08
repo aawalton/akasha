@@ -6,4 +6,6 @@ export const questsPanel = {
   slug: "quests-panel",
   definition: "the quests still in play, each one a titled row",
   code: "tsx",
+  createdAt: "2026-09-02T14:52:27.071Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

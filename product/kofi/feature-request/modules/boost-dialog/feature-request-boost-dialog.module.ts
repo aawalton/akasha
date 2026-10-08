@@ -32,4 +32,6 @@ export const featureRequestBoostDialog = {
       statement: "Where the post goes is handed in, so this reaches no route of its own.",
     },
   ],
+  createdAt: "2026-09-21T22:02:16.315Z",
+  updatedAt: "2026-09-27T12:24:04.000Z",
 } as const satisfies Module

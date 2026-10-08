@@ -17,4 +17,6 @@ export const turnProse = {
       statement: "Every character the prose names is checked against the story's cast.",
     },
   ],
+  createdAt: "2026-10-03T20:31:04.071Z",
+  updatedAt: "2026-10-04T00:01:17.000Z",
 } as const satisfies Module

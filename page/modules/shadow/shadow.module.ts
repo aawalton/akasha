@@ -340,4 +340,6 @@ export const shadow = {
       statement: "A shadow over a change that moves nothing answers no such settle.",
     },
   ],
+  createdAt: "2026-08-30T17:08:50.368Z",
+  updatedAt: "2026-09-25T18:54:04.000Z",
 } as const satisfies Module

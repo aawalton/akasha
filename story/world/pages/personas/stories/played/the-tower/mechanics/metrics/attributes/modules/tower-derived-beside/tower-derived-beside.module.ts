@@ -21,4 +21,6 @@ export const towerDerivedBeside = {
       statement: "The numbers are listed in the order the sheet shows them.",
     },
   ],
+  createdAt: "2026-09-26T15:25:45.075Z",
+  updatedAt: "2026-09-26T16:03:16.000Z",
 } as const satisfies Module

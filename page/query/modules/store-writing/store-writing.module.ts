@@ -62,4 +62,6 @@ export const storeWriting = {
       statement: "Nothing here addresses a row inside a page.",
     },
   ],
+  createdAt: "2026-09-01T03:04:31.146Z",
+  updatedAt: "2026-09-25T16:57:49.000Z",
 } as const satisfies Module

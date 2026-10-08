@@ -6,4 +6,6 @@ export const useGalleryViewProps = {
   slug: "use-gallery-view-props",
   definition: "what draws a gallery view",
   code: "ts",
+  createdAt: "2026-09-01T11:28:48.827Z",
+  updatedAt: "2026-09-22T13:46:01.000Z",
 } as const satisfies Module

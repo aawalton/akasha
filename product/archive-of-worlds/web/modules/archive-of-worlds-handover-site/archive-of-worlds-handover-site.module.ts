@@ -21,4 +21,6 @@ export const archiveOfWorldsHandoverSite = {
       statement: "A signed-in reader lands on `/`.",
     },
   ],
+  createdAt: "2026-09-19T21:28:42.592Z",
+  updatedAt: "2026-09-22T13:56:42.000Z",
 } as const satisfies Module

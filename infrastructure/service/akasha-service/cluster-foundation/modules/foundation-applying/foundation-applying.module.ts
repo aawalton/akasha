@@ -79,4 +79,6 @@ export const foundationApplying = {
       statement: "Nothing here reads the command line.",
     },
   ],
+  createdAt: "2026-09-15T16:55:43.385Z",
+  updatedAt: "2026-09-25T17:49:50.000Z",
 } as const satisfies Module

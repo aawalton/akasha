@@ -65,4 +65,6 @@ export const imageInputs = {
         "Git refuses to answer drift outside a work tree, so drift is asked only of a checkout.",
     },
   ],
+  createdAt: "2026-09-10T23:23:59.940Z",
+  updatedAt: "2026-09-25T14:42:34.000Z",
 } as const satisfies Module

@@ -35,4 +35,6 @@ export const loreRereading = {
       statement: "Nothing of a page's body is named, only its path.",
     },
   ],
+  createdAt: "2026-09-27T14:13:58.389Z",
+  updatedAt: "2026-09-27T14:14:16.000Z",
 } as const satisfies Module

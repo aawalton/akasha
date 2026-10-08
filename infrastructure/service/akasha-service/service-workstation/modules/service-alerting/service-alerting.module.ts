@@ -91,4 +91,6 @@ export const serviceAlerting = {
       statement: "A service breaking again after a mend states the day it broke again.",
     },
   ],
+  createdAt: "2026-09-08T17:44:24.037Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

@@ -24,4 +24,6 @@ export const featureRequestListing = {
       statement: "A request with no title is listed under its slug.",
     },
   ],
+  createdAt: "2026-09-21T16:11:51.765Z",
+  updatedAt: "2026-09-22T10:09:59.000Z",
 } as const satisfies Module

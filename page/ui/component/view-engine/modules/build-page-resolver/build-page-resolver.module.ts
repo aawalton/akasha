@@ -27,4 +27,6 @@ export const buildPageResolver = {
         "A page whose slug is unique only within a scope is keyed by the address naming that scope's slug.",
     },
   ],
+  createdAt: "2026-09-02T08:59:14.937Z",
+  updatedAt: "2026-09-25T15:01:31.000Z",
 } as const satisfies Module

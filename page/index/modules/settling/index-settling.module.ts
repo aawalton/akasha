@@ -201,4 +201,6 @@ export const indexSettling = {
       statement: "A world only a settle has written is read as an index that is missing.",
     },
   ],
+  createdAt: "2026-09-10T15:53:45.900Z",
+  updatedAt: "2026-09-29T00:10:15.000Z",
 } as const satisfies Module

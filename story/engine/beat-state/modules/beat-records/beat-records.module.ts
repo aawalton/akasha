@@ -55,4 +55,6 @@ export const beatRecords = {
       statement: "Beats joined end to end are numbered on from the beats before them.",
     },
   ],
+  createdAt: "2026-10-03T18:12:36.929Z",
+  updatedAt: "2026-10-07T00:33:13.000Z",
 } as const satisfies Module

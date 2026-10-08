@@ -59,4 +59,6 @@ export const singleton = {
       statement: "Every other page type is listed without the rows filed beside its pages.",
     },
   ],
+  createdAt: "2026-09-01T05:20:20.826Z",
+  updatedAt: "2026-09-27T10:36:56.000Z",
 } as const satisfies Module

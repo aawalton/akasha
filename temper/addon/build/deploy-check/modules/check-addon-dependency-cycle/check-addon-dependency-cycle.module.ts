@@ -20,4 +20,6 @@ export const checkAddonDependencyCycle = {
       statement: "An empty roster ends the run rather than passing that run.",
     },
   ],
+  createdAt: "2026-09-02T14:48:10.858Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

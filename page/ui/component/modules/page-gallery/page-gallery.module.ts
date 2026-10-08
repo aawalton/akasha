@@ -6,4 +6,6 @@ export const pageGallery = {
   slug: "page-gallery",
   definition: "pages shown as a gallery of cards at a chosen size",
   code: "tsx",
+  createdAt: "2026-09-02T09:40:45.997Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

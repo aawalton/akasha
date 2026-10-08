@@ -33,4 +33,6 @@ export const typeSchema = {
       statement: "Nothing here opens a file.",
     },
   ],
+  createdAt: "2026-09-15T01:35:45.133Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

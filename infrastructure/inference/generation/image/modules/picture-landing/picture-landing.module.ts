@@ -42,4 +42,6 @@ export const pictureLanding = {
       statement: "A picture already landed is read back by its slug rather than by a path.",
     },
   ],
+  createdAt: "2026-09-21T22:23:32.041Z",
+  updatedAt: "2026-09-22T13:05:50.000Z",
 } as const satisfies Module

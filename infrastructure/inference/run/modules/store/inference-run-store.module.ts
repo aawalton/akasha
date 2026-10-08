@@ -24,4 +24,6 @@ export const inferenceRunStore = {
       statement: "Nothing here keeps a run apart from the page of what the run made.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-26T16:51:37.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const serviceCheckout = {
         "A run the environment names no checkout for works under the directory that run started in.",
     },
   ],
+  createdAt: "2026-09-11T00:57:27.584Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

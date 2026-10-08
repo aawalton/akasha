@@ -6,4 +6,6 @@ export const useBlockFocus = {
   slug: "use-block-focus",
   definition: "Which editor block has focus, and where the caret sits when focus arrives.",
   code: "ts",
+  createdAt: "2026-09-02T12:08:30.267Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

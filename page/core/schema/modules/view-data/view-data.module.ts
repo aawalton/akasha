@@ -6,4 +6,6 @@ export const viewData = {
   slug: "view-data",
   definition: "the config a view persists",
   code: "ts",
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-24T16:28:05.000Z",
 } as const satisfies Module

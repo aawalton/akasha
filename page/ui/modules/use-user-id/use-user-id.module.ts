@@ -6,4 +6,6 @@ export const useUserId = {
   slug: "use-user-id",
   definition: "the id of the user a tree of components serves",
   code: "tsx",
+  createdAt: "2026-09-01T11:28:48.826Z",
+  updatedAt: "2026-09-22T13:48:27.000Z",
 } as const satisfies Module

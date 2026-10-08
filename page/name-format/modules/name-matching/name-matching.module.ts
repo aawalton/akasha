@@ -29,4 +29,6 @@ export const nameMatching = {
       statement: "Nothing here knows a format's slug or reads a page.",
     },
   ],
+  createdAt: "2026-08-29T18:13:57.465Z",
+  updatedAt: "2026-09-22T10:06:02.000Z",
 } as const satisfies Module

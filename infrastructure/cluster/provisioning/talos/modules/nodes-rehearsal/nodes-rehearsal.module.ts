@@ -6,4 +6,6 @@ export const nodesRehearsal = {
   slug: "nodes-rehearsal",
   definition: "the rehearsal cluster's four virtual machines",
   code: "ts",
+  createdAt: "2026-09-03T16:21:42.287Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies Module

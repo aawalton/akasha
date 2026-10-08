@@ -21,4 +21,6 @@ export const checkAddonSandboxSafety = {
       statement: "A bundle that could not be read ends the run with the bundles read so far named.",
     },
   ],
+  createdAt: "2026-09-02T18:33:38.087Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

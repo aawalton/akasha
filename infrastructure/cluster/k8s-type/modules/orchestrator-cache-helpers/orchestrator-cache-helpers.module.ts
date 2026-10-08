@@ -6,4 +6,6 @@ export const orchestratorCacheHelpers = {
   slug: "orchestrator-cache-helpers",
   definition: "a checkout cache's volumes and mounts",
   code: "ts",
+  createdAt: "2026-09-03T12:19:38.524Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies Module

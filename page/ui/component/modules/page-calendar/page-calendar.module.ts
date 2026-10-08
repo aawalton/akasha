@@ -6,4 +6,6 @@ export const pageCalendar = {
   slug: "page-calendar",
   definition: "a month grid with each page on the day its date property gives",
   code: "tsx",
+  createdAt: "2026-09-02T09:40:45.996Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

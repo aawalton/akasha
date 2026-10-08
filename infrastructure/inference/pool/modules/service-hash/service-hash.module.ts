@@ -13,4 +13,6 @@ export const serviceHash = {
         "A changed command or port or working directory changes the hash even where no source file changed.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-22T10:25:02.000Z",
 } as const satisfies Module

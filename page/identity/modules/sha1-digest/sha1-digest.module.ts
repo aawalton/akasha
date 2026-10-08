@@ -22,4 +22,6 @@ export const sha1Digest = {
       statement: "Nothing here reaches a crypto library the platform has.",
     },
   ],
+  createdAt: "2026-09-01T13:57:29.675Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

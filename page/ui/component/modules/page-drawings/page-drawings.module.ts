@@ -17,4 +17,6 @@ export const pageDrawings = {
       statement: "The bundler reads every drawing in the tree before the code runs.",
     },
   ],
+  createdAt: "2026-09-14T14:46:28.240Z",
+  updatedAt: "2026-09-22T14:00:26.000Z",
 } as const satisfies Module

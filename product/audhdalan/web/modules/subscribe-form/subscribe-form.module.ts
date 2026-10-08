@@ -6,4 +6,6 @@ export const subscribeForm = {
   slug: "subscribe-form",
   definition: "the address a reader hands over, and what is said back about it",
   code: "tsx",
+  createdAt: "2026-09-03T03:38:30.988Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

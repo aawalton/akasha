@@ -6,4 +6,6 @@ export const getForView = {
   slug: "get-for-view",
   definition: "the pages a view wants",
   code: "ts",
+  createdAt: "2026-09-01T07:19:56.978Z",
+  updatedAt: "2026-09-22T13:58:21.000Z",
 } as const satisfies Module

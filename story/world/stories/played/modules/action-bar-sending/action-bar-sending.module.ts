@@ -29,4 +29,6 @@ export const actionBarSending = {
       statement: "The game's action draft is read with the actions waiting.",
     },
   ],
+  createdAt: "2026-09-24T17:50:44.295Z",
+  updatedAt: "2026-09-29T03:38:59.000Z",
 } as const satisfies Module

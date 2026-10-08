@@ -72,4 +72,6 @@ export const serviceWatching = {
       statement: "A tick may be handed what systemd says rather than asking systemd itself.",
     },
   ],
+  createdAt: "2026-09-08T17:44:24.038Z",
+  updatedAt: "2026-09-24T23:03:57.000Z",
 } as const satisfies Module

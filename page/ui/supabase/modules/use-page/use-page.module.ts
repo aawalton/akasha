@@ -20,4 +20,6 @@ export const usePage = {
       statement: "A page is read again each time it is pushed as changed.",
     },
   ],
+  createdAt: "2026-09-02T07:36:28.678Z",
+  updatedAt: "2026-09-24T22:01:20.000Z",
 } as const satisfies Module

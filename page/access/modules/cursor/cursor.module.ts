@@ -6,4 +6,6 @@ export const cursor = {
   slug: "cursor",
   definition: "the place a page listing left off at, encoded and read back",
   code: "ts",
+  createdAt: "2026-09-01T07:19:56.971Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

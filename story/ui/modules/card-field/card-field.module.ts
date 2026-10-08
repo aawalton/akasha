@@ -6,4 +6,6 @@ export const cardField = {
   slug: "card-field",
   definition: "a label with the value that label names read out under it",
   code: "tsx",
+  createdAt: "2026-09-11T01:01:53.631Z",
+  updatedAt: "2026-09-22T10:07:59.000Z",
 } as const satisfies Module

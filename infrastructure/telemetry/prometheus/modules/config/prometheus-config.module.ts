@@ -6,4 +6,6 @@ export const prometheusConfig = {
   slug: "prometheus-config",
   definition: "the document naming what the metrics server scrapes and how often",
   code: "ts",
+  createdAt: "2026-09-03T16:17:58.883Z",
+  updatedAt: "2026-09-22T14:15:24.000Z",
 } as const satisfies Module

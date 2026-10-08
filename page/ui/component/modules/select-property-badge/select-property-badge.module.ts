@@ -24,4 +24,6 @@ export const selectPropertyBadge = {
       statement: "A chosen option the property names nowhere is drawn by titling its own value.",
     },
   ],
+  createdAt: "2026-09-02T12:19:38.822Z",
+  updatedAt: "2026-09-21T23:12:33.000Z",
 } as const satisfies Module

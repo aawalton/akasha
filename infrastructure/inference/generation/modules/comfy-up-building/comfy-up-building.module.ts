@@ -30,4 +30,6 @@ export const comfyUpBuilding = {
       statement: "Nothing here names one generation.",
     },
   ],
+  createdAt: "2026-09-11T15:50:53.339Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

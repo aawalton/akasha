@@ -52,4 +52,6 @@ export const pageClearing = {
       statement: "Nothing here reads a page.",
     },
   ],
+  createdAt: "2026-09-25T12:34:25.944Z",
+  updatedAt: "2026-10-03T19:10:14.000Z",
 } as const satisfies Module

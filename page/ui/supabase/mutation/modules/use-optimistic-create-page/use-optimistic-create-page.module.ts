@@ -7,4 +7,6 @@ export const useOptimisticCreatePage = {
   definition:
     "Puts a predicted new page into the local store, then runs the create the caller handed in.",
   code: "ts",
+  createdAt: "2026-09-02T11:07:06.702Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

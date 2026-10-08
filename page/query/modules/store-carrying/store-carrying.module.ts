@@ -26,4 +26,6 @@ export const storeCarrying = {
       statement: "The store's answer is carried back unchanged.",
     },
   ],
+  createdAt: "2026-09-27T06:10:21.347Z",
+  updatedAt: "2026-09-27T06:10:35.000Z",
 } as const satisfies Module

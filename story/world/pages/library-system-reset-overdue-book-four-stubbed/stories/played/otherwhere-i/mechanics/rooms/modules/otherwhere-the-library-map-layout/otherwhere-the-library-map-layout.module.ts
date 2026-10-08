@@ -42,4 +42,6 @@ export const otherwhereTheLibraryMapLayout = {
       statement: "One column runs through every floor, so a stair joins rooms in one column.",
     },
   ],
+  createdAt: "2026-09-28T14:20:45.506Z",
+  updatedAt: "2026-09-28T22:48:45.000Z",
 } as const satisfies Module

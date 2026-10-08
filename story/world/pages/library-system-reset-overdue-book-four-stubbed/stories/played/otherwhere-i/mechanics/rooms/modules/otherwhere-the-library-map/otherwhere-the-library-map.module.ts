@@ -32,4 +32,6 @@ export const otherwhereTheLibraryMap = {
       statement: "No panel is drawn where no room has been shown to the player.",
     },
   ],
+  createdAt: "2026-09-28T13:32:44.238Z",
+  updatedAt: "2026-09-28T22:48:45.000Z",
 } as const satisfies Module

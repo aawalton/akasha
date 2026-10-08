@@ -41,4 +41,6 @@ export const purseLedger = {
       statement: "Nothing here reaches the store, so what is handed in is all that is read.",
     },
   ],
+  createdAt: "2026-10-02T15:18:56.807Z",
+  updatedAt: "2026-10-02T15:19:31.000Z",
 } as const satisfies Module

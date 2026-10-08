@@ -6,4 +6,6 @@ export const prometheusConstants = {
   slug: "prometheus-constants",
   definition: "the namespace and labels the metrics workloads carry",
   code: "ts",
+  createdAt: "2026-09-03T16:17:58.882Z",
+  updatedAt: "2026-09-24T23:57:01.000Z",
 } as const satisfies Module

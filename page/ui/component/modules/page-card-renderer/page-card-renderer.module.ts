@@ -16,4 +16,6 @@ export const pageCardRenderer = {
       statement: "A gallery card of an image page shows that image.",
     },
   ],
+  createdAt: "2026-09-02T13:38:02.088Z",
+  updatedAt: "2026-09-27T20:31:07.000Z",
 } as const satisfies Module

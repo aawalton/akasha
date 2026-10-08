@@ -6,4 +6,6 @@ export const talosctl = {
   slug: "talosctl",
   definition: "a spawned `talosctl` answered as a promise, with a guard on its output flag",
   code: "ts",
+  createdAt: "2026-09-03T16:21:42.287Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

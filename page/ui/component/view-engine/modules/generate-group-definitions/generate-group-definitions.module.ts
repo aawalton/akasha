@@ -6,4 +6,6 @@ export const generateGroupDefinitions = {
   slug: "generate-group-definitions",
   definition: "Adapts the core page group definition to the rows a view has.",
   code: "ts",
+  createdAt: "2026-09-02T08:59:14.946Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

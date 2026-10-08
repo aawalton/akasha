@@ -7,4 +7,6 @@ export const usePageView = {
   definition:
     "React hook applying a view config to rows and giving back the options for changing it.",
   code: "ts",
+  createdAt: "2026-09-02T09:13:05.030Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

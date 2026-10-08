@@ -17,4 +17,6 @@ export const diceThrowing = {
       statement: "A throw refuses whatever the rolling or the reading refuses.",
     },
   ],
+  createdAt: "2026-09-26T14:39:37.211Z",
+  updatedAt: "2026-09-26T14:47:20.000Z",
 } as const satisfies Module

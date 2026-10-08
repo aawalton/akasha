@@ -167,4 +167,6 @@ export const deployLooping = {
       statement: "The unit's bound catches only a loop hung outside that scope.",
     },
   ],
+  createdAt: "2026-09-12T12:10:07.424Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

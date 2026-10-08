@@ -33,4 +33,6 @@ export const entryCeiling = {
       statement: "Nothing here says which files the ceiling reaches.",
     },
   ],
+  createdAt: "2026-09-03T16:13:53.144Z",
+  updatedAt: "2026-09-22T10:05:52.000Z",
 } as const satisfies Module

@@ -27,4 +27,6 @@ export const titleColor = {
       statement: "Nothing here draws a title.",
     },
   ],
+  createdAt: "2026-09-24T15:37:31.099Z",
+  updatedAt: "2026-09-24T15:39:11.000Z",
 } as const satisfies Module

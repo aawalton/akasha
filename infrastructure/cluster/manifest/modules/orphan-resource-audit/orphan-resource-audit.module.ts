@@ -35,4 +35,6 @@ export const orphanResourceAudit = {
       statement: "A resource is known by its kind and its namespace and its name together.",
     },
   ],
+  createdAt: "2026-09-03T17:59:28.300Z",
+  updatedAt: "2026-09-27T14:55:11.000Z",
 } as const satisfies Module

@@ -34,4 +34,6 @@ export const timePassing = {
       statement: "The game master settles a turn's `endsAt` before advancing that turn.",
     },
   ],
+  createdAt: "2026-09-28T21:17:55.679Z",
+  updatedAt: "2026-09-28T22:05:38.000Z",
 } as const satisfies Module

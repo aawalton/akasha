@@ -6,4 +6,6 @@ export const pageSizePicker = {
   slug: "page-size-picker",
   definition: "Picks how many rows a page of a listing shows.",
   code: "tsx",
+  createdAt: "2026-09-02T11:43:33.486Z",
+  updatedAt: "2026-09-22T10:05:52.000Z",
 } as const satisfies Module

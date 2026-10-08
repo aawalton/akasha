@@ -32,4 +32,6 @@ export const needsWeighing = {
         "Every check weighing needs this way imports this rule rather than stating it again.",
     },
   ],
+  createdAt: "2026-09-28T22:39:12.791Z",
+  updatedAt: "2026-10-03T11:13:30.000Z",
 } as const satisfies Module

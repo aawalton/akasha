@@ -20,4 +20,6 @@ export const useReadViewConfig = {
       statement: "A page type's kinds below it are read from what each page type extends.",
     },
   ],
+  createdAt: "2026-09-28T19:51:58.809Z",
+  updatedAt: "2026-09-28T20:09:56.000Z",
 } as const satisfies Module

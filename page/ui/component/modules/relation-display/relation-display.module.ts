@@ -30,4 +30,6 @@ export const relationDisplay = {
         "A page holding no title is drawn as the name reaching it rather than as Untitled.",
     },
   ],
+  createdAt: "2026-09-01T11:29:11.071Z",
+  updatedAt: "2026-09-22T14:05:26.000Z",
 } as const satisfies Module

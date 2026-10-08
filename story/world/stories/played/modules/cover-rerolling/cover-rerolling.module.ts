@@ -67,4 +67,6 @@ export const coverRerolling = {
         "Quiet work the watch is handed runs on its lane every 30 seconds while no reroll is asked.",
     },
   ],
+  createdAt: "2026-09-28T14:00:27.353Z",
+  updatedAt: "2026-10-04T15:04:23.000Z",
 } as const satisfies Module

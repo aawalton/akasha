@@ -24,4 +24,6 @@ export const jennyAppShell = {
       statement: "The name over the sidebar is the title of Jenny's web app page.",
     },
   ],
+  createdAt: "2026-09-03T03:38:30.988Z",
+  updatedAt: "2026-09-27T11:47:03.000Z",
 } as const satisfies Module

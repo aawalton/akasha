@@ -6,4 +6,6 @@ export const readingProgressBar = {
   slug: "reading-progress-bar",
   definition: "the bar across a reader's top showing how far down it has been read",
   code: "tsx",
+  createdAt: "2026-09-24T22:54:06.894Z",
+  updatedAt: "2026-09-24T22:54:33.000Z",
 } as const satisfies Module

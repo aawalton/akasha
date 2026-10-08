@@ -25,4 +25,6 @@ export const diceReading = {
       statement: "Nothing here rolls a die.",
     },
   ],
+  createdAt: "2026-09-21T15:06:16.237Z",
+  updatedAt: "2026-09-26T14:47:20.000Z",
 } as const satisfies Module

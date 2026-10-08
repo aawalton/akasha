@@ -6,4 +6,6 @@ export const useViewPages = {
   slug: "use-view-pages",
   definition: "React hook giving back the pages a view holds.",
   code: "tsx",
+  createdAt: "2026-09-02T09:13:05.030Z",
+  updatedAt: "2026-09-22T10:17:30.000Z",
 } as const satisfies Module

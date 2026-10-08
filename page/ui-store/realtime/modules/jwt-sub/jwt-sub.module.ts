@@ -6,4 +6,6 @@ export const jwtSub = {
   slug: "jwt-sub",
   definition: "the subject a token names",
   code: "ts",
+  createdAt: "2026-09-01T05:20:20.821Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

@@ -150,4 +150,6 @@ export const deviceSecretKeeping = {
       statement: "A recovery that goes uncounted is answered rather than thrown.",
     },
   ],
+  createdAt: "2026-09-01T04:28:40.076Z",
+  updatedAt: "2026-09-25T15:42:48.000Z",
 } as const satisfies Module

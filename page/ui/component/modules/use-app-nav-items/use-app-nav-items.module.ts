@@ -37,4 +37,6 @@ export const useAppNavItems = {
       statement: "A nav item at the foot with no items under it is drawn as a link.",
     },
   ],
+  createdAt: "2026-09-02T20:05:45.270Z",
+  updatedAt: "2026-09-25T14:54:42.000Z",
 } as const satisfies Module

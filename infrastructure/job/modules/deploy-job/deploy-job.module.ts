@@ -55,5 +55,6 @@ export const deployJob = {
       statement: "Nothing here says what a pod a job starts is given.",
     },
   ],
-  updatedAt: "2026-10-08T15:43:25.589Z",
+  updatedAt: "2026-10-08T16:01:46.396Z",
+  createdAt: "2026-09-14T17:28:13.666Z",
 } as const satisfies Module

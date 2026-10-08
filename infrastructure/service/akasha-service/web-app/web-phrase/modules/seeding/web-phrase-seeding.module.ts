@@ -12,4 +12,6 @@ export const webPhraseSeeding = {
       statement: "A phrase is read as its slug and its title and nothing else.",
     },
   ],
+  createdAt: "2026-09-27T14:19:09.510Z",
+  updatedAt: "2026-09-27T14:19:30.000Z",
 } as const satisfies Module

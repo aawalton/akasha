@@ -49,4 +49,6 @@ export const beatChanges = {
       statement: "Two seats' changes merge in beat order, each seat's in the order it handed them.",
     },
   ],
+  createdAt: "2026-10-03T15:05:48.995Z",
+  updatedAt: "2026-10-03T18:53:06.000Z",
 } as const satisfies Module

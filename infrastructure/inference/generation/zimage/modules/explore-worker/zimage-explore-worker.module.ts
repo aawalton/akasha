@@ -53,4 +53,6 @@ export const zimageExploreWorker = {
       statement: "A lock file refuses a second worker over the same folder.",
     },
   ],
+  createdAt: "2026-09-03T16:24:02.557Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

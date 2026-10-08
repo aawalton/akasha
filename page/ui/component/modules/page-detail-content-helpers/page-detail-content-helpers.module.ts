@@ -6,4 +6,6 @@ export const pageDetailContentHelpers = {
   slug: "page-detail-content-helpers",
   definition: "the properties a page's detail view leaves out, and the slug reading page types",
   code: "ts",
+  createdAt: "2026-09-01T11:50:09.132Z",
+  updatedAt: "2026-09-22T13:55:48.000Z",
 } as const satisfies Module

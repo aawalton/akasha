@@ -25,4 +25,6 @@ export const pushPermission = {
       statement: "Nothing here asks the device.",
     },
   ],
+  createdAt: "2026-09-01T04:57:50.089Z",
+  updatedAt: "2026-09-22T14:00:26.000Z",
 } as const satisfies Module

@@ -37,4 +37,6 @@ export const chapterMaking = {
       statement: "A story naming no coordinator agent starts no chapter.",
     },
   ],
+  createdAt: "2026-09-28T19:11:45.970Z",
+  updatedAt: "2026-10-04T00:01:17.000Z",
 } as const satisfies Module

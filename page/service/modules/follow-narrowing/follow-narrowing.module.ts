@@ -22,4 +22,6 @@ export const followNarrowing = {
       statement: "A change naming no page is pushed to a narrowed follow of its list.",
     },
   ],
+  createdAt: "2026-09-24T22:00:47.333Z",
+  updatedAt: "2026-09-24T22:00:58.000Z",
 } as const satisfies Module

@@ -29,4 +29,6 @@ export const upscaleCluster = {
       statement: "A job that does not succeed is raised with the tail of its pod's log.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-22T13:05:50.000Z",
 } as const satisfies Module

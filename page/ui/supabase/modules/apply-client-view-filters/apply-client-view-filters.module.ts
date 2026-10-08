@@ -6,4 +6,6 @@ export const applyClientViewFilters = {
   slug: "apply-client-view-filters",
   definition: "the pages a view's filters leave once the client applies them",
   code: "ts",
+  createdAt: "2026-09-01T11:22:40.762Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

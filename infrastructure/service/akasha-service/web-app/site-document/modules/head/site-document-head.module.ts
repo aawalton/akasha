@@ -16,4 +16,6 @@ export const siteDocumentHead = {
       statement: "The phrases a root's loader read seed every route drawn beneath it.",
     },
   ],
+  createdAt: "2026-09-27T12:06:10.400Z",
+  updatedAt: "2026-09-27T14:19:30.000Z",
 } as const satisfies Module

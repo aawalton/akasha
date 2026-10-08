@@ -174,4 +174,6 @@ export const webAppBuilding = {
         "A web app whose pod syncs code has its build made in that pod, in a host path on one node.",
     },
   ],
+  createdAt: "2026-09-01T04:08:40.540Z",
+  updatedAt: "2026-09-25T16:31:36.000Z",
 } as const satisfies Module

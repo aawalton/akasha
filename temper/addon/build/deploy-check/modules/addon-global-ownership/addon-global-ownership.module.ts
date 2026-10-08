@@ -24,4 +24,6 @@ export const addonGlobalOwnership = {
       statement: "A write is read off the syntax rather than off a run.",
     },
   ],
+  createdAt: "2026-09-02T18:11:27.625Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

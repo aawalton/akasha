@@ -29,4 +29,6 @@ export const panelOffering = {
       statement: "No panel is named here.",
     },
   ],
+  createdAt: "2026-09-21T15:54:55.106Z",
+  updatedAt: "2026-09-28T12:46:15.000Z",
 } as const satisfies Module

@@ -12,4 +12,6 @@ export const storyDisplay = {
       statement: "A sheet panel may only ask for reveal keys the code names.",
     },
   ],
+  createdAt: "2026-09-01T05:29:46.051Z",
+  updatedAt: "2026-09-26T17:33:45.000Z",
 } as const satisfies Module

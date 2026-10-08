@@ -6,4 +6,6 @@ export const pageListingHref = {
   slug: "page-listing-href",
   definition: "the address listing the pages of a type",
   code: "ts",
+  createdAt: "2026-09-01T08:26:25.761Z",
+  updatedAt: "2026-09-22T13:59:59.000Z",
 } as const satisfies Module

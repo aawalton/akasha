@@ -21,4 +21,6 @@ export const riffBytes = {
       statement: "Nothing here reads the sound a payload has past its header.",
     },
   ],
+  createdAt: "2026-09-07T15:34:33.177Z",
+  updatedAt: "2026-09-22T13:46:54.000Z",
 } as const satisfies Module

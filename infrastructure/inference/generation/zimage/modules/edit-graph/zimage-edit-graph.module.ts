@@ -34,4 +34,6 @@ export const zimageEditGraph = {
       statement: "One ComfyUI run makes the edit and the redraw.",
     },
   ],
+  createdAt: "2026-09-28T17:50:28.139Z",
+  updatedAt: "2026-10-04T09:17:50.000Z",
 } as const satisfies Module

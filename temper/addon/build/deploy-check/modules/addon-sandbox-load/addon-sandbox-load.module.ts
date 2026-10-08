@@ -28,4 +28,6 @@ export const addonSandboxLoad = {
       statement: "A recorder absent from the sandbox fails the assertion rather than passing.",
     },
   ],
+  createdAt: "2026-09-02T18:33:38.087Z",
+  updatedAt: "2026-09-21T22:03:34.000Z",
 } as const satisfies Module

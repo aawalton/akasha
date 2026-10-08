@@ -42,4 +42,6 @@ export const turnUndoAnswering = {
       statement: "The stories watched are read again on every round, so a new story is watched.",
     },
   ],
+  createdAt: "2026-09-30T10:09:15.542Z",
+  updatedAt: "2026-09-30T10:09:27.000Z",
 } as const satisfies Module

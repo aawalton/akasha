@@ -6,4 +6,6 @@ export const viewCallbacks = {
   slug: "view-callbacks",
   definition: "what is called when a reader changes the list of views on a page",
   code: "ts",
+  createdAt: "2026-09-01T11:13:02.032Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

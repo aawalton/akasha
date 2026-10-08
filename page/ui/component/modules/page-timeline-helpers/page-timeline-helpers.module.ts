@@ -6,4 +6,6 @@ export const pageTimelineHelpers = {
   slug: "page-timeline-helpers",
   definition: "the bars and ticks a timeline draws, worked out from its rows",
   code: "ts",
+  createdAt: "2026-09-01T11:50:09.132Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

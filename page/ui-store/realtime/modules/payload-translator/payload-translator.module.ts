@@ -6,4 +6,6 @@ export const payloadTranslator = {
   slug: "payload-translator",
   definition: "the shape a page row arrives in over the wire",
   code: "ts",
+  createdAt: "2026-09-01T05:20:20.822Z",
+  updatedAt: "2026-09-16T15:35:26.000Z",
 } as const satisfies Module

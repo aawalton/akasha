@@ -74,4 +74,6 @@ export const pageSecretActing = {
       statement: "A call saying no message commits under one naming the sops file.",
     },
   ],
+  createdAt: "2026-09-03T16:20:20.840Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

@@ -294,4 +294,6 @@ export const pageAsking = {
       statement: "A question asked in the caller's own process reads no commit.",
     },
   ],
+  createdAt: "2026-08-31T22:53:56.578Z",
+  updatedAt: "2026-09-30T10:09:06.000Z",
 } as const satisfies Module

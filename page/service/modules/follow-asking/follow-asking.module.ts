@@ -28,4 +28,6 @@ export const followAsking = {
       statement: "A `since` that is no such pair is passed over rather than refusing the ask.",
     },
   ],
+  createdAt: "2026-09-27T00:57:31.897Z",
+  updatedAt: "2026-09-28T23:52:19.000Z",
 } as const satisfies Module

@@ -203,4 +203,6 @@ export const indexSurface = {
       statement: "Whether a path in the repository is a path under the index is answered here.",
     },
   ],
+  createdAt: "2026-08-29T21:03:23.036Z",
+  updatedAt: "2026-09-27T01:47:23.000Z",
 } as const satisfies Module

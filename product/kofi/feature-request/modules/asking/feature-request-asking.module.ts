@@ -50,4 +50,6 @@ export const featureRequestAsking = {
       statement: "No product is read here, so a site says which product its posts are for.",
     },
   ],
+  createdAt: "2026-09-21T18:25:37.869Z",
+  updatedAt: "2026-09-27T16:31:44.000Z",
 } as const satisfies Module

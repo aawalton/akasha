@@ -25,4 +25,6 @@ export const persistImage = {
       statement: "A picture whose page is there already keeps what that page states.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-26T16:26:17.000Z",
 } as const satisfies Module

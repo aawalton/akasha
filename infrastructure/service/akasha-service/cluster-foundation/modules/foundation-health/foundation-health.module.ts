@@ -50,4 +50,6 @@ export const foundationHealth = {
       statement: "Nothing here writes a verdict or changes the cluster.",
     },
   ],
+  createdAt: "2026-09-25T16:32:33.220Z",
+  updatedAt: "2026-09-27T14:22:29.000Z",
 } as const satisfies Module

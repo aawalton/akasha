@@ -26,4 +26,6 @@ export const turnSeats = {
       statement: "A headless seat's flex is its page's place among its kind, sorted by slug.",
     },
   ],
+  createdAt: "2026-09-27T13:26:16.707Z",
+  updatedAt: "2026-10-04T00:01:17.000Z",
 } as const satisfies Module

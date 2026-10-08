@@ -24,4 +24,6 @@ export const chapterAlerts = {
       statement: "The audio waits for a pointer or a key, because a browser starts it suspended.",
     },
   ],
+  createdAt: "2026-09-14T18:00:45.239Z",
+  updatedAt: "2026-09-19T08:48:28.000Z",
 } as const satisfies Module

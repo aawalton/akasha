@@ -45,4 +45,6 @@ export const propertyPath = {
       statement: "Nothing here reads a page type or a property declaration.",
     },
   ],
+  createdAt: "2026-09-13T18:57:49.044Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

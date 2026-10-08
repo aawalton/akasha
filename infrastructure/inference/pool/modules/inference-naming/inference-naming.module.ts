@@ -13,4 +13,6 @@ export const inferenceNaming = {
         "A name is made into a label and an environment and a path here rather than at each caller.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-22T14:08:50.000Z",
 } as const satisfies Module

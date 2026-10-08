@@ -18,4 +18,6 @@ export const relatedPipeline = {
         "The pages read are the store's, so a page type the store has not acquired answers none.",
     },
   ],
+  createdAt: "2026-09-21T22:01:12.056Z",
+  updatedAt: "2026-09-21T22:02:15.000Z",
 } as const satisfies Module

@@ -63,4 +63,6 @@ export const inferenceHealth = {
       statement: "Nothing here writes a verdict.",
     },
   ],
+  createdAt: "2026-09-25T16:43:56.345Z",
+  updatedAt: "2026-09-25T16:44:18.000Z",
 } as const satisfies Module

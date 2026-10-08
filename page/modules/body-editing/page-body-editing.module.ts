@@ -45,4 +45,6 @@ export const pageBodyEditing = {
       statement: "Nothing here formats the body this module edited.",
     },
   ],
+  createdAt: "2026-09-25T15:03:57.371Z",
+  updatedAt: "2026-09-25T15:04:32.000Z",
 } as const satisfies Module

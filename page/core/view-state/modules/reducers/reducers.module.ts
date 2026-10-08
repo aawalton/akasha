@@ -41,4 +41,6 @@ export const reducers = {
       statement: "A view names its nav and its page type by page type and slug.",
     },
   ],
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-28T20:21:14.000Z",
 } as const satisfies Module

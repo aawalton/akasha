@@ -49,4 +49,6 @@ export const heldReading = {
       statement: "A browser follows nothing through this module.",
     },
   ],
+  createdAt: "2026-09-26T16:46:37.171Z",
+  updatedAt: "2026-09-26T19:38:20.000Z",
 } as const satisfies Module

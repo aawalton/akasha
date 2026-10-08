@@ -42,4 +42,6 @@ export const imagePublishing = {
       statement: "An image already in the registry is named where a later image throws.",
     },
   ],
+  createdAt: "2026-09-10T23:25:58.308Z",
+  updatedAt: "2026-09-19T02:44:02.000Z",
 } as const satisfies Module

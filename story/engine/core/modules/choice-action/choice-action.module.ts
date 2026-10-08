@@ -7,4 +7,6 @@ export const choiceAction = {
   definition:
     "a player picking an option out of a system window, and how that pick reads back as a line of text",
   code: "ts",
+  createdAt: "2026-09-01T05:29:46.051Z",
+  updatedAt: "2026-09-22T10:09:59.000Z",
 } as const satisfies Module

@@ -133,4 +133,6 @@ export const workloadDeploying = {
         "A manifest asked about in a namespace not yet opened is not yet applied, so a first deploy opens it.",
     },
   ],
+  createdAt: "2026-09-01T03:15:54.902Z",
+  updatedAt: "2026-09-27T14:21:43.000Z",
 } as const satisfies Module

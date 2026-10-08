@@ -29,4 +29,6 @@ export const tunnelRouteDiscovery = {
       statement: "A route stating an empty name, host name or service is refused here.",
     },
   ],
+  createdAt: "2026-09-03T16:17:58.882Z",
+  updatedAt: "2026-09-22T14:22:32.000Z",
 } as const satisfies Module

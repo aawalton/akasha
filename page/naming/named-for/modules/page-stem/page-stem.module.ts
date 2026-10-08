@@ -32,4 +32,6 @@ export const pageStem = {
       statement: "Nothing here shortens a stem, which is done where the stem is minted.",
     },
   ],
+  createdAt: "2026-09-01T09:36:26.731Z",
+  updatedAt: "2026-09-22T14:01:10.000Z",
 } as const satisfies Module

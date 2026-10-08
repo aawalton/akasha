@@ -6,4 +6,6 @@ export const pageCalendarDndHelpers = {
   slug: "page-calendar-dnd-helpers",
   definition: "Returns the calendar day whose cell rect contains the pointer point.",
   code: "ts",
+  createdAt: "2026-09-01T09:09:46.053Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

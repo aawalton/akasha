@@ -33,4 +33,6 @@ export const eventsReading = {
       statement: "A stream still waiting to be answered for that long has failed too.",
     },
   ],
+  createdAt: "2026-09-24T19:47:28.641Z",
+  updatedAt: "2026-09-26T17:08:01.000Z",
 } as const satisfies Module

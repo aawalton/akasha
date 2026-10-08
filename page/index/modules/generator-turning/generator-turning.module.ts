@@ -34,4 +34,6 @@ export const generatorTurning = {
       statement: "Nothing here weighs a file no generator writes.",
     },
   ],
+  createdAt: "2026-09-21T19:25:25.195Z",
+  updatedAt: "2026-09-24T19:40:51.000Z",
 } as const satisfies Module

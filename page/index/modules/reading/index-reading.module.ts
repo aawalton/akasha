@@ -255,4 +255,6 @@ export const indexReading = {
       statement: "A fixture naming no id files a relation carrying none.",
     },
   ],
+  createdAt: "2026-08-29T04:53:12.684Z",
+  updatedAt: "2026-09-27T01:24:51.000Z",
 } as const satisfies Module

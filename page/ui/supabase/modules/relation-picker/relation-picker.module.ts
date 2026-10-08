@@ -41,4 +41,6 @@ export const relationPicker = {
       statement: "A picker asks for 50 pages at a time, and loading more asks for 50 more.",
     },
   ],
+  createdAt: "2026-09-02T09:13:05.030Z",
+  updatedAt: "2026-09-27T16:35:59.000Z",
 } as const satisfies Module

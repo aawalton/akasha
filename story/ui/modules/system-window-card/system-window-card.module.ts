@@ -6,4 +6,6 @@ export const systemWindowCard = {
   slug: "system-window-card",
   definition: "a system window drawn as its type's card",
   code: "tsx",
+  createdAt: "2026-09-02T17:25:53.928Z",
+  updatedAt: "2026-09-22T14:00:26.000Z",
 } as const satisfies Module

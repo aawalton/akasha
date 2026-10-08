@@ -33,4 +33,6 @@ export const uuidVersion7 = {
       statement: "The moment a uuid was made is read back only from a uuid of version 7.",
     },
   ],
+  createdAt: "2026-09-07T12:47:46.657Z",
+  updatedAt: "2026-09-25T04:24:33.000Z",
 } as const satisfies Module

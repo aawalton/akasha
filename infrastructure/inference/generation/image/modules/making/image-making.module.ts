@@ -33,4 +33,6 @@ export const imageMaking = {
       statement: "An input or reference image no image page has is left unstated.",
     },
   ],
+  createdAt: "2026-09-26T16:25:09.811Z",
+  updatedAt: "2026-09-26T16:26:17.000Z",
 } as const satisfies Module

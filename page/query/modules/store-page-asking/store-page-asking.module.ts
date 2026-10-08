@@ -13,4 +13,6 @@ export const storePageAsking = {
       statement: "Nothing here has an answer for a later question.",
     },
   ],
+  createdAt: "2026-09-01T03:04:31.146Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

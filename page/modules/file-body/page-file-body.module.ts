@@ -77,4 +77,6 @@ export const pageFileBody = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-05T19:54:53.894Z",
+  updatedAt: "2026-09-22T14:29:18.000Z",
 } as const satisfies Module

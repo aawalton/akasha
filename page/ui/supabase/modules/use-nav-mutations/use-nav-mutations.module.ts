@@ -6,4 +6,6 @@ export const useNavMutations = {
   slug: "use-nav-mutations",
   definition: "Creates, renames and reorders nav items, and makes a slug from a name.",
   code: "ts",
+  createdAt: "2026-09-02T11:27:44.767Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

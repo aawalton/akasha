@@ -6,4 +6,6 @@ export const readerProseBlock = {
   slug: "reader-prose-block",
   definition: "A block of prose in the reader.",
   code: "tsx",
+  createdAt: "2026-09-02T11:43:33.486Z",
+  updatedAt: "2026-09-24T23:24:00.000Z",
 } as const satisfies Module

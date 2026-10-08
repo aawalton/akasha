@@ -18,4 +18,6 @@ export const archiveOfWorldsAppShell = {
       statement: "The name over the navigation is the title of the Archive of Worlds web app page.",
     },
   ],
+  createdAt: "2026-09-03T04:23:43.671Z",
+  updatedAt: "2026-09-27T11:46:21.000Z",
 } as const satisfies Module

@@ -38,4 +38,6 @@ export const tickRatchet = {
       statement: "Ending is the only thing the unit can see.",
     },
   ],
+  createdAt: "2026-09-03T18:25:44.875Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

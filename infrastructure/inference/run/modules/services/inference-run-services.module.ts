@@ -16,4 +16,6 @@ export const inferenceRunServices = {
       statement: "A service that pins nothing names an empty set.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-26T16:52:57.000Z",
 } as const satisfies Module

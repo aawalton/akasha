@@ -24,4 +24,6 @@ export const siteDocumentDrawing = {
       statement: "A route may draw a piece of its own beneath a section's text, as a form is.",
     },
   ],
+  createdAt: "2026-09-24T23:06:41.406Z",
+  updatedAt: "2026-09-24T23:15:57.000Z",
 } as const satisfies Module

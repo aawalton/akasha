@@ -17,4 +17,6 @@ export const transportNaming = {
       statement: "A pod carries labels beyond the labels that pod is selected by.",
     },
   ],
+  createdAt: "2026-09-03T16:24:39.441Z",
+  updatedAt: "2026-09-24T23:47:18.000Z",
 } as const satisfies Module

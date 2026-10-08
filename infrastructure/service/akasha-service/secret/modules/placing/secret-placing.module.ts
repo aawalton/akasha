@@ -60,4 +60,6 @@ export const secretPlacing = {
         "A resource name a manifest demands is placed whole rather than at the demanded keys alone.",
     },
   ],
+  createdAt: "2026-09-03T22:50:27.685Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

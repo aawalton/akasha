@@ -118,4 +118,6 @@ export const workloadApplying = {
         "A deploy places the secrets even where every manifest already matches the cluster.",
     },
   ],
+  createdAt: "2026-09-10T19:58:24.756Z",
+  updatedAt: "2026-09-25T18:13:14.000Z",
 } as const satisfies Module

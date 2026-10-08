@@ -49,4 +49,6 @@ export const proseBeside = {
       statement: "A read that is refused or throws is reported.",
     },
   ],
+  createdAt: "2026-09-14T19:25:14.542Z",
+  updatedAt: "2026-09-28T14:30:56.000Z",
 } as const satisfies Module

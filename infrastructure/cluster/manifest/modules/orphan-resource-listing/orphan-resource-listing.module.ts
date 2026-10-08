@@ -41,4 +41,6 @@ export const orphanResourceListing = {
       statement: "A sweep missing a credential ends as a sweep that could not run.",
     },
   ],
+  createdAt: "2026-09-03T17:59:28.300Z",
+  updatedAt: "2026-09-24T22:48:00.000Z",
 } as const satisfies Module

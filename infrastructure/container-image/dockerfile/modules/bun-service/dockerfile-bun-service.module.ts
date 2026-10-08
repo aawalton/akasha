@@ -6,4 +6,6 @@ export const dockerfileBunService = {
   slug: "dockerfile-bun-service",
   definition: "a Bun service's Dockerfile",
   code: "ts",
+  createdAt: "2026-09-03T17:51:28.767Z",
+  updatedAt: "2026-09-22T14:07:45.000Z",
 } as const satisfies Module

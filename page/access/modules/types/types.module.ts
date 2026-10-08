@@ -6,4 +6,6 @@ export const types = {
   slug: "types",
   definition: "the shapes a page read or write takes",
   code: "ts",
+  createdAt: "2026-09-01T07:19:56.982Z",
+  updatedAt: "2026-09-22T14:01:10.000Z",
 } as const satisfies Module

@@ -62,4 +62,6 @@ export const characterFiling = {
         "A character's appearances are how many chapters that character's claims come from.",
     },
   ],
+  createdAt: "2026-09-19T00:08:00.250Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

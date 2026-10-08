@@ -45,4 +45,6 @@ export const workstationSecrets = {
       statement: "No value written here is answered back to the caller.",
     },
   ],
+  createdAt: "2026-09-10T19:53:47.437Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

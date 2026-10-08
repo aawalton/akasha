@@ -30,4 +30,6 @@ export const beatPictures = {
       statement: "Pictures keep the order handed in within a beat, and run in beat order.",
     },
   ],
+  createdAt: "2026-10-03T18:37:15.746Z",
+  updatedAt: "2026-10-04T09:21:50.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const kubeStateMetricsManifests = {
   slug: "kube-state-metrics-manifests",
   definition: "the exporter that publishes the cluster's objects as metrics",
   code: "ts",
+  createdAt: "2026-09-05T22:27:13.486Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

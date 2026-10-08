@@ -37,5 +37,6 @@ export const wallpaperOrder = {
       statement: "A stamp nothing can read sorts behind every stamp something can read.",
     },
   ],
-  updatedAt: "2026-10-08T14:57:48.470Z",
+  updatedAt: "2026-10-08T16:01:46.396Z",
+  createdAt: "2026-09-06T20:28:13.167Z",
 } as const satisfies Module

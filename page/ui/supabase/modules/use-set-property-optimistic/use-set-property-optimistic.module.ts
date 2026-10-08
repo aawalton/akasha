@@ -7,4 +7,6 @@ export const useSetPropertyOptimistic = {
   definition:
     "Sets a property on a page in the local store, then sends the patch the caller handed in.",
   code: "tsx",
+  createdAt: "2026-09-02T11:27:44.767Z",
+  updatedAt: "2026-09-22T10:07:59.000Z",
 } as const satisfies Module

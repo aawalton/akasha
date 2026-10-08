@@ -24,4 +24,6 @@ export const followPlanning = {
       statement: "A file a computed property keeps is heard once, for every page type carrying it.",
     },
   ],
+  createdAt: "2026-09-27T07:06:03.700Z",
+  updatedAt: "2026-09-27T07:06:11.000Z",
 } as const satisfies Module

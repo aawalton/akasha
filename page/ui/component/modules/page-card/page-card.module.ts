@@ -25,4 +25,6 @@ export const pageCard = {
       statement: "A page no page type above it draws takes the card beside page.",
     },
   ],
+  createdAt: "2026-09-02T13:38:02.089Z",
+  updatedAt: "2026-09-22T10:05:52.000Z",
 } as const satisfies Module

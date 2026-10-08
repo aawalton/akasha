@@ -24,4 +24,6 @@ export const embeddedViewContent = {
       statement: "A setting changed in the view is saved to the view rather than to the address.",
     },
   ],
+  createdAt: "2026-09-28T20:53:14.434Z",
+  updatedAt: "2026-09-28T20:53:34.000Z",
 } as const satisfies Module

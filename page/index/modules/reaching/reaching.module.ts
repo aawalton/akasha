@@ -136,4 +136,6 @@ export const reaching = {
         "An entry shape declaring no relation is answered as carrying no rows, so its rows are never read.",
     },
   ],
+  createdAt: "2026-08-29T20:54:01.686Z",
+  updatedAt: "2026-09-24T17:13:46.000Z",
 } as const satisfies Module

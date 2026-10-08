@@ -28,4 +28,6 @@ export const eventSourceStream = {
       statement: "A page rendered on a server follows nothing through this stream.",
     },
   ],
+  createdAt: "2026-09-24T22:56:17.595Z",
+  updatedAt: "2026-09-26T17:48:49.000Z",
 } as const satisfies Module

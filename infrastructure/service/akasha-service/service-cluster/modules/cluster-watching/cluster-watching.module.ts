@@ -39,4 +39,6 @@ export const clusterWatching = {
       statement: "Nothing here tells a persona that a cluster service is broken.",
     },
   ],
+  createdAt: "2026-09-24T18:41:51.145Z",
+  updatedAt: "2026-09-25T16:38:02.000Z",
 } as const satisfies Module

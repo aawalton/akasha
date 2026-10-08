@@ -6,4 +6,6 @@ export const useTextareaInput = {
   slug: "use-textarea-input",
   definition: "the typing, shortcuts and caret handling an editable block's textarea takes",
   code: "ts",
+  createdAt: "2026-09-02T13:32:29.642Z",
+  updatedAt: "2026-09-22T10:17:30.000Z",
 } as const satisfies Module

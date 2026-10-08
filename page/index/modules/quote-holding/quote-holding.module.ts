@@ -42,4 +42,6 @@ export const quoteHolding = {
       statement: "Nothing here rewrites a body.",
     },
   ],
+  createdAt: "2026-09-15T14:39:43.428Z",
+  updatedAt: "2026-09-25T15:08:27.000Z",
 } as const satisfies Module

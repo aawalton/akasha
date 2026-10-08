@@ -53,4 +53,6 @@ export const playedLayout = {
       statement: "Under a title bar held on a wide screen, the panels stay below that bar.",
     },
   ],
+  createdAt: "2026-09-27T23:39:00.317Z",
+  updatedAt: "2026-09-28T20:30:51.000Z",
 } as const satisfies Module

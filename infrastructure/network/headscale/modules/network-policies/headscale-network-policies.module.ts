@@ -6,4 +6,6 @@ export const headscaleNetworkPolicies = {
   slug: "headscale-network-policies",
   definition: "the network policies bounding what the private network's workloads reach",
   code: "ts",
+  createdAt: "2026-09-08T18:29:01.980Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

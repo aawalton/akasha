@@ -6,4 +6,6 @@ export const esoBaseGameStringIds36 = {
   slug: "eso-base-game-string-ids-36",
   definition: "a set of the string ids the base game provides, in the whole census's order",
   code: "ts",
+  createdAt: "2026-09-02T18:47:20.063Z",
+  updatedAt: "2026-09-22T13:13:12.000Z",
 } as const satisfies Module

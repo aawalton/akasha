@@ -104,4 +104,6 @@ export const chapterPanels = {
         "An open chapter reads its beats again whenever its beats version changes, so a landed picture shows.",
     },
   ],
+  createdAt: "2026-09-28T20:11:30.895Z",
+  updatedAt: "2026-10-04T13:27:04.000Z",
 } as const satisfies Module

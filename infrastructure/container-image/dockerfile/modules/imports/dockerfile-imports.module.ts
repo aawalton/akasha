@@ -33,4 +33,6 @@ export const dockerfileImports = {
       statement: "The graph answers what a service's entry files reach.",
     },
   ],
+  createdAt: "2026-09-03T17:51:28.767Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

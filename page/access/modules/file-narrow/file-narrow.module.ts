@@ -16,4 +16,6 @@ export const fileNarrow = {
       statement: "A narrow on a path is weighed here rather than asked of the service.",
     },
   ],
+  createdAt: "2026-09-01T07:19:56.975Z",
+  updatedAt: "2026-09-22T13:54:50.000Z",
 } as const satisfies Module

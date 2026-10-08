@@ -52,4 +52,6 @@ export const inlineCover = {
         "A cover whose story is handed carries the button asking that story to draw it again.",
     },
   ],
+  createdAt: "2026-10-02T17:25:01.691Z",
+  updatedAt: "2026-10-03T19:52:03.000Z",
 } as const satisfies Module

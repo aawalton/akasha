@@ -43,4 +43,6 @@ export const bandedRoll = {
       statement: "Every check settling this way imports this rule rather than stating it again.",
     },
   ],
+  createdAt: "2026-09-27T16:10:52.233Z",
+  updatedAt: "2026-10-02T17:44:35.000Z",
 } as const satisfies Module

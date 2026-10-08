@@ -25,4 +25,6 @@ export const inferenceSeed = {
       statement: "Nothing here reaches a service or reads the bytes a service made of the seed.",
     },
   ],
+  createdAt: "2026-09-03T16:50:11.317Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

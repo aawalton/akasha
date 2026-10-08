@@ -6,4 +6,6 @@ export const pageListSection = {
   slug: "page-list-section",
   definition: "a section of a listing, shown as a table, grid, gallery or card collection",
   code: "tsx",
+  createdAt: "2026-09-02T13:40:15.881Z",
+  updatedAt: "2026-09-22T10:06:02.000Z",
 } as const satisfies Module

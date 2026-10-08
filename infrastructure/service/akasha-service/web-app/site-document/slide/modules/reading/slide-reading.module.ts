@@ -25,4 +25,6 @@ export const slideReading = {
       statement: "An image page is served to anyone only while a slide shows it.",
     },
   ],
+  createdAt: "2026-09-25T01:18:36.339Z",
+  updatedAt: "2026-09-25T12:56:26.000Z",
 } as const satisfies Module

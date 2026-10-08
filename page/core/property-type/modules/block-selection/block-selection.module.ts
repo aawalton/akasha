@@ -6,4 +6,6 @@ export const blockSelection = {
   slug: "block-selection",
   definition: "which blocks of a document are currently selected",
   code: "ts",
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

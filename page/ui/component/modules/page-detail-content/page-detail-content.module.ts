@@ -22,4 +22,6 @@ export const pageDetailContent = {
       statement: "That drawing is handed the page as read, so it need not read the page again.",
     },
   ],
+  createdAt: "2026-09-02T13:41:59.084Z",
+  updatedAt: "2026-09-27T14:41:05.000Z",
 } as const satisfies Module

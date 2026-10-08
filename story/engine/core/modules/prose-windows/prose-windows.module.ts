@@ -26,4 +26,6 @@ export const proseWindows = {
       statement: "A window whose fields draw no card is still cut out of the prose.",
     },
   ],
+  createdAt: "2026-09-24T16:45:13.902Z",
+  updatedAt: "2026-09-24T16:48:09.000Z",
 } as const satisfies Module

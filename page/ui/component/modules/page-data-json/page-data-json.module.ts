@@ -6,4 +6,6 @@ export const pageDataJson = {
   slug: "page-data-json",
   definition: "a page's properties taken as the JSON shape the property types take",
   code: "ts",
+  createdAt: "2026-09-01T11:22:40.762Z",
+  updatedAt: "2026-09-22T13:25:39.000Z",
 } as const satisfies Module

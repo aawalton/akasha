@@ -68,4 +68,6 @@ export const checkoutRoots = {
     },
   ],
   answersACheckoutRoot: true,
+  createdAt: "2026-09-01T11:41:25.916Z",
+  updatedAt: "2026-09-22T14:51:00.000Z",
 } as const satisfies Module

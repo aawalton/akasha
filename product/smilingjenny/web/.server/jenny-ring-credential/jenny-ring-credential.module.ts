@@ -7,4 +7,6 @@ export const jennyRingCredential = {
   definition:
     "the credential a caller into Jenny's ring presents, and the refusal of one without it",
   code: "ts",
+  createdAt: "2026-09-03T03:38:30.988Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

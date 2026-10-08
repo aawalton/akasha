@@ -43,4 +43,6 @@ export const cronDue = {
       statement: "Nothing here reads a clock.",
     },
   ],
+  createdAt: "2026-09-24T18:36:48.154Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

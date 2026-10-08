@@ -7,4 +7,6 @@ export const hudPanel = {
   definition: "a game's level, attribute points and pools as labelled rows and bars",
   code: "tsx",
   test: "tsx",
+  createdAt: "2026-09-02T14:52:27.034Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

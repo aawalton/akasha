@@ -38,4 +38,6 @@ export const poolPanel = {
         "A game names the pool of points left to raise an attribute, drawn apart from the bars.",
     },
   ],
+  createdAt: "2026-09-21T15:42:09.457Z",
+  updatedAt: "2026-09-26T17:41:29.000Z",
 } as const satisfies Module

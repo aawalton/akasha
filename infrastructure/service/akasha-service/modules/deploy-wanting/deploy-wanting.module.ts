@@ -75,4 +75,6 @@ export const deployWanting = {
         "What changed since one commit is asked of git once a tick however many services name it.",
     },
   ],
+  createdAt: "2026-09-12T12:06:36.967Z",
+  updatedAt: "2026-09-25T18:18:03.000Z",
 } as const satisfies Module

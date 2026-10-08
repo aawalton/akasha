@@ -12,4 +12,6 @@ export const stateSchema = {
       statement: "State keeps the keys the schema does not name.",
     },
   ],
+  createdAt: "2026-09-01T05:29:46.052Z",
+  updatedAt: "2026-09-22T10:07:59.000Z",
 } as const satisfies Module

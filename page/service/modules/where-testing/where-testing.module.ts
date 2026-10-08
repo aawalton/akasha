@@ -81,4 +81,6 @@ export const whereTesting = {
       statement: "Nothing here knows a query's parts but its `where`.",
     },
   ],
+  createdAt: "2026-09-01T07:27:39.852Z",
+  updatedAt: "2026-09-27T16:02:28.000Z",
 } as const satisfies Module

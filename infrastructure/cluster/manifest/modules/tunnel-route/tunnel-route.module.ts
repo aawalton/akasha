@@ -6,4 +6,6 @@ export const tunnelRoute = {
   slug: "tunnel-route",
   definition: "a public hostname and its answering in-cluster address",
   code: "ts",
+  createdAt: "2026-09-03T16:17:58.882Z",
+  updatedAt: "2026-09-22T13:59:20.000Z",
 } as const satisfies Module

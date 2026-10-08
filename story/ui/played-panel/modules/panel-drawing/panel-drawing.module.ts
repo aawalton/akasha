@@ -76,4 +76,6 @@ export const panelDrawing = {
         "A panel is handed what sends the game a choice, where the game has a game master.",
     },
   ],
+  createdAt: "2026-09-21T15:40:38.955Z",
+  updatedAt: "2026-10-04T09:31:22.000Z",
 } as const satisfies Module

@@ -17,4 +17,6 @@ export const personaTargets = {
         "The empty list is the answer the persona pages give rather than a reading that failed.",
     },
   ],
+  createdAt: "2026-09-03T04:18:48.798Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

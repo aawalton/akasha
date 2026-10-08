@@ -6,4 +6,6 @@ export const navCountBadge = {
   slug: "nav-count-badge",
   definition: "The count badge beside a nav item.",
   code: "tsx",
+  createdAt: "2026-09-02T12:08:30.268Z",
+  updatedAt: "2026-09-22T10:06:02.000Z",
 } as const satisfies Module

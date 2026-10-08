@@ -6,4 +6,6 @@ export const pageTypeSlug = {
   slug: "page-type-slug",
   definition: "a page type's slug told apart from any other text by its type",
   code: "ts",
+  createdAt: "2026-09-01T08:26:25.760Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

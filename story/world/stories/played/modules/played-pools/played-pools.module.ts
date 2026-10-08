@@ -34,4 +34,6 @@ export const playedPools = {
       statement: "Nothing here reaches the store, so what is handed in is all that is read.",
     },
   ],
+  createdAt: "2026-09-30T10:32:59.316Z",
+  updatedAt: "2026-09-30T10:33:21.000Z",
 } as const satisfies Module

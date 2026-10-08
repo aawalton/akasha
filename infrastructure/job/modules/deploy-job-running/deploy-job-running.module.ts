@@ -45,5 +45,6 @@ export const deployJobRunning = {
       statement: "The commit the subject was last deployed at is read before the job is composed.",
     },
   ],
-  updatedAt: "2026-10-08T15:43:25.589Z",
+  updatedAt: "2026-10-08T16:01:46.396Z",
+  createdAt: "2026-09-14T17:41:48.445Z",
 } as const satisfies Module

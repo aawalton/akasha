@@ -17,4 +17,6 @@ export const acquire = {
       statement: "A page type named by an empty slug is refused where it is asked for.",
     },
   ],
+  createdAt: "2026-09-01T05:20:20.797Z",
+  updatedAt: "2026-09-25T19:57:59.000Z",
 } as const satisfies Module

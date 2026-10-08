@@ -29,4 +29,6 @@ export const innworldAppShell = {
       statement: "The name over the sidebar is the title of the site document at the empty path.",
     },
   ],
+  createdAt: "2026-09-21T23:44:34.911Z",
+  updatedAt: "2026-09-27T12:32:11.000Z",
 } as const satisfies Module

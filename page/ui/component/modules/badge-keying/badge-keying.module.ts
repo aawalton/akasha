@@ -20,4 +20,6 @@ export const badgeKeying = {
       statement: "No key here is an id a page keeps.",
     },
   ],
+  createdAt: "2026-09-22T18:18:41.913Z",
+  updatedAt: "2026-09-22T18:19:27.000Z",
 } as const satisfies Module

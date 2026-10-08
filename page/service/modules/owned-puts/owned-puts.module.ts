@@ -35,4 +35,6 @@ export const ownedPuts = {
       statement: "The page types a write reaches are read only where a file is some page's part.",
     },
   ],
+  createdAt: "2026-09-25T17:00:04.772Z",
+  updatedAt: "2026-09-25T17:00:22.000Z",
 } as const satisfies Module

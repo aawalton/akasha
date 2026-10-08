@@ -81,4 +81,6 @@ export const characterCoverPanel = {
       statement: "A cover is asked for at twice the width the panel draws it.",
     },
   ],
+  createdAt: "2026-09-26T16:13:19.118Z",
+  updatedAt: "2026-10-04T09:16:02.000Z",
 } as const satisfies Module

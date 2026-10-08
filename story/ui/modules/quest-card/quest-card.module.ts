@@ -6,4 +6,6 @@ export const questCard = {
   slug: "quest-card",
   definition: "a quest's status badge beside its objective, its conditions and its reward",
   code: "tsx",
+  createdAt: "2026-09-02T14:52:27.062Z",
+  updatedAt: "2026-09-22T10:09:59.000Z",
 } as const satisfies Module

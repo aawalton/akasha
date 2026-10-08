@@ -33,4 +33,6 @@ export const playerBeside = {
       statement: "Nothing here writes a page.",
     },
   ],
+  createdAt: "2026-09-22T19:36:47.460Z",
+  updatedAt: "2026-09-28T14:30:31.000Z",
 } as const satisfies Module

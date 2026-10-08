@@ -70,4 +70,6 @@ export const personEnrolment = {
       statement: "Nothing here decides a person's access.",
     },
   ],
+  createdAt: "2026-09-01T03:23:41.966Z",
+  updatedAt: "2026-09-25T12:37:32.000Z",
 } as const satisfies Module

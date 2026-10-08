@@ -16,4 +16,6 @@ export const guiSession = {
       statement: "A marker with no exit code reads as no session.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-22T14:01:10.000Z",
 } as const satisfies Module

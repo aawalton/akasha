@@ -25,4 +25,6 @@ export const usePagesFilteredQuery = {
       statement: "A listing config handed in is read rather than the one the page type states.",
     },
   ],
+  createdAt: "2026-09-02T12:08:30.268Z",
+  updatedAt: "2026-09-27T12:34:51.000Z",
 } as const satisfies Module

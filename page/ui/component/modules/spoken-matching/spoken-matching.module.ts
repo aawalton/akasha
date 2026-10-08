@@ -28,4 +28,6 @@ export const spokenMatching = {
       statement: "A sentence whose end is not marked yet runs to the first word ending a sentence.",
     },
   ],
+  createdAt: "2026-10-06T15:23:36.250Z",
+  updatedAt: "2026-10-06T15:23:54.000Z",
 } as const satisfies Module

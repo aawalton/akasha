@@ -71,4 +71,6 @@ export const changeFollowing = {
         "A view may watch one page or a whole page type on the store's stream, and is told each push.",
     },
   ],
+  createdAt: "2026-09-24T18:50:58.381Z",
+  updatedAt: "2026-09-28T23:57:05.000Z",
 } as const satisfies Module

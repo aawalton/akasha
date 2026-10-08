@@ -86,4 +86,6 @@ export const propertyShaping = {
       statement: "Nothing here lists a directory.",
     },
   ],
+  createdAt: "2026-09-11T19:18:08.367Z",
+  updatedAt: "2026-09-19T03:41:43.000Z",
 } as const satisfies Module

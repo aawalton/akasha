@@ -6,4 +6,6 @@ export const alertSound = {
   slug: "alert-sound",
   definition: "the preset tones an alert plays through the browser's audio",
   code: "ts",
+  createdAt: "2026-09-02T14:38:30.874Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

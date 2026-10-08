@@ -6,4 +6,6 @@ export const pageDetailPropertiesShared = {
   slug: "page-detail-properties-shared",
   definition: "the date badge editing a page's detail properties",
   code: "tsx",
+  createdAt: "2026-09-02T09:40:45.997Z",
+  updatedAt: "2026-09-22T13:59:59.000Z",
 } as const satisfies Module

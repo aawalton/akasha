@@ -96,4 +96,6 @@ export const loreScrubbing = {
       statement: "Prose a withheld page held before its latest body lends nothing.",
     },
   ],
+  createdAt: "2026-09-25T21:14:47.999Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies Module

@@ -31,4 +31,6 @@ export const webPhraseReading = {
         "A site with no page store says only the loader's phrases, which follow their pages.",
     },
   ],
+  createdAt: "2026-09-27T12:23:57.793Z",
+  updatedAt: "2026-09-27T14:42:32.000Z",
 } as const satisfies Module

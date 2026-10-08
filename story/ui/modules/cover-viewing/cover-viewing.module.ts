@@ -25,4 +25,6 @@ export const coverViewing = {
       statement: "A panel may lay controls of its own over the opened cover.",
     },
   ],
+  createdAt: "2026-09-28T14:15:48.150Z",
+  updatedAt: "2026-09-28T14:16:05.000Z",
 } as const satisfies Module

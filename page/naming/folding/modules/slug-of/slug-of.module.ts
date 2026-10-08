@@ -6,4 +6,6 @@ export const slugOf = {
   slug: "slug-of",
   definition: "the identity a key reduces to",
   code: "ts",
+  createdAt: "2026-09-02T07:50:22.967Z",
+  updatedAt: "2026-09-15T20:25:42.000Z",
 } as const satisfies Module

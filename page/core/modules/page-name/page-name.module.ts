@@ -21,4 +21,6 @@ export const pageName = {
       statement: "A page with neither is named Untitled.",
     },
   ],
+  createdAt: "2026-09-24T15:57:15.164Z",
+  updatedAt: "2026-09-24T15:58:27.000Z",
 } as const satisfies Module

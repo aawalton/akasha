@@ -29,4 +29,6 @@ export const mlxImageClient = {
         "A timeout says the pool serves one request at a time so the wait counts the queue.",
     },
   ],
+  createdAt: "2026-09-03T16:50:11.317Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

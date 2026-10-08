@@ -16,4 +16,6 @@ export const actionIntent = {
       statement: "The ceiling on intent is what keeps every add riding on it from running away.",
     },
   ],
+  createdAt: "2026-09-21T17:28:57.157Z",
+  updatedAt: "2026-09-26T14:47:20.000Z",
 } as const satisfies Module

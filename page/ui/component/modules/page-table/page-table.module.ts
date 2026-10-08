@@ -6,4 +6,6 @@ export const pageTable = {
   slug: "page-table",
   definition: "the rows of a view shown as a table",
   code: "tsx",
+  createdAt: "2026-09-02T13:38:02.099Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const jwtExp = {
   slug: "jwt-exp",
   definition: "when a token expires, and how long before that it is refreshed",
   code: "ts",
+  createdAt: "2026-09-01T05:20:20.820Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

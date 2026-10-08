@@ -6,4 +6,6 @@ export const propertyBadgeDrawings = {
   slug: "property-badge-drawings",
   definition: "the badge each page type draws a property's value with, taken by the bundler",
   code: "ts",
+  createdAt: "2026-09-14T12:37:07.473Z",
+  updatedAt: "2026-09-22T14:23:15.000Z",
 } as const satisfies Module

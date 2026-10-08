@@ -21,4 +21,6 @@ export const rrule = {
       statement: "Whether a rule reads as words is asked of the wording rather than judged here.",
     },
   ],
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-25T15:03:09.000Z",
 } as const satisfies Module

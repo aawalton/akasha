@@ -145,4 +145,6 @@ export const pageValue = {
         "Answering a body already held costs under a fifth of what reading that body costs.",
     },
   ],
+  createdAt: "2026-08-31T18:52:11.653Z",
+  updatedAt: "2026-09-27T01:03:45.000Z",
 } as const satisfies Module

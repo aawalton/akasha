@@ -74,4 +74,6 @@ export const pageThreading = {
       statement: "No write, landing, follow or stream goes to a reading thread.",
     },
   ],
+  createdAt: "2026-09-27T13:03:47.549Z",
+  updatedAt: "2026-09-27T19:41:56.000Z",
 } as const satisfies Module

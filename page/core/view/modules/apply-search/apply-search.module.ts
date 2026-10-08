@@ -6,4 +6,6 @@ export const applySearch = {
   slug: "apply-search",
   definition: "the rows matching a search term within a field",
   code: "ts",
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-22T10:06:02.000Z",
 } as const satisfies Module

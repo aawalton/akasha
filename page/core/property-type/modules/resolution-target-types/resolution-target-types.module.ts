@@ -6,4 +6,6 @@ export const resolutionTargetTypes = {
   slug: "resolution-target-types",
   definition: "the page types of the related pages a property resolves",
   code: "ts",
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-22T14:01:10.000Z",
 } as const satisfies Module

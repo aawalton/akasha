@@ -52,4 +52,6 @@ export const narrationPlayhead = {
         "The sentence spoken runs from the word its mark begins at to the next mark's word.",
     },
   ],
+  createdAt: "2026-10-05T20:45:59.482Z",
+  updatedAt: "2026-10-06T15:19:52.000Z",
 } as const satisfies Module

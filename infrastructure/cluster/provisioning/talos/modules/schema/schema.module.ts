@@ -6,4 +6,6 @@ export const schema = {
   slug: "schema",
   definition: "the schemas a Talos node's and a cluster's declared config hold to",
   code: "ts",
+  createdAt: "2026-09-03T16:21:42.287Z",
+  updatedAt: "2026-09-24T16:28:05.000Z",
 } as const satisfies Module

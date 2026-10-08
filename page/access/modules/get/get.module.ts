@@ -6,4 +6,6 @@ export const get = {
   slug: "get",
   definition: "pages read from the store",
   code: "ts",
+  createdAt: "2026-09-01T07:19:56.978Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

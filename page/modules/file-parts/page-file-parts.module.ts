@@ -70,4 +70,6 @@ export const pageFileParts = {
       statement: "Nothing here reads the index or the disk.",
     },
   ],
+  createdAt: "2026-09-02T07:35:31.633Z",
+  updatedAt: "2026-09-22T14:08:50.000Z",
 } as const satisfies Module

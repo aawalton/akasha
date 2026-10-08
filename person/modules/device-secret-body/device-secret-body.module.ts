@@ -30,4 +30,6 @@ export const deviceSecretBody = {
       statement: "Nothing here mints or revokes.",
     },
   ],
+  createdAt: "2026-09-01T04:57:50.085Z",
+  updatedAt: "2026-09-25T15:38:36.000Z",
 } as const satisfies Module

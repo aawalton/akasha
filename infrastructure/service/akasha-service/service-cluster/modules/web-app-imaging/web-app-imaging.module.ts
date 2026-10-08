@@ -103,4 +103,6 @@ export const webAppImaging = {
       statement: "Nothing here applies a manifest.",
     },
   ],
+  createdAt: "2026-09-24T23:16:06.569Z",
+  updatedAt: "2026-09-25T16:29:15.000Z",
 } as const satisfies Module

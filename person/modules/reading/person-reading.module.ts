@@ -36,4 +36,6 @@ export const personReading = {
       statement: "A person required by slug where none answers is an error.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.640Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

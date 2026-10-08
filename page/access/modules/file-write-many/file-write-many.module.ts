@@ -48,4 +48,6 @@ export const fileWriteMany = {
         "An item matching several pages refuses the whole batch before anything is written.",
     },
   ],
+  createdAt: "2026-09-13T15:06:13.531Z",
+  updatedAt: "2026-09-25T15:30:33.000Z",
 } as const satisfies Module

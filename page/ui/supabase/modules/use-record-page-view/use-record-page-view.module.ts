@@ -20,4 +20,6 @@ export const useRecordPageView = {
       statement: "No page type is named here by its slug.",
     },
   ],
+  createdAt: "2026-09-01T11:22:40.763Z",
+  updatedAt: "2026-09-22T20:38:58.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const headscaleConstants = {
   slug: "headscale-constants",
   definition: "the namespace, labels and disk the private network's workloads carry",
   code: "ts",
+  createdAt: "2026-09-03T16:17:58.882Z",
+  updatedAt: "2026-09-24T23:17:58.000Z",
 } as const satisfies Module

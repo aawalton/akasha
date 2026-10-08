@@ -123,4 +123,6 @@ export const indexing = {
       statement: "A settle handed nothing works out what that settle writes.",
     },
   ],
+  createdAt: "2026-08-28T21:59:36.877Z",
+  updatedAt: "2026-09-22T00:09:48.000Z",
 } as const satisfies Module

@@ -130,4 +130,6 @@ export const filePropertyDefs = {
         "A definition says it is answered only when asked by name where its property says so.",
     },
   ],
+  createdAt: "2026-09-01T07:19:56.976Z",
+  updatedAt: "2026-09-28T23:57:05.000Z",
 } as const satisfies Module

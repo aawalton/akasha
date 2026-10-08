@@ -16,4 +16,6 @@ export const siteDocumentWelcome = {
       statement: "The front is drawn again whenever a site document changes.",
     },
   ],
+  createdAt: "2026-09-27T11:34:50.996Z",
+  updatedAt: "2026-09-27T11:35:04.000Z",
 } as const satisfies Module

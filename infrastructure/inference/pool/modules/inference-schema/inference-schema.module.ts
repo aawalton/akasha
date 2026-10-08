@@ -12,4 +12,6 @@ export const inferenceSchema = {
       statement: "Nothing here shapes a service, which a page type shapes instead.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-15T18:34:44.000Z",
 } as const satisfies Module

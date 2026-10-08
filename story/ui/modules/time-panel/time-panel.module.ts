@@ -20,4 +20,6 @@ export const timePanel = {
       statement: "No panel is drawn where there is no in-game time and no appointment to come.",
     },
   ],
+  createdAt: "2026-09-28T12:33:29.703Z",
+  updatedAt: "2026-09-28T12:33:49.000Z",
 } as const satisfies Module

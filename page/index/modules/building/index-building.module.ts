@@ -38,4 +38,6 @@ export const indexBuilding = {
       statement: "Nothing of the index itself is printed.",
     },
   ],
+  createdAt: "2026-09-14T18:14:41.590Z",
+  updatedAt: "2026-09-22T10:06:02.000Z",
 } as const satisfies Module

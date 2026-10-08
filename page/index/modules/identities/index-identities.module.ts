@@ -34,4 +34,6 @@ export const indexIdentities = {
       statement: "Nothing is filed here that an index beside its own page does not file.",
     },
   ],
+  createdAt: "2026-09-15T13:59:02.008Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

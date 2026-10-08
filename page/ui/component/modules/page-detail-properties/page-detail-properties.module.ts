@@ -32,4 +32,6 @@ export const pageDetailProperties = {
       statement: "A row's label is led by the icon of its property's page type.",
     },
   ],
+  createdAt: "2026-09-02T13:38:02.093Z",
+  updatedAt: "2026-09-24T20:01:31.000Z",
 } as const satisfies Module

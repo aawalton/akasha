@@ -7,4 +7,6 @@ export const useEffectiveListing = {
   definition:
     "React hook resolving a listing's effective view config together with its descendant pages.",
   code: "ts",
+  createdAt: "2026-09-02T08:59:14.922Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

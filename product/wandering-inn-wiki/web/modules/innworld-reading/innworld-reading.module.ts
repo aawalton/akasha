@@ -20,4 +20,6 @@ export const innworldReading = {
       statement: "Nothing here writes a page.",
     },
   ],
+  createdAt: "2026-09-21T22:33:43.029Z",
+  updatedAt: "2026-09-25T15:23:35.000Z",
 } as const satisfies Module

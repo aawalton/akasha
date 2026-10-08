@@ -17,4 +17,6 @@ export const propertyCarried = {
       statement: "Nothing here reads a page type from anywhere.",
     },
   ],
+  createdAt: "2026-09-22T20:37:43.608Z",
+  updatedAt: "2026-09-22T20:38:58.000Z",
 } as const satisfies Module

@@ -34,4 +34,6 @@ export const windowSpeaking = {
         "A word of three capitals or more is said as a word, unless it is a Roman numeral.",
     },
   ],
+  createdAt: "2026-10-05T20:26:35.515Z",
+  updatedAt: "2026-10-06T14:34:21.000Z",
 } as const satisfies Module

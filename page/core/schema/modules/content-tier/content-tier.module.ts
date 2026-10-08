@@ -6,4 +6,6 @@ export const contentTier = {
   slug: "content-tier",
   definition: "whether a property's value lives in the content storage tier",
   code: "ts",
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

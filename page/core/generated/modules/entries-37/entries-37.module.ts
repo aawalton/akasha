@@ -6,4 +6,6 @@ export const entries37 = {
   slug: "entries-37",
   definition: "part 37 of the icons the search index holds",
   code: "ts",
+  createdAt: "2026-09-01T06:17:26.857Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

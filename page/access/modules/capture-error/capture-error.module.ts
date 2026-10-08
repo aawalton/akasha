@@ -72,4 +72,6 @@ export const captureError = {
       statement: "Two captures of one error arriving together are each counted.",
     },
   ],
+  createdAt: "2026-09-01T07:19:56.969Z",
+  updatedAt: "2026-09-25T15:00:30.000Z",
 } as const satisfies Module

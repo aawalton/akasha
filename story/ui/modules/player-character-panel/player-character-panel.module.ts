@@ -81,4 +81,6 @@ export const playerCharacterPanel = {
       statement: "A panel handed no turns draws the player's character alone.",
     },
   ],
+  createdAt: "2026-09-28T12:57:51.552Z",
+  updatedAt: "2026-10-04T09:16:02.000Z",
 } as const satisfies Module

@@ -20,4 +20,6 @@ export const copFetch = {
       statement: "A slow cold model load is waited out.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-22T13:43:11.000Z",
 } as const satisfies Module

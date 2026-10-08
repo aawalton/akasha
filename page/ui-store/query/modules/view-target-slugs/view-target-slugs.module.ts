@@ -6,4 +6,6 @@ export const viewTargetSlugs = {
   slug: "view-target-slugs",
   definition: "a view's page type slugs",
   code: "ts",
+  createdAt: "2026-09-01T05:20:20.819Z",
+  updatedAt: "2026-09-22T14:00:26.000Z",
 } as const satisfies Module

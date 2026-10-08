@@ -60,4 +60,6 @@ export const turnCast = {
       statement: "A written chapter's list is kept up the same way a played turn's is.",
     },
   ],
+  createdAt: "2026-09-28T23:51:32.716Z",
+  updatedAt: "2026-09-30T08:40:32.000Z",
 } as const satisfies Module

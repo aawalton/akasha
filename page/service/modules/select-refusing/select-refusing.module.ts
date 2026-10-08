@@ -42,4 +42,6 @@ export const selectRefusing = {
       statement: "A select property whose values nothing states is not judged.",
     },
   ],
+  createdAt: "2026-09-27T01:35:46.167Z",
+  updatedAt: "2026-09-27T01:36:17.000Z",
 } as const satisfies Module

@@ -37,4 +37,6 @@ export const personaReading = {
       statement: "A last message time longer than twenty-four characters is refused.",
     },
   ],
+  createdAt: "2026-09-03T22:00:32.640Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

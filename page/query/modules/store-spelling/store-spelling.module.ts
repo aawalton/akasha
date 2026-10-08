@@ -45,4 +45,6 @@ export const storeSpelling = {
       statement: "Nothing here asks the store anything itself.",
     },
   ],
+  createdAt: "2026-09-02T18:37:08.613Z",
+  updatedAt: "2026-09-15T18:36:37.000Z",
 } as const satisfies Module

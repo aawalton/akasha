@@ -37,4 +37,6 @@ export const reviewFollowing = {
       statement: "A key is taken at once, and the write follows behind it.",
     },
   ],
+  createdAt: "2026-09-26T17:19:06.425Z",
+  updatedAt: "2026-09-27T01:13:43.000Z",
 } as const satisfies Module

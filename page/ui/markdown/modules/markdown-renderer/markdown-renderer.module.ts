@@ -34,4 +34,6 @@ export const markdownRenderer = {
         "An image whose address names a page that is no image is drawn as its words alone.",
     },
   ],
+  createdAt: "2026-09-02T12:08:30.267Z",
+  updatedAt: "2026-09-28T17:59:17.000Z",
 } as const satisfies Module

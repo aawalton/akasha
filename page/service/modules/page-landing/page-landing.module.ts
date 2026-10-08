@@ -43,4 +43,6 @@ export const pageLanding = {
       statement: "A landing thread that is lost is started again a second later.",
     },
   ],
+  createdAt: "2026-09-27T19:41:05.331Z",
+  updatedAt: "2026-09-27T19:41:56.000Z",
 } as const satisfies Module

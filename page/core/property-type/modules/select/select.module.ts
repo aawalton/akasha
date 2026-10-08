@@ -17,4 +17,6 @@ export const select = {
         "The shape of an option is inferred from the option schema rather than declared here.",
     },
   ],
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-21T18:11:15.000Z",
 } as const satisfies Module

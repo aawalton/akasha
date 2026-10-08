@@ -144,4 +144,6 @@ export const serviceInstalling = {
       statement: "The unit of a service left alone stays where it is rather than being taken away.",
     },
   ],
+  createdAt: "2026-09-01T00:33:15.170Z",
+  updatedAt: "2026-09-29T03:07:17.000Z",
 } as const satisfies Module

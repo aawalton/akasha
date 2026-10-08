@@ -77,4 +77,6 @@ export const secretSaying = {
       statement: "Nothing here reaches the cluster.",
     },
   ],
+  createdAt: "2026-09-06T11:08:34.331Z",
+  updatedAt: "2026-09-24T19:06:05.000Z",
 } as const satisfies Module

@@ -21,4 +21,6 @@ export const indexShape = {
       statement: "Nothing here reads or writes.",
     },
   ],
+  createdAt: "2026-08-31T15:19:48.333Z",
+  updatedAt: "2026-09-22T13:54:50.000Z",
 } as const satisfies Module

@@ -22,4 +22,6 @@ export const secretChecksum = {
       statement: "A call naming no key sums every key the secret pages place into that secret.",
     },
   ],
+  createdAt: "2026-09-03T12:19:38.524Z",
+  updatedAt: "2026-09-22T13:52:42.000Z",
 } as const satisfies Module

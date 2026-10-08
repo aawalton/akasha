@@ -104,4 +104,6 @@ export const playedRows = {
       statement: "No beat log and no action box are composed here, since no panel draws either.",
     },
   ],
+  createdAt: "2026-09-14T19:22:52.305Z",
+  updatedAt: "2026-10-02T17:25:43.000Z",
 } as const satisfies Module

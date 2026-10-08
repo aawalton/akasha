@@ -6,4 +6,6 @@ export const useViewRowHandlers = {
   slug: "use-view-row-handlers",
   definition: "The row callbacks a view needs: create, delete, reorder and set a property.",
   code: "ts",
+  createdAt: "2026-09-02T11:43:33.486Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

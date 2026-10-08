@@ -7,4 +7,6 @@ export const usePropertyChangePerfHandler = {
   definition:
     "React hook returning a property change handler that opens a performance interaction.",
   code: "ts",
+  createdAt: "2026-09-02T08:59:14.905Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

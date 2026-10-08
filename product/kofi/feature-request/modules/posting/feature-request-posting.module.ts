@@ -21,4 +21,6 @@ export const featureRequestPosting = {
         "A post that reached nothing is refused as a phrase's slug, for the dialog to word.",
     },
   ],
+  createdAt: "2026-09-21T22:03:54.596Z",
+  updatedAt: "2026-09-27T16:31:44.000Z",
 } as const satisfies Module

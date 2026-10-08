@@ -7,4 +7,6 @@ export const usePageTypeDirectory = {
   definition:
     "React hook taking a page type slug to its id through a directory the server answers.",
   code: "ts",
+  createdAt: "2026-09-02T09:13:05.030Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

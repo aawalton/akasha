@@ -17,4 +17,6 @@ export const drawingsFound = {
       statement: "The page type a drawing is for is the part of that name before the first dot.",
     },
   ],
+  createdAt: "2026-09-14T14:50:00.445Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

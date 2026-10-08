@@ -53,4 +53,6 @@ export const loaderFollowing = {
       statement: "Code reading pages outside the store follows their lists through the same call.",
     },
   ],
+  createdAt: "2026-09-24T22:26:01.392Z",
+  updatedAt: "2026-09-28T22:54:05.000Z",
 } as const satisfies Module

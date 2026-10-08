@@ -20,4 +20,6 @@ export const fileBacking = {
       statement: "A road to a page type's pages is never guessed.",
     },
   ],
+  createdAt: "2026-09-01T05:20:20.800Z",
+  updatedAt: "2026-09-25T13:43:59.000Z",
 } as const satisfies Module

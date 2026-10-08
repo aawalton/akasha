@@ -25,4 +25,6 @@ export const panelTurning = {
       statement: "Nothing here parses the code, so a panel writing anything else is on its own.",
     },
   ],
+  createdAt: "2026-09-21T15:50:49.608Z",
+  updatedAt: "2026-09-26T17:41:29.000Z",
 } as const satisfies Module

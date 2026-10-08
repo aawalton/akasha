@@ -29,4 +29,6 @@ export const createOverride = {
         "A view with an override draws its add button for a reader who could write no page there.",
     },
   ],
+  createdAt: "2026-09-21T18:28:09.795Z",
+  updatedAt: "2026-09-21T20:01:30.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const progressPropertyBadge = {
       statement: "A label naming a page is drawn as that page's title.",
     },
   ],
+  createdAt: "2026-09-02T12:19:38.821Z",
+  updatedAt: "2026-09-25T13:01:57.000Z",
 } as const satisfies Module

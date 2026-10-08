@@ -124,4 +124,6 @@ export const pageShaping = {
       statement: "Nothing here writes.",
     },
   ],
+  createdAt: "2026-09-22T15:09:01.804Z",
+  updatedAt: "2026-09-27T06:57:33.000Z",
 } as const satisfies Module

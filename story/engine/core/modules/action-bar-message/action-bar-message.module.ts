@@ -13,4 +13,6 @@ export const actionBarMessage = {
       statement: "The action bar is played by Alan alone, and sends under a name made from his.",
     },
   ],
+  createdAt: "2026-09-01T05:29:46.050Z",
+  updatedAt: "2026-09-26T15:58:17.000Z",
 } as const satisfies Module

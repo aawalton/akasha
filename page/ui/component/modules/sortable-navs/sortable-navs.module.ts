@@ -6,4 +6,6 @@ export const sortableNavs = {
   slug: "sortable-navs",
   definition: "the sidebar navigation groups, reordered by dragging",
   code: "tsx",
+  createdAt: "2026-09-02T07:36:28.681Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

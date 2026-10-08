@@ -18,4 +18,6 @@ export const positionFraction = {
         "The prose is set aside while narration speaks it, so its scroll writes no read progress.",
     },
   ],
+  createdAt: "2026-09-01T09:09:46.053Z",
+  updatedAt: "2026-10-06T15:23:54.000Z",
 } as const satisfies Module

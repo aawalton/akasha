@@ -17,4 +17,6 @@ export const syncController = {
       statement: "A delete or a reset pushed before the collection syncs acts on what is held.",
     },
   ],
+  createdAt: "2026-09-01T05:20:20.807Z",
+  updatedAt: "2026-09-27T01:25:57.000Z",
 } as const satisfies Module

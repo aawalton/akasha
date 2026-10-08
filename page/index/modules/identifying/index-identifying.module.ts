@@ -54,4 +54,6 @@ export const indexIdentifying = {
       statement: "What a scope is made of is not answered here.",
     },
   ],
+  createdAt: "2026-09-15T13:59:02.008Z",
+  updatedAt: "2026-09-22T14:29:18.000Z",
 } as const satisfies Module

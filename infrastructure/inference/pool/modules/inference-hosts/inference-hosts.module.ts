@@ -24,4 +24,6 @@ export const inferenceHosts = {
       statement: "A host asked for by a name nothing declares raises rather than answering.",
     },
   ],
+  createdAt: "2026-09-03T17:42:19.701Z",
+  updatedAt: "2026-09-24T22:57:49.000Z",
 } as const satisfies Module

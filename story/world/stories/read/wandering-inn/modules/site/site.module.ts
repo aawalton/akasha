@@ -29,4 +29,6 @@ export const site = {
     },
     { decisionKind: "decision-kind/absence", statement: "Nothing here writes to the site." },
   ],
+  createdAt: "2026-09-03T04:13:00.577Z",
+  updatedAt: "2026-09-25T15:48:35.000Z",
 } as const satisfies Module

@@ -23,4 +23,6 @@ export const viewDataOfPage = {
       statement: "The page type a view names reads back as the slug alone.",
     },
   ],
+  createdAt: "2026-09-01T11:50:09.132Z",
+  updatedAt: "2026-09-15T18:37:21.000Z",
 } as const satisfies Module

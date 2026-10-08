@@ -17,4 +17,6 @@ export const alertNotification = {
         "Clicking a notice focuses the tab that raised it, back at the address it was raised on.",
     },
   ],
+  createdAt: "2026-09-02T14:38:30.874Z",
+  updatedAt: "2026-09-27T13:55:28.000Z",
 } as const satisfies Module

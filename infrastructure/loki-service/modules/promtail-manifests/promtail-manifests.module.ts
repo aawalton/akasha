@@ -12,4 +12,6 @@ export const promtailManifests = {
       statement: "The pod template carries the hash of the promtail-config configmap.",
     },
   ],
+  createdAt: "2026-09-03T16:24:54.193Z",
+  updatedAt: "2026-09-24T16:28:05.000Z",
 } as const satisfies Module

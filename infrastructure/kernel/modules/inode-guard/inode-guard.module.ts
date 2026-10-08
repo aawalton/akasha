@@ -25,4 +25,6 @@ export const inodeGuard = {
       statement: "An indeterminate reading admits rather than refuses.",
     },
   ],
+  createdAt: "2026-09-01T09:57:29.389Z",
+  updatedAt: "2026-09-15T18:59:23.000Z",
 } as const satisfies Module

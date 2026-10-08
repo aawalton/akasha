@@ -6,4 +6,6 @@ export const dateTimeFilterInputs = {
   slug: "date-time-filter-inputs",
   definition: "the inputs setting a date or instant filter value",
   code: "tsx",
+  createdAt: "2026-09-02T09:40:45.996Z",
+  updatedAt: "2026-09-22T13:46:01.000Z",
 } as const satisfies Module

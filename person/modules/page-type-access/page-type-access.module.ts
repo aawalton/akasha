@@ -67,4 +67,6 @@ export const pageTypeAccess = {
         "A gate that does not read a deed refuses the access stating it, so a narrow is never skipped.",
     },
   ],
+  createdAt: "2026-09-21T17:05:55.790Z",
+  updatedAt: "2026-09-24T23:26:38.000Z",
 } as const satisfies Module

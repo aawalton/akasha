@@ -6,4 +6,6 @@ export const clientEnvelope = {
   slug: "client-envelope",
   definition: "the shape of a game session's payload",
   code: "ts",
+  createdAt: "2026-09-02T14:38:30.874Z",
+  updatedAt: "2026-09-25T16:50:41.000Z",
 } as const satisfies Module

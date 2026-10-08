@@ -125,4 +125,6 @@ export const recordSweeping = {
       statement: "The refusal is an exit code the unit does not count as success.",
     },
   ],
+  createdAt: "2026-09-13T14:32:52.692Z",
+  updatedAt: "2026-09-25T14:01:56.000Z",
 } as const satisfies Module

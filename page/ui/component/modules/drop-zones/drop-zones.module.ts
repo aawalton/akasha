@@ -6,4 +6,6 @@ export const dropZones = {
   slug: "drop-zones",
   definition: "Picks a before/after/nest drop target from item rects and pointer Y.",
   code: "ts",
+  createdAt: "2026-09-01T09:09:46.052Z",
+  updatedAt: "2026-09-15T18:36:57.000Z",
 } as const satisfies Module

@@ -16,4 +16,6 @@ export const bareListingCard = {
       statement: "That cover is asked for at a card's width rather than at the picture's own size.",
     },
   ],
+  createdAt: "2026-09-02T13:38:02.085Z",
+  updatedAt: "2026-09-28T18:59:39.000Z",
 } as const satisfies Module

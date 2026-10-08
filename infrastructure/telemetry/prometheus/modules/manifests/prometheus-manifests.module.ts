@@ -6,4 +6,6 @@ export const prometheusManifests = {
   slug: "prometheus-manifests",
   definition: "the metrics server, its storage, its access rules and the way in to it",
   code: "ts",
+  createdAt: "2026-09-05T22:27:31.964Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

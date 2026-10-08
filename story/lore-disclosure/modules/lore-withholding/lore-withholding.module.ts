@@ -95,4 +95,6 @@ export const loreWithholding = {
         "A read refused whole for a withheld page is worded here, so every reader refuses it alike.",
     },
   ],
+  createdAt: "2026-09-24T17:46:03.755Z",
+  updatedAt: "2026-09-29T00:34:41.000Z",
 } as const satisfies Module

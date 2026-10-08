@@ -6,4 +6,6 @@ export const answerWrite = {
   slug: "answer-write",
   definition: "a page write asked over the wire, read and run",
   code: "ts",
+  createdAt: "2026-09-01T07:19:56.969Z",
+  updatedAt: "2026-09-15T18:35:14.000Z",
 } as const satisfies Module

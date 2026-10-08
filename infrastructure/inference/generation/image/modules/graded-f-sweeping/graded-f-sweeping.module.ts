@@ -82,4 +82,6 @@ export const gradedFSweeping = {
       statement: "Nothing is deleted unless the sweep is asked to.",
     },
   ],
+  createdAt: "2026-09-26T17:53:04.087Z",
+  updatedAt: "2026-10-04T15:06:34.000Z",
 } as const satisfies Module

@@ -6,4 +6,6 @@ export const pascalToKebab01 = {
   slug: "pascal-to-kebab-01",
   definition: "part 01 of the icon names in Pascal turned into kebab",
   code: "ts",
+  createdAt: "2026-09-01T06:05:33.511Z",
+  updatedAt: "2026-09-22T13:25:39.000Z",
 } as const satisfies Module

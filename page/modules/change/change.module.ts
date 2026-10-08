@@ -45,4 +45,6 @@ export const change = {
       statement: "A change may name files carried into the run beside the files it is judged over.",
     },
   ],
+  createdAt: "2026-08-30T19:37:48.493Z",
+  updatedAt: "2026-09-25T18:05:24.000Z",
 } as const satisfies Module
