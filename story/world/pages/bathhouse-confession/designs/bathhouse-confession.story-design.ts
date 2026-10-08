@@ -15,4 +15,6 @@ export const bathhouseConfession = {
     "soft intimate romance illustration; warm diffuse steam-light haze; tender peach, rose, and muted jade palette; gentle glowing bokeh and condensation; delicate painterly finish, sensual and emotionally warm",
   author: "Archive of Worlds writing team",
   source: "team-authored",
+  createdAt: "2026-09-03T04:18:53.964Z",
+  updatedAt: "2026-09-19T17:00:11.000Z",
 } as const satisfies StoryDesign

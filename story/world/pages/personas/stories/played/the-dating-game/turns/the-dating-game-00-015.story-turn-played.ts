@@ -21,4 +21,6 @@ export const theDatingGame00015 = {
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-26T09:59:00.000Z",
+  createdAt: "2026-09-27T15:10:03.980Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

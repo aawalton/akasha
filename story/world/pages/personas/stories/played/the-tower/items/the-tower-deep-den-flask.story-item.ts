@@ -8,4 +8,6 @@ export const theTowerDeepDenFlask = {
   story: "story-played/the-tower",
   place: "place/the-tower-the-deep-den",
   description: "A stoppered flask lying in the midden.",
+  createdAt: "2026-09-24T16:35:06.039Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

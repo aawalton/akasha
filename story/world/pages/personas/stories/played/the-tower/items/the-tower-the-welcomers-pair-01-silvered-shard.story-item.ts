@@ -8,4 +8,6 @@ export const theTowerTheWelcomersPair01SilveredShard = {
   story: "story-played/the-tower",
   character: "character-other/the-tower-the-welcomers-pair-01",
   description: "A hand-sized shard of silvered glass that gives back a true reflection.",
+  createdAt: "2026-09-24T16:48:48.419Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

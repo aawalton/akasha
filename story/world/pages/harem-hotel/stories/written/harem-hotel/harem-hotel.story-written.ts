@@ -17,4 +17,6 @@ export const haremHotel = {
     "played-panel/quest-list",
     "played-panel/player-intent",
   ],
+  createdAt: "2026-09-28T13:08:08.476Z",
+  updatedAt: "2026-10-03T21:27:44.000Z",
 } as const satisfies StoryWritten

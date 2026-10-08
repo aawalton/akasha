@@ -12,4 +12,6 @@ export const towerAndTheStar0026TheLongWayAround = {
   prose: "txt",
   stepStatus: "step-status/player",
   beats: "jsonl",
+  createdAt: "2026-09-03T00:39:13.864Z",
+  updatedAt: "2026-10-03T19:48:32.000Z",
 } as const satisfies StoryChapterWritten

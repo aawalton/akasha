@@ -15,4 +15,6 @@ export const cornerstone = {
   system: "settlement-core (system type TBD at Game Setup)",
   structure:
     "Wakefulness tier bands widen as the core climbs, about 4 chapters in Aware, 6 in Watchful, 8 in Knowing and 10 in Dreaming, so each tier-up is a longer, harder climb than the last. The simulated landings are Aware at chapter 1, Watchful at 5, Knowing at 11 and Dreaming at 19. The mid-game Knowing milestone near chapter 11 means every sense awakened, several deep, and the first fused Power within reach. The decisions run BUILD-heavy early, waking senses; interleave BUILD and RECRUIT mid-game, rooting and rounding out; and run RESEARCH-heavy late, fusing into Dreaming-tier Powers: a sleeping stone becoming a dreaming guardian.",
+  createdAt: "2026-09-03T04:18:53.965Z",
+  updatedAt: "2026-09-26T18:09:20.000Z",
 } as const satisfies StoryDesign

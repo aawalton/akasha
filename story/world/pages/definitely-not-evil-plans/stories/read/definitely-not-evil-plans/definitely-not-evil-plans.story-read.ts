@@ -33,4 +33,6 @@ export const definitelyNotEvilPlans = {
     "Soft Sci-fi",
   ],
   publicationStatus: "ongoing",
+  createdAt: "2026-10-06T23:09:29.492Z",
+  updatedAt: "2026-10-06T23:09:30.000Z",
 } as const satisfies StoryRead

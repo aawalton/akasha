@@ -8,4 +8,6 @@ export const theTowerCharcoaledTimber = {
   story: "story-played/the-tower",
   place: "place/the-tower-threshold-landing",
   description: "Charcoaled timber and a fallen beam that crumble to charcoal at a touch.",
+  createdAt: "2026-09-24T16:32:12.213Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

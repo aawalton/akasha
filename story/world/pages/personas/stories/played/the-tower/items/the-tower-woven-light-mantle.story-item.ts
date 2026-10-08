@@ -9,4 +9,6 @@ export const theTowerWovenLightMantle = {
   character: "character-player/the-tower-alan",
   description:
     "A mantle of woven brightness gone slack and grey, shed in one piece and weightless.",
+  createdAt: "2026-09-22T18:14:03.886Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

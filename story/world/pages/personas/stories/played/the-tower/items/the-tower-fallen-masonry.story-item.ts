@@ -8,4 +8,6 @@ export const theTowerFallenMasonry = {
   story: "story-played/the-tower",
   place: "place/the-tower-ember-chamber",
   description: "Chunks of fallen masonry along the walls, some of them fist-sized.",
+  createdAt: "2026-09-24T16:32:20.105Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

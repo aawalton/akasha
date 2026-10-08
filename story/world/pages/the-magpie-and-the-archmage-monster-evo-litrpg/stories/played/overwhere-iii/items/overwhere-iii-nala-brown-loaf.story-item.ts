@@ -8,4 +8,6 @@ export const overwhereIiiNalaBrownLoaf = {
   story: "story-played/overwhere-iii",
   character: "character-player/overwhere-iii-nala",
   description: "A round loaf of coarse brown bread, a day's plain eating.",
+  createdAt: "2026-09-30T23:28:26.840Z",
+  updatedAt: "2026-09-30T23:28:29.000Z",
 } as const satisfies StoryItem

@@ -32,4 +32,6 @@ export const overwhereIii00071 = {
   ],
   endsAt: "2026-10-07T11:40:00.000Z",
   coverAfter: '"Never heard of one rising in days." She taps her cane once on the floor,',
+  createdAt: "2026-10-02T21:09:07.720Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

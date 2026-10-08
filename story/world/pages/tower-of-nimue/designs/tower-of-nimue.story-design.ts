@@ -16,4 +16,6 @@ export const towerOfNimue = {
   system: "System Apocalypse",
   structure:
     "Enemy growth is geometric, 1.25 a floor, while Nimue's stats grow about linearly, so the two diverge by about floor 15 to 20. A deliberate power-tier inflection, such as essence-evolution multipliers, a stat breakpoint or a coefficient reset each tier, is to be designed before about floor 15.",
+  createdAt: "2026-09-03T04:18:53.966Z",
+  updatedAt: "2026-09-26T18:12:57.000Z",
 } as const satisfies StoryDesign

@@ -8,4 +8,6 @@ export const overwhereIEwanDellToken = {
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-wendlow",
   description: "A small tin token stamped with a reed sheaf and the name Ewan Dell.",
+  createdAt: "2026-09-30T22:05:06.469Z",
+  updatedAt: "2026-10-03T01:29:12.000Z",
 } as const satisfies StoryItem

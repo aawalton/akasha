@@ -8,4 +8,6 @@ export const emberdeepRope = {
   story: "story-written/emberdeep",
   character: "character-player/emberdeep-nala",
   description: "A coil of stiff new rope.",
+  createdAt: "2026-10-02T18:35:44.906Z",
+  updatedAt: "2026-10-02T18:35:51.000Z",
 } as const satisfies StoryItem

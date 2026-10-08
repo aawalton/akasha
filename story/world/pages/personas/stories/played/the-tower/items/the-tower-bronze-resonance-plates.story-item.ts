@@ -9,4 +9,6 @@ export const theTowerBronzeResonancePlates = {
   place: "place/the-tower-gallery-nave",
   description:
     "Tall bronze plates green with age, set at intervals down both walls, each taller than a man.",
+  createdAt: "2026-09-24T16:32:55.501Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

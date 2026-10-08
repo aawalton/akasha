@@ -35,4 +35,6 @@ export const overwhereIi00112 = {
   ],
   endsAt: "2026-10-27T12:00:00.000Z",
   coverAfter: "You kneel at the bank and begin to part the black, a cupful",
+  createdAt: "2026-10-03T13:12:41.663Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

@@ -29,4 +29,6 @@ export const overwhereIi00096 = {
   ],
   endsAt: "2026-10-22T07:15:00.000Z",
   coverAfter: "The spark runs back up the tide like fire up a fuse, into your palm.",
+  createdAt: "2026-10-03T00:48:51.210Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

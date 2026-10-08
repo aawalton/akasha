@@ -30,4 +30,6 @@ export const overwhereIi00105 = {
   ],
   endsAt: "2026-10-26T11:20:00.000Z",
   coverAfter: "The bead stirs. Slowly, it begins to crawl across the stone, toward the pool.",
+  createdAt: "2026-10-03T11:36:16.872Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

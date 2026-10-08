@@ -37,4 +37,6 @@ export const shapeshifterANonHumanLitrpg = {
     "Survival",
   ],
   publicationStatus: "ongoing",
+  createdAt: "2026-09-03T04:18:50.404Z",
+  updatedAt: "2026-10-02T17:04:40.000Z",
 } as const satisfies StoryRead

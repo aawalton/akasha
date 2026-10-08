@@ -11,4 +11,6 @@ export const saltAndLamplight = {
   visualStyle: "fantasy photorealistic",
   narrator: 'Second person, present tense: the reader is "you", Nala.',
   imageSeed: 905217364,
+  createdAt: "2026-10-02T14:27:23.694Z",
+  updatedAt: "2026-10-02T14:27:26.000Z",
 } as const satisfies StoryDesign

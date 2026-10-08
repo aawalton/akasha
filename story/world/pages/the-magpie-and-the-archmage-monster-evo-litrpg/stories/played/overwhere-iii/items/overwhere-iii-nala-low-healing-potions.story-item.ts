@@ -10,4 +10,6 @@ export const overwhereIiiNalaLowHealingPotions = {
   quantity: 2,
   description:
     "Two small clay flasks of Brannagh's cloudy green brew, each giving back about 10 health.",
+  createdAt: "2026-09-30T18:22:29.012Z",
+  updatedAt: "2026-09-30T18:22:33.000Z",
 } as const satisfies StoryItem

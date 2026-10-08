@@ -15,4 +15,6 @@ export const theDatingGame = {
     "played-panel/time",
     "played-panel/player-intent",
   ],
+  createdAt: "2026-09-26T14:56:23.758Z",
+  updatedAt: "2026-10-03T21:55:00.000Z",
 } as const satisfies StoryPlayed

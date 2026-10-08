@@ -8,4 +8,6 @@ export const overwhereIvNalaBronzeTag = {
   story: "story-played/overwhere-iv",
   character: "character-player/overwhere-iv-nala",
   description: "A small punched bronze guild tag on a leather cord, marking her a hall member.",
+  createdAt: "2026-09-30T09:56:38.842Z",
+  updatedAt: "2026-09-30T09:56:41.000Z",
 } as const satisfies StoryItem

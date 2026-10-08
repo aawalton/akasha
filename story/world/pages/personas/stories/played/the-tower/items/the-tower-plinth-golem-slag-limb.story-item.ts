@@ -9,4 +9,6 @@ export const theTowerPlinthGolemSlagLimb = {
   character: "character-other/the-tower-plinth-golem-01",
   slot: "item-slot/main-hand",
   description: "A limb of fused stone and slag, heavy as a fallen column.",
+  createdAt: "2026-09-24T14:27:34.693Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

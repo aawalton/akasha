@@ -31,4 +31,6 @@ export const overwhereIi00098 = {
   ],
   endsAt: "2026-10-25T14:30:00.000Z",
   coverAfter: "It paws the ground, and the other five lift their heads too.",
+  createdAt: "2026-10-03T01:19:14.517Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

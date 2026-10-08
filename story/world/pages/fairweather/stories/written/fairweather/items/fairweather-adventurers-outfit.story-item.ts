@@ -10,4 +10,6 @@ export const fairweatherAdventurersOutfit = {
   slot: "item-slot/body",
   description:
     "A cropped cream halter top laced up the front, a short sage-green skirt, a brown leather belt with pouches, fingerless leather gloves and tall soft leather boots, one bootlace snapped and re-knotted.",
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-06T19:16:09.000Z",
 } as const satisfies StoryItem

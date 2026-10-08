@@ -6,4 +6,6 @@ export const continuity = {
   slug: "continuity",
   name: "Continuity",
   instructions: "md",
+  createdAt: "2026-09-26T17:08:31.962Z",
+  updatedAt: "2026-09-26T17:08:35.000Z",
 } as const satisfies StoryReviewer

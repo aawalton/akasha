@@ -33,4 +33,6 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
     "Monster Evolution",
   ],
   publicationStatus: "hiatus",
+  createdAt: "2026-09-03T04:18:50.406Z",
+  updatedAt: "2026-10-06T02:08:01.000Z",
 } as const satisfies StoryRead

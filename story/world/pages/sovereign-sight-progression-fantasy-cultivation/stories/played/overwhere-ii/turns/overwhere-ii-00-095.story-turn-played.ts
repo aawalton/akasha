@@ -30,4 +30,6 @@ export const overwhereIi00095 = {
   ],
   endsAt: "2026-10-22T07:10:00.000Z",
   coverAfter: "Your blunt point taps her square in the breastbone. A clean touch.",
+  createdAt: "2026-10-03T00:31:09.707Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

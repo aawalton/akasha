@@ -9,4 +9,6 @@ export const theTowerTheHostTrueform02GreyFlesh = {
   character: "character-other/the-tower-the-host-trueform-02",
   slot: "item-slot/chest",
   description: "Lean grey flesh, cold, with nothing worn over it once the mantle is shed.",
+  createdAt: "2026-09-24T14:27:59.559Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

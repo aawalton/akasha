@@ -8,4 +8,6 @@ export const fairweatherAtticKey = {
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
   description: "A small brass key to the attic room above the Honeycomb bakery.",
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-03T16:53:25.000Z",
 } as const satisfies StoryItem

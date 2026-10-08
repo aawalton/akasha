@@ -12,4 +12,6 @@ export const theTower00084 = {
   prose: "txt",
   beats: "jsonl",
   stepStatus: "step-status/player",
+  createdAt: "2026-09-03T00:48:54.992Z",
+  updatedAt: "2026-10-03T20:08:19.000Z",
 } as const satisfies StoryTurnPlayed

@@ -8,4 +8,6 @@ export const overwhereIGhostEyeEars = {
   story: "story-played/overwhere-i",
   place: "place/overwhere-i-wendlow",
   description: "The pair of scaled grey-green ears cut from the Greyfen's Drakewolf alpha.",
+  createdAt: "2026-09-30T22:00:56.486Z",
+  updatedAt: "2026-10-03T01:29:12.000Z",
 } as const satisfies StoryItem

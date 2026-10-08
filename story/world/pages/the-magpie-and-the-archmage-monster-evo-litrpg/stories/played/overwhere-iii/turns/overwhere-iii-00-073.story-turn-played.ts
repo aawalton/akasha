@@ -35,4 +35,6 @@ export const overwhereIii00073 = {
   ],
   endsAt: "2026-10-07T14:30:00.000Z",
   coverAfter: "You sweep the specks together. With the fox stone's three, that's ten.",
+  createdAt: "2026-10-02T21:33:36.817Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

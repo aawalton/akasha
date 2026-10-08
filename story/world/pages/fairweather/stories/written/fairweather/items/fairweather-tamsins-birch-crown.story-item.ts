@@ -9,4 +9,6 @@ export const fairweatherTamsinsBirchCrown = {
   character: "character-other/fairweather-tamsin",
   slot: "item-slot/head",
   description: "A ring of green birch leaves tied with ribbons, worn on the head.",
+  createdAt: "2026-10-06T22:46:18.059Z",
+  updatedAt: "2026-10-06T23:17:53.000Z",
 } as const satisfies StoryItem

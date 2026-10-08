@@ -8,4 +8,6 @@ export const theTowerColdDraftSeam = {
   story: "story-played/the-tower",
   place: "place/the-tower-the-long-gallery",
   description: "A seam low on one mirrored wall, breathing a faint cold draft.",
+  createdAt: "2026-09-24T16:34:59.988Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

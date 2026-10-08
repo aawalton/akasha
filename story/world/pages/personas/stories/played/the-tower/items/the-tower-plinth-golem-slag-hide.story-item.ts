@@ -9,4 +9,6 @@ export const theTowerPlinthGolemSlagHide = {
   character: "character-other/the-tower-plinth-golem-01",
   slot: "item-slot/chest",
   description: "Fused rock and cooled slag, thick, with deep cracks that smoulder from inside.",
+  createdAt: "2026-09-24T14:27:16.050Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

@@ -16,4 +16,6 @@ export const emberdeep = {
     "played-panel/scene-cover",
     "played-panel/player-intent",
   ],
+  createdAt: "2026-10-02T17:35:32.794Z",
+  updatedAt: "2026-10-03T21:27:44.000Z",
 } as const satisfies StoryWritten

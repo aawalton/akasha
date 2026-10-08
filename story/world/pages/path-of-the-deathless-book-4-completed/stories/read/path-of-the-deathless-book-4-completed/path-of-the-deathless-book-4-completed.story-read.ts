@@ -31,4 +31,6 @@ export const pathOfTheDeathlessBook4Completed = {
     "Mythos",
     "Supernatural",
   ],
+  createdAt: "2026-09-03T04:18:50.404Z",
+  updatedAt: "2026-09-19T12:03:55.000Z",
 } as const satisfies StoryRead

@@ -32,4 +32,6 @@ export const overwhereIv00094 = {
   ],
   endsAt: "2026-10-08T09:05:00.000Z",
   coverAfter: "You burst out of the Tangle into the morning light and splash into the ford,",
+  createdAt: "2026-10-03T13:26:26.842Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

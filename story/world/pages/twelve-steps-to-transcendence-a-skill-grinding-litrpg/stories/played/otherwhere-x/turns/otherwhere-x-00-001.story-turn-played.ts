@@ -16,4 +16,6 @@ export const otherwhereX00001 = {
   beats: "jsonl",
   lore: ["lore/otherwhere-x-nala", "place/otherwhere-x-harrow-mile"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
+  createdAt: "2026-09-28T23:37:06.004Z",
+  updatedAt: "2026-10-03T19:39:19.000Z",
 } as const satisfies StoryTurnPlayed

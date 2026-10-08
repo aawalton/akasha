@@ -10,4 +10,6 @@ export const otherwhereIxHeldSpineQuill = {
   quantity: 1,
   description:
     "A whole shardback spine quill, a hand and a half long, held by its blunt root in Nala's left fist.",
+  createdAt: "2026-10-03T19:46:00.256Z",
+  updatedAt: "2026-10-03T19:46:03.000Z",
 } as const satisfies StoryItem

@@ -9,4 +9,6 @@ export const overwhereISwornHunterPapers = {
   character: "character-player/overwhere-i-nala",
   description:
     "A sheet in Magistrate Odile Varne's small, quick hand, naming Nala Arthur a sworn hunter of Wendlow, under the margrave, sealed at its foot in red wax.",
+  createdAt: "2026-10-04T12:58:03.641Z",
+  updatedAt: "2026-10-04T13:32:13.000Z",
 } as const satisfies StoryItem

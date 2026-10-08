@@ -9,4 +9,6 @@ export const fairweatherFlowerClip = {
   character: "character-player/fairweather-elsie",
   slot: "item-slot/head",
   description: "A small hair clip shaped like a pink-and-white flower.",
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-04T01:14:44.000Z",
 } as const satisfies StoryItem

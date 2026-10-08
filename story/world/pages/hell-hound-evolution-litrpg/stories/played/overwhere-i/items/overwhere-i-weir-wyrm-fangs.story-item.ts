@@ -9,4 +9,6 @@ export const overwhereIWeirWyrmFangs = {
   place: "place/overwhere-i-wendlow",
   description:
     "The Weir Wyrm's two hooked, yellow-white fangs, each a hand long, hung on a nail at Antler Hall.",
+  createdAt: "2026-10-03T12:38:28.183Z",
+  updatedAt: "2026-10-03T12:59:16.000Z",
 } as const satisfies StoryItem

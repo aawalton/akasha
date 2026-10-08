@@ -8,4 +8,6 @@ export const theTowerRustedBracketSpikes = {
   story: "story-played/the-tower",
   place: "place/the-tower-cistern-walkway",
   description: "Bracket-spikes in the wall, rusted through, that crumble at a pull.",
+  createdAt: "2026-09-24T16:32:38.403Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

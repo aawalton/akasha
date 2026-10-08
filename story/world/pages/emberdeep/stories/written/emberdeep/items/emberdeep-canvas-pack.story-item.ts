@@ -9,4 +9,6 @@ export const emberdeepCanvasPack = {
   character: "character-player/emberdeep-nala",
   description:
     "A canvas pack with a flap, NALA stitched inside the flap in brown thread, and a pocket sewn under it.",
+  createdAt: "2026-10-02T18:35:44.905Z",
+  updatedAt: "2026-10-02T18:35:51.000Z",
 } as const satisfies StoryItem

@@ -9,4 +9,6 @@ export const overwhereIMagistrateNote = {
   character: "character-player/overwhere-i-nala",
   description:
     "Magistrate Odile Varne's note asking Nala Arthur to the Moot Hall at noon on day 9.",
+  createdAt: "2026-10-03T13:26:29.719Z",
+  updatedAt: "2026-10-03T13:26:32.000Z",
 } as const satisfies StoryItem

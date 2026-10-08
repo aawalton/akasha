@@ -14,4 +14,6 @@ export const decisionCh1FirstHarvest = {
   effect:
     "Allure 14.0 → 15.6 (+1.6 = 10% of Colette Vane's Allure 16.0), permanent and stacking. No level gain — levels removed; theft is the sole axis of growth. Celerity and Acuity left to cool on the floor. (Decision predates the system retcon: original menu offered a \"Read the Room\" skill as ③; under the two-category model that option is now Acuity. The reader's Allure pick is unchanged.)",
   prose: "txt",
+  createdAt: "2026-09-03T04:18:53.974Z",
+  updatedAt: "2026-09-19T17:00:36.000Z",
 } as const satisfies StoryDecision

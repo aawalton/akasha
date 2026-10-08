@@ -32,4 +32,6 @@ export const overwhereIi00108 = {
   ],
   endsAt: "2026-10-26T17:38:00.000Z",
   coverAfter: "The sun sits low on the Whitecombs. The pool swells, and eases, and swells.",
+  createdAt: "2026-10-03T12:22:36.262Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

@@ -35,4 +35,6 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg = {
     "Secret Identity",
   ],
   publicationStatus: "ongoing",
+  createdAt: "2026-09-03T04:18:50.405Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies StoryRead

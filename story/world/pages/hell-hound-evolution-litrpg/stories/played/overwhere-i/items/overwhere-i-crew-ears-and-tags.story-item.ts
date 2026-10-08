@@ -9,4 +9,6 @@ export const overwhereICrewEarsAndTags = {
   place: "place/overwhere-i-wendlow",
   description:
     "Eight right ears cut from Voss's dead crewmen, packed in coarse salt with Voss's head inside his sack, each kept with the stamped tin levy tag he wore, and Harl Voss's own tag on its cord.",
+  createdAt: "2026-10-02T20:46:06.389Z",
+  updatedAt: "2026-10-03T01:29:12.000Z",
 } as const satisfies StoryItem

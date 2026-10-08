@@ -9,4 +9,6 @@ export const overwhereIvNalaPaddedJerkin = {
   character: "character-player/overwhere-iv-nala",
   slot: "item-slot/chest",
   description: "A stiff quilted jerkin of layered cloth that turns a glancing blow.",
+  createdAt: "2026-09-30T09:54:07.176Z",
+  updatedAt: "2026-09-30T09:54:14.000Z",
 } as const satisfies StoryItem

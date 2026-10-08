@@ -29,4 +29,6 @@ export const overwhereIi00110 = {
   ],
   endsAt: "2026-10-26T21:08:00.000Z",
   coverAfter: "She studies your face with sharp blue eyes, the laughter gone out of them.",
+  createdAt: "2026-10-03T12:49:18.685Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

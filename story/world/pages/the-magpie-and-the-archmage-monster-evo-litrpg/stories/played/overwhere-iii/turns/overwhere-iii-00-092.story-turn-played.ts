@@ -33,4 +33,6 @@ export const overwhereIii00092 = {
   ],
   endsAt: "2026-10-09T13:45:00.000Z",
   coverAfter: "She dips her pen to mark the ledger, then pauses.",
+  createdAt: "2026-10-03T12:05:59.371Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

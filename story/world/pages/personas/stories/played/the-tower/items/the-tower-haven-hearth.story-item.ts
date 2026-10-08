@@ -9,4 +9,6 @@ export const theTowerHavenHearth = {
   place: "place/the-tower-haven-threshold",
   description:
     "A dead hearth of grey ash under a false glow that gives no heat and casts no shadow.",
+  createdAt: "2026-09-24T16:34:47.934Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

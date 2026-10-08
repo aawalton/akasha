@@ -8,4 +8,6 @@ export const theTowerColdUpdraft = {
   story: "story-played/the-tower",
   place: "place/the-tower-shaft-base-flights",
   description: "A cold updraft rising out of the shaft's depths, carrying sound and scent upward.",
+  createdAt: "2026-09-24T16:33:58.423Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

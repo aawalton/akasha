@@ -8,4 +8,6 @@ export const theTowerDeepDenBareStone = {
   story: "story-played/the-tower",
   place: "place/the-tower-the-deep-den",
   description: "Bare wet stone, the real floor of the den under the fraying gold.",
+  createdAt: "2026-09-24T16:35:10.077Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

@@ -10,4 +10,6 @@ export const otherwhereIxLaidSpineQuills = {
   quantity: 3,
   description:
     "Whole shardback spine quills, each a hand and a half long, laid out in the grass beside Nala's first kill.",
+  createdAt: "2026-10-03T19:46:00.256Z",
+  updatedAt: "2026-10-03T19:46:03.000Z",
 } as const satisfies StoryItem

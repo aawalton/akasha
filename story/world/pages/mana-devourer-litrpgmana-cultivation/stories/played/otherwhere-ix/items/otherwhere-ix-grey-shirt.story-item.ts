@@ -9,4 +9,6 @@ export const otherwhereIxGreyShirt = {
   character: "character-player/otherwhere-ix-nala",
   description:
     "Alan's loose dark grey shirt, hanging to Nala's mid-thigh, its collar slipping off one shoulder.",
+  createdAt: "2026-10-03T19:40:59.577Z",
+  updatedAt: "2026-10-03T19:41:02.000Z",
 } as const satisfies StoryItem

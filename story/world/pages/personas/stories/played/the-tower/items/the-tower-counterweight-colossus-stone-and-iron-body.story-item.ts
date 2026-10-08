@@ -10,4 +10,6 @@ export const theTowerCounterweightColossusStoneAndIronBody = {
   slot: "item-slot/chest",
   description:
     "Fused stone and iron over the whole seated bulk, the great chain wound about its middle.",
+  createdAt: "2026-09-24T14:27:38.006Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

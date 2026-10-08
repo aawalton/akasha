@@ -9,4 +9,6 @@ export const fairweatherBirthdayNotebook = {
   character: "character-player/fairweather-elsie",
   description:
     "A small cloth-bound notebook with a pencil tucked in its spine, its pages ruled for names, birthdays and favourite things.",
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-03T16:53:25.000Z",
 } as const satisfies StoryItem

@@ -8,4 +8,6 @@ export const theBeholder = {
   world: "world/the-beholder",
   unit: "unit/words",
   panels: ["played-panel/player-intent"],
+  createdAt: "2026-09-03T04:27:46.202Z",
+  updatedAt: "2026-10-03T21:27:44.000Z",
 } as const satisfies StoryWritten

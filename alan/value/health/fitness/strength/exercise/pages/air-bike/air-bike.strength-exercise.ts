@@ -32,4 +32,6 @@ export const airBike = {
   trainsLengthenedRange: false,
   instructions: "txt",
   raisesCold: true,
+  createdAt: "2026-06-12T15:31:33.855Z",
+  updatedAt: "2026-09-19T16:22:44.000Z",
 } as const satisfies StrengthExercise

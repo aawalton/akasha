@@ -10,4 +10,6 @@ export const overwhereIiNalaCrackedGreymawChambers = {
   description:
     "A fist-sized knot of polished grey bone, layered like a shell, cracked clean through by a spear.",
   quantity: 5,
+  createdAt: "2026-10-03T12:26:46.401Z",
+  updatedAt: "2026-10-03T12:26:51.000Z",
 } as const satisfies StoryItem

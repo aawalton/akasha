@@ -40,4 +40,6 @@ export const overwhereIii00084 = {
   endsAt: "2026-10-08T16:35:00.000Z",
   coverAfter:
     "You sag against the stone. Your palms are raw again, but the cold is gone from your blood.",
+  createdAt: "2026-10-03T01:25:16.755Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

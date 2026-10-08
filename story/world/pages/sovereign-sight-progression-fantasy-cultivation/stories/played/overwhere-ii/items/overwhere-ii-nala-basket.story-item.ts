@@ -8,4 +8,6 @@ export const overwhereIiNalaBasket = {
   story: "story-played/overwhere-ii",
   character: "character-player/overwhere-ii-nala",
   description: "A woven basket with a handle, holding six eggs and a crock of honey.",
+  createdAt: "2026-09-30T11:39:25.900Z",
+  updatedAt: "2026-09-30T11:39:29.000Z",
 } as const satisfies StoryItem

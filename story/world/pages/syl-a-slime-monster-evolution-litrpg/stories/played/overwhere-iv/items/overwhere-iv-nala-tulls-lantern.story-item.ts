@@ -8,4 +8,6 @@ export const overwhereIvNalaTullsLantern = {
   story: "story-played/overwhere-iv",
   place: "place/overwhere-iv-tull-farm",
   description: "A farm lantern of tin and horn panes, back with Tull after the night watch.",
+  createdAt: "2026-10-02T21:19:39.242Z",
+  updatedAt: "2026-10-02T21:49:21.000Z",
 } as const satisfies StoryItem

@@ -25,4 +25,6 @@ export const theDungeonOfOneThousandDeaths = {
     "Shared world, loose threads. Characters exist in the same world. Later characters find traces of earlier ones (corpses, graffiti, abandoned camps). Lore accumulates across chapters.",
   dungeonNature:
     "name: The Maw\nnature: A living entity — something between an organism and a wound in reality. Not a building but an intelligence. Communicates through architecture, The Asking, and what it does to your body. Has no voice.\ndual_model:\n  deeper_truth: The Lock — the Maw engineers specific deaths in a specific sequence to achieve its actual purpose. Each death turns a tumbler.\n  relationship: Saturation is the symptom. The Lock is the cause. Characters understand the first. Readers piece together the second.\n  surface_truth: Saturation — the Maw feeds on deaths until full. 1000 is its capacity.",
+  createdAt: "2026-09-03T04:18:53.965Z",
+  updatedAt: "2026-09-19T17:00:11.000Z",
 } as const satisfies StoryDesign

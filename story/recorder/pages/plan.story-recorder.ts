@@ -7,4 +7,6 @@ export const plan = {
   name: "Plan",
   step: "step-status/mechanics",
   instructions: "md",
+  createdAt: "2026-10-03T16:25:05.553Z",
+  updatedAt: "2026-10-03T16:25:46.000Z",
 } as const satisfies StoryRecorder

@@ -8,4 +8,6 @@ export const theTowerSnappedColdIronBlade = {
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
   description: "A snapped length of cold iron, pitted, sheared off at a third of its length.",
+  createdAt: "2026-09-22T18:13:51.781Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

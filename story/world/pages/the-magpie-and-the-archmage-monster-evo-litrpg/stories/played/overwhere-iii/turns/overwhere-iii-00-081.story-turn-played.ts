@@ -35,4 +35,6 @@ export const overwhereIii00081 = {
   ],
   endsAt: "2026-10-08T13:00:00.000Z",
   coverAfter: "Your sight shows you more. Around the old woman hangs an aura of sick violet-black.",
+  createdAt: "2026-10-03T00:32:39.631Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

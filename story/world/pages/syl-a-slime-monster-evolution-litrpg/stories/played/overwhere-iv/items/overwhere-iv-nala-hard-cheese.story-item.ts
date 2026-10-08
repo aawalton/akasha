@@ -8,4 +8,6 @@ export const overwhereIvNalaHardCheese = {
   story: "story-played/overwhere-iv",
   character: "character-player/overwhere-iv-nala",
   description: "Half a wheel of pale, hard farm cheese.",
+  createdAt: "2026-10-02T16:27:50.226Z",
+  updatedAt: "2026-10-02T16:27:53.000Z",
 } as const satisfies StoryItem

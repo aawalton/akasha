@@ -9,4 +9,6 @@ export const overwhereIvNalaBlackTights = {
   character: "character-player/overwhere-iv-nala",
   slot: "item-slot/legs",
   description: "Black tights of a fine stretching weave no one in Millbrook could make.",
+  createdAt: "2026-09-30T09:54:07.174Z",
+  updatedAt: "2026-09-30T09:54:14.000Z",
 } as const satisfies StoryItem

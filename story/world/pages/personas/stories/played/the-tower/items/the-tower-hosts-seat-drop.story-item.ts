@@ -8,4 +8,6 @@ export const theTowerHostsSeatDrop = {
   story: "story-played/the-tower",
   place: "place/the-tower-the-hosts-seat",
   description: "A sheer black drop torn across the chamber's floor.",
+  createdAt: "2026-09-24T16:35:14.113Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

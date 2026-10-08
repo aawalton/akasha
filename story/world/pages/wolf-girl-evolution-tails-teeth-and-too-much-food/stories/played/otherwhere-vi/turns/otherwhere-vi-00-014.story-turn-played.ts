@@ -31,4 +31,6 @@ export const otherwhereVi00014 = {
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-29T12:35:00.000Z",
+  createdAt: "2026-09-29T02:51:38.565Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

@@ -9,4 +9,6 @@ export const overwhereINalaGroovedSlugs = {
   character: "character-player/overwhere-i-nala",
   quantity: 35,
   description: "Pointed stones shaped with spiralling grooves, each about two ounces.",
+  createdAt: "2026-09-30T20:02:08.330Z",
+  updatedAt: "2026-10-02T16:09:02.000Z",
 } as const satisfies StoryItem

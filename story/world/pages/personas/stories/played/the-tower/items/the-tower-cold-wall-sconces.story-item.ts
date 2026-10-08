@@ -8,4 +8,6 @@ export const theTowerColdWallSconces = {
   story: "story-played/the-tower",
   place: "place/the-tower-gallery-nave",
   description: "Long-dead wall sconces with no oil and no flame.",
+  createdAt: "2026-09-24T16:33:01.646Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

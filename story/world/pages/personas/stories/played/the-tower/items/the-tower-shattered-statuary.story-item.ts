@@ -8,4 +8,6 @@ export const theTowerShatteredStatuary = {
   story: "story-played/the-tower",
   place: "place/the-tower-gallery-nave",
   description: "Broken statues across the floor: rubble, chunks and a few long marble shards.",
+  createdAt: "2026-09-24T16:32:57.375Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

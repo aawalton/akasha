@@ -19,4 +19,6 @@ export const fairweather = {
     "played-panel/scene-cover",
     "played-panel/time",
   ],
+  createdAt: "2026-10-03T14:05:07.097Z",
+  updatedAt: "2026-10-04T14:12:09.000Z",
 } as const satisfies StoryWritten

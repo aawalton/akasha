@@ -39,4 +39,6 @@ export const overwhereIv00086 = {
   ],
   endsAt: "2026-10-07T07:40:00.000Z",
   coverAfter: "He strikes your name from the watch roll with one clean line.",
+  createdAt: "2026-10-03T11:05:19.258Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

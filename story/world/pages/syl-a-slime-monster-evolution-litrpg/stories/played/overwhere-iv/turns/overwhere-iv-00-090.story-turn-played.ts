@@ -31,4 +31,6 @@ export const overwhereIv00090 = {
   ],
   endsAt: "2026-10-07T12:56:00.000Z",
   coverAfter: '"A silver an ear, eight copper a core." Eight silver and a little heap',
+  createdAt: "2026-10-03T12:06:52.286Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

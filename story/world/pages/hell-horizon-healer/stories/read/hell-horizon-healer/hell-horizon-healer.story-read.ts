@@ -33,4 +33,6 @@ export const hellHorizonHealer = {
   ],
   unit: "unit/words",
   prose: "txt",
+  createdAt: "2026-09-03T04:18:50.402Z",
+  updatedAt: "2026-10-01T02:07:26.000Z",
 } as const satisfies StoryRead

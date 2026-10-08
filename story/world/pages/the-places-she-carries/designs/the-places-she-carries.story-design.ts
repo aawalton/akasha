@@ -20,4 +20,6 @@ export const thePlacesSheCarries = {
   seriesStatus: "Ongoing",
   bookTitle: "Arc 1: First Steps",
   version: "1",
+  createdAt: "2026-09-03T04:18:53.966Z",
+  updatedAt: "2026-09-19T17:00:11.000Z",
 } as const satisfies StoryDesign

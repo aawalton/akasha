@@ -8,4 +8,6 @@ export const theTowerGreyLitExitStair = {
   story: "story-played/the-tower",
   place: "place/the-tower-shaft-headworks",
   description: "A stair beyond the gantry, climbing up into grey light.",
+  createdAt: "2026-09-24T16:34:10.829Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

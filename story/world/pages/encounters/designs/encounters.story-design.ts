@@ -11,4 +11,6 @@ export const encounters = {
   visualStyle: "photorealistic",
   narrator: 'Second person, present tense: the reader is "you", Alan as himself.',
   imageSeed: 318406275,
+  createdAt: "2026-10-06T20:54:26.824Z",
+  updatedAt: "2026-10-06T20:54:30.000Z",
 } as const satisfies StoryDesign

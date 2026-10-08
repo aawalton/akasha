@@ -8,4 +8,6 @@ export const overwhereIIlseClaimTag = {
   story: "story-played/overwhere-i",
   character: "character-player/overwhere-i-nala",
   description: "A stamped tin tag from Ilse Varrow's shop, to claim Nala's two-pearl ring.",
+  createdAt: "2026-10-03T01:52:27.028Z",
+  updatedAt: "2026-10-03T01:52:29.000Z",
 } as const satisfies StoryItem

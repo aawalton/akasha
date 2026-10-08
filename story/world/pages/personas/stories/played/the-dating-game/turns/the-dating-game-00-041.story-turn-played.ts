@@ -18,4 +18,6 @@ export const theDatingGame00041 = {
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-27T10:12:00.000Z",
+  createdAt: "2026-09-28T12:40:12.146Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

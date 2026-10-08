@@ -11,4 +11,6 @@ export const emberdeep = {
   visualStyle: "fantasy photorealistic",
   narrator: 'Second person, present tense: the reader is "you", Nala.',
   imageSeed: 742915368,
+  createdAt: "2026-10-02T17:33:52.112Z",
+  updatedAt: "2026-10-02T17:33:55.000Z",
 } as const satisfies StoryDesign

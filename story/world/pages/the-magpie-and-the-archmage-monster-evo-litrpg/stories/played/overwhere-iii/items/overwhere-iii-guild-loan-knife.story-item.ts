@@ -9,4 +9,6 @@ export const overwhereIiiGuildLoanKnife = {
   character: "character-player/overwhere-iii-nala",
   slot: "item-slot/waist",
   description: "A plain knife in a worn sheath, lent by the Guild post and owed back.",
+  createdAt: "2026-09-30T09:55:53.232Z",
+  updatedAt: "2026-09-30T09:56:00.000Z",
 } as const satisfies StoryItem

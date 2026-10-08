@@ -17,4 +17,6 @@ export const saltAndLamplight = {
     "played-panel/scene-cover",
     "played-panel/player-intent",
   ],
+  createdAt: "2026-10-02T14:28:26.080Z",
+  updatedAt: "2026-10-03T21:57:45.000Z",
 } as const satisfies StoryWritten

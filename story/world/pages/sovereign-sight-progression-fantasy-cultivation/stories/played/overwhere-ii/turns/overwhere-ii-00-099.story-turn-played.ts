@@ -30,4 +30,6 @@ export const overwhereIi00099 = {
   ],
   endsAt: "2026-10-25T14:50:00.000Z",
   coverAfter: "A thin black thread is creeping down the grass toward the longhouse.",
+  createdAt: "2026-10-03T01:32:29.348Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

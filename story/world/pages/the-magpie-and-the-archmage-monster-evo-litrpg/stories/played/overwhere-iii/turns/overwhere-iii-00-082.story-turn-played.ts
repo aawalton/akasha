@@ -34,4 +34,6 @@ export const overwhereIii00082 = {
   endsAt: "2026-10-08T13:02:00.000Z",
   coverAfter:
     "Her old face slides away. Beneath it she is forty, hard-jawed, with black-ringed eyes.",
+  createdAt: "2026-10-03T00:50:06.188Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

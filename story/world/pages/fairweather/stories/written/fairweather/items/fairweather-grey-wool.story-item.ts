@@ -8,4 +8,6 @@ export const fairweatherGreyWool = {
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
   description: "A skein of soft wool dyed a cool pale grey.",
+  createdAt: "2026-10-06T14:03:32.265Z",
+  updatedAt: "2026-10-06T14:03:34.000Z",
 } as const satisfies StoryItem

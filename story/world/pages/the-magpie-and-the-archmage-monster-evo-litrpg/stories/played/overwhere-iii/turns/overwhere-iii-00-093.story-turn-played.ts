@@ -38,4 +38,6 @@ export const overwhereIii00093 = {
   ],
   endsAt: "2026-10-09T14:45:00.000Z",
   coverAfter: "Six glimmer specks.",
+  createdAt: "2026-10-03T12:23:48.407Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

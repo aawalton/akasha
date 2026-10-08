@@ -9,4 +9,6 @@ export const theTowerGloomwardStalkerClaws = {
   character: "character-other/the-tower-gloomward-stalker-01",
   slot: "item-slot/main-hand",
   description: "The claws on a long lean body that lunges out of unlit gaps.",
+  createdAt: "2026-09-24T14:27:50.437Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

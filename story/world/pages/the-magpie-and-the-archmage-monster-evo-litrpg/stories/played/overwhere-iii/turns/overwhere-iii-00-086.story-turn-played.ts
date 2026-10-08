@@ -40,4 +40,6 @@ export const overwhereIii00086 = {
   ],
   endsAt: "2026-10-08T17:30:00.000Z",
   coverAfter: 'She turns to you. "Where did she go?"',
+  createdAt: "2026-10-03T02:00:15.632Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

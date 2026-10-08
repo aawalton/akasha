@@ -8,4 +8,6 @@ export const fairweatherScorchedApron = {
   story: "story-written/fairweather",
   character: "character-other/fairweather-tilly",
   description: "A scorched work apron several sizes too big.",
+  createdAt: "2026-10-03T20:12:56.947Z",
+  updatedAt: "2026-10-03T20:12:59.000Z",
 } as const satisfies StoryItem

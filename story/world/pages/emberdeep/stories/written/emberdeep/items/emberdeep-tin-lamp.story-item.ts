@@ -9,4 +9,6 @@ export const emberdeepTinLamp = {
   character: "character-player/emberdeep-nala",
   description:
     "A tin lamp with a little hinged door, shutters that open wide or close to a slit, and a ring to carry it by.",
+  createdAt: "2026-10-02T18:35:44.906Z",
+  updatedAt: "2026-10-02T18:35:51.000Z",
 } as const satisfies StoryItem

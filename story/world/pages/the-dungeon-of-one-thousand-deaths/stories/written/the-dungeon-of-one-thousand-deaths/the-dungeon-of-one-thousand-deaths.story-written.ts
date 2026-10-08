@@ -8,4 +8,6 @@ export const theDungeonOfOneThousandDeaths = {
   world: "world/the-dungeon-of-one-thousand-deaths",
   unit: "unit/words",
   panels: ["played-panel/player-intent"],
+  createdAt: "2026-09-02T22:02:39.027Z",
+  updatedAt: "2026-10-03T21:27:44.000Z",
 } as const satisfies StoryWritten

@@ -8,4 +8,6 @@ export const overwhereIiiNalaCanvasKnapsack = {
   story: "story-played/overwhere-iii",
   character: "character-player/overwhere-iii-nala",
   description: "A worn, patched canvas knapsack worn on the back.",
+  createdAt: "2026-09-30T18:52:59.904Z",
+  updatedAt: "2026-09-30T22:27:24.000Z",
 } as const satisfies StoryItem

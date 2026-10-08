@@ -19,4 +19,6 @@ export const phoenixHealer = {
   externalTags: ["LitRPG", "Female Lead", "Action", "Adventure", "Fantasy", "Magic"],
   unit: "unit/words",
   prose: "txt",
+  createdAt: "2026-09-03T04:18:50.404Z",
+  updatedAt: "2026-09-19T12:03:55.000Z",
 } as const satisfies StoryRead

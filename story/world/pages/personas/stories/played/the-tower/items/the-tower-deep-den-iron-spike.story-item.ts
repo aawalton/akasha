@@ -8,4 +8,6 @@ export const theTowerDeepDenIronSpike = {
   story: "story-played/the-tower",
   place: "place/the-tower-the-deep-den",
   description: "An iron spike lying in the midden.",
+  createdAt: "2026-09-24T16:35:07.995Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

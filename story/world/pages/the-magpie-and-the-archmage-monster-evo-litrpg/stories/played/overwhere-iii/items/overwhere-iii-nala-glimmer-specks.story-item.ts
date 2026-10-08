@@ -9,4 +9,6 @@ export const overwhereIiiNalaGlimmerSpecks = {
   character: "character-player/overwhere-iii-nala",
   quantity: 6,
   description: "Crumbs of pale, faintly glowing stone, each a tenth of a glimmerstone.",
+  createdAt: "2026-10-02T21:59:19.223Z",
+  updatedAt: "2026-10-03T12:33:44.000Z",
 } as const satisfies StoryItem

@@ -37,4 +37,6 @@ export const overwhereIii00069 = {
   endsAt: "2026-10-07T11:15:00.000Z",
   coverAfter:
     "The last scrap of blight tears free. The little stone cracks into three bright specks.",
+  createdAt: "2026-10-02T20:42:17.596Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

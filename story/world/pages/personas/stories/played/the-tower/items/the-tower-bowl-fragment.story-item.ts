@@ -8,4 +8,6 @@ export const theTowerBowlFragment = {
   story: "story-played/the-tower",
   place: "place/the-tower-threshold-landing",
   description: "The broken curve of a brittle bowl.",
+  createdAt: "2026-09-24T16:32:13.899Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

@@ -31,4 +31,6 @@ export const overwhereIi00094 = {
   ],
   endsAt: "2026-10-22T07:05:00.000Z",
   coverAfter: "It drives into your ribs, on the bruise Osric left. A clean touch.",
+  createdAt: "2026-10-03T00:07:31.380Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

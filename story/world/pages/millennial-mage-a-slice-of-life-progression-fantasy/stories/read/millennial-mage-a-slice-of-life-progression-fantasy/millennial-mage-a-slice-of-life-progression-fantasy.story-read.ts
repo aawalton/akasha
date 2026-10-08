@@ -31,4 +31,6 @@ export const millennialMageASliceOfLifeProgressionFantasy = {
   ],
   unit: "unit/words",
   prose: "txt",
+  createdAt: "2026-09-03T04:18:50.403Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies StoryRead

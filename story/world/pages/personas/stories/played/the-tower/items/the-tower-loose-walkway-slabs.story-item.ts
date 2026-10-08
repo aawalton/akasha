@@ -8,4 +8,6 @@ export const theTowerLooseWalkwaySlabs = {
   story: "story-played/the-tower",
   place: "place/the-tower-cistern-walkway",
   description: "Cracked stone slabs along the walkway ring, loose enough to pry up.",
+  createdAt: "2026-09-24T16:32:36.183Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

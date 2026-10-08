@@ -6,4 +6,6 @@ export const picture = {
   slug: "picture",
   name: "Picture",
   instructions: "md",
+  createdAt: "2026-09-27T16:10:36.999Z",
+  updatedAt: "2026-09-27T16:11:24.000Z",
 } as const satisfies StoryRecorder

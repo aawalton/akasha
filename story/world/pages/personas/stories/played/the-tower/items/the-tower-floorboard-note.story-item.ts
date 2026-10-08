@@ -8,4 +8,6 @@ export const theTowerFloorboardNote = {
   story: "story-played/the-tower",
   place: "place/the-tower-hall-of-welcome",
   description: "A note scratched into a floorboard behind the couches.",
+  createdAt: "2026-09-24T16:34:55.841Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

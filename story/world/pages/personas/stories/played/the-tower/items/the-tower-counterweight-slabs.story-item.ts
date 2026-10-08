@@ -8,4 +8,6 @@ export const theTowerCounterweightSlabs = {
   story: "story-played/the-tower",
   place: "place/the-tower-shaft-base-flights",
   description: "Flat stone counterweight platforms hanging in the shaft, now still.",
+  createdAt: "2026-09-24T16:33:50.226Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

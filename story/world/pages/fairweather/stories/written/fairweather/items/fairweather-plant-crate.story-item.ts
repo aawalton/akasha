@@ -9,4 +9,6 @@ export const fairweatherPlantCrate = {
   character: "character-player/fairweather-elsie",
   description:
     "A slatted wooden crate with rope handles, made to carry four potted houseplants on a cart: a fern, a lemon sapling, an aloe and a pot of mint.",
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-03T16:53:25.000Z",
 } as const satisfies StoryItem

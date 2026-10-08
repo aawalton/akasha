@@ -10,4 +10,6 @@ export const overwhereIvNalaLeafBladeSpear = {
   slot: "item-slot/main-hand",
   description:
     "A dark grey leaf blade of hardened iron, bright-edged, with an iron crossbar behind it, on a seasoned ash shaft with an iron butt cap.",
+  createdAt: "2026-10-02T20:11:13.002Z",
+  updatedAt: "2026-10-02T20:34:46.000Z",
 } as const satisfies StoryItem

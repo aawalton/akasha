@@ -14,4 +14,6 @@ export const towerOfNimueDecision1 = {
   effect:
     "Slot 1 filled with baseline essence 'Open Eye' (passive weak-point reveal: crit 18% / +50% crit dmg, +1 essence option on every future Harvest; active 'Read': expose resistances +20% dmg for 2 actions, 2-action CD). Stat lean +2 ATT / +1 INS applied -> VIT 10 / PWR 10 / SPD 10 / ATT 12 / INS 11; derived HP 100 / Focus 60 / strike 20. Level 1, 0 banked points, slots 2-3 open. Build now current as of Chapter 1.",
   prose: "txt",
+  createdAt: "2026-09-03T04:18:53.975Z",
+  updatedAt: "2026-09-19T17:00:36.000Z",
 } as const satisfies StoryDecision

@@ -8,4 +8,6 @@ export const theTowerTheWelcomer01FalseFaceShard = {
   story: "story-played/the-tower",
   character: "character-other/the-tower-the-welcomer-01",
   description: "A shard of woven light holding a borrowed face.",
+  createdAt: "2026-09-24T16:48:02.154Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

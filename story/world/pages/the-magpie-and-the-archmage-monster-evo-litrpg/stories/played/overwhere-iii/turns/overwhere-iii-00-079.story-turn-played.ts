@@ -46,4 +46,6 @@ export const overwhereIii00079 = {
   ],
   endsAt: "2026-10-08T10:45:00.000Z",
   coverAfter: "Then staff bouts with Tam. You slip his swing and rap his knuckles.",
+  createdAt: "2026-10-02T23:47:46.392Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

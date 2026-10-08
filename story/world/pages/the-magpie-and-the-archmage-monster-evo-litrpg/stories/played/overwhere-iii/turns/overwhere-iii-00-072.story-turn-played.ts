@@ -32,4 +32,6 @@ export const overwhereIii00072 = {
   ],
   endsAt: "2026-10-07T11:50:00.000Z",
   coverAfter: "You pick Inventory. Its price in glimmerstones fades from your pack.",
+  createdAt: "2026-10-02T21:19:46.798Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

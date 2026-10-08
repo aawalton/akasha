@@ -8,4 +8,6 @@ export const theTowerRobedCorpse = {
   story: "story-played/the-tower",
   place: "place/the-tower-gallery-alcove",
   description: "The body of a previous climber in old robes, slumped in the alcove's corner.",
+  createdAt: "2026-09-24T16:33:05.868Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

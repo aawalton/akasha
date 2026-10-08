@@ -8,4 +8,6 @@ export const theTowerCorrodedSpiralStair = {
   story: "story-played/the-tower",
   place: "place/the-tower-cistern-deep",
   description: "A corroded spiral stair on the far side of the water, its seal ground open.",
+  createdAt: "2026-09-24T16:32:42.137Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

@@ -37,4 +37,6 @@ export const overwhereIii00066 = {
   ],
   endsAt: "2026-10-06T14:50:00.000Z",
   coverAfter: "You sit against the shrine's warm stone. The white-gold threads seep in",
+  createdAt: "2026-10-02T20:03:06.348Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

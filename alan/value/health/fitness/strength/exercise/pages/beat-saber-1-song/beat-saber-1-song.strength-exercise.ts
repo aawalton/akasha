@@ -24,4 +24,6 @@ export const beatSaber1Song = {
   skillCost: "moderate",
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
+  createdAt: "2026-06-25T20:27:13.478Z",
+  updatedAt: "2026-09-15T17:40:26.000Z",
 } as const satisfies StrengthExercise

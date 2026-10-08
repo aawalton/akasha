@@ -8,4 +8,6 @@ export const theTowerTheWelcomer01TrueHide = {
   story: "story-played/the-tower",
   character: "character-other/the-tower-the-welcomer-01",
   description: "A thin, cold hide that drinks the light falling on it.",
+  createdAt: "2026-09-24T16:48:11.231Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

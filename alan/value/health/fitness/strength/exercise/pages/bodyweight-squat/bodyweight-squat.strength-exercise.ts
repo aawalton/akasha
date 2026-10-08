@@ -34,4 +34,6 @@ export const bodyweightSquat = {
   trainsLengthenedRange: false,
   instructions: "txt",
   raisesCold: true,
+  createdAt: "2026-06-12T15:32:33.602Z",
+  updatedAt: "2026-09-19T16:22:44.000Z",
 } as const satisfies StrengthExercise

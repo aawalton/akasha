@@ -11,4 +11,6 @@ export const climb = {
   visualStyle: "fantasy photorealistic",
   narrator: 'Second person, present tense: the reader is "you", Alan as himself.',
   imageSeed: 381906427,
+  createdAt: "2026-10-01T21:14:14.503Z",
+  updatedAt: "2026-10-01T21:14:17.000Z",
 } as const satisfies StoryDesign

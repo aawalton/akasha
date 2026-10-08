@@ -30,4 +30,6 @@ export const overwhereIi00107 = {
   ],
   endsAt: "2026-10-26T11:28:00.000Z",
   coverAfter: "The chamber could hold far more.",
+  createdAt: "2026-10-03T12:04:55.822Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

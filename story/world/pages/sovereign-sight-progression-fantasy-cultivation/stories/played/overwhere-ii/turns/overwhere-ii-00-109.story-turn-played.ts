@@ -31,4 +31,6 @@ export const overwhereIi00109 = {
   ],
   endsAt: "2026-10-26T20:58:00.000Z",
   coverAfter: "She holds out a square, callused hand, palm up.",
+  createdAt: "2026-10-03T12:37:20.007Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

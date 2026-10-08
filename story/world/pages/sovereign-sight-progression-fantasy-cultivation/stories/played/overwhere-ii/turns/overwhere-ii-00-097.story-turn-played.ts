@@ -32,4 +32,6 @@ export const overwhereIi00097 = {
   ],
   endsAt: "2026-10-25T09:00:00.000Z",
   coverAfter: "Go to Callow Beck and hold it. Hawise goes with you.",
+  createdAt: "2026-10-03T01:01:41.558Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

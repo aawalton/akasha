@@ -9,4 +9,6 @@ export const emberdeepCopperToken = {
   character: "character-player/emberdeep-nala",
   description:
     "A Delvers' Guild copper rank token stamped NALA MARSH, on a leather cord worn round the neck.",
+  createdAt: "2026-10-02T18:35:44.905Z",
+  updatedAt: "2026-10-02T18:35:51.000Z",
 } as const satisfies StoryItem

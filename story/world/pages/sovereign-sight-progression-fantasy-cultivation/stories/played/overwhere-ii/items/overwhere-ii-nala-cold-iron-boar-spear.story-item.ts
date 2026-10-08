@@ -10,4 +10,6 @@ export const overwhereIiNalaColdIronBoarSpear = {
   slot: "item-slot/main-hand",
   description:
     "A long ash boar spear whose dark, dull cold-iron head has a crossbar below the blade.",
+  createdAt: "2026-10-02T15:20:25.109Z",
+  updatedAt: "2026-10-02T17:00:19.000Z",
 } as const satisfies StoryItem

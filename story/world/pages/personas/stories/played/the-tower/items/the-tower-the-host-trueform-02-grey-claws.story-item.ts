@@ -9,4 +9,6 @@ export const theTowerTheHostTrueform02GreyClaws = {
   character: "character-other/the-tower-the-host-trueform-02",
   slot: "item-slot/main-hand",
   description: "Cold claws on a lean grey thing that lunges for the soft killing distance.",
+  createdAt: "2026-09-24T14:28:02.649Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

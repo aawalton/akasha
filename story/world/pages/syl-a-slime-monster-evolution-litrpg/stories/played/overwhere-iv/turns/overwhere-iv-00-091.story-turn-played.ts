@@ -34,4 +34,6 @@ export const overwhereIv00091 = {
   ],
   endsAt: "2026-10-07T17:10:00.000Z",
   coverAfter: "You sit up and lay it out for them. Lure a full warband",
+  createdAt: "2026-10-03T12:26:09.081Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

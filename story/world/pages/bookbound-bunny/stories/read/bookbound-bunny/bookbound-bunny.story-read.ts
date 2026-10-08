@@ -27,4 +27,6 @@ export const bookboundBunny = {
     "Magic",
     "School Life",
   ],
+  createdAt: "2026-09-03T04:18:50.401Z",
+  updatedAt: "2026-09-19T12:03:55.000Z",
 } as const satisfies StoryRead

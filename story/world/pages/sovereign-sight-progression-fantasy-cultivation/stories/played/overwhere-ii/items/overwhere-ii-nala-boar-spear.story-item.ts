@@ -8,4 +8,6 @@ export const overwhereIiNalaBoarSpear = {
   story: "story-played/overwhere-ii",
   place: "place/overwhere-ii-marsh-croft",
   description: "A long, heavy ash spear with a plain iron head and a crossbar below the blade.",
+  createdAt: "2026-09-30T12:28:00.508Z",
+  updatedAt: "2026-09-30T19:12:02.000Z",
 } as const satisfies StoryItem

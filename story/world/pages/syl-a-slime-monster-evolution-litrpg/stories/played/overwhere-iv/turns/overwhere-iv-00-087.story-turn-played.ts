@@ -33,4 +33,6 @@ export const overwhereIv00087 = {
   ],
   endsAt: "2026-10-07T09:55:00.000Z",
   coverAfter: "A breeze comes down the cleft, carrying a faint smell of woodsmoke",
+  createdAt: "2026-10-03T11:22:49.883Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

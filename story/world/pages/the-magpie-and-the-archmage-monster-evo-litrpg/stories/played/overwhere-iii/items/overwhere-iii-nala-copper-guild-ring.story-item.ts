@@ -9,4 +9,6 @@ export const overwhereIiiNalaCopperGuildRing = {
   character: "character-player/overwhere-iii-nala",
   description:
     "A plain copper ring Marda gave her for her first finished job. It will size to her.",
+  createdAt: "2026-09-30T11:09:07.895Z",
+  updatedAt: "2026-09-30T11:09:16.000Z",
 } as const satisfies StoryItem

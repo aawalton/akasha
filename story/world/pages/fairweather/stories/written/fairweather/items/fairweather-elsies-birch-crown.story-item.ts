@@ -8,4 +8,6 @@ export const fairweatherElsiesBirchCrown = {
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
   description: "A ring of green birch leaves tied with ribbons, worn on the head.",
+  createdAt: "2026-10-06T22:46:18.059Z",
+  updatedAt: "2026-10-07T02:24:42.000Z",
 } as const satisfies StoryItem

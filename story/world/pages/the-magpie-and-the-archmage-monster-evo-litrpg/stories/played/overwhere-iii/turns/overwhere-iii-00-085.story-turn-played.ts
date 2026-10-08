@@ -39,4 +39,6 @@ export const overwhereIii00085 = {
   ],
   endsAt: "2026-10-08T16:40:00.000Z",
   coverAfter: 'She stares down the road toward the wood. "A false face. Gods."',
+  createdAt: "2026-10-03T01:49:50.873Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

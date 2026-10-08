@@ -8,4 +8,6 @@ export const theTowerBlackenedBoneScatter = {
   story: "story-played/the-tower",
   place: "place/the-tower-ember-chamber",
   description: "A scatter of brittle blackened bone, with one intact long-bone among it.",
+  createdAt: "2026-09-24T16:32:17.986Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

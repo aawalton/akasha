@@ -37,4 +37,6 @@ export const overwhereIii00074 = {
   endsAt: "2026-10-07T15:50:00.000Z",
   coverAfter:
     "The core goes white. The stone cracks with a clean ring into one whole glimmerstone.",
+  createdAt: "2026-10-02T21:56:31.600Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

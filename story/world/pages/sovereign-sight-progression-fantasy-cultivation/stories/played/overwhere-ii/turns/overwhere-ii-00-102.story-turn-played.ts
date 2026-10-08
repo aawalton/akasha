@@ -30,4 +30,6 @@ export const overwhereIi00102 = {
   ],
   endsAt: "2026-10-26T06:30:00.000Z",
   coverAfter: "Your throat is cracked dry. Your head pounds, and your tongue feels thick.",
+  createdAt: "2026-10-03T11:01:15.662Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

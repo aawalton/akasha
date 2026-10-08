@@ -41,4 +41,6 @@ export const overwhereIii00095 = {
   ],
   endsAt: "2026-10-10T13:00:00.000Z",
   coverAfter: "The watch whoops. Tam lies there laughing at the sky.",
+  createdAt: "2026-10-03T12:53:22.743Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

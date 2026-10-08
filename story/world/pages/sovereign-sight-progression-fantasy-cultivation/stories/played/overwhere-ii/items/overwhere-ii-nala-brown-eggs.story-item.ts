@@ -9,4 +9,6 @@ export const overwhereIiNalaBrownEggs = {
   character: "character-player/overwhere-ii-nala",
   description: "Fresh brown hen's eggs, carried in a basket.",
   quantity: 6,
+  createdAt: "2026-09-30T11:39:25.901Z",
+  updatedAt: "2026-09-30T11:39:29.000Z",
 } as const satisfies StoryItem

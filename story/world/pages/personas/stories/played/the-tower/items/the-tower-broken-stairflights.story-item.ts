@@ -9,4 +9,6 @@ export const theTowerBrokenStairflights = {
   place: "place/the-tower-shaft-base-flights",
   description:
     "Stone stairflights bolted to the shaft wall, solid where they hold, with gaps between.",
+  createdAt: "2026-09-24T16:33:48.234Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

@@ -38,4 +38,6 @@ export const otherwhereX00008 = {
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T19:13:00.000Z",
+  createdAt: "2026-09-29T02:18:46.841Z",
+  updatedAt: "2026-10-03T19:45:33.000Z",
 } as const satisfies StoryTurnPlayed

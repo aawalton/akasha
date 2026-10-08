@@ -8,4 +8,6 @@ export const theTowerSubmergedPlatform = {
   story: "story-played/the-tower",
   place: "place/the-tower-cistern-deep",
   description: "A stone shelf under knee-to-waist-deep water, with deep water on three sides.",
+  createdAt: "2026-09-24T16:32:40.099Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

@@ -32,4 +32,6 @@ export const deadBug = {
   trainsLengthenedRange: false,
   instructions: "txt",
   raisesCold: true,
+  createdAt: "2026-06-12T15:32:48.214Z",
+  updatedAt: "2026-09-19T16:22:44.000Z",
 } as const satisfies StrengthExercise

@@ -9,4 +9,6 @@ export const theTowerReclaimedDenMetal = {
   character: "character-player/the-tower-alan",
   description:
     "A double handful of fire-cleaned scrap: belt-buckles, a pitted eating-knife, nails, an iron clasp.",
+  createdAt: "2026-09-22T18:13:55.951Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

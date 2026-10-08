@@ -17,4 +17,6 @@ export const aTouchOfPower = {
   following: true,
   tags: ["System World"],
   unit: "unit/words",
+  createdAt: "2026-09-03T04:18:50.407Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies StoryRead

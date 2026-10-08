@@ -9,4 +9,6 @@ export const overwhereIiNalaGreymawChambers = {
   character: "character-player/overwhere-ii-nala",
   description: "A fist-sized knot of polished grey bone, layered like a shell and empty of Water.",
   quantity: 2,
+  createdAt: "2026-09-30T17:29:11.391Z",
+  updatedAt: "2026-10-03T12:08:24.000Z",
 } as const satisfies StoryItem

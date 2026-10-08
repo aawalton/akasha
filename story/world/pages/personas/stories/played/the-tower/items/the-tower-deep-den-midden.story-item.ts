@@ -8,4 +8,6 @@ export const theTowerDeepDenMidden = {
   story: "story-played/the-tower",
   place: "place/the-tower-the-deep-den",
   description: "A midden of dead climbers' packs, boots and bones.",
+  createdAt: "2026-09-24T16:35:04.046Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

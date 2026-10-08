@@ -8,4 +8,6 @@ export const theTowerRottedAcousticBaffling = {
   story: "story-played/the-tower",
   place: "place/the-tower-gallery-alcove",
   description: "Rotted panels of felt and horsehair hung on the alcove walls, centuries old.",
+  createdAt: "2026-09-24T16:33:03.806Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

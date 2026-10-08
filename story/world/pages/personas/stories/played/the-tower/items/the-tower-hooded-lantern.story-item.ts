@@ -8,4 +8,6 @@ export const theTowerHoodedLantern = {
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
   description: "A hooded iron lantern, burning steady, throwing a directional beam.",
+  createdAt: "2026-09-22T18:13:39.023Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

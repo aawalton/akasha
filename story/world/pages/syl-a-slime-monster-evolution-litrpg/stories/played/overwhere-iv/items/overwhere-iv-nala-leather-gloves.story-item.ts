@@ -10,4 +10,6 @@ export const overwhereIvNalaLeatherGloves = {
   slot: "item-slot/hands",
   description:
     "Old leather work gloves, worn soft and a little big, lent from the hall's lost box.",
+  createdAt: "2026-09-30T17:31:34.367Z",
+  updatedAt: "2026-09-30T17:52:23.000Z",
 } as const satisfies StoryItem

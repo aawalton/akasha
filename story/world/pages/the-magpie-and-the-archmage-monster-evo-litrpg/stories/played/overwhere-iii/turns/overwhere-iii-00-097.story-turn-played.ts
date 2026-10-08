@@ -33,4 +33,6 @@ export const overwhereIii00097 = {
   ],
   endsAt: "2026-10-10T14:19:00.000Z",
   coverAfter: "Five paces off, the boar snorts blood into the frost.",
+  createdAt: "2026-10-03T13:25:45.779Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

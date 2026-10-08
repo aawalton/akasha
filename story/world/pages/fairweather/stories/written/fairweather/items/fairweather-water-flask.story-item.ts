@@ -8,4 +8,6 @@ export const fairweatherWaterFlask = {
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
   description: "A leather-covered tin flask of water with a cork stopper, hung on a strap.",
+  createdAt: "2026-10-03T18:27:22.372Z",
+  updatedAt: "2026-10-03T18:27:25.000Z",
 } as const satisfies StoryItem

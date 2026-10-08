@@ -35,4 +35,6 @@ export const overwhereIii00067 = {
   ],
   endsAt: "2026-10-06T18:15:00.000Z",
   coverAfter: "You lay your palm on it. The first Mending Weave sinks in deep",
+  createdAt: "2026-10-02T20:16:10.103Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

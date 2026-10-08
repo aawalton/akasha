@@ -30,4 +30,6 @@ export const overwhereIv00089 = {
   ],
   endsAt: "2026-10-07T10:51:00.000Z",
   coverAfter: "From the rise the smoke is plain now, rising above the trees up the trail.",
+  createdAt: "2026-10-03T11:50:39.215Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

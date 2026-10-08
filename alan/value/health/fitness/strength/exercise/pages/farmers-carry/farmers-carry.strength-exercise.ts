@@ -24,4 +24,6 @@ export const farmersCarry = {
   skillCost: "moderate",
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
+  createdAt: "2026-07-25T03:34:31.811Z",
+  updatedAt: "2026-09-15T17:40:49.000Z",
 } as const satisfies StrengthExercise

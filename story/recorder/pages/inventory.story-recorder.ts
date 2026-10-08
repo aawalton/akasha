@@ -7,4 +7,6 @@ export const inventory = {
   name: "Inventory",
   step: "step-status/mechanics",
   instructions: "md",
+  createdAt: "2026-09-30T10:49:27.871Z",
+  updatedAt: "2026-10-03T15:30:33.000Z",
 } as const satisfies StoryRecorder

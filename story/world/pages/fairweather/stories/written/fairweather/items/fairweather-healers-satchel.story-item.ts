@@ -9,4 +9,6 @@ export const fairweatherHealersSatchel = {
   character: "character-player/fairweather-elsie",
   description:
     "A little leather satchel worn soft, holding rolled bandages, a splint, needle and thread, willow bark, honey salve, a stoppered bottle of stinging brown tincture for cleaning wounds and dried simples in twists of paper.",
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-03T18:27:25.000Z",
 } as const satisfies StoryItem

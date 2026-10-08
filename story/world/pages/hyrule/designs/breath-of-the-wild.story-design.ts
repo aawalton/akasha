@@ -20,4 +20,6 @@ export const breathOfTheWild = {
     "note: 13 base memories distributed across Acts 2-4. Not recovered in game order — resequenced for narrative impact.\nact_2:\n  - Memory #1 (Subdued Ceremony, Ch7 past)\n  - Memory #10 (Mipha's Touch, Ch10 past)\nact_3:\n  - Memory #2 (Revali's Flap, Ch17)\n  - Memory #4 (Daruk's Mettle, Ch14)\n  - Memory #5 (Zelda's Resentment, Ch16 past)\n  - Memory #6 (Urbosa's Hand, Ch19 past)\n  - Memory #7 (Blades of the Yiga, Ch19 past + Ch20 recovery)\n  - Memory #8 (A Premonition, Ch24 past)\n  - Memory #9 (Silent Princess, Ch16 past)\n  - Memory #11 (Shelter from Storm, Ch25)\n  - Memory #12 (Father and Daughter, Ch23 past)\n  - Memory #13 (Slippery Falcon, Ch24 past)\n  - Memory #14 (To Mount Lanayru, Ch25)\nact_4:\n  - Memory #15 (Return of Calamity Ganon, Ch28)\n  - Memory #16 (Despair, Ch29)\n  - Memory #17 (Zelda's Awakening, Ch29)",
   timelineDistribution:
     "both: 6\nnote: Dual timeline. 'Present' = Link's amnesiac journey. 'Past' = Champions' era (100 years ago). 'Both' = memory recovery chapters or timeline transitions.\npast: 8\npresent: 21",
+  createdAt: "2026-09-03T04:18:53.965Z",
+  updatedAt: "2026-09-19T17:00:11.000Z",
 } as const satisfies StoryDesign

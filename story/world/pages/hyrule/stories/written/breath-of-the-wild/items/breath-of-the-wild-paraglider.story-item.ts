@@ -9,4 +9,6 @@ export const breathOfTheWildParaglider = {
   character: "character-other/breath-of-the-wild-link",
   description:
     "A folding Sheikah frame of old canvas and dark wood that opens into a sail and carries its holder on the wind, spending stamina in flight.",
+  createdAt: "2026-10-03T19:17:10.682Z",
+  updatedAt: "2026-10-03T19:17:13.000Z",
 } as const satisfies StoryItem

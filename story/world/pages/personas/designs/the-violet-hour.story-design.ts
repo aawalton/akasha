@@ -20,4 +20,6 @@ export const theVioletHour = {
     "Natalie's Table is the founding scene. The Waystation by the Lake, spoken to the listener as you, is not canon.",
   writingPhilosophy:
     "Settle, don't grip. Window-pane prose: plain, clear sentences, sparse metaphor, and no line that calls attention to its own craft. Kind, low-key company; fond teasing, never an edge. No threat, suspense, conflict or stakes. No goal met or win tallied: people may mention their days, but sharing is the point. No System speaks. Every line is speakable aloud: contractions, plain words, no stage directions, and a wordless beat only as Mm. or Mm-hmm. Lower the register as it goes; the ending fades rather than lands. Content must survive being half-followed into sleep.",
+  createdAt: "2026-09-03T04:18:53.966Z",
+  updatedAt: "2026-09-26T13:59:48.000Z",
 } as const satisfies StoryDesign

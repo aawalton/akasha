@@ -9,4 +9,6 @@ export const breathOfTheWildSheikahSlate = {
   character: "character-other/breath-of-the-wild-link",
   description:
     "A smooth, dark, warm Sheikah tablet that fits Link's palm, its screen marked with an eye.",
+  createdAt: "2026-10-03T19:17:10.682Z",
+  updatedAt: "2026-10-03T19:17:13.000Z",
 } as const satisfies StoryItem

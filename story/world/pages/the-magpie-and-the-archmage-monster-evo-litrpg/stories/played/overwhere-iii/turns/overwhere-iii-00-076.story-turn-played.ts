@@ -31,4 +31,6 @@ export const overwhereIii00076 = {
   ],
   endsAt: "2026-10-07T15:58:00.000Z",
   coverAfter: "The skin is pink and tight, like a scald off a hot pan,",
+  createdAt: "2026-10-02T22:28:55.308Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

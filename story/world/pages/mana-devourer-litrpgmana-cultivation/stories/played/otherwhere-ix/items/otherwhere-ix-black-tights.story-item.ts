@@ -9,4 +9,6 @@ export const otherwhereIxBlackTights = {
   character: "character-player/otherwhere-ix-nala",
   description:
     "Alan's black compression tights, one knee nicked through by glassgrass and the calf torn by a shardback's bite.",
+  createdAt: "2026-10-03T19:40:59.576Z",
+  updatedAt: "2026-10-03T19:41:02.000Z",
 } as const satisfies StoryItem

@@ -13,4 +13,6 @@ export const comeHere = {
     "Appetite already decided before the scene opens; being wanted plainly and told so; the specific charge of a woman who says what she is going to do and then does it.",
   readerFraming:
     "Second person, present tense. The 'you' is Alan. He is in the room, not watching it.",
+  createdAt: "2026-09-03T04:18:53.965Z",
+  updatedAt: "2026-09-26T14:14:25.000Z",
 } as const satisfies StoryDesign

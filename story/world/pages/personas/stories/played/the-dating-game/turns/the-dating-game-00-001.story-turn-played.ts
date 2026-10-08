@@ -15,4 +15,6 @@ export const theDatingGame00001 = {
   stepStatus: "step-status/player",
   beats: "jsonl",
   endsAt: "2026-09-26T08:15:00.000Z",
+  createdAt: "2026-09-26T15:43:02.791Z",
+  updatedAt: "2026-10-03T19:38:54.000Z",
 } as const satisfies StoryTurnPlayed

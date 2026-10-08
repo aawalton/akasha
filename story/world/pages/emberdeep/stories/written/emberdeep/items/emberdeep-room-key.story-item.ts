@@ -8,4 +8,6 @@ export const emberdeepRoomKey = {
   story: "story-written/emberdeep",
   character: "character-player/emberdeep-nala",
   description: "An iron key to room 7 at Corbel House, on a leather tag burned with the number 7.",
+  createdAt: "2026-10-02T18:35:44.906Z",
+  updatedAt: "2026-10-02T18:35:51.000Z",
 } as const satisfies StoryItem

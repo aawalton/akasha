@@ -10,4 +10,6 @@ export const overwhereIiNalaAnnisCloak = {
   slot: "item-slot/shoulders",
   description:
     "A hooded cloak of heavy brown wool, patched at the hem and smelling faintly of cedar.",
+  createdAt: "2026-09-30T09:48:51.139Z",
+  updatedAt: "2026-09-30T09:52:42.000Z",
 } as const satisfies StoryItem

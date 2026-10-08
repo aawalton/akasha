@@ -9,4 +9,6 @@ export const theDatingGame = {
   premise: "md",
   visualStyle: "fantasy photorealistic",
   imageSeed: 381241034,
+  createdAt: "2026-09-26T16:53:43.972Z",
+  updatedAt: "2026-09-28T00:43:40.000Z",
 } as const satisfies StoryDesign

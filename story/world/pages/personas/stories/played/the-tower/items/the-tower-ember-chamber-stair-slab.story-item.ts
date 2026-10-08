@@ -8,4 +8,6 @@ export const theTowerEmberChamberStairSlab = {
   story: "story-played/the-tower",
   place: "place/the-tower-ember-chamber",
   description: "A seamless stone slab at the head of the far-wall stair, slid open.",
+  createdAt: "2026-09-24T16:32:22.133Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

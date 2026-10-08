@@ -6,4 +6,6 @@ export const memory = {
   slug: "memory",
   name: "Memory",
   instructions: "md",
+  createdAt: "2026-09-27T00:47:59.438Z",
+  updatedAt: "2026-09-27T00:48:02.000Z",
 } as const satisfies StoryRecorder

@@ -25,4 +25,6 @@ export const bodyweightReverseLunge = {
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
   raisesCold: true,
+  createdAt: "2026-06-24T23:15:55.664Z",
+  updatedAt: "2026-09-19T16:22:44.000Z",
 } as const satisfies StrengthExercise

@@ -16,4 +16,6 @@ export const stonehavenLeague = {
   following: true,
   tags: ["VRMMO"],
   unit: "unit/words",
+  createdAt: "2026-09-03T04:18:50.407Z",
+  updatedAt: "2026-09-19T12:04:19.000Z",
 } as const satisfies StoryRead

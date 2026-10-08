@@ -41,4 +41,6 @@ export const overwhereIii00068 = {
   ],
   endsAt: "2026-10-07T10:30:00.000Z",
   coverAfter: 'Maud looks you over. "Better. Tomorrow at the dawn bell, if you want it."',
+  createdAt: "2026-10-02T20:29:08.223Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

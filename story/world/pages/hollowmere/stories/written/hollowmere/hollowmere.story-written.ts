@@ -17,4 +17,6 @@ export const hollowmere = {
     "played-panel/scene-cover",
     "played-panel/player-intent",
   ],
+  createdAt: "2026-10-02T14:38:58.421Z",
+  updatedAt: "2026-10-06T10:26:17.000Z",
 } as const satisfies StoryWritten

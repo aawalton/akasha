@@ -38,4 +38,6 @@ export const overwhereIii00083 = {
   endsAt: "2026-10-08T13:35:00.000Z",
   coverAfter:
     "The knot bursts with a boom that rolls away down the brook. The shield tears apart like wet paper.",
+  createdAt: "2026-10-03T01:09:46.160Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

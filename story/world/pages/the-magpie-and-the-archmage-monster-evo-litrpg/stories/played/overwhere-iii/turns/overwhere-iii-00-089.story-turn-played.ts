@@ -37,4 +37,6 @@ export const overwhereIii00089 = {
   ],
   endsAt: "2026-10-09T11:40:00.000Z",
   coverAfter: "They spread out low around you, one on each side and one ahead.",
+  createdAt: "2026-10-03T11:27:22.545Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

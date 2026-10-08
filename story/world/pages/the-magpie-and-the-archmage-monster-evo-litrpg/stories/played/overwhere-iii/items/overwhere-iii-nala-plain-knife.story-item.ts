@@ -9,4 +9,6 @@ export const overwhereIiiNalaPlainKnife = {
   character: "character-player/overwhere-iii-nala",
   description:
     "A worn iron knife with a hand-long blade and a wrapped wooden grip, in a worn sheath.",
+  createdAt: "2026-10-02T18:14:59.677Z",
+  updatedAt: "2026-10-02T18:15:02.000Z",
 } as const satisfies StoryItem

@@ -8,4 +8,6 @@ export const fairweatherCorasGreyGloves = {
   story: "story-written/fairweather",
   character: "character-other/fairweather-cora",
   description: "A pair of hand-knitted gloves of soft pale grey wool, long in the fingers.",
+  createdAt: "2026-10-06T22:46:18.059Z",
+  updatedAt: "2026-10-06T22:46:21.000Z",
 } as const satisfies StoryItem

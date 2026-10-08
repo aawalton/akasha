@@ -8,4 +8,6 @@ export const fairweatherBlueDoorKey = {
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
   description: "A long iron key to the blue-door house, with a blue paper tag tied to its bow.",
+  createdAt: "2026-10-07T01:53:22.802Z",
+  updatedAt: "2026-10-07T01:53:25.000Z",
 } as const satisfies StoryItem

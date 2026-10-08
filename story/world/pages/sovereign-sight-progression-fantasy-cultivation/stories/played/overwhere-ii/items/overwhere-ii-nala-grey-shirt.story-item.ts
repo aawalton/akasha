@@ -9,4 +9,6 @@ export const overwhereIiNalaGreyShirt = {
   character: "character-player/overwhere-ii-nala",
   slot: "item-slot/chest",
   description: "A loose dark grey shirt of soft, finely knit cloth, far too big for her.",
+  createdAt: "2026-09-30T09:48:51.139Z",
+  updatedAt: "2026-09-30T09:48:54.000Z",
 } as const satisfies StoryItem

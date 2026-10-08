@@ -9,4 +9,6 @@ export const overwhereIiiNalaHoodedCloak = {
   character: "character-player/overwhere-iii-nala",
   slot: "item-slot/shoulders",
   description: "A heavy gray wool cloak with a deep hood, bought from Bet's box for five copper.",
+  createdAt: "2026-09-30T18:41:53.869Z",
+  updatedAt: "2026-09-30T18:41:58.000Z",
 } as const satisfies StoryItem

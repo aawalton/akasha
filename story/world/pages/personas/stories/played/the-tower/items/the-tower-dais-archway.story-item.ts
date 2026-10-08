@@ -8,4 +8,6 @@ export const theTowerDaisArchway = {
   story: "story-played/the-tower",
   place: "place/the-tower-gallery-dais",
   description: "A tall stone archway behind the dais, open onto the shaft beyond.",
+  createdAt: "2026-09-24T16:33:13.897Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

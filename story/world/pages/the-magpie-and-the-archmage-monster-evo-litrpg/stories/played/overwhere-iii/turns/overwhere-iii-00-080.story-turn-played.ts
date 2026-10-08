@@ -36,4 +36,6 @@ export const overwhereIii00080 = {
   endsAt: "2026-10-08T12:30:00.000Z",
   coverAfter:
     "Then you see the prints. Wolf prints circle the deer, bigger than any Wrenwood wolf's.",
+  createdAt: "2026-10-03T00:09:06.810Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

@@ -9,4 +9,6 @@ export const overwhereIiiGuildLoanBoots = {
   character: "character-player/overwhere-iii-nala",
   slot: "item-slot/feet",
   description: "Old leather boots from the Guild post's gear box, lent by Marda like the knife.",
+  createdAt: "2026-09-30T11:20:59.758Z",
+  updatedAt: "2026-09-30T12:33:34.000Z",
 } as const satisfies StoryItem

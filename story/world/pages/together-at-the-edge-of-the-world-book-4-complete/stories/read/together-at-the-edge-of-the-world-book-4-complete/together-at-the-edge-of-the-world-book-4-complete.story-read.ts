@@ -35,4 +35,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete = {
     "Male Lead",
   ],
   publicationStatus: "ongoing",
+  createdAt: "2026-09-30T07:14:57.838Z",
+  updatedAt: "2026-09-30T07:14:59.000Z",
 } as const satisfies StoryRead

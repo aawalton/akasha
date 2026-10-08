@@ -9,4 +9,6 @@ export const overwhereIiiNalaBlackTights = {
   character: "character-player/overwhere-iii-nala",
   slot: "item-slot/legs",
   description: "Black compression tights that fit her snugly.",
+  createdAt: "2026-09-30T09:51:02.964Z",
+  updatedAt: "2026-09-30T09:51:07.000Z",
 } as const satisfies StoryItem

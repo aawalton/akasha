@@ -8,4 +8,6 @@ export const overwhereIvNalaIronCleaver = {
   story: "story-played/overwhere-iv",
   character: "character-player/overwhere-iv-nala",
   description: "A heavy, broad-bladed iron cleaver, its edge notched.",
+  createdAt: "2026-10-02T16:27:50.226Z",
+  updatedAt: "2026-10-02T16:27:53.000Z",
 } as const satisfies StoryItem

@@ -8,4 +8,6 @@ export const emberdeepKnife = {
   story: "story-written/emberdeep",
   character: "character-player/emberdeep-nala",
   description: "A plain knife in a worn leather sheath.",
+  createdAt: "2026-10-02T18:35:44.905Z",
+  updatedAt: "2026-10-02T18:35:51.000Z",
 } as const satisfies StoryItem

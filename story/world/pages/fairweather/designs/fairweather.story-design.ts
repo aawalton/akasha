@@ -11,4 +11,6 @@ export const fairweather = {
   visualStyle: "fantasy photorealistic",
   narrator: "Third person, past tense, close on Elsie alone.",
   imageSeed: 268401937,
+  createdAt: "2026-10-03T14:03:34.790Z",
+  updatedAt: "2026-10-03T20:11:49.000Z",
 } as const satisfies StoryDesign

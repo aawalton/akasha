@@ -30,4 +30,6 @@ export const overwhereIi00100 = {
   ],
   endsAt: "2026-10-25T16:50:00.000Z",
   coverAfter: "At once the black water at the gully mouth leans down again.",
+  createdAt: "2026-10-03T01:52:54.801Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

@@ -8,4 +8,6 @@ export const theTowerGalleryMirrors = {
   story: "story-played/the-tower",
   place: "place/the-tower-the-long-gallery",
   description: "Silvered glass mirrors down both walls of the Long Gallery.",
+  createdAt: "2026-09-24T16:34:57.904Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

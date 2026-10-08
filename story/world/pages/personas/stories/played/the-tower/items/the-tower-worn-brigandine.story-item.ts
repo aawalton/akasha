@@ -9,4 +9,6 @@ export const theTowerWornBrigandine = {
   character: "character-other/the-tower-companion-aelwyn",
   slot: "item-slot/chest",
   description: "A brigandine of small plates riveted inside a cloth body, worn but sound.",
+  createdAt: "2026-09-22T23:03:50.471Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

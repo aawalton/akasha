@@ -9,4 +9,6 @@ export const fairweatherMargery = {
   character: "character-other/fairweather-tamsin",
   description:
     "Tamsin's great axe, carried strapped across her back with its head wrapped in sacking.",
+  createdAt: "2026-10-03T20:12:56.947Z",
+  updatedAt: "2026-10-03T20:12:59.000Z",
 } as const satisfies StoryItem

@@ -10,4 +10,6 @@ export const overwhereIiiNalaWoolTunic = {
   slot: "item-slot/body",
   description:
     "A plain brown wool tunic from Bet's box, worn over the gray shirt, darned at one elbow.",
+  createdAt: "2026-09-30T18:41:53.874Z",
+  updatedAt: "2026-09-30T18:41:58.000Z",
 } as const satisfies StoryItem

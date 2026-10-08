@@ -18,4 +18,6 @@ export const overwhereI = {
     "played-panel/story-so-far",
     "played-panel/player-intent",
   ],
+  createdAt: "2026-09-29T12:00:40.874Z",
+  updatedAt: "2026-10-03T21:27:44.000Z",
 } as const satisfies StoryPlayed

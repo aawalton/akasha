@@ -17,4 +17,6 @@ export const climb = {
     "played-panel/quest-list",
     "played-panel/player-intent",
   ],
+  createdAt: "2026-10-01T21:16:56.845Z",
+  updatedAt: "2026-10-04T15:19:21.000Z",
 } as const satisfies StoryWritten

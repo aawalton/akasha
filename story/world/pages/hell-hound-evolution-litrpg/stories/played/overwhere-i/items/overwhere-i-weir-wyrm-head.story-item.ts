@@ -9,4 +9,6 @@ export const overwhereIWeirWyrmHead = {
   place: "place/overwhere-i-hobbs-mill-weir",
   description:
     "The Weir Wyrm's scorched, grey-green head, about 80 pounds, its two fangs taken from the jaw.",
+  createdAt: "2026-10-03T12:24:04.607Z",
+  updatedAt: "2026-10-03T12:43:11.000Z",
 } as const satisfies StoryItem

@@ -8,4 +8,6 @@ export const fairweatherBrassGoggles = {
   story: "story-written/fairweather",
   character: "character-other/fairweather-tilly",
   description: "A pair of brass goggles, worn pushed up on the head.",
+  createdAt: "2026-10-03T20:12:56.946Z",
+  updatedAt: "2026-10-03T20:12:59.000Z",
 } as const satisfies StoryItem

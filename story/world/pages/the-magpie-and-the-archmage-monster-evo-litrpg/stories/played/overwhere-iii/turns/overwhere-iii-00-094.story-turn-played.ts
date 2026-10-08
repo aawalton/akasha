@@ -30,4 +30,6 @@ export const overwhereIii00094 = {
   ],
   endsAt: "2026-10-09T17:15:00.000Z",
   coverAfter: "A faint white-gold shimmer lies over your skin, and holds.",
+  createdAt: "2026-10-03T12:39:38.774Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

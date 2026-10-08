@@ -31,4 +31,6 @@ export const wanderingMageSolMonsterHuntingZoology = {
     "Local Protagonist",
   ],
   publicationStatus: "ongoing",
+  createdAt: "2026-10-06T13:05:39.365Z",
+  updatedAt: "2026-10-06T13:05:40.000Z",
 } as const satisfies StoryRead

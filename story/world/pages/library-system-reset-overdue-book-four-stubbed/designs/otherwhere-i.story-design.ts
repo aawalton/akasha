@@ -24,4 +24,6 @@ export const otherwhereI = {
   visualStyle:
     "Cinematic still from a big-budget live-action fantasy film, shot on location in a real, lived-in world where magic exists. Practical light from real sources in the scene: lamps, windows, glowing magic. Magical creatures and effects rendered as seamless film-quality CGI, as solid and weighted as the actors. Real grime, wear and depth, candid rather than posed, anamorphic lens, natural color grade.",
   imageSeed: 381241034,
+  createdAt: "2026-09-27T14:40:13.291Z",
+  updatedAt: "2026-09-28T22:48:45.000Z",
 } as const satisfies StoryDesign

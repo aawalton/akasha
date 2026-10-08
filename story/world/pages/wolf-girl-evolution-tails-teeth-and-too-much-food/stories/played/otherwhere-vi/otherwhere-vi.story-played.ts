@@ -18,4 +18,6 @@ export const otherwhereVi = {
     "played-panel/story-so-far",
     "played-panel/player-intent",
   ],
+  createdAt: "2026-09-28T22:20:25.036Z",
+  updatedAt: "2026-10-03T21:27:44.000Z",
 } as const satisfies StoryPlayed

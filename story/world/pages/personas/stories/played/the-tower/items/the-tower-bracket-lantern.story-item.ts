@@ -8,4 +8,6 @@ export const theTowerBracketLantern = {
   story: "story-played/the-tower",
   place: "place/the-tower-shaft-base-flights",
   description: "An iron lantern on a bracket wedged in the wall at the first landing.",
+  createdAt: "2026-09-24T16:34:01.266Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

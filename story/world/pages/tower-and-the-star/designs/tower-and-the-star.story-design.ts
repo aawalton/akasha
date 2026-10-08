@@ -13,4 +13,6 @@ export const towerAndTheStar = {
   visualStyle:
     "warm luminous urban-fantasy illustration; bright magical bond-light and soft city glow; vivid teal, rose-gold, and starlit violet palette; gentle radiant highlights; clean painterly finish, hopeful and full of connection",
   arcStructure: "md",
+  createdAt: "2026-09-03T04:18:53.966Z",
+  updatedAt: "2026-09-19T17:00:11.000Z",
 } as const satisfies StoryDesign

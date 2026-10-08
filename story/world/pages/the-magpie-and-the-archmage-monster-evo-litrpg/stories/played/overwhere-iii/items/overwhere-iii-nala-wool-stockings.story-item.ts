@@ -9,4 +9,6 @@ export const overwhereIiiNalaWoolStockings = {
   character: "character-player/overwhere-iii-nala",
   quantity: 2,
   description: "Two pairs of thick knitted wool stockings from Bet's box, darned at the heels.",
+  createdAt: "2026-09-30T18:41:53.869Z",
+  updatedAt: "2026-09-30T18:41:58.000Z",
 } as const satisfies StoryItem

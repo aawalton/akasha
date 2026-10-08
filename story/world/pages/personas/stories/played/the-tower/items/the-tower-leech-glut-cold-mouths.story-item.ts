@@ -10,4 +10,6 @@ export const theTowerLeechGlutColdMouths = {
   slot: "item-slot/body",
   description:
     "Dozens of cold mouths on a slick mass of leech-things that latch, sap the strength from a limb, and haul a body under the water.",
+  createdAt: "2026-09-24T14:42:04.368Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

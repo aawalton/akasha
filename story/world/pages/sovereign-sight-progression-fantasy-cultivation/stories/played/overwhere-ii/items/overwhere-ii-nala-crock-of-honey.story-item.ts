@@ -8,4 +8,6 @@ export const overwhereIiNalaCrockOfHoney = {
   story: "story-played/overwhere-ii",
   character: "character-player/overwhere-ii-nala",
   description: "A small stoneware crock of honey, stoppered.",
+  createdAt: "2026-09-30T11:39:25.901Z",
+  updatedAt: "2026-09-30T11:39:29.000Z",
 } as const satisfies StoryItem

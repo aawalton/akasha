@@ -35,4 +35,6 @@ export const overwhereIv00085 = {
   ],
   endsAt: "2026-10-07T07:20:00.000Z",
   coverAfter: "\"A strike broken is a major job, same as a camp cleared. That's your",
+  createdAt: "2026-10-03T01:53:55.788Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

@@ -11,4 +11,6 @@ export const hollowmere = {
   visualStyle: "fantasy photorealistic",
   narrator: 'Second person, present tense: the reader is "you", Nala.',
   imageSeed: 614083529,
+  createdAt: "2026-10-02T14:37:56.351Z",
+  updatedAt: "2026-10-02T14:37:59.000Z",
 } as const satisfies StoryDesign

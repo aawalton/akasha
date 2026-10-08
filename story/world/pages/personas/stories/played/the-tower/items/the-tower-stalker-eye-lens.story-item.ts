@@ -10,4 +10,6 @@ export const theTowerStalkerEyeLens = {
   essence: "tower-element/the-tower-dark",
   description:
     "A clouded crystalline lens, cold to the touch, that drinks light rather than throwing it back.",
+  createdAt: "2026-09-22T18:13:35.311Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

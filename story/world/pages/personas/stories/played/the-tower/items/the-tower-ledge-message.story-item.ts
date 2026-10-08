@@ -8,4 +8,6 @@ export const theTowerLedgeMessage = {
   story: "story-played/the-tower",
   place: "place/the-tower-shaft-mid-slabs",
   description: "A message scratched into the wall beside the dead climber, left unfinished.",
+  createdAt: "2026-09-24T16:34:08.768Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

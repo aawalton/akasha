@@ -38,4 +38,6 @@ export const overwhereI00122 = {
   ],
   endsAt: "2026-10-07T14:28:00.000Z",
   coverAfter: "He looks back west, the way he came.",
+  createdAt: "2026-10-04T13:35:40.761Z",
+  updatedAt: "2026-10-04T13:43:55.000Z",
 } as const satisfies StoryTurnPlayed

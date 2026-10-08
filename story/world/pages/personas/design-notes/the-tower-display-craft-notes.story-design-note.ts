@@ -8,4 +8,6 @@ export const theTowerDisplayCraftNotes = {
   world: "world/personas",
   subject: "the-tower",
   prose: "txt",
+  createdAt: "2026-09-03T04:18:53.976Z",
+  updatedAt: "2026-09-19T17:01:48.000Z",
 } as const satisfies StoryDesignNote

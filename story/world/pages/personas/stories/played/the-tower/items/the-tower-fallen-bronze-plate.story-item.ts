@@ -9,4 +9,6 @@ export const theTowerFallenBronzePlate = {
   place: "place/the-tower-gallery-nave",
   description:
     "A bronze resonance-plate lying fallen mid-nave, a sheet of bronze some two metres long.",
+  createdAt: "2026-09-24T16:32:59.610Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

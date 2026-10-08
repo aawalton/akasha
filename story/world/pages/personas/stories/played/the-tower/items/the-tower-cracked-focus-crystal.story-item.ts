@@ -8,4 +8,6 @@ export const theTowerCrackedFocusCrystal = {
   story: "story-played/the-tower",
   place: "place/the-tower-gallery-alcove",
   description: "A cracked crystal carried by the robed corpse.",
+  createdAt: "2026-09-24T16:33:09.821Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

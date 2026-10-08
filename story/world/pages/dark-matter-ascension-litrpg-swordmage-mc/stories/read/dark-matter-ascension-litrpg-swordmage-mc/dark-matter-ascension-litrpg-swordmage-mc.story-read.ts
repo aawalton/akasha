@@ -40,4 +40,6 @@ export const darkMatterAscensionLitrpgSwordmageMc = {
   ],
   ownProgress: 83325,
   unit: "unit/words",
+  createdAt: "2026-09-03T04:18:50.401Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies StoryRead

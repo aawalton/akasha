@@ -42,4 +42,6 @@ export const catGirlEvolution = {
     "Survival",
   ],
   publicationStatus: "ongoing",
+  createdAt: "2026-09-03T04:18:50.401Z",
+  updatedAt: "2026-09-28T20:27:10.000Z",
 } as const satisfies StoryRead

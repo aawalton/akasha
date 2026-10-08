@@ -9,4 +9,6 @@ export const overwhereIVossSealedLetter = {
   place: "place/overwhere-i-wendlow",
   description:
     "A folded letter taken from Harl Voss's jerkin, its guild counting-house seal broken by Grete, who keeps it for the magistrate.",
+  createdAt: "2026-10-02T20:46:06.391Z",
+  updatedAt: "2026-10-03T01:29:12.000Z",
 } as const satisfies StoryItem

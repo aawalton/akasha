@@ -8,4 +8,6 @@ export const theTowerThresholdStone = {
   story: "story-played/the-tower",
   place: "place/the-tower-haven-threshold",
   description: "The dusty stone floor at the haven's mouth.",
+  createdAt: "2026-09-24T16:34:50.038Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

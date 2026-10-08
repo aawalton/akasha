@@ -29,4 +29,6 @@ export const overwhereIi00104 = {
   ],
   endsAt: "2026-10-26T11:05:00.000Z",
   coverAfter: "Hawise wipes her hands and looks out at the steaming black.",
+  createdAt: "2026-10-03T11:24:27.588Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

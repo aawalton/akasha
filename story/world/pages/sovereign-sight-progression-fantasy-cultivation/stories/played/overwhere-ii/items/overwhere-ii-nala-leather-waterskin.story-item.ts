@@ -8,4 +8,6 @@ export const overwhereIiNalaLeatherWaterskin = {
   story: "story-played/overwhere-ii",
   character: "character-player/overwhere-ii-nala",
   description: "A stitched leather waterskin with a wooden stopper and a carrying cord.",
+  createdAt: "2026-09-30T22:26:53.048Z",
+  updatedAt: "2026-09-30T22:26:56.000Z",
 } as const satisfies StoryItem

@@ -12,4 +12,6 @@ export const towerOfNimue001TheFirstHour = {
   prose: "txt",
   beats: "jsonl",
   stepStatus: "step-status/player",
+  createdAt: "2026-09-03T04:49:31.008Z",
+  updatedAt: "2026-10-03T19:16:26.000Z",
 } as const satisfies StoryChapterWritten

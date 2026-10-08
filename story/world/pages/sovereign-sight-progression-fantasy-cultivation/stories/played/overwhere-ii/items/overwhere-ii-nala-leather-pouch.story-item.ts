@@ -9,4 +9,6 @@ export const overwhereIiNalaLeatherPouch = {
   character: "character-player/overwhere-ii-nala",
   description:
     "A small drawstring pouch of soft brown leather, big enough for a handful of coin, stained grey and salt-stiff in one spot.",
+  createdAt: "2026-09-30T11:03:48.467Z",
+  updatedAt: "2026-10-03T11:51:23.000Z",
 } as const satisfies StoryItem

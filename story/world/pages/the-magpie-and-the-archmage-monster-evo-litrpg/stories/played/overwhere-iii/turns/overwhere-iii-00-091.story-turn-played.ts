@@ -31,4 +31,6 @@ export const overwhereIii00091 = {
   ],
   endsAt: "2026-10-09T11:45:00.000Z",
   coverAfter: "The smallest jackalope shrieks once. It bolts for the stumps, limping, and dives",
+  createdAt: "2026-10-03T11:52:43.880Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

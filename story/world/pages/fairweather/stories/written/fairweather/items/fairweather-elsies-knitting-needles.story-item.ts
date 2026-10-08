@@ -8,4 +8,6 @@ export const fairweatherElsiesKnittingNeedles = {
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
   description: "A pair of smooth pointed needles of polished birch.",
+  createdAt: "2026-10-06T14:03:32.264Z",
+  updatedAt: "2026-10-06T14:03:34.000Z",
 } as const satisfies StoryItem

@@ -30,4 +30,6 @@ export const overwhereIi00092 = {
   ],
   endsAt: "2026-10-22T06:48:00.000Z",
   coverAfter: "Osric sets his feet across the frosted court, maul raised.",
+  createdAt: "2026-10-02T23:39:44.688Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

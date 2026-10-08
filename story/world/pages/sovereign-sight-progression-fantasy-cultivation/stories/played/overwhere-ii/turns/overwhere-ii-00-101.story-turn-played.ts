@@ -30,4 +30,6 @@ export const overwhereIi00101 = {
   ],
   endsAt: "2026-10-25T18:30:00.000Z",
   coverAfter: "The black water leans against the bank. The bank holds.",
+  createdAt: "2026-10-03T02:05:26.477Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

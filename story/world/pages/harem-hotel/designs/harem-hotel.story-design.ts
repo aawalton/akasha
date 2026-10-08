@@ -11,4 +11,6 @@ export const haremHotel = {
   visualStyle: "fantasy photorealistic",
   narrator: 'Second person, present tense: the reader is "you", Alan as himself.',
   imageSeed: 724518093,
+  createdAt: "2026-09-28T13:07:20.018Z",
+  updatedAt: "2026-09-28T18:28:19.000Z",
 } as const satisfies StoryDesign

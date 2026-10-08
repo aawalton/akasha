@@ -36,4 +36,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy = {
     "Strong Lead",
   ],
   publicationStatus: "ongoing",
+  createdAt: "2026-09-28T20:27:04.753Z",
+  updatedAt: "2026-09-28T20:27:05.000Z",
 } as const satisfies StoryRead

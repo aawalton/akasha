@@ -9,4 +9,6 @@ export const overwhereIAntlerBadge = {
   character: "character-player/overwhere-i-nala",
   description:
     "A small bronze antler badge from Antler Hall, the mark of a hunter on Wendlow's roll.",
+  createdAt: "2026-10-03T00:48:58.944Z",
+  updatedAt: "2026-10-03T00:49:01.000Z",
 } as const satisfies StoryItem

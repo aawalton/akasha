@@ -33,4 +33,6 @@ export const overwhereIii00090 = {
   endsAt: "2026-10-09T11:43:00.000Z",
   coverAfter:
     "You turn and braid cleanse and lash together, then sweep the braid across all three.",
+  createdAt: "2026-10-03T11:41:15.484Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

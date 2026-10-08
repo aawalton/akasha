@@ -8,4 +8,6 @@ export const theTowerAlcoveScratchedWords = {
   story: "story-played/the-tower",
   place: "place/the-tower-gallery-alcove",
   description: "Words scratched into the wall above the robed corpse.",
+  createdAt: "2026-09-24T16:33:11.893Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

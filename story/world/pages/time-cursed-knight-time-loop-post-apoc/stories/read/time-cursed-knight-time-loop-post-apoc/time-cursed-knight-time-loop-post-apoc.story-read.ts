@@ -33,4 +33,6 @@ export const timeCursedKnightTimeLoopPostApoc = {
   ],
   unit: "unit/words",
   prose: "txt",
+  createdAt: "2026-09-03T04:18:50.405Z",
+  updatedAt: "2026-09-19T12:04:19.000Z",
 } as const satisfies StoryRead

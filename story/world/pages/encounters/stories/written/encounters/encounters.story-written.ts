@@ -12,4 +12,6 @@ export const encounters = {
   coordinatorAgent: "mari-game-master-encounters",
   following: false,
   panels: ["played-panel/player-character", "played-panel/scene-cover"],
+  createdAt: "2026-10-06T20:54:26.824Z",
+  updatedAt: "2026-10-06T20:54:30.000Z",
 } as const satisfies StoryWritten

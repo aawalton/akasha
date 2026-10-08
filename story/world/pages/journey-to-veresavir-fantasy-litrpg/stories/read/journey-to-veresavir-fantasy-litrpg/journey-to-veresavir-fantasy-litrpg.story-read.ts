@@ -28,4 +28,6 @@ export const journeyToVeresavirFantasyLitrpg = {
   ],
   unit: "unit/words",
   prose: "txt",
+  createdAt: "2026-09-03T04:18:50.403Z",
+  updatedAt: "2026-09-28T20:27:19.000Z",
 } as const satisfies StoryRead

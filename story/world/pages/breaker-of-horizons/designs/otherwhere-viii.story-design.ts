@@ -24,4 +24,6 @@ export const otherwhereViii = {
   visualStyle:
     "High-budget CGI urban fantasy feature film still, blockbuster studio VFX: physically based materials, subsurface-scattered skin, strand-level hair and simulated cloth; cinematic key light with strong rim light and warm practical sources, volumetric haze and light shafts; filmic teal-and-amber grade with deep blacks and soft rolled-off highlights; anamorphic lens, oval bokeh, faint flare, shallow depth of field; grand, meticulously detailed production design and composed framing.",
   imageSeed: 381241034,
+  createdAt: "2026-09-28T22:18:58.378Z",
+  updatedAt: "2026-09-28T22:19:01.000Z",
 } as const satisfies StoryDesign

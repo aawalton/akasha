@@ -9,4 +9,6 @@ export const fairweatherCopperRankTag = {
   character: "character-player/fairweather-elsie",
   description:
     "A small copper tag of the Adventurers' Guild, stamped with the holder's name and rank, E, and hung at the belt.",
+  createdAt: "2026-10-03T17:02:12.042Z",
+  updatedAt: "2026-10-06T12:21:38.000Z",
 } as const satisfies StoryItem

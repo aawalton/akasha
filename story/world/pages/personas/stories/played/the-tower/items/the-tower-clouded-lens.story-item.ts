@@ -8,4 +8,6 @@ export const theTowerCloudedLens = {
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
   description: "A palm-sized glass lens gone the grey-white of a blind eye, and colder than stone.",
+  createdAt: "2026-09-22T18:13:59.956Z",
+  updatedAt: "2026-09-26T17:47:23.000Z",
 } as const satisfies StoryItem

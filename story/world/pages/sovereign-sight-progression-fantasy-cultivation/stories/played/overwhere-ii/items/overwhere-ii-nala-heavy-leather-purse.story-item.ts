@@ -9,4 +9,6 @@ export const overwhereIiNalaHeavyLeatherPurse = {
   character: "character-player/overwhere-ii-nala",
   slot: "item-slot/waist",
   description: "A heavy leather purse, tied at the neck, that clinks when it moves.",
+  createdAt: "2026-09-30T19:48:02.403Z",
+  updatedAt: "2026-09-30T21:41:50.000Z",
 } as const satisfies StoryItem

@@ -8,4 +8,6 @@ export const fairweatherLeatherJerkin = {
   story: "story-written/fairweather",
   character: "character-other/fairweather-tamsin",
   description: "A battered sleeveless leather jerkin.",
+  createdAt: "2026-10-03T20:12:56.947Z",
+  updatedAt: "2026-10-03T20:12:59.000Z",
 } as const satisfies StoryItem

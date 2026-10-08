@@ -32,4 +32,6 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg = {
     "Slice of Life",
     "Strong Lead",
   ],
+  createdAt: "2026-09-03T04:18:50.400Z",
+  updatedAt: "2026-09-21T19:44:25.000Z",
 } as const satisfies StoryRead

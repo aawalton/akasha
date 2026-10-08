@@ -8,4 +8,6 @@ export const overwhereIiiNalaLeatherPouch = {
   story: "story-played/overwhere-iii",
   character: "character-player/overwhere-iii-nala",
   description: "A small old leather pouch with a drawstring, cracked at the seams.",
+  createdAt: "2026-10-02T19:54:11.194Z",
+  updatedAt: "2026-10-02T19:54:14.000Z",
 } as const satisfies StoryItem

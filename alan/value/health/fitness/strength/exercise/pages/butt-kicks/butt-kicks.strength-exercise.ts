@@ -25,4 +25,6 @@ export const buttKicks = {
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
   instructions: "txt",
+  createdAt: "2026-09-19T02:15:15.362Z",
+  updatedAt: "2026-09-19T02:27:43.000Z",
 } as const satisfies StrengthExercise

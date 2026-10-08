@@ -9,4 +9,6 @@ export const overwhereIiNalaAnnisBoots = {
   character: "character-player/overwhere-ii-nala",
   slot: "item-slot/feet",
   description: "A pair of worn brown leather boots, laced to the shin, a little large for her.",
+  createdAt: "2026-09-30T09:48:51.138Z",
+  updatedAt: "2026-09-30T09:48:54.000Z",
 } as const satisfies StoryItem

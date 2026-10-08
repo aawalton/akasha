@@ -32,4 +32,6 @@ export const overwhereIv00093 = {
   ],
   endsAt: "2026-10-08T08:47:00.000Z",
   coverAfter: "The whole file is coming down the trail at you at a run,",
+  createdAt: "2026-10-03T13:02:35.512Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

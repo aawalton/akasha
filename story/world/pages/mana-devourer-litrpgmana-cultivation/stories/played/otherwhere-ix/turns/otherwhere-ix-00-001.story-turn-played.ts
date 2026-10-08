@@ -16,4 +16,6 @@ export const otherwhereIx00001 = {
   stepStatus: "step-status/player",
   lore: ["lore/otherwhere-ix-nala", "place/otherwhere-ix-glassgrass-flats"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
+  createdAt: "2026-09-28T22:25:32.485Z",
+  updatedAt: "2026-10-03T19:41:02.000Z",
 } as const satisfies StoryTurnPlayed

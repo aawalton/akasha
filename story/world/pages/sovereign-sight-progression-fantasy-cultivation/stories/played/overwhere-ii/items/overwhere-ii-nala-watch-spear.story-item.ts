@@ -9,4 +9,6 @@ export const overwhereIiNalaWatchSpear = {
   character: "character-player/overwhere-ii-nala",
   slot: "item-slot/main-hand",
   description: "A plain iron-headed spear on an ash shaft, taller than she is.",
+  createdAt: "2026-09-30T19:11:59.236Z",
+  updatedAt: "2026-09-30T19:12:02.000Z",
 } as const satisfies StoryItem

@@ -6,4 +6,6 @@ export const style = {
   slug: "style",
   name: "Style",
   instructions: "md",
+  createdAt: "2026-09-27T13:33:20.120Z",
+  updatedAt: "2026-09-27T13:33:29.000Z",
 } as const satisfies StoryReviewer

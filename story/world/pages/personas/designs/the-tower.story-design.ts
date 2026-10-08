@@ -24,4 +24,6 @@ export const theTower = {
   author: "Alan, with Aura coordinating",
   visualStyle:
     "ominous System-tower LitRPG art; cold vertical light and faint UI glow; desaturated slate, ash, and pale cyan palette; stark deep shadow; clean cinematic semi-realistic finish, isolating and tense",
+  createdAt: "2026-09-03T04:18:53.966Z",
+  updatedAt: "2026-09-26T14:07:07.000Z",
 } as const satisfies StoryDesign

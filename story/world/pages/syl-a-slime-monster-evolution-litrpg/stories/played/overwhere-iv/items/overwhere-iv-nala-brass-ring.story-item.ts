@@ -8,4 +8,6 @@ export const overwhereIvNalaBrassRing = {
   story: "story-played/overwhere-iv",
   character: "character-player/overwhere-iv-nala",
   description: "A woman's plain brass ring.",
+  createdAt: "2026-10-02T16:27:50.225Z",
+  updatedAt: "2026-10-02T16:27:53.000Z",
 } as const satisfies StoryItem

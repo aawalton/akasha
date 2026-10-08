@@ -8,4 +8,6 @@ export const fairweatherBestRibbon = {
   story: "story-written/fairweather",
   character: "character-player/fairweather-elsie",
   description: "A length of rose-pink satin ribbon, kept folded for tying up gifts.",
+  createdAt: "2026-10-04T09:15:58.106Z",
+  updatedAt: "2026-10-04T09:16:01.000Z",
 } as const satisfies StoryItem

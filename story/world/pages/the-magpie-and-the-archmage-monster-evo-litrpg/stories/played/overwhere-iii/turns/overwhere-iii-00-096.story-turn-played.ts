@@ -31,4 +31,6 @@ export const overwhereIii00096 = {
   ],
   endsAt: "2026-10-10T14:17:00.000Z",
   coverAfter: "It lowers its tusks at you and paws the frost.",
+  createdAt: "2026-10-03T13:10:32.438Z",
+  updatedAt: "2026-10-03T19:02:21.000Z",
 } as const satisfies StoryTurnPlayed

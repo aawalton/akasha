@@ -38,4 +38,6 @@ export const overwhereIii00087 = {
   ],
   endsAt: "2026-10-08T17:40:00.000Z",
   coverAfter: "Then she jerks her chin at the stair. \"There's a room upstairs, free.",
+  createdAt: "2026-10-03T11:02:23.034Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

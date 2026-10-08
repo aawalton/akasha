@@ -31,4 +31,6 @@ export const overwhereIi00106 = {
   endsAt: "2026-10-26T11:23:00.000Z",
   coverAfter:
     "The bead drops from the pouch onto the stone, and begins to crawl toward the pool again.",
+  createdAt: "2026-10-03T11:49:40.153Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

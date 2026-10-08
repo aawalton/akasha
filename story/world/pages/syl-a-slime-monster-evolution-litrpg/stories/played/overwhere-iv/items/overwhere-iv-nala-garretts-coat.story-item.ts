@@ -8,4 +8,6 @@ export const overwhereIvNalaGarrettsCoat = {
   story: "story-played/overwhere-iv",
   place: "place/overwhere-iv-millbrook-gatehouse",
   description: "A patched brown wool coat that smells of horse, folded on her cot.",
+  createdAt: "2026-09-30T09:54:07.175Z",
+  updatedAt: "2026-09-30T09:54:14.000Z",
 } as const satisfies StoryItem

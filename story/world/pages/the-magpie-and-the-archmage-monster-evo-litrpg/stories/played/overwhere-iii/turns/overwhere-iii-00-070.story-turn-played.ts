@@ -32,4 +32,6 @@ export const overwhereIii00070 = {
   ],
   endsAt: "2026-10-07T11:30:00.000Z",
   coverAfter: '"Two of like level can be fused, for good." Her eyes narrow at you.',
+  createdAt: "2026-10-02T20:57:10.762Z",
+  updatedAt: "2026-10-03T18:26:18.000Z",
 } as const satisfies StoryTurnPlayed

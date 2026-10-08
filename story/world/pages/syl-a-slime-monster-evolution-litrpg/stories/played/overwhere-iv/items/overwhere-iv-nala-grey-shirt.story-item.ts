@@ -8,4 +8,6 @@ export const overwhereIvNalaGreyShirt = {
   story: "story-played/overwhere-iv",
   place: "place/overwhere-iv-millbrook-gatehouse",
   description: "A loose old grey shirt, far too big for her, left behind her curtain.",
+  createdAt: "2026-09-30T09:54:07.175Z",
+  updatedAt: "2026-09-30T09:54:14.000Z",
 } as const satisfies StoryItem
