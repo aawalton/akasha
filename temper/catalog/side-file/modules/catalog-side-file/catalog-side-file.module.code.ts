@@ -16,10 +16,18 @@ function coerceInvalidateDomains(value: unknown): unknown {
   return value
 }
 
+const MinedItemsUploadedSchema = z.object({
+  apiVersion: z.string(),
+  throughItemId: z.number().int().nonnegative(),
+})
+
+export type MinedItemsUploaded = z.infer<typeof MinedItemsUploadedSchema>
+
 const SideFileSchema = z.object({
   version: z.number().int().nonnegative(),
   invalidateVersion: z.number().int().nonnegative(),
   invalidateDomains: z.preprocess(coerceInvalidateDomains, z.array(z.string()).default([])),
+  minedItemsUploaded: MinedItemsUploadedSchema.optional(),
 })
 
 export type SideFile = z.infer<typeof SideFileSchema>
@@ -48,6 +56,16 @@ export function serializeSideFile(sf: SideFile): string {
   lines.push(`${BLOCK_INDENT}["version"] = ${sf.version},`)
   lines.push(`${BLOCK_INDENT}["invalidateVersion"] = ${sf.invalidateVersion},`)
   lines.push(...serializeLuaBlock("invalidateDomains", [...sf.invalidateDomains], BLOCK_INDENT))
+  const uploaded = sf.minedItemsUploaded
+  if (uploaded !== undefined) {
+    lines.push(`${BLOCK_INDENT}["minedItemsUploaded"] =`)
+    lines.push(`${BLOCK_INDENT}{`)
+    lines.push(
+      `${BLOCK_INDENT}${BLOCK_INDENT}["apiVersion"] = ${JSON.stringify(uploaded.apiVersion)},`
+    )
+    lines.push(`${BLOCK_INDENT}${BLOCK_INDENT}["throughItemId"] = ${uploaded.throughItemId},`)
+    lines.push(`${BLOCK_INDENT}},`)
+  }
   lines.push("}")
   lines.push("")
   return lines.join("\n")
@@ -64,5 +82,18 @@ export function computeNextSideFile(
     version: SIDE_FILE_VERSION,
     invalidateVersion: Math.max(priorVersion + 1, now),
     invalidateDomains: deduped,
+    minedItemsUploaded: prev?.minedItemsUploaded,
+  }
+}
+
+export function withMinedItemsUploaded(
+  prev: SideFile | undefined,
+  uploaded: MinedItemsUploaded
+): SideFile {
+  return {
+    version: SIDE_FILE_VERSION,
+    invalidateVersion: prev?.invalidateVersion ?? 0,
+    invalidateDomains: prev?.invalidateDomains ?? [],
+    minedItemsUploaded: uploaded,
   }
 }

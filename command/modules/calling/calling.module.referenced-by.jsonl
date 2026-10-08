@@ -464,6 +464,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/catalog/list/temper-catalog-list.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/catalog/list/temper-catalog-list.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/catalog/mined-uploaded/temper-catalog-mined-uploaded.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/catalog/status/temper-catalog-status.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/community/addon-install/temper-community-addon-install.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/community/addon-install/temper-community-addon-install.command.test.ts","typed":true,"deferred":false}

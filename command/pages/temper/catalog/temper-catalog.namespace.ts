@@ -9,9 +9,10 @@ export const temperCatalog = {
     "command/temper-catalog-import-lore-books",
     "command/temper-catalog-invalidate",
     "command/temper-catalog-list",
+    "command/temper-catalog-mined-uploaded",
     "command/temper-catalog-status",
   ],
   name: "catalog",
   createdAt: "2026-09-07T13:38:58.561Z",
-  updatedAt: "2026-09-25T12:56:10.000Z",
+  updatedAt: "2026-10-08T19:48:07.064Z",
 } as const satisfies Namespace

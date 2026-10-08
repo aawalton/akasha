@@ -6,7 +6,16 @@ export const catalogSideFile = {
   slug: "catalog-side-file",
   definition: "the request the catalog addon reads, taken out of Lua and written back as Lua",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The file may record the last game version and item id whose mined items landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A new request keeps the upload record the file had.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A file the addon's table cannot be read out of reads as no request.",
@@ -46,5 +55,5 @@ export const catalogSideFile = {
     },
   ],
   createdAt: "2026-09-02T06:29:15.595Z",
-  updatedAt: "2026-09-21T15:11:26.000Z",
+  updatedAt: "2026-10-08T19:48:07.064Z",
 } as const satisfies Module
