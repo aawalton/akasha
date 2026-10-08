@@ -49,7 +49,7 @@ export const terminusTheSphere = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Powerful beings built The Terminus.",
+      fact: "Powerful beings called the Builders built The Terminus.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -174,5 +174,5 @@ export const terminusTheSphere = {
     },
   ],
   createdAt: "2026-10-08T19:12:35.919Z",
-  updatedAt: "2026-10-08T19:40:00.303Z",
+  updatedAt: "2026-10-08T19:54:44.414Z",
 } as const satisfies Lore
