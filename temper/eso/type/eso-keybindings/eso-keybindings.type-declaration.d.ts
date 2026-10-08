@@ -153,3 +153,14 @@ declare function ZO_TriStateCheckButton_SetState(
   checkBox: Control,
   state: number
 ): undefined
+
+declare function GetNumActiveActionLayers(this: void): number
+
+declare function GetActiveActionLayerIndex(
+  this: void,
+  activeActionLayerIndex: number
+): number | undefined
+
+declare function GetActionLayerNameByIndex(this: void, layerIndex: number): string
+
+declare function GetActionNameFromKey(this: void, layerName: string, keyCode: number): string

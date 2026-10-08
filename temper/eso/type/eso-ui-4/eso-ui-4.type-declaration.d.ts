@@ -28,6 +28,10 @@ interface Scene {
   ) => void
 }
 
+interface SceneManager {
+  IsShowingBaseScene: (this: SceneManager) => boolean
+}
+
 interface ZoInteractSceneClass {
   New: (
     this: ZoInteractSceneClass,
