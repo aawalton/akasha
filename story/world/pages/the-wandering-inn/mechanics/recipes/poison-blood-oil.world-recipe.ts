@@ -6,4 +6,6 @@ export const poisonBloodOil = {
   slug: "poison-blood-oil",
   title: "Poison Blood Oil",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:40:23.808Z",
+  updatedAt: "2026-09-19T16:18:42.000Z",
 } as const satisfies WorldRecipe

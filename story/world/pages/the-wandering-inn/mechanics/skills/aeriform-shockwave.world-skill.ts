@@ -8,4 +8,6 @@ export const aeriformShockwave = {
   world: "world/the-wandering-inn",
   appearanceCount: 5,
   references: "jsonl",
+  createdAt: "2026-09-03T04:10:00.554Z",
+  updatedAt: "2026-09-22T13:31:32.000Z",
 } as const satisfies WorldSkill

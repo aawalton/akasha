@@ -6,4 +6,6 @@ export const theBeholderTheFirstHarvest = {
   slug: "the-beholder-the-first-harvest",
   title: "The First Harvest",
   world: "world/the-beholder",
+  createdAt: "2026-09-26T17:41:16.799Z",
+  updatedAt: "2026-09-26T17:41:21.000Z",
 } as const satisfies WorldMechanic

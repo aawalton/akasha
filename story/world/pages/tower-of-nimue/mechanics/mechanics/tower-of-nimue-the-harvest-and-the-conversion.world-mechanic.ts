@@ -6,4 +6,6 @@ export const towerOfNimueTheHarvestAndTheConversion = {
   slug: "tower-of-nimue-the-harvest-and-the-conversion",
   title: "The Harvest & the Conversion (The Dead Are Inventory)",
   world: "world/tower-of-nimue",
+  createdAt: "2026-09-26T17:29:39.431Z",
+  updatedAt: "2026-09-26T17:29:43.000Z",
 } as const satisfies WorldMechanic

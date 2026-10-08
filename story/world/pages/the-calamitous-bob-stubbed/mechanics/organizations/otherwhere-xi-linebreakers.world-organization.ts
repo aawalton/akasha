@@ -7,4 +7,6 @@ export const otherwhereXiLinebreakers = {
   title: "The Linebreakers",
   world: "world/the-calamitous-bob-stubbed",
   description: "A Harrakan heavy infantry corps of freed Nemeti thralls.",
+  createdAt: "2026-09-29T00:08:48.575Z",
+  updatedAt: "2026-09-29T00:08:54.000Z",
 } as const satisfies WorldOrganization

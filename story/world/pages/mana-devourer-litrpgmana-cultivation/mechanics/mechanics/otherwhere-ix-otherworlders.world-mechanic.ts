@@ -7,4 +7,6 @@ export const otherwhereIxOtherworlders = {
   title: "Otherworlder",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The innate governing class the system gives beings summoned from other worlds.",
+  createdAt: "2026-09-28T22:50:28.767Z",
+  updatedAt: "2026-09-28T22:50:35.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereIxFaith = {
   title: "The Faith System",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The points and store a god's Champion holds through the system.",
+  createdAt: "2026-09-28T23:04:31.678Z",
+  updatedAt: "2026-09-28T23:04:35.000Z",
 } as const satisfies WorldMechanic

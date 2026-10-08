@@ -7,4 +7,6 @@ export const otherwhereXiEnchanting = {
   title: "Enchanting",
   world: "world/the-calamitous-bob-stubbed",
   description: "The craft of setting glyphs into objects so they work on their own.",
+  createdAt: "2026-09-29T00:18:53.453Z",
+  updatedAt: "2026-09-29T00:19:00.000Z",
 } as const satisfies WorldMechanic

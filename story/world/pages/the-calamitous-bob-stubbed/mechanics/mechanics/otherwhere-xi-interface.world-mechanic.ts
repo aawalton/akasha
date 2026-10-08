@@ -7,4 +7,6 @@ export const otherwhereXiInterface = {
   title: "The Interface",
   world: "world/the-calamitous-bob-stubbed",
   description: "A window of words and numbers that shows a person their own magic.",
+  createdAt: "2026-09-28T23:58:26.295Z",
+  updatedAt: "2026-09-28T23:58:29.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereIxSummoning = {
   title: "Summoning",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Ritual magic that pulls a being from another world to Firrelia.",
+  createdAt: "2026-09-28T22:53:08.503Z",
+  updatedAt: "2026-09-28T22:53:19.000Z",
 } as const satisfies WorldMechanic

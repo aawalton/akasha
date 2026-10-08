@@ -8,4 +8,6 @@ export const otherwhereViiCoreFormation = {
   world: "world/god-of-trash",
   description: "A firm, full core, and a body that no longer needs food, drink or sleep.",
   place: 4,
+  createdAt: "2026-09-28T22:52:05.584Z",
+  updatedAt: "2026-09-28T22:52:11.000Z",
 } as const satisfies WorldRank

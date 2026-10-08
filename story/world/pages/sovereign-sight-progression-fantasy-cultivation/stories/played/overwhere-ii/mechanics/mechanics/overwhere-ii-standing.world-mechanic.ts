@@ -7,4 +7,6 @@ export const overwhereIiStanding = {
   title: "Standing",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "What the people of one place think of Nala.",
+  createdAt: "2026-09-29T12:33:59.211Z",
+  updatedAt: "2026-09-29T12:34:02.000Z",
 } as const satisfies WorldMechanic

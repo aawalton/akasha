@@ -6,4 +6,6 @@ export const royalQuest = {
   slug: "royal-quest",
   title: "Royal Quest",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:39:53.864Z",
+  updatedAt: "2026-09-19T16:18:20.000Z",
 } as const satisfies WorldQuest

@@ -7,4 +7,6 @@ export const overwhereIvReputation = {
   title: "Reputation",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "What a town, a guild or a house says of a person who is not there.",
+  createdAt: "2026-09-29T12:33:53.075Z",
+  updatedAt: "2026-09-29T12:33:56.000Z",
 } as const satisfies WorldMechanic

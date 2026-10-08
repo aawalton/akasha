@@ -8,4 +8,6 @@ export const superSupportiveSpree = {
   world: "world/super-supportive",
   aliases: ["Spree day"],
   description: "A Rabbit event of stylish shopping in October.",
+  createdAt: "2026-09-28T21:36:47.778Z",
+  updatedAt: "2026-09-28T21:36:50.000Z",
 } as const satisfies WorldMechanic

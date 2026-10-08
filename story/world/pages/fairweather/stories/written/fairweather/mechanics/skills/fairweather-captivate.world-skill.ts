@@ -8,4 +8,6 @@ export const fairweatherCaptivate = {
   world: "world/fairweather",
   description:
     "An Enthraller skill that draws a person's whole attention to the caster and holds it.",
+  createdAt: "2026-10-03T14:08:45.155Z",
+  updatedAt: "2026-10-03T14:08:54.000Z",
 } as const satisfies WorldSkill

@@ -7,4 +7,6 @@ export const overwhereIiiCommonTongue = {
   title: "The Common Tongue",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "The language spoken and written across the Velithra Dominion and its neighbors.",
+  createdAt: "2026-09-29T12:41:36.219Z",
+  updatedAt: "2026-09-29T20:02:06.000Z",
 } as const satisfies WorldMechanic

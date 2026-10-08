@@ -9,4 +9,6 @@ export const overwhereIiiHolyWard = {
   description:
     "A thin shimmer of white-gold current woven close over the skin, turning blows and blight.",
   manaCost: 3,
+  createdAt: "2026-10-03T12:40:25.890Z",
+  updatedAt: "2026-10-03T12:40:29.000Z",
 } as const satisfies WorldSkill

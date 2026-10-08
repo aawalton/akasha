@@ -8,4 +8,6 @@ export const superSupportiveAutotrade = {
   world: "world/super-supportive",
   description:
     "A trading-platform setting that accepts any match from a listing's wanted list automatically.",
+  createdAt: "2026-09-28T21:33:50.970Z",
+  updatedAt: "2026-09-28T21:33:54.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereXManaUse = {
   title: "Mana Use",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Drawing the mana in one's core to work a skill or shape it by hand.",
+  createdAt: "2026-09-29T00:14:19.684Z",
+  updatedAt: "2026-09-29T00:14:49.000Z",
 } as const satisfies WorldMechanic

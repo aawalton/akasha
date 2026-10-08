@@ -9,4 +9,6 @@ export const superSupportiveSystemCall = {
   aliases: ["video call", "voice call"],
   description:
     "A call through the System interface by voice, video or text, even across dimensions.",
+  createdAt: "2026-09-28T21:36:25.682Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

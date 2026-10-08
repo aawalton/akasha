@@ -8,4 +8,6 @@ export const superSupportiveDexterity = {
   world: "world/super-supportive",
   aliases: ["dexterity stats"],
   description: "A physical stat for fine control of the hands and body.",
+  createdAt: "2026-09-28T21:42:11.194Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

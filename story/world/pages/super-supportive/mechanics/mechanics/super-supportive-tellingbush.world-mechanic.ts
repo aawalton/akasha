@@ -8,4 +8,6 @@ export const superSupportiveTellingbush = {
   world: "world/super-supportive",
   aliases: ["knight tellingbush"],
   description: "An Artonan posting board and news network read through eye rings.",
+  createdAt: "2026-09-28T21:43:55.443Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldMechanic

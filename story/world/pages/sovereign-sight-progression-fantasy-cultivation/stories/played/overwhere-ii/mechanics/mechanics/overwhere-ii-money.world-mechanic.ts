@@ -8,4 +8,6 @@ export const overwhereIiMoney = {
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description:
     "The coin of Teyr: coppers, silver pieces, silver bars and gold. Money is the world-currency overwhere-ii-coin, and a character's money is a purse of it, counted in coppers. Every change is written on the purse and a line of its history before the turn moves on. Coin shows in the prose as the coins themselves, never as a count in coppers.",
+  createdAt: "2026-09-29T12:33:59.211Z",
+  updatedAt: "2026-09-30T10:43:58.000Z",
 } as const satisfies WorldMechanic

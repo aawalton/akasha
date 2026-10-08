@@ -7,4 +7,6 @@ export const otherwhereIxTaxes = {
   title: "Taxes",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Levies a realm takes from what its people earn.",
+  createdAt: "2026-09-28T22:49:42.931Z",
+  updatedAt: "2026-09-28T22:49:47.000Z",
 } as const satisfies WorldMechanic

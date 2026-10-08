@@ -7,4 +7,6 @@ export const fairweatherCall = {
   title: "Call",
   world: "world/fairweather",
   description: "An Enthraller skill that calls a bound person to the caster's side from afar.",
+  createdAt: "2026-10-03T14:11:09.715Z",
+  updatedAt: "2026-10-03T14:11:19.000Z",
 } as const satisfies WorldSkill

@@ -7,4 +7,6 @@ export const otherwhereIxLiteracy = {
   title: "Literacy",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Who among Firrelians can read and write.",
+  createdAt: "2026-09-28T22:54:20.481Z",
+  updatedAt: "2026-09-28T22:54:26.000Z",
 } as const satisfies WorldMechanic

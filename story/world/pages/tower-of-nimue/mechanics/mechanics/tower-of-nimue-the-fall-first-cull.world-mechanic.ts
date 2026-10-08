@@ -6,4 +6,6 @@ export const towerOfNimueTheFallFirstCull = {
   slug: "tower-of-nimue-the-fall-first-cull",
   title: "The Fall (First Cull)",
   world: "world/tower-of-nimue",
+  createdAt: "2026-09-26T17:41:16.799Z",
+  updatedAt: "2026-09-26T17:41:21.000Z",
 } as const satisfies WorldMechanic

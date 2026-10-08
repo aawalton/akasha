@@ -8,4 +8,6 @@ export const superSupportiveCelenaNorth = {
   world: "world/super-supportive",
   aliases: ["CNH"],
   description: "An Apex school with a hero track.",
+  createdAt: "2026-09-28T21:35:28.552Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

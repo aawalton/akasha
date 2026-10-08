@@ -9,4 +9,6 @@ export const superSupportiveHereToThere = {
   aliases: ["moving day"],
   description:
     "A ceremonial migration of households from lands sheltered by one wizard to another's.",
+  createdAt: "2026-09-28T21:44:48.769Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldMechanic

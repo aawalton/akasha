@@ -9,4 +9,6 @@ export const fairweatherRankD = {
   aliases: ["D-rank"],
   description: "A working adventurer, licensed for full delves of the city's shallower dungeons.",
   place: 3,
+  createdAt: "2026-10-03T14:12:33.992Z",
+  updatedAt: "2026-10-03T14:12:42.000Z",
 } as const satisfies WorldRank

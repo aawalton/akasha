@@ -9,4 +9,6 @@ export const superSupportivePriming = {
   aliases: ["priming spell"],
   description:
     "Preparing the surroundings with an ingredient through a priming spell so a later spell lasts longer.",
+  createdAt: "2026-09-28T21:43:02.946Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldMechanic

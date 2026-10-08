@@ -8,4 +8,6 @@ export const baneOfLuck = {
   world: "world/the-wandering-inn",
   appearanceCount: 3,
   references: "jsonl",
+  createdAt: "2026-09-03T03:40:23.804Z",
+  updatedAt: "2026-09-22T13:30:33.000Z",
 } as const satisfies WorldMiracle

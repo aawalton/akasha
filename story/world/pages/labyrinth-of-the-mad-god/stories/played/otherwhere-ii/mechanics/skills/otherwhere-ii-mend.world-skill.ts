@@ -10,4 +10,6 @@ export const otherwhereIiMend = {
     "A spell: a green warmth of life mana laid on a wound that knits flesh and eases pain.",
   manaCost: 3,
   durationMinutes: 10,
+  createdAt: "2026-09-28T20:06:56.180Z",
+  updatedAt: "2026-09-28T22:39:05.000Z",
 } as const satisfies WorldSkill

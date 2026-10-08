@@ -7,4 +7,6 @@ export const otherwhereXiManipelesoBank = {
   title: "The Manipeleso Bank and Exchange",
   world: "world/the-calamitous-bob-stubbed",
   description: "A clan-owned bank with branches in every nation.",
+  createdAt: "2026-09-29T00:11:37.160Z",
+  updatedAt: "2026-09-29T00:11:49.000Z",
 } as const satisfies WorldOrganization

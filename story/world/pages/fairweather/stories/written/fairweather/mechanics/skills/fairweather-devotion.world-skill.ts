@@ -8,4 +8,6 @@ export const fairweatherDevotion = {
   world: "world/fairweather",
   description:
     "A passive Enthraller skill, gained at level 3: the caster grows stronger by the devotion borne toward her, and the one who bears it grows with her. For each bond Elsie holds, the share is the bond's number as a percentage, at most 100%. Elsie and that girl each add that share of the bond's attribute (fairweather-enthraller-passives), rounded down, to that same attribute. So a bond of 25 with Tamsin, whose Strength base of 21 is the highest of the ten, adds 5 Strength to Elsie and 5 to Tamsin; at 100 it adds 21 to each.",
+  createdAt: "2026-10-03T14:11:30.077Z",
+  updatedAt: "2026-10-04T12:34:16.000Z",
 } as const satisfies WorldSkill

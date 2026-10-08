@@ -8,4 +8,6 @@ export const superSupportiveOriginalSkills = {
   world: "world/super-supportive",
   aliases: ["the originals", "original Avowed skills"],
   description: "The first three hundred or so skills designed for the Contract.",
+  createdAt: "2026-09-28T21:34:42.271Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

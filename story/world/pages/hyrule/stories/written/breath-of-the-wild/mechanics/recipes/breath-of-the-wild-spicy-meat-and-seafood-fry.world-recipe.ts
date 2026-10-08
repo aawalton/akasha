@@ -8,4 +8,6 @@ export const breathOfTheWildSpicyMeatAndSeafoodFry = {
   world: "world/hyrule",
   description:
     "Raw meat, a Hylian bass and spicy peppers cooked together; restores four hearts and gives cold resistance for 5:30.",
+  createdAt: "2026-10-03T19:15:51.778Z",
+  updatedAt: "2026-10-03T19:15:54.000Z",
 } as const satisfies WorldRecipe

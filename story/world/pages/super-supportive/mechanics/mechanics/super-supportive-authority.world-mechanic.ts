@@ -9,4 +9,6 @@ export const superSupportiveAuthority = {
   aliases: ["dominion", "influence", "presence"],
   description:
     "The ability to impress one's desires on everything; the fundamental essence of magical power.",
+  createdAt: "2026-09-28T21:34:42.270Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

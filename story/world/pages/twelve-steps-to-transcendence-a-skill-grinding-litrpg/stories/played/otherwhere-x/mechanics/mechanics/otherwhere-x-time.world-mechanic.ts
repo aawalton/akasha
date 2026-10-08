@@ -7,4 +7,6 @@ export const otherwhereXTime = {
   title: "Time",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The day and hour it is where Nala is.",
+  createdAt: "2026-09-28T23:44:21.783Z",
+  updatedAt: "2026-09-28T23:44:26.000Z",
 } as const satisfies WorldMechanic

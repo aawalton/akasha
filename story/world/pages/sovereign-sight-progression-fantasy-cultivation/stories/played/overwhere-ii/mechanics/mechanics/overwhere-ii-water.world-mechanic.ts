@@ -8,4 +8,6 @@ export const overwhereIiWater = {
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description:
     "The power drawn from the Infinite Sea and held in a reservoir under the breastbone.",
+  createdAt: "2026-09-29T12:33:59.211Z",
+  updatedAt: "2026-09-29T12:34:02.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const otherwhereIxManaToxicosis = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["Toxicosis"],
   description: "A lasting illness of a body that has been poisoned by mana too long or too deeply.",
+  createdAt: "2026-09-28T22:52:20.692Z",
+  updatedAt: "2026-09-28T22:52:29.000Z",
 } as const satisfies WorldMechanic

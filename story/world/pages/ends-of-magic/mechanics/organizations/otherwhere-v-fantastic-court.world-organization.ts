@@ -7,4 +7,6 @@ export const otherwhereVFantasticCourt = {
   title: "The Fantastic Court",
   world: "world/ends-of-magic",
   description: "A group of Questors.",
+  createdAt: "2026-09-28T21:50:54.580Z",
+  updatedAt: "2026-09-28T21:50:58.000Z",
 } as const satisfies WorldOrganization

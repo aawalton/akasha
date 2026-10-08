@@ -7,4 +7,6 @@ export const otherwhereXiFacelessOrder = {
   title: "The Faceless Order",
   world: "world/the-calamitous-bob-stubbed",
   description: "An order of castrated Hallurian war mages bound by tattoos.",
+  createdAt: "2026-09-29T00:15:57.462Z",
+  updatedAt: "2026-09-29T00:16:02.000Z",
 } as const satisfies WorldOrganization

@@ -8,4 +8,6 @@ export const superSupportiveSuperhumansAtLarge = {
   world: "world/super-supportive",
   aliases: ["SAL"],
   description: "An often violent movement of runaway and unregistered Avowed.",
+  createdAt: "2026-09-28T21:44:15.780Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldOrganization

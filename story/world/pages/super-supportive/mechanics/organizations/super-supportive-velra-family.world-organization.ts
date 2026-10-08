@@ -8,4 +8,6 @@ export const superSupportiveVelraFamily = {
   world: "world/super-supportive",
   aliases: ["the Velras"],
   description: "An Anesidoran family that keeps the Chainer class.",
+  createdAt: "2026-09-28T21:35:28.553Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

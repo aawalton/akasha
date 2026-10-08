@@ -8,4 +8,6 @@ export const otherwhereIiiTime = {
   world: "world/super-supportive",
   description:
     "The date and hour it is where Nala is, counted in days from the morning she came to.",
+  createdAt: "2026-09-28T21:17:55.680Z",
+  updatedAt: "2026-09-28T21:18:00.000Z",
 } as const satisfies WorldMechanic

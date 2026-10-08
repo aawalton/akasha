@@ -10,4 +10,6 @@ export const superSupportiveRankB = {
   description:
     "The Divergence Rank on the edge of usefulness for hero work; the top fifteen percent of superhumans.",
   place: 4,
+  createdAt: "2026-09-28T21:33:42.149Z",
+  updatedAt: "2026-09-28T21:33:45.000Z",
 } as const satisfies WorldRank

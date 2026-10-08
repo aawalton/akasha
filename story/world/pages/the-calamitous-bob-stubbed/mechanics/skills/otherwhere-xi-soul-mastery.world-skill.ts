@@ -8,4 +8,6 @@ export const otherwhereXiSoulMastery = {
   world: "world/the-calamitous-bob-stubbed",
   description: "A skill for feeling, handling and growing one's own soul.",
   aliases: ["Soul Master", "Soul sense"],
+  createdAt: "2026-09-29T00:26:36.055Z",
+  updatedAt: "2026-09-29T00:26:40.000Z",
 } as const satisfies WorldSkill

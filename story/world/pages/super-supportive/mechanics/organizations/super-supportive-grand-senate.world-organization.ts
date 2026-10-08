@@ -7,4 +7,6 @@ export const superSupportiveGrandSenate = {
   title: "Grand Senate",
   world: "world/super-supportive",
   description: "The Artonan senate.",
+  createdAt: "2026-09-28T21:35:28.552Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

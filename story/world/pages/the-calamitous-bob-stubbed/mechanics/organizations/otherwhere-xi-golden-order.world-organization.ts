@@ -7,4 +7,6 @@ export const otherwhereXiGoldenOrder = {
   title: "The Golden Order",
   description: "An order of women warriors sworn to Enttiku.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:12:10.123Z",
+  updatedAt: "2026-09-29T00:12:19.000Z",
 } as const satisfies WorldOrganization

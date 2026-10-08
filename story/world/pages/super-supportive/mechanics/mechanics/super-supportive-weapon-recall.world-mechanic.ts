@@ -9,4 +9,6 @@ export const superSupportiveWeaponRecall = {
   aliases: ["recall"],
   description:
     "A basic, well-known kind of Meister talent that calls a bound tool back to the hand.",
+  createdAt: "2026-09-28T21:45:47.111Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldMechanic

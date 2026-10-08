@@ -12,4 +12,6 @@ export const overwhereIiiMotherSallow = {
   ],
   relationshipPoints: -2,
   unrevealed: true,
+  createdAt: "2026-09-30T23:27:15.488Z",
+  updatedAt: "2026-10-03T01:06:09.000Z",
 } as const satisfies WorldRelationship

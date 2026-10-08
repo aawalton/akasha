@@ -7,4 +7,6 @@ export const otherwhereXMerchantGuilds = {
   title: "Merchant Guilds",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Guilds of merchants who trade in the cities.",
+  createdAt: "2026-09-29T00:02:26.694Z",
+  updatedAt: "2026-09-29T00:02:30.000Z",
 } as const satisfies WorldOrganization

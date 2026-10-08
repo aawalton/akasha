@@ -9,4 +9,6 @@ export const otherwhereViiSilenceBarrier = {
   description: "A bubble around a few people that no sound passes out of.",
   manaCost: 8,
   durationMinutes: 60,
+  createdAt: "2026-09-28T23:04:09.372Z",
+  updatedAt: "2026-09-28T23:04:12.000Z",
 } as const satisfies WorldSkill

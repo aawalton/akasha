@@ -8,4 +8,6 @@ export const theBeholderNotability = {
   world: "world/the-beholder",
   description:
     "The System ranks a victim's traits by Magnitude × Rarity × Salience and surfaces the top three. An unpowered victim yields three attributes; an Awakened victim yields attributes with a possible power among them. The readout is mechanical and indifferent: it states each trait, the victim's value, the change to Pearl's sheet and what the attribute governs, and nothing more.",
+  createdAt: "2026-09-26T18:14:53.730Z",
+  updatedAt: "2026-09-26T18:14:58.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveTargeting = {
   world: "world/super-supportive",
   aliases: ["target", "targeting halo", "autotarget"],
   description: "The picking of a person for a skill, marked by a white halo over them.",
+  createdAt: "2026-09-28T21:34:42.271Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

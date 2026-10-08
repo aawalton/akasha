@@ -7,4 +7,6 @@ export const otherwhereXiInquisitionOfNeriad = {
   title: "The Inquisition of Neriad",
   description: "The inquisitors of the Temple of Neriad, who seek out lies.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:10:24.153Z",
+  updatedAt: "2026-09-29T00:10:53.000Z",
 } as const satisfies WorldOrganization

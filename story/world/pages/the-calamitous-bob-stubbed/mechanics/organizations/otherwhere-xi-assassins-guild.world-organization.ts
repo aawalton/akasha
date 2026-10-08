@@ -7,4 +7,6 @@ export const otherwhereXiAssassinsGuild = {
   title: "The Assassins' Guild of Helock",
   world: "world/the-calamitous-bob-stubbed",
   description: "A guild of hired killers based in Helock.",
+  createdAt: "2026-09-29T00:21:00.407Z",
+  updatedAt: "2026-09-29T00:21:04.000Z",
 } as const satisfies WorldOrganization

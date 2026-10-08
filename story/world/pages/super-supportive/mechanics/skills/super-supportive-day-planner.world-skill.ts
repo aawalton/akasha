@@ -7,4 +7,6 @@ export const superSupportiveDayPlanner = {
   title: "Day Planner",
   world: "world/super-supportive",
   description: "A C-rank Rabbit skill for planning.",
+  createdAt: "2026-09-28T21:35:34.465Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

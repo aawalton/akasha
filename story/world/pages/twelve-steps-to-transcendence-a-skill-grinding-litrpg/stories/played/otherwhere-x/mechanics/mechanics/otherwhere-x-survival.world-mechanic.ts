@@ -7,4 +7,6 @@ export const otherwhereXSurvival = {
   title: "Survival",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Staying watered, fed, rested and warm.",
+  createdAt: "2026-09-28T23:49:09.711Z",
+  updatedAt: "2026-09-28T23:49:14.000Z",
 } as const satisfies WorldMechanic

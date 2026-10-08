@@ -7,4 +7,6 @@ export const otherwhereIxMysticMana = {
   title: "Mystic Mana",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A rare kind of mana of unknown source that feeds growth of skills.",
+  createdAt: "2026-09-28T23:07:08.537Z",
+  updatedAt: "2026-09-28T23:07:11.000Z",
 } as const satisfies WorldMechanic

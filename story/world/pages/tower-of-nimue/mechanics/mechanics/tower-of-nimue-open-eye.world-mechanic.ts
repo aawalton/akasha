@@ -8,4 +8,6 @@ export const towerOfNimueOpenEye = {
   world: "world/tower-of-nimue",
   description:
     "Open Eye is the Seer's baseline essence, a human shard crystallized from who Nimue was, and it fills her first slot. Its passive reveals enemy weak points, for an 18% critical chance and 50% more critical damage, and adds one essence option to every Harvest. Its active, Read, exposes a target's resistances so the target takes 20% more damage for 2 actions, with a 2-action cooldown.",
+  createdAt: "2026-09-26T18:12:40.958Z",
+  updatedAt: "2026-09-26T18:12:45.000Z",
 } as const satisfies WorldMechanic

@@ -9,4 +9,6 @@ export const superSupportiveChaosMatrix = {
   aliases: ["high-risk chaos matrix"],
   description:
     "A person the Contract flags as at unusually high risk of becoming a problematic entity if exposed to chaos.",
+  createdAt: "2026-09-28T21:45:47.110Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldMechanic

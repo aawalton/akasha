@@ -8,4 +8,6 @@ export const superSupportiveOpposite = {
   world: "world/super-supportive",
   description:
     "The unknown person on another world, born the same day and minute, who gives or receives the other half of a wordchain trade.",
+  createdAt: "2026-09-28T21:34:42.270Z",
+  updatedAt: "2026-09-28T21:53:04.000Z",
 } as const satisfies WorldMechanic

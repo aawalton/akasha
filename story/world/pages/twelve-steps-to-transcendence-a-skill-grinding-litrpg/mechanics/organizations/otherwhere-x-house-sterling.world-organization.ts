@@ -7,4 +7,6 @@ export const otherwhereXHouseSterling = {
   title: "House Sterling",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A rising noble House of the Western Plains with a trading hub.",
+  createdAt: "2026-09-29T00:03:24.171Z",
+  updatedAt: "2026-09-29T00:03:27.000Z",
 } as const satisfies WorldOrganization

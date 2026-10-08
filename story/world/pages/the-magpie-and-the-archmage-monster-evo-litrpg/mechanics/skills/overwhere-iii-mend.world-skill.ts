@@ -8,4 +8,6 @@ export const overwhereIiiMend = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A soft healing light that closes small wounds and eases bruises.",
   manaCost: 4,
+  createdAt: "2026-09-30T08:49:55.358Z",
+  updatedAt: "2026-09-30T08:49:58.000Z",
 } as const satisfies WorldSkill

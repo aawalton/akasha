@@ -9,4 +9,6 @@ export const superSupportiveCourtesyTrap = {
   aliases: ["lord's table"],
   description:
     "An old rite by which a guest who eats, drinks and warms at a lord's fire is bound to speak no lies there.",
+  createdAt: "2026-09-28T21:46:43.330Z",
+  updatedAt: "2026-09-28T21:46:46.000Z",
 } as const satisfies WorldMechanic

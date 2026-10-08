@@ -7,4 +7,6 @@ export const otherwhereIxSystem = {
   title: "The Firrelian System",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The measuring power that each soul on Firrelia is bound to.",
+  createdAt: "2026-09-28T22:48:51.552Z",
+  updatedAt: "2026-09-28T22:48:59.000Z",
 } as const satisfies WorldMechanic

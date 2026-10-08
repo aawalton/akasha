@@ -8,4 +8,6 @@ export const superSupportiveReturningGuardblade = {
   world: "world/super-supportive",
   description:
     "A knight skill that grows more powerful against whatever stands between its holder and what they protect.",
+  createdAt: "2026-09-28T21:44:48.770Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldSkill

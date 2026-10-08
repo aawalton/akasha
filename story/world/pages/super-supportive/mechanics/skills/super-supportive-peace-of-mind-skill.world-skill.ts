@@ -7,4 +7,6 @@ export const superSupportivePeaceOfMindSkill = {
   title: "Peace of Mind",
   world: "world/super-supportive",
   description: "A Chainer skill that lays a peace of mind on another person.",
+  createdAt: "2026-09-28T21:41:02.872Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

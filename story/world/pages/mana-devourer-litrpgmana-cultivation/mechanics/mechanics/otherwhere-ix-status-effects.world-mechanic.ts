@@ -7,4 +7,6 @@ export const otherwhereIxStatusEffects = {
   title: "Status Effects",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The staged afflictions the system names on a body, such as Freeze and Bleed.",
+  createdAt: "2026-09-28T23:06:31.598Z",
+  updatedAt: "2026-09-28T23:06:35.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveInvitation = {
   world: "world/super-supportive",
   aliases: ["teleport invitation"],
   description: "A System teleport offer to visit someone, with no timer and no payment.",
+  createdAt: "2026-09-28T21:43:33.026Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldMechanic

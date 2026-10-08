@@ -7,4 +7,6 @@ export const otherwhereIxLawAndCrime = {
   title: "Law and Crime",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The rules Firrelia's rulers enforce, and the wrongs done around them.",
+  createdAt: "2026-09-28T22:55:41.631Z",
+  updatedAt: "2026-09-28T22:55:45.000Z",
 } as const satisfies WorldMechanic

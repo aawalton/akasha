@@ -7,4 +7,6 @@ export const otherwhereIxBargaining = {
   title: "Bargaining",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Buying, selling and haggling over a price.",
+  createdAt: "2026-09-28T23:03:03.163Z",
+  updatedAt: "2026-09-28T23:03:08.000Z",
 } as const satisfies WorldMechanic

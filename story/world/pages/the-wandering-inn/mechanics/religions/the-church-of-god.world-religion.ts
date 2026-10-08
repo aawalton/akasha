@@ -6,4 +6,6 @@ export const theChurchOfGod = {
   slug: "the-church-of-god",
   title: "The Church of God",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:39:53.864Z",
+  updatedAt: "2026-09-19T16:19:01.000Z",
 } as const satisfies WorldReligion

@@ -8,4 +8,6 @@ export const superSupportiveSummoningRights = {
   world: "world/super-supportive",
   aliases: ["Contract access"],
   description: "A wizard's permission to summon Avowed.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

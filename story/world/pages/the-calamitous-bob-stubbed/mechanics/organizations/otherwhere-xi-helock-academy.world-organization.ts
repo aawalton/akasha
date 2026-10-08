@@ -7,4 +7,6 @@ export const otherwhereXiHelockAcademy = {
   title: "The Helock Academy",
   world: "world/the-calamitous-bob-stubbed",
   description: "The great academy of magic in Helock.",
+  createdAt: "2026-09-29T00:17:29.861Z",
+  updatedAt: "2026-09-29T00:17:33.000Z",
 } as const satisfies WorldOrganization

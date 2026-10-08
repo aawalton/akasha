@@ -7,4 +7,6 @@ export const otherwhereViInjury = {
   title: "Injury",
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
   description: "Hurt to the body: cuts, bruises, bites, burns, poison and breaks.",
+  createdAt: "2026-09-28T23:00:36.729Z",
+  updatedAt: "2026-09-28T23:00:41.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereXSkills = {
   title: "Skills",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The abilities the System grants, each grown by use.",
+  createdAt: "2026-09-28T23:59:19.492Z",
+  updatedAt: "2026-09-28T23:59:22.000Z",
 } as const satisfies WorldMechanic

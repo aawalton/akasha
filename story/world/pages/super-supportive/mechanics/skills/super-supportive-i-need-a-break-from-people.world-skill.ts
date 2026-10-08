@@ -9,4 +9,6 @@ export const superSupportiveINeedABreakFromPeople = {
   aliases: ["Skill Number 3", "catspace"],
   description:
     "A custom escape skill: the user leaves their body for a place of their own, then reappears beside a being they attached to.",
+  createdAt: "2026-09-28T21:35:34.465Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

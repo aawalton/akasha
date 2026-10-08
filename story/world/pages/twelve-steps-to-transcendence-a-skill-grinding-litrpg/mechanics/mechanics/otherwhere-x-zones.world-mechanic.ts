@@ -7,4 +7,6 @@ export const otherwhereXZones = {
   title: "Red Zones, Forbidden Zones and Spawners",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Dangerous stretches of land warped by rifts or by monster spawners.",
+  createdAt: "2026-09-28T23:56:09.319Z",
+  updatedAt: "2026-09-28T23:56:12.000Z",
 } as const satisfies WorldMechanic

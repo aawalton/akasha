@@ -9,4 +9,6 @@ export const superSupportiveWizardContract = {
   aliases: ["private contract", "magical contract", "un-moderated magical contract"],
   description:
     "A magical agreement between parties, marked with contract tattoos, without full System oversight.",
+  createdAt: "2026-09-28T21:35:33.827Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

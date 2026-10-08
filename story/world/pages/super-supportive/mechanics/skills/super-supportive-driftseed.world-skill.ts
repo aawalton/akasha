@@ -8,4 +8,6 @@ export const superSupportiveDriftseed = {
   world: "world/super-supportive",
   description:
     "A knight skill that makes things drift and float, applicable to an area or a category.",
+  createdAt: "2026-09-28T21:44:48.769Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldSkill

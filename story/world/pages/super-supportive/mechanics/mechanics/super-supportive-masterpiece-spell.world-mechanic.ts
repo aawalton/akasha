@@ -8,4 +8,6 @@ export const superSupportiveMasterpieceSpell = {
   world: "world/super-supportive",
   description:
     "A named class of great, difficult wizard spells collected in books indexed by concept.",
+  createdAt: "2026-09-28T21:43:02.946Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldMechanic

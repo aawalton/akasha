@@ -8,4 +8,6 @@ export const fairweatherKeep = {
   world: "world/fairweather",
   description:
     "An Enthraller skill that keeps a person within the caster's bond, out of anyone else's reach.",
+  createdAt: "2026-10-03T14:09:30.147Z",
+  updatedAt: "2026-10-03T14:09:42.000Z",
 } as const satisfies WorldSkill

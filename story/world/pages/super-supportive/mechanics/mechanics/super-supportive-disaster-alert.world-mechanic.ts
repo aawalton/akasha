@@ -8,4 +8,6 @@ export const superSupportiveDisasterAlert = {
   world: "world/super-supportive",
   aliases: ["Disaster Update", "Disaster Advisory"],
   description: "System notices that warn of a disaster and follow it with updates and advisories.",
+  createdAt: "2026-09-28T21:43:33.026Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldMechanic

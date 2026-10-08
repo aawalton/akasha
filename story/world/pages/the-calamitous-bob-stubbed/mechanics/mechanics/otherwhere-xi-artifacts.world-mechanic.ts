@@ -7,4 +7,6 @@ export const otherwhereXiArtifacts = {
   title: "Artifacts",
   world: "world/the-calamitous-bob-stubbed",
   description: "An object the world itself has come to recognise and name.",
+  createdAt: "2026-09-29T00:18:53.453Z",
+  updatedAt: "2026-09-29T00:19:00.000Z",
 } as const satisfies WorldMechanic

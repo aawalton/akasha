@@ -7,4 +7,6 @@ export const otherwhereIxLearningTongues = {
   title: "Learning Tongues",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Coming to understand a tongue the system does not translate.",
+  createdAt: "2026-09-28T23:01:40.889Z",
+  updatedAt: "2026-09-28T23:01:46.000Z",
 } as const satisfies WorldMechanic

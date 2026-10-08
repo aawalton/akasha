@@ -7,4 +7,6 @@ export const superSupportiveFormation = {
   title: "Formation",
   world: "world/super-supportive",
   description: "A sub-stat of Stamina for resisting unwanted bodily deformation.",
+  createdAt: "2026-09-28T21:42:11.194Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

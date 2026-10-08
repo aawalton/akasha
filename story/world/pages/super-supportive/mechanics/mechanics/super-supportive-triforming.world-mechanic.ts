@@ -8,4 +8,6 @@ export const superSupportiveTriforming = {
   world: "world/super-supportive",
   description:
     "A clearing of chaos by lifting corrupted soil into the sky and slamming it back as stronger reality.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

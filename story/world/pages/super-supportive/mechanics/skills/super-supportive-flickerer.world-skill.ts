@@ -7,4 +7,6 @@ export const superSupportiveFlickerer = {
   title: "Flickerer",
   world: "world/super-supportive",
   description: "An F-rank single-level skill that temporarily interrupts minor enchantments.",
+  createdAt: "2026-09-28T21:35:34.465Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

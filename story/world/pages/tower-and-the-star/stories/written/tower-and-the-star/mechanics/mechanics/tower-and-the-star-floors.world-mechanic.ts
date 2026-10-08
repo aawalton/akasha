@@ -8,4 +8,6 @@ export const towerAndTheStarFloors = {
   world: "world/tower-and-the-star",
   description:
     "The Tower is climbed floor by floor. A floor holds chambers, enemies and rest nodes, and often a boss; a Transition Hall lies between one floor and the next. Floors are grouped in sections, Floors 11 to 30 and then Section 31 to 50, and the System marks a floor cleared and a section clear.",
+  createdAt: "2026-10-03T19:31:08.853Z",
+  updatedAt: "2026-10-03T19:31:12.000Z",
 } as const satisfies WorldMechanic

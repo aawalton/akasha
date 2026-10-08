@@ -7,4 +7,6 @@ export const superSupportiveBurdenOfWordchain = {
   title: "Burden of Wordchain",
   world: "world/super-supportive",
   description: "A facet for taking on other people's wordchain debt.",
+  createdAt: "2026-09-28T21:35:34.465Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

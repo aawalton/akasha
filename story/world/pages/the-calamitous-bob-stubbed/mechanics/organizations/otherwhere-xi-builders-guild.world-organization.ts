@@ -7,4 +7,6 @@ export const otherwhereXiBuildersGuild = {
   title: "The Builders' Guild",
   world: "world/the-calamitous-bob-stubbed",
   description: "A guild of builders and quarrymen of Param.",
+  createdAt: "2026-09-29T00:21:44.622Z",
+  updatedAt: "2026-09-29T00:21:52.000Z",
 } as const satisfies WorldOrganization

@@ -7,4 +7,6 @@ export const otherwhereXBargaining = {
   title: "Bargaining",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Buying, selling, working for pay, and haggling over a price.",
+  createdAt: "2026-09-29T00:01:19.187Z",
+  updatedAt: "2026-09-29T00:01:30.000Z",
 } as const satisfies WorldMechanic

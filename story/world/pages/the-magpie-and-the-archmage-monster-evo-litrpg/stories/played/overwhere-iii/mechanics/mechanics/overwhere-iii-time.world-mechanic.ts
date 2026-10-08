@@ -7,4 +7,6 @@ export const overwhereIiiTime = {
   title: "Time",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "The day and hour it is where Nala is, counted in days from the day she woke.",
+  createdAt: "2026-09-29T12:23:44.558Z",
+  updatedAt: "2026-09-29T12:23:49.000Z",
 } as const satisfies WorldMechanic

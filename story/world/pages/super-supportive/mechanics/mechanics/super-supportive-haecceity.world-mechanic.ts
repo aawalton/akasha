@@ -7,4 +7,6 @@ export const superSupportiveHaecceity = {
   title: "Haecceity",
   world: "world/super-supportive",
   description: "A person's essential thisness.",
+  createdAt: "2026-09-28T21:34:42.270Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

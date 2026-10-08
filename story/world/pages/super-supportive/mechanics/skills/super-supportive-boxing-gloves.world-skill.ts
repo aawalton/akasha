@@ -7,4 +7,6 @@ export const superSupportiveBoxingGloves = {
   title: "Boxing Gloves",
   world: "world/super-supportive",
   description: "A Brute skill.",
+  createdAt: "2026-09-28T21:41:02.870Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

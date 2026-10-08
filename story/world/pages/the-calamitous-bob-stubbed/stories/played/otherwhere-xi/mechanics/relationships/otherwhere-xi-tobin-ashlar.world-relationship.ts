@@ -8,4 +8,6 @@ export const otherwhereXiTobinAshlar = {
   world: "world/the-calamitous-bob-stubbed",
   characters: ["character-player/otherwhere-xi-nala", "character-other/otherwhere-xi-tobin-ashlar"],
   relationshipPoints: 1,
+  createdAt: "2026-09-29T00:30:06.027Z",
+  updatedAt: "2026-10-03T19:55:25.000Z",
 } as const satisfies WorldRelationship

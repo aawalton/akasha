@@ -7,4 +7,6 @@ export const otherwhereXResolution = {
   title: "Resolution",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Whether what someone tries comes off.",
+  createdAt: "2026-09-28T23:45:11.997Z",
+  updatedAt: "2026-09-28T23:45:16.000Z",
 } as const satisfies WorldMechanic

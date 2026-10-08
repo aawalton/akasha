@@ -7,4 +7,6 @@ export const otherwhereXRegions = {
   title: "Regions of the World",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The great walled lands the world is divided into.",
+  createdAt: "2026-09-28T23:56:52.879Z",
+  updatedAt: "2026-09-28T23:56:55.000Z",
 } as const satisfies WorldMechanic

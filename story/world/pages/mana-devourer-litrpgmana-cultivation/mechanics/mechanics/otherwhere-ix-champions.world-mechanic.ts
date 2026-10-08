@@ -8,4 +8,6 @@ export const otherwhereIxChampions = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   description:
     "Beings a god chooses to fight in the god's name and carry a share of the god's power.",
+  createdAt: "2026-09-28T22:55:28.751Z",
+  updatedAt: "2026-09-28T22:55:32.000Z",
 } as const satisfies WorldMechanic

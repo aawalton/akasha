@@ -9,4 +9,6 @@ export const superSupportiveEntrustment = {
   aliases: ["entrusted"],
   description:
     "Something handed into a skill holder's care by its target on request, with no change of ownership.",
+  createdAt: "2026-09-28T21:34:42.270Z",
+  updatedAt: "2026-09-28T21:53:04.000Z",
 } as const satisfies WorldMechanic

@@ -9,4 +9,6 @@ export const overwhereIvBladeWard = {
   description: "A Spellblade skill: mana hardened along a held weapon, to turn a blow aside.",
   manaCost: 3,
   durationMinutes: 1,
+  createdAt: "2026-09-30T19:35:30.331Z",
+  updatedAt: "2026-09-30T19:35:33.000Z",
 } as const satisfies WorldSkill

@@ -7,4 +7,6 @@ export const otherwhereIxManaUse = {
   title: "Mana Use",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Spending, regaining and overfilling the mana a body holds.",
+  createdAt: "2026-09-28T23:05:31.607Z",
+  updatedAt: "2026-09-28T23:05:36.000Z",
 } as const satisfies WorldMechanic

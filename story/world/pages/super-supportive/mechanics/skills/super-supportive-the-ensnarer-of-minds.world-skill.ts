@@ -8,4 +8,6 @@ export const superSupportiveTheEnsnarerOfMinds = {
   world: "world/super-supportive",
   description:
     "A knight skill that makes mind snares, shelters for minds that can hide things from attention.",
+  createdAt: "2026-09-28T21:41:02.872Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

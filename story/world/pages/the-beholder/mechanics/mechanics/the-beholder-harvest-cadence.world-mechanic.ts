@@ -8,4 +8,6 @@ export const theBeholderHarvestCadence = {
   world: "world/the-beholder",
   description:
     "Every chapter runs a kill, then the top-three menu, then the reader's pick. An unpowered victim offers three attributes, and an Awakened victim offers attributes with a possible power. A chapter with several victims asks for one pick per victim.",
+  createdAt: "2026-09-26T18:14:53.729Z",
+  updatedAt: "2026-09-26T18:14:58.000Z",
 } as const satisfies WorldMechanic

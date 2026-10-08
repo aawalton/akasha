@@ -7,4 +7,6 @@ export const superSupportiveAnesidoraCompassionFund = {
   title: "Anesidora Compassion Fund",
   world: "world/super-supportive",
   description: "A fund for people hurt in superhuman incidents.",
+  createdAt: "2026-09-28T21:35:28.552Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

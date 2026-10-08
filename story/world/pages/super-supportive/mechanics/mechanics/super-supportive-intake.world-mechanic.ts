@@ -8,4 +8,6 @@ export const superSupportiveIntake = {
   world: "world/super-supportive",
   aliases: ["intake dorms"],
   description: "The program that houses and settles new Avowed on Anesidora.",
+  createdAt: "2026-09-28T21:36:47.778Z",
+  updatedAt: "2026-09-28T21:36:50.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const otherwhereIxWeaponGrowth = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["weapon stats", "weapon evolution", "weapon core"],
   description: "The way a living weapon gains stats, skills, grades and a core of its own.",
+  createdAt: "2026-09-28T22:59:30.575Z",
+  updatedAt: "2026-09-28T22:59:42.000Z",
 } as const satisfies WorldMechanic

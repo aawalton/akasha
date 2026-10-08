@@ -7,4 +7,6 @@ export const superSupportiveSkyseaGuard = {
   title: "SkySea Guard",
   world: "world/super-supportive",
   description: "A patrol near Matadero that also runs air traffic and flight paths.",
+  createdAt: "2026-09-28T21:35:28.553Z",
+  updatedAt: "2026-09-28T21:53:04.000Z",
 } as const satisfies WorldOrganization

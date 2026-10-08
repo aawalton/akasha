@@ -8,4 +8,6 @@ export const otherwhereIxBeastCores = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["mana cores", "monster cores", "devouring", "core absorption"],
   description: "The mana core inside a creature's chest, which can be taken after it dies.",
+  createdAt: "2026-09-28T23:02:25.000Z",
+  updatedAt: "2026-09-28T23:02:30.000Z",
 } as const satisfies WorldMechanic

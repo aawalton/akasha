@@ -9,4 +9,6 @@ export const otherwhereIvInitiatesRealm = {
   description:
     "A body that has lit its dantian and draws Qi, stronger and quicker than any mortal.",
   place: 1,
+  createdAt: "2026-09-28T21:48:43.304Z",
+  updatedAt: "2026-09-28T21:48:49.000Z",
 } as const satisfies WorldRank

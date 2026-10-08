@@ -7,4 +7,6 @@ export const otherwhereIxPaths = {
   title: "Paths",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A branch awakened from a skill that grants it new skills, features and passives.",
+  createdAt: "2026-09-28T22:58:46.796Z",
+  updatedAt: "2026-09-28T22:58:51.000Z",
 } as const satisfies WorldMechanic

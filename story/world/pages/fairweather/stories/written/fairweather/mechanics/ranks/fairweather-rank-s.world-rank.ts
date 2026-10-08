@@ -9,4 +9,6 @@ export const fairweatherRankS = {
   aliases: ["S-rank"],
   description: "The highest guild rank, held by a handful of living legends.",
   place: 7,
+  createdAt: "2026-10-03T14:13:54.122Z",
+  updatedAt: "2026-10-03T14:14:02.000Z",
 } as const satisfies WorldRank

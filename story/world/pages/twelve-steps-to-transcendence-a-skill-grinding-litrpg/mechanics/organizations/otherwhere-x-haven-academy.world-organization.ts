@@ -7,4 +7,6 @@ export const otherwhereXHavenAcademy = {
   title: "Haven Academy",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "An elite academy of magic and combat by the sea.",
+  createdAt: "2026-09-29T00:02:26.693Z",
+  updatedAt: "2026-09-29T00:02:30.000Z",
 } as const satisfies WorldOrganization

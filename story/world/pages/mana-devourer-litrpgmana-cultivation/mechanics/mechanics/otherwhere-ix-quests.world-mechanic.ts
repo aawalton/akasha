@@ -7,4 +7,6 @@ export const otherwhereIxQuests = {
   title: "Quests",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A task the system records for a person, with its promised reward.",
+  createdAt: "2026-09-28T23:05:13.026Z",
+  updatedAt: "2026-09-28T23:05:17.000Z",
 } as const satisfies WorldMechanic

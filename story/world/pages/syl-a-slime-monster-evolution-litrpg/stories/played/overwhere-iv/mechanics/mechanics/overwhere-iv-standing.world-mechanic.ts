@@ -7,4 +7,6 @@ export const overwhereIvStanding = {
   title: "Standing",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "How far one person trusts and likes another.",
+  createdAt: "2026-09-29T12:33:53.075Z",
+  updatedAt: "2026-09-29T12:33:56.000Z",
 } as const satisfies WorldMechanic

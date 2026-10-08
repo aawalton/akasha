@@ -7,4 +7,6 @@ export const superSupportivePlacementTesting = {
   title: "Placement testing",
   world: "world/super-supportive",
   description: "Tests that set a student's grade level.",
+  createdAt: "2026-09-28T21:36:47.778Z",
+  updatedAt: "2026-09-28T21:36:50.000Z",
 } as const satisfies WorldMechanic

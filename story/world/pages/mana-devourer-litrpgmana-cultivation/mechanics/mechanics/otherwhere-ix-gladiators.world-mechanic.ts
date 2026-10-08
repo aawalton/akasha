@@ -7,4 +7,6 @@ export const otherwhereIxGladiators = {
   title: "Gladiators",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Fighters who battle each other and monsters in the arena for a paying crowd.",
+  createdAt: "2026-09-28T22:56:56.648Z",
+  updatedAt: "2026-09-28T22:57:05.000Z",
 } as const satisfies WorldMechanic

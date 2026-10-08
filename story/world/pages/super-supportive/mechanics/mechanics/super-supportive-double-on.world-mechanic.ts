@@ -9,4 +9,6 @@ export const superSupportiveDoubleOn = {
   aliases: ["double-on their stats"],
   description:
     "A rare surge of power past an Avowed's stat points, brought on by a flood of adrenaline.",
+  createdAt: "2026-09-28T21:40:07.789Z",
+  updatedAt: "2026-09-28T21:53:04.000Z",
 } as const satisfies WorldMechanic

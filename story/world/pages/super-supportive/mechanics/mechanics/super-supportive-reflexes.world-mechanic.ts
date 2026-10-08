@@ -7,4 +7,6 @@ export const superSupportiveReflexes = {
   title: "Reflexes",
   world: "world/super-supportive",
   description: "A stat for how quickly the body reacts.",
+  createdAt: "2026-09-28T21:42:11.194Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

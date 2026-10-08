@@ -7,4 +7,6 @@ export const otherwhereVTheNails = {
   title: "The Nails",
   world: "world/ends-of-magic",
   description: "A body of mages.",
+  createdAt: "2026-09-28T21:38:19.857Z",
+  updatedAt: "2026-09-28T21:49:27.000Z",
 } as const satisfies WorldOrganization

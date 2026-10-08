@@ -8,4 +8,6 @@ export const otherwhereViiMessageSparrow = {
   world: "world/god-of-trash",
   description: "An ink sparrow that flies a spoken message to its reader, then turns back to ink.",
   manaCost: 6,
+  createdAt: "2026-09-28T23:04:09.372Z",
+  updatedAt: "2026-09-28T23:04:12.000Z",
 } as const satisfies WorldSkill

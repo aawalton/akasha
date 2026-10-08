@@ -9,4 +9,6 @@ export const superSupportiveSensitivity = {
   aliases: ["psychic defogging package"],
   description:
     "A facet that lets the bearer sense the thing they are trying to divide from the whole.",
+  createdAt: "2026-09-28T21:35:34.466Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

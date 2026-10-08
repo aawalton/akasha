@@ -7,4 +7,6 @@ export const otherwhereIxTradesAndCrafts = {
   title: "Trades and Crafts",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The skilled work of smiths, enchanters, runemages, alchemists and their like.",
+  createdAt: "2026-09-28T22:58:18.325Z",
+  updatedAt: "2026-09-28T22:58:25.000Z",
 } as const satisfies WorldMechanic

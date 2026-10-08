@@ -7,4 +7,6 @@ export const otherwhereIxSpecialisations = {
   title: "Masteries and Specialisations",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A chosen focus that a skill takes on when its Mastery awakens.",
+  createdAt: "2026-09-28T23:01:11.169Z",
+  updatedAt: "2026-09-28T23:01:17.000Z",
 } as const satisfies WorldMechanic

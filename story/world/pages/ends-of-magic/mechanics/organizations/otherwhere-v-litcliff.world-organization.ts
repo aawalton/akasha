@@ -7,4 +7,6 @@ export const otherwhereVLitcliff = {
   title: "Litcliff",
   world: "world/ends-of-magic",
   description: "A port city-state.",
+  createdAt: "2026-09-28T21:40:39.020Z",
+  updatedAt: "2026-09-28T21:49:27.000Z",
 } as const satisfies WorldOrganization

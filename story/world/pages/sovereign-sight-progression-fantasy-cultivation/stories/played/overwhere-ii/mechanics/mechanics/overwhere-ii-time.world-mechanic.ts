@@ -7,4 +7,6 @@ export const overwhereIiTime = {
   title: "Time",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "The day and hour it is where Nala is, counted in days from the day she woke.",
+  createdAt: "2026-09-29T12:12:49.074Z",
+  updatedAt: "2026-09-29T12:12:54.000Z",
 } as const satisfies WorldMechanic

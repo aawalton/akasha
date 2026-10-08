@@ -7,4 +7,6 @@ export const superSupportivePrivacyOfTheHouse = {
   title: "Privacy of the House agreement",
   world: "world/super-supportive",
   description: "A standard contract promising not to share what one learns inside a household.",
+  createdAt: "2026-09-28T21:36:25.682Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

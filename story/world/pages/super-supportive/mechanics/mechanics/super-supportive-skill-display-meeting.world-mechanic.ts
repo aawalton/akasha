@@ -8,4 +8,6 @@ export const superSupportiveSkillDisplayMeeting = {
   world: "world/super-supportive",
   aliases: ["skill display"],
   description: "A gathering where knights show and discuss their skills' progress.",
+  createdAt: "2026-09-28T21:43:55.443Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldMechanic

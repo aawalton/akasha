@@ -7,4 +7,6 @@ export const otherwhereXiEmpireOfDawn = {
   title: "The Empire of Dawn",
   world: "world/the-calamitous-bob-stubbed",
   description: "The empire of the saurian Nemeti beyond Halluria's isthmus.",
+  createdAt: "2026-09-29T00:16:52.256Z",
+  updatedAt: "2026-09-29T00:16:57.000Z",
 } as const satisfies WorldOrganization

@@ -8,4 +8,6 @@ export const superSupportiveInesvul = {
   world: "world/super-supportive",
   aliases: ["esvulgivnas", "full bond", "hoped-for one"],
   description: "The unbreakable bond between two paired knights.",
+  createdAt: "2026-09-28T21:43:55.443Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldMechanic

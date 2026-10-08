@@ -8,4 +8,6 @@ export const superSupportiveDeviceIdentification = {
   world: "world/super-supportive",
   aliases: ["device identification offering"],
   description: "A talent that names a pointed-at device and its status.",
+  createdAt: "2026-09-28T21:41:02.871Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

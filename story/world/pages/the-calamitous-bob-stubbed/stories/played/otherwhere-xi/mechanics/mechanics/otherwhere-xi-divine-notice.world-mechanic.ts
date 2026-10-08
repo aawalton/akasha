@@ -7,4 +7,6 @@ export const otherwhereXiDivineNotice = {
   title: "The Gods' Notice",
   world: "world/the-calamitous-bob-stubbed",
   description: "How much a god has come to pay attention to someone.",
+  createdAt: "2026-09-29T00:19:43.285Z",
+  updatedAt: "2026-09-29T00:19:49.000Z",
 } as const satisfies WorldMechanic

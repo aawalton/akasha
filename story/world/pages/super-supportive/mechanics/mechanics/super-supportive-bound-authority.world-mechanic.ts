@@ -8,4 +8,6 @@ export const superSupportiveBoundAuthority = {
   world: "world/super-supportive",
   aliases: ["fixed talents"],
   description: "The part of an Avowed's authority shaped into their skills and trait.",
+  createdAt: "2026-09-28T21:34:42.270Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

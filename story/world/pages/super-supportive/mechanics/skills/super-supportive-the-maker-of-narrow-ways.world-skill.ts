@@ -9,4 +9,6 @@ export const superSupportiveTheMakerOfNarrowWays = {
   aliases: ["Maker of Narrow Ways"],
   description:
     "A knight skill that forms a way from one point to another, denying everything else that space.",
+  createdAt: "2026-09-28T21:41:02.872Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

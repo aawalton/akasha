@@ -8,4 +8,6 @@ export const otherwhereXiWitchcraft = {
   world: "world/the-calamitous-bob-stubbed",
   description: "Magic cast by instinct within a tradition rather than learned in a school.",
   aliases: ["Instinctive casting"],
+  createdAt: "2026-09-29T00:17:22.931Z",
+  updatedAt: "2026-09-29T00:17:26.000Z",
 } as const satisfies WorldMechanic

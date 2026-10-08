@@ -8,4 +8,6 @@ export const superSupportiveEmergencyTeleport = {
   world: "world/super-supportive",
   aliases: ["ET"],
   description: "A teleport an Avowed calls on the System for to take them back to safety.",
+  createdAt: "2026-09-28T21:36:25.681Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

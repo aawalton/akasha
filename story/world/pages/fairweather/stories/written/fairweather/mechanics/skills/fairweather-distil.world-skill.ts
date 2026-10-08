@@ -8,4 +8,6 @@ export const fairweatherDistil = {
   world: "world/fairweather",
   description:
     "An Alchemist skill: the Alchemist draws the pure essence out of a plant or mineral.",
+  createdAt: "2026-10-03T20:10:47.235Z",
+  updatedAt: "2026-10-03T20:10:50.000Z",
 } as const satisfies WorldSkill

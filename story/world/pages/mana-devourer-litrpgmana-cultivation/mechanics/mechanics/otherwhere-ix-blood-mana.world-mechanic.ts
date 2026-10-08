@@ -7,4 +7,6 @@ export const otherwhereIxBloodMana = {
   title: "Blood Mana",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The kind of mana that runs in a living body's blood.",
+  createdAt: "2026-09-28T23:05:58.717Z",
+  updatedAt: "2026-09-28T23:06:04.000Z",
 } as const satisfies WorldMechanic

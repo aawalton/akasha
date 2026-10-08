@@ -8,4 +8,6 @@ export const otherwhereIxFrostMana = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["Ice Mana"],
   description: "The kind of mana that carries cold and ice.",
+  createdAt: "2026-09-28T23:04:56.273Z",
+  updatedAt: "2026-09-28T23:04:59.000Z",
 } as const satisfies WorldMechanic

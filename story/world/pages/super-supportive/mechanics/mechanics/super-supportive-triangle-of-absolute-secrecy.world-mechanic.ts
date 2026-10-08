@@ -9,4 +9,6 @@ export const superSupportiveTriangleOfAbsoluteSecrecy = {
   aliases: ["Triangle of Secrecy"],
   description:
     "A contract-tattoo clause never to intentionally reveal the other party's information to anyone.",
+  createdAt: "2026-09-28T21:36:25.682Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveTransformerOfLifeToWater = {
   world: "world/super-supportive",
   aliases: ["Life to Water"],
   description: "A knight skill named for turning life into water.",
+  createdAt: "2026-09-28T21:44:48.770Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldSkill

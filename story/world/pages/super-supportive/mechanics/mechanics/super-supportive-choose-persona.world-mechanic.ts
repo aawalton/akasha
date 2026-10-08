@@ -8,4 +8,6 @@ export const superSupportiveChoosePersona = {
   world: "world/super-supportive",
   aliases: ["ACTIVE PERSONA"],
   description: "A privilege to pick which of two Avowed profiles is shown.",
+  createdAt: "2026-09-28T21:36:25.681Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

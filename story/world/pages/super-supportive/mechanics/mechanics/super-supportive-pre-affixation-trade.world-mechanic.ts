@@ -9,4 +9,6 @@ export const superSupportivePreAffixationTrade = {
   aliases: ["class trade", "trade"],
   description:
     "A swap of assigned classes between two willing selectees of equal rank from the same planet, before affixation.",
+  createdAt: "2026-09-28T21:33:50.971Z",
+  updatedAt: "2026-09-28T21:33:54.000Z",
 } as const satisfies WorldMechanic

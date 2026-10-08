@@ -7,4 +7,6 @@ export const overwhereIiSurvival = {
   title: "Survival",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "Food, drink, warmth and sleep, and what going without them does to a body.",
+  createdAt: "2026-09-29T12:33:59.211Z",
+  updatedAt: "2026-09-29T12:34:02.000Z",
 } as const satisfies WorldMechanic

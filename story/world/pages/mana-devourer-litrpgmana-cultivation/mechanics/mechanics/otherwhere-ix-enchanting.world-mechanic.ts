@@ -8,4 +8,6 @@ export const otherwhereIxEnchanting = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["enchanting", "imbuement", "imbuing", "enchantments"],
   description: "Setting mana into objects so that they carry magic of their own.",
+  createdAt: "2026-09-28T22:56:03.144Z",
+  updatedAt: "2026-09-28T22:56:11.000Z",
 } as const satisfies WorldMechanic

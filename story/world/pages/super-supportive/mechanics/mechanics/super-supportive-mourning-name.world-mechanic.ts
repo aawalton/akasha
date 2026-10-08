@@ -7,4 +7,6 @@ export const superSupportiveMourningName = {
   title: "Mourning name",
   world: "world/super-supportive",
   description: "An Artonan custom of adding a dead person's name to the front of one's own.",
+  createdAt: "2026-09-28T21:36:47.778Z",
+  updatedAt: "2026-09-28T21:36:50.000Z",
 } as const satisfies WorldMechanic

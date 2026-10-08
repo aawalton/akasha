@@ -9,4 +9,6 @@ export const superSupportiveRapport = {
   aliases: ["the Rapports", "Rapport I", "Rapport III"],
   description:
     "One of the Mother planet's seven knightly lands, where knights and votaries are raised.",
+  createdAt: "2026-09-28T21:43:55.444Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldOrganization

@@ -7,4 +7,6 @@ export const overwhereIvPerception = {
   title: "Perception",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "Sharper senses for what is hidden, far off or easily missed.",
+  createdAt: "2026-09-29T12:43:12.989Z",
+  updatedAt: "2026-09-29T12:43:15.000Z",
 } as const satisfies WorldSkill

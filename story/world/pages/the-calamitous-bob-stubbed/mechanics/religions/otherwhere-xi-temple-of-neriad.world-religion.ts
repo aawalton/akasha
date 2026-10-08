@@ -7,4 +7,6 @@ export const otherwhereXiTempleOfNeriad = {
   title: "The Temple of Neriad",
   description: "The church of Neriad, god of righteous war.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:10:24.153Z",
+  updatedAt: "2026-09-29T00:10:53.000Z",
 } as const satisfies WorldReligion

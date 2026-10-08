@@ -8,4 +8,6 @@ export const fairweatherElsieNoor = {
   world: "world/fairweather",
   characters: ["character-player/fairweather-elsie", "character-other/fairweather-noor"],
   relationshipPoints: 20,
+  createdAt: "2026-10-06T16:38:40.700Z",
+  updatedAt: "2026-10-07T02:24:42.000Z",
 } as const satisfies WorldRelationship

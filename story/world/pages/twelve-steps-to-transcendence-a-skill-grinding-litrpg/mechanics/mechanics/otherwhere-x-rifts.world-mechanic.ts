@@ -7,4 +7,6 @@ export const otherwhereXRifts = {
   title: "Rifts",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A swirling tear in reality that opens onto a small pocket dimension.",
+  createdAt: "2026-09-28T23:55:12.957Z",
+  updatedAt: "2026-09-28T23:55:15.000Z",
 } as const satisfies WorldMechanic

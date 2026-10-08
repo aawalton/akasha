@@ -9,4 +9,6 @@ export const superSupportiveQuest = {
   aliases: ["assignment", "quest order"],
   description:
     "A set task an Avowed gets from a summoner, with sub-instructions, secondary tasks and ranked people who may give orders.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

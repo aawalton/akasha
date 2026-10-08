@@ -12,4 +12,6 @@ export const overwhereIiiDunstanHarrow = {
   ],
   relationshipPoints: 0,
   unrevealed: true,
+  createdAt: "2026-09-30T16:59:17.741Z",
+  updatedAt: "2026-09-30T16:59:20.000Z",
 } as const satisfies WorldRelationship

@@ -7,4 +7,6 @@ export const otherwhereIxAttributeMilestones = {
   title: "Attribute Milestones",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The breakpoints in an attribute's score where the system grants something new.",
+  createdAt: "2026-09-28T22:54:53.415Z",
+  updatedAt: "2026-09-28T22:54:56.000Z",
 } as const satisfies WorldMechanic

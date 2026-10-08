@@ -9,4 +9,6 @@ export const overwhereIvWaterMagic = {
   description: "The elemental magic of water, from a drink conjured to a lashing stream.",
   manaCost: 4,
   durationMinutes: 0,
+  createdAt: "2026-09-29T12:43:12.989Z",
+  updatedAt: "2026-09-29T12:43:15.000Z",
 } as const satisfies WorldSkill

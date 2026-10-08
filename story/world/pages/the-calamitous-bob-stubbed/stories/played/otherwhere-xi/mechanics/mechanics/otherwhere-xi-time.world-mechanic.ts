@@ -7,4 +7,6 @@ export const otherwhereXiTime = {
   title: "Time",
   world: "world/the-calamitous-bob-stubbed",
   description: "The day and hour it is.",
+  createdAt: "2026-09-28T23:48:29.151Z",
+  updatedAt: "2026-09-29T00:41:06.000Z",
 } as const satisfies WorldMechanic

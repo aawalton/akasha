@@ -7,4 +7,6 @@ export const otherwhereIxStatPoints = {
   title: "Stat Points",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The unspent points a person places into attributes.",
+  createdAt: "2026-09-28T22:53:05.415Z",
+  updatedAt: "2026-09-28T22:53:18.000Z",
 } as const satisfies WorldMechanic

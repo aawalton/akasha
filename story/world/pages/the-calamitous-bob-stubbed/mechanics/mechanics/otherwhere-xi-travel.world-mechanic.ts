@@ -7,4 +7,6 @@ export const otherwhereXiTravel = {
   title: "Travel",
   world: "world/the-calamitous-bob-stubbed",
   description: "The roads, inns, ships, gates and trains people journey by.",
+  createdAt: "2026-09-29T00:17:04.321Z",
+  updatedAt: "2026-09-29T00:17:08.000Z",
 } as const satisfies WorldMechanic

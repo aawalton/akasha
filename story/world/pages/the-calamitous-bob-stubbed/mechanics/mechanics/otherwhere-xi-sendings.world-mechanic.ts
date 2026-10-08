@@ -7,4 +7,6 @@ export const otherwhereXiSendings = {
   title: "Sendings and Sound Magic",
   world: "world/the-calamitous-bob-stubbed",
   description: "Magic that carries voices and messages, near or far.",
+  createdAt: "2026-09-29T00:21:52.312Z",
+  updatedAt: "2026-09-29T00:21:56.000Z",
 } as const satisfies WorldMechanic

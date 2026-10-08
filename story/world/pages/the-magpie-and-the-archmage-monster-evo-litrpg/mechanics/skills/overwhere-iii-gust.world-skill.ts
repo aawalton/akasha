@@ -8,4 +8,6 @@ export const overwhereIiiGust = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A short, hard blast of wind from the open palm.",
   manaCost: 2,
+  createdAt: "2026-09-30T08:49:55.357Z",
+  updatedAt: "2026-09-30T08:49:58.000Z",
 } as const satisfies WorldSkill

@@ -7,4 +7,6 @@ export const otherwhereXCore = {
   title: "The Core",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The seat of a person's mana and essence, felt in the chest.",
+  createdAt: "2026-09-28T23:57:28.008Z",
+  updatedAt: "2026-09-28T23:57:31.000Z",
 } as const satisfies WorldMechanic

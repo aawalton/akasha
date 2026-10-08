@@ -9,4 +9,6 @@ export const overwhereIvIdentify = {
   description: "A skill that shows a being's name, race, class and levels, or what a thing is.",
   manaCost: 1,
   durationMinutes: 0,
+  createdAt: "2026-09-29T12:43:12.989Z",
+  updatedAt: "2026-09-29T12:43:15.000Z",
 } as const satisfies WorldSkill

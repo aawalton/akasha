@@ -8,4 +8,6 @@ export const overwhereIvStatus = {
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description:
     "The window the System shows a person of themselves: name, race, class, levels and state.",
+  createdAt: "2026-09-29T12:33:53.075Z",
+  updatedAt: "2026-09-29T12:33:56.000Z",
 } as const satisfies WorldMechanic

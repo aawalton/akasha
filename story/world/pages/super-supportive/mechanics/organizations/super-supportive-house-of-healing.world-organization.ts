@@ -8,4 +8,6 @@ export const superSupportiveHouseOfHealing = {
   world: "world/super-supportive",
   aliases: ["Artonan House of Healing"],
   description: "An Artonan hospital that treats superpower injuries.",
+  createdAt: "2026-09-28T21:35:28.552Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

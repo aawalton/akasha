@@ -9,4 +9,6 @@ export const superSupportiveTeleportationPriority = {
   aliases: ["teleport timer"],
   description:
     "A countdown the System assigns each person until their rescue teleport in a disaster.",
+  createdAt: "2026-09-28T21:43:33.028Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldMechanic

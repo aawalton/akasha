@@ -8,4 +8,6 @@ export const superSupportiveSentenceOfLabor = {
   world: "world/super-supportive",
   description:
     "An Artonan punishment of years of productive labor for Artonans and the worlds under the Triplanets.",
+  createdAt: "2026-09-28T21:44:48.769Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldMechanic

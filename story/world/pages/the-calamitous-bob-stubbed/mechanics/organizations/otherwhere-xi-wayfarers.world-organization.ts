@@ -7,4 +7,6 @@ export const otherwhereXiWayfarers = {
   title: "The Wayfarers",
   world: "world/the-calamitous-bob-stubbed",
   description: "A criminal gang of Helock.",
+  createdAt: "2026-09-29T00:22:13.304Z",
+  updatedAt: "2026-09-29T00:22:17.000Z",
 } as const satisfies WorldOrganization

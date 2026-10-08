@@ -7,4 +7,6 @@ export const otherwhereIxWorship = {
   title: "Worship",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "How Firrelians honour, serve and pledge themselves to gods and heavenly bodies.",
+  createdAt: "2026-09-28T22:59:43.096Z",
+  updatedAt: "2026-09-28T22:59:52.000Z",
 } as const satisfies WorldMechanic

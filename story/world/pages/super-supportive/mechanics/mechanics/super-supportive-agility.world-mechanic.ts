@@ -7,4 +7,6 @@ export const superSupportiveAgility = {
   title: "Agility",
   world: "world/super-supportive",
   description: "A physical stat for nimble movement, with Proprioception as a sub-stat.",
+  createdAt: "2026-09-28T21:42:11.193Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

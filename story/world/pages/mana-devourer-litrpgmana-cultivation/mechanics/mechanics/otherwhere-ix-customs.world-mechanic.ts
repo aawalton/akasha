@@ -7,4 +7,6 @@ export const otherwhereIxCustoms = {
   title: "Customs",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The manners, rites, oaths and ways of speech Firrelians keep.",
+  createdAt: "2026-09-28T22:59:43.096Z",
+  updatedAt: "2026-09-28T22:59:52.000Z",
 } as const satisfies WorldMechanic

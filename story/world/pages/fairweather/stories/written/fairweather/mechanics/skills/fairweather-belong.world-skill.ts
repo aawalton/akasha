@@ -7,4 +7,6 @@ export const fairweatherBelong = {
   title: "Belong",
   world: "world/fairweather",
   description: "An Enthraller skill that settles where a person belongs, and makes it so.",
+  createdAt: "2026-10-03T14:10:30.937Z",
+  updatedAt: "2026-10-03T14:10:39.000Z",
 } as const satisfies WorldSkill

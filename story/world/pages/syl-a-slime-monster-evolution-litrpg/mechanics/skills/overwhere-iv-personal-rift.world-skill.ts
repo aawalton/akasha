@@ -10,4 +10,6 @@ export const overwhereIvPersonalRift = {
     "A spell of Dimension Magic: a sphere of the caster's own space, where things move at her will.",
   manaCost: 10,
   durationMinutes: 10,
+  createdAt: "2026-09-29T12:37:07.815Z",
+  updatedAt: "2026-09-29T12:37:11.000Z",
 } as const satisfies WorldSkill

@@ -7,4 +7,6 @@ export const otherwhereIxSurvival = {
   title: "Survival",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Staying watered, fed, rested and warm.",
+  createdAt: "2026-09-28T22:39:12.792Z",
+  updatedAt: "2026-09-28T22:39:18.000Z",
 } as const satisfies WorldMechanic

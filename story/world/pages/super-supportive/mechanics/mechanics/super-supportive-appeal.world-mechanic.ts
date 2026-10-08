@@ -8,4 +8,6 @@ export const superSupportiveAppeal = {
   world: "world/super-supportive",
   description:
     "The stat for how appealing a person is, split into sub-stats from facial symmetry to empathy.",
+  createdAt: "2026-09-28T21:42:11.193Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

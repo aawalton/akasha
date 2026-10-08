@@ -7,4 +7,6 @@ export const otherwhereXiChildrenOfTheScale = {
   title: "The Children of the Scale",
   world: "world/the-calamitous-bob-stubbed",
   description: "A Harrakan heavy infantry regiment of young recruits.",
+  createdAt: "2026-09-29T00:09:33.515Z",
+  updatedAt: "2026-09-29T00:09:39.000Z",
 } as const satisfies WorldOrganization

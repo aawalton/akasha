@@ -8,4 +8,6 @@ export const theIdleEpochProgression = {
   world: "world/the-idle-epoch",
   description:
     "The Substrate gives every survivor a System window. Essence earned from kills, by hand or by idle constructs, raises a character's level, and each level gives five stat points and three skill points. Intelligence sets a Loopweaver's Script Complexity and Wisdom sets the Idle Yield Multiplier. At level 25 a character may Condense: level, stats and skills reset to level 1, and the character gains prestige shards, a Prestige tier and a permanent 1.5x on all gain rates. Recursion is a hidden stat measuring how far a character's behaviour mirrors the Substrate's own processes.",
+  createdAt: "2026-10-03T19:16:27.400Z",
+  updatedAt: "2026-10-03T19:16:30.000Z",
 } as const satisfies WorldMechanic

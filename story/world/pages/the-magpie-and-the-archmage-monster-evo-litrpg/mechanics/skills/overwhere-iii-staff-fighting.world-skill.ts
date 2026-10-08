@@ -9,4 +9,6 @@ export const overwhereIiiStaffFighting = {
   description:
     "Fighting with a quarterstaff: guarding, stepping aside, and striking with either end.",
   manaCost: 0,
+  createdAt: "2026-10-02T15:42:11.113Z",
+  updatedAt: "2026-10-02T15:42:14.000Z",
 } as const satisfies WorldSkill

@@ -8,4 +8,6 @@ export const superSupportiveChaosPotential = {
   world: "world/super-supportive",
   aliases: ["CP"],
   description: "A person's susceptibility to turning under chaos.",
+  createdAt: "2026-09-28T21:42:11.194Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

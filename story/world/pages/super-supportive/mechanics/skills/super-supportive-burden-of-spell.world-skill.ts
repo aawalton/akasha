@@ -7,4 +7,6 @@ export const superSupportiveBurdenOfSpell = {
   title: "Burden of Spell",
   world: "world/super-supportive",
   description: "A facet for holding unattached spells, some of which can be cast later.",
+  createdAt: "2026-09-28T21:35:34.465Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

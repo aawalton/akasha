@@ -7,4 +7,6 @@ export const otherwhereXStanding = {
   title: "Standing",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "How much someone regards Nala.",
+  createdAt: "2026-09-29T00:00:31.242Z",
+  updatedAt: "2026-09-29T00:00:35.000Z",
 } as const satisfies WorldMechanic

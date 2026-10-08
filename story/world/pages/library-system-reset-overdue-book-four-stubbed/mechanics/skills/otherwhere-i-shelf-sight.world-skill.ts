@@ -9,4 +9,6 @@ export const otherwhereIShelfSight = {
   description: "A glance at a book shows which shelf it belongs on.",
   manaCost: 1,
   durationMinutes: 60,
+  createdAt: "2026-09-28T11:50:38.550Z",
+  updatedAt: "2026-09-28T23:01:32.000Z",
 } as const satisfies WorldSkill

@@ -9,4 +9,6 @@ export const overwhereIiiMinorWard = {
   description: "A thin shimmering shield of mana that turns aside a blow or two.",
   manaCost: 3,
   durationMinutes: 1,
+  createdAt: "2026-09-30T08:49:55.358Z",
+  updatedAt: "2026-09-30T08:49:58.000Z",
 } as const satisfies WorldSkill

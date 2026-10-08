@@ -8,4 +8,6 @@ export const superSupportiveBurdenOfSecret = {
   world: "world/super-supportive",
   description:
     "A facet that takes a secret out of the speaker's mind and holds it while preserved.",
+  createdAt: "2026-09-28T21:35:34.465Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

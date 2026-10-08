@@ -9,4 +9,6 @@ export const overwhereIiiCurrentLash = {
   description: "Raw mana pulled from the currents and loosed as a lash, a shove or a ward.",
   manaCost: 2,
   durationMinutes: 1,
+  createdAt: "2026-09-29T12:22:17.489Z",
+  updatedAt: "2026-09-29T12:22:20.000Z",
 } as const satisfies WorldSkill

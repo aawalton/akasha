@@ -7,4 +7,6 @@ export const otherwhereXiRedTribe = {
   title: "The Red Tribe",
   world: "world/the-calamitous-bob-stubbed",
   description: "A kark tribe of the eastern steppes.",
+  createdAt: "2026-09-29T00:12:47.767Z",
+  updatedAt: "2026-09-29T00:12:53.000Z",
 } as const satisfies WorldOrganization

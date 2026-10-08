@@ -8,4 +8,6 @@ export const otherwhereIxGrades = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["mana grades", "grade"],
   description: "A letter scale from G up to SSS that rates the strength of mana and what holds it.",
+  createdAt: "2026-09-28T22:51:18.568Z",
+  updatedAt: "2026-09-28T22:51:25.000Z",
 } as const satisfies WorldMechanic

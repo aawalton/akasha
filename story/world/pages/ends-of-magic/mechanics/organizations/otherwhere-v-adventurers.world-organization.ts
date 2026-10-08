@@ -8,4 +8,6 @@ export const otherwhereVAdventurers = {
   world: "world/ends-of-magic",
   aliases: ["the Adventurer's Guild"],
   description: "Mortal monster-hunters.",
+  createdAt: "2026-09-28T21:40:00.558Z",
+  updatedAt: "2026-09-28T21:49:27.000Z",
 } as const satisfies WorldOrganization

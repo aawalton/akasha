@@ -8,4 +8,6 @@ export const superSupportiveTradingPlatform = {
   world: "world/super-supportive",
   aliases: ["pre-affixation trade requests", "a global auction house full of desperate people"],
   description: "The System's worldwide listing of the classes selectees offer in trade.",
+  createdAt: "2026-09-28T21:33:50.971Z",
+  updatedAt: "2026-09-28T21:33:54.000Z",
 } as const satisfies WorldMechanic

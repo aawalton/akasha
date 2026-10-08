@@ -8,4 +8,6 @@ export const towerOfNimueDecisionCadence = {
   world: "world/tower-of-nimue",
   description:
     "The first decision comes at the threshold before floor 1. It fills slot 1 with a human baseline essence crystallized from who the climber was rather than harvested, and sets a stat lean and a starting playstyle. After that, every floor cleared brings a Harvest, the recurring decision: the System offers 2 or 3 essences and the reader picks one, free into an open slot or by permanent displacement when the slots are full. Every fifth floor brings a Stat Allocation, where the reader spends the 15 banked free points. Each Gatekeeper, at floors 10, 25, 50 and 75, brings a slot expansion and an Aspect crystallization.",
+  createdAt: "2026-09-26T18:12:40.958Z",
+  updatedAt: "2026-09-26T18:12:45.000Z",
 } as const satisfies WorldMechanic

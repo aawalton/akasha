@@ -7,4 +7,6 @@ export const superSupportiveTheVathaLantern = {
   title: "The Vatha Lantern",
   world: "world/super-supportive",
   description: 'A knight skill: "That which mesmerizes only to burn."',
+  createdAt: "2026-09-28T21:44:48.770Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldSkill

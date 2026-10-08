@@ -7,4 +7,6 @@ export const otherwhereXHouseLionheart = {
   title: "House Lionheart",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A powerful noble House that lesser nobles fear.",
+  createdAt: "2026-09-29T00:03:24.171Z",
+  updatedAt: "2026-09-29T00:03:27.000Z",
 } as const satisfies WorldOrganization

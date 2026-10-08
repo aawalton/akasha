@@ -8,4 +8,6 @@ export const superSupportiveMarleckBerriesQuest = {
   world: "world/super-supportive",
   aliases: ["berry quest", "berry picking"],
   description: "A quest to go to a Moon Thegund farm and collect marleck berries.",
+  createdAt: "2026-09-28T21:34:06.324Z",
+  updatedAt: "2026-09-28T21:34:09.000Z",
 } as const satisfies WorldQuest

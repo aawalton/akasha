@@ -7,4 +7,6 @@ export const otherwhereXWorldTree = {
   title: "The World Tree",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The great source from which all mana flows.",
+  createdAt: "2026-09-28T23:58:19.632Z",
+  updatedAt: "2026-09-28T23:58:22.000Z",
 } as const satisfies WorldMechanic

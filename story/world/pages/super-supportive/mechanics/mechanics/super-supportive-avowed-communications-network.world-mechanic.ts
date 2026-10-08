@@ -7,4 +7,6 @@ export const superSupportiveAvowedCommunicationsNetwork = {
   title: "Avowed Communications Network",
   world: "world/super-supportive",
   description: "The System's phone network for a planet, through which people can call Avowed.",
+  createdAt: "2026-09-28T21:36:25.680Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereIiTutorialPhases = {
   title: "Tutorial Phases",
   world: "world/labyrinth-of-the-mad-god",
   description: "The stages a tutorial runs through, each changing its land and its dangers.",
+  createdAt: "2026-09-28T20:13:31.358Z",
+  updatedAt: "2026-09-28T22:39:05.000Z",
 } as const satisfies WorldMechanic

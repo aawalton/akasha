@@ -7,4 +7,6 @@ export const otherwhereXiMagic = {
   title: "Magic",
   world: "world/the-calamitous-bob-stubbed",
   description: "Shaping mana by will and rune into spells, circles and wards.",
+  createdAt: "2026-09-29T00:17:38.409Z",
+  updatedAt: "2026-09-29T00:17:44.000Z",
 } as const satisfies WorldMechanic

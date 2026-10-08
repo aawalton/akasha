@@ -9,4 +9,6 @@ export const superSupportiveMinorMedicalEmergencyQuest = {
   aliases: ["Assist with minor medical emergency"],
   description:
     "An emergency quest to stabilize and transport one injured person, following the summoner on scene.",
+  createdAt: "2026-09-28T21:34:06.324Z",
+  updatedAt: "2026-09-28T21:34:09.000Z",
 } as const satisfies WorldQuest

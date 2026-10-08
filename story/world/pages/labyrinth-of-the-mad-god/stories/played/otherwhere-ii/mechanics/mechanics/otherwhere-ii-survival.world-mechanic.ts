@@ -7,4 +7,6 @@ export const otherwhereIiSurvival = {
   title: "Survival",
   world: "world/labyrinth-of-the-mad-god",
   description: "Staying alive in the wild: water, food, sleep, shade and shelter.",
+  createdAt: "2026-09-28T19:52:48.999Z",
+  updatedAt: "2026-09-28T22:39:05.000Z",
 } as const satisfies WorldMechanic

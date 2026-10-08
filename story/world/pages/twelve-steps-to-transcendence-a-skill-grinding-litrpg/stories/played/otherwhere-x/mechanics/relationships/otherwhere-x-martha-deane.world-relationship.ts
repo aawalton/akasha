@@ -9,4 +9,6 @@ export const otherwhereXMarthaDeane = {
   description: "How far the Sheaf's keeper regards Nala.",
   characters: ["character-player/otherwhere-x-nala", "character-other/otherwhere-x-martha-deane"],
   relationshipPoints: 3,
+  createdAt: "2026-09-29T02:24:47.162Z",
+  updatedAt: "2026-10-03T19:45:33.000Z",
 } as const satisfies WorldRelationship

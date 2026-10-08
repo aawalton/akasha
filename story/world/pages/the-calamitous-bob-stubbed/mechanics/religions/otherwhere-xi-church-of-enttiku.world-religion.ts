@@ -7,4 +7,6 @@ export const otherwhereXiChurchOfEnttiku = {
   title: "The Church of Enttiku",
   description: "The church of Enttiku, goddess of death.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:11:18.098Z",
+  updatedAt: "2026-09-29T00:11:21.000Z",
 } as const satisfies WorldReligion

@@ -8,4 +8,6 @@ export const otherwhereViiFoundationBuilding = {
   world: "world/god-of-trash",
   description: "The lowest rank of true mage.",
   place: 3,
+  createdAt: "2026-09-28T22:52:05.585Z",
+  updatedAt: "2026-09-28T22:52:11.000Z",
 } as const satisfies WorldRank

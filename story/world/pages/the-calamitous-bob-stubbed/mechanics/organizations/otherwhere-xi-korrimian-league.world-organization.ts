@@ -7,4 +7,6 @@ export const otherwhereXiKorrimianLeague = {
   title: "The Korrimian League",
   world: "world/the-calamitous-bob-stubbed",
   description: "A union of Shadowlands cities under a council of elders.",
+  createdAt: "2026-09-29T00:20:00.532Z",
+  updatedAt: "2026-09-29T00:20:06.000Z",
 } as const satisfies WorldOrganization

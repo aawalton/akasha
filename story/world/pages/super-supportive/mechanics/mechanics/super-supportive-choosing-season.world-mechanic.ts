@@ -8,4 +8,6 @@ export const superSupportiveChoosingSeason = {
   world: "world/super-supportive",
   description:
     "The span of adolescence in a Rapport that ends when a young Artonan announces their chosen path.",
+  createdAt: "2026-09-28T21:40:07.789Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldMechanic

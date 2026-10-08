@@ -7,4 +7,6 @@ export const otherwhereIxFirrelianPantheon = {
   title: "The Gods of Firrelia",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The gods who rule Firrelia's zones, each embodying a Divine Virtue.",
+  createdAt: "2026-09-28T22:57:52.459Z",
+  updatedAt: "2026-09-28T22:57:56.000Z",
 } as const satisfies WorldOrganization

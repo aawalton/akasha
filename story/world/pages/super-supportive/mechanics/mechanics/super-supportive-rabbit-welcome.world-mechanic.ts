@@ -7,4 +7,6 @@ export const superSupportiveRabbitWelcome = {
   title: "Rabbit Welcome",
   world: "world/super-supportive",
   description: "An annual Anesidoran welcome party for new Rabbits.",
+  createdAt: "2026-09-28T21:45:47.110Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldMechanic

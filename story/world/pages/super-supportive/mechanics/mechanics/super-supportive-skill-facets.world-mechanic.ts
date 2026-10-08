@@ -9,4 +9,6 @@ export const superSupportiveSkillFacets = {
   aliases: ["facet"],
   description:
     "Add-ons that give an open-ended skill new functions without changing what it fundamentally is.",
+  createdAt: "2026-09-28T21:34:42.271Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

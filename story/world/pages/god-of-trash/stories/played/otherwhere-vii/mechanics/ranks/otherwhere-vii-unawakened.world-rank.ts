@@ -8,4 +8,6 @@ export const otherwhereViiUnawakened = {
   world: "world/god-of-trash",
   description: "A body that has never woken to mana, as nearly everyone's is.",
   place: 1,
+  createdAt: "2026-09-28T22:52:05.586Z",
+  updatedAt: "2026-09-28T22:52:11.000Z",
 } as const satisfies WorldRank

@@ -7,4 +7,6 @@ export const overwhereIvDangerSense = {
   title: "Danger Sense",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "A prickle of warning an instant before a real attack lands.",
+  createdAt: "2026-09-29T12:43:12.989Z",
+  updatedAt: "2026-09-29T12:43:15.000Z",
 } as const satisfies WorldSkill

@@ -8,4 +8,6 @@ export const otherwhereXiElementalAscension = {
   world: "world/the-calamitous-bob-stubbed",
   description: "The change of a caster into a being partly made of their own hue of mana.",
   aliases: ["Becoming elemental", "Elemental archmage"],
+  createdAt: "2026-09-29T00:23:37.858Z",
+  updatedAt: "2026-09-29T00:23:47.000Z",
 } as const satisfies WorldMechanic

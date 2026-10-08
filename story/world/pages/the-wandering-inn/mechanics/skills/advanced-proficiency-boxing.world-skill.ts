@@ -6,4 +6,6 @@ export const advancedProficiencyBoxing = {
   slug: "advanced-proficiency-boxing",
   title: "Advanced Proficiency: Boxing",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.553Z",
+  updatedAt: "2026-09-19T16:37:58.000Z",
 } as const satisfies WorldSkill

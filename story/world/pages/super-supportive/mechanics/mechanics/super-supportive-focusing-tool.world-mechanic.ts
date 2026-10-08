@@ -8,4 +8,6 @@ export const superSupportiveFocusingTool = {
   world: "world/super-supportive",
   aliases: ["focus"],
   description: "A thing that helps a caster concentrate and holds their authority.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

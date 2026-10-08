@@ -9,4 +9,6 @@ export const otherwhereIiiTheSystem = {
   aliases: ["Interdimensional Warrior's Contract", "the Artonan System", "the Contract"],
   description:
     "The Artonan magic that chooses a few humans as Avowed and gives them a class, a rank, skills and an interface.",
+  createdAt: "2026-09-28T21:19:18.607Z",
+  updatedAt: "2026-09-28T21:19:22.000Z",
 } as const satisfies WorldMechanic

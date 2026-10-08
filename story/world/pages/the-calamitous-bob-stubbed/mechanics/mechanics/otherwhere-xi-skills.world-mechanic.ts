@@ -7,4 +7,6 @@ export const otherwhereXiSkills = {
   title: "Skills",
   world: "world/the-calamitous-bob-stubbed",
   description: "An ability the interface names and ranks for the one who holds it.",
+  createdAt: "2026-09-29T00:01:46.716Z",
+  updatedAt: "2026-09-29T00:01:50.000Z",
 } as const satisfies WorldMechanic

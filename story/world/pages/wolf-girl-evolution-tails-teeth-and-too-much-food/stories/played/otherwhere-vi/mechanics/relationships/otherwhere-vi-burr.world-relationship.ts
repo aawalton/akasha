@@ -8,4 +8,6 @@ export const otherwhereViBurr = {
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
   characters: ["character-player/otherwhere-vi-nala", "character-other/otherwhere-vi-burr"],
   relationshipPoints: -3,
+  createdAt: "2026-09-29T01:33:20.433Z",
+  updatedAt: "2026-09-29T01:33:23.000Z",
 } as const satisfies WorldRelationship

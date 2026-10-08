@@ -7,4 +7,6 @@ export const otherwhereIxIdentify = {
   title: "Identify and Appraisal",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The skills that read the nature and measure of things and beings.",
+  createdAt: "2026-09-28T23:06:31.598Z",
+  updatedAt: "2026-09-28T23:06:35.000Z",
 } as const satisfies WorldMechanic

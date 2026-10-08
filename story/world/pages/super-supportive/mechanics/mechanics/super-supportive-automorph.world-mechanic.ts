@@ -9,4 +9,6 @@ export const superSupportiveAutomorph = {
   aliases: ["automorph"],
   description:
     "Morphish Enviro Brute abilities that kick in semiautomatically in response to the environment.",
+  createdAt: "2026-09-28T21:40:07.789Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldMechanic

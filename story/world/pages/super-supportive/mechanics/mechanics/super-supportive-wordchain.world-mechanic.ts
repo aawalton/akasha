@@ -9,4 +9,6 @@ export const superSupportiveWordchain = {
   aliases: ["chain", "chaining"],
   description:
     "An Artonan chain of words and hand signs that trades with an Opposite on another world.",
+  createdAt: "2026-09-28T21:34:42.271Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

@@ -9,4 +9,6 @@ export const superSupportiveRankA = {
   aliases: ["A-rank"],
   description: "The second-highest Divergence Rank, one of the two usual superhero ranks.",
   place: 5,
+  createdAt: "2026-09-28T21:33:42.148Z",
+  updatedAt: "2026-09-28T21:33:45.000Z",
 } as const satisfies WorldRank

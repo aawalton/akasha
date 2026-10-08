@@ -9,4 +9,6 @@ export const superSupportiveCloseness = {
   aliases: ["existential closeness"],
   description:
     "A comfortable, friendly authority presence drawn near without moving, felt like knowing something good is in the room.",
+  createdAt: "2026-09-28T21:43:02.946Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldMechanic

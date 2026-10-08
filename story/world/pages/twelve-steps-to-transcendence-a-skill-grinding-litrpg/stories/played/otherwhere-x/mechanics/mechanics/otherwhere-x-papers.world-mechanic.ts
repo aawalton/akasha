@@ -7,4 +7,6 @@ export const otherwhereXPapers = {
   title: "Papers and Suspicion",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Proving who you are to those who ask, and what they think when you cannot.",
+  createdAt: "2026-09-28T23:58:43.039Z",
+  updatedAt: "2026-09-28T23:58:54.000Z",
 } as const satisfies WorldMechanic

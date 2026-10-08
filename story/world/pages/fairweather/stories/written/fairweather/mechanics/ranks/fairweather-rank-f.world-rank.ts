@@ -10,4 +10,6 @@ export const fairweatherRankF = {
   description:
     "The lowest guild rank, where every new adventurer starts: errands, gathering and the shallowest dungeon floors.",
   place: 1,
+  createdAt: "2026-10-03T14:11:51.573Z",
+  updatedAt: "2026-10-03T14:12:00.000Z",
 } as const satisfies WorldRank

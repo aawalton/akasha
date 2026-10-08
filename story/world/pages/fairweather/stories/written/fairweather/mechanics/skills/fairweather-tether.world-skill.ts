@@ -8,4 +8,6 @@ export const fairweatherTether = {
   world: "world/fairweather",
   description:
     "An Enthraller skill that ties a person to the caster by a line of power running both ways.",
+  createdAt: "2026-10-03T14:10:16.677Z",
+  updatedAt: "2026-10-03T14:10:19.000Z",
 } as const satisfies WorldSkill

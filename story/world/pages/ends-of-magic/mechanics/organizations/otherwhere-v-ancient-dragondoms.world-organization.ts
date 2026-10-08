@@ -7,4 +7,6 @@ export const otherwhereVAncientDragondoms = {
   title: "The Ancient Dragondoms",
   world: "world/ends-of-magic",
   description: "Ancient realms ruled by dragons.",
+  createdAt: "2026-09-28T21:53:38.892Z",
+  updatedAt: "2026-09-28T21:53:43.000Z",
 } as const satisfies WorldOrganization

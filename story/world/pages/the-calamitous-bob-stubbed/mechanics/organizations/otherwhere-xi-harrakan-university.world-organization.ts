@@ -7,4 +7,6 @@ export const otherwhereXiHarrakanUniversity = {
   title: "The Harrakan University of Magic",
   world: "world/the-calamitous-bob-stubbed",
   description: "New Harrak's academy of magic at Frostway.",
+  createdAt: "2026-09-29T00:21:00.407Z",
+  updatedAt: "2026-09-29T00:21:04.000Z",
 } as const satisfies WorldOrganization

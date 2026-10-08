@@ -7,4 +7,6 @@ export const otherwhereXAffinities = {
   title: "Affinities",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The kinds of mana, such as fire or life, that a person resonates with.",
+  createdAt: "2026-09-29T00:00:58.305Z",
+  updatedAt: "2026-09-29T00:01:05.000Z",
 } as const satisfies WorldMechanic

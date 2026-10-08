@@ -7,4 +7,6 @@ export const overwhereIvTime = {
   title: "Time",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The day and hour it is where Nala is, counted in days from the day she woke.",
+  createdAt: "2026-09-29T12:23:07.432Z",
+  updatedAt: "2026-09-29T12:23:12.000Z",
 } as const satisfies WorldMechanic

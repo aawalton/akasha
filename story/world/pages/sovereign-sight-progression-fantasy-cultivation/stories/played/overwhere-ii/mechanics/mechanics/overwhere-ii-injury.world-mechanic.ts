@@ -7,4 +7,6 @@ export const overwhereIiInjury = {
   title: "Injury",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "Hurt to the body, from bruises and burns to wounds that can kill.",
+  createdAt: "2026-09-29T12:33:59.210Z",
+  updatedAt: "2026-09-29T12:34:02.000Z",
 } as const satisfies WorldMechanic

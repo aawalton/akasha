@@ -9,4 +9,6 @@ export const overwhereIvRiftBeacon = {
   description: "A spell of Dimension Magic: a fixed mark in space that a rift can later open onto.",
   manaCost: 15,
   durationMinutes: 0,
+  createdAt: "2026-09-29T12:37:07.816Z",
+  updatedAt: "2026-09-29T12:37:11.000Z",
 } as const satisfies WorldSkill

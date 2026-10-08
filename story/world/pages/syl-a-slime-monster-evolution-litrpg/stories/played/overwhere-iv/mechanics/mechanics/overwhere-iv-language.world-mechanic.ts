@@ -7,4 +7,6 @@ export const overwhereIvLanguage = {
   title: "Language",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The common tongue of the land and its script, and the tongues of other peoples.",
+  createdAt: "2026-09-29T12:33:53.074Z",
+  updatedAt: "2026-09-29T12:33:56.000Z",
 } as const satisfies WorldMechanic

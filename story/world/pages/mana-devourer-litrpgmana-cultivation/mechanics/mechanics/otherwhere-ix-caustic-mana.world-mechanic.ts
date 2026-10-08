@@ -8,4 +8,6 @@ export const otherwhereIxCausticMana = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["Corrosive Mana", "acid mana"],
   description: "The kind of mana that carries acid and corrosion.",
+  createdAt: "2026-09-28T23:08:06.218Z",
+  updatedAt: "2026-09-28T23:08:09.000Z",
 } as const satisfies WorldMechanic

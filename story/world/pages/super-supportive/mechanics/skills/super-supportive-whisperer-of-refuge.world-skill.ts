@@ -7,4 +7,6 @@ export const superSupportiveWhispererOfRefuge = {
   title: "Whisperer of Refuge",
   world: "world/super-supportive",
   description: "A knight skill that protects a refuge area only those told of it may enter.",
+  createdAt: "2026-09-28T21:44:48.770Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldSkill

@@ -7,4 +7,6 @@ export const superSupportiveFaithfulGuardian = {
   title: "Faithful Guardian",
   world: "world/super-supportive",
   description: "An older knight skill.",
+  createdAt: "2026-09-28T21:44:48.769Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldSkill

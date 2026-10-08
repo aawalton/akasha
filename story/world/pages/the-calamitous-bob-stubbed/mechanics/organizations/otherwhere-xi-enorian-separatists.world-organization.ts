@@ -7,4 +7,6 @@ export const otherwhereXiEnorianSeparatists = {
   title: "The Enorian Separatists",
   world: "world/the-calamitous-bob-stubbed",
   description: "The northern faction that won Enoria's civil war.",
+  createdAt: "2026-09-29T00:13:42.833Z",
+  updatedAt: "2026-09-29T00:13:48.000Z",
 } as const satisfies WorldOrganization

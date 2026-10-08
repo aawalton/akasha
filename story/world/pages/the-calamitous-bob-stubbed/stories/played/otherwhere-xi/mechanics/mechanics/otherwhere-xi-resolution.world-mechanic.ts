@@ -7,4 +7,6 @@ export const otherwhereXiResolution = {
   title: "Resolution",
   world: "world/the-calamitous-bob-stubbed",
   description: "Whether an attempt in doubt succeeds, and how well.",
+  createdAt: "2026-09-29T00:09:11.685Z",
+  updatedAt: "2026-09-29T00:09:19.000Z",
 } as const satisfies WorldMechanic

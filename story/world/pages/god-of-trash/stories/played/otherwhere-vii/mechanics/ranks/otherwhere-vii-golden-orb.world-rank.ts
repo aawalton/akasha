@@ -8,4 +8,6 @@ export const otherwhereViiGoldenOrb = {
   world: "world/god-of-trash",
   description: "A core holding an orb of golden super-pure mana; aging all but stops.",
   place: 5,
+  createdAt: "2026-09-28T22:52:05.585Z",
+  updatedAt: "2026-09-28T22:52:11.000Z",
 } as const satisfies WorldRank

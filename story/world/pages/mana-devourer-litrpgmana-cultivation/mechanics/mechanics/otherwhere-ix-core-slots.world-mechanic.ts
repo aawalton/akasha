@@ -8,4 +8,6 @@ export const otherwhereIxCoreSlots = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["affixing cores", "affixed cores"],
   description: "Places in a body where beast cores can be fixed for lasting gifts.",
+  createdAt: "2026-09-28T23:02:25.001Z",
+  updatedAt: "2026-09-28T23:02:30.000Z",
 } as const satisfies WorldMechanic

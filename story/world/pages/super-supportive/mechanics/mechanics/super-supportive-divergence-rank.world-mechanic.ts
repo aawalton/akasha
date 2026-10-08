@@ -8,4 +8,6 @@ export const superSupportiveDivergenceRank = {
   world: "world/super-supportive",
   aliases: ["rank"],
   description: "The letter grade of an Avowed's power, from F up through D, C, B and A to S.",
+  createdAt: "2026-09-28T21:33:50.971Z",
+  updatedAt: "2026-09-28T21:33:54.000Z",
 } as const satisfies WorldMechanic

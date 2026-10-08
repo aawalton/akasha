@@ -7,4 +7,6 @@ export const otherwhereXiWaterGuild = {
   title: "The Water Guild",
   world: "world/the-calamitous-bob-stubbed",
   description: "An ancient semi-public water monopoly of Harrak.",
+  createdAt: "2026-09-29T00:21:44.622Z",
+  updatedAt: "2026-09-29T00:21:52.000Z",
 } as const satisfies WorldOrganization

@@ -7,4 +7,6 @@ export const superSupportiveSpeed = {
   title: "Speed",
   world: "world/super-supportive",
   description: "A physical stat for how fast a person moves.",
+  createdAt: "2026-09-28T21:42:11.194Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

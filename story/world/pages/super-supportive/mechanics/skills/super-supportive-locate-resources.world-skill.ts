@@ -7,4 +7,6 @@ export const superSupportiveLocateResources = {
   title: "Locate Resources",
   world: "world/super-supportive",
   description: 'An S-rank Rabbit skill that gives a string of magically generated "Aha!" moments.',
+  createdAt: "2026-09-28T21:35:34.466Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

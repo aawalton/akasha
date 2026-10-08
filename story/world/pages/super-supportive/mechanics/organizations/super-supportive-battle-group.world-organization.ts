@@ -7,4 +7,6 @@ export const superSupportiveBattleGroup = {
   title: "Battle Group",
   world: "world/super-supportive",
   description: "A team of Avowed that takes turns fighting the demon allotment.",
+  createdAt: "2026-09-28T21:35:28.552Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

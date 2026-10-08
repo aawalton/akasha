@@ -7,4 +7,6 @@ export const otherwhereIxSpiritMana = {
   title: "Spirit Mana",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The kind of mana found in all matter.",
+  createdAt: "2026-09-28T23:04:05.749Z",
+  updatedAt: "2026-09-28T23:04:08.000Z",
 } as const satisfies WorldMechanic

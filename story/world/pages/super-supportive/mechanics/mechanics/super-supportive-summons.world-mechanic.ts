@@ -8,4 +8,6 @@ export const superSupportiveSummons = {
   world: "world/super-supportive",
   aliases: ["quest summons", "being summoned"],
   description: "An Artonan wizard calling an Avowed away to another world to do a task.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

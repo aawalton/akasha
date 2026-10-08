@@ -9,4 +9,6 @@ export const overwhereIiUndertow = {
   description:
     "A Talent of the tide that pushes and pulls with Water, and draws Water, salt and rot out of what it touches.",
   manaCost: 2,
+  createdAt: "2026-09-29T12:16:07.731Z",
+  updatedAt: "2026-09-29T12:16:13.000Z",
 } as const satisfies WorldSkill

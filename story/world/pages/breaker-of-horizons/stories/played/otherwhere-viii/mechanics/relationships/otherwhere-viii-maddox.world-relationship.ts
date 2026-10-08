@@ -9,4 +9,6 @@ export const otherwhereViiiMaddox = {
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-maddox"],
   relationshipPoints: 5,
   unrevealed: true,
+  createdAt: "2026-09-28T23:32:44.952Z",
+  updatedAt: "2026-09-30T07:31:14.000Z",
 } as const satisfies WorldRelationship

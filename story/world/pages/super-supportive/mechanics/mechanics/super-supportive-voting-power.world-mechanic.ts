@@ -9,4 +9,6 @@ export const superSupportiveVotingPower = {
   aliases: ["loyalty marks"],
   description:
     "The political weight a wizard gathers from the loyalty of ordinary-class people and other wizards.",
+  createdAt: "2026-09-28T21:44:48.769Z",
+  updatedAt: "2026-09-28T21:44:54.000Z",
 } as const satisfies WorldMechanic

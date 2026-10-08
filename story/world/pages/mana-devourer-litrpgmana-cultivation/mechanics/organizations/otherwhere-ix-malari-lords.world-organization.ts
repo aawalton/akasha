@@ -7,4 +7,6 @@ export const otherwhereIxMalariLords = {
   title: "The Lords of Malari",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The noble houses, lords and barons who hold the land of Malari.",
+  createdAt: "2026-09-28T22:58:39.824Z",
+  updatedAt: "2026-09-28T22:58:44.000Z",
 } as const satisfies WorldOrganization

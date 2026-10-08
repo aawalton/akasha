@@ -8,4 +8,6 @@ export const superSupportiveInstantCorners = {
   world: "world/super-supportive",
   description:
     "An Agility Brute skill that changes direction or body position instantly at full speed.",
+  createdAt: "2026-09-28T21:41:02.871Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

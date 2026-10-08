@@ -9,4 +9,6 @@ export const superSupportivePreservation = {
   aliases: ["preserved"],
   description:
     "An item or person held exactly as it is: unchanging, unharmed, and unmovable by outside forces.",
+  createdAt: "2026-09-28T21:34:42.271Z",
+  updatedAt: "2026-09-28T21:53:04.000Z",
 } as const satisfies WorldMechanic

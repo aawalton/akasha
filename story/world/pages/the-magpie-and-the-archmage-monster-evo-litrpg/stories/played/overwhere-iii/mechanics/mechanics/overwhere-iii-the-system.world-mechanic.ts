@@ -8,4 +8,6 @@ export const overwhereIiiTheSystem = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description:
     "Blue boxes only their holder sees, showing a profile, a status, and each gain as it comes.",
+  createdAt: "2026-09-29T12:41:36.219Z",
+  updatedAt: "2026-09-29T12:41:39.000Z",
 } as const satisfies WorldMechanic

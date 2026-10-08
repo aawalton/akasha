@@ -8,4 +8,6 @@ export const otherwhereXiCircles = {
   world: "world/the-calamitous-bob-stubbed",
   description: "A drawn ring or pattern of glyphs that holds a working in place.",
   aliases: ["Arrays", "Constructs"],
+  createdAt: "2026-09-29T00:15:09.051Z",
+  updatedAt: "2026-09-29T00:15:25.000Z",
 } as const satisfies WorldMechanic

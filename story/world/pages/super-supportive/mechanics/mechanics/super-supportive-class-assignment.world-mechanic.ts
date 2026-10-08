@@ -8,4 +8,6 @@ export const superSupportiveClassAssignment = {
   world: "world/super-supportive",
   aliases: ["Assigned Class"],
   description: "The class the System gives a selectee when choosing them.",
+  createdAt: "2026-09-28T21:33:50.970Z",
+  updatedAt: "2026-09-28T21:33:54.000Z",
 } as const satisfies WorldMechanic

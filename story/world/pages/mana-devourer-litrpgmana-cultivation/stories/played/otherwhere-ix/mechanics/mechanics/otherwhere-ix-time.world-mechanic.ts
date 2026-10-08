@@ -7,4 +7,6 @@ export const otherwhereIxTime = {
   title: "Time",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The day and hour it is where Nala is.",
+  createdAt: "2026-09-28T22:36:09.460Z",
+  updatedAt: "2026-09-28T22:36:20.000Z",
 } as const satisfies WorldMechanic

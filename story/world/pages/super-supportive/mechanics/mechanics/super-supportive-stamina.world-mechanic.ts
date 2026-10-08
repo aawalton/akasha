@@ -7,4 +7,6 @@ export const superSupportiveStamina = {
   title: "Stamina",
   world: "world/super-supportive",
   description: "A physical stat for endurance.",
+  createdAt: "2026-09-28T21:42:11.195Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

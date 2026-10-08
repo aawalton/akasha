@@ -8,4 +8,6 @@ export const superSupportiveCleaverOfStrength = {
   world: "world/super-supportive",
   description:
     "A knight skill that strikes the point of greatest strength with the user's own, turning it into a crack.",
+  createdAt: "2026-09-28T21:41:02.871Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

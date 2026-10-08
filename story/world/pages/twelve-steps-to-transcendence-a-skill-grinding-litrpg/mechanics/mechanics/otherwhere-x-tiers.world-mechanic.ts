@@ -7,4 +7,6 @@ export const otherwhereXTiers = {
   title: "Tiers",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The ranks of power that every person and creature climbs.",
+  createdAt: "2026-09-28T23:56:38.320Z",
+  updatedAt: "2026-09-28T23:56:41.000Z",
 } as const satisfies WorldMechanic

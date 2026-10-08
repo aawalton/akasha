@@ -8,4 +8,6 @@ export const superSupportiveKnightRelease = {
   world: "world/super-supportive",
   aliases: ["final sacrifice", "their rest"],
   description: "A ceremony in which knights choose death and are released by hand.",
+  createdAt: "2026-09-28T21:36:25.681Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

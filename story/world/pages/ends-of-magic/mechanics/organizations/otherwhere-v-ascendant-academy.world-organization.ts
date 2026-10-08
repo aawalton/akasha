@@ -8,4 +8,6 @@ export const otherwhereVAscendantAcademy = {
   world: "world/ends-of-magic",
   aliases: ["Ascendant Academy of Giantsrest", "Ascendent Academy", "the Ascendent Council"],
   description: "A mage academy.",
+  createdAt: "2026-09-28T21:38:06.076Z",
+  updatedAt: "2026-09-28T21:49:27.000Z",
 } as const satisfies WorldOrganization

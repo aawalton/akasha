@@ -9,4 +9,6 @@ export const superSupportiveTheLeadingKnife = {
   aliases: ["Leading Knife"],
   description:
     "A knife Meister skill whose thrown lead blade drags every nearby sharp thing behind it like a flock.",
+  createdAt: "2026-09-28T21:41:02.872Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

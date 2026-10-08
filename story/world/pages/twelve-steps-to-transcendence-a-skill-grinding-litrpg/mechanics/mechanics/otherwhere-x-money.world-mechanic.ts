@@ -7,4 +7,6 @@ export const otherwhereXMoney = {
   title: "Money, Prices and Trade",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The coin, goods and prices people buy and sell with.",
+  createdAt: "2026-09-28T23:57:43.662Z",
+  updatedAt: "2026-09-28T23:57:46.000Z",
 } as const satisfies WorldMechanic

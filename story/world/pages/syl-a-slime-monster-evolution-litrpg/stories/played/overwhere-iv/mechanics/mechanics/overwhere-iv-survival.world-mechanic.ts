@@ -7,4 +7,6 @@ export const overwhereIvSurvival = {
   title: "Survival",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "What a body needs to keep going: food, water, sleep, warmth and shelter.",
+  createdAt: "2026-09-29T12:33:53.075Z",
+  updatedAt: "2026-09-29T12:33:56.000Z",
 } as const satisfies WorldMechanic

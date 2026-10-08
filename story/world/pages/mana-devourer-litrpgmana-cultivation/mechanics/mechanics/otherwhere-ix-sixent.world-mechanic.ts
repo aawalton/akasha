@@ -7,4 +7,6 @@ export const otherwhereIxSixent = {
   title: "Sixent",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Sixent, the sixth of the eleven worlds.",
+  createdAt: "2026-09-28T22:53:29.505Z",
+  updatedAt: "2026-09-28T22:53:43.000Z",
 } as const satisfies WorldMechanic

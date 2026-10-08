@@ -8,4 +8,6 @@ export const otherwhereIiKiosk = {
   world: "world/labyrinth-of-the-mad-god",
   description:
     "A black obelisk with a glass screen that shows a contestant's quests, profile and encyclopedia.",
+  createdAt: "2026-09-28T20:13:31.358Z",
+  updatedAt: "2026-09-28T22:39:05.000Z",
 } as const satisfies WorldMechanic

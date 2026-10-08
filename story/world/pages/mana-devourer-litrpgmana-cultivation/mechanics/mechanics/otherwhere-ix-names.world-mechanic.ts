@@ -7,4 +7,6 @@ export const otherwhereIxNames = {
   title: "Names",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The names Firrelians give and bear, each with a meaning.",
+  createdAt: "2026-09-28T22:54:20.481Z",
+  updatedAt: "2026-09-28T22:54:26.000Z",
 } as const satisfies WorldMechanic

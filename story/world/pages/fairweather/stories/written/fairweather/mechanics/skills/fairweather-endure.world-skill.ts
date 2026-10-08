@@ -8,4 +8,6 @@ export const fairweatherEndure = {
   world: "world/fairweather",
   description:
     "A Berserker skill: the Berserker shrugs off pain and keeps her feet through wounds.",
+  createdAt: "2026-10-03T20:10:47.235Z",
+  updatedAt: "2026-10-03T20:10:50.000Z",
 } as const satisfies WorldSkill

@@ -6,4 +6,6 @@ export const theTowerEssenceInfusion = {
   slug: "the-tower-essence-infusion",
   title: "Essence Infusion",
   world: "world/personas",
+  createdAt: "2026-09-26T14:55:35.054Z",
+  updatedAt: "2026-09-26T14:55:38.000Z",
 } as const satisfies WorldSkill

@@ -7,4 +7,6 @@ export const overwhereIiLanguage = {
   title: "Language",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "The common tongue and script of Teyr's isles, and the other tongues spoken there.",
+  createdAt: "2026-09-29T12:33:59.211Z",
+  updatedAt: "2026-09-29T12:34:02.000Z",
 } as const satisfies WorldMechanic

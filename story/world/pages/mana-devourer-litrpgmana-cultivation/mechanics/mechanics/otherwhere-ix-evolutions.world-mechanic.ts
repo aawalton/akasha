@@ -7,4 +7,6 @@ export const otherwhereIxEvolutions = {
   title: "Skill Evolution",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The change of a skill, trait or passive into a stronger form.",
+  createdAt: "2026-09-28T23:01:11.168Z",
+  updatedAt: "2026-09-28T23:01:17.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const theBeholderAttributes = {
   world: "world/the-beholder",
   description:
     "The System overlays everyone with six attributes, on a scale where 10 is an average adult human. Might is physical force: striking, lifting, melee lethality. Vitality is health, durability, regeneration and resistance. Celerity is speed and reflexes: movement, evasion, attack cadence. Acuity is perception and precision: senses, aim, reading a target, and it sharpens an Acquisition appraisal. Will is the psyche: resolve, nerve, mental resistance, and it multiplies the output of stolen powers. Allure is presence and aesthetic gravity: charm, enthrall, intimidate, command attention. Allure is pure upside, making prey hesitate, approach, trust or freeze; it is the attribute that makes its holder more beautiful. Beauty itself is no meter.",
+  createdAt: "2026-09-26T18:14:53.729Z",
+  updatedAt: "2026-09-26T18:14:58.000Z",
 } as const satisfies WorldMechanic

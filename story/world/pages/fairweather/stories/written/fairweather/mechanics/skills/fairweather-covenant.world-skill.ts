@@ -8,4 +8,6 @@ export const fairweatherCovenant = {
   world: "world/fairweather",
   description:
     "A passive Enthraller skill, gained at level 10: a Tether or a Claim pours strength into the one bound rather than out of her. A girl under Elsie's Tether adds a quarter of each of Elsie's attribute totals, as Devotion, Tribute and Fealty leave them, rounded down, to her own; under Elsie's Claim, a half. A girl under both takes the Claim's alone. Elsie loses nothing by it, and no skill reads what Covenant adds.",
+  createdAt: "2026-10-04T12:34:12.682Z",
+  updatedAt: "2026-10-04T12:34:16.000Z",
 } as const satisfies WorldSkill

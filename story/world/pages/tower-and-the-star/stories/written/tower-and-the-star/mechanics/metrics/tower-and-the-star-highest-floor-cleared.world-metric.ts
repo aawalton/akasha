@@ -9,4 +9,6 @@ export const towerAndTheStarHighestFloorCleared = {
   description: "The highest Tower floor the party has cleared.",
   value: 30,
   minValue: 0,
+  createdAt: "2026-10-03T19:31:08.853Z",
+  updatedAt: "2026-10-03T19:31:12.000Z",
 } as const satisfies WorldMetric

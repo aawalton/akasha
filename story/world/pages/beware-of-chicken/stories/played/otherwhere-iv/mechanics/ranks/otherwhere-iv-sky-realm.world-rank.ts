@@ -9,4 +9,6 @@ export const otherwhereIvSkyRealm = {
   description:
     "A cultivator who needs no food for years and whose unleashed will can crush mortals.",
   place: 5,
+  createdAt: "2026-09-28T21:48:43.305Z",
+  updatedAt: "2026-09-28T21:48:49.000Z",
 } as const satisfies WorldRank

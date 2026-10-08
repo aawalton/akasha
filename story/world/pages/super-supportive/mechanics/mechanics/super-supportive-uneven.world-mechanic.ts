@@ -9,4 +9,6 @@ export const superSupportiveUneven = {
   aliases: ["unevenness"],
   description:
     "The sense of someone as heavy or off to one side because they owe or are owed wordchain debt.",
+  createdAt: "2026-09-28T21:35:33.827Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

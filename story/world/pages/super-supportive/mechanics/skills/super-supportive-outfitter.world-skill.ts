@@ -8,4 +8,6 @@ export const superSupportiveOutfitter = {
   world: "world/super-supportive",
   description:
     "A skill that makes a jumpsuit of gray fabric strips slither into the clothes its user envisions.",
+  createdAt: "2026-09-28T21:41:02.871Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

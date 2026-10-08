@@ -8,4 +8,6 @@ export const superSupportiveSigningBonus = {
   world: "world/super-supportive",
   aliases: ["signing gift", "an additional gift"],
   description: "The extra gift a selectee receives for signing the Contract.",
+  createdAt: "2026-09-28T21:33:50.971Z",
+  updatedAt: "2026-09-28T21:33:54.000Z",
 } as const satisfies WorldMechanic

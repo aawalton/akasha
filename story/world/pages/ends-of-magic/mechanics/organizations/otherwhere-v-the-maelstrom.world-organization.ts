@@ -7,4 +7,6 @@ export const otherwhereVTheMaelstrom = {
   title: "The Maelstrom",
   world: "world/ends-of-magic",
   description: "A mercenary company.",
+  createdAt: "2026-09-28T21:50:54.580Z",
+  updatedAt: "2026-09-28T21:50:58.000Z",
 } as const satisfies WorldOrganization

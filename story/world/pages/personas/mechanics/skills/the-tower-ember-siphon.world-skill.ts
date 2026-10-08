@@ -6,4 +6,6 @@ export const theTowerEmberSiphon = {
   slug: "the-tower-ember-siphon",
   title: "Ember Siphon",
   world: "world/personas",
+  createdAt: "2026-09-26T14:55:35.053Z",
+  updatedAt: "2026-09-26T14:55:38.000Z",
 } as const satisfies WorldSkill

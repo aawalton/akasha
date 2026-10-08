@@ -7,4 +7,6 @@ export const superSupportiveInstinct = {
   title: "Instinct",
   world: "world/super-supportive",
   description: "A stat for gut awareness of the surroundings.",
+  createdAt: "2026-09-28T21:42:11.194Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

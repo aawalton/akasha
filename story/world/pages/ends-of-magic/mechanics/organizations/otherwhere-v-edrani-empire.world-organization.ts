@@ -7,4 +7,6 @@ export const otherwhereVEdraniEmpire = {
   title: "The Edrani Empire",
   world: "world/ends-of-magic",
   description: "A fallen empire.",
+  createdAt: "2026-09-28T21:53:38.893Z",
+  updatedAt: "2026-09-28T21:53:43.000Z",
 } as const satisfies WorldOrganization

@@ -8,4 +8,6 @@ export const otherwhereVGiantsrestDominion = {
   world: "world/ends-of-magic",
   aliases: ["Giantsrest"],
   description: "A mage-empire.",
+  createdAt: "2026-09-28T21:37:15.429Z",
+  updatedAt: "2026-09-28T21:49:27.000Z",
 } as const satisfies WorldOrganization

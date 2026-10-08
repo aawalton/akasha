@@ -7,4 +7,6 @@ export const otherwhereViLanguage = {
   title: "Language",
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
   description: "The tongues folk speak, and how well Nala understands each.",
+  createdAt: "2026-09-28T23:08:42.470Z",
+  updatedAt: "2026-09-28T23:08:48.000Z",
 } as const satisfies WorldMechanic

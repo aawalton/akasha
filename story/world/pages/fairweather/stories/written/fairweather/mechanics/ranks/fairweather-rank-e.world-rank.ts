@@ -10,4 +10,6 @@ export const fairweatherRankE = {
   description:
     "A proven beginner, trusted with escort work and the upper floors of the city's dungeons.",
   place: 2,
+  createdAt: "2026-10-03T14:12:13.131Z",
+  updatedAt: "2026-10-03T14:12:21.000Z",
 } as const satisfies WorldRank

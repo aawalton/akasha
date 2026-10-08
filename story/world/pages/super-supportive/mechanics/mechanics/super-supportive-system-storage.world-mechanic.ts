@@ -9,4 +9,6 @@ export const superSupportiveSystemStorage = {
   aliases: ["System storage"],
   description:
     "System storage that holds purchases and belongings and can teleport them to their owner.",
+  createdAt: "2026-09-28T21:36:25.682Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

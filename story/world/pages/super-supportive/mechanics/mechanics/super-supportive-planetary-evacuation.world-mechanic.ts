@@ -8,4 +8,6 @@ export const superSupportivePlanetaryEvacuation = {
   world: "world/super-supportive",
   aliases: ["evacuation list", "planetary evacuation priority"],
   description: "Artonan mass teleportation of chosen people off Earth from secret gathering sites.",
+  createdAt: "2026-09-28T21:43:33.028Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldMechanic

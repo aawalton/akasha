@@ -7,4 +7,6 @@ export const otherwhereXiDivineSpark = {
   title: "Divine Spark",
   description: "A fragment of a god's power held in a mortal soul.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:13:34.436Z",
+  updatedAt: "2026-09-29T00:13:40.000Z",
 } as const satisfies WorldMechanic

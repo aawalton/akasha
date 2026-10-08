@@ -8,4 +8,6 @@ export const superSupportiveContractTattoo = {
   world: "world/super-supportive",
   description:
     "The magic-ink mark of a wizard's contract, whose shapes mean what both parties agree they mean.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

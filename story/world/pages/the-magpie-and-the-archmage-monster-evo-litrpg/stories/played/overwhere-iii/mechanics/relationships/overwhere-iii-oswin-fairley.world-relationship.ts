@@ -12,4 +12,6 @@ export const overwhereIiiOswinFairley = {
   ],
   relationshipPoints: 4,
   unrevealed: true,
+  createdAt: "2026-10-02T18:14:16.591Z",
+  updatedAt: "2026-10-02T18:53:46.000Z",
 } as const satisfies WorldRelationship

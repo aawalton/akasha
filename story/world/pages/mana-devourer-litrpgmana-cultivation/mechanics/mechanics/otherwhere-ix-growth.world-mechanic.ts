@@ -7,4 +7,6 @@ export const otherwhereIxGrowth = {
   title: "Growth",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The system's measure of how fast a person's skills and levels rise.",
+  createdAt: "2026-09-28T22:55:33.327Z",
+  updatedAt: "2026-09-28T22:55:36.000Z",
 } as const satisfies WorldMechanic

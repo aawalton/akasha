@@ -8,4 +8,6 @@ export const superSupportivePresixters = {
   world: "world/super-supportive",
   description:
     "Fringe alien-haters who want to delete the System and roll the timeline back to 1959.",
+  createdAt: "2026-09-28T21:44:15.780Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldOrganization

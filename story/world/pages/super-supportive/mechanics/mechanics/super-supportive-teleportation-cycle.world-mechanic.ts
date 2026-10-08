@@ -7,4 +7,6 @@ export const superSupportiveTeleportationCycle = {
   title: "Teleportation cycle",
   world: "world/super-supportive",
   description: "A teleport run between two Contracts, started by the one at each end.",
+  createdAt: "2026-09-28T21:36:25.682Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

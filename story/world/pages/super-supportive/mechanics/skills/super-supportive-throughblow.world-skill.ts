@@ -7,4 +7,6 @@ export const superSupportiveThroughblow = {
   title: "Throughblow",
   world: "world/super-supportive",
   description: "A Meister skill that lands a strike's force on the far side of what is hit.",
+  createdAt: "2026-09-28T21:35:34.466Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

@@ -7,4 +7,6 @@ export const otherwhereXiOrderOfTheBlueRose = {
   title: "The Order of the Blue Rose",
   world: "world/the-calamitous-bob-stubbed",
   description: "The order of knights of New Harrak.",
+  createdAt: "2026-09-29T00:10:26.087Z",
+  updatedAt: "2026-09-29T00:10:51.000Z",
 } as const satisfies WorldOrganization

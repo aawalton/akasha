@@ -7,4 +7,6 @@ export const overwhereIvSpearmanship = {
   title: "Spearmanship",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "Skill with the spear: thrust, guard and reach.",
+  createdAt: "2026-09-30T09:11:35.650Z",
+  updatedAt: "2026-09-30T09:11:38.000Z",
 } as const satisfies WorldSkill

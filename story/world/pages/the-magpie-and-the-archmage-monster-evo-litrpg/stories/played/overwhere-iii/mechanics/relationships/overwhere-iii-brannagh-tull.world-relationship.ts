@@ -12,4 +12,6 @@ export const overwhereIiiBrannaghTull = {
   ],
   relationshipPoints: 22,
   unrevealed: true,
+  createdAt: "2026-09-30T17:17:51.627Z",
+  updatedAt: "2026-10-03T13:08:24.000Z",
 } as const satisfies WorldRelationship

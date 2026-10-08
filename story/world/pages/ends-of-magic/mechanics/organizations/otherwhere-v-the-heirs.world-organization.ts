@@ -7,4 +7,6 @@ export const otherwhereVTheHeirs = {
   title: "The Heirs",
   world: "world/ends-of-magic",
   description: "A team of adventurers.",
+  createdAt: "2026-09-28T21:53:05.633Z",
+  updatedAt: "2026-09-28T21:53:10.000Z",
 } as const satisfies WorldOrganization

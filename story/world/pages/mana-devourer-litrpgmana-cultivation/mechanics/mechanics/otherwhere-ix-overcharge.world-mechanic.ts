@@ -8,4 +8,6 @@ export const otherwhereIxOvercharge = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["overcapacity"],
   description: "The empowered state of a body holding mana past its full capacity.",
+  createdAt: "2026-09-28T22:51:18.569Z",
+  updatedAt: "2026-09-28T22:51:25.000Z",
 } as const satisfies WorldMechanic

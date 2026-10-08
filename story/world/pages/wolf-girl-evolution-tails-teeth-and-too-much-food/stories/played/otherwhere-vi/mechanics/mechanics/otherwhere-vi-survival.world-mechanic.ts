@@ -7,4 +7,6 @@ export const otherwhereViSurvival = {
   title: "Survival",
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
   description: "Thirst, hunger, sleep and cold, and what the wilds do to a body.",
+  createdAt: "2026-09-28T23:02:30.568Z",
+  updatedAt: "2026-09-28T23:02:36.000Z",
 } as const satisfies WorldMechanic

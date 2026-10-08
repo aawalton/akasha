@@ -8,4 +8,6 @@ export const breathOfTheWildSpicySauteedPeppers = {
   world: "world/hyrule",
   description:
     "Three spicy peppers cooked together; restores three hearts and gives level 1 cold resistance for 6:30.",
+  createdAt: "2026-10-03T19:15:51.778Z",
+  updatedAt: "2026-10-03T19:15:54.000Z",
 } as const satisfies WorldRecipe

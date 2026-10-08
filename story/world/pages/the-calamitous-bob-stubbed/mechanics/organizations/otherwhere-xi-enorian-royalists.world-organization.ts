@@ -7,4 +7,6 @@ export const otherwhereXiEnorianRoyalists = {
   title: "The Enorian Royalists",
   world: "world/the-calamitous-bob-stubbed",
   description: "The losing faction of Enoria's civil war, loyal to the old crown.",
+  createdAt: "2026-09-29T00:13:42.833Z",
+  updatedAt: "2026-09-29T00:13:48.000Z",
 } as const satisfies WorldOrganization

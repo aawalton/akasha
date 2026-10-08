@@ -8,4 +8,6 @@ export const superSupportiveMentalTexting = {
   world: "world/super-supportive",
   aliases: ["air texting"],
   description: "Sending texts through the interface by thought, or by typing on air.",
+  createdAt: "2026-09-28T21:36:25.681Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

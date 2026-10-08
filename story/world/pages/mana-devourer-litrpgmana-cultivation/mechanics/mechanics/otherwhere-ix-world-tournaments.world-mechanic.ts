@@ -8,4 +8,6 @@ export const otherwhereIxWorldTournaments = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   description:
     "Cosmic tournaments between gods' Champions that set the rank of each of the eleven worlds.",
+  createdAt: "2026-09-28T22:54:24.374Z",
+  updatedAt: "2026-09-28T22:54:31.000Z",
 } as const satisfies WorldMechanic

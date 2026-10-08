@@ -8,4 +8,6 @@ export const superSupportiveAnesidoranHighCouncil = {
   world: "world/super-supportive",
   aliases: ["council"],
   description: "Anesidora's governing council, with class seats and a President.",
+  createdAt: "2026-09-28T21:35:28.552Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

@@ -7,4 +7,6 @@ export const otherwhereXNobility = {
   title: "Nobility and Noble Customs",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The ranked noble Houses that rule over commoners, and the ways they keep.",
+  createdAt: "2026-09-28T23:57:43.662Z",
+  updatedAt: "2026-09-28T23:57:46.000Z",
 } as const satisfies WorldMechanic

@@ -6,4 +6,6 @@ export const thePaintedFolk = {
   slug: "the-painted-folk",
   title: "The Painted Folk",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:39:53.864Z",
+  updatedAt: "2026-09-19T16:19:01.000Z",
 } as const satisfies WorldReligion

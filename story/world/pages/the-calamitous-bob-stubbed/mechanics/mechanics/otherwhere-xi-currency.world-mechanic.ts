@@ -7,4 +7,6 @@ export const otherwhereXiCurrency = {
   title: "Currency",
   world: "world/the-calamitous-bob-stubbed",
   description: "The coins people pay with.",
+  createdAt: "2026-09-29T00:17:04.321Z",
+  updatedAt: "2026-09-29T00:17:08.000Z",
 } as const satisfies WorldMechanic

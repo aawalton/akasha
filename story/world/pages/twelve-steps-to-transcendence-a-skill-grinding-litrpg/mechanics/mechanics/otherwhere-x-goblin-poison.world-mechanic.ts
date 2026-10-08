@@ -7,4 +7,6 @@ export const otherwhereXGoblinPoison = {
   title: "Goblin Poison",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A numbing poison goblins put on their arrows.",
+  createdAt: "2026-09-28T23:58:27.537Z",
+  updatedAt: "2026-09-28T23:58:31.000Z",
 } as const satisfies WorldMechanic

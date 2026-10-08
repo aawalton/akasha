@@ -7,4 +7,6 @@ export const overwhereIvSenseCasting = {
   title: "Sense Casting",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "Aiming a spell at a spot felt through Spatial Sense rather than seen.",
+  createdAt: "2026-10-02T17:56:50.735Z",
+  updatedAt: "2026-10-02T17:56:57.000Z",
 } as const satisfies WorldSkill

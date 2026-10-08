@@ -7,4 +7,6 @@ export const otherwhereXiSistersOfTheEye = {
   title: "The Sisters of the Eye",
   world: "world/the-calamitous-bob-stubbed",
   description: "An all-woman company of Harrakan crossbow sharpshooters.",
+  createdAt: "2026-09-29T00:09:33.515Z",
+  updatedAt: "2026-09-29T00:09:39.000Z",
 } as const satisfies WorldOrganization

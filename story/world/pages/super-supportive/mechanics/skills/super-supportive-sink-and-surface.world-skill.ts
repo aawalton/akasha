@@ -8,4 +8,6 @@ export const superSupportiveSinkAndSurface = {
   world: "world/super-supportive",
   description:
     "An Aqua Brute skill for sinking deeper, resurfacing faster and moving through water.",
+  createdAt: "2026-09-28T21:41:02.872Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

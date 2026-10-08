@@ -7,4 +7,6 @@ export const otherwhereVQuilbor = {
   title: "Quilbor",
   world: "world/ends-of-magic",
   description: "A seafaring nation.",
+  createdAt: "2026-09-28T21:45:28.495Z",
+  updatedAt: "2026-09-28T21:49:55.000Z",
 } as const satisfies WorldOrganization

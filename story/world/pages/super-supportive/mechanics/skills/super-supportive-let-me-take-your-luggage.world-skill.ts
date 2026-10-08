@@ -9,4 +9,6 @@ export const superSupportiveLetMeTakeYourLuggage = {
   aliases: ["The Bearer of All Burdens", "skill number one hundred and twelve", "One twelve"],
   description:
     "A B-rank Rabbit skill: the Rabbit carries an item that has been entrusted to them, and the item is preserved.",
+  createdAt: "2026-09-28T21:35:34.466Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

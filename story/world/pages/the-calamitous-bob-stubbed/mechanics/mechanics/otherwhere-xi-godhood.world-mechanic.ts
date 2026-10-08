@@ -7,4 +7,6 @@ export const otherwhereXiGodhood = {
   title: "Godhood",
   description: "Being a god.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:15:18.984Z",
+  updatedAt: "2026-09-29T00:15:29.000Z",
 } as const satisfies WorldMechanic

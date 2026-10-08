@@ -7,4 +7,6 @@ export const otherwhereVGemore = {
   title: "Gemore",
   world: "world/ends-of-magic",
   description: "A free city-state.",
+  createdAt: "2026-09-28T21:39:22.442Z",
+  updatedAt: "2026-09-28T21:49:27.000Z",
 } as const satisfies WorldOrganization

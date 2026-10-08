@@ -7,4 +7,6 @@ export const otherwhereXLearningModel = {
   title: "Learning Model",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A simple teaching construct that stores and releases mana.",
+  createdAt: "2026-09-29T00:05:15.690Z",
+  updatedAt: "2026-09-29T00:05:19.000Z",
 } as const satisfies WorldMechanic

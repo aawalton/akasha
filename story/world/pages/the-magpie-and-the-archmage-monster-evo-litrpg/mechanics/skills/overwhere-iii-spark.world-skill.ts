@@ -9,4 +9,6 @@ export const overwhereIiiSpark = {
   description: "A small flame kindled at the fingertip, enough to light a wick or dry tinder.",
   manaCost: 1,
   durationMinutes: 1,
+  createdAt: "2026-09-30T08:49:55.358Z",
+  updatedAt: "2026-09-30T08:49:58.000Z",
 } as const satisfies WorldSkill

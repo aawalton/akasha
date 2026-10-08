@@ -7,4 +7,6 @@ export const otherwhereXiSpellcasting = {
   title: "Spellcasting",
   world: "world/the-calamitous-bob-stubbed",
   description: "The shaping of mana into a working by glyph and will, as schooled mages do it.",
+  createdAt: "2026-09-29T00:17:22.931Z",
+  updatedAt: "2026-09-29T00:17:26.000Z",
 } as const satisfies WorldMechanic

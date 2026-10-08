@@ -7,4 +7,6 @@ export const overwhereIiDepth = {
   title: "Depth",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "How far a person has Descended into the Sea, from Surface down to Ninth Depth.",
+  createdAt: "2026-09-29T12:33:59.210Z",
+  updatedAt: "2026-09-29T12:34:02.000Z",
 } as const satisfies WorldMechanic

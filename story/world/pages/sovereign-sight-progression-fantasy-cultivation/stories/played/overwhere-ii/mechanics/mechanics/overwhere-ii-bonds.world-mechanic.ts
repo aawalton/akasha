@@ -7,4 +7,6 @@ export const overwhereIiBonds = {
   title: "Bonds",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "How close Nala is to one person.",
+  createdAt: "2026-09-29T12:33:59.209Z",
+  updatedAt: "2026-09-29T12:34:02.000Z",
 } as const satisfies WorldMechanic

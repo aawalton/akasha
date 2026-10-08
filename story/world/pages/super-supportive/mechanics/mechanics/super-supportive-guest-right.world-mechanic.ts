@@ -7,4 +7,6 @@ export const superSupportiveGuestRight = {
   title: "guest right",
   world: "world/super-supportive",
   description: "An Artonan household's recognition of someone as its guest.",
+  createdAt: "2026-09-28T21:43:33.026Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldMechanic

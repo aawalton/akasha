@@ -8,4 +8,6 @@ export const otherwhereVContinuanceCouncil = {
   world: "world/ends-of-magic",
   aliases: ["the Continuance Charter"],
   description: "An alliance of many countries.",
+  createdAt: "2026-09-28T21:52:12.951Z",
+  updatedAt: "2026-09-28T21:52:25.000Z",
 } as const satisfies WorldOrganization

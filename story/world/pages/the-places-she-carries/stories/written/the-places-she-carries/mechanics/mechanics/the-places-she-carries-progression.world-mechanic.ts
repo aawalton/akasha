@@ -8,4 +8,6 @@ export const thePlacesSheCarriesProgression = {
   world: "world/the-places-she-carries",
   description:
     "The System names a person's class at their Naming and shows them stat screens. Experience is earned from discoveries, bonds, crafting and firsts, and counts up without resetting; a level is reached at a total, Level 6 at 2573 and Level 7 at 3200. A level can grant stats outright and gives free stat points to place; an achievement can grant a stat for good. Twelve stats in four groups: Physical (VIT, END, DEX), Mental (PER, FOC, MEM), Social (EMP, PRE, RSV) and Exploration (ATT, PTH, ADP).",
+  createdAt: "2026-10-03T19:22:22.859Z",
+  updatedAt: "2026-10-03T19:22:26.000Z",
 } as const satisfies WorldMechanic

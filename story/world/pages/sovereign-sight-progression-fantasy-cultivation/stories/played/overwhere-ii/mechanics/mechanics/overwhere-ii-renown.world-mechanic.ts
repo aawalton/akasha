@@ -7,4 +7,6 @@ export const overwhereIiRenown = {
   title: "Renown",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   description: "How far word of Nala's power has spread, and who has heard it.",
+  createdAt: "2026-09-29T12:33:59.211Z",
+  updatedAt: "2026-09-29T12:34:02.000Z",
 } as const satisfies WorldMechanic

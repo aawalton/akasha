@@ -8,4 +8,6 @@ export const towerAndTheStarTime = {
   world: "world/tower-and-the-star",
   description:
     "The day and hour in the Tower, counted from the evening chapter 1 opens on Floor 7, written as 1 January 2000 on the beats' clock because the prose names no calendar date and dates the climb only by months in the Tower.",
+  createdAt: "2026-10-03T19:31:08.853Z",
+  updatedAt: "2026-10-03T19:31:12.000Z",
 } as const satisfies WorldMechanic

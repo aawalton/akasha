@@ -8,4 +8,6 @@ export const superSupportiveWelcomeEnd = {
   world: "world/super-supportive",
   description:
     "A seasonal celebration where knights acknowledge the Declared who will soon join them.",
+  createdAt: "2026-09-28T21:43:55.443Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldMechanic

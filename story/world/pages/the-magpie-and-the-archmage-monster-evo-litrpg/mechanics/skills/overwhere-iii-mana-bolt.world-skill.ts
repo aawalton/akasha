@@ -8,4 +8,6 @@ export const overwhereIiiManaBolt = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A dart of raw mana thrown from the hand at one target.",
   manaCost: 2,
+  createdAt: "2026-09-30T08:49:55.357Z",
+  updatedAt: "2026-09-30T08:49:58.000Z",
 } as const satisfies WorldSkill

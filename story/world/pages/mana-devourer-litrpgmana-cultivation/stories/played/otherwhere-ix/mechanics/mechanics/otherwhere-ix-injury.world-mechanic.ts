@@ -7,4 +7,6 @@ export const otherwhereIxInjury = {
   title: "Injury",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Being hurt, and healing.",
+  createdAt: "2026-09-28T22:50:14.065Z",
+  updatedAt: "2026-09-28T22:50:28.000Z",
 } as const satisfies WorldMechanic

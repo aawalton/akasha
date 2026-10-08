@@ -9,4 +9,6 @@ export const overwhereIStarfallSurge = {
   description: "Raw element loosed from the reserves as a blast, a ward or a burst of speed.",
   manaCost: 10,
   durationMinutes: 1,
+  createdAt: "2026-09-29T12:16:46.873Z",
+  updatedAt: "2026-09-29T12:16:49.000Z",
 } as const satisfies WorldSkill

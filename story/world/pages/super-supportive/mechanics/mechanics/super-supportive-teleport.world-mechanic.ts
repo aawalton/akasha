@@ -9,4 +9,6 @@ export const superSupportiveTeleport = {
   aliases: ["local teleportation instance", "custom teleport"],
   description:
     "The System moving a person from one place to another after a countdown, with a moment of nausea.",
+  createdAt: "2026-09-28T21:36:25.682Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

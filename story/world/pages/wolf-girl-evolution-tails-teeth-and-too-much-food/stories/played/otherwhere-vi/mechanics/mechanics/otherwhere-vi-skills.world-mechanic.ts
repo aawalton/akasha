@@ -7,4 +7,6 @@ export const otherwhereViSkills = {
   title: "Skills and Traits",
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
   description: "The skills and traits the System lists on a status.",
+  createdAt: "2026-09-28T23:10:00.260Z",
+  updatedAt: "2026-09-28T23:10:07.000Z",
 } as const satisfies WorldMechanic

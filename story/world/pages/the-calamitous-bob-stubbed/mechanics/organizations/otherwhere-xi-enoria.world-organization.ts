@@ -7,4 +7,6 @@ export const otherwhereXiEnoria = {
   title: "The Kingdom of Enoria",
   world: "world/the-calamitous-bob-stubbed",
   description: "A kingdom of central Param.",
+  createdAt: "2026-09-29T00:13:42.833Z",
+  updatedAt: "2026-09-29T00:13:48.000Z",
 } as const satisfies WorldOrganization

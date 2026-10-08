@@ -8,4 +8,6 @@ export const superSupportiveReversion = {
   world: "world/super-supportive",
   aliases: ["healing reversion"],
   description: "A healer's work undoing itself, so a healed injury returns.",
+  createdAt: "2026-09-28T21:40:07.789Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveDeepening = {
   world: "world/super-supportive",
   description:
     "Two knights deliberately deepening their authority connection to become partners who fight side by side for life.",
+  createdAt: "2026-09-28T21:43:55.443Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldMechanic

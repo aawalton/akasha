@@ -9,4 +9,6 @@ export const otherwhereViiWeaponIntent = {
   description: "Mana sent from the hand into a weapon as a blade-sharp edge, even on a stick.",
   manaCost: 4,
   durationMinutes: 5,
+  createdAt: "2026-09-28T23:04:09.372Z",
+  updatedAt: "2026-09-28T23:04:12.000Z",
 } as const satisfies WorldSkill

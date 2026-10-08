@@ -8,4 +8,6 @@ export const superSupportiveRegistration = {
   world: "world/super-supportive",
   aliases: ["registering"],
   description: "A new Avowed's legal declaration of their powers.",
+  createdAt: "2026-09-28T21:33:50.971Z",
+  updatedAt: "2026-09-28T21:33:54.000Z",
 } as const satisfies WorldMechanic

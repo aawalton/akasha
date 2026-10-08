@@ -8,4 +8,6 @@ export const otherwhereIxManaRefinement = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["refining mana"],
   description: "Turning a larger amount of low-grade mana into a smaller amount of higher grade.",
+  createdAt: "2026-09-28T23:04:05.749Z",
+  updatedAt: "2026-09-28T23:04:08.000Z",
 } as const satisfies WorldMechanic

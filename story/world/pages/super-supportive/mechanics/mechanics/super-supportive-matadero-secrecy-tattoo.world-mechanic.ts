@@ -8,4 +8,6 @@ export const superSupportiveMataderoSecrecyTattoo = {
   world: "world/super-supportive",
   description:
     "The standard contract for almost everyone who sees inside Matadero: don't tell people what you've seen there.",
+  createdAt: "2026-09-28T21:45:47.110Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldMechanic

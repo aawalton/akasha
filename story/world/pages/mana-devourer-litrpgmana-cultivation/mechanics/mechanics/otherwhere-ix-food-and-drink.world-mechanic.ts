@@ -7,4 +7,6 @@ export const otherwhereIxFoodAndDrink = {
   title: "Food and Drink",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "What Firrelians eat and drink.",
+  createdAt: "2026-09-28T22:58:18.324Z",
+  updatedAt: "2026-09-28T22:58:25.000Z",
 } as const satisfies WorldMechanic

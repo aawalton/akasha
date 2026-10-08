@@ -8,4 +8,6 @@ export const towerOfNimueEssenceSlots = {
   world: "world/tower-of-nimue",
   description:
     "A climber starts with 3 essence slots. An essence in a slot grants a passive trait and usually an active ability, whose potency scales with ATT and with the essence's rank, about the tier of the floor it came from. Harvesting into an open slot is a free pick. When every slot is full, a new essence permanently displaces one already held, and the discarded essence is lost forever. High ATT against the essence's rank integrates it cleanly; low ATT brings a temporary backlash. Each Gatekeeper, at floors 10, 25, 50 and 75, adds a slot, taking a climber from 3 slots to 7.",
+  createdAt: "2026-09-26T18:12:40.958Z",
+  updatedAt: "2026-09-26T18:12:45.000Z",
 } as const satisfies WorldMechanic

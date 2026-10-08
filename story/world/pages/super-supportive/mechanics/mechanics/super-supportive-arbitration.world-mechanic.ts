@@ -8,4 +8,6 @@ export const superSupportiveArbitration = {
   world: "world/super-supportive",
   aliases: ["arbitrator"],
   description: "A review of a dispute between an Avowed and a summoner, made by an arbitrator.",
+  createdAt: "2026-09-28T21:35:33.825Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

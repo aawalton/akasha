@@ -8,4 +8,6 @@ export const superSupportiveLevel = {
   world: "world/super-supportive",
   aliases: ["overall level", "skill level"],
   description: "The number a skill, or an Avowed as a whole, has reached by leveling.",
+  createdAt: "2026-09-28T21:42:11.194Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

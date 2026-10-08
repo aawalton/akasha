@@ -8,4 +8,6 @@ export const otherwhereIxZones = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   description:
     "Graded regions of Firrelia walled off by colored magical barriers, each held by a god.",
+  createdAt: "2026-09-28T22:56:34.869Z",
+  updatedAt: "2026-09-28T22:56:43.000Z",
 } as const satisfies WorldMechanic

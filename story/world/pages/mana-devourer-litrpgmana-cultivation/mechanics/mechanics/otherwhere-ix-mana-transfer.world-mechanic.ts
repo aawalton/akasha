@@ -8,4 +8,6 @@ export const otherwhereIxManaTransfer = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["mana draining", "feeding mana"],
   description: "Passing mana from one being or vessel into another.",
+  createdAt: "2026-09-28T22:53:32.400Z",
+  updatedAt: "2026-09-28T22:53:47.000Z",
 } as const satisfies WorldMechanic

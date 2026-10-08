@@ -7,4 +7,6 @@ export const otherwhereIxInventory = {
   title: "Inventory",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A storage space held within the system, divided into squares.",
+  createdAt: "2026-09-28T23:05:13.026Z",
+  updatedAt: "2026-09-28T23:05:17.000Z",
 } as const satisfies WorldMechanic

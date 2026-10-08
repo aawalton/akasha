@@ -8,4 +8,6 @@ export const otherwhereIxSpellcasting = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["spells", "conduits", "runes", "rune tattoos", "incantations"],
   description: "Working magic through learned spells, conduits, runes and spoken words.",
+  createdAt: "2026-09-28T22:56:03.144Z",
+  updatedAt: "2026-09-28T22:56:11.000Z",
 } as const satisfies WorldMechanic

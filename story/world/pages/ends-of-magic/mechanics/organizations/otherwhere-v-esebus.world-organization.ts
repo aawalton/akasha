@@ -7,4 +7,6 @@ export const otherwhereVEsebus = {
   title: "Esebus",
   world: "world/ends-of-magic",
   description: "An imperial nation.",
+  createdAt: "2026-09-28T21:43:07.810Z",
+  updatedAt: "2026-09-28T21:49:55.000Z",
 } as const satisfies WorldOrganization

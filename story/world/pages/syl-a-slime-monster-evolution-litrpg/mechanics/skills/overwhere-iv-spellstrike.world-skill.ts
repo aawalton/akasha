@@ -9,4 +9,6 @@ export const overwhereIvSpellstrike = {
   description: "A Spellblade skill: a spell worked through a held weapon's blow, for less mana.",
   manaCost: 0,
   durationMinutes: 0,
+  createdAt: "2026-09-30T19:35:30.332Z",
+  updatedAt: "2026-09-30T19:35:33.000Z",
 } as const satisfies WorldSkill

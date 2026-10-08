@@ -8,4 +8,6 @@ export const superSupportiveTriplanetaryGovernment = {
   world: "world/super-supportive",
   aliases: ["the Triplanets"],
   description: "The government of the Artonan worlds.",
+  createdAt: "2026-09-28T21:35:28.553Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

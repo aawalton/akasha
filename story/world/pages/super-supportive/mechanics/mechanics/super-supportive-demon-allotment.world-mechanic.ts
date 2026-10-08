@@ -8,4 +8,6 @@ export const superSupportiveDemonAllotment = {
   world: "world/super-supportive",
   aliases: ["annual demon", "Demon Day", "demon-squashing event"],
   description: "The one or two demons a year that Earth must deal with.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

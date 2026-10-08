@@ -8,4 +8,6 @@ export const otherwhereIxMagulEmpire = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["King Magul's kingdom"],
   description: "The kingdom of King Magul and his dynasty, spanning the Malar Zone and Materia.",
+  createdAt: "2026-09-28T22:58:39.824Z",
+  updatedAt: "2026-09-28T22:58:44.000Z",
 } as const satisfies WorldOrganization

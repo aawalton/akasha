@@ -10,4 +10,6 @@ export const overwhereIiiCleansingWeave = {
     "A thread of holy current drawn through blight, unpicking it strand by strand with a slow white-gold light.",
   manaCost: 3,
   durationMinutes: 5,
+  createdAt: "2026-09-30T11:27:09.079Z",
+  updatedAt: "2026-09-30T11:27:18.000Z",
 } as const satisfies WorldSkill

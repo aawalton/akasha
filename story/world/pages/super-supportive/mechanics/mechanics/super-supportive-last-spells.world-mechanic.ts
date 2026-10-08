@@ -9,4 +9,6 @@ export const superSupportiveLastSpells = {
   aliases: ["final spell"],
   description:
     "A celebration before a first binding where friends watch a wizard's last spells as an unbound caster.",
+  createdAt: "2026-09-28T21:43:55.443Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldMechanic

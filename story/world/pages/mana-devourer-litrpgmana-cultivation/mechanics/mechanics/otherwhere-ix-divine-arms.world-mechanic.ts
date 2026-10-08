@@ -8,4 +8,6 @@ export const otherwhereIxDivineArms = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   description:
     "Divine artifacts of Creation Mana that gods wield and that can raise a bearer to godhood.",
+  createdAt: "2026-09-28T22:55:28.751Z",
+  updatedAt: "2026-09-28T22:55:32.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const superSupportiveContractRecitation = {
   title: "Contract recitation",
   world: "world/super-supportive",
   description: "A ceremony where adults repeat a pledge to the Contract and touch a glass panel.",
+  createdAt: "2026-09-28T21:36:25.681Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

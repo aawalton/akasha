@@ -7,4 +7,6 @@ export const otherwhereIxFirrelia = {
   title: "Firrelia",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Firrelia, the First World, the lowest-ranked of the eleven worlds.",
+  createdAt: "2026-09-28T22:52:11.527Z",
+  updatedAt: "2026-09-28T22:52:17.000Z",
 } as const satisfies WorldMechanic

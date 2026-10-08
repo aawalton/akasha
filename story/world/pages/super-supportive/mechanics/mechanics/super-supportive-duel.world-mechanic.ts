@@ -9,4 +9,6 @@ export const superSupportiveDuel = {
   aliases: ["duel", "territory claim game"],
   description:
     "A timed one-on-one gym duel in a walled block, with an objective set by the System.",
+  createdAt: "2026-09-28T21:43:33.026Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const otherwhereIxCompoundSkills = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   description:
     "A new skill forged from two or more existing skills that are forgotten in the making.",
+  createdAt: "2026-09-28T23:01:11.168Z",
+  updatedAt: "2026-09-28T23:01:17.000Z",
 } as const satisfies WorldMechanic

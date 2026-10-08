@@ -7,4 +7,6 @@ export const otherwhereXPortals = {
   title: "Spatial Portals and Teleporting",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Magic that moves people across great distances in an instant.",
+  createdAt: "2026-09-28T23:56:52.879Z",
+  updatedAt: "2026-09-28T23:56:55.000Z",
 } as const satisfies WorldMechanic

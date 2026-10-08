@@ -7,4 +7,6 @@ export const otherwhereXAscension = {
   title: "The Path of Ascension",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The lifelong climb up the Tiers toward ever greater power.",
+  createdAt: "2026-09-28T23:58:19.632Z",
+  updatedAt: "2026-09-28T23:58:22.000Z",
 } as const satisfies WorldMechanic

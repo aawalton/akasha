@@ -8,4 +8,6 @@ export const superSupportiveCnhHeroAdmissions = {
   world: "world/super-supportive",
   aliases: ["test day"],
   description: "A day of tests for entering Celena North's hero track.",
+  createdAt: "2026-09-28T21:36:25.681Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

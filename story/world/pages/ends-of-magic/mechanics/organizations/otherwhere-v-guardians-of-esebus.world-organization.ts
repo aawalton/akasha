@@ -8,4 +8,6 @@ export const otherwhereVGuardiansOfEsebus = {
   world: "world/ends-of-magic",
   aliases: ["Esebus soldiers"],
   description: "A corps of flying soldiers.",
+  createdAt: "2026-09-28T21:43:07.810Z",
+  updatedAt: "2026-09-28T21:49:55.000Z",
 } as const satisfies WorldOrganization

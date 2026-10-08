@@ -7,4 +7,6 @@ export const otherwhereXEssence = {
   title: "Essence",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The refined energy a body gathers to grow stronger.",
+  createdAt: "2026-09-28T23:57:28.008Z",
+  updatedAt: "2026-09-28T23:57:31.000Z",
 } as const satisfies WorldMechanic

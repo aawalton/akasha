@@ -8,4 +8,6 @@ export const superSupportiveFlightLicense = {
   world: "world/super-supportive",
   aliases: ["flare your license", "Special circumstances cookie license"],
   description: "SkySea's permission to fly on Anesidora.",
+  createdAt: "2026-09-28T21:43:33.026Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldMechanic

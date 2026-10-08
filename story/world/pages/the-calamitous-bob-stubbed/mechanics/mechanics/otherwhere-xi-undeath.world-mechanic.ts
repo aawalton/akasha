@@ -7,4 +7,6 @@ export const otherwhereXiUndeath = {
   title: "Undeath",
   world: "world/the-calamitous-bob-stubbed",
   description: "The dead rising again to walk as undead.",
+  createdAt: "2026-09-29T00:17:04.321Z",
+  updatedAt: "2026-09-29T00:17:08.000Z",
 } as const satisfies WorldMechanic

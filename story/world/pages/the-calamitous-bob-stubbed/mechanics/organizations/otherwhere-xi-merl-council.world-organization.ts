@@ -7,4 +7,6 @@ export const otherwhereXiMerlCouncil = {
   title: "The Merl Council of Sikoua",
   world: "world/the-calamitous-bob-stubbed",
   description: "The council that governs the merl city of Sikoua.",
+  createdAt: "2026-09-29T00:18:09.511Z",
+  updatedAt: "2026-09-29T00:18:13.000Z",
 } as const satisfies WorldOrganization

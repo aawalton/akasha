@@ -7,4 +7,6 @@ export const otherwhereVSeveranceBloc = {
   title: "The Severance Bloc",
   world: "world/ends-of-magic",
   description: "A faction of Questors.",
+  createdAt: "2026-09-28T21:52:12.951Z",
+  updatedAt: "2026-09-28T21:52:25.000Z",
 } as const satisfies WorldOrganization

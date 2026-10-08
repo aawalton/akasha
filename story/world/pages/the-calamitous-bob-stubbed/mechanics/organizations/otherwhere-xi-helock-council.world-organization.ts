@@ -7,4 +7,6 @@ export const otherwhereXiHelockCouncil = {
   title: "The Council of Helock",
   world: "world/the-calamitous-bob-stubbed",
   description: "The governing council of the free city of Helock.",
+  createdAt: "2026-09-29T00:16:52.256Z",
+  updatedAt: "2026-09-29T00:16:57.000Z",
 } as const satisfies WorldOrganization

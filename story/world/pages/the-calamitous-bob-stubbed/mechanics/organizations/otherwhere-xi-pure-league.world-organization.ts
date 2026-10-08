@@ -7,4 +7,6 @@ export const otherwhereXiPureLeague = {
   title: "The Pure League",
   world: "world/the-calamitous-bob-stubbed",
   description: "A human-supremacist league of northern cities.",
+  createdAt: "2026-09-29T00:11:37.161Z",
+  updatedAt: "2026-09-29T00:11:49.000Z",
 } as const satisfies WorldOrganization

@@ -6,4 +6,6 @@ export const infamyNowMyFame = {
   slug: "infamy-now-my-fame",
   title: "Infamy, Now My Fame",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:39:53.864Z",
+  updatedAt: "2026-09-19T16:19:20.000Z",
 } as const satisfies WorldReputation

@@ -7,4 +7,6 @@ export const otherwhereXProgression = {
   title: "Progression",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Getting stronger and more skilled.",
+  createdAt: "2026-09-29T00:03:59.293Z",
+  updatedAt: "2026-09-29T00:04:17.000Z",
 } as const satisfies WorldMechanic

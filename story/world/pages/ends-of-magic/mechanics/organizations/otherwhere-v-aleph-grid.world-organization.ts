@@ -7,4 +7,6 @@ export const otherwhereVAlephGrid = {
   title: "The Aleph Grid",
   world: "world/ends-of-magic",
   description: "A large grid of Questor mages.",
+  createdAt: "2026-09-28T21:48:16.465Z",
+  updatedAt: "2026-09-28T21:48:19.000Z",
 } as const satisfies WorldOrganization

@@ -8,4 +8,6 @@ export const otherwhereIvImperialRealm = {
   world: "world/beware-of-chicken",
   description: "A cultivator whose clash with another can scar the land for thousands of li.",
   place: 6,
+  createdAt: "2026-09-28T21:48:43.304Z",
+  updatedAt: "2026-09-28T21:48:49.000Z",
 } as const satisfies WorldRank

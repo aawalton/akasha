@@ -7,4 +7,6 @@ export const otherwhereXHouseVane = {
   title: "House Vane",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "An old, high-ranking noble House of the Western Plains.",
+  createdAt: "2026-09-29T00:03:24.171Z",
+  updatedAt: "2026-09-29T00:03:27.000Z",
 } as const satisfies WorldOrganization

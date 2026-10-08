@@ -7,4 +7,6 @@ export const otherwhereXiBaran = {
   title: "The Kingdom of Baran",
   world: "world/the-calamitous-bob-stubbed",
   description: "A rich northern kingdom with Param's strongest army.",
+  createdAt: "2026-09-29T00:14:28.721Z",
+  updatedAt: "2026-09-29T00:14:40.000Z",
 } as const satisfies WorldOrganization

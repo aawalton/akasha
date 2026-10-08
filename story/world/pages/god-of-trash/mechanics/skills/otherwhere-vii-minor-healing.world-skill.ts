@@ -8,4 +8,6 @@ export const otherwhereViiMinorHealing = {
   world: "world/god-of-trash",
   description: "A hand's warmth of mana that knits a small wound or eases a common illness.",
   manaCost: 5,
+  createdAt: "2026-09-28T23:04:09.372Z",
+  updatedAt: "2026-09-28T23:04:12.000Z",
 } as const satisfies WorldSkill

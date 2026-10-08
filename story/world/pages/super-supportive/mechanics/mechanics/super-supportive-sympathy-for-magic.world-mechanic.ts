@@ -8,4 +8,6 @@ export const superSupportiveSympathyForMagic = {
   world: "world/super-supportive",
   description:
     "A stat that makes magical objects easier to use and pulls the mind toward magic items and sigils.",
+  createdAt: "2026-09-28T21:42:11.195Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveContractVerifiedProfile = {
   world: "world/super-supportive",
   aliases: ["Avowed profile", "Share Contract Verified Information"],
   description: "An Avowed's official profile of rank, level, skills, spells and stats.",
+  createdAt: "2026-09-28T21:36:25.681Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

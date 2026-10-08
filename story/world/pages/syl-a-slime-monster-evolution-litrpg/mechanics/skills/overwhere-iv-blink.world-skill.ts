@@ -10,4 +10,6 @@ export const overwhereIvBlink = {
     "A spell of Dimension Magic: a step through space to a spot in sight, with no ground between.",
   manaCost: 5,
   durationMinutes: 0,
+  createdAt: "2026-09-29T12:20:31.322Z",
+  updatedAt: "2026-09-29T12:20:34.000Z",
 } as const satisfies WorldSkill

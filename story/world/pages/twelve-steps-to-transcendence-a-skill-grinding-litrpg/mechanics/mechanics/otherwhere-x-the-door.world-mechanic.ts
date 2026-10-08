@@ -7,4 +7,6 @@ export const otherwhereXTheDoor = {
   title: "The Door",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A door the mind meets deep within itself when advancing.",
+  createdAt: "2026-09-28T23:58:19.632Z",
+  updatedAt: "2026-09-28T23:58:22.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereXiSkillRanks = {
   title: "Skill Ranks",
   world: "world/the-calamitous-bob-stubbed",
   description: "The named and numbered grades a skill climbs through.",
+  createdAt: "2026-09-29T00:01:46.716Z",
+  updatedAt: "2026-09-29T00:01:50.000Z",
 } as const satisfies WorldMechanic

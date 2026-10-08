@@ -8,4 +8,6 @@ export const superSupportiveQuiescence = {
   world: "world/super-supportive",
   aliases: ["quiescence", "quiescent"],
   description: "Holding one's authority still and quiet so as not to be noticed.",
+  createdAt: "2026-09-28T21:43:02.946Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldMechanic

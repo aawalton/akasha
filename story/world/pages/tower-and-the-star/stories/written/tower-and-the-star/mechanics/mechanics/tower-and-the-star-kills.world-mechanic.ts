@@ -8,4 +8,6 @@ export const towerAndTheStarKills = {
   world: "world/tower-and-the-star",
   description:
     "The System counts a floor's kills as enemies defeated over the floor's total. Killing every one is a Full Clear, a bonus objective with its own reward.",
+  createdAt: "2026-10-03T19:31:08.853Z",
+  updatedAt: "2026-10-03T19:31:12.000Z",
 } as const satisfies WorldMechanic

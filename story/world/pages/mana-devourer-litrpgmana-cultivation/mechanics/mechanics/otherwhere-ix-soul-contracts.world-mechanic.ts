@@ -7,4 +7,6 @@ export const otherwhereIxSoulContracts = {
   title: "Soul Contracts",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A system contract that binds a soul to the will of its holder.",
+  createdAt: "2026-09-28T22:52:03.618Z",
+  updatedAt: "2026-09-28T22:52:09.000Z",
 } as const satisfies WorldMechanic

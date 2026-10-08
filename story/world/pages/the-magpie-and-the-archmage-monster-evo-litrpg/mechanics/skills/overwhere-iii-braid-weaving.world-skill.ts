@@ -9,4 +9,6 @@ export const overwhereIiiBraidWeaving = {
   description:
     "Twining a weave onto a lent current, so the weave rides the current to where it is sent.",
   manaCost: 0,
+  createdAt: "2026-10-02T18:28:53.799Z",
+  updatedAt: "2026-10-02T18:28:57.000Z",
 } as const satisfies WorldSkill

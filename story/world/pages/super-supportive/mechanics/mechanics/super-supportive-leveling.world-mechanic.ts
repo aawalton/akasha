@@ -8,4 +8,6 @@ export const superSupportiveLeveling = {
   world: "world/super-supportive",
   aliases: ["level up"],
   description: "The way an Avowed's talents grow, one level at a time.",
+  createdAt: "2026-09-28T21:33:50.971Z",
+  updatedAt: "2026-09-28T21:33:54.000Z",
 } as const satisfies WorldMechanic

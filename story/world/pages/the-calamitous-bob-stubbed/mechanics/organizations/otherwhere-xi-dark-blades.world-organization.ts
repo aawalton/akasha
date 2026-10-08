@@ -7,4 +7,6 @@ export const otherwhereXiDarkBlades = {
   title: "The Dark Blades",
   world: "world/the-calamitous-bob-stubbed",
   description: "A guild of trained assassins serving Luten.",
+  createdAt: "2026-09-29T00:12:47.767Z",
+  updatedAt: "2026-09-29T00:12:53.000Z",
 } as const satisfies WorldOrganization

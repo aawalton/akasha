@@ -8,4 +8,6 @@ export const superSupportiveEmergencySummons = {
   world: "world/super-supportive",
   aliases: ["emergency teleport"],
   description: "A summons that takes an Avowed instantly.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

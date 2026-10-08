@@ -7,4 +7,6 @@ export const otherwhereViEating = {
   title: "Eating and Consuming",
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
   description: "What a meal, a beast's meat or a monster's core does to the one who eats it.",
+  createdAt: "2026-09-28T23:10:29.105Z",
+  updatedAt: "2026-09-28T23:10:32.000Z",
 } as const satisfies WorldMechanic

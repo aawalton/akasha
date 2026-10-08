@@ -7,4 +7,6 @@ export const otherwhereXiInBetween = {
   title: "The In-Between",
   description: "The realm of souls, where gods and the dead are.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:14:12.216Z",
+  updatedAt: "2026-09-29T00:14:19.000Z",
 } as const satisfies WorldMechanic

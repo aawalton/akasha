@@ -7,4 +7,6 @@ export const otherwhereIxEleva = {
   title: "Eleva",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Eleva, the eleventh and highest of the eleven worlds, the paradise of the gods.",
+  createdAt: "2026-09-28T22:54:24.374Z",
+  updatedAt: "2026-09-28T22:54:31.000Z",
 } as const satisfies WorldMechanic

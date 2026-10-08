@@ -8,4 +8,6 @@ export const superSupportiveChaos = {
   world: "world/super-supportive",
   aliases: ["magi-chaos", "corruption"],
   description: "The disorder demons come from, which breaks down things and reality.",
+  createdAt: "2026-09-28T21:35:33.825Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

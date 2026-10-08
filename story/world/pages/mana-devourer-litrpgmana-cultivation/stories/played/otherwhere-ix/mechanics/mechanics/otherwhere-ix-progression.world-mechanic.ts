@@ -7,4 +7,6 @@ export const otherwhereIxProgression = {
   title: "Progression",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Getting stronger and more skilled.",
+  createdAt: "2026-09-28T23:00:15.052Z",
+  updatedAt: "2026-09-28T23:00:24.000Z",
 } as const satisfies WorldMechanic

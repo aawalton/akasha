@@ -7,4 +7,6 @@ export const otherwhereXiHarrakanRemnants = {
   title: "The Remnant Empire",
   world: "world/the-calamitous-bob-stubbed",
   description: "A Harrakan successor state of the southern Remnants.",
+  createdAt: "2026-09-29T00:21:00.407Z",
+  updatedAt: "2026-09-29T00:21:04.000Z",
 } as const satisfies WorldOrganization

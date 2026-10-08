@@ -8,4 +8,6 @@ export const otherwhereIxMana = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["mana core", "mana kinds"],
   description: "The energy that runs through all things and powers magic.",
+  createdAt: "2026-09-28T22:49:01.715Z",
+  updatedAt: "2026-09-28T22:49:09.000Z",
 } as const satisfies WorldMechanic

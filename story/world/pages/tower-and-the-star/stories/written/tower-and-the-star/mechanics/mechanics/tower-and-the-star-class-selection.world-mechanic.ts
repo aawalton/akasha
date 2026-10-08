@@ -8,4 +8,6 @@ export const towerAndTheStarClassSelection = {
   world: "world/tower-and-the-star",
   description:
     "Each climber has held a class since Month 1. Class Selection, reached by defeating the Floor 10 Major Boss, confirms each climber's class as its Advanced-tier designation.",
+  createdAt: "2026-10-03T19:31:08.853Z",
+  updatedAt: "2026-10-03T19:31:12.000Z",
 } as const satisfies WorldMechanic

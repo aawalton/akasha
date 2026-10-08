@@ -7,4 +7,6 @@ export const otherwhereIxAttributes = {
   title: "Attributes",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The scored qualities of body and mind that the system measures in each person.",
+  createdAt: "2026-09-28T22:53:05.414Z",
+  updatedAt: "2026-09-28T22:53:18.000Z",
 } as const satisfies WorldMechanic

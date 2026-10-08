@@ -9,4 +9,6 @@ export const overwhereIiiHildWendle = {
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-hild-wendle"],
   relationshipPoints: 7,
   unrevealed: true,
+  createdAt: "2026-09-30T20:37:33.091Z",
+  updatedAt: "2026-09-30T22:31:51.000Z",
 } as const satisfies WorldRelationship

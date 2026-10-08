@@ -8,4 +8,6 @@ export const otherwhereIvMortal = {
   world: "world/beware-of-chicken",
   description: "A body with no Qi of its own gathered, as nearly everyone is.",
   place: 0,
+  createdAt: "2026-09-28T21:48:43.305Z",
+  updatedAt: "2026-09-28T21:48:49.000Z",
 } as const satisfies WorldRank

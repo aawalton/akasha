@@ -7,4 +7,6 @@ export const fairweatherHold = {
   title: "Hold",
   world: "world/fairweather",
   description: "An Enthraller skill that holds a person fast where they are.",
+  createdAt: "2026-10-03T14:09:07.146Z",
+  updatedAt: "2026-10-03T14:09:17.000Z",
 } as const satisfies WorldSkill

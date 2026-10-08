@@ -8,4 +8,6 @@ export const otherwhereIxClasses = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   description:
     "The chosen callings the system levels a person in, each with its own skills and gains.",
+  createdAt: "2026-09-28T23:03:29.303Z",
+  updatedAt: "2026-09-28T23:03:33.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereXiMilestones = {
   title: "Milestones",
   world: "world/the-calamitous-bob-stubbed",
   description: "A leap in what a stat gives, reached at each multiple of ten.",
+  createdAt: "2026-09-29T00:00:34.023Z",
+  updatedAt: "2026-09-29T00:00:36.000Z",
 } as const satisfies WorldMechanic

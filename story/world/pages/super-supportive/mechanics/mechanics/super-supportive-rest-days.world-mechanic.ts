@@ -8,4 +8,6 @@ export const superSupportiveRestDays = {
   world: "world/super-supportive",
   aliases: ["downtime", "vacation days"],
   description: "Time off from summons, earned by days spent summoned and able to be banked.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

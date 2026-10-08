@@ -8,4 +8,6 @@ export const superSupportiveMarriageContract = {
   world: "world/super-supportive",
   aliases: ["relationship contract"],
   description: "An Artonan magical contract of marriage, whose terms vary greatly.",
+  createdAt: "2026-09-28T21:45:47.110Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldMechanic

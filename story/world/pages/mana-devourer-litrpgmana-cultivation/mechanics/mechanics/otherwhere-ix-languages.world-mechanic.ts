@@ -7,4 +7,6 @@ export const otherwhereIxLanguages = {
   title: "Languages",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The tongues and scripts spoken and written on Firrelia.",
+  createdAt: "2026-09-28T22:55:41.631Z",
+  updatedAt: "2026-09-28T22:55:45.000Z",
 } as const satisfies WorldMechanic

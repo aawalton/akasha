@@ -7,4 +7,6 @@ export const superSupportiveClassShift = {
   title: "class shift",
   world: "world/super-supportive",
   description: "An Artonan moving from their birth class into the other class.",
+  createdAt: "2026-09-28T21:40:07.789Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldMechanic

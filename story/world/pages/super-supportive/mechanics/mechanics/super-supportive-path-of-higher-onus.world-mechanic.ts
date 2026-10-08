@@ -9,4 +9,6 @@ export const superSupportivePathOfHigherOnus = {
   aliases: ["path of highest onus"],
   description:
     "An Artonan name for a life path of heavier burden; the knight's path is the path of highest onus.",
+  createdAt: "2026-09-28T21:40:07.789Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldMechanic

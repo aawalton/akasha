@@ -10,4 +10,6 @@ export const overwhereIvSpatialSense = {
     "A sense of space: the shape of every body and hollow a few paces around her, felt without looking.",
   manaCost: 2,
   durationMinutes: 1,
+  createdAt: "2026-09-29T12:37:07.816Z",
+  updatedAt: "2026-09-30T18:34:31.000Z",
 } as const satisfies WorldSkill

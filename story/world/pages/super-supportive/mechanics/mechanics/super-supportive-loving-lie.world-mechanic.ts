@@ -7,4 +7,6 @@ export const superSupportiveLovingLie = {
   title: "Loving lie",
   world: "world/super-supportive",
   description: "An Artonan custom of telling children kind lies as an act of love.",
+  createdAt: "2026-09-28T21:36:47.778Z",
+  updatedAt: "2026-09-28T21:36:50.000Z",
 } as const satisfies WorldMechanic

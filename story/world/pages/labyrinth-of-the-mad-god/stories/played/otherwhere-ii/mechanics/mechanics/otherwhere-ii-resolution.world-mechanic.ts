@@ -7,4 +7,6 @@ export const otherwhereIiResolution = {
   title: "Resolution",
   world: "world/labyrinth-of-the-mad-god",
   description: "Whether what Nala tries comes off: well, at a price, or not at all.",
+  createdAt: "2026-09-28T19:52:48.999Z",
+  updatedAt: "2026-09-28T22:39:05.000Z",
 } as const satisfies WorldMechanic

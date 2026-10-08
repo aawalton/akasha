@@ -9,4 +9,6 @@ export const superSupportivePerception = {
   aliases: ["perception"],
   description:
     "The rule that how a person perceives their skill shapes what it can do almost as much as the skill itself.",
+  createdAt: "2026-09-28T21:34:42.271Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

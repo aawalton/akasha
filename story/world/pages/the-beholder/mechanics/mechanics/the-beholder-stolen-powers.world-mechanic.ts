@@ -8,4 +8,6 @@ export const theBeholderStolenPowers = {
   world: "world/the-beholder",
   description:
     "The Onset surfaced a few years ago, and most people never awaken: they have attributes and nothing more. Only the Awakened carry a power, so a power can be stolen only from someone who has one, while attributes can be stolen from anyone. A stolen power enters at 10% of the victim's mastery and grows only by stealing more of the same power, adding 10% of each later owner's mastery. It has no ranks and is not honed by use. Will multiplies its output on top, and there is no ceiling on how many powers she holds. Powers are rare, and most victims yield attributes only.",
+  createdAt: "2026-09-26T18:14:53.730Z",
+  updatedAt: "2026-09-26T18:14:58.000Z",
 } as const satisfies WorldMechanic

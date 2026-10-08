@@ -7,4 +7,6 @@ export const overwhereIvProgression = {
   title: "Progression",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "How a person grows: race and class levels, traits, skills, points and Emblems.",
+  createdAt: "2026-09-29T12:33:53.075Z",
+  updatedAt: "2026-09-29T12:33:56.000Z",
 } as const satisfies WorldMechanic

@@ -9,4 +9,6 @@ export const otherwhereViiiHallick = {
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-hallick"],
   relationshipPoints: 8,
   unrevealed: true,
+  createdAt: "2026-09-29T01:17:26.959Z",
+  updatedAt: "2026-09-30T07:31:14.000Z",
 } as const satisfies WorldRelationship

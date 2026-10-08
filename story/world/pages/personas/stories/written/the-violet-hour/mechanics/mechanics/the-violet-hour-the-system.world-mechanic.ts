@@ -8,4 +8,6 @@ export const theVioletHourTheSystem = {
   world: "world/personas",
   description:
     "The quiet power at the waystation by the lake that notices each small kindness a traveler does for themself and marks it with a soft chime: a named stat and its new level, such as Rest, level one. It never fights or warns, and its chimes grow quieter as the traveler settles. Each stat a traveler gains is a number of its own that starts at level one and rises one level at a time.",
+  createdAt: "2026-10-03T20:32:06.524Z",
+  updatedAt: "2026-10-03T20:32:09.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const superSupportiveDragonsAbove = {
   title: "Dragons Above",
   world: "world/super-supportive",
   description: "A club for S-rank Rabbits only.",
+  createdAt: "2026-09-28T21:45:47.111Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldOrganization

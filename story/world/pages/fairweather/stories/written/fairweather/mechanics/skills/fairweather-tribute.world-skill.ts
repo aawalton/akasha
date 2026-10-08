@@ -8,4 +8,6 @@ export const fairweatherTribute = {
   world: "world/fairweather",
   description:
     "A passive Enthraller skill, gained at level 5: what is given is given back. Devotion reaches every attribute. For each bond Elsie holds, in each of the four attributes other than the bond's attribute, Elsie and that girl each add half of Devotion's share of the higher of their two bases in that attribute, rounded down. So a bond of 60 with Tilly, whose Grace base is 5 to Elsie's 2, adds 30% of 5, rounded down to 1, to the Grace of each.",
+  createdAt: "2026-10-04T12:34:12.682Z",
+  updatedAt: "2026-10-04T12:34:16.000Z",
 } as const satisfies WorldSkill

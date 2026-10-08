@@ -8,4 +8,6 @@ export const superSupportiveRankClubs = {
   world: "world/super-supportive",
   aliases: ["B-list"],
   description: "A Celena North club for B-rank hero students.",
+  createdAt: "2026-09-28T21:35:28.552Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

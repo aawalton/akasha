@@ -8,4 +8,6 @@ export const superSupportiveAuthorityControl = {
   world: "world/super-supportive",
   aliases: ["patting", "existential fist bump", "wizard pat"],
   description: "Moving one's own authority on purpose.",
+  createdAt: "2026-09-28T21:34:42.269Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveNumberOne = {
   world: "world/super-supportive",
   description:
     "An S-rank Chainer skill that speeds a wordchain up so it hits harder and lasts shorter.",
+  createdAt: "2026-09-28T21:41:02.871Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

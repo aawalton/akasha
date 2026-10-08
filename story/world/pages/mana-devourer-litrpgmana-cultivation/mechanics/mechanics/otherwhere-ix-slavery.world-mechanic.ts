@@ -7,4 +7,6 @@ export const otherwhereIxSlavery = {
   title: "Slavery",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The owning, buying and selling of people and creatures.",
+  createdAt: "2026-09-28T22:49:42.931Z",
+  updatedAt: "2026-09-28T22:49:47.000Z",
 } as const satisfies WorldMechanic

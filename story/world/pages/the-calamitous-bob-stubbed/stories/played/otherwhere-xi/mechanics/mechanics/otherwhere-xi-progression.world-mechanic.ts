@@ -7,4 +7,6 @@ export const otherwhereXiProgression = {
   title: "Progression",
   world: "world/the-calamitous-bob-stubbed",
   description: "How a person grows stronger: stats, skills, attunement and path.",
+  createdAt: "2026-09-29T00:16:15.198Z",
+  updatedAt: "2026-09-29T00:16:28.000Z",
 } as const satisfies WorldMechanic

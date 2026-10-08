@@ -8,4 +8,6 @@ export const otherwhereIxElevenWorlds = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   description:
     "The eleven ranked worlds of one solar system, from Firrelia at the bottom to Eleva at the top.",
+  createdAt: "2026-09-28T22:52:11.527Z",
+  updatedAt: "2026-09-28T22:52:17.000Z",
 } as const satisfies WorldMechanic

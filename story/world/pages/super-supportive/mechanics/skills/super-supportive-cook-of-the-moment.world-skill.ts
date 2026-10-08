@@ -8,4 +8,6 @@ export const superSupportiveCookOfTheMoment = {
   world: "world/super-supportive",
   description:
     "An S-rank Rabbit skill for cooking food that tastes like remembered comfort and smells like happiness.",
+  createdAt: "2026-09-28T21:35:34.465Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

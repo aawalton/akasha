@@ -7,4 +7,6 @@ export const otherwhereIxStatus = {
   title: "Status",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The screen the system shows of a person's measure.",
+  createdAt: "2026-09-28T22:51:32.184Z",
+  updatedAt: "2026-09-28T22:51:36.000Z",
 } as const satisfies WorldMechanic

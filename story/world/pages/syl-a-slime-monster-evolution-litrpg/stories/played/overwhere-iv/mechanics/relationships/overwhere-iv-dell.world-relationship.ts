@@ -9,4 +9,6 @@ export const overwhereIvDell = {
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-dell"],
   relationshipPoints: 1,
   unrevealed: true,
+  createdAt: "2026-09-30T11:15:36.569Z",
+  updatedAt: "2026-09-30T11:15:45.000Z",
 } as const satisfies WorldRelationship

@@ -8,4 +8,6 @@ export const superSupportiveArtonanConsulate = {
   world: "world/super-supportive",
   aliases: ["consulate"],
   description: "An Artonan office on Earth for registering and taking classes.",
+  createdAt: "2026-09-28T21:35:28.552Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

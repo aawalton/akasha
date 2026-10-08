@@ -7,4 +7,6 @@ export const superSupportiveHazardousMaterialsDisposalQuest = {
   title: "Hazardous Materials Disposal for LeafSong University",
   world: "world/super-supportive",
   description: "A quest to dispose of hazardous exam lab materials at LeafSong University.",
+  createdAt: "2026-09-28T21:34:06.324Z",
+  updatedAt: "2026-09-28T21:34:09.000Z",
 } as const satisfies WorldQuest

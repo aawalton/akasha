@@ -7,4 +7,6 @@ export const otherwhereIxMoney = {
   title: "Money",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "Coins of copper, silver and gold.",
+  createdAt: "2026-09-28T22:47:57.253Z",
+  updatedAt: "2026-09-28T22:48:06.000Z",
 } as const satisfies WorldMechanic

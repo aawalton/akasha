@@ -7,4 +7,6 @@ export const superSupportiveProprioception = {
   title: "Proprioception",
   world: "world/super-supportive",
   description: "A stat for the sense of where one's body is, listed under Agility.",
+  createdAt: "2026-09-28T21:42:11.194Z",
+  updatedAt: "2026-09-28T21:42:14.000Z",
 } as const satisfies WorldMechanic

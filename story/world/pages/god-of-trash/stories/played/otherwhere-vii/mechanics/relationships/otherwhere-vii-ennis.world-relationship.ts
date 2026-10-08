@@ -8,4 +8,6 @@ export const otherwhereViiEnnis = {
   world: "world/god-of-trash",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
   relationshipPoints: 4,
+  createdAt: "2026-09-28T23:05:48.175Z",
+  updatedAt: "2026-09-28T23:32:52.000Z",
 } as const satisfies WorldRelationship

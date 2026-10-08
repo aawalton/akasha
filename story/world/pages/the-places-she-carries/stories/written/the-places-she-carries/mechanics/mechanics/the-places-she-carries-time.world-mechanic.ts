@@ -8,4 +8,6 @@ export const thePlacesSheCarriesTime = {
   world: "world/the-places-she-carries",
   description:
     "The day and hour it is, counted as Wren counts her days in the basin: Day 1 is the day she walks down the Warden's Stair.",
+  createdAt: "2026-10-03T19:22:22.859Z",
+  updatedAt: "2026-10-03T19:22:26.000Z",
 } as const satisfies WorldMechanic

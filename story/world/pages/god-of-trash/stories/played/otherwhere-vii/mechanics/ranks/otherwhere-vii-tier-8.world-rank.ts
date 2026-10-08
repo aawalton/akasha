@@ -8,4 +8,6 @@ export const otherwhereViiTier8 = {
   world: "world/god-of-trash",
   description: "A power spoken of in stories more than seen.",
   place: 10,
+  createdAt: "2026-09-28T22:52:05.586Z",
+  updatedAt: "2026-09-28T22:52:11.000Z",
 } as const satisfies WorldRank

@@ -6,4 +6,6 @@ export const amassTheFaithfulSWill = {
   slug: "amass-the-faithful-s-will",
   title: "Amass the Faithful’s Will",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:40:23.803Z",
+  updatedAt: "2026-09-19T16:17:54.000Z",
 } as const satisfies WorldMiracle

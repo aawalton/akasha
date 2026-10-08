@@ -8,4 +8,6 @@ export const otherwhereIxManaAbsorption = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["passive absorption", "absorbing elemental hits"],
   description: "Taking in part of the mana of magic that strikes or touches the body.",
+  createdAt: "2026-09-28T22:55:03.990Z",
+  updatedAt: "2026-09-28T22:55:09.000Z",
 } as const satisfies WorldMechanic

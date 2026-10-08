@@ -9,4 +9,6 @@ export const superSupportiveCorruptionIncident = {
   aliases: ["chaos outbreak", "Thegund Class corrupted environment"],
   description:
     "An outbreak where chaos rises in an area, spreading demons and destroying life and objects.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

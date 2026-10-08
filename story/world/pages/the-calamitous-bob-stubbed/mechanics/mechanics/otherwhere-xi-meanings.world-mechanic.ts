@@ -8,4 +8,6 @@ export const otherwhereXiMeanings = {
   world: "world/the-calamitous-bob-stubbed",
   description: "A concept or will put into mana that gives a spell its nature.",
   aliases: ["Concepts", "Intents"],
+  createdAt: "2026-09-29T00:12:54.255Z",
+  updatedAt: "2026-09-29T00:13:05.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const superSupportiveElementalAlignment = {
   world: "world/super-supportive",
   aliases: ["sensing"],
   description: "The Life, Ground or Sky nature of a thing, and finer qualities like patience.",
+  createdAt: "2026-09-28T21:43:02.946Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldMechanic

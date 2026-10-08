@@ -8,4 +8,6 @@ export const towerOfNimueAspectCrystallization = {
   world: "world/tower-of-nimue",
   description:
     "An Aspect is a soft class or title that crystallizes out of a climber's essence mix. At each Gatekeeper, at floors 10, 25, 50 and 75, the climber chooses an Aspect from 2 or 3 options drawn from the essences they actually hold; each option amplifies a theme and unlocks an apex ability. The first crystallization is at floor 10, and a climber holds no Aspect before it.",
+  createdAt: "2026-09-26T18:12:40.957Z",
+  updatedAt: "2026-09-26T18:12:45.000Z",
 } as const satisfies WorldMechanic

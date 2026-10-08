@@ -8,4 +8,6 @@ export const otherwhereViiImmortal = {
   world: "world/god-of-trash",
   description: "The highest Tier: a life immense but not endless.",
   place: 12,
+  createdAt: "2026-09-28T22:52:05.585Z",
+  updatedAt: "2026-09-28T22:52:11.000Z",
 } as const satisfies WorldRank

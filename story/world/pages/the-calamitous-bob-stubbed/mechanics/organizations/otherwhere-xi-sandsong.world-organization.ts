@@ -7,4 +7,6 @@ export const otherwhereXiSandsong = {
   title: "Sandsong",
   world: "world/the-calamitous-bob-stubbed",
   description: "A desert kingdom on Vizim's western Golden Coast.",
+  createdAt: "2026-09-29T00:18:55.606Z",
+  updatedAt: "2026-09-29T00:19:01.000Z",
 } as const satisfies WorldOrganization

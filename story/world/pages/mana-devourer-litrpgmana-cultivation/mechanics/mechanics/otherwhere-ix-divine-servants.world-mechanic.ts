@@ -7,4 +7,6 @@ export const otherwhereIxDivineServants = {
   title: "Apostles, Disciples and Acolytes",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The ranks of mortals who serve a god: acolytes, disciples and apostles.",
+  createdAt: "2026-09-28T22:56:34.869Z",
+  updatedAt: "2026-09-28T22:56:43.000Z",
 } as const satisfies WorldMechanic

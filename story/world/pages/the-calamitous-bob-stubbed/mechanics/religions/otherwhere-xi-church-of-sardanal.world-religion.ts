@@ -7,4 +7,6 @@ export const otherwhereXiChurchOfSardanal = {
   title: "The Church of Sardanal",
   description: "The church of Sardanal, god of harvests and prosperity.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:12:10.124Z",
+  updatedAt: "2026-09-29T00:12:19.000Z",
 } as const satisfies WorldReligion

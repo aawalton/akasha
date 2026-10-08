@@ -8,4 +8,6 @@ export const otherwhereViiIgnition = {
   world: "world/god-of-trash",
   description: "A spark of flame kindled from mana pressed through a set shape.",
   manaCost: 3,
+  createdAt: "2026-09-28T23:04:09.372Z",
+  updatedAt: "2026-09-28T23:04:12.000Z",
 } as const satisfies WorldSkill

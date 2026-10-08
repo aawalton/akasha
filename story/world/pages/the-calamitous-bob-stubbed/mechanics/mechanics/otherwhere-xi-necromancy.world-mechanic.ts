@@ -7,4 +7,6 @@ export const otherwhereXiNecromancy = {
   title: "Necromancy",
   world: "world/the-calamitous-bob-stubbed",
   description: "Magic that raises, binds or commands the dead.",
+  createdAt: "2026-09-29T00:23:37.858Z",
+  updatedAt: "2026-09-29T00:23:47.000Z",
 } as const satisfies WorldMechanic

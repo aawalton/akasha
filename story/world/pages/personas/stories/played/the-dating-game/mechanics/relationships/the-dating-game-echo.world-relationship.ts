@@ -8,4 +8,6 @@ export const theDatingGameEcho = {
   world: "world/personas",
   characters: ["character-player/the-dating-game-alan", "character-other/the-dating-game-echo"],
   relationshipPoints: 39,
+  createdAt: "2026-09-27T01:13:54.632Z",
+  updatedAt: "2026-09-28T12:21:45.000Z",
 } as const satisfies WorldRelationship

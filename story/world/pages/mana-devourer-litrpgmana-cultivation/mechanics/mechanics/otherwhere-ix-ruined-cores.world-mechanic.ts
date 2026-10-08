@@ -8,4 +8,6 @@ export const otherwhereIxRuinedCores = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["ruined core"],
   description: "A marred beast core, taken from a creature that was once a cursed person.",
+  createdAt: "2026-09-28T23:03:26.610Z",
+  updatedAt: "2026-09-28T23:03:31.000Z",
 } as const satisfies WorldMechanic

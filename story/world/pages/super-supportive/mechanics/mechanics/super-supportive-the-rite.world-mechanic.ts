@@ -9,4 +9,6 @@ export const superSupportiveTheRite = {
   aliases: ["Rite"],
   description:
     "A ritual in which a person's own resource is destroyed in exchange for magical power.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

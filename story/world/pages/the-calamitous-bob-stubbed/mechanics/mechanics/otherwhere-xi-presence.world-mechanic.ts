@@ -8,4 +8,6 @@ export const otherwhereXiPresence = {
   world: "world/the-calamitous-bob-stubbed",
   description: "The weight a strong soul presses on those around it.",
   aliases: ["Aura", "Intimidation"],
+  createdAt: "2026-09-29T00:26:36.055Z",
+  updatedAt: "2026-09-29T00:26:40.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const superSupportivePrivileges = {
   title: "Privileges",
   world: "world/super-supportive",
   description: "A System interface section listing the special rights and marks an Avowed has.",
+  createdAt: "2026-09-28T21:36:25.682Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

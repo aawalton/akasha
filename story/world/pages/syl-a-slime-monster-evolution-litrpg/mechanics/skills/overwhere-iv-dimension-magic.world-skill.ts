@@ -11,4 +11,6 @@ export const overwhereIvDimensionMagic = {
   aliases: ["Dimensional Magic", "dimensional affinity", "dimension affinity"],
   manaCost: 5,
   durationMinutes: 1,
+  createdAt: "2026-09-29T12:20:31.322Z",
+  updatedAt: "2026-09-29T12:20:34.000Z",
 } as const satisfies WorldSkill

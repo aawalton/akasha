@@ -8,4 +8,6 @@ export const superSupportiveStudyJournal = {
   world: "world/super-supportive",
   description:
     "A student's record of independently pursuing a subject beyond what instructors require, written for classmates to read.",
+  createdAt: "2026-09-28T21:45:47.110Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldMechanic

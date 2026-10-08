@@ -9,4 +9,6 @@ export const superSupportiveCarriage = {
   aliases: ["carriage rule", "the geas"],
   description:
     "The rule that a preserved item stays preserved only while its bearer keeps carrying it.",
+  createdAt: "2026-09-28T21:34:42.270Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

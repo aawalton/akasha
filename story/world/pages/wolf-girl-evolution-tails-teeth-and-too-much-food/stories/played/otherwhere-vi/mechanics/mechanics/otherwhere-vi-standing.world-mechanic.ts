@@ -7,4 +7,6 @@ export const otherwhereViStanding = {
   title: "Standing",
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
   description: "How far a person or beast has come to trust and respect Nala.",
+  createdAt: "2026-09-28T23:07:35.251Z",
+  updatedAt: "2026-09-28T23:07:47.000Z",
 } as const satisfies WorldMechanic

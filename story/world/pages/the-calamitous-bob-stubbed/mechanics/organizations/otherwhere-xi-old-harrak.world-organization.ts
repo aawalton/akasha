@@ -7,4 +7,6 @@ export const otherwhereXiOldHarrak = {
   title: "Old Harrak",
   world: "world/the-calamitous-bob-stubbed",
   description: "The fallen empire that once ruled western Param from Harrak.",
+  createdAt: "2026-09-29T00:05:55.351Z",
+  updatedAt: "2026-09-29T00:05:58.000Z",
 } as const satisfies WorldOrganization

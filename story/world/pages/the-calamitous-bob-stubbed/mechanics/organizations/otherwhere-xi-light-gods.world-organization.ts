@@ -7,4 +7,6 @@ export const otherwhereXiLightGods = {
   title: "The Light Gods",
   description: "The pantheon of gods who rule Nyil from Larrean.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:09:38.928Z",
+  updatedAt: "2026-09-29T00:09:44.000Z",
 } as const satisfies WorldOrganization

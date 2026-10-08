@@ -7,4 +7,6 @@ export const superSupportiveDiagnosis = {
   title: "Diagnosis",
   world: "world/super-supportive",
   description: "A Healer skill.",
+  createdAt: "2026-09-28T21:41:02.871Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

@@ -6,4 +6,6 @@ export const weReturnToSafeHarbors = {
   slug: "we-return-to-safe-harbors",
   title: "We Return to Safe Harbors",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:40:23.804Z",
+  updatedAt: "2026-09-19T16:17:54.000Z",
 } as const satisfies WorldMiracle

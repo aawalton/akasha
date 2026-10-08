@@ -9,4 +9,6 @@ export const superSupportiveShitBirthdayPresent = {
   aliases: ["Shit Sixteen present", "Shit Seventeen present", "Shit Affixation present"],
   description:
     "An Anesidoran custom of lavish gifts for a child who ages out of the expected selection window or affixes lower than expected.",
+  createdAt: "2026-09-28T21:33:50.971Z",
+  updatedAt: "2026-09-28T21:33:54.000Z",
 } as const satisfies WorldMechanic

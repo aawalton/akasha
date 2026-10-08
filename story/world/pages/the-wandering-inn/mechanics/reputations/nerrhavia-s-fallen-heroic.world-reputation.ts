@@ -6,4 +6,6 @@ export const nerrhaviaSFallenHeroic = {
   slug: "nerrhavia-s-fallen-heroic",
   title: "Nerrhavia’s Fallen (Heroic)",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:39:53.864Z",
+  updatedAt: "2026-09-19T16:19:20.000Z",
 } as const satisfies WorldReputation

@@ -8,4 +8,6 @@ export const towerOfNimueEssenceHarvest = {
   world: "world/tower-of-nimue",
   description:
     "The System has no classes. Every floor's trial is an apex creature, and on the kill the System offers the climber essences to harvest from the slain, such as its venom, its speed or its molten blood; the climber takes one. Essences occupy a small fixed set of slots, so a climber's build is a chimera stitched from everything they have killed. The higher a climber's ATT, the better and the more essence options a kill offers.",
+  createdAt: "2026-09-26T18:12:40.958Z",
+  updatedAt: "2026-09-26T18:12:45.000Z",
 } as const satisfies WorldMechanic

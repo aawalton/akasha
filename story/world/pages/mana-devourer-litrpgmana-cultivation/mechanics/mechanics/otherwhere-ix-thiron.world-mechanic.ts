@@ -8,4 +8,6 @@ export const otherwhereIxThiron = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["Thiror"],
   description: "Thiron, also called Thiror, the third of the eleven worlds.",
+  createdAt: "2026-09-28T22:52:47.084Z",
+  updatedAt: "2026-09-28T22:52:54.000Z",
 } as const satisfies WorldMechanic

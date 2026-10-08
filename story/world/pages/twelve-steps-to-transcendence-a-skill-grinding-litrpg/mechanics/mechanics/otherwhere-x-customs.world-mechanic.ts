@@ -7,4 +7,6 @@ export const otherwhereXCustoms = {
   title: "The Expedition Festival and Namedays",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The festivals, feast days and everyday ways people keep.",
+  createdAt: "2026-09-28T23:58:27.537Z",
+  updatedAt: "2026-09-28T23:58:31.000Z",
 } as const satisfies WorldMechanic

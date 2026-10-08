@@ -11,4 +11,6 @@ export const dateNightTheReadingRoomTheTriad = {
     "character-other/date-night-the-reading-room-astra",
     "character-other/date-night-the-reading-room-nova",
   ],
+  createdAt: "2026-09-26T17:41:59.761Z",
+  updatedAt: "2026-09-28T12:55:01.000Z",
 } as const satisfies WorldRelationship

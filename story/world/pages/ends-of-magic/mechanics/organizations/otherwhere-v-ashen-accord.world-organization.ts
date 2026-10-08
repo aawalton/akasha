@@ -8,4 +8,6 @@ export const otherwhereVAshenAccord = {
   world: "world/ends-of-magic",
   aliases: ["the Accord"],
   description: "A large grid of Questors.",
+  createdAt: "2026-09-28T21:48:16.465Z",
+  updatedAt: "2026-09-28T21:48:19.000Z",
 } as const satisfies WorldOrganization

@@ -7,4 +7,6 @@ export const otherwhereVSiblingsOfItonia = {
   title: "The Siblings of Itonia",
   world: "world/ends-of-magic",
   description: "A band of warriors.",
+  createdAt: "2026-09-28T21:41:18.697Z",
+  updatedAt: "2026-09-28T21:49:27.000Z",
 } as const satisfies WorldOrganization

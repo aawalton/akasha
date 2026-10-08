@@ -7,4 +7,6 @@ export const superSupportivePurityPeople = {
   title: "Purity people",
   world: "world/super-supportive",
   description: 'A movement that calls anyone working for Artonans an "alien bumkisser".',
+  createdAt: "2026-09-28T21:44:15.780Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldOrganization

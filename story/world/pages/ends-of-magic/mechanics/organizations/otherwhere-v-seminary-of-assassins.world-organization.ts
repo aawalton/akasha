@@ -7,4 +7,6 @@ export const otherwhereVSeminaryOfAssassins = {
   title: "The Seminary of Assassins",
   world: "world/ends-of-magic",
   description: "A school of assassins.",
+  createdAt: "2026-09-28T21:47:10.359Z",
+  updatedAt: "2026-09-28T21:49:55.000Z",
 } as const satisfies WorldOrganization

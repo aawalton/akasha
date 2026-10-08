@@ -6,4 +6,6 @@ export const absorbBlow = {
   slug: "absorb-blow",
   title: "Absorb Blow",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:10:00.552Z",
+  updatedAt: "2026-09-19T16:37:58.000Z",
 } as const satisfies WorldSkill

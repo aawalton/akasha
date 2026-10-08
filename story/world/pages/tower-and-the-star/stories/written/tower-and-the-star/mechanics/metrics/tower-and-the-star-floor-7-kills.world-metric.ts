@@ -10,4 +10,6 @@ export const towerAndTheStarFloor7Kills = {
   value: 96,
   minValue: 0,
   maxValue: 96,
+  createdAt: "2026-10-03T19:31:08.853Z",
+  updatedAt: "2026-10-03T19:31:12.000Z",
 } as const satisfies WorldMetric

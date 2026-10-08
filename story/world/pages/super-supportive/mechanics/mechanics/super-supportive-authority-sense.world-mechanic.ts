@@ -8,4 +8,6 @@ export const superSupportiveAuthoritySense = {
   world: "world/super-supportive",
   aliases: ["the sixth sense"],
   description: "The sense by which a person feels their own authority.",
+  createdAt: "2026-09-28T21:34:42.270Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

@@ -8,4 +8,6 @@ export const otherwhereXRare = {
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The third rarity a skill can hold, above uncommon.",
   place: 3,
+  createdAt: "2026-09-29T00:09:39.782Z",
+  updatedAt: "2026-09-29T00:09:45.000Z",
 } as const satisfies WorldRank

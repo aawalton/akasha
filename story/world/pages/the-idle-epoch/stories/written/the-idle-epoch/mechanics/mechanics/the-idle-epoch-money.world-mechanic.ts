@@ -8,4 +8,6 @@ export const theIdleEpochMoney = {
   world: "world/the-idle-epoch",
   description:
     "Money in the Detroit Barrier Zone is Gold, carried in a character's System inventory and counted in whole Gold. Trade happens at the Exchange. Unaffiliated players pay a Residuum contribution toward the Barrier, withheld at the point of sale. A character's purse moves only by a sum the prose names: a price paid, a sale's net, or an idle report's Gold earned.",
+  createdAt: "2026-10-03T19:16:27.400Z",
+  updatedAt: "2026-10-03T19:16:30.000Z",
 } as const satisfies WorldMechanic

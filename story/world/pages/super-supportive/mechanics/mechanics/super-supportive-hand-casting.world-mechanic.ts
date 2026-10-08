@@ -9,4 +9,6 @@ export const superSupportiveHandCasting = {
   aliases: ["wizardry", "spellcasting"],
   description:
     "Working a wizard spell by weaving authority through finger patterns, often with chants or tools.",
+  createdAt: "2026-09-28T21:34:42.270Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

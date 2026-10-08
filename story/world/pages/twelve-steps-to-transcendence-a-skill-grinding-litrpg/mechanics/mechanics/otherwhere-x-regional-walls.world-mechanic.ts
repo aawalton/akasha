@@ -7,4 +7,6 @@ export const otherwhereXRegionalWalls = {
   title: "The Regional Walls",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A vast magical barrier of flashing runes that forms the border of a region.",
+  createdAt: "2026-09-28T23:56:09.319Z",
+  updatedAt: "2026-09-28T23:56:12.000Z",
 } as const satisfies WorldMechanic

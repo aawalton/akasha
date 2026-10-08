@@ -7,4 +7,6 @@ export const otherwhereIxTravel = {
   title: "Travel",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "The ways Firrelians move themselves and their goods from place to place.",
+  createdAt: "2026-09-28T22:55:41.632Z",
+  updatedAt: "2026-09-28T22:55:45.000Z",
 } as const satisfies WorldMechanic

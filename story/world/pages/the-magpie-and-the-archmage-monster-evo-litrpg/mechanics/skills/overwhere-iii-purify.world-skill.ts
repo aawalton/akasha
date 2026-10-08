@@ -9,4 +9,6 @@ export const overwhereIiiPurify = {
   description:
     "A white-gold holy light that burns away blight, curses and afflictions from what it touches.",
   manaCost: 5,
+  createdAt: "2026-09-30T09:51:53.549Z",
+  updatedAt: "2026-09-30T09:51:56.000Z",
 } as const satisfies WorldSkill

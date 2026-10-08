@@ -9,4 +9,6 @@ export const superSupportiveWordchainBestowal = {
   aliases: ["bestowed chain"],
   description:
     "A wordchain offered to someone else through the interface, which that person can accept or refuse.",
+  createdAt: "2026-09-28T21:34:42.271Z",
+  updatedAt: "2026-09-28T21:34:45.000Z",
 } as const satisfies WorldMechanic

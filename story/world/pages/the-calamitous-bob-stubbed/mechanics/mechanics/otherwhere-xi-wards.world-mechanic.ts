@@ -7,4 +7,6 @@ export const otherwhereXiWards = {
   title: "Wards and Shield Arrays",
   world: "world/the-calamitous-bob-stubbed",
   description: "A lasting magical protection set on a place, vehicle or thing.",
+  createdAt: "2026-09-29T00:18:53.453Z",
+  updatedAt: "2026-09-29T00:19:00.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereVSaryasGrid = {
   title: "Sarya's Grid",
   world: "world/ends-of-magic",
   description: "A grid of four Questors.",
+  createdAt: "2026-09-28T21:47:10.359Z",
+  updatedAt: "2026-09-28T21:49:55.000Z",
 } as const satisfies WorldOrganization

@@ -7,4 +7,6 @@ export const otherwhereXiOrderOfTheWhiteOrchard = {
   title: "The Order of the White Orchard",
   world: "world/the-calamitous-bob-stubbed",
   description: "Baran's foremost order of heavy cavalry knights.",
+  createdAt: "2026-09-29T00:14:28.721Z",
+  updatedAt: "2026-09-29T00:14:40.000Z",
 } as const satisfies WorldOrganization

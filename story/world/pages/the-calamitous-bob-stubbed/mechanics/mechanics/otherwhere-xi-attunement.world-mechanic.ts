@@ -7,4 +7,6 @@ export const otherwhereXiAttunement = {
   title: "Attunement",
   world: "world/the-calamitous-bob-stubbed",
   description: "How far a body has taken on the magic of the world.",
+  createdAt: "2026-09-29T00:06:49.881Z",
+  updatedAt: "2026-09-29T00:06:58.000Z",
 } as const satisfies WorldMechanic

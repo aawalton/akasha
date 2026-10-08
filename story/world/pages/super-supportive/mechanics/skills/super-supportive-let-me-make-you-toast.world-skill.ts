@@ -7,4 +7,6 @@ export const superSupportiveLetMeMakeYouToast = {
   title: "Let Me Make You Toast",
   world: "world/super-supportive",
   description: 'An F-rank Rabbit skill: "The Rabbit makes near-perfect toast every time."',
+  createdAt: "2026-09-28T21:35:34.466Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

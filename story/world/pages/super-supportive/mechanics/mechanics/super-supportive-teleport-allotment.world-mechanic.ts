@@ -8,4 +8,6 @@ export const superSupportiveTeleportAllotment = {
   world: "world/super-supportive",
   aliases: ["Anesidora's teleport allotment", "teleportation allowance"],
   description: "The limited supply of System teleports given to Anesidora and the rest of Earth.",
+  createdAt: "2026-09-28T21:43:33.028Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldMechanic

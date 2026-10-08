@@ -7,4 +7,6 @@ export const superSupportiveNameTags = {
   title: "Name tags",
   world: "world/super-supportive",
   description: "Optional custom labels that float by people in the interface.",
+  createdAt: "2026-09-28T21:36:25.682Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

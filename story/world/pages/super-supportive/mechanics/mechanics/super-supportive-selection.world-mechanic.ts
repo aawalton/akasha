@@ -9,4 +9,6 @@ export const superSupportiveSelection = {
   aliases: ["being chosen", "being called", "selected by the contract"],
   description:
     "The System choosing a person to become Avowed, felt as a brief full-body spasm and a spoken message.",
+  createdAt: "2026-09-28T21:33:50.971Z",
+  updatedAt: "2026-09-28T21:33:54.000Z",
 } as const satisfies WorldMechanic

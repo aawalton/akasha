@@ -9,4 +9,6 @@ export const otherwhereXAldousCrane = {
   description: "How far Harrow's reeve regards Nala.",
   characters: ["character-player/otherwhere-x-nala", "character-other/otherwhere-x-aldous-crane"],
   relationshipPoints: 8,
+  createdAt: "2026-09-29T01:11:03.212Z",
+  updatedAt: "2026-10-03T19:45:03.000Z",
 } as const satisfies WorldRelationship

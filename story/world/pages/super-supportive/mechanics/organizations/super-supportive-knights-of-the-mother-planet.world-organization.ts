@@ -8,4 +8,6 @@ export const superSupportiveKnightsOfTheMotherPlanet = {
   world: "world/super-supportive",
   aliases: ["knights", "the Numbered Ones"],
   description: "Artonan wizards sworn to guard the Triplanets from chaos and demons.",
+  createdAt: "2026-09-28T21:35:28.552Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

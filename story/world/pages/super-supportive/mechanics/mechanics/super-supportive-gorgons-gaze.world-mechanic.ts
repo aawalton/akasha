@@ -8,4 +8,6 @@ export const superSupportiveGorgonsGaze = {
   world: "world/super-supportive",
   description:
     "A meeting of Gorgon's eyes that floods a person with profound memories and knocks them out for hours.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

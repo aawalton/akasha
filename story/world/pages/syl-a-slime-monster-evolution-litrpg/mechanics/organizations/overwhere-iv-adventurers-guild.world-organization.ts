@@ -8,4 +8,6 @@ export const overwhereIvAdventurersGuild = {
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description:
     "The guild of monster hunters, dungeon delvers and quest takers across the human lands.",
+  createdAt: "2026-09-29T12:44:06.259Z",
+  updatedAt: "2026-09-29T12:44:09.000Z",
 } as const satisfies WorldOrganization

@@ -7,4 +7,6 @@ export const otherwhereXiSurvival = {
   title: "Survival",
   world: "world/the-calamitous-bob-stubbed",
   description: "The body's needs: water, food, sleep and warmth.",
+  createdAt: "2026-09-28T23:50:00.615Z",
+  updatedAt: "2026-09-28T23:50:05.000Z",
 } as const satisfies WorldMechanic

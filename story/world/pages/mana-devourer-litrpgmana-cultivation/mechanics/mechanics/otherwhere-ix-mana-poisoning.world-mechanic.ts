@@ -7,4 +7,6 @@ export const otherwhereIxManaPoisoning = {
   title: "Mana Poisoning",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A sickness, graded I to V, of a body holding more mana than its capacity.",
+  createdAt: "2026-09-28T22:52:20.692Z",
+  updatedAt: "2026-09-28T22:52:29.000Z",
 } as const satisfies WorldMechanic

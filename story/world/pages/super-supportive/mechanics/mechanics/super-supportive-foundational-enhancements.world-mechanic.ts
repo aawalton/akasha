@@ -9,4 +9,6 @@ export const superSupportiveFoundationalEnhancements = {
   aliases: ["foundation", "foundation points", "stat points", "Foundational Supplementation"],
   description:
     "Points added to an Avowed's body and mind, each roughly a 10% improvement over their species' average.",
+  createdAt: "2026-09-28T21:33:50.971Z",
+  updatedAt: "2026-09-28T21:33:54.000Z",
 } as const satisfies WorldMechanic

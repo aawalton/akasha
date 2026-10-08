@@ -7,4 +7,6 @@ export const otherwhereXiDivineOath = {
   title: "Divine Oath",
   description: "A vow sworn in a god's name.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:13:34.436Z",
+  updatedAt: "2026-09-29T00:13:40.000Z",
 } as const satisfies WorldMechanic

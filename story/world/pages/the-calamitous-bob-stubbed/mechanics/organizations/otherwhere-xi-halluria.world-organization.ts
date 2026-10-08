@@ -7,4 +7,6 @@ export const otherwhereXiHalluria = {
   title: "Halluria",
   world: "world/the-calamitous-bob-stubbed",
   description: "A desert realm of warring clans and warlords east of Param's kingdoms.",
+  createdAt: "2026-09-29T00:15:57.462Z",
+  updatedAt: "2026-09-29T00:16:02.000Z",
 } as const satisfies WorldOrganization

@@ -9,4 +9,6 @@ export const superSupportivePreferredName = {
   aliases: ["momentary names"],
   description:
     "A name an Avowed asks the System to call them, which can differ by place, person or situation.",
+  createdAt: "2026-09-28T21:43:33.028Z",
+  updatedAt: "2026-09-28T21:43:36.000Z",
 } as const satisfies WorldMechanic

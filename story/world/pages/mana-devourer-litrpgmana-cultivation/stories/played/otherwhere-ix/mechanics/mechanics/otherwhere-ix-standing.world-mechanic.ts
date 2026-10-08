@@ -7,4 +7,6 @@ export const otherwhereIxStanding = {
   title: "Standing",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "How much someone regards Nala.",
+  createdAt: "2026-09-28T22:57:32.806Z",
+  updatedAt: "2026-09-28T22:57:40.000Z",
 } as const satisfies WorldMechanic

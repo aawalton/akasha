@@ -8,4 +8,6 @@ export const superSupportivePalaceOfUnbreaking = {
   world: "world/super-supportive",
   aliases: ["the Palace", "House of the Southern Convocation"],
   description: "An Artonan body that preserves wordchains and employs Chainers.",
+  createdAt: "2026-09-28T21:44:15.779Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldOrganization

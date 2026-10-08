@@ -8,4 +8,6 @@ export const otherwhereIxManaCapacity = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["mana capacity", "mana generation", "mana pool"],
   description: "How much mana a body holds, and how fast it makes more.",
+  createdAt: "2026-09-28T22:50:03.544Z",
+  updatedAt: "2026-09-28T22:50:07.000Z",
 } as const satisfies WorldMechanic

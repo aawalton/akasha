@@ -7,4 +7,6 @@ export const superSupportiveCatsAreBetterInNines = {
   title: "Cats are better in nines.",
   world: "world/super-supportive",
   description: "A passive skill with an eccentric full-sentence name.",
+  createdAt: "2026-09-28T21:35:34.465Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

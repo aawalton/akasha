@@ -8,4 +8,6 @@ export const fairweatherFealty = {
   world: "world/fairweather",
   description:
     "A passive Enthraller skill, gained at level 7: each devotion answers the others. Every bond's share, for Devotion and so for Tribute, is the bond's number up to 100, plus 10 points for each other bond Elsie holds at 50 or more, and with Fealty a share may pass 100%. So a bond of 100, with four other bonds at 50 or more, has a share of 140%, and Tribute half that, 70%.",
+  createdAt: "2026-10-04T12:34:12.682Z",
+  updatedAt: "2026-10-04T12:34:16.000Z",
 } as const satisfies WorldSkill

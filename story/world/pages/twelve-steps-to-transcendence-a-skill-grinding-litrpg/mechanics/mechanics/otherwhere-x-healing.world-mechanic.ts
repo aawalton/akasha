@@ -7,4 +7,6 @@ export const otherwhereXHealing = {
   title: "Healing",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Mending wounds with life mana, skills, or plain care.",
+  createdAt: "2026-09-28T23:58:27.537Z",
+  updatedAt: "2026-09-28T23:58:31.000Z",
 } as const satisfies WorldMechanic

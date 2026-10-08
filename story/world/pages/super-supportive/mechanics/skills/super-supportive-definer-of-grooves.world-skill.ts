@@ -7,4 +7,6 @@ export const superSupportiveDefinerOfGrooves = {
   title: "Definer of Grooves",
   world: "world/super-supportive",
   description: "A knight skill whose effects grow more potent each time an action is repeated.",
+  createdAt: "2026-09-28T21:41:02.871Z",
+  updatedAt: "2026-09-28T21:53:04.000Z",
 } as const satisfies WorldSkill

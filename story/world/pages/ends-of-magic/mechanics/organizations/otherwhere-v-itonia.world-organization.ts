@@ -7,4 +7,6 @@ export const otherwhereVItonia = {
   title: "Itonia",
   world: "world/ends-of-magic",
   description: "A city-state.",
+  createdAt: "2026-09-28T21:41:18.696Z",
+  updatedAt: "2026-09-28T21:49:27.000Z",
 } as const satisfies WorldOrganization

@@ -7,4 +7,6 @@ export const superSupportiveLetterWriting = {
   title: "Letter Writing",
   world: "world/super-supportive",
   description: 'A D-rank Rabbit skill: "The Rabbit has near-perfect penmanship."',
+  createdAt: "2026-09-28T21:35:34.466Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

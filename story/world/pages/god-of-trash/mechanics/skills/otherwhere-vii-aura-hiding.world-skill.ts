@@ -9,4 +9,6 @@ export const otherwhereViiAuraHiding = {
   description: "Mana drawn in tight, so a mage seems a lower Tier, or no mage at all.",
   manaCost: 2,
   durationMinutes: 240,
+  createdAt: "2026-09-28T23:04:09.371Z",
+  updatedAt: "2026-09-28T23:04:12.000Z",
 } as const satisfies WorldSkill

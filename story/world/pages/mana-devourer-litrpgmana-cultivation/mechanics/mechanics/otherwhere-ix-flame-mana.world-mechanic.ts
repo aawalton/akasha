@@ -8,4 +8,6 @@ export const otherwhereIxFlameMana = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["Fire Mana"],
   description: "The kind of mana that carries heat and fire.",
+  createdAt: "2026-09-28T23:04:56.273Z",
+  updatedAt: "2026-09-28T23:04:59.000Z",
 } as const satisfies WorldMechanic

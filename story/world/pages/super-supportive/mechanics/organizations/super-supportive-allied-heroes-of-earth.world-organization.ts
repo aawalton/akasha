@@ -8,4 +8,6 @@ export const superSupportiveAlliedHeroesOfEarth = {
   world: "world/super-supportive",
   aliases: ["Associated Heroes of Earth", "AHE"],
   description: "The group that owns Anesidora and other hero zones.",
+  createdAt: "2026-09-28T21:35:28.551Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

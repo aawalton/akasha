@@ -9,4 +9,6 @@ export const superSupportiveCoursing = {
   aliases: ["obstacle coursing"],
   description:
     "A team sport where runners cross a gym obstacle course while rival teams attack them.",
+  createdAt: "2026-09-28T21:45:47.110Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldMechanic

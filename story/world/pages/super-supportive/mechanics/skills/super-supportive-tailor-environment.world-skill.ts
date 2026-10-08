@@ -8,4 +8,6 @@ export const superSupportiveTailorEnvironment = {
   world: "world/super-supportive",
   description:
     "A C-rank Rabbit skill: a knack for arranging possessions so that they suit their owner.",
+  createdAt: "2026-09-28T21:35:34.466Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

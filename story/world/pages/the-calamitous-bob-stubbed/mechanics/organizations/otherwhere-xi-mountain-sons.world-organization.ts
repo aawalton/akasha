@@ -7,4 +7,6 @@ export const otherwhereXiMountainSons = {
   title: "The Mountain Sons",
   world: "world/the-calamitous-bob-stubbed",
   description: "A Harrakan heavy company drawn from the mountain people.",
+  createdAt: "2026-09-29T00:09:33.515Z",
+  updatedAt: "2026-09-29T00:09:39.000Z",
 } as const satisfies WorldOrganization

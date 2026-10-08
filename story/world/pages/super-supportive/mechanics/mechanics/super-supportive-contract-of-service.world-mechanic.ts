@@ -8,4 +8,6 @@ export const superSupportiveContractOfService = {
   world: "world/super-supportive",
   description:
     "An offer of great power, future opportunity and significant freedom in exchange for service.",
+  createdAt: "2026-09-28T21:35:33.826Z",
+  updatedAt: "2026-09-28T21:35:36.000Z",
 } as const satisfies WorldMechanic

@@ -7,4 +7,6 @@ export const otherwhereXiLeagueOfLesserEvils = {
   title: "The League of Lesser Evils",
   world: "world/the-calamitous-bob-stubbed",
   description: "A band of Viviane's allies who killed Elunath.",
+  createdAt: "2026-09-29T00:22:13.304Z",
+  updatedAt: "2026-09-29T00:22:17.000Z",
 } as const satisfies WorldOrganization

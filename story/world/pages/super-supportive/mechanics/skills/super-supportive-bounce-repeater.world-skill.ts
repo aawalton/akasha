@@ -8,4 +8,6 @@ export const superSupportiveBounceRepeater = {
   world: "world/super-supportive",
   description:
     "A Brute skill for hopping higher and higher while active without touching the ground.",
+  createdAt: "2026-09-28T21:45:47.111Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldSkill

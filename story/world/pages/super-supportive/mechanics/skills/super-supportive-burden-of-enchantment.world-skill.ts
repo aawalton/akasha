@@ -8,4 +8,6 @@ export const superSupportiveBurdenOfEnchantment = {
   world: "world/super-supportive",
   aliases: ["enchantment preservation"],
   description: "A facet that removes and preserves only the magical enchantments on an object.",
+  createdAt: "2026-09-28T21:35:34.465Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

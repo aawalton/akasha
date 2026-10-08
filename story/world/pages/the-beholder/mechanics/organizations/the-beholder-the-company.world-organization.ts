@@ -6,4 +6,6 @@ export const theBeholderTheCompany = {
   slug: "the-beholder-the-company",
   title: "The Company",
   world: "world/the-beholder",
+  createdAt: "2026-09-26T17:30:51.106Z",
+  updatedAt: "2026-09-26T17:30:55.000Z",
 } as const satisfies WorldOrganization

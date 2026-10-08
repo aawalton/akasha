@@ -7,4 +7,6 @@ export const superSupportiveDivideFromWhole = {
   title: "Divide From Whole",
   world: "world/super-supportive",
   description: 'A facet that "aids the bearer in the division of a burden from its source".',
+  createdAt: "2026-09-28T21:35:34.465Z",
+  updatedAt: "2026-09-28T21:35:37.000Z",
 } as const satisfies WorldSkill

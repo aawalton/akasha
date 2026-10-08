@@ -8,4 +8,6 @@ export const healMinorWounds = {
   world: "world/the-wandering-inn",
   appearanceCount: 8,
   references: "jsonl",
+  createdAt: "2026-09-03T03:40:23.804Z",
+  updatedAt: "2026-09-22T13:30:33.000Z",
 } as const satisfies WorldMiracle

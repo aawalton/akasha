@@ -6,4 +6,6 @@ export const theTowerDeathLoop = {
   slug: "the-tower-death-loop",
   title: "Death Loop",
   world: "world/personas",
+  createdAt: "2026-09-26T17:29:39.431Z",
+  updatedAt: "2026-09-26T17:29:43.000Z",
 } as const satisfies WorldMechanic

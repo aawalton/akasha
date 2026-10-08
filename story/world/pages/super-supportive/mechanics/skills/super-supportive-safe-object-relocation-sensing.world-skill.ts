@@ -8,4 +8,6 @@ export const superSupportiveSafeObjectRelocationSensing = {
   world: "world/super-supportive",
   description:
     "A skill that senses where a preserved object-element burden won't be damaged when preservation ends.",
+  createdAt: "2026-09-28T21:41:02.872Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

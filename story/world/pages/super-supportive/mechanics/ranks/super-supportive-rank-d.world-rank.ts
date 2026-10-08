@@ -10,4 +10,6 @@ export const superSupportiveRankD = {
   description:
     "The second-lowest Divergence Rank, whose Avowed usually live on the island or in an Avowed zone with a restrictive passport.",
   place: 2,
+  createdAt: "2026-09-28T21:33:42.149Z",
+  updatedAt: "2026-09-28T21:33:45.000Z",
 } as const satisfies WorldRank

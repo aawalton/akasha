@@ -7,4 +7,6 @@ export const otherwhereViProgression = {
   title: "Progression",
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
   description: "Levels, stats, Class and Tier as the System counts them.",
+  createdAt: "2026-09-28T23:04:43.379Z",
+  updatedAt: "2026-09-28T23:04:48.000Z",
 } as const satisfies WorldMechanic

@@ -9,4 +9,6 @@ export const otherwhereIiManaDart = {
   description:
     "A spell: a small bright dart of pure mana that strikes at a target's health, stamina and mana.",
   manaCost: 2,
+  createdAt: "2026-09-28T20:06:56.179Z",
+  updatedAt: "2026-09-28T22:39:05.000Z",
 } as const satisfies WorldSkill

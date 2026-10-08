@@ -9,4 +9,6 @@ export const otherwhereViiHaze = {
   description: "A shimmer that slides eyes and senses off those it wraps.",
   manaCost: 10,
   durationMinutes: 30,
+  createdAt: "2026-09-28T23:04:09.372Z",
+  updatedAt: "2026-09-28T23:04:12.000Z",
 } as const satisfies WorldSkill

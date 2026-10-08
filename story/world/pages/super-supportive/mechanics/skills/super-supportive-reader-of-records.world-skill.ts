@@ -8,4 +8,6 @@ export const superSupportiveReaderOfRecords = {
   world: "world/super-supportive",
   aliases: ["object reading"],
   description: "A skill that reads an object's recent history by touch.",
+  createdAt: "2026-09-28T21:41:02.872Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSkill

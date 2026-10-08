@@ -10,4 +10,6 @@ export const fairweatherRankA = {
   description:
     "One of the few the guild calls on for the deepest dungeons and the city's worst days.",
   place: 6,
+  createdAt: "2026-10-03T14:13:34.067Z",
+  updatedAt: "2026-10-03T14:13:42.000Z",
 } as const satisfies WorldRank

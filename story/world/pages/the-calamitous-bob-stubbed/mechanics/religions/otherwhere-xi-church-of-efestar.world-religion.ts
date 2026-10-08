@@ -7,4 +7,6 @@ export const otherwhereXiChurchOfEfestar = {
   title: "The Church of Efestar",
   description: "The church of Efestar, god of redemption and second chances.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:12:10.123Z",
+  updatedAt: "2026-09-29T00:12:19.000Z",
 } as const satisfies WorldReligion

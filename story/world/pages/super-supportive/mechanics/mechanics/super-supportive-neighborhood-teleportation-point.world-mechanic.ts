@@ -7,4 +7,6 @@ export const superSupportiveNeighborhoodTeleportationPoint = {
   title: "Neighborhood teleportation point",
   world: "world/super-supportive",
   description: "A shared teleport room serving a neighborhood.",
+  createdAt: "2026-09-28T21:47:30.306Z",
+  updatedAt: "2026-09-28T22:05:16.000Z",
 } as const satisfies WorldMechanic

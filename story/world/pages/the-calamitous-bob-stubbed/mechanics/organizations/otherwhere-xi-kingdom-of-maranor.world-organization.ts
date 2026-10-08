@@ -7,4 +7,6 @@ export const otherwhereXiKingdomOfMaranor = {
   title: "The Kingdom of Maranor",
   world: "world/the-calamitous-bob-stubbed",
   description: "The realm of the outlander king Nero Oleander.",
+  createdAt: "2026-09-29T00:20:00.531Z",
+  updatedAt: "2026-09-29T00:20:06.000Z",
 } as const satisfies WorldOrganization

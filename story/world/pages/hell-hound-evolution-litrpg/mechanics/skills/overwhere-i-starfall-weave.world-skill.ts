@@ -9,4 +9,6 @@ export const overwhereIStarfallWeave = {
   description: "Two elements bound into one working, such as steam, magma or a storm.",
   manaCost: 20,
   durationMinutes: 1,
+  createdAt: "2026-09-30T10:38:21.005Z",
+  updatedAt: "2026-09-30T10:38:24.000Z",
 } as const satisfies WorldSkill

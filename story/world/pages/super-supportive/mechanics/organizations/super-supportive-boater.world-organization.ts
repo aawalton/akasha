@@ -8,4 +8,6 @@ export const superSupportiveBoater = {
   world: "world/super-supportive",
   aliases: ["the boater"],
   description: "A club of people who recommend each other for Triplanet jobs.",
+  createdAt: "2026-09-28T21:35:28.552Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

@@ -7,4 +7,6 @@ export const overwhereIvTracking = {
   title: "Tracking",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The craft of reading and following the trail a creature leaves.",
+  createdAt: "2026-09-29T12:43:12.989Z",
+  updatedAt: "2026-09-29T12:43:15.000Z",
 } as const satisfies WorldSkill

@@ -8,4 +8,6 @@ export const superSupportiveSystemVolunteering = {
   world: "world/super-supportive",
   aliases: ["loop me in"],
   description: "Asking the System to place you as a volunteer at a facility for a set time.",
+  createdAt: "2026-09-28T21:45:47.111Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldMechanic

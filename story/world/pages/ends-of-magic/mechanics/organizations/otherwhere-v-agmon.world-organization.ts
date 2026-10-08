@@ -8,4 +8,6 @@ export const otherwhereVAgmon = {
   world: "world/ends-of-magic",
   aliases: ["the empire of Agmon"],
   description: "An orcish empire.",
+  createdAt: "2026-09-28T21:40:39.020Z",
+  updatedAt: "2026-09-28T21:49:27.000Z",
 } as const satisfies WorldOrganization

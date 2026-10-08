@@ -7,4 +7,6 @@ export const otherwhereIiKnowledgePoints = {
   title: "Knowledge Points",
   world: "world/labyrinth-of-the-mad-god",
   description: "Tutorial points spent at a kiosk to open the System's encyclopedia.",
+  createdAt: "2026-09-28T20:13:31.358Z",
+  updatedAt: "2026-09-28T22:30:51.000Z",
 } as const satisfies WorldMechanic

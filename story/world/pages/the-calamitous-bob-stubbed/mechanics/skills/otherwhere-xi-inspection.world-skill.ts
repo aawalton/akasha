@@ -8,4 +8,6 @@ export const otherwhereXiInspection = {
   world: "world/the-calamitous-bob-stubbed",
   description: "A skill that reads a person, creature or thing into a short bracketed summary.",
   aliases: ["Inspect", "Analysis"],
+  createdAt: "2026-09-29T00:05:08.126Z",
+  updatedAt: "2026-09-29T00:05:12.000Z",
 } as const satisfies WorldSkill

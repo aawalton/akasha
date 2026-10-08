@@ -8,4 +8,6 @@ export const otherwhereXiPaths = {
   world: "world/the-calamitous-bob-stubbed",
   description: "The calling a person follows, which the interface names and builds skills around.",
   aliases: ["Classes"],
+  createdAt: "2026-09-29T00:03:42.060Z",
+  updatedAt: "2026-09-29T00:03:45.000Z",
 } as const satisfies WorldMechanic

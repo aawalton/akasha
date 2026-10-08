@@ -8,4 +8,6 @@ export const otherwhereIxAttunement = {
   world: "world/mana-devourer-litrpgmana-cultivation",
   aliases: ["weapon attunement", "essence attunement"],
   description: "A bond of mana tying an object or creature to another.",
+  createdAt: "2026-09-28T22:57:05.915Z",
+  updatedAt: "2026-09-28T22:57:16.000Z",
 } as const satisfies WorldMechanic

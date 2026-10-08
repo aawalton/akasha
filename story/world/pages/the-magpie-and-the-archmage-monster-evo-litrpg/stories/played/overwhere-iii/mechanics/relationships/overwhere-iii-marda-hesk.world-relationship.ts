@@ -9,4 +9,6 @@ export const overwhereIiiMardaHesk = {
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
   relationshipPoints: 36,
   unrevealed: true,
+  createdAt: "2026-09-30T09:08:10.591Z",
+  updatedAt: "2026-10-03T12:38:11.000Z",
 } as const satisfies WorldRelationship

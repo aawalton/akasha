@@ -10,4 +10,6 @@ export const overwhereIiiMendingWeave = {
     "A thread of holy current stitched into a wound, closing it slowly with a warm white-gold light.",
   manaCost: 2,
   durationMinutes: 5,
+  createdAt: "2026-09-30T10:40:11.353Z",
+  updatedAt: "2026-09-30T10:40:14.000Z",
 } as const satisfies WorldSkill

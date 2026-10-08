@@ -7,4 +7,6 @@ export const otherwhereXLanguage = {
   title: "Language",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The tongues spoken and written where Nala is.",
+  createdAt: "2026-09-29T00:01:54.184Z",
+  updatedAt: "2026-09-29T00:01:57.000Z",
 } as const satisfies WorldMechanic

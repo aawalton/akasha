@@ -8,4 +8,6 @@ export const towerOfNimueLeveling = {
   world: "world/tower-of-nimue",
   description:
     "A climber's level is the floors cleared plus one: a climber starts at level 1, and clearing floor 10 makes level 11. Each level raises every stat by 1 on its own and banks 3 free points, which the climber spends at the Stat Allocation every fifth floor. Essences are the other way a climber grows, adding abilities and passives on top of the stats.",
+  createdAt: "2026-09-26T18:12:40.958Z",
+  updatedAt: "2026-09-26T18:12:45.000Z",
 } as const satisfies WorldMechanic

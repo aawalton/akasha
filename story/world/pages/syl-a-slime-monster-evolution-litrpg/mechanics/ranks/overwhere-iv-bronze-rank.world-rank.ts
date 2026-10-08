@@ -8,4 +8,6 @@ export const overwhereIvBronzeRank = {
   world: "world/syl-a-slime-monster-evolution-litrpg",
   place: 1,
   description: "The guild's first rank, where every new adventurer starts.",
+  createdAt: "2026-09-29T12:44:06.259Z",
+  updatedAt: "2026-09-29T12:44:09.000Z",
 } as const satisfies WorldRank

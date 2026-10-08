@@ -7,4 +7,6 @@ export const otherwhereViResolution = {
   title: "Resolution",
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
   description: "Whether what Nala tries comes off, and how well.",
+  createdAt: "2026-09-28T22:55:51.077Z",
+  updatedAt: "2026-09-28T22:55:56.000Z",
 } as const satisfies WorldMechanic

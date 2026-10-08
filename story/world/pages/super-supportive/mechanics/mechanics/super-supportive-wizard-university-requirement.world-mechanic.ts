@@ -8,4 +8,6 @@ export const superSupportiveWizardUniversityRequirement = {
   world: "world/super-supportive",
   description:
     "The rule that a wizard must be able to provide food, water, shelter and protection before entering a university.",
+  createdAt: "2026-09-28T21:45:47.111Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldMechanic

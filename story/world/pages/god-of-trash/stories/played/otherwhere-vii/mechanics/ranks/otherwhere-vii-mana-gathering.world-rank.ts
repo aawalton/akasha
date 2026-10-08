@@ -8,4 +8,6 @@ export const otherwhereViiManaGathering = {
   world: "world/god-of-trash",
   description: "Awake to mana and gathering it, but not yet a mage.",
   place: 2,
+  createdAt: "2026-09-28T22:52:05.585Z",
+  updatedAt: "2026-09-28T22:52:11.000Z",
 } as const satisfies WorldRank

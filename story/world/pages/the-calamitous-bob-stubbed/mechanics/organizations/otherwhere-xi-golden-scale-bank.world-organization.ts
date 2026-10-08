@@ -7,4 +7,6 @@ export const otherwhereXiGoldenScaleBank = {
   title: "The Golden Scale Bank and Exchange",
   world: "world/the-calamitous-bob-stubbed",
   description: "A dragon-owned bank of New Harrak.",
+  createdAt: "2026-09-29T00:10:26.081Z",
+  updatedAt: "2026-09-29T00:10:51.000Z",
 } as const satisfies WorldOrganization

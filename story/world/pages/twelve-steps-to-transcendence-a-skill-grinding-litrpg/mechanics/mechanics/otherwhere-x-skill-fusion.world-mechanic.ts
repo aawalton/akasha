@@ -7,4 +7,6 @@ export const otherwhereXSkillFusion = {
   title: "Skill Fusion",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The joining of several skills into one new skill.",
+  createdAt: "2026-09-28T23:59:19.492Z",
+  updatedAt: "2026-09-28T23:59:22.000Z",
 } as const satisfies WorldMechanic

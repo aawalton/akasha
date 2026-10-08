@@ -7,4 +7,6 @@ export const otherwhereXiChurchOfMaranor = {
   title: "The Church of Maranor",
   description: "The church of Maranor, goddess of war and order.",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:11:18.098Z",
+  updatedAt: "2026-09-29T00:11:21.000Z",
 } as const satisfies WorldReligion

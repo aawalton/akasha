@@ -7,4 +7,6 @@ export const superSupportiveLeafsongUniversity = {
   title: "LeafSong University",
   world: "world/super-supportive",
   description: "An Artonan wizard university on Artona III.",
+  createdAt: "2026-09-28T21:35:28.552Z",
+  updatedAt: "2026-09-28T21:35:31.000Z",
 } as const satisfies WorldOrganization

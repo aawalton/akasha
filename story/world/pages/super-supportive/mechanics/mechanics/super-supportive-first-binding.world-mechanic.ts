@@ -8,4 +8,6 @@ export const superSupportiveFirstBinding = {
   world: "world/super-supportive",
   aliases: ["first affixation", "first binding of authority"],
   description: "A future knight's first affixation, which binds their authority into a skill.",
+  createdAt: "2026-09-28T21:40:07.789Z",
+  updatedAt: "2026-09-28T21:40:13.000Z",
 } as const satisfies WorldMechanic

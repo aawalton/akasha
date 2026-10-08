@@ -7,4 +7,6 @@ export const superSupportiveEmpatheticTelepathy = {
   title: "Empathetic telepathy",
   world: "world/super-supportive",
   description: "A call option on the Avowed Communications Network, beside video and audio only.",
+  createdAt: "2026-09-28T21:36:25.681Z",
+  updatedAt: "2026-09-28T21:36:28.000Z",
 } as const satisfies WorldMechanic

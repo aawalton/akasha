@@ -8,4 +8,6 @@ export const otherwhereXUncommon = {
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "The second rarity a skill can hold, above common.",
   place: 2,
+  createdAt: "2026-09-29T00:09:39.782Z",
+  updatedAt: "2026-09-29T00:09:45.000Z",
 } as const satisfies WorldRank

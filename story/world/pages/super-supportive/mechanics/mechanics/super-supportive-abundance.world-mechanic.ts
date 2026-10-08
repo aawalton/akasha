@@ -7,4 +7,6 @@ export const superSupportiveAbundance = {
   title: "Abundance",
   world: "world/super-supportive",
   description: "The potential for all, present when a spell is cast.",
+  createdAt: "2026-09-28T21:43:02.945Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldMechanic

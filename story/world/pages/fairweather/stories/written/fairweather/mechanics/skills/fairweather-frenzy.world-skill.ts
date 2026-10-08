@@ -8,4 +8,6 @@ export const fairweatherFrenzy = {
   world: "world/fairweather",
   description:
     "A Berserker skill: a red rage of great strength that takes the Berserker past knowing friend from foe.",
+  createdAt: "2026-10-03T16:53:18.044Z",
+  updatedAt: "2026-10-03T16:53:25.000Z",
 } as const satisfies WorldSkill

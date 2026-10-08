@@ -8,4 +8,6 @@ export const superSupportiveNewlingSquad = {
   world: "world/super-supportive",
   aliases: ["squad"],
   description: "A small group of young knights who train and serve together.",
+  createdAt: "2026-09-28T21:43:55.444Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldOrganization

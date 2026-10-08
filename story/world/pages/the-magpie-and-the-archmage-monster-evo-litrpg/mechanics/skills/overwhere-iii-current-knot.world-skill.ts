@@ -8,4 +8,6 @@ export const overwhereIiiCurrentKnot = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "Dragging raw currents of every color into one tight knot until they burst.",
   manaCost: 0,
+  createdAt: "2026-10-03T01:10:40.860Z",
+  updatedAt: "2026-10-03T01:10:51.000Z",
 } as const satisfies WorldSkill
