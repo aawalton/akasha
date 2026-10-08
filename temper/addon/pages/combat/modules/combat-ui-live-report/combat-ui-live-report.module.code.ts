@@ -191,7 +191,7 @@ export function initLiveReport(): undefined {
 
   liveReport.Toggle = (_control, value) => toggleLiveReport(value)
 
-  toggleLiveReport(setLR.enabled)
+  toggleLiveReport(setLR.showPanel)
   resizeLiveReport(setLR.scale)
   namedChild(liveReport, "ResizeFrame").SetMouseEnabled(!setLR.locked)
   liveReport.SetMovable(!setLR.locked)

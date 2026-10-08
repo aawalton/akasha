@@ -304,7 +304,7 @@ export function updateEvents(this: void): undefined {
   const newstatus =
     isOff === true ? STATUS_DISABLED : isLightMode === true ? STATUS_LIGHTMODE : STATUS_ENABLED
 
-  toggleLiveReport(newstatus !== STATUS_DISABLED && db.liveReport.enabled)
+  toggleLiveReport(newstatus !== STATUS_DISABLED && db.liveReport.showPanel)
 
   if (registrationStatus !== newstatus) {
     if (newstatus === STATUS_DISABLED) {

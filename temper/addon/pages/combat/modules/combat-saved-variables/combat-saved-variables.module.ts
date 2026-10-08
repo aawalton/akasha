@@ -6,4 +6,17 @@ export const combatSavedVariables = {
   slug: "combat-saved-variables",
   definition: "every setting this add-on remembers between sessions",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The live report panel is shown only where its setting asks, and the setting starts off.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The panel's setting is a key of its own, so a player who had the panel on before starts with it off.",
+    },
+  ],
+  updatedAt: "2026-10-08T15:14:06.756Z",
 } as const satisfies Module

@@ -89,10 +89,10 @@ export function buildMenuOptionsTail(
       type: "checkbox",
       name: GetString(SI_TEMPER_COMBAT_MENU_ENABLE_NAME),
       tooltip: GetString(SI_TEMPER_COMBAT_MENU_ENABLE_TOOLTIP),
-      default: def.liveReport.enabled,
-      getFunc: () => db.liveReport.enabled,
+      default: def.liveReport.showPanel,
+      getFunc: () => db.liveReport.showPanel,
       setFunc: (value) => {
-        db.liveReport.enabled = value
+        db.liveReport.showPanel = value
         toggleLiveReport(value)
       },
     },
@@ -118,7 +118,7 @@ export function buildMenuOptionsTail(
         db.liveReport.layout = tostring(value)
         refreshLiveReport()
       },
-      disabled: () => !db.liveReport.enabled,
+      disabled: () => !db.liveReport.showPanel,
     },
     {
       type: "slider",
@@ -133,7 +133,7 @@ export function buildMenuOptionsTail(
         db.liveReport.scale = value / 100
         resizeLiveReport(value / 100)
       },
-      disabled: () => !db.liveReport.enabled,
+      disabled: () => !db.liveReport.showPanel,
     },
     {
       type: "slider",
@@ -148,7 +148,7 @@ export function buildMenuOptionsTail(
         db.liveReport.bgalpha = value
         setLiveReportBgAlpha(value / 100)
       },
-      disabled: () => !db.liveReport.enabled,
+      disabled: () => !db.liveReport.showPanel,
     },
     {
       type: "checkbox",
@@ -172,7 +172,6 @@ export function buildMenuOptionsTail(
         db.liveReport.damageOut = value
         refreshLiveReport()
       },
-      disabled: () => !db.liveReport.enabled,
     },
     {
       type: "checkbox",
@@ -185,7 +184,6 @@ export function buildMenuOptionsTail(
         db.liveReport.damageOutSingle = value
         refreshLiveReport()
       },
-      disabled: () => !db.liveReport.enabled,
     },
     {
       type: "checkbox",
@@ -198,7 +196,6 @@ export function buildMenuOptionsTail(
         db.liveReport.healOutAbsolute = value
         refreshLiveReport()
       },
-      disabled: () => !db.liveReport.enabled,
     },
     {
       type: "checkbox",
@@ -211,7 +208,6 @@ export function buildMenuOptionsTail(
         db.liveReport.healOut = value
         refreshLiveReport()
       },
-      disabled: () => !db.liveReport.enabled,
     },
     {
       type: "checkbox",
@@ -224,7 +220,6 @@ export function buildMenuOptionsTail(
         db.liveReport.damageIn = value
         refreshLiveReport()
       },
-      disabled: () => !db.liveReport.enabled,
     },
     {
       type: "checkbox",
@@ -237,7 +232,6 @@ export function buildMenuOptionsTail(
         db.liveReport.healIn = value
         refreshLiveReport()
       },
-      disabled: () => !db.liveReport.enabled,
     },
     {
       type: "checkbox",
@@ -250,7 +244,6 @@ export function buildMenuOptionsTail(
         db.liveReport.time = value
         refreshLiveReport()
       },
-      disabled: () => !db.liveReport.enabled,
     },
     {
       type: "custom",

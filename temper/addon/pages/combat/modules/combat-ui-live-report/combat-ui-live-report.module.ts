@@ -11,6 +11,11 @@ export const combatUiLiveReport = {
       decisionKind: "decision-kind/departure",
       statement: "The live report and the HUD bar read their figures from one set of texts.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The fight report stays as upstream has it, and only the live display departs from upstream.",
+    },
   ],
-  updatedAt: "2026-10-08T15:12:25.042Z",
+  updatedAt: "2026-10-08T15:14:06.756Z",
 } as const satisfies Module

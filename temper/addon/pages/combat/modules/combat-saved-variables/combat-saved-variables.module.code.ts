@@ -64,7 +64,7 @@ interface FightReportSettings {
 }
 
 interface LiveReportSettings {
-  enabled: boolean
+  showPanel: boolean
   locked: boolean
   layout: string
   scale: number
@@ -244,7 +244,7 @@ function buildSvDefaults(): TemperCombatSettings {
     },
 
     liveReport: {
-      enabled: true,
+      showPanel: false,
       locked: false,
       layout: "Compact",
       scale: defaultScale(),
