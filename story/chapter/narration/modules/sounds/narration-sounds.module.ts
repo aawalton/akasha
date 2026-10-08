@@ -38,7 +38,12 @@ export const narrationSounds = {
       statement:
         "A stutter whose word does not open with it, or opening with a vowel, is said as written.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A word opening shm is handed on opening schm, the spelling the voice says as one sound.",
+    },
   ],
   createdAt: "2026-10-08T19:07:44.817Z",
-  updatedAt: "2026-10-08T19:10:44.114Z",
+  updatedAt: "2026-10-08T23:07:04.612Z",
 } as const satisfies Module

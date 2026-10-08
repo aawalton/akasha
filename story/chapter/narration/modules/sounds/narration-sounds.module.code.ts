@@ -119,6 +119,16 @@ function grunted(found: string): string {
   return sound === undefined ? found : `[${found}](/${sound}/)`
 }
 
+const SHM = /(?<![\p{L}\p{N}'’[/])(s)(h)(?=m\p{L})/giu
+
+function schm(_found: string, s: string, h: string): string {
+  return `${s}${h === "H" ? "C" : "c"}${h}`
+}
+
 export function soundedOf(line: string): string {
-  return line.replace(VOWELLESS, grunted).replace(STUTTER, stuttered).replace(BROKEN_OFF, brokenOff)
+  return line
+    .replace(SHM, schm)
+    .replace(VOWELLESS, grunted)
+    .replace(STUTTER, stuttered)
+    .replace(BROKEN_OFF, brokenOff)
 }

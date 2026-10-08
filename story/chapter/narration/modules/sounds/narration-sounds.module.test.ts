@@ -30,6 +30,12 @@ describe("soundedOf", () => {
     )
   })
 
+  test("a word spelled shm is handed on spelled schm, as the voice knows it", () => {
+    expect(soundedOf("Shmooze, shmoozing, SHMOOZED, shmancy. Ash moved. Shhh.")).toBe(
+      "Schmooze, schmoozing, SCHMOOZED, schmancy. Ash moved. [Shhh](/ʃː/)."
+    )
+  })
+
   test("a word with a vowel is left as written", () => {
     expect(soundedOf("Mr. Brt went— away.")).toBe("Mr. Brt went— away.")
   })
