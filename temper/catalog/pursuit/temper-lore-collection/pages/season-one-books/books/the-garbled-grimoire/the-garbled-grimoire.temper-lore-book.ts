@@ -7,4 +7,6 @@ export const theGarbledGrimoire = {
   title: "The Garbled Grimoire",
   collection: "temper-lore-collection/season-one-books",
   bookIndex: 27,
+  createdAt: "2026-09-25T00:54:30.655Z",
+  updatedAt: "2026-09-25T00:54:32.000Z",
 } as const satisfies TemperLoreBook

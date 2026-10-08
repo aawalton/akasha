@@ -8,4 +8,6 @@ export const fleshToCutFromBone = {
   collection: "temper-lore-collection/poetry-and-song",
   bookIndex: 5,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:18.866Z",
+  updatedAt: "2026-09-25T00:08:20.000Z",
 } as const satisfies TemperLoreBook

@@ -8,4 +8,6 @@ export const theMoonCatsAndTheirDance = {
   collection: "temper-lore-collection/reapers-march-lore",
   bookIndex: 1,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:09:09.945Z",
+  updatedAt: "2026-09-25T00:09:11.000Z",
 } as const satisfies TemperLoreBook

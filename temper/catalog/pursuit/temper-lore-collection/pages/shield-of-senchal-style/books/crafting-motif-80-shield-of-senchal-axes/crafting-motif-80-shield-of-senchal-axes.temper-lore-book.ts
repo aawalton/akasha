@@ -7,4 +7,6 @@ export const craftingMotif80ShieldOfSenchalAxes = {
   title: "Crafting Motif 80: Shield of Senchal Axes",
   collection: "temper-lore-collection/shield-of-senchal-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:17:17.896Z",
+  updatedAt: "2026-09-25T00:17:19.000Z",
 } as const satisfies TemperLoreBook

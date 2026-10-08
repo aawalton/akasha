@@ -32,4 +32,6 @@ export const maceEtiquette = {
     { mapId: 1060, mapCount: 13 },
     { mapId: 1126, mapCount: 14 },
   ],
+  createdAt: "2026-09-25T00:28:11.969Z",
+  updatedAt: "2026-09-25T00:28:13.000Z",
 } as const satisfies TemperLoreBook

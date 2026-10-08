@@ -7,4 +7,6 @@ export const craftingMotif59ScalecallerHelms = {
   title: "Crafting Motif 59: Scalecaller Helms",
   collection: "temper-lore-collection/scalecaller-style",
   bookIndex: 8,
+  createdAt: "2026-09-25T00:14:58.077Z",
+  updatedAt: "2026-09-25T00:14:59.000Z",
 } as const satisfies TemperLoreBook

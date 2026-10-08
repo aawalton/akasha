@@ -7,4 +7,6 @@ export const craftingMotif74PellitineBoots = {
   title: "Crafting Motif 74: Pellitine Boots",
   collection: "temper-lore-collection/pellitine-style",
   bookIndex: 3,
+  createdAt: "2026-09-25T00:16:47.615Z",
+  updatedAt: "2026-09-25T00:16:48.000Z",
 } as const satisfies TemperLoreBook

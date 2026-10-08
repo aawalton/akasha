@@ -11,4 +11,6 @@ export const loriaselTabletEntry2 = {
   charted: true,
   quest: 4854,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:26:55.947Z",
+  updatedAt: "2026-09-25T00:26:58.000Z",
 } as const satisfies TemperLoreBook

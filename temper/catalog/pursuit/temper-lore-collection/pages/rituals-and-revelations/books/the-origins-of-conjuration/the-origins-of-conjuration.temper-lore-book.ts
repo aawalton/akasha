@@ -28,4 +28,6 @@ export const theOriginsOfConjuration = {
     { mapId: 1060, mapCount: 2 },
     { mapId: 1126, mapCount: 11 },
   ],
+  createdAt: "2026-09-25T00:26:55.948Z",
+  updatedAt: "2026-09-25T00:26:58.000Z",
 } as const satisfies TemperLoreBook

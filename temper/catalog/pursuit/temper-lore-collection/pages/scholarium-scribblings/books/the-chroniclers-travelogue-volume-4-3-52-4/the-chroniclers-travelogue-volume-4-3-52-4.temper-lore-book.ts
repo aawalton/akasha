@@ -7,4 +7,6 @@ export const theChroniclersTravelogueVolume43524 = {
   title: "The Chronicler's Travelogue, Volume 4",
   collection: "temper-lore-collection/scholarium-scribblings",
   bookIndex: 4,
+  createdAt: "2026-09-25T00:53:30.852Z",
+  updatedAt: "2026-09-25T00:53:32.000Z",
 } as const satisfies TemperLoreBook

@@ -10,4 +10,6 @@ export const theTrialsOfHissmir = {
   bookIndex: 17,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:26:55.949Z",
+  updatedAt: "2026-09-25T00:26:58.000Z",
 } as const satisfies TemperLoreBook

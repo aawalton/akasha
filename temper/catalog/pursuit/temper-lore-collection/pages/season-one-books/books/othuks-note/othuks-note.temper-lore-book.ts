@@ -7,4 +7,6 @@ export const othuksNote = {
   title: "Othuk's Note",
   collection: "temper-lore-collection/season-one-books",
   bookIndex: 21,
+  createdAt: "2026-09-25T00:54:30.655Z",
+  updatedAt: "2026-09-25T00:54:32.000Z",
 } as const satisfies TemperLoreBook

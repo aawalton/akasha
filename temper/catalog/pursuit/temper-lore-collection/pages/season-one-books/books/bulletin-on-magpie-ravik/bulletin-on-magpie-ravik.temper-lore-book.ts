@@ -7,4 +7,6 @@ export const bulletinOnMagpieRavik = {
   title: "Bulletin on Magpie Ravik",
   collection: "temper-lore-collection/season-one-books",
   bookIndex: 26,
+  createdAt: "2026-09-25T00:54:30.654Z",
+  updatedAt: "2026-09-25T00:54:32.000Z",
 } as const satisfies TemperLoreBook

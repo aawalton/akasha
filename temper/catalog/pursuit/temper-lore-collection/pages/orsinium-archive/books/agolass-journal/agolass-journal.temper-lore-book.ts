@@ -11,4 +11,6 @@ export const agolassJournal = {
   charted: true,
   quest: 5474,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:55.178Z",
+  updatedAt: "2026-09-25T00:28:57.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const tharayyasJournalEntry1031648 = {
   title: "Tharayya's Journal, Entry 10",
   collection: "temper-lore-collection/rituals-and-revelations",
   bookIndex: 48,
+  createdAt: "2026-09-25T00:26:55.948Z",
+  updatedAt: "2026-09-25T00:26:58.000Z",
 } as const satisfies TemperLoreBook

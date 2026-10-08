@@ -7,4 +7,6 @@ export const craftingMotif66SilverDawnMaces = {
   title: "Crafting Motif 66: Silver Dawn Maces",
   collection: "temper-lore-collection/silver-dawn-style",
   bookIndex: 10,
+  createdAt: "2026-09-25T00:16:07.038Z",
+  updatedAt: "2026-09-25T00:16:08.000Z",
 } as const satisfies TemperLoreBook

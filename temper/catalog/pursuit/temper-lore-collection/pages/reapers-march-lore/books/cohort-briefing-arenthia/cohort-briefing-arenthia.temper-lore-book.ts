@@ -8,4 +8,6 @@ export const cohortBriefingArenthia = {
   collection: "temper-lore-collection/reapers-march-lore",
   bookIndex: 10,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:09:09.944Z",
+  updatedAt: "2026-09-25T00:09:11.000Z",
 } as const satisfies TemperLoreBook

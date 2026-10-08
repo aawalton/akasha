@@ -11,4 +11,6 @@ export const irgnarsJournal = {
   charted: true,
   quest: 4178,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:26:01.370Z",
+  updatedAt: "2026-09-25T00:26:13.000Z",
 } as const satisfies TemperLoreBook

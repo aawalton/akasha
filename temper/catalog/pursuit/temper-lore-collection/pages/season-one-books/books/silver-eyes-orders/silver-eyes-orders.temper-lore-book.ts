@@ -7,4 +7,6 @@ export const silverEyesOrders = {
   title: "Silver-Eye's Orders",
   collection: "temper-lore-collection/season-one-books",
   bookIndex: 17,
+  createdAt: "2026-09-25T00:54:30.655Z",
+  updatedAt: "2026-09-25T00:54:32.000Z",
 } as const satisfies TemperLoreBook

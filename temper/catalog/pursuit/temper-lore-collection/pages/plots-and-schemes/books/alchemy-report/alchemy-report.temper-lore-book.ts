@@ -11,4 +11,6 @@ export const alchemyReport = {
   charted: true,
   quest: 4150,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:26:22.978Z",
+  updatedAt: "2026-09-25T00:26:33.000Z",
 } as const satisfies TemperLoreBook

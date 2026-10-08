@@ -7,4 +7,6 @@ export const craftingMotif120ScribesOfMoraBows = {
   title: "Crafting Motif 120: Scribes of Mora Bows",
   collection: "temper-lore-collection/scribes-of-mora-style",
   bookIndex: 4,
+  createdAt: "2026-09-25T00:21:01.701Z",
+  updatedAt: "2026-09-25T00:21:02.000Z",
 } as const satisfies TemperLoreBook

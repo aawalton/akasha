@@ -7,4 +7,6 @@ export const ordersFromVicereevePelidil = {
   title: "Orders from Vicereeve Pelidil",
   collection: "temper-lore-collection/plots-and-schemes",
   bookIndex: 49,
+  createdAt: "2026-09-25T00:26:22.985Z",
+  updatedAt: "2026-09-25T00:26:33.000Z",
 } as const satisfies TemperLoreBook

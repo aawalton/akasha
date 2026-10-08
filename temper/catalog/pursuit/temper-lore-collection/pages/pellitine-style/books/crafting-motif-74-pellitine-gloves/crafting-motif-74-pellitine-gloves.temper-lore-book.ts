@@ -7,4 +7,6 @@ export const craftingMotif74PellitineGloves = {
   title: "Crafting Motif 74: Pellitine Gloves",
   collection: "temper-lore-collection/pellitine-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:16:47.615Z",
+  updatedAt: "2026-09-25T00:16:48.000Z",
 } as const satisfies TemperLoreBook

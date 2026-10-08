@@ -12,4 +12,6 @@ export const childrenOfTheWind = {
   onBookshelves: true,
   mapCounts: [{ mapId: 37, mapCount: 18 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:00.226Z",
+  updatedAt: "2026-09-25T00:51:02.000Z",
 } as const satisfies TemperLoreBook

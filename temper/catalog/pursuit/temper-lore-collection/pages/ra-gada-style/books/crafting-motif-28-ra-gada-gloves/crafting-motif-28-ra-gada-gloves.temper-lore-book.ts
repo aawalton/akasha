@@ -7,4 +7,6 @@ export const craftingMotif28RaGadaGloves = {
   title: "Crafting Motif 28: Ra Gada Gloves",
   collection: "temper-lore-collection/ra-gada-style",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:12:31.795Z",
+  updatedAt: "2026-09-25T00:12:32.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const craftingMotif86SeaGiantDaggers = {
   title: "Crafting Motif 86: Sea Giant Daggers",
   collection: "temper-lore-collection/sea-giant-style",
   bookIndex: 6,
+  createdAt: "2026-09-25T00:17:43.205Z",
+  updatedAt: "2026-09-25T00:17:44.000Z",
 } as const satisfies TemperLoreBook

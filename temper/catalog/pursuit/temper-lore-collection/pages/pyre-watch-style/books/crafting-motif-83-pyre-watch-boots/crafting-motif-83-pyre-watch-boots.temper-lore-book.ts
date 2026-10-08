@@ -7,4 +7,6 @@ export const craftingMotif83PyreWatchBoots = {
   title: "Crafting Motif 83: Pyre Watch Boots",
   collection: "temper-lore-collection/pyre-watch-style",
   bookIndex: 3,
+  createdAt: "2026-09-25T00:17:27.976Z",
+  updatedAt: "2026-09-25T00:17:29.000Z",
 } as const satisfies TemperLoreBook

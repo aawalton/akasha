@@ -12,4 +12,6 @@ export const secretsOfTheRiddlethar = {
   onBookshelves: true,
   mapCounts: [{ mapId: 37, mapCount: 12 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:00.227Z",
+  updatedAt: "2026-09-25T00:51:02.000Z",
 } as const satisfies TemperLoreBook

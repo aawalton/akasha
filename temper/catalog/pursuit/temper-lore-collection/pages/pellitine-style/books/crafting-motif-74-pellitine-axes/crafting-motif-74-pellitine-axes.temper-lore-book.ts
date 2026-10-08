@@ -7,4 +7,6 @@ export const craftingMotif74PellitineAxes = {
   title: "Crafting Motif 74: Pellitine Axes",
   collection: "temper-lore-collection/pellitine-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:16:47.615Z",
+  updatedAt: "2026-09-25T00:16:48.000Z",
 } as const satisfies TemperLoreBook

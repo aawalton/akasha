@@ -19,4 +19,6 @@ export const mysticismTheUnfathomableVoyage = {
     { mapId: 227, mapCount: 10 },
     { mapId: 258, mapCount: 14 },
   ],
+  createdAt: "2026-09-25T00:26:55.947Z",
+  updatedAt: "2026-09-25T00:26:58.000Z",
 } as const satisfies TemperLoreBook

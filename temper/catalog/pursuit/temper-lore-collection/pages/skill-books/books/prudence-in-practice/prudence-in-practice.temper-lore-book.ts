@@ -28,4 +28,6 @@ export const prudenceInPractice = {
     { mapId: 1126, mapCount: 12 },
   ],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:11.969Z",
+  updatedAt: "2026-09-25T00:28:13.000Z",
 } as const satisfies TemperLoreBook

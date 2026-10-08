@@ -7,4 +7,6 @@ export const craftingMotif83PyreWatchChests = {
   title: "Crafting Motif 83: Pyre Watch Chests",
   collection: "temper-lore-collection/pyre-watch-style",
   bookIndex: 5,
+  createdAt: "2026-09-25T00:17:27.976Z",
+  updatedAt: "2026-09-25T00:17:29.000Z",
 } as const satisfies TemperLoreBook

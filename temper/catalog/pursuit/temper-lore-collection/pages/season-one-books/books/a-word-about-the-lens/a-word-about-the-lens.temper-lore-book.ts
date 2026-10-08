@@ -7,4 +7,6 @@ export const aWordAboutTheLens = {
   title: "A Word About the Lens",
   collection: "temper-lore-collection/season-one-books",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:54:30.654Z",
+  updatedAt: "2026-09-25T00:54:32.000Z",
 } as const satisfies TemperLoreBook

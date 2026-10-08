@@ -7,4 +7,6 @@ export const mathieryArchwayAndFlame = {
   title: "Mathiery: Archway and Flame",
   collection: "temper-lore-collection/season-one-books",
   bookIndex: 7,
+  createdAt: "2026-09-25T00:54:30.655Z",
+  updatedAt: "2026-09-25T00:54:32.000Z",
 } as const satisfies TemperLoreBook

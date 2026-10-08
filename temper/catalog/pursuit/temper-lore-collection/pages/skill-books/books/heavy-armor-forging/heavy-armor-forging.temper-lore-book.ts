@@ -30,4 +30,6 @@ export const heavyArmorForging = {
     { mapId: 1060, mapCount: 1 },
     { mapId: 1126, mapCount: 10 },
   ],
+  createdAt: "2026-09-25T00:28:11.968Z",
+  updatedAt: "2026-09-25T00:28:13.000Z",
 } as const satisfies TemperLoreBook

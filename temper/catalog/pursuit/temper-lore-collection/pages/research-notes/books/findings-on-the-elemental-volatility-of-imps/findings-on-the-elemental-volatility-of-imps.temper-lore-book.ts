@@ -11,4 +11,6 @@ export const findingsOnTheElementalVolatilityOfImps = {
   charted: true,
   quest: 6121,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:26:43.460Z",
+  updatedAt: "2026-09-25T00:26:45.000Z",
 } as const satisfies TemperLoreBook

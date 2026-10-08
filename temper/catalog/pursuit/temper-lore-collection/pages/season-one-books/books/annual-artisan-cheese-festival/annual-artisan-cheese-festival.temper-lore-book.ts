@@ -7,4 +7,6 @@ export const annualArtisanCheeseFestival = {
   title: "Annual Artisan Cheese Festival",
   collection: "temper-lore-collection/season-one-books",
   bookIndex: 29,
+  createdAt: "2026-09-25T00:54:30.654Z",
+  updatedAt: "2026-09-25T00:54:32.000Z",
 } as const satisfies TemperLoreBook

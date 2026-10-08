@@ -7,4 +7,6 @@ export const craftingMotif24OutlawAxes = {
   title: "Crafting Motif 24: Outlaw Axes",
   collection: "temper-lore-collection/outlaw-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:11:55.768Z",
+  updatedAt: "2026-09-25T00:11:56.000Z",
 } as const satisfies TemperLoreBook

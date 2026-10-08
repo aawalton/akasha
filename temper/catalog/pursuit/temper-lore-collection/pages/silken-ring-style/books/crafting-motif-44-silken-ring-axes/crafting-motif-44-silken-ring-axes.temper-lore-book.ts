@@ -7,4 +7,6 @@ export const craftingMotif44SilkenRingAxes = {
   title: "Crafting Motif 44: Silken Ring Axes",
   collection: "temper-lore-collection/silken-ring-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:13:42.083Z",
+  updatedAt: "2026-09-25T00:13:43.000Z",
 } as const satisfies TemperLoreBook

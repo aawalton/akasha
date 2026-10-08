@@ -12,4 +12,6 @@ export const achievingHarmonyWithDeath = {
   onBookshelves: true,
   mapCounts: [{ mapId: 37, mapCount: 2 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:11.967Z",
+  updatedAt: "2026-09-25T00:28:13.000Z",
 } as const satisfies TemperLoreBook

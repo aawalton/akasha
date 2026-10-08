@@ -7,4 +7,6 @@ export const fableOfTheGryphon35252 = {
   title: "Fable of the Gryphon",
   collection: "temper-lore-collection/scholarium-scribblings",
   bookIndex: 52,
+  createdAt: "2026-09-25T00:53:30.851Z",
+  updatedAt: "2026-09-25T00:53:32.000Z",
 } as const satisfies TemperLoreBook

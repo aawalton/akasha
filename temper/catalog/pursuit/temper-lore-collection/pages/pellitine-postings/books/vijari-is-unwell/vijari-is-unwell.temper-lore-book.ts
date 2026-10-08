@@ -11,4 +11,6 @@ export const vijariIsUnwell = {
   charted: true,
   quest: 6396,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:00.227Z",
+  updatedAt: "2026-09-25T00:51:02.000Z",
 } as const satisfies TemperLoreBook

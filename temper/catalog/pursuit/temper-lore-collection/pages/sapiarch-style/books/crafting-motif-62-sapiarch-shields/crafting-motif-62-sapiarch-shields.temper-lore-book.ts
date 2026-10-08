@@ -7,4 +7,6 @@ export const craftingMotif62SapiarchShields = {
   title: "Crafting Motif 62: Sapiarch Shields",
   collection: "temper-lore-collection/sapiarch-style",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:15:45.959Z",
+  updatedAt: "2026-09-25T00:15:47.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const fableOfTheDragon35253 = {
   title: "Fable of the Dragon",
   collection: "temper-lore-collection/scholarium-scribblings",
   bookIndex: 53,
+  createdAt: "2026-09-25T00:53:30.851Z",
+  updatedAt: "2026-09-25T00:53:32.000Z",
 } as const satisfies TemperLoreBook

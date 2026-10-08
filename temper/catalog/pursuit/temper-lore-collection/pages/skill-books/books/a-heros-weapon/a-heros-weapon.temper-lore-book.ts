@@ -26,4 +26,6 @@ export const aHerosWeapon = {
     { mapId: 1060, mapCount: 4 },
     { mapId: 1126, mapCount: 16 },
   ],
+  createdAt: "2026-09-25T00:28:11.967Z",
+  updatedAt: "2026-09-25T00:28:13.000Z",
 } as const satisfies TemperLoreBook

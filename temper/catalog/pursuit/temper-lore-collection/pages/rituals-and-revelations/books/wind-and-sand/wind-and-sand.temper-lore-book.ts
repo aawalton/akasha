@@ -28,4 +28,6 @@ export const windAndSand = {
     { mapId: 1060, mapCount: 18 },
     { mapId: 1126, mapCount: 12 },
   ],
+  createdAt: "2026-09-25T00:26:55.949Z",
+  updatedAt: "2026-09-25T00:26:58.000Z",
 } as const satisfies TemperLoreBook

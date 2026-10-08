@@ -10,4 +10,6 @@ export const torugAgKrazakAht = {
   bookIndex: 58,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:28:55.179Z",
+  updatedAt: "2026-09-25T00:28:57.000Z",
 } as const satisfies TemperLoreBook

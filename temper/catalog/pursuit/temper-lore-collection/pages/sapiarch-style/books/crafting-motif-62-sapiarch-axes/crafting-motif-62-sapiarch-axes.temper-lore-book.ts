@@ -7,4 +7,6 @@ export const craftingMotif62SapiarchAxes = {
   title: "Crafting Motif 62: Sapiarch Axes",
   collection: "temper-lore-collection/sapiarch-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:15:45.958Z",
+  updatedAt: "2026-09-25T00:15:47.000Z",
 } as const satisfies TemperLoreBook

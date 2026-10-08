@@ -7,4 +7,6 @@ export const craftingMotif83PyreWatchSwords = {
   title: "Crafting Motif 83: Pyre Watch Swords",
   collection: "temper-lore-collection/pyre-watch-style",
   bookIndex: 14,
+  createdAt: "2026-09-25T00:17:27.976Z",
+  updatedAt: "2026-09-25T00:17:29.000Z",
 } as const satisfies TemperLoreBook

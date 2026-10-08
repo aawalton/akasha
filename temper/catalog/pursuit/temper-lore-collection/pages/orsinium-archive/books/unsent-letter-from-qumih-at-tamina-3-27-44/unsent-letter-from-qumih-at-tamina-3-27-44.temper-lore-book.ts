@@ -7,4 +7,6 @@ export const unsentLetterFromQumihAtTamina32744 = {
   title: "Unsent Letter from Qumih at-Tamina",
   collection: "temper-lore-collection/orsinium-archive",
   bookIndex: 44,
+  createdAt: "2026-09-25T00:28:55.180Z",
+  updatedAt: "2026-09-25T00:28:57.000Z",
 } as const satisfies TemperLoreBook

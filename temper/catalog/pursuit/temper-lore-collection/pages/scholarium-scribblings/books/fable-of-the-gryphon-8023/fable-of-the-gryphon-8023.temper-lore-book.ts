@@ -9,4 +9,6 @@ export const fableOfTheGryphon8023 = {
   esoBookId: 8023,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:30.851Z",
+  updatedAt: "2026-09-25T00:53:32.000Z",
 } as const satisfies TemperLoreBook

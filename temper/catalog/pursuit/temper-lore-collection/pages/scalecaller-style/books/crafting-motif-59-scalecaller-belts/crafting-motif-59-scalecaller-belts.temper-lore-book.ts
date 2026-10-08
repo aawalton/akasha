@@ -7,4 +7,6 @@ export const craftingMotif59ScalecallerBelts = {
   title: "Crafting Motif 59: Scalecaller Belts",
   collection: "temper-lore-collection/scalecaller-style",
   bookIndex: 2,
+  createdAt: "2026-09-25T00:14:58.077Z",
+  updatedAt: "2026-09-25T00:14:59.000Z",
 } as const satisfies TemperLoreBook

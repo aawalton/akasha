@@ -8,4 +8,6 @@ export const direLegendsOfTheDoomcrag = {
   collection: "temper-lore-collection/rivenspire-lore",
   bookIndex: 6,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:00.027Z",
+  updatedAt: "2026-09-25T00:07:01.000Z",
 } as const satisfies TemperLoreBook

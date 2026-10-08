@@ -16,4 +16,6 @@ export const notesOnTheOrderSkeevera = {
     { mapId: 27, mapCount: 3 },
     { mapId: 300, mapCount: 34 },
   ],
+  createdAt: "2026-09-25T00:26:43.461Z",
+  updatedAt: "2026-09-25T00:26:45.000Z",
 } as const satisfies TemperLoreBook

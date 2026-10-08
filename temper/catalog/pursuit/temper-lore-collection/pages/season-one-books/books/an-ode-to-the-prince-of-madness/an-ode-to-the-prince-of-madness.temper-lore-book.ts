@@ -7,4 +7,6 @@ export const anOdeToThePrinceOfMadness = {
   title: "An Ode to the Prince of Madness",
   collection: "temper-lore-collection/season-one-books",
   bookIndex: 31,
+  createdAt: "2026-09-25T00:54:30.654Z",
+  updatedAt: "2026-09-25T00:54:32.000Z",
 } as const satisfies TemperLoreBook

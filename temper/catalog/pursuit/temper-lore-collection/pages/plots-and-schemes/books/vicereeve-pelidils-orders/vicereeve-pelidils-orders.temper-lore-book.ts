@@ -9,4 +9,6 @@ export const vicereevePelidilsOrders = {
   esoBookId: 1322,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:26:22.985Z",
+  updatedAt: "2026-09-25T00:26:33.000Z",
 } as const satisfies TemperLoreBook

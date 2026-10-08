@@ -20,4 +20,6 @@ export const nerevarMoonAndStar = {
     { mapId: 227, mapCount: 11 },
     { mapId: 258, mapCount: 27 },
   ],
+  createdAt: "2026-09-25T00:26:55.948Z",
+  updatedAt: "2026-09-25T00:26:58.000Z",
 } as const satisfies TemperLoreBook

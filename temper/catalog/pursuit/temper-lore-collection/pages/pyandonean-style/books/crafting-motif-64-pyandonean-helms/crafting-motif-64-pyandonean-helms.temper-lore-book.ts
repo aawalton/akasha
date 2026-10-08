@@ -7,4 +7,6 @@ export const craftingMotif64PyandoneanHelms = {
   title: "Crafting Motif 64: Pyandonean Helms",
   collection: "temper-lore-collection/pyandonean-style",
   bookIndex: 8,
+  createdAt: "2026-09-25T00:15:51.482Z",
+  updatedAt: "2026-09-25T00:15:52.000Z",
 } as const satisfies TemperLoreBook

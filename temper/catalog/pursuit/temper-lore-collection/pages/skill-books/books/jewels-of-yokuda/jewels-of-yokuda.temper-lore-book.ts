@@ -14,4 +14,6 @@ export const jewelsOfYokuda = {
     { mapId: 1349, mapCount: 52 },
     { mapId: 1429, mapCount: 30 },
   ],
+  createdAt: "2026-09-25T00:28:11.968Z",
+  updatedAt: "2026-09-25T00:28:13.000Z",
 } as const satisfies TemperLoreBook

@@ -11,4 +11,6 @@ export const theBlackYear = {
   charted: true,
   quest: 4386,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:26:55.948Z",
+  updatedAt: "2026-09-25T00:26:58.000Z",
 } as const satisfies TemperLoreBook

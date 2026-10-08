@@ -7,4 +7,6 @@ export const craftingMotif126ShardbornBows = {
   title: "Crafting Motif 126: Shardborn Bows",
   collection: "temper-lore-collection/shardborn-style",
   bookIndex: 4,
+  createdAt: "2026-09-25T00:21:38.065Z",
+  updatedAt: "2026-09-25T00:21:39.000Z",
 } as const satisfies TemperLoreBook

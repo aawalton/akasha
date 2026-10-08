@@ -27,4 +27,6 @@ export const theSourceOfTheBone = {
     { mapId: 1060, mapCount: 3 },
     { mapId: 1126, mapCount: 33 },
   ],
+  createdAt: "2026-09-25T00:28:11.970Z",
+  updatedAt: "2026-09-25T00:28:13.000Z",
 } as const satisfies TemperLoreBook

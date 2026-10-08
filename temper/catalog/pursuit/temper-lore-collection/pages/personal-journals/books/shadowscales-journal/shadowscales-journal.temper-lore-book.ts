@@ -11,4 +11,6 @@ export const shadowscalesJournal = {
   charted: true,
   quest: 3686,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:26:01.371Z",
+  updatedAt: "2026-09-25T00:26:13.000Z",
 } as const satisfies TemperLoreBook

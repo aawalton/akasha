@@ -7,4 +7,6 @@ export const craftingMotif61PsijicStaves = {
   title: "Crafting Motif 61: Psijic Staves",
   collection: "temper-lore-collection/psijic-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:15:03.290Z",
+  updatedAt: "2026-09-25T00:15:04.000Z",
 } as const satisfies TemperLoreBook

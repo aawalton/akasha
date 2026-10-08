@@ -12,4 +12,6 @@ export const ancientHuntersJournal = {
   onBookshelves: true,
   mapCounts: [{ mapId: 2427, mapCount: 1 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:30.851Z",
+  updatedAt: "2026-09-25T00:53:32.000Z",
 } as const satisfies TemperLoreBook

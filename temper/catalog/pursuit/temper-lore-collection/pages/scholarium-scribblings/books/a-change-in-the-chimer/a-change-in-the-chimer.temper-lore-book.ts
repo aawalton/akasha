@@ -11,4 +11,6 @@ export const aChangeInTheChimer = {
   charted: true,
   onBookshelves: true,
   mapCounts: [{ mapId: 2427, mapCount: 1 }],
+  createdAt: "2026-09-25T00:53:30.850Z",
+  updatedAt: "2026-09-25T00:53:32.000Z",
 } as const satisfies TemperLoreBook

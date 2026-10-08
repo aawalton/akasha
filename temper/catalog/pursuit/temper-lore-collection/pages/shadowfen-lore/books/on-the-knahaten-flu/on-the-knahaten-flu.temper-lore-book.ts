@@ -8,4 +8,6 @@ export const onTheKnahatenFlu = {
   collection: "temper-lore-collection/shadowfen-lore",
   bookIndex: 10,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:07:15.832Z",
+  updatedAt: "2026-09-25T00:07:17.000Z",
 } as const satisfies TemperLoreBook

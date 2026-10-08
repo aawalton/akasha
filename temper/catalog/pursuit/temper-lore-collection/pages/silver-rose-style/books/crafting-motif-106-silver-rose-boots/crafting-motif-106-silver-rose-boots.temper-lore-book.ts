@@ -7,4 +7,6 @@ export const craftingMotif106SilverRoseBoots = {
   title: "Crafting Motif 106: Silver Rose Boots",
   collection: "temper-lore-collection/silver-rose-style",
   bookIndex: 3,
+  createdAt: "2026-09-25T00:19:25.864Z",
+  updatedAt: "2026-09-25T00:19:27.000Z",
 } as const satisfies TemperLoreBook

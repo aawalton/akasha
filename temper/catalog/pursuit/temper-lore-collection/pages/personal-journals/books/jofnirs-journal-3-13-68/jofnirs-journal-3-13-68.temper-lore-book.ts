@@ -7,4 +7,6 @@ export const jofnirsJournal31368 = {
   title: "Jofnir's Journal",
   collection: "temper-lore-collection/personal-journals",
   bookIndex: 68,
+  createdAt: "2026-09-25T00:26:01.370Z",
+  updatedAt: "2026-09-25T00:26:13.000Z",
 } as const satisfies TemperLoreBook
