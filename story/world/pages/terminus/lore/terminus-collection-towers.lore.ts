@@ -77,6 +77,14 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Each tower is named for the word or concept its rank number means in the Builders' language.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Symbolic resonance gives a tower's challenges the flavour of the concept it is named for.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The System user who conquers a tower is appointed that tower's Administrator.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -210,5 +218,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T20:52:48.032Z",
+  updatedAt: "2026-10-08T20:53:32.521Z",
 } as const satisfies Lore
