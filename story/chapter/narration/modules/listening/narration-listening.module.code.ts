@@ -1,3 +1,4 @@
+import { getNowPlayingCommands } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import {
@@ -260,4 +261,49 @@ export function nowPlayingControlled(controls: {
       console.error(`[narration] this browser takes no ${action} handler`)
     }
   }
+}
+
+type Commanded = Pick<HTMLAudioElement, "paused" | "play" | "pause">
+
+export function commandTaken(
+  said: string,
+  audio: Commanded | null,
+  refused: (why: string) => undefined
+): undefined {
+  if (audio === null) return
+  if (said === "pause" || (said === "toggle" && !audio.paused)) {
+    audio.pause()
+    return
+  }
+  if (said === "play" || said === "toggle") {
+    void audio.play().catch((thrown: unknown) => refused(saidBy(thrown)))
+  }
+}
+
+function lockScreenTaken(audio: () => HTMLAudioElement | null, report: Report): () => undefined {
+  const commands = getNowPlayingCommands()
+  if (commands === null) return () => undefined
+  const refused = (why: string): undefined => report("lock-screen-play-refused", { why })
+  const listening = commands.addListener("command", ({ command }) => {
+    report("lock-screen-command", { command })
+    commandTaken(command, audio(), refused)
+  })
+  void commands.claim().catch((thrown: unknown) => {
+    console.error(`[narration] the app took no lock screen commands: ${saidBy(thrown)}`)
+  })
+  return () => {
+    void Promise.resolve(listening).then((handle) => handle.remove())
+    void commands.release().catch(() => undefined)
+  }
+}
+
+export function useLockScreen(
+  narrating: boolean,
+  audio: RefObject<HTMLAudioElement | null>,
+  report: Report
+): undefined {
+  useEffect(() => {
+    if (!narrating) return
+    return lockScreenTaken(() => audio.current, report)
+  }, [narrating, audio, report])
 }

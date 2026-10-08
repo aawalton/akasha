@@ -40,5 +40,11 @@ export const capacitorBridge = {
       decisionKind: "decision-kind/departure",
       statement: "A handover answers with a code and the verifier that code is bound to.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The app hands the page each lock screen command it takes as play, pause or toggle.",
+    },
   ],
+  updatedAt: "2026-10-08T15:57:10.204Z",
 } as const satisfies Module

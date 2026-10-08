@@ -89,6 +89,19 @@ export interface StoplightsActivityPlugin {
   ) => PluginListenerHandle | Promise<PluginListenerHandle>
 }
 
+export interface NowPlayingCommandsEventMap {
+  command: { command: string }
+}
+
+export interface NowPlayingCommandsPlugin {
+  claim: () => Promise<void>
+  release: () => Promise<void>
+  addListener: <E extends keyof NowPlayingCommandsEventMap>(
+    eventName: E,
+    listener: (event: NowPlayingCommandsEventMap[E]) => void
+  ) => PluginListenerHandle | Promise<PluginListenerHandle>
+}
+
 interface CapacitorGlobal {
   isNativePlatform?: () => boolean
   Plugins?: {
@@ -99,6 +112,7 @@ interface CapacitorGlobal {
     DeviceSecret?: DeviceSecretPlugin
     HandoverSignIn?: HandoverSignInPlugin
     StoplightsActivity?: StoplightsActivityPlugin
+    NowPlayingCommands?: NowPlayingCommandsPlugin
   }
 }
 
@@ -162,6 +176,15 @@ export function getStoplightsActivity(): StoplightsActivityPlugin | null {
   if (typeof plugin.start !== "function") return null
   if (typeof plugin.update !== "function") return null
   if (typeof plugin.end !== "function") return null
+  if (typeof plugin.addListener !== "function") return null
+  return plugin
+}
+
+export function getNowPlayingCommands(): NowPlayingCommandsPlugin | null {
+  const plugin = capacitorGlobal()?.Plugins?.NowPlayingCommands
+  if (plugin == null) return null
+  if (typeof plugin.claim !== "function") return null
+  if (typeof plugin.release !== "function") return null
   if (typeof plugin.addListener !== "function") return null
   return plugin
 }

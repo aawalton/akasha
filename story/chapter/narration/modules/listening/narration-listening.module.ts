@@ -35,7 +35,24 @@ export const narrationListening = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The lock screen's play and pause reach the audio itself rather than this code.",
+      statement:
+        "In a browser, the lock screen's play and pause reach the audio itself rather than this code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "In the app, the lock screen's play and pause reach this code through the app.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A toggle from the lock screen pauses audio that is playing and plays any other.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each lock screen command is reported, and so is a play the audio refuses.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A play the audio refuses leaves the narration open rather than failed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -54,4 +71,5 @@ export const narrationListening = {
       statement: "hls.js holds ten minutes of a narration past the playhead.",
     },
   ],
+  updatedAt: "2026-10-08T15:57:10.204Z",
 } as const satisfies Module

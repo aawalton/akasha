@@ -19,6 +19,7 @@ import {
   progressWritten,
   silenceWav,
   streamedInto,
+  useLockScreen,
   useSpeed,
 } from "akasha/story/chapter/narration/modules/listening/narration-listening.module.code.ts"
 import {
@@ -457,6 +458,8 @@ export function NarrationProvider({
       seek,
     })
   }, [seek, skip])
+
+  useLockScreen(shown.kind === "opening" || shown.kind === "playing", audioRef, report)
 
   const narration = useMemo<Narration>(
     () => ({

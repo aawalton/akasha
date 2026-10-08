@@ -53,6 +53,11 @@ export const narration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Play and pause on the lock screen are taken by the app itself, so they work while the app sleeps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Narration plays from a growing HLS playlist.",
     },
     {
@@ -134,5 +139,5 @@ export const narration = {
     },
   ],
   createdAt: "2026-10-05T20:21:33.528Z",
-  updatedAt: "2026-10-07T15:50:37.000Z",
+  updatedAt: "2026-10-08T15:57:10.204Z",
 } as const satisfies Domain

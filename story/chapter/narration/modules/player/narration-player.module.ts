@@ -77,5 +77,10 @@ export const narrationPlayer = {
       decisionKind: "decision-kind/departure",
       statement: "The player tells every page which chapter and which sentence it is speaking.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The app takes the lock screen's play and pause while a narration opens or plays.",
+    },
   ],
+  updatedAt: "2026-10-08T15:57:10.204Z",
 } as const satisfies Module
