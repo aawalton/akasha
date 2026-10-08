@@ -9,7 +9,8 @@ export const athena = {
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "e7b43ca2-a8a6-438d-ad61-03369afdc533",
+  updatedAt: "2026-10-08T15:11:52.713Z",
 } as const satisfies Seat
