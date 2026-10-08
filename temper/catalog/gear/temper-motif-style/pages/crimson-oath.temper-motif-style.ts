@@ -9,4 +9,6 @@ export const crimsonOath = {
   styleName: "Crimson Oath",
   collectionIndex: 90,
   sourceDescription: "Dread Cellar dungeon",
+  createdAt: "2026-05-24T13:57:27.817Z",
+  updatedAt: "2026-09-27T16:52:54.000Z",
 } as const satisfies TemperMotifStyle

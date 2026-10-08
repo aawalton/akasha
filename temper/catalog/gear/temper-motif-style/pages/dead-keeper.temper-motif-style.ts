@@ -13,4 +13,6 @@ export const deadKeeper = {
     "temper-scribing-source/dlc-delve-dailies",
     "temper-scribing-source/dlc-world-boss-dailies",
   ],
+  createdAt: "2026-05-24T13:57:27.865Z",
+  updatedAt: "2026-09-27T16:55:48.000Z",
 } as const satisfies TemperMotifStyle

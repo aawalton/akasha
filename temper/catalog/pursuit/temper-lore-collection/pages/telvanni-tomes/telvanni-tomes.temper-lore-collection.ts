@@ -13,4 +13,6 @@ export const telvanniTomes = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 97,
+  createdAt: "2026-09-25T00:52:46.108Z",
+  updatedAt: "2026-09-25T00:52:48.000Z",
 } as const satisfies TemperLoreCollection

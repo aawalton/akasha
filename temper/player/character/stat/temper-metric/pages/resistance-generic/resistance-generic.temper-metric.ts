@@ -10,4 +10,6 @@ export const resistanceGeneric = {
   polarity: "higher-is-better",
   esoStatConstantName: "STAT_DAMAGE_RESIST_GENERIC",
   fullyImplemented: false,
+  createdAt: "2026-09-26T15:48:56.460Z",
+  updatedAt: "2026-09-26T15:49:21.000Z",
 } as const satisfies TemperMetric

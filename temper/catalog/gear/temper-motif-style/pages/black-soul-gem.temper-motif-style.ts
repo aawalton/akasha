@@ -7,4 +7,6 @@ export const blackSoulGem = {
   title: "Black Soul Gem",
   esoItemStyleId: 158,
   styleName: "Black Soul Gem",
+  createdAt: "2026-09-27T17:12:36.542Z",
+  updatedAt: "2026-09-27T17:12:39.000Z",
 } as const satisfies TemperMotifStyle

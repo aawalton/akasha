@@ -9,4 +9,6 @@ export const subcategoryCriticalDefense = {
   nodeType: "subcategory",
   displayOrder: 4,
   parent: "temper-metric-tree/category-toughness",
+  createdAt: "2026-05-16T08:00:47.663Z",
+  updatedAt: "2026-09-22T20:46:12.000Z",
 } as const satisfies TemperMetricTree

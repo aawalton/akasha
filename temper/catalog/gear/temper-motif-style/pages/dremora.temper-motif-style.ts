@@ -9,4 +9,6 @@ export const dremora = {
   styleName: "Dremora",
   collectionIndex: 50,
   sourceDescription: "Witches Festival event",
+  createdAt: "2026-05-24T13:57:27.700Z",
+  updatedAt: "2026-09-27T16:45:19.000Z",
 } as const satisfies TemperMotifStyle

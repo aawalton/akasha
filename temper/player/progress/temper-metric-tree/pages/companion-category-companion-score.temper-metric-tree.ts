@@ -9,4 +9,6 @@ export const companionCategoryCompanionScore = {
   nodeType: "companion-category",
   displayOrder: 0,
   parent: "temper-metric-tree/companion-role-group-overall",
+  createdAt: "2026-09-26T19:11:52.910Z",
+  updatedAt: "2026-09-26T19:12:14.000Z",
 } as const satisfies TemperMetricTree

@@ -10,4 +10,6 @@ export const metricBashCost = {
   displayOrder: 3,
   parent: "temper-metric-tree/subcategory-block",
   includeInChildAggregates: true,
+  createdAt: "2026-09-24T15:08:51.550Z",
+  updatedAt: "2026-09-24T15:09:07.000Z",
 } as const satisfies TemperMetricTree

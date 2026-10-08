@@ -9,4 +9,6 @@ export const blessedInheritor = {
   styleName: "Blessed Inheritor",
   collectionIndex: 104,
   sourceDescription: "Bal Sunnar dungeon",
+  createdAt: "2026-05-24T13:57:27.859Z",
+  updatedAt: "2026-09-27T16:55:25.000Z",
 } as const satisfies TemperMotifStyle

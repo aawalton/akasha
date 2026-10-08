@@ -9,4 +9,6 @@ export const darkBrotherhood = {
   styleName: "Dark Brotherhood",
   collectionIndex: 28,
   sourceDescription: "Sacrament quests (Gold Coast)",
+  createdAt: "2026-05-24T13:57:27.648Z",
+  updatedAt: "2026-09-27T12:44:10.000Z",
 } as const satisfies TemperMotifStyle

@@ -9,4 +9,6 @@ export const metricTargetCriticalDamageDone = {
   nodeType: "metric",
   displayOrder: 2,
   parent: "temper-metric-tree/subcategory-target-damage",
+  createdAt: "2026-05-16T08:00:47.760Z",
+  updatedAt: "2026-09-22T20:46:12.000Z",
 } as const satisfies TemperMetricTree

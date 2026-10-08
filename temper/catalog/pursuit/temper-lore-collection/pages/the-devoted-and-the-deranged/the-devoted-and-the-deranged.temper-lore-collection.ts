@@ -13,4 +13,6 @@ export const theDevotedAndTheDeranged = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 102,
+  createdAt: "2026-09-25T00:27:22.427Z",
+  updatedAt: "2026-09-25T00:27:24.000Z",
 } as const satisfies TemperLoreCollection

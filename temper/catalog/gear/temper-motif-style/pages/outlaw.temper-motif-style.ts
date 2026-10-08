@@ -9,4 +9,6 @@ export const outlaw = {
   styleName: "Outlaw",
   collectionIndex: 10,
   sourceDescription: "Hew's Bane bosses",
+  createdAt: "2026-05-24T13:57:27.605Z",
+  updatedAt: "2026-09-27T12:43:54.000Z",
 } as const satisfies TemperMotifStyle

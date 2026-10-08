@@ -12,4 +12,6 @@ export const wordsOfThePoets = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 73,
+  createdAt: "2026-09-25T00:27:51.191Z",
+  updatedAt: "2026-09-25T00:27:53.000Z",
 } as const satisfies TemperLoreCollection

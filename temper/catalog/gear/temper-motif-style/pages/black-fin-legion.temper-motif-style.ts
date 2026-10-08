@@ -13,4 +13,6 @@ export const blackFinLegion = {
     "temper-scribing-source/dlc-delve-dailies",
     "temper-scribing-source/dlc-world-boss-dailies",
   ],
+  createdAt: "2026-05-24T13:57:27.809Z",
+  updatedAt: "2026-09-27T16:52:21.000Z",
 } as const satisfies TemperMotifStyle

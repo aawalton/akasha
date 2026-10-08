@@ -6,4 +6,6 @@ export const eideticMemory = {
   slug: "eidetic-memory",
   title: "Eidetic Memory",
   esoLoreCategoryId: 3,
+  createdAt: "2026-09-27T09:59:19.272Z",
+  updatedAt: "2026-09-27T09:59:22.000Z",
 } as const satisfies TemperLoreCategory

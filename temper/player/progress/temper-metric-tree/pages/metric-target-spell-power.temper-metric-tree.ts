@@ -9,4 +9,6 @@ export const metricTargetSpellPower = {
   nodeType: "metric",
   displayOrder: 0,
   parent: "temper-metric-tree/metric-target-power",
+  createdAt: "2026-05-16T08:00:47.766Z",
+  updatedAt: "2026-09-22T20:46:12.000Z",
 } as const satisfies TemperMetricTree

@@ -14,4 +14,6 @@ export const anequina = {
     "temper-scribing-source/dlc-world-boss-dailies",
     "temper-scribing-source/dlc-incursion-dailies",
   ],
+  createdAt: "2026-05-24T13:57:27.725Z",
+  updatedAt: "2026-09-27T16:46:52.000Z",
 } as const satisfies TemperMotifStyle

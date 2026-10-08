@@ -12,4 +12,6 @@ export const scribesOfMoraStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:21:01.701Z",
+  updatedAt: "2026-09-25T00:21:02.000Z",
 } as const satisfies TemperLoreCollection

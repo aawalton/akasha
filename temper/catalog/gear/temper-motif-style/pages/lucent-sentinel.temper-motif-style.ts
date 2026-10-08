@@ -9,4 +9,6 @@ export const lucentSentinel = {
   styleName: "Lucent Sentinel",
   collectionIndex: 112,
   sourceDescription: "Lucent Citadel trial",
+  createdAt: "2026-05-24T13:57:27.883Z",
+  updatedAt: "2026-09-27T16:56:50.000Z",
 } as const satisfies TemperMotifStyle

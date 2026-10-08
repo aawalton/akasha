@@ -13,4 +13,6 @@ export const ashlander = {
     "temper-scribing-source/dlc-delve-dailies",
     "temper-scribing-source/dlc-world-boss-dailies",
   ],
+  createdAt: "2026-05-24T13:57:27.664Z",
+  updatedAt: "2026-09-27T12:44:15.000Z",
 } as const satisfies TemperMotifStyle

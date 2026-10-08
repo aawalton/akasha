@@ -7,4 +7,6 @@ export const holidaySkinchanger = {
   title: "Skinchanger",
   esoItemStyleId: 42,
   styleName: "Skinchanger",
+  createdAt: "2026-09-27T03:37:10.218Z",
+  updatedAt: "2026-09-27T12:44:25.000Z",
 } as const satisfies TemperMotifStyle

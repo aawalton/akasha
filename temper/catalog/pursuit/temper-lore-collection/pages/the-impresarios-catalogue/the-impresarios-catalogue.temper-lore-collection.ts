@@ -13,4 +13,6 @@ export const theImpresariosCatalogue = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 18,
+  createdAt: "2026-09-25T00:51:52.125Z",
+  updatedAt: "2026-09-25T00:51:53.000Z",
 } as const satisfies TemperLoreCollection

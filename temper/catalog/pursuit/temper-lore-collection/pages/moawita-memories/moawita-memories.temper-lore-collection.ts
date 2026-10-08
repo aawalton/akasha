@@ -12,4 +12,6 @@ export const moawitaMemories = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_magic.dds",
   hidden: false,
   bookTotal: 21,
+  createdAt: "2026-09-25T00:50:36.653Z",
+  updatedAt: "2026-09-25T00:50:37.000Z",
 } as const satisfies TemperLoreCollection

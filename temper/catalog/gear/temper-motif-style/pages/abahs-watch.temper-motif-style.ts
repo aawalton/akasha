@@ -9,4 +9,6 @@ export const abahsWatch = {
   styleName: "Abah's Watch",
   collectionIndex: 22,
   sourceDescription: "Thieves Guild Tip Board (Hew's Bane)",
+  createdAt: "2026-05-24T13:57:27.636Z",
+  updatedAt: "2026-09-27T12:44:06.000Z",
 } as const satisfies TemperMotifStyle

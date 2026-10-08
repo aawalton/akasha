@@ -7,4 +7,6 @@ export const areaReachWinter = {
   title: "Reach Winter",
   esoItemStyleId: 37,
   styleName: "Reach Winter",
+  createdAt: "2026-09-27T03:37:10.217Z",
+  updatedAt: "2026-09-27T12:44:19.000Z",
 } as const satisfies TemperMotifStyle

@@ -12,4 +12,6 @@ export const houseTelvanniStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:13:52.275Z",
+  updatedAt: "2026-09-25T00:13:53.000Z",
 } as const satisfies TemperLoreCollection

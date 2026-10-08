@@ -9,4 +9,6 @@ export const minotaur = {
   styleName: "Minotaur",
   collectionIndex: 24,
   sourceDescription: '"Looming Shadows" daily (Gold Coast)',
+  createdAt: "2026-05-24T13:57:27.641Z",
+  updatedAt: "2026-09-27T12:44:07.000Z",
 } as const satisfies TemperMotifStyle

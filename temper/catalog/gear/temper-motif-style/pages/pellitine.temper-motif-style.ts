@@ -14,4 +14,6 @@ export const pellitine = {
     "temper-scribing-source/dlc-world-boss-dailies",
     "temper-scribing-source/dlc-incursion-dailies",
   ],
+  createdAt: "2026-05-24T13:57:27.727Z",
+  updatedAt: "2026-09-27T16:47:06.000Z",
 } as const satisfies TemperMotifStyle

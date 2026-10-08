@@ -12,4 +12,6 @@ export const buoyantArmigerStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:14:01.985Z",
+  updatedAt: "2026-09-25T00:14:03.000Z",
 } as const satisfies TemperLoreCollection

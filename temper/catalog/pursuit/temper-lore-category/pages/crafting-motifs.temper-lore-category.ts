@@ -6,4 +6,6 @@ export const craftingMotifs = {
   slug: "crafting-motifs",
   title: "Crafting Motifs",
   esoLoreCategoryId: 2,
+  createdAt: "2026-09-27T09:59:19.271Z",
+  updatedAt: "2026-09-27T09:59:22.000Z",
 } as const satisfies TemperLoreCategory

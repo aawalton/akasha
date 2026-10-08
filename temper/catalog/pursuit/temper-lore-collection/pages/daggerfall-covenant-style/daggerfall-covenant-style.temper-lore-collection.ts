@@ -13,4 +13,6 @@ export const daggerfallCovenantStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:12:21.636Z",
+  updatedAt: "2026-09-25T00:12:22.000Z",
 } as const satisfies TemperLoreCollection

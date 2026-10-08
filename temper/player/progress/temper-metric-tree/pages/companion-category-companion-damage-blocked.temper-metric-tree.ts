@@ -9,4 +9,6 @@ export const companionCategoryCompanionDamageBlocked = {
   nodeType: "companion-category",
   displayOrder: 2,
   parent: "temper-metric-tree/companion-group-toughness",
+  createdAt: "2026-09-26T18:43:00.437Z",
+  updatedAt: "2026-09-26T18:43:39.000Z",
 } as const satisfies TemperMetricTree

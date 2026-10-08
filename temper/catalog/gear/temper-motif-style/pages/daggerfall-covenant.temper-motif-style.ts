@@ -9,4 +9,6 @@ export const daggerfallCovenant = {
   styleName: "Daggerfall Covenant",
   collectionIndex: 15,
   sourceDescription: "DC treasure chests in Cyrodiil",
+  createdAt: "2026-05-24T13:57:27.618Z",
+  updatedAt: "2026-09-27T12:43:59.000Z",
 } as const satisfies TemperMotifStyle

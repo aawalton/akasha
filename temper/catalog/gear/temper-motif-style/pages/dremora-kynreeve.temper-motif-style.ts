@@ -7,4 +7,6 @@ export const dremoraKynreeve = {
   title: "Dremora Kynreeve",
   esoItemStyleId: 118,
   styleName: "Dremora Kynreeve",
+  createdAt: "2026-09-27T17:10:49.149Z",
+  updatedAt: "2026-09-27T17:10:51.000Z",
 } as const satisfies TemperMotifStyle

@@ -8,4 +8,6 @@ export const categoryHealing = {
   nodeId: "healing",
   nodeType: "category",
   displayOrder: 3,
+  createdAt: "2026-05-16T08:00:47.694Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperMetricTree

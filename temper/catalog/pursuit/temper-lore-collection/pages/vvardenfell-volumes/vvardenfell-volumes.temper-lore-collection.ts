@@ -13,4 +13,6 @@ export const vvardenfellVolumes = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 126,
+  createdAt: "2026-09-25T00:29:33.210Z",
+  updatedAt: "2026-09-25T00:29:35.000Z",
 } as const satisfies TemperLoreCollection

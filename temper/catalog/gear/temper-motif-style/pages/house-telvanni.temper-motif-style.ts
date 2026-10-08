@@ -9,4 +9,6 @@ export const houseTelvanni = {
   styleName: "Telvanni",
   collectionIndex: 33,
   sourceDescription: "Pickpocketing and theft in Vvardenfell",
+  createdAt: "2026-05-24T13:57:27.656Z",
+  updatedAt: "2026-09-27T16:57:40.000Z",
 } as const satisfies TemperMotifStyle

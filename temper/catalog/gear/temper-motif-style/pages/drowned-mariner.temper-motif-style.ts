@@ -9,4 +9,6 @@ export const drownedMariner = {
   styleName: "Drowned Mariner",
   collectionIndex: 100,
   sourceDescription: "Graven Deep dungeon",
+  createdAt: "2026-05-24T13:57:27.847Z",
+  updatedAt: "2026-09-27T16:54:39.000Z",
 } as const satisfies TemperMotifStyle

@@ -13,4 +13,6 @@ export const criticalRating = {
   cap: 1,
   fullyImplemented: true,
   formula: "ts",
+  createdAt: "2026-09-26T15:48:56.456Z",
+  updatedAt: "2026-09-26T16:20:34.000Z",
 } as const satisfies TemperMetric

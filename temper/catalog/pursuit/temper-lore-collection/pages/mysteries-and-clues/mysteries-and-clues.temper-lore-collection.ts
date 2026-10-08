@@ -13,4 +13,6 @@ export const mysteriesAndClues = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 118,
+  createdAt: "2026-09-25T00:25:34.906Z",
+  updatedAt: "2026-09-25T00:25:37.000Z",
 } as const satisfies TemperLoreCollection

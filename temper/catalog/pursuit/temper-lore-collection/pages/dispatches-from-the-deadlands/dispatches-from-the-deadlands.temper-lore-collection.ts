@@ -13,4 +13,6 @@ export const dispatchesFromTheDeadlands = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
   hidden: false,
   bookTotal: 81,
+  createdAt: "2026-09-25T00:52:02.369Z",
+  updatedAt: "2026-09-25T00:52:04.000Z",
 } as const satisfies TemperLoreCollection

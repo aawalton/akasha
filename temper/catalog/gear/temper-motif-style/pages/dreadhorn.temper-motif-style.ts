@@ -9,4 +9,6 @@ export const dreadhorn = {
   styleName: "Dreadhorn",
   collectionIndex: 41,
   sourceDescription: "Falkreath Hold dungeon",
+  createdAt: "2026-05-24T13:57:27.678Z",
+  updatedAt: "2026-09-27T16:43:57.000Z",
 } as const satisfies TemperMotifStyle

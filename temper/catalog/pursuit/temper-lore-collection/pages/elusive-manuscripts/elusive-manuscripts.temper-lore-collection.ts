@@ -13,4 +13,6 @@ export const elusiveManuscripts = {
   gamepadIcon: "/esoui/art/icons/icon_missing.dds",
   hidden: false,
   bookTotal: 8,
+  createdAt: "2026-09-25T00:53:45.714Z",
+  updatedAt: "2026-09-25T00:53:47.000Z",
 } as const satisfies TemperLoreCollection

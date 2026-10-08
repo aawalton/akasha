@@ -9,4 +9,6 @@ export const metricHealingDoneDirect = {
   nodeType: "metric",
   displayOrder: 2,
   parent: "temper-metric-tree/subcategory-healing-done",
+  createdAt: "2026-05-16T08:00:47.702Z",
+  updatedAt: "2026-09-26T15:51:54.000Z",
 } as const satisfies TemperMetricTree

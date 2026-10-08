@@ -9,4 +9,6 @@ export const companionCategoryCompanionDpsTotal = {
   nodeType: "companion-category",
   displayOrder: 0,
   parent: "temper-metric-tree/companion-group-damage",
+  createdAt: "2026-09-26T18:43:00.437Z",
+  updatedAt: "2026-09-26T18:43:39.000Z",
 } as const satisfies TemperMetricTree

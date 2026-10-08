@@ -7,4 +7,6 @@ export const favorsForTheFreerunners = {
   title: "Favors for the Freerunners",
   esoLoreCategoryId: 3,
   esoCollectionIndex: 60,
+  createdAt: "2026-09-25T00:54:36.547Z",
+  updatedAt: "2026-09-25T00:54:37.000Z",
 } as const satisfies TemperLoreCollection

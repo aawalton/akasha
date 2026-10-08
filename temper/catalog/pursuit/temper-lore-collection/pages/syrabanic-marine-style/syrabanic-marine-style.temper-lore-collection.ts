@@ -12,4 +12,6 @@ export const syrabanicMarineStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:19:53.462Z",
+  updatedAt: "2026-09-25T00:19:54.000Z",
 } as const satisfies TemperLoreCollection

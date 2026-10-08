@@ -12,4 +12,6 @@ export const welkynarStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:16:12.247Z",
+  updatedAt: "2026-09-25T00:16:13.000Z",
 } as const satisfies TemperLoreCollection

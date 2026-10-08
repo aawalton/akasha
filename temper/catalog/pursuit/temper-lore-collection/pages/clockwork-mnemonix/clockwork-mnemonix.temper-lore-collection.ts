@@ -13,4 +13,6 @@ export const clockworkMnemonix = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_dwemer.dds",
   hidden: false,
   bookTotal: 82,
+  createdAt: "2026-09-25T00:50:16.212Z",
+  updatedAt: "2026-09-25T00:50:17.000Z",
 } as const satisfies TemperLoreCollection

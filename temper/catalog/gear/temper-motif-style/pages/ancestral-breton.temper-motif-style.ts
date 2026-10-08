@@ -9,4 +9,6 @@ export const ancestralBreton = {
   styleName: "Ancestral Breton",
   collectionIndex: 78,
   sourceDescription: "Treasure maps and antiquities (High Isle)",
+  createdAt: "2026-05-24T13:57:27.781Z",
+  updatedAt: "2026-09-27T16:50:14.000Z",
 } as const satisfies TemperMotifStyle

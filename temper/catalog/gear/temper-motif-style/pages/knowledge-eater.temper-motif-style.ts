@@ -7,4 +7,6 @@ export const knowledgeEater = {
   title: "Knowledge Eater",
   esoItemStyleId: 137,
   styleName: "Knowledge Eater",
+  createdAt: "2026-09-27T17:11:22.965Z",
+  updatedAt: "2026-09-27T17:11:25.000Z",
 } as const satisfies TemperMotifStyle

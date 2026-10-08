@@ -12,4 +12,6 @@ export const westernSkyrimRegister = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
   hidden: false,
   bookTotal: 42,
+  createdAt: "2026-09-25T00:51:22.082Z",
+  updatedAt: "2026-09-25T00:51:23.000Z",
 } as const satisfies TemperLoreCollection

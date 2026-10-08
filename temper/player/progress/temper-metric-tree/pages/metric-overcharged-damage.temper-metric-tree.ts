@@ -9,4 +9,6 @@ export const metricOverchargedDamage = {
   nodeType: "metric",
   displayOrder: 5,
   parent: "temper-metric-tree/subcategory-status-damage",
+  createdAt: "2026-05-16T08:00:47.574Z",
+  updatedAt: "2026-09-22T20:46:12.000Z",
 } as const satisfies TemperMetricTree

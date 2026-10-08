@@ -9,4 +9,6 @@ export const subcategoryStatusEffects = {
   nodeType: "subcategory",
   displayOrder: 10,
   parent: "temper-metric-tree/category-damage",
+  createdAt: "2026-05-16T08:00:47.563Z",
+  updatedAt: "2026-09-22T20:46:12.000Z",
 } as const satisfies TemperMetricTree

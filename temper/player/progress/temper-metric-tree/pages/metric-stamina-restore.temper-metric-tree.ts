@@ -9,4 +9,6 @@ export const metricStaminaRestore = {
   nodeType: "metric",
   displayOrder: 6,
   parent: "temper-metric-tree/subcategory-stamina",
+  createdAt: "2026-05-16T08:00:47.615Z",
+  updatedAt: "2026-09-26T15:51:54.000Z",
 } as const satisfies TemperMetricTree

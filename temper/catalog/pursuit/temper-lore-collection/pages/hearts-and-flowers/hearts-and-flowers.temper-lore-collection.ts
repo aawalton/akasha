@@ -12,4 +12,6 @@ export const heartsAndFlowers = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 84,
+  createdAt: "2026-09-25T00:24:06.769Z",
+  updatedAt: "2026-09-25T00:24:08.000Z",
 } as const satisfies TemperLoreCollection

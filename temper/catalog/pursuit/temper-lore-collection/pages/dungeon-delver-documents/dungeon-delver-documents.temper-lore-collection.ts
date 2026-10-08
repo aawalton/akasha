@@ -13,4 +13,6 @@ export const dungeonDelverDocuments = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_dungeons.dds",
   hidden: false,
   bookTotal: 47,
+  createdAt: "2026-09-25T00:53:20.142Z",
+  updatedAt: "2026-09-25T00:53:21.000Z",
 } as const satisfies TemperLoreCollection

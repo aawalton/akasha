@@ -9,4 +9,6 @@ export const blindPathCultist = {
   styleName: "Blind Path Cultist",
   collectionIndex: 109,
   sourceDescription: "Bedlam Veil dungeon",
+  createdAt: "2026-05-24T13:57:27.874Z",
+  updatedAt: "2026-09-27T16:56:14.000Z",
 } as const satisfies TemperMotifStyle

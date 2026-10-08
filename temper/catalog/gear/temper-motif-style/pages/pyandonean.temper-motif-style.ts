@@ -9,4 +9,6 @@ export const pyandonean = {
   styleName: "Pyandonean",
   collectionIndex: 49,
   sourceDescription: "Rare fishing drop",
+  createdAt: "2026-05-24T13:57:27.697Z",
+  updatedAt: "2026-09-27T16:45:27.000Z",
 } as const satisfies TemperMotifStyle

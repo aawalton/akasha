@@ -9,4 +9,6 @@ export const dreadsails = {
   styleName: "Dreadsails",
   collectionIndex: 94,
   sourceDescription: "Shipwright's Regret dungeon",
+  createdAt: "2026-05-24T13:57:27.829Z",
+  updatedAt: "2026-09-27T16:53:35.000Z",
 } as const satisfies TemperMotifStyle

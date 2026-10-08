@@ -9,4 +9,6 @@ export const dwemer = {
   styleName: "Dwemer",
   collectionIndex: 2,
   sourceDescription: "Dwemer containers throughout Tamriel",
+  createdAt: "2026-05-24T13:57:27.583Z",
+  updatedAt: "2026-09-27T12:43:49.000Z",
 } as const satisfies TemperMotifStyle

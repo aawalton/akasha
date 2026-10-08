@@ -9,4 +9,6 @@ export const aldmeriDominion = {
   styleName: "Aldmeri Dominion",
   collectionIndex: 14,
   sourceDescription: "AD treasure chests in Cyrodiil",
+  createdAt: "2026-05-24T13:57:27.616Z",
+  updatedAt: "2026-09-27T12:43:58.000Z",
 } as const satisfies TemperMotifStyle

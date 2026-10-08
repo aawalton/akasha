@@ -9,4 +9,6 @@ export const orderOfTheHour = {
   styleName: "Order of the Hour",
   collectionIndex: 25,
   sourceDescription: '"Roar of the Crowds" daily (Gold Coast)',
+  createdAt: "2026-05-24T13:57:27.644Z",
+  updatedAt: "2026-09-27T12:44:09.000Z",
 } as const satisfies TemperMotifStyle

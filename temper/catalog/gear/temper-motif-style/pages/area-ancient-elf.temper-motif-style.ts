@@ -7,4 +7,6 @@ export const areaAncientElf = {
   title: "Ancient Elf",
   esoItemStyleId: 15,
   styleName: "Ancient Elf",
+  createdAt: "2026-09-27T03:37:10.217Z",
+  updatedAt: "2026-09-27T12:44:18.000Z",
 } as const satisfies TemperMotifStyle

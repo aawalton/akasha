@@ -7,4 +7,6 @@ export const enemyPrimitive = {
   title: "Primal",
   esoItemStyleId: 19,
   styleName: "Primal",
+  createdAt: "2026-09-27T03:37:10.218Z",
+  updatedAt: "2026-09-27T12:44:21.000Z",
 } as const satisfies TemperMotifStyle

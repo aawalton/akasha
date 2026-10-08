@@ -9,4 +9,6 @@ export const companionEffectiveDamageCompanionCriticalChance = {
   nodeType: "metric",
   displayOrder: 2,
   parent: "temper-metric-tree/companion-category-companion-effective-damage",
+  createdAt: "2026-09-26T18:43:00.438Z",
+  updatedAt: "2026-09-26T18:43:39.000Z",
 } as const satisfies TemperMetricTree

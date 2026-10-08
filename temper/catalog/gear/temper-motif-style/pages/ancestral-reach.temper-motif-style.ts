@@ -9,4 +9,6 @@ export const ancestralReach = {
   styleName: "Ancestral Reach",
   collectionIndex: 79,
   sourceDescription: "Treasure maps and antiquities (Skyrim/Reach)",
+  createdAt: "2026-05-24T13:57:27.784Z",
+  updatedAt: "2026-09-27T16:50:24.000Z",
 } as const satisfies TemperMotifStyle

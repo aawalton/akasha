@@ -9,4 +9,6 @@ export const metricUltimateGeneration = {
   nodeType: "metric",
   displayOrder: 1,
   parent: "temper-metric-tree/subcategory-ultimate",
+  createdAt: "2026-05-16T08:00:47.620Z",
+  updatedAt: "2026-09-22T20:46:12.000Z",
 } as const satisfies TemperMetricTree

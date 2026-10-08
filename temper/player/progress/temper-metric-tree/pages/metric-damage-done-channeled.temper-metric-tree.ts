@@ -10,4 +10,6 @@ export const metricDamageDoneChanneled = {
   displayOrder: 10,
   parent: "temper-metric-tree/subcategory-damage-done",
   includeInChildAggregates: true,
+  createdAt: "2026-09-24T15:08:58.694Z",
+  updatedAt: "2026-09-26T15:51:54.000Z",
 } as const satisfies TemperMetricTree

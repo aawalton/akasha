@@ -13,4 +13,6 @@ export const houseHexos = {
     "temper-scribing-source/dlc-delve-dailies",
     "temper-scribing-source/dlc-world-boss-dailies",
   ],
+  createdAt: "2026-05-24T13:57:27.796Z",
+  updatedAt: "2026-09-27T16:51:36.000Z",
 } as const satisfies TemperMotifStyle

@@ -12,4 +12,6 @@ export const ivoryBrigadeStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:19:08.532Z",
+  updatedAt: "2026-09-25T00:19:09.000Z",
 } as const satisfies TemperLoreCollection

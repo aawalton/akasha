@@ -12,4 +12,6 @@ export const houseMornardStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:20:56.559Z",
+  updatedAt: "2026-09-25T00:20:57.000Z",
 } as const satisfies TemperLoreCollection

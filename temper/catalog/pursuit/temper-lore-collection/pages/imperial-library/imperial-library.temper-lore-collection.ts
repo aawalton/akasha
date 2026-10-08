@@ -12,4 +12,6 @@ export const imperialLibrary = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 20,
+  createdAt: "2026-09-25T00:28:46.341Z",
+  updatedAt: "2026-09-25T00:28:47.000Z",
 } as const satisfies TemperLoreCollection

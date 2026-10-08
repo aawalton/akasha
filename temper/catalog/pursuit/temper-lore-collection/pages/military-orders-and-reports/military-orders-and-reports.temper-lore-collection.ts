@@ -13,4 +13,6 @@ export const militaryOrdersAndReports = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 106,
+  createdAt: "2026-09-25T00:24:56.148Z",
+  updatedAt: "2026-09-25T00:24:58.000Z",
 } as const satisfies TemperLoreCollection

@@ -13,4 +13,6 @@ export const blindPathCultistStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:21:32.791Z",
+  updatedAt: "2026-09-25T00:21:34.000Z",
 } as const satisfies TemperLoreCollection

@@ -9,4 +9,6 @@ export const assassinsLeague = {
   styleName: "Assassins League",
   collectionIndex: 20,
   sourceDescription: "Gold Coast bosses",
+  createdAt: "2026-05-24T13:57:27.631Z",
+  updatedAt: "2026-09-27T12:44:04.000Z",
 } as const satisfies TemperMotifStyle

@@ -9,4 +9,6 @@ export const ancestralAkaviri = {
   styleName: "Ancestral Akaviri",
   collectionIndex: 77,
   sourceDescription: "Treasure maps and antiquities (Blackwood)",
+  createdAt: "2026-05-24T13:57:27.779Z",
+  updatedAt: "2026-09-27T16:50:05.000Z",
 } as const satisfies TemperMotifStyle

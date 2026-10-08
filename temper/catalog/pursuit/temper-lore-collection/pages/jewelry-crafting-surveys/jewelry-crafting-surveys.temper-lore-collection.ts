@@ -13,4 +13,6 @@ export const jewelryCraftingSurveys = {
   gamepadIcon: "/esoui/art/icons/icon_missing.dds",
   hidden: false,
   bookTotal: 25,
+  createdAt: "2026-09-25T00:54:04.045Z",
+  updatedAt: "2026-09-25T00:54:05.000Z",
 } as const satisfies TemperLoreCollection

@@ -11,4 +11,6 @@ export const penetrationSpell = {
   esoStatConstantName: "STAT_SPELL_PENETRATION",
   fullyImplemented: true,
   formula: "ts",
+  createdAt: "2026-09-26T15:48:56.459Z",
+  updatedAt: "2026-09-26T15:49:21.000Z",
 } as const satisfies TemperMetric

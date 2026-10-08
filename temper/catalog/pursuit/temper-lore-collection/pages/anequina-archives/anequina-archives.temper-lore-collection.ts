@@ -13,4 +13,6 @@ export const anequinaArchives = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
   hidden: false,
   bookTotal: 116,
+  createdAt: "2026-09-25T00:50:49.284Z",
+  updatedAt: "2026-09-25T00:50:51.000Z",
 } as const satisfies TemperLoreCollection

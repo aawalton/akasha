@@ -7,4 +7,6 @@ export const nightMarketMiscellanea = {
   title: "Night Market Miscellanea",
   esoLoreCategoryId: 3,
   esoCollectionIndex: 58,
+  createdAt: "2026-09-25T00:54:23.615Z",
+  updatedAt: "2026-09-25T00:54:25.000Z",
 } as const satisfies TemperLoreCollection

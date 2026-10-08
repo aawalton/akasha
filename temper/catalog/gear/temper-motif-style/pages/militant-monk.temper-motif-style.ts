@@ -7,4 +7,6 @@ export const militantMonk = {
   title: "Militant Monk",
   esoItemStyleId: 154,
   styleName: "Militant Monk",
+  createdAt: "2026-09-27T17:11:54.772Z",
+  updatedAt: "2026-09-27T17:11:57.000Z",
 } as const satisfies TemperMotifStyle

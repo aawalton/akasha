@@ -9,4 +9,6 @@ export const houseRedoran = {
   styleName: "Redoran",
   collectionIndex: 38,
   sourceDescription: "Pickpocketing and theft in Vvardenfell",
+  createdAt: "2026-05-24T13:57:27.670Z",
+  updatedAt: "2026-09-27T16:57:23.000Z",
 } as const satisfies TemperMotifStyle

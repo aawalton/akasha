@@ -7,4 +7,6 @@ export const holidayFrostcaster = {
   title: "Frostcaster",
   esoItemStyleId: 53,
   styleName: "Frostcaster",
+  createdAt: "2026-09-27T03:37:10.218Z",
+  updatedAt: "2026-09-27T12:44:27.000Z",
 } as const satisfies TemperMotifStyle

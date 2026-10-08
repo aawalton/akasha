@@ -12,4 +12,6 @@ export const hewsBaneBookshelf = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
   hidden: false,
   bookTotal: 78,
+  createdAt: "2026-09-25T00:29:06.580Z",
+  updatedAt: "2026-09-25T00:29:08.000Z",
 } as const satisfies TemperLoreCollection

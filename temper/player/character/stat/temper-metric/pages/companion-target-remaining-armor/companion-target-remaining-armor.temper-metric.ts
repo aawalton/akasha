@@ -10,4 +10,6 @@ export const companionTargetRemainingArmor = {
   divisor: 50000,
   cap: 0.5,
   formula: "ts",
+  createdAt: "2026-09-26T18:43:00.437Z",
+  updatedAt: "2026-09-26T19:05:36.000Z",
 } as const satisfies TemperMetric

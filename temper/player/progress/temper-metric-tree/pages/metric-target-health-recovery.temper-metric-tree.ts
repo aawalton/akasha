@@ -9,4 +9,6 @@ export const metricTargetHealthRecovery = {
   nodeType: "metric",
   displayOrder: 1,
   parent: "temper-metric-tree/subcategory-target-healing",
+  createdAt: "2026-05-16T08:00:47.790Z",
+  updatedAt: "2026-09-22T20:46:12.000Z",
 } as const satisfies TemperMetricTree

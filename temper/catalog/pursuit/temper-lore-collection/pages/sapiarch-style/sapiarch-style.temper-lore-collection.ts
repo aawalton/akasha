@@ -12,4 +12,6 @@ export const sapiarchStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:15:45.959Z",
+  updatedAt: "2026-09-25T00:15:47.000Z",
 } as const satisfies TemperLoreCollection

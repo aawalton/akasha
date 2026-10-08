@@ -9,4 +9,6 @@ export const meridian = {
   styleName: "Meridian",
   collectionIndex: 58,
   sourceDescription: "Depths of Malatar dungeon",
+  createdAt: "2026-05-24T13:57:27.722Z",
+  updatedAt: "2026-09-27T16:46:38.000Z",
 } as const satisfies TemperMotifStyle

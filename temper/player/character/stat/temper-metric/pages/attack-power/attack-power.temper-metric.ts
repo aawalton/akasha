@@ -10,4 +10,6 @@ export const attackPower = {
   polarity: "higher-is-better",
   esoStatConstantName: "STAT_ATTACK_POWER",
   fullyImplemented: false,
+  createdAt: "2026-09-26T15:48:56.455Z",
+  updatedAt: "2026-09-26T15:49:21.000Z",
 } as const satisfies TemperMetric

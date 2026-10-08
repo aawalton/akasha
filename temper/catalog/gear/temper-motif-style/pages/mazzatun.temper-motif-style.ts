@@ -9,4 +9,6 @@ export const mazzatun = {
   styleName: "Mazzatun",
   collectionIndex: 32,
   sourceDescription: "Ruins of Mazzatun dungeon",
+  createdAt: "2026-05-24T13:57:27.654Z",
+  updatedAt: "2026-09-27T12:44:12.000Z",
 } as const satisfies TemperMotifStyle

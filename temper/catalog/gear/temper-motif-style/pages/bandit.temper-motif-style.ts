@@ -7,4 +7,6 @@ export const bandit = {
   title: "Bandit",
   esoItemStyleId: 18,
   styleName: "Bandit",
+  createdAt: "2026-09-27T17:09:41.012Z",
+  updatedAt: "2026-09-27T17:09:43.000Z",
 } as const satisfies TemperMotifStyle

@@ -12,4 +12,6 @@ export const loreOfMurkmire = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
   hidden: false,
   bookTotal: 127,
+  createdAt: "2026-09-25T00:28:25.627Z",
+  updatedAt: "2026-09-25T00:28:28.000Z",
 } as const satisfies TemperLoreCollection

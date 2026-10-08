@@ -14,4 +14,6 @@ export const greymoor = {
     "temper-scribing-source/dlc-world-boss-dailies",
     "temper-scribing-source/dlc-incursion-dailies",
   ],
+  createdAt: "2026-05-24T13:57:27.757Z",
+  updatedAt: "2026-09-27T16:49:00.000Z",
 } as const satisfies TemperMotifStyle

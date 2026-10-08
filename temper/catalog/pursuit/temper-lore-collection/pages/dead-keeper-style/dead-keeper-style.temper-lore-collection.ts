@@ -12,4 +12,6 @@ export const deadKeeperStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:21:17.154Z",
+  updatedAt: "2026-09-25T00:21:18.000Z",
 } as const satisfies TemperLoreCollection

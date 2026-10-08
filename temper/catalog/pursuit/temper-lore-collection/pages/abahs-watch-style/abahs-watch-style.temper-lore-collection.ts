@@ -12,4 +12,6 @@ export const abahsWatchStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:12:56.864Z",
+  updatedAt: "2026-09-25T00:12:57.000Z",
 } as const satisfies TemperLoreCollection

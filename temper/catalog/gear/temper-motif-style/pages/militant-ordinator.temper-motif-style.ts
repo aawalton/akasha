@@ -9,4 +9,6 @@ export const militantOrdinator = {
   styleName: "Militant Ordinator",
   collectionIndex: 34,
   sourceDescription: "Battlegrounds vendors",
+  createdAt: "2026-05-24T13:57:27.659Z",
+  updatedAt: "2026-09-27T12:44:14.000Z",
 } as const satisfies TemperMotifStyle

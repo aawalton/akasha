@@ -13,4 +13,6 @@ export const pellitinePostings = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
   hidden: false,
   bookTotal: 78,
+  createdAt: "2026-09-25T00:51:00.227Z",
+  updatedAt: "2026-09-25T00:51:02.000Z",
 } as const satisfies TemperLoreCollection

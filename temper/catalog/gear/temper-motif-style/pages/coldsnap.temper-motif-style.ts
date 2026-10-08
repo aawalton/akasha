@@ -9,4 +9,6 @@ export const coldsnap = {
   styleName: "Coldsnap",
   collectionIndex: 57,
   sourceDescription: "Frostvault dungeon",
+  createdAt: "2026-05-24T13:57:27.719Z",
+  updatedAt: "2026-09-27T16:46:30.000Z",
 } as const satisfies TemperMotifStyle

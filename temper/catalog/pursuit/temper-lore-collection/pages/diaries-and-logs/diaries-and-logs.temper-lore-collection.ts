@@ -13,4 +13,6 @@ export const diariesAndLogs = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 84,
+  createdAt: "2026-09-25T00:23:42.495Z",
+  updatedAt: "2026-09-25T00:23:44.000Z",
 } as const satisfies TemperLoreCollection

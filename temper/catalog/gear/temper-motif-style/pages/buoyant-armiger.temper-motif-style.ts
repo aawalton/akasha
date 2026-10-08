@@ -9,4 +9,6 @@ export const buoyantArmiger = {
   styleName: "Buoyant Armiger",
   collectionIndex: 35,
   sourceDescription: "Vvardenfell and Halls of Fabrication",
+  createdAt: "2026-05-24T13:57:27.662Z",
+  updatedAt: "2026-09-27T12:44:15.000Z",
 } as const satisfies TemperMotifStyle

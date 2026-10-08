@@ -13,4 +13,6 @@ export const vivecs36Lessons = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_tutorial_idexicon_morrowind.dds",
   hidden: false,
   bookTotal: 36,
+  createdAt: "2026-09-25T00:29:41.954Z",
+  updatedAt: "2026-09-25T00:29:43.000Z",
 } as const satisfies TemperLoreCollection

@@ -9,4 +9,6 @@ export const clanDreamcarver = {
   styleName: "Clan Dreamcarver",
   collectionIndex: 105,
   sourceDescription: "Sanity's Edge trial",
+  createdAt: "2026-05-24T13:57:27.862Z",
+  updatedAt: "2026-09-27T16:55:34.000Z",
 } as const satisfies TemperMotifStyle

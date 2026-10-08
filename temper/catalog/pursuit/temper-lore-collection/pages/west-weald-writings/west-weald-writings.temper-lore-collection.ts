@@ -13,4 +13,6 @@ export const westWealdWritings = {
   gamepadIcon: "/esoui/art/icons/icon_missing.dds",
   hidden: false,
   bookTotal: 126,
+  createdAt: "2026-09-25T00:53:10.449Z",
+  updatedAt: "2026-09-25T00:53:12.000Z",
 } as const satisfies TemperLoreCollection

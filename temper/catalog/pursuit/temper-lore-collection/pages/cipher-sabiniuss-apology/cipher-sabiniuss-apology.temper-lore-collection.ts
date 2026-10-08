@@ -6,4 +6,6 @@ export const cipherSabiniussApology = {
   slug: "cipher-sabiniuss-apology",
   title: "Cipher Sabinius's Apology",
   esoLoreCategoryId: 3,
+  createdAt: "2026-09-25T00:54:41.646Z",
+  updatedAt: "2026-09-25T00:54:42.000Z",
 } as const satisfies TemperLoreCollection

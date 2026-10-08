@@ -7,4 +7,6 @@ export const enemyMaormer = {
   title: "Maormer",
   esoItemStyleId: 32,
   styleName: "Maormer",
+  createdAt: "2026-09-27T03:37:10.218Z",
+  updatedAt: "2026-09-27T12:44:36.000Z",
 } as const satisfies TemperMotifStyle

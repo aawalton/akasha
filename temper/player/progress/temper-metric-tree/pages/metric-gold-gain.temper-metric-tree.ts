@@ -10,4 +10,6 @@ export const metricGoldGain = {
   displayOrder: 6,
   parent: "temper-metric-tree/category-other",
   includeInChildAggregates: true,
+  createdAt: "2026-09-24T15:08:56.510Z",
+  updatedAt: "2026-09-24T15:09:07.000Z",
 } as const satisfies TemperMetricTree

@@ -9,4 +9,6 @@ export const companionSpsTotalCompanionSpsAlly = {
   nodeType: "metric",
   displayOrder: 1,
   parent: "temper-metric-tree/companion-category-companion-sps-total",
+  createdAt: "2026-09-26T18:43:00.438Z",
+  updatedAt: "2026-09-26T18:43:39.000Z",
 } as const satisfies TemperMetricTree

@@ -13,4 +13,6 @@ export const theReachReader = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
   hidden: false,
   bookTotal: 71,
+  createdAt: "2026-09-25T00:51:31.801Z",
+  updatedAt: "2026-09-25T00:51:33.000Z",
 } as const satisfies TemperLoreCollection

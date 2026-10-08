@@ -7,4 +7,6 @@ export const ascendantKnight = {
   title: "Ascendant Knight",
   esoItemStyleId: 134,
   styleName: "Ascendant Knight",
+  createdAt: "2026-09-27T17:11:11.419Z",
+  updatedAt: "2026-09-27T17:11:14.000Z",
 } as const satisfies TemperMotifStyle

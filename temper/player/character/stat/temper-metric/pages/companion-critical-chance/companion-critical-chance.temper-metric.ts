@@ -11,4 +11,6 @@ export const companionCriticalChance = {
   divisor: 15000,
   cap: 1,
   ratingFloorIncrement: 0.05,
+  createdAt: "2026-09-26T18:43:00.436Z",
+  updatedAt: "2026-09-26T18:43:39.000Z",
 } as const satisfies TemperMetric

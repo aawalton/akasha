@@ -9,4 +9,6 @@ export const psijic = {
   styleName: "Psijic Order",
   collectionIndex: 47,
   sourceDescription: "Psijic portals in Summerset",
+  createdAt: "2026-05-24T13:57:27.691Z",
+  updatedAt: "2026-09-27T16:43:29.000Z",
 } as const satisfies TemperMotifStyle

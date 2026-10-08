@@ -9,4 +9,6 @@ export const ebonheartPact = {
   styleName: "Ebonheart Pact",
   collectionIndex: 16,
   sourceDescription: "EP treasure chests in Cyrodiil",
+  createdAt: "2026-05-24T13:57:27.621Z",
+  updatedAt: "2026-09-27T12:44:00.000Z",
 } as const satisfies TemperMotifStyle

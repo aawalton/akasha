@@ -9,4 +9,6 @@ export const metricTargetEffectiveLevel = {
   nodeType: "metric",
   displayOrder: 0,
   parent: "temper-metric-tree/subcategory-target-other",
+  createdAt: "2026-05-16T08:00:47.792Z",
+  updatedAt: "2026-09-22T20:46:12.000Z",
 } as const satisfies TemperMetricTree

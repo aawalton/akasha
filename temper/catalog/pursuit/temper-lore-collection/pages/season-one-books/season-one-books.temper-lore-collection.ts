@@ -7,4 +7,6 @@ export const seasonOneBooks = {
   title: "Season One Books",
   esoLoreCategoryId: 3,
   esoCollectionIndex: 59,
+  createdAt: "2026-09-25T00:54:30.655Z",
+  updatedAt: "2026-09-25T00:54:32.000Z",
 } as const satisfies TemperLoreCollection

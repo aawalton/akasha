@@ -13,4 +13,6 @@ export const malacath = {
     "temper-scribing-source/dlc-delve-dailies",
     "temper-scribing-source/dlc-world-boss-dailies",
   ],
+  createdAt: "2026-05-24T13:57:27.610Z",
+  updatedAt: "2026-09-27T12:43:56.000Z",
 } as const satisfies TemperMotifStyle

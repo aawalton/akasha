@@ -13,4 +13,6 @@ export const ritualsAndRevelations = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_magic.dds",
   hidden: false,
   bookTotal: 94,
+  createdAt: "2026-09-25T00:26:55.949Z",
+  updatedAt: "2026-09-25T00:26:58.000Z",
 } as const satisfies TemperLoreCollection

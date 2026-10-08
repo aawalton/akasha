@@ -13,4 +13,6 @@ export const solsticeSummationsPart2 = {
   gamepadIcon: "/esoui/art/icons/icon_missing.dds",
   hidden: false,
   bookTotal: 78,
+  createdAt: "2026-09-25T00:54:14.707Z",
+  updatedAt: "2026-09-25T00:54:16.000Z",
 } as const satisfies TemperLoreCollection

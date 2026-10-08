@@ -12,4 +12,6 @@ export const pellitineStyle = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
   hidden: false,
   bookTotal: 14,
+  createdAt: "2026-09-25T00:16:47.615Z",
+  updatedAt: "2026-09-25T00:16:48.000Z",
 } as const satisfies TemperLoreCollection

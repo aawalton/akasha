@@ -13,4 +13,6 @@ export const scholariumScribblings = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_magic.dds",
   hidden: false,
   bookTotal: 72,
+  createdAt: "2026-09-25T00:53:30.852Z",
+  updatedAt: "2026-09-25T00:53:32.000Z",
 } as const satisfies TemperLoreCollection

@@ -13,4 +13,6 @@ export const libraryOfIncunabula = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_dungeons.dds",
   hidden: false,
   bookTotal: 123,
+  createdAt: "2026-09-25T00:29:55.833Z",
+  updatedAt: "2026-09-25T00:29:58.000Z",
 } as const satisfies TemperLoreCollection

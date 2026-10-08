@@ -13,4 +13,6 @@ export const theWorldAndItsCreatures = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 80,
+  createdAt: "2026-09-25T00:27:40.901Z",
+  updatedAt: "2026-09-25T00:27:43.000Z",
 } as const satisfies TemperLoreCollection

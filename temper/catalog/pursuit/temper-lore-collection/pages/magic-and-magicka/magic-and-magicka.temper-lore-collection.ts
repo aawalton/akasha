@@ -12,4 +12,6 @@ export const magicAndMagicka = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_magic.dds",
   hidden: false,
   bookTotal: 10,
+  createdAt: "2026-09-02T17:56:34.426Z",
+  updatedAt: "2026-09-25T01:28:09.000Z",
 } as const satisfies TemperLoreCollection

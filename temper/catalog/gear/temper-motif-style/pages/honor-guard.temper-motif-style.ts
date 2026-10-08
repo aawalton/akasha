@@ -9,4 +9,6 @@ export const honorGuard = {
   styleName: "Honor Guard",
   collectionIndex: 54,
   sourceDescription: "Blackrose Prison arena",
+  createdAt: "2026-05-24T13:57:27.711Z",
+  updatedAt: "2026-09-27T16:46:07.000Z",
 } as const satisfies TemperMotifStyle

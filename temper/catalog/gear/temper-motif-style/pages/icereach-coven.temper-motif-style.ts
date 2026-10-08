@@ -9,4 +9,6 @@ export const icereachCoven = {
   styleName: "Icereach Coven",
   collectionIndex: 67,
   sourceDescription: "Icereach dungeon",
+  createdAt: "2026-05-24T13:57:27.748Z",
+  updatedAt: "2026-09-27T16:48:20.000Z",
 } as const satisfies TemperMotifStyle

@@ -9,4 +9,6 @@ export const annihilarchsChosen = {
   styleName: "Annihilarch's Chosen",
   collectionIndex: 92,
   sourceDescription: "Atoll of Immolation",
+  createdAt: "2026-05-24T13:57:27.823Z",
+  updatedAt: "2026-09-27T16:53:12.000Z",
 } as const satisfies TemperMotifStyle

@@ -12,4 +12,6 @@ export const staminaDodgeCost = {
   esoStatValuePart: "flat",
   fullyImplemented: true,
   formula: "ts",
+  createdAt: "2026-09-26T15:48:56.460Z",
+  updatedAt: "2026-09-26T15:49:21.000Z",
 } as const satisfies TemperMetric

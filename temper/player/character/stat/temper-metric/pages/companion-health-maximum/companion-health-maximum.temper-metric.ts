@@ -8,4 +8,6 @@ export const companionHealthMaximum = {
   subject: "companion",
   valueType: "integer",
   formula: "ts",
+  createdAt: "2026-09-26T18:43:00.437Z",
+  updatedAt: "2026-09-26T18:43:39.000Z",
 } as const satisfies TemperMetric

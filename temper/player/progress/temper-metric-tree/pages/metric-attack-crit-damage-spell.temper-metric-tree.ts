@@ -9,4 +9,6 @@ export const metricAttackCritDamageSpell = {
   nodeType: "metric",
   displayOrder: 0,
   parent: "temper-metric-tree/subcategory-critical-damage",
+  createdAt: "2026-05-16T08:00:47.479Z",
+  updatedAt: "2026-09-26T15:51:54.000Z",
 } as const satisfies TemperMetricTree

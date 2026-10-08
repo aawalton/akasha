@@ -7,4 +7,6 @@ export const divineProsecution = {
   title: "Divine Prosecution",
   esoItemStyleId: 76,
   styleName: "Divine Prosecution",
+  createdAt: "2026-09-27T17:10:03.914Z",
+  updatedAt: "2026-09-27T17:10:06.000Z",
 } as const satisfies TemperMotifStyle

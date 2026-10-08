@@ -9,4 +9,6 @@ export const celestial = {
   styleName: "Celestial",
   collectionIndex: 26,
   sourceDescription: "Craglorn trials",
+  createdAt: "2026-05-24T13:57:27.646Z",
+  updatedAt: "2026-09-27T12:44:09.000Z",
 } as const satisfies TemperMotifStyle

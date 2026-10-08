@@ -9,4 +9,6 @@ export const companionGroupUtility = {
   nodeType: "companion-group",
   displayOrder: 3,
   parent: "temper-metric-tree/companion-stats",
+  createdAt: "2026-09-26T18:43:00.438Z",
+  updatedAt: "2026-09-26T18:43:39.000Z",
 } as const satisfies TemperMetricTree

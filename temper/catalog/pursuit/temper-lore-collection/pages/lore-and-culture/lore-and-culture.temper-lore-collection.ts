@@ -12,4 +12,6 @@ export const loreAndCulture = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 111,
+  createdAt: "2026-09-25T00:24:43.740Z",
+  updatedAt: "2026-09-25T00:24:45.000Z",
 } as const satisfies TemperLoreCollection

@@ -9,4 +9,6 @@ export const ancestralNord = {
   styleName: "Ancestral Nord",
   collectionIndex: 72,
   sourceDescription: "Treasure maps and antiquities (EP zones)",
+  createdAt: "2026-05-24T13:57:27.763Z",
+  updatedAt: "2026-09-27T16:49:19.000Z",
 } as const satisfies TemperMotifStyle

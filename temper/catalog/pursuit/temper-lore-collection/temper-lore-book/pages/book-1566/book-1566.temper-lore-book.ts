@@ -8,4 +8,6 @@ export const book1566 = {
   charted: true,
   keyed: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:54:46.632Z",
+  updatedAt: "2026-09-25T00:54:47.000Z",
 } as const satisfies TemperLoreBook

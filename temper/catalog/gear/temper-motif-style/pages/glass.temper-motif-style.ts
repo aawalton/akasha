@@ -9,4 +9,6 @@ export const glass = {
   styleName: "Glass",
   collectionIndex: 6,
   sourceDescription: "Purchased with writ vouchers",
+  createdAt: "2026-05-24T13:57:27.593Z",
+  updatedAt: "2026-09-27T12:43:51.000Z",
 } as const satisfies TemperMotifStyle

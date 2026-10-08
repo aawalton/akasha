@@ -9,4 +9,6 @@ export const newMoonPriest = {
   styleName: "New Moon Priest",
   collectionIndex: 65,
   sourceDescription: "Dragonguard Supply Chest",
+  createdAt: "2026-05-24T13:57:27.742Z",
+  updatedAt: "2026-09-27T16:47:56.000Z",
 } as const satisfies TemperMotifStyle

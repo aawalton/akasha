@@ -10,4 +10,6 @@ export const companionTargetArmor = {
   effectType: "integer",
   divisor: 50000,
   cap: 0.5,
+  createdAt: "2026-09-26T18:43:00.437Z",
+  updatedAt: "2026-09-26T18:43:39.000Z",
 } as const satisfies TemperMetric

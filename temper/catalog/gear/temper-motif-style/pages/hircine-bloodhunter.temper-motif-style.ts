@@ -7,4 +7,6 @@ export const hircineBloodhunter = {
   title: "Hircine Bloodhunter",
   esoItemStyleId: 151,
   styleName: "Hircine Bloodhunter",
+  createdAt: "2026-09-27T17:11:33.641Z",
+  updatedAt: "2026-09-27T17:11:36.000Z",
 } as const satisfies TemperMotifStyle

@@ -7,4 +7,6 @@ export const coldharbourDominator = {
   title: "Coldharbour Dominator",
   esoItemStyleId: 156,
   styleName: "Coldharbour Dominator",
+  createdAt: "2026-09-27T17:12:16.889Z",
+  updatedAt: "2026-09-27T17:12:19.000Z",
 } as const satisfies TemperMotifStyle

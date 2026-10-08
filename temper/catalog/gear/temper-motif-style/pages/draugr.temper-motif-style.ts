@@ -14,4 +14,6 @@ export const draugr = {
     "temper-scribing-source/fighters-guild-daily",
     "temper-scribing-source/undaunted-delve-dailies",
   ],
+  createdAt: "2026-05-24T13:57:27.639Z",
+  updatedAt: "2026-09-27T12:44:07.000Z",
 } as const satisfies TemperMotifStyle

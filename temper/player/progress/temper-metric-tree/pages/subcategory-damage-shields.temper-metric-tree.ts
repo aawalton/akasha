@@ -9,4 +9,6 @@ export const subcategoryDamageShields = {
   nodeType: "subcategory",
   displayOrder: 8,
   parent: "temper-metric-tree/category-toughness",
+  createdAt: "2026-05-16T08:00:47.691Z",
+  updatedAt: "2026-09-22T20:46:12.000Z",
 } as const satisfies TemperMetricTree

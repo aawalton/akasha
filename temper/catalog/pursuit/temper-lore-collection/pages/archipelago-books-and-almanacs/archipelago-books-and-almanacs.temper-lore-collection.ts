@@ -13,4 +13,6 @@ export const archipelagoBooksAndAlmanacs = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
   hidden: false,
   bookTotal: 76,
+  createdAt: "2026-09-25T00:52:33.650Z",
+  updatedAt: "2026-09-25T00:52:35.000Z",
 } as const satisfies TemperLoreCollection

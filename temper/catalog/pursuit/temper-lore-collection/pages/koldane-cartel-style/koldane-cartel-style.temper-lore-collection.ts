@@ -7,4 +7,6 @@ export const koldaneCartelStyle = {
   title: "Koldane Cartel Style",
   esoLoreCategoryId: 2,
   esoCollectionIndex: 122,
+  createdAt: "2026-09-25T00:22:41.373Z",
+  updatedAt: "2026-09-25T00:22:42.000Z",
 } as const satisfies TemperLoreCollection

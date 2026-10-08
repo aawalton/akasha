@@ -9,4 +9,6 @@ export const houseHlaalu = {
   styleName: "Hlaalu",
   collectionIndex: 37,
   sourceDescription: "Pickpocketing and theft in Vvardenfell",
+  createdAt: "2026-05-24T13:57:27.667Z",
+  updatedAt: "2026-09-27T16:57:31.000Z",
 } as const satisfies TemperMotifStyle

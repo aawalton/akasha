@@ -7,4 +7,6 @@ export const dragonBone = {
   title: "Dragon Bone",
   esoItemStyleId: 87,
   styleName: "Dragon Bone",
+  createdAt: "2026-09-27T17:10:18.292Z",
+  updatedAt: "2026-09-27T17:10:21.000Z",
 } as const satisfies TemperMotifStyle

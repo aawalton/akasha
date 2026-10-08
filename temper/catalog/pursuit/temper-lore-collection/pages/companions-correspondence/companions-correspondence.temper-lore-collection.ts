@@ -13,4 +13,6 @@ export const companionsCorrespondence = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 39,
+  createdAt: "2026-09-25T00:53:39.429Z",
+  updatedAt: "2026-09-25T00:53:41.000Z",
 } as const satisfies TemperLoreCollection

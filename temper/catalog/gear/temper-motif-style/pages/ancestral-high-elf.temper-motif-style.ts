@@ -9,4 +9,6 @@ export const ancestralHighElf = {
   styleName: "Ancestral High Elf",
   collectionIndex: 73,
   sourceDescription: "Treasure maps and antiquities (AD zones)",
+  createdAt: "2026-05-24T13:57:27.766Z",
+  updatedAt: "2026-09-27T16:49:28.000Z",
 } as const satisfies TemperMotifStyle

@@ -8,4 +8,6 @@ export const eso = {
   items: "jsonl",
   quests: "jsonl",
   partSpans: "jsonl",
+  createdAt: "2026-08-20T02:58:01.835Z",
+  updatedAt: "2026-09-25T13:53:51.000Z",
 } as const satisfies TemperMine

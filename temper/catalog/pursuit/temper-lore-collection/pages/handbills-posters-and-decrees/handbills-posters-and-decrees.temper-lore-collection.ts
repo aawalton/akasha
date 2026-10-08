@@ -13,4 +13,6 @@ export const handbillsPostersAndDecrees = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 121,
+  createdAt: "2026-09-25T00:23:55.556Z",
+  updatedAt: "2026-09-25T00:23:57.000Z",
 } as const satisfies TemperLoreCollection

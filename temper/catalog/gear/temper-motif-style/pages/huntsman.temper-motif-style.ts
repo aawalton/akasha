@@ -9,4 +9,6 @@ export const huntsman = {
   styleName: "Huntsman",
   collectionIndex: 51,
   sourceDescription: "March of Sacrifices dungeon",
+  createdAt: "2026-05-24T13:57:27.702Z",
+  updatedAt: "2026-09-27T16:45:36.000Z",
 } as const satisfies TemperMotifStyle

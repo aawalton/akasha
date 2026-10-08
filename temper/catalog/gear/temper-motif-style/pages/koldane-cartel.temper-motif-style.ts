@@ -7,4 +7,6 @@ export const koldaneCartel = {
   title: "Koldane Cartel",
   esoItemStyleId: 162,
   styleName: "Koldane Cartel",
+  createdAt: "2026-09-27T17:12:57.257Z",
+  updatedAt: "2026-09-27T17:12:59.000Z",
 } as const satisfies TemperMotifStyle

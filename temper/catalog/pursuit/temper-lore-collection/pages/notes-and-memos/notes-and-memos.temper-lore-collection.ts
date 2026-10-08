@@ -12,4 +12,6 @@ export const notesAndMemos = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 123,
+  createdAt: "2026-09-25T00:25:48.307Z",
+  updatedAt: "2026-09-25T00:25:50.000Z",
 } as const satisfies TemperLoreCollection

@@ -12,4 +12,6 @@ export const solitudeSoliloquies = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
   hidden: false,
   bookTotal: 118,
+  createdAt: "2026-09-25T00:51:13.289Z",
+  updatedAt: "2026-09-25T00:51:15.000Z",
 } as const satisfies TemperLoreCollection
