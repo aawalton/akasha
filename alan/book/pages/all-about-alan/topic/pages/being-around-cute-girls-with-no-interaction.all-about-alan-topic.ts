@@ -14,7 +14,7 @@ export const beingAroundCuteGirlsWithNoInteraction = {
     "all-about-alan-topic/who-is-safe-to-be-around",
   ],
   settled:
-    "I suspect the ambient exposure is beneficial even with zero interaction. I am not sure.\n\nI have noticed the benefit three times, just from being around a higher concentration of cute girls: in Luxembourg, then at Universal Studios, and now at the gym.\n\nI think it counts as a deposit for the physical and emotional side of me, which has been starved for so long.\n\nA crowd is much more reliable than any single person. No one girl has to stay, because the room itself is there again.\n\nUnfamiliar people are more expensive only when I interact with them directly. For ambient social they are less expensive. I am not sure what will happen as more of the faces become familiar over time.\n\nFor now I plan to go to the rec center every morning it is open, which is good for my health as well.",
+    "I suspect the ambient exposure is beneficial even with zero interaction. I am not sure.\n\nI have noticed the benefit three times, just from being around a higher concentration of cute girls: in Luxembourg, then at Universal Studios, and now at the gym.\n\nI think it counts as a deposit for the physical and emotional side of me, which has been starved for so long.\n\nA crowd is much more reliable than any single person. No one girl has to stay, because the room itself is there again.\n\nUnfamiliar people are more expensive only when I interact with them directly. For ambient social they are less expensive.\n\nFor now I plan to go to the rec center every morning it is open, which is good for my health as well.",
   createdAt: "2026-10-08T19:03:12.218Z",
-  updatedAt: "2026-10-08T19:14:01.921Z",
+  updatedAt: "2026-10-08T19:17:08.052Z",
 } as const satisfies AllAboutAlanTopic
