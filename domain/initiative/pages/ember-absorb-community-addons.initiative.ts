@@ -8,11 +8,6 @@ export const emberAbsorbCommunityAddons = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "What More Markers does, temper-addon-world does.",
-      workingMemory:
-        "More Markers 2.2.3 is ESOUI file 4266, fetched from https://api.mmoui.com/v3/game/ESO/filedetails/4266.json. The port is the markers feature of temper-addon-world and is deployed. Its pictures and its profile strings match upstream. Left is seeing in game that markers draw, that placing at the cursor works, and that map pins show.",
-    },
-    {
       statement: "What Crutch Alerts does, temper-addon-combat does.",
       workingMemory:
         "CrutchAlerts 2.26.0 is ESOUI file 3137. The port is every combat-alerts module of temper-addon-combat and is deployed. Every PC file is ported. Left is seeing the alerts, the boss bars and the drawings in a fight.",
