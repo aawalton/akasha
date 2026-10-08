@@ -140,7 +140,31 @@ export const terminusCollectionTowers = {
       fact: "A resurrection pylon captures most of a dead person's essence and remakes them from it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Each pylon's pull, and so its alpha, depends on how far it has been upgraded.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Resurrection pylons are part of the System's settlement building system.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A resurrection pylon goes up through a series of upgrades based on the Divine Sequence.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "No resurrection pylon can pull more strongly than a central tower.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Upgrading a pylon to the strength of a central tower is extremely hard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pylons let rising civilizations use the System's pull without the Builders' engineering.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T19:50:11.265Z",
+  updatedAt: "2026-10-08T19:54:37.814Z",
 } as const satisfies Lore

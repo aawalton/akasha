@@ -149,6 +149,10 @@ export const terminusTheSystem = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The System includes a settlement building system for raising and upgrading settlements.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "System users grow through discrete levels.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -174,5 +178,5 @@ export const terminusTheSystem = {
     },
   ],
   createdAt: "2026-10-08T19:30:10.084Z",
-  updatedAt: "2026-10-08T19:46:58.921Z",
+  updatedAt: "2026-10-08T19:54:37.814Z",
 } as const satisfies Lore
