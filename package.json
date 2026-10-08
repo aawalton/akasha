@@ -51,6 +51,7 @@
       { "command": "opsStatusBar.refreshNow", "title": "Ops Status Bar: Refresh Now" },
       { "command": "opsTranscript.open", "title": "Ops: Open Seat Transcript" },
       { "command": "opsAgentTree.refreshNow", "title": "Ops Agents: Refresh Now", "icon": "$(refresh)" },
+      { "command": "opsAgentTree.toggleActive", "title": "Ops Agents: Toggle Showing Only Active Seats", "icon": "$(filter)" },
       { "command": "opsDomainTree.refreshNow", "title": "Ops Domains: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsInitiativeTree.refreshNow", "title": "Ops Initiatives: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsPageTree.refreshNow", "title": "Ops Page Types: Refresh Now", "icon": "$(refresh)" },
@@ -100,6 +101,7 @@
     ],
     "menus": {
       "view/title": [
+        { "command": "opsAgentTree.toggleActive", "when": "view == opsAgentTree", "group": "navigation" },
         { "command": "opsAgentTree.refreshNow", "when": "view == opsAgentTree", "group": "navigation" },
         { "command": "opsDomainTree.refreshNow", "when": "view == opsDomainTree", "group": "navigation" },
         { "command": "opsInitiativeTree.refreshNow", "when": "view == opsInitiativeTree", "group": "navigation" },

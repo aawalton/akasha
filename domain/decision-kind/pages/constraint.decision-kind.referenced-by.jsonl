@@ -264,6 +264,7 @@
 {"propertySlug":"decision-kind","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
 {"propertySlug":"decision-kind","path":"code/data-table/properties/data-table-data.file-property.ts","id":"01a0cac3-0af1-75bc-918f-6270451170de"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.ts","id":"01a0686b-bfe9-7a38-b901-76035639ad29"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/command-server-client/command-server-client.module.ts","id":"01a064ea-f958-7000-98c8-4e49f2868f5f"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/command-server/command-server.module.ts","id":"01a06a05-bf7b-78ff-9bba-95684e31bba4"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/harness-call/harness-call.module.ts","id":"01a064f0-734d-7459-91b7-33e6eb60021d"}

@@ -28,9 +28,8 @@ import {
   RUN_RESTART_COMMAND,
   RUN_RESUME_COMMAND,
   RUN_STOP_COMMAND,
-  SHOW_ACTIVE_COMMAND,
-  SHOW_ALL_COMMAND,
   STOP_SUBAGENT_COMMAND,
+  TOGGLE_ACTIVE_COMMAND,
   VIEW_ID,
 } from "akasha/code/editor/extension/modules/agent-tree-ids/agent-tree-ids.module.code.ts"
 import { seatsByName } from "akasha/code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"
@@ -112,16 +111,16 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   let running = 0
   let showingActive = context.globalState.get(ACTIVE_ONLY_KEY) === true
   let lastHeld: AgentTreeState | null = null
-  void vscode.commands.executeCommand("setContext", ACTIVE_ONLY_KEY, showingActive)
 
   const describe = (): undefined => {
     const matched = tree.matchCount()
-    view.description =
+    const counted =
       matched === undefined
         ? running === 1
           ? "1 running"
           : `${running} running`
         : `${matched} of ${running} running`
+    view.description = showingActive ? `${counted} · active only` : counted
     return undefined
   }
 
@@ -240,11 +239,11 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
-  const showActive = async (on: boolean): Promise<undefined> => {
-    showingActive = on
-    await context.globalState.update(ACTIVE_ONLY_KEY, on)
-    await vscode.commands.executeCommand("setContext", ACTIVE_ONLY_KEY, on)
-    output.appendLine(`[active-only] ${on ? "only active seats" : "every seat"}`)
+  const toggleActive = async (): Promise<undefined> => {
+    showingActive = !showingActive
+    await context.globalState.update(ACTIVE_ONLY_KEY, showingActive)
+    output.appendLine(`[active-only] ${showingActive ? "only active seats" : "every seat"}`)
+    describe()
     if (lastHeld !== null) {
       await draw({ held: lastHeld, trigger: "active-only" })
     }
@@ -252,8 +251,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   context.subscriptions.push(
-    vscode.commands.registerCommand(SHOW_ACTIVE_COMMAND, () => showActive(true)),
-    vscode.commands.registerCommand(SHOW_ALL_COMMAND, () => showActive(false)),
+    vscode.commands.registerCommand(TOGGLE_ACTIVE_COMMAND, () => toggleActive()),
     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual")),
     vscode.commands.registerCommand(RUN_STOP_COMMAND, (n: unknown) => runStop(n, refresh)),
     vscode.commands.registerCommand(RUN_RESUME_COMMAND, (n: unknown) =>

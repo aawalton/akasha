@@ -39,6 +39,14 @@ export const agentTreePanel = {
       statement: "A seat hidden from the panel still reaches its terminal tab's acts.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The manifest holds one command for that toggle, so the button keeps one icon.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The description says when only the active seats are shown.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "An act on a seat asks for the file again rather than waiting to be told.",
     },
@@ -122,5 +130,5 @@ export const agentTreePanel = {
       statement: "Nothing here knows the change a step makes to a seat.",
     },
   ],
-  updatedAt: "2026-10-08T15:38:36.389Z",
+  updatedAt: "2026-10-08T15:40:42.741Z",
 } as const satisfies Module
