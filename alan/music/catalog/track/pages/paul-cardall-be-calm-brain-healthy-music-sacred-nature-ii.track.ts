@@ -34,4 +34,6 @@ export const paulCardallBeCalmBrainHealthyMusicSacredNatureIi = {
       externalLink: "https://open.spotify.com/track/7HmcBxAlw9ZfD92RWX79yc",
     },
   ],
+  createdAt: "2026-09-18T13:50:28.484Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

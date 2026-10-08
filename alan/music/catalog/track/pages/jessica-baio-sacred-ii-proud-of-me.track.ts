@@ -24,4 +24,6 @@ export const jessicaBaioSacredIiProudOfMe = {
       externalLink: "https://open.spotify.com/track/096L2VjNlWSR6IPWRuZxbL",
     },
   ],
+  createdAt: "2026-09-21T22:41:56.058Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

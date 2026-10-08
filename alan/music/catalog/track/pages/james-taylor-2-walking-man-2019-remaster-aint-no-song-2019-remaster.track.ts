@@ -24,4 +24,6 @@ export const jamesTaylor2WalkingMan2019RemasterAintNoSong2019Remaster = {
       externalLink: "https://open.spotify.com/track/48c6QywKGGO6bjkOFT0FKy",
     },
   ],
+  createdAt: "2026-09-16T20:31:59.097Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

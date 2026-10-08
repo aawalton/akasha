@@ -24,4 +24,6 @@ export const jamesTaylor2FlagChansonFrancaise = {
       externalLink: "https://open.spotify.com/track/1tzcT5sLgvckDDbHnHdouQ",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.850Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

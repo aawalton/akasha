@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysJesusWantsMeForASunbeam = {
       externalLink: "https://open.spotify.com/track/7CVn0F1URnFGUPmonQP0Ri",
     },
   ],
+  createdAt: "2026-09-18T13:50:15.599Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

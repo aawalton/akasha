@@ -24,4 +24,6 @@ export const jamesTaylor2DadLovesHisWorkStandAndFight = {
       externalLink: "https://open.spotify.com/track/0hoLBsCWJzyFVLuDsCBHNp",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.399Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

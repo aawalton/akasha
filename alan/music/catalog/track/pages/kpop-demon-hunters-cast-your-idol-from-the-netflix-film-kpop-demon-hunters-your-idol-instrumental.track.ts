@@ -26,4 +26,6 @@ export const kpopDemonHuntersCastYourIdolFromTheNetflixFilmKpopDemonHuntersYourI
       externalLink: "https://open.spotify.com/track/11WNgTLC36fzjWsAa2qkMX",
     },
   ],
+  createdAt: "2026-09-22T13:40:07.985Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

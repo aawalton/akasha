@@ -24,4 +24,6 @@ export const jennaRaineJeansBoysJesusOffTheMarket = {
       externalLink: "https://open.spotify.com/track/7tr6pn8ZyErey14TDcvz7A",
     },
   ],
+  createdAt: "2026-09-21T22:40:52.160Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

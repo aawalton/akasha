@@ -24,4 +24,6 @@ export const nickelCreek2WhyShouldTheFireDieCantComplain = {
       externalLink: "https://open.spotify.com/track/0tRECF1NOE4LKkkhxuDO99",
     },
   ],
+  createdAt: "2026-09-22T19:47:29.249Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

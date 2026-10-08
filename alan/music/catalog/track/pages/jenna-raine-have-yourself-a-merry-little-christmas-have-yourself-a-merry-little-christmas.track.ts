@@ -24,4 +24,6 @@ export const jennaRaineHaveYourselfAMerryLittleChristmasHaveYourselfAMerryLittle
       externalLink: "https://open.spotify.com/track/4vvustxq2V6DMGc7H4TB4O",
     },
   ],
+  createdAt: "2026-09-21T22:40:53.842Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarINeedTheeEveryHour = {
       externalLink: "https://open.spotify.com/track/6bgO9jWxDZxBpX8l8QbSPK",
     },
   ],
+  createdAt: "2026-09-18T13:50:07.627Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

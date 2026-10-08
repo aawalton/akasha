@@ -24,4 +24,6 @@ export const nickelCreek2WhyShouldTheFireDieFirstAndLastWaltz = {
       externalLink: "https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC",
     },
   ],
+  createdAt: "2026-09-22T19:47:29.657Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

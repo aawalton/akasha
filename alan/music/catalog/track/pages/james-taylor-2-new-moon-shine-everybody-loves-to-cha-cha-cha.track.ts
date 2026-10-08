@@ -24,4 +24,6 @@ export const jamesTaylor2NewMoonShineEverybodyLovesToChaChaCha = {
       externalLink: "https://open.spotify.com/track/7LEbRfOPOuGpZXlH53di52",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.449Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

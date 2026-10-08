@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarBeStillMySoul = {
       externalLink: "https://open.spotify.com/track/4cArim6RNWjmAfAAItwAyn",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.185Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

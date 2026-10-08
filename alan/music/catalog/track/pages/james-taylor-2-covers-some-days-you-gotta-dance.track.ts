@@ -24,4 +24,6 @@ export const jamesTaylor2CoversSomeDaysYouGottaDance = {
       externalLink: "https://open.spotify.com/track/7wsuB1hxiDdWBVC9D5NZXn",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.389Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

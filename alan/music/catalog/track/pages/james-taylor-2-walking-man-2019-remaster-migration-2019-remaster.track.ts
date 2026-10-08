@@ -24,4 +24,6 @@ export const jamesTaylor2WalkingMan2019RemasterMigration2019Remaster = {
       externalLink: "https://open.spotify.com/track/0TSRDYGihXBNPxe02JDpqU",
     },
   ],
+  createdAt: "2026-09-16T20:31:59.166Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2OtherCoversKnockOnWood = {
       externalLink: "https://open.spotify.com/track/1AOJ3y1KKpt19Mzd1MyiJT",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.239Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

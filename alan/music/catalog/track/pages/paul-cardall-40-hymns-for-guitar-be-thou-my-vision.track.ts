@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarBeThouMyVision = {
       externalLink: "https://open.spotify.com/track/0Y9Cs5xWrJG7RVFaBtpjlV",
     },
   ],
+  createdAt: "2026-09-18T13:50:07.908Z",
+  updatedAt: "2026-09-24T20:00:08.000Z",
 } as const satisfies Track

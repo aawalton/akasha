@@ -24,4 +24,6 @@ export const jamesTaylor2NewMoonShineTheWaterIsWide = {
       externalLink: "https://open.spotify.com/track/6NaQl05UuL6ZHw6ptdyhdE",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.534Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

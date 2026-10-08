@@ -24,4 +24,6 @@ export const lynLapidBuzzkillItDoesntKillMeAnymore = {
       externalLink: "https://open.spotify.com/track/0Kgcz5tX27HlWIrQ6kyavh",
     },
   ],
+  createdAt: "2026-09-22T13:47:01.657Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

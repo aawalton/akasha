@@ -24,4 +24,6 @@ export const paulCardallANewCreationEdenZaDrugim = {
       externalLink: "https://open.spotify.com/track/5BBpKmVsywON8P1G7s564S",
     },
   ],
+  createdAt: "2026-09-18T13:50:15.261Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

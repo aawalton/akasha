@@ -24,4 +24,6 @@ export const paulCardallAncestorsLettersHome = {
       externalLink: "https://open.spotify.com/track/2VDpEIMlCyPwLC6iqKy3Cb",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.952Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

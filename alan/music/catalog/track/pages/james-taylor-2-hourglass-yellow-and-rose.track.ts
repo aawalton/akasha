@@ -24,4 +24,6 @@ export const jamesTaylor2HourglassYellowAndRose = {
       externalLink: "https://open.spotify.com/track/7pX7MnSkQ2zJ0OhZbJy21C",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.176Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

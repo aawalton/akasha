@@ -31,4 +31,6 @@ export const lynLapidBuzzkillForeverFloaterFriend = {
       externalLink: "https://open.spotify.com/track/4UJOUiWya43HDOga0x6nDh",
     },
   ],
+  createdAt: "2026-09-22T13:47:01.235Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

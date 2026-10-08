@@ -24,4 +24,6 @@ export const nickelCreek2WhyShouldTheFireDieDoubtingThomas = {
       externalLink: "https://open.spotify.com/track/5Y5mqKOWd1wzqSqBeYaeO9",
     },
   ],
+  createdAt: "2026-09-22T19:47:29.591Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

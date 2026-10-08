@@ -31,4 +31,6 @@ export const paulCardallFaithfulSweetEscape = {
       externalLink: "https://open.spotify.com/track/60jdNWc0ggiZkHq14OErIf",
     },
   ],
+  createdAt: "2026-09-18T13:50:24.126Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

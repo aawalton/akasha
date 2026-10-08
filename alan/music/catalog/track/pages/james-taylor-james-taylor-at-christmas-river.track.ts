@@ -25,4 +25,6 @@ export const jamesTaylorJamesTaylorAtChristmasRiver = {
       externalLink: "https://open.spotify.com/track/2pRgR5prqaVWhQSBKXG8rb",
     },
   ],
+  createdAt: "2026-09-16T20:31:51.524Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

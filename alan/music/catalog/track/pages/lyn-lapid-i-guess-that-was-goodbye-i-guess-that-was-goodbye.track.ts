@@ -24,4 +24,6 @@ export const lynLapidIGuessThatWasGoodbyeIGuessThatWasGoodbye = {
       externalLink: "https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg",
     },
   ],
+  createdAt: "2026-09-22T13:47:05.705Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const lilithMaxCallDownTheDragonMaidensNight = {
       externalLink: "https://open.spotify.com/track/5lMoRPtT8AmqckNyzOQ2xl",
     },
   ],
+  createdAt: "2026-09-22T13:46:15.594Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

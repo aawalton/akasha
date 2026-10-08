@@ -31,4 +31,6 @@ export const kDaAllOutIllShowYou = {
       externalLink: "https://open.spotify.com/track/497qmwcUsCv5hmMU0K8Hik",
     },
   ],
+  createdAt: "2026-09-22T13:39:42.513Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

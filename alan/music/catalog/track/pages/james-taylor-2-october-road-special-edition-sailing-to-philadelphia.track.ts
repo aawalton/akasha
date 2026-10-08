@@ -24,4 +24,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionSailingToPhiladelphia = {
       externalLink: "https://open.spotify.com/track/3SSdgcic8a3hVaPytpQsiJ",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.804Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

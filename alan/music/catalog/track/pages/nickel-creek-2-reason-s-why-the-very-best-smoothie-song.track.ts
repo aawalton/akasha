@@ -24,4 +24,6 @@ export const nickelCreek2ReasonSWhyTheVeryBestSmoothieSong = {
       externalLink: "https://open.spotify.com/track/7iy5Uq0aAWuz5v0GFL5dBZ",
     },
   ],
+  createdAt: "2026-09-22T19:47:28.645Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

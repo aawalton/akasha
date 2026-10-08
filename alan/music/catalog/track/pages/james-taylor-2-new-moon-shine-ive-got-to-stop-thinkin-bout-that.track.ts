@@ -24,4 +24,6 @@ export const jamesTaylor2NewMoonShineIveGotToStopThinkinBoutThat = {
       externalLink: "https://open.spotify.com/track/2i5hAQ1umHhu9ZEhie2XkJ",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.283Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

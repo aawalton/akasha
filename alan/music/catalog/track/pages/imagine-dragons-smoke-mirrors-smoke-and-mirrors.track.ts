@@ -24,4 +24,6 @@ export const imagineDragonsSmokeMirrorsSmokeAndMirrors = {
       externalLink: "https://open.spotify.com/track/0joO6IeobvKP3cDz8xZfWe",
     },
   ],
+  createdAt: "2026-09-21T13:55:12.135Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

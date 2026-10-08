@@ -24,4 +24,6 @@ export const nickelCreek2WhyShouldTheFireDieTomorrowIsALongTime = {
       externalLink: "https://open.spotify.com/track/042IWvSH6Hl3zL9texLQyM",
     },
   ],
+  createdAt: "2026-09-22T19:47:29.287Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

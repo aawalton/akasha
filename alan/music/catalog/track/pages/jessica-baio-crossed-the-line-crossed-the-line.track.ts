@@ -24,4 +24,6 @@ export const jessicaBaioCrossedTheLineCrossedTheLine = {
       externalLink: "https://open.spotify.com/track/34H23MMDFepzdGQi6P4cYY",
     },
   ],
+  createdAt: "2026-09-21T22:42:01.200Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

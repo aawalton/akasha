@@ -24,4 +24,6 @@ export const nickelCreek2ThisSideYoung = {
       externalLink: "https://open.spotify.com/track/1fCSnotiP3cen8C6uyCKbd",
     },
   ],
+  createdAt: "2026-09-22T19:47:30.507Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

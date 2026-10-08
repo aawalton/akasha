@@ -24,4 +24,6 @@ export const jamesTaylor2BeforeThisWorldSnowtime = {
       externalLink: "https://open.spotify.com/track/0ciNBuuJYP1EvG8LDpShWk",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.469Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

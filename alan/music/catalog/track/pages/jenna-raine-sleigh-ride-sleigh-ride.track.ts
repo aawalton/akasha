@@ -24,4 +24,6 @@ export const jennaRaineSleighRideSleighRide = {
       externalLink: "https://open.spotify.com/track/6ygOrb7kqOD91aD2faAakf",
     },
   ],
+  createdAt: "2026-09-21T22:40:55.872Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

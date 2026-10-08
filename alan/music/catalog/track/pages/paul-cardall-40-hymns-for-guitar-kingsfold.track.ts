@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarKingsfold = {
       externalLink: "https://open.spotify.com/track/7n9BXhRztMhnWgtwIfLtug",
     },
   ],
+  createdAt: "2026-09-18T13:50:07.664Z",
+  updatedAt: "2026-09-24T20:00:08.000Z",
 } as const satisfies Track

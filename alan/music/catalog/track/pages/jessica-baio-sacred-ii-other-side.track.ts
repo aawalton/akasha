@@ -31,4 +31,6 @@ export const jessicaBaioSacredIiOtherSide = {
       externalLink: "https://open.spotify.com/track/6E5Q4S7tWxec0TWRScK57o",
     },
   ],
+  createdAt: "2026-09-21T22:41:58.515Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

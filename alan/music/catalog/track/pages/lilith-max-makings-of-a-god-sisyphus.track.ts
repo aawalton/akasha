@@ -24,4 +24,6 @@ export const lilithMaxMakingsOfAGodSisyphus = {
       externalLink: "https://open.spotify.com/track/0qtxeMm0WpYVZAh9km0uuj",
     },
   ],
+  createdAt: "2026-09-22T13:46:15.122Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

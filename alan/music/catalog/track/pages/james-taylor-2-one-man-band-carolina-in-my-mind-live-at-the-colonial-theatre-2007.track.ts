@@ -24,4 +24,6 @@ export const jamesTaylor2OneManBandCarolinaInMyMindLiveAtTheColonialTheatre2007 
       externalLink: "https://open.spotify.com/track/1Zi2jUaZUAG6h9mvyUxFS1",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.168Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

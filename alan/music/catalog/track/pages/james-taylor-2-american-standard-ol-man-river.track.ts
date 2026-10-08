@@ -24,4 +24,6 @@ export const jamesTaylor2AmericanStandardOlManRiver = {
       externalLink: "https://open.spotify.com/track/1Kz5feZb5jE6skMT6R9vkd",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.185Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

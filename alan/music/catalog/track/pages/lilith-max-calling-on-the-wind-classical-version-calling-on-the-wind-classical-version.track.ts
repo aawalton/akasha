@@ -24,4 +24,6 @@ export const lilithMaxCallingOnTheWindClassicalVersionCallingOnTheWindClassicalV
       externalLink: "https://open.spotify.com/track/2XaOoGVruhm1p7G3DoOrNd",
     },
   ],
+  createdAt: "2026-09-22T13:46:14.823Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

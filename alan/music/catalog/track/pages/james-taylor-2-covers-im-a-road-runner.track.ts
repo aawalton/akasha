@@ -24,4 +24,6 @@ export const jamesTaylor2CoversImARoadRunner = {
       externalLink: "https://open.spotify.com/track/1WhUsyBScyAZBLL9FHVKfG",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.302Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

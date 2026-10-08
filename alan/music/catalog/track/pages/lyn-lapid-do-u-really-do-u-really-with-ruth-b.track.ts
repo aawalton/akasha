@@ -24,4 +24,6 @@ export const lynLapidDoUReallyDoUReallyWithRuthB = {
       externalLink: "https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy",
     },
   ],
+  createdAt: "2026-09-22T13:47:04.471Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2CoversItsGrowing = {
       externalLink: "https://open.spotify.com/track/68Qf4tPdL93soTR5wpcDGN",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.267Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

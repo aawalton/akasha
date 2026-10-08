@@ -42,4 +42,6 @@ export const jessicaBaioPetalsGhost = {
       externalLink: "https://open.spotify.com/track/42FEkYjB7tdsWvyvvy3Mrz",
     },
   ],
+  createdAt: "2026-09-21T22:42:00.586Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

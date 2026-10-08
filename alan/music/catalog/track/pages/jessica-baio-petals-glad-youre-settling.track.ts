@@ -50,4 +50,6 @@ export const jessicaBaioPetalsGladYoureSettling = {
       externalLink: "https://open.spotify.com/track/653Th8zTjqHYE3zlEUG6Na",
     },
   ],
+  createdAt: "2026-09-21T22:42:00.773Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

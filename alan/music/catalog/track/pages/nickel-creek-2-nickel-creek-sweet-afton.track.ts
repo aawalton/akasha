@@ -24,4 +24,6 @@ export const nickelCreek2NickelCreekSweetAfton = {
       externalLink: "https://open.spotify.com/track/5Nu7mcExOo7QRbsnBEvLvQ",
     },
   ],
+  createdAt: "2026-09-22T19:47:30.905Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

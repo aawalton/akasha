@@ -24,4 +24,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionMeanOldMan = {
       externalLink: "https://open.spotify.com/track/0WqZ6MR1Xmz3MCaWA4HZ8x",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.480Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

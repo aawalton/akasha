@@ -24,4 +24,6 @@ export const nickelCreek2ReasonSWhyTheVeryBestReasonsWhy = {
       externalLink: "https://open.spotify.com/track/3QXTaJZ5JGoh9Rl0xFuNu7",
     },
   ],
+  createdAt: "2026-09-22T19:47:28.718Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarMoonlightSonata = {
       externalLink: "https://open.spotify.com/track/1zhEK6t7T5uACpRjmJ6JBu",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.110Z",
+  updatedAt: "2026-09-25T18:00:47.000Z",
 } as const satisfies Track

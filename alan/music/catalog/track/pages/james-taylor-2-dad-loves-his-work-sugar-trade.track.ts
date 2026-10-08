@@ -24,4 +24,6 @@ export const jamesTaylor2DadLovesHisWorkSugarTrade = {
       externalLink: "https://open.spotify.com/track/1uzu2Ll2NoqPOPzXMxlqJ5",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.482Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

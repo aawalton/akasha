@@ -24,4 +24,6 @@ export const jamesTaylor2OneManBandSchoolSongLiveAtTheColonialTheatre2007 = {
       externalLink: "https://open.spotify.com/track/2s18y5OmCMbCtvF24S6Zvm",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.782Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

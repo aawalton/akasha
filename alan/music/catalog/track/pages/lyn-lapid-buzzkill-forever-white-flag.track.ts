@@ -24,4 +24,6 @@ export const lynLapidBuzzkillForeverWhiteFlag = {
       externalLink: "https://open.spotify.com/track/08v4xoqLugbuJEr3n8mj4y",
     },
   ],
+  createdAt: "2026-09-22T13:47:00.776Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

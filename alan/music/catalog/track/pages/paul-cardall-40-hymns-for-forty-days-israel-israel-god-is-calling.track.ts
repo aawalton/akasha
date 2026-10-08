@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysIsraelIsraelGodIsCalling = {
       externalLink: "https://open.spotify.com/track/1Dk0vALECQKicMkhjoTqdT",
     },
   ],
+  createdAt: "2026-09-18T13:50:15.352Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

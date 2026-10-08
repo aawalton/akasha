@@ -34,4 +34,6 @@ export const paulCardallAGriefObservedAGriefObserved = {
       externalLink: "https://open.spotify.com/track/2ndHSCDVY7VZi1KADiV3sU",
     },
   ],
+  createdAt: "2026-09-18T13:50:27.838Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

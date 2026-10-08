@@ -24,4 +24,6 @@ export const jessicaBaioHomeHome = {
       externalLink: "https://open.spotify.com/track/3Y79CXA7VtCv9GiyMJujBo",
     },
   ],
+  createdAt: "2026-09-21T22:42:01.493Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallChristmasDreamingSilentNightPianoAndGuitar = {
       externalLink: "https://open.spotify.com/track/44wneGYLtJgJK1wTw4QAMS",
     },
   ],
+  createdAt: "2026-09-18T13:50:27.952Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

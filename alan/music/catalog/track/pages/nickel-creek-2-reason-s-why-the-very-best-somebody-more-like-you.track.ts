@@ -24,4 +24,6 @@ export const nickelCreek2ReasonSWhyTheVeryBestSomebodyMoreLikeYou = {
       externalLink: "https://open.spotify.com/track/0kvy8rEXxfiVBAmBpRqJrU",
     },
   ],
+  createdAt: "2026-09-22T19:47:28.680Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

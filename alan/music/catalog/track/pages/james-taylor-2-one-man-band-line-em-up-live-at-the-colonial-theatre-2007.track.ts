@@ -24,4 +24,6 @@ export const jamesTaylor2OneManBandLineEmUpLiveAtTheColonialTheatre2007 = {
       externalLink: "https://open.spotify.com/track/6N7KLX1EBt8zE7M5vUOdEQ",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.027Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

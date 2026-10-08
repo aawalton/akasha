@@ -34,4 +34,6 @@ export const lynLapidToLoveInThe21stCenturyTheEpiloguePosterBoy = {
       externalLink: "https://open.spotify.com/track/291ELksbghiicdl4mqXTOo",
     },
   ],
+  createdAt: "2026-09-22T13:47:02.864Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

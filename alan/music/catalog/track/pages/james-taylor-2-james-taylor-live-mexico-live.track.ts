@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveMexicoLive = {
       externalLink: "https://open.spotify.com/track/497tjyC7zWeUrU5kk193oK",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.570Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

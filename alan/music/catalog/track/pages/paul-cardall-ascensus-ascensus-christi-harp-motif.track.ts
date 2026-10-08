@@ -24,4 +24,6 @@ export const paulCardallAscensusAscensusChristiHarpMotif = {
       externalLink: "https://open.spotify.com/track/1VqeXzj6mMs5GWB2B3XHOe",
     },
   ],
+  createdAt: "2026-09-18T13:50:10.576Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -38,4 +38,6 @@ export const kDaAllOutTheBaddest = {
       externalLink: "https://open.spotify.com/track/6y3EPT8iw6HmuMpX05gyvt",
     },
   ],
+  createdAt: "2026-09-22T13:39:42.598Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const lynLapidWishIDidnTCareFeatLynLapidWishIDidntCareFeatLynLapid = {
       externalLink: "https://open.spotify.com/track/0PR18iumE2ZDoOQBV9Q5rC",
     },
   ],
+  createdAt: "2026-09-22T13:47:04.200Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

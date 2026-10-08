@@ -31,4 +31,6 @@ export const kDaAllOutDrumGoDum = {
       externalLink: "https://open.spotify.com/track/3CEW3iffD2QvNZMK20sMqW",
     },
   ],
+  createdAt: "2026-09-22T13:39:42.452Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

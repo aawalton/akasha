@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarWhenISurveyTheWondrousCross = {
       externalLink: "https://open.spotify.com/track/4NENozMAHnXJ4Y1wuWS9eP",
     },
   ],
+  createdAt: "2026-09-18T13:50:07.812Z",
+  updatedAt: "2026-09-24T20:00:08.000Z",
 } as const satisfies Track

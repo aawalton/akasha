@@ -31,4 +31,6 @@ export const kDaPopStarsPopStars = {
       externalLink: "https://open.spotify.com/track/3em2uN4cCWHcCXhjMzJ8ps",
     },
   ],
+  createdAt: "2026-09-22T13:39:42.669Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

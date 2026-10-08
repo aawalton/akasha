@@ -24,4 +24,6 @@ export const nickelCreek2ReasonSWhyTheVeryBestWhenYouComeBackDown = {
       externalLink: "https://open.spotify.com/track/4KTf2qVdfkOgUZ0Ojpix7x",
     },
   ],
+  createdAt: "2026-09-22T19:47:28.960Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallASacredChristmasPianoCollectionCarolOfTheBells = {
       externalLink: "https://open.spotify.com/track/7obd1S9jLZXy5dYxurctD1",
     },
   ],
+  createdAt: "2026-09-18T13:50:17.973Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

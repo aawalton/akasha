@@ -24,4 +24,6 @@ export const jessicaBaioSkinSkin = {
       externalLink: "https://open.spotify.com/track/0Erz70vVvY6QTzZunPSn6u",
     },
   ],
+  createdAt: "2026-09-21T22:42:01.350Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

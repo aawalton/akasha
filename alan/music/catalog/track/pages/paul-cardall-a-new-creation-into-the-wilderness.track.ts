@@ -24,4 +24,6 @@ export const paulCardallANewCreationIntoTheWilderness = {
       externalLink: "https://open.spotify.com/track/0kzXntjXY53n2repbVJzyp",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.972Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

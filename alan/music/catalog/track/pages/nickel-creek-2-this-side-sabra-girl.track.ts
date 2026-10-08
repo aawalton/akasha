@@ -24,4 +24,6 @@ export const nickelCreek2ThisSideSabraGirl = {
       externalLink: "https://open.spotify.com/track/4V3TVHe0Wx44x0aDj1e9k7",
     },
   ],
+  createdAt: "2026-09-22T19:47:30.437Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

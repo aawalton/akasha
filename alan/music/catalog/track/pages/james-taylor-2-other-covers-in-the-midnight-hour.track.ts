@@ -24,4 +24,6 @@ export const jamesTaylor2OtherCoversInTheMidnightHour = {
       externalLink: "https://open.spotify.com/track/0IqfR9NSTljo3wFjqHRpGy",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.210Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

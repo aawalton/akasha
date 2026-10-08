@@ -24,4 +24,6 @@ export const jamesTaylor2OneManBandSweetBabyJamesLiveAtTheColonialTheatre2007 = 
       externalLink: "https://open.spotify.com/track/55OLjN6t2khbLI1YzbPtN5",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.133Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

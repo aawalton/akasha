@@ -24,4 +24,6 @@ export const jamesTaylor2WalkingMan2019RemasterHelloOldFriend2019Remaster = {
       externalLink: "https://open.spotify.com/track/6tbfQIRUHsKnv76JQxsy9b",
     },
   ],
+  createdAt: "2026-09-16T20:31:59.132Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

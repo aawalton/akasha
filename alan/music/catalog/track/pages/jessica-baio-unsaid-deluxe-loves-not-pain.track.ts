@@ -42,4 +42,6 @@ export const jessicaBaioUnsaidDeluxeLovesNotPain = {
       externalLink: "https://open.spotify.com/track/5GuE2lWvAsf5AKJT6AAufa",
     },
   ],
+  createdAt: "2026-09-21T22:41:59.277Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

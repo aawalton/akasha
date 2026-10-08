@@ -25,4 +25,6 @@ export const imagineDragonsThunderYoungDumbBrokeWithKhalidMedleyThunderYoungDumb
       externalLink: "https://open.spotify.com/track/7ER7vcy7u2ajg5IV45WBFw",
     },
   ],
+  createdAt: "2026-09-21T13:55:14.818Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

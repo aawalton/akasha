@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveYouMakeItEasy = {
       externalLink: "https://open.spotify.com/track/09Wl0w02eHc6ssOKS3vk3g",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.091Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2OneManBandSlapLeatherLiveAtTheColonialTheatre2007 = {
       externalLink: "https://open.spotify.com/track/4qgL4rkQnSZqjSXqNM8yp7",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.852Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

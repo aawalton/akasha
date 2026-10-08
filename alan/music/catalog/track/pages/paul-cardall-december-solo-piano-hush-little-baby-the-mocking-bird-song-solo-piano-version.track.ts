@@ -24,4 +24,6 @@ export const paulCardallDecemberSoloPianoHushLittleBabyTheMockingBirdSongSoloPia
       externalLink: "https://open.spotify.com/track/0pHTqwhsLfWy9IDb4Fvxnt",
     },
   ],
+  createdAt: "2026-09-18T13:50:12.459Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

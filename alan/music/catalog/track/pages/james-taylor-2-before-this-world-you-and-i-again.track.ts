@@ -24,4 +24,6 @@ export const jamesTaylor2BeforeThisWorldYouAndIAgain = {
       externalLink: "https://open.spotify.com/track/2AtohPw33TZyaHSFpVgwd3",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.318Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

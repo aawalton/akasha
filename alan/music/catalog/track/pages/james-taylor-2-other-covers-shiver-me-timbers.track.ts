@@ -24,4 +24,6 @@ export const jamesTaylor2OtherCoversShiverMeTimbers = {
       externalLink: "https://open.spotify.com/track/0i9yAHlCCzP8p3mFWxLDNG",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.153Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

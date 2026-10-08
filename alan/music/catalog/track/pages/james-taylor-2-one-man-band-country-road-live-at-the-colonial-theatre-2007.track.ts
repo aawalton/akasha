@@ -24,4 +24,6 @@ export const jamesTaylor2OneManBandCountryRoadLiveAtTheColonialTheatre2007 = {
       externalLink: "https://open.spotify.com/track/1JBLddQDxTFXCzJ0eMQlDz",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.817Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2OneManDog2019RemasterOneManParade2019Remaster = {
       externalLink: "https://open.spotify.com/track/2gPsCmehSyxvn6RfYDAI0N",
     },
   ],
+  createdAt: "2026-09-16T20:31:59.287Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

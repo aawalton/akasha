@@ -24,4 +24,6 @@ export const jamesTaylor2JtYourSmilingFace = {
       externalLink: "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.909Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

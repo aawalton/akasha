@@ -24,4 +24,6 @@ export const lilithMaxStardustStardust = {
       externalLink: "https://open.spotify.com/track/6Ho36PEEDD4vYJppba6PuV",
     },
   ],
+  createdAt: "2026-09-22T13:46:16.416Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

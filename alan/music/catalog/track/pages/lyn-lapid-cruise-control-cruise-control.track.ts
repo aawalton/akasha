@@ -24,4 +24,6 @@ export const lynLapidCruiseControlCruiseControl = {
       externalLink: "https://open.spotify.com/track/61svLjB9BCjdtkUtqbDSXp",
     },
   ],
+  createdAt: "2026-09-22T13:47:04.276Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

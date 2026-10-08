@@ -24,4 +24,6 @@ export const paulCardallFaithfulDanzaDelAmor = {
       externalLink: "https://open.spotify.com/track/3ReUJHaFQJrzi4RyWj57vV",
     },
   ],
+  createdAt: "2026-09-18T13:50:24.299Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

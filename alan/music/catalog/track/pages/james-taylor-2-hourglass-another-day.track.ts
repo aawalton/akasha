@@ -24,4 +24,6 @@ export const jamesTaylor2HourglassAnotherDay = {
       externalLink: "https://open.spotify.com/track/5lu9nUZStqCZrk8mvJvdpS",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.061Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

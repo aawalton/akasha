@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveHowSweetItIs = {
       externalLink: "https://open.spotify.com/track/4BiqtG2bW4JrNRd2T2mr0j",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.714Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

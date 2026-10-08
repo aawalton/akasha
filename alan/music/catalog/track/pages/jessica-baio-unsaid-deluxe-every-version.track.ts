@@ -31,4 +31,6 @@ export const jessicaBaioUnsaidDeluxeEveryVersion = {
       externalLink: "https://open.spotify.com/track/6nmJiA8NBsfEpUfgzZ5pAM",
     },
   ],
+  createdAt: "2026-09-21T22:41:58.186Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

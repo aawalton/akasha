@@ -24,4 +24,6 @@ export const jamesTaylor2OneManBandSomethingInTheWaySheMovesLiveAtTheColonialThe
       externalLink: "https://open.spotify.com/track/6fDsFmqQne09t0nT1LYrSU",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.646Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

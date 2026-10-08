@@ -42,4 +42,6 @@ export const lynLapidBuzzkillForeverCoraline = {
       externalLink: "https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF",
     },
   ],
+  createdAt: "2026-09-22T13:47:03.594Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

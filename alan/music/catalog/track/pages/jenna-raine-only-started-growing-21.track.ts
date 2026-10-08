@@ -42,4 +42,6 @@ export const jennaRaineOnlyStartedGrowing21 = {
       externalLink: "https://open.spotify.com/track/0QAmtBNSL8FoUWXvkdUZhP",
     },
   ],
+  createdAt: "2026-09-21T22:40:53.781Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

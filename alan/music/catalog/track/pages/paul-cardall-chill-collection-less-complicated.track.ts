@@ -24,4 +24,6 @@ export const paulCardallChillCollectionLessComplicated = {
       externalLink: "https://open.spotify.com/track/1g5FjnHwDGG2j2YuW9QcM4",
     },
   ],
+  createdAt: "2026-09-18T13:50:18.847Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

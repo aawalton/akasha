@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveCountryRoad = {
       externalLink: "https://open.spotify.com/track/7iMT9dte1Ml23gxj6k88wx",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.629Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

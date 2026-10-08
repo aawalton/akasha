@@ -24,4 +24,6 @@ export const jennaRaineRosesVersionsRosesAcapella = {
       externalLink: "https://open.spotify.com/track/2kZEZxh1O1J7Lonn6BqYyE",
     },
   ],
+  createdAt: "2026-09-21T22:40:54.021Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

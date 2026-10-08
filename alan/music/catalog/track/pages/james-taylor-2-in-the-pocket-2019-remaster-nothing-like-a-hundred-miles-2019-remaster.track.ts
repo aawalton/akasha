@@ -24,4 +24,6 @@ export const jamesTaylor2InThePocket2019RemasterNothingLikeAHundredMiles2019Rema
       externalLink: "https://open.spotify.com/track/06mmW26klpoE9xkIww6c9k",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.516Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

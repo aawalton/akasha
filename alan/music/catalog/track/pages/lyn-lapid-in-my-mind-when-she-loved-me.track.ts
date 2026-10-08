@@ -31,4 +31,6 @@ export const lynLapidInMyMindWhenSheLovedMe = {
       externalLink: "https://open.spotify.com/track/3198LMj0bpnXj8Mb1GLo3u",
     },
   ],
+  createdAt: "2026-09-22T13:47:06.425Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

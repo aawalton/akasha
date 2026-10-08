@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysGentlyRaiseTheSacredStrain = {
       externalLink: "https://open.spotify.com/track/1fREicCwmQiep3yMu9RxGK",
     },
   ],
+  createdAt: "2026-09-18T13:50:15.881Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

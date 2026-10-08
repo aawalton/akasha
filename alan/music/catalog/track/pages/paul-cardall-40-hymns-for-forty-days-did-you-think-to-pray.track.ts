@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysDidYouThinkToPray = {
       externalLink: "https://open.spotify.com/track/6XcEJy7WbNcX6OhqxBepWz",
     },
   ],
+  createdAt: "2026-09-18T13:50:16.423Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

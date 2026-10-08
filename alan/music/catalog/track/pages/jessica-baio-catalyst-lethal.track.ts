@@ -31,4 +31,6 @@ export const jessicaBaioCatalystLethal = {
       externalLink: "https://open.spotify.com/track/1qnwBI3oruFZBAbmiHTLrT",
     },
   ],
+  createdAt: "2026-09-21T22:42:01.115Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

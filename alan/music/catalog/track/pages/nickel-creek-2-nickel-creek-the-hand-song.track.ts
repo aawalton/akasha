@@ -24,4 +24,6 @@ export const nickelCreek2NickelCreekTheHandSong = {
       externalLink: "https://open.spotify.com/track/4gmgga4dCc5u671MK8eD7X",
     },
   ],
+  createdAt: "2026-09-22T19:47:31.009Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

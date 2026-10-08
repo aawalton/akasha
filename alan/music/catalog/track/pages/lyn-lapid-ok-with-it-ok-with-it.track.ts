@@ -24,4 +24,6 @@ export const lynLapidOkWithItOkWithIt = {
       externalLink: "https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD",
     },
   ],
+  createdAt: "2026-09-22T13:47:04.373Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

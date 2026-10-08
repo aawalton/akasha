@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysTheLordIsMyShepherd = {
       externalLink: "https://open.spotify.com/track/6Mct92mPPlKz2dEmbhWzSl",
     },
   ],
+  createdAt: "2026-09-18T13:50:15.569Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

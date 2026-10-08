@@ -24,4 +24,6 @@ export const jamesTaylor2JtLookingForLoveOnBroadway = {
       externalLink: "https://open.spotify.com/track/0aYkXRhGQLINhdv69RSmVK",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.149Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jennaRaineBigDumbHeartChapter2WhatAreFriendsFor = {
       externalLink: "https://open.spotify.com/track/5t5AjZ5ak7hIOVILV6K86D",
     },
   ],
+  createdAt: "2026-09-21T22:40:54.636Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

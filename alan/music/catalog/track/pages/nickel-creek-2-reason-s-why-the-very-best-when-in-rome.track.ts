@@ -24,4 +24,6 @@ export const nickelCreek2ReasonSWhyTheVeryBestWhenInRome = {
       externalLink: "https://open.spotify.com/track/46arFjQJkK7H09CAwKU4DS",
     },
   ],
+  createdAt: "2026-09-22T19:47:28.574Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

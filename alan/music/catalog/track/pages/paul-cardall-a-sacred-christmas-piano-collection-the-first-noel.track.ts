@@ -24,4 +24,6 @@ export const paulCardallASacredChristmasPianoCollectionTheFirstNoel = {
       externalLink: "https://open.spotify.com/track/4kGRP2a9RzSpbX5E2SkSo8",
     },
   ],
+  createdAt: "2026-09-18T13:50:18.074Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

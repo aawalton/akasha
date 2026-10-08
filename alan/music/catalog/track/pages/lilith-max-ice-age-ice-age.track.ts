@@ -24,4 +24,6 @@ export const lilithMaxIceAgeIceAge = {
       externalLink: "https://open.spotify.com/track/26M8PQI8MkGRXBIygLlnVF",
     },
   ],
+  createdAt: "2026-09-22T13:46:16.371Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

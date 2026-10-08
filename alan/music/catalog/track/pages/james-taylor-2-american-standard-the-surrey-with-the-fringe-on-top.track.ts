@@ -24,4 +24,6 @@ export const jamesTaylor2AmericanStandardTheSurreyWithTheFringeOnTop = {
       externalLink: "https://open.spotify.com/track/3kJJtv9juaxcspjbC1bNXT",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.252Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

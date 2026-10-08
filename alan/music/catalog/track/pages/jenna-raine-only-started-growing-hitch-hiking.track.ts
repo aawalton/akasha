@@ -24,4 +24,6 @@ export const jennaRaineOnlyStartedGrowingHitchHiking = {
       externalLink: "https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W",
     },
   ],
+  createdAt: "2026-09-21T22:40:53.455Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

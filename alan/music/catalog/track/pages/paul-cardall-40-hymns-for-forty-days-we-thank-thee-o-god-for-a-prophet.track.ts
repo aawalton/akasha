@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysWeThankTheeOGodForAProphet = {
       externalLink: "https://open.spotify.com/track/3rYUPEbT1B3GBWhNEemwBA",
     },
   ],
+  createdAt: "2026-09-18T13:50:16.531Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

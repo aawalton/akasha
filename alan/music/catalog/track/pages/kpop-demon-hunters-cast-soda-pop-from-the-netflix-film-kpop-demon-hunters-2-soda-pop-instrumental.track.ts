@@ -27,4 +27,6 @@ export const kpopDemonHuntersCastSodaPopFromTheNetflixFilmKpopDemonHunters2SodaP
       externalLink: "https://open.spotify.com/track/2Dvnq78kpV8PQByQHnhXqc",
     },
   ],
+  createdAt: "2026-09-22T13:40:07.628Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

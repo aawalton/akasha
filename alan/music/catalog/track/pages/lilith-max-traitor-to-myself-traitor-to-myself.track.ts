@@ -24,4 +24,6 @@ export const lilithMaxTraitorToMyselfTraitorToMyself = {
       externalLink: "https://open.spotify.com/track/72QA53qzcxUUzPlX0JUTc2",
     },
   ],
+  createdAt: "2026-09-22T13:46:14.687Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

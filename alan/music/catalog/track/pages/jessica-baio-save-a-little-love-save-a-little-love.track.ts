@@ -29,4 +29,6 @@ export const jessicaBaioSaveALittleLoveSaveALittleLove = {
       externalLink: "https://open.spotify.com/track/6z3Sc8aIpoJNHf7egh7jg4",
     },
   ],
+  createdAt: "2026-09-21T22:41:56.546Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

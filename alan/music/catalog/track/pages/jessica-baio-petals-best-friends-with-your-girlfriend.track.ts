@@ -66,4 +66,6 @@ export const jessicaBaioPetalsBestFriendsWithYourGirlfriend = {
       externalLink: "https://open.spotify.com/track/6lg1jciwspaSzPmIb62Y7c",
     },
   ],
+  createdAt: "2026-09-21T22:42:00.959Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const kpopDemonHuntersCastHowItSDoneFromTheNetflixFilmKpopDemonHuntersHow
       externalLink: "https://open.spotify.com/track/5Lp1rg1qkv7CpFxs4198UG",
     },
   ],
+  createdAt: "2026-09-22T13:40:07.504Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2ThatSWhyIMHereSongForYouFarAway = {
       externalLink: "https://open.spotify.com/track/1seIRIDefTYT2tIa1i7ZgB",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.893Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

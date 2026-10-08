@@ -24,4 +24,6 @@ export const jisooClickClick = {
       externalLink: "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ",
     },
   ],
+  createdAt: "2026-09-17T13:50:53.910Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

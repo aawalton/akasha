@@ -24,4 +24,6 @@ export const lilithMaxStorybookSacrifice = {
       externalLink: "https://open.spotify.com/track/1XsQAAtee8WdMibpMH1xLt",
     },
   ],
+  createdAt: "2026-09-22T13:46:16.186Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallChristmasOHolyNight = {
       externalLink: "https://open.spotify.com/track/50YWeUtsdF8sc5sijyZ6Gi",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.677Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

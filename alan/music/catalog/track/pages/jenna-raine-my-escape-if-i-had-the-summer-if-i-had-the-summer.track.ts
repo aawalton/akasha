@@ -24,4 +24,6 @@ export const jennaRaineMyEscapeIfIHadTheSummerIfIHadTheSummer = {
       externalLink: "https://open.spotify.com/track/7mHMsALJENGMhNnp0RkAkG",
     },
   ],
+  createdAt: "2026-09-21T22:40:56.831Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

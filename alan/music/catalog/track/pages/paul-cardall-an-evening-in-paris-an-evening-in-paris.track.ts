@@ -34,4 +34,6 @@ export const paulCardallAnEveningInParisAnEveningInParis = {
       externalLink: "https://open.spotify.com/track/6Usay1Fv5Ni9D2c3kBR0Ml",
     },
   ],
+  createdAt: "2026-09-18T13:50:28.155Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

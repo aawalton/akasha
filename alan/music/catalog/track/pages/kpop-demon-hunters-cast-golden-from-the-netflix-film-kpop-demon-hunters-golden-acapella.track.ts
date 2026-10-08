@@ -50,4 +50,6 @@ export const kpopDemonHuntersCastGoldenFromTheNetflixFilmKpopDemonHuntersGoldenA
       externalLink: "https://open.spotify.com/track/3WxGrCFa7VfPMbGATideIe",
     },
   ],
+  createdAt: "2026-09-22T13:40:10.204Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

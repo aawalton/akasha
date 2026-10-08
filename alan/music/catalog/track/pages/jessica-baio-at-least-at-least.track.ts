@@ -24,4 +24,6 @@ export const jessicaBaioAtLeastAtLeast = {
       externalLink: "https://open.spotify.com/track/399wAX3JHCsZyDbNl11Itq",
     },
   ],
+  createdAt: "2026-09-21T22:42:01.240Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

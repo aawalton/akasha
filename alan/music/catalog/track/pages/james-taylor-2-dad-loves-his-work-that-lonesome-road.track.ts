@@ -24,4 +24,6 @@ export const jamesTaylor2DadLovesHisWorkThatLonesomeRoad = {
       externalLink: "https://open.spotify.com/track/04RAcppX0YjUqDYWy4nAix",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.536Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

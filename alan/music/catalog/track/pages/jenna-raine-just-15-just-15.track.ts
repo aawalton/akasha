@@ -24,4 +24,6 @@ export const jennaRaineJust15Just15 = {
       externalLink: "https://open.spotify.com/track/0noBpncaaAp2DM6hy01VLg",
     },
   ],
+  createdAt: "2026-09-21T22:40:53.067Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

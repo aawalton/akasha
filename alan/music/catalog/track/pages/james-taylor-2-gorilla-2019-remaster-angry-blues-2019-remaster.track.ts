@@ -24,4 +24,6 @@ export const jamesTaylor2Gorilla2019RemasterAngryBlues2019Remaster = {
       externalLink: "https://open.spotify.com/track/6595MCcQT9hlzYDxwKqKIr",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.853Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

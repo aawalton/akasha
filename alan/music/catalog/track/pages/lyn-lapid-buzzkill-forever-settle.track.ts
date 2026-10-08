@@ -24,4 +24,6 @@ export const lynLapidBuzzkillForeverSettle = {
       externalLink: "https://open.spotify.com/track/6BjQFAJJRqeI5URGQc5CwT",
     },
   ],
+  createdAt: "2026-09-22T13:47:00.853Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

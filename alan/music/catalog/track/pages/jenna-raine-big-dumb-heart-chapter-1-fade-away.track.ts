@@ -24,4 +24,6 @@ export const jennaRaineBigDumbHeartChapter1FadeAway = {
       externalLink: "https://open.spotify.com/track/5RPgukUENzLs67lMXXJuem",
     },
   ],
+  createdAt: "2026-09-21T22:40:55.007Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

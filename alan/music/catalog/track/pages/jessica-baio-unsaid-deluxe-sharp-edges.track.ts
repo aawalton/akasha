@@ -31,4 +31,6 @@ export const jessicaBaioUnsaidDeluxeSharpEdges = {
       externalLink: "https://open.spotify.com/track/74cr8tmXt7pAtILeUHaovI",
     },
   ],
+  createdAt: "2026-09-21T22:41:57.793Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

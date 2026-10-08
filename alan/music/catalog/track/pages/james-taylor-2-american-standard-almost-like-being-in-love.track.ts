@@ -24,4 +24,6 @@ export const jamesTaylor2AmericanStandardAlmostLikeBeingInLove = {
       externalLink: "https://open.spotify.com/track/1R2eNme8jJ5QKHXQQApdKC",
     },
   ],
+  createdAt: "2026-09-16T20:31:51.948Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

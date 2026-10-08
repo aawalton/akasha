@@ -24,4 +24,6 @@ export const paulCardallDecemberPianoStringEnsembleBeyondTheWall = {
       externalLink: "https://open.spotify.com/track/0FqDi7tY8acbrRtU4Jb6TD",
     },
   ],
+  createdAt: "2026-09-18T13:50:12.708Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

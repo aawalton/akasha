@@ -24,4 +24,6 @@ export const jennaRaineSeeYouLaterSeeYouLaterTenYearsFeatJvke = {
       externalLink: "https://open.spotify.com/track/2o3ccWnRPr7xiwDTMgXJMu",
     },
   ],
+  createdAt: "2026-09-21T22:40:55.669Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

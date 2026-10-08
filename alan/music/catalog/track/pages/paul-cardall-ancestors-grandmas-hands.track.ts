@@ -24,4 +24,6 @@ export const paulCardallAncestorsGrandmasHands = {
       externalLink: "https://open.spotify.com/track/3yNQEDNdK54AoPuRq5ov3M",
     },
   ],
+  createdAt: "2026-09-18T13:50:09.434Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

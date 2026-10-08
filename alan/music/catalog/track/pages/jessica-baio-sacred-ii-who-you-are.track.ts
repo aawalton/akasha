@@ -24,4 +24,6 @@ export const jessicaBaioSacredIiWhoYouAre = {
       externalLink: "https://open.spotify.com/track/01C25hGWfXZbIX6DY879FX",
     },
   ],
+  createdAt: "2026-09-21T22:41:56.014Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const jennaRaineJeansBoysJesusTalkOfTheTown = {
       externalLink: "https://open.spotify.com/track/3vDnYNZK21uZxBAGsPuWjz",
     },
   ],
+  createdAt: "2026-09-21T22:40:53.104Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

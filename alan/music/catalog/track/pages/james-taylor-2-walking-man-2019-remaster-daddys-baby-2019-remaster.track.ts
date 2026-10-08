@@ -24,4 +24,6 @@ export const jamesTaylor2WalkingMan2019RemasterDaddysBaby2019Remaster = {
       externalLink: "https://open.spotify.com/track/086iQBwuFsfXITwiBZpbIi",
     },
   ],
+  createdAt: "2026-09-16T20:31:59.062Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

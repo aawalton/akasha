@@ -24,4 +24,6 @@ export const paulCardallASacredChristmasPianoCollectionAChangeOfHeart = {
       externalLink: "https://open.spotify.com/track/7eMhO1LX45bDWrHapqny2P",
     },
   ],
+  createdAt: "2026-09-18T13:50:17.774Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysGodBeWithYouTillWeMeetAgain = {
       externalLink: "https://open.spotify.com/track/30ofseP0dHT7QQsnDVnWA2",
     },
   ],
+  createdAt: "2026-09-18T13:50:16.459Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

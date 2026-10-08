@@ -24,4 +24,6 @@ export const jamesTaylor2CoversHoundDog = {
       externalLink: "https://open.spotify.com/track/2kqpwVLLYRuiYm8J8M4RrZ",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.484Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

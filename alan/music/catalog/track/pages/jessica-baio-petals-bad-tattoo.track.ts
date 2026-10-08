@@ -31,4 +31,6 @@ export const jessicaBaioPetalsBadTattoo = {
       externalLink: "https://open.spotify.com/track/45tB3ohAQC9Ys9MqyuhT4e",
     },
   ],
+  createdAt: "2026-09-21T22:42:00.365Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

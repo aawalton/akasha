@@ -24,4 +24,6 @@ export const jamesTaylor2HourglassWalkingMyBabyBackHome = {
       externalLink: "https://open.spotify.com/track/2fNirB5RbToIiDQLRN0Krq",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.251Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

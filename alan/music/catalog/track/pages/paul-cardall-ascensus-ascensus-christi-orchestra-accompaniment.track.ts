@@ -24,4 +24,6 @@ export const paulCardallAscensusAscensusChristiOrchestraAccompaniment = {
       externalLink: "https://open.spotify.com/track/4kavtjeddKdzxTCV20AwMH",
     },
   ],
+  createdAt: "2026-09-18T13:50:10.675Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

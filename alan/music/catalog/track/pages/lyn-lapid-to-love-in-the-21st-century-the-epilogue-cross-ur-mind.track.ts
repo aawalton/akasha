@@ -34,4 +34,6 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueCrossUrMind = {
       externalLink: "https://open.spotify.com/track/7pboUsNpGeyl7FRghaex2g",
     },
   ],
+  createdAt: "2026-09-22T13:47:03.197Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

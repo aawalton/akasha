@@ -24,4 +24,6 @@ export const jennaRaineJeansBoysJesusWhatHesNot = {
       externalLink: "https://open.spotify.com/track/6qvYH2TiyjUSxRe43HGf8l",
     },
   ],
+  createdAt: "2026-09-21T22:40:52.414Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

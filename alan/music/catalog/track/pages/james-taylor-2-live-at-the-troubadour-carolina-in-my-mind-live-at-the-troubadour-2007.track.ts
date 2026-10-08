@@ -25,4 +25,6 @@ export const jamesTaylor2LiveAtTheTroubadourCarolinaInMyMindLiveAtTheTroubadour2
       externalLink: "https://open.spotify.com/track/69y5Ccc4CVtL96cHzvgQEy",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.679Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

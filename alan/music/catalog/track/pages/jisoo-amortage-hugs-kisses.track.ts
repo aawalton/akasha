@@ -24,4 +24,6 @@ export const jisooAmortageHugsKisses = {
       externalLink: "https://open.spotify.com/track/5nQVbMv0XEGLGB39wpneQI",
     },
   ],
+  createdAt: "2026-09-17T13:50:54.321Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

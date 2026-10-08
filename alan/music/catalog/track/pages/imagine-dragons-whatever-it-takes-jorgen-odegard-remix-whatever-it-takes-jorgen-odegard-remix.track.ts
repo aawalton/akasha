@@ -25,4 +25,6 @@ export const imagineDragonsWhateverItTakesJorgenOdegardRemixWhateverItTakesJorge
       externalLink: "https://open.spotify.com/track/6EOPpeRq5Qd1VBHd6GO2y5",
     },
   ],
+  createdAt: "2026-09-21T13:55:14.900Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

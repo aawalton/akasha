@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveThatLonesomeRoad = {
       externalLink: "https://open.spotify.com/track/72Pnc2r7k6TA0SLzapYV2u",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.200Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

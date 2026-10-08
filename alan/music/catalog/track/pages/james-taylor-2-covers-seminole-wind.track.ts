@@ -24,4 +24,6 @@ export const jamesTaylor2CoversSeminoleWind = {
       externalLink: "https://open.spotify.com/track/0uI444jTIkIFECHgc5LAEY",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.419Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

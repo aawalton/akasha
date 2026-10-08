@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysThereIsAGreenHillFarAway = {
       externalLink: "https://open.spotify.com/track/6fXrUEIvubp9wKFPvfHvtb",
     },
   ],
+  createdAt: "2026-09-18T13:50:16.642Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

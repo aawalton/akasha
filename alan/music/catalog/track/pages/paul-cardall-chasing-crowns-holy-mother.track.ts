@@ -24,4 +24,6 @@ export const paulCardallChasingCrownsHolyMother = {
       externalLink: "https://open.spotify.com/track/6dDKGfHm1bePhGD5F2tbh3",
     },
   ],
+  createdAt: "2026-09-18T13:50:09.941Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

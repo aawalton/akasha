@@ -24,4 +24,6 @@ export const jamesTaylor2FlagIsThatTheWayYouLook = {
       externalLink: "https://open.spotify.com/track/0ZO2cyWuY147d7gjtzIZIU",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.707Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

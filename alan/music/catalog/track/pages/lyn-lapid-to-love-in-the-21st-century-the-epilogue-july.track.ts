@@ -24,4 +24,6 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueJuly = {
       externalLink: "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04",
     },
   ],
+  createdAt: "2026-09-22T13:47:02.695Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

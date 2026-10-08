@@ -24,4 +24,6 @@ export const jamesTaylor2BeforeThisWorldBeforeThisWorldJollySpringtime = {
       externalLink: "https://open.spotify.com/track/1ZeSPuU3yAMXDRXpi9pvqC",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.499Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

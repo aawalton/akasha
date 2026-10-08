@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarAmazingGrace = {
       externalLink: "https://open.spotify.com/track/5mZacuPQMg3lwMq2OSDsCf",
     },
   ],
+  createdAt: "2026-09-18T13:50:07.844Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

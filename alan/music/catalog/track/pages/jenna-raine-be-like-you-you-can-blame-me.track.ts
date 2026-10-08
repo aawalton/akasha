@@ -31,4 +31,6 @@ export const jennaRaineBeLikeYouYouCanBlameMe = {
       externalLink: "https://open.spotify.com/track/0lgnrhSkigm3aMyaEg6sMN",
     },
   ],
+  createdAt: "2026-09-21T22:40:56.646Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

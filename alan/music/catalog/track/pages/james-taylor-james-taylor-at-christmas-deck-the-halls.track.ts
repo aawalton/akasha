@@ -24,4 +24,6 @@ export const jamesTaylorJamesTaylorAtChristmasDeckTheHalls = {
       externalLink: "https://open.spotify.com/track/20s0YwMEKaD47u83q3nMJO",
     },
   ],
+  createdAt: "2026-09-16T20:31:51.802Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

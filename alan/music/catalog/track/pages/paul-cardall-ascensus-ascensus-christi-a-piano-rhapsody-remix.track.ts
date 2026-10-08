@@ -24,4 +24,6 @@ export const paulCardallAscensusAscensusChristiAPianoRhapsodyRemix = {
       externalLink: "https://open.spotify.com/track/4XAqoVahIwga3hFxxS5hsn",
     },
   ],
+  createdAt: "2026-09-18T13:50:10.642Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

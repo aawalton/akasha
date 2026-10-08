@@ -24,4 +24,6 @@ export const jamesTaylor2NeverDieYoungRunawayBoy = {
       externalLink: "https://open.spotify.com/track/2d2rnhj1TolgOQnhOslfdE",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.667Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2ThatSWhyIMHereThatsWhyImHereReprise = {
       externalLink: "https://open.spotify.com/track/365PHNS1b6LbT1pZcUwYX1",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.201Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -34,4 +34,6 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueKeepMeAround = {
       externalLink: "https://open.spotify.com/track/5hSS8pOSfaqJldfZ7Gy1hL",
     },
   ],
+  createdAt: "2026-09-22T13:47:03.009Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

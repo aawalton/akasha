@@ -31,4 +31,6 @@ export const lilithMaxMakingsOfAGodOrion = {
       externalLink: "https://open.spotify.com/track/6BRPqICKk2LCjJCk97EuQv",
     },
   ],
+  createdAt: "2026-09-22T13:46:15.216Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

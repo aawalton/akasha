@@ -24,4 +24,6 @@ export const lynLapidPosterBoyPosterBoy = {
       externalLink: "https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei",
     },
   ],
+  createdAt: "2026-09-22T13:47:04.422Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

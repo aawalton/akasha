@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarAgnusDei = {
       externalLink: "https://open.spotify.com/track/1o5UMg4uhzIRw15bUl6r9I",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.761Z",
+  updatedAt: "2026-09-25T19:00:26.000Z",
 } as const satisfies Track

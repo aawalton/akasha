@@ -25,4 +25,6 @@ export const jamesTaylor2LiveAtTheTroubadourSomethingInTheWaySheMovesLiveAtTheTr
       externalLink: "https://open.spotify.com/track/2Iiy1VZNcFIA8PsPls9ZRY",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.768Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

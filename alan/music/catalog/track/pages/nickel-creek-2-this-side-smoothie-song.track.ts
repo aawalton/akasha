@@ -24,4 +24,6 @@ export const nickelCreek2ThisSideSmoothieSong = {
       externalLink: "https://open.spotify.com/track/0ETiP5S8lbp8w6O7hc70Kk",
     },
   ],
+  createdAt: "2026-09-22T19:47:29.802Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

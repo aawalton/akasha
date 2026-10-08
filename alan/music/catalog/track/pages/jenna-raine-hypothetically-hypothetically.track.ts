@@ -24,4 +24,6 @@ export const jennaRaineHypotheticallyHypothetically = {
       externalLink: "https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww",
     },
   ],
+  createdAt: "2026-09-21T22:40:54.218Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

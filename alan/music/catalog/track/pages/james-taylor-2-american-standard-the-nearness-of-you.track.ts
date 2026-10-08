@@ -24,4 +24,6 @@ export const jamesTaylor2AmericanStandardTheNearnessOfYou = {
       externalLink: "https://open.spotify.com/track/2bIzGu5WuGhhH1d5hU5Rmh",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.014Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

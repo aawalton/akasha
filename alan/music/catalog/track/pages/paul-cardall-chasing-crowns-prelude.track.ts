@@ -24,4 +24,6 @@ export const paulCardallChasingCrownsPrelude = {
       externalLink: "https://open.spotify.com/track/3zzIsWTRGuq7iyzBIZlKoL",
     },
   ],
+  createdAt: "2026-09-18T13:50:09.554Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

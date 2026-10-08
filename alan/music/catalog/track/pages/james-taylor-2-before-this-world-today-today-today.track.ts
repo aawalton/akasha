@@ -34,4 +34,6 @@ export const jamesTaylor2BeforeThisWorldTodayTodayToday = {
       externalLink: "https://open.spotify.com/track/353SNIIxSolCN1Uhae1EJJ",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.286Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

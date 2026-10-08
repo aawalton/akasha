@@ -31,4 +31,6 @@ export const paulCardallGraceInGriefMarysLament = {
       externalLink: "https://open.spotify.com/track/1c0qW5ZeDyKno7IgL5F5zI",
     },
   ],
+  createdAt: "2026-09-18T13:50:10.713Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

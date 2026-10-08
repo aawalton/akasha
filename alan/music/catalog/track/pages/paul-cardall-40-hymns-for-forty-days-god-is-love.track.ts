@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysGodIsLove = {
       externalLink: "https://open.spotify.com/track/1Bv1PmRZdTcA8Rp0PJUK3q",
     },
   ],
+  createdAt: "2026-09-18T13:50:15.784Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

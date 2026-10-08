@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarSimpleGifts = {
       externalLink: "https://open.spotify.com/track/3Hk4esSuPCekiZEKVnlAD0",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.011Z",
+  updatedAt: "2026-09-25T18:00:47.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentrePolaroidLive 
       externalLink: "https://open.spotify.com/track/2ix3yloi4ImDqwkN17NUei",
     },
   ],
+  createdAt: "2026-09-21T13:55:10.654Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

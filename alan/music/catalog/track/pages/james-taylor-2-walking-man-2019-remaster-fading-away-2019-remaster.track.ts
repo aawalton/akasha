@@ -24,4 +24,6 @@ export const jamesTaylor2WalkingMan2019RemasterFadingAway2019Remaster = {
       externalLink: "https://open.spotify.com/track/3BQBC5Cj3uWPZhqTwMIMuG",
     },
   ],
+  createdAt: "2026-09-16T20:31:59.235Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

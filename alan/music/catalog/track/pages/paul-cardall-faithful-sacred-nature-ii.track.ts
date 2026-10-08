@@ -31,4 +31,6 @@ export const paulCardallFaithfulSacredNatureIi = {
       externalLink: "https://open.spotify.com/track/0TWchb60HAhwj0Gs5V60No",
     },
   ],
+  createdAt: "2026-09-18T13:50:24.402Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

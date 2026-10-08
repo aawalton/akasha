@@ -66,4 +66,6 @@ export const jessicaBaioUnsaidDeluxeBiteTheBullet = {
       externalLink: "https://open.spotify.com/track/21Sh7CdTxUKWbLRmmils5X",
     },
   ],
+  createdAt: "2026-09-21T22:41:59.775Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2JtSecretOLife = {
       externalLink: "https://open.spotify.com/track/3IGAJam8XPmbBjCAvpCW8N",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.066Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

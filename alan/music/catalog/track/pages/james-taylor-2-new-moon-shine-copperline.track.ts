@@ -24,4 +24,6 @@ export const jamesTaylor2NewMoonShineCopperline = {
       externalLink: "https://open.spotify.com/track/0i1XtQ6hOET96dz5oG45zl",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.228Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

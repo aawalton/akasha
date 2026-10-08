@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarODivineRedeemer = {
       externalLink: "https://open.spotify.com/track/0tTeCs9ClMmeFQYy5hFRAu",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.799Z",
+  updatedAt: "2026-09-25T19:00:26.000Z",
 } as const satisfies Track

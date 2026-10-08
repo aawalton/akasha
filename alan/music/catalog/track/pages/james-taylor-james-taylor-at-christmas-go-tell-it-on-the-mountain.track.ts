@@ -25,4 +25,6 @@ export const jamesTaylorJamesTaylorAtChristmasGoTellItOnTheMountain = {
       externalLink: "https://open.spotify.com/track/7e2OOzTpgL4iRbd2C0XmdS",
     },
   ],
+  createdAt: "2026-09-16T20:31:51.392Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterSuiteFor20G2019Remaster = {
       externalLink: "https://open.spotify.com/track/6zoY7o6r2cVgfCBw1zn3qp",
     },
   ],
+  createdAt: "2026-09-16T20:32:00.539Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

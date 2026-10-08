@@ -24,4 +24,6 @@ export const paulCardallChristmasHarkTheHeraldAngelsSing = {
       externalLink: "https://open.spotify.com/track/3GmEeSXzkh2DcbYvFUDfcY",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.432Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -25,4 +25,6 @@ export const jamesTaylorJamesTaylorAtChristmasHereComesTheSun = {
       externalLink: "https://open.spotify.com/track/5Uf5kobSFxwPZYlqAc4y7F",
     },
   ],
+  createdAt: "2026-09-16T20:31:51.738Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

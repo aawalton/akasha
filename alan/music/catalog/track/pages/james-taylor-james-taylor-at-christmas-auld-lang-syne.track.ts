@@ -25,4 +25,6 @@ export const jamesTaylorJamesTaylorAtChristmasAuldLangSyne = {
       externalLink: "https://open.spotify.com/track/0kxQeYiUnr68WfKoFccZsL",
     },
   ],
+  createdAt: "2026-09-16T20:31:51.710Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

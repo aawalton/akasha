@@ -24,4 +24,6 @@ export const jamesTaylor2ThatSWhyIMHereGoingAroundOneMoreTime = {
       externalLink: "https://open.spotify.com/track/4gIdlxBwb0oXlsBCqjQYVR",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.976Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

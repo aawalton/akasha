@@ -24,4 +24,6 @@ export const paulCardallChasingCrownsMountainMinuetUnbound = {
       externalLink: "https://open.spotify.com/track/4ClxRjdZVeVR40D2HR1a7L",
     },
   ],
+  createdAt: "2026-09-18T13:50:10.284Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

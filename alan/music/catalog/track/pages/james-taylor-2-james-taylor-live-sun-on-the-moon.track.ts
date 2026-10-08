@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveSunOnTheMoon = {
       externalLink: "https://open.spotify.com/track/41KyetLigc1HXsW1SLS5jK",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.871Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

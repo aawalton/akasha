@@ -24,4 +24,6 @@ export const jamesTaylor2Gorilla2019RemasterMexico2019Remaster = {
       externalLink: "https://open.spotify.com/track/0CMuiL9aePFA6VG3wBeNPi",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.616Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

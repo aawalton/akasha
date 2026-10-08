@@ -24,4 +24,6 @@ export const lynLapidBuzzkillTakeMeAsIAm = {
       externalLink: "https://open.spotify.com/track/442HUOfI6s9S4vjJ5iQIx9",
     },
   ],
+  createdAt: "2026-09-22T13:47:01.599Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

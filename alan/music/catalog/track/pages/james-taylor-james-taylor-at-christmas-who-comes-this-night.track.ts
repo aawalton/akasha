@@ -24,4 +24,6 @@ export const jamesTaylorJamesTaylorAtChristmasWhoComesThisNight = {
       externalLink: "https://open.spotify.com/track/3jwg2SQAmvywVvK0ASpgyL",
     },
   ],
+  createdAt: "2026-09-16T20:31:51.654Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

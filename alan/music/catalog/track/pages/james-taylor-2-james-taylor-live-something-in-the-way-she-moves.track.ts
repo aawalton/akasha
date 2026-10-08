@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveSomethingInTheWaySheMoves = {
       externalLink: "https://open.spotify.com/track/63ImfYU7j6yDEk11eIQUKv",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.844Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

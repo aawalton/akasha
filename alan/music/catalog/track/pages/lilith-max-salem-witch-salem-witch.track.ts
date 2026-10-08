@@ -24,4 +24,6 @@ export const lilithMaxSalemWitchSalemWitch = {
       externalLink: "https://open.spotify.com/track/7wdkfKbiN3E8Q2ayMBgXLo",
     },
   ],
+  createdAt: "2026-09-22T13:46:14.944Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

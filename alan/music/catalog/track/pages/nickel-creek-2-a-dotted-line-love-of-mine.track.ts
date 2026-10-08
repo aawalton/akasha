@@ -24,4 +24,6 @@ export const nickelCreek2ADottedLineLoveOfMine = {
       externalLink: "https://open.spotify.com/track/4pgaL1i2BzFH4A7IIcGP8i",
     },
   ],
+  createdAt: "2026-09-22T19:47:28.307Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

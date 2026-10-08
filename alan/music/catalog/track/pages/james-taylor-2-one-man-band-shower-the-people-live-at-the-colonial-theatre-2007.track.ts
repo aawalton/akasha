@@ -24,4 +24,6 @@ export const jamesTaylor2OneManBandShowerThePeopleLiveAtTheColonialTheatre2007 =
       externalLink: "https://open.spotify.com/track/1LK8aN7MNr2vau6yyOWEC5",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.102Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

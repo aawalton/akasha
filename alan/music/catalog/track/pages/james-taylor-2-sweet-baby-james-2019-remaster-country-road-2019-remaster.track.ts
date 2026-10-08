@@ -24,4 +24,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterCountryRoad2019Remaster = {
       externalLink: "https://open.spotify.com/track/2OBaVeRFXblWxoZHC4sryf",
     },
   ],
+  createdAt: "2026-09-16T20:32:00.343Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

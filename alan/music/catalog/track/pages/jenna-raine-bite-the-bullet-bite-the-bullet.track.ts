@@ -24,4 +24,6 @@ export const jennaRaineBiteTheBulletBiteTheBullet = {
       externalLink: "https://open.spotify.com/track/6pk5Z5AaQXL5E0AcGL0aA6",
     },
   ],
+  createdAt: "2026-09-21T22:40:53.174Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

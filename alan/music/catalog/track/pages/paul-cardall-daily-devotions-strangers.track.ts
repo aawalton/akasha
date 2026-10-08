@@ -24,4 +24,6 @@ export const paulCardallDailyDevotionsStrangers = {
       externalLink: "https://open.spotify.com/track/5p2qIFYuKWcn3MROp7dCaK",
     },
   ],
+  createdAt: "2026-09-18T13:50:25.050Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

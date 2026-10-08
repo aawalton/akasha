@@ -24,4 +24,6 @@ export const jamesTaylor2WalkingMan2019RemasterRockNRollIsMusicNow2019Remaster =
       externalLink: "https://open.spotify.com/track/4EOSTLK8cma1vI1Lx0Tgb4",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.967Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

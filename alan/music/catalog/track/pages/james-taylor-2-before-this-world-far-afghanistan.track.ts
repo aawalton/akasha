@@ -24,4 +24,6 @@ export const jamesTaylor2BeforeThisWorldFarAfghanistan = {
       externalLink: "https://open.spotify.com/track/1Bq2ZlIYehQx9FRReuL6pP",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.528Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

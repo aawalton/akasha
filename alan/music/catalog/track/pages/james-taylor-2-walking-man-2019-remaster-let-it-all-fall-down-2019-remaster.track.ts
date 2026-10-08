@@ -24,4 +24,6 @@ export const jamesTaylor2WalkingMan2019RemasterLetItAllFallDown2019Remaster = {
       externalLink: "https://open.spotify.com/track/6tQQJUYPP9xNqkRg0cQdk6",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.995Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

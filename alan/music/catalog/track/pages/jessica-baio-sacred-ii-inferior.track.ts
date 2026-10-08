@@ -31,4 +31,6 @@ export const jessicaBaioSacredIiInferior = {
       externalLink: "https://open.spotify.com/track/2Ss2n79jPIXHSU2hXMcHww",
     },
   ],
+  createdAt: "2026-09-21T22:41:56.626Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

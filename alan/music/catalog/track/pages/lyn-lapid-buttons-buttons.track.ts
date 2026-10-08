@@ -24,4 +24,6 @@ export const lynLapidButtonsButtons = {
       externalLink: "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa",
     },
   ],
+  createdAt: "2026-09-22T13:47:03.962Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

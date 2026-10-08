@@ -24,4 +24,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionOnThe4thOfJuly = {
       externalLink: "https://open.spotify.com/track/6I8oqGgmpXTzVcB7xk2SdC",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.379Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

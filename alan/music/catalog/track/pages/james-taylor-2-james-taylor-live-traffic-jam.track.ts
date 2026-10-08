@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveTrafficJam = {
       externalLink: "https://open.spotify.com/track/3QIksrsEQrP9UXhPxNxSG0",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.366Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

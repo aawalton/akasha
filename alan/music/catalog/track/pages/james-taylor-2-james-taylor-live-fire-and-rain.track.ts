@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveFireAndRain = {
       externalLink: "https://open.spotify.com/track/1viOJBA51fN3goL3mJuSg8",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.657Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

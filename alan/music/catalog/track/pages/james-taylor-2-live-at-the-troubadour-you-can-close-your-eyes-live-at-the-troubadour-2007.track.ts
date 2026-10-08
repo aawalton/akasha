@@ -25,4 +25,6 @@ export const jamesTaylor2LiveAtTheTroubadourYouCanCloseYourEyesLiveAtTheTroubado
       externalLink: "https://open.spotify.com/track/2f6MijItQFZK9Y4lMBuqLa",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.020Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

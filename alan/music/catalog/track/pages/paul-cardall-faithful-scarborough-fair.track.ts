@@ -31,4 +31,6 @@ export const paulCardallFaithfulScarboroughFair = {
       externalLink: "https://open.spotify.com/track/47SHSVRz8fEVfssJ3Z6wlS",
     },
   ],
+  createdAt: "2026-09-18T13:50:24.195Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -32,4 +32,6 @@ export const jessicaBaioRadioSteveAokiCesqeauxRemixExtendedMixRadioSteveAokiCesq
         externalLink: "https://open.spotify.com/track/55RcW3d4uysZERZbCCV4Dl",
       },
     ],
+    createdAt: "2026-09-21T22:41:56.778Z",
+    updatedAt: "2026-09-24T20:00:07.000Z",
   } as const satisfies Track

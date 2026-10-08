@@ -33,4 +33,6 @@ export const jessicaBaioRadioFeatTrippieReddJessicaBaioKabuExtendedMixRadioFeatT
         externalLink: "https://open.spotify.com/track/6gumnjNvwUBnO4wufX7dvG",
       },
     ],
+    createdAt: "2026-09-21T22:41:59.229Z",
+    updatedAt: "2026-09-24T20:00:07.000Z",
   } as const satisfies Track

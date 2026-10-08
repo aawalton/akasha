@@ -24,4 +24,6 @@ export const jisooMeAllEyesOnMe = {
       externalLink: "https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ",
     },
   ],
+  createdAt: "2026-09-17T13:50:54.392Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

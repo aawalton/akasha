@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarGodIsNear = {
       externalLink: "https://open.spotify.com/track/35bfa5hCk0EPOX6NWFSZzP",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.498Z",
+  updatedAt: "2026-09-25T18:00:47.000Z",
 } as const satisfies Track

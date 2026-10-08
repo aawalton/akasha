@@ -24,4 +24,6 @@ export const jamesTaylor2AmericanStandardPenniesFromHeaven = {
       externalLink: "https://open.spotify.com/track/2n7ObUjqWJ1k8GVhpHSbxM",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.114Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

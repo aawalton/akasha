@@ -24,4 +24,6 @@ export const paulCardallChasingCrownsPiousJoy = {
       externalLink: "https://open.spotify.com/track/7Fv1OTEguxBFL8pMUZ4ro9",
     },
   ],
+  createdAt: "2026-09-18T13:50:09.783Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

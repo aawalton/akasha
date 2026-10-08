@@ -24,4 +24,6 @@ export const paulCardallGraceInGriefMountainMinuet = {
       externalLink: "https://open.spotify.com/track/3rZ6aWM8fHbt92NeWyckS7",
     },
   ],
+  createdAt: "2026-09-18T13:50:10.746Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

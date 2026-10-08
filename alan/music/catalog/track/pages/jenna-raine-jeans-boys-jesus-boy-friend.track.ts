@@ -24,4 +24,6 @@ export const jennaRaineJeansBoysJesusBoyFriend = {
       externalLink: "https://open.spotify.com/track/0JpuK1Q7QDCN2IW5YmuDSg",
     },
   ],
+  createdAt: "2026-09-21T22:40:52.230Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarGreatIsThyFaithfullness = {
       externalLink: "https://open.spotify.com/track/5t4BcjcZdJuYQEfBvBehha",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.318Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

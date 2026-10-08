@@ -29,4 +29,6 @@ export const lynLapidMySunnyDayKinaRemixMySunnyDayKinaRemix = {
       externalLink: "https://open.spotify.com/track/17uhetjXsCctreur8sxfqo",
     },
   ],
+  createdAt: "2026-09-22T13:47:05.554Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

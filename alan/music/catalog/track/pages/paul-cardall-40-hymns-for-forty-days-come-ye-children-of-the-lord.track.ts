@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysComeYeChildrenOfTheLord = {
       externalLink: "https://open.spotify.com/track/5ZBUHifxU9DrG3AUqA8uee",
     },
   ],
+  createdAt: "2026-09-18T13:50:15.426Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

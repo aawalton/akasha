@@ -31,4 +31,6 @@ export const jennaRaineJeansBoysJesusGodMadeHim = {
       externalLink: "https://open.spotify.com/track/1b78hB2DTRVmyTo6n6XmhT",
     },
   ],
+  createdAt: "2026-09-21T22:40:52.696Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

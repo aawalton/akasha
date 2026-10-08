@@ -24,4 +24,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterOhBabyDontYouLooseYourLipOnMe
       externalLink: "https://open.spotify.com/track/3oIO9p1JREoHLDwLWOwYhN",
     },
   ],
+  createdAt: "2026-09-16T20:32:00.502Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

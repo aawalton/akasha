@@ -24,4 +24,6 @@ export const lynLapidTheOutsiderEpTheOutsider = {
       externalLink: "https://open.spotify.com/track/51LpurBL96CWGg09naDpRl",
     },
   ],
+  createdAt: "2026-09-22T13:47:05.450Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

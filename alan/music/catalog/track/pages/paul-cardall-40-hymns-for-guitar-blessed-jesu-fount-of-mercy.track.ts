@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarBlessedJesuFountOfMercy = {
       externalLink: "https://open.spotify.com/track/4RlECzDcXWfGA2Pi7ccZ15",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.877Z",
+  updatedAt: "2026-09-25T19:00:26.000Z",
 } as const satisfies Track

@@ -31,4 +31,6 @@ export const lynLapidInMyMindItsyBitsy = {
       externalLink: "https://open.spotify.com/track/1tXKuzYRdQsKa32ZUPiq0A",
     },
   ],
+  createdAt: "2026-09-22T13:47:06.471Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

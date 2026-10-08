@@ -24,4 +24,6 @@ export const jamesTaylor2Gorilla2019RemasterLoveSongs2019Remaster = {
       externalLink: "https://open.spotify.com/track/0UT1w3yR9wyArqlAFn3Epj",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.882Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

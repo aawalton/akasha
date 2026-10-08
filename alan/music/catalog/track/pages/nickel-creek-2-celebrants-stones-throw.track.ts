@@ -24,4 +24,6 @@ export const nickelCreek2CelebrantsStonesThrow = {
       externalLink: "https://open.spotify.com/track/7ytd1KenOi1tjEMF7USw9f",
     },
   ],
+  createdAt: "2026-09-22T19:47:25.931Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

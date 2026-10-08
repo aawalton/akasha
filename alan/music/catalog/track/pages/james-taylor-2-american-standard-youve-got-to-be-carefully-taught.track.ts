@@ -24,4 +24,6 @@ export const jamesTaylor2AmericanStandardYouveGotToBeCarefullyTaught = {
       externalLink: "https://open.spotify.com/track/0voioalGy7GVkuzCrdZpsT",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.047Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const lynLapidWhereIsMyMindCoverVersionWhereIsMyMindCoverVersion = {
       externalLink: "https://open.spotify.com/track/5EYltWMQRNYii6unCq02Hl",
     },
   ],
+  createdAt: "2026-09-22T13:47:03.442Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

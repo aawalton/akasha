@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarBlessedAssurance = {
       externalLink: "https://open.spotify.com/track/1RkrMX6BFoEDtHSy6Iw38j",
     },
   ],
+  createdAt: "2026-09-18T13:50:07.740Z",
+  updatedAt: "2026-09-24T20:00:08.000Z",
 } as const satisfies Track

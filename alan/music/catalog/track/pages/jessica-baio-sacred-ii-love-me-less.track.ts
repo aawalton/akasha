@@ -58,4 +58,6 @@ export const jessicaBaioSacredIiLoveMeLess = {
       externalLink: "https://open.spotify.com/track/07owtLKJ7yCCgKb9u49hep",
     },
   ],
+  createdAt: "2026-09-21T22:41:58.973Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

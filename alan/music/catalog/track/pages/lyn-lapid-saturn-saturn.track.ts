@@ -24,4 +24,6 @@ export const lynLapidSaturnSaturn = {
       externalLink: "https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX",
     },
   ],
+  createdAt: "2026-09-22T13:47:04.553Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

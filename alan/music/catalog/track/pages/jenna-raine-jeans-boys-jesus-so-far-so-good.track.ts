@@ -24,4 +24,6 @@ export const jennaRaineJeansBoysJesusSoFarSoGood = {
       externalLink: "https://open.spotify.com/track/3vAhMW04vNTk5vFQJUfX0j",
     },
   ],
+  createdAt: "2026-09-21T22:40:52.613Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

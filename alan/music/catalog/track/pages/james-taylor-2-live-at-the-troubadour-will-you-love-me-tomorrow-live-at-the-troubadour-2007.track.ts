@@ -25,4 +25,6 @@ export const jamesTaylor2LiveAtTheTroubadourWillYouLoveMeTomorrowLiveAtTheTrouba
       externalLink: "https://open.spotify.com/track/4Q97xsSBdgO3a35uQ2n9UD",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.798Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

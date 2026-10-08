@@ -32,4 +32,6 @@ export const kpopDemonHuntersCastSodaPopSodaPopTagalog = {
       externalLink: "https://open.spotify.com/track/3zDxRcTLnDDNXkr45aK3sQ",
     },
   ],
+  createdAt: "2026-09-22T13:40:06.119Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

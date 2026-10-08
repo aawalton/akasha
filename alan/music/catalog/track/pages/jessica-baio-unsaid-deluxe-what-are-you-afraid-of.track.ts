@@ -50,4 +50,6 @@ export const jessicaBaioUnsaidDeluxeWhatAreYouAfraidOf = {
       externalLink: "https://open.spotify.com/track/5px0DtP1IrPa82C36vdscM",
     },
   ],
+  createdAt: "2026-09-21T22:41:59.481Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

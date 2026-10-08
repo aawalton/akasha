@@ -24,4 +24,6 @@ export const jamesTaylor2DadLovesHisWorkBelieveItOrNot = {
       externalLink: "https://open.spotify.com/track/6FYohC3fFYUqcsVZ2w7YeP",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.371Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

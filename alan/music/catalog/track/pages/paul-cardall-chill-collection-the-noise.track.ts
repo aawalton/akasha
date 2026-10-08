@@ -24,4 +24,6 @@ export const paulCardallChillCollectionTheNoise = {
       externalLink: "https://open.spotify.com/track/3Nl1snmIZWnq08DofhpaKr",
     },
   ],
+  createdAt: "2026-09-18T13:50:19.195Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2CoversOnBroadway = {
       externalLink: "https://open.spotify.com/track/1ts4gAyAd4pLMJDdwp9wCS",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.547Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

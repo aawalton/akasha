@@ -25,4 +25,6 @@ export const jamesTaylor2LiveAtTheTroubadourSmackwaterJackLiveAtTheTroubadour200
       externalLink: "https://open.spotify.com/track/5dl17YVPSzLUo0PZID2sH0",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.742Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallASacredChristmasPianoCollectionAwayInAManger = {
       externalLink: "https://open.spotify.com/track/5NuMb8GfvDDwl4d98B3GY9",
     },
   ],
+  createdAt: "2026-09-18T13:50:18.108Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jessicaBaioSacredIiPermanent = {
       externalLink: "https://open.spotify.com/track/1CQefC0JObshyfXzf2whhw",
     },
   ],
+  createdAt: "2026-09-21T22:41:55.971Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

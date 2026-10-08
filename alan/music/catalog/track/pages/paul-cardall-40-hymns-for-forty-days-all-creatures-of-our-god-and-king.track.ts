@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysAllCreaturesOfOurGodAndKing = {
       externalLink: "https://open.spotify.com/track/13PCG5F9FG9dSfe9P7Xo8x",
     },
   ],
+  createdAt: "2026-09-18T13:50:16.212Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysRedeemerOfIsrael = {
       externalLink: "https://open.spotify.com/track/5jw3dVvxB0UA6mgB0Tb5q4",
     },
   ],
+  createdAt: "2026-09-18T13:50:16.679Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

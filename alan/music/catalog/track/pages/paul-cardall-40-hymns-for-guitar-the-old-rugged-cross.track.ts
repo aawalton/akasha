@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarTheOldRuggedCross = {
       externalLink: "https://open.spotify.com/track/1PcUnQqgPpPjtSLkITcamA",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.218Z",
+  updatedAt: "2026-09-25T18:00:47.000Z",
 } as const satisfies Track

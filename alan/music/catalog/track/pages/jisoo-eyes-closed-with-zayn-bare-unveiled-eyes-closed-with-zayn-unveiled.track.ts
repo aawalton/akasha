@@ -24,4 +24,6 @@ export const jisooEyesClosedWithZaynBareUnveiledEyesClosedWithZaynUnveiled = {
       externalLink: "https://open.spotify.com/track/4HB3f71StsELKzgk2iV9mM",
     },
   ],
+  createdAt: "2026-09-17T13:50:53.986Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionDontLetMeBeLonelyTonight = {
       externalLink: "https://open.spotify.com/track/6K7JqasElx9wkiCjrh3YCl",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.736Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

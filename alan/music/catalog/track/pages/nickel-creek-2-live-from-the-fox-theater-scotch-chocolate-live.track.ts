@@ -24,4 +24,6 @@ export const nickelCreek2LiveFromTheFoxTheaterScotchChocolateLive = {
       externalLink: "https://open.spotify.com/track/7G3ssBU0fqRAxKKIf4HIuM",
     },
   ],
+  createdAt: "2026-09-22T19:47:26.598Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

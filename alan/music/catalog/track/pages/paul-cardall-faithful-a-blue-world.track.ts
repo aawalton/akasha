@@ -24,4 +24,6 @@ export const paulCardallFaithfulABlueWorld = {
       externalLink: "https://open.spotify.com/track/1K0NL2Sxe1acIY8239sZRb",
     },
   ],
+  createdAt: "2026-09-18T13:50:24.264Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

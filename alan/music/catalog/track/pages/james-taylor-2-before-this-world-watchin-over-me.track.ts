@@ -24,4 +24,6 @@ export const jamesTaylor2BeforeThisWorldWatchinOverMe = {
       externalLink: "https://open.spotify.com/track/0STxFgJBkPlJXEI2dlr0rw",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.442Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

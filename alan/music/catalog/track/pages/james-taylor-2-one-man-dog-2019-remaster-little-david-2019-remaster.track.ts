@@ -24,4 +24,6 @@ export const jamesTaylor2OneManDog2019RemasterLittleDavid2019Remaster = {
       externalLink: "https://open.spotify.com/track/0EFzgb4Whb7hY3hSmE4T6P",
     },
   ],
+  createdAt: "2026-09-16T20:31:59.693Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

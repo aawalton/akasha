@@ -24,4 +24,6 @@ export const lilithMaxMakingsOfAGodSiren = {
       externalLink: "https://open.spotify.com/track/38fksr6k9XZEgh3Epdud4Z",
     },
   ],
+  createdAt: "2026-09-22T13:46:15.172Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jessicaBaioUnsaidDeluxeExcuses = {
       externalLink: "https://open.spotify.com/track/41Tl8Wk6Y7VTwtIUvMPQpQ",
     },
   ],
+  createdAt: "2026-09-21T22:41:57.669Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

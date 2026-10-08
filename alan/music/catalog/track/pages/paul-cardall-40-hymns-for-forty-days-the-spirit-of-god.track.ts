@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysTheSpiritOfGod = {
       externalLink: "https://open.spotify.com/track/7zghwlJyGNUpnCpPauo9VQ",
     },
   ],
+  createdAt: "2026-09-18T13:50:16.063Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

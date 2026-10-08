@@ -24,4 +24,6 @@ export const jamesTaylor2NewMoonShineTheFrozenMan = {
       externalLink: "https://open.spotify.com/track/1eh6QSEBkWZSVTt6HT7wDU",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.338Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

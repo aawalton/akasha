@@ -24,4 +24,6 @@ export const paulCardallAscensusAscensusChristiPrologue = {
       externalLink: "https://open.spotify.com/track/36CaoRRTPPFqvXOx17EFw4",
     },
   ],
+  createdAt: "2026-09-18T13:50:10.318Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

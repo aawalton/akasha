@@ -24,4 +24,6 @@ export const jessicaBaioWorldRecordWorldRecord = {
       externalLink: "https://open.spotify.com/track/7uQn9MKBZSkITwIOAOAeph",
     },
   ],
+  createdAt: "2026-09-21T22:42:01.631Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

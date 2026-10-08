@@ -24,4 +24,6 @@ export const jamesTaylor2FireFire = {
       externalLink: "https://open.spotify.com/track/3cavUWhdiwvVTylTP7j3Y9",
     },
   ],
+  createdAt: "2026-09-16T20:32:00.614Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

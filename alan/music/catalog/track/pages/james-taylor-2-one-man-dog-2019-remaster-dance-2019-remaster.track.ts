@@ -24,4 +24,6 @@ export const jamesTaylor2OneManDog2019RemasterDance2019Remaster = {
       externalLink: "https://open.spotify.com/track/2vFiLltVBIwmg27WYx2w9o",
     },
   ],
+  createdAt: "2026-09-16T20:31:59.757Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

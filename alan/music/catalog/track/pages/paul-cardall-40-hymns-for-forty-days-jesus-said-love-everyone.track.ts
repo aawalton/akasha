@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysJesusSaidLoveEveryone = {
       externalLink: "https://open.spotify.com/track/0DPCYcHiucUcV320481g42",
     },
   ],
+  createdAt: "2026-09-18T13:50:15.693Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallDailyDevotionsTheSpiritOfGod = {
       externalLink: "https://open.spotify.com/track/0oJ7XrfOn5P6OUu0RfWIKc",
     },
   ],
+  createdAt: "2026-09-18T13:50:25.018Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

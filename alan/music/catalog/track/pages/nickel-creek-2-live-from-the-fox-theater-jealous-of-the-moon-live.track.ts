@@ -24,4 +24,6 @@ export const nickelCreek2LiveFromTheFoxTheaterJealousOfTheMoonLive = {
       externalLink: "https://open.spotify.com/track/2QcHC1EDKUh2HWkJZoW8d9",
     },
   ],
+  createdAt: "2026-09-22T19:47:26.814Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jisooMeFlower = {
       externalLink: "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s",
     },
   ],
+  createdAt: "2026-09-17T13:50:54.356Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

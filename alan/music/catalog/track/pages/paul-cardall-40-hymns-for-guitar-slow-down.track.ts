@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarSlowDown = {
       externalLink: "https://open.spotify.com/track/0xymtjLptn73r0GkPdJWzc",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.647Z",
+  updatedAt: "2026-09-25T18:00:47.000Z",
 } as const satisfies Track

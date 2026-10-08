@@ -24,4 +24,6 @@ export const paulCardallFaithfulEmbraced = {
       externalLink: "https://open.spotify.com/track/5v79fMb22xFB4DnycoaLOE",
     },
   ],
+  createdAt: "2026-09-18T13:50:24.333Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

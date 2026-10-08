@@ -24,4 +24,6 @@ export const paulCardallChristmasSonOfGod = {
       externalLink: "https://open.spotify.com/track/4KQ8C57YW73VaMLXDK8Z0n",
     },
   ],
+  createdAt: "2026-09-18T13:50:14.786Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

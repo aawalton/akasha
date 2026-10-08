@@ -24,4 +24,6 @@ export const lilithMaxMakingsOfAGodAtlas = {
       externalLink: "https://open.spotify.com/track/51ySe8dpEIZWhelmYyBOgg",
     },
   ],
+  createdAt: "2026-09-22T13:46:14.993Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

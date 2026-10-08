@@ -29,4 +29,6 @@ export const paulCardallChristmasDreamingJesuJoyOfMansDesiringBwv147ClassicalGui
       externalLink: "https://open.spotify.com/track/5pjDo73OlMhv7qMY1JbYAG",
     },
   ],
+  createdAt: "2026-09-18T13:50:27.873Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

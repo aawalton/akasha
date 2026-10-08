@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysJesusTheVeryThoughtOfThee = {
       externalLink: "https://open.spotify.com/track/59OiSDjI5L44XCbjaZ9kVe",
     },
   ],
+  createdAt: "2026-09-18T13:50:16.355Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

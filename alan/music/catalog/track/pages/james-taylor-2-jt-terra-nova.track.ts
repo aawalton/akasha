@@ -24,4 +24,6 @@ export const jamesTaylor2JtTerraNova = {
       externalLink: "https://open.spotify.com/track/6vZBA5RNdiNWC92Zuo59y9",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.177Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

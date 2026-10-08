@@ -24,4 +24,6 @@ export const paulCardall40HymnsForFortyDaysLeadKindlyLight = {
       externalLink: "https://open.spotify.com/track/2uM7nnQfZTuho4Ts05Si9s",
     },
   ],
+  createdAt: "2026-09-18T13:50:16.248Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2OtherCoversMemphis = {
       externalLink: "https://open.spotify.com/track/4bRejQ7pYFZ4v1qAggqiA2",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.125Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

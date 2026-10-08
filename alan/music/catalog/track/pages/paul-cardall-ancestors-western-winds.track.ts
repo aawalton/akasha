@@ -24,4 +24,6 @@ export const paulCardallAncestorsWesternWinds = {
       externalLink: "https://open.spotify.com/track/2KOx9r201JBRvPTaWOwEQI",
     },
   ],
+  createdAt: "2026-09-18T13:50:09.139Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

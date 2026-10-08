@@ -24,4 +24,6 @@ export const jisooAmortageTears = {
       externalLink: "https://open.spotify.com/track/08fvSPSKjoF4vmoEtcGain",
     },
   ],
+  createdAt: "2026-09-17T13:50:54.290Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

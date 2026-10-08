@@ -24,4 +24,6 @@ export const jessicaBaioCatalystCycles = {
       externalLink: "https://open.spotify.com/track/1wk1JO5hus8bXb1LFzOhWs",
     },
   ],
+  createdAt: "2026-09-21T22:41:58.272Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

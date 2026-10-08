@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarAveVerumCorpus = {
       externalLink: "https://open.spotify.com/track/3ItK9HfNGVzMYjXNJPXK0n",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.393Z",
+  updatedAt: "2026-09-25T18:00:47.000Z",
 } as const satisfies Track

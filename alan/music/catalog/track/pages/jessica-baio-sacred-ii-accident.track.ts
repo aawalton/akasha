@@ -42,4 +42,6 @@ export const jessicaBaioSacredIiAccident = {
       externalLink: "https://open.spotify.com/track/7MGunAjXp4YRRIFKZ1Lt3Z",
     },
   ],
+  createdAt: "2026-09-21T22:41:58.656Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

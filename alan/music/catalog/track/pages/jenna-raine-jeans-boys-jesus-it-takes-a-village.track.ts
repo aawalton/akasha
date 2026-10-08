@@ -50,4 +50,6 @@ export const jennaRaineJeansBoysJesusItTakesAVillage = {
       externalLink: "https://open.spotify.com/track/3u0rVWhIQ4XQQQHbJVetGm",
     },
   ],
+  createdAt: "2026-09-21T22:40:52.987Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

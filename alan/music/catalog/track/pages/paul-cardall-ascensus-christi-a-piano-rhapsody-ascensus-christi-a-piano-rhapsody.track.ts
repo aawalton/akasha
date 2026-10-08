@@ -24,4 +24,6 @@ export const paulCardallAscensusChristiAPianoRhapsodyAscensusChristiAPianoRhapso
       externalLink: "https://open.spotify.com/track/6qFE5hiVBno3VJCFAZRiCv",
     },
   ],
+  createdAt: "2026-09-18T13:50:27.628Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

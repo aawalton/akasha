@@ -52,4 +52,6 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixSo
       externalLink: "https://open.spotify.com/track/24WEQrnHb2m6OKVdfhAp4T",
     },
   ],
+  createdAt: "2026-09-22T13:40:07.765Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

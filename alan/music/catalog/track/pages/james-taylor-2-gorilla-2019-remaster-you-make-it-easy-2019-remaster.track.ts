@@ -24,4 +24,6 @@ export const jamesTaylor2Gorilla2019RemasterYouMakeItEasy2019Remaster = {
       externalLink: "https://open.spotify.com/track/45ZVG3woqX1Sl2VmgN5tyA",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.766Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

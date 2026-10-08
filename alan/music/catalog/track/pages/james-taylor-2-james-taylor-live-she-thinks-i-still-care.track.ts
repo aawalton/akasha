@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveSheThinksIStillCare = {
       externalLink: "https://open.spotify.com/track/20UrRG4y5WtNQakxyq3UjM",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.964Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

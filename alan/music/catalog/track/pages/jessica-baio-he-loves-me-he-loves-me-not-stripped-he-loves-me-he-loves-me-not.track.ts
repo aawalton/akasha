@@ -34,4 +34,6 @@ export const jessicaBaioHeLovesMeHeLovesMeNotStrippedHeLovesMeHeLovesMeNot = {
       externalLink: "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89",
     },
   ],
+  createdAt: "2026-09-21T22:42:00.048Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

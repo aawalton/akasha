@@ -24,4 +24,6 @@ export const paulCardallAncestorsTheLastLeaf = {
       externalLink: "https://open.spotify.com/track/6rjT1zD3DfW4EPOQmjzJOf",
     },
   ],
+  createdAt: "2026-09-18T13:50:09.471Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

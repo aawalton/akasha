@@ -24,4 +24,6 @@ export const lynLapidRoomForYouRoomForYou = {
       externalLink: "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA",
     },
   ],
+  createdAt: "2026-09-22T13:47:04.041Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

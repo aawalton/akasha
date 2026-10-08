@@ -24,4 +24,6 @@ export const jamesTaylor2Gorilla2019RemasterLighthouse2019Remaster = {
       externalLink: "https://open.spotify.com/track/4fZu63uf6TgH6AsYt8VEJt",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.825Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

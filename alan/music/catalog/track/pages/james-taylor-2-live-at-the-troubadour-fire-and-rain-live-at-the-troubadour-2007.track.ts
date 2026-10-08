@@ -25,4 +25,6 @@ export const jamesTaylor2LiveAtTheTroubadourFireAndRainLiveAtTheTroubadour2007 =
       externalLink: "https://open.spotify.com/track/1YrrJ55wVGkpgEds42meUC",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.858Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

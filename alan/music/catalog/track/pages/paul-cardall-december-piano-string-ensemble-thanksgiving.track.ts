@@ -34,4 +34,6 @@ export const paulCardallDecemberPianoStringEnsembleThanksgiving = {
       externalLink: "https://open.spotify.com/track/5XYHovggqmPIZsDzp9FT9F",
     },
   ],
+  createdAt: "2026-09-18T13:50:12.846Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

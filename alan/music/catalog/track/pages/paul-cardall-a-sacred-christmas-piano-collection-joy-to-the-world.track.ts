@@ -24,4 +24,6 @@ export const paulCardallASacredChristmasPianoCollectionJoyToTheWorld = {
       externalLink: "https://open.spotify.com/track/1Cu4Xc1z7C25cVjKFTmA1M",
     },
   ],
+  createdAt: "2026-09-18T13:50:18.177Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

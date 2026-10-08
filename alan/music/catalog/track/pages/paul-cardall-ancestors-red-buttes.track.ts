@@ -24,4 +24,6 @@ export const paulCardallAncestorsRedButtes = {
       externalLink: "https://open.spotify.com/track/4XN97BWKDHKmcee14vToq7",
     },
   ],
+  createdAt: "2026-09-18T13:50:09.284Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2OneManBandNeverDieYoungLiveAtTheColonialTheatre2007 = {
       externalLink: "https://open.spotify.com/track/3CiZ8pnm5vkMHfE5Z0JwvU",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.685Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

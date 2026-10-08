@@ -24,4 +24,6 @@ export const paulCardallAscensusAscensusChristiBassLeitmotif = {
       externalLink: "https://open.spotify.com/track/44dKW6c4XNYt5DxZOcRs30",
     },
   ],
+  createdAt: "2026-09-18T13:50:10.393Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

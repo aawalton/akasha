@@ -24,4 +24,6 @@ export const jennaRaineRosesVersionsRosesSpedUp = {
       externalLink: "https://open.spotify.com/track/2xAfRH6aDxwj94hEJGIYrx",
     },
   ],
+  createdAt: "2026-09-21T22:40:54.065Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

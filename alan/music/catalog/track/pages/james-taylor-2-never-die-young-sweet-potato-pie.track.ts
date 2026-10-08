@@ -24,4 +24,6 @@ export const jamesTaylor2NeverDieYoungSweetPotatoPie = {
       externalLink: "https://open.spotify.com/track/49E3znGU6pKjxpjch2oCCM",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.755Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

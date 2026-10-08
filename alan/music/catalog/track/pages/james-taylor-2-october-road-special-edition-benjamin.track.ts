@@ -30,4 +30,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionBenjamin = {
       externalLink: "https://open.spotify.com/track/1EkpzEzd3JUvSm4UMC9YLK",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.771Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

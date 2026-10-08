@@ -24,4 +24,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionSeptemberGrass = {
       externalLink: "https://open.spotify.com/track/5oT7HmkPkGsi0SAB10D34x",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.313Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

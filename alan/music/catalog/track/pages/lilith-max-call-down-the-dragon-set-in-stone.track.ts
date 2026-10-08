@@ -24,4 +24,6 @@ export const lilithMaxCallDownTheDragonSetInStone = {
       externalLink: "https://open.spotify.com/track/3D3CyaCVZ32qnAPFdnIpQ6",
     },
   ],
+  createdAt: "2026-09-22T13:46:15.542Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

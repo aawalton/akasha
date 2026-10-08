@@ -24,4 +24,6 @@ export const jamesTaylorJamesTaylorAtChristmasSomeChildrenSeeHim = {
       externalLink: "https://open.spotify.com/track/4zS3kmX48QjBtz8El0kNqk",
     },
   ],
+  createdAt: "2026-09-16T20:31:51.597Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

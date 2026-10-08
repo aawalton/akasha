@@ -26,4 +26,6 @@ export const jamesTaylorJamesTaylorAtChristmasBabyItsColdOutsideFeatNatalieCole 
       externalLink: "https://open.spotify.com/track/47xnyhYDKv1iXrgFIFoUWL",
     },
   ],
+  createdAt: "2026-09-16T20:31:51.490Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveSteamrollerBlues = {
       externalLink: "https://open.spotify.com/track/1I2RS5C10KUMY5Cbx1Etzs",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.543Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

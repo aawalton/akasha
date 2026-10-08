@@ -25,4 +25,6 @@ export const jamesTaylor2LiveAtTheTroubadourYouveGotAFriendLiveAtTheTroubadour20
       externalLink: "https://open.spotify.com/track/7jNvvrEFtIQYnaukWx5ZSu",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.955Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

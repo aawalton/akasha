@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveSweetBabyJames = {
       externalLink: "https://open.spotify.com/track/6sMFBGi63uil2HDqUEpCq3",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.326Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

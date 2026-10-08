@@ -24,4 +24,6 @@ export const paulCardallChristmasHymnsSilentNight = {
       externalLink: "https://open.spotify.com/track/6ce32lzE9vBNyXkdmsX17x",
     },
   ],
+  createdAt: "2026-09-18T13:50:23.006Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2JtThereWeAre = {
       externalLink: "https://open.spotify.com/track/0riYVboaeTLyxByQccC80s",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.939Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

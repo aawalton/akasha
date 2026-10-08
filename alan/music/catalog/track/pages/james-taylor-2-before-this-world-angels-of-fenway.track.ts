@@ -24,4 +24,6 @@ export const jamesTaylor2BeforeThisWorldAngelsOfFenway = {
       externalLink: "https://open.spotify.com/track/44qKSCnfLOYTP0op4uQ530",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.352Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

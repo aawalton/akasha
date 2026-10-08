@@ -24,4 +24,6 @@ export const jennaRaineLovesickLovesick = {
       externalLink: "https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD",
     },
   ],
+  createdAt: "2026-09-21T22:40:54.287Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

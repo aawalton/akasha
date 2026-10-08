@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarUnaccompaniedCelloSuiteNo1InGMajor = {
       externalLink: "https://open.spotify.com/track/3ncmfAjfSAKECuuF0w30rG",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.572Z",
+  updatedAt: "2026-09-25T18:00:47.000Z",
 } as const satisfies Track

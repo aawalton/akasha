@@ -24,4 +24,6 @@ export const nickelCreek2LiveFromTheFoxTheaterWhenInRomeLive = {
       externalLink: "https://open.spotify.com/track/2vwl7eoTZsQ9FrsrplbNUT",
     },
   ],
+  createdAt: "2026-09-22T19:47:27.078Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

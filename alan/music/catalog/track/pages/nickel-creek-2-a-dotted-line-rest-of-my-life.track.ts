@@ -24,4 +24,6 @@ export const nickelCreek2ADottedLineRestOfMyLife = {
       externalLink: "https://open.spotify.com/track/7qDqSPENmshoAf816EyjXE",
     },
   ],
+  createdAt: "2026-09-22T19:47:28.007Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

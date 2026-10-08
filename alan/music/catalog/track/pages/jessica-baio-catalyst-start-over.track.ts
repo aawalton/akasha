@@ -31,4 +31,6 @@ export const jessicaBaioCatalystStartOver = {
       externalLink: "https://open.spotify.com/track/0eIR6YnWODkFj3Xmo8U1e7",
     },
   ],
+  createdAt: "2026-09-21T22:42:01.076Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

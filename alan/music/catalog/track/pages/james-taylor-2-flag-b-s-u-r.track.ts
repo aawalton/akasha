@@ -24,4 +24,6 @@ export const jamesTaylor2FlagBSUR = {
       externalLink: "https://open.spotify.com/track/3u4V4Qj0564NIr48nYcpdj",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.735Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

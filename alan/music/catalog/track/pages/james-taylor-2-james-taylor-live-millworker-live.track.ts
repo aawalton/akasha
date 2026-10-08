@@ -24,4 +24,6 @@ export const jamesTaylor2JamesTaylorLiveMillworkerLive = {
       externalLink: "https://open.spotify.com/track/3MNM77pnlKCuizCYMk7KkK",
     },
   ],
+  createdAt: "2026-09-16T20:31:55.600Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionMyTravelingStar = {
       externalLink: "https://open.spotify.com/track/4WFC5oosVJnVD0hgfx4cM9",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.517Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

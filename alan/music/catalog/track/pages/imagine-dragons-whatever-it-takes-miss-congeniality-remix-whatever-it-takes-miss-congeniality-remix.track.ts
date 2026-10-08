@@ -26,4 +26,6 @@ export const imagineDragonsWhateverItTakesMissCongenialityRemixWhateverItTakesMi
         externalLink: "https://open.spotify.com/track/5jS8NWRE77LVJm9mCbpamU",
       },
     ],
+    createdAt: "2026-09-21T13:55:14.858Z",
+    updatedAt: "2026-09-24T19:59:43.000Z",
   } as const satisfies Track

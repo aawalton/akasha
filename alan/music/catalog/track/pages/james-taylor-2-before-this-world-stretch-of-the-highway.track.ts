@@ -24,4 +24,6 @@ export const jamesTaylor2BeforeThisWorldStretchOfTheHighway = {
       externalLink: "https://open.spotify.com/track/08KqE9veXI1H9kQgVVEXDx",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.385Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const paulCardallANewCreationMyRedeemerLives = {
       externalLink: "https://open.spotify.com/track/6ddEtYy8ESBFinObnYOfnZ",
     },
   ],
+  createdAt: "2026-09-18T13:50:15.224Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

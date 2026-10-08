@@ -24,4 +24,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterFireAndRain2019Remaster = {
       externalLink: "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO",
     },
   ],
+  createdAt: "2026-09-16T20:32:00.404Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

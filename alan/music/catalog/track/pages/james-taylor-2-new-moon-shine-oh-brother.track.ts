@@ -24,4 +24,6 @@ export const jamesTaylor2NewMoonShineOhBrother = {
       externalLink: "https://open.spotify.com/track/3JzFww5xW3CDGAN6JbELbI",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.506Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

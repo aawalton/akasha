@@ -24,4 +24,6 @@ export const paulCardallChillCollectionDanzaDelAmor = {
       externalLink: "https://open.spotify.com/track/0uiEkbI69LuCvxNp2Nagop",
     },
   ],
+  createdAt: "2026-09-18T13:50:19.127Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

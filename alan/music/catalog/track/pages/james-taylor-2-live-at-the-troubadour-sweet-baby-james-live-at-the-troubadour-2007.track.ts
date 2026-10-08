@@ -25,4 +25,6 @@ export const jamesTaylor2LiveAtTheTroubadourSweetBabyJamesLiveAtTheTroubadour200
       externalLink: "https://open.spotify.com/track/1yd6NcWGn4L82syGLh2g0o",
     },
   ],
+  createdAt: "2026-09-16T20:31:52.891Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

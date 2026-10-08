@@ -24,4 +24,6 @@ export const paulCardallGraceInGriefCelestialSymphony = {
       externalLink: "https://open.spotify.com/track/7hgDwWRa1M4Zb95eWGxZ5L",
     },
   ],
+  createdAt: "2026-09-18T13:50:10.778Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

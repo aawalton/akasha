@@ -24,4 +24,6 @@ export const jamesTaylor2OneManDog2019RemasterMescalito2019Remaster = {
       externalLink: "https://open.spotify.com/track/4uYNu7C8rBzGTvjCjjNMef",
     },
   ],
+  createdAt: "2026-09-16T20:31:59.722Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

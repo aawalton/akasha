@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarPrayerOfStFrancisMakeMeAChannelOfYourPea
       externalLink: "https://open.spotify.com/track/4qOz8CJXArpPBEx8WNvogW",
     },
   ],
+  createdAt: "2026-09-18T13:50:08.426Z",
+  updatedAt: "2026-09-25T18:00:47.000Z",
 } as const satisfies Track

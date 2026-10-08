@@ -24,4 +24,6 @@ export const paulCardallAncestorsPioneerOrphans = {
       externalLink: "https://open.spotify.com/track/1WMvkzZUz4LO1ucxkeG5vK",
     },
   ],
+  createdAt: "2026-09-18T13:50:09.209Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

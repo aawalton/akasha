@@ -24,4 +24,6 @@ export const paulCardall40HymnsForGuitarAveMaria = {
       externalLink: "https://open.spotify.com/track/5eeNMimzxqWafuRr8fZbZu",
     },
   ],
+  createdAt: "2026-09-18T13:50:07.876Z",
+  updatedAt: "2026-09-24T20:00:08.000Z",
 } as const satisfies Track

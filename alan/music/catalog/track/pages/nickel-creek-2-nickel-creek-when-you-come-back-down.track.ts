@@ -24,4 +24,6 @@ export const nickelCreek2NickelCreekWhenYouComeBackDown = {
       externalLink: "https://open.spotify.com/track/1xVBmHH65VMaJP61SmOSUk",
     },
   ],
+  createdAt: "2026-09-22T19:47:30.837Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

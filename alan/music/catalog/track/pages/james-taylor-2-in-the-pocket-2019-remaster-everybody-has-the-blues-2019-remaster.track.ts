@@ -24,4 +24,6 @@ export const jamesTaylor2InThePocket2019RemasterEverybodyHasTheBlues2019Remaster
       externalLink: "https://open.spotify.com/track/4fY1GZCQbpASqFxv8r3pyA",
     },
   ],
+  createdAt: "2026-09-16T20:31:58.366Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

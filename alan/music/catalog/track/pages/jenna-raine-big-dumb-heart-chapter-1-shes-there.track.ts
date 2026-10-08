@@ -24,4 +24,6 @@ export const jennaRaineBigDumbHeartChapter1ShesThere = {
       externalLink: "https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA",
     },
   ],
+  createdAt: "2026-09-21T22:40:55.072Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

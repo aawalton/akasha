@@ -24,4 +24,6 @@ export const nickelCreek2ThisSideBeautyAndTheMess = {
       externalLink: "https://open.spotify.com/track/0Sd2oMVyAhGbIyKJPvrQgT",
     },
   ],
+  createdAt: "2026-09-22T19:47:30.368Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

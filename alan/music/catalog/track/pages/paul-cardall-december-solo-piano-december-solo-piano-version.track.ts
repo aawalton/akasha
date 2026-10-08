@@ -24,4 +24,6 @@ export const paulCardallDecemberSoloPianoDecemberSoloPianoVersion = {
       externalLink: "https://open.spotify.com/track/3lOjTGVT3v9W4GtcDJFBRm",
     },
   ],
+  createdAt: "2026-09-18T13:50:12.563Z",
+  updatedAt: "2026-09-24T20:00:32.000Z",
 } as const satisfies Track

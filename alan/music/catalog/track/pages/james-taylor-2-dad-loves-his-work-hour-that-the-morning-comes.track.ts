@@ -24,4 +24,6 @@ export const jamesTaylor2DadLovesHisWorkHourThatTheMorningComes = {
       externalLink: "https://open.spotify.com/track/4nmydJnXUbP8SlLz1EgskQ",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.301Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

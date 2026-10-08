@@ -24,4 +24,6 @@ export const jamesTaylor2ThatSWhyIMHereTurnAway = {
       externalLink: "https://open.spotify.com/track/1rRLh11nk5tkJ7QYLffIff",
     },
   ],
+  createdAt: "2026-09-16T20:31:56.949Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const jamesTaylor2OneManDog2019RemasterNobodyButYou2019Remaster = {
       externalLink: "https://open.spotify.com/track/3vfzNcxMkG1l4notrqbvZd",
     },
   ],
+  createdAt: "2026-09-16T20:31:59.322Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

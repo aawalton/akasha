@@ -42,4 +42,6 @@ export const jennaRaineBigDumbHeartChapter1StupidCupid = {
       externalLink: "https://open.spotify.com/track/1Ok7cijpXg2FB3PQPjknSG",
     },
   ],
+  createdAt: "2026-09-21T22:40:55.260Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

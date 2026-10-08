@@ -24,4 +24,6 @@ export const jamesTaylor2CoversSummertimeBlues = {
       externalLink: "https://open.spotify.com/track/6m1Ff8NSiHXTa4YjOAesqE",
     },
   ],
+  createdAt: "2026-09-16T20:31:53.580Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

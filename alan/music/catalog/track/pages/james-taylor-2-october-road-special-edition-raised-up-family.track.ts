@@ -24,4 +24,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionRaisedUpFamily = {
       externalLink: "https://open.spotify.com/track/2d86vRYBgTl4oJ28WrpiKw",
     },
   ],
+  createdAt: "2026-09-16T20:31:54.561Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

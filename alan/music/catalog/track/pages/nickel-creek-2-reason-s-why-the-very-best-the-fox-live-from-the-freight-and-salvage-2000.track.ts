@@ -24,4 +24,6 @@ export const nickelCreek2ReasonSWhyTheVeryBestTheFoxLiveFromTheFreightAndSalvage
       externalLink: "https://open.spotify.com/track/59qUyDgF79LTBVd0v8DYzt",
     },
   ],
+  createdAt: "2026-09-22T19:47:29.066Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

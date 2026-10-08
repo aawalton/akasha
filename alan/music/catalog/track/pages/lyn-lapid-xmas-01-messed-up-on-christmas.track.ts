@@ -24,4 +24,6 @@ export const lynLapidXmas01MessedUpOnChristmas = {
       externalLink: "https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp",
     },
   ],
+  createdAt: "2026-09-22T13:47:05.851Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -40,4 +40,6 @@ export const jessicaBaioUnsaidDeluxeRadioFeatTrippieReddJessicaBaioKabu = {
       externalLink: "https://open.spotify.com/track/0w8tRq9kXFtjWROm3q1Yz9",
     },
   ],
+  createdAt: "2026-09-21T22:41:59.184Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const lynLapidBackFromTheDeadBackFromTheDeadWithMxmtoon = {
       externalLink: "https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh",
     },
   ],
+  createdAt: "2026-09-22T13:47:04.120Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

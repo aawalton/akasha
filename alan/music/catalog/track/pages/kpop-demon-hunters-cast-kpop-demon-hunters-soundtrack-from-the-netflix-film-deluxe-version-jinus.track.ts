@@ -27,4 +27,6 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
       externalLink: "https://open.spotify.com/track/4QtSWwLs2zvA0MdHmiN0gr",
     },
   ],
+  createdAt: "2026-09-22T13:40:08.137Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const nickelCreek2ADottedLine21stOfMay = {
       externalLink: "https://open.spotify.com/track/0hyhmEE6fFefO00bGN1yxD",
     },
   ],
+  createdAt: "2026-09-22T19:47:28.243Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

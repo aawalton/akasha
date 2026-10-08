@@ -24,4 +24,6 @@ export const jamesTaylor2FlagDayTripper = {
       externalLink: "https://open.spotify.com/track/45goHlfgQSRpaJyMccZ8AT",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.619Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

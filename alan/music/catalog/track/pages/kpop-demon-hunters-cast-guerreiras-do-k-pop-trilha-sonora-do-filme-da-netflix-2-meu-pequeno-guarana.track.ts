@@ -36,4 +36,6 @@ export const kpopDemonHuntersCastGuerreirasDoKPopTrilhaSonoraDoFilmeDaNetflix2Me
       externalLink: "https://open.spotify.com/track/30K0pNMnIbvTsQ92ICU2Mv",
     },
   ],
+  createdAt: "2026-09-22T13:40:05.835Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

@@ -24,4 +24,6 @@ export const lynLapidBuzzkillButtons = {
       externalLink: "https://open.spotify.com/track/6a3PAfOxDpgBv0ZdJuH5Eo",
     },
   ],
+  createdAt: "2026-09-22T13:47:01.431Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track

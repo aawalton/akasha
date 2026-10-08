@@ -24,4 +24,6 @@ export const jamesTaylor2DadLovesHisWorkHerTownTooWithJDSouther = {
       externalLink: "https://open.spotify.com/track/3ukAkL7aLVrDf7x2XiUkNZ",
     },
   ],
+  createdAt: "2026-09-16T20:31:57.268Z",
+  updatedAt: "2026-09-24T19:59:43.000Z",
 } as const satisfies Track

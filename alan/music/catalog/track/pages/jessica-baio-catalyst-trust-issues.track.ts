@@ -31,4 +31,6 @@ export const jessicaBaioCatalystTrustIssues = {
       externalLink: "https://open.spotify.com/track/7Ey31I9piNeyUNVEJVYEzl",
     },
   ],
+  createdAt: "2026-09-21T22:42:01.158Z",
+  updatedAt: "2026-09-24T20:00:07.000Z",
 } as const satisfies Track
