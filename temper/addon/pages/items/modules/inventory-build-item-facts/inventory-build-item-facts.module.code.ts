@@ -35,6 +35,7 @@ import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaratio
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 
 readPotionRestoresFrom(potionRestoresCompiledIn)
 
@@ -92,6 +93,17 @@ export function buildItemFactsForLink(itemLink: string): ItemFacts {
     })
   }
   return buildFactsCore(itemLink, {})
+}
+
+function isUncollectedPiece(
+  itemLink: string,
+  itemId: number,
+  isBound: boolean | undefined
+): boolean | undefined {
+  if (!IsItemLinkSetCollectionPiece(itemLink)) return false
+  if (IsItemSetCollectionPieceUnlocked(itemId)) return false
+  if (isBound === undefined) return undefined
+  return !isBound
 }
 
 interface SlotSignals {
@@ -179,6 +191,7 @@ function buildFactsCore(itemLink: string, slot: SlotSignals): ItemFacts {
     isLocked: slot.isLocked,
     isReconstructed,
     isTransmuted,
+    isUncollected: isUncollectedPiece(itemLink, itemId, slot.isBound),
     marketValue,
     merchantValue: slot.merchantValue,
     replacementValue,

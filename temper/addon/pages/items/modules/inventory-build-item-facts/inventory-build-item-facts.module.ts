@@ -11,5 +11,10 @@ export const inventoryBuildItemFacts = {
       decisionKind: "decision-kind/departure",
       statement: "A bound item has a replacement value and no market value.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An item read from a link alone has no uncollected fact unless it is no uncollected set piece.",
+    },
   ],
 } as const satisfies Module
