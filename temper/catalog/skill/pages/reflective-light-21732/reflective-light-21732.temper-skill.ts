@@ -19,4 +19,6 @@ export const reflectiveLight21732 = {
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/active",
   hashPlace: 1005,
+  createdAt: "2026-05-28T16:03:33.463Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

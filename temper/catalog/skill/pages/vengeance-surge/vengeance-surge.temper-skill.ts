@@ -19,4 +19,6 @@ export const vengeanceSurge = {
   skillLineId: "temper-skill-line/vengeance-sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
   hashPlace: 1572,
+  createdAt: "2026-05-28T16:03:34.426Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

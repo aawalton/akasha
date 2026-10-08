@@ -19,4 +19,6 @@ export const keenEyeReagents = {
   skillLineId: "temper-skill-line/craft-alchemy",
   skillType: "temper-skill-type/passive",
   hashPlace: 712,
+  createdAt: "2026-05-26T02:37:19.388Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -20,4 +20,6 @@ export const improvedHiding = {
   status: "supported",
   effects: "jsonl",
   hashPlace: 674,
+  createdAt: "2026-05-26T03:25:55.782Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

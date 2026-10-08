@@ -11,4 +11,6 @@ export const allianceWarEmperor = {
   maxRank: 9,
   category: "temper-skill-line-category/alliance-war",
   hashPlace: 44,
+  createdAt: "2026-05-26T01:18:50.320Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

@@ -19,4 +19,6 @@ export const piercingJavelin = {
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
   hashPlace: 896,
+  createdAt: "2026-05-28T16:03:33.255Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

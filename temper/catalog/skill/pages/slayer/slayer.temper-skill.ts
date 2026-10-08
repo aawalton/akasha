@@ -21,4 +21,6 @@ export const slayer = {
   status: "supported",
   effects: "jsonl",
   hashPlace: 1206,
+  createdAt: "2026-05-26T02:59:07.665Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

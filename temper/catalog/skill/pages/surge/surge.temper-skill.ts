@@ -19,4 +19,6 @@ export const surge = {
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
   hashPlace: 1308,
+  createdAt: "2026-05-28T16:03:34.010Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

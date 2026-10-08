@@ -19,4 +19,6 @@ export const keenEyeRuneStones47851 = {
   skillLineId: "temper-skill-line/craft-enchanting",
   skillType: "temper-skill-type/passive",
   hashPlace: 715,
+  createdAt: "2026-05-28T16:03:32.906Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

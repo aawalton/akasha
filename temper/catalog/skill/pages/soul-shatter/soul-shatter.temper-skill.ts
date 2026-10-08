@@ -21,4 +21,6 @@ export const soulShatter = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 1228,
+  createdAt: "2026-05-26T03:25:55.822Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const vengeanceDawnbreaker = {
   skillLineId: "temper-skill-line/vengeance-guild-fighters-guild",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1447,
+  createdAt: "2026-05-28T16:03:34.246Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const sunShield = {
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
   hashPlace: 1304,
+  createdAt: "2026-05-28T16:03:34.004Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

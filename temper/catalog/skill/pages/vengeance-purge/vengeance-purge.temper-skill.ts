@@ -19,4 +19,6 @@ export const vengeancePurge = {
   skillLineId: "temper-skill-line/vengeance-alliance-war-support",
   skillType: "temper-skill-type/active",
   hashPlace: 1526,
+  createdAt: "2026-05-28T16:03:34.360Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

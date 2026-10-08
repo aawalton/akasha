@@ -19,4 +19,6 @@ export const theTideKingSGaze = {
   skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1340,
+  createdAt: "2026-05-28T16:03:34.068Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

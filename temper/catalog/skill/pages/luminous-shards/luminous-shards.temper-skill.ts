@@ -19,4 +19,6 @@ export const luminousShards = {
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
   hashPlace: 774,
+  createdAt: "2026-05-26T03:13:12.387Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

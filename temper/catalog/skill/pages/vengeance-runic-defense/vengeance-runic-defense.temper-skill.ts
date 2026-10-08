@@ -19,4 +19,6 @@ export const vengeanceRunicDefense = {
   skillLineId: "temper-skill-line/vengeance-arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
   hashPlace: 1545,
+  createdAt: "2026-05-28T16:03:34.387Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

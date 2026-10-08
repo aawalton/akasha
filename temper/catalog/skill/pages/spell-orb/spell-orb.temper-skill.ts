@@ -21,4 +21,6 @@ export const spellOrb = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 1246,
+  createdAt: "2026-05-26T02:59:07.670Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

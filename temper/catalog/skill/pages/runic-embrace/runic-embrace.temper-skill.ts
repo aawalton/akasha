@@ -19,4 +19,6 @@ export const runicEmbrace = {
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
   hashPlace: 1113,
+  createdAt: "2026-05-26T03:13:12.477Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

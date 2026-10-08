@@ -21,4 +21,6 @@ export const ruffian = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 1085,
+  createdAt: "2026-05-26T02:38:38.353Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

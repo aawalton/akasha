@@ -19,4 +19,6 @@ export const warHorn = {
   skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1607,
+  createdAt: "2026-05-28T16:03:34.483Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

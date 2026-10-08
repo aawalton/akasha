@@ -20,4 +20,6 @@ export const restoringSpirit = {
   status: "supported",
   effects: "jsonl",
   hashPlace: 1056,
+  createdAt: "2026-05-26T03:13:12.464Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

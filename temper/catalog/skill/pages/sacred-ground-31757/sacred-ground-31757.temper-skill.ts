@@ -19,4 +19,6 @@ export const sacredGround31757 = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/passive",
   hashPlace: 1120,
+  createdAt: "2026-05-28T16:03:33.666Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

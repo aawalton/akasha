@@ -19,4 +19,6 @@ export const keenEyeCloth = {
   skillLineId: "temper-skill-line/craft-clothing",
   skillType: "temper-skill-type/passive",
   hashPlace: 704,
+  createdAt: "2026-05-26T02:37:19.385Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

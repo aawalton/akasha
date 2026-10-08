@@ -19,4 +19,6 @@ export const vengeanceNegateMagic = {
   skillLineId: "temper-skill-line/vengeance-sorcerer-dark-magic",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1512,
+  createdAt: "2026-05-28T16:03:34.340Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

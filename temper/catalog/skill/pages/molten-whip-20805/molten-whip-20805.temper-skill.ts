@@ -19,4 +19,6 @@ export const moltenWhip20805 = {
   skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
   hashPlace: 835,
+  createdAt: "2026-05-28T16:03:33.142Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

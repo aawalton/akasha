@@ -21,4 +21,6 @@ export const mightOfTheGuild = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 827,
+  createdAt: "2026-05-26T02:59:07.630Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -20,4 +20,6 @@ export const soulSummons = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 1237,
+  createdAt: "2026-05-26T03:25:55.824Z",
+  updatedAt: "2026-09-27T08:51:32.000Z",
 } as const satisfies TemperSkill

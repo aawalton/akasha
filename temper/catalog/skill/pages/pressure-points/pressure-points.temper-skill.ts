@@ -21,4 +21,6 @@ export const pressurePoints = {
   status: "supported",
   effects: "jsonl",
   hashPlace: 928,
+  createdAt: "2026-05-26T03:13:12.431Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

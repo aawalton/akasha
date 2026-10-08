@@ -19,4 +19,6 @@ export const pragmaticFatecarver = {
   skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
   hashPlace: 923,
+  createdAt: "2026-05-26T03:13:12.430Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

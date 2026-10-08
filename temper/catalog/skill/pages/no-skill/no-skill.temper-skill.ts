@@ -17,4 +17,6 @@ export const noSkill = {
   skillLineId: "temper-skill-line/world-soul-magic",
   skillType: "temper-skill-type/active",
   hashPlace: 0,
+  createdAt: "2026-05-26T02:15:26.917Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const vengeanceBoneGoliathTransformation = {
   skillLineId: "temper-skill-line/vengeance-necromancer-bone-tyrant",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1427,
+  createdAt: "2026-05-28T16:03:34.217Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

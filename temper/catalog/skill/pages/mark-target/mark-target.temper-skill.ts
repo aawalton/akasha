@@ -19,4 +19,6 @@ export const markTarget = {
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
   hashPlace: 801,
+  createdAt: "2026-05-28T16:03:33.077Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const sleetStorm = {
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1208,
+  createdAt: "2026-05-28T16:03:33.822Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

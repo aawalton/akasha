@@ -18,4 +18,6 @@ export const lastGasp116271 = {
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/passive",
   hashPlace: 729,
+  createdAt: "2026-05-28T16:03:32.929Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

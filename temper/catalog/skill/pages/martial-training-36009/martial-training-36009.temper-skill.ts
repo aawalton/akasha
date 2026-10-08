@@ -19,4 +19,6 @@ export const martialTraining36009 = {
   skillLineId: "temper-skill-line/racial-redguard-skills",
   skillType: "temper-skill-type/passive",
   hashPlace: 803,
+  createdAt: "2026-05-28T16:03:33.081Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

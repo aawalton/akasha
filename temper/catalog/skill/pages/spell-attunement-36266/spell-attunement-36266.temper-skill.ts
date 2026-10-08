@@ -19,4 +19,6 @@ export const spellAttunement36266 = {
   skillLineId: "temper-skill-line/racial-breton-skills",
   skillType: "temper-skill-type/passive",
   hashPlace: 1245,
+  createdAt: "2026-05-28T16:03:33.897Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

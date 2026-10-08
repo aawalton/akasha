@@ -19,4 +19,6 @@ export const riteOfPassage = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1077,
+  createdAt: "2026-05-28T16:03:33.594Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

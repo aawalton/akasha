@@ -19,4 +19,6 @@ export const metallurgy = {
   skillLineId: "temper-skill-line/craft-blacksmithing",
   skillType: "temper-skill-type/passive",
   hashPlace: 823,
+  createdAt: "2026-05-26T02:37:19.396Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

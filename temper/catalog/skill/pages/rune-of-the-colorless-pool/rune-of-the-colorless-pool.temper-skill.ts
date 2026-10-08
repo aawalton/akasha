@@ -19,4 +19,6 @@ export const runeOfTheColorlessPool = {
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
   hashPlace: 1099,
+  createdAt: "2026-05-26T03:13:12.473Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

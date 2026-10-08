@@ -6,4 +6,6 @@ export const primarySkillBar = {
   slug: "primary-skill-bar",
   title: "Primary Bar",
   displayOrder: 0,
+  createdAt: "2026-05-16T07:50:50.772Z",
+  updatedAt: "2026-09-27T01:58:51.000Z",
 } as const satisfies TemperSkillBar

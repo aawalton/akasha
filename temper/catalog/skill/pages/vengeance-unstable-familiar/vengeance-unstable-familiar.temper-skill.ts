@@ -19,4 +19,6 @@ export const vengeanceUnstableFamiliar = {
   skillLineId: "temper-skill-line/vengeance-sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
   hashPlace: 1579,
+  createdAt: "2026-05-28T16:03:34.436Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

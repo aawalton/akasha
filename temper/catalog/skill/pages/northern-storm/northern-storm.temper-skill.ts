@@ -19,4 +19,6 @@ export const northernStorm = {
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 859,
+  createdAt: "2026-05-26T03:13:12.412Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

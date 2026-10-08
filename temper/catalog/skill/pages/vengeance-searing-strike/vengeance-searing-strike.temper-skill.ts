@@ -19,4 +19,6 @@ export const vengeanceSearingStrike = {
   skillLineId: "temper-skill-line/vengeance-dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
   hashPlace: 1551,
+  createdAt: "2026-05-28T16:03:34.396Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

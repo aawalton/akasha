@@ -19,4 +19,6 @@ export const volcanicWard = {
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
   hashPlace: 1604,
+  createdAt: "2026-05-26T03:13:12.550Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

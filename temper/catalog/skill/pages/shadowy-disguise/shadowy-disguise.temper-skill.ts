@@ -20,4 +20,6 @@ export const shadowyDisguise = {
   skillType: "temper-skill-type/active",
   effects: "jsonl",
   hashPlace: 1156,
+  createdAt: "2026-05-26T03:13:12.490Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

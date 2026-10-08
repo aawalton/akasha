@@ -19,4 +19,6 @@ export const vengeanceSiegeShield = {
   skillLineId: "temper-skill-line/vengeance-alliance-war-support",
   skillType: "temper-skill-type/active",
   hashPlace: 1556,
+  createdAt: "2026-05-28T16:03:34.403Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

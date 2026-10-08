@@ -19,4 +19,6 @@ export const shieldDiscipline83310 = {
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1167,
+  createdAt: "2026-05-28T16:03:33.752Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

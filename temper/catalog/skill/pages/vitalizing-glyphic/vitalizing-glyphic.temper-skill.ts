@@ -19,4 +19,6 @@ export const vitalizingGlyphic = {
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1601,
+  createdAt: "2026-05-28T16:03:34.473Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

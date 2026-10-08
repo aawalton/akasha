@@ -19,4 +19,6 @@ export const manifestationOfTerror = {
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
   hashPlace: 799,
+  createdAt: "2026-05-26T03:13:12.392Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

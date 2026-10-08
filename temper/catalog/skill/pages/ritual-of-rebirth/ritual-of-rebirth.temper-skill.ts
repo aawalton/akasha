@@ -19,4 +19,6 @@ export const ritualOfRebirth = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
   hashPlace: 1078,
+  createdAt: "2026-05-26T03:13:12.468Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

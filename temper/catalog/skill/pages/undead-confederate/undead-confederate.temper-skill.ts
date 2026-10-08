@@ -21,4 +21,6 @@ export const undeadConfederate = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 1380,
+  createdAt: "2026-05-26T03:13:12.536Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

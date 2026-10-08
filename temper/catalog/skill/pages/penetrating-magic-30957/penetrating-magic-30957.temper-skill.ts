@@ -19,4 +19,6 @@ export const penetratingMagic30957 = {
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/passive",
   hashPlace: 878,
+  createdAt: "2026-05-28T16:03:33.222Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

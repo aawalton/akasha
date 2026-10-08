@@ -18,4 +18,6 @@ export const magickaMastery36303 = {
   skillLineId: "temper-skill-line/racial-breton-skills",
   skillType: "temper-skill-type/passive",
   hashPlace: 792,
+  createdAt: "2026-05-28T16:03:33.060Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

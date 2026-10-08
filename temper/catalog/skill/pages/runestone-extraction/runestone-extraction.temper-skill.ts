@@ -18,4 +18,6 @@ export const runestoneExtraction = {
   skillLineId: "temper-skill-line/craft-enchanting",
   skillType: "temper-skill-type/passive",
   hashPlace: 1111,
+  createdAt: "2026-05-26T02:37:19.405Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

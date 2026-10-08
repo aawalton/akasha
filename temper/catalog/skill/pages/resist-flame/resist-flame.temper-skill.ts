@@ -20,4 +20,6 @@ export const resistFlame = {
   status: "supported",
   effects: "jsonl",
   hashPlace: 1036,
+  createdAt: "2026-05-26T03:18:02.199Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

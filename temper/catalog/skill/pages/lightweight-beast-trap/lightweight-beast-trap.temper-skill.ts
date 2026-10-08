@@ -19,4 +19,6 @@ export const lightweightBeastTrap = {
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
   hashPlace: 754,
+  createdAt: "2026-05-26T02:59:07.618Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

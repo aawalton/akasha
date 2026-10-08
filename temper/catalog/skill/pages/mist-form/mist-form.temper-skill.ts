@@ -19,4 +19,6 @@ export const mistForm = {
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
   hashPlace: 832,
+  createdAt: "2026-05-28T16:03:33.134Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

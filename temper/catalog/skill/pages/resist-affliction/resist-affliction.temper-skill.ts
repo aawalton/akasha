@@ -20,4 +20,6 @@ export const resistAffliction = {
   status: "supported",
   effects: "jsonl",
   hashPlace: 1034,
+  createdAt: "2026-05-26T03:18:02.197Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

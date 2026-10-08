@@ -19,4 +19,6 @@ export const werewolfBerserker39076 = {
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1614,
+  createdAt: "2026-05-28T16:03:34.501Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

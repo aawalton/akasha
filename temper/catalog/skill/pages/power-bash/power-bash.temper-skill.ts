@@ -19,4 +19,6 @@ export const powerBash = {
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
   hashPlace: 908,
+  createdAt: "2026-05-28T16:03:33.279Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const infectiousClaws = {
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/active",
   hashPlace: 682,
+  createdAt: "2026-05-28T16:03:32.850Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

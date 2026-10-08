@@ -19,4 +19,6 @@ export const radialSweep = {
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 956,
+  createdAt: "2026-05-28T16:03:33.370Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

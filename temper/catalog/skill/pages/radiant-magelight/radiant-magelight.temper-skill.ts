@@ -20,4 +20,6 @@ export const radiantMagelight = {
   skillType: "temper-skill-type/active",
   effects: "jsonl",
   hashPlace: 962,
+  createdAt: "2026-05-26T02:59:07.643Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

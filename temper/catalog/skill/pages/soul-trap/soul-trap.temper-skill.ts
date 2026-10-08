@@ -19,4 +19,6 @@ export const soulTrap = {
   skillLineId: "temper-skill-line/world-soul-magic",
   skillType: "temper-skill-type/active",
   hashPlace: 1240,
+  createdAt: "2026-05-28T16:03:33.886Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

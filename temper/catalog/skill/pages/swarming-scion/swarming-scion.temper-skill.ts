@@ -19,4 +19,6 @@ export const swarmingScion = {
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1314,
+  createdAt: "2026-05-26T03:25:55.830Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

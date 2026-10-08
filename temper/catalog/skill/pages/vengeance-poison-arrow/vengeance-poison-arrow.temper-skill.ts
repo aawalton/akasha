@@ -19,4 +19,6 @@ export const vengeancePoisonArrow = {
   skillLineId: "temper-skill-line/vengeance-weapon-bow",
   skillType: "temper-skill-type/active",
   hashPlace: 1522,
+  createdAt: "2026-05-28T16:03:34.354Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

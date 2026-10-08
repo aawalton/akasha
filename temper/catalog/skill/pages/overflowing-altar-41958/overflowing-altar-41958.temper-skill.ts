@@ -19,4 +19,6 @@ export const overflowingAltar41958 = {
   skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/active",
   hashPlace: 868,
+  createdAt: "2026-05-28T16:03:33.205Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

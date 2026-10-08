@@ -19,4 +19,6 @@ export const swordAndBoard29397 = {
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/passive",
   hashPlace: 1319,
+  createdAt: "2026-05-28T16:03:34.030Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

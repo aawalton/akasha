@@ -18,4 +18,6 @@ export const kickback63817 = {
   skillLineId: "temper-skill-line/world-legerdemain",
   skillType: "temper-skill-type/passive",
   hashPlace: 720,
+  createdAt: "2026-05-28T16:03:32.914Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

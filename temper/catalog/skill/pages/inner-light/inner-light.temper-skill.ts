@@ -20,4 +20,6 @@ export const innerLight = {
   skillType: "temper-skill-type/active",
   effects: "jsonl",
   hashPlace: 687,
+  createdAt: "2026-05-26T02:59:07.597Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

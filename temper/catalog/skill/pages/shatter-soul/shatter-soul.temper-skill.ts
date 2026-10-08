@@ -19,4 +19,6 @@ export const shatterSoul = {
   skillLineId: "temper-skill-line/world-soul-magic",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1159,
+  createdAt: "2026-05-26T03:25:55.815Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const incapacitatingStrike = {
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 677,
+  createdAt: "2026-05-26T03:13:12.370Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

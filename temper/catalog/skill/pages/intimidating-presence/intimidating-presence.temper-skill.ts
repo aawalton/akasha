@@ -21,4 +21,6 @@ export const intimidatingPresence = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 695,
+  createdAt: "2026-05-26T02:59:07.599Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

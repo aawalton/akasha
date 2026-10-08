@@ -19,4 +19,6 @@ export const shootingStar = {
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1175,
+  createdAt: "2026-05-26T02:59:07.660Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

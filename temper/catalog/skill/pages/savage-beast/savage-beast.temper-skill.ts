@@ -21,4 +21,6 @@ export const savageBeast = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 1130,
+  createdAt: "2026-05-26T03:13:12.483Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

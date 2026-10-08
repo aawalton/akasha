@@ -18,4 +18,6 @@ export const rugged36628 = {
   skillLineId: "temper-skill-line/racial-nord-skills",
   skillType: "temper-skill-type/passive",
   hashPlace: 1088,
+  createdAt: "2026-05-28T16:03:33.613Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

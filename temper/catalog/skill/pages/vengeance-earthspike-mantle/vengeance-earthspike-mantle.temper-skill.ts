@@ -19,4 +19,6 @@ export const vengeanceEarthspikeMantle = {
   skillLineId: "temper-skill-line/vengeance-dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
   hashPlace: 1459,
+  createdAt: "2026-05-28T16:03:34.264Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

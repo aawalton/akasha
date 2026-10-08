@@ -11,4 +11,6 @@ export const armorMediumArmor = {
   maxRank: 50,
   category: "temper-skill-line-category/armor",
   hashPlace: 29,
+  createdAt: "2026-05-26T01:18:50.309Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

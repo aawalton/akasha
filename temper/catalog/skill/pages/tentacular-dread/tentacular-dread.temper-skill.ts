@@ -19,4 +19,6 @@ export const tentacularDread = {
   skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
   hashPlace: 1334,
+  createdAt: "2026-05-26T03:13:12.528Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

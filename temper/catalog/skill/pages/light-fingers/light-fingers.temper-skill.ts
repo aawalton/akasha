@@ -18,4 +18,6 @@ export const lightFingers = {
   skillLineId: "temper-skill-line/world-legerdemain",
   skillType: "temper-skill-type/passive",
   hashPlace: 744,
+  createdAt: "2026-05-26T03:25:55.788Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

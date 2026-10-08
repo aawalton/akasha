@@ -19,4 +19,6 @@ export const leechingStrikes36908 = {
   skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/active",
   hashPlace: 732,
+  createdAt: "2026-05-28T16:03:32.942Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

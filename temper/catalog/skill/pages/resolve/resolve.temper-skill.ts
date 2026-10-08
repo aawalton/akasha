@@ -21,4 +21,6 @@ export const resolve = {
   status: "supported",
   effects: "jsonl",
   hashPlace: 1042,
+  createdAt: "2026-05-26T02:59:07.650Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

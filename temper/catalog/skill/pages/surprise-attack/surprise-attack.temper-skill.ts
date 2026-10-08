@@ -19,4 +19,6 @@ export const surpriseAttack = {
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
   hashPlace: 1309,
+  createdAt: "2026-05-26T03:13:12.525Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

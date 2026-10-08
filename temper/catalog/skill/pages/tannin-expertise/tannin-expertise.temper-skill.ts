@@ -18,4 +18,6 @@ export const tanninExpertise = {
   skillLineId: "temper-skill-line/craft-clothing",
   skillType: "temper-skill-type/passive",
   hashPlace: 1329,
+  createdAt: "2026-05-26T02:37:19.410Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

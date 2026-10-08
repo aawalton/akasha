@@ -19,4 +19,6 @@ export const unstoppableBrute39205 = {
   skillLineId: "temper-skill-line/armor-heavy-armor",
   skillType: "temper-skill-type/active",
   hashPlace: 1398,
+  createdAt: "2026-05-28T16:03:34.174Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

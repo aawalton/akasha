@@ -19,4 +19,6 @@ export const permafrost = {
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 881,
+  createdAt: "2026-05-26T03:13:12.415Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

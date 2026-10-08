@@ -19,4 +19,6 @@ export const shuffle = {
   skillLineId: "temper-skill-line/armor-medium-armor",
   skillType: "temper-skill-type/active",
   hashPlace: 1181,
+  createdAt: "2026-05-26T02:59:07.661Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

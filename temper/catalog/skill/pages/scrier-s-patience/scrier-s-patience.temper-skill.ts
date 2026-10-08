@@ -18,4 +18,6 @@ export const scrierSPatience = {
   skillLineId: "temper-skill-line/world-scrying",
   skillType: "temper-skill-type/passive",
   hashPlace: 1141,
+  createdAt: "2026-05-28T16:03:33.704Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

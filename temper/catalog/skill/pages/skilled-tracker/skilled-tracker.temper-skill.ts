@@ -21,4 +21,6 @@ export const skilledTracker = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 1203,
+  createdAt: "2026-05-26T02:59:07.664Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

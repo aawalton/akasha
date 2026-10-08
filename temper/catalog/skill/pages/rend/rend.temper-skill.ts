@@ -19,4 +19,6 @@ export const rend = {
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1020,
+  createdAt: "2026-05-26T02:38:38.348Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

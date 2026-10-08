@@ -19,4 +19,6 @@ export const undo = {
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1384,
+  createdAt: "2026-05-28T16:03:34.145Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

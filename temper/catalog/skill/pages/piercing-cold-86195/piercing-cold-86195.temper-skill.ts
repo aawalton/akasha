@@ -19,4 +19,6 @@ export const piercingCold86195 = {
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/passive",
   hashPlace: 894,
+  createdAt: "2026-05-28T16:03:33.251Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

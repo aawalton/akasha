@@ -19,4 +19,6 @@ export const revealingFlare = {
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
   hashPlace: 1063,
+  createdAt: "2026-05-28T16:03:33.567Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

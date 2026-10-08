@@ -18,4 +18,6 @@ export const metalworking = {
   skillLineId: "temper-skill-line/craft-blacksmithing",
   skillType: "temper-skill-type/passive",
   hashPlace: 825,
+  createdAt: "2026-05-26T02:37:19.397Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

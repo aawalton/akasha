@@ -19,4 +19,6 @@ export const mountainGiant = {
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/passive",
   hashPlace: 840,
+  createdAt: "2026-05-28T16:03:33.150Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

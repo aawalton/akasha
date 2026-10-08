@@ -19,4 +19,6 @@ export const vengeanceShieldWall = {
   skillLineId: "temper-skill-line/vengeance-weapon-one-hand-and-shield",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1555,
+  createdAt: "2026-05-28T16:03:34.401Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

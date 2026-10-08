@@ -19,4 +19,6 @@ export const leechingVines = {
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
   hashPlace: 733,
+  createdAt: "2026-05-26T03:13:12.378Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

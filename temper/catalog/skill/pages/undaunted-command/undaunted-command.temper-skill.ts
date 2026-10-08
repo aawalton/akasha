@@ -21,4 +21,6 @@ export const undauntedCommand = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 1378,
+  createdAt: "2026-05-26T02:59:07.688Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

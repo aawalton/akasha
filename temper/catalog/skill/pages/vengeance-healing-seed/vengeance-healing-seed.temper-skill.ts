@@ -19,4 +19,6 @@ export const vengeanceHealingSeed = {
   skillLineId: "temper-skill-line/vengeance-warden-green-balance",
   skillType: "temper-skill-type/active",
   hashPlace: 1489,
+  createdAt: "2026-05-28T16:03:34.307Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const siphoningAttacks = {
   skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/active",
   hashPlace: 1195,
+  createdAt: "2026-05-26T03:13:12.498Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

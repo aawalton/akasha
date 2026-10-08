@@ -18,4 +18,6 @@ export const tough50903 = {
   skillLineId: "temper-skill-line/racial-imperial-skills",
   skillType: "temper-skill-type/passive",
   hashPlace: 1355,
+  createdAt: "2026-05-28T16:03:34.094Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -18,4 +18,6 @@ export const stitching48190 = {
   skillLineId: "temper-skill-line/craft-clothing",
   skillType: "temper-skill-type/passive",
   hashPlace: 1274,
+  createdAt: "2026-05-28T16:03:33.950Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

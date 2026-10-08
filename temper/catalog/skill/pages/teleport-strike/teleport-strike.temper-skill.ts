@@ -19,4 +19,6 @@ export const teleportStrike = {
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
   hashPlace: 1330,
+  createdAt: "2026-05-28T16:03:34.052Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -18,4 +18,6 @@ export const keenEyeOre47854 = {
   skillLineId: "temper-skill-line/craft-blacksmithing",
   skillType: "temper-skill-type/passive",
   hashPlace: 711,
+  createdAt: "2026-05-28T16:03:32.899Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const reusableParts116186 = {
   skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/passive",
   hashPlace: 1062,
+  createdAt: "2026-05-28T16:03:33.565Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

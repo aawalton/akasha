@@ -21,4 +21,6 @@ export const slaughter = {
   status: "unsupported",
   effects: "jsonl",
   hashPlace: 1204,
+  createdAt: "2026-05-26T02:38:38.357Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

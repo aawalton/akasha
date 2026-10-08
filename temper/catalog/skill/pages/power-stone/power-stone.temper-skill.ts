@@ -20,4 +20,6 @@ export const powerStone = {
   status: "supported",
   effects: "jsonl",
   hashPlace: 917,
+  createdAt: "2026-05-26T03:13:12.427Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

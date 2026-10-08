@@ -12,4 +12,6 @@ export const arcanistHeraldOfTheTome = {
   category: "temper-skill-line-category/character-class",
   class: "temper-class/arcanist",
   hashPlace: 19,
+  createdAt: "2026-05-26T01:18:50.300Z",
+  updatedAt: "2026-09-26T15:39:49.000Z",
 } as const satisfies TemperSkillLine

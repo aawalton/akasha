@@ -19,4 +19,6 @@ export const twinBladeAndBlunt30893 = {
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/passive",
   hashPlace: 1372,
+  createdAt: "2026-05-28T16:03:34.124Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

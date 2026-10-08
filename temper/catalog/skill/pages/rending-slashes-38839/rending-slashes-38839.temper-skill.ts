@@ -19,4 +19,6 @@ export const rendingSlashes38839 = {
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
   hashPlace: 1024,
+  createdAt: "2026-05-28T16:03:33.497Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

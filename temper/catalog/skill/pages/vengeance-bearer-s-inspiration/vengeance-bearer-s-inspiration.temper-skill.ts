@@ -19,4 +19,6 @@ export const vengeanceBearerSInspiration = {
   skillLineId: "temper-skill-line/vengeance-arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
   hashPlace: 1417,
+  createdAt: "2026-05-28T16:03:34.203Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

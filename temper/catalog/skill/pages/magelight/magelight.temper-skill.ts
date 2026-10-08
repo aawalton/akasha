@@ -19,4 +19,6 @@ export const magelight = {
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
   hashPlace: 780,
+  createdAt: "2026-05-28T16:03:33.039Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

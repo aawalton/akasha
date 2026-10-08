@@ -19,4 +19,6 @@ export const theLanguidEye = {
   skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1337,
+  createdAt: "2026-05-26T03:13:12.529Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const standardOfMight32947 = {
   skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1269,
+  createdAt: "2026-05-28T16:03:33.941Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

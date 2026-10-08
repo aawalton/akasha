@@ -20,4 +20,6 @@ export const temporalGuard = {
   skillType: "temper-skill-type/ultimate",
   effects: "jsonl",
   hashPlace: 1332,
+  createdAt: "2026-05-26T02:59:07.684Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

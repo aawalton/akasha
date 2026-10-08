@@ -19,4 +19,6 @@ export const strife = {
   skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/active",
   hashPlace: 1277,
+  createdAt: "2026-05-28T16:03:33.956Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

@@ -19,4 +19,6 @@ export const solventProficiency = {
   skillLineId: "temper-skill-line/craft-alchemy",
   skillType: "temper-skill-type/passive",
   hashPlace: 1219,
+  createdAt: "2026-05-26T02:37:19.406Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill

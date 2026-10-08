@@ -19,4 +19,6 @@ export const slaughter18929 = {
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/passive",
   hashPlace: 1205,
+  createdAt: "2026-05-28T16:03:33.817Z",
+  updatedAt: "2026-09-27T06:25:43.000Z",
 } as const satisfies TemperSkill
