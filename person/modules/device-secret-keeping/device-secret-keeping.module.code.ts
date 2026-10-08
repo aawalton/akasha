@@ -303,13 +303,14 @@ export async function deviceSecretPresented(
   if (!deviceSecretHashesEqual(page.secretHash, presentedHash)) {
     return { outcome: "refused", why: NO_MATCH }
   }
-  void lastUseWrittenQuietly(page.slug, fetcher, naps)
+  void lastUseWrittenQuietly(page.slug, found.read, fetcher, naps)
   return { outcome: "stands", whom: whose.whom, slug: page.slug }
 }
 
 async function writeLastUsedAt(
   slug: string,
   at: string,
+  read: string | undefined,
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<LastUseWritten> {
@@ -325,6 +326,7 @@ async function writeLastUsedAt(
           merge: true,
         },
       ],
+      ...(read === undefined ? {} : { read }),
     },
     fetcher,
     naps
@@ -335,12 +337,13 @@ async function writeLastUsedAt(
 
 async function lastUseWrittenQuietly(
   slug: string,
+  read: string | undefined,
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<undefined> {
   let why: string
   try {
-    const written = await writeLastUsedAt(slug, new Date().toISOString(), fetcher, naps)
+    const written = await writeLastUsedAt(slug, new Date().toISOString(), read, fetcher, naps)
     if (written.ok) return undefined
     why = written.why
   } catch (thrown) {

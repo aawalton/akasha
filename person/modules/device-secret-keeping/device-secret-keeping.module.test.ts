@@ -294,7 +294,7 @@ test("no refusal carries the secret that was presented", async () => {
   expect(JSON.stringify(refused)).not.toContain(secret)
 })
 
-test("a secret taken writes when it was last presented onto its page", async () => {
+test("a secret taken writes when it was last presented, naming the commit its page was asked at", async () => {
   const secret = generateDeviceSecret()
   const writes: Written[] = []
   const before = Date.now()
@@ -309,6 +309,7 @@ test("a secret taken writes when it was last presented onto its page", async () 
   expect(page?.pageTypeSlug).toBe(DEVICE_SECRET_PAGE_TYPE)
   expect(page?.slug).toBe(deviceSecretSlug("alan", A_DEVICE))
   expect(page?.merge).toBe(true)
+  expect(writes[0]?.read).toBe(ASKED_AT)
   expect(Object.keys(page?.values ?? {})).toEqual(["lastUsedAt"])
   const at = Date.parse(String(page?.values.lastUsedAt))
   expect(at).toBeGreaterThanOrEqual(before)

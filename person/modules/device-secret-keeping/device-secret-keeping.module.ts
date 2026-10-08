@@ -138,6 +138,11 @@ export const deviceSecretKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Writing that instant names the commit the question finding its page was answered at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "That instant going unwritten leaves the secret taken.",
     },
     {
@@ -151,5 +156,5 @@ export const deviceSecretKeeping = {
     },
   ],
   createdAt: "2026-09-01T04:28:40.076Z",
-  updatedAt: "2026-09-25T15:42:48.000Z",
+  updatedAt: "2026-10-08T21:06:59.667Z",
 } as const satisfies Module
