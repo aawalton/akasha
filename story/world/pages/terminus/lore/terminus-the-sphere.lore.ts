@@ -125,6 +125,26 @@ export const terminusTheSphere = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The mana push acts on every gram of matter equally, much like gravity.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mana passes through ordinary matter, so roofs, caves and shade do not lessen weight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sufficiently dense solid essence blocks mana, as the solid essence of the exterior does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With enough essence shielding, a chamber resting on the surface can be free of weight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Building weight-free chambers takes advanced technology.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The higher gravity suits the magically enhanced people of The Terminus.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -174,5 +194,5 @@ export const terminusTheSphere = {
     },
   ],
   createdAt: "2026-10-08T19:12:35.919Z",
-  updatedAt: "2026-10-08T19:54:44.414Z",
+  updatedAt: "2026-10-08T19:59:22.559Z",
 } as const satisfies Lore
