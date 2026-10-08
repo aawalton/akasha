@@ -35,5 +35,9 @@ export const seatActConfirm = {
       decisionKind: "decision-kind/departure",
       statement: "A restart is confirmed as a stop is, the turn being lost either way.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A section's stop is confirmed once, naming the section and how many agents stop.",
+    },
   ],
 } as const satisfies Module

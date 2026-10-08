@@ -93,6 +93,19 @@ export const agentForest = {
       statement: "A section no seat falls in is not drawn.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A section's stop reaches every running seat drawn under that section, at whatever depth.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A section's stop reaches no stopped seat and no subagent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A section offers a stop only while a seat under that section runs.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here asks the harness anything.",
     },

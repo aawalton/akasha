@@ -46,7 +46,10 @@ import { newestWins } from "akasha/code/editor/extension/modules/newest-wins/new
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import type { SeatAct } from "akasha/code/editor/extension/modules/seat-act-confirm/seat-act-confirm.module.code.ts"
 import { openSeatPage } from "akasha/code/editor/extension/modules/seat-page-opening/seat-page-opening.module.code.ts"
-import { runPlan as runPlanWith } from "akasha/code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"
+import {
+  runPlan as runPlanWith,
+  runStop,
+} from "akasha/code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"
 import { showSeat } from "akasha/code/editor/extension/modules/seat-showing/seat-showing.module.code.ts"
 import {
   type SeatTabState,
@@ -229,9 +232,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   context.subscriptions.push(
     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual")),
-    vscode.commands.registerCommand(RUN_STOP_COMMAND, (n: unknown) =>
-      runPlan(n, planRunToggle, "run-stop")
-    ),
+    vscode.commands.registerCommand(RUN_STOP_COMMAND, (n: unknown) => runStop(n, refresh)),
     vscode.commands.registerCommand(RUN_RESUME_COMMAND, (n: unknown) =>
       runPlan(n, planRunToggle, "run-resume")
     ),

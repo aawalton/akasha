@@ -50,3 +50,13 @@ export function confirmTurnLoss(
     confirm: words.confirm,
   }
 }
+
+export function confirmSectionStop(sectionName: string, count: number): TurnLossPrompt {
+  const words = ACT_WORDS["run-stop"]
+  return {
+    message: `Are you sure you want to ${words.question} ${count === 1 ? "1 agent" : `${count} agents`} in '${sectionName}'?`,
+    detail:
+      "This kills the process each of those seats is working in. Whatever each is part-way through this turn is lost and cannot be recovered.",
+    confirm: words.confirm,
+  }
+}

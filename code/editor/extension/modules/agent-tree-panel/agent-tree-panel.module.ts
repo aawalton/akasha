@@ -90,6 +90,10 @@ export const agentTreePanel = {
       decisionKind: "decision-kind/departure",
       statement: "A stop on a subagent row is handed to `subagent-stopping` with the refresh.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stop on a seat row or a section row is handed to `seat-plan-running`.",
+    },
 
     {
       decisionKind: "decision-kind/absence",

@@ -9,7 +9,8 @@ export const seatPlanRunning = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An act invoked on a row that is no seat does nothing.",
+      statement:
+        "An act invoked on a row that is no seat does nothing, but for a stop on a section.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,6 +35,23 @@ export const seatPlanRunning = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The fleet is read again once the act is done.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A section's stop takes its seats from the fleet last drawn, keyed by the section.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A section's stop runs on each seat the plan a stop on that seat's own row runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A section's stop runs on one seat at a time and reads the fleet once after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A section with no seat running asks nothing and stops nothing.",
     },
     {
       decisionKind: "decision-kind/absence",

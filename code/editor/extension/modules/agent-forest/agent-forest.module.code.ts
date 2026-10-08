@@ -181,3 +181,21 @@ export function sectionForest(
     return held === undefined ? [] : [sectionRow(title, held)]
   })
 }
+
+function runningSeatsUnder(row: AgentTreeRow): readonly AgentTreeRow[] {
+  return row.children.flatMap((child) =>
+    child.kind === "seat" ? [...(child.live ? [child] : []), ...runningSeatsUnder(child)] : []
+  )
+}
+
+export function sectionStopTargets(
+  roots: readonly AgentTreeRow[],
+  sectionKey: string
+): readonly AgentTreeRow[] {
+  const section = roots.find((root) => root.kind === "root" && root.key === sectionKey)
+  return section === undefined ? [] : runningSeatsUnder(section)
+}
+
+export function sectionContextValue(section: AgentTreeRow): string {
+  return runningSeatsUnder(section).length === 0 ? "section" : "section.running"
+}

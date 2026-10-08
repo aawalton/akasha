@@ -1,4 +1,5 @@
 import type { AgentTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
+import { sectionContextValue } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import type { SeatClick } from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
 import { seatContextValue } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 import { subagentContextValue } from "akasha/code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"
@@ -91,7 +92,7 @@ function buildTreeItem(element: AgentTreeRow, filtering: boolean, atTop: boolean
       ? seatContextValue(element.live, element.place ?? "headless")
       : element.kind === "subagent"
         ? subagentContextValue(element.stopped)
-        : element.kind
+        : sectionContextValue(element)
   if (element.kind === "seat") {
     const clicked: SeatClick = { id: element.key, name: element.label }
     item.command = {

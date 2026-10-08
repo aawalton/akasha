@@ -3,7 +3,9 @@ import {
   assembleForest,
   countRows,
   countRunning,
+  sectionContextValue,
   sectionForest,
+  sectionStopTargets,
   subagentKey,
 } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import {
@@ -228,5 +230,66 @@ describe("the sections the seats fall in", () => {
     expect(drawn[0]?.kind).toBe("root")
     expect(drawn[0]?.key).toBe("section/personas")
     expect(drawn[0]?.at).toBeNull()
+  })
+})
+
+describe("the seats a section's stop reaches", () => {
+  const seated = (
+    id: string,
+    name: string,
+    role: string | null,
+    assignment: string | null,
+    parent: string | null = null
+  ) => ({ ...row(id, name, parent, parent === null ? "alan" : null), role, assignment })
+
+  const rows = [
+    seated("g", "mari-gm", "game-master", "story-played/game-alpha"),
+    seated("s", "scribe", "worker", null, "g"),
+    seated("o", "old-gm", "game-master", "story-played/game-alpha"),
+    seated("k", "kid", "worker", null, "o"),
+    seated("a", "amy", "definer", "initiative/work-defined"),
+  ]
+
+  const drawn = sectionForest(
+    assembleForest(
+      rows,
+      live("g", "s", "k", "a"),
+      new Map([["g", [subagent("t1", "writing", [], "ag1")]]]),
+      NO_PLACES
+    ),
+    rows
+  )
+
+  test("every running seat under the section is reached, at whatever depth it hangs", () => {
+    expect(sectionStopTargets(drawn, "section/game-alpha").map((one) => one.label)).toEqual([
+      "mari-gm",
+      "scribe",
+      "kid",
+    ])
+  })
+
+  test("a stopped seat, a subagent and a seat in another section are not reached", () => {
+    const reached = sectionStopTargets(drawn, "section/game-alpha").map((one) => one.label)
+    expect(reached).not.toContain("old-gm")
+    expect(reached).not.toContain("writing")
+    expect(reached).not.toContain("amy")
+  })
+
+  test("a section the forest holds no row for reaches nothing", () => {
+    expect(sectionStopTargets(drawn, "section/game-gone")).toEqual([])
+  })
+
+  test("a section is drawn as stoppable only while a seat under it runs", () => {
+    const stoppedOnly = sectionForest(
+      assembleForest(
+        [seated("q", "quiet", "game-master", "story-played/game-beta")],
+        live(),
+        new Map([["q", [subagent("t2", "lingering")]]]),
+        NO_PLACES
+      ),
+      [seated("q", "quiet", "game-master", "story-played/game-beta")]
+    )
+    expect(drawn.map(sectionContextValue)).toEqual(["section.running", "section.running"])
+    expect(stoppedOnly.map(sectionContextValue)).toEqual(["section"])
   })
 })

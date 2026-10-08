@@ -56,7 +56,13 @@ export const agentTreeDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The top row has `root` as its context value.",
+      statement:
+        "A section's row has `section.running` as its context value while a seat under it runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A section's row with no seat running under it has `section` as its context value.",
     },
     {
       decisionKind: "decision-kind/departure",
