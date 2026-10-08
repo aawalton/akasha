@@ -161,6 +161,22 @@ export const terminusCollectionTowers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Trial of Ascension is optional, so #1's Administrator may hold the tower as long as they can.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Long dynasties at the top of the towers are possible.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A tower may be challenged by a team, not only by one System user alone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Administrators of lower towers can team up to oust a complacent higher Administrator.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Each collection tower reaches through the whole thickness of the shell.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -286,5 +302,5 @@ export const terminusCollectionTowers = {
     },
   ],
   createdAt: "2026-10-08T19:30:37.295Z",
-  updatedAt: "2026-10-08T21:00:02.790Z",
+  updatedAt: "2026-10-08T21:01:36.080Z",
 } as const satisfies Lore
