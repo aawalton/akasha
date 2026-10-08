@@ -10,4 +10,6 @@ export const calvaron = {
   firstChapter: 158,
   lastChapter: 164,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:41.520Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

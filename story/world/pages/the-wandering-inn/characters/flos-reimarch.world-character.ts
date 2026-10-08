@@ -10,4 +10,6 @@ export const flosReimarch = {
   firstChapter: 27,
   lastChapter: 757,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:56.475Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const dalimont = {
   firstChapter: 540,
   lastChapter: 740,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:24.742Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

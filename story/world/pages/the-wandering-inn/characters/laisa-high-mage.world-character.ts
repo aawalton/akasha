@@ -10,4 +10,6 @@ export const laisaHighMage = {
   firstChapter: 477,
   lastChapter: 477,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:57.146Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

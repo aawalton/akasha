@@ -10,4 +10,6 @@ export const grasstongue = {
   firstChapter: 253,
   lastChapter: 253,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:20.841Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

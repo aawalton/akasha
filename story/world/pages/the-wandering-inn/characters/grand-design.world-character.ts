@@ -10,4 +10,6 @@ export const grandDesign = {
   firstChapter: 674,
   lastChapter: 764,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:20.567Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

@@ -11,4 +11,6 @@ export const ksmvrOfChandrar = {
   lastChapter: 553,
   characterClaims: "jsonl",
   aliasOf: "world-character/ksmvr",
+  createdAt: "2026-09-19T00:22:55.542Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

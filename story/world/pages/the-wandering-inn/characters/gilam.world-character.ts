@@ -11,4 +11,6 @@ export const gilam = {
   lastChapter: 290,
   characterClaims: "jsonl",
   aliasOf: "world-character/gilam-quellae",
+  createdAt: "2026-09-19T00:22:01.296Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

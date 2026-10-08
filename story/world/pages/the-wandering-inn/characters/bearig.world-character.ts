@@ -11,4 +11,6 @@ export const bearig = {
   firstChapter: 529,
   lastChapter: 552,
   characterClaims: "jsonl",
+  createdAt: "2026-09-03T04:21:31.924Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

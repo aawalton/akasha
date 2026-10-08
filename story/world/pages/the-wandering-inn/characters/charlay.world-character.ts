@@ -10,4 +10,6 @@ export const charlay = {
   firstChapter: 346,
   lastChapter: 363,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:20.288Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

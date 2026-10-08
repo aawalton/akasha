@@ -11,4 +11,6 @@ export const halrac = {
   lastChapter: 758,
   characterClaims: "jsonl",
   aliasOf: "world-character/halrac-everam",
+  createdAt: "2026-09-19T00:17:53.773Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

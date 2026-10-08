@@ -10,4 +10,6 @@ export const doctorWithra = {
   firstChapter: 756,
   lastChapter: 756,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:27.745Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

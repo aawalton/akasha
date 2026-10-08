@@ -8,4 +8,6 @@ export const authorNarrator = {
   world: "world/the-wandering-inn",
   firstChapter: 766,
   lastChapter: 766,
+  createdAt: "2026-09-19T00:18:34.631Z",
+  updatedAt: "2026-09-19T17:02:32.000Z",
 } as const satisfies WorldCharacter

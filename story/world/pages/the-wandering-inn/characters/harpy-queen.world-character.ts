@@ -10,4 +10,6 @@ export const harpyQueen = {
   firstChapter: 811,
   lastChapter: 811,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:22.713Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const empressSheta = {
   firstChapter: 426,
   lastChapter: 759,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:49.002Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

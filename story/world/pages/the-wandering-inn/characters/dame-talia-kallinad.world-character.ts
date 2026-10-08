@@ -10,4 +10,6 @@ export const dameTaliaKallinad = {
   firstChapter: 490,
   lastChapter: 490,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:25.176Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const gershal = {
   firstChapter: 233,
   lastChapter: 688,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:01.075Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

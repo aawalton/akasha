@@ -10,4 +10,6 @@ export const garenRedfang = {
   firstChapter: 123,
   lastChapter: 784,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:58.208Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

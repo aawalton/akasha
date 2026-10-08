@@ -11,4 +11,6 @@ export const horrorGirl = {
   firstChapter: 143,
   lastChapter: 143,
   characterClaims: "jsonl",
+  createdAt: "2026-09-03T04:21:31.924Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const bault = {
   firstChapter: 316,
   lastChapter: 316,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:36.289Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

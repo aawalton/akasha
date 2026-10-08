@@ -10,4 +10,6 @@ export const baosarActelios = {
   firstChapter: 399,
   lastChapter: 399,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:35.533Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const calthusveri = {
   firstChapter: 536,
   lastChapter: 536,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:41.468Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

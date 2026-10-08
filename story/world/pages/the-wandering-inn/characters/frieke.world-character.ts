@@ -10,4 +10,6 @@ export const frieke = {
   firstChapter: 806,
   lastChapter: 809,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:57.096Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

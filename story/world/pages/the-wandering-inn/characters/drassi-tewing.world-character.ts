@@ -10,4 +10,6 @@ export const drassiTewing = {
   firstChapter: 440,
   lastChapter: 599,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:28.773Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

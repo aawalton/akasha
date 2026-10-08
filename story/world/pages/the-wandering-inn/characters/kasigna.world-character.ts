@@ -10,4 +10,6 @@ export const kasigna = {
   firstChapter: 495,
   lastChapter: 758,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:35.684Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const jelaim = {
   firstChapter: 324,
   lastChapter: 324,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:33.847Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

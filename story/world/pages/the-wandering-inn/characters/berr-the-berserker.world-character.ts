@@ -10,4 +10,6 @@ export const berrTheBerserker = {
   firstChapter: 638,
   lastChapter: 638,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:37.515Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

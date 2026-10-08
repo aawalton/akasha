@@ -10,4 +10,6 @@ export const crossbowStan = {
   firstChapter: 329,
   lastChapter: 330,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:23.568Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

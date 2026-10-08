@@ -10,4 +10,6 @@ export const charlesDeTrevalier = {
   firstChapter: 158,
   lastChapter: 161,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:20.342Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

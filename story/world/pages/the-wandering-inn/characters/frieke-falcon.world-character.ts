@@ -11,4 +11,6 @@ export const friekeFalcon = {
   lastChapter: 514,
   characterClaims: "jsonl",
   aliasOf: "world-character/frieke",
+  createdAt: "2026-09-19T00:21:57.154Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

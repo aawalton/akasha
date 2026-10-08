@@ -10,4 +10,6 @@ export const facestealer = {
   firstChapter: 364,
   lastChapter: 364,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:51.921Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

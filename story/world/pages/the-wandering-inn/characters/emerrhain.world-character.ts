@@ -10,4 +10,6 @@ export const emerrhain = {
   firstChapter: 578,
   lastChapter: 758,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:48.424Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

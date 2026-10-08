@@ -10,4 +10,6 @@ export const crimsonSoldier = {
   firstChapter: 560,
   lastChapter: 560,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:23.514Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

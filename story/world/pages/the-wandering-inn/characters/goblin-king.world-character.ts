@@ -10,4 +10,6 @@ export const goblinKing = {
   firstChapter: 757,
   lastChapter: 759,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:02.375Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

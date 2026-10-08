@@ -10,4 +10,6 @@ export const alienCommander = {
   firstChapter: 481,
   lastChapter: 481,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:31.487Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

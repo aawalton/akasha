@@ -11,4 +11,6 @@ export const amerys = {
   firstChapter: 158,
   lastChapter: 790,
   characterClaims: "jsonl",
+  createdAt: "2026-09-03T04:21:31.923Z",
+  updatedAt: "2026-09-25T15:41:02.000Z",
 } as const satisfies WorldCharacter

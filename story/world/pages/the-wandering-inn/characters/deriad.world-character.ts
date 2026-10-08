@@ -10,4 +10,6 @@ export const deriad = {
   firstChapter: 668,
   lastChapter: 668,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:27.231Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

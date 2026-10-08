@@ -11,4 +11,6 @@ export const highMageTelim = {
   lastChapter: 556,
   characterClaims: "jsonl",
   aliasOf: "world-character/telim",
+  createdAt: "2026-09-19T00:22:25.718Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

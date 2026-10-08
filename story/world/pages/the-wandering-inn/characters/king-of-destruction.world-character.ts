@@ -10,4 +10,6 @@ export const kingOfDestruction = {
   firstChapter: 207,
   lastChapter: 207,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:54.235Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

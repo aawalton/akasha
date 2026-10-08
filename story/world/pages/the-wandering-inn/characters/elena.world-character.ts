@@ -11,4 +11,6 @@ export const elena = {
   lastChapter: 797,
   characterClaims: "jsonl",
   aliasOf: "world-character/elena-othonos",
+  createdAt: "2026-09-19T00:21:31.041Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

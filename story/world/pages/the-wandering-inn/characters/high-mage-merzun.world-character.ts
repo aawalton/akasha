@@ -10,4 +10,6 @@ export const highMageMerzun = {
   firstChapter: 499,
   lastChapter: 499,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:25.659Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

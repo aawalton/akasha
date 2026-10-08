@@ -11,4 +11,6 @@ export const himiltDrakle = {
   lastChapter: 452,
   characterClaims: "jsonl",
   aliasOf: "world-character/himilt",
+  createdAt: "2026-09-19T00:22:25.891Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

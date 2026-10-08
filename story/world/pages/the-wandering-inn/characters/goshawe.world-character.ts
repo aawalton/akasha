@@ -8,4 +8,6 @@ export const goshawe = {
   world: "world/the-wandering-inn",
   firstChapter: 775,
   lastChapter: 775,
+  createdAt: "2026-09-19T00:22:19.982Z",
+  updatedAt: "2026-09-19T17:03:52.000Z",
 } as const satisfies WorldCharacter

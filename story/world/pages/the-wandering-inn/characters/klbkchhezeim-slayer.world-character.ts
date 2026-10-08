@@ -10,4 +10,6 @@ export const klbkchhezeimSlayer = {
   firstChapter: 464,
   lastChapter: 464,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:54.716Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

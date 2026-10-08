@@ -10,4 +10,6 @@ export const isceil = {
   firstChapter: 374,
   lastChapter: 385,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:31.471Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

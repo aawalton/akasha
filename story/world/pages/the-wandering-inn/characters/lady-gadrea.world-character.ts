@@ -10,4 +10,6 @@ export const ladyGadrea = {
   firstChapter: 545,
   lastChapter: 545,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:56.102Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

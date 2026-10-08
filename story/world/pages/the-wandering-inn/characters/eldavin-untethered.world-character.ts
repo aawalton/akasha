@@ -11,4 +11,6 @@ export const eldavinUntethered = {
   firstChapter: 587,
   lastChapter: 804,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:57:38.147Z",
+  updatedAt: "2026-09-25T15:41:02.000Z",
 } as const satisfies WorldCharacter

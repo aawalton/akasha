@@ -10,4 +10,6 @@ export const beilmark = {
   firstChapter: 6,
   lastChapter: 785,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:36.876Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

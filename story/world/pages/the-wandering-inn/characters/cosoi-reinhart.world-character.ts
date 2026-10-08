@@ -8,4 +8,6 @@ export const cosoiReinhart = {
   world: "world/the-wandering-inn",
   firstChapter: 824,
   lastChapter: 824,
+  createdAt: "2026-09-19T00:21:23.327Z",
+  updatedAt: "2026-09-19T17:03:13.000Z",
 } as const satisfies WorldCharacter

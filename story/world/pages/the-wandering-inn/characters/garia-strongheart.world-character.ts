@@ -10,4 +10,6 @@ export const gariaStrongheart = {
   firstChapter: 22,
   lastChapter: 627,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:58.320Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

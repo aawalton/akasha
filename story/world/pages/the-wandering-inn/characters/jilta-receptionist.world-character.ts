@@ -10,4 +10,6 @@ export const jiltaReceptionist = {
   firstChapter: 349,
   lastChapter: 349,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:34.769Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

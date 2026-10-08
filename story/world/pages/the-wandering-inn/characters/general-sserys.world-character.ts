@@ -10,4 +10,6 @@ export const generalSserys = {
   firstChapter: 111,
   lastChapter: 442,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:59.455Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

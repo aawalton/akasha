@@ -11,4 +11,6 @@ export const akrisa = {
   lastChapter: 564,
   characterClaims: "jsonl",
   aliasOf: "world-character/akrisa-silverfang",
+  createdAt: "2026-09-19T00:18:30.668Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

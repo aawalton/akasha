@@ -10,4 +10,6 @@ export const khalid = {
   firstChapter: 323,
   lastChapter: 370,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:53.408Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

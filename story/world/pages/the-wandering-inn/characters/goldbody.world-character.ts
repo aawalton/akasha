@@ -10,4 +10,6 @@ export const goldbody = {
   firstChapter: 728,
   lastChapter: 763,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:19.814Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

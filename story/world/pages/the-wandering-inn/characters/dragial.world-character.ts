@@ -10,4 +10,6 @@ export const dragial = {
   firstChapter: 494,
   lastChapter: 585,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:28.263Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

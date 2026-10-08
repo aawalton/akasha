@@ -11,4 +11,6 @@ export const apista = {
   firstChapter: 227,
   lastChapter: 752,
   characterClaims: "jsonl",
+  createdAt: "2026-09-03T04:21:31.923Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

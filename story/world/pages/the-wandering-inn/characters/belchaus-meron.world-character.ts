@@ -10,4 +10,6 @@ export const belchausMeron = {
   firstChapter: 503,
   lastChapter: 503,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:37.083Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

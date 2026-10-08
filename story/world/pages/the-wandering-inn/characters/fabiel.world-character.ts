@@ -10,4 +10,6 @@ export const fabiel = {
   firstChapter: 203,
   lastChapter: 203,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:51.815Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

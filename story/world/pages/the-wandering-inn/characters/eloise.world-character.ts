@@ -10,4 +10,6 @@ export const eloise = {
   firstChapter: 351,
   lastChapter: 463,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:47.217Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

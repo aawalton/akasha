@@ -11,4 +11,6 @@ export const gershalOfVaunt = {
   lastChapter: 680,
   characterClaims: "jsonl",
   aliasOf: "world-character/gershal",
+  createdAt: "2026-09-19T00:22:01.131Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

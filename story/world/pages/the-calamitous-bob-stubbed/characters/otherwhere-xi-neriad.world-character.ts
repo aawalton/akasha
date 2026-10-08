@@ -6,4 +6,6 @@ export const otherwhereXiNeriad = {
   slug: "otherwhere-xi-neriad",
   title: "Neriad",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:04:31.336Z",
+  updatedAt: "2026-09-29T00:04:39.000Z",
 } as const satisfies WorldCharacter

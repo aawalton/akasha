@@ -11,4 +11,6 @@ export const chaldionOfPallass = {
   lastChapter: 468,
   characterClaims: "jsonl",
   aliasOf: "world-character/chaldion",
+  createdAt: "2026-09-19T00:21:20.236Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

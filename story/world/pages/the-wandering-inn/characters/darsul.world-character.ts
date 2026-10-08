@@ -10,4 +10,6 @@ export const darsul = {
   firstChapter: 487,
   lastChapter: 487,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:25.913Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

@@ -11,4 +11,6 @@ export const beachKevin = {
   lastChapter: 753,
   characterClaims: "jsonl",
   mergedInto: "world-character/kevin",
+  createdAt: "2026-09-19T01:48:43.574Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const agentZemize = {
   firstChapter: 779,
   lastChapter: 779,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:30.286Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

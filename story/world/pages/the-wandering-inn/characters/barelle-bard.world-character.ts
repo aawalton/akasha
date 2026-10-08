@@ -11,4 +11,6 @@ export const barelleBard = {
   lastChapter: 534,
   characterClaims: "jsonl",
   aliasOf: "world-character/barelle",
+  createdAt: "2026-09-19T00:18:35.649Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

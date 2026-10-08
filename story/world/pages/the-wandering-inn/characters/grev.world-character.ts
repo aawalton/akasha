@@ -10,4 +10,6 @@ export const grev = {
   firstChapter: 119,
   lastChapter: 413,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:21.001Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

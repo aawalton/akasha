@@ -11,4 +11,6 @@ export const birdHunter = {
   lastChapter: 434,
   characterClaims: "jsonl",
   aliasOf: "world-character/bird",
+  createdAt: "2026-09-19T00:18:38.721Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

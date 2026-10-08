@@ -10,4 +10,6 @@ export const generalThelican = {
   firstChapter: 369,
   lastChapter: 577,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:59.510Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

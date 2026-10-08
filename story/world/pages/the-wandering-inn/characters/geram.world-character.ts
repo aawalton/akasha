@@ -11,4 +11,6 @@ export const geram = {
   lastChapter: 250,
   characterClaims: "jsonl",
   aliasOf: "world-character/geram-redfist",
+  createdAt: "2026-09-19T00:22:00.793Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const honoghest = {
   firstChapter: 806,
   lastChapter: 806,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:26.461Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

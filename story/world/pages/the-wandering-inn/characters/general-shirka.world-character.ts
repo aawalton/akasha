@@ -8,4 +8,6 @@ export const generalShirka = {
   world: "world/the-wandering-inn",
   firstChapter: 763,
   lastChapter: 763,
+  createdAt: "2026-09-19T00:21:59.412Z",
+  updatedAt: "2026-09-19T17:03:52.000Z",
 } as const satisfies WorldCharacter

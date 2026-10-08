@@ -11,4 +11,6 @@ export const cirille = {
   lastChapter: 439,
   characterClaims: "jsonl",
   aliasOf: "world-character/cirille-bitterclaw",
+  createdAt: "2026-09-19T00:21:21.415Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

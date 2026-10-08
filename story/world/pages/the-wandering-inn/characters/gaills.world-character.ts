@@ -10,4 +10,6 @@ export const gaills = {
   firstChapter: 625,
   lastChapter: 625,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:57.654Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

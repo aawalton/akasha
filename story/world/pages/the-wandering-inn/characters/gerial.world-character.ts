@@ -10,4 +10,6 @@ export const gerial = {
   firstChapter: 29,
   lastChapter: 329,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:00.904Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

@@ -11,4 +11,6 @@ export const hayvon = {
   lastChapter: 625,
   characterClaims: "jsonl",
   aliasOf: "world-character/hayvon-operland",
+  createdAt: "2026-09-19T00:22:23.409Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const disabella = {
   firstChapter: 410,
   lastChapter: 410,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:27.691Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const drakeBanditLeader = {
   firstChapter: 330,
   lastChapter: 330,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:28.309Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

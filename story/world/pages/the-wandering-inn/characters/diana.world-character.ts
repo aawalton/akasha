@@ -8,4 +8,6 @@ export const diana = {
   world: "world/the-wandering-inn",
   firstChapter: 316,
   lastChapter: 316,
+  createdAt: "2026-09-19T00:21:27.442Z",
+  updatedAt: "2026-09-19T17:03:13.000Z",
 } as const satisfies WorldCharacter

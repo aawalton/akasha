@@ -10,4 +10,6 @@ export const erinSolstice = {
   firstChapter: 1,
   lastChapter: 816,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:16:52.620Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

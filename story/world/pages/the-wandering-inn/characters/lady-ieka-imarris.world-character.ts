@@ -11,4 +11,6 @@ export const ladyIekaImarris = {
   lastChapter: 449,
   characterClaims: "jsonl",
   aliasOf: "world-character/ieka-imarris",
+  createdAt: "2026-09-19T00:22:56.213Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

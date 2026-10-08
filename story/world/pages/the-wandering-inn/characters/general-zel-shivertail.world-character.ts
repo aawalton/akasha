@@ -11,4 +11,6 @@ export const generalZelShivertail = {
   lastChapter: 208,
   characterClaims: "jsonl",
   aliasOf: "world-character/zel-shivertail",
+  createdAt: "2026-09-19T00:21:59.682Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

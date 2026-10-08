@@ -10,4 +10,6 @@ export const fierreMother = {
   firstChapter: 311,
   lastChapter: 311,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:55.383Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

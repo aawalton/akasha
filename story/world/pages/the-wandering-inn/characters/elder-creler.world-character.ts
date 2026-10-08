@@ -10,4 +10,6 @@ export const elderCreler = {
   firstChapter: 795,
   lastChapter: 795,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:30.864Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

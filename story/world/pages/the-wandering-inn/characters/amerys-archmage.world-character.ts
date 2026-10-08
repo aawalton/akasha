@@ -11,4 +11,6 @@ export const amerysArchmage = {
   lastChapter: 559,
   characterClaims: "jsonl",
   aliasOf: "world-character/amerys",
+  createdAt: "2026-09-19T00:18:32.308Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

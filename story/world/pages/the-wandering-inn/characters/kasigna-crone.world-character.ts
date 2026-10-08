@@ -11,4 +11,6 @@ export const kasignaCrone = {
   lastChapter: 741,
   characterClaims: "jsonl",
   aliasOf: "world-character/kasigna",
+  createdAt: "2026-09-19T00:22:35.735Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const captainLasc = {
   firstChapter: 417,
   lastChapter: 418,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:42.195Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

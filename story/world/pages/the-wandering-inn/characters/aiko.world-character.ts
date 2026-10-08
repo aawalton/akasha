@@ -11,4 +11,6 @@ export const aiko = {
   lastChapter: 317,
   characterClaims: "jsonl",
   aliasOf: "world-character/aiko-nonomura",
+  createdAt: "2026-09-19T00:18:30.568Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

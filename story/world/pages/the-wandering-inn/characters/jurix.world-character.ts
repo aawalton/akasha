@@ -10,4 +10,6 @@ export const jurix = {
   firstChapter: 162,
   lastChapter: 163,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:35.540Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

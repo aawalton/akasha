@@ -12,4 +12,6 @@ export const ilvriss = {
   lastChapter: 824,
   characterClaims: "jsonl",
   aliasOf: "world-character/ilvriss-gemscale",
+  createdAt: "2026-09-03T04:21:31.924Z",
+  updatedAt: "2026-09-25T15:41:02.000Z",
 } as const satisfies WorldCharacter

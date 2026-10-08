@@ -10,4 +10,6 @@ export const healerHekusha = {
   firstChapter: 812,
   lastChapter: 812,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:24.014Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const deni = {
   firstChapter: 616,
   lastChapter: 616,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:27.067Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

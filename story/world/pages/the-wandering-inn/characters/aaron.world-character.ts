@@ -11,4 +11,6 @@ export const aaron = {
   lastChapter: 771,
   characterClaims: "jsonl",
   aliasOf: "world-character/aaron-vanwell",
+  createdAt: "2026-09-19T00:18:28.766Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

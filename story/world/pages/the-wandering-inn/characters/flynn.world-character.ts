@@ -11,4 +11,6 @@ export const flynn = {
   lastChapter: 775,
   characterClaims: "jsonl",
   aliasOf: "world-character/flynn-patel",
+  createdAt: "2026-09-19T00:21:56.586Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const clothbinderLadyShaullile = {
   firstChapter: 799,
   lastChapter: 799,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:21.942Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

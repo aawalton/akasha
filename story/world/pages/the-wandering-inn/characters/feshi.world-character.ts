@@ -11,4 +11,6 @@ export const feshi = {
   lastChapter: 566,
   characterClaims: "jsonl",
   aliasOf: "world-character/feshi-weatherfur",
+  createdAt: "2026-09-19T00:21:54.162Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

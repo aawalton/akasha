@@ -10,4 +10,6 @@ export const dyeda = {
   firstChapter: 716,
   lastChapter: 747,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:29.732Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

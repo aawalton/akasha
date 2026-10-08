@@ -10,4 +10,6 @@ export const califorWeishart = {
   firstChapter: 362,
   lastChapter: 362,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:41.091Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

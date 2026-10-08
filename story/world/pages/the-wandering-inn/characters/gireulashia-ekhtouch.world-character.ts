@@ -10,4 +10,6 @@ export const gireulashiaEkhtouch = {
   firstChapter: 520,
   lastChapter: 520,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:01.692Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

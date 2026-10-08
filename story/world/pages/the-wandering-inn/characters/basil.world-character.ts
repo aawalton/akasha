@@ -10,4 +10,6 @@ export const basil = {
   firstChapter: 431,
   lastChapter: 431,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:36.048Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

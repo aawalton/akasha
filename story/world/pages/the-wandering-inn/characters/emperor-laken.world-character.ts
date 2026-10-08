@@ -10,4 +10,6 @@ export const emperorLaken = {
   firstChapter: 264,
   lastChapter: 264,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:48.784Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const andra = {
   firstChapter: 676,
   lastChapter: 814,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:18:32.655Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

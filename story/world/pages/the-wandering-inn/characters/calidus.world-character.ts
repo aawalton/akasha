@@ -11,4 +11,6 @@ export const calidus = {
   lastChapter: 819,
   characterClaims: "jsonl",
   aliasOf: "world-character/calidus-reinhart",
+  createdAt: "2026-09-19T00:18:40.744Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

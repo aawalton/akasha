@@ -6,4 +6,6 @@ export const otherwhereXiRosea = {
   slug: "otherwhere-xi-rosea",
   title: "Rosea",
   world: "world/the-calamitous-bob-stubbed",
+  createdAt: "2026-09-29T00:10:01.916Z",
+  updatedAt: "2026-09-29T00:10:14.000Z",
 } as const satisfies WorldCharacter

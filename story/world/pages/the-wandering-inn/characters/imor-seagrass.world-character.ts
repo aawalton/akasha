@@ -10,4 +10,6 @@ export const imorSeagrass = {
   firstChapter: 686,
   lastChapter: 686,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:29.398Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

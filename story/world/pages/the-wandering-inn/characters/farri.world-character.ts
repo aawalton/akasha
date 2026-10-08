@@ -11,4 +11,6 @@ export const farri = {
   lastChapter: 374,
   characterClaims: "jsonl",
   aliasOf: "world-character/farri-sightly",
+  createdAt: "2026-09-19T00:21:52.694Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const earlia = {
   firstChapter: 268,
   lastChapter: 708,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:29.787Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

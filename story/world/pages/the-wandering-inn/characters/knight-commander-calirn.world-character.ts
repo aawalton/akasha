@@ -10,4 +10,6 @@ export const knightCommanderCalirn = {
   firstChapter: 360,
   lastChapter: 490,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:54.824Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

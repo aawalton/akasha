@@ -10,4 +10,6 @@ export const hekra = {
   firstChapter: 106,
   lastChapter: 107,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:24.462Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

@@ -10,4 +10,6 @@ export const galina = {
   firstChapter: 109,
   lastChapter: 441,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:57.821Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

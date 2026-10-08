@@ -11,4 +11,6 @@ export const erinZombie = {
   lastChapter: 364,
   characterClaims: "jsonl",
   aliasOf: "world-character/erin-solstice",
+  createdAt: "2026-09-19T00:21:50.459Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

@@ -11,4 +11,6 @@ export const ceria = {
   lastChapter: 796,
   characterClaims: "jsonl",
   aliasOf: "world-character/ceria-springwalker",
+  createdAt: "2026-09-19T00:17:53.007Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter

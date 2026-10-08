@@ -10,4 +10,6 @@ export const faerieKing = {
   firstChapter: 480,
   lastChapter: 724,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:52.078Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

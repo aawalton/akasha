@@ -10,4 +10,6 @@ export const ferrisThycarl = {
   firstChapter: 394,
   lastChapter: 394,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:21:54.109Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

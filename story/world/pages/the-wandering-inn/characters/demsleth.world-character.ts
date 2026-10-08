@@ -11,4 +11,6 @@ export const demsleth = {
   lastChapter: 751,
   characterClaims: "jsonl",
   aliasOf: "world-character/teriarch",
+  createdAt: "2026-09-19T00:21:26.909Z",
+  updatedAt: "2026-09-22T13:09:18.000Z",
 } as const satisfies WorldCharacter

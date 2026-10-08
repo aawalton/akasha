@@ -11,4 +11,6 @@ export const hethon = {
   lastChapter: 656,
   characterClaims: "jsonl",
   aliasOf: "world-character/hethon-veltras",
+  createdAt: "2026-09-19T00:22:25.117Z",
+  updatedAt: "2026-09-22T13:09:26.000Z",
 } as const satisfies WorldCharacter

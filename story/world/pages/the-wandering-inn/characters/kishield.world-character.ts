@@ -10,4 +10,6 @@ export const kishield = {
   firstChapter: 345,
   lastChapter: 345,
   characterClaims: "jsonl",
+  createdAt: "2026-09-19T00:22:54.503Z",
+  updatedAt: "2026-09-22T13:09:33.000Z",
 } as const satisfies WorldCharacter

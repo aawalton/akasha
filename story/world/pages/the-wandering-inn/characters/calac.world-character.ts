@@ -11,4 +11,6 @@ export const calac = {
   lastChapter: 370,
   characterClaims: "jsonl",
   aliasOf: "world-character/calac-crusland",
+  createdAt: "2026-09-19T00:18:40.375Z",
+  updatedAt: "2026-09-22T13:09:11.000Z",
 } as const satisfies WorldCharacter
