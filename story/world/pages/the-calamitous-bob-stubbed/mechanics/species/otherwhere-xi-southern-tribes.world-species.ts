@@ -7,4 +7,6 @@ export const otherwhereXiSouthernTribes = {
   title: "Southern Tribes",
   world: "world/the-calamitous-bob-stubbed",
   description: "Tribal humans of the southern wildlands who wear beast skins.",
+  createdAt: "2026-09-29T00:04:39.109Z",
+  updatedAt: "2026-09-29T00:04:43.000Z",
 } as const satisfies WorldSpecies

@@ -8,4 +8,6 @@ export const superSupportiveTreadmillZone = {
   world: "world/super-supportive",
   aliases: ["trap zone", "treadmill trap"],
   description: "A trap zone in which a person runs without moving forward.",
+  createdAt: "2026-09-28T21:41:02.872Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSpell

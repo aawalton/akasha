@@ -7,4 +7,6 @@ export const superSupportiveIlket = {
   title: "ilket",
   world: "world/super-supportive",
   description: "A technologically advanced species that hates magic.",
+  createdAt: "2026-09-28T21:44:15.781Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldSpecies

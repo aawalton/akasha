@@ -7,4 +7,6 @@ export const otherwhereIxCaveBat = {
   title: "Cave Bat",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A large, wind-beating cave bat.",
+  createdAt: "2026-09-28T22:50:50.816Z",
+  updatedAt: "2026-09-28T22:50:54.000Z",
 } as const satisfies WorldSpecies

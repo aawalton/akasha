@@ -7,4 +7,6 @@ export const otherwhereIxApostleAmalgam = {
   title: "Apostle amalgam",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A monster a god fuses from slain bodies and fills with divine power.",
+  createdAt: "2026-09-28T22:49:52.240Z",
+  updatedAt: "2026-09-28T22:49:57.000Z",
 } as const satisfies WorldSpecies

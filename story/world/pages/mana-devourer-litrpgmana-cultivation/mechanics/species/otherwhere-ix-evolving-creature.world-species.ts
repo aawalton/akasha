@@ -7,4 +7,6 @@ export const otherwhereIxEvolvingCreature = {
   title: "Evolving creature",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A made monster that grows new powers as it feeds.",
+  createdAt: "2026-09-28T22:52:03.331Z",
+  updatedAt: "2026-09-28T22:52:08.000Z",
 } as const satisfies WorldSpecies

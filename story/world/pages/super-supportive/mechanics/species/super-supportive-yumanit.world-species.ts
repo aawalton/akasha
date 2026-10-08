@@ -7,4 +7,6 @@ export const superSupportiveYumanit = {
   title: "Yumanit",
   world: "world/super-supportive",
   description: "A species with the concept of momentary names.",
+  createdAt: "2026-09-28T21:44:15.781Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldSpecies

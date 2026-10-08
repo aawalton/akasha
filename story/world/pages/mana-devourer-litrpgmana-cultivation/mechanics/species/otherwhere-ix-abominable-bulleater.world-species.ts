@@ -7,4 +7,6 @@ export const otherwhereIxAbominableBulleater = {
   title: "Abominable Bulleater",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A huge, hippo-bodied beast attuned to ice.",
+  createdAt: "2026-09-28T22:48:45.612Z",
+  updatedAt: "2026-09-28T22:48:53.000Z",
 } as const satisfies WorldSpecies

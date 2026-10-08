@@ -8,4 +8,6 @@ export const superSupportiveSweecha = {
   world: "world/super-supportive",
   description:
     "A speckle-furred, mouse-sized creature with tufted ears that clings to vines and calls its own name.",
+  createdAt: "2026-09-28T21:47:30.307Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldSpecies

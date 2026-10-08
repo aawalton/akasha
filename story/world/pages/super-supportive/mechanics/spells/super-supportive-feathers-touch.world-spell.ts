@@ -8,4 +8,6 @@ export const superSupportiveFeathersTouch = {
   world: "world/super-supportive",
   description:
     "A wordchain whose one half makes skin extremely sensitive and whose other half makes it numb.",
+  createdAt: "2026-09-28T21:36:47.943Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldSpell

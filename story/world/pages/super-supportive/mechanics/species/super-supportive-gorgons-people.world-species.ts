@@ -7,4 +7,6 @@ export const superSupportiveGorgonsPeople = {
   title: "Gorgon's people",
   world: "world/super-supportive",
   description: "A species with gray skin, black eyes and horns.",
+  createdAt: "2026-09-28T21:34:46.746Z",
+  updatedAt: "2026-09-28T21:34:49.000Z",
 } as const satisfies WorldSpecies

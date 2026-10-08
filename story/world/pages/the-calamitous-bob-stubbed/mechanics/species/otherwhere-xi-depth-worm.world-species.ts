@@ -7,4 +7,6 @@ export const otherwhereXiDepthWorm = {
   title: "Depth Worm",
   world: "world/the-calamitous-bob-stubbed",
   description: "A huge undead worm that lairs in old sewers.",
+  createdAt: "2026-09-29T00:08:14.289Z",
+  updatedAt: "2026-09-29T00:08:22.000Z",
 } as const satisfies WorldSpecies

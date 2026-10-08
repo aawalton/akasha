@@ -7,4 +7,6 @@ export const otherwhereIxFeralGoblin = {
   title: "Feral goblin",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A small, wild, clawed humanoid monster.",
+  createdAt: "2026-09-28T22:52:16.845Z",
+  updatedAt: "2026-09-28T22:52:25.000Z",
 } as const satisfies WorldSpecies

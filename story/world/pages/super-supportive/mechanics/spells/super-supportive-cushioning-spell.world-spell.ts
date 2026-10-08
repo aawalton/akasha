@@ -7,4 +7,6 @@ export const superSupportiveCushioningSpell = {
   title: "cushioning spell",
   world: "world/super-supportive",
   description: "A wizard spell that makes a soft cushion like a slowly sinking marshmallow.",
+  createdAt: "2026-09-28T21:41:54.413Z",
+  updatedAt: "2026-09-28T21:53:04.000Z",
 } as const satisfies WorldSpell

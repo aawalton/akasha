@@ -7,4 +7,6 @@ export const otherwhereXiDarkScaledStalker = {
   title: "Dark-Scaled Stalker",
   world: "world/the-calamitous-bob-stubbed",
   description: "A large black lizard that hunts by stealth.",
+  createdAt: "2026-09-29T00:14:10.335Z",
+  updatedAt: "2026-09-29T00:14:16.000Z",
 } as const satisfies WorldSpecies

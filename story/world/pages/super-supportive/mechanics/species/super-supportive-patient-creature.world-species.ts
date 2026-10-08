@@ -8,4 +8,6 @@ export const superSupportivePatientCreature = {
   world: "world/super-supportive",
   description:
     "A spiny urchin-like river creature whose young are glowing, transparent jelly-butterflies.",
+  createdAt: "2026-09-28T21:47:30.307Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldSpecies

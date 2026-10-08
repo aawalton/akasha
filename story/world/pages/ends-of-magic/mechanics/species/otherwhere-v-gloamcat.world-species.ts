@@ -7,4 +7,6 @@ export const otherwhereVGloamcat = {
   title: "Gloamcat",
   world: "world/ends-of-magic",
   description: "A lynx-sized grey forest cat.",
+  createdAt: "2026-09-28T21:40:48.319Z",
+  updatedAt: "2026-09-28T21:47:22.000Z",
 } as const satisfies WorldSpecies

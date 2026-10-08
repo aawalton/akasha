@@ -7,4 +7,6 @@ export const otherwhereIxCarrionHawk = {
   title: "Carrion Hawk",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A broad-winged bird that circles high and feeds on the dead.",
+  createdAt: "2026-09-29T03:26:55.161Z",
+  updatedAt: "2026-09-29T03:26:59.000Z",
 } as const satisfies WorldSpecies

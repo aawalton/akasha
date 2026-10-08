@@ -7,4 +7,6 @@ export const otherwhereXiAntMonster = {
   title: "Ant Monster",
   world: "world/the-calamitous-bob-stubbed",
   description: "A giant ant-like monster of the desert.",
+  createdAt: "2026-09-29T00:16:13.713Z",
+  updatedAt: "2026-09-29T00:16:21.000Z",
 } as const satisfies WorldSpecies

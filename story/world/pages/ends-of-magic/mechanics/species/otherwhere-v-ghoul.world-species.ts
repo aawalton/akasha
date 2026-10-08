@@ -7,4 +7,6 @@ export const otherwhereVGhoul = {
   title: "Ghoul",
   world: "world/ends-of-magic",
   description: "A dreaded monster.",
+  createdAt: "2026-09-28T21:44:05.336Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldSpecies

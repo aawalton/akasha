@@ -7,4 +7,6 @@ export const superSupportiveInvisibleStaircaseSpell = {
   title: "invisible staircase spell",
   world: "world/super-supportive",
   description: "A wizard spell that makes its targets climb invisible stairs up into the air.",
+  createdAt: "2026-09-28T21:41:54.414Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

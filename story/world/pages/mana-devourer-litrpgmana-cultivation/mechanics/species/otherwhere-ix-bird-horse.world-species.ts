@@ -7,4 +7,6 @@ export const otherwhereIxBirdHorse = {
   title: "Bird-horse",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A four-legged, feathered, beaked beast that can fly.",
+  createdAt: "2026-09-28T22:50:26.965Z",
+  updatedAt: "2026-09-28T22:50:33.000Z",
 } as const satisfies WorldSpecies

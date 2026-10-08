@@ -7,4 +7,6 @@ export const otherwhereXiGolems = {
   title: "Golems",
   world: "world/the-calamitous-bob-stubbed",
   description: "A made body of metal or bone that moves by itself.",
+  createdAt: "2026-09-29T00:03:21.782Z",
+  updatedAt: "2026-09-29T00:03:25.000Z",
 } as const satisfies WorldSpecies

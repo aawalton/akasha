@@ -7,4 +7,6 @@ export const otherwhereVWolfman = {
   title: "Wolfman",
   world: "world/ends-of-magic",
   description: "A furred, upright, wolf-like people.",
+  createdAt: "2026-09-28T21:37:21.187Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldSpecies

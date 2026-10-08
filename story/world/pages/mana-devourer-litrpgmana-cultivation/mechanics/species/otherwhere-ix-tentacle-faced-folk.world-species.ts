@@ -7,4 +7,6 @@ export const otherwhereIxTentacleFacedFolk = {
   title: "Tentacle-faced folk",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A purple humanoid people with tentacles on the face.",
+  createdAt: "2026-09-28T22:52:16.846Z",
+  updatedAt: "2026-09-28T22:52:25.000Z",
 } as const satisfies WorldSpecies

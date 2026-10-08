@@ -7,4 +7,6 @@ export const otherwhereVDragonwolf = {
   title: "Dragonwolf",
   world: "world/ends-of-magic",
   description: "A fire-breathing wolf-like predator.",
+  createdAt: "2026-09-28T21:42:57.887Z",
+  updatedAt: "2026-09-28T21:43:00.000Z",
 } as const satisfies WorldSpecies

@@ -7,4 +7,6 @@ export const otherwhereXSpeedReading = {
   title: "Speed Reading",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Reading fast and keeping hold of what was read.",
+  createdAt: "2026-09-29T00:09:39.782Z",
+  updatedAt: "2026-09-29T00:09:45.000Z",
 } as const satisfies WorldSkill

@@ -7,4 +7,6 @@ export const superSupportiveThunderGarden = {
   title: "Thunder Garden",
   world: "world/super-supportive",
   description: "An electricity spell impression.",
+  createdAt: "2026-09-28T21:41:54.414Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

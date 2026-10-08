@@ -8,4 +8,6 @@ export const superSupportiveHusenot = {
   world: "world/super-supportive",
   aliases: ["rock creatures"],
   description: "A little colorful animal that looks like a rock and pretends to be one for days.",
+  createdAt: "2026-09-28T21:44:15.780Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldSpecies

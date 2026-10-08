@@ -9,4 +9,6 @@ export const superSupportiveFanSpell = {
   aliases: ["fan-cast spell"],
   description:
     "A spell cast with a folding fan and a final sweep that intensifies a feeling in the target.",
+  createdAt: "2026-09-28T21:43:55.444Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldSpell

@@ -7,4 +7,6 @@ export const otherwhereVFey = {
   title: "Fey",
   world: "world/ends-of-magic",
   description: "A folk of old tales and sayings.",
+  createdAt: "2026-09-28T21:39:01.890Z",
+  updatedAt: "2026-09-28T21:39:06.000Z",
 } as const satisfies WorldSpecies

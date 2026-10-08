@@ -7,4 +7,6 @@ export const otherwhereXiDragons = {
   title: "Dragons",
   world: "world/the-calamitous-bob-stubbed",
   description: "A great winged, scaled reptile that breathes fire.",
+  createdAt: "2026-09-29T00:03:21.782Z",
+  updatedAt: "2026-09-29T00:03:25.000Z",
 } as const satisfies WorldSpecies

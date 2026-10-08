@@ -7,4 +7,6 @@ export const superSupportiveBokabv = {
   title: "bokabv",
   world: "world/super-supportive",
   description: "A shy herd creature of Thegund with an excellent sense of smell and glowing drool.",
+  createdAt: "2026-09-28T21:44:15.780Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldSpecies

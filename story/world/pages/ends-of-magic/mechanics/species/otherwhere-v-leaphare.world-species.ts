@@ -7,4 +7,6 @@ export const otherwhereVLeaphare = {
   title: "Leaphare",
   world: "world/ends-of-magic",
   description: "A long-legged grey-brown hare.",
+  createdAt: "2026-09-28T22:00:22.082Z",
+  updatedAt: "2026-09-28T22:00:24.000Z",
 } as const satisfies WorldSpecies

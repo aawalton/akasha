@@ -7,4 +7,6 @@ export const otherwhereVLich = {
   title: "Lich",
   world: "world/ends-of-magic",
   description: "An undead mage.",
+  createdAt: "2026-09-28T21:46:25.247Z",
+  updatedAt: "2026-09-28T21:46:28.000Z",
 } as const satisfies WorldSpecies

@@ -6,4 +6,6 @@ export const tiebreakingVoteMonthly = {
   slug: "tiebreaking-vote-monthly",
   title: "Tiebreaking Vote (Monthly)",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.741Z",
+  updatedAt: "2026-09-19T16:49:07.000Z",
 } as const satisfies WorldSkill

@@ -8,4 +8,6 @@ export const superSupportiveTerackerin = {
   world: "world/super-supportive",
   description:
     "A rideable aquatic animal with a dark blue back, catfish-like head and paddle fins.",
+  createdAt: "2026-09-28T21:47:30.307Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldSpecies

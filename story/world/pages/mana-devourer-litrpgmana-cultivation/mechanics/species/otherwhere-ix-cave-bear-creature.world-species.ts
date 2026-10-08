@@ -7,4 +7,6 @@ export const otherwhereIxCaveBearCreature = {
   title: "Cave Bear-Creature",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A long-legged, bear-like cave quadruped.",
+  createdAt: "2026-09-28T22:53:40.122Z",
+  updatedAt: "2026-09-28T22:53:53.000Z",
 } as const satisfies WorldSpecies

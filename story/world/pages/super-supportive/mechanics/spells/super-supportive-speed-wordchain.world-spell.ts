@@ -9,4 +9,6 @@ export const superSupportiveSpeedWordchain = {
   aliases: ["mild speed booster"],
   description:
     "A wordchain that gives a small boost to speed, like instantly gaining a few foundation points in Speed.",
+  createdAt: "2026-09-28T21:45:47.111Z",
+  updatedAt: "2026-09-28T21:45:51.000Z",
 } as const satisfies WorldSpell

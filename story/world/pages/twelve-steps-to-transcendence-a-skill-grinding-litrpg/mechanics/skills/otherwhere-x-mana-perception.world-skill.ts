@@ -7,4 +7,6 @@ export const otherwhereXManaPerception = {
   title: "Mana Perception",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A skill that widens one's awareness of mana.",
+  createdAt: "2026-09-29T00:02:40.903Z",
+  updatedAt: "2026-09-29T01:43:00.000Z",
 } as const satisfies WorldSkill

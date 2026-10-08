@@ -7,4 +7,6 @@ export const otherwhereVFlyingFish = {
   title: "Flying Fish",
   world: "world/ends-of-magic",
   description: "A flying fish with red spots under its eyes.",
+  createdAt: "2026-09-28T21:45:08.390Z",
+  updatedAt: "2026-09-28T22:03:58.000Z",
 } as const satisfies WorldSpecies

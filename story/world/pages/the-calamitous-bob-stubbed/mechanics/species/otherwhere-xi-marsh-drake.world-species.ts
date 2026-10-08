@@ -7,4 +7,6 @@ export const otherwhereXiMarshDrake = {
   title: "Marsh Drake",
   world: "world/the-calamitous-bob-stubbed",
   description: "A small fire-breathing reptile of the marshes.",
+  createdAt: "2026-09-29T00:14:10.336Z",
+  updatedAt: "2026-09-29T00:14:16.000Z",
 } as const satisfies WorldSpecies

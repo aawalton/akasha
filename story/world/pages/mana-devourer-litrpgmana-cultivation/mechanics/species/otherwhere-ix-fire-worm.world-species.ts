@@ -7,4 +7,6 @@ export const otherwhereIxFireWorm = {
   title: "Fire worm",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A huge, burrowing, fire-breathing worm.",
+  createdAt: "2026-09-28T22:49:18.844Z",
+  updatedAt: "2026-09-28T22:49:27.000Z",
 } as const satisfies WorldSpecies

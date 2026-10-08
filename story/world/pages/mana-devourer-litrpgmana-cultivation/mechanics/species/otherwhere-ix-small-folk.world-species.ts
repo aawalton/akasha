@@ -7,4 +7,6 @@ export const otherwhereIxSmallFolk = {
   title: "Small folk",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A small, near-human people.",
+  createdAt: "2026-09-28T22:50:52.564Z",
+  updatedAt: "2026-09-28T22:50:57.000Z",
 } as const satisfies WorldSpecies

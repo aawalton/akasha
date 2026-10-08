@@ -7,4 +7,6 @@ export const otherwhereXTaleTelling = {
   title: "Tale Telling",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "Holding a room with a told story.",
+  createdAt: "2026-09-29T01:47:43.417Z",
+  updatedAt: "2026-09-29T01:47:49.000Z",
 } as const satisfies WorldSkill

@@ -8,4 +8,6 @@ export const superSupportiveTheEyeOfAThousandInstants = {
   world: "world/super-supportive",
   description:
     "An old wordchain of twenty words and gestures that gives long-distance vision for a moment.",
+  createdAt: "2026-09-28T21:41:54.414Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

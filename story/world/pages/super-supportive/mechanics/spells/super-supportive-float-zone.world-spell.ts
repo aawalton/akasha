@@ -7,4 +7,6 @@ export const superSupportiveFloatZone = {
   title: "float zone",
   world: "world/super-supportive",
   description: "A zone spell impression that works like an invisible swimming pool.",
+  createdAt: "2026-09-28T21:41:02.872Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSpell

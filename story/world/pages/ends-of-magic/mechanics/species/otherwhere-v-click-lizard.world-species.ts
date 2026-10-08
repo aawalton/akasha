@@ -7,4 +7,6 @@ export const otherwhereVClickLizard = {
   title: "Click-lizard",
   world: "world/ends-of-magic",
   description: "A finger-long grey-green lizard.",
+  createdAt: "2026-09-28T21:58:36.350Z",
+  updatedAt: "2026-09-28T21:58:38.000Z",
 } as const satisfies WorldSpecies

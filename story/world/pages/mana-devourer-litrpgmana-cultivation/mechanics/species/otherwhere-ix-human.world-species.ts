@@ -7,4 +7,6 @@ export const otherwhereIxHuman = {
   title: "Human",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A people found on Firrelia and on other worlds.",
+  createdAt: "2026-09-28T22:48:32.391Z",
+  updatedAt: "2026-09-28T22:48:38.000Z",
 } as const satisfies WorldSpecies

@@ -7,4 +7,6 @@ export const otherwhereXiFleshWalker = {
   title: "Flesh Walker",
   world: "world/the-calamitous-bob-stubbed",
   description: "A lumbering mass of flesh with pits for mouths.",
+  createdAt: "2026-09-29T00:08:14.289Z",
+  updatedAt: "2026-09-29T00:08:22.000Z",
 } as const satisfies WorldSpecies

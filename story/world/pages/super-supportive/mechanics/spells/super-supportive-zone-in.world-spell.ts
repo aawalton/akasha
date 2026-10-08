@@ -8,4 +8,6 @@ export const superSupportiveZoneIn = {
   world: "world/super-supportive",
   aliases: ["focus chain"],
   description: "A wordchain that sharpens mental focus.",
+  createdAt: "2026-09-28T21:41:54.414Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

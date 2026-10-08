@@ -7,4 +7,6 @@ export const otherwhereXSenseLie = {
   title: "Sense Lie",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A skill that senses when someone lies.",
+  createdAt: "2026-09-29T00:04:30.875Z",
+  updatedAt: "2026-09-29T01:43:00.000Z",
 } as const satisfies WorldSkill

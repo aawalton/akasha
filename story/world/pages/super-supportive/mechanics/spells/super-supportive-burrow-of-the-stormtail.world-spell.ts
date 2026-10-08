@@ -8,4 +8,6 @@ export const superSupportiveBurrowOfTheStormtail = {
   world: "world/super-supportive",
   aliases: ["Burrow of the Raintail"],
   description: "A masterpiece ward named after an animal.",
+  createdAt: "2026-09-28T21:43:55.444Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldSpell

@@ -8,4 +8,6 @@ export const superSupportiveZansee = {
   world: "world/super-supportive",
   aliases: ["shiny water bugs"],
   description: "Fast metallic stream bugs that flash light at night.",
+  createdAt: "2026-09-28T21:44:15.781Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldSpecies

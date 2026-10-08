@@ -8,4 +8,6 @@ export const superSupportiveHuman = {
   world: "world/super-supportive",
   aliases: ["Earthling"],
   description: "The people of Earth.",
+  createdAt: "2026-09-28T21:34:46.746Z",
+  updatedAt: "2026-09-28T21:34:49.000Z",
 } as const satisfies WorldSpecies

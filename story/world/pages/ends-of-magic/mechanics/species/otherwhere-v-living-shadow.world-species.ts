@@ -7,4 +7,6 @@ export const otherwhereVLivingShadow = {
   title: "Living Shadow",
   world: "world/ends-of-magic",
   description: "A flat black shadow creature.",
+  createdAt: "2026-09-28T21:46:57.669Z",
+  updatedAt: "2026-09-28T22:03:58.000Z",
 } as const satisfies WorldSpecies

@@ -7,4 +7,6 @@ export const superSupportivePurposefulness = {
   title: "Purposefulness",
   world: "world/super-supportive",
   description: "A wordchain that seems to improve focus.",
+  createdAt: "2026-09-28T21:36:47.945Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldSpell

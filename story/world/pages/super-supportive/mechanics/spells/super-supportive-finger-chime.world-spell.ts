@@ -7,4 +7,6 @@ export const superSupportiveFingerChime = {
   title: "Finger chime",
   world: "world/super-supportive",
   description: 'A tiny spell that makes a clear "tinnng", abbreviated to bending one finger.',
+  createdAt: "2026-09-28T21:43:02.946Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldSpell

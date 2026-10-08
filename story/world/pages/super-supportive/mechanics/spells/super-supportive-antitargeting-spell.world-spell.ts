@@ -7,4 +7,6 @@ export const superSupportiveAntitargetingSpell = {
   title: "antitargeting spell",
   world: "world/super-supportive",
   description: "An Adjuster spell that hinders being targeted.",
+  createdAt: "2026-09-28T21:41:02.872Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSpell

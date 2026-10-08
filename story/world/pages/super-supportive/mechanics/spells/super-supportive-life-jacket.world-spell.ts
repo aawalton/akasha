@@ -8,4 +8,6 @@ export const superSupportiveLifeJacket = {
   world: "world/super-supportive",
   aliases: ["life jacket spell", "Life Jacket spell impression"],
   description: "A spell impression that makes whoever or whatever it is cast on float.",
+  createdAt: "2026-09-28T21:41:02.872Z",
+  updatedAt: "2026-09-28T21:41:06.000Z",
 } as const satisfies WorldSpell

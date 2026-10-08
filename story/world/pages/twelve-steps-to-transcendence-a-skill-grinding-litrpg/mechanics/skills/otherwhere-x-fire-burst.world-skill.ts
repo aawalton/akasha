@@ -7,4 +7,6 @@ export const otherwhereXFireBurst = {
   title: "Fire Burst",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A fire skill that sets off explosive bursts of flame.",
+  createdAt: "2026-09-29T00:03:29.444Z",
+  updatedAt: "2026-09-29T01:43:00.000Z",
 } as const satisfies WorldSkill

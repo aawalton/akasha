@@ -7,4 +7,6 @@ export const otherwhereVSpiderMonster = {
   title: "Spider Monster",
   world: "world/ends-of-magic",
   description: "A spider-like mutant monster.",
+  createdAt: "2026-09-28T21:50:09.214Z",
+  updatedAt: "2026-09-28T21:51:08.000Z",
 } as const satisfies WorldSpecies

@@ -8,4 +8,6 @@ export const superSupportiveFlashFreezingSpell = {
   world: "world/super-supportive",
   aliases: ["freezing spell", "the popsicle maker"],
   description: "An auriad spell that freezes water.",
+  createdAt: "2026-09-28T21:41:54.413Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

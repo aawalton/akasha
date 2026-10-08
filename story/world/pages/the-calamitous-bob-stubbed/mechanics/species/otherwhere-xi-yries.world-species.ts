@@ -7,4 +7,6 @@ export const otherwhereXiYries = {
   title: "Yries",
   world: "world/the-calamitous-bob-stubbed",
   description: "An owl-like people with long ears and big eyes.",
+  createdAt: "2026-09-29T00:01:05.592Z",
+  updatedAt: "2026-09-29T00:01:12.000Z",
 } as const satisfies WorldSpecies

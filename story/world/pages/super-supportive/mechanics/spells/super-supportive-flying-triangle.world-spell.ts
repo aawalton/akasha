@@ -8,4 +8,6 @@ export const superSupportiveFlyingTriangle = {
   world: "world/super-supportive",
   aliases: ["cutting spell", "flying dagger of force"],
   description: "An auriad spell that sends a triangle of magic flying like a dagger.",
+  createdAt: "2026-09-28T21:41:54.413Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

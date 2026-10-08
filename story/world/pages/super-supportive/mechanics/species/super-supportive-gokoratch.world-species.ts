@@ -8,4 +8,6 @@ export const superSupportiveGokoratch = {
   world: "world/super-supportive",
   aliases: ["gokoratches"],
   description: "A loud, foul-smelling parrotlike creature known for eating its nestmates.",
+  createdAt: "2026-09-28T21:44:15.780Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldSpecies

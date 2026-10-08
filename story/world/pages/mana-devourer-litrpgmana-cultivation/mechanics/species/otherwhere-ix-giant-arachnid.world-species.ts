@@ -7,4 +7,6 @@ export const otherwhereIxGiantArachnid = {
   title: "Giant arachnid",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A huge spider-like monster of the deep caves.",
+  createdAt: "2026-09-28T22:50:26.965Z",
+  updatedAt: "2026-09-28T22:50:33.000Z",
 } as const satisfies WorldSpecies

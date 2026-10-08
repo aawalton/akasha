@@ -7,4 +7,6 @@ export const otherwhereXiWalkingTree = {
   title: "Walking Tree",
   world: "world/the-calamitous-bob-stubbed",
   description: "A tree that uproots itself and walks.",
+  createdAt: "2026-09-29T00:14:10.336Z",
+  updatedAt: "2026-09-29T00:14:16.000Z",
 } as const satisfies WorldSpecies

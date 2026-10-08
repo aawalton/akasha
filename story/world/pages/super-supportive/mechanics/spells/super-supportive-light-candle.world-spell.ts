@@ -8,4 +8,6 @@ export const superSupportiveLightCandle = {
   world: "world/super-supportive",
   aliases: ["promise stick lighting spell", "candle lighting spell"],
   description: "An F-rank spell for making small flames.",
+  createdAt: "2026-09-28T21:36:47.944Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldSpell

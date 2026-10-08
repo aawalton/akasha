@@ -7,4 +7,6 @@ export const otherwhereXiAntalisQueen = {
   title: "Antalis Queen",
   world: "world/the-calamitous-bob-stubbed",
   description: "A huge beast with a back like a rocky ridge.",
+  createdAt: "2026-09-29T00:15:09.948Z",
+  updatedAt: "2026-09-29T00:15:24.000Z",
 } as const satisfies WorldSpecies

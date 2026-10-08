@@ -8,4 +8,6 @@ export const superSupportiveDemon = {
   world: "world/super-supportive",
   aliases: ["true demons"],
   description: "A monster made of pure chaos.",
+  createdAt: "2026-09-28T21:34:46.746Z",
+  updatedAt: "2026-09-28T21:34:49.000Z",
 } as const satisfies WorldSpecies

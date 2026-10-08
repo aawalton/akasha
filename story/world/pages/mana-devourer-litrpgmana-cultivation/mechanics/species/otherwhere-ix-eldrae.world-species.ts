@@ -7,4 +7,6 @@ export const otherwhereIxEldrae = {
   title: "Eldrae",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A centaur-like people, beast below and humanoid above.",
+  createdAt: "2026-09-28T22:51:41.945Z",
+  updatedAt: "2026-09-28T22:51:47.000Z",
 } as const satisfies WorldSpecies

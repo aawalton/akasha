@@ -7,4 +7,6 @@ export const superSupportiveGlazeObject = {
   title: "Glaze Object",
   world: "world/super-supportive",
   description: "An Adjuster spell that coats a targeted object completely in ice.",
+  createdAt: "2026-09-28T21:36:47.943Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldSpell

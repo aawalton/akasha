@@ -7,4 +7,6 @@ export const otherwhereVEarthBorn = {
   title: "Earth-Born",
   world: "world/ends-of-magic",
   description: "A human from Earth.",
+  createdAt: "2026-09-28T21:41:02.100Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldSpecies

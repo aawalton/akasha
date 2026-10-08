@@ -8,4 +8,6 @@ export const shadowFamiliars = {
   world: "world/the-wandering-inn",
   appearanceCount: 3,
   references: "jsonl",
+  createdAt: "2026-09-03T03:39:53.863Z",
+  updatedAt: "2026-09-22T13:33:50.000Z",
 } as const satisfies WorldSpecies

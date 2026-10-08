@@ -7,4 +7,6 @@ export const otherwhereVHarpy = {
   title: "Harpy",
   world: "world/ends-of-magic",
   description: "A monster known across Davrar.",
+  createdAt: "2026-09-28T21:44:05.336Z",
+  updatedAt: "2026-09-28T22:03:58.000Z",
 } as const satisfies WorldSpecies

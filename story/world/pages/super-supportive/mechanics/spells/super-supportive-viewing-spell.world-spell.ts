@@ -8,4 +8,6 @@ export const superSupportiveViewingSpell = {
   world: "world/super-supportive",
   aliases: ["view spell"],
   description: "A spell that sets up a short-lived viewpoint for watching a place.",
+  createdAt: "2026-09-28T21:41:54.414Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

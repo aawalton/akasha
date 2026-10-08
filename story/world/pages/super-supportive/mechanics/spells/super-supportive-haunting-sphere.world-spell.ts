@@ -8,4 +8,6 @@ export const superSupportiveHauntingSphere = {
   world: "world/super-supportive",
   aliases: ["The Haunting Sphere"],
   description: "A D-rank spell impression that makes a temper sphere turn invisible and scream.",
+  createdAt: "2026-09-28T21:36:47.943Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldSpell

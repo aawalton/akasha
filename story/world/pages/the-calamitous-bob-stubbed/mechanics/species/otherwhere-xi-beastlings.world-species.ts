@@ -7,4 +7,6 @@ export const otherwhereXiBeastlings = {
   title: "Beastlings",
   world: "world/the-calamitous-bob-stubbed",
   description: "A wild, bestial people that roams in tribes and hordes.",
+  createdAt: "2026-09-29T00:03:21.782Z",
+  updatedAt: "2026-09-29T00:03:25.000Z",
 } as const satisfies WorldSpecies

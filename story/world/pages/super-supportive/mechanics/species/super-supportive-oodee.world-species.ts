@@ -8,4 +8,6 @@ export const superSupportiveOodee = {
   world: "world/super-supportive",
   description:
     "A farmed ostrich-like bird with long tendril tail feathers, known for its laugh-like calls.",
+  createdAt: "2026-09-28T21:47:30.307Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldSpecies

@@ -6,4 +6,6 @@ export const boundSpellMassSlowTimeMinor = {
   slug: "bound-spell-mass-slow-time-minor",
   title: "Bound Spell – Mass Slow Time (Minor)",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:06:43.383Z",
+  updatedAt: "2026-09-19T16:21:06.000Z",
 } as const satisfies WorldSpell

@@ -7,4 +7,6 @@ export const otherwhereIxWallParasite = {
   title: "Wall Parasite",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A grey, slimy parasite that hides in walls.",
+  createdAt: "2026-09-28T22:52:16.265Z",
+  updatedAt: "2026-09-28T22:52:24.000Z",
 } as const satisfies WorldSpecies

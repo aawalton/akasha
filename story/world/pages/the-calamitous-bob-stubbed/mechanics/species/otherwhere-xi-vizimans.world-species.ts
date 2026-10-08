@@ -7,4 +7,6 @@ export const otherwhereXiVizimans = {
   title: "Vizimans",
   world: "world/the-calamitous-bob-stubbed",
   description: "Dusky-skinned, dark-haired humans from across the sea.",
+  createdAt: "2026-09-29T00:04:39.109Z",
+  updatedAt: "2026-09-29T00:04:43.000Z",
 } as const satisfies WorldSpecies

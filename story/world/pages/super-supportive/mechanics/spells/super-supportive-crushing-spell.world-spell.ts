@@ -9,4 +9,6 @@ export const superSupportiveCrushingSpell = {
   aliases: ["hydraulic press spell", "sphere crush", "pancake crush"],
   description:
     'A short-range auriad spell that crushes an apple-sized area, rated for "even a stubborn stone".',
+  createdAt: "2026-09-28T21:36:47.943Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldSpell

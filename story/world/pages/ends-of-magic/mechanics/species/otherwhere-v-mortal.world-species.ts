@@ -7,4 +7,6 @@ export const otherwhereVMortal = {
   title: "Mortal",
   world: "world/ends-of-magic",
   description: "A thinking being without immortality.",
+  createdAt: "2026-09-28T21:40:35.713Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldSpecies

@@ -7,4 +7,6 @@ export const superSupportiveTrenxopBeetle = {
   title: "Trenxop beetle",
   world: "world/super-supportive",
   description: "A livestock animal like a big mole cricket.",
+  createdAt: "2026-09-28T21:34:46.746Z",
+  updatedAt: "2026-09-28T21:34:49.000Z",
 } as const satisfies WorldSpecies

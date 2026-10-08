@@ -7,4 +7,6 @@ export const otherwhereXiShadowlanders = {
   title: "Shadowlanders",
   world: "world/the-calamitous-bob-stubbed",
   description: "Ashen-skinned humans of the eastern island chain.",
+  createdAt: "2026-09-29T00:04:39.109Z",
+  updatedAt: "2026-09-29T00:04:43.000Z",
 } as const satisfies WorldSpecies

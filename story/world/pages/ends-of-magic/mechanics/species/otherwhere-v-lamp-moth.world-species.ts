@@ -7,4 +7,6 @@ export const otherwhereVLampMoth = {
   title: "Lamp-moth",
   world: "world/ends-of-magic",
   description: "A palm-sized moth with a green-glowing body.",
+  createdAt: "2026-09-28T21:58:36.350Z",
+  updatedAt: "2026-09-28T21:58:38.000Z",
 } as const satisfies WorldSpecies

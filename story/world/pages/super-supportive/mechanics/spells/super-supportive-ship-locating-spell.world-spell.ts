@@ -9,4 +9,6 @@ export const superSupportiveShipLocatingSpell = {
   aliases: ["named-object locator", "spell impression for finding oft-named objects"],
   description:
     "A spell impression that finds an object with a unique enough name in the caster's body of water.",
+  createdAt: "2026-09-28T21:41:54.414Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

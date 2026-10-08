@@ -8,4 +8,6 @@ export const superSupportiveMissingKnightSearch = {
   world: "world/super-supportive",
   description:
     "Magic for finding a lost knight from samples of the area, an amplifier of their origin, and a hand-made map.",
+  createdAt: "2026-09-28T21:43:55.444Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldSpell

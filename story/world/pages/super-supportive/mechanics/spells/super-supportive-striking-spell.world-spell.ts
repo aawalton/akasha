@@ -8,4 +8,6 @@ export const superSupportiveStrikingSpell = {
   world: "world/super-supportive",
   aliases: ["Slip, slip, slip"],
   description: "A sung spell that travels through walls to a known target and strikes it.",
+  createdAt: "2026-09-28T21:43:02.947Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldSpell

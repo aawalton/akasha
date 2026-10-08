@@ -7,4 +7,6 @@ export const otherwhereVElkCentaur = {
   title: "Elk-Centaur",
   world: "world/ends-of-magic",
   description: "A thinking people with an elk's body and a man's torso.",
+  createdAt: "2026-09-28T21:37:57.320Z",
+  updatedAt: "2026-09-28T21:38:00.000Z",
 } as const satisfies WorldSpecies

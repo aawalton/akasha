@@ -7,4 +7,6 @@ export const otherwhereXiBlightGrub = {
   title: "Blight Grub",
   world: "world/the-calamitous-bob-stubbed",
   description: "A burrowing parasitic grub.",
+  createdAt: "2026-09-29T00:14:10.335Z",
+  updatedAt: "2026-09-29T00:14:16.000Z",
 } as const satisfies WorldSpecies

@@ -7,4 +7,6 @@ export const otherwhereIxOctopod = {
   title: "Octopod",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A tentacled sea creature, a primitive cousin of the kraken.",
+  createdAt: "2026-09-28T22:51:24.417Z",
+  updatedAt: "2026-09-28T22:51:29.000Z",
 } as const satisfies WorldSpecies

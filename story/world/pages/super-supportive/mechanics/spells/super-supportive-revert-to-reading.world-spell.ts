@@ -7,4 +7,6 @@ export const superSupportiveRevertToReading = {
   title: "Revert to Reading",
   world: "world/super-supportive",
   description: "A spell impression that moves an object back to a place it has been.",
+  createdAt: "2026-09-28T21:41:54.414Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

@@ -7,4 +7,6 @@ export const otherwhereIxRattleAdder = {
   title: "Rattle Adder",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A venomous snake whose pale scales chime when it moves.",
+  createdAt: "2026-09-28T22:58:02.388Z",
+  updatedAt: "2026-09-28T22:58:07.000Z",
 } as const satisfies WorldSpecies

@@ -6,4 +6,6 @@ export const understandEnchantment = {
   slug: "understand-enchantment",
   title: "Understand Enchantment",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.750Z",
+  updatedAt: "2026-09-19T16:49:56.000Z",
 } as const satisfies WorldSkill

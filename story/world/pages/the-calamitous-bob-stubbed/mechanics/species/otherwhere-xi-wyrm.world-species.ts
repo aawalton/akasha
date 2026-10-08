@@ -7,4 +7,6 @@ export const otherwhereXiWyrm = {
   title: "Wyrm",
   world: "world/the-calamitous-bob-stubbed",
   description: "A great wingless serpent-beast of the wilds.",
+  createdAt: "2026-09-29T00:12:36.804Z",
+  updatedAt: "2026-09-29T00:12:47.000Z",
 } as const satisfies WorldSpecies

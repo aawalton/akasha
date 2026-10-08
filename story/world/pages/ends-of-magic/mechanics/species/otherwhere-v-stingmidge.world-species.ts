@@ -7,4 +7,6 @@ export const otherwhereVStingmidge = {
   title: "Stingmidge",
   world: "world/ends-of-magic",
   description: "A tiny black biting fly.",
+  createdAt: "2026-09-28T22:00:22.083Z",
+  updatedAt: "2026-09-28T22:00:24.000Z",
 } as const satisfies WorldSpecies

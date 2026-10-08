@@ -7,4 +7,6 @@ export const otherwhereVGargoyle = {
   title: "Gargoyle",
   world: "world/ends-of-magic",
   description: "A long-limbed stone creature.",
+  createdAt: "2026-09-28T21:50:09.213Z",
+  updatedAt: "2026-09-28T21:50:19.000Z",
 } as const satisfies WorldSpecies

@@ -7,4 +7,6 @@ export const otherwhereVHuman = {
   title: "Human",
   world: "world/ends-of-magic",
   description: "The most common thinking people of Davrar.",
+  createdAt: "2026-09-28T21:36:30.622Z",
+  updatedAt: "2026-09-28T21:36:33.000Z",
 } as const satisfies WorldSpecies

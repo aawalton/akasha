@@ -7,4 +7,6 @@ export const otherwhereXHawkEyes = {
   title: "Hawk Eyes",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A skill that sharpens far sight.",
+  createdAt: "2026-09-29T00:04:30.875Z",
+  updatedAt: "2026-09-29T01:43:00.000Z",
 } as const satisfies WorldSkill

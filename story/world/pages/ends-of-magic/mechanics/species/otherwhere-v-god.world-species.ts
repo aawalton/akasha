@@ -7,4 +7,6 @@ export const otherwhereVGod = {
   title: "God",
   world: "world/ends-of-magic",
   description: "A dead divine being.",
+  createdAt: "2026-09-28T21:42:02.384Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldSpecies

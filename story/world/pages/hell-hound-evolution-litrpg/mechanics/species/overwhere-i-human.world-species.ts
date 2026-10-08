@@ -7,4 +7,6 @@ export const overwhereIHuman = {
   title: "Human",
   world: "world/hell-hound-evolution-litrpg",
   description: "The common thinking people of the Vinelands and the lands beyond.",
+  createdAt: "2026-09-30T09:48:23.980Z",
+  updatedAt: "2026-09-30T09:48:26.000Z",
 } as const satisfies WorldSpecies

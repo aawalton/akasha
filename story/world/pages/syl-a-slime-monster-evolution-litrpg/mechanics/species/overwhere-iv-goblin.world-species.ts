@@ -7,4 +7,6 @@ export const overwhereIvGoblin = {
   title: "Goblin",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "A small, green-skinned monster people that lives in tribes in the wilds.",
+  createdAt: "2026-09-29T12:42:12.692Z",
+  updatedAt: "2026-09-29T12:42:15.000Z",
 } as const satisfies WorldSpecies

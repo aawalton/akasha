@@ -7,4 +7,6 @@ export const otherwhereIxThornVineMass = {
   title: "Thorn-Vine Mass",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A vast, regrowing tangle of predatory thorned vines.",
+  createdAt: "2026-09-28T22:52:55.486Z",
+  updatedAt: "2026-09-28T22:53:10.000Z",
 } as const satisfies WorldSpecies

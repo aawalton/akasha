@@ -7,4 +7,6 @@ export const superSupportiveVatha = {
   title: "Vatha",
   world: "world/super-supportive",
   description: "A small moth-like creature with brown scalloped wings.",
+  createdAt: "2026-09-28T21:47:30.307Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldSpecies

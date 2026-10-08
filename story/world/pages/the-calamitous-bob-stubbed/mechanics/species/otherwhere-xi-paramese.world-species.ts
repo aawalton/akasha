@@ -7,4 +7,6 @@ export const otherwhereXiParamese = {
   title: "Paramese",
   world: "world/the-calamitous-bob-stubbed",
   description: "Humans of the continent's heartlands, with green-tinged skin and black hair.",
+  createdAt: "2026-09-29T00:04:39.108Z",
+  updatedAt: "2026-09-29T00:04:43.000Z",
 } as const satisfies WorldSpecies

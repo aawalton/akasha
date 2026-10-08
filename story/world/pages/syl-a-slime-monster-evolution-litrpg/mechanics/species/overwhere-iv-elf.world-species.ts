@@ -7,4 +7,6 @@ export const overwhereIvElf = {
   title: "Elf",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "A long-lived people with pointed ears, gifted in magic, the bow and the blade.",
+  createdAt: "2026-09-29T12:42:12.692Z",
+  updatedAt: "2026-09-29T12:42:15.000Z",
 } as const satisfies WorldSpecies

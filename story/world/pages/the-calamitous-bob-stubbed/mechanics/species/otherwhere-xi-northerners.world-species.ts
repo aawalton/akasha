@@ -7,4 +7,6 @@ export const otherwhereXiNortherners = {
   title: "Northerners",
   world: "world/the-calamitous-bob-stubbed",
   description: "Dark-skinned humans of the northern cities.",
+  createdAt: "2026-09-29T00:04:39.107Z",
+  updatedAt: "2026-09-29T00:04:43.000Z",
 } as const satisfies WorldSpecies

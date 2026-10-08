@@ -6,4 +6,6 @@ export const bloodletter = {
   slug: "bloodletter",
   title: "Bloodletter",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:06:43.382Z",
+  updatedAt: "2026-09-19T16:21:06.000Z",
 } as const satisfies WorldSpell

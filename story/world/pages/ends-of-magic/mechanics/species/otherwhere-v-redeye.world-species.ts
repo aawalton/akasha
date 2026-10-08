@@ -7,4 +7,6 @@ export const otherwhereVRedeye = {
   title: "Redeye",
   world: "world/ends-of-magic",
   description: "A dangerous sea beast.",
+  createdAt: "2026-09-28T21:45:08.390Z",
+  updatedAt: "2026-09-28T21:49:23.000Z",
 } as const satisfies WorldSpecies

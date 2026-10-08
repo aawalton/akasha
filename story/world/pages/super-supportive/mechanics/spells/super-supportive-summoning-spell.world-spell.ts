@@ -9,4 +9,6 @@ export const superSupportiveSummoningSpell = {
   aliases: ["basic summoning spell"],
   description:
     "A basic spell that brings an object in line of sight to one waiting hand while the other holds the auriad.",
+  createdAt: "2026-09-28T21:43:02.947Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldSpell

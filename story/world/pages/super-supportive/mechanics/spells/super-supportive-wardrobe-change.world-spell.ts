@@ -7,4 +7,6 @@ export const superSupportiveWardrobeChange = {
   title: "Wardrobe Change",
   world: "world/super-supportive",
   description: "A Rabbit class spell that swaps gear bought from the Wardrobe.",
+  createdAt: "2026-09-28T21:36:47.945Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldSpell

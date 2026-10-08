@@ -7,4 +7,6 @@ export const otherwhereXWolf = {
   title: "Wolves: Forest, Horned and Dire",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A large pack-hunting wolf of the forests and plains.",
+  createdAt: "2026-09-28T23:59:59.876Z",
+  updatedAt: "2026-09-29T00:00:07.000Z",
 } as const satisfies WorldSpecies

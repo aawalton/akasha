@@ -7,4 +7,6 @@ export const superSupportiveFetuna = {
   title: "Fetuna",
   world: "world/super-supportive",
   description: "A people who practice wordchains widely and hide from aliens once mature.",
+  createdAt: "2026-09-28T21:44:15.780Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldSpecies

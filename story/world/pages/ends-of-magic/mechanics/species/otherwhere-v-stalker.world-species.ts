@@ -7,4 +7,6 @@ export const otherwhereVStalker = {
   title: "Stalker",
   world: "world/ends-of-magic",
   description: "A six-legged, pony-sized predator.",
+  createdAt: "2026-09-28T21:43:22.824Z",
+  updatedAt: "2026-09-28T21:50:54.000Z",
 } as const satisfies WorldSpecies

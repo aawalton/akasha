@@ -7,4 +7,6 @@ export const otherwhereXiRevenant = {
   title: "Revenant",
   world: "world/the-calamitous-bob-stubbed",
   description: "A corpse risen as a mindless walking dead.",
+  createdAt: "2026-09-29T00:08:14.290Z",
+  updatedAt: "2026-09-29T00:08:22.000Z",
 } as const satisfies WorldSpecies

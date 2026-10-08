@@ -7,4 +7,6 @@ export const otherwhereIxShardback = {
   title: "Shardback",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A low, badger-like beast whose back bristles with glassy quills.",
+  createdAt: "2026-09-28T22:47:18.927Z",
+  updatedAt: "2026-09-28T22:47:24.000Z",
 } as const satisfies WorldSpecies

@@ -7,4 +7,6 @@ export const otherwhereIxHellhound = {
   title: "Hellhound",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A horned, flame-furred hound.",
+  createdAt: "2026-09-28T22:49:29.612Z",
+  updatedAt: "2026-09-28T22:49:35.000Z",
 } as const satisfies WorldSpecies

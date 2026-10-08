@@ -8,4 +8,6 @@ export const superSupportiveShockBox = {
   world: "world/super-supportive",
   aliases: ["shock trap", "electrocution trap"],
   description: "An Adjuster trap of electricity.",
+  createdAt: "2026-09-28T21:41:54.414Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

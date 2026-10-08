@@ -7,4 +7,6 @@ export const otherwhereXiLich = {
   title: "Lich",
   world: "world/the-calamitous-bob-stubbed",
   description: "An undead mage whose soul is bound to its own corpse.",
+  createdAt: "2026-09-29T00:08:14.289Z",
+  updatedAt: "2026-09-29T00:08:22.000Z",
 } as const satisfies WorldSpecies

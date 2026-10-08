@@ -8,4 +8,6 @@ export const superSupportiveMeatPetal = {
   world: "world/super-supportive",
   aliases: ["meatpetal"],
   description: "A carnivorous plant whose pink slices taste like steak and are safe raw.",
+  createdAt: "2026-09-28T21:47:30.306Z",
+  updatedAt: "2026-09-28T21:47:33.000Z",
 } as const satisfies WorldSpecies

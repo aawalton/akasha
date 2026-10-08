@@ -7,4 +7,6 @@ export const otherwhereXSkinwalker = {
   title: "Skinwalker",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A feared creature that can pass itself off as an ordinary person.",
+  createdAt: "2026-09-28T23:59:24.889Z",
+  updatedAt: "2026-09-28T23:59:27.000Z",
 } as const satisfies WorldSpecies

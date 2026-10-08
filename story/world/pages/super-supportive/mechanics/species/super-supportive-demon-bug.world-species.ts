@@ -8,4 +8,6 @@ export const superSupportiveDemonBug = {
   world: "world/super-supportive",
   aliases: ["chaos bugs", "grasshopper demons"],
   description: "Tiny flying black demons that pass through things and leave holes.",
+  createdAt: "2026-09-28T21:34:46.746Z",
+  updatedAt: "2026-09-28T21:34:49.000Z",
 } as const satisfies WorldSpecies

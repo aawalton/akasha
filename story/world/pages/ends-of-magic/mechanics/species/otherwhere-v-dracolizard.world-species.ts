@@ -7,4 +7,6 @@ export const otherwhereVDracolizard = {
   title: "Dracolizard",
   world: "world/ends-of-magic",
   description: "A large, dragon-like lizard.",
+  createdAt: "2026-09-28T21:42:57.887Z",
+  updatedAt: "2026-09-28T21:43:00.000Z",
 } as const satisfies WorldSpecies

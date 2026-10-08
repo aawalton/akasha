@@ -7,4 +7,6 @@ export const otherwhereIxTrimander = {
   title: "Trimander",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A bred three-headed, six-legged reptile.",
+  createdAt: "2026-09-28T22:50:11.941Z",
+  updatedAt: "2026-09-28T22:50:23.000Z",
 } as const satisfies WorldSpecies

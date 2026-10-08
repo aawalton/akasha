@@ -7,4 +7,6 @@ export const otherwhereVEclipsemaw = {
   title: "Eclipsemaw",
   world: "world/ends-of-magic",
   description: "A huge sea monster.",
+  createdAt: "2026-09-28T21:44:33.813Z",
+  updatedAt: "2026-09-28T21:49:23.000Z",
 } as const satisfies WorldSpecies

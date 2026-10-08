@@ -8,4 +8,6 @@ export const superSupportiveShadeSpell = {
   world: "world/super-supportive",
   description:
     "A murmured auriad spell, cast with hands hidden, that drops the temperature about ten degrees.",
+  createdAt: "2026-09-28T21:43:02.947Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldSpell

@@ -7,4 +7,6 @@ export const otherwhereIxBengai = {
   title: "Bengai",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A four-armed, tiger-like people.",
+  createdAt: "2026-09-28T22:46:53.952Z",
+  updatedAt: "2026-09-28T22:47:00.000Z",
 } as const satisfies WorldSpecies

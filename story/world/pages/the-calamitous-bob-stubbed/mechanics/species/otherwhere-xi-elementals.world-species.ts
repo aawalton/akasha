@@ -7,4 +7,6 @@ export const otherwhereXiElementals = {
   title: "Elementals",
   world: "world/the-calamitous-bob-stubbed",
   description: "A living being made of mana of a single hue.",
+  createdAt: "2026-09-29T00:03:21.782Z",
+  updatedAt: "2026-09-29T00:03:25.000Z",
 } as const satisfies WorldSpecies

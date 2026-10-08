@@ -7,4 +7,6 @@ export const otherwhereXGoblin = {
   title: "Goblin",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A short, green-skinned humanoid monster in filthy rags.",
+  createdAt: "2026-09-28T23:59:24.889Z",
+  updatedAt: "2026-09-28T23:59:27.000Z",
 } as const satisfies WorldSpecies

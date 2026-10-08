@@ -7,4 +7,6 @@ export const otherwhereVOrc = {
   title: "Orc",
   world: "world/ends-of-magic",
   description: "A big, green-tinged people with large teeth.",
+  createdAt: "2026-09-28T21:36:45.720Z",
+  updatedAt: "2026-09-28T21:36:48.000Z",
 } as const satisfies WorldSpecies

@@ -7,4 +7,6 @@ export const superSupportiveSunlightSpell = {
   title: "sunlight spell",
   world: "world/super-supportive",
   description: "An auriad spell that calls real, warm sunlight.",
+  createdAt: "2026-09-28T21:41:54.414Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

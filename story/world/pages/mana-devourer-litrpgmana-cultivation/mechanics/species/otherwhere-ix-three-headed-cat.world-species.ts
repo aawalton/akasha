@@ -7,4 +7,6 @@ export const otherwhereIxThreeHeadedCat = {
   title: "Three-headed cat",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A cat with three heads.",
+  createdAt: "2026-09-28T22:51:33.117Z",
+  updatedAt: "2026-09-28T22:51:37.000Z",
 } as const satisfies WorldSpecies

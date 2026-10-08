@@ -7,4 +7,6 @@ export const otherwhereIxGoldSkinnedFolk = {
   title: "Gold-skinned folk",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A stout, gold-skinned humanoid people.",
+  createdAt: "2026-09-28T22:49:35.023Z",
+  updatedAt: "2026-09-28T22:49:41.000Z",
 } as const satisfies WorldSpecies

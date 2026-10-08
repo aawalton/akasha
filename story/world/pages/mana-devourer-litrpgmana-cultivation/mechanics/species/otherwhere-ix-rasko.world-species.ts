@@ -7,4 +7,6 @@ export const otherwhereIxRasko = {
   title: "Rasko",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "An animal raised for its meat.",
+  createdAt: "2026-09-28T22:52:03.331Z",
+  updatedAt: "2026-09-28T22:52:08.000Z",
 } as const satisfies WorldSpecies

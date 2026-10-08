@@ -7,4 +7,6 @@ export const otherwhereXiSuddenDeath = {
   title: "Sudden Death",
   world: "world/the-calamitous-bob-stubbed",
   description: "A pink worm as thick as a tree trunk that swims through the earth.",
+  createdAt: "2026-09-29T00:13:33.184Z",
+  updatedAt: "2026-09-29T00:13:39.000Z",
 } as const satisfies WorldSpecies

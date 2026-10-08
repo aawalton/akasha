@@ -7,4 +7,6 @@ export const otherwhereIxHellborn = {
   title: "Hellborn",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A small, black-eyed demonic people with innate teleportation.",
+  createdAt: "2026-09-28T22:50:22.548Z",
+  updatedAt: "2026-09-28T22:50:29.000Z",
 } as const satisfies WorldSpecies

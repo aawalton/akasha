@@ -8,4 +8,6 @@ export const superSupportiveSelfConfidenceChain = {
   world: "world/super-supportive",
   aliases: ["self-confidence chain"],
   description: "A wordchain that raises self-confidence.",
+  createdAt: "2026-09-28T21:41:54.414Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

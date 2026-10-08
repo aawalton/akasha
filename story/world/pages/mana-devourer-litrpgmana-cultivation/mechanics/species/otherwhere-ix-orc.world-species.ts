@@ -7,4 +7,6 @@ export const otherwhereIxOrc = {
   title: "Orc",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A tall, tusked, hardy people.",
+  createdAt: "2026-09-28T22:50:55.500Z",
+  updatedAt: "2026-09-28T22:50:59.000Z",
 } as const satisfies WorldSpecies

@@ -7,4 +7,6 @@ export const otherwhereIxSplittingAcidRaptor = {
   title: "Splitting acid raptor",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A fast, acid-blooded raptor that splits into two.",
+  createdAt: "2026-09-28T22:48:37.589Z",
+  updatedAt: "2026-09-28T22:48:47.000Z",
 } as const satisfies WorldSpecies

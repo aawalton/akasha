@@ -7,4 +7,6 @@ export const otherwhereXWyvern = {
   title: "Wyvern",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A huge, fire-breathing draconic beast with leathery wings.",
+  createdAt: "2026-09-28T23:59:59.876Z",
+  updatedAt: "2026-09-29T00:00:07.000Z",
 } as const satisfies WorldSpecies

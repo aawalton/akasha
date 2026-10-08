@@ -7,4 +7,6 @@ export const otherwhereXiRemnants = {
   title: "Remnants",
   world: "world/the-calamitous-bob-stubbed",
   description: "Humans descended from old Harrak's survivors in the southern plains.",
+  createdAt: "2026-09-29T00:04:39.108Z",
+  updatedAt: "2026-09-29T00:04:43.000Z",
 } as const satisfies WorldSpecies

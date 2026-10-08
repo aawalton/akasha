@@ -7,4 +7,6 @@ export const otherwhereXiEasterners = {
   title: "Easterners",
   world: "world/the-calamitous-bob-stubbed",
   description: "Pale, blue-skinned humans from beyond the eastern isthmus.",
+  createdAt: "2026-09-29T00:04:39.103Z",
+  updatedAt: "2026-09-29T00:04:43.000Z",
 } as const satisfies WorldSpecies

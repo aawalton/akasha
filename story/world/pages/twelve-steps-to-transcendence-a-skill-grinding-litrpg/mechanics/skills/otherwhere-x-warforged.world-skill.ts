@@ -7,4 +7,6 @@ export const otherwhereXWarforged = {
   title: "Warforged",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A skill that hardens the body with mana for brawling.",
+  createdAt: "2026-09-29T00:03:29.444Z",
+  updatedAt: "2026-09-29T01:43:00.000Z",
 } as const satisfies WorldSkill

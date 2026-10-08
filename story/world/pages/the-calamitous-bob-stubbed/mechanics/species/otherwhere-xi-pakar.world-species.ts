@@ -7,4 +7,6 @@ export const otherwhereXiPakar = {
   title: "Pakar",
   world: "world/the-calamitous-bob-stubbed",
   description: "An anteater-like steppe beast with bear forelegs, ridden as a mount.",
+  createdAt: "2026-09-29T00:11:34.174Z",
+  updatedAt: "2026-09-29T00:11:41.000Z",
 } as const satisfies WorldSpecies

@@ -7,4 +7,6 @@ export const otherwhereXiSiegeTarantula = {
   title: "Siege Tarantula",
   world: "world/the-calamitous-bob-stubbed",
   description: "A giant armoured spider with a ram-like head.",
+  createdAt: "2026-09-29T00:09:40.816Z",
+  updatedAt: "2026-09-29T00:09:46.000Z",
 } as const satisfies WorldSpecies

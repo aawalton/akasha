@@ -7,4 +7,6 @@ export const otherwhereIxCyclops = {
   title: "Cyclops",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A one-eyed giant humanoid.",
+  createdAt: "2026-09-28T22:50:52.564Z",
+  updatedAt: "2026-09-28T22:50:57.000Z",
 } as const satisfies WorldSpecies

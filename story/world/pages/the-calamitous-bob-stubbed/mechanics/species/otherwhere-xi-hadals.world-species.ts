@@ -7,4 +7,6 @@ export const otherwhereXiHadals = {
   title: "Hadals",
   world: "world/the-calamitous-bob-stubbed",
   description: "A tall, pale, hairless people with slitted yellow eyes.",
+  createdAt: "2026-09-29T00:01:05.592Z",
+  updatedAt: "2026-09-29T00:01:12.000Z",
 } as const satisfies WorldSpecies

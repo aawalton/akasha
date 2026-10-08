@@ -7,4 +7,6 @@ export const otherwhereIxGrassrunner = {
   title: "Grassrunner",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A flightless, fast-running bird that moves in flocks.",
+  createdAt: "2026-09-28T22:58:02.388Z",
+  updatedAt: "2026-09-28T22:58:07.000Z",
 } as const satisfies WorldSpecies

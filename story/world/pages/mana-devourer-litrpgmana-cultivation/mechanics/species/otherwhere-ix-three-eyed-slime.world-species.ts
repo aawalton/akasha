@@ -7,4 +7,6 @@ export const otherwhereIxThreeEyedSlime = {
   title: "Three-Eyed Slime",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A three-eyed slime monster of the caves.",
+  createdAt: "2026-09-28T22:54:24.069Z",
+  updatedAt: "2026-09-28T22:54:30.000Z",
 } as const satisfies WorldSpecies

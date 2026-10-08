@@ -6,4 +6,6 @@ export const circleOfPurification = {
   slug: "circle-of-purification",
   title: "Circle of Purification",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:06:43.385Z",
+  updatedAt: "2026-09-19T16:21:41.000Z",
 } as const satisfies WorldSpell

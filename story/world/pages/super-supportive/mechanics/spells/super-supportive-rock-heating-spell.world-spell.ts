@@ -8,4 +8,6 @@ export const superSupportiveRockHeatingSpell = {
   world: "world/super-supportive",
   aliases: ["stone-heating spell"],
   description: "A spell that heats a stone hot enough to cook on.",
+  createdAt: "2026-09-28T21:43:02.946Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldSpell

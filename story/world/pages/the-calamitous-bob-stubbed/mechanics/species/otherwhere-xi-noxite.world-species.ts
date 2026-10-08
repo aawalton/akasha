@@ -7,4 +7,6 @@ export const otherwhereXiNoxite = {
   title: "Noxite",
   world: "world/the-calamitous-bob-stubbed",
   description: "A small, see-through spider.",
+  createdAt: "2026-09-29T00:09:40.816Z",
+  updatedAt: "2026-09-29T00:09:46.000Z",
 } as const satisfies WorldSpecies

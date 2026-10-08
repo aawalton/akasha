@@ -7,4 +7,6 @@ export const superSupportiveMishnen = {
   title: "Mishnen",
   world: "world/super-supportive",
   description: "A crocodile-like beast with tentacles instead of a tail.",
+  createdAt: "2026-09-28T21:34:46.746Z",
+  updatedAt: "2026-09-28T21:34:49.000Z",
 } as const satisfies WorldSpecies

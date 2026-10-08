@@ -7,4 +7,6 @@ export const otherwhereXFox = {
   title: "Large Fox",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "A fox of unusual size that lives in the forest.",
+  createdAt: "2026-09-29T00:01:06.543Z",
+  updatedAt: "2026-09-29T00:01:14.000Z",
 } as const satisfies WorldSpecies

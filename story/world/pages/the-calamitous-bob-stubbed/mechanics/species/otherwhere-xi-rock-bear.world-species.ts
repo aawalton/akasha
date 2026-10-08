@@ -7,4 +7,6 @@ export const otherwhereXiRockBear = {
   title: "Rock Bear",
   world: "world/the-calamitous-bob-stubbed",
   description: "A white, armour-plated bear of the northern wilds.",
+  createdAt: "2026-09-29T00:13:33.184Z",
+  updatedAt: "2026-09-29T00:13:39.000Z",
 } as const satisfies WorldSpecies

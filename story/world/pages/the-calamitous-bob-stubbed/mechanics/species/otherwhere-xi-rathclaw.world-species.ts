@@ -7,4 +7,6 @@ export const otherwhereXiRathclaw = {
   title: "Rathclaw",
   world: "world/the-calamitous-bob-stubbed",
   description: "A clawed wild beast.",
+  createdAt: "2026-09-29T00:16:13.714Z",
+  updatedAt: "2026-09-29T00:16:21.000Z",
 } as const satisfies WorldSpecies

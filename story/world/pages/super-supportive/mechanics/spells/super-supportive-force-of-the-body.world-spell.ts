@@ -8,4 +8,6 @@ export const superSupportiveForceOfTheBody = {
   world: "world/super-supportive",
   aliases: ["Force of the Body family"],
   description: "A family of wordchains that turn a sweep of the hand into something explosive.",
+  createdAt: "2026-09-28T21:41:54.413Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

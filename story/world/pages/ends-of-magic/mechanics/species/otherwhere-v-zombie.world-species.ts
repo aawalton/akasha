@@ -7,4 +7,6 @@ export const otherwhereVZombie = {
   title: "Zombie",
   world: "world/ends-of-magic",
   description: "A walking corpse.",
+  createdAt: "2026-09-28T21:45:54.477Z",
+  updatedAt: "2026-09-28T21:49:23.000Z",
 } as const satisfies WorldSpecies

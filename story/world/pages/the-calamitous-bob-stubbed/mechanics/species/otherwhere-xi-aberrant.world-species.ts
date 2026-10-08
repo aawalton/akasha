@@ -7,4 +7,6 @@ export const otherwhereXiAberrant = {
   title: "Aberrant",
   world: "world/the-calamitous-bob-stubbed",
   description: "A monster of twisted, tumour-like flesh.",
+  createdAt: "2026-09-29T00:08:14.288Z",
+  updatedAt: "2026-09-29T00:08:22.000Z",
 } as const satisfies WorldSpecies

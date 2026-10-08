@@ -7,4 +7,6 @@ export const otherwhereVSeaMonster = {
   title: "Sea Monster",
   world: "world/ends-of-magic",
   description: "Any ocean monster.",
+  createdAt: "2026-09-28T21:44:33.814Z",
+  updatedAt: "2026-09-28T21:49:02.000Z",
 } as const satisfies WorldSpecies

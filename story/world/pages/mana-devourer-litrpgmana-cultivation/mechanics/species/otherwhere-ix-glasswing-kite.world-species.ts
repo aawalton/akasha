@@ -7,4 +7,6 @@ export const otherwhereIxGlasswingKite = {
   title: "Glasswing Kite",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A small bird with clear, glassy wings that hovers on the wind.",
+  createdAt: "2026-09-28T22:58:02.387Z",
+  updatedAt: "2026-09-28T22:58:07.000Z",
 } as const satisfies WorldSpecies

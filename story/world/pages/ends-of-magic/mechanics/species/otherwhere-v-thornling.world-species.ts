@@ -7,4 +7,6 @@ export const otherwhereVThornling = {
   title: "Thornling",
   world: "world/ends-of-magic",
   description: "A knee-high monster of black thorn and bone.",
+  createdAt: "2026-09-28T22:00:03.116Z",
+  updatedAt: "2026-09-28T22:00:05.000Z",
 } as const satisfies WorldSpecies

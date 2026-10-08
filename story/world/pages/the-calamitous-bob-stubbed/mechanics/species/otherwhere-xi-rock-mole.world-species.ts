@@ -7,4 +7,6 @@ export const otherwhereXiRockMole = {
   title: "Rock Mole",
   world: "world/the-calamitous-bob-stubbed",
   description: "A burrowing mole-like beast that lives in rock and mines.",
+  createdAt: "2026-09-29T00:13:33.184Z",
+  updatedAt: "2026-09-29T00:13:39.000Z",
 } as const satisfies WorldSpecies

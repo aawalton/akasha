@@ -7,4 +7,6 @@ export const superSupportiveSpellOfOldWounds = {
   title: "spell of old wounds",
   world: "world/super-supportive",
   description: "A spell that reopens previously healed wounds.",
+  createdAt: "2026-09-28T21:41:54.414Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

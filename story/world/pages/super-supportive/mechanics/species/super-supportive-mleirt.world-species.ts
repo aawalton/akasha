@@ -7,4 +7,6 @@ export const superSupportiveMleirt = {
   title: "Mleirt",
   world: "world/super-supportive",
   description: "Giant four-armed moles who speak only through the System.",
+  createdAt: "2026-09-28T21:34:46.746Z",
+  updatedAt: "2026-09-28T21:34:49.000Z",
 } as const satisfies WorldSpecies

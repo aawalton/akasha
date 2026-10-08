@@ -7,4 +7,6 @@ export const otherwhereXiFangBoar = {
   title: "Fang Boar",
   world: "world/the-calamitous-bob-stubbed",
   description: "A wild boar with great fangs.",
+  createdAt: "2026-09-29T00:16:13.714Z",
+  updatedAt: "2026-09-29T00:16:21.000Z",
 } as const satisfies WorldSpecies

@@ -6,4 +6,6 @@ export const zigzagDashRe = {
   slug: "zigzag-dash-re",
   title: "Zigzag Dash Re",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T04:18:06.776Z",
+  updatedAt: "2026-09-19T16:50:27.000Z",
 } as const satisfies WorldSkill

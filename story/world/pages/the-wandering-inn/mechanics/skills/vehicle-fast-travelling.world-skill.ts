@@ -9,4 +9,6 @@ export const vehicleFastTravelling = {
   appearanceCount: 2,
   evolvesToSlugs: ["world-skill/vehicle-magical-delivery"],
   references: "jsonl",
+  createdAt: "2026-09-03T04:18:06.752Z",
+  updatedAt: "2026-09-22T18:28:27.000Z",
 } as const satisfies WorldSkill

@@ -7,4 +7,6 @@ export const otherwhereXiHallurians = {
   title: "Hallurians",
   world: "world/the-calamitous-bob-stubbed",
   description: "Humans of the eastern deserts, living in clans.",
+  createdAt: "2026-09-29T00:04:39.104Z",
+  updatedAt: "2026-09-29T00:04:43.000Z",
 } as const satisfies WorldSpecies

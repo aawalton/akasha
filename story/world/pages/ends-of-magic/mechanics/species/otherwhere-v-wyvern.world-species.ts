@@ -7,4 +7,6 @@ export const otherwhereVWyvern = {
   title: "Wyvern",
   world: "world/ends-of-magic",
   description: "A winged, dragon-like flying beast.",
+  createdAt: "2026-09-28T21:43:22.824Z",
+  updatedAt: "2026-09-28T21:43:25.000Z",
 } as const satisfies WorldSpecies

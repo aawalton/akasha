@@ -7,4 +7,6 @@ export const otherwhereIxBlueScaledFolk = {
   title: "Blue-scaled folk",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A blue-skinned, lightly scaled, tailed humanoid people.",
+  createdAt: "2026-09-28T22:50:19.360Z",
+  updatedAt: "2026-09-28T22:50:27.000Z",
 } as const satisfies WorldSpecies

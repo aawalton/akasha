@@ -7,4 +7,6 @@ export const overwhereIvBlueSlime = {
   title: "Blue Slime",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The commonest slime: a mindless blob of blue jelly around a small core.",
+  createdAt: "2026-09-29T12:42:12.691Z",
+  updatedAt: "2026-09-29T12:42:15.000Z",
 } as const satisfies WorldSpecies

@@ -9,4 +9,6 @@ export const superSupportiveHomeRitual = {
   aliases: ["communal casting", "collective casting"],
   description:
     "A group ritual where people in rings pass wood chips while speaking home words, ending in a fireball at sunrise.",
+  createdAt: "2026-09-28T21:43:02.946Z",
+  updatedAt: "2026-09-28T21:43:06.000Z",
 } as const satisfies WorldSpell

@@ -7,4 +7,6 @@ export const otherwhereIxFailedSummon = {
   title: "Failed summon",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A twisted monster that was once a summoned being.",
+  createdAt: "2026-09-28T22:52:39.671Z",
+  updatedAt: "2026-09-28T22:52:47.000Z",
 } as const satisfies WorldSpecies

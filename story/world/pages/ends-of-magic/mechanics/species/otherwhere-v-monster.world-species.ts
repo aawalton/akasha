@@ -7,4 +7,6 @@ export const otherwhereVMonster = {
   title: "Monster",
   world: "world/ends-of-magic",
   description: "Any of Davrar's many dangerous, often magical wild beasts.",
+  createdAt: "2026-09-28T21:42:33.459Z",
+  updatedAt: "2026-09-28T21:42:36.000Z",
 } as const satisfies WorldSpecies

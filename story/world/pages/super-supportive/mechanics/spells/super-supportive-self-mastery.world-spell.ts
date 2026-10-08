@@ -9,4 +9,6 @@ export const superSupportiveSelfMastery = {
   aliases: ["My Body Becomes my Assistant", "Gracefulness"],
   description:
     "A difficult wordchain that heightens awareness and control of the body and spatial awareness.",
+  createdAt: "2026-09-28T21:36:47.945Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldSpell

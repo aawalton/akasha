@@ -7,4 +7,6 @@ export const superSupportiveSubtletySpell = {
   title: "Subtlety spell",
   world: "world/super-supportive",
   description: "A spell that makes one's presence go unnoticed.",
+  createdAt: "2026-09-28T21:43:55.444Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldSpell

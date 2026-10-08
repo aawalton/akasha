@@ -7,4 +7,6 @@ export const superSupportiveBreezeBearingLeaf = {
   title: "Breeze Bearing Leaf",
   world: "world/super-supportive",
   description: "A flying spell.",
+  createdAt: "2026-09-28T21:43:55.444Z",
+  updatedAt: "2026-09-28T21:44:00.000Z",
 } as const satisfies WorldSpell

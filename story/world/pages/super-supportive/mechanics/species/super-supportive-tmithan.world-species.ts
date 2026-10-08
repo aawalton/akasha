@@ -7,4 +7,6 @@ export const superSupportiveTmithan = {
   title: "Tmithan",
   world: "world/super-supportive",
   description: "A people of the planet Tmith who like heat.",
+  createdAt: "2026-09-28T21:34:46.746Z",
+  updatedAt: "2026-09-28T21:34:49.000Z",
 } as const satisfies WorldSpecies

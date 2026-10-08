@@ -7,4 +7,6 @@ export const otherwhereIxHollowmane = {
   title: "Hollowmane",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A maned, long-legged pack predator of the open plains.",
+  createdAt: "2026-09-28T22:58:02.388Z",
+  updatedAt: "2026-09-28T22:58:07.000Z",
 } as const satisfies WorldSpecies

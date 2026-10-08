@@ -9,4 +9,6 @@ export const superSupportiveLuckTradeWordchain = {
   aliases: ["request for a trade of luck"],
   description:
     "A wordchain that asks another for their luck tonight and promises an equal portion back tomorrow.",
+  createdAt: "2026-09-28T21:36:47.944Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldSpell

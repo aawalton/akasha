@@ -7,4 +7,6 @@ export const otherwhereXRiftMonkey = {
   title: "Rift Monkey and Shadow Monkey",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "An oversized tailed monkey that lives inside rifts.",
+  createdAt: "2026-09-29T00:01:06.546Z",
+  updatedAt: "2026-09-29T00:01:14.000Z",
 } as const satisfies WorldSpecies

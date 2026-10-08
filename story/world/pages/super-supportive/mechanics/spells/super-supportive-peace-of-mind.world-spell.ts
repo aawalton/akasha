@@ -8,4 +8,6 @@ export const superSupportivePeaceOfMind = {
   world: "world/super-supportive",
   aliases: ["peace of mind sacrifice"],
   description: "A common minor wordchain that asks another for a portion of their mind's ease.",
+  createdAt: "2026-09-28T21:36:47.944Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldSpell

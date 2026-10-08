@@ -7,4 +7,6 @@ export const otherwhereVMudjaw = {
   title: "Mudjaw",
   world: "world/ends-of-magic",
   description: "A long, flat, mud-brown river reptile.",
+  createdAt: "2026-09-28T22:00:03.116Z",
+  updatedAt: "2026-09-28T22:00:05.000Z",
 } as const satisfies WorldSpecies

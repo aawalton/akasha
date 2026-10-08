@@ -7,4 +7,6 @@ export const otherwhereVFleshTyrant = {
   title: "Flesh Tyrant",
   world: "world/ends-of-magic",
   description: "A dreaded undead horror.",
+  createdAt: "2026-09-28T21:46:57.669Z",
+  updatedAt: "2026-09-28T21:49:23.000Z",
 } as const satisfies WorldSpecies

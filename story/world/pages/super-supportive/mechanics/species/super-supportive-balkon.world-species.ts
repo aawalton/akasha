@@ -7,4 +7,6 @@ export const superSupportiveBalkon = {
   title: "Balkon",
   world: "world/super-supportive",
   description: "A domestic animal kept on ships.",
+  createdAt: "2026-09-28T21:34:46.745Z",
+  updatedAt: "2026-09-28T21:34:49.000Z",
 } as const satisfies WorldSpecies

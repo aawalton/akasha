@@ -7,4 +7,6 @@ export const otherwhereXiSnakehound = {
   title: "Snakehound",
   world: "world/the-calamitous-bob-stubbed",
   description: "A scaly, serpent-like hound of the forests.",
+  createdAt: "2026-09-29T00:12:36.804Z",
+  updatedAt: "2026-09-29T00:12:47.000Z",
 } as const satisfies WorldSpecies

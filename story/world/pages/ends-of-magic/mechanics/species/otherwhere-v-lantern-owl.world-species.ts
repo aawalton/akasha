@@ -7,4 +7,6 @@ export const otherwhereVLanternOwl = {
   title: "Lantern-owl",
   world: "world/ends-of-magic",
   description: "A small brown forest owl with pale, shining eyes.",
+  createdAt: "2026-09-28T21:58:36.350Z",
+  updatedAt: "2026-09-28T21:58:38.000Z",
 } as const satisfies WorldSpecies

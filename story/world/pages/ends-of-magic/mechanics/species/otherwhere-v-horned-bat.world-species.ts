@@ -7,4 +7,6 @@ export const otherwhereVHornedBat = {
   title: "Horned Bat",
   world: "world/ends-of-magic",
   description: "An undead flying beast with lance-like horns.",
+  createdAt: "2026-09-28T21:47:25.094Z",
+  updatedAt: "2026-09-28T21:47:28.000Z",
 } as const satisfies WorldSpecies

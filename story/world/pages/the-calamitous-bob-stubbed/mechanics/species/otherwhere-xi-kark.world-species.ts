@@ -7,4 +7,6 @@ export const otherwhereXiKark = {
   title: "Kark",
   world: "world/the-calamitous-bob-stubbed",
   description: "A short, stout, red-skinned people of the steppes.",
+  createdAt: "2026-09-28T23:59:30.796Z",
+  updatedAt: "2026-09-28T23:59:33.000Z",
 } as const satisfies WorldSpecies

@@ -6,4 +6,6 @@ export const peacefulMelody = {
   slug: "peaceful-melody",
   title: "Peaceful Melody",
   world: "world/the-wandering-inn",
+  createdAt: "2026-09-03T03:39:53.864Z",
+  updatedAt: "2026-09-19T16:19:39.000Z",
 } as const satisfies WorldSong

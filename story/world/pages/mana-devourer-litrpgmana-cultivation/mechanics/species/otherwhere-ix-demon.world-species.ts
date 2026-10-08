@@ -7,4 +7,6 @@ export const otherwhereIxDemon = {
   title: "Demon",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A horned, magic-born people from the higher worlds.",
+  createdAt: "2026-09-28T22:49:32.521Z",
+  updatedAt: "2026-09-28T22:49:39.000Z",
 } as const satisfies WorldSpecies

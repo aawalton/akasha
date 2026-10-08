@@ -8,4 +8,6 @@ export const overwhereIvHobgoblin = {
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "A goblin grown to a man's height and more, broad and strong, often a chief.",
   evolvesFromSlugs: ["world-species/overwhere-iv-goblin"],
+  createdAt: "2026-09-29T12:42:12.692Z",
+  updatedAt: "2026-09-29T12:42:15.000Z",
 } as const satisfies WorldSpecies

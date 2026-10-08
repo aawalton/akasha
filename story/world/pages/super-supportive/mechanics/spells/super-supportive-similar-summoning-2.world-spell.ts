@@ -8,4 +8,6 @@ export const superSupportiveSimilarSummoning2 = {
   world: "world/super-supportive",
   description:
     "A spell that summons a similar object from nearby, such as a desk from the next classroom.",
+  createdAt: "2026-09-28T21:36:47.945Z",
+  updatedAt: "2026-09-28T21:36:51.000Z",
 } as const satisfies WorldSpell

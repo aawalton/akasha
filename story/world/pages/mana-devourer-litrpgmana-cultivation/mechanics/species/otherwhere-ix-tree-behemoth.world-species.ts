@@ -7,4 +7,6 @@ export const otherwhereIxTreeBehemoth = {
   title: "Tree behemoth",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A hundred-foot, two-legged creature half tree and half animal.",
+  createdAt: "2026-09-28T22:51:03.666Z",
+  updatedAt: "2026-09-28T22:51:07.000Z",
 } as const satisfies WorldSpecies

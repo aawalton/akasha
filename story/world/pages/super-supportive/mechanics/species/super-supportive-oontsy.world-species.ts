@@ -8,4 +8,6 @@ export const superSupportiveOontsy = {
   world: "world/super-supportive",
   aliases: ["oontsies"],
   description: "A slimy Artonan animal.",
+  createdAt: "2026-09-28T21:44:15.781Z",
+  updatedAt: "2026-09-28T21:44:18.000Z",
 } as const satisfies WorldSpecies

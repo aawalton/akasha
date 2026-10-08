@@ -9,4 +9,6 @@ export const superSupportiveFlashlightSpell = {
   aliases: ["adjustable flashlight"],
   description:
     "An auriad spell that calls up light from the memory of light in the place where it is cast.",
+  createdAt: "2026-09-28T21:41:54.413Z",
+  updatedAt: "2026-09-28T21:41:57.000Z",
 } as const satisfies WorldSpell

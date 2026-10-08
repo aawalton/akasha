@@ -8,4 +8,6 @@ export const overwhereIiiHuman = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description:
     "The common people of the Dominion, who live by towns and fields and take a class at Level 10.",
+  createdAt: "2026-09-30T09:49:54.344Z",
+  updatedAt: "2026-09-30T09:50:04.000Z",
 } as const satisfies WorldSpecies
