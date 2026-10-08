@@ -35,4 +35,9 @@ export const CONTAINER_TMP_VOLUME = "tmp"
 
 export const CONTAINER_TMP_PATH = `/${CONTAINER_TMP_VOLUME}`
 
+export const BUN_INSTALL_CACHED = {
+  name: "BUN_INSTALL_CACHE_DIR",
+  value: `${ORCHESTRATOR_CACHE_MOUNT_PATH}/.bun-install-cache`,
+} as const
+
 export const BUN_RUNTIME_IMAGE = "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest"

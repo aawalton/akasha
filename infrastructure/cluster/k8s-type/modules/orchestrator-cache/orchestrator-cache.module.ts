@@ -105,7 +105,16 @@ export const orchestratorCache = {
       decisionKind: "decision-kind/departure",
       statement: "An origin a pod says its checkout had is said with no token.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every container installing packages keeps the install cache on the cache volume.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The install cache outgrows a pod's scratch space, and a pod past that is evicted.",
+    },
   ],
   createdAt: "2026-09-03T12:19:38.524Z",
-  updatedAt: "2026-09-30T05:24:29.000Z",
+  updatedAt: "2026-10-08T18:14:28.519Z",
 } as const satisfies Module

@@ -5,6 +5,7 @@ import {
   orchestratorCacheVolumeMounts,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
 import {
+  BUN_INSTALL_CACHED,
   BUN_RUNTIME_IMAGE,
   type CacheLocation,
   CONTAINER_TMP_PATH,
@@ -159,6 +160,7 @@ export function orchestratorCacheInitContainer(opts: {
       },
       ...GIT_TRANSPORT_ASKING,
       { name: "HOME", value: CONTAINER_TMP_PATH },
+      BUN_INSTALL_CACHED,
     ],
     resources: {
       requests: { cpu: "200m", memory: memorySpec.request },
@@ -204,6 +206,7 @@ export function webBuildInitContainer(opts: { packagePath: string; secretName: s
     envFrom: [{ secretRef: { name: opts.secretName } }],
     env: [
       { name: "HOME", value: CONTAINER_TMP_PATH },
+      BUN_INSTALL_CACHED,
       { name: "NODE_ENV", value: "production" },
     ],
     resources: {
@@ -256,6 +259,7 @@ export function orchestratorCacheSyncSidecar(opts: {
     },
     ...GIT_TRANSPORT_ASKING,
     { name: "HOME", value: CONTAINER_TMP_PATH },
+    BUN_INSTALL_CACHED,
   ]
   return {
     name: "code-sync",

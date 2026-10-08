@@ -124,6 +124,8 @@ spec:
               value: '!f() { echo username=x-access-token; echo "password=$GIT_ACCESS_TOKEN"; }; f'
             - name: HOME
               value: /tmp
+            - name: BUN_INSTALL_CACHE_DIR
+              value: /app/.bun-install-cache
           image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
           imagePullPolicy: IfNotPresent
           name: code-sync
@@ -224,6 +226,8 @@ spec:
               value: '!f() { echo username=x-access-token; echo "password=$GIT_ACCESS_TOKEN"; }; f'
             - name: HOME
               value: /tmp
+            - name: BUN_INSTALL_CACHE_DIR
+              value: /app/.bun-install-cache
           image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
           imagePullPolicy: IfNotPresent
           name: init-code
@@ -290,6 +294,8 @@ spec:
           env:
             - name: HOME
               value: /tmp
+            - name: BUN_INSTALL_CACHE_DIR
+              value: /app/.bun-install-cache
             - name: NODE_ENV
               value: production
           envFrom:

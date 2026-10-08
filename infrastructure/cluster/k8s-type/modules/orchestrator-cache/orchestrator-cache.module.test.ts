@@ -18,6 +18,7 @@ import {
   webCheckoutAndBuild,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import {
+  BUN_INSTALL_CACHED,
   type CacheLocation,
   GIT_TRANSPORT_ASKING,
   GIT_TRANSPORT_ORIGIN,
@@ -260,4 +261,13 @@ test("every git call a pod makes reads the token from the pod's environment when
   for (const held of [initCodeOf(ELSEWHERE), sync]) {
     expect(held.env).toEqual(expect.arrayContaining([...GIT_TRANSPORT_ASKING]))
   }
+})
+
+test("every container a pod installs packages in keeps the install cache on the cache volume", () => {
+  const build = webBuildInitContainer({ packagePath: PACKAGE, secretName: "held" }) as Container
+  const sync = orchestratorCacheSyncSidecar({ gitAccessTokenRef: TOKEN_REF }) as Container
+  for (const held of [initCodeOf(ELSEWHERE), build, sync]) {
+    expect(held.env).toContainEqual(BUN_INSTALL_CACHED)
+  }
+  expect(BUN_INSTALL_CACHED.value.startsWith("/app/")).toBe(true)
 })
