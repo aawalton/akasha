@@ -13,4 +13,31 @@ export const fitness = {
     "page-type/selection-policy",
     "page-type/gym",
   ],
+  directives: [
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Planned Day",
+      act: "Plan the day's whole workout before Alan's first set, sized to the day's pounds target and focus.",
+      warrant:
+        "Alan carries no decisions in a session, and a workout chosen set by set drifts off the target.",
+      aids: [
+        "Plan around every movement restriction and coaching note.",
+        "Read the target and what is lifted from `akasha fitness today`.",
+        "Change the plan when a set calls for it, without asking Alan.",
+        "Log every set as Alan reports it.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "One New Thing",
+      act: "Put exactly one movement Alan has never logged into each day's workout, and teach it.",
+      warrant: "Alan wants to learn the gym's equipment, and one new movement a day is learnable.",
+      aids: [
+        "Teach where the equipment is, how to set it up, and the cue that matters most.",
+        "Start the new movement light.",
+        "Choose it from what the gym Alan is at has.",
+      ],
+    },
+  ],
+  updatedAt: "2026-10-08T15:18:03.058Z",
 } as const satisfies Domain

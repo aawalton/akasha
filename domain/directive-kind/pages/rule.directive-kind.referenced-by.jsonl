@@ -21,6 +21,7 @@
 {"propertySlug":"directive-kind","path":"alan/harness/rules-engine/rules-engine.domain.ts","id":"01a0657b-9adc-7003-a1af-d02c5457d479"}
 {"propertySlug":"directive-kind","path":"alan/music/spotify/spotify.domain.ts","id":"01a06261-dc1d-7000-8f39-acf6360f39b5"}
 {"propertySlug":"directive-kind","path":"alan/self-care/arousal/arousal.domain.ts","id":"01a06c95-1991-726a-8273-86c28202a2f2"}
+{"propertySlug":"directive-kind","path":"alan/value/health/fitness/fitness.domain.ts","id":"01a06558-7000-7000-8000-000000000001"}
 {"propertySlug":"directive-kind","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
 {"propertySlug":"directive-kind","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}
 {"propertySlug":"directive-kind","path":"check/code/check-code.page-type.ts","id":"01a04bc4-7e86-7beb-8dfb-3666785dd3d5"}
