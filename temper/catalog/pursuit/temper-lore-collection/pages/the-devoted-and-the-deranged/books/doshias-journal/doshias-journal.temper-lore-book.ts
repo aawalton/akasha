@@ -11,4 +11,6 @@ export const doshiasJournal = {
   charted: true,
   quest: 3856,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:22.425Z",
+  updatedAt: "2026-09-25T00:27:24.000Z",
 } as const satisfies TemperLoreBook

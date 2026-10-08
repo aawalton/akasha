@@ -10,4 +10,6 @@ export const picklesTreats = {
   bookIndex: 36,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:13.288Z",
+  updatedAt: "2026-09-25T00:51:15.000Z",
 } as const satisfies TemperLoreBook

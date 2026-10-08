@@ -11,4 +11,6 @@ export const letterToDockmasterArnauld = {
   charted: true,
   quest: 6753,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:15.925Z",
+  updatedAt: "2026-09-25T00:52:18.000Z",
 } as const satisfies TemperLoreBook

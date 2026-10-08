@@ -10,4 +10,6 @@ export const theYear2920Vol26 = {
   charted: true,
   onBookshelves: true,
   mapCounts: [{ mapId: 26, mapCount: 1 }],
+  createdAt: "2026-09-25T00:27:09.032Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

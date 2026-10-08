@@ -7,4 +7,6 @@ export const craftingMotif113SteadfastSocietyDaggers = {
   title: "Crafting Motif 113: Steadfast Society Daggers",
   collection: "temper-lore-collection/steadfast-society-style",
   bookIndex: 6,
+  createdAt: "2026-09-25T00:19:58.734Z",
+  updatedAt: "2026-09-25T00:20:00.000Z",
 } as const satisfies TemperLoreBook

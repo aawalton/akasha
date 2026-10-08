@@ -10,4 +10,6 @@ export const jakolarsJournal = {
   bookIndex: 67,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:22.426Z",
+  updatedAt: "2026-09-25T00:27:24.000Z",
 } as const satisfies TemperLoreBook

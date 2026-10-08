@@ -10,4 +10,6 @@ export const theYear2920Vol17 = {
   bookIndex: 28,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:09.032Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

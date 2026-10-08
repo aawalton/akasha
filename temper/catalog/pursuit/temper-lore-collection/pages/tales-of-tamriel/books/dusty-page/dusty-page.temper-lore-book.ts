@@ -11,4 +11,6 @@ export const dustyPage = {
   charted: true,
   quest: 4071,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:09.030Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

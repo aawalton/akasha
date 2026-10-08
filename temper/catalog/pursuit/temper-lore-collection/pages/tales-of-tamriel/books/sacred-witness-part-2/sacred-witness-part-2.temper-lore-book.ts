@@ -20,4 +20,6 @@ export const sacredWitnessPart2 = {
     { mapId: 1349, mapCount: 17 },
     { mapId: 1429, mapCount: 7 },
   ],
+  createdAt: "2026-09-25T00:27:09.031Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

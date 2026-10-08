@@ -26,4 +26,6 @@ export const sovngardeAReexamination = {
     { mapId: 1060, mapCount: 15 },
     { mapId: 1126, mapCount: 18 },
   ],
+  createdAt: "2026-09-25T00:27:22.426Z",
+  updatedAt: "2026-09-25T00:27:24.000Z",
 } as const satisfies TemperLoreBook

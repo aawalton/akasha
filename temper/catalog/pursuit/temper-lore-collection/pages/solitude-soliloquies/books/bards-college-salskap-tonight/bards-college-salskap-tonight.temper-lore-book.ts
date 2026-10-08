@@ -10,4 +10,6 @@ export const bardsCollegeSalskapTonight = {
   bookIndex: 97,
   charted: false,
   quest: 6482,
+  createdAt: "2026-09-25T00:51:13.287Z",
+  updatedAt: "2026-09-25T00:51:15.000Z",
 } as const satisfies TemperLoreBook

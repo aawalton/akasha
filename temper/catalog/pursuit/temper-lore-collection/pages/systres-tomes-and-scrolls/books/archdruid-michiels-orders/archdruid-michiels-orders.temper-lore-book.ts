@@ -10,4 +10,6 @@ export const archdruidMichielsOrders = {
   charted: true,
   quest: 6843,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:15.924Z",
+  updatedAt: "2026-09-25T00:52:18.000Z",
 } as const satisfies TemperLoreBook

@@ -10,4 +10,6 @@ export const theRealInvestigatorVale = {
   bookIndex: 15,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:50:29.438Z",
+  updatedAt: "2026-09-25T00:50:31.000Z",
 } as const satisfies TemperLoreBook

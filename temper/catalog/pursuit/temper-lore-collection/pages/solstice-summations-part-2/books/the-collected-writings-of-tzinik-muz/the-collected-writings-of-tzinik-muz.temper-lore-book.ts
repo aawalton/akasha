@@ -7,4 +7,6 @@ export const theCollectedWritingsOfTzinikMuz = {
   title: "The Collected Writings of Tzinik-Muz",
   collection: "temper-lore-collection/solstice-summations-part-2",
   bookIndex: 35,
+  createdAt: "2026-09-25T00:54:14.707Z",
+  updatedAt: "2026-09-25T00:54:16.000Z",
 } as const satisfies TemperLoreBook

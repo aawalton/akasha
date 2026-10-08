@@ -15,4 +15,6 @@ export const theYear2920Vol19 = {
     { mapId: 125, mapCount: 18 },
     { mapId: 256, mapCount: 8 },
   ],
+  createdAt: "2026-09-25T00:27:09.032Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

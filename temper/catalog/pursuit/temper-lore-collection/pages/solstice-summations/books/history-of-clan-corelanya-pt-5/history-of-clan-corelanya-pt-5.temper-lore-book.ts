@@ -12,4 +12,6 @@ export const historyOfClanCorelanyaPt5 = {
   onBookshelves: true,
   mapCounts: [{ mapId: 2603, mapCount: 1 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:56.713Z",
+  updatedAt: "2026-09-25T00:53:58.000Z",
 } as const satisfies TemperLoreBook

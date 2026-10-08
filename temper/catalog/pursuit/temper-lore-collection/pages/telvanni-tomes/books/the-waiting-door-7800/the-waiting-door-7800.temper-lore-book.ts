@@ -10,4 +10,6 @@ export const theWaitingDoor7800 = {
   bookIndex: 95,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:46.108Z",
+  updatedAt: "2026-09-25T00:52:48.000Z",
 } as const satisfies TemperLoreBook

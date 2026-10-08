@@ -9,4 +9,6 @@ export const fadingBuildersJournalIi8533 = {
   esoBookId: 8533,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:54:14.706Z",
+  updatedAt: "2026-09-25T00:54:16.000Z",
 } as const satisfies TemperLoreBook

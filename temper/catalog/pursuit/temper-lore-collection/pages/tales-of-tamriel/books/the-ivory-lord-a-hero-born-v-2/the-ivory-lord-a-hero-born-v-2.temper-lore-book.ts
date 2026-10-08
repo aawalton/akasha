@@ -10,4 +10,6 @@ export const theIvoryLordAHeroBornV2 = {
   bookIndex: 63,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:09.031Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

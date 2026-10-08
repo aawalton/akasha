@@ -7,4 +7,6 @@ export const craftingMotif114SystresGuardianShields = {
   title: "Crafting Motif 114: Systres Guardian Shields",
   collection: "temper-lore-collection/systres-guardian-style",
   bookIndex: 11,
+  createdAt: "2026-09-25T00:20:04.111Z",
+  updatedAt: "2026-09-25T00:20:05.000Z",
 } as const satisfies TemperLoreBook

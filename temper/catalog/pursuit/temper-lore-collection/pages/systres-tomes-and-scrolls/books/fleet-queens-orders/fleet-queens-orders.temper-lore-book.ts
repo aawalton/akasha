@@ -9,4 +9,6 @@ export const fleetQueensOrders = {
   esoBookId: 7039,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:15.925Z",
+  updatedAt: "2026-09-25T00:52:18.000Z",
 } as const satisfies TemperLoreBook

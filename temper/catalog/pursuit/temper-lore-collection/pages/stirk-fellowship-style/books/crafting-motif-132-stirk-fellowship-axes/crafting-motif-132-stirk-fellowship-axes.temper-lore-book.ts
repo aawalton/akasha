@@ -7,4 +7,6 @@ export const craftingMotif132StirkFellowshipAxes = {
   title: "Crafting Motif 132: Stirk Fellowship Axes",
   collection: "temper-lore-collection/stirk-fellowship-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:22:10.200Z",
+  updatedAt: "2026-09-25T00:22:11.000Z",
 } as const satisfies TemperLoreBook

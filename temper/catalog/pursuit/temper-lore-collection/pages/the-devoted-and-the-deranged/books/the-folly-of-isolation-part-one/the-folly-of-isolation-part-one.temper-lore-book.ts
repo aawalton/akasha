@@ -7,4 +7,6 @@ export const theFollyOfIsolationPartOne = {
   title: "The Folly of Isolation, Part One",
   collection: "temper-lore-collection/the-devoted-and-the-deranged",
   bookIndex: 33,
+  createdAt: "2026-09-25T00:27:22.427Z",
+  updatedAt: "2026-09-25T00:27:24.000Z",
 } as const satisfies TemperLoreBook

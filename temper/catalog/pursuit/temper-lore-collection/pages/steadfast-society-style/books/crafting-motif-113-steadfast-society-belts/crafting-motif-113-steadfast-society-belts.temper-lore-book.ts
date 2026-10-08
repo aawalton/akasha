@@ -7,4 +7,6 @@ export const craftingMotif113SteadfastSocietyBelts = {
   title: "Crafting Motif 113: Steadfast Society Belts",
   collection: "temper-lore-collection/steadfast-society-style",
   bookIndex: 2,
+  createdAt: "2026-09-25T00:19:58.734Z",
+  updatedAt: "2026-09-25T00:20:00.000Z",
 } as const satisfies TemperLoreBook

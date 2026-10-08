@@ -9,4 +9,6 @@ export const theYear2920Vol20 = {
   esoBookId: 2357,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:09.032Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

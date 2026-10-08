@@ -7,4 +7,6 @@ export const mannimarcosNotes = {
   title: "Mannimarco's Notes",
   collection: "temper-lore-collection/solstice-summations-part-2",
   bookIndex: 28,
+  createdAt: "2026-09-25T00:54:14.706Z",
+  updatedAt: "2026-09-25T00:54:16.000Z",
 } as const satisfies TemperLoreBook

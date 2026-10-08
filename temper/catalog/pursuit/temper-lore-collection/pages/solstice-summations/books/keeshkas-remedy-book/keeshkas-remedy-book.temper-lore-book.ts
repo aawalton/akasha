@@ -10,4 +10,6 @@ export const keeshkasRemedyBook = {
   bookIndex: 28,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:53:56.713Z",
+  updatedAt: "2026-09-25T00:53:58.000Z",
 } as const satisfies TemperLoreBook

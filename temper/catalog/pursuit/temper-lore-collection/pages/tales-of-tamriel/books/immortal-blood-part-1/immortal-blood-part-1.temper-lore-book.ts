@@ -16,4 +16,6 @@ export const immortalBloodPart1 = {
     { mapId: 30, mapCount: 18 },
     { mapId: 61, mapCount: 23 },
   ],
+  createdAt: "2026-09-25T00:27:09.030Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

@@ -17,4 +17,6 @@ export const moonWorshipAmongTheCatMen = {
     { mapId: 125, mapCount: 9 },
     { mapId: 256, mapCount: 8 },
   ],
+  createdAt: "2026-09-25T00:27:22.426Z",
+  updatedAt: "2026-09-25T00:27:24.000Z",
 } as const satisfies TemperLoreBook

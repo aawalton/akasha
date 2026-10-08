@@ -7,4 +7,6 @@ export const craftingMotif77StagsOfZenBoots = {
   title: "Crafting Motif 77: Stags of Z'en Boots",
   collection: "temper-lore-collection/stags-of-zen-style",
   bookIndex: 3,
+  createdAt: "2026-09-25T00:17:02.765Z",
+  updatedAt: "2026-09-25T00:17:03.000Z",
 } as const satisfies TemperLoreBook

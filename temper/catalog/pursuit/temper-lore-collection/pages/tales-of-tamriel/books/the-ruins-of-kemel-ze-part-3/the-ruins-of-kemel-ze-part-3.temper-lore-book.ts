@@ -18,4 +18,6 @@ export const theRuinsOfKemelZePart3 = {
     { mapId: 201, mapCount: 2 },
     { mapId: 258, mapCount: 5 },
   ],
+  createdAt: "2026-09-25T00:27:09.031Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

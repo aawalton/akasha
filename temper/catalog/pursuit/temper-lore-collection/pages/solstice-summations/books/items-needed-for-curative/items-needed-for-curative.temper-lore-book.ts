@@ -7,4 +7,6 @@ export const itemsNeededForCurative = {
   title: "Items Needed for Curative",
   collection: "temper-lore-collection/solstice-summations",
   bookIndex: 10,
+  createdAt: "2026-09-25T00:53:56.713Z",
+  updatedAt: "2026-09-25T00:53:58.000Z",
 } as const satisfies TemperLoreBook

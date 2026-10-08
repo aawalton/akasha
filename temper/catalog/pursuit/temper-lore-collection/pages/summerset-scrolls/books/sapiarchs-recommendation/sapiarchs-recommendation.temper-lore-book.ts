@@ -11,4 +11,6 @@ export const sapiarchsRecommendation = {
   charted: true,
   quest: 6141,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:50:29.437Z",
+  updatedAt: "2026-09-25T00:50:31.000Z",
 } as const satisfies TemperLoreBook

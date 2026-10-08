@@ -9,4 +9,6 @@ export const artOfSmashingVol1 = {
   esoBookId: 5104,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:50:29.436Z",
+  updatedAt: "2026-09-25T00:50:31.000Z",
 } as const satisfies TemperLoreBook

@@ -24,4 +24,6 @@ export const theSultryArgonianBardVol1 = {
     { mapId: 1349, mapCount: 13 },
     { mapId: 1429, mapCount: 5 },
   ],
+  createdAt: "2026-09-25T00:27:09.031Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

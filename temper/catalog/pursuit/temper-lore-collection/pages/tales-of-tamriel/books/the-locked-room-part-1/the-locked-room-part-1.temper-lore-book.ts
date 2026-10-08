@@ -19,4 +19,6 @@ export const theLockedRoomPart1 = {
     { mapId: 27, mapCount: 10 },
     { mapId: 300, mapCount: 12 },
   ],
+  createdAt: "2026-09-25T00:27:09.031Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

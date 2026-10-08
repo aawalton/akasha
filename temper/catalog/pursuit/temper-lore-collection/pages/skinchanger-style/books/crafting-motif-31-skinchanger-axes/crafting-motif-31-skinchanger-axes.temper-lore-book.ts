@@ -7,4 +7,6 @@ export const craftingMotif31SkinchangerAxes = {
   title: "Crafting Motif 31: Skinchanger Axes",
   collection: "temper-lore-collection/skinchanger-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:13:37.108Z",
+  updatedAt: "2026-09-25T00:13:38.000Z",
 } as const satisfies TemperLoreBook

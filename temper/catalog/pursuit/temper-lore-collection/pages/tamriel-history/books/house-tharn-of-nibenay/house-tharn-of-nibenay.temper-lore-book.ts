@@ -8,4 +8,6 @@ export const houseTharnOfNibenay = {
   collection: "temper-lore-collection/tamriel-history",
   bookIndex: 7,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:23.985Z",
+  updatedAt: "2026-09-25T00:08:25.000Z",
 } as const satisfies TemperLoreBook

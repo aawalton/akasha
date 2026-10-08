@@ -7,4 +7,6 @@ export const aTaleOfGreed = {
   title: "A Tale of Greed",
   collection: "temper-lore-collection/solstice-summations-part-2",
   bookIndex: 66,
+  createdAt: "2026-09-25T00:54:14.706Z",
+  updatedAt: "2026-09-25T00:54:16.000Z",
 } as const satisfies TemperLoreBook

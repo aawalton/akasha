@@ -8,4 +8,6 @@ export const rhadhsInstructions = {
   collection: "temper-lore-collection/systres-tomes-and-scrolls",
   esoBookId: 7103,
   charted: false,
+  createdAt: "2026-09-25T00:52:15.926Z",
+  updatedAt: "2026-09-25T00:52:18.000Z",
 } as const satisfies TemperLoreBook

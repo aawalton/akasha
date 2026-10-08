@@ -7,4 +7,6 @@ export const craftingMotif112SyrabanicMarineStaves = {
   title: "Crafting Motif 112: Syrabanic Marine Staves",
   collection: "temper-lore-collection/syrabanic-marine-style",
   bookIndex: 13,
+  createdAt: "2026-09-25T00:19:53.462Z",
+  updatedAt: "2026-09-25T00:19:54.000Z",
 } as const satisfies TemperLoreBook

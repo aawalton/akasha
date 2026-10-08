@@ -11,4 +11,6 @@ export const theYear2920Vol25 = {
   onBookshelves: true,
   mapCounts: [{ mapId: 25, mapCount: 1 }],
   positions: "jsonl",
+  createdAt: "2026-09-25T00:27:09.032Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

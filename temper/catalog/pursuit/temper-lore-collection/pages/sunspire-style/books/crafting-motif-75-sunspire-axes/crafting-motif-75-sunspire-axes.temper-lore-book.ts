@@ -7,4 +7,6 @@ export const craftingMotif75SunspireAxes = {
   title: "Crafting Motif 75: Sunspire Axes",
   collection: "temper-lore-collection/sunspire-style",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:16:52.809Z",
+  updatedAt: "2026-09-25T00:16:53.000Z",
 } as const satisfies TemperLoreBook

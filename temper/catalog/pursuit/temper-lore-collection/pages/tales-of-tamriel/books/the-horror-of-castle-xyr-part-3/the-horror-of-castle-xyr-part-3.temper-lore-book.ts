@@ -28,4 +28,6 @@ export const theHorrorOfCastleXyrPart3 = {
     { mapId: 1060, mapCount: 16 },
     { mapId: 1126, mapCount: 16 },
   ],
+  createdAt: "2026-09-25T00:27:09.031Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

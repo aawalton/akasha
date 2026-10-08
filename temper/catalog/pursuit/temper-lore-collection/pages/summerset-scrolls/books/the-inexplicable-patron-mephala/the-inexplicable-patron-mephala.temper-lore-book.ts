@@ -14,4 +14,6 @@ export const theInexplicablePatronMephala = {
     { mapId: 1349, mapCount: 48 },
     { mapId: 1429, mapCount: 16 },
   ],
+  createdAt: "2026-09-25T00:50:29.438Z",
+  updatedAt: "2026-09-25T00:50:31.000Z",
 } as const satisfies TemperLoreBook

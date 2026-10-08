@@ -9,4 +9,6 @@ export const skyTalker = {
   esoBookId: 5910,
   charted: true,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:51:13.289Z",
+  updatedAt: "2026-09-25T00:51:15.000Z",
 } as const satisfies TemperLoreBook

@@ -11,4 +11,6 @@ export const onJoiningTheKeepersOfTheDead = {
   charted: true,
   onBookshelves: true,
   mapCounts: [{ mapId: 2274, mapCount: 1 }],
+  createdAt: "2026-09-25T00:52:46.108Z",
+  updatedAt: "2026-09-25T00:52:48.000Z",
 } as const satisfies TemperLoreBook

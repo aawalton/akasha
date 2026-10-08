@@ -16,4 +16,6 @@ export const beggarPrince = {
     { mapId: 30, mapCount: 17 },
     { mapId: 61, mapCount: 8 },
   ],
+  createdAt: "2026-09-25T00:27:09.030Z",
+  updatedAt: "2026-09-25T00:27:11.000Z",
 } as const satisfies TemperLoreBook

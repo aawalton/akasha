@@ -8,4 +8,6 @@ export const once = {
   collection: "temper-lore-collection/stormhaven-lore",
   bookIndex: 1,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:06:54.696Z",
+  updatedAt: "2026-09-25T00:06:55.000Z",
 } as const satisfies TemperLoreBook

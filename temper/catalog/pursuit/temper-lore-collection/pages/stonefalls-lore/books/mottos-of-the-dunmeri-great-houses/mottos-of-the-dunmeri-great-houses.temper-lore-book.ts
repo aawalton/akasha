@@ -8,4 +8,6 @@ export const mottosOfTheDunmeriGreatHouses = {
   collection: "temper-lore-collection/stonefalls-lore",
   bookIndex: 6,
   shalidorPins: "jsonl",
+  createdAt: "2026-09-25T00:08:29.015Z",
+  updatedAt: "2026-09-25T00:08:30.000Z",
 } as const satisfies TemperLoreBook

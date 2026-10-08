@@ -11,4 +11,6 @@ export const theAscendantProclamation = {
   charted: true,
   quest: 6752,
   positions: "jsonl",
+  createdAt: "2026-09-25T00:52:15.926Z",
+  updatedAt: "2026-09-25T00:52:18.000Z",
 } as const satisfies TemperLoreBook

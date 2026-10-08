@@ -7,4 +7,6 @@ export const warningOoztTzelDisappearances = {
   title: "Warning: Oozt-Tzel Disappearances",
   collection: "temper-lore-collection/solstice-summations-part-2",
   bookIndex: 1,
+  createdAt: "2026-09-25T00:54:14.707Z",
+  updatedAt: "2026-09-25T00:54:16.000Z",
 } as const satisfies TemperLoreBook

@@ -7,4 +7,6 @@ export const letterConcerningTredecim = {
   title: "Letter Concerning Tredecim",
   collection: "temper-lore-collection/telvanni-tomes",
   bookIndex: 25,
+  createdAt: "2026-09-25T00:52:46.107Z",
+  updatedAt: "2026-09-25T00:52:48.000Z",
 } as const satisfies TemperLoreBook
