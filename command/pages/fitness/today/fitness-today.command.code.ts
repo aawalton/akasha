@@ -126,7 +126,7 @@ function todayOf(root: string, now: Date): Today {
     moved,
     {
       seed: selectionPolicy.volumeLimitSeed,
-      from: selectionPolicy.volumeTargetFrom,
+      from: selectionPolicy.volumeLimitFrom,
       rise: selectionPolicy.volumeLimitRise,
       fall: selectionPolicy.volumeLimitFall,
     },
