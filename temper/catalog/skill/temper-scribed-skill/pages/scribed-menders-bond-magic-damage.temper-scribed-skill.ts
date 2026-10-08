@@ -21,4 +21,6 @@ export const scribedMendersBondMagicDamage = {
   focusScriptId: "temper-focus-script/magic-damage",
   grimoireId: "temper-grimoire/menders-bond",
   hashPlace: 1657,
+  createdAt: "2026-05-26T13:19:53.264Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

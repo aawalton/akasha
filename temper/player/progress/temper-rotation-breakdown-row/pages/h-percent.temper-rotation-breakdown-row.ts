@@ -8,4 +8,6 @@ export const hPercent = {
   key: "h-percent",
   description: "Percentage of total healing done",
   fullName: "Healing Percent",
+  createdAt: "2026-05-25T04:51:27.444Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRotationBreakdownRow

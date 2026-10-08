@@ -14,4 +14,6 @@ export const trophiesBank = {
   active: false,
   goal: "temper-rule-goal/hoard",
   destination: "bank",
+  createdAt: "2026-05-16T13:40:16.033Z",
+  updatedAt: "2026-09-22T22:08:51.000Z",
 } as const satisfies TemperRuleTemplate

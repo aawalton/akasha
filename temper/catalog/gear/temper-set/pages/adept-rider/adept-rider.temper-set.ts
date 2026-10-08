@@ -89,4 +89,6 @@ export const adeptRider = {
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",
+  createdAt: "2026-05-26T23:11:22.159Z",
+  updatedAt: "2026-09-26T20:37:45.000Z",
 } as const satisfies TemperSet

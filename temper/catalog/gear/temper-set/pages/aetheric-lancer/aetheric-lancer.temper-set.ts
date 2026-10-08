@@ -62,4 +62,6 @@ export const aethericLancer = {
   classId: "temper-class/templar",
   bonuses: "jsonl",
   icons: "jsonl",
+  createdAt: "2026-05-26T13:40:57.437Z",
+  updatedAt: "2026-09-25T18:45:59.000Z",
 } as const satisfies TemperSet

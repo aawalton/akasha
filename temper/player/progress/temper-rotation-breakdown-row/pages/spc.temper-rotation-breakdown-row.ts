@@ -8,4 +8,6 @@ export const spc = {
   key: "spc",
   description: "Average shielding applied per skill cast",
   fullName: "Shielding Per Cast",
+  createdAt: "2026-05-25T04:51:27.447Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRotationBreakdownRow

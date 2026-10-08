@@ -7,4 +7,6 @@ export const itemIdsChip = {
   title: "Items: {items}",
   key: "item-ids-chip",
   displayOrder: 77,
+  createdAt: "2026-09-27T11:45:20.383Z",
+  updatedAt: "2026-09-27T11:45:27.000Z",
 } as const satisfies TemperRuleCardPhrase

@@ -59,4 +59,6 @@ export const eternalWarrior = {
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",
+  createdAt: "2026-05-27T00:53:54.557Z",
+  updatedAt: "2026-09-25T18:45:59.000Z",
 } as const satisfies TemperSet

@@ -7,4 +7,6 @@ export const collapseRule = {
   title: "Collapse rule",
   key: "collapse-rule",
   displayOrder: 74,
+  createdAt: "2026-09-27T11:44:11.810Z",
+  updatedAt: "2026-09-27T11:44:19.000Z",
 } as const satisfies TemperRuleCardPhrase

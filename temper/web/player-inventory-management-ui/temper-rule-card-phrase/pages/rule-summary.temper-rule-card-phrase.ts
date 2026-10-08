@@ -7,4 +7,6 @@ export const ruleSummary = {
   title: "{title} — {action}",
   key: "rule-summary",
   displayOrder: 76,
+  createdAt: "2026-09-27T11:43:07.458Z",
+  updatedAt: "2026-09-27T11:43:15.000Z",
 } as const satisfies TemperRuleCardPhrase

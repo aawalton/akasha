@@ -7,4 +7,6 @@ export const majAlRagath = {
   title: "Maj al-Ragath",
   cycleLength: 12,
   epoch: "2026-02-21",
+  createdAt: "2026-05-10T13:42:13.055Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies TemperQuestGiver

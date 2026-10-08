@@ -7,4 +7,6 @@ export const destroy = {
   title: "Destroy",
   description: "Keeps nothing, and lets the item go.",
   displayOrder: 8,
+  createdAt: "2026-09-05T14:25:21.523Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRuleGoal

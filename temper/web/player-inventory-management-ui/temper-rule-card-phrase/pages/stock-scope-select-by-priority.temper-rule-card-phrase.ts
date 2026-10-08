@@ -7,4 +7,6 @@ export const stockScopeSelectByPriority = {
   title: "By Priority",
   key: "stock-scope-select-by-priority",
   displayOrder: 501,
+  createdAt: "2026-09-27T11:46:45.429Z",
+  updatedAt: "2026-09-27T11:46:52.000Z",
 } as const satisfies TemperRuleCardPhrase

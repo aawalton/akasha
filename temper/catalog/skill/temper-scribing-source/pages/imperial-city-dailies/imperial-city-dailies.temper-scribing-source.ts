@@ -9,4 +9,6 @@ export const imperialCityDailies = {
   scriptType: "affix",
   tierAchievements: "jsonl",
   zoneSlugs: ["temper-zone/imperial-city"],
+  createdAt: "2026-05-10T16:20:19.051Z",
+  updatedAt: "2026-09-22T14:51:15.000Z",
 } as const satisfies TemperScribingSource

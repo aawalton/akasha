@@ -7,4 +7,6 @@ export const ruleCardControlledContentAnyCharacter = {
   title: "Any Character",
   key: "rule-card-controlled-content-any-character",
   displayOrder: 322,
+  createdAt: "2026-09-27T11:47:32.867Z",
+  updatedAt: "2026-09-27T11:47:40.000Z",
 } as const satisfies TemperRuleCardPhrase

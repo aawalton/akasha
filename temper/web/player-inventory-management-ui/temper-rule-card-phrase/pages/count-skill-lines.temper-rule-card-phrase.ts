@@ -7,4 +7,6 @@ export const countSkillLines = {
   title: "{count} Skill Lines",
   key: "count-skill-lines",
   displayOrder: 87,
+  createdAt: "2026-09-27T11:48:13.896Z",
+  updatedAt: "2026-09-27T11:48:22.000Z",
 } as const satisfies TemperRuleCardPhrase

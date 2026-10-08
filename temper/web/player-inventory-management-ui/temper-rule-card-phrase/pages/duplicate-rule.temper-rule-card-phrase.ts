@@ -7,4 +7,6 @@ export const duplicateRule = {
   title: "Duplicate",
   key: "duplicate-rule",
   displayOrder: 60,
+  createdAt: "2026-09-27T11:41:37.410Z",
+  updatedAt: "2026-09-27T11:41:44.000Z",
 } as const satisfies TemperRuleCardPhrase

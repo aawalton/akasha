@@ -10,4 +10,6 @@ export const increaseSpellPower = {
   isPositive: true,
   opposite: "temper-poison-effect/cowardice",
   effects: "jsonl",
+  createdAt: "2026-05-13T15:31:40.010Z",
+  updatedAt: "2026-09-22T13:23:56.000Z",
 } as const satisfies TemperPoisonEffect

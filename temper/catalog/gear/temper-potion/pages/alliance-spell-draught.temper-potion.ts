@@ -8,4 +8,6 @@ export const allianceSpellDraught = {
   key: "alliance-spell-draught",
   itemId: 71072,
   restores: ["temper-metric/magicka-restore"],
+  createdAt: "2026-09-27T04:03:25.437Z",
+  updatedAt: "2026-09-27T04:03:29.000Z",
 } as const satisfies TemperPotion

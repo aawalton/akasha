@@ -7,4 +7,6 @@ export const deleteRuleWarning = {
   title: "This will permanently delete this rule. This action cannot be undone.",
   key: "delete-rule-warning",
   displayOrder: 63,
+  createdAt: "2026-09-27T11:41:37.410Z",
+  updatedAt: "2026-09-27T11:41:44.000Z",
 } as const satisfies TemperRuleCardPhrase

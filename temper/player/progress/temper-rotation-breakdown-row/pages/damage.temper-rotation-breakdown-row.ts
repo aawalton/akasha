@@ -8,4 +8,6 @@ export const damage = {
   key: "damage",
   description: "Total damage dealt over the rotation",
   fullName: "Total Damage",
+  createdAt: "2026-05-25T04:51:27.431Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRotationBreakdownRow

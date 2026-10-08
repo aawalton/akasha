@@ -21,4 +21,6 @@ export const scribedVaultPhysicalDamage = {
   focusScriptId: "temper-focus-script/physical-damage",
   grimoireId: "temper-grimoire/vault",
   hashPlace: 1726,
+  createdAt: "2026-05-26T13:19:53.329Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

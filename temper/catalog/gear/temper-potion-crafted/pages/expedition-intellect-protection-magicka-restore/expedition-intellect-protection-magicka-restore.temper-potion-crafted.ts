@@ -22,4 +22,6 @@ export const expeditionIntellectProtectionMagickaRestore = {
   effects: "jsonl",
   hashPlace: 44,
   encodedTraits: 8591129,
+  createdAt: "2026-05-13T15:30:47.021Z",
+  updatedAt: "2026-09-27T03:40:08.000Z",
 } as const satisfies TemperPotionCrafted

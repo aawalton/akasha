@@ -21,4 +21,6 @@ export const scribedTorchbearerStun = {
   focusScriptId: "temper-focus-script/stun",
   grimoireId: "temper-grimoire/torchbearer",
   hashPlace: 1695,
+  createdAt: "2026-05-26T13:19:53.300Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

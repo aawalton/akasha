@@ -8,4 +8,6 @@ export const dpc = {
   key: "dpc",
   description: "Average damage dealt per skill cast",
   fullName: "Damage Per Cast",
+  createdAt: "2026-05-25T04:51:27.439Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRotationBreakdownRow

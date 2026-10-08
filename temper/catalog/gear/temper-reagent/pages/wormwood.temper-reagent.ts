@@ -14,4 +14,6 @@ export const wormwood = {
     "temper-poison-effect/detection",
     "temper-poison-effect/unstoppable",
   ],
+  createdAt: "2026-05-13T15:31:51.210Z",
+  updatedAt: "2026-09-22T13:24:25.000Z",
 } as const satisfies TemperReagent

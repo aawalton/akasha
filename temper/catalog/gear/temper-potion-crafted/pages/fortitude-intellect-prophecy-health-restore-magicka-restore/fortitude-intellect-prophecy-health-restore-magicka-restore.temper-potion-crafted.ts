@@ -43,4 +43,6 @@ export const fortitudeIntellectProphecyHealthRestoreMagickaRestore = {
   effects: "jsonl",
   hashPlace: 27,
   encodedTraits: 8454927,
+  createdAt: "2026-05-13T15:30:47.005Z",
+  updatedAt: "2026-09-27T03:40:08.000Z",
 } as const satisfies TemperPotionCrafted

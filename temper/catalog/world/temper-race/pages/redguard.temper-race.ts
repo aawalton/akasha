@@ -9,4 +9,6 @@ export const redguard = {
   esoRaceId: 2,
   racialSkillLine: "temper-skill-line/racial-redguard-skills",
   hashPlace: 2,
+  createdAt: "2026-05-16T07:50:12.631Z",
+  updatedAt: "2026-09-27T01:48:07.000Z",
 } as const satisfies TemperRace

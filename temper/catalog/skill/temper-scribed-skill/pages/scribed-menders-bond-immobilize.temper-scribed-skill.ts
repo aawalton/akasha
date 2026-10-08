@@ -21,4 +21,6 @@ export const scribedMendersBondImmobilize = {
   focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "temper-grimoire/menders-bond",
   hashPlace: 1656,
+  createdAt: "2026-05-26T13:19:53.263Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

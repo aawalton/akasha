@@ -7,4 +7,6 @@ export const selectSetSources = {
   title: "Select Set Sources",
   key: "select-set-sources",
   displayOrder: 13,
+  createdAt: "2026-09-27T10:41:33.868Z",
+  updatedAt: "2026-09-27T10:41:41.000Z",
 } as const satisfies TemperRuleCardPhrase

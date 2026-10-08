@@ -28,4 +28,6 @@ export const perfectedStingingSlashes = {
   valid: ["sword", "axe", "mace", "dagger"],
   bonuses: "jsonl",
   icons: "jsonl",
+  createdAt: "2026-05-26T13:40:57.415Z",
+  updatedAt: "2026-09-25T18:45:59.000Z",
 } as const satisfies TemperSet

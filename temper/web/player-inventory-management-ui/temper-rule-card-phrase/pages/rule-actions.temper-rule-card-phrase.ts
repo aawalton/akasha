@@ -7,4 +7,6 @@ export const ruleActions = {
   title: "Rule actions",
   key: "rule-actions",
   displayOrder: 59,
+  createdAt: "2026-09-27T11:41:37.411Z",
+  updatedAt: "2026-09-27T11:41:44.000Z",
 } as const satisfies TemperRuleCardPhrase

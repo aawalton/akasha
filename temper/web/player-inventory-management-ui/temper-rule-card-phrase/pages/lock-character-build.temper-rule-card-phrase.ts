@@ -8,4 +8,6 @@ export const lockCharacterBuild = {
     "The {action} action requires the {filter} filter to ensure only items needed by a target build are equipped.",
   key: "lock-character-build",
   displayOrder: 38,
+  createdAt: "2026-09-27T10:41:33.868Z",
+  updatedAt: "2026-09-27T10:41:41.000Z",
 } as const satisfies TemperRuleCardPhrase

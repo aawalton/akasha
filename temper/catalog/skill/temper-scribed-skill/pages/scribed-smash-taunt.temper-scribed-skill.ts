@@ -21,4 +21,6 @@ export const scribedSmashTaunt = {
   focusScriptId: "temper-focus-script/taunt",
   grimoireId: "temper-grimoire/smash",
   hashPlace: 1676,
+  createdAt: "2026-05-26T13:19:53.282Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

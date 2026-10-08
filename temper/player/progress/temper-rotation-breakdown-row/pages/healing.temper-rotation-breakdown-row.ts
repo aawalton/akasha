@@ -8,4 +8,6 @@ export const healing = {
   key: "healing",
   description: "Total healing done over the rotation",
   fullName: "Total Healing",
+  createdAt: "2026-05-25T04:51:27.442Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRotationBreakdownRow

@@ -22,4 +22,6 @@ export const enduranceSavageryStaminaRestoreStealthDetection = {
   effects: "jsonl",
   hashPlace: 33,
   encodedTraits: 8720661,
+  createdAt: "2026-05-13T15:30:47.011Z",
+  updatedAt: "2026-09-27T03:40:08.000Z",
 } as const satisfies TemperPotionCrafted

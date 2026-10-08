@@ -7,4 +7,6 @@ export const ruleCardFilterTextSyntaxNotWord = {
   title: "-word",
   key: "rule-card-filter-text-syntax-not-word",
   displayOrder: 336,
+  createdAt: "2026-09-27T11:49:16.078Z",
+  updatedAt: "2026-09-27T11:49:23.000Z",
 } as const satisfies TemperRuleCardPhrase

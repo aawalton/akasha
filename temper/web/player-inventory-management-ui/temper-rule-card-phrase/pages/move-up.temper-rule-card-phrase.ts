@@ -7,4 +7,6 @@ export const moveUp = {
   title: "Move Up",
   key: "move-up",
   displayOrder: 71,
+  createdAt: "2026-09-27T11:44:11.811Z",
+  updatedAt: "2026-09-27T11:44:19.000Z",
 } as const satisfies TemperRuleCardPhrase

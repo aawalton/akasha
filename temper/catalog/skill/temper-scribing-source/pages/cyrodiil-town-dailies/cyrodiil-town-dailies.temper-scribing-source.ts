@@ -9,4 +9,6 @@ export const cyrodiilTownDailies = {
   scriptType: "signature",
   tierAchievements: "jsonl",
   zoneSlugs: ["temper-zone/cyrodiil"],
+  createdAt: "2026-05-10T16:20:19.044Z",
+  updatedAt: "2026-09-22T14:51:15.000Z",
 } as const satisfies TemperScribingSource

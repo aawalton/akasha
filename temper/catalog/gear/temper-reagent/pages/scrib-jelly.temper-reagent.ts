@@ -14,4 +14,6 @@ export const scribJelly = {
     "temper-poison-effect/vulnerability",
     "temper-poison-effect/lingering-health",
   ],
+  createdAt: "2026-05-13T15:31:51.203Z",
+  updatedAt: "2026-09-22T13:24:25.000Z",
 } as const satisfies TemperReagent

@@ -21,4 +21,6 @@ export const scribedSoulBurstFrostDamage = {
   focusScriptId: "temper-focus-script/frost-damage",
   grimoireId: "temper-grimoire/soul-burst",
   hashPlace: 1681,
+  createdAt: "2026-05-26T13:19:53.286Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

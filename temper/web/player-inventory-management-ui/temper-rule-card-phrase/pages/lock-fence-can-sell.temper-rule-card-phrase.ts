@@ -8,4 +8,6 @@ export const lockFenceCanSell = {
     "The {action} action requires the {filter} filter because fences only accept items with a vendor sell price.",
   key: "lock-fence-can-sell",
   displayOrder: 34,
+  createdAt: "2026-09-27T10:41:33.868Z",
+  updatedAt: "2026-09-27T10:41:41.000Z",
 } as const satisfies TemperRuleCardPhrase

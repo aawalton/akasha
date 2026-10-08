@@ -21,4 +21,6 @@ export const scribedTorchbearerKnockback = {
   focusScriptId: "temper-focus-script/knockback",
   grimoireId: "temper-grimoire/torchbearer",
   hashPlace: 1693,
+  createdAt: "2026-05-26T13:19:53.298Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

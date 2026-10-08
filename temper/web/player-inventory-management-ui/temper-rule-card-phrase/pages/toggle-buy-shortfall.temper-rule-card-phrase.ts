@@ -7,4 +7,6 @@ export const toggleBuyShortfall = {
   title: "Buy at a merchant or guild store what this rule is short of its target",
   key: "toggle-buy-shortfall",
   displayOrder: 511,
+  createdAt: "2026-09-27T13:32:59.835Z",
+  updatedAt: "2026-09-27T14:34:45.000Z",
 } as const satisfies TemperRuleCardPhrase

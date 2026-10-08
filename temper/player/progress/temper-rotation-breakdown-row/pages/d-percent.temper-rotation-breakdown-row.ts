@@ -8,4 +8,6 @@ export const dPercent = {
   key: "d-percent",
   description: "Percentage of total damage dealt",
   fullName: "Damage Percent",
+  createdAt: "2026-05-25T04:51:27.434Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRotationBreakdownRow

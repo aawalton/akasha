@@ -7,4 +7,6 @@ export const countEffects = {
   title: "{count} Effects",
   key: "count-effects",
   displayOrder: 80,
+  createdAt: "2026-09-27T11:46:34.363Z",
+  updatedAt: "2026-09-27T11:46:42.000Z",
 } as const satisfies TemperRuleCardPhrase

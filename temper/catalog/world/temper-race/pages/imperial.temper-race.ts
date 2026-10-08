@@ -9,4 +9,6 @@ export const imperial = {
   esoRaceId: 10,
   racialSkillLine: "temper-skill-line/racial-imperial-skills",
   hashPlace: 10,
+  createdAt: "2026-05-16T07:50:12.625Z",
+  updatedAt: "2026-09-27T01:48:07.000Z",
 } as const satisfies TemperRace

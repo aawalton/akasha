@@ -7,4 +7,6 @@ export const ruleCardFilterTextHelpSummary = {
   title: "Matches items whose name contains the text.",
   key: "rule-card-filter-text-help-summary",
   displayOrder: 332,
+  createdAt: "2026-09-27T11:49:16.078Z",
+  updatedAt: "2026-09-27T11:49:23.000Z",
 } as const satisfies TemperRuleCardPhrase

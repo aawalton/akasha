@@ -21,4 +21,6 @@ export const scribedTravelingKnifeStun = {
   focusScriptId: "temper-focus-script/stun",
   grimoireId: "temper-grimoire/traveling-knife",
   hashPlace: 1711,
+  createdAt: "2026-05-26T13:19:53.315Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

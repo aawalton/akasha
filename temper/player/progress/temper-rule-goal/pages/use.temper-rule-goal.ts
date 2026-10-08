@@ -7,4 +7,6 @@ export const use = {
   title: "Use",
   description: "Keeps the item to be used up.",
   displayOrder: 4,
+  createdAt: "2026-09-05T14:25:21.526Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRuleGoal

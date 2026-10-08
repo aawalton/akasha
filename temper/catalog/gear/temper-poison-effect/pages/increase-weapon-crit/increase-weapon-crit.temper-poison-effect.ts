@@ -10,4 +10,6 @@ export const increaseWeaponCrit = {
   isPositive: true,
   opposite: "temper-poison-effect/enervation",
   effects: "jsonl",
+  createdAt: "2026-05-13T15:31:40.016Z",
+  updatedAt: "2026-09-22T13:23:56.000Z",
 } as const satisfies TemperPoisonEffect

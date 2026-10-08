@@ -9,4 +9,6 @@ export const unstoppable = {
   icon: "resources/crafting_alchemy_trait_unstoppable.png",
   isPositive: true,
   opposite: "temper-poison-effect/entrapment",
+  createdAt: "2026-05-13T15:31:40.018Z",
+  updatedAt: "2026-09-22T13:23:56.000Z",
 } as const satisfies TemperPoisonEffect

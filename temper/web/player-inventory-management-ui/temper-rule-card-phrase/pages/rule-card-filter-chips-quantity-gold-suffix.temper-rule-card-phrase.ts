@@ -7,4 +7,6 @@ export const ruleCardFilterChipsQuantityGoldSuffix = {
   title: "g",
   key: "rule-card-filter-chips-quantity-gold-suffix",
   displayOrder: 325,
+  createdAt: "2026-09-27T11:47:32.867Z",
+  updatedAt: "2026-09-27T11:47:40.000Z",
 } as const satisfies TemperRuleCardPhrase

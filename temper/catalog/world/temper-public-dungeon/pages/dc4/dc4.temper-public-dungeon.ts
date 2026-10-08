@@ -10,4 +10,6 @@ export const dc4 = {
   zoneKey: "DC4",
   esoAchievementId: 707,
   displayOrder: 8,
+  createdAt: "2026-09-25T12:54:13.475Z",
+  updatedAt: "2026-09-25T12:54:15.000Z",
 } as const satisfies TemperPublicDungeon

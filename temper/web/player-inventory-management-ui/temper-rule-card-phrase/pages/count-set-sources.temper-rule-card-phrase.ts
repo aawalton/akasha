@@ -7,4 +7,6 @@ export const countSetSources = {
   title: "{count} Set Sources",
   key: "count-set-sources",
   displayOrder: 15,
+  createdAt: "2026-09-27T10:41:33.867Z",
+  updatedAt: "2026-09-27T10:41:41.000Z",
 } as const satisfies TemperRuleCardPhrase

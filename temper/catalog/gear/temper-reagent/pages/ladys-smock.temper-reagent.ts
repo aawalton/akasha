@@ -14,4 +14,6 @@ export const ladysSmock = {
     "temper-poison-effect/breach",
     "temper-poison-effect/spell-critical",
   ],
+  createdAt: "2026-05-13T15:31:51.196Z",
+  updatedAt: "2026-09-22T13:24:25.000Z",
 } as const satisfies TemperReagent

@@ -7,4 +7,6 @@ export const ruleCardDestinationTierEligibilityAdd = {
   title: "+ Eligibility",
   key: "rule-card-destination-tier-eligibility-add",
   displayOrder: 312,
+  createdAt: "2026-09-27T11:45:50.800Z",
+  updatedAt: "2026-09-27T11:45:58.000Z",
 } as const satisfies TemperRuleCardPhrase

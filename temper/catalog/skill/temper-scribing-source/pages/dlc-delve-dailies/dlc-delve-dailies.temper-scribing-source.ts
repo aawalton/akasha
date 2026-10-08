@@ -27,4 +27,6 @@ export const dlcDelveDailies = {
     "temper-zone/murkmire",
     "temper-zone/clockwork-city",
   ],
+  createdAt: "2026-05-10T16:20:19.038Z",
+  updatedAt: "2026-09-22T14:51:15.000Z",
 } as const satisfies TemperScribingSource

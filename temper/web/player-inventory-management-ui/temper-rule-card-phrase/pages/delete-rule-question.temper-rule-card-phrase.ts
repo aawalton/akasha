@@ -7,4 +7,6 @@ export const deleteRuleQuestion = {
   title: "Delete Rule?",
   key: "delete-rule-question",
   displayOrder: 68,
+  createdAt: "2026-09-27T11:43:07.457Z",
+  updatedAt: "2026-09-27T11:43:15.000Z",
 } as const satisfies TemperRuleCardPhrase

@@ -7,4 +7,6 @@ export const ultimate = {
   title: "Ultimate",
   key: "ultimate",
   displayOrder: 8,
+  createdAt: "2026-09-27T12:21:13.680Z",
+  updatedAt: "2026-09-27T12:21:20.000Z",
 } as const satisfies TemperResource

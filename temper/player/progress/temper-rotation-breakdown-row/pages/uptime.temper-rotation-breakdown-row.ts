@@ -8,4 +8,6 @@ export const uptime = {
   key: "uptime",
   description: "Percentage of time the effect was active",
   fullName: "Effect Uptime",
+  createdAt: "2026-05-25T04:51:27.451Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRotationBreakdownRow

@@ -7,4 +7,6 @@ export const ruleCardDestinationFormatByPriority = {
   title: "By Priority",
   key: "rule-card-destination-format-by-priority",
   displayOrder: 300,
+  createdAt: "2026-09-27T11:45:50.800Z",
+  updatedAt: "2026-09-27T11:45:58.000Z",
 } as const satisfies TemperRuleCardPhrase

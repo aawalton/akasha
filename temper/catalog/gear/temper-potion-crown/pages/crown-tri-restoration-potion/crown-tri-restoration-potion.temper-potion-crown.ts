@@ -20,4 +20,6 @@ export const crownTriRestorationPotion = {
     "temper-metric/magicka-restore",
     "temper-metric/stamina-restore",
   ],
+  createdAt: "2026-05-13T15:29:54.996Z",
+  updatedAt: "2026-09-27T04:00:27.000Z",
 } as const satisfies TemperPotionCrown

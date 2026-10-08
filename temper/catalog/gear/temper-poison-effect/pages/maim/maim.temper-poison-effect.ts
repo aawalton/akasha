@@ -10,4 +10,6 @@ export const maim = {
   isPositive: false,
   opposite: "temper-poison-effect/increase-weapon-power",
   effects: "jsonl",
+  createdAt: "2026-05-13T15:31:40.013Z",
+  updatedAt: "2026-09-22T13:23:56.000Z",
 } as const satisfies TemperPoisonEffect

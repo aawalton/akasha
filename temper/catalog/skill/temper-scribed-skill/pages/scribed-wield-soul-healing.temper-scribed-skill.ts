@@ -21,4 +21,6 @@ export const scribedWieldSoulHealing = {
   focusScriptId: "temper-focus-script/healing",
   grimoireId: "temper-grimoire/wield-soul",
   hashPlace: 1734,
+  createdAt: "2026-05-26T13:19:53.336Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

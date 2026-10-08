@@ -7,4 +7,6 @@ export const ruleCardDestinationTierSetUnbounded = {
   title: "Set unbounded target quantity",
   key: "rule-card-destination-tier-set-unbounded",
   displayOrder: 305,
+  createdAt: "2026-09-27T11:45:50.800Z",
+  updatedAt: "2026-09-27T11:45:58.000Z",
 } as const satisfies TemperRuleCardPhrase

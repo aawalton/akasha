@@ -20,4 +20,6 @@ export const scribedBannerBearerMitigation = {
   focusScriptId: "temper-focus-script/mitigation",
   grimoireId: "temper-grimoire/banner-bearer",
   hashPlace: 1639,
+  createdAt: "2026-05-26T13:19:53.241Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

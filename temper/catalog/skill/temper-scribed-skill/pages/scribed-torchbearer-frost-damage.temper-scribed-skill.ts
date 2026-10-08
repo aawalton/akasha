@@ -21,4 +21,6 @@ export const scribedTorchbearerFrostDamage = {
   focusScriptId: "temper-focus-script/frost-damage",
   grimoireId: "temper-grimoire/torchbearer",
   hashPlace: 1690,
+  createdAt: "2026-05-26T13:19:53.295Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

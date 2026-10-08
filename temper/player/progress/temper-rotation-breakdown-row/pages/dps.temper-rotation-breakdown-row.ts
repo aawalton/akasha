@@ -8,4 +8,6 @@ export const dps = {
   key: "dps",
   description: "Average damage dealt per second",
   fullName: "Damage Per Second",
+  createdAt: "2026-05-25T04:51:27.437Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRotationBreakdownRow

@@ -20,4 +20,6 @@ export const scribedTrampleDiseaseDamage = {
   focusScriptId: "temper-focus-script/disease-damage",
   grimoireId: "temper-grimoire/trample",
   hashPlace: 1696,
+  createdAt: "2026-05-26T13:19:53.301Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

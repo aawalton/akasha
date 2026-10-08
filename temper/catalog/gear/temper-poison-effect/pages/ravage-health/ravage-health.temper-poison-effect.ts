@@ -9,4 +9,6 @@ export const ravageHealth = {
   opposite: "temper-poison-effect/restore-health",
   cooldown: 10,
   effects: "jsonl",
+  createdAt: "2026-05-13T15:31:39.991Z",
+  updatedAt: "2026-09-22T13:23:56.000Z",
 } as const satisfies TemperPoisonEffect

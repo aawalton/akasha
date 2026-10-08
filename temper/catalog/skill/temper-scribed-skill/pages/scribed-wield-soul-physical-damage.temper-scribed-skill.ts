@@ -21,4 +21,6 @@ export const scribedWieldSoulPhysicalDamage = {
   focusScriptId: "temper-focus-script/physical-damage",
   grimoireId: "temper-grimoire/wield-soul",
   hashPlace: 1736,
+  createdAt: "2026-05-26T13:19:53.338Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

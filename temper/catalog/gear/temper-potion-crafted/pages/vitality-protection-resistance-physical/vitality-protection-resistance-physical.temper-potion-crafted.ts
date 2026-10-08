@@ -64,4 +64,6 @@ export const vitalityProtectionResistancePhysical = {
   effects: "jsonl",
   hashPlace: 13,
   encodedTraits: 8984861,
+  createdAt: "2026-05-13T15:30:46.981Z",
+  updatedAt: "2026-09-27T03:40:08.000Z",
 } as const satisfies TemperPotionCrafted

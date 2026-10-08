@@ -7,4 +7,6 @@ export const ruleCardDestinationTierEligibilityToggleCanLevel = {
   title: "Toggle can level morphs eligibility",
   key: "rule-card-destination-tier-eligibility-toggle-can-level",
   displayOrder: 316,
+  createdAt: "2026-09-27T11:45:50.800Z",
+  updatedAt: "2026-09-27T11:45:58.000Z",
 } as const satisfies TemperRuleCardPhrase

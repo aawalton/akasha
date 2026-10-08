@@ -7,4 +7,6 @@ export const health = {
   title: "Health",
   key: "health",
   displayOrder: 32,
+  createdAt: "2026-09-27T12:21:13.679Z",
+  updatedAt: "2026-09-27T12:21:20.000Z",
 } as const satisfies TemperResource

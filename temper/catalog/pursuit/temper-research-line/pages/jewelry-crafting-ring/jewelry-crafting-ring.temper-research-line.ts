@@ -8,4 +8,6 @@ export const jewelryCraftingRing = {
   displayOrder: 1,
   parent: "temper-craft-type/jewelry-crafting",
   traits: "jsonl",
+  createdAt: "2026-09-02T09:20:08.929Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperResearchLine

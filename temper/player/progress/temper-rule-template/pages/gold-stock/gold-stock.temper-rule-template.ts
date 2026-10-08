@@ -15,4 +15,6 @@ export const goldStock = {
   goal: "temper-rule-goal/use",
   stockScope: "any-character",
   conditions: "jsonl",
+  createdAt: "2026-05-16T13:40:16.004Z",
+  updatedAt: "2026-09-27T01:44:39.000Z",
 } as const satisfies TemperRuleTemplate

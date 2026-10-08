@@ -8,4 +8,6 @@ export const lockUnlockLocked = {
     "The {action} action requires the {filter} filter because only locked items can be unlocked.",
   key: "lock-unlock-locked",
   displayOrder: 42,
+  createdAt: "2026-09-27T10:41:33.868Z",
+  updatedAt: "2026-09-27T10:41:41.000Z",
 } as const satisfies TemperRuleCardPhrase

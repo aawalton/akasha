@@ -15,4 +15,6 @@ export const legendary = {
   armorLevelScale: 1,
   setBonusScale: 1,
   defaultQuality: true,
+  createdAt: "2026-05-16T07:51:31.612Z",
+  updatedAt: "2026-09-27T06:59:46.000Z",
 } as const satisfies TemperQuality

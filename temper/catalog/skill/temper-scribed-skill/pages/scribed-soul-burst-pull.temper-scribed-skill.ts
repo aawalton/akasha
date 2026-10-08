@@ -21,4 +21,6 @@ export const scribedSoulBurstPull = {
   focusScriptId: "temper-focus-script/pull",
   grimoireId: "temper-grimoire/soul-burst",
   hashPlace: 1686,
+  createdAt: "2026-05-26T13:19:53.291Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

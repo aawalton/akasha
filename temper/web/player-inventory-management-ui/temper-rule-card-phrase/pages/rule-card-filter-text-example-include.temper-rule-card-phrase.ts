@@ -7,4 +7,6 @@ export const ruleCardFilterTextExampleInclude = {
   title: "Rubedite -Ingot",
   key: "rule-card-filter-text-example-include",
   displayOrder: 346,
+  createdAt: "2026-09-27T11:49:16.077Z",
+  updatedAt: "2026-09-27T11:49:23.000Z",
 } as const satisfies TemperRuleCardPhrase

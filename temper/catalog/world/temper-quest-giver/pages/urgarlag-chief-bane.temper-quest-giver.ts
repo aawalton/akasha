@@ -7,4 +7,6 @@ export const urgarlagChiefBane = {
   title: "Urgarlag Chief-bane",
   cycleLength: 34,
   epoch: "2026-02-18",
+  createdAt: "2026-05-10T13:42:13.060Z",
+  updatedAt: "2026-09-21T15:28:00.000Z",
 } as const satisfies TemperQuestGiver

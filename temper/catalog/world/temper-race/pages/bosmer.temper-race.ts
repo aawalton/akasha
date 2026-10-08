@@ -10,4 +10,6 @@ export const bosmer = {
   esoRaceId: 8,
   racialSkillLine: "temper-skill-line/racial-wood-elf-skills",
   hashPlace: 8,
+  createdAt: "2026-05-16T07:50:12.619Z",
+  updatedAt: "2026-09-27T01:48:07.000Z",
 } as const satisfies TemperRace

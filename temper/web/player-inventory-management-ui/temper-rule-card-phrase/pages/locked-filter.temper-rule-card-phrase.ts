@@ -7,4 +7,6 @@ export const lockedFilter = {
   title: "Locked Filter",
   key: "locked-filter",
   displayOrder: 29,
+  createdAt: "2026-09-27T11:14:10.683Z",
+  updatedAt: "2026-09-27T11:14:17.000Z",
 } as const satisfies TemperRuleCardPhrase

@@ -21,4 +21,6 @@ export const scribedVaultBleedDamage = {
   focusScriptId: "temper-focus-script/bleed-damage",
   grimoireId: "temper-grimoire/vault",
   hashPlace: 1721,
+  createdAt: "2026-05-26T13:19:53.324Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

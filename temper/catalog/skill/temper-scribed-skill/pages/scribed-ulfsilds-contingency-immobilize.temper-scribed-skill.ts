@@ -21,4 +21,6 @@ export const scribedUlfsildsContingencyImmobilize = {
   focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "temper-grimoire/ulfsilds-contingency",
   hashPlace: 1717,
+  createdAt: "2026-05-26T13:19:53.320Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

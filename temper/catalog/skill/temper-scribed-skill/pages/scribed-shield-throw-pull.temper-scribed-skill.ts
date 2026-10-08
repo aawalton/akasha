@@ -21,4 +21,6 @@ export const scribedShieldThrowPull = {
   focusScriptId: "temper-focus-script/pull",
   grimoireId: "temper-grimoire/shield-throw",
   hashPlace: 1666,
+  createdAt: "2026-05-26T13:19:53.273Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

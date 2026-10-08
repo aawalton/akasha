@@ -8,4 +8,6 @@ export const hpc = {
   key: "hpc",
   description: "Average healing done per skill cast",
   fullName: "Healing Per Cast",
+  createdAt: "2026-05-25T04:51:27.449Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRotationBreakdownRow

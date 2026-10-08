@@ -14,4 +14,6 @@ export const glyphsDeconstruct = {
   active: false,
   goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
+  createdAt: "2026-05-16T13:40:16.028Z",
+  updatedAt: "2026-09-22T22:08:51.000Z",
 } as const satisfies TemperRuleTemplate

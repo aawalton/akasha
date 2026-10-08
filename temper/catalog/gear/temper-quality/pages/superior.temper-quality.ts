@@ -14,4 +14,6 @@ export const superior = {
   weaponLevelScale: 0.8299625468164794,
   armorLevelScale: 0.9427,
   setBonusScale: 0.941,
+  createdAt: "2026-05-16T07:51:31.606Z",
+  updatedAt: "2026-09-27T04:15:45.000Z",
 } as const satisfies TemperQuality

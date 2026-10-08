@@ -10,4 +10,6 @@ export const cg = {
   zoneKey: "SO",
   esoAchievementId: 4471,
   displayOrder: 35,
+  createdAt: "2026-09-25T12:54:13.475Z",
+  updatedAt: "2026-09-25T12:54:15.000Z",
 } as const satisfies TemperPublicDungeon

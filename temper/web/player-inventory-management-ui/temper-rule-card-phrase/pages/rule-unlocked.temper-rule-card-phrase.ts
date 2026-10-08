@@ -7,4 +7,6 @@ export const ruleUnlocked = {
   title: "Unlocked",
   key: "rule-unlocked",
   displayOrder: 50,
+  createdAt: "2026-09-27T11:12:40.517Z",
+  updatedAt: "2026-09-27T11:12:47.000Z",
 } as const satisfies TemperRuleCardPhrase

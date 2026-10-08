@@ -7,4 +7,6 @@ export const ruleCardFilterTextExampleExclude = {
   title: '-"Rubedite Ingot"',
   key: "rule-card-filter-text-example-exclude",
   displayOrder: 347,
+  createdAt: "2026-09-27T11:49:16.077Z",
+  updatedAt: "2026-09-27T11:49:23.000Z",
 } as const satisfies TemperRuleCardPhrase

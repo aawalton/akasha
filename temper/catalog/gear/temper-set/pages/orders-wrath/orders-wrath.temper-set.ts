@@ -89,4 +89,6 @@ export const ordersWrath = {
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",
+  createdAt: "2026-05-26T23:11:22.203Z",
+  updatedAt: "2026-09-25T18:45:59.000Z",
 } as const satisfies TemperSet

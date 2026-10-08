@@ -8,4 +8,6 @@ export const glowingCyanTincture = {
   key: "glowing-cyan-tincture",
   itemId: 68351,
   restores: ["temper-metric/magicka-restore"],
+  createdAt: "2026-09-27T04:03:25.437Z",
+  updatedAt: "2026-09-27T04:03:29.000Z",
 } as const satisfies TemperPotion

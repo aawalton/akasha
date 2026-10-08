@@ -7,4 +7,6 @@ export const whyFilterLocked = {
   title: "Why is this filter locked?",
   key: "why-filter-locked",
   displayOrder: 28,
+  createdAt: "2026-09-27T11:14:10.684Z",
+  updatedAt: "2026-09-27T11:14:17.000Z",
 } as const satisfies TemperRuleCardPhrase

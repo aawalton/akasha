@@ -21,4 +21,6 @@ export const scribedTorchbearerGenerateUltimate = {
   focusScriptId: "temper-focus-script/generate-ultimate",
   grimoireId: "temper-grimoire/torchbearer",
   hashPlace: 1691,
+  createdAt: "2026-05-26T13:19:53.296Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

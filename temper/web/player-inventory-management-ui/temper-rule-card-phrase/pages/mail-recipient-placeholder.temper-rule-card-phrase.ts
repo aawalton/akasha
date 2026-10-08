@@ -7,4 +7,6 @@ export const mailRecipientPlaceholder = {
   title: "PlayerName",
   key: "mail-recipient-placeholder",
   displayOrder: 66,
+  createdAt: "2026-09-27T11:42:15.851Z",
+  updatedAt: "2026-09-27T11:42:24.000Z",
 } as const satisfies TemperRuleCardPhrase

@@ -8,4 +8,6 @@ export const noRace = {
   key: "no-race",
   esoRaceId: 0,
   hashPlace: 0,
+  createdAt: "2026-05-16T07:50:12.610Z",
+  updatedAt: "2026-09-27T01:48:07.000Z",
 } as const satisfies TemperRace

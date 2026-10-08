@@ -8,4 +8,6 @@ export const blacksmithingCuirass = {
   displayOrder: 8,
   parent: "temper-craft-type/blacksmithing",
   traits: "jsonl",
+  createdAt: "2026-09-02T09:20:08.928Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperResearchLine

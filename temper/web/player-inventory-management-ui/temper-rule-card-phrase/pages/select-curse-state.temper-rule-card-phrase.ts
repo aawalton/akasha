@@ -7,4 +7,6 @@ export const selectCurseState = {
   title: "Select Curse State",
   key: "select-curse-state",
   displayOrder: 83,
+  createdAt: "2026-09-27T11:47:13.420Z",
+  updatedAt: "2026-09-27T11:47:20.000Z",
 } as const satisfies TemperRuleCardPhrase

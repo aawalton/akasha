@@ -7,4 +7,6 @@ export const switchToSingleDestination = {
   title: "Switch to single destination",
   key: "switch-to-single-destination",
   displayOrder: 2,
+  createdAt: "2026-09-27T11:11:06.542Z",
+  updatedAt: "2026-09-27T11:11:13.000Z",
 } as const satisfies TemperRuleCardPhrase

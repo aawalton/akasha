@@ -7,4 +7,6 @@ export const task = {
   title: "Task",
   description: "Keeps the item for a task that calls for the item.",
   displayOrder: 5,
+  createdAt: "2026-09-05T14:25:21.525Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRuleGoal

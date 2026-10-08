@@ -21,4 +21,6 @@ export const scribedTrampleDispel = {
   focusScriptId: "temper-focus-script/dispel",
   grimoireId: "temper-grimoire/trample",
   hashPlace: 1697,
+  createdAt: "2026-05-26T13:19:53.301Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

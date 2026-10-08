@@ -7,4 +7,6 @@ export const lockDeconstructScope = {
   title: "The {action} scope controls this filter. Change the scope to '{mode}' to remove it.",
   key: "lock-deconstruct-scope",
   displayOrder: 30,
+  createdAt: "2026-09-27T10:41:33.868Z",
+  updatedAt: "2026-09-27T10:41:41.000Z",
 } as const satisfies TemperRuleCardPhrase

@@ -7,4 +7,6 @@ export const removeFilter = {
   title: "Remove {filter} filter",
   key: "remove-filter",
   displayOrder: 46,
+  createdAt: "2026-09-27T11:11:06.542Z",
+  updatedAt: "2026-09-27T11:11:13.000Z",
 } as const satisfies TemperRuleCardPhrase

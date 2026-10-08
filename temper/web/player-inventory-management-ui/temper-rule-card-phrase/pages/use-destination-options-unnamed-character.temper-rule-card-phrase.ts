@@ -7,4 +7,6 @@ export const useDestinationOptionsUnnamedCharacter = {
   title: "Character {id}",
   key: "use-destination-options-unnamed-character",
   displayOrder: 503,
+  createdAt: "2026-09-27T11:47:22.251Z",
+  updatedAt: "2026-09-27T11:47:31.000Z",
 } as const satisfies TemperRuleCardPhrase

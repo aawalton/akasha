@@ -7,4 +7,6 @@ export const stamina = {
   title: "Stamina",
   key: "stamina",
   displayOrder: 4,
+  createdAt: "2026-09-27T12:21:13.680Z",
+  updatedAt: "2026-09-27T12:21:20.000Z",
 } as const satisfies TemperResource

@@ -78,4 +78,6 @@ export const enduranceFortitudeIntellectHealthRestoreMagickaRestoreStaminaRestor
   effects: "jsonl",
   hashPlace: 17,
   encodedTraits: 8454917,
+  createdAt: "2026-05-13T15:30:46.990Z",
+  updatedAt: "2026-09-27T03:40:08.000Z",
 } as const satisfies TemperPotionCrafted

@@ -7,4 +7,6 @@ export const ruleCardCategoryRowSelect = {
   title: "Select Category",
   key: "rule-card-category-row-select",
   displayOrder: 321,
+  createdAt: "2026-09-27T11:47:32.867Z",
+  updatedAt: "2026-09-27T11:47:40.000Z",
 } as const satisfies TemperRuleCardPhrase

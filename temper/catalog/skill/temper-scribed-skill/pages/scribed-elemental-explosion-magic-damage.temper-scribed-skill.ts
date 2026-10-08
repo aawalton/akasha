@@ -20,4 +20,6 @@ export const scribedElementalExplosionMagicDamage = {
   focusScriptId: "temper-focus-script/magic-damage",
   grimoireId: "temper-grimoire/elemental-explosion",
   hashPlace: 1648,
+  createdAt: "2026-05-26T13:19:53.255Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

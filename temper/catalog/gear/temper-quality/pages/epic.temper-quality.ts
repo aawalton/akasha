@@ -14,4 +14,6 @@ export const epic = {
   weaponLevelScale: 0.847940074906367,
   armorLevelScale: 0.9656,
   setBonusScale: 0.965,
+  createdAt: "2026-05-16T07:51:31.609Z",
+  updatedAt: "2026-09-27T04:15:45.000Z",
 } as const satisfies TemperQuality

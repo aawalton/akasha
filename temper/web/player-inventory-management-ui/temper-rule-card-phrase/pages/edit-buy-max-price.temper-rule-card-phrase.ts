@@ -8,4 +8,6 @@ export const editBuyMaxPrice = {
     "The most gold paid for one; 0 pays a merchant's price, or at most TTC's suggested price at a guild store",
   key: "edit-buy-max-price",
   displayOrder: 514,
+  createdAt: "2026-09-27T14:34:38.381Z",
+  updatedAt: "2026-09-27T14:34:45.000Z",
 } as const satisfies TemperRuleCardPhrase

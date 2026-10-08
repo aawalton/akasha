@@ -7,4 +7,6 @@ export const deposit = {
   title: "Deposit",
   key: "deposit",
   displayOrder: 0,
+  createdAt: "2026-09-27T11:55:38.110Z",
+  updatedAt: "2026-09-27T11:55:45.000Z",
 } as const satisfies TemperPlanPhrase

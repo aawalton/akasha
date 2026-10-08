@@ -7,4 +7,6 @@ export const buyMaxPriceEach = {
   title: "g each",
   key: "buy-max-price-each",
   displayOrder: 513,
+  createdAt: "2026-09-27T14:34:38.381Z",
+  updatedAt: "2026-09-27T14:34:45.000Z",
 } as const satisfies TemperRuleCardPhrase

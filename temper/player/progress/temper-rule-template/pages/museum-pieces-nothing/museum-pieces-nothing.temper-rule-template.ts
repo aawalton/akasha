@@ -13,4 +13,6 @@ export const museumPiecesNothing = {
   action: "temper-item-action/nothing",
   active: false,
   goal: "temper-rule-goal/task",
+  createdAt: "2026-05-16T13:40:16.026Z",
+  updatedAt: "2026-09-22T22:08:51.000Z",
 } as const satisfies TemperRuleTemplate

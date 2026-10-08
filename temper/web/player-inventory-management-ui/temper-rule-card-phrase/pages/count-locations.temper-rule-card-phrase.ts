@@ -7,4 +7,6 @@ export const countLocations = {
   title: "{count} Locations",
   key: "count-locations",
   displayOrder: 18,
+  createdAt: "2026-09-27T10:41:33.867Z",
+  updatedAt: "2026-09-27T10:41:41.000Z",
 } as const satisfies TemperRuleCardPhrase

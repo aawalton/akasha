@@ -8,4 +8,6 @@ export const lockUse = {
     "The {action} action requires the {filter} filter to ensure only items that teach something new are consumed.",
   key: "lock-use",
   displayOrder: 32,
+  createdAt: "2026-09-27T10:41:33.868Z",
+  updatedAt: "2026-09-27T10:41:41.000Z",
 } as const satisfies TemperRuleCardPhrase

@@ -7,4 +7,6 @@ export const ruleCardDestinationChainAddTier = {
   title: "Add Tier",
   key: "rule-card-destination-chain-add-tier",
   displayOrder: 301,
+  createdAt: "2026-09-27T11:45:50.799Z",
+  updatedAt: "2026-09-27T11:45:58.000Z",
 } as const satisfies TemperRuleCardPhrase

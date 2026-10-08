@@ -21,4 +21,6 @@ export const scribedUlfsildsContingencyBleedDamage = {
   focusScriptId: "temper-focus-script/bleed-damage",
   grimoireId: "temper-grimoire/ulfsilds-contingency",
   hashPlace: 1712,
+  createdAt: "2026-05-26T13:19:53.316Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

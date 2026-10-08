@@ -7,4 +7,6 @@ export const stockScopeSelectAllCharacters = {
   title: "All Characters",
   key: "stock-scope-select-all-characters",
   displayOrder: 500,
+  createdAt: "2026-09-27T11:46:45.428Z",
+  updatedAt: "2026-09-27T11:46:52.000Z",
 } as const satisfies TemperRuleCardPhrase

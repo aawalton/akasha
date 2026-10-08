@@ -7,4 +7,6 @@ export const ruleCardCategoryRowAll = {
   title: "All {category}",
   key: "rule-card-category-row-all",
   displayOrder: 320,
+  createdAt: "2026-09-27T11:47:32.866Z",
+  updatedAt: "2026-09-27T11:47:40.000Z",
 } as const satisfies TemperRuleCardPhrase

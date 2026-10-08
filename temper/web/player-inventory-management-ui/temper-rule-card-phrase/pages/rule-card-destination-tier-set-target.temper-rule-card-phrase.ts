@@ -7,4 +7,6 @@ export const ruleCardDestinationTierSetTarget = {
   title: "Set target",
   key: "rule-card-destination-tier-set-target",
   displayOrder: 303,
+  createdAt: "2026-09-27T11:45:50.800Z",
+  updatedAt: "2026-09-27T11:45:58.000Z",
 } as const satisfies TemperRuleCardPhrase

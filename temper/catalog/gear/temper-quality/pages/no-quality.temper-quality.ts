@@ -11,4 +11,6 @@ export const noQuality = {
   hashPlace: 0,
   esoDisplayQuality: 0,
   gameName: "Trash",
+  createdAt: "2026-05-16T07:51:31.598Z",
+  updatedAt: "2026-09-27T04:11:30.000Z",
 } as const satisfies TemperQuality

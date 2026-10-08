@@ -11,4 +11,6 @@ export const mythic = {
   hashPlace: 6,
   esoDisplayQuality: 6,
   gameName: "Mythic",
+  createdAt: "2026-05-16T07:51:31.614Z",
+  updatedAt: "2026-09-27T04:11:30.000Z",
 } as const satisfies TemperQuality

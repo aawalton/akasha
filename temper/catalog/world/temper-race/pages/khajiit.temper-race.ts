@@ -9,4 +9,6 @@ export const khajiit = {
   esoRaceId: 9,
   racialSkillLine: "temper-skill-line/racial-khajiit-skills",
   hashPlace: 9,
+  createdAt: "2026-05-16T07:50:12.627Z",
+  updatedAt: "2026-09-27T01:48:07.000Z",
 } as const satisfies TemperRace

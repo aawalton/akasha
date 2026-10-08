@@ -14,4 +14,6 @@ export const impStool = {
     "temper-poison-effect/increase-armor",
     "temper-poison-effect/enervation",
   ],
+  createdAt: "2026-05-13T15:31:51.195Z",
+  updatedAt: "2026-09-22T13:24:25.000Z",
 } as const satisfies TemperReagent

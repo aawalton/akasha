@@ -15,4 +15,6 @@ export const inspireCurrent = {
   goal: "temper-rule-goal/progress",
   destination: "character:by-priority",
   conditions: "jsonl",
+  createdAt: "2026-05-16T13:40:16.020Z",
+  updatedAt: "2026-09-22T22:08:51.000Z",
 } as const satisfies TemperRuleTemplate

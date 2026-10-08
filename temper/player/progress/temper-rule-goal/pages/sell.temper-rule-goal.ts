@@ -7,4 +7,6 @@ export const sell = {
   title: "Sell",
   description: "Keeps the item to turn into gold.",
   displayOrder: 7,
+  createdAt: "2026-09-05T14:25:21.525Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRuleGoal

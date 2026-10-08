@@ -7,4 +7,6 @@ export const ruleCardFilterTextRegexNoteStart = {
   title: "Not a regex —",
   key: "rule-card-filter-text-regex-note-start",
   displayOrder: 343,
+  createdAt: "2026-09-27T11:49:16.078Z",
+  updatedAt: "2026-09-27T11:49:23.000Z",
 } as const satisfies TemperRuleCardPhrase

@@ -7,4 +7,6 @@ export const unlock = {
   title: "Unlock",
   description: "Keeps the item until the collection the item belongs to is unlocked.",
   displayOrder: 2,
+  createdAt: "2026-09-05T14:25:21.525Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRuleGoal

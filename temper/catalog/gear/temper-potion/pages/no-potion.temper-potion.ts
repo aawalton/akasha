@@ -7,4 +7,6 @@ export const noPotion = {
   title: "No Potion",
   key: "no-potion",
   hashPlace: 0,
+  createdAt: "2026-09-27T02:11:19.242Z",
+  updatedAt: "2026-09-27T02:11:21.000Z",
 } as const satisfies TemperPotion

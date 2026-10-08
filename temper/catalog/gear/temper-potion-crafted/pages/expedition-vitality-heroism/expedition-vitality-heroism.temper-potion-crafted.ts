@@ -22,4 +22,6 @@ export const expeditionVitalityHeroism = {
   effects: "jsonl",
   hashPlace: 40,
   encodedTraits: 9903391,
+  createdAt: "2026-05-13T15:30:47.017Z",
+  updatedAt: "2026-09-27T03:40:08.000Z",
 } as const satisfies TemperPotionCrafted

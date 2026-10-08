@@ -7,4 +7,6 @@ export const hoard = {
   title: "Hoard",
   description: "Keeps the item in storage against a later need.",
   displayOrder: 6,
+  createdAt: "2026-09-05T14:25:21.525Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRuleGoal

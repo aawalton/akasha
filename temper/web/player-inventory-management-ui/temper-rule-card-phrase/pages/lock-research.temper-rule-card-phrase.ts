@@ -8,4 +8,6 @@ export const lockResearch = {
     "The {action} action requires the {filter} filter to ensure only researchable items are sent to crafting stations.",
   key: "lock-research",
   displayOrder: 31,
+  createdAt: "2026-09-27T10:41:33.868Z",
+  updatedAt: "2026-09-27T10:41:41.000Z",
 } as const satisfies TemperRuleCardPhrase

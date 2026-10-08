@@ -7,4 +7,6 @@ export const ruleCardDestinationTierMoveDown = {
   title: "Move tier down",
   key: "rule-card-destination-tier-move-down",
   displayOrder: 309,
+  createdAt: "2026-09-27T11:45:50.800Z",
+  updatedAt: "2026-09-27T11:45:58.000Z",
 } as const satisfies TemperRuleCardPhrase

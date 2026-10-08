@@ -7,4 +7,6 @@ export const mailRecipientLabel = {
   title: "Recipient account handle",
   key: "mail-recipient-label",
   displayOrder: 67,
+  createdAt: "2026-09-27T11:42:15.851Z",
+  updatedAt: "2026-09-27T11:42:24.000Z",
 } as const satisfies TemperRuleCardPhrase

@@ -7,4 +7,6 @@ export const useDestinationOptionsUnnamedStorageChest = {
   title: "Storage Chest {id}",
   key: "use-destination-options-unnamed-storage-chest",
   displayOrder: 504,
+  createdAt: "2026-09-27T11:47:22.252Z",
+  updatedAt: "2026-09-27T11:47:31.000Z",
 } as const satisfies TemperRuleCardPhrase

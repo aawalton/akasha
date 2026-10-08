@@ -7,4 +7,6 @@ export const buyMaxPriceDefault = {
   title: "merchant or TTC price",
   key: "buy-max-price-default",
   displayOrder: 512,
+  createdAt: "2026-09-27T14:34:38.381Z",
+  updatedAt: "2026-09-27T14:34:45.000Z",
 } as const satisfies TemperRuleCardPhrase

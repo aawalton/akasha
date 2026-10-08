@@ -10,4 +10,6 @@ export const ep2 = {
   zoneKey: "EP2",
   esoAchievementId: 388,
   displayOrder: 11,
+  createdAt: "2026-09-25T12:54:13.476Z",
+  updatedAt: "2026-09-25T12:54:15.000Z",
 } as const satisfies TemperPublicDungeon

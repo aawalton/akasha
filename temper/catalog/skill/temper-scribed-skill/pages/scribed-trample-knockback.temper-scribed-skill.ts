@@ -20,4 +20,6 @@ export const scribedTrampleKnockback = {
   focusScriptId: "temper-focus-script/knockback",
   grimoireId: "temper-grimoire/trample",
   hashPlace: 1699,
+  createdAt: "2026-05-26T13:19:53.303Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

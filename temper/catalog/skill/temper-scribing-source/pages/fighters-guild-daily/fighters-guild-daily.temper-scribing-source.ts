@@ -9,4 +9,6 @@ export const fightersGuildDaily = {
   scriptType: "signature",
   tierAchievements: "jsonl",
   zoneSlugs: ["temper-zone/stormhaven", "temper-zone/deshaan", "temper-zone/grahtwood"],
+  createdAt: "2026-05-10T16:20:19.042Z",
+  updatedAt: "2026-09-22T14:51:15.000Z",
 } as const satisfies TemperScribingSource

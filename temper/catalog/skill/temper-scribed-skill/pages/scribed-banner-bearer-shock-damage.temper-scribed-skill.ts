@@ -20,4 +20,6 @@ export const scribedBannerBearerShockDamage = {
   focusScriptId: "temper-focus-script/shock-damage",
   grimoireId: "temper-grimoire/banner-bearer",
   hashPlace: 1643,
+  createdAt: "2026-05-26T13:19:53.248Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

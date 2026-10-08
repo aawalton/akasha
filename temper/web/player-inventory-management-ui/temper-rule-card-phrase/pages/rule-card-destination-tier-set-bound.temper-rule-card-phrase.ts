@@ -7,4 +7,6 @@ export const ruleCardDestinationTierSetBound = {
   title: "set bound",
   key: "rule-card-destination-tier-set-bound",
   displayOrder: 306,
+  createdAt: "2026-09-27T11:45:50.800Z",
+  updatedAt: "2026-09-27T11:45:58.000Z",
 } as const satisfies TemperRuleCardPhrase

@@ -7,4 +7,6 @@ export const buyShortfall = {
   title: "Buy shortfall",
   key: "buy-shortfall",
   displayOrder: 510,
+  createdAt: "2026-09-27T13:32:59.835Z",
+  updatedAt: "2026-09-27T13:33:08.000Z",
 } as const satisfies TemperRuleCardPhrase

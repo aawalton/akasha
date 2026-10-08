@@ -7,4 +7,6 @@ export const moveToBottom = {
   title: "Move to Bottom",
   key: "move-to-bottom",
   displayOrder: 73,
+  createdAt: "2026-09-27T11:44:11.811Z",
+  updatedAt: "2026-09-27T11:44:19.000Z",
 } as const satisfies TemperRuleCardPhrase

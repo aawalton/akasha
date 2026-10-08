@@ -8,4 +8,6 @@ export const clothingBelt = {
   displayOrder: 14,
   parent: "temper-craft-type/clothing",
   traits: "jsonl",
+  createdAt: "2026-09-02T09:20:08.929Z",
+  updatedAt: "2026-09-22T20:49:49.000Z",
 } as const satisfies TemperResearchLine

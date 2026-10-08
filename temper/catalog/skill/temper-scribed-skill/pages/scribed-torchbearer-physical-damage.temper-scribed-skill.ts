@@ -21,4 +21,6 @@ export const scribedTorchbearerPhysicalDamage = {
   focusScriptId: "temper-focus-script/physical-damage",
   grimoireId: "temper-grimoire/torchbearer",
   hashPlace: 1694,
+  createdAt: "2026-05-26T13:19:53.299Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

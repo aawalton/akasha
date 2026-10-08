@@ -7,4 +7,6 @@ export const championOption = {
   title: "CP {level}",
   key: "champion-option",
   displayOrder: 45,
+  createdAt: "2026-09-27T11:06:28.904Z",
+  updatedAt: "2026-09-27T11:06:35.000Z",
 } as const satisfies TemperRuleCardPhrase

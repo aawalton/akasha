@@ -8,4 +8,6 @@ export const sps = {
   key: "sps",
   description: "Average shielding applied per second",
   fullName: "Shielding Per Second",
+  createdAt: "2026-05-25T04:51:27.445Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRotationBreakdownRow

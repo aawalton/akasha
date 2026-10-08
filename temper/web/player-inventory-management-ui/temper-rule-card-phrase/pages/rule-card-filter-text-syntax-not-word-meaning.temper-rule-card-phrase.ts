@@ -7,4 +7,6 @@ export const ruleCardFilterTextSyntaxNotWordMeaning = {
   title: 'does not contain "word"',
   key: "rule-card-filter-text-syntax-not-word-meaning",
   displayOrder: 337,
+  createdAt: "2026-09-27T11:49:16.078Z",
+  updatedAt: "2026-09-27T11:49:23.000Z",
 } as const satisfies TemperRuleCardPhrase

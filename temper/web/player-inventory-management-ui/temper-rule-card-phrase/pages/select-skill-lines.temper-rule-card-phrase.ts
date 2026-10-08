@@ -7,4 +7,6 @@ export const selectSkillLines = {
   title: "Select Skill Lines",
   key: "select-skill-lines",
   displayOrder: 85,
+  createdAt: "2026-09-27T11:48:13.896Z",
+  updatedAt: "2026-09-27T11:48:22.000Z",
 } as const satisfies TemperRuleCardPhrase

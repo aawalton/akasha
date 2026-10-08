@@ -7,4 +7,6 @@ export const buy = {
   title: "Buy at a merchant or guild store",
   key: "buy",
   displayOrder: 2,
+  createdAt: "2026-09-27T11:55:38.110Z",
+  updatedAt: "2026-09-27T14:46:04.000Z",
 } as const satisfies TemperPlanPhrase

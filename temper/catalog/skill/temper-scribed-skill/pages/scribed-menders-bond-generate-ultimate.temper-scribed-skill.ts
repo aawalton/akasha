@@ -20,4 +20,6 @@ export const scribedMendersBondGenerateUltimate = {
   focusScriptId: "temper-focus-script/generate-ultimate",
   grimoireId: "temper-grimoire/menders-bond",
   hashPlace: 1654,
+  createdAt: "2026-05-26T13:19:53.262Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

@@ -7,4 +7,6 @@ export const equip = {
   title: "Equip",
   description: "Keeps the item to wear on a character or a companion.",
   displayOrder: 1,
+  createdAt: "2026-09-05T14:25:21.524Z",
+  updatedAt: "2026-09-21T15:33:05.000Z",
 } as const satisfies TemperRuleGoal

@@ -14,4 +14,6 @@ export const dragonsBile = {
     "temper-poison-effect/invisible",
     "temper-poison-effect/vitality",
   ],
+  createdAt: "2026-05-13T15:31:51.188Z",
+  updatedAt: "2026-09-22T13:24:25.000Z",
 } as const satisfies TemperReagent

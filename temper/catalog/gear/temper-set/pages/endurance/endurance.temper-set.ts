@@ -54,4 +54,6 @@ export const endurance = {
   valid: ["weapon:*", "jewelry:*"],
   bonuses: "jsonl",
   icons: "jsonl",
+  createdAt: "2026-05-27T00:53:53.550Z",
+  updatedAt: "2026-09-25T18:45:59.000Z",
 } as const satisfies TemperSet

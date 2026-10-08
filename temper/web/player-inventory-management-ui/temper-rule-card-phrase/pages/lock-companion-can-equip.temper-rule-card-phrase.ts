@@ -8,4 +8,6 @@ export const lockCompanionCanEquip = {
     "The {action} action requires the {filter} filter to ensure only items matching a companion's target build are equipped.",
   key: "lock-companion-can-equip",
   displayOrder: 37,
+  createdAt: "2026-09-27T10:41:33.868Z",
+  updatedAt: "2026-09-27T10:41:41.000Z",
 } as const satisfies TemperRuleCardPhrase

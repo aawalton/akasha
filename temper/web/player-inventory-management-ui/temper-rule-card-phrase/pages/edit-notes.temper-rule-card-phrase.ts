@@ -7,4 +7,6 @@ export const editNotes = {
   title: "Edit notes",
   key: "edit-notes",
   displayOrder: 57,
+  createdAt: "2026-09-27T11:41:37.411Z",
+  updatedAt: "2026-09-27T11:41:44.000Z",
 } as const satisfies TemperRuleCardPhrase

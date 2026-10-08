@@ -20,4 +20,6 @@ export const scribedTrampleStun = {
   focusScriptId: "temper-focus-script/stun",
   grimoireId: "temper-grimoire/trample",
   hashPlace: 1702,
+  createdAt: "2026-05-26T13:19:53.306Z",
+  updatedAt: "2026-09-26T15:49:20.000Z",
 } as const satisfies TemperScribedSkill

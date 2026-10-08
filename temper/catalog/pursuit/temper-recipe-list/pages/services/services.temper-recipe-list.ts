@@ -7,4 +7,6 @@ export const services = {
   title: "Services",
   displayOrder: 30,
   recipes: "jsonl",
+  createdAt: "2026-09-02T14:03:40.690Z",
+  updatedAt: "2026-09-21T15:27:16.000Z",
 } as const satisfies TemperRecipeList

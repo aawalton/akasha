@@ -14,4 +14,6 @@ export const violetCoprinus = {
     "temper-poison-effect/increase-spell-power",
     "temper-poison-effect/ravage-magicka",
   ],
+  createdAt: "2026-05-13T15:31:51.207Z",
+  updatedAt: "2026-09-22T13:24:25.000Z",
 } as const satisfies TemperReagent
