@@ -104,7 +104,7 @@ function drawn(this: void): TemperCharactersTaskHudDrawn | undefined {
   }
 }
 
-export function readTaskHudView(this: void): TemperCharactersTaskHudViewReading | undefined {
+function readTaskHudView(this: void): TemperCharactersTaskHudViewReading | undefined {
   try {
     const refreshes = refreshesNoted()
     return {
