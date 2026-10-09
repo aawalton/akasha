@@ -8,11 +8,11 @@ export const alanWaltonJenniferWaltonBrokerageAccount8993737982 = {
   definition: "money the family has, sitting in a brokerage account",
   monarchId: "231274905553737982",
   accountDisplayName: "Alan Walton, Jennifer Walton - Brokerage Account - ****8993 (...8993)",
-  currentBalance: 1674198.39,
+  currentBalance: 1652790.13,
   accountType: "brokerage",
   asset: true,
   accountActive: true,
   accountHidden: true,
   createdAt: "2026-09-03T03:39:10.888Z",
-  updatedAt: "2026-10-08T06:18:04.000Z",
+  updatedAt: "2026-10-09T06:07:02.726Z",
 } as const satisfies MonarchAccount
