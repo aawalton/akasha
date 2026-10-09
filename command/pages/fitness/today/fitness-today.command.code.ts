@@ -95,7 +95,7 @@ export function setSaid(one: Logged): string {
   return parts.length === 0 ? `  ${one.title}` : `  ${one.title} — ${parts.join(", ")}`
 }
 
-export function focusSaid(today: Today): string {
+function focusSaid(today: Today): string {
   if (today.focus === null) return `${today.day}, a day no schedule names a focus for`
   return `${today.day}, ${today.weekday ?? "a day"} — ${today.focus}`
 }
