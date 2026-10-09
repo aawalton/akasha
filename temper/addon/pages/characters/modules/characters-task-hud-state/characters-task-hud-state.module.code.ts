@@ -147,7 +147,7 @@ export function refreshesNoted(): { readonly count: number; readonly lastAt: num
   return { count: refreshCount, lastAt: lastRefreshAt }
 }
 
-export type RefreshExit = "early" | "empty" | "completed"
+type RefreshExit = "early" | "empty" | "completed"
 
 let lastExit: RefreshExit | undefined
 
