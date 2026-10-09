@@ -131,7 +131,7 @@ test("code that throws is reported, and the other to-dos still run", async () =>
   expect(said.wrong[0]).toContain("the food would not land")
 })
 
-test("code exporting no on-complete function is reported rather than skipped", async () => {
+test("code exporting no `onComplete` function is reported rather than passed over", async () => {
   const one = hookedAt("bare", LATER)
   const said = await ranOnce(
     {
