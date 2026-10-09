@@ -18,6 +18,7 @@ import {
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { storyChapterSplit as page } from "akasha/command/pages/story/chapter-split/story-chapter-split.command.ts"
+import { rejoined } from "akasha/command/pages/story/modules/beat-rejoining/beat-rejoining.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { filing } from "akasha/page/service/modules/file-answering/file-answering.module.code.ts"
@@ -147,18 +148,6 @@ function chapterAt(root: string, slug: string): string | Refusal {
     return { refused: `\`${slug}\` keeps beats already, and a split writes over none` }
   }
   return at
-}
-
-export function rejoined(written: string): string {
-  return written
-    .split(LINE_ENDS)
-    .filter((one) => one !== "")
-    .map((one) => {
-      const held: unknown = JSON.parse(one)
-      const prose = typeof held === "object" && held !== null ? Reflect.get(held, PROSE) : null
-      return typeof prose === "string" ? prose : ""
-    })
-    .join("")
 }
 
 type Parted = { readonly beats: Beats; readonly written: string }

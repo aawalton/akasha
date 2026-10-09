@@ -24,7 +24,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
-import { rejoined } from "akasha/command/pages/story/chapter-split/story-chapter-split.command.code.ts"
+import { rejoined } from "akasha/command/pages/story/modules/beat-rejoining/beat-rejoining.module.code.ts"
 import {
   replacing,
   spliced,

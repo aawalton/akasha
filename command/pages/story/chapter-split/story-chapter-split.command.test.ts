@@ -6,8 +6,8 @@ import {
   eventOf,
   kindOf,
   paragraphsIn,
-  rejoined,
 } from "akasha/command/pages/story/chapter-split/story-chapter-split.command.code.ts"
+import { rejoined } from "akasha/command/pages/story/modules/beat-rejoining/beat-rejoining.module.code.ts"
 import {
   beatsIn,
   beatsWritten,
