@@ -31307,7 +31307,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 5,
+            "numCompleted": 7,
             "numRequired": 10
           }
         }
@@ -31320,7 +31320,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 5,
+            "numCompleted": 7,
             "numRequired": 30
           }
         }
@@ -36274,7 +36274,7 @@
       "name": "Crusader",
       "categoryName": "Dungeons",
       "subcategoryName": "Volenfell",
-      "slotsUnlocked": 20,
+      "slotsUnlocked": 22,
       "totalSlots": 22,
       "pieces": [
         {
@@ -36351,11 +36351,11 @@
         },
         {
           "name": "Inferno Staff of the Crusader",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Ice Staff of the Crusader",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Lightning Staff of the Crusader",
