@@ -1,3 +1,4 @@
+import type { Assisted } from "akasha/alan/value/health/fitness/strength/exercise/properties/assisted.boolean-property.types.ts"
 import type { Equipment } from "akasha/alan/value/health/fitness/strength/exercise/properties/equipment.relation-property.types.ts"
 import type { ExerciseCategory } from "akasha/alan/value/health/fitness/strength/exercise/properties/exercise-category.select-property.types.ts"
 import type { ExerciseExternalId } from "akasha/alan/value/health/fitness/strength/exercise/properties/exercise-external-id.text-property.types.ts"
@@ -57,4 +58,5 @@ export type StrengthExercise = Page & {
   trainsLengthenedRange: TrainsLengthenedRange
   instructions?: Instructions
   raisesCold?: RaisesCold
+  assisted?: Assisted
 }

@@ -35,6 +35,7 @@ export const strengthExercise = {
     "url-property/image-end-url",
     "url-property/image-start-url",
     "boolean-property/raises-cold",
+    "boolean-property/assisted",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -79,6 +80,7 @@ export const strengthExercise = {
     { pageProperty: "boolean-property/trains-lengthened-range", required: true, many: false },
     { pageProperty: "file-property/instructions", required: false, many: false },
     { pageProperty: "boolean-property/raises-cold", required: false, many: false },
+    { pageProperty: "boolean-property/assisted", required: false, many: false },
   ],
   decisions: [
     {
@@ -98,5 +100,5 @@ export const strengthExercise = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-09-22T10:06:01.000Z",
+  updatedAt: "2026-10-09T11:59:53.497Z",
 } as const satisfies PageType

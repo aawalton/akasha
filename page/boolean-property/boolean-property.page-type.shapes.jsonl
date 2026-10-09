@@ -13,6 +13,7 @@
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"append-only","propertySlug":"append-only","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"asked-by-name","propertySlug":"asked-by-name","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"asset","propertySlug":"asset","fileName":null,"folderName":null}
+{"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"assisted","propertySlug":"assisted","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"augment-delay","propertySlug":"augment-delay","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"available","propertySlug":"available","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"bankable","propertySlug":"bankable","fileName":null,"folderName":null}

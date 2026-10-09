@@ -51,6 +51,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/properties/fitness-coaching-note-active.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-available.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/gym/properties/gym-every-implement.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/assisted.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/is-ballistic.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/raises-cold.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/trains-lengthened-range.boolean-property.ts","typed":true,"deferred":false}
