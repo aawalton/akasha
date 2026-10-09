@@ -8,7 +8,8 @@ export const whereSafetyHasGotTo = {
   definition: "how far my safety level has actually come, and what is holding the climb up",
   parents: ["all-about-alan-topic/safety-bar"],
   related: ["all-about-alan-topic/whether-my-2026-forecast-is-holding"],
-  settled: "In late August 2026 I read myself at two to three, still on the lower end.",
+  settled:
+    "In late August 2026 I read myself at two to three, still on the lower end.\n\nBy October 2026 I had been getting used to three to four.",
   createdAt: "2026-09-03T03:39:26.949Z",
-  updatedAt: "2026-09-15T15:48:08.000Z",
+  updatedAt: "2026-10-09T21:03:15.369Z",
 } as const satisfies AllAboutAlanTopic
