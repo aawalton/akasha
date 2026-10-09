@@ -14,7 +14,7 @@ import {
 } from "akasha/agent/seat/voice/modules/setup/seat-voice-setup.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 
-export type VoiceState =
+type VoiceState =
   | { readonly kind: "off" }
   | { readonly kind: "connecting" }
   | { readonly kind: "live" }
