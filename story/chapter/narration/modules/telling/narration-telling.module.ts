@@ -22,6 +22,15 @@ export const narrationTelling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chapter is said with every pronunciation naming no world as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Pronunciations are asked for on each narration, so a pronunciation changed needs no deploy.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A sentence's character is counted in the text handed on, markup and all.",
     },
     {
@@ -76,6 +85,6 @@ export const narrationTelling = {
       statement: "A refusal by the speech workload reaches Alan with the reason it gave.",
     },
   ],
-  updatedAt: "2026-10-08T17:47:13.266Z",
+  updatedAt: "2026-10-09T01:58:33.217Z",
   createdAt: "2026-10-05T20:36:00.748Z",
 } as const satisfies Module

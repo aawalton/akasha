@@ -3,6 +3,7 @@ import {
   narrationIdIs,
   nextAmong,
   pieceNameIs,
+  pronunciationsFor,
   spokenSegmentsOf,
   storyNamed,
   withSentences,
@@ -61,6 +62,30 @@ describe("spokenSegmentsOf", () => {
   test("word starts are counted in the chapter's own length", () => {
     const said = spokenSegmentsOf("", prose, { ownProgress: null, ownLength: 20 })
     expect(said.map((one) => one.wordStart)).toEqual([0, 4])
+  })
+})
+
+describe("pronunciationsFor", () => {
+  const rows = [
+    { title: "Klbkch", world: "world/inn", phonemes: "kˈɪlbkɪʧ" },
+    { title: "cursed", phonemes: "kˈɜɹst" },
+    { title: "Ryoka", world: "world/other", phonemes: "ɹjˈOkə" },
+    { title: "Mrsha", world: "world/inn", spokenAs: "Mersha" },
+    { title: "Mrsha", phonemes: "mˈɜɹʃə" },
+    { title: "nothing", world: "world/inn" },
+  ]
+
+  test("a story is said with every pronunciation naming no world, then its own world's, which win", () => {
+    expect(pronunciationsFor(rows, "world/inn")).toEqual([
+      { written: "cursed", phonemes: "kˈɜɹst" },
+      { written: "Mrsha", phonemes: "mˈɜɹʃə" },
+      { written: "Klbkch", phonemes: "kˈɪlbkɪʧ" },
+      { written: "Mrsha", spokenAs: "Mersha" },
+    ])
+  })
+
+  test("a story of no world is said with the pronunciations naming no world", () => {
+    expect(pronunciationsFor(rows, null).map((one) => one.written)).toEqual(["cursed", "Mrsha"])
   })
 })
 

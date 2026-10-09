@@ -6,7 +6,7 @@ import type { World } from "akasha/story/world/stories/played/properties/world.r
 
 export type Pronunciation = Page & {
   title: Title
-  world: World
+  world?: World
   spokenAs?: SpokenAs
   phonemes?: Phonemes
 }

@@ -109,6 +109,14 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Where two pronunciations reach one word, the one handed on later is said.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A word already handed on in markup is never pronounced again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A word written as a sound is handed on as the sound it means.",
     },
     {
@@ -126,6 +134,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-08T19:44:53.690Z",
+  updatedAt: "2026-10-09T01:58:33.217Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module

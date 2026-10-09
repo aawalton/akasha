@@ -192,27 +192,36 @@ async function storyOf(story: string): Promise<StoryHeld> {
   return { title: textIn(row?.title) ?? "", world: textIn(row?.world) }
 }
 
+function pronunciationIn(row: Row): readonly Pronunciation[] {
+  const written = textIn(row.title)
+  const spokenAs = textIn(row.spokenAs)
+  const phonemes = textIn(row.phonemes)
+  if (written === null || (spokenAs === null && phonemes === null)) return []
+  return [
+    {
+      written,
+      ...(spokenAs === null ? {} : { spokenAs }),
+      ...(phonemes === null ? {} : { phonemes }),
+    },
+  ]
+}
+
+export function pronunciationsFor(
+  rows: readonly Row[],
+  world: string | null
+): readonly Pronunciation[] {
+  const everywhere = rows.filter((row) => textIn(row.world) === null)
+  const own = world === null ? [] : rows.filter((row) => textIn(row.world) === world)
+  return [...everywhere, ...own].flatMap(pronunciationIn)
+}
+
 async function pronunciationsOf(world: string | null): Promise<readonly Pronunciation[]> {
-  if (world === null) return []
   const found = await askingFor({
     pageTypeSlug: "pronunciation",
-    where: { world: { is: world } },
-    keys: ["title", "spokenAs", "phonemes"],
+    keys: ["title", "world", "spokenAs", "phonemes"],
   })
   if ("refused" in found) return []
-  return found.rows.flatMap((row) => {
-    const written = textIn(row.title)
-    const spokenAs = textIn(row.spokenAs)
-    const phonemes = textIn(row.phonemes)
-    if (written === null || (spokenAs === null && phonemes === null)) return []
-    return [
-      {
-        written,
-        ...(spokenAs === null ? {} : { spokenAs }),
-        ...(phonemes === null ? {} : { phonemes }),
-      },
-    ]
-  })
+  return pronunciationsFor(found.rows, world)
 }
 
 async function rowHeld(pageTypeSlug: string, row: Row): Promise<Told<ChapterRow>> {

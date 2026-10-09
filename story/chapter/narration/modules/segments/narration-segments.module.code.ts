@@ -146,22 +146,35 @@ function shoutedOne(one: Pronunciation): Pronunciation {
   return one.spokenAs === undefined ? one : { ...one, spokenAs: one.spokenAs.toUpperCase() }
 }
 
+function capitalisedOne(one: Pronunciation): Pronunciation {
+  const spokenAs = one.spokenAs
+  if (spokenAs === undefined) return one
+  return { ...one, spokenAs: `${spokenAs.charAt(0).toUpperCase()}${spokenAs.slice(1)}` }
+}
+
+function writtenAs(one: Pronunciation): (readonly [string, Pronunciation])[] {
+  const forms: (readonly [string, Pronunciation])[] = [[one.written.toUpperCase(), shoutedOne(one)]]
+  if (one.written === one.written.toLowerCase()) {
+    const capital = `${one.written.charAt(0).toUpperCase()}${one.written.slice(1)}`
+    forms.push([capital, capitalisedOne(one)])
+  }
+  forms.push([one.written, one])
+  return forms
+}
+
 export function respellerOf(pronunciations: readonly Pronunciation[]): (text: string) => string {
   const named = new Map(
     pronunciations
       .filter((one) => one.written !== "")
       .filter((one) => (one.phonemes ?? "") !== "" || (one.spokenAs ?? "") !== "")
-      .flatMap((one) => [
-        [one.written.toUpperCase(), shoutedOne(one)] as const,
-        [one.written, one] as const,
-      ])
+      .flatMap(writtenAs)
   )
   if (named.size === 0) return (text) => text
   const written = [...named.keys()]
     .sort((a, b) => b.length - a.length)
     .map((one) => one.replace(PATTERN_MARK, "\\$&"))
     .join("|")
-  const word = new RegExp(`(?<![\\p{L}\\p{N}])(${written})${SUFFIX}(?![\\p{L}\\p{N}])`, "gu")
+  const word = new RegExp(`(?<![\\p{L}\\p{N}[])(${written})${SUFFIX}(?![\\p{L}\\p{N}\\]])`, "gu")
   return (text) =>
     text.replace(word, (found: string, stem: string) => {
       const one = named.get(stem)

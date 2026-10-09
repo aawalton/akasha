@@ -198,6 +198,23 @@ describe("narrationSegmentsOf", () => {
     ])
   })
 
+  test("a pronunciation written in small letters reaches the word capitalised and in capitals too, and the later of two wins", () => {
+    const pronounced = [
+      { written: "gnoll", phonemes: "nˈɑl" },
+      { written: "gnoll", phonemes: "nˈOl" },
+      { written: "drake", spokenAs: "draik" },
+      { written: "bowed", phonemes: "bˈOd" },
+    ]
+    const said = (prose: string): string[] =>
+      narrationSegmentsOf(prose, pronounced).map((one) => one.text)
+    expect(
+      said("Start.\nGnolls and a gnoll; GNOLL! Drake saw a drake. gNoLL stays, and he bowed.")
+    ).toEqual([
+      "Start.",
+      "[Gnolls](/nˈOlz/) and a [gnoll](/nˈOl/); [GNOLL](/nˈOl/)! Draik saw a draik. gNoLL stays, and he [bowed](/bˈWd/).",
+    ])
+  })
+
   test("a pronounced word shouted in capitals keeps its pronunciation, and other shouted words are stressed", () => {
     const pronounced = [
       { written: "Ylawes", phonemes: "ilˈɑwɛs" },
