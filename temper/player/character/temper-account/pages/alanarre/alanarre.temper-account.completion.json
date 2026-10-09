@@ -31307,7 +31307,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 3,
+            "numCompleted": 5,
             "numRequired": 10
           }
         }
@@ -31320,7 +31320,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 3,
+            "numCompleted": 5,
             "numRequired": 30
           }
         }
@@ -44999,7 +44999,7 @@
       "name": "Hunt Leader",
       "categoryName": "Arenas",
       "subcategoryName": "Maelstrom Arena",
-      "slotsUnlocked": 19,
+      "slotsUnlocked": 22,
       "totalSlots": 22,
       "pieces": [
         {
@@ -45040,7 +45040,7 @@
         },
         {
           "name": "Dagger of the Hunt",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Axe of the Hunt",
@@ -45048,7 +45048,7 @@
         },
         {
           "name": "Mace of the Hunt",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Sword of the Hunt",
@@ -45064,7 +45064,7 @@
         },
         {
           "name": "Greatsword of the Hunt",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Bow of the Hunt",
