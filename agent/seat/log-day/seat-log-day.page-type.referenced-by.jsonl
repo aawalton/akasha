@@ -412,6 +412,7 @@
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/gateway-transport-nova-2026-10-09/gateway-transport-nova-2026-10-09.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/gateway-transport-sophia-2026-10-08/gateway-transport-sophia-2026-10-08.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/gateway-transport-sophia-2026-10-09/gateway-transport-sophia-2026-10-09.seat-log-day.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/gateway-transport-zeli-2026-10-09/gateway-transport-zeli-2026-10-09.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/oauth-proxy-console-abby-2026-10-08/oauth-proxy-console-abby-2026-10-08.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/oauth-proxy-console-abby-2026-10-09/oauth-proxy-console-abby-2026-10-09.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/oauth-proxy-console-aelwyn-2026-10-07/oauth-proxy-console-aelwyn-2026-10-07.seat-log-day.ts","typed":true,"deferred":false}
