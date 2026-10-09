@@ -20,5 +20,6 @@ export const superSupportive0312ThreeHundredTenFirstHuman = {
     },
   ],
   createdAt: "2026-10-09T21:08:12.961Z",
-  updatedAt: "2026-10-09T21:08:12.961Z",
+  updatedAt: "2026-10-09T23:05:52.331Z",
+  ownProgress: 3581,
 } as const satisfies StoryChapterRead
