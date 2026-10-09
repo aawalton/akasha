@@ -1,4 +1,4 @@
-export type LiveFigureKey =
+type LiveFigureKey =
   | "damageOutSingle"
   | "damageOut"
   | "healOut"
@@ -23,7 +23,7 @@ export type LiveFigureTexts = Readonly<Record<LiveFigureKey, string>>
 
 export type LiveFiguresShown = Readonly<Record<LiveFigureKey, boolean>>
 
-export interface LiveFigureCell {
+interface LiveFigureCell {
   text: string
 }
 
