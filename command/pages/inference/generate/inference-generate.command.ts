@@ -7,6 +7,7 @@ export const inferenceGenerate = {
   definition: "the command rendering an image off a prompt through an image pool service",
   code: "ts",
   test: "ts",
+  maxWallSeconds: 660,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -61,5 +62,5 @@ export const inferenceGenerate = {
     },
   ],
   createdAt: "2026-09-03T17:44:10.832Z",
-  updatedAt: "2026-10-08T16:27:23.358Z",
+  updatedAt: "2026-10-09T00:02:42.170Z",
 } as const satisfies Command
