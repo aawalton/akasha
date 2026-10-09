@@ -15,6 +15,7 @@ export const toDo = {
     "instant-property/on-complete-done-at",
     "module-property-group/on-complete",
     "module/on-complete-running",
+    "service-workstation/on-complete-running",
     "number-property/to-do-sort-order",
     "relation-property/to-do-value",
     "select-property/difficulty",
@@ -79,5 +80,5 @@ export const toDo = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:57:44.116Z",
-  updatedAt: "2026-10-09T12:16:31.289Z",
+  updatedAt: "2026-10-09T12:19:11.076Z",
 } as const satisfies PageType

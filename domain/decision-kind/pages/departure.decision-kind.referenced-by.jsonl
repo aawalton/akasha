@@ -1224,6 +1224,7 @@
 {"propertySlug":"decision-kind","path":"alan/track/session-activity/session-activity.page-type.ts","id":"01a06589-d117-759e-b934-fd346ffba4fd"}
 {"propertySlug":"decision-kind","path":"alan/track/to-do/modules/on-complete-running/on-complete-running.module.ts","id":"01a12097-f239-7cc0-b758-732a99d139d8"}
 {"propertySlug":"decision-kind","path":"alan/track/to-do/properties/on-complete.module-property-group.ts","id":"01a12094-d095-773d-92d5-a08df195c615"}
+{"propertySlug":"decision-kind","path":"alan/track/to-do/service-workstations/on-complete-running/on-complete-running.service-workstation.ts","id":"01a1209a-6265-73c3-8864-89ec6aae13c0"}
 {"propertySlug":"decision-kind","path":"alan/track/to-do/to-do.page-type.ts","id":"01a065a1-49b4-7e7c-8b95-ed10df98898c"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-capture/tracking-capture.page-type.ts","id":"01a06827-ec0b-7fa8-bb0a-ae697d6c6a9e"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-entry-date/tracking-entry-date.page-type.ts","id":"01a06827-ec0c-7939-809f-82468d73e2e6"}
