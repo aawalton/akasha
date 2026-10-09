@@ -1,14 +1,5 @@
 {
   "build": {
-    "skillAbilityIds": {
-      "1": 152624,
-      "2": 164291,
-      "3": 153686,
-      "4": 0,
-      "5": 0,
-      "6": 164191
-    },
-    "companionId": 5,
     "weapons": {
       "1": {
         "displayText": "Greatsword, Shattering",
@@ -29,7 +20,6 @@
         "isEmpty": true
       }
     },
-    "hash": "AjEINJEkSRJE8TxPDw8PCvM5BQAADgA",
     "armor": {
       "1": {
         "displayText": "Medium, Focused",
@@ -95,7 +85,6 @@
         "isEmpty": false
       }
     },
-    "mainHandWeaponType": 4,
     "jewelry": {
       "1": {
         "displayText": "Shattering",
@@ -124,7 +113,18 @@
         },
         "isEmpty": false
       }
-    }
+    },
+    "mainHandWeaponType": 4,
+    "companionId": 5,
+    "skillAbilityIds": {
+      "1": 152624,
+      "2": 164291,
+      "3": 153686,
+      "4": 0,
+      "5": 0,
+      "6": 164191
+    },
+    "hash": "AjEINJEkSRJE8TxPDw8PCvM5BQAADgA"
   },
   "targetBuildHash": "AjEANJEkSRJE8TxPDw8PCvO5BzAADgA",
   "level": 20,
