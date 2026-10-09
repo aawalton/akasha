@@ -5,7 +5,7 @@ export const beats = {
   type: "page-type/file-property",
   slug: "beats",
   propertySlug: "beats",
-  definition: "a turn or written chapter's beats, one json record to a beat, with each step's part",
+  definition: "a turn or chapter's beats, one json record to a beat, with each step's part",
   extensions: ["jsonl"],
   runsFileLength: false,
   decisions: [
@@ -63,5 +63,5 @@ export const beats = {
   ],
   types: "ts",
   createdAt: "2026-10-03T18:25:20.715Z",
-  updatedAt: "2026-10-04T01:19:45.000Z",
+  updatedAt: "2026-10-09T00:57:41.310Z",
 } as const satisfies FileProperty
