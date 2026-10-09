@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHNIDAAIBhxAlC4RtQsBLULAS1CwEtItxbULcW1C3FtEFxbRBADUQXFtAGgCWgCgBLRSM4tsxYABurwAAABNjryRtlCGzoAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWR1bI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAMBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
+  "buildHash": "ATQHNIDAAIBhxAlC4RtQsBLULAS1CwEtItxbULcW1C3FtEFxbRBADUQXFtAGgCWgCgBLRSM4tvKwABurwAAABNjryRtlCGzoAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWR1bI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAMBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -1237,7 +1237,7 @@
             "name": "Deadly Cloak",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -10557,6 +10557,12 @@
         34,
         40,
         42
+      ],
+      "59": [
+        34,
+        35,
+        36,
+        40
       ]
     }
   },
@@ -16362,7 +16368,7 @@
   },
   "skillPoints": {
     "total": 577,
-    "unassigned": 182,
+    "unassigned": 180,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -20544,7 +20550,8 @@
     7458,
     7459,
     7460,
-    7461
+    7461,
+    7470
   ],
   "cadwell": {
     "progressionLevel": 2,
@@ -28281,6 +28288,6 @@
   "bankVisitDate": "2026-10-09",
   "inventoryCheck": {
     "date": "2026-10-09",
-    "misplaced": 101
+    "misplaced": 145
   }
 }
