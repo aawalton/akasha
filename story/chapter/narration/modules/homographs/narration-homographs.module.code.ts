@@ -52,6 +52,15 @@ const READINGS: readonly Reading[] = [
   { found: /\b(resent)\b/giu, said: "ɹᵻzˈɛnt" },
   { found: /\b(resented)\b/giu, said: "ɹᵻzˈɛntᵻd" },
   { found: /\b(resents)\b/giu, said: "ɹᵻzˈɛnts" },
+  { found: /\b(copied)\b/giu, said: "kˈɑpid" },
+  { found: /\b(bullied)\b/giu, said: "bˈʊlid" },
+  { found: /\b(chivvied)\b/giu, said: "ʧˈɪvid" },
+  { found: /\b(queried)\b/giu, said: "kwˈɪɹid" },
+  { found: /\b(muddied)\b/giu, said: "mˈʌdid" },
+  { found: /\b(whinnied)\b/giu, said: "wˈɪnid" },
+  { found: /\b(bellies)\b/giu, said: "bˈɛliz" },
+  { found: /\b(underbellies)\b/giu, said: "ˌʌndəɹbˈɛliz" },
+  { found: /\b(bullies)\b/giu, said: "bˈʊliz" },
   {
     found:
       /(?<!\b(?:a|the|this|that|white|grey|gray|my|his|her|its|their|like a)\s)\b(dove)\b(?!-)/gu,

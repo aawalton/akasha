@@ -23,6 +23,11 @@ export const narrationHomographs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A word in -ied or -ies that misaki ends with a short i, as copied, is handed on with a long ee.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A true adjective in -ed, as wicked, naked or alleged, keeps misaki's reading.",
     },
     {
@@ -58,5 +63,5 @@ export const narrationHomographs = {
     },
   ],
   createdAt: "2026-10-08T19:44:53.690Z",
-  updatedAt: "2026-10-09T00:06:00.275Z",
+  updatedAt: "2026-10-09T01:15:00.199Z",
 } as const satisfies Module

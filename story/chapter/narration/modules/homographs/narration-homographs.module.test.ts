@@ -24,6 +24,12 @@ describe("homographsOf", () => {
     )
   })
 
+  test("a word in -ied or -ies that misaki cuts short keeps its long ee", () => {
+    expect(homographsOf("She copied him. Bullied! Their bellies.")).toBe(
+      "She [copied](/kˈɑpid/) him. [Bullied](/bˈʊlid/)! Their [bellies](/bˈɛliz/)."
+    )
+  })
+
   test("dove after a name is the dive, and dove after an article is the bird", () => {
     expect(homographsOf("The Wyverns dove at the dove and a dove-tailed swallow.")).toBe(
       "The Wyverns [dove](/dˈOv/) at the dove and a dove-tailed swallow."
