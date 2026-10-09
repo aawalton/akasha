@@ -15,6 +15,7 @@ export const categoryRule = {
     "select-property/match-key",
     "text-property/match-values",
     "text-property/rule-note",
+    "boolean-property/overrides-monarch",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -22,6 +23,7 @@ export const categoryRule = {
     { pageProperty: "relation-property/transaction-category", required: false, many: false },
     { pageProperty: "text-property/rule-note", required: false, many: false },
     { pageProperty: "number-property/counterpart-within-days", required: false, many: false },
+    { pageProperty: "boolean-property/overrides-monarch", required: false, many: false },
   ],
   decisions: [
     {
@@ -84,5 +86,5 @@ export const categoryRule = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-09-24T18:54:51.000Z",
+  updatedAt: "2026-10-09T19:26:51.369Z",
 } as const satisfies PageType

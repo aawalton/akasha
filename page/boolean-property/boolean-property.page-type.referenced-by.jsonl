@@ -27,6 +27,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/monarch/account/properties/account-active.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/monarch/account/properties/account-hidden.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/monarch/account/properties/asset.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/monarch/category-rule/properties/overrides-monarch.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/needs-review.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/pending.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/recurring.boolean-property.ts","typed":true,"deferred":false}

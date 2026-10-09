@@ -1,5 +1,6 @@
 import type { CounterpartWithinDays } from "akasha/alan/harness/monarch/category-rule/properties/counterpart-within-days.number-property.types.ts"
 import type { Matches } from "akasha/alan/harness/monarch/category-rule/properties/matches.record-property.types.ts"
+import type { OverridesMonarch } from "akasha/alan/harness/monarch/category-rule/properties/overrides-monarch.boolean-property.types.ts"
 import type { RuleNote } from "akasha/alan/harness/monarch/category-rule/properties/rule-note.text-property.types.ts"
 import type { TransactionCategory } from "akasha/alan/harness/monarch/category-rule/properties/transaction-category.relation-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
@@ -11,4 +12,5 @@ export type CategoryRule = Page & {
   category?: TransactionCategory
   ruleNote?: RuleNote
   counterpartWithinDays?: CounterpartWithinDays
+  overridesMonarch?: OverridesMonarch
 }
