@@ -10347,6 +10347,7 @@
         11,
         12,
         14,
+        15,
         16,
         17,
         18,
@@ -28295,6 +28296,6 @@
   "bankVisitDate": "2026-10-09",
   "inventoryCheck": {
     "date": "2026-10-09",
-    "misplaced": 122
+    "misplaced": 89
   }
 }
