@@ -18,6 +18,10 @@ export const storyChapterSplit = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A split whose written beats would not rejoin to the prose lands nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A paragraph is one line of the prose file that holds words.",
     },
     {
@@ -78,5 +82,5 @@ export const storyChapterSplit = {
   name: "chapter-split",
   arguments: [{ argument: "argument/read-chapter", required: true, saidAs: "flag-or-word" }],
   createdAt: "2026-10-09T00:54:21.796Z",
-  updatedAt: "2026-10-09T00:55:09.140Z",
+  updatedAt: "2026-10-09T00:56:58.781Z",
 } as const satisfies Command

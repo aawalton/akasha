@@ -6,6 +6,7 @@ import {
   eventOf,
   kindOf,
   paragraphsIn,
+  rejoined,
 } from "akasha/command/pages/story/chapter-split/story-chapter-split.command.code.ts"
 import {
   beatsIn,
@@ -25,11 +26,7 @@ const CHAPTER = [
 const ENDED = `${CHAPTER}\n`
 
 function joinedFrom(written: string): string {
-  return written
-    .split("\n")
-    .filter((one) => one !== "")
-    .map((one) => String((JSON.parse(one) as { prose: string }).prose))
-    .join("")
+  return rejoined(written)
 }
 
 function wordsOf(count: number): string {

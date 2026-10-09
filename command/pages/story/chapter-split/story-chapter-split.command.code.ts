@@ -149,12 +149,31 @@ function chapterAt(root: string, slug: string): string | Refusal {
   return at
 }
 
-function proseOf(root: string, slug: string): Beats | Refusal {
+export function rejoined(written: string): string {
+  return written
+    .split(LINE_ENDS)
+    .filter((one) => one !== "")
+    .map((one) => {
+      const held: unknown = JSON.parse(one)
+      const prose = typeof held === "object" && held !== null ? Reflect.get(held, PROSE) : null
+      return typeof prose === "string" ? prose : ""
+    })
+    .join("")
+}
+
+type Parted = { readonly beats: Beats; readonly written: string }
+
+function proseOf(root: string, slug: string): Parted | Refusal {
   const read = filing(root, { pageTypeSlug: CHAPTER_PAGE_TYPE, slug, key: PROSE })
   if ("refused" in read) return { refused: `\`${slug}\` has no prose to split: ${read.refused}` }
-  const beats = beatsOf(DECODER.decode(read.bytes))
+  const text = DECODER.decode(read.bytes)
+  const beats = beatsOf(text)
   if (beats === null) return { refused: `\`${slug}\`'s prose holds no paragraph to split` }
-  return beats
+  const written = beatsWritten(beats)
+  if (rejoined(written) !== text) {
+    return { refused: `\`${slug}\`'s beats would not rejoin to its prose, so nothing is landed` }
+  }
+  return { beats, written }
 }
 
 async function splitOver(
@@ -165,14 +184,15 @@ async function splitOver(
 ): Promise<Split | Refusal> {
   const at = chapterAt(root, slug)
   if (typeof at !== "string") return at
-  const beats = proseOf(root, slug)
-  if ("refused" in beats) return beats
+  const parted = proseOf(root, slug)
+  if ("refused" in parted) return parted
+  const { beats, written } = parted
   const composed = composedFor(root, {
     pageTypeSlug: CHAPTER_PAGE_TYPE,
     slug,
     values: { [BEATS]: JSONL },
     merge: true,
-    bodies: { [BEATS]: beatsWritten(beats) },
+    bodies: { [BEATS]: written },
   })
   if ("refused" in composed) return { refused: `nothing was composed: ${composed.refused}` }
   const kept = composed.parts.find((one) => existsSync(join(root, one.path)))
