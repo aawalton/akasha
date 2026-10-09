@@ -31524,7 +31524,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 1,
             "numRequired": 5
           }
         }
@@ -31562,7 +31562,7 @@
       }
     },
     "4687": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 6
@@ -31603,7 +31603,7 @@
       }
     },
     "4692": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 2
@@ -89967,6 +89967,8 @@
     14773,
     14776,
     14779,
+    14986,
+    14987,
     14988,
     14989,
     14990,
