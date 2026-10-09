@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type Chapter,
   chapterScened,
+  picturedSpliced,
   picturesLaid,
   taken,
 } from "akasha/command/pages/story/turn/picture/story-turn-picture.command.code.ts"
@@ -76,6 +77,49 @@ test("the chapter's scenes are written after its cover, or over the scenes it ha
   const again = chapterScened("one.ts", added ?? "", ["image/image-b"])
   expect(again).toContain('scenes: ["image/image-b"]')
   expect(again).not.toContain("image-a")
+})
+
+const READ_PROSE = "She woke.\n \nShe ate.\n"
+
+const READ_BEATS = [
+  JSON.stringify({ beat: 1, event: "She woke.", prose: "She woke.\n \n" }),
+  JSON.stringify({ beat: 2, event: "She ate.", prose: "She ate.\n" }),
+].join("\n")
+
+function readChapter(): Chapter {
+  return { ...chapter(true), beatsText: `${READ_BEATS}\n`, readProse: READ_PROSE }
+}
+
+function proseOf(beats: string): string {
+  return beats
+    .trim()
+    .split("\n")
+    .map((one) => String(JSON.parse(one).prose))
+    .join("")
+}
+
+test("a read chapter's pictures land without touching its prose, which still rejoins", () => {
+  const laid = picturesLaid(readChapter(), [SECOND])
+  if (typeof laid === "string") throw new Error(laid)
+  expect(proseOf(laid.beats)).toBe(READ_PROSE)
+  const lines = laid.beats.trim().split("\n")
+  expect(lines[0]).toBe(READ_BEATS.split("\n")[0])
+  expect(JSON.parse(lines[1] ?? "{}").pictured[0].cover).toBe("image/image-two")
+})
+
+test("a read chapter whose beats would not rejoin to its prose is refused", () => {
+  const off = { ...readChapter(), readProse: `${READ_PROSE}more` }
+  expect(picturesLaid(off, [SECOND])).toContain("would not rejoin")
+})
+
+test("a picture spliced onto a beat replaces that beat's pictures and keeps every other key", () => {
+  const spliced = picturedSpliced(`${BEATS}\n`, [
+    { beat: 1, cover: "image/image-new", coverAfter: "She woke." },
+  ])
+  const first = JSON.parse(spliced.split("\n")[0] ?? "{}")
+  expect(first.pictured).toEqual([{ cover: "image/image-new", coverAfter: "She woke." }])
+  expect(first.place).toBe("place/home")
+  expect(spliced.split("\n")[1]).toBe(BEATS.split("\n")[1])
 })
 
 test("a call names the chapter and the pictures file", () => {

@@ -24,11 +24,15 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { rejoined } from "akasha/command/pages/story/chapter-split/story-chapter-split.command.code.ts"
 import {
   replacing,
   spliced,
 } from "akasha/command/pages/story/modules/tell-continuing/tell-continuing.module.code.ts"
-import { REACHED } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import {
+  REACHED,
+  type Turn,
+} from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { storyTurnPicture as page } from "akasha/command/pages/story/turn/picture/story-turn-picture.command.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -49,6 +53,7 @@ import {
   linesIn,
   picturedMerged,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { CHAPTER_PAGE_TYPE } from "akasha/story/world/stories/read/wandering-inn/modules/chapter/chapter.module.code.ts"
 
 const NAMED = [writtenChapter, picturedFile] as const
 
@@ -63,6 +68,10 @@ const AFTER = "cover"
 const PAGE_ENDS = /\.ts$/
 
 const SWITCH = "picturesOnBeats"
+
+const PROSE = "prose"
+
+const PICTURED = "pictured"
 
 type Taken = { readonly chapter: string; readonly file: string }
 
@@ -82,6 +91,25 @@ export type Chapter = {
   readonly beatsAt: string
   readonly beatsText: string
   readonly storyValue: Value | null
+  readonly readProse?: string
+}
+
+const LINE_ENDS = /\r?\n/
+
+export function picturedSpliced(beatsText: string, pictured: readonly Pictured[]): string {
+  return beatsText
+    .split(LINE_ENDS)
+    .filter((one) => one.trim() !== "")
+    .map((line, index) => {
+      const record: Record<string, unknown> = JSON.parse(line)
+      const own = pictured
+        .filter((one) => one.beat === index + 1)
+        .map((one) => Object.fromEntries(Object.entries(one).filter(([key]) => key !== "beat")))
+      if (own.length === 0) delete record[PICTURED]
+      else record[PICTURED] = own
+      return `${JSON.stringify(record)}\n`
+    })
+    .join("")
 }
 
 function scenesOf(pictured: readonly Pictured[]): readonly string[] {
@@ -114,19 +142,36 @@ export function picturesLaid(chapter: Chapter, lines: readonly string[]): Pictur
   if ("refused" in handed) return handed.refused
   if (handed.length === 0) return `\`${picturedFile.said}\` holds no picture`
   const pictured = picturedMerged(read.pictured ?? [], handed)
-  return {
-    beats: beatsWritten({ ...read, pictured }),
-    scenes: scenesOf(pictured),
-    count: handed.length,
+  const prose = chapter.readProse
+  const beats =
+    prose === undefined
+      ? beatsWritten({ ...read, pictured })
+      : picturedSpliced(chapter.beatsText, pictured)
+  if (prose !== undefined && rejoined(beats) !== prose) {
+    return "the pictured beats would not rejoin to the chapter's prose, so nothing is landed"
   }
+  return { beats, scenes: scenesOf(pictured), count: handed.length }
+}
+
+function readChapterAt(root: string, slug: string): Turn | null {
+  const listed = listedAt(root, CHAPTER_PAGE_TYPE, slug)[0]
+  if (listed === undefined) return null
+  const value = valueAt(listed.path, root)
+  return value === null ? null : { at: listed.path, slug, value }
 }
 
 function chapterRead(root: string, slug: string): Chapter | string {
-  const reached = REACHED.chapterAt?.(root, slug) ?? null
-  if (reached === null) return `\`${slug}\` names no written chapter here`
+  const written = REACHED.chapterAt?.(root, slug) ?? null
+  const reached = written ?? readChapterAt(root, slug)
+  if (reached === null) return `\`${slug}\` names no written or read chapter here`
   const ending = textAt(reached.value, BEATS)
   if (ending === null) return `\`${slug}\` keeps no beats file`
   const beatsAt = reached.at.replace(PAGE_ENDS, `.${BEATS}.${ending}`)
+  const proseEnding = textAt(reached.value, PROSE)
+  const readProse =
+    written !== null || proseEnding === null
+      ? undefined
+      : REACHED.textIn(root, reached.at.replace(PAGE_ENDS, `.${PROSE}.${proseEnding}`))
   const story = addressIn(textAt(reached.value, STORY) ?? "")
   const storyAt =
     story.kind === "qualified" ? listedAt(root, story.pageTypeSlug, story.slug)[0]?.path : undefined
@@ -137,6 +182,7 @@ function chapterRead(root: string, slug: string): Chapter | string {
     beatsAt,
     beatsText: REACHED.textIn(root, beatsAt),
     storyValue: storyAt === undefined ? null : valueAt(storyAt, root),
+    ...(readProse === undefined ? {} : { readProse }),
   }
 }
 
