@@ -94,7 +94,7 @@ function capturedQuest(this: void, questIndex: number): CapturedQuest {
   }
 }
 
-export function readJournal(this: void): JournalCapture {
+function readJournal(this: void): JournalCapture {
   const quests: CapturedQuest[] = []
   for (let questIndex = 1; questIndex <= MAX_JOURNAL_QUESTS; questIndex++) {
     if (IsValidQuestIndex(questIndex)) quests.push(capturedQuest(questIndex))
@@ -102,7 +102,7 @@ export function readJournal(this: void): JournalCapture {
   return { at: GetTimeStamp(), character: plain(GetUnitName("player")), quests }
 }
 
-export function captureJournal(this: void): undefined {
+function captureJournal(this: void): undefined {
   try {
     const journal = readJournal()
     const sv = getSavedVariables()
