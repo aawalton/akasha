@@ -20,6 +20,11 @@ export const narrationHomographs = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A compound misaki stresses twice, as eye contact, is handed on stressed on its first word.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A homograph is handed on with a reading only where the words beside it settle its sense.",
     },
     {
@@ -50,5 +55,5 @@ export const narrationHomographs = {
     },
   ],
   createdAt: "2026-10-08T19:44:53.690Z",
-  updatedAt: "2026-10-09T02:00:36.200Z",
+  updatedAt: "2026-10-09T14:00:40.352Z",
 } as const satisfies Module

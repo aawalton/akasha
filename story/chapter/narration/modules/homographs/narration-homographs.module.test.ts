@@ -2,6 +2,12 @@ import { describe, expect, test } from "bun:test"
 import { homographsOf } from "akasha/story/chapter/narration/modules/homographs/narration-homographs.module.code.ts"
 
 describe("homographsOf", () => {
+  test("eye contact is stressed on eye, as one compound", () => {
+    expect(homographsOf("She made eye contact. Eye-contact. The contact was brief.")).toBe(
+      "She made eye [contact](/kˌɑntækt/). Eye-[contact](/kˌɑntækt/). The contact was brief."
+    )
+  })
+
   test("legged it is one syllable, and legged otherwise is left", () => {
     expect(homographsOf("He legged it. A four-legged beast.")).toBe(
       "He [legged](/lˈɛɡd/) it. A four-legged beast."
