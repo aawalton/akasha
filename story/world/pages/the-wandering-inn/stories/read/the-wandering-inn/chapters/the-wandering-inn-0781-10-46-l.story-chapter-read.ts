@@ -15,6 +15,6 @@ export const theWanderingInn07811046L = {
   ],
   prose: "txt",
   createdAt: "2026-09-03T04:58:33.299Z",
-  updatedAt: "2026-10-09T01:42:38.928Z",
-  ownProgress: 49267,
+  updatedAt: "2026-10-09T01:42:53.105Z",
+  ownProgress: 49329,
 } as const satisfies StoryChapterRead
