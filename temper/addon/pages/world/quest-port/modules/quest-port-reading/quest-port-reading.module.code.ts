@@ -196,9 +196,9 @@ const ACCOUNT_WIDE = z
 
 export const QUEST_PORT_SAVED_VARIABLES = savedVariablesRootSchema(ACCOUNT_WIDE)
 
-export type JournalReading = z.infer<typeof JOURNAL>
-export type PressReading = z.infer<typeof PRESS>
-export type AssistMoveReading = z.infer<typeof ASSIST_MOVE>
+type JournalReading = z.infer<typeof JOURNAL>
+type PressReading = z.infer<typeof PRESS>
+type AssistMoveReading = z.infer<typeof ASSIST_MOVE>
 type MapRead = z.infer<typeof MAP>
 type AssistedRead = z.infer<typeof ASSISTED>
 

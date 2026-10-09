@@ -8,7 +8,7 @@ import { z } from "zod"
 
 const SPOT = z.object({ mapId: z.number(), x: z.number(), y: z.number() })
 
-export const TREASURE_PRESS = PRESS.extend({
+const TREASURE_PRESS = PRESS.extend({
   slotIndex: z.number().optional(),
   itemId: z.number().optional(),
   itemName: z.string().optional(),

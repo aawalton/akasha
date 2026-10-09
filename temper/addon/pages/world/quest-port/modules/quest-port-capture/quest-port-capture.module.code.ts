@@ -51,7 +51,7 @@ export interface MapReading {
   readonly zoneName: string
 }
 
-export interface MapStep {
+interface MapStep {
   readonly step: string
   readonly result: number
   readonly map: MapReading
@@ -71,7 +71,7 @@ export interface PositionAnswer {
   readonly additionalSymbolicLocY: number
 }
 
-export interface CandidateReading {
+interface CandidateReading {
   readonly kind: "wayshrine" | "house"
   readonly name: string
   readonly nodeIndex: number
@@ -119,14 +119,14 @@ export interface PortTraceEntry {
   said: string[]
 }
 
-export interface TaskListFocus {
+interface TaskListFocus {
   readonly journalIndex: number
   readonly name: string
   readonly assistedWithZero: boolean
   readonly assistedWithNil: boolean
 }
 
-export interface TaskListReading {
+interface TaskListReading {
   readonly assistedName?: string
   readonly refreshCount: number
   readonly lastRefreshAt?: number

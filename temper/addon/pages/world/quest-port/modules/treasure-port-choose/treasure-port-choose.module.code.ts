@@ -26,7 +26,7 @@ export interface MapFrame {
   readonly height: number
 }
 
-export interface KnownTreasure {
+interface KnownTreasure {
   readonly slot: TreasureSlot
   readonly spots: readonly Spot[]
 }
@@ -38,7 +38,7 @@ export function isTreasureItem(this: void, specializedItemType: number): boolean
   )
 }
 
-export function slotsInPortOrder(this: void, slots: readonly TreasureSlot[]): TreasureSlot[] {
+function slotsInPortOrder(this: void, slots: readonly TreasureSlot[]): TreasureSlot[] {
   return [...slots].sort((a, b) => a.slotIndex - b.slotIndex)
 }
 
