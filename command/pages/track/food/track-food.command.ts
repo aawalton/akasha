@@ -60,6 +60,10 @@ export const trackFood = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Code filing a food for an instant files that food at that instant.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An entry is filed under the day and the food's name.",
     },
     {
@@ -109,5 +113,5 @@ export const trackFood = {
     { argument: "argument/time" },
   ],
   createdAt: "2026-09-03T16:10:24.907Z",
-  updatedAt: "2026-09-24T19:25:42.000Z",
+  updatedAt: "2026-10-09T12:12:25.038Z",
 } as const satisfies Command

@@ -234,10 +234,15 @@ async function landFoodEntry(root: string, slug: string, values: Value): Promise
 
 type Kept = { readonly done: string[]; readonly report: string[] }
 
-type Logging = (read: Logged, given: Given, kept: Kept) => Promise<Answer>
+type Logging = (read: Logged, given: Given, kept: Kept, now?: Date) => Promise<Answer>
 
-async function logged(read: Logged, given: Given, kept: Kept): Promise<Answer> {
-  const happenedAtRead = happenedAtFrom(read.date, read.time, new Date())
+async function logged(
+  read: Logged,
+  given: Given,
+  kept: Kept,
+  now: Date = new Date()
+): Promise<Answer> {
+  const happenedAtRead = happenedAtFrom(read.date, read.time, now)
   if ("refused" in happenedAtRead) return refused(happenedAtRead.refused, INPUT)
   const happenedAtDate = happenedAtRead.at
   const happenedAt = happenedAtDate.toISOString()
@@ -364,6 +369,15 @@ export async function foodLogged(
   const said = await answering(async (done) => await logging(read, given, { done, report }))
   if (said.refusals.length === 0 || report.length === 0) return said
   return { ...said, report: [...said.report, ...report] }
+}
+
+export async function foodLoggedAt(
+  read: Logged,
+  given: Given,
+  at: Date,
+  logging: Logging = logged
+): Promise<Answer> {
+  return await foodLogged(read, given, (one, by, kept) => logging(one, by, kept, at))
 }
 
 export async function trackFood(argv: readonly string[], given: Given): Promise<Answer> {

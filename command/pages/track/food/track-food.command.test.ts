@@ -9,6 +9,7 @@ import {
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   foodLogged,
+  foodLoggedAt,
   freeStemIn,
   happenedAtFrom,
   type Logged,
@@ -91,6 +92,17 @@ test("a run that finished answers what it reported and nothing the list holds", 
   })
   expect(said.report).toEqual(["id\t01a0"])
   expect(said.refusals).toEqual([])
+  expect(said.code).toBe(OK)
+})
+
+test("a food filed for an instant is handed that instant rather than the clock's", async () => {
+  const at = new Date("2026-10-09T11:01:33.322Z")
+  const handed: (Date | undefined)[] = []
+  const said = await foodLoggedAt(KALE, given("/nowhere"), at, async (_read, _given, kept, now) => {
+    handed.push(now)
+    return told(kept.report)
+  })
+  expect(handed).toEqual([at])
   expect(said.code).toBe(OK)
 })
 
