@@ -18,7 +18,7 @@ export const companionRapport = {
   lastCompletedAt: "2026-10-09T14:13:52.000Z",
   progress: "jsonl",
   progressTotal: 640000,
-  progressCurrent: 89151,
-  updatedAt: "2026-10-09T14:15:50.015Z",
+  progressCurrent: 89286,
+  updatedAt: "2026-10-09T14:15:52.131Z",
   createdAt: "2026-05-28T13:14:43.758Z",
 } as const satisfies TemperTask
