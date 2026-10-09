@@ -25401,7 +25401,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 2,
+            "numCompleted": 21,
             "numRequired": 150
           }
         }
@@ -25414,7 +25414,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 3,
             "numRequired": 60
           }
         }
@@ -25470,7 +25470,7 @@
       }
     },
     "3858": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -73619,7 +73619,7 @@
       "name": "Blind Path Induction",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Bedlam Veil",
-      "slotsUnlocked": 3,
+      "slotsUnlocked": 4,
       "totalSlots": 22,
       "pieces": [
         {
@@ -73628,7 +73628,7 @@
         },
         {
           "name": "Blind Path Induction Epaulets",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Blind Path Induction Robe",
@@ -73813,7 +73813,7 @@
       "name": "Reflected Fury",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Bedlam Veil",
-      "slotsUnlocked": 6,
+      "slotsUnlocked": 7,
       "totalSlots": 22,
       "pieces": [
         {
@@ -73834,7 +73834,7 @@
         },
         {
           "name": "Reflected Fury Girdle",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Reflected Fury Greaves",
