@@ -7,7 +7,7 @@ export const weeklyChallenges = {
   title: "Weekly Challenges",
   icon: "file-text",
   character: "temper-account-character/erin-solstice",
-  dueDate: "2026-10-13",
+  dueDate: "2026-10-09",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -15,5 +15,5 @@ export const weeklyChallenges = {
   priority: "p3",
   lastCompletedAt: "2026-10-08T17:36:29.293Z",
   createdAt: "2026-07-24T12:36:25.701Z",
-  updatedAt: "2026-10-08T17:36:29.817Z",
+  updatedAt: "2026-10-09T13:57:53.644Z",
 } as const satisfies TemperTask
