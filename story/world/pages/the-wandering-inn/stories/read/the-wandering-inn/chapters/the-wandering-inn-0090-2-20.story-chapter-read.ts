@@ -17,5 +17,6 @@ export const theWanderingInn0090220 = {
   prose: "txt",
   beats: "jsonl",
   createdAt: "2026-09-03T04:49:11.173Z",
-  updatedAt: "2026-10-09T01:28:54.226Z",
+  updatedAt: "2026-10-09T01:39:16.002Z",
+  scenes: ["image/image-b06831b40f0e7aae"],
 } as const satisfies StoryChapterRead
