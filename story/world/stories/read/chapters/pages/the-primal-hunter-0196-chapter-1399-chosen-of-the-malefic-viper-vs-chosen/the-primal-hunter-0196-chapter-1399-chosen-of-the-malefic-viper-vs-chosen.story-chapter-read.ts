@@ -20,5 +20,6 @@ export const thePrimalHunter0196Chapter1399ChosenOfTheMaleficViperVsChosen = {
     },
   ],
   createdAt: "2026-10-08T16:05:40.604Z",
-  updatedAt: "2026-10-08T16:05:40.604Z",
+  updatedAt: "2026-10-09T04:06:48.667Z",
+  ownProgress: 2984,
 } as const satisfies StoryChapterRead
