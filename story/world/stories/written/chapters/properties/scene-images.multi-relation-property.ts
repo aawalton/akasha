@@ -5,7 +5,7 @@ export const sceneImages = {
   type: "page-type/multi-relation-property",
   slug: "scene-images",
   propertySlug: "scenes",
-  definition: "the pictures of a written chapter's scenes, in the order the prose reaches them",
+  definition: "the pictures of a chapter's scenes, in the order the prose reaches them",
   targetPageType: "page-type/image",
   decisions: [
     {
@@ -24,5 +24,5 @@ export const sceneImages = {
   ],
   types: "ts",
   createdAt: "2026-10-01T22:15:31.168Z",
-  updatedAt: "2026-10-02T16:49:56.000Z",
+  updatedAt: "2026-10-09T00:59:20.285Z",
 } as const satisfies MultiRelationProperty

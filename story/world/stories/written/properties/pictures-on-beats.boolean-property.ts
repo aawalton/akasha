@@ -5,7 +5,7 @@ export const picturesOnBeats = {
   type: "page-type/boolean-property",
   slug: "pictures-on-beats",
   propertySlug: "pictures-on-beats",
-  definition: "whether a written story pictures every beat of its chapters",
+  definition: "whether a story pictures the beats of its chapters",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -32,5 +32,5 @@ export const picturesOnBeats = {
   ],
   types: "ts",
   createdAt: "2026-10-04T09:19:44.832Z",
-  updatedAt: "2026-10-04T09:19:52.000Z",
+  updatedAt: "2026-10-09T00:59:20.285Z",
 } as const satisfies BooleanProperty

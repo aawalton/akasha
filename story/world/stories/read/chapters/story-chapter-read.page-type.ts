@@ -51,6 +51,12 @@ export const storyChapterRead = {
       required: false,
       many: false,
     },
+    {
+      pageProperty: "multi-relation-property/scene-images",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -65,5 +71,5 @@ export const storyChapterRead = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:34:14.461Z",
-  updatedAt: "2026-09-29T02:56:03.000Z",
+  updatedAt: "2026-10-09T00:59:20.285Z",
 } as const satisfies PageType
