@@ -49,7 +49,16 @@ export const alanWebApiSeatMessage = {
       decisionKind: "decision-kind/departure",
       statement: "A write the pages service refused is answered 503 rather than as a message sent.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message the sender names by id is written once however often that id is sent.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "An id is known again for fifteen minutes, and only in the web process that wrote it.",
+    },
   ],
   createdAt: "2026-09-24T18:00:41.695Z",
-  updatedAt: "2026-09-24T18:56:50.000Z",
+  updatedAt: "2026-10-09T23:19:50.243Z",
 } as const satisfies Route

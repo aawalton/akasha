@@ -7,7 +7,10 @@ import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { imageBytes } from "akasha/infrastructure/inference/generation/image/properties/image-bytes.file-property.ts"
-import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
+import {
+  statesVersionSeven,
+  uuidVersion7,
+} from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -32,7 +35,14 @@ const IMAGE_PAGE_TYPE_SLUG = "image"
 
 const IMAGES_HELD = 8
 
+const REMEMBERED_MS = 15 * 60_000
+
+type Answer = { readonly status: number; readonly said: Readonly<Record<string, unknown>> }
+
+const answering = new Map<string, { readonly at: number; readonly answer: Promise<Answer> }>()
+
 const SENT = z.object({
+  id: z.string().refine(statesVersionSeven).optional(),
   seat: z.string().min(1),
   body: z.string(),
   images: z.array(z.string().refine(isImageSlug)).max(IMAGES_HELD).default([]),
@@ -134,7 +144,11 @@ export async function action({ request }: { request: Request }): Promise<Respons
     return refused(`A message holds at most ${BODY_HOLDS} characters.`, 413)
   }
 
-  const id = uuidVersion7()
+  const answer = await writtenOnce(sent.data.id ?? uuidVersion7(), from, to, body)
+  return Response.json(answer.said, { status: answer.status })
+}
+
+async function written(id: string, from: string, to: string, body: string): Promise<Answer> {
   const named = messageNamed(id)
   const wrote = await writingFor({
     writer: WRITER,
@@ -154,6 +168,26 @@ export async function action({ request }: { request: Request }): Promise<Respons
       },
     ],
   })
-  if ("refused" in wrote) return refused(wrote.refused, 503)
-  return Response.json({ ok: true, message: named })
+  if ("refused" in wrote) return { status: 503, said: { ok: false, error: wrote.refused } }
+  return { status: 200, said: { ok: true, message: named } }
+}
+
+function writtenOnce(id: string, from: string, to: string, body: string): Promise<Answer> {
+  const now = Date.now()
+  for (const [key, one] of answering) if (now - one.at > REMEMBERED_MS) answering.delete(key)
+  const key = `${from} ${id}`
+  const held = answering.get(key)
+  if (held !== undefined) return held.answer
+  const answer = written(id, from, to, body).then(
+    (said) => {
+      if (said.status !== 200) answering.delete(key)
+      return said
+    },
+    (cause: unknown) => {
+      answering.delete(key)
+      throw cause
+    }
+  )
+  answering.set(key, { at: now, answer })
+  return answer
 }
