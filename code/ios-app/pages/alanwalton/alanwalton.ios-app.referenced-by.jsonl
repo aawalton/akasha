@@ -314,7 +314,6 @@
 {"propertySlug":"app","path":"alan/harness/readout/widget/pages/alanwalton-upkeep-stoplights.readout-widget.ts","id":"01a06420-b259-7c2d-889c-333cb1144c67"}
 {"propertySlug":"device-token-ios-app","path":"person/device-token/pages/alan-alanwalton-5e5cc181015cd9395ce4c07e3a6409dc.device-token.ts","id":"01a11d37-c232-7a10-b502-cf56ed04e63d"}
 {"propertySlug":"device-token-ios-app","path":"person/device-token/pages/alan-alanwalton-9eb5945453bf716327a14858607fb8b7.device-token.ts","id":"01a06244-2290-76f7-8b58-355085abab49"}
-{"propertySlug":"device-token-ios-app","path":"person/device-token/pages/alan-alanwalton-ffc93f78f31291595ae350cba8f64b5d.device-token.ts","id":"01a11ca8-ef95-729f-a65f-4220d4682ff2"}
 {"propertySlug":"import","fileName":"alanwalton.ios-app.ts","path":"alan/harness/handover-rr/modules/handover-app/handover-app.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alanwalton.ios-app.ts","path":"alan/harness/handover-rr/modules/handover-app/handover-app.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alanwalton.ios-app.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.test.ts","typed":false,"deferred":false}
