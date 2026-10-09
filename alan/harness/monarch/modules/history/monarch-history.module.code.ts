@@ -20,6 +20,7 @@ export interface HistoryRow {
   readonly isSplit: boolean
   readonly currentCategory: string
   readonly currentCategoryId: string | null
+  readonly categorySource: string | null
 }
 
 function rowOf(line: TransactionLine, titles: ReadonlyMap<string, string>): HistoryRow {
@@ -35,6 +36,7 @@ function rowOf(line: TransactionLine, titles: ReadonlyMap<string, string>): Hist
     isSplit: line.split === true,
     currentCategory: category === null ? "" : (titles.get(category) ?? category),
     currentCategoryId: category,
+    categorySource: line.categorySource ?? null,
   }
 }
 

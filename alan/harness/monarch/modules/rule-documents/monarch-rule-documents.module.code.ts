@@ -78,6 +78,13 @@ function countOf(page: RulePage, name: string): number | null {
   return held
 }
 
+function flagOf(page: RulePage, name: string): boolean {
+  const held = page.value[name]
+  if (held === undefined || held === null) return false
+  if (typeof held !== "boolean") throw new Error(`${page.path}: \`${name}\` is no truth`)
+  return held
+}
+
 function rulePages(): readonly RulePage[] {
   const found: RulePage[] = []
   const held = new Map<string, string>()
@@ -128,6 +135,7 @@ export async function loadCategoryRules(): Promise<RuleSet> {
           category: categoryOf(page),
           ruleNote: textOf(page, "ruleNote"),
           counterpartWithinDays: countOf(page, "counterpartWithinDays"),
+          overridesMonarch: flagOf(page, "overridesMonarch"),
         },
         outcomeOf(page, categories)
       )

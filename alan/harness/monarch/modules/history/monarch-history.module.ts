@@ -40,10 +40,14 @@ export const monarchHistory = {
       statement: "Every row has the same shape.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A row carries who decided its category, as the copy has it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes.",
     },
   ],
   createdAt: "2026-09-03T17:51:52.049Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-09T19:29:15.990Z",
 } as const satisfies Module

@@ -47,6 +47,7 @@ export async function candidateRule(
     monthIs: monthListFrom(flags.get("month-is") ?? [], "--month-is"),
     monthIsNot: monthListFrom(flags.get("month-is-not") ?? [], "--month-is-not"),
     note: flags.get("note")?.join(" ") ?? null,
+    overridesMonarch: false,
     outcome:
       categoryName === null
         ? { kind: "reserve" }

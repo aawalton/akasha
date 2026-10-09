@@ -17,6 +17,11 @@ export const monarchCategorizeRecent = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A row an overriding rule replaces Monarch's category on is weighed, whatever its date.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A split row is passed over.",
     },
     {
@@ -37,5 +42,5 @@ export const monarchCategorizeRecent = {
     },
   ],
   createdAt: "2026-09-03T17:54:00.831Z",
-  updatedAt: "2026-09-19T18:25:20.000Z",
+  updatedAt: "2026-10-09T19:29:15.990Z",
 } as const satisfies Module

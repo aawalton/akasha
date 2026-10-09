@@ -62,6 +62,12 @@ export function checkedRule(rule: Rule): Rule {
   if (rule.outcome.kind === "categorize" && rule.outcome.category.trim() === "") {
     throw new Error(`rule "${rule.name}" says it categorizes and names no category`)
   }
+  if (rule.overridesMonarch && rule.outcome.kind === "reserve") {
+    throw new Error(
+      `rule "${rule.name}" overrides Monarch and names no category, so it would take a ` +
+        "category away and put nothing in its place"
+    )
+  }
   return rule
 }
 
@@ -71,6 +77,7 @@ interface StatedRule {
   readonly category: string | null
   readonly ruleNote: string | null
   readonly counterpartWithinDays: number | null
+  readonly overridesMonarch: boolean
 }
 
 function knownKey(at: string, key: unknown): MatchKey {
@@ -225,6 +232,7 @@ export function ruleFromMatches(at: string, stated: StatedRule, outcome: Outcome
     monthIsNot: monthsOf(at, matches, "is-not"),
     counterpart: counterpartOf(at, stated.counterpartWithinDays),
     note: stated.ruleNote,
+    overridesMonarch: stated.overridesMonarch,
     outcome,
   })
 }

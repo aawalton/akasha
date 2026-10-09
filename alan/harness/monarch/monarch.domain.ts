@@ -114,6 +114,10 @@ export const monarch = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rule overriding Monarch runs over the whole copy rather than that window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Transactions are checked every minute.",
     },
     {
@@ -169,5 +173,5 @@ export const monarch = {
     },
   ],
   createdAt: "2026-08-30T16:45:07.465Z",
-  updatedAt: "2026-09-24T23:25:48.000Z",
+  updatedAt: "2026-10-09T19:29:15.990Z",
 } as const satisfies Domain

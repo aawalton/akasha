@@ -3,14 +3,17 @@
 import { applyDecision } from "akasha/alan/harness/monarch/modules/apply/monarch-apply.module.code.ts"
 import type { HistoryRow } from "akasha/alan/harness/monarch/modules/history/monarch-history.module.code.ts"
 import {
+  readHistory,
   readNeighbourhood,
   readSince,
 } from "akasha/alan/harness/monarch/modules/history/monarch-history.module.code.ts"
+import { decidedHere } from "akasha/alan/harness/monarch/modules/provenance/monarch-provenance.module.code.ts"
 import { loadCategoryRules } from "akasha/alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.code.ts"
 import { categoryTitles } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
 import {
   clausesMatch,
   decide,
+  overrides,
 } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import {
   answered,
@@ -33,12 +36,29 @@ export async function categorizeRecent(): Promise<CategorizeTally> {
   const from = unattendedFrom()
   const rules = (await loadCategoryRules()).rules
   const titles = await categoryTitles()
-  const rows = (await readSince(from)).filter(
+  const unanswered = (await readSince(from)).filter(
     (row) => !answered(row.currentCategory) && !row.isSplit
   )
+  const overriding = rules.filter((one) => one.overridesMonarch)
+  const overridden =
+    overriding.length === 0
+      ? []
+      : (await readHistory()).filter(
+          (row) =>
+            !row.isSplit &&
+            overriding.some((one) =>
+              overrides(one, row, {
+                category: row.currentCategoryId,
+                decidedHere: decidedHere(row.categorySource),
+              })
+            )
+        )
+  const seen = new Set(unanswered.map((row) => row.monarchId))
+  const rows = [...unanswered, ...overridden.filter((row) => !seen.has(row.monarchId))]
 
-  console.log(`  window ${from} onward (${UNATTENDED_DAYS} days), ${rules.length} rule(s) standing`)
-  console.log(`  ${rows.length} row(s) unanswered and unsplit`)
+  console.log(`  window ${from} onward (${UNATTENDED_DAYS} days), ${rules.length} rule(s) in force`)
+  console.log(`  ${unanswered.length} row(s) unanswered and unsplit`)
+  console.log(`  ${overridden.length} row(s) of any date an overriding rule replaces Monarch's on`)
 
   const left = new Map<string, number>()
   const contested: string[] = []

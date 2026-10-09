@@ -9,6 +9,7 @@ import {
   decide,
   neighbourhoodIn,
   neighbourhoods,
+  overrides,
 } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import type { Subject } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
@@ -58,6 +59,7 @@ const RULE: Rule = {
   monthIs: [],
   monthIsNot: [],
   note: null,
+  overridesMonarch: false,
   outcome: { kind: "categorize", category: "transfer-page-id" },
 }
 
@@ -140,4 +142,46 @@ test("a rule that reaches nothing decides nothing", () => {
 
 test("a counterpart in the same account is no counterpart", () => {
   expect(shape(decide(RULE, rowFor("E"), ROWS))).toBe("unpaired")
+})
+
+const OVERRIDING: Rule = {
+  ...RULE,
+  name: "an AI subscription",
+  merchantContains: ["anthropic"],
+  amountSign: "negative",
+  counterpart: null,
+  overridesMonarch: true,
+  outcome: { kind: "categorize", category: "alans-ai-phd" },
+}
+
+const CHARGE = at("G", 0, -21.49, CARD, "anthropic")
+
+const GUESSED = { category: "alans-spending", decidedHere: false }
+
+test("an overriding rule replaces a category Monarch gave a row it matches", () => {
+  expect(overrides(OVERRIDING, CHARGE, GUESSED)).toBe(true)
+})
+
+test("an overriding rule leaves a row already in the category it names", () => {
+  expect(overrides(OVERRIDING, CHARGE, { ...GUESSED, category: "alans-ai-phd" })).toBe(false)
+})
+
+test("an overriding rule never replaces a category this harness decided", () => {
+  expect(overrides(OVERRIDING, CHARGE, { ...GUESSED, decidedHere: true })).toBe(false)
+})
+
+test("an overriding rule leaves an uncategorized row to the unattended window", () => {
+  expect(overrides(OVERRIDING, CHARGE, { ...GUESSED, category: null })).toBe(false)
+})
+
+test("an overriding rule replaces nothing on a row its clauses do not match", () => {
+  expect(overrides(OVERRIDING, at("H", 0, 21.49, CARD, "anthropic"), GUESSED)).toBe(false)
+})
+
+test("a rule not stating it overrides replaces nothing Monarch gave", () => {
+  expect(overrides({ ...OVERRIDING, overridesMonarch: false }, CHARGE, GUESSED)).toBe(false)
+})
+
+test("a reserving rule replaces nothing, overriding or not", () => {
+  expect(overrides({ ...OVERRIDING, outcome: { kind: "reserve" } }, CHARGE, GUESSED)).toBe(false)
 })

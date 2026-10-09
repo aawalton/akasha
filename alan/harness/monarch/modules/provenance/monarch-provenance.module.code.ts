@@ -1,5 +1,11 @@
 export type DecidedSource = "programmatic-categorization" | "manual-categorization"
 
+const DECIDED_SOURCES: readonly string[] = ["programmatic-categorization", "manual-categorization"]
+
+export function decidedHere(categorySource: string | null): boolean {
+  return categorySource !== null && DECIDED_SOURCES.includes(categorySource)
+}
+
 export interface CategoryDecision {
   readonly source: DecidedSource
   readonly decidedBy: string

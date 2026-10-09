@@ -54,7 +54,20 @@ export interface Rule extends DateClauses, AmountClause {
   readonly amountSignIsNot: "positive" | "negative" | null
   readonly counterpart: CounterpartSpec | null
   readonly note: string | null
+  readonly overridesMonarch: boolean
   readonly outcome: Outcome
+}
+
+interface CategoryNow {
+  readonly category: string | null
+  readonly decidedHere: boolean
+}
+
+export function overrides(rule: Rule, subject: Subject, now: CategoryNow): boolean {
+  if (!rule.overridesMonarch || rule.outcome.kind !== "categorize") return false
+  if (now.decidedHere || now.category === null) return false
+  if (now.category === rule.outcome.category) return false
+  return clausesMatch(rule, subject)
 }
 
 type Ambiguity = "several counterparts" | "counterpart contended"

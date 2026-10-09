@@ -42,6 +42,10 @@ export const monarchRuleClauses = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rule that reserves and overrides Monarch is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A rule that pairs a counterpart and has a note is refused.",
     },
     {
@@ -58,5 +62,5 @@ export const monarchRuleClauses = {
     },
   ],
   createdAt: "2026-09-03T17:51:45.347Z",
-  updatedAt: "2026-09-22T13:22:14.000Z",
+  updatedAt: "2026-10-09T19:29:15.990Z",
 } as const satisfies Module

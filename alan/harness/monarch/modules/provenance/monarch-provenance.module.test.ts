@@ -1,5 +1,15 @@
 import { expect, test } from "bun:test"
-import { recordDecision } from "akasha/alan/harness/monarch/modules/provenance/monarch-provenance.module.code.ts"
+import {
+  decidedHere,
+  recordDecision,
+} from "akasha/alan/harness/monarch/modules/provenance/monarch-provenance.module.code.ts"
+
+test("a category this harness wrote is decided here, and one Monarch carried is not", () => {
+  expect(decidedHere("programmatic-categorization")).toBe(true)
+  expect(decidedHere("manual-categorization")).toBe(true)
+  expect(decidedHere("monarch")).toBe(false)
+  expect(decidedHere(null)).toBe(false)
+})
 
 test("a decision records both the kind of thing that decided and the one thing that decided", () => {
   expect(

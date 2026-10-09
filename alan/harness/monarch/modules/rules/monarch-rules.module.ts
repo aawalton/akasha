@@ -76,10 +76,15 @@ export const monarchRules = {
       statement: "The bucketed neighbourhood is the plain neighbourhood.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An overriding rule replaces only a category Monarch gave and the rule would change.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a file or reaches Monarch.",
     },
   ],
   createdAt: "2026-09-03T17:49:17.708Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-09T19:29:15.990Z",
 } as const satisfies Module
