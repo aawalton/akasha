@@ -7320,7 +7320,9 @@
         79,
         80,
         81,
-        82
+        82,
+        83,
+        84
       ],
       "7": [
         1,
@@ -28252,11 +28254,11 @@
   "bagSize": 215,
   "allianceRank": 50,
   "dailyWrits": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "seen": [
       5,
       3,
@@ -28278,7 +28280,7 @@
   },
   "bankVisitDate": "2026-10-08",
   "inventoryCheck": {
-    "date": "2026-10-08",
-    "misplaced": 90
+    "date": "2026-10-09",
+    "misplaced": 128
   }
 }
