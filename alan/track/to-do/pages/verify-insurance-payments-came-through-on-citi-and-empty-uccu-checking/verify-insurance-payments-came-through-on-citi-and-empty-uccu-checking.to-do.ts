@@ -6,10 +6,10 @@ export const verifyInsurancePaymentsCameThroughOnCitiAndEmptyUccuChecking = {
   slug: "verify-insurance-payments-came-through-on-citi-and-empty-uccu-checking",
   title: "Verify insurance payments came through on Citi and empty UCCU checking",
   toDoCategory: "wealth",
-  toDoDueDate: "2026-10-09",
+  toDoDueDate: "2026-10-10",
   priority: "p3",
   toDoSortOrder: 58,
   toDoValue: "value/wealth",
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-08T17:36:42.973Z",
+  updatedAt: "2026-10-09T19:17:13.235Z",
 } as const satisfies ToDo
