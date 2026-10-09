@@ -1,11 +1,11 @@
 {
-  "buildHash": "ATQHNIEAAIBhxAlC4RtQsBLULAS1CwEtItxbULcW1C3FtEFxbRBADUQXFtAGgCWgCgBLRSM4tsboAF4AAhqAB15I2ymLCGzoAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWR1bI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM8MBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
+  "buildHash": "ATQHNMUAAIBhxAlC4RtQsBLULAS1CwEtItxbULcW1C3FtEFxbRBADUQXFtAGgCWgCgBLRSM4tsboAF4AAdeAAkZi2ygACGzoAAgjlUgFAGWpToAIAEaCACEKgJJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRBQdoFZDg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWR1bI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM8MBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
   "gender": 1,
   "level": 50,
   "classId": 1,
   "allianceId": 1,
   "raceId": 10,
-  "curseState": "no-curse",
+  "curseState": "vampire",
   "className": "Dragonknight",
   "classIcon": "/esoui/art/icons/class/class_dragonknight.dds",
   "achievements": {
@@ -1873,7 +1873,7 @@
             "name": "Shatterspike Mantle",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -16371,7 +16371,7 @@
   },
   "skillPoints": {
     "total": 577,
-    "unassigned": 180,
+    "unassigned": 172,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -28292,6 +28292,6 @@
   "bankVisitDate": "2026-10-09",
   "inventoryCheck": {
     "date": "2026-10-09",
-    "misplaced": 125
+    "misplaced": 130
   }
 }
