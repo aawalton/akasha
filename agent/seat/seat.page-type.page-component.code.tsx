@@ -3,6 +3,7 @@
 import {
   SeatComposer,
   sentToSeat,
+  type Unsent,
 } from "akasha/agent/seat/modules/composer/seat-composer.module.code.tsx"
 import { useSeatVoice } from "akasha/agent/seat/voice/modules/live/seat-voice-live.module.code.ts"
 import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
@@ -11,6 +12,7 @@ import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skele
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { pageName } from "akasha/page/core/modules/page-name/page-name.module.code.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { PageDrawingProps } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
 import { titleColorClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
@@ -38,10 +40,11 @@ type Heard =
 
 type Pending = {
   readonly key: number
+  readonly id: string
   readonly text: string
-  readonly images: number
+  readonly files: readonly File[]
   readonly seen: number
-  readonly state: "sending" | "sent" | "refused"
+  readonly state: "sending" | "sent" | "refused" | "unanswered"
   readonly why?: string
 }
 
@@ -148,37 +151,52 @@ function useSending(id: string) {
   const [pending, setPending] = useState<readonly Pending[]>([])
   const keyed = useRef(0)
   const [heard, again] = useConversation(id)
-  const settle = (key: number, why: string | null) => {
+  const settle = (key: number, unsent: Unsent | null) => {
     setPending((held) =>
       held.map((one) =>
         one.key !== key
           ? one
-          : why === null
+          : unsent === null
             ? { ...one, state: "sent" }
-            : { ...one, state: "refused", why }
+            : { ...one, state: unsent.unanswered ? "unanswered" : "refused", why: unsent.why }
       )
     )
-    if (why === null) again()
+    if (unsent === null) again()
   }
-  const send = (text: string, images: readonly File[]) => {
+  const sending = (one: Pending) => {
+    void sentToSeat(id, one.text, one.files, one.id).then((unsent) => settle(one.key, unsent))
+  }
+  const send = (text: string, files: readonly File[]) => {
     keyed.current += 1
-    const key = keyed.current
-    setPending((held) => [
-      ...held,
-      { key, text, images: images.length, seen: timesSaid(heard, text), state: "sending" },
-    ])
-    void sentToSeat(id, text, images).then((why) => settle(key, why))
+    const one: Pending = {
+      key: keyed.current,
+      id: uuidVersion7(),
+      text,
+      files,
+      seen: timesSaid(heard, text),
+      state: "sending",
+    }
+    setPending((held) => [...held, one])
+    sending(one)
+  }
+  const resend = (one: Pending) => {
+    setPending((held) =>
+      held.map((that) => (that.key === one.key ? { ...that, state: "sending" } : that))
+    )
+    sending(one)
   }
   const dismiss = (key: number) => setPending((held) => held.filter((one) => one.key !== key))
   useEffect(() => {
     setPending((held) => {
       const kept = held.filter(
-        (one) => one.state !== "sent" || timesSaid(heard, one.text) <= one.seen
+        (one) =>
+          (one.state !== "sent" && one.state !== "unanswered") ||
+          timesSaid(heard, one.text) <= one.seen
       )
       return kept.length === held.length ? held : kept
     })
   }, [heard])
-  return { heard, pending, send, dismiss }
+  return { heard, pending, send, resend, dismiss }
 }
 
 function clockOf(at: string | undefined): string | null {
@@ -248,16 +266,30 @@ function EntryDrawn({ entry }: { entry: Entry }) {
 function pendingSaid(one: Pending): string {
   if (one.state === "sending") return "Sending…"
   if (one.state === "sent") return "Sent, waiting for the seat to take it"
+  if (one.state === "unanswered") return "No answer came, so it may or may not have been sent"
   return `Not sent: ${one.why ?? "the send was refused"}`
 }
 
-function PendingDrawn({ one, dismiss }: { one: Pending; dismiss: (key: number) => void }) {
+function PendingDrawn({
+  one,
+  resend,
+  dismiss,
+}: {
+  one: Pending
+  resend: (one: Pending) => void
+  dismiss: (key: number) => void
+}) {
   return (
     <div className="flex flex-col gap-1 opacity-60">
-      <PersonSaid entry={{ kind: "person", text: one.text, images: one.images }} />
+      <PersonSaid entry={{ kind: "person", text: one.text, images: one.files.length }} />
       <span className={cn("flex gap-2", SUBDUED)}>
         {pendingSaid(one)}
-        {one.state === "refused" && (
+        {one.state === "unanswered" && (
+          <button type="button" className="underline" onClick={() => resend(one)}>
+            Send again
+          </button>
+        )}
+        {(one.state === "refused" || one.state === "unanswered") && (
           <button type="button" className="underline" onClick={() => dismiss(one.key)}>
             Dismiss
           </button>
@@ -285,7 +317,7 @@ function Conversation({ heard }: { heard: Heard }) {
 
 export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   const { page, isLoading, data, allDefinitions } = usePageDefaultContent({ pageTypeSlug, id })
-  const { heard, pending, send, dismiss } = useSending(id)
+  const { heard, pending, send, resend, dismiss } = useSending(id)
   const voice = useSeatVoice(id, heard.state === "heard" ? heard.entries : NOTHING_SAID, (text) => {
     send(text, [])
   })
@@ -311,7 +343,7 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
             <h1 className={titleClasses}>{pageName(data)}</h1>
             <Conversation heard={heard} />
             {pending.map((one) => (
-              <PendingDrawn key={one.key} one={one} dismiss={dismiss} />
+              <PendingDrawn key={one.key} one={one} resend={resend} dismiss={dismiss} />
             ))}
             <div ref={endRef} />
           </div>

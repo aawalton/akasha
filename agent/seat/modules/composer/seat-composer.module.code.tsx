@@ -7,6 +7,7 @@ import {
   Textarea,
   useReturnSends,
 } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { ImagePlus, LoaderCircle, Mic, MicOff, X } from "lucide-react"
 import { type ChangeEvent, useEffect, useRef, useState } from "react"
 
@@ -24,7 +25,15 @@ const IMAGES_HELD = 8
 
 type Attached = { readonly key: number; readonly file: File; readonly url: string }
 
-type Posted = { readonly said: unknown } | { readonly refused: string }
+type Posted =
+  | { readonly said: unknown }
+  | { readonly refused: string; readonly unanswered: boolean }
+
+export type Unsent = { readonly why: string; readonly unanswered: boolean }
+
+const WAITS_MS = [1_000, 2_000, 4_000, 8_000]
+
+const UNANSWERED: ReadonlySet<number> = new Set([502, 503, 504, 520, 521, 522, 523, 524])
 
 function refusalIn(said: unknown): string | null {
   if (typeof said !== "object" || said === null || !("error" in said)) return null
@@ -36,7 +45,7 @@ function imageIn(said: unknown): string | null {
   return typeof said.image === "string" ? said.image : null
 }
 
-async function posted(at: string, type: string, body: BodyInit): Promise<Posted> {
+async function postedOnce(at: string, type: string, body: BodyInit): Promise<Posted> {
   let answered: Response
   try {
     answered = await fetch(at, {
@@ -45,7 +54,7 @@ async function posted(at: string, type: string, body: BodyInit): Promise<Posted>
       body,
     })
   } catch (cause) {
-    return { refused: `${at} gave no answer (${String(cause)})` }
+    return { refused: `${at} gave no answer (${String(cause)})`, unanswered: true }
   }
   let said: unknown = null
   try {
@@ -54,7 +63,20 @@ async function posted(at: string, type: string, body: BodyInit): Promise<Posted>
     said = null
   }
   if (answered.ok) return { said }
-  return { refused: refusalIn(said) ?? `${at} answered ${answered.status}` }
+  return {
+    refused: refusalIn(said) ?? `${at} answered ${answered.status}`,
+    unanswered: UNANSWERED.has(answered.status),
+  }
+}
+
+async function posted(at: string, type: string, body: BodyInit): Promise<Posted> {
+  let held = await postedOnce(at, type, body)
+  for (const wait of WAITS_MS) {
+    if (!("refused" in held) || !held.unanswered) return held
+    await new Promise((settle) => setTimeout(settle, wait))
+    held = await postedOnce(at, type, body)
+  }
+  return held
 }
 
 async function jpegOf(file: File): Promise<Blob> {
@@ -96,16 +118,18 @@ async function keptImage(
 export async function sentToSeat(
   seat: string,
   body: string,
-  files: readonly File[] = []
-): Promise<string | null> {
+  files: readonly File[] = [],
+  id: string = uuidVersion7()
+): Promise<Unsent | null> {
   const images: string[] = []
   for (const file of files) {
     const kept = await keptImage(file)
-    if ("refused" in kept) return kept.refused
+    if ("refused" in kept) return { why: kept.refused, unanswered: false }
     images.push(kept.image)
   }
-  const held = await posted(SEND_AT, "application/json", JSON.stringify({ seat, body, images }))
-  return "refused" in held ? held.refused : null
+  const sent = JSON.stringify({ id, seat, body, images })
+  const held = await posted(SEND_AT, "application/json", sent)
+  return "refused" in held ? { why: held.refused, unanswered: held.unanswered } : null
 }
 
 function useAttached() {

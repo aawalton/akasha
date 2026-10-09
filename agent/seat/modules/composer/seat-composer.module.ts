@@ -29,6 +29,18 @@ export const seatComposer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A message names its own id, so sending it again never writes it twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A send that gets no answer is sent again four times over about fifteen seconds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A send still unanswered is shown as maybe sent, with a way to send it again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An image is attached to a message from beside the box.",
     },
     {
@@ -53,5 +65,5 @@ export const seatComposer = {
     },
   ],
   createdAt: "2026-09-24T18:02:40.725Z",
-  updatedAt: "2026-10-08T11:11:39.000Z",
+  updatedAt: "2026-10-09T23:21:10.288Z",
 } as const satisfies Module
