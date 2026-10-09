@@ -31429,14 +31429,14 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 1,
             "numRequired": 10
           }
         }
       }
     },
     "4652": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -31449,7 +31449,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 1,
             "numRequired": 5
           }
         }
@@ -31462,7 +31462,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 1,
             "numRequired": 10
           }
         }
@@ -31511,7 +31511,7 @@
       }
     },
     "4682": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -31531,7 +31531,7 @@
       }
     },
     "4684": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 2
@@ -31544,18 +31544,18 @@
         "totalSteps": 2,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 10,
             "numRequired": 10
           },
           "2": {
-            "numCompleted": 0,
+            "numCompleted": 6,
             "numRequired": 10
           }
         }
       }
     },
     "4686": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -31575,7 +31575,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 1,
             "numRequired": 10
           }
         }
@@ -89950,6 +89950,7 @@
     14394,
     14395,
     14587,
+    14601,
     14656,
     14657,
     14678,
@@ -89960,10 +89961,17 @@
     14684,
     14691,
     14697,
+    14743,
     14771,
     14772,
+    14773,
     14776,
-    14779
+    14779,
+    14988,
+    14989,
+    14990,
+    15065,
+    15071
   ],
   "subclassingSkillLineProgress": {
     "22": {
