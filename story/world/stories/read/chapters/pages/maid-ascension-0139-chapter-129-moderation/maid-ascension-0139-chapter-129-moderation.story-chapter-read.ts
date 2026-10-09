@@ -20,5 +20,6 @@ export const maidAscension0139Chapter129Moderation = {
     },
   ],
   createdAt: "2026-10-08T20:07:14.216Z",
-  updatedAt: "2026-10-08T20:07:14.216Z",
+  updatedAt: "2026-10-09T21:08:12.961Z",
+  ownProgress: 1099,
 } as const satisfies StoryChapterRead

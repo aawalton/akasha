@@ -20,5 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0065Chapter437IslandReport = {
     },
   ],
   createdAt: "2026-10-09T07:06:01.167Z",
-  updatedAt: "2026-10-09T07:06:01.167Z",
+  updatedAt: "2026-10-09T21:08:12.961Z",
+  ownProgress: 2221,
 } as const satisfies StoryChapterRead

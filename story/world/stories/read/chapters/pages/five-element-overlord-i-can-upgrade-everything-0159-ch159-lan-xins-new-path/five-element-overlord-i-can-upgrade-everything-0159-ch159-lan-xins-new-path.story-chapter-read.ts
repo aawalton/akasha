@@ -20,5 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0159Ch159LanXinsNewPath = {
     },
   ],
   createdAt: "2026-10-08T23:08:48.561Z",
-  updatedAt: "2026-10-08T23:08:48.561Z",
+  updatedAt: "2026-10-09T21:08:12.961Z",
+  ownProgress: 2077,
 } as const satisfies StoryChapterRead

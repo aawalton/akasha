@@ -20,5 +20,6 @@ export const chrysalis0534Chapter1879MindVersusMind = {
     },
   ],
   createdAt: "2026-10-09T01:05:32.766Z",
-  updatedAt: "2026-10-09T01:05:32.766Z",
+  updatedAt: "2026-10-09T21:08:12.961Z",
+  ownProgress: 1037,
 } as const satisfies StoryChapterRead

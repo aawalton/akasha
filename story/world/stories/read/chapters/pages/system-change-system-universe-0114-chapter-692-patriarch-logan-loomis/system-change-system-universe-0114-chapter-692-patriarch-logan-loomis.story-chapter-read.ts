@@ -20,5 +20,6 @@ export const systemChangeSystemUniverse0114Chapter692PatriarchLoganLoomis = {
     },
   ],
   createdAt: "2026-10-09T00:05:29.175Z",
-  updatedAt: "2026-10-09T00:05:29.175Z",
+  updatedAt: "2026-10-09T21:08:12.961Z",
+  ownProgress: 2391,
 } as const satisfies StoryChapterRead

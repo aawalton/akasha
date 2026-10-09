@@ -20,5 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0143143Covert = {
     },
   ],
   createdAt: "2026-10-08T22:07:08.989Z",
-  updatedAt: "2026-10-08T22:07:08.989Z",
+  updatedAt: "2026-10-09T21:08:12.961Z",
+  ownProgress: 2623,
 } as const satisfies StoryChapterRead

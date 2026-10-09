@@ -20,5 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0203Chapter760PrimeComm
     },
   ],
   createdAt: "2026-10-09T12:08:37.481Z",
-  updatedAt: "2026-10-09T12:08:37.481Z",
+  updatedAt: "2026-10-09T21:08:12.961Z",
+  ownProgress: 2695,
 } as const satisfies StoryChapterRead
