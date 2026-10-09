@@ -3,7 +3,7 @@ export interface MinedItemsUploaded {
   readonly throughItemId: number
 }
 
-export interface MinedItemsState {
+interface MinedItemsState {
   readonly apiVersion?: string
   readonly completed?: boolean
 }

@@ -1,10 +1,10 @@
-export interface BarSpacing {
+interface BarSpacing {
   readonly edgePad: number
   readonly minWidth: number
   readonly gap: number
 }
 
-export interface CellSpan {
+interface CellSpan {
   readonly left: number
   readonly width: number
 }
