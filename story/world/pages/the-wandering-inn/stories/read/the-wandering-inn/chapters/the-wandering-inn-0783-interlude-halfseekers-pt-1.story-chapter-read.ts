@@ -18,6 +18,6 @@ export const theWanderingInn0783InterludeHalfseekersPt1 = {
   ],
   prose: "txt",
   createdAt: "2026-09-03T04:58:33.302Z",
-  updatedAt: "2026-10-09T14:09:02.679Z",
-  ownProgress: 983,
+  updatedAt: "2026-10-09T14:09:16.971Z",
+  ownProgress: 1028,
 } as const satisfies StoryChapterRead
