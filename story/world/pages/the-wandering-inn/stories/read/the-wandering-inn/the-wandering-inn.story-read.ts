@@ -17,6 +17,7 @@ export const theWanderingInn = {
   tags: ["litrpg", "fantasy", "slice-of-life"],
   unit: "unit/words",
   prose: "txt",
+  picturesOnBeats: true,
   createdAt: "2026-09-03T04:18:50.407Z",
-  updatedAt: "2026-09-28T19:30:22.000Z",
+  updatedAt: "2026-10-09T01:01:06.780Z",
 } as const satisfies StoryRead
