@@ -7,7 +7,11 @@ import { person } from "akasha/person/person.page-type.ts"
 
 const LIFTER = `${person.slug}/${alan.slug}` as const
 
-type Loaded = { readonly loadFactor?: number; readonly implementCount?: number }
+type Loaded = {
+  readonly loadFactor?: number
+  readonly implementCount?: number
+  readonly assisted?: boolean
+}
 
 type Weighed = { readonly bodyweight?: number }
 
@@ -21,5 +25,6 @@ export const work: Work<StrengthLog, SetVolume> = (page, reach) => {
     loadFactor: movement === null ? 0 : (movement.loadFactor ?? 0),
     bodyweight: lifter === null ? 0 : (lifter.bodyweight ?? 0),
     reps: page.reps ?? 0,
+    assisted: movement?.assisted === true,
   })
 }

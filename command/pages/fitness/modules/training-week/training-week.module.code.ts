@@ -23,6 +23,8 @@ const WARMUP = "isWarmup"
 
 const RAISES_COLD = "raisesCold"
 
+const ASSISTED = "assisted"
+
 const DAY = "day-"
 
 export type Movement = {
@@ -39,6 +41,7 @@ export type Movement = {
   readonly raisesCold: boolean
   readonly implementCount: number | null
   readonly loadFactor: number | null
+  readonly assisted: boolean
 }
 
 export type Tally = {
@@ -83,6 +86,7 @@ function movementsIn(pages: readonly Value[]): ReadonlyMap<string, Movement> {
       raisesCold: one[RAISES_COLD] === true,
       implementCount: numberAt(one, "implementCount"),
       loadFactor: numberAt(one, "loadFactor"),
+      assisted: one[ASSISTED] === true,
     })
   }
   return held

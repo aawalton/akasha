@@ -37,6 +37,7 @@ export function liftedOn(
       loadFactor: movement?.loadFactor ?? 0,
       bodyweight,
       reps: numberAt(one, "reps") ?? 0,
+      assisted: movement?.assisted ?? false,
     })
     held.set(on, (held.get(on) ?? 0) + moved)
   }

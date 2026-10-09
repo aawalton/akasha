@@ -25,10 +25,14 @@ export const lifting = {
       statement: "The load counts the share of the lifter's own weight the movement carries.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An assisted set's load is that share less the weight once for each implement.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a page.",
     },
   ],
   createdAt: "2026-09-21T13:38:42.309Z",
-  updatedAt: "2026-09-22T10:06:01.000Z",
+  updatedAt: "2026-10-09T12:01:13.175Z",
 } as const satisfies ComputedPropertyModule

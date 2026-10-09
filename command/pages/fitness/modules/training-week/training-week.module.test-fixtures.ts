@@ -15,6 +15,7 @@ export function movement(slug: string, over: Partial<Movement> = {}): Movement {
     raisesCold: false,
     implementCount: 1,
     loadFactor: 0,
+    assisted: false,
     ...over,
   }
 }
