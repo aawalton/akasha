@@ -2729,7 +2729,7 @@
     },
     "111": {
       "currentRank": 3,
-      "currentXP": 22,
+      "currentXP": 23,
       "nextRankXP": 80
     },
     "117": {
@@ -6684,7 +6684,7 @@
     }
   },
   "companionRapport": {
-    "6": 2423,
+    "6": 2573,
     "13": 817
   },
   "quests": [
@@ -12317,6 +12317,7 @@
       40,
       41,
       43,
+      45,
       46,
       50,
       52,
@@ -13179,11 +13180,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "seen": [
       5,
       3,
@@ -13204,7 +13205,7 @@
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-08",
-    "misplaced": 44
+    "date": "2026-10-09",
+    "misplaced": 62
   }
 }
