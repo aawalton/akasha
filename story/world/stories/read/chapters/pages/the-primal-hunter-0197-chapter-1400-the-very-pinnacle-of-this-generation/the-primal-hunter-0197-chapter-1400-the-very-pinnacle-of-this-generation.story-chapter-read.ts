@@ -20,5 +20,6 @@ export const thePrimalHunter0197Chapter1400TheVeryPinnacleOfThisGeneration = {
     },
   ],
   createdAt: "2026-10-09T16:05:58.007Z",
-  updatedAt: "2026-10-09T16:05:58.007Z",
+  updatedAt: "2026-10-09T19:08:15.985Z",
+  ownProgress: 2806,
 } as const satisfies StoryChapterRead
