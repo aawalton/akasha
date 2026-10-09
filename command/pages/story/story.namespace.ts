@@ -19,8 +19,9 @@ export const story = {
     "module/turn-scenes",
     "module/turn-changes",
     "module/tell-continuing",
+    "command/story-chapter-split",
   ],
   name: "story",
   createdAt: "2026-09-19T00:10:30.961Z",
-  updatedAt: "2026-10-06T11:34:46.000Z",
+  updatedAt: "2026-10-09T00:54:21.796Z",
 } as const satisfies Namespace

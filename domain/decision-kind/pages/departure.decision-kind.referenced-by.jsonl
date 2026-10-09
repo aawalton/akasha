@@ -2452,6 +2452,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/sms/acting-account/sms-acting-account.command.ts","id":"01a0685f-c8ed-7007-a130-cda36891535f"}
 {"propertySlug":"decision-kind","path":"command/pages/sms/send/sms-send.command.ts","id":"01a0685f-c8ed-7008-b892-0bc284782555"}
 {"propertySlug":"decision-kind","path":"command/pages/story/chapter-close/story-chapter-close.command.ts","id":"01a0d4e4-a424-7f86-8eaa-79660d7af676"}
+{"propertySlug":"decision-kind","path":"command/pages/story/chapter-split/story-chapter-split.command.ts","id":"01a11e27-6965-7ec9-8488-9f10a67dd3fe"}
 {"propertySlug":"decision-kind","path":"command/pages/story/chapter-write/story-chapter-write.command.ts","id":"01a0e96e-2932-74ae-9bb2-77118ec08e86"}
 {"propertySlug":"decision-kind","path":"command/pages/story/character-file/story-character-file.command.ts","id":"01a0b700-39f3-76fc-b703-ad293459d8ed"}
 {"propertySlug":"decision-kind","path":"command/pages/story/join-unread/story-join-unread.command.ts","id":"01a0eb0e-4c4f-7211-8fd9-ee922888c35a"}
