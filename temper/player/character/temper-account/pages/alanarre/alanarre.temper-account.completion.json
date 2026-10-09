@@ -31273,28 +31273,28 @@
       }
     },
     "4620": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
       }
     },
     "4621": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
       }
     },
     "4622": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
       }
     },
     "4623": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -31307,7 +31307,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 3,
             "numRequired": 10
           }
         }
@@ -31320,7 +31320,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 3,
             "numRequired": 30
           }
         }
@@ -36274,7 +36274,7 @@
       "name": "Crusader",
       "categoryName": "Dungeons",
       "subcategoryName": "Volenfell",
-      "slotsUnlocked": 18,
+      "slotsUnlocked": 20,
       "totalSlots": 22,
       "pieces": [
         {
@@ -36331,7 +36331,7 @@
         },
         {
           "name": "Battle Axe of the Crusader",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Maul of the Crusader",
@@ -36339,7 +36339,7 @@
         },
         {
           "name": "Greatsword of the Crusader",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Bow of the Crusader",
@@ -44999,7 +44999,7 @@
       "name": "Hunt Leader",
       "categoryName": "Arenas",
       "subcategoryName": "Maelstrom Arena",
-      "slotsUnlocked": 17,
+      "slotsUnlocked": 19,
       "totalSlots": 22,
       "pieces": [
         {
@@ -45056,7 +45056,7 @@
         },
         {
           "name": "Battle Axe of the Hunt",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Maul of the Hunt",
@@ -45072,7 +45072,7 @@
         },
         {
           "name": "Restoration Staff of the Hunt",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Inferno Staff of the Hunt",
@@ -80268,7 +80268,7 @@
       "name": "Gorethief",
       "categoryName": "PvP",
       "subcategoryName": "Cyrodiil",
-      "slotsUnlocked": 1,
+      "slotsUnlocked": 2,
       "totalSlots": 36,
       "pieces": [
         {
@@ -80357,7 +80357,7 @@
         },
         {
           "name": "Amulet of the Gorethief",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Ring of the Gorethief",
@@ -90692,7 +90692,7 @@
             "name": "Concealed Weapon",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -90728,7 +90728,7 @@
             "name": "Impale",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -90746,7 +90746,7 @@
             "name": "Soul Harvest",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -90764,7 +90764,7 @@
             "name": "Merciless Resolve",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -92072,7 +92072,7 @@
             "name": "Pragmatic Fatecarver",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -92090,7 +92090,7 @@
             "name": "Tentacular Dread",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -92108,7 +92108,7 @@
             "name": "Fulminating Rune",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -92126,7 +92126,7 @@
             "name": "Recuperative Treatise",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -92144,7 +92144,7 @@
             "name": "The Languid Eye",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
