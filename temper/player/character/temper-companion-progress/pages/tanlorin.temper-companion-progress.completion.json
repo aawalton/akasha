@@ -8,6 +8,7 @@
       "5": 215001,
       "6": 215215
     },
+    "companionId": 12,
     "weapons": {
       "1": {
         "displayText": "Bow, Quickened",
@@ -28,38 +29,7 @@
         "isEmpty": true
       }
     },
-    "jewelry": {
-      "1": {
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "2": {
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "3": {
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      }
-    },
-    "mainHandWeaponType": 8,
     "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
-    "companionId": 12,
     "armor": {
       "1": {
         "displayText": "Medium, Focused",
@@ -117,6 +87,36 @@
       },
       "7": {
         "displayText": "Medium, Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      }
+    },
+    "mainHandWeaponType": 8,
+    "jewelry": {
+      "1": {
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      },
+      "2": {
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      },
+      "3": {
+        "displayText": "Shattering",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,

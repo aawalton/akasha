@@ -8,6 +8,7 @@
       "5": 156340,
       "6": 157016
     },
+    "companionId": 1,
     "weapons": {
       "1": {
         "displayText": "Mace, Vigorous",
@@ -28,38 +29,7 @@
         "isEmpty": false
       }
     },
-    "jewelry": {
-      "1": {
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "2": {
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "3": {
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      }
-    },
-    "mainHandWeaponType": 2,
     "hash": "AjEIFzHMcxzHMcxzExMTBzGzCkyGMhFg",
-    "companionId": 1,
     "armor": {
       "1": {
         "displayText": "Heavy, Vigorous",
@@ -117,6 +87,36 @@
       },
       "7": {
         "displayText": "Heavy, Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      }
+    },
+    "mainHandWeaponType": 2,
+    "jewelry": {
+      "1": {
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      },
+      "2": {
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      },
+      "3": {
+        "displayText": "Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
