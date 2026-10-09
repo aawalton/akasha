@@ -24,7 +24,7 @@ const CYCLE_ACTION = "ASSIST_NEXT_TRACKED_QUEST"
 
 const ACTIVATED_DELAY_MS = 3000
 
-export interface KeyBindingReading {
+interface KeyBindingReading {
   readonly layer: string
   readonly category: string
   readonly action: string
@@ -36,7 +36,7 @@ export interface KeyBindingReading {
   readonly mod4: number
 }
 
-export interface LayerAction {
+interface LayerAction {
   readonly layer: string
   readonly action: string
 }
