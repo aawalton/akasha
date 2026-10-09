@@ -20,5 +20,6 @@ export const thePathOfAscension0191ThePathOfAscensionChapter525 = {
     },
   ],
   createdAt: "2026-10-09T19:08:15.985Z",
-  updatedAt: "2026-10-09T19:08:15.985Z",
+  updatedAt: "2026-10-09T22:06:30.622Z",
+  ownProgress: 7356,
 } as const satisfies StoryChapterRead

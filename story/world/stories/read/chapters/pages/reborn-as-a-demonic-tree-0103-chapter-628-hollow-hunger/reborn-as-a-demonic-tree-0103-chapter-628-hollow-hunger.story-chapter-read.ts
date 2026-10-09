@@ -20,5 +20,6 @@ export const rebornAsADemonicTree0103Chapter628HollowHunger = {
     },
   ],
   createdAt: "2026-10-09T20:07:57.976Z",
-  updatedAt: "2026-10-09T20:07:57.976Z",
+  updatedAt: "2026-10-09T22:06:30.622Z",
+  ownProgress: 2812,
 } as const satisfies StoryChapterRead

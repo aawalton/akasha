@@ -20,5 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0269Vol5Chapter241YourEffor
     },
   ],
   createdAt: "2026-10-09T13:05:49.578Z",
-  updatedAt: "2026-10-09T13:05:49.578Z",
+  updatedAt: "2026-10-09T22:06:30.622Z",
+  ownProgress: 2184,
 } as const satisfies StoryChapterRead

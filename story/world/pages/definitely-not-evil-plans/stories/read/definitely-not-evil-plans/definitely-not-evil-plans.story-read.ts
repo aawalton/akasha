@@ -5,7 +5,7 @@ export const definitelyNotEvilPlans = {
   type: "page-type/story-read",
   slug: "definitely-not-evil-plans",
   author: "DuncanSpice",
-  following: true,
+  following: false,
   unit: "unit/words",
   title: "Definitely Not Evil Plans",
   world: "world/definitely-not-evil-plans",
@@ -34,5 +34,5 @@ export const definitelyNotEvilPlans = {
   ],
   publicationStatus: "ongoing",
   createdAt: "2026-10-06T23:09:29.492Z",
-  updatedAt: "2026-10-06T23:09:30.000Z",
+  updatedAt: "2026-10-09T22:06:30.622Z",
 } as const satisfies StoryRead
