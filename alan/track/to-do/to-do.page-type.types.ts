@@ -2,6 +2,7 @@ import type { Difficulty } from "akasha/alan/track/to-do/properties/difficulty.s
 import type { DueTime } from "akasha/alan/track/to-do/properties/due-time.text-property.types.ts"
 import type { Link } from "akasha/alan/track/to-do/properties/link.url-property.types.ts"
 import type { OnComplete } from "akasha/alan/track/to-do/properties/on-complete.module-property-group.ts"
+import type { OnCompleteDoneAt } from "akasha/alan/track/to-do/properties/on-complete-done-at.instant-property.types.ts"
 import type { ToDoAnchoredFromCompletion } from "akasha/alan/track/to-do/properties/to-do-anchored-from-completion.boolean-property.types.ts"
 import type { ToDoCategory } from "akasha/alan/track/to-do/properties/to-do-category.select-property.types.ts"
 import type { ToDoCompletedAt } from "akasha/alan/track/to-do/properties/to-do-completed-at.instant-property.types.ts"
@@ -31,4 +32,5 @@ export type ToDo = Page & {
   toDoCompletedAt?: ToDoCompletedAt
   whatItTakes?: WhatItTakes
   onComplete?: OnComplete
+  onCompleteDoneAt?: OnCompleteDoneAt
 }

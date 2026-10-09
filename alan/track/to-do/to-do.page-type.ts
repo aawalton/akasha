@@ -12,7 +12,9 @@ export const toDo = {
     "file-property/what-it-takes",
     "instant-property/to-do-completed-at",
     "instant-property/to-do-last-completed-at",
+    "instant-property/on-complete-done-at",
     "module-property-group/on-complete",
+    "module/on-complete-running",
     "number-property/to-do-sort-order",
     "relation-property/to-do-value",
     "select-property/difficulty",
@@ -41,6 +43,12 @@ export const toDo = {
     { pageProperty: "instant-property/to-do-completed-at", required: false, many: false },
     { pageProperty: "file-property/what-it-takes", required: false, many: false },
     { pageProperty: "module-property-group/on-complete", required: false, many: false },
+    {
+      pageProperty: "instant-property/on-complete-done-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   decisions: [
     {
@@ -71,5 +79,5 @@ export const toDo = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:57:44.116Z",
-  updatedAt: "2026-10-09T12:13:06.068Z",
+  updatedAt: "2026-10-09T12:16:31.289Z",
 } as const satisfies PageType

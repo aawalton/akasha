@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/daily/day/properties/location-traces/properties/trace-captured-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/daily/day/properties/sessions/properties/asserted-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/food-entry/properties/happened-at.instant-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/to-do/properties/on-complete-done-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-completed-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-last-completed-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/set-performed-at.instant-property.ts","typed":true,"deferred":false}
