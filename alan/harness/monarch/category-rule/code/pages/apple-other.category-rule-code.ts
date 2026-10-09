@@ -7,8 +7,8 @@ export const appleOther = {
   title: "Apple other",
   matches: [
     { key: "merchant", comparison: "is", values: ["apple"] },
-    { key: "amount", comparison: "is-not", values: ["-106.36"] },
+    { key: "amount", comparison: "is-not", values: ["-106.36", "-21.49"] },
   ],
   createdAt: "2026-09-03T03:42:02.447Z",
-  updatedAt: "2026-09-15T16:07:35.000Z",
+  updatedAt: "2026-10-09T19:29:44.296Z",
 } as const satisfies CategoryRuleCode
