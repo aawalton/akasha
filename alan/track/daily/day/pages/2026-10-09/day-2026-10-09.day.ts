@@ -8,6 +8,7 @@ export const day20261009 = {
   date: "2026-10-09",
   version: "3.0",
   wisdomWords: 0,
+  intelligenceTopics: 0,
   createdAt: "2026-10-09T10:00:02.349Z",
-  updatedAt: "2026-10-09T10:00:02.349Z",
+  updatedAt: "2026-10-09T10:00:03.143Z",
 } as const satisfies Day
