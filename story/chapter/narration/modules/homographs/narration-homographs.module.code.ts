@@ -40,28 +40,7 @@ function bowsOf(before: string, after: string, sense: keyof typeof BOW_SAID): re
 }
 
 const READINGS: readonly Reading[] = [
-  { found: /\b(bowed)\b/giu, said: "bˈWd" },
-  { found: /\b(mended)\b/giu, said: "mˈɛndᵻd" },
-  { found: /\b(bailed)\b/giu, said: "bˈAld" },
-  { found: /\b(butted)\b/giu, said: "bˈʌɾᵻd" },
-  { found: /\b(curing)\b/giu, said: "kjˈʊɹɪŋ" },
-  { found: /\b(couched)\b/giu, said: "kˈWʧt" },
-  { found: /\b(daubed)\b/giu, said: "dˈɔbd" },
-  { found: /\b(cursed)\b/giu, said: "kˈɜɹst" },
   { found: /\b(legged)\s+(?=it\b)/giu, said: "lˈɛɡd" },
-  { found: /\b(resent)\b/giu, said: "ɹᵻzˈɛnt" },
-  { found: /\b(resented)\b/giu, said: "ɹᵻzˈɛntᵻd" },
-  { found: /\b(resents)\b/giu, said: "ɹᵻzˈɛnts" },
-  { found: /\b(breathed)\b/giu, said: "bɹˈiðd" },
-  { found: /\b(copied)\b/giu, said: "kˈɑpid" },
-  { found: /\b(bullied)\b/giu, said: "bˈʊlid" },
-  { found: /\b(chivvied)\b/giu, said: "ʧˈɪvid" },
-  { found: /\b(queried)\b/giu, said: "kwˈɪɹid" },
-  { found: /\b(muddied)\b/giu, said: "mˈʌdid" },
-  { found: /\b(whinnied)\b/giu, said: "wˈɪnid" },
-  { found: /\b(bellies)\b/giu, said: "bˈɛliz" },
-  { found: /\b(underbellies)\b/giu, said: "ˌʌndəɹbˈɛliz" },
-  { found: /\b(bullies)\b/giu, said: "bˈʊliz" },
   {
     found:
       /(?<!\b(?:a|the|this|that|white|grey|gray|my|his|her|its|their|like a)\s)\b(dove)\b(?!-)/gu,

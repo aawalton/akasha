@@ -11,24 +11,7 @@ export const narrationHomographs = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A past tense misaki builds on a wrong stem, as bowed on Bowe, is handed on as its own reading.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Cursed is one syllable in every sense, the adjective as well as the verb.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Resent is the feeling, said with a z, since misaki reads it as sent again.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Breathed is the past of breathe, since misaki's own entry reads it as breath.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A word in -ied or -ies that misaki ends with a short i, as copied, is handed on with a long ee.",
+        "A word said one way in every sentence is a pronunciation naming no world, not a rule here.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -67,5 +50,5 @@ export const narrationHomographs = {
     },
   ],
   createdAt: "2026-10-08T19:44:53.690Z",
-  updatedAt: "2026-10-09T01:51:33.276Z",
+  updatedAt: "2026-10-09T02:00:36.200Z",
 } as const satisfies Module

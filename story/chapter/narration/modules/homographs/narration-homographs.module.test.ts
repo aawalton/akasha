@@ -2,37 +2,9 @@ import { describe, expect, test } from "bun:test"
 import { homographsOf } from "akasha/story/chapter/narration/modules/homographs/narration-homographs.module.code.ts"
 
 describe("homographsOf", () => {
-  test("a past tense misaki builds on the wrong stem is handed on as its own reading", () => {
-    expect(homographsOf("He bowed. BOWED. Bowed low, she mended it.")).toBe(
-      "He [bowed](/bˈWd/). [BOWED](/bˈWd/). [Bowed](/bˈWd/) low, she [mended](/mˈɛndᵻd/) it."
-    )
-  })
-
-  test("cursed is one syllable in every sense and case, and legged it is one syllable", () => {
-    expect(
-      homographsOf(
-        "He cursed. A cursed sword. CURSED! It is Cursed. The accursed thing. He legged it."
-      )
-    ).toBe(
-      "He [cursed](/kˈɜɹst/). A [cursed](/kˈɜɹst/) sword. [CURSED](/kˈɜɹst/)! It is [Cursed](/kˈɜɹst/). The accursed thing. He [legged](/lˈɛɡd/) it."
-    )
-  })
-
-  test("resent is the feeling, said with a z, in every form", () => {
-    expect(homographsOf("She resented him. He resents it. I resent that. Resented!")).toBe(
-      "She [resented](/ɹᵻzˈɛntᵻd/) him. He [resents](/ɹᵻzˈɛnts/) it. I [resent](/ɹᵻzˈɛnt/) that. [Resented](/ɹᵻzˈɛntᵻd/)!"
-    )
-  })
-
-  test("breathed is the past of breathe rather than of breath", () => {
-    expect(homographsOf("She breathed in. Breathed!")).toBe(
-      "She [breathed](/bɹˈiðd/) in. [Breathed](/bɹˈiðd/)!"
-    )
-  })
-
-  test("a word in -ied or -ies that misaki cuts short keeps its long ee", () => {
-    expect(homographsOf("She copied him. Bullied! Their bellies.")).toBe(
-      "She [copied](/kˈɑpid/) him. [Bullied](/bˈʊlid/)! Their [bellies](/bˈɛliz/)."
+  test("legged it is one syllable, and legged otherwise is left", () => {
+    expect(homographsOf("He legged it. A four-legged beast.")).toBe(
+      "He [legged](/lˈɛɡd/) it. A four-legged beast."
     )
   })
 
@@ -109,8 +81,8 @@ describe("homographsOf", () => {
   })
 
   test("markup already handed on is left whole", () => {
-    expect(homographsOf("A [dove](/x/) and [Klbkch](/kˈɪlbkɪʧ/) bowed.")).toBe(
-      "A [dove](/x/) and [Klbkch](/kˈɪlbkɪʧ/) [bowed](/bˈWd/)."
+    expect(homographsOf("A [dove](/x/) and [Klbkch](/kˈɪlbkɪʧ/) took a bow.")).toBe(
+      "A [dove](/x/) and [Klbkch](/kˈɪlbkɪʧ/) took a [bow](/bˈW/)."
     )
   })
 })

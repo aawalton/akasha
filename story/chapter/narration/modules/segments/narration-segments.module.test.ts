@@ -203,15 +203,15 @@ describe("narrationSegmentsOf", () => {
       { written: "gnoll", phonemes: "nˈɑl" },
       { written: "gnoll", phonemes: "nˈOl" },
       { written: "drake", spokenAs: "draik" },
-      { written: "bowed", phonemes: "bˈOd" },
+      { written: "bow", phonemes: "bˈO" },
     ]
     const said = (prose: string): string[] =>
       narrationSegmentsOf(prose, pronounced).map((one) => one.text)
     expect(
-      said("Start.\nGnolls and a gnoll; GNOLL! Drake saw a drake. gNoLL stays, and he bowed.")
+      said("Start.\nGnolls and a gnoll; GNOLL! Drake saw a drake. gNoLL stays, and he took a bow.")
     ).toEqual([
       "Start.",
-      "[Gnolls](/nˈOlz/) and a [gnoll](/nˈOl/); [GNOLL](/nˈOl/)! Draik saw a draik. gNoLL stays, and he [bowed](/bˈWd/).",
+      "[Gnolls](/nˈOlz/) and a [gnoll](/nˈOl/); [GNOLL](/nˈOl/)! Draik saw a draik. gNoLL stays, and he took a [bow](/bˈW/).",
     ])
   })
 
