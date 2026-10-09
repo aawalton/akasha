@@ -6,7 +6,7 @@ export const lucifen = {
   slug: "lucifen",
   title: "Lucifen",
   world: "world/the-wandering-inn",
-  phonemes: "lˈusɪfˌɛn",
+  phonemes: "lˈusəfɛn",
   createdAt: "2026-10-09T01:36:01.123Z",
-  updatedAt: "2026-10-09T01:36:01.123Z",
+  updatedAt: "2026-10-09T01:36:27.708Z",
 } as const satisfies Pronunciation
