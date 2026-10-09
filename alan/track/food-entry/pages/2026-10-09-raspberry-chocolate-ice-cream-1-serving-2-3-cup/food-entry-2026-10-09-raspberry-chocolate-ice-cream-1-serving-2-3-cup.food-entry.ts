@@ -4,9 +4,10 @@ export const foodEntry20261009RaspberryChocolateIceCream1Serving23Cup = {
   id: "01a1222e-bd62-7000-9582-5176489f3691",
   type: "page-type/food-entry",
   slug: "food-entry-2026-10-09-raspberry-chocolate-ice-cream-1-serving-2-3-cup",
+  cover: "image/image-20ff1b3190f23792",
   title: "Raspberry chocolate ice cream (1 serving, 2/3 cup)",
   happenedAt: "2026-10-09T19:40:00.000Z",
   estimatedCalories: 360,
   createdAt: "2026-10-09T19:40:51.417Z",
-  updatedAt: "2026-10-09T19:40:51.417Z",
+  updatedAt: "2026-10-09T19:40:52.667Z",
 } as const satisfies FoodEntry
