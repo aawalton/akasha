@@ -19,6 +19,10 @@ export const narrationHomographs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Resent is the feeling, said with a z, since misaki reads it as sent again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A true adjective in -ed, as wicked, naked or alleged, keeps misaki's reading.",
     },
     {
@@ -54,5 +58,5 @@ export const narrationHomographs = {
     },
   ],
   createdAt: "2026-10-08T19:44:53.690Z",
-  updatedAt: "2026-10-08T23:43:06.671Z",
+  updatedAt: "2026-10-09T00:06:00.275Z",
 } as const satisfies Module

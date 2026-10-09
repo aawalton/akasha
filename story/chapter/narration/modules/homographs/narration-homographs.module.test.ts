@@ -18,6 +18,12 @@ describe("homographsOf", () => {
     )
   })
 
+  test("resent is the feeling, said with a z, in every form", () => {
+    expect(homographsOf("She resented him. He resents it. I resent that. Resented!")).toBe(
+      "She [resented](/ɹᵻzˈɛntᵻd/) him. He [resents](/ɹᵻzˈɛnts/) it. I [resent](/ɹᵻzˈɛnt/) that. [Resented](/ɹᵻzˈɛntᵻd/)!"
+    )
+  })
+
   test("dove after a name is the dive, and dove after an article is the bird", () => {
     expect(homographsOf("The Wyverns dove at the dove and a dove-tailed swallow.")).toBe(
       "The Wyverns [dove](/dˈOv/) at the dove and a dove-tailed swallow."
