@@ -62,7 +62,11 @@ const DECODER = new TextDecoder()
 
 type Kind = "blank" | "mark" | "text"
 
-type Paragraph = { readonly start: number; words: number; readonly afterBreak: boolean }
+type Paragraph = {
+  readonly start: number
+  readonly words: number
+  readonly afterBreak: boolean
+}
 
 type Refusal = { readonly refused: string }
 
@@ -80,18 +84,14 @@ function wordsIn(line: string): number {
 export function paragraphsIn(text: string): readonly Paragraph[] {
   const found: Paragraph[] = []
   let at = 0
-  let before: Kind = "blank"
   let broken = false
   for (const line of text.split(KEPT_LINE_ENDS)) {
     const kind = kindOf(line)
     if (kind === "mark") broken = true
-    if (kind === "text" && before !== "text") {
-      found.push({ start: found.length === 0 ? 0 : at, words: 0, afterBreak: broken })
+    if (kind === "text") {
+      found.push({ start: found.length === 0 ? 0 : at, words: wordsIn(line), afterBreak: broken })
       broken = false
     }
-    const last = found.at(-1)
-    if (kind === "text" && last !== undefined) last.words += wordsIn(line)
-    before = kind
     at += line.length
   }
   return found

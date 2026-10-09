@@ -76,6 +76,14 @@ test("a long scene is parted at its paragraphs, and no paragraph is parted", () 
   expect(beats === null ? "" : joinedFrom(beatsWritten(beats))).toBe(text)
 })
 
+test("each line holding words is a paragraph, with no blank line between them", () => {
+  const text = [wordsOf(300), wordsOf(300), "—-", wordsOf(10)].join("\n")
+  expect(paragraphsIn(text).map((one) => one.afterBreak)).toEqual([false, false, true])
+  const beats = beatsOf(text)
+  expect(beats?.beats.length).toBe(3)
+  expect(beats === null ? "" : joinedFrom(beatsWritten(beats))).toBe(text)
+})
+
 test("an event is its first sentence, shortened at a word past the ceiling", () => {
   expect(eventOf(`"Hello," she said. "Sit down."${GAP}`)).toBe('"Hello," she said.')
   const long = eventOf(`${wordsOf(60)}.`)
