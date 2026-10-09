@@ -5,7 +5,7 @@ export const LIVE_AT =
 
 export const ASK_SEAT = "ask_seat"
 
-export const HEARD_RATE = 16_000
+const HEARD_RATE = 16_000
 
 export const SAID_RATE = 24_000
 
@@ -13,7 +13,7 @@ const INT16_TOP = 0x7fff
 
 type Entry = { readonly kind: string; readonly text?: string }
 
-export function briefFor(brief: string, persona: string): string {
+function briefFor(brief: string, persona: string): string {
   return brief.replaceAll("{persona}", persona).replaceAll("{tool}", ASK_SEAT).trim()
 }
 
