@@ -8,10 +8,10 @@ export const skill = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.5.3303624",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-09T18:06:53.922Z",
+  capturedAt: "2026-10-09T18:28:24.821Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
-  updatedAt: "2026-10-09T18:07:05.585Z",
+  updatedAt: "2026-10-09T18:28:36.866Z",
   createdAt: "2026-09-02T01:39:30.993Z",
 } as const satisfies TemperCatalogDomain
