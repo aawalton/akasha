@@ -1,6 +1,7 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/sophia/sophia.seat.ts","id":"01a11c30-ae3c-7000-8769-c7a1968d0dcd"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/sophia-a218cbb80400b03bd/sophia-a218cbb80400b03bd.subagent.ts","id":"01a11e33-0094-71ad-a47b-c7c0168e4310"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/sophia-a9d1d9abdd33658ea/sophia-a9d1d9abdd33658ea.subagent.ts","id":"01a11e35-498b-7044-901f-73f974e1d117"}
+{"propertySlug":"assignment-slug","path":"agent/subagent/pages/sophia-ac9264bead9909dec/sophia-ac9264bead9909dec.subagent.ts","id":"01a11e35-6283-7e16-9744-51230bac2558"}
 {"propertySlug":"championed-domain","path":"persona/pages/sophia/sophia.persona.ts","id":"019f0ee0-5cea-7a5f-880d-9baf5476edac"}
 {"propertySlug":"import","fileName":"persona.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"persona.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts","typed":false,"deferred":false}
