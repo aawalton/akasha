@@ -52,6 +52,7 @@ const READINGS: readonly Reading[] = [
   { found: /\b(resent)\b/giu, said: "ɹᵻzˈɛnt" },
   { found: /\b(resented)\b/giu, said: "ɹᵻzˈɛntᵻd" },
   { found: /\b(resents)\b/giu, said: "ɹᵻzˈɛnts" },
+  { found: /\b(breathed)\b/giu, said: "bɹˈiðd" },
   { found: /\b(copied)\b/giu, said: "kˈɑpid" },
   { found: /\b(bullied)\b/giu, said: "bˈʊlid" },
   { found: /\b(chivvied)\b/giu, said: "ʧˈɪvid" },

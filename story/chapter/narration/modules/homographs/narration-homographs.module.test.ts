@@ -24,6 +24,12 @@ describe("homographsOf", () => {
     )
   })
 
+  test("breathed is the past of breathe rather than of breath", () => {
+    expect(homographsOf("She breathed in. Breathed!")).toBe(
+      "She [breathed](/bɹˈiðd/) in. [Breathed](/bɹˈiðd/)!"
+    )
+  })
+
   test("a word in -ied or -ies that misaki cuts short keeps its long ee", () => {
     expect(homographsOf("She copied him. Bullied! Their bellies.")).toBe(
       "She [copied](/kˈɑpid/) him. [Bullied](/bˈʊlid/)! Their [bellies](/bˈɛliz/)."

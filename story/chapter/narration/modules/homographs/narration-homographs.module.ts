@@ -23,6 +23,10 @@ export const narrationHomographs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Breathed is the past of breathe, since misaki's own entry reads it as breath.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A word in -ied or -ies that misaki ends with a short i, as copied, is handed on with a long ee.",
     },
@@ -63,5 +67,5 @@ export const narrationHomographs = {
     },
   ],
   createdAt: "2026-10-08T19:44:53.690Z",
-  updatedAt: "2026-10-09T01:15:00.199Z",
+  updatedAt: "2026-10-09T01:51:33.276Z",
 } as const satisfies Module
