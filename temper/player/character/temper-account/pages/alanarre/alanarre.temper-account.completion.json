@@ -25401,7 +25401,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 21,
+            "numCompleted": 37,
             "numRequired": 150
           }
         }
@@ -25414,7 +25414,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 3,
+            "numCompleted": 8,
             "numRequired": 60
           }
         }
@@ -25428,7 +25428,7 @@
       }
     },
     "3852": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 3
@@ -25504,13 +25504,13 @@
       }
     },
     "3862": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 5,
             "numRequired": 5
           }
         }
@@ -73619,7 +73619,7 @@
       "name": "Blind Path Induction",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Bedlam Veil",
-      "slotsUnlocked": 4,
+      "slotsUnlocked": 6,
       "totalSlots": 22,
       "pieces": [
         {
@@ -73648,7 +73648,7 @@
         },
         {
           "name": "Blind Path Induction Shoes",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Blind Path Induction Amulet",
@@ -73708,7 +73708,7 @@
         },
         {
           "name": "Blind Path Induction Shield",
-          "unlocked": false
+          "unlocked": true
         }
       ]
     },
@@ -73716,12 +73716,12 @@
       "name": "Tarnished Nightmare",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Bedlam Veil",
-      "slotsUnlocked": 7,
+      "slotsUnlocked": 8,
       "totalSlots": 22,
       "pieces": [
         {
           "name": "Tarnished Nightmare Helmet",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Tarnished Nightmare Arm Cops",
@@ -73813,7 +73813,7 @@
       "name": "Reflected Fury",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Bedlam Veil",
-      "slotsUnlocked": 7,
+      "slotsUnlocked": 8,
       "totalSlots": 22,
       "pieces": [
         {
@@ -73854,7 +73854,7 @@
         },
         {
           "name": "Reflected Fury Dagger",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Reflected Fury Axe",
@@ -73910,12 +73910,12 @@
       "name": "The Blind",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Bedlam Veil",
-      "slotsUnlocked": 3,
+      "slotsUnlocked": 4,
       "totalSlots": 6,
       "pieces": [
         {
           "name": "The Blind Guise",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "The Blind Mask",
@@ -89197,6 +89197,7 @@
     12052,
     12053,
     12055,
+    12056,
     12057,
     12058,
     12060,
@@ -89413,6 +89414,7 @@
     12408,
     12409,
     12411,
+    12412,
     12414,
     12416,
     12417,
