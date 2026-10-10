@@ -8,7 +8,7 @@ export const mirri = {
   completion: "json",
   companionId: "temper-eso-companion/mirri",
   accountPage: "temper-account/alanarre",
-  liveBuildId: "01a0d927-88c1-7193-bfbd-e06120a07a0e",
+  liveBuildId: "01a12637-59b9-74ff-884a-aa7c3f34299f",
   createdAt: "2026-04-29T16:44:41.812Z",
-  updatedAt: "2026-09-25T15:20:44.000Z",
+  updatedAt: "2026-10-10T14:28:44.818Z",
 } as const satisfies TemperCompanionProgress
