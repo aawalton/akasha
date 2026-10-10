@@ -29,6 +29,7 @@
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-f934e737da42ec8b.image.ts","id":"01a0c5f3-f000-7a42-8ed0-078eab55d84f"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-fda9c4015082a744.image.ts","id":"01a0c5f4-03a4-74fd-9b58-6b4050dfc6b7"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/rhia-twi-analysis-book.initiative.ts","id":"01a126b1-eaf4-711f-a33b-137d06b7e97d"}
+{"propertySlug":"initiative-persona","path":"domain/initiative/pages/rhia-twi-density.initiative.ts","id":"01a126c0-5447-7cf7-b0b9-7ea244d1dc16"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/rhia-twi-length.initiative.ts","id":"01a126c0-3638-7d53-819e-86535c853faa"}
 {"propertySlug":"lore-about","path":"story/world/pages/personas/lore/the-dating-game-rhia.lore.ts","id":"01a0de59-9645-7b9c-8f83-bc73c9eec39c"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
