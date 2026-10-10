@@ -11,6 +11,10 @@ export const rhiaTwiAnalysisBook = {
       statement:
         "A book for agents says why and how The Wandering Inn reaches a tier above other fiction.",
     },
+    {
+      statement:
+        "Alan is convinced the book is right, through conclusions Rhia presents him in small pieces.",
+    },
   ],
   constraints: [
     "The book prepares agents to write fiction at that tier, starting with fan fiction of The Wandering Inn.",
@@ -28,5 +32,5 @@ export const rhiaTwiAnalysisBook = {
     "Alan finds nearly every chapter and arc of The Wandering Inn S tier, rather than a few peaks.",
   ],
   createdAt: "2026-10-10T16:42:36.659Z",
-  updatedAt: "2026-10-10T17:06:55.774Z",
+  updatedAt: "2026-10-10T17:08:03.623Z",
 } as const satisfies Initiative
