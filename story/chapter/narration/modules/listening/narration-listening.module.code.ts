@@ -251,6 +251,24 @@ export function markRead(held: ChapterHeld | undefined, report: Report): undefin
   })
 }
 
+type ReadThrough = {
+  readonly chapters: ReadonlyMap<string, ChapterHeld>
+  readonly read: Set<string>
+  readonly progress: Map<string, number>
+}
+
+export function readThrough(
+  playing: ReadThrough,
+  ids: readonly string[],
+  report: Report
+): undefined {
+  for (const id of ids) {
+    playing.read.add(id)
+    playing.progress.set(id, Number.POSITIVE_INFINITY)
+    markRead(playing.chapters.get(id), report)
+  }
+}
+
 export function progressWritten(held: ChapterHeld | undefined, ownProgress: number): undefined {
   if (held === undefined) return
   void patchPage({

@@ -12,11 +12,11 @@ import {
   firstPieceIn,
   heldOf,
   JSON_SENT,
-  markRead,
   nowPlayingControlled,
   nowPlayingOf,
   playsHlsItself,
   progressWritten,
+  readThrough,
   silenceWav,
   streamedInto,
   useLockScreen,
@@ -297,11 +297,7 @@ export function NarrationProvider({
       read: playing.read,
       ended: playing.ended,
     })
-    for (const id of acts.read) {
-      playing.read.add(id)
-      playing.progress.set(id, Number.POSITIVE_INFINITY)
-      markRead(playing.chapters.get(id), report)
-    }
+    readThrough(playing, acts.read, report)
     save(false)
     const after = acts.askNextAfter === null ? undefined : playing.chapters.get(acts.askNextAfter)
     if (after !== undefined) {
@@ -349,7 +345,7 @@ export function NarrationProvider({
         read: playing.read,
         ended: true,
       })
-      for (const id of acts.read) markRead(playing.chapters.get(id), report)
+      readThrough(playing, acts.read, report)
     }
     close()
   }, [close, report])

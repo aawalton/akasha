@@ -3,6 +3,7 @@ import {
   chapterHref,
   commandTaken,
   readMarked,
+  readThrough,
   SPEEDS,
   speedAfter,
   speedHeld,
@@ -123,6 +124,18 @@ describe("marking read", () => {
     )
     expect(landed).toBe(false)
     expect(sent.length).toBe(5)
+  })
+
+  test("a chapter played through is held read, so no later save writes its progress", () => {
+    const done = { ...held, completedAt: "2026-10-10T13:59:04.065Z" }
+    const playing = {
+      chapters: new Map([[done.id, done]]),
+      read: new Set<string>(),
+      progress: new Map([[done.id, 25000]]),
+    }
+    readThrough(playing, [done.id], () => undefined)
+    expect([...playing.read]).toEqual([done.id])
+    expect(playing.progress.get(done.id)).toBe(Number.POSITIVE_INFINITY)
   })
 })
 
