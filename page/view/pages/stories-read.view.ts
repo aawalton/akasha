@@ -9,7 +9,9 @@ export const storiesRead = {
   pageType: "page-type/story-read",
   viewPlace: 2,
   layout: "cards",
+  narrows: [],
   viewSorts: [{ key: "title", descending: false }],
+  groupSorts: [],
   visibleProperties: ["total-remaining-in-words"],
   alwaysShowProperties: ["total-remaining-in-words"],
   hiddenPropertiesOrder: [
@@ -62,6 +64,9 @@ export const storiesRead = {
     "updated-at",
     "world",
   ],
+  pageSize: 12,
+  itemPageSize: 12,
+  groupPageSize: 6,
   createdAt: "2026-09-27T20:52:27.648Z",
-  updatedAt: "2026-10-10T12:48:01.203Z",
+  updatedAt: "2026-10-10T12:48:05.923Z",
 } as const satisfies View
