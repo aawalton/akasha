@@ -17,7 +17,9 @@ export const rhiaTwiAnalysisBook = {
     "The initiative builds understanding and writes no fiction.",
     "The Lord of the Rings and the Cosmere are the other works Alan places at that tier.",
     "At most 20 agents run at once.",
+    "Alan's aspects are starting hypotheses the book tests against the text.",
+    "Alan approves any aspect removed, changed in a major way, or added.",
   ],
   createdAt: "2026-10-10T16:42:36.659Z",
-  updatedAt: "2026-10-10T16:47:42.983Z",
+  updatedAt: "2026-10-10T16:59:35.051Z",
 } as const satisfies Initiative
