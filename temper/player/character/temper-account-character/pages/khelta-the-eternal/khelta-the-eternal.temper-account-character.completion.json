@@ -5,6 +5,7 @@
   "classId": 5,
   "allianceId": 1,
   "raceId": 10,
+  "curseState": "vampire",
   "className": "Necromancer",
   "classIcon": "/esoui/art/icons/class/class_necromancer.dds",
   "achievements": {
@@ -11773,7 +11774,8 @@
       68,
       69,
       70,
-      71
+      71,
+      74
     ],
     "19": [
       1,
@@ -13185,26 +13187,9 @@
   },
   "dailyWritStates": {
     "date": "2026-10-10",
-    "seen": [
-      5,
-      3,
-      4,
-      2,
-      1,
-      6,
-      7
-    ],
-    "completed": [
-      1,
-      6,
-      2,
-      7,
-      3,
-      4,
-      5
-    ]
+    "seen": [],
+    "completed": []
   },
-  "bankVisitDate": "2026-10-10",
   "inventoryCheck": {
     "date": "2026-10-10",
     "misplaced": 0
