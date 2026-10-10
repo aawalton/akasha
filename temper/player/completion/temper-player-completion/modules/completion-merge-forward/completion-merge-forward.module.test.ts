@@ -188,6 +188,14 @@ describe("merging a character forward where a state follows the latest reading",
     expect(merged?.curseState).toBeUndefined()
   })
 
+  test("a bank visit date is dropped", () => {
+    const merged = mergeCharacterCompletionForward(
+      { level: 50, bankVisitDate: "2026-10-09" },
+      { bankVisitDate: "2026-10-10" }
+    )
+    expect(merged).toEqual({ level: 50 })
+  })
+
   test("the day's writ states are taken whole because they reset each day", () => {
     const existing: CharacterCompletion = {
       level: 50,

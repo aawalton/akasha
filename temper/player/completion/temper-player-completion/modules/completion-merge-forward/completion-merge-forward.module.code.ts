@@ -111,9 +111,10 @@ const CHARACTER_LWW_KEYS: ReadonlySet<string> = new Set([
   "classIcon",
   "dailyWrits",
   "dailyWritStates",
-  "bankVisitDate",
   "inventoryCheck",
 ])
+
+const RETIRED_CHARACTER_KEY = "bankVisitDate"
 
 const CHARACTER_STATE_KEYS: ReadonlySet<string> = new Set(["curseState"])
 
@@ -130,13 +131,17 @@ export function mergeCharacterCompletionForward(
   existing: CharacterCompletion | undefined,
   incoming: CharacterCompletion | undefined
 ): CharacterCompletion | undefined {
-  return mergeTypedCompletion(
+  const merged = mergeTypedCompletion(
     characterCompletionSchema,
     existing,
     incoming,
     CHARACTER_LWW_KEYS,
     CHARACTER_STATE_KEYS
   )
+  if (merged?.[RETIRED_CHARACTER_KEY] === undefined) return merged
+  const kept: Record<string, unknown> = { ...merged }
+  delete kept[RETIRED_CHARACTER_KEY]
+  return characterCompletionSchema.parse(kept)
 }
 
 export function mergeAccountCompletionForward(

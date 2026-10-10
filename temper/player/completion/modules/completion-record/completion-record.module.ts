@@ -25,7 +25,11 @@ export const completionRecord = {
       decisionKind: "decision-kind/departure",
       statement: "A body carrying a key the schema does not declare is refused.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A character's bank visit date is still read, so an old record is not refused.",
+    },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-09-25T16:56:16.000Z",
+  updatedAt: "2026-10-10T14:40:09.857Z",
 } as const satisfies Module

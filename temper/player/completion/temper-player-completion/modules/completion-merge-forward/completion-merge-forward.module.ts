@@ -65,9 +65,13 @@ export const completionMergeForward = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The day's bank visit and inventory check take the fresh reading whole.",
+      statement: "The day's inventory check takes the fresh reading whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bank visit date either reading holds is dropped from the merged reading.",
     },
   ],
   createdAt: "2026-09-02T07:32:01.650Z",
-  updatedAt: "2026-09-26T17:57:37.000Z",
+  updatedAt: "2026-10-10T14:40:09.857Z",
 } as const satisfies Module

@@ -51,7 +51,6 @@ const characterCompletionInputSchema = z.looseObject({
   pointsOfInterest: looseRecord,
   mountTraining: looseRecord,
   dailyWrits: looseRecord,
-  bankVisitDate: tolerant(z.string()),
   inventoryCheck: looseRecord,
 })
 
