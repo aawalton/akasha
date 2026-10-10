@@ -15,8 +15,8 @@ export const storiesRead = {
   ],
   viewSorts: [{ key: "total-remaining-in-words", descending: true }],
   groupSorts: [],
-  visibleProperties: ["total-remaining-in-words"],
-  alwaysShowProperties: ["total-remaining-in-words"],
+  visibleProperties: ["total-remaining-in-words", "following"],
+  alwaysShowProperties: ["total-remaining-in-words", "following"],
   hiddenPropertiesOrder: [
     "author",
     "chapter-break",
@@ -30,7 +30,6 @@ export const storiesRead = {
     "entries",
     "external-identity",
     "external-tags",
-    "following",
     "grade",
     "own-length",
     "own-length-in-words",
@@ -71,5 +70,5 @@ export const storiesRead = {
   itemPageSize: 12,
   groupPageSize: 6,
   createdAt: "2026-09-27T20:52:27.648Z",
-  updatedAt: "2026-10-10T13:20:21.053Z",
+  updatedAt: "2026-10-10T13:20:49.104Z",
 } as const satisfies View
