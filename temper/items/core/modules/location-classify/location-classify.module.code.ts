@@ -18,7 +18,7 @@ export function isLocationTypeId(value: string): value is LocationTypeId {
   return LOCATION_TYPE_SET.has(value)
 }
 
-function isAllDigits(s: string): boolean {
+export function isAllDigits(s: string): boolean {
   if (s.length === 0) return false
   for (let i = 0; i < s.length; i++) {
     const code = s.charCodeAt(i)

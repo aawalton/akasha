@@ -105,6 +105,7 @@ export const temperItemsRulesCore = {
     "module/item-ids-filter",
     "module/stock-item-priority",
     "page-type/temper-deconstruct-mode",
+    "module/house-storage-chest",
   ],
   decisions: [
     {
@@ -117,5 +118,5 @@ export const temperItemsRulesCore = {
     },
   ],
   createdAt: "2026-09-02T06:40:46.797Z",
-  updatedAt: "2026-10-08T14:32:58.000Z",
+  updatedAt: "2026-10-10T14:20:17.884Z",
 } as const satisfies Domain

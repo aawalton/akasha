@@ -6032,6 +6032,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.ts","id":"01a06100-3beb-7c1f-82cd-d52265a07bd5"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/equipment-config/equipment-config.module.ts","id":"01a06100-3beb-75f4-a59d-ba8d15b49b38"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.ts","id":"01a06276-e3e7-73dc-b7c5-e02a70f1c789"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.ts","id":"01a1262f-a05c-7dbf-9af9-036cd595d728"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-destination-parse/inventory-destination-parse.module.ts","id":"01a06100-3bec-7b79-9779-2c42248a315d"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-action-labels/inventory-rule-action-labels.module.ts","id":"01a06100-3bec-73b4-afa8-f71d8f0a648e"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-classify/inventory-rule-classify.module.ts","id":"01a06100-3bec-7153-ba2d-05f05d4385d3"}
