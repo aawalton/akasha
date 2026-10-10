@@ -18,6 +18,11 @@ declare const ZO_FocusedQuestTrackerPanelContainerQuestContainerTrackedHeader1: 
 
 declare const FOCUSED_QUEST_TRACKER: Record<string, unknown> & {
   AssistNext: (this: unknown, ignoreSceneRestriction?: boolean) => undefined
+  RegisterCallback: (
+    this: unknown,
+    eventName: "QuestTrackerAssistStateChanged",
+    callback: (this: void) => undefined
+  ) => undefined
 }
 
 interface HudTrackerManager {
