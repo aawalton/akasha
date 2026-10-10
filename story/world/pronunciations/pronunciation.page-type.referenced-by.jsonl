@@ -5,10 +5,12 @@
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/czautha.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/daly.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/doombearer.pronunciation.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/doorgnoll.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/durene.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/el.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/eloise.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/embria.pronunciation.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/gentlegnoll.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/hiveland.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/hscel.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/infinitypear.pronunciation.ts","typed":true,"deferred":false}
@@ -45,6 +47,7 @@
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/shorthilt.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/sootling.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/sserys.pronunciation.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/stargnoll.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/thker.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/tkrn.pronunciation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pronunciation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/pronunciations/xherw.pronunciation.ts","typed":true,"deferred":false}
