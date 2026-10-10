@@ -182,6 +182,7 @@ export const temperAddonItems = {
     "module/inventory-skill-morphs-progress",
     "module/inventory-slot-key",
     "module/inventory-stock-deposit-decision",
+    "module/inventory-stock-group",
     "module/inventory-tally",
     "module/inventory-temper-characters-data",
     "module/inventory-temper-lock-core",
@@ -366,5 +367,5 @@ export const temperAddonItems = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.863Z",
-  updatedAt: "2026-10-10T14:08:31.826Z",
+  updatedAt: "2026-10-10T14:23:52.216Z",
 } as const satisfies TemperAddon

@@ -4597,6 +4597,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.ts","id":"01a0e368-1a45-73b9-9f3d-974730c1f2ed"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-set-categories/inventory-set-categories.module.ts","id":"01a0e090-8908-77c8-8fbc-359bfba964f7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.ts","id":"01a06258-b534-7658-a6f9-6918c06107d4"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-stock-group/inventory-stock-group.module.ts","id":"01a12632-e598-795f-a94d-5ac9fbef31a2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.ts","id":"01a06258-b534-70ec-b172-fd006cbff261"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-trailing-call/inventory-trailing-call.module.ts","id":"01a12624-da53-7119-a53e-638c665187c6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.ts","id":"01a0e0f3-80e9-72bb-b96d-6fc54b4b7e52"}

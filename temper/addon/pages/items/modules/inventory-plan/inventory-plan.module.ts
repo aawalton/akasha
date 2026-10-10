@@ -14,6 +14,10 @@ export const inventoryPlan = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A stock is held against its target in the group `inventory-stock-group` names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each pending action counts toward the venue `inventory-plan-venue` names.",
     },
     {
@@ -31,5 +35,5 @@ export const inventoryPlan = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.854Z",
-  updatedAt: "2026-10-10T14:22:33.834Z",
+  updatedAt: "2026-10-10T14:23:52.216Z",
 } as const satisfies Module

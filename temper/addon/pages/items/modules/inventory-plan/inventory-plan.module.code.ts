@@ -10,11 +10,14 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import type { AddonItemAction } from "akasha/temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
 import { isSavedVariablesReady } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import { stockGroupKey } from "akasha/temper/addon/pages/items/modules/inventory-stock-group/inventory-stock-group.module.code.ts"
 import { addToTally } from "akasha/temper/addon/pages/items/modules/inventory-tally/inventory-tally.module.code.ts"
 import { venueTitleOf } from "akasha/temper/addon/pages/items/modules/inventory-venue-titles/inventory-venue-titles.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -76,14 +79,19 @@ interface VenuePlan {
   slots: PlannedSlot[]
 }
 
+function backpackStockGroup(slot: number): number {
+  const itemId = GetItemLinkItemId(GetItemLink(BAG_BACKPACK, slot, LINK_STYLE_BRACKETS))
+  return stockGroupKey(getPendingRuleIndex(BAG_BACKPACK, slot), itemId)
+}
+
 function backpackStockTotals(bagSize: number): LuaMap<number, number> {
   const totals = new LuaMap<number, number>()
   for (let slot = 0; slot < bagSize; slot++) {
     if (getPendingAction(BAG_BACKPACK, slot) !== "stock") continue
-    const ruleIndex = getPendingRuleIndex(BAG_BACKPACK, slot)
-    if (ruleIndex === undefined) continue
+    if (IsItemStolen(BAG_BACKPACK, slot)) continue
     const [stackCount] = GetSlotStackSize(BAG_BACKPACK, slot)
-    totals.set(ruleIndex, (totals.get(ruleIndex) ?? 0) + stackCount)
+    const key = backpackStockGroup(slot)
+    totals.set(key, (totals.get(key) ?? 0) + stackCount)
   }
   return totals
 }
@@ -94,10 +102,9 @@ function isStockWithinTarget(
   totals: LuaMap<number, number>
 ): boolean {
   if (bagId !== BAG_BACKPACK) return false
-  const ruleIndex = getPendingRuleIndex(bagId, slotIndex)
   const target = getPendingTargetQuantity(bagId, slotIndex)
-  if (ruleIndex === undefined || target === undefined) return false
-  return (totals.get(ruleIndex) ?? 0) <= target
+  if (target === undefined) return false
+  return (totals.get(backpackStockGroup(slotIndex)) ?? 0) <= target
 }
 
 function computePlanVenues(): VenuePlan[] | undefined {
