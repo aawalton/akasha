@@ -168,6 +168,7 @@ export const temperAddonCharacters = {
     "module/pithka-trays",
     "module/pithka-entry",
     "module/characters-inventory-upkeep",
+    "module/characters-inventory-hint-items",
   ],
   interfaces: [
     "eso-interface/skill-point-finder-layout",
@@ -215,5 +216,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-10-08T17:14:08.972Z",
+  updatedAt: "2026-10-10T14:25:57.281Z",
 } as const satisfies TemperAddon

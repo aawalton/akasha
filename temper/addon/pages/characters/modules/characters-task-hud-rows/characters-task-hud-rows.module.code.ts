@@ -114,6 +114,8 @@ export interface SubRowSpec {
   readonly text: string
   readonly color: SubRowColor
   readonly indent?: number
+  readonly rgb?: readonly [number, number, number]
+  readonly onClick?: (this: void) => undefined
 }
 
 const PRE_COMPLETION_RGB: Record<SubRowColor, readonly [number, number, number]> = {
@@ -137,7 +139,7 @@ export function createSubRow(spec: SubRowSpec, yOffset: number, completed: boole
 
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
-  const rgb = completed ? GREEN : PRE_COMPLETION_RGB[spec.color]
+  const rgb = completed ? GREEN : (spec.rgb ?? PRE_COMPLETION_RGB[spec.color])
   colorText(styleTextOverPlay(label, "strong"), rgb)
   label.SetText(indentText(spec.indent ?? 1) + spec.text)
   pushLabel(label)

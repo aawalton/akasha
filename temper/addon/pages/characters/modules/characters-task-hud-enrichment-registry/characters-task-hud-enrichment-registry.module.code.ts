@@ -1,3 +1,4 @@
+import { inventoryHintSpecs } from "akasha/temper/addon/pages/characters/modules/characters-inventory-hint-items/characters-inventory-hint-items.module.code.ts"
 import { getInventoryUpkeepHint } from "akasha/temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.code.ts"
 import { formatProgressCount } from "akasha/temper/addon/pages/characters/modules/characters-progress-format/characters-progress-format.module.code.ts"
 import {
@@ -260,7 +261,7 @@ export const ENRICHMENT_SELECTORS: readonly EnrichmentSelector[] = [
   {
     key: "inventoryManagement",
     matches: (task): boolean => taskHasCard(task, "inventory-management"),
-    select: (): readonly SubRowSpec[] => flatSpecs(getInventoryUpkeepHint()),
+    select: (): readonly SubRowSpec[] => inventoryHintSpecs(getInventoryUpkeepHint()),
   },
   {
     key: "dungeonSets",

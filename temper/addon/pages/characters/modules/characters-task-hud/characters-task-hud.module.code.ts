@@ -284,7 +284,16 @@ function appendTaskSubRows(task: TaskData, completed: boolean, yOffset: number):
   for (const selector of ENRICHMENT_SELECTORS) {
     if (!selector.matches(task)) continue
     for (const spec of selector.select(task)) {
-      pushRow(createSubRow(spec, yOffset, completed))
+      const subRow = createSubRow(spec, yOffset, completed)
+      const onClick = spec.onClick
+      if (onClick !== undefined) {
+        subRow.SetMouseEnabled(true)
+        subRow.SetHandler("OnMouseUp", function (this: void): undefined {
+          onClick()
+          refreshTaskHud()
+        })
+      }
+      pushRow(subRow)
       yOffset += PLEDGE_SUB_ROW_HEIGHT + ROW_PADDING
     }
   }
