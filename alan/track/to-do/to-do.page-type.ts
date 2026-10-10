@@ -6,6 +6,7 @@ export const toDo = {
   slug: "to-do",
   definition: "something a person intends to do",
   extends: ["page-type/page"],
+  loadedExport: ["onComplete"],
   parts: [
     "boolean-property/to-do-anchored-from-completion",
     "calendar-date-property/to-do-due-date",
@@ -80,5 +81,5 @@ export const toDo = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:57:44.116Z",
-  updatedAt: "2026-10-09T12:19:11.076Z",
+  updatedAt: "2026-10-10T12:32:30.818Z",
 } as const satisfies PageType
