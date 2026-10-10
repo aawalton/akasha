@@ -1,3 +1,4 @@
 {"id":"01a12387-e2f6-72f2-9440-26c6df6370d5","title":"Sleep","startedAt":"2026-10-10T02:00:00.000Z","dailyTracking":"01a12541-5d73-7000-872c-45fde5a95a72","endedAt":"2026-10-10T10:30:00.000Z","safetyLevel":"2","difficultyLevel":"0"}
 {"id":"01a1255b-911d-773c-b768-9c00d0c24a5a","title":"Hygiene","startedAt":"2026-10-10T10:30:00.000Z","dailyTracking":"01a12541-5d73-7000-872c-45fde5a95a72","endedAt":"2026-10-10T10:50:00.000Z","safetyLevel":"2","difficultyLevel":"1"}
-{"id":"01a1256d-0798-7cf1-a696-6ded49a1c4ad","title":"Walk + Read","startedAt":"2026-10-10T10:50:00.000Z","dailyTracking":"01a12541-5d73-7000-872c-45fde5a95a72","safetyLevel":"3","difficultyLevel":"1"}
+{"id":"01a1256d-0798-7cf1-a696-6ded49a1c4ad","title":"Walk + Read","startedAt":"2026-10-10T10:50:00.000Z","dailyTracking":"01a12541-5d73-7000-872c-45fde5a95a72","safetyLevel":"3","difficultyLevel":"1","endedAt":"2026-10-10T12:44:00.000Z"}
+{"id":"01a125d7-fd79-7efe-a9d4-521282dfba60","title":"ESO + Read + Breathing","startedAt":"2026-10-10T12:44:00.000Z","dailyTracking":"01a12541-5d73-7000-872c-45fde5a95a72","safetyLevel":"3","difficultyLevel":"1"}
