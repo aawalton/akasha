@@ -14,6 +14,10 @@ export const inventoryPlan = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each pending action counts toward the venue `inventory-plan-venue` names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Each venue's line is spelled here, so every reader of the plan shows the same line.",
     },
@@ -23,5 +27,5 @@ export const inventoryPlan = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.854Z",
-  updatedAt: "2026-09-26T18:07:26.000Z",
+  updatedAt: "2026-10-10T14:06:10.424Z",
 } as const satisfies Module

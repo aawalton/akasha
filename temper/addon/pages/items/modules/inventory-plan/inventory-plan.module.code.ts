@@ -1,5 +1,6 @@
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import { getChestDisplayName } from "akasha/temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.code.ts"
+import { classifyPendingVenue } from "akasha/temper/addon/pages/items/modules/inventory-plan-venue/inventory-plan-venue.module.code.ts"
 import {
   forEachPendingAction,
   getCompiledConfig,
@@ -43,29 +44,6 @@ const VENUE_ORDER: StaticVenueKey[] = [
   "mailbox",
 ]
 
-function destinationToVenue(destination: string): string | undefined {
-  if (
-    destination === "bank" ||
-    destination === "craft-bag" ||
-    destination.startsWith("character:")
-  ) {
-    return "bank"
-  }
-  if (destination === "furniture-vault") {
-    return "furniture-vault"
-  }
-  if (destination === "house-storage") {
-    return "house-storage"
-  }
-  if (destination.startsWith("house-storage:")) {
-    return destination
-  }
-  if (destination === "guild-bank" || destination.startsWith("guild-bank:")) {
-    return "guild-bank"
-  }
-  return undefined
-}
-
 function isStaticVenueKey(value: string): value is StaticVenueKey {
   return VENUE_ORDER.some((one) => one === value)
 }
@@ -85,46 +63,9 @@ export function resolveVenueLabel(venueKey: string): string {
   return venueKey
 }
 
-function moveVerb(destination: string): string {
-  if (destination.startsWith("character:")) return "withdraw"
-  return "deposit"
-}
-
 interface VenuePlan {
   venue: string
   verbs: Array<{ verb: string; count: number }>
-}
-
-function classifyPendingVenue(
-  action: AddonItemAction,
-  destination: string | undefined,
-  isStolen: boolean
-): { venue: string; verb: string } | undefined {
-  if (action === "sell") return { venue: "vendor", verb: "sell" }
-  if (action === "destroy") {
-    return isStolen ? { venue: "fence", verb: "destroy" } : { venue: "vendor", verb: "destroy" }
-  }
-  if (action === "fence-sell") return { venue: "fence", verb: "sell" }
-  if (action === "fence-launder") return { venue: "fence", verb: "launder" }
-  if (action === "list") return { venue: "guild-store", verb: "list" }
-  if (action === "mail") return { venue: "mailbox", verb: "mail" }
-  if (action === "deconstruct") return { venue: "crafting-station", verb: "deconstruct" }
-  if (action === "refine") return { venue: "crafting-station", verb: "refine" }
-  if (action === "research") return { venue: "crafting-station", verb: "research" }
-  if (action === "character-equip" || action === "companion-equip") {
-    return { venue: "companion-menu", verb: "equip" }
-  }
-  if (action === "move-to") {
-    const dest = destination ?? "bank"
-    const venue = destinationToVenue(dest)
-    return venue !== undefined ? { venue, verb: moveVerb(dest) } : undefined
-  }
-  if (action === "stock") {
-    const dest = destination ?? "bank"
-    const venue = destinationToVenue(dest)
-    return venue !== undefined ? { venue, verb: "stock" } : undefined
-  }
-  return undefined
 }
 
 function backpackStockTotals(bagSize: number): LuaMap<number, number> {
@@ -180,7 +121,14 @@ function computePlanVenues(): VenuePlan[] | undefined {
     destination?: string
   ): undefined {
     if (action === "stock" && isStockWithinTarget(bagId, slotIndex, stockTotals)) return
-    const classified = classifyPendingVenue(action, destination, IsItemStolen(bagId, slotIndex))
+    const classified = classifyPendingVenue(
+      action,
+      destination,
+      IsItemStolen(bagId, slotIndex),
+      function (this: void): boolean {
+        return HasCraftBagAccess() && CanItemBeVirtual(bagId, slotIndex)
+      }
+    )
     if (classified !== undefined) addToTally(touch(classified.venue), classified.verb, 1)
   })
 

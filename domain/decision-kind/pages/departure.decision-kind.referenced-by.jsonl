@@ -4565,6 +4565,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-junk-queue/inventory-junk-queue.module.ts","id":"01a06258-b52d-7f4b-bdbd-e12809ac7ab9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-location-order/inventory-location-order.module.ts","id":"01a0e0a0-2424-7004-af9c-97bb9c20e4e9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-open-room-wait/inventory-open-room-wait.module.ts","id":"01a0e36b-6780-7059-8c73-9310ce62bc0b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-plan-venue/inventory-plan-venue.module.ts","id":"01a12622-b1f8-71af-8b51-6313b1c100b6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.ts","id":"01a06258-b52e-7092-b8df-b96f86d39d15"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rule-held/inventory-rule-held.module.ts","id":"01a0e315-95ad-766e-95c5-a7a104008d5a"}

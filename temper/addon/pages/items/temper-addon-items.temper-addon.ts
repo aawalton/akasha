@@ -243,6 +243,7 @@ export const temperAddonItems = {
     "module/inventory-server-action-window",
     "module/inventory-open-room-wait",
     "module/inventory-use-guard",
+    "module/inventory-plan-venue",
   ],
   decisions: [
     {
@@ -363,5 +364,5 @@ export const temperAddonItems = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.863Z",
-  updatedAt: "2026-10-08T14:26:37.000Z",
+  updatedAt: "2026-10-10T14:06:10.424Z",
 } as const satisfies TemperAddon
