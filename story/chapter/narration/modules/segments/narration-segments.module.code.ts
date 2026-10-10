@@ -31,12 +31,11 @@ type Counted = { words: number }
 
 const WINDOW_FENCES = 2
 
-const SENTENCE_PAUSE_MS = 150
-const PARAGRAPH_PAUSE_MS = 450
-const BREAK_PAUSE_MS = 900
+const SENTENCE_PAUSE_MS = 170
+const PARAGRAPH_PAUSE_MS = 570
+const BREAK_PAUSE_MS = 1320
 const FIRST_LIMIT = 200
 const LIMIT = 350
-const SHORT = 100
 
 const RETURNS = /\r\n?/g
 const FENCE = /^\s*(?:```|~~~)/
@@ -395,11 +394,9 @@ export function narrationSegmentsOf(
   const segments: NarrationSegment[] = []
   let packed = ""
   let packedAt = 0
-  let held: number | null = null
   const flush = (pauseAfterMs: number): undefined => {
     if (packed !== "") segments.push({ text: packed, pauseAfterMs, wordStart: packedAt })
     packed = ""
-    held = null
   }
   for (const block of blocksOf(prose)) {
     const sentences = block.sentences.map((one) =>
@@ -417,20 +414,15 @@ export function narrationSegmentsOf(
           said += wordCount(piece)
           continue
         }
-        if (packed !== "" && packed.length + 1 + piece.length > LIMIT) {
-          flush(held ?? SENTENCE_PAUSE_MS)
-        }
+        if (packed !== "" && packed.length + 1 + piece.length > LIMIT) flush(SENTENCE_PAUSE_MS)
         if (packed === "") packedAt = at()
         packed = packed === "" ? piece : `${packed} ${piece}`
-        held = null
         said += wordCount(piece)
       }
     }
     if (packed === "") {
       const last = segments.at(-1)
       if (last !== undefined) last.pauseAfterMs = block.pauseAfterMs
-    } else if (block.pauseAfterMs === PARAGRAPH_PAUSE_MS && packed.length < SHORT) {
-      held = block.pauseAfterMs
     } else {
       flush(block.pauseAfterMs)
     }

@@ -26,12 +26,27 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A segment ends with its paragraph once it holds a hundred characters or more.",
+      statement: "Every paragraph ends its segment, however short the paragraph is.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A shorter segment runs on into the next paragraph, and that paragraph's pause is dropped.",
+        "Every paragraph leaves a paragraph's pause, so quick dialogue never runs together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The gap heard is about 250 ms after a sentence, 650 after a paragraph and 1400 after a break.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A sentence ending a segment leaves the gap Kokoro leaves between sentences inside one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each pause is 80 ms short of its gap, for the quiet kept around a segment's speech.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -157,6 +172,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-10T18:10:00.209Z",
+  updatedAt: "2026-10-10T18:14:27.052Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module

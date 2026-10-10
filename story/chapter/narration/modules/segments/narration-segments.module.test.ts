@@ -11,20 +11,30 @@ describe("narrationSegmentsOf", () => {
     expect(narrationSegmentsOf("\n\n  \n")).toEqual([])
   })
 
-  test("the first segment is the first sentence alone, and a short paragraph runs on into the next", () => {
+  test("the first segment is the first sentence alone, and every paragraph ends its segment", () => {
     expect(narrationSegmentsOf("She ran. The door shut. It was dark.\nShe waited.")).toEqual([
-      { text: "She ran.", pauseAfterMs: 150, wordStart: 0 },
-      { text: "The door shut. It was dark. She waited.", pauseAfterMs: 900, wordStart: 2 },
+      { text: "She ran.", pauseAfterMs: 170, wordStart: 0 },
+      { text: "The door shut. It was dark.", pauseAfterMs: 570, wordStart: 2 },
+      { text: "She waited.", pauseAfterMs: 1320, wordStart: 8 },
     ])
   })
 
-  test("a paragraph of a hundred characters or more ends its segment, with a paragraph's pause", () => {
+  test("a short paragraph of dialogue keeps its paragraph's pause", () => {
+    expect(narrationSegmentsOf("Start.\n“Coming?”\n“No.”\n“Why not?”")).toEqual([
+      { text: "Start.", pauseAfterMs: 570, wordStart: 0 },
+      { text: "“Coming?”", pauseAfterMs: 570, wordStart: 1 },
+      { text: "“No.”", pauseAfterMs: 570, wordStart: 2 },
+      { text: "“Why not?”", pauseAfterMs: 1320, wordStart: 3 },
+    ])
+  })
+
+  test("a long paragraph ends its segment, with a paragraph's pause", () => {
     const long =
       "The rain had not stopped for three days, and the river kept rising past the old mill."
     expect(narrationSegmentsOf(`Start.\n${long} ${long}\nShe waited.`)).toEqual([
-      { text: "Start.", pauseAfterMs: 450, wordStart: 0 },
-      { text: `${long} ${long}`, pauseAfterMs: 450, wordStart: 1 },
-      { text: "She waited.", pauseAfterMs: 900, wordStart: 35 },
+      { text: "Start.", pauseAfterMs: 570, wordStart: 0 },
+      { text: `${long} ${long}`, pauseAfterMs: 570, wordStart: 1 },
+      { text: "She waited.", pauseAfterMs: 1320, wordStart: 35 },
     ])
   })
 
@@ -46,26 +56,26 @@ describe("narrationSegmentsOf", () => {
 
   test("a scene break and a heading each leave a longer pause", () => {
     expect(narrationSegmentsOf("One.\n\n***\n\nTwo.\n## Part Two\nThree.")).toEqual([
-      { text: "One.", pauseAfterMs: 900, wordStart: 0 },
-      { text: "Two.", pauseAfterMs: 900, wordStart: 2 },
-      { text: "Part Two.", pauseAfterMs: 900, wordStart: 3 },
-      { text: "Three.", pauseAfterMs: 900, wordStart: 6 },
+      { text: "One.", pauseAfterMs: 1320, wordStart: 0 },
+      { text: "Two.", pauseAfterMs: 1320, wordStart: 2 },
+      { text: "Part Two.", pauseAfterMs: 1320, wordStart: 3 },
+      { text: "Three.", pauseAfterMs: 1320, wordStart: 6 },
     ])
   })
 
   test("markdown is said as the words it marks", () => {
     expect(
       texts("Start.\n**The Tower**\nShe *really* meant it, [truly](https://x.y) and `fully`.")
-    ).toEqual(["Start.", "The Tower. She really meant it, truly and fully."])
+    ).toEqual(["Start.", "The Tower.", "She really meant it, truly and fully."])
   })
 
   test("a window is said as plain sentences between longer pauses", () => {
     expect(
       narrationSegmentsOf("She looked.\n\n:::skill\nname: Devotion\n:::\n\nShe smiled.")
     ).toEqual([
-      { text: "She looked.", pauseAfterMs: 900, wordStart: 0 },
-      { text: "New skill: Devotion.", pauseAfterMs: 900, wordStart: 2 },
-      { text: "She smiled.", pauseAfterMs: 900, wordStart: 6 },
+      { text: "She looked.", pauseAfterMs: 1320, wordStart: 0 },
+      { text: "New skill: Devotion.", pauseAfterMs: 1320, wordStart: 2 },
+      { text: "She smiled.", pauseAfterMs: 1320, wordStart: 6 },
     ])
   })
 
@@ -92,14 +102,14 @@ describe("narrationSegmentsOf", () => {
       "One.",
       ...breaks.map((_mark, at) => `Line ${at}.`),
     ])
-    expect(segments.every((one) => one.pauseAfterMs === 900)).toBe(true)
+    expect(segments.every((one) => one.pauseAfterMs === 1320)).toBe(true)
   })
 
   test("a line of only an ellipsis or a silent reply is a pause rather than a break", () => {
     const segments = narrationSegmentsOf("She waited.\n“…”\n. . .\nHe left.")
     expect(segments.map(({ text, pauseAfterMs }) => ({ text, pauseAfterMs }))).toEqual([
-      { text: "She waited.", pauseAfterMs: 450 },
-      { text: "He left.", pauseAfterMs: 900 },
+      { text: "She waited.", pauseAfterMs: 570 },
+      { text: "He left.", pauseAfterMs: 1320 },
     ])
   })
 
@@ -117,13 +127,14 @@ describe("narrationSegmentsOf", () => {
       texts(
         "Start.\neBook: https://www.royalroad.com/amazon/B0DSVBKLP9\nTom &amp; Jerry [image] left​ &#8212; fast."
       )
-    ).toEqual(["Start.", "eBook. Tom & Jerry left — fast."])
+    ).toEqual(["Start.", "eBook.", "Tom & Jerry left — fast."])
   })
 
   test("a link glued to a word and a lone ellipsis in a paragraph are never spoken", () => {
     expect(texts("Start.\nChapter 33: Finally, Sleephttps://x.y/z\nHe stopped. …")).toEqual([
       "Start.",
-      "Chapter 33: Finally, Sleep. He stopped.",
+      "Chapter 33: Finally, Sleep.",
+      "He stopped.",
     ])
   })
 
