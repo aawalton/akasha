@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { classifyPendingVenue } from "akasha/temper/addon/pages/items/modules/inventory-plan-venue/inventory-plan-venue.module.code.ts"
+import {
+  classifyPendingVenue,
+  listingHold,
+} from "akasha/temper/addon/pages/items/modules/inventory-plan-venue/inventory-plan-venue.module.code.ts"
 
 const craftBagTakes = (): boolean => true
 const craftBagRefuses = (): boolean => false
@@ -53,6 +56,33 @@ describe("inventory-plan-venue", () => {
     expect(classifyPendingVenue("destroy", undefined, true, craftBagRefuses)).toEqual({
       venue: "fence",
       verb: "destroy",
+    })
+  })
+
+  test("a listing the guild store would skip is held with its reason", () => {
+    expect(listingHold(true, 27000)).toBeUndefined()
+    expect(listingHold(true, undefined)).toBe("no price")
+    expect(listingHold(false, 27000)).toBe("can't be listed")
+    expect(
+      classifyPendingVenue("list", "character:7", false, craftBagRefuses, "7", () => "no price")
+    ).toEqual({ venue: "guild-store", verb: "list", held: "no price" })
+    expect(
+      classifyPendingVenue("list", "character:7", false, craftBagRefuses, "7", () => undefined)
+    ).toEqual({ venue: "guild-store", verb: "list" })
+  })
+
+  test("a vendor item for another character is deposited at the bank", () => {
+    expect(classifyPendingVenue("list", "character:9", false, craftBagRefuses, "7")).toEqual({
+      venue: "bank",
+      verb: "deposit",
+    })
+    expect(classifyPendingVenue("sell", "character:9", false, craftBagRefuses, "7")).toEqual({
+      venue: "bank",
+      verb: "deposit",
+    })
+    expect(classifyPendingVenue("sell", "character:7", false, craftBagRefuses, "7")).toEqual({
+      venue: "vendor",
+      verb: "sell",
     })
   })
 

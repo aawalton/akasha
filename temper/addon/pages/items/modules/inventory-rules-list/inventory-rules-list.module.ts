@@ -25,9 +25,17 @@ export const inventoryRulesList = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An item with no price or that the store refuses is held rather than listed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A held item keeps its listing action, so the plan keeps showing why.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The caller is told once listing at a visit is over, whatever listing did.",
     },
   ],
   createdAt: "2026-09-02T13:39:35.859Z",
-  updatedAt: "2026-09-27T14:44:32.000Z",
+  updatedAt: "2026-10-10T14:27:06.302Z",
 } as const satisfies Module

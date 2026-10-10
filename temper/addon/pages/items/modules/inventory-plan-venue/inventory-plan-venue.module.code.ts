@@ -3,6 +3,27 @@ import type { AddonItemAction } from "akasha/temper/addon/pages/items/modules/in
 interface PlanVenueSlot {
   readonly venue: string
   readonly verb: string
+  readonly held?: string
+}
+
+const CHARACTER_PREFIX = "character:"
+
+function isVendorAction(action: AddonItemAction): boolean {
+  return (
+    action === "sell" || action === "fence-sell" || action === "fence-launder" || action === "list"
+  )
+}
+
+function isForAnotherCharacter(destination: string | undefined, currentCharId: string): boolean {
+  if (currentCharId === "") return false
+  if (destination === undefined || !destination.startsWith(CHARACTER_PREFIX)) return false
+  return destination.substring(CHARACTER_PREFIX.length) !== currentCharId
+}
+
+export function listingHold(sellable: boolean, price: number | undefined): string | undefined {
+  if (!sellable) return "can't be listed"
+  if (price === undefined) return "no price"
+  return undefined
 }
 
 function destinationToVenue(destination: string): string | undefined {
@@ -37,15 +58,25 @@ export function classifyPendingVenue(
   action: AddonItemAction,
   destination: string | undefined,
   isStolen: boolean,
-  craftBagTakes: (this: void) => boolean
+  craftBagTakes: (this: void) => boolean,
+  currentCharId = "",
+  listingHeld: (this: void) => string | undefined = () => undefined
 ): PlanVenueSlot | undefined {
+  if (isVendorAction(action) && isForAnotherCharacter(destination, currentCharId)) {
+    return { venue: "bank", verb: "deposit" }
+  }
   if (action === "sell") return { venue: "vendor", verb: "sell" }
   if (action === "destroy") {
     return isStolen ? { venue: "fence", verb: "destroy" } : { venue: "vendor", verb: "destroy" }
   }
   if (action === "fence-sell") return { venue: "fence", verb: "sell" }
   if (action === "fence-launder") return { venue: "fence", verb: "launder" }
-  if (action === "list") return { venue: "guild-store", verb: "list" }
+  if (action === "list") {
+    const held = listingHeld()
+    return held === undefined
+      ? { venue: "guild-store", verb: "list" }
+      : { venue: "guild-store", verb: "list", held }
+  }
   if (action === "mail") return { venue: "mailbox", verb: "mail" }
   if (action === "deconstruct") return { venue: "crafting-station", verb: "deconstruct" }
   if (action === "refine") return { venue: "crafting-station", verb: "refine" }

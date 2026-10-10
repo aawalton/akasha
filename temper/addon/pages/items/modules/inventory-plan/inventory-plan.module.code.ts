@@ -11,6 +11,7 @@ import {
   getPendingRuleIndex,
   getPendingTargetQuantity,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { listingHoldReason } from "akasha/temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"
 import type { AddonItemAction } from "akasha/temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
 import { isSavedVariablesReady } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { stockGroupKey } from "akasha/temper/addon/pages/items/modules/inventory-stock-group/inventory-stock-group.module.code.ts"
@@ -84,6 +85,7 @@ interface PlannedSlot {
 interface VenuePlan {
   venue: string
   verbs: Array<{ verb: string; count: number }>
+  held: Array<{ reason: string; count: number }>
   slots: PlannedSlot[]
 }
 
@@ -144,7 +146,19 @@ function computePlanVenues(): VenuePlan[] | undefined {
     return counts
   }
 
+  const venueHeld = new LuaMap<string, Record<string, number>>()
+
+  function touchHeld(venue: string): Record<string, number> {
+    let held = venueHeld.get(venue)
+    if (held === undefined) {
+      held = {}
+      venueHeld.set(venue, held)
+    }
+    return held
+  }
+
   const stockTotals = backpackStockTotals(GetBagSize(BAG_BACKPACK))
+  const currentCharId = tostring(GetCurrentCharacterId())
 
   forEachPendingAction(function (
     this: void,
@@ -160,9 +174,17 @@ function computePlanVenues(): VenuePlan[] | undefined {
       IsItemStolen(bagId, slotIndex),
       function (this: void): boolean {
         return HasCraftBagAccess() && CanItemBeVirtual(bagId, slotIndex)
+      },
+      currentCharId,
+      function (this: void): string | undefined {
+        return listingHoldReason(bagId, slotIndex)
       }
     )
     if (classified === undefined) return
+    if (classified.held !== undefined) {
+      addToTally(touchHeld(classified.venue), classified.held, 1)
+      return
+    }
     addToTally(touch(classified.venue), classified.verb, 1)
     noteSlot(classified.venue, { bagId, slotIndex, verb: classified.verb, destination })
   })
@@ -182,12 +204,17 @@ function computePlanVenues(): VenuePlan[] | undefined {
 
   function pushVenue(venueKey: string): undefined {
     const counts = venueCounts.get(venueKey)
-    if (counts === undefined) return
+    const heldCounts = venueHeld.get(venueKey)
+    if (counts === undefined && heldCounts === undefined) return
     const verbs: Array<{ verb: string; count: number }> = []
-    for (const [verb, count] of Object.entries(counts)) {
+    for (const [verb, count] of Object.entries(counts ?? {})) {
       verbs.push({ verb, count })
     }
-    result.push({ venue: venueKey, verbs, slots: venueSlots.get(venueKey) ?? [] })
+    const held: Array<{ reason: string; count: number }> = []
+    for (const [reason, count] of Object.entries(heldCounts ?? {})) {
+      held.push({ reason, count })
+    }
+    result.push({ venue: venueKey, verbs, held, slots: venueSlots.get(venueKey) ?? [] })
   }
 
   for (const staticKey of VENUE_ORDER) {
@@ -254,7 +281,7 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
                   : resolveVenueLabel(entry.venue)
         venues.push({ label, count: v.count, items })
       }
-    } else {
+    } else if (entry.verbs.length > 0) {
       let venueCount = 0
       for (const v of entry.verbs) {
         venueCount += v.count
@@ -272,10 +299,20 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
     return a.count > b.count
   })
 
-  return {
-    totalSlots,
-    venues: venues.map((v) => ({ ...v, line: `${v.label} — ${v.count} items` })),
+  const lines: PlanVenue[] = venues.map((v) => ({ ...v, line: `${v.label} — ${v.count} items` }))
+  for (const entry of plan) {
+    for (const h of entry.held) {
+      const label = resolveVenueLabel(entry.venue)
+      lines.push({
+        label,
+        count: h.count,
+        items: [],
+        line: `${label} — ${h.count} held: ${h.reason}`,
+      })
+    }
   }
+
+  return { totalSlots, venues: lines }
 }
 
 export function handleTemperPlanCommand(): undefined {
@@ -297,6 +334,9 @@ export function handleTemperPlanCommand(): undefined {
     const parts: string[] = []
     for (const v of entry.verbs) {
       parts.push(`${v.verb} ${v.count}`)
+    }
+    for (const h of entry.held) {
+      parts.push(`held ${h.count} (${h.reason})`)
     }
     d(`  ${label} \u2014 ${parts.join(", ")}`)
   }

@@ -1,5 +1,6 @@
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
+import { listingHold } from "akasha/temper/addon/pages/items/modules/inventory-plan-venue/inventory-plan-venue.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
@@ -34,6 +35,15 @@ function computeListPrice(itemLink: string, stackCount: number): number | undefi
   const priceInfo = TamrielTradeCentrePrice.GetPriceInfo(itemLink)
   if (priceInfo === undefined || priceInfo.SuggestedPrice === undefined) return undefined
   return math.floor(priceInfo.SuggestedPrice * stackCount)
+}
+
+export function listingHoldReason(bagId: number, slotIndex: number): string | undefined {
+  const [stackCount] = GetSlotStackSize(bagId, slotIndex)
+  const itemLink = GetItemLink(bagId, slotIndex, LINK_STYLE_BRACKETS)
+  return listingHold(
+    IsItemSellableOnTradingHouse(bagId, slotIndex),
+    computeListPrice(itemLink, stackCount)
+  )
 }
 
 let tradingHouseOpen = false
@@ -95,14 +105,10 @@ export function dispatchListings(listed: (this: void) => void): undefined {
       return
     }
 
-    if (!IsItemSellableOnTradingHouse(bagId, slotIndex)) {
-      clearPendingAction(bagId, slotIndex)
-      return
-    }
-
     const itemLink = GetItemLink(bagId, slotIndex, LINK_STYLE_BRACKETS)
     const totalPrice = computeListPrice(itemLink, stackCount)
-    if (totalPrice === undefined) {
+    const held = listingHold(IsItemSellableOnTradingHouse(bagId, slotIndex), totalPrice)
+    if (held !== undefined || totalPrice === undefined) {
       skipped++
       return
     }
@@ -112,7 +118,7 @@ export function dispatchListings(listed: (this: void) => void): undefined {
 
   if (candidates.length === 0) {
     if (skipped > 0) {
-      d(`[${ADDON_NAME}] No items to list (${skipped} skipped — no price data)`)
+      d(`[${ADDON_NAME}] No items to list (${skipped} held — no price, or can't be listed)`)
     }
     listed()
     return
@@ -188,7 +194,7 @@ export function dispatchListings(listed: (this: void) => void): undefined {
   }
 
   function printSummary(): undefined {
-    const skippedMsg = skipped > 0 ? ` (${skipped} skipped — no price data)` : ""
+    const skippedMsg = skipped > 0 ? ` (${skipped} held — no price, or can't be listed)` : ""
     const failedMsg = failed > 0 ? ` (${failed} failed, kept for the next visit)` : ""
     const itemsMsg = postedLinks.length > 0 ? `: ${postedLinks.join(", ")}` : ""
     d(

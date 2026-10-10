@@ -24,7 +24,19 @@ export const inventoryPlanVenue = {
       decisionKind: "decision-kind/departure",
       statement: "A fish to fillet is planned at a crafting station.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listing the guild store would skip is held, with the reason it would skip it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The plan and the guild store visit skip a listing for the same reasons.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item another character sells or lists is planned as a deposit at the bank.",
+    },
   ],
   createdAt: "2026-10-10T14:06:10.424Z",
-  updatedAt: "2026-10-10T14:21:18.132Z",
+  updatedAt: "2026-10-10T14:27:06.302Z",
 } as const satisfies Module
