@@ -2406,13 +2406,13 @@
           },
           "morph1": {
             "name": "Hypnosis",
-            "rank": 3
+            "rank": 4
           },
           "morph2": {
             "name": "Stupefy",
             "rank": 1
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -13117,11 +13117,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "seen": [
       5,
       3,
@@ -13135,14 +13135,15 @@
       1,
       6,
       2,
-      7,
       3,
+      7,
       4,
       5
     ]
   },
+  "bankVisitDate": "2026-10-10",
   "inventoryCheck": {
-    "date": "2026-10-09",
-    "misplaced": 31
+    "date": "2026-10-10",
+    "misplaced": 0
   }
 }
