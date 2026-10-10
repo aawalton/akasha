@@ -6,7 +6,19 @@ export const narrowComparison = {
   slug: "narrow-comparison",
   propertySlug: "comparison",
   definition: "how a narrow weighs a page's value against what it names",
-  values: ["is", "in", "not-in", "has", "contains", "ends-with", "empty", "at-or-after", "before"],
+  values: [
+    "is",
+    "in",
+    "not-in",
+    "has",
+    "contains",
+    "ends-with",
+    "empty",
+    "at-or-after",
+    "after",
+    "before",
+    "at-or-before",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -20,5 +32,5 @@ export const narrowComparison = {
   ],
   types: "ts",
   createdAt: "2026-09-02T21:02:27.899Z",
-  updatedAt: "2026-09-22T10:08:53.000Z",
+  updatedAt: "2026-10-10T12:53:28.934Z",
 } as const satisfies SelectProperty
