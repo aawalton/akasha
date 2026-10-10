@@ -11,7 +11,7 @@ export const rhiaTwiAnalysisBook = {
       statement:
         "A book for agents says why and how The Wandering Inn reaches a tier above other fiction.",
       workingMemory:
-        "Drafts in /var/tmp/claude-1000/-var-home-walton-repos/01d84cc2-9d31-4c8c-a339-21955d57885d/scratchpad/twi/book, tracker twi/progress.md. Single-mechanism instruments failed. Averaging absolute A/B/C ratings over Alan's 8 aspects ranks Warbreaker and TWI top, then Super Supportive and Mother of Learning, which Alan calls a good ranking (twi/peers/results-round1.md). Next: discuss ratings and rubrics with Alan.",
+        "Drafts in /var/tmp/claude-1000/-var-home-walton-repos/01d84cc2-9d31-4c8c-a339-21955d57885d/scratchpad/twi, tracker twi/progress.md. Alan likes the averaged-aspect ranking. His target: clear, disjoint dimensions, a numeric rubric for each, every story regraded, results shown to him. Plan and work in twi/rubric/.",
     },
     {
       statement:
@@ -34,5 +34,5 @@ export const rhiaTwiAnalysisBook = {
     "Alan finds nearly every chapter and arc of The Wandering Inn S tier, rather than a few peaks.",
   ],
   createdAt: "2026-10-10T16:42:36.659Z",
-  updatedAt: "2026-10-10T20:52:48.447Z",
+  updatedAt: "2026-10-10T20:59:51.572Z",
 } as const satisfies Initiative
