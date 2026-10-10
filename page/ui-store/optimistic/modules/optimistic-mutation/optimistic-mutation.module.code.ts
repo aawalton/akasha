@@ -111,6 +111,14 @@ function handedOff(priorTails: readonly Promise<void>[]): Promise<void> {
   return Promise.race([settled, new Promise<void>((r) => setTimeout(r, SETTLE_HANDOFF_CEILING_MS))])
 }
 
+async function landUnshown<Result>(
+  priorTails: readonly Promise<void>[],
+  mutate: () => Promise<Result>
+): Promise<Result> {
+  if (priorTails.length > 0) await handedOff(priorTails)
+  return mutate()
+}
+
 const UNSET: unique symbol = Symbol("pages-optimistic-mutation-unset")
 
 export function runPagesOptimisticMutation<Result>(
@@ -150,19 +158,21 @@ export function runPagesOptimisticMutation<Result>(
   })
 
   const tx = run(undefined)
-  return tx.isPersisted.promise
-    .then(() => {
-      if (captured === UNSET) {
-        throw new Error(
-          "runPagesOptimisticMutation: mutation settled without capturing an RPC result"
-        )
-      }
-      return captured
-    })
-    .finally(() => {
-      markSettled(undefined)
-      for (const rowId of holdRowIds) {
-        if (chain.get(rowId) === settled) chain.delete(rowId)
-      }
-    })
+  const landed: Promise<Result> =
+    tx.mutations.length === 0
+      ? landUnshown(priorTails, mutate)
+      : tx.isPersisted.promise.then(() => {
+          if (captured === UNSET) {
+            throw new Error(
+              "runPagesOptimisticMutation: mutation settled without capturing an RPC result"
+            )
+          }
+          return captured
+        })
+  return landed.finally(() => {
+    markSettled(undefined)
+    for (const rowId of holdRowIds) {
+      if (chain.get(rowId) === settled) chain.delete(rowId)
+    }
+  })
 }

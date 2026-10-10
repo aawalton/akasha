@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"plan.module.code.ts","path":"page/ui-store/optimistic/modules/optimistic-mutation/optimistic-mutation.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"plan.module.code.ts","path":"page/ui-store/optimistic/modules/optimistic-mutation/optimistic-mutation.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"plan.module.code.ts","path":"page/ui/supabase/mutation/modules/apply-prediction/apply-prediction.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"plan.module.code.ts","path":"page/ui/supabase/mutation/modules/build-patch-plan/build-patch-plan.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"plan.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts","typed":true,"deferred":false}
