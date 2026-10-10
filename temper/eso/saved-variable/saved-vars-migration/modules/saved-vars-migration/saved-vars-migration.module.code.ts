@@ -1,4 +1,4 @@
-import { existsSync, readFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { writeFileAtomicSync } from "akasha/file/system/modules/atomic-write/atomic-write.module.code.ts"
@@ -82,9 +82,28 @@ type AppendMigrationOutcome =
   | { readonly kind: "skip-no-target"; readonly target: string }
   | { readonly kind: "skip-absorbed-global-absent"; readonly absorbed: string }
 
+const APPEND_MARKER_DIRNAME = ".temper-sv-migration"
+
+export function appendMarkerName(spec: AppendSpec): string {
+  return `append-${spec.targetFileBase}-${spec.renamedTo ?? spec.absorbedGlobal}.json`
+}
+
+function appendMarkerPath(spec: AppendSpec, io: SavedVarsIo): string {
+  return join(io.savedVarsDir, APPEND_MARKER_DIRNAME, appendMarkerName(spec))
+}
+
+function markAppended(spec: AppendSpec, io: SavedVarsIo): undefined {
+  mkdirSync(join(io.savedVarsDir, APPEND_MARKER_DIRNAME), { recursive: true })
+  writeFileAtomicSync(appendMarkerPath(spec, io), `${JSON.stringify(spec, null, 2)}\n`)
+  return undefined
+}
+
 export function appendAddonSavedVars(spec: AppendSpec, io: SavedVarsIo): AppendMigrationOutcome {
   const absorbedFile = join(io.savedVarsDir, `${spec.absorbedFileBase}.lua`)
   const targetFile = join(io.savedVarsDir, `${spec.targetFileBase}.lua`)
+  if (existsSync(appendMarkerPath(spec, io))) {
+    return { kind: "skip-already-appended", target: spec.targetFileBase }
+  }
   if (!existsSync(absorbedFile)) return { kind: "skip-no-source", absorbed: spec.absorbedFileBase }
   if (!existsSync(targetFile)) return { kind: "skip-no-target", target: spec.targetFileBase }
 
@@ -96,6 +115,7 @@ export function appendAddonSavedVars(spec: AppendSpec, io: SavedVarsIo): AppendM
   )
   switch (done.kind) {
     case "already-appended":
+      markAppended(spec, io)
       return { kind: "skip-already-appended", target: spec.targetFileBase }
     case "absorbed-global-absent":
       return { kind: "skip-absorbed-global-absent", absorbed: spec.absorbedFileBase }
@@ -103,6 +123,7 @@ export function appendAddonSavedVars(spec: AppendSpec, io: SavedVarsIo): AppendM
       const aside = join(io.savedVarsDir, `${spec.targetFileBase}.lua.pre-consolidation.bak`)
       if (!existsSync(aside)) writeFileAtomicSync(aside, readFileSync(targetFile))
       writeFileAtomicSync(targetFile, done.content)
+      markAppended(spec, io)
       return { kind: "appended", absorbed: spec.absorbedFileBase, target: spec.targetFileBase }
     }
     default:

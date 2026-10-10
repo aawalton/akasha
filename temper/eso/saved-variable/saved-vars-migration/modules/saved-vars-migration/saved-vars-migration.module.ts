@@ -6,6 +6,7 @@ export const savedVarsMigration = {
   slug: "saved-vars-migration",
   definition: "a player's saved variables carried to the file the folded-together addon reads",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -35,6 +36,14 @@ export const savedVarsMigration = {
       decisionKind: "decision-kind/departure",
       statement: "An append whose target is absent is skipped rather than made.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An append made or found made leaves a marker, and a marker present means done.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An append the game later dropped from the target is not made again.",
+    },
 
     {
       decisionKind: "decision-kind/absence",
@@ -46,5 +55,5 @@ export const savedVarsMigration = {
     },
   ],
   createdAt: "2026-09-02T04:48:22.204Z",
-  updatedAt: "2026-09-22T01:46:02.000Z",
+  updatedAt: "2026-10-10T14:36:47.007Z",
 } as const satisfies Module
