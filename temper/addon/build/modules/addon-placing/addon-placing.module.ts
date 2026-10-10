@@ -54,6 +54,10 @@ export const addonPlacing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A placement made while the game runs leaves the saved variables untouched.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A replacement that breaks off part way is refused rather than thrown on.",
     },
     {
@@ -62,5 +66,5 @@ export const addonPlacing = {
     },
   ],
   createdAt: "2026-09-11T13:46:40.426Z",
-  updatedAt: "2026-09-21T15:02:26.000Z",
+  updatedAt: "2026-10-10T14:35:58.089Z",
 } as const satisfies Module

@@ -7,6 +7,7 @@ export const temperSavedVarsMigration = {
   definition: "carrying a player's saved variables over when addons are renamed or folded together",
   parts: [
     "module/bundle-member-saved-vars",
+    "module/eso-running",
     "module/saved-vars-blocks",
     "module/saved-vars-migration",
   ],
@@ -22,6 +23,14 @@ export const temperSavedVarsMigration = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A migration runs before the game next loads rather than inside the game.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A migration runs only while the game is closed.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A running game writes its saved variables over any file a migration wrote.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -50,5 +59,5 @@ export const temperSavedVarsMigration = {
     },
   ],
   createdAt: "2026-09-02T04:48:22.203Z",
-  updatedAt: "2026-10-10T14:34:54.706Z",
+  updatedAt: "2026-10-10T14:35:58.089Z",
 } as const satisfies Domain

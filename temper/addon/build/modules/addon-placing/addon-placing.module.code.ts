@@ -27,6 +27,7 @@ import {
   migrateBundleMemberSavedVars,
   readDeclaredSavedVars,
 } from "akasha/temper/eso/saved-variable/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.code.ts"
+import { isGameRunning } from "akasha/temper/eso/saved-variable/saved-vars-migration/modules/eso-running/eso-running.module.code.ts"
 import {
   appendAddonSavedVars,
   type ConsolidationMigration,
@@ -323,6 +324,12 @@ export function placedAddon(root: string, sourceDir: string, canonicalName: stri
     if (beside.refusals.length > 0) return { lines: report, refusals: beside.refusals }
   }
 
+  if (isGameRunning()) {
+    report.push(
+      "saved variables left as they are: the game is running and writes them back on reload, so their migrations wait for a deploy made with the game closed"
+    )
+    return { lines: report, refusals: [] }
+  }
   report.push(...migratedIn(canonicalName, sourceDir, savedVarsDir()))
   return { lines: report, refusals: [] }
 }
