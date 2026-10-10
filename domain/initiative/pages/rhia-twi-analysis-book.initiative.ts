@@ -24,7 +24,8 @@ export const rhiaTwiAnalysisBook = {
     "Alan rates as A tier: The Millennial Mage, The Primal Hunter, Path of Ascension, He Who Fights With Monsters, Metaworld Hopecore, How To Magic, Rise of The Living Forge.",
     "Alan rates as A tier: Beware of Chicken, Ends of Magic, Mark of the Fool, Dungeon of Knowledge, Azarinth Healer, The Calamitous Bob, Beneath The Dragoneye Moons.",
     "An A-tier work may be S tier or B tier on one aspect while A tier taken whole.",
+    "Alan finds nearly every chapter and arc of The Wandering Inn S tier, rather than a few peaks.",
   ],
   createdAt: "2026-10-10T16:42:36.659Z",
-  updatedAt: "2026-10-10T17:05:03.433Z",
+  updatedAt: "2026-10-10T17:06:17.159Z",
 } as const satisfies Initiative
