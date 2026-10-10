@@ -1,6 +1,7 @@
-import { existsSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import { writeFileAtomicSync } from "akasha/file/system/modules/atomic-write/atomic-write.module.code.ts"
 import {
   appendGlobalToTarget,
   renameGlobals,
@@ -37,7 +38,7 @@ export function migrateAddonSavedVars(
     return { kind: "skip-no-globals", from: oldFileBase, to: newFileBase }
   }
 
-  writeFileSync(newFile, content)
+  writeFileAtomicSync(newFile, content)
   return { kind: "renamed", from: oldFileBase, to: newFileBase, renamedCount }
 }
 
@@ -62,8 +63,8 @@ export function renameAddonSavedVarsInPlace(
   if (renamedCount === 0) return { kind: "skip-no-globals", fileBase }
 
   const aside = join(io.savedVarsDir, `${fileBase}.lua.pre-consolidation.bak`)
-  if (!existsSync(aside)) writeFileSync(aside, readFileSync(file))
-  writeFileSync(file, content)
+  if (!existsSync(aside)) writeFileAtomicSync(aside, readFileSync(file))
+  writeFileAtomicSync(file, content)
   return { kind: "renamed-in-place", fileBase, renamedCount }
 }
 
@@ -100,8 +101,8 @@ export function appendAddonSavedVars(spec: AppendSpec, io: SavedVarsIo): AppendM
       return { kind: "skip-absorbed-global-absent", absorbed: spec.absorbedFileBase }
     case "appended": {
       const aside = join(io.savedVarsDir, `${spec.targetFileBase}.lua.pre-consolidation.bak`)
-      if (!existsSync(aside)) writeFileSync(aside, readFileSync(targetFile))
-      writeFileSync(targetFile, done.content)
+      if (!existsSync(aside)) writeFileAtomicSync(aside, readFileSync(targetFile))
+      writeFileAtomicSync(targetFile, done.content)
       return { kind: "appended", absorbed: spec.absorbedFileBase, target: spec.targetFileBase }
     }
     default:

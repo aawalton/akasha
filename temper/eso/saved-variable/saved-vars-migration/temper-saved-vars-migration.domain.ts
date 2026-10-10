@@ -36,10 +36,19 @@ export const temperSavedVarsMigration = {
       statement: "A copy aside is made once rather than on every run.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A migration writes a whole file beside the old and renames it into place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reader of a saved variables file never sees a file half written by a migration.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here deletes the file a migration read from.",
     },
   ],
   createdAt: "2026-09-02T04:48:22.203Z",
-  updatedAt: "2026-09-21T15:23:34.000Z",
+  updatedAt: "2026-10-10T14:34:54.706Z",
 } as const satisfies Domain

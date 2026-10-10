@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto"
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { writeFileAtomicSync } from "akasha/file/system/modules/atomic-write/atomic-write.module.code.ts"
 import { extractMemberGlobalBlocks } from "akasha/temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.code.ts"
 import { z } from "zod"
 
@@ -31,7 +32,10 @@ function isBundleMemberMigrated(savedVarsDir: string, member: string): boolean {
 
 function writeMarker(savedVarsDir: string, marker: Marker): undefined {
   mkdirSync(join(savedVarsDir, MARKER_DIRNAME), { recursive: true })
-  writeFileSync(markerPath(savedVarsDir, marker.member), `${JSON.stringify(marker, null, 2)}\n`)
+  writeFileAtomicSync(
+    markerPath(savedVarsDir, marker.member),
+    `${JSON.stringify(marker, null, 2)}\n`
+  )
   return undefined
 }
 
@@ -82,13 +86,13 @@ export function migrateBundleMemberSavedVars(
   if (existsSync(memberFile)) {
     const aside = join(io.savedVarsDir, `${member}.lua.pre-bundle-migration.bak`)
     if (!existsSync(aside)) {
-      writeFileSync(aside, readFileSync(memberFile))
+      writeFileAtomicSync(aside, readFileSync(memberFile))
       backedUp = true
     }
   }
 
   const payload = `${blocks.join("\n")}\n`
-  writeFileSync(memberFile, payload)
+  writeFileAtomicSync(memberFile, payload)
   const bytesWritten = Buffer.byteLength(payload)
 
   writeMarker(io.savedVarsDir, {
