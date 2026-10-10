@@ -33,7 +33,7 @@ const NAMED = [readChapter] as const
 
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-export const BEAT_WORDS = 500
+const BEAT_WORDS = 500
 
 export const EVENT_CEILING = 160
 
