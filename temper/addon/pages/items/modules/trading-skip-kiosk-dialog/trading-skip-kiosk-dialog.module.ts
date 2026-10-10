@@ -6,12 +6,17 @@ export const tradingSkipKioskDialog = {
   slug: "trading-skip-kiosk-dialog",
   definition: "passing the trader kiosk confirmation a player would otherwise answer",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "Only the confirmation is passed and the purchase itself is left alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A menu offering the bank or the guild bank is left to the player.",
+    },
   ],
   createdAt: "2026-09-02T09:08:07.389Z",
-  updatedAt: "2026-09-22T02:36:59.000Z",
+  updatedAt: "2026-10-10T14:22:00.441Z",
 } as const satisfies Module

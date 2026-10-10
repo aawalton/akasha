@@ -16,12 +16,31 @@ export function createSkipKioskDialog(this: void): SkipKioskDialog {
   }
 }
 
+export function kioskPick(
+  this: void,
+  optionTypes: readonly number[],
+  tradingHouse: number,
+  otherServices: readonly number[]
+): number | undefined {
+  let pick: number | undefined
+  for (let i = 0; i < optionTypes.length; i++) {
+    const optionType = optionTypes[i]
+    if (optionType === undefined) continue
+    if (otherServices.indexOf(optionType) !== -1) return undefined
+    if (pick === undefined && optionType === tradingHouse) pick = i + 1
+  }
+  return pick
+}
+
 function onChatterBegin(this: void, _eventCode: number, chatterOptionCount: number): undefined {
+  const optionTypes: number[] = []
   for (let i = 1; i <= chatterOptionCount; i++) {
     const [, optionType] = GetChatterOption(i)
-    if (optionType === CHATTER_START_TRADINGHOUSE) {
-      SelectChatterOption(i)
-      return
-    }
+    optionTypes.push(optionType)
   }
+  const pick = kioskPick(optionTypes, CHATTER_START_TRADINGHOUSE, [
+    CHATTER_START_BANK,
+    CHATTER_START_GUILDBANK,
+  ])
+  if (pick !== undefined) SelectChatterOption(pick)
 }
