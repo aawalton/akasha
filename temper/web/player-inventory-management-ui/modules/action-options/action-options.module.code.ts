@@ -26,6 +26,7 @@ export const ACTION_OPTIONS: ActionOption[] = [
   { value: "bind", variant: "green" },
   { value: "deconstruct", variant: "orange" },
   { value: "refine", variant: "orange" },
+  { value: "fillet", variant: "orange" },
   { value: "destroy", variant: "orange" },
   { value: "research", variant: "green" },
   { value: "fence-launder", variant: "accent" },

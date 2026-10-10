@@ -38,6 +38,7 @@ export function computePlanItemValue(
     case "companion-equip":
     case "deconstruct":
     case "refine":
+    case "fillet":
     case "destroy":
     case "fence-launder":
     case "research":

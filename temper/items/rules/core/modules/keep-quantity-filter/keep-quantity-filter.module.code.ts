@@ -13,6 +13,7 @@ const OUTBOUND_ACTIONS: ReadonlySet<ItemAction> = new Set([
   "destroy",
   "deconstruct",
   "refine",
+  "fillet",
   "list",
   "fence-launder",
   "research",

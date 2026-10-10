@@ -55,4 +55,11 @@ describe("inventory-plan-venue", () => {
       verb: "destroy",
     })
   })
+
+  test("a fish to fillet is planned at a crafting station", () => {
+    expect(classifyPendingVenue("fillet", undefined, false, craftBagRefuses)).toEqual({
+      venue: "crafting-station",
+      verb: "fillet",
+    })
+  })
 })

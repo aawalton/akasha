@@ -20,7 +20,11 @@ export const inventoryPlanVenue = {
       decisionKind: "decision-kind/departure",
       statement: "The craft bag is asked only about an item headed for the craft bag.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fish to fillet is planned at a crafting station.",
+    },
   ],
   createdAt: "2026-10-10T14:06:10.424Z",
-  updatedAt: "2026-10-10T14:06:10.424Z",
+  updatedAt: "2026-10-10T14:21:18.132Z",
 } as const satisfies Module

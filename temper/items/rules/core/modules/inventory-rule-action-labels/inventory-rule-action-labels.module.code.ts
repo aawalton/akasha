@@ -23,6 +23,8 @@ function getActionVerbLabel(action: ItemAction): string {
       return "Deconstruct"
     case "refine":
       return "Refine"
+    case "fillet":
+      return "Fillet"
     case "research":
       return "Research"
     case "use":
@@ -67,6 +69,7 @@ export function formatActionLabel(args: FormatActionLabelArgs): string {
     case "list":
     case "deconstruct":
     case "refine":
+    case "fillet":
     case "research":
     case "open":
     case "destroy":

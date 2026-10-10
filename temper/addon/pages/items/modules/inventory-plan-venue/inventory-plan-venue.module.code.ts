@@ -49,6 +49,7 @@ export function classifyPendingVenue(
   if (action === "mail") return { venue: "mailbox", verb: "mail" }
   if (action === "deconstruct") return { venue: "crafting-station", verb: "deconstruct" }
   if (action === "refine") return { venue: "crafting-station", verb: "refine" }
+  if (action === "fillet") return { venue: "crafting-station", verb: "fillet" }
   if (action === "research") return { venue: "crafting-station", verb: "research" }
   if (action === "character-equip" || action === "companion-equip") {
     return { venue: "companion-menu", verb: "equip" }

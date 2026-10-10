@@ -76,6 +76,7 @@ export function getActionVenue(
       return "mailbox"
     case "deconstruct":
     case "refine":
+    case "fillet":
     case "research":
       return "crafting-station"
     case "character-equip":

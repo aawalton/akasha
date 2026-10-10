@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"temper-item-action.page-type.types.ts","path":"temper/player/progress/temper-item-action/pages/destroy.temper-item-action.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.types.ts","path":"temper/player/progress/temper-item-action/pages/fence-launder.temper-item-action.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.types.ts","path":"temper/player/progress/temper-item-action/pages/fence-sell.temper-item-action.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-item-action.page-type.types.ts","path":"temper/player/progress/temper-item-action/pages/fillet.temper-item-action.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.types.ts","path":"temper/player/progress/temper-item-action/pages/list.temper-item-action.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.types.ts","path":"temper/player/progress/temper-item-action/pages/lock.temper-item-action.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.types.ts","path":"temper/player/progress/temper-item-action/pages/mail.temper-item-action.ts","typed":true,"deferred":false}

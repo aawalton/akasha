@@ -10,6 +10,7 @@ export function isBackpackRequiredAction(
   if (action === "companion-equip") return false
   if (action === "deconstruct") return false
   if (action === "refine") return false
+  if (action === "fillet") return false
   if (action === "research") return false
   if (action === "use" && destination !== undefined) return false
   if (action === "nothing") return false

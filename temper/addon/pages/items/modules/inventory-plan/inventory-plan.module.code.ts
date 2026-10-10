@@ -196,9 +196,11 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
             ? "Deconstruct"
             : v.verb === "refine"
               ? "Refine"
-              : v.verb === "research"
-                ? "Research"
-                : resolveVenueLabel(entry.venue)
+              : v.verb === "fillet"
+                ? "Fillet"
+                : v.verb === "research"
+                  ? "Research"
+                  : resolveVenueLabel(entry.venue)
         venues.push({ label, count: v.count })
       }
     } else {
