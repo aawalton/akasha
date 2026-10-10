@@ -162,13 +162,48 @@ function writtenAs(one: Pronunciation): (readonly [string, Pronunciation])[] {
   return forms
 }
 
+const SILENT_E = /e$/i
+
+type Form = readonly [string, Pronunciation]
+
+function endedAs(
+  form: string,
+  one: Pronunciation,
+  sound: (phonemes: string) => string,
+  spelling: (spokenAs: string) => string
+): Form {
+  return [
+    form,
+    {
+      written: form,
+      ...(one.phonemes === undefined ? {} : { phonemes: sound(one.phonemes) }),
+      ...(one.spokenAs === undefined ? {} : { spokenAs: spelling(one.spokenAs) }),
+    },
+  ]
+}
+
+function silentEFormsOf([form, one]: Form): Form[] {
+  if (!SILENT_E.test(form)) return []
+  const shouted = form === form.toUpperCase()
+  const d = shouted ? "D" : "d"
+  const ing = shouted ? "ING" : "ing"
+  return [
+    endedAs(`${form}${d}`, one, edOn, (said) => `${said}${d}`),
+    endedAs(
+      `${form.slice(0, -1)}${ing}`,
+      one,
+      (phonemes) => `${phonemes}ɪŋ`,
+      (said) => `${said.replace(SILENT_E, "")}${ing}`
+    ),
+  ]
+}
+
 export function respellerOf(pronunciations: readonly Pronunciation[]): (text: string) => string {
-  const named = new Map(
-    pronunciations
-      .filter((one) => one.written !== "")
-      .filter((one) => (one.phonemes ?? "") !== "" || (one.spokenAs ?? "") !== "")
-      .flatMap(writtenAs)
-  )
+  const forms = pronunciations
+    .filter((one) => one.written !== "")
+    .filter((one) => (one.phonemes ?? "") !== "" || (one.spokenAs ?? "") !== "")
+    .flatMap(writtenAs)
+  const named = new Map([...forms.flatMap(silentEFormsOf), ...forms])
   if (named.size === 0) return (text) => text
   const written = [...named.keys()]
     .sort((a, b) => b.length - a.length)

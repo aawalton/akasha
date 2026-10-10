@@ -105,6 +105,16 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A pronounced word ending in e is pronounced with a d after it, or with ing in place of its e.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A pronunciation naming a form outright is said rather than the form built for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A pronounced word written all in capitals is pronounced as the word is.",
     },
     {
@@ -134,6 +144,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-09T01:58:33.217Z",
+  updatedAt: "2026-10-10T11:32:47.338Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module

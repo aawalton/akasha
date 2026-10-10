@@ -198,6 +198,23 @@ describe("narrationSegmentsOf", () => {
     ])
   })
 
+  test("a pronounced word ending in e reaches its d and its ing, and a page for that form wins", () => {
+    const pronounced = [
+      { written: "conjure", phonemes: "kˈɑnʤəɹ" },
+      { written: "bake", phonemes: "bˈAk" },
+      { written: "baked", phonemes: "bˈɛkt" },
+      { written: "Durene", spokenAs: "Dureen" },
+    ]
+    const said = (prose: string): string[] =>
+      narrationSegmentsOf(prose, pronounced).map((one) => one.text)
+    expect(
+      said("Start.\nShe conjured, CONJURING it; Conjured. He baked, baking. Durened Durening.")
+    ).toEqual([
+      "Start.",
+      "She [conjured](/kˈɑnʤəɹd/), [CONJURING](/kˈɑnʤəɹɪŋ/) it; [Conjured](/kˈɑnʤəɹd/). He [baked](/bˈɛkt/), [baking](/bˈAkɪŋ/). Dureend Dureening.",
+    ])
+  })
+
   test("a pronunciation written in small letters reaches the word capitalised and in capitals too, and the later of two wins", () => {
     const pronounced = [
       { written: "gnoll", phonemes: "nˈɑl" },
