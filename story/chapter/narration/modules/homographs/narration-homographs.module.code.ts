@@ -43,6 +43,11 @@ function bowsOf(before: string, after: string, sense: keyof typeof BOW_SAID): re
 const READINGS: readonly Reading[] = [
   { found: /\beye[\s-]+(contact)\b/giu, said: "kˌɑntækt" },
   { found: /\b(refuse)\s+(?=to\b)/giu, said: "ɹəfjˈuz" },
+  {
+    found:
+      /\b(?:I|you|we|they|must|can|could|would|will|shall|should|might|may|cannot|can['’]t|couldn['’]t|won['’]t|wouldn['’]t|didn['’]t|don['’]t|not)\s+(refuse)\b/giu,
+    said: "ɹəfjˈuz",
+  },
   { found: /(?:^|[.!?…—“"]\s*)(Refuse)(?=\s*[,!.])/gu, said: "ɹəfjˈuz" },
   { found: /(?<!\p{L})[‘’'`](em)\b/giu, said: "əm" },
   {

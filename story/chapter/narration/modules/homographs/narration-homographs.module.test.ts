@@ -44,6 +44,12 @@ describe("homographsOf", () => {
     )
   })
 
+  test("refuse after a subject or a helping word is refusing, capitalised or not", () => {
+    expect(homographsOf("I Refuse. You can't refuse. We must refuse it. Bins of refuse.")).toBe(
+      "I [Refuse](/ɹəfjˈuz/). You can't [refuse](/ɹəfjˈuz/). We must [refuse](/ɹəfjˈuz/) it. Bins of refuse."
+    )
+  })
+
   test("legged it is one syllable, and legged otherwise is left", () => {
     expect(homographsOf("He legged it. A four-legged beast.")).toBe(
       "He [legged](/lˈɛɡd/) it. A four-legged beast."

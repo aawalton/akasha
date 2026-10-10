@@ -30,6 +30,11 @@ export const narrationHomographs = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Refuse after I, you, we, they or a helping word such as must or can't is refusing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A homograph is handed on with a reading only where the words beside it settle its sense.",
     },
     {
@@ -72,5 +77,5 @@ export const narrationHomographs = {
     },
   ],
   createdAt: "2026-10-08T19:44:53.690Z",
-  updatedAt: "2026-10-10T17:06:59.202Z",
+  updatedAt: "2026-10-10T22:04:16.684Z",
 } as const satisfies Module
