@@ -23,13 +23,38 @@ import { navItemActionsLabel } from "akasha/infrastructure/service/akasha-servic
 import { navItemDeleteDescription } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/nav-item-delete-description.web-phrase.ts"
 import { navItemDeleteMenu } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/nav-item-delete-menu.web-phrase.ts"
 import { navItemDeleteTitle } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/nav-item-delete-title.web-phrase.ts"
-import { deletePage } from "akasha/page/access/modules/deleting/deleting.module.code.ts"
+import {
+  deletePage,
+  deletePages,
+} from "akasha/page/access/modules/deleting/deleting.module.code.ts"
+import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { patchPages } from "akasha/page/access/modules/patch/patch.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { MoreHorizontal, Trash2 } from "lucide-react"
 import { useState } from "react"
 
 const NAV_SLUG = "nav"
+const VIEW_SLUG = "view"
+
+async function releaseNavReferrers(pageId: string): Promise<void> {
+  const { rows } = await getPages({
+    pageTypeSlug: NAV_SLUG,
+    where: [{ key: "id", eq: pageId }],
+    select: ["slug", "navParent"],
+    limit: 1,
+  })
+  const nav = rows[0]
+  if (nav === undefined || typeof nav.slug !== "string") return
+  const navAt = namedAs(NAV_SLUG, nav.slug, null)
+  await deletePages({ pageTypeSlug: VIEW_SLUG, where: [{ key: "nav", eq: navAt }] })
+  await patchPages({
+    pageTypeSlug: NAV_SLUG,
+    where: [{ key: "navParent", eq: navAt }],
+    set: { navParent: typeof nav.navParent === "string" ? nav.navParent : null },
+  })
+}
 
 export function NavItemDeleteDialog({
   open,
@@ -119,6 +144,7 @@ export function NavItemActions({ pageId, href }: { pageId: string; href: string 
 
   const handleDelete = async () => {
     const onDeletedPage = pathname === href || pathname.startsWith(`${href}/`)
+    await releaseNavReferrers(pageId)
     await runDelete({
       pageTypeSlug: NAV_SLUG,
       where: [{ key: "id", eq: pageId }],

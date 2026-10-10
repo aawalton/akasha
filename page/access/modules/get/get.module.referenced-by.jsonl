@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"alan/web/routes/pages-ready/pages-ready.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/access/modules/iterate/iterate.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/access/modules/page-type/page-type.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/component/modules/nav-item-actions/nav-item-actions.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/use-nav-mutations/use-nav-mutations.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/use-referrers/use-referrers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/use-subpages/use-subpages.module.code.ts","typed":false,"deferred":false}
