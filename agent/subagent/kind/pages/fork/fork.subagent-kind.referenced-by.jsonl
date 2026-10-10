@@ -2,3 +2,4 @@
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/ember-a6df04f029c847bf3/ember-a6df04f029c847bf3.subagent.ts","id":"01a1263d-343c-7643-a7d9-d34fd56b15b3"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/ember-ad4ad4e8db487e077/ember-ad4ad4e8db487e077.subagent.ts","id":"01a12643-0053-7873-b784-06e67f38fd8e"}
