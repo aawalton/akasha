@@ -11,7 +11,7 @@ export const rhiaTwiAnalysisBook = {
       statement:
         "A book for agents says why and how The Wandering Inn reaches a tier above other fiction.",
       workingMemory:
-        "Drafts and toolkit done in /var/tmp/claude-1000/-var-home-walton-repos/01d84cc2-9d31-4c8c-a339-21955d57885d/scratchpad/twi/book, tracker twi/progress.md. Blind test failed: the scene test called 2 of Alan's A works S and scored TWI below A works, so the book now describes TWI's craft without a found S/A separator. Asked Alan for LOTR or Cosmere text to test whole-work measures. Then: book's home, landing, present to Alan.",
+        "Book drafts in /var/tmp/claude-1000/-var-home-walton-repos/01d84cc2-9d31-4c8c-a339-21955d57885d/scratchpad/twi/book (measurement.md has every test), tracker twi/progress.md. Six blind instruments, including two pre-registered rounds with Warbreaker as an S control, found no S/A separator; the book describes TWI's craft. Presenting conclusions-for-alan.md to Alan one piece at a time, from piece 1.",
     },
     {
       statement:
@@ -34,5 +34,5 @@ export const rhiaTwiAnalysisBook = {
     "Alan finds nearly every chapter and arc of The Wandering Inn S tier, rather than a few peaks.",
   ],
   createdAt: "2026-10-10T16:42:36.659Z",
-  updatedAt: "2026-10-10T19:42:07.911Z",
+  updatedAt: "2026-10-10T20:36:42.767Z",
 } as const satisfies Initiative
