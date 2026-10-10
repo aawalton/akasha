@@ -44,6 +44,10 @@ export const narrationHomographs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Em after an apostrophe or an opening quote is them, said unstressed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Markup already handed on is never read again.",
     },
     {
@@ -60,5 +64,5 @@ export const narrationHomographs = {
     },
   ],
   createdAt: "2026-10-08T19:44:53.690Z",
-  updatedAt: "2026-10-10T15:35:56.328Z",
+  updatedAt: "2026-10-10T16:25:35.288Z",
 } as const satisfies Module

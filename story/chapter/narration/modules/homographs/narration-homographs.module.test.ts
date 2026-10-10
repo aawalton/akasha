@@ -18,6 +18,12 @@ describe("homographsOf", () => {
     )
   })
 
+  test("em after an apostrophe or opening quote is them, and em alone is left", () => {
+    expect(homographsOf("Let ‘em lie. Got ’em! Tell 'em. An em dash.")).toBe(
+      "Let ‘[em](/əm/) lie. Got ’[em](/əm/)! Tell '[em](/əm/). An em dash."
+    )
+  })
+
   test("legged it is one syllable, and legged otherwise is left", () => {
     expect(homographsOf("He legged it. A four-legged beast.")).toBe(
       "He [legged](/lˈɛɡd/) it. A four-legged beast."
