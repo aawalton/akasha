@@ -14,6 +14,7 @@ export const rhiaTwiAnalysisBook = {
   ],
   constraints: [
     "The book prepares agents to write fiction at that tier, starting with fan fiction of The Wandering Inn.",
+    "The first fan fiction expands within the frame pirateaba set, telling stories she referenced but did not fully tell.",
     "The initiative builds understanding and writes no fiction.",
     "The Lord of the Rings and the Cosmere are the other works Alan places at that tier.",
     "At most 20 agents run at once.",
@@ -27,5 +28,5 @@ export const rhiaTwiAnalysisBook = {
     "Alan finds nearly every chapter and arc of The Wandering Inn S tier, rather than a few peaks.",
   ],
   createdAt: "2026-10-10T16:42:36.659Z",
-  updatedAt: "2026-10-10T17:06:17.159Z",
+  updatedAt: "2026-10-10T17:06:55.774Z",
 } as const satisfies Initiative
