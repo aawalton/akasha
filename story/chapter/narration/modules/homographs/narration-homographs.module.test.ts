@@ -24,6 +24,16 @@ describe("homographsOf", () => {
     )
   })
 
+  test("tears in the eyes or streaming are crying, and tears at or in half are left", () => {
+    expect(
+      homographsOf(
+        "She turned, tears in her eyes. Tears streaming from his eyes. She tears at the meat. It tears in half."
+      )
+    ).toBe(
+      "She turned, [tears](/tˈɪɹz/) in her eyes. [Tears](/tˈɪɹz/) streaming from his eyes. She tears at the meat. It tears in half."
+    )
+  })
+
   test("legged it is one syllable, and legged otherwise is left", () => {
     expect(homographsOf("He legged it. A four-legged beast.")).toBe(
       "He [legged](/lˈɛɡd/) it. A four-legged beast."

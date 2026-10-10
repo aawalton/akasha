@@ -44,6 +44,11 @@ const READINGS: readonly Reading[] = [
   { found: /\b(refuse)\s+(?=to\b)/giu, said: "ɹəfjˈuz" },
   { found: /(?:^|[.!?…—“"]\s*)(Refuse)(?=\s*[,!.])/gu, said: "ɹəfjˈuz" },
   { found: /(?<!\p{L})[‘’'`](em)\b/giu, said: "əm" },
+  {
+    found:
+      /\b(tears)(?=\s+(?:still\s+)?(?:in|on|streaming|running|rolling|from|out\s+of|alone|again)\b)(?!\s+in\s+(?:half|two)\b)/giu,
+    said: "tˈɪɹz",
+  },
   { found: /\b(legged)\s+(?=it\b)/giu, said: "lˈɛɡd" },
   {
     found:
