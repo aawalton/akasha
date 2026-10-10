@@ -8,7 +8,7 @@ export const theWanderingInn0467758 = {
   story: "story-read/the-wandering-inn",
   position: 467,
   ownLength: 27254,
-  ownProgress: 27432,
+  ownProgress: 27254,
   unit: "unit/words",
   publishedAt: "2020-11-15",
   externalIdentity: [
@@ -16,5 +16,6 @@ export const theWanderingInn0467758 = {
   ],
   prose: "txt",
   createdAt: "2026-09-03T04:49:45.187Z",
-  updatedAt: "2026-09-19T18:25:57.000Z",
+  updatedAt: "2026-10-10T14:32:31.198Z",
+  completedAt: "2026-10-10T14:32:30.642Z",
 } as const satisfies StoryChapterRead
