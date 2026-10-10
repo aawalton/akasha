@@ -1,0 +1,16 @@
+import type { Seat } from "akasha/agent/seat/seat.page-type.types.ts"
+
+export const rhia = {
+  id: "01a126b0-c3c5-7000-b116-d3288b3d9fe7",
+  type: "page-type/seat",
+  slug: "rhia",
+  persona: "persona/rhia",
+  assignmentSlug: "domain/world-lore",
+  role: "role/definer",
+  person: "person/alan",
+  startMode: "seat-mode/interactive",
+  onCall: true,
+  registrationAccount: "model-account/aawalton",
+  createdAt: "2026-10-10T16:41:21.583Z",
+  updatedAt: "2026-10-10T16:41:21.583Z",
+} as const satisfies Seat
