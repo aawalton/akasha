@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHVMUAAIBkRRMCU_lAtP5ULmC1C5gtQuYLULmC1C5gtEGjtRBAq0QQKtJhEx2xEEx1ujIAHN0RKyABNgAAAAALTE8AAgDUEABAGAACQAIAASAACEAADJwAjAGYARkABCIwIABDJIFAjEQA0gAAACAMAHIAgAcQAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0nAUAyDjEgaw",
+  "buildHash": "ATQHVMUAAIBkRRMi5V1AwR7VLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJhFJyyTRScujIAHN0RKyABNgAAAAALTE8AAgDUEABAGAACQAIAASAACEAADJwAjAGYARkABCIwIABDJIFAjEQA0gAAACAMAHIAgAcQAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0nAUAyDjEgaw",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -2475,13 +2475,13 @@
     },
     "55": {
       "currentRank": 4,
-      "currentXP": 125,
+      "currentXP": 165,
       "nextRankXP": 200,
       "skills": {
         "39369": {
           "base": {
             "name": "Bone Shield",
-            "rank": 1
+            "rank": 3
           },
           "morph1": {
             "name": "Spiked Bone Shield",
@@ -2525,7 +2525,7 @@
           },
           "morph2": {
             "name": "Inner Beast",
-            "rank": 2
+            "rank": 3
           },
           "currentMorph": 2,
           "abilityIndex": 3,
@@ -2728,14 +2728,14 @@
       "nextRankXP": 211320
     },
     "111": {
-      "currentRank": 3,
+      "currentRank": 4,
       "currentXP": 23,
-      "nextRankXP": 80
+      "nextRankXP": 100
     },
     "117": {
-      "currentRank": 1,
-      "currentXP": 0,
-      "nextRankXP": 10
+      "currentRank": 2,
+      "currentXP": 10,
+      "nextRankXP": 25
     },
     "130": {
       "currentRank": 10,
@@ -3466,6 +3466,7 @@
         5,
         6,
         7,
+        8,
         10,
         12,
         15,
@@ -3678,6 +3679,7 @@
     },
     "2": {
       "1": [
+        1,
         7,
         8,
         12,
@@ -3916,6 +3918,7 @@
         45,
         48,
         65,
+        77,
         85,
         96,
         104
@@ -4034,6 +4037,9 @@
         3,
         4,
         5,
+        9,
+        10,
+        11,
         12,
         22,
         23,
@@ -4051,16 +4057,26 @@
       "23": [
         2,
         3,
+        5,
+        20,
         23,
         27,
         30,
         31,
         35,
+        37,
         45,
         46,
+        48,
         49,
         64,
-        70
+        70,
+        75
+      ],
+      "28": [
+        37,
+        41,
+        77
       ],
       "33": [
         3
@@ -4983,8 +4999,8 @@
     }
   },
   "skillPoints": {
-    "total": 354,
-    "unassigned": 3,
+    "total": 358,
+    "unassigned": 4,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -4994,8 +5010,8 @@
     "endlessArchive": 0,
     "skyshardPoints": 173,
     "totalSkyshards": 520,
-    "zoneQuestTotal": 51,
-    "groupDungeonTotal": 2,
+    "zoneQuestTotal": 53,
+    "groupDungeonTotal": 4,
     "publicDungeonTotal": 36,
     "skyshards": {
       "CY": 0,
@@ -5067,7 +5083,7 @@
       "EP3": 3,
       "DC1": 4,
       "EP4": 3,
-      "HB": 0,
+      "HB": 2,
       "CL": 0,
       "SU": 0,
       "MM": 0,
@@ -5097,7 +5113,7 @@
       "SH": 0,
       "DoM": 0,
       "LM": 0,
-      "CA1": 0,
+      "CA1": 1,
       "BS": 0,
       "BC1": 1,
       "DC2": 0,
@@ -5119,7 +5135,7 @@
       "WS2": 0,
       "SP": 0,
       "WS1": 0,
-      "SC1": 0,
+      "SC1": 1,
       "SC2": 0,
       "OP": 0,
       "DK": 0,
@@ -6685,7 +6701,7 @@
     }
   },
   "companionRapport": {
-    "6": 2583,
+    "6": 2715,
     "13": 817
   },
   "quests": [
@@ -6874,6 +6890,7 @@
     4026,
     4041,
     4051,
+    4054,
     4058,
     4059,
     4060,
@@ -7060,6 +7077,7 @@
     4764,
     4765,
     4774,
+    4778,
     4780,
     4783,
     4817,
@@ -7117,7 +7135,9 @@
     5244,
     5249,
     5259,
+    5260,
     5289,
+    5290,
     5302,
     5309,
     5310,
@@ -7142,6 +7162,8 @@
     5418,
     5448,
     5520,
+    5531,
+    5534,
     5733,
     5734,
     5737,
@@ -8142,7 +8164,8 @@
         28,
         29,
         30,
-        31
+        31,
+        32
       ],
       "14": [
         1,
@@ -9625,6 +9648,7 @@
         25,
         26,
         30,
+        31,
         33,
         34,
         35,
@@ -10511,6 +10535,9 @@
       ]
     },
     "816": {
+      "1": [
+        1
+      ],
       "2": [
         1
       ],
@@ -11542,6 +11569,7 @@
         1,
         2,
         3,
+        5,
         6,
         8,
         9,
@@ -11844,6 +11872,7 @@
       14,
       15,
       16,
+      17,
       18,
       19,
       20,
@@ -11875,6 +11904,7 @@
       54,
       55,
       57,
+      58,
       59,
       60,
       61
@@ -12316,6 +12346,7 @@
       36,
       37,
       38,
+      39,
       40,
       41,
       43,
