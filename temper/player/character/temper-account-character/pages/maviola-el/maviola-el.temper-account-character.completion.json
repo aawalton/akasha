@@ -5,6 +5,7 @@
   "classId": 1,
   "allianceId": 1,
   "raceId": 1,
+  "curseState": "vampire",
   "className": "Dragonknight",
   "classIcon": "/esoui/art/icons/class/class_dragonknight.dds",
   "achievements": {
@@ -4376,6 +4377,9 @@
         34,
         82,
         99
+      ],
+      "62": [
+        8
       ]
     }
   },
@@ -8079,7 +8083,7 @@
   },
   "companionRapport": {
     "1": 4058,
-    "2": 1616,
+    "2": 1631,
     "5": 5500,
     "6": 4044,
     "9": 5500
@@ -9217,7 +9221,8 @@
     7357,
     7358,
     7359,
-    7360
+    7360,
+    7470
   ],
   "cadwell": {
     "progressionLevel": 2,
@@ -14334,7 +14339,8 @@
       68,
       69,
       70,
-      71
+      71,
+      74
     ],
     "19": [
       1,
@@ -16134,27 +16140,11 @@
   },
   "dailyWritStates": {
     "date": "2026-10-10",
-    "seen": [
-      5,
-      3,
-      4,
-      2,
-      1,
-      6,
-      7
-    ],
-    "completed": [
-      1,
-      6,
-      2,
-      7,
-      3,
-      4,
-      5
-    ]
+    "seen": [],
+    "completed": []
   },
   "inventoryCheck": {
     "date": "2026-10-10",
-    "misplaced": 0
+    "misplaced": 104
   }
 }
