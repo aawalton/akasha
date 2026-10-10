@@ -128,6 +128,10 @@ function filtersForKey(propertyKey: string, tests: unknown): readonly ViewFilter
     } else if (test === "at-or-after") {
       const bound = boundAbove(raw)
       out.push({ propertyId, operator: bound.operator, value: asFilterValue(bound.value) })
+    } else if (test === "after") {
+      out.push({ propertyId, operator: "gt", value: asFilterValue(raw) })
+    } else if (test === "at-or-before") {
+      out.push({ propertyId, operator: "lte", value: asFilterValue(raw) })
     }
   }
   return out

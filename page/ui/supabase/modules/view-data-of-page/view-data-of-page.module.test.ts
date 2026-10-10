@@ -89,6 +89,20 @@ test("a narrow on emptiness carries no value", () => {
   expect(data?.filters).toEqual([{ propertyId: "completedAt", operator: "is_empty" }])
 })
 
+test("a narrow strictly above or at most a bound becomes the filter on that bound", () => {
+  const data = viewDataOfPage({
+    nav: "stories",
+    narrows: [
+      { key: "total-remaining-in-words", comparison: "after", values: ["0"] },
+      { key: "total-remaining-in-words", comparison: "at-or-before", values: ["5000"] },
+    ],
+  })
+  expect(data?.filters).toEqual([
+    { propertyId: "totalRemainingInWords", operator: "gt", value: "0" },
+    { propertyId: "totalRemainingInWords", operator: "lte", value: "5000" },
+  ])
+})
+
 test("a view's sorts keep their order and their direction", () => {
   const data = viewDataOfPage(TASKS_TODAY)
   expect(data?.sorts).toEqual([
