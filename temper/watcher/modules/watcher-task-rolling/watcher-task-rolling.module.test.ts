@@ -107,6 +107,24 @@ describe("a task of all_characters scope", () => {
     ).toEqual([])
   })
 
+  test("rolls once its progress reads full, whatever the game marked", () => {
+    const [one] = rollVerdicts({
+      tasks: [
+        {
+          taskId: "t",
+          scope: "all_characters",
+          effectiveCharacterId: undefined,
+          progressFull: true,
+        },
+      ],
+      completed: [],
+      progressed: [],
+      roster: ROSTER,
+    })
+    expect(one?.rolls).toBe(true)
+    expect(one?.why).toBe("its progress reads full")
+  })
+
   test("does not roll against an empty roster", () => {
     expect(
       tasksThatRoll({

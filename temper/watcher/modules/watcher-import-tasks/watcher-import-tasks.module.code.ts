@@ -14,7 +14,10 @@ import type { Row } from "akasha/page/service/modules/page-asking/page-asking.mo
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { completionCardOfPageSlug } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
-import { isCumulativeCard } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
+import {
+  isCumulativeCard,
+  isResettingCard,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 import {
   log,
   logError,
@@ -125,6 +128,14 @@ export function isCompleteForever(task: TaskPage): boolean {
   return total > 0 && current >= total
 }
 
+function readsFullToday(task: TaskPage): boolean {
+  if (!isResettingCard(cardOf(task))) return false
+  const current = task.progressCurrent
+  const total = task.progressTotal
+  if (typeof current !== "number" || typeof total !== "number") return false
+  return total > 0 && current >= total
+}
+
 function markedDone(shape: TaskShape, atMs: number): Readonly<Record<string, string>> {
   const stamp = new Date(atMs).toISOString()
   return { [shape.stampKey]: stamp, [shape.doneKey]: stamp }
@@ -207,7 +218,7 @@ async function refreshedOrSaid(
   accountPage: string,
   tasks: readonly TaskPage[],
   seams: ReadySeams
-): Promise<number> {
+): Promise<number | undefined> {
   try {
     return await seams.refreshProgress(accountPage, tasks.map(taskFactsOf), {
       report: seams.report,
@@ -215,7 +226,7 @@ async function refreshedOrSaid(
   } catch (why) {
     const said = why instanceof Error ? why.message : String(why)
     seams.reportError(`Task import: the progress was not recomputed — ${said}`)
-    return 0
+    return undefined
   }
 }
 
@@ -249,7 +260,8 @@ async function rollOnProgress(
   tasks: readonly TaskPage[],
   read: TaskCompletionsRead,
   accountPage: string,
-  seams: ReadySeams
+  seams: ReadySeams,
+  progressFresh: boolean
 ): Promise<number> {
   const asked = await seams.ask({
     pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
@@ -285,6 +297,7 @@ async function rollOnProgress(
           taskId: task.id,
           scope: asText(task.scope),
           effectiveCharacterId: falls === undefined ? undefined : idBySlug.get(slugOf(falls)),
+          progressFull: progressFresh && readsFullToday(task),
         }
       }),
       completed: read.completed,
@@ -388,16 +401,18 @@ export async function runImportTasks(
     seams.report(`Task ${task.slug}: cumulative cap reached, marked done`)
   }
 
+  const refreshed = await refreshedOrSaid(accountPage, tasks, seams)
+  const judged = refreshed === undefined ? tasks : await readTaskPages(accountPage, seams)
+
   const rolled = await rollOnProgress(
-    tasks.filter((task) => !marked.has(task.slug)),
+    judged.filter((task) => !marked.has(task.slug)),
     read,
     accountPage,
-    seams
+    seams,
+    refreshed !== undefined
   )
 
-  const refreshed = await refreshedOrSaid(accountPage, tasks, seams)
-
   seams.report(
-    `Task import: ${completed} completed, ${cleared} cleared, ${sweptForever} swept, ${skipped} skipped, ${rolled} rolled, ${refreshed} progress file(s) landed.`
+    `Task import: ${completed} completed, ${cleared} cleared, ${sweptForever} swept, ${skipped} skipped, ${rolled} rolled, ${refreshed ?? 0} progress file(s) landed.`
   )
 }

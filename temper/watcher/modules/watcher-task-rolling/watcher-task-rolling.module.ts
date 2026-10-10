@@ -34,6 +34,11 @@ export const watcherTaskRolling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An `all_characters` task whose progress reads full rolls, whatever the game marked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A character the game has no record for counts as not progressed.",
     },
     {
@@ -67,5 +72,5 @@ export const watcherTaskRolling = {
     },
   ],
   createdAt: "2026-09-06T13:38:26.491Z",
-  updatedAt: "2026-09-22T17:02:09.000Z",
+  updatedAt: "2026-10-10T14:41:33.027Z",
 } as const satisfies Module

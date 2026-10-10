@@ -11,6 +11,7 @@ interface RollableTask {
   readonly taskId: string
   readonly scope: string | undefined
   readonly effectiveCharacterId: string | undefined
+  readonly progressFull?: boolean
 }
 
 interface RollInputs {
@@ -67,6 +68,10 @@ export function rollVerdicts(inputs: RollInputs): readonly RollVerdict[] {
     }
 
     if (task.scope === ALL_CHARACTERS_SCOPE) {
+      if (task.progressFull === true) {
+        verdicts.push({ taskId: task.taskId, rolls: true, why: "its progress reads full" })
+        continue
+      }
       const waiting = inputs.roster.filter((one) => !done.has(one) && !moved.has(one))
       verdicts.push({
         taskId: task.taskId,

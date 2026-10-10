@@ -112,9 +112,21 @@ export const watcherImportTasks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The progress is recomputed before any task is rolled.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A task on a resetting card whose fresh progress reads full rolls.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Progress a failed recomputation left is not read as full.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The recomputation is handed the character a task names, as that page's slug.",
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-09-25T17:09:39.000Z",
+  updatedAt: "2026-10-10T14:41:33.027Z",
 } as const satisfies Module
