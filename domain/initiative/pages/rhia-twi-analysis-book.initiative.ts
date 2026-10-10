@@ -10,6 +10,8 @@ export const rhiaTwiAnalysisBook = {
     {
       statement:
         "A book for agents says why and how The Wandering Inn reaches a tier above other fiction.",
+      workingMemory:
+        "First reading: 60 readers each read ~300k words of TWI in full and write per-chapter notes to /var/tmp/claude-1000/-var-home-walton-repos/01d84cc2-9d31-4c8c-a339-21955d57885d/scratchpad/twi/notes; ranges in twi/ranges.tsv. Pilots on ranges 01 and 30 first. Then aspect synthesis, A-tier contrast readings, then the book.",
     },
     {
       statement:
@@ -32,5 +34,5 @@ export const rhiaTwiAnalysisBook = {
     "Alan finds nearly every chapter and arc of The Wandering Inn S tier, rather than a few peaks.",
   ],
   createdAt: "2026-10-10T16:42:36.659Z",
-  updatedAt: "2026-10-10T17:08:03.623Z",
+  updatedAt: "2026-10-10T17:12:48.642Z",
 } as const satisfies Initiative
