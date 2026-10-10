@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/modules/edits-repointing/edits-repointing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/echo-af7c4c464b90d4639/echo-af7c4c464b90d4639.subagent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/rhia-a0103617297cda770/rhia-a0103617297cda770.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/rhia-a3d3243ec83858265/rhia-a3d3243ec83858265.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/rhia-a45aed90ceaa94f76/rhia-a45aed90ceaa94f76.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/rhia-a6e8f51766c56dcfb/rhia-a6e8f51766c56dcfb.subagent.ts","typed":true,"deferred":false}

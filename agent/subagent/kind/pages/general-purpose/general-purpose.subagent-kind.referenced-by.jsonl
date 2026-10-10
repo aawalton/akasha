@@ -2,5 +2,6 @@
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/echo-af7c4c464b90d4639/echo-af7c4c464b90d4639.subagent.ts","id":"01a12700-7a44-7314-a0c4-452edd238967"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a0103617297cda770/rhia-a0103617297cda770.subagent.ts","id":"01a1271c-0f79-72db-ad72-5985c8824c48"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a3d3243ec83858265/rhia-a3d3243ec83858265.subagent.ts","id":"01a1270f-51c9-7dc4-bf1d-8c83609c5f6d"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-aada8c70e9fcec507/rhia-aada8c70e9fcec507.subagent.ts","id":"01a12711-5d37-78cf-860a-be3229a5382b"}
