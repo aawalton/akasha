@@ -30888,7 +30888,7 @@
       }
     },
     "4582": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 4
@@ -31307,7 +31307,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 7,
+            "numCompleted": 8,
             "numRequired": 10
           }
         }
@@ -31320,7 +31320,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 7,
+            "numCompleted": 8,
             "numRequired": 30
           }
         }
@@ -31449,7 +31449,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 1,
+            "numCompleted": 2,
             "numRequired": 5
           }
         }
@@ -31462,7 +31462,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 1,
+            "numCompleted": 2,
             "numRequired": 10
           }
         }
@@ -38069,7 +38069,7 @@
           "unlocked": true
         },
         {
-          "name": "Dagger of the Twin Sisters",
+          "name": "Barkskin Arm Cops",
           "unlocked": true
         },
         {
@@ -67714,7 +67714,7 @@
           "unlocked": true
         },
         {
-          "name": "Mace of High Isle",
+          "name": "Alessian Inferno Staff",
           "unlocked": true
         },
         {
@@ -77661,7 +77661,7 @@
           "unlocked": true
         },
         {
-          "name": "Arkay's Charity Sash",
+          "name": "Maul of the Dreugh King Slayer",
           "unlocked": true
         },
         {
@@ -89952,6 +89952,7 @@
     14387,
     14394,
     14395,
+    14586,
     14587,
     14601,
     14656,
