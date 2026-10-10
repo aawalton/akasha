@@ -38,6 +38,7 @@ export const modulePropertyGroup = {
     { pageProperty: "number-property/group-max-cpu-seconds", required: false, many: false },
     { pageProperty: "number-property/group-max-wall-seconds", required: false, many: false },
     { pageProperty: "number-property/group-max-memory-mb", required: false, many: false },
+    { pageProperty: "text-property/fixed-export", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
@@ -70,6 +71,10 @@ export const modulePropertyGroup = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A name a group fixes is fixed on the group's code rather than its test.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "No page carrying the group says otherwise.",
     },
     {
@@ -81,5 +86,5 @@ export const modulePropertyGroup = {
   schema: "jsonl",
   shapes: "jsonl",
   createdAt: "2026-09-09T19:48:27.597Z",
-  updatedAt: "2026-09-24T19:29:15.000Z",
+  updatedAt: "2026-10-10T12:27:17.387Z",
 } as const satisfies PageType

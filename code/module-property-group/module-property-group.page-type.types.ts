@@ -5,6 +5,7 @@ import type { GroupMaxCpuSeconds } from "akasha/code/module-property-group/prope
 import type { GroupMaxMemoryMb } from "akasha/code/module-property-group/properties/group-max-memory-mb.number-property.types.ts"
 import type { GroupMaxWallSeconds } from "akasha/code/module-property-group/properties/group-max-wall-seconds.number-property.types.ts"
 import type { Logs } from "akasha/code/module-property-group/properties/logs.file-property.types.ts"
+import type { FixedExport } from "akasha/page/code-file-property/properties/fixed-export.text-property.types.ts"
 import type { FilePropertyGroup } from "akasha/page/file-property-group/file-property-group.page-type.types.ts"
 
 export type ModulePropertyGroup = FilePropertyGroup & {
@@ -15,4 +16,5 @@ export type ModulePropertyGroup = FilePropertyGroup & {
   maxCpuSeconds?: GroupMaxCpuSeconds
   maxWallSeconds?: GroupMaxWallSeconds
   maxMemoryMb?: GroupMaxMemoryMb
+  fixedExport?: FixedExport
 }
