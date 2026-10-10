@@ -41,6 +41,8 @@ function bowsOf(before: string, after: string, sense: keyof typeof BOW_SAID): re
 
 const READINGS: readonly Reading[] = [
   { found: /\beye[\s-]+(contact)\b/giu, said: "kˌɑntækt" },
+  { found: /\b(refuse)\s+(?=to\b)/giu, said: "ɹəfjˈuz" },
+  { found: /(?:^|[.!?…—“"]\s*)(Refuse)(?=\s*[,!.])/gu, said: "ɹəfjˈuz" },
   { found: /\b(legged)\s+(?=it\b)/giu, said: "lˈɛɡd" },
   {
     found:

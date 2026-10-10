@@ -25,6 +25,11 @@ export const narrationHomographs = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Refuse before to, or opening an order, is refusing, since stories also write it as rubbish.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A homograph is handed on with a reading only where the words beside it settle its sense.",
     },
     {
@@ -55,5 +60,5 @@ export const narrationHomographs = {
     },
   ],
   createdAt: "2026-10-08T19:44:53.690Z",
-  updatedAt: "2026-10-09T14:00:40.352Z",
+  updatedAt: "2026-10-10T15:35:56.328Z",
 } as const satisfies Module

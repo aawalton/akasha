@@ -8,6 +8,16 @@ describe("homographsOf", () => {
     )
   })
 
+  test("refuse before to, or opening an order, is the verb, and refuse as rubbish is left", () => {
+    expect(
+      homographsOf(
+        "Refuse, and they will die. A Treant refuse to vanish. “Refuse!” A pile of refuse."
+      )
+    ).toBe(
+      "[Refuse](/ɹəfjˈuz/), and they will die. A Treant [refuse](/ɹəfjˈuz/) to vanish. “[Refuse](/ɹəfjˈuz/)!” A pile of refuse."
+    )
+  })
+
   test("legged it is one syllable, and legged otherwise is left", () => {
     expect(homographsOf("He legged it. A four-legged beast.")).toBe(
       "He [legged](/lˈɛɡd/) it. A four-legged beast."
