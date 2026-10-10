@@ -4,6 +4,7 @@ import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module
 import { temperLocationType } from "akasha/temper/catalog/world/temper-location-type/temper-location-type.page-type.ts"
 import { titleOf } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { storageChestChoices } from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
 import type {
   DestinationCategory,
   MoveToDestination,
@@ -107,18 +108,13 @@ export function useDestinationOptions(): DestinationOptions {
       { value: "furniture-vault", label: venueTitle("furniture-vault") },
     ]
     if (locations) {
-      for (const [key, loc] of Object.entries(locations)) {
-        if (!key.startsWith("HouseBank:")) continue
-        const parts = key.split(":")
-        if (parts.length < 3) continue
-        const chestId = parts[2]
-        if (chestId === undefined) continue
+      for (const chest of storageChestChoices(locations)) {
         cofferItems.push({
-          value: `house-storage:${chestId}`,
+          value: chest.destination,
           label:
-            loc.displayName !== ""
-              ? loc.displayName
-              : unnamed(useDestinationOptionsUnnamedStorageChest.key, chestId),
+            chest.name !== ""
+              ? chest.name
+              : unnamed(useDestinationOptionsUnnamedStorageChest.key, chest.chestId),
         })
       }
     }

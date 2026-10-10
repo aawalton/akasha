@@ -5,6 +5,7 @@ import {
   houseStorageTarget,
   matchStorageChest,
   type StorageChest,
+  storageChestChoices,
 } from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
 
 const CHESTS: readonly StorageChest[] = [
@@ -35,6 +36,21 @@ test("a name two chests hold finds neither and says so", () => {
 
 test("a destination of digits names a chest by its collectible id", () => {
   expect(matchStorageChest("4677", CHESTS)).toEqual({ kind: "one", chestId: "4677" })
+})
+
+test("a chest is offered by its name, or by its id where its name is not its own", () => {
+  const locations = {
+    "HouseBank:5462:4678": { displayName: "Crown Items" },
+    "HouseBank:5462:4677": { displayName: "Empty" },
+    "HouseBank:5462:4673": { displayName: "Empty" },
+    "HouseBank:5462:4679": { displayName: "" },
+  }
+  expect(storageChestChoices(locations).map((one) => one.destination)).toEqual([
+    "house-storage:Crown Items",
+    "house-storage:4677",
+    "house-storage:4673",
+    "house-storage:4679",
+  ])
 })
 
 test("a destination finds the saved location of the chest it names", () => {

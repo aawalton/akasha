@@ -56,6 +56,25 @@ export function storageChestsOf(
   return chests
 }
 
+export interface StorageChestChoice {
+  readonly destination: `house-storage:${string}`
+  readonly chestId: string
+  readonly name: string
+}
+
+export function storageChestChoices(
+  locations: Readonly<Record<string, { readonly displayName: string }>>
+): StorageChestChoice[] {
+  const chests = storageChestsOf(locations)
+  return chests.map((chest) => {
+    const name = chest.name.trim()
+    const named =
+      name !== "" && !isAllDigits(name) && matchStorageChest(name, chests).kind === "one"
+    const target = named ? name : chest.chestId
+    return { destination: `house-storage:${target}`, chestId: chest.chestId, name: chest.name }
+  })
+}
+
 export function houseBankKeyFor(
   destination: string,
   locations: Readonly<Record<string, { readonly displayName: string }>>

@@ -18,6 +18,7 @@ import {
   titleIn,
 } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { storageChestChoices } from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
 import { forInspiration } from "akasha/temper/items/rules/core/temper-deconstruct-mode/pages/for-inspiration.temper-deconstruct-mode.ts"
 import { forMaterials } from "akasha/temper/items/rules/core/temper-deconstruct-mode/pages/for-materials.temper-deconstruct-mode.ts"
 import { temperDeconstructMode } from "akasha/temper/items/rules/core/temper-deconstruct-mode/temper-deconstruct-mode.page-type.ts"
@@ -155,18 +156,13 @@ export function MoveToCascade({
       { value: "furniture-vault", label: titleIn(venues, furnitureVault.key) },
     ]
     if (locations) {
-      for (const [key, loc] of Object.entries(locations)) {
-        if (!key.startsWith("HouseBank:")) continue
-        const parts = key.split(":")
-        if (parts.length < 3) continue
-        const chestId = parts[2]
-        if (chestId == null) continue
+      for (const chest of storageChestChoices(locations)) {
         items.push({
-          value: `house-storage:${chestId}`,
+          value: chest.destination,
           label:
-            loc.displayName !== ""
-              ? loc.displayName
-              : phrase(actionFilterCascadesStorageChestFallback.slug, { id: chestId }),
+            chest.name !== ""
+              ? chest.name
+              : phrase(actionFilterCascadesStorageChestFallback.slug, { id: chest.chestId }),
         })
       }
     }
