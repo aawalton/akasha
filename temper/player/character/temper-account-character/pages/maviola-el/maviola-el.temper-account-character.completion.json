@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHIsdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOk4AQGQbwyWeA",
+  "buildHash": "ATQHIsdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOk4BwGQbwyWeA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -4379,7 +4379,8 @@
         99
       ],
       "47": [
-        13
+        13,
+        36
       ],
       "62": [
         8
@@ -6383,8 +6384,8 @@
     }
   },
   "skillPoints": {
-    "total": 469,
-    "unassigned": 181,
+    "total": 470,
+    "unassigned": 182,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -6394,7 +6395,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 176,
     "totalSkyshards": 528,
-    "zoneQuestTotal": 139,
+    "zoneQuestTotal": 140,
     "groupDungeonTotal": 26,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -6485,7 +6486,7 @@
       "EP5": 3,
       "EP1": 3,
       "AP": 8,
-      "GY": 3
+      "GY": 4
     },
     "groupDungeons": {
       "MOS": 0,
@@ -9177,6 +9178,7 @@
     6849,
     6850,
     6855,
+    6859,
     6971,
     6972,
     6973,
@@ -13958,7 +13960,8 @@
       "1": [
         1,
         2,
-        3
+        3,
+        4
       ],
       "3": [
         1,
@@ -16011,6 +16014,7 @@
       19,
       20,
       21,
+      22,
       23,
       25,
       26,
@@ -16172,6 +16176,6 @@
   },
   "inventoryCheck": {
     "date": "2026-10-10",
-    "misplaced": 131
+    "misplaced": 134
   }
 }
