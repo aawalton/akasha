@@ -2729,13 +2729,13 @@
     },
     "111": {
       "currentRank": 4,
-      "currentXP": 88,
+      "currentXP": 90,
       "nextRankXP": 100
     },
     "117": {
-      "currentRank": 4,
+      "currentRank": 5,
       "currentXP": 20,
-      "nextRankXP": 30
+      "nextRankXP": 35
     },
     "130": {
       "currentRank": 10,
@@ -4076,8 +4076,11 @@
       ],
       "28": [
         16,
+        22,
         28,
+        31,
         37,
+        38,
         41,
         42,
         43,
@@ -4085,6 +4088,7 @@
         45,
         50,
         52,
+        53,
         66,
         68,
         74,
@@ -5011,8 +5015,8 @@
     }
   },
   "skillPoints": {
-    "total": 361,
-    "unassigned": 7,
+    "total": 362,
+    "unassigned": 8,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -5022,7 +5026,7 @@
     "endlessArchive": 0,
     "skyshardPoints": 173,
     "totalSkyshards": 520,
-    "zoneQuestTotal": 56,
+    "zoneQuestTotal": 57,
     "groupDungeonTotal": 4,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -5095,7 +5099,7 @@
       "EP3": 3,
       "DC1": 4,
       "EP4": 3,
-      "HB": 5,
+      "HB": 6,
       "CL": 0,
       "SU": 0,
       "MM": 0,
@@ -7177,6 +7181,8 @@
     5531,
     5532,
     5534,
+    5535,
+    5545,
     5549,
     5556,
     5572,
@@ -10557,7 +10563,9 @@
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6
       ],
       "2": [
         1,
