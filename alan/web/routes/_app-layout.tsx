@@ -4,6 +4,7 @@ import { AuthProvider } from "akasha/alan/web/modules/alan-auth-provider/alan-au
 import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import { API_ORIGIN } from "akasha/alan/web/modules/api-origin/api-origin.module.code.ts"
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
+import { PagesUIRouterAdapter } from "akasha/code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
 import { WEB_APP } from "akasha/infrastructure/service/akasha-service/web-app/modules/naming/web-app-naming.module.code.ts"
 import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
@@ -37,7 +38,9 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
         >
           <Outlet />
         </AppShell>
-        <NarrationBar />
+        <PagesUIRouterAdapter>
+          <NarrationBar />
+        </PagesUIRouterAdapter>
       </NarrationProvider>
       <Toaster />
     </AuthProvider>
