@@ -132,6 +132,10 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A word in jumbled case is set right before any other rule reads it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A homograph whose sense the words beside it settle is handed on with that reading.",
     },
@@ -145,6 +149,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-10T11:33:12.909Z",
+  updatedAt: "2026-10-10T15:43:18.979Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module

@@ -2,7 +2,32 @@ import { describe, expect, test } from "bun:test"
 import {
   numberedOf,
   shoutedOf,
+  unjumbledOf,
 } from "akasha/story/chapter/narration/modules/words/narration-words.module.code.ts"
+
+describe("unjumbledOf", () => {
+  test("a word in jumbled case keeps its first letter and lowers the rest", () => {
+    expect(unjumbledOf("“WhAt is ThERe? You are an AbErAtiOn. iDiOt. YOu. rEFuSe!”")).toBe(
+      "“What is There? You are an Aberation. idiot. You. refuse!”"
+    )
+  })
+
+  test("names joined in capitals, brands, units and plural acronyms are left as written", () => {
+    expect(
+      unjumbledOf(
+        "BlackMage, YouTube, McDonald's, iPhone, Az'Kerash, d'Artien, twinTrouble, pH, NPCs, PhD"
+      )
+    ).toBe(
+      "BlackMage, YouTube, McDonald's, iPhone, Az'Kerash, d'Artien, twinTrouble, pH, NPCs, PhD"
+    )
+  })
+
+  test("a run of words joined without spaces and markup are left as written", () => {
+    expect(unjumbledOf("IquitthefightIapologize and [KiLl](/k/) KiLl")).toBe(
+      "IquitthefightIapologize and [KiLl](/k/) Kill"
+    )
+  })
+})
 
 describe("shoutedOf", () => {
   test("a shouted word of four letters or more is said as the word, stressed", () => {

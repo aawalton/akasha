@@ -142,3 +142,32 @@ function shouted(found: string, markup: string | undefined, word: string | undef
 export function shoutedOf(sentence: string): string {
   return sentence.replace(SHOUTED, shouted)
 }
+
+const WRITTEN =
+  /(\[[^\]]*\]\([^)]*\))|(?<![\p{L}\p{N}'’])(\p{L}[\p{L}'’]*\p{L})(?![\p{L}\p{N}'’])/gu
+const TURNED = /\p{Ll}[\p{L}'’]*\p{Lu}|^\p{Lu}{2,}\p{Ll}/u
+const TAILED = /^\p{Lu}+(?:s|['’]s|uh|z|ing)$/u
+const CAMEL = /^(?:\p{Ll}{2,}|\p{Lu}\p{Ll}{2,}|Mc|Mac|De|Di|La|Le|Du)(?:\p{Lu}\p{Ll}{2,})+$/u
+const BRANDED = /^[ie]\p{Lu}\p{Ll}{2,}(?:['’]s)?$/u
+const JOINED =
+  /^(?:\p{Lu}\p{Ll}*|[dDlL])['’]\p{Lu}\p{Ll}+(?:['’]s)?$|^\p{Lu}\p{Ll}{4,}(?:\p{Lu}|TM)$/u
+const POSSESSED = /['’]s$/u
+const WRITTEN_SO: ReadonlySet<string> = new Set(["pH", "mL", "PhD", "LitRPG"])
+const RAMBLING = 12
+
+function meantSo(word: string): boolean {
+  if (WRITTEN_SO.has(word) || TAILED.test(word)) return true
+  if (word.replace(APOSTROPHES, "").length > RAMBLING) return true
+  return CAMEL.test(word.replace(POSSESSED, "")) || BRANDED.test(word) || JOINED.test(word)
+}
+
+function unjumbled(found: string, markup: string | undefined, word: string | undefined): string {
+  if (markup !== undefined || word === undefined || !TURNED.test(word) || meantSo(word)) {
+    return found
+  }
+  return `${word.charAt(0)}${word.slice(1).toLowerCase()}`
+}
+
+export function unjumbledOf(line: string): string {
+  return line.replace(WRITTEN, unjumbled)
+}

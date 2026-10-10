@@ -36,7 +36,17 @@ export const narrationWords = {
       statement:
         "A capital word with no vowel, or of under four letters otherwise, is said as written.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A word in jumbled case, as an Aberration writes, is handed on lowered past its first letter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Capitalised words run together, a brand, a unit or a run of words with no spaces stay written.",
+    },
   ],
   createdAt: "2026-10-08T19:12:09.635Z",
-  updatedAt: "2026-10-08T19:14:30.954Z",
+  updatedAt: "2026-10-10T15:43:18.979Z",
 } as const satisfies Module

@@ -228,7 +228,7 @@ describe("narrationSegmentsOf", () => {
       said("Start.\nGnolls and a gnoll; GNOLL! Drake saw a drake. gNoLL stays, and he took a bow.")
     ).toEqual([
       "Start.",
-      "[Gnolls](/nˈOlz/) and a [gnoll](/nˈOl/); [GNOLL](/nˈOl/)! Draik saw a draik. gNoLL stays, and he took a [bow](/bˈW/).",
+      "[Gnolls](/nˈOlz/) and a [gnoll](/nˈOl/); [GNOLL](/nˈOl/)! Draik saw a draik. [gnoll](/nˈOl/) stays, and he took a [bow](/bˈW/).",
     ])
   })
 
