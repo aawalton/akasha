@@ -272,6 +272,13 @@ describe("sentencesOf", () => {
     ).toEqual(["Mr. Hale met Dr. Ruiz on St. Anne's Street.", "J. R. waved, e.g. twice."])
   })
 
+  test("a part named Pt. ends no sentence", () => {
+    expect(sentencesOf("Go to Interlude – Hectval Pt. 2 and find it. Then rest.")).toEqual([
+      "Go to Interlude – Hectval Pt. 2 and find it.",
+      "Then rest.",
+    ])
+  })
+
   test("a closing quote stays with its sentence", () => {
     expect(sentencesOf("“Run!” she said. “Now.” He ran.")).toEqual([
       "“Run!” she said.",

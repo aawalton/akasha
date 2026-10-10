@@ -108,6 +108,7 @@ const ABBREVIATIONS: ReadonlySet<string> = new Set([
   "sgt",
   "rev",
   "approx",
+  "pt",
 ])
 
 const PATTERN_MARK = /[.*+?^${}()|[\]\\]/g

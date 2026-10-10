@@ -39,7 +39,8 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A title or an initial ends no sentence, and a closing quote stays with its own.",
+      statement:
+        "A title, an initial or Pt. ends no sentence, and a closing quote stays with its own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -144,6 +145,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-10T11:32:47.338Z",
+  updatedAt: "2026-10-10T11:33:12.909Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module
