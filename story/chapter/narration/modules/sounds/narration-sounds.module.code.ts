@@ -20,7 +20,10 @@ const SAID_WHOLE: ReadonlySet<string> = new Set([
 ])
 const LETTER_RUN = /(\p{L})\1+/gu
 
+const ALL_CAPS = /^\p{Lu}{2,}$/u
+
 function brokenOff(fragment: string): string {
+  if (ALL_CAPS.test(fragment)) return fragment
   const said = fragment.toLowerCase().replace(LETTER_RUN, "$1")
   return SAID_WHOLE.has(said) ? fragment : `${fragment}uh`
 }

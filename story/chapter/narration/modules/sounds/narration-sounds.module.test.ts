@@ -36,6 +36,12 @@ describe("soundedOf", () => {
     )
   })
 
+  test("a word in capitals broken off is given no added uh", () => {
+    expect(soundedOf("“The TV— GPS... STOP— PG–” N— Wh—")).toBe(
+      "“The TV— GPS... STOP— PG–” N— Whuh—"
+    )
+  })
+
   test("a word with a vowel is left as written", () => {
     expect(soundedOf("Mr. Brt went— away.")).toBe("Mr. Brt went— away.")
   })

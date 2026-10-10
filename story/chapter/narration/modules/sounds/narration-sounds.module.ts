@@ -14,6 +14,10 @@ export const narrationSounds = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A word in capitals broken off, such as TV or GPS, is given no added uh.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A sound with no vowel, such as a hum or a hush, is never given an added uh.",
     },
     {
@@ -45,5 +49,5 @@ export const narrationSounds = {
     },
   ],
   createdAt: "2026-10-08T19:07:44.817Z",
-  updatedAt: "2026-10-08T23:07:04.612Z",
+  updatedAt: "2026-10-10T15:51:15.516Z",
 } as const satisfies Module
