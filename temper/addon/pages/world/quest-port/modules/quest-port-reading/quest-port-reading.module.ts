@@ -44,7 +44,16 @@ export const questPortReading = {
       decisionKind: "decision-kind/departure",
       statement: "The T key's owners are read with the other captures, out of the same table.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A press that probed shows where the player was, then each probe in the order asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A probe the game never answered says whether it timed out or was never asked.",
+    },
   ],
   createdAt: "2026-10-08T17:09:47.146Z",
-  updatedAt: "2026-10-08T17:48:20.297Z",
+  updatedAt: "2026-10-10T13:56:24.919Z",
 } as const satisfies Module

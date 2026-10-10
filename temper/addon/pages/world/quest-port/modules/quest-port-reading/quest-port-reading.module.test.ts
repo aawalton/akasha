@@ -4,6 +4,7 @@ import {
   capturesIn,
   drawnLines,
   journalLines,
+  PRESS,
   pressLines,
   QUEST_PORT_SAVED_VARIABLES,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-reading/quest-port-reading.module.code.ts"
@@ -173,6 +174,45 @@ describe("quest-port-reading", () => {
     expect(lines).toContain("insideCurrentMapWorld=true breadcrumb=true")
     expect(lines).toContain('wayshrine "Anvil Wayshrine"')
     expect(lines).toContain("said: Porting to Anvil Wayshrine")
+  })
+
+  test("a breadcrumb press shows where the player was and every probe, asked or not", () => {
+    const press = PRESS.parse({
+      at: 400,
+      character: "Maviola El",
+      mapSteps: [],
+      answer: { xLoc: 0.4, yLoc: 0.6, isBreadcrumb: true },
+      answerUniversal: { x: 0.5, y: 0.25 },
+      player: { map: MAP, x: 0.1, y: 0.2, universal: { x: 0.3, y: 0.4 } },
+      probes: {
+        "1": {
+          label: "own-map",
+          result: 2,
+          map: MAP,
+          answer: { xLoc: 0.7, yLoc: 0.8, isBreadcrumb: false },
+          universal: { x: 0.55, y: 0.35 },
+        },
+        "2": { label: "zoom-out 1", result: 2, map: MAP, timedOut: true },
+        "3": { label: "quest-zone", result: 0, map: MAP },
+      },
+      said: [],
+    })
+    const lines = pressLines(press)
+    expect(lines).toContain(
+      "    answer: x=0.4 y=0.6 radius=undefined pin=undefined insideCurrentMapWorld=undefined" +
+        " breadcrumb=true teleportNPC=undefined waypoint=undefined symbolic=undefined" +
+        " extra=(undefined, undefined) universal (0.5, 0.25)"
+    )
+    expect(lines).toContain(
+      '    player at (0.1, 0.2) universal (0.3, 0.4) on "Gold Coast" id=9 type=2 content=0 zone=3 "Gold Coast"'
+    )
+    expect(lines).toContain(
+      '    probe own-map -> 2: "Gold Coast" id=9 type=2 content=0 zone=3 "Gold Coast"'
+    )
+    expect(lines.join("\n")).toContain("breadcrumb=false")
+    expect(lines.join("\n")).toContain("universal (0.55, 0.35)")
+    expect(lines).toContain("      no answer in time")
+    expect(lines.at(-1)).toBe("      not asked")
   })
 
   test("a move to the next quest shows each reading, and one never taken says so", () => {

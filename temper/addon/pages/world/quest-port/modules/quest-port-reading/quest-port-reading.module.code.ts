@@ -79,6 +79,19 @@ const CANDIDATE = z.object({
   distance: z.number(),
 })
 
+const UNIVERSAL = z.object({ x: z.number(), y: z.number() })
+
+const PROBE = z.object({
+  label: z.string(),
+  result: z.number(),
+  map: MAP,
+  answer: ANSWER.optional(),
+  universal: UNIVERSAL.optional(),
+  timedOut: z.boolean().optional(),
+})
+
+const PLAYER = z.object({ map: MAP, x: z.number(), y: z.number(), universal: UNIVERSAL })
+
 const RECALL = z.object({
   remain: z.number(),
   blockedFor: z.number(),
@@ -98,12 +111,15 @@ export const PRESS = z.object({
   mapSteps: luaArrayOrEmpty(MAP_STEP),
   taskId: z.number().optional(),
   answer: ANSWER.optional(),
+  answerUniversal: UNIVERSAL.optional(),
   timedOut: z.boolean().optional(),
   nodesRead: z.number().optional(),
   candidatesKept: z.number().optional(),
   closest: luaArrayOrEmpty(CANDIDATE).optional(),
   target: CANDIDATE.optional(),
   recall: RECALL.optional(),
+  player: PLAYER.optional(),
+  probes: luaArrayOrEmpty(PROBE).optional(),
   said: luaArrayOrEmpty(z.string()),
 })
 
@@ -268,13 +284,7 @@ export function pressLines(press: PressReading): readonly string[] {
   }
   if (press.taskId !== undefined) lines.push(`    task ${String(press.taskId)}`)
   if (press.answer !== undefined) {
-    const a = press.answer
-    lines.push(
-      `    answer: x=${String(a.xLoc)} y=${String(a.yLoc)} radius=${String(a.areaRadius)} pin=${String(a.pinType)}` +
-        ` insideCurrentMapWorld=${String(a.insideCurrentMapWorld)} breadcrumb=${String(a.isBreadcrumb)}` +
-        ` teleportNPC=${String(a.teleportNPCId)} waypoint=${String(a.waypointId)} symbolic=${String(a.symbolicState)}` +
-        ` extra=(${String(a.additionalSymbolicLocX)}, ${String(a.additionalSymbolicLocY)})`
-    )
+    lines.push(`    answer: ${answerText(press.answer)}${universalText(press.answerUniversal)}`)
   }
   if (press.timedOut === true) lines.push("    the game gave no answer in time")
   if (press.nodesRead !== undefined) {
@@ -296,7 +306,40 @@ export function pressLines(press: PressReading): readonly string[] {
       `    recall: remain=${String(r.remain)} blockedFor=${String(r.blockedFor)} cost=${String(r.cost)} money=${String(r.money)}`
     )
   }
+  lines.push(...probeLines(press))
   for (const said of press.said) lines.push(`    said: ${said}`)
+  return lines
+}
+
+function answerText(a: z.infer<typeof ANSWER>): string {
+  return (
+    `x=${String(a.xLoc)} y=${String(a.yLoc)} radius=${String(a.areaRadius)} pin=${String(a.pinType)}` +
+    ` insideCurrentMapWorld=${String(a.insideCurrentMapWorld)} breadcrumb=${String(a.isBreadcrumb)}` +
+    ` teleportNPC=${String(a.teleportNPCId)} waypoint=${String(a.waypointId)} symbolic=${String(a.symbolicState)}` +
+    ` extra=(${String(a.additionalSymbolicLocX)}, ${String(a.additionalSymbolicLocY)})`
+  )
+}
+
+function universalText(at: z.infer<typeof UNIVERSAL> | undefined): string {
+  return at === undefined ? "" : ` universal (${String(at.x)}, ${String(at.y)})`
+}
+
+function probeLines(press: PressReading): readonly string[] {
+  const lines: string[] = []
+  const player = press.player
+  if (player !== undefined) {
+    lines.push(
+      `    player at (${String(player.x)}, ${String(player.y)})${universalText(player.universal)} on ${mapLine(player.map)}`
+    )
+  }
+  for (const probe of press.probes ?? []) {
+    lines.push(`    probe ${probe.label} -> ${String(probe.result)}: ${mapLine(probe.map)}`)
+    if (probe.answer !== undefined) {
+      lines.push(`      answer: ${answerText(probe.answer)}${universalText(probe.universal)}`)
+    } else {
+      lines.push(probe.timedOut === true ? "      no answer in time" : "      not asked")
+    }
+  }
   return lines
 }
 
