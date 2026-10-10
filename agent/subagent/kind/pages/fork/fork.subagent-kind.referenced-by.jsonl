@@ -1,14 +1,5 @@
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a12b8bc2465821c30/rhia-a12b8bc2465821c30.subagent.ts","id":"01a126fa-1b01-773f-af09-ca3974bbad83"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a1f645808eb93d110/rhia-a1f645808eb93d110.subagent.ts","id":"01a126ff-39ca-72be-a1b6-378bc6f30565"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a303608a6323369cb/rhia-a303608a6323369cb.subagent.ts","id":"01a126fa-3c92-74f5-9200-05d39d328ae3"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a6ba12b3d18b34654/rhia-a6ba12b3d18b34654.subagent.ts","id":"01a126fa-cfea-7c49-aafd-9caa90f91fc0"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a8355ea251e428dde/rhia-a8355ea251e428dde.subagent.ts","id":"01a126fa-2bbd-79c4-9647-ed1d6b371d08"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a840cdd3d5d4f3213/rhia-a840cdd3d5d4f3213.subagent.ts","id":"01a126fb-0a5f-70b9-964a-207af620ceed"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a8d16c595812c10af/rhia-a8d16c595812c10af.subagent.ts","id":"01a126fa-28c2-75f5-8345-feecf737a6fb"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-ac4257b18a8b23a9d/rhia-ac4257b18a8b23a9d.subagent.ts","id":"01a126ff-546a-7000-9f46-819d59028cff"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-acc7e84f42c411c98/rhia-acc7e84f42c411c98.subagent.ts","id":"01a126fa-09ec-7437-a482-1768658b06d9"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-ad5dc3a5d57e9b93c/rhia-ad5dc3a5d57e9b93c.subagent.ts","id":"01a126fa-4e0b-7203-aae6-0283fb07d49a"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-aff0f51f740e7b1ec/rhia-aff0f51f740e7b1ec.subagent.ts","id":"01a126fa-3cda-702f-bf0b-3e777ce7bd29"}
