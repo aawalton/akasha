@@ -15,7 +15,7 @@ export const allTheSkillsADeckbuildingLitrpg = {
   ],
   author: "HonourRae",
   grade: "B",
-  following: true,
+  following: false,
   externalTags: [
     "LitRPG",
     "Progression",
@@ -32,5 +32,5 @@ export const allTheSkillsADeckbuildingLitrpg = {
   unit: "unit/words",
   prose: "txt",
   createdAt: "2026-09-03T04:18:50.400Z",
-  updatedAt: "2026-10-10T14:05:38.007Z",
+  updatedAt: "2026-10-10T21:03:28.452Z",
 } as const satisfies StoryRead
