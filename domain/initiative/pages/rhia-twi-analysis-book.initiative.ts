@@ -19,7 +19,9 @@ export const rhiaTwiAnalysisBook = {
     "At most 20 agents run at once.",
     "Alan's aspects are starting hypotheses the book tests against the text.",
     "Alan approves any aspect removed, changed in a major way, or added.",
+    "Alan judges the book through agent critique and his conversations with Rhia about it.",
+    "Judging the fiction that agents write from the book is outside this initiative.",
   ],
   createdAt: "2026-10-10T16:42:36.659Z",
-  updatedAt: "2026-10-10T16:59:35.051Z",
+  updatedAt: "2026-10-10T17:00:47.749Z",
 } as const satisfies Initiative
