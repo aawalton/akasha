@@ -14,6 +14,7 @@ const HULLS =
   "ship|ships|vessel|boat|galleon|frigate|warship|sloop|barge|airship|skyship|flagship|longboat|canoe|raft|schooner|carrack|caravel"
 const ARMS =
   "swords?|spears?|wands?|spells?|daggers?|blades?|axes?|crossbows?|slings?|shields?|pikes?|javelins?|quivers?|arrows?"
+const RIPPING = "at|through|into|open|apart|off|free|loose|away|across|out(?!\\s+of)"
 const BOW_SAID = { bent: ["bˈW", "bˈWz"], strung: ["bˈO", "bˈOz"] } as const
 const CALM =
   "was|were|is|are|am|be|been|being|seem|seems|seemed|seeming|look|looks|looked|feel|feels|felt|remain|remains|remained|stay|stays|stayed|quite|very|perfectly|so|not|too|fairly|rather|reasonably|entirely|wholly|utterly|merely|simply|almost|mostly|happily|sleepily|seemingly|apparently"
@@ -48,6 +49,37 @@ const READINGS: readonly Reading[] = [
     found:
       /\b(tears)(?=\s+(?:still\s+)?(?:in|on|streaming|running|rolling|from|out\s+of|alone|again)\b)(?!\s+in\s+(?:half|two)\b)/giu,
     said: "tˈɪɹz",
+  },
+  {
+    found:
+      /\b(tear)\s+(?=up(?:\s*[,.!?;—…”]|\s+(?:a\s+bit|a\s+little|again|especially|every|at|when|as|over)\b))/giu,
+    said: "tˈɪɹ",
+  },
+  { found: /\bwear\s+and\s+(tear)\b/giu, said: "tˈɛɹ" },
+  { found: /\bon\s+a\s+(tear)\b/giu, said: "tˈɛɹ" },
+  {
+    found: new RegExp(`(?<!\\b(?:a|an)\\s)\\b(tear)(?=\\s+(?:${RIPPING})\\b)`, "giu"),
+    said: "tˈɛɹ",
+  },
+  {
+    found:
+      /\b(tear)(?=\s+in\b)(?!\s+in\s+(?:(?:her|his|their|my|your|its|the|one)\s+)?(?:\p{L}+\s+)?eyes?\b)/giu,
+    said: "tˈɛɹ",
+  },
+  {
+    found:
+      /\b(?:to|will|would|could|can|might|must|should|shall|did|didn['’]t|don['’]t|doesn['’]t|won['’]t|can['’]t|cannot|and|or)\s+(tear)\b(?!\s+(?:up|down|ducts?|tracks?|marks?|stained|drops?)\b)/giu,
+    said: "tˈɛɹ",
+  },
+  {
+    found:
+      /\b(?:sinews?|muscles?|flesh|skin|arms?|metal|veil|cloth|fabric|parchment|paper|ligaments?|tendons?)\s+(tear)\b(?!\s+(?:ducts?|tracks?))/giu,
+    said: "tˈɛɹ",
+  },
+  {
+    found:
+      /\b(?:felt|feel|feels|feeling|saw|see|sees|watched|heard)\s+(?!(?:a|an|the|every|one|no|like)\b)(?:(?!(?:a|an|shed\p{L}*)\b)[\p{L}’'-]+\s+){1,3}?(tear)\b/giu,
+    said: "tˈɛɹ",
   },
   { found: /\b(legged)\s+(?=it\b)/giu, said: "lˈɛɡd" },
   {

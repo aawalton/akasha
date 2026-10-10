@@ -34,6 +34,16 @@ describe("homographsOf", () => {
     )
   })
 
+  test("a tear ripped is told from a tear cried by the words beside it", () => {
+    expect(
+      homographsOf(
+        "Wear and tear. He was on a tear. Claws tear at him. A tear in the cloth. She felt sinews tear. Made her tear up. A tear in her eyes. Shed a tear at that."
+      )
+    ).toBe(
+      "Wear and [tear](/tˈɛɹ/). He was on a [tear](/tˈɛɹ/). Claws [tear](/tˈɛɹ/) at him. A [tear](/tˈɛɹ/) in the cloth. She felt sinews [tear](/tˈɛɹ/). Made her [tear](/tˈɪɹ/) up. A tear in her eyes. Shed a tear at that."
+    )
+  })
+
   test("legged it is one syllable, and legged otherwise is left", () => {
     expect(homographsOf("He legged it. A four-legged beast.")).toBe(
       "He [legged](/lˈɛɡd/) it. A four-legged beast."

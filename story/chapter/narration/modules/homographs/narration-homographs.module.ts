@@ -52,6 +52,10 @@ export const narrationHomographs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A tear done to something, or in something but the eyes, is ripping.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Markup already handed on is never read again.",
     },
     {
@@ -68,5 +72,5 @@ export const narrationHomographs = {
     },
   ],
   createdAt: "2026-10-08T19:44:53.690Z",
-  updatedAt: "2026-10-10T17:02:00.232Z",
+  updatedAt: "2026-10-10T17:06:59.202Z",
 } as const satisfies Module
