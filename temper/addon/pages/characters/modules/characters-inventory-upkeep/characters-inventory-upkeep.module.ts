@@ -4,12 +4,12 @@ export const charactersInventoryUpkeep = {
   id: "01a0dee5-fc86-7cee-bb08-6e8be41ee7e7",
   type: "page-type/module",
   slug: "characters-inventory-upkeep",
-  definition: "whether a character banked today and holds only what belongs with her",
+  definition: "whether a character holds only what belongs with her today",
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A bank visit counts only at the player's own bank, never at a house chest.",
+      decisionKind: "decision-kind/absence",
+      statement: "No daily bank visit is asked of a character.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -17,8 +17,11 @@ export const charactersInventoryUpkeep = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The hint is the inventory plan's own lines, with a bank line where no bank line is.",
+      statement: "The hint is the inventory plan's own lines and nothing more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character is kept once today's check finds nothing misplaced.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,5 +33,5 @@ export const charactersInventoryUpkeep = {
     },
   ],
   createdAt: "2026-09-26T18:06:49.478Z",
-  updatedAt: "2026-09-26T18:07:26.000Z",
+  updatedAt: "2026-10-10T14:38:56.873Z",
 } as const satisfies Module

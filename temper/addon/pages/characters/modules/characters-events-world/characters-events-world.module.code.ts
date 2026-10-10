@@ -11,10 +11,7 @@ import {
   recordDailyWritCompletion,
 } from "akasha/temper/addon/pages/characters/modules/characters-daily-writs/characters-daily-writs.module.code.ts"
 import { collectGrandMasterStations } from "akasha/temper/addon/pages/characters/modules/characters-grand-master-stations/characters-grand-master-stations.module.code.ts"
-import {
-  recordBankVisit,
-  recordInventoryCheck,
-} from "akasha/temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.code.ts"
+import { recordInventoryCheck } from "akasha/temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.code.ts"
 import { collectMountTraining } from "akasha/temper/addon/pages/characters/modules/characters-mount-training/characters-mount-training.module.code.ts"
 import {
   collectPointsOfInterest,
@@ -203,18 +200,6 @@ export function registerCompletionWorldEvents(): undefined {
       if (responseType !== TRADING_HOUSE_RESULT_POST_PENDING) return
       if (result !== TRADING_HOUSE_RESULT_SUCCESS) return
       getSavedVariables().guildSalesPostedDate = getEsoDayStringFromSec(GetTimeStamp())
-      scheduleTaskAutoCompletionCheck()
-    }
-  )
-
-  EVENT_MANAGER.RegisterForEvent(
-    ADDON_NAME + "_OpenBank",
-    EVENT_OPEN_BANK,
-    function (this: void, _event: number, bankBag: number): undefined {
-      if (bankBag !== BAG_BANK) return
-      const charEntry = currentCharacterEntry()
-      if (charEntry === undefined) return
-      recordBankVisit(charEntry)
       scheduleTaskAutoCompletionCheck()
     }
   )

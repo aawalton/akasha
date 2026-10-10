@@ -47,7 +47,11 @@ export const completionCardCheckers = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A character keeps her inventory today once she banked today and holds nothing misplaced.",
+        "A character keeps her inventory today once today's check finds nothing misplaced.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No daily bank visit counts toward keeping a character's inventory.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,5 +60,5 @@ export const completionCardCheckers = {
     },
   ],
   createdAt: "2026-09-02T21:35:11.002Z",
-  updatedAt: "2026-09-27T10:04:16.000Z",
+  updatedAt: "2026-10-10T14:38:56.873Z",
 } as const satisfies Module

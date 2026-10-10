@@ -18,8 +18,6 @@ import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
-const BANK_LABEL = "Bank"
-
 const UNORDERED = 1_000_000
 
 function today(): string {
@@ -27,21 +25,11 @@ function today(): string {
 }
 
 function isInventoryKept(
-  completion: Pick<CharacterCompletion, "bankVisitDate" | "inventoryCheck"> | undefined,
+  completion: Pick<CharacterCompletion, "inventoryCheck"> | undefined,
   day: string
 ): boolean {
-  if (completion === undefined) return false
-  const check = completion.inventoryCheck
-  return (
-    completion.bankVisitDate === day &&
-    check !== undefined &&
-    check.date === day &&
-    check.misplaced === 0
-  )
-}
-
-export function recordBankVisit(charEntry: SavedCharacterEntry): undefined {
-  charEntry.bankVisitDate = today()
+  const check = completion?.inventoryCheck
+  return check !== undefined && check.date === day && check.misplaced === 0
 }
 
 export function recordInventoryCheck(charEntry: SavedCharacterEntry): undefined {
@@ -53,7 +41,7 @@ export function recordInventoryCheck(charEntry: SavedCharacterEntry): undefined 
 }
 
 export function resolveInventoryUpkeep(
-  completion: Pick<CharacterCompletion, "bankVisitDate" | "inventoryCheck"> | undefined
+  completion: Pick<CharacterCompletion, "inventoryCheck"> | undefined
 ): TaskProgress {
   return { current: isInventoryKept(completion, today()) ? 1 : 0, total: 1 }
 }
@@ -99,16 +87,11 @@ export function getInventoryUpkeepHint(): readonly InventoryHintLine[] {
   }
 
   const venues = globalThis.TemperItems?.getInventoryActionSummary()?.venues ?? []
-  const lines: InventoryHintLine[] = venues.map(
+  return venues.map(
     (venue): InventoryHintLine => ({
       text: venue.line,
       venue: venue.label,
       items: (venue.items ?? []).map((item) => shownItem(item, venue.label)),
     })
   )
-  const bankInPlan = venues.some((venue) => venue.label === BANK_LABEL)
-  if (current?.bankVisitDate !== day && !bankInPlan) {
-    lines.unshift({ text: `${BANK_LABEL} — visit today` })
-  }
-  return lines
 }

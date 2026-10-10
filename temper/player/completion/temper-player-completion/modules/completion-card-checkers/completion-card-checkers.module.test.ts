@@ -128,50 +128,24 @@ describe("character-achievements", () => {
 describe("inventory-management", () => {
   const today = getEsoDateString()
 
-  test("a character is done once she banked today and nothing she holds is misplaced", () => {
-    expect(
-      isInventoryKeptToday({
-        bankVisitDate: today,
-        inventoryCheck: { date: today, misplaced: 0 },
-      })
-    ).toBe(true)
-  })
-
-  test("a character who has not banked today is not done", () => {
-    expect(
-      isInventoryKeptToday({
-        bankVisitDate: "2000-01-01",
-        inventoryCheck: { date: today, misplaced: 0 },
-      })
-    ).toBe(false)
+  test("a character is done once today's check finds nothing misplaced", () => {
+    expect(isInventoryKeptToday({ inventoryCheck: { date: today, misplaced: 0 } })).toBe(true)
   })
 
   test("a character holding a misplaced item is not done", () => {
-    expect(
-      isInventoryKeptToday({
-        bankVisitDate: today,
-        inventoryCheck: { date: today, misplaced: 2 },
-      })
-    ).toBe(false)
+    expect(isInventoryKeptToday({ inventoryCheck: { date: today, misplaced: 2 } })).toBe(false)
   })
 
   test("a check from another day does not count", () => {
-    expect(
-      isInventoryKeptToday({
-        bankVisitDate: today,
-        inventoryCheck: { date: "2000-01-01", misplaced: 0 },
-      })
-    ).toBe(false)
+    expect(isInventoryKeptToday({ inventoryCheck: { date: "2000-01-01", misplaced: 0 } })).toBe(
+      false
+    )
   })
 
   test("the card counts one for a character who is done", () => {
     const inventory = COMPLETION_CARD_CHECKERS["inventory-management"]
     expect(
-      inventory?.getItemProgress?.(
-        { bankVisitDate: today, inventoryCheck: { date: today, misplaced: 0 } },
-        [],
-        CATALOGS
-      )
+      inventory?.getItemProgress?.({ inventoryCheck: { date: today, misplaced: 0 } }, [], CATALOGS)
     ).toEqual({ current: 1, total: 1 })
     expect(inventory?.getItemProgress?.({}, [], CATALOGS)).toEqual({ current: 0, total: 1 })
   })

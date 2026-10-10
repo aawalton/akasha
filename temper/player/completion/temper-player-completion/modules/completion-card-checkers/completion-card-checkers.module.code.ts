@@ -33,12 +33,7 @@ export function isInventoryKeptToday(completion: CharacterCompletion | null | un
   if (!completion) return false
   const today = getEsoDateString()
   const check = completion.inventoryCheck
-  return (
-    completion.bankVisitDate === today &&
-    check !== undefined &&
-    check.date === today &&
-    check.misplaced === 0
-  )
+  return check !== undefined && check.date === today && check.misplaced === 0
 }
 
 export const COMPLETION_CARD_CHECKERS: Partial<
