@@ -108,6 +108,27 @@ describe("updateViewConfig", () => {
     expect(roundTripped({ filters })?.filters).toEqual(filters)
   })
 
+  it("keeps a filter strictly above or at most a number as the filter it was", () => {
+    const filters = [
+      { propertyId: "totalRemainingInWords", operator: "gt", value: "0" },
+      { propertyId: "totalRemainingInWords", operator: "lte", value: "5000" },
+    ]
+    const effects = updateViewConfig(ROWS, { id: VIEW_ID, updates: { filters } }, CTX)
+    expect(applied(SAVED, effects).narrows).toEqual([
+      { key: "total-remaining-in-words", comparison: "after", values: ["0"] },
+      { key: "total-remaining-in-words", comparison: "at-or-before", values: ["5000"] },
+    ])
+    expect(roundTripped({ filters })?.filters).toEqual(filters)
+  })
+
+  it("writes a number a filter is above as the text of that number", () => {
+    const filters = [{ propertyId: "totalRemainingInWords", operator: "gt", value: 0 }]
+    const effects = updateViewConfig(ROWS, { id: VIEW_ID, updates: { filters } }, CTX)
+    expect(applied(SAVED, effects).narrows).toEqual([
+      { key: "total-remaining-in-words", comparison: "after", values: ["0"] },
+    ])
+  })
+
   it("leaves a setting no update names as it is", () => {
     const back = roundTripped({ sorts: [{ field: "title", direction: "asc" }] })
     expect(back?.page_size).toBe(40)

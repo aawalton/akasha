@@ -17,6 +17,11 @@ export const reducers = {
       statement: "A filter on today is written as a narrow on the day or on the day after it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A filter above or at most a bound other than today is written as a narrow after or at or before it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A filter no narrow can say is left unwritten.",
     },
@@ -42,5 +47,5 @@ export const reducers = {
     },
   ],
   createdAt: "2026-09-01T06:05:33.511Z",
-  updatedAt: "2026-09-28T20:21:14.000Z",
+  updatedAt: "2026-10-10T12:55:01.088Z",
 } as const satisfies Module
