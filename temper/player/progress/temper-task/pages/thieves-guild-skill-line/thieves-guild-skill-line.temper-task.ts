@@ -10,7 +10,7 @@ export const thievesGuildSkillLine = {
   character: "temper-account-character/khelta-the-eternal",
   completionCard: "temper-completion-category/characters-skill-lines",
   completionItemPath: ["117"],
-  dueDate: "2026-10-10",
+  dueDate: "2026-11-01",
   rruleRule: "FREQ=DAILY;INTERVAL=1",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -22,5 +22,5 @@ export const thievesGuildSkillLine = {
   progressTotal: 240,
   progressCurrent: 197,
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-09T19:17:03.990Z",
+  updatedAt: "2026-10-10T12:56:08.786Z",
 } as const satisfies TemperTask
