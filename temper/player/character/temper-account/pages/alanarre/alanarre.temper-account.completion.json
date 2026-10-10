@@ -31524,7 +31524,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 1,
+            "numCompleted": 2,
             "numRequired": 5
           }
         }
@@ -89978,6 +89978,7 @@
     14989,
     14990,
     15065,
+    15066,
     15071
   ],
   "subclassingSkillLineProgress": {
