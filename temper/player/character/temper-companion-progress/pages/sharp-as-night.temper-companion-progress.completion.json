@@ -1,5 +1,7 @@
 {
   "build": {
+    "companionId": 8,
+    "mainHandWeaponType": 13,
     "skillAbilityIds": {
       "1": 152625,
       "2": 186603,
@@ -8,78 +10,10 @@
       "5": 155693,
       "6": 186488
     },
-    "companionId": 8,
-    "mainHandWeaponType": 13,
-    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
-    "armor": {
-      "1": {
-        "isEmpty": false,
-        "displayText": "Heavy, Focused",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "isEmpty": false,
-        "displayText": "Heavy, Focused",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "3": {
-        "isEmpty": false,
-        "displayText": "Heavy, Focused",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "4": {
-        "isEmpty": false,
-        "displayText": "Heavy, Focused",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "5": {
-        "isEmpty": false,
-        "displayText": "Heavy, Focused",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "6": {
-        "isEmpty": false,
-        "displayText": "Heavy, Focused",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "7": {
-        "isEmpty": false,
-        "displayText": "Heavy, Focused",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      }
-    },
     "jewelry": {
       "1": {
-        "isEmpty": false,
         "displayText": "Focused",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
@@ -87,8 +21,8 @@
         }
       },
       "2": {
-        "isEmpty": false,
         "displayText": "Shattering",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
@@ -96,8 +30,8 @@
         }
       },
       "3": {
-        "isEmpty": false,
         "displayText": "Shattering",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
@@ -107,8 +41,8 @@
     },
     "weapons": {
       "1": {
-        "isEmpty": false,
         "displayText": "Ice Staff, Shattering",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
@@ -116,15 +50,81 @@
         }
       },
       "2": {
-        "isEmpty": true,
         "displayText": "Empty",
+        "isEmpty": true,
         "qualityColor": {
           "1": 0.5,
           "2": 0.5,
           "3": 0.5
         }
       }
-    }
+    },
+    "armor": {
+      "1": {
+        "displayText": "Heavy, Focused",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "displayText": "Heavy, Focused",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "3": {
+        "displayText": "Heavy, Focused",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "4": {
+        "displayText": "Heavy, Focused",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "5": {
+        "displayText": "Heavy, Focused",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "6": {
+        "displayText": "Heavy, Focused",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "7": {
+        "displayText": "Heavy, Focused",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      }
+    },
+    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA"
   },
   "targetBuildHash": "AjEAUAaRpGkaRpGkaQkPDxTzqfA",
   "level": 20,
