@@ -5,6 +5,7 @@
   "classId": 4,
   "allianceId": 1,
   "raceId": 7,
+  "curseState": "vampire",
   "className": "Warden",
   "classIcon": "/esoui/art/icons/class/class_warden.dds",
   "achievements": {
@@ -11770,6 +11771,7 @@
       69,
       70,
       71,
+      74,
       75
     ],
     "19": [
@@ -13244,24 +13246,8 @@
   },
   "dailyWritStates": {
     "date": "2026-10-10",
-    "seen": [
-      5,
-      3,
-      4,
-      2,
-      1,
-      6,
-      7
-    ],
-    "completed": [
-      1,
-      6,
-      2,
-      7,
-      3,
-      4,
-      5
-    ]
+    "seen": [],
+    "completed": []
   },
   "bankVisitDate": "2026-10-10",
   "inventoryCheck": {
