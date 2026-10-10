@@ -5,7 +5,7 @@ export const rhia = {
   type: "page-type/seat",
   slug: "rhia",
   persona: "persona/rhia",
-  assignmentSlug: "domain/world-lore",
+  assignmentSlug: "initiative/rhia-twi-analysis-book",
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
@@ -13,5 +13,5 @@ export const rhia = {
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "01d84cc2-9d31-4c8c-a339-21955d57885d",
   createdAt: "2026-10-10T16:41:21.583Z",
-  updatedAt: "2026-10-10T16:41:24.529Z",
+  updatedAt: "2026-10-10T16:42:42.767Z",
 } as const satisfies Seat
