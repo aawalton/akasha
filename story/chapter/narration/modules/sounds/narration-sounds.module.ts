@@ -10,6 +10,10 @@ export const narrationSounds = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A word drawn out on three or more of one vowel is said as the word it draws out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A word broken off before its first vowel is said with an added uh.",
     },
     {
@@ -49,5 +53,5 @@ export const narrationSounds = {
     },
   ],
   createdAt: "2026-10-08T19:07:44.817Z",
-  updatedAt: "2026-10-10T15:51:15.516Z",
+  updatedAt: "2026-10-10T18:34:47.492Z",
 } as const satisfies Module

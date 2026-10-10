@@ -128,8 +128,48 @@ function schm(_found: string, s: string, h: string): string {
   return `${s}${h === "H" ? "C" : "c"}${h}`
 }
 
+const DRAWN_OUT = /(?<![\p{L}[/])\p{L}*([aeiouy])\1{2,}\p{L}*(?![\p{L}\]])/giu
+const VOWEL_RUN = /([aeiouy])\1{2,}/giu
+const NUMERAL = /^[ivxlcdm]+$/i
+const DOUBLED: ReadonlySet<string> = new Set([
+  "aargh",
+  "boo",
+  "cool",
+  "food",
+  "free",
+  "good",
+  "innkeeper",
+  "keep",
+  "moon",
+  "need",
+  "oof",
+  "ooh",
+  "oohed",
+  "oohing",
+  "please",
+  "roo",
+  "see",
+  "sleep",
+  "soon",
+  "sweet",
+  "too",
+  "vroom",
+  "wee",
+  "whee",
+  "woo",
+])
+
+function drawnIn(found: string): string {
+  if (NUMERAL.test(found)) return found
+  const doubled = found.replace(VOWEL_RUN, (run) => run.slice(0, 2))
+  if (DOUBLED.has(doubled.toLowerCase())) return doubled
+  const single = found.replace(VOWEL_RUN, "$1")
+  return single.toLowerCase() === "a" ? `${single}h` : single
+}
+
 export function soundedOf(line: string): string {
   return line
+    .replace(DRAWN_OUT, drawnIn)
     .replace(SHM, schm)
     .replace(VOWELLESS, grunted)
     .replace(STUTTER, stuttered)

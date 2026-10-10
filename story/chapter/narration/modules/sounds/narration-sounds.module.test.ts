@@ -42,6 +42,12 @@ describe("soundedOf", () => {
     )
   })
 
+  test("a word drawn out on a vowel is said as the word it draws out", () => {
+    expect(
+      soundedOf("“Nooo! WHAAAT? Aaaa. Goooood, Oooh, Aaargh. Booooored. LXXVIII.” [Mooo](/x/)")
+    ).toBe("“No! WHAT? Ah. Good, Ooh, Aargh. Bored. LXXVIII.” [Mooo](/x/)")
+  })
+
   test("a word with a vowel is left as written", () => {
     expect(soundedOf("Mr. Brt went— away.")).toBe("Mr. Brt went— away.")
   })
