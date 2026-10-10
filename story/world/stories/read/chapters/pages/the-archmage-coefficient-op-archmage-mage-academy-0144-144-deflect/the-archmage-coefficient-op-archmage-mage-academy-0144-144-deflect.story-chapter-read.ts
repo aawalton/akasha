@@ -20,5 +20,6 @@ export const theArchmageCoefficientOpArchmageMageAcademy0144144Deflect = {
     },
   ],
   createdAt: "2026-10-09T22:06:30.622Z",
-  updatedAt: "2026-10-09T22:06:30.622Z",
+  updatedAt: "2026-10-10T01:07:37.411Z",
+  ownProgress: 3604,
 } as const satisfies StoryChapterRead

@@ -20,5 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0160Ch160ASpecialGift = {
     },
   ],
   createdAt: "2026-10-09T23:05:52.331Z",
-  updatedAt: "2026-10-09T23:05:52.331Z",
+  updatedAt: "2026-10-10T01:07:37.411Z",
+  ownProgress: 2035,
 } as const satisfies StoryChapterRead
