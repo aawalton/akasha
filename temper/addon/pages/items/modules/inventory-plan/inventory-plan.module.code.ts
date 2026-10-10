@@ -63,9 +63,17 @@ export function resolveVenueLabel(venueKey: string): string {
   return venueKey
 }
 
+interface PlannedSlot {
+  bagId: number
+  slotIndex: number
+  verb: string
+  destination?: string
+}
+
 interface VenuePlan {
   venue: string
   verbs: Array<{ verb: string; count: number }>
+  slots: PlannedSlot[]
 }
 
 function backpackStockTotals(bagSize: number): LuaMap<number, number> {
@@ -97,7 +105,17 @@ function computePlanVenues(): VenuePlan[] | undefined {
   if (!compiled) return undefined
 
   const venueCounts = new LuaMap<string, Record<string, number>>()
+  const venueSlots = new LuaMap<string, PlannedSlot[]>()
   const dynamicHouseKeys: string[] = []
+
+  function noteSlot(venue: string, slot: PlannedSlot): undefined {
+    const slots = venueSlots.get(venue)
+    if (slots === undefined) {
+      venueSlots.set(venue, [slot])
+    } else {
+      slots.push(slot)
+    }
+  }
 
   function touch(venue: string): Record<string, number> {
     let counts = venueCounts.get(venue)
@@ -129,7 +147,9 @@ function computePlanVenues(): VenuePlan[] | undefined {
         return HasCraftBagAccess() && CanItemBeVirtual(bagId, slotIndex)
       }
     )
-    if (classified !== undefined) addToTally(touch(classified.venue), classified.verb, 1)
+    if (classified === undefined) return
+    addToTally(touch(classified.venue), classified.verb, 1)
+    noteSlot(classified.venue, { bagId, slotIndex, verb: classified.verb, destination })
   })
 
   const bagSize = GetBagSize(BAG_BACKPACK)
@@ -138,11 +158,9 @@ function computePlanVenues(): VenuePlan[] | undefined {
     if (getPendingAction(BAG_BACKPACK, slot) !== undefined) continue
     const [stackCount] = GetSlotStackSize(BAG_BACKPACK, slot)
     if (stackCount === 0) continue
-    if (IsItemStolen(BAG_BACKPACK, slot)) {
-      addToTally(touch("fence"), "sell", 1)
-    } else {
-      addToTally(touch("vendor"), "sell", 1)
-    }
+    const junkVenue = IsItemStolen(BAG_BACKPACK, slot) ? "fence" : "vendor"
+    addToTally(touch(junkVenue), "sell", 1)
+    noteSlot(junkVenue, { bagId: BAG_BACKPACK, slotIndex: slot, verb: "sell" })
   }
 
   const result: VenuePlan[] = []
@@ -154,7 +172,7 @@ function computePlanVenues(): VenuePlan[] | undefined {
     for (const [verb, count] of Object.entries(counts)) {
       verbs.push({ verb, count })
     }
-    result.push({ venue: venueKey, verbs })
+    result.push({ venue: venueKey, verbs, slots: venueSlots.get(venueKey) ?? [] })
   }
 
   for (const staticKey of VENUE_ORDER) {
@@ -169,10 +187,27 @@ function computePlanVenues(): VenuePlan[] | undefined {
   return result
 }
 
+interface PlanItem {
+  bagId: number
+  slotIndex: number
+  link: string
+  count: number
+  verb: string
+  destination?: string
+}
+
 interface PlanVenue {
   label: string
   count: number
   line: string
+  items: PlanItem[]
+}
+
+function planItems(slots: readonly PlannedSlot[]): PlanItem[] {
+  return slots.map((slot): PlanItem => {
+    const [count] = GetSlotStackSize(slot.bagId, slot.slotIndex)
+    return { ...slot, link: GetItemLink(slot.bagId, slot.slotIndex), count }
+  })
 }
 
 interface InventoryActionSummary {
@@ -186,11 +221,12 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
   if (!plan) return undefined
 
   let totalSlots = 0
-  const venues: Array<{ label: string; count: number }> = []
+  const venues: Array<{ label: string; count: number; items: PlanItem[] }> = []
   for (const entry of plan) {
     if (entry.venue === "crafting-station") {
       for (const v of entry.verbs) {
         totalSlots += v.count
+        const items = planItems(entry.slots.filter((slot) => slot.verb === v.verb))
         const label =
           v.verb === "deconstruct"
             ? "Deconstruct"
@@ -201,7 +237,7 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
                 : v.verb === "research"
                   ? "Research"
                   : resolveVenueLabel(entry.venue)
-        venues.push({ label, count: v.count })
+        venues.push({ label, count: v.count, items })
       }
     } else {
       let venueCount = 0
@@ -209,7 +245,11 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
         venueCount += v.count
       }
       totalSlots += venueCount
-      venues.push({ label: resolveVenueLabel(entry.venue), count: venueCount })
+      venues.push({
+        label: resolveVenueLabel(entry.venue),
+        count: venueCount,
+        items: planItems(entry.slots),
+      })
     }
   }
 

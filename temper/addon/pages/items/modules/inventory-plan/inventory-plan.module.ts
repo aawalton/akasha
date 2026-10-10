@@ -25,7 +25,11 @@ export const inventoryPlan = {
       decisionKind: "decision-kind/departure",
       statement: "A plan with nothing pending is an empty plan rather than no plan.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each venue carries the items it counts, so a list and its count always agree.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.854Z",
-  updatedAt: "2026-10-10T14:06:10.424Z",
+  updatedAt: "2026-10-10T14:22:33.834Z",
 } as const satisfies Module

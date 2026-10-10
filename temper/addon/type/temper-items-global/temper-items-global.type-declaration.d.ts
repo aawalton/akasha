@@ -18,9 +18,18 @@ interface TemperItemsSavedVariables {
   automation?: TemperItemsAutomation
 }
 
+interface TemperItemsPlanItem {
+  bagId: number
+  slotIndex: number
+  link: string
+  count: number
+  verb: string
+  destination?: string
+}
+
 interface TemperItemsActionSummary {
   totalSlots: number
-  venues: { label: string; count: number; line: string }[]
+  venues: { label: string; count: number; line: string; items: TemperItemsPlanItem[] }[]
 }
 
 interface TemperItemsApi {
