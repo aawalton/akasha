@@ -20,12 +20,15 @@ import {
   applyAction,
   clearAllPendingActions,
   clearPendingAction,
+  forEachPendingAction,
   getCompiledConfig,
+  isPendingActionStale,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { dispatchUseActions } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"
 import { resolveEntryAllocation } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts"
 import { setRescanInventoryRef } from "akasha/temper/addon/pages/items/modules/inventory-rules-rescan-ref/inventory-rules-rescan-ref.module.code.ts"
 import type { UseAllocation } from "akasha/temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
+import { trailingCall } from "akasha/temper/addon/pages/items/modules/inventory-trailing-call/inventory-trailing-call.module.code.ts"
 import type { ResolvedActionSource } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type {
   ItemAction,
@@ -46,6 +49,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 export interface MatchedRuleResult {
   ruleIndex: number
   ruleSource: ResolvedActionSource
@@ -307,16 +311,56 @@ export function rescanWornItems(): undefined {
 
 setRescanInventoryRef(rescanInventory)
 
-const ACTIONS_CHANGED_DEBOUNCE_MS = 500
-let actionsChangedPending = false
+const ACTIONS_CHANGED_DEBOUNCE_MS = 250
 
-export function fireInventoryActionsChanged(): undefined {
-  if (actionsChangedPending) return
-  actionsChangedPending = true
-  zo_callLater(function (this: void): undefined {
-    actionsChangedPending = false
+const SETTLE_DEBOUNCE_MS = 250
+
+function scheduleLater(this: void, run: (this: void) => undefined, delayMs: number): number {
+  return zo_callLater(run, delayMs)
+}
+
+function cancelLater(this: void, handle: number): undefined {
+  zo_removeCallLater(handle)
+}
+
+const announceActionsChanged = trailingCall(
+  scheduleLater,
+  cancelLater,
+  ACTIONS_CHANGED_DEBOUNCE_MS,
+  function (this: void): undefined {
     const start = GetGameTimeMilliseconds()
     CALLBACK_MANAGER.FireCallbacks("Temper_InventoryActionsChanged")
     recordSettlingMs("actionsChanged", GetGameTimeMilliseconds() - start)
-  }, ACTIONS_CHANGED_DEBOUNCE_MS)
+  }
+)
+
+export function fireInventoryActionsChanged(): undefined {
+  announceActionsChanged()
+}
+
+function purgeStalePendingActions(): undefined {
+  const stale: Array<{ bagId: number; slotIndex: number }> = []
+  forEachPendingAction(function (this: void, bagId: number, slotIndex: number): undefined {
+    if (isPendingActionStale(bagId, slotIndex)) stale.push({ bagId, slotIndex })
+  })
+  for (const { bagId, slotIndex } of stale) {
+    clearPendingAction(bagId, slotIndex)
+    if (bagId !== BAG_BACKPACK) continue
+    const [stackSize] = GetSlotStackSize(bagId, slotIndex)
+    if (stackSize > 0) evaluateRules(bagId, slotIndex)
+  }
+}
+
+const settleLater = trailingCall(
+  scheduleLater,
+  cancelLater,
+  SETTLE_DEBOUNCE_MS,
+  function (this: void): undefined {
+    purgeStalePendingActions()
+    fireInventoryActionsChanged()
+  }
+)
+
+export function settleInventoryActions(): undefined {
+  settleLater()
 }

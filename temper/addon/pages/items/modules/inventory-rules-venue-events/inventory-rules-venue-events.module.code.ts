@@ -24,6 +24,7 @@ import {
   onOpenFence,
   onOpenStore,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.code.ts"
+import { settleInventoryActions } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { onTradingHouseClosed } from "akasha/temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"
 import { invalidateScribingKnowledgeCache } from "akasha/temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
 import {
@@ -109,6 +110,7 @@ export function registerVenueDispatchEvents(ns: string): undefined {
     EVENT_CLOSE_TRADING_HOUSE,
     function (this: void): undefined {
       onTradingHouseClosed()
+      settleInventoryActions()
     }
   )
 
@@ -120,6 +122,7 @@ export function registerVenueDispatchEvents(ns: string): undefined {
       flushJunkGate()
       releaseConfirmDialog()
       chainAtStoreClosed()
+      settleInventoryActions()
     }
   )
 
@@ -130,6 +133,15 @@ export function registerVenueDispatchEvents(ns: string): undefined {
       clearWritCraftQueue()
       releaseConfirmDialog()
       chainAtStationClosed()
+      settleInventoryActions()
+    }
+  )
+
+  EVENT_MANAGER.RegisterForEvent(
+    `${ns}_CloseMailbox`,
+    EVENT_MAIL_CLOSE_MAILBOX,
+    function (this: void): undefined {
+      settleInventoryActions()
     }
   )
 

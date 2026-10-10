@@ -78,6 +78,7 @@ import {
   fireInventoryActionsChanged,
   rescanInventory,
   rescanWornItems,
+  settleInventoryActions,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { registerAutoListResultEvents } from "akasha/temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"
 import { registerVenueDispatchEvents } from "akasha/temper/addon/pages/items/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"
@@ -173,6 +174,7 @@ export function registerInventoryEvents(): undefined {
       scanCraftBag()
       recordSettlingMs("scanCraftBag", GetGameTimeMilliseconds() - craftStart)
       scheduleNetWorthRecompute()
+      settleInventoryActions()
     }
   )
 
@@ -212,6 +214,7 @@ export function registerInventoryEvents(): undefined {
       hideBankActionPanel()
       dispatchUseActions()
       chainAtBankClosed()
+      settleInventoryActions()
     }
   )
 
@@ -231,6 +234,7 @@ export function registerInventoryEvents(): undefined {
     EVENT_CLOSE_GUILD_BANK,
     function (this: void): undefined {
       flushJunkGate()
+      settleInventoryActions()
     }
   )
 

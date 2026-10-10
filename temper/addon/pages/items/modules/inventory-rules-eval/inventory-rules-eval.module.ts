@@ -41,7 +41,21 @@ export const inventoryRulesEval = {
       decisionKind: "decision-kind/departure",
       statement: "Judging the whole inventory judges the worn slots as well as the backpack slots.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The hint is told the pending actions changed a quarter second after the last change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Settling drops each pending action whose item left its slot, then tells the hint.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot holding another item once settled is judged again.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.859Z",
-  updatedAt: "2026-09-21T17:37:10.000Z",
+  updatedAt: "2026-10-10T14:08:31.826Z",
 } as const satisfies Module

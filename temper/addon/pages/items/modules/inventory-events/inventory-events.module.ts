@@ -26,6 +26,15 @@ export const inventoryEvents = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A whole-inventory update settles the pending actions, as a sale at a store sends one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A closing bank or guild bank settles the pending actions.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A backpack slot changing while containers wait for room opens them once room is there.",
     },
     {
@@ -35,5 +44,5 @@ export const inventoryEvents = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.851Z",
-  updatedAt: "2026-09-27T15:13:56.000Z",
+  updatedAt: "2026-10-10T14:08:31.826Z",
 } as const satisfies Module

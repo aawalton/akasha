@@ -6,6 +6,13 @@ export const inventoryRulesVenueEvents = {
   slug: "inventory-rules-venue-events",
   definition: "the events that fire a dispatch when a bank, store, station or mailbox opens",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A closing store, fence, crafting station, guild store or mailbox settles the pending actions.",
+    },
+  ],
   createdAt: "2026-09-02T13:39:35.859Z",
-  updatedAt: "2026-09-21T17:37:10.000Z",
+  updatedAt: "2026-10-10T14:08:31.826Z",
 } as const satisfies Module

@@ -4593,10 +4593,12 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.ts","id":"01a06258-b533-78d1-9e55-12407ea45377"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-guild-buy-core/inventory-rules-guild-buy-core.module.ts","id":"01a0e34e-af92-7fc1-898f-8aa21b3524af"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.ts","id":"01a06258-b533-7b03-9ccc-7c38e13144d0"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.ts","id":"01a06258-b533-7f78-940d-85d72d5b088f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.ts","id":"01a0e368-1a45-73b9-9f3d-974730c1f2ed"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-set-categories/inventory-set-categories.module.ts","id":"01a0e090-8908-77c8-8fbc-359bfba964f7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.ts","id":"01a06258-b534-7658-a6f9-6918c06107d4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.ts","id":"01a06258-b534-70ec-b172-fd006cbff261"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-trailing-call/inventory-trailing-call.module.ts","id":"01a12624-da53-7119-a53e-638c665187c6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.ts","id":"01a0e0f3-80e9-72bb-b96d-6fc54b4b7e52"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-use-guard/inventory-use-guard.module.ts","id":"01a0e37b-d8b2-77ef-ad9e-8324ce35bc8d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-vault-deposit-plan/inventory-vault-deposit-plan.module.ts","id":"01a12624-5133-70be-99cb-feaa825723f7"}
