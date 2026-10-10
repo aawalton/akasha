@@ -1,7 +1,13 @@
 import { LOC_HOUSE_BANK_PREFIX } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
+import { liveStorageChests } from "akasha/temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { LocationData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import { slotKey } from "akasha/temper/addon/pages/items/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
+import {
+  houseBankKeyFor,
+  houseStorageTarget,
+  matchStorageChest,
+} from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -100,12 +106,19 @@ export function bankIsCorrectStorage(ctx: BankSlotContext, dest: string): boolea
   if (dest === "bank") return ctx.isBank
   if (dest === "furniture-vault") return false
   if (dest === "house-storage") return ctx.isHouseStorage
-  if (dest.substring(0, 14) === "house-storage:") {
+  const chest = houseStorageTarget(dest)
+  if (chest !== undefined) {
     if (!ctx.isHouseStorage) return false
-    const chestId = dest.substring(14)
-    return chestId === ctx.currentChestId
+    const match = matchStorageChest(chest, liveStorageChests())
+    return match.kind === "one" && match.chestId === ctx.currentChestId
   }
   return false
+}
+
+function savedChestLocation(dest: string): LocationData | undefined {
+  const locations = getDatabase().locations
+  const key = houseBankKeyFor(dest, locations)
+  return key === undefined ? undefined : locations[key]
 }
 
 export function countItemInBag(bag: number, targetItemId: number, excludeStolen?: boolean): number {
@@ -151,27 +164,19 @@ export function estimateDestinationFreeSlots(dest: string): number | undefined {
     return capacity - used
   }
 
-  if (dest.substring(0, 14) === "house-storage:") {
-    const chestId = dest.substring(14)
-    for (const [key, location] of Object.entries(db.locations)) {
-      if (
-        key.substring(0, LOC_HOUSE_BANK_PREFIX.length) === LOC_HOUSE_BANK_PREFIX &&
-        key.substring(key.length - chestId.length - 1) === `:${chestId}`
-      ) {
-        if (!location.bagSizes) return undefined
-        let capacity = 0
-        let used = 0
-        for (const [bagIdStr, bagSize] of Object.entries(location.bagSizes)) {
-          const bagId = tonumber(bagIdStr)
-          if (bagId === undefined) continue
-          capacity += bagSize
-          const bag = location.bags[bagId]
-          if (bag !== undefined) used += Object.keys(bag).length
-        }
-        return capacity - used
-      }
+  if (houseStorageTarget(dest) !== undefined) {
+    const location = savedChestLocation(dest)
+    if (location === undefined || !location.bagSizes) return undefined
+    let capacity = 0
+    let used = 0
+    for (const [bagIdStr, bagSize] of Object.entries(location.bagSizes)) {
+      const bagId = tonumber(bagIdStr)
+      if (bagId === undefined) continue
+      capacity += bagSize
+      const bag = location.bags[bagId]
+      if (bag !== undefined) used += Object.keys(bag).length
     }
-    return undefined
+    return capacity - used
   }
 
   if (dest === "house-storage") {
@@ -217,17 +222,9 @@ export function destinationHasStackableItem(dest: string, itemId: number): boole
     return location !== undefined ? locationHasItem(location) : false
   }
 
-  if (dest.substring(0, 14) === "house-storage:") {
-    const chestId = dest.substring(14)
-    for (const [key, location] of Object.entries(db.locations)) {
-      if (
-        key.substring(0, LOC_HOUSE_BANK_PREFIX.length) === LOC_HOUSE_BANK_PREFIX &&
-        key.substring(key.length - chestId.length - 1) === `:${chestId}`
-      ) {
-        return locationHasItem(location)
-      }
-    }
-    return false
+  if (houseStorageTarget(dest) !== undefined) {
+    const location = savedChestLocation(dest)
+    return location !== undefined ? locationHasItem(location) : false
   }
 
   if (dest === "house-storage") {

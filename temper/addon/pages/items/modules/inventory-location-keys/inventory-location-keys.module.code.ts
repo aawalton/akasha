@@ -7,6 +7,11 @@ import {
   LOC_HOUSE_BANK_PREFIX,
   LOC_HOUSE_PREFIX,
 } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
+import {
+  houseStorageTarget,
+  matchStorageChest,
+  type StorageChest,
+} from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -41,6 +46,16 @@ export function getChestDisplayName(collectibleId: number): string {
   if (nickname !== "") return nickname
   const name = zo_strformat("<<1>>", GetCollectibleName(collectibleId))
   return name !== "" ? name : "Storage Chest"
+}
+
+export function liveStorageChests(): StorageChest[] {
+  const chests: StorageChest[] = []
+  for (const houseBag of HOUSE_BANK_BAGS) {
+    const collectibleId = GetCollectibleForBag(houseBag)
+    if (collectibleId <= 0) continue
+    chests.push({ chestId: tostring(collectibleId), name: getChestDisplayName(collectibleId) })
+  }
+  return chests
 }
 
 export function getHouseFurnishingsLocationKey(): string | undefined {
@@ -79,12 +94,13 @@ export function isItemAtMoveToDestination(bagId: number, destination: string): b
   if (destination === "furniture-vault") {
     return bagId === BAG_FURNITURE_VAULT
   }
-  if (destination.startsWith("house-storage:")) {
-    const destCollectibleId = tonumber(destination.substring("house-storage:".length))
-    if (destCollectibleId === undefined) return false
+  const chest = houseStorageTarget(destination)
+  if (chest !== undefined) {
+    const match = matchStorageChest(chest, liveStorageChests())
+    if (match.kind !== "one") return false
     for (const houseBag of HOUSE_BANK_BAGS) {
       if (bagId === houseBag) {
-        return GetCollectibleForBag(bagId) === destCollectibleId
+        return tostring(GetCollectibleForBag(bagId)) === match.chestId
       }
     }
     return false
