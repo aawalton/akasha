@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/rhia-twi-density.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/rhia-twi-growth.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/rhia-twi-length.initiative.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/rhia-twi-prose.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/rhia-twi-substance.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/rhia-twi-world.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/ryn-standard-agent-english.initiative.ts","typed":true,"deferred":false}
