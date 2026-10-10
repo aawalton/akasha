@@ -21,7 +21,10 @@ export const rhiaTwiAnalysisBook = {
     "Alan approves any aspect removed, changed in a major way, or added.",
     "Alan judges the book through agent critique and his conversations with Rhia about it.",
     "Judging the fiction that agents write from the book is outside this initiative.",
+    "Alan rates as A tier: The Millennial Mage, The Primal Hunter, Path of Ascension, He Who Fights With Monsters, Metaworld Hopecore, How To Magic, Rise of The Living Forge.",
+    "Alan rates as A tier: Beware of Chicken, Ends of Magic, Mark of the Fool, Dungeon of Knowledge, Azarinth Healer, The Calamitous Bob, Beneath The Dragoneye Moons.",
+    "An A-tier work may be S tier or B tier on one aspect while A tier taken whole.",
   ],
   createdAt: "2026-10-10T16:42:36.659Z",
-  updatedAt: "2026-10-10T17:00:47.749Z",
+  updatedAt: "2026-10-10T17:05:03.433Z",
 } as const satisfies Initiative
