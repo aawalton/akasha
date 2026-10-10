@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   chapterHref,
   commandTaken,
+  readMarked,
   SPEEDS,
   speedAfter,
   speedHeld,
@@ -49,6 +50,79 @@ describe("chapter page", () => {
 
   test("a chapter with no slug is reached by its title", () => {
     expect(chapterHref({ ...held, slug: "" })).toBe("/story-chapter-read/7-58-7b8ac438")
+  })
+})
+
+describe("marking read", () => {
+  const held = {
+    id: "01a065a2-09db-74e1-8cea-a7120e6b5a32",
+    pageTypeSlug: "story-chapter-read",
+    slug: "the-wandering-inn-0786-interlude-halfseekers-pt-4",
+    title: "Interlude - Halfseekers (Pt. 4)",
+    storyTitle: "The Wandering Inn",
+    ownLength: 25585,
+    ownProgress: 25000,
+    completedAt: null,
+  }
+
+  function patchingRefused(times: number) {
+    const sent: unknown[] = []
+    const patching = (args: unknown): Promise<unknown> => {
+      sent.push(args)
+      return sent.length <= times
+        ? Promise.reject(new Error("what is at the path is not what was read"))
+        : Promise.resolve(null)
+    }
+    return { sent, patching }
+  }
+
+  test("a refused write is tried again until it lands, and each refusal is told", async () => {
+    const { sent, patching } = patchingRefused(2)
+    const told: [string, number][] = []
+    const waited: number[] = []
+    const landed = await readMarked(
+      held,
+      (why, tried) => {
+        told.push([why, tried])
+      },
+      patching,
+      async (ms) => {
+        waited.push(ms)
+      }
+    )
+    expect(landed).toBe(true)
+    expect(sent.length).toBe(3)
+    expect(told).toEqual([
+      ["what is at the path is not what was read", 1],
+      ["what is at the path is not what was read", 2],
+    ])
+    expect(waited).toEqual([3000, 6000])
+  })
+
+  test("the write sets the chapter's whole length and when it was done", async () => {
+    const { sent, patching } = patchingRefused(0)
+    await readMarked(
+      held,
+      () => undefined,
+      patching,
+      async () => undefined
+    )
+    const [one] = sent as { where: unknown; set: Record<string, unknown> }[]
+    expect(one?.where).toEqual([{ key: "id", eq: held.id }])
+    expect(one?.set.ownProgress).toBe(25585)
+    expect(typeof one?.set.completedAt).toBe("string")
+  })
+
+  test("a write refused every time gives up after five tries", async () => {
+    const { sent, patching } = patchingRefused(Number.POSITIVE_INFINITY)
+    const landed = await readMarked(
+      held,
+      () => undefined,
+      patching,
+      async () => undefined
+    )
+    expect(landed).toBe(false)
+    expect(sent.length).toBe(5)
   })
 })
 

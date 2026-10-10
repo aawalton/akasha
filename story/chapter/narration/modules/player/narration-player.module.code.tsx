@@ -300,7 +300,7 @@ export function NarrationProvider({
     for (const id of acts.read) {
       playing.read.add(id)
       playing.progress.set(id, Number.POSITIVE_INFINITY)
-      markRead(playing.chapters.get(id))
+      markRead(playing.chapters.get(id), report)
     }
     save(false)
     const after = acts.askNextAfter === null ? undefined : playing.chapters.get(acts.askNextAfter)
@@ -319,7 +319,7 @@ export function NarrationProvider({
     setPlace({ at: seconds, end: seekableEnd(audio) })
     const said = spokenAt(playing.placed, seconds)
     setSpoken((was) => (sameSpoken(was, said) ? was : said))
-  }, [askNext, save])
+  }, [askNext, save, report])
 
   const close = useCallback((): undefined => {
     save(true)
@@ -349,10 +349,10 @@ export function NarrationProvider({
         read: playing.read,
         ended: true,
       })
-      for (const id of acts.read) markRead(playing.chapters.get(id))
+      for (const id of acts.read) markRead(playing.chapters.get(id), report)
     }
     close()
-  }, [close])
+  }, [close, report])
 
   const seek = useCallback((seconds: number): undefined => {
     const audio = audioRef.current

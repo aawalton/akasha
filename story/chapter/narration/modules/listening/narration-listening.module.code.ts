@@ -1,6 +1,9 @@
 import { getNowPlayingCommands } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
-import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
+import {
+  type PatchPageArgs,
+  patchPage,
+} from "akasha/page/access/modules/patch/patch.module.code.ts"
 import {
   COLLECTION_SHAPE,
   completionValues,
@@ -206,14 +209,45 @@ export function chapterHref(held: ChapterHeld): string {
   })
 }
 
-export function markRead(held: ChapterHeld | undefined): undefined {
+const MARK_TRIES = 5
+
+const MARK_WAIT_MS = 3000
+
+type Patching = (args: PatchPageArgs) => Promise<unknown>
+
+type Waiting = (ms: number) => Promise<unknown>
+
+function waitingFor(ms: number): Promise<unknown> {
+  return new Promise((settle) => setTimeout(settle, ms))
+}
+
+export async function readMarked(
+  held: ChapterHeld,
+  refused: (why: string, tried: number) => undefined,
+  patching: Patching = patchPage,
+  waiting: Waiting = waitingFor
+): Promise<boolean> {
+  for (let tried = 1; tried <= MARK_TRIES; tried += 1) {
+    try {
+      await patching({
+        pageTypeSlug: held.pageTypeSlug,
+        where: [{ key: "id", eq: held.id }],
+        set: completionValues(COLLECTION_SHAPE, { ownLength: held.ownLength }, Date.now()),
+      })
+      return true
+    } catch (thrown) {
+      refused(saidBy(thrown), tried)
+      if (tried < MARK_TRIES) await waiting(MARK_WAIT_MS * tried)
+    }
+  }
+  return false
+}
+
+export function markRead(held: ChapterHeld | undefined, report: Report): undefined {
   if (held === undefined || held.completedAt !== null) return
-  void patchPage({
-    pageTypeSlug: held.pageTypeSlug,
-    where: [{ key: "id", eq: held.id }],
-    set: completionValues(COLLECTION_SHAPE, { ownLength: held.ownLength }, Date.now()),
-  }).catch((thrown: unknown) => {
-    console.error(`[narration] ${held.slug} could not be marked read: ${saidBy(thrown)}`)
+  void readMarked(held, (why, tried) => {
+    console.error(`[narration] ${held.slug} could not be marked read: ${why}`)
+    report("mark-read-refused", { slug: held.slug, tried, why })
   })
 }
 

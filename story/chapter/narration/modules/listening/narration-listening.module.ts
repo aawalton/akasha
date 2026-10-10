@@ -23,6 +23,14 @@ export const narrationListening = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Marking a chapter read that the server refuses is tried again, up to five times.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each refusal of marking a chapter read is reported to the web server's log.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Progress is written to the chapter's own read progress, as reading writes it.",
     },
     {
@@ -71,6 +79,6 @@ export const narrationListening = {
       statement: "hls.js holds ten minutes of a narration past the playhead.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:46.396Z",
+  updatedAt: "2026-10-10T15:37:33.071Z",
   createdAt: "2026-10-05T20:45:59.481Z",
 } as const satisfies Module
