@@ -5,7 +5,6 @@
   "classId": 5,
   "allianceId": 1,
   "raceId": 5,
-  "curseState": "vampire",
   "className": "Necromancer",
   "classIcon": "/esoui/art/icons/class/class_necromancer.dds",
   "achievements": {

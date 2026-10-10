@@ -5,7 +5,6 @@
   "classId": 4,
   "allianceId": 1,
   "raceId": 8,
-  "curseState": "vampire",
   "className": "Warden",
   "classIcon": "/esoui/art/icons/class/class_warden.dds",
   "achievements": {

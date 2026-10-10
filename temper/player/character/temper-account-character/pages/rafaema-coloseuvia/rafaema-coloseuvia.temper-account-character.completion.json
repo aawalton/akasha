@@ -5,7 +5,6 @@
   "classId": 2,
   "allianceId": 1,
   "raceId": 6,
-  "curseState": "vampire",
   "className": "Sorcerer",
   "classIcon": "/esoui/art/icons/class/class_sorcerer.dds",
   "achievements": {

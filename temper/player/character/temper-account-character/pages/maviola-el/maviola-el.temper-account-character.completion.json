@@ -5,7 +5,6 @@
   "classId": 1,
   "allianceId": 1,
   "raceId": 1,
-  "curseState": "vampire",
   "className": "Dragonknight",
   "classIcon": "/esoui/art/icons/class/class_dragonknight.dds",
   "achievements": {
