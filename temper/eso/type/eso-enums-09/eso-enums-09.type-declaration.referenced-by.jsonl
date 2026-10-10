@@ -38,6 +38,7 @@
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-overrides/inventory-rules-core-overrides.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-fillet/inventory-rules-dispatch-fillet.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables/inventory-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts","typed":false,"deferred":false}

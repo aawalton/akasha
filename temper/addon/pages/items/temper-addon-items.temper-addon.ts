@@ -247,6 +247,8 @@ export const temperAddonItems = {
     "module/inventory-plan-venue",
     "module/inventory-vault-deposit-plan",
     "module/inventory-trailing-call",
+    "module/inventory-rules-dispatch-fillet",
+    "module/inventory-fillet-plan",
   ],
   decisions: [
     {
@@ -367,5 +369,5 @@ export const temperAddonItems = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.863Z",
-  updatedAt: "2026-10-10T14:23:52.216Z",
+  updatedAt: "2026-10-10T14:24:25.659Z",
 } as const satisfies TemperAddon

@@ -19,6 +19,7 @@ import {
   reportAction,
   reportPendingAction,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { filletAtStation } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-fillet/inventory-rules-dispatch-fillet.module.code.ts"
 import { runRefinePass } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-refine/inventory-rules-dispatch-refine.module.code.ts"
 import { evaluateRules } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { dispatchWritCrafting } from "akasha/temper/addon/pages/items/modules/inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts"
@@ -234,6 +235,7 @@ export function onOpenCraftingStation(): undefined {
   const characterPrefix = "character:"
 
   const stationType = GetCraftingInteractionType()
+  if (filletAtStation(stationType)) return
   const deconCheckType = stationType === CRAFTING_TYPE_INVALID ? undefined : stationType
   const deconTargets: { bagId: number; slotIndex: number; link: string; ruleIndex: number }[] = []
 

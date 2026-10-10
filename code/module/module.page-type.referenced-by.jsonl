@@ -3923,6 +3923,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-explain-skill-gate-eval/inventory-explain-skill-gate-eval.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-explain-slash-command/inventory-explain-slash-command.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-fillet-plan/inventory-fillet-plan.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-filter-bar-init/inventory-filter-bar-init.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-furnishing-scanner/inventory-furnishing-scanner.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-hud-fields/inventory-hud-fields.module.ts","typed":true,"deferred":false}
@@ -3977,6 +3978,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bind/inventory-rules-dispatch-bind.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-equip/inventory-rules-dispatch-equip.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-fillet/inventory-rules-dispatch-fillet.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-guild-buy/inventory-rules-dispatch-guild-buy.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-guild-currency/inventory-rules-dispatch-guild-currency.module.ts","typed":true,"deferred":false}
