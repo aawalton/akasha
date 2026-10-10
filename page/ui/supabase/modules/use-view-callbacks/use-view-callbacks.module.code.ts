@@ -36,8 +36,20 @@ import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/module
 import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { useCallback, useMemo } from "react"
+import { toast } from "sonner"
 
 const VIEW_PAGE_TYPE_SLUG = "view"
+
+const VIEW_WRITE_FAILED_MESSAGE = "This view's change was not kept"
+
+function announceViewWriteFailure(err: unknown): undefined {
+  console.error("useSupabaseViewCallbacks: a view write failed", err)
+  toast.error(VIEW_WRITE_FAILED_MESSAGE, {
+    id: "view-write-failed",
+    description: err instanceof Error ? err.message : String(err),
+  })
+  return undefined
+}
 
 function projectViewRows(views: readonly PageWithProperties[]): readonly ViewRow[] {
   return views.map((v) => ({
@@ -142,6 +154,13 @@ export function useSupabaseViewCallbacks({
     [createPageFn, deletePageFn, setProperty, patchPageFn, userId]
   )
 
+  const dispatch = useCallback(
+    (effects: readonly ViewEffect[]): undefined => {
+      dispatchEffects(effects).catch(announceViewWriteFailure)
+    },
+    [dispatchEffects]
+  )
+
   const buildCtx = useCallback(
     () => ({
       newPageId: crypto.randomUUID(),
@@ -151,51 +170,45 @@ export function useSupabaseViewCallbacks({
   )
 
   const onCreateView = useCallback(
-    async (name: string, data: ViewDataJSON) => {
-      const effects = createViewReducer(projectViewRows(views), { name, data }, buildCtx())
-      await dispatchEffects(effects)
+    (name: string, data: ViewDataJSON) => {
+      dispatch(createViewReducer(projectViewRows(views), { name, data }, buildCtx()))
     },
-    [views, buildCtx, dispatchEffects]
+    [views, buildCtx, dispatch]
   )
 
   const onDeleteView = useCallback(
     (id: string) => {
-      const effects = deleteViewReducer(projectViewRows(views), { id }, buildCtx())
-      void dispatchEffects(effects)
+      dispatch(deleteViewReducer(projectViewRows(views), { id }, buildCtx()))
     },
-    [views, buildCtx, dispatchEffects]
+    [views, buildCtx, dispatch]
   )
 
   const onRenameView = useCallback(
     (id: string, name: string) => {
-      const effects = renameViewReducer(projectViewRows(views), { id, name }, buildCtx())
-      void dispatchEffects(effects)
+      dispatch(renameViewReducer(projectViewRows(views), { id, name }, buildCtx()))
     },
-    [views, buildCtx, dispatchEffects]
+    [views, buildCtx, dispatch]
   )
 
   const onDuplicateView = useCallback(
-    async (sourceId: string) => {
-      const effects = duplicateViewReducer(projectViewRows(views), { sourceId }, buildCtx())
-      await dispatchEffects(effects)
+    (sourceId: string) => {
+      dispatch(duplicateViewReducer(projectViewRows(views), { sourceId }, buildCtx()))
     },
-    [views, buildCtx, dispatchEffects]
+    [views, buildCtx, dispatch]
   )
 
   const onUpdateView = useCallback(
     (id: string, updates: Partial<ViewDataJSON>) => {
-      const effects = updateViewConfigReducer(projectViewRows(views), { id, updates }, buildCtx())
-      void dispatchEffects(effects)
+      dispatch(updateViewConfigReducer(projectViewRows(views), { id, updates }, buildCtx()))
     },
-    [views, buildCtx, dispatchEffects]
+    [views, buildCtx, dispatch]
   )
 
   const onReorderViews = useCallback(
     (viewIds: readonly string[]) => {
-      const effects = reorderViewsReducer(projectViewRows(views), { viewIds }, buildCtx())
-      void dispatchEffects(effects)
+      dispatch(reorderViewsReducer(projectViewRows(views), { viewIds }, buildCtx()))
     },
-    [views, buildCtx, dispatchEffects]
+    [views, buildCtx, dispatch]
   )
 
   return useMemo(
