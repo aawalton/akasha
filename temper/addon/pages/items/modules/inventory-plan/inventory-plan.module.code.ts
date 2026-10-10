@@ -1,5 +1,8 @@
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
-import { getChestDisplayName } from "akasha/temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.code.ts"
+import {
+  getChestDisplayName,
+  liveStorageChests,
+} from "akasha/temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.code.ts"
 import { classifyPendingVenue } from "akasha/temper/addon/pages/items/modules/inventory-plan-venue/inventory-plan-venue.module.code.ts"
 import {
   forEachPendingAction,
@@ -13,6 +16,11 @@ import { isSavedVariablesReady } from "akasha/temper/addon/pages/items/modules/i
 import { stockGroupKey } from "akasha/temper/addon/pages/items/modules/inventory-stock-group/inventory-stock-group.module.code.ts"
 import { addToTally } from "akasha/temper/addon/pages/items/modules/inventory-tally/inventory-tally.module.code.ts"
 import { venueTitleOf } from "akasha/temper/addon/pages/items/modules/inventory-venue-titles/inventory-venue-titles.module.code.ts"
+import {
+  chestMatchProblem,
+  houseStorageTarget,
+  matchStorageChest,
+} from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -55,13 +63,13 @@ export function resolveVenueLabel(venueKey: string): string {
   if (isStaticVenueKey(venueKey)) {
     return venueTitleOf(venueKey)
   }
-  if (venueKey.startsWith("house-storage:")) {
-    const idStr = venueKey.substring("house-storage:".length)
-    const collectibleId = tonumber(idStr)
-    if (collectibleId !== undefined && collectibleId > 0) {
-      return getChestDisplayName(collectibleId)
-    }
-    return venueTitleOf("house-storage")
+  const chest = houseStorageTarget(venueKey)
+  if (chest !== undefined) {
+    const match = matchStorageChest(chest, liveStorageChests())
+    const problem = chestMatchProblem(chest, match)
+    if (problem !== undefined) return `${venueTitleOf("house-storage")} (${problem})`
+    const collectibleId = match.kind === "one" ? tonumber(match.chestId) : undefined
+    return collectibleId === undefined ? chest : getChestDisplayName(collectibleId)
   }
   return venueKey
 }
