@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHVMUAAIBkRRMi5V1AwR7VLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJhFJyyTRScujIAHN0RKyABNgAAAAALTE8AAgDUEABAGEACQAIAASAACEAADJwAjAGYARkABCIwIABDJIFAjEQA0gAAACAMAHIAgAdQAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAUAyDjEgaw",
+  "buildHash": "ATQHVMUAAIBkRRMi5V1AwR7VLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJhFJyyTRScujIAHN0RKyABNgAAAAALTE8AAgDUEABAGEACQAIAASAACEAADJwAjAGYARkABCIwIABDJIFAjEQA0gAAACAMAHIAgAdQAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0nAUAyDjEgaw",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -2733,9 +2733,9 @@
       "nextRankXP": 140
     },
     "117": {
-      "currentRank": 9,
-      "currentXP": 35,
-      "nextRankXP": 50
+      "currentRank": 10,
+      "currentXP": 45,
+      "nextRankXP": 75
     },
     "130": {
       "currentRank": 10,
@@ -3772,12 +3772,14 @@
     },
     "3": {
       "2": [
+        2,
         7,
         13,
         28,
         50,
         62,
-        65
+        65,
+        78
       ],
       "3": [
         15,
@@ -4094,6 +4096,7 @@
         43,
         44,
         45,
+        47,
         50,
         52,
         53,
@@ -4209,7 +4212,8 @@
         13,
         14,
         15,
-        16
+        16,
+        18
       ]
     }
   },
@@ -7222,6 +7226,8 @@
     5572,
     5581,
     5582,
+    5589,
+    5609,
     5733,
     5734,
     5737,
@@ -7342,9 +7348,12 @@
     7359,
     7360,
     7419,
+    7426,
     7427,
     7442,
-    7453
+    7453,
+    7484,
+    7496
   ],
   "cadwell": {
     "progressionLevel": 2,
