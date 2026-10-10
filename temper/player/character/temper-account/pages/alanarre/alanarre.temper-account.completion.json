@@ -31021,7 +31021,7 @@
       }
     },
     "4602": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 4
@@ -38069,7 +38069,7 @@
           "unlocked": true
         },
         {
-          "name": "Barkskin Arm Cops",
+          "name": "Dagger of the Twin Sisters",
           "unlocked": true
         },
         {
@@ -67714,7 +67714,7 @@
           "unlocked": true
         },
         {
-          "name": "Alessian Inferno Staff",
+          "name": "Mace of High Isle",
           "unlocked": true
         },
         {
@@ -77661,7 +77661,7 @@
           "unlocked": true
         },
         {
-          "name": "Maul of the Dreugh King Slayer",
+          "name": "Arkay's Charity Sash",
           "unlocked": true
         },
         {
