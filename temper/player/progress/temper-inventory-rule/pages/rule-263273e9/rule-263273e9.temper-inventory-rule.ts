@@ -6,7 +6,7 @@ export const rule263273e9 = {
   slug: "rule-263273e9",
   title: "All non-stolen scrolls → Crown Items",
   conditions: "jsonl",
-  destination: "house-storage:4678",
+  destination: "house-storage:Crown Items",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/scrolls",
   displayOrder: 42,
@@ -14,5 +14,5 @@ export const rule263273e9 = {
   active: true,
   ruleChangedAt: "2026-10-10T14:15:00.000Z",
   createdAt: "2026-09-05T17:08:16.765Z",
-  updatedAt: "2026-10-10T14:10:16.955Z",
+  updatedAt: "2026-10-10T14:27:58.208Z",
 } as const satisfies TemperInventoryRule

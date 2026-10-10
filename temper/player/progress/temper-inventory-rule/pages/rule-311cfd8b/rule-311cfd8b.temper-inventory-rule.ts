@@ -7,7 +7,7 @@ export const rule311cfd8b = {
   title: "Skill scrolls to Trophies",
   description:
     "Gap A2: fuzzy reserve parked with the other trophies (Alan 2026-07-03). First-class category since #14629.",
-  destination: "house-storage:4680",
+  destination: "house-storage:Trophies",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/skill-scrolls",
   displayOrder: 46,
@@ -15,5 +15,5 @@ export const rule311cfd8b = {
   active: true,
   ruleChangedAt: "2026-07-05T13:20:45.993Z",
   createdAt: "2026-09-05T17:08:16.766Z",
-  updatedAt: "2026-10-08T14:43:46.000Z",
+  updatedAt: "2026-10-10T14:27:58.208Z",
 } as const satisfies TemperInventoryRule

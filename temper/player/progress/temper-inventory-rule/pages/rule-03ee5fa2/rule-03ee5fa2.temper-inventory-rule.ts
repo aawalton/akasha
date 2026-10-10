@@ -5,7 +5,7 @@ export const rule03ee5fa2 = {
   type: "page-type/temper-inventory-rule",
   slug: "rule-03ee5fa2",
   title: "Knowledge-collectibles fragments to Trophies chest",
-  destination: "house-storage:4680",
+  destination: "house-storage:Trophies",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/knowledge-collectibles",
   displayOrder: 37,
@@ -13,5 +13,5 @@ export const rule03ee5fa2 = {
   active: true,
   ruleChangedAt: "2026-06-01T12:53:34.875Z",
   createdAt: "2026-09-05T17:08:16.764Z",
-  updatedAt: "2026-10-08T14:43:46.000Z",
+  updatedAt: "2026-10-10T14:27:58.208Z",
 } as const satisfies TemperInventoryRule

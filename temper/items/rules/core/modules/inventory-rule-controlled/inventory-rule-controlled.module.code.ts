@@ -224,7 +224,7 @@ function buildControlledCharacterRules(
           targetQuantity: 200,
         },
         {
-          destination: "house-storage:4678",
+          destination: "house-storage:Crown Items",
         },
       ],
       conditions: {

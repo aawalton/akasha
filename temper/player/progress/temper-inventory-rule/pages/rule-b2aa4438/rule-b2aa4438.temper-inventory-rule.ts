@@ -8,7 +8,7 @@ export const ruleB2aa4438 = {
   description:
     "Moves blue (Superior) and higher non-stolen potions to the Potions and Poisons housing storage container, keeping bulky quality potions out of the backpack. Sits above the crafted-consumables protection so crafted quality potions are relocated rather than left loose.",
   conditions: "jsonl",
-  destination: "house-storage:4674",
+  destination: "house-storage:Potions and Poisons",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/potions",
   displayOrder: 28,
@@ -16,5 +16,5 @@ export const ruleB2aa4438 = {
   active: true,
   ruleChangedAt: "2026-06-01T12:18:15.323Z",
   createdAt: "2026-09-05T17:08:31.568Z",
-  updatedAt: "2026-10-08T14:43:46.000Z",
+  updatedAt: "2026-10-10T14:27:58.208Z",
 } as const satisfies TemperInventoryRule

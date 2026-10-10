@@ -8,7 +8,7 @@ export const ruleF48e4c64 = {
   description:
     "Moves blue (Superior) and higher non-stolen poisons to the Potions and Poisons housing storage container, keeping bulky quality poisons out of the backpack. Sits above the crafted-consumables protection so crafted quality poisons are relocated rather than left loose.",
   conditions: "jsonl",
-  destination: "house-storage:4674",
+  destination: "house-storage:Potions and Poisons",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/poisons",
   displayOrder: 29,
@@ -16,5 +16,5 @@ export const ruleF48e4c64 = {
   active: true,
   ruleChangedAt: "2026-06-01T12:18:15.614Z",
   createdAt: "2026-09-05T17:08:39.165Z",
-  updatedAt: "2026-10-08T14:43:46.000Z",
+  updatedAt: "2026-10-10T14:27:58.208Z",
 } as const satisfies TemperInventoryRule
