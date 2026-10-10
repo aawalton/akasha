@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"check/code/properties/audit.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"check/code/properties/check.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"check/code/properties/decision.module-property-group.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"check/modules/change-walking/change-walking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"code/container-recipe/properties/composing.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"code/shell-script/properties/scripting.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts","typed":false,"deferred":false}

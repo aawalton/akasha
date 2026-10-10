@@ -21,8 +21,10 @@ import {
   counting,
   FORMULA_TAIL,
   fixedWorld,
+  GROUP_TAIL,
   loadedWorld,
   MODULE,
+  MODULE_PROPERTY_GROUP,
   mixedWorld,
   PAGE_AT,
   PAGE_TYPE,
@@ -51,6 +53,12 @@ test("a page type stating no loaded export spares no name at all beside its page
 test("the names a file property fixes are spared in its file beside each page type carrying it", () => {
   expect(loadedExportsSparing(fixedWorld(["FORMULA"]))).toEqual(
     new Map([[FORMULA_TAIL, new Set(["FORMULA"])]])
+  )
+})
+
+test("the names a module property group fixes are spared in its code beside each page carrying it", () => {
+  expect(loadedExportsSparing(fixedWorld(["onComplete"], MODULE_PROPERTY_GROUP))).toEqual(
+    new Map([[GROUP_TAIL, new Set(["onComplete"])]])
   )
 })
 

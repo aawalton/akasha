@@ -29,6 +29,10 @@ export const changeWalking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The names spared in a module property group's code are read off that group.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body read as code is named `.ts` or `.tsx`.",
     },
     {
@@ -106,5 +110,5 @@ export const changeWalking = {
     },
   ],
   createdAt: "2026-08-31T14:32:42.022Z",
-  updatedAt: "2026-09-27T20:15:30.000Z",
+  updatedAt: "2026-10-10T12:29:13.104Z",
 } as const satisfies Module

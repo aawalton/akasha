@@ -5,6 +5,8 @@ import type {
   RunningAsync,
 } from "akasha/check/modules/judging/judging.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
+import { code } from "akasha/code/module/properties/code.code-file-property.ts"
+import { modulePropertyGroup } from "akasha/code/module-property-group/module-property-group.page-type.ts"
 import { fixedExport } from "akasha/page/code-file-property/properties/fixed-export.text-property.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -97,8 +99,10 @@ function fixedInto(index: Answering, found: Map<string, ReadonlySet<string>>): u
     const slug = textAt(value, SLUG)
     const section = textAt(value, PROPERTY_SLUG)
     if (named === null || slug === null || section === null) continue
+    const tail =
+      one.pageTypeSlug === modulePropertyGroup.slug ? `${section}.${code.propertySlug}` : section
     for (const kind of index.typesCarrying(`${one.pageTypeSlug}/${slug}`)) {
-      found.set(`${kind}.${section}`, new Set(named))
+      found.set(`${kind}.${tail}`, new Set(named))
     }
   }
   return undefined
