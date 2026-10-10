@@ -9,8 +9,8 @@ export const storiesRead = {
   pageType: "page-type/story-read",
   viewPlace: 2,
   layout: "cards",
-  narrows: [],
-  viewSorts: [{ key: "title", descending: false }],
+  narrows: [{ key: "total-remaining-in-words", comparison: "at-or-after", values: ["1"] }],
+  viewSorts: [{ key: "total-remaining-in-words", descending: true }],
   groupSorts: [],
   visibleProperties: ["total-remaining-in-words"],
   alwaysShowProperties: ["total-remaining-in-words"],
@@ -68,5 +68,5 @@ export const storiesRead = {
   itemPageSize: 12,
   groupPageSize: 6,
   createdAt: "2026-09-27T20:52:27.648Z",
-  updatedAt: "2026-10-10T12:48:05.923Z",
+  updatedAt: "2026-10-10T12:49:42.408Z",
 } as const satisfies View
