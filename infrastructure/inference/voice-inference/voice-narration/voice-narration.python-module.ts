@@ -25,7 +25,24 @@ export const voiceNarration = {
       decisionKind: "decision-kind/departure",
       statement: "A chapter also marks where each later sentence of a segment begins once spoken.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Kokoro opens a call with about 300 ms of silence and closes it with about 500 ms.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A segment's speech keeps 40 ms of quiet on either side and no more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pause after a segment is the gap heard after its speech.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sentence's mark moves back by the silence trimmed from its segment's start.",
+    },
   ],
   createdAt: "2026-10-05T20:30:02.170Z",
-  updatedAt: "2026-10-06T15:15:42.000Z",
+  updatedAt: "2026-10-10T18:12:28.029Z",
 } as const satisfies PythonModule

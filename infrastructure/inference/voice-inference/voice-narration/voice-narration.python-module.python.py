@@ -3,7 +3,10 @@
 A session takes the chapters the web server hands it, in order. Each chapter
 is a list of segments the caller already divided, each with the pause after
 it. Every segment is synthesized under the shared inference lock, one segment
-at a time, so other callers interleave between segments. The PCM of every
+at a time, so other callers interleave between segments. Kokoro opens and
+closes each call with several hundred milliseconds of silence, so each
+segment's speech is trimmed to TRIM_MARGIN_SECONDS of quiet on either side,
+and the pause the caller asked for is the gap the listener hears. The PCM of every
 segment and its pause is fed to ONE ffmpeg AAC encoder per session, so no
 encoder priming falls between segments or chapters. The encoded pieces stay
 in this process's memory (voice_hls) and nothing is written to disk.
@@ -32,6 +35,7 @@ import asyncio
 import secrets
 import time
 
+import numpy as np
 from fastapi import Request
 from fastapi.concurrency import run_in_threadpool
 from fastapi.responses import JSONResponse, Response
@@ -47,6 +51,8 @@ MAX_SESSION_BYTES = 256 * 1024 * 1024
 MAX_SEGMENTS = 3000
 MAX_SEGMENT_CHARS = 2000
 MAX_PAUSE_MS = 5000
+TRIM_THRESHOLD = 0.01
+TRIM_MARGIN_SECONDS = 0.04
 # The playlist names every piece made so far. Holding a player at the start of
 # a playlist with no end is the web player's work: iOS stops fetching once its
 # buffer is full, so a playlist that grew only with what was fetched stalled.
@@ -61,6 +67,18 @@ def _error(status: int, message: str) -> JSONResponse:
 
 def _whole(value: object) -> bool:
     return isinstance(value, int) and not isinstance(value, bool) and value >= 0
+
+
+def _trimmed(audio: np.ndarray) -> "tuple[np.ndarray, float]":
+    """The speech with its silence trimmed to TRIM_MARGIN_SECONDS on either side,
+    and the seconds trimmed from its start."""
+    loud = np.flatnonzero(np.abs(audio) > TRIM_THRESHOLD)
+    if loud.size == 0:
+        return audio, 0.0
+    margin = int(SAMPLE_RATE * TRIM_MARGIN_SECONDS)
+    start = max(0, int(loud[0]) - margin)
+    end = min(len(audio), int(loud[-1]) + 1 + margin)
+    return audio[start:end], start / SAMPLE_RATE
 
 
 def _segments_of(body: dict) -> "tuple[list[tuple[str, int, int | None]] | None, str | None]":
@@ -143,6 +161,8 @@ class Session:
             async with _INFER_LOCK:
                 audio, starts, chars = await run_in_threadpool(synthesize_timed, text, self.voice)
             if audio is not None:
+                audio, lead = _trimmed(audio)
+                starts = [(char, max(0.0, seconds - lead)) for char, seconds in starts]
                 pcm = _pcm_bytes(audio)
             begun = self.fed_samples / SAMPLE_RATE
             timed, by_tokens = sentence_seconds(text, sentences, starts, chars, len(pcm) / 2 / SAMPLE_RATE)
