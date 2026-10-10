@@ -9,6 +9,7 @@ import {
   titleOf,
 } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { getLocationDisplayName } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { houseBankKeyFor } from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
 import type {
   ItemAction,
   MoveToDestination,
@@ -81,14 +82,8 @@ export function resolveStorageKey(
   }
   if (venue === "house-storage") {
     if (destination === "furniture-vault") return "FurnitureVault"
-    if (destination?.startsWith("house-storage:")) {
-      const chestId = destination.slice("house-storage:".length)
-      if (inventory) {
-        for (const key of Object.keys(inventory.locations)) {
-          if (key.startsWith("HouseBank:") && key.endsWith(`:${chestId}`)) return key
-        }
-      }
-    }
+    if (destination !== undefined && inventory)
+      return houseBankKeyFor(destination, inventory.locations)
     return undefined
   }
   if (venue === "guild-bank") {
@@ -110,12 +105,11 @@ export function resolveStorageDetail(
     return venues === null ? undefined : titleOf(venues, destination)
   }
 
-  if (venue === "house-storage" && destination.startsWith("house-storage:")) {
-    const chestId = destination.slice("house-storage:".length)
-    for (const [key, location] of Object.entries(inventory.locations)) {
-      if (key.startsWith("HouseBank:") && key.endsWith(`:${chestId}`)) {
-        return getLocationDisplayName(key, location.displayName)
-      }
+  if (venue === "house-storage") {
+    const key = houseBankKeyFor(destination, inventory.locations)
+    const location = key === undefined ? undefined : inventory.locations[key]
+    if (key !== undefined && location !== undefined) {
+      return getLocationDisplayName(key, location.displayName)
     }
   }
 

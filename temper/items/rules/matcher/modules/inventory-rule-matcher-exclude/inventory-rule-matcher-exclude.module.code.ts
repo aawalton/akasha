@@ -7,6 +7,11 @@ import {
   classifyLocation,
   type LocationTypeId,
 } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import {
+  chestIdOfHouseBankKey,
+  houseStorageTarget,
+  matchStorageChest,
+} from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
 import type {
   AffectedItem,
   ClassifiedInventoryItem,
@@ -46,7 +51,7 @@ interface ExcludeLocation {
   locationKey?: string
   bagId?: number
   locationType?: LocationTypeId
-  locationKeyEndsWith?: string
+  storageChest?: string
 }
 
 export function getExcludeLocation(rule: {
@@ -76,10 +81,8 @@ export function getExcludeLocation(rule: {
     }
     if (rule.destination === "furniture-vault") return { locationKey: "FurnitureVault" }
     if (rule.destination === "house-storage") return { locationType: "housing-storage" }
-    if (rule.destination.startsWith("house-storage:")) {
-      const chestId = rule.destination.slice("house-storage:".length)
-      return { locationKeyEndsWith: `:${chestId}` }
-    }
+    const chest = houseStorageTarget(rule.destination)
+    if (chest !== undefined) return { storageChest: chest }
     if (rule.destination === "guild-bank") return undefined
     if (rule.destination.startsWith("guild-bank:")) {
       const guildName = rule.destination.slice("guild-bank:".length)
@@ -97,11 +100,11 @@ export function isAlreadyAtDestination(
   if (exclude.locationType != null) {
     return classifyLocation(ci.locationKey) === exclude.locationType
   }
-  if (exclude.locationKeyEndsWith != null) {
-    return (
-      ci.locationKey.startsWith("HouseBank:") &&
-      ci.locationKey.endsWith(exclude.locationKeyEndsWith)
-    )
+  if (exclude.storageChest != null) {
+    const chestId = chestIdOfHouseBankKey(ci.locationKey)
+    if (chestId === undefined) return false
+    const here = { chestId, name: ci.locationDisplayName }
+    return matchStorageChest(exclude.storageChest, [here]).kind === "one"
   }
   if (exclude.locationKey != null) {
     if (ci.locationKey !== exclude.locationKey) return false

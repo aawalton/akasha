@@ -104,11 +104,25 @@ describe("An item already at its destination is marked rather than moved.", () =
   })
 
   test("a target naming one chest takes the house bank coffer that chest closes", () => {
-    const exclude = { locationKeyEndsWith: ":42" }
+    const exclude = { storageChest: "42" }
     const asked = classified({ locationKey: "HouseBank:42" })
     const other = classified({ locationKey: "HouseBank:99" })
 
     expect(isAlreadyAtDestination(asked, exclude)).toBe(true)
+    expect(isAlreadyAtDestination(other, exclude)).toBe(false)
+  })
+
+  test("a target naming a chest by name takes the coffer of that name", () => {
+    const rule = { action: "move-to" as const, destination: "house-storage:Crown Items" }
+    expect(getExcludeLocation(rule)).toEqual({ storageChest: "Crown Items" })
+    const exclude = { storageChest: "Crown Items" }
+    const named = classified({
+      locationKey: "HouseBank:5462:4678",
+      locationDisplayName: "Crown Items",
+    })
+    const other = classified({ locationKey: "HouseBank:5462:4677", locationDisplayName: "Empty" })
+
+    expect(isAlreadyAtDestination(named, exclude)).toBe(true)
     expect(isAlreadyAtDestination(other, exclude)).toBe(false)
   })
 })
