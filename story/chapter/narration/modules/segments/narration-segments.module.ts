@@ -79,6 +79,14 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An ellipsis is handed on as three dots.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Kokoro pauses after three dots and never after the single ellipsis character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A link, an ornament, an image placeholder or a hidden character is never spoken.",
     },
     {
@@ -149,6 +157,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-10T15:43:18.979Z",
+  updatedAt: "2026-10-10T18:10:00.209Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module

@@ -81,6 +81,7 @@ const STRONG = /(\*\*|__)(.+?)\1/g
 const EMPHASIS = /(^|[^\p{L}\p{N}*_])([*_])(?=\S)(.+?)(?<=\S)\2(?![\p{L}\p{N}])/gu
 const MARKS = /[*`]+|(?<![\p{L}\p{N}])_+|_+(?![\p{L}\p{N}])/gu
 const SPACES = /\s+/g
+const ELLIPSIS = /…/g
 const ENDS_SPOKEN = /[.!?…]["'”’)\]]*$/
 const BOUNDARY = /[.!?…]+["'”’)\]]*(?=\s+\S)/g
 const CLOSERS = /["'”’)\]]+$/
@@ -401,7 +402,9 @@ export function narrationSegmentsOf(
     held = null
   }
   for (const block of blocksOf(prose)) {
-    const sentences = block.sentences.map((one) => shoutedOf(respelled(one)))
+    const sentences = block.sentences.map((one) =>
+      shoutedOf(respelled(one)).replace(ELLIPSIS, "...")
+    )
     const spokenWords = sentences.reduce((sum, one) => sum + wordCount(one), 0)
     let said = 0
     const at = (): number =>

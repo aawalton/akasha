@@ -144,7 +144,14 @@ describe("narrationSegmentsOf", () => {
   test("an ellipsis between two words leaves them two words", () => {
     expect(texts("Start.\nI do…no, I don't...really.")).toEqual([
       "Start.",
-      "I do… no, I don't... really.",
+      "I do... no, I don't... really.",
+    ])
+  })
+
+  test("an ellipsis is said as three dots, so the voice pauses at it", () => {
+    expect(texts("Start.\nShe waited… and waited &hellip; then left.")).toEqual([
+      "Start.",
+      "She waited... and waited ... then left.",
     ])
   })
 
@@ -255,7 +262,7 @@ describe("narrationSegmentsOf", () => {
   test("a sound with no vowel and a whole word are said as written, and a stutter as a sound", () => {
     expect(texts("Start.\n“Hmm… Shh—” N-no, Mr. Brt went to St. Ives.")).toEqual([
       "Start.",
-      "“Hmm… [Shh](/ʃː/)—” [N](/nə/) no, Mr. Brt went to St. Ives.",
+      "“Hmm... [Shh](/ʃː/)—” [N](/nə/) no, Mr. Brt went to St. Ives.",
     ])
   })
 
