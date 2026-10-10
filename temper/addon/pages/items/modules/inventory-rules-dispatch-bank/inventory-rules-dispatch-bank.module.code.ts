@@ -21,7 +21,7 @@ import { freezeStockBackpackCounts } from "akasha/temper/addon/pages/items/modul
 import type { BankSlotContext } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import {
   executeVaultWithdrawals,
-  startVaultDepositChain,
+  startVaultDeposits,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.code.ts"
 import { executeBankWithdrawals } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"
 import { refreshBackpackActions } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
@@ -121,7 +121,7 @@ export function onOpenBank(): BankTransitionSummary | undefined {
       reportAction("Withdrew from furniture vault", withdrawnLinks)
     }
     dispatchingBank = false
-    startVaultDepositChain(moveItem)
+    startVaultDeposits(moveItem, withdrawnLinks.length)
     return undefined
   }
 

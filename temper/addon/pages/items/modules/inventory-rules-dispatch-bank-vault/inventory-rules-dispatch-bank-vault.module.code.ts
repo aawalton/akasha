@@ -1,4 +1,8 @@
 import { getConfiguredBufferSlots } from "akasha/temper/addon/pages/items/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
+import {
+  recordBankMoves,
+  recordBankPhaseMs,
+} from "akasha/temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
@@ -14,9 +18,15 @@ import {
 import { findMatchedRule } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import {
   noteServerAction,
+  runPaced,
   serverActionWaitMs,
 } from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import { slotKey } from "akasha/temper/addon/pages/items/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
+import {
+  planVaultDeposit,
+  splitLanded,
+  type VaultDepositPlan,
+} from "akasha/temper/addon/pages/items/modules/inventory-vault-deposit-plan/inventory-vault-deposit-plan.module.code.ts"
 import { isBackpackRequiredAction } from "akasha/temper/items/rules/core/modules/action-storage-capability/action-storage-capability.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -118,7 +128,7 @@ function findNextVaultDepositSlot(): number | undefined {
   return found
 }
 
-export function startVaultDepositChain(
+function startVaultDepositChain(
   bankMoveItem: (
     sourceBag: number,
     sourceSlot: number,
@@ -241,4 +251,137 @@ export function startVaultDepositChain(
   )
 
   issueNext()
+}
+
+const VAULT_BULK_NS = `${ADDON_NAME}_VaultBulkDeposit`
+const VAULT_BULK_SETTLE_MS = 1500
+
+let vaultBulkRunning = false
+
+function vaultStillOpen(this: void): boolean {
+  return IsBankOpen() && GetBankingBag() === BAG_FURNITURE_VAULT
+}
+
+function stackInBackpack(this: void, slot: number): number {
+  const [stackCount] = GetSlotStackSize(BAG_BACKPACK, slot)
+  return stackCount
+}
+
+function readVaultDepositPlan(): VaultDepositPlan {
+  const pending: number[] = []
+  forEachPendingAction(function (this: void, bagId, slotIndex, action, destination): undefined {
+    if (bagId !== BAG_BACKPACK) return
+    if (action !== "move-to" || destination !== "furniture-vault") return
+    if (stackInBackpack(slotIndex) === 0) return
+    pending.push(slotIndex)
+  })
+  const stowable: number[] = []
+  const backpackSize = GetBagSize(BAG_BACKPACK)
+  for (let slot = 0; slot < backpackSize; slot++) {
+    if (stackInBackpack(slot) > 0 && CanStowFurnitureItem(BAG_BACKPACK, slot)) stowable.push(slot)
+  }
+  return planVaultDeposit(pending, stowable)
+}
+
+function linkInBackpack(slot: number): string {
+  const stackCount = stackInBackpack(slot)
+  const itemLink = GetItemLink(BAG_BACKPACK, slot, LINK_STYLE_BRACKETS)
+  return stackCount > 1 ? `${itemLink} x${stackCount}` : itemLink
+}
+
+export function startVaultDeposits(
+  bankMoveItem: (
+    sourceBag: number,
+    sourceSlot: number,
+    targetBag: number,
+    targetSlot: number,
+    stackCount: number
+  ) => void,
+  withdrawCount: number
+): undefined {
+  if (vaultBulkRunning || vaultDepositRunning) return
+  const plan = readVaultDepositPlan()
+  if (plan.kind === "none") return
+  vaultBulkRunning = true
+  const slots = plan.slots
+  const startedMs = GetGameTimeMilliseconds()
+  const links: Record<number, string> = {}
+  for (const slot of slots) links[slot] = linkInBackpack(slot)
+  let finished = false
+
+  function finish(): undefined {
+    if (finished) return
+    finished = true
+    EVENT_MANAGER.UnregisterForEvent(VAULT_BULK_NS, EVENT_INVENTORY_SINGLE_SLOT_UPDATE)
+    EVENT_MANAGER.UnregisterForEvent(VAULT_BULK_NS, EVENT_CLOSE_BANK)
+    const depositedLinks: string[] = []
+    for (const slot of splitLanded(slots, stackInBackpack).landed) {
+      clearPendingAction(BAG_BACKPACK, slot)
+      const link = links[slot]
+      if (link !== undefined) depositedLinks.push(link)
+    }
+    recordBankPhaseMs("deposit", GetGameTimeMilliseconds() - startedMs)
+    recordBankMoves(withdrawCount, depositedLinks.length)
+    if (depositedLinks.length > 0) {
+      reportAction("Deposited to furniture vault", depositedLinks)
+    }
+    vaultBulkRunning = false
+    if (vaultStillOpen()) startVaultDepositChain(bankMoveItem)
+  }
+
+  function settleLater(): undefined {
+    zo_callLater(function (this: void): undefined {
+      finish()
+    }, VAULT_BULK_SETTLE_MS)
+  }
+
+  EVENT_MANAGER.RegisterForEvent(
+    VAULT_BULK_NS,
+    EVENT_INVENTORY_SINGLE_SLOT_UPDATE,
+    function (this: void): undefined {
+      if (splitLanded(slots, stackInBackpack).left.length === 0) finish()
+    }
+  )
+  EVENT_MANAGER.RegisterForEvent(VAULT_BULK_NS, EVENT_CLOSE_BANK, function (this: void): undefined {
+    finish()
+  })
+
+  if (plan.kind === "stow-all") {
+    runPaced(
+      [
+        function (this: void): boolean {
+          StowAllFurnitureItems()
+          return true
+        },
+      ],
+      vaultStillOpen,
+      function (this: void, completed: boolean): undefined {
+        if (!completed) {
+          finish()
+          return
+        }
+        settleLater()
+      }
+    )
+    return
+  }
+
+  const sends: ((this: void) => boolean)[] = []
+  for (const slot of slots) {
+    sends.push(function (this: void): boolean {
+      const stackCount = stackInBackpack(slot)
+      if (stackCount === 0) return false
+      const targetSlot = FindFirstEmptySlotInBag(BAG_FURNITURE_VAULT)
+      if (targetSlot === undefined) return false
+      bankMoveItem(BAG_BACKPACK, slot, BAG_FURNITURE_VAULT, targetSlot, stackCount)
+      return true
+    })
+  }
+  runPaced(sends, vaultStillOpen, function (this: void, completed: boolean): undefined {
+    if (!completed) {
+      finish()
+      return
+    }
+    settleLater()
+  })
 }

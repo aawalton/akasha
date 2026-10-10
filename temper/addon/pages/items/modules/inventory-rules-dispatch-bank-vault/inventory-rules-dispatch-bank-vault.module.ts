@@ -24,7 +24,19 @@ export const inventoryRulesDispatchBankVault = {
       decisionKind: "decision-kind/departure",
       statement: "A vault deposit waits where the shared window is full.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A visit sends every vault deposit at once rather than waiting on each to land.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deposit still in the backpack once those settle is sent again one at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "How long a visit's vault deposits took is kept in that visit's bank trace.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-09-27T15:12:24.000Z",
+  updatedAt: "2026-10-10T14:07:56.723Z",
 } as const satisfies Module
