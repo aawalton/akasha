@@ -37,10 +37,22 @@ export const questPortTrace = {
       statement: "A treasure press keeps the item it read, its slot and every spot known for it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Every position written down is also put on the whole world's scale.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A breadcrumb probe keeps the map it asked on and the game's whole answer there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A press that probed keeps where the player was on the player's own map.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here changes where the keybind ports.",
     },
   ],
   createdAt: "2026-10-08T17:07:58.033Z",
-  updatedAt: "2026-10-08T19:21:14.110Z",
+  updatedAt: "2026-10-10T13:55:00.117Z",
 } as const satisfies Module

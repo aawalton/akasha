@@ -88,6 +88,27 @@ export interface RecallReading {
   readonly money: number
 }
 
+export interface UniversalReading {
+  readonly x: number
+  readonly y: number
+}
+
+export interface ProbeReading {
+  readonly label: string
+  readonly result: number
+  readonly map: MapReading
+  readonly answer?: PositionAnswer
+  readonly universal?: UniversalReading
+  readonly timedOut?: boolean
+}
+
+export interface PlayerReading {
+  readonly map: MapReading
+  readonly x: number
+  readonly y: number
+  readonly universal: UniversalReading
+}
+
 export interface SpotReading {
   readonly mapId: number
   readonly x: number
@@ -110,12 +131,15 @@ export interface PortTraceEntry {
   mapSteps: MapStep[]
   taskId?: number
   answer?: PositionAnswer
+  answerUniversal?: UniversalReading
   timedOut?: boolean
   nodesRead?: number
   candidatesKept?: number
   closest?: CandidateReading[]
   target?: CandidateReading
   recall?: RecallReading
+  player?: PlayerReading
+  probes?: ProbeReading[]
   said: string[]
 }
 

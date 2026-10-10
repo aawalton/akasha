@@ -116,6 +116,7 @@
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-update/minimap-update.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-assist-trace/quest-port-assist-trace.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-breadcrumb-probe/quest-port-breadcrumb-probe.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-journal/quest-port-journal.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-trace/quest-port-trace.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-travel/quest-port-travel.module.code.ts","typed":false,"deferred":false}

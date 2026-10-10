@@ -4,16 +4,20 @@ import {
   closestCandidates,
   keepLast,
   type MapReading,
+  type PlayerReading,
   PORT_TRACE_CAP,
   type PortTraceEntry,
   type PositionAnswer,
+  type ProbeReading,
   type RecallReading,
   type SpotReading,
+  type UniversalReading,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
 import type { PortTarget } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-choose/quest-port-choose.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/world/quests/modules/quests-saved-variables/quests-saved-variables.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -30,6 +34,11 @@ function readMap(this: void): MapReading {
     zoneIndex,
     zoneName: zo_strformat("<<1>>", GetZoneNameByIndex(zoneIndex)),
   }
+}
+
+function universalOf(this: void, x: number, y: number): UniversalReading {
+  const [offsetX, offsetY, width, height] = GetUniversallyNormalizedMapInfo(GetCurrentMapId())
+  return { x: offsetX + x * width, y: offsetY + y * height }
 }
 
 function noting(this: void, note: (entry: PortTraceEntry) => void): undefined {
@@ -116,7 +125,36 @@ export function noteTask(this: void, taskId: number | undefined): undefined {
 export function noteAnswer(this: void, answer: PositionAnswer): undefined {
   return noting((entry) => {
     entry.answer = answer
+    entry.answerUniversal = universalOf(answer.xLoc, answer.yLoc)
     entry.mapSteps.push({ step: "answered", result: 0, map: readMap() })
+  })
+}
+
+export function noteProbe(
+  this: void,
+  label: string,
+  result: number,
+  answer?: PositionAnswer,
+  timedOut?: boolean
+): undefined {
+  return noting((entry) => {
+    const probe: ProbeReading = {
+      label,
+      result,
+      map: readMap(),
+      answer,
+      universal: answer === undefined ? undefined : universalOf(answer.xLoc, answer.yLoc),
+      timedOut,
+    }
+    entry.probes = [...(entry.probes ?? []), probe]
+  })
+}
+
+export function notePlayer(this: void): undefined {
+  return noting((entry) => {
+    const [x, y] = GetMapPlayerPosition("player")
+    const player: PlayerReading = { map: readMap(), x, y, universal: universalOf(x, y) }
+    entry.player = player
   })
 }
 

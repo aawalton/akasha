@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"world-names.module.code.ts","path":"temper/addon/pages/world/collections/modules/journal-state/journal-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-names.module.code.ts","path":"temper/addon/pages/world/modules/world-entry/world-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-names.module.code.ts","path":"temper/addon/pages/world/modules/world-global/world-global.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"world-names.module.code.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-breadcrumb-probe/quest-port-breadcrumb-probe.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-names.module.code.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-journal/quest-port-journal.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-names.module.code.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-key-owners/quest-port-key-owners.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-names.module.code.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port/quest-port.module.code.ts","typed":false,"deferred":false}

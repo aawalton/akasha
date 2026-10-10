@@ -44,6 +44,11 @@ export const questPort = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A breadcrumb answer is probed on other maps after the target is chosen and before the port.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A quest step without a position ports nowhere.",
     },
     {
@@ -84,5 +89,5 @@ export const questPort = {
     },
   ],
   createdAt: "2026-10-08T14:55:08.172Z",
-  updatedAt: "2026-10-08T17:57:37.858Z",
+  updatedAt: "2026-10-10T13:55:00.117Z",
 } as const satisfies Module

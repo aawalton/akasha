@@ -1,4 +1,9 @@
 import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
+import {
+  cancelProbe,
+  initBreadcrumbProbe,
+  probeBreadcrumb,
+} from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-breadcrumb-probe/quest-port-breadcrumb-probe.module.code.ts"
 import type { PositionAnswer } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
 import {
   type ConditionReading,
@@ -170,12 +175,17 @@ function onPositionAnswered(this: void, taskId: number, answer: PositionAnswer):
   const target = nearestTarget(targets, x, y)
   noteCandidates(nodes.length, targets, x, y, target)
   if (target === undefined && climbForTargetsAgain(question)) return undefined
-  SetMapToPlayerLocation()
-  if (target === undefined) {
-    say(`No wayshrine you have found and no house you own is on the map of ${question.objective}.`)
-    return undefined
+  const decided = (): undefined => {
+    SetMapToPlayerLocation()
+    if (target === undefined) {
+      return say(
+        `No wayshrine you have found and no house you own is on the map of ${question.objective}.`
+      )
+    }
+    return portTo(target, question.objective)
   }
-  return portTo(target, question.objective)
+  if (answer.isBreadcrumb) return probeBreadcrumb(question, decided)
+  return decided()
 }
 
 function giveUpOn(this: void, taskId: number): undefined {
@@ -190,6 +200,7 @@ function giveUpOn(this: void, taskId: number): undefined {
 }
 
 export function portNearQuestObjective(this: void): undefined {
+  cancelProbe()
   beginPress()
   noteKeyOwners("port-press")
   if (IsUnitInCombat("player")) return say("Porting waits until you are out of combat.")
@@ -224,6 +235,7 @@ export function portNearQuestObjective(this: void): undefined {
 }
 
 export function initQuestPort(this: void): undefined {
+  initBreadcrumbProbe()
   EVENT_MANAGER.RegisterForEvent<
     [
       number,

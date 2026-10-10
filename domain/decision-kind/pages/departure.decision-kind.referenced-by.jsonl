@@ -5186,6 +5186,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/navigation-declarations/navigation-declarations.type-declaration.ts","id":"01a06269-2b16-7e93-92d5-2c6e6bb9cb17"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/temper-addon-world-navigation.domain.ts","id":"01a0c6e7-9054-7191-bd84-4e8d7e6bb16e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-assist-trace/quest-port-assist-trace.module.ts","id":"01a11c7a-91ec-7aba-8883-bab9257a24f8"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-breadcrumb-probe/quest-port-breadcrumb-probe.module.ts","id":"01a12618-7795-7d76-af46-2a9e44298023"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.ts","id":"01a11c76-a81a-76a2-8dc0-e948c3d04595"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-choose/quest-port-choose.module.ts","id":"01a11c00-c349-7071-b3cd-f41cd90f2c11"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-journal/quest-port-journal.module.ts","id":"01a11c78-b914-7d43-a65f-184f40479746"}
