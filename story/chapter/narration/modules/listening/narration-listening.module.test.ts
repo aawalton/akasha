@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import {
+  chapterHref,
   commandTaken,
   SPEEDS,
   speedAfter,
@@ -27,6 +28,27 @@ describe("speed", () => {
 
   test("every step is shown as a number with a times sign", () => {
     expect(SPEEDS.map(speedShown)).toEqual(["0.8×", "1×", "1.2×", "1.4×", "1.6×", "1.8×", "2×"])
+  })
+})
+
+describe("chapter page", () => {
+  const held = {
+    id: "01a10dd0-f139-7f90-93df-c7587b8ac438",
+    pageTypeSlug: "story-chapter-read",
+    slug: "the-wandering-inn-0467-7-58",
+    title: "7.58",
+    storyTitle: "The Wandering Inn",
+    ownLength: null,
+    ownProgress: null,
+    completedAt: null,
+  }
+
+  test("the chapter playing is reached at its page type, slug and the end of its id", () => {
+    expect(chapterHref(held)).toBe("/story-chapter-read/the-wandering-inn-0467-7-58-7b8ac438")
+  })
+
+  test("a chapter with no slug is reached by its title", () => {
+    expect(chapterHref({ ...held, slug: "" })).toBe("/story-chapter-read/7-58-7b8ac438")
   })
 })
 

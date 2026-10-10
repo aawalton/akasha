@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"story/chapter/narration/modules/bar/narration-bar.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"temper/web/modules/automation-panel-card/automation-panel-card.module.code.tsx","typed":false,"deferred":false}

@@ -3,7 +3,9 @@
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import {
+  chapterHref,
   SKIP_SECONDS,
   speedShown,
 } from "akasha/story/chapter/narration/modules/listening/narration-listening.module.code.ts"
@@ -67,7 +69,16 @@ export function NarrationBar() {
     >
       <div className="mx-auto flex max-w-[68ch] items-center gap-2">
         <div className="min-w-0 flex-1">
-          <p className="truncate font-medium text-primary text-sm">{title}</p>
+          {chapter === null ? (
+            <p className="truncate font-medium text-primary text-sm">{title}</p>
+          ) : (
+            <PagesUILink
+              href={chapterHref(chapter)}
+              className="block truncate font-medium text-primary text-sm hover:underline"
+            >
+              {title}
+            </PagesUILink>
+          )}
           <p className={cn("truncate text-xs", failed ? "text-red" : "text-tertiary")}>{below}</p>
         </div>
         {failed ? (

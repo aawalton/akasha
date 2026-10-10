@@ -5,6 +5,8 @@ import {
   COLLECTION_SHAPE,
   completionValues,
 } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
+import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import {
   type ChapterPlaced,
   chapterStarts,
@@ -193,6 +195,15 @@ export function heldOf(said: unknown): ChapterHeld | null {
   if (said === null || typeof said !== "object") return null
   const held = said as ChapterHeld
   return typeof held.id === "string" && typeof held.slug === "string" ? held : null
+}
+
+export function chapterHref(held: ChapterHeld): string {
+  return buildPageHref({
+    pageTypeSlug: toPageTypeSlug(held.pageTypeSlug),
+    slug: held.slug,
+    fallbackSlugSource: held.title,
+    id: held.id,
+  })
 }
 
 export function markRead(held: ChapterHeld | undefined): undefined {
