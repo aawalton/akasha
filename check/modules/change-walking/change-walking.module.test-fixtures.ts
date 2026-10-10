@@ -92,20 +92,15 @@ const METRIC = "temper-metric"
 
 export const FORMULA_TAIL = `${METRIC}.${FORMULA_SECTION}`
 
-export const MODULE_PROPERTY_GROUP = "module-property-group"
-
-export const GROUP_TAIL = `${METRIC}.${FORMULA_SECTION}.code`
-
 const FIXED_PAGE_AT = "akasha/fixed-export.text-property.ts"
+
+const KIND_PAGE_AT = "akasha/code-file-property.page-type.ts"
+
+const FORMULA_PAGE_AT = "akasha/metric-formula.code-file-property.ts"
 
 const METRIC_PAGE_AT = "akasha/temper-metric.page-type.ts"
 
-export function fixedWorld(
-  fixed: readonly string[],
-  fileKind: string = CODE_FILE_PROPERTY
-): Answering {
-  const kindPageAt = `akasha/${fileKind}.page-type.ts`
-  const formulaPageAt = `akasha/${FORMULA_SLUG}.${fileKind}.ts`
+export function fixedWorld(fixed: readonly string[]): Answering {
   const root = scratch.rootFor("akasha-fixed-export-")
   const values = new Map<string, Value>()
   const filed = (kind: string, slug: string, path: string, value: Value): string => {
@@ -118,15 +113,15 @@ export function fixedWorld(
   shapeAdded(root, TEXT_PROPERTY, FIXED_EXPORT_SLUG, [
     { pageTypeSlug: TEXT_PROPERTY, slug: FIXED_EXPORT_SLUG, propertySlug: FIXED_EXPORT_SLUG },
   ])
-  shapeAdded(root, fileKind, FORMULA_SLUG, [
-    { pageTypeSlug: fileKind, slug: FORMULA_SLUG, propertySlug: FORMULA_SECTION },
+  shapeAdded(root, CODE_FILE_PROPERTY, FORMULA_SLUG, [
+    { pageTypeSlug: CODE_FILE_PROPERTY, slug: FORMULA_SLUG, propertySlug: FORMULA_SECTION },
   ])
-  const typed = typeListed(root, fileKind, kindPageAt)
+  const fileKind = typeListed(root, CODE_FILE_PROPERTY, KIND_PAGE_AT)
   const property = filed(TEXT_PROPERTY, FIXED_EXPORT_SLUG, FIXED_PAGE_AT, {
     slug: FIXED_EXPORT_SLUG,
   })
-  relationFiled(root, property, PAGE_PROPERTY, typed, [{ path: kindPageAt, id: typed }])
-  const formula = filed(fileKind, FORMULA_SLUG, formulaPageAt, {
+  relationFiled(root, property, PAGE_PROPERTY, fileKind, [{ path: KIND_PAGE_AT, id: fileKind }])
+  const formula = filed(CODE_FILE_PROPERTY, FORMULA_SLUG, FORMULA_PAGE_AT, {
     slug: FORMULA_SLUG,
     propertySlug: FORMULA_SECTION,
     [FIXED_EXPORT_KEY]: fixed,
