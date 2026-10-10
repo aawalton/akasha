@@ -13,7 +13,7 @@ describe("spokenSegmentsOf", () => {
   test("the title is said first, apart from the prose", () => {
     expect(spokenSegmentsOf("Chapter 81", "She ran.")).toEqual([
       { text: "Chapter 81", pauseAfterMs: 900, wordStart: 0 },
-      { text: "She ran.", pauseAfterMs: 900, wordStart: 0 },
+      { text: "She ran.", pauseAfterMs: 1320, wordStart: 0 },
     ])
   })
 
@@ -34,7 +34,7 @@ describe("spokenSegmentsOf", () => {
 
   test("a chapter with no title starts with its prose", () => {
     expect(spokenSegmentsOf("  ", "She ran.")).toEqual([
-      { text: "She ran.", pauseAfterMs: 900, wordStart: 0 },
+      { text: "She ran.", pauseAfterMs: 1320, wordStart: 0 },
     ])
   })
 
@@ -42,8 +42,8 @@ describe("spokenSegmentsOf", () => {
 
   test("a chapter read part way starts at the segment holding its progress, untitled", () => {
     const said = spokenSegmentsOf("Ch", prose, { ownProgress: 6, ownLength: 10 })
-    expect(said.map((one) => one.text)).toEqual(["Three four five. Six seven. Eight nine ten."])
-    expect(said[0]?.wordStart).toBe(2)
+    expect(said.map((one) => one.text)).toEqual(["Six seven.", "Eight nine ten."])
+    expect(said[0]?.wordStart).toBe(5)
   })
 
   test("progress inside the first segment still starts at the beginning with the title", () => {
@@ -52,7 +52,7 @@ describe("spokenSegmentsOf", () => {
   })
 
   test("a chapter read through, or not begun, starts at its beginning", () => {
-    const whole = ["Ch", "One two.", "Three four five. Six seven. Eight nine ten."]
+    const whole = ["Ch", "One two.", "Three four five.", "Six seven.", "Eight nine ten."]
     for (const ownProgress of [0, 10, null]) {
       const said = spokenSegmentsOf("Ch", prose, { ownProgress, ownLength: 10 })
       expect(said.map((one) => one.text)).toEqual(whole)
@@ -61,7 +61,7 @@ describe("spokenSegmentsOf", () => {
 
   test("word starts are counted in the chapter's own length", () => {
     const said = spokenSegmentsOf("", prose, { ownProgress: null, ownLength: 20 })
-    expect(said.map((one) => one.wordStart)).toEqual([0, 4])
+    expect(said.map((one) => one.wordStart)).toEqual([0, 4, 10, 14])
   })
 })
 
