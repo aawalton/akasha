@@ -3698,7 +3698,8 @@
         6,
         7,
         8,
-        10
+        10,
+        13
       ],
       "23": [
         1,
@@ -6684,7 +6685,7 @@
     }
   },
   "companionRapport": {
-    "6": 2573,
+    "6": 2583,
     "13": 817
   },
   "quests": [
@@ -13180,11 +13181,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "seen": [
       5,
       3,
@@ -13204,8 +13205,9 @@
       5
     ]
   },
+  "bankVisitDate": "2026-10-10",
   "inventoryCheck": {
-    "date": "2026-10-09",
-    "misplaced": 62
+    "date": "2026-10-10",
+    "misplaced": 0
   }
 }
