@@ -12,7 +12,7 @@ import {
 describe("spokenSegmentsOf", () => {
   test("the title is said first, apart from the prose", () => {
     expect(spokenSegmentsOf("Chapter 81", "She ran.")).toEqual([
-      { text: "Chapter 81", pauseAfterMs: 900, wordStart: 0 },
+      { text: "Chapter 81", pauseAfterMs: 1320, wordStart: 0 },
       { text: "She ran.", pauseAfterMs: 1320, wordStart: 0 },
     ])
   })

@@ -22,7 +22,7 @@ const VOICE_ORIGIN = "http://voice-infer.voice.svc.cluster.local:8080"
 
 const NARRATION_AT = "/v1/narration"
 
-const TITLE_PAUSE_MS = 900
+const TITLE_PAUSE_MS = 1320
 
 const SPEECH_CEILING_MS = 15_000
 

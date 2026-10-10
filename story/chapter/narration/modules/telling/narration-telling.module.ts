@@ -14,6 +14,10 @@ export const narrationTelling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chapter's title is followed by the pause a heading leaves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chapter resumed part way starts at its prose, with no title said.",
     },
     {
@@ -85,6 +89,6 @@ export const narrationTelling = {
       statement: "A refusal by the speech workload reaches Alan with the reason it gave.",
     },
   ],
-  updatedAt: "2026-10-09T01:58:33.217Z",
+  updatedAt: "2026-10-10T19:02:11.731Z",
   createdAt: "2026-10-05T20:36:00.748Z",
 } as const satisfies Module
