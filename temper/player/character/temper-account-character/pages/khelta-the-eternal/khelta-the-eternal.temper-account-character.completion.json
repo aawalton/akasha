@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHVMUAAIBkRRMi5V1AwR7VLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJhFJyyTRScujIAHN0RKyABNgAAAAALTE8AAgDUEABAGAACQAIAASAACEAADJwAjAGYARkABCIwIABDJIFAjEQA0gAAACAMAHIAgAcQAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0nAUAyDjEgaw",
+  "buildHash": "ATQHVMUAAIBkRRMi5V1AwR7VLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJhFJyyTRScujIAHN0RKyABNgAAAAALTE8AAgDUEABAGAACQAIAASAACEAADJwAjAGYARkABCIwIABDJIFAjEQA0gAAACAMAHIAgAcQAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAUAyDjEgaw",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -2729,11 +2729,11 @@
     },
     "111": {
       "currentRank": 4,
-      "currentXP": 79,
+      "currentXP": 83,
       "nextRankXP": 100
     },
     "117": {
-      "currentRank": 3,
+      "currentRank": 4,
       "currentXP": 20,
       "nextRankXP": 30
     },
@@ -3463,6 +3463,7 @@
         10
       ],
       "11": [
+        3,
         5,
         6,
         7,
@@ -4074,6 +4075,7 @@
         75
       ],
       "28": [
+        16,
         28,
         37,
         41,
@@ -4081,7 +4083,9 @@
         43,
         44,
         45,
+        50,
         68,
+        74,
         77
       ],
       "33": [
@@ -5005,8 +5009,8 @@
     }
   },
   "skillPoints": {
-    "total": 359,
-    "unassigned": 5,
+    "total": 360,
+    "unassigned": 6,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -5016,7 +5020,7 @@
     "endlessArchive": 0,
     "skyshardPoints": 173,
     "totalSkyshards": 520,
-    "zoneQuestTotal": 54,
+    "zoneQuestTotal": 55,
     "groupDungeonTotal": 4,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -5089,7 +5093,7 @@
       "EP3": 3,
       "DC1": 4,
       "EP4": 3,
-      "HB": 3,
+      "HB": 4,
       "CL": 0,
       "SU": 0,
       "MM": 0,
@@ -6707,7 +6711,7 @@
     }
   },
   "companionRapport": {
-    "6": 2715,
+    "6": 2718,
     "13": 817
   },
   "quests": [
@@ -7171,6 +7175,7 @@
     5531,
     5532,
     5534,
+    5556,
     5572,
     5582,
     5733,
@@ -9739,6 +9744,7 @@
         118,
         119,
         120,
+        123,
         124,
         125,
         126
@@ -10547,7 +10553,8 @@
       "1": [
         1,
         2,
-        3
+        3,
+        4
       ],
       "2": [
         1,
@@ -10580,6 +10587,7 @@
         2
       ],
       "11": [
+        1,
         2
       ]
     },
