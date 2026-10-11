@@ -5,6 +5,7 @@
   "classId": 6,
   "allianceId": 1,
   "raceId": 3,
+  "curseState": "vampire",
   "className": "Templar",
   "classIcon": "/esoui/art/icons/class/class_templar.dds",
   "achievements": {
@@ -11801,7 +11802,8 @@
       68,
       69,
       70,
-      71
+      71,
+      74
     ],
     "19": [
       1,
@@ -13314,11 +13316,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "seen": [
       5,
       3,
@@ -13332,14 +13334,14 @@
       1,
       6,
       2,
-      3,
       7,
-      4,
-      5
+      3,
+      5,
+      4
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "misplaced": 0
   }
 }
