@@ -11,7 +11,7 @@ export const day20261010 = {
   activeCalories: 795.59,
   wisdomWords: 0,
   intelligenceTopics: 0,
-  inboxTasks: 3,
+  inboxTasks: 2,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 0,
   inboxTemperTasksClearedToday: true,
@@ -21,6 +21,6 @@ export const day20261010 = {
   inboxGaps: 0,
   inboxRefusals: 12059,
   createdAt: "2026-10-10T10:00:04.138Z",
-  updatedAt: "2026-10-11T01:53:39.488Z",
+  updatedAt: "2026-10-11T01:53:43.387Z",
   sessions: "jsonl",
 } as const satisfies Day
