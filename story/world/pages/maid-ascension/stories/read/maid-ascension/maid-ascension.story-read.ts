@@ -5,7 +5,7 @@ export const maidAscension = {
   type: "page-type/story-read",
   slug: "maid-ascension",
   author: "Eru Dit",
-  following: true,
+  following: false,
   unit: "unit/words",
   title: "Maid Ascension",
   world: "world/maid-ascension",
@@ -33,5 +33,5 @@ export const maidAscension = {
   ],
   publicationStatus: "ongoing",
   createdAt: "2026-09-28T20:27:04.752Z",
-  updatedAt: "2026-09-28T20:27:05.000Z",
+  updatedAt: "2026-10-11T03:07:46.053Z",
 } as const satisfies StoryRead

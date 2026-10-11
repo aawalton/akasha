@@ -20,5 +20,6 @@ export const metaworldHopecore0192Chapter108DontDreamItsOver2 = {
     },
   ],
   createdAt: "2026-10-11T01:07:47.455Z",
-  updatedAt: "2026-10-11T01:07:47.455Z",
+  updatedAt: "2026-10-11T03:07:46.053Z",
+  ownProgress: 2252,
 } as const satisfies StoryChapterRead
