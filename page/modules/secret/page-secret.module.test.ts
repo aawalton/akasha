@@ -151,16 +151,21 @@ test("a value of many lines is enciphered and decrypts back byte for byte", () =
   expect(secretsIn(root, PAGE)).toEqual(held({ "access-token": whole }))
 })
 
+const ACCESS = "held_access_one"
+
+const REFRESH = "held_refresh_two"
+
 test("what is composed is encrypted, names its keys in the open, and decrypts back", () => {
   const root = rooted()
-  const said = cipherFor(root, PAGE, held({ "access-token": "one", "refresh-token": "two" }))
+  const said = cipherFor(root, PAGE, held({ "access-token": ACCESS, "refresh-token": REFRESH }))
   if (said.text === null) throw new Error(said.why)
   expect(looksEncrypted(said.text)).toBe(true)
   expect(keysHeldIn(said.text)).toEqual(["access-token", "refresh-token"])
-  expect(said.text).not.toContain("one")
+  expect(said.text).not.toContain(ACCESS)
+  expect(said.text).not.toContain(REFRESH)
 
   writeFileSync(join(root, BESIDE), said.text, "utf8")
-  expect(secretsIn(root, PAGE)).toEqual(held({ "access-token": "one", "refresh-token": "two" }))
+  expect(secretsIn(root, PAGE)).toEqual(held({ "access-token": ACCESS, "refresh-token": REFRESH }))
   expect(keysBeside(root, PAGE)).toEqual(["access-token", "refresh-token"])
 })
 
