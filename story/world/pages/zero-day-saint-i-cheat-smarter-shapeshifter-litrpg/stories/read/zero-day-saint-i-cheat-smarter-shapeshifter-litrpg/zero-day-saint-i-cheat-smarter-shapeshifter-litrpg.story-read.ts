@@ -19,6 +19,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg = {
   externalTags: [
     "LitRPG",
     "Progression",
+    "Post Apocalyptic",
     "Strategy",
     "Female Lead",
     "Action",
@@ -27,10 +28,11 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg = {
     "Horror",
     "Apocalypse",
     "Lesbian Romance",
+    "Magic",
     "System Invasion",
   ],
   unit: "unit/words",
   prose: "txt",
   createdAt: "2026-09-03T04:18:50.406Z",
-  updatedAt: "2026-09-19T12:04:19.000Z",
+  updatedAt: "2026-10-11T18:05:46.694Z",
 } as const satisfies StoryRead
