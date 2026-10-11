@@ -13,10 +13,11 @@ export const voiceInfer = {
   generatedDirectory: true,
   decisions: [
     {
-      decisionKind: "decision-kind/absence",
-      statement: "The workload writes no audio anywhere, and reaches no object store.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The workload writes a narration's pieces to the pod's own disk, not to an object store.",
     },
   ],
   createdAt: "2026-09-05T21:18:28.773Z",
-  updatedAt: "2026-09-24T23:15:06.000Z",
+  updatedAt: "2026-10-11T15:04:34.692Z",
 } as const satisfies Manifest

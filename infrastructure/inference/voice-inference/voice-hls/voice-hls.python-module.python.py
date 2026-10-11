@@ -4,9 +4,12 @@ ffmpeg writes one AAC stream as fragmented MP4 to a pipe: ftyp and moov (the
 init section), then a moof and mdat for every fragment. `Pieces` reads those
 bytes as they come and groups whole fragments into pieces, the first one short
 so a player starts soon and the rest a few seconds long. `playlist` writes the
-HLS EVENT playlist naming the pieces made so far. Everything stays in memory.
+HLS EVENT playlist naming the pieces made so far. Each piece is written to its
+session's own directory as soon as it is whole, so a long listen costs the pod
+disk rather than this process's memory.
 """
 
+import os
 import struct
 
 SAMPLE_RATE = 24000
@@ -76,10 +79,12 @@ def fragment_samples(moof: bytes) -> int:
 class Pieces:
     """Turns the fMP4 bytes ffmpeg writes into an init section and HLS pieces."""
 
-    def __init__(self) -> None:
+    def __init__(self, directory: str) -> None:
+        self.directory = directory
         self.buffer = bytearray()
         self.init: "bytes | None" = None
-        self.pieces: "list[tuple[bytes, float]]" = []
+        self.durations: "list[float]" = []
+        self.ends: "list[float]" = []
         self.pending = bytearray()
         self.pending_samples = 0
         self.moof: "bytes | None" = None
@@ -111,7 +116,7 @@ class Pieces:
             self.pending.extend(self.moof)
             self.pending.extend(box)
             self.moof = None
-            goal = FIRST_PIECE_SECONDS if not self.pieces else PIECE_SECONDS
+            goal = FIRST_PIECE_SECONDS if not self.durations else PIECE_SECONDS
             if self.pending_samples / SAMPLE_RATE >= goal - 0.05:
                 self._close_piece()
 
@@ -119,7 +124,12 @@ class Pieces:
         if not self.pending_samples:
             return
         data = bytes(self.pending)
-        self.pieces.append((data, self.pending_samples / SAMPLE_RATE))
+        seconds = self.pending_samples / SAMPLE_RATE
+        os.makedirs(self.directory, exist_ok=True)
+        with open(os.path.join(self.directory, piece_name(len(self.durations))), "wb") as out:
+            out.write(data)
+        self.durations.append(seconds)
+        self.ends.append(self.ends[-1] + seconds if self.ends else seconds)
         self.bytes += len(data)
         self.pending = bytearray()
         self.pending_samples = 0
@@ -127,8 +137,20 @@ class Pieces:
     def finish(self) -> None:
         self._close_piece()
 
+    def piece_path(self, n: int) -> "str | None":
+        """The file a piece is kept in, or None where it is not made yet."""
+        if n < 0 or n >= len(self.durations):
+            return None
+        return os.path.join(self.directory, piece_name(n))
+
+    def end_of(self, n: int) -> float:
+        """The seconds into the stream that a piece ends at."""
+        if n < 0 or n >= len(self.ends):
+            return 0.0
+        return self.ends[n]
+
     def seconds(self) -> float:
-        return sum(s for _d, s in self.pieces)
+        return sum(self.durations)
 
 
 def piece_name(n: int) -> str:
@@ -141,7 +163,7 @@ def piece_index(name: str) -> "int | None":
     return None
 
 
-def playlist(pieces: "list[tuple[bytes, float]]", ended: bool) -> str:
+def playlist(durations: "list[float]", ended: bool) -> str:
     lines = [
         "#EXTM3U",
         "#EXT-X-VERSION:7",
@@ -152,7 +174,7 @@ def playlist(pieces: "list[tuple[bytes, float]]", ended: bool) -> str:
         "#EXT-X-INDEPENDENT-SEGMENTS",
         '#EXT-X-MAP:URI="init.mp4"',
     ]
-    for n, (_data, seconds) in enumerate(pieces):
+    for n, seconds in enumerate(durations):
         lines.append(f"#EXTINF:{seconds:.5f},")
         lines.append(piece_name(n))
     if ended:

@@ -23,6 +23,8 @@ const GPU = { "nvidia.com/gpu": "1" } as const
 const SERVICE_NAME = voiceInfer.resourceName
 const PORT = voiceInfer.containerPort
 
+const PIECES_DIR = "/pieces"
+
 const RESOURCE_LABELS = {
   app: APP_NAME,
   "app.kubernetes.io/name": APP_NAME,
@@ -65,7 +67,11 @@ function deploymentYaml(): string {
               image: refOf(voiceInferImage),
               imagePullPolicy: "Always",
               ports: [{ containerPort: PORT, protocol: "TCP" }],
-              env: [{ name: "VOICE_INFER_PORT", value: String(PORT) }],
+              env: [
+                { name: "VOICE_INFER_PORT", value: String(PORT) },
+                { name: "VOICE_PIECES_DIR", value: PIECES_DIR },
+              ],
+              volumeMounts: [{ name: "pieces", mountPath: PIECES_DIR }],
               resources: resourcesWith(resourcesOf(page), GPU),
               startupProbe: {
                 httpGet: { path: "/health", port: PORT },
@@ -84,6 +90,7 @@ function deploymentYaml(): string {
               },
             },
           ],
+          volumes: [{ name: "pieces", emptyDir: { sizeLimit: "16Gi" } }],
         },
       },
     },

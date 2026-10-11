@@ -1,15 +1,8 @@
 """Narration sessions: chapters read aloud as one growing HLS stream.
 
-A session takes the chapters the web server hands it, in order. Each chapter
-is a list of segments the caller already divided, each with the pause after
-it. Every segment is synthesized under the shared inference lock, one segment
-at a time, so other callers interleave between segments. Kokoro opens and
-closes each call with several hundred milliseconds of silence, so each
-segment's speech is trimmed to TRIM_MARGIN_SECONDS of quiet on either side,
-and the pause the caller asked for is the gap the listener hears. The PCM of every
-segment and its pause is fed to ONE ffmpeg AAC encoder per session, so no
-encoder priming falls between segments or chapters. The encoded pieces stay
-in this process's memory (voice_hls) and nothing is written to disk.
+A narration is made by voice_session.Session, which holds the chapters handed
+in, the encoder they go through and the pieces written out. This module keeps
+the sessions, hands out what they have made and drops them.
 
   POST   /v1/narration                 {"voice","chapter","segments"} -> 201 {"id"}
   POST   /v1/narration/{id}/chapters   {"chapter","segments"}         -> 200
@@ -32,29 +25,28 @@ narration someone is listening to outlives one opened and left.
 """
 
 import asyncio
-import secrets
+import os
+import shutil
 import time
 
-import numpy as np
 from fastapi import Request
-from fastapi.concurrency import run_in_threadpool
 from fastapi.responses import JSONResponse, Response
 
-from voice_hls import SAMPLE_RATE, Pieces, encoder_args, piece_index, playlist
-from voice_inference import _INFER_LOCK, _pcm_bytes, app
-from voice_timing import sentence_seconds, sentences_of, synthesize_timed
+from voice_hls import piece_index, playlist
+from voice_inference import app
+from voice_session import PIECES_DIR, Session
+from voice_timing import sentences_of
 
-BITRATE = "64k"
 MAX_SESSIONS = 4
 SESSION_IDLE_SECONDS = 30 * 60
-MAX_SESSION_BYTES = 256 * 1024 * 1024
 MAX_SEGMENTS = 3000
 MAX_SEGMENT_CHARS = 2000
 MAX_PAUSE_MS = 5000
-TRIM_THRESHOLD = 0.01
-TRIM_MARGIN_SECONDS = 0.04
-# The playlist names every piece made so far. Holding a player at the start of
-# a playlist with no end is the web player's work: iOS stops fetching once its
+# A directory under PIECES_DIR not touched for this long belongs to no session.
+STRAY_AFTER_SECONDS = 600
+# The playlist names every piece made so far, and a session stops making more
+# once it holds a window ahead of the player. Holding a player at the start of a
+# playlist with no end is the web player's work: iOS stops fetching once its
 # buffer is full, so a playlist that grew only with what was fetched stalled.
 
 _SESSIONS: "dict[str, Session]" = {}
@@ -67,18 +59,6 @@ def _error(status: int, message: str) -> JSONResponse:
 
 def _whole(value: object) -> bool:
     return isinstance(value, int) and not isinstance(value, bool) and value >= 0
-
-
-def _trimmed(audio: np.ndarray) -> "tuple[np.ndarray, float]":
-    """The speech with its silence trimmed to TRIM_MARGIN_SECONDS on either side,
-    and the seconds trimmed from its start."""
-    loud = np.flatnonzero(np.abs(audio) > TRIM_THRESHOLD)
-    if loud.size == 0:
-        return audio, 0.0
-    margin = int(SAMPLE_RATE * TRIM_MARGIN_SECONDS)
-    start = max(0, int(loud[0]) - margin)
-    end = min(len(audio), int(loud[-1]) + 1 + margin)
-    return audio[start:end], start / SAMPLE_RATE
 
 
 def _segments_of(body: dict) -> "tuple[list[tuple[str, int, int | None]] | None, str | None]":
@@ -118,114 +98,6 @@ def _chapter_of(body: dict) -> "tuple[dict | None, str | None]":
     return {"id": cid, "title": title}, None
 
 
-class Session:
-    def __init__(self, voice: str) -> None:
-        self.id = secrets.token_urlsafe(12)
-        self.voice = voice
-        self.created = time.monotonic()
-        self.touched = self.created
-        self.queue: "asyncio.Queue" = asyncio.Queue()
-        self.chapters: "list[dict]" = []
-        self.fed_samples = 0
-        self.sentences_timed = 0
-        self.sentences_shared = 0
-        self.ended = False
-        self.done = False
-        self.error: "str | None" = None
-        self.pieces = Pieces()
-        self.process: "asyncio.subprocess.Process | None" = None
-        self.tasks: "list[asyncio.Task]" = []
-
-    async def start(self) -> None:
-        self.process = await asyncio.create_subprocess_exec(
-            *encoder_args(BITRATE),
-            stdin=asyncio.subprocess.PIPE,
-            stdout=asyncio.subprocess.PIPE,
-            stderr=asyncio.subprocess.PIPE,
-        )
-        self.tasks = [asyncio.create_task(self._render()), asyncio.create_task(self._read())]
-
-    def end(self) -> None:
-        if not self.ended:
-            self.ended = True
-            self.queue.put_nowait(None)
-
-    def fail(self, message: str) -> None:
-        if self.error is None:
-            self.error = message
-            print(f"[voice-infer] narration {self.id} failed: {message}", flush=True)
-
-    async def _speak(self, text: str, pause: int, sentences: list, marks: list) -> None:
-        pcm = b""
-        if text:
-            async with _INFER_LOCK:
-                audio, starts, chars = await run_in_threadpool(synthesize_timed, text, self.voice)
-            if audio is not None:
-                audio, lead = _trimmed(audio)
-                starts = [(char, max(0.0, seconds - lead)) for char, seconds in starts]
-                pcm = _pcm_bytes(audio)
-            begun = self.fed_samples / SAMPLE_RATE
-            timed, by_tokens = sentence_seconds(text, sentences, starts, chars, len(pcm) / 2 / SAMPLE_RATE)
-            marks.extend([round(begun + s, 3), w] for s, w in timed)
-            self.sentences_timed += len(timed) if by_tokens else 0
-            self.sentences_shared += 0 if by_tokens else len(timed)
-        pcm += b"\x00\x00" * (SAMPLE_RATE * pause // 1000)
-        if self.pieces.bytes > MAX_SESSION_BYTES:
-            raise RuntimeError("narration ran past the memory a session may hold")
-        self.process.stdin.write(pcm)
-        await self.process.stdin.drain()
-        self.fed_samples += len(pcm) // 2
-
-    async def _render(self) -> None:
-        try:
-            while (item := await self.queue.get()) is not None:
-                chapter, segments = item
-                start = self.fed_samples / SAMPLE_RATE
-                record = {**chapter, "startSeconds": start, "durationSeconds": None, "marks": []}
-                self.chapters.append(record)
-                for text, pause, word, sentences in segments:
-                    if word is not None:
-                        record["marks"].append([round(self.fed_samples / SAMPLE_RATE, 3), word])
-                    await self._speak(text, pause, sentences, record["marks"])
-                record["durationSeconds"] = self.fed_samples / SAMPLE_RATE - start
-        except asyncio.CancelledError:
-            raise
-        except Exception as exc:
-            self.fail(str(exc) or type(exc).__name__)
-        finally:
-            if self.process.stdin and not self.process.stdin.is_closing():
-                self.process.stdin.close()
-
-    async def _read(self) -> None:
-        try:
-            while chunk := await self.process.stdout.read(65536):
-                self.pieces.feed(chunk)
-            code = await self.process.wait()
-            if code != 0:
-                err = (await self.process.stderr.read()).decode(errors="replace").strip()
-                self.fail(f"encoder exited {code}: {err[-500:]}")
-            self.pieces.finish()
-            self.done = True
-        except asyncio.CancelledError:
-            raise
-        except Exception as exc:
-            self.fail(str(exc) or type(exc).__name__)
-
-    def close(self) -> None:
-        for task in self.tasks:
-            task.cancel()
-        if self.process and self.process.returncode is None:
-            try:
-                self.process.kill()
-            except ProcessLookupError:
-                pass
-
-    def state(self) -> str:
-        if self.error:
-            return "failed"
-        return "done" if self.done else "rendering"
-
-
 def _session(sid: str) -> "Session | None":
     session = _SESSIONS.get(sid)
     if session is not None:
@@ -239,6 +111,25 @@ def _drop(sid: str) -> None:
         session.close()
 
 
+def _clear_stray() -> None:
+    """Remove the pieces of a session this process no longer holds."""
+    try:
+        names = os.listdir(PIECES_DIR)
+    except OSError:
+        return
+    now = time.time()
+    for name in names:
+        if name in _SESSIONS:
+            continue
+        path = os.path.join(PIECES_DIR, name)
+        try:
+            if now - os.path.getmtime(path) < STRAY_AFTER_SECONDS:
+                continue
+        except OSError:
+            continue
+        shutil.rmtree(path, ignore_errors=True)
+
+
 async def _sweep() -> None:
     while True:
         await asyncio.sleep(60)
@@ -246,6 +137,7 @@ async def _sweep() -> None:
         for sid, session in list(_SESSIONS.items()):
             if now - session.touched > SESSION_IDLE_SECONDS:
                 _drop(sid)
+        _clear_stray()
 
 
 async def _body(request: Request) -> "tuple[dict | None, list | None, str | None]":
@@ -320,6 +212,7 @@ async def narration_state(sid: str):
         "error": session.error,
         "ended": session.ended,
         "renderedSeconds": session.pieces.seconds(),
+        "fetchedSeconds": session.fetched_to,
         "sentencesTimed": session.sentences_timed,
         "sentencesShared": session.sentences_shared,
     }
@@ -333,7 +226,7 @@ async def narration_playlist(sid: str):
     if session.error:
         return _error(500, session.error)
     return Response(
-        content=playlist(session.pieces.pieces, session.done),
+        content=playlist(session.pieces.durations, session.done),
         media_type="application/vnd.apple.mpegurl",
         headers={"Cache-Control": "no-store"},
     )
@@ -360,9 +253,16 @@ async def narration_piece(sid: str, name: str):
     n = piece_index(name)
     if n is None:
         return _error(404, "no such piece")
-    if n >= len(session.pieces.pieces):
+    path = session.pieces.piece_path(n)
+    if path is None:
         return _error(404, "piece not made yet")
-    return Response(content=session.pieces.pieces[n][0], media_type="audio/mp4", headers=headers)
+    session.fetched(n)
+    try:
+        with open(path, "rb") as piece:
+            content = piece.read()
+    except OSError:
+        return _error(404, "piece not made yet")
+    return Response(content=content, media_type="audio/mp4", headers=headers)
 
 
 @app.delete("/v1/narration/{sid}")

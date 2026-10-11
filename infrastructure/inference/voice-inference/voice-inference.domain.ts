@@ -12,6 +12,7 @@ export const voiceInference = {
     "python-module/voice-models",
     "python-module/voice-hls",
     "python-module/voice-narration",
+    "python-module/voice-session",
     "python-module/voice-timing",
   ],
   decisions: [
@@ -38,7 +39,11 @@ export const voiceInference = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A narration's pieces are held in memory and dropped with the narration.",
+      statement: "A narration's pieces are held on the pod's disk and dropped with the narration.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A narration makes no more audio than a window ahead of the piece last fetched.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,5 +60,5 @@ export const voiceInference = {
     },
   ],
   createdAt: "2026-09-03T16:24:02.557Z",
-  updatedAt: "2026-10-06T15:23:54.000Z",
+  updatedAt: "2026-10-11T15:04:34.692Z",
 } as const satisfies Domain

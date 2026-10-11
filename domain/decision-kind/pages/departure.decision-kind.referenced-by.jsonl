@@ -2994,8 +2994,10 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/store/inference-run-store.module.ts","id":"01a0685d-4b35-7014-819a-3402c8830118"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-hls/voice-hls.python-module.ts","id":"01a10dc2-55b9-77f6-8779-9e5afb3337db"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts","id":"01a06815-9efd-701b-b692-88c2eabada02"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-infer/voice-infer.manifest.ts","id":"01a0736f-e7a5-75ee-bda8-4298c8084c5b"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-inference.domain.ts","id":"01a06815-9efd-701e-a4d4-a26f49e97554"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-narration/voice-narration.python-module.ts","id":"01a10dc2-55ba-7f26-ab58-a9330b850b47"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-session/voice-session.python-module.ts","id":"01a12b7e-8685-79c5-88c1-575731e48209"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-timing/voice-timing.python-module.ts","id":"01a111c8-e14f-75da-8e7d-c8d9de6074f3"}
 {"propertySlug":"decision-kind","path":"infrastructure/infrastructure.domain.ts","id":"01a0658b-0f02-735b-af6a-28559398ee59"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/audit-cache/audit-cache.manifest.ts","id":"01a0c9e0-5e63-78a2-81a4-4455fdecc1f6"}
