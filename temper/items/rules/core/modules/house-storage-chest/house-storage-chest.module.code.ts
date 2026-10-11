@@ -5,7 +5,7 @@ export interface StorageChest {
   readonly name: string
 }
 
-export type ChestMatch =
+type ChestMatch =
   | { readonly kind: "one"; readonly chestId: string }
   | { readonly kind: "none" }
   | { readonly kind: "several"; readonly chestIds: readonly string[] }
@@ -44,7 +44,7 @@ export function chestIdOfHouseBankKey(key: string): string | undefined {
   return last !== undefined && last.length > 0 ? last : undefined
 }
 
-export function storageChestsOf(
+function storageChestsOf(
   locations: Readonly<Record<string, { readonly displayName: string }>>
 ): StorageChest[] {
   const chests: StorageChest[] = []
@@ -56,7 +56,7 @@ export function storageChestsOf(
   return chests
 }
 
-export interface StorageChestChoice {
+interface StorageChestChoice {
   readonly destination: `house-storage:${string}`
   readonly chestId: string
   readonly name: string
