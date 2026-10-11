@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a03b7eca212326e6b/rhia-a03b7eca212326e6b.subagent.ts","id":"01a12b7c-bf68-7548-ad0c-682bce2b90d8"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a1777f2d76d8c5653/rhia-a1777f2d76d8c5653.subagent.ts","id":"01a12b7d-fdef-7bf5-9b37-0e1fe1e3eb9b"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a20d2f1a55c73ca81/rhia-a20d2f1a55c73ca81.subagent.ts","id":"01a12b7d-b397-7766-b259-26e9adf8236a"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a24f267ff151b9e03/rhia-a24f267ff151b9e03.subagent.ts","id":"01a12b7d-b655-7206-938a-211a6c41dc41"}
