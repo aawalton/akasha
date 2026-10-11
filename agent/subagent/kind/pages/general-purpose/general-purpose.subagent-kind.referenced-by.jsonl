@@ -2,3 +2,4 @@
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a527bf0636418590d/rhia-a527bf0636418590d.subagent.ts","id":"01a12b0d-1481-7f05-980e-5210e5dde0c3"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-a960fe70d2a002ae2/rhia-a960fe70d2a002ae2.subagent.ts","id":"01a12b0d-1b2c-709f-8742-66bdc0beb11f"}
