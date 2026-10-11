@@ -243,7 +243,7 @@ export async function readMarked(
   return false
 }
 
-export function markRead(held: ChapterHeld | undefined, report: Report): undefined {
+function markRead(held: ChapterHeld | undefined, report: Report): undefined {
   if (held === undefined || held.completedAt !== null) return
   void readMarked(held, (why, tried) => {
     console.error(`[narration] ${held.slug} could not be marked read: ${why}`)
