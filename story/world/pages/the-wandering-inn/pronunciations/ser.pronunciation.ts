@@ -6,7 +6,7 @@ export const ser = {
   slug: "ser",
   title: "Ser",
   world: "world/the-wandering-inn",
-  phonemes: "sˈɛɹ",
+  phonemes: "sˈɜɹ",
   createdAt: "2026-10-11T17:05:20.754Z",
-  updatedAt: "2026-10-11T17:05:20.754Z",
+  updatedAt: "2026-10-11T17:48:57.612Z",
 } as const satisfies Pronunciation
