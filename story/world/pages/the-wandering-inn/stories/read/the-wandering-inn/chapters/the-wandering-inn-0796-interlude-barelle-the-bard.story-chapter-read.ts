@@ -18,6 +18,6 @@ export const theWanderingInn0796InterludeBarelleTheBard = {
   ],
   prose: "txt",
   createdAt: "2026-09-03T04:58:37.193Z",
-  updatedAt: "2026-10-11T20:22:29.222Z",
-  ownProgress: 8157,
+  updatedAt: "2026-10-11T20:22:44.577Z",
+  ownProgress: 8251,
 } as const satisfies StoryChapterRead
