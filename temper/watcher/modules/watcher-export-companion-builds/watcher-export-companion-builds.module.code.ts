@@ -1,7 +1,13 @@
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
+import { stringAt } from "akasha/code/type/narrowing/modules/string-at/string-at.module.code.ts"
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import {
+  readFiles,
+  readPages,
+} from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { getDefIdByCompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionIdIn } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
@@ -15,6 +21,10 @@ import {
   log,
   logError,
 } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
+import {
+  besidePathsFor,
+  contentIn,
+} from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   detectIndent,
   replaceOrInsertLuaBlock,
@@ -36,6 +46,66 @@ const TARGET_TIMESTAMPS_KEY = "companionTargetTimestamps"
 const COMPANION_SIBLING_KEYS = ["companions", "selectedCompanionId"] as const
 
 const PROGRESS_PAGE_SIZE = 1000
+
+const CHARACTER_PAGE_TYPE = "temper-account-character"
+
+const COMPLETION_PROPERTY = "completion"
+
+const COMPLETION_ENDING = "json"
+
+const RAPPORT_KEY = "companionRapport"
+
+const DEF_ID = /^\d+$/
+
+export type RapportByCharacter = Record<string, Record<string, number>>
+
+export function rapportIn(text: string | null): Record<string, number> | null {
+  if (text === null || text.trim() === "") return null
+  let parsed: unknown
+  try {
+    parsed = JSON.parse(text)
+  } catch {
+    return null
+  }
+  if (!isObjectRecord(parsed)) return null
+  const rapport = parsed[RAPPORT_KEY]
+  if (!isObjectRecord(rapport)) return null
+  const found: Record<string, number> = {}
+  for (const [defId, value] of Object.entries(rapport)) {
+    if (DEF_ID.test(defId) && typeof value === "number") found[defId] = value
+  }
+  return Object.keys(found).length === 0 ? null : found
+}
+
+async function rapportOfCharacters(userId: string): Promise<RapportByCharacter> {
+  const characters = await collectPages({
+    pageTypeSlug: CHARACTER_PAGE_TYPE,
+    where: [{ key: "accountPage", eq: await accountAddressOf(userId) }],
+    pageSize: PROGRESS_PAGE_SIZE,
+  })
+  const esoIdBySlug = new Map<string, string>()
+  for (const row of characters) {
+    const slug = stringAt(row, "slug")
+    const esoCharacterId = stringAt(row, "esoCharacterId")
+    if (slug !== null && esoCharacterId !== null) esoIdBySlug.set(slug, esoCharacterId)
+  }
+  const beside = await besidePathsFor(
+    readPages,
+    CHARACTER_PAGE_TYPE,
+    [...esoIdBySlug.keys()],
+    COMPLETION_PROPERTY,
+    COMPLETION_ENDING
+  )
+  const found = await readFiles([...beside.values()])
+  if (!found.ok) throw new Error(`the ${CHARACTER_PAGE_TYPE} completion went unread — ${found.why}`)
+  const byCharacter: RapportByCharacter = {}
+  for (const [slug, path] of beside) {
+    const rapport = rapportIn(contentIn(found.bodies, path))
+    const esoCharacterId = esoIdBySlug.get(slug)
+    if (rapport !== null && esoCharacterId !== undefined) byCharacter[esoCharacterId] = rapport
+  }
+  return byCharacter
+}
 
 const MILLIS_IN_A_SECOND = 1000
 
@@ -115,6 +185,7 @@ export function targetsAsConfigInputs(
 export interface CompanionBuildsSurroundings {
   readonly progressPages: (userId: string) => Promise<readonly Page[]>
   readonly buildPage: (buildId: string) => Promise<Page | null>
+  readonly rapportByCharacter: (userId: string) => Promise<RapportByCharacter>
   readonly writeSideFile: (path: string, desired: string) => string
   readonly now: () => number
   readonly note: (message: string) => undefined
@@ -130,6 +201,7 @@ const WATCHER_SURROUNDINGS: CompanionBuildsSurroundings = {
     }),
   buildPage: (buildId) =>
     getPage({ pageTypeSlug: COMPANION_BUILD_PAGE_TYPE, where: [{ key: "id", eq: buildId }] }),
+  rapportByCharacter: rapportOfCharacters,
   writeSideFile: (path, desired) => writeSideFileIfChanged(path, desired),
   now: () => Date.now(),
   note: log,
@@ -203,8 +275,16 @@ export async function runExportCompanionBuilds(
   const inputs = targetsAsConfigInputs(targets)
 
   const path = options.companionsConfigPath
-  const companionsConfigSideFileHash =
-    path == null ? null : surroundings.writeSideFile(path, serializeCompanionsConfigFile(inputs))
+  let companionsConfigSideFileHash: string | null = null
+  if (path != null) {
+    const companionRapport = await surroundings.rapportByCharacter(userId)
+    const sideInputs =
+      Object.keys(companionRapport).length === 0 ? inputs : { ...inputs, companionRapport }
+    companionsConfigSideFileHash = surroundings.writeSideFile(
+      path,
+      serializeCompanionsConfigFile(sideInputs)
+    )
+  }
 
   const unchanged = { content, modified: false, companionsConfigSideFileHash }
 

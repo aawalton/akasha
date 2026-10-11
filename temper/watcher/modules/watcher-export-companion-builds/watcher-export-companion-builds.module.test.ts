@@ -5,8 +5,12 @@ import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companio
 import { companionAddressOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import { bastian } from "akasha/temper/catalog/companion/temper-eso-companion/pages/bastian/bastian.temper-eso-companion.ts"
 import { mirri } from "akasha/temper/catalog/companion/temper-eso-companion/pages/mirri/mirri.temper-eso-companion.ts"
-import type { CompanionBuildsSurroundings } from "akasha/temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
+import type {
+  CompanionBuildsSurroundings,
+  RapportByCharacter,
+} from "akasha/temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
 import {
+  rapportIn,
   readTargetBuilds,
   runExportCompanionBuilds,
   sameTargetBuilds,
@@ -65,7 +69,8 @@ interface Recording {
 
 function recording(
   progress: readonly Page[] = PROGRESS,
-  builds: Readonly<Record<string, Page>> = BUILDS
+  builds: Readonly<Record<string, Page>> = BUILDS,
+  rapport: RapportByCharacter = {}
 ): Recording {
   const notes: string[] = []
   const errors: string[] = []
@@ -77,6 +82,7 @@ function recording(
     surroundings: {
       progressPages: async () => progress,
       buildPage: async (buildId) => builds[buildId] ?? null,
+      rapportByCharacter: async () => rapport,
       writeSideFile: (path, desired) => {
         written.push({ path, desired })
         return "side-file-hash"
@@ -200,6 +206,28 @@ test("no target build set still writes an empty side file", async () => {
   expect(result.modified).toBe(false)
   expect(written).toEqual([{ path: "/nowhere/companions.lua", desired: EMPTY_SIDE_FILE }])
   expect(notes).toEqual(["no companion target build is set, so none is exported"])
+})
+
+test("each character's rapport from the pages reaches the side file", async () => {
+  const { surroundings, written } = recording(PROGRESS, BUILDS, {
+    "8796093022": { "1": 4058, "2": 1655 },
+  })
+  await runExportCompanionBuilds(
+    WITHOUT_BLOCK,
+    SIGNED_OUT,
+    { userId: "alan", companionsConfigPath: "/nowhere/companions.lua" },
+    surroundings
+  )
+  expect(written[0]?.desired).toBe(
+    `${SIDE_FILE.slice(0, -2)}    ["companionRapport"] =\n    {\n        ["8796093022"] =\n        {\n            [1] = 4058,\n            [2] = 1655,\n        },\n    },\n}\n`
+  )
+})
+
+test("rapport is read off a completion file's companion rapport", () => {
+  expect(rapportIn('{"companionRapport":{"1":4058,"x":3,"2":"no"}}')).toEqual({ "1": 4058 })
+  expect(rapportIn('{"quests":{}}')).toBe(null)
+  expect(rapportIn("")).toBe(null)
+  expect(rapportIn("not json")).toBe(null)
 })
 
 test("no side-file path given answers no hash and writes nothing beside the addon", async () => {

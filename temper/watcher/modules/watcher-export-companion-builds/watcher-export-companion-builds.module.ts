@@ -53,6 +53,18 @@ export const watcherExportCompanionBuilds = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The side file carries each character's companion rapport from its completion.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That rapport is keyed by the character's in-game id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No completion stating rapport leaves the rapport block out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Content already holding every target build is handed back unchanged.",
     },
     {
@@ -98,5 +110,5 @@ export const watcherExportCompanionBuilds = {
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-09-25T13:21:45.000Z",
+  updatedAt: "2026-10-11T11:59:47.394Z",
 } as const satisfies Module

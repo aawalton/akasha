@@ -89,11 +89,13 @@ export function serializeCharactersConfigFile(inputs: CharactersConfigFileInputs
 export interface CompanionsConfigFileInputs {
   readonly companionTargetBuilds: Readonly<Record<number, string>>
   readonly companionTargetTimestamps: Readonly<Record<number, number>>
+  readonly companionRapport?: Readonly<Record<string, Readonly<Record<string, number>>>>
 }
 
 export function serializeCompanionsConfigFile(inputs: CompanionsConfigFileInputs): string {
   return configFile("TemperCharactersCompanionsConfig", [
     numericKeyedBlock("companionTargetBuilds", inputs.companionTargetBuilds),
     numericKeyedBlock("companionTargetTimestamps", inputs.companionTargetTimestamps),
+    blockWhenGiven("companionRapport", inputs.companionRapport),
   ])
 }
