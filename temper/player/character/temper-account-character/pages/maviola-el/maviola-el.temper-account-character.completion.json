@@ -6387,8 +6387,8 @@
     }
   },
   "skillPoints": {
-    "total": 473,
-    "unassigned": 185,
+    "total": 475,
+    "unassigned": 187,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -6398,7 +6398,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 176,
     "totalSkyshards": 528,
-    "zoneQuestTotal": 143,
+    "zoneQuestTotal": 145,
     "groupDungeonTotal": 26,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -6489,7 +6489,7 @@
       "EP5": 3,
       "EP1": 3,
       "AP": 8,
-      "GY": 7
+      "GY": 9
     },
     "groupDungeons": {
       "MOS": 0,
@@ -8090,7 +8090,7 @@
   },
   "companionRapport": {
     "1": 4058,
-    "2": 1645,
+    "2": 1655,
     "5": 5500,
     "6": 4044,
     "9": 5500
@@ -9179,12 +9179,14 @@
     6831,
     6832,
     6847,
+    6848,
     6849,
     6850,
     6852,
     6853,
     6855,
     6859,
+    6894,
     6971,
     6972,
     6973,
@@ -16185,6 +16187,6 @@
   },
   "inventoryCheck": {
     "date": "2026-10-10",
-    "misplaced": 149
+    "misplaced": 155
   }
 }
