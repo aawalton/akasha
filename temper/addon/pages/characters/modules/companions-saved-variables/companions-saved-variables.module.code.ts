@@ -6,6 +6,7 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/companions-constants/companions-constants.module.code.ts"
 import { requireNumericKey } from "akasha/temper/addon/shared/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 import { requireSavedVariables } from "akasha/temper/addon/shared/narrow/modules/require-saved-variables/require-saved-variables.module.code.ts"
+import { getSavedVariables as getCharactersSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/characters/companions-saved-variables-declarations/companions-saved-variables-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-saved-variables-global/temper-saved-variables-global.type-declaration.d.ts"
@@ -156,5 +157,21 @@ export function restoreTargetBuildsFromSync(): undefined {
     const defId = tonumber(defIdStr)
     if (defId === undefined || hash === undefined || hash === "") continue
     ensureCompanionEntry(defId).targetBuildHash = hash
+  }
+}
+
+export function restoreCompanionRapportFromPages(): undefined {
+  const byCharacter = getActiveCompanionsConfig()?.companionRapport
+  if (byCharacter === undefined) return
+  const characters = getCharactersSavedVariables().characters
+  for (const [characterId, rapport] of Object.entries(byCharacter)) {
+    const charEntry = characters[characterId]
+    if (charEntry === undefined) continue
+    if (charEntry.companionRapport === undefined) charEntry.companionRapport = {}
+    for (const [defIdStr, value] of Object.entries(rapport)) {
+      const defId = tonumber(defIdStr)
+      if (defId === undefined) continue
+      if (charEntry.companionRapport[defId] === undefined) charEntry.companionRapport[defId] = value
+    }
   }
 }

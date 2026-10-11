@@ -11,7 +11,15 @@ export const companionsSavedVariables = {
       decisionKind: "decision-kind/departure",
       statement: "A companion entry is made on first touch rather than declared up front.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Rapport the pages hold fills each companion a character's saved table lacks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Rapport the saved table already holds is kept over the pages' rapport.",
+    },
   ],
   createdAt: "2026-09-02T07:55:19.647Z",
-  updatedAt: "2026-09-22T01:32:08.000Z",
+  updatedAt: "2026-10-11T12:00:31.429Z",
 } as const satisfies Module

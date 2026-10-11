@@ -40,6 +40,7 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/companions-panel/companions-panel.module.code.ts"
 import {
   initializeSavedVariables,
+  restoreCompanionRapportFromPages,
   restoreTargetBuildsFromSync,
 } from "akasha/temper/addon/pages/characters/modules/companions-saved-variables/companions-saved-variables.module.code.ts"
 import { restoreSelectedCompanionId } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
@@ -110,6 +111,7 @@ export function initializeCompanions(): undefined {
     `${ADDON_NAME}_CompanionsPlayerActivated`,
     EVENT_PLAYER_ACTIVATED,
     function (this: void): undefined {
+      restoreCompanionRapportFromPages()
       refreshAllCompanionData()
     }
   )
