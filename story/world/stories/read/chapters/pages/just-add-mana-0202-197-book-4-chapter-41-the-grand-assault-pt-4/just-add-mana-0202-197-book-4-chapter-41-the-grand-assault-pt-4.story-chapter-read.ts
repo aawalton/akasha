@@ -20,5 +20,6 @@ export const justAddMana0202197Book4Chapter41TheGrandAssaultPt4 = {
     },
   ],
   createdAt: "2026-10-10T15:05:04.479Z",
-  updatedAt: "2026-10-10T15:05:04.479Z",
+  updatedAt: "2026-10-11T02:05:50.533Z",
+  ownProgress: 3852,
 } as const satisfies StoryChapterRead
