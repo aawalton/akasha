@@ -16179,16 +16179,32 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "completed": 7
   },
   "dailyWritStates": {
     "date": "2026-10-11",
-    "seen": [],
-    "completed": []
+    "seen": [
+      5,
+      3,
+      4,
+      2,
+      1,
+      6,
+      7
+    ],
+    "completed": [
+      1,
+      6,
+      2,
+      7,
+      3,
+      4,
+      5
+    ]
   },
   "inventoryCheck": {
     "date": "2026-10-11",
-    "misplaced": 156
+    "misplaced": 166
   }
 }
