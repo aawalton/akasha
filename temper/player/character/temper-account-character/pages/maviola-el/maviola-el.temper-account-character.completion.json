@@ -14047,7 +14047,8 @@
         5,
         6,
         7,
-        8
+        8,
+        9
       ],
       "2": [
         10
@@ -16182,12 +16183,12 @@
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "seen": [],
     "completed": []
   },
   "inventoryCheck": {
-    "date": "2026-10-10",
-    "misplaced": 155
+    "date": "2026-10-11",
+    "misplaced": 156
   }
 }
