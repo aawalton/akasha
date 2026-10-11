@@ -10,7 +10,7 @@ export const undauntedSkillLine = {
   character: "temper-account-character/khelta-the-eternal",
   completionCard: "temper-completion-category/characters-skill-lines",
   completionItemPath: ["55"],
-  dueDate: "2026-10-11",
+  dueDate: "2026-10-18",
   rruleRule: "FREQ=DAILY;INTERVAL=1",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -22,5 +22,5 @@ export const undauntedSkillLine = {
   progressTotal: 200,
   progressCurrent: 173,
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-10T15:29:58.850Z",
+  updatedAt: "2026-10-11T12:44:07.066Z",
 } as const satisfies TemperTask
