@@ -19,5 +19,6 @@ export const day20261011 = {
   inboxGaps: 0,
   inboxRefusals: 12059,
   createdAt: "2026-10-11T10:00:02.899Z",
-  updatedAt: "2026-10-11T10:00:09.654Z",
+  updatedAt: "2026-10-11T10:41:39.645Z",
+  sessions: "jsonl",
 } as const satisfies Day
