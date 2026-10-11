@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/modules/edits-repointing/edits-repointing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/rhia-a009d9f929dc06183/rhia-a009d9f929dc06183.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/rhia-a0988513f1a9a8f28/rhia-a0988513f1a9a8f28.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/rhia-a1b660c8e5acd66ae/rhia-a1b660c8e5acd66ae.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/rhia-a234e7473ac92f35b/rhia-a234e7473ac92f35b.subagent.ts","typed":true,"deferred":false}
