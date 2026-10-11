@@ -2734,7 +2734,7 @@
     },
     "117": {
       "currentRank": 10,
-      "currentXP": 45,
+      "currentXP": 65,
       "nextRankXP": 75
     },
     "130": {
@@ -7224,6 +7224,7 @@
     5566,
     5570,
     5572,
+    5577,
     5581,
     5582,
     5589,
@@ -13328,6 +13329,6 @@
   },
   "inventoryCheck": {
     "date": "2026-10-11",
-    "misplaced": 45
+    "misplaced": 50
   }
 }
