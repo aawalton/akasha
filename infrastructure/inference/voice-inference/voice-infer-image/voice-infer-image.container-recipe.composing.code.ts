@@ -21,6 +21,8 @@ const HLS = "voice-hls"
 
 const NARRATION = "voice-narration"
 
+const SESSION = "voice-session"
+
 const TIMING = "voice-timing"
 
 const PINS = [
@@ -285,6 +287,7 @@ export function bodyIn(given: string | Reading): string {
     copying(given, MODELS, "/app/voice_inference.py"),
     copying(given, HLS, "/app/voice_hls.py"),
     copying(given, NARRATION, "/app/voice_narration.py"),
+    copying(given, SESSION, "/app/voice_session.py"),
     copying(given, TIMING, "/app/voice_timing.py"),
     "",
     "ENV VOICE_INFER_PORT=8080",

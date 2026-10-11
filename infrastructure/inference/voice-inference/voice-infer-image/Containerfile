@@ -248,6 +248,7 @@ COPY voice-infer-server/voice-infer-server.python-module.python.py /app/server.p
 COPY voice-models/voice-models.python-module.python.py /app/voice_inference.py
 COPY voice-hls/voice-hls.python-module.python.py /app/voice_hls.py
 COPY voice-narration/voice-narration.python-module.python.py /app/voice_narration.py
+COPY voice-session/voice-session.python-module.python.py /app/voice_session.py
 COPY voice-timing/voice-timing.python-module.python.py /app/voice_timing.py
 
 ENV VOICE_INFER_PORT=8080
