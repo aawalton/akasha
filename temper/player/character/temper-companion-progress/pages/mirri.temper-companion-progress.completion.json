@@ -30,6 +30,7 @@
         }
       }
     },
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
     "skillAbilityIds": {
       "1": 153685,
       "2": 155408,
@@ -37,28 +38,6 @@
       "4": 154790,
       "5": 153066,
       "6": 157259
-    },
-    "mainHandWeaponType": 9,
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
-    "weapons": {
-      "1": {
-        "displayText": "Restoration Staff, Quickened",
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "displayText": "Empty",
-        "isEmpty": true,
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        }
-      }
     },
     "armor": {
       "1": {
@@ -122,6 +101,27 @@
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
+        }
+      }
+    },
+    "mainHandWeaponType": 9,
+    "weapons": {
+      "1": {
+        "displayText": "Restoration Staff, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "displayText": "Empty",
+        "isEmpty": true,
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
         }
       }
     }
