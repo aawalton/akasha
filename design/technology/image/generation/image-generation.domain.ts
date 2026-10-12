@@ -27,7 +27,25 @@ export const imageGeneration = {
       decisionKind: "decision-kind/constraint",
       statement: "Z-Image Base times out on the MacBook.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan disprefers heavy subjects, large chests and Black subjects in a render.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Beyond Reality 3 draws a woman busty unless the prompt states a small chest.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Alan Reviews",
+      act: "Hand Alan every render his request made, without reviewing or re-rendering any of it.",
+      warrant:
+        "Alan judges what he wants, and a render swapped out on your judgment hides one he might pick.",
+      aids: ["A render that missed his prompt is still his to judge."],
+    },
   ],
   createdAt: "2026-09-26T15:59:15.411Z",
-  updatedAt: "2026-09-26T16:54:14.000Z",
+  updatedAt: "2026-10-12T12:47:55.371Z",
 } as const satisfies Domain
