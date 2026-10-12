@@ -9,7 +9,7 @@ export const storyWrittenChapters = {
   embeddedBy: "page-type/story-written",
   layout: "list",
   narrows: [],
-  viewSorts: [{ key: "position", descending: true }],
+  viewSorts: [{ key: "position", descending: false }],
   groupSorts: [],
   visibleProperties: ["own-length-in-words"],
   alwaysShowProperties: ["own-length-in-words"],
@@ -62,5 +62,5 @@ export const storyWrittenChapters = {
   itemPageSize: 12,
   groupPageSize: 6,
   createdAt: "2026-09-28T20:47:58.908Z",
-  updatedAt: "2026-10-03T18:43:04.000Z",
+  updatedAt: "2026-10-12T13:07:50.263Z",
 } as const satisfies View
