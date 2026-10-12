@@ -9,9 +9,9 @@ export const encounters0012EyesUpHere = {
   unit: "unit/words",
   title: "Eyes Up Here",
   story: "story-written/encounters",
-  ownLength: 8537,
+  ownLength: 8603,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   issues: "txt",
   lore: ["lore/encounters-callie", "place/encounters-brooks-farm"],
@@ -29,5 +29,5 @@ export const encounters0012EyesUpHere = {
     "image/image-3e4d5788715bed8b",
   ],
   createdAt: "2026-10-12T13:09:37.049Z",
-  updatedAt: "2026-10-12T13:41:35.393Z",
+  updatedAt: "2026-10-12T13:42:42.948Z",
 } as const satisfies StoryChapterWritten
