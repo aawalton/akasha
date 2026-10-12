@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ember/ember.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-game-master-encounters/mari-game-master-encounters.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-reviewer-encounters-flex-1/mari-reviewer-encounters-flex-1.seat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-reviewer-encounters-flex-2/mari-reviewer-encounters-flex-2.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-story-recorder-encounters-flex-1/mari-story-recorder-encounters-flex-1.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-story-recorder-encounters-flex-2/mari-story-recorder-encounters-flex-2.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-story-recorder-encounters-flex-3/mari-story-recorder-encounters-flex-3.seat.ts","typed":true,"deferred":false}

@@ -9,3 +9,4 @@
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-reviewer-encounters-flex-1/mari-reviewer-encounters-flex-1.seat.ts","id":"01a1133f-d9d4-7000-882b-bb7fe5ea6b91"}
+{"propertySlug":"role","path":"agent/seat/pages/mari-reviewer-encounters-flex-2/mari-reviewer-encounters-flex-2.seat.ts","id":"01a11340-1531-7000-8bb6-7ec537751439"}
