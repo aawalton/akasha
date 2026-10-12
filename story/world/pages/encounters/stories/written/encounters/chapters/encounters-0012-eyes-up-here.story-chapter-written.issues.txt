@@ -1,5 +1,3 @@
-style: "lays her head back on your shoulder, and goes quiet against you, breathing slow" - No Sign-Off
-style: "Okay, Alan." "This is my daddy's farm." - Window Pane
 continuity: beat 13 memory "a thin gold necklace she never takes off" - prose never shows she never takes it off
 continuity: beat 33 memory "since her father first mowed it" - prose never says her father mowed the maze
 continuity: beat 49 memory "out of sight of the lot" - prose never shows the barn hidden from the lot
