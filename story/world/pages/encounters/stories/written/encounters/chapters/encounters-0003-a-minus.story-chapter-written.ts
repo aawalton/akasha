@@ -51,6 +51,6 @@ export const encounters0003AMinus = {
     "image/image-03b2c19785b45140",
   ],
   createdAt: "2026-10-06T22:50:48.833Z",
-  updatedAt: "2026-10-12T13:19:41.857Z",
-  ownProgress: 4580,
+  updatedAt: "2026-10-12T13:19:47.765Z",
+  ownProgress: 4693,
 } as const satisfies StoryChapterWritten
