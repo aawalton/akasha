@@ -5,7 +5,7 @@ export const encounters0002Eleven = {
   type: "page-type/story-chapter-written",
   slug: "encounters-0002-eleven",
   cover: "image/image-d5d19be8fed23a84",
-  ownProgress: 3882,
+  ownProgress: 5875,
   position: 2,
   unit: "unit/words",
   title: "Eleven",
@@ -51,5 +51,6 @@ export const encounters0002Eleven = {
     "image/image-36a9b21be9ed5bb4",
   ],
   createdAt: "2026-10-06T22:30:32.633Z",
-  updatedAt: "2026-10-10T10:30:28.167Z",
+  updatedAt: "2026-10-12T13:09:55.464Z",
+  completedAt: "2026-10-12T13:09:53.296Z",
 } as const satisfies StoryChapterWritten
