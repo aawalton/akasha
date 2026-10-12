@@ -11,7 +11,8 @@ export const mari = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  provider: "model-provider/deepseek",
   claudeCodeSessionUuid: "43933f8f-7c85-4475-b933-2397bddcf3b9",
   createdAt: "2026-10-12T12:40:50.798Z",
-  updatedAt: "2026-10-12T12:40:50.798Z",
+  updatedAt: "2026-10-12T12:41:20.856Z",
 } as const satisfies Seat
