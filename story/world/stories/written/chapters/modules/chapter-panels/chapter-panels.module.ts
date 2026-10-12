@@ -87,12 +87,8 @@ export const chapterPanels = {
         "A chapter of a story picturing its beats hands its panels its beats' pictures and the beat read.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A written story's page draws its panels over its latest chapter at player.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A written story's page hands its panels the characters its latest chapter names.",
+      decisionKind: "decision-kind/absence",
+      statement: "A written story's page draws no panels, as a read story's page draws none.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -105,5 +101,5 @@ export const chapterPanels = {
     },
   ],
   createdAt: "2026-09-28T20:11:30.895Z",
-  updatedAt: "2026-10-04T13:27:04.000Z",
+  updatedAt: "2026-10-12T13:08:17.936Z",
 } as const satisfies Module
