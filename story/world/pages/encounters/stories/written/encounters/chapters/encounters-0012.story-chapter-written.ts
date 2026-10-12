@@ -10,10 +10,10 @@ export const encounters0012 = {
   story: "story-written/encounters",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/writer",
   beats: "jsonl",
   lore: ["lore/encounters-callie", "place/encounters-brooks-farm"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
   createdAt: "2026-10-12T13:09:37.049Z",
-  updatedAt: "2026-10-12T13:16:39.881Z",
+  updatedAt: "2026-10-12T13:17:11.314Z",
 } as const satisfies StoryChapterWritten
