@@ -6,6 +6,7 @@ import {
   type OAuthProxyBootEnv,
   parseBootEnv,
 } from "akasha/agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.code.ts"
+import type { ChosenRead } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 import type { StoppedSubagents } from "akasha/agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"
 import type { TransportLog } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
@@ -32,6 +33,7 @@ export type ProcessDoors = {
   readonly consoleTo: (logDir: string, agentId: string) => undefined
   readonly started: (opts: StartOAuthProxyOptions) => OAuthProxy
   readonly stopsFollowed?: (root: string, agentId: string) => StoppedSubagents
+  readonly chosenFor?: (root: string, agentId: string, logPrefix: string) => ChosenRead
   readonly stateWritten: (agentId: string, state: ProxyStateToWrite) => undefined
   readonly stateCleared: (agentId: string) => undefined
   readonly transportFor: (agentId: string) => TransportLog
@@ -64,6 +66,7 @@ function optionsFor(
     downstreamKeepaliveMs: env.downstreamKeepaliveMs,
     unixSocketPath: doors.socketPathFor(env.agentId),
     stopped,
+    chosen: doors.chosenFor?.(doors.root, env.agentId, LOG_PREFIX),
     transportLog,
   }
 }

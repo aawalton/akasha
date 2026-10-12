@@ -63,8 +63,37 @@ export const gatewayEntry = {
       statement: "Nothing here reads a token.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The provider a seat chose is read off the seat page's committed values.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That provider is read again on every request, so an edit needs no restart.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The seat page is found once and found again where it is gone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat page not found, naming no provider or naming Anthropic has chosen none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The upstream of each provider is read once through `provider-upstream`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A choice with no account or no key is said once and leaves the Anthropic accounts serving.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat read that throws is said once and chooses no provider.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads an account.",
+      statement: "Nothing here reads an account but through `provider-upstream`.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -107,5 +136,5 @@ export const gatewayEntry = {
     },
   ],
   createdAt: "2026-09-03T22:49:05.156Z",
-  updatedAt: "2026-09-25T17:54:16.000Z",
+  updatedAt: "2026-10-12T12:39:05.909Z",
 } as const satisfies Module

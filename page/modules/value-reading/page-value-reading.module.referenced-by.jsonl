@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/account/modules/reading/model-account-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/account/modules/upkeep-stall/model-account-upkeep-stall.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/account/modules/upkeep-stall/model-account-upkeep-stall.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/modules/withheld-hiding/withheld-hiding.module.code.ts","typed":false,"deferred":false}

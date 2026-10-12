@@ -245,6 +245,27 @@ test("a gateway is started with the transport log answered for the agent", () =>
   expect(rig.started[0]?.transportLog).toBe(rig.transport)
 })
 
+test("a gateway is started with the read of the provider its seat chose", () => {
+  const rig = rigged()
+  const asked: string[] = []
+  const chosen = () => null
+  runGatewayProcess({
+    ...rig.doors,
+    chosenFor: (root, agentId, logPrefix) => {
+      asked.push(`${root}|${agentId}|${logPrefix}`)
+      return chosen
+    },
+  })
+  expect(asked).toEqual([`${ROOT}|${AGENT}|[oauth-proxy]`])
+  expect(rig.started[0]?.chosen).toBe(chosen)
+})
+
+test("a process handed no read of the seat's choice starts a gateway with none", () => {
+  const rig = rigged()
+  runGatewayProcess(rig.doors)
+  expect(rig.started[0]?.chosen).toBeUndefined()
+})
+
 test("a refused boot answers no transport log", () => {
   const rig = rigged({ env: {} })
   runGatewayProcess(rig.doors)

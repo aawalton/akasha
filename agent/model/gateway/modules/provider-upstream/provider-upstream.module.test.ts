@@ -5,7 +5,10 @@ import {
   anthropicBaseIn,
   askedOf,
   fallbackReadIn,
+  providerReadIn,
 } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
+import { modelProvider } from "akasha/agent/model/provider/model-provider.page-type.ts"
+import { deepseek } from "akasha/agent/model/provider/pages/deepseek/deepseek.model-provider.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { z } from "zod"
 
@@ -93,5 +96,42 @@ test("a fallback read once is held, and one answered as none is read again", () 
   })
   expect(empty()).toBe(null)
   expect(empty()).toBe(null)
+  expect(asked).toBe(2)
+})
+
+const DEEPSEEK = `${modelProvider.slug}/${deepseek.slug}`
+
+test("any provider is looked up by its page and named by its slug", () => {
+  const held = providerReadIn(HERE, keyed)(DEEPSEEK)
+  expect(held?.provider).toBe(deepseek.slug)
+  expect(held?.account).toBe("deepseek")
+  expect(held?.upstream.base).toBe("https://api.deepseek.com/anthropic")
+  expect(held?.upstream.value).toBe(FAKE_KEY)
+  expect(held?.model).toBe("deepseek-flash")
+  expect(held).toEqual(fallbackReadIn(HERE, keyed)())
+})
+
+test("a provider the root files no account for is answered as none rather than throwing", () => {
+  expect(providerReadIn(HERE, keyed)(`${modelProvider.slug}/no-such-provider`)).toBe(null)
+  expect(providerReadIn(NOWHERE, keyed)(DEEPSEEK)).toBe(null)
+})
+
+test("a provider read once is held for that provider, and one answered as none is read again", () => {
+  let turns = 0
+  const read = providerReadIn(HERE, (root, page) => {
+    turns += 1
+    return keyed(root, page)
+  })
+  expect(read(DEEPSEEK)?.account).toBe("deepseek")
+  expect(read(DEEPSEEK)?.account).toBe("deepseek")
+  expect(turns).toBe(1)
+
+  let asked = 0
+  const empty = providerReadIn(HERE, (root, page) => {
+    asked += 1
+    return bare(root, page)
+  })
+  expect(empty(DEEPSEEK)).toBe(null)
+  expect(empty(DEEPSEEK)).toBe(null)
   expect(asked).toBe(2)
 })

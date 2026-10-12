@@ -1,4 +1,6 @@
 import { join } from "node:path"
+import { ANTHROPIC } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
+import { provider } from "akasha/agent/model/account/properties/provider.relation-property.ts"
 import {
   type ProcessDoors,
   runGatewayProcess,
@@ -7,6 +9,11 @@ import {
   SURFACE,
   startOAuthProxy,
 } from "akasha/agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts"
+import {
+  type ChosenRead,
+  type ProviderRead,
+  providerReadIn,
+} from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 import { followingStops } from "akasha/agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"
 import type { TransportLog } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 import {
@@ -17,6 +24,10 @@ import {
   clearProxyState,
   writeProxyStateQuietly,
 } from "akasha/agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.code.ts"
+import {
+  akashaRoot,
+  akashaSeatPathForAgent,
+} from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { supervisorSocketPath } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import {
@@ -26,6 +37,9 @@ import {
   seatPageSink,
 } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export const CONSOLE_SOURCE = "oauth-proxy-console"
 
@@ -80,6 +94,59 @@ export function transportSentTo(
   }
 }
 
+export type ChoiceSeams = {
+  readonly seatFor: (agentId: string) => string | null
+  readonly providerAt: (seat: string) => string | null | undefined
+  readonly upstreamOf: ProviderRead
+  readonly said: (line: string) => undefined
+}
+
+export function choiceSeamsIn(root: string): ChoiceSeams {
+  return {
+    seatFor: akashaSeatPathForAgent,
+    providerAt: (seat) => {
+      const values = valueAt(seat, akashaRoot())
+      return values === null ? undefined : textAt(values, provider.propertySlug)
+    },
+    upstreamOf: providerReadIn(root, secretsIn),
+    said: (line) => {
+      console.error(line)
+    },
+  }
+}
+
+export function chosenFor(agentId: string, logPrefix: string, seams: ChoiceSeams): ChosenRead {
+  let seat: string | null = null
+  const unresolved = new Set<string>()
+  const named = (): string | null => {
+    const held = seat === null ? undefined : seams.providerAt(seat)
+    if (held !== undefined) return held
+    seat = seams.seatFor(agentId)
+    return seat === null ? null : (seams.providerAt(seat) ?? null)
+  }
+  const tell = (line: string): null => {
+    if (unresolved.has(line)) return null
+    unresolved.add(line)
+    seams.said(`${logPrefix} ${line}`)
+    return null
+  }
+  return () => {
+    let chosen: string | null
+    try {
+      chosen = named()
+    } catch (thrown) {
+      const said = thrown instanceof Error ? thrown.message : String(thrown)
+      return tell(`the seat's provider could not be read, so the Anthropic accounts serve: ${said}`)
+    }
+    if (chosen === null || chosen === ANTHROPIC) return null
+    const upstream = seams.upstreamOf(chosen)
+    if (upstream !== null) return upstream
+    return tell(
+      `the seat chose ${chosen}, which has no account or no key, so the Anthropic accounts serve`
+    )
+  }
+}
+
 export function processSeams(): ProcessDoors {
   return {
     env: process.env,
@@ -89,6 +156,7 @@ export function processSeams(): ProcessDoors {
     consoleTo: consoleSentTo,
     started: (opts) => startOAuthProxy(opts, SURFACE),
     stopsFollowed: (root, agentId) => followingStops(root, agentId),
+    chosenFor: (root, agentId, logPrefix) => chosenFor(agentId, logPrefix, choiceSeamsIn(root)),
     stateWritten: (agentId, state) => {
       writeProxyStateQuietly(agentId, state)
     },

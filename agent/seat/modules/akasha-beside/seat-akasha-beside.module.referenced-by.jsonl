@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/recipient-resolving/modules/seat-identity/seat-identity.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/modules/stray-process/stray-process.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/fleet/modules/seat-by-name/seat-by-name.module.code.ts","typed":false,"deferred":false}

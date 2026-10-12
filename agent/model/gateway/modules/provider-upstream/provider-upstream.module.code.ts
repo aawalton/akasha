@@ -36,7 +36,7 @@ export type ChosenRead = () => ProviderUpstream | null
 
 export const noneChosen: ChosenRead = () => null
 
-type ProviderRead = (provider: string) => ProviderUpstream | null
+export type ProviderRead = (provider: string) => ProviderUpstream | null
 
 export function anthropicBaseIn(root: string): string | undefined {
   try {
@@ -69,7 +69,7 @@ function upstreamIn(
   }
 }
 
-function providerReadIn(root: string, secretsRead: SecretsRead): ProviderRead {
+export function providerReadIn(root: string, secretsRead: SecretsRead): ProviderRead {
   const held = new Map<string, ProviderUpstream>()
   return (provider) => {
     const kept = held.get(provider)

@@ -1,19 +1,26 @@
 import { expect, test } from "bun:test"
-import { mkdtempSync, readFileSync, rmSync } from "node:fs"
+import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { ANTHROPIC } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import {
+  type ChoiceSeams,
   CONSOLE_LOG_NAME,
   CONSOLE_SOURCE,
+  choiceSeamsIn,
+  chosenFor,
   consoleSentTo,
   processSeams,
   TRANSPORT_SOURCE,
   type TransportSeams,
   transportSentTo,
 } from "akasha/agent/model/gateway/modules/gateway-entry/gateway-entry.module.code.ts"
+import type { ProviderUpstream } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 import {
   buildTransportEvent,
   type TransportEvent,
 } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
+import { modelProvider } from "akasha/agent/model/provider/model-provider.page-type.ts"
+import { deepseek } from "akasha/agent/model/provider/pages/deepseek/deepseek.model-provider.ts"
 import type { LogLine } from "akasha/agent/seat/log-day/modules/log-day-writing/log-day-writing.module.code.ts"
 
 const SCRATCH = "/var/tmp"
@@ -87,6 +94,7 @@ test("every seam the gateway process asks for is answered by a function", () => 
   expect(typeof seams.stateWritten).toBe("function")
   expect(typeof seams.stateCleared).toBe("function")
   expect(typeof seams.transportFor).toBe("function")
+  expect(typeof seams.chosenFor).toBe("function")
   expect(typeof seams.printed).toBe("function")
   expect(typeof seams.refused).toBe("function")
   expect(typeof seams.threw).toBe("function")
@@ -183,4 +191,127 @@ test("a line written for a row carries nothing beside the row, its stamp and the
   const held = wrote(SEAT)
   transportSentTo(AGENT, held.seams).write(EVENT)
   expect(Object.keys(held.lines[0] ?? {}).sort()).toEqual(["agent-id", "data", "written-at"])
+})
+
+const DEEPSEEK = `${modelProvider.slug}/${deepseek.slug}`
+
+const UPSTREAM: ProviderUpstream = {
+  provider: deepseek.slug,
+  account: "deepseek",
+  upstream: { base: "https://api.deepseek.test/anthropic", header: "x-api-key", value: "fake-key" },
+  model: "deepseek-flash",
+}
+
+type Choosing = {
+  readonly seams: ChoiceSeams
+  readonly said: string[]
+  readonly held: { stated: string | null | undefined; looked: number; asked: string[] }
+}
+
+function choosing(
+  stated: string | null | undefined,
+  seat: string | null = "seat.ts",
+  upstream: ProviderUpstream | null = UPSTREAM
+): Choosing {
+  const said: string[] = []
+  const held = { stated, looked: 0, asked: [] as string[] }
+  const seams: ChoiceSeams = {
+    seatFor: () => {
+      held.looked += 1
+      return seat
+    },
+    providerAt: () => held.stated,
+    upstreamOf: (named) => {
+      held.asked.push(named)
+      return upstream
+    },
+    said: (line): undefined => {
+      said.push(line)
+    },
+  }
+  return { seams, said, held }
+}
+
+test("a seat stating a provider other than Anthropic is answered that provider's upstream", () => {
+  const given = choosing(DEEPSEEK)
+  expect(chosenFor(AGENT, "[gw]", given.seams)()).toBe(UPSTREAM)
+  expect(given.held.asked).toEqual([DEEPSEEK])
+})
+
+test("a seat stating no provider, or stating Anthropic, has chosen none", () => {
+  for (const stated of [null, ANTHROPIC]) {
+    const given = choosing(stated)
+    expect(chosenFor(AGENT, "[gw]", given.seams)()).toBeNull()
+    expect(given.held.asked).toEqual([])
+  }
+})
+
+test("a seat page not found has chosen none", () => {
+  const given = choosing(DEEPSEEK, null)
+  expect(chosenFor(AGENT, "[gw]", given.seams)()).toBeNull()
+  expect(given.held.asked).toEqual([])
+})
+
+test("the seat's provider is read again on every request, and its page is found once", () => {
+  const given = choosing(null)
+  const read = chosenFor(AGENT, "[gw]", given.seams)
+  expect(read()).toBeNull()
+  given.held.stated = DEEPSEEK
+  expect(read()).toBe(UPSTREAM)
+  given.held.stated = null
+  expect(read()).toBeNull()
+  expect(given.held.looked).toBe(1)
+})
+
+test("a seat page gone from where it was found is looked for again", () => {
+  const given = choosing(DEEPSEEK)
+  const read = chosenFor(AGENT, "[gw]", given.seams)
+  expect(read()).toBe(UPSTREAM)
+  given.held.stated = undefined
+  expect(read()).toBeNull()
+  expect(given.held.looked).toBe(2)
+})
+
+test("a choice with no account or no key is said once and leaves the Anthropic accounts serving", () => {
+  const given = choosing(DEEPSEEK, "seat.ts", null)
+  const read = chosenFor(AGENT, "[gw]", given.seams)
+  expect(read()).toBeNull()
+  expect(read()).toBeNull()
+  expect(given.said).toEqual([
+    `[gw] the seat chose ${DEEPSEEK}, which has no account or no key, so the Anthropic accounts serve`,
+  ])
+})
+
+test("a seat read that throws is said once and chooses nothing", () => {
+  const given = choosing(DEEPSEEK)
+  const read = chosenFor(AGENT, "[gw]", {
+    ...given.seams,
+    providerAt: () => {
+      throw new Error("the page is unreadable")
+    },
+  })
+  expect(read()).toBeNull()
+  expect(read()).toBeNull()
+  expect(given.said.length).toBe(1)
+  expect(given.said[0]).toContain("the page is unreadable")
+})
+
+test("the provider a seat page states is read off that page's committed values", () => {
+  const dir = mkdtempSync(join(SCRATCH, "proxy-entry-seat-"))
+  const stating = join(dir, "stating.seat.ts")
+  const silent = join(dir, "silent.seat.ts")
+  writeFileSync(stating, `export const stating = {\n  provider: "${DEEPSEEK}",\n} as const\n`)
+  writeFileSync(silent, `export const silent = {\n  slug: "silent",\n} as const\n`)
+  const seams = choiceSeamsIn(processSeams().root)
+  try {
+    expect(seams.providerAt(stating)).toBe(DEEPSEEK)
+    expect(seams.providerAt(silent)).toBeNull()
+    expect(seams.providerAt(join(dir, "gone.seat.ts"))).toBeUndefined()
+  } finally {
+    rmSync(dir, { recursive: true, force: true })
+  }
+})
+
+test("an agent naming no seat has chosen no provider", () => {
+  expect(chosenFor(NO_SEAT, "[gw]", choiceSeamsIn(processSeams().root))()).toBeNull()
 })

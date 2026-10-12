@@ -21,7 +21,7 @@ export type StartOAuthProxyOptions = {
   readonly unixSocketPath?: string
   readonly oauth?: OAuthEffects
   readonly fallback?: FallbackRead
-  readonly chosen?: ChosenRead
+  readonly chosen?: ChosenRead | undefined
   readonly stopped?: HeldSubagents | undefined
   readonly transportLog?: TransportLog | undefined
 }

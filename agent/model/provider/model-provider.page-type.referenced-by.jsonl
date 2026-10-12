@@ -1,7 +1,9 @@
 {"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"agent/model/account/modules/making/model-account-making.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"agent/model/account/modules/reading/model-account-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"agent/model/account/modules/reading/model-account-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"alan/web/routes/claude-usage/claude-usage.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-provider.page-type.types.ts","path":"agent/model/provider/pages/anthropic/anthropic.model-provider.ts","typed":true,"deferred":false}

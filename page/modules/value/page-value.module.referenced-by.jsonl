@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/account/modules/reading/model-account-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/account/modules/refreshing/model-account-refreshing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/account/modules/upkeep/model-account-upkeep.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.code.ts","typed":false,"deferred":false}

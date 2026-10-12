@@ -87,6 +87,15 @@ export const gatewayProcess = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A gateway is started with the read of the provider the seat the boot settings name chose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A process handed no such read starts a gateway whose seat chose no provider.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The proxy state written names the process id.",
     },
     {
@@ -226,5 +235,5 @@ export const gatewayProcess = {
     },
   ],
   createdAt: "2026-09-02T21:58:18.741Z",
-  updatedAt: "2026-09-25T17:53:59.000Z",
+  updatedAt: "2026-10-12T12:39:05.909Z",
 } as const satisfies Module
