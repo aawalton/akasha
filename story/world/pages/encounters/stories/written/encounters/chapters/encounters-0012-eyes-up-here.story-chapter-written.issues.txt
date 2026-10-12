@@ -1,5 +1,4 @@
 continuity: "This is Alan," Callie says - he never told her his name; she only gave him hers
-continuity: beat 39 memory "high school friends" - prose never says the three friends are from high school
 continuity: "known every single turn of that maze since I was ten" - Alan learns it; no memory line
 continuity: "the old barn, the red one, past the house" - Alan learns the barn fact; no memory line
 continuity: "hangs the lantern on a nail driven into a beam" - loft lantern fact shown; no memory line
