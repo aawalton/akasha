@@ -2491,7 +2491,7 @@
             "name": "Bone Surge",
             "rank": 1
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -2527,7 +2527,7 @@
             "name": "Inner Beast",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -2733,9 +2733,9 @@
       "nextRankXP": 140
     },
     "117": {
-      "currentRank": 10,
+      "currentRank": 11,
       "currentXP": 65,
-      "nextRankXP": 75
+      "nextRankXP": 100
     },
     "130": {
       "currentRank": 10,
@@ -7224,6 +7224,7 @@
     5566,
     5570,
     5572,
+    5575,
     5577,
     5581,
     5582,
@@ -13303,11 +13304,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "seen": [
       5,
       3,
@@ -13320,15 +13321,15 @@
     "completed": [
       1,
       6,
-      2,
       7,
-      3,
+      2,
       4,
+      3,
       5
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-11",
-    "misplaced": 50
+    "date": "2026-10-12",
+    "misplaced": 65
   }
 }
