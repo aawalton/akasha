@@ -1,0 +1,87 @@
+Vee's return and departure were definitely felt by the island's residents, despite her having given a detailed set of tasks and responsibilities as she evolved. As for me, I continued focusing on myself for the time being while occasionally relaxing or even socializing with others.
+
+Logan, for example, had been quite clingy in an almost childlike way, as if he was desperately craving my attention. It was odd considering he was supposed to be an ancient tree spirit reborn again, or something like that, but here he was, craving my presence. Even if I wasn't interacting with him, just the fact that I was present in the room he prepared for me, molded from his own trunk and branches, was enough to satisfy him.
+
+Yuzz, on the other hand, was like an old friend, and I had fun spending time with her and just being myself, although that had the regrettable effect of making me crave my other companions on the human side. I still regret that day when I ran away, but I was in an extremely awkward position at the time. Of course, now I had a reasonable excuse thanks to Vee's idea of pretending to be Sylthaeryn's body double, and I also had the aid of Keldenar.
+
+I could go now… But I'd rather wait till I have something to show for it by beating one more labyrinth. Although the question then will be, do I still pretend to be an Elementalist, or do I reveal that I'm a Riftmancer now?
+
+I figured I'd better ask Keldenar's opinion on that matter, as the truth might honestly be too much. Considering I'd been poisoned in the past for being one, I had no doubt it would paint another target on my back, which was not exactly something I wanted to do. It also might make me some kind of celebrity, with every noble or, worse, royal wanting a piece of me.
+
+Like… What do I do if someone like the king asks me to personally come do some [Dimension Magic] thing for them? Or some bratty princess asks me to be their personal chauffeur? I know Keldenar turned them all down and even technically went against them by founding his own kingdom, but that would again bring attention that I don't really want on me.
+
+Again, this was another reason why I had to have a chat with the man, but I was still putting it off until my [Personal Rift] had repaired itself. Admittedly, I felt a little lost without it, and after two days of it still being gone, I was feeling quite miserable. In an effort to distract myself and having fulfilled my social quotas, I threw myself into my work.
+
+I had system magic, plenty of new spell components from the elements, light and death, but most importantly I also had compressed space to work on. All of it was tantalizing, but with my class currently being Riftmancer and how crippling being in a space with atypical coordinates had proven to be, the choice was obvious.
+
+I returned to reading the madman's tome while including my [Sub-Cores] in the process. While we read, especially when it came to the calculations and formulae, I made a conscious effort to cast spells at the same time.
+
+What was fascinating was that even though I had skill [Folded Geometry] and the spell [Reduction], this was still something entirely different. The fact that it actually reduced people and objects within the space, too, was obvious, but neither of my two existing abilities to reduce space affected coordinates in that strange manner.
+
+Or is it actually affecting them, but because I'm the owner, I get preferential treatment?
+
+It was certainly a possibility, and in the interest of having a direct example to reference, I ended up teleporting myself to the snow globe for brief periods. While the globe itself was still refusing entry, if I extended my [Spatial Sense] inside it, I could still witness the spatial anomalies firsthand. If I were brave or foolish enough, I could even probably teleport myself inside there right now, but all my instincts of self-preservation screamed at me that it was a terrible idea.
+
+It was probably not the best way to go about things, but I was going down two distinct paths, switching between them whenever I hit a hurdle in one in hopes of finding inspiration. The first path was working on my spell version of [Triangulate], which would not only replace the skill but improve upon it. I wanted my spell version to be almost like a [Sub-Core] that helped me with everything coordinate-related and could even crunch the numbers on any bizarre or restricted areas.
+
+The second path was to recreate the snow globe's magical effect so that I could also create a reduced area, or even a targeted spell to reduce an enemy. Considering my [Spatial Resistance] went up, I figured it must be something like an affliction, and considering I had plenty of experience in that department, that was where I was drawing inspiration and knowledge from.
+
+I was expecting to either partially complete one of my two spells or for [Personal Rift] to recover first, but unexpectedly, something else occurred before any of my predictions.
+
+<Proficiency gained. [Dimension Magic LV 6] improved to [Dimension Magic LV 7].>
+
+<[Dimension Magic LV 7] spell [Exchange] learned.>
+
+I should have expected it, especially with everything I'd been doing lately revolving around it, but it had completely slipped my mind. However, I quickly recovered and dove right into studying the new spell I had received, hoping it might provide me with a new path or tools to use in my research.
+
+Huh… Doesn't this seem a bit underwhelming for a seventh-level spell? Especially for something as crazy as [Dimension Magic]...
+
+Yes, I was oddly disappointed with the spell I had received, and maybe that was due to comparing it to what I'd gotten from my intermediate elemental spells just the other day. [Exchange] caused two things to swap positions, such as two objects, two people, or one of each. The only limit appeared to be something bolted to another far larger surface. I wasn't denying that it was useful, but compared to summoning a thunderstorm or creating a sand tsunami, it felt oddly lackluster.
+
+I mean… Couldn't I have just done this myself?
+
+To prove my point, I tried swapping the coordinates of two rocks manually without the spell, but to my surprise, it didn't behave as I expected. I tried a few times, but with each attempt, there was this strange resistance between them that prevented me from doing so. In frustration, I cast [Exchange] and watched the two objects effortlessly swap places, with no delay or struggle, causing me to frown.
+
+Why is my version not working?
+
+I spent far longer than I should have fussing over it, so much so that I almost missed that my [Personal Rift] had finally recovered. When its familiar presence returned, I felt a sense of comforting relief, and quickly ripped open a few apertures for old times' sake. I then cautiously inspected the interior for signs of damage. Still, everything felt good as new, leaving me relieved that I hadn't done permanent damage to arguably one of my favorite skills.
+
+Let's see if you can't help me figure this out.
+
+Manifesting my rift, I had the world of spatial anomalies and coordinates reopened to me, greatly enhancing my ability to detect and sense changes while working in tandem with [Spatial Sense]. First, I cast the official version and watched as it once again effortlessly exchanged the coordinates with grace and precision, like no other. Next, I tried my own, and thanks to my scrutinizing gaze, I picked up the problem almost immediately.
+
+It's because the coordinates are occupied, which is triggering the system's spatial safety feature!
+
+There was a universal rule with teleportation that you couldn't occupy an already occupied space, and my own spell was violating that. It was almost similar to the rule where you couldn't cause spells to spawn inside of someone else, otherwise I could conjure a [Fireball] inside a monster's lungs.
+
+Of course, there were exceptions, like self-teleportation abilities like [Blink], but that put the risk on the user. If you ended up inside a wall or under the ground, you could only blame yourself, as you were painfully shunted to an unoccupied space. But when it came to other people or even things, the system prevented you from abusing the shunting effect.
+
+I bet there's some weird history behind it, like people teleporting rocks inside of people to kill them. Then, when that was banned, they did stuff like shunting trees into walls or forts and destroying them, until that, too, got "fixed."
+
+It was ripe for abuse, so I wouldn't complain about it being prevented, but that still left me with the mystery of why [Exchange] wasn't triggering the protection. I carefully studied the two rocks while swapping them repeatedly for way longer than I should have, but eventually found what I thought was my answer.
+
+I had suspected that [Exchange] might have been a product of before shunting was fixed, but that actually didn't appear to be the case. What was actually happening was that the coordinates were exchanged in such perfect unity that it was like they genuinely belonged in their new positions.
+
+Another obvious question was why I hadn't just studied the spell construct or taken it apart, and, honestly, I had tried, but it was unlike anything I had seen or worked with before. I had [Mana Dominion] now, which gave me the tools to do so, but I still didn't have the experience in creating such masterpieces myself, with every component blended together perfectly into what could only be described as art.
+
+Usually, when I got a new spell, I would target its new components and think of where I could make use of them, but [Exchange] offered none of that. In fact, it was pretty much just multiple [Position] and [Positioning] spells from my somewhat brief investigation, but harmonized in a way I never thought possible. This was the standard of spells I needed to learn how to craft, not my crude imitations strapped together that somehow functioned.
+
+Curiously, I also took a peek at [Sand Maw] and similarly saw the proper and refined way to create a spell with stages, and when I looked at my own creations, I couldn't help but feel humbled. How could I have allowed myself to make such flawed creations? What kind of monster was I?
+
+No… Wait, I made most of my stuff with terrible tools. I basically only just got [Mana Dominion]. Heck, without it, I probably wouldn't have been able to appreciate the true majesty of these creations.
+
+I felt somewhat enlightened by the experience, which might have been odd coming from such a relatively simple spell. Yet its level of craft was why it had been relegated to the seventh level, and it stood as a testament to what was expected of proper [Dimension Magic]. I had no doubt that Mother had personally created this spell as a benchmark of what was possible.
+
+After that experience, I spent a bit of time using [Exchange] to properly witness it in action. I even tried it against a few hostile monsters I sought out, where I discovered possibly an even more interesting revelation. Forcibly teleporting someone was extraordinarily difficult, which was why I had forcibly made [Displaced] in an attempt to alleviate that, but [Exchange] appeared to somehow bypass that, only sometimes.
+
+Thankfully, I soon realized what was happening, and the ease of use of [Exchange] came when I was swapping positions with a monster and me. For whatever reason, if I included myself as one of the targets, it heavily bypassed their resistance to having their spatial coordinates manipulated. Once I figured this out, I quickly came up with two reasons why this might be the case.
+
+Maybe because I'm targeting myself, I'm giving [Exchange] half of the consent it needs to teleport, making its job easier? Either that or because I have far more dimensional weight than these monsters, I'm "throwing my weight around" in the equation and "forcing" them to swap places with me…
+
+As ridiculous as those two theories sounded, I genuinely felt like they both had the potential to be right. It could also be something as simple as my affinity as a Riftmancer, providing a bonus when I targeted myself. Still, I gave more credence to my permission or weight being the actual reason.
+
+Regardless of the reason, being able to swap places with an enemy or even a rock was wonderful for positioning, and when used in tandem with my slime minions, the effect was wonderful. I was quickly reminded of Keldenar's [Castling] ability, which he had used to swap places with his golems, except in my case, it was far superior because it wasn't restricted to the user and a golem specifically.
+
+Whether it was a coincidence or not, I couldn't help but notice that all my recent abilities seemed to be leading me down a path of a slime commander or general, able to fight on a battlefield and now even position my troops with dimensional precision. [Exchange] was faster and more efficient than [Blink], and I could even see myself using it as a method of transport by repeatedly swapping places with a rock or something in the distance, provided I could target it quick enough to chain them together.
+
+Well, I think I've convinced myself that [Triangulate] needs to be prioritized quicker to handle my number crunching…
