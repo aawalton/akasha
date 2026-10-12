@@ -31794,7 +31794,7 @@
         "totalSteps": 2,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 2,
             "numRequired": 8
           },
           "2": {
@@ -31818,7 +31818,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 4,
+            "numCompleted": 7,
             "numRequired": 25
           }
         }
@@ -31831,7 +31831,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 4,
+            "numCompleted": 7,
             "numRequired": 75
           }
         }
@@ -31887,7 +31887,7 @@
       }
     },
     "4738": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -31900,7 +31900,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 8,
             "numRequired": 10
           }
         }
@@ -31913,7 +31913,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 8,
             "numRequired": 20
           }
         }
@@ -40485,7 +40485,7 @@
       "name": "Destructive Mage",
       "categoryName": "Trials",
       "subcategoryName": "Hel Ra Citadel",
-      "slotsUnlocked": 5,
+      "slotsUnlocked": 6,
       "totalSlots": 22,
       "pieces": [
         {
@@ -40554,7 +40554,7 @@
         },
         {
           "name": "Aether Bow of Destruction",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Aether Restoration Staff of Destruction",
@@ -45887,7 +45887,7 @@
       "name": "Roar of Alkosh",
       "categoryName": "Trials",
       "subcategoryName": "Maw of Lorkhaj",
-      "slotsUnlocked": 13,
+      "slotsUnlocked": 14,
       "totalSlots": 22,
       "pieces": [
         {
@@ -45960,7 +45960,7 @@
         },
         {
           "name": "Restoration Staff of Alkosh",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Inferno Staff of Alkosh",
@@ -50741,7 +50741,7 @@
       "name": "Treasure Hunter",
       "categoryName": "Dungeons",
       "subcategoryName": "Volenfell",
-      "slotsUnlocked": 21,
+      "slotsUnlocked": 22,
       "totalSlots": 22,
       "pieces": [
         {
@@ -50798,7 +50798,7 @@
         },
         {
           "name": "Treasure Hunter's Battle Axe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Treasure Hunter's Maul",
@@ -52056,7 +52056,7 @@
       "name": "Automated Defense",
       "categoryName": "Trials",
       "subcategoryName": "The Halls of Fabrication",
-      "slotsUnlocked": 6,
+      "slotsUnlocked": 7,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52125,7 +52125,7 @@
         },
         {
           "name": "Automated Defense Bow",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Automated Defense Restoration Staff",
