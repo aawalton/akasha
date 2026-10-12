@@ -7,3 +7,15 @@ continuity: "Square bales are stacked against the walls" / "deep in loose hay" -
 continuity: green eyes, wide grin, thin gold necklace shown - no memory line shows Callie's lore fact
 continuity: "Eyes up here, sugar" and her drawl - Callie's drawl-and-sugar fact shown; no memory line
 continuity: "slim, long-legged ... arms are tanned" - Callie's build fact shown; no memory line
+style: "Her finger stops on your ribs. Her breathing slows against your side" - No Sign-Off
+style: "Watches to see what you'll do about it." - No Prompt
+style: "It isn't a question." - Let Them Talk
+style: "Then she tells you hers." - Let Them Talk
+style: "and she melts against you" - No Tropes
+style: "the families behind you none the wiser" - No Tropes
+style: "it pulls you right over the edge with her" - No Tropes
+style: "her voice ringing out into the night" - No Tropes
+style: "Her hand stays on your knee. She doesn't take it back." - Window Pane
+style: "and her finger is hooked through your belt loop, and she keeps it there" - Window Pane
+style: "holds perfectly still on you. She doesn't move at all." - Window Pane
+style: "and louder, and it carries" / "She doesn't try to keep it down. She gets louder." - Window Pane

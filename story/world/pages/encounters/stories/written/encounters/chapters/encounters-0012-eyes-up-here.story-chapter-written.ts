@@ -11,12 +11,12 @@ export const encounters0012EyesUpHere = {
   story: "story-written/encounters",
   ownLength: 8591,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: "jsonl",
   issues: "txt",
   lore: ["lore/encounters-callie", "place/encounters-brooks-farm"],
   characters: ["character-player/encounters-alan", "character-other/encounters-callie"],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/continuity", "story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/mechanics",
@@ -34,5 +34,5 @@ export const encounters0012EyesUpHere = {
     "image/image-3e4d5788715bed8b",
   ],
   createdAt: "2026-10-12T13:09:37.049Z",
-  updatedAt: "2026-10-12T13:33:09.283Z",
+  updatedAt: "2026-10-12T13:34:34.338Z",
 } as const satisfies StoryChapterWritten
