@@ -2,4 +2,3 @@
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/athena-ae9c9f365f9417b90/athena-ae9c9f365f9417b90.subagent.ts","id":"01a13014-9ce2-7051-b5af-32aad0042b36"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/rhia-aad7afe768790e733/rhia-aad7afe768790e733.subagent.ts","id":"01a13012-886e-7170-b3e2-dfd13be49210"}
