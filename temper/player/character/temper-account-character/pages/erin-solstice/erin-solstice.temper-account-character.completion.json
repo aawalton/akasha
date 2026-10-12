@@ -28276,28 +28276,12 @@
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-11",
-    "seen": [
-      5,
-      3,
-      4,
-      2,
-      1,
-      6,
-      7
-    ],
-    "completed": [
-      1,
-      6,
-      2,
-      7,
-      3,
-      4,
-      5
-    ]
+    "date": "2026-10-12",
+    "seen": [],
+    "completed": []
   },
   "inventoryCheck": {
-    "date": "2026-10-11",
-    "misplaced": 25
+    "date": "2026-10-12",
+    "misplaced": 94
   }
 }
