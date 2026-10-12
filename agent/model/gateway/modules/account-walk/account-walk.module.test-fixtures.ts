@@ -116,6 +116,7 @@ type HarnessOptions = {
 const noFallback: FallbackRead = () => null
 
 export const deepseekFallback: FallbackRead = () => ({
+  provider: "deepseek",
   account: "deepseek",
   upstream: {
     base: "https://api.deepseek.test/anthropic",

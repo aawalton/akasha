@@ -11,11 +11,15 @@ export const providerUpstream = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The provider a gateway falls back to is DeepSeek.",
+      statement: "One lookup answers the upstream of any provider it is named.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The account the fallback is sent under is the one held with that provider.",
+      statement: "The provider a gateway falls back to is DeepSeek, looked up that way.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The account a provider is sent under is the one held with that provider.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -24,15 +28,19 @@ export const providerUpstream = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A fallback the root files no account for is answered as none.",
+      statement: "A provider the root files no account for is answered as none.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A fallback whose account holds no key is answered as none.",
+      statement: "A provider whose account holds no key is answered as none.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The model a fallback asks for is read off the provider's page.",
+      statement: "An upstream answered names its provider by the provider's slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The model a provider is asked for is read off the provider's page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -49,11 +57,15 @@ export const providerUpstream = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A fallback read once is held for the life of the reader.",
+      statement: "A provider's upstream read once is held for the life of the reader.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A fallback answered as none is read again on the next call.",
+      statement: "One reader holds the upstream of each provider apart from every other.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A provider answered as none is read again on the next call.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -77,5 +89,5 @@ export const providerUpstream = {
     },
   ],
   createdAt: "2026-09-15T13:33:42.816Z",
-  updatedAt: "2026-09-25T17:58:45.000Z",
+  updatedAt: "2026-10-12T12:30:00.745Z",
 } as const satisfies Module

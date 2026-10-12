@@ -18,7 +18,8 @@ import { deepseek } from "akasha/agent/model/provider/pages/deepseek/deepseek.mo
 
 const FALLBACK = `${modelProvider.slug}/${deepseek.slug}` as const
 
-type Fallback = {
+type ProviderUpstream = {
+  readonly provider: string
   readonly account: string
   readonly upstream: Upstream
   readonly model: string | null
@@ -29,7 +30,9 @@ export function askedOf(bodyBuffer: ArrayBuffer | null, model: string | null): A
   return rewrittenToModel(bodyBuffer, model) ?? bodyBuffer
 }
 
-export type FallbackRead = () => Fallback | null
+export type FallbackRead = () => ProviderUpstream | null
+
+type ProviderRead = (provider: string) => ProviderUpstream | null
 
 export function anthropicBaseIn(root: string): string | undefined {
   try {
@@ -39,29 +42,41 @@ export function anthropicBaseIn(root: string): string | undefined {
   }
 }
 
-export function fallbackIn(root: string, secretsRead: SecretsRead): Fallback | null {
+function upstreamIn(
+  root: string,
+  provider: string,
+  secretsRead: SecretsRead
+): ProviderUpstream | null {
   try {
-    const one = everyAccountOfIn(root, FALLBACK)[0]
+    const one = everyAccountOfIn(root, provider)[0]
     if (one === undefined) return null
-    const base = apiBaseIn(root, FALLBACK)
+    const base = apiBaseIn(root, provider)
     if (base === null) return null
     const key = apiKeyIn(root, one.slug, secretsRead)
     if (key === null) return null
     return {
+      provider: provider.slice(provider.lastIndexOf("/") + 1),
       account: one.slug,
       upstream: keyedUpstream(base, key),
-      model: providerModelIn(root, FALLBACK),
+      model: providerModelIn(root, provider),
     }
   } catch {
     return null
   }
 }
 
-export function fallbackReadIn(root: string, secretsRead: SecretsRead): FallbackRead {
-  let held: Fallback | null = null
-  return () => {
-    if (held !== null) return held
-    held = fallbackIn(root, secretsRead)
-    return held
+function providerReadIn(root: string, secretsRead: SecretsRead): ProviderRead {
+  const held = new Map<string, ProviderUpstream>()
+  return (provider) => {
+    const kept = held.get(provider)
+    if (kept !== undefined) return kept
+    const read = upstreamIn(root, provider, secretsRead)
+    if (read !== null) held.set(provider, read)
+    return read
   }
+}
+
+export function fallbackReadIn(root: string, secretsRead: SecretsRead): FallbackRead {
+  const read = providerReadIn(root, secretsRead)
+  return () => read(FALLBACK)
 }

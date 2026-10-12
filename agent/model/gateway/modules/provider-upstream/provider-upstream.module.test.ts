@@ -4,7 +4,6 @@ import { encoded } from "akasha/agent/model/gateway/modules/model-body/model-bod
 import {
   anthropicBaseIn,
   askedOf,
-  fallbackIn,
   fallbackReadIn,
 } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -31,7 +30,8 @@ test("a root filing no provider is answered with no base rather than throwing", 
 })
 
 test("the fallback is the account held with DeepSeek and that provider's base", () => {
-  const held = fallbackIn(HERE, keyed)
+  const held = fallbackReadIn(HERE, keyed)()
+  expect(held?.provider).toBe("deepseek")
   expect(held?.account).toBe("deepseek")
   expect(held?.upstream.base).toBe("https://api.deepseek.com/anthropic")
   expect(held?.upstream.header).toBe("x-api-key")
@@ -39,7 +39,7 @@ test("the fallback is the account held with DeepSeek and that provider's base", 
 })
 
 test("the model the fallback asks for is read off DeepSeek's page", () => {
-  expect(fallbackIn(HERE, keyed)?.model).toBe("deepseek-flash")
+  expect(fallbackReadIn(HERE, keyed)()?.model).toBe("deepseek-flash")
 })
 
 test("a body is rewritten to ask for the provider's own model", () => {
@@ -68,11 +68,11 @@ test("a body nothing here can rewrite is sent as that body came", () => {
 })
 
 test("a fallback whose account holds no key is answered as none", () => {
-  expect(fallbackIn(HERE, bare)).toBe(null)
+  expect(fallbackReadIn(HERE, bare)()).toBe(null)
 })
 
 test("a root filing no account at all is answered as none rather than throwing", () => {
-  expect(fallbackIn(NOWHERE, keyed)).toBe(null)
+  expect(fallbackReadIn(NOWHERE, keyed)()).toBe(null)
 })
 
 test("a fallback read once is held, and one answered as none is read again", () => {
