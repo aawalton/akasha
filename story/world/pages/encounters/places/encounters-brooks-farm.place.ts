@@ -53,37 +53,69 @@ export const encountersBrooksFarm = {
     },
     {
       fact: "Callie has known every turn of the corn maze since her father first mowed it when she was ten.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-callie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-callie",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "The old red barn sits past the farmhouse, off the festival grounds and out of sight of the lot.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-callie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-callie",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "A wooden ladder climbs from the barn floor through a square hole into the hay loft.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-callie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-callie",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "The loft is stacked with square bales and deep loose hay, smelling of dry grass and dust.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-callie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-callie",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "The loft has no electric light; Callie hangs a battery lantern from a nail on a beam.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-callie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-callie",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "The loft's hay door opens high over the dark back pasture, and the night air comes in cool.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-callie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-callie",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "The farmhouse is far enough from the barn that nobody inside hears anything from the loft.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-callie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-callie",
+        "character-player/encounters-alan",
+      ],
     },
     {
       fact: "Callie keeps an old quilt rolled up in the loft, from the summers she read up there.",
-      knowers: ["lore-disclosure/game-master", "character-other/encounters-callie"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/encounters-callie",
+        "character-player/encounters-alan",
+      ],
     },
   ],
   createdAt: "2026-10-12T13:08:20.496Z",
-  updatedAt: "2026-10-12T13:08:20.496Z",
+  updatedAt: "2026-10-12T13:45:30.153Z",
 } as const satisfies Place
