@@ -35,6 +35,11 @@ export const imageGeneration = {
       decisionKind: "decision-kind/constraint",
       statement: "Beyond Reality 3 draws a woman busty unless the prompt states a small chest.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A render's file name is led by a three-digit number one past the highest in its folder.",
+    },
   ],
   directives: [
     {
@@ -47,5 +52,5 @@ export const imageGeneration = {
     },
   ],
   createdAt: "2026-09-26T15:59:15.411Z",
-  updatedAt: "2026-10-12T12:47:55.371Z",
+  updatedAt: "2026-10-12T12:50:32.198Z",
 } as const satisfies Domain
