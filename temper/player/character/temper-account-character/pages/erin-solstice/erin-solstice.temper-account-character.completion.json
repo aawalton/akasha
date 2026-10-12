@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHNIDAAIBhxAkHCJtAwibQMmC1DJgtIyYLQMmC0DJgtEGjtRBAq0QQKtJHkx2xEEx1ujI3QALwAAABNjr2ygACGzoAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM8ApkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
+  "buildHash": "ATQHNIDAAIBhxAkDE_tAxP7QMmC1DJgtIyYLQMmC0DJgtEGjtRBAq0QQKtJHkx2xEEx1ujIAAAAAAAzpNhi4atlCGAAAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM8ApkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -1661,7 +1661,7 @@
             "name": "Cauterize",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -10596,6 +10596,10 @@
       "62": [
         4,
         6
+      ],
+      "63": [
+        1,
+        4
       ]
     }
   },
@@ -20582,6 +20586,7 @@
     7440,
     7441,
     7442,
+    7444,
     7448,
     7449,
     7451,
@@ -28339,6 +28344,6 @@
   },
   "inventoryCheck": {
     "date": "2026-10-12",
-    "misplaced": 66
+    "misplaced": 84
   }
 }
