@@ -31014,7 +31014,7 @@
       }
     },
     "4601": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -31805,7 +31805,7 @@
       }
     },
     "4722": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -31818,7 +31818,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 4,
             "numRequired": 25
           }
         }
@@ -31831,14 +31831,14 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 0,
+            "numCompleted": 4,
             "numRequired": 75
           }
         }
       }
     },
     "4729": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 4
@@ -50741,7 +50741,7 @@
       "name": "Treasure Hunter",
       "categoryName": "Dungeons",
       "subcategoryName": "Volenfell",
-      "slotsUnlocked": 20,
+      "slotsUnlocked": 21,
       "totalSlots": 22,
       "pieces": [
         {
@@ -50786,7 +50786,7 @@
         },
         {
           "name": "Treasure Hunter's Axe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Treasure Hunter's Mace",
@@ -89974,6 +89974,7 @@
     14773,
     14776,
     14779,
+    14781,
     14788,
     14984,
     14985,
