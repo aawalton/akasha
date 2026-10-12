@@ -14,7 +14,12 @@ export const encounters0012EyesUpHere = {
   beats: "jsonl",
   lore: ["lore/encounters-callie", "place/encounters-brooks-farm"],
   characters: ["character-player/encounters-alan", "character-other/encounters-callie"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/memory",
+  ],
   createdAt: "2026-10-12T13:09:37.049Z",
-  updatedAt: "2026-10-12T13:23:15.389Z",
+  updatedAt: "2026-10-12T13:25:18.014Z",
 } as const satisfies StoryChapterWritten

@@ -1,28 +1,28 @@
 {"beat":1,"event":"Saturday afternoon; Alan follows a hand-painted sign down a gravel lane to the Brooks farm.","at":"2026-10-24T18:00:00.000Z","place":"place/encounters-brooks-farm","present":["character-player/encounters-alan"]}
 {"beat":2,"event":"He parks in a mown field among pickups while a bluegrass band plays off a flatbed."}
-{"beat":3,"event":"He walks the grounds with hot cider: kettle corn, fried pies, kids loose in the pumpkin patch."}
-{"beat":4,"event":"By the patch, bales stack under a frame painted Brooks Farm, and a girl works the line.","arrive":["character-other/encounters-callie"]}
-{"beat":5,"event":"She is honey-blonde and freckled, in overalls with one strap down over a little white bralette."}
+{"beat":3,"event":"He walks the grounds with hot cider: kettle corn, fried pies, kids loose in the pumpkin patch.","memory":[{"page":"place/encounters-brooks-farm","fact":"The festival has a pumpkin patch, kettle corn, cider, fried pies and a bluegrass band on a flatbed.","shown":true}]}
+{"beat":4,"event":"By the patch, bales stack under a frame painted Brooks Farm, and a girl works the line.","arrive":["character-other/encounters-callie"],"memory":[{"page":"place/encounters-brooks-farm","fact":"The hay bale photo spot is stacked bales by the pumpkin patch, under a frame painted Brooks Farm.","shown":true}]}
+{"beat":5,"event":"She is honey-blonde and freckled, in overalls with one strap down over a little white bralette.","memory":[{"page":"lore/encounters-callie","fact":"Callie has honey-blonde wavy hair past her shoulders, and freckles across her nose and cheeks.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie has honey-blonde wavy hair past her shoulders, and freckles across her nose and cheeks.","shown":true},{"page":"lore/encounters-callie","fact":"Callie wears denim overalls with one strap undone over a small white bralette.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie wears denim overalls with one strap undone over a small white bralette.","shown":true}]}
 {"beat":6,"event":"She catches him looking, grins wide, and calls out that single men pose for free."}
 {"beat":7,"event":"He says he is not much for pictures; she says that is exactly the face that needs one."}
 {"beat":8,"event":"She takes his phone, plants him on a bale, and tells him to quit standing like a fence post."}
 {"beat":9,"event":"She steps in to fix his collar, close enough that he smells hay and sunscreen on her."}
-{"beat":10,"event":"Through the loose side of the overalls he sees her pink nipples showing through the bralette."}
+{"beat":10,"event":"Through the loose side of the overalls he sees her pink nipples showing through the bralette.","memory":[{"page":"lore/encounters-callie","fact":"Callie has a small chest: small soft tits with pink nipples that show through the bralette.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie has a small chest: small soft tits with pink nipples that show through the bralette.","shown":true}]}
 {"beat":11,"event":"She catches where his eyes went and laughs out loud instead of covering up."}
-{"beat":12,"event":"She says eyes up here, sugar, then snaps three photos while he is still flustered."}
+{"beat":12,"event":"She says eyes up here, sugar, then snaps three photos while he is still flustered.","memory":[{"page":"lore/encounters-callie","fact":"Callie caught Alan looking down her bralette, laughed, and told him eyes up here, sugar.","establishes":true},{"page":"lore/encounters-callie","fact":"Callie caught Alan looking down her bralette, laughed, and told him eyes up here, sugar.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie caught Alan looking down her bralette, laughed, and told him eyes up here, sugar.","learns":"character-other/encounters-callie"},{"page":"lore/encounters-callie","fact":"Callie caught Alan looking down her bralette, laughed, and told him eyes up here, sugar.","shown":true}]}
 {"beat":13,"event":"She hands the phone back and asks where he is from, since he sure is not from here."}
-{"beat":14,"event":"He tells her; she is Callie, it is her daddy's farm, and she is a freshman at UGA."}
-{"beat":15,"event":"She is home for the weekend because her mama roped her into the photo spot again."}
+{"beat":14,"event":"He tells her; she is Callie, it is her daddy's farm, and she is a freshman at UGA.","memory":[{"page":"lore/encounters-callie","fact":"Callie told Alan she is a freshman at UGA, and the Brooks farm is her daddy's.","establishes":true},{"page":"lore/encounters-callie","fact":"Callie told Alan she is a freshman at UGA, and the Brooks farm is her daddy's.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie told Alan she is a freshman at UGA, and the Brooks farm is her daddy's.","learns":"character-other/encounters-callie"},{"page":"lore/encounters-callie","fact":"Callie told Alan she is a freshman at UGA, and the Brooks farm is her daddy's.","shown":true}]}
+{"beat":15,"event":"She is home for the weekend because her mama roped her into the photo spot again.","memory":[{"page":"lore/encounters-callie","fact":"Callie is home for the weekend to work the harvest festival's hay bale photo spot.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie is home for the weekend to work the harvest festival's hay bale photo spot.","shown":true}]}
 {"beat":16,"event":"The line builds behind him; she says her break is at three, and the hayride leaves at three."}
 {"beat":17,"event":"She tells him he is riding it with her, not as a question, and waves the next family up."}
 {"beat":18,"event":"He wanders, eats a fried pie, and watches her work the line, laughing with every stranger."}
 {"beat":19,"event":"At three she hops off the bales and pulls him by the sleeve to the waiting hay wagon.","at":"2026-10-24T19:00:00.000Z"}
 {"beat":20,"event":"They sit on the wagon's tail, legs hanging off the back, her thigh pressed against his."}
 {"beat":21,"event":"The tractor lurches; she grabs his knee to keep her seat and does not let go after."}
-{"beat":22,"event":"They loop past the pond; she points out where she learned to swim and where she broke her arm."}
+{"beat":22,"event":"They loop past the pond; she points out where she learned to swim and where she broke her arm.","memory":[{"page":"place/encounters-brooks-farm","fact":"A tractor pulls a flat hay wagon on a slow loop past the pond and the back pasture.","shown":true},{"page":"lore/encounters-callie","fact":"Callie's two big brothers threw her off the farm pond's dock to teach her to swim, at five.","establishes":true},{"page":"lore/encounters-callie","fact":"Callie's two big brothers threw her off the farm pond's dock to teach her to swim, at five.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie's two big brothers threw her off the farm pond's dock to teach her to swim, at five.","learns":"character-other/encounters-callie"},{"page":"lore/encounters-callie","fact":"Callie's two big brothers threw her off the farm pond's dock to teach her to swim, at five.","shown":true}]}
 {"beat":23,"event":"She asks what a grown man is doing alone at a pumpkin festival; he says wandering."}
 {"beat":24,"event":"She says wandering is the best reason there is, and the boys at college never wander anywhere."}
-{"beat":25,"event":"She has had one boyfriend, back in high school, and says the college boys bore her stiff."}
+{"beat":25,"event":"She has had one boyfriend, back in high school, and says the college boys bore her stiff.","memory":[{"page":"lore/encounters-callie","fact":"Callie has had one boyfriend, from high school, and finds the boys at college boring.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie has had one boyfriend, from high school, and finds the boys at college boring.","shown":true}]}
 {"beat":26,"event":"Past the back pasture she points to the old red barn and calls it her favorite place on earth."}
 {"beat":27,"event":"He asks why; she grins and says maybe she will show him, if he is good."}
 {"beat":28,"event":"Her hand slides higher up his thigh as the wagon jolts over a rut, and she watches his face."}
@@ -36,7 +36,7 @@
 {"beat":36,"event":"At a fork she tugs him left while her friends go right, and says nothing at all."}
 {"beat":37,"event":"Their voices fade into the corn; Callie laughs under her breath and pulls him into a run."}
 {"beat":38,"event":"Three turns on they stop in a dead end, breathing hard, closed in by rustling stalks."}
-{"beat":39,"event":"She says lost them, proud of herself, and that she has planned it since the hayride."}
+{"beat":39,"event":"She says lost them, proud of herself, and that she has planned it since the hayride.","memory":[{"page":"lore/encounters-callie","fact":"Callie's high school friends came to the festival, and she means to lose them in the corn maze.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie's high school friends came to the festival, and she means to lose them in the corn maze.","shown":true}]}
 {"beat":40,"event":"She backs against the stalks and asks if he means to kiss her or just stand there."}
 {"beat":41,"event":"He kisses her; she grabs his shirt and kisses back hard, tasting of cider."}
 {"beat":42,"event":"His hand finds the bare skin at her side where the loose strap leaves the overalls open."}
@@ -52,18 +52,18 @@
 {"beat":52,"event":"The farmhouse lights glow far off across the yard; crickets, cool air, the smell of cut hay."}
 {"beat":53,"event":"Callie crosses the yard in the dark, a battery lantern swinging from her hand.","at":"2026-10-24T23:30:00.000Z","arrive":["character-other/encounters-callie"]}
 {"beat":54,"event":"She is still in the overalls, a flannel over them now, and she is grinning."}
-{"beat":55,"event":"She says her mama thinks she is walking the dogs, and nobody up at the house hears a thing."}
+{"beat":55,"event":"She says her mama thinks she is walking the dogs, and nobody up at the house hears a thing.","memory":[{"page":"place/encounters-brooks-farm","fact":"The farmhouse is far enough from the barn that nobody inside hears anything from the loft.","learns":"character-player/encounters-alan"},{"page":"place/encounters-brooks-farm","fact":"The farmhouse is far enough from the barn that nobody inside hears anything from the loft.","shown":true}]}
 {"beat":56,"event":"She hauls the barn door open; inside smells of hay, dust, old wood and horses."}
-{"beat":57,"event":"She points up at the square hole in the loft floor and the wooden ladder climbing to it."}
+{"beat":57,"event":"She points up at the square hole in the loft floor and the wooden ladder climbing to it.","memory":[{"page":"place/encounters-brooks-farm","fact":"A wooden ladder climbs from the barn floor through a square hole into the hay loft.","learns":"character-player/encounters-alan"},{"page":"place/encounters-brooks-farm","fact":"A wooden ladder climbs from the barn floor through a square hole into the hay loft.","shown":true}]}
 {"beat":58,"event":"She always wanted a man up there, she says, and he goes first so she can watch his ass."}
 {"beat":59,"event":"He climbs; she follows with the lantern hooked on a finger, laughing at her own line."}
 {"beat":60,"event":"In the loft she hangs the lantern from a nail on a beam, and gold light spills over the hay."}
-{"beat":61,"event":"Square bales stacked to the rafters, deep loose hay underfoot, the hay door open on the night."}
-{"beat":62,"event":"She unrolls an old quilt over the loose hay and says she read up here every summer as a girl."}
+{"beat":61,"event":"Square bales stacked to the rafters, deep loose hay underfoot, the hay door open on the night.","memory":[{"page":"place/encounters-brooks-farm","fact":"The loft's hay door opens high over the dark back pasture, and the night air comes in cool.","learns":"character-player/encounters-alan"},{"page":"place/encounters-brooks-farm","fact":"The loft's hay door opens high over the dark back pasture, and the night air comes in cool.","shown":true}]}
+{"beat":62,"event":"She unrolls an old quilt over the loose hay and says she read up here every summer as a girl.","memory":[{"page":"place/encounters-brooks-farm","fact":"Callie keeps an old quilt rolled up in the loft, from the summers she read up there.","learns":"character-player/encounters-alan"},{"page":"place/encounters-brooks-farm","fact":"Callie keeps an old quilt rolled up in the loft, from the summers she read up there.","shown":true}]}
 {"beat":63,"event":"She asks if he has ever done it in a hayloft; he says no, and she says good, her neither."}
-{"beat":64,"event":"She tells him plainly she wants one night with a man from out of town, with nobody she knows."}
+{"beat":64,"event":"She tells him plainly she wants one night with a man from out of town, with nobody she knows.","memory":[{"page":"lore/encounters-callie","fact":"Callie wants one night with a grown man from out of town, with nobody she knows to find out.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie wants one night with a grown man from out of town, with nobody she knows to find out.","shown":true}]}
 {"beat":65,"event":"She says she is on the pill, and she wants him bare."}
-{"beat":66,"event":"She says she wants him to fuck her hard up here, that she has wanted it since she was old enough."}
+{"beat":66,"event":"She says she wants him to fuck her hard up here, that she has wanted it since she was old enough.","memory":[{"page":"lore/encounters-callie","fact":"Callie has always wanted to be fucked hard in the hay loft of her family's barn.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie has always wanted to be fucked hard in the hay loft of her family's barn.","shown":true}]}
 {"beat":67,"event":"He pulls her in by the overall bib and kisses her, slow this time, his hands in her hair."}
 {"beat":68,"event":"She shrugs off the flannel; he unhooks the other strap, and the overalls drop to her waist."}
 {"beat":69,"event":"He peels the bralette over her head; her small tits are bare and pink-tipped in the lantern light."}
@@ -79,7 +79,7 @@
 {"beat":79,"event":"He circles her clit with his tongue; she tells him exactly where: a little left, faster."}
 {"beat":80,"event":"He slides two fingers into her cunt, tight and hot and soaking, and curls them as he sucks."}
 {"beat":81,"event":"She grabs a fistful of hay with one hand and his hair with the other, rocking onto his mouth."}
-{"beat":82,"event":"She tells him not to stop, swears, laughs, swears again, louder each time."}
+{"beat":82,"event":"She tells him not to stop, swears, laughs, swears again, louder each time.","memory":[{"page":"lore/encounters-callie","fact":"Callie is loud in bed: she moans, swears, laughs, and says exactly what she wants done.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie is loud in bed: she moans, swears, laughs, and says exactly what she wants done.","shown":true}]}
 {"beat":83,"event":"She comes loud on his tongue, her cunt clenching on his fingers, wet running onto the quilt."}
 {"beat":84,"event":"She pulls him up by the shirt, kisses her own taste off his mouth, and starts on his buttons."}
 {"beat":85,"event":"She strips his shirt and drags his jeans and boxers down; his cock springs up hard."}
@@ -94,8 +94,8 @@
 {"beat":94,"event":"She is tight; she gasps, swears, and takes all of him, sitting full on his cock."}
 {"beat":95,"event":"She rides him slow and teasing, rolling her hips, her small tits bouncing in the gold light."}
 {"beat":96,"event":"When his breath catches she stops dead, clenches on him, and laughs at his face."}
-{"beat":97,"event":"She starts again, slower, and stops again the moment he gets close."}
-{"beat":98,"event":"He grabs her hips; she pins his wrists to the quilt and tells him she is driving."}
+{"beat":97,"event":"She starts again, slower, and stops again the moment he gets close.","memory":[{"page":"lore/encounters-callie","fact":"Callie loves to ride a cock slow and teasing, and to stop whenever the man gets close.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie loves to ride a cock slow and teasing, and to stop whenever the man gets close.","shown":true}]}
+{"beat":98,"event":"He grabs her hips; she pins his wrists to the quilt and tells him she is driving.","memory":[{"page":"lore/encounters-callie","fact":"In bed Callie is bold and teasing, and takes the lead as often as she gives it up.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"In bed Callie is bold and teasing, and takes the lead as often as she gives it up.","shown":true}]}
 {"beat":99,"event":"She does it a third time, grinding on him until he is begging, then holds perfectly still."}
 {"beat":100,"event":"She tells him to ask nice, sugar; he asks, and she rides him faster, but only for a little."}
 {"beat":101,"event":"He pulls a wrist free, winds a fist in her hair, and pulls her head back."}
@@ -108,21 +108,21 @@
 {"beat":108,"event":"He fucks her hard, the quilt sliding on the hay under them, the old boards creaking."}
 {"beat":109,"event":"She tells him harder, deeper, swears at him, laughs breathless when he does it."}
 {"beat":110,"event":"He turns her onto her hands and knees, facing the open hay door and the dark pasture."}
-{"beat":111,"event":"He fucks her from behind, a hand wound in her hair, her small ass slapping back against him."}
+{"beat":111,"event":"He fucks her from behind, a hand wound in her hair, her small ass slapping back against him.","memory":[{"page":"lore/encounters-callie","fact":"Callie has a small tight ass, and her cunt is trimmed to a short strip of dark-gold hair.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie has a small tight ass, and her cunt is trimmed to a short strip of dark-gold hair.","shown":true}]}
 {"beat":112,"event":"She reaches back between her legs and rubs her clit while he pounds into her."}
 {"beat":113,"event":"Her moans carry out the hay door into the night, and she does not care who hears."}
-{"beat":114,"event":"She comes a third time, loud and very wet, gushing down his thighs and onto the quilt."}
+{"beat":114,"event":"She comes a third time, loud and very wet, gushing down his thighs and onto the quilt.","memory":[{"page":"lore/encounters-callie","fact":"Callie loves her tits sucked and her hair pulled, and comes loud and very wet.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie loves her tits sucked and her hair pulled, and comes loud and very wet.","shown":true}]}
 {"beat":115,"event":"Her cunt clamping around him pulls him over the edge."}
-{"beat":116,"event":"She tells him to come in her; he buries his cock deep and comes hard inside her."}
+{"beat":116,"event":"She tells him to come in her; he buries his cock deep and comes hard inside her.","memory":[{"page":"lore/encounters-callie","fact":"Chapter 12: Callie met Alan at her family's harvest festival and had him in the barn's hay loft.","establishes":true},{"page":"lore/encounters-callie","fact":"Chapter 12: Callie met Alan at her family's harvest festival and had him in the barn's hay loft.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Chapter 12: Callie met Alan at her family's harvest festival and had him in the barn's hay loft.","learns":"character-other/encounters-callie"},{"page":"lore/encounters-callie","fact":"Chapter 12: Callie met Alan at her family's harvest festival and had him in the barn's hay loft.","shown":true}]}
 {"beat":117,"event":"They collapse into the hay, sweating in the cool air, his come leaking out of her."}
 {"beat":118,"event":"She laughs at the rafters, breathless, picking hay out of her hair and off his chest."}
 {"beat":119,"event":"She says it beat every time she ever pictured it up here."}
 {"beat":120,"event":"They lie on the quilt by the open hay door under the stars, the lantern turned low.","at":"2026-10-25T01:00:00.000Z"}
 {"beat":121,"event":"She curls into his side, her thin gold necklace cool against his chest, tracing his ribs."}
 {"beat":122,"event":"She asks about his life far away; he tells her, and she asks question after question."}
-{"beat":123,"event":"She tells him about the dorm, the horses, maybe animal science, and her two big brothers."}
-{"beat":124,"event":"She says nobody will ever know about tonight but the two of them and the barn."}
+{"beat":123,"event":"She tells him about the dorm, the horses, maybe animal science, and her two big brothers.","memory":[{"page":"lore/encounters-callie","fact":"Callie lives in a UGA dorm, has no major yet, and leans toward animal science.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie lives in a UGA dorm, has no major yet, and leans toward animal science.","shown":true}]}
+{"beat":124,"event":"She says nobody will ever know about tonight but the two of them and the barn.","memory":[{"page":"lore/encounters-callie","fact":"Callie told Alan nobody will know of their night but the two of them and the barn.","establishes":true},{"page":"lore/encounters-callie","fact":"Callie told Alan nobody will know of their night but the two of them and the barn.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie told Alan nobody will know of their night but the two of them and the barn.","learns":"character-other/encounters-callie"},{"page":"lore/encounters-callie","fact":"Callie told Alan nobody will know of their night but the two of them and the barn.","shown":true}]}
 {"beat":125,"event":"Cold air drifts in off the pasture; she pulls the quilt's edge over them both."}
 {"beat":126,"event":"She says he had better not drive off without a photo, and takes his phone again."}
-{"beat":127,"event":"She snaps one of them in the hay, flushed and tangled, and grins at it."}
+{"beat":127,"event":"She snaps one of them in the hay, flushed and tangled, and grins at it.","memory":[{"page":"lore/encounters-callie","fact":"Callie took a photo of herself and Alan in the hay on his phone, before she fell asleep.","establishes":true},{"page":"lore/encounters-callie","fact":"Callie took a photo of herself and Alan in the hay on his phone, before she fell asleep.","learns":"character-player/encounters-alan"},{"page":"lore/encounters-callie","fact":"Callie took a photo of herself and Alan in the hay on his phone, before she fell asleep.","learns":"character-other/encounters-callie"},{"page":"lore/encounters-callie","fact":"Callie took a photo of herself and Alan in the hay on his phone, before she fell asleep.","shown":true}]}
 {"beat":128,"event":"She falls quiet against him, breathing slow, the lantern humming on its beam."}
