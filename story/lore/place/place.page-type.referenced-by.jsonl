@@ -67,6 +67,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/emberdeep/places/emberdeep-second-level.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/emberdeep/places/emberdeep-town.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/emberdeep/places/emberdeep-warm-pools.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/encounters/places/encounters-brooks-farm.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/encounters/places/encounters-cabana-bay-room-2.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/encounters/places/encounters-cabana-bay-room.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/encounters/places/encounters-citywalk-vivo.place.ts","typed":true,"deferred":false}
