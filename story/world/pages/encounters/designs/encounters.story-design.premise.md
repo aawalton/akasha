@@ -33,3 +33,5 @@ Chapter 9, Kenzie and Priya: years of bickering turn into a contest over who get
 Chapter 10, Sofia and Hana: Hana confesses she loves Sofia, and with me there, Sofia says yes. The arc's emotional peak.
 
 Chapter 11, all four: the last night, in the two adjoining rooms with the door between them open.
+
+Chapter 12, Callie: a standalone, outside the Orlando arc. A weekend in October, I wander into a harvest festival on a farm outside Athens, Georgia. Callie Brooks is 18, a UGA freshman who grew up on that farm and is back for the weekend working the hay bale photo spot, honey-blonde and freckled, in denim overalls with one strap undone over a little white bralette. She talks me into a photo, then a hayride, then the corn maze, where she loses her friends on purpose. After the festival closes she takes me up into the barn loft by lantern light, bold and teasing and loud, and we fuck in the hay.
