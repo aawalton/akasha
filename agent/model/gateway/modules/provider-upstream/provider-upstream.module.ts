@@ -44,6 +44,14 @@ export const providerUpstream = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The provider a seat chose is answered the same way the fallback is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat whose choice is not handed in has chosen no provider.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A body is rewritten to ask for that model rather than the model the caller named.",
     },
@@ -89,5 +97,5 @@ export const providerUpstream = {
     },
   ],
   createdAt: "2026-09-15T13:33:42.816Z",
-  updatedAt: "2026-10-12T12:30:00.745Z",
+  updatedAt: "2026-10-12T12:36:17.969Z",
 } as const satisfies Module

@@ -1,46 +1,24 @@
-import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
+import { expect, test } from "bun:test"
 import { runAccountWalk } from "akasha/agent/model/gateway/modules/account-walk/account-walk.module.code.ts"
 import {
   bodyOf,
   buildHarness,
+  CHOSEN_CASES,
   capacityLimited,
   credentialFor,
   DENIED_CASES,
   deepseekFallback,
   forcedToolChoiceRefused,
+  heardConsole,
   modelMissing,
+  ok,
   overloaded,
   permissionDenied,
   unauthorized,
 } from "akasha/agent/model/gateway/modules/account-walk/account-walk.module.test-fixtures.ts"
 import { toWireId } from "akasha/agent/model/modules/vocab/model-vocab.module.code.ts"
 
-const SAID: { output: string[]; error: string[]; warn: string[] } = {
-  output: [],
-  error: [],
-  warn: [],
-}
-
-beforeEach(() => {
-  SAID.output = []
-  SAID.error = []
-  SAID.warn = []
-  spyOn(console, "log").mockImplementation((...parts: unknown[]) => {
-    SAID.output.push(parts.map(String).join(" "))
-  })
-  spyOn(console, "error").mockImplementation((...parts: unknown[]) => {
-    SAID.error.push(parts.map(String).join(" "))
-  })
-  spyOn(console, "warn").mockImplementation((...parts: unknown[]) => {
-    SAID.warn.push(parts.map(String).join(" "))
-  })
-})
-
-afterEach(() => {
-  mock.restore()
-})
-
-const ok = (): Response => new Response("ok", { status: 200 })
+const SAID = heardConsole()
 
 test("a pool with no account is answered empty rather than forwarded", async () => {
   const harness = buildHarness({ answers: [ok], accounts: [] })
@@ -363,6 +341,23 @@ test("a repoll that rejects is written about rather than left unhandled", async 
   await Promise.resolve()
   expect(SAID.error.join("\n")).toContain("repoll-after-limit account=alpha failed")
 })
+
+for (const chosen of CHOSEN_CASES) {
+  test(chosen.name, async () => {
+    const harness = buildHarness(chosen.options)
+    const outcome = await runAccountWalk(harness.argsWith())
+    if (outcome.kind !== "served") throw new Error("the walk served nothing")
+    expect(outcome.response.status).toBe(chosen.status)
+    expect(harness.sent.map((one) => [one.account, one.key])).toEqual(
+      chosen.sent.map((pair) => [...pair])
+    )
+    expect(harness.sent.every((one) => one.token === null || one.account === "alpha")).toBe(true)
+    expect(harness.sent[0]?.body ?? "").toContain(chosen.body)
+    expect(harness.picked()).toBe(chosen.picked)
+    expect(harness.acts.atLimit).toEqual([])
+    expect([...SAID.output, ...SAID.error].join("\n")).toContain(chosen.line)
+  })
+}
 
 for (const denied of DENIED_CASES) {
   test(denied.name, async () => {

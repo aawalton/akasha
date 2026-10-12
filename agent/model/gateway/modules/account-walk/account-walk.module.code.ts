@@ -25,7 +25,9 @@ import {
 import type { QueueOutcome } from "akasha/agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"
 import {
   askedOf,
+  type ChosenRead,
   type FallbackRead,
+  type ProviderUpstream,
 } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 import { decideReasonMarkAction } from "akasha/agent/model/gateway/modules/reason-marks/reason-marks.module.code.ts"
 import { withTransportRetry } from "akasha/agent/model/gateway/modules/retry/retry.module.code.ts"
@@ -37,12 +39,21 @@ const RATE_LIMIT_STATUS = 429
 
 const SERVER_ERROR_STATUSES: ReadonlySet<number> = new Set([429, 500, 502, 503, 529])
 
+const badGateway = (): QueueOutcome => ({
+  kind: "served",
+  response: new Response(null, { status: BAD_GATEWAY, statusText: "Bad Gateway" }),
+})
+
+const saidOf = (thrown: unknown): string =>
+  thrown instanceof Error ? thrown.message : String(thrown)
+
 export type AccountWalkSeams = {
   readonly logPrefix: string
   readonly pickAccount: PickAccount
   readonly getFreshToken: (account: string) => Promise<OAuthCredential | null>
   readonly forward: Forward
   readonly fallback: FallbackRead
+  readonly chosen: ChosenRead
   readonly markAtLimit: (args: {
     account: string
     retryAfterHeader: string | null
@@ -76,23 +87,40 @@ export async function runAccountWalk(args: AccountWalkArgs): Promise<QueueOutcom
   let currentReq = req
   let fableMode = isFableRequest(bodyBuffer)
 
+  const servedBy = async (held: ProviderUpstream, why: string): Promise<Response> => {
+    const asked = askedOf(bodyBuffer, held.model)
+    const res = await withTransportRetry(
+      () => forward(currentReq, null, asked, held.account, observerSlot, held.upstream),
+      logPrefix,
+      `${held.account} ${pathname}`
+    )
+    console.log(
+      `${logPrefix} res ${method} ${pathname} account=${held.account} status=${res.status} ${why}`
+    )
+    return res
+  }
+
   const servedByFallback = async (why: string): Promise<Response | null> => {
     const held = seams.fallback()
     if (held === null) return null
-    const asked = askedOf(bodyBuffer, held.model)
     try {
-      const res = await withTransportRetry(
-        () => forward(currentReq, null, asked, held.account, observerSlot, held.upstream),
-        logPrefix,
-        `${held.account} ${pathname}`
-      )
-      console.log(
-        `${logPrefix} res ${method} ${pathname} account=${held.account} status=${res.status} fallback=${why}`
-      )
-      return res
+      return await servedBy(held, `fallback=${why}`)
     } catch (thrown) {
       console.error(`${logPrefix} fallback ${held.account} ${pathname} threw`, thrown)
       return null
+    }
+  }
+
+  const chosen = seams.chosen()
+  if (chosen !== null) {
+    const why = `provider=${chosen.provider}`
+    try {
+      return { kind: "served", response: await servedBy(chosen, why) }
+    } catch (thrown) {
+      console.error(
+        `${logPrefix} res ${method} ${pathname} account=${chosen.account} status=502 ${why} transport-error=${saidOf(thrown)}`
+      )
+      return badGateway()
     }
   }
 
@@ -136,14 +164,10 @@ export async function runAccountWalk(args: AccountWalkArgs): Promise<QueueOutcom
         `${currentAccount} ${pathname}`
       )
     } catch (thrown) {
-      const said = thrown instanceof Error ? thrown.message : String(thrown)
       console.error(
-        `${logPrefix} res ${method} ${pathname} account=${trail.join("→")} status=502 transport-error=${said}`
+        `${logPrefix} res ${method} ${pathname} account=${trail.join("→")} status=502 transport-error=${saidOf(thrown)}`
       )
-      return {
-        kind: "served",
-        response: new Response(null, { status: BAD_GATEWAY, statusText: "Bad Gateway" }),
-      }
+      return badGateway()
     }
 
     if (SERVER_ERROR_STATUSES.has(res.status)) {

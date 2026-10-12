@@ -50,8 +50,10 @@ import {
 } from "akasha/agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"
 import {
   anthropicBaseIn,
+  type ChosenRead,
   type FallbackRead,
   fallbackReadIn,
+  noneChosen,
 } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 import { rateLimitResponse } from "akasha/agent/model/gateway/modules/rate-limit-refusal/rate-limit-refusal.module.code.ts"
 import {
@@ -110,6 +112,7 @@ export type ServingParts = {
   readonly oauth: OAuthEffects
   readonly forward: Forward
   readonly fallback: FallbackRead
+  readonly chosen: ChosenRead
   readonly holds: HoldRegistry
   readonly pickAccount: PickAccount
   readonly getFreshToken: FreshCredential
@@ -202,6 +205,7 @@ function walkSeamsOf(parts: ServingParts): AccountWalkSeams {
     getFreshToken,
     forward: parts.forward,
     fallback: parts.fallback,
+    chosen: parts.chosen,
     markAtLimit: async (given): Promise<undefined> => {
       await oauth.markAccountAtLimit(given)
     },
@@ -298,6 +302,7 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
       oauth,
       forward,
       fallback,
+      chosen: opts.chosen ?? noneChosen,
       holds,
       pickAccount,
       getFreshToken,

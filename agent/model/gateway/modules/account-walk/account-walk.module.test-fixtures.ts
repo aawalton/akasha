@@ -1,3 +1,4 @@
+import { afterEach, beforeEach, mock, spyOn } from "bun:test"
 import type { OAuthCredential } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import type {
   AccountWalkArgs,
@@ -5,7 +6,11 @@ import type {
 } from "akasha/agent/model/gateway/modules/account-walk/account-walk.module.code.ts"
 import type { Forward } from "akasha/agent/model/gateway/modules/forward/forward.module.code.ts"
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
-import type { FallbackRead } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
+import {
+  type ChosenRead,
+  type FallbackRead,
+  noneChosen,
+} from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 
 type Said = {
   readonly output: string[]
@@ -27,6 +32,27 @@ type Sent = {
   readonly body: string | null
   readonly base: string | null
   readonly key: string | null
+}
+
+export function heardConsole(): Said {
+  const heard: Said = { output: [], error: [], warn: [] }
+  const into =
+    (lines: string[]) =>
+    (...parts: unknown[]): undefined => {
+      lines.push(parts.map(String).join(" "))
+    }
+  beforeEach(() => {
+    heard.output.length = 0
+    heard.error.length = 0
+    heard.warn.length = 0
+    spyOn(console, "log").mockImplementation(into(heard.output))
+    spyOn(console, "error").mockImplementation(into(heard.error))
+    spyOn(console, "warn").mockImplementation(into(heard.warn))
+  })
+  afterEach(() => {
+    mock.restore()
+  })
+  return heard
 }
 
 export function credentialFor(account: string): OAuthCredential {
@@ -102,6 +128,7 @@ type WalkHarness = {
   readonly sent: Sent[]
   readonly seams: AccountWalkSeams
   readonly argsWith: (overrides?: Partial<AccountWalkArgs>) => AccountWalkArgs
+  readonly picked: () => number
 }
 
 type HarnessOptions = {
@@ -110,6 +137,7 @@ type HarnessOptions = {
   readonly freshTokens?: (account: string) => Promise<OAuthCredential | null>
   readonly originalBody?: ArrayBuffer | null
   readonly fallback?: FallbackRead
+  readonly chosen?: ChosenRead
   readonly seams?: Partial<AccountWalkSeams>
 }
 
@@ -185,12 +213,72 @@ export const DENIED_CASES: readonly DeniedCase[] = [
   },
 ]
 
+type ChosenCase = {
+  readonly name: string
+  readonly options: HarnessOptions
+  readonly status: number
+  readonly sent: readonly (readonly [string | null, string | null])[]
+  readonly picked: number
+  readonly line: string
+  readonly body: string
+}
+
+export const ok = (): Response => new Response("ok", { status: 200 })
+
+const deepseekWentAway: Forward = async () => {
+  throw new Error("deepseek went away")
+}
+
+export const CHOSEN_CASES: readonly ChosenCase[] = [
+  {
+    name: "a provider the seat chose serves the request without any account being picked",
+    options: {
+      answers: [ok],
+      originalBody: bodyOf({ model: "claude-opus-5[1m]", max_tokens: 8 }),
+      chosen: deepseekFallback,
+    },
+    status: 200,
+    sent: [["deepseek", "fake-deepseek-key"]],
+    picked: 0,
+    line: "res POST /v1/messages account=deepseek status=200 provider=deepseek",
+    body: '"model":"deepseek-flash"',
+  },
+  {
+    name: "a refusal from the chosen provider is served and marks no account",
+    options: { answers: [capacityLimited], chosen: deepseekFallback },
+    status: 429,
+    sent: [["deepseek", "fake-deepseek-key"]],
+    picked: 0,
+    line: "account=deepseek status=429 provider=deepseek",
+    body: "",
+  },
+  {
+    name: "a chosen provider whose forward throws is answered 502",
+    options: { answers: [ok], chosen: deepseekFallback, seams: { forward: deepseekWentAway } },
+    status: 502,
+    sent: [],
+    picked: 0,
+    line: "account=deepseek status=502 provider=deepseek transport-error=deepseek went away",
+    body: "",
+  },
+  {
+    name: "a choice answering no provider reaches the pool as before",
+    options: { answers: [ok], chosen: () => null },
+    status: 200,
+    sent: [["alpha", null]],
+    picked: 1,
+    line: "res POST /v1/messages account=alpha status=200",
+    body: "",
+  },
+]
+
 export function buildHarness(options: HarnessOptions): WalkHarness {
   const said: Said = { output: [], error: [], warn: [] }
   const acts: Acts = { atLimit: [], disabled: [], cleared: [], repolled: [] }
   const sent: Sent[] = []
   const accounts = [...(options.accounts ?? ["alpha", "beta"])]
   let answered = 0
+  let picks = 0
 
   const forward: Forward = async (
     incoming,
@@ -217,6 +305,7 @@ export function buildHarness(options: HarnessOptions): WalkHarness {
   const seams: AccountWalkSeams = {
     logPrefix: "[gateway]",
     pickAccount: async (exclude) => {
+      picks += 1
       const kept =
         exclude === undefined
           ? accounts
@@ -229,6 +318,7 @@ export function buildHarness(options: HarnessOptions): WalkHarness {
     getFreshToken: options.freshTokens ?? (async (account) => credentialFor(account)),
     forward,
     fallback: options.fallback ?? noFallback,
+    chosen: options.chosen ?? noneChosen,
     markAtLimit: async ({ account }): Promise<undefined> => {
       acts.atLimit.push(account)
     },
@@ -257,5 +347,5 @@ export function buildHarness(options: HarnessOptions): WalkHarness {
     }
   }
 
-  return { said, acts, sent, seams, argsWith }
+  return { said, acts, sent, seams, argsWith, picked: () => picks }
 }

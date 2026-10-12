@@ -20,6 +20,26 @@ export const accountWalk = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A provider the seat chose is sent the request before any account is chosen.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request sent to the chosen provider marks no account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An answer from the chosen provider is served and names that provider.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A forward to the chosen provider that throws is answered 502.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A choice answering no provider leaves the request to the pool.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A pool with no account left is sent to the fallback provider before anything else.",
     },
@@ -41,11 +61,13 @@ export const accountWalk = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A fallback attempt carries no bearer and no account of the pool.",
+      statement:
+        "An attempt at a provider outside the pool carries no bearer and no account of the pool.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A fallback attempt asks for the model the fallback provider states.",
+      statement:
+        "An attempt at a provider outside the pool asks for the model that provider states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -331,6 +353,10 @@ export const accountWalk = {
     },
     {
       decisionKind: "decision-kind/constraint",
+      statement: "A caller hands in the read answering the provider the seat chose.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
       statement: "A caller hands in each act that changes an account's allowance.",
     },
     {
@@ -384,5 +410,5 @@ export const accountWalk = {
     },
   ],
   createdAt: "2026-09-02T22:27:14.888Z",
-  updatedAt: "2026-09-25T20:39:39.000Z",
+  updatedAt: "2026-10-12T12:36:17.969Z",
 } as const satisfies Module

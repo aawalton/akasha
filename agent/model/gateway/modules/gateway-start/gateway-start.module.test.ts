@@ -71,6 +71,8 @@ test("every option beside the port and the root is optional", () => {
     "downstreamKeepaliveMs",
     "unixSocketPath",
     "oauth",
+    "fallback",
+    "chosen",
     "transportLog",
   ]
   for (const key of keys) expect(Object.hasOwn(BARE, key)).toBe(false)

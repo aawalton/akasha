@@ -336,6 +336,12 @@ test("the pipeline is built once with the forward and the hold registry", () => 
   expect(typeof rig.parts[0]?.holds.snapshot).toBe("function")
 })
 
+test("the read answering the seat's chosen provider reaches the pipeline, and none by default", () => {
+  const chosen = () => null
+  expect(startedProxy({}, { chosen }).parts[0]?.chosen).toBe(chosen)
+  expect(startedProxy().parts[0]?.chosen()).toBeNull()
+})
+
 test("the transport log handed in reaches the pipeline and the forward", async () => {
   expect(await transportLogReached()).toEqual({ pipeline: true, rows: 1 })
 })

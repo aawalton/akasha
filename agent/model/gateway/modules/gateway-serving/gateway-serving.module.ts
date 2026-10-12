@@ -248,6 +248,14 @@ export const gatewayServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The read answering the provider the seat chose reaches every attempt.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gateway handed no such read is one whose seat chose no provider.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A queue that commits answers with `committed-keepalive`.",
     },
     {
@@ -341,5 +349,5 @@ export const gatewayServing = {
     },
   ],
   createdAt: "2026-09-02T21:58:18.739Z",
-  updatedAt: "2026-09-25T17:54:54.000Z",
+  updatedAt: "2026-10-12T12:36:17.969Z",
 } as const satisfies Module

@@ -18,7 +18,7 @@ import { deepseek } from "akasha/agent/model/provider/pages/deepseek/deepseek.mo
 
 const FALLBACK = `${modelProvider.slug}/${deepseek.slug}` as const
 
-type ProviderUpstream = {
+export type ProviderUpstream = {
   readonly provider: string
   readonly account: string
   readonly upstream: Upstream
@@ -31,6 +31,10 @@ export function askedOf(bodyBuffer: ArrayBuffer | null, model: string | null): A
 }
 
 export type FallbackRead = () => ProviderUpstream | null
+
+export type ChosenRead = () => ProviderUpstream | null
+
+export const noneChosen: ChosenRead = () => null
 
 type ProviderRead = (provider: string) => ProviderUpstream | null
 

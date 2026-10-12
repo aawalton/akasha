@@ -54,6 +54,10 @@ export const gatewayStart = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The read answering the provider the seat chose may be handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The idle span and the keepalive span are named in milliseconds.",
     },
     {
@@ -83,5 +87,5 @@ export const gatewayStart = {
     },
   ],
   createdAt: "2026-09-02T19:54:29.347Z",
-  updatedAt: "2026-09-25T14:35:31.000Z",
+  updatedAt: "2026-10-12T12:36:17.969Z",
 } as const satisfies Module
