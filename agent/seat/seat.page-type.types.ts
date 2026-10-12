@@ -1,4 +1,5 @@
 import type { Agent } from "akasha/agent/agent.page-type.types.ts"
+import type { Provider } from "akasha/agent/model/account/properties/provider.relation-property.types.ts"
 import type { BridgeSessionId } from "akasha/agent/seat/properties/bridge-session-id.text-property.types.ts"
 import type { ClaudeCodeSessionUuid } from "akasha/agent/seat/properties/claude-code-session-uuid.text-property.types.ts"
 import type { ContextTokens } from "akasha/agent/seat/properties/context-tokens.number-property.types.ts"
@@ -55,4 +56,5 @@ export type Seat = Agent & {
   needsAttention?: NeedsAttention
   bridgeSessionId?: BridgeSessionId
   seatSection?: SeatSection
+  provider?: Provider
 }

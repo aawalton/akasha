@@ -215,6 +215,7 @@ export const seat = {
       uncommitted: true,
     },
     { pageProperty: "computed-property/seat-section", required: false, many: false },
+    { pageProperty: "relation-property/provider", required: false, many: false },
   ],
   titleColoredBy: "computed-property/working-color",
   loadedBy: "module/agent-stated",
@@ -396,5 +397,5 @@ export const seat = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T01:07:35.561Z",
-  updatedAt: "2026-10-08T11:11:39.000Z",
+  updatedAt: "2026-10-12T12:30:29.309Z",
 } as const satisfies PageType

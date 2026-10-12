@@ -5,9 +5,16 @@ export const provider = {
   type: "page-type/relation-property",
   slug: "provider",
   propertySlug: "provider",
-  definition: "the company that runs the models a model account calls",
+  definition: "the company that runs the models a model account or a seat calls",
   targetPageType: "page-type/model-provider",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat stating no provider calls the Anthropic accounts and falls back to DeepSeek.",
+    },
+  ],
   types: "ts",
   createdAt: "2026-09-14T22:58:01.363Z",
-  updatedAt: "2026-09-25T17:56:19.000Z",
+  updatedAt: "2026-10-12T12:30:29.309Z",
 } as const satisfies RelationProperty

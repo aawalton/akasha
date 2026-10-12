@@ -121,6 +121,7 @@
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/effective-five-hour-usage.computed-property.ts","id":"01a07659-1795-7ecf-b6af-a6a32cda7a73"}
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/effective-seven-day-usage.computed-property.ts","id":"01a07659-1796-79b2-9c53-f9a3eb5ed248"}
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/five-hour-percent-used.number-property.ts","id":"01a054d8-1d39-7bc9-bb38-636d44d7d1fb"}
+{"propertySlug":"decision-kind","path":"agent/model/account/properties/provider.relation-property.ts","id":"01a0a224-4613-75c9-a6cf-5bdd8111001d"}
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/rate-limit-tier.text-property.ts","id":"01a054d8-1d39-7f41-9807-f31d695573c1"}
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/renewal-day.number-property.ts","id":"01a054d8-1d39-732e-b569-0535e7c91e43"}
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/rescued-access-token.text-property.ts","id":"01a0637b-78ba-7119-9765-d08c368d42c0"}
