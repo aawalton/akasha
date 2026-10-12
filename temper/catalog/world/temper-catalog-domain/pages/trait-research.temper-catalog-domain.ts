@@ -8,10 +8,10 @@ export const traitResearch = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.5.3303624",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-12T16:28:27.941Z",
+  capturedAt: "2026-10-12T22:39:33.354Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
-  updatedAt: "2026-10-12T16:28:34.106Z",
+  updatedAt: "2026-10-12T22:39:39.142Z",
   createdAt: "2026-09-02T01:39:30.994Z",
 } as const satisfies TemperCatalogDomain
