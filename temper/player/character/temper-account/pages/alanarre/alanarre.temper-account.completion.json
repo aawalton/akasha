@@ -30874,7 +30874,7 @@
       }
     },
     "4580": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 3
@@ -31340,7 +31340,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 2,
+            "numCompleted": 3,
             "numRequired": 10
           }
         }
@@ -31353,7 +31353,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 2,
+            "numCompleted": 3,
             "numRequired": 30
           }
         }
