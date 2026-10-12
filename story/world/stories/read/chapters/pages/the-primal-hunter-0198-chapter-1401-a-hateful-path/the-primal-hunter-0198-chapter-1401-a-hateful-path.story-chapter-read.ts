@@ -20,5 +20,6 @@ export const thePrimalHunter0198Chapter1401AHatefulPath = {
     },
   ],
   createdAt: "2026-10-12T16:06:01.516Z",
-  updatedAt: "2026-10-12T16:06:01.516Z",
+  updatedAt: "2026-10-12T22:04:18.015Z",
+  ownProgress: 2620,
 } as const satisfies StoryChapterRead

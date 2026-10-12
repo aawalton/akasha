@@ -20,5 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0204Chapter761HereAfter
     },
   ],
   createdAt: "2026-10-12T12:04:32.336Z",
-  updatedAt: "2026-10-12T12:04:32.336Z",
+  updatedAt: "2026-10-12T22:04:18.015Z",
+  ownProgress: 3025,
 } as const satisfies StoryChapterRead

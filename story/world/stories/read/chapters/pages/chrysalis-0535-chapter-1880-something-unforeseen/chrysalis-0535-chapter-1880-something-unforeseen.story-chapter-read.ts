@@ -20,5 +20,6 @@ export const chrysalis0535Chapter1880SomethingUnforeseen = {
     },
   ],
   createdAt: "2026-10-12T04:05:48.197Z",
-  updatedAt: "2026-10-12T04:05:48.197Z",
+  updatedAt: "2026-10-12T22:04:18.015Z",
+  ownProgress: 1089,
 } as const satisfies StoryChapterRead
