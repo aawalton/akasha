@@ -20,7 +20,7 @@ export const thievesGuildSkillLine = {
   lastCompletedAt: "2026-10-12T12:32:43.000Z",
   progress: "jsonl",
   progressTotal: 240,
-  progressCurrent: 206,
+  progressCurrent: 207,
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-12T12:35:48.370Z",
+  updatedAt: "2026-10-12T12:35:50.423Z",
 } as const satisfies TemperTask
