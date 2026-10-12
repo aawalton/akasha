@@ -2862,7 +2862,7 @@
     },
     "111": {
       "currentRank": 16,
-      "currentXP": 269,
+      "currentXP": 335,
       "nextRankXP": 340
     },
     "117": {
@@ -13224,11 +13224,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "seen": [
       5,
       3,
@@ -13249,7 +13249,7 @@
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-11",
-    "misplaced": 30
+    "date": "2026-10-12",
+    "misplaced": 40
   }
 }
