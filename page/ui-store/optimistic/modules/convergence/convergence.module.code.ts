@@ -70,13 +70,18 @@ function readCanonicalRow(
   return current === undefined ? undefined : asPageRow(current)
 }
 
+function carriesBack(held: unknown, predicted: unknown): boolean {
+  if (predicted === null) return held === undefined || held === null
+  return jsonEqual(held, predicted)
+}
+
 function predictedSetSatisfied(
   predictedSet: Readonly<Record<string, unknown>>,
   canonicalRow: PageRow
 ): boolean {
   const attrs = isRecord(canonicalRow.attributes) ? canonicalRow.attributes : {}
   for (const key of Object.keys(predictedSet)) {
-    if (!jsonEqual(attrs[key], predictedSet[key])) return false
+    if (!carriesBack(attrs[key], predictedSet[key])) return false
   }
   return true
 }

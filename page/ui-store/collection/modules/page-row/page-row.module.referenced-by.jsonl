@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/collection/modules/sync-controller/sync-controller.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/collection/modules/sync-controller/sync-controller.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/optimistic/modules/convergence/convergence.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/optimistic/modules/convergence/convergence.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/optimistic/modules/optimistic-mutation/optimistic-mutation.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/optimistic/modules/optimistic-mutation/optimistic-mutation.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/optimistic/modules/plan/plan.module.code.ts","typed":true,"deferred":false}

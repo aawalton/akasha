@@ -6,6 +6,13 @@ export const convergence = {
   slug: "convergence",
   definition: "waiting until a written row reads back as what was written",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value a write clears reads back as a row no longer carrying that value.",
+    },
+  ],
   createdAt: "2026-09-01T05:20:20.809Z",
-  updatedAt: "2026-09-15T18:36:37.000Z",
+  updatedAt: "2026-10-13T13:56:12.647Z",
 } as const satisfies Module
