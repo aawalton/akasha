@@ -9,7 +9,7 @@ export const antiquityLeadsLegendary = {
   esoCharacterId: "8796093022338107",
   character: "temper-account-character/erin-solstice",
   completionCard: "temper-completion-category/account-antiquity-leads-legendary",
-  dueDate: "2026-10-15",
+  dueDate: "2026-10-13",
   rruleRule: "FREQ=WEEKLY",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -18,5 +18,5 @@ export const antiquityLeadsLegendary = {
   effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-10-08T13:24:45.000Z",
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-08T13:47:53.000Z",
+  updatedAt: "2026-10-13T14:28:49.666Z",
 } as const satisfies TemperTask
