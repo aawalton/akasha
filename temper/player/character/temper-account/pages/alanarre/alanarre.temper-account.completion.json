@@ -72530,7 +72530,7 @@
       "name": "Nobility in Decay",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 18,
+      "slotsUnlocked": 19,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72643,7 +72643,7 @@
         },
         {
           "name": "Nobility in Decay Battle Axe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Nobility in Decay Maul",
@@ -88907,6 +88907,7 @@
     11669,
     11670,
     11671,
+    11672,
     11673,
     11675,
     11678,
