@@ -22,7 +22,7 @@ struct SmilingJennyWidgets: WidgetBundle {
         SafetyLevelWidget()
         SurplusWidget()
         CostWidget()
-        UpkeepStoplightsWidget()
+        ConnectionWidget()
         FreshnessWidget()
     }
 }

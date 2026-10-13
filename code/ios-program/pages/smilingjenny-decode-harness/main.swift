@@ -358,6 +358,26 @@ func safetyState(_ json: String) -> FeedState<SafetyLevelResponse> {
     return .loaded(payload)
 }
 
+let connectionBody = #"""
+{"stoplights":[{"habit":"connection","label":"Connection","unit":"points","tier":"black","reading":"0","nextTier":"red","progress":0,"figureOffScale":true}]}
+"""#
+check(
+    "the connection light the feed sends decodes with its figure",
+    safetyReading(safetyState(connectionBody))?.reading == "0",
+    String(describing: safetyReading(safetyState(connectionBody))))
+check(
+    "the connection tile is captioned with the label the feed sent",
+    safetyCaption(safetyState(connectionBody)) == "Connection",
+    String(describing: safetyCaption(safetyState(connectionBody))))
+check(
+    "the connection tile asks the connection feed",
+    ConnectionFeed.endpoint.path == "/api/connection",
+    ConnectionFeed.endpoint.path)
+check(
+    "a connection with no reading held is drawn as no signal",
+    safetyNoSignal(safetyState(unheldBody())),
+    "readingHeld none")
+
 check(
     "an upkeep circle with no reading held decodes as no signal",
     decodeUpkeep(upkeepFigureless)?.stoplights.first?.noSignal == true,

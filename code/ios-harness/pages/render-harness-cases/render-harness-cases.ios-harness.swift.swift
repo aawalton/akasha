@@ -47,39 +47,37 @@ func cases(now: Date) -> [RenderCase] {
     all.append(contentsOf: costCases(now: now))
 
     #if !HARNESS_ALANWALTON
-    let jennyUpkeep = """
-        {"stoplights":[\
-        {"habit":"safety","tier":"green","reading":"3.2","nextTier":"blue","progress":0.6,\
-        "label":"Safety","figureOffScale":true},\
-        {"habit":"surplus","tier":"yellow","reading":"-2.5","nextTier":"green","progress":0.375,\
-        "label":"Surplus","figureOffScale":true},\
-        {"habit":"capacity","tier":"blue","reading":"12.0","nextTier":null,"progress":null,\
-        "label":"Capacity","figureOffScale":true},\
-        {"habit":"sleep","tier":"red","reading":"6.4","nextTier":"yellow","progress":0.4,\
-        "label":"Sleep","figureOffScale":true}]}
+    func connection(_ tier: String, _ reading: String, _ arc: String) -> String {
         """
+        {"stoplights":[{"habit":"connection","label":"Connection","unit":"points",\
+        "tier":"\(tier)","reading":"\(reading)",\(arc)"figureOffScale":true}]}
+        """
+    }
     all.append(contentsOf: [
         RenderCase(
-            name: "upkeep-stoplights-small", widget: "UpkeepStoplightsWidget",
-            familySource: "systemSmall", body: jennyUpkeep),
+            name: "connection-small", widget: "ConnectionWidget", familySource: "systemSmall",
+            body: connection("yellow", "0.75", #""nextTier":"green","progress":0.5,"#)),
         RenderCase(
-            name: "upkeep-stoplights-small-never-read", widget: "UpkeepStoplightsWidget",
+            name: "connection-small-zero", widget: "ConnectionWidget", familySource: "systemSmall",
+            body: connection("black", "0", #""nextTier":"red","progress":0,"#)),
+        RenderCase(
+            name: "connection-small-over-the-top", widget: "ConnectionWidget",
+            familySource: "systemSmall", body: connection("blue", "2.5", "")),
+        RenderCase(
+            name: "connection-small-never-read", widget: "ConnectionWidget",
             familySource: "systemSmall", body: "", unreadable: true),
         RenderCase(
-            name: "upkeep-stoplights-small-no-signal", widget: "UpkeepStoplightsWidget",
+            name: "connection-small-no-signal", widget: "ConnectionWidget",
             familySource: "systemSmall",
             body: """
-                {"stoplights":[\
-                {"habit":"safety","tier":"green","reading":"3.2","nextTier":"blue",\
-                "progress":0.6,"label":"Safety","figureOffScale":true},\
-                {"habit":"sleep","tier":"black","reading":"","readingHeld":"none",\
-                "label":"Sleep","figureOffScale":true}]}
+                {"stoplights":[{"habit":"connection","label":"Connection","tier":"black",\
+                "reading":"","readingHeld":"none","figureOffScale":true}]}
                 """),
     ])
 
     for tile in [
         "CategorizeWidget", "SafetyLevelWidget", "SurplusWidget", "CostWidget",
-        "UpkeepStoplightsWidget",
+        "ConnectionWidget",
     ] {
         all.append(
             RenderCase(

@@ -32,6 +32,7 @@ export const iosComponent = {
     "ios-component/scale-checks",
     "ios-component/smilingjenny-categorize-view",
     "ios-component/smilingjenny-categorize-widget",
+    "ios-component/smilingjenny-connection-widget",
     "ios-component/smilingjenny-cost-widget",
     "ios-component/smilingjenny-safety-level-widget",
     "ios-component/smilingjenny-surplus-widget",
@@ -72,5 +73,5 @@ export const iosComponent = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T20:53:16.292Z",
-  updatedAt: "2026-09-25T16:35:11.000Z",
+  updatedAt: "2026-10-13T13:59:13.071Z",
 } as const satisfies PageType

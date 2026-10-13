@@ -87,6 +87,11 @@ func makeView(
         }
         return AnyView(StoplightsActivityView(state: content))
     #endif
+    #if !HARNESS_ALANWALTON
+    case "ConnectionWidget":
+        let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
+        return AnyView(ConnectionHomeView(entry: FeedEntry(date: date, state: state)))
+    #endif
     case "UpkeepStoplightsWidget":
         let state = try feedState(UpkeepStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(UpkeepHomeView(entry: FeedEntry(date: date, state: state)))

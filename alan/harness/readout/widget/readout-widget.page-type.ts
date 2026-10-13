@@ -18,6 +18,7 @@ export const readoutWidget = {
     "readout-widget/alanwalton-surplus",
     "readout-widget/alanwalton-upkeep-stoplights",
     "readout-widget/smilingjenny-categorize",
+    "readout-widget/smilingjenny-connection",
     "readout-widget/smilingjenny-cost",
     "readout-widget/smilingjenny-freshness",
     "readout-widget/smilingjenny-safety-level",
@@ -159,5 +160,5 @@ export const readoutWidget = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T21:07:57.190Z",
-  updatedAt: "2026-09-24T21:01:04.000Z",
+  updatedAt: "2026-10-13T13:59:13.071Z",
 } as const satisfies PageType

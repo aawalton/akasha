@@ -16,6 +16,7 @@ export const smilingjennyDecodeHarness = {
     "ios-component/safety-ring",
     "ios-component/scale-checks",
     "ios-component/smilingjenny-categorize-view",
+    "ios-component/smilingjenny-connection-widget",
     "ios-component/smilingjenny-cost-widget",
     "ios-component/smilingjenny-safety-level-widget",
     "ios-component/smilingjenny-surplus-widget",
@@ -34,5 +35,5 @@ export const smilingjennyDecodeHarness = {
     },
   ],
   createdAt: "2026-08-31T18:17:05.592Z",
-  updatedAt: "2026-09-24T22:24:22.000Z",
+  updatedAt: "2026-10-13T13:59:13.071Z",
 } as const satisfies IosProgram
