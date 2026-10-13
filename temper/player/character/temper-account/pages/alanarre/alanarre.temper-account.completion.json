@@ -72530,7 +72530,7 @@
       "name": "Nobility in Decay",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 17,
+      "slotsUnlocked": 18,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72595,7 +72595,7 @@
         },
         {
           "name": "Nobility in Decay Breeches",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Nobility in Decay Guards",
@@ -89013,6 +89013,7 @@
     11787,
     11788,
     11789,
+    11790,
     11791,
     11792,
     11793,
