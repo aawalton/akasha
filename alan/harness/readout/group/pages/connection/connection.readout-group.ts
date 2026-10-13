@@ -7,7 +7,7 @@ export const connection = {
   definition: "how much of Alan's day was spent at ease with Jenny",
   figureOffScale: true,
   wireKeyName: "habit",
-  servedBy: [],
+  servedBy: ["route/jenny-connection"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -15,5 +15,5 @@ export const connection = {
     },
   ],
   createdAt: "2026-10-13T13:47:26.474Z",
-  updatedAt: "2026-10-13T13:47:26.474Z",
+  updatedAt: "2026-10-13T13:49:28.044Z",
 } as const satisfies ReadoutGroup

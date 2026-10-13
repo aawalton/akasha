@@ -3811,6 +3811,7 @@
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/modules/jenny-handover-site/jenny-handover-site.module.ts","id":"01a0c1e4-5f22-7a90-b8d1-3c7e9a4b2f08"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/modules/jenny-push-registration-sync/jenny-push-registration-sync.module.ts","id":"01a06558-c2cc-700c-a9ae-9d94adb263ca"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-categorization/jenny-categorization.route.ts","id":"01a08260-8738-752f-9a25-c4cddf4cfd5e"}
+{"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-connection/jenny-connection.route.ts","id":"01a13586-7a6d-7a51-84fa-e9ec3de05aec"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-cost/jenny-cost.route.ts","id":"01a08bb2-255f-7fcd-be97-19292bc4115b"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-handover/jenny-handover.route.ts","id":"01a0c1e5-8b13-7d44-9e26-51f0a7c3d69b"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-no-such-page/jenny-no-such-page.route.ts","id":"01a0e316-e586-738d-b64c-a9a891b048f5"}
