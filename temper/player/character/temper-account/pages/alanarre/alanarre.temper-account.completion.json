@@ -72989,7 +72989,7 @@
       "name": "Wrathsun",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Templar",
-      "slotsUnlocked": 20,
+      "slotsUnlocked": 21,
       "totalSlots": 36,
       "pieces": [
         {
@@ -73062,7 +73062,7 @@
         },
         {
           "name": "Wrathsun Greaves",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Wrathsun Shoes",
@@ -88914,6 +88914,7 @@
     11679,
     11680,
     11681,
+    11682,
     11683,
     11684,
     11686,
@@ -89012,6 +89013,7 @@
     11782,
     11783,
     11784,
+    11785,
     11786,
     11787,
     11788,
