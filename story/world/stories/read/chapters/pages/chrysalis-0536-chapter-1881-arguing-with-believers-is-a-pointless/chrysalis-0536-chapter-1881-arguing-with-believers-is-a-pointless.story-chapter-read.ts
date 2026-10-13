@@ -20,5 +20,6 @@ export const chrysalis0536Chapter1881ArguingWithBelieversIsAPointless = {
     },
   ],
   createdAt: "2026-10-13T01:08:12.990Z",
-  updatedAt: "2026-10-13T01:08:12.990Z",
+  updatedAt: "2026-10-13T21:07:38.153Z",
+  ownProgress: 998,
 } as const satisfies StoryChapterRead

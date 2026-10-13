@@ -20,5 +20,6 @@ export const bunnyGirlEvolution0043231MovingFurtherFromTheSystem = {
     },
   ],
   createdAt: "2026-10-13T08:08:48.757Z",
-  updatedAt: "2026-10-13T08:08:48.757Z",
+  updatedAt: "2026-10-13T21:07:38.153Z",
+  ownProgress: 3128,
 } as const satisfies StoryChapterRead

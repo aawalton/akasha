@@ -20,5 +20,6 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0170Chapter168Break
     },
   ],
   createdAt: "2026-10-13T12:08:48.790Z",
-  updatedAt: "2026-10-13T12:08:48.790Z",
+  updatedAt: "2026-10-13T21:07:38.153Z",
+  ownProgress: 2113,
 } as const satisfies StoryChapterRead

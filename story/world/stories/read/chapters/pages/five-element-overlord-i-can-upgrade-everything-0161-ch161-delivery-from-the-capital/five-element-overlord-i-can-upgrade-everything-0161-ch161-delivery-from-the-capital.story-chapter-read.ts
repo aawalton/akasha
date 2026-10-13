@@ -20,5 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0161Ch161DeliveryFromTheCap
     },
   ],
   createdAt: "2026-10-12T23:05:06.599Z",
-  updatedAt: "2026-10-12T23:05:06.599Z",
+  updatedAt: "2026-10-13T21:07:38.153Z",
+  ownProgress: 2892,
 } as const satisfies StoryChapterRead

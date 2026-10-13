@@ -20,5 +20,6 @@ export const heWhoFightsWithMonsters0020Chapter1028ChildrenNeedBoundaries = {
     },
   ],
   createdAt: "2026-10-12T22:04:18.015Z",
-  updatedAt: "2026-10-12T22:04:18.015Z",
+  updatedAt: "2026-10-13T21:07:38.153Z",
+  ownProgress: 2279,
 } as const satisfies StoryChapterRead

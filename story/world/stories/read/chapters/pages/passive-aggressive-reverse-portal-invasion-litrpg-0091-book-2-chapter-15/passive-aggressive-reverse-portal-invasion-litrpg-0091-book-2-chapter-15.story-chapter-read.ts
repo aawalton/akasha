@@ -20,5 +20,6 @@ export const passiveAggressiveReversePortalInvasionLitrpg0091Book2Chapter15 = {
     },
   ],
   createdAt: "2026-10-13T10:08:29.732Z",
-  updatedAt: "2026-10-13T10:08:29.732Z",
+  updatedAt: "2026-10-13T21:07:38.153Z",
+  ownProgress: 2457,
 } as const satisfies StoryChapterRead
