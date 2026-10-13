@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHypUAAIBhhRMy5V1QulrUKVO1ClTtQpU7UKVO1ClTtQSk3UEpN1BKTdJhFJyxTRScsAAAHN0RazE8AAAAAAAAAAAAAgDUEgBAGEATQAIAAQAACECADJwA7AGYADmABGA0YABDJIFQjExAwgQAwCBMwHIBgQdEAADg4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDjEgaw",
+  "buildHash": "ATQHypUAAIBhhRMy5V1QulrUKVO1ClTtQpU7UKVO1ClTtQSk3UEpN1BKTdJhFJyxTRScsAAAHN0RazE8AAAAAAAAAAAAAgDUEgBAGEATQAIAAQAACECADJwA7AGYADmABGA4YABDJIFQjExAwgQAwCBMwHIBgQdEAADg4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDjEgaw",
   "gender": 1,
   "level": 50,
   "classId": 6,
@@ -2861,9 +2861,9 @@
       "nextRankXP": 211320
     },
     "111": {
-      "currentRank": 16,
+      "currentRank": 17,
       "currentXP": 335,
-      "nextRankXP": 340
+      "nextRankXP": 360
     },
     "117": {
       "currentRank": 12,
@@ -2871,7 +2871,7 @@
       "nextRankXP": 100
     },
     "118": {
-      "currentRank": 9,
+      "currentRank": 10,
       "currentXP": 45,
       "nextRankXP": 50
     },
@@ -4610,7 +4610,7 @@
   },
   "skillPoints": {
     "total": 385,
-    "unassigned": 51,
+    "unassigned": 50,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -13224,11 +13224,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "seen": [
       5,
       3,
@@ -13249,7 +13249,7 @@
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-12",
-    "misplaced": 40
+    "date": "2026-10-13",
+    "misplaced": 95
   }
 }
