@@ -4,15 +4,19 @@ export const charactersAntiquityLeadChecks = {
   id: "01a062ed-39a0-700a-b328-1ae517d89942",
   type: "page-type/module",
   slug: "characters-antiquity-lead-checks",
-  definition:
-    "the antiquity leads a character holds, and which of those are motif, legendary or unfinished",
+  definition: "the antiquity leads a character holds, and which of those are left to dig",
   code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A lead is a motif lead where the antiquity's name opens with the style's word.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A lead is left to dig where it is a motif lead, a legendary lead or a lead with lore unread.",
+    },
   ],
   createdAt: "2026-09-02T16:21:49.088Z",
-  updatedAt: "2026-09-21T17:05:12.000Z",
+  updatedAt: "2026-10-13T14:46:39.212Z",
 } as const satisfies Module

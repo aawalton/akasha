@@ -98,7 +98,7 @@ function resolveTaskProgressForCharacter(
   if (cardId === "lore-library-character") {
     return resolveLoreLibrary(overridden, task.completionItemPath)
   }
-  if (cardId === "antiquity-leads-motifs" || cardId === "antiquity-leads-legendary") {
+  if (cardId === "antiquity-leads") {
     return undefined
   }
   if (cardId === "guild-sales") {

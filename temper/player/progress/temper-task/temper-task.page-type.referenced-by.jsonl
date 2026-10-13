@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"temper-task.page-type.ts","path":"temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-task.page-type.types.ts","path":"temper/player/progress/temper-task/pages/active-quests/active-quests.temper-task.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-task.page-type.types.ts","path":"temper/player/progress/temper-task/pages/antiquity-leads-legendary/antiquity-leads-legendary.temper-task.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-task.page-type.types.ts","path":"temper/player/progress/temper-task/pages/antiquity-leads-motifs/antiquity-leads-motifs.temper-task.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-task.page-type.types.ts","path":"temper/player/progress/temper-task/pages/antiquity-lore/antiquity-lore.temper-task.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-task.page-type.types.ts","path":"temper/player/progress/temper-task/pages/cadwell-s-almanac/cadwell-s-almanac.temper-task.ts","typed":true,"deferred":false}

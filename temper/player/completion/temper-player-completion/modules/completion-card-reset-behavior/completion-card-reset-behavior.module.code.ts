@@ -4,8 +4,7 @@ type ResetBehavior = "resetting" | "cumulative"
 
 const CARD_RESET_BEHAVIOR: Record<AnyCompletionCardId, ResetBehavior> = {
   "account-achievements": "cumulative",
-  "antiquity-leads-legendary": "resetting",
-  "antiquity-leads-motifs": "resetting",
+  "antiquity-leads": "resetting",
   "antiquity-lore": "cumulative",
   "bank-upgrades": "cumulative",
   "champion-points": "cumulative",

@@ -33,11 +33,9 @@ function account(overrides: Partial<AccountCompletion> = {}): AccountCheckerInpu
 
 describe("account cards", () => {
   test("an account card with no checker is still an account card", () => {
-    expect(isAccountCard("antiquity-leads-motifs")).toBe(true)
+    expect(isAccountCard("antiquity-leads")).toBe(true)
     expect(isAccountCard("quests")).toBe(false)
-    expect(
-      resolveGenericCheckerProgress("antiquity-leads-motifs", [], {}, account())
-    ).toBeUndefined()
+    expect(resolveGenericCheckerProgress("antiquity-leads", [], {}, account())).toBeUndefined()
   })
 })
 
@@ -129,10 +127,10 @@ describe("a card counted against a catalog", () => {
     }
   })
 
-  test("the antiquity leads are the only account cards with no checker", () => {
+  test("the antiquity leads card is the only account card with no checker", () => {
     expect(
       ACCOUNT_CARDS.map((card) => card.id).filter((id) => !(id in ACCOUNT_COMPLETION_CARD_CHECKERS))
-    ).toEqual(["antiquity-leads-legendary", "antiquity-leads-motifs"])
+    ).toEqual(["antiquity-leads"])
   })
 })
 

@@ -37,5 +37,5 @@ test("the antiquity-lore card answers nothing where no catalog is handed in", ()
 })
 
 test("an antiquity lead is measured by nothing", () => {
-  expect(resolveTaskProgress("antiquity-leads-motifs", [], null, HELD)).toBeUndefined()
+  expect(resolveTaskProgress("antiquity-leads", [], null, HELD)).toBeUndefined()
 })

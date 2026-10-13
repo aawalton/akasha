@@ -47,13 +47,8 @@ describe("the cumulative account cards", () => {
     }
   })
 
-  test("both antiquity lead cards leave the list", () => {
-    expect(CUMULATIVE_ACCOUNT_CARDS.some((card) => card.id === "antiquity-leads-legendary")).toBe(
-      false
-    )
-    expect(CUMULATIVE_ACCOUNT_CARDS.some((card) => card.id === "antiquity-leads-motifs")).toBe(
-      false
-    )
+  test("the antiquity leads card leaves the list", () => {
+    expect(CUMULATIVE_ACCOUNT_CARDS.some((card) => card.id === "antiquity-leads")).toBe(false)
   })
 
   test("what the list keeps is what the registry keeps once the resetting cards go", () => {

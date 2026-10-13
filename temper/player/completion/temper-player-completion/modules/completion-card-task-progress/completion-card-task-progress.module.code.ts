@@ -48,8 +48,7 @@ const UNMEASURED_CARD_IDS: readonly string[] = [
   "hireling-mails",
   "active-quests",
   "dungeon-sets",
-  "antiquity-leads-motifs",
-  "antiquity-leads-legendary",
+  "antiquity-leads",
 ]
 
 export function isUnmeasuredCard(cardId: string | undefined): boolean {

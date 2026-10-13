@@ -66,8 +66,7 @@ export function buildAccountSummary(
       count: zoneCompletionUnion.completedCount,
       total: zoneCompletionUnion.totalCount,
     },
-    "antiquity-leads-legendary": { count: 0, total: 0 },
-    "antiquity-leads-motifs": { count: 0, total: 0 },
+    "antiquity-leads": { count: 0, total: 0 },
     "antiquity-lore": {
       count: antiquityLoreProgress.acquiredCount,
       total: antiquityLoreProgress.totalCount,

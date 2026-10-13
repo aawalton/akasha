@@ -272,21 +272,9 @@ export const ENRICHMENT_SELECTORS: readonly EnrichmentSelector[] = [
     },
   },
   {
-    key: "antiquityLore",
-    matches: (task): boolean => taskHasCard(task, "antiquity-lore"),
+    key: "antiquityLeads",
+    matches: (task): boolean => taskHasCard(task, "antiquity-leads"),
     select: (): readonly SubRowSpec[] =>
-      antiquityLeadSpecs(getAntiquityLeadEnrichment("antiquity-lore")),
-  },
-  {
-    key: "antiquityMotifs",
-    matches: (task): boolean => taskHasCard(task, "antiquity-leads-motifs"),
-    select: (): readonly SubRowSpec[] =>
-      antiquityLeadSpecs(getAntiquityLeadEnrichment("antiquity-leads-motifs")),
-  },
-  {
-    key: "antiquityLegendary",
-    matches: (task): boolean => taskHasCard(task, "antiquity-leads-legendary"),
-    select: (): readonly SubRowSpec[] =>
-      antiquityLeadSpecs(getAntiquityLeadEnrichment("antiquity-leads-legendary")),
+      antiquityLeadSpecs(getAntiquityLeadEnrichment("antiquity-leads")),
   },
 ]

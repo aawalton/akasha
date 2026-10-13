@@ -39,22 +39,16 @@ export function collectActiveAntiquityLeads(): ActiveAntiquityLead[] {
   return leads
 }
 
-function isMotifLead(lead: ActiveAntiquityLead): boolean {
-  return isMotifAntiquity(lead.name)
-}
-
 function isLegendaryLead(lead: ActiveAntiquityLead): boolean {
   return lead.quality === ANTIQUITY_QUALITY_GOLD || lead.quality === ANTIQUITY_QUALITY_ORANGE
 }
 
-function isActionableLead(lead: ActiveAntiquityLead): boolean {
-  return lead.loreRemaining > 0
+function isLeadLeftToDig(this: void, lead: ActiveAntiquityLead): boolean {
+  return lead.loreRemaining > 0 || isMotifAntiquity(lead.name) || isLegendaryLead(lead)
 }
 
 const ANTIQUITY_LEAD_OF_CARD: Record<string, (this: void, lead: ActiveAntiquityLead) => boolean> = {
-  "antiquity-lore": isActionableLead,
-  "antiquity-leads-motifs": isMotifLead,
-  "antiquity-leads-legendary": isLegendaryLead,
+  "antiquity-leads": isLeadLeftToDig,
 }
 
 export function antiquityLeadOfCard(

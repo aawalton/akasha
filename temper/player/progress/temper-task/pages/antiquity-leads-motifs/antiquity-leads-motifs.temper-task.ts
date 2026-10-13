@@ -13,10 +13,10 @@ export const antiquityLeadsMotifs = {
   priority: "p2",
   dueDate: "2026-10-13",
   displayOrder: 0,
-  completionCard: "temper-completion-category/account-antiquity-leads-motifs",
+  completionCard: "temper-completion-category/account-antiquity-leads",
   lastCompletedAt: "2026-10-08T13:24:45.000Z",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-08T13:47:52.000Z",
+  updatedAt: "2026-10-13T14:46:39.212Z",
 } as const satisfies TemperTask

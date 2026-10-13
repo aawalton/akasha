@@ -8,8 +8,7 @@ import { holdMorphRankMost } from "akasha/temper/player/skill-morph/modules/morp
 export const CARD_IDS = {
   account: [
     "account-achievements",
-    "antiquity-leads-legendary",
-    "antiquity-leads-motifs",
+    "antiquity-leads",
     "antiquity-lore",
     "bank-upgrades",
     "champion-points",
