@@ -20,5 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0270Vol5Chapter242ItIsImpos
     },
   ],
   createdAt: "2026-10-12T13:07:49.241Z",
-  updatedAt: "2026-10-12T13:07:49.241Z",
+  updatedAt: "2026-10-13T04:04:20.175Z",
+  ownProgress: 2208,
 } as const satisfies StoryChapterRead
