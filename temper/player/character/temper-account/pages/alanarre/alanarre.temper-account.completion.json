@@ -72989,7 +72989,7 @@
       "name": "Wrathsun",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Templar",
-      "slotsUnlocked": 19,
+      "slotsUnlocked": 20,
       "totalSlots": 36,
       "pieces": [
         {
@@ -73130,7 +73130,7 @@
         },
         {
           "name": "Wrathsun Lightning Staff",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Wrathsun Shield",
@@ -75646,7 +75646,7 @@
       "name": "Corpseburster",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 10,
+      "slotsUnlocked": 11,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75735,7 +75735,7 @@
         },
         {
           "name": "Corpseburster Amulet",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Corpseburster Ring",
