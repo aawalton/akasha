@@ -39,7 +39,7 @@ from voice_timing import sentences_of
 
 MAX_SESSIONS = 4
 SESSION_IDLE_SECONDS = 30 * 60
-MAX_SEGMENTS = 3000
+MAX_SEGMENTS = 10000
 MAX_SEGMENT_CHARS = 2000
 MAX_PAUSE_MS = 5000
 # A directory under PIECES_DIR not touched for this long belongs to no session.
