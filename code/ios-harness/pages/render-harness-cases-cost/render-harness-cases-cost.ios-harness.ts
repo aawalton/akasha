@@ -65,16 +65,8 @@ export const renderHarnessCasesCost = {
       statement: "The figure is worked back from that wait.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "Each wait counted down is also drawn in every timer form the tile does not hold.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Only Alan's harness draws those timer forms.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A case naming a widget the bundle does not ship is asked for by no coverage.",
+      decisionKind: "decision-kind/absence",
+      statement: "No case draws the tile in a form the tile does not hold.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -86,5 +78,5 @@ export const renderHarnessCasesCost = {
     },
   ],
   createdAt: "2026-09-10T18:10:56.087Z",
-  updatedAt: "2026-10-13T14:31:42.383Z",
+  updatedAt: "2026-10-13T14:49:09.606Z",
 } as const satisfies IosHarness

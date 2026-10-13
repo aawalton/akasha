@@ -1055,6 +1055,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/tier/tier.ios-component.ts","id":"01a05482-22df-7a91-9e4d-ba72f93c5851"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/timeline-checks/timeline-checks.ios-component.ts","id":"01a08c75-6675-73c2-b0e1-37744996eaaf"}
 {"propertySlug":"decision-kind","path":"code/ios-harness/ios-harness.page-type.ts","id":"01a0584d-22a8-7eb5-83f8-e9912fd9297c"}
+{"propertySlug":"decision-kind","path":"code/ios-harness/pages/render-harness-cases-cost/render-harness-cases-cost.ios-harness.ts","id":"01a08c83-ffd7-7522-a7f2-606479a6ddb9"}
 {"propertySlug":"decision-kind","path":"code/javascript-module/javascript-module.page-type.ts","id":"01a06954-f7db-7006-ba1c-605a60e17fab"}
 {"propertySlug":"decision-kind","path":"code/lua-runtime-library/modules/config-claiming/config-claiming.module.ts","id":"01a0d458-1065-78f1-b58b-808967038536"}
 {"propertySlug":"decision-kind","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.ts","id":"01a08dd3-479a-794b-bdd2-2b24e59840c6"}

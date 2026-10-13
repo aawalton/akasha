@@ -37,21 +37,6 @@ func feedState<Payload: Decodable>(
     return .loaded(try JSONDecoder().decode(type, from: body))
 }
 
-// THE COST TILE IS DRAWN UNDER TWO NAMES, ONE FOR EACH FORM ITS COUNTDOWN IS WRITTEN IN.
-//
-// The bundle ships `CostWidget` alone, so a case under that name is handed no form and is drawn
-// in the form the tile itself holds, which makes the picture the picture a phone draws. The
-// other asks for no coverage line and is reached only by a case naming it. Jenny's tile counts
-// nothing down, so it is drawn under its one name alone.
-#if HARNESS_ALANWALTON
-private func costCountdown(_ widget: String) -> RingCountdown? {
-    switch widget {
-    case "CostTimerNoHoursWidget": return .timerWithoutHours
-    default: return nil
-    }
-}
-#endif
-
 @MainActor
 func makeView(
     widget: String, body: Data, family: WidgetFamily, at date: Date, unreadable: Bool,
@@ -79,7 +64,7 @@ func makeView(
     // Nothing it holds comes off a feed, so it has no refused and no never-loaded picture to
     // render, and the body is read straight. Every value it carries is spelled the way the app
     // spells one when handing a reading over, so a plain reader is the reader the app uses.
-    // THE ISLAND IS DRAWN UNDER A SECOND NAME, THE WAY THE COST TILE'S FORMS ARE.
+    // THE ISLAND IS DRAWN UNDER A SECOND NAME.
     //
     // The bundle ships `StoplightsActivity` alone, so that name asks for the lock screen and the
     // island's name asks for no coverage line and is reached only by a case naming it.
@@ -92,19 +77,14 @@ func makeView(
     case "UpkeepStoplightsWidget":
         let state = try feedState(UpkeepStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(UpkeepHomeView(entry: FeedEntry(date: date, state: state)))
-    case "CostWidget", "CostTimerNoHoursWidget":
-        let state = try feedState(CostResponse.self, body: body, unreadable: unreadable, refused: refused)
-        let costEntry = FeedEntry(date: date, state: state)
-        guard let form = costCountdown(widget) else { return AnyView(CostHomeView(entry: costEntry)) }
-        return AnyView(CostHomeView(entry: costEntry, countdown: form))
     #else
     case "ConnectionWidget":
         let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(ConnectionHomeView(entry: FeedEntry(date: date, state: state)))
+    #endif
     case "CostWidget":
         let state = try feedState(CostResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(CostHomeView(entry: FeedEntry(date: date, state: state)))
-    #endif
     case "SafetyLevelWidget":
         let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(SafetyLevelHomeView(entry: FeedEntry(date: date, state: state)))
