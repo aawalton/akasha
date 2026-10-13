@@ -19,5 +19,6 @@ export const gifted0090Chapter89 = {
     },
   ],
   createdAt: "2026-10-13T19:05:05.720Z",
-  updatedAt: "2026-10-13T19:05:05.720Z",
+  updatedAt: "2026-10-13T22:07:04.199Z",
+  ownProgress: 2040,
 } as const satisfies StoryChapterRead

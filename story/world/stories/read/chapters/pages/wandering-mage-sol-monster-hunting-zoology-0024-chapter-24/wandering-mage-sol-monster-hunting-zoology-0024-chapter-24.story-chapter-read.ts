@@ -20,5 +20,6 @@ export const wanderingMageSolMonsterHuntingZoology0024Chapter24 = {
     },
   ],
   createdAt: "2026-10-13T17:08:49.079Z",
-  updatedAt: "2026-10-13T17:08:49.079Z",
+  updatedAt: "2026-10-13T22:07:04.199Z",
+  ownProgress: 2334,
 } as const satisfies StoryChapterRead

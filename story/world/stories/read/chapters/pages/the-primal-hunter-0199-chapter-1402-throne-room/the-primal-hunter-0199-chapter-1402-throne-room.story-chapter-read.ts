@@ -20,5 +20,6 @@ export const thePrimalHunter0199Chapter1402ThroneRoom = {
     },
   ],
   createdAt: "2026-10-13T16:06:59.159Z",
-  updatedAt: "2026-10-13T16:06:59.159Z",
+  updatedAt: "2026-10-13T22:07:04.199Z",
+  ownProgress: 2783,
 } as const satisfies StoryChapterRead
