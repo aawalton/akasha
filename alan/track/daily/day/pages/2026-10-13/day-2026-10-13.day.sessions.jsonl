@@ -1,2 +1,3 @@
 {"id":"01a13510-de75-72b1-95f1-3e10342a5dd9","title":"Sleep","startedAt":"2026-10-13T03:00:00.000Z","dailyTracking":"01a134b4-6d43-7000-a62f-cbbea2360a59","endedAt":"2026-10-13T11:40:00.000Z","safetyLevel":"1","difficultyLevel":"0"}
-{"id":"01a13510-ea90-704b-8ec6-f710eb04065a","title":"Hygiene","startedAt":"2026-10-13T11:40:00.000Z","dailyTracking":"01a134b4-6d43-7000-a62f-cbbea2360a59","safetyLevel":"2","difficultyLevel":"1"}
+{"id":"01a13510-ea90-704b-8ec6-f710eb04065a","title":"Hygiene","startedAt":"2026-10-13T11:40:00.000Z","dailyTracking":"01a134b4-6d43-7000-a62f-cbbea2360a59","safetyLevel":"2","difficultyLevel":"1","endedAt":"2026-10-13T12:00:00.000Z"}
+{"id":"01a13563-82a1-7d69-8993-43b8b77bae8a","title":"Hygiene","startedAt":"2026-10-13T12:00:00.000Z","dailyTracking":"01a134b4-6d43-7000-a62f-cbbea2360a59","safetyLevel":"3","difficultyLevel":"1"}
