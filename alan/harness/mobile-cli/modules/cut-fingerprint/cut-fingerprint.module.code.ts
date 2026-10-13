@@ -2,7 +2,11 @@ import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.cha
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
-import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  listedAt,
+  slugsOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   AKASHA,
@@ -102,8 +106,13 @@ function pathsUnder(root: string): readonly string[] {
   return everyOfType(root, MOBILE_CUT_PAGE_TYPE_SLUG).map((listed) => listed.path)
 }
 
+function onePathUnder(root: string): string | undefined {
+  const slug = slugsOfType(root, MOBILE_CUT_PAGE_TYPE_SLUG)[0]
+  return slug === undefined ? undefined : listedAt(root, MOBILE_CUT_PAGE_TYPE_SLUG, slug)[0]?.path
+}
+
 export function cutsFolder(): string {
-  const one = pathsUnder(akashaRoot())[0]
+  const one = onePathUnder(akashaRoot())
   if (one === undefined) {
     throw new Error(
       `no \`${MOBILE_CUT_PAGE_TYPE_SLUG}\` page is filed, so nothing says which folder the cuts ` +
@@ -113,8 +122,8 @@ export function cutsFolder(): string {
   return one.split("/").slice(0, -2).join("/")
 }
 
-export function cutPagePath(slug: string): string {
-  return `${cutsFolder()}/${slug}/${slug}${PAGE_SUFFIX}`
+export function cutPagePath(slug: string, folder: string = cutsFolder()): string {
+  return `${folder}/${slug}/${slug}${PAGE_SUFFIX}`
 }
 
 export function readCutPages(): readonly CutPage[] {

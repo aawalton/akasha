@@ -97,7 +97,8 @@ describe("readCutPages", () => {
   })
 
   test("a page is where its slug says it is", () => {
-    for (const page of readCutPages()) expect(page.path).toBe(cutPagePath(page.slug))
+    const folder = cutsFolder()
+    for (const page of readCutPages()) expect(page.path).toBe(cutPagePath(page.slug, folder))
   })
 })
 

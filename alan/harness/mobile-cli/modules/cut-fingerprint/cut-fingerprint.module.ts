@@ -23,6 +23,10 @@ export const cutFingerprint = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That folder is read off one filed cut rather than off every one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "No cut filed at all raises rather than answering a folder.",
     },
     {
@@ -100,5 +104,5 @@ export const cutFingerprint = {
     },
   ],
   createdAt: "2026-09-02T01:11:03.517Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-13T08:58:27.961Z",
 } as const satisfies Module
