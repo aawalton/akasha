@@ -8,9 +8,9 @@ export const collectibles = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.5.3303624",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-12T23:00:08.413Z",
+  capturedAt: "2026-10-13T13:13:35.391Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
-  updatedAt: "2026-10-12T23:00:16.403Z",
+  updatedAt: "2026-10-13T13:13:41.890Z",
   createdAt: "2026-09-02T01:39:30.991Z",
 } as const satisfies TemperCatalogDomain
