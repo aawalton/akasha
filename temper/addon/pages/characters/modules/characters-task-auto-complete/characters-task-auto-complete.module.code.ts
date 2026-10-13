@@ -1,8 +1,6 @@
 import {
+  antiquityLeadOfCard,
   hasNoAntiquityLeadMatching,
-  isActionableLead,
-  isLegendaryLead,
-  isMotifLead,
 } from "akasha/temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
 import { getCharactersConfig } from "akasha/temper/addon/pages/characters/modules/characters-config/characters-config.module.code.ts"
 import {
@@ -85,18 +83,11 @@ function checkTaskAutoCompletion(): undefined {
     if (existing !== undefined && existing >= resetTs) continue
 
     if (task.rrule !== undefined) {
-      if (
-        task.completionCardId === "antiquity-leads-motifs" &&
-        hasNoAntiquityLeadMatching(isMotifLead)
-      ) {
-        sv.completions[completionKey] = GetTimeStamp()
-        continue
-      }
-      if (
-        task.completionCardId === "antiquity-leads-legendary" &&
-        hasNoAntiquityLeadMatching(isLegendaryLead)
-      ) {
-        sv.completions[completionKey] = GetTimeStamp()
+      const antiquityLead = antiquityLeadOfCard(task.completionCardId)
+      if (antiquityLead !== undefined) {
+        if (hasNoAntiquityLeadMatching(antiquityLead)) {
+          sv.completions[completionKey] = GetTimeStamp()
+        }
         continue
       }
       if (task.completionCardId === "guild-sales") {
@@ -138,13 +129,6 @@ function checkTaskAutoCompletion(): undefined {
       }
 
       if (progress.current >= progress.total && task.completionCardId !== "daily-writs") {
-        sv.completions[completionKey] = GetTimeStamp()
-      }
-
-      if (
-        task.completionCardId === "antiquity-lore" &&
-        hasNoAntiquityLeadMatching(isActionableLead)
-      ) {
         sv.completions[completionKey] = GetTimeStamp()
       }
 

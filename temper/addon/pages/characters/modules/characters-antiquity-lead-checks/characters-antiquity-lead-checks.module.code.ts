@@ -51,6 +51,19 @@ export function isActionableLead(lead: ActiveAntiquityLead): boolean {
   return lead.loreRemaining > 0
 }
 
+const ANTIQUITY_LEAD_OF_CARD: Record<string, (this: void, lead: ActiveAntiquityLead) => boolean> = {
+  "antiquity-lore": isActionableLead,
+  "antiquity-leads-motifs": isMotifLead,
+  "antiquity-leads-legendary": isLegendaryLead,
+}
+
+export function antiquityLeadOfCard(
+  cardId: string | undefined
+): ((this: void, lead: ActiveAntiquityLead) => boolean) | undefined {
+  if (cardId === undefined) return undefined
+  return ANTIQUITY_LEAD_OF_CARD[cardId]
+}
+
 export function hasNoAntiquityLeadMatching(
   predicate: (this: void, lead: ActiveAntiquityLead) => boolean
 ): boolean {
