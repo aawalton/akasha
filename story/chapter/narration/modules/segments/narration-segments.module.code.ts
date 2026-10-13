@@ -7,6 +7,7 @@ import {
 import {
   numberedOf,
   shoutedOf,
+  smallCapsOf,
   unjumbledOf,
 } from "akasha/story/chapter/narration/modules/words/narration-words.module.code.ts"
 import {
@@ -239,7 +240,7 @@ function plainOf(line: string): string {
     .replace(STRONG, "$2")
     .replace(EMPHASIS, "$1$3")
     .replace(MARKS, "")
-  return homographsOf(numberedOf(soundedOf(unjumbledOf(marked))))
+  return homographsOf(numberedOf(soundedOf(unjumbledOf(smallCapsOf(marked)))))
     .replace(ORNAMENT, " ")
     .replace(DASH_RUN, ", ")
     .replace(GLUED_ELLIPSIS, "$1 ")

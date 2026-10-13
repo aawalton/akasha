@@ -171,3 +171,48 @@ function unjumbled(found: string, markup: string | undefined, word: string | und
 export function unjumbledOf(line: string): string {
   return line.replace(WRITTEN, unjumbled)
 }
+
+const SMALL_CAPS: Readonly<Record<string, string>> = {
+  ᴀ: "a",
+  ʙ: "b",
+  ᴄ: "c",
+  ᴅ: "d",
+  ᴇ: "e",
+  ꜰ: "f",
+  ғ: "f",
+  ɢ: "g",
+  ʜ: "h",
+  ɪ: "i",
+  ᴊ: "j",
+  ᴋ: "k",
+  ʟ: "l",
+  ᴍ: "m",
+  ɴ: "n",
+  ᴏ: "o",
+  ᴘ: "p",
+  ǫ: "q",
+  ʀ: "r",
+  ꜱ: "s",
+  ᴛ: "t",
+  ᴜ: "u",
+  ᴠ: "v",
+  ᴡ: "w",
+  ʏ: "y",
+  ᴢ: "z",
+}
+const SMALL_CAP = /[ᴀʙᴄᴅᴇꜰɢʜɪᴊᴋʟᴍɴᴏᴘǫʀꜱᴛᴜᴠᴡʏᴢ]/u
+const LETTERED = /(?:\p{L}|̨)+/gu
+const HOOKED_O = /ᴏ̨/gu
+const OPENS_SENTENCE = /(?:^|[.!?…]["'”’)]*\s+)["'“‘(]*$/u
+
+function smallCapped(found: string, at: number, line: string): string {
+  if (!SMALL_CAP.test(found)) return found
+  const plain = [...found.replace(HOOKED_O, "q")].map((one) => SMALL_CAPS[one] ?? one).join("")
+  if (plain === "i") return "I"
+  if (!OPENS_SENTENCE.test(line.slice(0, at))) return plain
+  return `${plain.charAt(0).toUpperCase()}${plain.slice(1)}`
+}
+
+export function smallCapsOf(line: string): string {
+  return line.replace(LETTERED, smallCapped)
+}

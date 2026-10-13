@@ -2,8 +2,29 @@ import { describe, expect, test } from "bun:test"
 import {
   numberedOf,
   shoutedOf,
+  smallCapsOf,
   unjumbledOf,
 } from "akasha/story/chapter/narration/modules/words/narration-words.module.code.ts"
+
+describe("smallCapsOf", () => {
+  test("a line in small capitals is said in ordinary letters, capitalised where a sentence opens", () => {
+    expect(smallCapsOf("“ᴇɴᴏᴜɢʜ! ʜᴇᴇᴅ ᴍᴇ, ᴘᴇᴏᴘʟᴇ ᴏꜰ ɢᴏᴅ. ɪ ᴡᴀꜱ ꜱᴇɴᴛ.”")).toBe(
+      "“Enough! Heed me, people of god. I was sent.”"
+    )
+  })
+
+  test("small capitals after a capital, with plain letters, an ғ and a hooked o, are said plain", () => {
+    expect(smallCapsOf("Tʜɪs Dᴇᴀᴛʜ ᴡᴀs ᴏ̨ᴜɪᴛᴇ ɪᴄᴏɴɪᴄ: ᴀ sᴋᴜʟʟ ғʀᴀᴍᴇᴅ, Kᴀsɪɢɴᴀ’s ᴇxɪsᴛᴇɴᴄᴇ.")).toBe(
+      "This Death was quite iconic: a skull framed, Kasigna’s existence."
+    )
+  })
+
+  test("a line in ordinary letters is left as written", () => {
+    expect(smallCapsOf("Death waited there, scythe in hand.")).toBe(
+      "Death waited there, scythe in hand."
+    )
+  })
+})
 
 describe("unjumbledOf", () => {
   test("a word in jumbled case keeps its first letter and lowers the rest", () => {

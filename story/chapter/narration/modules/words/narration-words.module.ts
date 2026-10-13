@@ -46,7 +46,12 @@ export const narrationWords = {
       statement:
         "Capitalised words run together, a brand, a unit or a run of words with no spaces stay written.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A word in small capitals is handed on in ordinary letters, capitalised where it opens a sentence.",
+    },
   ],
   createdAt: "2026-10-08T19:12:09.635Z",
-  updatedAt: "2026-10-10T15:43:18.979Z",
+  updatedAt: "2026-10-13T15:40:21.919Z",
 } as const satisfies Module
