@@ -47,9 +47,6 @@ private struct CostNeverLoaded: View {
 struct CostHomeView: View {
     let entry: FeedEntry<CostResponse>
 
-    // THE TILE COUNTS DOWN AS A BARE TIMER, AND A HARNESS DRAWING ANOTHER FORM HANDS THAT IN.
-    var countdown: RingCountdown = .timer
-
     var body: some View {
         content
             .padding(LARGE_RING_TILE_PADDING)
@@ -75,8 +72,6 @@ struct CostHomeView: View {
             caption: costCaption(entry.state),
             nextTier: cost?.nextTier,
             progress: cost?.progress,
-            until: CostCountdown.reaching(cost?.coloredWith, entry.date),
-            countdown: countdown,
             noSignal: costNoSignal(entry.state)
         )
     }

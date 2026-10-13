@@ -25,11 +25,11 @@ export const smilingjennyCostWidget = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The caption counts down to the rung the surplus is about to fall past.",
+      statement: "The caption is the readout's label alone.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "Which moment that is comes off the feed rather than being worked out here.",
+      decisionKind: "decision-kind/absence",
+      statement: "The caption counts nothing down.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,15 +43,7 @@ export const smilingjennyCostWidget = {
       decisionKind: "decision-kind/absence",
       statement: "Jenny's app holds no page for the cost.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The caption counts down as a bare timer rather than in spelled words.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Nothing is written after the count, so the tile reads as the count alone.",
-    },
   ],
   createdAt: "2026-09-10T14:24:21.327Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-13T14:32:44.675Z",
 } as const satisfies IosComponent

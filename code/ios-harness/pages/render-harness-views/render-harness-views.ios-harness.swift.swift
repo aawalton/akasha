@@ -41,13 +41,16 @@ func feedState<Payload: Decodable>(
 //
 // The bundle ships `CostWidget` alone, so a case under that name is handed no form and is drawn
 // in the form the tile itself holds, which makes the picture the picture a phone draws. The
-// other asks for no coverage line and is reached only by a case naming it.
+// other asks for no coverage line and is reached only by a case naming it. Jenny's tile counts
+// nothing down, so it is drawn under its one name alone.
+#if HARNESS_ALANWALTON
 private func costCountdown(_ widget: String) -> RingCountdown? {
     switch widget {
     case "CostTimerNoHoursWidget": return .timerWithoutHours
     default: return nil
     }
 }
+#endif
 
 @MainActor
 func makeView(
@@ -89,19 +92,22 @@ func makeView(
     case "UpkeepStoplightsWidget":
         let state = try feedState(UpkeepStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(UpkeepHomeView(entry: FeedEntry(date: date, state: state)))
-    #else
-    case "ConnectionWidget":
-        let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
-        return AnyView(ConnectionHomeView(entry: FeedEntry(date: date, state: state)))
-    #endif
-    case "SafetyLevelWidget":
-        let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
-        return AnyView(SafetyLevelHomeView(entry: FeedEntry(date: date, state: state)))
     case "CostWidget", "CostTimerNoHoursWidget":
         let state = try feedState(CostResponse.self, body: body, unreadable: unreadable, refused: refused)
         let costEntry = FeedEntry(date: date, state: state)
         guard let form = costCountdown(widget) else { return AnyView(CostHomeView(entry: costEntry)) }
         return AnyView(CostHomeView(entry: costEntry, countdown: form))
+    #else
+    case "ConnectionWidget":
+        let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
+        return AnyView(ConnectionHomeView(entry: FeedEntry(date: date, state: state)))
+    case "CostWidget":
+        let state = try feedState(CostResponse.self, body: body, unreadable: unreadable, refused: refused)
+        return AnyView(CostHomeView(entry: FeedEntry(date: date, state: state)))
+    #endif
+    case "SafetyLevelWidget":
+        let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
+        return AnyView(SafetyLevelHomeView(entry: FeedEntry(date: date, state: state)))
     case "SurplusWidget":
         let state = try feedState(SurplusResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(SurplusHomeView(entry: FeedEntry(date: date, state: state)))
