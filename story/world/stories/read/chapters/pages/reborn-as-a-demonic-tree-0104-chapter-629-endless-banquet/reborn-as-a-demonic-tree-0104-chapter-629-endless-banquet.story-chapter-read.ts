@@ -20,5 +20,6 @@ export const rebornAsADemonicTree0104Chapter629EndlessBanquet = {
     },
   ],
   createdAt: "2026-10-12T20:05:30.318Z",
-  updatedAt: "2026-10-12T20:05:30.318Z",
+  updatedAt: "2026-10-13T20:05:58.374Z",
+  ownProgress: 2610,
 } as const satisfies StoryChapterRead
