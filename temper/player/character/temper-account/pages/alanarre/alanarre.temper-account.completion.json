@@ -75646,7 +75646,7 @@
       "name": "Corpseburster",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 9,
+      "slotsUnlocked": 10,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75739,7 +75739,7 @@
         },
         {
           "name": "Corpseburster Ring",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Corpseburster Dagger",
@@ -88979,6 +88979,7 @@
     11750,
     11751,
     11752,
+    11753,
     11754,
     11755,
     11756,
