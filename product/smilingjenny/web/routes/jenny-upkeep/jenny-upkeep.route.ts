@@ -71,7 +71,12 @@ export const jennyUpkeep = {
       decisionKind: "decision-kind/departure",
       statement: "`readingHeld` says no reading was ever taken.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "This route answers only builds of Jenny's app shipped before her upkeep tile went.",
+    },
   ],
   createdAt: "2026-09-10T15:27:22.722Z",
-  updatedAt: "2026-09-25T16:52:49.000Z",
+  updatedAt: "2026-10-13T14:00:44.354Z",
 } as const satisfies Route

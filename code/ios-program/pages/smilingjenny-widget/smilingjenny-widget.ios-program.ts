@@ -19,7 +19,6 @@ export const smilingjennyWidget = {
     "ios-component/smilingjenny-cost-widget",
     "ios-component/smilingjenny-safety-level-widget",
     "ios-component/smilingjenny-surplus-widget",
-    "ios-component/smilingjenny-upkeep-stoplights-widget",
     "ios-component/smilingjenny-widget-feed",
     "ios-component/spacing",
     "ios-component/surplus-ring",
@@ -27,5 +26,5 @@ export const smilingjennyWidget = {
   ],
   targetName: "SmilingJennyWidgetExtension",
   createdAt: "2026-08-31T18:13:48.188Z",
-  updatedAt: "2026-10-13T13:59:13.071Z",
+  updatedAt: "2026-10-13T14:00:44.354Z",
 } as const satisfies IosProgram

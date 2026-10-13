@@ -13,5 +13,4 @@
 {"propertySlug":"import","fileName":"readout-widget.page-type.types.ts","path":"alan/harness/readout/widget/pages/smilingjenny-freshness.readout-widget.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout-widget.page-type.types.ts","path":"alan/harness/readout/widget/pages/smilingjenny-safety-level.readout-widget.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout-widget.page-type.types.ts","path":"alan/harness/readout/widget/pages/smilingjenny-surplus.readout-widget.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"readout-widget.page-type.types.ts","path":"alan/harness/readout/widget/pages/smilingjenny-upkeep-stoplights.readout-widget.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}

@@ -58,6 +58,7 @@
 {"propertySlug":"decision-kind","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"decision-kind","path":"persona/craft-day/properties/green-day.number-property.ts","id":"01a0655b-4a9b-7008-9a0b-56117a559064"}
 {"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.relation-property.ts","id":"01a0c61d-f8be-7dee-97dc-2a9bb1313d4f"}
+{"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.ts","id":"01a08bee-4262-784b-b397-8a5a0ad37433"}
 {"propertySlug":"decision-kind","path":"story/engine/beat-state/modules/beat-replay/beat-replay.module.ts","id":"01a10238-e959-79ba-9502-1029307633d5"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/action-bar-message/action-bar-message.module.ts","id":"01a05b71-e542-79f6-8369-4b9b67355af8"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/pages/other-characters/other-characters.played-panel.ts","id":"01a0e81f-b53a-7ac1-a0c7-8ad8ee82a3aa"}

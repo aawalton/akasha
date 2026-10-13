@@ -277,49 +277,45 @@ check(
     costCaption(costState(costPayload("green", "0.00"))) == "Cost",
     String(describing: costCaption(costState(costPayload("green", "0.00")))))
 
-func decodeUpkeep(_ json: String) -> UpkeepStoplightsResponse? {
-    try? JSONDecoder().decode(UpkeepStoplightsResponse.self, from: Data(json.utf8))
+func decodeStoplights(_ json: String) -> SafetyLevelResponse? {
+    try? JSONDecoder().decode(SafetyLevelResponse.self, from: Data(json.utf8))
 }
 
-func upkeepBody(_ slugs: [String]) -> String {
+func stoplightsBody(_ slugs: [String]) -> String {
     let entries = slugs.map { #"{"habit":"\#($0)","tier":"green"}"# }.joined(separator: ",")
     return #"{"stoplights":[\#(entries)]}"#
 }
 
-func upkeepCount(_ slugs: [String]) -> Int? {
-    decodeUpkeep(upkeepBody(slugs))?.stoplights.count
+func stoplightsCount(_ slugs: [String]) -> Int? {
+    decodeStoplights(stoplightsBody(slugs))?.stoplights.count
 }
 
 check(
-    "the four upkeep circles decode",
-    upkeepCount(["safety", "surplus", "capacity", "sleep"]) == 4,
-    "four entries")
-check(
-    "a fifth upkeep circle decodes",
-    upkeepCount(["safety", "surplus", "capacity", "sleep", "plants"]) == 5,
-    "five entries")
-check("an empty upkeep payload is rejected", upkeepCount([]) == nil, "no stoplights")
+    "every stoplight a feed sends decodes",
+    stoplightsCount(["connection", "safety"]) == 2,
+    "two entries")
+check("an empty stoplights payload is rejected", stoplightsCount([]) == nil, "no stoplights")
 
-let upkeepFigureless = #"""
-{"stoplights":[{"habit":"sleep","label":"Sleep","tier":"black","reading":"","readingHeld":"none"}]}
+let stoplightFigureless = #"""
+{"stoplights":[{"habit":"connection","label":"Connection","tier":"black","reading":"","readingHeld":"none"}]}
 """#
 check(
-    "an upkeep circle with no figure decodes rather than being rejected",
-    decodeUpkeep(upkeepFigureless)?.stoplights.first?.reading == "",
+    "a stoplight with no figure decodes rather than being rejected",
+    decodeStoplights(stoplightFigureless)?.stoplights.first?.reading == "",
     "an empty figure beside readingHeld")
 
 check(
-    "an upkeep circle carrying a color the tile does not know is rejected",
-    decodeUpkeep(#"{"stoplights":[{"habit":"sleep","tier":"purple"}]}"#) == nil,
+    "a stoplight carrying a color the tile does not know is rejected",
+    decodeStoplights(#"{"stoplights":[{"habit":"connection","tier":"purple"}]}"#) == nil,
     "an unknown tier")
 
 check(
-    "an upkeep circle keeps the label the feed sent",
-    decodeUpkeep(upkeepFigureless)?.stoplights.first?.label == "Sleep",
+    "a stoplight keeps the label the feed sent",
+    decodeStoplights(stoplightFigureless)?.stoplights.first?.label == "Connection",
     "the label off the readout's page")
 
-func fallingUpkeep(_ extra: String) -> HabitStoplight? {
-    decodeUpkeep(FallingChecks.body("9.5", extra))?.stoplights.first
+func fallingStoplight(_ extra: String) -> HabitStoplight? {
+    decodeStoplights(FallingChecks.body("9.5", extra))?.stoplights.first
 }
 
 for (name, held, saw) in ScaleChecks.run() { check(name, held, saw) }
@@ -331,21 +327,21 @@ for (name, held, saw) in TimelineChecks.run() { check(name, held, saw) }
 for (name, held, saw) in FreshnessChecks.run() { check(name, held, saw) }
 
 check(
-    "an upkeep circle saying it falls with the clock decodes with its rate",
-    fallingUpkeep(FallingChecks.FALLS)?.fallsPerHour == 1,
+    "a stoplight saying it falls with the clock decodes with its rate",
+    fallingStoplight(FallingChecks.FALLS)?.fallsPerHour == 1,
     "the rate the feed sent")
 check(
-    "an upkeep circle saying it falls at nothing an hour decodes",
-    fallingUpkeep(FallingChecks.RESTS)?.fallsPerHour == 0,
+    "a stoplight saying it falls at nothing an hour decodes",
+    fallingStoplight(FallingChecks.RESTS)?.fallsPerHour == 0,
     "a rate of nothing")
 check(
-    "an upkeep circle saying nothing of falling decodes carrying neither",
-    fallingUpkeep("") != nil && fallingUpkeep("")?.fallsPerHour == nil,
+    "a stoplight saying nothing of falling decodes carrying neither",
+    fallingStoplight("") != nil && fallingStoplight("")?.fallsPerHour == nil,
     "neither key sent")
 check(
-    "an upkeep circle carrying what colored it decodes rather than being refused",
-    fallingUpkeep(FallingChecks.SENT) != nil,
-    "a key the upkeep tile reads nothing from")
+    "a stoplight carrying what colored it decodes rather than being refused",
+    fallingStoplight(FallingChecks.SENT) != nil,
+    "a key the tile reads nothing from")
 
 // A LIGHT NOTHING COULD BE READ FOR IS SENT BLACK, WITH AN EMPTY FIGURE AND `readingHeld`.
 func unheldBody(held: String = NO_READING_HELD) -> String {
@@ -379,16 +375,16 @@ check(
     "readingHeld none")
 
 check(
-    "an upkeep circle with no reading held decodes as no signal",
-    decodeUpkeep(upkeepFigureless)?.stoplights.first?.noSignal == true,
+    "a stoplight with no reading held decodes as no signal",
+    decodeStoplights(stoplightFigureless)?.stoplights.first?.noSignal == true,
     "readingHeld none")
 check(
-    "an upkeep circle sent without readingHeld decodes with its signal",
-    decodeUpkeep(upkeepBody(["sleep"]))?.stoplights.first?.noSignal == false,
+    "a stoplight sent without readingHeld decodes with its signal",
+    decodeStoplights(stoplightsBody(["connection"]))?.stoplights.first?.noSignal == false,
     "readingHeld not sent")
 check(
     "a readingHeld word the tile does not know decodes rather than being refused",
-    decodeUpkeep(unheldBody(held: "stale"))?.stoplights.first?.noSignal == false,
+    decodeStoplights(unheldBody(held: "stale"))?.stoplights.first?.noSignal == false,
     "readingHeld stale")
 check(
     "a cost with no reading held is drawn as no signal",

@@ -100,7 +100,6 @@ else
         "$AKASHA_ROOT/code/ios-component/pages/smilingjenny-cost-widget/smilingjenny-cost-widget.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/smilingjenny-safety-level-widget/smilingjenny-safety-level-widget.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/smilingjenny-surplus-widget/smilingjenny-surplus-widget.ios-component.swift.swift"
-        "$AKASHA_ROOT/code/ios-component/pages/smilingjenny-upkeep-stoplights-widget/smilingjenny-upkeep-stoplights-widget.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/smilingjenny-widget-feed/smilingjenny-widget-feed.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/spacing/spacing.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/surplus-ring/surplus-ring.ios-component.swift.swift"

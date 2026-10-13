@@ -23,7 +23,6 @@ export const readoutWidget = {
     "readout-widget/smilingjenny-freshness",
     "readout-widget/smilingjenny-safety-level",
     "readout-widget/smilingjenny-surplus",
-    "readout-widget/smilingjenny-upkeep-stoplights",
     "relation-property/app",
     "relation-property/component",
     "text-property/caption",
@@ -160,5 +159,5 @@ export const readoutWidget = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T21:07:57.190Z",
-  updatedAt: "2026-10-13T13:59:13.071Z",
+  updatedAt: "2026-10-13T14:00:44.354Z",
 } as const satisfies PageType
