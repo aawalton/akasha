@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHIrdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOk4BwGQbwyWeA",
+  "buildHash": "ATQHIsdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOk3xwGQbwyWeA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -8095,7 +8095,7 @@
   },
   "companionRapport": {
     "1": 4058,
-    "2": 1939,
+    "2": 2564,
     "5": 5500,
     "6": 4044,
     "9": 5500
@@ -8867,6 +8867,7 @@
     5747,
     5779,
     5784,
+    5785,
     5789,
     5791,
     5796,
@@ -9137,6 +9138,7 @@
     6664,
     6665,
     6666,
+    6667,
     6668,
     6674,
     6675,
@@ -16215,11 +16217,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "seen": [
       5,
       3,
@@ -16234,13 +16236,13 @@
       6,
       2,
       7,
-      3,
       4,
+      3,
       5
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-12",
-    "misplaced": 90
+    "date": "2026-10-13",
+    "misplaced": 112
   }
 }
