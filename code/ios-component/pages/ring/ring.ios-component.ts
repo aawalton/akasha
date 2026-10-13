@@ -16,16 +16,8 @@ export const ring = {
       statement: "A ring draws the reading the ring is handed and fetches nothing.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A caption handed a moment counts down to that moment in place of its words.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A caption counting down is left to redraw itself rather than spelled as text.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A caption counting down is written in the form the caption names.",
+      decisionKind: "decision-kind/absence",
+      statement: "A caption counts nothing down.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -33,13 +25,9 @@ export const ring = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A ring with nothing left keeps its own words rather than counting.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A moment already gone is counted up from rather than held at nothing.",
+      statement: "A ring with nothing left keeps its own words.",
     },
   ],
   createdAt: "2026-08-30T21:10:09.884Z",
-  updatedAt: "2026-09-22T13:48:28.000Z",
+  updatedAt: "2026-10-13T14:50:11.528Z",
 } as const satisfies IosComponent

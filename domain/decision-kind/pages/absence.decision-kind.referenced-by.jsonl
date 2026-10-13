@@ -1047,6 +1047,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/falling-checks/falling-checks.ios-component.ts","id":"01a08c54-a75a-7c9b-b63f-c642ff505fb5"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/freshness-checks/freshness-checks.ios-component.ts","id":"01a09b4a-75dd-790c-a399-1972b3b8e424"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/freshness-widget/freshness-widget.ios-component.ts","id":"01a09afa-9290-7746-8486-4ef295a76c76"}
+{"propertySlug":"decision-kind","path":"code/ios-component/pages/ring/ring.ios-component.ts","id":"01a05482-22dc-7b38-95b1-b7801f498a68"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/safety-ring/safety-ring.ios-component.ts","id":"01a05482-22dd-7359-88a2-113df882eb88"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/scale-checks/scale-checks.ios-component.ts","id":"01a08c63-252c-77f1-b8be-c0d4bca74aaa"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/smilingjenny-cost-widget/smilingjenny-cost-widget.ios-component.ts","id":"01a08bb4-8f4f-7297-9c23-8360a4bbe920"}
