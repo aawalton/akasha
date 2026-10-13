@@ -23,6 +23,7 @@ COMPONENT_SWIFT=(
   "$AKASHA_ROOT/code/ios-component/pages/safety-ring/safety-ring.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-component/pages/scale-checks/scale-checks.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-component/pages/smilingjenny-categorize-view/smilingjenny-categorize-view.ios-component.swift.swift"
+  "$AKASHA_ROOT/code/ios-component/pages/smilingjenny-connection-widget/smilingjenny-connection-widget.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-component/pages/smilingjenny-cost-widget/smilingjenny-cost-widget.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-component/pages/smilingjenny-safety-level-widget/smilingjenny-safety-level-widget.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-component/pages/smilingjenny-surplus-widget/smilingjenny-surplus-widget.ios-component.swift.swift"
