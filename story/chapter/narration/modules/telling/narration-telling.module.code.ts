@@ -26,7 +26,7 @@ const TITLE_PAUSE_MS = 1320
 
 const SPEECH_CEILING_MS = 15_000
 
-const MOST_SEGMENTS = 3000
+const MOST_SEGMENTS = 10000
 
 const PROSE = "prose"
 
