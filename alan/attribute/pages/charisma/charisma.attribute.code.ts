@@ -27,6 +27,14 @@ export function namesAnyone(values: Readonly<Record<string, unknown>>): boolean 
   return Array.isArray(held) && held.some((one) => typeof one === "string" && one.trim() !== "")
 }
 
+export function namesRelationship(
+  values: Readonly<Record<string, unknown>>,
+  relationship: string
+): boolean {
+  const held = values[RELATIONSHIPS]
+  return Array.isArray(held) && held.includes(relationship)
+}
+
 export function hoursIn(values: Readonly<Record<string, unknown>>): number | null {
   const from = Date.parse(String(values[STARTED_AT] ?? ""))
   const to = Date.parse(String(values[ENDED_AT] ?? ""))
@@ -34,15 +42,25 @@ export function hoursIn(values: Readonly<Record<string, unknown>>): number | nul
   return (to - from) / MILLISECONDS_TO_THE_HOUR
 }
 
-export function charismaIn(rows: readonly Row[]): number | null {
+type With = (values: Readonly<Record<string, unknown>>) => boolean
+
+function hoursAtEaseIn(rows: readonly Row[], isWith: With): number | null {
   let held: number | null = null
   for (const row of rows) {
     const ease = easeIn(row.values)
     if (ease === null) continue
     const hours = hoursIn(row.values)
     if (hours === null) continue
-    const earns = ease >= AT_EASE && namesAnyone(row.values)
+    const earns = ease >= AT_EASE && isWith(row.values)
     held = (held ?? 0) + (earns ? hours : 0)
   }
   return held
+}
+
+export function charismaIn(rows: readonly Row[]): number | null {
+  return hoursAtEaseIn(rows, namesAnyone)
+}
+
+export function connectionIn(rows: readonly Row[], relationship: string): number | null {
+  return hoursAtEaseIn(rows, (values) => namesRelationship(values, relationship))
 }

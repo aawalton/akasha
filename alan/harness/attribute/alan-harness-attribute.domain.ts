@@ -8,6 +8,7 @@ export const alanHarnessAttribute = {
   parts: [
     "module/attributes-reading",
     "module/attributes-totalling",
+    "readout/connection-with-jenny",
     "service-workstation/attributes-relay-service",
   ],
   decisions: [
@@ -89,5 +90,5 @@ export const alanHarnessAttribute = {
     },
   ],
   createdAt: "2026-09-03T18:14:43.608Z",
-  updatedAt: "2026-09-24T22:26:54.000Z",
+  updatedAt: "2026-10-13T13:47:26.474Z",
 } as const satisfies Domain

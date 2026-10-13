@@ -98,6 +98,15 @@ export const attributesReading = {
       statement: "A reading of an attribute no such readout counts is named rather than kept.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan's connection with Jenny is read off the stretches the charisma is read off.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The connection is kept on the readout slugged for it rather than on an attribute's.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "The points themselves are never printed.",
     },
@@ -111,5 +120,5 @@ export const attributesReading = {
     },
   ],
   createdAt: "2026-09-04T00:05:30.403Z",
-  updatedAt: "2026-09-25T17:33:30.000Z",
+  updatedAt: "2026-10-13T13:47:26.474Z",
 } as const satisfies Module

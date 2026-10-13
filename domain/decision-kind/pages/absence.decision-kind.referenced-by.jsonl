@@ -282,6 +282,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/alanwalton-ios-notification/service-workstations/apns-push-notifier/apns-push-notifier.service-workstation.ts","id":"01a06829-0193-7bb7-858d-8cb22b1eb62d"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts","id":"01a069bc-1aa3-790c-bb5e-db2397ad19ed"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts","id":"01a07899-c5db-720d-b555-089ffd6bae07"}
+{"propertySlug":"decision-kind","path":"alan/harness/attribute/readouts/connection-with-jenny/connection-with-jenny.readout.ts","id":"01a13584-9f8b-76ab-9b23-bb7c8a172972"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/better-auth-rr.domain.ts","id":"01a0baf7-ffe6-7560-9510-2c81f43ead48"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.ts","id":"01a0bb11-44b4-71af-a75d-f347bd292d0a"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.ts","id":"01a0bafb-08be-77ae-a54a-a90577b68072"}

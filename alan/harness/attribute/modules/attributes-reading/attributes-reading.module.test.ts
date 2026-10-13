@@ -1,8 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { strength } from "akasha/alan/attribute/pages/strength/strength.attribute.ts"
 import { wisdom } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.ts"
-import { attributeReadouts } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
+import {
+  attributeReadouts,
+  connectionReadout,
+} from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
 import { attributesReading } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts"
+import { connectionWithJenny } from "akasha/alan/harness/attribute/readouts/connection-with-jenny/connection-with-jenny.readout.ts"
 import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
@@ -71,4 +75,22 @@ test("a readout naming an attribute and not this module is not kept on", () => {
 test("a readout naming this module and no attribute is not kept on", () => {
   const root = world({ [COUNTING_NOTHING]: { servedBy: [SERVED_BY] } })
   expect(attributeReadouts(root).size).toBe(0)
+})
+
+const CONNECTION = "probe/readouts/probe-connection/probe-connection.readout.ts"
+
+test("the connection is kept on the readout slugged for it whose page names this module", () => {
+  const root = world({
+    [CONNECTION]: { servedBy: [SERVED_BY], slug: connectionWithJenny.slug },
+    [COUNTING_NOTHING]: { servedBy: [SERVED_BY], slug: "probe-nothing" },
+  })
+  expect(connectionReadout(root)).toBe(CONNECTION)
+  expect(attributeReadouts(root).size).toBe(0)
+})
+
+test("a connection readout not naming this module is not kept on", () => {
+  const root = world({
+    [CONNECTION]: { servedBy: ["module/other-reading"], slug: connectionWithJenny.slug },
+  })
+  expect(connectionReadout(root)).toBeNull()
 })

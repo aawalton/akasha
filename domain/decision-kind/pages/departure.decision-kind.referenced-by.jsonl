@@ -692,6 +692,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/alan-harness-attribute.domain.ts","id":"01a0687a-f498-76b9-9a54-205509f15f64"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts","id":"01a069bc-1aa3-790c-bb5e-db2397ad19ed"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts","id":"01a07899-c5db-720d-b555-089ffd6bae07"}
+{"propertySlug":"decision-kind","path":"alan/harness/attribute/readouts/connection-with-jenny/connection-with-jenny.readout.ts","id":"01a13584-9f8b-76ab-9b23-bb7c8a172972"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/better-auth-rr.domain.ts","id":"01a0baf7-ffe6-7560-9510-2c81f43ead48"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/app-handover-session/app-handover-session.module.ts","id":"01a0bc7d-2f57-79b3-8aa0-f4bb7ff7c9d3"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.ts","id":"01a0bafa-a730-7735-bd9a-e26e4084eadb"}
@@ -973,6 +974,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-back/weekly-back.readout.ts","id":"01a063bd-a526-795d-b845-b6fb54c9ef34"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-ends/weekly-ends.readout.ts","id":"01a063bd-a526-7623-8e91-2865d3976acc"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-usage/weekly-usage.readout.ts","id":"01a063bd-a526-7a12-97a4-531aa40ead14"}
+{"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/connection/connection.readout-group.ts","id":"01a13584-9f8b-7486-bb02-c83e1ea91f9c"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/cost/cost.readout-group.ts","id":"01a08b9b-fa99-70de-a5e9-aab7a5e793ae"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/inboxes/inboxes.readout-group.ts","id":"01a06230-b155-7b8c-9044-28e5319d83e7"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/safety/safety.readout-group.ts","id":"01a05f42-92f5-7003-8df0-f5215872a280"}

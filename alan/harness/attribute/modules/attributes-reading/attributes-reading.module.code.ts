@@ -1,4 +1,7 @@
-import { charismaIn } from "akasha/alan/attribute/pages/charisma/charisma.attribute.code.ts"
+import {
+  charismaIn,
+  connectionIn,
+} from "akasha/alan/attribute/pages/charisma/charisma.attribute.code.ts"
 import { charisma } from "akasha/alan/attribute/pages/charisma/charisma.attribute.ts"
 import { fetchConstitutionPoints } from "akasha/alan/attribute/pages/constitution/constitution.attribute.code.ts"
 import { constitution } from "akasha/alan/attribute/pages/constitution/constitution.attribute.ts"
@@ -13,6 +16,7 @@ import { strength } from "akasha/alan/attribute/pages/strength/strength.attribut
 import { wisdomIn } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.code.ts"
 import { wisdom } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.ts"
 import { attributesReading } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts"
+import { connectionWithJenny } from "akasha/alan/harness/attribute/readouts/connection-with-jenny/connection-with-jenny.readout.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import type {
   Asking,
@@ -22,6 +26,7 @@ import {
   keepReading,
   readoutsServedBy,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { jenniferWalton } from "akasha/alan/relationships/relationship/pages/jennifer-walton/jennifer-walton.relationship.ts"
 import {
   openedDayOf,
   openedDayWindow,
@@ -36,7 +41,7 @@ import {
   AKASHA,
   resolveRoots,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 const SERVED_BY = namedAs(module.slug, attributesReading.slug, null)
@@ -85,11 +90,11 @@ export function spelledBack(stretch: Readonly<Record<string, unknown>>): Row {
   return { values }
 }
 
-async function charismaOf(day: Readonly<Record<string, unknown>>): Promise<number | null> {
+async function stretchesOf(day: Readonly<Record<string, unknown>>): Promise<readonly Row[] | null> {
   const dayId = day[ID]
   if (typeof dayId !== "string" || dayId.trim() === "") return null
   const stretches = await sessionsOfDay(dayId, STRETCH_KEYS)
-  return charismaIn(stretches.map(spelledBack))
+  return stretches.map(spelledBack)
 }
 
 type Window = { readonly checkout: string; readonly from: string; readonly to: string }
@@ -135,12 +140,22 @@ export function attributeReadouts(root: string): ReadonlyMap<string, string> {
   return found
 }
 
+const SLUG = "slug"
+
+export function connectionReadout(root: string): string | null {
+  const found = readoutsServedBy(root, SERVED_BY).find(
+    (one) => textAt(one.value, SLUG) === connectionWithJenny.slug
+  )
+  return found?.path ?? null
+}
+
 const OFF_THE_DAY = [
   strength.slug,
   endurance.slug,
   wisdom.slug,
   intelligence.slug,
   charisma.slug,
+  connectionWithJenny.slug,
 ] as const
 
 const NO_DAY_KEPT = "no tracking day is kept for this day, so no attribute can be read off one"
@@ -178,9 +193,18 @@ async function readAttributes(now: Date = new Date()): Promise<Taken> {
     keep(wisdom.slug, wisdomIn(values))
     keep(intelligence.slug, intelligenceIn(values))
 
-    const [charismaRead] = await Promise.allSettled([charismaOf(values)])
-    if (charismaRead.status === "fulfilled") keep(charisma.slug, charismaRead.value)
-    else unread.push(`${charisma.slug} — ${saidBy(charismaRead.reason)}`)
+    const [stretchesRead] = await Promise.allSettled([stretchesOf(values)])
+    if (stretchesRead.status === "fulfilled") {
+      const stretches = stretchesRead.value
+      keep(charisma.slug, stretches === null ? null : charismaIn(stretches))
+      keep(
+        connectionWithJenny.slug,
+        stretches === null ? null : connectionIn(stretches, jenniferWalton.id)
+      )
+    } else {
+      unread.push(`${charisma.slug} — ${saidBy(stretchesRead.reason)}`)
+      unread.push(`${connectionWithJenny.slug} — ${saidBy(stretchesRead.reason)}`)
+    }
   } else {
     for (const attribute of OFF_THE_DAY) unread.push(`${attribute} — ${NO_DAY_KEPT}`)
   }
@@ -194,7 +218,9 @@ export async function takeReadings(
   done: string[] = []
 ): Promise<Taken> {
   const read = await readAttributes(now)
-  const readouts = attributeReadouts(root)
+  const readouts = new Map(attributeReadouts(root))
+  const connection = connectionReadout(root)
+  if (connection !== null) readouts.set(connectionWithJenny.slug, connection)
   const kept: Record<string, number> = {}
   const unread = [...read.unread]
   for (const [attribute, value] of Object.entries(read.kept)) {
