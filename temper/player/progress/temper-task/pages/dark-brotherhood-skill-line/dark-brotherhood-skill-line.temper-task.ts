@@ -19,7 +19,7 @@ export const darkBrotherhoodSkillLine = {
   lastCompletedAt: "2026-10-13T13:49:50.000Z",
   progress: "jsonl",
   progressTotal: 240,
-  progressCurrent: 153,
-  updatedAt: "2026-10-13T13:50:35.090Z",
+  progressCurrent: 154,
+  updatedAt: "2026-10-13T13:50:38.248Z",
   createdAt: "2026-04-22T12:39:34.017Z",
 } as const satisfies TemperTask
