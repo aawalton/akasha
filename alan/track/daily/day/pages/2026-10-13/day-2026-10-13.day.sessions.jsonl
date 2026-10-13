@@ -4,4 +4,5 @@
 {"id":"01a13563-8d26-7ea1-84ef-c845c2d16331","title":"ESO + Read + Pod","startedAt":"2026-10-13T13:10:00.000Z","dailyTracking":"01a134b4-6d43-7000-a62f-cbbea2360a59","endedAt":"2026-10-13T13:56:00.000Z","safetyLevel":"3","difficultyLevel":"1"}
 {"id":"01a1358d-4480-783a-b112-bed599dff0dd","title":"ESO + Read + Pod","startedAt":"2026-10-13T13:56:00.000Z","dailyTracking":"01a134b4-6d43-7000-a62f-cbbea2360a59","endedAt":"2026-10-13T14:28:00.000Z","safetyLevel":"2","difficultyLevel":"1"}
 {"id":"01a135aa-26e2-77da-99bf-2e224faf977f","title":"ESO + Read","startedAt":"2026-10-13T14:28:00.000Z","dailyTracking":"01a134b4-6d43-7000-a62f-cbbea2360a59","endedAt":"2026-10-13T19:30:00.000Z","safetyLevel":"2","difficultyLevel":"1"}
-{"id":"01a136d1-aac6-7f5a-8255-4edb0c92471f","title":"Read","startedAt":"2026-10-13T19:30:00.000Z","dailyTracking":"01a134b4-6d43-7000-a62f-cbbea2360a59","safetyLevel":"1","difficultyLevel":"1"}
+{"id":"01a136d1-aac6-7f5a-8255-4edb0c92471f","title":"Read","startedAt":"2026-10-13T19:30:00.000Z","dailyTracking":"01a134b4-6d43-7000-a62f-cbbea2360a59","safetyLevel":"1","difficultyLevel":"1","endedAt":"2026-10-13T22:30:00.000Z"}
+{"id":"01a13763-fe08-7903-9f73-1b369c0008e1","title":"Read","startedAt":"2026-10-13T22:30:00.000Z","dailyTracking":"01a134b4-6d43-7000-a62f-cbbea2360a59","safetyLevel":"2","difficultyLevel":"1"}
