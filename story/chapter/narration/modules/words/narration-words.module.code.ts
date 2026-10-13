@@ -216,3 +216,64 @@ function smallCapped(found: string, at: number, line: string): string {
 export function smallCapsOf(line: string): string {
   return line.replace(LETTERED, smallCapped)
 }
+
+const ROTATED: Readonly<Record<string, string>> = {
+  ɐ: "a",
+  q: "b",
+  ɔ: "c",
+  p: "d",
+  ǝ: "e",
+  ɟ: "f",
+  ƃ: "g",
+  ɥ: "h",
+  ᴉ: "i",
+  ı: "i",
+  ɾ: "j",
+  ʞ: "k",
+  ɯ: "m",
+  u: "n",
+  d: "p",
+  b: "q",
+  ɹ: "r",
+  ʇ: "t",
+  n: "u",
+  ʌ: "v",
+  ʍ: "w",
+  ʎ: "y",
+  "∀": "A",
+  ꓭ: "B",
+  Ɔ: "C",
+  ᗡ: "D",
+  Ǝ: "E",
+  Ⅎ: "F",
+  "⅁": "G",
+  ſ: "J",
+  ꓘ: "K",
+  "˥": "L",
+  W: "M",
+  Ԁ: "P",
+  ᴚ: "R",
+  "┴": "T",
+  "∩": "U",
+  Λ: "V",
+  M: "W",
+  "⅄": "Y",
+  "¿": "?",
+  "¡": "!",
+  "˙": ".",
+  "[": "]",
+  "]": "[",
+}
+const TURNED_OVER = /[ɐɔǝɟƃɥᴉɾʞɯɹʇʌʍʎ∀ꓭƆᗡƎℲ⅁ꓘ˥Ԁᴚ┴∩⅄]/u
+const LEAST_TURNED_OVER = 2
+
+function turnedOver(line: string): boolean {
+  const words = line.split(/\s+/u).filter((one) => one !== "")
+  const turned = words.filter((one) => TURNED_OVER.test(one)).length
+  return turned >= LEAST_TURNED_OVER && turned * 2 >= words.length
+}
+
+export function rotatedOf(line: string): string {
+  if (!turnedOver(line)) return line
+  return [...line].map((one) => ROTATED[one] ?? one).join("")
+}

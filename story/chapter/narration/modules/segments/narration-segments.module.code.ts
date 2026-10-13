@@ -6,6 +6,7 @@ import {
 } from "akasha/story/chapter/narration/modules/window-speaking/window-speaking.module.code.ts"
 import {
   numberedOf,
+  rotatedOf,
   shoutedOf,
   smallCapsOf,
   unjumbledOf,
@@ -240,7 +241,7 @@ function plainOf(line: string): string {
     .replace(STRONG, "$2")
     .replace(EMPHASIS, "$1$3")
     .replace(MARKS, "")
-  return homographsOf(numberedOf(soundedOf(unjumbledOf(smallCapsOf(marked)))))
+  return homographsOf(numberedOf(soundedOf(unjumbledOf(smallCapsOf(rotatedOf(marked))))))
     .replace(ORNAMENT, " ")
     .replace(DASH_RUN, ", ")
     .replace(GLUED_ELLIPSIS, "$1 ")

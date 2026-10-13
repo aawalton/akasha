@@ -51,7 +51,16 @@ export const narrationWords = {
       statement:
         "A word in small capitals is handed on in ordinary letters, capitalised where it opens a sentence.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line written upside down is handed on turned the right way up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A line is upside down where at least two words, and half its words, hold a turned letter.",
+    },
   ],
   createdAt: "2026-10-08T19:12:09.635Z",
-  updatedAt: "2026-10-13T15:40:21.919Z",
+  updatedAt: "2026-10-13T19:06:04.144Z",
 } as const satisfies Module

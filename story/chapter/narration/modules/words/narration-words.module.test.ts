@@ -1,10 +1,30 @@
 import { describe, expect, test } from "bun:test"
 import {
   numberedOf,
+  rotatedOf,
   shoutedOf,
   smallCapsOf,
   unjumbledOf,
 } from "akasha/story/chapter/narration/modules/words/narration-words.module.code.ts"
+
+describe("rotatedOf", () => {
+  test("a line written upside down is said in ordinary letters", () => {
+    expect(
+      rotatedOf(
+        "Sɐʇɐɹ: ˥ǝʍpbnᴉll¿ ∀ɹǝ ʎon sʇᴉll ʇɥǝɹǝ¿ Is ʇɥᴉs ʇɥǝ ∀ɹɯoɹǝp Qnǝǝu oɟ ʇɥǝ ∀uʇᴉuᴉnɯ¿ I’p lᴉʞǝ ʇo ɐsʞ ɐqonʇ ʇɥǝ ɥᴉsʇoɹʎ ɐ ɯoɯǝuʇ˙ ┴ɥᴉs ᴉs Sɐʇɐɹ Sᴉlʌǝɹɟɐuƃ’ ]Hᴉsʇoɹᴉɐu oɟ ʇɥǝ Moɹlp[˙"
+      )
+    ).toBe(
+      "Satar: Lewdquill? Are you still there? Is this the Armored Queen of the Antinium? I’d like to ask about the history a moment. This is Satar Silverfang’ [Historian of the World]."
+    )
+  })
+
+  test("a line in ordinary letters, or with one turned letter, is left as written", () => {
+    expect(rotatedOf("Pump the bun, quid.")).toBe("Pump the bun, quid.")
+    expect(rotatedOf("The schwa ǝ is a turned e, said in a quid pro quo.")).toBe(
+      "The schwa ǝ is a turned e, said in a quid pro quo."
+    )
+  })
+})
 
 describe("smallCapsOf", () => {
   test("a line in small capitals is said in ordinary letters, capitalised where a sentence opens", () => {
