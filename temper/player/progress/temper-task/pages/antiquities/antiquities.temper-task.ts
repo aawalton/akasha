@@ -1,10 +1,10 @@
 import type { TemperTask } from "akasha/temper/player/progress/temper-task/temper-task.page-type.types.ts"
 
-export const antiquityLeadsMotifs = {
+export const antiquities = {
   id: "019db533-f381-7514-8ad7-fedbef9c1ee0",
   type: "page-type/temper-task",
-  slug: "antiquity-leads-motifs",
-  title: "Antiquity Leads Motifs",
+  slug: "antiquities",
+  title: "Antiquities",
   accountPage: "temper-account/alanarre",
   character: "temper-account-character/erin-solstice",
   effectiveCharacter: "temper-account-character/erin-solstice",
@@ -18,5 +18,5 @@ export const antiquityLeadsMotifs = {
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-13T14:46:39.212Z",
+  updatedAt: "2026-10-13T14:47:14.837Z",
 } as const satisfies TemperTask
