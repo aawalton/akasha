@@ -8,10 +8,10 @@ import WidgetKit
 // `takenAt + (surplus - rung) / rate`. That moment holds no `now` in it: whatever the rate
 // is, the wait left at any clock reading is the moment less the clock, which loses exactly
 // one second for every second that passes. The phone therefore does no arithmetic with the
-// rate at all, and a rate of thirty-two is counted down as truly as a rate of one.
+// rate at all, and a rate of thirty-two is timed as truly as a rate of one.
 //
 // A cost of nothing, a surplus that is not falling, and a surplus already under the lowest
-// rung all reach the phone carrying no instant, and the caption stays the readout's label.
+// rung all reach the phone carrying no instant, and the tile names no moment it changes at.
 enum CostCountdown {
     static func reaching(_ coloredWith: ColoredWith?, _ now: Date) -> Date? {
         guard let at = coloredWith?.reaching(now) else { return nil }
@@ -55,11 +55,9 @@ enum CostCountdown {
 
     // THE MOMENT THIS TILE STOPS BEING RIGHT, WHICH IS THE MOMENT THE FEED ASKS TO BE SHOWN.
     //
-    // It is the same instant the caption counts down to, and that is not a coincidence: the
-    // caption reaches zero exactly when the color moves and the countdown has to re-aim at
-    // the rung below. Both feeds hand this to their timeline, which puts a second entry
-    // there so the tile is worked out again at that instant rather than up to a refresh
-    // later.
+    // It is the instant the color moves. Both feeds hand this to their timeline, which puts a
+    // second entry there so the tile is worked out again at that instant rather than up to a
+    // refresh later.
     static func turning(_ payload: CostResponse, _ now: Date) -> Date? {
         reaching(payload.cost?.coloredWith, now)
     }

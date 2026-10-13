@@ -22,7 +22,7 @@ export const costRing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A cost carrying the surplus that cost was colored with counts down to that surplus.",
+        "A cost carrying the surplus it was colored with names when that surplus reaches a rung.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,7 +46,7 @@ export const costRing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cost carrying no such surplus keeps the caption the readout's page names.",
+      statement: "Every cost is captioned with the label the readout's page names.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -116,5 +116,5 @@ export const costRing = {
     },
   ],
   createdAt: "2026-09-10T14:32:20.377Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-13T14:50:50.197Z",
 } as const satisfies IosComponent

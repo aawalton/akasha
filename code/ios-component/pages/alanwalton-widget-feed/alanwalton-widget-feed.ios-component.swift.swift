@@ -97,11 +97,9 @@ enum FeedResolution {
 
 // A TILE THAT WILL CHANGE ON ITS OWN IS SHOWN A SECOND TIME AT THE MOMENT IT CHANGES.
 //
-// The cost tile counts down to the moment the surplus reaches the rung beneath it. That is
-// the moment its color moves and its countdown has to re-aim, and nothing on the phone runs
-// a tile's body between timeline entries. `Text(_:style: .relative)` ticks its own text, but
-// the date handed to it was settled when the body last ran, so a timeline holding one entry
-// shows the change up to fifteen minutes late and counts upward until it catches up.
+// The cost tile's color moves at the moment the surplus reaches the rung beneath it, and
+// nothing on the phone runs a tile's body between timeline entries, so a timeline holding one
+// entry shows the change up to fifteen minutes late.
 //
 // The second entry is the same payload at a later date. It fetches nothing and it is not a
 // refresh. It is there so the arithmetic every ring already does against `entry.date` is
