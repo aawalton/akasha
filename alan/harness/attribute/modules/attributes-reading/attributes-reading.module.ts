@@ -99,12 +99,12 @@ export const attributesReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Alan's connection with Jenny is read off the stretches the charisma is read off.",
+      statement:
+        "A readout naming a relationship is read off the stretches the charisma is read off.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The connection is kept on the readout slugged for it rather than on an attribute's.",
+      statement: "The relationship such a readout counts is read off that readout's own link.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -120,5 +120,5 @@ export const attributesReading = {
     },
   ],
   createdAt: "2026-09-04T00:05:30.403Z",
-  updatedAt: "2026-10-13T13:47:26.474Z",
+  updatedAt: "2026-10-13T13:51:16.159Z",
 } as const satisfies Module

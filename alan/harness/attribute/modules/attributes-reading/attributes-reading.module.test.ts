@@ -3,10 +3,9 @@ import { strength } from "akasha/alan/attribute/pages/strength/strength.attribut
 import { wisdom } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.ts"
 import {
   attributeReadouts,
-  connectionReadout,
+  relationshipReadouts,
 } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
 import { attributesReading } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts"
-import { connectionWithJenny } from "akasha/alan/harness/attribute/readouts/connection-with-jenny/connection-with-jenny.readout.ts"
 import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
@@ -79,18 +78,38 @@ test("a readout naming this module and no attribute is not kept on", () => {
 
 const CONNECTION = "probe/readouts/probe-connection/probe-connection.readout.ts"
 
-test("the connection is kept on the readout slugged for it whose page names this module", () => {
-  const root = world({
-    [CONNECTION]: { servedBy: [SERVED_BY], slug: connectionWithJenny.slug },
-    [COUNTING_NOTHING]: { servedBy: [SERVED_BY], slug: "probe-nothing" },
-  })
-  expect(connectionReadout(root)).toBe(CONNECTION)
+const RELATIONSHIP = "relationship"
+
+const JENNY = "probe-jenny"
+
+const JENNY_ID = "01a0d9b0-0000-7000-8000-000000000099"
+
+function knowingJenny(root: string): string {
+  listedFiled(root, RELATIONSHIP, JENNY, [
+    { path: `probe/relationships/${JENNY}/${JENNY}.relationship.ts`, id: JENNY_ID },
+  ])
+  return root
+}
+
+test("a readout naming a relationship is kept on with that relationship's id", () => {
+  const root = knowingJenny(
+    world({
+      [CONNECTION]: { servedBy: [SERVED_BY], relationship: namedAs(RELATIONSHIP, JENNY, null) },
+      [COUNTING_NOTHING]: { servedBy: [SERVED_BY] },
+    })
+  )
+  expect(relationshipReadouts(root)).toEqual(new Map([[CONNECTION, JENNY_ID]]))
   expect(attributeReadouts(root).size).toBe(0)
 })
 
-test("a connection readout not naming this module is not kept on", () => {
-  const root = world({
-    [CONNECTION]: { servedBy: ["module/other-reading"], slug: connectionWithJenny.slug },
-  })
-  expect(connectionReadout(root)).toBeNull()
+test("a readout naming a relationship and not this module is not kept on", () => {
+  const root = knowingJenny(
+    world({
+      [CONNECTION]: {
+        servedBy: ["module/other-reading"],
+        relationship: namedAs(RELATIONSHIP, JENNY, null),
+      },
+    })
+  )
+  expect(relationshipReadouts(root).size).toBe(0)
 })

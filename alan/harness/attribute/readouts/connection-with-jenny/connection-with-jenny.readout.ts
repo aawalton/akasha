@@ -9,13 +9,15 @@ export const connectionWithJenny = {
   unit: "points",
   place: 1,
   scale: "readout-scale/attribute-points",
+  relationship: "relationship/jennifer-walton",
   groups: ["readout-group/connection"],
   wireKey: "connection",
   servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the charisma of today's stretches naming Jenny's relationship.",
+      statement:
+        "The reading is the charisma of today's stretches naming the relationship linked here.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -41,5 +43,5 @@ export const connectionWithJenny = {
   carriedTo: ["router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-10-13T13:47:26.474Z",
-  updatedAt: "2026-10-13T13:47:26.474Z",
+  updatedAt: "2026-10-13T13:51:16.159Z",
 } as const satisfies Readout

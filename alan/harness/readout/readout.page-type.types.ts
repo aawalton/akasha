@@ -19,6 +19,7 @@ import type { ReadLiveFrom } from "akasha/alan/harness/readout/properties/read-l
 import type { Reading } from "akasha/alan/harness/readout/properties/reading.module-property-group.ts"
 import type { ReadoutColor } from "akasha/alan/harness/readout/properties/readout-color.relation-property.types.ts"
 import type { ReadoutEnabled } from "akasha/alan/harness/readout/properties/readout-enabled.boolean-property.types.ts"
+import type { ReadoutRelationship } from "akasha/alan/harness/readout/properties/readout-relationship.relation-property.types.ts"
 import type { Scale } from "akasha/alan/harness/readout/properties/scale.relation-property.types.ts"
 import type { ServedBy } from "akasha/alan/harness/readout/properties/served-by.multi-relation-property.types.ts"
 import type { Unit } from "akasha/alan/harness/readout/properties/unit.text-property.types.ts"
@@ -51,4 +52,5 @@ export type Readout = Domain & {
   servedBy?: ServedBy
   carriedTo?: CarriedTo
   madeFrom?: MadeFrom
+  relationship?: ReadoutRelationship
 }

@@ -16,7 +16,6 @@ import { strength } from "akasha/alan/attribute/pages/strength/strength.attribut
 import { wisdomIn } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.code.ts"
 import { wisdom } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.ts"
 import { attributesReading } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts"
-import { connectionWithJenny } from "akasha/alan/harness/attribute/readouts/connection-with-jenny/connection-with-jenny.readout.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import type {
   Asking,
@@ -26,7 +25,6 @@ import {
   keepReading,
   readoutsServedBy,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
-import { jenniferWalton } from "akasha/alan/relationships/relationship/pages/jennifer-walton/jennifer-walton.relationship.ts"
 import {
   openedDayOf,
   openedDayWindow,
@@ -36,12 +34,13 @@ import { sessionsOfDay } from "akasha/alan/track/daily/modules/day-stretches/day
 import { module } from "akasha/code/module/module.page-type.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 const SERVED_BY = namedAs(module.slug, attributesReading.slug, null)
@@ -140,13 +139,17 @@ export function attributeReadouts(root: string): ReadonlyMap<string, string> {
   return found
 }
 
-const SLUG = "slug"
+const RELATIONSHIP = "relationship"
 
-export function connectionReadout(root: string): string | null {
-  const found = readoutsServedBy(root, SERVED_BY).find(
-    (one) => textAt(one.value, SLUG) === connectionWithJenny.slug
-  )
-  return found?.path ?? null
+export function relationshipReadouts(root: string): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const { path, value } of readoutsServedBy(root, SERVED_BY)) {
+    const named = slugAt(value, RELATIONSHIP)
+    if (named === null) continue
+    const listed = listedAt(root, RELATIONSHIP, named)[0]
+    if (listed !== undefined) found.set(path, listed.id)
+  }
+  return found
 }
 
 const OFF_THE_DAY = [
@@ -155,14 +158,22 @@ const OFF_THE_DAY = [
   wisdom.slug,
   intelligence.slug,
   charisma.slug,
-  connectionWithJenny.slug,
 ] as const
 
 const NO_DAY_KEPT = "no tracking day is kept for this day, so no attribute can be read off one"
 
-async function readAttributes(now: Date = new Date()): Promise<Taken> {
+const NO_STRETCH_READ = "the tracking day carries no stretch this readout reads"
+
+type Read = Taken & { readonly keptOn: Readonly<Record<string, number>> }
+
+async function readAttributes(now: Date, connections: ReadonlyMap<string, string>): Promise<Read> {
   const kept: Record<string, number> = {}
+  const keptOn: Record<string, number> = {}
   const unread: string[] = []
+  const unreadOn = (why: string): undefined => {
+    for (const page of connections.keys()) unread.push(`${page} — ${why}`)
+    return undefined
+  }
   const keep = (attribute: string, value: number | null): undefined => {
     if (value === null) {
       unread.push(`${attribute} — the tracking day carries nothing this attribute reads`)
@@ -186,6 +197,7 @@ async function readAttributes(now: Date = new Date()): Promise<Taken> {
 
   if (day.status === "rejected") {
     for (const attribute of OFF_THE_DAY) unread.push(`${attribute} — ${saidBy(day.reason)}`)
+    unreadOn(saidBy(day.reason))
   } else if (day.value !== null) {
     const values = day.value
     keep(strength.slug, strengthIn(values))
@@ -197,19 +209,21 @@ async function readAttributes(now: Date = new Date()): Promise<Taken> {
     if (stretchesRead.status === "fulfilled") {
       const stretches = stretchesRead.value
       keep(charisma.slug, stretches === null ? null : charismaIn(stretches))
-      keep(
-        connectionWithJenny.slug,
-        stretches === null ? null : connectionIn(stretches, jenniferWalton.id)
-      )
+      for (const [page, relationship] of connections) {
+        const value = stretches === null ? null : connectionIn(stretches, relationship)
+        if (value === null) unread.push(`${page} — ${NO_STRETCH_READ}`)
+        else keptOn[page] = value
+      }
     } else {
       unread.push(`${charisma.slug} — ${saidBy(stretchesRead.reason)}`)
-      unread.push(`${connectionWithJenny.slug} — ${saidBy(stretchesRead.reason)}`)
+      unreadOn(saidBy(stretchesRead.reason))
     }
   } else {
     for (const attribute of OFF_THE_DAY) unread.push(`${attribute} — ${NO_DAY_KEPT}`)
+    unreadOn(NO_DAY_KEPT)
   }
 
-  return { kept, unread }
+  return { kept, keptOn, unread }
 }
 
 export async function takeReadings(
@@ -217,11 +231,14 @@ export async function takeReadings(
   now: Date = new Date(),
   done: string[] = []
 ): Promise<Taken> {
-  const read = await readAttributes(now)
-  const readouts = new Map(attributeReadouts(root))
-  const connection = connectionReadout(root)
-  if (connection !== null) readouts.set(connectionWithJenny.slug, connection)
+  const read = await readAttributes(now, relationshipReadouts(root))
+  const readouts = attributeReadouts(root)
   const kept: Record<string, number> = {}
+  for (const [page, value] of Object.entries(read.keptOn)) {
+    keepReading(root, page, value, now)
+    kept[page] = value
+    done.push(`${page} carries the reading taken today`)
+  }
   const unread = [...read.unread]
   for (const [attribute, value] of Object.entries(read.kept)) {
     const page = readouts.get(attribute)

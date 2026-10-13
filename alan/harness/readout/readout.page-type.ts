@@ -56,6 +56,7 @@ export const readout = {
     "multi-relation-property/served-by",
     "multi-relation-property/carried-to",
     "select-property/made-from",
+    "relation-property/readout-relationship",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -124,6 +125,7 @@ export const readout = {
       maxCount: null,
     },
     { pageProperty: "select-property/made-from", required: false, many: false },
+    { pageProperty: "relation-property/readout-relationship", required: false, many: false },
   ],
   decisions: [
     {
@@ -292,5 +294,5 @@ export const readout = {
   schema: "jsonl",
   loadedExport: ["sampler"],
   createdAt: "2026-08-30T20:05:28.032Z",
-  updatedAt: "2026-09-26T18:12:31.000Z",
+  updatedAt: "2026-10-13T13:51:16.159Z",
 } as const satisfies PageType
