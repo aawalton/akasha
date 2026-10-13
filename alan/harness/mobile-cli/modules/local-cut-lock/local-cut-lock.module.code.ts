@@ -56,6 +56,22 @@ export function formatBusyError(holder: LockRecord, nowMs: number): string {
   ].join("")
 }
 
+export function liveHolderIn(
+  raw: string | null,
+  holderAlive: (pid: number) => boolean
+): LockRecord | null {
+  const existing = raw === null ? null : parseLockRecord(raw)
+  return existing !== null && holderAlive(existing.pid) ? existing : null
+}
+
+export function localCutHolder(): LockRecord | null {
+  let raw: string | null = null
+  try {
+    raw = readFileSync(expandTilde(LOCAL_CUT_LOCK_PATH), "utf8")
+  } catch {}
+  return liveHolderIn(raw, pidAliveOrAssumeDead)
+}
+
 export function acquireLocalCutLock(nowMs: number, selfPid: number): undefined {
   const path = expandTilde(LOCAL_CUT_LOCK_PATH)
   const payload = formatLockRecord({ pid: selfPid, startedAtMs: nowMs })

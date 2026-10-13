@@ -145,6 +145,11 @@ export const deployLooping = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Every ios app has a deploy running while a live process holds the workstation's mobile cut lock.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A deploy a tick starts runs under no ceiling, since nobody is waiting on that call.",
     },
     {
@@ -168,5 +173,5 @@ export const deployLooping = {
     },
   ],
   createdAt: "2026-09-12T12:10:07.424Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-13T14:38:52.109Z",
 } as const satisfies Module

@@ -6,9 +6,11 @@ import {
   EVERY_KIND,
   endingKept,
   kindIn,
+  pastHeldCut,
   RUNTIME_MAX_SECONDS,
   SCOPE_END,
   SCOPE_LEAD,
+  saidOfHeldCut,
   saidOfNoKind,
   saidOfNothing,
   saidOfRefusedTree,
@@ -83,6 +85,20 @@ test("a tick with nothing up to date does not read like a tick with everything u
   expect(current).toContain("2 of those up to date")
   expect(stuck).toContain("0 of those up to date")
   expect(current).not.toBe(stuck)
+})
+
+test("a mobile cut a live process holds counts every ios app as having a deploy running", () => {
+  const holder = { pid: 4242, startedAtMs: NOW }
+  const every = pastHeldCut([candidate("one"), candidate("two")], holder)
+  expect(every.every((one) => one.deploying)).toBe(true)
+  expect(saidOfNothing("ios-app", every, NOW, new Map())).toContain("2 with a deploy running")
+  expect(saidOfHeldCut(holder)[0]).toContain("pid 4242")
+})
+
+test("no mobile cut held leaves every service as it was weighed", () => {
+  const every = [candidate("one")]
+  expect(pastHeldCut(every, null)).toBe(every)
+  expect(saidOfHeldCut(null)).toEqual([])
 })
 
 function showing(state: string): Running {

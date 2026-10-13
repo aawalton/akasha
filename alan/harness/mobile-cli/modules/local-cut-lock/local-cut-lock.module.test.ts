@@ -5,6 +5,7 @@ import {
   formatLockRecord,
   LOCAL_CUT_LOCK_PATH,
   type LockRecord,
+  liveHolderIn,
   parseLockRecord,
 } from "akasha/alan/harness/mobile-cli/modules/local-cut-lock/local-cut-lock.module.code.ts"
 
@@ -41,6 +42,18 @@ describe("decideLockAcquisition", () => {
 
   test("dead holder → steal (SIGKILL recovery, never wedges future cuts)", () => {
     expect(decideLockAcquisition(RECORD, false)).toEqual({ kind: "steal", deadPid: RECORD.pid })
+  })
+})
+
+describe("liveHolderIn", () => {
+  test("a lock a live process holds names that process", () => {
+    expect(liveHolderIn(formatLockRecord(RECORD), () => true)).toEqual(RECORD)
+  })
+
+  test("no lock, a dead holder, or an unreadable lock names no holder", () => {
+    expect(liveHolderIn(null, () => true)).toBeNull()
+    expect(liveHolderIn(formatLockRecord(RECORD), () => false)).toBeNull()
+    expect(liveHolderIn("{", () => true)).toBeNull()
   })
 })
 

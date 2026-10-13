@@ -1,4 +1,9 @@
 import { join } from "node:path"
+import {
+  LOCAL_CUT_LOCK_PATH,
+  type LockRecord,
+  localCutHolder,
+} from "akasha/alan/harness/mobile-cli/modules/local-cut-lock/local-cut-lock.module.code.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
@@ -112,6 +117,21 @@ export function saidOfNothing(
   return `nothing of \`${kind}\` was put up — ${counted(every.length, A_SERVICE)} weighed, ${current} of those up to date, ${cooling} waiting out a cooldown, and ${deploying} with a deploy running`
 }
 
+export function pastHeldCut(
+  every: readonly Candidate[],
+  holder: LockRecord | null
+): readonly Candidate[] {
+  if (holder === null) return every
+  return every.map((one) => ({ ...one, deploying: true }))
+}
+
+export function saidOfHeldCut(holder: LockRecord | null): readonly string[] {
+  if (holder === null) return []
+  return [
+    `a mobile cut held by pid ${holder.pid} holds ${LOCAL_CUT_LOCK_PATH}, so no ios app is started until it ends`,
+  ]
+}
+
 export function scopeLoaded(probe: Running, slug: string): boolean {
   const done = asked(probe, [SHOW, scopeFor(slug), LOAD_STATE])
   return done.out.split("\n").some((one) => one.trim() === LOADED)
@@ -169,16 +189,22 @@ export async function ticked(
   kind: Kind,
   now: number = Date.now(),
   run: Running = systemdRun,
-  probe: Running = systemctl
+  probe: Running = systemctl,
+  cutHolder: () => LockRecord | null = localCutHolder
 ): Promise<Ticked> {
   const deploying = heldNow(root)
   const commit = headOf(root)
-  const every = await candidatesIn(root, kind, deploying)
+  const holder = kind === IOS_APP ? cutHolder() : null
+  const every = pastHeldCut(await candidatesIn(root, kind, deploying), holder)
   const wanting = await wantingIn(root, kind, commit)
   const past = chosenPastLoaded(every, now, wanting.wants, probe)
   if (past.chosen === null) {
     return {
-      said: [...past.said, saidOfNothing(kind, every, now, wanting.answered)],
+      said: [
+        ...saidOfHeldCut(holder),
+        ...past.said,
+        saidOfNothing(kind, every, now, wanting.answered),
+      ],
       wrong: [],
     }
   }
