@@ -2,13 +2,11 @@ import CoreGraphics
 import Foundation
 import WidgetKit
 
-// EVERY MOMENT HERE COMES OFF THE RUN'S OWN CLOCK, BECAUSE THE CAPTION IS A WAIT.
+// EVERY MOMENT HERE COMES OFF THE RUN'S OWN CLOCK, BECAUSE THE COLOR FALLS WITH THE CLOCK.
 //
-// The cost tile's caption is an instant less the moment the tile is drawn, so an instant
-// frozen into a fixture would read differently every day and be plainly wrong by the next.
-// Each case is handed the run's `now` and states a surplus worked backward from the wait the
-// case is named for. No two runs draw the same image, which is allowed here: no blessed
-// image exists to be compared against, and a person reads what was drawn.
+// The cost tile's color is read off a surplus falling from the moment the surplus was taken,
+// so an instant frozen into a fixture would draw a different color every day. Each case is
+// handed the run's `now` and states a surplus worked backward from a wait.
 //
 // A case's name is the only thing carried from here to the file the harness writes, so each
 // name says what its picture is meant to show. Read the name, then look at the image and say
@@ -55,34 +53,14 @@ private func restingSurplus(sent: String, reading: String) -> String {
 }
 
 func costCases(now: Date) -> [RenderCase] {
-    // Half a minute past each round wait, so the seconds spent drawing the cases before this
-    // one cannot round the caption down to the width below the one the name states.
-    let underAnHour = 46.0 * 60 + 30
-    let overFiveHours = 5 * 3600 + 18.0 * 60 + 30
-    let justOverAnHour = 3600.0 + 30
-
-    return [
+    [
         RenderCase(
-            name: "cost-small-counting-46m-left", widget: "CostWidget",
+            name: "cost-small-surplus-falling-reads-cost-yellow", widget: "CostWidget",
             familySource: "systemSmall",
             body: costBody(
                 tier: "yellow", reading: "0.50",
                 coloredWith: fallingSurplus(
-                    sent: "blue", over: 4, reaching: underAnHour, at: 3, from: now))),
-        RenderCase(
-            name: "cost-small-counting-5h18m-left-widest", widget: "CostWidget",
-            familySource: "systemSmall",
-            body: costBody(
-                tier: "yellow", reading: "0.85",
-                coloredWith: fallingSurplus(
-                    sent: "blue", over: 4, reaching: overFiveHours, at: 0.75, from: now))),
-        RenderCase(
-            name: "cost-small-past-the-rung-reaims-red-1h-left", widget: "CostWidget",
-            familySource: "systemSmall",
-            body: costBody(
-                tier: "yellow", reading: "0.50",
-                coloredWith: fallingSurplus(
-                    sent: "blue", over: 0, reaching: justOverAnHour, at: 3, from: now))),
+                    sent: "blue", over: 4, reaching: 46 * 60, at: 3, from: now))),
         RenderCase(
             name: "cost-small-zero-reads-cost-green", widget: "CostWidget",
             familySource: "systemSmall",

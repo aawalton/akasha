@@ -17,32 +17,12 @@ export const renderHarnessCasesCost = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The near case is drawn to read forty-six minutes left under a yellow ring.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The wide case is drawn to read five hours eighteen minutes left.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That wait is the widest a caption draws.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A caption shrunk or truncated in the wide case is the defect that case is for.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
-        "A surplus already under a rung is drawn in red re-aimed at the rung under that rung.",
+        "A surplus falling is drawn under a yellow ring captioned with the readout's label.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A cost of nothing is drawn green and captioned with the readout's label.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A surplus that is not falling leaves the label and no countdown at all.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,5 +58,5 @@ export const renderHarnessCasesCost = {
     },
   ],
   createdAt: "2026-09-10T18:10:56.087Z",
-  updatedAt: "2026-10-13T14:49:09.606Z",
+  updatedAt: "2026-10-13T14:51:37.767Z",
 } as const satisfies IosHarness
