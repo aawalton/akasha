@@ -1,9 +1,7 @@
 import {
   type ActiveAntiquityLead,
+  antiquityLeadOfCard,
   collectActiveAntiquityLeads,
-  isActionableLead,
-  isLegendaryLead,
-  isMotifLead,
 } from "akasha/temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { taskHasCardAndPathEntry } from "akasha/temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.code.ts"
@@ -154,12 +152,6 @@ export interface AntiquityLeadEnrichment {
   readonly ungrouped: readonly string[]
 }
 
-const ANTIQUITY_LEAD_PREDICATE: Record<string, (lead: ActiveAntiquityLead) => boolean> = {
-  "antiquity-lore": isActionableLead,
-  "antiquity-leads-motifs": isMotifLead,
-  "antiquity-leads-legendary": isLegendaryLead,
-}
-
 function buildAntiquityLeadEnrichment(
   this: void,
   current: readonly ActiveAntiquityLead[],
@@ -226,7 +218,7 @@ function resolveAntiquityDigZone(this: void, antiquityId: number): string | unde
 }
 
 export function getAntiquityLeadEnrichment(cardId: string): AntiquityLeadEnrichment {
-  const predicate = ANTIQUITY_LEAD_PREDICATE[cardId]
+  const predicate = antiquityLeadOfCard(cardId)
   if (predicate === undefined) return { groups: [], ungrouped: [] }
   return buildAntiquityLeadEnrichment(
     collectActiveAntiquityLeads().filter(predicate),
@@ -236,9 +228,7 @@ export function getAntiquityLeadEnrichment(cardId: string): AntiquityLeadEnrichm
 }
 
 export function isAntiquitySessionTask(task: TaskData): boolean {
-  const cardId = task.completionCardId
-  if (cardId === undefined) return false
-  return ANTIQUITY_LEAD_PREDICATE[cardId] !== undefined
+  return antiquityLeadOfCard(task.completionCardId) !== undefined
 }
 
 function aggregateAntiquitySessionProgress(
@@ -246,17 +236,17 @@ function aggregateAntiquitySessionProgress(
   current: readonly ActiveAntiquityLead[],
   baseline: readonly ActiveAntiquityLead[]
 ): TaskProgress | undefined {
-  if (baseline.length === 0) return undefined
   const currentIds = current.map((lead) => lead.antiquityId)
-  const stillActive = baseline.filter((lead) => currentIds.includes(lead.antiquityId)).length
-  return { current: baseline.length - stillActive, total: baseline.length }
+  const dug = baseline.filter((lead) => !currentIds.includes(lead.antiquityId)).length
+  const total = dug + current.length
+  if (total === 0) return undefined
+  return { current: dug, total }
 }
 
 export function getAntiquityLeadSessionProgress(
   cardId: string | undefined
 ): TaskProgress | undefined {
-  if (cardId === undefined) return undefined
-  const predicate = ANTIQUITY_LEAD_PREDICATE[cardId]
+  const predicate = antiquityLeadOfCard(cardId)
   if (predicate === undefined) return undefined
   return aggregateAntiquitySessionProgress(
     collectActiveAntiquityLeads().filter(predicate),

@@ -83,9 +83,8 @@ export function createTaskRow(
   const progress = sessionCard
     ? getAntiquityLeadSessionProgress(task.completionCardId)
     : resolveTaskProgress(task)
-  const completed = sessionCard
-    ? progress !== undefined && progress.current > 0
-    : isTaskComplete(taskId, task) || (progress !== undefined && progress.current >= progress.total)
+  const completed =
+    isTaskComplete(taskId, task) || (progress !== undefined && progress.current >= progress.total)
 
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)

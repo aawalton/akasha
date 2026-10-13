@@ -39,15 +39,15 @@ export function collectActiveAntiquityLeads(): ActiveAntiquityLead[] {
   return leads
 }
 
-export function isMotifLead(lead: ActiveAntiquityLead): boolean {
+function isMotifLead(lead: ActiveAntiquityLead): boolean {
   return isMotifAntiquity(lead.name)
 }
 
-export function isLegendaryLead(lead: ActiveAntiquityLead): boolean {
+function isLegendaryLead(lead: ActiveAntiquityLead): boolean {
   return lead.quality === ANTIQUITY_QUALITY_GOLD || lead.quality === ANTIQUITY_QUALITY_ORANGE
 }
 
-export function isActionableLead(lead: ActiveAntiquityLead): boolean {
+function isActionableLead(lead: ActiveAntiquityLead): boolean {
   return lead.loreRemaining > 0
 }
 
