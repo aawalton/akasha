@@ -72530,7 +72530,7 @@
       "name": "Nobility in Decay",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 19,
+      "slotsUnlocked": 20,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72555,7 +72555,7 @@
         },
         {
           "name": "Nobility in Decay Pauldrons",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Nobility in Decay Robe",
@@ -72683,7 +72683,7 @@
       "name": "Soulcleaver",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Nightblade",
-      "slotsUnlocked": 26,
+      "slotsUnlocked": 27,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72700,7 +72700,7 @@
         },
         {
           "name": "Soulcleaver Epaulets",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Soulcleaver Arm Cops",
@@ -88910,6 +88910,7 @@
     11672,
     11673,
     11675,
+    11676,
     11678,
     11679,
     11680,
