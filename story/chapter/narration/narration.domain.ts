@@ -71,7 +71,7 @@ export const narration = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The audio of a narration is held in the speech workload's memory only while the narration lasts.",
+        "The audio of a narration is held by the speech workload only while the narration lasts.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -142,5 +142,5 @@ export const narration = {
     },
   ],
   createdAt: "2026-10-05T20:21:33.528Z",
-  updatedAt: "2026-10-08T19:44:53.690Z",
+  updatedAt: "2026-10-13T15:43:54.505Z",
 } as const satisfies Domain
