@@ -75952,7 +75952,7 @@
       "name": "Beacon of Oblivion",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Sorcerer",
-      "slotsUnlocked": 15,
+      "slotsUnlocked": 16,
       "totalSlots": 36,
       "pieces": [
         {
@@ -76021,7 +76021,7 @@
         },
         {
           "name": "Beacon of Oblivion Guards",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Beacon of Oblivion Greaves",
@@ -89010,6 +89010,7 @@
     11781,
     11782,
     11783,
+    11784,
     11786,
     11787,
     11788,
