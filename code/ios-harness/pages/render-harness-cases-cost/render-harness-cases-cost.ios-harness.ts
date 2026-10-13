@@ -70,6 +70,10 @@ export const renderHarnessCasesCost = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Only Alan's harness draws those timer forms.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A case naming a widget the bundle does not ship is asked for by no coverage.",
     },
     {
@@ -82,5 +86,5 @@ export const renderHarnessCasesCost = {
     },
   ],
   createdAt: "2026-09-10T18:10:56.087Z",
-  updatedAt: "2026-09-25T16:28:20.000Z",
+  updatedAt: "2026-10-13T14:31:42.383Z",
 } as const satisfies IosHarness

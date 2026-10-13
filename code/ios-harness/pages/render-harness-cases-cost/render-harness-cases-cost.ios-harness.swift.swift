@@ -105,6 +105,7 @@ func costCases(now: Date) -> [RenderCase] {
     // A case's name says which form drew it, so one wait's pair reads together:
     // `cost-small-counting-46m-left` above and `cost-small-timer-no-hours-46m-left` here are
     // one payload written two ways. The form here is the timer asked for no hours.
+    #if HARNESS_ALANWALTON
     let waits: [(name: String, reading: String, rung: Double, seconds: Double, rate: Double)] = [
         (name: "46m-left", reading: "0.50", rung: 4, seconds: underAnHour, rate: 3),
         (name: "5h18m-left-widest", reading: "0.85", rung: 4, seconds: overFiveHours, rate: 0.75),
@@ -126,6 +127,7 @@ func costCases(now: Date) -> [RenderCase] {
                             from: now))))
         }
     }
+    #endif
 
     return all
 }
