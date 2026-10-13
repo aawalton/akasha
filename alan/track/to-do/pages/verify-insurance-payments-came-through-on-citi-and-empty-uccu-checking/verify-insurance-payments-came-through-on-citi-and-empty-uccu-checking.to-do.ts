@@ -10,8 +10,6 @@ export const verifyInsurancePaymentsCameThroughOnCitiAndEmptyUccuChecking = {
   priority: "p3",
   toDoSortOrder: 58,
   toDoValue: "value/wealth",
-  toDoLastCompletedAt: "2026-10-13T13:42:26.735Z",
-  toDoCompletedAt: "2026-10-13T13:42:26.735Z",
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-13T13:42:27.216Z",
+  updatedAt: "2026-10-13T13:43:06.655Z",
 } as const satisfies ToDo
