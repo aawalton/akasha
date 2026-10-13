@@ -20,5 +20,6 @@ export const catGirlEvolution0176173TheFirstEventsAftermath = {
     },
   ],
   createdAt: "2026-10-12T13:07:49.241Z",
-  updatedAt: "2026-10-12T13:07:49.241Z",
+  updatedAt: "2026-10-13T03:08:54.404Z",
+  ownProgress: 2248,
 } as const satisfies StoryChapterRead
