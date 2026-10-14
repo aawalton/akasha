@@ -26,6 +26,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps the effect text and the stacks the game gives each buff now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading keeps each stat a second time as the game gives it without bonuses.",
     },
     {
@@ -50,5 +54,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-14T17:41:18.127Z",
+  updatedAt: "2026-10-14T18:04:01.284Z",
 } as const satisfies Module

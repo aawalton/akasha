@@ -26,17 +26,25 @@ const REPORTED_STATS: ReadonlyArray<readonly [string, number]> = [
   ["critical-rating-spell", STAT_SPELL_CRITICAL],
 ]
 
-type ActiveBuff = { abilityId: number; name: string; description: string }
+type ActiveBuff = {
+  abilityId: number
+  name: string
+  description: string
+  effect: string
+  stacks: number
+}
 
 function activeBuffs(): ActiveBuff[] {
   const buffs: ActiveBuff[] = []
   const count = GetNumBuffs("player")
   for (let index = 1; index <= count; index++) {
-    const [name, , , , , , , , , , abilityId] = GetUnitBuffInfo("player", index)
+    const [name, , , buffSlot, stacks, , , , , , abilityId] = GetUnitBuffInfo("player", index)
     buffs.push({
       abilityId,
       name: zo_strformat("<<1>>", name),
       description: GetAbilityDescription(abilityId, undefined, "player"),
+      effect: GetAbilityEffectDescription(buffSlot),
+      stacks,
     })
   }
   return buffs
