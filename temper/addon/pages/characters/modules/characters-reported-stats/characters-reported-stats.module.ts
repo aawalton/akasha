@@ -32,7 +32,11 @@ export const charactersReportedStats = {
       decisionKind: "decision-kind/departure",
       statement: "A reading keeps the bonus the game says each champion star gives now.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading keeps each worn piece's link, armor and enchantment text.",
+    },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-14T15:18:27.960Z",
+  updatedAt: "2026-10-14T15:41:19.711Z",
 } as const satisfies Module

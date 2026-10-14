@@ -149,12 +149,20 @@ const championStarSchema = z.strictObject({
   bonus: z.string().optional(),
 })
 
+const wornPieceSchema = z.strictObject({
+  slot: z.number(),
+  link: z.string(),
+  armor: z.number(),
+  enchant: z.string(),
+})
+
 const reportedStatsReadingSchema = z.strictObject({
   capturedAt: z.number(),
   inCombat: z.boolean(),
   stats: z.record(z.string(), z.number()),
   activeBuffs: luaArrayOrEmpty(activeBuffSchema).optional(),
   championPoints: luaArrayOrEmpty(championStarSchema).optional(),
+  worn: luaArrayOrEmpty(wornPieceSchema).optional(),
   buffs: numbers.optional(),
 })
 

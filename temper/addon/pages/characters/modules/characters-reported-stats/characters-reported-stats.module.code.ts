@@ -5,6 +5,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
 const REPORTED_STATS: ReadonlyArray<readonly [string, number]> = [
   ["health-maximum", STAT_HEALTH_MAX],
@@ -58,6 +59,20 @@ function championPoints(): StarSpent[] {
   return stars
 }
 
+type WornPiece = { slot: number; link: string; armor: number; enchant: string }
+
+function worn(): WornPiece[] {
+  const pieces: WornPiece[] = []
+  const size = GetBagSize(BAG_WORN)
+  for (let slot = 0; slot < size; slot++) {
+    const link = GetItemLink(BAG_WORN, slot)
+    if (link === "") continue
+    const [, , enchant] = GetItemLinkEnchantInfo(link)
+    pieces.push({ slot, link, armor: GetItemLinkArmorRating(link, false), enchant })
+  }
+  return pieces
+}
+
 export function captureReportedStats(): undefined {
   const charEntry = currentCharacterEntry()
   if (charEntry === undefined) return
@@ -74,6 +89,7 @@ export function captureReportedStats(): undefined {
     stats,
     activeBuffs: activeBuffs(),
     championPoints: championPoints(),
+    worn: worn(),
   }
 
   const reported = charEntry.reportedStats ?? {}
