@@ -121,7 +121,8 @@ export function createMundusSource(
     return {
       metricId: effect.metricId,
       effectType: effect.effectType,
-      effectValue: calculateDivinesValue(baseValue, armorItems),
+      effectValue:
+        effect.effectType === "integer" ? calculateDivinesValue(baseValue, armorItems) : baseValue,
     } satisfies MundusMetricEffect
   })
 
