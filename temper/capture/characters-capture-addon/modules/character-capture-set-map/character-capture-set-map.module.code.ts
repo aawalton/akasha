@@ -1,9 +1,12 @@
-import { SET_ESO_ID_TO_INDEX_00 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-set-index-00/character-capture-set-index-00.module.code.ts"
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { temperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.ts"
+import type { TemperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.types.ts"
 
-const SET_ESO_ID_TO_INDEX: Record<number, number> = {
-  ...SET_ESO_ID_TO_INDEX_00,
+const SET_PLACES: { [esoSetId: number]: number | undefined } = {}
+for (const one of $pagesOfType<Pick<TemperSet, "esoSetId" | "hashPlace">>(temperSet)) {
+  if (one.esoSetId !== 0) SET_PLACES[one.esoSetId] = one.hashPlace
 }
 
 export function getSetIndex(esoSetId: number): number {
-  return SET_ESO_ID_TO_INDEX[esoSetId] ?? 0
+  return SET_PLACES[esoSetId] ?? 0
 }

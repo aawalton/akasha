@@ -27,7 +27,6 @@ export const temperCharactersCaptureAddon = {
     "module/character-capture-race-map",
     "module/character-capture-scribing",
     "module/character-capture-scribing-map",
-    "module/character-capture-set-index-00",
     "module/character-capture-set-map",
 
     "module/character-capture-skill-line-groups",
@@ -49,7 +48,7 @@ export const temperCharactersCaptureAddon = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Skill and skill line places, ranks and morphs are read from their pages as the add-on compiles.",
+        "Set, skill and skill line places, ranks and morphs are read from their pages as the add-on compiles.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -57,5 +56,5 @@ export const temperCharactersCaptureAddon = {
     },
   ],
   createdAt: "2026-09-02T09:20:17.185Z",
-  updatedAt: "2026-09-27T01:02:57.000Z",
+  updatedAt: "2026-10-14T13:38:45.534Z",
 } as const satisfies Domain
