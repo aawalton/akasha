@@ -28349,24 +28349,24 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1791989614,
+      "capturedAt": 1791989895,
       "inCombat": true,
       "stats": {
-        "stamina-maximum": 26636,
+        "power-weapon": 4253,
+        "penetration-physical": 7750,
         "magicka-maximum": 20026,
-        "resistance-spell": 33108,
-        "health-maximum": 32651,
-        "critical-rating-spell": 6006,
+        "penetration-spell": 7750,
+        "resistance-physical": 32382,
+        "stamina-recovery": 729,
+        "stamina-maximum": 26636,
+        "power-spell": 4253,
+        "magicka-recovery": 535,
         "resistance-critical": 1320,
         "critical-rating-weapon": 6006,
-        "power-spell": 4850,
-        "resistance-physical": 32382,
-        "power-weapon": 4850,
-        "health-recovery": 0,
-        "magicka-recovery": 535,
-        "stamina-recovery": 892,
-        "penetration-spell": 7750,
-        "penetration-physical": 7750
+        "critical-rating-spell": 6006,
+        "resistance-spell": 33108,
+        "health-maximum": 32651,
+        "health-recovery": 0
       },
       "activeBuffs": [
         {
@@ -28406,66 +28406,50 @@
           "name": "Landslide"
         },
         {
-          "abilityId": 262658,
-          "name": "Power Lash"
+          "abilityId": 61662,
+          "name": "Minor Brutality"
         },
         {
-          "abilityId": 21230,
-          "name": "Berserker"
+          "abilityId": 61665,
+          "name": "Major Brutality"
         },
         {
           "abilityId": 258666,
           "name": "Igneous Weapons"
         },
         {
-          "abilityId": 99789,
-          "name": "Merciless Charge"
+          "abilityId": 262658,
+          "name": "Power Lash"
         },
         {
-          "abilityId": 61662,
-          "name": "Minor Brutality"
-        },
-        {
-          "abilityId": 61708,
-          "name": "Minor Heroism"
+          "abilityId": 38763,
+          "name": "Brawler"
         },
         {
           "abilityId": 45450,
           "name": "Battle Rush"
-        },
-        {
-          "abilityId": 61665,
-          "name": "Major Brutality"
-        },
-        {
-          "abilityId": 61705,
-          "name": "Major Endurance"
-        },
-        {
-          "abilityId": 61697,
-          "name": "Minor Fortitude"
         }
       ]
     },
     "backBar": {
-      "capturedAt": 1791989603,
+      "capturedAt": 1791989862,
       "inCombat": true,
       "stats": {
-        "stamina-maximum": 26636,
+        "power-weapon": 3856,
+        "penetration-physical": 5966,
         "magicka-maximum": 20026,
-        "resistance-spell": 33108,
-        "health-maximum": 32651,
-        "critical-rating-spell": 6006,
+        "penetration-spell": 5966,
+        "resistance-physical": 32382,
+        "stamina-recovery": 566,
+        "stamina-maximum": 26636,
+        "power-spell": 3856,
+        "magicka-recovery": 535,
         "resistance-critical": 1320,
         "critical-rating-weapon": 6006,
-        "power-spell": 5386,
-        "resistance-physical": 32382,
-        "power-weapon": 5386,
-        "health-recovery": 0,
-        "magicka-recovery": 691,
-        "stamina-recovery": 930,
-        "penetration-spell": 5966,
-        "penetration-physical": 5966
+        "critical-rating-spell": 6006,
+        "resistance-spell": 33108,
+        "health-maximum": 32651,
+        "health-recovery": 0
       },
       "activeBuffs": [
         {
@@ -28505,56 +28489,8 @@
           "name": "Landslide"
         },
         {
-          "abilityId": 262658,
-          "name": "Power Lash"
-        },
-        {
-          "abilityId": 92918,
-          "name": "Whispers of the Defiled"
-        },
-        {
-          "abilityId": 258666,
-          "name": "Igneous Weapons"
-        },
-        {
-          "abilityId": 99789,
-          "name": "Merciless Charge"
-        },
-        {
-          "abilityId": 32853,
-          "name": "Incinerate"
-        },
-        {
-          "abilityId": 61708,
-          "name": "Minor Heroism"
-        },
-        {
-          "abilityId": 32948,
-          "name": "Standard of Might"
-        },
-        {
-          "abilityId": 61665,
-          "name": "Major Brutality"
-        },
-        {
-          "abilityId": 61705,
-          "name": "Major Endurance"
-        },
-        {
-          "abilityId": 92973,
-          "name": "Chill of the Grave"
-        },
-        {
-          "abilityId": 61697,
-          "name": "Minor Fortitude"
-        },
-        {
-          "abilityId": 61662,
-          "name": "Minor Brutality"
-        },
-        {
-          "abilityId": 28301,
-          "name": "Crowd Control Immunity"
+          "abilityId": 135190,
+          "name": "Strike from the Shadows"
         }
       ]
     }
