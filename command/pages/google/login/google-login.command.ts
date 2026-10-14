@@ -5,7 +5,7 @@ export const googleLogin = {
   type: "page-type/command",
   slug: "google-login",
   definition:
-    "the command granting the consent Google is reached as Alan on, for calendar, drive and mail",
+    "the command granting the consent Google is reached as Alan on, for calendar, drive, mail and sheets",
   code: "ts",
   test: "ts",
   decisions: [
@@ -23,11 +23,12 @@ export const googleLogin = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The scopes asked for are every scope calendar, drive and mail read between them.",
+      statement:
+        "The scopes asked for are every scope calendar, drive, mail and sheets read between them.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "One token is minted, and calendar, drive and mail all read that token.",
+      statement: "One token is minted, and calendar, drive, mail and sheets all read that token.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -50,5 +51,5 @@ export const googleLogin = {
   name: "login",
   arguments: [{ argument: "argument/callback-url" }],
   createdAt: "2026-09-10T19:41:27.112Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-14T13:54:25.132Z",
 } as const satisfies Command

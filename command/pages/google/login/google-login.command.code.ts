@@ -4,6 +4,7 @@ import { GMAIL_SCOPES } from "akasha/alan/google/email/modules/gmail-credentials
 import { readGoogleOauthAppCredentials } from "akasha/alan/google/oauth/modules/oauth-app-credentials/oauth-app-credentials.module.code.ts"
 import { googleOauthConsentSaying } from "akasha/alan/google/oauth/modules/oauth-consent/oauth-consent.module.code.ts"
 import { SHARED_TOKEN_VAR } from "akasha/alan/google/oauth/modules/oauth-refresh-token/oauth-refresh-token.module.code.ts"
+import { SHEETS_SCOPES } from "akasha/alan/google/sheets/modules/sheets-credentials/sheets-credentials.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { callbackUrl } from "akasha/command/argument/pages/callback-url.argument.ts"
 import {
@@ -15,7 +16,12 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { googleLogin as page } from "akasha/command/pages/google/login/google-login.command.ts"
 
-const SCOPES: readonly string[] = [CALENDAR_OAUTH_SCOPE, ...DRIVE_SCOPES, ...GMAIL_SCOPES]
+const SCOPES: readonly string[] = [
+  CALENDAR_OAUTH_SCOPE,
+  ...DRIVE_SCOPES,
+  ...GMAIL_SCOPES,
+  ...SHEETS_SCOPES,
+]
 
 export function googleLogin(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [callbackUrl])
