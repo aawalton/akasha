@@ -52597,7 +52597,7 @@
       "name": "Draugr's Rest",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 18,
+      "slotsUnlocked": 19,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52638,7 +52638,7 @@
         },
         {
           "name": "Draugr's Rest Dagger",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Draugr's Rest Axe",
@@ -52694,7 +52694,7 @@
       "name": "Pillar of Nirn",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 14,
+      "slotsUnlocked": 15,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52767,7 +52767,7 @@
         },
         {
           "name": "Pillar Of Nirn Restoration Staff",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Pillar Of Nirn Inferno Staff",
