@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHNIDAQABhxAkHHvtQl77QMmC1DJgtIyYLQMmC0DJgtEECrRBsPUQQKtJhEx2xEEx1sUaAhWmKMPDCeiaUADBaCxsAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM8EBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
+  "buildHash": "ATQHNIFAQABhxAkHHvtQl77QMmC1DJgtIyYLQMmC0DJgtEECrRBsPUQQKtJhEx2xEEx1sUaAhWmKMPDCeiaUADBaCxsAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM8EBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -28349,60 +28349,89 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1791987298,
+      "capturedAt": 1791987636,
       "inCombat": false,
       "stats": {
-        "resistance-physical": 23751,
+        "health-recovery": 829,
+        "critical-rating-spell": 6006,
+        "resistance-physical": 19512,
         "power-spell": 3351,
         "power-weapon": 3351,
-        "magicka-maximum": 15138,
         "resistance-critical": 1320,
-        "health-recovery": 829,
-        "stamina-recovery": 953,
-        "critical-rating-spell": 6006,
-        "magicka-recovery": 586,
-        "penetration-spell": 9376,
-        "resistance-spell": 24477,
-        "stamina-maximum": 22380,
         "critical-rating-weapon": 6006,
-        "health-maximum": 39473,
-        "penetration-physical": 9376
+        "penetration-spell": 9376,
+        "stamina-recovery": 953,
+        "magicka-maximum": 15138,
+        "magicka-recovery": 586,
+        "penetration-physical": 9376,
+        "health-maximum": 43393,
+        "resistance-spell": 20238,
+        "stamina-maximum": 22380
       },
-      "buffs": [
-        43752,
-        107789,
-        140699,
-        63569,
-        13976,
-        61667
+      "activeBuffs": [
+        {
+          "abilityId": 61667,
+          "name": "Major Savagery"
+        },
+        {
+          "abilityId": 107789,
+          "name": "Artaeum Takeaway Broth"
+        },
+        {
+          "abilityId": 140699,
+          "name": "Minor Timidity"
+        },
+        {
+          "abilityId": 63569,
+          "name": "Gallop"
+        },
+        {
+          "abilityId": 13978,
+          "name": "Boon: The Lord"
+        }
       ]
     },
     "backBar": {
-      "capturedAt": 1791987439,
+      "capturedAt": 1791987637,
       "inCombat": false,
       "stats": {
-        "resistance-physical": 23751,
+        "health-recovery": 829,
+        "critical-rating-spell": 6006,
+        "resistance-physical": 19512,
         "power-spell": 3619,
         "power-weapon": 3619,
-        "magicka-maximum": 15138,
         "resistance-critical": 1320,
-        "health-recovery": 829,
-        "stamina-recovery": 953,
-        "critical-rating-spell": 6006,
-        "magicka-recovery": 535,
-        "penetration-spell": 4316,
-        "resistance-spell": 24477,
-        "stamina-maximum": 22380,
         "critical-rating-weapon": 6006,
-        "health-maximum": 39473,
-        "penetration-physical": 4316
+        "penetration-spell": 4316,
+        "stamina-recovery": 953,
+        "magicka-maximum": 15138,
+        "magicka-recovery": 535,
+        "penetration-physical": 4316,
+        "health-maximum": 43393,
+        "resistance-spell": 20238,
+        "stamina-maximum": 22380
       },
-      "buffs": [
-        61667,
-        107789,
-        140699,
-        63569,
-        13976
+      "activeBuffs": [
+        {
+          "abilityId": 61667,
+          "name": "Major Savagery"
+        },
+        {
+          "abilityId": 107789,
+          "name": "Artaeum Takeaway Broth"
+        },
+        {
+          "abilityId": 140699,
+          "name": "Minor Timidity"
+        },
+        {
+          "abilityId": 63569,
+          "name": "Gallop"
+        },
+        {
+          "abilityId": 13978,
+          "name": "Boon: The Lord"
+        }
       ]
     }
   }
