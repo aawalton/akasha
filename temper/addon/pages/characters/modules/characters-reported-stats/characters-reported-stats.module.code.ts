@@ -44,7 +44,13 @@ function activeBuffs(): ActiveBuff[] {
 
 const CHAMPION_DISCIPLINES = 3
 
-type StarSpent = { championSkillId: number; points: number; maxPoints: number; bonus: string }
+type StarSpent = {
+  championSkillId: number
+  points: number
+  maxPoints: number
+  bonus: string
+  slottable: boolean
+}
 
 function championPoints(): StarSpent[] {
   const stars: StarSpent[] = []
@@ -59,6 +65,7 @@ function championPoints(): StarSpent[] {
           points,
           maxPoints: GetChampionSkillMaxPoints(championSkillId),
           bonus: GetChampionSkillCurrentBonusText(championSkillId, points),
+          slottable: CanChampionSkillTypeBeSlotted(GetChampionSkillType(championSkillId)),
         })
       }
     }
