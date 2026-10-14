@@ -52597,7 +52597,7 @@
       "name": "Draugr's Rest",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 21,
+      "slotsUnlocked": 22,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52654,7 +52654,7 @@
         },
         {
           "name": "Draugr's Rest Battle Axe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Draugr's Rest Maul",
@@ -52694,7 +52694,7 @@
       "name": "Pillar of Nirn",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 16,
+      "slotsUnlocked": 17,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52751,7 +52751,7 @@
         },
         {
           "name": "Pillar Of Nirn Battle Axe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Pillar Of Nirn Maul",
