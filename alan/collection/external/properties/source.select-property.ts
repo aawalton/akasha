@@ -19,6 +19,8 @@ export const source = {
     "wikipedia",
     "wizarding-world",
     "project-euler",
+    "netflix",
+    "prime-video",
   ],
   decisions: [
     {
@@ -28,5 +30,5 @@ export const source = {
   ],
   types: "ts",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-22T14:08:21.000Z",
+  updatedAt: "2026-10-14T18:58:02.294Z",
 } as const satisfies SelectProperty
