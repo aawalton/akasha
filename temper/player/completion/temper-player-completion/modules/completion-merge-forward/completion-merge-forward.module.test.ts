@@ -21,6 +21,9 @@ import {
   pairArb,
   RAFAEMA_LIST_23_BEFORE,
   RAFAEMA_LIST_23_LIVE,
+  reportedStatsReading,
+  SET_WITH_BOOTS,
+  SET_WITH_HELM,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.test-fixtures.ts"
 import fc from "fast-check"
 
@@ -247,6 +250,15 @@ describe("merging a character forward where a nested field takes the fresh readi
     const merged = mergeCharacterCompletionForward(existing, incoming)
     expect(merged?.skillLineProgress?.[1]?.skills?.[0]?.currentMorph).toBe(1)
   })
+
+  test("a bar's reported stats take the fresh reading whole, and a bar it lacks is kept", () => {
+    const r = reportedStatsReading
+    const merged = mergeCharacterCompletionForward(
+      { reportedStats: { frontBar: r(2, 9), backBar: r(1, 8) } },
+      { reportedStats: { frontBar: r(3, 5) } }
+    )
+    expect(merged?.reportedStats).toEqual({ frontBar: r(3, 5), backBar: r(1, 8) })
+  })
 })
 
 describe("merging an account forward", () => {
@@ -340,28 +352,11 @@ describe("a merged reading is one its record's schema reads", () => {
   test("an account merged forward reads back through the account schema unchanged", () => {
     const existing = accountCompletionSchema.parse({
       achievements: {},
-      itemSets: {
-        7: {
-          name: "Set",
-          slotsUnlocked: 1,
-          totalSlots: 2,
-          pieces: [{ name: "Helm", unlocked: true }],
-        },
-      },
+      itemSets: { 7: SET_WITH_HELM },
     })
     const incoming = accountCompletionSchema.parse({
       achievements: {},
-      itemSets: {
-        7: {
-          name: "Set",
-          slotsUnlocked: 0,
-          totalSlots: 2,
-          pieces: [
-            { name: "Helm", unlocked: false },
-            { name: "Boots", unlocked: true },
-          ],
-        },
-      },
+      itemSets: { 7: SET_WITH_BOOTS },
     })
     const merged = mergeAccountCompletionForward(existing, incoming)
     expect(merged).toEqual(accountCompletionSchema.parse(merged))

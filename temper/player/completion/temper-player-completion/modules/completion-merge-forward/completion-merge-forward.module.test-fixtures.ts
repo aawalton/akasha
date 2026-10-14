@@ -102,6 +102,27 @@ export const RAFAEMA_LIST_23_LIVE = [
   219737,
 ]
 
+export function reportedStatsReading(capturedAt: number, armor: number) {
+  return { capturedAt, inCombat: false, stats: { armor }, buffs: [capturedAt] }
+}
+
+export const SET_WITH_HELM = {
+  name: "Set",
+  slotsUnlocked: 1,
+  totalSlots: 2,
+  pieces: [{ name: "Helm", unlocked: true }],
+}
+
+export const SET_WITH_BOOTS = {
+  name: "Set",
+  slotsUnlocked: 0,
+  totalSlots: 2,
+  pieces: [
+    { name: "Helm", unlocked: false },
+    { name: "Boots", unlocked: true },
+  ],
+}
+
 export function heldIds(list: unknown): readonly number[] {
   if (!Array.isArray(list)) return []
   return list.filter((entry): entry is number => typeof entry === "number")
