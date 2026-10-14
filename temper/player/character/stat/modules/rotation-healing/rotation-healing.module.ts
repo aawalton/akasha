@@ -21,6 +21,11 @@ export const rotationHealing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A skill whose effect has no duration comes after every skill whose effect has one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Where no skill can be cast, the global cooldown goes to a light attack that heals none.",
     },
     {
@@ -42,5 +47,5 @@ export const rotationHealing = {
     },
   ],
   createdAt: "2026-10-14T20:33:53.850Z",
-  updatedAt: "2026-10-14T20:33:53.850Z",
+  updatedAt: "2026-10-14T21:43:05.449Z",
 } as const satisfies Module

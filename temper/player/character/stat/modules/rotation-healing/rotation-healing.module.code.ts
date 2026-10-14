@@ -48,12 +48,12 @@ export function healingOverRotation(
   const readyAt = skills.map(() => 0)
   const casts = skills.map(() => 0)
   const healed = skills.map(() => 0)
+  const lasting = (at: number): number => ((skills[at]?.durationMs ?? 0) > 0 ? 0 : 1)
+  const queue = [...skills.keys()].sort((one, two) => lasting(one) - lasting(two))
   let lightAttacks = 0
   let now = 0
   while (now < fightSeconds) {
-    const next = skills.findIndex(
-      (_, at) => (runsUntil[at] ?? 0) <= now && (readyAt[at] ?? 0) <= now
-    )
+    const next = queue.find((at) => (runsUntil[at] ?? 0) <= now && (readyAt[at] ?? 0) <= now) ?? -1
     const skill = skills[next]
     if (skill === undefined) {
       lightAttacks += 1

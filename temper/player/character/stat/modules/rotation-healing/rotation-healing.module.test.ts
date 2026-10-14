@@ -40,9 +40,12 @@ test("a skill whose effect runs is cast again only once it runs out, and later o
   expect(healed.lightAttacks).toBe(0)
 })
 
-test("a skill with no duration ahead in bar order is cast every time, so later skills never are", () => {
+test("a skill with no duration waits behind every skill with one, wherever it sits on the bar", () => {
   const healed = healingOverRotation([LASH, EMBERS], 10)
-  expect(healed.skills.map((one) => one.casts)).toEqual([10, 0])
+  expect(healed.skills).toEqual([
+    { name: "Flame Lash", casts: 9, healing: 9 * 2514 },
+    { name: "Burning Embers", casts: 1, healing: 4291 + 5 * 644 },
+  ])
 })
 
 test("where nothing can be cast, the global cooldown goes to a light attack", () => {
