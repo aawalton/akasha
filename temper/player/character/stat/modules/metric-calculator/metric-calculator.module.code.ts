@@ -1,6 +1,7 @@
 import { indexBy } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { buffOrDebuff } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import { isMetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import { topologicalSort } from "akasha/temper/player/character/formula-framework/modules/topological-sort/topological-sort.module.code.ts"
@@ -146,10 +147,37 @@ function calculateMetricValues(sources: readonly EffectSource[]): CalculationRes
   }
 }
 
+type StarPoints = {
+  readonly championSkillId: number
+  readonly points: number
+  readonly maxPoints: number
+}
+
+function asSpent(
+  source: EffectSource,
+  spent: ReadonlyMap<number, StarPoints>
+): EffectSource | undefined {
+  if (source.categoryId !== "champion-points") return source
+  if (!("esoChampionSkillId" in source) || typeof source.esoChampionSkillId !== "number") {
+    return source
+  }
+  const star = spent.get(source.esoChampionSkillId)
+  if (star === undefined) return undefined
+  const share = star.points / star.maxPoints
+  const effects = source.effects.map((effect) =>
+    isMetricEffect(effect) &&
+    (effect.effectType === "integer" || effect.effectType === "fractional-change")
+      ? { ...effect, effectValue: effect.effectValue * share }
+      : effect
+  )
+  return { ...source, effects } as EffectSource
+}
+
 export function calculateReadingStatsByBar(
   build: CharacterState,
   bar: "primary-weapon-bar" | "backup-weapon-bar",
-  listed: readonly { readonly abilityId: number; readonly name: string }[]
+  listed: readonly { readonly abilityId: number; readonly name: string }[],
+  stars?: readonly StarPoints[]
 ): CalculationResult & { unmatchedBuffNames: readonly string[] } {
   const buffByName = new Map<string, EffectSource>()
   for (const buff of Object.values(buffOrDebuff().data)) buffByName.set(buff.name, buff)
@@ -177,11 +205,11 @@ export function calculateReadingStatsByBar(
     character: { ...build.character, mundusStone },
     consumables: { ...build.consumables, foodOrDrink: foodOrDrinkId },
   }
-  const sources: EffectSource[] = [
-    baseSource(),
-    ...buildStateToEffectSources(asListed, bar),
-    ...activeBuffs,
-  ]
+  const spent = new Map((stars ?? []).map((star) => [star.championSkillId, star] as const))
+  const fromBuild = buildStateToEffectSources(asListed, bar)
+  const built =
+    stars === undefined ? fromBuild : fromBuild.flatMap((source) => asSpent(source, spent) ?? [])
+  const sources: EffectSource[] = [baseSource(), ...built, ...activeBuffs]
   return { sources, metrics: calculateBaseStats(sources), unmatchedBuffNames }
 }
 

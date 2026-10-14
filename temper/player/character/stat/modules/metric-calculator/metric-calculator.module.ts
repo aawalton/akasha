@@ -30,7 +30,12 @@ export const metricCalculator = {
       decisionKind: "decision-kind/departure",
       statement: "A buff the game listed that no buff page names is told rather than dropped.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A champion star in a reading counts in the share of its most points the reading spent.",
+    },
   ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-10-14T14:22:44.213Z",
+  updatedAt: "2026-10-14T15:14:29.448Z",
 } as const satisfies Module
