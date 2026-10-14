@@ -114,7 +114,7 @@ function resolveArmorPieceScalingEffect(
     return null
   }
 
-  const finalValue = effect.valuePerPiece * pieceCount
+  const finalValue = effect.valuePerPiece * (effect.perPiece === false ? 1 : pieceCount)
 
   return {
     metricId: effect.metricId,

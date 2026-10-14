@@ -154,6 +154,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/skill/slot/properties/holds-ultimate.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/thing/properties/available.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/thing/properties/is-two-handed.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/thing/properties/per-piece.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/thing/properties/per-weapon.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/properties/dormant.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/world/temper-source-category/properties/worn-gear.boolean-property.ts","typed":true,"deferred":false}

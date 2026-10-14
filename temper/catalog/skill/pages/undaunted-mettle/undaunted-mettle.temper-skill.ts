@@ -18,9 +18,9 @@ export const undauntedMettle = {
   rank: 2,
   skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/passive",
-  status: "unsupported",
+  status: "supported",
   effects: "jsonl",
   hashPlace: 1379,
   createdAt: "2026-05-26T02:59:07.689Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-14T15:08:29.911Z",
 } as const satisfies TemperSkill

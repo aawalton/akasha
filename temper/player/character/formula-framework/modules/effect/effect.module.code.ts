@@ -59,6 +59,7 @@ export type ArmorPieceScalingEffect = {
   armorWeight: string
   valuePerPiece: number
   valueType: "integer" | "fractional-change"
+  perPiece?: boolean
 }
 
 export type SlottedAbilityScalingEffect = {

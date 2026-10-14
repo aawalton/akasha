@@ -7,6 +7,7 @@ import type { EffectMetric } from "akasha/temper/catalog/thing/properties/effect
 import type { EffectSeconds } from "akasha/temper/catalog/thing/properties/effect-seconds.number-property.types.ts"
 import type { EffectType } from "akasha/temper/catalog/thing/properties/effect-type.text-property.types.ts"
 import type { EffectWeaponTypes } from "akasha/temper/catalog/thing/properties/effect-weapon-types.text-property.types.ts"
+import type { PerPiece } from "akasha/temper/catalog/thing/properties/per-piece.boolean-property.types.ts"
 import type { PerWeapon } from "akasha/temper/catalog/thing/properties/per-weapon.boolean-property.types.ts"
 import type { SkillLine } from "akasha/temper/catalog/thing/properties/skill-line.relation-property.types.ts"
 import type { SlottedBehavior } from "akasha/temper/catalog/thing/properties/slotted-behavior.select-property.types.ts"
@@ -32,4 +33,5 @@ export type EffectsRow = {
   skillLineId?: SkillLine
   weaponTypes?: EffectWeaponTypes
   perWeapon?: PerWeapon
+  perPiece?: PerPiece
 }

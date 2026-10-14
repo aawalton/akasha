@@ -30,6 +30,7 @@ export const temperCatalogThing = {
     "select-property/slotted-behavior",
     "text-property/value-type",
     "relation-property/skill-line",
+    "boolean-property/per-piece",
   ],
   properties: [
     { pageProperty: "text-property/effect", required: false, many: false },
@@ -50,5 +51,5 @@ export const temperCatalogThing = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:16:20.586Z",
-  updatedAt: "2026-09-26T18:21:10.000Z",
+  updatedAt: "2026-10-14T15:08:29.911Z",
 } as const satisfies PageType

@@ -26,6 +26,7 @@ export const effects = {
       maxCount: null,
     },
     { pageProperty: "boolean-property/per-weapon", required: false, many: false },
+    { pageProperty: "boolean-property/per-piece", required: false, many: false },
   ],
   decisions: [
     {
@@ -44,5 +45,5 @@ export const effects = {
   ],
   types: "ts",
   createdAt: "2026-09-02T01:16:20.587Z",
-  updatedAt: "2026-09-24T15:15:21.000Z",
+  updatedAt: "2026-10-14T15:08:29.911Z",
 } as const satisfies PagePropertyEntry
