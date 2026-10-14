@@ -142,11 +142,18 @@ const cadwellProgressSchema = z.strictObject({
 
 const activeBuffSchema = z.strictObject({ abilityId: z.number(), name: z.string() })
 
+const championStarSchema = z.strictObject({
+  championSkillId: z.number(),
+  points: z.number(),
+  maxPoints: z.number(),
+})
+
 const reportedStatsReadingSchema = z.strictObject({
   capturedAt: z.number(),
   inCombat: z.boolean(),
   stats: z.record(z.string(), z.number()),
   activeBuffs: luaArrayOrEmpty(activeBuffSchema).optional(),
+  championPoints: luaArrayOrEmpty(championStarSchema).optional(),
   buffs: numbers.optional(),
 })
 

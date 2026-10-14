@@ -24,7 +24,11 @@ export const charactersReportedStats = {
       decisionKind: "decision-kind/departure",
       statement: "A reading says whether the player was in combat when it was taken.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading keeps the points spent on each champion star and the most it takes.",
+    },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-14T14:12:15.336Z",
+  updatedAt: "2026-10-14T15:12:56.741Z",
 } as const satisfies Module

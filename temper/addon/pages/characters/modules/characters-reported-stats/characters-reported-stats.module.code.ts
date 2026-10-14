@@ -3,6 +3,7 @@ import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 
 const REPORTED_STATS: ReadonlyArray<readonly [string, number]> = [
@@ -33,6 +34,27 @@ function activeBuffs(): { abilityId: number; name: string }[] {
   return buffs
 }
 
+const CHAMPION_DISCIPLINES = 3
+
+function championPoints(): { championSkillId: number; points: number; maxPoints: number }[] {
+  const stars: { championSkillId: number; points: number; maxPoints: number }[] = []
+  for (let disciplineIndex = 1; disciplineIndex <= CHAMPION_DISCIPLINES; disciplineIndex++) {
+    const count = GetNumChampionDisciplineSkills(disciplineIndex)
+    for (let skillIndex = 1; skillIndex <= count; skillIndex++) {
+      const championSkillId = GetChampionSkillId(disciplineIndex, skillIndex)
+      const points = GetNumPointsSpentOnChampionSkill(championSkillId)
+      if (points > 0) {
+        stars.push({
+          championSkillId,
+          points,
+          maxPoints: GetChampionSkillMaxPoints(championSkillId),
+        })
+      }
+    }
+  }
+  return stars
+}
+
 export function captureReportedStats(): undefined {
   const charEntry = currentCharacterEntry()
   if (charEntry === undefined) return
@@ -48,6 +70,7 @@ export function captureReportedStats(): undefined {
     inCombat: IsUnitInCombat("player"),
     stats,
     activeBuffs: activeBuffs(),
+    championPoints: championPoints(),
   }
 
   const reported = charEntry.reportedStats ?? {}
