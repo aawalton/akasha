@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQINMUAAIBhxAkDE_tnAGJ_bOAMmC2cIZMFs4IyYLZwBkwWzgDJgtnAg0drchBAq25CCBVtyJHkx23KIgmOtuUUbGkBFzFaxueiaUAKnUjPWAAgjlUxFQGWrToAIAEaCICEKgZJwg8APQAjnVVrA4pUADJqBgjIhI4gQASCCc9HKRBQfolZDg8y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpN8AdkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
+  "buildHash": "ATQINMUAAIBhxAkDE_tnAGJ_bOAMmC2cIZMFs4gZMFs4AyYLZwINHa3IQQKtuQggVbciR5MdtyiIJjrblFGxpARcxWsbnomlACp1Iz1gAII5VMRUBlq06ACABGgiAhCoGScIPAD0AI51VawOKVAAyagYIyISOIEAEggnPRykQUH6JWQ4PMujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjqOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwSOGzYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TfAHZMsBBJrwyWc8TGCQGMKBCPNgusVrlMwxFzwSShEAPbzNrXtPNcPZQMgA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -28349,77 +28349,91 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792002991,
+      "capturedAt": 1792004939,
       "inCombat": false,
       "stats": {
-        "magicka-maximum": 20026,
-        "resistance-spell": 28619,
+        "resistance-spell": 27370,
+        "critical-rating-spell": 5787,
+        "stamina-maximum": 25974,
         "resistance-critical": 1320,
+        "critical-rating-weapon": 5787,
+        "power-spell": 3286,
+        "magicka-recovery": 514,
+        "power-weapon": 3286,
+        "magicka-maximum": 19489,
+        "penetration-spell": 11050,
+        "resistance-physical": 27370,
+        "penetration-physical": 11050,
         "health-recovery": 0,
         "stamina-recovery": 566,
-        "power-spell": 3286,
-        "health-maximum": 32651,
-        "critical-rating-weapon": 6006,
-        "power-weapon": 3286,
-        "stamina-maximum": 26636,
-        "resistance-physical": 27893,
-        "penetration-spell": 12239,
-        "penetration-physical": 12239,
-        "critical-rating-spell": 6006,
-        "magicka-recovery": 535
+        "health-maximum": 31895
       },
       "unbonusedStats": {
-        "magicka-maximum": 20026,
         "resistance-spell": 0,
+        "critical-rating-spell": 2181,
+        "stamina-maximum": 25974,
         "resistance-critical": 0,
+        "critical-rating-weapon": 2181,
+        "power-spell": 1000,
+        "magicka-recovery": 514,
+        "power-weapon": 1000,
+        "magicka-maximum": 19489,
+        "penetration-spell": 0,
+        "resistance-physical": 0,
+        "penetration-physical": 0,
         "health-recovery": 0,
         "stamina-recovery": 566,
-        "power-spell": 1000,
-        "health-maximum": 32651,
-        "critical-rating-weapon": 2181,
-        "power-weapon": 1000,
-        "stamina-maximum": 26636,
-        "resistance-physical": 0,
-        "penetration-spell": 0,
-        "penetration-physical": 0,
-        "critical-rating-spell": 2181,
-        "magicka-recovery": 535
+        "health-maximum": 31895
       },
       "activeBuffs": [
         {
           "abilityId": 127531,
           "name": "Corrupting Bloody Mara",
-          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you."
+          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you.",
+          "effect": "Increase Max Magicka by |cffffff4620|r.\nIncrease Health Recovery by |cffffff505|r.\nIncrease Max Health by |cffffff5051|r.\n",
+          "stacks": 0
         },
         {
           "abilityId": 61694,
           "name": "Major Resolve",
-          "description": ""
+          "description": "",
+          "effect": "Increases your Physical and Spell Resistance by |cffffff5948|r.\n",
+          "stacks": 0
         },
         {
           "abilityId": 61746,
           "name": "Minor Force",
-          "description": ""
+          "description": "",
+          "effect": "Increases your Critical Damage done by |cffffff10|r%.\n",
+          "stacks": 0
         },
         {
           "abilityId": 63569,
           "name": "Gallop",
-          "description": ""
+          "description": "",
+          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
+          "stacks": 0
         },
         {
           "abilityId": 13981,
           "name": "Boon: The Lover",
-          "description": "increases Physical and Spell Penetration"
+          "description": "increases Physical and Spell Penetration",
+          "effect": "Increases your Spell and Physical Penetration by |cffffff4239|r.\n",
+          "stacks": 0
         },
         {
           "abilityId": 61667,
           "name": "Major Savagery",
-          "description": ""
+          "description": "",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "stacks": 0
         },
         {
           "abilityId": 135402,
           "name": "Vampire Stage 4",
-          "description": ""
+          "description": "",
+          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
+          "stacks": 0
         }
       ],
       "championPoints": [
@@ -28980,175 +28994,250 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:4343:0|h|h",
+          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:4033:0|h|h",
           "armor": 2425,
-          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
+          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 1,
           "link": "|H0:item:194512:364:50:45883:370:50:0:0:0:0:0:0:0:0:1:0:0:1:0:0:0|h|h",
           "armor": 0,
-          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery."
+          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
         },
         {
           "slot": 2,
-          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9862:0|h|h",
+          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9479:0|h|h",
           "armor": 2772,
-          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
+          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:2520:0|h|h",
+          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:2120:0|h|h",
           "armor": 2425,
-          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
+          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:113:0|h|h",
+          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:500:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff2014|r Magic Damage and restores |cffffff439|r Health and |cffffff177|r Magicka and Stamina."
-        },
-        {
-          "slot": 6,
-          "link": "|H0:item:215596:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:4199:0|h|h",
-          "armor": 523,
-          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
+          "enchant": "Deals |cffffff2014|r Magic Damage and restores |cffffff439|r Health and |cffffff177|r Magicka and Stamina.",
+          "trait": "Increases chance to apply status effects by |cffffff235|r%.",
+          "quality": 5
         },
         {
           "slot": 8,
-          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:2796:0|h|h",
+          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:2686:0|h|h",
           "armor": 2425,
-          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
+          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 9,
-          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:1577:0|h|h",
+          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9784:0|h|h",
           "armor": 2425,
-          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
+          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 11,
           "link": "|H0:item:69385:364:50:45883:370:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
           "armor": 0,
-          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery."
+          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
         },
         {
           "slot": 12,
           "link": "|H0:item:69385:364:50:45883:370:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
           "armor": 0,
-          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery."
+          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:1201:0|h|h",
+          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9850:0|h|h",
           "armor": 1042,
-          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
+          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:113:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:67:0|h|h",
           "armor": 0,
-          "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds."
+          "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
+          "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
+          "quality": 5
         }
       ]
     },
     "backBar": {
-      "capturedAt": 1792002925,
+      "capturedAt": 1792004872,
       "inCombat": true,
       "stats": {
-        "magicka-maximum": 20026,
         "resistance-spell": 28619,
-        "resistance-critical": 1320,
-        "health-recovery": 0,
-        "stamina-recovery": 566,
-        "power-spell": 4404,
-        "health-maximum": 32651,
-        "critical-rating-weapon": 6006,
-        "power-weapon": 4404,
-        "stamina-maximum": 26636,
-        "resistance-physical": 27893,
-        "penetration-spell": 10455,
-        "penetration-physical": 10455,
         "critical-rating-spell": 6006,
-        "magicka-recovery": 535
+        "stamina-maximum": 26636,
+        "resistance-critical": 1320,
+        "critical-rating-weapon": 6006,
+        "power-spell": 4594,
+        "magicka-recovery": 691,
+        "power-weapon": 4594,
+        "magicka-maximum": 20026,
+        "penetration-spell": 10455,
+        "resistance-physical": 27893,
+        "penetration-physical": 10455,
+        "health-recovery": 0,
+        "stamina-recovery": 1138,
+        "health-maximum": 32651
       },
       "unbonusedStats": {
-        "magicka-maximum": 20026,
         "resistance-spell": 0,
-        "resistance-critical": 0,
-        "health-recovery": 0,
-        "stamina-recovery": 566,
-        "power-spell": 1000,
-        "health-maximum": 32651,
-        "critical-rating-weapon": 2181,
-        "power-weapon": 1000,
-        "stamina-maximum": 26636,
-        "resistance-physical": 0,
-        "penetration-spell": 0,
-        "penetration-physical": 0,
         "critical-rating-spell": 2181,
-        "magicka-recovery": 535
+        "stamina-maximum": 26636,
+        "resistance-critical": 0,
+        "critical-rating-weapon": 2181,
+        "power-spell": 1000,
+        "magicka-recovery": 691,
+        "power-weapon": 1000,
+        "magicka-maximum": 20026,
+        "penetration-spell": 0,
+        "resistance-physical": 0,
+        "penetration-physical": 0,
+        "health-recovery": 0,
+        "stamina-recovery": 1138,
+        "health-maximum": 32651
       },
       "activeBuffs": [
         {
-          "abilityId": 29465,
-          "name": "Landslide",
-          "description": ""
-        },
-        {
           "abilityId": 127531,
           "name": "Corrupting Bloody Mara",
-          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you."
+          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you.",
+          "effect": "Increase Max Magicka by |cffffff4620|r.\nIncrease Health Recovery by |cffffff505|r.\nIncrease Max Health by |cffffff5051|r.\n",
+          "stacks": 0
         },
         {
           "abilityId": 61694,
           "name": "Major Resolve",
-          "description": ""
+          "description": "",
+          "effect": "Increases your Physical and Spell Resistance by |cffffff5948|r.\n",
+          "stacks": 0
         },
         {
           "abilityId": 61746,
           "name": "Minor Force",
-          "description": ""
+          "description": "",
+          "effect": "Increases your Critical Damage done by |cffffff10|r%.\n",
+          "stacks": 0
         },
         {
           "abilityId": 63569,
           "name": "Gallop",
-          "description": ""
+          "description": "",
+          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
+          "stacks": 0
         },
         {
           "abilityId": 13981,
           "name": "Boon: The Lover",
-          "description": "increases Physical and Spell Penetration"
+          "description": "increases Physical and Spell Penetration",
+          "effect": "Increases your Spell and Physical Penetration by |cffffff4489|r.\n",
+          "stacks": 0
         },
         {
           "abilityId": 61667,
           "name": "Major Savagery",
-          "description": ""
+          "description": "",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "stacks": 0
         },
         {
           "abilityId": 135402,
           "name": "Vampire Stage 4",
-          "description": ""
+          "description": "",
+          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 29465,
+          "name": "Landslide",
+          "description": "",
+          "effect": "",
+          "stacks": 12
+        },
+        {
+          "abilityId": 154927,
+          "name": "Ritual of Salvation",
+          "description": "",
+          "effect": "",
+          "stacks": 0
         },
         {
           "abilityId": 61662,
           "name": "Minor Brutality",
-          "description": ""
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 45450,
+          "name": "Battle Rush",
+          "description": "",
+          "effect": "",
+          "stacks": 0
         },
         {
           "abilityId": 262658,
           "name": "Power Lash",
-          "description": ""
+          "description": "",
+          "effect": "",
+          "stacks": 0
         },
         {
-          "abilityId": 99789,
-          "name": "Merciless Charge",
-          "description": ""
+          "abilityId": 61705,
+          "name": "Major Endurance",
+          "description": "",
+          "effect": "Increases your Stamina Recovery by |cffffff30|r%.\n",
+          "stacks": 0
         },
         {
-          "abilityId": 21230,
-          "name": "Berserker",
-          "description": "Increase your Power by for"
+          "abilityId": 134340,
+          "name": "Heat Shock",
+          "description": "",
+          "effect": "",
+          "stacks": 1
+        },
+        {
+          "abilityId": 92270,
+          "name": "Molten Earth",
+          "description": "",
+          "effect": "Snared. Your Movement Speed has been reduced.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61665,
+          "name": "Major Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 258666,
+          "name": "Igneous Weapons",
+          "description": "",
+          "effect": "",
+          "stacks": 0
         }
       ],
       "championPoints": [
@@ -29709,75 +29798,99 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:4343:0|h|h",
+          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:4033:0|h|h",
           "armor": 2425,
-          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
+          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 1,
           "link": "|H0:item:194512:364:50:45883:370:50:0:0:0:0:0:0:0:0:1:0:0:1:0:0:0|h|h",
           "armor": 0,
-          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery."
+          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
         },
         {
           "slot": 2,
-          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9862:0|h|h",
+          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9479:0|h|h",
           "armor": 2772,
-          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
+          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:2520:0|h|h",
+          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:2232:0|h|h",
           "armor": 2425,
-          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
+          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:116:0|h|h",
+          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:53:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff2426|r Magic Damage and restores |cffffff492|r Health and |cffffff177|r Magicka and Stamina."
+          "enchant": "Deals |cffffff2277|r Magic Damage and restores |cffffff492|r Health and |cffffff177|r Magicka and Stamina.",
+          "trait": "Increases chance to apply status effects by |cffffff235|r%.",
+          "quality": 5
         },
         {
           "slot": 6,
-          "link": "|H0:item:215596:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:4311:0|h|h",
+          "link": "|H0:item:215596:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:3778:0|h|h",
           "armor": 523,
-          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
+          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 8,
-          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:2796:0|h|h",
+          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:2686:0|h|h",
           "armor": 2425,
-          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
+          "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 9,
-          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:1577:0|h|h",
+          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9784:0|h|h",
           "armor": 2425,
-          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
+          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 11,
           "link": "|H0:item:69385:364:50:45883:370:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
           "armor": 0,
-          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery."
+          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
         },
         {
           "slot": 12,
           "link": "|H0:item:69385:364:50:45883:370:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
           "armor": 0,
-          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery."
+          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:1201:0|h|h",
+          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9850:0|h|h",
           "armor": 1042,
-          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
+          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:115:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:69:0|h|h",
           "armor": 0,
-          "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds."
+          "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
+          "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
+          "quality": 5
         }
       ]
     }
