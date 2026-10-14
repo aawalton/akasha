@@ -144,6 +144,8 @@ const activeBuffSchema = z.strictObject({
   abilityId: z.number(),
   name: z.string(),
   description: z.string().optional(),
+  effect: z.string().optional(),
+  stacks: z.number().optional(),
 })
 
 const championStarSchema = z.strictObject({
