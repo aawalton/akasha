@@ -7,8 +7,8 @@ export const minorBrutality = {
   title: "Minor Brutality",
   key: "minor-brutality",
   effectCategory: "damage",
-  description: "Increases Weapon Damage by 10%",
+  description: "Increases Weapon and Spell Damage by 10%",
   effects: "jsonl",
   createdAt: "2026-09-02T01:40:04.413Z",
-  updatedAt: "2026-09-26T18:25:50.000Z",
+  updatedAt: "2026-10-14T14:27:21.483Z",
 } as const satisfies TemperBuffMinor

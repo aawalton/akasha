@@ -6,8 +6,8 @@ export const minorSavagery = {
   slug: "minor-savagery",
   title: "Minor Savagery",
   key: "minor-savagery",
-  description: "Increases Weapon Critical by 1314",
+  description: "Increases Weapon and Spell Critical by 1314",
   effects: "jsonl",
   createdAt: "2026-09-02T01:40:04.417Z",
-  updatedAt: "2026-09-21T15:25:48.000Z",
+  updatedAt: "2026-10-14T14:27:21.483Z",
 } as const satisfies TemperBuffMinor

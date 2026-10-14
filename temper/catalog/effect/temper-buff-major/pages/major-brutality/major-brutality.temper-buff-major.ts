@@ -7,8 +7,8 @@ export const majorBrutality = {
   title: "Major Brutality",
   key: "major-brutality",
   effectCategory: "damage",
-  description: "Increases Weapon Damage by 20%",
+  description: "Increases Weapon and Spell Damage by 20%",
   effects: "jsonl",
   createdAt: "2026-09-02T01:40:04.407Z",
-  updatedAt: "2026-09-26T18:25:50.000Z",
+  updatedAt: "2026-10-14T14:27:21.483Z",
 } as const satisfies TemperBuffMajor
