@@ -4,8 +4,8 @@ import {
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { WeaponEnchantId } from "akasha/temper/catalog/gear/equipment/kind/modules/gear-kind-ids/gear-kind-ids.data-table.code.ts"
 import {
-  enchantEffectsAt,
   enchantTable,
+  glyphEffectsAt,
 } from "akasha/temper/catalog/gear/equipment/modules/enchant-reading/enchant-reading.module.code.ts"
 import { getInfusedWeaponBonus } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponItem } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
@@ -28,7 +28,12 @@ export function getWeaponEnchantmentEffects(weapon: WeaponItem): readonly Metric
 
   const itemQuality = resolveQuality(weapon.quality)
   const enchantQuality = minQuality(weapon.enchantmentQuality ?? "legendary", itemQuality)
-  const graded = enchantEffectsAt("weapon", weapon.enchantment, enchantQuality)
+  const graded = glyphEffectsAt(
+    "weapon",
+    weapon.enchantment,
+    enchantQuality,
+    weapon.enchantmentSubtype
+  )
   const effects = weaponTypes.data[weapon.type].isTwoHanded ? graded.map(onTwoHands) : graded
 
   if (weapon.trait === "infused") {

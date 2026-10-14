@@ -6,8 +6,8 @@ import {
 import type { ArmorEnchantId as ArmorEnchantPageSlug } from "akasha/temper/catalog/gear/equipment/kind/modules/gear-kind-ids/gear-kind-ids.data-table.code.ts"
 import { getInfusedArmorBonus } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import {
-  enchantEffectsAt,
   enchantTable,
+  glyphEffectsAt,
 } from "akasha/temper/catalog/gear/equipment/modules/enchant-reading/enchant-reading.module.code.ts"
 import type { ArmorItem } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
@@ -27,7 +27,12 @@ export function getArmorEnchantmentEffects(armor: ArmorItem): readonly MetricEff
 
   const itemQuality = resolveQuality(armor.quality)
   const enchantQuality = minQuality(armor.enchantmentQuality ?? "legendary", itemQuality)
-  const graded = enchantEffectsAt("armor", armor.enchantment, enchantQuality)
+  const graded = glyphEffectsAt(
+    "armor",
+    armor.enchantment,
+    enchantQuality,
+    armor.enchantmentSubtype
+  )
   const share = armorEnchantShare(armor.type)
   const effects = graded.map((effect) => onPiece(effect, share))
 

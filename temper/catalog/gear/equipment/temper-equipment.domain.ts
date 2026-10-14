@@ -22,6 +22,7 @@ export const temperEquipment = {
     "module/weapon-traits",
     "module/weapon-type-ids",
     "domain/temper-equipment-kind",
+    "data-table/glyph-grades",
   ],
   decisions: [
     {
@@ -34,5 +35,5 @@ export const temperEquipment = {
     },
   ],
   createdAt: "2026-09-02T06:36:19.089Z",
-  updatedAt: "2026-09-27T04:03:27.000Z",
+  updatedAt: "2026-10-14T16:11:54.664Z",
 } as const satisfies Domain

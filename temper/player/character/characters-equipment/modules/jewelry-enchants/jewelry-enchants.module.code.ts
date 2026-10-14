@@ -4,8 +4,8 @@ import {
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { JewelryEnchantId as JewelryEnchantPageSlug } from "akasha/temper/catalog/gear/equipment/kind/modules/gear-kind-ids/gear-kind-ids.data-table.code.ts"
 import {
-  enchantEffectsAt,
   enchantTable,
+  glyphEffectsAt,
 } from "akasha/temper/catalog/gear/equipment/modules/enchant-reading/enchant-reading.module.code.ts"
 import { getInfusedJewelryBonus } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import type { JewelryItem } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
@@ -21,7 +21,12 @@ export function getJewelryEnchantmentEffects(jewelry: JewelryItem): readonly Met
 
   const itemQuality = resolveQuality(jewelry.quality)
   const enchantQuality = minQuality(jewelry.enchantmentQuality ?? "legendary", itemQuality)
-  const effects = enchantEffectsAt("jewelry", jewelry.enchantment, enchantQuality)
+  const effects = glyphEffectsAt(
+    "jewelry",
+    jewelry.enchantment,
+    enchantQuality,
+    jewelry.enchantmentSubtype
+  )
 
   if (jewelry.trait === "infused") {
     const infusedBonus = getInfusedJewelryBonus(itemQuality)

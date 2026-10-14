@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/modules/target-scope-ids/target-scope-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/effect/temper-target-type/modules/target-type-ids/target-type-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/gear/equipment/kind/modules/gear-kind-ids/gear-kind-ids.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/glyph-grades/glyph-grades.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/gear/temper-quality/modules/quality-ids/quality-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/skill/slot/modules/skill-slot-ids/skill-slot-ids.data-table.ts","typed":true,"deferred":false}

@@ -16,7 +16,19 @@ export const enchantReading = {
       statement:
         "A glyph's effects at a quality are asked of the graded effects the gear reading holds.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A glyph's numbers come from the game's glyph grades where the grades hold them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A glyph naming no subtype takes the champion 160 subtype of its quality.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A number no grade names at legendary is scaled as the grade's first number is.",
+    },
   ],
   createdAt: "2026-09-27T04:03:00.540Z",
-  updatedAt: "2026-09-27T04:03:27.000Z",
+  updatedAt: "2026-10-14T16:11:54.664Z",
 } as const satisfies Module

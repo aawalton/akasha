@@ -42,6 +42,7 @@ export interface StandardArmorItem {
   set: Slug
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
+  enchantmentSubtype?: number
   level?: ItemLevel
 }
 
@@ -53,6 +54,7 @@ export interface ShieldItem {
   set: Slug
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
+  enchantmentSubtype?: number
   level?: ItemLevel
 }
 
@@ -65,6 +67,7 @@ export interface JewelryItem {
   set: Slug
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
+  enchantmentSubtype?: number
   level?: ItemLevel
 }
 
@@ -76,5 +79,6 @@ export interface WeaponItem {
   set: Slug
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
+  enchantmentSubtype?: number
   level?: ItemLevel
 }
