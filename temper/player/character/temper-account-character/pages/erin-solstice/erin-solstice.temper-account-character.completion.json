@@ -28349,41 +28349,41 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792005897,
+      "capturedAt": 1792014127,
       "inCombat": false,
       "stats": {
-        "stamina-recovery": 566,
-        "health-recovery": 0,
-        "penetration-spell": 11050,
-        "critical-rating-spell": 5787,
-        "resistance-spell": 27370,
-        "critical-rating-weapon": 5787,
+        "resistance-physical": 27370,
         "magicka-recovery": 514,
+        "magicka-maximum": 19489,
         "stamina-maximum": 25974,
+        "penetration-spell": 11050,
+        "stamina-recovery": 566,
+        "critical-rating-spell": 5787,
+        "critical-rating-weapon": 5787,
+        "resistance-spell": 27370,
         "power-spell": 3286,
         "power-weapon": 3286,
-        "health-maximum": 31895,
-        "resistance-critical": 1320,
         "penetration-physical": 11050,
-        "magicka-maximum": 19489,
-        "resistance-physical": 27370
+        "resistance-critical": 1320,
+        "health-recovery": 0,
+        "health-maximum": 31895
       },
       "unbonusedStats": {
-        "stamina-recovery": 566,
-        "health-recovery": 0,
-        "penetration-spell": 0,
-        "critical-rating-spell": 2181,
-        "resistance-spell": 0,
-        "critical-rating-weapon": 2181,
+        "resistance-physical": 0,
         "magicka-recovery": 514,
+        "magicka-maximum": 19489,
         "stamina-maximum": 25974,
+        "penetration-spell": 0,
+        "stamina-recovery": 566,
+        "critical-rating-spell": 2181,
+        "critical-rating-weapon": 2181,
+        "resistance-spell": 0,
         "power-spell": 1000,
         "power-weapon": 1000,
-        "health-maximum": 31895,
-        "resistance-critical": 0,
         "penetration-physical": 0,
-        "magicka-maximum": 19489,
-        "resistance-physical": 0
+        "resistance-critical": 0,
+        "health-recovery": 0,
+        "health-maximum": 31895
       },
       "activeBuffs": [
         {
@@ -29087,44 +29087,106 @@
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
           "quality": 5
         }
+      ],
+      "skills": [
+        {
+          "slot": 3,
+          "abilityId": 38754,
+          "name": "Brawler",
+          "description": "Focus your strength into a mighty swing, dealing |cffffff5531|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff5565|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
+          "durationMs": 0,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
+        },
+        {
+          "slot": 4,
+          "abilityId": 31816,
+          "name": "Magma Fist",
+          "description": "Draw forth magma from below to hurl at an enemy, dealing |cffffff7210|r Flame Damage while applying a stack of Heat Shock, which increases the enemy's damage taken by |cffffff66|r for |cffffff7|r seconds per stack, up to |cffffff3|r times.\n\nHitting an enemy at max stacks of Heat Shock with this ability increases the damage done of the next cast of this ability within |cffffff6|r seconds by |cffffff66|r%, up to once every |cffffff6|r seconds.",
+          "durationMs": 0,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
+        },
+        {
+          "slot": 5,
+          "abilityId": 20816,
+          "name": "Flame Lash",
+          "description": "Lash an enemy with flame, dealing |cffffff6979|r Flame Damage and healing for |cffffff2193|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff11356|r Flame Damage to your target and all nearby enemies and heals for |cffffff4387|r Health.",
+          "durationMs": 0,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
+        },
+        {
+          "slot": 6,
+          "abilityId": 20944,
+          "name": "Disintegrating Dragonfire",
+          "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff5712|r Flame Damage, applying the Burning status effect, and an additional |cffffff8495|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r.",
+          "durationMs": 10000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
+        },
+        {
+          "slot": 7,
+          "abilityId": 20660,
+          "name": "Burning Embers",
+          "description": "Slash your foe with a fiery claw, dealing |cffffff3490|r Flame Damage and an additional |cffffff9870|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff6942|r Health from the initial hit and |cffffff1040|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
+          "durationMs": 10000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
+        },
+        {
+          "slot": 8,
+          "abilityId": 17874,
+          "name": "Magma Shell",
+          "description": "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff153|r% of their Max Health for |cffffff10|r seconds.\n\nWhile active, you cannot generate Ultimate.",
+          "durationMs": 15000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
+        }
       ]
     },
     "backBar": {
       "capturedAt": 1792005761,
       "inCombat": true,
       "stats": {
-        "stamina-recovery": 930,
+        "resistance-physical": 30344,
         "health-recovery": 0,
-        "penetration-spell": 9266,
-        "critical-rating-spell": 5787,
-        "resistance-spell": 30344,
         "critical-rating-weapon": 5787,
-        "magicka-recovery": 664,
         "stamina-maximum": 25974,
-        "power-spell": 4404,
-        "power-weapon": 4404,
-        "health-maximum": 31895,
-        "resistance-critical": 1320,
-        "penetration-physical": 9266,
+        "penetration-spell": 9266,
+        "stamina-recovery": 930,
         "magicka-maximum": 19489,
-        "resistance-physical": 30344
+        "penetration-physical": 9266,
+        "critical-rating-spell": 5787,
+        "resistance-critical": 1320,
+        "health-maximum": 31895,
+        "power-weapon": 4404,
+        "power-spell": 4404,
+        "magicka-recovery": 664,
+        "resistance-spell": 30344
       },
       "unbonusedStats": {
-        "stamina-recovery": 930,
+        "resistance-physical": 0,
         "health-recovery": 0,
-        "penetration-spell": 0,
-        "critical-rating-spell": 2181,
-        "resistance-spell": 0,
         "critical-rating-weapon": 2181,
-        "magicka-recovery": 664,
         "stamina-maximum": 25974,
-        "power-spell": 1000,
-        "power-weapon": 1000,
-        "health-maximum": 31895,
-        "resistance-critical": 0,
-        "penetration-physical": 0,
+        "penetration-spell": 0,
+        "stamina-recovery": 930,
         "magicka-maximum": 19489,
-        "resistance-physical": 0
+        "penetration-physical": 0,
+        "critical-rating-spell": 2181,
+        "resistance-critical": 0,
+        "health-maximum": 31895,
+        "power-weapon": 1000,
+        "power-spell": 1000,
+        "magicka-recovery": 664,
+        "resistance-spell": 0
       },
       "activeBuffs": [
         {
