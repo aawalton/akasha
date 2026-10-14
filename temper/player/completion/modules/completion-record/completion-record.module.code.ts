@@ -151,6 +151,7 @@ const championStarSchema = z.strictObject({
   points: z.number(),
   maxPoints: z.number(),
   bonus: z.string().optional(),
+  slottable: z.boolean().optional(),
 })
 
 const wornPieceSchema = z.strictObject({
