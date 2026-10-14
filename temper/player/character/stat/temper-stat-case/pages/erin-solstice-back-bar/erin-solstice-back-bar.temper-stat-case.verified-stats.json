@@ -102,17 +102,17 @@
     "health-maximum": 32651,
     "health-recovery": 0,
     "magicka-maximum": 20026,
+    "magicka-recovery": 535,
     "resistance-critical": 1320,
-    "stamina-maximum": 26636
+    "stamina-maximum": 26636,
+    "stamina-recovery": 566
   },
   "gaps": {
-    "magicka-recovery": 535,
     "penetration-physical": 5966,
     "penetration-spell": 5966,
     "power-spell": 3898,
     "power-weapon": 3898,
     "resistance-physical": 32382,
-    "resistance-spell": 33108,
-    "stamina-recovery": 566
+    "resistance-spell": 33108
   }
 }
