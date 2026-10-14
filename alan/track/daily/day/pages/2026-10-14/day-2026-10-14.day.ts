@@ -7,6 +7,7 @@ export const day20261014 = {
   title: "@date:2026-10-14",
   date: "2026-10-14",
   version: "3.0",
+  nutritionPoints: 0,
   wisdomWords: 0,
   intelligenceTopics: 0,
   inboxTasks: 5,
@@ -19,6 +20,6 @@ export const day20261014 = {
   inboxGaps: 0,
   inboxRefusals: 12065,
   createdAt: "2026-10-14T10:00:02.743Z",
-  updatedAt: "2026-10-14T11:28:59.571Z",
+  updatedAt: "2026-10-14T11:29:03.807Z",
   sessions: "jsonl",
 } as const satisfies Day
