@@ -91,6 +91,25 @@ function slottedSkillIndex(slotIndex: number, hotbarCategory: number): number {
   )
 }
 
+const PASSIVE_RANKS_TRIED = 10
+
+function passiveBitmaskIndex(
+  skillType: SkillType,
+  lineIndex: number,
+  skillIndex: number
+): number | undefined {
+  const current = GetSkillAbilityId(skillType, lineIndex, skillIndex, false)
+  const held = getPassiveBitmaskIndex(getBaseAbilityId(current))
+  if (held !== undefined) return held
+  for (let rank = 1; rank <= PASSIVE_RANKS_TRIED; rank++) {
+    const [abilityId] = GetSpecificSkillAbilityInfo(skillType, lineIndex, skillIndex, 0, rank)
+    if (abilityId === 0) return undefined
+    const ranked = getPassiveBitmaskIndex(abilityId)
+    if (ranked !== undefined) return ranked
+  }
+  return undefined
+}
+
 export function captureCharacterBuild(): CharacterBuildData {
   const classIndex = getClassIndex(GetUnitClassId("player"))
   const raceIndex = getRaceIndex(GetUnitRaceId("player"))
@@ -197,9 +216,7 @@ export function captureCharacterBuild(): CharacterBuildData {
       for (let skillIndex = 1; skillIndex <= numAbilities; skillIndex++) {
         if (!IsSkillAbilityPassive(skillType, lineIndex, skillIndex)) continue
         if (!IsSkillAbilityPurchased(skillType, lineIndex, skillIndex)) continue
-        const abilityId = GetSkillAbilityId(skillType, lineIndex, skillIndex, false)
-        const baseId = getBaseAbilityId(abilityId)
-        const bitmaskIndex = getPassiveBitmaskIndex(baseId)
+        const bitmaskIndex = passiveBitmaskIndex(skillType, lineIndex, skillIndex)
         if (bitmaskIndex !== undefined) {
           passiveBitmask[bitmaskIndex] = true
         }

@@ -19,7 +19,11 @@ export const characterCaptureCodec = {
       decisionKind: "decision-kind/departure",
       statement: "A scribed skill on a bar is read by its grimoire and focus script.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A purchased passive is found by the id of any of its ranks.",
+    },
   ],
   createdAt: "2026-09-02T09:20:42.407Z",
-  updatedAt: "2026-10-14T13:36:57.585Z",
+  updatedAt: "2026-10-14T14:41:19.520Z",
 } as const satisfies Module
