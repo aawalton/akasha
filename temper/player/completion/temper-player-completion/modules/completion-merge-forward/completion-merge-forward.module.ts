@@ -69,9 +69,14 @@ export const completionMergeForward = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A bar's reported stats take the fresh reading whole, and a bar the fresh reading lacks is kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A bank visit date either reading holds is dropped from the merged reading.",
     },
   ],
   createdAt: "2026-09-02T07:32:01.650Z",
-  updatedAt: "2026-10-10T14:40:09.857Z",
+  updatedAt: "2026-10-14T14:01:47.378Z",
 } as const satisfies Module

@@ -9,7 +9,12 @@ import {
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import type { z } from "zod"
 
-const NESTED_LWW_KEYS: ReadonlySet<string> = new Set(["currentMorph", "unassigned"])
+const NESTED_LWW_KEYS: ReadonlySet<string> = new Set([
+  "currentMorph",
+  "unassigned",
+  "frontBar",
+  "backBar",
+])
 
 function isNumberArray(value: readonly unknown[]): value is readonly number[] {
   return value.every((entry) => typeof entry === "number")

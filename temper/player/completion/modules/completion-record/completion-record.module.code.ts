@@ -148,8 +148,8 @@ const reportedStatsReadingSchema = z.strictObject({
 })
 
 const reportedStatsSchema = z.strictObject({
-  front: reportedStatsReadingSchema.optional(),
-  back: reportedStatsReadingSchema.optional(),
+  frontBar: reportedStatsReadingSchema.optional(),
+  backBar: reportedStatsReadingSchema.optional(),
 })
 
 export const accountCompletionSchema = z.strictObject({
