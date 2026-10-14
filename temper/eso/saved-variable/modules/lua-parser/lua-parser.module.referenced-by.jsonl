@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"command/pages/temper/hps/temper-hps.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"command/pages/temper/inventory/master/consumable-trace/temper-inventory-master-consumable-trace.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/addon/build/deploy-check/modules/sandbox-library-reading/sandbox-library-reading.module.code.ts","typed":false,"deferred":false}
