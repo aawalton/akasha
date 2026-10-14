@@ -19,6 +19,7 @@ export const module = {
     "text-property/page-body-readers",
     "text-property/reached-by-path",
     "boolean-property/runs-in-a-browser",
+    "multi-relation-property/test-reads",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -36,6 +37,12 @@ export const module = {
     { pageProperty: "text-property/reached-by-path", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/runs-in-a-browser", required: false, many: false },
     { pageProperty: "text-property/hash-indexed", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "multi-relation-property/test-reads",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -71,5 +78,5 @@ export const module = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-28T20:47:14.436Z",
-  updatedAt: "2026-09-24T23:27:50.000Z",
+  updatedAt: "2026-10-14T18:20:56.449Z",
 } as const satisfies PageType

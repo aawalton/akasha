@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"check/model/properties/model-tests.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"code/ios-app/properties/programs.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"code/ios-program/properties/components.multi-relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"code/module/properties/test-reads.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"code/rust-crate/properties/rust-modules.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"domain/properties/parts.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"graph/edge/properties/attributes.multi-relation-property.ts","typed":true,"deferred":false}
