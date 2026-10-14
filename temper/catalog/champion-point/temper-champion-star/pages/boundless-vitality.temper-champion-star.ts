@@ -8,9 +8,9 @@ export const boundlessVitality = {
   description: "Grants 1400 Max Health",
   esoChampionSkillId: 2,
   championConstellation: "fitness",
-  isSlottable: false,
+  isSlottable: true,
   effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 1400 }],
   hashPlace: 44,
   createdAt: "2026-09-27T05:00:00.921Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-14T17:51:39.181Z",
 } as const satisfies TemperChampionStar
