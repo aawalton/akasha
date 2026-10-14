@@ -50,7 +50,7 @@ function championPoints(): StarSpent[] {
           championSkillId,
           points,
           maxPoints: GetChampionSkillMaxPoints(championSkillId),
-          bonus: GetChampionSkillCurrentBonusText(championSkillId),
+          bonus: GetChampionSkillCurrentBonusText(championSkillId, points),
         })
       }
     }
