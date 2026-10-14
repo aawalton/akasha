@@ -49,6 +49,7 @@
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"command/pages/temper/community/addon-list/temper-community-addon-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"infrastructure/inference/generation/image/review/modules/following/review-following.module.code.ts","typed":false,"deferred":false}

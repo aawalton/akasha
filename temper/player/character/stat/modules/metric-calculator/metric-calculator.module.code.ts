@@ -1,5 +1,6 @@
 import { indexBy } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import { buffOrDebuff } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import { topologicalSort } from "akasha/temper/player/character/formula-framework/modules/topological-sort/topological-sort.module.code.ts"
@@ -141,6 +142,30 @@ function calculateMetricValues(sources: readonly EffectSource[]): CalculationRes
     sources: sourcesWithBuffs,
     metrics: baseStats,
   }
+}
+
+export function calculateReadingStatsByBar(
+  build: CharacterState,
+  bar: "primary-weapon-bar" | "backup-weapon-bar",
+  activeBuffNames: readonly string[]
+): CalculationResult & { unmatchedBuffNames: readonly string[] } {
+  const byName = new Map<string, EffectSource>()
+  for (const buff of Object.values(buffOrDebuff().data)) byName.set(buff.name, buff)
+
+  const activeBuffs: EffectSource[] = []
+  const unmatchedBuffNames: string[] = []
+  for (const name of activeBuffNames) {
+    const buff = byName.get(name)
+    if (buff === undefined) unmatchedBuffNames.push(name)
+    else activeBuffs.push(buff)
+  }
+
+  const sources: EffectSource[] = [
+    baseSource(),
+    ...buildStateToEffectSources(build, bar),
+    ...activeBuffs,
+  ]
+  return { sources, metrics: calculateBaseStats(sources), unmatchedBuffNames }
 }
 
 export function calculateBuildStatsByBar(

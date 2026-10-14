@@ -6,6 +6,26 @@ export const metricCalculator = {
   slug: "metric-calculator",
   definition: "every metric a build reaches on one bar, calculated in dependency order",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build's estimate on its own infers its buffs from what the build slots and wears.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An estimate for a reading takes exactly the buffs the game listed, and infers none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A buff the game listed is matched to a buff page by the name the game gave it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A buff the game listed that no buff page names is told rather than dropped.",
+    },
+  ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-09-21T15:39:55.000Z",
+  updatedAt: "2026-10-14T14:17:00.259Z",
 } as const satisfies Module

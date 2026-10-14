@@ -17,7 +17,11 @@ export const metrics = {
       statement:
         "Asking for the catalogue before it is read is refused rather than answered empty.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A test holds the catalogue from the same reads a running reader takes.",
+    },
   ],
   createdAt: "2026-09-02T08:17:20.311Z",
-  updatedAt: "2026-09-26T16:01:50.000Z",
+  updatedAt: "2026-10-14T14:17:00.259Z",
 } as const satisfies Module

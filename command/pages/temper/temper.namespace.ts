@@ -11,6 +11,7 @@ export const temper = {
     "command/temper-package-typecheck",
     "command/temper-picture",
     "command/temper-quest-port-trace",
+    "command/temper-stat-compare",
     "namespace/temper-addon",
     "namespace/temper-catalog",
     "namespace/temper-community",
@@ -21,5 +22,5 @@ export const temper = {
   ],
   name: "temper",
   createdAt: "2026-09-07T13:39:24.201Z",
-  updatedAt: "2026-10-08T17:10:57.884Z",
+  updatedAt: "2026-10-14T14:17:00.259Z",
 } as const satisfies Namespace
