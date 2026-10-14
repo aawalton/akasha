@@ -20,5 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0206Chapter762Afterglow
     },
   ],
   createdAt: "2026-10-14T12:05:48.681Z",
-  updatedAt: "2026-10-14T12:05:48.681Z",
+  updatedAt: "2026-10-14T13:05:51.506Z",
+  ownProgress: 2700,
 } as const satisfies StoryChapterRead
