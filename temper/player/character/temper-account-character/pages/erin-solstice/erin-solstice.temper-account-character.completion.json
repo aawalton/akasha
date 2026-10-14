@@ -28349,7 +28349,7 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792002200,
+      "capturedAt": 1792002991,
       "inCombat": false,
       "stats": {
         "magicka-maximum": 20026,
@@ -28387,11 +28387,6 @@
       },
       "activeBuffs": [
         {
-          "abilityId": 43752,
-          "name": "Soul Summons",
-          "description": "· Once per hour, you can resurrect without the need for a soul gem"
-        },
-        {
           "abilityId": 127531,
           "name": "Corrupting Bloody Mara",
           "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you."
@@ -28985,7 +28980,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:4712:0|h|h",
+          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:4343:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
@@ -28997,37 +28992,37 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:10000:0|h|h",
+          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9862:0|h|h",
           "armor": 2772,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:2539:0|h|h",
+          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:2520:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:147:0|h|h",
+          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:113:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2014|r Magic Damage and restores |cffffff439|r Health and |cffffff177|r Magicka and Stamina."
         },
         {
           "slot": 6,
-          "link": "|H0:item:215596:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:4311:0|h|h",
+          "link": "|H0:item:215596:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:4199:0|h|h",
           "armor": 523,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
         {
           "slot": 8,
-          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:3129:0|h|h",
+          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:2796:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
         {
           "slot": 9,
-          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:1877:0|h|h",
+          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:1577:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
@@ -29051,21 +29046,21 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:138:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:113:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds."
         }
       ]
     },
     "backBar": {
-      "capturedAt": 1792002128,
+      "capturedAt": 1792002925,
       "inCombat": true,
       "stats": {
         "magicka-maximum": 20026,
         "resistance-spell": 28619,
         "resistance-critical": 1320,
         "health-recovery": 0,
-        "stamina-recovery": 722,
+        "stamina-recovery": 566,
         "power-spell": 4404,
         "health-maximum": 32651,
         "critical-rating-weapon": 6006,
@@ -29075,14 +29070,14 @@
         "penetration-spell": 10455,
         "penetration-physical": 10455,
         "critical-rating-spell": 6006,
-        "magicka-recovery": 691
+        "magicka-recovery": 535
       },
       "unbonusedStats": {
         "magicka-maximum": 20026,
         "resistance-spell": 0,
         "resistance-critical": 0,
         "health-recovery": 0,
-        "stamina-recovery": 722,
+        "stamina-recovery": 566,
         "power-spell": 1000,
         "health-maximum": 32651,
         "critical-rating-weapon": 2181,
@@ -29092,13 +29087,13 @@
         "penetration-spell": 0,
         "penetration-physical": 0,
         "critical-rating-spell": 2181,
-        "magicka-recovery": 691
+        "magicka-recovery": 535
       },
       "activeBuffs": [
         {
-          "abilityId": 43752,
-          "name": "Soul Summons",
-          "description": "· Once per hour, you can resurrect without the need for a soul gem"
+          "abilityId": 29465,
+          "name": "Landslide",
+          "description": ""
         },
         {
           "abilityId": 127531,
@@ -29136,8 +29131,8 @@
           "description": ""
         },
         {
-          "abilityId": 99789,
-          "name": "Merciless Charge",
+          "abilityId": 61662,
+          "name": "Minor Brutality",
           "description": ""
         },
         {
@@ -29146,24 +29141,14 @@
           "description": ""
         },
         {
+          "abilityId": 99789,
+          "name": "Merciless Charge",
+          "description": ""
+        },
+        {
           "abilityId": 21230,
           "name": "Berserker",
           "description": "Increase your Power by for"
-        },
-        {
-          "abilityId": 61662,
-          "name": "Minor Brutality",
-          "description": ""
-        },
-        {
-          "abilityId": 29465,
-          "name": "Landslide",
-          "description": ""
-        },
-        {
-          "abilityId": 32853,
-          "name": "Incinerate",
-          "description": "Activate an aura of flames which launches a wave of flames every |cffffff5|r seconds, dealing |cffffff9119|r Flame Damage directly to enemies inside.\n\nEach hit has a |cffffff15|r% chance of applying Burning.\n\nWhile slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%."
         }
       ],
       "championPoints": [
@@ -29724,7 +29709,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:4712:0|h|h",
+          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:4343:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
@@ -29736,21 +29721,21 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:10000:0|h|h",
+          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9862:0|h|h",
           "armor": 2772,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:2651:0|h|h",
+          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:2520:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:147:0|h|h",
+          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:116:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff2447|r Magic Damage and restores |cffffff492|r Health and |cffffff177|r Magicka and Stamina."
+          "enchant": "Deals |cffffff2426|r Magic Damage and restores |cffffff492|r Health and |cffffff177|r Magicka and Stamina."
         },
         {
           "slot": 6,
@@ -29760,13 +29745,13 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:3129:0|h|h",
+          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:2796:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
         {
           "slot": 9,
-          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:1877:0|h|h",
+          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:1577:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
@@ -29790,7 +29775,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:138:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:115:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds."
         }
