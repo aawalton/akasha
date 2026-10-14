@@ -5,7 +5,7 @@ export const charactersGlyphProbe = {
   type: "page-type/module",
   slug: "characters-glyph-probe",
   definition:
-    "the enchantment a chest gives at each glyph subtype, written to the saved table to be looked at",
+    "the enchantment each glyph gives at each subtype, written to the saved table to be looked at",
   code: "ts",
   decisions: [
     {
@@ -14,5 +14,5 @@ export const charactersGlyphProbe = {
     },
   ],
   createdAt: "2026-10-14T15:54:19.608Z",
-  updatedAt: "2026-10-14T15:54:19.608Z",
+  updatedAt: "2026-10-14T16:02:33.139Z",
 } as const satisfies Module
