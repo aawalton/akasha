@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-list/characters-list.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-migrations/characters-migrations.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-migrations/characters-migrations.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-passive-trace/characters-passive-trace.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-player-stats/characters-player-stats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-public-api/characters-public-api.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.code.ts","typed":false,"deferred":false}

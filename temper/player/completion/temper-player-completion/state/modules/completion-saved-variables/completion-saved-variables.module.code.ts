@@ -45,6 +45,16 @@ export interface TaskData {
   completionItemPath?: (string | number)[]
 }
 
+export interface PassiveTraceRow {
+  line: string
+  name: string
+  purchased: boolean
+  currentId: number
+  baseId: number
+  rankIds: number[]
+  bitmaskIndex: number
+}
+
 export interface SavedVariablesData {
   navigation: SavedNavigation
   account: AccountCompletion
@@ -62,6 +72,7 @@ export interface SavedVariablesData {
   hirelingMails?: { date: string; count: number }
   migrationVersions: Record<string, number>
   perf?: { loadTimeMs: number }
+  passiveTrace?: PassiveTraceRow[]
 }
 
 const SAVED_VARIABLES_DEFAULTS: SavedVariablesData & Record<string, unknown> = {
