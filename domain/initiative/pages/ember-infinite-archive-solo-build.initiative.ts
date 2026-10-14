@@ -8,10 +8,6 @@ export const emberInfiniteArchiveSoloBuild = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "The addon captures Erin's stats as the game reports them, for each bar.",
-      workingMemory: "Armor, penetration, max health and the other stats on the character sheet.",
-    },
-    {
       statement:
         "Temper shows each stat where its estimate of a build differs from what the game reported.",
     },
@@ -30,5 +26,5 @@ export const emberInfiniteArchiveSoloBuild = {
     "Every damage skill on Erin's bars also keeps Erin alive.",
   ],
   createdAt: "2026-10-14T13:52:46.306Z",
-  updatedAt: "2026-10-14T13:59:43.952Z",
+  updatedAt: "2026-10-14T14:07:45.337Z",
 } as const satisfies Initiative
