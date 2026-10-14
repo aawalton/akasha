@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"sheet-answering.module.code.ts","path":"command/pages/google/sheet/modules/sheet-answering/sheet-answering.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sheet-answering.module.code.ts","path":"command/pages/google/sheet/read/google-sheet-read.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sheet-answering.module.code.ts","path":"command/pages/google/sheet/tabs/google-sheet-tabs.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sheet-answering.module.code.ts","path":"command/pages/google/sheet/write/google-sheet-write.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"command/pages/google/sheet/google-sheet.namespace.ts","id":"01a13ab3-9ddd-7125-bf83-ed6bccc94b94"}

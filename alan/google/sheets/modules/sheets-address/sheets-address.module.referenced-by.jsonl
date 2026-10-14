@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"sheets-address.module.code.ts","path":"alan/google/sheets/modules/sheets-address/sheets-address.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sheets-address.module.code.ts","path":"alan/google/sheets/modules/sheets-client/sheets-client.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sheets-address.module.code.ts","path":"command/pages/google/sheet/modules/sheet-answering/sheet-answering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sheets-address.module.code.ts","path":"command/pages/google/sheet/tabs/google-sheet-tabs.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/google/sheets/google-sheets.domain.ts","id":"01a13ab0-c505-7a71-865d-d053e4c2078b"}

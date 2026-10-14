@@ -57,6 +57,9 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/google/calendar/event/update/google-calendar-event-update.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/google/drive/fetch/google-drive-fetch.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/google/login/google-login.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/google/sheet/read/google-sheet-read.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/google/sheet/tabs/google-sheet-tabs.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/google/sheet/write/google-sheet-write.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/grammar/refused/grammar-refused.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/grammar/try/grammar-try.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/grammar/words/grammar-words.command.ts","typed":true,"deferred":false}

@@ -7,6 +7,8 @@
 {"propertySlug":"argument","path":"command/pages/fitness/mobility/fitness-mobility.command.ts","id":"01a0b72c-3d76-75eb-92a1-4fc4a0021192"}
 {"propertySlug":"argument","path":"command/pages/fitness/today/fitness-today.command.ts","id":"01a11c11-584b-723d-ab40-7318e1e242c3"}
 {"propertySlug":"argument","path":"command/pages/fitness/week/fitness-week.command.ts","id":"01a0b6de-d8b5-7094-8d97-329aa11e314c"}
+{"propertySlug":"argument","path":"command/pages/google/sheet/read/google-sheet-read.command.ts","id":"01a13ab3-9ddd-704b-959e-9927a11a3d93"}
+{"propertySlug":"argument","path":"command/pages/google/sheet/tabs/google-sheet-tabs.command.ts","id":"01a13ab3-9ddd-7ebc-9387-e9191638040e"}
 {"propertySlug":"argument","path":"command/pages/icloud/fetch/icloud-fetch.command.ts","id":"01a08cf8-d3c1-744e-a8e9-70301b272c28"}
 {"propertySlug":"argument","path":"command/pages/imessage/contact-list/imessage-contact-list.command.ts","id":"01a0685f-c8ed-7001-8968-6b6c199596e3"}
 {"propertySlug":"argument","path":"command/pages/imessage/recent-list/imessage-recent-list.command.ts","id":"01a0685f-c8ed-7002-acaf-64c6ea2ab792"}
@@ -106,6 +108,10 @@
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/fitness/today/fitness-today.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/google/sheet/read/google-sheet-read.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/google/sheet/read/google-sheet-read.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/google/sheet/tabs/google-sheet-tabs.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/google/sheet/tabs/google-sheet-tabs.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/icloud/fetch/icloud-fetch.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.test.ts","typed":false,"deferred":false}

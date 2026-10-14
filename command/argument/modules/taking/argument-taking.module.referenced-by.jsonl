@@ -60,6 +60,11 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/google/drive/fetch/google-drive-fetch.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/google/drive/fetch/google-drive-fetch.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/google/login/google-login.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/google/sheet/read/google-sheet-read.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/google/sheet/read/google-sheet-read.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/google/sheet/tabs/google-sheet-tabs.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/google/sheet/tabs/google-sheet-tabs.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/google/sheet/write/google-sheet-write.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/grammar/refused/grammar-refused.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/grammar/try/grammar-try.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/grammar/words/grammar-words.command.code.ts","typed":false,"deferred":false}

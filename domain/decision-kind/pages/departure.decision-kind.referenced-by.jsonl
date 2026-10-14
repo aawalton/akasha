@@ -2293,6 +2293,10 @@
 {"propertySlug":"decision-kind","path":"command/pages/google/calendar/event/update/google-calendar-event-update.command.ts","id":"01a08cf6-2498-7264-92b4-a12c680c958c"}
 {"propertySlug":"decision-kind","path":"command/pages/google/drive/fetch/google-drive-fetch.command.ts","id":"01a08cdb-485a-7511-90c8-8b12ad2e1662"}
 {"propertySlug":"decision-kind","path":"command/pages/google/login/google-login.command.ts","id":"01a08cd6-dec8-70d0-806a-01701518ada0"}
+{"propertySlug":"decision-kind","path":"command/pages/google/sheet/modules/sheet-answering/sheet-answering.module.ts","id":"01a13ab3-9ddd-77dd-a601-f0b2f78f5595"}
+{"propertySlug":"decision-kind","path":"command/pages/google/sheet/read/google-sheet-read.command.ts","id":"01a13ab3-9ddd-704b-959e-9927a11a3d93"}
+{"propertySlug":"decision-kind","path":"command/pages/google/sheet/tabs/google-sheet-tabs.command.ts","id":"01a13ab3-9ddd-7ebc-9387-e9191638040e"}
+{"propertySlug":"decision-kind","path":"command/pages/google/sheet/write/google-sheet-write.command.ts","id":"01a13ab3-9ddd-78ca-84db-ca5549ac0244"}
 {"propertySlug":"decision-kind","path":"command/pages/grammar/refused/grammar-refused.command.ts","id":"01a0d9aa-7c59-7f81-8e53-5337ff5bc90f"}
 {"propertySlug":"decision-kind","path":"command/pages/grammar/try/grammar-try.command.ts","id":"01a0d9ad-2987-7dcb-84b3-bcf0b24a1c3f"}
 {"propertySlug":"decision-kind","path":"command/pages/grammar/words/grammar-words.command.ts","id":"01a0d9ab-8149-71e3-a2f7-7948474b5577"}

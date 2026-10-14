@@ -1,0 +1,4 @@
+{"propertySlug":"import","fileName":"google-sheet-read.command.code.ts","path":"command/pages/google/sheet/read/google-sheet-read.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"google-sheet-read.command.ts","path":"command/pages/google/sheet/read/google-sheet-read.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"google-sheet-read.command.ts","path":"command/pages/google/sheet/read/google-sheet-read.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"command/pages/google/sheet/google-sheet.namespace.ts","id":"01a13ab3-9ddd-7125-bf83-ed6bccc94b94"}
