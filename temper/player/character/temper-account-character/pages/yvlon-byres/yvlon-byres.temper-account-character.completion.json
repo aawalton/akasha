@@ -13224,11 +13224,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "seen": [
       5,
       3,
@@ -13240,16 +13240,16 @@
     ],
     "completed": [
       1,
-      6,
       2,
+      6,
       7,
-      3,
       4,
-      5
+      5,
+      3
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-13",
-    "misplaced": 95
+    "date": "2026-10-14",
+    "misplaced": 124
   }
 }
