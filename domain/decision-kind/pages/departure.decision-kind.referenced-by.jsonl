@@ -4324,6 +4324,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-placeholder-panel/characters-placeholder-panel.module.ts","id":"01a062ee-f005-7067-a2e3-051e87a6719f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-player-stats/characters-player-stats.module.ts","id":"01a062ed-3953-7006-94d1-870f11c3c3fc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-public-api/characters-public-api.module.ts","id":"01a06324-9ff8-7061-9aeb-8aa8acce0372"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.ts","id":"01a13aba-15a3-7b78-9f8e-67140b6bcc70"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-scribing-source-motif-styles/characters-scribing-source-motif-styles.module.ts","id":"01a0d8b0-d2b7-7212-b8f6-937434822355"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.ts","id":"01a062ed-39c9-700c-9df3-7f4288c3c504"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.ts","id":"01a062ee-f062-706c-82ee-532bd7058883"}

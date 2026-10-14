@@ -1,4 +1,5 @@
 import { captureAndSaveCharacterStats } from "akasha/temper/addon/pages/characters/modules/characters-player-stats/characters-player-stats.module.code.ts"
+import { captureReportedStats } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts"
 import {
   updateAccountSkillLineProgress,
   updateSkillLineProgress,
@@ -23,6 +24,7 @@ function scheduleBuildCapture(): undefined {
   EVENT_MANAGER.RegisterForUpdate(BUILD_CAPTURE_UPDATE, 500, function (this: void): undefined {
     EVENT_MANAGER.UnregisterForUpdate(BUILD_CAPTURE_UPDATE)
     captureAndSaveCharacterStats()
+    captureReportedStats()
   })
 }
 
@@ -60,6 +62,12 @@ export function registerBuildEvents(): undefined {
       scheduleBuildCapture()
       scheduleTaskAutoCompletionCheck()
     }
+  )
+
+  EVENT_MANAGER.RegisterForEvent(
+    ADDON_NAME + "_WeaponPairChanged",
+    EVENT_ACTIVE_WEAPON_PAIR_CHANGED,
+    onBuildTouched
   )
 
   EVENT_MANAGER.RegisterForEvent(

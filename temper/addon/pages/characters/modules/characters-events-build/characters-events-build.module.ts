@@ -11,7 +11,11 @@ export const charactersEventsBuild = {
       decisionKind: "decision-kind/departure",
       statement: "A run of build changes is read once after the run settles.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A swap of bars is a build change, so the bar now held gets its reported stats.",
+    },
   ],
   createdAt: "2026-09-02T17:32:20.771Z",
-  updatedAt: "2026-09-21T17:05:12.000Z",
+  updatedAt: "2026-10-14T14:03:56.194Z",
 } as const satisfies Module
