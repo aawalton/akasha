@@ -5,4 +5,6 @@
 {"propertySlug":"import","fileName":"oauth-client.module.code.ts","path":"alan/google/email/modules/gmail-auth/gmail-auth.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-client.module.code.ts","path":"alan/google/email/modules/gmail-credentials/gmail-credentials.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-client.module.code.ts","path":"alan/google/oauth/modules/oauth-refresh-token/oauth-refresh-token.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"oauth-client.module.code.ts","path":"alan/google/sheets/modules/sheets-client/sheets-client.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"oauth-client.module.code.ts","path":"alan/google/sheets/modules/sheets-credentials/sheets-credentials.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/google/oauth/google-oauth.domain.ts","id":"01a05bdc-e25b-7907-a606-3d78ab77a2f7"}

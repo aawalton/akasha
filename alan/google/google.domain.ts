@@ -11,7 +11,8 @@ export const google = {
     "domain/google-drive",
     "domain/google-email",
     "domain/google-oauth",
+    "domain/google-sheets",
   ],
   createdAt: "2026-09-02T18:02:24.478Z",
-  updatedAt: "2026-09-24T22:09:56.000Z",
+  updatedAt: "2026-10-14T13:53:45.733Z",
 } as const satisfies Domain
