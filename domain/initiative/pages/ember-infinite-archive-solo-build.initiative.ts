@@ -8,6 +8,9 @@ export const emberInfiniteArchiveSoloBuild = {
   persona: "persona/ember",
   intentStack: [
     {
+      statement: "Temper's estimate of Erin's stats matches what the game reported.",
+    },
+    {
       statement: "Erin's armor, penetration, max health and healing per second are known.",
     },
   ],
@@ -22,5 +25,5 @@ export const emberInfiniteArchiveSoloBuild = {
     "Every damage skill on Erin's bars also keeps Erin alive.",
   ],
   createdAt: "2026-10-14T13:52:46.306Z",
-  updatedAt: "2026-10-14T14:21:19.869Z",
+  updatedAt: "2026-10-14T14:26:14.845Z",
 } as const satisfies Initiative
