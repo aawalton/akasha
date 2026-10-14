@@ -59,7 +59,9 @@ holdSkillCatalogFromCheckout()
 
 const CHARACTER_BUILD_TYPE = 1
 
-const CODEC_MINOR_VERSION = 7
+const RECORDED_MINOR_VERSION = 7
+
+const CODEC_MINOR_VERSION = 8
 
 const RECORDED = [
   "ATQHgAAAAABgAAD__AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK9evXHyJMqXMmzp9CjSp1KtZatWrR54-gQokaRKmTqFKpWsKFChQoAAggYQKGDiBIoWMGjh5AiSJgAAMgA",
@@ -77,6 +79,7 @@ function armorPiece(type: StandardArmorType, seed: number): ArmorSlotItem {
       set: getSetId(40 + seed),
       quality: getQualityId(1 + (seed % 5)),
       enchantmentQuality: "fine",
+      enchantmentSubtype: 367,
     },
   }
 }
@@ -121,6 +124,7 @@ function shieldPiece(seed: number): WeaponSlotItem {
       set: getSetId(150 + seed),
       quality: getQualityId(4),
       enchantmentQuality: "legendary",
+      enchantmentSubtype: 312,
     },
   }
 }
@@ -218,15 +222,15 @@ test("every recorded build hash is a character build written by update fifty-two
     expect(bytes).not.toBeNull()
     expect(bytes?.[0]).toBe(CHARACTER_BUILD_TYPE)
     expect(bytes?.[1]).toBe(ESO_VERSION_52)
-    expect(bytes?.[2]).toBe(CODEC_MINOR_VERSION)
+    expect(bytes?.[2]).toBe(RECORDED_MINOR_VERSION)
   }
 })
 
-test("a recorded build hash read back and written again is the hash it was", () => {
+test("a recorded build hash read back, written again and read again is the build it was", () => {
   for (const hash of RECORDED) {
     const build = decodeBuild(buildHash(hash))
     expect(build).not.toBeNull()
-    expect(encodeBuild(build as CharacterState)).toBe(buildHash(hash))
+    expect(decodeBuild(encodeBuild(build as CharacterState))).toEqual(build)
   }
 })
 

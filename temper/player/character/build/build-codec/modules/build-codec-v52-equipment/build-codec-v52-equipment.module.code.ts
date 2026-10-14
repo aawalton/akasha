@@ -58,6 +58,10 @@ import type {
   WeaponSlotItem,
 } from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 
+const GLYPH_SUBTYPE_BITS = 9
+const GLYPH_SUBTYPE_LIMIT = 1 << GLYPH_SUBTYPE_BITS
+const FIRST_MINOR_WITH_GLYPH_SUBTYPE = 8
+
 export function encodeEquipment(writer: BitWriterState, build: CharacterState): undefined {
   const equipment = build.equipment
 
@@ -87,6 +91,7 @@ function encodeArmorSlot(writer: BitWriterState, slot: ArmorSlotItem): undefined
   writeBits(writer, getSetIndex(armor.set), setBits())
   writeBits(writer, getQualityIndex(armor.quality ?? "no-quality"), qualityBits())
   writeBits(writer, getQualityIndex(armor.enchantmentQuality ?? "no-quality"), qualityBits())
+  encodeGlyphSubtype(writer, armor.enchantmentSubtype)
 }
 
 function encodeJewelrySlot(writer: BitWriterState, slot: JewelrySlotItem): undefined {
@@ -102,6 +107,7 @@ function encodeJewelrySlot(writer: BitWriterState, slot: JewelrySlotItem): undef
   writeBits(writer, getSetIndex(jewelry.set), setBits())
   writeBits(writer, getQualityIndex(jewelry.quality ?? "no-quality"), qualityBits())
   writeBits(writer, getQualityIndex(jewelry.enchantmentQuality ?? "no-quality"), qualityBits())
+  encodeGlyphSubtype(writer, jewelry.enchantmentSubtype)
 }
 
 function encodeWeaponBar(writer: BitWriterState, bar: WeaponSlot): undefined {
@@ -128,6 +134,7 @@ function encodeWeaponSlot(writer: BitWriterState, slot: WeaponSlotItem): undefin
     writeBits(writer, getSetIndex(shield.set), setBits())
     writeBits(writer, getQualityIndex(shield.quality ?? "no-quality"), qualityBits())
     writeBits(writer, getQualityIndex(shield.enchantmentQuality ?? "no-quality"), qualityBits())
+    encodeGlyphSubtype(writer, shield.enchantmentSubtype)
   } else {
     writeBits(writer, 0, 1)
     const weapon = slot.data
@@ -138,15 +145,28 @@ function encodeWeaponSlot(writer: BitWriterState, slot: WeaponSlotItem): undefin
     writeBits(writer, getSetIndex(weapon.set), setBits())
     writeBits(writer, getQualityIndex(weapon.quality ?? "no-quality"), qualityBits())
     writeBits(writer, getQualityIndex(weapon.enchantmentQuality ?? "no-quality"), qualityBits())
+    encodeGlyphSubtype(writer, weapon.enchantmentSubtype)
   }
 }
 
-export function decodeEquipment(reader: BitReaderState): CharacterState["equipment"] {
-  const armor = recordFromKeys(armorSlots.ids, (slotId) => decodeArmorSlot(reader, slotId))
-  const jewelry = recordFromKeys(jewelrySlots.ids, (slotId) => decodeJewelrySlot(reader, slotId))
+function encodeGlyphSubtype(writer: BitWriterState, subtype: number | undefined): undefined {
+  const fits = subtype !== undefined && subtype > 0 && subtype < GLYPH_SUBTYPE_LIMIT
+  writeBits(writer, fits ? subtype : 0, GLYPH_SUBTYPE_BITS)
+}
 
-  const primaryWeaponBar = decodeWeaponBar(reader)
-  const backupWeaponBar = decodeWeaponBar(reader)
+export function decodeEquipment(
+  reader: BitReaderState,
+  minorVersion: number
+): CharacterState["equipment"] {
+  const armor = recordFromKeys(armorSlots.ids, (slotId) =>
+    decodeArmorSlot(reader, slotId, minorVersion)
+  )
+  const jewelry = recordFromKeys(jewelrySlots.ids, (slotId) =>
+    decodeJewelrySlot(reader, slotId, minorVersion)
+  )
+
+  const primaryWeaponBar = decodeWeaponBar(reader, minorVersion)
+  const backupWeaponBar = decodeWeaponBar(reader, minorVersion)
 
   return {
     armor,
@@ -156,7 +176,11 @@ export function decodeEquipment(reader: BitReaderState): CharacterState["equipme
   }
 }
 
-function decodeArmorSlot(reader: BitReaderState, slotId: ArmorSlotId): ArmorSlotItem {
+function decodeArmorSlot(
+  reader: BitReaderState,
+  slotId: ArmorSlotId,
+  minorVersion: number
+): ArmorSlotItem {
   const isEmpty = readBits(reader, 1) === 1
   if (isEmpty) {
     return {
@@ -178,6 +202,7 @@ function decodeArmorSlot(reader: BitReaderState, slotId: ArmorSlotId): ArmorSlot
   const set = getSetId(readBits(reader, setBits()))
   const quality = decodeQuality(reader)
   const enchantmentQuality = decodeEnchantmentQuality(reader)
+  const enchantmentSubtype = decodeGlyphSubtype(reader, minorVersion)
 
   return {
     itemType: "armor",
@@ -189,11 +214,16 @@ function decodeArmorSlot(reader: BitReaderState, slotId: ArmorSlotId): ArmorSlot
       set,
       quality,
       enchantmentQuality,
+      enchantmentSubtype,
     },
   }
 }
 
-function decodeJewelrySlot(reader: BitReaderState, slotId: JewelrySlotId): JewelrySlotItem {
+function decodeJewelrySlot(
+  reader: BitReaderState,
+  slotId: JewelrySlotId,
+  minorVersion: number
+): JewelrySlotItem {
   const isEmpty = readBits(reader, 1) === 1
   if (isEmpty) {
     const type = slotId === "necklace" ? "necklace" : "ring"
@@ -214,6 +244,7 @@ function decodeJewelrySlot(reader: BitReaderState, slotId: JewelrySlotId): Jewel
   const set = getSetId(readBits(reader, setBits()))
   const quality = decodeQuality(reader)
   const enchantmentQuality = decodeEnchantmentQuality(reader)
+  const enchantmentSubtype = decodeGlyphSubtype(reader, minorVersion)
 
   const type = slotId === "necklace" ? "necklace" : "ring"
 
@@ -226,18 +257,19 @@ function decodeJewelrySlot(reader: BitReaderState, slotId: JewelrySlotId): Jewel
       set,
       quality,
       enchantmentQuality,
+      enchantmentSubtype,
     },
   }
 }
 
-function decodeWeaponBar(reader: BitReaderState): WeaponSlot {
+function decodeWeaponBar(reader: BitReaderState, minorVersion: number): WeaponSlot {
   return {
-    "main-hand": decodeWeaponSlot(reader),
-    "off-hand": decodeWeaponSlot(reader),
+    "main-hand": decodeWeaponSlot(reader, minorVersion),
+    "off-hand": decodeWeaponSlot(reader, minorVersion),
   }
 }
 
-function decodeWeaponSlot(reader: BitReaderState): WeaponSlotItem {
+function decodeWeaponSlot(reader: BitReaderState, minorVersion: number): WeaponSlotItem {
   const isEmpty = readBits(reader, 1) === 1
   if (isEmpty) {
     return {
@@ -260,6 +292,7 @@ function decodeWeaponSlot(reader: BitReaderState): WeaponSlotItem {
     const set = getSetId(readBits(reader, setBits()))
     const quality = decodeQuality(reader)
     const enchantmentQuality = decodeEnchantmentQuality(reader)
+    const enchantmentSubtype = decodeGlyphSubtype(reader, minorVersion)
 
     return {
       itemType: "shield",
@@ -271,6 +304,7 @@ function decodeWeaponSlot(reader: BitReaderState): WeaponSlotItem {
         set,
         quality,
         enchantmentQuality,
+        enchantmentSubtype,
       },
     }
   }
@@ -282,6 +316,7 @@ function decodeWeaponSlot(reader: BitReaderState): WeaponSlotItem {
   const set = getSetId(readBits(reader, setBits()))
   const quality = decodeQuality(reader)
   const enchantmentQuality = decodeEnchantmentQuality(reader)
+  const enchantmentSubtype = decodeGlyphSubtype(reader, minorVersion)
 
   return {
     itemType: "weapon",
@@ -293,6 +328,7 @@ function decodeWeaponSlot(reader: BitReaderState): WeaponSlotItem {
       set,
       quality,
       enchantmentQuality,
+      enchantmentSubtype,
     },
   }
 }
@@ -308,4 +344,10 @@ function decodeEnchantmentQuality(reader: BitReaderState): EquipmentQualityId | 
   if (id === "no-quality") return undefined
   if (id === "mythic") return "legendary"
   return id
+}
+
+function decodeGlyphSubtype(reader: BitReaderState, minorVersion: number): number | undefined {
+  if (minorVersion < FIRST_MINOR_WITH_GLYPH_SUBTYPE) return undefined
+  const subtype = readBits(reader, GLYPH_SUBTYPE_BITS)
+  return subtype === 0 ? undefined : subtype
 }

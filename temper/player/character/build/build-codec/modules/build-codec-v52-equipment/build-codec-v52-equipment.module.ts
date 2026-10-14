@@ -6,6 +6,16 @@ export const buildCodecV52Equipment = {
   slug: "build-codec-v52-equipment",
   definition: "update fifty-two's bit layout for a character's equipment",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each enchanted piece keeps its glyph's subtype, which says the glyph's level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A subtype of zero is a piece whose glyph level is not known.",
+    },
+  ],
   createdAt: "2026-09-02T16:15:21.042Z",
-  updatedAt: "2026-09-22T13:53:26.000Z",
+  updatedAt: "2026-10-14T16:20:19.949Z",
 } as const satisfies Module

@@ -82,7 +82,7 @@ import type { TargetArmorId } from "akasha/temper/player/character/source/module
 export const CHARACTER_BUILD_TYPE = 0x01
 
 export const ESO_VERSION_52 = 52
-const CODEC_MINOR_VERSION = 7
+const CODEC_MINOR_VERSION = 8
 
 const ROLE_BITMASK_BITS = 8
 
@@ -208,7 +208,7 @@ export function decodeV52(data: Uint8Array): CharacterState | null {
 function decodeBody(reader: BitReaderState, minorVersion: number): CharacterState {
   const character = decodeCharacter(reader, minorVersion)
 
-  const equipment = decodeEquipment(reader)
+  const equipment = decodeEquipment(reader, minorVersion)
 
   const skills = decodeSkills(reader)
 
