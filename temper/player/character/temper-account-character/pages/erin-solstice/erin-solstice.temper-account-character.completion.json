@@ -28349,23 +28349,23 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1791990130,
+      "capturedAt": 1791990957,
       "inCombat": false,
       "stats": {
-        "critical-rating-spell": 6006,
+        "magicka-recovery": 535,
         "resistance-critical": 1320,
         "critical-rating-weapon": 6006,
-        "magicka-recovery": 535,
-        "stamina-maximum": 26636,
-        "resistance-physical": 32382,
-        "power-spell": 3286,
-        "power-weapon": 3286,
         "stamina-recovery": 566,
-        "health-recovery": 0,
         "health-maximum": 32651,
+        "power-weapon": 3286,
         "penetration-physical": 7750,
         "penetration-spell": 7750,
+        "power-spell": 3286,
+        "health-recovery": 0,
         "magicka-maximum": 20026,
+        "critical-rating-spell": 6006,
+        "stamina-maximum": 26636,
+        "resistance-physical": 32382,
         "resistance-spell": 33108
       },
       "activeBuffs": [
@@ -28404,23 +28404,23 @@
       ]
     },
     "backBar": {
-      "capturedAt": 1791990035,
+      "capturedAt": 1791990892,
       "inCombat": true,
       "stats": {
-        "critical-rating-spell": 6006,
+        "magicka-recovery": 535,
         "resistance-critical": 1320,
         "critical-rating-weapon": 6006,
-        "magicka-recovery": 691,
-        "stamina-maximum": 26636,
-        "resistance-physical": 32382,
-        "power-spell": 5076,
-        "power-weapon": 5076,
-        "stamina-recovery": 930,
-        "health-recovery": 0,
+        "stamina-recovery": 0,
         "health-maximum": 32651,
+        "power-weapon": 3898,
         "penetration-physical": 5966,
         "penetration-spell": 5966,
+        "power-spell": 3898,
+        "health-recovery": 0,
         "magicka-maximum": 20026,
+        "critical-rating-spell": 6006,
+        "stamina-maximum": 26636,
+        "resistance-physical": 32382,
         "resistance-spell": 33108
       },
       "activeBuffs": [
@@ -28457,40 +28457,20 @@
           "name": "Vampire Stage 4"
         },
         {
-          "abilityId": 29465,
-          "name": "Landslide"
-        },
-        {
           "abilityId": 262658,
           "name": "Power Lash"
+        },
+        {
+          "abilityId": 29465,
+          "name": "Landslide"
         },
         {
           "abilityId": 61662,
           "name": "Minor Brutality"
         },
         {
-          "abilityId": 45450,
-          "name": "Battle Rush"
-        },
-        {
-          "abilityId": 134340,
-          "name": "Heat Shock"
-        },
-        {
-          "abilityId": 153066,
-          "name": "Rejuvenation"
-        },
-        {
-          "abilityId": 21230,
-          "name": "Berserker"
-        },
-        {
-          "abilityId": 32948,
-          "name": "Standard of Might"
-        },
-        {
-          "abilityId": 96005,
-          "name": "Pillars of Nirn"
+          "abilityId": 38763,
+          "name": "Brawler"
         }
       ]
     }
