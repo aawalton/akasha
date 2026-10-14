@@ -16,7 +16,11 @@ export const armorEnchants = {
       decisionKind: "decision-kind/departure",
       statement: "A piece carries the share of the glyph its armor type page states.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A piece's share of a glyph is rounded down, as the game rounds it.",
+    },
   ],
   createdAt: "2026-09-02T09:24:55.959Z",
-  updatedAt: "2026-09-27T05:21:39.000Z",
+  updatedAt: "2026-10-14T16:29:54.652Z",
 } as const satisfies Module
