@@ -1,11 +1,11 @@
 {
-  "buildHash": "ATQHNIFAQABhxAkHHvtQl77QMmC1DJgtIyYLQMmC0DJgtEECrRBsPUQQKtJhEx2xEEx1sUaAhWmKMPDCeiaUADBaCxsAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM8EBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
+  "buildHash": "ATQHNMTAAIBhxAkDE_tAxP7QMmC1DJgtIyYLQMmC0DJgtEGjtRBAq0QQKtJHkx2xEEx1sUbGkBFzFaxueiaUAKnUjPUAAgjlUhFAGWpToAIAEaCACEKgJJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRBQdoFZDg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpN8AdkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
   "gender": 1,
   "level": 50,
   "classId": 1,
   "allianceId": 1,
   "raceId": 10,
-  "curseState": "no-curse",
+  "curseState": "vampire",
   "className": "Dragonknight",
   "classIcon": "/esoui/art/icons/class/class_dragonknight.dds",
   "achievements": {
@@ -1661,7 +1661,7 @@
             "name": "Cauterize",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -1758,7 +1758,7 @@
             "name": "Chains of Dominance",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -1927,7 +1927,7 @@
             "name": "Molten Armaments",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -3319,7 +3319,7 @@
             "name": "Replenishing Barrier",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -16407,7 +16407,7 @@
   },
   "skillPoints": {
     "total": 577,
-    "unassigned": 180,
+    "unassigned": 175,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -28349,88 +28349,204 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1791987636,
+      "capturedAt": 1791988992,
       "inCombat": false,
       "stats": {
-        "health-recovery": 829,
-        "critical-rating-spell": 6006,
-        "resistance-physical": 19512,
-        "power-spell": 3351,
-        "power-weapon": 3351,
+        "magicka-maximum": 20026,
         "resistance-critical": 1320,
+        "power-weapon": 4850,
+        "critical-rating-spell": 6006,
+        "magicka-recovery": 535,
+        "stamina-maximum": 26636,
         "critical-rating-weapon": 6006,
-        "penetration-spell": 9376,
-        "stamina-recovery": 953,
-        "magicka-maximum": 15138,
-        "magicka-recovery": 586,
-        "penetration-physical": 9376,
-        "health-maximum": 43393,
-        "resistance-spell": 20238,
-        "stamina-maximum": 22380
+        "power-spell": 4850,
+        "health-maximum": 32651,
+        "penetration-physical": 7750,
+        "resistance-spell": 33108,
+        "stamina-recovery": 729,
+        "penetration-spell": 7750,
+        "resistance-physical": 32382,
+        "health-recovery": 0
       },
       "activeBuffs": [
         {
-          "abilityId": 61667,
-          "name": "Major Savagery"
+          "abilityId": 127531,
+          "name": "Corrupting Bloody Mara"
         },
         {
-          "abilityId": 107789,
-          "name": "Artaeum Takeaway Broth"
+          "abilityId": 61694,
+          "name": "Major Resolve"
         },
         {
-          "abilityId": 140699,
-          "name": "Minor Timidity"
+          "abilityId": 61746,
+          "name": "Minor Force"
         },
         {
           "abilityId": 63569,
           "name": "Gallop"
         },
         {
-          "abilityId": 13978,
-          "name": "Boon: The Lord"
+          "abilityId": 13976,
+          "name": "Boon: The Lady"
+        },
+        {
+          "abilityId": 61667,
+          "name": "Major Savagery"
+        },
+        {
+          "abilityId": 135402,
+          "name": "Vampire Stage 4"
+        },
+        {
+          "abilityId": 43752,
+          "name": "Soul Summons"
+        },
+        {
+          "abilityId": 29465,
+          "name": "Landslide"
+        },
+        {
+          "abilityId": 262658,
+          "name": "Power Lash"
+        },
+        {
+          "abilityId": 61536,
+          "name": "Mystic Guard"
+        },
+        {
+          "abilityId": 258666,
+          "name": "Igneous Weapons"
+        },
+        {
+          "abilityId": 61549,
+          "name": "Minor Vitality"
+        },
+        {
+          "abilityId": 45450,
+          "name": "Battle Rush"
+        },
+        {
+          "abilityId": 61662,
+          "name": "Minor Brutality"
+        },
+        {
+          "abilityId": 61665,
+          "name": "Major Brutality"
+        },
+        {
+          "abilityId": 21230,
+          "name": "Berserker"
+        },
+        {
+          "abilityId": 99789,
+          "name": "Merciless Charge"
+        },
+        {
+          "abilityId": 32853,
+          "name": "Incinerate"
         }
       ]
     },
     "backBar": {
-      "capturedAt": 1791987637,
-      "inCombat": false,
+      "capturedAt": 1791988989,
+      "inCombat": true,
       "stats": {
-        "health-recovery": 829,
-        "critical-rating-spell": 6006,
-        "resistance-physical": 19512,
-        "power-spell": 3619,
-        "power-weapon": 3619,
+        "magicka-maximum": 20026,
         "resistance-critical": 1320,
+        "power-weapon": 5190,
+        "critical-rating-spell": 6006,
+        "magicka-recovery": 691,
+        "stamina-maximum": 26636,
         "critical-rating-weapon": 6006,
-        "penetration-spell": 4316,
-        "stamina-recovery": 953,
-        "magicka-maximum": 15138,
-        "magicka-recovery": 535,
-        "penetration-physical": 4316,
-        "health-maximum": 43393,
-        "resistance-spell": 20238,
-        "stamina-maximum": 22380
+        "power-spell": 5190,
+        "health-maximum": 32651,
+        "penetration-physical": 5966,
+        "resistance-spell": 33108,
+        "stamina-recovery": 722,
+        "penetration-spell": 5966,
+        "resistance-physical": 32382,
+        "health-recovery": 0
       },
       "activeBuffs": [
         {
-          "abilityId": 61667,
-          "name": "Major Savagery"
+          "abilityId": 127531,
+          "name": "Corrupting Bloody Mara"
         },
         {
-          "abilityId": 107789,
-          "name": "Artaeum Takeaway Broth"
+          "abilityId": 61694,
+          "name": "Major Resolve"
         },
         {
-          "abilityId": 140699,
-          "name": "Minor Timidity"
+          "abilityId": 61746,
+          "name": "Minor Force"
         },
         {
           "abilityId": 63569,
           "name": "Gallop"
         },
         {
-          "abilityId": 13978,
-          "name": "Boon: The Lord"
+          "abilityId": 13976,
+          "name": "Boon: The Lady"
+        },
+        {
+          "abilityId": 61667,
+          "name": "Major Savagery"
+        },
+        {
+          "abilityId": 135402,
+          "name": "Vampire Stage 4"
+        },
+        {
+          "abilityId": 43752,
+          "name": "Soul Summons"
+        },
+        {
+          "abilityId": 29465,
+          "name": "Landslide"
+        },
+        {
+          "abilityId": 262658,
+          "name": "Power Lash"
+        },
+        {
+          "abilityId": 61536,
+          "name": "Mystic Guard"
+        },
+        {
+          "abilityId": 258666,
+          "name": "Igneous Weapons"
+        },
+        {
+          "abilityId": 61549,
+          "name": "Minor Vitality"
+        },
+        {
+          "abilityId": 38763,
+          "name": "Brawler"
+        },
+        {
+          "abilityId": 61662,
+          "name": "Minor Brutality"
+        },
+        {
+          "abilityId": 61665,
+          "name": "Major Brutality"
+        },
+        {
+          "abilityId": 192939,
+          "name": "Shields of Erudition"
+        },
+        {
+          "abilityId": 21230,
+          "name": "Berserker"
+        },
+        {
+          "abilityId": 51646,
+          "name": "Frozen Ground"
+        },
+        {
+          "abilityId": 99789,
+          "name": "Merciless Charge"
         }
       ]
     }
