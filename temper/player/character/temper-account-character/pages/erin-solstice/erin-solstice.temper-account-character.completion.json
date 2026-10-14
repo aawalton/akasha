@@ -1758,7 +1758,7 @@
             "name": "Chains of Dominance",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -16407,10 +16407,10 @@
   },
   "skillPoints": {
     "total": 577,
-    "unassigned": 182,
+    "unassigned": 180,
     "level": 64,
     "mainQuests": 11,
-    "tutorial": 0,
+    "tutorial": 1,
     "foliumDiscognitum": 2,
     "pvpRank": 50,
     "maelstromArena": 1,
@@ -28349,24 +28349,24 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1791986822,
+      "capturedAt": 1791987298,
       "inCombat": false,
       "stats": {
-        "stamina-maximum": 22380,
-        "critical-rating-spell": 6006,
-        "stamina-recovery": 953,
-        "critical-rating-weapon": 6006,
-        "power-spell": 3351,
-        "penetration-spell": 9376,
-        "magicka-maximum": 15138,
-        "penetration-physical": 9376,
-        "resistance-spell": 24477,
-        "health-recovery": 829,
-        "resistance-critical": 1320,
         "resistance-physical": 23751,
-        "health-maximum": 39473,
+        "power-spell": 3351,
+        "power-weapon": 3351,
+        "magicka-maximum": 15138,
+        "resistance-critical": 1320,
+        "health-recovery": 829,
+        "stamina-recovery": 953,
+        "critical-rating-spell": 6006,
         "magicka-recovery": 586,
-        "power-weapon": 3351
+        "penetration-spell": 9376,
+        "resistance-spell": 24477,
+        "stamina-maximum": 22380,
+        "critical-rating-weapon": 6006,
+        "health-maximum": 39473,
+        "penetration-physical": 9376
       },
       "buffs": [
         43752,
@@ -28378,32 +28378,31 @@
       ]
     },
     "backBar": {
-      "capturedAt": 1791986819,
+      "capturedAt": 1791987439,
       "inCombat": false,
       "stats": {
-        "stamina-maximum": 22380,
-        "critical-rating-spell": 6006,
-        "stamina-recovery": 953,
-        "critical-rating-weapon": 6006,
-        "power-spell": 3619,
-        "penetration-spell": 4316,
-        "magicka-maximum": 15138,
-        "penetration-physical": 4316,
-        "resistance-spell": 24477,
-        "health-recovery": 829,
-        "resistance-critical": 1320,
         "resistance-physical": 23751,
-        "health-maximum": 39473,
+        "power-spell": 3619,
+        "power-weapon": 3619,
+        "magicka-maximum": 15138,
+        "resistance-critical": 1320,
+        "health-recovery": 829,
+        "stamina-recovery": 953,
+        "critical-rating-spell": 6006,
         "magicka-recovery": 535,
-        "power-weapon": 3619
+        "penetration-spell": 4316,
+        "resistance-spell": 24477,
+        "stamina-maximum": 22380,
+        "critical-rating-weapon": 6006,
+        "health-maximum": 39473,
+        "penetration-physical": 4316
       },
       "buffs": [
-        43752,
+        61667,
         107789,
         140699,
         63569,
-        13976,
-        61667
+        13976
       ]
     }
   }
