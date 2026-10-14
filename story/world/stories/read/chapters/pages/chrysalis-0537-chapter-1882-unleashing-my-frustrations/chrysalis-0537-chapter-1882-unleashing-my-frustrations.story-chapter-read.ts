@@ -20,5 +20,6 @@ export const chrysalis0537Chapter1882UnleashingMyFrustrations = {
     },
   ],
   createdAt: "2026-10-14T01:07:57.494Z",
-  updatedAt: "2026-10-14T01:07:57.494Z",
+  updatedAt: "2026-10-14T02:06:06.393Z",
+  ownProgress: 1144,
 } as const satisfies StoryChapterRead
