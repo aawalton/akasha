@@ -28349,24 +28349,24 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1791996067,
+      "capturedAt": 1791996106,
       "inCombat": false,
       "stats": {
-        "power-spell": 3286,
-        "penetration-physical": 7750,
-        "stamina-recovery": 566,
-        "health-recovery": 0,
-        "critical-rating-weapon": 6006,
-        "power-weapon": 3286,
-        "health-maximum": 32651,
-        "critical-rating-spell": 6006,
-        "resistance-physical": 32382,
-        "magicka-recovery": 535,
-        "stamina-maximum": 26636,
-        "penetration-spell": 7750,
+        "resistance-critical": 1320,
         "magicka-maximum": 20026,
+        "critical-rating-spell": 6006,
+        "critical-rating-weapon": 6006,
+        "health-recovery": 0,
+        "resistance-physical": 32382,
+        "penetration-spell": 7750,
+        "power-spell": 3286,
+        "power-weapon": 3286,
+        "stamina-recovery": 566,
+        "health-maximum": 32651,
+        "magicka-recovery": 535,
         "resistance-spell": 33108,
-        "resistance-critical": 1320
+        "penetration-physical": 7750,
+        "stamina-maximum": 26636
       },
       "activeBuffs": [
         {
@@ -28958,20 +28958,20 @@
       "inCombat": true,
       "stats": {
         "power-spell": 5322,
-        "penetration-physical": 5966,
-        "stamina-recovery": 1138,
-        "health-recovery": 0,
-        "critical-rating-weapon": 6006,
-        "power-weapon": 5322,
-        "health-maximum": 32651,
-        "critical-rating-spell": 6006,
-        "resistance-physical": 35356,
-        "magicka-recovery": 691,
-        "stamina-maximum": 26636,
-        "penetration-spell": 5966,
         "magicka-maximum": 20026,
+        "resistance-critical": 1320,
         "resistance-spell": 36082,
-        "resistance-critical": 1320
+        "health-recovery": 0,
+        "critical-rating-spell": 6006,
+        "penetration-spell": 5966,
+        "stamina-maximum": 26636,
+        "magicka-recovery": 691,
+        "resistance-physical": 35356,
+        "health-maximum": 32651,
+        "stamina-recovery": 1138,
+        "power-weapon": 5322,
+        "penetration-physical": 5966,
+        "critical-rating-weapon": 6006
       },
       "activeBuffs": [
         {
