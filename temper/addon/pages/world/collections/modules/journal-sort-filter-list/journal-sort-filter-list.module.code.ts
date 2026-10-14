@@ -225,7 +225,7 @@ function addEntry(
   data: unknown,
   callback: (this: void, ...args: unknown[]) => void
 ): undefined {
-  const entry = ZO_ComboBox.CreateItemEntry(label, callback)
+  const entry = object.CreateItemEntry(label, callback)
   const entryRecord = asRecord(entry)
   entryRecord.id = id
   entryRecord.data = data

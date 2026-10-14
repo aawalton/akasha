@@ -56,6 +56,12 @@ interface ZoComboBox {
   AddItem: (this: ZoComboBox, entry: object, updateMode?: number) => void
   GetNumItems: (this: ZoComboBox) => number
   SelectItemByIndex: (this: ZoComboBox, index: number, ...args: unknown[]) => void
+  CreateItemEntry: (
+    this: ZoComboBox,
+    name: string,
+    callback?: (this: void, ...args: unknown[]) => void,
+    enabled?: boolean
+  ) => object
   GetContainer: (this: ZoComboBox) => Control
   shouldOpenAbove?: boolean
   m_container?: Control
