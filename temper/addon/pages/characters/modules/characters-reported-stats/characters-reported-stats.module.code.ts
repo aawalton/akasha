@@ -36,8 +36,10 @@ function activeBuffs(): { abilityId: number; name: string }[] {
 
 const CHAMPION_DISCIPLINES = 3
 
-function championPoints(): { championSkillId: number; points: number; maxPoints: number }[] {
-  const stars: { championSkillId: number; points: number; maxPoints: number }[] = []
+type StarSpent = { championSkillId: number; points: number; maxPoints: number; bonus: string }
+
+function championPoints(): StarSpent[] {
+  const stars: StarSpent[] = []
   for (let disciplineIndex = 1; disciplineIndex <= CHAMPION_DISCIPLINES; disciplineIndex++) {
     const count = GetNumChampionDisciplineSkills(disciplineIndex)
     for (let skillIndex = 1; skillIndex <= count; skillIndex++) {
@@ -48,6 +50,7 @@ function championPoints(): { championSkillId: number; points: number; maxPoints:
           championSkillId,
           points,
           maxPoints: GetChampionSkillMaxPoints(championSkillId),
+          bonus: GetChampionSkillCurrentBonusText(championSkillId),
         })
       }
     }

@@ -146,6 +146,7 @@ const championStarSchema = z.strictObject({
   championSkillId: z.number(),
   points: z.number(),
   maxPoints: z.number(),
+  bonus: z.string().optional(),
 })
 
 const reportedStatsReadingSchema = z.strictObject({
