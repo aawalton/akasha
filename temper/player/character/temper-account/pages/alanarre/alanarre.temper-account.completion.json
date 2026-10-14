@@ -41909,7 +41909,7 @@
       "name": "Lord Warden",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Imperial City Prison",
-      "slotsUnlocked": 5,
+      "slotsUnlocked": 6,
       "totalSlots": 6,
       "pieces": [
         {
@@ -41922,7 +41922,7 @@
         },
         {
           "name": "Lord Warden Dusk's Visage",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Lord Warden Dusk's Epaulets",
@@ -43240,7 +43240,7 @@
       "name": "Scathing Mage",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Imperial City Prison",
-      "slotsUnlocked": 13,
+      "slotsUnlocked": 14,
       "totalSlots": 22,
       "pieces": [
         {
@@ -43321,7 +43321,7 @@
         },
         {
           "name": "Ice Staff of the Scathing Mage",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Lightning Staff of the Scathing Mage",
@@ -43531,7 +43531,7 @@
       "name": "Sheer Venom",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Imperial City Prison",
-      "slotsUnlocked": 11,
+      "slotsUnlocked": 12,
       "totalSlots": 22,
       "pieces": [
         {
@@ -43580,7 +43580,7 @@
         },
         {
           "name": "Mace of Sheer Venom",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Sword of Sheer Venom",
