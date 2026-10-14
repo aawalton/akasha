@@ -5,6 +5,8 @@ import type { EffectSource } from "akasha/temper/player/character/formula-framew
 import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import { topologicalSort } from "akasha/temper/player/character/formula-framework/modules/topological-sort/topological-sort.module.code.ts"
 import { baseSource } from "akasha/temper/player/character/source/modules/base-source/base-source.module.code.ts"
+import { foodOrDrink } from "akasha/temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
+import { mundus } from "akasha/temper/player/character/source/modules/mundus-source/mundus-source.module.code.ts"
 import { calculateBuffs } from "akasha/temper/player/character/stat/modules/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts"
 import { buildStateToEffectSources } from "akasha/temper/player/character/stat/modules/build-state-adapter/build-state-adapter.module.code.ts"
 import type { FormulaNode } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
@@ -147,22 +149,37 @@ function calculateMetricValues(sources: readonly EffectSource[]): CalculationRes
 export function calculateReadingStatsByBar(
   build: CharacterState,
   bar: "primary-weapon-bar" | "backup-weapon-bar",
-  activeBuffNames: readonly string[]
+  listed: readonly { readonly abilityId: number; readonly name: string }[]
 ): CalculationResult & { unmatchedBuffNames: readonly string[] } {
-  const byName = new Map<string, EffectSource>()
-  for (const buff of Object.values(buffOrDebuff().data)) byName.set(buff.name, buff)
+  const buffByName = new Map<string, EffectSource>()
+  for (const buff of Object.values(buffOrDebuff().data)) buffByName.set(buff.name, buff)
+  const foodByAbility = new Map<number, string>()
+  for (const food of Object.values(foodOrDrink().data)) foodByAbility.set(food.abilityId, food.id)
+  const stoneByAbility = new Map<number, string>()
+  for (const stone of Object.values(mundus().data)) stoneByAbility.set(stone.esoMundusId, stone.id)
 
+  let foodOrDrinkId = "no-food-or-drink"
+  let mundusStone = "no-mundus"
   const activeBuffs: EffectSource[] = []
   const unmatchedBuffNames: string[] = []
-  for (const name of activeBuffNames) {
-    const buff = byName.get(name)
-    if (buff === undefined) unmatchedBuffNames.push(name)
-    else activeBuffs.push(buff)
+  for (const { abilityId, name } of listed) {
+    const food = foodByAbility.get(abilityId)
+    const stone = stoneByAbility.get(abilityId)
+    const buff = buffByName.get(name)
+    if (food !== undefined) foodOrDrinkId = food
+    else if (stone !== undefined) mundusStone = stone
+    else if (buff !== undefined) activeBuffs.push(buff)
+    else unmatchedBuffNames.push(name)
   }
 
+  const asListed: CharacterState = {
+    ...build,
+    character: { ...build.character, mundusStone },
+    consumables: { ...build.consumables, foodOrDrink: foodOrDrinkId },
+  }
   const sources: EffectSource[] = [
     baseSource(),
-    ...buildStateToEffectSources(build, bar),
+    ...buildStateToEffectSources(asListed, bar),
     ...activeBuffs,
   ]
   return { sources, metrics: calculateBaseStats(sources), unmatchedBuffNames }

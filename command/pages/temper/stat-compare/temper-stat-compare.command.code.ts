@@ -101,7 +101,7 @@ export async function temperStatCompare(argv: readonly string[], given: Given): 
       )
     }
     const names = reading.activeBuffs.map((buff) => buff.name)
-    const estimated = calculateReadingStatsByBar(build, bar, names)
+    const estimated = calculateReadingStatsByBar(build, bar, reading.activeBuffs)
     const gaps: StatGap[] = []
     for (const [stat, game] of Object.entries(reading.stats)) {
       const estimate = (estimated.metrics as Record<string, { value: number } | undefined>)[stat]

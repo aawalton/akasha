@@ -23,9 +23,14 @@ export const metricCalculator = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A reading's food and mundus stone are the ones the game listed, matched by ability.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A buff the game listed that no buff page names is told rather than dropped.",
     },
   ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-10-14T14:17:00.259Z",
+  updatedAt: "2026-10-14T14:22:44.213Z",
 } as const satisfies Module
