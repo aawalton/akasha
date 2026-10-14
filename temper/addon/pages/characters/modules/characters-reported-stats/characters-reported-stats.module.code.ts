@@ -6,6 +6,7 @@ import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaratio
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 
 const REPORTED_STATS: ReadonlyArray<readonly [string, number]> = [
   ["health-maximum", STAT_HEALTH_MAX],
@@ -25,12 +26,18 @@ const REPORTED_STATS: ReadonlyArray<readonly [string, number]> = [
   ["critical-rating-spell", STAT_SPELL_CRITICAL],
 ]
 
-function activeBuffs(): { abilityId: number; name: string }[] {
-  const buffs: { abilityId: number; name: string }[] = []
+type ActiveBuff = { abilityId: number; name: string; description: string }
+
+function activeBuffs(): ActiveBuff[] {
+  const buffs: ActiveBuff[] = []
   const count = GetNumBuffs("player")
   for (let index = 1; index <= count; index++) {
     const [name, , , , , , , , , , abilityId] = GetUnitBuffInfo("player", index)
-    buffs.push({ abilityId, name: zo_strformat("<<1>>", name) })
+    buffs.push({
+      abilityId,
+      name: zo_strformat("<<1>>", name),
+      description: GetAbilityDescription(abilityId, undefined, "player"),
+    })
   }
   return buffs
 }

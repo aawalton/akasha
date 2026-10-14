@@ -140,7 +140,11 @@ const cadwellProgressSchema = z.strictObject({
   levels: z.record(z.number(), cadwellLevelSchema),
 })
 
-const activeBuffSchema = z.strictObject({ abilityId: z.number(), name: z.string() })
+const activeBuffSchema = z.strictObject({
+  abilityId: z.number(),
+  name: z.string(),
+  description: z.string().optional(),
+})
 
 const championStarSchema = z.strictObject({
   championSkillId: z.number(),

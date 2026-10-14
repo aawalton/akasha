@@ -22,6 +22,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps the text the game gives each of those buffs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading says whether the player was in combat when it was taken.",
     },
     {
@@ -38,5 +42,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-14T15:41:19.711Z",
+  updatedAt: "2026-10-14T16:43:37.640Z",
 } as const satisfies Module
