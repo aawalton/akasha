@@ -17,12 +17,17 @@ export const testsPass = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A change is judged too by the test of each module reading the type of a page it has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Any other test is left red rather than made input.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A test another file's change breaks is in the wrong file, unless that file is a test fixture.",
+        "A test another file's change breaks is misplaced, unless that file is a fixture or a page it reads.",
     },
 
     {
@@ -108,8 +113,8 @@ export const testsPass = {
       statement: "A change with only a test runs that test.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No test is named for a file whose test does not stand beside that file.",
+      decisionKind: "decision-kind/departure",
+      statement: "A file of a page whose type a module's test reads is input to the check.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -370,5 +375,5 @@ export const testsPass = {
   check: {},
   audit: {},
   createdAt: "2026-08-29T18:09:42.932Z",
-  updatedAt: "2026-09-25T19:40:18.000Z",
+  updatedAt: "2026-10-14T18:24:29.973Z",
 } as const satisfies CheckCode

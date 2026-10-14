@@ -4,17 +4,59 @@ import { testFixture } from "akasha/check/test/fixture/test-fixture.page-type.ts
 import { componentTestFixtures } from "akasha/code/component/properties/component-test-fixtures.code-file-property.ts"
 import { code } from "akasha/code/module/properties/code.code-file-property.ts"
 import { testFixtures } from "akasha/code/module/properties/test-fixtures.code-file-property.ts"
+import { testReads } from "akasha/code/module/properties/test-reads.multi-relation-property.ts"
 import { testsBesideOf } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import type { Link } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
 import { calledIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
+
+type ReadersOf = (path: string) => readonly string[]
+
+type Naming = Pick<Answering, "listedAt" | "namersAt">
+
+function noReaders(): readonly string[] {
+  return []
+}
+
+const READERS = new WeakMap<Naming, ReadersOf>()
+
+export function readersIn(index: Naming): ReadersOf {
+  const held = READERS.get(index)
+  if (held !== undefined) return held
+  const byType = new Map<string, readonly string[]>()
+  const readersOf: ReadersOf = (path) => {
+    const said = partedIn(path)
+    if (said === null) return []
+    const known = byType.get(said.pageType)
+    if (known !== undefined) return known
+    const listed = index.listedAt(pageType.slug, said.pageType)[0]
+    const found =
+      listed === undefined
+        ? []
+        : index
+            .namersAt(listed.path)
+            .filter((one) => one.propertySlug === testReads.propertySlug)
+            .map((one) => one.path)
+    byType.set(said.pageType, found)
+    return found
+  }
+  READERS.set(index, readersOf)
+  return readersOf
+}
 
 export function testedBeside(path: string, shadow: Shadow): boolean {
   for (const beside of testsBesideOf(path)) {
     if (beside === path) return true
     if (shadow.holds(beside)) return true
+  }
+  for (const reader of readersIn(shadow.index)(path)) {
+    for (const beside of testsBesideOf(reader)) {
+      if (shadow.holds(beside)) return true
+    }
   }
   return false
 }
@@ -39,7 +81,8 @@ function fixtureNamed(path: string): boolean {
 export function namedOver(
   paths: readonly string[],
   there: (path: string) => boolean,
-  importersOf: (path: string) => readonly string[]
+  importersOf: (path: string) => readonly string[],
+  readersOf: ReadersOf = noReaders
 ): readonly string[] {
   const held = new Set<string>()
   const holding = (one: string): undefined => {
@@ -49,6 +92,7 @@ export function namedOver(
   }
   for (const one of paths) {
     holding(one)
+    for (const reader of readersOf(one)) holding(reader)
     if (!fixtureNamed(one)) continue
     for (const importer of importersOf(one)) holding(importer)
   }
@@ -59,7 +103,8 @@ export function namedIn(change: Change, shadow: Shadow): readonly string[] {
   return namedOver(
     change.changed,
     (path) => change.after(path) !== null,
-    (path) => shadow.index.importersOf(path)
+    (path) => shadow.index.importersOf(path),
+    readersIn(shadow.index)
   )
 }
 

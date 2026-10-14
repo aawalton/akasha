@@ -36,7 +36,20 @@ export const runNaming = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A changed file that is no test fixture names only the tests beside that file.",
+      statement:
+        "A changed page, or a file beside one, names the test of each module reading its type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A module reads a page type its page names among the types its test reads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those modules are read from the index the change leaves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A changed file that is no test fixture names no importer's test.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -60,5 +73,5 @@ export const runNaming = {
     },
   ],
   createdAt: "2026-09-19T03:50:53.912Z",
-  updatedAt: "2026-09-24T15:28:24.000Z",
+  updatedAt: "2026-10-14T18:24:29.973Z",
 } as const satisfies Module

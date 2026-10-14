@@ -3,6 +3,7 @@ import {
   linksIn,
   namedIn,
   namedOver,
+  readersIn,
 } from "akasha/check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts"
 import {
   HOLDS,
@@ -15,6 +16,7 @@ import {
   gone,
   proposing,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
@@ -100,6 +102,59 @@ test("a file that is no test fixture names only the tests beside it, though a fi
 test("a test beside an importer that the change leaves nowhere is named by nothing", () => {
   const said = namedOver([FIXTURE_AT], thereAt(FIXTURE_TEST_AT), importing(FIXTURE_AT))
   expect(said).toEqual([FIXTURE_TEST_AT])
+})
+
+const READER_AT = "akasha/reader/reader.module.ts"
+
+const READER_TEST_AT = "akasha/reader/reader.module.test.ts"
+
+const READ_AT = "akasha/stats/health.stat.formula.ts"
+
+function reading(of: string): (path: string) => readonly string[] {
+  return (path) => (path === of ? [READER_AT] : [])
+}
+
+function noImporters(): readonly string[] {
+  return []
+}
+
+test("a file of a page whose type a module's test reads names that module's test", () => {
+  const said = namedOver([READ_AT], thereAt(READER_TEST_AT), noImporters, reading(READ_AT))
+  expect(said).toEqual([READER_TEST_AT])
+})
+
+test("a reader's test the change leaves nowhere is named by nothing", () => {
+  expect(namedOver([READ_AT], thereAt(), noImporters, reading(READ_AT))).toEqual([])
+})
+
+const STAT_TYPE_AT = "akasha/stat/stat.page-type.ts"
+
+const OTHER_AT = "akasha/other/other.module.ts"
+
+function indexNaming(propertySlug: string): Pick<Answering, "listedAt" | "namersAt"> {
+  return {
+    listedAt: (kind, slug) =>
+      kind === "page-type" && slug === "stat" ? [{ path: STAT_TYPE_AT, id: "stat" }] : [],
+    namersAt: (path) =>
+      path === STAT_TYPE_AT
+        ? [
+            { path: READER_AT, propertySlug },
+            { path: OTHER_AT, propertySlug: "parts" },
+          ]
+        : [],
+  }
+}
+
+test("the readers of a file are the modules naming its page type among those their tests read", () => {
+  expect(readersIn(indexNaming("test-reads"))(READ_AT)).toEqual([READER_AT])
+})
+
+test("a module naming the page type under another property is no reader", () => {
+  expect(readersIn(indexNaming("parts"))(READ_AT)).toEqual([])
+})
+
+test("a file that names no page type has no reader", () => {
+  expect(readersIn(indexNaming("test-reads"))("akasha/held.md")).toEqual([])
 })
 
 const SCOPED = '{ "name": "@akasha/held" }\n'
