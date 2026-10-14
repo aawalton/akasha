@@ -4,8 +4,15 @@ export const characterCaptureEnchantQuality = {
   id: "01a0616b-9b51-721f-941f-564f2f6934aa",
   type: "page-type/module",
   slug: "character-capture-enchant-quality",
-  definition: "the quality of the glyph an item link names",
+  definition: "the quality and subtype of the glyph an item link names",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A link naming no subtype, or one past what nine bits hold, gives a subtype of zero.",
+    },
+  ],
   createdAt: "2026-09-02T09:20:37.201Z",
-  updatedAt: "2026-09-21T15:13:00.000Z",
+  updatedAt: "2026-10-14T16:22:09.119Z",
 } as const satisfies Module

@@ -8,7 +8,10 @@ import type {
   CharacterJewelrySlotData,
   CharacterWeaponSlotData,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-codec-types/character-capture-codec-types.module.code.ts"
-import { getEnchantQualityIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-enchant-quality/character-capture-enchant-quality.module.code.ts"
+import {
+  getEnchantQualityIndex,
+  getEnchantSubtype,
+} from "akasha/temper/capture/characters-capture-addon/modules/character-capture-enchant-quality/character-capture-enchant-quality.module.code.ts"
 import {
   getPlayerArmorEnchantIndex,
   getPlayerArmorTraitIndex,
@@ -34,6 +37,7 @@ export function captureCharacterArmorSlot(slot: number): CharacterArmorSlotData 
       setIndex: 0,
       qualityIndex: 0,
       enchantQualityIndex: 0,
+      enchantSubtype: 0,
     }
   }
 
@@ -50,6 +54,7 @@ export function captureCharacterArmorSlot(slot: number): CharacterArmorSlotData 
     setIndex: getSetIndex(setId),
     qualityIndex: getQualityIndex(GetItemDisplayQuality(BAG_WORN, slot)),
     enchantQualityIndex: getEnchantQualityIndex(itemLink),
+    enchantSubtype: getEnchantSubtype(itemLink),
   }
 }
 
@@ -64,6 +69,7 @@ export function captureCharacterJewelrySlot(slot: number): CharacterJewelrySlotD
       setIndex: 0,
       qualityIndex: 0,
       enchantQualityIndex: 0,
+      enchantSubtype: 0,
     }
   }
 
@@ -78,6 +84,7 @@ export function captureCharacterJewelrySlot(slot: number): CharacterJewelrySlotD
     setIndex: getSetIndex(setId),
     qualityIndex: getQualityIndex(GetItemDisplayQuality(BAG_WORN, slot)),
     enchantQualityIndex: getEnchantQualityIndex(itemLink),
+    enchantSubtype: getEnchantSubtype(itemLink),
   }
 }
 
@@ -95,6 +102,7 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
     setIndex: 0,
     qualityIndex: 0,
     enchantQualityIndex: 0,
+    enchantSubtype: 0,
   }
 
   if (itemLink === "") {
@@ -107,6 +115,7 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
   const setId = getItemSetId(itemLink)
   const qualityIndex = getQualityIndex(GetItemDisplayQuality(BAG_WORN, slot))
   const enchantQualityIndex = getEnchantQualityIndex(itemLink)
+  const enchantSubtype = getEnchantSubtype(itemLink)
 
   if (weaponType === WEAPONTYPE_SHIELD) {
     return {
@@ -121,6 +130,7 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
       setIndex: getSetIndex(setId),
       qualityIndex,
       enchantQualityIndex,
+      enchantSubtype,
     }
   }
 
@@ -136,6 +146,7 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
     setIndex: getSetIndex(setId),
     qualityIndex,
     enchantQualityIndex,
+    enchantSubtype,
   }
 }
 

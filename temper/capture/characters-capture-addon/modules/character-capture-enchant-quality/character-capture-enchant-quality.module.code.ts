@@ -14,13 +14,25 @@ const ENCHANT_SUBTYPE_TO_QUALITY_INDEX: Record<number, number> = {
   [370]: 5,
 }
 
+const ENCHANT_SUBTYPE_LIMIT = 512
+
 function parseLuaCapture(captured: string | undefined): string | undefined {
   return captured
 }
 
-export function getEnchantQualityIndex(itemLink: string): number {
+function linkEnchantSubtype(itemLink: string): number | undefined {
   const [capture] = string.match(itemLink, ":item:%d+:%d+:%d+:%d+:(%d+)")
-  const enchantSubType = tonumber(parseLuaCapture(capture))
+  return tonumber(parseLuaCapture(capture))
+}
+
+export function getEnchantQualityIndex(itemLink: string): number {
+  const enchantSubType = linkEnchantSubtype(itemLink)
   if (enchantSubType === undefined) return 5
   return ENCHANT_SUBTYPE_TO_QUALITY_INDEX[enchantSubType] ?? 5
+}
+
+export function getEnchantSubtype(itemLink: string): number {
+  const enchantSubType = linkEnchantSubtype(itemLink)
+  if (enchantSubType === undefined || enchantSubType >= ENCHANT_SUBTYPE_LIMIT) return 0
+  return enchantSubType
 }

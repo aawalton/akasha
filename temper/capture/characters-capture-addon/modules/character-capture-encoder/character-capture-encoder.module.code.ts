@@ -15,6 +15,7 @@ import {
   CHARACTER_ESO_VERSION,
   CHARACTER_FOCUS_SCRIPT_BITS,
   CHARACTER_FOOD_OR_DRINK_BITS,
+  CHARACTER_GLYPH_SUBTYPE_BITS,
   CHARACTER_GRIMOIRE_BITS,
   CHARACTER_JEWELRY_ENCHANT_BITS,
   CHARACTER_JEWELRY_TRAIT_BITS,
@@ -82,6 +83,7 @@ export function encodeCharacterBuild(build: CharacterBuildData): string {
       writeBits(writer, slot.setIndex, CHARACTER_SET_BITS)
       writeBits(writer, slot.qualityIndex, CHARACTER_QUALITY_BITS)
       writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
+      writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
     }
   }
 
@@ -95,6 +97,7 @@ export function encodeCharacterBuild(build: CharacterBuildData): string {
       writeBits(writer, slot.setIndex, CHARACTER_SET_BITS)
       writeBits(writer, slot.qualityIndex, CHARACTER_QUALITY_BITS)
       writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
+      writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
     }
   }
 
@@ -163,6 +166,7 @@ function encodeCharacterWeaponSlot(
     writeBits(writer, slot.setIndex, CHARACTER_SET_BITS)
     writeBits(writer, slot.qualityIndex, CHARACTER_QUALITY_BITS)
     writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
+    writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
   } else {
     writeBits(writer, 0, 1)
     writeBits(writer, slot.typeIndex, CHARACTER_WEAPON_TYPE_BITS)
@@ -172,5 +176,6 @@ function encodeCharacterWeaponSlot(
     writeBits(writer, slot.setIndex, CHARACTER_SET_BITS)
     writeBits(writer, slot.qualityIndex, CHARACTER_QUALITY_BITS)
     writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
+    writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
   }
 }
