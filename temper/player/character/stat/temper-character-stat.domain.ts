@@ -63,6 +63,22 @@ export const temperCharacterStat = {
       ],
     },
   ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game holds its numbers as floats and floors them at points of its own.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A float landing just under a round number is floored a step lower than plain math.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Where the game floors is found from readings, and each floor found is pinned by a case.",
+    },
+  ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-14T18:38:55.013Z",
+  updatedAt: "2026-10-14T19:00:49.884Z",
 } as const satisfies Domain
