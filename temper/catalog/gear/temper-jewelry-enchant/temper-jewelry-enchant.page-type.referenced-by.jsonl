@@ -26,3 +26,4 @@
 {"propertySlug":"import","fileName":"temper-jewelry-enchant.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/shock-resist/shock-resist.temper-jewelry-enchant.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-jewelry-enchant.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/stamina-recovery/stamina-recovery.temper-jewelry-enchant.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

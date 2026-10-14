@@ -6,3 +6,4 @@
 {"propertySlug":"import","fileName":"temper-skill-bar.page-type.types.ts","path":"temper/player/character/temper-skill-bar/pages/primary-skill-bar.temper-skill-bar.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-bar.page-type.types.ts","path":"temper/player/skill-morph/modules/morph-rank-pages/morph-rank-pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

@@ -126,3 +126,4 @@
 {"propertySlug":"import","fileName":"temper-champion-star.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/pages/weapons-expert.temper-champion-star.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-champion-star.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/pages/wrathful-strikes.temper-champion-star.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/champion-point/temper-champion-point.domain.ts","id":"01a06076-1b64-7dfd-b35b-f6c86003f6c1"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

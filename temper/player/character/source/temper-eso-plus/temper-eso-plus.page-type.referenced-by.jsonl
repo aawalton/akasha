@@ -3,3 +3,4 @@
 {"propertySlug":"import","fileName":"temper-eso-plus.page-type.types.ts","path":"temper/player/character/source/temper-eso-plus/pages/eso-plus-active.temper-eso-plus.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-plus.page-type.types.ts","path":"temper/player/character/source/temper-eso-plus/pages/no-eso-plus.temper-eso-plus.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/source/temper-character-source.domain.ts","id":"01a060ea-ac66-7120-a995-b58614b651f2"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}
