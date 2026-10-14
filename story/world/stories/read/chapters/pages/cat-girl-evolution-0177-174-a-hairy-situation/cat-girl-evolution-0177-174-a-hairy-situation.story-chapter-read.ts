@@ -20,5 +20,6 @@ export const catGirlEvolution0177174AHairySituation = {
     },
   ],
   createdAt: "2026-10-14T07:07:49.318Z",
-  updatedAt: "2026-10-14T07:07:49.318Z",
+  updatedAt: "2026-10-14T22:09:03.809Z",
+  ownProgress: 2107,
 } as const satisfies StoryChapterRead

@@ -20,5 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0067Chapter439SpaceAndEssence = {
     },
   ],
   createdAt: "2026-10-14T07:07:49.318Z",
-  updatedAt: "2026-10-14T07:07:49.318Z",
+  updatedAt: "2026-10-14T22:09:03.809Z",
+  ownProgress: 2358,
 } as const satisfies StoryChapterRead
