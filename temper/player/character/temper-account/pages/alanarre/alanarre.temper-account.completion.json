@@ -52597,7 +52597,7 @@
       "name": "Draugr's Rest",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 19,
+      "slotsUnlocked": 20,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52642,7 +52642,7 @@
         },
         {
           "name": "Draugr's Rest Axe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Draugr's Rest Mace",
@@ -52791,7 +52791,7 @@
       "name": "Ironblood",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 19,
+      "slotsUnlocked": 20,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52852,7 +52852,7 @@
         },
         {
           "name": "Ironblood Maul",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Ironblood Greatsword",
