@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQINMTAAIBhxAkDE_tnAGJ_bOAMmC2cIZMFs4IyYLZwBkwWzgDJgtnAg0drchBAq25CCBVtyJHkx23KIgmOtuUUbGkBFzFaxueiaUAKnUjPWAAgjlUxFQGWrToAIAEaCICEKgZJwg8APQAjnVVrA4pUADJqBgjIhI4gQASCCc9HKRBQfolZDg8y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpN8AdkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
+  "buildHash": "ATQINMUAAIBhxAkDE_tnAGJ_bOAMmC2cIZMFs4IyYLZwBkwWzgDJgtnAg0drchBAq25CCBVtyJHkx23KIgmOtuUUbGkBFzFaxueiaUAKnUjPWAAgjlUxFQGWrToAIAEaCICEKgZJwg8APQAjnVVrA4pUADJqBgjIhI4gQASCCc9HKRBQfolZDg8y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpN8AdkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -28349,53 +28349,77 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1791997005,
+      "capturedAt": 1791998698,
       "inCombat": false,
       "stats": {
-        "magicka-maximum": 20026,
-        "resistance-critical": 1320,
-        "magicka-recovery": 535,
         "critical-rating-spell": 6006,
         "stamina-recovery": 566,
-        "stamina-maximum": 26636,
-        "penetration-physical": 7750,
-        "power-spell": 3286,
-        "power-weapon": 3286,
+        "magicka-maximum": 20026,
         "critical-rating-weapon": 6006,
-        "health-maximum": 32651,
+        "penetration-spell": 12239,
+        "resistance-critical": 1320,
         "health-recovery": 0,
-        "penetration-spell": 7750,
-        "resistance-spell": 33108,
-        "resistance-physical": 32382
+        "resistance-physical": 27893,
+        "health-maximum": 32651,
+        "power-weapon": 3286,
+        "power-spell": 3286,
+        "penetration-physical": 12239,
+        "stamina-maximum": 26636,
+        "magicka-recovery": 535,
+        "resistance-spell": 28619
+      },
+      "unbonusedStats": {
+        "critical-rating-spell": 2181,
+        "stamina-recovery": 566,
+        "magicka-maximum": 20026,
+        "critical-rating-weapon": 2181,
+        "penetration-spell": 0,
+        "resistance-critical": 0,
+        "health-recovery": 0,
+        "resistance-physical": 0,
+        "health-maximum": 32651,
+        "power-weapon": 1000,
+        "power-spell": 1000,
+        "penetration-physical": 0,
+        "stamina-maximum": 26636,
+        "magicka-recovery": 535,
+        "resistance-spell": 0
       },
       "activeBuffs": [
         {
           "abilityId": 127531,
-          "name": "Corrupting Bloody Mara"
+          "name": "Corrupting Bloody Mara",
+          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you."
         },
         {
           "abilityId": 61694,
-          "name": "Major Resolve"
+          "name": "Major Resolve",
+          "description": ""
         },
         {
           "abilityId": 61746,
-          "name": "Minor Force"
+          "name": "Minor Force",
+          "description": ""
         },
         {
           "abilityId": 63569,
-          "name": "Gallop"
+          "name": "Gallop",
+          "description": ""
         },
         {
-          "abilityId": 13976,
-          "name": "Boon: The Lady"
+          "abilityId": 13981,
+          "name": "Boon: The Lover",
+          "description": "increases Physical and Spell Penetration"
         },
         {
           "abilityId": 61667,
-          "name": "Major Savagery"
+          "name": "Major Savagery",
+          "description": ""
         },
         {
           "abilityId": 135402,
-          "name": "Vampire Stage 4"
+          "name": "Vampire Stage 4",
+          "description": ""
         }
       ],
       "championPoints": [
@@ -28877,7 +28901,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:6256:0|h|h",
+          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:6045:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
@@ -28889,37 +28913,37 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:4048:0|h|h",
+          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:3748:0|h|h",
           "armor": 2772,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:5703:0|h|h",
+          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:5239:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:388:0|h|h",
+          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:310:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2014|r Magic Damage and restores |cffffff439|r Health and |cffffff177|r Magicka and Stamina."
         },
         {
           "slot": 6,
-          "link": "|H0:item:215596:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:5896:0|h|h",
+          "link": "|H0:item:215596:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:5775:0|h|h",
           "armor": 523,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
         {
           "slot": 8,
-          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:4470:0|h|h",
+          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:4039:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
         {
           "slot": 9,
-          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:5787:0|h|h",
+          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:5454:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
@@ -28937,74 +28961,130 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:4829:0|h|h",
+          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:3961:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:290:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:241:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds."
         }
       ]
     },
     "backBar": {
-      "capturedAt": 1791996931,
+      "capturedAt": 1791998654,
       "inCombat": true,
       "stats": {
-        "magicka-maximum": 20026,
-        "resistance-critical": 1320,
-        "magicka-recovery": 535,
         "critical-rating-spell": 6006,
-        "stamina-recovery": 566,
-        "stamina-maximum": 26636,
-        "penetration-physical": 5966,
-        "power-spell": 3898,
-        "power-weapon": 3898,
+        "stamina-recovery": 930,
+        "magicka-maximum": 20026,
         "critical-rating-weapon": 6006,
-        "health-maximum": 32651,
+        "penetration-spell": 10455,
+        "resistance-critical": 1320,
         "health-recovery": 0,
-        "penetration-spell": 5966,
-        "resistance-spell": 33108,
-        "resistance-physical": 32382
+        "resistance-physical": 27893,
+        "health-maximum": 32651,
+        "power-weapon": 4594,
+        "power-spell": 4594,
+        "penetration-physical": 10455,
+        "stamina-maximum": 26636,
+        "magicka-recovery": 691,
+        "resistance-spell": 28619
+      },
+      "unbonusedStats": {
+        "critical-rating-spell": 2181,
+        "stamina-recovery": 930,
+        "magicka-maximum": 20026,
+        "critical-rating-weapon": 2181,
+        "penetration-spell": 0,
+        "resistance-critical": 0,
+        "health-recovery": 0,
+        "resistance-physical": 0,
+        "health-maximum": 32651,
+        "power-weapon": 1000,
+        "power-spell": 1000,
+        "penetration-physical": 0,
+        "stamina-maximum": 26636,
+        "magicka-recovery": 691,
+        "resistance-spell": 0
       },
       "activeBuffs": [
         {
-          "abilityId": 61662,
-          "name": "Minor Brutality"
-        },
-        {
           "abilityId": 127531,
-          "name": "Corrupting Bloody Mara"
+          "name": "Corrupting Bloody Mara",
+          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you."
         },
         {
           "abilityId": 61694,
-          "name": "Major Resolve"
+          "name": "Major Resolve",
+          "description": ""
         },
         {
           "abilityId": 61746,
-          "name": "Minor Force"
+          "name": "Minor Force",
+          "description": ""
         },
         {
           "abilityId": 63569,
-          "name": "Gallop"
+          "name": "Gallop",
+          "description": ""
         },
         {
-          "abilityId": 13976,
-          "name": "Boon: The Lady"
+          "abilityId": 13981,
+          "name": "Boon: The Lover",
+          "description": "increases Physical and Spell Penetration"
         },
         {
           "abilityId": 61667,
-          "name": "Major Savagery"
+          "name": "Major Savagery",
+          "description": ""
         },
         {
           "abilityId": 135402,
-          "name": "Vampire Stage 4"
+          "name": "Vampire Stage 4",
+          "description": ""
         },
         {
           "abilityId": 29465,
-          "name": "Landslide"
+          "name": "Landslide",
+          "description": ""
+        },
+        {
+          "abilityId": 45450,
+          "name": "Battle Rush",
+          "description": ""
+        },
+        {
+          "abilityId": 262658,
+          "name": "Power Lash",
+          "description": ""
+        },
+        {
+          "abilityId": 154927,
+          "name": "Ritual of Salvation",
+          "description": ""
+        },
+        {
+          "abilityId": 258666,
+          "name": "Igneous Weapons",
+          "description": ""
+        },
+        {
+          "abilityId": 61665,
+          "name": "Major Brutality",
+          "description": ""
+        },
+        {
+          "abilityId": 92270,
+          "name": "Molten Earth",
+          "description": ""
+        },
+        {
+          "abilityId": 61662,
+          "name": "Minor Brutality",
+          "description": ""
         }
       ],
       "championPoints": [
@@ -29486,7 +29566,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:6368:0|h|h",
+          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:6157:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
@@ -29498,37 +29578,37 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:4048:0|h|h",
+          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:3748:0|h|h",
           "armor": 2772,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:5703:0|h|h",
+          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:5239:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:392:0|h|h",
+          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:313:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2277|r Magic Damage and restores |cffffff492|r Health and |cffffff177|r Magicka and Stamina."
         },
         {
           "slot": 6,
-          "link": "|H0:item:215596:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:5896:0|h|h",
+          "link": "|H0:item:215596:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:5775:0|h|h",
           "armor": 523,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
         {
           "slot": 8,
-          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:4470:0|h|h",
+          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:4039:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina."
         },
         {
           "slot": 9,
-          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:5787:0|h|h",
+          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:5454:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
@@ -29546,13 +29626,13 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:4829:0|h|h",
+          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:3961:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina."
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:293:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:242:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds."
         }
