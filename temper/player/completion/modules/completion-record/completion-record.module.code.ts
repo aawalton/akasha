@@ -140,11 +140,14 @@ const cadwellProgressSchema = z.strictObject({
   levels: z.record(z.number(), cadwellLevelSchema),
 })
 
+const activeBuffSchema = z.strictObject({ abilityId: z.number(), name: z.string() })
+
 const reportedStatsReadingSchema = z.strictObject({
   capturedAt: z.number(),
   inCombat: z.boolean(),
   stats: z.record(z.string(), z.number()),
-  buffs: numbers,
+  activeBuffs: luaArrayOrEmpty(activeBuffSchema).optional(),
+  buffs: numbers.optional(),
 })
 
 const reportedStatsSchema = z.strictObject({

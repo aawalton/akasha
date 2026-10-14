@@ -17,7 +17,8 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading keeps the ids of the buffs on the player when it was taken.",
+      statement:
+        "A reading keeps the ability id and the name of each buff on the player when it was taken.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -25,5 +26,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-14T14:03:56.194Z",
+  updatedAt: "2026-10-14T14:12:15.336Z",
 } as const satisfies Module

@@ -23,12 +23,12 @@ const REPORTED_STATS: ReadonlyArray<readonly [string, number]> = [
   ["critical-rating-spell", STAT_SPELL_CRITICAL],
 ]
 
-function activeBuffs(): number[] {
-  const buffs: number[] = []
+function activeBuffs(): { abilityId: number; name: string }[] {
+  const buffs: { abilityId: number; name: string }[] = []
   const count = GetNumBuffs("player")
   for (let index = 1; index <= count; index++) {
-    const [, , , , , , , , , , abilityId] = GetUnitBuffInfo("player", index)
-    buffs.push(abilityId)
+    const [name, , , , , , , , , , abilityId] = GetUnitBuffInfo("player", index)
+    buffs.push({ abilityId, name: zo_strformat("<<1>>", name) })
   }
   return buffs
 }
@@ -47,7 +47,7 @@ export function captureReportedStats(): undefined {
     capturedAt: GetTimeStamp(),
     inCombat: IsUnitInCombat("player"),
     stats,
-    buffs: activeBuffs(),
+    activeBuffs: activeBuffs(),
   }
 
   const reported = charEntry.reportedStats ?? {}
