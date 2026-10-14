@@ -52597,7 +52597,7 @@
       "name": "Draugr's Rest",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 20,
+      "slotsUnlocked": 21,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52658,7 +52658,7 @@
         },
         {
           "name": "Draugr's Rest Maul",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Draugr's Rest Greatsword",
@@ -52791,7 +52791,7 @@
       "name": "Ironblood",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 20,
+      "slotsUnlocked": 21,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52864,7 +52864,7 @@
         },
         {
           "name": "Ironblood Restoration Staff",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Ironblood Inferno Staff",
