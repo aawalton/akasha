@@ -20,5 +20,6 @@ export const systemChangeSystemUniverse0115Chapter693Rival = {
     },
   ],
   createdAt: "2026-10-14T00:04:47.770Z",
-  updatedAt: "2026-10-14T00:04:47.770Z",
+  updatedAt: "2026-10-14T01:07:57.494Z",
+  ownProgress: 2277,
 } as const satisfies StoryChapterRead
