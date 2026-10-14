@@ -53,8 +53,8 @@ function windowFilters(
 
 const SERVER_FAULT_WAITS_MS = [2_000, 5_000, 10_000] as const
 
-export function waitAfterAnswer(status: number, tried: number): number | null {
-  if (status < 500) return null
+export function waitAfterAnswer(status: number | null, tried: number): number | null {
+  if (status !== null && status < 500) return null
   return SERVER_FAULT_WAITS_MS[tried] ?? null
 }
 
@@ -63,24 +63,36 @@ export async function fetchRingCountsFromMonarch(
   now: Date = new Date()
 ): Promise<RingCounts> {
   const year = windowFilters(now, WINDOW_DAYS)
-  const ask = (): Promise<Response> =>
+  const headers = monarchHeaders(cookie)
+  const ask = (): Promise<Response | Error> =>
     fetch(API_URL, {
       method: "POST",
-      headers: monarchHeaders(cookie),
+      headers,
       body: JSON.stringify({
         query: RING_QUERY,
         variables: { backlog: { ...year, ...SETTLED_ONLY, needsReview: true } },
       }),
       signal: AbortSignal.timeout(10_000),
-    })
+    }).catch((dropped: unknown) =>
+      dropped instanceof Error ? dropped : new Error(String(dropped))
+    )
 
-  let response = await ask()
-  for (let tried = 0; !response.ok; tried++) {
-    const wait = waitAfterAnswer(response.status, tried)
+  let answer = await ask()
+  for (let tried = 0; answer instanceof Error || !answer.ok; tried++) {
+    const wait = waitAfterAnswer(answer instanceof Error ? null : answer.status, tried)
     if (wait === null) break
     await Bun.sleep(wait)
-    response = await ask()
+    answer = await ask()
   }
+
+  if (answer instanceof Error) {
+    throw new Error(
+      `Monarch could not be reached for the ring counts on any try (${answer.message}), ` +
+        "a fault on the network or Monarch's side rather than a refused credential.",
+      { cause: answer }
+    )
+  }
+  const response = answer
 
   if (response.status === 401 || response.status === 403) {
     throw new Error(

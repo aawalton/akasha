@@ -201,7 +201,7 @@ describe("A Monarch answer that is not OK is refused.", () => {
   })
 })
 
-describe("A fault on Monarch's side is asked again before the reading fails.", () => {
+describe("A fault on Monarch's side or a dropped connection is asked again before the reading fails.", () => {
   test("a 5xx waits 2, 5 and 10 seconds and then stops", () => {
     expect([0, 1, 2, 3].map((tried) => waitAfterAnswer(502, tried))).toEqual([
       2_000,
@@ -236,6 +236,43 @@ describe("A fault on Monarch's side is asked again before the reading fails.", (
     answering(counted(1), { status: 502 })
     await expect(fetchRingCountsFromMonarch(COOKIE, NOW)).rejects.toThrow("502")
     expect(SENT).toHaveLength(4)
+  })
+
+  test("a dropped connection waits 2, 5 and 10 seconds and then stops", () => {
+    expect([0, 1, 2, 3].map((tried) => waitAfterAnswer(null, tried))).toEqual([
+      2_000,
+      5_000,
+      10_000,
+      null,
+    ])
+  })
+
+  test("a dropped connection followed by a count comes back as the count", async () => {
+    const slept = spyOn(Bun, "sleep").mockResolvedValue(undefined)
+    let asked = 0
+    stubbing(async () => {
+      asked += 1
+      if (asked === 1) {
+        throw Object.assign(new Error("The socket connection was closed unexpectedly"), {
+          code: "ECONNRESET",
+        })
+      }
+      return new Response(JSON.stringify(counted(84)))
+    })
+    expect(await fetchRingCountsFromMonarch(COOKIE, NOW)).toEqual({ unreviewed: 84 })
+    expect(asked).toBe(2)
+    expect(slept).toHaveBeenCalledTimes(1)
+  })
+
+  test("a connection that always drops is asked four times in all", async () => {
+    spyOn(Bun, "sleep").mockResolvedValue(undefined)
+    let asked = 0
+    stubbing(async () => {
+      asked += 1
+      throw new Error("The socket connection was closed unexpectedly")
+    })
+    await expect(fetchRingCountsFromMonarch(COOKIE, NOW)).rejects.toThrow("could not be reached")
+    expect(asked).toBe(4)
   })
 })
 

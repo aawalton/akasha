@@ -44,7 +44,8 @@ export const monarchUnreviewedTransactions = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A fault on Monarch's side is asked again before the reading fails.",
+      statement:
+        "A fault on Monarch's side or a dropped connection is asked again before the reading fails.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -61,5 +62,5 @@ export const monarchUnreviewedTransactions = {
   ],
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   createdAt: "2026-08-30T17:15:09.786Z",
-  updatedAt: "2026-10-06T11:46:45.000Z",
+  updatedAt: "2026-10-14T19:47:51.410Z",
 } as const satisfies Readout
