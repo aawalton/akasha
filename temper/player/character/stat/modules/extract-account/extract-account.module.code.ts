@@ -5,7 +5,7 @@ import { lookupSourceUnlessSentinel } from "akasha/temper/player/character/stat/
 export const extractAccount: PipelineStage = (build, _context) => {
   const sources = []
 
-  if (build.account?.esoPlus) {
+  if (build.account?.esoPlus !== undefined && build.account.esoPlus !== "") {
     const esoPlusSource = lookupSourceUnlessSentinel(
       esoPlus(),
       build.account.esoPlus,
