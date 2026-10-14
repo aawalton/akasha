@@ -8,10 +8,10 @@ export const inventoryConstants = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.5.3303624",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-14T15:45:36.158Z",
+  capturedAt: "2026-10-14T15:46:18.428Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
-  updatedAt: "2026-10-14T15:45:46.253Z",
+  updatedAt: "2026-10-14T15:46:28.454Z",
   createdAt: "2026-09-02T01:39:30.992Z",
 } as const satisfies TemperCatalogDomain
