@@ -1,2 +1,3 @@
 {"id":"01a05fd8-a3b7-7630-abe9-0cdd0e64e4d6","metricId":"temper-metric-tree/metric-power-weapon","type":"integer","value":174}
 {"id":"01a05fd8-a3b7-73fd-bfaa-35115384db12","metricId":"temper-metric-tree/metric-power-spell","type":"integer","value":174}
+{"id":"01a13b8c-721c-7c0f-98fc-dc9b323d3956","metricId":"temper-metric-tree/metric-stamina-recovery","type":"integer","value":10}
