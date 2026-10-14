@@ -52791,7 +52791,7 @@
       "name": "Ironblood",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 15,
+      "slotsUnlocked": 16,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52872,7 +52872,7 @@
         },
         {
           "name": "Ironblood Ice Staff",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Ironblood Lightning Staff",
