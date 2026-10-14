@@ -1,36 +1,22 @@
 import type { FormulaNode } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
 
 export const FORMULA: FormulaNode = {
-  type: "add",
+  type: "multiply",
   operands: [
     {
-      type: "constant",
-      value: 1000,
+      type: "sum",
+      effectType: "integer",
     },
     {
-      type: "multiply",
+      type: "add",
       operands: [
         {
-          type: "add",
-          operands: [
-            {
-              type: "sum",
-              effectType: "integer",
-            },
-          ],
+          type: "constant",
+          value: 1,
         },
         {
-          type: "add",
-          operands: [
-            {
-              type: "constant",
-              value: 1,
-            },
-            {
-              type: "sum",
-              effectType: "fractional-change",
-            },
-          ],
+          type: "sum",
+          effectType: "fractional-change",
         },
       ],
     },

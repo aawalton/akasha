@@ -9,6 +9,8 @@ export const emberInfiniteArchiveSoloBuild = {
   intentStack: [
     {
       statement: "Temper's estimate of Erin's stats matches what the game reported.",
+      workingMemory:
+        "The game merged spell and weapon power and critical buffs; Savagery and Brutality survive. Owed: retire Major and Minor Prophecy and Sorcery and every page naming them, and clean up the debuffs the game merged the same way.",
     },
     {
       statement: "Erin's armor, penetration, max health and healing per second are known.",
@@ -25,5 +27,5 @@ export const emberInfiniteArchiveSoloBuild = {
     "Every damage skill on Erin's bars also keeps Erin alive.",
   ],
   createdAt: "2026-10-14T13:52:46.306Z",
-  updatedAt: "2026-10-14T14:26:14.845Z",
+  updatedAt: "2026-10-14T14:28:31.003Z",
 } as const satisfies Initiative
