@@ -52791,7 +52791,7 @@
       "name": "Ironblood",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 18,
+      "slotsUnlocked": 19,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52880,7 +52880,7 @@
         },
         {
           "name": "Ironblood Shield",
-          "unlocked": false
+          "unlocked": true
         }
       ]
     },
