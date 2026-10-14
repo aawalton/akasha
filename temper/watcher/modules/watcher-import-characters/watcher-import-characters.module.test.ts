@@ -19,6 +19,9 @@ holdSetCatalogFromCheckout()
 const REAL_HASH =
   "ATQHgAAAAABgAAf__AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALG0AAAAAAAAAKAAAAAAAAyA"
 
+const CANONICAL_HASH =
+  "ATQIgAAAAABgAAf__AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALG0AAAAAAAAAKAAAAAAAAyA"
+
 function savedVariables(characters: string): string {
   return `TemperCharacters_SavedVariables =
 {
@@ -194,7 +197,7 @@ test("a build hash that will not decode is skipped and the rest are still planne
         action: "upsert",
         characterName: "Shalidor",
         esoCharacterId: "12345",
-        canonicalHash: REAL_HASH,
+        canonicalHash: CANONICAL_HASH,
       },
       {
         action: "skip",
@@ -274,7 +277,7 @@ test("what is reported names the count, each skip, each capture, and the summary
   expect(lines).toEqual([
     "Found 2 character(s).\n",
     '  Character 67890: failed to decode hash "bogus", skipping',
-    `  Shalidor: captured hash ${REAL_HASH}`,
+    `  Shalidor: captured hash ${CANONICAL_HASH}`,
     "\n=== Summary ===",
     "  Captured: 1",
     "  Skipped:  1",
@@ -297,7 +300,7 @@ test("a run skipping nothing reports no skipped line", async () => {
   )
   expect(lines).toEqual([
     "Found 1 character(s).\n",
-    `  Shalidor: captured hash ${REAL_HASH}`,
+    `  Shalidor: captured hash ${CANONICAL_HASH}`,
     "\n=== Summary ===",
     "  Captured: 1",
   ])
