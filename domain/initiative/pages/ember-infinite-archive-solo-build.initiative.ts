@@ -8,12 +8,9 @@ export const emberInfiniteArchiveSoloBuild = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "Temper's estimate of Erin's stats matches what the game reported.",
-      workingMemory:
-        "The game merged spell and weapon power and critical buffs; Savagery and Brutality survive. Owed: clean up the debuffs the game merged the same way.",
-    },
-    {
       statement: "Erin's armor, penetration, max health and healing per second are known.",
+      workingMemory:
+        "Matching the game out of combat: armor 27,370 with the Lover and 32,382 with the Lady, penetration 11,050, max health 31,895. Healing per second is not worked out yet.",
     },
   ],
   constraints: [
@@ -27,5 +24,5 @@ export const emberInfiniteArchiveSoloBuild = {
     "Every damage skill on Erin's bars also keeps Erin alive.",
   ],
   createdAt: "2026-10-14T13:52:46.306Z",
-  updatedAt: "2026-10-14T19:17:42.129Z",
+  updatedAt: "2026-10-14T19:41:14.602Z",
 } as const satisfies Initiative

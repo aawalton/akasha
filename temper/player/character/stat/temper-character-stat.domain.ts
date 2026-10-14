@@ -65,6 +65,14 @@ export const temperCharacterStat = {
   ],
   decisions: [
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Temper's estimate of a stat out of combat matches what the game reported.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A buff that is only up in combat is left as a known gap in a case.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The game holds its numbers as floats and floors them at points of its own.",
     },
@@ -80,5 +88,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-14T19:00:49.884Z",
+  updatedAt: "2026-10-14T19:41:14.602Z",
 } as const satisfies Domain
