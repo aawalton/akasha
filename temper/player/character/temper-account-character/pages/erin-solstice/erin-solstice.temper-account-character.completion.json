@@ -28349,24 +28349,24 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1791991039,
-      "inCombat": true,
+      "capturedAt": 1791991813,
+      "inCombat": false,
       "stats": {
-        "health-recovery": 0,
-        "resistance-physical": 32382,
-        "magicka-maximum": 20026,
-        "power-spell": 3286,
-        "critical-rating-spell": 6006,
-        "stamina-maximum": 26636,
-        "resistance-spell": 33108,
-        "critical-rating-weapon": 6006,
-        "health-maximum": 32651,
+        "penetration-physical": 7750,
         "magicka-recovery": 535,
-        "stamina-recovery": 566,
+        "stamina-maximum": 26636,
+        "magicka-maximum": 20026,
+        "resistance-spell": 33108,
+        "power-spell": 3286,
+        "critical-rating-weapon": 6006,
+        "critical-rating-spell": 6006,
         "power-weapon": 3286,
-        "resistance-critical": 1320,
+        "resistance-physical": 32382,
         "penetration-spell": 7750,
-        "penetration-physical": 7750
+        "health-recovery": 0,
+        "stamina-recovery": 0,
+        "health-maximum": 32651,
+        "resistance-critical": 1320
       },
       "activeBuffs": [
         {
@@ -28404,6 +28404,14 @@
         {
           "abilityId": 29465,
           "name": "Landslide"
+        },
+        {
+          "abilityId": 45450,
+          "name": "Battle Rush"
+        },
+        {
+          "abilityId": 38763,
+          "name": "Brawler"
         }
       ],
       "championPoints": [
@@ -28805,24 +28813,24 @@
       ]
     },
     "backBar": {
-      "capturedAt": 1791991043,
-      "inCombat": false,
+      "capturedAt": 1791991759,
+      "inCombat": true,
       "stats": {
-        "health-recovery": 0,
-        "resistance-physical": 32382,
-        "magicka-maximum": 20026,
-        "power-spell": 3550,
-        "critical-rating-spell": 6006,
-        "stamina-maximum": 26636,
-        "resistance-spell": 33108,
-        "critical-rating-weapon": 6006,
-        "health-maximum": 32651,
+        "penetration-physical": 5966,
         "magicka-recovery": 535,
-        "stamina-recovery": 729,
-        "power-weapon": 3550,
-        "resistance-critical": 1320,
+        "stamina-maximum": 26636,
+        "magicka-maximum": 20026,
+        "resistance-spell": 33108,
+        "power-spell": 5982,
+        "critical-rating-weapon": 6006,
+        "critical-rating-spell": 6006,
+        "power-weapon": 5982,
+        "resistance-physical": 32382,
         "penetration-spell": 5966,
-        "penetration-physical": 5966
+        "health-recovery": 0,
+        "stamina-recovery": 566,
+        "health-maximum": 32651,
+        "resistance-critical": 1320
       },
       "activeBuffs": [
         {
@@ -28862,12 +28870,40 @@
           "name": "Landslide"
         },
         {
+          "abilityId": 258666,
+          "name": "Igneous Weapons"
+        },
+        {
+          "abilityId": 262658,
+          "name": "Power Lash"
+        },
+        {
+          "abilityId": 61662,
+          "name": "Minor Brutality"
+        },
+        {
+          "abilityId": 155714,
+          "name": "Bone Aegis"
+        },
+        {
+          "abilityId": 32853,
+          "name": "Incinerate"
+        },
+        {
           "abilityId": 99789,
           "name": "Merciless Charge"
         },
         {
-          "abilityId": 45450,
-          "name": "Battle Rush"
+          "abilityId": 61665,
+          "name": "Major Brutality"
+        },
+        {
+          "abilityId": 21230,
+          "name": "Berserker"
+        },
+        {
+          "abilityId": 32948,
+          "name": "Standard of Might"
         }
       ],
       "championPoints": [
