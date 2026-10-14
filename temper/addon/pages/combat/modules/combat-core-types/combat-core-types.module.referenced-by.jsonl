@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-fight-model/combat-fight-model.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-finalize-buffs/combat-finalize-buffs.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-finalize/combat-finalize.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-last-fight/combat-last-fight.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-process-log-damage/combat-process-log-damage.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-process-log-effects/combat-process-log-effects.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-process-log-timings/combat-process-log-timings.module.code.ts","typed":true,"deferred":false}

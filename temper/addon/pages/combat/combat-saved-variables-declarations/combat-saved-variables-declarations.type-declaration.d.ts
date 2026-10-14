@@ -18,6 +18,10 @@ declare var TemperCombat_Save:
 
 declare var TemperCombat_CombatMetricsSave: TemperCombatSavedVariablesTable | undefined
 
+declare var TemperCombat_LastFight:
+  | import("akasha/temper/addon/pages/combat/modules/combat-last-fight/combat-last-fight.module.code.ts").LastFight
+  | undefined
+
 declare var TemperCombat_CombatMetricsFightData:
   | import("akasha/temper/addon/pages/combat/modules/combat-fight-data-types/combat-fight-data-types.module.code.ts").FightDataSVRaw
   | undefined

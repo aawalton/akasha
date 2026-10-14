@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-data-tables/combat-data-tables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-encoding-tables/combat-encoding-tables.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-last-fight/combat-last-fight.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-ability-tables/combat-lib-ability-tables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-damage/combat-lib-damage.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-death/combat-lib-death.module.code.ts","typed":false,"deferred":false}
