@@ -5,7 +5,7 @@ export const charactersPassiveTrace = {
   type: "page-type/module",
   slug: "characters-passive-trace",
   definition:
-    "what the game says of each class passive, written to the saved table to be looked at",
+    "what the game says of each class and armor passive, written to the saved table to be looked at",
   code: "ts",
   decisions: [
     {
@@ -14,5 +14,5 @@ export const charactersPassiveTrace = {
     },
   ],
   createdAt: "2026-10-14T14:51:11.712Z",
-  updatedAt: "2026-10-14T14:51:11.712Z",
+  updatedAt: "2026-10-14T16:32:59.378Z",
 } as const satisfies Module

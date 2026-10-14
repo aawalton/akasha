@@ -53,6 +53,7 @@ export interface PassiveTraceRow {
   baseId: number
   rankIds: number[]
   bitmaskIndex: number
+  description: string
 }
 
 export interface SavedVariablesData {
