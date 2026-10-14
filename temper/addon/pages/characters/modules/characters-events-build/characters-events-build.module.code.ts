@@ -1,3 +1,4 @@
+import { captureGlyphProbe } from "akasha/temper/addon/pages/characters/modules/characters-glyph-probe/characters-glyph-probe.module.code.ts"
 import { capturePassiveTrace } from "akasha/temper/addon/pages/characters/modules/characters-passive-trace/characters-passive-trace.module.code.ts"
 import { captureAndSaveCharacterStats } from "akasha/temper/addon/pages/characters/modules/characters-player-stats/characters-player-stats.module.code.ts"
 import { captureReportedStats } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts"
@@ -27,6 +28,7 @@ function scheduleBuildCapture(): undefined {
     captureAndSaveCharacterStats()
     captureReportedStats()
     capturePassiveTrace()
+    captureGlyphProbe()
   })
 }
 
