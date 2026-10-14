@@ -1,11 +1,11 @@
 {
-  "buildHash": "ATQINMUAAIBhxAkDE_tnAGJ_bOAMmC2cIZMFs4gZMFs4AyYLZwINHa3IQQKtuQggVbciR5MdtyiIJjrblFGxpARcxWsbnomlACp1Iz1gAII5VMRUBlq06ACABGgiAhCoGScIPAD0AI51VawOKVAAyagYIyISOIEAEggnPRykQUH6JWQ4PMujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjqOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwSOGzYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TfAHZMsBBJrwyWc8TGCQGMKBCPNgusVrlMwxFzwSShEAPbzNrXtPNcPZQMgA",
+  "buildHash": "ATQINIEAAIBhxAkDE_tnAGJ_bOAMmC2cIZMFs4gZMFs4AyYLZwINHa3IQQKtuQggVbciR5MdtyiIJjrblFGxpARcxWsbnomlACp1Iz1gAII5VMBUBlq06AAABGgiAhCoGCcIPAD0AI51VawOKVAAyagYIyISOIEAEggnPRykQEH6JWAYPMujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjqOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwSOGzYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TOAHZMsBBJrwyWc8TGCQGMKBCPNgusVrlMwxFzwSShEAPbzNrXtPNcPZQMgA",
   "gender": 1,
   "level": 50,
   "classId": 1,
   "allianceId": 1,
   "raceId": 10,
-  "curseState": "vampire",
+  "curseState": "no-curse",
   "className": "Dragonknight",
   "classIcon": "/esoui/art/icons/class/class_dragonknight.dds",
   "achievements": {
@@ -16407,7 +16407,7 @@
   },
   "skillPoints": {
     "total": 577,
-    "unassigned": 175,
+    "unassigned": 184,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -28349,41 +28349,41 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792014165,
-      "inCombat": false,
+      "capturedAt": 1792014806,
+      "inCombat": true,
       "stats": {
-        "resistance-spell": 27370,
-        "health-recovery": 0,
-        "stamina-recovery": 566,
-        "power-weapon": 3286,
-        "critical-rating-weapon": 5787,
         "penetration-physical": 11050,
+        "critical-rating-weapon": 5787,
         "stamina-maximum": 25974,
-        "magicka-recovery": 514,
-        "power-spell": 3286,
-        "resistance-physical": 27370,
+        "health-maximum": 29928,
+        "power-weapon": 4850,
+        "stamina-recovery": 566,
         "critical-rating-spell": 5787,
-        "health-maximum": 31895,
-        "magicka-maximum": 19489,
+        "power-spell": 4850,
+        "health-recovery": 858,
+        "penetration-spell": 11050,
         "resistance-critical": 1320,
-        "penetration-spell": 11050
+        "resistance-physical": 30344,
+        "magicka-maximum": 17887,
+        "magicka-recovery": 852,
+        "resistance-spell": 30344
       },
       "unbonusedStats": {
-        "resistance-spell": 0,
-        "health-recovery": 0,
-        "stamina-recovery": 566,
-        "power-weapon": 1000,
-        "critical-rating-weapon": 2181,
         "penetration-physical": 0,
+        "critical-rating-weapon": 2181,
         "stamina-maximum": 25974,
-        "magicka-recovery": 514,
-        "power-spell": 1000,
-        "resistance-physical": 0,
+        "health-maximum": 29928,
+        "power-weapon": 1000,
+        "stamina-recovery": 566,
         "critical-rating-spell": 2181,
-        "health-maximum": 31895,
-        "magicka-maximum": 19489,
+        "power-spell": 1000,
+        "health-recovery": 858,
+        "penetration-spell": 0,
         "resistance-critical": 0,
-        "penetration-spell": 0
+        "resistance-physical": 0,
+        "magicka-maximum": 17887,
+        "magicka-recovery": 852,
+        "resistance-spell": 0
       },
       "activeBuffs": [
         {
@@ -28394,10 +28394,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 127531,
-          "name": "Corrupting Bloody Mara",
-          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you.",
-          "effect": "Increase Max Magicka by |cffffff4620|r.\nIncrease Health Recovery by |cffffff505|r.\nIncrease Max Health by |cffffff5051|r.\n",
+          "abilityId": 100498,
+          "name": "Clockwork Citrus Filet",
+          "description": "Increase Max Health by |cffffff2835|r, Health Recovery by |cffffff346|r, Max Magicka by |cffffff2625|r and Magicka Recovery by |cffffff288|r for |cffffff2|r hours.",
+          "effect": "Increase Max Health by |cffffff3326|r.\nIncrease Magicka Recovery by |cffffff338|r.\nIncrease Max Magicka by |cffffff3080|r.\nIncrease Health Recovery by |cffffff406|r.\n",
           "stacks": 0
         },
         {
@@ -28436,10 +28436,66 @@
           "stacks": 0
         },
         {
-          "abilityId": 135402,
-          "name": "Vampire Stage 4",
+          "abilityId": 61665,
+          "name": "Major Brutality",
           "description": "",
-          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 258666,
+          "name": "Igneous Weapons",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61662,
+          "name": "Minor Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 99789,
+          "name": "Merciless Charge",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 29465,
+          "name": "Landslide",
+          "description": "",
+          "effect": "",
+          "stacks": 4
+        },
+        {
+          "abilityId": 262658,
+          "name": "Power Lash",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61715,
+          "name": "Minor Evasion",
+          "description": "",
+          "effect": "Reduces your damage taken from area of effect attacks by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61693,
+          "name": "Minor Resolve",
+          "description": "",
+          "effect": "Increases your Physical and Spell Resistance by |cffffff2974|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 21230,
+          "name": "Berserker",
+          "description": "Increase your Power by for",
+          "effect": "",
           "stacks": 0
         }
       ],
@@ -29001,7 +29057,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:3683:0|h|h",
+          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:3533:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29017,7 +29073,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9215:0|h|h",
+          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9016:0|h|h",
           "armor": 2772,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29025,7 +29081,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:1720:0|h|h",
+          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:465:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29033,15 +29089,15 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:465:0|h|h",
+          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:438:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff2014|r Magic Damage and restores |cffffff439|r Health and |cffffff177|r Magicka and Stamina.",
+          "enchant": "Deals |cffffff2253|r Magic Damage and restores |cffffff456|r Health and |cffffff177|r Magicka and Stamina.",
           "trait": "Increases chance to apply status effects by |cffffff235|r%.",
           "quality": 5
         },
         {
           "slot": 8,
-          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:1386:0|h|h",
+          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:1162:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29049,7 +29105,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9484:0|h|h",
+          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9198:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29073,7 +29129,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9388:0|h|h",
+          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9217:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29081,7 +29137,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:483:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:459:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
@@ -29093,7 +29149,7 @@
           "slot": 3,
           "abilityId": 38754,
           "name": "Brawler",
-          "description": "Focus your strength into a mighty swing, dealing |cffffff5531|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff5565|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
+          "description": "Focus your strength into a mighty swing, dealing |cffffff7842|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff7322|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29103,7 +29159,7 @@
           "slot": 4,
           "abilityId": 31816,
           "name": "Magma Fist",
-          "description": "Draw forth magma from below to hurl at an enemy, dealing |cffffff7210|r Flame Damage while applying a stack of Heat Shock, which increases the enemy's damage taken by |cffffff66|r for |cffffff7|r seconds per stack, up to |cffffff3|r times.\n\nHitting an enemy at max stacks of Heat Shock with this ability increases the damage done of the next cast of this ability within |cffffff6|r seconds by |cffffff66|r%, up to once every |cffffff6|r seconds.",
+          "description": "Draw forth magma from below to hurl at an enemy, dealing |cffffff10261|r Flame Damage while applying a stack of Heat Shock, which increases the enemy's damage taken by |cffffff66|r for |cffffff7|r seconds per stack, up to |cffffff3|r times.\n\nHitting an enemy at max stacks of Heat Shock with this ability increases the damage done of the next cast of this ability within |cffffff6|r seconds by |cffffff66|r%, up to once every |cffffff6|r seconds.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29111,9 +29167,9 @@
         },
         {
           "slot": 5,
-          "abilityId": 20816,
-          "name": "Flame Lash",
-          "description": "Lash an enemy with flame, dealing |cffffff6979|r Flame Damage and healing for |cffffff2193|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff11356|r Flame Damage to your target and all nearby enemies and heals for |cffffff4387|r Health.",
+          "abilityId": 20824,
+          "name": "Power Lash",
+          "description": "Slam your whip down with tremendous force at an enemy, dealing |cffffff16100|r Flame Damage to them and all nearby enemies and healing you for |cffffff5802|r Health.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29123,7 +29179,7 @@
           "slot": 6,
           "abilityId": 20944,
           "name": "Disintegrating Dragonfire",
-          "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff5712|r Flame Damage, applying the Burning status effect, and an additional |cffffff8495|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r.",
+          "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff8100|r Flame Damage, applying the Burning status effect, and an additional |cffffff12145|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
@@ -29133,7 +29189,7 @@
           "slot": 7,
           "abilityId": 20660,
           "name": "Burning Embers",
-          "description": "Slash your foe with a fiery claw, dealing |cffffff3490|r Flame Damage and an additional |cffffff9870|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff6942|r Health from the initial hit and |cffffff1040|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
+          "description": "Slash your foe with a fiery claw, dealing |cffffff4967|r Flame Damage and an additional |cffffff14105|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff6775|r Health from the initial hit and |cffffff1015|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
@@ -29143,7 +29199,7 @@
           "slot": 8,
           "abilityId": 17874,
           "name": "Magma Shell",
-          "description": "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff153|r% of their Max Health for |cffffff10|r seconds.\n\nWhile active, you cannot generate Ultimate.",
+          "description": "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff158|r% of their Max Health for |cffffff10|r seconds.\n\nWhile active, you cannot generate Ultimate.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
@@ -29152,41 +29208,41 @@
       ]
     },
     "backBar": {
-      "capturedAt": 1792014167,
+      "capturedAt": 1792014787,
       "inCombat": false,
       "stats": {
-        "resistance-spell": 27370,
-        "health-recovery": 0,
-        "stamina-recovery": 566,
-        "power-weapon": 3550,
-        "critical-rating-weapon": 5787,
         "penetration-physical": 9266,
+        "critical-rating-weapon": 5787,
         "stamina-maximum": 25974,
-        "magicka-recovery": 514,
-        "power-spell": 3550,
-        "resistance-physical": 27370,
+        "health-maximum": 29928,
+        "power-weapon": 3550,
+        "stamina-recovery": 566,
         "critical-rating-spell": 5787,
-        "health-maximum": 31895,
-        "magicka-maximum": 19489,
+        "power-spell": 3550,
+        "health-recovery": 858,
+        "penetration-spell": 9266,
         "resistance-critical": 1320,
-        "penetration-spell": 9266
+        "resistance-physical": 27370,
+        "magicka-maximum": 17887,
+        "magicka-recovery": 852,
+        "resistance-spell": 27370
       },
       "unbonusedStats": {
-        "resistance-spell": 0,
-        "health-recovery": 0,
-        "stamina-recovery": 566,
-        "power-weapon": 1000,
-        "critical-rating-weapon": 2181,
         "penetration-physical": 0,
+        "critical-rating-weapon": 2181,
         "stamina-maximum": 25974,
-        "magicka-recovery": 514,
-        "power-spell": 1000,
-        "resistance-physical": 0,
+        "health-maximum": 29928,
+        "power-weapon": 1000,
+        "stamina-recovery": 566,
         "critical-rating-spell": 2181,
-        "health-maximum": 31895,
-        "magicka-maximum": 19489,
+        "power-spell": 1000,
+        "health-recovery": 858,
+        "penetration-spell": 0,
         "resistance-critical": 0,
-        "penetration-spell": 0
+        "resistance-physical": 0,
+        "magicka-maximum": 17887,
+        "magicka-recovery": 852,
+        "resistance-spell": 0
       },
       "activeBuffs": [
         {
@@ -29197,10 +29253,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 127531,
-          "name": "Corrupting Bloody Mara",
-          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you.",
-          "effect": "Increase Max Magicka by |cffffff4620|r.\nIncrease Health Recovery by |cffffff505|r.\nIncrease Max Health by |cffffff5051|r.\n",
+          "abilityId": 100498,
+          "name": "Clockwork Citrus Filet",
+          "description": "Increase Max Health by |cffffff2835|r, Health Recovery by |cffffff346|r, Max Magicka by |cffffff2625|r and Magicka Recovery by |cffffff288|r for |cffffff2|r hours.",
+          "effect": "Increase Max Health by |cffffff3326|r.\nIncrease Magicka Recovery by |cffffff338|r.\nIncrease Max Magicka by |cffffff3080|r.\nIncrease Health Recovery by |cffffff406|r.\n",
           "stacks": 0
         },
         {
@@ -29236,13 +29292,6 @@
           "name": "Major Savagery",
           "description": "",
           "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 135402,
-          "name": "Vampire Stage 4",
-          "description": "",
-          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
           "stacks": 0
         }
       ],
@@ -29804,7 +29853,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:3683:0|h|h",
+          "link": "|H0:item:82176:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:3533:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29820,7 +29869,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9215:0|h|h",
+          "link": "|H0:item:215582:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9016:0|h|h",
           "armor": 2772,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29828,7 +29877,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:1720:0|h|h",
+          "link": "|H0:item:82177:364:50:68343:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:465:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29836,7 +29885,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:465:0|h|h",
+          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:439:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2014|r Magic Damage and restores |cffffff439|r Health and |cffffff177|r Magicka and Stamina.",
           "trait": "Increases chance to apply status effects by |cffffff235|r%.",
@@ -29844,7 +29893,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:1386:0|h|h",
+          "link": "|H0:item:215586:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:1162:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff380|r Maximum Magicka.\nAdds |cffffff418|r Maximum Health.\nAdds |cffffff380|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29852,7 +29901,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9484:0|h|h",
+          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9198:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29876,7 +29925,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9388:0|h|h",
+          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9217:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29884,7 +29933,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:483:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:461:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
@@ -29906,7 +29955,7 @@
           "slot": 4,
           "abilityId": 32785,
           "name": "Heart of Flame",
-          "description": "Let the fire within draw heat to your heart, restoring |cffffff12|r% of your missing Magicka and Stamina and healing |cffffff4165|r Health every |cffffff2|r seconds over |cffffff4|r seconds.\n\nWhen this ability completes, you release this heat as a blast of fire that deals |cffffff6637|r Flame Damage to nearby enemies.",
+          "description": "Let the fire within draw heat to your heart, restoring |cffffff12|r% of your missing Magicka and Stamina and healing |cffffff3908|r Health every |cffffff2|r seconds over |cffffff4|r seconds.\n\nWhen this ability completes, you release this heat as a blast of fire that deals |cffffff6637|r Flame Damage to nearby enemies.",
           "durationMs": 4000,
           "castMs": 0,
           "channeled": false,
