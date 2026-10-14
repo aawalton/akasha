@@ -46,7 +46,6 @@ export const temperAddonCharacters = {
     "module/characters-player-stats",
     "module/characters-reported-stats",
     "module/characters-passive-trace",
-    "module/characters-glyph-probe",
     "module/characters-points-of-interest",
     "module/characters-populated-name",
     "module/characters-progress-format",
@@ -219,5 +218,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-10-14T15:54:19.608Z",
+  updatedAt: "2026-10-14T16:14:17.047Z",
 } as const satisfies TemperAddon

@@ -73,7 +73,6 @@ export interface SavedVariablesData {
   migrationVersions: Record<string, number>
   perf?: { loadTimeMs: number }
   passiveTrace?: PassiveTraceRow[]
-  glyphProbe?: { glyph: number; subtype: number; enchant: string }[]
 }
 
 const SAVED_VARIABLES_DEFAULTS: SavedVariablesData & Record<string, unknown> = {
