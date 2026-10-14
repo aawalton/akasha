@@ -40,6 +40,11 @@ export const completionRecord = {
       statement: "A reading of reported stats keeps the points spent on each champion star.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading of reported stats keeps each skill on the bar held, as the game gave it.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "A reading that kept buff ids alone is still read, until a fresh reading replaces it.",
@@ -50,5 +55,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-14T15:12:56.741Z",
+  updatedAt: "2026-10-14T19:48:17.130Z",
 } as const satisfies Module

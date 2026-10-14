@@ -53,7 +53,15 @@ export const charactersReportedStats = {
       statement:
         "A reading keeps each worn piece's link, armor, enchantment and trait text, and quality.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading keeps each skill on the bar held, with the text the game gives it now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading keeps each such skill's duration, cast time, channeling and cooldown.",
+    },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-14T18:29:30.517Z",
+  updatedAt: "2026-10-14T19:48:17.130Z",
 } as const satisfies Module

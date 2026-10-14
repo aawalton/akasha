@@ -165,6 +165,17 @@ const wornPieceSchema = z.strictObject({
   quality: z.number().optional(),
 })
 
+const slottedSkillSchema = z.strictObject({
+  slot: z.number(),
+  abilityId: z.number(),
+  name: z.string(),
+  description: z.string(),
+  durationMs: z.number(),
+  castMs: z.number(),
+  channeled: z.boolean(),
+  cooldownMs: z.number(),
+})
+
 const reportedStatsReadingSchema = z.strictObject({
   capturedAt: z.number(),
   inCombat: z.boolean(),
@@ -173,6 +184,7 @@ const reportedStatsReadingSchema = z.strictObject({
   activeBuffs: luaArrayOrEmpty(activeBuffSchema).optional(),
   championPoints: luaArrayOrEmpty(championStarSchema).optional(),
   worn: luaArrayOrEmpty(wornPieceSchema).optional(),
+  skills: luaArrayOrEmpty(slottedSkillSchema).optional(),
   buffs: numbers.optional(),
 })
 

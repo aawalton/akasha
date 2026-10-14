@@ -1,4 +1,6 @@
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -110,6 +112,48 @@ function worn(): WornPiece[] {
   return pieces
 }
 
+const FIRST_SKILL_SLOT = 3
+
+const ULTIMATE_SLOT = 8
+
+type SlottedSkill = {
+  slot: number
+  abilityId: number
+  name: string
+  description: string
+  durationMs: number
+  castMs: number
+  channeled: boolean
+  cooldownMs: number
+}
+
+function slottedAbilityId(slot: number): number {
+  const bound = GetSlotBoundId(slot)
+  if (GetSlotType(slot) === ACTION_TYPE_CRAFTED_ABILITY)
+    return GetAbilityIdForCraftedAbilityId(bound)
+  return bound
+}
+
+function slottedSkills(): SlottedSkill[] {
+  const skills: SlottedSkill[] = []
+  for (let slot = FIRST_SKILL_SLOT; slot <= ULTIMATE_SLOT; slot++) {
+    const abilityId = slottedAbilityId(slot)
+    if (abilityId === 0) continue
+    const [channeled, castMs] = GetAbilityCastInfo(abilityId, undefined, "player")
+    skills.push({
+      slot,
+      abilityId,
+      name: zo_strformat("<<1>>", GetAbilityName(abilityId, "player")),
+      description: GetAbilityDescription(abilityId, undefined, "player"),
+      durationMs: GetAbilityDuration(abilityId, undefined, "player") ?? 0,
+      castMs: castMs ?? 0,
+      channeled: channeled === true,
+      cooldownMs: GetAbilityCooldown(abilityId, "player") ?? 0,
+    })
+  }
+  return skills
+}
+
 export function captureReportedStats(): undefined {
   const charEntry = currentCharacterEntry()
   if (charEntry === undefined) return
@@ -130,6 +174,7 @@ export function captureReportedStats(): undefined {
     activeBuffs: activeBuffs(),
     championPoints: championPoints(),
     worn: worn(),
+    skills: slottedSkills(),
   }
 
   const reported = charEntry.reportedStats ?? {}
