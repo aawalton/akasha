@@ -8,9 +8,9 @@ export const cadwell = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.5.3303624",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-14T14:06:28.467Z",
+  capturedAt: "2026-10-14T14:07:09.549Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
-  updatedAt: "2026-10-14T14:06:31.943Z",
+  updatedAt: "2026-10-14T14:07:13.005Z",
   createdAt: "2026-09-02T01:39:30.990Z",
 } as const satisfies TemperCatalogDomain
