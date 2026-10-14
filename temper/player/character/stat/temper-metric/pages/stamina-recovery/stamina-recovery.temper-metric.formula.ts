@@ -6,8 +6,17 @@ export const FORMULA: FormulaNode = {
     {
       type: "floor",
       operand: {
-        type: "sum",
-        effectType: "integer",
+        type: "add",
+        operands: [
+          {
+            type: "sum",
+            effectType: "integer",
+          },
+          {
+            type: "constant",
+            value: 0.5,
+          },
+        ],
       },
     },
     {
