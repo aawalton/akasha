@@ -5,10 +5,10 @@ export const foodEntry20261014VeggieCupGrapeTomatoesCarrotsCucumberWithRanchCup 
   type: "page-type/food-entry",
   slug: "food-entry-2026-10-14-veggie-cup-grape-tomatoes-carrots-cucumber-with-ranch-cup",
   cover: "image/image-200c9bbce725a86c",
-  title: "Veggie cup (grape tomatoes, carrots, cucumber) with ranch cup",
+  title: "Veggie cup (grape tomatoes, carrots, cucumber) with 1/4 ranch cup",
   happenedAt: "2026-10-14T12:05:00.000Z",
   plantGrams: 340,
-  estimatedCalories: 330,
+  estimatedCalories: 145,
   createdAt: "2026-10-14T12:06:01.034Z",
-  updatedAt: "2026-10-14T12:06:01.950Z",
+  updatedAt: "2026-10-14T12:33:54.973Z",
 } as const satisfies FoodEntry
