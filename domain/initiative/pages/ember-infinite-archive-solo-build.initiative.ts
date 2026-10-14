@@ -10,7 +10,7 @@ export const emberInfiniteArchiveSoloBuild = {
     {
       statement: "Erin's armor, penetration, max health and healing per second are known.",
       workingMemory:
-        "Matching the game out of combat: armor 27,370 with the Lover and 32,382 with the Lady, penetration 11,050, max health 31,895. Healing per second is 4,773 by `akasha temper hps` over its neutral rotation; nothing in the game checks it yet.",
+        "Matching the game out of combat: armor 27,370 with the Lover and 32,382 with the Lady, penetration 11,050, max health 31,895. Healing per second is 5,263 by `akasha temper hps` over its neutral rotation; the combat add-on now writes each fight, and the same command says the game's figure beside it once Erin has fought.",
     },
   ],
   constraints: [
@@ -24,5 +24,5 @@ export const emberInfiniteArchiveSoloBuild = {
     "Every damage skill on Erin's bars also keeps Erin alive.",
   ],
   createdAt: "2026-10-14T13:52:46.306Z",
-  updatedAt: "2026-10-14T21:45:05.600Z",
+  updatedAt: "2026-10-14T22:35:08.764Z",
 } as const satisfies Initiative
