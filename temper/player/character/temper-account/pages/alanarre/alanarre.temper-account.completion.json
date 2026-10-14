@@ -52694,7 +52694,7 @@
       "name": "Pillar of Nirn",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 12,
+      "slotsUnlocked": 13,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52743,7 +52743,7 @@
         },
         {
           "name": "Pillar Of Nirn Mace",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Pillar Of Nirn Sword",
