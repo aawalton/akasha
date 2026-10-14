@@ -8,8 +8,8 @@ export const untamedAggression = {
   description: "Increases your Weapon and Spell Damage by 150",
   esoChampionSkillId: 4,
   championConstellation: "warfare",
-  isSlottable: false,
+  isSlottable: true,
   hashPlace: 85,
   createdAt: "2026-09-27T05:00:00.924Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-14T17:52:22.074Z",
 } as const satisfies TemperChampionStar
