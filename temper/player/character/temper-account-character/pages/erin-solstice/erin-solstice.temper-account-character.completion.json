@@ -28349,41 +28349,41 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792014127,
+      "capturedAt": 1792014165,
       "inCombat": false,
       "stats": {
-        "resistance-physical": 27370,
-        "magicka-recovery": 514,
-        "magicka-maximum": 19489,
-        "stamina-maximum": 25974,
-        "penetration-spell": 11050,
-        "stamina-recovery": 566,
-        "critical-rating-spell": 5787,
-        "critical-rating-weapon": 5787,
         "resistance-spell": 27370,
-        "power-spell": 3286,
-        "power-weapon": 3286,
-        "penetration-physical": 11050,
-        "resistance-critical": 1320,
         "health-recovery": 0,
-        "health-maximum": 31895
+        "stamina-recovery": 566,
+        "power-weapon": 3286,
+        "critical-rating-weapon": 5787,
+        "penetration-physical": 11050,
+        "stamina-maximum": 25974,
+        "magicka-recovery": 514,
+        "power-spell": 3286,
+        "resistance-physical": 27370,
+        "critical-rating-spell": 5787,
+        "health-maximum": 31895,
+        "magicka-maximum": 19489,
+        "resistance-critical": 1320,
+        "penetration-spell": 11050
       },
       "unbonusedStats": {
-        "resistance-physical": 0,
-        "magicka-recovery": 514,
-        "magicka-maximum": 19489,
-        "stamina-maximum": 25974,
-        "penetration-spell": 0,
-        "stamina-recovery": 566,
-        "critical-rating-spell": 2181,
-        "critical-rating-weapon": 2181,
         "resistance-spell": 0,
-        "power-spell": 1000,
-        "power-weapon": 1000,
-        "penetration-physical": 0,
-        "resistance-critical": 0,
         "health-recovery": 0,
-        "health-maximum": 31895
+        "stamina-recovery": 566,
+        "power-weapon": 1000,
+        "critical-rating-weapon": 2181,
+        "penetration-physical": 0,
+        "stamina-maximum": 25974,
+        "magicka-recovery": 514,
+        "power-spell": 1000,
+        "resistance-physical": 0,
+        "critical-rating-spell": 2181,
+        "health-maximum": 31895,
+        "magicka-maximum": 19489,
+        "resistance-critical": 0,
+        "penetration-spell": 0
       },
       "activeBuffs": [
         {
@@ -29152,43 +29152,50 @@
       ]
     },
     "backBar": {
-      "capturedAt": 1792005761,
-      "inCombat": true,
+      "capturedAt": 1792014167,
+      "inCombat": false,
       "stats": {
-        "resistance-physical": 30344,
+        "resistance-spell": 27370,
         "health-recovery": 0,
+        "stamina-recovery": 566,
+        "power-weapon": 3550,
         "critical-rating-weapon": 5787,
-        "stamina-maximum": 25974,
-        "penetration-spell": 9266,
-        "stamina-recovery": 930,
-        "magicka-maximum": 19489,
         "penetration-physical": 9266,
+        "stamina-maximum": 25974,
+        "magicka-recovery": 514,
+        "power-spell": 3550,
+        "resistance-physical": 27370,
         "critical-rating-spell": 5787,
-        "resistance-critical": 1320,
         "health-maximum": 31895,
-        "power-weapon": 4404,
-        "power-spell": 4404,
-        "magicka-recovery": 664,
-        "resistance-spell": 30344
+        "magicka-maximum": 19489,
+        "resistance-critical": 1320,
+        "penetration-spell": 9266
       },
       "unbonusedStats": {
-        "resistance-physical": 0,
+        "resistance-spell": 0,
         "health-recovery": 0,
-        "critical-rating-weapon": 2181,
-        "stamina-maximum": 25974,
-        "penetration-spell": 0,
-        "stamina-recovery": 930,
-        "magicka-maximum": 19489,
-        "penetration-physical": 0,
-        "critical-rating-spell": 2181,
-        "resistance-critical": 0,
-        "health-maximum": 31895,
+        "stamina-recovery": 566,
         "power-weapon": 1000,
+        "critical-rating-weapon": 2181,
+        "penetration-physical": 0,
+        "stamina-maximum": 25974,
+        "magicka-recovery": 514,
         "power-spell": 1000,
-        "magicka-recovery": 664,
-        "resistance-spell": 0
+        "resistance-physical": 0,
+        "critical-rating-spell": 2181,
+        "health-maximum": 31895,
+        "magicka-maximum": 19489,
+        "resistance-critical": 0,
+        "penetration-spell": 0
       },
       "activeBuffs": [
+        {
+          "abilityId": 43752,
+          "name": "Soul Summons",
+          "description": "· Once per hour, you can resurrect without the need for a soul gem",
+          "effect": "",
+          "stacks": 0
+        },
         {
           "abilityId": 127531,
           "name": "Corrupting Bloody Mara",
@@ -29236,83 +29243,6 @@
           "name": "Vampire Stage 4",
           "description": "",
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 43752,
-          "name": "Soul Summons",
-          "description": "· Once per hour, you can resurrect without the need for a soul gem",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 29465,
-          "name": "Landslide",
-          "description": "",
-          "effect": "",
-          "stacks": 12
-        },
-        {
-          "abilityId": 45450,
-          "name": "Battle Rush",
-          "description": "",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 262658,
-          "name": "Power Lash",
-          "description": "",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61662,
-          "name": "Minor Brutality",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff10|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61715,
-          "name": "Minor Evasion",
-          "description": "",
-          "effect": "Reduces your damage taken from area of effect attacks by |cffffff10|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61693,
-          "name": "Minor Resolve",
-          "description": "",
-          "effect": "Increases your Physical and Spell Resistance by |cffffff2974|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 154927,
-          "name": "Ritual of Salvation",
-          "description": "",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 99789,
-          "name": "Merciless Charge",
-          "description": "",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 21230,
-          "name": "Berserker",
-          "description": "Increase your Power by for",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 96005,
-          "name": "Pillars of Nirn",
-          "description": "",
-          "effect": "",
           "stacks": 0
         }
       ],
@@ -29906,9 +29836,9 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:467:0|h|h",
+          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:465:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff2426|r Magic Damage and restores |cffffff492|r Health and |cffffff177|r Magicka and Stamina.",
+          "enchant": "Deals |cffffff2014|r Magic Damage and restores |cffffff439|r Health and |cffffff177|r Magicka and Stamina.",
           "trait": "Increases chance to apply status effects by |cffffff235|r%.",
           "quality": 5
         },
@@ -29946,7 +29876,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9500:0|h|h",
+          "link": "|H0:item:215599:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9388:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29954,11 +29884,73 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:485:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:483:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
           "quality": 5
+        }
+      ],
+      "skills": [
+        {
+          "slot": 3,
+          "abilityId": 38788,
+          "name": "Stampede",
+          "description": "Launch across the earth and smash an enemy, dealing |cffffff4616|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1002|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
+          "durationMs": 15000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
+        },
+        {
+          "slot": 4,
+          "abilityId": 32785,
+          "name": "Heart of Flame",
+          "description": "Let the fire within draw heat to your heart, restoring |cffffff12|r% of your missing Magicka and Stamina and healing |cffffff4165|r Health every |cffffff2|r seconds over |cffffff4|r seconds.\n\nWhen this ability completes, you release this heat as a blast of fire that deals |cffffff6637|r Flame Damage to nearby enemies.",
+          "durationMs": 4000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
+        },
+        {
+          "slot": 5,
+          "abilityId": 20779,
+          "name": "Fire Keeper",
+          "description": "Throw out a purifying flame, filling a large area with warmth for |cffffff15|r seconds. This fire heals you and your allies at the target location for |cffffff1289|r Health every |cffffff1|r second. This healing increases by |cffffff50|r% if you are in the area.\n\nHealed targets gain Minor Fortitude and Minor Heroism for |cffffff15|r seconds, increasing Health Recovery by |cffffff15|r% and generating |cffffff1|r Ultimate every |cffffff1.5|r seconds.",
+          "durationMs": 15000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
+        },
+        {
+          "slot": 6,
+          "abilityId": 32853,
+          "name": "Incinerate",
+          "description": "Activate an aura of flames which launches a wave of flames every |cffffff5|r seconds, dealing |cffffff6556|r Flame Damage directly to enemies inside.\n\nEach hit has a |cffffff15|r% chance of applying Burning.\n\nWhile slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.",
+          "durationMs": 15000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
+        },
+        {
+          "slot": 7,
+          "abilityId": 31874,
+          "name": "Igneous Weapons",
+          "description": "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff1|r minute.\n\nWhile active, dealing damage with Light and Heavy Attacks causes an additional |cffffff1409|r Flame Damage, up to once every |cffffff2|r seconds.",
+          "durationMs": 60000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
+        },
+        {
+          "slot": 8,
+          "abilityId": 32947,
+          "name": "Standard of Might",
+          "description": "Call down a battle standard for |cffffff15|r seconds, rallying you and group members inside the area, increasing Weapon and Spell Damage by |cffffff300|r and reducing damage taken by |cffffff10|r%. You gain an additional |cffffff15|r% damage done, |cffffff15|r% reduced damage taken, and |cffffff300|r Weapon and Spell Damage.\n\nAn ally near the standard can activate the Shackle synergy, dealing |cffffff11174|r Flame Damage to enemies in the area and immobilizing them for |cffffff5|r seconds.",
+          "durationMs": 15000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0
         }
       ]
     }
