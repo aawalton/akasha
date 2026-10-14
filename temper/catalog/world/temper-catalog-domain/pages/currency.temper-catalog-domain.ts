@@ -8,10 +8,10 @@ export const currency = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.5.3303624",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-14T21:42:15.526Z",
+  capturedAt: "2026-10-14T21:42:54.761Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
-  updatedAt: "2026-10-14T21:42:24.958Z",
+  updatedAt: "2026-10-14T21:43:04.579Z",
   createdAt: "2026-09-02T01:39:30.991Z",
 } as const satisfies TemperCatalogDomain
