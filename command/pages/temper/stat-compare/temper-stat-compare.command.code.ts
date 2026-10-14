@@ -1,5 +1,3 @@
-import { readFileSync } from "node:fs"
-import { join } from "node:path"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { character } from "akasha/command/argument/pages/character.argument.ts"
@@ -13,17 +11,14 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { characterCompletionAt } from "akasha/command/pages/temper/modules/character-completion-reading/character-completion-reading.module.code.ts"
 import { temperStatCompare as page } from "akasha/command/pages/temper/stat-compare/temper-stat-compare.command.ts"
-import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
-import {
-  type CharacterCompletion,
-  characterCompletionSchema,
-} from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 
 const NAMED = [character, json]
 
@@ -41,11 +36,6 @@ type BarComparison = {
   readonly activeBuffs: readonly string[]
   readonly unmatchedBuffs: readonly string[]
   readonly gaps: readonly StatGap[]
-}
-
-function completionPath(slug: string): string {
-  const folder = "temper/player/character/temper-account-character/pages"
-  return join(akashaRoot(), folder, slug, `${slug}.temper-account-character.completion.json`)
 }
 
 function barLines(compared: BarComparison): readonly string[] {
@@ -77,8 +67,7 @@ export async function temperStatCompare(argv: readonly string[], given: Given): 
 
   let completion: CharacterCompletion
   try {
-    const body: unknown = JSON.parse(readFileSync(completionPath(slug), "utf8"))
-    completion = characterCompletionSchema.parse(body)
+    completion = characterCompletionAt(slug)
   } catch (thrown) {
     return refused(`no completion is read for \`${slug}\`: ${saidBy(thrown)}`, DATA)
   }

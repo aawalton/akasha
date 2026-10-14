@@ -136,7 +136,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"command/pages/fitness/today/fitness-today.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"command/pages/temper/build-test/temper-build-test.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"command/pages/temper/modules/character-completion-reading/character-completion-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"design/language/lua-compiler/modules/plugin-pages-of-type/plugin-pages-of-type.module.test-fixtures.ts","typed":false,"deferred":false}

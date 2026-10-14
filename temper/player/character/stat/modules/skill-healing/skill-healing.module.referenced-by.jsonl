@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"skill-healing.module.code.ts","path":"command/pages/temper/hps/temper-hps.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skill-healing.module.code.ts","path":"temper/player/character/stat/modules/rotation-healing/rotation-healing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"skill-healing.module.code.ts","path":"temper/player/character/stat/modules/skill-healing/skill-healing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
