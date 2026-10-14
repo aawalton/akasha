@@ -8,7 +8,7 @@ export const heartOfStone = {
   key: "heart-of-stone",
   baseName: "Heart of Stone",
   description:
-    "Rock and stone shield your heart, turning aside sharp blades and barbed words.\n\nIncreases your Armor by |cffffff1487|r.",
+    "Rock and stone shield your heart, turning aside sharp blades and barbed words.\n\nIncreases your Armor by |cffffff2974|r.",
   icon: "/esoui/art/icons/ability_dragonknight_032.dds",
   esoSkillId: 29468,
   isMorph: false,
@@ -18,7 +18,8 @@ export const heartOfStone = {
   rank: 8,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 618,
   createdAt: "2026-05-28T16:03:32.730Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-14T14:41:49.131Z",
 } as const satisfies TemperSkill
