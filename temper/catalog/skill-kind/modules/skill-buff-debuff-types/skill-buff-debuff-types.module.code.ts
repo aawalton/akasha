@@ -28,7 +28,6 @@ export type ActivationDebuffType =
   | "minor-vulnerability"
   | "minor-maim"
   | "minor-breach"
-  | "minor-fracture"
   | "minor-defile"
   | "minor-magickasteal"
   | "major-vulnerability"
