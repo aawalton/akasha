@@ -63,7 +63,16 @@ export const temper = {
       decisionKind: "decision-kind/departure",
       statement: "Alan values a permanent unlock above gold.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Alan is never asked to paste a script into the game.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What an agent needs to see in the game, the add-on captures, even if only for a while.",
+    },
   ],
   createdAt: "2026-09-01T16:05:05.532Z",
-  updatedAt: "2026-10-08T14:21:00.000Z",
+  updatedAt: "2026-10-14T14:49:47.799Z",
 } as const satisfies Domain
