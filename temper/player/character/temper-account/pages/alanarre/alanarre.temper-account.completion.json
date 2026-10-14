@@ -52791,7 +52791,7 @@
       "name": "Ironblood",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 21,
+      "slotsUnlocked": 22,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52848,7 +52848,7 @@
         },
         {
           "name": "Ironblood Battle Axe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Ironblood Maul",
