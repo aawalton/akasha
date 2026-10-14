@@ -52791,7 +52791,7 @@
       "name": "Ironblood",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 16,
+      "slotsUnlocked": 17,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52832,7 +52832,7 @@
         },
         {
           "name": "Ironblood Dagger",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Ironblood Axe",
