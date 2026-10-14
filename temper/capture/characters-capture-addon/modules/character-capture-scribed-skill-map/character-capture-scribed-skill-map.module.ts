@@ -26,7 +26,11 @@ export const characterCaptureScribedSkillMap = {
       decisionKind: "decision-kind/departure",
       statement: "The scribed skill pages are compiled in here once, for every reader.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A scribed skill on a bar is written at its place in the skills table.",
+    },
   ],
   createdAt: "2026-09-25T01:27:37.652Z",
-  updatedAt: "2026-09-27T01:04:50.000Z",
+  updatedAt: "2026-10-14T13:36:57.585Z",
 } as const satisfies Module

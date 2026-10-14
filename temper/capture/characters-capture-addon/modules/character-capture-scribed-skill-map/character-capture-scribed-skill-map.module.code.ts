@@ -43,22 +43,30 @@ function placesOf(this: void): Places {
     temperFocusScript.slug,
     $pagesOfType<Pick<TemperFocusScript, "slug" | "title">>(temperFocusScript)
   )
-  const scribed = scribedSkillPages()
-  let first: number | undefined
-  for (const one of scribed) {
-    if (first === undefined || one.hashPlace < first) first = one.hashPlace
-  }
   const found: Places = {}
-  for (const one of scribed) {
+  for (const one of scribedSkillPages()) {
     const grimoire = grimoires[one.grimoireId]
     const focus = focuses[one.focusScriptId]
     if (grimoire === undefined || focus === undefined) continue
-    found[`${grimoire}|${focus}`] = one.hashPlace - (first ?? 0)
+    found[`${grimoire}|${focus}`] = one.hashPlace
   }
   return found
 }
 
-export function getScribedSkillIndex(grimoireName: string, focusScriptName: string): number {
+function firstPlace(this: void): number {
+  let first: number | undefined
+  for (const one of scribedSkillPages()) {
+    if (first === undefined || one.hashPlace < first) first = one.hashPlace
+  }
+  return first ?? 0
+}
+
+export function getScribedSkillPlace(grimoireName: string, focusScriptName: string): number {
   if (held === undefined) held = placesOf()
   return held[`${grimoireName}|${focusScriptName}`] ?? 0
+}
+
+export function getScribedSkillIndex(grimoireName: string, focusScriptName: string): number {
+  const place = getScribedSkillPlace(grimoireName, focusScriptName)
+  return place === 0 ? 0 : place - firstPlace()
 }

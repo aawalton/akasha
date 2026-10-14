@@ -5264,12 +5264,14 @@
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.ts","id":"01a0616b-2ab0-76e4-88f5-494ff9be08f5"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.ts","id":"01a0616b-23c3-7958-8a1f-21a8646a50db"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-class-map/character-capture-class-map.module.ts","id":"01a0616b-83c5-7863-8ef6-9a4458d16ae4"}
+{"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.ts","id":"01a0616b-afa7-7b04-bf56-f33d15a63898"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.ts","id":"01a0616b-618d-790e-b832-fb5fba674711"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.ts","id":"01a0616b-69ef-7681-b39d-d35c456d1dc4"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.ts","id":"01a0616b-4d67-7eae-a7e9-5dba894d679f"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-race-map/character-capture-race-map.module.ts","id":"01a0616b-4cc4-79a8-bbd5-ed51f0322bc0"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.ts","id":"01a0d62c-d5b4-75e1-b4ce-b66ae5e37c6b"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.ts","id":"01a0616b-aaf2-7d29-bf88-e33b5830c654"}
+{"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-map/character-capture-skill-map.module.ts","id":"01a0616b-8ea3-7699-aef6-4c54ee5ce7ec"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-pages/character-capture-skill-pages.module.ts","id":"01a0e062-b6c8-702c-b74f-ccc8ad13269d"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts","id":"01a062ff-2792-7da8-8bfd-3a48ace9bf53"}

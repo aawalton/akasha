@@ -11,6 +11,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
@@ -45,6 +46,7 @@ import {
   parsePotionData,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.code.ts"
 import { getRaceIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-race-map/character-capture-race-map.module.code.ts"
+import { getScribedSkillPlace } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.code.ts"
 import { captureScribingData } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-scribing/character-capture-scribing.module.code.ts"
 import { getPlayerSkillLineIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import { getPlayerSkillIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-map/character-capture-skill-map.module.code.ts"
@@ -75,6 +77,19 @@ const CHARACTER_CP_SLOT_INDICES: number[][] = [
 ]
 
 const CHARACTER_DISCIPLINE_INDICES = [2, 3, 1]
+
+function slottedSkillIndex(slotIndex: number, hotbarCategory: number): number {
+  const boundId = GetSlotBoundId(slotIndex, hotbarCategory)
+  if (GetSlotType(slotIndex, hotbarCategory) !== ACTION_TYPE_CRAFTED_ABILITY) {
+    return getPlayerSkillIndex(getBaseAbilityId(boundId))
+  }
+  const [focusScriptId] = GetCraftedAbilityActiveScriptIds(boundId)
+  if (focusScriptId === 0) return 0
+  return getScribedSkillPlace(
+    GetCraftedAbilityDisplayName(boundId),
+    GetCraftedAbilityScriptDisplayName(focusScriptId)
+  )
+}
 
 export function captureCharacterBuild(): CharacterBuildData {
   const classIndex = getClassIndex(GetUnitClassId("player"))
@@ -157,11 +172,8 @@ export function captureCharacterBuild(): CharacterBuildData {
   const primarySkills: number[] = []
   const backupSkills: number[] = []
   for (const slotIndex of CHARACTER_SKILL_SLOT_INDICES) {
-    const primaryAbilityId = GetSlotBoundId(slotIndex, HOTBAR_CATEGORY_PRIMARY)
-    primarySkills.push(getPlayerSkillIndex(getBaseAbilityId(primaryAbilityId)))
-
-    const backupAbilityId = GetSlotBoundId(slotIndex, HOTBAR_CATEGORY_BACKUP)
-    backupSkills.push(getPlayerSkillIndex(getBaseAbilityId(backupAbilityId)))
+    primarySkills.push(slottedSkillIndex(slotIndex, HOTBAR_CATEGORY_PRIMARY))
+    backupSkills.push(slottedSkillIndex(slotIndex, HOTBAR_CATEGORY_BACKUP))
   }
 
   const passiveBitmask: boolean[] = []

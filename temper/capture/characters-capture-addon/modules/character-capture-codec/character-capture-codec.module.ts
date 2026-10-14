@@ -14,6 +14,12 @@ export const characterCaptureCodec = {
     "CHARACTER_CP_SLOT_INDICES",
     "CHARACTER_DISCIPLINE_INDICES",
   ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A scribed skill on a bar is read by its grimoire and focus script.",
+    },
+  ],
   createdAt: "2026-09-02T09:20:42.407Z",
-  updatedAt: "2026-09-24T23:36:43.000Z",
+  updatedAt: "2026-10-14T13:36:57.585Z",
 } as const satisfies Module
