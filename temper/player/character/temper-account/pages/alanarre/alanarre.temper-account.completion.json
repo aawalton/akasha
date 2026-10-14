@@ -52597,7 +52597,7 @@
       "name": "Draugr's Rest",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 16,
+      "slotsUnlocked": 17,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52646,7 +52646,7 @@
         },
         {
           "name": "Draugr's Rest Mace",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Draugr's Rest Sword",
@@ -52694,7 +52694,7 @@
       "name": "Pillar of Nirn",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 13,
+      "slotsUnlocked": 14,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52735,7 +52735,7 @@
         },
         {
           "name": "Pillar Of Nirn Dagger",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Pillar Of Nirn Axe",
@@ -52791,7 +52791,7 @@
       "name": "Ironblood",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 17,
+      "slotsUnlocked": 18,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52836,7 +52836,7 @@
         },
         {
           "name": "Ironblood Axe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Ironblood Mace",
