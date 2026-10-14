@@ -8,7 +8,7 @@ export const rejuvenation = {
   description: "Grants 90 Health, Magicka, and Stamina Recovery",
   esoChampionSkillId: 35,
   championConstellation: "fitness",
-  isSlottable: false,
+  isSlottable: true,
   effects: [
     { metric: "temper-metric/health-recovery", effectType: "integer", value: 90 },
     { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 90 },
@@ -16,5 +16,5 @@ export const rejuvenation = {
   ],
   hashPlace: 43,
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-14T17:51:30.378Z",
 } as const satisfies TemperChampionStar
