@@ -120,6 +120,7 @@ export const command = {
     "namespace/talos",
     "namespace/temper",
     "namespace/track",
+    "namespace/watching",
     "number-property/command-max-wall-seconds",
     "page-type/argument",
     "page-type/namespace",
@@ -225,5 +226,5 @@ export const command = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-29T04:53:12.685Z",
-  updatedAt: "2026-10-02T18:39:45.000Z",
+  updatedAt: "2026-10-14T19:15:57.587Z",
 } as const satisfies PageType

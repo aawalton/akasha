@@ -5,9 +5,9 @@ export const link = {
   type: "page-type/argument",
   slug: "link",
   said: "--link",
-  takes: "the game item link read",
+  takes: "the link read",
   value: "text",
   placeholder: "link",
   createdAt: "2026-09-12T08:43:32.688Z",
-  updatedAt: "2026-09-15T15:49:18.000Z",
+  updatedAt: "2026-10-14T19:15:57.587Z",
 } as const satisfies Argument

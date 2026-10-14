@@ -5,9 +5,9 @@ export const collectionStatus = {
   type: "page-type/argument",
   slug: "collection-status",
   said: "--status",
-  takes: "the one status to list, of the seven a collection states",
+  takes: "one status, of the seven a collection states",
   value: "text",
   placeholder: "status",
   createdAt: "2026-09-13T16:09:07.311Z",
-  updatedAt: "2026-09-15T15:49:18.000Z",
+  updatedAt: "2026-10-14T19:15:57.587Z",
 } as const satisfies Argument

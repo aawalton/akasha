@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"alan/harness/recurrence/modules/scheduling/scheduling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"command/pages/watching/log/watching-log.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"design/interface/badge/modules/date-badge/date-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"page/core/view/modules/calendar-grid/calendar-grid.module.code.ts","typed":false,"deferred":false}

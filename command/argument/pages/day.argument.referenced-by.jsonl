@@ -10,6 +10,7 @@
 {"propertySlug":"argument","path":"command/pages/track/session/switch/track-session-switch.command.ts","id":"01a07979-7e5f-7249-9356-fdb1cc6b9acc"}
 {"propertySlug":"argument","path":"command/pages/track/topic-words/track-topic-words.command.ts","id":"01a0ca3d-3f9d-7bc5-8a46-b199902bf3ac"}
 {"propertySlug":"argument","path":"command/pages/track/weight/track-weight.command.ts","id":"01a07bfe-36da-7166-8f06-6fa75c6f8c29"}
+{"propertySlug":"argument","path":"command/pages/watching/log/watching-log.command.ts","id":"01a13bd7-c014-7d8c-a51d-3cb5159400a8"}
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/session/amend/track-session-amend.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/session/amend/track-session-amend.command.test.ts","typed":false,"deferred":false}
@@ -31,3 +32,4 @@
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/session/switch/track-session-switch.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/topic-words/track-topic-words.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/weight/track-weight.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/watching/log/watching-log.command.code.ts","typed":false,"deferred":false}

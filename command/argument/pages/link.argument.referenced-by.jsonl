@@ -1,2 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.ts","id":"01a0603c-c1d2-7be2-8f61-08de3fd69b48"}
+{"propertySlug":"argument","path":"command/pages/watching/log/watching-log.command.ts","id":"01a13bd7-c014-7d8c-a51d-3cb5159400a8"}
 {"propertySlug":"import","fileName":"link.argument.ts","path":"command/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"link.argument.ts","path":"command/pages/watching/log/watching-log.command.code.ts","typed":false,"deferred":false}
