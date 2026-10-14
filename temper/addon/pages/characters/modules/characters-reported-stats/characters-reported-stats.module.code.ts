@@ -87,13 +87,16 @@ export function captureReportedStats(): undefined {
   if (pair !== ACTIVE_WEAPON_PAIR_MAIN && pair !== ACTIVE_WEAPON_PAIR_BACKUP) return
 
   const stats: Record<string, number> = {}
+  const unbonusedStats: Record<string, number> = {}
   for (const [name, stat] of REPORTED_STATS) {
     stats[name] = GetPlayerStat(stat, STAT_BONUS_OPTION_APPLY_BONUS)
+    unbonusedStats[name] = GetPlayerStat(stat, STAT_BONUS_OPTION_DONT_APPLY_BONUS)
   }
   const reading = {
     capturedAt: GetTimeStamp(),
     inCombat: IsUnitInCombat("player"),
     stats,
+    unbonusedStats,
     activeBuffs: activeBuffs(),
     championPoints: championPoints(),
     worn: worn(),

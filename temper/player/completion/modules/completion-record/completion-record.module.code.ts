@@ -164,6 +164,7 @@ const reportedStatsReadingSchema = z.strictObject({
   capturedAt: z.number(),
   inCombat: z.boolean(),
   stats: z.record(z.string(), z.number()),
+  unbonusedStats: z.record(z.string(), z.number()).optional(),
   activeBuffs: luaArrayOrEmpty(activeBuffSchema).optional(),
   championPoints: luaArrayOrEmpty(championStarSchema).optional(),
   worn: luaArrayOrEmpty(wornPieceSchema).optional(),

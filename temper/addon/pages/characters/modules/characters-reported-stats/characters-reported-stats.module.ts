@@ -26,6 +26,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps each stat a second time as the game gives it without bonuses.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading says whether the player was in combat when it was taken.",
     },
     {
@@ -42,5 +46,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-14T16:43:37.640Z",
+  updatedAt: "2026-10-14T16:59:10.706Z",
 } as const satisfies Module
