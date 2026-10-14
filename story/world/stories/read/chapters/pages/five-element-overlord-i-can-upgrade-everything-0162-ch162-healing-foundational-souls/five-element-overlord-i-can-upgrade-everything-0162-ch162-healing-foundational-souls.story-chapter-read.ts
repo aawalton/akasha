@@ -20,5 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0162Ch162HealingFoundationa
     },
   ],
   createdAt: "2026-10-13T23:05:59.252Z",
-  updatedAt: "2026-10-13T23:05:59.252Z",
+  updatedAt: "2026-10-14T00:04:47.770Z",
+  ownProgress: 2696,
 } as const satisfies StoryChapterRead
