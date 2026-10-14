@@ -43,9 +43,13 @@ export const rotationHealing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A skill's effect runs for the longer of the game's duration and its tooltip's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A tick counts only where it falls inside the fight.",
     },
   ],
   createdAt: "2026-10-14T20:33:53.850Z",
-  updatedAt: "2026-10-14T21:43:05.449Z",
+  updatedAt: "2026-10-14T21:44:49.901Z",
 } as const satisfies Module

@@ -3,6 +3,7 @@ export type SkillHealing = {
   readonly shield: number
   readonly tick: number
   readonly tickSeconds: number
+  readonly lastsSeconds: number
   readonly unread: readonly string[]
 }
 
@@ -14,12 +15,12 @@ const MENTIONS_HEALING = /heal|shield|restor/i
 
 const DEFAULT_TICK_SECONDS = 2
 
-const SHIELD = /damage shield that absorbs (\d+) damage/i
+const SHIELD = /damage shield that absorbs (\d+) damage(?: for (\d+) seconds?)?/i
 
 const HIT_THEN_TICKS =
   /heal(?:s|ing)? for (\d+) Health from the initial hit and (\d+) Health each subsequent tick/i
 
-const EVERY = /heals? you\b.*? for (\d+) Health every (\d+)? ?seconds?/i
+const EVERY = /heal(?:s|ing)?\b(?:.*? for)? (\d+) Health every (\d+)? ?seconds?/i
 
 const DIRECT = /heal(?:s|ing)? (?:you )?for (\d+) Health/i
 
@@ -32,12 +33,14 @@ export function readSkillHealing(description: string): SkillHealing {
   let shield = 0
   let tick = 0
   let tickSeconds = DEFAULT_TICK_SECONDS
+  let lastsSeconds = 0
   let healed = false
   const unread: string[] = []
   for (const sentence of plainText(description).split(SENTENCE)) {
     const shielded = SHIELD.exec(sentence)
     if (shielded !== null && shield === 0) {
       shield = Number(shielded[1])
+      lastsSeconds = shielded[2] === undefined ? 0 : Number(shielded[2])
       continue
     }
     const hitThenTicks = HIT_THEN_TICKS.exec(sentence)
@@ -62,5 +65,5 @@ export function readSkillHealing(description: string): SkillHealing {
     }
     if (MENTIONS_HEALING.test(sentence) && !(healed && DIRECT.test(sentence))) unread.push(sentence)
   }
-  return { direct, shield, tick, tickSeconds, unread }
+  return { direct, shield, tick, tickSeconds, lastsSeconds, unread }
 }

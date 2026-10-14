@@ -4,7 +4,7 @@ import {
   type RotationSkill,
 } from "akasha/temper/player/character/stat/modules/rotation-healing/rotation-healing.module.code.ts"
 
-const NONE = { direct: 0, shield: 0, tick: 0, tickSeconds: 2, unread: [] }
+const NONE = { direct: 0, shield: 0, tick: 0, tickSeconds: 2, lastsSeconds: 0, unread: [] }
 
 const EMBERS: RotationSkill = {
   name: "Burning Embers",
@@ -52,6 +52,12 @@ test("where nothing can be cast, the global cooldown goes to a light attack", ()
   const healed = healingOverRotation([BRAWLER], 12)
   expect(healed.skills).toEqual([{ name: "Brawler", casts: 2, healing: 2 * 6381 }])
   expect(healed.lightAttacks).toBe(10)
+})
+
+test("a shield the game gives no duration runs as long as its tooltip says", () => {
+  const brawler = { ...BRAWLER, durationMs: 0, healing: { ...BRAWLER.healing, lastsSeconds: 6 } }
+  const healed = healingOverRotation([LASH, brawler], 12)
+  expect(healed.skills.map((one) => one.casts)).toEqual([10, 2])
 })
 
 test("a tick past the end of the fight does not count", () => {

@@ -29,7 +29,11 @@ export const skillHealing = {
       decisionKind: "decision-kind/departure",
       statement: "A tooltip sentence naming healing that no shape here reads is kept as unread.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shield's stated duration is how long the skill's effect runs.",
+    },
   ],
   createdAt: "2026-10-14T20:33:53.850Z",
-  updatedAt: "2026-10-14T20:33:53.850Z",
+  updatedAt: "2026-10-14T21:44:49.901Z",
 } as const satisfies Module

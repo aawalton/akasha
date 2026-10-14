@@ -25,10 +25,14 @@ const GLOBAL_COOLDOWN_SECONDS = 1
 
 const MILLIS = 1000
 
+function lastsOf(skill: RotationSkill): number {
+  return Math.max(skill.durationMs / MILLIS, skill.healing.lastsSeconds)
+}
+
 function ticksWithin(skill: RotationSkill, castAt: number, fightSeconds: number): number {
   const { tick, tickSeconds } = skill.healing
   if (tick === 0 || tickSeconds <= 0) return 0
-  const lasts = skill.durationMs / MILLIS
+  const lasts = lastsOf(skill)
   let ticks = 0
   for (
     let at = castAt + tickSeconds;
@@ -48,7 +52,10 @@ export function healingOverRotation(
   const readyAt = skills.map(() => 0)
   const casts = skills.map(() => 0)
   const healed = skills.map(() => 0)
-  const lasting = (at: number): number => ((skills[at]?.durationMs ?? 0) > 0 ? 0 : 1)
+  const lasting = (at: number): number => {
+    const skill = skills[at]
+    return skill !== undefined && lastsOf(skill) > 0 ? 0 : 1
+  }
   const queue = [...skills.keys()].sort((one, two) => lasting(one) - lasting(two))
   let lightAttacks = 0
   let now = 0
@@ -64,7 +71,7 @@ export function healingOverRotation(
     healed[next] =
       (healed[next] ?? 0) + direct + shield + tick * ticksWithin(skill, now, fightSeconds)
     casts[next] = (casts[next] ?? 0) + 1
-    runsUntil[next] = now + skill.durationMs / MILLIS
+    runsUntil[next] = now + lastsOf(skill)
     readyAt[next] = now + skill.cooldownMs / MILLIS
     now += Math.max(GLOBAL_COOLDOWN_SECONDS, skill.castMs / MILLIS)
   }

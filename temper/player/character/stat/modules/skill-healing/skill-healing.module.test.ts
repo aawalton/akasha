@@ -22,6 +22,7 @@ test("a heal on the initial hit and at each tick is read as both, ticking every 
     shield: 0,
     tick: 644,
     tickSeconds: 2,
+    lastsSeconds: 0,
     unread: [],
   })
 })
@@ -29,6 +30,7 @@ test("a heal on the initial hit and at each tick is read as both, ticking every 
 test("a damage shield is read, and its growth per enemy is kept as unread", () => {
   const read = readSkillHealing(BRAWLER)
   expect(read.shield).toBe(6381)
+  expect(read.lastsSeconds).toBe(6)
   expect(read.direct).toBe(0)
   expect(read.unread).toEqual([
     "Each enemy hit increases the damage shield's strength by 50%, up to 300%.",
@@ -54,12 +56,22 @@ test("healing from missing health is no shape read here, so it is kept as unread
   expect(read.unread.length).toBe(1)
 })
 
+test("healing so much every so many seconds is read as a tick at that interval", () => {
+  const read = readSkillHealing(
+    "Let the fire within draw heat to your heart, restoring |cffffff12|r% of your missing Magicka and Stamina and healing |cffffff4165|r Health every |cffffff2|r seconds over |cffffff4|r seconds."
+  )
+  expect(read.tick).toBe(4165)
+  expect(read.tickSeconds).toBe(2)
+  expect(read.unread).toEqual([])
+})
+
 test("a skill naming no healing reads as none", () => {
   expect(readSkillHealing("Deals |cffffff9021|r Flame Damage.")).toEqual({
     direct: 0,
     shield: 0,
     tick: 0,
     tickSeconds: 2,
+    lastsSeconds: 0,
     unread: [],
   })
 })
