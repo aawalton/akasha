@@ -28349,26 +28349,30 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1791988992,
+      "capturedAt": 1791989019,
       "inCombat": false,
       "stats": {
         "magicka-maximum": 20026,
         "resistance-critical": 1320,
-        "power-weapon": 4850,
+        "power-weapon": 3286,
         "critical-rating-spell": 6006,
         "magicka-recovery": 535,
         "stamina-maximum": 26636,
         "critical-rating-weapon": 6006,
-        "power-spell": 4850,
+        "power-spell": 3286,
         "health-maximum": 32651,
         "penetration-physical": 7750,
         "resistance-spell": 33108,
-        "stamina-recovery": 729,
+        "stamina-recovery": 566,
         "penetration-spell": 7750,
         "resistance-physical": 32382,
         "health-recovery": 0
       },
       "activeBuffs": [
+        {
+          "abilityId": 43752,
+          "name": "Soul Summons"
+        },
         {
           "abilityId": 127531,
           "name": "Corrupting Bloody Mara"
@@ -28396,54 +28400,6 @@
         {
           "abilityId": 135402,
           "name": "Vampire Stage 4"
-        },
-        {
-          "abilityId": 43752,
-          "name": "Soul Summons"
-        },
-        {
-          "abilityId": 29465,
-          "name": "Landslide"
-        },
-        {
-          "abilityId": 262658,
-          "name": "Power Lash"
-        },
-        {
-          "abilityId": 61536,
-          "name": "Mystic Guard"
-        },
-        {
-          "abilityId": 258666,
-          "name": "Igneous Weapons"
-        },
-        {
-          "abilityId": 61549,
-          "name": "Minor Vitality"
-        },
-        {
-          "abilityId": 45450,
-          "name": "Battle Rush"
-        },
-        {
-          "abilityId": 61662,
-          "name": "Minor Brutality"
-        },
-        {
-          "abilityId": 61665,
-          "name": "Major Brutality"
-        },
-        {
-          "abilityId": 21230,
-          "name": "Berserker"
-        },
-        {
-          "abilityId": 99789,
-          "name": "Merciless Charge"
-        },
-        {
-          "abilityId": 32853,
-          "name": "Incinerate"
         }
       ]
     },
