@@ -140,6 +140,18 @@ const cadwellProgressSchema = z.strictObject({
   levels: z.record(z.number(), cadwellLevelSchema),
 })
 
+const reportedStatsReadingSchema = z.strictObject({
+  capturedAt: z.number(),
+  inCombat: z.boolean(),
+  stats: z.record(z.string(), z.number()),
+  buffs: numbers,
+})
+
+const reportedStatsSchema = z.strictObject({
+  front: reportedStatsReadingSchema.optional(),
+  back: reportedStatsReadingSchema.optional(),
+})
+
 export const accountCompletionSchema = z.strictObject({
   achievements: z.record(z.number(), achievementProgressSchema),
   itemSets: z.record(z.number(), itemSetProgressSchema).optional(),
@@ -186,6 +198,7 @@ export const characterCompletionSchema = z.strictObject({
     .optional(),
   bankVisitDate: z.string().optional(),
   inventoryCheck: z.strictObject({ date: z.string(), misplaced: z.number() }).optional(),
+  reportedStats: reportedStatsSchema.optional(),
 })
 
 export const companionCompletionSchema = z.strictObject({

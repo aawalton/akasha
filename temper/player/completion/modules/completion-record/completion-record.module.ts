@@ -26,10 +26,19 @@ export const completionRecord = {
       statement: "A body carrying a key the schema does not declare is refused.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character's reported stats are the character sheet's numbers as the game gave them, for each bar.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading of reported stats keeps the buffs active when it was taken.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "A character's bank visit date is still read, so an old record is not refused.",
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-10T14:40:09.857Z",
+  updatedAt: "2026-10-14T14:00:47.133Z",
 } as const satisfies Module
