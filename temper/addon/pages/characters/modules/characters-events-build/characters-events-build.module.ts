@@ -15,7 +15,12 @@ export const charactersEventsBuild = {
       decisionKind: "decision-kind/departure",
       statement: "A swap of bars is a build change, so the bar now held gets its reported stats.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each load of the character takes the whole build capture, reported stats with it.",
+    },
   ],
   createdAt: "2026-09-02T17:32:20.771Z",
-  updatedAt: "2026-10-14T14:03:56.194Z",
+  updatedAt: "2026-10-14T14:55:48.413Z",
 } as const satisfies Module

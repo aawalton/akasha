@@ -67,6 +67,12 @@ export function registerBuildEvents(): undefined {
   )
 
   EVENT_MANAGER.RegisterForEvent(
+    ADDON_NAME + "_BuildOnActivated",
+    EVENT_PLAYER_ACTIVATED,
+    onBuildTouched
+  )
+
+  EVENT_MANAGER.RegisterForEvent(
     ADDON_NAME + "_WeaponPairChanged",
     EVENT_ACTIVE_WEAPON_PAIR_CHANGED,
     onBuildTouched
