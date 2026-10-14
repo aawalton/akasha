@@ -8,8 +8,8 @@ export const steedsBlessing = {
   description: "Increases your out of combat Movement Speed by 20%",
   esoChampionSkillId: 66,
   championConstellation: "craft",
-  isSlottable: false,
+  isSlottable: true,
   hashPlace: 18,
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-14T17:52:12.740Z",
 } as const satisfies TemperChampionStar
