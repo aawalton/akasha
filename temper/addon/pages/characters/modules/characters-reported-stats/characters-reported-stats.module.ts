@@ -50,9 +50,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading keeps each worn piece's link, armor and enchantment text.",
+      statement:
+        "A reading keeps each worn piece's link, armor, enchantment and trait text, and quality.",
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-14T18:04:01.284Z",
+  updatedAt: "2026-10-14T18:29:30.517Z",
 } as const satisfies Module

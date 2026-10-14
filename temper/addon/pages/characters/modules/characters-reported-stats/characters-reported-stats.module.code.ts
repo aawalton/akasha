@@ -81,7 +81,14 @@ function championPoints(): StarSpent[] {
   return stars
 }
 
-type WornPiece = { slot: number; link: string; armor: number; enchant: string }
+type WornPiece = {
+  slot: number
+  link: string
+  armor: number
+  enchant: string
+  trait: string
+  quality: number
+}
 
 function worn(): WornPiece[] {
   const pieces: WornPiece[] = []
@@ -90,7 +97,15 @@ function worn(): WornPiece[] {
     const link = GetItemLink(BAG_WORN, slot)
     if (link === "") continue
     const [, , enchant] = GetItemLinkEnchantInfo(link)
-    pieces.push({ slot, link, armor: GetItemLinkArmorRating(link, false), enchant })
+    const [, trait] = GetItemLinkTraitInfo(link)
+    pieces.push({
+      slot,
+      link,
+      armor: GetItemLinkArmorRating(link, false),
+      enchant,
+      trait,
+      quality: GetItemLinkFunctionalQuality(link),
+    })
   }
   return pieces
 }
