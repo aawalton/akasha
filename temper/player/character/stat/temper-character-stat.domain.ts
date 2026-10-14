@@ -46,7 +46,8 @@ export const temperCharacterStat = {
     "module/metric-reading",
     "module/metric-formula-files",
     "module/metric-catalog-loading",
+    "page-type/temper-stat-case",
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-14T14:17:00.259Z",
+  updatedAt: "2026-10-14T17:14:53.326Z",
 } as const satisfies Domain
