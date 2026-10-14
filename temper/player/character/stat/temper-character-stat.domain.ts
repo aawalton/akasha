@@ -49,6 +49,20 @@ export const temperCharacterStat = {
     "page-type/temper-stat-case",
     "module/stat-case",
   ],
+  directives: [
+    {
+      directiveKind: "directive-kind/principle",
+      name: "Lazy Developer",
+      act: "Model each stat formula as the plainest rule a game developer would have written.",
+      warrant:
+        "A developer wrote the game's formula once and simply, so a rule fit to one case is wrong.",
+      aids: [
+        "Never add a step that only one case needs.",
+        "Prefer one rounding at the end to rounding at each step.",
+        "Where no plain rule fits, get another reading rather than a cleverer rule.",
+      ],
+    },
+  ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-14T17:18:43.951Z",
+  updatedAt: "2026-10-14T18:38:55.013Z",
 } as const satisfies Domain

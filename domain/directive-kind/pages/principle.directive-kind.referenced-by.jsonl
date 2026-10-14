@@ -15,4 +15,5 @@
 {"propertySlug":"directive-kind","path":"domain/context/required-reading/required-reading.domain.ts","id":"01a04d97-c600-78b8-b3eb-faf390b009ce"}
 {"propertySlug":"directive-kind","path":"page/naming/naming.domain.ts","id":"01a05341-b9a9-7d68-88b3-142e3e3ecd4d"}
 {"propertySlug":"directive-kind","path":"person/pages/alan/alan.person.ts","id":"01a053fe-00ef-7d9b-9231-0340262cf86e"}
+{"propertySlug":"directive-kind","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
 {"propertySlug":"parts","path":"domain/directive-kind/directive-kind.page-type.ts","id":"01a04e1f-cbf6-755d-bd7d-e46ba13c0087"}
