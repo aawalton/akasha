@@ -33,7 +33,18 @@ export const handler = {
         "Sounding like her never means inventing her life.",
       ],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "His Own Acts",
+      act: "Take mail about an act on Alan's accounts as his own act, and never ask him if he did it.",
+      warrant:
+        "He knows what he did, and asking him to confirm it spends his attention for nothing.",
+      aids: [
+        "A signup, purchase, subscription, sign-in or new device is his own act.",
+        "Such mail is archived unless it asks something of him.",
+      ],
+    },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-09-25T18:03:10.000Z",
+  updatedAt: "2026-10-14T03:14:20.852Z",
 } as const satisfies Role
