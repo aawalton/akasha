@@ -6392,8 +6392,8 @@
     }
   },
   "skillPoints": {
-    "total": 483,
-    "unassigned": 195,
+    "total": 484,
+    "unassigned": 196,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -6403,7 +6403,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 176,
     "totalSkyshards": 528,
-    "zoneQuestTotal": 153,
+    "zoneQuestTotal": 154,
     "groupDungeonTotal": 26,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -6490,7 +6490,7 @@
       "AD4": 3,
       "GC": 8,
       "CC": 8,
-      "WW": 7,
+      "WW": 8,
       "EP5": 3,
       "EP1": 3,
       "AP": 9,
@@ -8095,7 +8095,7 @@
   },
   "companionRapport": {
     "1": 4058,
-    "2": 2564,
+    "2": 2699,
     "5": 5500,
     "6": 4044,
     "9": 5500
@@ -8868,6 +8868,7 @@
     5779,
     5784,
     5785,
+    5786,
     5789,
     5791,
     5796,
@@ -9225,6 +9226,7 @@
     7075,
     7076,
     7077,
+    7078,
     7083,
     7084,
     7085,
@@ -16217,11 +16219,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "seen": [
       5,
       3,
@@ -16233,16 +16235,16 @@
     ],
     "completed": [
       1,
-      6,
       2,
+      6,
       7,
-      4,
       3,
+      4,
       5
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-13",
-    "misplaced": 112
+    "date": "2026-10-14",
+    "misplaced": 130
   }
 }
