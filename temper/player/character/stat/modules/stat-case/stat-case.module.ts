@@ -20,7 +20,16 @@ export const statCase = {
       decisionKind: "decision-kind/departure",
       statement: "A known gap the calculator now gives is closed, and is named for pinning.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Pinning a reading pins each stat the calculator gives and keeps the rest as gaps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A case is written one buff and one star to a line, with its stats in name order.",
+    },
   ],
   createdAt: "2026-10-14T17:18:43.951Z",
-  updatedAt: "2026-10-14T17:18:43.951Z",
+  updatedAt: "2026-10-14T17:21:03.806Z",
 } as const satisfies Module

@@ -7,7 +7,9 @@ import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/ski
 import { holdMetricCatalogFromCheckout } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts"
 import {
   judgeStatCase,
+  pinnedCaseOf,
   statCaseShape,
+  statCaseText,
 } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
 import { Glob } from "bun"
 
@@ -32,10 +34,17 @@ test("the stat cases are found", () => {
 })
 
 for (const path of CASES) {
+  const text = readFileSync(join(akashaRoot(), path), "utf8")
+  const statCase = statCaseShape.parse(JSON.parse(text))
+
   test(`the ${caseFolder(path)} case gives every pinned stat, and closes no gap unpinned`, () => {
-    const body: unknown = JSON.parse(readFileSync(join(akashaRoot(), path), "utf8"))
-    const judged = judgeStatCase(statCaseShape.parse(body))
+    const judged = judgeStatCase(statCase)
     expect(judged.drifted).toEqual([])
     expect(judged.closed).toEqual([])
+  })
+
+  test(`the ${caseFolder(path)} case pinned again from its own reading is written as it is`, () => {
+    const { pinned, gaps, ...read } = statCase
+    expect(statCaseText(pinnedCaseOf({ ...read, stats: { ...pinned, ...gaps } }))).toBe(text)
   })
 }
