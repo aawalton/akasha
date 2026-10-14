@@ -33,8 +33,6 @@ export function accumulateDamageBuffDelta(
     buff === "minor-berserk" ||
     buff === "major-brutality" ||
     buff === "minor-brutality" ||
-    buff === "major-sorcery" ||
-    buff === "minor-sorcery" ||
     buff === "minor-slayer"
   ) {
     return value * uptime

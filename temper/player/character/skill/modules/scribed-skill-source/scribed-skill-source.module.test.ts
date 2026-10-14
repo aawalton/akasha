@@ -35,7 +35,6 @@ function magicDamageOn(
 test("a scribed skill grants the buffs its grimoire's row for its affix script names", () => {
   expect(createScribedSkillSource(travelingKnifeWith("brutality-and-sorcery"))?.effects).toEqual([
     { buffId: "major-brutality", slottedBehavior: "either-bar" },
-    { buffId: "major-sorcery", slottedBehavior: "either-bar" },
   ])
 })
 

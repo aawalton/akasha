@@ -50,13 +50,13 @@ function buffIds(context: TranslationContext): readonly string[] {
 }
 
 test("a scribed skill on the back bar grants its buffs while the front bar is active", () => {
-  expect(buffIds({ bar: "primary-weapon-bar" })).toEqual(["major-brutality", "major-sorcery"])
+  expect(buffIds({ bar: "primary-weapon-bar" })).toEqual(["major-brutality"])
 })
 
 test("a scribed skill grants its buffs on its own bar", () => {
-  expect(buffIds({ bar: "backup-weapon-bar" })).toEqual(["major-brutality", "major-sorcery"])
+  expect(buffIds({ bar: "backup-weapon-bar" })).toEqual(["major-brutality"])
 })
 
 test("a scribed skill grants its buffs where no bar is named", () => {
-  expect(buffIds({})).toEqual(["major-brutality", "major-sorcery"])
+  expect(buffIds({})).toEqual(["major-brutality"])
 })

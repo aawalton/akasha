@@ -91,12 +91,7 @@ export function computeDpsMetrics(
           }
         }
 
-        if (
-          buff === "major-brutality" ||
-          buff === "minor-brutality" ||
-          buff === "major-sorcery" ||
-          buff === "minor-sorcery"
-        ) {
+        if (buff === "major-brutality" || buff === "minor-brutality") {
           if (valueType === "fractional-change" && typeof value === "number") {
             damageBuffMultiplier += value * summary.uptime
           }
