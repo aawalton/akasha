@@ -28349,81 +28349,30 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1791989019,
-      "inCombat": false,
-      "stats": {
-        "critical-rating-spell": 6006,
-        "magicka-maximum": 20026,
-        "critical-rating-weapon": 6006,
-        "stamina-recovery": 566,
-        "power-spell": 3286,
-        "health-recovery": 0,
-        "power-weapon": 3286,
-        "stamina-maximum": 26636,
-        "resistance-physical": 32382,
-        "health-maximum": 32651,
-        "penetration-physical": 7750,
-        "magicka-recovery": 535,
-        "penetration-spell": 7750,
-        "resistance-critical": 1320,
-        "resistance-spell": 33108
-      },
-      "activeBuffs": [
-        {
-          "abilityId": 43752,
-          "name": "Soul Summons"
-        },
-        {
-          "abilityId": 127531,
-          "name": "Corrupting Bloody Mara"
-        },
-        {
-          "abilityId": 61694,
-          "name": "Major Resolve"
-        },
-        {
-          "abilityId": 61746,
-          "name": "Minor Force"
-        },
-        {
-          "abilityId": 63569,
-          "name": "Gallop"
-        },
-        {
-          "abilityId": 13976,
-          "name": "Boon: The Lady"
-        },
-        {
-          "abilityId": 61667,
-          "name": "Major Savagery"
-        },
-        {
-          "abilityId": 135402,
-          "name": "Vampire Stage 4"
-        }
-      ]
-    },
-    "backBar": {
-      "capturedAt": 1791988989,
+      "capturedAt": 1791989614,
       "inCombat": true,
       "stats": {
+        "health-recovery": 0,
+        "resistance-critical": 1320,
         "critical-rating-spell": 6006,
         "magicka-maximum": 20026,
-        "critical-rating-weapon": 6006,
-        "stamina-recovery": 722,
-        "power-spell": 5190,
-        "health-recovery": 0,
-        "power-weapon": 5190,
+        "penetration-spell": 7750,
+        "resistance-spell": 33108,
+        "stamina-recovery": 892,
         "stamina-maximum": 26636,
-        "resistance-physical": 32382,
+        "magicka-recovery": 535,
+        "power-weapon": 4850,
+        "penetration-physical": 7750,
+        "power-spell": 4850,
         "health-maximum": 32651,
-        "penetration-physical": 5966,
-        "magicka-recovery": 691,
-        "penetration-spell": 5966,
-        "resistance-critical": 1320,
-        "resistance-spell": 33108
+        "critical-rating-weapon": 6006,
+        "resistance-physical": 32382
       },
       "activeBuffs": [
+        {
+          "abilityId": 43752,
+          "name": "Soul Summons"
+        },
         {
           "abilityId": 127531,
           "name": "Corrupting Bloody Mara"
@@ -28451,10 +28400,6 @@
         {
           "abilityId": 135402,
           "name": "Vampire Stage 4"
-        },
-        {
-          "abilityId": 43752,
-          "name": "Soul Summons"
         },
         {
           "abilityId": 29465,
@@ -28465,44 +28410,151 @@
           "name": "Power Lash"
         },
         {
-          "abilityId": 61536,
-          "name": "Mystic Guard"
+          "abilityId": 21230,
+          "name": "Berserker"
         },
         {
           "abilityId": 258666,
           "name": "Igneous Weapons"
         },
         {
-          "abilityId": 61549,
-          "name": "Minor Vitality"
-        },
-        {
-          "abilityId": 38763,
-          "name": "Brawler"
+          "abilityId": 99789,
+          "name": "Merciless Charge"
         },
         {
           "abilityId": 61662,
           "name": "Minor Brutality"
         },
         {
+          "abilityId": 61708,
+          "name": "Minor Heroism"
+        },
+        {
+          "abilityId": 45450,
+          "name": "Battle Rush"
+        },
+        {
           "abilityId": 61665,
           "name": "Major Brutality"
         },
         {
-          "abilityId": 192939,
-          "name": "Shields of Erudition"
+          "abilityId": 61705,
+          "name": "Major Endurance"
         },
         {
-          "abilityId": 21230,
-          "name": "Berserker"
+          "abilityId": 61697,
+          "name": "Minor Fortitude"
+        }
+      ]
+    },
+    "backBar": {
+      "capturedAt": 1791989603,
+      "inCombat": true,
+      "stats": {
+        "health-recovery": 0,
+        "resistance-critical": 1320,
+        "critical-rating-spell": 6006,
+        "magicka-maximum": 20026,
+        "penetration-spell": 5966,
+        "resistance-spell": 33108,
+        "stamina-recovery": 930,
+        "stamina-maximum": 26636,
+        "magicka-recovery": 691,
+        "power-weapon": 5386,
+        "penetration-physical": 5966,
+        "power-spell": 5386,
+        "health-maximum": 32651,
+        "critical-rating-weapon": 6006,
+        "resistance-physical": 32382
+      },
+      "activeBuffs": [
+        {
+          "abilityId": 43752,
+          "name": "Soul Summons"
         },
         {
-          "abilityId": 51646,
-          "name": "Frozen Ground"
+          "abilityId": 127531,
+          "name": "Corrupting Bloody Mara"
+        },
+        {
+          "abilityId": 61694,
+          "name": "Major Resolve"
+        },
+        {
+          "abilityId": 61746,
+          "name": "Minor Force"
+        },
+        {
+          "abilityId": 63569,
+          "name": "Gallop"
+        },
+        {
+          "abilityId": 13976,
+          "name": "Boon: The Lady"
+        },
+        {
+          "abilityId": 61667,
+          "name": "Major Savagery"
+        },
+        {
+          "abilityId": 135402,
+          "name": "Vampire Stage 4"
+        },
+        {
+          "abilityId": 29465,
+          "name": "Landslide"
+        },
+        {
+          "abilityId": 262658,
+          "name": "Power Lash"
+        },
+        {
+          "abilityId": 92918,
+          "name": "Whispers of the Defiled"
+        },
+        {
+          "abilityId": 258666,
+          "name": "Igneous Weapons"
         },
         {
           "abilityId": 99789,
           "name": "Merciless Charge"
+        },
+        {
+          "abilityId": 32853,
+          "name": "Incinerate"
+        },
+        {
+          "abilityId": 61708,
+          "name": "Minor Heroism"
+        },
+        {
+          "abilityId": 32948,
+          "name": "Standard of Might"
+        },
+        {
+          "abilityId": 61665,
+          "name": "Major Brutality"
+        },
+        {
+          "abilityId": 61705,
+          "name": "Major Endurance"
+        },
+        {
+          "abilityId": 92973,
+          "name": "Chill of the Grave"
+        },
+        {
+          "abilityId": 61697,
+          "name": "Minor Fortitude"
+        },
+        {
+          "abilityId": 61662,
+          "name": "Minor Brutality"
+        },
+        {
+          "abilityId": 28301,
+          "name": "Crowd Control Immunity"
         }
       ]
     }
