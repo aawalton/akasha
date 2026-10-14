@@ -52597,7 +52597,7 @@
       "name": "Draugr's Rest",
       "categoryName": "DLC Dungeons",
       "subcategoryName": "Falkreath Hold",
-      "slotsUnlocked": 17,
+      "slotsUnlocked": 18,
       "totalSlots": 22,
       "pieces": [
         {
@@ -52662,7 +52662,7 @@
         },
         {
           "name": "Draugr's Rest Greatsword",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Draugr's Rest Bow",
