@@ -37,7 +37,7 @@ export const temperHps = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The game's healing per second is healing and absorbs over the fight's active seconds.",
+        "The game's healing per second is said with overheal, as the estimate counts, and without.",
     },
     {
       decisionKind: "decision-kind/stopgap",
@@ -48,5 +48,5 @@ export const temperHps = {
   name: "hps",
   arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
   createdAt: "2026-10-14T20:35:43.699Z",
-  updatedAt: "2026-10-14T22:33:48.949Z",
+  updatedAt: "2026-10-14T22:34:47.892Z",
 } as const satisfies Command

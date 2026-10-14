@@ -63,12 +63,16 @@ function lastFightOf(slug: string): LastFight | undefined {
 
 function gameLines(fight: LastFight | undefined): string[] {
   if (fight === undefined) return ["", "the game has written no fight for this character yet"]
-  const abilities = [...(fight.abilities ?? [])].sort((a, b) => b.healing - a.healing)
-  const healed = abilities.reduce((sum, one) => sum + one.healing, 0) + fight.absorbed
-  const perSecond = fight.activeSeconds > 0 ? healed / fight.activeSeconds : 0
+  const abilities = [...(fight.abilities ?? [])].sort(
+    (a, b) => b.healing + b.overheal - (a.healing + a.overheal)
+  )
+  const landed = abilities.reduce((sum, one) => sum + one.healing, 0) + fight.absorbed
+  const raw = landed + abilities.reduce((sum, one) => sum + one.overheal, 0)
+  const per = (amount: number) =>
+    Math.round(fight.activeSeconds > 0 ? amount / fight.activeSeconds : 0)
   return [
     "",
-    `the game, last fight: ${Math.round(perSecond)} healing per second over ${Math.round(fight.activeSeconds)} active seconds`,
+    `the game, last fight: ${per(raw)} healing per second with overheal, ${per(landed)} without, over ${Math.round(fight.activeSeconds)} active seconds`,
     ...abilities
       .filter((one) => one.healing > 0 || one.casts > 0)
       .map(
