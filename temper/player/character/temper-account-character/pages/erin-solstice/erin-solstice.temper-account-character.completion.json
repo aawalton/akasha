@@ -28349,7 +28349,7 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792005851,
+      "capturedAt": 1792005897,
       "inCombat": false,
       "stats": {
         "stamina-recovery": 566,
@@ -28386,6 +28386,13 @@
         "resistance-physical": 0
       },
       "activeBuffs": [
+        {
+          "abilityId": 43752,
+          "name": "Soul Summons",
+          "description": "· Once per hour, you can resurrect without the need for a soul gem",
+          "effect": "",
+          "stacks": 0
+        },
         {
           "abilityId": 127531,
           "name": "Corrupting Bloody Mara",
@@ -28433,13 +28440,6 @@
           "name": "Vampire Stage 4",
           "description": "",
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 43752,
-          "name": "Soul Summons",
-          "description": "· Once per hour, you can resurrect without the need for a soul gem",
-          "effect": "",
           "stacks": 0
         }
       ],
