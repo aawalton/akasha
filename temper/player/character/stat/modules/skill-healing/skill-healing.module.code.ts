@@ -24,6 +24,8 @@ const EVERY = /heal(?:s|ing)?\b(?:.*? for)? (\d+) Health every (\d+)? ?seconds?/
 
 const DIRECT = /heal(?:s|ing)? (?:you )?for (\d+) Health/i
 
+const IN_AREA = /healing increases by (\d+)% if you are in the area/i
+
 function plainText(description: string): string {
   return description.replace(COLOR, "").replace(/\s+/g, " ").trim()
 }
@@ -61,6 +63,13 @@ export function readSkillHealing(description: string): SkillHealing {
     if (once !== null && !healed) {
       direct = Number(once[1])
       healed = true
+      continue
+    }
+    const inArea = IN_AREA.exec(sentence)
+    if (inArea !== null && healed) {
+      const scale = 1 + Number(inArea[1]) / 100
+      direct = direct * scale
+      tick = tick * scale
       continue
     }
     if (MENTIONS_HEALING.test(sentence) && !(healed && DIRECT.test(sentence))) unread.push(sentence)

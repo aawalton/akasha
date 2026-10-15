@@ -43,11 +43,11 @@ test("only the first heal counts, so a heal on a later activation does not", () 
   expect(read.unread).toEqual([])
 })
 
-test("a heal every so many seconds is read as a tick at that interval", () => {
+test("a heal every so many seconds is read as a tick at that interval, raised for the caster in the area", () => {
   const read = readSkillHealing(FIRE_KEEPER)
-  expect(read.tick).toBe(1414)
+  expect(read.tick).toBe(1414 * 1.5)
   expect(read.tickSeconds).toBe(1)
-  expect(read.unread).toEqual(["This healing increases by 50% if you are in the area."])
+  expect(read.unread).toEqual([])
 })
 
 test("healing from missing health is no shape read here, so it is kept as unread", () => {

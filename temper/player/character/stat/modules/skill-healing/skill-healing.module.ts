@@ -33,7 +33,12 @@ export const skillHealing = {
       decisionKind: "decision-kind/departure",
       statement: "A shield's stated duration is how long the skill's effect runs.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A heal raised for a caster inside its area is raised, since the caster is inside.",
+    },
   ],
   createdAt: "2026-10-14T20:33:53.850Z",
-  updatedAt: "2026-10-14T21:44:49.901Z",
+  updatedAt: "2026-10-15T14:23:07.121Z",
 } as const satisfies Module
