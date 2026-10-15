@@ -20,5 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0163Ch163ManyBreakthroughs 
     },
   ],
   createdAt: "2026-10-14T23:05:00.538Z",
-  updatedAt: "2026-10-14T23:05:00.538Z",
+  updatedAt: "2026-10-15T11:06:45.863Z",
+  ownProgress: 2161,
 } as const satisfies StoryChapterRead
