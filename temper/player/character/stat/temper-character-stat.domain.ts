@@ -51,6 +51,7 @@ export const temperCharacterStat = {
     "module/skill-healing",
     "module/rotation-healing",
     "module/skill-damage",
+    "module/enchant-proc",
   ],
   directives: [
     {
@@ -91,5 +92,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-15T14:20:14.333Z",
+  updatedAt: "2026-10-15T14:21:50.167Z",
 } as const satisfies Domain

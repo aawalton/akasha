@@ -15,13 +15,24 @@ import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.
 import { temperHps as page } from "akasha/command/pages/temper/hps/temper-hps.command.ts"
 import { characterCompletionAt } from "akasha/command/pages/temper/modules/character-completion-reading/character-completion-reading.module.code.ts"
 import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
+import { reavingBlows } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/reaving-blows.temper-champion-star.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
+import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
+import {
+  type EnchantProc,
+  procsWithin,
+  readEnchantProc,
+} from "akasha/temper/player/character/stat/modules/enchant-proc/enchant-proc.module.code.ts"
+import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import {
   healingOverRotation,
   type RotationSkill,
 } from "akasha/temper/player/character/stat/modules/rotation-healing/rotation-healing.module.code.ts"
+import { readSkillDamage } from "akasha/temper/player/character/stat/modules/skill-damage/skill-damage.module.code.ts"
 import { readSkillHealing } from "akasha/temper/player/character/stat/modules/skill-healing/skill-healing.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { z } from "zod"
@@ -85,6 +96,37 @@ function gameLines(fight: LastFight | undefined): string[] {
 
 const FIGHT_SECONDS = 60
 
+const PERCENT_OF_DAMAGE = /(\d+)% of the damage/
+
+function reavingBlowsShare(): number {
+  const read = PERCENT_OF_DAMAGE.exec(reavingBlows.description)
+  if (read === null) throw new Error("the Reaving Blows page names no percent of the damage done")
+  return Number(read[1]) / 100
+}
+
+async function slotsReavingBlows(completion: CharacterCompletion): Promise<boolean> {
+  if (completion.buildHash === undefined) return false
+  await Promise.all([loadSkillCatalog(), loadSetCatalog(), loadMetricCatalog()])
+  const build = decodeBuild(completion.buildHash)
+  if (build === null) return false
+  const slotted: readonly string[] = build.championPoints.warfare.slotted
+  return slotted.includes(reavingBlows.slug)
+}
+
+function enchantProcOf(completion: CharacterCompletion): EnchantProc | undefined {
+  const procs: EnchantProc[] = []
+  for (const bar of BARS) {
+    for (const piece of completion.reportedStats?.[bar]?.worn ?? []) {
+      const proc = readEnchantProc(piece.enchant)
+      if (proc !== undefined) procs.push(proc)
+    }
+  }
+  if (procs.length === 0) return undefined
+  const mean = (pick: (proc: EnchantProc) => number) =>
+    procs.reduce((sum, proc) => sum + pick(proc), 0) / procs.length
+  return { damage: mean((proc) => proc.damage), healing: mean((proc) => proc.healing) }
+}
+
 const ULTIMATE_SLOT = 8
 
 const BARS = ["frontBar", "backBar"] as const
@@ -123,6 +165,7 @@ export async function temperHps(argv: readonly string[], given: Given): Promise<
         castMs: skill.castMs,
         cooldownMs: skill.cooldownMs,
         healing,
+        damage: readSkillDamage(skill.description),
       })
       if (healing.unread.length > 0) unread.push({ name: skill.name, sentences: healing.unread })
     }
@@ -136,13 +179,34 @@ export async function temperHps(argv: readonly string[], given: Given): Promise<
   }
 
   const healed = healingOverRotation(skills, FIGHT_SECONDS)
-  if (read.taken.json) return asJson({ character: slug, ...healed, unread, game: game ?? null })
+  const proc = enchantProcOf(completion)
+  const procs = proc === undefined ? 0 : procsWithin(FIGHT_SECONDS)
+  const enchantHealing = procs * (proc?.healing ?? 0)
+  const directDamage = healed.directDamage + procs * (proc?.damage ?? 0)
+  const reaving = (await slotsReavingBlows(completion)) ? reavingBlowsShare() * directDamage : 0
+  const skillHealing = healed.healingPerSecond * FIGHT_SECONDS
+  const perSecond = (skillHealing + enchantHealing + reaving) / FIGHT_SECONDS
+  if (read.taken.json) {
+    return asJson({
+      character: slug,
+      ...healed,
+      healingPerSecond: perSecond,
+      directDamage,
+      reavingBlowsHealing: reaving,
+      enchantProcs: procs,
+      enchantHealing,
+      unread,
+      game: game ?? null,
+    })
+  }
   const lines = [
-    `${Math.round(healed.healingPerSecond)} healing per second over ${FIGHT_SECONDS} seconds`,
+    `${Math.round(perSecond)} healing per second over ${FIGHT_SECONDS} seconds`,
     ...healed.skills.map(
       (one) => `  ${one.name}: ${one.casts} casts, ${Math.round(one.healing)} healing`
     ),
     `  light attacks: ${healed.lightAttacks}`,
+    `  weapon enchant: ${procs} procs, ${Math.round(enchantHealing)} healing`,
+    `  Reaving Blows: ${Math.round(reaving)} healing from ${Math.round(directDamage)} direct damage`,
   ]
   for (const one of unread) {
     lines.push("", `healing no shape here reads, in ${one.name}:`)

@@ -32,6 +32,20 @@ export const temperHps = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A weapon enchant that heals goes off through the fight, as the mean of both bars.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Reaving Blows, where slotted, heals its share of the skills' and enchant's direct damage.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Light and heavy attacks deal no damage here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The combat add-on's last fight for the character is said after the estimate.",
     },
     {
@@ -48,5 +62,5 @@ export const temperHps = {
   name: "hps",
   arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
   createdAt: "2026-10-14T20:35:43.699Z",
-  updatedAt: "2026-10-15T14:14:59.792Z",
+  updatedAt: "2026-10-15T14:21:50.167Z",
 } as const satisfies Command
