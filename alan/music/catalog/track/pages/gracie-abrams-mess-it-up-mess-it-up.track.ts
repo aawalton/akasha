@@ -5,9 +5,9 @@ export const gracieAbramsMessItUpMessItUp = {
   type: "page-type/track",
   slug: "gracie-abrams-mess-it-up-mess-it-up",
   ownLength: 2.8546666666666667,
-  ownProgress: 0,
+  ownProgress: 2.8546666666666667,
   partOfCollections: ["release/gracie-abrams-mess-it-up"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Mess It Up",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsMessItUpMessItUp = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

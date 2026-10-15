@@ -5,9 +5,9 @@ export const gracieAbramsMinorUnderOver = {
   type: "page-type/track",
   slug: "gracie-abrams-minor-under-over",
   ownLength: 2.363766666666667,
-  ownProgress: 0,
+  ownProgress: 2.363766666666667,
   partOfCollections: ["release/gracie-abrams-minor"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Under / Over",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsMinorUnderOver = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

@@ -5,13 +5,13 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionMotionSickness = {
   type: "page-type/track",
   slug: "phoebe-bridgers-stranger-in-the-alps-deluxe-edition-motion-sickness",
   ownLength: 3.8293333333333335,
-  ownProgress: 0,
+  ownProgress: 3.8293333333333335,
   partOfCollections: [
     "release/phoebe-bridgers-stranger-in-the-alps-deluxe-edition",
     "release/phoebe-bridgers-stranger-in-the-alps",
     "release/phoebe-bridgers-motion-sickness",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Motion Sickness",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionMotionSickness = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

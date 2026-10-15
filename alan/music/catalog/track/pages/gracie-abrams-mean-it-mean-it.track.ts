@@ -5,9 +5,9 @@ export const gracieAbramsMeanItMeanIt = {
   type: "page-type/track",
   slug: "gracie-abrams-mean-it-mean-it",
   ownLength: 2.8523,
-  ownProgress: 0,
+  ownProgress: 2.8523,
   partOfCollections: ["release/gracie-abrams-mean-it"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Mean It",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsMeanItMeanIt = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

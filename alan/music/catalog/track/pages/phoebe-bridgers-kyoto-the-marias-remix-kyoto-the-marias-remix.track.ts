@@ -5,9 +5,9 @@ export const phoebeBridgersKyotoTheMariasRemixKyotoTheMariasRemix = {
   type: "page-type/track",
   slug: "phoebe-bridgers-kyoto-the-marias-remix-kyoto-the-marias-remix",
   ownLength: 3.6382166666666667,
-  ownProgress: 0,
+  ownProgress: 3.6382166666666667,
   partOfCollections: ["release/phoebe-bridgers-kyoto-the-marias-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Kyoto - The Marías Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const phoebeBridgersKyotoTheMariasRemixKyotoTheMariasRemix = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionMotionSicknessDemoBonus
   type: "page-type/track",
   slug: "phoebe-bridgers-stranger-in-the-alps-deluxe-edition-motion-sickness-demo-bonus-track",
   ownLength: 4.407533333333333,
-  ownProgress: 0,
+  ownProgress: 4.407533333333333,
   partOfCollections: ["release/phoebe-bridgers-stranger-in-the-alps-deluxe-edition"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Motion Sickness (Demo - Bonus Track)",
   trackType: "demo",
@@ -25,5 +25,5 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionMotionSicknessDemoBonus
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

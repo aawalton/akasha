@@ -5,12 +5,12 @@ export const gracieAbramsUnlearnWithGracieAbramsUnlearnWithGracieAbrams = {
   type: "page-type/track",
   slug: "gracie-abrams-unlearn-with-gracie-abrams-unlearn-with-gracie-abrams",
   ownLength: 2.58935,
-  ownProgress: 0,
+  ownProgress: 2.58935,
   partOfCollections: [
     "release/gracie-abrams-unlearn-with-gracie-abrams",
     "release/gracie-abrams-unlearn-with-gracie-abrams-main-acoustic",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Unlearn (with Gracie Abrams)",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const gracieAbramsUnlearnWithGracieAbramsUnlearnWithGracieAbrams = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

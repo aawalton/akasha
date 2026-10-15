@@ -5,9 +5,9 @@ export const phoebeBridgersPunisherDvdMenu = {
   type: "page-type/track",
   slug: "phoebe-bridgers-punisher-dvd-menu",
   ownLength: 1.1655166666666668,
-  ownProgress: 0,
+  ownProgress: 1.1655166666666668,
   partOfCollections: ["release/phoebe-bridgers-punisher"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "DVD Menu",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersPunisherDvdMenu = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

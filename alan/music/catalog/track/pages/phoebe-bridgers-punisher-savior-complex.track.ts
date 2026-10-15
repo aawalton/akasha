@@ -5,9 +5,9 @@ export const phoebeBridgersPunisherSaviorComplex = {
   type: "page-type/track",
   slug: "phoebe-bridgers-punisher-savior-complex",
   ownLength: 4.027333333333333,
-  ownProgress: 0,
+  ownProgress: 4.027333333333333,
   partOfCollections: ["release/phoebe-bridgers-punisher"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Savior Complex",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersPunisherSaviorComplex = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const gracieAbramsThatSSoTrueLiveFromRadioCityMusicHallThatsSoTrueLiveFro
   type: "page-type/track",
   slug: "gracie-abrams-that-s-so-true-live-from-radio-city-music-hall-thats-so-true-live-from-radio-city",
   ownLength: 3.23665,
-  ownProgress: 0,
+  ownProgress: 3.23665,
   partOfCollections: ["release/gracie-abrams-that-s-so-true-live-from-radio-city-music-hall"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "That’s So True - Live From Radio City Music Hall",
   trackType: "live",
@@ -25,5 +25,5 @@ export const gracieAbramsThatSSoTrueLiveFromRadioCityMusicHallThatsSoTrueLiveFro
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

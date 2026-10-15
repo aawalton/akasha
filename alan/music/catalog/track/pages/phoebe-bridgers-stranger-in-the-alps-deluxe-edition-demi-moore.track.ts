@@ -5,12 +5,12 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionDemiMoore = {
   type: "page-type/track",
   slug: "phoebe-bridgers-stranger-in-the-alps-deluxe-edition-demi-moore",
   ownLength: 3.308866666666667,
-  ownProgress: 0,
+  ownProgress: 3.308866666666667,
   partOfCollections: [
     "release/phoebe-bridgers-stranger-in-the-alps-deluxe-edition",
     "release/phoebe-bridgers-stranger-in-the-alps",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Demi Moore",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionDemiMoore = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

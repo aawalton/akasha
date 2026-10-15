@@ -5,9 +5,9 @@ export const gracieAbramsBrushFireBrushFire = {
   type: "page-type/track",
   slug: "gracie-abrams-brush-fire-brush-fire",
   ownLength: 3.173766666666667,
-  ownProgress: 0,
+  ownProgress: 3.173766666666667,
   partOfCollections: ["release/gracie-abrams-brush-fire"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Brush Fire",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsBrushFireBrushFire = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

@@ -5,7 +5,7 @@ export const phoebeBridgersThePartingGlassHaveYourselfAMerryLittleChristmas = {
   type: "page-type/track",
   slug: "phoebe-bridgers-the-parting-glass-have-yourself-a-merry-little-christmas",
   ownLength: 2.9894666666666665,
-  ownProgress: 0,
+  ownProgress: 2.9894666666666665,
   partOfCollections: [
     "release/phoebe-bridgers-the-parting-glass",
     "release/phoebe-bridgers-so-much-wine",
@@ -13,7 +13,7 @@ export const phoebeBridgersThePartingGlassHaveYourselfAMerryLittleChristmas = {
     "release/phoebe-bridgers-if-we-make-it-through-december",
     "release/phoebe-bridgers-have-yourself-a-merry-little-christmas",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Have Yourself a Merry Little Christmas",
   trackType: "studio",
@@ -59,5 +59,5 @@ export const phoebeBridgersThePartingGlassHaveYourselfAMerryLittleChristmas = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

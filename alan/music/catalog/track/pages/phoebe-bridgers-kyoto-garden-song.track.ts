@@ -5,9 +5,9 @@ export const phoebeBridgersKyotoGardenSong = {
   type: "page-type/track",
   slug: "phoebe-bridgers-kyoto-garden-song",
   ownLength: 3.66775,
-  ownProgress: 0,
+  ownProgress: 3.66775,
   partOfCollections: ["release/phoebe-bridgers-kyoto", "release/phoebe-bridgers-garden-song"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Garden Song",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const phoebeBridgersKyotoGardenSong = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

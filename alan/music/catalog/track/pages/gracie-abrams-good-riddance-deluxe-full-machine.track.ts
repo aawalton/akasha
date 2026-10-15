@@ -5,9 +5,9 @@ export const gracieAbramsGoodRiddanceDeluxeFullMachine = {
   type: "page-type/track",
   slug: "gracie-abrams-good-riddance-deluxe-full-machine",
   ownLength: 4.261616666666667,
-  ownProgress: 0,
+  ownProgress: 4.261616666666667,
   partOfCollections: ["release/gracie-abrams-good-riddance-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Full machine",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsGoodRiddanceDeluxeFullMachine = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

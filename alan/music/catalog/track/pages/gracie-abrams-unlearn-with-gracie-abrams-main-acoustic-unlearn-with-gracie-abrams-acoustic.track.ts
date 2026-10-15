@@ -5,9 +5,9 @@ export const gracieAbramsUnlearnWithGracieAbramsMainAcousticUnlearnWithGracieAbr
   type: "page-type/track",
   slug: "gracie-abrams-unlearn-with-gracie-abrams-main-acoustic-unlearn-with-gracie-abrams-acoustic",
   ownLength: 2.6247166666666666,
-  ownProgress: 0,
+  ownProgress: 2.6247166666666666,
   partOfCollections: ["release/gracie-abrams-unlearn-with-gracie-abrams-main-acoustic"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Unlearn (with Gracie Abrams) - Acoustic",
   trackType: "acoustic",
@@ -25,5 +25,5 @@ export const gracieAbramsUnlearnWithGracieAbramsMainAcousticUnlearnWithGracieAbr
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

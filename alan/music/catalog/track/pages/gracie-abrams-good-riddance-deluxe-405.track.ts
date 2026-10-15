@@ -5,9 +5,9 @@ export const gracieAbramsGoodRiddanceDeluxe405 = {
   type: "page-type/track",
   slug: "gracie-abrams-good-riddance-deluxe-405",
   ownLength: 3.0316666666666667,
-  ownProgress: 0,
+  ownProgress: 3.0316666666666667,
   partOfCollections: ["release/gracie-abrams-good-riddance-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "405",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsGoodRiddanceDeluxe405 = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

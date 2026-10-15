@@ -5,9 +5,9 @@ export const phoebeBridgersThePartingGlassThePartingGlass = {
   type: "page-type/track",
   slug: "phoebe-bridgers-the-parting-glass-the-parting-glass",
   ownLength: 4.183333333333334,
-  ownProgress: 0,
+  ownProgress: 4.183333333333334,
   partOfCollections: ["release/phoebe-bridgers-the-parting-glass"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Parting Glass",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersThePartingGlassThePartingGlass = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

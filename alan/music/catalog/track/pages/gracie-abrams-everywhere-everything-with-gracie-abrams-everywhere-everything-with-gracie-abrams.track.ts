@@ -6,9 +6,9 @@ export const gracieAbramsEverywhereEverythingWithGracieAbramsEverywhereEverythin
     type: "page-type/track",
     slug: "gracie-abrams-everywhere-everything-with-gracie-abrams-everywhere-everything-with-gracie-abrams",
     ownLength: 4.294466666666667,
-    ownProgress: 0,
+    ownProgress: 4.294466666666667,
     partOfCollections: ["release/gracie-abrams-everywhere-everything-with-gracie-abrams"],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Everywhere, Everything (with Gracie Abrams)",
     trackType: "studio",
@@ -27,5 +27,5 @@ export const gracieAbramsEverywhereEverythingWithGracieAbramsEverywhereEverythin
       },
     ],
     createdAt: "2026-10-15T13:55:23.541Z",
-    updatedAt: "2026-10-15T13:55:23.541Z",
+    updatedAt: "2026-10-15T14:00:29.023Z",
   } as const satisfies Track

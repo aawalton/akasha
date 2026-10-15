@@ -5,14 +5,14 @@ export const phoebeBridgersThePartingGlassIfWeMakeItThroughDecember = {
   type: "page-type/track",
   slug: "phoebe-bridgers-the-parting-glass-if-we-make-it-through-december",
   ownLength: 2.984566666666667,
-  ownProgress: 0,
+  ownProgress: 2.984566666666667,
   partOfCollections: [
     "release/phoebe-bridgers-the-parting-glass",
     "release/phoebe-bridgers-so-much-wine",
     "release/phoebe-bridgers-day-after-tomorrow",
     "release/phoebe-bridgers-if-we-make-it-through-december",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "If We Make It Through December",
   trackType: "studio",
@@ -51,5 +51,5 @@ export const phoebeBridgersThePartingGlassIfWeMakeItThroughDecember = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

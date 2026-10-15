@@ -5,9 +5,9 @@ export const gracieAbramsGoodRiddanceDeluxeIShouldHateYou = {
   type: "page-type/track",
   slug: "gracie-abrams-good-riddance-deluxe-i-should-hate-you",
   ownLength: 4.3158,
-  ownProgress: 0,
+  ownProgress: 4.3158,
   partOfCollections: ["release/gracie-abrams-good-riddance-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I should hate you",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsGoodRiddanceDeluxeIShouldHateYou = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

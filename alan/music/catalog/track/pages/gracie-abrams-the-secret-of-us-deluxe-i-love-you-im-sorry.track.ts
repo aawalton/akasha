@@ -5,13 +5,13 @@ export const gracieAbramsTheSecretOfUsDeluxeILoveYouImSorry = {
   type: "page-type/track",
   slug: "gracie-abrams-the-secret-of-us-deluxe-i-love-you-im-sorry",
   ownLength: 2.6191,
-  ownProgress: 0,
+  ownProgress: 2.6191,
   partOfCollections: [
     "release/gracie-abrams-the-secret-of-us-deluxe",
     "release/gracie-abrams-the-secret-of-us",
     "release/gracie-abrams-i-love-you-i-m-sorry-live-from-vevo",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Love You, I'm Sorry",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const gracieAbramsTheSecretOfUsDeluxeILoveYouImSorry = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

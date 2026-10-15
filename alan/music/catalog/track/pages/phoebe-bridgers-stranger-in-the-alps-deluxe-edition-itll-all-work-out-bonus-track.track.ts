@@ -5,9 +5,9 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionItllAllWorkOutBonusTrac
   type: "page-type/track",
   slug: "phoebe-bridgers-stranger-in-the-alps-deluxe-edition-itll-all-work-out-bonus-track",
   ownLength: 2.768883333333333,
-  ownProgress: 0,
+  ownProgress: 2.768883333333333,
   partOfCollections: ["release/phoebe-bridgers-stranger-in-the-alps-deluxe-edition"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "It'll All Work Out (Bonus Track)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionItllAllWorkOutBonusTrac
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

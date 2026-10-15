@@ -5,12 +5,12 @@ export const gracieAbramsTheSecretOfUsDeluxeIKnewItIKnowYou = {
   type: "page-type/track",
   slug: "gracie-abrams-the-secret-of-us-deluxe-i-knew-it-i-know-you",
   ownLength: 4.215333333333334,
-  ownProgress: 0,
+  ownProgress: 4.215333333333334,
   partOfCollections: [
     "release/gracie-abrams-the-secret-of-us-deluxe",
     "release/gracie-abrams-the-secret-of-us",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Knew It, I Know You",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const gracieAbramsTheSecretOfUsDeluxeIKnewItIKnowYou = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

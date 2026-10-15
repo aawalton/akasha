@@ -5,9 +5,9 @@ export const gracieAbramsThisIsWhatItFeelsLikeAlright = {
   type: "page-type/track",
   slug: "gracie-abrams-this-is-what-it-feels-like-alright",
   ownLength: 2.4080833333333334,
-  ownProgress: 0,
+  ownProgress: 2.4080833333333334,
   partOfCollections: ["release/gracie-abrams-this-is-what-it-feels-like"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Alright",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsThisIsWhatItFeelsLikeAlright = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

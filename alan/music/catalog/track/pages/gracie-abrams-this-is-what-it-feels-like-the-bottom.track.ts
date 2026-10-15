@@ -5,9 +5,9 @@ export const gracieAbramsThisIsWhatItFeelsLikeTheBottom = {
   type: "page-type/track",
   slug: "gracie-abrams-this-is-what-it-feels-like-the-bottom",
   ownLength: 3.0081333333333333,
-  ownProgress: 0,
+  ownProgress: 3.0081333333333333,
   partOfCollections: ["release/gracie-abrams-this-is-what-it-feels-like"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Bottom",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsThisIsWhatItFeelsLikeTheBottom = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

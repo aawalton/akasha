@@ -5,9 +5,9 @@ export const gracieAbramsTheSecretOfUsDeluxeIToldYouThings = {
   type: "page-type/track",
   slug: "gracie-abrams-the-secret-of-us-deluxe-i-told-you-things",
   ownLength: 3.6867833333333335,
-  ownProgress: 0,
+  ownProgress: 3.6867833333333335,
   partOfCollections: ["release/gracie-abrams-the-secret-of-us-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Told You Things",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsTheSecretOfUsDeluxeIToldYouThings = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

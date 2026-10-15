@@ -5,9 +5,9 @@ export const gracieAbramsThisIsWhatItFeelsLikeHardToSleep = {
   type: "page-type/track",
   slug: "gracie-abrams-this-is-what-it-feels-like-hard-to-sleep",
   ownLength: 4.250116666666667,
-  ownProgress: 0,
+  ownProgress: 4.250116666666667,
   partOfCollections: ["release/gracie-abrams-this-is-what-it-feels-like"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Hard to Sleep",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsThisIsWhatItFeelsLikeHardToSleep = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

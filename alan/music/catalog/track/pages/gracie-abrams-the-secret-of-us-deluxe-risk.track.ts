@@ -5,12 +5,12 @@ export const gracieAbramsTheSecretOfUsDeluxeRisk = {
   type: "page-type/track",
   slug: "gracie-abrams-the-secret-of-us-deluxe-risk",
   ownLength: 3.1931,
-  ownProgress: 0,
+  ownProgress: 3.1931,
   partOfCollections: [
     "release/gracie-abrams-the-secret-of-us-deluxe",
     "release/gracie-abrams-the-secret-of-us",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Risk",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const gracieAbramsTheSecretOfUsDeluxeRisk = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

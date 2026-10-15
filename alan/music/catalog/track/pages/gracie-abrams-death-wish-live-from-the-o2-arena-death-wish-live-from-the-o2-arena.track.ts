@@ -5,9 +5,9 @@ export const gracieAbramsDeathWishLiveFromTheO2ArenaDeathWishLiveFromTheO2Arena 
   type: "page-type/track",
   slug: "gracie-abrams-death-wish-live-from-the-o2-arena-death-wish-live-from-the-o2-arena",
   ownLength: 3.7891833333333333,
-  ownProgress: 0,
+  ownProgress: 3.7891833333333333,
   partOfCollections: ["release/gracie-abrams-death-wish-live-from-the-o2-arena"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Death Wish - Live from The O2 Arena",
   trackType: "live",
@@ -25,5 +25,5 @@ export const gracieAbramsDeathWishLiveFromTheO2ArenaDeathWishLiveFromTheO2Arena 
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const phoebeBridgersPunisherGracelandToo = {
   type: "page-type/track",
   slug: "phoebe-bridgers-punisher-graceland-too",
   ownLength: 3.9391666666666665,
-  ownProgress: 0,
+  ownProgress: 3.9391666666666665,
   partOfCollections: ["release/phoebe-bridgers-punisher"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Graceland Too",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersPunisherGracelandToo = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

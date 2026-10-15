@@ -5,12 +5,12 @@ export const gracieAbramsTheSecretOfUsDeluxeFeltGoodAboutYou = {
   type: "page-type/track",
   slug: "gracie-abrams-the-secret-of-us-deluxe-felt-good-about-you",
   ownLength: 2.744883333333333,
-  ownProgress: 0,
+  ownProgress: 2.744883333333333,
   partOfCollections: [
     "release/gracie-abrams-the-secret-of-us-deluxe",
     "release/gracie-abrams-the-secret-of-us",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Felt Good About You",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const gracieAbramsTheSecretOfUsDeluxeFeltGoodAboutYou = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const phoebeBridgersWalkingOnAStringWalkingOnAString = {
   type: "page-type/track",
   slug: "phoebe-bridgers-walking-on-a-string-walking-on-a-string",
   ownLength: 4.156433333333333,
-  ownProgress: 0,
+  ownProgress: 4.156433333333333,
   partOfCollections: ["release/phoebe-bridgers-walking-on-a-string"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Walking on a String",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersWalkingOnAStringWalkingOnAString = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

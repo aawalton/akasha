@@ -5,9 +5,9 @@ export const phoebeBridgersSpotifySinglesFridayImInLoveRecordedAtSpotifyStudiosN
   type: "page-type/track",
   slug: "phoebe-bridgers-spotify-singles-friday-im-in-love-recorded-at-spotify-studios-nyc",
   ownLength: 3.6802,
-  ownProgress: 0,
+  ownProgress: 3.6802,
   partOfCollections: ["release/phoebe-bridgers-spotify-singles"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Friday I’m In Love - Recorded at Spotify Studios NYC",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersSpotifySinglesFridayImInLoveRecordedAtSpotifyStudiosN
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

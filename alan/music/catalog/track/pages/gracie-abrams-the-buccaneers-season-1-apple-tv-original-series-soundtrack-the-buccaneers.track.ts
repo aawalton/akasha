@@ -5,11 +5,11 @@ export const gracieAbramsTheBuccaneersSeason1AppleTvOriginalSeriesSoundtrackTheB
   type: "page-type/track",
   slug: "gracie-abrams-the-buccaneers-season-1-apple-tv-original-series-soundtrack-the-buccaneers",
   ownLength: 2.52815,
-  ownProgress: 0,
+  ownProgress: 2.52815,
   partOfCollections: [
     "release/gracie-abrams-the-buccaneers-season-1-apple-tv-original-series-soundtrack",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Buccaneers",
   trackType: "studio",
@@ -27,5 +27,5 @@ export const gracieAbramsTheBuccaneersSeason1AppleTvOriginalSeriesSoundtrackTheB
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

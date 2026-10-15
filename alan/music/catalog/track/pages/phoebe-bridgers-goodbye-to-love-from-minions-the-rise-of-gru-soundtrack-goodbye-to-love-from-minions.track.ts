@@ -6,11 +6,11 @@ export const phoebeBridgersGoodbyeToLoveFromMinionsTheRiseOfGruSoundtrackGoodbye
     type: "page-type/track",
     slug: "phoebe-bridgers-goodbye-to-love-from-minions-the-rise-of-gru-soundtrack-goodbye-to-love-from-minions",
     ownLength: 4.038516666666666,
-    ownProgress: 0,
+    ownProgress: 4.038516666666666,
     partOfCollections: [
       "release/phoebe-bridgers-goodbye-to-love-from-minions-the-rise-of-gru-soundtrack",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Goodbye To Love - From 'Minions: The Rise of Gru' Soundtrack",
     trackType: "studio",
@@ -28,5 +28,5 @@ export const phoebeBridgersGoodbyeToLoveFromMinionsTheRiseOfGruSoundtrackGoodbye
       },
     ],
     createdAt: "2026-10-15T13:56:17.521Z",
-    updatedAt: "2026-10-15T13:56:17.521Z",
+    updatedAt: "2026-10-15T14:00:29.023Z",
   } as const satisfies Track

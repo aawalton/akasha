@@ -5,9 +5,9 @@ export const phoebeBridgersPunisherHalloween = {
   type: "page-type/track",
   slug: "phoebe-bridgers-punisher-halloween",
   ownLength: 4.5211,
-  ownProgress: 0,
+  ownProgress: 4.5211,
   partOfCollections: ["release/phoebe-bridgers-punisher"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Halloween",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersPunisherHalloween = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

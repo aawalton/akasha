@@ -5,9 +5,9 @@ export const phoebeBridgersThatFunnyFeelingThatFunnyFeeling = {
   type: "page-type/track",
   slug: "phoebe-bridgers-that-funny-feeling-that-funny-feeling",
   ownLength: 6.676083333333334,
-  ownProgress: 0,
+  ownProgress: 6.676083333333334,
   partOfCollections: ["release/phoebe-bridgers-that-funny-feeling"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "That Funny Feeling",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersThatFunnyFeelingThatFunnyFeeling = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

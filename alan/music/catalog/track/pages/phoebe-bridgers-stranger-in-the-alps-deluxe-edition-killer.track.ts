@@ -5,12 +5,12 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionKiller = {
   type: "page-type/track",
   slug: "phoebe-bridgers-stranger-in-the-alps-deluxe-edition-killer",
   ownLength: 3.15355,
-  ownProgress: 0,
+  ownProgress: 3.15355,
   partOfCollections: [
     "release/phoebe-bridgers-stranger-in-the-alps-deluxe-edition",
     "release/phoebe-bridgers-stranger-in-the-alps",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Killer",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionKiller = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

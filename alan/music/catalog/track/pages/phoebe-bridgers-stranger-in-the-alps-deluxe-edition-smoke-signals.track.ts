@@ -5,13 +5,13 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionSmokeSignals = {
   type: "page-type/track",
   slug: "phoebe-bridgers-stranger-in-the-alps-deluxe-edition-smoke-signals",
   ownLength: 5.395183333333334,
-  ownProgress: 0,
+  ownProgress: 5.395183333333334,
   partOfCollections: [
     "release/phoebe-bridgers-stranger-in-the-alps-deluxe-edition",
     "release/phoebe-bridgers-stranger-in-the-alps",
     "release/phoebe-bridgers-smoke-signals",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Smoke Signals",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEditionSmokeSignals = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const gracieAbramsMinorTehe = {
   type: "page-type/track",
   slug: "gracie-abrams-minor-tehe",
   ownLength: 2.7084333333333332,
-  ownProgress: 0,
+  ownProgress: 2.7084333333333332,
   partOfCollections: ["release/gracie-abrams-minor"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "tehe",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsMinorTehe = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

@@ -5,12 +5,12 @@ export const phoebeBridgersThePartingGlassSoMuchWine = {
   type: "page-type/track",
   slug: "phoebe-bridgers-the-parting-glass-so-much-wine",
   ownLength: 4.06,
-  ownProgress: 0,
+  ownProgress: 4.06,
   partOfCollections: [
     "release/phoebe-bridgers-the-parting-glass",
     "release/phoebe-bridgers-so-much-wine",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "So Much Wine",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const phoebeBridgersThePartingGlassSoMuchWine = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

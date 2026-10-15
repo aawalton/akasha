@@ -5,13 +5,13 @@ export const phoebeBridgersThePartingGlassDayAfterTomorrow = {
   type: "page-type/track",
   slug: "phoebe-bridgers-the-parting-glass-day-after-tomorrow",
   ownLength: 6.085683333333333,
-  ownProgress: 0,
+  ownProgress: 6.085683333333333,
   partOfCollections: [
     "release/phoebe-bridgers-the-parting-glass",
     "release/phoebe-bridgers-so-much-wine",
     "release/phoebe-bridgers-day-after-tomorrow",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Day After Tomorrow",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const phoebeBridgersThePartingGlassDayAfterTomorrow = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

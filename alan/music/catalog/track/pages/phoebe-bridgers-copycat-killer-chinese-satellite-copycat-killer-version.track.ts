@@ -5,9 +5,9 @@ export const phoebeBridgersCopycatKillerChineseSatelliteCopycatKillerVersion = {
   type: "page-type/track",
   slug: "phoebe-bridgers-copycat-killer-chinese-satellite-copycat-killer-version",
   ownLength: 3.5104333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5104333333333333,
   partOfCollections: ["release/phoebe-bridgers-copycat-killer"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Chinese Satellite (Copycat Killer Version)",
   trackType: "version",
@@ -26,5 +26,5 @@ export const phoebeBridgersCopycatKillerChineseSatelliteCopycatKillerVersion = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const gracieAbramsGoodRiddanceDeluxeFaultLine = {
   type: "page-type/track",
   slug: "gracie-abrams-good-riddance-deluxe-fault-line",
   ownLength: 4.461516666666666,
-  ownProgress: 0,
+  ownProgress: 4.461516666666666,
   partOfCollections: ["release/gracie-abrams-good-riddance-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Fault line",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsGoodRiddanceDeluxeFaultLine = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

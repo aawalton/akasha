@@ -5,9 +5,9 @@ export const phoebeBridgersPunisherIKnowTheEnd = {
   type: "page-type/track",
   slug: "phoebe-bridgers-punisher-i-know-the-end",
   ownLength: 5.744866666666667,
-  ownProgress: 0,
+  ownProgress: 5.744866666666667,
   partOfCollections: ["release/phoebe-bridgers-punisher"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Know The End",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersPunisherIKnowTheEnd = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

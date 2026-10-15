@@ -5,9 +5,9 @@ export const phoebeBridgersGeorgiaLeeGeorgiaLee = {
   type: "page-type/track",
   slug: "phoebe-bridgers-georgia-lee-georgia-lee",
   ownLength: 4.309833333333334,
-  ownProgress: 0,
+  ownProgress: 4.309833333333334,
   partOfCollections: ["release/phoebe-bridgers-georgia-lee"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Georgia Lee",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersGeorgiaLeeGeorgiaLee = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

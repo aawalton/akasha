@@ -5,9 +5,9 @@ export const gracieAbramsMinorIMissYouImSorry = {
   type: "page-type/track",
   slug: "gracie-abrams-minor-i-miss-you-im-sorry",
   ownLength: 2.7923,
-  ownProgress: 0,
+  ownProgress: 2.7923,
   partOfCollections: ["release/gracie-abrams-minor"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I miss you, I’m sorry",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsMinorIMissYouImSorry = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

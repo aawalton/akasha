@@ -5,9 +5,9 @@ export const gracieAbramsThisIsWhatItFeelsLikeForRealThisTime = {
   type: "page-type/track",
   slug: "gracie-abrams-this-is-what-it-feels-like-for-real-this-time",
   ownLength: 3.2267,
-  ownProgress: 0,
+  ownProgress: 3.2267,
   partOfCollections: ["release/gracie-abrams-this-is-what-it-feels-like"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "For Real This Time",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsThisIsWhatItFeelsLikeForRealThisTime = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

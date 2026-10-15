@@ -5,9 +5,9 @@ export const phoebeBridgersKyotoBarteesStrangeRemixKyotoBarteesStrangeRemix = {
   type: "page-type/track",
   slug: "phoebe-bridgers-kyoto-bartees-strange-remix-kyoto-bartees-strange-remix",
   ownLength: 2.7784333333333335,
-  ownProgress: 0,
+  ownProgress: 2.7784333333333335,
   partOfCollections: ["release/phoebe-bridgers-kyoto-bartees-strange-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Kyoto (Bartees Strange Remix)",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const phoebeBridgersKyotoBarteesStrangeRemixKyotoBarteesStrangeRemix = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

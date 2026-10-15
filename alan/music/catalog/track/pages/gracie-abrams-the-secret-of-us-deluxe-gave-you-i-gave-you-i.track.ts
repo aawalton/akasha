@@ -5,12 +5,12 @@ export const gracieAbramsTheSecretOfUsDeluxeGaveYouIGaveYouI = {
   type: "page-type/track",
   slug: "gracie-abrams-the-secret-of-us-deluxe-gave-you-i-gave-you-i",
   ownLength: 4.488,
-  ownProgress: 0,
+  ownProgress: 4.488,
   partOfCollections: [
     "release/gracie-abrams-the-secret-of-us-deluxe",
     "release/gracie-abrams-the-secret-of-us",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Gave You I Gave You I",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const gracieAbramsTheSecretOfUsDeluxeGaveYouIGaveYouI = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

@@ -5,12 +5,12 @@ export const gracieAbramsGoodRiddanceDeluxeBlockMeOut = {
   type: "page-type/track",
   slug: "gracie-abrams-good-riddance-deluxe-block-me-out",
   ownLength: 4.1582333333333334,
-  ownProgress: 0,
+  ownProgress: 4.1582333333333334,
   partOfCollections: [
     "release/gracie-abrams-good-riddance-deluxe",
     "release/gracie-abrams-block-me-out",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Block me out",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const gracieAbramsGoodRiddanceDeluxeBlockMeOut = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const gracieAbramsMinor21 = {
   type: "page-type/track",
   slug: "gracie-abrams-minor-21",
   ownLength: 3.0862,
-  ownProgress: 0,
+  ownProgress: 3.0862,
   partOfCollections: ["release/gracie-abrams-minor"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "21",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsMinor21 = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

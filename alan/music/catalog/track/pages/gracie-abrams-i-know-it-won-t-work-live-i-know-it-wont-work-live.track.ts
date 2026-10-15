@@ -5,9 +5,9 @@ export const gracieAbramsIKnowItWonTWorkLiveIKnowItWontWorkLive = {
   type: "page-type/track",
   slug: "gracie-abrams-i-know-it-won-t-work-live-i-know-it-wont-work-live",
   ownLength: 3.7724333333333333,
-  ownProgress: 0,
+  ownProgress: 3.7724333333333333,
   partOfCollections: ["release/gracie-abrams-i-know-it-won-t-work-live"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I know it won't work - Live",
   trackType: "live",
@@ -25,5 +25,5 @@ export const gracieAbramsIKnowItWonTWorkLiveIKnowItWontWorkLive = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

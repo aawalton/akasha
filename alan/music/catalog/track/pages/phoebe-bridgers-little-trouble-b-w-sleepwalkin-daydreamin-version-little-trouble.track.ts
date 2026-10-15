@@ -5,9 +5,9 @@ export const phoebeBridgersLittleTroubleBWSleepwalkinDaydreaminVersionLittleTrou
   type: "page-type/track",
   slug: "phoebe-bridgers-little-trouble-b-w-sleepwalkin-daydreamin-version-little-trouble",
   ownLength: 2.908,
-  ownProgress: 0,
+  ownProgress: 2.908,
   partOfCollections: ["release/phoebe-bridgers-little-trouble-b-w-sleepwalkin-daydreamin-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Little Trouble",
   trackType: "studio",
@@ -30,5 +30,5 @@ export const phoebeBridgersLittleTroubleBWSleepwalkinDaydreaminVersionLittleTrou
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

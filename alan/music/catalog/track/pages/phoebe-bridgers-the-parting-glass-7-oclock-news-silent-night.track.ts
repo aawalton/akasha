@@ -5,7 +5,7 @@ export const phoebeBridgersThePartingGlass7OclockNewsSilentNight = {
   type: "page-type/track",
   slug: "phoebe-bridgers-the-parting-glass-7-oclock-news-silent-night",
   ownLength: 2.0071,
-  ownProgress: 0,
+  ownProgress: 2.0071,
   partOfCollections: [
     "release/phoebe-bridgers-the-parting-glass",
     "release/phoebe-bridgers-so-much-wine",
@@ -13,7 +13,7 @@ export const phoebeBridgersThePartingGlass7OclockNewsSilentNight = {
     "release/phoebe-bridgers-if-we-make-it-through-december",
     "release/phoebe-bridgers-7-o-clock-news-silent-night",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "7 O'Clock News / Silent Night",
   trackType: "studio",
@@ -64,5 +64,5 @@ export const phoebeBridgersThePartingGlass7OclockNewsSilentNight = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

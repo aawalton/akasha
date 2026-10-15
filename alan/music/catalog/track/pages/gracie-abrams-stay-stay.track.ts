@@ -5,9 +5,9 @@ export const gracieAbramsStayStay = {
   type: "page-type/track",
   slug: "gracie-abrams-stay-stay",
   ownLength: 2.9525333333333332,
-  ownProgress: 0,
+  ownProgress: 2.9525333333333332,
   partOfCollections: ["release/gracie-abrams-stay"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Stay",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const gracieAbramsStayStay = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

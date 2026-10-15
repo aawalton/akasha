@@ -5,12 +5,12 @@ export const gracieAbramsTheSecretOfUsDeluxeFreeNow = {
   type: "page-type/track",
   slug: "gracie-abrams-the-secret-of-us-deluxe-free-now",
   ownLength: 3.568,
-  ownProgress: 0,
+  ownProgress: 3.568,
   partOfCollections: [
     "release/gracie-abrams-the-secret-of-us-deluxe",
     "release/gracie-abrams-the-secret-of-us",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Free Now",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const gracieAbramsTheSecretOfUsDeluxeFreeNow = {
     },
   ],
   createdAt: "2026-10-15T13:55:23.541Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

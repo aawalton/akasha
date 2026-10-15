@@ -5,9 +5,9 @@ export const phoebeBridgersISeeYouISeeYou = {
   type: "page-type/track",
   slug: "phoebe-bridgers-i-see-you-i-see-you",
   ownLength: 3.1682166666666665,
-  ownProgress: 0,
+  ownProgress: 3.1682166666666665,
   partOfCollections: ["release/phoebe-bridgers-i-see-you"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I See You",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersISeeYouISeeYou = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

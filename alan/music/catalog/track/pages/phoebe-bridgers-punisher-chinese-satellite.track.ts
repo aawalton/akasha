@@ -5,9 +5,9 @@ export const phoebeBridgersPunisherChineseSatellite = {
   type: "page-type/track",
   slug: "phoebe-bridgers-punisher-chinese-satellite",
   ownLength: 3.6178333333333335,
-  ownProgress: 0,
+  ownProgress: 3.6178333333333335,
   partOfCollections: ["release/phoebe-bridgers-punisher"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Chinese Satellite",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersPunisherChineseSatellite = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track

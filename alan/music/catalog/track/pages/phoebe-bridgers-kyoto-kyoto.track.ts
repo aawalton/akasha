@@ -5,9 +5,9 @@ export const phoebeBridgersKyotoKyoto = {
   type: "page-type/track",
   slug: "phoebe-bridgers-kyoto-kyoto",
   ownLength: 3.0755666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0755666666666666,
   partOfCollections: ["release/phoebe-bridgers-kyoto"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Kyoto",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const phoebeBridgersKyotoKyoto = {
     },
   ],
   createdAt: "2026-10-15T13:56:17.521Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:29.023Z",
 } as const satisfies Track
