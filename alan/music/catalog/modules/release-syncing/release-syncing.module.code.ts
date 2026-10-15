@@ -277,8 +277,11 @@ export function tracksWhole(tracks: Tracked, behind: Asked): boolean {
 }
 
 export function releaseLengthened(behind: Asked, whole: AlbumWithTracks): Value | null {
-  if ((numberAt(behind.was, OWN_LENGTH) ?? 0) === 0) return null
-  return { ...behind.was, [OWN_LENGTH]: albumMinutes(whole), type: RELEASE, slug: behind.slug }
+  const stated = numberAt(behind.was, OWN_LENGTH) ?? 0
+  if (stated === 0) return null
+  const length = albumMinutes(whole)
+  if (length === stated) return null
+  return { ...behind.was, [OWN_LENGTH]: length, type: RELEASE, slug: behind.slug }
 }
 
 export function artistValues(one: Followed, today: string): Value {

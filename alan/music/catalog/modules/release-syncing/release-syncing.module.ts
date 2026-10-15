@@ -113,6 +113,10 @@ export const releaseSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A release read again whose tracks add up to the length it states is not written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A release is backfilled only on the day the artist that release belongs to is swept.",
     },
@@ -160,5 +164,5 @@ export const releaseSyncing = {
     },
   ],
   createdAt: "2026-09-13T20:41:00.337Z",
-  updatedAt: "2026-09-24T22:16:02.000Z",
+  updatedAt: "2026-10-15T13:53:18.794Z",
 } as const satisfies Module

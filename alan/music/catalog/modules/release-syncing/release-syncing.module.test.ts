@@ -152,6 +152,11 @@ test("a release read again for its tracks states the length every track adds up 
   expect(lengthened?.["slug"]).toBe("pixie")
 })
 
+test("a release read again whose tracks add up to the length it states is not written", () => {
+  const behind = { album: album("a1", "Pixie"), slug: "pixie", was: { ownLength: 2 } }
+  expect(releaseLengthened(behind, whole(album("a1", "Pixie"), [90_000, 30_000]))).toBeNull()
+})
+
 test("a release whose tracks carry its length is left stating no length of its own", () => {
   const behind = { album: album("a1", "Pixie"), slug: "pixie", was: { ownLength: 0 } }
   expect(releaseLengthened(behind, whole(album("a1", "Pixie"), [60_000]))).toBeNull()
