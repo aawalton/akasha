@@ -72683,7 +72683,7 @@
       "name": "Soulcleaver",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Nightblade",
-      "slotsUnlocked": 27,
+      "slotsUnlocked": 28,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72712,7 +72712,7 @@
         },
         {
           "name": "Soulcleaver Robe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Soulcleaver Jack",
@@ -75799,7 +75799,7 @@
       "name": "Umbral Edge",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Nightblade",
-      "slotsUnlocked": 18,
+      "slotsUnlocked": 19,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75912,7 +75912,7 @@
         },
         {
           "name": "Umbral Edge Battle Axe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Umbral Edge Maul",
