@@ -20,5 +20,6 @@ export const azarinthHealer0025Chapter937CosmicHealer = {
     },
   ],
   createdAt: "2026-10-15T14:08:43.090Z",
-  updatedAt: "2026-10-15T14:08:43.090Z",
+  updatedAt: "2026-10-15T21:08:36.610Z",
+  ownProgress: 2439,
 } as const satisfies StoryChapterRead

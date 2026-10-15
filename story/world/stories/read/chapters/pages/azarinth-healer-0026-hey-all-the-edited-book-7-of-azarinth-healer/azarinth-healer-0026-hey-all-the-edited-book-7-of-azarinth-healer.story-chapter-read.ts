@@ -20,5 +20,6 @@ export const azarinthHealer0026HeyAllTheEditedBook7OfAzarinthHealer = {
     },
   ],
   createdAt: "2026-10-15T15:06:02.662Z",
-  updatedAt: "2026-10-15T15:06:02.662Z",
+  updatedAt: "2026-10-15T21:08:36.610Z",
+  ownProgress: 755,
 } as const satisfies StoryChapterRead
