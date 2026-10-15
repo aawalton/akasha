@@ -76,6 +76,16 @@ export const temperHps = {
       statement: "The last fight says the Magicka, Stamina and Ultimate gained and spent.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The estimate builds Ultimate from none, and the last fight says the Ultimate the game had.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The ultimate's cost and the healing each point spent gives are the mean of both bars.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "The last fight is read from the game's saved variables rather than landed in akasha.",
@@ -84,5 +94,5 @@ export const temperHps = {
   name: "hps",
   arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
   createdAt: "2026-10-14T20:35:43.699Z",
-  updatedAt: "2026-10-15T14:30:49.157Z",
+  updatedAt: "2026-10-15T14:46:05.856Z",
 } as const satisfies Command

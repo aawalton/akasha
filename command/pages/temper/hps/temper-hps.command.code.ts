@@ -31,10 +31,16 @@ import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import {
   healingOverRotation,
+  type RotationHealed,
   type RotationSkill,
+  type RotationUltimate,
 } from "akasha/temper/player/character/stat/modules/rotation-healing/rotation-healing.module.code.ts"
 import { readSkillDamage } from "akasha/temper/player/character/stat/modules/skill-damage/skill-damage.module.code.ts"
 import { readSkillHealing } from "akasha/temper/player/character/stat/modules/skill-healing/skill-healing.module.code.ts"
+import {
+  readHealingPerUltimatePoint,
+  readHeroism,
+} from "akasha/temper/player/character/stat/modules/skill-ultimate/skill-ultimate.module.code.ts"
 import { criticalRating } from "akasha/temper/player/character/stat/temper-metric/pages/critical-rating/critical-rating.temper-metric.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { z } from "zod"
@@ -192,6 +198,26 @@ function enchantProcOf(completion: CharacterCompletion): EnchantProc | undefined
 
 const ULTIMATE_SLOT = 8
 
+function meanUltimate(ultimates: readonly RotationUltimate[]): RotationUltimate | undefined {
+  const first = ultimates[0]
+  if (first === undefined) return undefined
+  const mean = (pick: (one: RotationUltimate) => number) =>
+    ultimates.reduce((sum, one) => sum + pick(one), 0) / ultimates.length
+  return {
+    name: first.name,
+    cost: mean((one) => one.cost),
+    healingPerPoint: mean((one) => one.healingPerPoint),
+  }
+}
+
+function ultimateLine(healed: RotationHealed): string {
+  const spent = healed.ultimate
+  if (spent === undefined) {
+    return "  ultimate: no reading keeps its cost and the healing each point spent gives, so a reload on each bar takes them"
+  }
+  return `  ${spent.name}: ${spent.casts} casts from ${Math.round(spent.gained)} Ultimate built from none, ${Math.round(spent.healing)} healing`
+}
+
 const BARS = ["frontBar", "backBar"] as const
 
 type Unread = { readonly name: string; readonly sentences: readonly string[] }
@@ -211,6 +237,7 @@ export async function temperHps(argv: readonly string[], given: Given): Promise<
 
   const skills: RotationSkill[] = []
   const unread: Unread[] = []
+  const ultimates: RotationUltimate[] = []
   for (const bar of BARS) {
     const kept = completion.reportedStats?.[bar]?.skills
     if (kept === undefined) {
@@ -220,7 +247,16 @@ export async function temperHps(argv: readonly string[], given: Given): Promise<
       )
     }
     for (const skill of kept) {
-      if (skill.slot === ULTIMATE_SLOT) continue
+      if (skill.slot === ULTIMATE_SLOT) {
+        const reading = completion.reportedStats?.[bar]
+        const perPoint = (reading?.classPassives ?? [])
+          .map((passive) => readHealingPerUltimatePoint(passive.description))
+          .find((one) => one !== undefined)
+        if (skill.ultimateCost !== undefined && perPoint !== undefined) {
+          ultimates.push({ name: skill.name, cost: skill.ultimateCost, healingPerPoint: perPoint })
+        }
+        continue
+      }
       const healing = readSkillHealing(skill.description)
       skills.push({
         name: skill.name,
@@ -229,6 +265,7 @@ export async function temperHps(argv: readonly string[], given: Given): Promise<
         cooldownMs: skill.cooldownMs,
         healing,
         damage: readSkillDamage(skill.description),
+        heroism: readHeroism(skill.description),
       })
       if (healing.unread.length > 0) unread.push({ name: skill.name, sentences: healing.unread })
     }
@@ -241,7 +278,7 @@ export async function temperHps(argv: readonly string[], given: Given): Promise<
     return refused(`the combat add-on's last fight does not read: ${saidBy(thrown)}`, DATA)
   }
 
-  const healed = healingOverRotation(skills, FIGHT_SECONDS)
+  const healed = healingOverRotation(skills, FIGHT_SECONDS, meanUltimate(ultimates))
   const proc = enchantProcOf(completion)
   const procs = proc === undefined ? 0 : procsWithin(FIGHT_SECONDS)
   const enchantHealing = procs * (proc?.healing ?? 0)
@@ -270,6 +307,7 @@ export async function temperHps(argv: readonly string[], given: Given): Promise<
     ...healed.skills.map(
       (one) => `  ${one.name}: ${one.casts} casts, ${Math.round(one.healing)} healing`
     ),
+    ultimateLine(healed),
     `  light attacks: ${healed.lightAttacks}`,
     `  heals scaled by ${multipliers.healing.toFixed(3)} for critical heals and healing done, shields not`,
     `  weapon enchant: ${procs} procs, ${Math.round(enchantHealing)} healing`,
