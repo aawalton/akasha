@@ -75,7 +75,7 @@ function gameLines(fight: LastFight | undefined): string[] {
     "",
     `the game, last fight: ${per(raw)} healing per second with overheal, ${per(landed)} without, over ${Math.round(fight.activeSeconds)} active seconds`,
     ...abilities
-      .filter((one) => one.healing > 0 || one.casts > 0 || (one.presses ?? 0) > 0)
+      .filter((one) => one.healing + one.overheal > 0 || one.casts > 0 || (one.presses ?? 0) > 0)
       .map(
         (one) =>
           `  ${one.name || `ability ${one.abilityId}`}: ${one.presses ?? 0} presses, ${one.casts} casts, ${Math.round(one.healing)} healing, ${Math.round(one.overheal)} overheal`
