@@ -20,5 +20,6 @@ export const adrenalineRush36546 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 18,
   createdAt: "2026-05-28T16:03:31.606Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 333 (Constant)", "<<2>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

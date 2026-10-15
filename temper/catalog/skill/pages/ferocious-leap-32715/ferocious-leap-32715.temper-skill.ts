@@ -20,5 +20,13 @@ export const ferociousLeap32715 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 507,
   createdAt: "2026-05-28T16:03:32.465Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.15891 MaxStat + 1.66855 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 4 meters (Constant)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 3 seconds (Constant)",
+    "<<5>> = 1.0391 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 10s duration, R2 = 1)",
+    "<<6>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

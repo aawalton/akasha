@@ -20,5 +20,12 @@ export const shatteringSpines = {
   skillType: "temper-skill-type/active",
   hashPlace: 1162,
   createdAt: "2026-05-26T03:13:12.492Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 4 seconds (Constant)",
+    "<<2>> = 0.0881345 MaxStat + 0.924222 MaxPower - 2.74021 (Ultimate, ratio = 10.49, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<3>> = Major Maim (Constant)",
+    "<<4>> = 10% (Constant)",
+    "<<5>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

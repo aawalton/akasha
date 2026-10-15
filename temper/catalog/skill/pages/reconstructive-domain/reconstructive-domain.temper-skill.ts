@@ -20,5 +20,15 @@ export const reconstructiveDomain = {
   skillType: "temper-skill-type/active",
   hashPlace: 998,
   createdAt: "2026-05-26T03:13:12.449Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Courage (Constant)",
+    "<<2>> = Minor Fortitude (Constant)",
+    "<<3>> = Minor Intellect (Constant)",
+    "<<4>> = Minor Endurance (Constant)",
+    "<<5>> = 215 (Constant)",
+    "<<6>> = 15% (Constant)",
+    "<<7>> = 0.018782006 MaxStat + 0.19721003 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, AOE, DOT, 20s duration, 2s tick, R2 = 1)",
+    "<<8>> = 20 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

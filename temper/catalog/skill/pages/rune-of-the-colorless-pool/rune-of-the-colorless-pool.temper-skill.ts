@@ -20,5 +20,13 @@ export const runeOfTheColorlessPool = {
   skillType: "temper-skill-type/active",
   hashPlace: 1099,
   createdAt: "2026-05-26T03:13:12.473Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 1 second (Constant)",
+    "<<2>> = 4 seconds (Constant)",
+    "<<3>> = 20 seconds (Constant)",
+    "<<4>> = 5% (Constant)",
+    "<<5>> = 10% (Constant)",
+    "<<6>> = 8 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

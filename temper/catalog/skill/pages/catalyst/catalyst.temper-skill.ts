@@ -20,5 +20,6 @@ export const catalyst = {
   status: "unsupported",
   hashPlace: 191,
   createdAt: "2026-05-26T03:13:12.209Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 22 (Constant)"],
 } as const satisfies TemperSkill

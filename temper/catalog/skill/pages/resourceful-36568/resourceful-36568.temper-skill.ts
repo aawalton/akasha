@@ -20,5 +20,6 @@ export const resourceful36568 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1048,
   createdAt: "2026-05-28T16:03:33.540Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 333 (Constant)", "<<2>> = 1000 (Constant)"],
 } as const satisfies TemperSkill

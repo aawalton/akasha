@@ -19,5 +19,6 @@ export const dualWieldExpert30873 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 388,
   createdAt: "2026-05-28T16:03:32.214Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 3 (Constant)"],
 } as const satisfies TemperSkill

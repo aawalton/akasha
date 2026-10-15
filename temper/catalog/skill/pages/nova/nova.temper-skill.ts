@@ -20,5 +20,14 @@ export const nova = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 861,
   createdAt: "2026-05-28T16:03:33.190Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0499489 MaxStat + 0.524968 MaxPower - 0.306011 (Ultimate, ratio = 10.51, Dmg, Magic, AOE, DOT, 1s tick, R2 = 0.999999)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 8 seconds (Constant)",
+    "<<4>> = 10% (Constant)",
+    "<<5>> = Supernova (Constant)",
+    "<<6>> = 0.1159 MaxStat + 1.217 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<7>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,13 @@ export const luminousShards = {
   skillType: "temper-skill-type/active",
   hashPlace: 774,
   createdAt: "2026-05-26T03:13:12.387Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.00743 MaxStat + 0.07802 MaxPower - 2.2103 (Ultimate, ratio = 10.50, Dmg, Magic, AOE, DOT, 1s tick, R2 = 0.999967)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = Holy Shards (Constant)",
+    "<<6>> = 3960 (Constant)",
+  ],
 } as const satisfies TemperSkill

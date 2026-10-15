@@ -20,5 +20,12 @@ export const mortalCoil118122 = {
   skillType: "temper-skill-type/active",
   hashPlace: 839,
   createdAt: "2026-05-28T16:03:33.149Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.013773 MaxStat + 0.14462 MaxPower (Ultimate, ratio = 10.50, Heal, AOE, DOT, 11.334s duration, 0.666s tick, R2 = 1)",
+    "<<2>> = 12 seconds (Constant)",
+    "<<3>> = 140 (Constant)",
+    "<<4>> = 2 seconds (Constant)",
+    "<<5>> = 3% (Constant)",
+  ],
 } as const satisfies TemperSkill

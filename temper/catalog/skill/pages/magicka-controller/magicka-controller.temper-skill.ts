@@ -22,5 +22,9 @@ export const magickaController = {
   effects: "jsonl",
   hashPlace: 786,
   createdAt: "2026-05-26T02:59:07.622Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 2% (Constant)",
+    "<<2>> = 2 MagesGuild (Mages Guild Skills Slotted, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

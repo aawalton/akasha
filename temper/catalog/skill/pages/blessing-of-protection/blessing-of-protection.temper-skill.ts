@@ -20,5 +20,11 @@ export const blessingOfProtection = {
   skillType: "temper-skill-type/active",
   hashPlace: 106,
   createdAt: "2026-05-28T16:03:31.760Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.1125 MaxStat + 1.18125 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
+    "<<2>> = Minor Resolve (Constant)",
+    "<<3>> = 2974 (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

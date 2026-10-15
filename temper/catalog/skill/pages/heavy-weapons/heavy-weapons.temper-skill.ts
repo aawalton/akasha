@@ -22,5 +22,6 @@ export const heavyWeapons = {
   effects: "jsonl",
   hashPlace: 625,
   createdAt: "2026-05-26T02:38:38.330Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 258 (Constant)", "<<2>> = 12% (Constant)", "<<3>> = 2974 (Constant)"],
 } as const satisfies TemperSkill

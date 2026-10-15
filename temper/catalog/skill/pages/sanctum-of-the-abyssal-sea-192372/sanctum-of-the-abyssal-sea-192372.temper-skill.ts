@@ -20,5 +20,11 @@ export const sanctumOfTheAbyssalSea192372 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1123,
   createdAt: "2026-05-28T16:03:33.671Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 60% (Constant)",
+    "<<2>> = 10 seconds (Constant)",
+    "<<3>> = 2.28086 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 10s duration, R2 = 1)",
+    "<<4>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

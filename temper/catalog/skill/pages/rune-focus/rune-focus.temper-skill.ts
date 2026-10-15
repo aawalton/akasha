@@ -20,5 +20,13 @@ export const runeFocus = {
   skillType: "temper-skill-type/active",
   hashPlace: 1095,
   createdAt: "2026-05-28T16:03:33.626Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Resolve (Constant)",
+    "<<2>> = 17 seconds (Constant)",
+    "<<3>> = 5948 (Constant)",
+    "<<4>> = 0.0200428 Health - 1.48048 (Health, Heal, SingleTarget, DOT, 17s duration, 1s tick, R2 = 0.999973)",
+    "<<5>> = 1 second (Constant)",
+    "<<6>> = 200% (Constant)",
+  ],
 } as const satisfies TemperSkill

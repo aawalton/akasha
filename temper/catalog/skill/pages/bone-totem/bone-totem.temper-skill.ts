@@ -20,5 +20,13 @@ export const boneTotem = {
   skillType: "temper-skill-type/active",
   hashPlace: 148,
   createdAt: "2026-05-28T16:03:31.829Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 11 seconds (Constant)",
+    "<<2>> = 5% (Constant)",
+    "<<3>> = Major Cowardice (Constant)",
+    "<<4>> = 430 (Constant)",
+    "<<5>> = 2 seconds (Constant)",
+    "<<6>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

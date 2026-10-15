@@ -20,5 +20,6 @@ export const traumaticBurns = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1364,
   createdAt: "2026-05-28T16:03:34.110Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 5% (Constant)", "<<2>> = 15% (Constant)", "<<3>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

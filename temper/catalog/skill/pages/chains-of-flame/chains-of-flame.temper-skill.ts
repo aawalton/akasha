@@ -20,5 +20,13 @@ export const chainsOfFlame = {
   skillType: "temper-skill-type/active",
   hashPlace: 198,
   createdAt: "2026-05-28T16:03:31.918Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.06 MaxStat + 0.63 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = Burning (Constant)",
+    "<<3>> = 15 seconds (Constant)",
+    "<<4>> = Major Cowardice (Constant)",
+    "<<5>> = 430 (Constant)",
+    "<<6>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

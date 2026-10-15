@@ -20,5 +20,14 @@ export const runicDefense = {
   skillType: "temper-skill-type/active",
   hashPlace: 1112,
   createdAt: "2026-05-28T16:03:33.654Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Resolve (Constant)",
+    "<<2>> = 17 seconds (Constant)",
+    "<<3>> = 2974 (Constant)",
+    "<<4>> = Minor Protection (Constant)",
+    "<<5>> = 17 seconds (Constant)",
+    "<<6>> = 5% (Constant)",
+    "<<7>> = 0.3 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

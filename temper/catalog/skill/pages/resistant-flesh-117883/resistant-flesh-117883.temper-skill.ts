@@ -20,5 +20,11 @@ export const resistantFlesh117883 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1041,
   createdAt: "2026-05-28T16:03:33.528Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 4 seconds (Constant)",
+    "<<3>> = 6% (Constant)",
+    "<<4>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

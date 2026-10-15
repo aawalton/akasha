@@ -20,5 +20,9 @@ export const focusedAim = {
   skillType: "temper-skill-type/active",
   hashPlace: 526,
   createdAt: "2026-05-26T02:38:38.321Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.106915 MaxStat + 1.12261 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, 0.8s cooldown, R2 = 1)",
+    "<<2>> = Sundered (Constant)",
+  ],
 } as const satisfies TemperSkill

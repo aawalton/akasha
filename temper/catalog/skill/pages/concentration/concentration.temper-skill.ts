@@ -22,5 +22,9 @@ export const concentration = {
   effects: "jsonl",
   hashPlace: 237,
   createdAt: "2026-05-26T02:59:07.563Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 939 (Constant)",
+    "<<2>> = 939 LightArmor (Light Armor, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

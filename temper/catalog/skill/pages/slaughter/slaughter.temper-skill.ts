@@ -22,5 +22,6 @@ export const slaughter = {
   effects: "jsonl",
   hashPlace: 1204,
   createdAt: "2026-05-26T02:38:38.357Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 20% (Constant)"],
 } as const satisfies TemperSkill

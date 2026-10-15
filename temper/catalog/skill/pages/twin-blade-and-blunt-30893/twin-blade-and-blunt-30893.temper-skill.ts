@@ -20,5 +20,6 @@ export const twinBladeAndBlunt30893 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1372,
   createdAt: "2026-05-28T16:03:34.124Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 3% (Constant)", "<<2>> = 743 (Constant)", "<<3>> = 64 (Constant)"],
 } as const satisfies TemperSkill

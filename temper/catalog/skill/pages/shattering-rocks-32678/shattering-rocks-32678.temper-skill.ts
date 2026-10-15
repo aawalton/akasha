@@ -20,5 +20,16 @@ export const shatteringRocks32678 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1161,
   createdAt: "2026-05-28T16:03:33.742Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 50% (Constant)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+    "<<4>> = 8 seconds (Constant)",
+    "<<5>> = 0.059394 MaxStat + 0.62392 MaxPower - 1.57142 (Ultimate, ratio = 10.50, Dmg, Flame, SingleTarget, Direct, Melee, R2 = 0.999999)",
+    "<<6>> = 0.11875 MaxStat + 1.24737 MaxPower - 0.289368 (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<7>> = Minor Breach (Constant)",
+    "<<8>> = 10 seconds (Constant)",
+    "<<9>> = 2974 (Constant)",
+  ],
 } as const satisfies TemperSkill

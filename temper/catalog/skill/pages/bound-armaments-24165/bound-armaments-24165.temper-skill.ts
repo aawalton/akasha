@@ -20,5 +20,15 @@ export const boundArmaments24165 = {
   skillType: "temper-skill-type/active",
   hashPlace: 155,
   createdAt: "2026-05-28T16:03:31.839Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Savagery (Constant)",
+    "<<2>> = 12% (Constant)",
+    "<<3>> = Bound Armaments (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = 8 (Constant)",
+    "<<6>> = 4 (Constant)",
+    "<<7>> = 0.0371741 MaxStat + 0.390414 MaxPower - 0.56231 (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, R2 = 0.999999)",
+    "<<8>> = 0.3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

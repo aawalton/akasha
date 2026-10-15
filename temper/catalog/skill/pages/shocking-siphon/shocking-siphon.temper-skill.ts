@@ -20,5 +20,13 @@ export const shockingSiphon = {
   skillType: "temper-skill-type/active",
   hashPlace: 1174,
   createdAt: "2026-05-28T16:03:33.766Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.008888 MaxStat + 0.093333 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, AOE, DOT, 19.333s duration, 0.666s tick, R2 = 1)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = Major Savagery (Constant)",
+    "<<4>> = 20 seconds (Constant)",
+    "<<5>> = 12% (Constant)",
+    "<<6>> = 3% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,10 @@ export const vengeanceSkeletalMage = {
   skillType: "temper-skill-type/active",
   hashPlace: 1559,
   createdAt: "2026-05-28T16:03:34.407Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 1 second (Constant)",
+    "<<2>> = 14175 Shock Damage (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

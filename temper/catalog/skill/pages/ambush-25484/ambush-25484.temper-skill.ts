@@ -20,5 +20,16 @@ export const ambush25484 = {
   skillType: "temper-skill-type/active",
   hashPlace: 29,
   createdAt: "2026-05-28T16:03:31.623Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.071277 MaxStat + 0.748408 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = Minor Vulnerability (Constant)",
+    "<<3>> = 10 seconds (Constant)",
+    "<<4>> = 5% (Constant)",
+    "<<5>> = Empower (Constant)",
+    "<<6>> = Minor Berserk (Constant)",
+    "<<7>> = 10 seconds (Constant)",
+    "<<8>> = 150% (Constant)",
+    "<<9>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

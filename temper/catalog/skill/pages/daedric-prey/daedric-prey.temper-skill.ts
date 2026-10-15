@@ -20,5 +20,11 @@ export const daedricPrey = {
   skillType: "temper-skill-type/active",
   hashPlace: 292,
   createdAt: "2026-05-26T03:13:12.241Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.129135 MaxStat + 1.356 MaxPower - 1.37071 (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 50% (Constant)",
+    "<<4>> = Daedric Prey (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,12 @@ export const lightningFlood = {
   skillType: "temper-skill-type/active",
   hashPlace: 749,
   createdAt: "2026-05-26T03:13:12.380Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0185483 MaxStat + 0.1938 MaxPower - 1.55712 (Ultimate, ratio = 10.45, Dmg, Shock, AOE, DOT, 1s tick, R2 = 0.999993)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 10 seconds (Constant)",
+    "<<4>> = Conduit (Constant)",
+    "<<5>> = 0.12 MaxStat + 1.26 MaxPower (Ultimate, ratio = 10.50, Dmg, Shock, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

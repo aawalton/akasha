@@ -20,5 +20,14 @@ export const soulSiphon35508 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1231,
   createdAt: "2026-05-28T16:03:33.871Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.154901 MaxStat + 1.62725 MaxPower - 1.10979 (Ultimate, ratio = 10.51, Heal, AOE, Direct, R2 = 1)",
+    "<<2>> = 0.0505 MaxStat + 0.53025 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, DOT, 3.5s duration, 0.5s tick, R2 = 1)",
+    "<<3>> = 4 seconds (Constant)",
+    "<<4>> = 12% (Constant)",
+    "<<5>> = 4 seconds (Constant)",
+    "<<6>> = Soul Leech (Constant)",
+    "<<7>> = 0.1388 MaxStat + 1.4571 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,14 @@ export const incapacitatingStrike36508 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 678,
   createdAt: "2026-05-28T16:03:32.844Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.16528 MaxStat + 1.73544 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Disease, SingleTarget, Direct, Melee, 0.4s cooldown, R2 = 1)",
+    "<<2>> = 20% (Constant)",
+    "<<3>> = 8 seconds (Constant)",
+    "<<4>> = 120 (Constant)",
+    "<<5>> = 0.181808 MaxStat + 1.90898 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Disease, SingleTarget, Direct, Melee, 0.4s cooldown, R2 = 1)",
+    "<<6>> = 3 seconds (Constant)",
+    "<<7>> = 12 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

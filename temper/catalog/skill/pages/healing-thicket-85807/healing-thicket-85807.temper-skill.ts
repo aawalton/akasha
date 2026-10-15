@@ -20,5 +20,12 @@ export const healingThicket85807 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 608,
   createdAt: "2026-05-28T16:03:32.712Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.12396 MaxStat + 1.30158 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
+    "<<2>> = 0.04132 MaxStat + 0.43386 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, DOT, 4s duration, 1s tick, R2 = 1)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 6 seconds (Constant)",
+    "<<5>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,14 @@ export const darkConversion24589 = {
   skillType: "temper-skill-type/active",
   hashPlace: 305,
   createdAt: "2026-05-28T16:03:32.083Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 9700 (Constant)",
+    "<<2>> = 4200 (Constant)",
+    "<<3>> = 2850 (Constant)",
+    "<<4>> = 20 seconds (Constant)",
+    "<<5>> = Minor Berserk (Constant)",
+    "<<6>> = 20 seconds (Constant)",
+    "<<7>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

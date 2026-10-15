@@ -20,5 +20,11 @@ export const livingDark = {
   skillType: "temper-skill-type/active",
   hashPlace: 760,
   createdAt: "2026-05-26T03:13:12.382Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10 seconds (Constant)",
+    "<<2>> = 40% (Constant)",
+    "<<3>> = 3 seconds (Constant)",
+    "<<4>> = 2066 (Constant)",
+  ],
 } as const satisfies TemperSkill

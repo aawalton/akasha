@@ -20,5 +20,10 @@ export const dragonfireBreath = {
   skillType: "temper-skill-type/active",
   hashPlace: 380,
   createdAt: "2026-05-28T16:03:32.198Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.075 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.0249954 MaxStat + 0.26217 MaxPower - 0.0301722 (Ultimate, ratio = 10.49, Dmg, Flame, SingleTarget, DOT, 8s duration, 2s tick, R2 = 0.999996)",
+    "<<3>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

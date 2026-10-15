@@ -20,5 +20,10 @@ export const riteOfPassage = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1077,
   createdAt: "2026-05-28T16:03:33.594Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.12 MaxStat + 1.26 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, 1s tick, R2 = 1)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

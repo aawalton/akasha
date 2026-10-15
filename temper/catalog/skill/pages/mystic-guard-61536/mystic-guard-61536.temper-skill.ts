@@ -20,5 +20,6 @@ export const mysticGuard61536 = {
   skillType: "temper-skill-type/active",
   hashPlace: 842,
   createdAt: "2026-05-28T16:03:33.157Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 6% (Constant)"],
 } as const satisfies TemperSkill

@@ -20,5 +20,12 @@ export const raceAgainstTime103710 = {
   skillType: "temper-skill-type/active",
   hashPlace: 955,
   createdAt: "2026-05-28T16:03:33.369Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 4 seconds (Constant)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = 30% (Constant)",
+    "<<4>> = 10% (Constant)",
+    "<<5>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

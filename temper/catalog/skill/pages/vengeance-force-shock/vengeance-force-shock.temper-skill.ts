@@ -20,5 +20,10 @@ export const vengeanceForceShock = {
   skillType: "temper-skill-type/active",
   hashPlace: 1477,
   createdAt: "2026-05-28T16:03:34.290Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 9450 Flame Damage (Constant)",
+    "<<2>> = 9450 Frost Damage (Constant)",
+    "<<3>> = 9450 Shock Damage (Constant)",
+  ],
 } as const satisfies TemperSkill

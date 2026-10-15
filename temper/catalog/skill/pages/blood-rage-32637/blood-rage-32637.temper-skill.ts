@@ -20,5 +20,14 @@ export const bloodRage32637 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 125,
   createdAt: "2026-05-28T16:03:31.797Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 5 (Constant)",
+    "<<2>> = 15 (Constant)",
+    "<<3>> = 1000 (Constant)",
+    "<<4>> = Rampage (Constant)",
+    "<<5>> = 15% (Constant)",
+    "<<6>> = 20% (Constant)",
+    "<<7>> = 20 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

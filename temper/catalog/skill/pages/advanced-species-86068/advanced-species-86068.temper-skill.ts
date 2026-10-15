@@ -20,5 +20,9 @@ export const advancedSpecies86068 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 20,
   createdAt: "2026-05-28T16:03:31.609Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 2% (Constant)",
+    "<<2>> = 2 AnimCompanion (Animal Companion Skills Slotted, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

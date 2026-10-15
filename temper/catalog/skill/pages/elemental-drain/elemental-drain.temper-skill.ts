@@ -20,5 +20,13 @@ export const elementalDrain = {
   skillType: "temper-skill-type/active",
   hashPlace: 401,
   createdAt: "2026-05-26T02:38:38.313Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Breach (Constant)",
+    "<<2>> = 1 minute (Constant)",
+    "<<3>> = 5948 (Constant)",
+    "<<4>> = Minor Magickasteal (Constant)",
+    "<<5>> = 168 (Constant)",
+    "<<6>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

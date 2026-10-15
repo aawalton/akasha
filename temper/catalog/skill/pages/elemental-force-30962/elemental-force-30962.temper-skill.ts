@@ -19,5 +19,6 @@ export const elementalForce30962 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 404,
   createdAt: "2026-05-28T16:03:32.248Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 50% (Constant)"],
 } as const satisfies TemperSkill

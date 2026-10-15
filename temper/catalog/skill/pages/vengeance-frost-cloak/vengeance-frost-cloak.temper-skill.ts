@@ -20,5 +20,6 @@ export const vengeanceFrostCloak = {
   skillType: "temper-skill-type/active",
   hashPlace: 1479,
   createdAt: "2026-05-28T16:03:34.293Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 5948 (Constant)", "<<2>> = 20 seconds (Constant)"],
 } as const satisfies TemperSkill

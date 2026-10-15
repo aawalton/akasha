@@ -20,5 +20,12 @@ export const energyOrb42038 = {
   skillType: "temper-skill-type/active",
   hashPlace: 442,
   createdAt: "2026-05-28T16:03:32.362Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0211209 MaxStat + 0.222227 MaxPower - 1.7093 (Ultimate, ratio = 10.52, Heal, AOE, Direct, 1s tick, R2 = 0.999996)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = Healing Combustion (Constant)",
+    "<<4>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, Heal, AOE, Direct, R2 = 1)",
+    "<<5>> = 3960 (Constant)",
+  ],
 } as const satisfies TemperSkill

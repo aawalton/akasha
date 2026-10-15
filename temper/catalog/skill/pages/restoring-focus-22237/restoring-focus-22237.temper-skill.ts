@@ -20,5 +20,15 @@ export const restoringFocus22237 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1055,
   createdAt: "2026-05-28T16:03:33.551Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Resolve (Constant)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = 5948 (Constant)",
+    "<<4>> = 242 (Constant)",
+    "<<5>> = 1 second (Constant)",
+    "<<6>> = 0.0249476 Health + 0.712153 (Health, Heal, SingleTarget, DOT, 20s duration, 1s tick, R2 = 0.999987)",
+    "<<7>> = 1 second (Constant)",
+    "<<8>> = 200% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -21,5 +21,6 @@ export const hexproof = {
   effects: "jsonl",
   hashPlace: 629,
   createdAt: "2026-05-26T03:13:12.356Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 4 (Constant)", "<<2>> = 3% (Constant)"],
 } as const satisfies TemperSkill

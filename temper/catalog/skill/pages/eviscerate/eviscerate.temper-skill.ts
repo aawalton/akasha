@@ -20,5 +20,10 @@ export const eviscerate = {
   skillType: "temper-skill-type/active",
   hashPlace: 465,
   createdAt: "2026-05-28T16:03:32.399Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = Hemorrhaging (Constant)",
+    "<<3>> = 33 (Constant)",
+  ],
 } as const satisfies TemperSkill

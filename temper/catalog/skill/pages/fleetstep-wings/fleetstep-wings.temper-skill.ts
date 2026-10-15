@@ -20,5 +20,14 @@ export const fleetstepWings = {
   skillType: "temper-skill-type/active",
   hashPlace: 520,
   createdAt: "2026-05-26T03:13:12.326Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 4 meters (Constant)",
+    "<<2>> = 1.8 seconds (Constant)",
+    "<<3>> = 50% (Constant)",
+    "<<4>> = 6 seconds (Constant)",
+    "<<5>> = Major Expedition (Constant)",
+    "<<6>> = 4 seconds (Constant)",
+    "<<7>> = 30% (Constant)",
+  ],
 } as const satisfies TemperSkill

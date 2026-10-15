@@ -21,5 +21,12 @@ export const necroticPotency = {
   effects: "jsonl",
   hashPlace: 855,
   createdAt: "2026-05-26T03:13:12.410Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 (Constant)",
+    "<<2>> = 0.04268356 Health (Health, RankMod(1.033), Heal, SingleTarget, DOT, 1s tick, R2 = 1)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 2 seconds (Constant)",
+    "<<5>> = 3% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,16 @@ export const corruptingPollen85845 = {
   skillType: "temper-skill-type/active",
   hashPlace: 255,
   createdAt: "2026-05-28T16:03:32.012Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 0.154901 MaxStat + 1.62725 MaxPower - 1.10979 (Ultimate, ratio = 10.51, Heal, AOE, Direct, R2 = 1)",
+    "<<3>> = Major Defile (Constant)",
+    "<<4>> = Minor Cowardice (Constant)",
+    "<<5>> = 12% (Constant)",
+    "<<6>> = 215 (Constant)",
+    "<<7>> = Harvest (Constant)",
+    "<<8>> = 0.025 MaxStat + 0.2625 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, DOT, 5s duration, 1s tick, R2 = 1)",
+    "<<9>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

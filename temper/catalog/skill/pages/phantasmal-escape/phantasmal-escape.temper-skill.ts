@@ -20,5 +20,12 @@ export const phantasmalEscape = {
   skillType: "temper-skill-type/active",
   hashPlace: 889,
   createdAt: "2026-05-26T03:13:12.418Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 20% (Constant)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+    "<<4>> = Roll Dodge (Constant)",
+    "<<5>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

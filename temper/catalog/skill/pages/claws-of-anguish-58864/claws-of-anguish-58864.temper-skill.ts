@@ -20,5 +20,15 @@ export const clawsOfAnguish58864 = {
   skillType: "temper-skill-type/active",
   hashPlace: 217,
   createdAt: "2026-05-28T16:03:31.952Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 (Constant)",
+    "<<2>> = 0.0825 MaxStat + 0.666346 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Physical, AOE, Direct, Melee, 4s duration, 0.333s tick, R2 = 1)",
+    "<<3>> = 4.7 seconds (Constant)",
+    "<<4>> = 0.104667 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<5>> = 15 (Constant)",
+    "<<6>> = Blood Hunger (Constant)",
+    "<<7>> = Claw Fury (Constant)",
+    "<<8>> = 25% (Constant)",
+  ],
 } as const satisfies TemperSkill

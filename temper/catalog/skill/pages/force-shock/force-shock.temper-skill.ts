@@ -20,5 +20,10 @@ export const forceShock = {
   skillType: "temper-skill-type/active",
   hashPlace: 533,
   createdAt: "2026-05-28T16:03:32.522Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.03 MaxStat + 0.315 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.029932 MaxStat + 0.315736 MaxPower - 1.70809 (Ultimate, ratio = 10.55, Dmg, Frost, SingleTarget, Direct, R2 = 0.999998)",
+    "<<3>> = 0.029932 MaxStat + 0.315736 MaxPower - 1.70809 (Ultimate, ratio = 10.55, Dmg, Shock, SingleTarget, Direct, R2 = 0.999998)",
+  ],
 } as const satisfies TemperSkill

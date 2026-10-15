@@ -20,5 +20,12 @@ export const glacialColossus122388 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 566,
   createdAt: "2026-05-28T16:03:32.616Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3 seconds (Constant)",
+    "<<2>> = 0.154901 MaxStat + 1.62725 MaxPower - 1.10979 (Ultimate, ratio = 10.51, Dmg, Frost, AOE, Direct, Melee, R2 = 1)",
+    "<<3>> = 3 seconds (Constant)",
+    "<<4>> = 17 seconds (Constant)",
+    "<<5>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

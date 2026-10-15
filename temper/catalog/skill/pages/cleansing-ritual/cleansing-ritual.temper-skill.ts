@@ -20,5 +20,13 @@ export const cleansingRitual = {
   skillType: "temper-skill-type/active",
   hashPlace: 221,
   createdAt: "2026-05-28T16:03:31.959Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 2 (Constant)",
+    "<<2>> = 0.0363942 MaxStat + 0.381798 MaxPower - 1.57401 (Ultimate, ratio = 10.49, Heal, AOE, Direct, 2s tick, R2 = 0.999999)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 20 seconds (Constant)",
+    "<<5>> = Purify (Constant)",
+    "<<6>> = 0.085 MaxStat + 0.8925 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

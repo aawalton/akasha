@@ -20,5 +20,16 @@ export const unstableCore = {
   skillType: "temper-skill-type/active",
   hashPlace: 1392,
   createdAt: "2026-05-26T03:13:12.541Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 4 seconds (Constant)",
+    "<<2>> = 30% (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+    "<<4>> = 0.0201121 MaxStat + 0.20961 MaxPower - 2.06281 (Ultimate, ratio = 10.42, Dmg, Magic, AOE, Direct, Melee, R2 = 0.999996)",
+    "<<5>> = 3 seconds (Constant)",
+    "<<6>> = 0.0400165 MaxStat + 0.420651 MaxPower - 2.83257 (Ultimate, ratio = 10.51, Dmg, Magic, AOE, Direct, Melee, R2 = 0.999999)",
+    "<<7>> = 3 seconds (Constant)",
+    "<<8>> = 0.0800509 MaxStat + 0.840607 MaxPower - 2.57197 (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 0.999999)",
+    "<<9>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,10 @@ export const tomeBearerSInspiration = {
   skillType: "temper-skill-type/active",
   hashPlace: 1351,
   createdAt: "2026-05-28T16:03:34.087Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 5 seconds (Constant)",
+    "<<2>> = 0.0499489 MaxStat + 0.524968 MaxPower - 0.306011 (Ultimate, ratio = 10.51, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 0.999999)",
+    "<<3>> = 20% (Constant)",
+  ],
 } as const satisfies TemperSkill

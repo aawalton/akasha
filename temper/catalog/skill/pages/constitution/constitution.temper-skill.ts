@@ -22,5 +22,12 @@ export const constitution = {
   effects: "jsonl",
   hashPlace: 242,
   createdAt: "2026-05-26T02:59:07.565Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 4% (Constant)",
+    "<<2>> = 4 HeavyArmor (Heavy Armor, SingleTarget, Direct, R2 = 1)",
+    "<<3>> = 108 (Constant)",
+    "<<4>> = 4 seconds (Constant)",
+    "<<5>> = 108 HeavyArmor (Heavy Armor, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

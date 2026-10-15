@@ -20,5 +20,14 @@ export const vengeanceSleetStorm = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1560,
   createdAt: "2026-05-28T16:03:34.409Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 (Constant)",
+    "<<2>> = 4 seconds (Constant)",
+    "<<3>> = 40% (Constant)",
+    "<<4>> = 4 seconds (Constant)",
+    "<<5>> = Major Protection (Constant)",
+    "<<6>> = 8 seconds (Constant)",
+    "<<7>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

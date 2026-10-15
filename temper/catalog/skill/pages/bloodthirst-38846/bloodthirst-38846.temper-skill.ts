@@ -20,5 +20,9 @@ export const bloodthirst38846 = {
   skillType: "temper-skill-type/active",
   hashPlace: 132,
   createdAt: "2026-05-28T16:03:31.808Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0297 MaxStat + 0.31184 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Bleed, SingleTarget, Direct, Melee, 0.8s duration, 0.266s tick, R2 = 1)",
+    "<<2>> = 33% (Constant)",
+  ],
 } as const satisfies TemperSkill

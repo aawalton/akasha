@@ -20,5 +20,15 @@ export const eternalGuardian = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 456,
   createdAt: "2026-05-26T03:13:12.307Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.026677225 MaxStat + 0.280111379 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.1067089 MaxStat + 1.12044345 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, AOE, Direct, Melee, 1.8s cooldown, R2 = 1)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = Guardian's Wrath (Constant)",
+    "<<5>> = 75 (Constant)",
+    "<<6>> = 0.14939246 MaxStat + 1.56862083 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, SingleTarget, Direct, Melee, 0.7s cooldown, R2 = 1)",
+    "<<7>> = 150 (Constant)",
+    "<<8>> = 25 (Constant)",
+  ],
 } as const satisfies TemperSkill

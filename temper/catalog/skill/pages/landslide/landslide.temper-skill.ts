@@ -20,5 +20,12 @@ export const landslide = {
   skillType: "temper-skill-type/passive",
   hashPlace: 725,
   createdAt: "2026-05-28T16:03:32.922Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Landslide (Constant)",
+    "<<2>> = 1% (Constant)",
+    "<<3>> = 12 (Constant)",
+    "<<4>> = 5 seconds (Constant)",
+    "<<5>> = 6 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

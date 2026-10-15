@@ -20,5 +20,12 @@ export const impalingShards = {
   skillType: "temper-skill-type/active",
   hashPlace: 667,
   createdAt: "2026-05-28T16:03:32.827Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0246459 Health - 1.14787 (Health, Dmg, Frost, AOE, DOT, 1s tick, R2 = 0.999986)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 12 seconds (Constant)",
+    "<<4>> = 30% (Constant)",
+    "<<5>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

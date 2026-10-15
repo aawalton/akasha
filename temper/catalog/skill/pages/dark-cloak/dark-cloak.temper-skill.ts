@@ -21,5 +21,13 @@ export const darkCloak = {
   effects: "jsonl",
   hashPlace: 302,
   createdAt: "2026-05-26T03:13:12.247Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05335445 Health (Health, RankMod(1.033), Heal, SingleTarget, DOT, 3s duration, 1s tick, R2 = 1)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 3 seconds (Constant)",
+    "<<4>> = 150% (Constant)",
+    "<<5>> = Minor Protection (Constant)",
+    "<<6>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

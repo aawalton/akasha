@@ -20,5 +20,17 @@ export const runicEmbrace = {
   skillType: "temper-skill-type/active",
   hashPlace: 1113,
   createdAt: "2026-05-26T03:13:12.477Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.1067089 Health (Health, RankMod(1.033), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<3>> = Minor Maim (Constant)",
+    "<<4>> = Minor Lifesteal (Constant)",
+    "<<5>> = 15 seconds (Constant)",
+    "<<6>> = 5% (Constant)",
+    "<<7>> = 600 (Constant)",
+    "<<8>> = 1 second (Constant)",
+    "<<9>> = 15 seconds (Constant)",
+    "<<10>> = 2% (Constant)",
+  ],
 } as const satisfies TemperSkill

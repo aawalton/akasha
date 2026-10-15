@@ -20,5 +20,15 @@ export const frozenRetreat = {
   skillType: "temper-skill-type/active",
   hashPlace: 549,
   createdAt: "2026-05-26T03:13:12.332Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 15 seconds (Constant)",
+    "<<2>> = 3 seconds (Constant)",
+    "<<3>> = 0.0800509 MaxStat + 0.840607 MaxPower - 2.57197 (Ultimate, ratio = 10.50, Dmg, Frost, SingleTarget, Direct, Melee, R2 = 0.999999)",
+    "<<4>> = Icy Escape (Constant)",
+    "<<5>> = Major Expedition (Constant)",
+    "<<6>> = 8 seconds (Constant)",
+    "<<7>> = 3 Frozen (Constant)",
+    "<<8>> = Retreat (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -22,5 +22,10 @@ export const undauntedCommand = {
   effects: "jsonl",
   hashPlace: 1378,
   createdAt: "2026-05-26T02:59:07.688Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.04 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.04 Stamina (Stamina, SingleTarget, Direct, R2 = 1)",
+    "<<3>> = 0.04 Magicka (Magicka, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

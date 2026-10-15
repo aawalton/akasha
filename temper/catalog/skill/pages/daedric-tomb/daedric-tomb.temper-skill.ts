@@ -20,5 +20,11 @@ export const daedricTomb = {
   skillType: "temper-skill-type/active",
   hashPlace: 298,
   createdAt: "2026-05-26T03:13:12.245Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 15 seconds (Constant)",
+    "<<2>> = 0.12009 MaxStat + 1.26023 MaxPower - 1.45271 (Ultimate, ratio = 10.49, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

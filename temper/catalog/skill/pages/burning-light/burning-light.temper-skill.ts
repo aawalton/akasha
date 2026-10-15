@@ -21,5 +21,10 @@ export const burningLight = {
   status: "unsupported",
   hashPlace: 174,
   createdAt: "2026-05-26T03:13:12.203Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Burning Light (Constant)",
+    "<<2>> = 3 seconds (Constant)",
+    "<<3>> = 2.67E-5 Magicka + 0.499772 SD - 0.130658 (Magicka, ratio = 18718.05, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 0.999999)",
+  ],
 } as const satisfies TemperSkill

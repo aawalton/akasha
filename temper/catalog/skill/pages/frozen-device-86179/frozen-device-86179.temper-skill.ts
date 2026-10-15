@@ -20,5 +20,14 @@ export const frozenDevice86179 = {
   skillType: "temper-skill-type/active",
   hashPlace: 547,
   createdAt: "2026-05-28T16:03:32.564Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 15 seconds (Constant)",
+    "<<2>> = 3 seconds (Constant)",
+    "<<3>> = 0.0774957 MaxStat + 0.813678 MaxPower - 1.85443 (Ultimate, ratio = 10.50, Dmg, Frost, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<4>> = 10% (Constant)",
+    "<<5>> = 4 seconds (Constant)",
+    "<<6>> = 3 Frozen (Constant)",
+    "<<7>> = Device (Constant)",
+  ],
 } as const satisfies TemperSkill

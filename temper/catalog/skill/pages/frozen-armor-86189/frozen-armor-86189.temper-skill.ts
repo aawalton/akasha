@@ -20,5 +20,9 @@ export const frozenArmor86189 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 544,
   createdAt: "2026-05-28T16:03:32.556Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 620 (Constant)",
+    "<<2>> = 620 WintersEmbrace (Winter's Embrace Skills Slotted, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

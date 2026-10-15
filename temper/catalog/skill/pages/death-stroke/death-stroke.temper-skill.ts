@@ -20,5 +20,10 @@ export const deathStroke = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 334,
   createdAt: "2026-05-28T16:03:32.127Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.16 MaxStat + 1.68 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, 0.4s cooldown, R2 = 1)",
+    "<<2>> = 20% (Constant)",
+    "<<3>> = 8 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

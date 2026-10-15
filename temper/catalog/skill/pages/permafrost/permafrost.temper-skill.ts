@@ -20,5 +20,12 @@ export const permafrost = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 881,
   createdAt: "2026-05-26T03:13:12.415Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.007059 MaxStat + 0.074118 MaxPower (Ultimate, ratio = 10.50, Dmg, Frost, AOE, DOT, 1s tick, R2 = 1)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 13 seconds (Constant)",
+    "<<4>> = 70% (Constant)",
+    "<<5>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

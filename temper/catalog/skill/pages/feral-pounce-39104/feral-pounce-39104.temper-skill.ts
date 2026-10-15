@@ -20,5 +20,16 @@ export const feralPounce39104 = {
   skillType: "temper-skill-type/active",
   hashPlace: 506,
   createdAt: "2026-05-28T16:03:32.462Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.080574 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 8.08, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = Hemorrhaging (Constant)",
+    "<<3>> = 7 (Constant)",
+    "<<4>> = Feral Carnage (Constant)",
+    "<<5>> = 0.012208 MaxStat + 0.098605 MaxPower (Ultimate, ratio = 8.08, Dmg, Bleed, SingleTarget, DOT, 12s duration, 2s tick, R2 = 1)",
+    "<<6>> = 12 seconds (Constant)",
+    "<<7>> = 450 (Constant)",
+    "<<8>> = 100 (Constant)",
+    "<<9>> = 185 (Constant)",
+  ],
 } as const satisfies TemperSkill

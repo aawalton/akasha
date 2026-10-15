@@ -20,5 +20,10 @@ export const suppressionField28341 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1307,
   createdAt: "2026-05-28T16:03:34.009Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 12 seconds (Constant)",
+    "<<2>> = 0.0446504 MaxStat + 0.469231 MaxPower - 0.121725 (Ultimate, ratio = 10.51, Dmg, Magic, AOE, DOT, 1s tick, R2 = 1)",
+    "<<3>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

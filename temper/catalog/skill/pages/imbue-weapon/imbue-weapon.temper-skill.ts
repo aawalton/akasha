@@ -20,5 +20,11 @@ export const imbueWeapon = {
   skillType: "temper-skill-type/active",
   hashPlace: 662,
   createdAt: "2026-05-28T16:03:32.819Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 0.089876 MaxStat + 0.945392 MaxPower + 0.199768 (Ultimate, ratio = 10.52, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<3>> = 5% (Constant)",
+    "<<4>> = 6 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,11 @@ export const searingStrike = {
   skillType: "temper-skill-type/active",
   hashPlace: 1145,
   createdAt: "2026-05-28T16:03:33.712Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05 MaxStat + 0.525 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.029932 MaxStat + 0.315736 MaxPower - 1.70809 (Ultimate, ratio = 10.55, Dmg, Flame, SingleTarget, DOT, 8s duration, 2s tick, R2 = 0.999998)",
+    "<<3>> = 10 seconds (Constant)",
+    "<<4>> = Burning (Constant)",
+  ],
 } as const satisfies TemperSkill

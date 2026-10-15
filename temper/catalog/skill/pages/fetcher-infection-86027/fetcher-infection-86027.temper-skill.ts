@@ -20,5 +20,11 @@ export const fetcherInfection86027 = {
   skillType: "temper-skill-type/active",
   hashPlace: 510,
   createdAt: "2026-05-28T16:03:32.473Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0187221 MaxStat + 0.197106 MaxPower + 0.0870345 (Ultimate, ratio = 10.53, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999998)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = 75% (Constant)",
+    "<<4>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

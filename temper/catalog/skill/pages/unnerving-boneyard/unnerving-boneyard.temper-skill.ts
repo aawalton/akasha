@@ -20,5 +20,17 @@ export const unnervingBoneyard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1389,
   createdAt: "2026-05-26T03:13:12.539Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.012934193 MaxStat + 0.135811609 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Frost, AOE, DOT, 10s duration, 1s tick, R2 = 1)",
+    "<<2>> = 10 seconds (Constant)",
+    "<<3>> = Major Breach (Constant)",
+    "<<4>> = Minor Vulnerability (Constant)",
+    "<<5>> = 5948 (Constant)",
+    "<<6>> = 5% (Constant)",
+    "<<7>> = 4.1 seconds (Constant)",
+    "<<8>> = 30% (Constant)",
+    "<<9>> = Grave Robber (Constant)",
+    "<<10>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, Dmg, Frost, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

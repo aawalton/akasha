@@ -20,5 +20,10 @@ export const vengeanceChakramShields = {
   skillType: "temper-skill-type/active",
   hashPlace: 1433,
   createdAt: "2026-05-28T16:03:34.225Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 (Constant)",
+    "<<2>> = 0.429977 Health + 0.0965734 (Health, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<3>> = 6 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

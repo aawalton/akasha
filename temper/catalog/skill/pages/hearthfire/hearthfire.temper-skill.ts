@@ -20,5 +20,14 @@ export const hearthfire = {
   skillType: "temper-skill-type/active",
   hashPlace: 620,
   createdAt: "2026-05-28T16:03:32.733Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 15 seconds (Constant)",
+    "<<2>> = 0.018763 MaxStat + 0.196719 MaxPower - 0.711896 (Ultimate, ratio = 10.48, Heal, AOE, Direct, 1s tick, R2 = 0.999991)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = Minor Fortitude (Constant)",
+    "<<5>> = Minor Heroism (Constant)",
+    "<<6>> = 15% (Constant)",
+    "<<7>> = 1 (Constant)",
+  ],
 } as const satisfies TemperSkill

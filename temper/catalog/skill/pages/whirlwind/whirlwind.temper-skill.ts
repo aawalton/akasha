@@ -20,5 +20,10 @@ export const whirlwind = {
   skillType: "temper-skill-type/active",
   hashPlace: 1618,
   createdAt: "2026-05-28T16:03:34.509Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.075 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 33 (Constant)",
+    "<<3>> = 50 (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -21,5 +21,12 @@ export const radiantAura = {
   effects: "jsonl",
   hashPlace: 957,
   createdAt: "2026-05-26T03:13:12.439Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Endurance (Constant)",
+    "<<2>> = Minor Fortitude (Constant)",
+    "<<3>> = Minor Intellect (Constant)",
+    "<<4>> = 1 minute (Constant)",
+    "<<5>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,10 @@ export const volley = {
   skillType: "temper-skill-type/active",
   hashPlace: 1605,
   createdAt: "2026-05-28T16:03:34.480Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0147919 MaxStat + 0.155883 MaxPower - 1.489 (Ultimate, ratio = 10.54, Dmg, Physical, AOE, DOT, 1s tick, R2 = 0.999992)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 8 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

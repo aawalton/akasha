@@ -20,5 +20,9 @@ export const vengeanceDragonBlood = {
   skillType: "temper-skill-type/active",
   hashPlace: 1454,
   createdAt: "2026-05-28T16:03:34.257Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.25 Health (Health, Heal, SingleTarget, Direct, 1s duration, R2 = 1)",
+    "<<2>> = 50 (Constant)",
+  ],
 } as const satisfies TemperSkill

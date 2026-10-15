@@ -20,5 +20,13 @@ export const leechingVines85850 = {
   skillType: "temper-skill-type/active",
   hashPlace: 734,
   createdAt: "2026-05-28T16:03:32.953Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10 seconds (Constant)",
+    "<<2>> = 0.0310259 MaxStat + 0.325425 MaxPower - 1.91657 (Ultimate, ratio = 10.49, Heal, SingleTarget, Direct, R2 = 0.999998)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = 600 (Constant)",
+    "<<6>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

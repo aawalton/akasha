@@ -20,5 +20,10 @@ export const dawnbreaker = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 319,
   createdAt: "2026-05-28T16:03:32.102Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.125 MaxStat + 1.3125 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, AOE, Direct, Melee, 0.4s cooldown, R2 = 1)",
+    "<<2>> = 0.049949 MaxStat + 0.524967 MaxPower - 0.306011 (Ultimate, ratio = 10.51, Dmg, Physical, SingleTarget, DOT, 4s duration, 2s tick, R2 = 0.999999)",
+    "<<3>> = 6 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,15 @@ export const crystalWeapon46331 = {
   skillType: "temper-skill-type/active",
   hashPlace: 277,
   createdAt: "2026-05-28T16:03:32.044Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 3 (Constant)",
+    "<<3>> = 700 (Constant)",
+    "<<4>> = 5 seconds (Constant)",
+    "<<5>> = 0.0929455 MaxStat + 0.976197 MaxPower - 0.668374 (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<6>> = 0.0371741 MaxStat + 0.390414 MaxPower - 0.56231 (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 0.999999)",
+    "<<7>> = 3 seconds (Constant)",
+    "<<8>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

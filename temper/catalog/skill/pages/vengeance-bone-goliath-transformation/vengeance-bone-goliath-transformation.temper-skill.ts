@@ -20,5 +20,6 @@ export const vengeanceBoneGoliathTransformation = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1427,
   createdAt: "2026-05-28T16:03:34.217Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 70000 (Constant)", "<<2>> = 15 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -20,5 +20,13 @@ export const grippingShards = {
   skillType: "temper-skill-type/active",
   hashPlace: 582,
   createdAt: "2026-05-26T03:13:12.344Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3 seconds (Constant)",
+    "<<2>> = 0.0262943 Health - 1.59107 (Health, Dmg, Frost, AOE, DOT, 1s tick, R2 = 0.999972)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 12 seconds (Constant)",
+    "<<5>> = 30% (Constant)",
+    "<<6>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -22,5 +22,9 @@ export const frozenArmor = {
   effects: "jsonl",
   hashPlace: 543,
   createdAt: "2026-05-26T03:13:12.330Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 1240 (Constant)",
+    "<<2>> = 1240 WintersEmbrace (Winter's Embrace Skills Slotted, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

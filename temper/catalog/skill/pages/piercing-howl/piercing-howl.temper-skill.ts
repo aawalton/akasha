@@ -20,5 +20,13 @@ export const piercingHowl = {
   skillType: "temper-skill-type/active",
   hashPlace: 895,
   createdAt: "2026-05-28T16:03:33.253Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.065 MaxStat + 0.525 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.0649709 MaxStat + 0.525609 MaxPower - 2.25509 (Ultimate, ratio = 8.09, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 0.999999)",
+    "<<3>> = Blood Hunger (Constant)",
+    "<<4>> = 25% (Constant)",
+    "<<5>> = 125 (Constant)",
+    "<<6>> = 25 (Constant)",
+  ],
 } as const satisfies TemperSkill

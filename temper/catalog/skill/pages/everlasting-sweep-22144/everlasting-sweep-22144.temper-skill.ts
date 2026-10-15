@@ -20,5 +20,11 @@ export const everlastingSweep22144 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 462,
   createdAt: "2026-05-28T16:03:32.395Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, AOE, Direct, Melee, 0.25s cooldown, R2 = 1)",
+    "<<2>> = 0.05165 MaxStat + 0.54233 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, DOT, 2s tick, R2 = 1)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

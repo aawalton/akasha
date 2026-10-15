@@ -21,5 +21,11 @@ export const shadowBarrier = {
   status: "unsupported",
   hashPlace: 1148,
   createdAt: "2026-05-26T03:13:12.488Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 12 seconds (Constant)",
+    "<<2>> = 5948 (Constant)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 2 HeavyArmor + 12 (Heavy Armor, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

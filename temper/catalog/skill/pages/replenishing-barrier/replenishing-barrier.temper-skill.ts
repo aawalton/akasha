@@ -20,5 +20,9 @@ export const replenishingBarrier = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1031,
   createdAt: "2026-05-26T03:25:55.806Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.5165 MaxStat + 5.42325 MaxPower (Ultimate, ratio = 10.50, DmgShield, SingleTarget, Direct, 30s duration, R2 = 1)",
+    "<<2>> = 1500 (Constant)",
+  ],
 } as const satisfies TemperSkill

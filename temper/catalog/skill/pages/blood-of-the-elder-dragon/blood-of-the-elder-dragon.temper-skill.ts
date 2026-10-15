@@ -20,5 +20,15 @@ export const bloodOfTheElderDragon = {
   skillType: "temper-skill-type/active",
   hashPlace: 123,
   createdAt: "2026-05-28T16:03:31.793Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.129125 MaxStat + 1.35581 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.086083 MaxStat + 0.903875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
+    "<<3>> = 50 (Constant)",
+    "<<4>> = Major Fortitude (Constant)",
+    "<<5>> = Minor Courage (Constant)",
+    "<<6>> = 30% (Constant)",
+    "<<7>> = 215 (Constant)",
+    "<<8>> = 20 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

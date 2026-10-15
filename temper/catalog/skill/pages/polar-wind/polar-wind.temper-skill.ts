@@ -20,5 +20,12 @@ export const polarWind = {
   skillType: "temper-skill-type/active",
   hashPlace: 904,
   createdAt: "2026-05-26T03:13:12.423Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.3099 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.08536712 Health (Health, RankMod(1.033), Heal, SingleTarget, DOT, 8s duration, 2s tick, R2 = 1)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = 0.2066 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

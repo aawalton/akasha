@@ -20,5 +20,16 @@ export const runeguardOfStillWaters183401 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1108,
   createdAt: "2026-05-28T16:03:33.648Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Resolve (Constant)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = 2974 (Constant)",
+    "<<4>> = 1 second (Constant)",
+    "<<5>> = 2 seconds (Constant)",
+    "<<6>> = Minor Protection (Constant)",
+    "<<7>> = 20 seconds (Constant)",
+    "<<8>> = 5% (Constant)",
+    "<<9>> = 0.3 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

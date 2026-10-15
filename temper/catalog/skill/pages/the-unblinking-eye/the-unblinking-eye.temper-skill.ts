@@ -20,5 +20,10 @@ export const theUnblinkingEye = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1342,
   createdAt: "2026-05-28T16:03:34.071Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 0.0480899 MaxStat + 0.503159 MaxPower - 0.316987 (Ultimate, ratio = 10.46, Dmg, Magic, AOE, DOT, 0.5s tick, R2 = 0.999999)",
+    "<<3>> = 0.5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -21,5 +21,13 @@ export const repentance = {
   effects: "jsonl",
   hashPlace: 1029,
   createdAt: "2026-05-26T03:13:12.460Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3000 (Constant)",
+    "<<2>> = 3000 (Constant)",
+    "<<3>> = Minor Fortitude (Constant)",
+    "<<4>> = Minor Endurance (Constant)",
+    "<<5>> = Minor Intellect (Constant)",
+    "<<6>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

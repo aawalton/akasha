@@ -20,5 +20,10 @@ export const endlessHail38689 = {
   skillType: "temper-skill-type/active",
   hashPlace: 434,
   createdAt: "2026-05-28T16:03:32.339Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.015261 MaxStat + 0.161049 MaxPower - 1.38234 (Ultimate, ratio = 10.55, Dmg, Physical, AOE, DOT, 1s tick, R2 = 0.999992)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

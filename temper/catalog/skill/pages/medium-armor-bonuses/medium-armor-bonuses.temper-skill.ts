@@ -22,5 +22,11 @@ export const mediumArmorBonuses = {
   effects: "jsonl",
   hashPlace: 813,
   createdAt: "2026-05-26T02:59:07.624Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 1% (Constant)",
+    "<<2>> = 5% (Constant)",
+    "<<3>> = 3% (Constant)",
+    "<<4>> = 2% (Constant)",
+  ],
 } as const satisfies TemperSkill

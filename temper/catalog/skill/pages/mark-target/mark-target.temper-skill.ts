@@ -20,5 +20,11 @@ export const markTarget = {
   skillType: "temper-skill-type/active",
   hashPlace: 801,
   createdAt: "2026-05-28T16:03:33.077Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Breach (Constant)",
+    "<<2>> = 5948 (Constant)",
+    "<<3>> = 17 seconds (Constant)",
+    "<<4>> = Mark Target (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,14 @@ export const hircineSFortitude = {
   skillType: "temper-skill-type/active",
   hashPlace: 636,
   createdAt: "2026-05-28T16:03:32.765Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.356385 Health (Health, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 12% (Constant)",
+    "<<3>> = 100% (Constant)",
+    "<<4>> = 0.12 Stamina (Stamina, Dmg, Generic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<5>> = Major Brutality (Constant)",
+    "<<6>> = 20% (Constant)",
+    "<<7>> = 12% (Constant)",
+  ],
 } as const satisfies TemperSkill

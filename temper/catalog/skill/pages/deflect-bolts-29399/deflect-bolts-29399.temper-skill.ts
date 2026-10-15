@@ -20,5 +20,6 @@ export const deflectBolts29399 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 351,
   createdAt: "2026-05-28T16:03:32.151Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 6% (Constant)"],
 } as const satisfies TemperSkill

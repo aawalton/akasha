@@ -20,5 +20,9 @@ export const grandHealing = {
   skillType: "temper-skill-type/active",
   hashPlace: 573,
   createdAt: "2026-05-28T16:03:32.635Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0182227 MaxStat + 0.19082 MaxPower - 1.34458 (Ultimate, ratio = 10.47, Heal, AOE, DOT, 10s duration, 1s tick, R2 = 0.999996)",
+    "<<2>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

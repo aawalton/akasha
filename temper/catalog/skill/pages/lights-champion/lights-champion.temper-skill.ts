@@ -20,5 +20,12 @@ export const lightsChampion = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 753,
   createdAt: "2026-05-26T02:38:38.335Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.12913 MaxStat + 1.35581 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 5 seconds (Constant)",
+    "<<4>> = 8 seconds (Constant)",
+    "<<5>> = 20% (Constant)",
+  ],
 } as const satisfies TemperSkill

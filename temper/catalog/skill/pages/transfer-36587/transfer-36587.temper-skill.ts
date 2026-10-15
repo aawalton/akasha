@@ -20,5 +20,6 @@ export const transfer36587 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1361,
   createdAt: "2026-05-28T16:03:34.106Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 1 (Constant)", "<<2>> = 4 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -20,5 +20,11 @@ export const silverLeash = {
   skillType: "temper-skill-type/active",
   hashPlace: 1187,
   createdAt: "2026-05-26T02:59:07.662Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.06402534 MaxStat + 0.67226607 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 15 seconds (Constant)",
+    "<<3>> = 30% (Constant)",
+    "<<4>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

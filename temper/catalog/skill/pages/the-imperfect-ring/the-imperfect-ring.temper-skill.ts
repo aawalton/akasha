@@ -20,5 +20,11 @@ export const theImperfectRing = {
   skillType: "temper-skill-type/active",
   hashPlace: 1336,
   createdAt: "2026-05-28T16:03:34.062Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0182227 MaxStat + 0.19082 MaxPower - 1.34458 (Ultimate, ratio = 10.47, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999996)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = Runebreak (Constant)",
+    "<<4>> = 0.12 MaxStat + 1.26 MaxPower (Ultimate, ratio = 10.50, Dmg, Frost, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

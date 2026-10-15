@@ -21,5 +21,6 @@ export const spellRecharge = {
   status: "unsupported",
   hashPlace: 1248,
   createdAt: "2026-05-26T03:18:02.208Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 625 (Constant)", "<<2>> = 5% (Constant)"],
 } as const satisfies TemperSkill

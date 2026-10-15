@@ -20,5 +20,10 @@ export const shrewdOffering = {
   skillType: "temper-skill-type/active",
   hashPlace: 1177,
   createdAt: "2026-05-26T03:13:12.497Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 810 (Constant)",
+    "<<3>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,14 @@ export const ritualOfRetribution22259 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1081,
   createdAt: "2026-05-28T16:03:33.602Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 2 (Constant)",
+    "<<2>> = 0.0187221 MaxStat + 0.197107 MaxPower + 0.0870345 (Ultimate, ratio = 10.53, Dmg, Magic, AOE, DOT, 2s tick, R2 = 0.999998)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 20 seconds (Constant)",
+    "<<5>> = 12% (Constant)",
+    "<<6>> = Purify (Constant)",
+    "<<7>> = 0.085 MaxStat + 0.8925 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

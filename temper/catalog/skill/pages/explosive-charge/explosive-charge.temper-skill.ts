@@ -20,5 +20,13 @@ export const explosiveCharge = {
   skillType: "temper-skill-type/active",
   hashPlace: 486,
   createdAt: "2026-05-26T03:13:12.317Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.080031675 MaxStat + 0.840333104 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 15 seconds (Constant)",
+    "<<3>> = 3 seconds (Constant)",
+    "<<4>> = Major Protection (Constant)",
+    "<<5>> = 15 seconds (Constant)",
+    "<<6>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -22,5 +22,11 @@ export const triFocus = {
   effects: "jsonl",
   hashPlace: 1365,
   createdAt: "2026-05-26T02:38:38.363Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0199778 MaxStat + 0.210472 MaxPower - 1.95606 (Ultimate, ratio = 10.54, Dmg, Flame, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999993)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = 100% (Constant)",
+    "<<4>> = 0.33 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,10 @@ export const tidalChakram = {
   skillType: "temper-skill-type/active",
   hashPlace: 1345,
   createdAt: "2026-05-26T03:13:12.531Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.264097 MaxStat - 0.0003229 MaxPower + 0.199552 (Ultimate, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

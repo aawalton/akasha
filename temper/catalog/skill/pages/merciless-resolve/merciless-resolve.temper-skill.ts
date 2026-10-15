@@ -21,5 +21,14 @@ export const mercilessResolve = {
   effects: "jsonl",
   hashPlace: 819,
   createdAt: "2026-05-26T03:13:12.399Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Savagery (Constant)",
+    "<<2>> = 12% (Constant)",
+    "<<3>> = Merciless Resolve (Constant)",
+    "<<4>> = 10 (Constant)",
+    "<<5>> = 5 (Constant)",
+    "<<6>> = 0.211283622 MaxStat + 2.21848113 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+    "<<7>> = 50% (Constant)",
+  ],
 } as const satisfies TemperSkill

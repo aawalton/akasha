@@ -20,5 +20,12 @@ export const elementalRage = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 405,
   createdAt: "2026-05-26T02:38:38.315Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.10004605 MaxStat + 1.0504577 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, AOE, DOT, 1s tick, R2 = 1)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 7 seconds (Constant)",
+    "<<4>> = 15% (Constant)",
+    "<<5>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

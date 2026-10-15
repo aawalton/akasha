@@ -20,5 +20,6 @@ export const vengeanceAspectOfTerror = {
   skillType: "temper-skill-type/active",
   hashPlace: 1413,
   createdAt: "2026-05-28T16:03:34.197Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 6 (Constant)", "<<2>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

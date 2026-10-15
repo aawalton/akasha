@@ -20,5 +20,12 @@ export const manifestationOfTerror37475 = {
   skillType: "temper-skill-type/active",
   hashPlace: 800,
   createdAt: "2026-05-28T16:03:33.075Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 20 seconds (Constant)",
+    "<<2>> = 2 seconds (Constant)",
+    "<<3>> = Major Cowardice (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = 430 (Constant)",
+  ],
 } as const satisfies TemperSkill

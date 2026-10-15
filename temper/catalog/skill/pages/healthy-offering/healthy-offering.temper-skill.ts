@@ -20,5 +20,12 @@ export const healthyOffering = {
   skillType: "temper-skill-type/active",
   hashPlace: 615,
   createdAt: "2026-05-26T03:13:12.353Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.16006335 MaxStat + 1.68067034 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 1080 (Constant)",
+    "<<3>> = 3 seconds (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = 8% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -22,5 +22,6 @@ export const absorb = {
   effects: "jsonl",
   hashPlace: 2,
   createdAt: "2026-05-26T02:38:38.281Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 600 (Constant)"],
 } as const satisfies TemperSkill

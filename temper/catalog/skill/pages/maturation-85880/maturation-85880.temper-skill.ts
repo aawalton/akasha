@@ -20,5 +20,6 @@ export const maturation85880 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 810,
   createdAt: "2026-05-28T16:03:33.094Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 10% (Constant)", "<<2>> = 10 seconds (Constant)"],
 } as const satisfies TemperSkill

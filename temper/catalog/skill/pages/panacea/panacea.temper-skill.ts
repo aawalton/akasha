@@ -20,5 +20,10 @@ export const panacea = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 873,
   createdAt: "2026-05-28T16:03:33.214Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.125 MaxStat + 1.3125 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

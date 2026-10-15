@@ -20,5 +20,11 @@ export const writhingRuneblades185803 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1631,
   createdAt: "2026-05-28T16:03:34.536Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.03099 MaxStat + 0.325395 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 1095 (Constant)",
+    "<<3>> = 2191 (Constant)",
+    "<<4>> = 3% (Constant)",
+  ],
 } as const satisfies TemperSkill

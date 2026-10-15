@@ -20,5 +20,15 @@ export const channeledFocus = {
   skillType: "temper-skill-type/active",
   hashPlace: 204,
   createdAt: "2026-05-26T03:13:12.218Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Resolve (Constant)",
+    "<<2>> = 25 seconds (Constant)",
+    "<<3>> = 5948 (Constant)",
+    "<<4>> = 242 (Constant)",
+    "<<5>> = 1 second (Constant)",
+    "<<6>> = 0.02 Health (Health, Heal, SingleTarget, DOT, 22s duration, 1s tick, R2 = 1)",
+    "<<7>> = 1 second (Constant)",
+    "<<8>> = 200% (Constant)",
+  ],
 } as const satisfies TemperSkill

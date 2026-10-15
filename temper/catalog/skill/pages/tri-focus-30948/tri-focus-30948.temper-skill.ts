@@ -20,5 +20,11 @@ export const triFocus30948 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1366,
   createdAt: "2026-05-28T16:03:34.114Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.00993331 MaxStat + 0.105701 MaxPower - 1.66006 (Ultimate, ratio = 10.64, Dmg, Flame, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999981)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = 50% (Constant)",
+    "<<4>> = 0.165 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

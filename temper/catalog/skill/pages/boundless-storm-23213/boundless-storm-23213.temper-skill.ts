@@ -20,5 +20,13 @@ export const boundlessStorm23213 = {
   skillType: "temper-skill-type/active",
   hashPlace: 158,
   createdAt: "2026-05-28T16:03:31.843Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.02066 MaxStat + 0.21693 MaxPower (Ultimate, ratio = 10.50, Dmg, Shock, AOE, DOT, 2s tick, R2 = 1)",
+    "<<2>> = 2 seconds (Constant)",
+    "<<3>> = 27 seconds (Constant)",
+    "<<4>> = 5948 (Constant)",
+    "<<5>> = 30% (Constant)",
+    "<<6>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,13 @@ export const extendedRitual = {
   skillType: "temper-skill-type/active",
   hashPlace: 491,
   createdAt: "2026-05-26T03:13:12.319Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 5 (Constant)",
+    "<<2>> = 0.0375577 MaxStat + 0.394411 MaxPower - 1.12337 (Ultimate, ratio = 10.50, Heal, AOE, Direct, 2s tick, R2 = 0.999999)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 30 seconds (Constant)",
+    "<<5>> = Purify (Constant)",
+    "<<6>> = 0.085 MaxStat + 0.8925 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

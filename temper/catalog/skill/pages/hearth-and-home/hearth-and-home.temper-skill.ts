@@ -20,5 +20,17 @@ export const hearthAndHome = {
   skillType: "temper-skill-type/active",
   hashPlace: 619,
   createdAt: "2026-05-28T16:03:32.731Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 15 seconds (Constant)",
+    "<<2>> = 0.038793 Health - 1.68846 (Health, Heal, AOE, Direct, 1s tick, R2 = 0.999997)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = Minor Fortitude (Constant)",
+    "<<5>> = Minor Heroism (Constant)",
+    "<<6>> = 15% (Constant)",
+    "<<7>> = 1 (Constant)",
+    "<<8>> = Major Protection (Constant)",
+    "<<9>> = 10% (Constant)",
+    "<<10>> = 70% (Constant)",
+  ],
 } as const satisfies TemperSkill

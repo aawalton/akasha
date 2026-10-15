@@ -20,5 +20,10 @@ export const steadfastWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1270,
   createdAt: "2026-05-28T16:03:33.943Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 100 (Constant)",
+  ],
 } as const satisfies TemperSkill

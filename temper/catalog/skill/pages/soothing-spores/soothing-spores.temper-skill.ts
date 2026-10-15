@@ -20,5 +20,9 @@ export const soothingSpores = {
   skillType: "temper-skill-type/active",
   hashPlace: 1220,
   createdAt: "2026-05-26T03:13:12.504Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.120048029 MaxStat + 1.26049759 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, AOE, Direct, R2 = 1)",
+    "<<2>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

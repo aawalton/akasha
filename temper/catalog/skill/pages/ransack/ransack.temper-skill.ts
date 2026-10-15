@@ -20,5 +20,15 @@ export const ransack = {
   skillType: "temper-skill-type/active",
   hashPlace: 974,
   createdAt: "2026-05-26T02:38:38.345Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05335445 MaxStat + 0.560221725 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 15 seconds (Constant)",
+    "<<3>> = Major Breach (Constant)",
+    "<<4>> = 5948 (Constant)",
+    "<<5>> = 15 seconds (Constant)",
+    "<<6>> = Minor Protection (Constant)",
+    "<<7>> = 5% (Constant)",
+    "<<8>> = 15 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

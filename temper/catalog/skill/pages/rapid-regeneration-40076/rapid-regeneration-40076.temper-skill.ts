@@ -20,5 +20,9 @@ export const rapidRegeneration40076 = {
   skillType: "temper-skill-type/active",
   hashPlace: 980,
   createdAt: "2026-05-28T16:03:33.417Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.025825 MaxStat + 0.271163 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, DOT, 5s duration, 1s tick, R2 = 1)",
+    "<<2>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

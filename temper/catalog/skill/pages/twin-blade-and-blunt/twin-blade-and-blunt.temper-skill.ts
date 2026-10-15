@@ -22,5 +22,6 @@ export const twinBladeAndBlunt = {
   effects: "jsonl",
   hashPlace: 1371,
   createdAt: "2026-05-26T02:38:38.364Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 6% (Constant)", "<<2>> = 1487 (Constant)", "<<3>> = 129 (Constant)"],
 } as const satisfies TemperSkill

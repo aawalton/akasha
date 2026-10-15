@@ -20,5 +20,13 @@ export const summonTwilightTormentor = {
   skillType: "temper-skill-type/active",
   hashPlace: 1293,
   createdAt: "2026-05-26T03:13:12.519Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.02134178 MaxStat + 0.22408869 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Shock, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.02134178 MaxStat + 0.22408869 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Shock, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<3>> = 2700 (Constant)",
+    "<<4>> = 60% (Constant)",
+    "<<5>> = 50% (Constant)",
+    "<<6>> = 20 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

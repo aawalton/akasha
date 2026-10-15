@@ -20,5 +20,11 @@ export const retreatingManeuver40211 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1060,
   createdAt: "2026-05-28T16:03:33.561Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Expedition (Constant)",
+    "<<2>> = 30% (Constant)",
+    "<<3>> = 8 seconds (Constant)",
+    "<<4>> = 12% (Constant)",
+  ],
 } as const satisfies TemperSkill

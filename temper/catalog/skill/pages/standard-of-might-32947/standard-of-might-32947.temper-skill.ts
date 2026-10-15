@@ -20,5 +20,14 @@ export const standardOfMight32947 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1269,
   createdAt: "2026-05-28T16:03:33.941Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 15 seconds (Constant)",
+    "<<2>> = 300 (Constant)",
+    "<<3>> = 10% (Constant)",
+    "<<4>> = 15% (Constant)",
+    "<<5>> = Shackle (Constant)",
+    "<<6>> = 0.15 MaxStat + 1.575 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+    "<<7>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

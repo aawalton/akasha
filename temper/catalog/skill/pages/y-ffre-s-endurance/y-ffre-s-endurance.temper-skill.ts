@@ -19,5 +19,6 @@ export const yFfreSEndurance = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1632,
   createdAt: "2026-05-28T16:03:34.537Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 86 (Constant)"],
 } as const satisfies TemperSkill

@@ -20,5 +20,13 @@ export const powerOfTheLight21763 = {
   skillType: "temper-skill-type/active",
   hashPlace: 912,
   createdAt: "2026-05-28T16:03:33.287Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.051612 MaxStat + 0.542543 MaxPower - 0.879855 (Ultimate, ratio = 10.51, Dmg, Physical, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 0.0571312 MaxStat + 0.600358 MaxPower - 1.05682 (Ultimate, ratio = 10.51, Dmg, Physical, SingleTarget, Direct, R2 = 0.999999)",
+    "<<4>> = 200% (Constant)",
+    "<<5>> = Power of the Light (Constant)",
+    "<<6>> = Sundered (Constant)",
+  ],
 } as const satisfies TemperSkill

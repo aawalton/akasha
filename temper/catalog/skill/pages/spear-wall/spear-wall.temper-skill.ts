@@ -21,5 +21,11 @@ export const spearWall = {
   status: "unsupported",
   hashPlace: 1242,
   createdAt: "2026-05-26T03:13:12.510Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Berserk (Constant)",
+    "<<2>> = Minor Protection (Constant)",
+    "<<3>> = 6 seconds (Constant)",
+    "<<4>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

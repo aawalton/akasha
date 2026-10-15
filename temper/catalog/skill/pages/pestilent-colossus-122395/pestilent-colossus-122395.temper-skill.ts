@@ -20,5 +20,13 @@ export const pestilentColossus122395 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 887,
   createdAt: "2026-05-28T16:03:33.238Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3 seconds (Constant)",
+    "<<2>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Disease, AOE, Direct, R2 = 1)",
+    "<<3>> = 0.170445 MaxStat + 1.78967 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Disease, AOE, Direct, R2 = 1)",
+    "<<4>> = 0.187489 MaxStat + 1.96864 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Disease, AOE, Direct, R2 = 1)",
+    "<<5>> = 12 seconds (Constant)",
+    "<<6>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

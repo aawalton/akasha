@@ -20,5 +20,12 @@ export const hiddenBlade = {
   skillType: "temper-skill-type/active",
   hashPlace: 631,
   createdAt: "2026-05-28T16:03:32.757Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.06 MaxStat + 0.63 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = Major Brutality (Constant)",
+    "<<3>> = 20% (Constant)",
+    "<<4>> = 20 seconds (Constant)",
+    "<<5>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

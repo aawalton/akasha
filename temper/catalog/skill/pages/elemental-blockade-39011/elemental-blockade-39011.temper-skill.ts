@@ -20,5 +20,9 @@ export const elementalBlockade39011 = {
   skillType: "temper-skill-type/active",
   hashPlace: 400,
   createdAt: "2026-05-28T16:03:32.239Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.012521 MaxStat + 0.131473 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, DOT, 12s duration, 1s tick, R2 = 1)",
+    "<<2>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

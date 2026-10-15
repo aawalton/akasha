@@ -20,5 +20,14 @@ export const powerExtraction = {
   skillType: "temper-skill-type/active",
   hashPlace: 909,
   createdAt: "2026-05-26T03:13:12.424Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, Dmg, Disease, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 20% (Constant)",
+    "<<3>> = 215 (Constant)",
+    "<<4>> = 30 seconds (Constant)",
+    "<<5>> = Minor Cowardice (Constant)",
+    "<<6>> = 10 seconds (Constant)",
+    "<<7>> = 215 (Constant)",
+  ],
 } as const satisfies TemperSkill

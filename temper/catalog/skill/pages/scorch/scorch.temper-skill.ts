@@ -20,5 +20,11 @@ export const scorch = {
   skillType: "temper-skill-type/active",
   hashPlace: 1138,
   createdAt: "2026-05-28T16:03:33.699Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3 seconds (Constant)",
+    "<<2>> = 0.108 MaxStat + 1.134 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<3>> = 6 seconds (Constant)",
+    "<<4>> = 0.15 MaxStat + 1.575 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

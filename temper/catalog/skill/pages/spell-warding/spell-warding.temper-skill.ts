@@ -22,5 +22,9 @@ export const spellWarding = {
   effects: "jsonl",
   hashPlace: 1254,
   createdAt: "2026-05-26T02:59:07.672Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 726 (Constant)",
+    "<<2>> = 726 LightArmor (Light Armor, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

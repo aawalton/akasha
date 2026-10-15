@@ -20,5 +20,13 @@ export const summonVolatileFamiliar = {
   skillType: "temper-skill-type/active",
   hashPlace: 1298,
   createdAt: "2026-05-26T03:13:12.521Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.016006335 MaxStat + 0.168066001 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Shock, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 3510 (Constant)",
+    "<<3>> = 0.019401806 MaxStat + 0.20371793 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Shock, AOE, DOT, 2s tick, R2 = 1)",
+    "<<4>> = 2 seconds (Constant)",
+    "<<5>> = 20 seconds (Constant)",
+    "<<6>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

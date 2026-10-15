@@ -20,5 +20,11 @@ export const stampede = {
   skillType: "temper-skill-type/active",
   hashPlace: 1267,
   createdAt: "2026-05-26T02:38:38.359Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.0143179 MaxStat + 0.148786 MaxPower - 1.73648 (Ultimate, ratio = 10.39, Dmg, Physical, AOE, DOT, 1s tick, R2 = 0.999975)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 15 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

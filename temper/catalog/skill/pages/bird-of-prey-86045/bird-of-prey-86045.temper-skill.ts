@@ -20,5 +20,12 @@ export const birdOfPrey86045 = {
   skillType: "temper-skill-type/active",
   hashPlace: 95,
   createdAt: "2026-05-28T16:03:31.727Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 30% (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+    "<<4>> = Minor Berserk (Constant)",
+    "<<5>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -21,5 +21,6 @@ export const robustness = {
   effects: "jsonl",
   hashPlace: 1083,
   createdAt: "2026-05-26T03:18:02.203Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 90 (Constant)"],
 } as const satisfies TemperSkill

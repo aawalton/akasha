@@ -20,5 +20,16 @@ export const agonyTotem118404 = {
   skillType: "temper-skill-type/active",
   hashPlace: 27,
   createdAt: "2026-05-28T16:03:31.620Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 11 seconds (Constant)",
+    "<<2>> = Minor Protection (Constant)",
+    "<<3>> = 5% (Constant)",
+    "<<4>> = Major Cowardice (Constant)",
+    "<<5>> = 2 seconds (Constant)",
+    "<<6>> = 4 seconds (Constant)",
+    "<<7>> = Pure Agony (Constant)",
+    "<<8>> = 0.00283665 MaxStat + 0.315335 MaxPower + 0.85685 (Ultimate, ratio = 111.16, Dmg, Magic, AOE, DOT, 5s duration, 1s tick, R2 = 0.999996)",
+    "<<9>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,14 @@ export const pierceArmor = {
   skillType: "temper-skill-type/active",
   hashPlace: 891,
   createdAt: "2026-05-26T02:38:38.338Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05335445 MaxStat + 0.560221725 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 15 seconds (Constant)",
+    "<<3>> = Minor Breach (Constant)",
+    "<<4>> = Major Breach (Constant)",
+    "<<5>> = 2974 (Constant)",
+    "<<6>> = 5948 (Constant)",
+    "<<7>> = 15 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

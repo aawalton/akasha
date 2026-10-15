@@ -20,5 +20,12 @@ export const enchantedForest = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 426,
   createdAt: "2026-05-26T03:13:12.292Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.12805068 MaxStat + 1.34453214 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, AOE, Direct, R2 = 1)",
+    "<<2>> = 0.04268356 MaxStat + 0.44817738 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, AOE, Direct, 1s tick, R2 = 1)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 6 seconds (Constant)",
+    "<<5>> = 20 (Constant)",
+  ],
 } as const satisfies TemperSkill

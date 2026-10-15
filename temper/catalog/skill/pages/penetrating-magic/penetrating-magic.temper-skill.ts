@@ -21,5 +21,6 @@ export const penetratingMagic = {
   effects: "jsonl",
   hashPlace: 877,
   createdAt: "2026-05-26T02:38:38.337Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 2974 (Constant)"],
 } as const satisfies TemperSkill

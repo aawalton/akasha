@@ -22,5 +22,11 @@ export const evocation = {
   effects: "jsonl",
   hashPlace: 466,
   createdAt: "2026-05-26T02:59:07.580Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 4% (Constant)",
+    "<<2>> = 4 LightArmor (Light Armor, SingleTarget, Direct, R2 = 1)",
+    "<<3>> = 2% (Constant)",
+    "<<4>> = 2 LightArmor (Light Armor, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

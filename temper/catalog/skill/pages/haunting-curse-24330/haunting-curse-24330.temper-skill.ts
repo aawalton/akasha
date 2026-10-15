@@ -20,5 +20,11 @@ export const hauntingCurse24330 = {
   skillType: "temper-skill-type/active",
   hashPlace: 600,
   createdAt: "2026-05-28T16:03:32.700Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.129135 MaxStat + 1.356 MaxPower - 1.37071 (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 3.5 seconds (Constant)",
+    "<<3>> = 8.5 seconds (Constant)",
+    "<<4>> = Haunting Curse (Constant)",
+  ],
 } as const satisfies TemperSkill

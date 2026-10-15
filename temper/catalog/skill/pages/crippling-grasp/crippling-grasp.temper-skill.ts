@@ -20,5 +20,13 @@ export const cripplingGrasp = {
   skillType: "temper-skill-type/active",
   hashPlace: 260,
   createdAt: "2026-05-26T03:13:12.229Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0533085 MaxStat + 0.56047 MaxPower - 1.35721 (Ultimate, ratio = 10.51, Dmg, Magic, SingleTarget, Direct, R2 = 0.999999)",
+    "<<2>> = 0.0193549 MaxStat + 0.203761 MaxPower - 1.01347 (Ultimate, ratio = 10.53, Dmg, Magic, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999997)",
+    "<<3>> = 20 seconds (Constant)",
+    "<<4>> = 2 seconds (Constant)",
+    "<<5>> = 30% (Constant)",
+    "<<6>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,9 @@ export const surpriseAttack = {
   skillType: "temper-skill-type/active",
   hashPlace: 1309,
   createdAt: "2026-05-26T03:13:12.525Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.1067089 MaxStat + 1.12044345 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

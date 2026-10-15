@@ -20,5 +20,11 @@ export const savageStrength32638 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1132,
   createdAt: "2026-05-28T16:03:33.688Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10% (Constant)",
+    "<<2>> = 5% (Constant)",
+    "<<3>> = Major Resolve (Constant)",
+    "<<4>> = 5948 (Constant)",
+  ],
 } as const satisfies TemperSkill

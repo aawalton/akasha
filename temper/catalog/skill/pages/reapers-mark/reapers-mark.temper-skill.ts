@@ -20,5 +20,13 @@ export const reapersMark = {
   skillType: "temper-skill-type/active",
   hashPlace: 993,
   createdAt: "2026-05-26T03:13:12.446Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Breach (Constant)",
+    "<<2>> = 5948 (Constant)",
+    "<<3>> = 20 seconds (Constant)",
+    "<<4>> = 10% (Constant)",
+    "<<5>> = 10 seconds (Constant)",
+    "<<6>> = Reaper's Mark (Constant)",
+  ],
 } as const satisfies TemperSkill

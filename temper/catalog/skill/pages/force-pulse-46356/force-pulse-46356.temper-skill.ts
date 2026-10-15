@@ -20,5 +20,11 @@ export const forcePulse46356 = {
   skillType: "temper-skill-type/active",
   hashPlace: 532,
   createdAt: "2026-05-28T16:03:32.519Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.03099 MaxStat + 0.325395 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.0310259 MaxStat + 0.325425 MaxPower - 1.91657 (Ultimate, ratio = 10.49, Dmg, Frost, SingleTarget, Direct, R2 = 0.999998)",
+    "<<3>> = 0.0310259 MaxStat + 0.325425 MaxPower - 1.91657 (Ultimate, ratio = 10.49, Dmg, Shock, SingleTarget, Direct, R2 = 0.999998)",
+    "<<4>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

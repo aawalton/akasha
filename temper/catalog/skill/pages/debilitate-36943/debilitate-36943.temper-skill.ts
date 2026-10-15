@@ -20,5 +20,11 @@ export const debilitate36943 = {
   skillType: "temper-skill-type/active",
   hashPlace: 336,
   createdAt: "2026-05-28T16:03:32.130Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0187221 MaxStat + 0.197106 MaxPower + 0.0870345 (Ultimate, ratio = 10.53, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999998)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = 50% (Constant)",
+    "<<4>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

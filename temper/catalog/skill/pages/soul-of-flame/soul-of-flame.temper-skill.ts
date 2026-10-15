@@ -20,5 +20,12 @@ export const soulOfFlame = {
   skillType: "temper-skill-type/active",
   hashPlace: 1227,
   createdAt: "2026-05-28T16:03:33.864Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 12% (Constant)",
+    "<<2>> = 2 seconds (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+    "<<4>> = 2 seconds (Constant)",
+    "<<5>> = 0.118795 MaxStat + 1.24735 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

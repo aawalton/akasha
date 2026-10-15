@@ -20,5 +20,12 @@ export const elderDragon29460 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 398,
   createdAt: "2026-05-28T16:03:32.236Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Brutality (Constant)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = 10% (Constant)",
+    "<<4>> = 350 (Constant)",
+    "<<5>> = 20 DraconicPower (Draconic Power Skills Slotted, Dmg, Generic, SingleTarget, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

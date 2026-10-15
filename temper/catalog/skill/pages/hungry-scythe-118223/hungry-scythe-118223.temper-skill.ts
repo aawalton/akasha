@@ -20,5 +20,13 @@ export const hungryScythe118223 = {
   skillType: "temper-skill-type/active",
   hashPlace: 643,
   createdAt: "2026-05-28T16:03:32.783Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.15 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<3>> = 0.05 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<4>> = 0.0620055 Health - 1.07672 (Health, Heal, SingleTarget, DOT, 8s duration, 2s tick, R2 = 0.999999)",
+    "<<5>> = 2 seconds (Constant)",
+    "<<6>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

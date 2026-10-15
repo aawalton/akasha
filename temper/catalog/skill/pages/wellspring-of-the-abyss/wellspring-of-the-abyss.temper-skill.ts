@@ -22,5 +22,9 @@ export const wellspringOfTheAbyss = {
   effects: "jsonl",
   hashPlace: 1612,
   createdAt: "2026-05-26T03:13:12.553Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 81 (Constant)",
+    "<<2>> = 81 SoldierofApocrypha (Soldier of Apocrypha Skills Slotted, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

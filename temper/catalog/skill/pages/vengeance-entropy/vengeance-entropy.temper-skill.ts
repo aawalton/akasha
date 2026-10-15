@@ -20,5 +20,6 @@ export const vengeanceEntropy = {
   skillType: "temper-skill-type/active",
   hashPlace: 1464,
   createdAt: "2026-05-28T16:03:34.271Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 16800 Magic Damage (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

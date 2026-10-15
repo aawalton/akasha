@@ -20,5 +20,13 @@ export const strife = {
   skillType: "temper-skill-type/active",
   hashPlace: 1277,
   createdAt: "2026-05-28T16:03:33.956Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0903776 MaxStat + 0.945428 MaxPower - 22.9602 (Ultimate, ratio = 10.46, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, 0.5s duration, R2 = 0.991181)",
+    "<<2>> = 33 (Constant)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = 1% (Constant)",
+    "<<6>> = 2% (Constant)",
+  ],
 } as const satisfies TemperSkill

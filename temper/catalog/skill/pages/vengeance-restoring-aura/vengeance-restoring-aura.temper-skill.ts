@@ -20,5 +20,12 @@ export const vengeanceRestoringAura = {
   skillType: "temper-skill-type/active",
   hashPlace: 1535,
   createdAt: "2026-05-28T16:03:34.373Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Endurance (Constant)",
+    "<<2>> = Minor Fortitude (Constant)",
+    "<<3>> = Minor Intellect (Constant)",
+    "<<4>> = 20 seconds (Constant)",
+    "<<5>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

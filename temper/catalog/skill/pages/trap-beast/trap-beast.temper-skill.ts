@@ -20,5 +20,13 @@ export const trapBeast = {
   skillType: "temper-skill-type/active",
   hashPlace: 1362,
   createdAt: "2026-05-28T16:03:34.108Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 20 seconds (Constant)",
+    "<<2>> = 0.0499489 MaxStat + 0.524968 MaxPower - 0.306011 (Ultimate, ratio = 10.51, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 0.999999)",
+    "<<3>> = 0.015 MaxStat + 0.1575 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Bleed, SingleTarget, DOT, 18s duration, 2s tick, R2 = 1)",
+    "<<4>> = 20 seconds (Constant)",
+    "<<5>> = 10% (Constant)",
+    "<<6>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

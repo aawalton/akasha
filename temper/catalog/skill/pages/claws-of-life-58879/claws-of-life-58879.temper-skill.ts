@@ -20,5 +20,17 @@ export const clawsOfLife58879 = {
   skillType: "temper-skill-type/active",
   hashPlace: 218,
   createdAt: "2026-05-28T16:03:31.955Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 (Constant)",
+    "<<2>> = 0.100717 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Physical, AOE, Direct, Melee, R2 = 1)",
+    "<<3>> = 0.0403404 MaxStat + 0.325124 MaxPower - 1.3078 (Ultimate, ratio = 8.06, Dmg, Bleed, SingleTarget, DOT, 8s duration, 2s tick, R2 = 0.999999)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = 0.0403407 MaxStat + 0.325124 MaxPower - 1.3078 (Ultimate, ratio = 8.06, Dmg, Bleed, SingleTarget, DOT, 4s duration, 2s tick, R2 = 0.999999)",
+    "<<6>> = 6 seconds (Constant)",
+    "<<7>> = 40% (Constant)",
+    "<<8>> = 0.0620055 Health - 1.07672 (Health, Heal, SingleTarget, Direct, 2s tick, R2 = 0.999999)",
+    "<<9>> = 15% (Constant)",
+    "<<10>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

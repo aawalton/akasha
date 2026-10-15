@@ -22,5 +22,6 @@ export const lightArmorBonuses = {
   effects: "jsonl",
   hashPlace: 742,
   createdAt: "2026-05-26T02:59:07.617Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 1% (Constant)", "<<2>> = 3% (Constant)", "<<3>> = 5% (Constant)"],
 } as const satisfies TemperSkill

@@ -20,5 +20,6 @@ export const healthAvarice116269 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 614,
   createdAt: "2026-05-28T16:03:32.723Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 1 BoneTyrant (Bone Tyrant Skills Slotted, SingleTarget, Direct, R2 = 1)"],
 } as const satisfies TemperSkill

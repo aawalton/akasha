@@ -20,5 +20,17 @@ export const packLeader39075 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 870,
   createdAt: "2026-05-28T16:03:33.209Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3 seconds (Constant)",
+    "<<2>> = Major Protection (Constant)",
+    "<<3>> = 15% (Constant)",
+    "<<4>> = Minor Courage (Constant)",
+    "<<5>> = 0.005036 MaxStat + 0.040674 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, 0.3s cooldown, R2 = 1)",
+    "<<6>> = 0.026858 MaxStat + 0.21693 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, 1s cooldown, R2 = 1)",
+    "<<7>> = 2 seconds (Constant)",
+    "<<8>> = 1000 (Constant)",
+    "<<9>> = 4000 (Constant)",
+    "<<10>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

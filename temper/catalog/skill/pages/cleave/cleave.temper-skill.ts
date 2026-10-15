@@ -20,5 +20,10 @@ export const cleave = {
   skillType: "temper-skill-type/active",
   hashPlace: 222,
   createdAt: "2026-05-28T16:03:31.960Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.075 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.0749181 MaxStat + 0.787428 MaxPower + 0.553891 (Ultimate, ratio = 10.51, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<3>> = 6 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

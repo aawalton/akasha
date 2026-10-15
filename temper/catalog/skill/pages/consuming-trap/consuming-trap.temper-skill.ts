@@ -20,5 +20,12 @@ export const consumingTrap = {
   skillType: "temper-skill-type/active",
   hashPlace: 244,
   createdAt: "2026-05-26T03:25:55.745Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.00779125 Magicka + 0.24511 SD + 62.2075 (Magicka, ratio = 31.46, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.942425)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = -0.0239113 Magicka + 0.0687877 SD + 3627.85 (Magicka, ratio = -2.88, Heal, SingleTarget, Direct, R2 = 0.0076835)",
+    "<<4>> = -0.0078336 Health + 2704.76 (Health, SingleTarget, Direct, R2 = 0.0027372)",
+    "<<5>> = 0.2 Stamina (Stamina, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

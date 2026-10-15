@@ -20,5 +20,12 @@ export const hurricane = {
   skillType: "temper-skill-type/active",
   hashPlace: 646,
   createdAt: "2026-05-26T03:13:12.361Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.02134178 MaxStat + 0.22408869 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, AOE, DOT, 2s tick, R2 = 1)",
+    "<<2>> = 2 seconds (Constant)",
+    "<<3>> = 20 seconds (Constant)",
+    "<<4>> = 5948 (Constant)",
+    "<<5>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

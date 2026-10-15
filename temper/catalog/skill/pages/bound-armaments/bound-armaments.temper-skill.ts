@@ -21,5 +21,15 @@ export const boundArmaments = {
   effects: "jsonl",
   hashPlace: 154,
   createdAt: "2026-05-26T03:13:12.195Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Savagery (Constant)",
+    "<<2>> = 12% (Constant)",
+    "<<3>> = Bound Armaments (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = 8 (Constant)",
+    "<<6>> = 4 (Constant)",
+    "<<7>> = 0.0384115 MaxStat + 0.403292 MaxPower - 1.1737 (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, R2 = 0.999998)",
+    "<<8>> = 0.3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

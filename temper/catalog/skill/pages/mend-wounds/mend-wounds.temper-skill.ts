@@ -20,5 +20,11 @@ export const mendWounds = {
   skillType: "temper-skill-type/active",
   hashPlace: 816,
   createdAt: "2026-05-28T16:03:33.105Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0405 MaxStat + 0.42525 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.036 MaxStat + 0.378 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, DOT, 3600s duration, 1s tick, R2 = 1)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 1155 (Constant)",
+  ],
 } as const satisfies TemperSkill

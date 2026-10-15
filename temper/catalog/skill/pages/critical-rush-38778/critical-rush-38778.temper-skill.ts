@@ -20,5 +20,9 @@ export const criticalRush38778 = {
   skillType: "temper-skill-type/active",
   hashPlace: 264,
   createdAt: "2026-05-28T16:03:32.025Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 50% (Constant)",
+  ],
 } as const satisfies TemperSkill

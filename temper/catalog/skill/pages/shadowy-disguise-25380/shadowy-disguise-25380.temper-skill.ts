@@ -20,5 +20,13 @@ export const shadowyDisguise25380 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1157,
   createdAt: "2026-05-28T16:03:33.734Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Shadowy Disguise (Constant)",
+    "<<2>> = Born From Shadow (Constant)",
+    "<<3>> = 15 seconds (Constant)",
+    "<<4>> = 15% (Constant)",
+    "<<5>> = Minor Protection (Constant)",
+    "<<6>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

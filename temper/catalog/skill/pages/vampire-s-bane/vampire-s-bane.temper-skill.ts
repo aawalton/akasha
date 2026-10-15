@@ -20,5 +20,13 @@ export const vampireSBane = {
   skillType: "temper-skill-type/active",
   hashPlace: 1400,
   createdAt: "2026-05-28T16:03:34.177Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.0156088 MaxStat + 0.162726 MaxPower - 2.99951 (Ultimate, ratio = 10.43, Dmg, Flame, SingleTarget, DOT, 28s duration, 2s tick, R2 = 0.999995)",
+    "<<3>> = 30 seconds (Constant)",
+    "<<4>> = Major Savagery (Constant)",
+    "<<5>> = 30 seconds (Constant)",
+    "<<6>> = 12% (Constant)",
+  ],
 } as const satisfies TemperSkill

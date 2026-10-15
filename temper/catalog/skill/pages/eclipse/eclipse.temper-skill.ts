@@ -20,5 +20,13 @@ export const eclipse = {
   skillType: "temper-skill-type/active",
   hashPlace: 395,
   createdAt: "2026-05-28T16:03:32.228Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 4 seconds (Constant)",
+    "<<2>> = 30% (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+    "<<4>> = 3 seconds (Constant)",
+    "<<5>> = 3 seconds (Constant)",
+    "<<6>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

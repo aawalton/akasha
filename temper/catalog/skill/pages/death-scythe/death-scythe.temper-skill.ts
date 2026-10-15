@@ -20,5 +20,10 @@ export const deathScythe = {
   skillType: "temper-skill-type/active",
   hashPlace: 333,
   createdAt: "2026-05-28T16:03:32.126Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.075 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.15 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<3>> = 0.05 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

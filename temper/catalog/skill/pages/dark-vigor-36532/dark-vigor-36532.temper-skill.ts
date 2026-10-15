@@ -20,5 +20,9 @@ export const darkVigor36532 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 318,
   createdAt: "2026-05-28T16:03:32.101Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 2% (Constant)",
+    "<<2>> = 2 Shadow (Shadow Skills Slotted, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

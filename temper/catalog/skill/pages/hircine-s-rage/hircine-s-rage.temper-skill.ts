@@ -20,5 +20,16 @@ export const hircineSRage = {
   skillType: "temper-skill-type/active",
   hashPlace: 637,
   createdAt: "2026-05-28T16:03:32.766Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.167863 MaxStat + 1.35581 MaxPower (Ultimate, ratio = 8.08, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 12% (Constant)",
+    "<<3>> = 17 seconds (Constant)",
+    "<<4>> = -0.0001973 Health + 15.2844 (Health, Dmg, Generic, SingleTarget, Direct, Melee, 17s duration, R2 = 0.5958)",
+    "<<5>> = 10% (Constant)",
+    "<<6>> = 100% (Constant)",
+    "<<7>> = 0.1 Stamina (Stamina, Dmg, Generic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<8>> = Major Brutality (Constant)",
+    "<<9>> = Minor Berserk (Constant)",
+  ],
 } as const satisfies TemperSkill

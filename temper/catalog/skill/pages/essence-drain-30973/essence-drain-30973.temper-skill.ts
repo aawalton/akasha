@@ -20,5 +20,6 @@ export const essenceDrain30973 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 455,
   createdAt: "2026-05-28T16:03:32.384Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 2 seconds (Constant)", "<<2>> = 16% (Constant)", "<<3>> = 25 (Constant)"],
 } as const satisfies TemperSkill

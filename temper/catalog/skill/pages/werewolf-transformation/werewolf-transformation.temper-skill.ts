@@ -20,5 +20,15 @@ export const werewolfTransformation = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1615,
   createdAt: "2026-05-28T16:03:34.502Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3 seconds (Constant)",
+    "<<2>> = 15 (Constant)",
+    "<<3>> = 1000 (Constant)",
+    "<<4>> = Rampage (Constant)",
+    "<<5>> = 15% (Constant)",
+    "<<6>> = 20% (Constant)",
+    "<<7>> = 20 seconds (Constant)",
+    "<<8>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

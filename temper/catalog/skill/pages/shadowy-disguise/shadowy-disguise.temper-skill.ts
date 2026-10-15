@@ -21,5 +21,13 @@ export const shadowyDisguise = {
   effects: "jsonl",
   hashPlace: 1156,
   createdAt: "2026-05-26T03:13:12.490Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Shadowy Disguise (Constant)",
+    "<<2>> = Born From Shadow (Constant)",
+    "<<3>> = 15 seconds (Constant)",
+    "<<4>> = 15% (Constant)",
+    "<<5>> = Minor Protection (Constant)",
+    "<<6>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

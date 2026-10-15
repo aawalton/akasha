@@ -20,5 +20,6 @@ export const vengeancePanacea = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1518,
   createdAt: "2026-05-28T16:03:34.348Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 6 (Constant)", "<<2>> = 13125 (Constant)"],
 } as const satisfies TemperSkill

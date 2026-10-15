@@ -20,5 +20,15 @@ export const howlOfAgony58798 = {
   skillType: "temper-skill-type/active",
   hashPlace: 640,
   createdAt: "2026-05-28T16:03:32.776Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.067145 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 8.08, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.0670852 MaxStat + 0.542535 MaxPower - 0.593525 (Ultimate, ratio = 8.09, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<3>> = Blood Hunger (Constant)",
+    "<<4>> = 25% (Constant)",
+    "<<5>> = 50% (Constant)",
+    "<<6>> = 200 (Constant)",
+    "<<7>> = 25 (Constant)",
+    "<<8>> = Hemorrhaging (Constant)",
+  ],
 } as const satisfies TemperSkill

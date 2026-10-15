@@ -20,5 +20,10 @@ export const proximityDetonation61500 = {
   skillType: "temper-skill-type/active",
   hashPlace: 936,
   createdAt: "2026-05-28T16:03:33.330Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 8 seconds (Constant)",
+    "<<2>> = 0.019369 MaxStat + 0.203372 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<3>> = 100% (Constant)",
+  ],
 } as const satisfies TemperSkill

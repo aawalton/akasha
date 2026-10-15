@@ -20,5 +20,8 @@ export const arrowSpray = {
   skillType: "temper-skill-type/active",
   hashPlace: 50,
   createdAt: "2026-05-28T16:03:31.652Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.075 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, AOE, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

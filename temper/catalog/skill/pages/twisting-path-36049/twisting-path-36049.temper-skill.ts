@@ -20,5 +20,12 @@ export const twistingPath36049 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1375,
   createdAt: "2026-05-28T16:03:34.129Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10 seconds (Constant)",
+    "<<2>> = 30% (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+    "<<4>> = 0.0162307 MaxStat + 0.171281 MaxPower - 0.899047 (Ultimate, ratio = 10.55, Dmg, Magic, AOE, DOT, 1s tick, R2 = 0.999997)",
+    "<<5>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

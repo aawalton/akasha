@@ -20,5 +20,13 @@ export const thriveInChaos85179 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1344,
   createdAt: "2026-05-28T16:03:34.075Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0620436 MaxStat + 0.650882 MaxPower - 2.37418 (Ultimate, ratio = 10.49, Dmg, Bleed, SingleTarget, DOT, 8s duration, 2s tick, R2 = 1)",
+    "<<2>> = 8 seconds (Constant)",
+    "<<3>> = 50% (Constant)",
+    "<<4>> = 3 (Constant)",
+    "<<5>> = 15 seconds (Constant)",
+    "<<6>> = Hemorrhaging (Constant)",
+  ],
 } as const satisfies TemperSkill

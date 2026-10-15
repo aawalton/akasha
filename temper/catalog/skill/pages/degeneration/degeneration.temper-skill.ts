@@ -20,5 +20,12 @@ export const degeneration = {
   skillType: "temper-skill-type/active",
   hashPlace: 352,
   createdAt: "2026-05-26T02:59:07.570Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0187221 MaxStat + 0.197106 MaxPower + 0.0870345 (Ultimate, ratio = 10.53, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999998)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = Major Brutality (Constant)",
+    "<<4>> = 20% (Constant)",
+    "<<5>> = 20 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

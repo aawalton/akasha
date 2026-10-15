@@ -20,5 +20,6 @@ export const vengeanceDragonLeap = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1455,
   createdAt: "2026-05-28T16:03:34.258Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 18112 Physical Damage (Constant)", "<<2>> = 12 (Constant)"],
 } as const satisfies TemperSkill

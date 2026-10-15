@@ -20,5 +20,11 @@ export const abyssalImpact = {
   skillType: "temper-skill-type/active",
   hashPlace: 8,
   createdAt: "2026-05-28T16:03:31.591Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.08625 MaxStat + 0.905625 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, Melee, 0.3s cooldown, R2 = 1)",
+    "<<2>> = 3 seconds (Constant)",
+    "<<3>> = 17 seconds (Constant)",
+    "<<4>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

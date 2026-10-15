@@ -20,5 +20,11 @@ export const vengeanceDragonknightStandard = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1457,
   createdAt: "2026-05-28T16:03:34.261Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 1 second (Constant)",
+    "<<2>> = 15750 Flame Damage (Constant)",
+    "<<3>> = 15 seconds (Constant)",
+    "<<4>> = 12% (Constant)",
+  ],
 } as const satisfies TemperSkill

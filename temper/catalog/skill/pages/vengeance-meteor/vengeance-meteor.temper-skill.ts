@@ -20,5 +20,10 @@ export const vengeanceMeteor = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1508,
   createdAt: "2026-05-28T16:03:34.334Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 15750 Flame Damage (Constant)",
+    "<<2>> = 6 (Constant)",
+    "<<3>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

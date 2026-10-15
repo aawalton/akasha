@@ -20,5 +20,17 @@ export const infectiousClaws = {
   skillType: "temper-skill-type/active",
   hashPlace: 682,
   createdAt: "2026-05-28T16:03:32.850Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 (Constant)",
+    "<<2>> = 0.0975 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Physical, AOE, Direct, Melee, R2 = 1)",
+    "<<3>> = 0.0388004 MaxStat + 0.315454 MaxPower + 1.16071 (Ultimate, ratio = 8.13, Dmg, Bleed, SingleTarget, DOT, 8s duration, 2s tick, R2 = 0.999999)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = 0.0388003 MaxStat + 0.315453 MaxPower + 1.16071 (Ultimate, ratio = 8.13, Dmg, Bleed, SingleTarget, DOT, 4s duration, 2s tick, R2 = 0.999999)",
+    "<<6>> = 6 seconds (Constant)",
+    "<<7>> = 15% (Constant)",
+    "<<8>> = Sundered (Constant)",
+    "<<9>> = 5% (Constant)",
+    "<<10>> = Hemorrhaging (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,10 @@ export const subterraneanAssault = {
   skillType: "temper-skill-type/active",
   hashPlace: 1285,
   createdAt: "2026-05-26T03:13:12.516Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3 seconds (Constant)",
+    "<<2>> = 0.115245612 MaxStat + 1.21007686 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Poison, AOE, Direct, Melee, R2 = 1)",
+    "<<3>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -19,5 +19,6 @@ export const dynamic36591 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 390,
   createdAt: "2026-05-28T16:03:32.218Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 600 (Constant)"],
 } as const satisfies TemperSkill

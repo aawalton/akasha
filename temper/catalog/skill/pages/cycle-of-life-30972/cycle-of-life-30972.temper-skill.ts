@@ -19,5 +19,6 @@ export const cycleOfLife30972 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 289,
   createdAt: "2026-05-28T16:03:32.061Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

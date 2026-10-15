@@ -20,5 +20,13 @@ export const graveGrasp = {
   skillType: "temper-skill-type/active",
   hashPlace: 574,
   createdAt: "2026-05-28T16:03:32.637Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 30% (Constant)",
+    "<<2>> = 3.5 seconds (Constant)",
+    "<<3>> = 3 seconds (Constant)",
+    "<<4>> = 2 seconds (Constant)",
+    "<<5>> = 7 seconds (Constant)",
+    "<<6>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,15 @@ export const tentacularDread185823 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1335,
   createdAt: "2026-05-28T16:03:34.060Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.08625 MaxStat + 0.905625 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Frost, AOE, Direct, Melee, 0.3s cooldown, R2 = 1)",
+    "<<2>> = 3 seconds (Constant)",
+    "<<3>> = 20 seconds (Constant)",
+    "<<4>> = 5% (Constant)",
+    "<<5>> = Abyssal Ink (Constant)",
+    "<<6>> = Tentacular Dread (Constant)",
+    "<<7>> = 33% (Constant)",
+    "<<8>> = 2% (Constant)",
+  ],
 } as const satisfies TemperSkill

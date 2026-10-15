@@ -20,5 +20,11 @@ export const cuttingDive = {
   skillType: "temper-skill-type/active",
   hashPlace: 286,
   createdAt: "2026-05-26T03:13:12.240Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.09297 MaxStat + 0.976185 MaxPower (Ultimate, ratio = 10.50, Dmg, Bleed, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.00954756 MaxStat + 0.100091 MaxPower - 2.63442 (Ultimate, ratio = 10.48, Dmg, Bleed, SingleTarget, DOT, 9.1s duration, 1s tick, R2 = 0.999978)",
+    "<<3>> = 10 seconds (Constant)",
+    "<<4>> = 7 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

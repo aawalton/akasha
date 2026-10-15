@@ -22,5 +22,6 @@ export const naturesGift = {
   effects: "jsonl",
   hashPlace: 851,
   createdAt: "2026-05-26T03:13:12.408Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 250 (Constant)", "<<2>> = 250 (Constant)", "<<3>> = 1 second (Constant)"],
 } as const satisfies TemperSkill

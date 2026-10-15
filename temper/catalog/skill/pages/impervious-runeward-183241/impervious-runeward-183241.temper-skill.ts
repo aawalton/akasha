@@ -20,5 +20,13 @@ export const imperviousRuneward183241 = {
   skillType: "temper-skill-type/active",
   hashPlace: 671,
   createdAt: "2026-05-28T16:03:32.833Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.6 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 1s duration, R2 = 1)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 0.13333 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 5s duration, R2 = 1)",
+    "<<4>> = 5 seconds (Constant)",
+    "<<5>> = 0.16267 MaxResist - 0.49712 (Max Resistance, SingleTarget, Direct, R2 = 1)",
+    "<<6>> = 0.1 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,12 @@ export const blightedBlastbones117690 = {
   skillType: "temper-skill-type/active",
   hashPlace: 110,
   createdAt: "2026-05-28T16:03:31.770Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 2.5 seconds (Constant)",
+    "<<2>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Disease, AOE, Direct, Melee, R2 = 1)",
+    "<<3>> = Diseased (Constant)",
+    "<<4>> = 4 seconds (Constant)",
+    "<<5>> = 12% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,16 @@ export const bloodOfTheGreenDragon = {
   skillType: "temper-skill-type/active",
   hashPlace: 124,
   createdAt: "2026-05-28T16:03:31.794Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.25825 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 50 (Constant)",
+    "<<3>> = 0.03099 Health (Health, RankMod(1), Heal, SingleTarget, DOT, 4s duration, 1s tick, R2 = 1)",
+    "<<4>> = 5 seconds (Constant)",
+    "<<5>> = Major Endurance (Constant)",
+    "<<6>> = Minor Vitality (Constant)",
+    "<<7>> = 30% (Constant)",
+    "<<8>> = 6% (Constant)",
+    "<<9>> = 20 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,14 @@ export const wingBuffet = {
   skillType: "temper-skill-type/active",
   hashPlace: 1622,
   createdAt: "2026-05-28T16:03:34.517Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 4 meters (Constant)",
+    "<<2>> = 1.8 seconds (Constant)",
+    "<<3>> = 50% (Constant)",
+    "<<4>> = 6 seconds (Constant)",
+    "<<5>> = Major Expedition (Constant)",
+    "<<6>> = 4 seconds (Constant)",
+    "<<7>> = 30% (Constant)",
+  ],
 } as const satisfies TemperSkill

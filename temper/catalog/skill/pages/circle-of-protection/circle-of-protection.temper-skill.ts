@@ -20,5 +20,12 @@ export const circleOfProtection = {
   skillType: "temper-skill-type/active",
   hashPlace: 212,
   createdAt: "2026-05-28T16:03:31.941Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 17 seconds (Constant)",
+    "<<2>> = Minor Protection (Constant)",
+    "<<3>> = Minor Endurance (Constant)",
+    "<<4>> = 5% (Constant)",
+    "<<5>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

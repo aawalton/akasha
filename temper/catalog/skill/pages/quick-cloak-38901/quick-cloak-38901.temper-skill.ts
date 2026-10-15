@@ -20,5 +20,13 @@ export const quickCloak38901 = {
   skillType: "temper-skill-type/active",
   hashPlace: 951,
   createdAt: "2026-05-28T16:03:33.361Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 24 seconds (Constant)",
+    "<<2>> = 20% (Constant)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 0.018782 MaxStat + 0.19721 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, DOT, 2s tick, R2 = 1)",
+    "<<5>> = 4 seconds (Constant)",
+    "<<6>> = 30% (Constant)",
+  ],
 } as const satisfies TemperSkill

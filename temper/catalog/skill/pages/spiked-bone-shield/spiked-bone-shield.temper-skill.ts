@@ -20,5 +20,13 @@ export const spikedBoneShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 1255,
   createdAt: "2026-05-26T02:59:07.673Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.3099 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 100 (Constant)",
+    "<<4>> = Bone Wall (Constant)",
+    "<<5>> = 30% (Constant)",
+    "<<6>> = 6 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

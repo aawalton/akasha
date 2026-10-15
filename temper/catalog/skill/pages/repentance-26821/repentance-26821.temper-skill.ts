@@ -20,5 +20,13 @@ export const repentance26821 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1030,
   createdAt: "2026-05-28T16:03:33.508Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 2700 (Constant)",
+    "<<2>> = 2700 (Constant)",
+    "<<3>> = Minor Fortitude (Constant)",
+    "<<4>> = Minor Endurance (Constant)",
+    "<<5>> = Minor Intellect (Constant)",
+    "<<6>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

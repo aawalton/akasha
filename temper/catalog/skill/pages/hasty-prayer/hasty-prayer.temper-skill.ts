@@ -20,5 +20,10 @@ export const hastyPrayer = {
   skillType: "temper-skill-type/active",
   hashPlace: 595,
   createdAt: "2026-05-26T03:13:12.348Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.116213 MaxStat + 1.22023 MaxPower (Ultimate, ratio = 10.50, Heal, AOE, Direct, R2 = 1)",
+    "<<2>> = 15% (Constant)",
+    "<<3>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

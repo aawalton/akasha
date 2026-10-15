@@ -20,5 +20,11 @@ export const deadlyCloak38906 = {
   skillType: "temper-skill-type/active",
   hashPlace: 327,
   createdAt: "2026-05-28T16:03:32.113Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 20 seconds (Constant)",
+    "<<2>> = 20% (Constant)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 0.024417 MaxStat + 0.256373 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, AOE, DOT, 2s tick, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

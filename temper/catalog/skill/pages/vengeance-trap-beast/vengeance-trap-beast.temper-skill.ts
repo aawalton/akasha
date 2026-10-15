@@ -20,5 +20,10 @@ export const vengeanceTrapBeast = {
   skillType: "temper-skill-type/active",
   hashPlace: 1577,
   createdAt: "2026-05-28T16:03:34.433Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10500 Bleed Damage (Constant)",
+    "<<2>> = 5 seconds (Constant)",
+    "<<3>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

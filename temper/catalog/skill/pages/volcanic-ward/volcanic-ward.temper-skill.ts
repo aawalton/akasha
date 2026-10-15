@@ -20,5 +20,12 @@ export const volcanicWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1604,
   createdAt: "2026-05-26T03:13:12.550Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.410791 MaxStat + 0.0032064 MaxPower + 24.1284 (Ultimate, ratio = 0.01, DmgShield, SingleTarget, Direct, 6s duration, R2 = 0.999905)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 10% (Constant)",
+    "<<4>> = 0.142554 MaxStat (Ultimate, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<5>> = 50% (Constant)",
+  ],
 } as const satisfies TemperSkill

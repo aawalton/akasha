@@ -20,5 +20,9 @@ export const vitalizingGlyphic = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1601,
   createdAt: "2026-05-28T16:03:34.473Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.04 MaxStat + 0.42 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, 1s tick, R2 = 1)",
+    "<<2>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

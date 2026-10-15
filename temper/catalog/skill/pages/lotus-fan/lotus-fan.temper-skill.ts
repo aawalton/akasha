@@ -20,5 +20,13 @@ export const lotusFan = {
   skillType: "temper-skill-type/active",
   hashPlace: 769,
   createdAt: "2026-05-26T03:13:12.385Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.071277 MaxStat + 0.748408 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.0182636 MaxStat + 0.191603 MaxPower - 1.04222 (Ultimate, ratio = 10.49, Dmg, Magic, SingleTarget, DOT, 4s duration, 1s tick, R2 = 0.999993)",
+    "<<3>> = 5 seconds (Constant)",
+    "<<4>> = Minor Vulnerability (Constant)",
+    "<<5>> = 10 seconds (Constant)",
+    "<<6>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

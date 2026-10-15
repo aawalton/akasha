@@ -20,5 +20,12 @@ export const healingSeed = {
   skillType: "temper-skill-type/active",
   hashPlace: 604,
   createdAt: "2026-05-28T16:03:32.706Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 0.149957 MaxStat + 1.57455 MaxPower + 0.826821 (Ultimate, ratio = 10.50, Heal, AOE, Direct, R2 = 1)",
+    "<<3>> = Harvest (Constant)",
+    "<<4>> = 0.025 MaxStat + 0.2625 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, DOT, 5s duration, 1s tick, R2 = 1)",
+    "<<5>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

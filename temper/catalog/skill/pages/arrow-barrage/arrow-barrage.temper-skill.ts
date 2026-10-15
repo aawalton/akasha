@@ -20,5 +20,10 @@ export const arrowBarrage = {
   skillType: "temper-skill-type/active",
   hashPlace: 48,
   createdAt: "2026-05-26T02:38:38.290Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.020655 MaxStat + 0.216026 MaxPower - 3.56904 (Ultimate, ratio = 10.46, Dmg, Physical, AOE, DOT, 1s tick, R2 = 0.999992)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 8 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,6 @@ export const vengeanceVolley = {
   skillType: "temper-skill-type/active",
   hashPlace: 1585,
   createdAt: "2026-05-28T16:03:34.445Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 10500 Physical Damage (Constant)", "<<2>> = 12 (Constant)"],
 } as const satisfies TemperSkill

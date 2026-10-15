@@ -20,5 +20,11 @@ export const lacerate = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 724,
   createdAt: "2026-05-28T16:03:32.920Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.059893 MaxStat + 0.630924 MaxPower - 1.52444 (Ultimate, ratio = 10.53, Dmg, Bleed, SingleTarget, DOT, 8s duration, 2s tick, R2 = 0.999999)",
+    "<<2>> = 8 seconds (Constant)",
+    "<<3>> = 50% (Constant)",
+    "<<4>> = Hemorrhaging (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,10 @@ export const absorptionField = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 6,
   createdAt: "2026-05-26T03:13:12.162Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 12 seconds (Constant)",
+    "<<2>> = 0.0461487 MaxStat + 0.484482 MaxPower - 0.42246 (Ultimate, ratio = 10.50, Heal, AOE, Direct, 1s tick, R2 = 0.999999)",
+    "<<3>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

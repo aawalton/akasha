@@ -20,5 +20,11 @@ export const criticalSurge23678 = {
   skillType: "temper-skill-type/active",
   hashPlace: 266,
   createdAt: "2026-05-28T16:03:32.029Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 20% (Constant)",
+    "<<2>> = 33 seconds (Constant)",
+    "<<3>> = 3000 (Constant)",
+    "<<4>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

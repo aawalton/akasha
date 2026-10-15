@@ -20,5 +20,10 @@ export const vengeanceFeralGuardian = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1472,
   createdAt: "2026-05-28T16:03:34.283Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 14700 Magic Damage (Constant)",
+    "<<2>> = 100 (Constant)",
+    "<<3>> = 25 (Constant)",
+  ],
 } as const satisfies TemperSkill

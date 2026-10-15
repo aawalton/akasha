@@ -20,5 +20,11 @@ export const rend85187 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1021,
   createdAt: "2026-05-28T16:03:33.491Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0620437 MaxStat + 0.650882 MaxPower - 2.37419 (Ultimate, ratio = 10.49, Dmg, Bleed, SingleTarget, DOT, 16s duration, 2s tick, R2 = 1)",
+    "<<2>> = 16 seconds (Constant)",
+    "<<3>> = 50% (Constant)",
+    "<<4>> = Hemorrhaging (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,16 @@ export const engulfingDragonfire = {
   skillType: "temper-skill-type/active",
   hashPlace: 446,
   createdAt: "2026-05-26T03:13:12.302Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.059699 MaxStat + 0.626837 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.5 seconds (Constant)",
+    "<<3>> = 4.8 seconds (Constant)",
+    "<<4>> = 15% (Constant)",
+    "<<5>> = 5% (Constant)",
+    "<<6>> = 50% (Constant)",
+    "<<7>> = Take Flight (Constant)",
+    "<<8>> = Wildfire Embers (Constant)",
+    "<<9>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

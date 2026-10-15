@@ -20,5 +20,17 @@ export const shadowSilk41990 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1155,
   createdAt: "2026-05-28T16:03:33.729Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 50% (Constant)",
+    "<<2>> = 0.0774957 MaxStat + 0.813678 MaxPower - 1.85443 (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, R2 = 1)",
+    "<<3>> = 10 seconds (Constant)",
+    "<<4>> = 0.10323 MaxStat + 1.08494 MaxPower - 0.77399 (Ultimate, ratio = 10.51, Dmg, Poison, AOE, Direct, Melee, R2 = 1)",
+    "<<5>> = Black Widow (Constant)",
+    "<<6>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, Dmg, Poison, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<7>> = 10 seconds (Constant)",
+    "<<8>> = 0.03 MaxStat + 0.315 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<9>> = 0.0332487 MaxStat + 0.350783 MaxPower - 1.68497 (Ultimate, ratio = 10.55, Dmg, Poison, SingleTarget, DOT, 10s duration, 2s tick, R2 = 0.999998)",
+    "<<10>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

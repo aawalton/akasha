@@ -19,5 +19,6 @@ export const magickaMastery36303 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 792,
   createdAt: "2026-05-28T16:03:33.060Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 2% (Constant)"],
 } as const satisfies TemperSkill

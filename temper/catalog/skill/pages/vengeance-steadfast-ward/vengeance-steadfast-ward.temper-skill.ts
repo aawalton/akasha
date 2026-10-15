@@ -20,5 +20,6 @@ export const vengeanceSteadfastWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1566,
   createdAt: "2026-05-28T16:03:34.417Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 10500 (Constant)", "<<2>> = 6 seconds (Constant)", "<<3>> = 100 (Constant)"],
 } as const satisfies TemperSkill

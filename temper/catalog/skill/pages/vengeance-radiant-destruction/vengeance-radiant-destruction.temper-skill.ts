@@ -20,5 +20,11 @@ export const vengeanceRadiantDestruction = {
   skillType: "temper-skill-type/active",
   hashPlace: 1528,
   createdAt: "2026-05-28T16:03:34.363Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 21000 Magic Damage (Constant)",
+    "<<2>> = 4.8 seconds (Constant)",
+    "<<3>> = 400 (Constant)",
+    "<<4>> = 33 (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -22,5 +22,6 @@ export const piercingSpear = {
   effects: "jsonl",
   hashPlace: 899,
   createdAt: "2026-05-26T03:13:12.422Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 12% (Constant)", "<<2>> = 12% (Constant)"],
 } as const satisfies TemperSkill

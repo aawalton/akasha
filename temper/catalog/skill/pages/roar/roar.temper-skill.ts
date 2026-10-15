@@ -20,5 +20,16 @@ export const roar = {
   skillType: "temper-skill-type/active",
   hashPlace: 1082,
   createdAt: "2026-05-28T16:03:33.603Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3 seconds (Constant)",
+    "<<2>> = 7 seconds (Constant)",
+    "<<3>> = Blood Hunger (Constant)",
+    "<<4>> = Feeding Frenzy (Constant)",
+    "<<5>> = 6% (Constant)",
+    "<<6>> = Minor Force (Constant)",
+    "<<7>> = 30 seconds (Constant)",
+    "<<8>> = 10 (Constant)",
+    "<<9>> = Major Savagery (Constant)",
+  ],
 } as const satisfies TemperSkill

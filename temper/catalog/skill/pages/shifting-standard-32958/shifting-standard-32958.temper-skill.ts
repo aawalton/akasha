@@ -20,5 +20,14 @@ export const shiftingStandard32958 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1171,
   createdAt: "2026-05-28T16:03:33.761Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0387472 MaxStat + 0.407029 MaxPower - 1.95945 (Ultimate, ratio = 10.50, Dmg, Flame, AOE, DOT, 1s tick, R2 = 1)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 25 seconds (Constant)",
+    "<<4>> = 12% (Constant)",
+    "<<5>> = Shackle (Constant)",
+    "<<6>> = 0.15 MaxStat + 1.575 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+    "<<7>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

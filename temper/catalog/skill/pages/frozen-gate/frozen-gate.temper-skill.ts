@@ -20,5 +20,10 @@ export const frozenGate = {
   skillType: "temper-skill-type/active",
   hashPlace: 548,
   createdAt: "2026-05-28T16:03:32.566Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 15 seconds (Constant)",
+    "<<2>> = 3 seconds (Constant)",
+    "<<3>> = 0.0749181 MaxStat + 0.787428 MaxPower + 0.553891 (Ultimate, ratio = 10.51, Dmg, Frost, SingleTarget, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

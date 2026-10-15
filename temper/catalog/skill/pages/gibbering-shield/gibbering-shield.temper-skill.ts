@@ -20,5 +20,11 @@ export const gibberingShield = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 562,
   createdAt: "2026-05-28T16:03:32.605Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 60% (Constant)",
+    "<<2>> = 10 seconds (Constant)",
+    "<<3>> = 1.92 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 10s duration, R2 = 1)",
+    "<<4>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

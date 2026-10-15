@@ -20,5 +20,10 @@ export const soulAssault = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1222,
   createdAt: "2026-05-26T03:25:55.819Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.113377948 MaxStat + 1.19047052 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, SingleTarget, DOT, 6s duration, 0.857s tick, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

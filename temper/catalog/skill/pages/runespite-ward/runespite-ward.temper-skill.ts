@@ -20,5 +20,11 @@ export const runespiteWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1110,
   createdAt: "2026-05-28T16:03:33.651Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.3 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 0.157445 MaxResist - 0.724638 (Max Resistance, SingleTarget, Direct, R2 = 0.999999)",
+    "<<4>> = 0.1 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

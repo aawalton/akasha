@@ -21,5 +21,6 @@ export const lightWeaver = {
   status: "unsupported",
   hashPlace: 747,
   createdAt: "2026-05-26T03:13:12.379Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 2 seconds (Constant)", "<<2>> = 15 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -20,5 +20,12 @@ export const meteor = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 826,
   createdAt: "2026-05-28T16:03:33.124Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.175 MaxStat + 1.8375 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 2 seconds (Constant)",
+    "<<3>> = 0.0499489 MaxStat + 0.524968 MaxPower - 0.306011 (Ultimate, ratio = 10.51, Dmg, Flame, AOE, DOT, 1s tick, R2 = 0.999999)",
+    "<<4>> = 1 second (Constant)",
+    "<<5>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,10 @@ export const circumventedFate184930 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 214,
   createdAt: "2026-05-28T16:03:31.944Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10 seconds (Constant)",
+    "<<2>> = 10% (Constant)",
+    "<<3>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

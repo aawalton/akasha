@@ -20,5 +20,15 @@ export const bolsteringDarkness36493 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 137,
   createdAt: "2026-05-28T16:03:31.815Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 70% (Constant)",
+    "<<2>> = Major Protection (Constant)",
+    "<<3>> = 7 seconds (Constant)",
+    "<<4>> = 10% (Constant)",
+    "<<5>> = Hidden Refresh (Constant)",
+    "<<6>> = 70% (Constant)",
+    "<<7>> = 0.081 MaxStat + 0.85032 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, DOT, 4s duration, 1s tick, R2 = 1)",
+    "<<8>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

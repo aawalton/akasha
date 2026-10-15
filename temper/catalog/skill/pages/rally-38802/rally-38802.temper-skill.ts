@@ -20,5 +20,15 @@ export const rally38802 = {
   skillType: "temper-skill-type/active",
   hashPlace: 971,
   createdAt: "2026-05-28T16:03:33.399Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Brutality (Constant)",
+    "<<2>> = Minor Endurance (Constant)",
+    "<<3>> = 30 seconds (Constant)",
+    "<<4>> = 20% (Constant)",
+    "<<5>> = 15% (Constant)",
+    "<<6>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<7>> = 20% (Constant)",
+    "<<8>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,10 @@ export const vengeanceFrozenColossus = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1480,
   createdAt: "2026-05-28T16:03:34.294Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 12 (Constant)",
+    "<<2>> = 3 seconds (Constant)",
+    "<<3>> = 12250 Frost Damage (Constant)",
+  ],
 } as const satisfies TemperSkill

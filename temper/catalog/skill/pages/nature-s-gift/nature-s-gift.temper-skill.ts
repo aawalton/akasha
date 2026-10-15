@@ -20,5 +20,6 @@ export const natureSGift = {
   skillType: "temper-skill-type/passive",
   hashPlace: 848,
   createdAt: "2026-05-28T16:03:33.166Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 125 (Constant)", "<<2>> = 1 second (Constant)"],
 } as const satisfies TemperSkill

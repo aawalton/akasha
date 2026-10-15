@@ -20,5 +20,12 @@ export const vengeanceLightningForm = {
   skillType: "temper-skill-type/active",
   hashPlace: 1498,
   createdAt: "2026-05-28T16:03:34.320Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 12 (Constant)",
+    "<<2>> = 5250 Shock Damage (Constant)",
+    "<<3>> = Major Resolve (Constant)",
+    "<<4>> = 20 seconds (Constant)",
+    "<<5>> = 5948 (Constant)",
+  ],
 } as const satisfies TemperSkill

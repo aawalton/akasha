@@ -20,5 +20,13 @@ export const regenerativeWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1011,
   createdAt: "2026-05-26T03:13:12.454Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.34089 Stat + 0.34089 Power (Health of Magicka Capped, ratio = 1.00, DmgShield, SingleTarget, Direct, 10s duration, R2 = 1)",
+    "<<2>> = 10 seconds (Constant)",
+    "<<3>> = 0.0515092 Health + 7.85023 (Health, Heal, SingleTarget, Direct, R2 = 0.95717)",
+    "<<4>> = Minor Intellect (Constant)",
+    "<<5>> = Minor Endurance (Constant)",
+    "<<6>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

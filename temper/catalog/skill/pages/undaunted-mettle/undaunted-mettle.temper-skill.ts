@@ -22,5 +22,6 @@ export const undauntedMettle = {
   effects: "jsonl",
   hashPlace: 1379,
   createdAt: "2026-05-26T02:59:07.689Z",
-  updatedAt: "2026-10-14T15:08:29.911Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 2 ArmorTypes (Armor Types, SingleTarget, Direct, R2 = 1)"],
 } as const satisfies TemperSkill

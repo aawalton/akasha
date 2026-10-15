@@ -20,5 +20,8 @@ export const venomSkull117624 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1595,
   createdAt: "2026-05-28T16:03:34.461Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.09297 MaxStat + 0.97619 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Poison, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,11 @@ export const vengeanceDawnbreaker = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1447,
   createdAt: "2026-05-28T16:03:34.246Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 13125 Physical Damage (Constant)",
+    "<<2>> = 12 (Constant)",
+    "<<3>> = 15750 Physical Damage (Constant)",
+    "<<4>> = 6 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -21,5 +21,6 @@ export const daedricProtection = {
   effects: "jsonl",
   hashPlace: 294,
   createdAt: "2026-05-26T03:13:12.242Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 5% (Constant)"],
 } as const satisfies TemperSkill

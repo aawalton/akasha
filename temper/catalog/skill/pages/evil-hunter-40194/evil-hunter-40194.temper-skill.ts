@@ -20,5 +20,12 @@ export const evilHunter40194 = {
   skillType: "temper-skill-type/active",
   hashPlace: 464,
   createdAt: "2026-05-28T16:03:32.398Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 8 seconds (Constant)",
+    "<<2>> = 22% (Constant)",
+    "<<3>> = 20 seconds (Constant)",
+    "<<4>> = Major Savagery (Constant)",
+    "<<5>> = 12% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,6 @@ export const corpseConsumption116284 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 252,
   createdAt: "2026-05-28T16:03:32.005Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 5 (Constant)", "<<2>> = 16 seconds (Constant)"],
 } as const satisfies TemperSkill

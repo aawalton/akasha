@@ -20,5 +20,12 @@ export const audaciousRunemend = {
   skillType: "temper-skill-type/active",
   hashPlace: 58,
   createdAt: "2026-05-26T03:13:12.174Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05335445 MaxStat + 0.560221725 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = Minor Heroism (Constant)",
+    "<<3>> = 6 seconds (Constant)",
+    "<<4>> = 1 (Constant)",
+    "<<5>> = 3% (Constant)",
+  ],
 } as const satisfies TemperSkill

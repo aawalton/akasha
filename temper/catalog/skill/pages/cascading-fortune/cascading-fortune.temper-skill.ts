@@ -20,5 +20,10 @@ export const cascadingFortune = {
   skillType: "temper-skill-type/active",
   hashPlace: 189,
   createdAt: "2026-05-26T03:13:12.208Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.040015321 MaxStat + 0.420166552 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, AOE, DOT, 4s duration, 0.333s tick, R2 = 1)",
+    "<<2>> = 4.5 seconds (Constant)",
+    "<<3>> = 50 (Constant)",
+  ],
 } as const satisfies TemperSkill

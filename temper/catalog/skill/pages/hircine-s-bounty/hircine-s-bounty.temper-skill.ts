@@ -20,5 +20,13 @@ export const hircineSBounty = {
   skillType: "temper-skill-type/active",
   hashPlace: 635,
   createdAt: "2026-05-28T16:03:32.763Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.3 Health (Health, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 10% (Constant)",
+    "<<3>> = 100% (Constant)",
+    "<<4>> = 0.1 Stamina (Stamina, Dmg, Generic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<5>> = Major Brutality (Constant)",
+    "<<6>> = 20% (Constant)",
+  ],
 } as const satisfies TemperSkill

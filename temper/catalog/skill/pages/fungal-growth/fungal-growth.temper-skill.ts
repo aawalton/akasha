@@ -20,5 +20,8 @@ export const fungalGrowth = {
   skillType: "temper-skill-type/active",
   hashPlace: 553,
   createdAt: "2026-05-28T16:03:32.580Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.1125 MaxStat + 1.18125 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

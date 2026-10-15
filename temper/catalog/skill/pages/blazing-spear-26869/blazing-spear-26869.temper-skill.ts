@@ -20,5 +20,14 @@ export const blazingSpear26869 = {
   skillType: "temper-skill-type/active",
   hashPlace: 104,
   createdAt: "2026-05-28T16:03:31.755Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.0119979 MaxStat + 0.125266 MaxPower - 1.18621 (Ultimate, ratio = 10.44, Dmg, Magic, AOE, DOT, 1s tick, R2 = 0.999988)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = 4 seconds (Constant)",
+    "<<6>> = Blessed Shards (Constant)",
+    "<<7>> = 3960 (Constant)",
+  ],
 } as const satisfies TemperSkill

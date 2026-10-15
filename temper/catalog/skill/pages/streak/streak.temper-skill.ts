@@ -20,5 +20,11 @@ export const streak = {
   skillType: "temper-skill-type/active",
   hashPlace: 1275,
   createdAt: "2026-05-26T03:13:12.515Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.06402534 MaxStat + 0.67226607 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Shock, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 3 seconds (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+    "<<4>> = 33% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,14 @@ export const vengeanceArcanistSDomain = {
   skillType: "temper-skill-type/active",
   hashPlace: 1410,
   createdAt: "2026-05-28T16:03:34.193Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Berserk (Constant)",
+    "<<2>> = Minor Fortitude (Constant)",
+    "<<3>> = Minor Intellect (Constant)",
+    "<<4>> = Minor Endurance (Constant)",
+    "<<5>> = 20 seconds (Constant)",
+    "<<6>> = 5% (Constant)",
+    "<<7>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,13 @@ export const pulsar = {
   skillType: "temper-skill-type/active",
   hashPlace: 938,
   createdAt: "2026-05-26T02:38:38.340Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, R2 = 1)",
+    "<<2>> = Minor Mangle (Constant)",
+    "<<3>> = 10% (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = Flame Pulsar (Constant)",
+    "<<6>> = Pulsar Afterburn (Constant)",
+  ],
 } as const satisfies TemperSkill

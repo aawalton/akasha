@@ -20,5 +20,15 @@ export const shatterspikeMantle = {
   skillType: "temper-skill-type/active",
   hashPlace: 1164,
   createdAt: "2026-05-26T03:13:12.494Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 100 (Constant)",
+    "<<2>> = Major Resolve (Constant)",
+    "<<3>> = 5948 (Constant)",
+    "<<4>> = 20 seconds (Constant)",
+    "<<5>> = 0.0187221 MaxStat + 0.197106 MaxPower + 0.0870345 (Ultimate, ratio = 10.53, Dmg, Flame, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999998)",
+    "<<6>> = 20 seconds (Constant)",
+    "<<7>> = Landslide (Constant)",
+    "<<8>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

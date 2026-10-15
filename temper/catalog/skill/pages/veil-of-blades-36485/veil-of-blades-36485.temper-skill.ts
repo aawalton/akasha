@@ -20,5 +20,16 @@ export const veilOfBlades36485 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1404,
   createdAt: "2026-05-28T16:03:34.183Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 70% (Constant)",
+    "<<2>> = 0.0620437 MaxStat + 0.650882 MaxPower - 2.37419 (Ultimate, ratio = 10.49, Dmg, Magic, AOE, DOT, 1s tick, R2 = 1)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = Major Protection (Constant)",
+    "<<5>> = 10 (Constant)",
+    "<<6>> = Hidden Refresh (Constant)",
+    "<<7>> = 70% (Constant)",
+    "<<8>> = 0.081 MaxStat + 0.85032 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, DOT, 4s duration, 1s tick, R2 = 1)",
+    "<<9>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,10 @@ export const vengeanceDeathStroke = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1449,
   createdAt: "2026-05-28T16:03:34.249Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10500 Magic Damage (Constant)",
+    "<<2>> = 200 (Constant)",
+    "<<3>> = 50 (Constant)",
+  ],
 } as const satisfies TemperSkill

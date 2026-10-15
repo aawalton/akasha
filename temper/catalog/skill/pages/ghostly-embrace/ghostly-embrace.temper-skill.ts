@@ -20,5 +20,10 @@ export const ghostlyEmbrace = {
   skillType: "temper-skill-type/active",
   hashPlace: 558,
   createdAt: "2026-05-26T03:13:12.335Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0400165 MaxStat + 0.420651 MaxPower - 2.83257 (Ultimate, ratio = 10.51, Dmg, Frost, AOE, Direct, Melee, R2 = 0.999999)",
+    "<<2>> = 0.0145909 MaxStat + 0.1529 MaxPower - 1.02923 (Ultimate, ratio = 10.48, Dmg, Frost, SingleTarget, DOT, 4s duration, 1s tick, R2 = 0.999986)",
+    "<<3>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

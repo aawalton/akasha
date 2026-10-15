@@ -19,5 +19,6 @@ export const kickback = {
   skillType: "temper-skill-type/passive",
   hashPlace: 719,
   createdAt: "2026-05-26T03:25:55.787Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 40% (Constant)"],
 } as const satisfies TemperSkill

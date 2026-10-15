@@ -20,5 +20,13 @@ export const blueBetty = {
   skillType: "temper-skill-type/active",
   hashPlace: 133,
   createdAt: "2026-05-26T03:13:12.191Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 4416 (Constant)",
+    "<<2>> = 25 seconds (Constant)",
+    "<<3>> = 20% (Constant)",
+    "<<4>> = 5 seconds (Constant)",
+    "<<5>> = 5% (Constant)",
+    "<<6>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

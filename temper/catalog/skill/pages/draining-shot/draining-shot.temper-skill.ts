@@ -20,5 +20,11 @@ export const drainingShot = {
   skillType: "temper-skill-type/active",
   hashPlace: 385,
   createdAt: "2026-05-26T02:38:38.311Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 60% (Constant)",
+    "<<3>> = 3 seconds (Constant)",
+    "<<4>> = 0.106622 MaxStat + 1.12092 MaxPower - 1.569 (Ultimate, ratio = 10.51, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

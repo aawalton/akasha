@@ -20,5 +20,11 @@ export const daedricRefuge = {
   skillType: "temper-skill-type/active",
   hashPlace: 296,
   createdAt: "2026-05-26T03:13:12.244Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 15 seconds (Constant)",
+    "<<2>> = 0.299361 MaxStat - 0.0002265 MaxPower - 1.11882 (Ultimate, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<3>> = 6 seconds (Constant)",
+    "<<4>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

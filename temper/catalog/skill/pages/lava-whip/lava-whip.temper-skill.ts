@@ -20,5 +20,13 @@ export const lavaWhip = {
   skillType: "temper-skill-type/active",
   hashPlace: 730,
   createdAt: "2026-05-28T16:03:32.931Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 5 (Constant)",
+    "<<3>> = Volcanic Whip (Constant)",
+    "<<4>> = 20 seconds (Constant)",
+    "<<5>> = 20 seconds (Constant)",
+    "<<6>> = 0.186667 MaxStat + 1.96 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,12 @@ export const dragonBlood = {
   skillType: "temper-skill-type/active",
   hashPlace: 378,
   createdAt: "2026-05-28T16:03:32.195Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.25 Health (Health, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 50 (Constant)",
+    "<<3>> = Major Fortitude (Constant)",
+    "<<4>> = 30% (Constant)",
+    "<<5>> = 20 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

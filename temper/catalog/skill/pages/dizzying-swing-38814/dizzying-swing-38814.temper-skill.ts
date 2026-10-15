@@ -20,5 +20,12 @@ export const dizzyingSwing38814 = {
   skillType: "temper-skill-type/active",
   hashPlace: 376,
   createdAt: "2026-05-28T16:03:32.191Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.118795 MaxStat + 1.24735 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, 0.5s cooldown, R2 = 1)",
+    "<<2>> = 7 seconds (Constant)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 40% (Constant)",
+    "<<5>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

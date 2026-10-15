@@ -20,5 +20,10 @@ export const eyeOfTheStorm = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 493,
   createdAt: "2026-05-26T02:38:38.320Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.08003684 MaxStat + 0.84033517 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, AOE, DOT, 1s tick, R2 = 1)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 7 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,16 @@ export const howlOfDespair58742 = {
   skillType: "temper-skill-type/active",
   hashPlace: 641,
   createdAt: "2026-05-28T16:03:32.779Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.067145 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 8.08, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 15 seconds (Constant)",
+    "<<3>> = Sundered (Constant)",
+    "<<4>> = 0.0670852 MaxStat + 0.542535 MaxPower - 0.593525 (Ultimate, ratio = 8.09, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<5>> = 125 (Constant)",
+    "<<6>> = 25 (Constant)",
+    "<<7>> = 0.2066 Health (Health, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<8>> = Blood Hunger (Constant)",
+    "<<9>> = 25% (Constant)",
+  ],
 } as const satisfies TemperSkill

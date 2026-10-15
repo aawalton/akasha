@@ -20,5 +20,11 @@ export const undeadConfederate116282 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1381,
   createdAt: "2026-05-28T16:03:34.140Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Sacrificial Bones (Constant)",
+    "<<2>> = Skeletal Mage (Constant)",
+    "<<3>> = Spirit Mender (Constant)",
+    "<<4>> = 77 (Constant)",
+  ],
 } as const satisfies TemperSkill

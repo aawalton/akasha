@@ -19,5 +19,6 @@ export const vengeanceDarkExchange = {
   skillType: "temper-skill-type/active",
   hashPlace: 1445,
   createdAt: "2026-05-28T16:03:34.243Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 8000 (Constant)", "<<2>> = 3600 (Constant)"],
 } as const satisfies TemperSkill

@@ -21,5 +21,6 @@ export const scalesOfPitilessJustice = {
   effects: "jsonl",
   hashPlace: 1135,
   createdAt: "2026-05-26T02:59:07.656Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 50% (Constant)"],
 } as const satisfies TemperSkill

@@ -20,5 +20,9 @@ export const rapidFire = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 976,
   createdAt: "2026-05-28T16:03:33.408Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0832801 MaxStat + 0.87503 MaxPower - 1.09599 (Ultimate, ratio = 10.51, Dmg, Physical, SingleTarget, Direct, 3.625s duration, 0.453s tick, R2 = 1)",
+    "<<2>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

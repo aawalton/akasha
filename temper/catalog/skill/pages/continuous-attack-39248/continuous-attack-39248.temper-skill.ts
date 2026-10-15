@@ -20,5 +20,12 @@ export const continuousAttack39248 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 247,
   createdAt: "2026-05-28T16:03:31.999Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 5% (Constant)",
+    "<<2>> = 10% (Constant)",
+    "<<3>> = 10 minutes (Constant)",
+    "<<4>> = Gallop (Constant)",
+    "<<5>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

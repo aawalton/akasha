@@ -21,5 +21,12 @@ export const blindingFlare = {
   effects: "jsonl",
   hashPlace: 111,
   createdAt: "2026-05-26T03:25:55.723Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 5 seconds (Constant)",
+    "<<2>> = 4 seconds (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+    "<<4>> = Major Protection (Constant)",
+    "<<5>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

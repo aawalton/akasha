@@ -20,5 +20,13 @@ export const vibrantShroud28311 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1597,
   createdAt: "2026-05-28T16:03:34.466Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.116213 MaxStat + 1.22023 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
+    "<<2>> = Minor Vitality (Constant)",
+    "<<3>> = 6% (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = Major Maim (Constant)",
+    "<<6>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,11 @@ export const shadowBarrier18866 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1149,
   createdAt: "2026-05-28T16:03:33.719Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 5948 (Constant)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 2 HeavyArmor + 6 (Heavy Armor, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

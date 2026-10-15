@@ -20,5 +20,13 @@ export const turnEvil = {
   skillType: "temper-skill-type/active",
   hashPlace: 1369,
   createdAt: "2026-05-26T02:59:07.687Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 20 seconds (Constant)",
+    "<<2>> = Minor Protection (Constant)",
+    "<<3>> = Minor Endurance (Constant)",
+    "<<4>> = 5% (Constant)",
+    "<<5>> = 15% (Constant)",
+    "<<6>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

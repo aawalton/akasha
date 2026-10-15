@@ -20,5 +20,10 @@ export const executioner = {
   skillType: "temper-skill-type/active",
   hashPlace: 471,
   createdAt: "2026-05-26T02:38:38.319Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05165 MaxStat + 0.54233 MaxPower (Ultimate, ratio = 10.50, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 400 (Constant)",
+    "<<3>> = 50 (Constant)",
+  ],
 } as const satisfies TemperSkill

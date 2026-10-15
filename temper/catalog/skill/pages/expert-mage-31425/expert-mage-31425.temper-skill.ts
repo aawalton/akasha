@@ -20,5 +20,9 @@ export const expertMage31425 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 481,
   createdAt: "2026-05-28T16:03:32.423Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 54 (Constant)",
+    "<<2>> = 54 Sorcerer (Sorcerer Skills Slotted, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

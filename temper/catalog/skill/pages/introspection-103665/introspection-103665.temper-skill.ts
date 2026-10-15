@@ -20,5 +20,11 @@ export const introspection103665 = {
   skillType: "temper-skill-type/active",
   hashPlace: 699,
   createdAt: "2026-05-28T16:03:32.877Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 1700 (Constant)",
+    "<<2>> = 1500 (Constant)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

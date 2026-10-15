@@ -20,5 +20,12 @@ export const camouflagedHunter40195 = {
   skillType: "temper-skill-type/active",
   hashPlace: 182,
   createdAt: "2026-05-28T16:03:31.888Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 5 seconds (Constant)",
+    "<<2>> = Major Savagery (Constant)",
+    "<<3>> = 12% (Constant)",
+    "<<4>> = Minor Berserk (Constant)",
+    "<<5>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

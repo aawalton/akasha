@@ -20,5 +20,13 @@ export const balance40441 = {
   skillType: "temper-skill-type/active",
   hashPlace: 69,
   createdAt: "2026-05-28T16:03:31.679Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3000 (Constant)",
+    "<<2>> = Major Resolve (Constant)",
+    "<<3>> = 27 seconds (Constant)",
+    "<<4>> = 5948 (Constant)",
+    "<<5>> = 50% (Constant)",
+    "<<6>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

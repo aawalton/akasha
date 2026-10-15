@@ -20,5 +20,6 @@ export const vengeanceArrowSpray = {
   skillType: "temper-skill-type/active",
   hashPlace: 1412,
   createdAt: "2026-05-28T16:03:34.196Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 7875 Physical Damage (Constant)", "<<2>> = 12 (Constant)"],
 } as const satisfies TemperSkill

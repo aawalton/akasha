@@ -20,5 +20,17 @@ export const runeguardOfFreedom186489 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1106,
   createdAt: "2026-05-28T16:03:33.645Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Resolve (Constant)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = 2974 (Constant)",
+    "<<4>> = Minor Protection (Constant)",
+    "<<5>> = 5% (Constant)",
+    "<<6>> = 0.15 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<7>> = 3000 (Constant)",
+    "<<8>> = Crowd Control Immunity (Constant)",
+    "<<9>> = 7 seconds (Constant)",
+    "<<10>> = 30 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

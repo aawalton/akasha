@@ -20,5 +20,12 @@ export const spellSymmetry = {
   skillType: "temper-skill-type/active",
   hashPlace: 1250,
   createdAt: "2026-05-26T02:59:07.671Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3000 (Constant)",
+    "<<2>> = 33% (Constant)",
+    "<<3>> = 5 seconds (Constant)",
+    "<<4>> = 50% (Constant)",
+    "<<5>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

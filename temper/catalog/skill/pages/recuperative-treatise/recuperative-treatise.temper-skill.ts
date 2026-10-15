@@ -20,5 +20,11 @@ export const recuperativeTreatise = {
   skillType: "temper-skill-type/active",
   hashPlace: 1000,
   createdAt: "2026-05-26T03:13:12.450Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 5 seconds (Constant)",
+    "<<2>> = 0.0517266 MaxStat + 0.542407 MaxPower - 2.07263 (Ultimate, ratio = 10.49, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<3>> = 600 (Constant)",
+    "<<4>> = 20% (Constant)",
+  ],
 } as const satisfies TemperSkill

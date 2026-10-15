@@ -20,5 +20,11 @@ export const toxicBarrage85257 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1357,
   createdAt: "2026-05-28T16:03:34.097Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0860249 MaxStat + 0.904228 MaxPower - 1.89049 (Ultimate, ratio = 10.51, Dmg, Poison, SingleTarget, Direct, 3.625s duration, 0.453s tick, R2 = 1)",
+    "<<2>> = 4 seconds (Constant)",
+    "<<3>> = 0.086046 MaxStat + 0.90445 MaxPower - 1.89095 (Ultimate, ratio = 10.51, Dmg, Poison, SingleTarget, DOT, 8s duration, 2s tick, R2 = 1)",
+    "<<4>> = 8 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

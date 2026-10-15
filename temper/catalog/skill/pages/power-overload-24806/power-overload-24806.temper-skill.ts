@@ -20,5 +20,11 @@ export const powerOverload24806 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 914,
   createdAt: "2026-05-28T16:03:33.291Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.11363 MaxStat + 1.19311 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 32 (Constant)",
+    "<<3>> = 0.102267 MaxStat + 1.0738 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, AOE, Direct, R2 = 1)",
+    "<<4>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

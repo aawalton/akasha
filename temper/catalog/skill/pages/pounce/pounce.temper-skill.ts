@@ -20,5 +20,15 @@ export const pounce = {
   skillType: "temper-skill-type/active",
   hashPlace: 907,
   createdAt: "2026-05-28T16:03:33.277Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.078 MaxStat + 0.63 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = Hemorrhaging (Constant)",
+    "<<3>> = 7 (Constant)",
+    "<<4>> = Carnage (Constant)",
+    "<<5>> = 0.011818 MaxStat + 0.095455 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Bleed, SingleTarget, DOT, 12s duration, 2s tick, R2 = 1)",
+    "<<6>> = 12 seconds (Constant)",
+    "<<7>> = 450 (Constant)",
+    "<<8>> = 100 (Constant)",
+  ],
 } as const satisfies TemperSkill

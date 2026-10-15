@@ -20,5 +20,12 @@ export const backlash = {
   skillType: "temper-skill-type/active",
   hashPlace: 67,
   createdAt: "2026-05-28T16:03:31.675Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0499489 MaxStat + 0.524968 MaxPower - 0.306011 (Ultimate, ratio = 10.51, Dmg, Magic, SingleTarget, Direct, R2 = 0.999999)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 0.0553692 MaxStat + 0.581472 MaxPower - 2.84114 (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+    "<<4>> = 200% (Constant)",
+    "<<5>> = Backlash (Constant)",
+  ],
 } as const satisfies TemperSkill

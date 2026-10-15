@@ -20,5 +20,13 @@ export const disintegratingDragonfire = {
   skillType: "temper-skill-type/active",
   hashPlace: 371,
   createdAt: "2026-05-26T03:13:12.281Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = Burning (Constant)",
+    "<<3>> = 0.025813 MaxStat + 0.271374 MaxPower - 1.25987 (Ultimate, ratio = 10.51, Dmg, Flame, SingleTarget, DOT, 8s duration, 2s tick, R2 = 0.999998)",
+    "<<4>> = 10 seconds (Constant)",
+    "<<5>> = Major Breach (Constant)",
+    "<<6>> = 5948 (Constant)",
+  ],
 } as const satisfies TemperSkill

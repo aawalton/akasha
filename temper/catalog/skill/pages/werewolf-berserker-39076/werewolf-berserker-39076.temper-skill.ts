@@ -20,5 +20,17 @@ export const werewolfBerserker39076 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1614,
   createdAt: "2026-05-28T16:03:34.501Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3 seconds (Constant)",
+    "<<2>> = Major Berserk (Constant)",
+    "<<3>> = 0.033576 MaxStat + 0.271352 MaxPower - 1.42645 (Ultimate, ratio = 8.08, Dmg, Bleed, SingleTarget, DOT, 1s duration, 1s tick, R2 = 0.999998)",
+    "<<4>> = 4 seconds (Constant)",
+    "<<5>> = 0.033576 MaxStat + 0.271352 MaxPower - 1.42645 (Ultimate, ratio = 8.08, Dmg, Bleed, SingleTarget, DOT, 1s duration, 1s tick, R2 = 0.999998)",
+    "<<6>> = 1 second (Constant)",
+    "<<7>> = 1000 (Constant)",
+    "<<8>> = Rampage (Constant)",
+    "<<9>> = 20 seconds (Constant)",
+    "<<10>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

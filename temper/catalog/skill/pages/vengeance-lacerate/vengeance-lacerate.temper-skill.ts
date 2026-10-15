@@ -20,5 +20,11 @@ export const vengeanceLacerate = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1495,
   createdAt: "2026-05-28T16:03:34.316Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 12 (Constant)",
+    "<<2>> = 43785 Bleed Damage (Constant)",
+    "<<3>> = 8 seconds (Constant)",
+    "<<4>> = 3150 (Constant)",
+  ],
 } as const satisfies TemperSkill

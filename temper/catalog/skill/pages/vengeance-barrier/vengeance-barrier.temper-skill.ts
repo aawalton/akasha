@@ -20,5 +20,6 @@ export const vengeanceBarrier = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1416,
   createdAt: "2026-05-28T16:03:34.201Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 52500 (Constant)", "<<2>> = 15 seconds (Constant)"],
 } as const satisfies TemperSkill

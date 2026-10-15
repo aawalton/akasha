@@ -20,5 +20,6 @@ export const simmeringFrenzy134160 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1192,
   createdAt: "2026-05-28T16:03:33.795Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 77 (Constant)", "<<2>> = 2 seconds (Constant)", "<<3>> = 360 (Constant)"],
 } as const satisfies TemperSkill

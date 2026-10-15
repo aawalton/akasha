@@ -20,5 +20,13 @@ export const topplingCharge15540 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1353,
   createdAt: "2026-05-28T16:03:34.090Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 15 seconds (Constant)",
+    "<<3>> = 3 seconds (Constant)",
+    "<<4>> = Major Protection (Constant)",
+    "<<5>> = 7 seconds (Constant)",
+    "<<6>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

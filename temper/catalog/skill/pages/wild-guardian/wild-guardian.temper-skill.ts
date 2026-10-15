@@ -20,5 +20,16 @@ export const wildGuardian = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1619,
   createdAt: "2026-05-26T03:13:12.555Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.029344431 MaxStat + 0.308122207 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.11737979 MaxStat + 1.23248263 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Bleed, AOE, Direct, Melee, 1.8s cooldown, R2 = 1)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = Guardian's Savagery (Constant)",
+    "<<5>> = 75 (Constant)",
+    "<<6>> = 0.16433997 MaxStat + 1.72548188 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Bleed, SingleTarget, Direct, Melee, 0.7s cooldown, R2 = 1)",
+    "<<7>> = 100 (Constant)",
+    "<<8>> = 25 (Constant)",
+    "<<9>> = Hemorrhaging (Constant)",
+  ],
 } as const satisfies TemperSkill

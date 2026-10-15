@@ -21,5 +21,6 @@ export const masterRitualist = {
   status: "unsupported",
   hashPlace: 807,
   createdAt: "2026-05-26T03:13:12.396Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 20% (Constant)", "<<2>> = 100% (Constant)"],
 } as const satisfies TemperSkill

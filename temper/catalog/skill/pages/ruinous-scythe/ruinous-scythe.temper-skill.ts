@@ -20,5 +20,12 @@ export const ruinousScythe = {
   skillType: "temper-skill-type/active",
   hashPlace: 1091,
   createdAt: "2026-05-26T03:13:12.470Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.080031675 MaxStat + 0.840333104 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Bleed, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = Hemorrhaging (Constant)",
+    "<<3>> = 7 seconds (Constant)",
+    "<<4>> = 0.15 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<5>> = 0.05 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

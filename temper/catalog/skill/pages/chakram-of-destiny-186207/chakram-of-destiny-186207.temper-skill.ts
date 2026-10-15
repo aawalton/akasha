@@ -20,5 +20,9 @@ export const chakramOfDestiny186207 = {
   skillType: "temper-skill-type/active",
   hashPlace: 200,
   createdAt: "2026-05-28T16:03:31.921Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.255659 MaxStat - 0.0002063 MaxPower + 0.28433 (Ultimate, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -22,5 +22,9 @@ export const soulShatter = {
   effects: "jsonl",
   hashPlace: 1228,
   createdAt: "2026-05-26T03:25:55.822Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.1 Health (Health, Dmg, Magic, AOE, Direct, R2 = 1)",
+    "<<2>> = 2 minutes (Constant)",
+  ],
 } as const satisfies TemperSkill

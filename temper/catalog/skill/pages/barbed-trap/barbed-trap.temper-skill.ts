@@ -20,5 +20,14 @@ export const barbedTrap = {
   skillType: "temper-skill-type/active",
   hashPlace: 78,
   createdAt: "2026-05-26T02:59:07.544Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 20 seconds (Constant)",
+    "<<2>> = 0.0640613 MaxStat + 0.672578 MaxPower - 3.1811 (Ultimate, ratio = 10.50, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 0.999999)",
+    "<<3>> = 0.016006335 MaxStat + 0.168066001 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Bleed, SingleTarget, DOT, 18s duration, 2s tick, R2 = 1)",
+    "<<4>> = 20 seconds (Constant)",
+    "<<5>> = 10% (Constant)",
+    "<<6>> = Hemorrhaging (Constant)",
+    "<<7>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,12 @@ export const moltenWhip20805 = {
   skillType: "temper-skill-type/active",
   hashPlace: 835,
   createdAt: "2026-05-28T16:03:33.142Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = Seething Fury (Constant)",
+    "<<3>> = Molten Whip (Constant)",
+    "<<4>> = 33% (Constant)",
+    "<<5>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

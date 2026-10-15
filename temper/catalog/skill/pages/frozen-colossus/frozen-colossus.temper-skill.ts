@@ -20,5 +20,11 @@ export const frozenColossus = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 545,
   createdAt: "2026-05-28T16:03:32.558Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 3 seconds (Constant)",
+    "<<2>> = 0.149957 MaxStat + 1.57455 MaxPower + 0.826821 (Ultimate, ratio = 10.50, Dmg, Frost, AOE, Direct, Melee, R2 = 1)",
+    "<<3>> = 12 seconds (Constant)",
+    "<<4>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

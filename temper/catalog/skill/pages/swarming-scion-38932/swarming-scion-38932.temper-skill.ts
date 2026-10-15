@@ -20,5 +20,11 @@ export const swarmingScion38932 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1315,
   createdAt: "2026-05-28T16:03:34.022Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10000 (Constant)",
+    "<<2>> = 15% (Constant)",
+    "<<3>> = 0.0375 MaxStat + 0.39375 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, DOT, 1s tick, R2 = 1)",
+    "<<4>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

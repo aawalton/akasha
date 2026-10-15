@@ -20,5 +20,12 @@ export const vengeanceUnstoppable = {
   skillType: "temper-skill-type/active",
   hashPlace: 1580,
   createdAt: "2026-05-28T16:03:34.437Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Resolve (Constant)",
+    "<<2>> = 5948 (Constant)",
+    "<<3>> = 20 seconds (Constant)",
+    "<<4>> = 7 seconds (Constant)",
+    "<<5>> = 65% (Constant)",
+  ],
 } as const satisfies TemperSkill

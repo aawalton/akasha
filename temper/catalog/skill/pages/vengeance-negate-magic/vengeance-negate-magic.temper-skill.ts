@@ -20,5 +20,6 @@ export const vengeanceNegateMagic = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1512,
   createdAt: "2026-05-28T16:03:34.340Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 3 seconds (Constant)", "<<2>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

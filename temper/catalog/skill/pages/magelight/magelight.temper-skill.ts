@@ -20,5 +20,11 @@ export const magelight = {
   skillType: "temper-skill-type/active",
   hashPlace: 780,
   createdAt: "2026-05-28T16:03:33.039Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 5 seconds (Constant)",
+    "<<2>> = 4 seconds (Constant)",
+    "<<3>> = Major Savagery (Constant)",
+    "<<4>> = 12% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,13 @@ export const pummelingGoliath = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 940,
   createdAt: "2026-05-26T03:13:12.436Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Pummeling Goliath (Constant)",
+    "<<2>> = 30000 (Constant)",
+    "<<3>> = 20 seconds (Constant)",
+    "<<4>> = 0.02 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<5>> = 0.05 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<6>> = 0.14227509 MaxStat + 1.4939246 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

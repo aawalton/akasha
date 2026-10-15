@@ -20,5 +20,12 @@ export const radiantGlory63044 = {
   skillType: "temper-skill-type/active",
   hashPlace: 961,
   createdAt: "2026-05-28T16:03:33.379Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05379 MaxStat + 0.563495 MaxPower - 1.09425 (Ultimate, ratio = 10.48, Dmg, Magic, SingleTarget, Direct, 3.5s duration, 0.7s tick, R2 = 0.999999)",
+    "<<2>> = 3.8 seconds (Constant)",
+    "<<3>> = 500 (Constant)",
+    "<<4>> = 33 (Constant)",
+    "<<5>> = 15% (Constant)",
+  ],
 } as const satisfies TemperSkill

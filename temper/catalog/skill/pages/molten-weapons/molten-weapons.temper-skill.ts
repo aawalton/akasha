@@ -20,5 +20,12 @@ export const moltenWeapons = {
   skillType: "temper-skill-type/active",
   hashPlace: 834,
   createdAt: "2026-05-28T16:03:33.138Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Brutality (Constant)",
+    "<<2>> = 20% (Constant)",
+    "<<3>> = 27 seconds (Constant)",
+    "<<4>> = 0.0199778 MaxStat + 0.210472 MaxPower - 1.95606 (Ultimate, ratio = 10.54, Dmg, Flame, SingleTarget, Direct, Melee, R2 = 0.999993)",
+    "<<5>> = 2 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

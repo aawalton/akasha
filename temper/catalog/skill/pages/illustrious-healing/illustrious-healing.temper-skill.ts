@@ -20,5 +20,9 @@ export const illustriousHealing = {
   skillType: "temper-skill-type/active",
   hashPlace: 660,
   createdAt: "2026-05-26T02:38:38.331Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0187221 MaxStat + 0.197107 MaxPower + 0.0870346 (Ultimate, ratio = 10.53, Heal, AOE, DOT, 12s duration, 1s tick, R2 = 0.999998)",
+    "<<2>> = 15 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

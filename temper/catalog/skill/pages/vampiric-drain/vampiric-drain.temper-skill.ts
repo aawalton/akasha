@@ -20,5 +20,11 @@ export const vampiricDrain = {
   skillType: "temper-skill-type/active",
   hashPlace: 1402,
   createdAt: "2026-05-28T16:03:34.180Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0374406 MaxStat + 0.393892 MaxPower - 0.180971 (Ultimate, ratio = 10.52, Dmg, Magic, SingleTarget, Direct, R2 = 0.999999)",
+    "<<2>> = 25% (Constant)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

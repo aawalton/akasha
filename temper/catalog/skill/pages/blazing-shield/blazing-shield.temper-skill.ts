@@ -20,5 +20,14 @@ export const blazingShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 101,
   createdAt: "2026-05-26T03:13:12.185Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Maim (Constant)",
+    "<<2>> = 10 seconds (Constant)",
+    "<<3>> = 5% (Constant)",
+    "<<4>> = 0.3 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<5>> = 6 seconds (Constant)",
+    "<<6>> = 10% (Constant)",
+    "<<7>> = 33 (Constant)",
+  ],
 } as const satisfies TemperSkill

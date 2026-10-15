@@ -20,5 +20,14 @@ export const buddingSeeds = {
   skillType: "temper-skill-type/active",
   hashPlace: 169,
   createdAt: "2026-05-26T03:13:12.199Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 0.154901 MaxStat + 1.62725 MaxPower - 1.10979 (Ultimate, ratio = 10.51, Heal, AOE, Direct, R2 = 1)",
+    "<<3>> = 0.0183606 MaxStat + 0.192048 MaxPower - 2.35828 (Ultimate, ratio = 10.46, Heal, AOE, Direct, 1s tick, R2 = 0.999988)",
+    "<<4>> = 1 second (Constant)",
+    "<<5>> = Harvest (Constant)",
+    "<<6>> = 0.025 MaxStat + 0.2625 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, DOT, 5s duration, 1s tick, R2 = 1)",
+    "<<7>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

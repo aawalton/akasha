@@ -22,5 +22,10 @@ export const acceleratedGrowth = {
   effects: "jsonl",
   hashPlace: 10,
   createdAt: "2026-05-26T03:13:12.164Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Major Mending (Constant)",
+    "<<2>> = 16% (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

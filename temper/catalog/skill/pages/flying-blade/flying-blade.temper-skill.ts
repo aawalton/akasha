@@ -20,5 +20,14 @@ export const flyingBlade = {
   skillType: "temper-skill-type/active",
   hashPlace: 524,
   createdAt: "2026-05-26T02:38:38.321Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.06402534 MaxStat + 0.67226607 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 5 seconds (Constant)",
+    "<<3>> = 3 seconds (Constant)",
+    "<<4>> = 0.09603801 MaxStat + 1.008399105 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<5>> = Major Brutality (Constant)",
+    "<<6>> = 20% (Constant)",
+    "<<7>> = 40 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

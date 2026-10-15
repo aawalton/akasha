@@ -22,5 +22,11 @@ export const hemorrhage = {
   effects: "jsonl",
   hashPlace: 626,
   createdAt: "2026-05-26T03:13:12.355Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10% (Constant)",
+    "<<2>> = Minor Savagery (Constant)",
+    "<<3>> = 6% (Constant)",
+    "<<4>> = 20 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

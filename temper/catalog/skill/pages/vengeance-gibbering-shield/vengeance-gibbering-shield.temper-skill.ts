@@ -20,5 +20,12 @@ export const vengeanceGibberingShield = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1483,
   createdAt: "2026-05-28T16:03:34.298Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 60% (Constant)",
+    "<<2>> = 10 seconds (Constant)",
+    "<<3>> = 70000 (Constant)",
+    "<<4>> = 12000 Magic Damage (Constant)",
+    "<<5>> = 12 (Constant)",
+  ],
 } as const satisfies TemperSkill

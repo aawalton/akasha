@@ -20,5 +20,9 @@ export const spiritMender = {
   skillType: "temper-skill-type/active",
   hashPlace: 1259,
   createdAt: "2026-05-28T16:03:33.922Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 16 seconds (Constant)",
+    "<<2>> = 0.03 MaxStat + 0.315 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

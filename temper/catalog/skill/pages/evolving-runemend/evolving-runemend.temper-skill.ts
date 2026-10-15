@@ -20,5 +20,11 @@ export const evolvingRunemend = {
   skillType: "temper-skill-type/active",
   hashPlace: 467,
   createdAt: "2026-05-26T03:13:12.310Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.01936875 MaxStat + 0.203371875 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, SingleTarget, DOT, 4s duration, 2s tick, R2 = 1)",
+    "<<3>> = 6 seconds (Constant)",
+    "<<4>> = 3% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,13 @@ export const theLanguidEye = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1337,
   createdAt: "2026-05-26T03:13:12.529Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 0.0495907 MaxStat + 0.520546 MaxPower - 0.608159 (Ultimate, ratio = 10.50, Dmg, Magic, AOE, DOT, 0.5s tick, R2 = 0.999999)",
+    "<<3>> = 0.5 seconds (Constant)",
+    "<<4>> = 50% (Constant)",
+    "<<5>> = 3 seconds (Constant)",
+    "<<6>> = 7% (Constant)",
+  ],
 } as const satisfies TemperSkill

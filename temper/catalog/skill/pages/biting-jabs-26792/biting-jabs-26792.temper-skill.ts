@@ -20,5 +20,14 @@ export const bitingJabs26792 = {
   skillType: "temper-skill-type/active",
   hashPlace: 97,
   createdAt: "2026-05-28T16:03:31.731Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.039598 MaxStat + 0.415783 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 40% (Constant)",
+    "<<3>> = 0.5 seconds (Constant)",
+    "<<4>> = Sundered (Constant)",
+    "<<5>> = Major Brutality (Constant)",
+    "<<6>> = 20% (Constant)",
+    "<<7>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

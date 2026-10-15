@@ -21,5 +21,10 @@ export const bloodMagic = {
   status: "unsupported",
   hashPlace: 119,
   createdAt: "2026-05-26T03:13:12.189Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.06 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 10% (Constant)",
+    "<<3>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

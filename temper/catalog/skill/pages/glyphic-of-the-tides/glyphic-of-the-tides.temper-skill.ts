@@ -20,5 +20,12 @@ export const glyphicOfTheTides = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 569,
   createdAt: "2026-05-26T03:13:12.339Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 53% (Constant)",
+    "<<2>> = 0.04132 MaxStat + 0.43386 MaxPower (Ultimate, ratio = 10.50, Heal, AOE, Direct, 1s tick, R2 = 1)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = Major Protection (Constant)",
+    "<<5>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

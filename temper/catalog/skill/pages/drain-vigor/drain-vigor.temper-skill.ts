@@ -20,5 +20,12 @@ export const drainVigor = {
   skillType: "temper-skill-type/active",
   hashPlace: 383,
   createdAt: "2026-05-26T03:25:55.754Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0387472 MaxStat + 0.407029 MaxPower - 1.95945 (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 25% (Constant)",
+    "<<3>> = 10% (Constant)",
+    "<<4>> = 1 second (Constant)",
+    "<<5>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

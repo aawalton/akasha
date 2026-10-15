@@ -21,5 +21,10 @@ export const braidedTether = {
   effects: "jsonl",
   hashPlace: 160,
   createdAt: "2026-05-26T03:13:12.197Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.014227509 MaxStat + 0.14939246 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, AOE, DOT, 11.334s duration, 0.666s tick, R2 = 1)",
+    "<<2>> = 12 seconds (Constant)",
+    "<<3>> = 3% (Constant)",
+  ],
 } as const satisfies TemperSkill

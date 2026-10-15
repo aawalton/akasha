@@ -20,5 +20,10 @@ export const arterialBurst = {
   skillType: "temper-skill-type/active",
   hashPlace: 51,
   createdAt: "2026-05-26T03:25:55.718Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.1067089 MaxStat + 1.12044345 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = Hemorrhaging (Constant)",
+    "<<3>> = 33 (Constant)",
+  ],
 } as const satisfies TemperSkill

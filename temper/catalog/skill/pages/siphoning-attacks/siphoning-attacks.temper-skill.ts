@@ -20,5 +20,11 @@ export const siphoningAttacks = {
   skillType: "temper-skill-type/active",
   hashPlace: 1195,
   createdAt: "2026-05-26T03:13:12.498Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 2600 (Constant)",
+    "<<2>> = 1250 (Constant)",
+    "<<3>> = 200 (Constant)",
+    "<<4>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -22,5 +22,12 @@ export const icyAura = {
   effects: "jsonl",
   hashPlace: 654,
   createdAt: "2026-05-26T03:13:12.363Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Bite of Winter (Constant)",
+    "<<2>> = 3 seconds (Constant)",
+    "<<3>> = Major Maim (Constant)",
+    "<<4>> = 3 seconds (Constant)",
+    "<<5>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

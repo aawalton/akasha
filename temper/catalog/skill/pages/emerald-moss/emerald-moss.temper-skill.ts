@@ -22,5 +22,9 @@ export const emeraldMoss = {
   effects: "jsonl",
   hashPlace: 420,
   createdAt: "2026-05-26T03:13:12.289Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 5% (Constant)",
+    "<<2>> = 5 GreenBalance (Green Balance Skills Slotted, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

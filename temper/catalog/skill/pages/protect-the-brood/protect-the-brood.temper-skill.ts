@@ -20,5 +20,16 @@ export const protectTheBrood = {
   skillType: "temper-skill-type/active",
   hashPlace: 934,
   createdAt: "2026-05-26T03:13:12.434Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 50% (Constant)",
+    "<<3>> = 25% (Constant)",
+    "<<4>> = Minor Protection (Constant)",
+    "<<5>> = 20 seconds (Constant)",
+    "<<6>> = 5% (Constant)",
+    "<<7>> = Major Expedition (Constant)",
+    "<<8>> = 4 seconds (Constant)",
+    "<<9>> = 30% (Constant)",
+  ],
 } as const satisfies TemperSkill

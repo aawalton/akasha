@@ -20,5 +20,17 @@ export const fossilize32685 = {
   skillType: "temper-skill-type/active",
   hashPlace: 540,
   createdAt: "2026-05-28T16:03:32.542Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 50% (Constant)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 4 seconds (Constant)",
+    "<<4>> = 8 seconds (Constant)",
+    "<<5>> = 4 seconds (Constant)",
+    "<<6>> = Minor Breach (Constant)",
+    "<<7>> = Minor Vulnerability (Constant)",
+    "<<8>> = 17 seconds (Constant)",
+    "<<9>> = 2974 (Constant)",
+    "<<10>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

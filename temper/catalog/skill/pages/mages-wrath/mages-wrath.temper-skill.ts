@@ -20,5 +20,10 @@ export const magesWrath = {
   skillType: "temper-skill-type/active",
   hashPlace: 782,
   createdAt: "2026-05-26T03:13:12.388Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.03875 MaxStat + 0.40675 MaxPower (Ultimate, ratio = 10.50, Dmg, Shock, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 2 seconds (Constant)",
+    "<<3>> = 0.142038 MaxStat + 1.49139 MaxPower (Ultimate, ratio = 10.50, Dmg, Shock, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

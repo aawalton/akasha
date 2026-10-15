@@ -20,5 +20,6 @@ export const hideousClarity185240 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 633,
   createdAt: "2026-05-28T16:03:32.760Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 112 (Constant)"],
 } as const satisfies TemperSkill

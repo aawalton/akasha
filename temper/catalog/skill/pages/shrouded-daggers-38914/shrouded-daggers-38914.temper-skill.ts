@@ -20,5 +20,12 @@ export const shroudedDaggers38914 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1180,
   createdAt: "2026-05-28T16:03:33.776Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 3 seconds (Constant)",
+    "<<3>> = Major Brutality (Constant)",
+    "<<4>> = 20% (Constant)",
+    "<<5>> = 20 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

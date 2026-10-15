@@ -20,5 +20,11 @@ export const radialSweep = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 956,
   createdAt: "2026-05-28T16:03:33.370Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, 0.25s cooldown, R2 = 1)",
+    "<<2>> = 0.05 MaxStat + 0.525 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, DOT, 2s tick, R2 = 1)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = 6 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,14 @@ export const chokingTalons20251 = {
   skillType: "temper-skill-type/active",
   hashPlace: 210,
   createdAt: "2026-05-28T16:03:31.938Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 4 seconds (Constant)",
+    "<<3>> = Minor Maim (Constant)",
+    "<<4>> = 5% (Constant)",
+    "<<5>> = 17 seconds (Constant)",
+    "<<6>> = Ignite (Constant)",
+    "<<7>> = 0.125 MaxStat + 1.3125 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

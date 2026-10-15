@@ -20,5 +20,11 @@ export const satedFury135841 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1129,
   createdAt: "2026-05-28T16:03:33.681Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 60 (Constant)",
+    "<<2>> = 2 seconds (Constant)",
+    "<<3>> = 300 (Constant)",
+    "<<4>> = 30% (Constant)",
+  ],
 } as const satisfies TemperSkill

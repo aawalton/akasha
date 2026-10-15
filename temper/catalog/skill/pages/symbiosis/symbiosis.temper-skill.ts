@@ -20,5 +20,12 @@ export const symbiosis = {
   skillType: "temper-skill-type/active",
   hashPlace: 1320,
   createdAt: "2026-05-26T02:59:07.677Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.043217621 MaxStat + 0.453779339 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.038415204 MaxStat + 0.403359642 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, SingleTarget, DOT, 3600s duration, 1s tick, R2 = 1)",
+    "<<3>> = 1 second (Constant)",
+    "<<4>> = 1155 (Constant)",
+    "<<5>> = 50% (Constant)",
+  ],
 } as const satisfies TemperSkill

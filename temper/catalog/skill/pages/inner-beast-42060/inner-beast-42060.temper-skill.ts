@@ -20,5 +20,16 @@ export const innerBeast42060 = {
   skillType: "temper-skill-type/active",
   hashPlace: 685,
   createdAt: "2026-05-28T16:03:32.854Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.09297 MaxStat + 0.976185 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = Minor Maim (Constant)",
+    "<<3>> = Minor Vulnerability (Constant)",
+    "<<4>> = 15 seconds (Constant)",
+    "<<5>> = 5% (Constant)",
+    "<<6>> = Radiate (Constant)",
+    "<<7>> = 0.0199778 MaxStat + 0.210472 MaxPower - 1.95606 (Ultimate, ratio = 10.54, Dmg, Flame, SingleTarget, DOT, 2s duration, 1s tick, R2 = 0.999993)",
+    "<<8>> = 3 seconds (Constant)",
+    "<<9>> = 0.0999631 MaxStat + 1.0499 MaxPower - 0.231961 (Ultimate, ratio = 10.50, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

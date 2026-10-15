@@ -20,5 +20,9 @@ export const silverShards = {
   skillType: "temper-skill-type/active",
   hashPlace: 1189,
   createdAt: "2026-05-26T02:59:07.663Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.09297 MaxStat + 0.976185 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, R2 = 1)",
+    "<<2>> = 22% (Constant)",
+  ],
 } as const satisfies TemperSkill

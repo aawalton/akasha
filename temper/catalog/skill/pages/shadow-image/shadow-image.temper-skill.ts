@@ -20,5 +20,13 @@ export const shadowImage = {
   skillType: "temper-skill-type/active",
   hashPlace: 1151,
   createdAt: "2026-05-26T03:13:12.489Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 20 seconds (Constant)",
+    "<<2>> = 0.02134178 MaxStat + 0.22408869 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+    "<<3>> = 2 seconds (Constant)",
+    "<<4>> = Minor Maim (Constant)",
+    "<<5>> = 4 seconds (Constant)",
+    "<<6>> = 5% (Constant)",
+  ],
 } as const satisfies TemperSkill

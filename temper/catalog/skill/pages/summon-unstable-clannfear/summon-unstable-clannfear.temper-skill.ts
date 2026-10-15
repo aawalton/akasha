@@ -20,5 +20,12 @@ export const summonUnstableClannfear = {
   skillType: "temper-skill-type/active",
   hashPlace: 1295,
   createdAt: "2026-05-26T03:13:12.520Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.016006335 MaxStat + 0.168066001 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.016006335 MaxStat + 0.168066001 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, AOE, Direct, Melee, 0.8s cooldown, R2 = 1)",
+    "<<3>> = 4320 (Constant)",
+    "<<4>> = 0.320086 Health - 0.229239 (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<5>> = 0.160046 Health - 0.751143 (Health, Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

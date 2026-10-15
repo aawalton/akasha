@@ -20,5 +20,10 @@ export const bloodSacrifice = {
   skillType: "temper-skill-type/active",
   hashPlace: 127,
   createdAt: "2026-05-26T03:13:12.190Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.16006335 MaxStat + 1.68067034 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 4 seconds (Constant)",
+    "<<3>> = 6% (Constant)",
+  ],
 } as const satisfies TemperSkill

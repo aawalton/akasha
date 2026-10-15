@@ -20,5 +20,10 @@ export const vengeanceBacklash = {
   skillType: "temper-skill-type/active",
   hashPlace: 1415,
   createdAt: "2026-05-28T16:03:34.200Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 4850 Magic Damage (Constant)",
+    "<<3>> = 14550 Magic Damage (Constant)",
+  ],
 } as const satisfies TemperSkill

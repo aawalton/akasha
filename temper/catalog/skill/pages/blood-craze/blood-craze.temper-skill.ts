@@ -20,5 +20,11 @@ export const bloodCraze = {
   skillType: "temper-skill-type/active",
   hashPlace: 114,
   createdAt: "2026-05-26T02:38:38.295Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.025825 MaxStat + 0.271163 MaxPower (Ultimate, ratio = 10.50, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.0156088 MaxStat + 0.162726 MaxPower - 2.99952 (Ultimate, ratio = 10.43, Dmg, Bleed, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999995)",
+    "<<3>> = 20 seconds (Constant)",
+    "<<4>> = 0.0161686 MaxStat + 0.167942 MaxPower - 3.95945 (Ultimate, ratio = 10.39, Heal, SingleTarget, Direct, 2s tick, R2 = 0.999997)",
+  ],
 } as const satisfies TemperSkill

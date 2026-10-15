@@ -20,5 +20,11 @@ export const shatterSoul = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1159,
   createdAt: "2026-05-26T03:25:55.815Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.109756 MaxStat + 1.15244 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, DOT, 5s duration, 1s tick, R2 = 1)",
+    "<<2>> = 5 seconds (Constant)",
+    "<<3>> = 0.106622 MaxStat + 1.12092 MaxPower - 1.569 (Ultimate, ratio = 10.51, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<4>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

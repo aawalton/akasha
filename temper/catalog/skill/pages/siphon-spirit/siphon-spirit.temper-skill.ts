@@ -20,5 +20,15 @@ export const siphonSpirit = {
   skillType: "temper-skill-type/active",
   hashPlace: 1193,
   createdAt: "2026-05-26T02:38:38.356Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Lifesteal (Constant)",
+    "<<2>> = 30 seconds (Constant)",
+    "<<3>> = 600 (Constant)",
+    "<<4>> = 1 second (Constant)",
+    "<<5>> = Minor Magickasteal (Constant)",
+    "<<6>> = 30 seconds (Constant)",
+    "<<7>> = 168 (Constant)",
+    "<<8>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

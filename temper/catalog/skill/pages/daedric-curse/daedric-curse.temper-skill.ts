@@ -20,5 +20,10 @@ export const daedricCurse = {
   skillType: "temper-skill-type/active",
   hashPlace: 290,
   createdAt: "2026-05-28T16:03:32.062Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.125064 MaxStat + 1.31209 MaxPower - 0.841971 (Ultimate, ratio = 10.49, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = Daedric Curse (Constant)",
+  ],
 } as const satisfies TemperSkill

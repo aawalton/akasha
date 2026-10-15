@@ -21,5 +21,12 @@ export const camouflagedHunter = {
   effects: "jsonl",
   hashPlace: 181,
   createdAt: "2026-05-26T02:59:07.552Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 5 seconds (Constant)",
+    "<<2>> = Major Savagery (Constant)",
+    "<<3>> = 12% (Constant)",
+    "<<4>> = Minor Berserk (Constant)",
+    "<<5>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

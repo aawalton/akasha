@@ -20,5 +20,11 @@ export const skeletalArcanist = {
   skillType: "temper-skill-type/active",
   hashPlace: 1198,
   createdAt: "2026-05-26T03:13:12.499Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 20 seconds (Constant)",
+    "<<2>> = Major Brutality (Constant)",
+    "<<3>> = 20% (Constant)",
+    "<<4>> = 0.02134178 MaxStat + 0.22408869 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Shock, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

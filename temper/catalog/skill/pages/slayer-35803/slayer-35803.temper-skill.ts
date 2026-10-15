@@ -20,5 +20,9 @@ export const slayer35803 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1207,
   createdAt: "2026-05-28T16:03:33.821Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 1% (Constant)",
+    "<<2>> = 1 FightersGuild (Fighters Guild Skills Slotted, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

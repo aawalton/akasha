@@ -21,5 +21,6 @@ export const transfer = {
   status: "unsupported",
   hashPlace: 1360,
   createdAt: "2026-05-26T03:13:12.533Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 2 (Constant)", "<<2>> = 4 seconds (Constant)"],
 } as const satisfies TemperSkill

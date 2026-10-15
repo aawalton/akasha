@@ -20,5 +20,11 @@ export const soulShred = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1229,
   createdAt: "2026-05-28T16:03:33.867Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.15 MaxStat + 1.575 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, 0.5s cooldown, R2 = 1)",
+    "<<2>> = 4 seconds (Constant)",
+    "<<3>> = Soul Leech (Constant)",
+    "<<4>> = 0.1388 MaxStat + 1.4571 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,10 @@ export const crystallizedSlab = {
   skillType: "temper-skill-type/active",
   hashPlace: 279,
   createdAt: "2026-05-26T03:13:12.236Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 1.5495 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<2>> = 0.0533085 MaxStat + 0.56047 MaxPower - 1.35721 (Ultimate, ratio = 10.51, Dmg, Frost, SingleTarget, Direct, R2 = 0.999999)",
+    "<<3>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,16 @@ export const brutalPounce39105 = {
   skillType: "temper-skill-type/active",
   hashPlace: 168,
   createdAt: "2026-05-28T16:03:31.859Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.080574 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Bleed, AOE, Direct, Melee, R2 = 1)",
+    "<<2>> = Hemorrhaging (Constant)",
+    "<<3>> = 7 (Constant)",
+    "<<4>> = Brutal Carnage (Constant)",
+    "<<5>> = 0.0851054 MaxStat + 0.690998 MaxPower - 4.60471 (Ultimate, ratio = 8.12, RankMod(1), Dmg, Bleed, AOE, DOT, 2s tick, R2 = 0.99998)",
+    "<<6>> = 12 seconds (Constant)",
+    "<<7>> = 450 (Constant)",
+    "<<8>> = 100 (Constant)",
+    "<<9>> = 10 (Constant)",
+  ],
 } as const satisfies TemperSkill

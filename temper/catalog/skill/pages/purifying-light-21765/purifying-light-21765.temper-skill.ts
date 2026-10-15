@@ -20,5 +20,15 @@ export const purifyingLight21765 = {
   skillType: "temper-skill-type/active",
   hashPlace: 948,
   createdAt: "2026-05-28T16:03:33.353Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.051612 MaxStat + 0.542543 MaxPower - 0.879855 (Ultimate, ratio = 10.51, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 0.0571312 MaxStat + 0.600358 MaxPower - 1.05682 (Ultimate, ratio = 10.51, Dmg, Magic, SingleTarget, Direct, R2 = 0.999999)",
+    "<<4>> = 200% (Constant)",
+    "<<5>> = 0.025825 MaxStat + 0.271163 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, 2s tick, R2 = 1)",
+    "<<6>> = 2 seconds (Constant)",
+    "<<7>> = 10 seconds (Constant)",
+    "<<8>> = Purifying Light (Constant)",
+  ],
 } as const satisfies TemperSkill

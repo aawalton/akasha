@@ -20,5 +20,9 @@ export const bombard = {
   skillType: "temper-skill-type/active",
   hashPlace: 139,
   createdAt: "2026-05-26T02:38:38.297Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.077476 MaxStat + 0.81349 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, R2 = 1)",
+    "<<2>> = 4 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

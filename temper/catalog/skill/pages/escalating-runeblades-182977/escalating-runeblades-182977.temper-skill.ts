@@ -20,5 +20,11 @@ export const escalatingRuneblades182977 = {
   skillType: "temper-skill-type/active",
   hashPlace: 453,
   createdAt: "2026-05-28T16:03:32.381Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.03099 MaxStat + 0.325395 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.0341034 MaxStat + 0.35787 MaxPower - 0.976442 (Ultimate, ratio = 10.49, Dmg, Magic, SingleTarget, Direct, R2 = 0.999999)",
+    "<<3>> = 0.0375691 MaxStat + 0.394074 MaxPower - 3.02228 (Ultimate, ratio = 10.49, Dmg, Magic, AOE, Direct, Melee, R2 = 0.999999)",
+    "<<4>> = 3% (Constant)",
+  ],
 } as const satisfies TemperSkill

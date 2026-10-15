@@ -20,5 +20,13 @@ export const combatPrayer = {
   skillType: "temper-skill-type/active",
   hashPlace: 230,
   createdAt: "2026-05-26T02:38:38.299Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.116213 MaxStat + 1.22023 MaxPower (Ultimate, ratio = 10.50, Heal, AOE, Direct, R2 = 1)",
+    "<<2>> = Minor Berserk (Constant)",
+    "<<3>> = Minor Resolve (Constant)",
+    "<<4>> = 5% (Constant)",
+    "<<5>> = 2974 (Constant)",
+    "<<6>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

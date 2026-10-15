@@ -20,5 +20,13 @@ export const wintersRevenge = {
   skillType: "temper-skill-type/active",
   hashPlace: 1624,
   createdAt: "2026-05-26T03:13:12.557Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0129781 MaxStat + 0.138056 MaxPower + 0.295763 (Ultimate, ratio = 10.64, Dmg, Frost, AOE, DOT, 1s tick, R2 = 0.999991)",
+    "<<2>> = 1 second (Constant)",
+    "<<3>> = 12 seconds (Constant)",
+    "<<4>> = 30% (Constant)",
+    "<<5>> = 30% (Constant)",
+    "<<6>> = 3 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

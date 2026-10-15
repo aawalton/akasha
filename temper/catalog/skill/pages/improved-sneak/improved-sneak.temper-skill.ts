@@ -22,5 +22,9 @@ export const improvedSneak = {
   effects: "jsonl",
   hashPlace: 675,
   createdAt: "2026-05-26T02:59:07.594Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 7 MediumArmor (Medium Armor, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 5 MediumArmor (Medium Armor, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

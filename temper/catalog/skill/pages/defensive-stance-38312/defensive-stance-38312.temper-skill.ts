@@ -20,5 +20,11 @@ export const defensiveStance38312 = {
   skillType: "temper-skill-type/active",
   hashPlace: 349,
   createdAt: "2026-05-28T16:03:32.148Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.3099 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 10% (Constant)",
+    "<<4>> = 10% (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,13 @@ export const soulTether = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1238,
   createdAt: "2026-05-26T03:13:12.509Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.16006335 MaxStat + 1.68067034 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, AOE, Direct, Melee, 0.5s cooldown, R2 = 1)",
+    "<<2>> = 4 seconds (Constant)",
+    "<<3>> = 8 seconds (Constant)",
+    "<<4>> = 0.0279759 MaxStat + 0.292231 MaxPower - 1.14756 (Ultimate, ratio = 10.45, Dmg, Magic, SingleTarget, DOT, 7s duration, 1s tick, R2 = 0.999997)",
+    "<<5>> = Soul Leech (Constant)",
+    "<<6>> = 0.1388 MaxStat + 1.4571 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

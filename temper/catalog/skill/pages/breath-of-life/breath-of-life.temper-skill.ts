@@ -20,5 +20,9 @@ export const breathOfLife = {
   skillType: "temper-skill-type/active",
   hashPlace: 165,
   createdAt: "2026-05-26T03:13:12.198Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, 0.001s duration, R2 = 1)",
+    "<<2>> = 0.05335445 MaxStat + 0.560221725 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

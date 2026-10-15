@@ -20,5 +20,9 @@ export const intensiveMender = {
   skillType: "temper-skill-type/active",
   hashPlace: 693,
   createdAt: "2026-05-26T03:13:12.372Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 8 seconds (Constant)",
+    "<<2>> = 0.06402534 MaxStat + 0.67226607 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, AOE, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

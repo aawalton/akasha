@@ -22,5 +22,6 @@ export const deadlyBash = {
   effects: "jsonl",
   hashPlace: 324,
   createdAt: "2026-05-26T02:38:38.303Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 500 (Constant)", "<<2>> = 50% (Constant)"],
 } as const satisfies TemperSkill

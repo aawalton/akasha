@@ -20,5 +20,11 @@ export const screamingCliffRacer86003 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1140,
   createdAt: "2026-05-28T16:03:33.702Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.09297 MaxStat + 0.976185 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 7 seconds (Constant)",
+    "<<3>> = 100 (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

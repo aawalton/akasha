@@ -22,5 +22,9 @@ export const undeath = {
   effects: "jsonl",
   hashPlace: 1382,
   createdAt: "2026-05-26T03:25:55.835Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 15% (Constant)",
+    "<<2>> = 0.0002631 Health - 3.3792 (Health, Dmg, Generic, SingleTarget, Direct, Melee, R2 = 0.5958)",
+  ],
 } as const satisfies TemperSkill

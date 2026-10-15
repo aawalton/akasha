@@ -20,5 +20,16 @@ export const refreshingPath36028 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1007,
   createdAt: "2026-05-28T16:03:33.466Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10 seconds (Constant)",
+    "<<2>> = Major Expedition (Constant)",
+    "<<3>> = Minor Endurance (Constant)",
+    "<<4>> = Minor Intellect (Constant)",
+    "<<5>> = 30% (Constant)",
+    "<<6>> = 15% (Constant)",
+    "<<7>> = 4 seconds (Constant)",
+    "<<8>> = 0.0187221 MaxStat + 0.197107 MaxPower + 0.0870345 (Ultimate, ratio = 10.53, Heal, AOE, Direct, 1s tick, R2 = 0.999998)",
+    "<<9>> = 1 second (Constant)",
+  ],
 } as const satisfies TemperSkill

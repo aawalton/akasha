@@ -20,5 +20,11 @@ export const magesFury = {
   skillType: "temper-skill-type/active",
   hashPlace: 781,
   createdAt: "2026-05-28T16:03:33.040Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0375 MaxStat + 0.39375 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 2 seconds (Constant)",
+    "<<3>> = 0.137506 MaxStat + 1.4438 MaxPower - 0.911267 (Ultimate, ratio = 10.50, Dmg, Shock, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<4>> = 0.03 MaxStat + 0.315 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

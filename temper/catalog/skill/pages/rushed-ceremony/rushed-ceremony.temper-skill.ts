@@ -20,5 +20,8 @@ export const rushedCeremony = {
   skillType: "temper-skill-type/active",
   hashPlace: 1118,
   createdAt: "2026-05-28T16:03:33.663Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.15 MaxStat + 1.575 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

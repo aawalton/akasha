@@ -20,5 +20,9 @@ export const vengeanceScatterShot = {
   skillType: "temper-skill-type/active",
   hashPlace: 1549,
   createdAt: "2026-05-28T16:03:34.393Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.06 MaxStat + 0.63 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 8 meters (Constant)",
+  ],
 } as const satisfies TemperSkill

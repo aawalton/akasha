@@ -20,5 +20,14 @@ export const crushingWeapon = {
   skillType: "temper-skill-type/active",
   hashPlace: 269,
   createdAt: "2026-05-26T02:59:07.566Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 6 seconds (Constant)",
+    "<<2>> = 0.0960763 MaxStat + 1.00798 MaxPower - 1.15761 (Ultimate, ratio = 10.49, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<3>> = Major Breach (Constant)",
+    "<<4>> = 5948 (Constant)",
+    "<<5>> = 6 seconds (Constant)",
+    "<<6>> = 8% (Constant)",
+    "<<7>> = 6 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

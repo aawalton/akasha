@@ -20,5 +20,11 @@ export const sturdyHorn = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1283,
   createdAt: "2026-05-26T03:25:55.829Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10% (Constant)",
+    "<<2>> = 30 seconds (Constant)",
+    "<<3>> = 1320 (Constant)",
+    "<<4>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

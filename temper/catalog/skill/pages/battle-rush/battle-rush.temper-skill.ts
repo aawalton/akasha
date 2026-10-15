@@ -21,5 +21,6 @@ export const battleRush = {
   effects: "jsonl",
   hashPlace: 83,
   createdAt: "2026-05-26T02:38:38.292Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 30% (Constant)", "<<2>> = 10 seconds (Constant)"],
 } as const satisfies TemperSkill

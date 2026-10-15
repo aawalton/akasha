@@ -20,5 +20,14 @@ export const runicSunder = {
   skillType: "temper-skill-type/active",
   hashPlace: 1116,
   createdAt: "2026-05-26T03:13:12.479Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 2200 (Constant)",
+    "<<3>> = Minor Maim (Constant)",
+    "<<4>> = 15 seconds (Constant)",
+    "<<5>> = 5% (Constant)",
+    "<<6>> = 15 seconds (Constant)",
+    "<<7>> = 2% (Constant)",
+  ],
 } as const satisfies TemperSkill

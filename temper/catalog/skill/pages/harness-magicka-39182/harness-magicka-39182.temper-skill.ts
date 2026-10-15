@@ -20,5 +20,11 @@ export const harnessMagicka39182 = {
   skillType: "temper-skill-type/active",
   hashPlace: 593,
   createdAt: "2026-05-28T16:03:32.687Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.3099 Magicka (Magicka, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 229 (Constant)",
+    "<<4>> = 30 (Constant)",
+  ],
 } as const satisfies TemperSkill

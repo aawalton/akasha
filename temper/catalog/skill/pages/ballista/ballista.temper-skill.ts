@@ -20,5 +20,9 @@ export const ballista = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 74,
   createdAt: "2026-05-26T02:38:38.291Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0532592 MaxStat + 0.559953 MaxPower - 1.35595 (Ultimate, ratio = 10.51, Dmg, Physical, SingleTarget, Direct, 4s duration, 0.333s tick, R2 = 0.999999)",
+    "<<2>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -21,5 +21,6 @@ export const persistence = {
   status: "unsupported",
   hashPlace: 883,
   createdAt: "2026-05-26T03:13:12.416Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 18% (Constant)"],
 } as const satisfies TemperSkill

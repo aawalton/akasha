@@ -20,5 +20,10 @@ export const natureSEmbrace = {
   skillType: "temper-skill-type/active",
   hashPlace: 847,
   createdAt: "2026-05-28T16:03:33.164Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.025813 MaxStat + 0.271375 MaxPower - 1.25987 (Ultimate, ratio = 10.51, Heal, SingleTarget, DOT, 10s duration, 2s tick, R2 = 0.999998)",
+    "<<2>> = 10 seconds (Constant)",
+    "<<3>> = 3 (Constant)",
+  ],
 } as const satisfies TemperSkill

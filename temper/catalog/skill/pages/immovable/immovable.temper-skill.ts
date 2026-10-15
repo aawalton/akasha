@@ -20,5 +20,11 @@ export const immovable = {
   skillType: "temper-skill-type/active",
   hashPlace: 663,
   createdAt: "2026-05-26T02:59:07.593Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 5948 (Constant)",
+    "<<2>> = 23 seconds (Constant)",
+    "<<3>> = 6 seconds (Constant)",
+    "<<4>> = 5 HeavyArmor + 65 (Heavy Armor, SingleTarget, Direct, 6s duration, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

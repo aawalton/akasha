@@ -20,5 +20,6 @@ export const concentratedBarrier103888 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 236,
   createdAt: "2026-05-28T16:03:31.983Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 2500 (Constant)"],
 } as const satisfies TemperSkill

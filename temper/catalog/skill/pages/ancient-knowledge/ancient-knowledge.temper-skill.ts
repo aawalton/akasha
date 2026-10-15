@@ -22,5 +22,6 @@ export const ancientKnowledge = {
   effects: "jsonl",
   hashPlace: 33,
   createdAt: "2026-05-26T02:38:38.288Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 12% (Constant)", "<<2>> = 12% (Constant)", "<<3>> = 20% (Constant)"],
 } as const satisfies TemperSkill

@@ -20,5 +20,14 @@ export const zenasEmpoweringDisc = {
   skillType: "temper-skill-type/active",
   hashPlace: 1634,
   createdAt: "2026-05-26T03:13:12.562Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = Minor Courage (Constant)",
+    "<<2>> = Minor Fortitude (Constant)",
+    "<<3>> = Minor Intellect (Constant)",
+    "<<4>> = Minor Endurance (Constant)",
+    "<<5>> = 215 (Constant)",
+    "<<6>> = 15% (Constant)",
+    "<<7>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

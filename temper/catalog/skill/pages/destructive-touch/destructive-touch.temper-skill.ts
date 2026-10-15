@@ -20,5 +20,10 @@ export const destructiveTouch = {
   skillType: "temper-skill-type/active",
   hashPlace: 361,
   createdAt: "2026-05-28T16:03:32.166Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.05 MaxStat + 0.525 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 0.0150563 MaxStat + 0.157611 MaxPower - 2.12747 (Ultimate, ratio = 10.47, Dmg, Magic, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999993)",
+    "<<3>> = 20 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

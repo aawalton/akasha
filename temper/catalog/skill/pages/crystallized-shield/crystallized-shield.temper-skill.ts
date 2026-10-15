@@ -20,5 +20,9 @@ export const crystallizedShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 278,
   createdAt: "2026-05-28T16:03:32.045Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 1 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<2>> = 2 (Constant)",
+  ],
 } as const satisfies TemperSkill

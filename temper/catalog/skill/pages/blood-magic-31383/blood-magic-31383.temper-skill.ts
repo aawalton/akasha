@@ -20,5 +20,10 @@ export const bloodMagic31383 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 120,
   createdAt: "2026-05-28T16:03:31.789Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.03 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<2>> = 5% (Constant)",
+    "<<3>> = 10 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

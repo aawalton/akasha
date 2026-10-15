@@ -22,5 +22,6 @@ export const followUp = {
   effects: "jsonl",
   hashPlace: 529,
   createdAt: "2026-05-26T02:38:38.322Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 10% (Constant)", "<<2>> = 4 seconds (Constant)"],
 } as const satisfies TemperSkill

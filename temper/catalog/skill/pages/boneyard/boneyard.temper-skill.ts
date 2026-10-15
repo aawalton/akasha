@@ -20,5 +20,14 @@ export const boneyard = {
   skillType: "temper-skill-type/active",
   hashPlace: 149,
   createdAt: "2026-05-28T16:03:31.830Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.012121 MaxStat + 0.127273 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Frost, AOE, DOT, 10s duration, 1s tick, R2 = 1)",
+    "<<2>> = 10 seconds (Constant)",
+    "<<3>> = Minor Vulnerability (Constant)",
+    "<<4>> = 5% (Constant)",
+    "<<5>> = 30% (Constant)",
+    "<<6>> = Grave Robber (Constant)",
+    "<<7>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, Dmg, Frost, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

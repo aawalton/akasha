@@ -20,5 +20,6 @@ export const darkVeil36552 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 316,
   createdAt: "2026-05-28T16:03:32.098Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: ["<<1>> = 1 second (Constant)"],
 } as const satisfies TemperSkill

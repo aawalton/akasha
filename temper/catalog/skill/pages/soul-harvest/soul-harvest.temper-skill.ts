@@ -20,5 +20,12 @@ export const soulHarvest = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1224,
   createdAt: "2026-05-26T03:13:12.505Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.16528 MaxStat + 1.73544 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, Melee, 0.4s cooldown, R2 = 1)",
+    "<<2>> = 20% (Constant)",
+    "<<3>> = 8 seconds (Constant)",
+    "<<4>> = 12% (Constant)",
+    "<<5>> = 10 (Constant)",
+  ],
 } as const satisfies TemperSkill

@@ -20,5 +20,11 @@ export const vengeanceFatewovenArmor = {
   skillType: "temper-skill-type/active",
   hashPlace: 1471,
   createdAt: "2026-05-28T16:03:34.281Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 20 seconds (Constant)",
+    "<<2>> = 5948 (Constant)",
+    "<<3>> = 20 seconds (Constant)",
+    "<<4>> = 2974 (Constant)",
+  ],
 } as const satisfies TemperSkill

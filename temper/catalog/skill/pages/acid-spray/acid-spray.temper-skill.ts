@@ -20,5 +20,10 @@ export const acidSpray = {
   skillType: "temper-skill-type/active",
   hashPlace: 14,
   createdAt: "2026-05-26T02:38:38.286Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.077476 MaxStat + 0.81349 MaxPower (Ultimate, ratio = 10.50, Dmg, Poison, AOE, Direct, R2 = 1)",
+    "<<2>> = 0.0145909 MaxStat + 0.1529 MaxPower - 1.02923 (Ultimate, ratio = 10.48, Dmg, Poison, SingleTarget, DOT, 4s duration, 1s tick, R2 = 0.999986)",
+    "<<3>> = 5 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

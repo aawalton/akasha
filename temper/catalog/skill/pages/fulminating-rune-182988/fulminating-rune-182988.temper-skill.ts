@@ -20,5 +20,15 @@ export const fulminatingRune182988 = {
   skillType: "temper-skill-type/active",
   hashPlace: 552,
   createdAt: "2026-05-28T16:03:32.578Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.0187221 MaxStat + 0.197106 MaxPower + 0.0870345 (Ultimate, ratio = 10.53, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999998)",
+    "<<2>> = 20 seconds (Constant)",
+    "<<3>> = 6 seconds (Constant)",
+    "<<4>> = 0.0620437 MaxStat + 0.650882 MaxPower - 2.37419 (Ultimate, ratio = 10.49, Dmg, Frost, AOE, Direct, Melee, R2 = 1)",
+    "<<5>> = Fulminating Rune (Constant)",
+    "<<6>> = 6 seconds (Constant)",
+    "<<7>> = Runebreak (Constant)",
+    "<<8>> = 0.12 MaxStat + 1.26 MaxPower (Ultimate, ratio = 10.50, Dmg, Frost, AOE, Direct, Melee, R2 = 1)",
+  ],
 } as const satisfies TemperSkill

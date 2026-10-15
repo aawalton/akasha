@@ -20,5 +20,9 @@ export const berserkerRage83238 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 89,
   createdAt: "2026-05-28T16:03:31.715Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, 0.4s cooldown, R2 = 1)",
+    "<<2>> = 12 seconds (Constant)",
+  ],
 } as const satisfies TemperSkill

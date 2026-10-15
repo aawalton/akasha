@@ -22,5 +22,9 @@ export const spellOrb = {
   effects: "jsonl",
   hashPlace: 1246,
   createdAt: "2026-05-26T02:59:07.670Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 10 seconds (Constant)",
+    "<<2>> = 0.0499489 MaxStat + 0.524968 MaxPower - 0.306011 (Ultimate, ratio = 10.51, Dmg, Magic, SingleTarget, Direct, R2 = 0.999999)",
+  ],
 } as const satisfies TemperSkill

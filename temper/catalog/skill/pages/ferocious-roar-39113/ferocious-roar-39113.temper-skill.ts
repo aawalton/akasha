@@ -20,5 +20,17 @@ export const ferociousRoar39113 = {
   skillType: "temper-skill-type/active",
   hashPlace: 508,
   createdAt: "2026-05-28T16:03:32.469Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-15T15:44:52.958Z",
+  equations: [
+    "<<1>> = 4 seconds (Constant)",
+    "<<2>> = 7 seconds (Constant)",
+    "<<3>> = Blood Hunger (Constant)",
+    "<<4>> = Major Courage (Constant)",
+    "<<5>> = 20 seconds (Constant)",
+    "<<6>> = Feeding Frenzy (Constant)",
+    "<<7>> = 6% (Constant)",
+    "<<8>> = Minor Force (Constant)",
+    "<<9>> = 30 seconds (Constant)",
+    "<<10>> = Major Savagery (Constant)",
+  ],
 } as const satisfies TemperSkill
