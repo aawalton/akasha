@@ -72,6 +72,30 @@ test("direct damage is each cast's hit and each wave that falls inside the fight
   expect(healed.directDamage).toBe(2 * 5555 + 2 * 9215)
 })
 
+test("Ultimate builds from nothing, and the ultimate is cast once it is affordable", () => {
+  const ultimate = { name: "Standard of Might", cost: 150, healingPerPoint: 51 }
+  const healed = healingOverRotation([LASH], 60, ultimate)
+  expect(healed.ultimate).toEqual({
+    name: "Standard of Might",
+    casts: 1,
+    gained: 180,
+    healing: 150 * 51,
+  })
+  expect(healed.skills[0]?.casts).toBe(59)
+  expect(healed.healingPerSecond).toBe((59 * 2514 + 150 * 51) / 60)
+})
+
+test("a skill giving Heroism adds its Ultimate while the Heroism lasts", () => {
+  const keeper = {
+    ...EMBERS,
+    durationMs: 20_000,
+    heroism: { ultimate: 1, everySeconds: 1.5, lastsSeconds: 15 },
+  }
+  const ultimate = { name: "Standard of Might", cost: 500, healingPerPoint: 0 }
+  const healed = healingOverRotation([keeper, LASH], 10, ultimate)
+  expect(healed.ultimate?.gained).toBeCloseTo(10 * 3 + 10 / 1.5)
+})
+
 test("a tick past the end of the fight does not count", () => {
   const healed = healingOverRotation([EMBERS], 5)
   expect(healed.skills[0]?.healing).toBe(4291 + 2 * 644)

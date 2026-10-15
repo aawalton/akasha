@@ -34,8 +34,31 @@ export const rotationHealing = {
         "The front bar's skills come before the back bar's, and swapping bars costs nothing.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No ultimate is cast.",
+      decisionKind: "decision-kind/departure",
+      statement: "The fight starts with no Ultimate.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A light attack is woven into each global cooldown, so Ultimate builds 3 a second from the start.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A skill giving Heroism adds the Ultimate its tooltip says while the Heroism lasts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Ultimate stops building at 500.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The ultimate is cast in the first global cooldown it is affordable, before any skill.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An ultimate cast heals its cost times the healing each point spent gives.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,5 +78,5 @@ export const rotationHealing = {
     },
   ],
   createdAt: "2026-10-14T20:33:53.850Z",
-  updatedAt: "2026-10-15T14:20:14.333Z",
+  updatedAt: "2026-10-15T14:44:22.533Z",
 } as const satisfies Module

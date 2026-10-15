@@ -8,7 +8,31 @@ export type RotationSkill = {
   readonly cooldownMs: number
   readonly healing: SkillHealing
   readonly damage?: SkillDamage
+  readonly heroism?: Heroism
 }
+
+export type Heroism = {
+  readonly ultimate: number
+  readonly everySeconds: number
+  readonly lastsSeconds: number
+}
+
+export type RotationUltimate = {
+  readonly name: string
+  readonly cost: number
+  readonly healingPerPoint: number
+}
+
+export type UltimateSpent = {
+  readonly name: string
+  readonly casts: number
+  readonly gained: number
+  readonly healing: number
+}
+
+const ULTIMATE_MAX = 500
+
+const LIGHT_ATTACK_ULTIMATE_PER_SECOND = 3
 
 export type SkillHealed = {
   readonly name: string
@@ -23,6 +47,7 @@ export type RotationHealed = {
   readonly directDamage: number
   readonly shielded: number
   readonly skills: readonly SkillHealed[]
+  readonly ultimate: UltimateSpent | undefined
 }
 
 const GLOBAL_COOLDOWN_SECONDS = 1
@@ -60,8 +85,14 @@ function directDamageOf(skill: RotationSkill, castAt: number, fightSeconds: numb
 
 export function healingOverRotation(
   skills: readonly RotationSkill[],
-  fightSeconds: number
+  fightSeconds: number,
+  ultimateSlotted?: RotationUltimate
 ): RotationHealed {
+  let ultimate = 0
+  let ultimateGained = 0
+  let ultimateCasts = 0
+  let heroismUntil = 0
+  let heroismPerSecond = 0
   const runsUntil = skills.map(() => 0)
   const readyAt = skills.map(() => 0)
   const casts = skills.map(() => 0)
@@ -75,13 +106,36 @@ export function healingOverRotation(
   let directDamage = 0
   let shielded = 0
   let now = 0
+  const step = (seconds: number): undefined => {
+    const heroic = Math.max(0, Math.min(seconds, heroismUntil - now))
+    const earned = seconds * LIGHT_ATTACK_ULTIMATE_PER_SECOND + heroic * heroismPerSecond
+    const kept = Math.min(ULTIMATE_MAX - ultimate, earned)
+    ultimate += kept
+    ultimateGained += kept
+    now += seconds
+    return undefined
+  }
   while (now < fightSeconds) {
+    if (
+      ultimateSlotted !== undefined &&
+      ultimateSlotted.cost > 0 &&
+      ultimate >= ultimateSlotted.cost
+    ) {
+      ultimate -= ultimateSlotted.cost
+      ultimateCasts += 1
+      step(GLOBAL_COOLDOWN_SECONDS)
+      continue
+    }
     const next = queue.find((at) => (runsUntil[at] ?? 0) <= now && (readyAt[at] ?? 0) <= now) ?? -1
     const skill = skills[next]
     if (skill === undefined) {
       lightAttacks += 1
-      now += GLOBAL_COOLDOWN_SECONDS
+      step(GLOBAL_COOLDOWN_SECONDS)
       continue
+    }
+    if (skill.heroism !== undefined) {
+      heroismUntil = now + skill.heroism.lastsSeconds
+      heroismPerSecond = skill.heroism.ultimate / skill.heroism.everySeconds
     }
     const { direct, shield, tick, tickSeconds } = skill.healing
     const ticks = tick === 0 ? 0 : ticksWithin(skill, tickSeconds, now, fightSeconds)
@@ -91,9 +145,13 @@ export function healingOverRotation(
     casts[next] = (casts[next] ?? 0) + 1
     runsUntil[next] = now + lastsOf(skill)
     readyAt[next] = now + skill.cooldownMs / MILLIS
-    now += Math.max(GLOBAL_COOLDOWN_SECONDS, skill.castMs / MILLIS)
+    step(Math.max(GLOBAL_COOLDOWN_SECONDS, skill.castMs / MILLIS))
   }
-  const total = healed.reduce((sum, one) => sum + one, 0)
+  const ultimateHealing =
+    ultimateSlotted === undefined
+      ? 0
+      : ultimateCasts * ultimateSlotted.cost * ultimateSlotted.healingPerPoint
+  const total = healed.reduce((sum, one) => sum + one, 0) + ultimateHealing
   return {
     fightSeconds,
     healingPerSecond: total / fightSeconds,
@@ -105,5 +163,14 @@ export function healingOverRotation(
       casts: casts[at] ?? 0,
       healing: healed[at] ?? 0,
     })),
+    ultimate:
+      ultimateSlotted === undefined
+        ? undefined
+        : {
+            name: ultimateSlotted.name,
+            casts: ultimateCasts,
+            gained: ultimateGained,
+            healing: ultimateHealing,
+          },
   }
 }
