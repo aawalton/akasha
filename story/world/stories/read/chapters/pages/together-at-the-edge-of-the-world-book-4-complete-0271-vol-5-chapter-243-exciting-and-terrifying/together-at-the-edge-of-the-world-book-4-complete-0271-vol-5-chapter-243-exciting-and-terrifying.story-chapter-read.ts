@@ -20,5 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0271Vol5Chapter243ExcitingA
     },
   ],
   createdAt: "2026-10-14T13:05:51.506Z",
-  updatedAt: "2026-10-14T13:05:51.506Z",
+  updatedAt: "2026-10-15T03:06:47.396Z",
+  ownProgress: 2036,
 } as const satisfies StoryChapterRead

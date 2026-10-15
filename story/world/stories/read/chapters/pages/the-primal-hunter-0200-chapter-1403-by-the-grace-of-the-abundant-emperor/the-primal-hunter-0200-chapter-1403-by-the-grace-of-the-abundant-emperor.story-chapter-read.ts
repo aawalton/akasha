@@ -20,5 +20,6 @@ export const thePrimalHunter0200Chapter1403ByTheGraceOfTheAbundantEmperor = {
     },
   ],
   createdAt: "2026-10-14T16:04:31.656Z",
-  updatedAt: "2026-10-14T16:04:31.656Z",
+  updatedAt: "2026-10-15T03:06:47.396Z",
+  ownProgress: 2666,
 } as const satisfies StoryChapterRead
