@@ -13,7 +13,8 @@ export const combatLastFight = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each fight replaces the one written before it.",
+      statement:
+        "A fight replaces the one written only where it was active longer, since the reload.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,5 +36,5 @@ export const combatLastFight = {
     },
   ],
   createdAt: "2026-10-14T22:31:44.311Z",
-  updatedAt: "2026-10-14T22:31:44.311Z",
+  updatedAt: "2026-10-15T14:04:07.028Z",
 } as const satisfies Module

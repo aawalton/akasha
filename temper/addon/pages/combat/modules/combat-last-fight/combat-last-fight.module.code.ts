@@ -102,7 +102,17 @@ export function summarizeLastFight(fight: CmxFight, log: readonly CoreLogLine[])
   }
 }
 
+let longestThisSession: LastFight | undefined
+
 export function recordLastFight(fight: CmxFight): undefined {
-  globalThis.TemperCombat_LastFight = summarizeLastFight(fight, fight.log)
+  const summary = summarizeLastFight(fight, fight.log)
+  if (
+    longestThisSession !== undefined &&
+    longestThisSession.activeSeconds >= summary.activeSeconds
+  ) {
+    return undefined
+  }
+  longestThisSession = summary
+  globalThis.TemperCombat_LastFight = summary
   return undefined
 }
