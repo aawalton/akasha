@@ -84,6 +84,19 @@ export function pairedLines(
   return lines
 }
 
+type Reading = NonNullable<NonNullable<CharacterCompletion["reportedStats"]>["frontBar"]>
+
+function archiveLine(reading: Reading): string {
+  if (reading.inArchive === undefined) return "Archive boons: not captured in this reading"
+  if (!reading.inArchive) return "outside the Infinite Archive"
+  const boons = reading.archiveBoons ?? []
+  if (boons.length === 0) return "in the Infinite Archive, no verse or vision held"
+  const named = boons.map((one) =>
+    one.stacks > 1 ? `${one.name} ×${String(one.stacks)}` : one.name
+  )
+  return `in the Infinite Archive with ${named.join(", ")}`
+}
+
 export async function temperSkillCheck(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return refused(read.refused.join(" "), INPUT)
@@ -104,6 +117,7 @@ export async function temperSkillCheck(argv: readonly string[], given: Given): P
     lines.push(
       `${bar}: max health ${String(stats.health)}, stat ${String(stats.maxStat)}, power ${String(stats.maxPower)}`
     )
+    lines.push(`  ${archiveLine(reading)}`)
     for (const skill of reading.skills) {
       const equations = byId.get(skill.abilityId)
       if (equations === undefined) {

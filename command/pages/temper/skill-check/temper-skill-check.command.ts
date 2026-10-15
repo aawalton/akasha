@@ -22,6 +22,10 @@ export const temperSkillCheck = {
         "Only a number that scales off a stat is said, with the tooltip over the equation.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each bar says whether its reading was taken in the Archive, and the boons held.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes to the game or to a page.",
     },
@@ -29,5 +33,5 @@ export const temperSkillCheck = {
   name: "skill-check",
   arguments: [{ argument: "argument/character" }],
   createdAt: "2026-10-15T15:46:32.286Z",
-  updatedAt: "2026-10-15T15:46:32.286Z",
+  updatedAt: "2026-10-15T16:01:40.179Z",
 } as const satisfies Command

@@ -183,6 +183,14 @@ const classPassiveSchema = z.strictObject({
   description: z.string(),
 })
 
+const archiveBoonSchema = z.strictObject({
+  abilityId: z.number(),
+  kind: z.enum(["verse", "vision"]),
+  name: z.string(),
+  description: z.string(),
+  stacks: z.number(),
+})
+
 const reportedStatsReadingSchema = z.strictObject({
   capturedAt: z.number(),
   inCombat: z.boolean(),
@@ -193,6 +201,8 @@ const reportedStatsReadingSchema = z.strictObject({
   worn: luaArrayOrEmpty(wornPieceSchema).optional(),
   skills: luaArrayOrEmpty(slottedSkillSchema).optional(),
   classPassives: luaArrayOrEmpty(classPassiveSchema).optional(),
+  inArchive: z.boolean().optional(),
+  archiveBoons: luaArrayOrEmpty(archiveBoonSchema).optional(),
   buffs: numbers.optional(),
 })
 
