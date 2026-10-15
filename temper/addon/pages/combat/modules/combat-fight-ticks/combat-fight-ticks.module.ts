@@ -18,8 +18,7 @@ export const combatFightTicks = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Max health, the shield on the health bar and armor are sampled each second in combat.",
+      statement: "Max health, shields and armor are sampled each second in combat.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,9 +26,13 @@ export const combatFightTicks = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tick's shield is what is left of it when sampled, not its full size.",
+      statement: "A shield counts its full size from when it lands until it is gone from the bar.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sample's shield is the most that was up since the sample before.",
     },
   ],
   createdAt: "2026-10-15T15:22:11.793Z",
-  updatedAt: "2026-10-15T15:22:11.793Z",
+  updatedAt: "2026-10-15T15:29:54.330Z",
 } as const satisfies Module

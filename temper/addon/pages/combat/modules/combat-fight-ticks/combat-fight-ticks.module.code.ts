@@ -36,22 +36,67 @@ const TICK_MS = 1000
 
 let samples: Sample[] = []
 
+let fullShield = 0
+
+let peakShield = 0
+
+function shieldUp(amount: number): undefined {
+  fullShield = math.max(0, amount)
+  peakShield = math.max(peakShield, fullShield)
+  return undefined
+}
+
+function onShieldAdded(
+  this: void,
+  _eventCode: number,
+  _unitTag: string,
+  unitAttributeVisual: number,
+  _statType: number,
+  _attributeType: number,
+  _powerType: number,
+  value: number
+): undefined {
+  if (unitAttributeVisual !== ATTRIBUTE_VISUAL_POWER_SHIELDING) return undefined
+  return shieldUp(value)
+}
+
+function onShieldUpdated(
+  this: void,
+  _eventCode: number,
+  _unitTag: string,
+  unitAttributeVisual: number,
+  _statType: number,
+  _attributeType: number,
+  _powerType: number,
+  oldValue: number,
+  newValue: number
+): undefined {
+  if (unitAttributeVisual !== ATTRIBUTE_VISUAL_POWER_SHIELDING) return undefined
+  if (newValue <= oldValue) return undefined
+  return shieldUp(fullShield + newValue - oldValue)
+}
+
+function onShieldRemoved(
+  this: void,
+  _eventCode: number,
+  _unitTag: string,
+  unitAttributeVisual: number
+): undefined {
+  if (unitAttributeVisual !== ATTRIBUTE_VISUAL_POWER_SHIELDING) return undefined
+  fullShield = 0
+  return undefined
+}
+
 function sample(this: void): undefined {
   const [, healthMaximum] = GetUnitPower("player", COMBAT_MECHANIC_FLAGS_HEALTH)
-  const [shield] = GetUnitAttributeVisualizerEffectInfo(
-    "player",
-    ATTRIBUTE_VISUAL_POWER_SHIELDING,
-    STAT_MITIGATION,
-    ATTRIBUTE_HEALTH,
-    COMBAT_MECHANIC_FLAGS_HEALTH
-  )
   samples.push([
     GetGameTimeMilliseconds(),
     healthMaximum,
-    shield ?? 0,
+    peakShield,
     GetPlayerStat(STAT_PHYSICAL_RESIST),
     GetPlayerStat(STAT_SPELL_RESIST),
   ])
+  peakShield = fullShield
   return undefined
 }
 
@@ -68,6 +113,14 @@ export function watchFightTicks(): undefined {
     EVENT_PLAYER_COMBAT_STATE,
     onCombatState as (eventCode: number) => void
   )
+  for (const [name, event, handler] of [
+    [`${SAMPLER}ShieldAdded`, EVENT_UNIT_ATTRIBUTE_VISUAL_ADDED, onShieldAdded],
+    [`${SAMPLER}ShieldUpdated`, EVENT_UNIT_ATTRIBUTE_VISUAL_UPDATED, onShieldUpdated],
+    [`${SAMPLER}ShieldRemoved`, EVENT_UNIT_ATTRIBUTE_VISUAL_REMOVED, onShieldRemoved],
+  ] as const) {
+    EVENT_MANAGER.RegisterForEvent(name, event, handler as (eventCode: number) => void)
+    EVENT_MANAGER.AddFilterForEvent(name, event, REGISTER_FILTER_UNIT_TAG, "player")
+  }
   return undefined
 }
 
