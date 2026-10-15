@@ -76105,7 +76105,7 @@
       "name": "Aetheric Lancer",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Templar",
-      "slotsUnlocked": 12,
+      "slotsUnlocked": 13,
       "totalSlots": 36,
       "pieces": [
         {
@@ -76250,7 +76250,7 @@
         },
         {
           "name": "Aetheric Lancer Shield",
-          "unlocked": false
+          "unlocked": true
         }
       ]
     },
