@@ -15,7 +15,8 @@ const MENTIONS_HEALING = /heal|shield|restor/i
 
 const DEFAULT_TICK_SECONDS = 2
 
-const SHIELD = /damage shield that absorbs (\d+) damage(?: for (\d+) seconds?)?/i
+const SHIELD =
+  /damage shield (?:around you )?that absorbs (?:up to )?(\d+) damage(?: for (\d+) seconds?)?/i
 
 const HIT_THEN_TICKS =
   /heal(?:s|ing)? for (\d+) Health from the initial hit and (\d+) Health each subsequent tick/i

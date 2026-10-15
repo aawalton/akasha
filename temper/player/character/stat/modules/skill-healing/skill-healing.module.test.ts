@@ -37,6 +37,15 @@ test("a damage shield is read, and its growth per enemy is kept as unread", () =
   ])
 })
 
+test("a shield formed around you that absorbs up to an amount is read", () => {
+  const read = readSkillHealing(
+    "Power drawn from the heart of a volcano forms a damage shield around you that absorbs up to |cffffff18647|r damage for |cffffff9|r seconds, scaling off your Max Health."
+  )
+  expect(read.shield).toBe(18647)
+  expect(read.lastsSeconds).toBe(9)
+  expect(read.unread).toEqual([])
+})
+
 test("only the first heal counts, so a heal on a later activation does not", () => {
   const read = readSkillHealing(FLAME_LASH)
   expect(read.direct).toBe(2514)
