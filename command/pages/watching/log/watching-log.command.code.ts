@@ -30,9 +30,9 @@ import {
 import type { Wrote } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
 
-export type Source = "netflix" | "prime-video"
+type Source = "netflix" | "prime-video"
 
-export type Linked = {
+type Linked = {
   readonly source: Source
   readonly externalId: string
   readonly externalLink: string
@@ -40,7 +40,7 @@ export type Linked = {
 
 type Kind = typeof show.slug | typeof movie.slug
 
-export type Known = {
+type Known = {
   readonly kind: Kind
   readonly title: string
   readonly publishedAt: string | null
@@ -153,12 +153,12 @@ export function slugOf(title: string): string {
     .replace(/^-+|-+$/g, "")
 }
 
-export function dayNow(now: Date): string {
+function dayNow(now: Date): string {
   const wall = mountainWallAt(now)
   return `${String(wall.year)}-${padTwo(wall.month)}-${padTwo(wall.day)}`
 }
 
-export function askedOfWikidata(linked: Linked): string {
+function askedOfWikidata(linked: Linked): string {
   const id = WIKIDATA_ID[linked.source]
   return [
     "SELECT ?label ?film ?series ?published ?started ?minutes WHERE {",
@@ -260,7 +260,7 @@ function titled(title: string): string {
   return slugOf(title).replace(/-/g, "")
 }
 
-export function heldFor(every: readonly Held[], linked: Linked, known: Known | null): Held | null {
+function heldFor(every: readonly Held[], linked: Linked, known: Known | null): Held | null {
   const named = every.find((one) => names(one, linked))
   if (named !== undefined || known === null) return named ?? null
   const sought = titled(known.title)
@@ -315,7 +315,7 @@ export function freshValues(
   }
 }
 
-export function keptValues(
+function keptValues(
   held: Held,
   linked: Linked,
   status: string,
