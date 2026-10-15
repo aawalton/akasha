@@ -37,7 +37,7 @@ export const temperHps = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The game's healing per second is said with overheal, as the estimate counts, and without.",
+        "Healing per second counts overheal, since overheal cancels damage in the same global cooldown.",
     },
     {
       decisionKind: "decision-kind/stopgap",
@@ -48,5 +48,5 @@ export const temperHps = {
   name: "hps",
   arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
   createdAt: "2026-10-14T20:35:43.699Z",
-  updatedAt: "2026-10-14T22:34:47.892Z",
+  updatedAt: "2026-10-15T14:14:59.792Z",
 } as const satisfies Command
