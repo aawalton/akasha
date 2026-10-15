@@ -18,6 +18,6 @@ export const theWanderingInn0810InterludeSpearsAndStuff = {
   ],
   prose: "txt",
   createdAt: "2026-09-03T04:55:57.810Z",
-  updatedAt: "2026-10-15T14:07:46.579Z",
-  ownProgress: 9107,
+  updatedAt: "2026-10-15T14:07:57.384Z",
+  ownProgress: 9160,
 } as const satisfies StoryChapterRead
