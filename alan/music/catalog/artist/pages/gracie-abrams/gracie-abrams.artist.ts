@@ -17,10 +17,10 @@ export const gracieAbrams = {
       source: "spotify",
       externalId: "4tuJ0bMpJh08umKkEXKUI5",
       externalLink: "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5",
-      lastSyncedAt: "2026-09-14",
+      lastSyncedAt: "2026-10-15",
     },
   ],
   title: "Gracie Abrams",
   createdAt: "2026-09-03T16:04:08.683Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T13:55:23.541Z",
 } as const satisfies Artist

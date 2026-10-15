@@ -7,7 +7,7 @@ export const gracieAbramsBlockMeOut = {
   title: "Block me out",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 4.158233,
+  ownLength: 4.1582333333333334,
   ownProgress: 4.158233,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const gracieAbramsBlockMeOut = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-15T13:55:23.541Z",
 } as const satisfies Release

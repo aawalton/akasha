@@ -7,7 +7,7 @@ export const gracieAbramsTheSecretOfUs = {
   title: "The Secret of Us",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 47.661267,
+  ownLength: 47.66126666666667,
   ownProgress: 47.661267,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const gracieAbramsTheSecretOfUs = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-15T13:55:23.541Z",
 } as const satisfies Release

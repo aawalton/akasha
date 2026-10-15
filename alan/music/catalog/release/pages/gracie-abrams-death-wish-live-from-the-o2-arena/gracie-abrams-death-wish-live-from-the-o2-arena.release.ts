@@ -7,7 +7,7 @@ export const gracieAbramsDeathWishLiveFromTheO2Arena = {
   title: "Death Wish (Live from The O2 Arena)",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 3.789183,
+  ownLength: 3.7891833333333333,
   ownProgress: 3.789183,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const gracieAbramsDeathWishLiveFromTheO2Arena = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-15T13:55:23.541Z",
 } as const satisfies Release

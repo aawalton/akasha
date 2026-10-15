@@ -7,7 +7,7 @@ export const gracieAbramsMessItUp = {
   title: "Mess It Up",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 2.854667,
+  ownLength: 2.8546666666666667,
   ownProgress: 2.854667,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const gracieAbramsMessItUp = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.276Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T13:55:23.541Z",
 } as const satisfies Release

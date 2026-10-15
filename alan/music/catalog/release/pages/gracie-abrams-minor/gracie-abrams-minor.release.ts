@@ -7,7 +7,7 @@ export const gracieAbramsMinor = {
   title: "minor",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 20.215567,
+  ownLength: 20.215566666666668,
   ownProgress: 20.215567,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const gracieAbramsMinor = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.276Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T13:55:23.541Z",
 } as const satisfies Release

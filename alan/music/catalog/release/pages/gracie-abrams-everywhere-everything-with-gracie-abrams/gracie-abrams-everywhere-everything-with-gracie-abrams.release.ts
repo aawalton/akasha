@@ -7,7 +7,7 @@ export const gracieAbramsEverywhereEverythingWithGracieAbrams = {
   title: "Everywhere, Everything (with Gracie Abrams)",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 4.294467,
+  ownLength: 4.294466666666667,
   ownProgress: 4.294467,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const gracieAbramsEverywhereEverythingWithGracieAbrams = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.269Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-15T13:55:23.541Z",
 } as const satisfies Release

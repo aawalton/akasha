@@ -7,7 +7,7 @@ export const gracieAbramsStay = {
   title: "Stay",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 2.952533,
+  ownLength: 2.9525333333333332,
   ownProgress: 2.952533,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const gracieAbramsStay = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T13:55:23.541Z",
 } as const satisfies Release
