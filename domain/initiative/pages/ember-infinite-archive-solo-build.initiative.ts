@@ -10,7 +10,7 @@ export const emberInfiniteArchiveSoloBuild = {
     {
       statement: "Erin's armor, penetration, max health and healing per second are known.",
       workingMemory:
-        "Matching the game out of combat: armor 27,370 with the Lover and 32,382 with the Lady, penetration 11,050, max health 31,895. `akasha temper tps` says toughness per second, the mean over one-second ticks of the hit that would kill: max health, shields up and healing landing, over the damage that lands. It is 97,535 estimated; the combat add-on now keeps ticks for a fight's own figure. The model lacks Power Lash, which needs Off Balance, and Brawler's growth per enemy hit.",
+        "Matching the game out of combat: armor 27,370 with the Lover and 32,382 with the Lady, penetration 11,050, max health 31,895. `akasha temper tps` says toughness per second, the mean over one-second ticks of the hit that would kill: max health, shields up and healing landing, over the damage that lands. It is 131,751 estimated against 118,668 in a 55 tick fight, whose shields count what was left. The model lacks Power Lash, which needs Off Balance, and Brawler's growth per enemy hit.",
     },
   ],
   constraints: [
@@ -24,5 +24,5 @@ export const emberInfiniteArchiveSoloBuild = {
     "Every damage skill on Erin's bars also keeps Erin alive.",
   ],
   createdAt: "2026-10-14T13:52:46.306Z",
-  updatedAt: "2026-10-15T15:24:42.279Z",
+  updatedAt: "2026-10-15T15:28:57.834Z",
 } as const satisfies Initiative
