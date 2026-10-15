@@ -75340,7 +75340,7 @@
       "name": "Spattering Disjunction",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Arcanist",
-      "slotsUnlocked": 23,
+      "slotsUnlocked": 24,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75441,7 +75441,7 @@
         },
         {
           "name": "Spattering Disjunction Axe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Spattering Disjunction Mace",
