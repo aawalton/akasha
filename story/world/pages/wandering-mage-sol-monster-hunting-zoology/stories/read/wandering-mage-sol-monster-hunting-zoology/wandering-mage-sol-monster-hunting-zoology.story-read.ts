@@ -5,7 +5,7 @@ export const wanderingMageSolMonsterHuntingZoology = {
   type: "page-type/story-read",
   slug: "wandering-mage-sol-monster-hunting-zoology",
   author: "Winter Knights",
-  following: true,
+  following: false,
   unit: "unit/words",
   title: "Wandering Mage [SoL - Monster Hunting / Zoology]",
   world: "world/wandering-mage-sol-monster-hunting-zoology",
@@ -32,5 +32,5 @@ export const wanderingMageSolMonsterHuntingZoology = {
   ],
   publicationStatus: "ongoing",
   createdAt: "2026-10-06T13:05:39.365Z",
-  updatedAt: "2026-10-06T13:05:40.000Z",
+  updatedAt: "2026-10-15T22:05:44.663Z",
 } as const satisfies StoryRead

@@ -20,5 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0207EskauReforgedBook14
     },
   ],
   createdAt: "2026-10-15T17:04:34.001Z",
-  updatedAt: "2026-10-15T17:04:34.001Z",
+  updatedAt: "2026-10-15T22:05:44.663Z",
+  ownProgress: 35,
 } as const satisfies StoryChapterRead

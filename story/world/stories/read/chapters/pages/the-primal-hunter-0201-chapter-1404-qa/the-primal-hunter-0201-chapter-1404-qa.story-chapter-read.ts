@@ -20,5 +20,6 @@ export const thePrimalHunter0201Chapter1404Qa = {
     },
   ],
   createdAt: "2026-10-15T16:06:51.688Z",
-  updatedAt: "2026-10-15T16:06:51.688Z",
+  updatedAt: "2026-10-15T22:05:44.663Z",
+  ownProgress: 2819,
 } as const satisfies StoryChapterRead
