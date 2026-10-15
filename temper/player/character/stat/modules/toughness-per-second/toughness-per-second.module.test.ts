@@ -9,11 +9,15 @@ test("armor takes off its rating over 66,000, up to half", () => {
   expect(armorShareOf(66000, 13200)).toBe(0.35)
 })
 
-test("max health is spread over the fight, and what damage is left divides the whole", () => {
+test("each tick's killing hit is max health, shields up and healing landing, over damage left", () => {
   const toughness = { healthMaximum: 30000, armorShare: 0.5, damageTaken: -0.2 }
-  expect(toughnessPerSecond(toughness, 570000, 60)).toBe(25000)
+  const ticks = [
+    { healing: 2000, shield: 0 },
+    { healing: 0, shield: 10000 },
+  ]
+  expect(toughnessPerSecond(toughness, ticks)).toBe((80000 + 100000) / 2)
 })
 
-test("a fight of no seconds gives no toughness", () => {
-  expect(toughnessPerSecond({ healthMaximum: 1, armorShare: 0, damageTaken: 0 }, 1, 0)).toBe(0)
+test("a fight of no ticks gives no toughness", () => {
+  expect(toughnessPerSecond({ healthMaximum: 1, armorShare: 0, damageTaken: 0 }, [])).toBe(0)
 })

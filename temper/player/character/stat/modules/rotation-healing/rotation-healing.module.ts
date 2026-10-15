@@ -76,7 +76,20 @@ export const rotationHealing = {
       decisionKind: "decision-kind/departure",
       statement: "A cast's direct damage is its hit and each wave that falls inside the fight.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each heal and hit is kept in the one-second tick it falls in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A shield is kept in every tick from its cast until it runs out, and at least one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tick falling at the fight's last instant is kept in the last tick.",
+    },
   ],
   createdAt: "2026-10-14T20:33:53.850Z",
-  updatedAt: "2026-10-15T14:44:22.533Z",
+  updatedAt: "2026-10-15T15:19:50.968Z",
 } as const satisfies Module

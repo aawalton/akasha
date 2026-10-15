@@ -15,6 +15,6 @@ export function readEnchantProc(enchant: string): EnchantProc | undefined {
   return { damage: Number(read[1]), healing: Number(read[2]) }
 }
 
-export function procsWithin(fightSeconds: number): number {
-  return Math.floor(fightSeconds / ENCHANT_PROC_SECONDS)
+export function procsIn(tick: number): boolean {
+  return (tick + 1) % ENCHANT_PROC_SECONDS === 0
 }

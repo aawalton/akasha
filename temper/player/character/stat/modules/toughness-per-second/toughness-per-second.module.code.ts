@@ -22,7 +22,13 @@ export function damageLeft(toughness: Toughness): number {
   return (1 - toughness.armorShare) * (1 + toughness.damageTaken)
 }
 
-export function toughnessPerSecond(toughness: Toughness, healed: number, seconds: number): number {
-  if (seconds <= 0) return 0
-  return (toughness.healthMaximum + healed) / seconds / damageLeft(toughness)
+export type ToughnessTick = { readonly healing: number; readonly shield: number }
+
+export function killingHit(toughness: Toughness, tick: ToughnessTick): number {
+  return (toughness.healthMaximum + tick.shield + tick.healing) / damageLeft(toughness)
+}
+
+export function toughnessPerSecond(toughness: Toughness, ticks: readonly ToughnessTick[]): number {
+  if (ticks.length === 0) return 0
+  return ticks.reduce((sum, tick) => sum + killingHit(toughness, tick), 0) / ticks.length
 }

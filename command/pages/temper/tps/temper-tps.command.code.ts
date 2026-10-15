@@ -24,7 +24,7 @@ import { loadSetCatalog } from "akasha/temper/player/character/characters-equipm
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import {
   type EnchantProc,
-  procsWithin,
+  procsIn,
   readEnchantProc,
 } from "akasha/temper/player/character/stat/modules/enchant-proc/enchant-proc.module.code.ts"
 import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
@@ -100,17 +100,16 @@ function lastFightOf(slug: string): LastFight | undefined {
   return slugOf(fight.character) === slug ? fight : undefined
 }
 
-function gameLines(fight: LastFight | undefined, toughness: Toughness): string[] {
+function gameLines(fight: LastFight | undefined): string[] {
   if (fight === undefined) return ["", "the game has written no fight for this character yet"]
   const abilities = [...(fight.abilities ?? [])].sort(
     (a, b) => b.healing + b.overheal - (a.healing + a.overheal)
   )
   const shields = fight.shielded ?? fight.absorbed
   const healed = abilities.reduce((sum, one) => sum + one.healing + one.overheal, 0) + shields
-  const perSecond = toughnessPerSecond(toughness, healed, fight.activeSeconds)
   return [
     "",
-    `the game, last fight: ${Math.round(perSecond)} toughness per second over ${Math.round(fight.activeSeconds)} active seconds`,
+    `the game, last fight: ${Math.round(fight.activeSeconds)} active seconds, kept as totals without ticks, so no toughness per second`,
     `  healing and shields: ${Math.round(healed / Math.max(1, fight.activeSeconds))} per second`,
     ...abilities
       .filter((one) => one.healing + one.overheal > 0 || one.casts > 0 || (one.presses ?? 0) > 0)
@@ -293,21 +292,31 @@ export async function temperTps(argv: readonly string[], given: Given): Promise<
 
   const healed = healingOverRotation(skills, FIGHT_SECONDS, meanUltimate(ultimates))
   const proc = enchantProcOf(completion)
-  const procs = proc === undefined ? 0 : procsWithin(FIGHT_SECONDS)
-  const enchantHealing = procs * (proc?.healing ?? 0)
   const build = await buildOf(completion)
   const multipliers = multipliersOf(build, completion)
-  const directDamage = (healed.directDamage + procs * (proc?.damage ?? 0)) * multipliers.damage
-  const reaving = slotsReavingBlows(build) ? reavingBlowsShare() * directDamage : 0
-  const heals = healed.healingPerSecond * FIGHT_SECONDS - healed.shielded
-  const total = (heals + enchantHealing + reaving) * multipliers.healing + healed.shielded
-  const perSecond = total / FIGHT_SECONDS
-  const tps = toughnessPerSecond(multipliers, total, FIGHT_SECONDS)
+  const share = slotsReavingBlows(build) ? reavingBlowsShare() : 0
+  let procs = 0
+  let directDamage = 0
+  let reaving = 0
+  const ticks = healed.healingByTick.map((heal, at) => {
+    const procHere = procsIn(at) ? proc : undefined
+    if (procHere !== undefined) procs += 1
+    const hit = ((healed.damageByTick[at] ?? 0) + (procHere?.damage ?? 0)) * multipliers.damage
+    directDamage += hit
+    reaving += share * hit
+    const healing = (heal + (procHere?.healing ?? 0) + share * hit) * multipliers.healing
+    return { healing, shield: healed.shieldByTick[at] ?? 0 }
+  })
+  const enchantHealing = procs * (proc?.healing ?? 0)
+  const perSecond = ticks.reduce((sum, one) => sum + one.healing, 0) / ticks.length
+  const shieldUp = ticks.reduce((sum, one) => sum + one.shield, 0) / ticks.length
+  const tps = toughnessPerSecond(multipliers, ticks)
   if (read.taken.json) {
     return asJson({
       character: slug,
       ...healed,
       healingPerSecond: perSecond,
+      shieldUp,
       toughnessPerSecond: tps,
       healthMaximum: multipliers.healthMaximum,
       armorShare: multipliers.armorShare,
@@ -324,7 +333,7 @@ export async function temperTps(argv: readonly string[], given: Given): Promise<
     `${Math.round(tps)} toughness per second over ${FIGHT_SECONDS} seconds`,
     `  max health: ${Math.round(multipliers.healthMaximum)}`,
     `  armor takes ${pct(multipliers.armorShare)}, damage taken ${pct(multipliers.damageTaken)}, so ${pct(damageLeft(multipliers))} of damage lands`,
-    `  healing and shields: ${Math.round(perSecond)} per second`,
+    `  healing: ${Math.round(perSecond)} a tick, shields up: ${Math.round(shieldUp)} a tick`,
     ...healed.skills.map(
       (one) => `  ${one.name}: ${one.casts} casts, ${Math.round(one.healing)} healing`
     ),
@@ -338,6 +347,6 @@ export async function temperTps(argv: readonly string[], given: Given): Promise<
     lines.push("", `healing no shape here reads, in ${one.name}:`)
     for (const sentence of one.sentences) lines.push(`  ${sentence}`)
   }
-  lines.push(...gameLines(game, multipliers))
+  lines.push(...gameLines(game))
   return told(lines)
 }

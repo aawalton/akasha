@@ -60,6 +60,14 @@ export type RotationHealed = {
   readonly shielded: number
   readonly skills: readonly SkillHealed[]
   readonly ultimate: UltimateSpent | undefined
+  readonly healingByTick: readonly number[]
+  readonly shieldByTick: readonly number[]
+  readonly damageByTick: readonly number[]
+}
+
+function addAt(each: number[], at: number, amount: number): undefined {
+  each[at] = (each[at] ?? 0) + amount
+  return undefined
 }
 
 const GLOBAL_COOLDOWN_SECONDS = 1
@@ -70,29 +78,23 @@ function lastsOf(skill: RotationSkill): number {
   return Math.max(skill.durationMs / MILLIS, skill.healing.lastsSeconds)
 }
 
-function ticksWithin(
+function tickTimes(
   skill: RotationSkill,
   everySeconds: number,
   castAt: number,
   fightSeconds: number
-): number {
-  if (everySeconds <= 0) return 0
+): number[] {
+  if (everySeconds <= 0) return []
   const lasts = lastsOf(skill)
-  let ticks = 0
+  const times: number[] = []
   for (
     let at = castAt + everySeconds;
     at <= castAt + lasts && at <= fightSeconds;
     at += everySeconds
   ) {
-    ticks += 1
+    times.push(at)
   }
-  return ticks
-}
-
-function directDamageOf(skill: RotationSkill, castAt: number, fightSeconds: number): number {
-  const damage = skill.damage
-  if (damage === undefined) return 0
-  return damage.hit + damage.wave * ticksWithin(skill, damage.waveSeconds, castAt, fightSeconds)
+  return times
 }
 
 export function healingOverRotation(
@@ -115,9 +117,13 @@ export function healingOverRotation(
   }
   const queue = [...skills.keys()].sort((one, two) => lasting(one) - lasting(two))
   let lightAttacks = 0
-  let directDamage = 0
   let shielded = 0
   let now = 0
+  const tickCount = Math.ceil(fightSeconds)
+  const healingByTick = Array.from({ length: tickCount }, () => 0)
+  const shieldByTick = Array.from({ length: tickCount }, () => 0)
+  const damageByTick = Array.from({ length: tickCount }, () => 0)
+  const tickOf = (at: number) => Math.min(tickCount - 1, Math.floor(at))
   const step = (seconds: number): undefined => {
     const heroic = Math.max(0, Math.min(seconds, heroismUntil - now))
     const earned = seconds * LIGHT_ATTACK_ULTIMATE_PER_SECOND + heroic * heroismPerSecond
@@ -135,6 +141,7 @@ export function healingOverRotation(
     ) {
       ultimate -= ultimateSlotted.cost
       ultimateCasts += 1
+      addAt(healingByTick, tickOf(now), ultimateSlotted.cost * ultimateSlotted.healingPerPoint)
       step(GLOBAL_COOLDOWN_SECONDS)
       continue
     }
@@ -150,9 +157,21 @@ export function healingOverRotation(
       heroismPerSecond = skill.heroism.ultimate / skill.heroism.everySeconds
     }
     const { direct, shield, tick, tickSeconds } = skill.healing
-    const ticks = tick === 0 ? 0 : ticksWithin(skill, tickSeconds, now, fightSeconds)
-    healed[next] = (healed[next] ?? 0) + direct + shield + tick * ticks
-    directDamage += directDamageOf(skill, now, fightSeconds)
+    const times = tick === 0 ? [] : tickTimes(skill, tickSeconds, now, fightSeconds)
+    healed[next] = (healed[next] ?? 0) + direct + shield + tick * times.length
+    addAt(healingByTick, tickOf(now), direct)
+    for (const at of times) addAt(healingByTick, tickOf(at), tick)
+    const shieldUntil = Math.max(now + lastsOf(skill), Math.floor(now) + 1)
+    for (let at = Math.floor(now); at < shieldUntil && at < tickCount; at += 1) {
+      addAt(shieldByTick, at, shield)
+    }
+    const damage = skill.damage
+    if (damage !== undefined) {
+      addAt(damageByTick, tickOf(now), damage.hit)
+      for (const at of tickTimes(skill, damage.waveSeconds, now, fightSeconds)) {
+        addAt(damageByTick, tickOf(at), damage.wave)
+      }
+    }
     shielded += shield
     casts[next] = (casts[next] ?? 0) + 1
     runsUntil[next] = now + lastsOf(skill)
@@ -168,8 +187,11 @@ export function healingOverRotation(
     fightSeconds,
     healingPerSecond: total / fightSeconds,
     lightAttacks,
-    directDamage,
+    directDamage: damageByTick.reduce((sum, one) => sum + one, 0),
     shielded,
+    healingByTick,
+    shieldByTick,
+    damageByTick,
     skills: skills.map((skill, at) => ({
       name: skill.name,
       casts: casts[at] ?? 0,

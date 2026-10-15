@@ -96,6 +96,17 @@ test("a skill giving Heroism adds its Ultimate while the Heroism lasts", () => {
   expect(healed.ultimate?.gained).toBeCloseTo(10 * 3 + 10 / 1.5)
 })
 
+test("each heal falls in its tick, and a shield counts in every tick it is up", () => {
+  const healed = healingOverRotation([EMBERS, BRAWLER], 4)
+  expect(healed.healingByTick).toEqual([4291, 0, 644, 644])
+  expect(healed.shieldByTick).toEqual([0, 6381, 6381, 6381])
+})
+
+test("direct damage falls in the tick of its hit or wave", () => {
+  const aura = { ...LASH, durationMs: 20_000, damage: { hit: 100, wave: 7, waveSeconds: 2 } }
+  expect(healingOverRotation([aura], 5).damageByTick).toEqual([100, 0, 7, 0, 7])
+})
+
 test("a tick past the end of the fight does not count", () => {
   const healed = healingOverRotation([EMBERS], 5)
   expect(healed.skills[0]?.healing).toBe(4291 + 2 * 644)

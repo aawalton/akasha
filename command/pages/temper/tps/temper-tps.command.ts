@@ -32,8 +32,7 @@ export const temperTps = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A weapon enchant that heals goes off through the fight, as the mean of both bars.",
+      statement: "A weapon enchant that heals is the mean of both bars.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -63,18 +62,17 @@ export const temperTps = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Toughness per second counts overheal, since overheal cancels damage in the same global cooldown.",
+      statement: "Max health, armor and damage taken are the mean of both bars' readings.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Toughness per second counts a shield's full size, whatever share of the shield absorbs damage.",
+        "A weapon enchant goes off at the end of every fourth tick; Reaving Blows heals in its hit's tick.",
     },
     {
-      decisionKind: "decision-kind/departure",
+      decisionKind: "decision-kind/stopgap",
       statement:
-        "Max health, armor and damage taken are the mean of both bars' readings, for estimate and fight.",
+        "The last fight keeps totals rather than ticks, so it says no toughness per second.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -99,5 +97,5 @@ export const temperTps = {
   name: "tps",
   arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
   createdAt: "2026-10-14T20:35:43.699Z",
-  updatedAt: "2026-10-15T15:13:38.166Z",
+  updatedAt: "2026-10-15T15:19:50.968Z",
 } as const satisfies Command

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import {
-  procsWithin,
+  procsIn,
   readEnchantProc,
 } from "akasha/temper/player/character/stat/modules/enchant-proc/enchant-proc.module.code.ts"
 
@@ -18,7 +18,9 @@ test("an enchant that restores no health is no proc read here", () => {
   ).toBeUndefined()
 })
 
-test("an enchant procs once every 4 seconds of the fight", () => {
-  expect(procsWithin(60)).toBe(15)
-  expect(procsWithin(21)).toBe(5)
+test("an enchant procs at the end of every fourth second of the fight", () => {
+  const procs = (seconds: number) =>
+    Array.from({ length: seconds }, (_, tick) => tick).filter(procsIn).length
+  expect(procs(60)).toBe(15)
+  expect(procs(21)).toBe(5)
 })
