@@ -6067,6 +6067,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/rotation-healing/rotation-healing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/skill-damage/skill-damage.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/skill-healing/skill-healing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/skill-ultimate/skill-ultimate.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/source-lookup/source-lookup.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/temper-metric/modules/metric-formula-writing/metric-formula-writing.module.ts","typed":true,"deferred":false}
