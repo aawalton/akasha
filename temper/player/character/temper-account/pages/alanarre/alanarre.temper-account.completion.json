@@ -76258,7 +76258,7 @@
       "name": "Aerie's Cry",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Warden",
-      "slotsUnlocked": 19,
+      "slotsUnlocked": 20,
       "totalSlots": 36,
       "pieces": [
         {
@@ -76327,7 +76327,7 @@
         },
         {
           "name": "Aerie's Cry Guards",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Aerie's Cry Greaves",
