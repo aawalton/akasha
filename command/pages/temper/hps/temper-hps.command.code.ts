@@ -55,14 +55,26 @@ const fightAbilityShape = z.strictObject({
   presses: z.number().optional(),
 })
 
+const resourceShape = z.strictObject({ gained: z.number(), spent: z.number() })
+
 const lastFightShape = z.strictObject({
   character: z.string(),
   capturedAt: z.number(),
   activeSeconds: z.number(),
   combatSeconds: z.number(),
   absorbed: z.number(),
+  shielded: z.number().optional(),
+  magicka: resourceShape.optional(),
+  stamina: resourceShape.optional(),
+  ultimate: resourceShape.optional(),
   abilities: luaArrayOrEmpty(fightAbilityShape).optional(),
 })
+
+const RESOURCES = [
+  ["magicka", "Magicka"],
+  ["stamina", "Stamina"],
+  ["ultimate", "Ultimate"],
+] as const
 
 type LastFight = z.infer<typeof lastFightShape>
 
@@ -80,8 +92,8 @@ function gameLines(fight: LastFight | undefined): string[] {
   const abilities = [...(fight.abilities ?? [])].sort(
     (a, b) => b.healing + b.overheal - (a.healing + a.overheal)
   )
-  const healed =
-    abilities.reduce((sum, one) => sum + one.healing + one.overheal, 0) + fight.absorbed
+  const shields = fight.shielded ?? fight.absorbed
+  const healed = abilities.reduce((sum, one) => sum + one.healing + one.overheal, 0) + shields
   const perSecond = fight.activeSeconds > 0 ? healed / fight.activeSeconds : 0
   return [
     "",
@@ -92,7 +104,17 @@ function gameLines(fight: LastFight | undefined): string[] {
         (one) =>
           `  ${one.name || `ability ${one.abilityId}`}: ${one.presses ?? 0} presses, ${Math.round(one.healing)} healing, ${Math.round(one.overheal)} overheal`
       ),
+    fight.shielded === undefined
+      ? "  shields granted: not captured in this fight, so what they absorbed is counted"
+      : `  shields granted: ${Math.round(fight.shielded)}`,
     `  shields absorbed: ${Math.round(fight.absorbed)}`,
+    ...RESOURCES.flatMap(([key, name]) => {
+      const resource = fight[key]
+      if (resource === undefined) return []
+      return [
+        `  ${name}: ${Math.round(resource.gained)} gained, ${Math.round(resource.spent)} spent`,
+      ]
+    }),
   ]
 }
 

@@ -67,6 +67,15 @@ export const temperHps = {
         "Healing per second counts overheal, since overheal cancels damage in the same global cooldown.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Healing per second counts a shield's full size, whatever share of the shield absorbs damage.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The last fight says the Magicka, Stamina and Ultimate gained and spent.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "The last fight is read from the game's saved variables rather than landed in akasha.",
@@ -75,5 +84,5 @@ export const temperHps = {
   name: "hps",
   arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
   createdAt: "2026-10-14T20:35:43.699Z",
-  updatedAt: "2026-10-15T14:24:43.714Z",
+  updatedAt: "2026-10-15T14:30:49.157Z",
 } as const satisfies Command
