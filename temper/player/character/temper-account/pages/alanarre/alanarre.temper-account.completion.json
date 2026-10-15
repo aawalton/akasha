@@ -72989,12 +72989,12 @@
       "name": "Wrathsun",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Templar",
-      "slotsUnlocked": 21,
+      "slotsUnlocked": 22,
       "totalSlots": 36,
       "pieces": [
         {
           "name": "Wrathsun Hat",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Wrathsun Helmet",
@@ -75340,7 +75340,7 @@
       "name": "Spattering Disjunction",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Arcanist",
-      "slotsUnlocked": 22,
+      "slotsUnlocked": 23,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75437,7 +75437,7 @@
         },
         {
           "name": "Spattering Disjunction Dagger",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Spattering Disjunction Axe",
