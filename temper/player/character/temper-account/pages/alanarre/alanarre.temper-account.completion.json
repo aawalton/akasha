@@ -72989,7 +72989,7 @@
       "name": "Wrathsun",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Templar",
-      "slotsUnlocked": 22,
+      "slotsUnlocked": 23,
       "totalSlots": 36,
       "pieces": [
         {
@@ -73110,7 +73110,7 @@
         },
         {
           "name": "Wrathsun Greatsword",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Wrathsun Bow",
@@ -75799,7 +75799,7 @@
       "name": "Umbral Edge",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Nightblade",
-      "slotsUnlocked": 17,
+      "slotsUnlocked": 18,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75868,7 +75868,7 @@
         },
         {
           "name": "Umbral Edge Guards",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Umbral Edge Greaves",
