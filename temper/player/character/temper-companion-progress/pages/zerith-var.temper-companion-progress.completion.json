@@ -1,5 +1,6 @@
 {
   "build": {
+    "companionId": 13,
     "mainHandWeaponType": 9,
     "skillAbilityIds": {
       "1": 213158,
@@ -74,8 +75,6 @@
         }
       }
     },
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
-    "companionId": 13,
     "weapons": {
       "1": {
         "isEmpty": false,
@@ -96,6 +95,7 @@
         }
       }
     },
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
     "jewelry": {
       "1": {
         "isEmpty": false,
