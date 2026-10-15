@@ -72530,7 +72530,7 @@
       "name": "Nobility in Decay",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 20,
+      "slotsUnlocked": 21,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72647,7 +72647,7 @@
         },
         {
           "name": "Nobility in Decay Maul",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Nobility in Decay Greatsword",
