@@ -16,9 +16,9 @@ export const craftingWrits = {
   lastCompletedAt: "2026-10-14T13:30:02.000Z",
   progress: "jsonl",
   progressTotal: 140,
-  progressCurrent: 7,
+  progressCurrent: 14,
   character: "temper-account-character/erin-solstice",
-  updatedAt: "2026-10-15T12:59:19.606Z",
+  updatedAt: "2026-10-15T13:01:22.995Z",
   createdAt: "2026-04-22T12:39:34.017Z",
   effectiveCharacter: "temper-account-character/erin-solstice",
 } as const satisfies TemperTask
