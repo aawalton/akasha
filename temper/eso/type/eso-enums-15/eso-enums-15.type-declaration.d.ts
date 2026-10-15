@@ -91,6 +91,7 @@ declare const CHATTER_END_DOOR: number
 declare const CHATTER_END_DYE_STATION: number
 declare const CHATTER_END_ENDLESS_DUNGEON_BUFF_SELECTOR: number
 declare const CHATTER_END_FISH: number
+declare const CHATTER_END_GENERIC_SELECTION_PROMPT: number
 declare const CHATTER_END_GIVE_ITEM: number
 declare const CHATTER_END_GRAVEYARD_TRAVEL: number
 declare const CHATTER_END_GUILDBANK: number
@@ -118,6 +119,7 @@ declare const CHATTER_END_STABLE: number
 declare const CHATTER_END_TALK: number
 declare const CHATTER_END_TRADINGHOUSE: number
 declare const CHATTER_END_TREASURE_MAP: number
+declare const CHATTER_END_TRIAL_PROGRESSION: number
 declare const CHATTER_END_TRIBUTE: number
 declare const CHATTER_END_USE_CLEMENCY: number
 declare const CHATTER_END_USE_FURNITURE: number
@@ -128,6 +130,7 @@ declare const CHATTER_FISH_BITE: number
 declare const CHATTER_FISH_NIBBLE: number
 declare const CHATTER_FISH_REEL_IN: number
 declare const CHATTER_FORCE_LOCK: number
+declare const CHATTER_GENERIC_SELECTION_PROMPT_CHOICE: number
 declare const CHATTER_GIVE_ITEM_COMPLETE: number
 declare const CHATTER_GOODBYE: number
 declare const CHATTER_GUILDKIOSK_IN_TRANSITION: number
@@ -179,6 +182,7 @@ declare const CHATTER_START_DOOR: number
 declare const CHATTER_START_DYE_STATION: number
 declare const CHATTER_START_ENDLESS_DUNGEON_BUFF_SELECTOR: number
 declare const CHATTER_START_FISH: number
+declare const CHATTER_START_GENERIC_SELECTION_PROMPT: number
 declare const CHATTER_START_GIVE_ITEM: number
 declare const CHATTER_START_GRAVEYARD_TRAVEL: number
 declare const CHATTER_START_GUILDBANK: number
@@ -206,6 +210,7 @@ declare const CHATTER_START_STABLE: number
 declare const CHATTER_START_TALK: number
 declare const CHATTER_START_TRADINGHOUSE: number
 declare const CHATTER_START_TREASURE_MAP: number
+declare const CHATTER_START_TRIAL_PROGRESSION: number
 declare const CHATTER_START_TRIBUTE: number
 declare const CHATTER_START_USE_CLEMENCY: number
 declare const CHATTER_START_USE_FURNITURE: number
@@ -222,6 +227,7 @@ declare const CHATTER_TALK_CHOICE_PERSUADE_DISABLED: number
 declare const CHATTER_TALK_CHOICE_SHADOWY_CONNECTIONS_UNAVAILABLE: number
 declare const CHATTER_TALK_CHOICE_USE_CLEMENCY: number
 declare const CHATTER_TALK_CHOICE_USE_SHADOWY_CONNECTIONS: number
+declare const CHATTER_TRIAL_PROGRESSION_TRACK_CHANGE: number
 declare const CHATTER_USE_COLLECTIBLE_ON_COMPANION: number
 type InteractionType = number
 declare const INTERACTION_ANTIQUITY_DIG_SPOT: number
@@ -242,6 +248,7 @@ declare const INTERACTION_FAST_TRAVEL: number
 declare const INTERACTION_FAST_TRAVEL_KEEP: number
 declare const INTERACTION_FISH: number
 declare const INTERACTION_FURNITURE: number
+declare const INTERACTION_GENERIC_SELECTION_PROMPT: number
 declare const INTERACTION_GUILDBANK: number
 declare const INTERACTION_GUILDKIOSK_BID: number
 declare const INTERACTION_GUILDKIOSK_PURCHASE: number
@@ -266,6 +273,7 @@ declare const INTERACTION_STORE: number
 declare const INTERACTION_THEATER_INTERACTABLE: number
 declare const INTERACTION_TRADINGHOUSE: number
 declare const INTERACTION_TREASURE_MAP: number
+declare const INTERACTION_TRIAL_PROGRESSION: number
 declare const INTERACTION_TRIBUTE: number
 declare const INTERACTION_VENDOR: number
 type MailAttachmentResult = number

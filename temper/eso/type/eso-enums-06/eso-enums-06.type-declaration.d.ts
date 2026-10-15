@@ -237,6 +237,7 @@ declare const CURT_TOME_POINT_CACHES: number
 declare const CURT_TOME_TOKENS: number
 declare const CURT_TRADE_BARS: number
 declare const CURT_TRANSMUTE_CRYSTALS: number
+declare const CURT_UNDAUNTED_CRESTS: number
 declare const CURT_UNDAUNTED_KEYS: number
 declare const CURT_WRIT_VOUCHERS: number
 declare const MAX_PLAYER_CURRENCY: number

@@ -135,11 +135,6 @@ declare function GetNextZoneStoryZoneId(
   this: void,
   lastZoneId?: number | undefined
 ): number | undefined
-declare function GetNumZoneActivitiesForZoneCompletionType(
-  this: void,
-  zoneId?: number,
-  zoneCompletionType?: ZoneCompletionType
-): number
 declare function GetZoneActivityIdForZoneCompletionType(
   this: void,
   zoneId?: number,
@@ -150,13 +145,15 @@ declare function IsZoneStoryActivityComplete(
   this: void,
   zoneId?: number,
   zoneCompletionType?: ZoneCompletionType,
-  activityIndex?: number
+  activityIndex?: number,
+  zoneCompletionTypeIndex?: number
 ): boolean
 declare function GetZoneStoryActivityNameByActivityIndex(
   this: void,
   zoneId?: number,
   zoneCompletionType?: ZoneCompletionType,
-  activityIndex?: number
+  activityIndex?: number,
+  zoneCompletionTypeIndex?: number
 ): string
 declare function GetPOIWorldEventInstanceId(
   this: void,

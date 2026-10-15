@@ -151,6 +151,8 @@ declare const KEY_GAMEPAD_BOTH_BUTTON_1_BUTTON_4: number
 declare const KEY_GAMEPAD_BOTH_BUTTON_2_BUTTON_3: number
 declare const KEY_GAMEPAD_BOTH_BUTTON_2_BUTTON_4: number
 declare const KEY_GAMEPAD_BOTH_DPAD_RIGHT_BUTTON_2: number
+declare const KEY_GAMEPAD_BOTH_DPAD_RIGHT_BUTTON_3: number
+declare const KEY_GAMEPAD_BOTH_DPAD_RIGHT_BUTTON_4: number
 declare const KEY_GAMEPAD_BOTH_LEFT_SHOULDER_BUTTON_1: number
 declare const KEY_GAMEPAD_BOTH_LEFT_SHOULDER_BUTTON_2: number
 declare const KEY_GAMEPAD_BOTH_LEFT_SHOULDER_BUTTON_3: number

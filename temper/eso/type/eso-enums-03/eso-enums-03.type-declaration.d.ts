@@ -140,6 +140,7 @@ declare const ZONE_DISPLAY_TYPE_NONE: number
 declare const ZONE_DISPLAY_TYPE_PUBLIC_DUNGEON: number
 declare const ZONE_DISPLAY_TYPE_RAID: number
 declare const ZONE_DISPLAY_TYPE_SOLO: number
+declare const ZONE_DISPLAY_TYPE_SOLO_DUNGEON: number
 declare const ZONE_DISPLAY_TYPE_ZONE_STORY: number
 type Globals = number
 declare const MAX_EMAIL_LENGTH: number

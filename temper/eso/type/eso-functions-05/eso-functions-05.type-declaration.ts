@@ -6,7 +6,7 @@ export const esoFunctions05 = {
   slug: "eso-functions-05",
   definition: "a part of the game calls an add-on makes",
   d: "ts",
-  generated: { writtenBy: "akasha temper eso generate declaration", sourceVersion: 101050 },
+  generated: { writtenBy: "akasha temper eso generate declaration", sourceVersion: 101051 },
   createdAt: "2026-09-02T05:20:24.710Z",
-  updatedAt: "2026-09-22T10:18:36.000Z",
+  updatedAt: "2026-10-15T15:53:32.382Z",
 } as const satisfies TypeDeclaration

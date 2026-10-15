@@ -324,11 +324,18 @@ declare function GetRaidLeaderboardLocalPlayerInfo(
   this: void,
   raidId?: number
 ): LuaMultiReturn<[rank: number, bestScore: number]>
+declare function GetNumEndlessDungeonActiveVerses(this: void): number
+declare function GetEndlessDungeonActiveVerseAbility(this: void, index?: number): number
+declare function GetNextEndlessDungeonVisionAbilityAndStackCount(
+  this: void,
+  lastAbilityId?: number | undefined
+): LuaMultiReturn<[nextAbilityId: number | undefined, nextStackCount: number | undefined]>
 declare function GetNumStacksForEndlessDungeonBuff(
   this: void,
   buffAbilityId?: number,
   includeLifetimeStacks?: boolean
 ): number
+declare function IsInstanceEndlessDungeon(this: void): boolean
 declare function QueryEndlessDungeonLeaderboardData(
   this: void,
   endlessDungeonGroupType?: EndlessDungeonGroupType,

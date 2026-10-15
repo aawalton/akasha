@@ -66,6 +66,7 @@ declare const ABILITY_TYPE_MODIFYCOOLDOWN: number
 declare const ABILITY_TYPE_MODIFYDURATION: number
 declare const ABILITY_TYPE_MODIFYSTACKCOUNT: number
 declare const ABILITY_TYPE_MOUNT: number
+declare const ABILITY_TYPE_MOUNTABILITYOVERRIDE: number
 declare const ABILITY_TYPE_MOUNTBLOCK: number
 declare const ABILITY_TYPE_MOVEPOSITION: number
 declare const ABILITY_TYPE_NOAGGRO: number

@@ -6,7 +6,7 @@ export const esoObjects01 = {
   slug: "eso-objects-01",
   definition: "a part of the game objects whose methods an add-on calls",
   d: "ts",
-  generated: { writtenBy: "akasha temper eso generate declaration", sourceVersion: 101050 },
+  generated: { writtenBy: "akasha temper eso generate declaration", sourceVersion: 101051 },
   createdAt: "2026-09-02T05:20:24.713Z",
-  updatedAt: "2026-09-22T13:41:05.000Z",
+  updatedAt: "2026-10-15T15:53:32.382Z",
 } as const satisfies TypeDeclaration
