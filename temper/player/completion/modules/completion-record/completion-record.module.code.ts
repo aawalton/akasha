@@ -174,6 +174,13 @@ const slottedSkillSchema = z.strictObject({
   castMs: z.number(),
   channeled: z.boolean(),
   cooldownMs: z.number(),
+  ultimateCost: z.number().optional(),
+})
+
+const classPassiveSchema = z.strictObject({
+  abilityId: z.number(),
+  name: z.string(),
+  description: z.string(),
 })
 
 const reportedStatsReadingSchema = z.strictObject({
@@ -185,6 +192,7 @@ const reportedStatsReadingSchema = z.strictObject({
   championPoints: luaArrayOrEmpty(championStarSchema).optional(),
   worn: luaArrayOrEmpty(wornPieceSchema).optional(),
   skills: luaArrayOrEmpty(slottedSkillSchema).optional(),
+  classPassives: luaArrayOrEmpty(classPassiveSchema).optional(),
   buffs: numbers.optional(),
 })
 
