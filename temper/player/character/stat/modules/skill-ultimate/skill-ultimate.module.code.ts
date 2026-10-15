@@ -4,7 +4,7 @@ const COLOR = /\|c[0-9a-fA-F]{6}|\|r/g
 
 const HEROISM = /Heroism for (\d+) seconds?.*?generating (\d+) Ultimate every ([\d.]+) seconds?/i
 
-const PER_POINT_SPENT = /for each point of the Ultimate spent/i
+const PER_POINT_SPENT = /for (?:each point of the|every) Ultimate spent/i
 
 const CURRENT_HEALTH = /Current amount: (\d+) Health/i
 

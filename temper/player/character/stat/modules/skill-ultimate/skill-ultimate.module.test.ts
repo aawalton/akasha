@@ -24,6 +24,14 @@ test("healing for each point of Ultimate spent is the current amount the game gi
   ).toBe(51)
 })
 
+test("the game's live wording, for every Ultimate spent, reads the same way", () => {
+  expect(
+    readHealingPerUltimatePoint(
+      "When you cast an Ultimate ability, you restore |cffffff18|r Health, |cffffff16|r Magicka, and |cffffff16|r Stamina for every Ultimate spent. Each Dragonknight ability slotted increases this value by |cffffff6|r.\n\nCurrent amount:\n|cffffff53|r Health\n|cffffff46|r Magicka\n|cffffff46|r Stamina"
+    )
+  ).toBe(53)
+})
+
 test("a current amount on a tooltip that heals for no Ultimate spent reads as none", () => {
   expect(readHealingPerUltimatePoint("Current amount: |cffffff0|r")).toBeUndefined()
 })
