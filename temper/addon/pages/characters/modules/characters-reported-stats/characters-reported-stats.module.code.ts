@@ -57,6 +57,39 @@ function activeBuffs(): ActiveBuff[] {
   return buffs
 }
 
+type ArchiveBoon = {
+  abilityId: number
+  kind: "verse" | "vision"
+  name: string
+  description: string
+  stacks: number
+}
+
+function archiveBoon(abilityId: number, kind: ArchiveBoon["kind"], stacks: number): ArchiveBoon {
+  return {
+    abilityId,
+    kind,
+    name: zo_strformat("<<1>>", GetAbilityName(abilityId, "player")),
+    description: GetAbilityDescription(abilityId, undefined, "player"),
+    stacks,
+  }
+}
+
+function archiveBoons(): ArchiveBoon[] {
+  const boons: ArchiveBoon[] = []
+  if (!IsInstanceEndlessDungeon()) return boons
+  const verses = GetNumEndlessDungeonActiveVerses()
+  for (let index = 1; index <= verses; index++) {
+    boons.push(archiveBoon(GetEndlessDungeonActiveVerseAbility(index), "verse", 1))
+  }
+  let [abilityId, stacks] = GetNextEndlessDungeonVisionAbilityAndStackCount(undefined)
+  while (abilityId !== undefined) {
+    boons.push(archiveBoon(abilityId, "vision", stacks ?? 1))
+    ;[abilityId, stacks] = GetNextEndlessDungeonVisionAbilityAndStackCount(abilityId)
+  }
+  return boons
+}
+
 const CHAMPION_DISCIPLINES = 3
 
 type StarSpent = {
@@ -207,6 +240,8 @@ export function captureReportedStats(): undefined {
     stats,
     unbonusedStats,
     activeBuffs: activeBuffs(),
+    inArchive: IsInstanceEndlessDungeon(),
+    archiveBoons: archiveBoons(),
     championPoints: championPoints(),
     worn: worn(),
     skills: slottedSkills(),

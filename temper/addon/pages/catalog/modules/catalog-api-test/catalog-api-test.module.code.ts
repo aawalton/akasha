@@ -111,11 +111,14 @@ const API_TESTS: ApiTest[] = [
   },
   {
     name: "Zone Completion",
-    apiName: "GetNumZoneActivitiesForZoneCompletionType",
+    apiName: "GetNumZoneActivitiesForZoneCompletionTypeAndIndex",
     testFn: function (this: void): string | undefined {
       const zoneId = GetNextZoneStoryZoneId(undefined)
       if (zoneId === undefined || zoneId === 0) return "GetNextZoneStoryZoneId returned nil or 0"
-      const count = GetNumZoneActivitiesForZoneCompletionType(zoneId, ZONE_COMPLETION_TYPE_DELVES)
+      const count = GetNumZoneActivitiesForZoneCompletionTypeAndIndex(
+        zoneId,
+        ZONE_COMPLETION_TYPE_DELVES
+      )
       if (count === undefined || count === 0) return "first zone has no delve activities"
       return undefined
     },

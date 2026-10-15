@@ -9,7 +9,7 @@ function scanZoneCompletion(this: void): SparseZoneCompletion {
   while (zoneId !== undefined) {
     const zoneTypes: Record<number, number[]> = {}
     for (let completionType = 1; completionType <= 14; completionType++) {
-      const count = GetNumZoneActivitiesForZoneCompletionType(zoneId, completionType)
+      const count = GetNumZoneActivitiesForZoneCompletionTypeAndIndex(zoneId, completionType)
       if (count === undefined || count === 0) continue
       const completed: number[] = []
       for (let activityIndex = 1; activityIndex <= count; activityIndex++) {
@@ -40,7 +40,7 @@ function zoneActivityIndex(
   completionType: number,
   activityId: number
 ): number | undefined {
-  const count = GetNumZoneActivitiesForZoneCompletionType(zoneId, completionType)
+  const count = GetNumZoneActivitiesForZoneCompletionTypeAndIndex(zoneId, completionType)
   if (count === undefined || count === 0) return undefined
   for (let i = 1; i <= count; i++) {
     if (GetZoneActivityIdForZoneCompletionType(zoneId, completionType, i) === activityId) {

@@ -69,7 +69,16 @@ export const charactersReportedStats = {
       decisionKind: "decision-kind/departure",
       statement: "A reading keeps each class passive bought, with the text the game gives it now.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading says whether the player was in the Infinite Archive when it was taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading keeps each Archive verse and vision held, with its stacks and its text.",
+    },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-15T14:55:28.189Z",
+  updatedAt: "2026-10-15T15:56:46.427Z",
 } as const satisfies Module

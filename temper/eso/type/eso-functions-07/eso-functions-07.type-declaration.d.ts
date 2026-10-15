@@ -135,6 +135,12 @@ declare function GetNextZoneStoryZoneId(
   this: void,
   lastZoneId?: number | undefined
 ): number | undefined
+declare function GetNumZoneActivitiesForZoneCompletionTypeAndIndex(
+  this: void,
+  zoneId?: number,
+  zoneCompletionType?: ZoneCompletionType,
+  zoneCompletionTypeIndex?: number | undefined
+): number
 declare function GetZoneActivityIdForZoneCompletionType(
   this: void,
   zoneId?: number,

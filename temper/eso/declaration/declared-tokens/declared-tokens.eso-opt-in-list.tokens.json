@@ -667,7 +667,7 @@
     "GetNumUnlockedOutfits",
     "GetNumUnspentChampionPoints",
     "GetNumValidItemStyles",
-    "GetNumZoneActivitiesForZoneCompletionType",
+    "GetNumZoneActivitiesForZoneCompletionTypeAndIndex",
     "GetNumZones",
     "GetNumZonesForCadwellProgressionLevel",
     "GetOfferedQuestInfo",

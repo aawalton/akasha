@@ -38,7 +38,10 @@ function collectZoneCompletionCatalog(this: void, onComplete: (this: void) => vo
     const completionTypes: Record<number, ZoneCompletionCatalogType> = {}
 
     for (const completionType of ZONE_COMPLETION_TYPES) {
-      const numActivities = GetNumZoneActivitiesForZoneCompletionType(zoneId, completionType)
+      const numActivities = GetNumZoneActivitiesForZoneCompletionTypeAndIndex(
+        zoneId,
+        completionType
+      )
       if (numActivities === undefined || numActivities <= 0) continue
 
       const activities: Record<number, ZoneCompletionCatalogActivity> = {}
