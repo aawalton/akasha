@@ -180,7 +180,10 @@ function slottedSkills(): SlottedSkill[] {
       castMs: castMs ?? 0,
       channeled: channeled === true,
       cooldownMs: GetAbilityCooldown(abilityId, "player") ?? 0,
-      ultimateCost: GetAbilityCost(abilityId, COMBAT_MECHANIC_FLAGS_ULTIMATE, undefined, "player"),
+      ultimateCost:
+        slot === ULTIMATE_SLOT
+          ? GetAbilityCost(abilityId, COMBAT_MECHANIC_FLAGS_ULTIMATE, undefined, "player")
+          : 0,
     })
   }
   return skills

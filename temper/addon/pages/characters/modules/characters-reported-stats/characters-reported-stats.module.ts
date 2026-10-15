@@ -63,7 +63,7 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading keeps the Ultimate each such skill costs.",
+      statement: "A reading keeps the Ultimate the ultimate costs, and 0 for every other skill.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +71,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-15T14:41:28.959Z",
+  updatedAt: "2026-10-15T14:55:28.189Z",
 } as const satisfies Module
