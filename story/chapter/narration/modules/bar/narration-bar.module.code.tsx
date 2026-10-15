@@ -3,15 +3,19 @@
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
-import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
+import {
+  PagesUILink,
+  usePagesUIRouter,
+} from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import {
   chapterHref,
   SKIP_SECONDS,
   speedShown,
 } from "akasha/story/chapter/narration/modules/listening/narration-listening.module.code.ts"
 import { useNarration } from "akasha/story/chapter/narration/modules/player/narration-player.module.code.tsx"
+import type { ChapterHeld } from "akasha/story/chapter/narration/modules/telling/narration-telling.module.code.ts"
 import { Pause, Play, RotateCcw, RotateCw, X } from "lucide-react"
-import { type RefObject, useLayoutEffect, useRef } from "react"
+import { type RefObject, useEffect, useLayoutEffect, useRef } from "react"
 
 const BAR =
   "fixed right-0 top-0 z-40 border-primary/10 border-b px-3 pt-[calc(env(safe-area-inset-top,0px)+0.5rem)] pb-2"
@@ -36,6 +40,30 @@ function useTopOffset(bar: RefObject<HTMLElement | null>, shown: boolean): undef
   }, [bar, shown])
 }
 
+function pathOf(href: string): string {
+  const path = href.split(/[?#]/u)[0] ?? href
+  return decodeURI(path).replace(/\/+$/u, "")
+}
+
+function followed(
+  pathname: string,
+  was: ChapterHeld | null,
+  now: ChapterHeld | null
+): string | null {
+  if (was === null || now === null || was.id === now.id) return null
+  return pathOf(pathname) === pathOf(chapterHref(was)) ? chapterHref(now) : null
+}
+
+function useFollowChapter(chapter: ChapterHeld | null): undefined {
+  const router = usePagesUIRouter()
+  const was = useRef(chapter)
+  useEffect(() => {
+    const href = followed(router.pathname, was.current, chapter)
+    was.current = chapter
+    if (href !== null) router.push(href)
+  }, [chapter, router])
+}
+
 function clock(seconds: number): string {
   const whole = Math.max(0, Math.floor(seconds))
   const minutes = Math.floor(whole / 60)
@@ -47,6 +75,7 @@ export function NarrationBar() {
   const bar = useRef<HTMLElement>(null)
   const showing = narration !== null && narration.shown.kind !== "idle"
   useTopOffset(bar, showing)
+  useFollowChapter(narration?.chapter ?? null)
   if (narration === null || narration.shown.kind === "idle") return null
   const { shown, chapter, halted, at, end } = narration
   const failed = shown.kind === "failed"

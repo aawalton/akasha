@@ -30,6 +30,15 @@ export const narrationBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "When the stream moves on to the next chapter, the page of the chapter left opens the next.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other page is left open when the stream moves on to the next chapter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The bar shows the speed playing, and a tap on it takes the next speed.",
     },
     {
@@ -42,5 +51,5 @@ export const narrationBar = {
     },
   ],
   createdAt: "2026-10-05T20:45:59.481Z",
-  updatedAt: "2026-10-10T14:25:09.873Z",
+  updatedAt: "2026-10-15T15:13:44.625Z",
 } as const satisfies Module
