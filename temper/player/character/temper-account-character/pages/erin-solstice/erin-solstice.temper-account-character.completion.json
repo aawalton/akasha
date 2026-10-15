@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQINIFAQABhxAkHCJtuQGETbcgJP60AASf1oAAk_rQABJ_WgACT-tACQlDbckhsPW5JCUNtyBfkx2ziIgmOtuUUaAhWmHgpDCege9aDBaCxuAAgjlWwFQGWrToAAQUaCICEKgYJ4g8APQAjnVVrA4pUADJqBgjIhI4gQASCCc9HKRAYfolYBg8y6MmozIsSZWPJllzJs7Po06te2fQo0qdTxVWN37I4ePrl6BiyQtETZujdO0iVMnfqFMFVCVx1hgkcNmwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0meCAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygZA",
+  "buildHash": "ATQINIFAQABhxAkHCJtuQGETbcgJP60AASf1oAAk_rQABJ_WgACT-tACQlDbckhsPW5JCUNtyBfkx2ziIgmOtuUUaAhWmHgpDCegxEEDBaCxuAAgjlWwFQGWrToAAQUaCICEKgYJ4g8APQAjnVVrA4pUADJqBgjIhI4gQASCCc9HKRAYfolYBg8y6MmozIsSZWPJllzJs7Po06te2fQo0qdTxVWN37I4ePrl6BiyQtETZujdO0iVMnfqFMFVCVx1hgkcNmwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0meCAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygZA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -1758,7 +1758,7 @@
             "name": "Chains of Dominance",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -2793,7 +2793,7 @@
             "name": "Ring of Preservation",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -16408,7 +16408,7 @@
   },
   "skillPoints": {
     "total": 577,
-    "unassigned": 166,
+    "unassigned": 164,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -28350,24 +28350,24 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792101693,
-      "inCombat": true,
+      "capturedAt": 1792103288,
+      "inCombat": false,
       "stats": {
         "penetration-physical": 700,
-        "power-weapon": 6159,
-        "resistance-spell": 32169,
-        "power-spell": 6159,
+        "power-weapon": 4411,
+        "resistance-spell": 23247,
+        "power-spell": 4411,
         "penetration-spell": 700,
         "critical-rating-spell": 6707,
-        "health-recovery": 4496,
+        "health-recovery": 3832,
         "critical-rating-weapon": 6707,
         "stamina-recovery": 1366,
-        "magicka-recovery": 720,
-        "stamina-maximum": 21145,
-        "resistance-physical": 32169,
-        "health-maximum": 57577,
+        "magicka-recovery": 565,
+        "stamina-maximum": 25225,
+        "resistance-physical": 23247,
+        "health-maximum": 65755,
         "resistance-critical": 1320,
-        "magicka-maximum": 15963
+        "magicka-maximum": 20043
       },
       "unbonusedStats": {
         "penetration-physical": 0,
@@ -28376,15 +28376,15 @@
         "power-spell": 1000,
         "penetration-spell": 0,
         "critical-rating-spell": 2181,
-        "health-recovery": 4496,
+        "health-recovery": 3832,
         "critical-rating-weapon": 2181,
         "stamina-recovery": 1366,
-        "magicka-recovery": 720,
-        "stamina-maximum": 21145,
+        "magicka-recovery": 565,
+        "stamina-maximum": 25225,
         "resistance-physical": 0,
-        "health-maximum": 57577,
+        "health-maximum": 65755,
         "resistance-critical": 0,
-        "magicka-maximum": 15963
+        "magicka-maximum": 20043
       },
       "activeBuffs": [
         {
@@ -28430,10 +28430,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
+          "abilityId": 262658,
+          "name": "Power Lash",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "effect": "",
           "stacks": 0
         },
         {
@@ -28444,115 +28444,17 @@
           "stacks": 0
         },
         {
+          "abilityId": 61722,
+          "name": "Major Protection",
+          "description": "",
+          "effect": "Reduces your damage taken by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
           "abilityId": 61737,
           "name": "Empower",
           "description": "",
           "effect": "Increases damage done with Heavy Attacks by |cffffff150|r%. Does not apply while Battle Spirit is active.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 262658,
-          "name": "Power Lash",
-          "description": "",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61707,
-          "name": "Major Intellect",
-          "description": "",
-          "effect": "Increases your Magicka Recovery by |cffffff30|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61746,
-          "name": "Minor Force",
-          "description": "",
-          "effect": "Increases your Critical Damage done by |cffffff10|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 147417,
-          "name": "Minor Courage",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff215|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 29465,
-          "name": "Landslide",
-          "description": "",
-          "effect": "",
-          "stacks": 12
-        },
-        {
-          "abilityId": 97896,
-          "name": "Domihaus",
-          "description": "",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 263230,
-          "name": "Resolute Defense",
-          "description": "",
-          "effect": "",
-          "stacks": 2
-        },
-        {
-          "abilityId": 99789,
-          "name": "Merciless Charge",
-          "description": "",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61662,
-          "name": "Minor Brutality",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff10|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 32881,
-          "name": "Cauterize",
-          "description": "Activate an aura of embers which cauterizes the wounds of you or up to |cffffff6|r nearby allies every |cffffff3|r seconds, healing for |cffffff5230|r Health.\n\nWhile slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61693,
-          "name": "Minor Resolve",
-          "description": "",
-          "effect": "Increases your Physical and Spell Resistance by |cffffff2974|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 60888,
-          "name": "Follow Up",
-          "description": "",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61694,
-          "name": "Major Resolve",
-          "description": "",
-          "effect": "Increases your Physical and Spell Resistance by |cffffff5948|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61705,
-          "name": "Major Endurance",
-          "description": "",
-          "effect": "Increases your Stamina Recovery by |cffffff30|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61698,
-          "name": "Major Fortitude",
-          "description": "",
-          "effect": "Increases your Health Recovery by |cffffff30|r%.\n",
           "stacks": 0
         },
         {
@@ -28563,15 +28465,29 @@
           "stacks": 0
         },
         {
-          "abilityId": 21230,
-          "name": "Berserker",
-          "description": "Increase your Power by for",
+          "abilityId": 29465,
+          "name": "Landslide",
+          "description": "",
           "effect": "",
+          "stacks": 12
+        },
+        {
+          "abilityId": 61662,
+          "name": "Minor Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff10|r%.\n",
           "stacks": 0
         },
         {
-          "abilityId": 38763,
-          "name": "Brawler",
+          "abilityId": 61665,
+          "name": "Major Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 97896,
+          "name": "Domihaus",
           "description": "",
           "effect": "",
           "stacks": 0
@@ -28584,18 +28500,25 @@
           "stacks": 0
         },
         {
-          "abilityId": 61722,
-          "name": "Major Protection",
-          "description": "",
-          "effect": "Reduces your damage taken by |cffffff10|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 210163,
-          "name": "Furtive Vulnerability",
+          "abilityId": 45450,
+          "name": "Battle Rush",
           "description": "",
           "effect": "",
           "stacks": 0
+        },
+        {
+          "abilityId": 38763,
+          "name": "Brawler",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 263230,
+          "name": "Resolute Defense",
+          "description": "",
+          "effect": "",
+          "stacks": 1
         }
       ],
       "championPoints": [
@@ -29163,7 +29086,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:128308:364:50:68343:370:50:16:0:0:0:0:0:0:0:2049:67:0:1:0:9850:0|h|h",
+          "link": "|H0:item:128308:364:50:68343:370:50:16:0:0:0:0:0:0:0:2049:67:0:1:0:9250:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff542|r Maximum Magicka.\nAdds |cffffff596|r Maximum Health.\nAdds |cffffff542|r Maximum Stamina.",
           "trait": "Increase armor enchantment effect by |cffffff25|r%.",
@@ -29179,7 +29102,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:127165:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:6050:0|h|h",
+          "link": "|H0:item:127165:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5350:0|h|h",
           "armor": 2772,
           "enchant": "Adds |cffffff954|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29187,7 +29110,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:128316:364:50:68343:370:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:9850:0|h|h",
+          "link": "|H0:item:128316:364:50:68343:370:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:9050:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff175|r Maximum Magicka.\nAdds |cffffff193|r Maximum Health.\nAdds |cffffff175|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29195,15 +29118,15 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133786:364:50:68344:312:50:3:25:0:0:0:0:0:0:2049:3:0:1:0:269:0|h|h",
+          "link": "|H0:item:133786:364:50:68344:312:50:3:25:0:0:0:0:0:0:2049:3:0:1:0:190:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff5738|r Magic Damage and restores |cffffff981|r Health and |cffffff378|r Magicka and Stamina.",
+          "enchant": "Deals |cffffff5398|r Magic Damage and restores |cffffff981|r Health and |cffffff378|r Magicka and Stamina.",
           "trait": "Increases Weapon and Spell Critical by |cffffff7.2|r%.",
           "quality": 5
         },
         {
           "slot": 6,
-          "link": "|H0:item:127171:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:6300:0|h|h",
+          "link": "|H0:item:127171:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5650:0|h|h",
           "armor": 1039,
           "enchant": "Adds |cffffff386|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29211,7 +29134,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:127169:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:6600:0|h|h",
+          "link": "|H0:item:127169:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5550:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff954|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29219,7 +29142,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:127166:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:6350:0|h|h",
+          "link": "|H0:item:127166:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5900:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff386|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29243,7 +29166,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:127167:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:6800:0|h|h",
+          "link": "|H0:item:127167:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5150:0|h|h",
           "armor": 1386,
           "enchant": "Adds |cffffff386|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -29251,7 +29174,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:55:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:460:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff1130|r for |cffffff5|r seconds.",
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
@@ -29263,7 +29186,7 @@
           "slot": 3,
           "abilityId": 38754,
           "name": "Brawler",
-          "description": "Focus your strength into a mighty swing, dealing |cffffff11422|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff8721|r damage for |cffffff9|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
+          "description": "Focus your strength into a mighty swing, dealing |cffffff8414|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff7270|r damage for |cffffff9|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29274,7 +29197,7 @@
           "slot": 4,
           "abilityId": 20816,
           "name": "Flame Lash",
-          "description": "Lash an enemy with flame, dealing |cffffff13615|r Flame Damage and healing for |cffffff3485|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff21896|r Flame Damage to your target and all nearby enemies and heals for |cffffff6973|r Health.",
+          "description": "Lash an enemy with flame, dealing |cffffff10711|r Flame Damage and healing for |cffffff2904|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff17270|r Flame Damage to your target and all nearby enemies and heals for |cffffff5813|r Health.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29285,7 +29208,7 @@
           "slot": 5,
           "abilityId": 20660,
           "name": "Burning Embers",
-          "description": "Slash your foe with a fiery claw, dealing |cffffff6807|r Flame Damage and an additional |cffffff19510|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff14036|r Health from the initial hit and |cffffff2104|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
+          "description": "Slash your foe with a fiery claw, dealing |cffffff5354|r Flame Damage and an additional |cffffff15300|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff16030|r Health from the initial hit and |cffffff2403|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
@@ -29296,7 +29219,7 @@
           "slot": 6,
           "abilityId": 20328,
           "name": "Earthshield Mantle",
-          "description": "Envelop your body in molten spikes to increase your damage done to monsters by |cffffff100|r and gain Major Resolve, increasing Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\n\nPower drawn from the heart of a volcano forms a damage shield around you that absorbs up to |cffffff23408|r damage for |cffffff9|r seconds, scaling off your Max Health.",
+          "description": "Envelop your body in molten spikes to increase your damage done to monsters by |cffffff100|r and gain Major Resolve, increasing Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\n\nPower drawn from the heart of a volcano forms a damage shield around you that absorbs up to |cffffff26733|r damage for |cffffff9|r seconds, scaling off your Max Health.",
           "durationMs": 20000,
           "castMs": 0,
           "channeled": false,
@@ -29307,7 +29230,7 @@
           "slot": 7,
           "abilityId": 61507,
           "name": "Resolving Vigor",
-          "description": "Let loose a battle cry, instilling yourself with resolve and healing for |cffffff31376|r Health over |cffffff7.5|r seconds.\n\nAfter casting you gain Minor Resolve, increasing your Physical and Spell Resistance by |cffffff2974|r, for |cffffff32.4|r seconds.",
+          "description": "Let loose a battle cry, instilling yourself with resolve and healing for |cffffff26160|r Health over |cffffff7.5|r seconds.\n\nAfter casting you gain Minor Resolve, increasing your Physical and Spell Resistance by |cffffff2974|r, for |cffffff44.8|r seconds.",
           "durationMs": 7500,
           "castMs": 0,
           "channeled": false,
@@ -29318,7 +29241,7 @@
           "slot": 8,
           "abilityId": 40237,
           "name": "Reviving Barrier",
-          "description": "Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff56289|r damage for |cffffff45|r seconds.\n\nThe wards also heal you and your group members for |cffffff34496|r Health over |cffffff22|r seconds.",
+          "description": "Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff46925|r damage for |cffffff45|r seconds.\n\nThe wards also heal you and your group members for |cffffff28732|r Health over |cffffff22|r seconds.",
           "durationMs": 45000,
           "castMs": 0,
           "channeled": false,
@@ -29360,7 +29283,7 @@
         {
           "abilityId": 44951,
           "name": "Elder Dragon",
-          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff32.4|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff0|r"
+          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff44.8|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff0|r"
         },
         {
           "abilityId": 44953,
@@ -29401,32 +29324,18 @@
       "inArchive": true,
       "archiveBoons": [
         {
-          "abilityId": 200020,
+          "abilityId": 202134,
           "kind": "verse",
-          "name": "Magical Multitudes",
-          "description": "Your Area Effects create diverging energy.\n\nOnce every |cffffff10|r seconds a location based Area Effect placed by you or an ally may begin to diverge, pulsing |cffffff4|r paths of energy every |cffffff0.8|r seconds for |cffffff10|r seconds dealing |cffffff15840|r Magic Damage.",
-          "stacks": 1
-        },
-        {
-          "abilityId": 194166,
-          "kind": "verse",
-          "name": "Archival Evasion",
-          "description": "Large-scale attacks just don't hurt as much as they used to.\n\nDamage taken from Area Effects is reduced by |cffffff30|r%.",
-          "stacks": 1
-        },
-        {
-          "abilityId": 200016,
-          "kind": "verse",
-          "name": "Guild Superiority",
-          "description": "Fight with the might and knowledge taught by your chosen guild!\n\nIncreases Damage Done of your Active Guild Skills by |cffffff125|r%. This bonus increases for each Guild ability slotted.",
+          "name": "Ice Avatar",
+          "description": "Transform into an Ice Avatar and freeze enemies solid!\n\nMax Health, Stamina and Magicka: |cFFFFFF+|r|cffffff4000|r\nMovement Speed: |cFFFFFF+|r|cffffff40|r%\nImmune to Crowd Control\n\nDefeating enemies frozen by Whiteout summons Frostkin.",
           "stacks": 1
         },
         {
           "abilityId": 197652,
           "kind": "vision",
           "name": "Hearty Vitality",
-          "description": "You feel full of life!\n\nMax Health increased by |cffffff6|r% per stack.\n\nCurrent Bonus: |cffffff18|r%",
-          "stacks": 3
+          "description": "You feel full of life!\n\nMax Health increased by |cffffff6|r% per stack.\n\nCurrent Bonus: |cffffff24|r%",
+          "stacks": 4
         },
         {
           "abilityId": 197684,
@@ -29488,8 +29397,8 @@
           "abilityId": 201443,
           "kind": "vision",
           "name": "Extended Favor",
-          "description": "Your major and minor effects last longer.\n\nMajor and Minor effect durations increased by |cffffff62|r% per stack.\n\nCurrent Bonus: |cffffff62|r%",
-          "stacks": 1
+          "description": "Your major and minor effects last longer.\n\nMajor and Minor effect durations increased by |cffffff62|r% per stack.\n\nCurrent Bonus: |cffffff125|r%",
+          "stacks": 2
         },
         {
           "abilityId": 201491,
@@ -29509,14 +29418,14 @@
           "abilityId": 202743,
           "kind": "vision",
           "name": "Ferocious Support",
-          "description": "Your enemies bleed with every attack!\n\nHeavy Attacks cause enemies to bleed for |cffffff87108|r Bleed Damage over |cffffff6|r seconds.\n\n|cFFFFFFPART OF THE FEROCIOUS SET (|r|cffffff2|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Ferocious Visions you gain access to the Werewolf Behemoth Offensive Verse.",
+          "description": "Your enemies bleed with every attack!\n\nHeavy Attacks cause enemies to bleed for |cffffff68796|r Bleed Damage over |cffffff6|r seconds.\n\n|cFFFFFFPART OF THE FEROCIOUS SET (|r|cffffff2|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Ferocious Visions you gain access to the Werewolf Behemoth Offensive Verse.",
           "stacks": 1
         },
         {
           "abilityId": 202804,
           "kind": "vision",
           "name": "Scorching Support",
-          "description": "Lava gathers where you stand!\n\nEvery |cffffff15|r seconds during combat you have a 50% chance to place a lava pool at your feet. The lava pool deals |cffffff13061|r Flame Damage every |cffffff0.5|r seconds and applies a |cffffff62|r% snare to enemies within |cffffff5|r meters.\n\n|cFFFFFFPART OF THE SCORCHING SET (|r|cffffff2|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Scorching Visions you gain access to the Iron Atronach Utility Verse.",
+          "description": "Lava gathers where you stand!\n\nEvery |cffffff15|r seconds during combat you have a 50% chance to place a lava pool at your feet. The lava pool deals |cffffff10315|r Flame Damage every |cffffff0.5|r seconds and applies a |cffffff62|r% snare to enemies within |cffffff5|r meters.\n\n|cFFFFFFPART OF THE SCORCHING SET (|r|cffffff2|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Scorching Visions you gain access to the Iron Atronach Utility Verse.",
           "stacks": 1
         },
         {
@@ -29537,7 +29446,7 @@
           "abilityId": 220568,
           "kind": "vision",
           "name": "Necrotic Support",
-          "description": "Fallen enemies restore your vigor!\n\nEvery enemy slain during combat restores |cffffff4602|r Health, |cffffff1117|r Magicka, and |cffffff1479|r Stamina.\n\n|cFFFFFFPART OF THE NECROTIC SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Necrotic Visions you gain access to the Undead Avatar Offensive Verse.",
+          "description": "Fallen enemies restore your vigor!\n\nEvery enemy slain during combat restores |cffffff5257|r Health, |cffffff1402|r Magicka, and |cffffff1765|r Stamina.\n\n|cFFFFFFPART OF THE NECROTIC SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Necrotic Visions you gain access to the Undead Avatar Offensive Verse.",
           "stacks": 1
         },
         {
@@ -29557,24 +29466,24 @@
       ]
     },
     "backBar": {
-      "capturedAt": 1792101687,
+      "capturedAt": 1792103264,
       "inCombat": true,
       "stats": {
         "penetration-physical": 1890,
-        "power-weapon": 6105,
-        "resistance-spell": 32169,
-        "power-spell": 6105,
+        "power-weapon": 4746,
+        "resistance-spell": 23247,
+        "power-spell": 4746,
         "penetration-spell": 1890,
         "critical-rating-spell": 5130,
-        "health-recovery": 4496,
+        "health-recovery": 3832,
         "critical-rating-weapon": 5130,
-        "stamina-recovery": 1682,
-        "magicka-recovery": 678,
-        "stamina-maximum": 21145,
-        "resistance-physical": 32169,
-        "health-maximum": 57577,
+        "stamina-recovery": 1051,
+        "magicka-recovery": 514,
+        "stamina-maximum": 25225,
+        "resistance-physical": 23247,
+        "health-maximum": 65755,
         "resistance-critical": 1320,
-        "magicka-maximum": 16276
+        "magicka-maximum": 20043
       },
       "unbonusedStats": {
         "penetration-physical": 0,
@@ -29583,15 +29492,15 @@
         "power-spell": 1000,
         "penetration-spell": 0,
         "critical-rating-spell": 2181,
-        "health-recovery": 4496,
+        "health-recovery": 3832,
         "critical-rating-weapon": 2181,
-        "stamina-recovery": 1682,
-        "magicka-recovery": 678,
-        "stamina-maximum": 21145,
+        "stamina-recovery": 1051,
+        "magicka-recovery": 514,
+        "stamina-maximum": 25225,
         "resistance-physical": 0,
-        "health-maximum": 57577,
+        "health-maximum": 65755,
         "resistance-critical": 0,
-        "magicka-maximum": 16276
+        "magicka-maximum": 20043
       },
       "activeBuffs": [
         {
@@ -29637,27 +29546,6 @@
           "stacks": 0
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 258661,
-          "name": "Molten Armaments",
-          "description": "",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61737,
-          "name": "Empower",
-          "description": "",
-          "effect": "Increases damage done with Heavy Attacks by |cffffff150|r%. Does not apply while Battle Spirit is active.\n",
-          "stacks": 0
-        },
-        {
           "abilityId": 262658,
           "name": "Power Lash",
           "description": "",
@@ -29665,36 +29553,8 @@
           "stacks": 0
         },
         {
-          "abilityId": 61707,
-          "name": "Major Intellect",
-          "description": "",
-          "effect": "Increases your Magicka Recovery by |cffffff30|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61746,
-          "name": "Minor Force",
-          "description": "",
-          "effect": "Increases your Critical Damage done by |cffffff10|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 147417,
-          "name": "Minor Courage",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff215|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 29465,
-          "name": "Landslide",
-          "description": "",
-          "effect": "",
-          "stacks": 12
-        },
-        {
-          "abilityId": 38763,
-          "name": "Brawler",
+          "abilityId": 258661,
+          "name": "Molten Armaments",
           "description": "",
           "effect": "",
           "stacks": 0
@@ -29707,73 +29567,38 @@
           "stacks": 0
         },
         {
-          "abilityId": 93123,
-          "name": "Major Aegis",
+          "abilityId": 61737,
+          "name": "Empower",
           "description": "",
-          "effect": "Reduces damage taken from monsters by |cffffff10|r%.\n",
+          "effect": "Increases damage done with Heavy Attacks by |cffffff150|r%. Does not apply while Battle Spirit is active.\n",
           "stacks": 0
         },
         {
-          "abilityId": 61662,
-          "name": "Minor Brutality",
+          "abilityId": 42198,
+          "name": "Spinal Surge",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff10|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 263230,
-          "name": "Resolute Defense",
-          "description": "",
-          "effect": "",
-          "stacks": 3
-        },
-        {
-          "abilityId": 61693,
-          "name": "Minor Resolve",
-          "description": "",
-          "effect": "Increases your Physical and Spell Resistance by |cffffff2974|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 20328,
-          "name": "Earthshield Mantle",
-          "description": "Envelop your body in molten spikes to increase your damage done to monsters by |cffffff100|r and gain Major Resolve, increasing Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\n\nPower drawn from the heart of a volcano forms a damage shield around you that absorbs up to |cffffff23408|r damage for |cffffff9|r seconds, scaling off your Max Health.",
           "effect": "",
           "stacks": 0
         },
         {
-          "abilityId": 61694,
-          "name": "Major Resolve",
-          "description": "",
-          "effect": "Increases your Physical and Spell Resistance by |cffffff5948|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61705,
-          "name": "Major Endurance",
-          "description": "",
-          "effect": "Increases your Stamina Recovery by |cffffff30|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61698,
-          "name": "Major Fortitude",
-          "description": "",
-          "effect": "Increases your Health Recovery by |cffffff30|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61715,
-          "name": "Minor Evasion",
-          "description": "",
-          "effect": "Reduces your damage taken from area of effect attacks by |cffffff10|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 45450,
-          "name": "Battle Rush",
+          "abilityId": 29465,
+          "name": "Landslide",
           "description": "",
           "effect": "",
+          "stacks": 11
+        },
+        {
+          "abilityId": 61713,
+          "name": "Major Vitality",
+          "description": "",
+          "effect": "Increases your healing received and damage shield strength by |cffffff12|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61665,
+          "name": "Major Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
         },
         {
@@ -29784,10 +29609,38 @@
           "stacks": 0
         },
         {
-          "abilityId": 21230,
-          "name": "Berserker",
-          "description": "Increase your Power by for",
+          "abilityId": 93123,
+          "name": "Major Aegis",
+          "description": "",
+          "effect": "Reduces damage taken from monsters by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 97896,
+          "name": "Domihaus",
+          "description": "",
           "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61662,
+          "name": "Minor Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61745,
+          "name": "Major Berserk",
+          "description": "",
+          "effect": "Increases your damage done by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61716,
+          "name": "Major Evasion",
+          "description": "",
+          "effect": "Reduces your damage taken from area of effect attacks by |cffffff20|r%.\n",
           "stacks": 0
         }
       ],
@@ -30356,7 +30209,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:128308:364:50:68343:370:50:16:0:0:0:0:0:0:0:2049:67:0:1:0:9850:0|h|h",
+          "link": "|H0:item:128308:364:50:68343:370:50:16:0:0:0:0:0:0:0:2049:67:0:1:0:9300:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff542|r Maximum Magicka.\nAdds |cffffff596|r Maximum Health.\nAdds |cffffff542|r Maximum Stamina.",
           "trait": "Increase armor enchantment effect by |cffffff25|r%.",
@@ -30372,7 +30225,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:127165:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:6050:0|h|h",
+          "link": "|H0:item:127165:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5500:0|h|h",
           "armor": 2772,
           "enchant": "Adds |cffffff954|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -30380,7 +30233,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:128316:364:50:68343:370:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:9850:0|h|h",
+          "link": "|H0:item:128316:364:50:68343:370:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:9200:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff175|r Maximum Magicka.\nAdds |cffffff193|r Maximum Health.\nAdds |cffffff175|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -30388,15 +30241,15 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133786:364:50:68344:312:50:3:25:0:0:0:0:0:0:2049:3:0:1:0:271:0|h|h",
+          "link": "|H0:item:133786:364:50:68344:312:50:3:25:0:0:0:0:0:0:2049:3:0:1:0:192:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff5738|r Magic Damage and restores |cffffff981|r Health and |cffffff378|r Magicka and Stamina.",
+          "enchant": "Deals |cffffff6096|r Magic Damage and restores |cffffff977|r Health and |cffffff378|r Magicka and Stamina.",
           "trait": "Increases Weapon and Spell Critical by |cffffff7.2|r%.",
           "quality": 5
         },
         {
           "slot": 6,
-          "link": "|H0:item:127171:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:6300:0|h|h",
+          "link": "|H0:item:127171:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5750:0|h|h",
           "armor": 1039,
           "enchant": "Adds |cffffff386|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -30404,7 +30257,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:127169:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:6600:0|h|h",
+          "link": "|H0:item:127169:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5550:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff954|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -30412,7 +30265,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:127166:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:6350:0|h|h",
+          "link": "|H0:item:127166:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5900:0|h|h",
           "armor": 2425,
           "enchant": "Adds |cffffff386|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -30436,7 +30289,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:127167:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:6800:0|h|h",
+          "link": "|H0:item:127167:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:62:0:1:0:5150:0|h|h",
           "armor": 1386,
           "enchant": "Adds |cffffff386|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -30444,7 +30297,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:56:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:460:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff1130|r for |cffffff5|r seconds.",
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
@@ -30456,7 +30309,7 @@
           "slot": 3,
           "abilityId": 38788,
           "name": "Stampede",
-          "description": "Launch across the earth and smash an enemy, dealing |cffffff8476|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1751|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
+          "description": "Launch across the earth and smash an enemy, dealing |cffffff7886|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1652|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
@@ -30465,10 +30318,10 @@
         },
         {
           "slot": 4,
-          "abilityId": 32722,
-          "name": "Blood of the Elder Dragon",
-          "description": "Draw on your draconic blood to heal yourself for |cffffff12989|r and nearby allies for |cffffff8660|r Health, increasing by up to |cffffff50|r% additional healing based on missing Health. \n\nHealed targets gain Major Fortitude and Minor Courage, increasing Health Recovery by |cffffff30|r% and Weapon and Spell Damage by |cffffff215|r for |cffffff32.4|r seconds.",
-          "durationMs": 32400,
+          "abilityId": 20499,
+          "name": "Chains of Devastation",
+          "description": "Lash out with a chain bound in jagged links, pulling yourself to an enemy. The searing metal deals |cffffff7819|r Flame Damage and applies the Burning status effect.\n\nThis attack cannot be dodged or reflected.\n\nHitting the target grants you Major Berserk for |cffffff13.4|r seconds and Major Evasion for |cffffff22.4|r seconds, increasing damage done by |cffffff10|r% reducing damage taken from area attacks by |cffffff20|r%.",
+          "durationMs": 0,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
@@ -30476,10 +30329,10 @@
         },
         {
           "slot": 5,
-          "abilityId": 240149,
-          "name": "Healing Contingency",
-          "description": "Imbue yourself with the magical runes of Ulfsild for |cffffff22|r seconds. These runes trigger when you cast an ability with a cost, causing a burst of magic around you.",
-          "durationMs": 22000,
+          "abilityId": 21014,
+          "name": "Fleetstep Wings",
+          "description": "Unfurl draconic wings to knock back enemies around you |cffffff4|r meters and stun them for |cffffff1.8|r seconds. \n\nThe enchanted winds sent forth by your wings coalesce around you, reducing your damage taken from projectiles by |cffffff50|r% for |cffffff6|r seconds, while granting you immunity to snares and immobilizations and Major Expedition for |cffffff4|r seconds, increasing Movement Speed by |cffffff30|r%.",
+          "durationMs": 6000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
@@ -30489,7 +30342,7 @@
           "slot": 6,
           "abilityId": 32881,
           "name": "Cauterize",
-          "description": "Activate an aura of embers which cauterizes the wounds of you or up to |cffffff6|r nearby allies every |cffffff3|r seconds, healing for |cffffff5194|r Health.\n\nWhile slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.",
+          "description": "Activate an aura of embers which cauterizes the wounds of you or up to |cffffff6|r nearby allies every |cffffff3|r seconds, healing for |cffffff4531|r Health.\n\nWhile slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
@@ -30500,8 +30353,8 @@
           "slot": 7,
           "abilityId": 31888,
           "name": "Molten Armaments",
-          "description": "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff48.6|r seconds.\n\nWhile active, dealing damage with Light and Heavy Attacks causes an additional |cffffff2618|r Flame Damage, up to once every |cffffff1.5|r seconds.\n\nYou also gain Empower for the duration, increasing the damage of your Heavy Attacks against monsters by |cffffff150|r%.",
-          "durationMs": 48600,
+          "description": "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff1.1|r minutes.\n\nWhile active, dealing damage with Light and Heavy Attacks causes an additional |cffffff2441|r Flame Damage, up to once every |cffffff1.5|r seconds.\n\nYou also gain Empower for the duration, increasing the damage of your Heavy Attacks against monsters by |cffffff150|r%.",
+          "durationMs": 67200,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
@@ -30511,7 +30364,7 @@
           "slot": 8,
           "abilityId": 17874,
           "name": "Magma Shell",
-          "description": "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff169|r% of their Max Health for |cffffff15|r seconds.\n\nWhile active, you cannot generate Ultimate.",
+          "description": "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff184|r% of their Max Health for |cffffff15|r seconds.\n\nWhile active, you cannot generate Ultimate.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
@@ -30533,7 +30386,7 @@
         {
           "abilityId": 45023,
           "name": "Fan the Flames",
-          "description": "Tend to your garden of flame, that it may flourish.\n\nIncreases your chances of applying the Burning status effect by |cffffff90|r% and its damage done by |cffffff45|r%. These values are influenced by the number of Dragonknight abilities slotted."
+          "description": "Tend to your garden of flame, that it may flourish.\n\nIncreases your chances of applying the Burning status effect by |cffffff100|r% and its damage done by |cffffff50|r%. These values are influenced by the number of Dragonknight abilities slotted."
         },
         {
           "abilityId": 45029,
@@ -30553,12 +30406,12 @@
         {
           "abilityId": 44951,
           "name": "Elder Dragon",
-          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff32.4|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff0|r"
+          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff44.8|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff0|r"
         },
         {
           "abilityId": 44953,
           "name": "The Storm Voice",
-          "description": "The syllables of that ancient tongue live in the mouth of every Dragonknight.\n\nWhen you cast an Ultimate ability, you restore |cffffff18|r Health, |cffffff16|r Magicka, and |cffffff16|r Stamina for every Ultimate spent. Each Dragonknight ability slotted increases this value by |cffffff6|r.\n\nCurrent amount:\n|cffffff46|r Health\n|cffffff40|r Magicka\n|cffffff40|r Stamina"
+          "description": "The syllables of that ancient tongue live in the mouth of every Dragonknight.\n\nWhen you cast an Ultimate ability, you restore |cffffff18|r Health, |cffffff16|r Magicka, and |cffffff16|r Stamina for every Ultimate spent. Each Dragonknight ability slotted increases this value by |cffffff6|r.\n\nCurrent amount:\n|cffffff52|r Health\n|cffffff46|r Magicka\n|cffffff46|r Stamina"
         },
         {
           "abilityId": 44996,
@@ -30594,32 +30447,18 @@
       "inArchive": true,
       "archiveBoons": [
         {
-          "abilityId": 200020,
+          "abilityId": 202134,
           "kind": "verse",
-          "name": "Magical Multitudes",
-          "description": "Your Area Effects create diverging energy.\n\nOnce every |cffffff10|r seconds a location based Area Effect placed by you or an ally may begin to diverge, pulsing |cffffff4|r paths of energy every |cffffff0.8|r seconds for |cffffff10|r seconds dealing |cffffff15735|r Magic Damage.",
-          "stacks": 1
-        },
-        {
-          "abilityId": 194166,
-          "kind": "verse",
-          "name": "Archival Evasion",
-          "description": "Large-scale attacks just don't hurt as much as they used to.\n\nDamage taken from Area Effects is reduced by |cffffff30|r%.",
-          "stacks": 1
-        },
-        {
-          "abilityId": 200016,
-          "kind": "verse",
-          "name": "Guild Superiority",
-          "description": "Fight with the might and knowledge taught by your chosen guild!\n\nIncreases Damage Done of your Active Guild Skills by |cffffff135|r%. This bonus increases for each Guild ability slotted.",
+          "name": "Ice Avatar",
+          "description": "Transform into an Ice Avatar and freeze enemies solid!\n\nMax Health, Stamina and Magicka: |cFFFFFF+|r|cffffff4000|r\nMovement Speed: |cFFFFFF+|r|cffffff40|r%\nImmune to Crowd Control\n\nDefeating enemies frozen by Whiteout summons Frostkin.",
           "stacks": 1
         },
         {
           "abilityId": 197652,
           "kind": "vision",
           "name": "Hearty Vitality",
-          "description": "You feel full of life!\n\nMax Health increased by |cffffff6|r% per stack.\n\nCurrent Bonus: |cffffff18|r%",
-          "stacks": 3
+          "description": "You feel full of life!\n\nMax Health increased by |cffffff6|r% per stack.\n\nCurrent Bonus: |cffffff24|r%",
+          "stacks": 4
         },
         {
           "abilityId": 197684,
@@ -30681,8 +30520,8 @@
           "abilityId": 201443,
           "kind": "vision",
           "name": "Extended Favor",
-          "description": "Your major and minor effects last longer.\n\nMajor and Minor effect durations increased by |cffffff62|r% per stack.\n\nCurrent Bonus: |cffffff62|r%",
-          "stacks": 1
+          "description": "Your major and minor effects last longer.\n\nMajor and Minor effect durations increased by |cffffff62|r% per stack.\n\nCurrent Bonus: |cffffff125|r%",
+          "stacks": 2
         },
         {
           "abilityId": 201491,
@@ -30702,14 +30541,14 @@
           "abilityId": 202743,
           "kind": "vision",
           "name": "Ferocious Support",
-          "description": "Your enemies bleed with every attack!\n\nHeavy Attacks cause enemies to bleed for |cffffff86471|r Bleed Damage over |cffffff6|r seconds.\n\n|cFFFFFFPART OF THE FEROCIOUS SET (|r|cffffff2|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Ferocious Visions you gain access to the Werewolf Behemoth Offensive Verse.",
+          "description": "Your enemies bleed with every attack!\n\nHeavy Attacks cause enemies to bleed for |cffffff78085|r Bleed Damage over |cffffff6|r seconds.\n\n|cFFFFFFPART OF THE FEROCIOUS SET (|r|cffffff2|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Ferocious Visions you gain access to the Werewolf Behemoth Offensive Verse.",
           "stacks": 1
         },
         {
           "abilityId": 202804,
           "kind": "vision",
           "name": "Scorching Support",
-          "description": "Lava gathers where you stand!\n\nEvery |cffffff15|r seconds during combat you have a 50% chance to place a lava pool at your feet. The lava pool deals |cffffff12965|r Flame Damage every |cffffff0.5|r seconds and applies a |cffffff62|r% snare to enemies within |cffffff5|r meters.\n\n|cFFFFFFPART OF THE SCORCHING SET (|r|cffffff2|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Scorching Visions you gain access to the Iron Atronach Utility Verse.",
+          "description": "Lava gathers where you stand!\n\nEvery |cffffff15|r seconds during combat you have a 50% chance to place a lava pool at your feet. The lava pool deals |cffffff11666|r Flame Damage every |cffffff0.5|r seconds and applies a |cffffff62|r% snare to enemies within |cffffff5|r meters.\n\n|cFFFFFFPART OF THE SCORCHING SET (|r|cffffff2|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Scorching Visions you gain access to the Iron Atronach Utility Verse.",
           "stacks": 1
         },
         {
@@ -30730,7 +30569,7 @@
           "abilityId": 220568,
           "kind": "vision",
           "name": "Necrotic Support",
-          "description": "Fallen enemies restore your vigor!\n\nEvery enemy slain during combat restores |cffffff4602|r Health, |cffffff1138|r Magicka, and |cffffff1479|r Stamina.\n\n|cFFFFFFPART OF THE NECROTIC SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Necrotic Visions you gain access to the Undead Avatar Offensive Verse.",
+          "description": "Fallen enemies restore your vigor!\n\nEvery enemy slain during combat restores |cffffff5210|r Health, |cffffff1402|r Magicka, and |cffffff1765|r Stamina.\n\n|cFFFFFFPART OF THE NECROTIC SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Necrotic Visions you gain access to the Undead Avatar Offensive Verse.",
           "stacks": 1
         },
         {
