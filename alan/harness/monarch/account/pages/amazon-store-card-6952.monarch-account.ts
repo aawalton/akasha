@@ -8,11 +8,11 @@ export const amazonStoreCard6952 = {
   definition: "money the family owes, sitting in a credit card account",
   monarchId: "148836979301030089",
   accountDisplayName: "Amazon Store Card (...6952)",
-  currentBalance: -1220.31,
+  currentBalance: -1267.55,
   accountType: "credit",
   asset: false,
   accountActive: true,
   accountHidden: false,
   createdAt: "2026-09-03T03:39:10.888Z",
-  updatedAt: "2026-10-14T06:13:05.738Z",
+  updatedAt: "2026-10-15T06:13:03.662Z",
 } as const satisfies MonarchAccount
