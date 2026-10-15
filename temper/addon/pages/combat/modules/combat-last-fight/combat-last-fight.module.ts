@@ -4,7 +4,7 @@ export const combatLastFight = {
   id: "01a13c8a-fdb8-7f70-8c68-aa9390c65744",
   type: "page-type/module",
   slug: "combat-last-fight",
-  definition: "what the player healed themself for in the fight that just ended, by ability",
+  definition: "what the player healed, shielded and spent in the fight that just ended",
   code: "ts",
   decisions: [
     {
@@ -28,6 +28,16 @@ export const combatLastFight = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A shield counts its full size as it lands on the player, read from the shield on the health bar.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Magicka, Stamina and Ultimate are each counted as gained and spent over the fight.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A cast is counted when the skill starts, by the ability that started.",
     },
     {
@@ -40,5 +50,5 @@ export const combatLastFight = {
     },
   ],
   createdAt: "2026-10-14T22:31:44.311Z",
-  updatedAt: "2026-10-15T14:08:50.369Z",
+  updatedAt: "2026-10-15T14:29:48.530Z",
 } as const satisfies Module

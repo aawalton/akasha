@@ -16,6 +16,7 @@ import {
   VARIABLE_PENETRATION_DEBUFF_ABILITY_IDS,
 } from "akasha/temper/addon/pages/combat/modules/combat-data-tables/combat-data-tables.module.code.ts"
 import { setFightDataLog } from "akasha/temper/addon/pages/combat/modules/combat-fight-data-log/combat-fight-data-log.module.code.ts"
+import { watchShields } from "akasha/temper/addon/pages/combat/modules/combat-last-fight/combat-last-fight.module.code.ts"
 import { initializeLibCombat } from "akasha/temper/addon/pages/combat/modules/combat-lib-init/combat-lib-init.module.code.ts"
 import { setLibCombatLog } from "akasha/temper/addon/pages/combat/modules/combat-lib-log/combat-lib-log.module.code.ts"
 import { makeMenu } from "akasha/temper/addon/pages/combat/modules/combat-menu/combat-menu.module.code.ts"
@@ -42,6 +43,7 @@ export function initializeCore(): undefined {
   setFightDataLog((level, formatString, ...args) => log("save", level, formatString, ...args))
 
   initializeLibCombat()
+  watchShields()
 
   for (const [debuffKey] of pairs(VARIABLE_PENETRATION_DEBUFF_ABILITY_IDS)) {
     setPenetrationDebuffValue(debuffKey)
