@@ -6,11 +6,11 @@ import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/chara
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { holdMetricCatalogFromCheckout } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts"
 import {
-  judgeStatCase,
   pinnedCaseOf,
   statCaseShape,
   statCaseText,
 } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
+import { judgeStatCase } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.test-fixtures.ts"
 import { Glob } from "bun"
 
 holdSkillCatalogFromCheckout()

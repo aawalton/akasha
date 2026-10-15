@@ -29,14 +29,7 @@ type StatCase = z.infer<typeof statCaseShape>
 
 type CaseRead = Omit<StatCase, "pinned" | "gaps"> & { readonly stats: Record<string, number> }
 
-type StatMiss = { readonly stat: string; readonly game: number; readonly estimate: number }
-
-type StatCaseJudgement = {
-  readonly drifted: readonly StatMiss[]
-  readonly closed: readonly string[]
-}
-
-function estimatesOf(read: Omit<StatCase, "pinned" | "gaps">): (stat: string) => number {
+export function estimatesOf(read: Omit<StatCase, "pinned" | "gaps">): (stat: string) => number {
   const build = decodeBuild(buildHash(read.buildHash))
   if (build === null) throw new Error(`the build of the ${read.character} case does not decode`)
   const estimated = calculateReadingStatsByBar(
@@ -47,19 +40,6 @@ function estimatesOf(read: Omit<StatCase, "pinned" | "gaps">): (stat: string) =>
   )
   const metrics = estimated.metrics as Record<string, { value: number } | undefined>
   return (stat) => metrics[stat]?.value ?? 0
-}
-
-export function judgeStatCase(statCase: StatCase): StatCaseJudgement {
-  const estimate = estimatesOf(statCase)
-  const drifted: StatMiss[] = []
-  for (const [stat, game] of Object.entries(statCase.pinned)) {
-    const value = estimate(stat)
-    if (value !== game) drifted.push({ stat, game, estimate: value })
-  }
-  const closed = Object.entries(statCase.gaps)
-    .filter(([stat, game]) => estimate(stat) === game)
-    .map(([stat]) => stat)
-  return { drifted, closed }
 }
 
 export function pinnedCaseOf(read: CaseRead): StatCase {

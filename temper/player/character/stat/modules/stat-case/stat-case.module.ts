@@ -7,6 +7,7 @@ export const statCase = {
   definition: "a stat case's pinned stats held against what the calculator gives",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   testReads: [
     "page-type/temper-stat-case",
     "page-type/temper-metric",
@@ -90,6 +91,10 @@ export const statCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A case is judged against the calculator in the test fixtures alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Pinning a reading pins each stat the calculator gives and keeps the rest as gaps.",
     },
@@ -99,5 +104,5 @@ export const statCase = {
     },
   ],
   createdAt: "2026-10-14T17:18:43.951Z",
-  updatedAt: "2026-10-14T18:22:27.050Z",
+  updatedAt: "2026-10-15T17:53:47.817Z",
 } as const satisfies Module
