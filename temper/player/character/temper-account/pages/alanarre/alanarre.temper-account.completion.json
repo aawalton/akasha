@@ -72836,7 +72836,7 @@
       "name": "Monolith of Storms",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Sorcerer",
-      "slotsUnlocked": 15,
+      "slotsUnlocked": 16,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72917,7 +72917,7 @@
         },
         {
           "name": "Monolith of Storms Boots",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Monolith of Storms Sabatons",
