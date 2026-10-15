@@ -72224,7 +72224,7 @@
       "name": "Reawakened Hierophant",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Arcanist",
-      "slotsUnlocked": 21,
+      "slotsUnlocked": 22,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72321,7 +72321,7 @@
         },
         {
           "name": "Reawakened Hierophant Dagger",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Reawakened Hierophant Axe",
@@ -75646,7 +75646,7 @@
       "name": "Corpseburster",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 13,
+      "slotsUnlocked": 14,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75755,7 +75755,7 @@
         },
         {
           "name": "Corpseburster Sword",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Corpseburster Battle Axe",
