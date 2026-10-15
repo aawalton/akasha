@@ -1,9 +1,9 @@
 import type { Command } from "akasha/command/command.page-type.types.ts"
 
-export const temperHps = {
+export const temperTps = {
   id: "01a13c20-c7d3-7f3b-bb59-c86221a8b893",
   type: "page-type/command",
-  slug: "temper-hps",
+  slug: "temper-tps",
   definition: "the command saying the toughness per second a character has over a fight",
   code: "ts",
   decisions: [
@@ -96,8 +96,8 @@ export const temperHps = {
         "The last fight is read from the game's saved variables rather than landed in akasha.",
     },
   ],
-  name: "hps",
+  name: "tps",
   arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
   createdAt: "2026-10-14T20:35:43.699Z",
-  updatedAt: "2026-10-15T15:12:48.089Z",
+  updatedAt: "2026-10-15T15:13:38.166Z",
 } as const satisfies Command

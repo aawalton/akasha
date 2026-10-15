@@ -2553,7 +2553,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.ts","id":"01a0d3c8-0151-7c39-8927-103cdb98713e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.ts","id":"01a0d8b3-a671-7854-9271-dd368db8e1d7"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.ts","id":"01a0d418-8dda-7e16-8eab-f943e204c1ee"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/hps/temper-hps.command.ts","id":"01a13c20-c7d3-7f3b-bb59-c86221a8b893"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts","id":"01a0603c-c1ce-749d-a434-9035b90e6e37"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts","id":"01a0603c-c1ce-7042-a37c-880bfd4380f9"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/bank/profile/temper-inventory-bank-profile.command.ts","id":"01a0603c-c1ce-74dd-8c14-84a8dc5bd418"}
@@ -2599,6 +2598,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/picture/temper-picture.command.ts","id":"01a0ca66-a24e-707c-9316-688e7ba7452b"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.ts","id":"01a11c7f-285d-7a2e-b753-227f6826b2c1"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/stat-compare/temper-stat-compare.command.ts","id":"01a13ac6-0c63-7b9c-bc03-6035eeeed9e2"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/tps/temper-tps.command.ts","id":"01a13c20-c7d3-7f3b-bb59-c86221a8b893"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.ts","id":"01a0603c-c1da-795b-8baf-e00c1b4eb588"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.ts","id":"01a0603c-c1da-7a8b-ad5e-79907918ed2a"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/watcher/log/temper-watcher-log.command.ts","id":"01a0603c-c1da-744c-8d22-01ee1ec32945"}

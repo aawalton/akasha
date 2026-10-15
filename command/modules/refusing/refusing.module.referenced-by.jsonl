@@ -119,7 +119,6 @@
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/community/addon-list/temper-community-addon-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/hps/temper-hps.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts","typed":false,"deferred":false}
@@ -133,6 +132,7 @@
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/tps/temper-tps.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/watcher/log/temper-watcher-log.command.code.ts","typed":false,"deferred":false}

@@ -12,8 +12,8 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
-import { temperHps as page } from "akasha/command/pages/temper/hps/temper-hps.command.ts"
 import { characterCompletionAt } from "akasha/command/pages/temper/modules/character-completion-reading/character-completion-reading.module.code.ts"
+import { temperTps as page } from "akasha/command/pages/temper/tps/temper-tps.command.ts"
 import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
 import { reavingBlows } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/reaving-blows.temper-champion-star.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
@@ -235,7 +235,7 @@ const BARS = ["frontBar", "backBar"] as const
 
 type Unread = { readonly name: string; readonly sentences: readonly string[] }
 
-export async function temperHps(argv: readonly string[], given: Given): Promise<Answer> {
+export async function temperTps(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)
   const slug = read.taken.character

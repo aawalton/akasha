@@ -9,7 +9,7 @@ export const temper = {
     "command/temper-auto-quest-trace",
     "command/temper-build-test",
     "command/temper-error-list",
-    "command/temper-hps",
+    "command/temper-tps",
     "command/temper-package-typecheck",
     "command/temper-picture",
     "command/temper-quest-port-trace",
@@ -25,5 +25,5 @@ export const temper = {
   ],
   name: "temper",
   createdAt: "2026-09-07T13:39:24.201Z",
-  updatedAt: "2026-10-14T20:35:43.699Z",
+  updatedAt: "2026-10-15T15:13:38.166Z",
 } as const satisfies Namespace
