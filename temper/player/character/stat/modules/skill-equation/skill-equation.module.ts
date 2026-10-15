@@ -1,0 +1,26 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const skillEquation = {
+  id: "01a1403d-d551-75df-ac1b-9f48985d15c4",
+  type: "page-type/module",
+  slug: "skill-equation",
+  definition: "a number a skill's tooltip names, worked out from the equation UESP fit for it",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An equation sums each stat times its coefficient, and a constant.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The stat is the higher of Magicka and Stamina, the power the higher of the two.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An equation naming a variable no stat here reads gives no number.",
+    },
+  ],
+  createdAt: "2026-10-15T15:45:56.553Z",
+  updatedAt: "2026-10-15T15:45:56.553Z",
+} as const satisfies Module

@@ -54,6 +54,7 @@ export const temperCharacterStat = {
     "module/enchant-proc",
     "module/skill-ultimate",
     "module/toughness-per-second",
+    "module/skill-equation",
   ],
   directives: [
     {
@@ -94,5 +95,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-15T15:12:48.089Z",
+  updatedAt: "2026-10-15T15:45:56.553Z",
 } as const satisfies Domain
