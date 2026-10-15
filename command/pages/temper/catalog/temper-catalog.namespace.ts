@@ -7,6 +7,7 @@ export const temperCatalog = {
   definition: "the catalog holding the game's things for Temper",
   parts: [
     "command/temper-catalog-import-lore-books",
+    "command/temper-catalog-import-skill-equations",
     "command/temper-catalog-invalidate",
     "command/temper-catalog-list",
     "command/temper-catalog-mined-uploaded",
@@ -14,5 +15,5 @@ export const temperCatalog = {
   ],
   name: "catalog",
   createdAt: "2026-09-07T13:38:58.561Z",
-  updatedAt: "2026-10-08T19:48:07.064Z",
+  updatedAt: "2026-10-15T15:44:41.953Z",
 } as const satisfies Namespace

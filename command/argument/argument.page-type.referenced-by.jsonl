@@ -399,6 +399,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/turn.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/typed-text.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/udid.argument.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/uesp-table.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/unmapped.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/up.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/uri.argument.ts","typed":true,"deferred":false}
