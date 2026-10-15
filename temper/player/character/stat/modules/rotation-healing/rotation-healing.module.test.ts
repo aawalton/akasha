@@ -60,6 +60,18 @@ test("a shield the game gives no duration runs as long as its tooltip says", () 
   expect(healed.skills.map((one) => one.casts)).toEqual([10, 2])
 })
 
+test("direct damage is each cast's hit and each wave that falls inside the fight", () => {
+  const embers = { ...EMBERS, damage: { hit: 5555, wave: 0, waveSeconds: 0 } }
+  const aura = {
+    ...LASH,
+    name: "Aura",
+    durationMs: 20_000,
+    damage: { hit: 0, wave: 9215, waveSeconds: 5 },
+  }
+  const healed = healingOverRotation([embers, aura], 12)
+  expect(healed.directDamage).toBe(2 * 5555 + 2 * 9215)
+})
+
 test("a tick past the end of the fight does not count", () => {
   const healed = healingOverRotation([EMBERS], 5)
   expect(healed.skills[0]?.healing).toBe(4291 + 2 * 644)
