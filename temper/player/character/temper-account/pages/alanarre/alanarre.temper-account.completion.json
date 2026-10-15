@@ -76258,7 +76258,7 @@
       "name": "Aerie's Cry",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Warden",
-      "slotsUnlocked": 18,
+      "slotsUnlocked": 19,
       "totalSlots": 36,
       "pieces": [
         {
@@ -76335,7 +76335,7 @@
         },
         {
           "name": "Aerie's Cry Shoes",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Aerie's Cry Boots",
