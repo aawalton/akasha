@@ -1,5 +1,10 @@
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-04/eso-enums-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -125,6 +130,32 @@ type SlottedSkill = {
   castMs: number
   channeled: boolean
   cooldownMs: number
+  ultimateCost: number
+}
+
+type ClassPassive = {
+  abilityId: number
+  name: string
+  description: string
+}
+
+function classPassives(): ClassPassive[] {
+  const passives: ClassPassive[] = []
+  const lines = GetNumSkillLines(SKILL_TYPE_CLASS)
+  for (let lineIndex = 1; lineIndex <= lines; lineIndex++) {
+    const abilities = GetNumSkillAbilities(SKILL_TYPE_CLASS, lineIndex)
+    for (let skillIndex = 1; skillIndex <= abilities; skillIndex++) {
+      if (!IsSkillAbilityPassive(SKILL_TYPE_CLASS, lineIndex, skillIndex)) continue
+      if (!IsSkillAbilityPurchased(SKILL_TYPE_CLASS, lineIndex, skillIndex)) continue
+      const abilityId = GetSkillAbilityId(SKILL_TYPE_CLASS, lineIndex, skillIndex, false)
+      passives.push({
+        abilityId,
+        name: zo_strformat("<<1>>", GetAbilityName(abilityId, "player")),
+        description: GetAbilityDescription(abilityId, undefined, "player"),
+      })
+    }
+  }
+  return passives
 }
 
 function slottedAbilityId(slot: number): number {
@@ -149,6 +180,7 @@ function slottedSkills(): SlottedSkill[] {
       castMs: castMs ?? 0,
       channeled: channeled === true,
       cooldownMs: GetAbilityCooldown(abilityId, "player") ?? 0,
+      ultimateCost: GetAbilityCost(abilityId, COMBAT_MECHANIC_FLAGS_ULTIMATE, undefined, "player"),
     })
   }
   return skills
@@ -175,6 +207,7 @@ export function captureReportedStats(): undefined {
     championPoints: championPoints(),
     worn: worn(),
     skills: slottedSkills(),
+    classPassives: classPassives(),
   }
 
   const reported = charEntry.reportedStats ?? {}

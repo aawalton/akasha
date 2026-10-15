@@ -61,7 +61,15 @@ export const charactersReportedStats = {
       decisionKind: "decision-kind/departure",
       statement: "A reading keeps each such skill's duration, cast time, channeling and cooldown.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading keeps the Ultimate each such skill costs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading keeps each class passive bought, with the text the game gives it now.",
+    },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-14T19:48:17.130Z",
+  updatedAt: "2026-10-15T14:41:28.959Z",
 } as const satisfies Module
