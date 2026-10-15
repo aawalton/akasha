@@ -29,7 +29,7 @@ const VARIABLES: Readonly<Record<string, keyof EquationStats>> = {
 
 const UNITS = new Set(["second", "seconds", "minute", "minutes", "meters", "hours", "hour"])
 
-const LINE = /^<<(\d+)>> = (.*?)(?: \(([^()]*)\))?$/
+const LINE = /^<<(\d+)>> = (.*?)(?: \((.*)\))?$/
 
 const PART = /^(-?\d+(?:\.\d+)?(?:e-?\d+)?)%?(?:\s+([A-Za-z]+))?$/
 

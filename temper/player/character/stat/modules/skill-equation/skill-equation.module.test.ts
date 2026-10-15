@@ -24,6 +24,12 @@ test("an equation on the higher stat and power sums its terms and constant", () 
   expect(at(line)).toBeCloseTo(0.031026 * 20000 + 0.325426 * 5000 - 1.91657)
 })
 
+test("a tag holding parentheses of its own leaves the equation read", () => {
+  expect(at("<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, RankMod(1), Dmg, Flame)")).toBeCloseTo(
+    0.1 * 20000 + 1.05 * 5000
+  )
+})
+
 test("an equation on max health is read", () => {
   expect(at("<<4>> = 0.206642 Health - 1.14018 (Health, Heal)")).toBeCloseTo(
     0.206642 * 40000 - 1.14018

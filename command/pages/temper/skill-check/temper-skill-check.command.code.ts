@@ -68,7 +68,7 @@ export function pairedLines(
     const worked = equationValue(equation, stats)
     if (equation === undefined || !equation.scaled || tooltip === undefined) return
     const kind = equation.tags
-      .filter((tag) => !tag.includes("="))
+      .filter((tag) => !/[=(]/.test(tag))
       .slice(1, 3)
       .join(" ")
     if (worked === undefined || worked === 0) {
