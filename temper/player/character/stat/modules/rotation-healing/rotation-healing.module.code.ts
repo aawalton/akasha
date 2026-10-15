@@ -23,6 +23,18 @@ export type RotationUltimate = {
   readonly healingPerPoint: number
 }
 
+export function meanUltimate(ultimates: readonly RotationUltimate[]): RotationUltimate | undefined {
+  const first = ultimates[0]
+  if (first === undefined) return undefined
+  const mean = (pick: (one: RotationUltimate) => number) =>
+    ultimates.reduce((sum, one) => sum + pick(one), 0) / ultimates.length
+  return {
+    name: first.name,
+    cost: mean((one) => one.cost),
+    healingPerPoint: mean((one) => one.healingPerPoint),
+  }
+}
+
 export type UltimateSpent = {
   readonly name: string
   readonly casts: number

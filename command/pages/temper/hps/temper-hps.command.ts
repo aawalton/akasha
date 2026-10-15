@@ -4,7 +4,7 @@ export const temperHps = {
   id: "01a13c20-c7d3-7f3b-bb59-c86221a8b893",
   type: "page-type/command",
   slug: "temper-hps",
-  definition: "the command saying the healing per second a character gives itself over a fight",
+  definition: "the command saying the toughness per second a character has over a fight",
   code: "ts",
   decisions: [
     {
@@ -64,12 +64,17 @@ export const temperHps = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Healing per second counts overheal, since overheal cancels damage in the same global cooldown.",
+        "Toughness per second counts overheal, since overheal cancels damage in the same global cooldown.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Healing per second counts a shield's full size, whatever share of the shield absorbs damage.",
+        "Toughness per second counts a shield's full size, whatever share of the shield absorbs damage.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Max health, armor and damage taken are the mean of both bars' readings, for estimate and fight.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -94,5 +99,5 @@ export const temperHps = {
   name: "hps",
   arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
   createdAt: "2026-10-14T20:35:43.699Z",
-  updatedAt: "2026-10-15T14:46:05.856Z",
+  updatedAt: "2026-10-15T15:12:48.089Z",
 } as const satisfies Command
