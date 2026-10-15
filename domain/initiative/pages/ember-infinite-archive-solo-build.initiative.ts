@@ -10,7 +10,7 @@ export const emberInfiniteArchiveSoloBuild = {
     {
       statement: "Erin's armor, penetration, max health and healing per second are known.",
       workingMemory:
-        "Matching the game out of combat: armor 27,370 with the Lover and 32,382 with the Lady, penetration 11,050, max health 31,895. Healing per second, overheal counted, is 8,488 by `akasha temper hps` against 8,905 in a 21 second fight. The model has skills, Fire Keeper in its area, the weapon enchant, Reaving Blows and critical heals; it lacks The Storm Voice, which needs an Ultimate model, and Power Lash, which needs Off Balance.",
+        "Matching the game out of combat: armor 27,370 with the Lover and 32,382 with the Lady, penetration 11,050, max health 31,895. Healing per second, overheal and full shields counted, is 9,298 by `akasha temper hps` against 6,737 in a 94 second fight. The model builds Ultimate from none at 3 a second, matching the fight's 281 in 94 seconds, and casts The Storm Voice once in 60 seconds; it lacks Power Lash, which needs Off Balance, and Brawler's growth per enemy hit.",
     },
   ],
   constraints: [
@@ -24,5 +24,5 @@ export const emberInfiniteArchiveSoloBuild = {
     "Every damage skill on Erin's bars also keeps Erin alive.",
   ],
   createdAt: "2026-10-14T13:52:46.306Z",
-  updatedAt: "2026-10-15T14:25:16.068Z",
+  updatedAt: "2026-10-15T15:01:58.125Z",
 } as const satisfies Initiative
