@@ -32,6 +32,7 @@ export const temperSkill = {
     "page-type/temper-resource",
     "page-type/temper-damage-type",
     "page-type/temper-enemy-type",
+    "text-property/skill-equations",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -47,10 +48,11 @@ export const temperSkill = {
     { pageProperty: "text-property/skill-status", required: false, many: false },
     { pageProperty: "relation-property/skill-line", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
+    { pageProperty: "text-property/skill-equations", required: false, many: true, maxCount: null },
   ],
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-02T01:45:21.036Z",
-  updatedAt: "2026-09-27T12:23:36.000Z",
+  updatedAt: "2026-10-15T15:41:52.487Z",
 } as const satisfies PageType

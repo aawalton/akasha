@@ -6,6 +6,7 @@ import type { IsMorph } from "akasha/temper/catalog/skill/properties/is-morph.bo
 import type { LearnedLevel } from "akasha/temper/catalog/skill/properties/learned-level.number-property.types.ts"
 import type { LineRankNeeded } from "akasha/temper/catalog/skill/properties/line-rank-needed.number-property.types.ts"
 import type { MorphIndex } from "akasha/temper/catalog/skill/properties/morph-index.number-property.types.ts"
+import type { SkillEquations } from "akasha/temper/catalog/skill/properties/skill-equations.text-property.types.ts"
 import type { SkillRank } from "akasha/temper/catalog/skill/properties/skill-rank.number-property.types.ts"
 import type { SkillStatus } from "akasha/temper/catalog/skill/properties/skill-status.text-property.types.ts"
 import type { SkillLine } from "akasha/temper/catalog/thing/properties/skill-line.relation-property.types.ts"
@@ -27,4 +28,5 @@ export type TemperSkill = TemperCatalogThing & {
   status?: SkillStatus
   skillLineId: SkillLine
   hashPlace: HashPlace
+  equations?: SkillEquations
 }
