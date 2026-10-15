@@ -20,5 +20,6 @@ export const metaworldHopecore0194Chapter109StrayCatStrut2 = {
     },
   ],
   createdAt: "2026-10-14T13:05:51.506Z",
-  updatedAt: "2026-10-14T13:05:51.506Z",
+  updatedAt: "2026-10-15T01:04:55.678Z",
+  ownProgress: 3480,
 } as const satisfies StoryChapterRead
