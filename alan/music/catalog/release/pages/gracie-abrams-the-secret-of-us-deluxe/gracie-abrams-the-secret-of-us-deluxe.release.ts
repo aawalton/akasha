@@ -7,8 +7,8 @@ export const gracieAbramsTheSecretOfUsDeluxe = {
   title: "The Secret of Us (Deluxe)",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 72.3635,
-  ownProgress: 72.3635,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-10-18",
@@ -20,5 +20,5 @@ export const gracieAbramsTheSecretOfUsDeluxe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

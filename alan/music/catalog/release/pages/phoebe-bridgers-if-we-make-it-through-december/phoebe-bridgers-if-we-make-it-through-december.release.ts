@@ -7,8 +7,8 @@ export const phoebeBridgersIfWeMakeItThroughDecember = {
   title: "If We Make It Through December",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 11.679566666666666,
-  ownProgress: 11.679567,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-24",
@@ -20,5 +20,5 @@ export const phoebeBridgersIfWeMakeItThroughDecember = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

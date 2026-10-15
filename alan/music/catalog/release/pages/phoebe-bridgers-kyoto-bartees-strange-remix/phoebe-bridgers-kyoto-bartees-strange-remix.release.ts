@@ -7,8 +7,8 @@ export const phoebeBridgersKyotoBarteesStrangeRemix = {
   title: "Kyoto (Bartees Strange Remix)",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 2.7784333333333335,
-  ownProgress: 2.778433,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "C",
@@ -21,5 +21,5 @@ export const phoebeBridgersKyotoBarteesStrangeRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEdition = {
   title: "Stranger in the Alps (Deluxe Edition)",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 51.4811,
-  ownProgress: 51.4988,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-10-02",
@@ -20,5 +20,5 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEdition = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

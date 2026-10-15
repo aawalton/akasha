@@ -7,8 +7,8 @@ export const phoebeBridgersSidelines = {
   title: "Sidelines",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 4.4062,
-  ownProgress: 4.4062,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "C",
@@ -21,5 +21,5 @@ export const phoebeBridgersSidelines = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

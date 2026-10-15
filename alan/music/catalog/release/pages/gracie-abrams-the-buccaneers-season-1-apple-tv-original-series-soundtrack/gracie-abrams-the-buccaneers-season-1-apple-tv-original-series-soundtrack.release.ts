@@ -7,8 +7,8 @@ export const gracieAbramsTheBuccaneersSeason1AppleTvOriginalSeriesSoundtrack = {
   title: "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 72.79855,
-  ownProgress: 72.79855,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-11-08",
@@ -20,5 +20,5 @@ export const gracieAbramsTheBuccaneersSeason1AppleTvOriginalSeriesSoundtrack = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.284Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

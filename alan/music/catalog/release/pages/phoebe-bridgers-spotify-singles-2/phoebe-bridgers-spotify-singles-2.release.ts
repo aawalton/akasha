@@ -7,8 +7,8 @@ export const phoebeBridgersSpotifySingles2 = {
   title: "Spotify Singles",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 7.4072,
-  ownProgress: 7.4072,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-03-08",
@@ -20,5 +20,5 @@ export const phoebeBridgersSpotifySingles2 = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

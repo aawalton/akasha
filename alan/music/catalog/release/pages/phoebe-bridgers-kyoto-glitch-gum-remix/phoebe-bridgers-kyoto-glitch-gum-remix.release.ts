@@ -7,8 +7,8 @@ export const phoebeBridgersKyotoGlitchGumRemix = {
   title: "Kyoto (Glitch Gum Remix)",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 2.66355,
-  ownProgress: 2.66355,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "D",
@@ -21,5 +21,5 @@ export const phoebeBridgersKyotoGlitchGumRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

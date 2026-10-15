@@ -7,8 +7,8 @@ export const phoebeBridgersStrangerInTheAlps = {
   title: "Stranger in the Alps",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 44.30468333333334,
-  ownProgress: 44.322383,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-09-22",
@@ -20,5 +20,5 @@ export const phoebeBridgersStrangerInTheAlps = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

@@ -4,7 +4,7 @@ export const phoebeBridgersLostBoysAcoustic = {
   id: "01a0a198-5efe-76f2-aafb-82c8bf0c8746",
   type: "page-type/release",
   slug: "phoebe-bridgers-lost-boys-acoustic",
-  ownLength: 8.93285,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
@@ -21,5 +21,5 @@ export const phoebeBridgersLostBoysAcoustic = {
   ],
   title: "Lost Boys (Acoustic)",
   createdAt: "2026-09-14T20:25:12.702Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

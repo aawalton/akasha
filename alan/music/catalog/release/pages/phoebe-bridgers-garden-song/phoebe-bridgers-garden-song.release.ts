@@ -7,8 +7,8 @@ export const phoebeBridgersGardenSong = {
   title: "Garden Song",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 3.66775,
-  ownProgress: 3.66775,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-02-26",
@@ -20,5 +20,5 @@ export const phoebeBridgersGardenSong = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

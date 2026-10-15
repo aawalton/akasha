@@ -7,8 +7,8 @@ export const phoebeBridgers7OClockNewsSilentNight = {
   title: "7 O'Clock News / Silent Night",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 2.0071,
-  ownProgress: 2.0071,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-12-12",
@@ -20,5 +20,5 @@ export const phoebeBridgers7OClockNewsSilentNight = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.261Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

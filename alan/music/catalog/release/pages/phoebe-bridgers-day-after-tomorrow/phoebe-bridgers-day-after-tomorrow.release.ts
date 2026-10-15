@@ -7,8 +7,8 @@ export const phoebeBridgersDayAfterTomorrow = {
   title: "Day After Tomorrow",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 17.76525,
-  ownProgress: 17.76525,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "B",
@@ -21,5 +21,5 @@ export const phoebeBridgersDayAfterTomorrow = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const phoebeBridgersHaveYourselfAMerryLittleChristmas = {
   title: "Have Yourself a Merry Little Christmas",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 2.9894666666666665,
-  ownProgress: 2.989467,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-09-20",
@@ -20,5 +20,5 @@ export const phoebeBridgersHaveYourselfAMerryLittleChristmas = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.271Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

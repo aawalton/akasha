@@ -7,8 +7,8 @@ export const gracieAbramsGoodRiddanceDeluxe = {
   title: "Good Riddance (Deluxe)",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 68.0943,
-  ownProgress: 68.0943,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-06-16",
@@ -20,5 +20,5 @@ export const gracieAbramsGoodRiddanceDeluxe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.271Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

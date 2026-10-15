@@ -7,8 +7,8 @@ export const phoebeBridgersMotionSickness = {
   title: "Motion Sickness",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 3.8293333333333335,
-  ownProgress: 3.829333,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-07-18",
@@ -20,5 +20,5 @@ export const phoebeBridgersMotionSickness = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

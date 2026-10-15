@@ -4,7 +4,7 @@ export const phoebeBridgersLostWeekend = {
   id: "01a0a198-5ee1-77c2-bad1-ce89e729db01",
   type: "page-type/release",
   slug: "phoebe-bridgers-lost-weekend",
-  ownLength: 52.715716666666665,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
@@ -21,5 +21,5 @@ export const phoebeBridgersLostWeekend = {
   ],
   title: "Lost Weekend",
   createdAt: "2026-09-14T20:25:12.673Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

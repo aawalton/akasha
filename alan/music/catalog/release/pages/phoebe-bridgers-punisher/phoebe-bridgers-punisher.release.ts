@@ -7,8 +7,8 @@ export const phoebeBridgersPunisher = {
   title: "Punisher",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 40.70908333333333,
-  ownProgress: 40.709083,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-06-18",
@@ -20,5 +20,5 @@ export const phoebeBridgersPunisher = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.279Z",
-  updatedAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const gracieAbramsThatSSoTrueLiveFromRadioCityMusicHall = {
   title: "That’s So True (Live From Radio City Music Hall)",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 6.0083166666666665,
-  ownProgress: 6.008317,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-11-06",
@@ -20,5 +20,5 @@ export const gracieAbramsThatSSoTrueLiveFromRadioCityMusicHall = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.284Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

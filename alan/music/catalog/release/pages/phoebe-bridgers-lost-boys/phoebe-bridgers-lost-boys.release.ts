@@ -4,7 +4,7 @@ export const phoebeBridgersLostBoys = {
   id: "01a0a198-5f1f-790e-9d5d-94ec08049a85",
   type: "page-type/release",
   slug: "phoebe-bridgers-lost-boys",
-  ownLength: 4.243566666666666,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
@@ -21,5 +21,5 @@ export const phoebeBridgersLostBoys = {
   ],
   title: "Lost Boys",
   createdAt: "2026-09-14T20:25:12.735Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

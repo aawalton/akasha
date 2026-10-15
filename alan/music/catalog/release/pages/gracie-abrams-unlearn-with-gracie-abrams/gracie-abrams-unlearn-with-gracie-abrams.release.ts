@@ -7,8 +7,8 @@ export const gracieAbramsUnlearnWithGracieAbrams = {
   title: "Unlearn (with Gracie Abrams)",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 2.58935,
-  ownProgress: 2.58935,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-03-24",
@@ -20,5 +20,5 @@ export const gracieAbramsUnlearnWithGracieAbrams = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

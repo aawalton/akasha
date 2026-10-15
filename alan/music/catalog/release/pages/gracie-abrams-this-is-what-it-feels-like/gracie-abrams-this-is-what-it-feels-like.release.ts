@@ -7,8 +7,8 @@ export const gracieAbramsThisIsWhatItFeelsLike = {
   title: "This Is What It Feels Like",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 37.85495,
-  ownProgress: 37.85495,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "B",
@@ -21,5 +21,5 @@ export const gracieAbramsThisIsWhatItFeelsLike = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const gracieAbramsBrushFire = {
   title: "Brush Fire",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 3.173766666666667,
-  ownProgress: 3.173767,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-12-10",
@@ -20,5 +20,5 @@ export const gracieAbramsBrushFire = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

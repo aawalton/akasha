@@ -7,8 +7,8 @@ export const gracieAbramsCallMeWhenYouBreakUpWithGracieAbrams = {
   title: "Call Me When You Break Up (with Gracie Abrams)",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 2.11385,
-  ownProgress: 2.11385,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-02-20",
@@ -20,5 +20,5 @@ export const gracieAbramsCallMeWhenYouBreakUpWithGracieAbrams = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

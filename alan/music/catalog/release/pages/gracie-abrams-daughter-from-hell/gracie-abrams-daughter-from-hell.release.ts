@@ -4,7 +4,7 @@ export const gracieAbramsDaughterFromHell = {
   id: "01a0a198-87e3-7716-a319-e854710a9112",
   type: "page-type/release",
   slug: "gracie-abrams-daughter-from-hell",
-  ownLength: 56.26056666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
@@ -21,5 +21,5 @@ export const gracieAbramsDaughterFromHell = {
   ],
   title: "Daughter from Hell",
   createdAt: "2026-09-14T20:25:23.171Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release

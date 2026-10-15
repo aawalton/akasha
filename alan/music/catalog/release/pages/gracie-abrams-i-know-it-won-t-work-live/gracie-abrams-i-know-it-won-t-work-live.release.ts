@@ -7,8 +7,8 @@ export const gracieAbramsIKnowItWonTWorkLive = {
   title: "I know it won't work (Live)",
   partOfCollections: ["artist/gracie-abrams"],
   position: 0,
-  ownLength: 3.7724333333333333,
-  ownProgress: 3.772433,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-02-23",
@@ -20,5 +20,5 @@ export const gracieAbramsIKnowItWonTWorkLive = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-10-15T13:55:23.541Z",
+  updatedAt: "2026-10-15T14:00:33.419Z",
 } as const satisfies Release
