@@ -72530,7 +72530,7 @@
       "name": "Nobility in Decay",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 21,
+      "slotsUnlocked": 22,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72543,7 +72543,7 @@
         },
         {
           "name": "Nobility in Decay Helm",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Nobility in Decay Epaulets",
@@ -72989,7 +72989,7 @@
       "name": "Wrathsun",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Templar",
-      "slotsUnlocked": 23,
+      "slotsUnlocked": 24,
       "totalSlots": 36,
       "pieces": [
         {
@@ -73058,7 +73058,7 @@
         },
         {
           "name": "Wrathsun Guards",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Wrathsun Greaves",
