@@ -8,6 +8,7 @@ import {
   LIBCOMBAT_SKILLSTATUS_BEGIN_CHANNEL,
   LIBCOMBAT_SKILLSTATUS_BEGIN_DURATION,
   LIBCOMBAT_SKILLSTATUS_INSTANT,
+  LIBCOMBAT_SKILLSTATUS_REGISTERED,
 } from "akasha/temper/addon/pages/combat/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-saved-variables-declarations/combat-saved-variables-declarations.type-declaration.d.ts"
@@ -23,6 +24,7 @@ export interface LastFightAbility {
   overheal: number
   hits: number
   casts: number
+  presses: number
 }
 
 export interface LastFight {
@@ -44,6 +46,7 @@ function abilityOf(byId: Record<number, LastFightAbility>, abilityId: number): L
     overheal: 0,
     hits: 0,
     casts: 0,
+    presses: 0,
   }
   byId[abilityId] = made
   return made
@@ -81,9 +84,9 @@ export function summarizeLastFight(fight: CmxFight, log: readonly CoreLogLine[])
       const abilityId = line[3]
       const status = line[4]
       if (typeof abilityId !== "number" || typeof status !== "number") continue
-      if (!isCastStart(status)) continue
       const ability = abilityOf(byId, abilityId)
-      ability.casts = ability.casts + 1
+      if (status === LIBCOMBAT_SKILLSTATUS_REGISTERED) ability.presses = ability.presses + 1
+      if (isCastStart(status)) ability.casts = ability.casts + 1
     }
   }
 

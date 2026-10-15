@@ -31,10 +31,14 @@ export const combatLastFight = {
       statement: "A cast is counted when the skill starts, by the ability that started.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A press is counted when the player presses a slotted skill in combat.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "The summary holds only what checking Temper's healing per second needs.",
     },
   ],
   createdAt: "2026-10-14T22:31:44.311Z",
-  updatedAt: "2026-10-15T14:04:07.028Z",
+  updatedAt: "2026-10-15T14:08:50.369Z",
 } as const satisfies Module

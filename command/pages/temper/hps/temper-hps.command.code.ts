@@ -39,6 +39,7 @@ const fightAbilityShape = z.strictObject({
   overheal: z.number(),
   hits: z.number(),
   casts: z.number(),
+  presses: z.number().optional(),
 })
 
 const lastFightShape = z.strictObject({
@@ -74,10 +75,10 @@ function gameLines(fight: LastFight | undefined): string[] {
     "",
     `the game, last fight: ${per(raw)} healing per second with overheal, ${per(landed)} without, over ${Math.round(fight.activeSeconds)} active seconds`,
     ...abilities
-      .filter((one) => one.healing > 0 || one.casts > 0)
+      .filter((one) => one.healing > 0 || one.casts > 0 || (one.presses ?? 0) > 0)
       .map(
         (one) =>
-          `  ${one.name}: ${one.casts} casts, ${Math.round(one.healing)} healing, ${Math.round(one.overheal)} overheal`
+          `  ${one.name || `ability ${one.abilityId}`}: ${one.presses ?? 0} presses, ${one.casts} casts, ${Math.round(one.healing)} healing, ${Math.round(one.overheal)} overheal`
       ),
     `  shields absorbed: ${Math.round(fight.absorbed)}`,
   ]
