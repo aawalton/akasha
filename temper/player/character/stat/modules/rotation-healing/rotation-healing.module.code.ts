@@ -161,7 +161,8 @@ export function healingOverRotation(
     healed[next] = (healed[next] ?? 0) + direct + shield + tick * times.length
     addAt(healingByTick, tickOf(now), direct)
     for (const at of times) addAt(healingByTick, tickOf(at), tick)
-    const shieldUntil = Math.max(now + lastsOf(skill), Math.floor(now) + 1)
+    const shieldLasts = skill.healing.lastsSeconds > 0 ? skill.healing.lastsSeconds : lastsOf(skill)
+    const shieldUntil = Math.max(now + shieldLasts, Math.floor(now) + 1)
     for (let at = Math.floor(now); at < shieldUntil && at < tickCount; at += 1) {
       addAt(shieldByTick, at, shield)
     }

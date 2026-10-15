@@ -83,7 +83,7 @@ export const rotationHealing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A shield is kept in every tick from its cast until it runs out, and at least one.",
+        "A shield is kept in every tick until the seconds its tooltip states run out, and at least one.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -91,5 +91,5 @@ export const rotationHealing = {
     },
   ],
   createdAt: "2026-10-14T20:33:53.850Z",
-  updatedAt: "2026-10-15T15:19:50.968Z",
+  updatedAt: "2026-10-15T15:28:33.828Z",
 } as const satisfies Module

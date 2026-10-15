@@ -102,6 +102,15 @@ test("each heal falls in its tick, and a shield counts in every tick it is up", 
   expect(healed.shieldByTick).toEqual([0, 6381, 6381, 6381])
 })
 
+test("a shield stating its own seconds is up only that long, whatever the skill's duration", () => {
+  const mantle = {
+    ...BRAWLER,
+    durationMs: 20_000,
+    healing: { ...BRAWLER.healing, lastsSeconds: 2 },
+  }
+  expect(healingOverRotation([mantle], 4).shieldByTick).toEqual([6381, 6381, 0, 0])
+})
+
 test("direct damage falls in the tick of its hit or wave", () => {
   const aura = { ...LASH, durationMs: 20_000, damage: { hit: 100, wave: 7, waveSeconds: 2 } }
   expect(healingOverRotation([aura], 5).damageByTick).toEqual([100, 0, 7, 0, 7])
