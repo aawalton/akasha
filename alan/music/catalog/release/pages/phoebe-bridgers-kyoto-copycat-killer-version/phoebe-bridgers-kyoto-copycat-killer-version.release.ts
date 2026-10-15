@@ -7,7 +7,7 @@ export const phoebeBridgersKyotoCopycatKillerVersion = {
   title: "Kyoto (Copycat Killer Version)",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 3.020217,
+  ownLength: 3.0202166666666668,
   ownProgress: 3.020217,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const phoebeBridgersKyotoCopycatKillerVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Release

@@ -7,7 +7,7 @@ export const phoebeBridgersChineseSatelliteLiveFromSoundCity = {
   title: "Chinese Satellite (Live From Sound City)",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 3.914667,
+  ownLength: 3.9146666666666667,
   ownProgress: 3.914667,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const phoebeBridgersChineseSatelliteLiveFromSoundCity = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Release

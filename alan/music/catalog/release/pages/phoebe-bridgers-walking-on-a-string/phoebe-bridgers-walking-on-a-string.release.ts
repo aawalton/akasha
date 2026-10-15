@@ -7,7 +7,7 @@ export const phoebeBridgersWalkingOnAString = {
   title: "Walking on a String",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 8.783983,
+  ownLength: 8.783983333333333,
   ownProgress: 8.783983,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const phoebeBridgersWalkingOnAString = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.288Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Release

@@ -17,10 +17,10 @@ export const phoebeBridgers = {
       source: "spotify",
       externalId: "1r1uxoy19fzMxunt3ONAkG",
       externalLink: "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG",
-      lastSyncedAt: "2026-09-14",
+      lastSyncedAt: "2026-10-15",
     },
   ],
   title: "Phoebe Bridgers",
   createdAt: "2026-09-03T16:04:08.684Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Artist

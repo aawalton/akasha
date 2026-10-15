@@ -7,7 +7,7 @@ export const phoebeBridgersLittleTroubleBWSleepwalkinDaydreaminVersion = {
   title: "Little Trouble b/w Sleepwalkin' (Daydreamin' Version)",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 6.615767,
+  ownLength: 6.615766666666667,
   ownProgress: 6.615767,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const phoebeBridgersLittleTroubleBWSleepwalkinDaydreaminVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Release

@@ -7,7 +7,7 @@ export const phoebeBridgersThePartingGlass = {
   title: "The Parting Glass",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 26.008583,
+  ownLength: 26.008583333333334,
   ownProgress: 26.008583,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const phoebeBridgersThePartingGlass = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.285Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Release

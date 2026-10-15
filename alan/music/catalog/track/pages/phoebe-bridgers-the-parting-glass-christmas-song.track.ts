@@ -1,0 +1,63 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const phoebeBridgersThePartingGlassChristmasSong = {
+  id: "01a13fd9-71fb-7d89-b063-85acb90ea249",
+  type: "page-type/track",
+  slug: "phoebe-bridgers-the-parting-glass-christmas-song",
+  ownLength: 3.6984333333333335,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/phoebe-bridgers-the-parting-glass",
+    "release/phoebe-bridgers-so-much-wine",
+    "release/phoebe-bridgers-day-after-tomorrow",
+    "release/phoebe-bridgers-if-we-make-it-through-december",
+    "release/phoebe-bridgers-christmas-song",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Christmas Song",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/phoebe-bridgers" }],
+  trackKey: "christmassong|1r1uxoy19fzMxunt3ONAkG|221906",
+  song: "song/phoebe-bridgers-christmas-song",
+  carriedBy: [
+    {
+      release: "release/phoebe-bridgers-christmas-song",
+      discNumber: 1,
+      position: 1,
+      externalId: "67xmO7UDlUazlQ9Nje9pmb",
+      externalLink: "https://open.spotify.com/track/67xmO7UDlUazlQ9Nje9pmb",
+    },
+    {
+      release: "release/phoebe-bridgers-day-after-tomorrow",
+      discNumber: 1,
+      position: 4,
+      externalId: "2LZ1OMHCc5eFOmJh0RA3la",
+      externalLink: "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la",
+    },
+    {
+      release: "release/phoebe-bridgers-if-we-make-it-through-december",
+      discNumber: 1,
+      position: 3,
+      externalId: "0cuZKvqa7UbS8SjVQtGC7A",
+      externalLink: "https://open.spotify.com/track/0cuZKvqa7UbS8SjVQtGC7A",
+    },
+    {
+      release: "release/phoebe-bridgers-so-much-wine",
+      discNumber: 1,
+      position: 5,
+      externalId: "4BJf5QtEHqPfsCyE4zpP6A",
+      externalLink: "https://open.spotify.com/track/4BJf5QtEHqPfsCyE4zpP6A",
+    },
+    {
+      release: "release/phoebe-bridgers-the-parting-glass",
+      discNumber: 1,
+      position: 6,
+      externalId: "0QglZ6LnlSn6zww4Zi3iom",
+      externalLink: "https://open.spotify.com/track/0QglZ6LnlSn6zww4Zi3iom",
+    },
+  ],
+  createdAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
+} as const satisfies Track

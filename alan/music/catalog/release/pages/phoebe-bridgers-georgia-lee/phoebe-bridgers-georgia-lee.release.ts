@@ -7,7 +7,7 @@ export const phoebeBridgersGeorgiaLee = {
   title: "Georgia Lee",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 4.309833,
+  ownLength: 4.309833333333334,
   ownProgress: 4.309833,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const phoebeBridgersGeorgiaLee = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Release

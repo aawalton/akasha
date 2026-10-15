@@ -7,7 +7,7 @@ export const phoebeBridgersKyotoTheMariasRemix = {
   title: "Kyoto (The Marías Remix)",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 3.638217,
+  ownLength: 3.6382166666666667,
   ownProgress: 3.638217,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const phoebeBridgersKyotoTheMariasRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Release

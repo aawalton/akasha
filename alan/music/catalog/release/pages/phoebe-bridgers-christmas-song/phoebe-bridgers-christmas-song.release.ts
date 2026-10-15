@@ -7,7 +7,7 @@ export const phoebeBridgersChristmasSong = {
   title: "Christmas Song",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 3.698433,
+  ownLength: 3.6984333333333335,
   ownProgress: 3.698433,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const phoebeBridgersChristmasSong = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Release

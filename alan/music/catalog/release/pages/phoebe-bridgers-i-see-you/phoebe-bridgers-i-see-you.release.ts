@@ -7,7 +7,7 @@ export const phoebeBridgersISeeYou = {
   title: "I See You",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 9.904967,
+  ownLength: 9.904966666666667,
   ownProgress: 9.904967,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const phoebeBridgersISeeYou = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Release

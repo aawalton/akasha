@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const phoebeBridgersThePartingGlassIfWeMakeItThroughDecember = {
+  id: "01a13fd9-71fb-7d72-b064-9e1655b7cd31",
+  type: "page-type/track",
+  slug: "phoebe-bridgers-the-parting-glass-if-we-make-it-through-december",
+  ownLength: 2.984566666666667,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/phoebe-bridgers-the-parting-glass",
+    "release/phoebe-bridgers-so-much-wine",
+    "release/phoebe-bridgers-day-after-tomorrow",
+    "release/phoebe-bridgers-if-we-make-it-through-december",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "If We Make It Through December",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/phoebe-bridgers" }],
+  trackKey: "ifwemakeitthroughdecember|1r1uxoy19fzMxunt3ONAkG|179074",
+  song: "song/phoebe-bridgers-if-we-make-it-through-december",
+  carriedBy: [
+    {
+      release: "release/phoebe-bridgers-day-after-tomorrow",
+      discNumber: 1,
+      position: 2,
+      externalId: "2zV4KXJK2BO1CHUGheeIiu",
+      externalLink: "https://open.spotify.com/track/2zV4KXJK2BO1CHUGheeIiu",
+    },
+    {
+      release: "release/phoebe-bridgers-if-we-make-it-through-december",
+      discNumber: 1,
+      position: 1,
+      externalId: "2vnVkHPckitpXFyC2Q2ULG",
+      externalLink: "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG",
+    },
+    {
+      release: "release/phoebe-bridgers-so-much-wine",
+      discNumber: 1,
+      position: 3,
+      externalId: "2TbmStBMTF3Nhwf7Jullfe",
+      externalLink: "https://open.spotify.com/track/2TbmStBMTF3Nhwf7Jullfe",
+    },
+    {
+      release: "release/phoebe-bridgers-the-parting-glass",
+      discNumber: 1,
+      position: 4,
+      externalId: "2Nv9lBNw8hvIacGXiBHKYd",
+      externalLink: "https://open.spotify.com/track/2Nv9lBNw8hvIacGXiBHKYd",
+    },
+  ],
+  createdAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
+} as const satisfies Track

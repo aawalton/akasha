@@ -7,7 +7,7 @@ export const phoebeBridgersSmokeSignals = {
   title: "Smoke Signals",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 5.395183,
+  ownLength: 5.395183333333334,
   ownProgress: 5.395183,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const phoebeBridgersSmokeSignals = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Release

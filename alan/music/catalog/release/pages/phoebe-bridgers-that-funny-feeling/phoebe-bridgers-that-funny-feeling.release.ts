@@ -7,7 +7,7 @@ export const phoebeBridgersThatFunnyFeeling = {
   title: "That Funny Feeling",
   partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
-  ownLength: 6.676083,
+  ownLength: 6.676083333333334,
   ownProgress: 6.676083,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const phoebeBridgersThatFunnyFeeling = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.284Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
 } as const satisfies Release

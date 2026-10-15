@@ -1,0 +1,63 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const phoebeBridgersThePartingGlassHaveYourselfAMerryLittleChristmas = {
+  id: "01a13fd9-71fb-720e-80dd-9c027dbdc05b",
+  type: "page-type/track",
+  slug: "phoebe-bridgers-the-parting-glass-have-yourself-a-merry-little-christmas",
+  ownLength: 2.9894666666666665,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/phoebe-bridgers-the-parting-glass",
+    "release/phoebe-bridgers-so-much-wine",
+    "release/phoebe-bridgers-day-after-tomorrow",
+    "release/phoebe-bridgers-if-we-make-it-through-december",
+    "release/phoebe-bridgers-have-yourself-a-merry-little-christmas",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Have Yourself a Merry Little Christmas",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/phoebe-bridgers" }],
+  trackKey: "haveyourselfamerrylittlechristmas|1r1uxoy19fzMxunt3ONAkG|179368",
+  song: "song/phoebe-bridgers-have-yourself-a-merry-little-christmas",
+  carriedBy: [
+    {
+      release: "release/phoebe-bridgers-day-after-tomorrow",
+      discNumber: 1,
+      position: 5,
+      externalId: "6SfGhbY0ZDgDe5kNzxwInY",
+      externalLink: "https://open.spotify.com/track/6SfGhbY0ZDgDe5kNzxwInY",
+    },
+    {
+      release: "release/phoebe-bridgers-have-yourself-a-merry-little-christmas",
+      discNumber: 1,
+      position: 1,
+      externalId: "6KktzUnQSJZC3iZSwj812R",
+      externalLink: "https://open.spotify.com/track/6KktzUnQSJZC3iZSwj812R",
+    },
+    {
+      release: "release/phoebe-bridgers-if-we-make-it-through-december",
+      discNumber: 1,
+      position: 4,
+      externalId: "1PMd2UtNkxn6oOHTWLj3dl",
+      externalLink: "https://open.spotify.com/track/1PMd2UtNkxn6oOHTWLj3dl",
+    },
+    {
+      release: "release/phoebe-bridgers-so-much-wine",
+      discNumber: 1,
+      position: 6,
+      externalId: "6byi6K8vKychAhHyaZ2TeQ",
+      externalLink: "https://open.spotify.com/track/6byi6K8vKychAhHyaZ2TeQ",
+    },
+    {
+      release: "release/phoebe-bridgers-the-parting-glass",
+      discNumber: 1,
+      position: 7,
+      externalId: "1mfEdwzRh2kdxWsMuq8tJR",
+      externalLink: "https://open.spotify.com/track/1mfEdwzRh2kdxWsMuq8tJR",
+    },
+  ],
+  createdAt: "2026-10-15T13:56:17.521Z",
+  updatedAt: "2026-10-15T13:56:17.521Z",
+} as const satisfies Track
