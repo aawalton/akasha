@@ -46,9 +46,9 @@ export const combatLastFight = {
     },
     {
       decisionKind: "decision-kind/stopgap",
-      statement: "The summary holds only what checking Temper's healing per second needs.",
+      statement: "The summary holds only what checking Temper's toughness per second needs.",
     },
   ],
   createdAt: "2026-10-14T22:31:44.311Z",
-  updatedAt: "2026-10-15T14:29:48.530Z",
+  updatedAt: "2026-10-15T15:22:11.793Z",
 } as const satisfies Module

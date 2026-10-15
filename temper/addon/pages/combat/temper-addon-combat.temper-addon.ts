@@ -310,6 +310,7 @@ export const temperAddonCombat = {
     "module/combat-legacy-cp-strings",
     "module/combat-menu-feedback",
     "module/combat-last-fight",
+    "module/combat-fight-ticks",
   ],
   interfaces: [
     "eso-interface/combat-templates-layout",
@@ -364,6 +365,6 @@ export const temperAddonCombat = {
       statement: "A gap the player's own scale multiplies is judged at scale 1.",
     },
   ],
-  updatedAt: "2026-10-14T22:31:44.311Z",
+  updatedAt: "2026-10-15T15:22:11.793Z",
   createdAt: "2026-09-02T09:42:10.782Z",
 } as const satisfies TemperAddon

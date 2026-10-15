@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"combat-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-core-init/combat-core-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-fight-ticks/combat-fight-ticks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-last-fight/combat-last-fight.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-menu-feedback/combat-menu-feedback.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-menu/combat-menu.module.code.ts","typed":false,"deferred":false}

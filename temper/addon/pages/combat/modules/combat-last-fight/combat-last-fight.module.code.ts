@@ -4,6 +4,10 @@ import type {
   CoreLogLine,
 } from "akasha/temper/addon/pages/combat/modules/combat-core-types/combat-core-types.module.code.ts"
 import {
+  type FightTick,
+  fightTicks,
+} from "akasha/temper/addon/pages/combat/modules/combat-fight-ticks/combat-fight-ticks.module.code.ts"
+import {
   LIBCOMBAT_EVENT_HEAL_SELF,
   LIBCOMBAT_EVENT_RESOURCES,
   LIBCOMBAT_EVENT_SKILL_TIMINGS,
@@ -43,6 +47,7 @@ export interface LastFight {
   stamina: LastFightResource
   ultimate: LastFightResource
   abilities: LastFightAbility[]
+  ticks: FightTick[]
 }
 
 export interface LastFightResource {
@@ -198,6 +203,7 @@ export function summarizeLastFight(fight: CmxFight, log: readonly CoreLogLine[])
     stamina,
     ultimate,
     abilities,
+    ticks: fightTicks(fight, log),
   }
 }
 
