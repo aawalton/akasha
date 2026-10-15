@@ -20,5 +20,6 @@ export const rebornAsADemonicTree0105Chapter630AWhiteVoid = {
     },
   ],
   createdAt: "2026-10-14T20:07:32.453Z",
-  updatedAt: "2026-10-14T20:07:32.453Z",
+  updatedAt: "2026-10-15T04:08:37.394Z",
+  ownProgress: 3218,
 } as const satisfies StoryChapterRead

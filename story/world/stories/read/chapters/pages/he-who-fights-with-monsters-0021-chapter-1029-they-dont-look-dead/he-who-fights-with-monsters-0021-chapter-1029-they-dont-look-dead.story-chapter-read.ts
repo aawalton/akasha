@@ -20,5 +20,6 @@ export const heWhoFightsWithMonsters0021Chapter1029TheyDontLookDead = {
     },
   ],
   createdAt: "2026-10-14T22:09:03.809Z",
-  updatedAt: "2026-10-14T22:09:03.809Z",
+  updatedAt: "2026-10-15T04:08:37.394Z",
+  ownProgress: 2365,
 } as const satisfies StoryChapterRead
