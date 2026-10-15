@@ -6,6 +6,7 @@ export const temperTps = {
   slug: "temper-tps",
   definition: "the command saying the toughness per second a character has over a fight",
   code: "ts",
+  parts: ["module/last-fight-reading"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -69,11 +70,7 @@ export const temperTps = {
       statement:
         "A weapon enchant goes off at the end of every fourth tick; Reaving Blows heals in its hit's tick.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "The last fight keeps totals rather than ticks, so it says no toughness per second.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The last fight says the Magicka, Stamina and Ultimate gained and spent.",
@@ -97,5 +94,5 @@ export const temperTps = {
   name: "tps",
   arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
   createdAt: "2026-10-14T20:35:43.699Z",
-  updatedAt: "2026-10-15T15:19:50.968Z",
+  updatedAt: "2026-10-15T15:24:24.033Z",
 } as const satisfies Command

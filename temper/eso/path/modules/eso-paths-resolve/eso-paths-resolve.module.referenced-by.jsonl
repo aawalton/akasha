@@ -19,7 +19,7 @@
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"command/pages/temper/tps/temper-tps.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"command/pages/temper/tps/modules/last-fight-reading/last-fight-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.code.ts","typed":false,"deferred":false}

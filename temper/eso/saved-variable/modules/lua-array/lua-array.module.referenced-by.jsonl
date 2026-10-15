@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"lua-array.module.code.ts","path":"command/pages/temper/inventory/master/consumable-trace/temper-inventory-master-consumable-trace.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"lua-array.module.code.ts","path":"command/pages/temper/tps/temper-tps.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-array.module.code.ts","path":"command/pages/temper/tps/modules/last-fight-reading/last-fight-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-array.module.code.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-key-reading/quest-port-key-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-array.module.code.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-reading/quest-port-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-array.module.code.ts","path":"temper/addon/pages/world/quest-port/modules/quest-port-treasure-reading/quest-port-treasure-reading.module.code.ts","typed":false,"deferred":false}
