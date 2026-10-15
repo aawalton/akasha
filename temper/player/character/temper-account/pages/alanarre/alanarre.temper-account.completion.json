@@ -75646,7 +75646,7 @@
       "name": "Corpseburster",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 11,
+      "slotsUnlocked": 12,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75775,7 +75775,7 @@
         },
         {
           "name": "Corpseburster Restoration Staff",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Corpseburster Inferno Staff",
