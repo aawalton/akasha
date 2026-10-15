@@ -21,6 +21,7 @@ export type RotationHealed = {
   readonly healingPerSecond: number
   readonly lightAttacks: number
   readonly directDamage: number
+  readonly shielded: number
   readonly skills: readonly SkillHealed[]
 }
 
@@ -72,6 +73,7 @@ export function healingOverRotation(
   const queue = [...skills.keys()].sort((one, two) => lasting(one) - lasting(two))
   let lightAttacks = 0
   let directDamage = 0
+  let shielded = 0
   let now = 0
   while (now < fightSeconds) {
     const next = queue.find((at) => (runsUntil[at] ?? 0) <= now && (readyAt[at] ?? 0) <= now) ?? -1
@@ -85,6 +87,7 @@ export function healingOverRotation(
     const ticks = tick === 0 ? 0 : ticksWithin(skill, tickSeconds, now, fightSeconds)
     healed[next] = (healed[next] ?? 0) + direct + shield + tick * ticks
     directDamage += directDamageOf(skill, now, fightSeconds)
+    shielded += shield
     casts[next] = (casts[next] ?? 0) + 1
     runsUntil[next] = now + lastsOf(skill)
     readyAt[next] = now + skill.cooldownMs / MILLIS
@@ -96,6 +99,7 @@ export function healingOverRotation(
     healingPerSecond: total / fightSeconds,
     lightAttacks,
     directDamage,
+    shielded,
     skills: skills.map((skill, at) => ({
       name: skill.name,
       casts: casts[at] ?? 0,

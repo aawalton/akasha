@@ -46,6 +46,19 @@ export const temperHps = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A heal is scaled by the average critical heal and by healing done and taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Direct damage is scaled by the average critical strike before Reaving Blows takes its share.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A shield is not scaled by a critical heal.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The combat add-on's last fight for the character is said after the estimate.",
     },
     {
@@ -62,5 +75,5 @@ export const temperHps = {
   name: "hps",
   arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
   createdAt: "2026-10-14T20:35:43.699Z",
-  updatedAt: "2026-10-15T14:21:50.167Z",
+  updatedAt: "2026-10-15T14:24:43.714Z",
 } as const satisfies Command

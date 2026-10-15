@@ -27,6 +27,7 @@ import {
   procsWithin,
   readEnchantProc,
 } from "akasha/temper/player/character/stat/modules/enchant-proc/enchant-proc.module.code.ts"
+import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import {
   healingOverRotation,
@@ -34,6 +35,7 @@ import {
 } from "akasha/temper/player/character/stat/modules/rotation-healing/rotation-healing.module.code.ts"
 import { readSkillDamage } from "akasha/temper/player/character/stat/modules/skill-damage/skill-damage.module.code.ts"
 import { readSkillHealing } from "akasha/temper/player/character/stat/modules/skill-healing/skill-healing.module.code.ts"
+import { criticalRating } from "akasha/temper/player/character/stat/temper-metric/pages/critical-rating/critical-rating.temper-metric.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { z } from "zod"
 
@@ -88,7 +90,7 @@ function gameLines(fight: LastFight | undefined): string[] {
       .filter((one) => one.healing + one.overheal > 0 || one.casts > 0 || (one.presses ?? 0) > 0)
       .map(
         (one) =>
-          `  ${one.name || `ability ${one.abilityId}`}: ${one.presses ?? 0} presses, ${one.casts} casts, ${Math.round(one.healing)} healing, ${Math.round(one.overheal)} overheal`
+          `  ${one.name || `ability ${one.abilityId}`}: ${one.presses ?? 0} presses, ${Math.round(one.healing)} healing, ${Math.round(one.overheal)} overheal`
       ),
     `  shields absorbed: ${Math.round(fight.absorbed)}`,
   ]
@@ -104,13 +106,52 @@ function reavingBlowsShare(): number {
   return Number(read[1]) / 100
 }
 
-async function slotsReavingBlows(completion: CharacterCompletion): Promise<boolean> {
-  if (completion.buildHash === undefined) return false
+type Build = NonNullable<ReturnType<typeof decodeBuild>>
+
+type Multipliers = { readonly healing: number; readonly damage: number }
+
+const PLAIN: Multipliers = { healing: 1, damage: 1 }
+
+const READING_BARS = [
+  ["frontBar", "primary-weapon-bar"],
+  ["backBar", "backup-weapon-bar"],
+] as const
+
+async function buildOf(completion: CharacterCompletion): Promise<Build | null> {
+  if (completion.buildHash === undefined) return null
   await Promise.all([loadSkillCatalog(), loadSetCatalog(), loadMetricCatalog()])
-  const build = decodeBuild(completion.buildHash)
+  return decodeBuild(completion.buildHash)
+}
+
+function slotsReavingBlows(build: Build | null): boolean {
   if (build === null) return false
   const slotted: readonly string[] = build.championPoints.warfare.slotted
   return slotted.includes(reavingBlows.slug)
+}
+
+function multipliersOf(build: Build | null, completion: CharacterCompletion): Multipliers {
+  if (build === null) return PLAIN
+  const each: Multipliers[] = []
+  for (const [readingKey, bar] of READING_BARS) {
+    const reading = completion.reportedStats?.[readingKey]
+    if (reading?.activeBuffs === undefined) continue
+    const metrics = calculateReadingStatsByBar(
+      build,
+      bar,
+      reading.activeBuffs,
+      reading.championPoints
+    ).metrics as Record<string, { value: number } | undefined>
+    const value = (metric: string) => metrics[metric]?.value ?? 0
+    const chance = Math.min(1, value("critical-rating") / criticalRating.divisor)
+    each.push({
+      healing: (1 + value("healing-total")) * (1 + chance * value("healing-critical-bonus")),
+      damage: 1 + chance * value("critical-damage"),
+    })
+  }
+  if (each.length === 0) return PLAIN
+  const mean = (pick: (one: Multipliers) => number) =>
+    each.reduce((sum, one) => sum + pick(one), 0) / each.length
+  return { healing: mean((one) => one.healing), damage: mean((one) => one.damage) }
 }
 
 function enchantProcOf(completion: CharacterCompletion): EnchantProc | undefined {
@@ -182,10 +223,13 @@ export async function temperHps(argv: readonly string[], given: Given): Promise<
   const proc = enchantProcOf(completion)
   const procs = proc === undefined ? 0 : procsWithin(FIGHT_SECONDS)
   const enchantHealing = procs * (proc?.healing ?? 0)
-  const directDamage = healed.directDamage + procs * (proc?.damage ?? 0)
-  const reaving = (await slotsReavingBlows(completion)) ? reavingBlowsShare() * directDamage : 0
-  const skillHealing = healed.healingPerSecond * FIGHT_SECONDS
-  const perSecond = (skillHealing + enchantHealing + reaving) / FIGHT_SECONDS
+  const build = await buildOf(completion)
+  const multipliers = multipliersOf(build, completion)
+  const directDamage = (healed.directDamage + procs * (proc?.damage ?? 0)) * multipliers.damage
+  const reaving = slotsReavingBlows(build) ? reavingBlowsShare() * directDamage : 0
+  const heals = healed.healingPerSecond * FIGHT_SECONDS - healed.shielded
+  const total = (heals + enchantHealing + reaving) * multipliers.healing + healed.shielded
+  const perSecond = total / FIGHT_SECONDS
   if (read.taken.json) {
     return asJson({
       character: slug,
@@ -205,6 +249,7 @@ export async function temperHps(argv: readonly string[], given: Given): Promise<
       (one) => `  ${one.name}: ${one.casts} casts, ${Math.round(one.healing)} healing`
     ),
     `  light attacks: ${healed.lightAttacks}`,
+    `  heals scaled by ${multipliers.healing.toFixed(3)} for critical heals and healing done, shields not`,
     `  weapon enchant: ${procs} procs, ${Math.round(enchantHealing)} healing`,
     `  Reaving Blows: ${Math.round(reaving)} healing from ${Math.round(directDamage)} direct damage`,
   ]
