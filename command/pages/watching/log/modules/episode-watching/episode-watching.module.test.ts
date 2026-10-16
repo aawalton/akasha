@@ -1,12 +1,15 @@
 import { expect, test } from "bun:test"
 import {
+  type HeldShow,
+  plannedFor,
+} from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
+import {
   type AiredEpisode,
   type AiredSeason,
   airedSeasonIn,
-  type HeldShow,
-  plannedFor,
+  episodeTypeOf,
   seasonNumbersIn,
-} from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
+} from "akasha/command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.code.ts"
 
 const SHOWN: HeldShow = {
   slug: "my-dress-up-darling",
@@ -65,6 +68,12 @@ test("a TMDB season reads with its episodes", () => {
   const read = airedSeasonIn(said)
   expect(read?.id).toBe(190461)
   expect(read?.episodes[0]?.runtime).toBe(24)
+})
+
+test("an episode type TMDB answers is spelled as the catalogue spells it", () => {
+  expect(episodeTypeOf("mid_season")).toBe("mid-season")
+  expect(episodeTypeOf("finale")).toBe("finale")
+  expect(episodeTypeOf("special")).toBe(null)
 })
 
 test("the season numbered zero is left out of a show's seasons", () => {

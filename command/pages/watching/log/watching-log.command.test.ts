@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
-import type { Calls } from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
 import {
   knownFromPrime,
   knownFromWikidata,
   linkedBy,
   slugOf,
 } from "akasha/command/pages/watching/log/modules/title-knowing/title-knowing.module.code.ts"
+import type { Calls } from "akasha/command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.code.ts"
 import {
   freshValues,
   watchingLog,

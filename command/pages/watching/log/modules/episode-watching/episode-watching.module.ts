@@ -48,11 +48,7 @@ export const episodeWatching = {
       decisionKind: "decision-kind/departure",
       statement: "A show logged this way states its TMDB id.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "TMDB is reached with the token in `~/.secrets.env`.",
-    },
   ],
   createdAt: "2026-10-16T11:21:36.767Z",
-  updatedAt: "2026-10-16T11:21:36.767Z",
+  updatedAt: "2026-10-16T11:34:10.158Z",
 } as const satisfies Module

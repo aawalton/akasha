@@ -4,47 +4,18 @@ import { episode } from "akasha/alan/collection/watching/episode/episode.page-ty
 import { season } from "akasha/alan/collection/watching/season/season.page-type.ts"
 import { show } from "akasha/alan/collection/watching/show/show.page-type.ts"
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
-import { asRecordOrEmpty } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
-import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import type {
-  Query,
+  AiredEpisode,
+  AiredSeason,
+  Calls,
+} from "akasha/command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.code.ts"
+import type {
   Row,
   Asked as Rows,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
-import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import type { Wrote } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
-
-export type Calls = {
-  readonly ask: (query: Query) => Promise<Rows>
-  readonly write: (asked: Writing) => Promise<Wrote>
-  readonly fetch: (url: string, init: RequestInit) => Promise<Response>
-}
-
-export type AiredEpisode = {
-  readonly number: number
-  readonly id: number
-  readonly name: string
-  readonly overview: string
-  readonly runtime: number | null
-  readonly airDate: string | null
-  readonly episodeType: string | null
-  readonly stillPath: string | null
-  readonly voteAverage: number | null
-}
-
-export type AiredSeason = {
-  readonly number: number
-  readonly id: number
-  readonly name: string
-  readonly overview: string
-  readonly airDate: string | null
-  readonly posterPath: string | null
-  readonly voteAverage: number | null
-  readonly episodes: readonly AiredEpisode[]
-}
 
 export type HeldShow = {
   readonly slug: string
@@ -78,14 +49,6 @@ type Placed = {
   readonly fresh: Readonly<Record<string, unknown>> | null
 }
 
-const AGENT = "alanwalton.com collection (aawalton@gmail.com)"
-
-const FETCH_CEILING_MS = 15000
-
-const TOKEN = "TMDB_READ_ACCESS_TOKEN"
-
-const TMDB_AT = "https://api.themoviedb.org/3"
-
 const TMDB_SITE = "https://www.themoviedb.org/tv"
 
 const TMDB = "tmdb"
@@ -104,112 +67,9 @@ const SEASON_NAMED = /^Season \d+$/
 
 const MINUTES = `${unit.slug}/${minutes.slug}`
 
-export function tokenSaid(): string | null {
-  return optionalEnv(TOKEN) ?? null
-}
-
-export const TOKEN_UNSET = `${TOKEN} is unset, so TMDB lists no episode until it is in ~/.secrets.env`
-
-export async function fetched(
-  calls: Calls,
-  url: string,
-  headers: Readonly<Record<string, string>>
-): Promise<Response | null> {
-  try {
-    const answered = await calls.fetch(url, {
-      headers: { "user-agent": AGENT, ...headers },
-      signal: AbortSignal.timeout(FETCH_CEILING_MS),
-    })
-    return answered.ok ? answered : null
-  } catch {
-    return null
-  }
-}
-
-const fieldsOf = asRecordOrEmpty
-
 const textOf = textIn
 
 const numberOf = asNumber
-
-function listOf(said: unknown): readonly unknown[] {
-  return Array.isArray(said) ? (said as readonly unknown[]) : []
-}
-
-function airedEpisodeIn(said: unknown): AiredEpisode | null {
-  const held = fieldsOf(said)
-  const number = numberOf(held.episode_number)
-  const id = numberOf(held.id)
-  if (number === null || id === null) return null
-  return {
-    number,
-    id,
-    name: textOf(held.name) ?? `Episode ${String(number)}`,
-    overview: textOf(held.overview) ?? "",
-    runtime: numberOf(held.runtime),
-    airDate: textOf(held.air_date),
-    episodeType: textOf(held.episode_type),
-    stillPath: textOf(held.still_path),
-    voteAverage: numberOf(held.vote_average),
-  }
-}
-
-export function airedSeasonIn(said: unknown): AiredSeason | null {
-  const held = fieldsOf(said)
-  const number = numberOf(held.season_number)
-  const id = numberOf(held.id)
-  if (number === null || id === null) return null
-  return {
-    number,
-    id,
-    name: textOf(held.name) ?? `Season ${String(number)}`,
-    overview: textOf(held.overview) ?? "",
-    airDate: textOf(held.air_date),
-    posterPath: textOf(held.poster_path),
-    voteAverage: numberOf(held.vote_average),
-    episodes: listOf(held.episodes).flatMap((one) => airedEpisodeIn(one) ?? []),
-  }
-}
-
-export function seasonNumbersIn(said: unknown): readonly number[] {
-  return listOf(fieldsOf(said).seasons)
-    .flatMap((one) => numberOf(fieldsOf(one).season_number) ?? [])
-    .filter((one) => one > 0)
-}
-
-async function tmdbAnswer(calls: Calls, token: string, path: string): Promise<unknown> {
-  const answered = await fetched(calls, `${TMDB_AT}${path}`, {
-    authorization: `Bearer ${token}`,
-    accept: "application/json",
-  })
-  return answered === null ? null : await answered.json()
-}
-
-export async function tmdbSearched(
-  calls: Calls,
-  token: string,
-  title: string
-): Promise<string | null> {
-  const said = await tmdbAnswer(calls, token, `/search/tv?query=${encodeURIComponent(title)}`)
-  const first = listOf(fieldsOf(said).results)[0]
-  const id = numberOf(fieldsOf(first).id)
-  return id === null ? null : String(id)
-}
-
-export async function airedFor(
-  calls: Calls,
-  token: string,
-  tv: string
-): Promise<readonly AiredSeason[] | null> {
-  const said = await tmdbAnswer(calls, token, `/tv/${tv}`)
-  if (said === null) return null
-  const seasons: AiredSeason[] = []
-  for (const number of seasonNumbersIn(said)) {
-    const one = airedSeasonIn(await tmdbAnswer(calls, token, `/tv/${tv}/season/${String(number)}`))
-    if (one !== null) seasons.push(one)
-  }
-  return seasons
-}
 
 export function tmdbIdOf(shown: HeldShow): string | null {
   const held = shown.identities.find((one) => one.source === TMDB)
