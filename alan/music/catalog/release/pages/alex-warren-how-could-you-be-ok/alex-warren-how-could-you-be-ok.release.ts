@@ -7,8 +7,8 @@ export const alexWarrenHowCouldYouBeOk = {
   title: "How Could You (Be OK)",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 11.990433333333334,
-  ownProgress: 11.990433,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-09-08",
@@ -21,5 +21,5 @@ export const alexWarrenHowCouldYouBeOk = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

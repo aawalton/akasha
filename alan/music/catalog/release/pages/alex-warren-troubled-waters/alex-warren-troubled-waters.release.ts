@@ -7,8 +7,8 @@ export const alexWarrenTroubledWaters = {
   title: "Troubled Waters",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 3.29625,
-  ownProgress: 3.29625,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-09-06",
@@ -21,5 +21,5 @@ export const alexWarrenTroubledWaters = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

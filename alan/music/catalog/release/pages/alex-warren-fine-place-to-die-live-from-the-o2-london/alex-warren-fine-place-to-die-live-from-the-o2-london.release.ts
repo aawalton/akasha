@@ -4,7 +4,7 @@ export const alexWarrenFinePlaceToDieLiveFromTheO2London = {
   id: "01a0a59d-c99b-7651-9684-6703aa5eb6ab",
   type: "page-type/release",
   slug: "alex-warren-fine-place-to-die-live-from-the-o2-london",
-  ownLength: 7.529766666666666,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/alex-warren"],
   position: 0,
@@ -21,5 +21,5 @@ export const alexWarrenFinePlaceToDieLiveFromTheO2London = {
   ],
   title: "FINE PLACE TO DIE (LIVE FROM THE O2 LONDON)",
   createdAt: "2026-09-15T15:09:36.539Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

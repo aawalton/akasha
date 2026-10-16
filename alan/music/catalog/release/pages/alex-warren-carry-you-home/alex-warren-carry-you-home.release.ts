@@ -7,8 +7,8 @@ export const alexWarrenCarryYouHome = {
   title: "Carry You Home",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 2.7813333333333334,
-  ownProgress: 2.781333,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-05-31",
@@ -21,5 +21,5 @@ export const alexWarrenCarryYouHome = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

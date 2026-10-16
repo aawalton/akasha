@@ -4,7 +4,7 @@ export const alexWarrenFeverDream = {
   id: "01a0a59d-ca7e-7077-8c2b-34c72563b8b1",
   type: "page-type/release",
   slug: "alex-warren-fever-dream",
-  ownLength: 2.557166666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/alex-warren"],
   position: 0,
@@ -21,5 +21,5 @@ export const alexWarrenFeverDream = {
   ],
   title: "FEVER DREAM",
   createdAt: "2026-09-15T15:09:36.766Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

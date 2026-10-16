@@ -7,8 +7,8 @@ export const alexWarrenOrdinaryWeddingVersion = {
   title: "Ordinary (Wedding Version)",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 3.1160666666666668,
-  ownProgress: 3.116067,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-03-18",
@@ -21,5 +21,5 @@ export const alexWarrenOrdinaryWeddingVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

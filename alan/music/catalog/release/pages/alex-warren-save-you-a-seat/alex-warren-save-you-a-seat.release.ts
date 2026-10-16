@@ -7,8 +7,8 @@ export const alexWarrenSaveYouASeat = {
   title: "Save You a Seat",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 3.292883333333333,
-  ownProgress: 3.292883,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-03-29",
@@ -21,5 +21,5 @@ export const alexWarrenSaveYouASeat = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.280Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

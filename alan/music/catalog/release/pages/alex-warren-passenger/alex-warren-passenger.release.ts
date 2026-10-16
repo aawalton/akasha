@@ -4,7 +4,7 @@ export const alexWarrenPassenger = {
   id: "01a0a59d-c949-76ec-bd9f-83d3162cbbbe",
   type: "page-type/release",
   slug: "alex-warren-passenger",
-  ownLength: 2.66285,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/alex-warren"],
   position: 0,
@@ -21,5 +21,5 @@ export const alexWarrenPassenger = {
   ],
   title: "PASSENGER",
   createdAt: "2026-09-15T15:09:36.457Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

@@ -4,7 +4,7 @@ export const alexWarrenFinePlaceToDie = {
   id: "01a0a59d-ca28-73da-a48d-9d3247c99476",
   type: "page-type/release",
   slug: "alex-warren-fine-place-to-die",
-  ownLength: 3.1237166666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/alex-warren"],
   position: 0,
@@ -21,5 +21,5 @@ export const alexWarrenFinePlaceToDie = {
   ],
   title: "FINE PLACE TO DIE",
   createdAt: "2026-09-15T15:09:36.680Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

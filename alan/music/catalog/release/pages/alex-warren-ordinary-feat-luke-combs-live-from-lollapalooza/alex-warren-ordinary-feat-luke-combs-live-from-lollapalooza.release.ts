@@ -7,8 +7,8 @@ export const alexWarrenOrdinaryFeatLukeCombsLiveFromLollapalooza = {
   title: "Ordinary (feat. Luke Combs) - Live from Lollapalooza",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 3.42445,
-  ownProgress: 3.42445,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-08-07",
@@ -21,5 +21,5 @@ export const alexWarrenOrdinaryFeatLukeCombsLiveFromLollapalooza = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

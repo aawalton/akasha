@@ -7,8 +7,8 @@ export const alexWarrenEternity = {
   title: "Eternity",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 3.3912333333333335,
-  ownProgress: 3.391233,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-12-05",
@@ -21,5 +21,5 @@ export const alexWarrenEternity = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.269Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

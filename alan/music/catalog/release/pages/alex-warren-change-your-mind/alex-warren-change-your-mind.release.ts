@@ -7,8 +7,8 @@ export const alexWarrenChangeYourMind = {
   title: "Change Your Mind",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 8.6972,
-  ownProgress: 8.6972,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-07-14",
@@ -21,5 +21,5 @@ export const alexWarrenChangeYourMind = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const alexWarrenChasingShadows = {
   title: "Chasing Shadows",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 5.620666666666667,
-  ownProgress: 5.620667,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-12-02",
@@ -21,5 +21,5 @@ export const alexWarrenChasingShadows = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const alexWarrenYardSaleFolkVersion = {
   title: "Yard Sale (Folk Version)",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 2.937,
-  ownProgress: 2.937,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-12-15",
@@ -21,5 +21,5 @@ export const alexWarrenYardSaleFolkVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.289Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release

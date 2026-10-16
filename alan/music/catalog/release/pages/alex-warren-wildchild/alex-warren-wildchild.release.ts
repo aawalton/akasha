@@ -4,7 +4,7 @@ export const alexWarrenWildchild = {
   id: "01a0a59d-c703-7efd-82dc-7495ac399fc2",
   type: "page-type/release",
   slug: "alex-warren-wildchild",
-  ownLength: 38.61366666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/alex-warren"],
   position: 0,
@@ -21,5 +21,5 @@ export const alexWarrenWildchild = {
   ],
   title: "WILDCHILD",
   createdAt: "2026-09-15T15:09:35.875Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T14:00:31.585Z",
 } as const satisfies Release
