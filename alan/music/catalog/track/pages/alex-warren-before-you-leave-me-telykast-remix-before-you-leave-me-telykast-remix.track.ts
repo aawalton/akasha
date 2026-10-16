@@ -5,9 +5,9 @@ export const alexWarrenBeforeYouLeaveMeTelykastRemixBeforeYouLeaveMeTelykastRemi
   type: "page-type/track",
   slug: "alex-warren-before-you-leave-me-telykast-remix-before-you-leave-me-telykast-remix",
   ownLength: 2.79365,
-  ownProgress: 0,
+  ownProgress: 2.79365,
   partOfCollections: ["release/alex-warren-before-you-leave-me-telykast-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Before You Leave Me - TELYKAST Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const alexWarrenBeforeYouLeaveMeTelykastRemixBeforeYouLeaveMeTelykastRemi
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

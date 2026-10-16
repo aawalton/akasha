@@ -5,14 +5,14 @@ export const alexWarrenYouLlBeAlrightKidYardSale = {
   type: "page-type/track",
   slug: "alex-warren-you-ll-be-alright-kid-yard-sale",
   ownLength: 2.9032666666666667,
-  ownProgress: 0,
+  ownProgress: 2.9032666666666667,
   partOfCollections: [
     "release/alex-warren-you-ll-be-alright-kid",
     "release/alex-warren-you-ll-be-alright-kid-chapter-1",
     "release/alex-warren-before-you-leave-me",
     "release/alex-warren-yard-sale",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Yard Sale",
   trackType: "studio",
@@ -51,5 +51,5 @@ export const alexWarrenYouLlBeAlrightKidYardSale = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

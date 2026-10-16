@@ -5,12 +5,12 @@ export const alexWarrenYouLlBeAlrightKidEternity = {
   type: "page-type/track",
   slug: "alex-warren-you-ll-be-alright-kid-eternity",
   ownLength: 3.1592166666666666,
-  ownProgress: 0,
+  ownProgress: 3.1592166666666666,
   partOfCollections: [
     "release/alex-warren-you-ll-be-alright-kid",
     "release/alex-warren-eternity-2",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Eternity",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const alexWarrenYouLlBeAlrightKidEternity = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

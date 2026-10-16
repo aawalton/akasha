@@ -5,9 +5,9 @@ export const alexWarrenYardSaleHowCouldYouBeOk = {
   type: "page-type/track",
   slug: "alex-warren-yard-sale-how-could-you-be-ok",
   ownLength: 3.2932333333333332,
-  ownProgress: 0,
+  ownProgress: 3.2932333333333332,
   partOfCollections: ["release/alex-warren-yard-sale", "release/alex-warren-how-could-you-be-ok"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "How Could You (Be OK)",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const alexWarrenYardSaleHowCouldYouBeOk = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

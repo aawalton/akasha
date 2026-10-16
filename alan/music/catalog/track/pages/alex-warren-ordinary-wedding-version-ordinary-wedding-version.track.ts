@@ -5,9 +5,9 @@ export const alexWarrenOrdinaryWeddingVersionOrdinaryWeddingVersion = {
   type: "page-type/track",
   slug: "alex-warren-ordinary-wedding-version-ordinary-wedding-version",
   ownLength: 3.1160666666666668,
-  ownProgress: 0,
+  ownProgress: 3.1160666666666668,
   partOfCollections: ["release/alex-warren-ordinary-wedding-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Ordinary - Wedding Version",
   trackType: "version",
@@ -25,5 +25,5 @@ export const alexWarrenOrdinaryWeddingVersionOrdinaryWeddingVersion = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

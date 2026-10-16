@@ -5,9 +5,9 @@ export const alexWarrenBurningDownWithJoeJonasBurningDownWithJoeJonas = {
   type: "page-type/track",
   slug: "alex-warren-burning-down-with-joe-jonas-burning-down-with-joe-jonas",
   ownLength: 2.9906166666666665,
-  ownProgress: 0,
+  ownProgress: 2.9906166666666665,
   partOfCollections: ["release/alex-warren-burning-down-with-joe-jonas"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Burning Down (with Joe Jonas)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const alexWarrenBurningDownWithJoeJonasBurningDownWithJoeJonas = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

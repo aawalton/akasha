@@ -5,12 +5,12 @@ export const alexWarrenYouLlBeAlrightKidCatchMyBreath = {
   type: "page-type/track",
   slug: "alex-warren-you-ll-be-alright-kid-catch-my-breath",
   ownLength: 3.2148666666666665,
-  ownProgress: 0,
+  ownProgress: 3.2148666666666665,
   partOfCollections: [
     "release/alex-warren-you-ll-be-alright-kid",
     "release/alex-warren-you-ll-be-alright-kid-chapter-1",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Catch My Breath",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const alexWarrenYouLlBeAlrightKidCatchMyBreath = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const alexWarrenYardSaleFolkVersionYardSaleFolkVersion = {
   type: "page-type/track",
   slug: "alex-warren-yard-sale-folk-version-yard-sale-folk-version",
   ownLength: 2.937,
-  ownProgress: 0,
+  ownProgress: 2.937,
   partOfCollections: ["release/alex-warren-yard-sale-folk-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Yard Sale - Folk Version",
   trackType: "version",
@@ -25,5 +25,5 @@ export const alexWarrenYardSaleFolkVersionYardSaleFolkVersion = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

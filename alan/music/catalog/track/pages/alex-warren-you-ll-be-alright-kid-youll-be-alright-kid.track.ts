@@ -5,12 +5,12 @@ export const alexWarrenYouLlBeAlrightKidYoullBeAlrightKid = {
   type: "page-type/track",
   slug: "alex-warren-you-ll-be-alright-kid-youll-be-alright-kid",
   ownLength: 2.4907666666666666,
-  ownProgress: 0,
+  ownProgress: 2.4907666666666666,
   partOfCollections: [
     "release/alex-warren-you-ll-be-alright-kid",
     "release/alex-warren-you-ll-be-alright-kid-chapter-1",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "You’ll Be Alright, Kid",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const alexWarrenYouLlBeAlrightKidYoullBeAlrightKid = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

@@ -5,14 +5,14 @@ export const alexWarrenYouLlBeAlrightKidBurningDown = {
   type: "page-type/track",
   slug: "alex-warren-you-ll-be-alright-kid-burning-down",
   ownLength: 2.9906166666666665,
-  ownProgress: 0,
+  ownProgress: 2.9906166666666665,
   partOfCollections: [
     "release/alex-warren-you-ll-be-alright-kid",
     "release/alex-warren-you-ll-be-alright-kid-chapter-1",
     "release/alex-warren-burning-down-alex-s-version",
     "release/alex-warren-burning-down",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Burning Down",
   trackType: "studio",
@@ -51,5 +51,5 @@ export const alexWarrenYouLlBeAlrightKidBurningDown = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

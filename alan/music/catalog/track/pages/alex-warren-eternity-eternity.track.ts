@@ -5,9 +5,9 @@ export const alexWarrenEternityEternity = {
   type: "page-type/track",
   slug: "alex-warren-eternity-eternity",
   ownLength: 3.3912333333333335,
-  ownProgress: 0,
+  ownProgress: 3.3912333333333335,
   partOfCollections: ["release/alex-warren-eternity"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Eternity",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const alexWarrenEternityEternity = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

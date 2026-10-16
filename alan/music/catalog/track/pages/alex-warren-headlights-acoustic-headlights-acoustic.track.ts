@@ -5,9 +5,9 @@ export const alexWarrenHeadlightsAcousticHeadlightsAcoustic = {
   type: "page-type/track",
   slug: "alex-warren-headlights-acoustic-headlights-acoustic",
   ownLength: 2.8868833333333335,
-  ownProgress: 0,
+  ownProgress: 2.8868833333333335,
   partOfCollections: ["release/alex-warren-headlights-acoustic"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Headlights - Acoustic",
   trackType: "acoustic",
@@ -25,5 +25,5 @@ export const alexWarrenHeadlightsAcousticHeadlightsAcoustic = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

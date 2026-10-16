@@ -5,9 +5,9 @@ export const alexWarrenOneMoreILoveYouOneMoreILoveYou = {
   type: "page-type/track",
   slug: "alex-warren-one-more-i-love-you-one-more-i-love-you",
   ownLength: 3.6155833333333334,
-  ownProgress: 0,
+  ownProgress: 3.6155833333333334,
   partOfCollections: ["release/alex-warren-one-more-i-love-you"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "One More I Love You",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const alexWarrenOneMoreILoveYouOneMoreILoveYou = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

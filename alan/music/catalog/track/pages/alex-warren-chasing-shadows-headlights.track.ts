@@ -5,13 +5,13 @@ export const alexWarrenChasingShadowsHeadlights = {
   type: "page-type/track",
   slug: "alex-warren-chasing-shadows-headlights",
   ownLength: 2.8868833333333335,
-  ownProgress: 0,
+  ownProgress: 2.8868833333333335,
   partOfCollections: [
     "release/alex-warren-chasing-shadows",
     "release/alex-warren-headlights-acoustic",
     "release/alex-warren-headlights",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Headlights",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const alexWarrenChasingShadowsHeadlights = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const alexWarrenBurningDownAlexSVersionBurningDownAlexsVersion = {
   type: "page-type/track",
   slug: "alex-warren-burning-down-alex-s-version-burning-down-alexs-version",
   ownLength: 3.0521166666666666,
-  ownProgress: 0,
+  ownProgress: 3.0521166666666666,
   partOfCollections: ["release/alex-warren-burning-down-alex-s-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Burning Down - Alex’s Version",
   trackType: "version",
@@ -25,5 +25,5 @@ export const alexWarrenBurningDownAlexSVersionBurningDownAlexsVersion = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

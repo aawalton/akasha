@@ -5,13 +5,13 @@ export const alexWarrenYouLlBeAlrightKidBeforeYouLeaveMe = {
   type: "page-type/track",
   slug: "alex-warren-you-ll-be-alright-kid-before-you-leave-me",
   ownLength: 2.9363,
-  ownProgress: 0,
+  ownProgress: 2.9363,
   partOfCollections: [
     "release/alex-warren-you-ll-be-alright-kid",
     "release/alex-warren-you-ll-be-alright-kid-chapter-1",
     "release/alex-warren-before-you-leave-me",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Before You Leave Me",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const alexWarrenYouLlBeAlrightKidBeforeYouLeaveMe = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

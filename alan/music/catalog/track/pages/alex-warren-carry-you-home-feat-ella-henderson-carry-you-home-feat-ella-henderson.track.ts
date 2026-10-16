@@ -5,9 +5,9 @@ export const alexWarrenCarryYouHomeFeatEllaHendersonCarryYouHomeFeatEllaHenderso
   type: "page-type/track",
   slug: "alex-warren-carry-you-home-feat-ella-henderson-carry-you-home-feat-ella-henderson",
   ownLength: 2.7813333333333334,
-  ownProgress: 0,
+  ownProgress: 2.7813333333333334,
   partOfCollections: ["release/alex-warren-carry-you-home-feat-ella-henderson"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Carry You Home (feat. Ella Henderson)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const alexWarrenCarryYouHomeFeatEllaHendersonCarryYouHomeFeatEllaHenderso
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

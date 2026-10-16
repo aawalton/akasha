@@ -5,9 +5,9 @@ export const alexWarrenOrdinaryFeatLukeCombsLiveFromLollapaloozaOrdinaryFeatLuke
   type: "page-type/track",
   slug: "alex-warren-ordinary-feat-luke-combs-live-from-lollapalooza-ordinary-feat-luke-combs-live-from",
   ownLength: 3.42445,
-  ownProgress: 0,
+  ownProgress: 3.42445,
   partOfCollections: ["release/alex-warren-ordinary-feat-luke-combs-live-from-lollapalooza"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Ordinary (feat. Luke Combs) - Live from Lollapalooza",
   trackType: "live",
@@ -26,5 +26,5 @@ export const alexWarrenOrdinaryFeatLukeCombsLiveFromLollapaloozaOrdinaryFeatLuke
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track

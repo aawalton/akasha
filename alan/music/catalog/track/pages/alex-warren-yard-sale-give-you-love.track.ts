@@ -5,14 +5,14 @@ export const alexWarrenYardSaleGiveYouLove = {
   type: "page-type/track",
   slug: "alex-warren-yard-sale-give-you-love",
   ownLength: 3.05665,
-  ownProgress: 0,
+  ownProgress: 3.05665,
   partOfCollections: [
     "release/alex-warren-yard-sale",
     "release/alex-warren-how-could-you-be-ok",
     "release/alex-warren-change-your-mind",
     "release/alex-warren-give-you-love",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Give You Love",
   trackType: "studio",
@@ -51,5 +51,5 @@ export const alexWarrenYardSaleGiveYouLove = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T14:00:28.701Z",
 } as const satisfies Track
