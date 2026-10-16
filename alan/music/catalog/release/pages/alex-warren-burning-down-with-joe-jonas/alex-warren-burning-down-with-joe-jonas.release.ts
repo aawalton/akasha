@@ -7,7 +7,7 @@ export const alexWarrenBurningDownWithJoeJonas = {
   title: "Burning Down (with Joe Jonas)",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 2.990617,
+  ownLength: 2.9906166666666665,
   ownProgress: 2.990617,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenBurningDownWithJoeJonas = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

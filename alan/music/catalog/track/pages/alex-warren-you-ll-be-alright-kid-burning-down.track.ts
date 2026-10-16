@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const alexWarrenYouLlBeAlrightKidBurningDown = {
+  id: "01a144f7-5601-741a-b693-f12efd9eeecc",
+  type: "page-type/track",
+  slug: "alex-warren-you-ll-be-alright-kid-burning-down",
+  ownLength: 2.9906166666666665,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/alex-warren-you-ll-be-alright-kid",
+    "release/alex-warren-you-ll-be-alright-kid-chapter-1",
+    "release/alex-warren-burning-down-alex-s-version",
+    "release/alex-warren-burning-down",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Burning Down",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/alex-warren" }],
+  trackKey: "burningdown|0fTSzq9jAh4c36UVb4V7CB|179437",
+  song: "song/alex-warren-burning-down",
+  carriedBy: [
+    {
+      release: "release/alex-warren-burning-down",
+      discNumber: 1,
+      position: 1,
+      externalId: "7gxQXemQ5MBeK9PUrKRtfV",
+      externalLink: "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV",
+    },
+    {
+      release: "release/alex-warren-burning-down-alex-s-version",
+      discNumber: 1,
+      position: 2,
+      externalId: "4sRKsQ7zQEACvXTi7hPyjX",
+      externalLink: "https://open.spotify.com/track/4sRKsQ7zQEACvXTi7hPyjX",
+    },
+    {
+      release: "release/alex-warren-you-ll-be-alright-kid",
+      discNumber: 2,
+      position: 1,
+      externalId: "4z28MCGdR3K7ltAscZHacM",
+      externalLink: "https://open.spotify.com/track/4z28MCGdR3K7ltAscZHacM",
+    },
+    {
+      release: "release/alex-warren-you-ll-be-alright-kid-chapter-1",
+      discNumber: 1,
+      position: 2,
+      externalId: "6aybzjLxocD14YySwF3aus",
+      externalLink: "https://open.spotify.com/track/6aybzjLxocD14YySwF3aus",
+    },
+  ],
+  createdAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
+} as const satisfies Track

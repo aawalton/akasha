@@ -7,7 +7,7 @@ export const alexWarrenGiveYouLove = {
   title: "Give You Love",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 5.790433,
+  ownLength: 5.7904333333333335,
   ownProgress: 5.790433,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenGiveYouLove = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

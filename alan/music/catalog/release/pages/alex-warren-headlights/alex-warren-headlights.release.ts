@@ -7,7 +7,7 @@ export const alexWarrenHeadlights = {
   title: "Headlights",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 2.886883,
+  ownLength: 2.8868833333333335,
   ownProgress: 2.886883,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenHeadlights = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

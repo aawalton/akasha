@@ -7,7 +7,7 @@ export const alexWarrenOnMyMind = {
   title: "On My Mind",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 3.159283,
+  ownLength: 3.159283333333333,
   ownProgress: 3.159283,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenOnMyMind = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

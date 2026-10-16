@@ -7,7 +7,7 @@ export const alexWarrenBloodline = {
   title: "Bloodline",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 3.033467,
+  ownLength: 3.0334666666666665,
   ownProgress: 3.033467,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenBloodline = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

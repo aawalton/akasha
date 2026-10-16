@@ -7,7 +7,7 @@ export const alexWarrenYouLlBeAlrightKidChapter1 = {
   title: "You'll Be Alright, Kid (Chapter 1)",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 33.130033,
+  ownLength: 33.13003333333333,
   ownProgress: 33.130033,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenYouLlBeAlrightKidChapter1 = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.290Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

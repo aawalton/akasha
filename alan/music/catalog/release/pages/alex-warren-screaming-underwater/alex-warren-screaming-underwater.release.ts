@@ -7,7 +7,7 @@ export const alexWarrenScreamingUnderwater = {
   title: "Screaming Underwater",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 2.434883,
+  ownLength: 2.4348833333333335,
   ownProgress: 2.434883,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenScreamingUnderwater = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.280Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

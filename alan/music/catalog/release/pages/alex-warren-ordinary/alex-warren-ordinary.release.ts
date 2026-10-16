@@ -7,7 +7,7 @@ export const alexWarrenOrdinary = {
   title: "Ordinary",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 3.116067,
+  ownLength: 3.1160666666666668,
   ownProgress: 3.116067,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenOrdinary = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

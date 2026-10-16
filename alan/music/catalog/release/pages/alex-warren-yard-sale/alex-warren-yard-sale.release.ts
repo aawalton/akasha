@@ -7,7 +7,7 @@ export const alexWarrenYardSale = {
   title: "Yard Sale",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 12.159917,
+  ownLength: 12.159916666666666,
   ownProgress: 12.159917,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenYardSale = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.289Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

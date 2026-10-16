@@ -16,10 +16,10 @@ export const alexWarren = {
       source: "spotify",
       externalId: "0fTSzq9jAh4c36UVb4V7CB",
       externalLink: "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB",
-      lastSyncedAt: "2026-09-15",
+      lastSyncedAt: "2026-10-16",
     },
   ],
   title: "Alex Warren",
   createdAt: "2026-09-03T16:04:08.682Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Artist

@@ -7,7 +7,7 @@ export const alexWarrenChasingShadowsMkjRemix = {
   title: "Chasing Shadows (MKJ Remix)",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 5.517117,
+  ownLength: 5.5171166666666664,
   ownProgress: 5.517117,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenChasingShadowsMkjRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

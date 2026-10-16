@@ -7,7 +7,7 @@ export const alexWarrenOneMoreILoveYou = {
   title: "One More I Love You",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 3.615583,
+  ownLength: 3.6155833333333334,
   ownProgress: 3.615583,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenOneMoreILoveYou = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

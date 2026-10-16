@@ -7,7 +7,7 @@ export const alexWarrenBeforeYouLeaveMe = {
   title: "Before You Leave Me",
   partOfCollections: ["artist/alex-warren"],
   position: 0,
-  ownLength: 5.839567,
+  ownLength: 5.839566666666666,
   ownProgress: 5.839567,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const alexWarrenBeforeYouLeaveMe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.264Z",
-  updatedAt: "2026-09-15T16:33:53.000Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
 } as const satisfies Release

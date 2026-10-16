@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const alexWarrenYardSaleGiveYouLove = {
+  id: "01a144f7-5601-7ed1-9130-71dac0227131",
+  type: "page-type/track",
+  slug: "alex-warren-yard-sale-give-you-love",
+  ownLength: 3.05665,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/alex-warren-yard-sale",
+    "release/alex-warren-how-could-you-be-ok",
+    "release/alex-warren-change-your-mind",
+    "release/alex-warren-give-you-love",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Give You Love",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/alex-warren" }],
+  trackKey: "giveyoulove|0fTSzq9jAh4c36UVb4V7CB|183399",
+  song: "song/alex-warren-give-you-love",
+  carriedBy: [
+    {
+      release: "release/alex-warren-change-your-mind",
+      discNumber: 1,
+      position: 2,
+      externalId: "6FNxRTWpqyosPQCvdLpoYI",
+      externalLink: "https://open.spotify.com/track/6FNxRTWpqyosPQCvdLpoYI",
+    },
+    {
+      release: "release/alex-warren-give-you-love",
+      discNumber: 1,
+      position: 1,
+      externalId: "6yfa7stvsbbuDzFsHKG8ez",
+      externalLink: "https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez",
+    },
+    {
+      release: "release/alex-warren-how-could-you-be-ok",
+      discNumber: 1,
+      position: 3,
+      externalId: "74kbb1fa8VP43JoGWKFqjc",
+      externalLink: "https://open.spotify.com/track/74kbb1fa8VP43JoGWKFqjc",
+    },
+    {
+      release: "release/alex-warren-yard-sale",
+      discNumber: 1,
+      position: 4,
+      externalId: "4nL85FDuRf54fbEsOLf6qJ",
+      externalLink: "https://open.spotify.com/track/4nL85FDuRf54fbEsOLf6qJ",
+    },
+  ],
+  createdAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
+} as const satisfies Track

@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const alexWarrenYouLlBeAlrightKidYardSale = {
+  id: "01a144f7-5603-75e8-b309-7c642f647e84",
+  type: "page-type/track",
+  slug: "alex-warren-you-ll-be-alright-kid-yard-sale",
+  ownLength: 2.9032666666666667,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/alex-warren-you-ll-be-alright-kid",
+    "release/alex-warren-you-ll-be-alright-kid-chapter-1",
+    "release/alex-warren-before-you-leave-me",
+    "release/alex-warren-yard-sale",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Yard Sale",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/alex-warren" }],
+  trackKey: "yardsale|0fTSzq9jAh4c36UVb4V7CB|174196",
+  song: "song/alex-warren-yard-sale",
+  carriedBy: [
+    {
+      release: "release/alex-warren-before-you-leave-me",
+      discNumber: 1,
+      position: 2,
+      externalId: "4jzLgWYsjNLcfcta3BfsLg",
+      externalLink: "https://open.spotify.com/track/4jzLgWYsjNLcfcta3BfsLg",
+    },
+    {
+      release: "release/alex-warren-yard-sale",
+      discNumber: 1,
+      position: 1,
+      externalId: "7aphaNjz17A97xNyD00LBn",
+      externalLink: "https://open.spotify.com/track/7aphaNjz17A97xNyD00LBn",
+    },
+    {
+      release: "release/alex-warren-you-ll-be-alright-kid",
+      discNumber: 2,
+      position: 9,
+      externalId: "5UaS5BrPWqdFfvFT41gvn4",
+      externalLink: "https://open.spotify.com/track/5UaS5BrPWqdFfvFT41gvn4",
+    },
+    {
+      release: "release/alex-warren-you-ll-be-alright-kid-chapter-1",
+      discNumber: 1,
+      position: 10,
+      externalId: "2XZ9uajzTcPdawYfVadFWa",
+      externalLink: "https://open.spotify.com/track/2XZ9uajzTcPdawYfVadFWa",
+    },
+  ],
+  createdAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-16T13:47:02.519Z",
+} as const satisfies Track
