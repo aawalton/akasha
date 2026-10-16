@@ -13118,11 +13118,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "seen": [
       5,
       3,
@@ -13143,46 +13143,46 @@
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-15",
-    "misplaced": 39
+    "date": "2026-10-16",
+    "misplaced": 45
   },
   "reportedStats": {
     "backBar": {
-      "capturedAt": 1792069168,
+      "capturedAt": 1792148546,
       "inCombat": false,
       "stats": {
-        "health-recovery": 0,
-        "resistance-spell": 25425,
-        "penetration-spell": 4985,
-        "power-weapon": 4479,
-        "resistance-critical": 1320,
-        "stamina-recovery": 836,
-        "health-maximum": 21283,
+        "resistance-physical": 25425,
+        "critical-rating-weapon": 3158,
+        "critical-rating-spell": 3158,
         "penetration-physical": 4985,
         "stamina-maximum": 24104,
-        "critical-rating-weapon": 3158,
         "power-spell": 4479,
-        "resistance-physical": 25425,
-        "critical-rating-spell": 3158,
+        "resistance-spell": 25425,
+        "power-weapon": 4479,
         "magicka-maximum": 15388,
-        "magicka-recovery": 725
+        "magicka-recovery": 725,
+        "stamina-recovery": 836,
+        "resistance-critical": 1320,
+        "health-maximum": 21283,
+        "penetration-spell": 4985,
+        "health-recovery": 0
       },
       "unbonusedStats": {
-        "health-recovery": 0,
-        "resistance-spell": 0,
-        "penetration-spell": 0,
-        "power-weapon": 1000,
-        "resistance-critical": 0,
-        "stamina-recovery": 836,
-        "health-maximum": 21283,
+        "resistance-physical": 0,
+        "critical-rating-weapon": 2181,
+        "critical-rating-spell": 2181,
         "penetration-physical": 0,
         "stamina-maximum": 24104,
-        "critical-rating-weapon": 2181,
         "power-spell": 1000,
-        "resistance-physical": 0,
-        "critical-rating-spell": 2181,
+        "resistance-spell": 0,
+        "power-weapon": 1000,
         "magicka-maximum": 15388,
-        "magicka-recovery": 725
+        "magicka-recovery": 725,
+        "stamina-recovery": 836,
+        "resistance-critical": 0,
+        "health-maximum": 21283,
+        "penetration-spell": 0,
+        "health-recovery": 0
       },
       "activeBuffs": [
         {
@@ -13897,7 +13897,8 @@
           "durationMs": 0,
           "castMs": 3000,
           "channeled": true,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 4,
@@ -13907,7 +13908,8 @@
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 5,
@@ -13917,7 +13919,8 @@
           "durationMs": 1000,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 6,
@@ -13927,7 +13930,8 @@
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 7,
@@ -13937,7 +13941,8 @@
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 1000
+          "cooldownMs": 1000,
+          "ultimateCost": 0
         },
         {
           "slot": 8,
@@ -13947,9 +13952,54 @@
           "durationMs": 20000,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 255
         }
-      ]
+      ],
+      "classPassives": [
+        {
+          "abilityId": 184847,
+          "name": "Fated Fortune",
+          "description": "Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by |cffffff12|r% for |cffffff7|r seconds."
+        },
+        {
+          "abilityId": 184858,
+          "name": "Harnessed Quintessence",
+          "description": "You master the warp and weft of your very soul. \n\nWhen you restore Magicka or Stamina, your Weapon and Spell Damage increase by |cffffff284|r for |cffffff10|r seconds."
+        },
+        {
+          "abilityId": 184873,
+          "name": "Psychic Lesion",
+          "description": "Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by |cffffff15|r% and Status Effect Chance by |cffffff55|r%."
+        },
+        {
+          "abilityId": 184887,
+          "name": "Splintered Secrets",
+          "description": "What they don't know can kill them. Increase your Physical and Spell Penetration by |cffffff1240|r per Herald of the Tome ability slotted.\n\nCurrent bonus: |cffffff0|r."
+        },
+        {
+          "abilityId": 185186,
+          "name": "Healing Tides",
+          "description": "Your mastery of weaving fate and abyssal water increases your healing done by |cffffff4|r% for each active Crux."
+        },
+        {
+          "abilityId": 185243,
+          "name": "Hideous Clarity",
+          "description": "You've stared too long into the abyss. When you generate Crux, you restore |cffffff225|r Magicka and Stamina."
+        },
+        {
+          "abilityId": 185239,
+          "name": "Erudition",
+          "description": "Knowledge is power. Your excessive scholarship increases your Magicka and Stamina Recovery by |cffffff18|r%."
+        },
+        {
+          "abilityId": 185195,
+          "name": "Intricate Runeforms",
+          "description": "Your status as illuminatus reduces the cost and increases the strength of your damage shields by |cffffff10|r%."
+        }
+      ],
+      "inArchive": false,
+      "archiveBoons": []
     }
   }
 }
