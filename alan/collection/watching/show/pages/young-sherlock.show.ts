@@ -16,7 +16,8 @@ export const youngSherlock = {
       externalId: "0OHZJ90LNM4KVKJXM4K15HDQJR",
       externalLink: "https://www.primevideo.com/detail/0OHZJ90LNM4KVKJXM4K15HDQJR",
     },
+    { source: "tmdb", externalId: "255661", externalLink: "https://www.themoviedb.org/tv/255661" },
   ],
   createdAt: "2026-10-14T18:59:15.484Z",
-  updatedAt: "2026-10-14T18:59:15.484Z",
+  updatedAt: "2026-10-16T11:34:32.535Z",
 } as const satisfies Show
