@@ -20,5 +20,6 @@ export const millennialMageASliceOfLifeProgressionFantasy0208Chapter763SurgingAn
     },
   ],
   createdAt: "2026-10-16T12:08:40.770Z",
-  updatedAt: "2026-10-16T12:08:40.770Z",
+  updatedAt: "2026-10-16T13:05:37.843Z",
+  ownProgress: 3117,
 } as const satisfies StoryChapterRead
