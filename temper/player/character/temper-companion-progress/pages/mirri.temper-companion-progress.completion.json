@@ -1,15 +1,6 @@
 {
   "build": {
-    "mainHandWeaponType": 9,
-    "skillAbilityIds": {
-      "1": 153685,
-      "2": 155408,
-      "3": 157287,
-      "4": 154790,
-      "5": 153066,
-      "6": 157259
-    },
-    "jewelry": {
+    "weapons": {
       "1": {
         "isEmpty": false,
         "qualityColor": {
@@ -17,27 +8,20 @@
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Quickened"
+        "displayText": "Restoration Staff, Quickened"
       },
       "2": {
-        "isEmpty": false,
+        "isEmpty": true,
         "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
         },
-        "displayText": "Quickened"
-      },
-      "3": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened"
+        "displayText": "Empty"
       }
     },
+    "companionId": 2,
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
     "armor": {
       "1": {
         "isEmpty": false,
@@ -103,9 +87,16 @@
         "displayText": "Light, Quickened"
       }
     },
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
-    "companionId": 2,
-    "weapons": {
+    "skillAbilityIds": {
+      "1": 153685,
+      "2": 155408,
+      "3": 157287,
+      "4": 154790,
+      "5": 153066,
+      "6": 157259
+    },
+    "mainHandWeaponType": 9,
+    "jewelry": {
       "1": {
         "isEmpty": false,
         "qualityColor": {
@@ -113,16 +104,25 @@
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Restoration Staff, Quickened"
+        "displayText": "Quickened"
       },
       "2": {
-        "isEmpty": true,
+        "isEmpty": false,
         "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
         },
-        "displayText": "Empty"
+        "displayText": "Quickened"
+      },
+      "3": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened"
       }
     }
   },
