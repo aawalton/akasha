@@ -35,7 +35,7 @@ export function meanUltimate(ultimates: readonly RotationUltimate[]): RotationUl
   }
 }
 
-export type UltimateSpent = {
+type UltimateSpent = {
   readonly name: string
   readonly casts: number
   readonly gained: number
@@ -46,7 +46,7 @@ const ULTIMATE_MAX = 500
 
 const LIGHT_ATTACK_ULTIMATE_PER_SECOND = 3
 
-export type SkillHealed = {
+type SkillHealed = {
   readonly name: string
   readonly casts: number
   readonly healing: number
