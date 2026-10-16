@@ -54,7 +54,7 @@ function statsOf(stats: Readonly<Record<string, number>>): EquationStats {
   }
 }
 
-export function pairedLines(
+function pairedLines(
   description: string,
   equations: readonly string[],
   stats: EquationStats
