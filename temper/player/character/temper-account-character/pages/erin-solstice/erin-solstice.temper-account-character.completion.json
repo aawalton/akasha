@@ -28320,11 +28320,11 @@
   "bagSize": 215,
   "allianceRank": 50,
   "dailyWrits": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "seen": [
       5,
       3,
@@ -28345,46 +28345,46 @@
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-15",
-    "misplaced": 0
+    "date": "2026-10-16",
+    "misplaced": 78
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792108982,
+      "capturedAt": 1792152602,
       "inCombat": false,
       "stats": {
-        "magicka-maximum": 19105,
-        "stamina-recovery": 713,
-        "magicka-recovery": 1011,
-        "critical-rating-weapon": 6707,
-        "health-recovery": 3832,
-        "resistance-critical": 1320,
-        "penetration-spell": 700,
-        "resistance-physical": 26221,
-        "power-spell": 3093,
-        "resistance-spell": 26221,
-        "health-maximum": 64452,
+        "stamina-maximum": 18003,
         "penetration-physical": 700,
+        "critical-rating-weapon": 6707,
+        "stamina-recovery": 544,
+        "power-spell": 3093,
         "critical-rating-spell": 6707,
+        "health-maximum": 49843,
         "power-weapon": 3093,
-        "stamina-maximum": 18003
+        "magicka-maximum": 19105,
+        "resistance-spell": 23247,
+        "penetration-spell": 700,
+        "resistance-critical": 1320,
+        "resistance-physical": 23247,
+        "health-recovery": 2835,
+        "magicka-recovery": 852
       },
       "unbonusedStats": {
-        "magicka-maximum": 19105,
-        "stamina-recovery": 713,
-        "magicka-recovery": 1011,
-        "critical-rating-weapon": 2181,
-        "health-recovery": 3832,
-        "resistance-critical": 0,
-        "penetration-spell": 0,
-        "resistance-physical": 0,
-        "power-spell": 1000,
-        "resistance-spell": 0,
-        "health-maximum": 64452,
+        "stamina-maximum": 18003,
         "penetration-physical": 0,
+        "critical-rating-weapon": 2181,
+        "stamina-recovery": 544,
+        "power-spell": 1000,
         "critical-rating-spell": 2181,
+        "health-maximum": 49843,
         "power-weapon": 1000,
-        "stamina-maximum": 18003
+        "magicka-maximum": 19105,
+        "resistance-spell": 0,
+        "penetration-spell": 0,
+        "resistance-critical": 0,
+        "resistance-physical": 0,
+        "health-recovery": 2835,
+        "magicka-recovery": 852
       },
       "activeBuffs": [
         {
@@ -28392,13 +28392,6 @@
           "name": "Clockwork Citrus Filet",
           "description": "Increase Max Health by |cffffff2835|r, Health Recovery by |cffffff346|r, Max Magicka by |cffffff2625|r and Magicka Recovery by |cffffff288|r for |cffffff2|r hours.",
           "effect": "Increase Max Health by |cffffff3326|r.\nIncrease Max Magicka by |cffffff3080|r.\nIncrease Health Recovery by |cffffff406|r.\nIncrease Magicka Recovery by |cffffff338|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 88490,
-          "name": "Minor Toughness",
-          "description": "Increases your Max Health by |cffffff10|r%.",
-          "effect": "Increases your Max Health by |cffffff10|r%.\n",
           "stacks": 0
         },
         {
@@ -28427,20 +28420,6 @@
           "name": "Major Savagery",
           "description": "",
           "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61721,
-          "name": "Minor Protection",
-          "description": "",
-          "effect": "Reduces your damage taken by |cffffff5|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61693,
-          "name": "Minor Resolve",
-          "description": "",
-          "effect": "Increases your Physical and Spell Resistance by |cffffff2974|r.\n",
           "stacks": 0
         }
       ],
@@ -29043,7 +29022,7 @@
           "slot": 4,
           "link": "|H0:item:133786:364:50:26587:370:50:3:25:0:0:0:0:0:0:2049:3:0:1:0:373:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff6715|r Poison Damage.",
+          "enchant": "Deals |cffffff2686|r Poison Damage.",
           "trait": "Increases Weapon and Spell Critical by |cffffff7.2|r%.",
           "quality": 5
         },
@@ -29099,7 +29078,7 @@
           "slot": 20,
           "link": "|H0:item:133243:364:50:5365:370:50:1:62:0:0:0:0:0:0:2049:65:0:1:0:491:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff3992|r Frost Damage.",
+          "enchant": "Deals |cffffff1343|r Frost Damage.",
           "trait": "Increases healing done by |cffffff4.5|r%.",
           "quality": 5
         },
@@ -29117,7 +29096,7 @@
           "slot": 3,
           "abilityId": 38754,
           "name": "Brawler",
-          "description": "Focus your strength into a mighty swing, dealing |cffffff5382|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff4746|r damage for |cffffff9|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
+          "description": "Focus your strength into a mighty swing, dealing |cffffff4566|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff4746|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29128,7 +29107,7 @@
           "slot": 4,
           "abilityId": 20816,
           "name": "Flame Lash",
-          "description": "Lash an enemy with flame, dealing |cffffff6848|r Flame Damage and healing for |cffffff1870|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff11048|r Flame Damage to your target and all nearby enemies and heals for |cffffff3741|r Health.",
+          "description": "Lash an enemy with flame, dealing |cffffff5761|r Flame Damage and healing for |cffffff1870|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff9374|r Flame Damage to your target and all nearby enemies and heals for |cffffff3741|r Health.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29139,8 +29118,8 @@
           "slot": 5,
           "abilityId": 20944,
           "name": "Disintegrating Dragonfire",
-          "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff5559|r Flame Damage, applying the Burning status effect, and an additional |cffffff8410|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r.",
-          "durationMs": 22400,
+          "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff4716|r Flame Damage, applying the Burning status effect, and an additional |cffffff7010|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r.",
+          "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
@@ -29150,7 +29129,7 @@
           "slot": 6,
           "abilityId": 20660,
           "name": "Burning Embers",
-          "description": "Slash your foe with a fiery claw, dealing |cffffff3423|r Flame Damage and an additional |cffffff9780|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff14029|r Health from the initial hit and |cffffff2103|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
+          "description": "Slash your foe with a fiery claw, dealing |cffffff2880|r Flame Damage and an additional |cffffff8150|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff10849|r Health from the initial hit and |cffffff1626|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
@@ -29161,8 +29140,8 @@
           "slot": 7,
           "abilityId": 61505,
           "name": "Echoing Vigor",
-          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff17654|r Health over |cffffff24|r seconds.",
-          "durationMs": 24000,
+          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff12222|r Health over |cffffff16|r seconds.",
+          "durationMs": 16000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
@@ -29172,7 +29151,7 @@
           "slot": 8,
           "abilityId": 17874,
           "name": "Magma Shell",
-          "description": "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff153|r% of their Max Health for |cffffff15|r seconds.\n\nWhile active, you cannot generate Ultimate.",
+          "description": "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff153|r% of their Max Health for |cffffff10|r seconds.\n\nWhile active, you cannot generate Ultimate.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
@@ -29214,7 +29193,7 @@
         {
           "abilityId": 44951,
           "name": "Elder Dragon",
-          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff44.8|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff0|r"
+          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff20|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff0|r"
         },
         {
           "abilityId": 44953,
@@ -29249,7 +29228,7 @@
         {
           "abilityId": 259224,
           "name": "Wildfire Embers",
-          "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff4417|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack."
+          "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff3682|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack."
         }
       ],
       "inArchive": true,
@@ -29258,147 +29237,147 @@
           "abilityId": 197652,
           "kind": "vision",
           "name": "Hearty Vitality",
-          "description": "You feel full of life!\n\nMax Health increased by |cffffff6|r% per stack.\n\nCurrent Bonus: |cffffff24|r%",
+          "description": "You feel full of life!\n\nMax Health increased by |cffffff6|r% per stack.\n\nCurrent Bonus: |cffffff0|r%",
           "stacks": 4
         },
         {
           "abilityId": 197684,
           "kind": "vision",
           "name": "Refined Restoration",
-          "description": "Enemies may hit hard, but you feel better already!\n\nHealth recovery increased by |cffffff45|r% per stack.\n\nCurrent Bonus: |cffffff45|r%",
+          "description": "Enemies may hit hard, but you feel better already!\n\nHealth recovery increased by |cffffff45|r% per stack.\n\nCurrent Bonus: |cffffff0|r%",
           "stacks": 1
         },
         {
           "abilityId": 199997,
           "kind": "vision",
           "name": "Crystalline Fortification",
-          "description": "Frost and cold melt away from you!\n\nFrost Damage taken decreased by |cffffff10|r%.\n\n|cFFFFFFPART OF THE CRYSTALLINE SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Crystalline Visions you gain access to the Ice Avatar Defensive Verse.",
+          "description": "Frost and cold melt away from you!\n\nFrost Damage taken decreased by |cffffff10|r%.\n\n|cFFFFFFPART OF THE CRYSTALLINE SET (|r|cffffff0|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Crystalline Visions you gain access to the Ice Avatar Defensive Verse.",
           "stacks": 1
         },
         {
           "abilityId": 200004,
           "kind": "vision",
           "name": "Scorching Fortification",
-          "description": "Laugh in fire's face!\n\nFire Damage taken decreased by |cffffff10|r%.\n\n|cFFFFFFPART OF THE SCORCHING SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Scorching Visions you gain access to the Iron Atronach Utility Verse.",
+          "description": "Laugh in fire's face!\n\nFire Damage taken decreased by |cffffff10|r%.\n\n|cFFFFFFPART OF THE SCORCHING SET (|r|cffffff0|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Scorching Visions you gain access to the Iron Atronach Utility Verse.",
           "stacks": 1
         },
         {
           "abilityId": 200164,
           "kind": "vision",
           "name": "Restorative Protection",
-          "description": "Healing energies sustain you and protect you from harm.\n\nHealing over time and Damage Shield effect duration increased by |cffffff25|r% per stack.\n\nCurrent Bonus: |cffffff50|r%",
+          "description": "Healing energies sustain you and protect you from harm.\n\nHealing over time and Damage Shield effect duration increased by |cffffff25|r% per stack.\n\nCurrent Bonus: |cffffff0|r%",
           "stacks": 2
         },
         {
           "abilityId": 200421,
           "kind": "vision",
           "name": "Ferocious Strikes",
-          "description": "Strike your enemies. Make them bleed!\n\nDamage dealt by Physical and Bleed attacks increased by |cffffff20|r%.\n\n|cFFFFFFPART OF THE FEROCIOUS SET (|r|cffffff2|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Ferocious Visions you gain access to the Werewolf Behemoth Offensive Verse.",
+          "description": "Strike your enemies. Make them bleed!\n\nDamage dealt by Physical and Bleed attacks increased by |cffffff20|r%.\n\n|cFFFFFFPART OF THE FEROCIOUS SET (|r|cffffff0|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Ferocious Visions you gain access to the Werewolf Behemoth Offensive Verse.",
           "stacks": 1
         },
         {
           "abilityId": 200494,
           "kind": "vision",
           "name": "Crystalline Strikes",
-          "description": "The power of winter waits at your fingertips!\n\nDamage dealt by Frost attacks increased by |cffffff20|r%.\n\n|cFFFFFFPART OF THE CRYSTALLINE SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Crystalline Visions you gain access to the Ice Avatar Defensive Verse.",
+          "description": "The power of winter waits at your fingertips!\n\nDamage dealt by Frost attacks increased by |cffffff20|r%.\n\n|cFFFFFFPART OF THE CRYSTALLINE SET (|r|cffffff0|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Crystalline Visions you gain access to the Ice Avatar Defensive Verse.",
           "stacks": 1
         },
         {
           "abilityId": 200679,
           "kind": "vision",
           "name": "Scorching Strikes",
-          "description": "The power of a forge waits at your fingertips!\n\nDamage dealt by Fire attacks increased by |cffffff20|r%.\n\n|cFFFFFFPART OF THE SCORCHING SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Scorching Visions you gain access to the Iron Atronach Utility Verse.",
+          "description": "The power of a forge waits at your fingertips!\n\nDamage dealt by Fire attacks increased by |cffffff20|r%.\n\n|cFFFFFFPART OF THE SCORCHING SET (|r|cffffff0|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Scorching Visions you gain access to the Iron Atronach Utility Verse.",
           "stacks": 1
         },
         {
           "abilityId": 200904,
           "kind": "vision",
           "name": "Focused Efforts",
-          "description": "Odds seem to be going your way.\n\nChance to apply a status effect increased by |cffffff12|r% and damage done by status effects increased by |cffffff500|r% per stack.\n\nCurrent Bonuses:\nApply Chance: |cffffff25|r%\nDamage Done: |cffffff1000|r%",
+          "description": "Odds seem to be going your way.\n\nChance to apply a status effect increased by |cffffff12|r% and damage done by status effects increased by |cffffff500|r% per stack.\n\nCurrent Bonuses:\nApply Chance: |cffffff0|r%\nDamage Done: |cffffff0|r%",
           "stacks": 2
         },
         {
           "abilityId": 201400,
           "kind": "vision",
           "name": "Archival Intelligence",
-          "description": "Your magic recovery rate grows.\n\nMagicka Recovery increased by |cffffff31|r% per stack.\n\nCurrent Bonus: |cffffff31|r%",
+          "description": "Your magic recovery rate grows.\n\nMagicka Recovery increased by |cffffff31|r% per stack.\n\nCurrent Bonus: |cffffff0|r%",
           "stacks": 1
         },
         {
           "abilityId": 201407,
           "kind": "vision",
           "name": "Archival Endurance",
-          "description": "Your stamina recovery rate grows.\n\nStamina Recovery increased by |cffffff31|r% per stack.\n\nCurrent Bonus: |cffffff31|r%",
+          "description": "Your stamina recovery rate grows.\n\nStamina Recovery increased by |cffffff31|r% per stack.\n\nCurrent Bonus: |cffffff0|r%",
           "stacks": 1
         },
         {
           "abilityId": 201443,
           "kind": "vision",
           "name": "Extended Favor",
-          "description": "Your major and minor effects last longer.\n\nMajor and Minor effect durations increased by |cffffff62|r% per stack.\n\nCurrent Bonus: |cffffff125|r%",
+          "description": "Your major and minor effects last longer.\n\nMajor and Minor effect durations increased by |cffffff62|r% per stack.\n\nCurrent Bonus: |cffffff0|r%",
           "stacks": 2
         },
         {
           "abilityId": 201491,
           "kind": "vision",
           "name": "Attuned Enchantments",
-          "description": "Your weapon enchantments are more effective!\n\nWeapon enchantment effectiveness increased by |cffffff75|r% per stack.\n\nCurrent Bonus: |cffffff150|r%",
+          "description": "Your weapon enchantments are more effective!\n\nWeapon enchantment effectiveness increased by |cffffff75|r% per stack.\n\nCurrent Bonus: |cffffff0|r%",
           "stacks": 2
         },
         {
           "abilityId": 202510,
           "kind": "vision",
           "name": "Crystalline Support",
-          "description": "Frost surges to your defense.\n\nIntermittently burst out frost |cffffff10|r meters around you snaring enemies by |cffffff93|r%.\n\n|cFFFFFFPART OF THE CRYSTALLINE SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Crystalline Visions you gain access to the Ice Avatar Defensive Verse.",
+          "description": "Frost surges to your defense.\n\nIntermittently burst out frost |cffffff10|r meters around you snaring enemies by |cffffff93|r%.\n\n|cFFFFFFPART OF THE CRYSTALLINE SET (|r|cffffff0|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Crystalline Visions you gain access to the Ice Avatar Defensive Verse.",
           "stacks": 1
         },
         {
           "abilityId": 202743,
           "kind": "vision",
           "name": "Ferocious Support",
-          "description": "Your enemies bleed with every attack!\n\nHeavy Attacks cause enemies to bleed for |cffffff43554|r Bleed Damage over |cffffff6|r seconds.\n\n|cFFFFFFPART OF THE FEROCIOUS SET (|r|cffffff2|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Ferocious Visions you gain access to the Werewolf Behemoth Offensive Verse.",
+          "description": "Your enemies bleed with every attack!\n\nHeavy Attacks cause enemies to bleed for |cffffff36295|r Bleed Damage over |cffffff6|r seconds.\n\n|cFFFFFFPART OF THE FEROCIOUS SET (|r|cffffff0|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Ferocious Visions you gain access to the Werewolf Behemoth Offensive Verse.",
           "stacks": 1
         },
         {
           "abilityId": 202804,
           "kind": "vision",
           "name": "Scorching Support",
-          "description": "Lava gathers where you stand!\n\nEvery |cffffff15|r seconds during combat you have a 50% chance to place a lava pool at your feet. The lava pool deals |cffffff6533|r Flame Damage every |cffffff0.5|r seconds and applies a |cffffff62|r% snare to enemies within |cffffff5|r meters.\n\n|cFFFFFFPART OF THE SCORCHING SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Scorching Visions you gain access to the Iron Atronach Utility Verse.",
+          "description": "Lava gathers where you stand!\n\nEvery |cffffff15|r seconds during combat you have a 50% chance to place a lava pool at your feet. The lava pool deals |cffffff5496|r Flame Damage every |cffffff0.5|r seconds and applies a |cffffff62|r% snare to enemies within |cffffff5|r meters.\n\n|cFFFFFFPART OF THE SCORCHING SET (|r|cffffff0|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Scorching Visions you gain access to the Iron Atronach Utility Verse.",
           "stacks": 1
         },
         {
           "abilityId": 220557,
           "kind": "vision",
           "name": "Necrotic Fortification",
-          "description": "Magic breaks against your defenses!\n\nMagic Damage taken decreased by |cffffff10|r%.\n\n|cFFFFFFPART OF THE NECROTIC SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Necrotic Visions you gain access to the Undead Avatar Offensive Verse.",
+          "description": "Magic breaks against your defenses!\n\nMagic Damage taken decreased by |cffffff10|r%.\n\n|cFFFFFFPART OF THE NECROTIC SET (|r|cffffff0|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Necrotic Visions you gain access to the Undead Avatar Offensive Verse.",
           "stacks": 1
         },
         {
           "abilityId": 220563,
           "kind": "vision",
           "name": "Necrotic Strikes",
-          "description": "The creeping power of undeath is at your disposal!\n\nDamage dealt by Magic attacks increased by |cffffff20|r%.\n\n|cFFFFFFPART OF THE NECROTIC SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Necrotic Visions you gain access to the Undead Avatar Offensive Verse.",
+          "description": "The creeping power of undeath is at your disposal!\n\nDamage dealt by Magic attacks increased by |cffffff20|r%.\n\n|cFFFFFFPART OF THE NECROTIC SET (|r|cffffff0|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Necrotic Visions you gain access to the Undead Avatar Offensive Verse.",
           "stacks": 1
         },
         {
           "abilityId": 220568,
           "kind": "vision",
           "name": "Necrotic Support",
-          "description": "Fallen enemies restore your vigor!\n\nEvery enemy slain during combat restores |cffffff4601|r Health, |cffffff1337|r Magicka, and |cffffff1260|r Stamina.\n\n|cFFFFFFPART OF THE NECROTIC SET (|r|cffffff3|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Necrotic Visions you gain access to the Undead Avatar Offensive Verse.",
+          "description": "Fallen enemies restore your vigor!\n\nEvery enemy slain during combat restores |cffffff3558|r Health, |cffffff1337|r Magicka, and |cffffff1260|r Stamina.\n\n|cFFFFFFPART OF THE NECROTIC SET (|r|cffffff0|r|cFFFFFF/3 VISIONS)|r\nWhen you acquire |cFFFFFF3|r unique Necrotic Visions you gain access to the Undead Avatar Offensive Verse.",
           "stacks": 1
         },
         {
           "abilityId": 220775,
           "kind": "vision",
           "name": "Apocryphal Emissary",
-          "description": "An emissary from Apocrypha comes to your defense!\n\nThis protector aids you during combat and grants you permanent boons from Apocrypha's infinite pages.\n\nEach stack reduces the cost of Bash by |cffffff25|r%.\n\n1 Stack: |cffffffMinor Protection|r\n2 Stacks: |cffffffMinor Resolve|r\n3 Stacks: |cffffffMinor Toughness|r\n\nCurrent Bonus: |cffffff75|r%",
+          "description": "An emissary from Apocrypha comes to your defense!\n\nThis protector aids you during combat and grants you permanent boons from Apocrypha's infinite pages.\n\nEach stack reduces the cost of Bash by |cffffff25|r%.\n\n1 Stack: |cffffffMinor Protection|r\n2 Stacks: |cffffffMinor Resolve|r\n3 Stacks: |cffffffMinor Toughness|r\n\nCurrent Bonus: |cffffff0|r%",
           "stacks": 3
         },
         {
           "abilityId": 222405,
           "kind": "vision",
           "name": "Adaptive Defender",
-          "description": "Reinforce your defenses when you are more vulnerable!\n\nFor every |cffffff9|r% of missing health, you take |cffffff1|r% less damage. This reduction has a limit based on the number of stacks obtained.\n\nEach stack increases the limit by |cffffff4|r%.\n\nCurrent Damage Taken Limit: |cffffff-|r|cffffff12|r%.",
+          "description": "Reinforce your defenses when you are more vulnerable!\n\nFor every |cffffff20|r% of missing health, you take |cffffff1|r% less damage. This reduction has a limit based on the number of stacks obtained.\n\nEach stack increases the limit by |cffffff4|r%.\n\nCurrent Damage Taken Limit: |cffffff-|r|cffffff0|r%.",
           "stacks": 3
         }
       ]
@@ -29407,38 +29386,38 @@
       "capturedAt": 1792108967,
       "inCombat": false,
       "stats": {
-        "magicka-maximum": 19547,
-        "stamina-recovery": 848,
-        "magicka-recovery": 1112,
-        "critical-rating-weapon": 5130,
-        "health-recovery": 3856,
-        "resistance-critical": 1320,
-        "penetration-spell": 700,
-        "resistance-physical": 27941,
-        "power-spell": 3000,
-        "resistance-spell": 27941,
-        "health-maximum": 65472,
-        "penetration-physical": 700,
         "critical-rating-spell": 5130,
+        "penetration-physical": 700,
+        "critical-rating-weapon": 5130,
+        "stamina-recovery": 848,
+        "power-spell": 3000,
+        "stamina-maximum": 18446,
+        "health-maximum": 65472,
         "power-weapon": 3000,
-        "stamina-maximum": 18446
+        "magicka-maximum": 19547,
+        "health-recovery": 3856,
+        "penetration-spell": 700,
+        "resistance-spell": 27941,
+        "resistance-physical": 27941,
+        "resistance-critical": 1320,
+        "magicka-recovery": 1112
       },
       "unbonusedStats": {
-        "magicka-maximum": 19547,
-        "stamina-recovery": 848,
-        "magicka-recovery": 1112,
-        "critical-rating-weapon": 2181,
-        "health-recovery": 3856,
-        "resistance-critical": 0,
-        "penetration-spell": 0,
-        "resistance-physical": 0,
-        "power-spell": 1000,
-        "resistance-spell": 0,
-        "health-maximum": 65472,
-        "penetration-physical": 0,
         "critical-rating-spell": 2181,
+        "penetration-physical": 0,
+        "critical-rating-weapon": 2181,
+        "stamina-recovery": 848,
+        "power-spell": 1000,
+        "stamina-maximum": 18446,
+        "health-maximum": 65472,
         "power-weapon": 1000,
-        "stamina-maximum": 18446
+        "magicka-maximum": 19547,
+        "health-recovery": 3856,
+        "penetration-spell": 0,
+        "resistance-spell": 0,
+        "resistance-physical": 0,
+        "resistance-critical": 0,
+        "magicka-recovery": 1112
       },
       "activeBuffs": [
         {
