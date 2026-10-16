@@ -20,5 +20,6 @@ export const sylASlimeMonsterEvolutionLitrpg0068Chapter440GenerousGifts = {
     },
   ],
   createdAt: "2026-10-16T07:05:48.931Z",
-  updatedAt: "2026-10-16T07:05:48.931Z",
+  updatedAt: "2026-10-16T11:06:46.357Z",
+  ownProgress: 2204,
 } as const satisfies StoryChapterRead

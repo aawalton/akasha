@@ -20,5 +20,6 @@ export const catGirlEvolution0178175Loot = {
     },
   ],
   createdAt: "2026-10-16T08:05:56.610Z",
-  updatedAt: "2026-10-16T08:05:56.610Z",
+  updatedAt: "2026-10-16T11:06:46.357Z",
+  ownProgress: 2524,
 } as const satisfies StoryChapterRead
