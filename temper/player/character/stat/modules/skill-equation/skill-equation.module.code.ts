@@ -8,7 +8,7 @@ export type EquationStats = {
   readonly weaponDamage: number
 }
 
-export type Equation = {
+type Equation = {
   readonly placeholder: number
   readonly terms: readonly (readonly [keyof EquationStats, number])[]
   readonly constant: number
