@@ -109,17 +109,31 @@ def api(method, path, body = nil)
   deny!("#{method} #{path} #{res.code}") if res.code == "401" || res.code == "403"
   [res.code, (res.body.nil? || res.body.empty? ? {} : JSON.parse(res.body))]
 end
-code, certs = api("GET", "/v1/certificates?limit=200")
-fail_asc("cannot list certificates (#{code})") unless code == "200"
-cert = (certs["data"] || []).find do |c|
+def list(what, path)
+  data = []
+  while path
+    body = nil
+    3.times do |attempt|
+      code, body = api("GET", path)
+      break if code == "200"
+      fail_asc("cannot list #{what} (#{code})") if code.to_i < 500 || attempt == 2
+      sleep(2 * (attempt + 1))
+    end
+    data.concat(body["data"] || [])
+    path = body.dig("links","next")&.delete_prefix("https://api.appstoreconnect.apple.com")
+  end
+  data
+end
+certs = list("certificates", "/v1/certificates?limit=200")
+cert = certs.find do |c|
   next false unless (c.dig("attributes","certificateType") || "").include?("DISTRIBUTION")
   content = c.dig("attributes","certificateContent"); next false unless content
   OpenSSL::Digest::SHA1.new(OpenSSL::X509::Certificate.new(Base64.decode64(content)).to_der).hexdigest.downcase == CERT_SHA1
 end
 fail_kc("local distribution cert not registered in App Store Connect") unless cert
 cert_id = cert["id"]
-code, bids = api("GET", "/v1/bundleIds?limit=200")
-bid = (bids["data"] || []).find { |b| b.dig("attributes","identifier") == BUNDLE }
+bids = list("bundle ids", "/v1/bundleIds?filter%5Bidentifier%5D=#{BUNDLE}&limit=200")
+bid = bids.find { |b| b.dig("attributes","identifier") == BUNDLE }
 unless bid
   code, created = api("POST", "/v1/bundleIds", {data:{type:"bundleIds",attributes:{identifier:BUNDLE,name:BUNDLE.gsub(".", " "),platform:"IOS"}}})
   fail_asc("cannot register bundle id (#{code})") unless code == "201"
@@ -132,9 +146,7 @@ caps_new = false
   fail_asc("cannot enable #{cap} capability (#{code})") unless code == "201" || code == "409"
   caps_new = true if code == "201"
 end
-code, profs = api("GET", "/v1/profiles?limit=200&include=bundleId,certificates")
-data = profs["data"] || []
-mine = data.select do |p|
+mine = list("profiles", "/v1/profiles?limit=200&include=bundleId,certificates").select do |p|
   a = p["attributes"]; b = p.dig("relationships","bundleId","data")
   a["profileType"] == "IOS_APP_STORE" && b && b["id"] == bid_id
 end

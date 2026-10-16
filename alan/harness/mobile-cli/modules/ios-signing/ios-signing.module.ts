@@ -50,9 +50,17 @@ export const iosSigning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A list App Store Connect answers with a 5xx is asked again three times.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A list App Store Connect answers with anything but a 200 is never read as empty.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run failing after the delete leaves the bundle no profile until the next run.",
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-16T13:35:30.712Z",
 } as const satisfies Module

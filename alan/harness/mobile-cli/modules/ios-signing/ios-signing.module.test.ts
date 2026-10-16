@@ -161,6 +161,14 @@ describe("buildEnsureAppStoreProfile", () => {
     expect(s).toContain("sleep(2 * (attempt + 1))")
   })
 
+  test("a list read only off a 200, asked again on a 5xx, and followed past its first page", () => {
+    expect(s).toContain('fail_asc("cannot list #{what} (#{code})") if code.to_i < 500')
+    expect(s).toContain('body.dig("links","next")')
+    expect(s).toContain('list("bundle ids", "/v1/bundleIds?filter%5Bidentifier%5D=#{BUNDLE}')
+    expect(s).not.toContain('api("GET", "/v1/bundleIds')
+    expect(s).not.toContain('api("GET", "/v1/profiles?')
+  })
+
   test("a failing profile call says ASC_PROFILE_ERROR rather than blaming the keychain", () => {
     expect(s).toContain("ASC_PROFILE_ERROR")
     expect(s).toContain('fail_asc("cannot create app-store profile')
