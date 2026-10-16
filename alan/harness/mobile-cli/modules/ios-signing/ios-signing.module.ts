@@ -58,9 +58,14 @@ export const iosSigning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A call that times out, loses its connection or answers no JSON is asked again as a 5xx is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run failing after the delete leaves the bundle no profile until the next run.",
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-10-16T13:40:15.267Z",
+  updatedAt: "2026-10-16T13:51:05.561Z",
 } as const satisfies Module

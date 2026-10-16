@@ -105,9 +105,13 @@ def api(method, path, body = nil)
   klass = {"GET"=>Net::HTTP::Get,"POST"=>Net::HTTP::Post,"DELETE"=>Net::HTTP::Delete}[method]
   req = klass.new(uri); req["Authorization"] = "Bearer #{JWT}"; req["Content-Type"] = "application/json"
   req.body = body.to_json if body
-  res = Net::HTTP.start(uri.host, uri.port, use_ssl: true) { |h| h.request(req) }
-  deny!("#{method} #{path} #{res.code}") if res.code == "401" || res.code == "403"
-  [res.code, (res.body.nil? || res.body.empty? ? {} : JSON.parse(res.body))]
+  begin
+    res = Net::HTTP.start(uri.host, uri.port, use_ssl: true) { |h| h.request(req) }
+    deny!("#{method} #{path} #{res.code}") if res.code == "401" || res.code == "403"
+    [res.code, (res.body.nil? || res.body.empty? ? {} : JSON.parse(res.body))]
+  rescue Timeout::Error, SocketError, SystemCallError, IOError, OpenSSL::SSL::SSLError, JSON::ParserError => e
+    ["599 #{e.class}", {}]
+  end
 end
 def get(what, path)
   3.times do |attempt|

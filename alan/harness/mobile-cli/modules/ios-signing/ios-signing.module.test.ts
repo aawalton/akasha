@@ -170,6 +170,11 @@ describe("buildEnsureAppStoreProfile", () => {
     expect(s).not.toContain('api("GET", "/v1/profiles?')
   })
 
+  test("a call that times out or loses its connection answers as a 5xx, so it is asked again", () => {
+    expect(s).toContain("rescue Timeout::Error, SocketError, SystemCallError, IOError")
+    expect(s).toContain('["599 #{e.class}", {}]')
+  })
+
   test("a failing profile call says ASC_PROFILE_ERROR rather than blaming the keychain", () => {
     expect(s).toContain("ASC_PROFILE_ERROR")
     expect(s).toContain('fail_asc("cannot create app-store profile')
