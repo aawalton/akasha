@@ -175,6 +175,12 @@ describe("buildEnsureAppStoreProfile", () => {
     expect(s).toContain('["599 #{e.class}", {}]')
   })
 
+  test("a capability answering a 5xx is asked again, and a retried one remakes the profile", () => {
+    expect(s).toContain('api("POST", "/v1/bundleIdCapabilities"')
+    expect(s).toContain("retried = true")
+    expect(s).toContain('caps_new = true if code == "201" || retried')
+  })
+
   test("a failing profile call says ASC_PROFILE_ERROR rather than blaming the keychain", () => {
     expect(s).toContain("ASC_PROFILE_ERROR")
     expect(s).toContain('fail_asc("cannot create app-store profile')

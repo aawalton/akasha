@@ -50,6 +50,15 @@ export const iosSigning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A capability App Store Connect answers with a 5xx is asked again three times.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A capability that took more than one ask remakes the profile as one just enabled does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A read App Store Connect answers with a 5xx is asked again three times.",
     },
     {
@@ -67,5 +76,5 @@ export const iosSigning = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-10-16T13:51:05.561Z",
+  updatedAt: "2026-10-16T13:54:49.713Z",
 } as const satisfies Module

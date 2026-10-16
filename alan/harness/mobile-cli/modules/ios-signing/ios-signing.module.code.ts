@@ -148,9 +148,15 @@ end
 bid_id = bid["id"]
 caps_new = false
 (ENV["ASC_ENSURE_CAPABILITIES"] || "").split(",").map(&:strip).reject(&:empty?).each do |cap|
-  code, _ = api("POST", "/v1/bundleIdCapabilities", {data:{type:"bundleIdCapabilities",attributes:{capabilityType:cap},relationships:{bundleId:{data:{type:"bundleIds",id:bid_id}}}}})
+  code = nil; retried = false
+  3.times do |attempt|
+    code, _ = api("POST", "/v1/bundleIdCapabilities", {data:{type:"bundleIdCapabilities",attributes:{capabilityType:cap},relationships:{bundleId:{data:{type:"bundleIds",id:bid_id}}}}})
+    break if code.to_i < 500
+    retried = true
+    sleep(2 * (attempt + 1))
+  end
   fail_asc("cannot enable #{cap} capability (#{code})") unless code == "201" || code == "409"
-  caps_new = true if code == "201"
+  caps_new = true if code == "201" || retried
 end
 mine = list("profiles", "/v1/profiles?limit=200&include=bundleId,certificates").select do |p|
   a = p["attributes"]; b = p.dig("relationships","bundleId","data")
