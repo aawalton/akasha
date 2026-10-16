@@ -16,7 +16,8 @@ export const theApothecaryDiaries = {
       externalId: "81712068",
       externalLink: "https://www.netflix.com/title/81712068",
     },
+    { source: "tmdb", externalId: "220542", externalLink: "https://www.themoviedb.org/tv/220542" },
   ],
   createdAt: "2026-10-14T18:59:02.711Z",
-  updatedAt: "2026-10-14T18:59:02.711Z",
+  updatedAt: "2026-10-16T11:34:24.319Z",
 } as const satisfies Show
