@@ -20,5 +20,6 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0272Vol5Chapter244Emancipat
     },
   ],
   createdAt: "2026-10-16T13:05:37.843Z",
-  updatedAt: "2026-10-16T13:05:37.843Z",
+  updatedAt: "2026-10-16T16:04:47.853Z",
+  ownProgress: 2109,
 } as const satisfies StoryChapterRead
