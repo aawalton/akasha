@@ -13882,11 +13882,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "seen": [
       5,
       3,
@@ -13907,46 +13907,46 @@
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-15",
-    "misplaced": 41
+    "date": "2026-10-16",
+    "misplaced": 48
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792069042,
+      "capturedAt": 1792148391,
       "inCombat": false,
       "stats": {
-        "penetration-physical": 10206,
-        "power-weapon": 4598,
-        "resistance-spell": 18638,
-        "power-spell": 4598,
-        "penetration-spell": 10206,
-        "magicka-maximum": 14430,
         "health-recovery": 479,
-        "resistance-physical": 18638,
+        "resistance-spell": 18638,
         "critical-rating-spell": 3135,
-        "magicka-recovery": 664,
-        "stamina-maximum": 28392,
-        "health-maximum": 19756,
+        "power-weapon": 4598,
+        "penetration-spell": 10206,
         "stamina-recovery": 856,
+        "health-maximum": 19756,
+        "penetration-physical": 10206,
+        "power-spell": 4598,
+        "critical-rating-weapon": 3135,
+        "stamina-maximum": 28392,
+        "resistance-physical": 18638,
         "resistance-critical": 1320,
-        "critical-rating-weapon": 3135
+        "magicka-maximum": 14430,
+        "magicka-recovery": 664
       },
       "unbonusedStats": {
-        "penetration-physical": 0,
-        "power-weapon": 1000,
-        "resistance-spell": 0,
-        "power-spell": 1000,
-        "penetration-spell": 0,
-        "magicka-maximum": 14430,
         "health-recovery": 479,
-        "resistance-physical": 0,
+        "resistance-spell": 0,
         "critical-rating-spell": 2181,
-        "magicka-recovery": 664,
-        "stamina-maximum": 28392,
-        "health-maximum": 19756,
+        "power-weapon": 1000,
+        "penetration-spell": 0,
         "stamina-recovery": 856,
+        "health-maximum": 19756,
+        "penetration-physical": 0,
+        "power-spell": 1000,
+        "critical-rating-weapon": 2181,
+        "stamina-maximum": 28392,
+        "resistance-physical": 0,
         "resistance-critical": 0,
-        "critical-rating-weapon": 2181
+        "magicka-maximum": 14430,
+        "magicka-recovery": 664
       },
       "activeBuffs": [
         {
@@ -14647,7 +14647,8 @@
           "durationMs": 30000,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 4,
@@ -14657,7 +14658,8 @@
           "durationMs": 0,
           "castMs": 300,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 5,
@@ -14667,7 +14669,8 @@
           "durationMs": 0,
           "castMs": 4500,
           "channeled": true,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 6,
@@ -14677,7 +14680,8 @@
           "durationMs": 5000,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 7,
@@ -14687,9 +14691,74 @@
           "durationMs": 8000,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         }
-      ]
+      ],
+      "classPassives": [
+        {
+          "abilityId": 184847,
+          "name": "Fated Fortune",
+          "description": "Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by |cffffff12|r% for |cffffff7|r seconds."
+        },
+        {
+          "abilityId": 184858,
+          "name": "Harnessed Quintessence",
+          "description": "You master the warp and weft of your very soul. \n\nWhen you restore Magicka or Stamina, your Weapon and Spell Damage increase by |cffffff284|r for |cffffff10|r seconds."
+        },
+        {
+          "abilityId": 184873,
+          "name": "Psychic Lesion",
+          "description": "Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by |cffffff15|r% and Status Effect Chance by |cffffff55|r%."
+        },
+        {
+          "abilityId": 184887,
+          "name": "Splintered Secrets",
+          "description": "What they don't know can kill them. Increase your Physical and Spell Penetration by |cffffff1240|r per Herald of the Tome ability slotted.\n\nCurrent bonus: |cffffff3720|r."
+        },
+        {
+          "abilityId": 44046,
+          "name": "Piercing Spear",
+          "description": "Increases your Critical Damage by |cffffff12|r%. \n\nIncreases your damage done to blocking players by |cffffff12|r%."
+        },
+        {
+          "abilityId": 44721,
+          "name": "Spear Wall",
+          "description": "Gain Minor Berserk and Minor Protection for |cffffff6|r seconds, increasing damage done and reducing damage taken by |cffffff5|r%."
+        },
+        {
+          "abilityId": 44730,
+          "name": "Burning Light",
+          "description": "When you deal damage you generate a stack of Burning Light for |cffffff3|r seconds. After reaching |cffffff4|r stacks, you deal |cffffff2637|r Magic Damage to your target. This effect can stack once every half second and scales off the higher of your Weapon or Spell Damage."
+        },
+        {
+          "abilityId": 44732,
+          "name": "Balanced Warrior",
+          "description": "Increases your Armor for each Templar ability slotted.\n\nIncreases your Weapon and Spell Damage based on your total Armor and number of Templar abilities slotted.\n\nCurrent bonus:\n|cffffff2|r% Armor\n|cffffff149|r Weapon and Spell Damage"
+        },
+        {
+          "abilityId": 45038,
+          "name": "Master Assassin",
+          "description": "Increases your Critical Chance rating against enemies you are flanking by |cffffff1448|r, increasing your chance to critically strike by |cffffff|6.6|r%."
+        },
+        {
+          "abilityId": 45048,
+          "name": "Executioner",
+          "description": "When an enemy dies within |cffffff2|r seconds of being damaged by you, you restore |cffffff1000|r Magicka and Stamina."
+        },
+        {
+          "abilityId": 45053,
+          "name": "Pressure Points",
+          "description": "Increases your Critical Chance rating by |cffffff438|r for each Nightblade ability slotted, increasing your chance to critically strike by |cffffff2|r% per ability.\n\nCurrent bonus: |cffffff0|r."
+        },
+        {
+          "abilityId": 45060,
+          "name": "Hemorrhage",
+          "description": "Increases your Critical Damage by |cffffff10|r%. \n\nCritically striking in any form grants you and your group Minor Savagery, increasing Critical Chance by |cffffff6|r% for |cffffff20|r seconds."
+        }
+      ],
+      "inArchive": false,
+      "archiveBoons": []
     }
   }
 }
