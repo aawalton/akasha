@@ -3,7 +3,7 @@ export type EnchantProc = {
   readonly healing: number
 }
 
-export const ENCHANT_PROC_SECONDS = 4
+const ENCHANT_PROC_SECONDS = 4
 
 const COLOR = /\|c[0-9a-fA-F]{6}|\|r/g
 
