@@ -10,14 +10,6 @@ export const watchingLog = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A link is read for its provider and the id that provider gives the title.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A link to neither Netflix nor Prime Video is refused.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A page stating the provider and the id is the page logged.",
     },
     {
@@ -31,15 +23,27 @@ export const watchingLog = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A title no page holds is looked up on Wikidata by the provider's id.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A Prime Video title Wikidata does not hold is read from its Prime Video page.",
+      statement: "A title no page holds is looked up by the provider's id.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A title no lookup answers is refused, and nothing is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call saying `--episode` logs one more episode of a show as watched.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A film is refused `--episode`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call saying `--episode` says no status.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A show no page holds is written before its episode is logged.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -58,12 +62,14 @@ export const watchingLog = {
       statement: "A call naming no status logs the title as in progress.",
     },
   ],
+  parts: ["module/episode-watching", "module/title-knowing"],
   name: "log",
   arguments: [
     { argument: "argument/link", required: true },
-    { argument: "argument/collection-status", default: "in-progress" },
+    { argument: "argument/collection-status" },
+    { argument: "argument/episode", notWith: ["argument/collection-status"] },
     { argument: "argument/day" },
   ],
   createdAt: "2026-10-14T19:15:57.587Z",
-  updatedAt: "2026-10-14T19:15:57.587Z",
+  updatedAt: "2026-10-16T11:31:07.978Z",
 } as const satisfies Command

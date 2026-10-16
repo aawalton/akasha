@@ -1,12 +1,14 @@
 import { expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Calls } from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
 import {
-  type Calls,
-  freshValues,
   knownFromPrime,
   knownFromWikidata,
   linkedBy,
   slugOf,
+} from "akasha/command/pages/watching/log/modules/title-knowing/title-knowing.module.code.ts"
+import {
+  freshValues,
   watchingLog,
 } from "akasha/command/pages/watching/log/watching-log.command.code.ts"
 import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
@@ -76,18 +78,20 @@ test("a title is slugged in lowercase kebab", () => {
   expect(slugOf("SHIBOYUGI: Playing Death Games")).toBe("shiboyugi-playing-death-games")
 })
 
-test("a Wikidata series reads as a show from the day it started", () => {
+test("a Wikidata series reads as a show from the day it started, with its TMDB id", () => {
   const said = wikidataSaying({
     label: "The Apothecary Diaries",
     film: "false",
     series: "true",
     started: "2023-10-22T00:00:00Z",
+    tmdb: "220542",
   })
   expect(knownFromWikidata(said)).toEqual({
     kind: "show",
     title: "The Apothecary Diaries",
     publishedAt: "2023-10-22",
     minutes: null,
+    tmdbId: "220542",
   })
 })
 
@@ -112,11 +116,17 @@ test("a Wikidata answer that is neither film nor series reads as nothing known",
 
 test("a Prime Video page naming a season reads as a show", () => {
   const known = knownFromPrime("<title>Prime Video: Young Sherlock - Season 1</title>")
-  expect(known).toEqual({ kind: "show", title: "Young Sherlock", publishedAt: null, minutes: null })
+  expect(known).toEqual({
+    kind: "show",
+    title: "Young Sherlock",
+    publishedAt: null,
+    minutes: null,
+    tmdbId: null,
+  })
 })
 
 test("a completed movie states its whole length as watched", () => {
-  const known = { kind: "movie", title: "A", publishedAt: null, minutes: 90 } as const
+  const known = { kind: "movie", title: "A", publishedAt: null, minutes: 90, tmdbId: null } as const
   const values = freshValues(known, NETFLIX, "completed", "2026-10-13")
   expect(values.ownProgress).toBe(90)
   expect(values.completedAt).toBe("2026-10-13")
@@ -130,6 +140,25 @@ test("a status that is no status is refused before anything is asked", async () 
     fake.calls
   )
   expect(said.refusals[0]).toContain("`watched` is no status")
+  expect(fake.written).toHaveLength(0)
+})
+
+test("a call saying both a status and an episode is refused", async () => {
+  const fake = fakeOf({}, {})
+  const said = await watchingLog(
+    ["--link", NETFLIX.externalLink, "--status", "completed", "--episode"],
+    GIVEN,
+    fake.calls
+  )
+  expect(said.refusals.length).toBeGreaterThan(0)
+  expect(fake.written).toHaveLength(0)
+})
+
+test("a film is refused an episode", async () => {
+  const row = { slug: "a", title: "A", status: "completed", externalIdentity: [NETFLIX] }
+  const fake = fakeOf({ movie: [row] }, null)
+  const said = await watchingLog(["--link", NETFLIX.externalLink, "--episode"], GIVEN, fake.calls)
+  expect(said.refusals[0]).toContain("a film has no episodes")
   expect(fake.written).toHaveLength(0)
 })
 
