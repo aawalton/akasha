@@ -2716,7 +2716,7 @@
     },
     "117": {
       "currentRank": 3,
-      "currentXP": 20,
+      "currentXP": 25,
       "nextRankXP": 30
     },
     "130": {
@@ -4071,8 +4071,9 @@
     "3": {
       "28": [
         28,
-        77,
-        37
+        37,
+        66,
+        77
       ]
     }
   },
@@ -5254,8 +5255,8 @@
     }
   },
   "skillPoints": {
-    "total": 360,
-    "unassigned": 15,
+    "total": 361,
+    "unassigned": 16,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -5265,7 +5266,7 @@
     "endlessArchive": 0,
     "skyshardPoints": 173,
     "totalSkyshards": 520,
-    "zoneQuestTotal": 59,
+    "zoneQuestTotal": 60,
     "groupDungeonTotal": 0,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -5338,7 +5339,7 @@
       "EP3": 3,
       "DC1": 4,
       "TD": 0,
-      "HB": 5,
+      "HB": 6,
       "WW": 0,
       "EP0a": 0,
       "AP": 0,
@@ -7463,6 +7464,7 @@
     5531,
     5532,
     5534,
+    5545,
     5549,
     5556,
     5733,
@@ -10937,7 +10939,8 @@
         1,
         2,
         3,
-        4
+        4,
+        5
       ],
       "2": [
         1,
@@ -13673,11 +13676,11 @@
   },
   "inventoryCheck": {
     "date": "2026-10-16",
-    "misplaced": 85
+    "misplaced": 88
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792156669,
+      "capturedAt": 1792157230,
       "inCombat": false,
       "stats": {
         "resistance-physical": 20136,
@@ -14322,7 +14325,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:205386:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:0:0:1:0:9400:0|h|h",
+          "link": "|H0:item:205386:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:0:0:1:0:9300:0|h|h",
           "armor": 1221,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14338,7 +14341,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:4850:0|h|h",
+          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:4550:0|h|h",
           "armor": 2012,
           "enchant": "Adds |cffffff802|r Maximum Stamina.",
           "trait": "Reduces the cost of Roll Dodge and Sprint by |cffffff4.8|r%.",
@@ -14354,7 +14357,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:149437:363:50:0:0:0:5:25:0:0:0:0:0:0:2049:84:0:1:0:140:0|h|h",
+          "link": "|H0:item:149437:363:50:0:0:0:5:25:0:0:0:0:0:0:2049:84:0:1:0:138:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff1859|r Physical Damage and restores |cffffff327|r Stamina.",
           "trait": "Increases Physical and Spell Resistance by |cffffff3161|r.",
@@ -14370,7 +14373,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:96976:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:3200:0|h|h",
+          "link": "|H0:item:96976:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:3100:0|h|h",
           "armor": 1760,
           "enchant": "Adds |cffffff802|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
@@ -14378,7 +14381,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:96973:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:10000:0|h|h",
+          "link": "|H0:item:96973:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:9800:0|h|h",
           "armor": 1760,
           "enchant": "Adds |cffffff324|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
