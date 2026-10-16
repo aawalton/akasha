@@ -10,7 +10,7 @@ const WAVE = /every (\d+) seconds?, deal(?:s|ing) (\d+) \w+ Damage/i
 
 const HIT = /deal(?:s|ing) (\d+) \w+ Damage/i
 
-export const NO_DAMAGE: SkillDamage = { hit: 0, wave: 0, waveSeconds: 0 }
+const NO_DAMAGE: SkillDamage = { hit: 0, wave: 0, waveSeconds: 0 }
 
 export function readSkillDamage(description: string): SkillDamage {
   const text = description.replace(COLOR, "").replace(/\s+/g, " ")
