@@ -169,14 +169,27 @@ end
 match = nil if caps_new
 unless match
   mine.each { |p| api("DELETE", "/v1/profiles/#{p["id"]}") }
-  made = nil
+  made = nil; retried = false
   3.times do |attempt|
     code, created = api("POST", "/v1/profiles", {data:{type:"profiles",attributes:{name:PROFILE_NAME,profileType:"IOS_APP_STORE"},relationships:{bundleId:{data:{type:"bundleIds",id:bid_id}},certificates:{data:[{type:"certificates",id:cert_id}]}}}})
     if code == "201"
       made = created
       break
     end
+    if code == "409" && retried
+      named = list("profiles", "/v1/profiles?limit=200&include=bundleId,certificates").select do |p|
+        p.dig("relationships","bundleId","data","id") == bid_id && p.dig("attributes","name") == PROFILE_NAME
+      end
+      kept = named.find { |p| p.dig("attributes","profileState") == "ACTIVE" }
+      if kept
+        made = {"data" => kept}
+        break
+      end
+      named.each { |p| api("DELETE", "/v1/profiles/#{p["id"]}") }
+      next
+    end
     fail_asc("cannot create app-store profile (#{code})") if code.to_i < 500
+    retried = true
     sleep(2 * (attempt + 1))
   end
   fail_asc("App Store Connect would not make the app-store profile in three tries") unless made

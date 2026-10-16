@@ -175,6 +175,13 @@ describe("buildEnsureAppStoreProfile", () => {
     expect(s).toContain('["599 #{e.class}", {}]')
   })
 
+  test("a create refused 409 after a failed ask takes the profile that ask made, or clears it", () => {
+    expect(s).toContain('if code == "409" && retried')
+    expect(s).toContain('p.dig("attributes","name") == PROFILE_NAME')
+    expect(s).toContain('made = {"data" => kept}')
+    expect(s).toContain('named.each { |p| api("DELETE", "/v1/profiles/#{p["id"]}") }')
+  })
+
   test("a capability answering a 5xx is asked again, and a retried one remakes the profile", () => {
     expect(s).toContain('api("POST", "/v1/bundleIdCapabilities"')
     expect(s).toContain("retried = true")

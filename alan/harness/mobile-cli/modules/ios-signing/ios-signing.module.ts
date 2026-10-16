@@ -50,6 +50,10 @@ export const iosSigning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A duplicate refused after a failed create is taken where active, else deleted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A capability App Store Connect answers with a 5xx is asked again three times.",
     },
     {
@@ -76,5 +80,5 @@ export const iosSigning = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-10-16T13:54:49.713Z",
+  updatedAt: "2026-10-16T14:08:44.026Z",
 } as const satisfies Module
