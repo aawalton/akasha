@@ -50,11 +50,11 @@ export const iosSigning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A list App Store Connect answers with a 5xx is asked again three times.",
+      statement: "A read App Store Connect answers with a 5xx is asked again three times.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A list App Store Connect answers with anything but a 200 is never read as empty.",
+      statement: "A read App Store Connect answers with anything but a 200 is never read as empty.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,5 +62,5 @@ export const iosSigning = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-10-16T13:35:30.712Z",
+  updatedAt: "2026-10-16T13:40:15.267Z",
 } as const satisfies Module

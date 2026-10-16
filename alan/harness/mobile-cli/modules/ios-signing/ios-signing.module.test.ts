@@ -161,8 +161,9 @@ describe("buildEnsureAppStoreProfile", () => {
     expect(s).toContain("sleep(2 * (attempt + 1))")
   })
 
-  test("a list read only off a 200, asked again on a 5xx, and followed past its first page", () => {
-    expect(s).toContain('fail_asc("cannot list #{what} (#{code})") if code.to_i < 500')
+  test("a read taken only off a 200, asked again on a 5xx, and a list followed past its first page", () => {
+    expect(s).toContain('fail_asc("cannot read #{what} (#{code})") if code.to_i < 500')
+    expect(s).toContain('full = get("the ensured profile"')
     expect(s).toContain('body.dig("links","next")')
     expect(s).toContain('list("bundle ids", "/v1/bundleIds?filter%5Bidentifier%5D=#{BUNDLE}')
     expect(s).not.toContain('api("GET", "/v1/bundleIds')

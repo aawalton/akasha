@@ -109,16 +109,18 @@ def api(method, path, body = nil)
   deny!("#{method} #{path} #{res.code}") if res.code == "401" || res.code == "403"
   [res.code, (res.body.nil? || res.body.empty? ? {} : JSON.parse(res.body))]
 end
+def get(what, path)
+  3.times do |attempt|
+    code, body = api("GET", path)
+    return body if code == "200"
+    fail_asc("cannot read #{what} (#{code})") if code.to_i < 500 || attempt == 2
+    sleep(2 * (attempt + 1))
+  end
+end
 def list(what, path)
   data = []
   while path
-    body = nil
-    3.times do |attempt|
-      code, body = api("GET", path)
-      break if code == "200"
-      fail_asc("cannot list #{what} (#{code})") if code.to_i < 500 || attempt == 2
-      sleep(2 * (attempt + 1))
-    end
+    body = get(what, path)
     data.concat(body["data"] || [])
     path = body.dig("links","next")&.delete_prefix("https://api.appstoreconnect.apple.com")
   end
@@ -170,7 +172,7 @@ unless match
   fail_asc("App Store Connect would not make the app-store profile in three tries") unless made
   match = made["data"]
 end
-code, full = api("GET", "/v1/profiles/#{match["id"]}")
+full = get("the ensured profile", "/v1/profiles/#{match["id"]}")
 a = full.dig("data","attributes") || {}
 uuid = a["uuid"]; content = a["profileContent"]
 fail_asc("ensured profile has no uuid/content") unless uuid && content
