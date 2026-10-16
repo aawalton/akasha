@@ -20,5 +20,6 @@ export const emieAscended0066Chapter65 = {
     },
   ],
   createdAt: "2026-10-15T23:04:47.520Z",
-  updatedAt: "2026-10-15T23:04:47.520Z",
+  updatedAt: "2026-10-16T02:08:48.484Z",
+  ownProgress: 1793,
 } as const satisfies StoryChapterRead

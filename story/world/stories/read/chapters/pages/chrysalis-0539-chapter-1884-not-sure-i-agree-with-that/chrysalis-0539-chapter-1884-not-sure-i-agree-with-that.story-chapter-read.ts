@@ -20,5 +20,6 @@ export const chrysalis0539Chapter1884NotSureIAgreeWithThat = {
     },
   ],
   createdAt: "2026-10-16T01:08:35.724Z",
-  updatedAt: "2026-10-16T01:08:35.724Z",
+  updatedAt: "2026-10-16T02:08:48.484Z",
+  ownProgress: 983,
 } as const satisfies StoryChapterRead
