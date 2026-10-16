@@ -23,11 +23,11 @@ export const arianaGrande = {
       source: "spotify",
       externalId: "66CXWjxzNUsdJxJ2JdwvnR",
       externalLink: "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
-      lastSyncedAt: "2026-09-15",
+      lastSyncedAt: "2026-10-16",
     },
   ],
   title: "Ariana Grande",
   genre: ["pop", "r&b", "dance-pop", "contemporary r&b", "trap soul"],
   createdAt: "2026-06-08T01:36:34.465Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-16T13:47:13.369Z",
 } as const satisfies Artist
