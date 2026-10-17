@@ -374,4 +374,5 @@
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/supervisor-console-zeli-2026-10-14/supervisor-console-zeli-2026-10-14.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/supervisor-console-zeli-2026-10-15/supervisor-console-zeli-2026-10-15.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/supervisor-console-zeli-2026-10-16/supervisor-console-zeli-2026-10-16.seat-log-day.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/supervisor-console-zeli-2026-10-17/supervisor-console-zeli-2026-10-17.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
