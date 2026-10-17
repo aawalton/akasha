@@ -9,7 +9,7 @@ export const theKindsOfHarmSomeoneCouldDoMe = {
   parents: ["all-about-alan-topic/wanting-no-one-to-have-power-over-me"],
   related: ["all-about-alan-topic/when-an-unscripted-conversation-is-safe"],
   settled:
-    "I have not hit the click of compressed clarity on who has power over me yet, so I am thinking more clearly about the kinds of harm.\n\nFrom the top of my mind: physical, social, emotional, financial and reputation.",
+    "I have not hit the click of compressed clarity on who has power over me yet, so I am thinking more clearly about the kinds of harm.\n\nFrom the top of my mind: physical, social, emotional, financial and reputation.\n\nI am not certain the crash after a conversation guards against one kind first. It is mostly just guarding against pain. If I had to choose, it is the physical harm of overloading my nervous system, because of a high cost multiplier.",
   createdAt: "2026-10-17T15:52:32.535Z",
-  updatedAt: "2026-10-17T15:52:32.535Z",
+  updatedAt: "2026-10-17T15:54:24.384Z",
 } as const satisfies AllAboutAlanTopic
