@@ -9,7 +9,7 @@ export const thornford00013 = {
   position: 13,
   prose: "txt",
   characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/recorders",
   action:
     "\"I'd be delighted to come. I'll have to work hard though, to get both dresses done in time, which means it is time for me to sleep, which means it is time for you to go unless you are joining me.\"",
   beats: "jsonl",
@@ -20,10 +20,10 @@ export const thornford00013 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
   roleplayed: true,
   createdAt: "2026-10-17T21:57:23.678Z",
-  updatedAt: "2026-10-17T21:59:04.471Z",
+  updatedAt: "2026-10-17T21:59:14.542Z",
   ownLength: 164,
   endsAt: "2026-04-30T05:30:00.000Z",
 } as const satisfies StoryTurnPlayed
