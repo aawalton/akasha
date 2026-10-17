@@ -96,7 +96,15 @@ export const thornfordShaestrel = {
         "character-other/thornford-shaestrel",
       ],
     },
+    {
+      fact: "She said she would come at first light on April 30 with bread, and knock like a mortal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T20:36:43.997Z",
-  updatedAt: "2026-10-17T21:59:23.358Z",
+  updatedAt: "2026-10-17T21:59:36.058Z",
 } as const satisfies Lore

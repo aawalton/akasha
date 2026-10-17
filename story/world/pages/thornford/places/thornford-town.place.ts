@@ -35,7 +35,11 @@ export const thornfordTown = {
       fact: "The sun first shows over the valley on the morning before Beltane, and Beltane day is clear.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The rain stopped in the night, and the sun showed at dawn on April 30 after two days of rain.",
+      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
+    },
   ],
   createdAt: "2026-10-17T19:44:40.481Z",
-  updatedAt: "2026-10-17T20:48:57.552Z",
+  updatedAt: "2026-10-17T21:59:36.058Z",
 } as const satisfies Place
