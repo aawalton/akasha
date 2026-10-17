@@ -47,12 +47,21 @@ export const roleplay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role lands each turn's prose and the rolls it settles, and nothing else.",
+      statement:
+        "This role lands each turn's beats, its prose and the rolls it settles, and nothing else.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This role plans a turn's beats first, then writes the prose from them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn back at game-master waits on this role to mend its beats.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A roleplay-recorder in a second seat lands each turn's beats and numbers after its prose.",
+        "A roleplay-recorder in a second seat lands each turn's numbers and memory after its beats.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -65,7 +74,7 @@ export const roleplay = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "What this role narrates remains canon until the roleplay-recorder sends a fault in it.",
+        "What this role narrates remains canon until a turn comes back at game-master with a fault.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -76,14 +85,18 @@ export const roleplay = {
     {
       directiveKind: "directive-kind/rule",
       name: "Narrate The Turn",
-      act: "Hand each turn's prose in with `akasha story turn advance`, as soon as it is written.",
-      warrant: "Alan reads only the play screen, so prose left in this seat is never read.",
+      act: "Write each turn's beats first, then the prose from them, and hand both in with one advance.",
+      warrant: "Alan reads only the play screen, so a turn left in this seat is never read.",
       aids: [
-        "`akasha story turn advance --turn <turn> --prose-file <file> --character <character>`",
+        "`akasha story turn advance --turn <turn> --beats-file <beats> --prose-file <prose> --character <c>`",
+        "Write the beats as `agent/role/pages/game-master.role.ts` says under Scenes In The Beats.",
+        "One beat to a line, at most 100 characters; the last beat is the fork the turn ends on.",
+        "Tell every beat in the prose, and beat nothing the prose does not tell.",
         "The turn's page holds his action; an opening holds none.",
         "Open the prose with his action as it happens, his spoken words exactly as he wrote them.",
         "Name with `--character` each character present, silent or not.",
-        "Settle each roll before handing in the prose, since a roll lands on the latest turn.",
+        "Settle each roll before the advance, since a roll lands on the latest turn.",
+        "Settle the turn's time with `akasha story settle` before the advance; a refusal gives the call.",
       ],
     },
     {
@@ -100,7 +113,7 @@ export const roleplay = {
       directiveKind: "directive-kind/rule",
       name: "Start The Helpers",
       act: "Open a headless roleplay-recorder and roleplay-worldbuilder on this story first.",
-      warrant: "This role lands no beats and no lore, so what is played before they run is lost.",
+      warrant: "This role lands no numbers and no lore, so what is played before they run is lost.",
       aids: [
         "`akasha seat start --start-mode headless --role <role> --domain <story> --prompt-file -`",
         "The prompt, on stdin, names this seat and the story.",
@@ -110,9 +123,9 @@ export const roleplay = {
     {
       directiveKind: "directive-kind/rule",
       name: "Open With The Command",
-      act: "Make a story's first turn with `akasha story turn open --story <story>`, then hand in its prose.",
+      act: "Make a story's first turn with `akasha story turn open --story <story>`, then advance it.",
       warrant:
-        "A turn filed by hand skips the steps that land its beats, numbers and memory and push it to Alan.",
+        "A turn filed by hand skips the steps that land its numbers and memory and push it to Alan.",
       aids: [
         "The opening waits at world-builder on your advance, as every turn does.",
         "Start the helpers first, since only a helper already up is told the opening moved.",
@@ -149,10 +162,10 @@ export const roleplay = {
       directiveKind: "directive-kind/rule",
       name: "Out Of Character",
       act: "Put every out-of-character line in square brackets, and read Alan's bracketed lines so too.",
-      warrant:
-        "An unmarked aside reads exactly like narration, and the roleplay-recorder lands narration as canon.",
+      warrant: "An unmarked aside reads exactly like narration, and narration lands as canon.",
       aids: [
         "A correction is out of character.",
+        "Never make a bracketed paragraph into a beat.",
         "An aside in a turn's prose is a paragraph of its own, wholly in brackets.",
         "Alan's bracketed line is said to you, never an act of his character.",
         "Answer Alan's bracketed line as a bracketed paragraph opening the next turn.",
@@ -160,8 +173,21 @@ export const roleplay = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Mend At Game-Master",
+      act: "When a notice says a turn is at game-master, mend its beats and hand them in alone.",
+      warrant:
+        "Mechanics found a fault in the beats, and the turn waits on this role until it is mended.",
+      aids: [
+        "The faults are in the `.mechanics-issues.txt` file beside the turn.",
+        "Mend or rule out each as `agent/role/pages/game-master.role.ts` says under Mend The Beats.",
+        "`akasha story turn advance --turn <turn> --beats-file <beats>`, with no prose.",
+        "The prose Alan has read remains as it is; never hand it in again.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Fold In Corrections",
-      act: "Open the next turn's prose with each correction the roleplay-recorder sends, bracketed.",
+      act: "Open the next turn's prose with each fix you made at game-master, bracketed.",
       warrant:
         "Alan decided from what was narrated, so a fault left unsaid keeps him deciding from it.",
       aids: ["Name the fix, not the mechanics behind it.", "Correct your tally in the same turn."],
@@ -280,7 +306,7 @@ export const roleplay = {
         "He decided from what was told, and a fact changed behind him unmakes those decisions.",
       aids: [
         "Contradicting it later is rewriting it.",
-        "A correction the roleplay-recorder sends is the one rewrite allowed, and it is said aloud.",
+        "A fix made at game-master is the one rewrite allowed, and it is said aloud.",
       ],
     },
     {
@@ -297,5 +323,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T20:11:37.082Z",
+  updatedAt: "2026-10-17T20:53:05.906Z",
 } as const satisfies Role
