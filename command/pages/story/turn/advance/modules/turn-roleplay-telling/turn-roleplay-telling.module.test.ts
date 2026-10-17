@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
+import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
 import { roleplayRecorder } from "akasha/agent/role/pages/roleplay-recorder.role.ts"
+import { roleplayWorldbuilder } from "akasha/agent/role/pages/roleplay-worldbuilder.role.ts"
 import { roleplayTold } from "akasha/command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts"
 import type { Told } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import {
@@ -29,9 +31,17 @@ const RECORDER = "awen-roleplay-recorder-the-saga"
 
 const BUILDER = "awen-roleplay-worldbuilder-the-saga"
 
+const NARRATOR = "shaestrel-roleplay-the-saga"
+
+const SEATS: Readonly<Record<string, string>> = {
+  [roleplayRecorder.slug]: RECORDER,
+  [roleplayWorldbuilder.slug]: BUILDER,
+  [roleplay.slug]: NARRATOR,
+}
+
 const seatsOf = (game: string, role: string) => {
-  if (game !== "the-saga") return []
-  return role === roleplayRecorder.slug ? [RECORDER] : [BUILDER]
+  const seat = SEATS[role]
+  return game === "the-saga" && seat !== undefined ? [seat] : []
 }
 
 test("a roleplayed turn's move is told to each roleplay-recorder seat of its story alone", async () => {
@@ -43,13 +53,21 @@ test("a roleplayed turn's move is told to each roleplay-recorder seat of its sto
     game: "the-saga",
     turn: AT,
     from: MECHANICS,
-    status: GAME_MASTER,
+    status: RECORDERS,
   }
   await roleplayTold(notifying(sent, pushed), telling, after, seatsOf)
-  expect(sent).toEqual([`${RECORDER}: The turn \`${AT}\` is at game-master.`])
+  expect(sent).toEqual([`${RECORDER}: The turn \`${AT}\` is at recorders.`])
   expect(pushed).toEqual([])
   expect(after.report).toEqual([`told\t${RECORDER}`])
   expect(after.faults).toEqual([])
+})
+
+test("a roleplayed turn back at game-master is told to the roleplay seat alone", async () => {
+  const sent: string[] = []
+  const after: Told = { report: [], faults: [] }
+  const telling = { root: "/r", game: "the-saga", turn: AT, from: MECHANICS, status: GAME_MASTER }
+  await roleplayTold(notifying(sent, []), telling, after, seatsOf)
+  expect(sent).toEqual([`${NARRATOR}: The turn \`${AT}\` is at game-master.`])
 })
 
 test("a roleplayed turn's notice carries each job of its step to the roleplay-recorder alone", async () => {
@@ -78,11 +96,11 @@ test("the roleplay-worldbuilder's notice carries no job", async () => {
     game: "the-saga",
     turn: AT,
     from: WORLD_BUILDER,
-    status: GAME_MASTER,
+    status: MECHANICS,
     jobs: ["a job"],
   }
   await roleplayTold(notifying(sent, []), telling, after, seatsOf)
-  expect(sent).toContain(`${BUILDER}: The turn \`${AT}\` is at game-master.`)
+  expect(sent).toContain(`${BUILDER}: The turn \`${AT}\` is at mechanics.`)
 })
 
 test("a roleplayed turn leaving world-builder pushes Alan that it is ready", async () => {
@@ -94,7 +112,7 @@ test("a roleplayed turn leaving world-builder pushes Alan that it is ready", asy
     game: "the-saga",
     turn: AT,
     from: WORLD_BUILDER,
-    status: GAME_MASTER,
+    status: MECHANICS,
   }
   await roleplayTold(notifying(sent, pushed), telling, after, seatsOf)
   expect(pushed).toEqual([`the-saga: ${AT}`])

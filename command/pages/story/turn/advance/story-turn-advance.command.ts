@@ -53,6 +53,10 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A roleplayed turn moving back to game-master tells its story's roleplay seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A roleplayed turn pushes Alan that it is ready when its prose lands, not at player.",
     },
@@ -239,5 +243,5 @@ export const storyTurnAdvance = {
     { argument: "argument/title" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-17T20:49:15.708Z",
+  updatedAt: "2026-10-17T20:51:44.066Z",
 } as const satisfies Command

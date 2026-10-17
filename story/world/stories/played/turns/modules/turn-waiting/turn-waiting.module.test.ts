@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
 import { roleplayRecorder } from "akasha/agent/role/pages/roleplay-recorder.role.ts"
 import {
   GAME_MASTER,
@@ -6,6 +7,7 @@ import {
   PLAYER,
   RECORDERS,
   REVIEWERS,
+  WORLD_BUILDER,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
@@ -42,12 +44,14 @@ test("a turn waits on the role its status names", () => {
   expect(roleOf({ status: "player" })).toBe(null)
 })
 
-test("a roleplayed turn waits on the roleplay seat at world-builder", () => {
-  expect(roleOf({ status: "world-builder", roleplayed: true })).toBe("roleplay")
+test("a roleplayed turn waits on the roleplay seat at world-builder and at game-master", () => {
+  for (const status of [WORLD_BUILDER, GAME_MASTER]) {
+    expect(roleOf({ status, roleplayed: true })).toBe(roleplay.slug)
+  }
 })
 
-test("a roleplayed turn waits on the roleplay-recorder at every status after world-builder", () => {
-  for (const status of [GAME_MASTER, MECHANICS, WRITER, REVIEWERS, RECORDERS]) {
+test("a roleplayed turn waits on the roleplay-recorder at every status after game-master", () => {
+  for (const status of [MECHANICS, WRITER, REVIEWERS, RECORDERS]) {
     expect(roleOf({ status, roleplayed: true })).toBe(roleplayRecorder.slug)
   }
 })

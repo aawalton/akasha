@@ -8,12 +8,15 @@ import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import {
   type Caller,
   CHAPTER,
+  GAME_MASTER,
   type Held,
   PLAYER,
   TURN,
   type TurnStep,
   WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+
+const NARRATED: readonly TurnStep[] = [WORLD_BUILDER, GAME_MASTER]
 
 const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
   "world-builder": worldBuilderRole.slug,
@@ -27,7 +30,7 @@ const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
 
 export function roleOf(held: Pick<Held, "status" | "roleplayed">): string | null {
   if (held.roleplayed !== true) return ROLE_OF[held.status]
-  if (held.status === WORLD_BUILDER) return roleplayRole.slug
+  if (NARRATED.includes(held.status)) return roleplayRole.slug
   if (held.status === PLAYER) return null
   return roleplayRecorderRole.slug
 }

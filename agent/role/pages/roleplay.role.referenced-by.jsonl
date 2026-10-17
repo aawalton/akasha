@@ -1,8 +1,11 @@
 {"propertySlug":"import","fileName":"roleplay.role.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"roleplay.role.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"roleplay.role.ts","path":"command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"roleplay.role.ts","path":"command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"roleplay.role.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"roleplay.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"roleplay.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"roleplay.role.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"roleplay.role.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/shaestrel-roleplay-thornford/shaestrel-roleplay-thornford.seat.ts","id":"01a14b70-63b7-7000-80cb-532a04964c50"}

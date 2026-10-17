@@ -1,3 +1,4 @@
+import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
 import { roleplayRecorder } from "akasha/agent/role/pages/roleplay-recorder.role.ts"
 import { roleplayWorldbuilder } from "akasha/agent/role/pages/roleplay-worldbuilder.role.ts"
 import { akashaSeatsStated } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
@@ -14,6 +15,7 @@ import {
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   bareOf,
+  GAME_MASTER,
   type Noun,
   noticeOf,
   type Repair,
@@ -70,18 +72,19 @@ export async function roleplayTold(
   if (told) {
     await readyTold(reach.readyPushed, telling.root, telling.game, telling.turn, after.report, noun)
   }
-  const recorders = seatsOf(telling.game, roleplayRecorder.slug)
-  if (recorders.length === 0) {
+  const owner = telling.status === GAME_MASTER ? roleplay.slug : roleplayRecorder.slug
+  const owners = seatsOf(telling.game, owner)
+  if (owners.length === 0) {
     after.faults.push(
-      `\`${telling.game}\` has no ${roleplayRecorder.slug} seat up, so no seat was told the ${noun} moved`
+      `\`${telling.game}\` has no ${owner} seat up, so no seat was told the ${noun} moved`
     )
     return undefined
   }
   const builders = told ? seatsOf(telling.game, roleplayWorldbuilder.slug) : []
   const said = noticeOf(telling.turn, telling.status, [], noun, telling.repairs ?? [])
   const asked = jobsSaid(said, telling.jobs ?? [])
-  for (const to of [...recorders, ...builders]) {
-    const why = await reach.notify(to, recorders.includes(to) ? asked : said)
+  for (const to of [...owners, ...builders]) {
+    const why = await reach.notify(to, owners.includes(to) ? asked : said)
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the ${noun} moved: ${why}`)
   }
