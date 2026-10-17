@@ -7,7 +7,9 @@ export const thornford00003 = {
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 3,
-  stepStatus: "step-status/world-builder",
+  prose: "txt",
+  characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
+  stepStatus: "step-status/game-master",
   action: '"Deal"',
   reviewedBy: [
     "story-reviewer/continuity",
@@ -17,6 +19,7 @@ export const thornford00003 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T20:32:49.969Z",
-  updatedAt: "2026-10-17T20:33:32.849Z",
+  updatedAt: "2026-10-17T20:33:39.512Z",
+  ownLength: 107,
   endsAt: "2026-04-28T18:09:00.000Z",
 } as const satisfies StoryTurnPlayed
