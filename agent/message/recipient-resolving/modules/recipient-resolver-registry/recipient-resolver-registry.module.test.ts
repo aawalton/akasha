@@ -4,10 +4,17 @@ import {
   gameSeatSpecs,
   gameSeatsIn,
 } from "akasha/agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.code.ts"
-import { ruleMatches } from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
+import { runRecipientResolverTick } from "akasha/agent/message/recipient-resolving/modules/recipient-resolver-tick/recipient-resolver-tick.module.code.ts"
+import {
+  type FirstStart,
+  ruleMatches,
+} from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
-import { handlerSeatName } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import {
+  composeSeatName,
+  handlerSeatName,
+} from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   ACTION_BAR_PLAYER,
@@ -15,9 +22,12 @@ import {
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { blueBoxes } from "akasha/story/world/pages/blue-boxes/stories/played/blue-boxes/blue-boxes.story-played.ts"
 import { theTower } from "akasha/story/world/pages/personas/stories/played/the-tower/the-tower.story-played.ts"
+import { thornford } from "akasha/story/world/pages/thornford/stories/played/thornford/thornford.story-played.ts"
 import {
   JOB_SENDER,
+  noticeOf,
   STEP_SENDER,
+  WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
@@ -144,6 +154,39 @@ test("a roleplay seat that never ran starts headless as its persona, narrating i
     specs[0]?.wakeSources.some((rule) => ruleMatches(rule, { sender, content: "" })) ?? false
   expect(hears(`agent:${ACTION_BAR_SENDER}`)).toBe(true)
   expect(hears(`agent:${STEP_SENDER}`)).toBe(true)
+})
+
+test("thornford's roleplay seat is started headless by the notice of a new action", async () => {
+  const seats = gameSeatsIn(ROOT).filter((one) => one.game === thornford.slug)
+  expect(seats).toMatchObject([{ persona: "shaestrel", role: roleplay.slug, builder: null }])
+  const specs = gameSeatSpecs(seats)
+  const master = thornford.coordinatorAgent
+  expect(specs.map((one) => one.name)).toEqual([master])
+  const notice = { sender: `agent:${STEP_SENDER}`, content: noticeOf("a-turn", WORLD_BUILDER) }
+  const started: { readonly name: string; readonly as: FirstStart }[] = []
+  await runRecipientResolverTick({
+    specs,
+    resolveAgent: async () => null,
+    readInboundTo: async () => [notice],
+    startFirst: async (name, as) => {
+      started.push({ name, as })
+    },
+    revive: async () => "revived",
+    reportUnrevivable: async () => undefined,
+    seatIsPresent: async () => false,
+    signal: new AbortController().signal,
+  })
+  expect(started.map((one) => [one.name, one.as.role, one.as.startMode])).toEqual([
+    [master, roleplay.slug, SEAT_MODE_HEADLESS],
+  ])
+  const first = started[0]?.as
+  const attributes = {
+    persona: first?.persona ?? null,
+    domain: first?.domain ?? null,
+    role: first?.role ?? null,
+  }
+  const principal = first?.principal ?? null
+  expect(composeSeatName({ attributes, flex: null, principal }, ROOT)).toBe(master)
 })
 
 test("a story whose coordinator is named neither way keeps one spec, started by nothing", () => {

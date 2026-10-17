@@ -8,6 +8,7 @@ export const thornford = {
   world: "world/thornford",
   unit: "unit/words",
   externalId: "thornford",
+  coordinatorAgent: "shaestrel-roleplay-thornford",
   roleplayed: true,
   chapterBreak: "A day ends.",
   opensAt: "2026-04-28T00:00:00.000Z",
@@ -19,5 +20,5 @@ export const thornford = {
     "played-panel/player-intent",
   ],
   createdAt: "2026-10-17T19:44:03.064Z",
-  updatedAt: "2026-10-17T19:44:03.064Z",
+  updatedAt: "2026-10-17T19:51:56.230Z",
 } as const satisfies StoryPlayed
