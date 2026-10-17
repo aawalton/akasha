@@ -21,6 +21,7 @@ export const blueBoxes00003 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T18:15:27.896Z",
-  updatedAt: "2026-10-17T18:15:55.232Z",
+  updatedAt: "2026-10-17T18:16:19.216Z",
   ownLength: 192,
+  endsAt: "2026-10-17T16:49:00.000Z",
 } as const satisfies StoryTurnPlayed
