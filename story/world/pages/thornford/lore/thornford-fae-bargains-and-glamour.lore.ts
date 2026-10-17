@@ -80,11 +80,7 @@ export const thornfordFaeBargainsAndGlamour = {
       fact: "There is a reason Shaestrel cannot buy a gown from the town's established dressmakers.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "There is a reason the grey-green silk will not take a needle on some days.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T19:45:09.021Z",
+  updatedAt: "2026-10-17T20:03:46.072Z",
 } as const satisfies Lore
