@@ -1,0 +1,1 @@
+{"check":"world-check/thornford-action-check","reading":{"band":"extreme","bonuses":[{"from":"a clever plan","by":1},{"from":"tiredness","by":-1}]},"dice":{"said":"1d20","sides":20,"faces":[5]},"seed":"3e0f8999ea12ffa821a54e525ffe18a640dc0b0b373795c2f5ac5cd68b5eb1d5","answered":{"succeeded":false,"outcome":"failure","total":5,"target":20,"margin":-15}}
