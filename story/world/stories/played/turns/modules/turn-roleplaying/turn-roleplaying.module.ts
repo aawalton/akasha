@@ -10,11 +10,26 @@ export const turnRoleplaying = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roleplayed turn takes its prose at world-builder, from the roleplay seat.",
+      statement:
+        "A roleplayed turn takes its beats and the prose written from them at world-builder, in one advance.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roleplayed turn's prose moves it to game-master, for its beats.",
+      statement: "That advance comes from the roleplay seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That advance moves the turn as a game master's beats on prose already written would.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A roleplayed turn at world-builder refuses prose without beats and beats without prose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Prose with beats is refused anywhere but a roleplayed turn at world-builder.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,5 +37,5 @@ export const turnRoleplaying = {
     },
   ],
   createdAt: "2026-10-17T17:54:51.718Z",
-  updatedAt: "2026-10-17T17:54:51.718Z",
+  updatedAt: "2026-10-17T20:49:15.708Z",
 } as const satisfies Module

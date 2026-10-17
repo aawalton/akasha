@@ -20,9 +20,13 @@ export const turnTiming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A roleplay narrator's advance handing in beats is refused so too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The refusal names the settle call that states the turn's `endsAt`.",
     },
   ],
   createdAt: "2026-09-28T22:04:37.788Z",
-  updatedAt: "2026-09-28T22:05:38.000Z",
+  updatedAt: "2026-10-17T20:49:15.708Z",
 } as const satisfies Module

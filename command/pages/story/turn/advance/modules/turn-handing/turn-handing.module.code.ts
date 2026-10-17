@@ -219,10 +219,21 @@ function characterRefused(said: Said): Refusal | null {
   }
 }
 
+const TOLD: readonly Handed["kind"][] = ["beats", "prose"]
+
+function toldIn(root: string, said: Said): Handed | Refusal {
+  const beats = beatsIn(root, said)
+  if ("refused" in beats || beats.kind !== "beats") return beats
+  const told = proseHanded(root, said)
+  return "refused" in told ? told : { ...beats, told }
+}
+
 function handedFrom(root: string, said: Said): Handed | Refusal {
   const misplaced = characterRefused(said)
   if (misplaced !== null) return misplaced
   const kinds = kindsIn(said)
+  const telling = kinds.length === TOLD.length && TOLD.every((one) => kinds.includes(one))
+  if (telling) return toldIn(root, said)
   if (kinds.length > 1) {
     return {
       refused: [`an advance hands in one step's output, and this hands in ${kinds.join(" and ")}`],
@@ -233,6 +244,10 @@ function handedFrom(root: string, said: Said): Handed | Refusal {
   if (kind === "review") return reviewIn(root, said)
   if (kind === "record") return recordIn(root, said)
   if (kind === "beats") return beatsIn(root, said)
+  return proseHanded(root, said)
+}
+
+function proseHanded(root: string, said: Said): Extract<Handed, { kind: "prose" }> | Refusal {
   if (said.proseFile === undefined) {
     return {
       refused: [

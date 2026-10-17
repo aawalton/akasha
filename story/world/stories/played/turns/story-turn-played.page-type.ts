@@ -128,7 +128,7 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roleplayed turn has its prose from the roleplay seat, before its beats.",
+      statement: "A roleplayed turn has its beats and its prose from the roleplay seat together.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -172,5 +172,5 @@ export const storyTurnPlayed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T00:47:51.415Z",
-  updatedAt: "2026-10-17T20:08:28.975Z",
+  updatedAt: "2026-10-17T20:49:15.708Z",
 } as const satisfies PageType

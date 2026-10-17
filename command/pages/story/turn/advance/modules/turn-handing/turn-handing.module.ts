@@ -32,6 +32,10 @@ export const turnHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A beats file handed in with a prose file carries that prose as what was told.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A prose file naming a beat to a line is each beat's prose.",
     },
     {
@@ -53,5 +57,5 @@ export const turnHanding = {
     },
   ],
   createdAt: "2026-09-28T18:31:36.830Z",
-  updatedAt: "2026-10-17T18:14:36.846Z",
+  updatedAt: "2026-10-17T20:49:15.708Z",
 } as const satisfies Module

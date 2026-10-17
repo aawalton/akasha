@@ -33,7 +33,6 @@ import {
   type TurnStep,
   toRecorders,
   toReviewers,
-  WORLD_BUILDER,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { loreRefused } from "akasha/story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.code.ts"
@@ -56,6 +55,7 @@ import {
 import {
   fromRoleplay,
   roleplayTakes,
+  toldRefused,
 } from "akasha/story/world/stories/played/turns/modules/turn-roleplaying/turn-roleplaying.module.code.ts"
 import { callerRefused } from "akasha/story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts"
 
@@ -336,7 +336,7 @@ export function advanced(
   admitted: Admitted,
   mechanics: readonly string[] = []
 ): Advanced {
-  const refused = callerRefused(held, caller)
+  const refused = callerRefused(held, caller) ?? toldRefused(held, handed)
   if (refused !== null) return { refused }
   const takes = roleplayTakes(held) ?? TAKES[held.status]
   if (takes === null) {
@@ -356,10 +356,12 @@ export function advanced(
   const staff = { reviewers, recorders: leftOf(recorders, mechanics), mechanics }
   if (handed.kind === "lore") return fromWorldBuilder(held, handed.lore, admitted)
   if (handed.kind === "beats") {
-    return fromBeats(held, handed.beats, handed.scenes ?? [], handed.rulings ?? [], staff)
+    const { told } = handed
+    const from = told === undefined ? held : { ...held, written: true }
+    const beaten = fromBeats(from, handed.beats, handed.scenes ?? [], handed.rulings ?? [], staff)
+    return told === undefined ? beaten : fromRoleplay(beaten, told, cast, admitted)
   }
   if (handed.kind === "review") return fromReviewer(held, handed.reviewer, handed.issues, staff)
   if (handed.kind === "record") return fromRecorder(held, handed, staff)
-  if (held.status === WORLD_BUILDER) return fromRoleplay(handed, cast, admitted)
   return fromProse(held, handed, staff, cast, admitted)
 }

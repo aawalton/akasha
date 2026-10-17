@@ -21,12 +21,30 @@ const SLUG = "the-saga-00-003"
 
 test("an advance handing in two steps' output is refused before anything is read", () => {
   const read = taken(
-    ["--turn", SLUG, "--beats-file", "nowhere.txt", "--prose-file", "nowhere.txt"],
+    ["--turn", SLUG, "--beats-file", "nowhere.txt", "--issues-file", "nowhere.txt"],
     CALLED,
     ROOT
   )
   expect(read).toEqual({
-    refused: ["an advance hands in one step's output, and this hands in beats and prose"],
+    refused: ["an advance hands in one step's output, and this hands in beats and review"],
+  })
+})
+
+test("beats handed in with prose carry the prose and its characters as what was told", () => {
+  const beats = join(scratch.rootFor("turn-handing-told-"), "beats.txt")
+  writeFileSync(beats, "Wren smiles.\nRain falls.\n")
+  const read = taken(
+    ["--turn", SLUG, "--beats-file", beats, "--prose-file", proseAt(), "--character", "a/b"],
+    CALLED,
+    ROOT
+  )
+  expect(read).toMatchObject({
+    turn: SLUG,
+    handed: {
+      kind: "beats",
+      beats: ["Wren smiles.", "Rain falls."],
+      told: { kind: "prose", prose: "Wren smiles.\n", characters: ["a/b"] },
+    },
   })
 })
 

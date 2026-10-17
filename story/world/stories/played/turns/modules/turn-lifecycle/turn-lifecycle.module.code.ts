@@ -62,6 +62,13 @@ const LAST_NUMBER = /^(.*?)(\d+)$/
 
 export type Ruling = { readonly issue: string; readonly reason: string }
 
+type Prose = {
+  readonly kind: "prose"
+  readonly prose: string
+  readonly characters: readonly string[]
+  readonly beatProse?: readonly BeatProse[]
+}
+
 export type Handed =
   | { readonly kind: "lore"; readonly lore: readonly string[] }
   | {
@@ -69,14 +76,10 @@ export type Handed =
       readonly beats: readonly string[]
       readonly scenes?: readonly BeatScene[]
       readonly rulings?: readonly Ruling[]
+      readonly told?: Prose
     }
   | { readonly kind: "review"; readonly reviewer: string; readonly issues: readonly string[] }
-  | {
-      readonly kind: "prose"
-      readonly prose: string
-      readonly characters: readonly string[]
-      readonly beatProse?: readonly BeatProse[]
-    }
+  | Prose
   | {
       readonly kind: "record"
       readonly recorder: string

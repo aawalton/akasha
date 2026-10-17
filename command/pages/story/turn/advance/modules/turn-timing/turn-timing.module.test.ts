@@ -1,12 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
 import {
   timeCheckIn,
   untimedRefused,
 } from "akasha/command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts"
 import { storyTurnAdvance } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import {
+  AT,
   advancedBy,
   CHAPTER_ARGV,
   CHAPTER_BEATS,
@@ -16,6 +18,7 @@ import {
   MASTER,
   ROOT,
   reachOver,
+  SLUG,
   seatOf,
   seen,
   turnAt,
@@ -108,6 +111,41 @@ test("a game master's advance of a turn stating its endsAt lands", async () => {
   )
   expect(answer.refusals).toEqual([])
   expect(into.folded.length).toBe(1)
+})
+
+const NARRATOR = seatOf(roleplay.slug, "shaestrel-roleplay-the-saga")
+
+const TOLD = [...BEATS, "--prose-file", join(ROOT, "prose.txt")]
+
+test("a narrator's beats and prose on a roleplayed turn stating no endsAt are refused", async () => {
+  const into = seen()
+  const reach = reachOver(turnAt("world-builder", { roleplayed: true }), NARRATOR, into)
+  const answer = await advancedBy(
+    TOLD,
+    reach,
+    async () => LANDED,
+    () => undefined,
+    timed
+  )
+  expect(answer.refusals.join(" ")).toContain("--check the-saga-time")
+  expect(into.folded).toEqual([])
+  expect(into.pushes).toEqual([])
+})
+
+test("a narrator's beats and prose land together, skip the writer and push the turn ready", async () => {
+  const into = seen()
+  const ended = { roleplayed: true, endsAt: "2026-09-26T09:05:00.000Z" }
+  const reach = reachOver(turnAt("world-builder", ended), NARRATOR, into)
+  const answer = await advancedBy(
+    TOLD,
+    reach,
+    async () => LANDED,
+    () => undefined,
+    timed
+  )
+  expect(answer.report[0]).toBe(`${SLUG}\tworld-builder\trecorders`)
+  expect(Object.keys(into.folded[0]?.bodies ?? {}).sort()).toEqual(["beats", "prose"])
+  expect(into.pushes).toEqual([`the-saga ${AT}`])
 })
 
 test("a written chapter's game master advances with no endsAt", async () => {

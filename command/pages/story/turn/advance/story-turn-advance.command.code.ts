@@ -93,7 +93,6 @@ import {
 import {
   bareOf,
   type Caller,
-  GAME_MASTER,
   type Held,
   MECHANICS,
   WORLD_BUILDER,
@@ -160,7 +159,7 @@ function crossedOn(reach: Reaching, root: string, read: Taken, held: Held, turn:
 }
 
 function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn: Turn) {
-  if (read.chapter || held.status !== GAME_MASTER) return null
+  if (read.chapter || read.handed.kind !== "beats") return null
   return untimedRefused(reach.timeCheckOf(root, held.game), held.game, turn.slug, turn.value)
 }
 

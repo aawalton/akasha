@@ -30,6 +30,11 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A roleplay narrator's beats with the prose written from them are one step's output.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "An advance holds its turn from reading it to landing, so two advances on one turn go in turn.",
     },
     {
@@ -234,5 +239,5 @@ export const storyTurnAdvance = {
     { argument: "argument/title" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-17T18:37:42.830Z",
+  updatedAt: "2026-10-17T20:49:15.708Z",
 } as const satisfies Command
