@@ -3,16 +3,11 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/thornford-roleplay-recorder/thornford-roleplay-recorder.seat.ts","id":"01a14b71-b1de-7000-a64f-3f75ee486bfe"}
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/thornford-roleplay-worldbuilder/thornford-roleplay-worldbuilder.seat.ts","id":"01a14b71-bb1b-7000-a692-4b640e115128"}
 {"propertySlug":"chapter-story","path":"story/world/pages/thornford/stories/played/thornford/chapters/thornford-0001-a-bargain-after-closing.story-chapter-played.ts","id":"01a14bd2-139f-76f1-9e51-0af3093a6e8b"}
+{"propertySlug":"chapter-story","path":"story/world/pages/thornford/stories/played/thornford/chapters/thornford-0002-the-first-fitting.story-chapter-played.ts","id":"01a14bdf-e525-774a-be3b-2e06ab24bc78"}
 {"propertySlug":"character-story","path":"story/world/pages/thornford/stories/played/thornford/characters/thornford-morag-bain.character-other.ts","id":"01a14b77-c97a-7fac-8500-4b493ad0f026"}
 {"propertySlug":"character-story","path":"story/world/pages/thornford/stories/played/thornford/characters/thornford-nala.character-player.ts","id":"01a14b65-1e22-7f5e-bf33-c94c9f944cbb"}
 {"propertySlug":"character-story","path":"story/world/pages/thornford/stories/played/thornford/characters/thornford-shaestrel.character-other.ts","id":"01a14b65-1e22-7270-b457-bc25b84245df"}
 {"propertySlug":"character-story","path":"story/world/pages/thornford/stories/played/thornford/characters/thornford-tam-rennie.character-other.ts","id":"01a14b93-ca03-770a-bb19-46c37fd19f26"}
 {"propertySlug":"import","fileName":"thornford.story-played.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"item-story","path":"story/world/pages/thornford/stories/played/thornford/items/thornford-grey-green-silk.story-item.ts","id":"01a14b76-991a-7142-bfc5-d0fef3605a05"}
-{"propertySlug":"part-of-collections","path":"story/world/pages/thornford/stories/played/thornford/turns/thornford-00-007.story-turn-played.ts","id":"01a14bce-c707-7045-85e5-7c7a5ed829ac"}
-{"propertySlug":"part-of-collections","path":"story/world/pages/thornford/stories/played/thornford/turns/thornford-00-008.story-turn-played.ts","id":"01a14bd3-1c39-7ea2-9785-d4d1a915473c"}
-{"propertySlug":"part-of-collections","path":"story/world/pages/thornford/stories/played/thornford/turns/thornford-00-009.story-turn-played.ts","id":"01a14bd4-e34a-7d53-88e0-59fecb041262"}
-{"propertySlug":"part-of-collections","path":"story/world/pages/thornford/stories/played/thornford/turns/thornford-00-010.story-turn-played.ts","id":"01a14bd6-c578-77a0-a108-c9a808a25405"}
-{"propertySlug":"part-of-collections","path":"story/world/pages/thornford/stories/played/thornford/turns/thornford-00-011.story-turn-played.ts","id":"01a14bd8-beac-7c41-bd07-bc1ede5c15ed"}
-{"propertySlug":"part-of-collections","path":"story/world/pages/thornford/stories/played/thornford/turns/thornford-00-012.story-turn-played.ts","id":"01a14bdc-9a64-78b3-9009-57b967e35a90"}
 {"propertySlug":"part-of-collections","path":"story/world/pages/thornford/stories/played/thornford/turns/thornford-00-013.story-turn-played.ts","id":"01a14bde-a05e-76e0-a8da-f27f5b86c738"}
