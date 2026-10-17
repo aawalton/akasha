@@ -3,7 +3,7 @@
 {"beat":3,"event":"The words under the window vanish, and new ones come faster than anyone could type."}
 {"beat":4,"event":"The System says it is what everybody calls the System, then stops before its name."}
 {"beat":5,"event":"The cursor blinks on the unfinished line while a sheep complains and wind flattens the gorse."}
-{"beat":6,"event":"The System gives its name as Iris."}
-{"beat":7,"event":"Iris says she does not know the word isekai and asks what it means."}
+{"beat":6,"event":"The System gives its name as Iris.","memory":[{"page":"lore/blue-boxes-gods-and-the-system","fact":"The System told Nala it is the System, and that its name is Iris.","learns":"character-player/blue-boxes-nala"},{"page":"lore/blue-boxes-gods-and-the-system","fact":"The System told Nala it is the System, and that its name is Iris.","shown":true}]}
+{"beat":7,"event":"Iris says she does not know the word isekai and asks what it means.","memory":[{"page":"lore/blue-boxes-gods-and-the-system","fact":"Iris does not know Earth's words, such as 'isekai'.","learns":"character-player/blue-boxes-nala"},{"page":"lore/blue-boxes-gods-and-the-system","fact":"Iris does not know Earth's words, such as 'isekai'.","shown":true}]}
 {"beat":8,"event":"Iris says, slower, that she does not know how Nala got here."}
-{"beat":9,"event":"Iris says Nala was nowhere she could see, then at twenty to five lay by the plinth."}
+{"beat":9,"event":"Iris says Nala was nowhere she could see, then at twenty to five lay by the plinth.","memory":[{"page":"lore/blue-boxes-gods-and-the-system","fact":"Iris saw Nala appear by the plinth at twenty to five, from nowhere she could see.","learns":"character-player/blue-boxes-nala"},{"page":"lore/blue-boxes-gods-and-the-system","fact":"Iris saw Nala appear by the plinth at twenty to five, from nowhere she could see.","shown":true}]}
