@@ -13,17 +13,22 @@ export const thornford00005 = {
   action:
     "\"I'm definitely thinking, but it won't be your name. If you want me to know it, you'll have to tell me. I have a feeling it will be something you will quite enjoy.\"",
   beats: "jsonl",
-  lore: ["lore/thornford-shaestrel"],
+  lore: ["lore/thornford-morag-bain", "lore/thornford-shaestrel", "place/thornford-town"],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/memory",
+  ],
   roleplayed: true,
   createdAt: "2026-10-17T20:46:17.874Z",
-  updatedAt: "2026-10-17T20:48:37.320Z",
+  updatedAt: "2026-10-17T20:49:01.520Z",
   ownLength: 158,
   endsAt: "2026-04-28T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed

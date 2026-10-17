@@ -1,10 +1,10 @@
 {"beat":1,"event":"Nala says she won't ask for the fae's name; she must tell it, and Nala thinks she'll enjoy it."}
 {"beat":2,"event":"The fae laughs down at Nala, bright and sudden."}
-{"beat":3,"event":"She tells Nala her name is Shaestrel, and that Nala may have it for nothing."}
+{"beat":3,"event":"She tells Nala her name is Shaestrel, and that Nala may have it for nothing.","memory":[{"page":"lore/thornford-shaestrel","fact":"She told Nala her name, Shaestrel, on the evening of April 28.","establishes":true},{"page":"lore/thornford-shaestrel","fact":"She told Nala her name, Shaestrel, on the evening of April 28.","learns":"character-player/thornford-nala"},{"page":"lore/thornford-shaestrel","fact":"She told Nala her name, Shaestrel, on the evening of April 28.","learns":"character-other/thornford-shaestrel"},{"page":"lore/thornford-shaestrel","fact":"She told Nala her name, Shaestrel, on the evening of April 28.","shown":true}]}
 {"beat":4,"event":"Shaestrel crouches among the leaves, face level with Nala's, smelling again of cut grass."}
 {"beat":5,"event":"Her eyes go slowly over Nala's face, the way one runs a seam for a dropped stitch."}
 {"beat":6,"event":"Shaestrel says Nala will ask her for something with a door in it."}
 {"beat":7,"event":"She stands and swings the grey cloak round her shoulders, leaving the leaves where they fell."}
-{"beat":8,"event":"She says she'll come back tomorrow when the lamps are lit, for the first fitting."}
+{"beat":8,"event":"She says she'll come back tomorrow when the lamps are lit, for the first fitting.","memory":[{"page":"lore/thornford-shaestrel","fact":"She will return on April 29 when the lamps are lit, for the gown's first fitting.","establishes":true},{"page":"lore/thornford-shaestrel","fact":"She will return on April 29 when the lamps are lit, for the gown's first fitting.","learns":"character-player/thornford-nala"},{"page":"lore/thornford-shaestrel","fact":"She will return on April 29 when the lamps are lit, for the gown's first fitting.","learns":"character-other/thornford-shaestrel"},{"page":"lore/thornford-shaestrel","fact":"She will return on April 29 when the lamps are lit, for the gown's first fitting.","shown":true}]}
 {"beat":9,"event":"She tells Nala to have something ready for her to stand in."}
 {"beat":10,"event":"At the door she slides the bolt back with one finger."}
