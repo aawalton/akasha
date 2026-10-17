@@ -9,7 +9,7 @@ export const thornford00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/thornford-nala"],
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/recorders",
   action:
     '"Okay, fae rules." I think to myself. "What better needle for fae silk than the stem of a leaf?" I find an appropriate stem from the leaves Shaestrel left behind and use that as my needle.',
   beats: "jsonl",
@@ -19,10 +19,10 @@ export const thornford00007 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
   roleplayed: true,
   createdAt: "2026-10-17T21:20:11.131Z",
-  updatedAt: "2026-10-17T21:22:00.444Z",
+  updatedAt: "2026-10-17T21:22:12.426Z",
   ownLength: 205,
   endsAt: "2026-04-28T22:55:00.000Z",
 } as const satisfies StoryTurnPlayed
