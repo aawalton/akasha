@@ -4,6 +4,7 @@ export const thornford00014 = {
   id: "01a14be0-6a56-7783-a95f-1e02da96a930",
   type: "page-type/story-turn-played",
   slug: "thornford-00-014",
+  cover: "image/image-7438923156d0ac7b",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 14,
@@ -30,8 +31,9 @@ export const thornford00014 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "Three knocks, light and quick. Shaestrel comes in, pushing her hood back,",
   createdAt: "2026-10-17T21:59:20.918Z",
-  updatedAt: "2026-10-17T22:05:12.880Z",
+  updatedAt: "2026-10-17T22:09:15.751Z",
   ownLength: 293,
   endsAt: "2026-04-30T20:50:00.000Z",
 } as const satisfies StoryTurnPlayed
