@@ -89,6 +89,10 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The turn being made is said as the narrator's where the story has one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A signed-in player of a game is offered the latest turn's undo in the page menu.",
     },
     {
@@ -128,5 +132,5 @@ export const playedShell = {
     },
   ],
   createdAt: "2026-09-14T19:28:23.697Z",
-  updatedAt: "2026-10-17T18:26:26.512Z",
+  updatedAt: "2026-10-17T18:27:09.562Z",
 } as const satisfies Module

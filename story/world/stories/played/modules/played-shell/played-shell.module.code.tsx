@@ -203,9 +203,11 @@ function PlayedStory({
   const seated = seats.isLoading || seats.error !== null ? null : seats.rows
   const makingKey = useMemo(() => playedMakingKey(turns.rows), [turns.rows])
   const quietMs = useQuietFor(makingKey, playedWorking(seated))
+  const beside = usePlayedBeside(slug)
+  const narrator = beside.kind === "read" ? beside.beside.narrator : null
   const making = useMemo(
-    () => playedMaking(turns.rows, seated, quietMs),
-    [turns.rows, seated, quietMs]
+    () => playedMaking(turns.rows, seated, quietMs, narrator),
+    [turns.rows, seated, quietMs, narrator]
   )
 
   const runIsTurns = ready.length > 0
@@ -217,7 +219,6 @@ function PlayedStory({
   const drawnIds = useMemo(() => tail.drawn.map((row) => row.id), [tail])
   const prose = usePlayedProse(runPageTypeSlug, drawnIds)
 
-  const beside = usePlayedBeside(slug)
   const characterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: characterPlayer.slug,
