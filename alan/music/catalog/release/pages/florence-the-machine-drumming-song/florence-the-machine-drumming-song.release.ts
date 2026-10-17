@@ -7,7 +7,7 @@ export const florenceTheMachineDrummingSong = {
   title: "Drumming Song",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 23.072417,
+  ownLength: 23.072416666666665,
   ownProgress: 23.072417,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const florenceTheMachineDrummingSong = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.268Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
 } as const satisfies Release

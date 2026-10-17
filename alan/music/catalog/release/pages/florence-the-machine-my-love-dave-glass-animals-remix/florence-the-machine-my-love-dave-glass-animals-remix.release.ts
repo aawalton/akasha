@@ -7,7 +7,7 @@ export const florenceTheMachineMyLoveDaveGlassAnimalsRemix = {
   title: "My Love (Dave Glass Animals Remix)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 3.512617,
+  ownLength: 3.5126166666666667,
   ownProgress: 3.512617,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const florenceTheMachineMyLoveDaveGlassAnimalsRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
 } as const satisfies Release

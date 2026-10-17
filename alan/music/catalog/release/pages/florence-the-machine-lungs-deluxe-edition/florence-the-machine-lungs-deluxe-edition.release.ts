@@ -7,7 +7,7 @@ export const florenceTheMachineLungsDeluxeEdition = {
   title: "Lungs (Deluxe Edition)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 83.573867,
+  ownLength: 83.57386666666666,
   ownProgress: 83.573867,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const florenceTheMachineLungsDeluxeEdition = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.276Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
 } as const satisfies Release

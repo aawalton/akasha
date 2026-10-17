@@ -7,7 +7,7 @@ export const florenceTheMachineSkyFullOfSong = {
   title: "Sky Full Of Song",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 3.769333,
+  ownLength: 3.7693333333333334,
   ownProgress: 3.769333,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const florenceTheMachineSkyFullOfSong = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
 } as const satisfies Release

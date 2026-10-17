@@ -7,7 +7,7 @@ export const florenceTheMachineCeremonials = {
   title: "Ceremonials",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 72.288117,
+  ownLength: 72.28811666666667,
   ownProgress: 72.288117,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const florenceTheMachineCeremonials = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
 } as const satisfies Release

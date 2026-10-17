@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const florenceTheMachineDanceFeverCompleteEditionMyLove = {
+  id: "01a14a1f-592d-767a-9a28-ecebc0b0af00",
+  type: "page-type/track",
+  slug: "florence-the-machine-dance-fever-complete-edition-my-love",
+  ownLength: 3.8568,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/florence-the-machine-dance-fever-complete-edition",
+    "release/florence-the-machine-dance-fever-deluxe",
+    "release/florence-the-machine-dance-fever",
+    "release/florence-the-machine-my-love",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "My Love",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/florence-the-machine" }],
+  trackKey: "mylove|1moxjboGR7GNWYIMWsRjgG|231408",
+  song: "song/florence-the-machine-my-love",
+  carriedBy: [
+    {
+      release: "release/florence-the-machine-dance-fever",
+      discNumber: 1,
+      position: 11,
+      externalId: "7jQuTeWHCKKLc2QV6MPunK",
+      externalLink: "https://open.spotify.com/track/7jQuTeWHCKKLc2QV6MPunK",
+    },
+    {
+      release: "release/florence-the-machine-dance-fever-complete-edition",
+      discNumber: 1,
+      position: 11,
+      externalId: "1RnkyNDjqPSID8vO6m87OH",
+      externalLink: "https://open.spotify.com/track/1RnkyNDjqPSID8vO6m87OH",
+    },
+    {
+      release: "release/florence-the-machine-dance-fever-deluxe",
+      discNumber: 1,
+      position: 11,
+      externalId: "1EgLBP2HQsYf9Eh4bmQfWb",
+      externalLink: "https://open.spotify.com/track/1EgLBP2HQsYf9Eh4bmQfWb",
+    },
+    {
+      release: "release/florence-the-machine-my-love",
+      discNumber: 1,
+      position: 2,
+      externalId: "3leQLTAf9btWYR0bbIiHeZ",
+      externalLink: "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ",
+    },
+  ],
+  createdAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
+} as const satisfies Track

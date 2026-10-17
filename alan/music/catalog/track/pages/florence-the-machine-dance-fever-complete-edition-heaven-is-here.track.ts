@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const florenceTheMachineDanceFeverCompleteEditionHeavenIsHere = {
+  id: "01a14a1f-592c-7769-ab53-ee0fb81b387f",
+  type: "page-type/track",
+  slug: "florence-the-machine-dance-fever-complete-edition-heaven-is-here",
+  ownLength: 1.8547166666666666,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/florence-the-machine-dance-fever-complete-edition",
+    "release/florence-the-machine-dance-fever-deluxe",
+    "release/florence-the-machine-dance-fever",
+    "release/florence-the-machine-heaven-is-here",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Heaven Is Here",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/florence-the-machine" }],
+  trackKey: "heavenishere|1moxjboGR7GNWYIMWsRjgG|111283",
+  song: "song/florence-the-machine-heaven-is-here",
+  carriedBy: [
+    {
+      release: "release/florence-the-machine-dance-fever",
+      discNumber: 1,
+      position: 9,
+      externalId: "4eh6egMbuQ1QJ65HIA9eXG",
+      externalLink: "https://open.spotify.com/track/4eh6egMbuQ1QJ65HIA9eXG",
+    },
+    {
+      release: "release/florence-the-machine-dance-fever-complete-edition",
+      discNumber: 1,
+      position: 9,
+      externalId: "33qPJLKpj5I11AXLs5esuV",
+      externalLink: "https://open.spotify.com/track/33qPJLKpj5I11AXLs5esuV",
+    },
+    {
+      release: "release/florence-the-machine-dance-fever-deluxe",
+      discNumber: 1,
+      position: 9,
+      externalId: "2a79e1ko9w76oCrKQczi00",
+      externalLink: "https://open.spotify.com/track/2a79e1ko9w76oCrKQczi00",
+    },
+    {
+      release: "release/florence-the-machine-heaven-is-here",
+      discNumber: 1,
+      position: 1,
+      externalId: "4auxXrVUvMVLWTlMElc2V4",
+      externalLink: "https://open.spotify.com/track/4auxXrVUvMVLWTlMElc2V4",
+    },
+  ],
+  createdAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
+} as const satisfies Track

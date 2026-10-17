@@ -1,0 +1,63 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const florenceTheMachineBetweenTwoLungsYouveGotTheLove = {
+  id: "01a14a1f-592b-7722-84ad-7bf59782e28d",
+  type: "page-type/track",
+  slug: "florence-the-machine-between-two-lungs-youve-got-the-love",
+  ownLength: 2.8111,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/florence-the-machine-between-two-lungs",
+    "release/florence-the-machine-lungs-10th-anniversary-edition",
+    "release/florence-the-machine-lungs",
+    "release/florence-the-machine-lungs-deluxe-edition",
+    "release/florence-the-machine-a-lot-of-love-a-lot-of-blood",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "You've Got The Love",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/florence-the-machine" }],
+  trackKey: "youvegotthelove|1moxjboGR7GNWYIMWsRjgG|168666",
+  song: "song/florence-the-machine-youve-got-the-love",
+  carriedBy: [
+    {
+      release: "release/florence-the-machine-a-lot-of-love-a-lot-of-blood",
+      discNumber: 1,
+      position: 3,
+      externalId: "0V1rCXBVm0y6n6xGReEptq",
+      externalLink: "https://open.spotify.com/track/0V1rCXBVm0y6n6xGReEptq",
+    },
+    {
+      release: "release/florence-the-machine-between-two-lungs",
+      discNumber: 1,
+      position: 13,
+      externalId: "3GNDBGICWkYOz6sUkZEBhQ",
+      externalLink: "https://open.spotify.com/track/3GNDBGICWkYOz6sUkZEBhQ",
+    },
+    {
+      release: "release/florence-the-machine-lungs",
+      discNumber: 1,
+      position: 13,
+      externalId: "0DyToChmZxd4js5BY9Jf2G",
+      externalLink: "https://open.spotify.com/track/0DyToChmZxd4js5BY9Jf2G",
+    },
+    {
+      release: "release/florence-the-machine-lungs-10th-anniversary-edition",
+      discNumber: 1,
+      position: 13,
+      externalId: "3Lk3udgQpNZPBzvgVV4hO7",
+      externalLink: "https://open.spotify.com/track/3Lk3udgQpNZPBzvgVV4hO7",
+    },
+    {
+      release: "release/florence-the-machine-lungs-deluxe-edition",
+      discNumber: 1,
+      position: 13,
+      externalId: "6u9RqxALwkjJ1ukB1y8vuP",
+      externalLink: "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP",
+    },
+  ],
+  createdAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
+} as const satisfies Track

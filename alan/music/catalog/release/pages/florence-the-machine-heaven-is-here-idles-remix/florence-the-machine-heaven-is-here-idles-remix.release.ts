@@ -7,7 +7,7 @@ export const florenceTheMachineHeavenIsHereIdlesRemix = {
   title: "Heaven Is Here (IDLES Remix)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 4.135117,
+  ownLength: 4.135116666666667,
   ownProgress: 4.135117,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const florenceTheMachineHeavenIsHereIdlesRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
 } as const satisfies Release

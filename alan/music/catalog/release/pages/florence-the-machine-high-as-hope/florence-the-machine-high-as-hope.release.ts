@@ -7,7 +7,7 @@ export const florenceTheMachineHighAsHope = {
   title: "High As Hope",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 40.039083,
+  ownLength: 40.03908333333333,
   ownProgress: 40.039083,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const florenceTheMachineHighAsHope = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
 } as const satisfies Release

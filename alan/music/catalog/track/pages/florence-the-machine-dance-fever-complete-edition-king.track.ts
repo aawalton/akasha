@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const florenceTheMachineDanceFeverCompleteEditionKing = {
+  id: "01a14a1f-592d-769f-be7b-d280dce04427",
+  type: "page-type/track",
+  slug: "florence-the-machine-dance-fever-complete-edition-king",
+  ownLength: 4.668833333333334,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/florence-the-machine-dance-fever-complete-edition",
+    "release/florence-the-machine-dance-fever-deluxe",
+    "release/florence-the-machine-dance-fever",
+    "release/florence-the-machine-king",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "King",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/florence-the-machine" }],
+  trackKey: "king|1moxjboGR7GNWYIMWsRjgG|280130",
+  song: "song/florence-the-machine-king",
+  carriedBy: [
+    {
+      release: "release/florence-the-machine-dance-fever",
+      discNumber: 1,
+      position: 1,
+      externalId: "31ABtQJdfloNaGz7ZhXaN5",
+      externalLink: "https://open.spotify.com/track/31ABtQJdfloNaGz7ZhXaN5",
+    },
+    {
+      release: "release/florence-the-machine-dance-fever-complete-edition",
+      discNumber: 1,
+      position: 1,
+      externalId: "0Fg0SjqHuxTyrKEPmPtjNs",
+      externalLink: "https://open.spotify.com/track/0Fg0SjqHuxTyrKEPmPtjNs",
+    },
+    {
+      release: "release/florence-the-machine-dance-fever-deluxe",
+      discNumber: 1,
+      position: 1,
+      externalId: "3y7rwNtVmSo0dN5mhvv2dg",
+      externalLink: "https://open.spotify.com/track/3y7rwNtVmSo0dN5mhvv2dg",
+    },
+    {
+      release: "release/florence-the-machine-king",
+      discNumber: 1,
+      position: 1,
+      externalId: "1VSngtLdJhrlfHkLxTyOXK",
+      externalLink: "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK",
+    },
+  ],
+  createdAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
+} as const satisfies Track

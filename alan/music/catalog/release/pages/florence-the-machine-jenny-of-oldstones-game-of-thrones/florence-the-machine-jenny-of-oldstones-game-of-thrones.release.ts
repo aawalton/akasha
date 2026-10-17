@@ -7,7 +7,7 @@ export const florenceTheMachineJennyOfOldstonesGameOfThrones = {
   title: "Jenny of Oldstones (Game of Thrones)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 3.143967,
+  ownLength: 3.1439666666666666,
   ownProgress: 3.143967,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const florenceTheMachineJennyOfOldstonesGameOfThrones = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
 } as const satisfies Release

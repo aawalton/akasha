@@ -7,7 +7,7 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersi
   title: "MTV Presents Unplugged: Florence + The Machine (Deluxe Version)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 61.525233,
+  ownLength: 61.52523333333333,
   ownProgress: 61.525233,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersi
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:48:50.850Z",
 } as const satisfies Release
