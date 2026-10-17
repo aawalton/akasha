@@ -9,7 +9,7 @@ export const thornford00018 = {
   position: 18,
   prose: "txt",
   characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I turn her around and slowly undo the hooks, taking the time to kiss her back as I go down, inch by inch.",
   beats: "jsonl",
@@ -20,10 +20,15 @@ export const thornford00018 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/memory",
+  ],
   roleplayed: true,
   createdAt: "2026-10-17T22:14:47.590Z",
-  updatedAt: "2026-10-17T22:16:20.886Z",
+  updatedAt: "2026-10-17T22:16:39.323Z",
   ownLength: 136,
   endsAt: "2026-04-30T21:27:00.000Z",
 } as const satisfies StoryTurnPlayed
