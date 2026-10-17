@@ -12,7 +12,7 @@ export const conversationAsUnpredictablePunishment = {
     "all-about-alan-topic/why-people-read-as-unsafe",
   ],
   settled:
-    "The stress after a conversation comes from associating conversation with punishment, and from not being able to predict when the punishment will come.\n\nBeing able to read someone is not what spares my kids. I cannot consistently read them either, but when they respond poorly I do not feel threatened in the same way.\n\nI do not talk with other people's kids enough to know whether a child who is not mine sets it off.\n\nOne compression put to me has some resonance and is not quite right: anyone with power over me can punish me at any moment, I will not see it coming, and when it lands it will be my fault.\n\nI pay the cost whether or not any punishment is present in the conversation itself, and I pay it only afterwards.",
+    "My compression of the belief, still tentative: unscripted conversations are not safe and should be avoided, and if I have one I am putting myself in danger. It is broader than where it fires, classic overfitting.\n\nIt comes from associating conversation with punishment I cannot predict.\n\nI pay the cost whether or not any punishment is present in the conversation, and only afterwards. It feels most like punishing myself for something, rather than waiting for something or fully paying for something.\n\nWaiting on an open loop of a social interaction brings a similar pain, so something there is related.\n\nBeing able to read someone is not what spares my kids. I cannot consistently read them either, but when they respond poorly I do not feel threatened in the same way. I do not talk with other people's kids enough to know whether they set it off.",
   createdAt: "2026-10-17T15:14:26.024Z",
-  updatedAt: "2026-10-17T15:16:36.791Z",
+  updatedAt: "2026-10-17T15:18:46.077Z",
 } as const satisfies AllAboutAlanTopic
