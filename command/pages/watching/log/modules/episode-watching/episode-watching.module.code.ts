@@ -24,13 +24,13 @@ export type HeldShow = {
   readonly identities: readonly Row[]
 }
 
-export type HeldSeason = {
+type HeldSeason = {
   readonly slug: string
   readonly position: number
   readonly status: string | null
 }
 
-export type HeldEpisode = {
+type HeldEpisode = {
   readonly slug: string
   readonly season: string
   readonly position: number
@@ -38,7 +38,7 @@ export type HeldEpisode = {
   readonly ownLength: number
 }
 
-export type Planned = { readonly pages: readonly Naming[]; readonly report: readonly string[] }
+type Planned = { readonly pages: readonly Naming[]; readonly report: readonly string[] }
 
 type Placed = {
   readonly slug: string
@@ -141,7 +141,7 @@ function stated(key: string, value: unknown): Readonly<Record<string, unknown>> 
   return value === null ? {} : { [key]: value }
 }
 
-export function freshSeason(
+function freshSeason(
   shown: HeldShow,
   tv: string,
   aired: AiredSeason
@@ -169,7 +169,7 @@ export function freshSeason(
   }
 }
 
-export function freshEpisode(
+function freshEpisode(
   seasonSlug: string,
   tv: string,
   number: number,
