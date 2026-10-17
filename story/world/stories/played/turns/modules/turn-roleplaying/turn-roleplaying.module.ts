@@ -35,7 +35,12 @@ export const turnRoleplaying = {
       decisionKind: "decision-kind/departure",
       statement: "A roleplayed turn takes no lore, since the roleplay-worldbuilder files it apart.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A roleplayed turn runs no picture recorder, since the roleplay-illustrator pictures it.",
+    },
   ],
   createdAt: "2026-10-17T17:54:51.718Z",
-  updatedAt: "2026-10-17T20:49:15.708Z",
+  updatedAt: "2026-10-17T21:08:24.850Z",
 } as const satisfies Module

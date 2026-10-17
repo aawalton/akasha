@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { picture } from "akasha/story/recorder/pages/picture.story-recorder.ts"
 import {
   type Advanced,
   GAME_MASTER,
@@ -17,7 +18,10 @@ import {
   PROSE,
   refusalOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts"
-import { roleplayTakes } from "akasha/story/world/stories/played/turns/modules/turn-roleplaying/turn-roleplaying.module.code.ts"
+import {
+  recordersRun,
+  roleplayTakes,
+} from "akasha/story/world/stories/played/turns/modules/turn-roleplaying/turn-roleplaying.module.code.ts"
 import { roleOf } from "akasha/story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts"
 
 const HELD = heldAt(WORLD_BUILDER, { roleplayed: true })
@@ -49,6 +53,15 @@ test("a roleplayed turn whose story has no mechanics seat goes on to recorders",
   const said = movedOf(advancedOn(HELD, TOLD, []))
   expect(said.status).toBe(RECORDERS)
   expect(said.values.characters).toEqual(PROSE.characters)
+})
+
+test("a roleplayed turn runs every recorder but the picture recorder", () => {
+  const recorders = ["memory", picture.slug]
+  expect(recordersRun({ roleplayed: true }, recorders)).toEqual(["memory"])
+  expect(recordersRun({}, recorders)).toEqual(recorders)
+  const caller = { role: roleOf(HELD), game: HELD.game }
+  const said = movedOf(advanced(HELD, caller, TOLD, [], recorders, [], undefined, []))
+  expect(said.starts).toEqual([{ kind: "recorder", recorder: "memory" }])
 })
 
 test("a roleplayed turn at world-builder refuses prose without beats and beats without prose", () => {

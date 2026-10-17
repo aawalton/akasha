@@ -54,6 +54,7 @@ import {
 } from "akasha/story/world/stories/played/turns/modules/turn-prose/turn-prose.module.code.ts"
 import {
   fromRoleplay,
+  recordersRun,
   roleplayTakes,
   toldRefused,
 } from "akasha/story/world/stories/played/turns/modules/turn-roleplaying/turn-roleplaying.module.code.ts"
@@ -353,7 +354,11 @@ export function advanced(
         "this story keeps each chapter's prose in the file beside the chapter, so a writer hands in the prose itself",
     }
   }
-  const staff = { reviewers, recorders: leftOf(recorders, mechanics), mechanics }
+  const staff = {
+    reviewers,
+    recorders: recordersRun(held, leftOf(recorders, mechanics)),
+    mechanics,
+  }
   if (handed.kind === "lore") return fromWorldBuilder(held, handed.lore, admitted)
   if (handed.kind === "beats") {
     const { told } = handed

@@ -1,3 +1,4 @@
+import { picture } from "akasha/story/recorder/pages/picture.story-recorder.ts"
 import type {
   Admitted,
   Character,
@@ -17,6 +18,13 @@ type Narrated = Pick<Held, "status" | "roleplayed" | "noun">
 
 const TOLD_AS =
   "its beats and the prose written from them in one advance (`--beats-file` with `--prose-file` and `--character`)"
+
+export function recordersRun(
+  held: Pick<Held, "roleplayed">,
+  recorders: readonly string[]
+): readonly string[] {
+  return held.roleplayed === true ? recorders.filter((one) => one !== picture.slug) : recorders
+}
 
 export function roleplayTakes(held: Pick<Held, "status" | "roleplayed">): Handed["kind"] | null {
   return held.roleplayed === true && held.status === WORLD_BUILDER ? "beats" : null
