@@ -53,6 +53,7 @@ export const storyPlayed = {
     "relation-property/turn-undo",
     "text-property/turn-undo-refused",
     "boolean-property/roleplayed",
+    "module/played-quiet",
   ],
   decisions: [
     {
@@ -137,5 +138,5 @@ export const storyPlayed = {
     { pageProperty: "boolean-property/roleplayed", required: false, many: false },
   ],
   createdAt: "2026-09-02T22:01:28.988Z",
-  updatedAt: "2026-10-17T17:58:43.890Z",
+  updatedAt: "2026-10-17T18:26:26.512Z",
 } as const satisfies PageType

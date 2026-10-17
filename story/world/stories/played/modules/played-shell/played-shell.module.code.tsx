@@ -48,6 +48,7 @@ import {
   PlayedLayout,
 } from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
+import { useQuietFor } from "akasha/story/world/stories/played/modules/played-quiet/played-quiet.module.code.ts"
 import {
   PLAYED_APPOINTMENT_AT_KEY,
   PLAYED_APPOINTMENT_PAGE_TYPE_SLUG,
@@ -82,30 +83,7 @@ import {
   undoOffered,
   useTurnUndo,
 } from "akasha/story/world/stories/played/modules/turn-undo-control/turn-undo-control.module.code.tsx"
-import { useCallback, useEffect, useMemo, useState } from "react"
-
-const QUIET_TICK_MS = 15_000
-
-type Quiet = { readonly key: string | null; readonly since: number }
-
-function useQuietFor(key: string | null, working: boolean): number {
-  const [quiet, setQuiet] = useState<Quiet>(() => ({ key, since: Date.now() }))
-  const [now, setNow] = useState(() => Date.now())
-  useEffect(() => {
-    setQuiet({ key, since: Date.now() })
-  }, [key, working])
-  useEffect(() => {
-    if (key === null) return
-    const ticking = setInterval(() => {
-      setNow(Date.now())
-    }, QUIET_TICK_MS)
-    return () => {
-      clearInterval(ticking)
-    }
-  }, [key])
-  if (working || quiet.key !== key) return 0
-  return Math.max(0, now - quiet.since)
-}
+import { useCallback, useMemo, useState } from "react"
 
 const TITLE_ROW_WIDE = "hidden min-[584px]:block"
 

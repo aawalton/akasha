@@ -29,10 +29,6 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A step's quiet is timed from reaching the step or from its last working seat.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The story is the page its drawing was handed rather than a page read here again.",
     },
     {
@@ -132,5 +128,5 @@ export const playedShell = {
     },
   ],
   createdAt: "2026-09-14T19:28:23.697Z",
-  updatedAt: "2026-10-02T18:26:48.000Z",
+  updatedAt: "2026-10-17T18:26:26.512Z",
 } as const satisfies Module
