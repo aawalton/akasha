@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
+import { roleplayIllustrator } from "akasha/agent/role/pages/roleplay-illustrator.role.ts"
 import { roleplayRecorder } from "akasha/agent/role/pages/roleplay-recorder.role.ts"
 import { roleplayWorldbuilder } from "akasha/agent/role/pages/roleplay-worldbuilder.role.ts"
 import { roleplayTold } from "akasha/command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts"
@@ -33,9 +34,12 @@ const BUILDER = "awen-roleplay-worldbuilder-the-saga"
 
 const NARRATOR = "shaestrel-roleplay-the-saga"
 
+const ILLUSTRATOR = "the-saga-roleplay-illustrator"
+
 const SEATS: Readonly<Record<string, string>> = {
   [roleplayRecorder.slug]: RECORDER,
   [roleplayWorldbuilder.slug]: BUILDER,
+  [roleplayIllustrator.slug]: ILLUSTRATOR,
   [roleplay.slug]: NARRATOR,
 }
 
@@ -101,6 +105,30 @@ test("the roleplay-worldbuilder's notice carries no job", async () => {
   }
   await roleplayTold(notifying(sent, []), telling, after, seatsOf)
   expect(sent).toContain(`${BUILDER}: The turn \`${AT}\` is at mechanics.`)
+})
+
+test("a roleplayed turn leaving world-builder is told to its roleplay-illustrator, with no job", async () => {
+  const sent: string[] = []
+  const after: Told = { report: [], faults: [] }
+  const telling = {
+    root: "/r",
+    game: "the-saga",
+    turn: AT,
+    from: WORLD_BUILDER,
+    status: MECHANICS,
+    jobs: ["a job"],
+  }
+  await roleplayTold(notifying(sent, []), telling, after, seatsOf)
+  expect(sent).toContain(`${ILLUSTRATOR}: The turn \`${AT}\` is at mechanics.`)
+  expect(after.report).toContain(`told\t${ILLUSTRATOR}`)
+})
+
+test("a roleplayed turn moving on past mechanics is not told to its roleplay-illustrator", async () => {
+  const sent: string[] = []
+  const after: Told = { report: [], faults: [] }
+  const telling = { root: "/r", game: "the-saga", turn: AT, from: RECORDERS, status: PLAYER }
+  await roleplayTold(notifying(sent, []), telling, after, seatsOf)
+  expect(sent.some((one) => one.startsWith(ILLUSTRATOR))).toBe(false)
 })
 
 test("a roleplayed turn leaving world-builder pushes Alan that it is ready", async () => {

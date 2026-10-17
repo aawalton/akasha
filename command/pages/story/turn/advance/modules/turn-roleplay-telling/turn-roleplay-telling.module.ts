@@ -19,7 +19,7 @@ export const turnRoleplayTelling = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A roleplayed turn leaving world-builder is told to each roleplay-worldbuilder too.",
+        "A roleplayed turn leaving world-builder is told to each worldbuilder and illustrator too.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -32,7 +32,7 @@ export const turnRoleplayTelling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roleplay-worldbuilder's notice carries no job.",
+      statement: "A roleplay-worldbuilder's or roleplay-illustrator's notice carries no job.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -58,5 +58,5 @@ export const turnRoleplayTelling = {
     },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-17T20:51:44.066Z",
+  updatedAt: "2026-10-17T21:07:26.540Z",
 } as const satisfies Module

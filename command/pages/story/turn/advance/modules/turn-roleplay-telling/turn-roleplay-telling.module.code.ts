@@ -1,4 +1,5 @@
 import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
+import { roleplayIllustrator } from "akasha/agent/role/pages/roleplay-illustrator.role.ts"
 import { roleplayRecorder } from "akasha/agent/role/pages/roleplay-recorder.role.ts"
 import { roleplayWorldbuilder } from "akasha/agent/role/pages/roleplay-worldbuilder.role.ts"
 import { akashaSeatsStated } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
@@ -33,6 +34,8 @@ const JOBS_OPENING =
   "No seat is started for this step: do each job below yourself, in its order, one advance each, and wait only once the last has landed."
 
 const JOB_BREAK = "\n\n---\n\n"
+
+const HELPERS: readonly string[] = [roleplayWorldbuilder.slug, roleplayIllustrator.slug]
 
 export type Roleplaying = (game: string, role: string) => readonly string[]
 
@@ -80,10 +83,10 @@ export async function roleplayTold(
     )
     return undefined
   }
-  const builders = told ? seatsOf(telling.game, roleplayWorldbuilder.slug) : []
+  const helpers = told ? HELPERS.flatMap((role) => seatsOf(telling.game, role)) : []
   const said = noticeOf(telling.turn, telling.status, [], noun, telling.repairs ?? [])
   const asked = jobsSaid(said, telling.jobs ?? [])
-  for (const to of [...owners, ...builders]) {
+  for (const to of [...owners, ...helpers]) {
     const why = await reach.notify(to, owners.includes(to) ? asked : said)
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the ${noun} moved: ${why}`)
