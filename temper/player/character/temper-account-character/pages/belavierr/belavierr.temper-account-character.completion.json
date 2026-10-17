@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQISrTAAIBkBRMi5V1ACFrPLclLVOUAIWqcoAQtU5QAhapygBC1TlACCUnKAEEpOUAIJScoAJNFJygCTCKTlAF9IwnOQUftAh1D3AAAAHVMkAAgjUEABAGAACQAIBAQQACEAADJwAjAGYADkABCA0IABDJIFAjEQgwhQCgiAMAHIAxAcEABDA4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkLEMEnYOQNY",
+  "buildHash": "ATQISqTAAIBkBRMi5V1ACFrPLclLVOUAIWqcoAQtU5QAhapygBC1TlACCUnKAEEpOUAIJScoAJNFJygCTCKTlAF9IwnOQUftAh1D3AAAAHVMkAAgjUEABAGAACQAIBAQQACEAADJwAjAGYADkABCA0IABDJIFAjEQgwhQCgiAMAHIAxAcEABDA4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkLEMEnYOQNY",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -2715,7 +2715,7 @@
       "nextRankXP": 140
     },
     "117": {
-      "currentRank": 6,
+      "currentRank": 7,
       "currentXP": 35,
       "nextRankXP": 40
     },
@@ -7621,6 +7621,7 @@
     7017,
     7021,
     7104,
+    7168,
     7186,
     7194,
     7250,
@@ -13691,41 +13692,41 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792254090,
+      "capturedAt": 1792257640,
       "inCombat": false,
       "stats": {
-        "stamina-recovery": 1641,
-        "stamina-maximum": 25977,
-        "critical-rating-spell": 5568,
-        "resistance-spell": 20136,
-        "magicka-maximum": 12520,
-        "resistance-critical": 1320,
         "magicka-recovery": 728,
-        "penetration-spell": 7394,
-        "health-recovery": 160,
-        "power-weapon": 3460,
-        "resistance-physical": 20136,
-        "critical-rating-weapon": 5568,
-        "power-spell": 3460,
         "penetration-physical": 7394,
-        "health-maximum": 18960
+        "stamina-recovery": 1641,
+        "resistance-spell": 20136,
+        "stamina-maximum": 25977,
+        "critical-rating-weapon": 5568,
+        "critical-rating-spell": 5568,
+        "penetration-spell": 7394,
+        "power-weapon": 4231,
+        "resistance-physical": 20136,
+        "power-spell": 4231,
+        "magicka-maximum": 12520,
+        "health-maximum": 18960,
+        "resistance-critical": 1320,
+        "health-recovery": 279
       },
       "unbonusedStats": {
-        "stamina-recovery": 1641,
-        "stamina-maximum": 25977,
-        "critical-rating-spell": 2181,
-        "resistance-spell": 0,
-        "magicka-maximum": 12520,
-        "resistance-critical": 0,
         "magicka-recovery": 728,
+        "penetration-physical": 0,
+        "stamina-recovery": 1641,
+        "resistance-spell": 0,
+        "stamina-maximum": 25977,
+        "critical-rating-weapon": 2181,
+        "critical-rating-spell": 2181,
         "penetration-spell": 0,
-        "health-recovery": 160,
         "power-weapon": 1000,
         "resistance-physical": 0,
-        "critical-rating-weapon": 2181,
         "power-spell": 1000,
-        "penetration-physical": 0,
-        "health-maximum": 18960
+        "magicka-maximum": 12520,
+        "health-maximum": 18960,
+        "resistance-critical": 0,
+        "health-recovery": 279
       },
       "activeBuffs": [
         {
@@ -13764,10 +13765,24 @@
           "stacks": 0
         },
         {
-          "abilityId": 135400,
-          "name": "Vampire Stage 3",
+          "abilityId": 135399,
+          "name": "Vampire Stage 2",
           "description": "",
-          "effect": "You are heavily corrupted from the influence of Vampirism.\n\nHealth Recovery: -60%\nFlame Damage Taken: +13%\nRegular Ability Costs: +8%\nVampire Ability Costs: -16%\n",
+          "effect": "You are moderately corrupted from the influence of Vampirism.\n\nHealth Recovery: -30%\nFlame Damage Taken: +8%\nRegular Ability Costs: +5%\nVampire Ability Costs: -10%\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 184860,
+          "name": "Harnessed Quintessence",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 135190,
+          "name": "Strike from the Shadows",
+          "description": "",
+          "effect": "",
           "stacks": 0
         }
       ],
@@ -14345,7 +14360,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:4450:0|h|h",
+          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:4350:0|h|h",
           "armor": 2012,
           "enchant": "Adds |cffffff802|r Maximum Stamina.",
           "trait": "Reduces the cost of Roll Dodge and Sprint by |cffffff4.8|r%.",
@@ -14361,7 +14376,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:149437:363:50:0:0:0:5:25:0:0:0:0:0:0:2049:84:0:1:0:138:0|h|h",
+          "link": "|H0:item:149437:363:50:0:0:0:5:25:0:0:0:0:0:0:2049:84:0:1:0:137:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff1859|r Physical Damage and restores |cffffff327|r Stamina.",
           "trait": "Increases Physical and Spell Resistance by |cffffff3161|r.",
@@ -14369,7 +14384,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:96978:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:4390:0|h|h",
+          "link": "|H0:item:96978:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:4190:0|h|h",
           "armor": 754,
           "enchant": "Adds |cffffff324|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
@@ -14377,7 +14392,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:96976:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:3100:0|h|h",
+          "link": "|H0:item:96976:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:2900:0|h|h",
           "armor": 1760,
           "enchant": "Adds |cffffff802|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
@@ -14429,7 +14444,7 @@
           "slot": 3,
           "abilityId": 183047,
           "name": "Recuperative Treatise",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3641|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff4084|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
           "durationMs": 30000,
           "castMs": 0,
           "channeled": false,
@@ -14440,7 +14455,7 @@
           "slot": 4,
           "abilityId": 183006,
           "name": "Cephaliarch's Flail",
-          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff6425|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff2829|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff7207|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3198|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
           "durationMs": 0,
           "castMs": 300,
           "channeled": false,
@@ -14451,7 +14466,7 @@
           "slot": 5,
           "abilityId": 193398,
           "name": "Pragmatic Fatecarver",
-          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff2912|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff9480|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3267|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff9480|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
           "durationMs": 0,
           "castMs": 4500,
           "channeled": true,
@@ -14462,7 +14477,7 @@
           "slot": 6,
           "abilityId": 61507,
           "name": "Resolving Vigor",
-          "description": "Let loose a battle cry, instilling yourself with resolve and healing for |cffffff15252|r Health over |cffffff5|r seconds.\n\nAfter casting you gain Minor Resolve, increasing your Physical and Spell Resistance by |cffffff2974|r, for |cffffff20|r seconds.",
+          "description": "Let loose a battle cry, instilling yourself with resolve and healing for |cffffff17226|r Health over |cffffff5|r seconds.\n\nAfter casting you gain Minor Resolve, increasing your Physical and Spell Resistance by |cffffff2974|r, for |cffffff20|r seconds.",
           "durationMs": 5000,
           "castMs": 0,
           "channeled": false,
@@ -14473,7 +14488,7 @@
           "slot": 7,
           "abilityId": 61927,
           "name": "Relentless Focus",
-          "description": "When slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff13112|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range.",
+          "description": "When slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff14707|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -14484,12 +14499,12 @@
           "slot": 8,
           "abilityId": 40239,
           "name": "Replenishing Barrier",
-          "description": "Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff37008|r damage. \n\nEach time a ward dissolves, you restore |cffffff1500|r Magicka.",
+          "description": "Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff41816|r damage. \n\nEach time a ward dissolves, you restore |cffffff1500|r Magicka.",
           "durationMs": 30000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 270
+          "ultimateCost": 263
         }
       ],
       "classPassives": [
