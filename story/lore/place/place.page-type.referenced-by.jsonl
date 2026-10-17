@@ -695,6 +695,8 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-wardens-eye.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-wardens-shelf.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-places-she-carries/places/the-places-she-carries-wardens-stair.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/thornford/places/thornford-beltane-green.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/thornford/places/thornford-fae-country.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/thornford/places/thornford-nalas-shop.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/thornford/places/thornford-stone-ford.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/thornford/places/thornford-town.place.ts","typed":true,"deferred":false}
