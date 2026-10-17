@@ -32,7 +32,27 @@ export const thornfordBeltane = {
       fact: "At the Beltane dance the Spring Court hands the year to the Summer Court, before every court.",
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
+    {
+      fact: "A mortal crosses the ford on a quarter night only as a fae's guest, led over by the hand.",
+      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+    },
+    {
+      fact: "Valley folk say a mortal who eats or drinks across the ford never comes home.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "A mortal who eats or drinks across the ford is held there until the next quarter day.",
+      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+    },
+    {
+      fact: "A mortal guest who keeps from food and drink comes home at dawn, a night older and no more.",
+      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+    },
   ],
   createdAt: "2026-10-17T20:05:47.824Z",
-  updatedAt: "2026-10-17T20:05:47.824Z",
+  updatedAt: "2026-10-17T21:56:51.914Z",
 } as const satisfies Lore

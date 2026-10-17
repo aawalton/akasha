@@ -33,6 +33,10 @@ export const thornfordGreyGreenSilk = {
       knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
     },
     {
+      fact: "The arm's length left after cutting the gown is enough for a sash, a shawl or a bodice, not a gown.",
+      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
+    },
+    {
       fact: "Nala cut the gown's pieces from the silk on the night of April 29, with Shaestrel watching.",
       knowers: [
         "lore-disclosure/game-master",
@@ -42,5 +46,5 @@ export const thornfordGreyGreenSilk = {
     },
   ],
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T21:53:16.097Z",
+  updatedAt: "2026-10-17T21:56:51.914Z",
 } as const satisfies Lore

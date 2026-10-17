@@ -73,7 +73,15 @@ export const thornfordShaestrel = {
       ],
     },
     {
-      fact: "At the fitting she took Nala's waist with Nala's tape, and said she has Nala's measure now as well.",
+      fact: "She told Nala she will bring her across the ford to the dance on Beltane night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "She told Nala to make herself something from the spare silk, so the two of them match.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/thornford-nala",
@@ -90,5 +98,5 @@ export const thornfordShaestrel = {
     },
   ],
   createdAt: "2026-10-17T20:36:43.997Z",
-  updatedAt: "2026-10-17T21:51:00.785Z",
+  updatedAt: "2026-10-17T21:56:51.914Z",
 } as const satisfies Lore
