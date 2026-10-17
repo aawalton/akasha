@@ -77,10 +77,10 @@ export const thornfordFaeBargainsAndGlamour = {
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
     {
-      fact: "There is a reason Shaestrel cannot buy a gown from the town's established dressmakers.",
+      fact: "A rowan thread sewn into a gown a fae wears parts every seam of that gown within the hour.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T20:03:46.072Z",
+  updatedAt: "2026-10-17T20:05:03.992Z",
 } as const satisfies Lore

@@ -1,6 +1,7 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/shaestrel-roleplay-thornford/shaestrel-roleplay-thornford.seat.ts","id":"01a14b70-63b7-7000-80cb-532a04964c50"}
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/thornford-roleplay-recorder/thornford-roleplay-recorder.seat.ts","id":"01a14b71-b1de-7000-a64f-3f75ee486bfe"}
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/thornford-roleplay-worldbuilder/thornford-roleplay-worldbuilder.seat.ts","id":"01a14b71-bb1b-7000-a692-4b640e115128"}
+{"propertySlug":"character-story","path":"story/world/pages/thornford/stories/played/thornford/characters/thornford-morag-bain.character-other.ts","id":"01a14b77-c97a-7fac-8500-4b493ad0f026"}
 {"propertySlug":"character-story","path":"story/world/pages/thornford/stories/played/thornford/characters/thornford-nala.character-player.ts","id":"01a14b65-1e22-7f5e-bf33-c94c9f944cbb"}
 {"propertySlug":"character-story","path":"story/world/pages/thornford/stories/played/thornford/characters/thornford-shaestrel.character-other.ts","id":"01a14b65-1e22-7270-b457-bc25b84245df"}
 {"propertySlug":"import","fileName":"thornford.story-played.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.test.ts","typed":false,"deferred":false}

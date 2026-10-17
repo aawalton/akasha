@@ -19,11 +19,7 @@ export const thornfordTown = {
       fact: "The town's dressmakers' guild is jealous of its trade.",
       knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
     },
-    {
-      fact: "Someone in Thornford wants the Spring Court to look foolish at the Beltane dance.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
   createdAt: "2026-10-17T19:44:40.481Z",
-  updatedAt: "2026-10-17T19:44:40.481Z",
+  updatedAt: "2026-10-17T20:05:03.992Z",
 } as const satisfies Place
