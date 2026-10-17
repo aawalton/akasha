@@ -56,7 +56,23 @@ export const thornfordShaestrel = {
       fact: "A mortal who knows a fae's true name can call that fae to them from anywhere, once.",
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
+    {
+      fact: "She told Nala her name, Shaestrel, on the evening of April 28.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "She will return on April 29 when the lamps are lit, for the gown's first fitting.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T20:36:43.997Z",
-  updatedAt: "2026-10-17T20:48:57.552Z",
+  updatedAt: "2026-10-17T20:50:27.809Z",
 } as const satisfies Lore
