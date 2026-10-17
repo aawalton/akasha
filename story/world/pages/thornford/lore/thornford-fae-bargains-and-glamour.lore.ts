@@ -98,7 +98,11 @@ export const thornfordFaeBargainsAndGlamour = {
     },
     {
       fact: "Shaestrel needs a gown for the Beltane dance, made by mortal hands so it is a gown at dawn.",
-      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/thornford-shaestrel",
+        "character-player/thornford-nala",
+      ],
     },
     {
       fact: "Shaestrel's terms: the gown done by moonrise on Beltane night, and Nala may ask her one thing.",
@@ -142,5 +146,5 @@ export const thornfordFaeBargainsAndGlamour = {
     },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T20:11:21.936Z",
+  updatedAt: "2026-10-17T20:13:11.335Z",
 } as const satisfies Lore
