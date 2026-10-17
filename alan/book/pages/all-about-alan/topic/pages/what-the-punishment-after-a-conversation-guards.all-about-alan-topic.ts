@@ -12,7 +12,7 @@ export const whatThePunishmentAfterAConversationGuards = {
     "all-about-alan-topic/punished-by-my-other-half",
   ],
   settled:
-    'The punishment after a conversation arrives too late to protect me from that conversation. It guards by making the next one costlier.\n\nWhat it guards against is punishment from other people. I have been punished by others often enough for saying or doing the wrong thing in a conversation that I developed a trauma response through operant conditioning.\n\nThe deterrent has worked. It has made me avoid many conversations.\n\nI seek conversations anyway now, so the protection could be obsolete. The deterrent is likely causing more pain and damage than the conversations themselves.\n\nI am not sure the guard charges a second cost. The crash may be just the physical symptom of an overloaded nervous system, with the guard being the "I hate myself" narrative that comes after it.',
+    'The punishment after a conversation arrives too late to protect me from that conversation. It guards by making the next one costlier.\n\nWhat it guards against is punishment from other people. I have been punished by others often enough for saying or doing the wrong thing in a conversation that I developed a trauma response through operant conditioning.\n\nThe deterrent has worked. It has made me avoid many conversations.\n\nI seek conversations anyway now, so the protection could be obsolete. The deterrent is likely causing more pain and damage than the conversations themselves.\n\nThe crash is the physical symptom of an overloaded nervous system, not a second cost. The guard is the "I hate myself" narrative after it. A long talk with Jen on a good day leaves the drain without the verdict.',
   createdAt: "2026-10-17T15:25:52.954Z",
-  updatedAt: "2026-10-17T15:55:19.756Z",
+  updatedAt: "2026-10-17T15:56:08.564Z",
 } as const satisfies AllAboutAlanTopic
