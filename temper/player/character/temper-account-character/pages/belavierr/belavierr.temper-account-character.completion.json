@@ -2716,7 +2716,7 @@
     },
     "117": {
       "currentRank": 5,
-      "currentXP": 25,
+      "currentXP": 30,
       "nextRankXP": 35
     },
     "130": {
@@ -4072,6 +4072,7 @@
       "28": [
         28,
         37,
+        55,
         66,
         77
       ]
@@ -7470,6 +7471,7 @@
     5545,
     5549,
     5556,
+    5570,
     5577,
     5582,
     5733,
@@ -13686,7 +13688,7 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792251360,
+      "capturedAt": 1792252396,
       "inCombat": false,
       "stats": {
         "stamina-recovery": 1641,
@@ -13738,10 +13740,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
+          "abilityId": 61667,
+          "name": "Major Savagery",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
           "stacks": 0
         },
         {
@@ -13752,10 +13754,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61667,
-          "name": "Major Savagery",
+          "abilityId": 61665,
+          "name": "Major Brutality",
           "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
         },
         {
@@ -13764,13 +13766,6 @@
           "description": "",
           "effect": "You are heavily corrupted from the influence of Vampirism.\n\nHealth Recovery: -60%\nFlame Damage Taken: +13%\nRegular Ability Costs: +8%\nVampire Ability Costs: -16%\n",
           "stacks": 0
-        },
-        {
-          "abilityId": 122587,
-          "name": "Relentless Focus",
-          "description": "",
-          "effect": "",
-          "stacks": 2
         }
       ],
       "championPoints": [
