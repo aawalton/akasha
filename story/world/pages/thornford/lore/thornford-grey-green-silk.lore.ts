@@ -52,7 +52,23 @@ export const thornfordGreyGreenSilk = {
       fact: "On the night of April 28 a steel needle would not pierce the silk, and bent against it.",
       knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
     },
+    {
+      fact: "A birch-leaf stem pared to a point slips into the silk, but is too soft to sew and folds.",
+      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
+    },
+    {
+      fact: "Birch sap leaves a dark green stain in the silk that will not lift.",
+      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
+    },
+    {
+      fact: "A thumbnail-sized sap stain sits at the cut end of the bolt, where Nala tried her stitches.",
+      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
+    },
+    {
+      fact: "The stained cut end lies within the spare arm's length, so the gown can be cut clear of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T21:20:03.445Z",
+  updatedAt: "2026-10-17T21:22:13.414Z",
 } as const satisfies Lore
