@@ -6,6 +6,7 @@ export const thornford = {
   slug: "thornford",
   title: "Thornford",
   world: "world/thornford",
+  domain: "domain/explicitness",
   unit: "unit/words",
   externalId: "thornford",
   coordinatorAgent: "shaestrel-roleplay-thornford",
@@ -20,5 +21,5 @@ export const thornford = {
     "played-panel/player-intent",
   ],
   createdAt: "2026-10-17T19:44:03.064Z",
-  updatedAt: "2026-10-17T19:51:56.230Z",
+  updatedAt: "2026-10-17T20:52:21.993Z",
 } as const satisfies StoryPlayed
