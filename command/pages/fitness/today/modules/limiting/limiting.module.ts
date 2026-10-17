@@ -36,6 +36,15 @@ export const limiting = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A legs day before the first day the selection policy states for the legs factor has the limit alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a legs day moved its limit where that day moved the limit alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The rise and the fall move the limit itself, so the legs factor reaches no day but a legs day.",
     },
     {
@@ -67,6 +76,6 @@ export const limiting = {
       statement: "A set naming a movement this does not know moves the weight it states alone.",
     },
   ],
-  updatedAt: "2026-10-17T12:32:23.782Z",
+  updatedAt: "2026-10-17T12:33:49.000Z",
   createdAt: "2026-09-21T13:42:03.180Z",
 } as const satisfies Module
