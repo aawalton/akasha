@@ -12,15 +12,17 @@ export const thornford00003 = {
   stepStatus: "step-status/mechanics",
   action: '"Deal"',
   beats: "jsonl",
+  lore: ["lore/thornford-fae-bargains-and-glamour"],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
+  recordedBy: ["story-recorder/inventory"],
   roleplayed: true,
   createdAt: "2026-10-17T20:32:49.969Z",
-  updatedAt: "2026-10-17T20:34:17.053Z",
+  updatedAt: "2026-10-17T20:34:51.680Z",
   ownLength: 107,
   endsAt: "2026-04-28T18:09:00.000Z",
 } as const satisfies StoryTurnPlayed
