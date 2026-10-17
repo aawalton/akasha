@@ -7,9 +7,13 @@ export const thornford00016 = {
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 16,
-  stepStatus: "step-status/world-builder",
+  prose: "txt",
+  characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
+  stepStatus: "step-status/mechanics",
   action:
     'I step in closer to her, putting one hand behind her back at her waist and the other behind her head, leaning in close. "I\'m have my question for you now. Would you like to dance?"',
+  beats: "jsonl",
+  lore: ["lore/thornford-shaestrel"],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
@@ -18,6 +22,7 @@ export const thornford00016 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T22:09:14.986Z",
-  updatedAt: "2026-10-17T22:10:03.024Z",
+  updatedAt: "2026-10-17T22:10:15.934Z",
+  ownLength: 112,
   endsAt: "2026-04-30T21:20:00.000Z",
 } as const satisfies StoryTurnPlayed
