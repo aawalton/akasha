@@ -45,13 +45,25 @@ test("plain lines are beats with no scene, and a record's event is its beat", ()
 test("a record stating a key no beat states, or no event, is refused by its place", () => {
   const stray = JSON.stringify({ event: "Mara waits", mood: "grim" })
   expect(plannedIn(["one", stray])).toEqual({
-    refused: "beat 2 states `mood`, and a beat states event, at, place, present, arrive, leave",
+    refused:
+      "beat 2 states `mood`, and a beat states beat, event, at, place, present, arrive, leave",
   })
   expect(plannedIn([JSON.stringify({ place: HALL })])).toEqual({
     refused: "beat 1 states no `event`",
   })
   expect(plannedIn(["{ not json"])).toEqual({
     refused: "beat 1 opens as a record and is no json object",
+  })
+})
+
+test("a record may name its beat as a landed beats file does, and a wrong number is refused", () => {
+  const landed = JSON.stringify({ beat: 2, event: "Mara reaches the hall", place: HALL })
+  expect(plannedIn([JSON.stringify({ beat: 1, event: "Mara waits" }), landed])).toEqual({
+    beats: ["Mara waits", "Mara reaches the hall"],
+    scenes: [{ beat: 2, place: HALL }],
+  })
+  expect(plannedIn(["Mara waits", JSON.stringify({ beat: 3, event: "b" })])).toEqual({
+    refused: "line 2 names beat 3, out of order",
   })
 })
 

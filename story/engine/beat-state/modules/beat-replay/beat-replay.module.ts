@@ -15,6 +15,11 @@ export const beatReplay = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A record may state its beat as a landed beats file does, and only as the line's own number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A record states the beat's time, place, who is there, who arrives and who leaves.",
     },
     {
@@ -48,5 +53,5 @@ export const beatReplay = {
     },
   ],
   createdAt: "2026-10-03T14:44:06.617Z",
-  updatedAt: "2026-10-03T14:50:56.000Z",
+  updatedAt: "2026-10-17T21:22:22.903Z",
 } as const satisfies Module

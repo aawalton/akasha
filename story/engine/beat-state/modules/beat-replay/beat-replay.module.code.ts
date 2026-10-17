@@ -34,9 +34,11 @@ const LISTS = ["present", "arrive", "leave"] as const
 
 const TEXTS = ["at", "place"] as const
 
+const BEAT = "beat"
+
 const EVENT = "event"
 
-const KNOWN: readonly string[] = [EVENT, ...TEXTS, ...LISTS]
+const KNOWN: readonly string[] = [BEAT, EVENT, ...TEXTS, ...LISTS]
 
 const OPENS_RECORD = "{"
 
@@ -172,6 +174,10 @@ export function plannedIn(lines: readonly string[]): Planned | Refused {
       return {
         refused: `beat ${beat} states \`${unknown}\`, and a beat states ${KNOWN.join(", ")}`,
       }
+    }
+    const named = held[BEAT]
+    if (named !== undefined && named !== beat) {
+      return { refused: `line ${beat} names beat ${String(named)}, out of order` }
     }
     const event = held[EVENT]
     if (typeof event !== "string" || event.trim() === "") {
