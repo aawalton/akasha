@@ -7652,6 +7652,7 @@
     7359,
     7360,
     7419,
+    7427,
     7442,
     7453
   ],
@@ -13705,7 +13706,7 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792261511,
+      "capturedAt": 1792262473,
       "inCombat": false,
       "stats": {
         "resistance-critical": 1320,
@@ -13757,10 +13758,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61667,
-          "name": "Major Savagery",
+          "abilityId": 61665,
+          "name": "Major Brutality",
           "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
         },
         {
@@ -13771,10 +13772,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
+          "abilityId": 61667,
+          "name": "Major Savagery",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
           "stacks": 0
         },
         {
@@ -14343,7 +14344,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:205386:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:0:0:1:0:9000:0|h|h",
+          "link": "|H0:item:205386:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:0:0:1:0:8950:0|h|h",
           "armor": 1221,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14359,7 +14360,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:3850:0|h|h",
+          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:3800:0|h|h",
           "armor": 2012,
           "enchant": "Adds |cffffff802|r Maximum Stamina.",
           "trait": "Reduces the cost of Roll Dodge and Sprint by |cffffff4.8|r%.",
