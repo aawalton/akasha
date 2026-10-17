@@ -9,7 +9,6 @@ export const noTropes = {
   warrant:
     "A trope reads as feeling the first time and as a formula after, so it costs the scene its truth.",
   aids: [
-    "Never write that no one has ever done this for her, or that she is the first to.",
     "Never give a character, or the narration, an overly dramatic extreme: never, always, the most.",
     "A superlative a real person would not say aloud in this moment is an extreme.",
     "Show the feeling through what she does or says here, in words only she would use.",
@@ -22,5 +21,5 @@ export const noTropes = {
     },
   ],
   createdAt: "2026-10-03T20:07:26.263Z",
-  updatedAt: "2026-10-03T20:08:08.000Z",
+  updatedAt: "2026-10-17T17:47:08.433Z",
 } as const satisfies StyleRule
