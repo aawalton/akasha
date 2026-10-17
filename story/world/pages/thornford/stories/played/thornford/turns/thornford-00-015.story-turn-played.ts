@@ -4,6 +4,7 @@ export const thornford00015 = {
   id: "01a14be6-08e2-763b-98df-d89c65355520",
   type: "page-type/story-turn-played",
   slug: "thornford-00-015",
+  cover: "image/image-22015433ee97d1e8",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 15,
@@ -26,8 +27,9 @@ export const thornford00015 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "She steps close enough that the hem brushes your feet.",
   createdAt: "2026-10-17T22:05:29.186Z",
-  updatedAt: "2026-10-17T22:07:50.791Z",
+  updatedAt: "2026-10-17T22:13:24.784Z",
   ownLength: 201,
   endsAt: "2026-04-30T21:18:00.000Z",
 } as const satisfies StoryTurnPlayed
