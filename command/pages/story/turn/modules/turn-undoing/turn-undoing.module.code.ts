@@ -221,7 +221,7 @@ function undoingRead(
   const restored: Restored[] = []
   for (const path of [...touched].sort()) {
     const now = reach.bodyNow(root, path)
-    if (now !== reach.bodyThen(root, making.moved, path)) {
+    if (path !== turn.at && now !== reach.bodyThen(root, making.moved, path)) {
       return {
         refused: `\`${path}\` changed since ${since}, so going back to its body before the turn would undo that change too`,
       }

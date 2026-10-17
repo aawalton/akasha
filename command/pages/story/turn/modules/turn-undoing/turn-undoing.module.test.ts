@@ -88,8 +88,15 @@ committed(`${SLUG} moves from recorders to recorders`, {
   [HALL_AT]: HALL_RECORDED,
 })
 committed(`${SLUG} moves from recorders to player`, { [AT]: "at player\n" })
+committed(`${SLUG} takes its cover`, { [AT]: "at player, with a cover\n" })
 
 const TURN = { at: AT, slug: SLUG, value: {} }
+
+test("a cover landed on the turn's page after player is no change that refuses the undoing", () => {
+  expect(undoingOf(TURN_UNDOING, REPO, TURN, FOLDERS)).toMatchObject({
+    restored: expect.arrayContaining([{ path: AT, body: null }]),
+  })
+})
 
 test("a turn made in a batched commit has the lore its recorders landed put back, and no engine fix", () => {
   expect(undoingOf(TURN_UNDOING, REPO, TURN, FOLDERS)).toEqual({

@@ -78,6 +78,10 @@ export const turnUndoing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The turn's own page is never refused for a change since its making ended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A world file is refused and named where another story of the world changed during the making.",
     },
@@ -88,5 +92,5 @@ export const turnUndoing = {
     },
   ],
   createdAt: "2026-09-29T03:44:32.550Z",
-  updatedAt: "2026-09-29T05:26:01.000Z",
+  updatedAt: "2026-10-17T21:29:38.672Z",
 } as const satisfies Module
