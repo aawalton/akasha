@@ -4,6 +4,7 @@ export const thornford00006 = {
   id: "01a14bb8-37da-7e94-aab2-a852a5c6b910",
   type: "page-type/story-turn-played",
   slug: "thornford-00-006",
+  cover: "image/image-7b26b2d00e098e75",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 6,
@@ -26,8 +27,9 @@ export const thornford00006 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "You press harder. The needle bends in your fingers. The silk lies smooth",
   createdAt: "2026-10-17T21:15:26.554Z",
-  updatedAt: "2026-10-17T21:20:03.445Z",
+  updatedAt: "2026-10-17T21:20:14.528Z",
   ownLength: 224,
   endsAt: "2026-04-28T22:45:00.000Z",
 } as const satisfies StoryTurnPlayed
