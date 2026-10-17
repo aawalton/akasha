@@ -68,7 +68,11 @@ export const thornfordGreyGreenSilk = {
       fact: "The stained cut end lies within the spare arm's length, so the gown can be cut clear of it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A birch-leaf stem needle entered the silk, then folded, and its sap left a stain that won't lift.",
+      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
+    },
   ],
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T21:22:13.414Z",
+  updatedAt: "2026-10-17T21:22:32.563Z",
 } as const satisfies Lore
