@@ -7,9 +7,13 @@ export const thornford00019 = {
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 19,
-  stepStatus: "step-status/world-builder",
+  prose: "txt",
+  characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
+  stepStatus: "step-status/mechanics",
   action:
     'I kiss her, hungrily, testing and exploring her mouth with my tongue. When we break away, I gasp "I feel a bit overdressed for this dance. Would you help me with that?"',
+  beats: "jsonl",
+  lore: ["lore/thornford-shaestrel"],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
@@ -18,6 +22,7 @@ export const thornford00019 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T22:17:16.145Z",
-  updatedAt: "2026-10-17T22:17:43.031Z",
+  updatedAt: "2026-10-17T22:17:56.488Z",
+  ownLength: 177,
   endsAt: "2026-04-30T22:37:00.000Z",
 } as const satisfies StoryTurnPlayed
