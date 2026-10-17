@@ -48,11 +48,7 @@ export const thornfordGreyGreenSilk = {
       fact: "Shaestrel does not know the silk balks at steel; the fae sew with thorn and bone.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "On the night of April 28 a steel needle would not pierce the silk, and bent against it.",
-      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
-    },
   ],
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T21:20:03.445Z",
+  updatedAt: "2026-10-17T20:35:39.136Z",
 } as const satisfies Lore

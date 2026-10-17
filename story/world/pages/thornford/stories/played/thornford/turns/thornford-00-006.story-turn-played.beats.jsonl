@@ -1,9 +1,0 @@
-{"beat":1,"event":"Nala tells Shaestrel, by name, that she'll see her tomorrow.","place":"place/thornford-nalas-shop","present":["character-player/thornford-nala","character-other/thornford-shaestrel"]}
-{"beat":2,"event":"Shaestrel smiles, quick and pleased, and goes out into the rain.","leave":["character-other/thornford-shaestrel"]}
-{"beat":3,"event":"Nala shoots the bolt home again and turns up the lamp."}
-{"beat":4,"event":"She drafts the gown on brown paper from the measures in her book."}
-{"beat":5,"event":"She pins the paper pieces to unbleached calico and cuts a toile for the fitting."}
-{"beat":6,"event":"At the treadle machine she tacks the toile together with long loose stitches."}
-{"beat":7,"event":"Late at night she threads a steel needle to try a stitch at the silk's cut end.","at":"2026-04-28T22:40:00.000Z","changes":[{"page":"story-item/thornford-grey-green-silk","note":"Grey-green silk left in Nala's keeping for the gown","key":"character","from":"character-other/thornford-shaestrel","to":"character-player/thornford-nala"}]}
-{"beat":8,"event":"The point won't go in; the weave draws tight under it and the needle slides off."}
-{"beat":9,"event":"She presses harder and the needle bends; the silk lies smooth and unmarked.","at":"2026-04-28T22:45:00.000Z","memory":[{"page":"lore/thornford-grey-green-silk","fact":"On the night of April 28 a steel needle would not pierce the silk, and bent against it.","establishes":true},{"page":"lore/thornford-grey-green-silk","fact":"On the night of April 28 a steel needle would not pierce the silk, and bent against it.","learns":"character-player/thornford-nala"},{"page":"lore/thornford-grey-green-silk","fact":"On the night of April 28 a steel needle would not pierce the silk, and bent against it.","shown":true}]}

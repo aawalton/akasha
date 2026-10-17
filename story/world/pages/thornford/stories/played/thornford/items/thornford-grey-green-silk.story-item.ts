@@ -6,8 +6,8 @@ export const thornfordGreyGreenSilk = {
   slug: "thornford-grey-green-silk",
   title: "Grey-green silk",
   story: "story-played/thornford",
-  character: "character-player/thornford-nala",
+  character: "character-other/thornford-shaestrel",
   description: "A bolt of grey-green silk.",
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T21:20:03.445Z",
+  updatedAt: "2026-10-17T20:03:46.072Z",
 } as const satisfies StoryItem
