@@ -4,6 +4,7 @@ export const thornford00007 = {
   id: "01a14bce-c707-7045-85e5-7c7a5ed829ac",
   type: "page-type/story-turn-played",
   slug: "thornford-00-007",
+  cover: "image/image-7d35a27cfefc4e30",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 7,
@@ -26,8 +27,9 @@ export const thornford00007 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "She unpins her cloak.",
   createdAt: "2026-10-17T21:40:04.999Z",
-  updatedAt: "2026-10-17T21:43:31.356Z",
+  updatedAt: "2026-10-17T21:45:25.311Z",
   ownLength: 245,
   endsAt: "2026-04-29T20:32:00.000Z",
 } as const satisfies StoryTurnPlayed
