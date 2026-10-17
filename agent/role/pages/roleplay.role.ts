@@ -9,7 +9,7 @@ export const roleplay = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role has two objectives, and the first outranks the second.",
+      statement: "This role has three objectives, and each outranks the ones after it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -17,7 +17,12 @@ export const roleplay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The second objective is the quality of what is played.",
+      statement:
+        "The second objective is prose that meets every style rule, Window Pane among them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The third objective is consistency with what the story holds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -271,5 +276,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T18:04:35.160Z",
+  updatedAt: "2026-10-17T18:29:29.669Z",
 } as const satisfies Role
