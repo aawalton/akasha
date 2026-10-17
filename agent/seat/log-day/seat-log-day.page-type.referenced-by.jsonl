@@ -47,6 +47,7 @@
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/gateway-transport-athena-2026-10-15/gateway-transport-athena-2026-10-15.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/gateway-transport-athena-2026-10-16/gateway-transport-athena-2026-10-16.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/gateway-transport-athena-2026-10-17/gateway-transport-athena-2026-10-17.seat-log-day.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/gateway-transport-awen-2026-10-17/gateway-transport-awen-2026-10-17.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/gateway-transport-echo-2026-10-10/gateway-transport-echo-2026-10-10.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/gateway-transport-echo-2026-10-11/gateway-transport-echo-2026-10-11.seat-log-day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/gateway-transport-echo-2026-10-12/gateway-transport-echo-2026-10-12.seat-log-day.ts","typed":true,"deferred":false}
