@@ -4,6 +4,6 @@
 {"beat":4,"event":"Shaestrel watches a while, then says she'll come back at lamp-lighting for the silk."}
 {"beat":5,"event":"She leaves by the door, as a mortal would, in the full sun.","at":"2026-04-30T06:15:00.000Z","leave":["character-other/thornford-shaestrel"]}
 {"beat":6,"event":"All day Nala sews: bodice, sleeves, the long skirt panels joined at the waist.","at":"2026-04-30T13:00:00.000Z"}
-{"beat":7,"event":"By evening the gown hangs whole on the back-room door, its hem left to set.","at":"2026-04-30T20:40:00.000Z"}
+{"beat":7,"event":"By evening the gown hangs whole on the back-room door, its hem left to set.","at":"2026-04-30T20:40:00.000Z","changes":[{"page":"story-item/thornford-grey-green-silk","note":"Silk sewn into the gown; only the hem left to set","key":"description","from":"Grey-green silk cut into the pieces of the gown, with an arm's length left over.","to":"A grey-green silk gown sewn whole but for its pinned hem, with an arm's length of silk left over."}]}
 {"beat":8,"event":"Nala lights the lamps as the light turns gold and low."}
 {"beat":9,"event":"Shaestrel knocks and comes in, and stops when she sees the gown.","at":"2026-04-30T20:50:00.000Z","arrive":["character-other/thornford-shaestrel"]}
