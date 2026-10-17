@@ -11,6 +11,7 @@ export const shaestrelRoleplayThornford = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "5f744956-9216-4d4e-a2eb-712569149c7d",
   createdAt: "2026-10-17T19:56:59.716Z",
-  updatedAt: "2026-10-17T19:56:59.716Z",
+  updatedAt: "2026-10-17T19:57:03.176Z",
 } as const satisfies Seat
