@@ -5,7 +5,7 @@ export const mari = {
   type: "page-type/seat",
   slug: "mari",
   persona: "persona/mari",
-  assignmentSlug: "domain/arousal",
+  assignmentSlug: "story-played/blue-boxes",
   role: "role/roleplay",
   person: "person/alan",
   startMode: "seat-mode/interactive",
@@ -13,5 +13,5 @@ export const mari = {
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "80b8de40-5eea-415e-b21b-03885230758b",
   createdAt: "2026-10-17T17:15:10.970Z",
-  updatedAt: "2026-10-17T17:16:07.454Z",
+  updatedAt: "2026-10-17T18:04:35.160Z",
 } as const satisfies Seat

@@ -8,7 +8,8 @@ export const blueBoxes = {
   world: "world/blue-boxes",
   unit: "unit/words",
   externalId: "blue-boxes",
-  coordinatorAgent: "mari-game-master-blue-boxes",
+  coordinatorAgent: "mari",
+  roleplayed: true,
   chapterBreak: "Nala and Iris cross a line between them that cannot be uncrossed.",
   opensAt: "2026-10-17T00:00:00.000Z",
   panels: [
@@ -19,5 +20,5 @@ export const blueBoxes = {
     "played-panel/player-intent",
   ],
   createdAt: "2026-10-17T17:26:51.488Z",
-  updatedAt: "2026-10-17T17:26:51.488Z",
+  updatedAt: "2026-10-17T18:04:35.160Z",
 } as const satisfies StoryPlayed

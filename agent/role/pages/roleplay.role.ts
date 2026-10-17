@@ -13,7 +13,7 @@ export const roleplay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The first objective is keeping the conversation at conversational speed.",
+      statement: "The first objective is keeping play at conversational speed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,8 +42,7 @@ export const roleplay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A roleplay-worldbuilder in a third seat files the world ahead of the conversation.",
+      statement: "A roleplay-worldbuilder in a third seat files the world ahead of the narration.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -272,5 +271,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T18:03:18.509Z",
+  updatedAt: "2026-10-17T18:04:35.160Z",
 } as const satisfies Role
