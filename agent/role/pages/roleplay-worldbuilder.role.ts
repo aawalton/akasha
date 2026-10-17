@@ -4,16 +4,16 @@ export const roleplayWorldbuilder = {
   id: "01a14aee-d9b6-73d1-8ec6-adfe7bd0e1fa",
   type: "page-type/role",
   slug: "roleplay-worldbuilder",
-  definition: "an agent that files a roleplay story's world ahead of the conversation reaching it",
+  definition: "an agent that files a roleplay story's world ahead of the narration reaching it",
   onCall: false,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role's input is a roleplay seat's conversation, which this role is not in.",
+      statement: "This role's input is each turn the roleplay seat narrates, read from its prose.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role reads that conversation from the transcript on disk.",
+      statement: "A turn reaches this role as a notice once its prose lands.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -29,22 +29,19 @@ export const roleplayWorldbuilder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role never speaks into the conversation it reads.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "This role runs headless for as long as the conversation runs.",
+      statement: "This role runs headless for as long as the story is played.",
     },
   ],
   directives: [
     {
       directiveKind: "directive-kind/rule",
       name: "Build Ahead",
-      act: "File what the scene is heading toward before the conversation reaches it.",
+      act: "File what the scene is heading toward before the narration reaches it.",
       warrant:
         "The roleplay seat never waits, so a page filed after it got there was narrated without.",
       aids: [
-        "Read the transcript for where the scene leans: a door named, a road taken, a name dropped.",
+        "Read each turn for where the scene leans: a door named, a road taken, a name dropped.",
+        "A notice naming any status but game-master asks nothing of you.",
         "File the nearest thing first.",
         "A guess filed and never reached costs little; a page missing when reached costs canon.",
       ],
@@ -57,7 +54,7 @@ export const roleplayWorldbuilder = {
         "The roleplay seat reads pages for continuity, so an invention left unfiled is contradicted later.",
       aids: [
         "File it as the narration said it, never as you would have.",
-        "A bracketed line invents nothing.",
+        "A bracketed paragraph invents nothing.",
       ],
     },
     {
@@ -72,5 +69,5 @@ export const roleplayWorldbuilder = {
     },
   ],
   createdAt: "2026-10-17T17:35:29.716Z",
-  updatedAt: "2026-10-17T17:35:29.716Z",
+  updatedAt: "2026-10-17T18:03:18.509Z",
 } as const satisfies Role

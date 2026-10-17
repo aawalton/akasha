@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { roleplayRecorder } from "akasha/agent/role/pages/roleplay-recorder.role.ts"
 import { roleplayTold } from "akasha/command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts"
 import type { Told } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import {
@@ -26,7 +27,12 @@ function notifying(sent: string[], pushed: string[]) {
 
 const RECORDER = "awen-roleplay-recorder-the-saga"
 
-const seatsOf = (game: string) => (game === "the-saga" ? [RECORDER] : [])
+const BUILDER = "awen-roleplay-worldbuilder-the-saga"
+
+const seatsOf = (game: string, role: string) => {
+  if (game !== "the-saga") return []
+  return role === roleplayRecorder.slug ? [RECORDER] : [BUILDER]
+}
 
 test("a roleplayed turn's move is told to each roleplay-recorder seat of its story alone", async () => {
   const sent: string[] = []
@@ -60,6 +66,7 @@ test("a roleplayed turn leaving world-builder pushes Alan that it is ready", asy
   await roleplayTold(notifying(sent, pushed), telling, after, seatsOf)
   expect(pushed).toEqual([`the-saga: ${AT}`])
   expect(after.report).toContain("pushed\tthe-saga")
+  expect(after.report).toContain(`told\t${BUILDER}`)
 })
 
 test("a story with no roleplay-recorder seat up is named as a fault, and nothing is sent", async () => {

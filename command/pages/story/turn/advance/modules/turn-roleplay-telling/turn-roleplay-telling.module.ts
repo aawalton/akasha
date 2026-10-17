@@ -15,6 +15,11 @@ export const turnRoleplayTelling = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A roleplayed turn leaving world-builder is told to each roleplay-worldbuilder too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "No game master, world builder or writer seat is told of a roleplayed turn's move.",
     },
     {
@@ -36,5 +41,5 @@ export const turnRoleplayTelling = {
     },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-17T17:54:51.718Z",
+  updatedAt: "2026-10-17T18:03:18.509Z",
 } as const satisfies Module

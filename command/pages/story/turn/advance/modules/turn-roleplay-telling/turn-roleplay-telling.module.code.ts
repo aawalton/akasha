@@ -1,4 +1,5 @@
 import { roleplayRecorder } from "akasha/agent/role/pages/roleplay-recorder.role.ts"
+import { roleplayWorldbuilder } from "akasha/agent/role/pages/roleplay-worldbuilder.role.ts"
 import { akashaSeatsStated } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
 import {
   noticesSent,
@@ -22,14 +23,14 @@ const ROLE_STATED = "role-slug"
 
 const GAME_STATED = "domain-slug"
 
-export type Roleplaying = (game: string) => readonly string[]
+export type Roleplaying = (game: string, role: string) => readonly string[]
 
-export function roleplayRecordersStated(game: string): readonly string[] {
+export function roleplaySeatsStated(game: string, role: string): readonly string[] {
   return akashaSeatsStated().flatMap((one) => {
-    const role = textAt(one.values, ROLE_STATED)
+    const stated = textAt(one.values, ROLE_STATED)
     const of = textAt(one.values, GAME_STATED)
-    if (role === null || of === null) return []
-    return bareOf(role) === roleplayRecorder.slug && bareOf(of) === game ? [one.name] : []
+    if (stated === null || of === null) return []
+    return bareOf(stated) === role && bareOf(of) === game ? [one.name] : []
   })
 }
 
@@ -47,21 +48,23 @@ export async function roleplayTold(
   reach: Pick<Reach, "notify" | "readyPushed">,
   telling: Telling,
   after: Told,
-  seatsOf: Roleplaying = roleplayRecordersStated
+  seatsOf: Roleplaying = roleplaySeatsStated
 ): Promise<undefined> {
   const noun = telling.noun ?? TURN
-  if (telling.from === WORLD_BUILDER) {
+  const told = telling.from === WORLD_BUILDER
+  if (told) {
     await readyTold(reach.readyPushed, telling.root, telling.game, telling.turn, after.report, noun)
   }
-  const seats = seatsOf(telling.game)
-  if (seats.length === 0) {
+  const recorders = seatsOf(telling.game, roleplayRecorder.slug)
+  if (recorders.length === 0) {
     after.faults.push(
       `\`${telling.game}\` has no ${roleplayRecorder.slug} seat up, so no seat was told the ${noun} moved`
     )
     return undefined
   }
+  const builders = told ? seatsOf(telling.game, roleplayWorldbuilder.slug) : []
   const said = noticeOf(telling.turn, telling.status, [], noun, telling.repairs ?? [])
-  for (const to of seats) {
+  for (const to of [...recorders, ...builders]) {
     const why = await reach.notify(to, said)
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the ${noun} moved: ${why}`)

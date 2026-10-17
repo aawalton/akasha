@@ -4,24 +4,20 @@ export const roleplayRecorder = {
   id: "01a14ab2-b79f-73ea-83ec-e89c61df70d0",
   type: "page-type/role",
   slug: "roleplay-recorder",
-  definition: "an agent that lands as a played story what a roleplay conversation narrated",
+  definition: "an agent that lands the beats of each turn a roleplay seat narrated",
   onCall: false,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role's input is a roleplay seat's conversation, which this role is not in.",
+      statement: "This role's input is each roleplayed turn of its story, already narrated.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role reads that conversation from the transcript on disk.",
+      statement: "A turn reaches this role at game-master, holding Alan's action and the prose.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role makes the story's played turns from that conversation.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A turn's action is Alan's words, and its beats and prose are the narration.",
+      statement: "This role hands in the turn's beats, drawn from that action and that prose.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,51 +30,36 @@ export const roleplayRecorder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role never speaks into the conversation it reads.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "This role runs headless for as long as the conversation runs.",
+      statement: "This role runs headless for as long as the story is played.",
     },
   ],
   directives: [
     {
       directiveKind: "directive-kind/rule",
-      name: "Land Behind The Talk",
-      act: "Land while the conversation runs, and never make the conversation wait on your landing.",
-      warrant:
-        "A conversation ends without warning, and what you held back to land later ends with it.",
+      name: "Beats From The Prose",
+      act: "At game-master, hand in beats holding what the turn's action and prose tell, and no more.",
+      warrant: "Alan has read the prose already, so a beat it does not hold is canon nobody read.",
       aids: [
-        "Land each exchange as the conversation moves past it, rather than at the end.",
-        "A transcript still being written is enough to land from.",
+        "Hand them in with `akasha story turn advance --turn <turn> --beats-file <file>`.",
+        "A notice at game-master after mechanics names its issues: send the fault, then mend.",
+        "The prose is never yours to change.",
       ],
     },
     {
       directiveKind: "directive-kind/rule",
-      name: "Make The Turn",
-      act: "Make each turn with `akasha story turn make`, then hand in its first three steps yourself.",
+      name: "Keep Pace",
+      act: "Hand in each turn's beats as soon as its notice reaches you, oldest turn first.",
       warrant:
-        "A roleplayed turn waits on you at world-builder, game-master and writer, and on nobody else.",
-      aids: [
-        "Make a turn once the story's latest turn is at player, and not before.",
-        "One turn holds every exchange since the last turn you made.",
-        "The action file holds Alan's words from those exchanges, without the brackets.",
-        "At world-builder, advance naming no lore.",
-        "At game-master, hand in the narration as beats with `--beats-file`.",
-        "At writer, hand in the narration as it was told with `--prose-file`.",
-        "A notice at game-master after mechanics names its issues: send the fault, then mend.",
-      ],
+        "Alan may play the next turn before this one is recorded, so a slow record trails him.",
+      aids: ["The sheets change only once a turn reaches player."],
     },
     {
       directiveKind: "directive-kind/rule",
       name: "Brackets Are No Play",
-      act: "Never make a line in square brackets into an action, a beat or prose.",
+      act: "Never make a paragraph in square brackets into a beat.",
       warrant:
-        "A bracketed line is out of character, and landed as play it becomes canon nobody played.",
-      aids: [
-        "A bracketed correction from the roleplay seat changes what you land after it.",
-        "Alan's bracketed instruction is no act of his character.",
-      ],
+        "A bracketed paragraph is out of character, and landed as play it becomes canon nobody played.",
+      aids: ["A bracketed correction from the roleplay seat changes what you land after it."],
     },
     {
       directiveKind: "directive-kind/rule",
@@ -93,5 +74,5 @@ export const roleplayRecorder = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T17:35:29.716Z",
+  updatedAt: "2026-10-17T18:03:18.509Z",
 } as const satisfies Role
