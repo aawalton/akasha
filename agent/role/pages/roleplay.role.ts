@@ -43,7 +43,8 @@ export const roleplay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roleplay-recorder in a second seat lands each turn's beats after its prose.",
+      statement:
+        "A roleplay-recorder in a second seat lands each turn's beats and numbers after its prose.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -276,5 +277,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T18:29:29.669Z",
+  updatedAt: "2026-10-17T18:38:14.691Z",
 } as const satisfies Role

@@ -4,7 +4,8 @@ export const roleplayRecorder = {
   id: "01a14ab2-b79f-73ea-83ec-e89c61df70d0",
   type: "page-type/role",
   slug: "roleplay-recorder",
-  definition: "an agent that lands the beats of each turn a roleplay seat narrated",
+  definition:
+    "an agent that records each turn a roleplay seat narrated, from its beats to its numbers",
   onCall: false,
   decisions: [
     {
@@ -18,6 +19,15 @@ export const roleplayRecorder = {
     {
       decisionKind: "decision-kind/departure",
       statement: "This role hands in the turn's beats, drawn from that action and that prose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "This role works every step of the turn after game-master, from the jobs each notice carries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No other seat is started for a roleplayed turn.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,6 +53,17 @@ export const roleplayRecorder = {
         "Hand them in with `akasha story turn advance --turn <turn> --beats-file <file>`.",
         "A notice at game-master after mechanics names its issues: send the fault, then mend.",
         "The prose is never yours to change.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Work Every Job",
+      act: "Do each job a notice carries yourself, in its order, one advance each.",
+      warrant:
+        "Nothing else works a roleplayed turn after its beats, so a job left holds it short of player.",
+      aids: [
+        "Each job names the recorder you hand in as, with `--recorder`.",
+        "A notice at mechanics carries one job for each mechanics recorder.",
       ],
     },
     {
@@ -74,5 +95,5 @@ export const roleplayRecorder = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T18:03:18.509Z",
+  updatedAt: "2026-10-17T18:38:14.691Z",
 } as const satisfies Role
