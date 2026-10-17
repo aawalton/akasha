@@ -72224,7 +72224,7 @@
       "name": "Reawakened Hierophant",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Arcanist",
-      "slotsUnlocked": 23,
+      "slotsUnlocked": 24,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72305,7 +72305,7 @@
         },
         {
           "name": "Reawakened Hierophant Boots",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Reawakened Hierophant Sabatons",
@@ -72683,12 +72683,12 @@
       "name": "Soulcleaver",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Nightblade",
-      "slotsUnlocked": 28,
+      "slotsUnlocked": 29,
       "totalSlots": 36,
       "pieces": [
         {
           "name": "Soulcleaver Hat",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Soulcleaver Helmet",
