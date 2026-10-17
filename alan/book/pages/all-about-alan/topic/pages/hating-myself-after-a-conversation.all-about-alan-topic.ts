@@ -13,7 +13,7 @@ export const hatingMyselfAfterAConversation = {
     "all-about-alan-topic/what-being-social-costs-me",
   ],
   settled:
-    'After a conversation with someone outside my immediate family, or when I remember one, I consistently respond with "I hate myself" and a spike of stress.\n\nRemembering a conversation costs only the spike. Having one crashes me for an extended period.\n\nI tend to decline for about as long as the conversation lasted, and it takes hours to days to recover.\n\nSo there are three layers: the verdict, the spike that comes with it, and the crash that only a real conversation brings.\n\nThe verdict and the spike land on the conversation as a whole, not on any particular moment in it, even when it went well by every outside measure.\n\nThis is the behavior I start a dig from.',
+    'After a conversation with anyone but Jen and my kids, or when I remember one, I consistently respond with "I hate myself" and a spike of stress.\n\nIt fires for literally everyone else, and I believe even for someone I rate as low as difficulty two. It fires only for an actual conversation, not for a transactional interaction.\n\nThere are three layers: the verdict, the spike with it, and the crash only a real conversation brings. Remembering one costs only the spike.\n\nThe crash lasts about as long as the conversation did, and recovering takes hours to days.\n\nThe verdict lands on the conversation as a whole, not on any moment in it, even one that went well by every outside measure. So it judges nothing I did there. It answers that a conversation happened at all.\n\nThis is the behavior I start a dig from.',
   createdAt: "2026-10-17T15:09:31.862Z",
-  updatedAt: "2026-10-17T15:10:37.777Z",
+  updatedAt: "2026-10-17T15:12:05.389Z",
 } as const satisfies AllAboutAlanTopic
