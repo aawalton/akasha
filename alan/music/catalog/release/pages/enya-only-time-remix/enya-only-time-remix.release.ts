@@ -7,7 +7,7 @@ export const enyaOnlyTimeRemix = {
   title: "Only Time (Remix)",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 13.703967,
+  ownLength: 13.703966666666666,
   ownProgress: 13.703967,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const enyaOnlyTimeRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:47:13.085Z",
 } as const satisfies Release

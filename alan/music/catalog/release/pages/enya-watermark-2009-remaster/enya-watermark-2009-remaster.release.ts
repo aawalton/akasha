@@ -7,7 +7,7 @@ export const enyaWatermark2009Remaster = {
   title: "Watermark (2009 Remaster)",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 45.692367,
+  ownLength: 45.692366666666665,
   ownProgress: 45.692367,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const enyaWatermark2009Remaster = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.288Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:47:13.085Z",
 } as const satisfies Release

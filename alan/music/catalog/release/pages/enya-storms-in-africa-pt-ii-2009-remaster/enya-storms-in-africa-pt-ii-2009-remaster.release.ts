@@ -7,7 +7,7 @@ export const enyaStormsInAfricaPtIi2009Remaster = {
   title: "Storms in Africa (Pt. II) [2009 Remaster]",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 6.842217,
+  ownLength: 6.842216666666666,
   ownProgress: 6.842217,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const enyaStormsInAfricaPtIi2009Remaster = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:47:13.085Z",
 } as const satisfies Release

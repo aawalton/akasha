@@ -7,7 +7,7 @@ export const enyaTheCelts2 = {
   title: "The Celts",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 41.418767,
+  ownLength: 41.41876666666667,
   ownProgress: 41.418767,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const enyaTheCelts2 = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.284Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:47:13.085Z",
 } as const satisfies Release

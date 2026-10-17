@@ -7,7 +7,7 @@ export const enyaThemesFromCalmiCuoriAppassionati = {
   title: 'Themes From "Calmi Cuori Appassionati"',
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 49.238967,
+  ownLength: 49.23896666666667,
   ownProgress: 49.238967,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const enyaThemesFromCalmiCuoriAppassionati = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:47:13.085Z",
 } as const satisfies Release

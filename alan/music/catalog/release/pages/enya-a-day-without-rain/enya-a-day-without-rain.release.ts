@@ -7,7 +7,7 @@ export const enyaADayWithoutRain = {
   title: "A Day Without Rain",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 37.509233,
+  ownLength: 37.509233333333334,
   ownProgress: 37.509233,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const enyaADayWithoutRain = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.261Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:47:13.085Z",
 } as const satisfies Release

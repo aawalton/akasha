@@ -7,7 +7,7 @@ export const enyaOceans = {
   title: "Oceans",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 55.883483,
+  ownLength: 55.88348333333333,
   ownProgress: 55.883483,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const enyaOceans = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:47:13.085Z",
 } as const satisfies Release

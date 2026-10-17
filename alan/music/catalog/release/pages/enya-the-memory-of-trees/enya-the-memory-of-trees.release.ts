@@ -7,7 +7,7 @@ export const enyaTheMemoryOfTrees = {
   title: "The Memory of Trees",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 55.706367,
+  ownLength: 55.70636666666667,
   ownProgress: 55.706367,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const enyaTheMemoryOfTrees = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.285Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T13:47:13.085Z",
 } as const satisfies Release

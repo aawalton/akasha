@@ -17,10 +17,10 @@ export const enya = {
       source: "spotify",
       externalId: "6uothxMWeLWIhsGeF7cyo4",
       externalLink: "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4",
-      lastSyncedAt: "2026-09-15",
+      lastSyncedAt: "2026-10-17",
     },
   ],
   title: "Enya",
   createdAt: "2026-09-03T16:04:08.683Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-17T13:47:13.085Z",
 } as const satisfies Artist
