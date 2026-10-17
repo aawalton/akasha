@@ -5,3 +5,4 @@
 {"propertySlug":"answered-by","path":"person/pages/lizzy/lizzy.person.ts","id":"01a053fe-00f2-7cf3-92bc-694ea856500c"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"seat-persona","path":"agent/seat/pages/akasha-recorder/akasha-recorder.seat.ts","id":"01a149a5-33b5-7000-829c-6293af956cb4"}
+{"propertySlug":"seat-persona","path":"agent/seat/pages/thornford-roleplay-recorder/thornford-roleplay-recorder.seat.ts","id":"01a14b71-b1de-7000-a64f-3f75ee486bfe"}
