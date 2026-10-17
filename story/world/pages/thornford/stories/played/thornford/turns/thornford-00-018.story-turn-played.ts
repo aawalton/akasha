@@ -4,6 +4,7 @@ export const thornford00018 = {
   id: "01a14bee-8e27-797f-adf1-a816b67486da",
   type: "page-type/story-turn-played",
   slug: "thornford-00-018",
+  cover: "image/image-7db9c4399f997d6b",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 18,
@@ -27,8 +28,9 @@ export const thornford00018 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "She turns round and pulls your face down to hers.",
   createdAt: "2026-10-17T22:14:47.590Z",
-  updatedAt: "2026-10-17T22:16:39.323Z",
+  updatedAt: "2026-10-17T22:17:21.221Z",
   ownLength: 136,
   endsAt: "2026-04-30T21:27:00.000Z",
 } as const satisfies StoryTurnPlayed
