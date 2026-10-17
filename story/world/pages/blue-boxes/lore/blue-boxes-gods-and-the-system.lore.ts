@@ -104,7 +104,35 @@ export const blueBoxesGodsAndTheSystem = {
       fact: "Words alone are no favor; Nemesis counts only what Iris changes, never what she says.",
       knowers: ["lore-disclosure/game-master", "character-other/blue-boxes-iris"],
     },
+    {
+      fact: "Iris writes every window herself: every level, class and quest.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/blue-boxes-iris",
+        "character-player/blue-boxes-nala",
+      ],
+    },
+    {
+      fact: "Iris holds that a window saying more than the facts takes a side, and so breaks the law.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/blue-boxes-iris",
+        "character-player/blue-boxes-nala",
+      ],
+    },
+    {
+      fact: "Iris told Nala she had broken that rule with her four times, and is not sorry.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/blue-boxes-iris",
+        "character-player/blue-boxes-nala",
+      ],
+    },
+    {
+      fact: "Iris counts each line she writes Nala as a rule broken, though no god tallies words.",
+      knowers: ["lore-disclosure/game-master", "character-other/blue-boxes-iris"],
+    },
   ],
   createdAt: "2026-10-17T17:41:40.409Z",
-  updatedAt: "2026-10-17T18:16:43.068Z",
+  updatedAt: "2026-10-17T18:30:49.297Z",
 } as const satisfies Lore
