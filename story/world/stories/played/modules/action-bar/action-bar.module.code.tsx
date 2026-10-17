@@ -56,9 +56,13 @@ const FEEDBACK = "feedback"
 
 const ACTION = "action"
 
-const STILL_MAKING = "The turn is still being made. Feedback in [brackets] reaches the game master."
+function stillMaking(making: Making): string {
+  return `The turn is still being made. Feedback in [brackets] reaches ${making.feedbackTo}.`
+}
 
-const MAKING_PLACEHOLDER = "[Feedback for the game master]"
+function makingPlaceholder(making: Making): string {
+  return `[Feedback for ${making.feedbackTo}]`
+}
 
 const NOTE_LINE = "font-mono text-[12px] text-tertiary"
 
@@ -217,7 +221,7 @@ export function ActionBar({
     if (next === "none") return
     const typed = text.trim()
     if (making !== null && classifyActionBarMessage(typed) === ACTION) {
-      setError(STILL_MAKING)
+      setError(stillMaking(making))
       return
     }
     if (next === "arm") {
@@ -324,7 +328,7 @@ export function ActionBar({
             }}
             rows={1}
             enterKeyHint="send"
-            placeholder={making === null ? PLACEHOLDER : MAKING_PLACEHOLDER}
+            placeholder={making === null ? PLACEHOLDER : makingPlaceholder(making)}
             aria-label="Your action"
             className={`${surfaceClass(1)} max-h-48 min-h-9 flex-1 resize-none`}
           />

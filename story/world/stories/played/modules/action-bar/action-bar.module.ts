@@ -47,6 +47,10 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "While a turn is being made, the line names whom its feedback reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The line says whether any action waits, so an undo is offered only where none does.",
     },
@@ -80,5 +84,5 @@ export const actionBar = {
     },
   ],
   createdAt: "2026-09-24T17:51:51.158Z",
-  updatedAt: "2026-10-02T18:26:48.000Z",
+  updatedAt: "2026-10-17T18:24:34.400Z",
 } as const satisfies Module
