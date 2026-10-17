@@ -5,7 +5,7 @@ export const explicitness = {
   type: "page-type/domain",
   slug: "explicitness",
   definition: "how explicitly a story writes and pictures its sex",
-  parts: ["domain/hollowmere-explicitness"],
+  parts: ["domain/hollowmere-explicitness", "domain/salt-and-lamplight-explicitness"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -73,5 +73,5 @@ export const explicitness = {
     },
   ],
   createdAt: "2026-10-17T20:49:32.057Z",
-  updatedAt: "2026-10-17T20:51:02.599Z",
+  updatedAt: "2026-10-17T20:51:26.539Z",
 } as const satisfies Domain

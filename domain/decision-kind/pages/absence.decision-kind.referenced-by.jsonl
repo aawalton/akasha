@@ -504,8 +504,8 @@
 {"propertySlug":"decision-kind","path":"alan/self-care/arousal/emberdeep-explicitness/emberdeep-explicitness.domain.ts","id":"01a0fdae-8b7e-75f5-9a69-1d41a23c2ee3"}
 {"propertySlug":"decision-kind","path":"alan/self-care/arousal/explicitness/explicitness.domain.ts","id":"01a14ba0-7f9a-738a-a44e-ef644ed4bc15"}
 {"propertySlug":"decision-kind","path":"alan/self-care/arousal/explicitness/hollowmere-explicitness/hollowmere-explicitness.domain.ts","id":"01a0fd0d-65b0-79e5-82c6-4cb6896d021c"}
+{"propertySlug":"decision-kind","path":"alan/self-care/arousal/explicitness/salt-and-lamplight-explicitness/salt-and-lamplight-explicitness.domain.ts","id":"01a0fd03-a991-7bdd-aac6-a6171fc11abb"}
 {"propertySlug":"decision-kind","path":"alan/self-care/arousal/fairweather-explicitness/fairweather-explicitness.domain.ts","id":"01a10214-aed2-7f99-85cf-68905e120fee"}
-{"propertySlug":"decision-kind","path":"alan/self-care/arousal/salt-and-lamplight-explicitness/salt-and-lamplight-explicitness.domain.ts","id":"01a0fd03-a991-7bdd-aac6-a6171fc11abb"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.ts","id":"01a06240-340f-7001-ad7b-818302ce884a"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/location-traces/location-traces.page-property-entry.ts","id":"01a0c566-954d-7c03-a37c-2c767ffdffd7"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/messages-sent.number-property.ts","id":"01a082db-9816-7ab2-b6ed-8a897a78de90"}

@@ -7,7 +7,6 @@ export const arousal = {
   definition: "how Alan uses arousal",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "arousal" }],
   parts: [
-    "domain/salt-and-lamplight-explicitness",
     "domain/emberdeep-explicitness",
     "domain/fairweather-explicitness",
     "domain/explicitness",
@@ -52,5 +51,5 @@ export const arousal = {
     },
   ],
   createdAt: "2026-09-04T13:21:45.873Z",
-  updatedAt: "2026-10-17T20:51:02.599Z",
+  updatedAt: "2026-10-17T20:51:26.539Z",
 } as const satisfies Domain
