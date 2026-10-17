@@ -2,4 +2,4 @@
 {"beat":2,"event":"Shaestrel takes her finger from Nala's lips and says she asked to be asked in the silk."}
 {"beat":3,"event":"She kisses Nala, cool-mouthed and laughing a little."}
 {"beat":4,"event":"She turns in Nala's arms to show the hooks down her back, and asks her to undo them gently."}
-{"beat":5,"event":"She takes Nala's hand and draws her through the back-room door."}
+{"beat":5,"event":"She takes Nala's hand and draws her through the back-room door.","memory":[{"page":"lore/thornford-shaestrel","fact":"She kissed Nala on the evening of April 30, and went with her into the back room.","establishes":true},{"page":"lore/thornford-shaestrel","fact":"She kissed Nala on the evening of April 30, and went with her into the back room.","learns":"character-player/thornford-nala"},{"page":"lore/thornford-shaestrel","fact":"She kissed Nala on the evening of April 30, and went with her into the back room.","learns":"character-other/thornford-shaestrel"},{"page":"lore/thornford-shaestrel","fact":"She kissed Nala on the evening of April 30, and went with her into the back room.","shown":true}]}

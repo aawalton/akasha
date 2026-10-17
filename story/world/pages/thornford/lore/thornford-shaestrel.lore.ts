@@ -112,7 +112,15 @@ export const thornfordShaestrel = {
         "character-other/thornford-shaestrel",
       ],
     },
+    {
+      fact: "She kissed Nala on the evening of April 30, and went with her into the back room.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T20:36:43.997Z",
-  updatedAt: "2026-10-17T22:11:25.148Z",
+  updatedAt: "2026-10-17T22:14:30.808Z",
 } as const satisfies Lore
