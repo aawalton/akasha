@@ -9,9 +9,11 @@ export const windowPane = {
   warrant: "A sentence that draws attention to itself distracts from the story.",
   aids: [
     "Say each thing once, in the plainest words that carry it.",
+    "Cut any sentence that only repeats or underlines the one before.",
+    "Name the thing itself rather than a what-clause that represents it.",
     "Let what happens set a sentence's length and shape, never a habit of the voice.",
     "A reader should come away remembering the scene, not the sentences.",
   ],
   createdAt: "2026-10-06T22:10:10.469Z",
-  updatedAt: "2026-10-06T22:10:13.000Z",
+  updatedAt: "2026-10-17T18:26:49.415Z",
 } as const satisfies StyleRule
