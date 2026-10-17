@@ -12,16 +12,26 @@ export const thornford00002 = {
   stepStatus: "step-status/recorders",
   action: '"Better than coin, eh? I\'m listening."',
   beats: "jsonl",
+  lore: [
+    "lore/thornford-fae-bargains-and-glamour",
+    "lore/thornford-morag-bain",
+    "place/thornford-nalas-shop",
+  ],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/plan",
+    "story-recorder/memory",
+  ],
   roleplayed: true,
   createdAt: "2026-10-17T20:07:59.163Z",
-  updatedAt: "2026-10-17T20:10:23.164Z",
+  updatedAt: "2026-10-17T20:13:37.868Z",
   ownLength: 168,
   endsAt: "2026-04-28T18:07:00.000Z",
 } as const satisfies StoryTurnPlayed
