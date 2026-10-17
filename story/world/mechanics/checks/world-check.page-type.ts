@@ -117,6 +117,7 @@ export const worldCheck = {
     "world-check/blue-boxes-time-passing",
     "world-check/blue-boxes-action-check",
     "world-check/thornford-time-passing",
+    "world-check/thornford-action-check",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [
@@ -147,5 +148,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-17T19:45:57.774Z",
+  updatedAt: "2026-10-17T19:46:37.902Z",
 } as const satisfies PageType
