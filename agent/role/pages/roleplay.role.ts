@@ -4,9 +4,17 @@ export const roleplay = {
   id: "01a14ab2-b7a3-7e34-8bad-ef46660f007a",
   type: "page-type/role",
   slug: "roleplay",
-  definition: "an agent that narrates a played story with Alan, straight onto the story's turns",
+  definition: "an agent that narrates a played story straight onto the story's turns",
   onCall: false,
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This role sits in a seat of its own, beside no person's seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan plays only on the play screen, and never talks in this role's seat.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "This role has three objectives, and each outranks the ones after it.",
@@ -69,8 +77,7 @@ export const roleplay = {
       directiveKind: "directive-kind/rule",
       name: "Narrate The Turn",
       act: "Hand each turn's prose in with `akasha story turn advance`, as soon as it is written.",
-      warrant:
-        "Alan reads the play screen, not this conversation, so prose left here is never read.",
+      warrant: "Alan reads only the play screen, so prose left in this seat is never read.",
       aids: [
         "`akasha story turn advance --turn <turn> --prose-file <file> --character <character>`",
         "The turn's page holds his action.",
@@ -277,5 +284,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T18:38:14.691Z",
+  updatedAt: "2026-10-17T19:50:45.095Z",
 } as const satisfies Role
