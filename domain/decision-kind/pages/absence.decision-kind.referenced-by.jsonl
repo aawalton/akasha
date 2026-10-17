@@ -140,6 +140,7 @@
 {"propertySlug":"decision-kind","path":"agent/properties/edits.file-property.ts","id":"01a07771-c8a1-7ef9-b931-04ce8f6bbc85"}
 {"propertySlug":"decision-kind","path":"agent/properties/reads.file-property.ts","id":"01a09c31-c3c6-74f8-9064-94c903e1ba85"}
 {"propertySlug":"decision-kind","path":"agent/properties/refusals.file-property.ts","id":"01a08164-c068-734a-9643-dbd686a4e3cc"}
+{"propertySlug":"decision-kind","path":"agent/role/pages/roleplay-illustrator.role.ts","id":"01a14baf-4395-7b45-8f42-74d2cbea8c2b"}
 {"propertySlug":"decision-kind","path":"agent/role/pages/roleplay-worldbuilder.role.ts","id":"01a14aee-d9b6-73d1-8ec6-adfe7bd0e1fa"}
 {"propertySlug":"decision-kind","path":"agent/seat/capability/seat-capability.domain.ts","id":"01a0658d-c92f-7b82-8a05-aaac4557d9a3"}
 {"propertySlug":"decision-kind","path":"agent/seat/declaration/modules/seat-answering/seat-answering.module.ts","id":"01a06867-7fc9-7004-a4e4-ce9bc9ecc0fd"}

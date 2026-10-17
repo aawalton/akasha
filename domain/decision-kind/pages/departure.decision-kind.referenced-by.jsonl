@@ -238,6 +238,7 @@
 {"propertySlug":"decision-kind","path":"agent/role/pages/operator.role.ts","id":"01a053c5-8d2c-70e4-8a45-06368ddfc0ae"}
 {"propertySlug":"decision-kind","path":"agent/role/pages/persona-craft.role.ts","id":"01a053c5-8d2c-7876-8481-ef02e6ed86e0"}
 {"propertySlug":"decision-kind","path":"agent/role/pages/recorder.role.ts","id":"01a0c966-c065-78ca-a683-4dedb588c622"}
+{"propertySlug":"decision-kind","path":"agent/role/pages/roleplay-illustrator.role.ts","id":"01a14baf-4395-7b45-8f42-74d2cbea8c2b"}
 {"propertySlug":"decision-kind","path":"agent/role/pages/roleplay-recorder.role.ts","id":"01a14ab2-b79f-73ea-83ec-e89c61df70d0"}
 {"propertySlug":"decision-kind","path":"agent/role/pages/roleplay-worldbuilder.role.ts","id":"01a14aee-d9b6-73d1-8ec6-adfe7bd0e1fa"}
 {"propertySlug":"decision-kind","path":"agent/role/pages/roleplay.role.ts","id":"01a14ab2-b7a3-7e34-8bad-ef46660f007a"}
