@@ -5899,6 +5899,7 @@
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.ts","id":"01a0609b-e59d-774e-9760-26cd46ca0f8b"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/ttc-listing-schema/ttc-listing-schema.module.ts","id":"01a0609b-e59e-7b1a-960c-fe4f807c30e4"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/ttc-listing-types/ttc-listing-types.module.ts","id":"01a0609b-e59e-76a0-b95d-824e1ed2c729"}
+{"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/service-workstations/ttc-client/ttc-client.service-workstation.ts","id":"01a06829-0194-7e8a-b87b-1e6e9ea4fe59"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/temper-trading-pricing.domain.ts","id":"01a0609b-e59c-7c6b-906c-4ab055fc9039"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/market-value/temper-market-value.domain.ts","id":"01a0b761-39a1-739d-9548-59355a694035"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/merchant-value/temper-merchant-value.domain.ts","id":"01a0b761-57b4-74bc-8bbd-d082f1b7bbf1"}
