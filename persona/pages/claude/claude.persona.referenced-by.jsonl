@@ -6,3 +6,4 @@
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"seat-persona","path":"agent/seat/pages/akasha-recorder/akasha-recorder.seat.ts","id":"01a149a5-33b5-7000-829c-6293af956cb4"}
 {"propertySlug":"seat-persona","path":"agent/seat/pages/blue-boxes-roleplay-recorder/blue-boxes-roleplay-recorder.seat.ts","id":"01a14aeb-ecd5-7000-9b2a-5ec36396d156"}
+{"propertySlug":"seat-persona","path":"agent/seat/pages/blue-boxes-roleplay-worldbuilder/blue-boxes-roleplay-worldbuilder.seat.ts","id":"01a14af0-9f73-7000-a1b1-d3b71f9dbf7d"}
