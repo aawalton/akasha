@@ -11,6 +11,7 @@ export const awen = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "72c720d9-72fe-4483-8a9a-7851c0b4cbbd",
   createdAt: "2026-10-17T16:15:19.467Z",
-  updatedAt: "2026-10-17T16:15:19.467Z",
+  updatedAt: "2026-10-17T16:15:22.952Z",
 } as const satisfies Seat
