@@ -56,6 +56,7 @@ import {
 import { memorySettled } from "akasha/command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts"
 import { noticesOver } from "akasha/command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts"
 import {
+  endTaken,
   timeCheckIndexed,
   untimedRefused,
 } from "akasha/command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts"
@@ -163,6 +164,12 @@ function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn:
   return untimedRefused(reach.timeCheckOf(root, held.game), held.game, turn.slug, turn.value)
 }
 
+function endedOn(reach: Reaching, root: string, read: Taken, game: string, turn: Turn) {
+  if (read.chapter) return read
+  const handed = endTaken(reach.timeCheckOf(root, game), turn.slug, turn.value, read.handed)
+  return "refused" in handed ? handed : { ...read, handed }
+}
+
 function unsizedOn(read: Taken, held: Held, root: string) {
   if (!read.chapter) return null
   const chapterBreak = read.handed.kind === "beats" ? breakIndexed(root, held.game) : null
@@ -188,18 +195,20 @@ async function advancedOn(
 
 async function heldOn(
   done: string[],
-  read: Taken,
+  asked: Taken,
   slug: string,
   given: Given,
   landing: Landing,
   reach: Reaching,
   timed: Timed
 ): Promise<Answer> {
-  const turn = stepAt(reach, given.root, read, slug)
-  if (turn === null) return refused(unplaced(read), DATA)
+  const turn = stepAt(reach, given.root, asked, slug)
+  if (turn === null) return refused(unplaced(asked), DATA)
   const textOf = (path: string) => reach.textIn(given.root, path)
   const stated = heldOf(turn, textOf)
   if ("refused" in stated) return refused(stated.refused, DATA)
+  const read = endedOn(reach, given.root, asked, stated.game, turn)
+  if ("refused" in read) return refused(read.refused, DATA)
   const beats = beatsHeld(turn, textOf)
   if ("refused" in beats) return refused(beats.refused, DATA)
   const { changes, memory } = beats

@@ -14,10 +14,12 @@ import {
   referencesEach,
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { BeatScene } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { settling } from "akasha/story/world/mechanics/checks/properties/settling.module-property-group.ts"
 import { worldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.ts"
 import { timePassing } from "akasha/story/world/mechanics/modules/time-passing/time-passing.module.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
+import type { Handed } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { turnEndsAt } from "akasha/story/world/stories/played/turns/properties/turn-ends-at.instant-property.ts"
 
 const SETTLING = `.${worldCheck.slug}.${settling.propertySlug}.code.ts`
@@ -67,4 +69,39 @@ export function untimedRefused(
     `${readingArgument.said} ${READING}`,
   ].join(" ")
   return `\`${game}\` settles its time by \`${check}\`, and \`${turn}\` states no \`${ENDS_AT}\`, so settle it before advancing: \`${call}\``
+}
+
+type Refused = { readonly refused: string }
+
+function closedOn(scenes: readonly BeatScene[], last: number, at: string): readonly BeatScene[] {
+  if (!scenes.some((one) => one.beat === last)) return [...scenes, { beat: last, at }]
+  return scenes.map((one) => (one.beat === last ? { ...one, at } : one))
+}
+
+export function endTaken(
+  check: string | null,
+  turn: string,
+  value: Value,
+  handed: Handed
+): Handed | Refused {
+  const ends = value[ENDS_AT]
+  if (check === null || handed.kind !== "beats" || typeof ends !== "string") return handed
+  const scenes = handed.scenes ?? []
+  if (!scenes.some((one) => one.at !== undefined)) return handed
+  const settled = new Date(Date.parse(ends)).toISOString()
+  const late = scenes.find((one) => one.at !== undefined && Date.parse(one.at) > Date.parse(ends))
+  if (late !== undefined) {
+    return {
+      refused: `\`${turn}\` settled its \`${ENDS_AT}\` as \`${settled}\`, and beat ${late.beat} states its time as \`${late.at}\`, after that, so no beat states a time after \`${settled}\``,
+    }
+  }
+  const last = handed.beats.length
+  const stated = scenes.find((one) => one.beat === last)?.at
+  if (stated === settled) return handed
+  if (stated !== undefined) {
+    return {
+      refused: `\`${turn}\` settled its \`${ENDS_AT}\` as \`${settled}\`, and beat ${last}, the last, states its time as \`${stated}\`, so beat ${last} states \`"at":"${settled}"\` or no \`at\``,
+    }
+  }
+  return { ...handed, scenes: closedOn(scenes, last, settled) }
 }

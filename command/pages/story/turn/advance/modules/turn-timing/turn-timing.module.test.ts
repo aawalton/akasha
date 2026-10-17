@@ -3,6 +3,7 @@ import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
 import {
+  endTaken,
   timeCheckIn,
   untimedRefused,
 } from "akasha/command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts"
@@ -146,6 +147,77 @@ test("a narrator's beats and prose land together, skip the writer and push the t
   expect(answer.report[0]).toBe(`${SLUG}\tworld-builder\trecorders`)
   expect(Object.keys(into.folded[0]?.bodies ?? {}).sort()).toEqual(["beats", "prose"])
   expect(into.pushes).toEqual([`the-saga ${AT}`])
+})
+
+const ENDS = "2026-09-26T09:05:00.000Z"
+
+const TIMED = {
+  kind: "beats",
+  beats: ["Mara opens the gate", "The hall is dark"],
+  scenes: [{ beat: 1, at: "2026-09-26T09:00:00.000Z" }],
+} as const
+
+test("a last beat stating no time takes the settled endsAt as its time", () => {
+  expect(endTaken("saga-time", "saga-00-002", { endsAt: ENDS }, TIMED)).toEqual({
+    ...TIMED,
+    scenes: [...TIMED.scenes, { beat: 2, at: ENDS }],
+  })
+})
+
+test("a last beat stating a time other than the settled endsAt is refused with the fix", () => {
+  const scenes = [...TIMED.scenes, { beat: 2, at: "2026-09-26T09:04:00.000Z" }]
+  const said = endTaken("saga-time", "saga-00-002", { endsAt: ENDS }, { ...TIMED, scenes })
+  expect(said).toEqual({
+    refused: `\`saga-00-002\` settled its \`endsAt\` as \`${ENDS}\`, and beat 2, the last, states its time as \`2026-09-26T09:04:00.000Z\`, so beat 2 states \`"at":"${ENDS}"\` or no \`at\``,
+  })
+})
+
+test("a beat stating a time after the settled endsAt is refused", () => {
+  const scenes = [{ beat: 1, at: "2026-09-26T09:30:00.000Z" }]
+  const said = endTaken("saga-time", "saga-00-002", { endsAt: ENDS }, { ...TIMED, scenes })
+  expect(said).toMatchObject({ refused: expect.stringContaining("beat 1 states its time") })
+})
+
+test("beats stating no time, or a story settling no time, are left as handed", () => {
+  const untimed = { ...TIMED, scenes: [] }
+  expect(endTaken("saga-time", "saga-00-002", { endsAt: ENDS }, untimed)).toBe(untimed)
+  expect(endTaken(null, "saga-00-002", { endsAt: ENDS }, TIMED)).toBe(TIMED)
+})
+
+writeFileSync(
+  join(HERE, "timed.jsonl"),
+  `${JSON.stringify({ event: "Mara opens the gate", at: "2026-09-26T09:00:00.000Z" })}\nThe hall is dark\n`
+)
+
+async function endedBy(status: "game-master" | "world-builder", argv: readonly string[]) {
+  const into = seen()
+  const seat = status === "game-master" ? seatOf("game-master", MASTER) : NARRATOR
+  const reach = reachOver(
+    turnAt(status, { roleplayed: status !== "game-master", endsAt: ENDS }),
+    seat,
+    into
+  )
+  const answer = await storyTurnAdvance(
+    ["--turn", `story-turn-played/${SLUG}`, "--beats-file", join(HERE, "timed.jsonl"), ...argv],
+    GIVEN,
+    async () => LANDED,
+    reach,
+    () => undefined,
+    timed,
+    () => [],
+    () => ({ types: ["character-player"], filed: () => true }),
+    () => null,
+    () => ({ values: {}, namings: [] })
+  )
+  expect(answer.report[0]).toStartWith(`${SLUG}\t${status}\t`)
+  return into.folded[0]?.bodies?.["beats"] ?? ""
+}
+
+test("a game master's and a narrator's last beat land stating the settled endsAt alike", async () => {
+  const last = `"at":"${ENDS}"`
+  expect((await endedBy("game-master", [])).trim().split("\n").at(-1)).toContain(last)
+  const told = ["--prose-file", join(ROOT, "prose.txt")]
+  expect((await endedBy("world-builder", told)).trim().split("\n").at(-1)).toContain(last)
 })
 
 test("a written chapter's game master advances with no endsAt", async () => {
