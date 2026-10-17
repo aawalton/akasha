@@ -8,7 +8,6 @@ export const arousal = {
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "arousal" }],
   parts: [
     "domain/harem-hotel-explicitness",
-    "domain/climb-explicitness",
     "domain/salt-and-lamplight-explicitness",
     "domain/hollowmere-explicitness",
     "domain/emberdeep-explicitness",
@@ -55,5 +54,5 @@ export const arousal = {
     },
   ],
   createdAt: "2026-09-04T13:21:45.873Z",
-  updatedAt: "2026-10-17T20:49:54.343Z",
+  updatedAt: "2026-10-17T20:50:09.040Z",
 } as const satisfies Domain

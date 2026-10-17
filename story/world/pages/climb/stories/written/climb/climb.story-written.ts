@@ -6,7 +6,7 @@ export const climb = {
   slug: "climb",
   title: "The Climb",
   world: "world/climb",
-  domain: "domain/climb-explicitness",
+  domain: "domain/explicitness",
   unit: "unit/words",
   chapterBreak: "A floor's task is met and its stairs open.",
   coordinatorAgent: "mari-game-master-climb",
@@ -18,5 +18,5 @@ export const climb = {
     "played-panel/player-intent",
   ],
   createdAt: "2026-10-01T21:16:56.845Z",
-  updatedAt: "2026-10-04T15:19:21.000Z",
+  updatedAt: "2026-10-17T20:50:09.040Z",
 } as const satisfies StoryWritten
