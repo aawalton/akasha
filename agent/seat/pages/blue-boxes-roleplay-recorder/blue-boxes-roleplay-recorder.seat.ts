@@ -11,6 +11,7 @@ export const blueBoxesRoleplayRecorder = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "5c09fa29-e8fc-4739-ae45-1e1acff81c9d",
   createdAt: "2026-10-17T17:32:18.499Z",
-  updatedAt: "2026-10-17T17:32:18.499Z",
+  updatedAt: "2026-10-17T17:32:21.366Z",
 } as const satisfies Seat
