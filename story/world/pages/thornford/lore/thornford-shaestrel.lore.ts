@@ -104,7 +104,15 @@ export const thornfordShaestrel = {
         "character-other/thornford-shaestrel",
       ],
     },
+    {
+      fact: "Nala's one ask is still unspent; Shaestrel told her to ask on Beltane night, under the moon.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T20:36:43.997Z",
-  updatedAt: "2026-10-17T21:59:36.058Z",
+  updatedAt: "2026-10-17T22:11:25.148Z",
 } as const satisfies Lore
