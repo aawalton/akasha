@@ -129,6 +129,34 @@ export const thornfordFaeBargainsAndGlamour = {
       ],
     },
     {
+      fact: "Nala and Shaestrel sealed the bargain as offered, three days before Beltane, just after six.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "Shaestrel sealed it with her wet thumb to the back of Nala's hand.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "As the bargain was sealed, the lamp flame stood up tall and still for a breath.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "Shaestrel wears no glamour on her own shape, so the measure Nala takes of her is true.",
+      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+    },
+    {
       fact: "As offered, a gown with any stitch sewn by other hands than Nala's does not meet the bargain.",
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
@@ -146,5 +174,5 @@ export const thornfordFaeBargainsAndGlamour = {
     },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T20:13:11.335Z",
+  updatedAt: "2026-10-17T20:34:47.766Z",
 } as const satisfies Lore
