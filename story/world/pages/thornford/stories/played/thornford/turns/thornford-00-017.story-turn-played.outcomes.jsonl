@@ -1,1 +1,2 @@
 {"check":"world-check/thornford-action-check","reading":{"band":"standard","bonuses":[{"from":"a good moment: her own condition met","by":2},{"from":"a clever word","by":1}]},"dice":{"said":"1d20","sides":20,"faces":[17]},"seed":"8bea6eb9f399b2f67d413d15f35139fb4541d84c6fe1de87b1278ca5ea440c75","answered":{"outcome":"warm","total":20,"target":12,"margin":8}}
+{"check":"world-check/thornford-time-passing","reading":{"from":"2026-04-30T21:20:00.000Z","minutes":2},"answered":{"endsAt":"2026-04-30T21:22:00.000Z","day":3,"light":"dusk"}}
