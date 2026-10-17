@@ -7,9 +7,12 @@ export const thornford00007 = {
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 7,
-  stepStatus: "step-status/world-builder",
+  prose: "txt",
+  characters: ["character-player/thornford-nala"],
+  stepStatus: "step-status/mechanics",
   action:
     '"Okay, fae rules." I think to myself. "What better needle for fae silk than the stem of a leaf?" I find an appropriate stem from the leaves Shaestrel left behind and use that as my needle.',
+  beats: "jsonl",
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
@@ -18,6 +21,7 @@ export const thornford00007 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T21:20:11.131Z",
-  updatedAt: "2026-10-17T21:21:02.253Z",
+  updatedAt: "2026-10-17T21:21:13.655Z",
+  ownLength: 205,
   endsAt: "2026-04-28T22:55:00.000Z",
 } as const satisfies StoryTurnPlayed
