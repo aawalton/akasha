@@ -180,7 +180,15 @@ export const thornfordFaeBargainsAndGlamour = {
       fact: "A rowan thread sewn into a gown a fae wears parts every seam of that gown within the hour.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala and Shaestrel struck the Beltane gown bargain on the evening of April 28.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T20:36:43.997Z",
+  updatedAt: "2026-10-17T20:36:55.367Z",
 } as const satisfies Lore
