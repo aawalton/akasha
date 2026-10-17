@@ -1,1 +1,0 @@
-beat 9: turn endsAt is 22:40 but the time check settled 22:45; set endsAt to 22:45
