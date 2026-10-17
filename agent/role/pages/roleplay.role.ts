@@ -272,37 +272,10 @@ export const roleplay = {
     },
     {
       directiveKind: "directive-kind/rule",
-      name: "Fair Puzzle",
-      act: "Deal every clue a puzzle needs before the puzzle asks the player for its answer.",
-      warrant:
-        "An answer held back while he guesses looks like a puzzle and is a guess at the narrator's mind.",
-      aids: [
-        "A roll may buy a clue, never the answer.",
-        "A challenge meant for his character is rolled, never answered by his own guess.",
-        "State what his character worked out before a fork asks him to act on it.",
-      ],
-    },
-    {
-      directiveKind: "directive-kind/rule",
-      name: "Honest Companion",
-      act: "Have a companion say what she honestly knows, never a hint rationed from an answer she holds.",
-      warrant:
-        "A companion in it with him who is coy about the answer is the narrator withholding through her.",
-      aids: [
-        "Her uncertainty and her mistakes are hers to say.",
-        "She withholds only under a bind the page states.",
-      ],
-    },
-    {
-      directiveKind: "directive-kind/rule",
-      name: "Window On Crossing",
-      act: "Open a system window where the character crosses into something new, never where a number climbs.",
-      warrant:
-        "A window is worth reading only while it is rare, and every one on a climbing number spends that.",
-      aids: [
-        "A level, a skill, an item; never a story beat.",
-        "The crossing tick is a climb too, and earns one.",
-      ],
+      name: "Game-Master Rules",
+      act: "Obey Fair Puzzle, Honest Companion and Window On Crossing in `agent/role/pages/game-master.role.ts`.",
+      warrant: "This role decides what happens in play, as a game master does.",
+      aids: ["Read them as written for you, with narrator in place of game master."],
     },
     {
       directiveKind: "directive-kind/rule",
@@ -329,5 +302,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T21:34:53.838Z",
+  updatedAt: "2026-10-17T21:42:33.340Z",
 } as const satisfies Role
