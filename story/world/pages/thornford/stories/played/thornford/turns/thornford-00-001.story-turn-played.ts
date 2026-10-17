@@ -1,0 +1,16 @@
+import type { StoryTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.types.ts"
+
+export const thornford00001 = {
+  id: "01a14b73-b846-7f80-b6d6-7e7900047cdc",
+  type: "page-type/story-turn-played",
+  slug: "thornford-00-001",
+  partOfCollections: ["story-played/thornford"],
+  position: 1,
+  unit: "unit/words",
+  prose: "txt",
+  characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
+  stepStatus: "step-status/player",
+  roleplayed: true,
+  createdAt: "2026-10-17T20:00:37.445Z",
+  updatedAt: "2026-10-17T20:00:37.445Z",
+} as const satisfies StoryTurnPlayed

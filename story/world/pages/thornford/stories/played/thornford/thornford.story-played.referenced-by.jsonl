@@ -4,3 +4,4 @@
 {"propertySlug":"character-story","path":"story/world/pages/thornford/stories/played/thornford/characters/thornford-nala.character-player.ts","id":"01a14b65-1e22-7f5e-bf33-c94c9f944cbb"}
 {"propertySlug":"character-story","path":"story/world/pages/thornford/stories/played/thornford/characters/thornford-shaestrel.character-other.ts","id":"01a14b65-1e22-7270-b457-bc25b84245df"}
 {"propertySlug":"import","fileName":"thornford.story-played.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"part-of-collections","path":"story/world/pages/thornford/stories/played/thornford/turns/thornford-00-001.story-turn-played.ts","id":"01a14b73-b846-7f80-b6d6-7e7900047cdc"}
