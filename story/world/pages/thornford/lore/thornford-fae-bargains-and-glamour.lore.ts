@@ -185,11 +185,15 @@ export const thornfordFaeBargainsAndGlamour = {
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
     {
-      fact: "An ask owed under a fae bargain is spent only when the fae grants it.",
+      fact: "A bargain's ask is spent only when asked as that one thing and granted; other asks spend nothing.",
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
     {
-      fact: "Nala's ask to dance was not granted, so her one ask is still unspent.",
+      fact: "Nala's ask to dance was not granted, and asking her to the back room was not her one thing.",
+      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+    },
+    {
+      fact: "Nala's one ask is still unspent.",
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
     {
@@ -238,5 +242,5 @@ export const thornfordFaeBargainsAndGlamour = {
     },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T22:11:01.599Z",
+  updatedAt: "2026-10-17T22:14:16.072Z",
 } as const satisfies Lore
