@@ -6,39 +6,43 @@ export const thornfordActionCheck = {
   slug: "thornford-action-check",
   title: "Action Check",
   world: "world/thornford",
-  definition: "whether a declared act in Thornford comes off, and how well",
-  description: "Whether something tried comes off.",
+  definition: "how a character in Thornford answers what Nala does, where that is in doubt",
+  description: "How someone answers what Nala does.",
   settling: {},
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only an act whose outcome is in doubt and matters is rolled; the rest is told.",
+      statement: "What Nala sets out to do comes off, and is told without a roll.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An act is one twenty-sided die plus every bonus the act earns.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "An easy act's target is 8, a standard act's 12, a hard act's 16, an extreme act's 20.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The band is set against Nala as she is, before the roll.",
+      statement: "A clever plan of Nala's comes off well, and is told without a roll.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Cutting, sewing and fitting cloth are Nala's trade, and are easy or standard for her.",
+        "Only how Shaestrel or another character answers Nala is rolled, where it is in doubt and matters.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What an untrained grown woman could do with care is easy or standard.",
+      statement: "A response is one twenty-sided die plus every bonus the moment earns.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Seeing through a fae's words or a fae's glamour is hard.",
+      statement:
+        "An easy response's target is 8, a standard one's 12, a hard one's 16, an extreme one's 20.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A response Nala could expect is easy, and one she is hoping for is standard.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A response that asks much of the character is hard.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A response against what the character wants is extreme.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,41 +50,40 @@ export const thornfordActionCheck = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A clever plan, a fitting tool or help from someone adds one to two.",
+      statement: "Charm, a clever word, a fitting gift or a good moment adds one to two.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Pain, cold, hunger, tiredness, haste or ignorance each take one to two.",
+      statement: "A careless word or a bad moment takes one to two.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An act's bonuses add to at most six either way.",
+      statement: "A response's bonuses add to at most six either way.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An act clearing its target by five or more comes off strongly.",
+      statement: "A response clearing its target by five or more, or on a natural twenty, is warm.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An act meeting its target comes off.",
+      statement: "A warm response is what Nala hoped for, with more given than she asked.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An act short of its target by four or less comes off at a cost.",
+      statement: "A response meeting its target is as-hoped, and is what Nala hoped for.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An act short of its target by five or more fails, and the scene worsens.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A natural twenty comes off strongly and a natural one fails, whatever the margin.",
+      statement: "A response short of its target, or on a natural one, is a twist.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A cost is real: hurt, lost time, spoiled cloth, a word given carelessly, or something lost.",
+        "A twist is the character answering some other way: a tease, a dodge, or a different opening.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A twist takes away nothing Nala has done, made or holds.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -89,9 +92,9 @@ export const thornfordActionCheck = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"band":"standard","bonuses":[{"from":"a fitting tool","by":1}]}`.',
+        'The reading is `{"band":"standard","bonuses":[{"from":"a clever word","by":1}]}`.',
     },
   ],
   createdAt: "2026-10-17T19:46:37.902Z",
-  updatedAt: "2026-10-17T19:46:37.902Z",
+  updatedAt: "2026-10-17T21:33:59.891Z",
 } as const satisfies WorldCheck
