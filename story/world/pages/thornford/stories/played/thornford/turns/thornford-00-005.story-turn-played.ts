@@ -9,9 +9,10 @@ export const thornford00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   action:
     "\"I'm definitely thinking, but it won't be your name. If you want me to know it, you'll have to tell me. I have a feeling it will be something you will quite enjoy.\"",
+  beats: "jsonl",
   lore: ["lore/thornford-shaestrel"],
   reviewedBy: [
     "story-reviewer/continuity",
@@ -21,7 +22,7 @@ export const thornford00005 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T20:46:17.874Z",
-  updatedAt: "2026-10-17T20:47:20.774Z",
+  updatedAt: "2026-10-17T20:47:48.271Z",
   ownLength: 158,
   endsAt: "2026-04-28T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
