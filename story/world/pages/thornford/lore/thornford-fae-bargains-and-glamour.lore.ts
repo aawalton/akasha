@@ -196,7 +196,15 @@ export const thornfordFaeBargainsAndGlamour = {
       fact: "Nala cut and tacked a calico toile of the gown on April 28, ready for the first fitting.",
       knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
     },
+    {
+      fact: "Nala pinned the calico toile on Shaestrel at the gown's first fitting, on the evening of April 29.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T21:38:15.698Z",
+  updatedAt: "2026-10-17T21:48:51.159Z",
 } as const satisfies Lore
