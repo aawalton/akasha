@@ -4,6 +4,7 @@ export const thornford00017 = {
   id: "01a14bec-7cbb-7cc4-b180-bd6816cc72ff",
   type: "page-type/story-turn-played",
   slug: "thornford-00-017",
+  cover: "image/image-a902dd4a571e9ca8",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 17,
@@ -27,8 +28,9 @@ export const thornford00017 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "She reaches back for your hand, finds it, and draws you through the back-room door.",
   createdAt: "2026-10-17T22:12:32.059Z",
-  updatedAt: "2026-10-17T22:14:30.808Z",
+  updatedAt: "2026-10-17T22:16:35.189Z",
   ownLength: 108,
   endsAt: "2026-04-30T21:22:00.000Z",
 } as const satisfies StoryTurnPlayed
