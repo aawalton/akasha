@@ -9,7 +9,7 @@ export const blueBoxes00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/blue-boxes-nala", "character-other/blue-boxes-iris"],
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/recorders",
   action: "\"Uh...hi? I'm guessing I've been isekai'd, but who are you? Are you...the System?\"",
   beats: "jsonl",
   lore: [
@@ -23,10 +23,10 @@ export const blueBoxes00002 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
   roleplayed: true,
   createdAt: "2026-10-17T18:12:42.045Z",
-  updatedAt: "2026-10-17T18:40:13.099Z",
+  updatedAt: "2026-10-17T18:40:22.760Z",
   ownLength: 163,
   endsAt: "2026-10-17T16:46:00.000Z",
 } as const satisfies StoryTurnPlayed
