@@ -34,6 +34,10 @@ import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-t
 
 const MAKER = "action bar <action-bar@alanwalton.com>"
 
+const OPENING = "-00-001"
+
+const FIRST = 1
+
 const SLUG = "slug"
 
 const POSITION = "position"
@@ -202,6 +206,10 @@ async function roleplayOf(game: string, calls: Calls): Promise<Roleplay> {
   })
   if ("refused" in stories) return { unread: stories.refused }
   if (stories.rows[0]?.[ROLEPLAYED] !== true) return { values: {} }
+  return await passedBy(calls)
+}
+
+async function passedBy(calls: Calls): Promise<Roleplay> {
   const reviewers = await calls.ask({ pageTypeSlug: storyReviewer.slug, keys: [SLUG] })
   if ("refused" in reviewers) return { unread: reviewers.refused }
   const reviewedBy = reviewers.rows.flatMap((row) => {
@@ -249,4 +257,63 @@ export async function turnMadeFor(
   })
   if ("refused" in wrote) return { kind: "unread", why: wrote.refused }
   return { kind: "made", slug: made.slug, at, roleplayed: roleplay.values[ROLEPLAYED] === true }
+}
+
+function openingAt(story: string, slug: string): string {
+  const folder = story.slice(0, story.lastIndexOf(PARTED) + 1)
+  return `${folder}${storyTurnPlayed.pluralSlug}${PARTED}${slug}.${storyTurnPlayed.slug}${PAGE_ENDING}`
+}
+
+function refusal(said: string): TurnMade {
+  return { kind: "refused", said }
+}
+
+export async function openingMadeFor(
+  game: string,
+  writer: string,
+  calls: Calls = CALLS
+): Promise<TurnMade> {
+  const followed = await followedIn(game, calls)
+  if ("unread" in followed) return { kind: "unread", why: followed.unread }
+  if (followed.latest !== null) {
+    return refusal(
+      `\`${game}\` is open already, and its latest turn is \`${followed.latest.slug}\`.`
+    )
+  }
+  const stories = await calls.ask({
+    pageTypeSlug: storyPlayed.slug,
+    where: { [SLUG]: { is: game } },
+    keys: [SLUG, ROLEPLAYED, UNIT],
+  })
+  if ("refused" in stories) return { kind: "unread", why: stories.refused }
+  const story = stories.rows[0]
+  if (story === undefined) return refusal(`\`${game}\` is no played story here.`)
+  if (story[ROLEPLAYED] !== true) {
+    return refusal(
+      `\`${game}\` is not roleplayed, and only a roleplayed story opens with no action.`
+    )
+  }
+  const passed = await passedBy(calls)
+  if ("unread" in passed) return { kind: "unread", why: passed.unread }
+  const read = await calls.read({ pages: [{ pageTypeSlug: storyPlayed.slug, slug: game }] })
+  if ("refused" in read) return { kind: "unread", why: read.refused }
+  const held = read.bodies[0]
+  if (held === undefined) return { kind: "unread", why: `\`${game}\` was read nowhere` }
+  const slug = `${game}${OPENING}`
+  const at = openingAt(held.path, slug)
+  const unit = textIn(story[UNIT])
+  const values = {
+    [COLLECTIONS]: [storyOf(game)],
+    [POSITION]: FIRST,
+    ...(unit === null ? {} : { [UNIT]: unit }),
+    [STATUS]: statusOf(WORLD_BUILDER),
+    ...passed.values,
+  }
+  const wrote = await calls.write({
+    writer,
+    message: `${slug} opens ${game}`,
+    pages: [{ pageTypeSlug: storyTurnPlayed.slug, slug, path: at, fresh: true, values }],
+  })
+  if ("refused" in wrote) return { kind: "unread", why: wrote.refused }
+  return { kind: "made", slug, at, roleplayed: true }
 }
