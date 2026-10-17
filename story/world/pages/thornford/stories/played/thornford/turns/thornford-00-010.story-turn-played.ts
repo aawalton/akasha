@@ -7,8 +7,12 @@ export const thornford00010 = {
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 10,
-  stepStatus: "step-status/world-builder",
+  prose: "txt",
+  characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
+  stepStatus: "step-status/mechanics",
   action: '"Can\'t be too sure its fitting right. I could check it all again, more thoroughly..."',
+  beats: "jsonl",
+  lore: ["lore/thornford-fae-bargains-and-glamour", "lore/thornford-shaestrel"],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
@@ -17,6 +21,7 @@ export const thornford00010 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T21:48:48.887Z",
-  updatedAt: "2026-10-17T21:49:30.234Z",
+  updatedAt: "2026-10-17T21:49:54.941Z",
+  ownLength: 87,
   endsAt: "2026-04-29T20:58:00.000Z",
 } as const satisfies StoryTurnPlayed
