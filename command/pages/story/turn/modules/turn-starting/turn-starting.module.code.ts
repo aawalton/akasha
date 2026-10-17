@@ -17,8 +17,8 @@ import type {
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import type { Start } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
+  coordinatorOf,
   flexOf,
-  personaOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 
 export type Context = {
@@ -92,7 +92,7 @@ export async function seatsStarted(
 ) {
   if (starts.length === 0) return
   const master = at.story?.master ?? null
-  const persona = master === null ? null : personaOf(master, at.game)
+  const persona = master === null ? null : (coordinatorOf(master, at.game)?.persona ?? null)
   if (master === null || persona === null) {
     after.faults.push(
       `\`${at.game}\` names no game master seat spelling a persona, so no seat was started`

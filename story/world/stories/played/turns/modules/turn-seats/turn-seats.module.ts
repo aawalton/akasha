@@ -14,12 +14,23 @@ export const turnSeats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A notice of a turn reaches the game master, world builder and writer seats.",
+      statement: "A story's coordinator seat is a game master seat or a roleplay seat.",
     },
-
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game master seat spelling no persona is the only seat a notice reaches.",
+      statement: "A roleplay seat is named for its persona, its role and the story.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A notice of a turn reaches the game master, world builder and writer seats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A notice of a roleplayed story's turn reaches its roleplay seat alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A coordinator seat spelling no persona is the only seat a notice reaches.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,5 +38,5 @@ export const turnSeats = {
     },
   ],
   createdAt: "2026-09-27T13:26:16.707Z",
-  updatedAt: "2026-10-04T00:01:17.000Z",
+  updatedAt: "2026-10-17T19:48:08.090Z",
 } as const satisfies Module
