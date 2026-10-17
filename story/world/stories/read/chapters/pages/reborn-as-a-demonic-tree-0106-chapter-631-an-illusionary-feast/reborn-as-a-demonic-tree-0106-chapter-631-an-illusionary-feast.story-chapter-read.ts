@@ -20,5 +20,6 @@ export const rebornAsADemonicTree0106Chapter631AnIllusionaryFeast = {
     },
   ],
   createdAt: "2026-10-16T20:07:46.494Z",
-  updatedAt: "2026-10-16T20:07:46.494Z",
+  updatedAt: "2026-10-17T03:05:49.447Z",
+  ownProgress: 2730,
 } as const satisfies StoryChapterRead
