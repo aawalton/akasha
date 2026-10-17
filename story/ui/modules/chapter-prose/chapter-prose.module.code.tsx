@@ -1,4 +1,5 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { splitInlineEmphasis } from "akasha/page/ui/component/modules/reader-prose/reader-prose.module.code.ts"
 import { READER_PROSE_TYPOGRAPHY } from "akasha/page/ui/component/modules/reader-typography/reader-typography.module.code.ts"
 import type { ClientProseSegment } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
@@ -20,6 +21,8 @@ import { Fragment, type ReactNode } from "react"
 const HEADING_RE = /^#{1,6}\s+/
 
 const PARAGRAPH_BREAK = /\n\n+/
+
+const ASIDE_RE = /^\[([\s\S]*)\]$/
 
 const NO_COVERS: readonly InlineCover[] = []
 
@@ -45,6 +48,43 @@ function CoversAfter({ covers, drawing }: { covers: readonly InlineCover[]; draw
   )
 }
 
+function Emphasized({ text }: { text: string }) {
+  return (
+    <>
+      {splitInlineEmphasis(text).map((run, at) =>
+        run.kind === "em" ? <em key={at}>{run.text}</em> : <Fragment key={at}>{run.text}</Fragment>
+      )}
+    </>
+  )
+}
+
+function ProseBlock({ block, muted }: { block: string; muted: boolean }) {
+  if (HEADING_RE.test(block)) {
+    return (
+      <h3
+        className={`font-mono font-semibold text-[13px] ${
+          muted ? "text-tertiary" : "text-accent"
+        } uppercase tracking-[0.18em]`}
+      >
+        {block.replace(HEADING_RE, "")}
+      </h3>
+    )
+  }
+  const aside = firstCapture(ASIDE_RE.exec(block))
+  if (aside !== null) {
+    return (
+      <aside className="whitespace-pre-line border-surface-3 border-l-2 pl-3 text-[0.85em] text-tertiary italic">
+        <Emphasized text={aside.trim()} />
+      </aside>
+    )
+  }
+  return (
+    <p className={`whitespace-pre-line ${muted ? "text-tertiary" : "text-primary"}`}>
+      <Emphasized text={block} />
+    </p>
+  )
+}
+
 function ProseBlocks({
   blocks,
   start,
@@ -60,25 +100,7 @@ function ProseBlocks({
     <>
       {blocks.map((block, i) => (
         <Fragment key={i}>
-          {HEADING_RE.test(block) ? (
-            <h3
-              className={`font-mono font-semibold text-[13px] ${
-                muted ? "text-tertiary" : "text-accent"
-              } uppercase tracking-[0.18em]`}
-            >
-              {block.replace(HEADING_RE, "")}
-            </h3>
-          ) : (
-            <p className={`whitespace-pre-line ${muted ? "text-tertiary" : "text-primary"}`}>
-              {splitInlineEmphasis(block).map((run, at) =>
-                run.kind === "em" ? (
-                  <em key={at}>{run.text}</em>
-                ) : (
-                  <Fragment key={at}>{run.text}</Fragment>
-                )
-              )}
-            </p>
-          )}
+          <ProseBlock block={block} muted={muted} />
           <CoversAfter
             covers={drawing.placed.after.get(start + i) ?? NO_COVERS}
             drawing={drawing}
