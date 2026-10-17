@@ -7,8 +7,11 @@ export const blueBoxes00002 = {
   unit: "unit/words",
   partOfCollections: ["story-played/blue-boxes"],
   position: 2,
-  stepStatus: "step-status/world-builder",
+  prose: "txt",
+  characters: ["character-player/blue-boxes-nala", "character-other/blue-boxes-iris"],
+  stepStatus: "step-status/game-master",
   action: "\"Uh...hi? I'm guessing I've been isekai'd, but who are you? Are you...the System?\"",
+  lore: ["lore/the-dating-game-iris"],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
@@ -17,5 +20,6 @@ export const blueBoxes00002 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T18:12:42.045Z",
-  updatedAt: "2026-10-17T18:12:42.045Z",
+  updatedAt: "2026-10-17T18:13:20.878Z",
+  ownLength: 163,
 } as const satisfies StoryTurnPlayed
