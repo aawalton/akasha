@@ -13,7 +13,6 @@ export const arousal = {
     "domain/hollowmere-explicitness",
     "domain/emberdeep-explicitness",
     "domain/fairweather-explicitness",
-    "domain/encounters-explicitness",
     "domain/explicitness",
   ],
   decisions: [
@@ -56,5 +55,5 @@ export const arousal = {
     },
   ],
   createdAt: "2026-09-04T13:21:45.873Z",
-  updatedAt: "2026-10-17T20:49:32.057Z",
+  updatedAt: "2026-10-17T20:49:54.343Z",
 } as const satisfies Domain
