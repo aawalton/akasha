@@ -9,7 +9,7 @@ export const thornford00017 = {
   position: 17,
   prose: "txt",
   characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/recorders",
   action:
     "\"Oh, we'll dance in dresses at the ball, but this dance is better away from prying eyes. Care to join me in the back? I'm sure you know the steps.\"",
   beats: "jsonl",
@@ -20,10 +20,10 @@ export const thornford00017 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
   roleplayed: true,
   createdAt: "2026-10-17T22:12:32.059Z",
-  updatedAt: "2026-10-17T22:13:59.018Z",
+  updatedAt: "2026-10-17T22:14:09.802Z",
   ownLength: 108,
   endsAt: "2026-04-30T21:22:00.000Z",
 } as const satisfies StoryTurnPlayed
