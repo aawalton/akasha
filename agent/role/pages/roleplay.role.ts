@@ -81,6 +81,7 @@ export const roleplay = {
       aids: [
         "`akasha story turn advance --turn <turn> --prose-file <file> --character <character>`",
         "The turn's page holds his action; an opening holds none.",
+        "Open the prose with his action as it happens, his spoken words exactly as he wrote them.",
         "Name with `--character` each character present, silent or not.",
         "Settle each roll before handing in the prose, since a roll lands on the latest turn.",
       ],
@@ -296,5 +297,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T20:10:59.807Z",
+  updatedAt: "2026-10-17T20:11:37.082Z",
 } as const satisfies Role
