@@ -11,6 +11,7 @@ export const blueBoxesRoleplayWorldbuilder = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "c6054ca0-fb0a-49fe-95e0-21b080b4245f",
   createdAt: "2026-10-17T17:37:26.379Z",
-  updatedAt: "2026-10-17T17:37:26.379Z",
+  updatedAt: "2026-10-17T17:37:29.484Z",
 } as const satisfies Seat
