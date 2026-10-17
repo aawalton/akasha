@@ -7,7 +7,7 @@ export const thornfordGreyGreenSilk = {
   title: "Grey-green silk",
   story: "story-played/thornford",
   character: "character-player/thornford-nala",
-  description: "A bolt of grey-green silk.",
+  description: "Grey-green silk cut into the pieces of the gown, with an arm's length left over.",
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T21:32:26.071Z",
+  updatedAt: "2026-10-17T21:53:16.097Z",
 } as const satisfies StoryItem

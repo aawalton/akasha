@@ -22,13 +22,25 @@ export const thornfordGreyGreenSilk = {
     },
     {
       fact: "The bolt holds enough silk for one gown, with about an arm's length to spare.",
-      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/thornford-shaestrel",
+        "character-player/thornford-nala",
+      ],
     },
     {
       fact: "The silk takes an iron's heat without a mark.",
       knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
     },
+    {
+      fact: "Nala cut the gown's pieces from the silk on the night of April 29, with Shaestrel watching.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T21:43:31.356Z",
+  updatedAt: "2026-10-17T21:53:16.097Z",
 } as const satisfies Lore
