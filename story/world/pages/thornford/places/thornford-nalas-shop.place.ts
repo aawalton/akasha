@@ -20,7 +20,11 @@ export const thornfordNalasShop = {
       fact: "Nala is behind on the rent for the shop.",
       knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
     },
+    {
+      fact: "The quarter's rent for the shop falls due on Beltane.",
+      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
+    },
   ],
   createdAt: "2026-10-17T19:44:40.481Z",
-  updatedAt: "2026-10-17T20:02:50.638Z",
+  updatedAt: "2026-10-17T20:05:47.824Z",
 } as const satisfies Place
