@@ -26,6 +26,8 @@ export const role = {
     "role/worker",
     "role/world-builder",
     "role/writer",
+    "role/roleplay",
+    "role/roleplay-recorder",
   ],
   properties: [{ pageProperty: "boolean-property/on-call", required: true, many: false }],
   directives: [
@@ -123,5 +125,5 @@ export const role = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T17:23:00.768Z",
-  updatedAt: "2026-10-04T00:02:05.000Z",
+  updatedAt: "2026-10-17T16:29:48.830Z",
 } as const satisfies PageType
