@@ -4,4 +4,6 @@
 {"propertySlug":"world","path":"story/world/pages/thornford/places/thornford-nalas-shop.place.ts","id":"01a14b65-1e21-73e3-b96d-59d03b1fab00"}
 {"propertySlug":"world","path":"story/world/pages/thornford/places/thornford-stone-ford.place.ts","id":"01a14b65-1e22-716f-a809-757d25d4d42a"}
 {"propertySlug":"world","path":"story/world/pages/thornford/places/thornford-town.place.ts","id":"01a14b65-1e22-7ee7-a455-3f5cd6ec60a8"}
+{"propertySlug":"world","path":"story/world/pages/thornford/stories/played/thornford/mechanics/checks/thornford-time-passing.world-check.ts","id":"01a14b66-4c0f-75fc-876a-795844595bc7"}
+{"propertySlug":"world","path":"story/world/pages/thornford/stories/played/thornford/mechanics/mechanics/thornford-time.world-mechanic.ts","id":"01a14b66-4c0f-7fb9-a066-6bdb25d79fab"}
 {"propertySlug":"world","path":"story/world/pages/thornford/stories/played/thornford/thornford.story-played.ts","id":"01a14b64-8bf8-7598-a38e-0b09fd184787"}
