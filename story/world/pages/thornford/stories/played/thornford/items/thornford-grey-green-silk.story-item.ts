@@ -8,7 +8,7 @@ export const thornfordGreyGreenSilk = {
   story: "story-played/thornford",
   character: "character-player/thornford-nala",
   description:
-    "A grey-green silk gown sewn whole but for its pinned hem, with an arm's length of silk left over.",
+    "A finished grey-green silk gown, hem set, now worn by Shaestrel; an arm's length of spare silk stays with Nala.",
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T22:05:12.880Z",
+  updatedAt: "2026-10-17T22:07:50.791Z",
 } as const satisfies StoryItem

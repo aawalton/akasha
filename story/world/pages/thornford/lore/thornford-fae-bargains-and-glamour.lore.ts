@@ -220,7 +220,15 @@ export const thornfordFaeBargainsAndGlamour = {
         "character-other/thornford-shaestrel",
       ],
     },
+    {
+      fact: "Nala finished Shaestrel's gown on the evening of April 30, a day before moonrise on Beltane.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T22:07:08.303Z",
+  updatedAt: "2026-10-17T22:07:50.791Z",
 } as const satisfies Lore
