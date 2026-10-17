@@ -9,9 +9,10 @@ export const blueBoxes00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/blue-boxes-nala", "character-other/blue-boxes-iris"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   action:
     '"Umm, if the windows are only supposed to be for facts, how are you using them to talk to me?"',
+  beats: "jsonl",
   lore: ["lore/the-dating-game-iris"],
   reviewedBy: [
     "story-reviewer/continuity",
@@ -21,7 +22,7 @@ export const blueBoxes00004 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T18:29:27.509Z",
-  updatedAt: "2026-10-17T18:30:33.599Z",
+  updatedAt: "2026-10-17T18:30:38.938Z",
   ownLength: 121,
   endsAt: "2026-10-17T16:51:00.000Z",
 } as const satisfies StoryTurnPlayed
