@@ -181,6 +181,10 @@ export const thornfordFaeBargainsAndGlamour = {
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
     {
+      fact: "With the gown done before moonrise, the forfeit falls away, and Nala's one ask holds until made.",
+      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+    },
+    {
       fact: "Nala and Shaestrel struck the Beltane gown bargain on the evening of April 28.",
       knowers: [
         "lore-disclosure/game-master",
@@ -218,5 +222,5 @@ export const thornfordFaeBargainsAndGlamour = {
     },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T22:05:12.880Z",
+  updatedAt: "2026-10-17T22:07:08.303Z",
 } as const satisfies Lore
