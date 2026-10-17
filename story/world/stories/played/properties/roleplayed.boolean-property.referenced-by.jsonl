@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"roleplayed.boolean-property.ts","path":"command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"roleplayed.boolean-property.ts","path":"story/world/stories/played/modules/played-beside/played-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"roleplayed.boolean-property.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"roleplayed.boolean-property.types.ts","path":"story/world/stories/played/story-played.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"roleplayed.boolean-property.types.ts","path":"story/world/stories/played/turns/story-turn-played.page-type.types.ts","typed":true,"deferred":false}

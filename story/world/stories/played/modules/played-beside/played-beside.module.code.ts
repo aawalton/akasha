@@ -1,10 +1,12 @@
 "use client"
 
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
+import { displayNameOf } from "akasha/persona/modules/display-name/persona-display-name.module.code.ts"
 import {
   askedLoudly,
   reportThrown,
 } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
+import { roleplayed } from "akasha/story/world/stories/played/properties/roleplayed.boolean-property.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import { useEffect, useState } from "react"
 
@@ -16,9 +18,12 @@ const EXTERNAL_ID_KEY = "externalId"
 
 const COORDINATOR_AGENT_KEY = "coordinatorAgent"
 
+const ROLEPLAYED_KEY = roleplayed.propertySlug
+
 interface PlayedBeside {
   readonly externalId: string | undefined
   readonly coordinatorAgent: string | undefined
+  readonly narrator: string | null
 }
 
 type PlayedBesideRead =
@@ -38,16 +43,19 @@ async function readPlayedBeside(slug: string): Promise<PlayedBesideRead> {
   const asked = await askedLoudly({
     "page-type": PLAYED_PAGE_TYPE_SLUG,
     where: { slug: { is: slug } },
-    keys: [SLUG_KEY, EXTERNAL_ID_KEY, COORDINATOR_AGENT_KEY],
+    keys: [SLUG_KEY, EXTERNAL_ID_KEY, COORDINATOR_AGENT_KEY, ROLEPLAYED_KEY],
   })
   if (!asked.ok) return { kind: "unread", why: asked.why }
   const values = asked.answer.rows[0]?.values
   if (values === undefined) return { kind: "none" }
+  const coordinatorAgent = textIn(values, COORDINATOR_AGENT_KEY)
+  const narrated = values[ROLEPLAYED_KEY] === true && coordinatorAgent !== undefined
   return {
     kind: "read",
     beside: {
       externalId: textIn(values, EXTERNAL_ID_KEY),
-      coordinatorAgent: textIn(values, COORDINATOR_AGENT_KEY),
+      coordinatorAgent,
+      narrator: narrated ? displayNameOf(coordinatorAgent) : null,
     },
   }
 }
