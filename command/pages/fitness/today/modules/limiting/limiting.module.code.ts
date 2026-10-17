@@ -24,6 +24,7 @@ export type LimitRule = {
   readonly rise: number
   readonly fall: number
   readonly legsFactor: number
+  readonly legsFactorFrom: string
 }
 
 export function liftedOn(
@@ -51,6 +52,7 @@ export function liftedOn(
 }
 
 function factorOn(days: readonly Value[], rule: LimitRule, on: string): number {
+  if (on < rule.legsFactorFrom) return 1
   const weekday = weekdayOn(on)
   if (weekday === null) return 1
   return focusOn(days, weekday) === LEGS ? rule.legsFactor : 1

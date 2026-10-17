@@ -18,7 +18,14 @@ const SUNDAY = "2026-09-27"
 
 const SATURDAY = "2026-09-26"
 
-const RULE: LimitRule = { seed: 3000, from: MONDAY, rise: 20, fall: 100, legsFactor: 2 }
+const RULE: LimitRule = {
+  seed: 3000,
+  from: MONDAY,
+  rise: 20,
+  fall: 100,
+  legsFactor: 2,
+  legsFactorFrom: MONDAY,
+}
 
 const DAYS = [
   { dayOfWeek: "monday", focus: "push" },
@@ -107,6 +114,13 @@ test("a legs day that moved only the limit of another day leaves the limit where
 test("a week whose legs day moved only the limit of another day lowers the limit by the fall", () => {
   const moved = new Map([[SATURDAY, 3000]])
   expect(limitOn(moved, RULE, DAYS, "2026-09-28")).toBe(2900)
+})
+
+test("a legs day before the legs factor's first day is judged by the limit alone", () => {
+  const later: LimitRule = { ...RULE, legsFactorFrom: SUNDAY }
+  expect(limitOn(new Map(), later, DAYS, SATURDAY)).toBe(3000)
+  expect(limitOn(new Map([[SATURDAY, 3000]]), later, DAYS, SUNDAY)).toBe(3020)
+  expect(limitOn(new Map(), later, DAYS, "2026-10-03")).toBe(5800)
 })
 
 test("a day of any other focus keeps the limit as it is", () => {

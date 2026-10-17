@@ -125,6 +125,7 @@ function todayOf(root: string, now: Date): Today {
       rise: selectionPolicy.volumeLimitRise,
       fall: selectionPolicy.volumeLimitFall,
       legsFactor: selectionPolicy.legsVolumeLimitFactor,
+      legsFactorFrom: selectionPolicy.legsVolumeLimitFactorFrom,
     },
     days,
     day
