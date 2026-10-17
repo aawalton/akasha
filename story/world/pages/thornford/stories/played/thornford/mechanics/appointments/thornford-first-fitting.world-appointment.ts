@@ -7,8 +7,8 @@ export const thornfordFirstFitting = {
   title: "Shaestrel's first fitting with Nala",
   world: "world/thornford",
   characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
-  appointmentAt: "2026-04-29T18:00:00.000Z",
+  appointmentAt: "2026-04-29T20:30:00.000Z",
   appointmentPlace: "Nala's shop on Weavers' Row, when the lamps are lit",
   createdAt: "2026-10-17T20:48:57.552Z",
-  updatedAt: "2026-10-17T20:48:57.552Z",
+  updatedAt: "2026-10-17T21:46:57.888Z",
 } as const satisfies WorldAppointment
