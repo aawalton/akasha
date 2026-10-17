@@ -208,7 +208,15 @@ export const thornfordFaeBargainsAndGlamour = {
         "character-other/thornford-shaestrel",
       ],
     },
+    {
+      fact: "By the evening of April 30 Nala had sewn the gown whole, all but its hem.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T21:59:23.358Z",
+  updatedAt: "2026-10-17T22:05:12.880Z",
 } as const satisfies Lore
