@@ -279,6 +279,19 @@ export const roleplay = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Close The Chapter",
+      act: "Once a turn crosses the story's chapter break, close the chapter with `akasha story chapter-close`.",
+      warrant:
+        "Turns left open pile up on the play screen, and a reader reads the story whole only as chapters.",
+      aids: [
+        "Close through the last turn that ends before the break, so each chapter holds its day whole.",
+        "Never end a turn early to meet the break; the turn after it opens the next chapter.",
+        "Title the chapter for what happened in it.",
+        "A story naming no chapter break closes no chapter.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Canon Stands",
       act: "Never rewrite a fact the story holds to fit what came after it.",
       warrant:
@@ -302,5 +315,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T21:42:33.340Z",
+  updatedAt: "2026-10-17T21:42:51.917Z",
 } as const satisfies Role
