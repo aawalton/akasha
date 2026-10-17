@@ -5,7 +5,7 @@
 {"beat":5,"event":"What lands at her feet is a drift of fresh green birch leaves, like those in her hair."}
 {"beat":6,"event":"She steps out of the leaves and lifts her arms again, bare in the lamplight."}
 {"beat":7,"event":"Nala takes the tape from her neck and measures from the nape; the fae's skin is cool."}
-{"beat":8,"event":"Nala measures shoulders, bust, waist, hips and arm, pencilling each figure into the book."}
+{"beat":8,"event":"Nala measures shoulders, bust, waist, hips and arm, pencilling each figure into the book.","memory":[{"page":"lore/thornford-fae-bargains-and-glamour","fact":"Nala took Shaestrel's full measure for the gown on April 28, pencilled in her book.","establishes":true},{"page":"lore/thornford-fae-bargains-and-glamour","fact":"Nala took Shaestrel's full measure for the gown on April 28, pencilled in her book.","learns":"character-player/thornford-nala"},{"page":"lore/thornford-fae-bargains-and-glamour","fact":"Nala took Shaestrel's full measure for the gown on April 28, pencilled in her book.","learns":"character-other/thornford-shaestrel"},{"page":"lore/thornford-fae-bargains-and-glamour","fact":"Nala took Shaestrel's full measure for the gown on April 28, pencilled in her book.","shown":true}]}
 {"beat":9,"event":"The fae hums something low and quick that Nala doesn't know while Nala works."}
 {"beat":10,"event":"Nala kneels for the waist-to-floor length, and the leaves crackle under her knee."}
 {"beat":11,"event":"The fae looks down over her shoulder and asks if Nala has thought what she'll ask for."}
