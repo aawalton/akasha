@@ -96,7 +96,23 @@ export const thornfordShaestrel = {
         "character-other/thornford-shaestrel",
       ],
     },
+    {
+      fact: "She promised to bring Nala across the ford to the dance on Beltane night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "She wants Nala to make herself something from the spare silk, so they match at the dance.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T20:36:43.997Z",
-  updatedAt: "2026-10-17T21:56:51.914Z",
+  updatedAt: "2026-10-17T21:57:13.166Z",
 } as const satisfies Lore
