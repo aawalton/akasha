@@ -33,6 +33,11 @@ export const roleplay = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A roleplay-worldbuilder in a third seat files the world ahead of the conversation.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "This role reads the story's secrets.",
     },
     {
@@ -59,14 +64,13 @@ export const roleplay = {
     },
     {
       directiveKind: "directive-kind/rule",
-      name: "Start The Recorder",
-      act: "Open a headless roleplay-recorder on this conversation before the first reply.",
-      warrant:
-        "This role lands nothing, so what is played before the recorder watches is landed by nobody.",
+      name: "Start The Helpers",
+      act: "Open a headless roleplay-recorder and roleplay-worldbuilder on this conversation first.",
+      warrant: "This role lands nothing, so what is played before they watch is landed by nobody.",
       aids: [
-        "`akasha seat start --start-mode headless --role roleplay-recorder --domain <story> --prompt-file -`",
+        "`akasha seat start --start-mode headless --role <role> --domain <story> --prompt-file -`",
         "The prompt, on stdin, names this seat and the story to land into.",
-        "A roleplay-recorder already running on this conversation is not started again.",
+        "A helper already running on this conversation is not started again.",
       ],
     },
     {
@@ -239,5 +243,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T17:12:36.732Z",
+  updatedAt: "2026-10-17T17:35:29.716Z",
 } as const satisfies Role

@@ -25,7 +25,8 @@ export const roleplayRecorder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role writes the story's secrets.",
+      statement:
+        "This role files no lore, place, character or mechanic; the roleplay-worldbuilder does.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -92,5 +93,5 @@ export const roleplayRecorder = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T17:12:36.732Z",
+  updatedAt: "2026-10-17T17:35:29.716Z",
 } as const satisfies Role

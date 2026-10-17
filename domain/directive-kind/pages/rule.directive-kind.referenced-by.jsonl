@@ -7,6 +7,7 @@
 {"propertySlug":"directive-kind","path":"agent/role/pages/recorder.role.ts","id":"01a0c966-c065-78ca-a683-4dedb588c622"}
 {"propertySlug":"directive-kind","path":"agent/role/pages/reviewer.role.ts","id":"01a0debc-6738-73fb-9f06-f8d1967f9d96"}
 {"propertySlug":"directive-kind","path":"agent/role/pages/roleplay-recorder.role.ts","id":"01a14ab2-b79f-73ea-83ec-e89c61df70d0"}
+{"propertySlug":"directive-kind","path":"agent/role/pages/roleplay-worldbuilder.role.ts","id":"01a14aee-d9b6-73d1-8ec6-adfe7bd0e1fa"}
 {"propertySlug":"directive-kind","path":"agent/role/pages/roleplay.role.ts","id":"01a14ab2-b7a3-7e34-8bad-ef46660f007a"}
 {"propertySlug":"directive-kind","path":"agent/role/pages/story-recorder.role.ts","id":"01a0e054-86e2-7a7c-8bf7-dda0c72d035a"}
 {"propertySlug":"directive-kind","path":"agent/role/pages/world-builder.role.ts","id":"01a0d47c-9cc7-7822-b581-ac10934ca350"}
