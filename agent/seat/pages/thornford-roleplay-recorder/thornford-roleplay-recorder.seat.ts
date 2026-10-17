@@ -11,6 +11,7 @@ export const thornfordRoleplayRecorder = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "6fe67161-0db5-4830-8d7f-e83eb8f28ca1",
   createdAt: "2026-10-17T19:58:25.253Z",
-  updatedAt: "2026-10-17T19:58:25.253Z",
+  updatedAt: "2026-10-17T19:58:28.733Z",
 } as const satisfies Seat
