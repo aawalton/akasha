@@ -20,5 +20,6 @@ export const heWhoFightsWithMonsters0022Chapter1030ThereAreManyStepsOnTheRoad = 
     },
   ],
   createdAt: "2026-10-16T22:08:38.056Z",
-  updatedAt: "2026-10-16T22:08:38.056Z",
+  updatedAt: "2026-10-17T23:03:47.164Z",
+  ownProgress: 2871,
 } as const satisfies StoryChapterRead
