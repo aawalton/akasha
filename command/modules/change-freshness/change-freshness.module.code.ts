@@ -26,6 +26,17 @@ export const AGAIN_WORKED =
   " and another landing has moved it since. No edit is kept for such a path, so there is nothing" +
   " to drop — apply again, and it is worked out afresh against the commit at HEAD."
 
+export const STALE_READ =
+  "nothing was written — each path above was last read at an older body than the file now" +
+  " holds, so that read is stale, and a read of each as it now is clears it before this call" +
+  " runs again:"
+
+const SHELL_PLAIN = /^[\w./@+,:=-]+$/
+
+function readAgain(path: string): string {
+  return `  akasha read --file-path ${SHELL_PLAIN.test(path) ? path : `'${path}'`}`
+}
+
 export function workedOnly(refusals: readonly string[]): boolean {
   return refusals.length === 2 && refusals[1] === AGAIN_WORKED
 }
@@ -128,7 +139,11 @@ function unfreshPast(
     asRead.filter((one) => !machine.wrote.has(one.path) && !foldedAt(one.path))
   )
   if (stirred.length === 0) return null
-  return [`${stirred.join(", ")} — what is on disk is not the body you read, ${PUT_BACK}`, tail]
+  return [
+    `${stirred.join(", ")} — what is on disk is not the body you read, ${PUT_BACK}`,
+    STALE_READ,
+    ...stirred.map(readAgain),
+  ]
 }
 
 export function machineOver(

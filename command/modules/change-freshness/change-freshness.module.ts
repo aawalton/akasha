@@ -122,7 +122,16 @@ export const changeFreshness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A refusal over a body that moved closes in the same words whichever way that body moved.",
+        "A refusal over a body moved between commits closes in the words its caller gives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal over a body on disk that is not the body read says that read is stale.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That refusal closes on the read of each such path rather than on its caller's words.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -139,5 +148,5 @@ export const changeFreshness = {
     },
   ],
   createdAt: "2026-08-29T22:36:35.466Z",
-  updatedAt: "2026-09-25T15:01:00.000Z",
+  updatedAt: "2026-10-17T21:48:36.820Z",
 } as const satisfies Module

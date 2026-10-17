@@ -13,6 +13,7 @@ import {
   machineWrote,
   movedOnDisk,
   PUT_BACK,
+  STALE_READ,
   unfresh,
 } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
@@ -20,16 +21,15 @@ import {
   A,
   ADMITS,
   bytes,
+  git,
   MODULE_AT,
+  repoWith,
   rowsIn,
+  scratch,
   TYPE,
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
-import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Facing } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-
-const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
@@ -38,21 +38,6 @@ const PAGES = { "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE }
 const AT = "akasha/a.domain.ts"
 
 const MOVED = "what is on disk is not the body you read"
-
-function repoWith(named: Readonly<Record<string, string>>): string {
-  const root = scratch.rootFor("akasha-freshness-")
-  git(root, ["init", "--quiet"])
-  git(root, ["config", "user.email", "held@nowhere"])
-  git(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(named)) {
-    const at = join(root, path)
-    mkdirSync(join(at, ".."), { recursive: true })
-    writeFileSync(at, body)
-  }
-  git(root, ["add", "-A"])
-  git(root, ["commit", "--quiet", "-m", "first"])
-  return root
-}
 
 const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
 
@@ -129,6 +114,20 @@ test("a body that moved on disk since its writer read it is refused unwritten", 
   expect("refusals" in said).toBe(true)
   expect("refusals" in said ? said.refusals.join("\n") : "").toContain(MOVED)
   expect(readFileSync(join(root, AT), "utf8")).toBe(`${A}\n`)
+})
+
+test("a landing over a stale read names the read to make, quoted where the shell acts", async () => {
+  const at = "akasha/api.$slug.txt"
+  const root = repoWith({ [at]: "read" })
+  writeFileSync(join(root, at), "rewritten since")
+  const change = rowsIn(root, [{ path: at, body: bytes("written over") }])
+  const said = await landing(root, change, "held", ADMITS, null, null, [
+    asRead(at, blobIdOf(bytes("read"))),
+  ])
+  const why = "refusals" in said ? said.refusals : []
+  expect(why.slice(1)).toEqual([STALE_READ, `  akasha read --file-path '${at}'`])
+  expect(why.join("\n")).not.toContain("edit kept")
+  expect(readFileSync(join(root, at), "utf8")).toBe("rewritten since")
 })
 
 test("a body another landing moved while this one waited is refused, and that body is not lost", async () => {
@@ -220,14 +219,13 @@ test("a name resolving to no commit is answered as nothing", () => {
   expect(commitNamed(root, "no-such-ref")).toBe(null)
 })
 
-test("a body on disk that is not the body read is answered as moved, with the tail last", () => {
+test("a body on disk that is not the body read closes on the read owed, not the tail", () => {
   const root = repoWith(PAGES)
-  const held = readA()
   writeFileSync(join(root, AT), "moved")
-  const said = unfresh(root, null, headOf(root), [AT], [held], "tail")
+  const said = unfresh(root, null, headOf(root), [AT], [readA()], "tail")
   expect(said?.[0]).toContain(MOVED)
   expect(said?.[0] ?? "").toEndWith(PUT_BACK)
-  expect(said?.at(-1)).toBe("tail")
+  expect(said?.at(-1)).toBe(`  akasha read --file-path ${AT}`)
 })
 
 test("a body on disk that is the body read is answered as nothing", () => {
@@ -243,11 +241,11 @@ test("every body that moved is named in one refusal rather than one refusal each
   writeFileSync(join(root, AT), "moved")
   writeFileSync(join(root, TYPE_AT), "moved as well")
   const said = unfresh(root, null, headOf(root), [AT, TYPE_AT], held, "tail")
-  expect(said?.length).toBe(2)
+  expect(said?.length).toBe(4)
   expect(said?.[0]).toContain(AT)
   expect(said?.[0]).toContain(TYPE_AT)
   expect(said?.[0] ?? "").toEndWith(PUT_BACK)
-  expect(said?.at(-1)).toBe("tail")
+  expect(said).not.toContain("tail")
 })
 
 test("a commit reaching nothing under `akasha/` while the change was judged refuses nothing", async () => {
