@@ -1,9 +1,9 @@
-{"beat":1,"event":"At six on a rainy evening, Nala bolts her Weavers' Row shop behind her last customer.","memory":[{"page":"place/thornford-nalas-shop","fact":"Nala rents a narrow shop on Weavers' Row.","shown":true}]}
+{"beat":1,"event":"At six on a rainy evening, Nala bolts her Weavers' Row shop behind her last customer.","place":"place/thornford-nalas-shop","present":["character-player/thornford-nala"],"memory":[{"page":"place/thornford-nalas-shop","fact":"Nala rents a narrow shop on Weavers' Row.","shown":true}]}
 {"beat":2,"event":"Nala turns the window card and sweeps loose threads off the cutting table."}
 {"beat":3,"event":"Nala's rent book lies open under the counter at a page she would rather not read again.","memory":[{"page":"place/thornford-nalas-shop","fact":"Nala is behind on the rent for the shop.","shown":true}]}
 {"beat":4,"event":"Nala lights the lamp over the treadle machine against the rain's dimness."}
 {"beat":5,"event":"The bell rings, and the door stands open though its bolt is still shot."}
-{"beat":6,"event":"A small woman in a rain-beaded grey cloak steps in and shuts the door with her heel."}
+{"beat":6,"event":"A small woman in a rain-beaded grey cloak steps in and shuts the door with her heel.","arrive":["character-other/thornford-shaestrel"]}
 {"beat":7,"event":"She has long dark green hair pinned with birch leaves, pointed ears and eyes greener still."}
 {"beat":8,"event":"She carries a bolt of cloth in her arms like a sleeping cat."}
 {"beat":9,"event":"In a hill-farm lilt she names Nala the seamstress."}
