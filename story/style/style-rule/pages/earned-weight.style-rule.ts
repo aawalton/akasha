@@ -10,8 +10,9 @@ export const earnedWeight = {
   aids: [
     "Never write nobody has ever, the first time, only you, or anything like them.",
     "Never stretch a fact of the world to make a moment rarer.",
+    "Saying everything else is ordinary is the same as saying this is special.",
     "A character speaks of a bond only as much as the story has built it.",
   ],
   createdAt: "2026-10-17T17:47:08.433Z",
-  updatedAt: "2026-10-17T17:47:08.433Z",
+  updatedAt: "2026-10-17T18:22:46.408Z",
 } as const satisfies StyleRule
