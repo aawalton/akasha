@@ -2715,9 +2715,9 @@
       "nextRankXP": 140
     },
     "117": {
-      "currentRank": 9,
+      "currentRank": 10,
       "currentXP": 35,
-      "nextRankXP": 50
+      "nextRankXP": 75
     },
     "130": {
       "currentRank": 10,
@@ -7652,9 +7652,11 @@
     7359,
     7360,
     7419,
+    7426,
     7427,
     7442,
-    7453
+    7453,
+    7484
   ],
   "cadwell": {
     "progressionLevel": 2,
@@ -13706,7 +13708,7 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792263475,
+      "capturedAt": 1792264241,
       "inCombat": false,
       "stats": {
         "resistance-critical": 1320,
