@@ -40,7 +40,19 @@ export const turnLifecycle = {
       statement:
         "A notice moving a turn to game-master names the player's intent for the character.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn a narrator makes is said to be written by her, whatever its step.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stall in a turn a narrator makes names no step and no seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Feedback on a turn reaches its narrator, or the game master where none narrates.",
+    },
   ],
   createdAt: "2026-09-26T17:28:05.792Z",
-  updatedAt: "2026-10-17T17:58:43.890Z",
+  updatedAt: "2026-10-17T18:23:12.223Z",
 } as const satisfies Module

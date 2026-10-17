@@ -3,12 +3,15 @@ import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-ty
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
 import {
+  feedbackTo,
   firstMoved,
   type Handed,
   type Held,
   type Latest,
   linesIn,
+  makingSaid,
   noticeOf,
+  STALL_AFTER_MS,
   slugAfter,
   stepIn,
   workingSaid,
@@ -89,6 +92,15 @@ test("the words naming a step, and the lines of a handed-in file", () => {
   expect(workingSaid("reviewers")).toBe("The reviewers are working…")
   expect(workingSaid("recorders")).toBe("The recorders are working…")
   expect(linesIn(" one \n\n two\r\n")).toEqual(["one", "two"])
+})
+
+test("a turn a narrator makes names her writing it, and says its stall bare", () => {
+  expect(makingSaid("world-builder", true, 0, "Mari")).toBe("Mari is writing…")
+  expect(makingSaid("world-builder", false, STALL_AFTER_MS, "Mari")).toBe("The turn has stalled.")
+  expect(makingSaid("world-builder", false, STALL_AFTER_MS)).toBe(
+    "The turn has stalled: the world builder is not working on it."
+  )
+  expect([feedbackTo("Mari"), feedbackTo(null)]).toEqual(["Mari", "the game master"])
 })
 
 const STEPPED = ["mechanics", "inventory"]

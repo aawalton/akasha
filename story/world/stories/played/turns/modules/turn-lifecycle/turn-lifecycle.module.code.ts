@@ -282,13 +282,22 @@ export function workingSaid(step: TurnStep): string {
 
 export const STALL_AFTER_MS = 120_000
 
+const STALLED = "The turn has stalled"
+
 export function makingSaid(
   step: TurnStep,
   working: boolean,
-  quietMs: number = Number.POSITIVE_INFINITY
+  quietMs: number = Number.POSITIVE_INFINITY,
+  narrator: string | null = null
 ): string {
-  if (working || quietMs < STALL_AFTER_MS) return workingSaid(step)
-  return `The turn has stalled: ${WHO[step]} ${isOf(step)} not working on it.`
+  const going = working || quietMs < STALL_AFTER_MS
+  if (narrator !== null) return going ? `${narrator} is writing…` : `${STALLED}.`
+  if (going) return workingSaid(step)
+  return `${STALLED}: ${WHO[step]} ${isOf(step)} not working on it.`
+}
+
+export function feedbackTo(narrator: string | null): string {
+  return narrator ?? WHO[GAME_MASTER]
 }
 
 export function linesIn(text: string): readonly string[] {
