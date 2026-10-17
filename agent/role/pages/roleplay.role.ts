@@ -69,6 +69,10 @@ export const roleplay = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A roleplay-illustrator in a fourth seat pictures each turn as its cover.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "This role reads the story's secrets.",
     },
     {
@@ -112,8 +116,9 @@ export const roleplay = {
     {
       directiveKind: "directive-kind/rule",
       name: "Start The Helpers",
-      act: "Open a headless roleplay-recorder and roleplay-worldbuilder on this story first.",
-      warrant: "This role lands no numbers and no lore, so what is played before they run is lost.",
+      act: "Open a headless roleplay-recorder, roleplay-worldbuilder and roleplay-illustrator first.",
+      warrant:
+        "This role lands no numbers, lore or pictures, so what is played before they run is lost.",
       aids: [
         "`akasha seat start --start-mode headless --role <role> --domain <story> --prompt-file -`",
         "The prompt, on stdin, names this seat and the story.",
@@ -323,5 +328,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T20:53:05.906Z",
+  updatedAt: "2026-10-17T21:08:46.760Z",
 } as const satisfies Role
