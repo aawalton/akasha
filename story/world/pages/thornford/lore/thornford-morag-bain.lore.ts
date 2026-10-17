@@ -41,10 +41,14 @@ export const thornfordMoragBain = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Morag does not yet know that Shaestrel has gone to Nala.",
+      fact: "Morag turned Shaestrel away at her own shop, and told her where to find Nala.",
+      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+    },
+    {
+      fact: "Morag sent Shaestrel to Nala because she keeps a key to Nala's shop and can reach the gown.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-17T20:05:03.992Z",
-  updatedAt: "2026-10-17T20:05:03.992Z",
+  updatedAt: "2026-10-17T20:10:46.816Z",
 } as const satisfies Lore
