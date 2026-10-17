@@ -1,5 +1,5 @@
 {"beat":1,"event":"Nala agrees to the bargain."}
-{"beat":2,"event":"The fae laughs and presses her wet thumb to the back of Nala's hand on the table's edge."}
+{"beat":2,"event":"The fae laughs and presses her wet thumb to the back of Nala's hand on the table's edge.","memory":[{"page":"lore/thornford-fae-bargains-and-glamour","fact":"Nala and Shaestrel struck the Beltane gown bargain on the evening of April 28.","establishes":true},{"page":"lore/thornford-fae-bargains-and-glamour","fact":"Nala and Shaestrel struck the Beltane gown bargain on the evening of April 28.","learns":"character-player/thornford-nala"},{"page":"lore/thornford-fae-bargains-and-glamour","fact":"Nala and Shaestrel struck the Beltane gown bargain on the evening of April 28.","learns":"character-other/thornford-shaestrel"},{"page":"lore/thornford-fae-bargains-and-glamour","fact":"Nala and Shaestrel struck the Beltane gown bargain on the evening of April 28.","shown":true}]}
 {"beat":3,"event":"Her skin is cool and smells of cut grass."}
 {"beat":4,"event":"For a breath the lamp flame stands tall and still, then flickers on as before."}
 {"beat":5,"event":"She slips off the table, unpins her grey cloak and drops it over the stool by the treadle machine."}
