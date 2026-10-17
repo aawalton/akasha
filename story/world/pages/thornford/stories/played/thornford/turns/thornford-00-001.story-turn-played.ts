@@ -12,5 +12,6 @@ export const thornford00001 = {
   stepStatus: "step-status/player",
   roleplayed: true,
   createdAt: "2026-10-17T20:00:37.445Z",
-  updatedAt: "2026-10-17T20:00:37.445Z",
+  updatedAt: "2026-10-17T20:00:46.300Z",
+  endsAt: "2026-04-28T18:04:00.000Z",
 } as const satisfies StoryTurnPlayed
