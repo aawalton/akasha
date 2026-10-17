@@ -4,6 +4,7 @@ export const thornford00019 = {
   id: "01a14bf0-d272-7c3b-814e-2a6356348f66",
   type: "page-type/story-turn-played",
   slug: "thornford-00-019",
+  cover: "image/image-0755f51a4c3931ef",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 19,
@@ -31,8 +32,9 @@ export const thornford00019 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "She kisses it.",
   createdAt: "2026-10-17T22:17:16.145Z",
-  updatedAt: "2026-10-17T22:18:58.529Z",
+  updatedAt: "2026-10-17T22:19:19.640Z",
   ownLength: 177,
   endsAt: "2026-04-30T22:37:00.000Z",
 } as const satisfies StoryTurnPlayed
