@@ -11,6 +11,7 @@ export const thornfordRoleplayIllustrator = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "cbfb738d-6bdb-48da-a1a4-6430626f7c68",
   createdAt: "2026-10-17T21:09:21.437Z",
-  updatedAt: "2026-10-17T21:09:21.437Z",
+  updatedAt: "2026-10-17T21:09:24.737Z",
 } as const satisfies Seat
