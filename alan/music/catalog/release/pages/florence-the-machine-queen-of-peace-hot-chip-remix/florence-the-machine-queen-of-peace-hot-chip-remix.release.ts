@@ -7,8 +7,8 @@ export const florenceTheMachineQueenOfPeaceHotChipRemix = {
   title: "Queen Of Peace (Hot Chip Remix)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 6.422583333333334,
-  ownProgress: 6.422583,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-08-28",
@@ -20,5 +20,5 @@ export const florenceTheMachineQueenOfPeaceHotChipRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.279Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

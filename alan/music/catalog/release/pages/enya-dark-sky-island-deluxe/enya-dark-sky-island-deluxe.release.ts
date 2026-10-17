@@ -7,8 +7,8 @@ export const enyaDarkSkyIslandDeluxe = {
   title: "Dark Sky Island (Deluxe)",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 54.60593333333333,
-  ownProgress: 54.605933,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-11-20",
@@ -20,5 +20,5 @@ export const enyaDarkSkyIslandDeluxe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

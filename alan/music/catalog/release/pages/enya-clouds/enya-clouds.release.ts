@@ -7,8 +7,8 @@ export const enyaClouds = {
   title: "Clouds",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 43.91166666666667,
-  ownProgress: 43.911667,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "1997-01-01",
@@ -20,5 +20,5 @@ export const enyaClouds = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const florenceTheMachineMorningElvisLiveAtDenverBallArena = {
   title: "Morning Elvis (Live At Denver Ball Arena)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 4.26085,
-  ownProgress: 4.26085,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-12-09",
@@ -20,5 +20,5 @@ export const florenceTheMachineMorningElvisLiveAtDenverBallArena = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

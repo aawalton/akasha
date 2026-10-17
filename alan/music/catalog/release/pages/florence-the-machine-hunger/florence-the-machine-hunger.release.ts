@@ -7,8 +7,8 @@ export const florenceTheMachineHunger = {
   title: "Hunger",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 3.5777666666666668,
-  ownProgress: 3.577767,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-05-03",
@@ -20,5 +20,5 @@ export const florenceTheMachineHunger = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

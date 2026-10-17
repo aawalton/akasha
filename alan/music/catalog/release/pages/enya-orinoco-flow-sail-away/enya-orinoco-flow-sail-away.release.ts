@@ -7,8 +7,8 @@ export const enyaOrinocoFlowSailAway = {
   title: "Orinoco Flow (Sail Away)",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 3.764,
-  ownProgress: 3.764,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "1988-10-15",
@@ -20,5 +20,5 @@ export const enyaOrinocoFlowSailAway = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

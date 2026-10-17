@@ -7,8 +7,8 @@ export const florenceTheMachineKing = {
   title: "King",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 4.668833333333334,
-  ownProgress: 4.668833,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-02-23",
@@ -20,5 +20,5 @@ export const florenceTheMachineKing = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

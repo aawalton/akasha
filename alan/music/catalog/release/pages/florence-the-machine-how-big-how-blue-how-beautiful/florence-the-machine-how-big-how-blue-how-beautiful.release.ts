@@ -7,8 +7,8 @@ export const florenceTheMachineHowBigHowBlueHowBeautiful = {
   title: "How Big, How Blue, How Beautiful",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 48.82873333333333,
-  ownProgress: 48.828733,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-06-01",
@@ -20,5 +20,5 @@ export const florenceTheMachineHowBigHowBlueHowBeautiful = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

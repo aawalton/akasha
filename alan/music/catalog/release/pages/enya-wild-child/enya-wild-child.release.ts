@@ -7,8 +7,8 @@ export const enyaWildChild = {
   title: "Wild Child",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 9.351533333333334,
-  ownProgress: 9.351533,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2001-01-01",
@@ -20,5 +20,5 @@ export const enyaWildChild = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.289Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

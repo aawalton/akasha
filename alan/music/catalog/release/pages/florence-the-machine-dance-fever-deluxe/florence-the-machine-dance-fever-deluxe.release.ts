@@ -7,8 +7,8 @@ export const florenceTheMachineDanceFeverDeluxe = {
   title: "Dance Fever (Deluxe)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 66.81241666666666,
-  ownProgress: 66.812417,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-05-18",
@@ -20,5 +20,5 @@ export const florenceTheMachineDanceFeverDeluxe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const florenceTheMachineSpotifySingles = {
   title: "Spotify Singles",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 8.2785,
-  ownProgress: 8.2785,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-09-19",
@@ -20,5 +20,5 @@ export const florenceTheMachineSpotifySingles = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

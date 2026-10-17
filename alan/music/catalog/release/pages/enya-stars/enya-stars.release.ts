@@ -7,8 +7,8 @@ export const enyaStars = {
   title: "Stars",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 59.46946666666667,
-  ownProgress: 59.469467,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "1997-01-01",
@@ -20,5 +20,5 @@ export const enyaStars = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const florenceTheMachineSpectrumSayMyNameEp = {
   title: "Spectrum (Say My Name) EP",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 19.572516666666665,
-  ownProgress: 19.572517,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-01-01",
@@ -20,5 +20,5 @@ export const florenceTheMachineSpectrumSayMyNameEp = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

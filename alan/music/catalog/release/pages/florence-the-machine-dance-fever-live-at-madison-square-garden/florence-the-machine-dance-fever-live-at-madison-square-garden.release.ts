@@ -7,8 +7,8 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGarden = {
   title: "Dance Fever (Live At Madison Square Garden)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 104.1745,
-  ownProgress: 104.1745,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-10-14",
@@ -20,5 +20,5 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGarden = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

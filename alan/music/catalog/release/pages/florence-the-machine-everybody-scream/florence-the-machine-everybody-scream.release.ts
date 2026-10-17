@@ -7,8 +7,8 @@ export const florenceTheMachineEverybodyScream = {
   title: "Everybody Scream",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 49.65215,
-  ownProgress: 49.65215,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-10-31",
@@ -21,5 +21,5 @@ export const florenceTheMachineEverybodyScream = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.269Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

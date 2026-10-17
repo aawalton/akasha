@@ -7,8 +7,8 @@ export const florenceTheMachineShakeItOut = {
   title: "Shake It Out",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 18.91665,
-  ownProgress: 18.91665,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-01-01",
@@ -20,5 +20,5 @@ export const florenceTheMachineShakeItOut = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.280Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

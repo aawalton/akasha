@@ -7,8 +7,8 @@ export const florenceTheMachineDanceFeverCompleteEdition = {
   title: "Dance Fever (Complete Edition)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 61.72135,
-  ownProgress: 61.72135,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-04-21",
@@ -20,5 +20,5 @@ export const florenceTheMachineDanceFeverCompleteEdition = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

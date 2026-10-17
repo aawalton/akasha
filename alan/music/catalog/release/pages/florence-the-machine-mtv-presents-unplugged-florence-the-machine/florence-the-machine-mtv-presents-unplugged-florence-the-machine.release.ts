@@ -7,8 +7,8 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachine = {
   title: "MTV Presents Unplugged: Florence + The Machine",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 47.74725,
-  ownProgress: 47.74725,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-01-01",
@@ -20,5 +20,5 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachine = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const enyaAndWinterCame = {
   title: "And Winter Came...",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 48.96318333333333,
-  ownProgress: 48.963183,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-11-10",
@@ -20,5 +20,5 @@ export const enyaAndWinterCame = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.263Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

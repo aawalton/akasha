@@ -7,8 +7,8 @@ export const florenceTheMachineLoverToLoverCeremonialsTourVersion = {
   title: "Lover To Lover (Ceremonials Tour Version)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 3.7270833333333333,
-  ownProgress: 3.727083,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-01-01",
@@ -20,5 +20,5 @@ export const florenceTheMachineLoverToLoverCeremonialsTourVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.276Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

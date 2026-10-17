@@ -7,8 +7,8 @@ export const florenceTheMachineHeavenIsHere = {
   title: "Heaven Is Here",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 1.8547166666666666,
-  ownProgress: 1.854717,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-03-07",
@@ -20,5 +20,5 @@ export const florenceTheMachineHeavenIsHere = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

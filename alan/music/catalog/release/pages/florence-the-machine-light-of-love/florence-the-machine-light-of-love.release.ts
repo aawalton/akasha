@@ -7,8 +7,8 @@ export const florenceTheMachineLightOfLove = {
   title: "Light Of Love",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 4.012,
-  ownProgress: 4.012,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-04-17",
@@ -20,5 +20,5 @@ export const florenceTheMachineLightOfLove = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

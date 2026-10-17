@@ -8,8 +8,8 @@ export const florenceTheMachineWishThatYouWereHere = {
     "Wish That You Were Here (From “Miss Peregrine’s Home For Peculiar Children” Original Motion Picture Soundtrack)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 6.713283333333333,
-  ownProgress: 6.713283,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-08-26",
@@ -21,5 +21,5 @@ export const florenceTheMachineWishThatYouWereHere = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.289Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

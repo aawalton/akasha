@@ -7,8 +7,8 @@ export const enyaChristmasSecrets = {
   title: "Christmas Secrets",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 46.42545,
-  ownProgress: 46.42545,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-12-06",
@@ -20,5 +20,5 @@ export const enyaChristmasSecrets = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

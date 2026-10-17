@@ -7,8 +7,8 @@ export const florenceTheMachineEverybodyScreamChamberVersion = {
   title: "Everybody Scream (Chamber Version)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 64.22686666666667,
-  ownProgress: 64.226867,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-11-03",
@@ -21,5 +21,5 @@ export const florenceTheMachineEverybodyScreamChamberVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.269Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

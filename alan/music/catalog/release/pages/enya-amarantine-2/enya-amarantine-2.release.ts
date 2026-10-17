@@ -7,8 +7,8 @@ export const enyaAmarantine2 = {
   title: "Amarantine",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 45.5832,
-  ownProgress: 45.5832,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-11-21",
@@ -20,5 +20,5 @@ export const enyaAmarantine2 = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.262Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const florenceTheMachineBetweenTwoLungs = {
   title: "Between Two Lungs",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 95.48615,
-  ownProgress: 95.48615,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2010-01-01",
@@ -20,5 +20,5 @@ export const florenceTheMachineBetweenTwoLungs = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.264Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

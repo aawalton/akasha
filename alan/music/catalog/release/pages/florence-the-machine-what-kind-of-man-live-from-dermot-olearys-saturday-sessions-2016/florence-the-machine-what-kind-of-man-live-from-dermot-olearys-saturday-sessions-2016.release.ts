@@ -4,7 +4,7 @@ export const florenceTheMachineWhatKindOfManLiveFromDermotOlearysSaturdaySession
   id: "01a0a5cd-4532-74bc-9803-faa6a3684008",
   type: "page-type/release",
   slug: "florence-the-machine-what-kind-of-man-live-from-dermot-olearys-saturday-sessions-2016",
-  ownLength: 4.050433333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
@@ -20,5 +20,5 @@ export const florenceTheMachineWhatKindOfManLiveFromDermotOlearysSaturdaySession
   ],
   title: "What Kind Of Man (Live From Dermot O’Leary’s Saturday Sessions / 2016)",
   createdAt: "2026-09-15T16:01:28.370Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

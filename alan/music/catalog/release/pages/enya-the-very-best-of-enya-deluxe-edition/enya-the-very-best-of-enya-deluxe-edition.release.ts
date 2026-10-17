@@ -7,8 +7,8 @@ export const enyaTheVeryBestOfEnyaDeluxeEdition = {
   title: "The Very Best of Enya (Deluxe Edition)",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 84.05561666666667,
-  ownProgress: 84.055617,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-12-01",
@@ -21,5 +21,5 @@ export const enyaTheVeryBestOfEnyaDeluxeEdition = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

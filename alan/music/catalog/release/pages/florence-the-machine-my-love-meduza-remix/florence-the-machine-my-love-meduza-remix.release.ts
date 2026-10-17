@@ -7,8 +7,8 @@ export const florenceTheMachineMyLoveMeduzaRemix = {
   title: "My Love (MEDUZA Remix)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 3.52,
-  ownProgress: 3.52,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-04-14",
@@ -20,5 +20,5 @@ export const florenceTheMachineMyLoveMeduzaRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const florenceTheMachineDanceFeverPoemVersions = {
   title: "Dance Fever (Poem Versions)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 9.891483333333333,
-  ownProgress: 9.891483,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-08-31",
@@ -20,5 +20,5 @@ export const florenceTheMachineDanceFeverPoemVersions = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

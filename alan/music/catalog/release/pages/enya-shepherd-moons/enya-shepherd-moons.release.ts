@@ -7,8 +7,8 @@ export const enyaShepherdMoons = {
   title: "Shepherd Moons",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 53.05481666666667,
-  ownProgress: 53.054817,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "1991-11-15",
@@ -20,5 +20,5 @@ export const enyaShepherdMoons = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.280Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

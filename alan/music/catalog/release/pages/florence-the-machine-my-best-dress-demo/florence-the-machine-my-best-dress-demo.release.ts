@@ -7,8 +7,8 @@ export const florenceTheMachineMyBestDressDemo = {
   title: "My Best Dress (Demo)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 2.576433333333333,
-  ownProgress: 2.576433,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-07-03",
@@ -20,5 +20,5 @@ export const florenceTheMachineMyBestDressDemo = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

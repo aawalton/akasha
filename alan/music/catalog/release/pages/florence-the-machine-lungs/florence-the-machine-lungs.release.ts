@@ -7,8 +7,8 @@ export const florenceTheMachineLungs = {
   title: "Lungs",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 64.01945,
-  ownProgress: 64.01945,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-01-01",
@@ -20,5 +20,5 @@ export const florenceTheMachineLungs = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.276Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

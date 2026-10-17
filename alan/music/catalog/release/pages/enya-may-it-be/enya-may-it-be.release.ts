@@ -7,8 +7,8 @@ export const enyaMayItBe = {
   title: "May It Be",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 11.123316666666666,
-  ownProgress: 11.123317,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2002-01-01",
@@ -20,5 +20,5 @@ export const enyaMayItBe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.276Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

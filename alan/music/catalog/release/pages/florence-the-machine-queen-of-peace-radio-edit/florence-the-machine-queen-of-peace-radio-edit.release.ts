@@ -7,8 +7,8 @@ export const florenceTheMachineQueenOfPeaceRadioEdit = {
   title: "Queen Of Peace (Radio Edit)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 3.8201833333333335,
-  ownProgress: 3.820183,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-08-01",
@@ -20,5 +20,5 @@ export const florenceTheMachineQueenOfPeaceRadioEdit = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.279Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const enyaTrainsAndWinterRains = {
   title: "Trains and Winter Rains",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 3.7218333333333335,
-  ownProgress: 3.721833,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-09-30",
@@ -20,5 +20,5 @@ export const enyaTrainsAndWinterRains = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

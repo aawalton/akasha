@@ -7,8 +7,8 @@ export const florenceTheMachineALotOfLoveALotOfBlood = {
   title: "A Lot of Love, A Lot of Blood",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 18.241983333333334,
-  ownProgress: 18.241983,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-01-01",
@@ -20,5 +20,5 @@ export const florenceTheMachineALotOfLoveALotOfBlood = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.261Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

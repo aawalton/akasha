@@ -7,8 +7,8 @@ export const enyaCaribbeanBlue = {
   title: "Caribbean Blue",
   partOfCollections: ["artist/enya"],
   position: 0,
-  ownLength: 10.518216666666667,
-  ownProgress: 10.518217,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "1991-01-01",
@@ -20,5 +20,5 @@ export const enyaCaribbeanBlue = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

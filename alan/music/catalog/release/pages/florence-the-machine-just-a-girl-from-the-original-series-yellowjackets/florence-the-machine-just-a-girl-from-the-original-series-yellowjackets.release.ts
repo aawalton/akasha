@@ -7,8 +7,8 @@ export const florenceTheMachineJustAGirlFromTheOriginalSeriesYellowjackets = {
   title: "Just A Girl (From The Original Series “Yellowjackets”)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 4.5804833333333335,
-  ownProgress: 4.580483,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-03-09",
@@ -20,5 +20,5 @@ export const florenceTheMachineJustAGirlFromTheOriginalSeriesYellowjackets = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

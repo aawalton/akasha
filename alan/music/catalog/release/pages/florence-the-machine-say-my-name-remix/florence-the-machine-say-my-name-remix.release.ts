@@ -7,8 +7,8 @@ export const florenceTheMachineSayMyNameRemix = {
   title: "Say My Name (Remix)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 2.8,
-  ownProgress: 2.8,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-12-06",
@@ -20,5 +20,5 @@ export const florenceTheMachineSayMyNameRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.280Z",
-  updatedAt: "2026-09-15T16:35:36.000Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

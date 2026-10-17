@@ -7,8 +7,8 @@ export const florenceTheMachineWhatKindOfManNicolasJaarRemix = {
   title: "What Kind Of Man (Nicolas Jaar Remix)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 12.360216666666666,
-  ownProgress: 12.360217,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-03-11",
@@ -20,5 +20,5 @@ export const florenceTheMachineWhatKindOfManNicolasJaarRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.288Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const florenceTheMachineDonkeyKoshDemo = {
   title: "Donkey Kosh (Demo)",
   partOfCollections: ["artist/florence-the-machine"],
   position: 0,
-  ownLength: 2.9433333333333334,
-  ownProgress: 2.943333,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-07-02",
@@ -20,5 +20,5 @@ export const florenceTheMachineDonkeyKoshDemo = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.268Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:01:01.286Z",
 } as const satisfies Release
