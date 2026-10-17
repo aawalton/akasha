@@ -7,4 +7,4 @@
 {"beat":7,"event":"The rain keeps on; when it grows too dark to sew by, Nala lights the lamps.","at":"2026-04-29T20:30:00.000Z"}
 {"beat":8,"event":"The bell rings; Shaestrel comes in through the bolted door again.","at":"2026-04-29T20:31:00.000Z","arrive":["character-other/thornford-shaestrel"]}
 {"beat":9,"event":"She looks at the calico toile and says it's the colour of porridge."}
-{"beat":10,"event":"She unpins her cloak."}
+{"beat":10,"event":"She unpins her cloak.","at":"2026-04-29T20:32:00.000Z"}
