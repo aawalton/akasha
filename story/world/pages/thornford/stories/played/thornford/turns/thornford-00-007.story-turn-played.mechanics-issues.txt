@@ -1,0 +1,1 @@
+beat 10: turn endsAt is 20:31 but the time check settled 20:32 on April 29; set endsAt to 20:32
