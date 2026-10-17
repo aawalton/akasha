@@ -159,6 +159,7 @@ export const roleplay = {
         "A fact narrated against the pages is a correction later, and the pages hold what was played.",
       aids: [
         "Before the first turn: the premise, the latest chapter, the open turns and the characters on stage.",
+        "Before the first turn, also the story's `domain` and every domain it is part of; their rules bind.",
         "Read a place's or a character's page when the scene first reaches it, never ahead of it.",
         "The reading is yours: never send a subagent to do it.",
       ],
@@ -315,5 +316,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T21:42:51.917Z",
+  updatedAt: "2026-10-17T22:19:21.563Z",
 } as const satisfies Role
