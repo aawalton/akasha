@@ -6,7 +6,7 @@ export const thornfordNalasShop = {
   slug: "thornford-nalas-shop",
   title: "Nala's Shop",
   world: "world/thornford",
-  within: "place/thornford-town",
+  within: "place/thornford-weavers-row",
   facts: [
     {
       fact: "Nala rents a narrow shop on Weavers' Row.",
@@ -22,5 +22,5 @@ export const thornfordNalasShop = {
     },
   ],
   createdAt: "2026-10-17T19:44:40.481Z",
-  updatedAt: "2026-10-17T19:44:40.481Z",
+  updatedAt: "2026-10-17T20:02:50.638Z",
 } as const satisfies Place
