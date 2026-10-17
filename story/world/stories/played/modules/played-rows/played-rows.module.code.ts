@@ -15,6 +15,7 @@ import type {
 import { composeSessionEnvelope } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
 import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
+  feedbackTo,
   makingSaid,
   PLAYER,
   stepIn,
@@ -118,6 +119,7 @@ export type Making = {
   readonly action: string
   readonly step: TurnStep
   readonly said: string | null
+  readonly feedbackTo: string
 }
 
 const PLAYED_ROLEPLAYED_KEY = "roleplayed"
@@ -142,9 +144,14 @@ export function playedWorking(seats: readonly Page[] | null): boolean {
   return seatsWorking(seats.map((one) => ({ turnState: one[SEAT_STATE_KEY] })))
 }
 
-function saidOver(step: TurnStep, seats: readonly Page[] | null, quietMs: number): string | null {
+function saidOver(
+  step: TurnStep,
+  seats: readonly Page[] | null,
+  quietMs: number,
+  narrator: string | null
+): string | null {
   if (seats === null) return null
-  return makingSaid(step, playedWorking(seats), quietMs)
+  return makingSaid(step, playedWorking(seats), quietMs, narrator)
 }
 
 export function playedMakingKey(rows: readonly Page[]): string | null {
@@ -157,7 +164,8 @@ export function playedMakingKey(rows: readonly Page[]): string | null {
 export function playedMaking(
   rows: readonly Page[],
   seats: readonly Page[] | null,
-  quietMs: number = Number.POSITIVE_INFINITY
+  quietMs: number = Number.POSITIVE_INFINITY,
+  narrator: string | null = null
 ): Making | null {
   const last = playedOrder(rows).at(-1)
   if (last === undefined || toldOf(last)) return null
@@ -167,7 +175,8 @@ export function playedMaking(
     slug: slugIn(last) ?? last.id,
     action: typeof action === "string" ? action : "",
     step,
-    said: saidOver(step, seats, quietMs),
+    said: saidOver(step, seats, quietMs, narrator),
+    feedbackTo: feedbackTo(narrator),
   }
 }
 

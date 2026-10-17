@@ -73,6 +73,11 @@ export const playedRows = {
         "A step is said to have stalled only once no seat of the story has worked it for two minutes.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn being made in a story with a narrator is said as hers, and its feedback reaches her.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement:
         "A step just reached waits on a message reaching its seat, so no seat works it for a moment.",
@@ -109,5 +114,5 @@ export const playedRows = {
     },
   ],
   createdAt: "2026-09-14T19:22:52.305Z",
-  updatedAt: "2026-10-17T18:00:24.778Z",
+  updatedAt: "2026-10-17T18:24:15.219Z",
 } as const satisfies Module
