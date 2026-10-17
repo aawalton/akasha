@@ -12,8 +12,9 @@ export const windowPane = {
     "Cut any sentence that only repeats or underlines the one before.",
     "Name the thing itself rather than a vague clause that hints at it; plain everyday phrases stay.",
     "Let what happens set a sentence's length and shape, never a habit of the voice.",
+    "Before handing prose in, check every sentence, speech included. Drop any that sums up or limits.",
     "A reader should come away remembering the scene, not the sentences.",
   ],
   createdAt: "2026-10-06T22:10:10.469Z",
-  updatedAt: "2026-10-17T18:29:10.385Z",
+  updatedAt: "2026-10-17T19:40:10.088Z",
 } as const satisfies StyleRule
