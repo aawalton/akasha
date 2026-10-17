@@ -14,7 +14,11 @@ export const blueBoxesGodsAndTheSystem = {
     },
     {
       fact: "To everyone else her windows read flat and exact, like a ledger, and never talk.",
-      knowers: ["lore-disclosure/game-master", "character-other/blue-boxes-iris"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/blue-boxes-iris",
+        "character-player/blue-boxes-nala",
+      ],
     },
     {
       fact: "Iris's own words come in smaller lines under a window's, in fits and starts, for Nala alone.",
@@ -72,7 +76,35 @@ export const blueBoxesGodsAndTheSystem = {
       fact: "A blinking cursor sits at the end of Iris's line while she is still deciding what to write.",
       knowers: ["lore-disclosure/game-master", "character-other/blue-boxes-iris"],
     },
+    {
+      fact: "Iris told Nala she is not supposed to talk; a window is meant to say only what is true.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/blue-boxes-iris",
+        "character-player/blue-boxes-nala",
+      ],
+    },
+    {
+      fact: "Iris first wrote under Nala's window because Nala's feet looked cold.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/blue-boxes-iris",
+        "character-player/blue-boxes-nala",
+      ],
+    },
+    {
+      fact: "Iris knows Earth tells stories of people carried off to worlds with windows, and wants them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/blue-boxes-iris",
+        "character-player/blue-boxes-nala",
+      ],
+    },
+    {
+      fact: "Words alone are no favor; Nemesis counts only what Iris changes, never what she says.",
+      knowers: ["lore-disclosure/game-master", "character-other/blue-boxes-iris"],
+    },
   ],
   createdAt: "2026-10-17T17:41:40.409Z",
-  updatedAt: "2026-10-17T18:14:21.246Z",
+  updatedAt: "2026-10-17T18:16:43.068Z",
 } as const satisfies Lore
