@@ -4,6 +4,7 @@ export const thornford00011 = {
   id: "01a14bd8-beac-7c41-bd07-bc1ede5c15ed",
   type: "page-type/story-turn-played",
   slug: "thornford-00-011",
+  cover: "image/image-71bc81ff3c5b6b37",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 11,
@@ -26,8 +27,9 @@ export const thornford00011 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "Shaestrel slides off the table, gathers it up and drapes it over your shoulders.",
   createdAt: "2026-10-17T21:50:58.220Z",
-  updatedAt: "2026-10-17T21:53:16.097Z",
+  updatedAt: "2026-10-17T21:55:25.776Z",
   ownLength: 243,
   endsAt: "2026-04-29T22:30:00.000Z",
 } as const satisfies StoryTurnPlayed
