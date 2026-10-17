@@ -27,7 +27,15 @@ export const thornfordTown = {
       fact: "Bone needles for leather and sacking are sold at the market stalls.",
       knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
     },
+    {
+      fact: "The rain holds over the valley all night and all the next day, two days before Beltane.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The sun first shows over the valley on the morning before Beltane, and Beltane day is clear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-17T19:44:40.481Z",
-  updatedAt: "2026-10-17T20:35:39.136Z",
+  updatedAt: "2026-10-17T20:48:57.552Z",
 } as const satisfies Place

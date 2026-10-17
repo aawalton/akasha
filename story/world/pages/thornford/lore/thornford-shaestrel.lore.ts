@@ -17,8 +17,36 @@ export const thornfordShaestrel = {
       ],
     },
     {
-      fact: "She has not yet told Nala her name.",
-      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+      fact: "She told Nala her name is Shaestrel, and said Nala may have that one for nothing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "Reading Nala's face, Shaestrel said Nala will ask her for something with a door in it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "She smells of cut grass, and her skin is cool to the touch.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "She left the shop with the birch leaves of her dress still on its floor.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
     },
     {
       fact: "Shaestrel is the name she gives mortals; her true name she tells no one.",
@@ -30,5 +58,5 @@ export const thornfordShaestrel = {
     },
   ],
   createdAt: "2026-10-17T20:36:43.997Z",
-  updatedAt: "2026-10-17T20:36:43.997Z",
+  updatedAt: "2026-10-17T20:48:57.552Z",
 } as const satisfies Lore

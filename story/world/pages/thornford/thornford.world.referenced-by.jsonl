@@ -15,6 +15,7 @@
 {"propertySlug":"world","path":"story/world/pages/thornford/places/thornford-weavers-row.place.ts","id":"01a14b75-c08f-7c13-96c5-47cd3d3b2d13"}
 {"propertySlug":"world","path":"story/world/pages/thornford/stories/played/thornford/characters/thornford-morag-bain.character-other.ts","id":"01a14b77-c97a-7fac-8500-4b493ad0f026"}
 {"propertySlug":"world","path":"story/world/pages/thornford/stories/played/thornford/characters/thornford-tam-rennie.character-other.ts","id":"01a14b93-ca03-770a-bb19-46c37fd19f26"}
+{"propertySlug":"world","path":"story/world/pages/thornford/stories/played/thornford/mechanics/appointments/thornford-first-fitting.world-appointment.ts","id":"01a14b9f-f8d1-732c-bdb6-e3eb270ea5fd"}
 {"propertySlug":"world","path":"story/world/pages/thornford/stories/played/thornford/mechanics/checks/thornford-action-check.world-check.ts","id":"01a14b66-e8d0-7690-bb84-d65ab1e86074"}
 {"propertySlug":"world","path":"story/world/pages/thornford/stories/played/thornford/mechanics/checks/thornford-time-passing.world-check.ts","id":"01a14b66-4c0f-75fc-876a-795844595bc7"}
 {"propertySlug":"world","path":"story/world/pages/thornford/stories/played/thornford/mechanics/mechanics/thornford-time.world-mechanic.ts","id":"01a14b66-4c0f-7fb9-a066-6bdb25d79fab"}

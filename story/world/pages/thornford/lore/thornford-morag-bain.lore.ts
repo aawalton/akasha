@@ -48,7 +48,15 @@ export const thornfordMoragBain = {
       fact: "Morag sent Shaestrel to Nala because she keeps a key to Nala's shop and can reach the gown.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Morag means to call at Nala's shop the next morning, on the rent, to see if Shaestrel came.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Morag means to sew the rowan thread in with her key while Nala sleeps, once the gown is near done.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-17T20:05:03.992Z",
-  updatedAt: "2026-10-17T20:10:46.816Z",
+  updatedAt: "2026-10-17T20:48:57.552Z",
 } as const satisfies Lore
