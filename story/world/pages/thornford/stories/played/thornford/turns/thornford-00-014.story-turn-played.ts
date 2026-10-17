@@ -7,8 +7,16 @@ export const thornford00014 = {
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 14,
-  stepStatus: "step-status/world-builder",
+  prose: "txt",
+  characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
+  stepStatus: "step-status/mechanics",
   action: "I open the door and let her in, then get to work.",
+  beats: "jsonl",
+  lore: [
+    "lore/thornford-fae-bargains-and-glamour",
+    "lore/thornford-shaestrel",
+    "place/thornford-town",
+  ],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
@@ -17,6 +25,7 @@ export const thornford00014 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T21:59:20.918Z",
-  updatedAt: "2026-10-17T22:03:33.769Z",
+  updatedAt: "2026-10-17T22:03:53.739Z",
+  ownLength: 293,
   endsAt: "2026-04-30T20:50:00.000Z",
 } as const satisfies StoryTurnPlayed
