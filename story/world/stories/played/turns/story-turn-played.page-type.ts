@@ -70,7 +70,11 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn is made from the player's action.",
+      statement: "A turn is made from the player's action, save a roleplayed story's opening.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story's opening is its first turn, and runs every step a turn runs.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -168,5 +172,5 @@ export const storyTurnPlayed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T00:47:51.415Z",
-  updatedAt: "2026-10-17T17:58:43.890Z",
+  updatedAt: "2026-10-17T20:08:28.975Z",
 } as const satisfies PageType
