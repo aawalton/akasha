@@ -1,32 +1,33 @@
 {
   "build": {
+    "mainHandWeaponType": 2,
     "jewelry": {
       "1": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Vigorous"
+        "displayText": "Vigorous",
+        "isEmpty": false
       },
       "2": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.98,
           "2": 0.86,
           "3": 0.24
         },
-        "displayText": "Vigorous"
+        "displayText": "Vigorous",
+        "isEmpty": false
       },
       "3": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.98,
           "2": 0.86,
           "3": 0.24
         },
-        "displayText": "Vigorous"
+        "displayText": "Vigorous",
+        "isEmpty": false
       }
     },
     "skillAbilityIds": {
@@ -39,92 +40,91 @@
     },
     "armor": {
       "1": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Heavy, Vigorous"
+        "displayText": "Heavy, Vigorous",
+        "isEmpty": false
       },
       "2": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Heavy, Vigorous"
+        "displayText": "Heavy, Vigorous",
+        "isEmpty": false
       },
       "3": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Heavy, Vigorous"
+        "displayText": "Heavy, Vigorous",
+        "isEmpty": false
       },
       "4": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Heavy, Vigorous"
+        "displayText": "Heavy, Vigorous",
+        "isEmpty": false
       },
       "5": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Heavy, Vigorous"
+        "displayText": "Heavy, Vigorous",
+        "isEmpty": false
       },
       "6": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Heavy, Vigorous"
+        "displayText": "Heavy, Vigorous",
+        "isEmpty": false
       },
       "7": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Heavy, Vigorous"
+        "displayText": "Heavy, Vigorous",
+        "isEmpty": false
       }
     },
+    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
+    "companionId": 6,
     "weapons": {
       "1": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Mace, Vigorous"
+        "displayText": "Mace, Vigorous",
+        "isEmpty": false
       },
       "2": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Shield, Vigorous"
+        "displayText": "Shield, Vigorous",
+        "isEmpty": false
       }
-    },
-    "mainHandWeaponType": 2,
-    "companionId": 6,
-    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA"
+    }
   },
   "targetBuildHash": "AjEAQAcwDAMAwDHMcxMTU0cxoA",
   "level": 20,
