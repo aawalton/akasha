@@ -24,7 +24,11 @@ export const thornfordGreyGreenSilk = {
       fact: "The bolt holds enough silk for one gown, with about an arm's length to spare.",
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
+    {
+      fact: "The silk takes an iron's heat without a mark.",
+      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
+    },
   ],
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T21:32:04.640Z",
+  updatedAt: "2026-10-17T21:43:31.356Z",
 } as const satisfies Lore
