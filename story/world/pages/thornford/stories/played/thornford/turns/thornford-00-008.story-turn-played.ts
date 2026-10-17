@@ -4,6 +4,7 @@ export const thornford00008 = {
   id: "01a14bd3-1c39-7ea2-9785-d4d1a915473c",
   type: "page-type/story-turn-played",
   slug: "thornford-00-008",
+  cover: "image/image-9c18caff5ca63c83",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 8,
@@ -26,8 +27,9 @@ export const thornford00008 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: '"Dress me, then, seamstress," she says, and holds it out to you.',
   createdAt: "2026-10-17T21:44:48.953Z",
-  updatedAt: "2026-10-17T21:46:47.101Z",
+  updatedAt: "2026-10-17T21:47:48.778Z",
   ownLength: 130,
   endsAt: "2026-04-29T20:35:00.000Z",
 } as const satisfies StoryTurnPlayed
