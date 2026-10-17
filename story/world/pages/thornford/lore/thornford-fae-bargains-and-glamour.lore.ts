@@ -49,8 +49,40 @@ export const thornfordFaeBargainsAndGlamour = {
       ],
     },
     {
-      fact: "Shaestrel is a fae of the Spring Court.",
+      fact: "A bargain with a fae binds once both sides seal it, by a word of assent or a touch of hands.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "The Spring Court counts a year by its own turning, and one of its years outlasts many mortal ones.",
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+    },
+    {
+      fact: "Shaestrel is a fae of the Spring Court.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "Shaestrel is small and quick, with long dark green hair, pointed ears and eyes greener than leaves.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "Shaestrel came in through Nala's door with its bolt still shot home.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
     },
     {
       fact: "Shaestrel can make a face, a coat or a room look however she likes for a night.",
@@ -70,10 +102,38 @@ export const thornfordFaeBargainsAndGlamour = {
     },
     {
       fact: "Shaestrel's terms: the gown done by moonrise on Beltane night, and Nala may ask her one thing.",
-      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
     },
     {
       fact: "If the gown is not done by then, Nala owes the Spring Court a year of sewing across the ford.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "Shaestrel's offer has the gown made from this silk, by Nala's own two hands.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "As offered, a gown with any stitch sewn by other hands than Nala's does not meet the bargain.",
+      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+    },
+    {
+      fact: "As offered, the year Nala would owe is not said to be a mortal year.",
+      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+    },
+    {
+      fact: "The one thing Nala may ask must be within Shaestrel's own power to give.",
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
     {
@@ -82,5 +142,5 @@ export const thornfordFaeBargainsAndGlamour = {
     },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T20:05:03.992Z",
+  updatedAt: "2026-10-17T20:11:21.936Z",
 } as const satisfies Lore
