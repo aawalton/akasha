@@ -115,6 +115,7 @@ export const worldCheck = {
     "world-check/overwhere-iv-needs",
     "world-check/overwhere-iv-trade",
     "world-check/blue-boxes-time-passing",
+    "world-check/blue-boxes-action-check",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [
@@ -145,5 +146,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-17T17:26:51.488Z",
+  updatedAt: "2026-10-17T17:39:39.320Z",
 } as const satisfies PageType

@@ -4033,6 +4033,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-time-passing.world-check.ts","id":"01a0e9ea-7b35-7738-9044-313555b4f9d4"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/attributes/cultivation-stage/otherwhere-iv-cultivation-stage.page-type.ts","id":"01a0e9fe-6b1e-7d89-a51f-157e82496998"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/attributes/skill/otherwhere-iv-skill.page-type.ts","id":"01a0e9f2-33a2-7aea-8e04-8f2eb5b5bf1e"}
+{"propertySlug":"decision-kind","path":"story/world/pages/blue-boxes/stories/played/blue-boxes/mechanics/checks/blue-boxes-action-check.world-check.ts","id":"01a14af2-a8ba-770a-b8f7-4bc934665679"}
 {"propertySlug":"decision-kind","path":"story/world/pages/blue-boxes/stories/played/blue-boxes/mechanics/checks/blue-boxes-time-passing.world-check.ts","id":"01a14ae6-f164-79e6-802d-99c6f4a01079"}
 {"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-action-check.world-check.ts","id":"01a0ea38-49e6-7de7-95e5-1a8b84fca941"}
 {"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-arcana.world-check.ts","id":"01a0ea3d-7faa-7be1-8afe-2c035283babc"}
