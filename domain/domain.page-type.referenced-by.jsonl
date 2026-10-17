@@ -284,7 +284,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/romance/romance.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/scripture-study/scripture-study.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/self-care/arousal/arousal.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/self-care/arousal/emberdeep-explicitness/emberdeep-explicitness.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/self-care/arousal/explicitness/emberdeep-explicitness/emberdeep-explicitness.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/self-care/arousal/explicitness/explicitness.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/self-care/arousal/explicitness/hollowmere-explicitness/hollowmere-explicitness.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/self-care/arousal/explicitness/salt-and-lamplight-explicitness/salt-and-lamplight-explicitness.domain.ts","typed":true,"deferred":false}

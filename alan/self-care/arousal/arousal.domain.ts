@@ -6,11 +6,7 @@ export const arousal = {
   slug: "arousal",
   definition: "how Alan uses arousal",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "arousal" }],
-  parts: [
-    "domain/emberdeep-explicitness",
-    "domain/fairweather-explicitness",
-    "domain/explicitness",
-  ],
+  parts: ["domain/fairweather-explicitness", "domain/explicitness"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -51,5 +47,5 @@ export const arousal = {
     },
   ],
   createdAt: "2026-09-04T13:21:45.873Z",
-  updatedAt: "2026-10-17T20:51:26.539Z",
+  updatedAt: "2026-10-17T20:51:47.400Z",
 } as const satisfies Domain
