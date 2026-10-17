@@ -113,13 +113,8 @@ export function saidOf(today: Today): readonly string[] {
 function todayOf(root: string, now: Date): Today {
   const day = openedDayOf(rootsNamed({ [AKASHA]: root }, AKASHA), now)
   const weekday = weekdayOn(day)
-  const focus =
-    weekday === null
-      ? null
-      : focusOn(
-          valuesOfType(root, DAY_TYPE).map((one) => one.value),
-          weekday
-        )
+  const days = valuesOfType(root, DAY_TYPE).map((one) => one.value)
+  const focus = weekday === null ? null : focusOn(days, weekday)
   const week = weekIn(root, day, selectionPolicy.nearFailureRpeFloor)
   const moved = liftedOn(week.sets, week.movements, alan.bodyweight)
   const limit = limitOn(
@@ -129,7 +124,9 @@ function todayOf(root: string, now: Date): Today {
       from: selectionPolicy.volumeLimitFrom,
       rise: selectionPolicy.volumeLimitRise,
       fall: selectionPolicy.volumeLimitFall,
+      legsFactor: selectionPolicy.legsVolumeLimitFactor,
     },
+    days,
     day
   )
   return {

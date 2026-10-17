@@ -4,7 +4,10 @@ import {
   dayOf,
   type Movement,
 } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
-import { weekdayOn } from "akasha/command/pages/fitness/today/modules/rotation/rotation.module.code.ts"
+import {
+  focusOn,
+  weekdayOn,
+} from "akasha/command/pages/fitness/today/modules/rotation/rotation.module.code.ts"
 import {
   numberAt,
   slugAt,
@@ -13,11 +16,14 @@ import {
 
 const WEEK_ENDS = "sunday"
 
+const LEGS = "legs"
+
 export type LimitRule = {
   readonly seed: number
   readonly from: string
   readonly rise: number
   readonly fall: number
+  readonly legsFactor: number
 }
 
 export function liftedOn(
@@ -44,16 +50,23 @@ export function liftedOn(
   return held
 }
 
-export function limitOn(
+function factorOn(days: readonly Value[], rule: LimitRule, on: string): number {
+  const weekday = weekdayOn(on)
+  if (weekday === null) return 1
+  return focusOn(days, weekday) === LEGS ? rule.legsFactor : 1
+}
+
+function baseLimitOn(
   moved: ReadonlyMap<string, number>,
   rule: LimitRule,
+  days: readonly Value[],
   today: string
 ): number {
   let limit = rule.seed
   let met = false
   let on = rule.from
   while (on < today) {
-    if ((moved.get(on) ?? 0) >= limit) {
+    if ((moved.get(on) ?? 0) >= limit * factorOn(days, rule, on)) {
       limit += rule.rise
       met = true
     }
@@ -66,4 +79,13 @@ export function limitOn(
     on = next
   }
   return Math.max(rule.rise, limit)
+}
+
+export function limitOn(
+  moved: ReadonlyMap<string, number>,
+  rule: LimitRule,
+  days: readonly Value[],
+  today: string
+): number {
+  return baseLimitOn(moved, rule, days, today) * factorOn(days, rule, today)
 }

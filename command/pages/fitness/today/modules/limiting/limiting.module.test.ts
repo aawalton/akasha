@@ -16,7 +16,14 @@ const MONDAY = "2026-09-21"
 
 const SUNDAY = "2026-09-27"
 
-const RULE: LimitRule = { seed: 3000, from: MONDAY, rise: 20, fall: 100 }
+const SATURDAY = "2026-09-26"
+
+const RULE: LimitRule = { seed: 3000, from: MONDAY, rise: 20, fall: 100, legsFactor: 2 }
+
+const DAYS = [
+  { dayOfWeek: "monday", focus: "push" },
+  { dayOfWeek: "saturday", focus: "legs" },
+]
 
 const PRESS = movement(dumbbellBenchPress.slug, { implementCount: 2 })
 
@@ -52,33 +59,57 @@ test("a set naming a movement this does not know moves the weight it states alon
 })
 
 test("the limit opens at the seed on the first day a limit bound Alan", () => {
-  expect(limitOn(new Map(), RULE, MONDAY)).toBe(3000)
+  expect(limitOn(new Map(), RULE, DAYS, MONDAY)).toBe(3000)
 })
 
 test("a day that moved its limit raises the next day's limit by the rise", () => {
   const moved = new Map([[MONDAY, 3000]])
-  expect(limitOn(moved, RULE, "2026-09-22")).toBe(3020)
+  expect(limitOn(moved, RULE, DAYS, "2026-09-22")).toBe(3020)
 })
 
 test("a day short of its limit leaves the limit where it was", () => {
   const moved = new Map([[MONDAY, 2999]])
-  expect(limitOn(moved, RULE, "2026-09-22")).toBe(3000)
+  expect(limitOn(moved, RULE, DAYS, "2026-09-22")).toBe(3000)
 })
 
 test("a week that reached its limit on no day lowers the limit by the fall", () => {
-  expect(limitOn(new Map(), RULE, "2026-09-28")).toBe(2900)
+  expect(limitOn(new Map(), RULE, DAYS, "2026-09-28")).toBe(2900)
 })
 
 test("a week Alan reached once is a week that does not lower the limit", () => {
   const moved = new Map([["2026-09-23", 3000]])
-  expect(limitOn(moved, RULE, "2026-09-28")).toBe(3020)
+  expect(limitOn(moved, RULE, DAYS, "2026-09-28")).toBe(3020)
 })
 
 test("a week is judged once Sunday is past rather than during it", () => {
-  expect(limitOn(new Map(), RULE, SUNDAY)).toBe(3000)
+  expect(limitOn(new Map(), RULE, DAYS, SUNDAY)).toBe(3000)
 })
 
 test("a limit never falls below the rise", () => {
   const long: LimitRule = { ...RULE, seed: 150 }
-  expect(limitOn(new Map(), long, "2026-12-31")).toBe(20)
+  expect(limitOn(new Map(), long, DAYS, "2026-12-31")).toBe(20)
+})
+
+test("a legs day's limit is the limit times the legs factor", () => {
+  expect(limitOn(new Map(), RULE, DAYS, SATURDAY)).toBe(6000)
+})
+
+test("a legs day that moved its own limit raises the next day's limit by the rise", () => {
+  const moved = new Map([[SATURDAY, 6000]])
+  expect(limitOn(moved, RULE, DAYS, SUNDAY)).toBe(3020)
+})
+
+test("a legs day that moved only the limit of another day leaves the limit where it was", () => {
+  const moved = new Map([[SATURDAY, 3000]])
+  expect(limitOn(moved, RULE, DAYS, SUNDAY)).toBe(3000)
+})
+
+test("a week whose legs day moved only the limit of another day lowers the limit by the fall", () => {
+  const moved = new Map([[SATURDAY, 3000]])
+  expect(limitOn(moved, RULE, DAYS, "2026-09-28")).toBe(2900)
+})
+
+test("a day of any other focus keeps the limit as it is", () => {
+  expect(limitOn(new Map([[MONDAY, 3000]]), RULE, DAYS, MONDAY)).toBe(3000)
+  expect(limitOn(new Map(), RULE, DAYS, "2026-09-25")).toBe(3000)
 })
