@@ -29,6 +29,8 @@ export interface FirstStart {
   readonly role: string
   readonly domain: string
   readonly principal: string
+  readonly startMode?: string
+  readonly prompt?: string
 }
 
 export interface OnDemandAgentSpec {

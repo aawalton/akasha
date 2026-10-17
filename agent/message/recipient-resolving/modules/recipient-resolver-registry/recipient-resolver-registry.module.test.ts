@@ -5,12 +5,15 @@ import {
   gameSeatsIn,
 } from "akasha/agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.code.ts"
 import { ruleMatches } from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
+import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
+import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
 import { handlerSeatName } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   ACTION_BAR_PLAYER,
   ACTION_BAR_SENDER,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import { blueBoxes } from "akasha/story/world/pages/blue-boxes/stories/played/blue-boxes/blue-boxes.story-played.ts"
 import { theTower } from "akasha/story/world/pages/personas/stories/played/the-tower/the-tower.story-played.ts"
 import {
   JOB_SENDER,
@@ -111,6 +114,44 @@ test("the text handlers' specs sit beside the game seats", async () => {
   expect(names).toContain(MASTER)
   expect(names).toContain(handlerSeatName("ki", ROOT))
   expect(names).toContain(handlerSeatName("jenny", ROOT))
+})
+
+test("a roleplay seat that never ran starts headless as its persona, narrating its story", () => {
+  const master = `shaestrel-${roleplay.slug}-a-story`
+  const specs = gameSeatSpecs([
+    {
+      game: "a-story",
+      master,
+      persona: "shaestrel",
+      role: roleplay.slug,
+      builder: null,
+      writer: null,
+      staff: [],
+    },
+  ])
+  expect(specs.map((one) => one.name)).toEqual([master])
+  const start = specs[0]?.firstStart
+  expect(start).toMatchObject({
+    persona: "shaestrel",
+    role: roleplay.slug,
+    domain: "a-story",
+    principal: ACTION_BAR_PLAYER,
+    startMode: SEAT_MODE_HEADLESS,
+  })
+  expect(start?.prompt).toContain("you narrate the played story `a-story`")
+  expect(start?.prompt).toContain("as a message")
+  const hears = (sender: string) =>
+    specs[0]?.wakeSources.some((rule) => ruleMatches(rule, { sender, content: "" })) ?? false
+  expect(hears(`agent:${ACTION_BAR_SENDER}`)).toBe(true)
+  expect(hears(`agent:${STEP_SENDER}`)).toBe(true)
+})
+
+test("a story whose coordinator is named neither way keeps one spec, started by nothing", () => {
+  const seats = gameSeatsIn(ROOT).filter((one) => one.game === blueBoxes.slug)
+  expect(seats.map((one) => [one.master, one.persona])).toEqual([
+    [blueBoxes.coordinatorAgent, null],
+  ])
+  expect(gameSeatSpecs(seats).map((one) => one.firstStart)).toEqual([undefined])
 })
 
 test("a written story's game master is started by a notice, never by the action bar", () => {

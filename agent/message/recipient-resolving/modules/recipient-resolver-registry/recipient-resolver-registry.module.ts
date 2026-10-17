@@ -63,6 +63,18 @@ export const recipientResolverRegistry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A roleplay seat is started as a game master seat is, by the same messages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A roleplay seat that never ran starts headless, prompted to narrate its story.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story whose coordinator is a roleplay seat has no other seat here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A spec is named once.",
     },
     {
@@ -79,5 +91,5 @@ export const recipientResolverRegistry = {
     },
   ],
   createdAt: "2026-09-03T04:18:48.798Z",
-  updatedAt: "2026-10-04T00:28:11.000Z",
+  updatedAt: "2026-10-17T19:50:00.029Z",
 } as const satisfies Module

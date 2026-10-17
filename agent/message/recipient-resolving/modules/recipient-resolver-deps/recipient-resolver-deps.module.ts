@@ -25,8 +25,11 @@ export const recipientResolverDeps = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A seat that never ran is started as a seat start would start it, interactive and with no parent.",
+      statement: "A seat that never ran is started as a seat start would start it, with no parent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a seat starts interactive unless its spec names another mode.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,5 +37,5 @@ export const recipientResolverDeps = {
     },
   ],
   createdAt: "2026-09-03T04:18:48.798Z",
-  updatedAt: "2026-09-26T15:59:34.000Z",
+  updatedAt: "2026-10-17T19:50:00.029Z",
 } as const satisfies Module

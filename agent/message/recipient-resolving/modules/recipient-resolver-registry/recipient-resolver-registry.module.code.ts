@@ -4,7 +4,9 @@ import type {
   OnDemandAgentSpec,
 } from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
+import { roleplay as roleplayRole } from "akasha/agent/role/pages/roleplay.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
+import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
 import {
   composeSeatName,
   handlerSeatName,
@@ -36,7 +38,10 @@ import {
   JOB_SENDER,
   STEP_SENDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
-import { flexOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
+import {
+  coordinatorOf,
+  flexOf,
+} from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 
@@ -50,12 +55,15 @@ const WORLD_BUILDER = "world-builder"
 
 const WRITER = "writer"
 
+const ROLEPLAY = roleplayRole.slug
+
 const GAME_SEAT_TOKEN_THRESHOLD = 150_000
 
 interface GameSeats {
   readonly game: string
   readonly master: string
   readonly persona: string | null
+  readonly role?: string
   readonly builder: string | null
   readonly writer: string | null
   readonly played?: boolean
@@ -93,11 +101,10 @@ function staffOf(persona: string, game: string, root: string, staff: Staff): rea
   ]
 }
 
-function personaOf(master: string, game: string, root: string): string | null {
-  const suffix = `-${GAME_MASTER}-${game}`
-  if (!master.endsWith(suffix)) return null
-  const persona = master.slice(0, -suffix.length)
-  return seatOf(persona, GAME_MASTER, game, root) === master ? persona : null
+function coordinatorIn(master: string, game: string, root: string) {
+  const held = coordinatorOf(master, game)
+  if (held === null) return null
+  return seatOf(held.persona, held.role, game, root) === master ? held : null
 }
 
 export function gameSeatsIn(root: string): readonly GameSeats[] {
@@ -114,12 +121,15 @@ export function gameSeatsIn(root: string): readonly GameSeats[] {
       const game = value["slug"]
       const master = value["coordinatorAgent"]
       if (typeof game !== "string" || typeof master !== "string" || master === "") continue
-      const persona = personaOf(master, game, root)
-      const builder = persona === null ? null : seatOf(persona, WORLD_BUILDER, game, root)
-      const writer = persona === null ? null : seatOf(persona, WRITER, game, root)
+      const held = coordinatorIn(master, game, root)
+      const persona = held?.persona ?? null
+      const crew = held?.role === GAME_MASTER ? persona : null
+      const builder = crew === null ? null : seatOf(crew, WORLD_BUILDER, game, root)
+      const writer = crew === null ? null : seatOf(crew, WRITER, game, root)
       const played = playedKinds.has(kind)
-      const staff = persona === null ? [] : staffOf(persona, game, root, staffed)
-      found.push({ game, master, persona, builder, writer, played, staff })
+      const staff = crew === null ? [] : staffOf(crew, game, root, staffed)
+      const role = held === null ? {} : { role: held.role }
+      found.push({ game, master, persona, ...role, builder, writer, played, staff })
     }
   }
   return found
@@ -151,10 +161,18 @@ function gameSeatSpec(
   return firstStart === null ? spec : { ...spec, firstStart }
 }
 
+function narrating(start: FirstStart | null, seat: string, story: string): FirstStart | null {
+  if (start === null) return null
+  const prompt = `You are \`${seat}\`, and you narrate the played story \`${story}\`. Alan plays it on the play screen alone, so each notice of its turns and each bracketed line he sends reaches you as a message.`
+  return { ...start, startMode: SEAT_MODE_HEADLESS, prompt }
+}
+
 export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAgentSpec[] {
-  return seats.flatMap(({ game, master, persona, builder, writer, played, staff }) => {
-    const startAs = (role: string): FirstStart | null =>
-      persona === null ? null : { persona, role, domain: game, principal: ACTION_BAR_PLAYER }
+  return seats.flatMap(({ game, master, persona, role, builder, writer, played, staff }) => {
+    const startAs = (as: string): FirstStart | null =>
+      persona === null ? null : { persona, role: as, domain: game, principal: ACTION_BAR_PLAYER }
+    const coordinating =
+      role === ROLEPLAY ? narrating(startAs(ROLEPLAY), master, game) : startAs(GAME_MASTER)
     const bar = played === false ? [] : [heardFrom(master, ACTION_BAR_SENDER, "action-bar")]
     const noticed = heardFrom(master, STEP_SENDER, STEP_SENDER)
     const specs = [
@@ -164,7 +182,7 @@ export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAge
         builder === null
           ? [...bar, noticed]
           : [...bar, noticed, heardFrom(master, builder, WORLD_BUILDER)],
-        startAs(GAME_MASTER)
+        coordinating
       ),
     ]
     if (builder !== null) {
