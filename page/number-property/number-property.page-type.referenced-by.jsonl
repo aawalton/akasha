@@ -175,6 +175,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-loads.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-sort-order.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/properties/mobility-reading-value-num.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/legs-volume-limit-factor.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/near-failure-rpe-floor.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/seconds-holding-stretch.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/stretches-cooling-down.number-property.ts","typed":true,"deferred":false}
