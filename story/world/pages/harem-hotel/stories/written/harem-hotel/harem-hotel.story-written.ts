@@ -6,7 +6,7 @@ export const haremHotel = {
   slug: "harem-hotel",
   title: "Harem Hotel",
   world: "world/harem-hotel",
-  domain: "domain/harem-hotel-explicitness",
+  domain: "domain/explicitness",
   unit: "unit/words",
   chapterBreak: "A floor's task is met and its stairs open.",
   coordinatorAgent: "mari-game-master-harem-hotel",
@@ -18,5 +18,5 @@ export const haremHotel = {
     "played-panel/player-intent",
   ],
   createdAt: "2026-09-28T13:08:08.476Z",
-  updatedAt: "2026-10-03T21:27:44.000Z",
+  updatedAt: "2026-10-17T20:50:16.722Z",
 } as const satisfies StoryWritten
