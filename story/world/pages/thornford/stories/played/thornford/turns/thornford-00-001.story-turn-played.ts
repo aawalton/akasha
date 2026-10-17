@@ -9,7 +9,7 @@ export const thornford00001 = {
   unit: "unit/words",
   prose: "txt",
   characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/recorders",
   beats: "jsonl",
   lore: [
     "lore/thornford-beltane",
@@ -27,9 +27,9 @@ export const thornford00001 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
   roleplayed: true,
   createdAt: "2026-10-17T20:00:37.445Z",
-  updatedAt: "2026-10-17T20:08:48.056Z",
+  updatedAt: "2026-10-17T20:08:58.013Z",
   endsAt: "2026-04-28T18:04:00.000Z",
 } as const satisfies StoryTurnPlayed
