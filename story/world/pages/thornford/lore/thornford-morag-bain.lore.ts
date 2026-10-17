@@ -33,30 +33,14 @@ export const thornfordMoragBain = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Morag wants the Spring Court shamed before the other courts at the Beltane dance.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Morag means to get a rowan thread into whatever gown the Spring Court's dancer wears.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "Morag turned Shaestrel away at her own shop, and told her where to find Nala.",
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
     {
-      fact: "Morag sent Shaestrel to Nala because she keeps a key to Nala's shop and can reach the gown.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Morag means to call at Nala's shop the next morning, on the rent, to see if Shaestrel came.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Morag means to sew the rowan thread in with her key while Nala sleeps, once the gown is near done.",
+      fact: "Morag has a sharp tongue, and uses it on any seamstress in Thornford outside the guild.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-17T20:05:03.992Z",
-  updatedAt: "2026-10-17T20:48:57.552Z",
+  updatedAt: "2026-10-17T21:37:13.143Z",
 } as const satisfies Lore

@@ -28,11 +28,7 @@ export const thornfordNalasShop = {
       fact: "The quarter's rent for the shop falls due on Beltane.",
       knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
     },
-    {
-      fact: "Morag Bain, who owns the building, keeps a key to the shop.",
-      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
-    },
   ],
   createdAt: "2026-10-17T19:44:40.481Z",
-  updatedAt: "2026-10-17T20:10:46.816Z",
+  updatedAt: "2026-10-17T21:37:13.143Z",
 } as const satisfies Place

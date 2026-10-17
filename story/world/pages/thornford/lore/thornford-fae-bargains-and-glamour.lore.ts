@@ -176,10 +176,7 @@ export const thornfordFaeBargainsAndGlamour = {
       fact: "The one thing Nala may ask must be within Shaestrel's own power to give.",
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
-    {
-      fact: "A rowan thread sewn into a gown a fae wears parts every seam of that gown within the hour.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Nala and Shaestrel struck the Beltane gown bargain on the evening of April 28.",
       knowers: [
@@ -198,5 +195,5 @@ export const thornfordFaeBargainsAndGlamour = {
     },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T20:39:56.404Z",
+  updatedAt: "2026-10-17T21:37:13.143Z",
 } as const satisfies Lore
