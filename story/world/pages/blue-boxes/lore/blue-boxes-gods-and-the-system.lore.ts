@@ -44,7 +44,35 @@ export const blueBoxesGodsAndTheSystem = {
       fact: "Each time Iris shows herself at a shrine it costs her strength, and it comes back slower.",
       knowers: ["lore-disclosure/game-master", "character-other/blue-boxes-iris"],
     },
+    {
+      fact: "The System told Nala it is the System, and that its name is Iris.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/blue-boxes-iris",
+        "character-player/blue-boxes-nala",
+      ],
+    },
+    {
+      fact: "Iris saw Nala appear by the plinth at twenty to five, from nowhere she could see.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/blue-boxes-iris",
+        "character-player/blue-boxes-nala",
+      ],
+    },
+    {
+      fact: "Iris does not know Earth's words, such as 'isekai'.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/blue-boxes-iris",
+        "character-player/blue-boxes-nala",
+      ],
+    },
+    {
+      fact: "A blinking cursor sits at the end of Iris's line while she is still deciding what to write.",
+      knowers: ["lore-disclosure/game-master", "character-other/blue-boxes-iris"],
+    },
   ],
   createdAt: "2026-10-17T17:41:40.409Z",
-  updatedAt: "2026-10-17T17:41:40.409Z",
+  updatedAt: "2026-10-17T18:14:21.246Z",
 } as const satisfies Lore
