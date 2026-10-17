@@ -9,7 +9,7 @@ export const thornford00019 = {
   position: 19,
   prose: "txt",
   characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/recorders",
   action:
     'I kiss her, hungrily, testing and exploring her mouth with my tongue. When we break away, I gasp "I feel a bit overdressed for this dance. Would you help me with that?"',
   beats: "jsonl",
@@ -20,10 +20,10 @@ export const thornford00019 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
   roleplayed: true,
   createdAt: "2026-10-17T22:17:16.145Z",
-  updatedAt: "2026-10-17T22:18:28.017Z",
+  updatedAt: "2026-10-17T22:18:38.022Z",
   ownLength: 177,
   endsAt: "2026-04-30T22:37:00.000Z",
 } as const satisfies StoryTurnPlayed
