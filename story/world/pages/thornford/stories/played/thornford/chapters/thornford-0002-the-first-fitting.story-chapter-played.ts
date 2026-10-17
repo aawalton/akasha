@@ -34,11 +34,16 @@ export const thornford0002TheFirstFitting = {
       coverAfter:
         "Shaestrel slides off the table, gathers it up and drapes it over your shoulders.",
     },
+    {
+      position: 12,
+      cover: "image/image-00b979815bd5704d",
+      coverAfter: "She lets the lock slip free, takes your hand from the silk and brings it up,",
+    },
   ],
   lastTurn: "thornford-00-012",
   lastTurnPosition: 12,
   endsAt: "2026-04-29T22:33:00.000Z",
   outcomes: "jsonl",
   createdAt: "2026-10-17T21:58:46.821Z",
-  updatedAt: "2026-10-17T21:58:46.821Z",
+  updatedAt: "2026-10-17T22:02:36.732Z",
 } as const satisfies StoryChapterPlayed
