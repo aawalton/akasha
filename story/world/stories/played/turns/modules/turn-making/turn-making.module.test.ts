@@ -52,7 +52,7 @@ test("an action writes the next turn as new, beside the turn before it", async (
   const wrote: Writing[] = []
   const made = await turnMadeFor(GAME, "I open the gate", callsOver("player", wrote))
   const at = "stories/the-saga/turns/the-saga-00-003.story-turn-played.ts"
-  expect(made).toEqual({ kind: "made", slug: "the-saga-00-003", at })
+  expect(made).toEqual({ kind: "made", slug: "the-saga-00-003", at, roleplayed: false })
   expect(wrote[0]?.pages).toEqual([
     {
       pageTypeSlug: "story-turn-played",
@@ -119,7 +119,7 @@ test("a roleplayed turn whose prose landed is followed before it reaches player"
   const wrote: Writing[] = []
   const latest = { stepStatus: `${stepStatus.slug}/game-master`, prose: "txt" }
   const made = await turnMadeFor(GAME, "I open the gate", callsRoleplayed(latest, wrote))
-  expect(made).toMatchObject({ kind: "made", slug: "the-saga-00-003" })
+  expect(made).toMatchObject({ kind: "made", slug: "the-saga-00-003", roleplayed: true })
 })
 
 test("a roleplayed turn with no prose yet is not followed", async () => {
@@ -165,7 +165,7 @@ test("a story whose turns a chapter all took makes its next turn after the chapt
   const wrote: Writing[] = []
   const made = await turnMadeFor(GAME, "I open the gate", callsAfterChapter(wrote))
   const at = "stories/the-saga/turns/the-saga-00-050.story-turn-played.ts"
-  expect(made).toEqual({ kind: "made", slug: "the-saga-00-050", at })
+  expect(made).toEqual({ kind: "made", slug: "the-saga-00-050", at, roleplayed: false })
   expect(wrote[0]?.pages?.[0]?.values).toEqual({
     partOfCollections: [`story-played/${GAME}`],
     position: 50,

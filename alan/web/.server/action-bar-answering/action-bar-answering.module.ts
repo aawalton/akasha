@@ -29,6 +29,11 @@ export const actionBarAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The roleplay seat's notice of a roleplayed turn made ends with a check of its prose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Feedback is a message to the seat the game names as its coordinator agent.",
     },
     {
@@ -95,5 +100,5 @@ export const actionBarAnswering = {
     },
   ],
   createdAt: "2026-09-24T17:47:09.572Z",
-  updatedAt: "2026-09-29T03:37:36.000Z",
+  updatedAt: "2026-10-17T19:43:16.338Z",
 } as const satisfies Module

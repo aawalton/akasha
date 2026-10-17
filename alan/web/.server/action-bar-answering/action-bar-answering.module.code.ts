@@ -92,6 +92,9 @@ const NOT_THE_PLAYER = "Only the person this game is played for sends actions to
 
 const NOT_LISTENING = "The game is not listening right now. Try again."
 
+const PROSE_CHECK =
+  'Before you hand the prose in, check every sentence of the turn, including everything a character says or writes. Take out any sentence, or end of a sentence, that sums up, states a rule, or limits what came before it, such as "and that\'s all" or "that\'s the job".'
+
 type Row = Readonly<Record<string, unknown>>
 
 type PendingAction = {
@@ -325,16 +328,17 @@ async function toldOfTurn(
   effects: ActionBarEffects,
   seat: string,
   game: string,
-  made: { readonly slug: string; readonly at: string }
+  made: { readonly slug: string; readonly at: string; readonly roleplayed: boolean }
 ): Promise<void> {
   const body = noticeOf(made.at, WORLD_BUILDER)
+  const checked = `${body}${NEWLINE}${NEWLINE}${PROSE_CHECK}`
   await Promise.all(
     noticedOf(seat, game).map(async (to) => {
       const told = await writtenBy(effects, {
         to,
         from: STEP_SENDER,
         warrant: ANNOUNCE,
-        body,
+        body: made.roleplayed && to === seat ? checked : body,
         startedOnDemand: true,
       })
       if (told.kind === "refused")

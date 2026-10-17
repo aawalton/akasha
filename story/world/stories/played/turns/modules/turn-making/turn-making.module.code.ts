@@ -67,7 +67,12 @@ export type Calls = {
 }
 
 export type TurnMade =
-  | { readonly kind: "made"; readonly slug: string; readonly at: string }
+  | {
+      readonly kind: "made"
+      readonly slug: string
+      readonly at: string
+      readonly roleplayed: boolean
+    }
   | { readonly kind: "refused"; readonly said: string }
   | { readonly kind: "unread"; readonly why: string }
 
@@ -243,5 +248,5 @@ export async function turnMadeFor(
     ],
   })
   if ("refused" in wrote) return { kind: "unread", why: wrote.refused }
-  return { kind: "made", slug: made.slug, at }
+  return { kind: "made", slug: made.slug, at, roleplayed: roleplay.values[ROLEPLAYED] === true }
 }

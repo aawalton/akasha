@@ -50,7 +50,7 @@ function effectsWith(over: Partial<ActionBarEffects> = {}) {
     },
     make: async (game, action) => {
       made.push(`${game}: ${action}`)
-      return { kind: "made", slug: "the-game-00-003", at: MADE_AT }
+      return { kind: "made", slug: "the-game-00-003", at: MADE_AT, roleplayed: false }
     },
     pendingRows: async () => [],
     draftOf: async () => null,
@@ -165,6 +165,22 @@ test("an action makes the game's next turn and tells every game seat, starting a
     { to: MASTER, from: STEP_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
     { to: BUILDER, from: STEP_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
     { to: WRITER, from: STEP_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
+  ])
+})
+
+test("a roleplayed turn's notice to the game's own seat alone ends with the prose check", async () => {
+  const { effects, written } = effectsWith({
+    seatOf: async () => gameSeatHeld(MASTER, GAME, undefined),
+    make: async () => ({ kind: "made", slug: "the-game-00-003", at: MADE_AT, roleplayed: true }),
+  })
+  await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
+  const notice = `The turn \`${MADE_AT}\` is at world-builder.`
+  const check =
+    'Before you hand the prose in, check every sentence of the turn, including everything a character says or writes. Take out any sentence, or end of a sentence, that sums up, states a rule, or limits what came before it, such as "and that\'s all" or "that\'s the job".'
+  expect(written.map((one) => [one.to, one.body])).toEqual([
+    [MASTER, `${notice}\n\n${check}`],
+    [BUILDER, notice],
+    [WRITER, notice],
   ])
 })
 
