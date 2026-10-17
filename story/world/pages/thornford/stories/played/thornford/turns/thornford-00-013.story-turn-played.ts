@@ -4,6 +4,7 @@ export const thornford00013 = {
   id: "01a14bde-a05e-76e0-a8da-f27f5b86c738",
   type: "page-type/story-turn-played",
   slug: "thornford-00-013",
+  cover: "image/image-4d0bd79c6f5c87e1",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 13,
@@ -27,8 +28,9 @@ export const thornford00013 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "The knock comes again, three times, light and quick.",
   createdAt: "2026-10-17T21:57:23.678Z",
-  updatedAt: "2026-10-17T21:59:36.058Z",
+  updatedAt: "2026-10-17T22:04:04.475Z",
   ownLength: 164,
   endsAt: "2026-04-30T05:30:00.000Z",
 } as const satisfies StoryTurnPlayed
