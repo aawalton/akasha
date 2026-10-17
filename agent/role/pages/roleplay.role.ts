@@ -80,7 +80,7 @@ export const roleplay = {
       warrant: "Alan reads only the play screen, so prose left in this seat is never read.",
       aids: [
         "`akasha story turn advance --turn <turn> --prose-file <file> --character <character>`",
-        "The turn's page holds his action.",
+        "The turn's page holds his action; an opening holds none.",
         "Name with `--character` each character present, silent or not.",
         "Settle each roll before handing in the prose, since a roll lands on the latest turn.",
       ],
@@ -104,6 +104,18 @@ export const roleplay = {
         "`akasha seat start --start-mode headless --role <role> --domain <story> --prompt-file -`",
         "The prompt, on stdin, names this seat and the story.",
         "A helper already running on this story is not started again.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Open With The Command",
+      act: "Make a story's first turn with `akasha story turn open --story <story>`, then hand in its prose.",
+      warrant:
+        "A turn filed by hand skips the steps that land its beats, numbers and memory and push it to Alan.",
+      aids: [
+        "The opening waits at world-builder on your advance, as every turn does.",
+        "Start the helpers first, since only a helper already up is told the opening moved.",
+        "Never file a turn with `akasha change apply`.",
       ],
     },
     {
@@ -284,5 +296,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T19:50:45.095Z",
+  updatedAt: "2026-10-17T20:10:59.807Z",
 } as const satisfies Role
