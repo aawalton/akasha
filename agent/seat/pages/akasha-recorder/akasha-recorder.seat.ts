@@ -11,6 +11,7 @@ export const akashaRecorder = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "78b3caab-a7a5-4834-8378-5ea4b4012d05",
   createdAt: "2026-10-17T11:35:26.350Z",
-  updatedAt: "2026-10-17T11:35:26.350Z",
+  updatedAt: "2026-10-17T11:35:29.154Z",
 } as const satisfies Seat
