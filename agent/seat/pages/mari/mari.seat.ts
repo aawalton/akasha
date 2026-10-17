@@ -11,6 +11,7 @@ export const mari = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "202b5b6c-255a-4edb-9836-30db356a026d",
   createdAt: "2026-10-17T22:23:56.515Z",
-  updatedAt: "2026-10-17T22:23:56.515Z",
+  updatedAt: "2026-10-17T22:23:59.372Z",
 } as const satisfies Seat
