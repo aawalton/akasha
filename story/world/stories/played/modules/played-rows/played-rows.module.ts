@@ -45,7 +45,11 @@ export const playedRows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn not yet at player is kept from the reader.",
+      statement: "A turn not yet at player is kept from the reader, unless it is told.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A roleplayed turn is told once its prose lands, at whatever status.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -105,5 +109,5 @@ export const playedRows = {
     },
   ],
   createdAt: "2026-09-14T19:22:52.305Z",
-  updatedAt: "2026-10-02T17:25:43.000Z",
+  updatedAt: "2026-10-17T18:00:24.778Z",
 } as const satisfies Module

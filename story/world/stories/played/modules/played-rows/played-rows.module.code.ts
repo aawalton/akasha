@@ -120,12 +120,21 @@ export type Making = {
   readonly said: string | null
 }
 
+const PLAYED_ROLEPLAYED_KEY = "roleplayed"
+
+const PLAYED_PROSE_KEY = "prose"
+
 function stepOf(row: Page): TurnStep {
   return stepIn(row[PLAYED_STEP_STATUS_KEY]) ?? PLAYER
 }
 
+function toldOf(row: Page): boolean {
+  if (stepOf(row) === PLAYER) return true
+  return row[PLAYED_ROLEPLAYED_KEY] === true && row[PLAYED_PROSE_KEY] !== undefined
+}
+
 export function playedReady(rows: readonly Page[]): readonly Page[] {
-  return rows.filter((row) => stepOf(row) === PLAYER)
+  return rows.filter(toldOf)
 }
 
 export function playedWorking(seats: readonly Page[] | null): boolean {
@@ -140,9 +149,8 @@ function saidOver(step: TurnStep, seats: readonly Page[] | null, quietMs: number
 
 export function playedMakingKey(rows: readonly Page[]): string | null {
   const last = playedOrder(rows).at(-1)
-  if (last === undefined) return null
+  if (last === undefined || toldOf(last)) return null
   const step = stepOf(last)
-  if (step === PLAYER) return null
   return `${slugIn(last) ?? last.id}:${step}`
 }
 
@@ -152,9 +160,8 @@ export function playedMaking(
   quietMs: number = Number.POSITIVE_INFINITY
 ): Making | null {
   const last = playedOrder(rows).at(-1)
-  if (last === undefined) return null
+  if (last === undefined || toldOf(last)) return null
   const step = stepOf(last)
-  if (step === PLAYER) return null
   const action = last[PLAYED_TURN_ACTION_KEY]
   return {
     slug: slugIn(last) ?? last.id,

@@ -214,6 +214,31 @@ describe("playedReady and playedMaking", () => {
     expect(playedMaking([read], [])).toBeNull()
     expect(playedMaking([], [])).toBeNull()
   })
+
+  test("a roleplayed turn is read once its prose lands, while its recorders still work", () => {
+    const told = turnPage({
+      id: "b",
+      slug: "saga-02",
+      position: 2,
+      stepStatus: at("game-master"),
+      roleplayed: true,
+      prose: "txt",
+    })
+    expect(playedReady([told, read]).map((row) => row.id)).toEqual(["b", "a"])
+    expect(playedMaking([told, read], [])).toBeNull()
+    expect(playedMakingKey([told, read])).toBeNull()
+  })
+
+  test("a roleplayed turn with no prose yet is being made", () => {
+    const untold = turnPage({
+      id: "b",
+      position: 2,
+      stepStatus: at("world-builder"),
+      roleplayed: true,
+    })
+    expect(playedReady([untold, read]).map((row) => row.id)).toEqual(["a"])
+    expect(playedMaking([untold, read], [])?.step).toBe("world-builder")
+  })
 })
 
 describe("playedClockOf", () => {
