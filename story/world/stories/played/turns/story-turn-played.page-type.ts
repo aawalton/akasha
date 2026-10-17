@@ -25,7 +25,6 @@ export const storyTurnPlayed = {
 
     "instant-property/turn-ends-at",
     "text-property/cover-after",
-    "boolean-property/roleplayed",
     "module/turn-roleplaying",
   ],
   properties: [
@@ -169,5 +168,5 @@ export const storyTurnPlayed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T00:47:51.415Z",
-  updatedAt: "2026-10-17T17:54:51.718Z",
+  updatedAt: "2026-10-17T17:58:43.890Z",
 } as const satisfies PageType

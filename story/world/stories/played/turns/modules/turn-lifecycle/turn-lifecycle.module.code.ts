@@ -239,6 +239,7 @@ export type Latest = {
   readonly collections: readonly string[]
   readonly unit: string | null
   readonly status: TurnStep | null
+  readonly told?: boolean
 }
 
 export type Made =
@@ -368,6 +369,6 @@ export function latestOf<Of extends { readonly position: number }>(
 export function makingRefused(latest: Latest | null): string | null {
   if (latest === null) return "This story has no turn yet for a new one to follow."
   const status = latest.status ?? PLAYER
-  if (status === PLAYER) return null
+  if (status === PLAYER || latest.told === true) return null
   return `The last turn is still being made: ${WHO[status]} ${MANY.includes(status) ? "are" : "is"} working on it.`
 }

@@ -16,7 +16,9 @@ import type {
   Asked as Sought,
 } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
 import type { Wrote } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.ts"
+import { roleplayed } from "akasha/story/world/stories/played/properties/roleplayed.boolean-property.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   type Latest,
@@ -47,6 +49,12 @@ const STORY = "story"
 const LAST_TURN = "lastTurn"
 
 const LAST_TURN_POSITION = "lastTurnPosition"
+
+const ROLEPLAYED = roleplayed.propertySlug
+
+const PROSE = "prose"
+
+const REVIEWED_BY = "reviewedBy"
 
 const PARTED = "/"
 
@@ -80,6 +88,7 @@ function latestIn(row: Row | undefined): Latest | null {
     collections: stringsIn(row[COLLECTIONS]),
     unit: textIn(row[UNIT]),
     status: stepIn(row[STATUS]),
+    told: row[ROLEPLAYED] === true && row[PROSE] !== undefined,
   }
 }
 
@@ -115,7 +124,7 @@ export function latestAsked(game: string): Query {
   return {
     pageTypeSlug: storyTurnPlayed.slug,
     where: { [COLLECTIONS]: { has: storyOf(game) } },
-    keys: [SLUG, POSITION, COLLECTIONS, UNIT, STATUS],
+    keys: [SLUG, POSITION, COLLECTIONS, UNIT, STATUS, ROLEPLAYED, PROSE],
     sortBy: POSITION,
     descending: true,
     limit: 1,
@@ -178,6 +187,26 @@ export function turnAfter(latest: Latest | null, action: string): Made {
   }
 }
 
+type Roleplay = { readonly values: Readonly<Record<string, unknown>> } | { readonly unread: string }
+
+async function roleplayOf(game: string, calls: Calls): Promise<Roleplay> {
+  const stories = await calls.ask({
+    pageTypeSlug: storyPlayed.slug,
+    where: { [SLUG]: { is: game } },
+    keys: [SLUG, ROLEPLAYED],
+  })
+  if ("refused" in stories) return { unread: stories.refused }
+  if (stories.rows[0]?.[ROLEPLAYED] !== true) return { values: {} }
+  const reviewers = await calls.ask({ pageTypeSlug: storyReviewer.slug, keys: [SLUG] })
+  if ("refused" in reviewers) return { unread: reviewers.refused }
+  const reviewedBy = reviewers.rows.flatMap((row) => {
+    const slug = textIn(row[SLUG])
+    return slug === null ? [] : [`${storyReviewer.slug}${PARTED}${slug}`]
+  })
+  const reviewed = reviewedBy.length === 0 ? {} : { [REVIEWED_BY]: reviewedBy }
+  return { values: { [ROLEPLAYED]: true, ...reviewed } }
+}
+
 export async function turnMadeFor(
   game: string,
   action: string,
@@ -190,6 +219,8 @@ export async function turnMadeFor(
   if ("refused" in made || latest === null || page === null) {
     return { kind: "refused", said: "refused" in made ? made.refused : "" }
   }
+  const roleplay = await roleplayOf(game, calls)
+  if ("unread" in roleplay) return { kind: "unread", why: roleplay.unread }
   const read = await calls.read({ pages: [page] })
   if ("refused" in read) return { kind: "unread", why: read.refused }
   const held = read.bodies[0]
@@ -207,7 +238,7 @@ export async function turnMadeFor(
         slug: made.slug,
         path: at,
         fresh: true,
-        values: made.values,
+        values: { ...made.values, ...roleplay.values },
       },
     ],
   })

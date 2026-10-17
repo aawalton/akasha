@@ -7,8 +7,6 @@
 {"propertySlug":"import","fileName":"turn-reaching.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-reaching.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-reaching.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.test.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"turn-reaching.module.code.ts","path":"command/pages/story/turn/make/story-turn-make.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"turn-reaching.module.code.ts","path":"command/pages/story/turn/make/story-turn-make.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-reaching.module.code.ts","path":"command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-reaching.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-reaching.module.code.ts","path":"command/pages/story/turn/modules/turn-starting/turn-starting.module.code.ts","typed":true,"deferred":false}

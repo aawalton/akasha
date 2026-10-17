@@ -4,6 +4,7 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import { issues as issuesFile } from "akasha/story/chapter/properties/issues.file-property.ts"
 import { mechanicsIssues as mechanicsIssuesFile } from "akasha/story/chapter/properties/mechanics-issues.file-property.ts"
 import { rulings as rulingsFile } from "akasha/story/chapter/properties/rulings.file-property.ts"
+import { roleplayed } from "akasha/story/world/stories/played/properties/roleplayed.boolean-property.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   bareOf,
@@ -16,7 +17,6 @@ import {
   stepIn,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { rulingsIn } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
-import { roleplayed } from "akasha/story/world/stories/played/turns/properties/roleplayed.boolean-property.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const COLLECTIONS = "partOfCollections"

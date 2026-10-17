@@ -217,7 +217,6 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/kept/drop/story-turn-kept-drop.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/make/story-turn-make.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/picture/story-turn-picture.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/record/story-turn-record.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.ts","typed":true,"deferred":false}

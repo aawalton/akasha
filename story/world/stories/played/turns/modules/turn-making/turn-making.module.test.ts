@@ -80,6 +80,56 @@ test("an action while the last turn is being made writes nothing", async () => {
   expect(wrote).toEqual([])
 })
 
+function callsRoleplayed(latest: Readonly<Record<string, unknown>>, wrote: Writing[]): Calls {
+  return {
+    ask: async (query) => {
+      if (query.pageTypeSlug === "story-played") {
+        return { rows: [{ slug: GAME, roleplayed: true }], n: 1 }
+      }
+      if (query.pageTypeSlug === "story-reviewer") return { rows: [{ slug: "keen-eye" }], n: 1 }
+      const turn = {
+        slug: "the-saga-00-002",
+        position: 2,
+        partOfCollections: [`story-played/${GAME}`],
+        unit: WORDS,
+        roleplayed: true,
+        ...latest,
+      }
+      return { rows: [turn], n: 3 }
+    },
+    read: async () => ({ at: "a-commit", bodies: [{ path: HELD_AT, content: "" }], unplaced: [] }),
+    write: async (asked) => {
+      wrote.push(asked)
+      return { commit: "a-commit", wrote: [], took: [] }
+    },
+  }
+}
+
+test("an action in a roleplayed story makes a roleplayed turn every reviewer has passed", async () => {
+  const wrote: Writing[] = []
+  const latest = { stepStatus: `${stepStatus.slug}/player` }
+  await turnMadeFor(GAME, "I open the gate", callsRoleplayed(latest, wrote))
+  expect(wrote[0]?.pages?.[0]?.values).toMatchObject({
+    roleplayed: true,
+    reviewedBy: ["story-reviewer/keen-eye"],
+  })
+})
+
+test("a roleplayed turn whose prose landed is followed before it reaches player", async () => {
+  const wrote: Writing[] = []
+  const latest = { stepStatus: `${stepStatus.slug}/game-master`, prose: "txt" }
+  const made = await turnMadeFor(GAME, "I open the gate", callsRoleplayed(latest, wrote))
+  expect(made).toMatchObject({ kind: "made", slug: "the-saga-00-003" })
+})
+
+test("a roleplayed turn with no prose yet is not followed", async () => {
+  const wrote: Writing[] = []
+  const latest = { stepStatus: `${stepStatus.slug}/world-builder` }
+  const made = await turnMadeFor(GAME, "I open the gate", callsRoleplayed(latest, wrote))
+  expect(made).toMatchObject({ kind: "refused" })
+  expect(wrote).toEqual([])
+})
+
 const CHAPTER_AT = "stories/the-saga/chapters/the-saga-0001-the-gate.story-chapter-played.ts"
 
 function callsAfterChapter(wrote: Writing[]): Calls {

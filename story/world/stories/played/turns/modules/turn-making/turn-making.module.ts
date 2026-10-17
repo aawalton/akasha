@@ -29,7 +29,12 @@ export const turnMaking = {
       statement:
         "A story left with no open turn makes its next turn after its last chapter's last turn.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn made in a roleplayed story is roleplayed, and every reviewer has passed it.",
+    },
   ],
   createdAt: "2026-09-26T17:39:09.550Z",
-  updatedAt: "2026-09-28T02:27:32.000Z",
+  updatedAt: "2026-10-17T17:58:43.890Z",
 } as const satisfies Module

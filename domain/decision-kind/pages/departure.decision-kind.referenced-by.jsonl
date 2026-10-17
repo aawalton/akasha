@@ -2500,7 +2500,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","id":"01a0e7d8-5f60-71ff-af7a-8f3d30913009"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/drop/story-turn-kept-drop.command.ts","id":"01a0ea39-db28-7124-a2ce-64c6a8ac070c"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.ts","id":"01a0ea39-db29-78af-a3aa-0999fd2a6dde"}
-{"propertySlug":"decision-kind","path":"command/pages/story/turn/make/story-turn-make.command.ts","id":"01a14ad9-e67e-7156-94e3-b0c8663a186e"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-commits/turn-commits.module.ts","id":"01a0eb3a-ee7b-7f63-b2b3-11c384af2550"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-holding/turn-holding.module.ts","id":"01a10262-bbed-7358-b397-4bb8a771e1a0"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.ts","id":"01a1044a-7e52-7bd0-aa5c-665df122e31a"}
@@ -4217,6 +4216,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/cover-reroll-refused.text-property.ts","id":"01a0e84e-3f8e-7738-bb8e-6205aa186cfb"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/cover-reroll.relation-property.ts","id":"01a0e84e-3f8e-74cf-b543-8711abba573e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/prose.file-property.ts","id":"01a06424-329c-73d2-a881-67d728085a28"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/properties/roleplayed.boolean-property.ts","id":"01a14ad9-e67e-7a0a-9ff9-ee3e304d82ff"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/story-opens-at.instant-property.ts","id":"01a0e7f1-002b-75c8-9a58-6c3cc0e9ca4a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/turn-undo-refused.text-property.ts","id":"01a0f1c7-4de9-799d-b9f0-dc0f6cc64803"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/turn-undo.relation-property.ts","id":"01a0f1c7-4de9-7d53-acd4-24af9e2aa93c"}
@@ -4236,7 +4236,6 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.ts","id":"01a14ad9-e67e-7b5e-88b6-eea2aa0e3fbc"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/cover-after.text-property.ts","id":"01a0fd9f-af7d-7831-acab-f94772b0ab69"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/outcomes.file-property.ts","id":"01a0de23-015c-7892-8e17-ce5f54c5a9bc"}
-{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/roleplayed.boolean-property.ts","id":"01a14ad9-e67e-7a0a-9ff9-ee3e304d82ff"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/turn-action.text-property.ts","id":"01a0deae-42b1-76ed-84f7-2a78c60194f3"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/turn-ends-at.instant-property.ts","id":"01a0e3a6-ba36-7c2b-a54c-7c264d49c80f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/story-turn-played.page-type.ts","id":"01a064bc-8477-7bac-98ec-152da07077ce"}

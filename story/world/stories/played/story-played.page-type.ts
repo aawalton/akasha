@@ -52,6 +52,7 @@ export const storyPlayed = {
     "text-property/action-draft",
     "relation-property/turn-undo",
     "text-property/turn-undo-refused",
+    "boolean-property/roleplayed",
   ],
   decisions: [
     {
@@ -133,7 +134,8 @@ export const storyPlayed = {
       many: false,
       uncommitted: true,
     },
+    { pageProperty: "boolean-property/roleplayed", required: false, many: false },
   ],
   createdAt: "2026-09-02T22:01:28.988Z",
-  updatedAt: "2026-10-04T08:32:13.000Z",
+  updatedAt: "2026-10-17T17:58:43.890Z",
 } as const satisfies PageType

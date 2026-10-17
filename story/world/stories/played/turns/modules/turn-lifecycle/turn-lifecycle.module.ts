@@ -15,6 +15,10 @@ export const turnLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A roleplayed turn is told once its prose lands, and the next turn may follow it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn's slug is the one before it with its last number one higher, as padded.",
     },
     {
@@ -38,5 +42,5 @@ export const turnLifecycle = {
     },
   ],
   createdAt: "2026-09-26T17:28:05.792Z",
-  updatedAt: "2026-10-03T21:31:25.000Z",
+  updatedAt: "2026-10-17T17:58:43.890Z",
 } as const satisfies Module
