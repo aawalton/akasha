@@ -188,7 +188,15 @@ export const thornfordFaeBargainsAndGlamour = {
         "character-other/thornford-shaestrel",
       ],
     },
+    {
+      fact: "Nala took Shaestrel's full measure for the gown on April 28, pencilled in her book.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T20:36:55.367Z",
+  updatedAt: "2026-10-17T20:39:56.404Z",
 } as const satisfies Lore
