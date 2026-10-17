@@ -51,6 +51,11 @@ test("an advance naming no step's output hands in the world builder's lore", () 
   })
 })
 
+test("an advance naming its turn by the turn's page path takes the turn's slug", () => {
+  const at = `stories/the-saga/turns/${SLUG}.story-turn-played.ts`
+  expect(taken(["--turn", at], CALLED, ROOT)).toMatchObject({ turn: SLUG, chapter: false })
+})
+
 test("an advance names a written chapter at `--chapter`, and names a turn or a chapter but not both", () => {
   const chapter = "story-chapter-written/the-saga-0002"
   expect(taken(["--chapter", chapter], CALLED, ROOT)).toEqual({

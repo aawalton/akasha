@@ -5,9 +5,9 @@ export const playedTurn = {
   type: "page-type/argument",
   slug: "played-turn",
   said: "--turn",
-  takes: "the played turn, named by its address",
+  takes: "the played turn, named by its address, its slug or its page's path",
   value: "text",
   placeholder: "address",
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-09-26T17:36:57.000Z",
+  updatedAt: "2026-10-17T18:14:36.846Z",
 } as const satisfies Argument

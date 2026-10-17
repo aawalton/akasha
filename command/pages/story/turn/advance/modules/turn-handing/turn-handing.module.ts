@@ -10,6 +10,11 @@ export const turnHanding = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An advance names its turn or chapter by its address, its slug or its page's path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An advance naming no step's output hands in the world builder's lore.",
     },
     {
@@ -48,5 +53,5 @@ export const turnHanding = {
     },
   ],
   createdAt: "2026-09-28T18:31:36.830Z",
-  updatedAt: "2026-10-07T00:35:06.000Z",
+  updatedAt: "2026-10-17T18:14:36.846Z",
 } as const satisfies Module

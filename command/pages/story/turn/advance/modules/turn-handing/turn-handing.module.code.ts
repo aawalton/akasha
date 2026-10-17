@@ -56,6 +56,12 @@ const PARTED = "/"
 
 const JOINED = "-"
 
+const PAGE_FILE = /^(?:.*\/)?([^/.]+)\.[^/]+\.ts$/
+
+function namedOf(said: string): string {
+  return PAGE_FILE.exec(said)?.[1] ?? said
+}
+
 export type Taken = {
   readonly turn: string
   readonly chapter: boolean
@@ -254,8 +260,8 @@ export function taken(argv: readonly string[], calledAs: string, root: string): 
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return { refused: read.refused }
   const held = read.taken
-  const turn = held.playedTurn?.trim() ?? ""
-  const chapter = held.writtenChapter?.trim() ?? ""
+  const turn = namedOf(held.playedTurn?.trim() ?? "")
+  const chapter = namedOf(held.writtenChapter?.trim() ?? "")
   if ((turn === "") === (chapter === "")) {
     return {
       refused: [
