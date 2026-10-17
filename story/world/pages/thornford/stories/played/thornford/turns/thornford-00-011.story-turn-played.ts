@@ -17,5 +17,6 @@ export const thornford00011 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T21:50:58.220Z",
-  updatedAt: "2026-10-17T21:50:58.220Z",
+  updatedAt: "2026-10-17T21:51:35.870Z",
+  endsAt: "2026-04-29T22:30:00.000Z",
 } as const satisfies StoryTurnPlayed
