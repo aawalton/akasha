@@ -17,10 +17,13 @@
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/make/story-turn-make.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/make/story-turn-make.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts","typed":false,"deferred":false}
@@ -47,6 +50,7 @@
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-notice/turn-notice.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-notice/turn-notice.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}

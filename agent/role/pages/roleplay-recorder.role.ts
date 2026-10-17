@@ -54,6 +54,22 @@ export const roleplayRecorder = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Make The Turn",
+      act: "Make each turn with `akasha story turn make`, then hand in its first three steps yourself.",
+      warrant:
+        "A roleplayed turn waits on you at world-builder, game-master and writer, and on nobody else.",
+      aids: [
+        "Make a turn once the story's latest turn is at player, and not before.",
+        "One turn holds every exchange since the last turn you made.",
+        "The action file holds Alan's words from those exchanges, without the brackets.",
+        "At world-builder, advance naming no lore.",
+        "At game-master, hand in the narration as beats with `--beats-file`.",
+        "At writer, hand in the narration as it was told with `--prose-file`.",
+        "A notice at game-master after mechanics names its issues: send the fault, then mend.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Brackets Are No Play",
       act: "Never make a line in square brackets into an action, a beat or prose.",
       warrant:
@@ -76,5 +92,5 @@ export const roleplayRecorder = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T16:29:48.830Z",
+  updatedAt: "2026-10-17T17:12:36.732Z",
 } as const satisfies Role

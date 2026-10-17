@@ -16,6 +16,7 @@ import {
   stepIn,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { rulingsIn } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
+import { roleplayed } from "akasha/story/world/stories/played/turns/properties/roleplayed.boolean-property.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const COLLECTIONS = "partOfCollections"
@@ -41,6 +42,8 @@ const PROSE = "prose"
 const STORY = "story"
 
 const OWN_LENGTH = "ownLength"
+
+const ROLEPLAYED = roleplayed.propertySlug
 
 const PARTED = "/"
 
@@ -117,5 +120,6 @@ export function heldOf(turn: Turn, textOf: TextOf = () => ""): Held | { readonly
     written: turn.value[PROSE] !== undefined && turn.value[OWN_LENGTH] !== 0,
     mechanicsIssues: linesBeside(turn, MECHANICS_ISSUES, mechanicsIssuesFile.propertySlug, textOf),
     rulings: rulingsBeside(turn, textOf),
+    ...(turn.value[ROLEPLAYED] === true ? { roleplayed: true } : {}),
   }
 }

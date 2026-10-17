@@ -109,6 +109,7 @@ export type Held = {
   readonly memory?: readonly Memory[]
   readonly pictured?: readonly Pictured[]
   readonly planned?: Planned
+  readonly roleplayed?: boolean
 }
 
 export type Caller = { readonly role: string | null; readonly game: string | null }

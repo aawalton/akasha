@@ -64,7 +64,7 @@ export const roleplay = {
       warrant:
         "This role lands nothing, so what is played before the recorder watches is landed by nobody.",
       aids: [
-        "`akasha seat start --start-mode headless --role roleplay-recorder --prompt-file -`",
+        "`akasha seat start --start-mode headless --role roleplay-recorder --domain <story> --prompt-file -`",
         "The prompt, on stdin, names this seat and the story to land into.",
         "A roleplay-recorder already running on this conversation is not started again.",
       ],
@@ -239,5 +239,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T16:29:48.830Z",
+  updatedAt: "2026-10-17T17:12:36.732Z",
 } as const satisfies Role

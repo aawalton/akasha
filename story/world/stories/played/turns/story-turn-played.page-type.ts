@@ -19,11 +19,13 @@ export const storyTurnPlayed = {
     "module/turn-notice",
     "module/turn-prose",
     "module/turn-seats",
+    "module/turn-waiting",
 
     "text-property/turn-action",
 
     "instant-property/turn-ends-at",
     "text-property/cover-after",
+    "boolean-property/roleplayed",
   ],
   properties: [
     { pageProperty: "file-property/outcomes", required: false, many: false, default: "jsonl" },
@@ -59,6 +61,7 @@ export const storyTurnPlayed = {
     { pageProperty: "instant-property/turn-ends-at", required: false, many: false },
     { pageProperty: "text-property/cover-after", required: false, many: false },
     { pageProperty: "file-property/rulings", required: false, many: false },
+    { pageProperty: "boolean-property/roleplayed", required: false, many: false },
   ],
   decisions: [
     {
@@ -161,5 +164,5 @@ export const storyTurnPlayed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T00:47:51.415Z",
-  updatedAt: "2026-10-04T00:30:47.000Z",
+  updatedAt: "2026-10-17T17:12:36.732Z",
 } as const satisfies PageType

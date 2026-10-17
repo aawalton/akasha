@@ -26,8 +26,9 @@ export const storyTurn = {
     "module/turn-commits",
     "module/turn-holding",
     "module/turn-job-handing",
+    "command/story-turn-make",
   ],
   name: "turn",
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-04T12:52:19.000Z",
+  updatedAt: "2026-10-17T17:12:36.732Z",
 } as const satisfies Namespace

@@ -1,8 +1,3 @@
-import { gameMaster as gameMasterRole } from "akasha/agent/role/pages/game-master.role.ts"
-import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
-import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
-import { worldBuilder as worldBuilderRole } from "akasha/agent/role/pages/world-builder.role.ts"
-import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 import type {
   BeatScene,
@@ -59,6 +54,7 @@ import {
   proseTaken,
   unaddressed,
 } from "akasha/story/world/stories/played/turns/modules/turn-prose/turn-prose.module.code.ts"
+import { roleOf } from "akasha/story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts"
 
 const STORY_REVIEWER = storyReviewer.slug
 
@@ -71,16 +67,6 @@ const HELD_LINES = "jsonl"
 const PARTED = "/"
 
 type Kind = Handed["kind"]
-
-const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
-  "world-builder": worldBuilderRole.slug,
-  "game-master": gameMasterRole.slug,
-  mechanics: storyRecorderRole.slug,
-  writer: writerRole.slug,
-  reviewers: reviewerRole.slug,
-  recorders: storyRecorderRole.slug,
-  player: null,
-}
 
 const TAKES: Readonly<{ [step in TurnStep]: Kind | null }> = {
   "world-builder": "lore",
@@ -106,7 +92,7 @@ function nounOf(held: Held): Noun {
 }
 
 function callerRefused(held: Held, caller: Caller): string | null {
-  const role = ROLE_OF[held.status]
+  const role = roleOf(held)
   const noun = nounOf(held)
   if (role === null && noun === CHAPTER) {
     return `the chapter is at ${PLAYER}, so it is published and nothing moves it on`

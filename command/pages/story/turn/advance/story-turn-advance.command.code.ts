@@ -54,6 +54,7 @@ import {
   taken,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
 import { memorySettled } from "akasha/command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts"
+import { roleplayTold } from "akasha/command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts"
 import {
   timeCheckIndexed,
   untimedRefused,
@@ -177,12 +178,17 @@ async function noticesOver(
   at: Context,
   status: TurnStep,
   after: Told,
-  crossed: string
+  crossed: string,
+  roleplayed: boolean
 ) {
   const master = at.story?.master ?? null
   const turn = at.prompting.turnAt
   const { lore, noun, repairs } = at.prompting
   const game = at.game
+  if (roleplayed) {
+    await roleplayTold(reach, { game, turn, status, noun, repairs }, after)
+    return
+  }
   await noticesSent(reach, root, game, master, turn, status, after, lore, noun, crossed, repairs)
 }
 
@@ -339,7 +345,8 @@ async function heldOn(
   if (unkept !== null) after.faults.push(`the folded edits stay beside the turn: ${unkept}`)
   if (said.status !== held.status) {
     const crossed = crossedOn(reach, given.root, read, held, turn)
-    await noticesOver(reach, given.root, at, said.status, after, crossed)
+    const roleplayed = held.roleplayed === true
+    await noticesOver(reach, given.root, at, said.status, after, crossed, roleplayed)
   }
   await seatsStarted(reach, at, said.starts, done, after)
   if (after.faults.length === 0) return told(after.report)

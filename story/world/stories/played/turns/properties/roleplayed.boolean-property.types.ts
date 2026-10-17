@@ -1,0 +1,1 @@
+export type Roleplayed = boolean

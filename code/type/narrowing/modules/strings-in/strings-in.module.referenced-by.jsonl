@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"command/pages/story/turn/make/story-turn-make.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"domain/context/warrant/change-taboo-terms/change-taboo-terms.context-warrant.code.ts","typed":false,"deferred":false}

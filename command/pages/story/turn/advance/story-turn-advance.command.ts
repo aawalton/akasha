@@ -16,6 +16,7 @@ export const storyTurnAdvance = {
     "module/turn-crossed",
     "module/chapter-length",
     "module/turn-memory",
+    "module/turn-roleplay-telling",
   ],
   decisions: [
     {
@@ -39,6 +40,11 @@ export const storyTurnAdvance = {
       decisionKind: "decision-kind/departure",
       statement:
         "A turn moving tells the game's game master, world builder and writer seats of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A roleplayed turn moving tells its story's roleplay-recorder alone, and never Alan.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -218,5 +224,5 @@ export const storyTurnAdvance = {
     { argument: "argument/title" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-07T00:38:19.000Z",
+  updatedAt: "2026-10-17T17:12:36.732Z",
 } as const satisfies Command
