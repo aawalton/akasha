@@ -14,7 +14,11 @@ export const thornfordGreyGreenSilk = {
     },
     {
       fact: "The silk shifts between grey and green as it moves, like new leaves in rain.",
-      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/thornford-shaestrel",
+        "character-player/thornford-nala",
+      ],
     },
     {
       fact: "The bolt holds enough silk for one gown, with about an arm's length to spare.",
@@ -38,5 +42,5 @@ export const thornfordGreyGreenSilk = {
     },
   ],
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T20:03:46.072Z",
+  updatedAt: "2026-10-17T20:14:59.497Z",
 } as const satisfies Lore
