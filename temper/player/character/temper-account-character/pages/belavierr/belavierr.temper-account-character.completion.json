@@ -2710,14 +2710,14 @@
       "nextRankXP": 211320
     },
     "111": {
-      "currentRank": 5,
+      "currentRank": 6,
       "currentXP": 115,
-      "nextRankXP": 120
+      "nextRankXP": 140
     },
     "117": {
-      "currentRank": 3,
+      "currentRank": 5,
       "currentXP": 25,
-      "nextRankXP": 30
+      "nextRankXP": 35
     },
     "130": {
       "currentRank": 10,
@@ -7464,9 +7464,12 @@
     5531,
     5532,
     5534,
+    5543,
     5545,
     5549,
     5556,
+    5577,
+    5582,
     5733,
     5735,
     5737,
@@ -13681,41 +13684,41 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792243127,
+      "capturedAt": 1792250342,
       "inCombat": false,
       "stats": {
-        "resistance-critical": 1320,
-        "power-weapon": 3460,
-        "magicka-maximum": 12520,
-        "magicka-recovery": 728,
-        "health-maximum": 18960,
+        "stamina-recovery": 1641,
         "stamina-maximum": 25977,
         "critical-rating-spell": 5568,
-        "power-spell": 3460,
-        "health-recovery": 160,
-        "penetration-spell": 7394,
         "resistance-spell": 20136,
-        "stamina-recovery": 1641,
-        "penetration-physical": 7394,
+        "magicka-maximum": 12520,
+        "resistance-critical": 1320,
+        "magicka-recovery": 728,
+        "penetration-spell": 7394,
+        "health-recovery": 160,
+        "power-weapon": 3460,
+        "resistance-physical": 20136,
         "critical-rating-weapon": 5568,
-        "resistance-physical": 20136
+        "power-spell": 3460,
+        "penetration-physical": 7394,
+        "health-maximum": 18960
       },
       "unbonusedStats": {
-        "resistance-critical": 0,
-        "power-weapon": 1000,
-        "magicka-maximum": 12520,
-        "magicka-recovery": 728,
-        "health-maximum": 18960,
+        "stamina-recovery": 1641,
         "stamina-maximum": 25977,
         "critical-rating-spell": 2181,
-        "power-spell": 1000,
-        "health-recovery": 160,
-        "penetration-spell": 0,
         "resistance-spell": 0,
-        "stamina-recovery": 1641,
-        "penetration-physical": 0,
+        "magicka-maximum": 12520,
+        "resistance-critical": 0,
+        "magicka-recovery": 728,
+        "penetration-spell": 0,
+        "health-recovery": 160,
+        "power-weapon": 1000,
+        "resistance-physical": 0,
         "critical-rating-weapon": 2181,
-        "resistance-physical": 0
+        "power-spell": 1000,
+        "penetration-physical": 0,
+        "health-maximum": 18960
       },
       "activeBuffs": [
         {
@@ -14366,7 +14369,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:96978:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:4490:0|h|h",
+          "link": "|H0:item:96978:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:4390:0|h|h",
           "armor": 754,
           "enchant": "Adds |cffffff324|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
