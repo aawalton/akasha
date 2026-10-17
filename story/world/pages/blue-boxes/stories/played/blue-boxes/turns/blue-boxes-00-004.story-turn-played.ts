@@ -13,16 +13,17 @@ export const blueBoxes00004 = {
   action:
     '"Umm, if the windows are only supposed to be for facts, how are you using them to talk to me?"',
   beats: "jsonl",
-  lore: ["lore/the-dating-game-iris"],
+  lore: ["lore/blue-boxes-gods-and-the-system", "lore/the-dating-game-iris"],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
+  recordedBy: ["story-recorder/inventory"],
   roleplayed: true,
   createdAt: "2026-10-17T18:29:27.509Z",
-  updatedAt: "2026-10-17T18:30:38.938Z",
+  updatedAt: "2026-10-17T18:41:04.465Z",
   ownLength: 121,
   endsAt: "2026-10-17T16:51:00.000Z",
 } as const satisfies StoryTurnPlayed
