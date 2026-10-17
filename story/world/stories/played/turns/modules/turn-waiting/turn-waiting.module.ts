@@ -14,8 +14,11 @@ export const turnWaiting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A roleplayed turn waits on the roleplay-recorder at world-builder, game-master and writer.",
+      statement: "A roleplayed turn waits on the roleplay seat at world-builder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A roleplayed turn waits on the roleplay-recorder at game-master and writer.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -23,5 +26,5 @@ export const turnWaiting = {
     },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-17T17:12:36.732Z",
+  updatedAt: "2026-10-17T17:54:51.718Z",
 } as const satisfies Module

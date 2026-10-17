@@ -20,6 +20,10 @@ export const turnAdvancing = {
       decisionKind: "decision-kind/departure",
       statement: "A game master's advance goes to mechanics, or to writer with no mechanics seat.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A roleplayed turn's beats, landing on prose already written, skip the writer.",
+    },
 
     {
       decisionKind: "decision-kind/departure",
@@ -137,5 +141,5 @@ export const turnAdvancing = {
     },
   ],
   createdAt: "2026-10-03T14:34:03.612Z",
-  updatedAt: "2026-10-06T22:15:41.000Z",
+  updatedAt: "2026-10-17T17:54:51.718Z",
 } as const satisfies Module

@@ -4,7 +4,7 @@ export const turnRoleplayTelling = {
   id: "01a14ad9-e67d-7b6d-b50d-1adbb916b211",
   type: "page-type/module",
   slug: "turn-roleplay-telling",
-  definition: "the notice a roleplayed turn's move sends to its story's roleplay-recorder",
+  definition: "the notices a played turn's move sends, roleplayed or not",
   code: "ts",
   test: "ts",
   decisions: [
@@ -19,7 +19,15 @@ export const turnRoleplayTelling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A roleplayed turn leaving world-builder pushes Alan that the turn is ready.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A roleplayed turn reaching player pushes Alan nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn that is not roleplayed is told as any played turn is.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -28,5 +36,5 @@ export const turnRoleplayTelling = {
     },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-17T17:12:36.732Z",
+  updatedAt: "2026-10-17T17:54:51.718Z",
 } as const satisfies Module

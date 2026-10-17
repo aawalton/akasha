@@ -35,6 +35,7 @@ import {
   type TurnStep,
   toRecorders,
   toReviewers,
+  WORLD_BUILDER,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { loreRefused } from "akasha/story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.code.ts"
@@ -54,6 +55,10 @@ import {
   proseTaken,
   unaddressed,
 } from "akasha/story/world/stories/played/turns/modules/turn-prose/turn-prose.module.code.ts"
+import {
+  fromRoleplay,
+  roleplayTakes,
+} from "akasha/story/world/stories/played/turns/modules/turn-roleplaying/turn-roleplaying.module.code.ts"
 import { roleOf } from "akasha/story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts"
 
 const STORY_REVIEWER = storyReviewer.slug
@@ -221,6 +226,9 @@ function fromBeats(
   }
   const moving = { planned: { beats, scenes }, ...ruled.moving }
   const mechanics = leftOf(staff.mechanics, recordedBy)
+  const told = held.roleplayed === true && held.written
+  if (told && mechanics.length === 0)
+    return afterProse({ ...held, recordedBy }, values, staff, moving)
   if (mechanics.length === 0) return moved(WRITER, values, moving)
   const starts = mechanics.map((recorder): Start => ({ kind: "mechanics", recorder }))
   return moved(MECHANICS, values, { ...moving, starts })
@@ -349,7 +357,7 @@ export function advanced(
 ): Advanced {
   const refused = callerRefused(held, caller)
   if (refused !== null) return { refused }
-  const takes = TAKES[held.status]
+  const takes = roleplayTakes(held) ?? TAKES[held.status]
   if (takes === null) {
     return { refused: `the ${nounOf(held)} is at ${held.status}, and nothing advances it` }
   }
@@ -371,5 +379,6 @@ export function advanced(
   }
   if (handed.kind === "review") return fromReviewer(held, handed.reviewer, handed.issues, staff)
   if (handed.kind === "record") return fromRecorder(held, handed, staff)
+  if (held.status === WORLD_BUILDER) return fromRoleplay(handed, cast, admitted)
   return fromProse(held, handed, staff, cast, admitted)
 }

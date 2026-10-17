@@ -1,5 +1,6 @@
 import { gameMaster as gameMasterRole } from "akasha/agent/role/pages/game-master.role.ts"
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
+import { roleplay as roleplayRole } from "akasha/agent/role/pages/roleplay.role.ts"
 import { roleplayRecorder as roleplayRecorderRole } from "akasha/agent/role/pages/roleplay-recorder.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { worldBuilder as worldBuilderRole } from "akasha/agent/role/pages/world-builder.role.ts"
@@ -22,11 +23,11 @@ const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
   player: null,
 }
 
-const ROLEPLAYED_STEPS: readonly TurnStep[] = [WORLD_BUILDER, GAME_MASTER, WRITER]
+const RECORDED_STEPS: readonly TurnStep[] = [GAME_MASTER, WRITER]
 
 export function roleOf(held: Pick<Held, "status" | "roleplayed">): string | null {
-  if (held.roleplayed === true && ROLEPLAYED_STEPS.includes(held.status)) {
-    return roleplayRecorderRole.slug
-  }
+  if (held.roleplayed !== true) return ROLE_OF[held.status]
+  if (held.status === WORLD_BUILDER) return roleplayRole.slug
+  if (RECORDED_STEPS.includes(held.status)) return roleplayRecorderRole.slug
   return ROLE_OF[held.status]
 }

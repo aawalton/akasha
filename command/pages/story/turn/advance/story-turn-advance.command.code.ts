@@ -54,7 +54,7 @@ import {
   taken,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
 import { memorySettled } from "akasha/command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts"
-import { roleplayTold } from "akasha/command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts"
+import { noticesOver } from "akasha/command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts"
 import {
   timeCheckIndexed,
   untimedRefused,
@@ -65,7 +65,6 @@ import {
 } from "akasha/command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts"
 import { liftedFrom } from "akasha/command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts"
 import {
-  noticesSent,
   REACHED,
   type Reach,
   type Told,
@@ -97,7 +96,6 @@ import {
   GAME_MASTER,
   type Held,
   MECHANICS,
-  type TurnStep,
   WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
@@ -170,26 +168,6 @@ function unsizedOn(read: Taken, held: Held, root: string) {
   if (!read.chapter) return null
   const chapterBreak = read.handed.kind === "beats" ? breakIndexed(root, held.game) : null
   return lengthRefused(read.handed, held.beats ?? 0, chapterBreak)
-}
-
-async function noticesOver(
-  reach: Reach,
-  root: string,
-  at: Context,
-  status: TurnStep,
-  after: Told,
-  crossed: string,
-  roleplayed: boolean
-) {
-  const master = at.story?.master ?? null
-  const turn = at.prompting.turnAt
-  const { lore, noun, repairs } = at.prompting
-  const game = at.game
-  if (roleplayed) {
-    await roleplayTold(reach, { game, turn, status, noun, repairs }, after)
-    return
-  }
-  await noticesSent(reach, root, game, master, turn, status, after, lore, noun, crossed, repairs)
 }
 
 async function advancedOn(
@@ -346,7 +324,8 @@ async function heldOn(
   if (said.status !== held.status) {
     const crossed = crossedOn(reach, given.root, read, held, turn)
     const roleplayed = held.roleplayed === true
-    await noticesOver(reach, given.root, at, said.status, after, crossed, roleplayed)
+    const stepped = { from: held.status, status: said.status, crossed, roleplayed }
+    await noticesOver(reach, given.root, at, stepped, after)
   }
   await seatsStarted(reach, at, said.starts, done, after)
   if (after.faults.length === 0) return told(after.report)

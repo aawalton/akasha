@@ -2763,6 +2763,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-notice/turn-notice.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-prose/turn-prose.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-roleplaying/turn-roleplaying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/modules/chapter-alerts/chapter-alerts.module.ts","typed":true,"deferred":false}

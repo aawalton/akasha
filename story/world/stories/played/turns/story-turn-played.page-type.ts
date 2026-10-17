@@ -26,6 +26,7 @@ export const storyTurnPlayed = {
     "instant-property/turn-ends-at",
     "text-property/cover-after",
     "boolean-property/roleplayed",
+    "module/turn-roleplaying",
   ],
   properties: [
     { pageProperty: "file-property/outcomes", required: false, many: false, default: "jsonl" },
@@ -124,6 +125,10 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A roleplayed turn has its prose from the roleplay seat, before its beats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn at player is ready to read.",
     },
     {
@@ -164,5 +169,5 @@ export const storyTurnPlayed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T00:47:51.415Z",
-  updatedAt: "2026-10-17T17:12:36.732Z",
+  updatedAt: "2026-10-17T17:54:51.718Z",
 } as const satisfies PageType

@@ -9,8 +9,12 @@ test("a turn waits on the role its status names", () => {
   expect(roleOf({ status: "player" })).toBe(null)
 })
 
-test("a roleplayed turn waits on the roleplay-recorder where it would wait on the world builder, game master or writer", () => {
-  for (const status of ["world-builder", "game-master", "writer"] as const) {
+test("a roleplayed turn waits on the roleplay seat at world-builder", () => {
+  expect(roleOf({ status: "world-builder", roleplayed: true })).toBe("roleplay")
+})
+
+test("a roleplayed turn waits on the roleplay-recorder where it would wait on the game master or writer", () => {
+  for (const status of ["game-master", "writer"] as const) {
     expect(roleOf({ status, roleplayed: true })).toBe("roleplay-recorder")
   }
 })
