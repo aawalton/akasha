@@ -1,8 +1,0 @@
-{"beat":1,"event":"Nala tells Shaestrel, by name, that she'll see her tomorrow."}
-{"beat":2,"event":"Shaestrel smiles, quick and pleased, and steps out into the rain.","leave":["character-other/thornford-shaestrel"]}
-{"beat":3,"event":"Nala shoots the bolt home again and turns up the lamp."}
-{"beat":4,"event":"She drafts the gown on brown paper from the measures in her book."}
-{"beat":5,"event":"She pins the paper pieces to unbleached calico and cuts a toile for the fitting."}
-{"beat":6,"event":"At the treadle machine she tacks the toile together with long loose stitches."}
-{"beat":7,"event":"She hangs the finished toile on the back-room door, her shoulders aching.","at":"2026-04-28T22:40:00.000Z","memory":[{"page":"lore/thornford-fae-bargains-and-glamour","fact":"Nala cut and tacked a calico toile of the gown on April 28, ready for the first fitting.","establishes":true},{"page":"lore/thornford-fae-bargains-and-glamour","fact":"Nala cut and tacked a calico toile of the gown on April 28, ready for the first fitting.","learns":"character-player/thornford-nala"},{"page":"lore/thornford-fae-bargains-and-glamour","fact":"Nala cut and tacked a calico toile of the gown on April 28, ready for the first fitting.","shown":true}]}
-{"beat":8,"event":"The silk lies folded on the cutting table under the lamp, still uncut.","at":"2026-04-28T22:45:00.000Z","memory":[{"page":"lore/thornford-grey-green-silk","fact":"The silk shifts between grey and green as it moves, like new leaves in rain.","shown":true}]}
