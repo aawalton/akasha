@@ -6,8 +6,9 @@ export const thornfordShaestrel = {
   slug: "thornford-shaestrel",
   title: "Shaestrel",
   story: "story-played/thornford",
+  place: "place/thornford-nalas-shop",
   persona: "persona/shaestrel",
   cover: "image/image-53539502b9dffc84",
   createdAt: "2026-10-17T19:44:40.481Z",
-  updatedAt: "2026-10-17T19:44:40.481Z",
+  updatedAt: "2026-10-17T21:17:15.449Z",
 } as const satisfies CharacterOther
