@@ -2,5 +2,5 @@
 {"beat":2,"event":"Shaestrel repeats 'more thoroughly' and calls it a fine word."}
 {"beat":3,"event":"She lets go of Nala's hand, takes the tape from her neck and loops it round her waist."}
 {"beat":4,"event":"Her knuckles rest on Nala's ribs as she reads the figure, head tipped."}
-{"beat":5,"event":"She says she has Nala's measure now as well."}
+{"beat":5,"event":"She says she has Nala's measure now as well.","memory":[{"page":"lore/thornford-shaestrel","fact":"She took Nala's waist measure with Nala's own tape on April 29, and said she has her measure now.","establishes":true},{"page":"lore/thornford-shaestrel","fact":"She took Nala's waist measure with Nala's own tape on April 29, and said she has her measure now.","learns":"character-player/thornford-nala"},{"page":"lore/thornford-shaestrel","fact":"She took Nala's waist measure with Nala's own tape on April 29, and said she has her measure now.","learns":"character-other/thornford-shaestrel"},{"page":"lore/thornford-shaestrel","fact":"She took Nala's waist measure with Nala's own tape on April 29, and said she has her measure now.","shown":true}]}
 {"beat":6,"event":"She says thoroughly can wait for the silk, and tucks the tape back round Nala's neck."}

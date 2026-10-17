@@ -80,7 +80,15 @@ export const thornfordShaestrel = {
         "character-other/thornford-shaestrel",
       ],
     },
+    {
+      fact: "She took Nala's waist measure with Nala's own tape on April 29, and said she has her measure now.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T20:36:43.997Z",
-  updatedAt: "2026-10-17T21:50:33.930Z",
+  updatedAt: "2026-10-17T21:51:00.785Z",
 } as const satisfies Lore
