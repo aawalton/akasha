@@ -113,6 +113,18 @@ export function replayed(opening: Scene, turns: readonly Played[]): Scene | Refu
   return state
 }
 
+export function thereIn(state: Scene, turn: Played): readonly string[] {
+  const there = new Set(state.present)
+  let now = state
+  for (const scene of turn.scenes) {
+    const next = stepped(now, scene, `beat ${scene.beat} of \`${turn.turn}\``)
+    if ("refused" in next) break
+    for (const one of next.present) there.add(one)
+    now = next
+  }
+  return [...there]
+}
+
 function listIn(value: unknown): readonly string[] | null {
   if (!Array.isArray(value)) return null
   return value.every((one) => typeof one === "string") ? value : null

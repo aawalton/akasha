@@ -120,6 +120,38 @@ test("only a game master's beats stating a scene reach the scenes at all", () =>
   expect(asked).toEqual(["asked"])
 })
 
+test("a roleplayed turn's cast reaches the scenes even where its beats state no scene", () => {
+  const asked: (readonly string[])[] = []
+  const scening = (...said: unknown[]) => {
+    asked.push(said[5] as readonly string[])
+    return { values: {}, namings: [] }
+  }
+  const held = { game: "saga", status: "game-master", lore: [], issues: [] } as const
+  const whole = { ...held, reviewedBy: [], recordedBy: [], written: false }
+  const told = { kind: "prose", prose: "Mara waits.", characters: [MARA] } as const
+  const handed = { kind: "beats", beats: ["Mara waits"], scenes: [], told } as const
+  expect(scenedOf(scening, "root", whole, TURN, handed)).toEqual({ values: {}, namings: [] })
+  expect(asked).toEqual([[MARA]])
+})
+
+test("someone in a turn's prose whom no beat of the story has there is refused", () => {
+  const nobody = scenesSettled([], TURN, ["x"], [], KNOWN, false, [MARA])
+  expect("refused" in nobody ? nobody.refused : "").toContain(
+    "`character-player/mara` is in this turn's prose, and no beat of the story has them there"
+  )
+  const earlier = scenesSettled([EARLIER], TURN, ["x"], [], KNOWN, false, [MARA, CERI])
+  expect(settled(earlier)).toEqual({ values: {}, namings: [] })
+  const arriving = scenesOf([
+    JSON.stringify({ event: "a", place: HALL, present: [MARA] }),
+    JSON.stringify({ event: "b", leave: [MARA], arrive: [CERI] }),
+  ])
+  const said = scenesSettled([], TURN, ["a", "b"], arriving, KNOWN, false, [MARA, CERI])
+  expect(settled(said).namings.map((one) => [one.slug, one.values])).toEqual([
+    ["mara", { place: HALL }],
+    ["ceri", { place: HALL }],
+  ])
+})
+
 test("each cached place is folded, and a refused fold refuses the whole", () => {
   const naming = { pageTypeSlug: "character-player", slug: "mara", merge: true, values: {} }
   const scened = { values: {}, namings: [naming, { ...naming, slug: "ceri" }] }

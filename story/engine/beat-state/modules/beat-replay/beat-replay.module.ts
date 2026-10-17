@@ -44,6 +44,11 @@ export const beatReplay = {
       statement: "Someone there before any beat has named a place is refused.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Who is there over a turn is everyone there as it opens or after any of its beats.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "A turn whose beats state no time ends at the time the turn states as its end.",
     },
@@ -53,5 +58,5 @@ export const beatReplay = {
     },
   ],
   createdAt: "2026-10-03T14:44:06.617Z",
-  updatedAt: "2026-10-17T21:22:22.903Z",
+  updatedAt: "2026-10-17T21:25:30.313Z",
 } as const satisfies Module

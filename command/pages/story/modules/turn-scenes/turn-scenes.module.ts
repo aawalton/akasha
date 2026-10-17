@@ -46,9 +46,18 @@ export const turnScenes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Beats stating no scene check and cache nothing.",
+      statement: "Beats stating no scene cache nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Everyone in a roleplayed turn's prose is there as the turn opens or at one of its beats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Someone in the prose whom no beat puts there refuses the advance.",
     },
   ],
   createdAt: "2026-10-03T14:59:19.243Z",
-  updatedAt: "2026-10-03T19:18:52.000Z",
+  updatedAt: "2026-10-17T21:25:30.313Z",
 } as const satisfies Module

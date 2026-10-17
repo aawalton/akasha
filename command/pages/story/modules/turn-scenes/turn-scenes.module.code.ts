@@ -21,6 +21,7 @@ import {
   OPENING,
   type Played,
   replayed,
+  thereIn,
   unnamedIn,
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { place } from "akasha/story/lore/place/place.page-type.ts"
@@ -91,7 +92,8 @@ export type Scening = (
   held: Held,
   turn: Turn,
   beats: readonly string[],
-  scenes: readonly BeatScene[]
+  scenes: readonly BeatScene[],
+  cast: readonly string[]
 ) => Scened | Refused
 
 function positionOf(value: Readonly<Record<string, unknown>>): number {
@@ -137,13 +139,16 @@ export function playedIn(story: readonly Paged[]): readonly Played[] | Refused {
   return played
 }
 
+const UNSCENED: Scened = { values: {}, namings: [] }
+
 export function scenesSettled(
   story: readonly Paged[],
   turn: Turn,
   beats: readonly string[],
   scenes: readonly BeatScene[],
   knowing: Knowing,
-  chapter: boolean
+  chapter: boolean,
+  cast: readonly string[] = []
 ): Scened | Refused {
   const unnamed = unnamedIn(scenes, knowing.character, knowing.place)
   if (unnamed !== null) return { refused: unnamed }
@@ -160,8 +165,17 @@ export function scenesSettled(
   if ("refused" in opening) {
     return { refused: `the story's beats before this one do not replay: ${opening.refused}` }
   }
-  const end = replayed(opening, [{ turn: turn.slug, beats, scenes }])
+  const played = { turn: turn.slug, beats, scenes }
+  const end = replayed(opening, [played])
   if ("refused" in end) return end
+  const there = thereIn(opening, played)
+  const away = cast.find((one) => !there.includes(one))
+  if (away !== undefined) {
+    return {
+      refused: `\`${away}\` is in this turn's prose, and no beat of the story has them there, so a beat states them in \`present\` or \`arrive\``,
+    }
+  }
+  if (scenes.length === 0) return UNSCENED
   const timed = !chapter && end.at !== null && scenes.some((one) => one.at !== undefined)
   const namings = Object.keys(end.placeOf).map(
     (one): Naming => ({
@@ -174,8 +188,6 @@ export function scenesSettled(
   return { values: timed ? { [ENDS_AT]: end.at } : {}, namings }
 }
 
-const UNSCENED: Scened = { values: {}, namings: [] }
-
 export function scenedOf(
   scening: Scening,
   root: string,
@@ -183,9 +195,11 @@ export function scenedOf(
   turn: Turn,
   handed: Handed
 ): Scened | Refused {
-  const scenes = handed.kind === "beats" ? (handed.scenes ?? []) : []
-  if (handed.kind !== "beats" || scenes.length === 0) return UNSCENED
-  return scening(root, held, turn, handed.beats, scenes)
+  if (handed.kind !== "beats") return UNSCENED
+  const scenes = handed.scenes ?? []
+  const cast = handed.told?.characters ?? []
+  if (scenes.length === 0 && cast.length === 0) return UNSCENED
+  return scening(root, held, turn, handed.beats, scenes, cast)
 }
 
 type Folding = (root: string, naming: Naming) => readonly Asking[] | Refused
@@ -237,7 +251,8 @@ export function scenesIndexed(
   held: Held,
   turn: Turn,
   beats: readonly string[],
-  scenes: readonly BeatScene[]
+  scenes: readonly BeatScene[],
+  cast: readonly string[]
 ): Scened | Refused {
   const admitted = admittedIndexed(root)
   const places = typesUnder(root, place.slug)
@@ -249,5 +264,5 @@ export function scenesIndexed(
   }
   const chapter = held.noun === CHAPTER
   const story = storyIndexed(root, held.game, chapter)
-  return scenesSettled(story, turn, beats, scenes, knowing, chapter)
+  return scenesSettled(story, turn, beats, scenes, knowing, chapter, cast)
 }
