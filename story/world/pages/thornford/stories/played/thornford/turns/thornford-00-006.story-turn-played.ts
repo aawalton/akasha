@@ -9,7 +9,7 @@ export const thornford00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/recorders",
   action: '"All right, I\'ll see you tomorrow Shaestrel." After she leaves, I get to work.',
   beats: "jsonl",
   lore: [
@@ -24,10 +24,10 @@ export const thornford00006 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
   roleplayed: true,
   createdAt: "2026-10-17T21:35:59.396Z",
-  updatedAt: "2026-10-17T21:37:42.854Z",
+  updatedAt: "2026-10-17T21:37:53.280Z",
   ownLength: 179,
   endsAt: "2026-04-28T22:45:00.000Z",
 } as const satisfies StoryTurnPlayed
