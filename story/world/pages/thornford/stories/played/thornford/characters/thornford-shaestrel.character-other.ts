@@ -8,7 +8,7 @@ export const thornfordShaestrel = {
   story: "story-played/thornford",
   place: "place/thornford-nalas-shop",
   persona: "persona/shaestrel",
-  cover: "image/image-9c54f09a03b860a3",
+  cover: "image/image-53539502b9dffc84",
   createdAt: "2026-10-17T19:44:40.481Z",
-  updatedAt: "2026-10-17T22:21:25.264Z",
+  updatedAt: "2026-10-17T22:21:47.307Z",
 } as const satisfies CharacterOther
