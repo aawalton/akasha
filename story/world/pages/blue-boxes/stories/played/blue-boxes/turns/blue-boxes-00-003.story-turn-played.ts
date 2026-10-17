@@ -9,9 +9,10 @@ export const blueBoxes00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/blue-boxes-nala", "character-other/blue-boxes-iris"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   action:
     "\"Oh. Isekai is the name of a type of story where someone gets transported to another world, often one with game-like mechanics. Since I saw that status page in front of me, I assume that's what happened to me. Either that or I've gone completely insane, and not much I can do about that. Um...but normally the System doesn't talk like a person...\"",
+  beats: "jsonl",
   lore: ["lore/the-dating-game-iris"],
   reviewedBy: [
     "story-reviewer/continuity",
@@ -21,7 +22,7 @@ export const blueBoxes00003 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T18:15:27.896Z",
-  updatedAt: "2026-10-17T18:16:19.216Z",
+  updatedAt: "2026-10-17T18:16:24.823Z",
   ownLength: 192,
   endsAt: "2026-10-17T16:49:00.000Z",
 } as const satisfies StoryTurnPlayed
