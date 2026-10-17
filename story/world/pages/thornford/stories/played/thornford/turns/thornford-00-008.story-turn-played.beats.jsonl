@@ -1,6 +1,6 @@
 {"beat":1,"event":"Nala tells her porridge is great and she means to make her look delicious, and winks."}
 {"beat":2,"event":"Shaestrel laughs, and says 'delicious' back slowly, as if tasting it."}
 {"beat":3,"event":"She hooks a finger in Nala's apron string and draws her a step closer."}
-{"beat":4,"event":"She tugs her shoulder cords, and her dress falls about her feet as birch leaves."}
+{"beat":4,"event":"She tugs her shoulder cords, and her dress falls about her feet as birch leaves.","memory":[{"page":"lore/thornford-shaestrel","fact":"Her pale green dress was glamour, and fell from her as fresh birch leaves.","shown":true}]}
 {"beat":5,"event":"She lifts the calico toile off its hook herself."}
 {"beat":6,"event":"She holds it out to Nala and tells her to dress her, then.","at":"2026-04-29T20:35:00.000Z"}
