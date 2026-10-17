@@ -2716,7 +2716,7 @@
     },
     "117": {
       "currentRank": 6,
-      "currentXP": 30,
+      "currentXP": 35,
       "nextRankXP": 40
     },
     "130": {
@@ -7475,6 +7475,7 @@
     5566,
     5570,
     5577,
+    5581,
     5582,
     5733,
     5735,
@@ -13690,7 +13691,7 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792253429,
+      "capturedAt": 1792254090,
       "inCombat": false,
       "stats": {
         "stamina-recovery": 1641,
