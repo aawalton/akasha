@@ -4,6 +4,7 @@ export const thornford00019 = {
   id: "01a14bf5-736b-78a6-8873-e1c9fc511a7c",
   type: "page-type/story-turn-played",
   slug: "thornford-00-019",
+  cover: "image/image-42b3a05712f934eb",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 19,
@@ -27,8 +28,9 @@ export const thornford00019 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "Then she sits down on the edge of your narrow bed and holds out her hand.",
   createdAt: "2026-10-17T22:22:19.498Z",
-  updatedAt: "2026-10-17T22:24:24.926Z",
+  updatedAt: "2026-10-17T22:24:50.268Z",
   ownLength: 288,
   endsAt: "2026-04-30T21:33:00.000Z",
 } as const satisfies StoryTurnPlayed
