@@ -4,6 +4,7 @@ export const thornford00010 = {
   id: "01a14bd6-c578-77a0-a108-c9a808a25405",
   type: "page-type/story-turn-played",
   slug: "thornford-00-010",
+  cover: "image/image-a08202f8bbffaea3",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 10,
@@ -26,8 +27,9 @@ export const thornford00010 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "She lets go of your hand and slides the tape from around your neck,",
   createdAt: "2026-10-17T21:48:48.887Z",
-  updatedAt: "2026-10-17T21:51:00.785Z",
+  updatedAt: "2026-10-17T21:52:38.989Z",
   ownLength: 87,
   endsAt: "2026-04-29T20:58:00.000Z",
 } as const satisfies StoryTurnPlayed
