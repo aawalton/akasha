@@ -25,6 +25,10 @@ export const thornfordFaeBargainsAndGlamour = {
       ],
     },
     {
+      fact: "Bread a fae brings was bought from a mortal baker, since no fae can bake it.",
+      knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
+    },
+    {
       fact: "Fae gold is glamour, and is leaves again by dawn.",
       knowers: [
         "lore-disclosure/game-master",
@@ -206,5 +210,5 @@ export const thornfordFaeBargainsAndGlamour = {
     },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T21:48:51.159Z",
+  updatedAt: "2026-10-17T21:59:23.358Z",
 } as const satisfies Lore
