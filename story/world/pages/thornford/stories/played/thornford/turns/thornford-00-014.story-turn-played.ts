@@ -9,7 +9,7 @@ export const thornford00014 = {
   position: 14,
   prose: "txt",
   characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/recorders",
   action: "I open the door and let her in, then get to work.",
   beats: "jsonl",
   lore: [
@@ -23,10 +23,10 @@ export const thornford00014 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
   roleplayed: true,
   createdAt: "2026-10-17T21:59:20.918Z",
-  updatedAt: "2026-10-17T22:04:40.149Z",
+  updatedAt: "2026-10-17T22:04:50.485Z",
   ownLength: 293,
   endsAt: "2026-04-30T20:50:00.000Z",
 } as const satisfies StoryTurnPlayed
