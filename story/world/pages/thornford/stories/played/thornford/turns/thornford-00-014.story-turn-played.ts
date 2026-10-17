@@ -23,10 +23,10 @@ export const thornford00014 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
   roleplayed: true,
   createdAt: "2026-10-17T21:59:20.918Z",
-  updatedAt: "2026-10-17T22:04:29.833Z",
+  updatedAt: "2026-10-17T22:04:40.149Z",
   ownLength: 293,
   endsAt: "2026-04-30T20:50:00.000Z",
 } as const satisfies StoryTurnPlayed
