@@ -4,8 +4,7 @@ export const roleplayRecorder = {
   id: "01a14ab2-b79f-73ea-83ec-e89c61df70d0",
   type: "page-type/role",
   slug: "roleplay-recorder",
-  definition:
-    "an agent that records each turn a roleplay seat narrated, from its beats to its numbers",
+  definition: "an agent that records the numbers and memory of each turn a roleplay seat narrated",
   onCall: false,
   decisions: [
     {
@@ -14,11 +13,11 @@ export const roleplayRecorder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn reaches this role at game-master, holding Alan's action and the prose.",
+      statement: "A turn reaches this role after game-master, holding its beats and its prose.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role hands in the turn's beats, drawn from that action and that prose.",
+      statement: "This role hands in no beats; the roleplay seat writes them with the prose.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -36,7 +35,7 @@ export const roleplayRecorder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This role sends each fault mechanics finds to the roleplay seat as a correction.",
+      statement: "A fault this role finds at mechanics sends the turn back to the roleplay seat.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -44,17 +43,6 @@ export const roleplayRecorder = {
     },
   ],
   directives: [
-    {
-      directiveKind: "directive-kind/rule",
-      name: "Beats From The Prose",
-      act: "At game-master, hand in beats holding what the turn's action and prose tell, and no more.",
-      warrant: "Alan has read the prose already, so a beat it does not hold is canon nobody read.",
-      aids: [
-        "Hand them in with `akasha story turn advance --turn <turn> --beats-file <file>`.",
-        "A notice at game-master after mechanics names its issues: send the fault, then mend.",
-        "The prose is never yours to change.",
-      ],
-    },
     {
       directiveKind: "directive-kind/rule",
       name: "Work Every Job",
@@ -69,7 +57,7 @@ export const roleplayRecorder = {
     {
       directiveKind: "directive-kind/rule",
       name: "Keep Pace",
-      act: "Hand in each turn's beats as soon as its notice reaches you, oldest turn first.",
+      act: "Work each turn's jobs as soon as its notice reaches you, oldest turn first.",
       warrant:
         "Alan may play the next turn before this one is recorded, so a slow record trails him.",
       aids: ["The sheets change only once a turn reaches player."],
@@ -77,23 +65,20 @@ export const roleplayRecorder = {
     {
       directiveKind: "directive-kind/rule",
       name: "Brackets Are No Play",
-      act: "Never make a paragraph in square brackets into a beat.",
+      act: "Never record a paragraph in square brackets as play.",
       warrant:
         "A bracketed paragraph is out of character, and landed as play it becomes canon nobody played.",
       aids: ["A bracketed correction from the roleplay seat changes what you land after it."],
     },
     {
       directiveKind: "directive-kind/rule",
-      name: "Send The Fault",
-      act: "Send the roleplay seat each fault mechanics finds in a turn you landed, as one line naming the fix.",
+      name: "Fault As Issue",
+      act: "Hand in each fault you find at mechanics as one line of `--issues-file`, naming the fix.",
       warrant:
-        "The roleplay seat narrates from its own tally, so a fault it is not sent is narrated on.",
-      aids: [
-        "Send with `akasha seat send --to <the roleplay seat>`.",
-        "Say what is true now, not how mechanics found it.",
-      ],
+        "The issue sends the turn back to the roleplay seat, which mends its beats and its tally from it.",
+      aids: ["Say what is true now, not how mechanics found it."],
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T18:38:14.691Z",
+  updatedAt: "2026-10-17T20:53:33.106Z",
 } as const satisfies Role
