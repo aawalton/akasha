@@ -31,6 +31,18 @@ export const blueBoxesFallenWayshrine = {
       fact: "Nala comes to at the plinth's foot on a mid-autumn afternoon, in what she wore to bed.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The System names the spot 'Wayshrine (fallen), Tallowmere Hills'.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The wind there carries sheep, wet grass and woodsmoke from the town below.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Clearing it takes an afternoon's work; an offering may be bread, a flower or a candle.",
+      knowers: ["lore-disclosure/game-master", "character-other/blue-boxes-iris"],
+    },
   ],
   exits: [
     {
@@ -40,5 +52,5 @@ export const blueBoxesFallenWayshrine = {
     },
   ],
   createdAt: "2026-10-17T17:26:51.488Z",
-  updatedAt: "2026-10-17T17:26:51.488Z",
+  updatedAt: "2026-10-17T17:41:40.409Z",
 } as const satisfies Place

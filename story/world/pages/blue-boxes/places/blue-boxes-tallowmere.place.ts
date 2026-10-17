@@ -19,6 +19,26 @@ export const blueBoxesTallowmere = {
       fact: "Townsfolk call the System a thing, never a someone; talking back to it is a sign of fever.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the hill it shows as walls, a river shining like a ribbon, and a hundred chimneys.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The gate bell rings once an hour before dusk; the gates shut at full dark and open at dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The north gate faces the sheep track; its warden asks a stranger's name and business.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The autumn fair runs this week, so every inn bed is taken and the town stays loud late.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A stranger with no coin may sleep on the temple porch or in the guild hall's common room.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   exits: [
     {
@@ -28,5 +48,5 @@ export const blueBoxesTallowmere = {
     },
   ],
   createdAt: "2026-10-17T17:26:51.488Z",
-  updatedAt: "2026-10-17T17:26:51.488Z",
+  updatedAt: "2026-10-17T17:41:40.409Z",
 } as const satisfies Place
