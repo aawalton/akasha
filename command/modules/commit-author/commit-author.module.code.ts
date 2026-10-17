@@ -3,10 +3,8 @@ import { pageTextOf } from "akasha/agent/seat/modules/page-values/seat-page-valu
 import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import {
-  displayNameOf,
-  personaAt,
-} from "akasha/persona/modules/reading/persona-reading.module.code.ts"
+import { displayNameOf } from "akasha/persona/modules/display-name/persona-display-name.module.code.ts"
+import { personaAt } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
 
 const PERSONA_SLUG_KEY = "persona-slug"
 

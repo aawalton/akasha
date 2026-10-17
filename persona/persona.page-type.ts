@@ -96,6 +96,7 @@ export const persona = {
     "number-property/points-before-today",
     "number-property/points-today",
     "number-property/points-total",
+    "module/persona-display-name",
   ],
   properties: [
     { pageProperty: "text-property/purpose", required: false, many: false },
@@ -236,5 +237,5 @@ export const persona = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T14:54:58.893Z",
-  updatedAt: "2026-10-09T00:03:57.755Z",
+  updatedAt: "2026-10-17T18:21:02.975Z",
 } as const satisfies PageType

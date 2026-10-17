@@ -30,13 +30,9 @@ export const personaReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A display name is the slug with its first letter upper case.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A last message time longer than twenty-four characters is refused.",
     },
   ],
   createdAt: "2026-09-03T22:00:32.640Z",
-  updatedAt: "2026-09-15T18:37:21.000Z",
+  updatedAt: "2026-10-17T18:21:02.975Z",
 } as const satisfies Module

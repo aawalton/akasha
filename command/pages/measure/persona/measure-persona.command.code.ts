@@ -15,10 +15,8 @@ import {
 import { measurePersona as page } from "akasha/command/pages/measure/persona/measure-persona.command.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { levelOf } from "akasha/persona/closeness-level/modules/climbing/closeness-level-climbing.computed-property-module.code.ts"
-import {
-  displayNameOf,
-  personasStanding,
-} from "akasha/persona/modules/reading/persona-reading.module.code.ts"
+import { displayNameOf } from "akasha/persona/modules/display-name/persona-display-name.module.code.ts"
+import { personasStanding } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
 import { pointsTotalKept } from "akasha/persona/point/modules/persona-points-keeping/persona-points-keeping.module.code.ts"
 
 const CLOSENESS_LEVEL = "closeness-level"

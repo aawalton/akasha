@@ -2606,6 +2606,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/sms-consent/sms-consent.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"persona/modules/display-name/persona-display-name.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"persona/modules/reading/persona-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"persona/modules/targets/persona-targets.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"persona/modules/wallpaper-order/wallpaper-order.module.ts","typed":true,"deferred":false}
