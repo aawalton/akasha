@@ -9,7 +9,17 @@ export const thornford00001 = {
   unit: "unit/words",
   prose: "txt",
   characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
+  beats: "jsonl",
+  lore: [
+    "lore/thornford-dressmakers-guild",
+    "lore/thornford-fae-bargains-and-glamour",
+    "lore/thornford-grey-green-silk",
+    "lore/thornford-morag-bain",
+    "place/thornford-nalas-shop",
+    "place/thornford-town",
+    "place/thornford-weavers-row",
+  ],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
@@ -18,6 +28,6 @@ export const thornford00001 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T20:00:37.445Z",
-  updatedAt: "2026-10-17T20:04:45.234Z",
+  updatedAt: "2026-10-17T20:05:21.971Z",
   endsAt: "2026-04-28T18:04:00.000Z",
 } as const satisfies StoryTurnPlayed
