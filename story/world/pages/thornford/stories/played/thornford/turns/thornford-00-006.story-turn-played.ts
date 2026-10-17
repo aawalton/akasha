@@ -4,6 +4,7 @@ export const thornford00006 = {
   id: "01a14bcb-07a5-7118-9514-c81f7b730e51",
   type: "page-type/story-turn-played",
   slug: "thornford-00-006",
+  cover: "image/image-e2cbbb71575e2da7",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 6,
@@ -31,8 +32,9 @@ export const thornford00006 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "By the time it hangs from the hook on the back-room door,",
   createdAt: "2026-10-17T21:35:59.396Z",
-  updatedAt: "2026-10-17T21:38:15.698Z",
+  updatedAt: "2026-10-17T21:40:43.669Z",
   ownLength: 179,
   endsAt: "2026-04-28T22:45:00.000Z",
 } as const satisfies StoryTurnPlayed
