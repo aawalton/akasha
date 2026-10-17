@@ -75646,7 +75646,7 @@
       "name": "Corpseburster",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 14,
+      "slotsUnlocked": 15,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75747,7 +75747,7 @@
         },
         {
           "name": "Corpseburster Axe",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Corpseburster Mace",
@@ -75952,7 +75952,7 @@
       "name": "Beacon of Oblivion",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Sorcerer",
-      "slotsUnlocked": 16,
+      "slotsUnlocked": 17,
       "totalSlots": 36,
       "pieces": [
         {
@@ -76041,7 +76041,7 @@
         },
         {
           "name": "Beacon of Oblivion Amulet",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Beacon of Oblivion Ring",
