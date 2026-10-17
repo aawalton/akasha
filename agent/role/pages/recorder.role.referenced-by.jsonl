@@ -1,2 +1,3 @@
 {"propertySlug":"import","fileName":"recorder.role.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/akasha-recorder/akasha-recorder.seat.ts","id":"01a149a5-33b5-7000-829c-6293af956cb4"}
