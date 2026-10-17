@@ -26,6 +26,24 @@ export const limiting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A legs day's limit is the limit times the legs factor the selection policy states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A legs day moved its limit only where that day moved its multiplied limit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The rise and the fall move the limit itself, so the legs factor reaches no day but a legs day.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day's focus is the one the schedule names for that day's weekday.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A week that reached its limit on no day lowers the limit by the fall.",
     },
     {
@@ -49,6 +67,6 @@ export const limiting = {
       statement: "A set naming a movement this does not know moves the weight it states alone.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:39.680Z",
+  updatedAt: "2026-10-17T12:32:23.782Z",
   createdAt: "2026-09-21T13:42:03.180Z",
 } as const satisfies Module
