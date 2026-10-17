@@ -48,5 +48,6 @@ export const thornford0001ABargainAfterClosing = {
   endsAt: "2026-04-28T22:45:00.000Z",
   outcomes: "jsonl",
   createdAt: "2026-10-17T21:43:41.215Z",
-  updatedAt: "2026-10-17T21:43:41.215Z",
+  updatedAt: "2026-10-17T21:45:12.398Z",
+  ownProgress: 1256,
 } as const satisfies StoryChapterPlayed
