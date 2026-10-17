@@ -7,11 +7,11 @@ export const thornfordRoleplayIllustrator = {
   persona: "persona/claude",
   assignmentSlug: "story-played/thornford",
   role: "role/roleplay-illustrator",
-  principalSeatName: "seat/awen",
+  principalSeatName: "seat/shaestrel-roleplay-thornford",
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "cbfb738d-6bdb-48da-a1a4-6430626f7c68",
   createdAt: "2026-10-17T21:09:21.437Z",
-  updatedAt: "2026-10-17T21:09:24.737Z",
+  updatedAt: "2026-10-17T21:17:31.927Z",
 } as const satisfies Seat
