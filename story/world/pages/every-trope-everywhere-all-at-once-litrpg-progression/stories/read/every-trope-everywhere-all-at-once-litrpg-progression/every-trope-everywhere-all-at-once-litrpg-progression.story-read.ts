@@ -15,7 +15,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression = {
     },
   ],
   author: "WritingMonocle",
-  publicationStatus: "ongoing",
+  publicationStatus: "hiatus",
   externalTags: [
     "LitRPG",
     "Reincarnation",
@@ -33,5 +33,5 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression = {
   unit: "unit/words",
   prose: "txt",
   createdAt: "2026-09-03T04:18:50.402Z",
-  updatedAt: "2026-09-19T12:03:55.000Z",
+  updatedAt: "2026-10-17T02:06:53.896Z",
 } as const satisfies StoryRead
