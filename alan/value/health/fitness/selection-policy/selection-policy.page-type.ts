@@ -17,6 +17,7 @@ export const selectionPolicy = {
     "number-property/volume-limit-fall",
     "calendar-date-property/volume-limit-from",
     "number-property/legs-volume-limit-factor",
+    "calendar-date-property/legs-volume-limit-factor-from",
   ],
   properties: [
     { pageProperty: "number-property/weekly-set-floor", required: true, many: false },
@@ -33,6 +34,12 @@ export const selectionPolicy = {
       required: true,
       many: false,
       default: 2,
+    },
+    {
+      pageProperty: "calendar-date-property/legs-volume-limit-factor-from",
+      required: true,
+      many: false,
+      default: "2026-10-18",
     },
   ],
   decisions: [
@@ -61,6 +68,6 @@ export const selectionPolicy = {
   ],
   types: "ts",
   schema: "jsonl",
-  updatedAt: "2026-10-17T12:30:23.466Z",
+  updatedAt: "2026-10-17T12:33:08.402Z",
   createdAt: "2026-09-03T17:02:07.005Z",
 } as const satisfies PageType

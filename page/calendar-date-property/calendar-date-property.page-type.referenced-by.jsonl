@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/movement-restriction/properties/tested-again.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/properties/fitness-coaching-note-date.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/properties/mobility-reading-date.calendar-date-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/legs-volume-limit-factor-from.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/volume-limit-from.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/strength/decline/properties/decline-date.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/exercise-last-synced-at.calendar-date-property.ts","typed":true,"deferred":false}

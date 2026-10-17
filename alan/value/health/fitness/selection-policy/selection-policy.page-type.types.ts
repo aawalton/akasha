@@ -1,4 +1,5 @@
 import type { LegsVolumeLimitFactor } from "akasha/alan/value/health/fitness/selection-policy/properties/legs-volume-limit-factor.number-property.types.ts"
+import type { LegsVolumeLimitFactorFrom } from "akasha/alan/value/health/fitness/selection-policy/properties/legs-volume-limit-factor-from.calendar-date-property.types.ts"
 import type { NearFailureRpeFloor } from "akasha/alan/value/health/fitness/selection-policy/properties/near-failure-rpe-floor.number-property.types.ts"
 import type { SecondsHoldingStretch } from "akasha/alan/value/health/fitness/selection-policy/properties/seconds-holding-stretch.number-property.types.ts"
 import type { StretchesCoolingDown } from "akasha/alan/value/health/fitness/selection-policy/properties/stretches-cooling-down.number-property.types.ts"
@@ -21,4 +22,5 @@ export type SelectionPolicy = Page & {
   volumeLimitFall: VolumeLimitFall
   volumeLimitFrom: VolumeLimitFrom
   legsVolumeLimitFactor: LegsVolumeLimitFactor
+  legsVolumeLimitFactorFrom: LegsVolumeLimitFactorFrom
 }
