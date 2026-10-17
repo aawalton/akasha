@@ -9,8 +9,9 @@ export const thornford00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/mechanics",
   action: '"Deal"',
+  beats: "jsonl",
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
@@ -19,7 +20,7 @@ export const thornford00003 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T20:32:49.969Z",
-  updatedAt: "2026-10-17T20:33:39.512Z",
+  updatedAt: "2026-10-17T20:34:17.053Z",
   ownLength: 107,
   endsAt: "2026-04-28T18:09:00.000Z",
 } as const satisfies StoryTurnPlayed
