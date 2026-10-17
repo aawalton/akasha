@@ -7,9 +7,12 @@ export const blueBoxes00004 = {
   unit: "unit/words",
   partOfCollections: ["story-played/blue-boxes"],
   position: 4,
-  stepStatus: "step-status/world-builder",
+  prose: "txt",
+  characters: ["character-player/blue-boxes-nala", "character-other/blue-boxes-iris"],
+  stepStatus: "step-status/game-master",
   action:
     '"Umm, if the windows are only supposed to be for facts, how are you using them to talk to me?"',
+  lore: ["lore/the-dating-game-iris"],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
@@ -18,5 +21,6 @@ export const blueBoxes00004 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T18:29:27.509Z",
-  updatedAt: "2026-10-17T18:29:27.509Z",
+  updatedAt: "2026-10-17T18:30:08.781Z",
+  ownLength: 121,
 } as const satisfies StoryTurnPlayed
