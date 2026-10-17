@@ -25,6 +25,14 @@ export const thornfordFaeBargainsAndGlamour = {
       ],
     },
     {
+      fact: "Fae gold is glamour, and is leaves again by dawn.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
       fact: "A thing made by mortal hands stays what it is after dawn.",
       knowers: [
         "lore-disclosure/game-master",
@@ -174,5 +182,5 @@ export const thornfordFaeBargainsAndGlamour = {
     },
   ],
   createdAt: "2026-10-17T19:45:09.021Z",
-  updatedAt: "2026-10-17T20:34:47.766Z",
+  updatedAt: "2026-10-17T20:36:43.997Z",
 } as const satisfies Lore
