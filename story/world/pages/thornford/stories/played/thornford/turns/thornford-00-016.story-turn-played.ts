@@ -4,6 +4,7 @@ export const thornford00016 = {
   id: "01a14be9-7aea-778d-86dc-9c51a0c22fcb",
   type: "page-type/story-turn-played",
   slug: "thornford-00-016",
+  cover: "image/image-2a6ce3429b198b18",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 16,
@@ -27,8 +28,9 @@ export const thornford00016 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "She stays where she is, in your arms, her finger still resting on your mouth.",
   createdAt: "2026-10-17T22:09:14.986Z",
-  updatedAt: "2026-10-17T22:11:25.148Z",
+  updatedAt: "2026-10-17T22:14:59.742Z",
   ownLength: 112,
   endsAt: "2026-04-30T21:20:00.000Z",
 } as const satisfies StoryTurnPlayed
