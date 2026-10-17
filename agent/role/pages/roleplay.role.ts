@@ -232,6 +232,7 @@ export const roleplay = {
         "A scene takes one turn or many, as long as each turn ends needing his intent.",
         "A line or two of talk, then room to answer.",
         "A description may run long.",
+        "Never skip ahead in time out of a scene he is still playing.",
       ],
     },
     {
@@ -316,5 +317,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T22:19:21.563Z",
+  updatedAt: "2026-10-17T22:19:36.773Z",
 } as const satisfies Role
