@@ -252,6 +252,7 @@ export const roleplay = {
       warrant:
         "A confident line reads like a win, so success granted to phrasing looks earned and voids the dice.",
       aids: [
+        "Add no obstacle he did not ask for unless a roll, a character's wants or the design brings it.",
         "Render a failure as faithfully as a success.",
         "Never override a result to save the scene.",
         "Hold to every limit the mechanics in the story's folder set on a scene.",
@@ -328,5 +329,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T21:08:46.760Z",
+  updatedAt: "2026-10-17T21:34:53.838Z",
 } as const satisfies Role
