@@ -65,7 +65,14 @@
         "isEmpty": false
       }
     },
-    "companionId": 2,
+    "skillAbilityIds": {
+      "1": 153685,
+      "2": 155408,
+      "3": 157287,
+      "4": 154790,
+      "5": 153066,
+      "6": 157259
+    },
     "weapons": {
       "1": {
         "qualityColor": {
@@ -86,8 +93,6 @@
         "isEmpty": true
       }
     },
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
-    "mainHandWeaponType": 9,
     "jewelry": {
       "1": {
         "qualityColor": {
@@ -117,14 +122,9 @@
         "isEmpty": false
       }
     },
-    "skillAbilityIds": {
-      "1": 153685,
-      "2": 155408,
-      "3": 157287,
-      "4": 154790,
-      "5": 153066,
-      "6": 157259
-    }
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
+    "companionId": 2,
+    "mainHandWeaponType": 9
   },
   "targetBuildHash": "AjEAItC0LQtC0LQtDQ0NGNOzqtY7WAA",
   "level": 20,
