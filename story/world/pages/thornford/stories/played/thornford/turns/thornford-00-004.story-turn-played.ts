@@ -7,9 +7,12 @@ export const thornford00004 = {
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 4,
-  stepStatus: "step-status/world-builder",
+  prose: "txt",
+  characters: ["character-player/thornford-nala", "character-other/thornford-shaestrel"],
+  stepStatus: "step-status/game-master",
   action:
     '"Of course, but this is silk, I would never make a dress from this that was less than my best work. I\'ll need you to strip so I can take accurate measurements. This gown must fit you perfectly."',
+  lore: ["lore/thornford-grey-green-silk", "lore/thornford-tam-rennie", "place/thornford-town"],
   reviewedBy: [
     "story-reviewer/continuity",
     "story-reviewer/holdings",
@@ -18,6 +21,7 @@ export const thornford00004 = {
   ],
   roleplayed: true,
   createdAt: "2026-10-17T20:34:53.596Z",
-  updatedAt: "2026-10-17T20:35:40.077Z",
+  updatedAt: "2026-10-17T20:35:49.515Z",
+  ownLength: 274,
   endsAt: "2026-04-28T18:26:00.000Z",
 } as const satisfies StoryTurnPlayed
