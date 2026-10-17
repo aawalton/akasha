@@ -2513,6 +2513,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-stopping/turn-stopping.module.ts","id":"01a10379-5458-7738-9f07-cb33b988ed32"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-undoing/turn-undoing.module.ts","id":"01a0eb43-9f26-7bfc-ac55-cea726e9c622"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-written/turn-written.module.ts","id":"01a0e578-bd91-705f-b288-1755136c1268"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/open/story-turn-open.command.ts","id":"01a14b7c-a3e9-7c54-81b7-94193a4457a1"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/picture/story-turn-picture.command.ts","id":"01a106f8-d29d-7c1f-b833-eb571240be41"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/record/story-turn-record.command.ts","id":"01a0e98f-b822-7949-98b6-d204ffd0a478"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/rewind/story-turn-rewind.command.ts","id":"01a0def9-1803-7531-bfb1-9a23ccb84b63"}

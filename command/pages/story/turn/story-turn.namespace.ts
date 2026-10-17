@@ -8,6 +8,7 @@ export const storyTurn = {
   parts: [
     "command/story-turn-advance",
     "command/story-turn-cancel",
+    "command/story-turn-open",
     "command/story-turn-rewind",
     "command/story-turn-take-back",
     "module/turn-keeping",
@@ -29,5 +30,5 @@ export const storyTurn = {
   ],
   name: "turn",
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-17T17:58:43.890Z",
+  updatedAt: "2026-10-17T20:10:22.056Z",
 } as const satisfies Namespace
