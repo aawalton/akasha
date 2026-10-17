@@ -53,6 +53,11 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A roleplayed turn's move starts no seat, and its roleplay-recorder is sent each job instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A game master's scenes land with the end time and places they cache.",
     },
     {
@@ -229,5 +234,5 @@ export const storyTurnAdvance = {
     { argument: "argument/title" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-17T18:03:18.509Z",
+  updatedAt: "2026-10-17T18:37:42.830Z",
 } as const satisfies Command

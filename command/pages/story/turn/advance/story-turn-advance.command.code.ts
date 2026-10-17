@@ -321,13 +321,14 @@ async function heldOn(
   if (renamed !== null) report.push(`renamed\t${now.at}`)
   const after: Told = { report, faults: [] }
   if (unkept !== null) after.faults.push(`the folded edits stay beside the turn: ${unkept}`)
+  const roleplayed = held.roleplayed === true
   if (said.status !== held.status) {
     const crossed = crossedOn(reach, given.root, read, held, turn)
-    const roleplayed = held.roleplayed === true
-    const stepped = { from: held.status, status: said.status, crossed, roleplayed }
+    const { starts } = said
+    const stepped = { from: held.status, status: said.status, crossed, roleplayed, starts }
     await noticesOver(reach, given.root, at, stepped, after)
   }
-  await seatsStarted(reach, at, said.starts, done, after)
+  if (!roleplayed) await seatsStarted(reach, at, said.starts, done, after)
   if (after.faults.length === 0) return told(after.report)
   return answeredWith(after.report, after.faults, OPERATIONAL)
 }

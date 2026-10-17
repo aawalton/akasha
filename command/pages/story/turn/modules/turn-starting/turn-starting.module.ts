@@ -14,6 +14,10 @@ export const turnStarting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A job's prompt is the same whether a started seat or a notice carries it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A seat that does not start is told to the game's game master and to Alan.",
     },
     {
@@ -30,5 +34,5 @@ export const turnStarting = {
     },
   ],
   createdAt: "2026-09-30T06:40:34.869Z",
-  updatedAt: "2026-09-30T06:40:40.000Z",
+  updatedAt: "2026-10-17T18:37:42.830Z",
 } as const satisfies Module

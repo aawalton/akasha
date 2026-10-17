@@ -7,13 +7,17 @@ import {
   type Told,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { readyTold } from "akasha/command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.code.ts"
-import type { Context } from "akasha/command/pages/story/turn/modules/turn-starting/turn-starting.module.code.ts"
+import {
+  type Context,
+  jobOf,
+} from "akasha/command/pages/story/turn/modules/turn-starting/turn-starting.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   bareOf,
   type Noun,
   noticeOf,
   type Repair,
+  type Start,
   TURN,
   type TurnStep,
   WORLD_BUILDER,
@@ -22,6 +26,11 @@ import {
 const ROLE_STATED = "role-slug"
 
 const GAME_STATED = "domain-slug"
+
+const JOBS_OPENING =
+  "No seat is started for this step: do each job below yourself, in its order, one advance each."
+
+const JOB_BREAK = "\n\n---\n\n"
 
 export type Roleplaying = (game: string, role: string) => readonly string[]
 
@@ -42,6 +51,12 @@ export type Telling = {
   readonly status: TurnStep
   readonly noun?: Noun | undefined
   readonly repairs?: readonly Repair[] | undefined
+  readonly jobs?: readonly string[] | undefined
+}
+
+function jobsSaid(said: string, jobs: readonly string[]): string {
+  if (jobs.length === 0) return said
+  return `${said}\n\n${JOBS_OPENING}${JOB_BREAK}${jobs.join(JOB_BREAK)}`
 }
 
 export async function roleplayTold(
@@ -64,8 +79,9 @@ export async function roleplayTold(
   }
   const builders = told ? seatsOf(telling.game, roleplayWorldbuilder.slug) : []
   const said = noticeOf(telling.turn, telling.status, [], noun, telling.repairs ?? [])
+  const asked = jobsSaid(said, telling.jobs ?? [])
   for (const to of [...recorders, ...builders]) {
-    const why = await reach.notify(to, said)
+    const why = await reach.notify(to, recorders.includes(to) ? asked : said)
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the ${noun} moved: ${why}`)
   }
@@ -77,6 +93,16 @@ export type Moving = {
   readonly status: TurnStep
   readonly crossed: string
   readonly roleplayed: boolean
+  readonly starts: readonly Start[]
+}
+
+function jobsOf(at: Context, starts: readonly Start[], after: Told): readonly string[] {
+  return starts.flatMap((start) => {
+    const job = jobOf(start, at)
+    if (typeof job !== "string") return [job.prompt]
+    after.faults.push(job)
+    return []
+  })
 }
 
 export async function noticesOver(
@@ -92,7 +118,8 @@ export async function noticesOver(
   const { game } = at
   const { from, status, crossed } = moving
   if (moving.roleplayed) {
-    await roleplayTold(reach, { root, game, turn, from, status, noun, repairs }, after)
+    const jobs = jobsOf(at, moving.starts, after)
+    await roleplayTold(reach, { root, game, turn, from, status, noun, repairs, jobs }, after)
     return undefined
   }
   await noticesSent(reach, root, game, master, turn, status, after, lore, noun, crossed, repairs)

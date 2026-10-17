@@ -52,6 +52,39 @@ test("a roleplayed turn's move is told to each roleplay-recorder seat of its sto
   expect(after.faults).toEqual([])
 })
 
+test("a roleplayed turn's notice carries each job of its step to the roleplay-recorder alone", async () => {
+  const sent: string[] = []
+  const after: Told = { report: [], faults: [] }
+  const telling = {
+    root: "/r",
+    game: "the-saga",
+    turn: AT,
+    from: GAME_MASTER,
+    status: MECHANICS,
+    jobs: ["the first job", "the second job"],
+  }
+  await roleplayTold(notifying(sent, []), telling, after, seatsOf)
+  const notice = `The turn \`${AT}\` is at mechanics.`
+  expect(sent).toHaveLength(1)
+  expect(sent[0]).toStartWith(`${RECORDER}: ${notice}\n\n`)
+  expect(sent[0]).toEndWith("the first job\n\n---\n\nthe second job")
+})
+
+test("the roleplay-worldbuilder's notice carries no job", async () => {
+  const sent: string[] = []
+  const after: Told = { report: [], faults: [] }
+  const telling = {
+    root: "/r",
+    game: "the-saga",
+    turn: AT,
+    from: WORLD_BUILDER,
+    status: GAME_MASTER,
+    jobs: ["a job"],
+  }
+  await roleplayTold(notifying(sent, []), telling, after, seatsOf)
+  expect(sent).toContain(`${BUILDER}: The turn \`${AT}\` is at game-master.`)
+})
+
 test("a roleplayed turn leaving world-builder pushes Alan that it is ready", async () => {
   const sent: string[] = []
   const pushed: string[] = []

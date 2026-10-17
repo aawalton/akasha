@@ -20,6 +20,15 @@ export const turnRoleplayTelling = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A roleplay-recorder's notice carries the job of each seat the step would have started.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A roleplay-worldbuilder's notice carries no job.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "No game master, world builder or writer seat is told of a roleplayed turn's move.",
     },
     {
@@ -41,5 +50,5 @@ export const turnRoleplayTelling = {
     },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-17T18:03:18.509Z",
+  updatedAt: "2026-10-17T18:37:42.830Z",
 } as const satisfies Module

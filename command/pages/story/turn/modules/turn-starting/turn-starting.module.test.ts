@@ -12,6 +12,7 @@ import type {
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import {
   type Context,
+  jobOf,
   seatsStarted,
   unstartedSaid,
 } from "akasha/command/pages/story/turn/modules/turn-starting/turn-starting.module.code.ts"
@@ -84,6 +85,18 @@ test("seats that are up and are sent their jobs tell nobody, and the answer says
   expect(alerts).toEqual([])
   expect(after.faults).toEqual([])
   expect(after.report).toEqual(["sent\treviewer-flex-1", "sent\treviewer-flex-2"])
+})
+
+test("a mechanics job is the mechanics prompt of the recorder it names", () => {
+  const at = {
+    ...AT_REVIEWERS,
+    recorders: [{ slug: "ledger", name: "Ledger", at: "l.ts", instructionsAt: "l.md" }],
+  }
+  const job = jobOf({ kind: "mechanics", recorder: "ledger" }, at)
+  if (typeof job === "string") throw new Error(job)
+  expect(job.prompt).toContain("You are the Ledger story recorder at the mechanics step")
+  expect(job.prompt).toContain("--recorder ledger")
+  expect(jobOf({ kind: "recorder", recorder: "absent" }, at)).toContain("is no story recorder page")
 })
 
 test("a telling that fails is named in the answer", async () => {
