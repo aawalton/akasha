@@ -24,31 +24,7 @@ export const thornfordGreyGreenSilk = {
       fact: "The bolt holds enough silk for one gown, with about an arm's length to spare.",
       knowers: ["lore-disclosure/game-master", "character-other/thornford-shaestrel"],
     },
-    {
-      fact: "The silk shrinks from cold iron: a steel needle will not pierce it on a day the sun does not show.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "On a day the sun shows, a steel needle passes through the silk as through any silk.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A needle of bone, silver or thorn passes through the silk on any day.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A bone needle passes the silk but leaves a mark in it unless the needle is filed fine.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A blackthorn thorn passes the silk but snaps after a few stitches.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Shaestrel does not know the silk balks at steel; the fae sew with thorn and bone.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T20:35:39.136Z",
+  updatedAt: "2026-10-17T21:32:04.640Z",
 } as const satisfies Lore
