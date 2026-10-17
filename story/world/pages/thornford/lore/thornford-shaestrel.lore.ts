@@ -120,7 +120,15 @@ export const thornfordShaestrel = {
         "character-other/thornford-shaestrel",
       ],
     },
+    {
+      fact: "She lay with Nala in her bed on the night of April 30, and promised to show her the ford.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
   ],
   createdAt: "2026-10-17T20:36:43.997Z",
-  updatedAt: "2026-10-17T22:14:30.808Z",
+  updatedAt: "2026-10-17T22:18:58.529Z",
 } as const satisfies Lore
