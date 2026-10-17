@@ -14,7 +14,7 @@ export const explicitness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every seat of a story naming this domain obeys Name The Act, No Refusal and Unframed from arousal.",
+        "Every seat of a story naming this domain or its part obeys Name The Act, No Refusal and Unframed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -77,5 +77,5 @@ export const explicitness = {
     },
   ],
   createdAt: "2026-10-17T20:49:32.057Z",
-  updatedAt: "2026-10-17T20:51:47.400Z",
+  updatedAt: "2026-10-17T20:52:07.276Z",
 } as const satisfies Domain
