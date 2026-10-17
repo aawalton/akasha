@@ -7464,6 +7464,8 @@
     5531,
     5532,
     5534,
+    5535,
+    5537,
     5543,
     5545,
     5549,
@@ -13684,7 +13686,7 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792250342,
+      "capturedAt": 1792251360,
       "inCombat": false,
       "stats": {
         "stamina-recovery": 1641,
@@ -13722,13 +13724,6 @@
       },
       "activeBuffs": [
         {
-          "abilityId": 43752,
-          "name": "Soul Summons",
-          "description": "· Once per hour, you can resurrect without the need for a soul gem",
-          "effect": "",
-          "stacks": 0
-        },
-        {
           "abilityId": 63569,
           "name": "Gallop",
           "description": "",
@@ -13743,10 +13738,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61667,
-          "name": "Major Savagery",
+          "abilityId": 61665,
+          "name": "Major Brutality",
           "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
         },
         {
@@ -13757,10 +13752,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
+          "abilityId": 61667,
+          "name": "Major Savagery",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
           "stacks": 0
         },
         {
@@ -13769,6 +13764,13 @@
           "description": "",
           "effect": "You are heavily corrupted from the influence of Vampirism.\n\nHealth Recovery: -60%\nFlame Damage Taken: +13%\nRegular Ability Costs: +8%\nVampire Ability Costs: -16%\n",
           "stacks": 0
+        },
+        {
+          "abilityId": 122587,
+          "name": "Relentless Focus",
+          "description": "",
+          "effect": "",
+          "stacks": 2
         }
       ],
       "championPoints": [
@@ -14329,7 +14331,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:205386:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:0:0:1:0:9300:0|h|h",
+          "link": "|H0:item:205386:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:0:0:1:0:9200:0|h|h",
           "armor": 1221,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14345,7 +14347,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:4550:0|h|h",
+          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:4450:0|h|h",
           "armor": 2012,
           "enchant": "Adds |cffffff802|r Maximum Stamina.",
           "trait": "Reduces the cost of Roll Dodge and Sprint by |cffffff4.8|r%.",
