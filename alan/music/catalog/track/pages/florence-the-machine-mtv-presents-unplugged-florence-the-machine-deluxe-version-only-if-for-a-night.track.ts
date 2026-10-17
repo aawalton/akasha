@@ -6,12 +6,12 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersi
     type: "page-type/track",
     slug: "florence-the-machine-mtv-presents-unplugged-florence-the-machine-deluxe-version-only-if-for-a-night",
     ownLength: 5.089766666666667,
-    ownProgress: 0,
+    ownProgress: 5.089766666666667,
     partOfCollections: [
       "release/florence-the-machine-mtv-presents-unplugged-florence-the-machine-deluxe-version",
       "release/florence-the-machine-mtv-presents-unplugged-florence-the-machine",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Only If For A Night - MTV Unplugged, 2012 / Live",
     trackType: "live",
@@ -37,5 +37,5 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersi
       },
     ],
     createdAt: "2026-10-17T13:48:50.850Z",
-    updatedAt: "2026-10-17T13:48:50.850Z",
+    updatedAt: "2026-10-17T14:00:54.619Z",
   } as const satisfies Track

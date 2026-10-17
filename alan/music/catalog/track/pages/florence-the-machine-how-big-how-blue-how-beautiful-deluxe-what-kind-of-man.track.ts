@@ -5,12 +5,12 @@ export const florenceTheMachineHowBigHowBlueHowBeautifulDeluxeWhatKindOfMan = {
   type: "page-type/track",
   slug: "florence-the-machine-how-big-how-blue-how-beautiful-deluxe-what-kind-of-man",
   ownLength: 3.6029333333333335,
-  ownProgress: 0,
+  ownProgress: 3.6029333333333335,
   partOfCollections: [
     "release/florence-the-machine-how-big-how-blue-how-beautiful-deluxe",
     "release/florence-the-machine-how-big-how-blue-how-beautiful",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "What Kind Of Man",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineHowBigHowBlueHowBeautifulDeluxeWhatKindOfMan = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

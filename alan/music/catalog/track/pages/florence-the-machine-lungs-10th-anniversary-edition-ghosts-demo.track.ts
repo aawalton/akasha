@@ -5,9 +5,9 @@ export const florenceTheMachineLungs10thAnniversaryEditionGhostsDemo = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-ghosts-demo",
   ownLength: 2.95755,
-  ownProgress: 0,
+  ownProgress: 2.95755,
   partOfCollections: ["release/florence-the-machine-lungs-10th-anniversary-edition"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Ghosts - Demo",
   trackType: "demo",
@@ -25,5 +25,5 @@ export const florenceTheMachineLungs10thAnniversaryEditionGhostsDemo = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

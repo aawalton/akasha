@@ -5,12 +5,12 @@ export const florenceTheMachineSayMyNameExtendedRemixSayMyNameRemix = {
   type: "page-type/track",
   slug: "florence-the-machine-say-my-name-extended-remix-say-my-name-remix",
   ownLength: 2.8,
-  ownProgress: 0,
+  ownProgress: 2.8,
   partOfCollections: [
     "release/florence-the-machine-say-my-name-extended-remix",
     "release/florence-the-machine-say-my-name-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Say My Name - Remix",
   trackType: "remix",
@@ -35,5 +35,5 @@ export const florenceTheMachineSayMyNameExtendedRemixSayMyNameRemix = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

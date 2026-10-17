@@ -5,13 +5,13 @@ export const florenceTheMachineDanceFeverCompleteEditionPrayerFactory = {
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-complete-edition-prayer-factory",
   ownLength: 1.2241666666666666,
-  ownProgress: 0,
+  ownProgress: 1.2241666666666666,
   partOfCollections: [
     "release/florence-the-machine-dance-fever-complete-edition",
     "release/florence-the-machine-dance-fever-deluxe",
     "release/florence-the-machine-dance-fever",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Prayer Factory",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const florenceTheMachineDanceFeverCompleteEditionPrayerFactory = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

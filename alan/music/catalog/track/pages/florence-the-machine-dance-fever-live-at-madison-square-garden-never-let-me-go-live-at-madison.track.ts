@@ -5,9 +5,9 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenNeverLetMeGoLi
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-live-at-madison-square-garden-never-let-me-go-live-at-madison",
   ownLength: 6.546683333333333,
-  ownProgress: 0,
+  ownProgress: 6.546683333333333,
   partOfCollections: ["release/florence-the-machine-dance-fever-live-at-madison-square-garden"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Never Let Me Go - Live At Madison Square Garden",
   trackType: "live",
@@ -25,5 +25,5 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenNeverLetMeGoLi
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

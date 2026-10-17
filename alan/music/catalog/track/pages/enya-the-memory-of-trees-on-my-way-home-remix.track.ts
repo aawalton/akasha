@@ -5,9 +5,9 @@ export const enyaTheMemoryOfTreesOnMyWayHomeRemix = {
   type: "page-type/track",
   slug: "enya-the-memory-of-trees-on-my-way-home-remix",
   ownLength: 5.1768833333333335,
-  ownProgress: 0,
+  ownProgress: 5.1768833333333335,
   partOfCollections: ["release/enya-the-memory-of-trees"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "On My Way Home - Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const enyaTheMemoryOfTreesOnMyWayHomeRemix = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

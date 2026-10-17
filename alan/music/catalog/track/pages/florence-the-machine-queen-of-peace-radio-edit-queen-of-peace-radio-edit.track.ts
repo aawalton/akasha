@@ -5,9 +5,9 @@ export const florenceTheMachineQueenOfPeaceRadioEditQueenOfPeaceRadioEdit = {
   type: "page-type/track",
   slug: "florence-the-machine-queen-of-peace-radio-edit-queen-of-peace-radio-edit",
   ownLength: 3.8201833333333335,
-  ownProgress: 0,
+  ownProgress: 3.8201833333333335,
   partOfCollections: ["release/florence-the-machine-queen-of-peace-radio-edit"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Queen Of Peace - Radio Edit",
   trackType: "version",
@@ -25,5 +25,5 @@ export const florenceTheMachineQueenOfPeaceRadioEditQueenOfPeaceRadioEdit = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

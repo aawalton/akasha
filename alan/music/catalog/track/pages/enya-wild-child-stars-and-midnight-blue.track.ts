@@ -5,9 +5,9 @@ export const enyaWildChildStarsAndMidnightBlue = {
   type: "page-type/track",
   slug: "enya-wild-child-stars-and-midnight-blue",
   ownLength: 2.1277666666666666,
-  ownProgress: 0,
+  ownProgress: 2.1277666666666666,
   partOfCollections: ["release/enya-wild-child"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Stars and Midnight Blue",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaWildChildStarsAndMidnightBlue = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

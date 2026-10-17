@@ -5,12 +5,12 @@ export const florenceTheMachineEverybodyScreamChamberVersionOneOfTheGreats = {
   type: "page-type/track",
   slug: "florence-the-machine-everybody-scream-chamber-version-one-of-the-greats",
   ownLength: 6.534966666666667,
-  ownProgress: 0,
+  ownProgress: 6.534966666666667,
   partOfCollections: [
     "release/florence-the-machine-everybody-scream-chamber-version",
     "release/florence-the-machine-everybody-scream",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "One of the Greats",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineEverybodyScreamChamberVersionOneOfTheGreats = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

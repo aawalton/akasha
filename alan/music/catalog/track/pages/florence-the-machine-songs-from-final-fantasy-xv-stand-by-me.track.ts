@@ -5,9 +5,9 @@ export const florenceTheMachineSongsFromFinalFantasyXvStandByMe = {
   type: "page-type/track",
   slug: "florence-the-machine-songs-from-final-fantasy-xv-stand-by-me",
   ownLength: 4.096333333333333,
-  ownProgress: 0,
+  ownProgress: 4.096333333333333,
   partOfCollections: ["release/florence-the-machine-songs-from-final-fantasy-xv"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Stand By Me",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineSongsFromFinalFantasyXvStandByMe = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

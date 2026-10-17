@@ -5,9 +5,9 @@ export const enyaCloudsLothlorien = {
   type: "page-type/track",
   slug: "enya-clouds-lothlorien",
   ownLength: 2.1348833333333332,
-  ownProgress: 0,
+  ownProgress: 2.1348833333333332,
   partOfCollections: ["release/enya-clouds"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Lothlórien",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaCloudsLothlorien = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

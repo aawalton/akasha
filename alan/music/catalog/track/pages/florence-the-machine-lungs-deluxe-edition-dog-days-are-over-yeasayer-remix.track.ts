@@ -5,9 +5,9 @@ export const florenceTheMachineLungsDeluxeEditionDogDaysAreOverYeasayerRemix = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-deluxe-edition-dog-days-are-over-yeasayer-remix",
   ownLength: 4.2584333333333335,
-  ownProgress: 0,
+  ownProgress: 4.2584333333333335,
   partOfCollections: ["release/florence-the-machine-lungs-deluxe-edition"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Dog Days Are Over - Yeasayer Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const florenceTheMachineLungsDeluxeEditionDogDaysAreOverYeasayerRemix = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

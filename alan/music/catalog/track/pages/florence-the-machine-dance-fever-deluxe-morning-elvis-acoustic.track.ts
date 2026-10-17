@@ -5,9 +5,9 @@ export const florenceTheMachineDanceFeverDeluxeMorningElvisAcoustic = {
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-deluxe-morning-elvis-acoustic",
   ownLength: 3.880716666666667,
-  ownProgress: 0,
+  ownProgress: 3.880716666666667,
   partOfCollections: ["release/florence-the-machine-dance-fever-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Morning Elvis - Acoustic",
   trackType: "acoustic",
@@ -25,5 +25,5 @@ export const florenceTheMachineDanceFeverDeluxeMorningElvisAcoustic = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

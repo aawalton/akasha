@@ -5,9 +5,9 @@ export const enyaAndWinterCameMiraculum = {
   type: "page-type/track",
   slug: "enya-and-winter-came-miraculum",
   ownLength: 3.89615,
-  ownProgress: 0,
+  ownProgress: 3.89615,
   partOfCollections: ["release/enya-and-winter-came"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Miraculum",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaAndWinterCameMiraculum = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

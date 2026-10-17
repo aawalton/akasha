@@ -5,9 +5,9 @@ export const enyaMayItBeIsobella = {
   type: "page-type/track",
   slug: "enya-may-it-be-isobella",
   ownLength: 4.454,
-  ownProgress: 0,
+  ownProgress: 4.454,
   partOfCollections: ["release/enya-may-it-be"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Isobella",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaMayItBeIsobella = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

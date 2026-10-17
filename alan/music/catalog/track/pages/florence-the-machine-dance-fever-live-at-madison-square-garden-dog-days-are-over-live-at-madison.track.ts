@@ -5,9 +5,9 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenDogDaysAreOver
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-live-at-madison-square-garden-dog-days-are-over-live-at-madison",
   ownLength: 4.947983333333333,
-  ownProgress: 0,
+  ownProgress: 4.947983333333333,
   partOfCollections: ["release/florence-the-machine-dance-fever-live-at-madison-square-garden"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Dog Days Are Over - Live At Madison Square Garden",
   trackType: "live",
@@ -25,5 +25,5 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenDogDaysAreOver
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,12 +5,12 @@ export const florenceTheMachineDanceFeverCompleteEditionMyLovePoemVersion = {
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-complete-edition-my-love-poem-version",
   ownLength: 2.8676166666666667,
-  ownProgress: 0,
+  ownProgress: 2.8676166666666667,
   partOfCollections: [
     "release/florence-the-machine-dance-fever-complete-edition",
     "release/florence-the-machine-dance-fever-poem-versions",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "My Love - Poem Version",
   trackType: "version",
@@ -35,5 +35,5 @@ export const florenceTheMachineDanceFeverCompleteEditionMyLovePoemVersion = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

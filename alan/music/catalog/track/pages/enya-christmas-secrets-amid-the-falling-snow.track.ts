@@ -5,13 +5,13 @@ export const enyaChristmasSecretsAmidTheFallingSnow = {
   type: "page-type/track",
   slug: "enya-christmas-secrets-amid-the-falling-snow",
   ownLength: 3.6351,
-  ownProgress: 0,
+  ownProgress: 3.6351,
   partOfCollections: [
     "release/enya-christmas-secrets",
     "release/enya-amarantine-2",
     "release/enya-amarantine-christmas-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Amid the Falling Snow",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const enyaChristmasSecretsAmidTheFallingSnow = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

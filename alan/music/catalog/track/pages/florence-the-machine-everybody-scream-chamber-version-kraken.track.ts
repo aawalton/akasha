@@ -5,12 +5,12 @@ export const florenceTheMachineEverybodyScreamChamberVersionKraken = {
   type: "page-type/track",
   slug: "florence-the-machine-everybody-scream-chamber-version-kraken",
   ownLength: 3.8356,
-  ownProgress: 0,
+  ownProgress: 3.8356,
   partOfCollections: [
     "release/florence-the-machine-everybody-scream-chamber-version",
     "release/florence-the-machine-everybody-scream",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Kraken",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineEverybodyScreamChamberVersionKraken = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const enyaThemesFromCalmiCuoriAppassionatiAnywhereIs = {
   type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-anywhere-is",
   ownLength: 3.744883333333333,
-  ownProgress: 0,
+  ownProgress: 3.744883333333333,
   partOfCollections: ["release/enya-themes-from-calmi-cuori-appassionati", "release/enya-oceans"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Anywhere Is",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const enyaThemesFromCalmiCuoriAppassionatiAnywhereIs = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

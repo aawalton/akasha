@@ -5,12 +5,12 @@ export const florenceTheMachineHowBigHowBlueHowBeautifulDeluxeLongLost = {
   type: "page-type/track",
   slug: "florence-the-machine-how-big-how-blue-how-beautiful-deluxe-long-lost",
   ownLength: 3.25135,
-  ownProgress: 0,
+  ownProgress: 3.25135,
   partOfCollections: [
     "release/florence-the-machine-how-big-how-blue-how-beautiful-deluxe",
     "release/florence-the-machine-how-big-how-blue-how-beautiful",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Long & Lost",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineHowBigHowBlueHowBeautifulDeluxeLongLost = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

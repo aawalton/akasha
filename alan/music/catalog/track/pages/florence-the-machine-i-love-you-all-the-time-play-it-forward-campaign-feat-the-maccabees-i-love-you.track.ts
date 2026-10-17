@@ -5,11 +5,11 @@ export const florenceTheMachineILoveYouAllTheTimePlayItForwardCampaignFeatTheMac
   type: "page-type/track",
   slug: "florence-the-machine-i-love-you-all-the-time-play-it-forward-campaign-feat-the-maccabees-i-love-you",
   ownLength: 3.31015,
-  ownProgress: 0,
+  ownProgress: 3.31015,
   partOfCollections: [
     "release/florence-the-machine-i-love-you-all-the-time-play-it-forward-campaign-feat-the-maccabees",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Love You All the Time (Play It Forward Campaign) [feat. The Maccabees]",
   trackType: "studio",
@@ -29,5 +29,5 @@ export const florenceTheMachineILoveYouAllTheTimePlayItForwardCampaignFeatTheMac
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

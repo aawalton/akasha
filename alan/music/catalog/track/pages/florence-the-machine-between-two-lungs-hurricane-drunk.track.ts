@@ -5,12 +5,12 @@ export const florenceTheMachineBetweenTwoLungsHurricaneDrunk = {
   type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-hurricane-drunk",
   ownLength: 3.2224333333333335,
-  ownProgress: 0,
+  ownProgress: 3.2224333333333335,
   partOfCollections: [
     "release/florence-the-machine-between-two-lungs",
     "release/florence-the-machine-lungs",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Hurricane Drunk",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineBetweenTwoLungsHurricaneDrunk = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

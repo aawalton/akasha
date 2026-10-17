@@ -5,9 +5,9 @@ export const enyaTheCelts2ToGoBeyondI = {
   type: "page-type/track",
   slug: "enya-the-celts-2-to-go-beyond-i",
   ownLength: 1.36,
-  ownProgress: 0,
+  ownProgress: 1.36,
   partOfCollections: ["release/enya-the-celts-2"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "To Go Beyond (I)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaTheCelts2ToGoBeyondI = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

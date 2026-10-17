@@ -5,9 +5,9 @@ export const florenceTheMachineBetweenTwoLungsStrangenessAndCharmLiveFromHammers
   type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-strangeness-and-charm-live-from-hammersmith-apollo-2010",
   ownLength: 5.82155,
-  ownProgress: 0,
+  ownProgress: 5.82155,
   partOfCollections: ["release/florence-the-machine-between-two-lungs"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Strangeness And Charm - Live From Hammersmith Apollo / 2010",
   trackType: "live",
@@ -25,5 +25,5 @@ export const florenceTheMachineBetweenTwoLungsStrangenessAndCharmLiveFromHammers
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

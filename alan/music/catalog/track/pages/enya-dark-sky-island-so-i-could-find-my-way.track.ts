@@ -5,9 +5,9 @@ export const enyaDarkSkyIslandSoICouldFindMyWay = {
   type: "page-type/track",
   slug: "enya-dark-sky-island-so-i-could-find-my-way",
   ownLength: 4.432666666666667,
-  ownProgress: 0,
+  ownProgress: 4.432666666666667,
   partOfCollections: ["release/enya-dark-sky-island", "release/enya-dark-sky-island-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "So I Could Find My Way",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const enyaDarkSkyIslandSoICouldFindMyWay = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

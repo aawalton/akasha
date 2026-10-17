@@ -5,9 +5,9 @@ export const enyaWildChildSongOfTheSandmanLullaby = {
   type: "page-type/track",
   slug: "enya-wild-child-song-of-the-sandman-lullaby",
   ownLength: 3.6611,
-  ownProgress: 0,
+  ownProgress: 3.6611,
   partOfCollections: ["release/enya-wild-child"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Song of the Sandman (Lullaby)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaWildChildSongOfTheSandmanLullaby = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const enyaStarsLaSonadora = {
   type: "page-type/track",
   slug: "enya-stars-la-sonadora",
   ownLength: 3.576,
-  ownProgress: 0,
+  ownProgress: 3.576,
   partOfCollections: ["release/enya-stars"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "La Soñadora",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaStarsLaSonadora = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

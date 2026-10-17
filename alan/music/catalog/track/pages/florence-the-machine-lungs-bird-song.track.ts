@@ -5,9 +5,9 @@ export const florenceTheMachineLungsBirdSong = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-bird-song",
   ownLength: 2.926,
-  ownProgress: 0,
+  ownProgress: 2.926,
   partOfCollections: ["release/florence-the-machine-lungs"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Bird Song",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineLungsBirdSong = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

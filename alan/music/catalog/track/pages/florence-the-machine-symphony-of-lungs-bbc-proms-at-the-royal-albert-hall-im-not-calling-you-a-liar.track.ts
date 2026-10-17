@@ -5,11 +5,11 @@ export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHallImNotC
   type: "page-type/track",
   slug: "florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall-im-not-calling-you-a-liar",
   ownLength: 3.5950333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5950333333333333,
   partOfCollections: [
     "release/florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I’m Not Calling You A Liar - BBC Proms at the Royal Albert Hall",
   trackType: "studio",
@@ -28,5 +28,5 @@ export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHallImNotC
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

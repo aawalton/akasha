@@ -5,9 +5,9 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenShipToWreckLiv
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-live-at-madison-square-garden-ship-to-wreck-live-at-madison-square",
   ownLength: 4.2245333333333335,
-  ownProgress: 0,
+  ownProgress: 4.2245333333333335,
   partOfCollections: ["release/florence-the-machine-dance-fever-live-at-madison-square-garden"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Ship To Wreck - Live At Madison Square Garden",
   trackType: "live",
@@ -25,5 +25,5 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenShipToWreckLiv
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

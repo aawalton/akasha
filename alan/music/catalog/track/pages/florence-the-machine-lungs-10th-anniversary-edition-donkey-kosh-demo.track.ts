@@ -5,12 +5,12 @@ export const florenceTheMachineLungs10thAnniversaryEditionDonkeyKoshDemo = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-donkey-kosh-demo",
   ownLength: 2.9433333333333334,
-  ownProgress: 0,
+  ownProgress: 2.9433333333333334,
   partOfCollections: [
     "release/florence-the-machine-lungs-10th-anniversary-edition",
     "release/florence-the-machine-donkey-kosh-demo",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Donkey Kosh - Demo",
   trackType: "demo",
@@ -35,5 +35,5 @@ export const florenceTheMachineLungs10thAnniversaryEditionDonkeyKoshDemo = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const enyaAmarantineAmarantine = {
   type: "page-type/track",
   slug: "enya-amarantine-amarantine",
   ownLength: 3.124433333333333,
-  ownProgress: 0,
+  ownProgress: 3.124433333333333,
   partOfCollections: ["release/enya-amarantine"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Amarantine",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaAmarantineAmarantine = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

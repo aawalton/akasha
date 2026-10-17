@@ -5,9 +5,9 @@ export const enyaCloudsFromWhereIAm = {
   type: "page-type/track",
   slug: "enya-clouds-from-where-i-am",
   ownLength: 2.3633333333333333,
-  ownProgress: 0,
+  ownProgress: 2.3633333333333333,
   partOfCollections: ["release/enya-clouds"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "From Where I Am",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaCloudsFromWhereIAm = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

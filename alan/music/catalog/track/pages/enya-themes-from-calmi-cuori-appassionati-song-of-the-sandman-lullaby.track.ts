@@ -5,9 +5,9 @@ export const enyaThemesFromCalmiCuoriAppassionatiSongOfTheSandmanLullaby = {
   type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-song-of-the-sandman-lullaby",
   ownLength: 3.6999833333333334,
-  ownProgress: 0,
+  ownProgress: 3.6999833333333334,
   partOfCollections: ["release/enya-themes-from-calmi-cuori-appassionati"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Song of the Sandman (Lullaby)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaThemesFromCalmiCuoriAppassionatiSongOfTheSandmanLullaby = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

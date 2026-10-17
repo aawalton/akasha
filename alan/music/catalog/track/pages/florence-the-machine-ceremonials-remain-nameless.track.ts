@@ -5,9 +5,9 @@ export const florenceTheMachineCeremonialsRemainNameless = {
   type: "page-type/track",
   slug: "florence-the-machine-ceremonials-remain-nameless",
   ownLength: 4.018433333333333,
-  ownProgress: 0,
+  ownProgress: 4.018433333333333,
   partOfCollections: ["release/florence-the-machine-ceremonials"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Remain Nameless",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineCeremonialsRemainNameless = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

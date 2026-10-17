@@ -5,9 +5,9 @@ export const florenceTheMachineALotOfLoveALotOfBlood2DogDaysAreOverOptimoEspacio
   type: "page-type/track",
   slug: "florence-the-machine-a-lot-of-love-a-lot-of-blood-2-dog-days-are-over-optimo-espacio-mix",
   ownLength: 6.7248833333333335,
-  ownProgress: 0,
+  ownProgress: 6.7248833333333335,
   partOfCollections: ["release/florence-the-machine-a-lot-of-love-a-lot-of-blood-2"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Dog Days Are over (Optimo Espacio Mix)",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const florenceTheMachineALotOfLoveALotOfBlood2DogDaysAreOverOptimoEspacio
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

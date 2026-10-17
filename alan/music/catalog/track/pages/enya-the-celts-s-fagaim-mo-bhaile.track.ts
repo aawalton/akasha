@@ -5,9 +5,9 @@ export const enyaTheCeltsSFagaimMoBhaile = {
   type: "page-type/track",
   slug: "enya-the-celts-s-fagaim-mo-bhaile",
   ownLength: 3.989333333333333,
-  ownProgress: 0,
+  ownProgress: 3.989333333333333,
   partOfCollections: ["release/enya-the-celts"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "'S fagaim mo bhaile",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaTheCeltsSFagaimMoBhaile = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

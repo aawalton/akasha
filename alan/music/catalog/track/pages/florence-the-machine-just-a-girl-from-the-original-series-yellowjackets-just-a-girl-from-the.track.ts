@@ -5,11 +5,11 @@ export const florenceTheMachineJustAGirlFromTheOriginalSeriesYellowjacketsJustAG
   type: "page-type/track",
   slug: "florence-the-machine-just-a-girl-from-the-original-series-yellowjackets-just-a-girl-from-the",
   ownLength: 4.5804833333333335,
-  ownProgress: 0,
+  ownProgress: 4.5804833333333335,
   partOfCollections: [
     "release/florence-the-machine-just-a-girl-from-the-original-series-yellowjackets",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Just A Girl - From The Original Series “Yellowjackets”",
   trackType: "studio",
@@ -27,5 +27,5 @@ export const florenceTheMachineJustAGirlFromTheOriginalSeriesYellowjacketsJustAG
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

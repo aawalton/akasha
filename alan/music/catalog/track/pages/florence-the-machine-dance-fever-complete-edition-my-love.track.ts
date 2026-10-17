@@ -5,14 +5,14 @@ export const florenceTheMachineDanceFeverCompleteEditionMyLove = {
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-complete-edition-my-love",
   ownLength: 3.8568,
-  ownProgress: 0,
+  ownProgress: 3.8568,
   partOfCollections: [
     "release/florence-the-machine-dance-fever-complete-edition",
     "release/florence-the-machine-dance-fever-deluxe",
     "release/florence-the-machine-dance-fever",
     "release/florence-the-machine-my-love",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "My Love",
   trackType: "studio",
@@ -51,5 +51,5 @@ export const florenceTheMachineDanceFeverCompleteEditionMyLove = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

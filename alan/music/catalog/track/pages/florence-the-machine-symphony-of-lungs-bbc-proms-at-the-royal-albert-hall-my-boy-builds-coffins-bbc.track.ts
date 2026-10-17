@@ -5,11 +5,11 @@ export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHallMyBoyB
   type: "page-type/track",
   slug: "florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall-my-boy-builds-coffins-bbc",
   ownLength: 3.23565,
-  ownProgress: 0,
+  ownProgress: 3.23565,
   partOfCollections: [
     "release/florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "My Boy Builds Coffins - BBC Proms at the Royal Albert Hall",
   trackType: "studio",
@@ -28,5 +28,5 @@ export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHallMyBoyB
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,12 +5,12 @@ export const florenceTheMachineBetweenTwoLungsCosmicLove = {
   type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-cosmic-love",
   ownLength: 4.2651,
-  ownProgress: 0,
+  ownProgress: 4.2651,
   partOfCollections: [
     "release/florence-the-machine-between-two-lungs",
     "release/florence-the-machine-lungs",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Cosmic Love",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineBetweenTwoLungsCosmicLove = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

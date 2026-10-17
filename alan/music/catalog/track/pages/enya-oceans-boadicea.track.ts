@@ -5,9 +5,9 @@ export const enyaOceansBoadicea = {
   type: "page-type/track",
   slug: "enya-oceans-boadicea",
   ownLength: 3.4617666666666667,
-  ownProgress: 0,
+  ownProgress: 3.4617666666666667,
   partOfCollections: ["release/enya-oceans"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Boadicea",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaOceansBoadicea = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

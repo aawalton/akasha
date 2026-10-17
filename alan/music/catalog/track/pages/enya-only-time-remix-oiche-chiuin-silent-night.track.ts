@@ -5,9 +5,9 @@ export const enyaOnlyTimeRemixOicheChiuinSilentNight = {
   type: "page-type/track",
   slug: "enya-only-time-remix-oiche-chiuin-silent-night",
   ownLength: 3.8044333333333333,
-  ownProgress: 0,
+  ownProgress: 3.8044333333333333,
   partOfCollections: ["release/enya-only-time-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Oíche Chiúin (Silent Night)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaOnlyTimeRemixOicheChiuinSilentNight = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const enyaChristmasSecretsOicheChiuinSilentNight = {
   type: "page-type/track",
   slug: "enya-christmas-secrets-oiche-chiuin-silent-night",
   ownLength: 3.76555,
-  ownProgress: 0,
+  ownProgress: 3.76555,
   partOfCollections: ["release/enya-christmas-secrets"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Oíche Chiúin (Silent Night)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaChristmasSecretsOicheChiuinSilentNight = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

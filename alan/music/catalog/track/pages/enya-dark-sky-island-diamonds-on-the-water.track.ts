@@ -5,9 +5,9 @@ export const enyaDarkSkyIslandDiamondsOnTheWater = {
   type: "page-type/track",
   slug: "enya-dark-sky-island-diamonds-on-the-water",
   ownLength: 3.5897666666666668,
-  ownProgress: 0,
+  ownProgress: 3.5897666666666668,
   partOfCollections: ["release/enya-dark-sky-island", "release/enya-dark-sky-island-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Diamonds on the Water",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const enyaDarkSkyIslandDiamondsOnTheWater = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

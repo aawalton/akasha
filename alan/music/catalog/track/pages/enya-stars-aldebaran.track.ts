@@ -5,9 +5,9 @@ export const enyaStarsAldebaran = {
   type: "page-type/track",
   slug: "enya-stars-aldebaran",
   ownLength: 3.0933333333333333,
-  ownProgress: 0,
+  ownProgress: 3.0933333333333333,
   partOfCollections: ["release/enya-stars"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Aldebaran",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaStarsAldebaran = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

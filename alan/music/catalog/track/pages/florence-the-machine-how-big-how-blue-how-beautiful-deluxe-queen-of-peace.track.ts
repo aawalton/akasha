@@ -5,12 +5,12 @@ export const florenceTheMachineHowBigHowBlueHowBeautifulDeluxeQueenOfPeace = {
   type: "page-type/track",
   slug: "florence-the-machine-how-big-how-blue-how-beautiful-deluxe-queen-of-peace",
   ownLength: 5.12245,
-  ownProgress: 0,
+  ownProgress: 5.12245,
   partOfCollections: [
     "release/florence-the-machine-how-big-how-blue-how-beautiful-deluxe",
     "release/florence-the-machine-how-big-how-blue-how-beautiful",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Queen Of Peace",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineHowBigHowBlueHowBeautifulDeluxeQueenOfPeace = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

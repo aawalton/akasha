@@ -5,9 +5,9 @@ export const enyaThemesFromCalmiCuoriAppassionatiOnceYouHadGold = {
   type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-once-you-had-gold",
   ownLength: 3.3077666666666667,
-  ownProgress: 0,
+  ownProgress: 3.3077666666666667,
   partOfCollections: ["release/enya-themes-from-calmi-cuori-appassionati"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Once You Had Gold",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaThemesFromCalmiCuoriAppassionatiOnceYouHadGold = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

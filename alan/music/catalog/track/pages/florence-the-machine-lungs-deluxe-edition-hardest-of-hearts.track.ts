@@ -5,9 +5,9 @@ export const florenceTheMachineLungsDeluxeEditionHardestOfHearts = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-deluxe-edition-hardest-of-hearts",
   ownLength: 3.4662166666666665,
-  ownProgress: 0,
+  ownProgress: 3.4662166666666665,
   partOfCollections: ["release/florence-the-machine-lungs-deluxe-edition"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Hardest Of Hearts",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineLungsDeluxeEditionHardestOfHearts = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

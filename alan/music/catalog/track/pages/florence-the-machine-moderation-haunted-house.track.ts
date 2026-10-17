@@ -5,9 +5,9 @@ export const florenceTheMachineModerationHauntedHouse = {
   type: "page-type/track",
   slug: "florence-the-machine-moderation-haunted-house",
   ownLength: 1.89655,
-  ownProgress: 0,
+  ownProgress: 1.89655,
   partOfCollections: ["release/florence-the-machine-moderation"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Haunted House",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineModerationHauntedHouse = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

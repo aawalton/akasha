@@ -5,9 +5,9 @@ export const florenceTheMachineFreeTheBlessedMadonnaRemixFreeTheBlessedMadonnaRe
   type: "page-type/track",
   slug: "florence-the-machine-free-the-blessed-madonna-remix-free-the-blessed-madonna-remix",
   ownLength: 4.3962,
-  ownProgress: 0,
+  ownProgress: 4.3962,
   partOfCollections: ["release/florence-the-machine-free-the-blessed-madonna-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Free - The Blessed Madonna Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const florenceTheMachineFreeTheBlessedMadonnaRemixFreeTheBlessedMadonnaRe
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const enyaAmarantine2ItsInTheRain = {
   type: "page-type/track",
   slug: "enya-amarantine-2-its-in-the-rain",
   ownLength: 4.1333166666666665,
-  ownProgress: 0,
+  ownProgress: 4.1333166666666665,
   partOfCollections: ["release/enya-amarantine-2", "release/enya-amarantine-christmas-edition"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "It's in the Rain",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const enyaAmarantine2ItsInTheRain = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

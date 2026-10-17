@@ -5,13 +5,13 @@ export const florenceTheMachineBetweenTwoLungsDrummingSong = {
   type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-drumming-song",
   ownLength: 3.7304333333333335,
-  ownProgress: 0,
+  ownProgress: 3.7304333333333335,
   partOfCollections: [
     "release/florence-the-machine-between-two-lungs",
     "release/florence-the-machine-lungs",
     "release/florence-the-machine-drumming-song",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Drumming Song",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const florenceTheMachineBetweenTwoLungsDrummingSong = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

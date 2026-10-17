@@ -5,13 +5,13 @@ export const enyaWatermark2009RemasterStormsInAfricaPtIi2009Remaster = {
   type: "page-type/track",
   slug: "enya-watermark-2009-remaster-storms-in-africa-pt-ii-2009-remaster",
   ownLength: 3.0782166666666666,
-  ownProgress: 0,
+  ownProgress: 3.0782166666666666,
   partOfCollections: [
     "release/enya-watermark-2009-remaster",
     "release/enya-caribbean-blue",
     "release/enya-storms-in-africa-pt-ii-2009-remaster",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Storms in Africa (Pt. II) - 2009 Remaster",
   trackType: "remaster",
@@ -43,5 +43,5 @@ export const enyaWatermark2009RemasterStormsInAfricaPtIi2009Remaster = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

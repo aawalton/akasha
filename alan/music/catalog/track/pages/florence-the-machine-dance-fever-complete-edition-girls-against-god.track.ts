@@ -5,13 +5,13 @@ export const florenceTheMachineDanceFeverCompleteEditionGirlsAgainstGod = {
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-complete-edition-girls-against-god",
   ownLength: 4.67425,
-  ownProgress: 0,
+  ownProgress: 4.67425,
   partOfCollections: [
     "release/florence-the-machine-dance-fever-complete-edition",
     "release/florence-the-machine-dance-fever-deluxe",
     "release/florence-the-machine-dance-fever",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Girls Against God",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const florenceTheMachineDanceFeverCompleteEditionGirlsAgainstGod = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

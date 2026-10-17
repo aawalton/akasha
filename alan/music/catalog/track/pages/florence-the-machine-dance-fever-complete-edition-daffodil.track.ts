@@ -5,13 +5,13 @@ export const florenceTheMachineDanceFeverCompleteEditionDaffodil = {
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-complete-edition-daffodil",
   ownLength: 3.5674333333333332,
-  ownProgress: 0,
+  ownProgress: 3.5674333333333332,
   partOfCollections: [
     "release/florence-the-machine-dance-fever-complete-edition",
     "release/florence-the-machine-dance-fever-deluxe",
     "release/florence-the-machine-dance-fever",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Daffodil",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const florenceTheMachineDanceFeverCompleteEditionDaffodil = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const enyaOceansIWantTomorrow = {
   type: "page-type/track",
   slug: "enya-oceans-i-want-tomorrow",
   ownLength: 4.033333333333333,
-  ownProgress: 0,
+  ownProgress: 4.033333333333333,
   partOfCollections: ["release/enya-oceans"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Want Tomorrow",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaOceansIWantTomorrow = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

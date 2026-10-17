@@ -5,9 +5,9 @@ export const florenceTheMachineModerationModeration = {
   type: "page-type/track",
   slug: "florence-the-machine-moderation-moderation",
   ownLength: 3.1435833333333334,
-  ownProgress: 0,
+  ownProgress: 3.1435833333333334,
   partOfCollections: ["release/florence-the-machine-moderation"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Moderation",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineModerationModeration = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

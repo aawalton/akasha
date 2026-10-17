@@ -5,13 +5,13 @@ export const enyaAmarantine2Drifting = {
   type: "page-type/track",
   slug: "enya-amarantine-2-drifting",
   ownLength: 4.19665,
-  ownProgress: 0,
+  ownProgress: 4.19665,
   partOfCollections: [
     "release/enya-amarantine-2",
     "release/enya-amarantine-christmas-edition",
     "release/enya-the-very-best-of-enya-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Drifting",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const enyaAmarantine2Drifting = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

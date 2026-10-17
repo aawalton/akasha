@@ -5,9 +5,9 @@ export const enyaCloudsNoHollyForMissQuinn = {
   type: "page-type/track",
   slug: "enya-clouds-no-holly-for-miss-quinn",
   ownLength: 2.6971,
-  ownProgress: 0,
+  ownProgress: 2.6971,
   partOfCollections: ["release/enya-clouds"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "No Holly for Miss Quinn",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaCloudsNoHollyForMissQuinn = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

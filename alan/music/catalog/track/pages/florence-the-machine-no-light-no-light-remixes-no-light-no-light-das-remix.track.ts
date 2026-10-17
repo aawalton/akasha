@@ -5,9 +5,9 @@ export const florenceTheMachineNoLightNoLightRemixesNoLightNoLightDasRemix = {
   type: "page-type/track",
   slug: "florence-the-machine-no-light-no-light-remixes-no-light-no-light-das-remix",
   ownLength: 4.636666666666667,
-  ownProgress: 0,
+  ownProgress: 4.636666666666667,
   partOfCollections: ["release/florence-the-machine-no-light-no-light-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "No Light, No Light - DAS Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const florenceTheMachineNoLightNoLightRemixesNoLightNoLightDasRemix = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

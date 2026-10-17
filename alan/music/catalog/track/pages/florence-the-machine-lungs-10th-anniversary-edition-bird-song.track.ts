@@ -5,9 +5,9 @@ export const florenceTheMachineLungs10thAnniversaryEditionBirdSong = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-bird-song",
   ownLength: 2.9242166666666667,
-  ownProgress: 0,
+  ownProgress: 2.9242166666666667,
   partOfCollections: ["release/florence-the-machine-lungs-10th-anniversary-edition"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Bird Song",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineLungs10thAnniversaryEditionBirdSong = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

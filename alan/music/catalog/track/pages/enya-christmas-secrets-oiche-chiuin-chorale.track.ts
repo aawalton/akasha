@@ -5,13 +5,13 @@ export const enyaChristmasSecretsOicheChiuinChorale = {
   type: "page-type/track",
   slug: "enya-christmas-secrets-oiche-chiuin-chorale",
   ownLength: 3.826,
-  ownProgress: 0,
+  ownProgress: 3.826,
   partOfCollections: [
     "release/enya-christmas-secrets",
     "release/enya-and-winter-came",
     "release/enya-the-very-best-of-enya-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Oíche Chiúin - Chorale",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const enyaChristmasSecretsOicheChiuinChorale = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

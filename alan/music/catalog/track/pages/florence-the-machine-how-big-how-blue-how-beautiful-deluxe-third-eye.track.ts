@@ -5,12 +5,12 @@ export const florenceTheMachineHowBigHowBlueHowBeautifulDeluxeThirdEye = {
   type: "page-type/track",
   slug: "florence-the-machine-how-big-how-blue-how-beautiful-deluxe-third-eye",
   ownLength: 4.336533333333334,
-  ownProgress: 0,
+  ownProgress: 4.336533333333334,
   partOfCollections: [
     "release/florence-the-machine-how-big-how-blue-how-beautiful-deluxe",
     "release/florence-the-machine-how-big-how-blue-how-beautiful",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Third Eye",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineHowBigHowBlueHowBeautifulDeluxeThirdEye = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

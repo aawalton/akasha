@@ -5,9 +5,9 @@ export const enyaADayWithoutRainPilgrim = {
   type: "page-type/track",
   slug: "enya-a-day-without-rain-pilgrim",
   ownLength: 3.21155,
-  ownProgress: 0,
+  ownProgress: 3.21155,
   partOfCollections: ["release/enya-a-day-without-rain"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Pilgrim",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaADayWithoutRainPilgrim = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

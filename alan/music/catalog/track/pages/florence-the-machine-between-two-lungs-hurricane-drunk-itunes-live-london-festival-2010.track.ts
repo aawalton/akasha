@@ -5,9 +5,9 @@ export const florenceTheMachineBetweenTwoLungsHurricaneDrunkItunesLiveLondonFest
   type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-hurricane-drunk-itunes-live-london-festival-2010",
   ownLength: 3.56155,
-  ownProgress: 0,
+  ownProgress: 3.56155,
   partOfCollections: ["release/florence-the-machine-between-two-lungs"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Hurricane Drunk - iTunes Live: London Festival / 2010",
   trackType: "live",
@@ -25,5 +25,5 @@ export const florenceTheMachineBetweenTwoLungsHurricaneDrunkItunesLiveLondonFest
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

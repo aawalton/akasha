@@ -5,9 +5,9 @@ export const enyaThemesFromCalmiCuoriAppassionatiWatermark = {
   type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-watermark",
   ownLength: 2.423983333333333,
-  ownProgress: 0,
+  ownProgress: 2.423983333333333,
   partOfCollections: ["release/enya-themes-from-calmi-cuori-appassionati", "release/enya-clouds"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Watermark",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const enyaThemesFromCalmiCuoriAppassionatiWatermark = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const florenceTheMachineDrummingSongDrummingSongBoy8BitRemix = {
   type: "page-type/track",
   slug: "florence-the-machine-drumming-song-drumming-song-boy-8-bit-remix",
   ownLength: 6.51955,
-  ownProgress: 0,
+  ownProgress: 6.51955,
   partOfCollections: ["release/florence-the-machine-drumming-song"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Drumming Song - Boy 8-Bit Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const florenceTheMachineDrummingSongDrummingSongBoy8BitRemix = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

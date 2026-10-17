@@ -6,9 +6,9 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenMorningElvisLi
     type: "page-type/track",
     slug: "florence-the-machine-dance-fever-live-at-madison-square-garden-morning-elvis-live-at-madison-square",
     ownLength: 3.9360833333333334,
-    ownProgress: 0,
+    ownProgress: 3.9360833333333334,
     partOfCollections: ["release/florence-the-machine-dance-fever-live-at-madison-square-garden"],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Morning Elvis - Live At Madison Square Garden",
     trackType: "live",
@@ -26,5 +26,5 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGardenMorningElvisLi
       },
     ],
     createdAt: "2026-10-17T13:48:50.850Z",
-    updatedAt: "2026-10-17T13:48:50.850Z",
+    updatedAt: "2026-10-17T14:00:54.619Z",
   } as const satisfies Track

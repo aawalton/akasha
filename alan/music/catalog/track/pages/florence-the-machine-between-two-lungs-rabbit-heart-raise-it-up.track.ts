@@ -5,12 +5,12 @@ export const florenceTheMachineBetweenTwoLungsRabbitHeartRaiseItUp = {
   type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-rabbit-heart-raise-it-up",
   ownLength: 3.8726666666666665,
-  ownProgress: 0,
+  ownProgress: 3.8726666666666665,
   partOfCollections: [
     "release/florence-the-machine-between-two-lungs",
     "release/florence-the-machine-lungs",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Rabbit Heart (Raise It Up)",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineBetweenTwoLungsRabbitHeartRaiseItUp = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

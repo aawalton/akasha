@@ -5,9 +5,9 @@ export const enyaDarkSkyIslandTheHumming = {
   type: "page-type/track",
   slug: "enya-dark-sky-island-the-humming",
   ownLength: 3.752,
-  ownProgress: 0,
+  ownProgress: 3.752,
   partOfCollections: ["release/enya-dark-sky-island", "release/enya-dark-sky-island-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Humming",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const enyaDarkSkyIslandTheHumming = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

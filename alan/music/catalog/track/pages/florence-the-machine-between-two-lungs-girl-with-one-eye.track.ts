@@ -5,12 +5,12 @@ export const florenceTheMachineBetweenTwoLungsGirlWithOneEye = {
   type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-girl-with-one-eye",
   ownLength: 3.64355,
-  ownProgress: 0,
+  ownProgress: 3.64355,
   partOfCollections: [
     "release/florence-the-machine-between-two-lungs",
     "release/florence-the-machine-lungs",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Girl With One Eye",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineBetweenTwoLungsGirlWithOneEye = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

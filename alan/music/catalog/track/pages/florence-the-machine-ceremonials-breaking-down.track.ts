@@ -5,9 +5,9 @@ export const florenceTheMachineCeremonialsBreakingDown = {
   type: "page-type/track",
   slug: "florence-the-machine-ceremonials-breaking-down",
   ownLength: 3.8177666666666665,
-  ownProgress: 0,
+  ownProgress: 3.8177666666666665,
   partOfCollections: ["release/florence-the-machine-ceremonials"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Breaking Down",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineCeremonialsBreakingDown = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

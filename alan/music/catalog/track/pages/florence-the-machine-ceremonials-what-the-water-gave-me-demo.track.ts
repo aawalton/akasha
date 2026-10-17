@@ -5,9 +5,9 @@ export const florenceTheMachineCeremonialsWhatTheWaterGaveMeDemo = {
   type: "page-type/track",
   slug: "florence-the-machine-ceremonials-what-the-water-gave-me-demo",
   ownLength: 3.8937666666666666,
-  ownProgress: 0,
+  ownProgress: 3.8937666666666666,
   partOfCollections: ["release/florence-the-machine-ceremonials"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "What The Water Gave Me - Demo",
   trackType: "demo",
@@ -25,5 +25,5 @@ export const florenceTheMachineCeremonialsWhatTheWaterGaveMeDemo = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

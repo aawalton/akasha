@@ -5,9 +5,9 @@ export const florenceTheMachineLungsSwimming = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-swimming",
   ownLength: 3.3708833333333335,
-  ownProgress: 0,
+  ownProgress: 3.3708833333333335,
   partOfCollections: ["release/florence-the-machine-lungs"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Swimming",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineLungsSwimming = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

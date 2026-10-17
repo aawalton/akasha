@@ -5,9 +5,9 @@ export const enyaTheCelts2DeireadhAnTuath = {
   type: "page-type/track",
   slug: "enya-the-celts-2-deireadh-an-tuath",
   ownLength: 1.7428833333333333,
-  ownProgress: 0,
+  ownProgress: 1.7428833333333333,
   partOfCollections: ["release/enya-the-celts-2"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Deireadh an Tuath",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaTheCelts2DeireadhAnTuath = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

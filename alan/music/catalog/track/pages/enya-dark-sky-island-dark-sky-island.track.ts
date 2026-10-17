@@ -5,9 +5,9 @@ export const enyaDarkSkyIslandDarkSkyIsland = {
   type: "page-type/track",
   slug: "enya-dark-sky-island-dark-sky-island",
   ownLength: 4.957333333333334,
-  ownProgress: 0,
+  ownProgress: 4.957333333333334,
   partOfCollections: ["release/enya-dark-sky-island", "release/enya-dark-sky-island-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Dark Sky Island",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const enyaDarkSkyIslandDarkSkyIsland = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

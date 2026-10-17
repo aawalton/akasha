@@ -5,12 +5,12 @@ export const enyaChristmasSecretsTheMagicOfTheNight = {
   type: "page-type/track",
   slug: "enya-christmas-secrets-the-magic-of-the-night",
   ownLength: 3.5688833333333334,
-  ownProgress: 0,
+  ownProgress: 3.5688833333333334,
   partOfCollections: [
     "release/enya-christmas-secrets",
     "release/enya-amarantine-christmas-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Magic of the Night",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const enyaChristmasSecretsTheMagicOfTheNight = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const enyaOceansPaxDeorum = {
   type: "page-type/track",
   slug: "enya-oceans-pax-deorum",
   ownLength: 4.906,
-  ownProgress: 0,
+  ownProgress: 4.906,
   partOfCollections: ["release/enya-oceans"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Pax Deorum",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaOceansPaxDeorum = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

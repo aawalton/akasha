@@ -5,9 +5,9 @@ export const enyaAndWinterCameLastTimeByMoonlight = {
   type: "page-type/track",
   slug: "enya-and-winter-came-last-time-by-moonlight",
   ownLength: 3.9617666666666667,
-  ownProgress: 0,
+  ownProgress: 3.9617666666666667,
   partOfCollections: ["release/enya-and-winter-came"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Last Time by Moonlight",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaAndWinterCameLastTimeByMoonlight = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

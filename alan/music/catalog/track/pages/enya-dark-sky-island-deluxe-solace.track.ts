@@ -5,9 +5,9 @@ export const enyaDarkSkyIslandDeluxeSolace = {
   type: "page-type/track",
   slug: "enya-dark-sky-island-deluxe-solace",
   ownLength: 3.9777666666666667,
-  ownProgress: 0,
+  ownProgress: 3.9777666666666667,
   partOfCollections: ["release/enya-dark-sky-island-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Solace",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaDarkSkyIslandDeluxeSolace = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

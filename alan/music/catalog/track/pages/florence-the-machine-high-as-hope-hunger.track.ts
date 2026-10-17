@@ -5,12 +5,12 @@ export const florenceTheMachineHighAsHopeHunger = {
   type: "page-type/track",
   slug: "florence-the-machine-high-as-hope-hunger",
   ownLength: 3.5777666666666668,
-  ownProgress: 0,
+  ownProgress: 3.5777666666666668,
   partOfCollections: [
     "release/florence-the-machine-high-as-hope",
     "release/florence-the-machine-hunger",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Hunger",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineHighAsHopeHunger = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

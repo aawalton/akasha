@@ -5,9 +5,9 @@ export const florenceTheMachineHeavenIsHereIdlesRemixHeavenIsHereIdlesRemix = {
   type: "page-type/track",
   slug: "florence-the-machine-heaven-is-here-idles-remix-heaven-is-here-idles-remix",
   ownLength: 4.135116666666667,
-  ownProgress: 0,
+  ownProgress: 4.135116666666667,
   partOfCollections: ["release/florence-the-machine-heaven-is-here-idles-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Heaven Is Here - IDLES Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const florenceTheMachineHeavenIsHereIdlesRemixHeavenIsHereIdlesRemix = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

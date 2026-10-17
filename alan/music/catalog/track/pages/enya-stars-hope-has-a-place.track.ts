@@ -5,9 +5,9 @@ export const enyaStarsHopeHasAPlace = {
   type: "page-type/track",
   slug: "enya-stars-hope-has-a-place",
   ownLength: 4.747766666666666,
-  ownProgress: 0,
+  ownProgress: 4.747766666666666,
   partOfCollections: ["release/enya-stars"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Hope Has a Place",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaStarsHopeHasAPlace = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

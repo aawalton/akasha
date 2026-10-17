@@ -5,9 +5,9 @@ export const florenceTheMachineDanceFeverDeluxeMyLoveAcoustic = {
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-deluxe-my-love-acoustic",
   ownLength: 3.4998666666666667,
-  ownProgress: 0,
+  ownProgress: 3.4998666666666667,
   partOfCollections: ["release/florence-the-machine-dance-fever-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "My Love - Acoustic",
   trackType: "acoustic",
@@ -25,5 +25,5 @@ export const florenceTheMachineDanceFeverDeluxeMyLoveAcoustic = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

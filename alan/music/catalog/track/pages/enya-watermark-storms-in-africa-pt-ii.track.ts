@@ -5,9 +5,9 @@ export const enyaWatermarkStormsInAfricaPtIi = {
   type: "page-type/track",
   slug: "enya-watermark-storms-in-africa-pt-ii",
   ownLength: 3.0206666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0206666666666666,
   partOfCollections: ["release/enya-watermark"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Storms in Africa (Pt. II)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaWatermarkStormsInAfricaPtIi = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

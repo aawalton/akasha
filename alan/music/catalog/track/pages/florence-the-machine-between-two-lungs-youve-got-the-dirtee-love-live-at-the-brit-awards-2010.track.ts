@@ -5,9 +5,9 @@ export const florenceTheMachineBetweenTwoLungsYouveGotTheDirteeLoveLiveAtTheBrit
   type: "page-type/track",
   slug: "florence-the-machine-between-two-lungs-youve-got-the-dirtee-love-live-at-the-brit-awards-2010",
   ownLength: 3.6844333333333332,
-  ownProgress: 0,
+  ownProgress: 3.6844333333333332,
   partOfCollections: ["release/florence-the-machine-between-two-lungs"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "You've Got The Dirtee Love - Live At The Brit Awards / 2010",
   trackType: "live",
@@ -26,5 +26,5 @@ export const florenceTheMachineBetweenTwoLungsYouveGotTheDirteeLoveLiveAtTheBrit
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

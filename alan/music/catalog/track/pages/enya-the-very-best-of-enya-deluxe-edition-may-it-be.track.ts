@@ -5,9 +5,9 @@ export const enyaTheVeryBestOfEnyaDeluxeEditionMayItBe = {
   type: "page-type/track",
   slug: "enya-the-very-best-of-enya-deluxe-edition-may-it-be",
   ownLength: 3.494883333333333,
-  ownProgress: 0,
+  ownProgress: 3.494883333333333,
   partOfCollections: ["release/enya-the-very-best-of-enya-deluxe-edition"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "May It Be",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaTheVeryBestOfEnyaDeluxeEditionMayItBe = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

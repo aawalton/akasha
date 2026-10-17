@@ -5,9 +5,9 @@ export const enyaAndWinterCameAndWinterCame = {
   type: "page-type/track",
   slug: "enya-and-winter-came-and-winter-came",
   ownLength: 3.264,
-  ownProgress: 0,
+  ownProgress: 3.264,
   partOfCollections: ["release/enya-and-winter-came"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "And Winter Came...",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaAndWinterCameAndWinterCame = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

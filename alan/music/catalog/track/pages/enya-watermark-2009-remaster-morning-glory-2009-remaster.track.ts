@@ -5,9 +5,9 @@ export const enyaWatermark2009RemasterMorningGlory2009Remaster = {
   type: "page-type/track",
   slug: "enya-watermark-2009-remaster-morning-glory-2009-remaster",
   ownLength: 2.4744333333333333,
-  ownProgress: 0,
+  ownProgress: 2.4744333333333333,
   partOfCollections: ["release/enya-watermark-2009-remaster"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Morning Glory - 2009 Remaster",
   trackType: "remaster",
@@ -25,5 +25,5 @@ export const enyaWatermark2009RemasterMorningGlory2009Remaster = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

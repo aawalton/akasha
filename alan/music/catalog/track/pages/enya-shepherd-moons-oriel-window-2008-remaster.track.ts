@@ -5,9 +5,9 @@ export const enyaShepherdMoonsOrielWindow2008Remaster = {
   type: "page-type/track",
   slug: "enya-shepherd-moons-oriel-window-2008-remaster",
   ownLength: 2.374,
-  ownProgress: 0,
+  ownProgress: 2.374,
   partOfCollections: ["release/enya-shepherd-moons"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Oriel Window - 2008 Remaster",
   trackType: "remaster",
@@ -25,5 +25,5 @@ export const enyaShepherdMoonsOrielWindow2008Remaster = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

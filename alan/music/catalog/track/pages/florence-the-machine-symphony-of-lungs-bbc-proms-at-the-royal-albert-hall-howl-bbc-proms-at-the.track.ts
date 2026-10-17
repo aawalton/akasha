@@ -5,11 +5,11 @@ export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHallHowlBb
   type: "page-type/track",
   slug: "florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall-howl-bbc-proms-at-the",
   ownLength: 3.7795,
-  ownProgress: 0,
+  ownProgress: 3.7795,
   partOfCollections: [
     "release/florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Howl - BBC Proms at the Royal Albert Hall",
   trackType: "studio",
@@ -27,5 +27,5 @@ export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHallHowlBb
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

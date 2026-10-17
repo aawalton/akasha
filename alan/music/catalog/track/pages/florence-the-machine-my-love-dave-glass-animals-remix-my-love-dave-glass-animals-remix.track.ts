@@ -5,9 +5,9 @@ export const florenceTheMachineMyLoveDaveGlassAnimalsRemixMyLoveDaveGlassAnimals
   type: "page-type/track",
   slug: "florence-the-machine-my-love-dave-glass-animals-remix-my-love-dave-glass-animals-remix",
   ownLength: 3.5126166666666667,
-  ownProgress: 0,
+  ownProgress: 3.5126166666666667,
   partOfCollections: ["release/florence-the-machine-my-love-dave-glass-animals-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "My Love - Dave Glass Animals Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const florenceTheMachineMyLoveDaveGlassAnimalsRemixMyLoveDaveGlassAnimals
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

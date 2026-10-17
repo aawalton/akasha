@@ -5,9 +5,9 @@ export const florenceTheMachineCeremonialsAllThisAndHeavenToo = {
   type: "page-type/track",
   slug: "florence-the-machine-ceremonials-all-this-and-heaven-too",
   ownLength: 4.098216666666667,
-  ownProgress: 0,
+  ownProgress: 4.098216666666667,
   partOfCollections: ["release/florence-the-machine-ceremonials"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "All This And Heaven Too",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineCeremonialsAllThisAndHeavenToo = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

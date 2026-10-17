@@ -5,9 +5,9 @@ export const florenceTheMachineMyLoveMeduzaRemixMyLoveMeduzaRemix = {
   type: "page-type/track",
   slug: "florence-the-machine-my-love-meduza-remix-my-love-meduza-remix",
   ownLength: 3.52,
-  ownProgress: 0,
+  ownProgress: 3.52,
   partOfCollections: ["release/florence-the-machine-my-love-meduza-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "My Love - MEDUZA Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const florenceTheMachineMyLoveMeduzaRemixMyLoveMeduzaRemix = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

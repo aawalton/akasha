@@ -5,9 +5,9 @@ export const florenceTheMachineLungs10thAnniversaryEditionPostcardsFromItalyDemo
   type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-postcards-from-italy-demo",
   ownLength: 3.5193333333333334,
-  ownProgress: 0,
+  ownProgress: 3.5193333333333334,
   partOfCollections: ["release/florence-the-machine-lungs-10th-anniversary-edition"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Postcards From Italy - Demo",
   trackType: "demo",
@@ -25,5 +25,5 @@ export const florenceTheMachineLungs10thAnniversaryEditionPostcardsFromItalyDemo
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const enyaCloudsPortraitOutOfTheBlue = {
   type: "page-type/track",
   slug: "enya-clouds-portrait-out-of-the-blue",
   ownLength: 3.19555,
-  ownProgress: 0,
+  ownProgress: 3.19555,
   partOfCollections: ["release/enya-clouds"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Portrait (Out of the Blue)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaCloudsPortraitOutOfTheBlue = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

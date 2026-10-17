@@ -5,12 +5,12 @@ export const florenceTheMachineEverybodyScreamChamberVersionBuckle = {
   type: "page-type/track",
   slug: "florence-the-machine-everybody-scream-chamber-version-buckle",
   ownLength: 3.38765,
-  ownProgress: 0,
+  ownProgress: 3.38765,
   partOfCollections: [
     "release/florence-the-machine-everybody-scream-chamber-version",
     "release/florence-the-machine-everybody-scream",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Buckle",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineEverybodyScreamChamberVersionBuckle = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

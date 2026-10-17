@@ -5,9 +5,9 @@ export const florenceTheMachineLungsDeluxeEditionHeavyInYourArms = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-deluxe-edition-heavy-in-your-arms",
   ownLength: 4.758216666666667,
-  ownProgress: 0,
+  ownProgress: 4.758216666666667,
   partOfCollections: ["release/florence-the-machine-lungs-deluxe-edition"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Heavy In Your Arms",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineLungsDeluxeEditionHeavyInYourArms = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const florenceTheMachineShakeItOutShakeItOutBennyBenassiRemix = {
   type: "page-type/track",
   slug: "florence-the-machine-shake-it-out-shake-it-out-benny-benassi-remix",
   ownLength: 5.597466666666667,
-  ownProgress: 0,
+  ownProgress: 5.597466666666667,
   partOfCollections: ["release/florence-the-machine-shake-it-out"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Shake It Out - Benny Benassi Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const florenceTheMachineShakeItOutShakeItOutBennyBenassiRemix = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

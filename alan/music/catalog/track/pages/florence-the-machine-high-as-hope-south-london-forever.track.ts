@@ -5,9 +5,9 @@ export const florenceTheMachineHighAsHopeSouthLondonForever = {
   type: "page-type/track",
   slug: "florence-the-machine-high-as-hope-south-london-forever",
   ownLength: 4.378,
-  ownProgress: 0,
+  ownProgress: 4.378,
   partOfCollections: ["release/florence-the-machine-high-as-hope"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "South London Forever",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineHighAsHopeSouthLondonForever = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

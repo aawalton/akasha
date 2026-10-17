@@ -5,12 +5,12 @@ export const florenceTheMachineLungs10thAnniversaryEditionMyBoyBuildsCoffins = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-my-boy-builds-coffins",
   ownLength: 2.936,
-  ownProgress: 0,
+  ownProgress: 2.936,
   partOfCollections: [
     "release/florence-the-machine-lungs-10th-anniversary-edition",
     "release/florence-the-machine-lungs-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "My Boy Builds Coffins",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineLungs10thAnniversaryEditionMyBoyBuildsCoffins = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

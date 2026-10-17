@@ -5,9 +5,9 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineShakeItOutM
   type: "page-type/track",
   slug: "florence-the-machine-mtv-presents-unplugged-florence-the-machine-shake-it-out-mtv-unplugged-2012",
   ownLength: 4.6802166666666665,
-  ownProgress: 0,
+  ownProgress: 4.6802166666666665,
   partOfCollections: ["release/florence-the-machine-mtv-presents-unplugged-florence-the-machine"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Shake It Out - MTV Unplugged, 2012 / Live",
   trackType: "live",
@@ -25,5 +25,5 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineShakeItOutM
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,12 +5,12 @@ export const florenceTheMachineDanceFeverCompleteEditionMermaids = {
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-complete-edition-mermaids",
   ownLength: 4.58865,
-  ownProgress: 0,
+  ownProgress: 4.58865,
   partOfCollections: [
     "release/florence-the-machine-dance-fever-complete-edition",
     "release/florence-the-machine-mermaids",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Mermaids",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineDanceFeverCompleteEditionMermaids = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

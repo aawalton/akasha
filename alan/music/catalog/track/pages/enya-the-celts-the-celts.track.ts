@@ -5,9 +5,9 @@ export const enyaTheCeltsTheCelts = {
   type: "page-type/track",
   slug: "enya-the-celts-the-celts",
   ownLength: 2.966666666666667,
-  ownProgress: 0,
+  ownProgress: 2.966666666666667,
   partOfCollections: ["release/enya-the-celts"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Celts",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaTheCeltsTheCelts = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

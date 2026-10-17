@@ -5,9 +5,9 @@ export const enyaCaribbeanBlueCaribbeanBlueSingleVersion = {
   type: "page-type/track",
   slug: "enya-caribbean-blue-caribbean-blue-single-version",
   ownLength: 3.676,
-  ownProgress: 0,
+  ownProgress: 3.676,
   partOfCollections: ["release/enya-caribbean-blue"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Caribbean Blue - Single Version",
   trackType: "version",
@@ -25,5 +25,5 @@ export const enyaCaribbeanBlueCaribbeanBlueSingleVersion = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

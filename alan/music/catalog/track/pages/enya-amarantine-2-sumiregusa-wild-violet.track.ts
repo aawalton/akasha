@@ -5,13 +5,13 @@ export const enyaAmarantine2SumiregusaWildViolet = {
   type: "page-type/track",
   slug: "enya-amarantine-2-sumiregusa-wild-violet",
   ownLength: 4.713766666666666,
-  ownProgress: 0,
+  ownProgress: 4.713766666666666,
   partOfCollections: [
     "release/enya-amarantine-2",
     "release/enya-amarantine-christmas-edition",
     "release/enya-the-very-best-of-enya-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Sumiregusa (Wild Violet)",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const enyaAmarantine2SumiregusaWildViolet = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

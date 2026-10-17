@@ -5,9 +5,9 @@ export const enyaOceansChinaRoses = {
   type: "page-type/track",
   slug: "enya-oceans-china-roses",
   ownLength: 4.786216666666666,
-  ownProgress: 0,
+  ownProgress: 4.786216666666666,
   partOfCollections: ["release/enya-oceans"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "China Roses",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaOceansChinaRoses = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

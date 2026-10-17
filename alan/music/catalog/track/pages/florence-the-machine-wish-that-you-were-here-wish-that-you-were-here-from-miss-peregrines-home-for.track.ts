@@ -5,9 +5,9 @@ export const florenceTheMachineWishThatYouWereHereWishThatYouWereHereFromMissPer
   type: "page-type/track",
   slug: "florence-the-machine-wish-that-you-were-here-wish-that-you-were-here-from-miss-peregrines-home-for",
   ownLength: 6.713283333333333,
-  ownProgress: 0,
+  ownProgress: 6.713283333333333,
   partOfCollections: ["release/florence-the-machine-wish-that-you-were-here"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title:
     "Wish That You Were Here - From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture",
@@ -27,5 +27,5 @@ export const florenceTheMachineWishThatYouWereHereWishThatYouWereHereFromMissPer
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

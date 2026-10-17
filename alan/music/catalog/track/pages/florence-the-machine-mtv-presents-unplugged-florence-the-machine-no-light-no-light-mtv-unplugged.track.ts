@@ -5,9 +5,9 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineNoLightNoLi
   type: "page-type/track",
   slug: "florence-the-machine-mtv-presents-unplugged-florence-the-machine-no-light-no-light-mtv-unplugged",
   ownLength: 4.21155,
-  ownProgress: 0,
+  ownProgress: 4.21155,
   partOfCollections: ["release/florence-the-machine-mtv-presents-unplugged-florence-the-machine"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "No Light, No Light - MTV Unplugged, 2012 / Live",
   trackType: "live",
@@ -25,5 +25,5 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineNoLightNoLi
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

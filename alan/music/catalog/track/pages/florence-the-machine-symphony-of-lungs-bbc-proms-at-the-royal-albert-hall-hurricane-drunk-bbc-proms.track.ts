@@ -5,11 +5,11 @@ export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHallHurric
   type: "page-type/track",
   slug: "florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall-hurricane-drunk-bbc-proms",
   ownLength: 2.7092833333333335,
-  ownProgress: 0,
+  ownProgress: 2.7092833333333335,
   partOfCollections: [
     "release/florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Hurricane Drunk - BBC Proms at the Royal Albert Hall",
   trackType: "studio",
@@ -28,5 +28,5 @@ export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHallHurric
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

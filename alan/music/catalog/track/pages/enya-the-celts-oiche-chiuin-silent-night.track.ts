@@ -5,9 +5,9 @@ export const enyaTheCeltsOicheChiuinSilentNight = {
   type: "page-type/track",
   slug: "enya-the-celts-oiche-chiuin-silent-night",
   ownLength: 3.7611,
-  ownProgress: 0,
+  ownProgress: 3.7611,
   partOfCollections: ["release/enya-the-celts"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Oíche Chiúin (Silent Night)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaTheCeltsOicheChiuinSilentNight = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

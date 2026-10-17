@@ -5,9 +5,9 @@ export const enyaDarkSkyIslandDeluxeRememberYourSmile = {
   type: "page-type/track",
   slug: "enya-dark-sky-island-deluxe-remember-your-smile",
   ownLength: 2.9644333333333335,
-  ownProgress: 0,
+  ownProgress: 2.9644333333333335,
   partOfCollections: ["release/enya-dark-sky-island-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Remember Your Smile",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaDarkSkyIslandDeluxeRememberYourSmile = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

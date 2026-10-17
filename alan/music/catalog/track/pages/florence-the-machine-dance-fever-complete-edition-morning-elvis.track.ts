@@ -5,13 +5,13 @@ export const florenceTheMachineDanceFeverCompleteEditionMorningElvis = {
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-complete-edition-morning-elvis",
   ownLength: 4.3666833333333335,
-  ownProgress: 0,
+  ownProgress: 4.3666833333333335,
   partOfCollections: [
     "release/florence-the-machine-dance-fever-complete-edition",
     "release/florence-the-machine-dance-fever-deluxe",
     "release/florence-the-machine-dance-fever",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Morning Elvis",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const florenceTheMachineDanceFeverCompleteEditionMorningElvis = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

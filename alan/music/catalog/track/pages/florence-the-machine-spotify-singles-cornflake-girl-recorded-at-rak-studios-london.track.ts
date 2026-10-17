@@ -5,9 +5,9 @@ export const florenceTheMachineSpotifySinglesCornflakeGirlRecordedAtRakStudiosLo
   type: "page-type/track",
   slug: "florence-the-machine-spotify-singles-cornflake-girl-recorded-at-rak-studios-london",
   ownLength: 4.699333333333334,
-  ownProgress: 0,
+  ownProgress: 4.699333333333334,
   partOfCollections: ["release/florence-the-machine-spotify-singles"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Cornflake Girl - Recorded At RAK Studios, London",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineSpotifySinglesCornflakeGirlRecordedAtRakStudiosLo
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

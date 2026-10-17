@@ -5,9 +5,9 @@ export const enyaWatermarkStormsInAfrica = {
   type: "page-type/track",
   slug: "enya-watermark-storms-in-africa",
   ownLength: 4.08,
-  ownProgress: 0,
+  ownProgress: 4.08,
   partOfCollections: ["release/enya-watermark"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Storms in Africa",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaWatermarkStormsInAfrica = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

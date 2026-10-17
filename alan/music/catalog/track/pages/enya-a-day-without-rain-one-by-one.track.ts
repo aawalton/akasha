@@ -5,12 +5,12 @@ export const enyaADayWithoutRainOneByOne = {
   type: "page-type/track",
   slug: "enya-a-day-without-rain-one-by-one",
   ownLength: 3.9444333333333335,
-  ownProgress: 0,
+  ownProgress: 3.9444333333333335,
   partOfCollections: [
     "release/enya-a-day-without-rain",
     "release/enya-the-very-best-of-enya-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "One by One",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const enyaADayWithoutRainOneByOne = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

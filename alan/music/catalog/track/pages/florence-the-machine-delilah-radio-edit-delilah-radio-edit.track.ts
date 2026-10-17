@@ -5,9 +5,9 @@ export const florenceTheMachineDelilahRadioEditDelilahRadioEdit = {
   type: "page-type/track",
   slug: "florence-the-machine-delilah-radio-edit-delilah-radio-edit",
   ownLength: 3.6234333333333333,
-  ownProgress: 0,
+  ownProgress: 3.6234333333333333,
   partOfCollections: ["release/florence-the-machine-delilah-radio-edit"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Delilah - Radio Edit",
   trackType: "version",
@@ -25,5 +25,5 @@ export const florenceTheMachineDelilahRadioEditDelilahRadioEdit = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

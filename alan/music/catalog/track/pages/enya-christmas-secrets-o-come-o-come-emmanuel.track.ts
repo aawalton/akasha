@@ -5,9 +5,9 @@ export const enyaChristmasSecretsOComeOComeEmmanuel = {
   type: "page-type/track",
   slug: "enya-christmas-secrets-o-come-o-come-emmanuel",
   ownLength: 3.669766666666667,
-  ownProgress: 0,
+  ownProgress: 3.669766666666667,
   partOfCollections: ["release/enya-christmas-secrets", "release/enya-and-winter-came"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "O Come, O Come, Emmanuel",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const enyaChristmasSecretsOComeOComeEmmanuel = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

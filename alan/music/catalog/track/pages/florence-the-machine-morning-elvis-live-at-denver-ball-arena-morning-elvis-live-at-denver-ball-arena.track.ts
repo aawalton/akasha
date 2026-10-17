@@ -6,9 +6,9 @@ export const florenceTheMachineMorningElvisLiveAtDenverBallArenaMorningElvisLive
     type: "page-type/track",
     slug: "florence-the-machine-morning-elvis-live-at-denver-ball-arena-morning-elvis-live-at-denver-ball-arena",
     ownLength: 4.26085,
-    ownProgress: 0,
+    ownProgress: 4.26085,
     partOfCollections: ["release/florence-the-machine-morning-elvis-live-at-denver-ball-arena"],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Morning Elvis - Live At Denver Ball Arena",
     trackType: "live",
@@ -27,5 +27,5 @@ export const florenceTheMachineMorningElvisLiveAtDenverBallArenaMorningElvisLive
       },
     ],
     createdAt: "2026-10-17T13:48:50.850Z",
-    updatedAt: "2026-10-17T13:48:50.850Z",
+    updatedAt: "2026-10-17T14:00:54.619Z",
   } as const satisfies Track

@@ -5,9 +5,9 @@ export const florenceTheMachineYouVeGotTheLoveJamieXxReworkYouveGotTheLoveJamieX
   type: "page-type/track",
   slug: "florence-the-machine-you-ve-got-the-love-jamie-xx-rework-youve-got-the-love-jamie-xx-rework",
   ownLength: 5.7165,
-  ownProgress: 0,
+  ownProgress: 5.7165,
   partOfCollections: ["release/florence-the-machine-you-ve-got-the-love-jamie-xx-rework"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "You've Got The Love - Jamie xx Rework",
   trackType: "studio",
@@ -30,5 +30,5 @@ export const florenceTheMachineYouVeGotTheLoveJamieXxReworkYouveGotTheLoveJamieX
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

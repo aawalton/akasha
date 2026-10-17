@@ -5,9 +5,9 @@ export const enyaTheCelts2DanYDwr = {
   type: "page-type/track",
   slug: "enya-the-celts-2-dan-y-dwr",
   ownLength: 1.7137666666666667,
-  ownProgress: 0,
+  ownProgress: 1.7137666666666667,
   partOfCollections: ["release/enya-the-celts-2"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Dan y Dŵr",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaTheCelts2DanYDwr = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,13 +5,13 @@ export const enyaThemesFromCalmiCuoriAppassionatiWildChild = {
   type: "page-type/track",
   slug: "enya-themes-from-calmi-cuori-appassionati-wild-child",
   ownLength: 3.79155,
-  ownProgress: 0,
+  ownProgress: 3.79155,
   partOfCollections: [
     "release/enya-themes-from-calmi-cuori-appassionati",
     "release/enya-a-day-without-rain",
     "release/enya-the-very-best-of-enya-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Wild Child",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const enyaThemesFromCalmiCuoriAppassionatiWildChild = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

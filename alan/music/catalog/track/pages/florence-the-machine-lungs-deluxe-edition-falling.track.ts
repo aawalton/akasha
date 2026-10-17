@@ -5,9 +5,9 @@ export const florenceTheMachineLungsDeluxeEditionFalling = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-deluxe-edition-falling",
   ownLength: 3.54955,
-  ownProgress: 0,
+  ownProgress: 3.54955,
   partOfCollections: ["release/florence-the-machine-lungs-deluxe-edition"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Falling",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineLungsDeluxeEditionFalling = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

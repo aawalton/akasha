@@ -5,12 +5,12 @@ export const florenceTheMachineLungs10thAnniversaryEditionDrummingSong = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-drumming-song",
   ownLength: 3.7222166666666667,
-  ownProgress: 0,
+  ownProgress: 3.7222166666666667,
   partOfCollections: [
     "release/florence-the-machine-lungs-10th-anniversary-edition",
     "release/florence-the-machine-lungs-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Drumming Song",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineLungs10thAnniversaryEditionDrummingSong = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

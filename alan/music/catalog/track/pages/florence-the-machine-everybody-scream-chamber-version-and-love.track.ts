@@ -5,12 +5,12 @@ export const florenceTheMachineEverybodyScreamChamberVersionAndLove = {
   type: "page-type/track",
   slug: "florence-the-machine-everybody-scream-chamber-version-and-love",
   ownLength: 2.7484166666666665,
-  ownProgress: 0,
+  ownProgress: 2.7484166666666665,
   partOfCollections: [
     "release/florence-the-machine-everybody-scream-chamber-version",
     "release/florence-the-machine-everybody-scream",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "And Love",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineEverybodyScreamChamberVersionAndLove = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

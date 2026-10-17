@@ -5,9 +5,9 @@ export const florenceTheMachineALotOfLoveALotOfBlood2DogDaysAreOver = {
   type: "page-type/track",
   slug: "florence-the-machine-a-lot-of-love-a-lot-of-blood-2-dog-days-are-over",
   ownLength: 4.18155,
-  ownProgress: 0,
+  ownProgress: 4.18155,
   partOfCollections: ["release/florence-the-machine-a-lot-of-love-a-lot-of-blood-2"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Dog Days Are Over",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineALotOfLoveALotOfBlood2DogDaysAreOver = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

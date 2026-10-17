@@ -5,9 +5,9 @@ export const enyaShepherdMoonsAsBaile2008Remaster = {
   type: "page-type/track",
   slug: "enya-shepherd-moons-as-baile-2008-remaster",
   ownLength: 4.102666666666667,
-  ownProgress: 0,
+  ownProgress: 4.102666666666667,
   partOfCollections: ["release/enya-shepherd-moons"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "As Baile - 2008 Remaster",
   trackType: "remaster",
@@ -25,5 +25,5 @@ export const enyaShepherdMoonsAsBaile2008Remaster = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

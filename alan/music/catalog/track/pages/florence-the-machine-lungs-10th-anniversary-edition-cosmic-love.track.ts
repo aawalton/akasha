@@ -5,12 +5,12 @@ export const florenceTheMachineLungs10thAnniversaryEditionCosmicLove = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-cosmic-love",
   ownLength: 4.2522166666666665,
-  ownProgress: 0,
+  ownProgress: 4.2522166666666665,
   partOfCollections: [
     "release/florence-the-machine-lungs-10th-anniversary-edition",
     "release/florence-the-machine-lungs-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Cosmic Love",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineLungs10thAnniversaryEditionCosmicLove = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

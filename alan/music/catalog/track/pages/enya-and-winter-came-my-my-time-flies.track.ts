@@ -5,12 +5,12 @@ export const enyaAndWinterCameMyMyTimeFlies = {
   type: "page-type/track",
   slug: "enya-and-winter-came-my-my-time-flies",
   ownLength: 3.0486666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0486666666666666,
   partOfCollections: [
     "release/enya-and-winter-came",
     "release/enya-the-very-best-of-enya-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "My! My! Time Flies!",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const enyaAndWinterCameMyMyTimeFlies = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

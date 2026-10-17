@@ -5,9 +5,9 @@ export const enyaDarkSkyIslandICouldNeverSayGoodbye = {
   type: "page-type/track",
   slug: "enya-dark-sky-island-i-could-never-say-goodbye",
   ownLength: 3.4991,
-  ownProgress: 0,
+  ownProgress: 3.4991,
   partOfCollections: ["release/enya-dark-sky-island", "release/enya-dark-sky-island-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Could Never Say Goodbye",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const enyaDarkSkyIslandICouldNeverSayGoodbye = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const enyaDarkSkyIslandTheLoxianGate = {
   type: "page-type/track",
   slug: "enya-dark-sky-island-the-loxian-gate",
   ownLength: 3.5813333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5813333333333333,
   partOfCollections: ["release/enya-dark-sky-island", "release/enya-dark-sky-island-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Loxian Gate",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const enyaDarkSkyIslandTheLoxianGate = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const florenceTheMachineCeremonialsSpectrumSayMyName = {
   type: "page-type/track",
   slug: "florence-the-machine-ceremonials-spectrum-say-my-name",
   ownLength: 5.19355,
-  ownProgress: 0,
+  ownProgress: 5.19355,
   partOfCollections: ["release/florence-the-machine-ceremonials"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Spectrum (Say My Name)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineCeremonialsSpectrumSayMyName = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

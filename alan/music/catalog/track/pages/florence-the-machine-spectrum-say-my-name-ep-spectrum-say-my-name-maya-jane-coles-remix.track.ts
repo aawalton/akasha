@@ -5,9 +5,9 @@ export const florenceTheMachineSpectrumSayMyNameEpSpectrumSayMyNameMayaJaneColes
   type: "page-type/track",
   slug: "florence-the-machine-spectrum-say-my-name-ep-spectrum-say-my-name-maya-jane-coles-remix",
   ownLength: 5.009533333333334,
-  ownProgress: 0,
+  ownProgress: 5.009533333333334,
   partOfCollections: ["release/florence-the-machine-spectrum-say-my-name-ep"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Spectrum (Say My Name) - Maya Jane Coles Remix",
   trackType: "remix",
@@ -26,5 +26,5 @@ export const florenceTheMachineSpectrumSayMyNameEpSpectrumSayMyNameMayaJaneColes
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

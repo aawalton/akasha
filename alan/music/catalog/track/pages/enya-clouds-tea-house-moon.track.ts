@@ -5,9 +5,9 @@ export const enyaCloudsTeaHouseMoon = {
   type: "page-type/track",
   slug: "enya-clouds-tea-house-moon",
   ownLength: 2.6971,
-  ownProgress: 0,
+  ownProgress: 2.6971,
   partOfCollections: ["release/enya-clouds"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Tea-House Moon",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaCloudsTeaHouseMoon = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

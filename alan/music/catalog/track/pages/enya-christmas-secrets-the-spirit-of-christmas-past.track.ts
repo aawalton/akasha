@@ -5,9 +5,9 @@ export const enyaChristmasSecretsTheSpiritOfChristmasPast = {
   type: "page-type/track",
   slug: "enya-christmas-secrets-the-spirit-of-christmas-past",
   ownLength: 4.3011,
-  ownProgress: 0,
+  ownProgress: 4.3011,
   partOfCollections: ["release/enya-christmas-secrets", "release/enya-and-winter-came"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Spirit of Christmas Past",
   trackType: "studio",
@@ -32,5 +32,5 @@ export const enyaChristmasSecretsTheSpiritOfChristmasPast = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

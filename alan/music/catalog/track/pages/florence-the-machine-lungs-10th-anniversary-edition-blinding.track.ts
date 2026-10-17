@@ -5,12 +5,12 @@ export const florenceTheMachineLungs10thAnniversaryEditionBlinding = {
   type: "page-type/track",
   slug: "florence-the-machine-lungs-10th-anniversary-edition-blinding",
   ownLength: 4.592216666666666,
-  ownProgress: 0,
+  ownProgress: 4.592216666666666,
   partOfCollections: [
     "release/florence-the-machine-lungs-10th-anniversary-edition",
     "release/florence-the-machine-lungs-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Blinding",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const florenceTheMachineLungs10thAnniversaryEditionBlinding = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

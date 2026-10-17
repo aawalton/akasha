@@ -5,9 +5,9 @@ export const enyaAmarantineTheSpaghettiWesternThemeFromTheCelts = {
   type: "page-type/track",
   slug: "enya-amarantine-the-spaghetti-western-theme-from-the-celts",
   ownLength: 1.97555,
-  ownProgress: 0,
+  ownProgress: 1.97555,
   partOfCollections: ["release/enya-amarantine"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Spaghetti Western Theme from the Celts",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaAmarantineTheSpaghettiWesternThemeFromTheCelts = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

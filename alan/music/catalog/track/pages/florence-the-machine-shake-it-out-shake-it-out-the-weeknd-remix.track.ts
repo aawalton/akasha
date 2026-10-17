@@ -5,9 +5,9 @@ export const florenceTheMachineShakeItOutShakeItOutTheWeekndRemix = {
   type: "page-type/track",
   slug: "florence-the-machine-shake-it-out-shake-it-out-the-weeknd-remix",
   ownLength: 5.290666666666667,
-  ownProgress: 0,
+  ownProgress: 5.290666666666667,
   partOfCollections: ["release/florence-the-machine-shake-it-out"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Shake It Out - The Weeknd Remix",
   trackType: "remix",
@@ -31,5 +31,5 @@ export const florenceTheMachineShakeItOutShakeItOutTheWeekndRemix = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const florenceTheMachineWhatKindOfManNicolasJaarRemixWhatKindOfManNicolas
   type: "page-type/track",
   slug: "florence-the-machine-what-kind-of-man-nicolas-jaar-remix-what-kind-of-man-nicolas-jaar-remix",
   ownLength: 12.360216666666666,
-  ownProgress: 0,
+  ownProgress: 12.360216666666666,
   partOfCollections: ["release/florence-the-machine-what-kind-of-man-nicolas-jaar-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "What Kind Of Man - Nicolas Jaar Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const florenceTheMachineWhatKindOfManNicolasJaarRemixWhatKindOfManNicolas
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const florenceTheMachineALotOfLoveALotOfBlood2HospitalBeds = {
   type: "page-type/track",
   slug: "florence-the-machine-a-lot-of-love-a-lot-of-blood-2-hospital-beds",
   ownLength: 2.2588833333333334,
-  ownProgress: 0,
+  ownProgress: 2.2588833333333334,
   partOfCollections: ["release/florence-the-machine-a-lot-of-love-a-lot-of-blood-2"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Hospital Beds",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineALotOfLoveALotOfBlood2HospitalBeds = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const enyaAmarantineTheCombOfTheWinds = {
   type: "page-type/track",
   slug: "enya-amarantine-the-comb-of-the-winds",
   ownLength: 3.6593333333333335,
-  ownProgress: 0,
+  ownProgress: 3.6593333333333335,
   partOfCollections: ["release/enya-amarantine"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Comb of the Winds",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaAmarantineTheCombOfTheWinds = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

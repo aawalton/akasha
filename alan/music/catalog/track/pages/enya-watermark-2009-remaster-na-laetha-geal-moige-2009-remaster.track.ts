@@ -5,9 +5,9 @@ export const enyaWatermark2009RemasterNaLaethaGealMoige2009Remaster = {
   type: "page-type/track",
   slug: "enya-watermark-2009-remaster-na-laetha-geal-moige-2009-remaster",
   ownLength: 4.01755,
-  ownProgress: 0,
+  ownProgress: 4.01755,
   partOfCollections: ["release/enya-watermark-2009-remaster"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Na Laetha Geal M'óige - 2009 Remaster",
   trackType: "remaster",
@@ -25,5 +25,5 @@ export const enyaWatermark2009RemasterNaLaethaGealMoige2009Remaster = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

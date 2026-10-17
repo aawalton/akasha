@@ -5,9 +5,9 @@ export const florenceTheMachineLightOfLoveLightOfLove = {
   type: "page-type/track",
   slug: "florence-the-machine-light-of-love-light-of-love",
   ownLength: 4.012,
-  ownProgress: 0,
+  ownProgress: 4.012,
   partOfCollections: ["release/florence-the-machine-light-of-love"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Light Of Love",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineLightOfLoveLightOfLove = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

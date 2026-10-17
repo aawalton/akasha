@@ -5,9 +5,9 @@ export const florenceTheMachineHighAsHopePatricia = {
   type: "page-type/track",
   slug: "florence-the-machine-high-as-hope-patricia",
   ownLength: 3.62355,
-  ownProgress: 0,
+  ownProgress: 3.62355,
   partOfCollections: ["release/florence-the-machine-high-as-hope"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Patricia",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineHighAsHopePatricia = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

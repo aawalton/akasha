@@ -6,11 +6,11 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersi
     type: "page-type/track",
     slug: "florence-the-machine-mtv-presents-unplugged-florence-the-machine-deluxe-version-heartlines-acoustic",
     ownLength: 5.53555,
-    ownProgress: 0,
+    ownProgress: 5.53555,
     partOfCollections: [
       "release/florence-the-machine-mtv-presents-unplugged-florence-the-machine-deluxe-version",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Heartlines - Acoustic",
     trackType: "acoustic",
@@ -29,5 +29,5 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersi
       },
     ],
     createdAt: "2026-10-17T13:48:50.850Z",
-    updatedAt: "2026-10-17T13:48:50.850Z",
+    updatedAt: "2026-10-17T14:00:54.619Z",
   } as const satisfies Track

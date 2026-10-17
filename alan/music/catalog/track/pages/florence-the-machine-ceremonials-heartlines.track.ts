@@ -5,9 +5,9 @@ export const florenceTheMachineCeremonialsHeartlines = {
   type: "page-type/track",
   slug: "florence-the-machine-ceremonials-heartlines",
   ownLength: 5.02555,
-  ownProgress: 0,
+  ownProgress: 5.02555,
   partOfCollections: ["release/florence-the-machine-ceremonials"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Heartlines",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const florenceTheMachineCeremonialsHeartlines = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

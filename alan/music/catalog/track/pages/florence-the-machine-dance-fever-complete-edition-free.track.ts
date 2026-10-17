@@ -5,14 +5,14 @@ export const florenceTheMachineDanceFeverCompleteEditionFree = {
   type: "page-type/track",
   slug: "florence-the-machine-dance-fever-complete-edition-free",
   ownLength: 3.914283333333333,
-  ownProgress: 0,
+  ownProgress: 3.914283333333333,
   partOfCollections: [
     "release/florence-the-machine-dance-fever-complete-edition",
     "release/florence-the-machine-dance-fever-deluxe",
     "release/florence-the-machine-dance-fever",
     "release/florence-the-machine-free",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Free",
   trackType: "studio",
@@ -51,5 +51,5 @@ export const florenceTheMachineDanceFeverCompleteEditionFree = {
     },
   ],
   createdAt: "2026-10-17T13:48:50.850Z",
-  updatedAt: "2026-10-17T13:48:50.850Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track

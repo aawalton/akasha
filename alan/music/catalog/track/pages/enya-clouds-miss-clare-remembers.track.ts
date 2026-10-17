@@ -5,9 +5,9 @@ export const enyaCloudsMissClareRemembers = {
   type: "page-type/track",
   slug: "enya-clouds-miss-clare-remembers",
   ownLength: 1.9933333333333334,
-  ownProgress: 0,
+  ownProgress: 1.9933333333333334,
   partOfCollections: ["release/enya-clouds"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Miss Clare Remembers",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const enyaCloudsMissClareRemembers = {
     },
   ],
   createdAt: "2026-10-17T13:47:13.085Z",
-  updatedAt: "2026-10-17T13:47:13.085Z",
+  updatedAt: "2026-10-17T14:00:54.619Z",
 } as const satisfies Track
