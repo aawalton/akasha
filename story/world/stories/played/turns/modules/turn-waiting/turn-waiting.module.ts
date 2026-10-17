@@ -18,13 +18,10 @@ export const turnWaiting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roleplayed turn waits on the roleplay-recorder at game-master and writer.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A roleplayed turn waits on the role any turn waits on at every other status.",
+      statement:
+        "A roleplayed turn waits on the roleplay-recorder at every status between world-builder and player.",
     },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-17T17:54:51.718Z",
+  updatedAt: "2026-10-17T18:35:52.155Z",
 } as const satisfies Module

@@ -52,6 +52,7 @@
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-roleplaying/turn-roleplaying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-roleplaying/turn-roleplaying.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
