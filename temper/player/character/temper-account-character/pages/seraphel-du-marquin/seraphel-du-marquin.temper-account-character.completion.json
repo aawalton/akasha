@@ -12796,11 +12796,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "seen": [
       5,
       3,
@@ -12816,50 +12816,50 @@
       2,
       7,
       3,
-      4,
-      5
+      5,
+      4
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-16",
-    "misplaced": 44
+    "date": "2026-10-17",
+    "misplaced": 0
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792149335,
+      "capturedAt": 1792243409,
       "inCombat": false,
       "stats": {
+        "magicka-recovery": 514,
+        "stamina-recovery": 820,
         "stamina-maximum": 22413,
+        "critical-rating-spell": 6663,
         "critical-rating-weapon": 6663,
-        "penetration-physical": 9896,
-        "resistance-physical": 9284,
         "health-maximum": 20372,
+        "power-weapon": 3337,
         "penetration-spell": 9896,
         "health-recovery": 0,
         "power-spell": 3337,
-        "power-weapon": 3337,
+        "resistance-physical": 9284,
         "magicka-maximum": 12520,
-        "stamina-recovery": 820,
-        "critical-rating-spell": 6663,
-        "magicka-recovery": 514,
         "resistance-spell": 9284,
+        "penetration-physical": 9896,
         "resistance-critical": 1320
       },
       "unbonusedStats": {
+        "magicka-recovery": 514,
+        "stamina-recovery": 820,
         "stamina-maximum": 22413,
+        "critical-rating-spell": 2181,
         "critical-rating-weapon": 2181,
-        "penetration-physical": 0,
-        "resistance-physical": 0,
         "health-maximum": 20372,
+        "power-weapon": 1000,
         "penetration-spell": 0,
         "health-recovery": 0,
         "power-spell": 1000,
-        "power-weapon": 1000,
+        "resistance-physical": 0,
         "magicka-maximum": 12520,
-        "stamina-recovery": 820,
-        "critical-rating-spell": 2181,
-        "magicka-recovery": 514,
         "resistance-spell": 0,
+        "penetration-physical": 0,
         "resistance-critical": 0
       },
       "activeBuffs": [
