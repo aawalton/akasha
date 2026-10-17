@@ -9,7 +9,7 @@ export const blueBoxes00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/blue-boxes-nala", "character-other/blue-boxes-iris"],
-  stepStatus: "step-status/mechanics",
+  stepStatus: "step-status/recorders",
   action:
     '"Umm, if the windows are only supposed to be for facts, how are you using them to talk to me?"',
   beats: "jsonl",
@@ -20,10 +20,10 @@ export const blueBoxes00004 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/plan"],
   roleplayed: true,
   createdAt: "2026-10-17T18:29:27.509Z",
-  updatedAt: "2026-10-17T18:41:14.403Z",
+  updatedAt: "2026-10-17T18:41:24.345Z",
   ownLength: 121,
   endsAt: "2026-10-17T16:51:00.000Z",
 } as const satisfies StoryTurnPlayed
