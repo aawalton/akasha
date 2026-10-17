@@ -12,7 +12,6 @@ import type {
 import {
   type Advanced,
   type Caller,
-  CHAPTER,
   firstMoved,
   GAME_MASTER,
   type Handed,
@@ -24,7 +23,6 @@ import {
   memoryMerged,
   moved,
   type Noun,
-  PLAYER,
   picturedMerged,
   RECORDERS,
   REVIEWERS,
@@ -59,7 +57,7 @@ import {
   fromRoleplay,
   roleplayTakes,
 } from "akasha/story/world/stories/played/turns/modules/turn-roleplaying/turn-roleplaying.module.code.ts"
-import { roleOf } from "akasha/story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts"
+import { callerRefused } from "akasha/story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts"
 
 const STORY_REVIEWER = storyReviewer.slug
 
@@ -94,23 +92,6 @@ const SAID_AS: Readonly<{ [kind in Kind]: string }> = {
 
 function nounOf(held: Held): Noun {
   return held.noun ?? TURN
-}
-
-function callerRefused(held: Held, caller: Caller): string | null {
-  const role = roleOf(held)
-  const noun = nounOf(held)
-  if (role === null && noun === CHAPTER) {
-    return `the chapter is at ${PLAYER}, so it is published and nothing moves it on`
-  }
-  if (role === null) {
-    return `the turn is at ${PLAYER}, and only the player's next action makes the next turn`
-  }
-  if (caller.role === role && caller.game === held.game) return null
-  const from =
-    caller.role === null
-      ? "no seat that holds a role"
-      : `a ${caller.role} seat${caller.game === null ? "" : ` of \`${caller.game}\``}`
-  return `the ${noun} is at ${held.status}, so it waits on the ${role} of \`${held.game}\`, and this advance comes from ${from}`
 }
 
 function namedAs(type: string, slugs: readonly string[]): readonly string[] | undefined {

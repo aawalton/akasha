@@ -14,6 +14,10 @@ export const turnWaiting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Only the seat whose role the turn's status names advances the turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A roleplayed turn waits on the roleplay seat at world-builder.",
     },
     {
@@ -23,5 +27,5 @@ export const turnWaiting = {
     },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-17T18:35:52.155Z",
+  updatedAt: "2026-10-17T20:43:47.275Z",
 } as const satisfies Module

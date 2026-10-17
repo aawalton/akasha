@@ -10,10 +10,6 @@ export const turnAdvancing = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only the seat whose role the turn's status names advances the turn.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "An advance hands in what its own step makes and nothing else.",
     },
     {
@@ -141,5 +137,5 @@ export const turnAdvancing = {
     },
   ],
   createdAt: "2026-10-03T14:34:03.612Z",
-  updatedAt: "2026-10-17T17:54:51.718Z",
+  updatedAt: "2026-10-17T20:43:47.275Z",
 } as const satisfies Module
