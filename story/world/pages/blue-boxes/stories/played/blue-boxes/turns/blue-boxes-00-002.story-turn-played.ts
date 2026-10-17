@@ -23,10 +23,10 @@ export const blueBoxes00002 = {
     "story-reviewer/scene",
     "story-reviewer/style",
   ],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
   roleplayed: true,
   createdAt: "2026-10-17T18:12:42.045Z",
-  updatedAt: "2026-10-17T18:40:02.925Z",
+  updatedAt: "2026-10-17T18:40:13.099Z",
   ownLength: 163,
   endsAt: "2026-10-17T16:46:00.000Z",
 } as const satisfies StoryTurnPlayed
