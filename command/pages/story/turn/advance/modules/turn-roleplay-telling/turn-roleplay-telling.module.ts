@@ -24,6 +24,10 @@ export const turnRoleplayTelling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A roleplay-recorder waits for its next notice only once the last job has landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A roleplay-worldbuilder's notice carries no job.",
     },
     {
@@ -50,5 +54,5 @@ export const turnRoleplayTelling = {
     },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-17T18:37:42.830Z",
+  updatedAt: "2026-10-17T18:39:01.739Z",
 } as const satisfies Module

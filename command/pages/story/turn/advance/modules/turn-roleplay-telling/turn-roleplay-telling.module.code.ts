@@ -28,7 +28,7 @@ const ROLE_STATED = "role-slug"
 const GAME_STATED = "domain-slug"
 
 const JOBS_OPENING =
-  "No seat is started for this step: do each job below yourself, in its order, one advance each."
+  "No seat is started for this step: do each job below yourself, in its order, one advance each, and wait only once the last has landed."
 
 const JOB_BREAK = "\n\n---\n\n"
 
