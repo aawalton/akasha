@@ -65,7 +65,15 @@ export const thornfordShaestrel = {
       ],
     },
     {
-      fact: "She will return on April 29 when the lamps are lit, for the gown's first fitting.",
+      fact: "She came back at half past eight on April 29, for the gown's first fitting in calico.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/thornford-nala",
+        "character-other/thornford-shaestrel",
+      ],
+    },
+    {
+      fact: "At the fitting she took Nala's waist with Nala's tape, and said she has Nala's measure now as well.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/thornford-nala",
@@ -74,5 +82,5 @@ export const thornfordShaestrel = {
     },
   ],
   createdAt: "2026-10-17T20:36:43.997Z",
-  updatedAt: "2026-10-17T20:50:27.809Z",
+  updatedAt: "2026-10-17T21:50:33.930Z",
 } as const satisfies Lore
