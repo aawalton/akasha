@@ -19,7 +19,15 @@ export const thornfordTown = {
       fact: "The town's dressmakers' guild is jealous of its trade.",
       knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
     },
+    {
+      fact: "Blackthorn grows thick along the riverbank by the ford, and is in flower before Beltane.",
+      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
+    },
+    {
+      fact: "Bone needles for leather and sacking are sold at the market stalls.",
+      knowers: ["lore-disclosure/game-master", "character-player/thornford-nala"],
+    },
   ],
   createdAt: "2026-10-17T19:44:40.481Z",
-  updatedAt: "2026-10-17T20:05:03.992Z",
+  updatedAt: "2026-10-17T20:35:39.136Z",
 } as const satisfies Place

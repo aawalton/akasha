@@ -37,10 +37,18 @@ export const thornfordGreyGreenSilk = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A bone needle passes the silk but leaves a mark in it unless the needle is filed fine.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A blackthorn thorn passes the silk but snaps after a few stitches.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Shaestrel does not know the silk balks at steel; the fae sew with thorn and bone.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-17T20:03:46.072Z",
-  updatedAt: "2026-10-17T20:14:59.497Z",
+  updatedAt: "2026-10-17T20:35:39.136Z",
 } as const satisfies Lore
