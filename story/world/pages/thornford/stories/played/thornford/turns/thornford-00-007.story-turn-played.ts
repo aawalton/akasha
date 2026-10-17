@@ -4,6 +4,7 @@ export const thornford00007 = {
   id: "01a14bbc-8f7b-7e3d-9710-01e21e8df1b8",
   type: "page-type/story-turn-played",
   slug: "thornford-00-007",
+  cover: "image/image-e012914caf9bd7ef",
   unit: "unit/words",
   partOfCollections: ["story-played/thornford"],
   position: 7,
@@ -27,8 +28,9 @@ export const thornford00007 = {
     "story-recorder/memory",
   ],
   roleplayed: true,
+  coverAfter: "When you dab it with your thumb, it spreads. A green smear",
   createdAt: "2026-10-17T21:20:11.131Z",
-  updatedAt: "2026-10-17T21:22:32.563Z",
+  updatedAt: "2026-10-17T21:23:48.953Z",
   ownLength: 205,
   endsAt: "2026-04-28T22:55:00.000Z",
 } as const satisfies StoryTurnPlayed
