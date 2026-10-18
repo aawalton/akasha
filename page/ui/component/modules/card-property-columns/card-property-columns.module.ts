@@ -6,6 +6,7 @@ export const cardPropertyColumns = {
   slug: "card-property-columns",
   definition: "the properties a card or a table column is drawn from, in order",
   code: "ts",
+  test: "ts",
   createdAt: "2026-09-01T11:29:11.071Z",
-  updatedAt: "2026-09-15T18:36:57.000Z",
+  updatedAt: "2026-10-18T20:27:17.782Z",
 } as const satisfies Module

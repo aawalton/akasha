@@ -1,6 +1,6 @@
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 
-export const TITLE_COLUMN_ID = "__title__"
+export const TITLE_COLUMN_ID = "title"
 
 export const ACTIONS_COLUMN_PX = 48
 

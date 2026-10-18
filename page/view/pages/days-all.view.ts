@@ -14,8 +14,8 @@ export const daysAll = {
   groupBy: "date",
   groupSorts: [{ key: "date", descending: true }],
   groupGranularity: "week",
-  visibleProperties: ["__title__", "stoplights"],
+  visibleProperties: ["title", "stoplights"],
   alwaysShowProperties: ["stoplights"],
   createdAt: "2026-10-18T13:34:48.175Z",
-  updatedAt: "2026-10-18T20:17:48.555Z",
+  updatedAt: "2026-10-18T20:27:17.782Z",
 } as const satisfies View

@@ -6,6 +6,16 @@ export const pageTableShared = {
   slug: "page-table-shared",
   definition: "Names the title column, the actions column width, and the shape of a table column.",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The title column is named by `title`, the key every page type declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A view naming the title column among its properties names a key its type has.",
+    },
+  ],
   createdAt: "2026-09-01T09:15:01.908Z",
-  updatedAt: "2026-09-15T18:36:57.000Z",
+  updatedAt: "2026-10-18T20:27:17.782Z",
 } as const satisfies Module
