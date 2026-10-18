@@ -14,7 +14,8 @@ export const deployExtensionPlacing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The manifest is read off the worker code without the worker being started.",
+      statement:
+        "The manifest is read off the worker's `MANIFEST` without the worker being started.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,5 +39,5 @@ export const deployExtensionPlacing = {
     },
   ],
   createdAt: "2026-10-18T17:20:17.468Z",
-  updatedAt: "2026-10-18T17:20:17.468Z",
+  updatedAt: "2026-10-18T17:31:07.469Z",
 } as const satisfies Module

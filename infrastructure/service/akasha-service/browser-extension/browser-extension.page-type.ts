@@ -9,6 +9,7 @@ export const browserExtension = {
     { partOfSpeech: "part-of-speech/noun", spelling: "browser extension" },
     { partOfSpeech: "part-of-speech/noun", spelling: "browser extensions" },
   ],
+  pluralSlug: "browser-extensions",
   extends: ["page-type/akasha-service"],
   parts: [
     "module-property-group/extension-worker",
@@ -30,7 +31,8 @@ export const browserExtension = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A browser extension's worker code states the manifest Chrome reads.",
+      statement:
+        "A browser extension's worker code states the manifest Chrome reads as `MANIFEST`.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -52,5 +54,5 @@ export const browserExtension = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-18T17:15:59.652Z",
-  updatedAt: "2026-10-18T17:22:33.392Z",
+  updatedAt: "2026-10-18T17:31:07.469Z",
 } as const satisfies PageType

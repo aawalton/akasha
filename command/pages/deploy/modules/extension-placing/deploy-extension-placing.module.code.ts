@@ -20,9 +20,9 @@ export const SITE_FILE = "site.js"
 
 const MANIFEST_FILE = "manifest.json"
 
-const WORKER = "worker.code"
+const WORKER = "extension-worker.code"
 
-const SITE = "site.code"
+const SITE = "extension-site.code"
 
 const TS = "ts"
 
@@ -108,7 +108,7 @@ export async function putUpExtension(
     return refused(`\`${slug}\` keeps no worker code or no site code beside ${pagePath}`, DATA)
   }
   const loaded: Held = await import(worker)
-  const fault = manifestFault(loaded.manifest)
+  const fault = manifestFault(loaded.MANIFEST)
   if (fault !== null) return refused(`\`${slug}\` would not be placed: ${fault}`, DATA)
   const workerMade = await bundled(codeRoot, join(STUBS, `${slug}.worker.ts`), worker, "runWorker")
   const siteMade = await bundled(codeRoot, join(STUBS, `${slug}.site.ts`), site, "runSite")
@@ -120,7 +120,7 @@ export async function putUpExtension(
   }
   const at = placedAt(home, slug)
   swapped(at, {
-    [MANIFEST_FILE]: `${JSON.stringify(loaded.manifest, null, 2)}\n`,
+    [MANIFEST_FILE]: `${JSON.stringify(loaded.MANIFEST, null, 2)}\n`,
     [WORKER_FILE]: workerMade.text,
     [SITE_FILE]: siteMade.text,
   })

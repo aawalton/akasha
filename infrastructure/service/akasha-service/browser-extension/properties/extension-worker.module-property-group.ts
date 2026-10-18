@@ -7,7 +7,7 @@ export const extensionWorker = {
   id: "01a15003-5b26-7bf9-8851-70999813831d",
   type: "page-type/module-property-group",
   slug: "extension-worker",
-  propertySlug: "worker",
+  propertySlug: "extension-worker",
   definition: "the code a browser extension runs apart from any page",
   decisions: [
     {
@@ -20,5 +20,5 @@ export const extensionWorker = {
     },
   ],
   createdAt: "2026-10-18T17:15:59.652Z",
-  updatedAt: "2026-10-18T17:15:59.652Z",
+  updatedAt: "2026-10-18T17:31:07.469Z",
 } as const satisfies ModulePropertyGroup

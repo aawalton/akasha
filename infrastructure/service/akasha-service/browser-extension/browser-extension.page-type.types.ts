@@ -3,6 +3,6 @@ import type { ExtensionSite } from "akasha/infrastructure/service/akasha-service
 import type { ExtensionWorker } from "akasha/infrastructure/service/akasha-service/browser-extension/properties/extension-worker.module-property-group.ts"
 
 export type BrowserExtension = AkashaService & {
-  worker?: ExtensionWorker
-  site?: ExtensionSite
+  extensionWorker?: ExtensionWorker
+  extensionSite?: ExtensionSite
 }
