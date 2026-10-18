@@ -50,17 +50,9 @@ export const apnsSending = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Which sort of push a send is, is the caller's to name.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A send naming no sort is an alert.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A live activity is the one other sort a send can be.",
+      statement: "Every send is an alert.",
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-09-24T18:50:36.000Z",
+  updatedAt: "2026-10-18T13:21:54.809Z",
 } as const satisfies Module
