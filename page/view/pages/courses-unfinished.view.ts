@@ -9,9 +9,9 @@ export const coursesUnfinished = {
   pageType: "page-type/great-course",
   viewPlace: 0,
   layout: "table",
-  narrows: [{ key: "status", comparison: "not-in", values: ["completed", "archived"] }],
+  narrows: [{ key: "completion", comparison: "not-in", values: ["completed"] }],
   viewSorts: [{ key: "title", descending: false }],
-  visibleProperties: ["status", "grade", "own-length", "own-progress"],
+  visibleProperties: ["completion", "grade", "own-length", "own-progress"],
   createdAt: "2026-10-18T15:37:14.937Z",
-  updatedAt: "2026-10-18T15:37:14.937Z",
+  updatedAt: "2026-10-18T15:40:12.124Z",
 } as const satisfies View
