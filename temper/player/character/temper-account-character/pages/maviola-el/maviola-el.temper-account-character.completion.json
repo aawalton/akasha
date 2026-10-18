@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQIIsdAAIBiBRNC4RtACFnjaAEcO625IWd1tyQs7rbkhZ3W3JCzutuQgj3bckEdvUACCPdtyJhEx2gCIgmOtuVWgwnOLRMVJiekSVaP2HVMkAAgnUEgBQGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAeAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOk3xwGQbwyWeA",
+  "buildHash": "ATQIIsdAAIBiBRNC4RtACFnjaAEcO625IWd1tyQs7rbkhZ3W3JCzutuQgj3bckEdvUACCPdtyJhEx2gCIgmOtuVWgwnOLRMVJiekSVaP2HVMkAAgnUEgBQGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAeAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwBwGQbwyWeA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -6416,8 +6416,8 @@
     }
   },
   "skillPoints": {
-    "total": 493,
-    "unassigned": 205,
+    "total": 494,
+    "unassigned": 206,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -6427,7 +6427,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 176,
     "totalSkyshards": 528,
-    "zoneQuestTotal": 163,
+    "zoneQuestTotal": 164,
     "groupDungeonTotal": 26,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -6508,7 +6508,7 @@
       "NE": 3,
       "BW": 3,
       "EP0a": 0,
-      "SO": 8,
+      "SO": 9,
       "EP0b": 0,
       "AD3": 3,
       "AD4": 3,
@@ -9277,6 +9277,7 @@
     7217,
     7220,
     7228,
+    7244,
     7261,
     7262,
     7263,
@@ -9308,6 +9309,7 @@
     7358,
     7359,
     7360,
+    7393,
     7470,
     7475
   ],
@@ -14320,7 +14322,8 @@
       ],
       "2": [
         1,
-        2
+        2,
+        3
       ],
       "3": [
         1,
@@ -16316,21 +16319,21 @@
   },
   "inventoryCheck": {
     "date": "2026-10-18",
-    "misplaced": 160
+    "misplaced": 163
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792364319,
+      "capturedAt": 1792364685,
       "inCombat": false,
       "stats": {
-        "stamina-recovery": 900,
-        "magicka-maximum": 19682,
+        "stamina-recovery": 0,
+        "magicka-maximum": 15062,
         "critical-rating-spell": 8196,
         "critical-rating-weapon": 8196,
         "power-spell": 4978,
         "health-recovery": 0,
         "resistance-critical": 1320,
-        "health-maximum": 23607,
+        "health-maximum": 18556,
         "power-weapon": 4978,
         "penetration-spell": 10670,
         "resistance-physical": 12930,
@@ -16340,14 +16343,14 @@
         "magicka-recovery": 644
       },
       "unbonusedStats": {
-        "stamina-recovery": 900,
-        "magicka-maximum": 19682,
+        "stamina-recovery": 0,
+        "magicka-maximum": 15062,
         "critical-rating-spell": 2181,
         "critical-rating-weapon": 2181,
         "power-spell": 1000,
         "health-recovery": 0,
         "resistance-critical": 0,
-        "health-maximum": 23607,
+        "health-maximum": 18556,
         "power-weapon": 1000,
         "penetration-spell": 0,
         "resistance-physical": 0,
@@ -16357,13 +16360,6 @@
         "magicka-recovery": 644
       },
       "activeBuffs": [
-        {
-          "abilityId": 127531,
-          "name": "Corrupting Bloody Mara",
-          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you.",
-          "effect": "Increase Max Magicka by |cffffff4620|r.\nIncrease Health Recovery by |cffffff505|r.\nIncrease Max Health by |cffffff5051|r.\n",
-          "stacks": 0
-        },
         {
           "abilityId": 63569,
           "name": "Gallop",
@@ -16405,13 +16401,6 @@
           "description": "",
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
           "stacks": 0
-        },
-        {
-          "abilityId": 122587,
-          "name": "Relentless Focus",
-          "description": "",
-          "effect": "",
-          "stacks": 8
         }
       ],
       "championPoints": [
@@ -17016,7 +17005,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:51622:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:28:1:1:0:6725:0|h|h",
+          "link": "|H0:item:51622:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:28:1:1:0:6525:0|h|h",
           "armor": 2084,
           "enchant": "Adds |cffffff542|r Maximum Magicka.\nAdds |cffffff596|r Maximum Health.\nAdds |cffffff542|r Maximum Stamina.",
           "trait": "Increase armor enchantment effect by |cffffff25|r%.",
@@ -17032,7 +17021,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:230:0|h|h",
+          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:229:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2014|r Physical Damage and restores |cffffff354|r Stamina.",
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
@@ -17122,7 +17111,7 @@
           "slot": 5,
           "abilityId": 193398,
           "name": "Pragmatic Fatecarver",
-          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3545|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff11803|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3545|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff9278|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
           "durationMs": 0,
           "castMs": 4500,
           "channeled": true,
