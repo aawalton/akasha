@@ -54,6 +54,12 @@ export const INDEX = "index"
 
 export const QUEST = "questId"
 
+export const ACHIEVEMENT = "achievementId"
+
+export const ZONE_SKYSHARD = "zoneId,skyshardIndex"
+
+export const SKYSHARD = "skyshardId"
+
 export const ASKED_SHAPES: readonly string[] = [
   NO_VALUES,
   UNIT,
@@ -83,4 +89,7 @@ export const ASKED_SHAPES: readonly string[] = [
   SETTING,
   INDEX,
   QUEST,
+  ACHIEVEMENT,
+  ZONE_SKYSHARD,
+  SKYSHARD,
 ]

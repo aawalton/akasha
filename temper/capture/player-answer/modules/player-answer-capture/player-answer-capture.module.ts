@@ -54,6 +54,14 @@ export const playerAnswerCapture = {
         "A quest not completed is left unasked, so the sandbox answers it as not completed.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The achievements and zones the skill point finder counts are asked about too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each skyshard in those zones is asked about, as the game lists them by zone.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The game's own setting ids all fall below 100.",
     },
@@ -93,5 +101,5 @@ export const playerAnswerCapture = {
     },
   ],
   createdAt: "2026-09-24T22:10:34.922Z",
-  updatedAt: "2026-10-18T19:06:18.258Z",
+  updatedAt: "2026-10-18T19:09:02.295Z",
 } as const satisfies Module

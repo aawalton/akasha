@@ -1,5 +1,6 @@
 import type { PlayerAnswers } from "akasha/temper/capture/player-answer/modules/player-answer-descriptor/player-answer-descriptor.module.code.ts"
 import {
+  ACHIEVEMENT,
   ACTION_DEVICE,
   ACTION_NAME,
   ACTION_SLOT,
@@ -23,11 +24,13 @@ import {
   NO_VALUES,
   QUEST,
   SETTING,
+  SKYSHARD,
   UNIT,
   UNIT_BUFF,
   UNIT_POWER,
   ZONE,
   ZONE_INDEX,
+  ZONE_SKYSHARD,
 } from "akasha/temper/capture/player-answer/modules/player-asking-shapes/player-asking-shapes.module.code.ts"
 import { PLAYER_ASKINGS } from "akasha/temper/capture/player-answer/modules/player-askings/player-askings.data-table.code.ts"
 import type { EngineAnswer } from "akasha/temper/capture/shape/modules/engine-answer-catalog/engine-answer-catalog.module.code.ts"
@@ -37,6 +40,11 @@ import {
   wholeAnswersOf,
 } from "akasha/temper/capture/writer/modules/function-answers/function-answers.module.code.ts"
 import { runBatched } from "akasha/temper/capture/writer/modules/run-batched/run-batched.module.code.ts"
+import {
+  MAEL_ACHIEVEMENT,
+  PUBLIC_DUNGEONS,
+  ZONE_IDS,
+} from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface Asking {
@@ -266,6 +274,20 @@ function completedQuests(this: void): number[] {
   return found
 }
 
+function finderAskings(this: void, add: Adding): undefined {
+  for (const achievement of [MAEL_ACHIEVEMENT, ...PUBLIC_DUNGEONS.map((one) => one.achievement)]) {
+    add(ACHIEVEMENT, [achievement])
+  }
+  for (const zone of Object.values(ZONE_IDS)) {
+    add(ZONE, [zone])
+    for (const index of fromTo(FIRST, numberOf("GetNumSkyshardsInZone", [zone]))) {
+      add(ZONE_SKYSHARD, [zone, index])
+      add(SKYSHARD, [numberOf("GetZoneSkyshardId", [zone, index])])
+    }
+  }
+  return undefined
+}
+
 function askingsNow(this: void): Asking[] {
   const found: Asking[] = []
   function add(this: void, shape: string, values: AskedValue[]): undefined {
@@ -291,6 +313,7 @@ function askingsNow(this: void): Asking[] {
   settingAskings(add)
   for (const index of fromTo(FIRST, numberOf("GetNumCharacters"))) add(INDEX, [index])
   for (const quest of completedQuests()) add(QUEST, [quest])
+  finderAskings(add)
   return found
 }
 
