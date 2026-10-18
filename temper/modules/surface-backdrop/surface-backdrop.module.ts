@@ -26,6 +26,10 @@ export const surfaceBackdrop = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What Temper shows over play sits on black at half opacity, with no edge.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A caller needing its own name, anchors or layer makes the backdrop and has this paint it.",
     },
@@ -36,5 +40,5 @@ export const surfaceBackdrop = {
     },
   ],
   createdAt: "2026-09-22T17:13:21.177Z",
-  updatedAt: "2026-10-18T17:23:25.067Z",
+  updatedAt: "2026-10-18T17:34:18.543Z",
 } as const satisfies Module

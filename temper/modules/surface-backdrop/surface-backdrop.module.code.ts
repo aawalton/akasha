@@ -47,6 +47,20 @@ export function paintSurface(backdrop: BackdropControl, level: SurfaceLevel): un
   backdrop.SetInsets(art.inset, art.inset, -art.inset, -art.inset)
 }
 
+const OVER_PLAY_SHADE = 0
+
+const OVER_PLAY_ALPHA = 0.5
+
+const CLEAR = 0
+
+export function paintOverPlay(backdrop: BackdropControl): undefined {
+  backdrop.SetCenterTexture(undefined)
+  backdrop.SetCenterColor(OVER_PLAY_SHADE, OVER_PLAY_SHADE, OVER_PLAY_SHADE, OVER_PLAY_ALPHA)
+  backdrop.SetEdgeTexture(undefined, 1, 1, CLEAR)
+  backdrop.SetEdgeColor(CLEAR, CLEAR, CLEAR, CLEAR)
+  backdrop.SetInsets(CLEAR, CLEAR, CLEAR, CLEAR)
+}
+
 export function drawSurface(parent: Control, level: SurfaceLevel): BackdropControl {
   const backdrop = WINDOW_MANAGER.CreateControl("$(parent)BG", parent, CT_BACKDROP)
   backdrop.SetAnchorFill()

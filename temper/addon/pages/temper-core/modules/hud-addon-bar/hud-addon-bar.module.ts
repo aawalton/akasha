@@ -21,7 +21,7 @@ export const hudAddonBar = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cell stating no color is drawn in the secondary text color.",
+      statement: "A cell stating no color is drawn in the muted text color.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,5 +38,5 @@ export const hudAddonBar = {
     },
   ],
   createdAt: "2026-09-02T10:58:22.045Z",
-  updatedAt: "2026-10-08T19:01:20.972Z",
+  updatedAt: "2026-10-18T17:34:18.543Z",
 } as const satisfies Module

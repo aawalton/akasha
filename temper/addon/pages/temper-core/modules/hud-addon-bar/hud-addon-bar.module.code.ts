@@ -2,15 +2,12 @@ import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { createFieldRegistry } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-field-registry/hud-addon-field-registry.module.code.ts"
 import { layoutCells } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-layout/hud-addon-layout.module.code.ts"
 import type { HudField } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-types/hud-addon-types.module.code.ts"
+import { paintOverPlay } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import {
-  paintSurface,
-  type SurfaceLevel,
-} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
-import {
+  colorOf,
   colorText,
   styleTextOverPlay,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
@@ -30,8 +27,6 @@ const COL_GAP = spaceOf("6")
 
 const COLUMN_WIDTH = 56
 
-const BAR_LEVEL: SurfaceLevel = 1
-
 const registry = createFieldRegistry()
 const labels = new Map<string, LabelControl>()
 
@@ -43,7 +38,7 @@ function makeLabel(id: string): LabelControl {
   }
   const label = WINDOW_MANAGER.CreateControl(`${LABEL_NAME_PREFIX}${id}`, container, CT_LABEL)
   label.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
-  return colorText(styleTextOverPlay(label, "number"), TEXT_SECONDARY)
+  return colorText(styleTextOverPlay(label, "number"), colorOf("muted"))
 }
 
 function reflow(): undefined {
@@ -80,8 +75,7 @@ export function initializeHudBar(): undefined {
 
   const backdrop = WINDOW_MANAGER.CreateControl(HUD_BACKDROP_NAME, bar, CT_BACKDROP)
   backdrop.SetAnchorFill(bar)
-  paintSurface(backdrop, BAR_LEVEL)
-  backdrop.SetEdgeColor(0, 0, 0, 0)
+  paintOverPlay(backdrop)
   backdrop.SetDrawLayer(DL_BACKGROUND)
 
   EVENT_MANAGER.RegisterForUpdate(
@@ -108,7 +102,7 @@ function writeField(field: HudField): undefined {
   const cell = field.compute()
   label.SetText(cell.text)
   if (cell.color === undefined) {
-    label.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+    colorText(label, colorOf("muted"))
   } else {
     const [red, green, blue] = cell.color
     label.SetColor(red, green, blue, 1)
