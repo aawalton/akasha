@@ -84,6 +84,10 @@ export const deployKindReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A browser extension is a tenth kind a slug may name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The words a refusal names each kind in are kept here beside the kinds.",
     },
     {
@@ -100,5 +104,5 @@ export const deployKindReading = {
     },
   ],
   createdAt: "2026-09-02T00:41:45.895Z",
-  updatedAt: "2026-09-27T15:39:11.000Z",
+  updatedAt: "2026-10-18T17:20:17.468Z",
 } as const satisfies Module

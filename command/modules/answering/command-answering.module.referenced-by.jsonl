@@ -75,11 +75,13 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/desktop-app-promoting/deploy-desktop-app-promoting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/extension-placing/deploy-extension-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/holding/deploy-holding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/holding/deploy-holding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/image-pushing/deploy-image-pushing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/kind-putting/deploy-kind-putting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts","typed":false,"deferred":false}

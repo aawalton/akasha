@@ -1,6 +1,7 @@
 import { readdirSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import {
+  BROWSER_EXTENSION,
   CLUSTER_FOUNDATION,
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
@@ -19,6 +20,7 @@ export const PINNED: ReadonlySet<string> = new Set([
   WEB_APP,
   TEMPER_ADDON,
   CLUSTER_FOUNDATION,
+  BROWSER_EXTENSION,
 ])
 
 export type Unowned = {

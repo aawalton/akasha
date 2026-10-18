@@ -1335,12 +1335,14 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/desktop-app-promoting/deploy-desktop-app-promoting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/extension-placing/deploy-extension-placing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/holding/deploy-holding.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/image-pushing/deploy-image-pushing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/inference-installing/deploy-inference-installing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/ios-installing/deploy-ios-installing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/kind-putting/deploy-kind-putting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.ts","typed":true,"deferred":false}
