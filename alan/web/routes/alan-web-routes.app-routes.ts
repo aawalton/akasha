@@ -62,6 +62,7 @@ export const alanWebRoutes = {
     "route/no-such-route",
     "route/pages-ready",
     "route/readout-relay",
+    "route/resources-stoplights",
     "route/safety-level",
     "route/surplus",
     "route/wallpaper",
@@ -89,5 +90,5 @@ export const alanWebRoutes = {
     },
   ],
   createdAt: "2026-09-10T15:18:13.817Z",
-  updatedAt: "2026-10-18T13:21:00.027Z",
+  updatedAt: "2026-10-18T13:38:52.365Z",
 } as const satisfies AppRoutes

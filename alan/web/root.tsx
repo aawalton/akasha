@@ -57,6 +57,7 @@ const AUTH_CONFIG: RouteAccessConfig = {
     /^\/api\/cost/,
     /^\/api\/inbox-stoplights/,
     /^\/api\/habit-stoplights/,
+    /^\/api\/resources-stoplights/,
     /^\/api\/surplus/,
     /^\/api\/safety-level/,
     /^\/api\/categorization/,

@@ -8,6 +8,7 @@ export const resources = {
   figureOffScale: true,
   wireKeyName: "resource",
   statusBarSection: "resources",
+  servedBy: ["route/resources-stoplights"],
   createdAt: "2026-10-18T13:32:41.384Z",
-  updatedAt: "2026-10-18T13:32:41.384Z",
+  updatedAt: "2026-10-18T13:38:52.365Z",
 } as const satisfies ReadoutGroup

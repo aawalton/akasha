@@ -43,6 +43,10 @@ export default [
   route("api/inbox-stoplights", "routes/inbox-stoplights/inbox-stoplights.route.code.ts"),
   route("api/habit-stoplights", "routes/habit-stoplights/habit-stoplights.route.code.ts"),
   route(
+    "api/resources-stoplights",
+    "routes/resources-stoplights/resources-stoplights.route.code.ts"
+  ),
+  route(
     "api/attribute-stoplights",
     "routes/attribute-stoplights/attribute-stoplights.route.code.ts"
   ),

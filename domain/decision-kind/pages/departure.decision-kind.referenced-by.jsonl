@@ -1344,6 +1344,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/no-such-route/no-such-route.route.ts","id":"01a072dd-d488-7e97-b669-7076f6de9c20"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/pages-ready/pages-ready.route.ts","id":"01a072b4-378d-70ab-8d75-5361b4ca7293"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/readout-relay/readout-relay.route.ts","id":"01a08260-1dd1-790e-88fa-55c606f58578"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/resources-stoplights/resources-stoplights.route.ts","id":"01a14f3c-934e-78dc-a700-518ac1a969d2"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/safety-level/safety-level.route.ts","id":"01a08245-3127-74f2-8f5d-ac9cc9ef6bb1"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/surplus/surplus.route.ts","id":"01a07c5c-cffc-7e06-993e-f7b533204f65"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/wallpaper/wallpaper.route.ts","id":"01a07855-477e-7aa1-8183-3cb381287569"}
