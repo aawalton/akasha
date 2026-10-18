@@ -11,6 +11,7 @@ export const amy = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "57b109d6-2f11-4729-9004-745a6b6400ab",
   createdAt: "2026-10-18T13:08:20.594Z",
-  updatedAt: "2026-10-18T13:08:20.594Z",
+  updatedAt: "2026-10-18T13:08:23.152Z",
 } as const satisfies Seat
