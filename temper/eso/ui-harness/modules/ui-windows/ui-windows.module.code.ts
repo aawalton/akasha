@@ -234,6 +234,8 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     "Temper",
     "TemperAddons",
     `
+      HasAgreedToEULA = function() return true end
+      HasViewedEULA = function() return true end
       SCENE_MANAGER:CallWhen("gameMenuInGame", SCENE_SHOWN, function()
         local entry = ZO_GameMenu_InGame.gameMenu.headerControls[GetString(SI_GAME_MENU_ADDONS)]
         entry:GetTree():SelectNode(entry)

@@ -85,6 +85,14 @@ export const uiWindows = {
       statement: "The crafting button is turned on by its show-button option.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game shows its add-on terms before the Addons page to a player not agreed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The Addons page is opened as by a player who agreed to the add-on terms.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A window filled on an interval runs that interval's work once as it opens.",
     },
@@ -103,5 +111,5 @@ export const uiWindows = {
     },
   ],
   createdAt: "2026-09-22T18:34:22.283Z",
-  updatedAt: "2026-10-18T20:18:16.318Z",
+  updatedAt: "2026-10-18T20:25:36.170Z",
 } as const satisfies Module
