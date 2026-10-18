@@ -1,6 +1,7 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a14f20-9e11-7000-a53b-1e2e9cc76a9a"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/amy-a177385ccaa4d013b/amy-a177385ccaa4d013b.subagent.ts","id":"01a14f54-a2db-7d50-a8f9-4fcbaea49e0b"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/amy-a7989a398681af842/amy-a7989a398681af842.subagent.ts","id":"01a14f5a-e490-74ca-b7c3-d024fcf94b13"}
+{"propertySlug":"assignment-slug","path":"agent/subagent/pages/amy-ac1f1b8bb9996923a/amy-ac1f1b8bb9996923a.subagent.ts","id":"01a14f5d-d2a2-7114-8a10-1b9724b1fcb4"}
 {"propertySlug":"championed-domain","path":"persona/pages/amy/amy.persona.ts","id":"019eb900-4c8c-7304-aae1-b287c6b53b3e"}
 {"propertySlug":"import","fileName":"alan-harness.domain.ts","path":"command/pages/seat/messaged/seat-messaged.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/alan.domain.ts","id":"01a05dfc-d883-7000-81e2-065c3cad4cec"}
