@@ -7,6 +7,12 @@ export const combatTemplatesLayout = {
   definition: "every reusable control building the report windows",
   markup: "xml",
   loadedAs: "TemperCombat_Templates.xml",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A framed panel in the report takes the game's inset art.",
+    },
+  ],
   createdAt: "2026-09-02T09:42:10.770Z",
-  updatedAt: "2026-09-22T13:46:35.000Z",
+  updatedAt: "2026-10-18T19:43:25.819Z",
 } as const satisfies EsoInterface

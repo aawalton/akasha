@@ -97,23 +97,11 @@
 			virtual="true" />
 		<Line name="TemperCombat_Line_Solid" thickness="16" textureFile="TemperCombat/art/line4.dds" virtual="true" />
 
-		<Backdrop name="TemperCombat_BackgroundFramed_Solid" virtual="true" edgeColor="FFFFFFFF" centerColor="00000000">
+		<Backdrop name="TemperCombat_BackgroundFramed_Solid" virtual="true" inherits="ZO_InsetBackdrop" />
 
-			<Edge file="TemperCombat/art/simpleframe4.dds" edgeFileWidth="128" edgeFileHeight="16" edgeSize="8" />
+		<Backdrop name="TemperCombat_BackgroundFramed" virtual="true" inherits="ZO_InsetBackdrop" />
 
-		</Backdrop>
-
-		<Backdrop name="TemperCombat_BackgroundFramed" virtual="true" edgeColor="FFFFFFFF" centerColor="00000000">
-
-			<Edge file="TemperCombat/art/simpleframe2.dds" edgeFileWidth="128" edgeFileHeight="16" edgeSize="8" />
-
-		</Backdrop>
-
-		<Backdrop name="TemperCombat_BackgroundFramed_Thin" virtual="true" edgeColor="FFAAAAAA" centerColor="00000000">
-
-			<Edge file="TemperCombat/art/simpleframe1.dds" edgeFileWidth="128" edgeFileHeight="16" edgeSize="8" />
-
-		</Backdrop>
+		<Backdrop name="TemperCombat_BackgroundFramed_Thin" virtual="true" inherits="ZO_InsetBackdrop" />
 
 		<Backdrop name="TemperCombat_HighLight" edgeColor="00000000" centerColor="33FFFFFF" layer="OVERLAY"
 			excludeFromResizeToFitExtents="true" virtual="true">
