@@ -7,8 +7,8 @@ export const kellyClarksonNissanLiveSetsAtYahooMusic = {
   title: "Nissan Live Sets At Yahoo! Music",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 28.9846,
-  ownProgress: 28.9846,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2007-07-31",
@@ -21,5 +21,5 @@ export const kellyClarksonNissanLiveSetsAtYahooMusic = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

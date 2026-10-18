@@ -7,8 +7,8 @@ export const kellyClarksonWalkAwayRemixes = {
   title: "Walk Away - Remixes",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 32.479083333333335,
-  ownProgress: 32.479083,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2006-03-28",
@@ -21,5 +21,5 @@ export const kellyClarksonWalkAwayRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.288Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

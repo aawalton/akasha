@@ -7,8 +7,8 @@ export const kellyClarksonMissIndependentJuniorVasquezTribal = {
   title: "Miss Independent (Junior Vasquez Tribal)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 9.338216666666666,
-  ownProgress: 9.338217,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2003-09-23",
@@ -21,5 +21,5 @@ export const kellyClarksonMissIndependentJuniorVasquezTribal = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.276Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

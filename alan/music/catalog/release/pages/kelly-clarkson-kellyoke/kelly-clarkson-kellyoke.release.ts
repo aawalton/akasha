@@ -7,8 +7,8 @@ export const kellyClarksonKellyoke = {
   title: "Kellyoke",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 22.27965,
-  ownProgress: 22.27965,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-06-09",
@@ -21,5 +21,5 @@ export const kellyClarksonKellyoke = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const kellyClarksonCatchMyBreathRemixes = {
   title: "Catch My Breath Remixes",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 36.76883333333333,
-  ownProgress: 36.768833,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-12-14",
@@ -21,5 +21,5 @@ export const kellyClarksonCatchMyBreathRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

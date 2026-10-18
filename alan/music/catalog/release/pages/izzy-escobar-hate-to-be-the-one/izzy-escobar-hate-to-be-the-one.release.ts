@@ -4,7 +4,7 @@ export const izzyEscobarHateToBeTheOne = {
   id: "01a0a5ce-2376-7fbc-bbcd-bf22f157695b",
   type: "page-type/release",
   slug: "izzy-escobar-hate-to-be-the-one",
-  ownLength: 3.4911,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/izzy-escobar"],
   position: 0,
@@ -21,5 +21,5 @@ export const izzyEscobarHateToBeTheOne = {
   ],
   title: "Hate to Be the One",
   createdAt: "2026-09-15T16:02:25.270Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const kellyClarksonIVeLovedYouSinceForever = {
   title: "I've Loved You Since Forever",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 1.3491166666666667,
-  ownProgress: 1.349117,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-03-08",
@@ -21,5 +21,5 @@ export const kellyClarksonIVeLovedYouSinceForever = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

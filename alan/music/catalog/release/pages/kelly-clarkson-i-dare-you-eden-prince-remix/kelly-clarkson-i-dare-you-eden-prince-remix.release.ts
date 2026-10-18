@@ -7,8 +7,8 @@ export const kellyClarksonIDareYouEdenPrinceRemix = {
   title: "I Dare You (Eden Prince Remix)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 6.569683333333334,
-  ownProgress: 6.569683,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-05-15",
@@ -21,5 +21,5 @@ export const kellyClarksonIDareYouEdenPrinceRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

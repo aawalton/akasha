@@ -7,8 +7,8 @@ export const kellyClarksonBreakaway = {
   title: "Breakaway",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 44.79703333333333,
-  ownProgress: 44.797033,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2004-01-17",
@@ -21,5 +21,5 @@ export const kellyClarksonBreakaway = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

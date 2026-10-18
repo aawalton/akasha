@@ -7,8 +7,8 @@ export const kellyClarksonIDareYouTeRetoAAmarFeatBlasCanto = {
   title: "I Dare You (Te Reto A Amar) [feat. Blas Cantó]",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 3.601783333333333,
-  ownProgress: 3.601783,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-04-12",
@@ -21,5 +21,5 @@ export const kellyClarksonIDareYouTeRetoAAmarFeatBlasCanto = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

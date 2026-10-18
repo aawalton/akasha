@@ -7,8 +7,8 @@ export const kellyClarksonHeatLukeSolomonRemix = {
   title: "Heat (Luke Solomon Remix)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 10.8913,
-  ownProgress: 10.8913,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-07-27",
@@ -21,5 +21,5 @@ export const kellyClarksonHeatLukeSolomonRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

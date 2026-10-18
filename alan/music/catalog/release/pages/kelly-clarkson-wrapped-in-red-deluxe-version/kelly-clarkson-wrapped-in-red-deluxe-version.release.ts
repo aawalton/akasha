@@ -7,8 +7,8 @@ export const kellyClarksonWrappedInRedDeluxeVersion = {
   title: "Wrapped In Red (Deluxe Version)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 51.85095,
-  ownProgress: 51.85095,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-10-29",
@@ -21,5 +21,5 @@ export const kellyClarksonWrappedInRedDeluxeVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.289Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

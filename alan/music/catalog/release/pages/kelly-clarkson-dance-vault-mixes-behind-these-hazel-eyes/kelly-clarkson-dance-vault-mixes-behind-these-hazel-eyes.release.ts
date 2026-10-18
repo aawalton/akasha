@@ -7,8 +7,8 @@ export const kellyClarksonDanceVaultMixesBehindTheseHazelEyes = {
   title: "Dance Vault Mixes - Behind These Hazel Eyes",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 20.460433333333334,
-  ownProgress: 20.460433,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-08-01",
@@ -21,5 +21,5 @@ export const kellyClarksonDanceVaultMixesBehindTheseHazelEyes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const kellyClarksonLoveMeLikeAManLive = {
   title: "Love Me Like a Man (Live)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 3.2367,
-  ownProgress: 3.2367,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-03",
@@ -21,5 +21,5 @@ export const kellyClarksonLoveMeLikeAManLive = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

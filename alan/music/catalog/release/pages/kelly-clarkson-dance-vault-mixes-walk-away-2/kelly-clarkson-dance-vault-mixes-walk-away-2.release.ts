@@ -7,8 +7,8 @@ export const kellyClarksonDanceVaultMixesWalkAway2 = {
   title: "Dance Vault Mixes - Walk Away (2)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 28.56975,
-  ownProgress: 28.56975,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2006-03-28",
@@ -21,5 +21,5 @@ export const kellyClarksonDanceVaultMixesWalkAway2 = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

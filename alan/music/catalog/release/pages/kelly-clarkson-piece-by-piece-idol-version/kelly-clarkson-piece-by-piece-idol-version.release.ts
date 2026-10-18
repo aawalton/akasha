@@ -7,8 +7,8 @@ export const kellyClarksonPieceByPieceIdolVersion = {
   title: "Piece by Piece (Idol Version)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 3.5279,
-  ownProgress: 3.5279,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-02-29",
@@ -21,5 +21,5 @@ export const kellyClarksonPieceByPieceIdolVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

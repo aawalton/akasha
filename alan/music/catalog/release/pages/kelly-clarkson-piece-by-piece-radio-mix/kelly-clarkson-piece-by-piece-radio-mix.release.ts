@@ -7,8 +7,8 @@ export const kellyClarksonPieceByPieceRadioMix = {
   title: "Piece by Piece (Radio Mix)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 3.7453333333333334,
-  ownProgress: 3.745333,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-11-19",
@@ -21,5 +21,5 @@ export const kellyClarksonPieceByPieceRadioMix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

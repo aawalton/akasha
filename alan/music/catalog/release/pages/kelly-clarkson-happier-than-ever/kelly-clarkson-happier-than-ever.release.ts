@@ -7,8 +7,8 @@ export const kellyClarksonHappierThanEver = {
   title: "Happier Than Ever",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 6.331883333333334,
-  ownProgress: 6.331883,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-05-25",
@@ -21,5 +21,5 @@ export const kellyClarksonHappierThanEver = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.271Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

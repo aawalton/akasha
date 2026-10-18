@@ -7,8 +7,8 @@ export const kellyClarksonWrappedInRedRuffLoaderzRemix = {
   title: "Wrapped In Red (Ruff Loaderz Remix)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 10.1875,
-  ownProgress: 10.1875,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-12-08",
@@ -21,5 +21,5 @@ export const kellyClarksonWrappedInRedRuffLoaderzRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.289Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

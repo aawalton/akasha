@@ -7,8 +7,8 @@ export const kellyClarksonSinceUBeenGoneJulietSVersion = {
   title: "Since U Been Gone (Juliet’s Version)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 2.8278333333333334,
-  ownProgress: 2.827833,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-11-16",
@@ -21,5 +21,5 @@ export const kellyClarksonSinceUBeenGoneJulietSVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

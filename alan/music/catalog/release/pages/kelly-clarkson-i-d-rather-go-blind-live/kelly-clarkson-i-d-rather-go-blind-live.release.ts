@@ -7,8 +7,8 @@ export const kellyClarksonIDRatherGoBlindLive = {
   title: "I'd Rather Go Blind (Live)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 2.9334166666666666,
-  ownProgress: 2.933417,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-03",
@@ -21,5 +21,5 @@ export const kellyClarksonIDRatherGoBlindLive = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

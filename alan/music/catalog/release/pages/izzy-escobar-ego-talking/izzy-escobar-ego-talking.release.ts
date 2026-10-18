@@ -4,7 +4,7 @@ export const izzyEscobarEgoTalking = {
   id: "01a14f42-9b40-763a-acd6-c4cafab7626c",
   type: "page-type/release",
   slug: "izzy-escobar-ego-talking",
-  ownLength: 2.9166666666666665,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/izzy-escobar"],
   position: 0,
@@ -21,5 +21,5 @@ export const izzyEscobarEgoTalking = {
   ],
   title: "Ego Talking",
   createdAt: "2026-10-18T13:45:27.615Z",
-  updatedAt: "2026-10-18T13:45:27.615Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const kellyClarksonIDonTThinkAboutYouRemixes = {
   title: "I Don't Think About You (Remixes)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 14.807983333333333,
-  ownProgress: 14.807983,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-03-23",
@@ -21,5 +21,5 @@ export const kellyClarksonIDonTThinkAboutYouRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

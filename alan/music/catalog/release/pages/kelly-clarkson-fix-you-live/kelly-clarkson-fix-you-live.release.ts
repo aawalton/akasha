@@ -7,8 +7,8 @@ export const kellyClarksonFixYouLive = {
   title: "Fix You (Live)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 4.007866666666667,
-  ownProgress: 4.007867,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-03",
@@ -21,5 +21,5 @@ export const kellyClarksonFixYouLive = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

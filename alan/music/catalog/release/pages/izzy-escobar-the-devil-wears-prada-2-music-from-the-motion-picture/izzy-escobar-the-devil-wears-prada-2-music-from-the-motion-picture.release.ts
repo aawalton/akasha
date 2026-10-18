@@ -4,7 +4,7 @@ export const izzyEscobarTheDevilWearsPrada2MusicFromTheMotionPicture = {
   id: "01a0a5ce-2014-7893-bc9b-e5588ef76a44",
   type: "page-type/release",
   slug: "izzy-escobar-the-devil-wears-prada-2-music-from-the-motion-picture",
-  ownLength: 44.144,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/izzy-escobar"],
   position: 0,
@@ -21,5 +21,5 @@ export const izzyEscobarTheDevilWearsPrada2MusicFromTheMotionPicture = {
   ],
   title: "The Devil Wears Prada 2 (Music From The Motion Picture)",
   createdAt: "2026-09-15T16:02:24.404Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

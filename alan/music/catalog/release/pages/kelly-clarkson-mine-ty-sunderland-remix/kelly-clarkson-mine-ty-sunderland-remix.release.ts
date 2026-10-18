@@ -7,8 +7,8 @@ export const kellyClarksonMineTySunderlandRemix = {
   title: "mine (Ty Sunderland Remix)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 7.205883333333333,
-  ownProgress: 7.205883,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-05-05",
@@ -21,5 +21,5 @@ export const kellyClarksonMineTySunderlandRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.276Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const kellyClarksonWhenChristmasComesAround = {
   title: "When Christmas Comes Around...",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 48.01176666666667,
-  ownProgress: 48.011767,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-10-15",
@@ -21,5 +21,5 @@ export const kellyClarksonWhenChristmasComesAround = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.288Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const kellyClarksonLighthouse = {
   title: "lighthouse",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 6.833566666666667,
-  ownProgress: 6.833567,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-01-12",
@@ -21,5 +21,5 @@ export const kellyClarksonLighthouse = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

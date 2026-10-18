@@ -7,8 +7,8 @@ export const kellyClarksonWhenChemistryComesAround = {
   title: "When chemistry Comes Around",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 17.315566666666665,
-  ownProgress: 17.315567,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-12-06",
@@ -21,5 +21,5 @@ export const kellyClarksonWhenChemistryComesAround = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.288Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

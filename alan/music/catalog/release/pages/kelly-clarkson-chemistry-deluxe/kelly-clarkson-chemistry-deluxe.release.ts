@@ -7,8 +7,8 @@ export const kellyClarksonChemistryDeluxe = {
   title: "chemistry (Deluxe)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 71.59555,
-  ownProgress: 71.59555,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-09-22",
@@ -21,5 +21,5 @@ export const kellyClarksonChemistryDeluxe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

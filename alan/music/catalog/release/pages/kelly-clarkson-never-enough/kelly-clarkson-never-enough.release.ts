@@ -7,8 +7,8 @@ export const kellyClarksonNeverEnough = {
   title: "Never Enough",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 3.4022166666666664,
-  ownProgress: 3.402217,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-11-09",
@@ -21,5 +21,5 @@ export const kellyClarksonNeverEnough = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

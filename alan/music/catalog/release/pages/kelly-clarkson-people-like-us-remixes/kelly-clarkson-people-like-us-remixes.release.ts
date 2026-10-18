@@ -7,8 +7,8 @@ export const kellyClarksonPeopleLikeUsRemixes = {
   title: "People Like Us (Remixes)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 33.90331666666667,
-  ownProgress: 33.903317,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-04-30",
@@ -21,5 +21,5 @@ export const kellyClarksonPeopleLikeUsRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

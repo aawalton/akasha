@@ -7,8 +7,8 @@ export const kellyClarksonHeatPaulMorrellRemix = {
   title: "Heat (Paul Morrell Remix)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 3.3356333333333335,
-  ownProgress: 3.335633,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-01-04",
@@ -21,5 +21,5 @@ export const kellyClarksonHeatPaulMorrellRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release

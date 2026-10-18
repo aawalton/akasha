@@ -7,8 +7,8 @@ export const izzyEscobarSunnyInLondon = {
   title: "Sunny in London",
   partOfCollections: ["artist/izzy-escobar"],
   position: 0,
-  ownLength: 20.74235,
-  ownProgress: 20.74235,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "B",
@@ -22,5 +22,5 @@ export const izzyEscobarSunnyInLondon = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-18T14:00:36.173Z",
 } as const satisfies Release
