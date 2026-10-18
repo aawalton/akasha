@@ -9,9 +9,10 @@ export const combatUiReportInit = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The report window keeps the frame, fonts and layout Combat Metrics gives it.",
+      statement:
+        "The report window sits on the game's default backdrop, in Combat Metrics' layout.",
     },
   ],
   createdAt: "2026-09-02T09:42:10.778Z",
-  updatedAt: "2026-09-26T15:48:51.000Z",
+  updatedAt: "2026-10-18T17:43:08.318Z",
 } as const satisfies Module

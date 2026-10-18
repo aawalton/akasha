@@ -14,9 +14,9 @@ export const combatUiLiveReport = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The fight report stays as upstream has it, and only the live display departs from upstream.",
+        "The live report sits on the over-play shade, dimmed further by the player's alpha.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:52.432Z",
+  updatedAt: "2026-10-18T17:43:08.318Z",
   createdAt: "2026-09-02T09:42:10.774Z",
 } as const satisfies Module

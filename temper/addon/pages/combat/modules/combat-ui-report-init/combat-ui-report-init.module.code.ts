@@ -49,6 +49,10 @@ import {
 import { updateFightStatsPanelRight } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"
 import { updateTitlePanel } from "akasha/temper/addon/pages/combat/modules/combat-ui-title-panel/combat-ui-title-panel.module.code.ts"
 import { updateUnitPanel } from "akasha/temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts"
+import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-ui-state-declarations/combat-ui-state-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
@@ -56,6 +60,7 @@ import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
@@ -151,12 +156,15 @@ function resize(this: void, control: LayoutControl, scale: number | undefined): 
 
 let scene: Scene | undefined
 
+const WINDOW_LEVEL: SurfaceLevel = 1
+
 export function initFightReport(
   this: void,
   toggleFightReport: (this: void) => undefined
 ): undefined {
   const db = getDb()
   const fightReport = TemperCombat_Report
+  paintSurface(namedChild<BackdropControl>(fightReport, "BG"), WINDOW_LEVEL)
   storeOrigLayout(fightReport)
 
   const pos = db.TemperCombat_Report

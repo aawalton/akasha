@@ -9,9 +9,9 @@ export const leadsUnitColors = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A lead with no rarity is in the primary text color.",
+      statement: "A lead with no rarity is in the game's normal text color.",
     },
   ],
   createdAt: "2026-09-02T14:10:09.674Z",
-  updatedAt: "2026-09-25T15:18:03.000Z",
+  updatedAt: "2026-10-18T17:43:08.318Z",
 } as const satisfies Module
