@@ -4400,7 +4400,8 @@
       "57": [
         17,
         20,
-        21
+        21,
+        25
       ],
       "62": [
         8
@@ -6415,8 +6416,8 @@
     }
   },
   "skillPoints": {
-    "total": 492,
-    "unassigned": 204,
+    "total": 493,
+    "unassigned": 205,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -6426,7 +6427,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 176,
     "totalSkyshards": 528,
-    "zoneQuestTotal": 162,
+    "zoneQuestTotal": 163,
     "groupDungeonTotal": 26,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -6507,7 +6508,7 @@
       "NE": 3,
       "BW": 3,
       "EP0a": 0,
-      "SO": 7,
+      "SO": 8,
       "EP0b": 0,
       "AD3": 3,
       "AD4": 3,
@@ -8118,7 +8119,7 @@
   },
   "companionRapport": {
     "1": 4058,
-    "2": 3137,
+    "2": 3138,
     "5": 5500,
     "6": 4044,
     "9": 5500
@@ -9285,6 +9286,7 @@
     7275,
     7284,
     7285,
+    7286,
     7294,
     7295,
     7296,
@@ -14313,7 +14315,8 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "2": [
         1,
@@ -16313,12 +16316,12 @@
   },
   "inventoryCheck": {
     "date": "2026-10-18",
-    "misplaced": 149
+    "misplaced": 154
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792362401,
-      "inCombat": true,
+      "capturedAt": 1792363250,
+      "inCombat": false,
       "stats": {
         "stamina-recovery": 1111,
         "magicka-maximum": 19682,
@@ -16376,20 +16379,6 @@
           "stacks": 0
         },
         {
-          "abilityId": 135402,
-          "name": "Vampire Stage 4",
-          "description": "",
-          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61665,
-          "name": "Major Brutality",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
-          "stacks": 0
-        },
-        {
           "abilityId": 61667,
           "name": "Major Savagery",
           "description": "",
@@ -16404,17 +16393,17 @@
           "stacks": 0
         },
         {
-          "abilityId": 185842,
-          "name": "Inspired Scholarship",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3809|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
-          "effect": "",
+          "abilityId": 61665,
+          "name": "Major Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
         },
         {
-          "abilityId": 194875,
-          "name": "Fated Fortune",
-          "description": "Increases your Critical Damage and Critical Healing by |cffffff0|r% while you have one or more Crux.",
-          "effect": "",
+          "abilityId": 135402,
+          "name": "Vampire Stage 4",
+          "description": "",
+          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
           "stacks": 0
         },
         {
@@ -16425,37 +16414,16 @@
           "stacks": 0
         },
         {
-          "abilityId": 122587,
-          "name": "Relentless Focus",
-          "description": "",
-          "effect": "",
-          "stacks": 7
-        },
-        {
-          "abilityId": 184860,
-          "name": "Harnessed Quintessence",
+          "abilityId": 34739,
+          "name": "Concealed Weapon",
           "description": "",
           "effect": "",
           "stacks": 0
         },
         {
-          "abilityId": 184220,
-          "name": "Crux",
-          "description": "",
-          "effect": "",
-          "stacks": 2
-        },
-        {
-          "abilityId": 157287,
-          "name": "Blood Transfusion",
-          "description": "Mirri Elendis infuses an ally with blood, healing them for |cffffff25210|r Health over |cffffff8|r seconds.",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 155408,
-          "name": "Reverse Entropy",
-          "description": "Mirri Elendis envelops an ally with stabilizing magic, healing them for |cffffff25210|r Health over |cffffff8|r seconds.",
+          "abilityId": 185842,
+          "name": "Inspired Scholarship",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3809|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
           "effect": "",
           "stacks": 0
         },
@@ -16467,9 +16435,44 @@
           "stacks": 0
         },
         {
+          "abilityId": 184860,
+          "name": "Harnessed Quintessence",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 122587,
+          "name": "Relentless Focus",
+          "description": "",
+          "effect": "",
+          "stacks": 1
+        },
+        {
           "abilityId": 215727,
           "name": "Sunderer",
           "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 194875,
+          "name": "Fated Fortune",
+          "description": "Increases your Critical Damage and Critical Healing by |cffffff0|r% while you have one or more Crux.",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 155408,
+          "name": "Reverse Entropy",
+          "description": "Mirri Elendis envelops an ally with stabilizing magic, healing them for |cffffff25210|r Health over |cffffff8|r seconds.",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 157287,
+          "name": "Blood Transfusion",
+          "description": "Mirri Elendis infuses an ally with blood, healing them for |cffffff25210|r Health over |cffffff8|r seconds.",
           "effect": "",
           "stacks": 0
         }
@@ -17060,7 +17063,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:95044:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:3575:0|h|h",
+          "link": "|H0:item:95044:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:3375:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -17076,7 +17079,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:51622:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:28:1:1:0:7125:0|h|h",
+          "link": "|H0:item:51622:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:28:1:1:0:6925:0|h|h",
           "armor": 2084,
           "enchant": "Adds |cffffff542|r Maximum Magicka.\nAdds |cffffff596|r Maximum Health.\nAdds |cffffff542|r Maximum Stamina.",
           "trait": "Increase armor enchantment effect by |cffffff25|r%.",
@@ -17084,7 +17087,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:95212:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:1350:0|h|h",
+          "link": "|H0:item:95212:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:1250:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -17092,7 +17095,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:244:0|h|h",
+          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:237:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2014|r Physical Damage and restores |cffffff354|r Stamina.",
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
@@ -17108,7 +17111,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:51545:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:3640:0|h|h",
+          "link": "|H0:item:51545:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:3540:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -17116,7 +17119,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:51542:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:3410:0|h|h",
+          "link": "|H0:item:51542:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:3310:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -17140,7 +17143,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:51543:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:8470:0|h|h",
+          "link": "|H0:item:51543:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:8170:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -17148,7 +17151,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:299:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:297:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
@@ -17279,40 +17282,40 @@
       "archiveBoons": []
     },
     "backBar": {
-      "capturedAt": 1792359403,
+      "capturedAt": 1792362847,
       "inCombat": true,
       "stats": {
-        "stamina-recovery": 900,
+        "stamina-recovery": 1111,
         "magicka-maximum": 19682,
-        "resistance-spell": 15240,
-        "health-maximum": 23607,
-        "penetration-spell": 4370,
-        "health-recovery": 0,
-        "resistance-critical": 1320,
-        "power-spell": 5726,
         "critical-rating-spell": 10386,
         "critical-rating-weapon": 10386,
+        "power-spell": 5704,
+        "health-recovery": 0,
+        "resistance-critical": 1320,
+        "health-maximum": 23607,
+        "power-weapon": 5704,
+        "penetration-spell": 4370,
         "resistance-physical": 12930,
         "stamina-maximum": 24402,
         "penetration-physical": 4370,
-        "power-weapon": 5726,
+        "resistance-spell": 15240,
         "magicka-recovery": 644
       },
       "unbonusedStats": {
-        "stamina-recovery": 900,
+        "stamina-recovery": 1111,
         "magicka-maximum": 19682,
-        "resistance-spell": 0,
-        "health-maximum": 23607,
-        "penetration-spell": 0,
-        "health-recovery": 0,
-        "resistance-critical": 0,
-        "power-spell": 1000,
         "critical-rating-spell": 2181,
         "critical-rating-weapon": 2181,
+        "power-spell": 1000,
+        "health-recovery": 0,
+        "resistance-critical": 0,
+        "health-maximum": 23607,
+        "power-weapon": 1000,
+        "penetration-spell": 0,
         "resistance-physical": 0,
         "stamina-maximum": 24402,
         "penetration-physical": 0,
-        "power-weapon": 1000,
+        "resistance-spell": 0,
         "magicka-recovery": 644
       },
       "activeBuffs": [
@@ -17338,17 +17341,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61667,
-          "name": "Major Savagery",
+          "abilityId": 135402,
+          "name": "Vampire Stage 4",
           "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61735,
-          "name": "Minor Expedition",
-          "description": "",
-          "effect": "Increases your Movement Speed by |cffffff15|r%.\n",
+          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
           "stacks": 0
         },
         {
@@ -17359,37 +17355,30 @@
           "stacks": 0
         },
         {
-          "abilityId": 135402,
-          "name": "Vampire Stage 4",
+          "abilityId": 61735,
+          "name": "Minor Expedition",
           "description": "",
-          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
+          "effect": "Increases your Movement Speed by |cffffff15|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61667,
+          "name": "Major Savagery",
+          "description": "",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
           "stacks": 0
         },
         {
           "abilityId": 185842,
           "name": "Inspired Scholarship",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff4287|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3906|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
           "effect": "",
           "stacks": 0
         },
         {
-          "abilityId": 122587,
-          "name": "Relentless Focus",
-          "description": "",
-          "effect": "",
-          "stacks": 1
-        },
-        {
-          "abilityId": 184220,
-          "name": "Crux",
-          "description": "",
-          "effect": "",
-          "stacks": 3
-        },
-        {
-          "abilityId": 135190,
-          "name": "Strike from the Shadows",
-          "description": "",
+          "abilityId": 194875,
+          "name": "Fated Fortune",
+          "description": "Increases your Critical Damage and Critical Healing by |cffffff0|r% while you have one or more Crux.",
           "effect": "",
           "stacks": 0
         },
@@ -17401,23 +17390,44 @@
           "stacks": 0
         },
         {
-          "abilityId": 194875,
-          "name": "Fated Fortune",
-          "description": "Increases your Critical Damage and Critical Healing by |cffffff0|r% while you have one or more Crux.",
+          "abilityId": 122587,
+          "name": "Relentless Focus",
+          "description": "",
           "effect": "",
-          "stacks": 0
+          "stacks": 1
         },
         {
           "abilityId": 155408,
           "name": "Reverse Entropy",
-          "description": "Mirri Elendis envelops an ally with stabilizing magic, healing them for |cffffff26280|r Health over |cffffff8|r seconds.",
+          "description": "Mirri Elendis envelops an ally with stabilizing magic, healing them for |cffffff26180|r Health over |cffffff8|r seconds.",
           "effect": "",
           "stacks": 0
         },
         {
-          "abilityId": 99789,
-          "name": "Merciless Charge",
+          "abilityId": 184860,
+          "name": "Harnessed Quintessence",
           "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 45450,
+          "name": "Battle Rush",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 184220,
+          "name": "Crux",
+          "description": "",
+          "effect": "",
+          "stacks": 1
+        },
+        {
+          "abilityId": 157287,
+          "name": "Blood Transfusion",
+          "description": "Mirri Elendis infuses an ally with blood, healing them for |cffffff26180|r Health over |cffffff8|r seconds.",
           "effect": "",
           "stacks": 0
         }
@@ -18008,7 +18018,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:95044:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:5090:0|h|h",
+          "link": "|H0:item:95044:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:3375:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -18024,7 +18034,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:51622:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:28:1:1:0:8685:0|h|h",
+          "link": "|H0:item:51622:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:28:1:1:0:6925:0|h|h",
           "armor": 2084,
           "enchant": "Adds |cffffff542|r Maximum Magicka.\nAdds |cffffff596|r Maximum Health.\nAdds |cffffff542|r Maximum Stamina.",
           "trait": "Increase armor enchantment effect by |cffffff25|r%.",
@@ -18032,7 +18042,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:95212:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:2755:0|h|h",
+          "link": "|H0:item:95212:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:1350:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -18040,15 +18050,15 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:264:0|h|h",
+          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:238:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff2204|r Physical Damage and restores |cffffff354|r Stamina.",
+          "enchant": "Deals |cffffff2014|r Physical Damage and restores |cffffff354|r Stamina.",
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
           "quality": 5
         },
         {
           "slot": 6,
-          "link": "|H0:item:51547:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:8600:0|h|h",
+          "link": "|H0:item:51547:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:6885:0|h|h",
           "armor": 781,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -18056,7 +18066,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:51545:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:4990:0|h|h",
+          "link": "|H0:item:51545:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:3640:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -18064,7 +18074,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:51542:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:4165:0|h|h",
+          "link": "|H0:item:51542:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:3410:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -18088,7 +18098,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:51543:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9900:0|h|h",
+          "link": "|H0:item:51543:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:8470:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -18096,7 +18106,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:301:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:297:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
@@ -18108,7 +18118,7 @@
           "slot": 3,
           "abilityId": 38788,
           "name": "Stampede",
-          "description": "Launch across the earth and smash an enemy, dealing |cffffff6715|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1339|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
+          "description": "Launch across the earth and smash an enemy, dealing |cffffff6149|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1336|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
@@ -18119,7 +18129,7 @@
           "slot": 4,
           "abilityId": 185839,
           "name": "Rune of Displacement",
-          "description": "Devise a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff20830|r Magic Damage over |cffffff18|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff13003|r Frost Damage to enemies within 7 meters.",
+          "description": "Devise a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff18900|r Magic Damage over |cffffff18|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff11906|r Frost Damage to enemies within 7 meters.",
           "durationMs": 18000,
           "castMs": 0,
           "channeled": false,
@@ -18130,7 +18140,7 @@
           "slot": 5,
           "abilityId": 185842,
           "name": "Inspired Scholarship",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff4287|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3906|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
           "durationMs": 30000,
           "castMs": 0,
           "channeled": false,
@@ -18141,7 +18151,7 @@
           "slot": 6,
           "abilityId": 61927,
           "name": "Relentless Focus",
-          "description": "When slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff19156|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range.",
+          "description": "When slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff17459|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -18152,7 +18162,7 @@
           "slot": 7,
           "abilityId": 25267,
           "name": "Concealed Weapon",
-          "description": "Slash an enemy, dealing |cffffff11706|r Magic Damage. \n\nIf you strike an enemy from their flank you set them Off Balance.\n\nWhen you leave Sneak or invisibility while in combat, increase your damage done with this ability by |cffffff10|r% for |cffffff15|r seconds.\n\nWhile slotted on either bar, you gain Minor Expedition, increasing your Movement Speed by |cffffff15|r%.",
+          "description": "Slash an enemy, dealing |cffffff10669|r Magic Damage. \n\nIf you strike an enemy from their flank you set them Off Balance.\n\nWhen you leave Sneak or invisibility while in combat, increase your damage done with this ability by |cffffff10|r% for |cffffff15|r seconds.\n\nWhile slotted on either bar, you gain Minor Expedition, increasing your Movement Speed by |cffffff15|r%.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -18163,7 +18173,7 @@
           "slot": 8,
           "abilityId": 36514,
           "name": "Soul Harvest",
-          "description": "Ravage an enemy with a spinning attack, dealing |cffffff17028|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
+          "description": "Ravage an enemy with a spinning attack, dealing |cffffff15519|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
           "durationMs": 0,
           "castMs": 400,
           "channeled": false,
