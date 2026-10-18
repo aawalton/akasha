@@ -11,6 +11,7 @@ export const nina = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "ac419eec-88f4-4a36-b10a-d6a1cb283920",
   createdAt: "2026-10-18T13:44:59.012Z",
-  updatedAt: "2026-10-18T13:44:59.012Z",
+  updatedAt: "2026-10-18T13:45:02.488Z",
 } as const satisfies Seat
