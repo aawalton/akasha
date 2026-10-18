@@ -4,7 +4,6 @@ import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacito
 import { DeepLinkOpenSync } from "akasha/alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.code.tsx"
 import { DeviceSecretSync } from "akasha/alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx"
 import { PushRegistrationSync } from "akasha/alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx"
-import { StoplightsActivitySync } from "akasha/alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.code.tsx"
 import { useAppVersionCheck } from "akasha/page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
 import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { reportPagesStoreStall } from "akasha/page/ui-store/modules/report-stall/report-stall.module.code.ts"
@@ -62,7 +61,6 @@ export function AuthProvider({ reader, accountId, children }: AuthProviderProps)
       <PushRegistrationSync />
       <DeepLinkOpenSync />
       <DeviceSecretSync />
-      <StoplightsActivitySync />
       {children}
     </UserIdContext>
   )

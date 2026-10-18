@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.test.tsx","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/routes/_app-layout.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"story/chapter/narration/modules/listening/narration-listening.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/web/alan-web.router-app.ts","id":"01a05bb1-0c04-751f-8f51-baadbd134cf6"}

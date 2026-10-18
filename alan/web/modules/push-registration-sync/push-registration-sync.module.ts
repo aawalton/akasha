@@ -9,14 +9,6 @@ export const pushRegistrationSync = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One call posts a token, whichever sort of push that token takes.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A call naming no sort posts a token taking an alert.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A token the server refuses is thrown rather than logged.",
     },
     {
@@ -25,5 +17,5 @@ export const pushRegistrationSync = {
     },
   ],
   createdAt: "2026-09-03T03:44:04.793Z",
-  updatedAt: "2026-09-19T19:55:58.000Z",
+  updatedAt: "2026-10-18T13:18:27.586Z",
 } as const satisfies Module

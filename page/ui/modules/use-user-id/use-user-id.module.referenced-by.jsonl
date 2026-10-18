@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"page/ui/component/modules/auth-provider/auth-provider.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"page/ui/component/modules/embedded-view-content/embedded-view-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx","typed":false,"deferred":false}

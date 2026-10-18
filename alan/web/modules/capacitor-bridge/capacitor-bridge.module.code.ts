@@ -75,20 +75,6 @@ export interface AppPlugin {
   getLaunchUrl: () => Promise<AppUrlOpen | null | undefined>
 }
 
-export interface StoplightsActivityEventMap {
-  token: { value: string }
-}
-
-export interface StoplightsActivityPlugin {
-  start: (options: { content: string }) => Promise<{ id: string }>
-  update: (options: { content: string }) => Promise<void>
-  end: () => Promise<void>
-  addListener: <E extends keyof StoplightsActivityEventMap>(
-    eventName: E,
-    listener: (event: StoplightsActivityEventMap[E]) => void
-  ) => PluginListenerHandle | Promise<PluginListenerHandle>
-}
-
 export interface NowPlayingCommandsEventMap {
   command: { command: string }
 }
@@ -111,7 +97,6 @@ interface CapacitorGlobal {
     App?: AppPlugin
     DeviceSecret?: DeviceSecretPlugin
     HandoverSignIn?: HandoverSignInPlugin
-    StoplightsActivity?: StoplightsActivityPlugin
     NowPlayingCommands?: NowPlayingCommandsPlugin
   }
 }
@@ -166,16 +151,6 @@ export function getHandoverSignIn(): HandoverSignInPlugin | null {
 export function getApp(): AppPlugin | null {
   const plugin = capacitorGlobal()?.Plugins?.App
   if (plugin == null) return null
-  if (typeof plugin.addListener !== "function") return null
-  return plugin
-}
-
-export function getStoplightsActivity(): StoplightsActivityPlugin | null {
-  const plugin = capacitorGlobal()?.Plugins?.StoplightsActivity
-  if (plugin == null) return null
-  if (typeof plugin.start !== "function") return null
-  if (typeof plugin.update !== "function") return null
-  if (typeof plugin.end !== "function") return null
   if (typeof plugin.addListener !== "function") return null
   return plugin
 }

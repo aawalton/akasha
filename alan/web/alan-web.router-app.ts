@@ -90,12 +90,11 @@ export const alanWeb = {
 
     "module/widget-tap-answering",
     "stylesheet/alan-web-look",
-    "module/stoplights-activity-sync",
     "module/alan-answer-ask",
     "module/action-bar-answering",
     "module/chapter-write-answering",
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-01T06:38:44.740Z",
-  updatedAt: "2026-09-28T19:15:48.000Z",
+  updatedAt: "2026-10-18T13:18:27.586Z",
 } as const satisfies RouterApp
