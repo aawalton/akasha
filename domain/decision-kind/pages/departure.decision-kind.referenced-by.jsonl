@@ -1206,7 +1206,6 @@
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/strength-volume.computed-property.ts","id":"01a077d1-f967-7eef-a0ce-7139eaa1b54d"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/surplus-hours.computed-property.ts","id":"01a072ee-1b88-7b44-a2b4-9cb40106ef0e"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/to-do-slug.text-property.ts","id":"01a05fd8-c30f-7596-9f3a-87a4dbea614a"}
-{"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/total-level.computed-property.ts","id":"01a0721c-f58c-7290-8d4c-25779a5549a0"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/version.text-property.ts","id":"01a05fd8-c30e-725c-ab9a-c6711e453753"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/wisdom-words.number-property.ts","id":"01a0683b-dafc-75d4-8d75-4397a5661173"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/akasha-day/akasha-day.module.ts","id":"01a069d3-579d-7fa0-9114-43050587d24b"}
