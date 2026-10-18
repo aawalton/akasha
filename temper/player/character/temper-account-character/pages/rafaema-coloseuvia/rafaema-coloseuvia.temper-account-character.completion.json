@@ -4344,6 +4344,7 @@
     ],
     "21": [
       115273,
+      115358,
       115389,
       115444,
       115563,
@@ -13522,11 +13523,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "seen": [
       5,
       3,
@@ -13547,48 +13548,55 @@
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "misplaced": 0
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792245946,
+      "capturedAt": 1792331575,
       "inCombat": false,
       "stats": {
-        "health-recovery": 87,
-        "penetration-spell": 19097,
-        "power-spell": 4293,
-        "resistance-physical": 12828,
-        "critical-rating-weapon": 6972,
-        "resistance-critical": 1320,
-        "critical-rating-spell": 6972,
-        "magicka-recovery": 614,
-        "stamina-recovery": 749,
-        "stamina-maximum": 25336,
-        "penetration-physical": 19097,
         "resistance-spell": 12828,
+        "power-spell": 4293,
+        "stamina-recovery": 749,
+        "penetration-spell": 19097,
+        "stamina-maximum": 25336,
         "health-maximum": 20539,
+        "health-recovery": 388,
+        "penetration-physical": 19097,
+        "critical-rating-weapon": 6972,
+        "resistance-physical": 12828,
+        "resistance-critical": 1320,
         "magicka-maximum": 14949,
-        "power-weapon": 4293
+        "magicka-recovery": 614,
+        "power-weapon": 4293,
+        "critical-rating-spell": 6972
       },
       "unbonusedStats": {
-        "health-recovery": 87,
-        "penetration-spell": 0,
-        "power-spell": 1000,
-        "resistance-physical": 0,
-        "critical-rating-weapon": 2181,
-        "resistance-critical": 0,
-        "critical-rating-spell": 2181,
-        "magicka-recovery": 614,
-        "stamina-recovery": 749,
-        "stamina-maximum": 25336,
-        "penetration-physical": 0,
         "resistance-spell": 0,
+        "power-spell": 1000,
+        "stamina-recovery": 749,
+        "penetration-spell": 0,
+        "stamina-maximum": 25336,
         "health-maximum": 20539,
+        "health-recovery": 388,
+        "penetration-physical": 0,
+        "critical-rating-weapon": 2181,
+        "resistance-physical": 0,
+        "resistance-critical": 0,
         "magicka-maximum": 14949,
-        "power-weapon": 1000
+        "magicka-recovery": 614,
+        "power-weapon": 1000,
+        "critical-rating-spell": 2181
       },
       "activeBuffs": [
+        {
+          "abilityId": 43752,
+          "name": "Soul Summons",
+          "description": "· Once per hour, you can resurrect without the need for a soul gem",
+          "effect": "",
+          "stacks": 0
+        },
         {
           "abilityId": 61744,
           "name": "Minor Berserk",
@@ -13618,10 +13626,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61735,
-          "name": "Minor Expedition",
+          "abilityId": 61665,
+          "name": "Major Brutality",
           "description": "",
-          "effect": "Increases your Movement Speed by |cffffff15|r%.\n",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
         },
         {
@@ -13632,10 +13640,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
+          "abilityId": 61735,
+          "name": "Minor Expedition",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "effect": "Increases your Movement Speed by |cffffff15|r%.\n",
           "stacks": 0
         },
         {
@@ -13644,13 +13652,6 @@
           "description": "",
           "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
           "stacks": 0
-        },
-        {
-          "abilityId": 122587,
-          "name": "Relentless Focus",
-          "description": "",
-          "effect": "",
-          "stacks": 1
         }
       ],
       "championPoints": [

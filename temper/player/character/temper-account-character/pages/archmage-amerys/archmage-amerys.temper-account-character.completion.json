@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQIpKUAAIBjxRNCzuluSFndLciKmC25EXMFtyAiYLQARUwW3IipgtuQhUdqABBO6W5CCd0tyBdEx2gCIgmOluVWgwnOGKftAgbgcAAAAHVMkAgojUEgBEGAAKQAIAAQAACUAQDJwAjAGYADkABKA4oAFDJIFAjEQAwgAAACAMAHIAgAcIAYDE4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDjEgaw",
+  "buildHash": "ATQIpJUAAIBjxRNCzuluSFndLciKmC25EXMFtyAiYLQARUwW3IipgtuQhUdqABBO6W5CCd0tyBdEx2gCIgmOluVWgwnOGKftAgbgcAAAAHVMkAgojUEgBEGAAKQAIAAQAACUAQDJwAjAGYADkABKA4oAFDJIFAjEQAwgAAACAMAHIAgAcIAYDE4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDjEgaw",
   "gender": 1,
   "level": 50,
   "classId": 2,
@@ -13197,11 +13197,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "seen": [
       5,
       3,
@@ -13212,8 +13212,8 @@
       7
     ],
     "completed": [
-      1,
       6,
+      1,
       2,
       7,
       3,
@@ -13222,46 +13222,46 @@
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "misplaced": 0
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792245444,
+      "capturedAt": 1792331428,
       "inCombat": false,
       "stats": {
-        "health-recovery": 315,
-        "penetration-spell": 11991,
-        "power-spell": 3995,
-        "resistance-physical": 10826,
-        "critical-rating-weapon": 9070,
-        "resistance-critical": 1320,
-        "critical-rating-spell": 9070,
-        "magicka-recovery": 665,
-        "stamina-recovery": 729,
-        "stamina-maximum": 25707,
-        "penetration-physical": 11991,
         "resistance-spell": 10826,
+        "power-spell": 3995,
+        "stamina-recovery": 729,
+        "penetration-spell": 11991,
+        "stamina-maximum": 25707,
         "health-maximum": 19038,
+        "health-recovery": 405,
+        "power-weapon": 3995,
+        "critical-rating-weapon": 9070,
+        "penetration-physical": 11991,
         "magicka-maximum": 15483,
-        "power-weapon": 3995
+        "resistance-physical": 10826,
+        "magicka-recovery": 665,
+        "resistance-critical": 1320,
+        "critical-rating-spell": 9070
       },
       "unbonusedStats": {
-        "health-recovery": 315,
-        "penetration-spell": 0,
-        "power-spell": 1000,
-        "resistance-physical": 0,
-        "critical-rating-weapon": 2181,
-        "resistance-critical": 0,
-        "critical-rating-spell": 2181,
-        "magicka-recovery": 665,
-        "stamina-recovery": 729,
-        "stamina-maximum": 25707,
-        "penetration-physical": 0,
         "resistance-spell": 0,
+        "power-spell": 1000,
+        "stamina-recovery": 729,
+        "penetration-spell": 0,
+        "stamina-maximum": 25707,
         "health-maximum": 19038,
+        "health-recovery": 405,
+        "power-weapon": 1000,
+        "critical-rating-weapon": 2181,
+        "penetration-physical": 0,
         "magicka-maximum": 15483,
-        "power-weapon": 1000
+        "resistance-physical": 0,
+        "magicka-recovery": 665,
+        "resistance-critical": 0,
+        "critical-rating-spell": 2181
       },
       "activeBuffs": [
         {
@@ -13307,10 +13307,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 135399,
-          "name": "Vampire Stage 2",
+          "abilityId": 135397,
+          "name": "Vampire Stage 1",
           "description": "",
-          "effect": "You are moderately corrupted from the influence of Vampirism.\n\nHealth Recovery: -30%\nFlame Damage Taken: +8%\nRegular Ability Costs: +5%\nVampire Ability Costs: -10%\n",
+          "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
           "stacks": 0
         }
       ],
@@ -14039,7 +14039,7 @@
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 263
+          "ultimateCost": 258
         }
       ],
       "classPassives": [
