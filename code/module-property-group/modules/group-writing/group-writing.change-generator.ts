@@ -6,6 +6,7 @@ export const groupWriting = {
   slug: "group-writing",
   definition: "the file a page's module property group writes beside that page",
   code: "ts",
+  runsAfter: ["change-generator/value-minting"],
   test: "ts",
   decisions: [
     {
@@ -67,6 +68,10 @@ export const groupWriting = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A group reads the index the change leaves rather than the committed index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page the change adds is read by a group once that page's id is minted.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -135,5 +140,5 @@ export const groupWriting = {
     },
   ],
   createdAt: "2026-09-11T00:17:09.018Z",
-  updatedAt: "2026-09-27T17:05:59.000Z",
+  updatedAt: "2026-10-18T14:00:06.527Z",
 } as const satisfies ChangeGenerator
