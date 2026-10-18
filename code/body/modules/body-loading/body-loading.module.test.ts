@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { writeFileSync } from "node:fs"
+import { mkdirSync, renameSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   bodyFor,
@@ -134,6 +134,24 @@ describe("the modules a change reaches in the cache", () => {
       expect(heldOver(within(root), HELD, null).said).toBe("one")
       writeFileSync(join(root, HELD), 'export const said = "two, written later"\n')
       expect(heldOver(within(root), HELD, null).said).toBe("two, written later")
+    } finally {
+      scratch.sweep()
+    }
+  })
+
+  test("a module moved after its folder was read is found at the path it moved to", () => {
+    const scratch = scratchWorld()
+    try {
+      const root = scratch.rootFor("body-loading-")
+      mkdirSync(join(root, "node_modules"))
+      symlinkSync(root, join(root, "node_modules", "akasha"))
+      mkdirSync(join(root, "lib"))
+      writeFileSync(join(root, "lib", "one.ts"), 'export const said = "moved"\n')
+      writeFileSync(join(root, HELD), 'export { said } from "akasha/lib/one.ts"\n')
+      expect(heldOver(within(root), HELD, null).said).toBe("moved")
+      renameSync(join(root, "lib", "one.ts"), join(root, "lib", "one-moved.ts"))
+      writeFileSync(join(root, HELD), 'export { said } from "akasha/lib/one-moved.ts"\n')
+      expect(heldOver(within(root), HELD, null).said).toBe("moved")
     } finally {
       scratch.sweep()
     }

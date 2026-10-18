@@ -92,6 +92,15 @@ export const bodyLoading = {
         "A module loaded again is a second copy wherever anything outside the module holds the first.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "Bun holds the files of a folder as it first read them for as long as it runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A module under the repository is found on the disk rather than in what Bun holds.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement:
         "A module cached under `node_modules` is not dropped, since no change carries one.",
@@ -132,5 +141,5 @@ export const bodyLoading = {
     },
   ],
   createdAt: "2026-09-11T16:20:05.340Z",
-  updatedAt: "2026-09-27T14:29:39.000Z",
+  updatedAt: "2026-10-18T13:59:15.932Z",
 } as const satisfies Module

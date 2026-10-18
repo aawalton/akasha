@@ -1,6 +1,6 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
 import { createRequire } from "node:module"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
@@ -9,6 +9,10 @@ const LOADER = "ts"
 const PACKAGE = "akasha/"
 
 const CARRIED = "akasha-carried"
+
+const FRESH = "akasha-fresh"
+
+const FRESHLY = `${FRESH}:`
 
 const SPECIAL = /[.*+?^${}()|[\]\\]/g
 
@@ -69,15 +73,20 @@ function stampOf(full: string): string {
 function forgotten(full: string): undefined {
   delete loadFrom.cache[full]
   delete loadFrom.cache[`${CARRIED}:${full}`]
+  delete loadFrom.cache[`${FRESHLY}${full}`]
   STAMPED.delete(full)
+}
+
+function bareOf(key: string): string {
+  return key.startsWith(FRESHLY) ? key.slice(FRESHLY.length) : key
 }
 
 function cachedUnder(root: string): readonly string[] {
   const under = `${root}/`
   const away = `${root}${MODULES}`
-  return Object.keys(loadFrom.cache).filter(
-    (full) => full.startsWith(under) && !full.startsWith(away)
-  )
+  return Object.keys(loadFrom.cache)
+    .map(bareOf)
+    .filter((full) => full.startsWith(under) && !full.startsWith(away))
 }
 
 function forgottenUnder(root: string): undefined {
@@ -133,6 +142,34 @@ function claiming(root: string, full: string): undefined {
   })
 }
 
+const OPENED = /^akasha\//
+
+const ANY = /.*/
+
+const resolved = new Set<string>()
+
+function resolvingFresh(root: string): undefined {
+  if (resolved.has(root) || typeof Bun === "undefined") return
+  resolved.add(root)
+  const under = `${root}/`
+  Bun.plugin({
+    name: `${FRESH}:${root}`,
+    setup: (build) => {
+      build.onResolve({ filter: OPENED }, (args) => {
+        if (!args.importer.startsWith(under)) return undefined
+        try {
+          Bun.resolveSync(args.path, dirname(args.importer))
+          return undefined
+        } catch {
+          const full = join(root, args.path.slice(PACKAGE.length))
+          return existsSync(full) ? { path: full, namespace: FRESH } : undefined
+        }
+      })
+      build.onLoad({ filter: ANY, namespace: FRESH }, heldAt)
+    },
+  })
+}
+
 const NOTHING: ReadonlyMap<string, string> = new Map()
 
 const KEPT: { change: Change | null; bodies: ReadonlyMap<string, string> } = {
@@ -164,6 +201,7 @@ function keeping(change: Change, bodies: ReadonlyMap<string, string>): undefined
 }
 
 export function heldOver(change: Change, at: string, body: string | null): Held {
+  resolvingFresh(change.root)
   const full = join(change.root, at)
   const bodies = bodiesIn(change)
   if (!LOOKED.has(change)) {
