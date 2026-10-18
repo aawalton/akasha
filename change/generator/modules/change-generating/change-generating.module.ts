@@ -50,6 +50,10 @@ export const changeGenerating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller naming change generators is answered by those generators alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run over the whole tree is handed the shadow its caller read the tree through.",
     },
     {
@@ -70,5 +74,5 @@ export const changeGenerating = {
     },
   ],
   createdAt: "2026-09-24T19:21:33.777Z",
-  updatedAt: "2026-09-24T22:33:23.000Z",
+  updatedAt: "2026-10-18T14:56:58.697Z",
 } as const satisfies Module

@@ -192,6 +192,8 @@ const SCRIPT =
 
 const LISTS = "  components: [\n"
 
+const MINTING_THEN_WRITING: ReadonlySet<string> = new Set(["value-minting", "group-writing"])
+
 const IDLESS = `import type { IosComponent } from "akasha/code/ios-component/ios-component.page-type.types.ts"
 
 export const groupWritingProbe = {
@@ -231,14 +233,18 @@ describe("a page the change adds, stating no id of its own", () => {
       ),
     ],
   ])
-  const ran = generatedOver(changeOver(held), (made) => {
-    const more = new Map(held)
-    for (const one of made) {
-      const body = writtenIn(one)
-      if (body !== null) more.set(leftAt(one), body)
-    }
-    return changeOver(more)
-  })
+  const ran = generatedOver(
+    changeOver(held),
+    (made) => {
+      const more = new Map(held)
+      for (const one of made) {
+        const body = writtenIn(one)
+        if (body !== null) more.set(leftAt(one), body)
+      }
+      return changeOver(more)
+    },
+    MINTING_THEN_WRITING
+  )
 
   test("a group reads that page in the landing adding it, once its id is minted", () => {
     const script = ran.edits.find((one) => leftAt(one) === SCRIPT)

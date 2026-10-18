@@ -213,10 +213,15 @@ export function generatedWhole(
   return { ...ran, weighed: listed.length }
 }
 
-export function generatedOver(change: Change, again: Again): Ran {
+export function generatedOver(
+  change: Change,
+  again: Again,
+  only: ReadonlySet<string> | null = null
+): Ran {
   const cast = shadowFor(change)
   if ("refused" in cast) return NOTHING
-  const listed = listedIn(cast.shadow, change)
+  const every = listedIn(cast.shadow, change)
+  const listed = only === null ? every : every.filter((one) => only.has(one.slug))
   if (listed.length === 0) return NOTHING
   return generatedAlong(listed, change, again, loadedIn, costedIn(change.root))
 }
