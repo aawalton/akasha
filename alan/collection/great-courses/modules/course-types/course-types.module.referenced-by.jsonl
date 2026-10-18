@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"course-types.module.code.ts","path":"alan/collection/great-courses/modules/catalogue/catalogue.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"course-types.module.code.ts","path":"alan/collection/great-courses/modules/course-mapping/course-mapping.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"course-types.module.code.ts","path":"alan/collection/great-courses/modules/course-relinking/course-relinking.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"course-types.module.code.ts","path":"alan/collection/great-courses/modules/create-course/create-course.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/collection/great-courses/great-courses.domain.ts","id":"01a06579-f3d9-7008-be12-f37f13da607b"}

@@ -3,6 +3,7 @@ import {
   getCatalogData,
 } from "akasha/alan/collection/great-courses/modules/catalogue/catalogue.module.code.ts"
 import { mapCourseToSubjects } from "akasha/alan/collection/great-courses/modules/course-mapping/course-mapping.module.code.ts"
+import { relinkCourses } from "akasha/alan/collection/great-courses/modules/course-relinking/course-relinking.module.code.ts"
 import { findAllCourses } from "akasha/alan/collection/great-courses/modules/courses-query/courses-query.module.code.ts"
 import { createCourse } from "akasha/alan/collection/great-courses/modules/create-course/create-course.module.code.ts"
 import {
@@ -58,6 +59,15 @@ export async function syncGreatCourses(): Promise<SyncResult> {
       return NOTHING_DONE
     }
 
+    let updated = 0
+    try {
+      updated = await relinkCourses(courseList.courses)
+    } catch (thrown) {
+      const err = toError(thrown)
+      logError("Course relinking", "relinkCourses", err, classifyError(err))
+      failed += 1
+    }
+
     const subjectCollectionsMap = await findSubjectCollections()
 
     const newCourses = courseList.courses.filter((course) => {
@@ -97,14 +107,14 @@ export async function syncGreatCourses(): Promise<SyncResult> {
       const totalResult = combineSyncResults(results)
       created = totalResult.created
       skipped = totalResult.skipped + skippedCount
-      failed = totalResult.failed
+      failed += totalResult.failed
     }
 
     const dateRecorded = await updateRootParentLastSyncedAt()
     if (!dateRecorded) failed += 1
 
     console.log(
-      `Summary: created=${created} updated=0 skipped=${skipped} failed=${failed} total=${created + skipped + failed}`
+      `Summary: created=${created} updated=${updated} skipped=${skipped} failed=${failed} total=${created + skipped + failed}`
     )
 
     console.log(
@@ -112,7 +122,7 @@ export async function syncGreatCourses(): Promise<SyncResult> {
         ? "Great Courses sync completed!"
         : "Great Courses sync ran, but did not record when it last synced, so the next run reads a stale date"
     )
-    return { created, updated: 0, skipped, failed }
+    return { created, updated, skipped, failed }
   } catch (thrown) {
     const err = toError(thrown)
     logError("Great Courses sync", "main sync", err, classifyError(err))

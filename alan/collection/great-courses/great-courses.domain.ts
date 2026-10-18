@@ -24,6 +24,7 @@ export const greatCourses = {
     "module/watching-queue",
     "browser-extension/great-courses-watching",
     "module/lecture-watching",
+    "module/course-relinking",
   ],
   decisions: [
     {
@@ -48,5 +49,5 @@ export const greatCourses = {
     },
   ],
   createdAt: "2026-09-03T04:14:46.233Z",
-  updatedAt: "2026-10-18T17:31:07.469Z",
+  updatedAt: "2026-10-18T20:03:16.983Z",
 } as const satisfies Domain
