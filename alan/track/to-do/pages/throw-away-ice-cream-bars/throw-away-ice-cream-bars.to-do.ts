@@ -7,9 +7,9 @@ export const throwAwayIceCreamBars = {
   title: "Throw away ice cream bars",
   toDoCategory: "health",
   toDoDueDate: "2026-10-18",
-  priority: "p2",
+  priority: "p3",
   toDoSortOrder: 39,
   toDoValue: "value/health",
   createdAt: "2026-10-18T14:30:16.935Z",
-  updatedAt: "2026-10-18T14:30:16.935Z",
+  updatedAt: "2026-10-18T14:30:26.958Z",
 } as const satisfies ToDo
