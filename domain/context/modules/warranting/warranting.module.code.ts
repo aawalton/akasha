@@ -1,5 +1,4 @@
 import { readFileSync } from "node:fs"
-import { createRequire } from "node:module"
 import { join } from "node:path"
 import {
   blobIdOf,
@@ -12,6 +11,7 @@ import {
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { slugOf } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { loadedOff } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import { ANSWER_CEILING } from "akasha/command/modules/long-body/long-body.module.code.ts"
 import {
   againOf,
@@ -94,8 +94,6 @@ type Gathered = {
   readonly warranting: Warranting
 }
 
-const loadFrom = createRequire(import.meta.url)
-
 export function knowingIn(root: string): Knowing {
   let known: Known | null = null
   return () => {
@@ -170,18 +168,18 @@ export function blobAt(root: string, path: string): string | null {
   return bytes === null ? null : blobIdOf(bytes)
 }
 
-function namedBy(at: string, slug: string): unknown {
+function namedBy(root: string, at: string, slug: string): unknown {
   let mod: Record<string, unknown>
   try {
-    mod = loadFrom(at) as Record<string, unknown>
+    mod = loadedOff(root, at)
   } catch {
     return undefined
   }
   return mod[exportedAs(slug)]
 }
 
-function statedIn(at: string, slug: string): Record<string, unknown> | null {
-  const named = namedBy(at, slug)
+function statedIn(root: string, at: string, slug: string): Record<string, unknown> | null {
+  const named = namedBy(root, at, slug)
   if (named === null || typeof named !== "object") return null
   return named as Record<string, unknown>
 }
@@ -191,8 +189,8 @@ function saidOf(stated: Record<string, unknown>, named: string): boolean | null 
   return typeof said === "boolean" ? said : null
 }
 
-function warrantingIn(at: string, slug: string): Warranting | null {
-  const named = namedBy(at, slug)
+function warrantingIn(root: string, at: string, slug: string): Warranting | null {
+  const named = namedBy(root, at, slug)
   return typeof named === "function" ? (named as Warranting) : null
 }
 
@@ -208,7 +206,7 @@ export function gatheredIn(root: string): readonly Gathered[] {
       throw new Error(`${page} is a warrant page, and its name says no slug a runner can read`)
     }
     const slug = said.slug
-    const stated = statedIn(join(root, page), slug)
+    const stated = statedIn(root, page, slug)
     if (stated === null) {
       throw new Error(
         `${page} is a warrant page, and answers to no \`${exportedAs(slug)}\` a runner can read`
@@ -224,7 +222,7 @@ export function gatheredIn(root: string): readonly Gathered[] {
     if (beside === null) {
       throw new Error(`${page} is a warrant page, and no code file can sit beside a name like it`)
     }
-    const warranting = warrantingIn(join(root, beside), slug)
+    const warranting = warrantingIn(root, beside, slug)
     if (warranting === null) {
       throw new Error(`${page} is a warrant page, and ${beside} answers to nothing that can be run`)
     }
