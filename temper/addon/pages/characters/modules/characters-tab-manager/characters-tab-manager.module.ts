@@ -13,9 +13,13 @@ export const charactersTabManager = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A tab's name is in the game's normal text color, and selected when lit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A tab another module adds before the window is built is added once it is built.",
     },
   ],
   createdAt: "2026-09-02T16:23:41.410Z",
-  updatedAt: "2026-09-25T17:33:03.000Z",
+  updatedAt: "2026-10-18T17:38:19.872Z",
 } as const satisfies Module

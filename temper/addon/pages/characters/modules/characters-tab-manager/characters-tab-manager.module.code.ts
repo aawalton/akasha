@@ -1,11 +1,9 @@
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
-import {
-  TEXT_PRIMARY,
-  TEXT_SECONDARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { createPlaceholderPanel } from "akasha/temper/addon/pages/characters/modules/characters-placeholder-panel/characters-placeholder-panel.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import {
+  colorOf,
+  colorText,
   styleText,
   type TextRole,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
@@ -111,8 +109,7 @@ function selectSubTab(parentTabId: string, subTabId: string): undefined {
   const subControls = SUB_TAB_CONTROLS[parentTabId]
   if (subControls !== undefined) {
     for (const [id, subTab] of Object.entries(subControls)) {
-      const c = id === subTabId ? TEXT_PRIMARY : TEXT_SECONDARY
-      subTab.label.SetColor(c[0], c[1], c[2], 1)
+      colorText(subTab.label, colorOf(id === subTabId ? "strong" : "body"))
       paintRowState(rowHighlight(subTab), id === subTabId ? "selected" : "rest")
     }
   }
@@ -138,8 +135,7 @@ function selectTopTab(tabId: string, subTabId?: string): undefined {
   getSavedVariables().navigation.selectedTab = tabId
 
   for (const [id, tab] of Object.entries(TOP_TAB_CONTROLS)) {
-    const c = id === tabId ? TEXT_PRIMARY : TEXT_SECONDARY
-    tab.label.SetColor(c[0], c[1], c[2], 1)
+    colorText(tab.label, colorOf(id === tabId ? "strong" : "body"))
   }
 
   updateTabPositions()
@@ -175,7 +171,7 @@ function createTabControl(args: {
   label.SetAnchor(LEFT, base, LEFT, ROW_PADDING_X, 0)
   styleText(label, args.role)
   label.SetText(args.title)
-  label.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+  colorText(label, colorOf("body"))
 
   const light = rowHighlight(base)
   const button = WINDOW_MANAGER.CreateControl(undefined, base, CT_BUTTON)
@@ -183,13 +179,13 @@ function createTabControl(args: {
   button.SetHandler("OnClicked", args.onClicked)
   button.SetHandler("OnMouseEnter", () => {
     if (!args.isSelected()) {
-      label.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+      colorText(label, colorOf("strong"))
       paintRowState(light, "hover")
     }
   })
   button.SetHandler("OnMouseExit", () => {
     if (!args.isSelected()) {
-      label.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+      colorText(label, colorOf("body"))
       paintRowState(light, "rest")
     }
   })
