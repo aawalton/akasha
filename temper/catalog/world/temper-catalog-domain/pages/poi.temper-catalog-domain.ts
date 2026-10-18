@@ -8,9 +8,9 @@ export const poi = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.5.3303624",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-18T19:59:47.672Z",
+  capturedAt: "2026-10-18T20:15:34.122Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
-  updatedAt: "2026-10-18T19:59:56.682Z",
+  updatedAt: "2026-10-18T20:15:42.622Z",
   createdAt: "2026-09-02T01:39:30.992Z",
 } as const satisfies TemperCatalogDomain
