@@ -173,6 +173,11 @@ export const uiPlaceModel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A control's clamp insets move the edges kept on the screen, negative left and top outward.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "An anchor to anything that is no control is answered with the screen's own corner.",
     },
     {
@@ -199,5 +204,5 @@ export const uiPlaceModel = {
     },
   ],
   createdAt: "2026-09-22T16:27:03.745Z",
-  updatedAt: "2026-09-25T22:35:24.000Z",
+  updatedAt: "2026-10-18T18:53:51.613Z",
 } as const satisfies LuaModule

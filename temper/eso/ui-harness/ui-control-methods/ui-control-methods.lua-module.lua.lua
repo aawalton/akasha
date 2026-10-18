@@ -253,3 +253,6 @@ function Control:SetState(state) self.uiState = state end
 function Control:GetState() return self.uiState end
 function Control:SetMovable(movable) self.uiMovable = movable and true or false end
 function Control:SetClampedToScreen(clamped) self.uiClamped = clamped and true or false end
+function Control:SetClampedToScreenInsets(left, top, right, bottom)
+  self.uiClampInsets = { asNumber(left, 0), asNumber(top, 0), asNumber(right, 0), asNumber(bottom, 0) }
+end

@@ -322,8 +322,9 @@ placed = function(control)
   end
   local screen = _G.GuiRoot
   if control.uiClamped and control ~= screen and known(screen) then
-    left = math.max(0, math.min(left, screen.uiWidth - width))
-    top = math.max(0, math.min(top, screen.uiHeight - height))
+    local insets = control.uiClampInsets or { 0, 0, 0, 0 }
+    left = math.max(-insets[1], math.min(left, screen.uiWidth - width - insets[3]))
+    top = math.max(-insets[2], math.min(top, screen.uiHeight - height - insets[4]))
   end
   placing[control] = nil
   if rings == ringsBefore then worked[control] = { left, top, width, height } end
