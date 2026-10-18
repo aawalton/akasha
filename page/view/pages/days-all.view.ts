@@ -8,10 +8,10 @@ export const daysAll = {
   nav: "nav/days",
   pageType: "page-type/day",
   viewPlace: 1,
-  layout: "list",
+  layout: "table",
   viewSorts: [{ key: "date", descending: true }],
   visibleProperties: ["stoplights"],
   alwaysShowProperties: ["stoplights"],
   createdAt: "2026-10-18T13:34:48.175Z",
-  updatedAt: "2026-10-18T13:34:48.175Z",
+  updatedAt: "2026-10-18T14:09:19.228Z",
 } as const satisfies View
