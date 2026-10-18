@@ -14,15 +14,15 @@ import type {
   FilterEditorOption,
   FilterRangeValue,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
-
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import {
   paintField,
-  setTabChosen,
+  setChoiceChosen,
+  styleChoice,
   styleField,
-  styleTab,
   CONTROL_HEIGHT as WINDOW_CONTROL_HEIGHT,
 } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
+import { clearBackdrop } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
@@ -69,11 +69,11 @@ export function createBarButton(
   const backdrop = WINDOW_MANAGER.CreateControl(`${name}BG`, parent, CT_BACKDROP)
   backdrop.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PADDING_Y)
   backdrop.SetDimensions(width, CONTROL_HEIGHT)
-  paintField(backdrop)
+  clearBackdrop(backdrop)
 
   const caption = WINDOW_MANAGER.CreateControl(`${name}Label`, backdrop, CT_LABEL)
   caption.SetAnchorFill()
-  styleText(caption, "heading")
+  styleText(caption, "body")
   caption.SetHorizontalAlignment(TEXT_ALIGN_CENTER)
   caption.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   caption.SetText(text)
@@ -83,7 +83,7 @@ export function createBarButton(
   button.SetAnchor(TOPLEFT, backdrop, TOPLEFT, 0, 0)
   button.SetAnchor(BOTTOMRIGHT, backdrop, BOTTOMRIGHT, 0, 0)
   button.SetMouseEnabled(true)
-  styleTab(button)
+  styleChoice(button, caption)
 
   const bar: BarButton = { button, backdrop, label: caption }
   setButtonActive(bar, false)
@@ -116,7 +116,7 @@ export function createEditBox(
 }
 
 export function setButtonActive(bar: BarButton, active: boolean): undefined {
-  setTabChosen(bar.button, active)
+  setChoiceChosen(bar.button, active)
 }
 
 export function buildTextEditor(

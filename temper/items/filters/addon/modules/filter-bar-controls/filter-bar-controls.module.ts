@@ -31,7 +31,7 @@ export const filterBarControls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A filter holding a value lights its button as a chosen tab is lit.",
+      statement: "A bar button is a bare text choice, selected while its filter holds a value.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -44,5 +44,5 @@ export const filterBarControls = {
     },
   ],
   createdAt: "2026-09-02T08:45:26.710Z",
-  updatedAt: "2026-10-18T17:31:39.160Z",
+  updatedAt: "2026-10-18T19:12:02.917Z",
 } as const satisfies Module
