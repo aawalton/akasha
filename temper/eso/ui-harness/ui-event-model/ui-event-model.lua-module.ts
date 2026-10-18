@@ -66,7 +66,20 @@ export const uiEventModel = {
       decisionKind: "decision-kind/absence",
       statement: "No clock runs, so work waiting on an interval runs only when a caller says.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game puts a list's rows off to the next frame while the list has no height.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each round of settling ends in one frame, which runs every shown control's update.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An update that throws in a frame is run past, as the game runs past it.",
+    },
   ],
   createdAt: "2026-09-22T14:36:26.746Z",
-  updatedAt: "2026-09-25T22:01:28.000Z",
+  updatedAt: "2026-10-18T19:00:38.569Z",
 } as const satisfies LuaModule

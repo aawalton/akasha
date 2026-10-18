@@ -102,21 +102,62 @@ function _G.__ui_raise(event, ...)
   return ran
 end
 
+local FRAME_HANDLER = "OnUpdate"
+
+local function shownFrom(control, found)
+  if control.uiHidden then return found end
+  insert(found, control)
+  for _, child in ipairs(control.uiChildren) do shownFrom(child, found) end
+  return found
+end
+
+local function updatesOf(control)
+  local keys = {}
+  for key in pairs(control.uiHandlers) do
+    if key == FRAME_HANDLER or string.sub(key, 1, #FRAME_HANDLER + 1) == FRAME_HANDLER .. ":" then
+      insert(keys, key)
+    end
+  end
+  table.sort(keys)
+  return keys
+end
+
+local function frame()
+  local now = _G.GetFrameTimeSeconds ~= nil and _G.GetFrameTimeSeconds() or 0
+  local ran = 0
+  for _, control in ipairs(shownFrom(_G.GuiRoot, {})) do
+    for _, key in ipairs(updatesOf(control)) do
+      local handler = control.uiHandlers[key]
+      if handler ~= nil then
+        pcall(handler, control, now)
+        ran = ran + 1
+      end
+    end
+  end
+  return ran
+end
+
+local function runLater()
+  local ran = 0
+  local held = later
+  later = {}
+  for at, one in ipairs(held) do
+    local ok, thrown = pcall(one.callback)
+    ran = ran + 1
+    if not ok then
+      for rest = at + 1, #held do insert(later, held[rest]) end
+      error(thrown, 0)
+    end
+  end
+  return ran
+end
+
 function _G.__ui_settle(rounds)
   local ran = 0
   local passes = rounds or 8
   for _ = 1, passes do
+    ran = ran + runLater() + frame()
     if #later == 0 then break end
-    local held = later
-    later = {}
-    for at, one in ipairs(held) do
-      local ok, thrown = pcall(one.callback)
-      ran = ran + 1
-      if not ok then
-        for rest = at + 1, #held do insert(later, held[rest]) end
-        error(thrown, 0)
-      end
-    end
   end
   return ran
 end
