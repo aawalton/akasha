@@ -134,17 +134,19 @@ async function sessionRows(asked: Promise<Answered>, doing: string): Promise<rea
   return answer.rows.map((row) => pageOf(row.values))
 }
 
-export async function openSession(): Promise<Page | null> {
-  const rows = await sessionRows(
-    askSessions({
+export function openSession(): Page | null {
+  const answer = sessionsAnswered(
+    {
       where: { "ended-at": { empty: true } },
       "sort-by": "started-at",
       descending: true,
       limit: 1,
-    }),
-    "finding the open session"
+    },
+    null
   )
-  return rows[0] ?? null
+  if (!answer.ok) throw dataError(`finding the open session: ${answer.why}`)
+  const row = answer.rows[0]
+  return row === undefined ? null : pageOf(row.values)
 }
 
 export function sessionsOfDay(dailyId: string, keys?: readonly string[]): Promise<readonly Page[]> {

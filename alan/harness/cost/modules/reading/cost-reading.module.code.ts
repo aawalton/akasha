@@ -17,7 +17,7 @@ const NOTHING_TO_TAKE =
   "would be a lie."
 
 export async function takeReading(root: string, now: Date = new Date()): Promise<number | null> {
-  const session = await openSession()
+  const session = openSession()
   if (session === null) return null
   const multiplier = multiplierIn({
     safetyLevel: session["safetyLevel"],

@@ -16,7 +16,7 @@ const NOTHING_TO_TAKE =
   "is right where a tile showing a level Alan is not at would be a lie."
 
 export async function takeReading(root: string, now: Date = new Date()): Promise<number | null> {
-  const session = await openSession()
+  const session = openSession()
   if (session === null) return null
   const level = levelIn({ "safety-level": session["safetyLevel"] })
   if (level === null) return null
