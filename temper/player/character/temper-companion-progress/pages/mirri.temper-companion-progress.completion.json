@@ -1,121 +1,72 @@
 {
   "build": {
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
     "armor": {
       "1": {
+        "isEmpty": false,
         "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "2": {
+        "isEmpty": false,
         "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "3": {
+        "isEmpty": false,
         "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "4": {
+        "isEmpty": false,
         "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "5": {
+        "isEmpty": false,
         "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "6": {
+        "isEmpty": false,
         "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "7": {
+        "isEmpty": false,
         "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       }
     },
-    "companionId": 2,
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
-    "weapons": {
-      "1": {
-        "displayText": "Restoration Staff, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "2": {
-        "displayText": "Empty",
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        },
-        "isEmpty": true
-      }
-    },
-    "jewelry": {
-      "1": {
-        "displayText": "Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "2": {
-        "displayText": "Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "3": {
-        "displayText": "Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      }
-    },
+    "mainHandWeaponType": 9,
     "skillAbilityIds": {
       "1": 153685,
       "2": 155408,
@@ -124,7 +75,56 @@
       "5": 153066,
       "6": 157259
     },
-    "mainHandWeaponType": 9
+    "weapons": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Restoration Staff, Quickened",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": true,
+        "displayText": "Empty",
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        }
+      }
+    },
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Quickened",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": false,
+        "displayText": "Quickened",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "3": {
+        "isEmpty": false,
+        "displayText": "Quickened",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      }
+    },
+    "companionId": 2
   },
   "targetBuildHash": "AjEAItC0LQtC0LQtDQ0NGNOzqtY7WAA",
   "level": 20,

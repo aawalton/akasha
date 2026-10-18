@@ -1,121 +1,72 @@
 {
   "build": {
+    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
     "armor": {
       "1": {
+        "isEmpty": false,
         "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "2": {
+        "isEmpty": false,
         "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "3": {
+        "isEmpty": false,
         "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "4": {
+        "isEmpty": false,
         "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "5": {
+        "isEmpty": false,
         "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "6": {
+        "isEmpty": false,
         "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "7": {
+        "isEmpty": false,
         "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       }
     },
-    "companionId": 6,
-    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
-    "weapons": {
-      "1": {
-        "displayText": "Mace, Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "2": {
-        "displayText": "Shield, Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      }
-    },
-    "jewelry": {
-      "1": {
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "2": {
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        },
-        "isEmpty": false
-      },
-      "3": {
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        },
-        "isEmpty": false
-      }
-    },
+    "mainHandWeaponType": 2,
     "skillAbilityIds": {
       "1": 152625,
       "2": 155328,
@@ -124,7 +75,56 @@
       "5": 155693,
       "6": 0
     },
-    "mainHandWeaponType": 2
+    "weapons": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Mace, Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": false,
+        "displayText": "Shield, Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      }
+    },
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": false,
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
+        }
+      },
+      "3": {
+        "isEmpty": false,
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
+        }
+      }
+    },
+    "companionId": 6
   },
   "targetBuildHash": "AjEAQAcwDAMAwDHMcxMTU0cxoA",
   "level": 20,
