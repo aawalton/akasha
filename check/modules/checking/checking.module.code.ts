@@ -1,5 +1,4 @@
 import { existsSync } from "node:fs"
-import { createRequire } from "node:module"
 import { join } from "node:path"
 import { rowSent } from "akasha/check/modules/audit-recording/audit-recording.module.code.ts"
 import {
@@ -37,6 +36,7 @@ import {
   CHECK_GROUP,
   ranOver,
 } from "akasha/check/modules/run-ceiling/run-ceiling.module.code.ts"
+import { loadedOff } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { framesOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
@@ -101,8 +101,6 @@ const AT_CHANGE: Phase = "change"
 
 const AT_DEPLOY: Phase = "deploy"
 
-const loadFrom = createRequire(import.meta.url)
-
 function checkSlugIn(root: string): string {
   return typeSlugOf(root, CHECK_TYPE)
 }
@@ -152,10 +150,10 @@ function inputIn(run: AnyRunning): Input | null {
 
 type Held<T> = { readonly held: T } | { readonly why: string }
 
-function statedIn(at: string, slug: string, page: string): Held<Record<string, unknown>> {
+function statedIn(from: string, slug: string, page: string): Held<Record<string, unknown>> {
   let mod: Record<string, unknown>
   try {
-    mod = loadFrom(at) as Record<string, unknown>
+    mod = loadedOff(from, page)
   } catch (thrown) {
     return { why: `${page} is a check page, and would not load — ${saidBy(thrown)}` }
   }
@@ -168,10 +166,10 @@ function statedIn(at: string, slug: string, page: string): Held<Record<string, u
   return { held: named as Record<string, unknown> }
 }
 
-function runningIn<T>(at: string, slug: string, beside: string, page: string): Held<T> {
+function runningIn<T>(from: string, slug: string, beside: string, page: string): Held<T> {
   let mod: Record<string, unknown>
   try {
-    mod = loadFrom(at) as Record<string, unknown>
+    mod = loadedOff(from, beside)
   } catch (thrown) {
     return { why: `${beside} is a check's code, and would not load — ${saidBy(thrown)}` }
   }
@@ -197,7 +195,7 @@ function auditCodeOf(root: string, page: string): string | null {
 function auditingIfThere(root: string, page: string, slug: string): Held<AnyAuditing | null> {
   const beside = auditCodeOf(root, page)
   if (beside === null) return { held: null }
-  return runningIn<AnyAuditing>(join(root, beside), slug, beside, page)
+  return runningIn<AnyAuditing>(root, slug, beside, page)
 }
 
 function refusing(
@@ -217,7 +215,7 @@ function refusing(
 function gatheredFrom(root: string, from: string, path: string, slug: string): Gathered | null {
   const broken = (why: string, code: string | null = null): Gathered =>
     refusing(root, path, slug, code, why)
-  const stated = statedIn(join(from, path), slug, path)
+  const stated = statedIn(from, slug, path)
   if ("why" in stated) return broken(stated.why)
   const phases = phasesIn(stated.held)
   if (phases === null) {
@@ -229,7 +227,7 @@ function gatheredFrom(root: string, from: string, path: string, slug: string): G
     if (runsOn.length === 0) return null
     return broken(`${path} is a check page stating a phase, and no code sits beside that page`)
   }
-  const run = runningIn<AnyRunning>(join(from, beside), slug, beside, path)
+  const run = runningIn<AnyRunning>(from, slug, beside, path)
   if ("why" in run) return broken(run.why, beside)
   const audit = auditingIfThere(from, path, slug)
   if ("why" in audit) return broken(audit.why, beside)
