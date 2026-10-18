@@ -11,6 +11,20 @@ import {
   type PageResolver,
 } from "akasha/page/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 
+function isDated(prop: PropertyDefinition | undefined): boolean {
+  return prop?.type === "calendar-date" || prop?.type === "instant"
+}
+
+function ordersByOwnValue(prop: PropertyDefinition): boolean {
+  return (
+    prop.type === "select" ||
+    prop.type === "multi-select" ||
+    prop.type === "relation" ||
+    prop.type === "multi-relation" ||
+    isDated(prop)
+  )
+}
+
 export function generateGroupSortOptions(
   groupBy: string,
   properties: readonly PropertyDefinition[]
@@ -19,12 +33,7 @@ export function generateGroupSortOptions(
   if (!prop || !effectiveGroupable(prop)) return []
 
   const options: GroupSortOption[] = []
-  if (
-    prop.type === "select" ||
-    prop.type === "multi-select" ||
-    prop.type === "relation" ||
-    prop.type === "multi-relation"
-  ) {
+  if (ordersByOwnValue(prop)) {
     options.push({ value: groupBy, label: prop.title, defaultDirection: "asc" })
   }
   options.push({ value: "label", label: "Label", defaultDirection: "asc" })
@@ -40,14 +49,7 @@ export function getDefaultGroupSorts(
   const prop = properties.find((p) => p.id === groupBy)
   if (!prop || !effectiveGroupable(prop)) return []
 
-  if (
-    prop.type === "select" ||
-    prop.type === "multi-select" ||
-    prop.type === "relation" ||
-    prop.type === "multi-relation"
-  ) {
-    return [{ field: groupBy, direction: "asc" }]
-  }
+  if (ordersByOwnValue(prop)) return [{ field: groupBy, direction: "asc" }]
   return [{ field: "label", direction: "asc" }]
 }
 
@@ -55,6 +57,7 @@ function makeGroupKeyByPropertyComparator(
   prop: PropertyDefinition | undefined,
   resolver?: PageResolver | null
 ): (aKey: string, aLabel: string, bKey: string, bLabel: string) => number {
+  if (isDated(prop)) return (aKey, _aLabel, bKey) => (aKey < bKey ? -1 : aKey > bKey ? 1 : 0)
   const useOptionOrder =
     prop && (prop.type === "select" || prop.type === "multi-select") && prop.sort !== "alpha"
   const indexMap = useOptionOrder ? new Map(getOptions(prop).map((o, i) => [o.id, i])) : null

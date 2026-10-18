@@ -11,8 +11,11 @@ export const daysAll = {
   layout: "table",
   narrows: [],
   viewSorts: [{ key: "date", descending: true }],
+  groupBy: "date",
+  groupSorts: [{ key: "date", descending: true }],
+  groupGranularity: "week",
   visibleProperties: ["stoplights"],
   alwaysShowProperties: ["stoplights"],
   createdAt: "2026-10-18T13:34:48.175Z",
-  updatedAt: "2026-10-18T14:17:58.525Z",
+  updatedAt: "2026-10-18T14:18:56.845Z",
 } as const satisfies View
