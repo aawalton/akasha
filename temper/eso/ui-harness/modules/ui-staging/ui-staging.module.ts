@@ -140,7 +140,11 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A player's saved variables are seeded whole where the window asks for them.",
+      statement: "A player's saved variables are seeded where the window asks for them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A saved variables file is seeded in the chunks `saved-chunks` parts it into.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -211,5 +215,5 @@ export const uiStaging = {
     },
   ],
   createdAt: "2026-09-22T18:33:40.383Z",
-  updatedAt: "2026-10-18T18:47:20.080Z",
+  updatedAt: "2026-10-18T18:48:14.309Z",
 } as const satisfies Module

@@ -25,6 +25,7 @@ import {
   manifestEntries,
 } from "akasha/temper/eso/ui-harness/modules/game-manifest/game-manifest.module.code.ts"
 import { namesUnstubbedLua } from "akasha/temper/eso/ui-harness/modules/game-names/game-names.module.code.ts"
+import { savedChunks } from "akasha/temper/eso/ui-harness/modules/saved-chunks/saved-chunks.module.code.ts"
 import {
   fontsIn,
   fontsLua,
@@ -380,7 +381,9 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     const loaded: string[] = []
     const near = [found.tree, ...trees.filter((one) => one !== found.tree)]
     await loadAddon(harness, near, dirname(found.bundle), asked.addon, declaring, loaded)
-    for (const source of seeded) await harness.load(source)
+    for (const source of seeded) {
+      for (const chunk of savedChunks(source)) await harness.load(chunk)
+    }
     await harness.load("return __ui_play_as()")
     for (const addon of [GAME_ADDON, ...loaded]) {
       await raisedOrRefused(harness, refused, `${addon} loaded`, ADDON_LOADED, addon)

@@ -36,6 +36,7 @@ export const temperEsoUiHarness = {
     "module/ui-art-painting",
     "module/ui-kerning",
     "module/ui-virtuals-lua",
+    "module/saved-chunks",
   ],
   decisions: [
     {
@@ -80,5 +81,5 @@ export const temperEsoUiHarness = {
     },
   ],
   createdAt: "2026-09-22T14:14:35.023Z",
-  updatedAt: "2026-09-27T01:08:10.000Z",
+  updatedAt: "2026-10-18T18:48:14.309Z",
 } as const satisfies Domain
