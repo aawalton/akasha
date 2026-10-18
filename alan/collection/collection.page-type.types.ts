@@ -1,6 +1,7 @@
 import type { CollectionAuthor } from "akasha/alan/collection/properties/collection-author.text-property.types.ts"
 import type { CollectionCompletedAt } from "akasha/alan/collection/properties/collection-completed-at.instant-property.types.ts"
 import type { CollectionCompletion } from "akasha/alan/collection/properties/collection-completion.computed-property.types.ts"
+import type { CollectionCompletionPercent } from "akasha/alan/collection/properties/collection-completion-percent.computed-property.types.ts"
 import type { CollectionPublishedAt } from "akasha/alan/collection/properties/collection-published-at.one-of-property.types.ts"
 import type { CollectionTags } from "akasha/alan/collection/properties/collection-tags.text-property.types.ts"
 import type { CollectionType } from "akasha/alan/collection/properties/collection-type.relation-property.types.ts"
@@ -57,4 +58,5 @@ export type Collection = Page & {
   partsLengthInWords?: PartsLengthInWords
   partsProgressInWords?: PartsProgressInWords
   unitWords?: UnitWords
+  completionPercent?: CollectionCompletionPercent
 }

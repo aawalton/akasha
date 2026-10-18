@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/properties/working-color.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/properties/working-color.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-coverage.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/collection-completion-percent.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/collection-completion.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/own-length-in-words.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/own-progress-in-words.computed-property.code.ts","typed":true,"deferred":false}
@@ -63,6 +64,7 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"agent/seat/properties/turn-state.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"agent/seat/properties/working-color.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-coverage.computed-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/collection-completion-percent.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/collection-completion.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/own-length-in-words.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/own-progress-in-words.computed-property.ts","typed":true,"deferred":false}

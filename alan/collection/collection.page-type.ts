@@ -56,6 +56,7 @@ export const collection = {
     "select-property/status",
     "text-property/collection-author",
     "text-property/collection-tags",
+    "computed-property/collection-completion-percent",
   ],
   extends: ["page-type/page"],
   properties: [
@@ -115,6 +116,11 @@ export const collection = {
     { pageProperty: "computed-property/parts-length-in-words", required: false, many: false },
     { pageProperty: "computed-property/parts-progress-in-words", required: false, many: false },
     { pageProperty: "computed-property/unit-words", required: false, many: false },
+    {
+      pageProperty: "computed-property/collection-completion-percent",
+      required: false,
+      many: false,
+    },
   ],
   decisions: [
     {
@@ -183,5 +189,5 @@ export const collection = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-28T22:24:04.000Z",
+  updatedAt: "2026-10-18T16:08:52.738Z",
 } as const satisfies PageType

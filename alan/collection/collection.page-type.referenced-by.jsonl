@@ -27,6 +27,7 @@
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/place/restaurant-menu-item/restaurant-menu-item.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/place/restaurant/restaurant.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/place/travel-collection/travel-collection.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/collection-completion-percent.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/collection-completion.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/own-length-in-words.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/own-progress-in-words.computed-property.code.ts","typed":true,"deferred":false}
