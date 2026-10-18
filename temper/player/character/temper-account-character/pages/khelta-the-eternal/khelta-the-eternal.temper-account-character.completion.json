@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQIVMUAAIBkRRP__FGMJzi0TFU8npElWirp0TJAAII1BAAQBhAAkACAAEgAAhAAAycAKwBmAE5AAQiNGAAQySBQIxEANIAAAAgDAByAIEHVAAAwOMujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxtHZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJwFAMg4xIGsA",
+  "buildHash": "ATQIVMUAAIBkRRMCU_lAANp_LckLmC25IXMFtyQuYLbkhcwW3JC5gtuQgUdrchBAq2cCCBVs4JhEx2gCIgmOtuUUYwnOLRMVTyekSVaKunRMkAAgjUEABAGEACQAIAASAACEAADJwArAGYATkABCI0YABDJIFAjEQA0gAAACAMAHIAgQdUAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0nAUAyDjEgaw",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -2475,7 +2475,7 @@
     },
     "55": {
       "currentRank": 4,
-      "currentXP": 165,
+      "currentXP": 175,
       "nextRankXP": 200,
       "skills": {
         "39369": {
@@ -6750,7 +6750,7 @@
     }
   },
   "companionRapport": {
-    "6": 2718,
+    "6": 2847,
     "13": 817
   },
   "quests": [
@@ -13335,849 +13335,101 @@
   },
   "inventoryCheck": {
     "date": "2026-10-18",
-    "misplaced": 18
+    "misplaced": 24
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792329447,
+      "capturedAt": 1792333919,
       "inCombat": false,
       "stats": {
-        "critical-rating-spell": 2939,
-        "resistance-critical": 1320,
-        "critical-rating-weapon": 2939,
-        "stamina-recovery": 829,
-        "power-spell": 1200,
-        "health-maximum": 24066,
-        "power-weapon": 1200,
-        "stamina-maximum": 23080,
+        "health-maximum": 26112,
+        "magicka-recovery": 598,
+        "critical-rating-spell": 3596,
+        "power-spell": 3905,
+        "power-weapon": 3905,
+        "penetration-spell": 18019,
+        "critical-rating-weapon": 3596,
+        "penetration-physical": 18019,
         "magicka-maximum": 12520,
-        "resistance-physical": 1731,
-        "penetration-physical": 7164,
-        "penetration-spell": 7164,
-        "resistance-spell": 1731,
+        "stamina-maximum": 28045,
+        "stamina-recovery": 1120,
+        "resistance-critical": 1320,
         "health-recovery": 0,
-        "magicka-recovery": 514
+        "resistance-physical": 21349,
+        "resistance-spell": 21349
       },
       "unbonusedStats": {
+        "health-maximum": 26112,
+        "magicka-recovery": 598,
         "critical-rating-spell": 2181,
-        "resistance-critical": 0,
-        "critical-rating-weapon": 2181,
-        "stamina-recovery": 829,
         "power-spell": 1000,
-        "health-maximum": 24066,
         "power-weapon": 1000,
-        "stamina-maximum": 23080,
-        "magicka-maximum": 12520,
-        "resistance-physical": 0,
-        "penetration-physical": 0,
         "penetration-spell": 0,
-        "resistance-spell": 0,
+        "critical-rating-weapon": 2181,
+        "penetration-physical": 0,
+        "magicka-maximum": 12520,
+        "stamina-maximum": 28045,
+        "stamina-recovery": 1120,
+        "resistance-critical": 0,
         "health-recovery": 0,
-        "magicka-recovery": 514
+        "resistance-physical": 0,
+        "resistance-spell": 0
       },
       "activeBuffs": [
         {
-          "abilityId": 89957,
-          "name": "Dubious Camoran Throne",
-          "description": "Increase Stamina Recovery by |cffffff278|r, Max Stamina by |cffffff2520|r and Max Health by |cffffff2730|r for |cffffff2|r hours.",
-          "effect": "Increase Stamina Recovery by |cffffff315|r.\nIncrease Max Stamina by |cffffff2856|r.\nIncrease Max Health by |cffffff3094|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 63569,
-          "name": "Gallop",
-          "description": "",
-          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 13981,
-          "name": "Boon: The Lover",
-          "description": "increases Physical and Spell Penetration",
-          "effect": "Increases your Spell and Physical Penetration by |cffffff2744|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61665,
-          "name": "Major Brutality",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 135402,
-          "name": "Vampire Stage 4",
-          "description": "",
-          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
-          "stacks": 0
-        }
-      ],
-      "championPoints": [
-        {
-          "championSkillId": 68,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff3|r meters",
-          "slottable": false
-        },
-        {
-          "championSkillId": 76,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 84,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 90,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 78,
-          "points": 75,
-          "maxPoints": 75,
-          "bonus": "|cffffff50|r% time reduction",
-          "slottable": true
-        },
-        {
-          "championSkillId": 79,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 75,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 85,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff30|r minutes",
-          "slottable": false
-        },
-        {
-          "championSkillId": 86,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 89,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 88,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 91,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 70,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 81,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 82,
-          "points": 75,
-          "maxPoints": 75,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 92,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Mount Speed",
-          "slottable": true
-        },
-        {
-          "championSkillId": 83,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 72,
-          "points": 45,
-          "maxPoints": 45,
-          "bonus": "|cffffff30|r% increase",
-          "slottable": false
-        },
-        {
-          "championSkillId": 71,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% increased gold find",
-          "slottable": false
-        },
-        {
-          "championSkillId": 77,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 67,
-          "points": 40,
-          "maxPoints": 40,
-          "bonus": "|cffffff25|r% reduced penalty",
-          "slottable": false
-        },
-        {
-          "championSkillId": 74,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% increased gold",
-          "slottable": false
-        },
-        {
-          "championSkillId": 69,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff35|r% reduced damage",
-          "slottable": false
-        },
-        {
-          "championSkillId": 87,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 66,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff20|r% Movement Speed",
-          "slottable": true
-        },
-        {
-          "championSkillId": 65,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% cost reduction",
-          "slottable": true
-        },
-        {
-          "championSkillId": 1,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 11,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff320|r Critical Chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 12,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff8|r% Critical Damage and Critical Healing done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 108,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% Healing Done",
-          "slottable": false
-        },
-        {
-          "championSkillId": 26,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Healing Done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 10,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff700|r Offensive Penetration",
-          "slottable": false
-        },
-        {
-          "championSkillId": 277,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 276,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 264,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 17,
-          "points": 40,
-          "maxPoints": 40,
-          "bonus": "|cffffff60|r% increased chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 21,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 18,
-          "points": 40,
-          "maxPoints": 40,
-          "bonus": "|cffffff60|r% increased chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 22,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 25,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 23,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 27,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 30,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 8,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff205|r Weapon and Spell Damage",
-          "slottable": true
-        },
-        {
-          "championSkillId": 31,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Critical Damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 6,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff520|r Max Stamina",
-          "slottable": false
-        },
-        {
-          "championSkillId": 20,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% Healing Taken",
-          "slottable": false
-        },
-        {
-          "championSkillId": 14,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff10|r% damage reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 15,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% damage reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 16,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% damage reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 99,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff520|r Max Magicka",
-          "slottable": false
-        },
-        {
-          "championSkillId": 5,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1300|r Max Stamina",
-          "slottable": true
-        },
-        {
-          "championSkillId": 4,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff150|r Weapon and Spell Damage",
-          "slottable": true
-        },
-        {
-          "championSkillId": 38,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff40|r cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 42,
-          "points": 16,
-          "maxPoints": 16,
-          "bonus": "|cffffff4|r% Movement Speed",
-          "slottable": false
-        },
-        {
-          "championSkillId": 272,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r seconds On Kill",
-          "slottable": true
-        },
-        {
-          "championSkillId": 270,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Movement Speed",
-          "slottable": true
-        },
-        {
-          "championSkillId": 113,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff560|r Max Health",
-          "slottable": false
-        },
-        {
-          "championSkillId": 63,
-          "points": 10,
-          "maxPoints": 50,
-          "bonus": "|cffffff2|r% cost reduction",
-          "slottable": true
-        },
-        {
-          "championSkillId": 46,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff15|r% effectiveness and damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 58,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% more resources",
-          "slottable": false
-        },
-        {
-          "championSkillId": 56,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 45,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff3|r meters",
-          "slottable": false
-        },
-        {
-          "championSkillId": 48,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1500|r Stamina",
-          "slottable": true
-        },
-        {
-          "championSkillId": 53,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff25|r% reduced duration",
-          "slottable": false
-        },
-        {
-          "championSkillId": 273,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff150|r Health, Magicka, and Stamina Recovery",
-          "slottable": true
-        },
-        {
-          "championSkillId": 47,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1500|r Magicka",
-          "slottable": true
-        },
-        {
-          "championSkillId": 39,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff40|r Block cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 40,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff90|r cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 50,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff120|r increased damage",
-          "slottable": false
-        },
-        {
-          "championSkillId": 44,
-          "points": 6,
-          "maxPoints": 6,
-          "bonus": "|cffffff6|r% Movement Speed",
-          "slottable": false
-        },
-        {
-          "championSkillId": 266,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% damage reduction",
-          "slottable": true
-        },
-        {
-          "championSkillId": 43,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff4|r% Block mitigation",
-          "slottable": false
-        },
-        {
-          "championSkillId": 37,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff240|r cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 51,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 128,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff220|r cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 52,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 35,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff90|r Health, Magicka, and Stamina Recovery",
-          "slottable": true
-        },
-        {
-          "championSkillId": 34,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1731|r Armor",
-          "slottable": true
-        },
-        {
-          "championSkillId": 2,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1400|r Max Health",
-          "slottable": true
-        }
-      ],
-      "worn": [],
-      "skills": [
-        {
-          "slot": 3,
-          "abilityId": 38754,
-          "name": "Brawler",
-          "description": "Focus your strength into a mighty swing, dealing |cffffff3428|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff3283|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
-          "durationMs": 0,
-          "castMs": 0,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
-        },
-        {
-          "slot": 4,
-          "abilityId": 183006,
-          "name": "Cephaliarch's Flail",
-          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3817|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1620|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
-          "durationMs": 0,
-          "castMs": 300,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
-        },
-        {
-          "slot": 5,
-          "abilityId": 193398,
-          "name": "Pragmatic Fatecarver",
-          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1729|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff5721|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
-          "durationMs": 0,
-          "castMs": 4500,
-          "channeled": true,
-          "cooldownMs": 0,
-          "ultimateCost": 0
-        },
-        {
-          "slot": 6,
-          "abilityId": 34843,
-          "name": "Killer's Blade",
-          "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff2163|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff3882|r if the enemy dies within |cffffff2|r seconds of being struck.",
-          "durationMs": 0,
-          "castMs": 0,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
-        },
-        {
-          "slot": 7,
-          "abilityId": 61505,
-          "name": "Echoing Vigor",
-          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff8451|r Health over |cffffff16|r seconds.",
-          "durationMs": 16000,
-          "castMs": 0,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
-        },
-        {
-          "slot": 8,
-          "abilityId": 189837,
-          "name": "The Tide King's Gaze",
-          "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff2023|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain.",
-          "durationMs": 8000,
-          "castMs": 0,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 193
-        }
-      ],
-      "classPassives": [
-        {
-          "abilityId": 116272,
-          "name": "Last Gasp",
-          "description": "Increase your Max Health by |cffffff2412|r."
-        },
-        {
-          "abilityId": 45038,
-          "name": "Master Assassin",
-          "description": "Increases your Critical Chance rating against enemies you are flanking by |cffffff1448|r, increasing your chance to critically strike by |cffffff|6.6|r%."
-        },
-        {
-          "abilityId": 45048,
-          "name": "Executioner",
-          "description": "When an enemy dies within |cffffff2|r seconds of being damaged by you, you restore |cffffff1000|r Magicka and Stamina."
-        },
-        {
-          "abilityId": 45053,
-          "name": "Pressure Points",
-          "description": "Increases your Critical Chance rating by |cffffff438|r for each Nightblade ability slotted, increasing your chance to critically strike by |cffffff2|r% per ability.\n\nCurrent bonus: |cffffff438|r."
-        },
-        {
-          "abilityId": 45060,
-          "name": "Hemorrhage",
-          "description": "Increases your Critical Damage by |cffffff10|r%. \n\nCritically striking in any form grants you and your group Minor Savagery, increasing Critical Chance by |cffffff6|r% for |cffffff20|r seconds."
-        },
-        {
-          "abilityId": 184847,
-          "name": "Fated Fortune",
-          "description": "Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by |cffffff12|r% for |cffffff7|r seconds."
-        },
-        {
-          "abilityId": 184858,
-          "name": "Harnessed Quintessence",
-          "description": "You master the warp and weft of your very soul. \n\nWhen you restore Magicka or Stamina, your Weapon and Spell Damage increase by |cffffff284|r for |cffffff10|r seconds."
-        },
-        {
-          "abilityId": 184873,
-          "name": "Psychic Lesion",
-          "description": "Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by |cffffff15|r% and Status Effect Chance by |cffffff55|r%."
-        },
-        {
-          "abilityId": 184887,
-          "name": "Splintered Secrets",
-          "description": "What they don't know can kill them. Increase your Physical and Spell Penetration by |cffffff1240|r per Herald of the Tome ability slotted.\n\nCurrent bonus: |cffffff3720|r."
-        }
-      ],
-      "inArchive": false,
-      "archiveBoons": []
-    },
-    "backBar": {
-      "capturedAt": 1792069694,
-      "inCombat": true,
-      "stats": {
-        "critical-rating-spell": 4253,
-        "resistance-critical": 1320,
-        "critical-rating-weapon": 4253,
-        "stamina-recovery": 2012,
-        "power-spell": 3407,
-        "health-maximum": 24259,
-        "power-weapon": 3407,
-        "stamina-maximum": 27757,
-        "magicka-maximum": 12695,
-        "resistance-physical": 15830,
-        "penetration-physical": 10283,
-        "penetration-spell": 10283,
-        "resistance-spell": 15830,
-        "health-recovery": 0,
-        "magicka-recovery": 638
-      },
-      "unbonusedStats": {
-        "critical-rating-spell": 2181,
-        "resistance-critical": 0,
-        "critical-rating-weapon": 2181,
-        "stamina-recovery": 2012,
-        "power-spell": 1000,
-        "health-maximum": 24259,
-        "power-weapon": 1000,
-        "stamina-maximum": 27757,
-        "magicka-maximum": 12695,
-        "resistance-physical": 0,
-        "penetration-physical": 0,
-        "penetration-spell": 0,
-        "resistance-spell": 0,
-        "health-recovery": 0,
-        "magicka-recovery": 638
-      },
-      "activeBuffs": [
-        {
-          "abilityId": 89957,
-          "name": "Dubious Camoran Throne",
-          "description": "Increase Stamina Recovery by |cffffff278|r, Max Stamina by |cffffff2520|r and Max Health by |cffffff2730|r for |cffffff2|r hours.",
-          "effect": "Increase Stamina Recovery by |cffffff315|r.\nIncrease Max Stamina by |cffffff2856|r.\nIncrease Max Health by |cffffff3094|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 63569,
-          "name": "Gallop",
-          "description": "",
-          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 13981,
-          "name": "Boon: The Lover",
-          "description": "increases Physical and Spell Penetration",
-          "effect": "Increases your Spell and Physical Penetration by |cffffff4129|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61665,
-          "name": "Major Brutality",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 135402,
-          "name": "Vampire Stage 4",
-          "description": "",
-          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 184220,
-          "name": "Crux",
-          "description": "",
+          "abilityId": 43752,
+          "name": "Soul Summons",
+          "description": "· Once per hour, you can resurrect without the need for a soul gem",
           "effect": "",
-          "stacks": 1
+          "stacks": 0
         },
         {
-          "abilityId": 61666,
-          "name": "Minor Savagery",
+          "abilityId": 89957,
+          "name": "Dubious Camoran Throne",
+          "description": "Increase Stamina Recovery by |cffffff278|r, Max Stamina by |cffffff2520|r and Max Health by |cffffff2730|r for |cffffff2|r hours.",
+          "effect": "Increase Stamina Recovery by |cffffff315|r.\nIncrease Max Stamina by |cffffff2856|r.\nIncrease Max Health by |cffffff3094|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61694,
+          "name": "Major Resolve",
           "description": "",
-          "effect": "Increases your Critical rating by |cffffff1314|r, increasing your Critical Chance by |cffffff6|r%.\n",
+          "effect": "Increases your Physical and Spell Resistance by |cffffff5948|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61746,
+          "name": "Minor Force",
+          "description": "",
+          "effect": "Increases your Critical Damage done by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 63569,
+          "name": "Gallop",
+          "description": "",
+          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 13981,
+          "name": "Boon: The Lover",
+          "description": "increases Physical and Spell Penetration",
+          "effect": "Increases your Spell and Physical Penetration by |cffffff4212|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61665,
+          "name": "Major Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 135402,
+          "name": "Vampire Stage 4",
+          "description": "",
+          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
           "stacks": 0
         }
       ],
@@ -14746,99 +13998,986 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:205386:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:0:0:1:0:9800:0|h|h",
-          "armor": 1221,
+          "link": "|H0:item:82176:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:7717:0|h|h",
+          "armor": 2341,
+          "enchant": "Adds |cffffff882|r Maximum Health.",
+          "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
+          "quality": 4
+        },
+        {
+          "slot": 1,
+          "link": "|H0:item:194512:364:50:166047:370:50:31:25:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
+          "armor": 0,
+          "enchant": "Adds |cffffff84|r Magicka Recovery.\nAdds |cffffff84|r Health Recovery.\nAdds |cffffff84|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
+        },
+        {
+          "slot": 2,
+          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:1787:0|h|h",
+          "armor": 2084,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5
         },
         {
-          "slot": 1,
-          "link": "|H0:item:149432:363:50:0:0:0:28:25:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
-          "armor": 0,
-          "enchant": "Adds |cffffff157|r Stamina Recovery.",
-          "trait": "Increases movement speed by |cffffff6|r%.",
-          "quality": 4
-        },
-        {
-          "slot": 2,
-          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:6700:0|h|h",
-          "armor": 2012,
-          "enchant": "Adds |cffffff802|r Maximum Stamina.",
-          "trait": "Reduces the cost of Roll Dodge and Sprint by |cffffff4.8|r%.",
-          "quality": 4
-        },
-        {
           "slot": 3,
-          "link": "|H0:item:59434:364:50:68343:370:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:8350:0|h|h",
-          "armor": 2425,
-          "enchant": "Adds |cffffff175|r Maximum Magicka.\nAdds |cffffff193|r Maximum Health.\nAdds |cffffff175|r Maximum Stamina.",
+          "link": "|H0:item:82177:363:50:26588:370:50:16:25:0:0:0:0:0:0:2049:67:0:1:0:6380:0|h|h",
+          "armor": 2341,
+          "enchant": "Adds |cffffff424|r Maximum Stamina.",
+          "trait": "Increase armor enchantment effect by |cffffff21|r%.",
+          "quality": 4
+        },
+        {
+          "slot": 4,
+          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:153:0|h|h",
+          "armor": 0,
+          "enchant": "Deals |cffffff2014|r Physical Damage and restores |cffffff354|r Stamina.",
+          "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
+          "quality": 5
+        },
+        {
+          "slot": 6,
+          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:8060:0|h|h",
+          "armor": 781,
+          "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5
         },
         {
-          "slot": 4,
-          "link": "|H0:item:149437:363:50:0:0:0:7:25:0:0:0:0:0:0:2049:84:0:1:0:68:0|h|h",
-          "armor": 0,
-          "enchant": "Deals |cffffff1859|r Physical Damage and restores |cffffff327|r Stamina.",
-          "trait": "Increases Physical and Spell Penetration by |cffffff3161|r.",
-          "quality": 4
-        },
-        {
-          "slot": 6,
-          "link": "|H0:item:96978:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:6340:0|h|h",
-          "armor": 754,
-          "enchant": "Adds |cffffff324|r Maximum Stamina.",
-          "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
-        },
-        {
           "slot": 8,
-          "link": "|H0:item:96976:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:3700:0|h|h",
-          "armor": 1760,
-          "enchant": "Adds |cffffff802|r Maximum Stamina.",
-          "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
+          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:9550:0|h|h",
+          "armor": 1823,
+          "enchant": "Adds |cffffff868|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 9,
-          "link": "|H0:item:96973:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:1580:0|h|h",
-          "armor": 1760,
-          "enchant": "Adds |cffffff324|r Maximum Stamina.",
-          "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
+          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:8128:0|h|h",
+          "armor": 1823,
+          "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
         },
         {
           "slot": 11,
-          "link": "|H0:item:149431:363:50:0:0:0:28:25:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
+          "link": "|H0:item:69385:364:50:45883:312:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
           "armor": 0,
-          "enchant": "Adds |cffffff157|r Stamina Recovery.",
-          "trait": "Increases movement speed by |cffffff6|r%.",
-          "quality": 4
+          "enchant": "Adds |cffffff152|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
         },
         {
           "slot": 12,
-          "link": "|H0:item:149431:363:50:0:0:0:28:25:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
+          "link": "|H0:item:69385:364:50:45883:312:50:31:0:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
           "armor": 0,
-          "enchant": "Adds |cffffff157|r Stamina Recovery.",
-          "trait": "Increases movement speed by |cffffff6|r%.",
-          "quality": 4
+          "enchant": "Adds |cffffff152|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
         },
         {
           "slot": 16,
-          "link": "|H0:item:96974:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:11:0:1:0:4150:0|h|h",
-          "armor": 1006,
-          "enchant": "Adds |cffffff324|r Maximum Stamina.",
+          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:6067:0|h|h",
+          "armor": 1042,
+          "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 20,
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:277:0|h|h",
+          "armor": 0,
+          "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
+          "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
+          "quality": 5
+        }
+      ],
+      "skills": [
+        {
+          "slot": 3,
+          "abilityId": 38754,
+          "name": "Brawler",
+          "description": "Focus your strength into a mighty swing, dealing |cffffff6352|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff6352|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
+          "durationMs": 0,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0
+        },
+        {
+          "slot": 4,
+          "abilityId": 183006,
+          "name": "Cephaliarch's Flail",
+          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff7071|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3137|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+          "durationMs": 0,
+          "castMs": 300,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0
+        },
+        {
+          "slot": 5,
+          "abilityId": 193398,
+          "name": "Pragmatic Fatecarver",
+          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3205|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff11073|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+          "durationMs": 0,
+          "castMs": 4500,
+          "channeled": true,
+          "cooldownMs": 0,
+          "ultimateCost": 0
+        },
+        {
+          "slot": 6,
+          "abilityId": 34843,
+          "name": "Killer's Blade",
+          "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff4008|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff7514|r if the enemy dies within |cffffff2|r seconds of being struck.",
+          "durationMs": 0,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0
+        },
+        {
+          "slot": 7,
+          "abilityId": 61505,
+          "name": "Echoing Vigor",
+          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff16362|r Health over |cffffff16|r seconds.",
+          "durationMs": 16000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0
+        },
+        {
+          "slot": 8,
+          "abilityId": 189837,
+          "name": "The Tide King's Gaze",
+          "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff3748|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain.",
+          "durationMs": 8000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 193
+        }
+      ],
+      "classPassives": [
+        {
+          "abilityId": 116272,
+          "name": "Last Gasp",
+          "description": "Increase your Max Health by |cffffff2412|r."
+        },
+        {
+          "abilityId": 45038,
+          "name": "Master Assassin",
+          "description": "Increases your Critical Chance rating against enemies you are flanking by |cffffff1448|r, increasing your chance to critically strike by |cffffff|6.6|r%."
+        },
+        {
+          "abilityId": 45048,
+          "name": "Executioner",
+          "description": "When an enemy dies within |cffffff2|r seconds of being damaged by you, you restore |cffffff1000|r Magicka and Stamina."
+        },
+        {
+          "abilityId": 45053,
+          "name": "Pressure Points",
+          "description": "Increases your Critical Chance rating by |cffffff438|r for each Nightblade ability slotted, increasing your chance to critically strike by |cffffff2|r% per ability.\n\nCurrent bonus: |cffffff438|r."
+        },
+        {
+          "abilityId": 45060,
+          "name": "Hemorrhage",
+          "description": "Increases your Critical Damage by |cffffff10|r%. \n\nCritically striking in any form grants you and your group Minor Savagery, increasing Critical Chance by |cffffff6|r% for |cffffff20|r seconds."
+        },
+        {
+          "abilityId": 184847,
+          "name": "Fated Fortune",
+          "description": "Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by |cffffff12|r% for |cffffff7|r seconds."
+        },
+        {
+          "abilityId": 184858,
+          "name": "Harnessed Quintessence",
+          "description": "You master the warp and weft of your very soul. \n\nWhen you restore Magicka or Stamina, your Weapon and Spell Damage increase by |cffffff284|r for |cffffff10|r seconds."
+        },
+        {
+          "abilityId": 184873,
+          "name": "Psychic Lesion",
+          "description": "Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by |cffffff15|r% and Status Effect Chance by |cffffff55|r%."
+        },
+        {
+          "abilityId": 184887,
+          "name": "Splintered Secrets",
+          "description": "What they don't know can kill them. Increase your Physical and Spell Penetration by |cffffff1240|r per Herald of the Tome ability slotted.\n\nCurrent bonus: |cffffff3720|r."
+        }
+      ],
+      "inArchive": false,
+      "archiveBoons": []
+    },
+    "backBar": {
+      "capturedAt": 1792333843,
+      "inCombat": false,
+      "stats": {
+        "health-maximum": 26112,
+        "magicka-recovery": 598,
+        "critical-rating-spell": 3596,
+        "power-spell": 4241,
+        "power-weapon": 4241,
+        "penetration-spell": 11719,
+        "critical-rating-weapon": 3596,
+        "penetration-physical": 11719,
+        "magicka-maximum": 12520,
+        "stamina-maximum": 28045,
+        "stamina-recovery": 1120,
+        "resistance-critical": 1320,
+        "health-recovery": 0,
+        "resistance-physical": 18375,
+        "resistance-spell": 18375
+      },
+      "unbonusedStats": {
+        "health-maximum": 26112,
+        "magicka-recovery": 598,
+        "critical-rating-spell": 2181,
+        "power-spell": 1000,
+        "power-weapon": 1000,
+        "penetration-spell": 0,
+        "critical-rating-weapon": 2181,
+        "penetration-physical": 0,
+        "magicka-maximum": 12520,
+        "stamina-maximum": 28045,
+        "stamina-recovery": 1120,
+        "resistance-critical": 0,
+        "health-recovery": 0,
+        "resistance-physical": 0,
+        "resistance-spell": 0
+      },
+      "activeBuffs": [
+        {
+          "abilityId": 89957,
+          "name": "Dubious Camoran Throne",
+          "description": "Increase Stamina Recovery by |cffffff278|r, Max Stamina by |cffffff2520|r and Max Health by |cffffff2730|r for |cffffff2|r hours.",
+          "effect": "Increase Stamina Recovery by |cffffff315|r.\nIncrease Max Stamina by |cffffff2856|r.\nIncrease Max Health by |cffffff3094|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61694,
+          "name": "Major Resolve",
+          "description": "",
+          "effect": "Increases your Physical and Spell Resistance by |cffffff5948|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61746,
+          "name": "Minor Force",
+          "description": "",
+          "effect": "Increases your Critical Damage done by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 63569,
+          "name": "Gallop",
+          "description": "",
+          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 13981,
+          "name": "Boon: The Lover",
+          "description": "increases Physical and Spell Penetration",
+          "effect": "Increases your Spell and Physical Penetration by |cffffff4212|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61665,
+          "name": "Major Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 135402,
+          "name": "Vampire Stage 4",
+          "description": "",
+          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 43752,
+          "name": "Soul Summons",
+          "description": "· Once per hour, you can resurrect without the need for a soul gem",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61742,
+          "name": "Minor Breach",
+          "description": "",
+          "effect": "Reduces your Physical and Spell Resistance by |cffffff2974|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 185842,
+          "name": "Inspired Scholarship",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3382|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+          "effect": "",
+          "stacks": 0
+        }
+      ],
+      "championPoints": [
+        {
+          "championSkillId": 68,
+          "points": 30,
+          "maxPoints": 30,
+          "bonus": "|cffffff3|r meters",
+          "slottable": false
+        },
+        {
+          "championSkillId": 76,
+          "points": 25,
+          "maxPoints": 25,
+          "bonus": "",
+          "slottable": true
+        },
+        {
+          "championSkillId": 84,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": true
+        },
+        {
+          "championSkillId": 90,
+          "points": 25,
+          "maxPoints": 25,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 78,
+          "points": 75,
+          "maxPoints": 75,
+          "bonus": "|cffffff50|r% time reduction",
+          "slottable": true
+        },
+        {
+          "championSkillId": 79,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 75,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff50|r% chance",
+          "slottable": false
+        },
+        {
+          "championSkillId": 85,
+          "points": 30,
+          "maxPoints": 30,
+          "bonus": "|cffffff30|r minutes",
+          "slottable": false
+        },
+        {
+          "championSkillId": 86,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 89,
+          "points": 25,
+          "maxPoints": 25,
+          "bonus": "",
+          "slottable": true
+        },
+        {
+          "championSkillId": 88,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": true
+        },
+        {
+          "championSkillId": 91,
+          "points": 25,
+          "maxPoints": 25,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 70,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff50|r% cost reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 81,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff50|r% chance",
+          "slottable": false
+        },
+        {
+          "championSkillId": 82,
+          "points": 75,
+          "maxPoints": 75,
+          "bonus": "",
+          "slottable": true
+        },
+        {
+          "championSkillId": 92,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff10|r% Mount Speed",
+          "slottable": true
+        },
+        {
+          "championSkillId": 83,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 72,
+          "points": 45,
+          "maxPoints": 45,
+          "bonus": "|cffffff30|r% increase",
+          "slottable": false
+        },
+        {
+          "championSkillId": 71,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff50|r% increased gold find",
+          "slottable": false
+        },
+        {
+          "championSkillId": 77,
+          "points": 25,
+          "maxPoints": 25,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 67,
+          "points": 40,
+          "maxPoints": 40,
+          "bonus": "|cffffff25|r% reduced penalty",
+          "slottable": false
+        },
+        {
+          "championSkillId": 74,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff10|r% increased gold",
+          "slottable": false
+        },
+        {
+          "championSkillId": 69,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff35|r% reduced damage",
+          "slottable": false
+        },
+        {
+          "championSkillId": 87,
+          "points": 30,
+          "maxPoints": 30,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 66,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff20|r% Movement Speed",
+          "slottable": true
+        },
+        {
+          "championSkillId": 65,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff50|r% cost reduction",
+          "slottable": true
+        },
+        {
+          "championSkillId": 1,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff50|r% cost reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 11,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff320|r Critical Chance",
+          "slottable": false
+        },
+        {
+          "championSkillId": 12,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff8|r% Critical Damage and Critical Healing done",
+          "slottable": true
+        },
+        {
+          "championSkillId": 108,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff2|r% Healing Done",
+          "slottable": false
+        },
+        {
+          "championSkillId": 26,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff10|r% Healing Done",
+          "slottable": true
+        },
+        {
+          "championSkillId": 10,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff700|r Offensive Penetration",
+          "slottable": false
+        },
+        {
+          "championSkillId": 277,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff10|r% damage done",
+          "slottable": true
+        },
+        {
+          "championSkillId": 276,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": true
+        },
+        {
+          "championSkillId": 264,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff6|r% damage done",
+          "slottable": true
+        },
+        {
+          "championSkillId": 17,
+          "points": 40,
+          "maxPoints": 40,
+          "bonus": "|cffffff60|r% increased chance",
+          "slottable": false
+        },
+        {
+          "championSkillId": 21,
+          "points": 30,
+          "maxPoints": 30,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 18,
+          "points": 40,
+          "maxPoints": 40,
+          "bonus": "|cffffff60|r% increased chance",
+          "slottable": false
+        },
+        {
+          "championSkillId": 22,
+          "points": 30,
+          "maxPoints": 30,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 25,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff6|r% damage done",
+          "slottable": true
+        },
+        {
+          "championSkillId": 23,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff6|r% damage done",
+          "slottable": true
+        },
+        {
+          "championSkillId": 27,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff6|r% damage done",
+          "slottable": true
+        },
+        {
+          "championSkillId": 30,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": true
+        },
+        {
+          "championSkillId": 8,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff205|r Weapon and Spell Damage",
+          "slottable": true
+        },
+        {
+          "championSkillId": 31,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff10|r% Critical Damage done",
+          "slottable": true
+        },
+        {
+          "championSkillId": 6,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff520|r Max Stamina",
+          "slottable": false
+        },
+        {
+          "championSkillId": 20,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff2|r% Healing Taken",
+          "slottable": false
+        },
+        {
+          "championSkillId": 14,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff10|r% damage reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 15,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff2|r% damage reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 16,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff2|r% damage reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 99,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff520|r Max Magicka",
+          "slottable": false
+        },
+        {
+          "championSkillId": 5,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff1300|r Max Stamina",
+          "slottable": true
+        },
+        {
+          "championSkillId": 4,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff150|r Weapon and Spell Damage",
+          "slottable": true
+        },
+        {
+          "championSkillId": 38,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff40|r cost reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 42,
+          "points": 16,
+          "maxPoints": 16,
+          "bonus": "|cffffff4|r% Movement Speed",
+          "slottable": false
+        },
+        {
+          "championSkillId": 272,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff6|r seconds On Kill",
+          "slottable": true
+        },
+        {
+          "championSkillId": 270,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff10|r% Movement Speed",
+          "slottable": true
+        },
+        {
+          "championSkillId": 113,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff560|r Max Health",
+          "slottable": false
+        },
+        {
+          "championSkillId": 63,
+          "points": 10,
+          "maxPoints": 50,
+          "bonus": "|cffffff2|r% cost reduction",
+          "slottable": true
+        },
+        {
+          "championSkillId": 46,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff15|r% effectiveness and damage done",
+          "slottable": true
+        },
+        {
+          "championSkillId": 58,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff10|r% more resources",
+          "slottable": false
+        },
+        {
+          "championSkillId": 56,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": true
+        },
+        {
+          "championSkillId": 45,
+          "points": 30,
+          "maxPoints": 30,
+          "bonus": "|cffffff3|r meters",
+          "slottable": false
+        },
+        {
+          "championSkillId": 48,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff1500|r Stamina",
+          "slottable": true
+        },
+        {
+          "championSkillId": 53,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff25|r% reduced duration",
+          "slottable": false
+        },
+        {
+          "championSkillId": 273,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff150|r Health, Magicka, and Stamina Recovery",
+          "slottable": true
+        },
+        {
+          "championSkillId": 47,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff1500|r Magicka",
+          "slottable": true
+        },
+        {
+          "championSkillId": 39,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff40|r Block cost reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 40,
+          "points": 30,
+          "maxPoints": 30,
+          "bonus": "|cffffff90|r cost reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 50,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff120|r increased damage",
+          "slottable": false
+        },
+        {
+          "championSkillId": 44,
+          "points": 6,
+          "maxPoints": 6,
+          "bonus": "|cffffff6|r% Movement Speed",
+          "slottable": false
+        },
+        {
+          "championSkillId": 266,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff10|r% damage reduction",
+          "slottable": true
+        },
+        {
+          "championSkillId": 43,
+          "points": 30,
+          "maxPoints": 30,
+          "bonus": "|cffffff4|r% Block mitigation",
+          "slottable": false
+        },
+        {
+          "championSkillId": 37,
+          "points": 30,
+          "maxPoints": 30,
+          "bonus": "|cffffff240|r cost reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 51,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": true
+        },
+        {
+          "championSkillId": 128,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff220|r cost reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 52,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": true
+        },
+        {
+          "championSkillId": 35,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff90|r Health, Magicka, and Stamina Recovery",
+          "slottable": true
+        },
+        {
+          "championSkillId": 34,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff1731|r Armor",
+          "slottable": true
+        },
+        {
+          "championSkillId": 2,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff1400|r Max Health",
+          "slottable": true
+        }
+      ],
+      "worn": [
+        {
+          "slot": 0,
+          "link": "|H0:item:82176:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:7767:0|h|h",
+          "armor": 2341,
+          "enchant": "Adds |cffffff882|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
           "quality": 4
         },
         {
-          "slot": 20,
-          "link": "|H0:item:149437:363:50:0:0:0:5:25:0:0:0:0:0:0:2049:84:0:1:0:143:0|h|h",
+          "slot": 1,
+          "link": "|H0:item:194512:364:50:166047:370:50:31:25:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff1859|r Physical Damage and restores |cffffff327|r Stamina.",
-          "trait": "Increases Physical and Spell Resistance by |cffffff3161|r.",
+          "enchant": "Adds |cffffff84|r Magicka Recovery.\nAdds |cffffff84|r Health Recovery.\nAdds |cffffff84|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
+        },
+        {
+          "slot": 2,
+          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:1837:0|h|h",
+          "armor": 2084,
+          "enchant": "Adds |cffffff868|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 3,
+          "link": "|H0:item:82177:363:50:26588:370:50:16:25:0:0:0:0:0:0:2049:67:0:1:0:6380:0|h|h",
+          "armor": 2341,
+          "enchant": "Adds |cffffff424|r Maximum Stamina.",
+          "trait": "Increase armor enchantment effect by |cffffff21|r%.",
           "quality": 4
+        },
+        {
+          "slot": 4,
+          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:153:0|h|h",
+          "armor": 0,
+          "enchant": "Deals |cffffff2014|r Physical Damage and restores |cffffff354|r Stamina.",
+          "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
+          "quality": 5
+        },
+        {
+          "slot": 6,
+          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:8060:0|h|h",
+          "armor": 781,
+          "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 8,
+          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:9650:0|h|h",
+          "armor": 1823,
+          "enchant": "Adds |cffffff868|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 9,
+          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:8128:0|h|h",
+          "armor": 1823,
+          "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 11,
+          "link": "|H0:item:69385:364:50:45883:312:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "armor": 0,
+          "enchant": "Adds |cffffff152|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
+        },
+        {
+          "slot": 12,
+          "link": "|H0:item:69385:364:50:45883:312:50:31:0:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "armor": 0,
+          "enchant": "Adds |cffffff152|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
+          "quality": 5
+        },
+        {
+          "slot": 16,
+          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:6117:0|h|h",
+          "armor": 1042,
+          "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 20,
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:277:0|h|h",
+          "armor": 0,
+          "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
+          "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
+          "quality": 5
         }
       ],
       "skills": [
@@ -14846,63 +14985,118 @@
           "slot": 3,
           "abilityId": 38788,
           "name": "Stampede",
-          "description": "Launch across the earth and smash an enemy, dealing |cffffff4698|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1020|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
+          "description": "Launch across the earth and smash an enemy, dealing |cffffff5326|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1155|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 4,
           "abilityId": 185839,
           "name": "Rune of Displacement",
-          "description": "Devise a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff14440|r Magic Damage over |cffffff18|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff9098|r Frost Damage to enemies within 7 meters.",
+          "description": "Devise a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff16360|r Magic Damage over |cffffff18|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff10312|r Frost Damage to enemies within 7 meters.",
           "durationMs": 18000,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 5,
           "abilityId": 185842,
           "name": "Inspired Scholarship",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff2985|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3382|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
           "durationMs": 30000,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 6,
           "abilityId": 39475,
           "name": "Inner Fire",
-          "description": "Ignite the fires of hate in an enemy's heart, dealing |cffffff3335|r Flame Damage and taunting them to attack you for |cffffff15|r seconds.\n\nAn ally targeting the taunted enemy can activate the Radiate synergy, dealing |cffffff4059|r Flame Damage to them over |cffffff3|r seconds then an additional |cffffff7581|r Flame Damage to them and other nearby enemies.",
+          "description": "Ignite the fires of hate in an enemy's heart, dealing |cffffff3779|r Flame Damage and taunting them to attack you for |cffffff15|r seconds.\n\nAn ally targeting the taunted enemy can activate the Radiate synergy, dealing |cffffff4599|r Flame Damage to them over |cffffff3|r seconds then an additional |cffffff8593|r Flame Damage to them and other nearby enemies.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 7,
           "abilityId": 42138,
           "name": "Spiked Bone Shield",
-          "description": "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff8645|r damage for |cffffff6|r seconds and returns |cffffff85|r% of direct damage absorbed back to the enemy. This ability scales off your Max Health.\n\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to |cffffff35|r% of their Max Health for |cffffff6|r seconds.",
+          "description": "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff9306|r damage for |cffffff6|r seconds and returns |cffffff85|r% of direct damage absorbed back to the enemy. This ability scales off your Max Health.\n\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to |cffffff35|r% of their Max Health for |cffffff6|r seconds.",
           "durationMs": 6000,
           "castMs": 0,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 0
         },
         {
           "slot": 8,
           "abilityId": 36514,
           "name": "Soul Harvest",
-          "description": "Ravage an enemy with a spinning attack, dealing |cffffff11859|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
+          "description": "Ravage an enemy with a spinning attack, dealing |cffffff13443|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
           "durationMs": 0,
           "castMs": 400,
           "channeled": false,
-          "cooldownMs": 0
+          "cooldownMs": 0,
+          "ultimateCost": 77
         }
-      ]
+      ],
+      "classPassives": [
+        {
+          "abilityId": 116272,
+          "name": "Last Gasp",
+          "description": "Increase your Max Health by |cffffff2412|r."
+        },
+        {
+          "abilityId": 45038,
+          "name": "Master Assassin",
+          "description": "Increases your Critical Chance rating against enemies you are flanking by |cffffff1448|r, increasing your chance to critically strike by |cffffff|6.6|r%."
+        },
+        {
+          "abilityId": 45048,
+          "name": "Executioner",
+          "description": "When an enemy dies within |cffffff2|r seconds of being damaged by you, you restore |cffffff1000|r Magicka and Stamina."
+        },
+        {
+          "abilityId": 45053,
+          "name": "Pressure Points",
+          "description": "Increases your Critical Chance rating by |cffffff438|r for each Nightblade ability slotted, increasing your chance to critically strike by |cffffff2|r% per ability.\n\nCurrent bonus: |cffffff438|r."
+        },
+        {
+          "abilityId": 45060,
+          "name": "Hemorrhage",
+          "description": "Increases your Critical Damage by |cffffff10|r%. \n\nCritically striking in any form grants you and your group Minor Savagery, increasing Critical Chance by |cffffff6|r% for |cffffff20|r seconds."
+        },
+        {
+          "abilityId": 184847,
+          "name": "Fated Fortune",
+          "description": "Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by |cffffff12|r% for |cffffff7|r seconds."
+        },
+        {
+          "abilityId": 184858,
+          "name": "Harnessed Quintessence",
+          "description": "You master the warp and weft of your very soul. \n\nWhen you restore Magicka or Stamina, your Weapon and Spell Damage increase by |cffffff284|r for |cffffff10|r seconds."
+        },
+        {
+          "abilityId": 184873,
+          "name": "Psychic Lesion",
+          "description": "Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by |cffffff15|r% and Status Effect Chance by |cffffff55|r%."
+        },
+        {
+          "abilityId": 184887,
+          "name": "Splintered Secrets",
+          "description": "What they don't know can kill them. Increase your Physical and Spell Penetration by |cffffff1240|r per Herald of the Tome ability slotted.\n\nCurrent bonus: |cffffff2480|r."
+        }
+      ],
+      "inArchive": false,
+      "archiveBoons": []
     }
   }
 }
