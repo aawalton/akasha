@@ -1,8 +1,8 @@
-import { capacityReading } from "akasha/alan/harness/capacity/modules/reading/capacity-reading.module.ts"
 import {
   capacityHoursOf,
   capacityIn,
-} from "akasha/alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.reading.code.ts"
+} from "akasha/alan/harness/capacity/modules/hours/capacity-hours.computed-property-module.code.ts"
+import { capacityReading } from "akasha/alan/harness/capacity/modules/reading/capacity-reading.module.ts"
 import {
   keepReading,
   readoutServedBy,

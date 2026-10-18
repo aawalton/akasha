@@ -7,6 +7,7 @@ export const capacity = {
   definition: "the stress Alan can endure on a day",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "capacity" }],
   parts: [
+    "computed-property-module/capacity-hours",
     "module/capacity-reading",
     "readout/upkeep-capacity",
     "service-workstation/capacity-relay-service",
@@ -37,5 +38,5 @@ export const capacity = {
     },
   ],
   createdAt: "2026-09-02T12:55:32.942Z",
-  updatedAt: "2026-09-24T22:33:51.000Z",
+  updatedAt: "2026-10-18T13:44:36.965Z",
 } as const satisfies Domain

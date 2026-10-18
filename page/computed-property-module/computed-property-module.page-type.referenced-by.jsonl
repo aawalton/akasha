@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"agent/seat/turn-state/modules/seat-working/seat-working.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/attribute/modules/points/attribute-points.computed-property-module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/harness/capacity/modules/hours/capacity-hours.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/harness/readout/modules/tier/readout-tier.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/track/daily/day/modules/cost-multiplier/cost-multiplier.computed-property-module.ts","typed":true,"deferred":false}

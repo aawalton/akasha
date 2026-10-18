@@ -709,6 +709,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/sign-in-naming/sign-in-naming.module.ts","id":"01a0baf8-3272-7b17-8439-b3653a48597a"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.ts","id":"01a0bb11-1bf4-7334-9382-7617d44ca836"}
 {"propertySlug":"decision-kind","path":"alan/harness/capacity/capacity.domain.ts","id":"01a06230-614e-7825-b4af-dd84fd42f0ce"}
+{"propertySlug":"decision-kind","path":"alan/harness/capacity/modules/hours/capacity-hours.computed-property-module.ts","id":"01a14f41-d566-731f-922d-5ec7a8d21f03"}
 {"propertySlug":"decision-kind","path":"alan/harness/capacity/modules/reading/capacity-reading.module.ts","id":"01a069ba-b018-7b6b-b9a6-18cd82bd54b3"}
 {"propertySlug":"decision-kind","path":"alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.ts","id":"01a06230-614a-7c46-9fba-3be28e181ca4"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/code-editor.desktop-app.ts","id":"01a0658a-e55d-7059-8f58-e3521a432370"}
