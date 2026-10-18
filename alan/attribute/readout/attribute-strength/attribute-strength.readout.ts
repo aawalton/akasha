@@ -40,9 +40,19 @@ export const attributeStrength = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here turns points into a color.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Sunday is Alan's rest day from strength training.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The readout is drawn blue on a rest day whatever its points, and shows its points.",
+    },
   ],
+  restDays: ["sunday"],
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-03T17:02:13.537Z",
-  updatedAt: "2026-10-18T13:32:41.384Z",
+  updatedAt: "2026-10-18T14:01:23.410Z",
 } as const satisfies Readout
