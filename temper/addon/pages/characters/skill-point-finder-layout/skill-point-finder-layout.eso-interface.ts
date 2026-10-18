@@ -25,7 +25,15 @@ export const skillPointFinderLayout = {
       decisionKind: "decision-kind/departure",
       statement: "Cells in a row sit 8 apart, and the panels' columns 12 apart.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The two halves of the group dungeon list sit 32 apart, with no divider between.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game draws a vertical divider only in its gamepad art.",
+    },
   ],
   createdAt: "2026-09-02T16:16:55.511Z",
-  updatedAt: "2026-10-18T23:45:59.702Z",
+  updatedAt: "2026-10-18T23:49:23.436Z",
 } as const satisfies EsoInterface
