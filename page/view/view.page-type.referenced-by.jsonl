@@ -61,9 +61,6 @@
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/species-most-seen.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/spells-alphabetical.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/spells-most-seen.view.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/stories-played.view.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/stories-read.view.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/stories-written.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/story-read-chapters.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/story-written-chapters.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/tasks-not-completed.view.ts","typed":true,"deferred":false}
