@@ -19,6 +19,7 @@ import type { ReadoutColor } from "akasha/alan/harness/readout/properties/readou
 import type { ReadoutEnabled } from "akasha/alan/harness/readout/properties/readout-enabled.boolean-property.types.ts"
 import type { ReadoutGroups } from "akasha/alan/harness/readout/properties/readout-groups.record-property.types.ts"
 import type { ReadoutRelationship } from "akasha/alan/harness/readout/properties/readout-relationship.relation-property.types.ts"
+import type { RestDays } from "akasha/alan/harness/readout/properties/rest-days.select-property.types.ts"
 import type { Scale } from "akasha/alan/harness/readout/properties/scale.relation-property.types.ts"
 import type { ServedBy } from "akasha/alan/harness/readout/properties/served-by.multi-relation-property.types.ts"
 import type { Unit } from "akasha/alan/harness/readout/properties/unit.text-property.types.ts"
@@ -51,4 +52,5 @@ export type Readout = Domain & {
   carriedTo?: CarriedTo
   madeFrom?: MadeFrom
   relationship?: ReadoutRelationship
+  restDays?: RestDays
 }
