@@ -37,9 +37,9 @@ const JOB_BREAK = "\n\n---\n\n"
 
 const HELPERS: readonly string[] = [roleplayWorldbuilder.slug, roleplayIllustrator.slug]
 
-export type Roleplaying = (game: string, role: string) => readonly string[]
+type Roleplaying = (game: string, role: string) => readonly string[]
 
-export function roleplaySeatsStated(game: string, role: string): readonly string[] {
+function roleplaySeatsStated(game: string, role: string): readonly string[] {
   return akashaSeatsStated().flatMap((one) => {
     const stated = textAt(one.values, ROLE_STATED)
     const of = textAt(one.values, GAME_STATED)
@@ -48,7 +48,7 @@ export function roleplaySeatsStated(game: string, role: string): readonly string
   })
 }
 
-export type Telling = {
+type Telling = {
   readonly root: string
   readonly game: string
   readonly turn: string
@@ -94,7 +94,7 @@ export async function roleplayTold(
   return undefined
 }
 
-export type Moving = {
+type Moving = {
   readonly from: TurnStep
   readonly status: TurnStep
   readonly crossed: string
