@@ -55,7 +55,12 @@ function inventoryWindow(slug: string, control: string): UiWindow {
 
 const OWN_WINDOWS: readonly UiWindow[] = [
   ownWindow("combat-report", "TemperCombat", "TemperCombat_Report", "TemperCombat_Report:Toggle()"),
-  ownWindow("combat-live-report", "TemperCombat", "TemperCombat_LiveReport", SHOWS_HUD),
+  ownWindow(
+    "combat-live-report",
+    "TemperCombat",
+    "TemperCombat_LiveReport",
+    `${SHOWS_HUD} TemperCombat_LiveReport:Toggle(true)`
+  ),
   ownWindow(
     "combat-alerts-unlocked",
     "TemperCombat",
@@ -324,7 +329,7 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     "next-boss",
     "Temper",
     "TemperNextBossTimeTable",
-    "TemperNextBoss.enable() TemperNextBoss.showTimetable()"
+    "TemperNextBoss.enable() TemperNextBoss.showTimetable() TemperNextBoss.updateTimers()"
   ),
   ownWindow(
     "markers-quick-menu",

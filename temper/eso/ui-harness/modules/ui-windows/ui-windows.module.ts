@@ -77,11 +77,19 @@ export const uiWindows = {
       statement: "A window seeds its own addon's saved variables unless it says otherwise.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A window the player's settings keep hidden is turned on by its own toggle.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window filled on an interval runs that interval's work once as it opens.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement:
         "A window shown only in a zone or a guild is reached through what the player's game answered.",
     },
   ],
   createdAt: "2026-09-22T18:34:22.283Z",
-  updatedAt: "2026-09-26T13:47:34.000Z",
+  updatedAt: "2026-10-18T18:48:38.561Z",
 } as const satisfies Module
