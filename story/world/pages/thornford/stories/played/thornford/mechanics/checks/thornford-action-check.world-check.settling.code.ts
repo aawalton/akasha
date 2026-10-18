@@ -17,7 +17,7 @@ type Answered = {
   readonly margin: number
 }
 
-export type Settled = { readonly answered: Answered } | { readonly refused: string }
+type Settled = { readonly answered: Answered } | { readonly refused: string }
 
 export function settled(reading: unknown, roll: Rolled): Settled {
   const banded = bandedSettled(reading, roll)
