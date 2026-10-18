@@ -27,15 +27,14 @@
 			<Dimensions x="1435" y="855" />
 			<Anchor point="CENTER" relativeTo="GuiRoot" relativePoint="CENTER" offsetX="0" offsetY="0"/>
 			<Controls>
-				<Backdrop name="$(parent)BG" alpha="0.8" centerColor="000000" edgeColor="000000">
+				<Backdrop name="$(parent)BG" inherits="ZO_DefaultBackdrop">
 					<AnchorFill />
-					<Edge edgeSize="3"/>
 				</Backdrop>
 				<Texture name="$(parent)Cursor" hidden="true" textureFile="/esoui/art/scrying/cursor_gamepad.dds" tier="HIGH" level="500" inheritScale="true">
 					<Anchor point="TOPLEFT" relativePoint="TOPLEFT" relativeTo="GuiRoot"/>
 					<Dimensions x="25" y="25" />
 				</Texture>
-				<Label name="$(parent)MapSelector" font="ZoFontGamepadBold34" horizontalAlignment="1" verticalAlignment="1" text="Map Selector">
+				<Label name="$(parent)MapSelector" font="ZoFontWinH2" horizontalAlignment="1" verticalAlignment="1" text="Map Selector">
 					<Anchor point="TOPLEFT" relativePoint="TOPLEFT" relativeTo="$(parent)" offsetX="0" offsetY="10" />
 					<Dimensions x="300" y="40" />
 					<Controls>
@@ -55,7 +54,7 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)MapSelectorPicker" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="35" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold27" horizontalAlignment="1" verticalAlignment="1" text="Cursor Positions">
+						<Label name="$(parent)Text" font="ZoFontWinH3" horizontalAlignment="1" verticalAlignment="1" text="Cursor Positions">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" />
 							<Dimensions x="300" y="35" />
 						</Label>
@@ -66,11 +65,11 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)CursorPositions" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="25" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Last Selected X">
+						<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Last Selected X">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" offsetX="20" />
 							<Dimensions x="120" y="25" />
 						</Label>
-						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEdit_Gamepad" font="ZoFontGamepadBold18" editEnabled="false" text="" horizontalAlignment="1">
+						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEditForBackdrop" font="ZoFontGame" editEnabled="false" text="" horizontalAlignment="1">
 							<Dimensions x="120" y="25" />
 							<Anchor point="RIGHT" relativePoint="RIGHT" relativeTo="$(parent)" offsetX="-20" />
 							<Controls>
@@ -82,11 +81,11 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)lastX" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="25" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Player Y">
+						<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Player Y">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" offsetX="20" />
 							<Dimensions x="120" y="25" />
 						</Label>
-						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEdit_Gamepad" font="ZoFontGamepadBold18" editEnabled="false" text="" horizontalAlignment="1">
+						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEditForBackdrop" font="ZoFontGame" editEnabled="false" text="" horizontalAlignment="1">
 							<Dimensions x="120" y="25" />
 							<Anchor point="RIGHT" relativePoint="RIGHT" relativeTo="$(parent)" offsetX="-20" />
 							<Controls>
@@ -98,11 +97,11 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)playerY" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="25" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Last Selected Z">
+						<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Last Selected Z">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" offsetX="20" />
 							<Dimensions x="120" y="25" />
 						</Label>
-						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEdit_Gamepad" font="ZoFontGamepadBold18" editEnabled="false" text="" horizontalAlignment="1" >
+						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEditForBackdrop" font="ZoFontGame" editEnabled="false" text="" horizontalAlignment="1" >
 							<Dimensions x="120" y="25" />
 							<Anchor point="RIGHT" relativePoint="RIGHT" relativeTo="$(parent)" offsetX="-20" />
 							<Controls>
@@ -115,7 +114,7 @@
 					<Anchor point="TOPRIGHT" relativePoint="TOPRIGHT" relativeTo="$(parent)" offsetY="30" offsetX="0" />
 					<Dimensions x="300" y="50" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold34" horizontalAlignment="1" verticalAlignment="1" text="Selected Marker: 0">
+						<Label name="$(parent)Text" font="ZoFontWinH2" horizontalAlignment="1" verticalAlignment="1" text="Selected Marker: 0">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" />
 							<Dimensions x="300" y="40" />
 						</Label>
@@ -126,15 +125,15 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)MarkerDetails" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="25" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Marker Size (m)">
+						<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Marker Size (m)">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" offsetX="20" />
 							<Dimensions x="120" y="25" />
 						</Label>
-						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEdit_Gamepad" font="ZoFontGamepadBold18">
+						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEditForBackdrop" font="ZoFontGame">
 							<Dimensions x="120" y="25" />
 							<Anchor point="RIGHT" relativePoint="RIGHT" relativeTo="$(parent)" offsetX="-20" />
 							<Controls>
-								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop_Gamepad">
+								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop">
 									<AnchorFill />
 								</Backdrop>
 							</Controls>
@@ -145,15 +144,15 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)MarkerSize" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="25" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Yaw (degrees)">
+						<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Yaw (degrees)">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" offsetX="20" />
 							<Dimensions x="120" y="25" />
 						</Label>
-						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEdit_Gamepad" font="ZoFontGamepadBold18">
+						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEditForBackdrop" font="ZoFontGame">
 							<Dimensions x="120" y="25" />
 							<Anchor point="RIGHT" relativePoint="RIGHT" relativeTo="$(parent)" offsetX="-20" />
 							<Controls>
-								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop_Gamepad">
+								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop">
 									<AnchorFill />
 								</Backdrop>
 							</Controls>
@@ -164,15 +163,15 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)Yaw" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="25" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Pitch (degrees)">
+						<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Pitch (degrees)">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" offsetX="20" />
 							<Dimensions x="120" y="25" />
 						</Label>
-						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEdit_Gamepad" font="ZoFontGamepadBold18">
+						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEditForBackdrop" font="ZoFontGame">
 							<Dimensions x="120" y="25" />
 							<Anchor point="RIGHT" relativePoint="RIGHT" relativeTo="$(parent)" offsetX="-20" />
 							<Controls>
-								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop_Gamepad">
+								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop">
 									<AnchorFill />
 								</Backdrop>
 							</Controls>
@@ -184,7 +183,7 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)Pitch" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="35" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold27" horizontalAlignment="1" verticalAlignment="1" text="Positions">
+						<Label name="$(parent)Text" font="ZoFontWinH3" horizontalAlignment="1" verticalAlignment="1" text="Positions">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" />
 							<Dimensions x="300" y="35" />
 						</Label>
@@ -195,15 +194,15 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)PositionHeader" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="25" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="X Position (cm)">
+						<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="X Position (cm)">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" offsetX="20" />
 							<Dimensions x="120" y="25" />
 						</Label>
-						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEdit_Gamepad" font="ZoFontGamepadBold18">
+						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEditForBackdrop" font="ZoFontGame">
 							<Dimensions x="120" y="25" />
 							<Anchor point="RIGHT" relativePoint="RIGHT" relativeTo="$(parent)" offsetX="-20" />
 							<Controls>
-								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop_Gamepad">
+								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop">
 									<AnchorFill />
 								</Backdrop>
 							</Controls>
@@ -214,15 +213,15 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)X" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="25" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Y Position (cm)">
+						<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Y Position (cm)">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" offsetX="20" />
 							<Dimensions x="120" y="25" />
 						</Label>
-						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEdit_Gamepad" font="ZoFontGamepadBold18">
+						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEditForBackdrop" font="ZoFontGame">
 							<Dimensions x="120" y="25" />
 							<Anchor point="RIGHT" relativePoint="RIGHT" relativeTo="$(parent)" offsetX="-20" />
 							<Controls>
-								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop_Gamepad">
+								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop">
 									<AnchorFill />
 								</Backdrop>
 							</Controls>
@@ -233,15 +232,15 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)Y" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="25" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Z Position (cm)">
+						<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Z Position (cm)">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" offsetX="20" />
 							<Dimensions x="120" y="25" />
 						</Label>
-						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEdit_Gamepad" font="ZoFontGamepadBold18">
+						<EditBox name="$(parent)Edit" inherits="ZO_DefaultEditForBackdrop" font="ZoFontGame">
 							<Dimensions x="120" y="25" />
 							<Anchor point="RIGHT" relativePoint="RIGHT" relativeTo="$(parent)" offsetX="-20" />
 							<Controls>
-								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop_Gamepad">
+								<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop">
 									<AnchorFill />
 								</Backdrop>
 							</Controls>
@@ -253,14 +252,14 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)Z" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="35" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold27" horizontalAlignment="1" verticalAlignment="1" text="Text">
+						<Label name="$(parent)Text" font="ZoFontWinH3" horizontalAlignment="1" verticalAlignment="1" text="Text">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" />
 							<Dimensions x="300" y="35" />
 						</Label>
 					</Controls>
 				</Control>
 
-				<EditBox name="$(parent)TextEditor" inherits="ZO_DefaultEditMultiLine_Gamepad" font="ZoFontGamepadBold18">
+				<EditBox name="$(parent)TextEditor" inherits="ZO_DefaultEditMultiLineForBackdrop" font="ZoFontGame">
 					<Dimensions x="240" y="75" />
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)TextHeader" offsetY="5" />
 					<Controls>
@@ -274,7 +273,7 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)TextEditor" offsetY="5" />
 					<Dimensions x="300" y="35" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold27" horizontalAlignment="1" verticalAlignment="1" text="Colour">
+						<Label name="$(parent)Text" font="ZoFontWinH3" horizontalAlignment="1" verticalAlignment="1" text="Color">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" />
 							<Dimensions x="300" y="35" />
 						</Label>
@@ -314,15 +313,15 @@
 							<Anchor point="BOTTOMLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)" offsetY="0" offsetX="0" />
 							<Dimensions x="300" y="25" />
 							<Controls>
-								<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Colour (Hex Code)">
+								<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Color (Hex Code)">
 									<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" offsetX="20" />
-									<Dimensions x="120" y="25" />
+									<Dimensions x="140" y="25" />
 								</Label>
-								<EditBox name="$(parent)Edit" inherits="ZO_DefaultEdit_Gamepad" font="ZoFontGamepadBold18">
+								<EditBox name="$(parent)Edit" inherits="ZO_DefaultEditForBackdrop" font="ZoFontGame">
 									<Dimensions x="120" y="25" />
 									<Anchor point="RIGHT" relativePoint="RIGHT" relativeTo="$(parent)" offsetX="-20" />
 									<Controls>
-										<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop_Gamepad">
+										<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop">
 											<AnchorFill />
 										</Backdrop>
 									</Controls>
@@ -337,7 +336,7 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)ColourSelector" offsetY="5" offsetX="0" />
 					<Dimensions x="300" y="35" />
 					<Controls>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold27" horizontalAlignment="1" verticalAlignment="1" text="Texture">
+						<Label name="$(parent)Text" font="ZoFontWinH3" horizontalAlignment="1" verticalAlignment="1" text="Texture">
 							<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" />
 							<Dimensions x="300" y="35" />
 						</Label>
@@ -423,15 +422,15 @@
 							<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)Container" offsetY="5" offsetX="0" />
 							<Dimensions x="300" y="25" />
 							<Controls>
-								<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Texture Path">
+								<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Texture Path">
 									<Anchor point="LEFT" relativePoint="LEFT" relativeTo="$(parent)" offsetX="20" />
 									<Dimensions x="120" y="25" />
 								</Label>
-								<EditBox name="$(parent)Edit" inherits="ZO_DefaultEdit_Gamepad" font="ZoFontGamepadBold18">
+								<EditBox name="$(parent)Edit" inherits="ZO_DefaultEditForBackdrop" font="ZoFontGame">
 									<Dimensions x="120" y="25" />
 									<Anchor point="RIGHT" relativePoint="RIGHT" relativeTo="$(parent)" offsetX="-20" />
 									<Controls>
-										<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop_Gamepad">
+										<Backdrop name="$(parent)BG" inherits="ZO_EditBackdrop">
 											<AnchorFill />
 										</Backdrop>
 									</Controls>
@@ -441,32 +440,32 @@
 					</Controls>
 				</Control>
 
-				<Button name="$(parent)ExitWithoutSaving" inherits="ZO_DefaultButton" text="|cFFB6C1Exit Without Saving|r" font="ZoFontGamepadBold18">
+				<Button name="$(parent)ExitWithoutSaving" inherits="ZO_DefaultButton" text="Exit Without Saving">
 					<Anchor point="BOTTOMLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)" offsetY="-25" offsetX="75" />
 
 					<Dimensions x="150" y="25" />
 				</Button>
-				<Button name="$(parent)Save" inherits="ZO_DefaultButton" text="|c98FB98Save Profile|r" font="ZoFontGamepadBold18">
+				<Button name="$(parent)Save" inherits="ZO_DefaultButton" text="Save Profile">
 					<Anchor point="BOTTOM" relativePoint="TOP" relativeTo="$(parent)ExitWithoutSaving" offsetY="-10" />
 					<Dimensions x="125" y="25" />
 				</Button>
 
-				<Button name="$(parent)ClearDupes" inherits="ZO_DefaultButton" text="|cFFB6C1Clear Duplicates|r" font="ZoFontGamepadBold18">
+				<Button name="$(parent)ClearDupes" inherits="ZO_DefaultButton" text="Clear Duplicates">
 					<Anchor point="BOTTOM" relativePoint="TOP" relativeTo="$(parent)Save" offsetY="-30" />
 					<Dimensions x="125" y="25" />
 				</Button>
 
-				<Button name="$(parent)Delete" inherits="ZO_DefaultButton" text="|cFF0000Delete Marker|r" font="ZoFontGamepadBold18">
+				<Button name="$(parent)Delete" inherits="ZO_DefaultButton" text="Delete Marker">
 					<Anchor point="BOTTOMRIGHT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)" offsetY="-25" offsetX="-87.5" />
 					<Dimensions x="125" y="25" />
 				</Button>
 
-				<Button name="$(parent)Discard" inherits="ZO_DefaultButton" text="|cFFB6C1Discard Changes|r" font="ZoFontGamepadBold18">
+				<Button name="$(parent)Discard" inherits="ZO_DefaultButton" text="Discard Changes">
 					<Anchor point="BOTTOM" relativePoint="TOP" relativeTo="$(parent)Delete" offsetY="-10" />
 					<Dimensions x="127" y="25" />
 				</Button>
 
-				<Button name="$(parent)Apply" inherits="ZO_DefaultButton" text="|c98FB98Apply Changes|r" font="ZoFontGamepadBold18">
+				<Button name="$(parent)Apply" inherits="ZO_DefaultButton" text="Apply Changes">
 					<Anchor point="BOTTOM" relativePoint="TOP" relativeTo="$(parent)Discard" offsetY="-10" />
 
 					<Dimensions x="125" y="25" />
