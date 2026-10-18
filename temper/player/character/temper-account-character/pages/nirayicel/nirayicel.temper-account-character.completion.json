@@ -5075,8 +5075,8 @@
     }
   },
   "skillPoints": {
-    "total": 393,
-    "unassigned": 7,
+    "total": 394,
+    "unassigned": 8,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -5086,7 +5086,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 176,
     "totalSkyshards": 530,
-    "zoneQuestTotal": 64,
+    "zoneQuestTotal": 65,
     "groupDungeonTotal": 25,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -5148,7 +5148,7 @@
       "DC0a": 0,
       "TR": 0,
       "DC3": 3,
-      "WR": 0,
+      "WR": 1,
       "DC4": 3,
       "VV": 0,
       "HI": 0,
@@ -7289,6 +7289,7 @@
     5314,
     5315,
     5318,
+    5329,
     5352,
     5368,
     5374,
@@ -7310,6 +7311,8 @@
     5416,
     5417,
     5418,
+    5441,
+    5447,
     5448,
     5450,
     5454,
@@ -10851,7 +10854,9 @@
     "684": {
       "1": [
         1,
-        3
+        2,
+        3,
+        4
       ],
       "2": [
         5,
@@ -10925,6 +10930,9 @@
       ],
       "13": [
         1
+      ],
+      "14": [
+        3
       ]
     },
     "726": {
@@ -13336,6 +13344,7 @@
       46,
       47,
       48,
+      53,
       54,
       55,
       58,
@@ -14043,41 +14052,41 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792366563,
+      "capturedAt": 1792367737,
       "inCombat": false,
       "stats": {
-        "resistance-physical": 11199,
-        "power-spell": 4084,
-        "magicka-recovery": 524,
+        "stamina-recovery": 887,
         "critical-rating-weapon": 6663,
-        "health-recovery": 0,
+        "resistance-spell": 11199,
         "critical-rating-spell": 6663,
         "power-weapon": 4084,
-        "penetration-spell": 17886,
-        "stamina-recovery": 887,
-        "magicka-maximum": 19621,
-        "health-maximum": 24546,
-        "resistance-critical": 1320,
-        "resistance-spell": 11199,
         "penetration-physical": 17886,
-        "stamina-maximum": 26243
+        "magicka-maximum": 19621,
+        "magicka-recovery": 524,
+        "resistance-physical": 11199,
+        "health-recovery": 0,
+        "penetration-spell": 17886,
+        "resistance-critical": 1320,
+        "stamina-maximum": 26243,
+        "health-maximum": 24546,
+        "power-spell": 4084
       },
       "unbonusedStats": {
-        "resistance-physical": 0,
-        "power-spell": 1000,
-        "magicka-recovery": 524,
+        "stamina-recovery": 887,
         "critical-rating-weapon": 2181,
-        "health-recovery": 0,
+        "resistance-spell": 0,
         "critical-rating-spell": 2181,
         "power-weapon": 1000,
-        "penetration-spell": 0,
-        "stamina-recovery": 887,
-        "magicka-maximum": 19621,
-        "health-maximum": 24546,
-        "resistance-critical": 0,
-        "resistance-spell": 0,
         "penetration-physical": 0,
-        "stamina-maximum": 26243
+        "magicka-maximum": 19621,
+        "magicka-recovery": 524,
+        "resistance-physical": 0,
+        "health-recovery": 0,
+        "penetration-spell": 0,
+        "resistance-critical": 0,
+        "stamina-maximum": 26243,
+        "health-maximum": 24546,
+        "power-spell": 1000
       },
       "activeBuffs": [
         {
@@ -14695,7 +14704,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:8650:0|h|h",
+          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:8150:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14711,7 +14720,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:9450:0|h|h",
+          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:9240:0|h|h",
           "armor": 2084,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14719,7 +14728,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:128348:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:6395:0|h|h",
+          "link": "|H0:item:128348:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:5895:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14727,7 +14736,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:281:0|h|h",
+          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:275:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2534|r Shock Damage.",
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
@@ -14735,7 +14744,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:1451:0|h|h",
+          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:1351:0|h|h",
           "armor": 781,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14743,7 +14752,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:1831:0|h|h",
+          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:1431:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14751,7 +14760,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:1840:0|h|h",
+          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:1635:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14775,7 +14784,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:5095:0|h|h",
+          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:4995:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14904,41 +14913,41 @@
       "archiveBoons": []
     },
     "backBar": {
-      "capturedAt": 1792365639,
+      "capturedAt": 1792367688,
       "inCombat": false,
       "stats": {
-        "magicka-maximum": 19621,
-        "power-spell": 4430,
-        "power-weapon": 4430,
+        "stamina-recovery": 887,
         "critical-rating-weapon": 6663,
+        "resistance-spell": 11199,
         "critical-rating-spell": 6663,
-        "health-maximum": 24546,
+        "power-weapon": 4430,
+        "penetration-physical": 10346,
+        "magicka-maximum": 19621,
+        "magicka-recovery": 524,
+        "resistance-physical": 11199,
+        "health-recovery": 0,
         "penetration-spell": 10346,
         "resistance-critical": 1320,
-        "stamina-recovery": 887,
-        "magicka-recovery": 524,
-        "resistance-spell": 11199,
-        "health-recovery": 0,
-        "resistance-physical": 11199,
-        "penetration-physical": 10346,
-        "stamina-maximum": 26243
+        "stamina-maximum": 26243,
+        "health-maximum": 24546,
+        "power-spell": 4430
       },
       "unbonusedStats": {
-        "magicka-maximum": 19621,
-        "power-spell": 1000,
-        "power-weapon": 1000,
+        "stamina-recovery": 887,
         "critical-rating-weapon": 2181,
+        "resistance-spell": 0,
         "critical-rating-spell": 2181,
-        "health-maximum": 24546,
+        "power-weapon": 1000,
+        "penetration-physical": 0,
+        "magicka-maximum": 19621,
+        "magicka-recovery": 524,
+        "resistance-physical": 0,
+        "health-recovery": 0,
         "penetration-spell": 0,
         "resistance-critical": 0,
-        "stamina-recovery": 887,
-        "magicka-recovery": 524,
-        "resistance-spell": 0,
-        "health-recovery": 0,
-        "resistance-physical": 0,
-        "penetration-physical": 0,
-        "stamina-maximum": 26243
+        "stamina-maximum": 26243,
+        "health-maximum": 24546,
+        "power-spell": 1000
       },
       "activeBuffs": [
         {
@@ -14988,6 +14997,13 @@
           "name": "Vampire Stage 4",
           "description": "",
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 183047,
+          "name": "Recuperative Treatise",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3830|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+          "effect": "",
           "stacks": 0
         }
       ],
@@ -15556,7 +15572,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:9800:0|h|h",
+          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:8150:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -15572,7 +15588,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:9900:0|h|h",
+          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:9240:0|h|h",
           "armor": 2084,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -15580,7 +15596,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:128348:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:7445:0|h|h",
+          "link": "|H0:item:128348:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:5895:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -15588,7 +15604,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:287:0|h|h",
+          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:275:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2534|r Shock Damage.",
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
@@ -15596,7 +15612,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:1951:0|h|h",
+          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:1351:0|h|h",
           "armor": 781,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -15604,7 +15620,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:2331:0|h|h",
+          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:1431:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -15612,7 +15628,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:2290:0|h|h",
+          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:1635:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -15636,7 +15652,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:5845:0|h|h",
+          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:4995:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
