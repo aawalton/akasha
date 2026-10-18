@@ -41,6 +41,7 @@ import {
   keptFaces,
   TEMPER_FACES_UNDER,
 } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
+import { zoneNamesLua } from "akasha/temper/eso/ui-harness/modules/zone-names-seeding/zone-names-seeding.module.code.ts"
 import { z } from "zod"
 
 const LUA_MODULE = "lua-module"
@@ -285,6 +286,7 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
       stringText(),
       ...returnTexts(),
       methodText(),
+      zoneNamesLua(),
       answerText(),
     ],
   })
