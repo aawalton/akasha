@@ -1,4 +1,3 @@
-import { join } from "node:path"
 import {
   type Answer,
   refusing,
@@ -15,6 +14,7 @@ import {
   narrows,
   slugIn,
 } from "akasha/change/modules/target-narrowing/target-narrowing.module.code.ts"
+import { loadedOff } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
@@ -51,9 +51,8 @@ export function sittingAt(world: World, path: string): string {
   return path
 }
 
-async function exportedFrom(world: World, at: string, named: string): Promise<unknown> {
-  const held = (await import(join(world.root, sittingAt(world, at)))) as Record<string, unknown>
-  return held[named] ?? null
+function exportedFrom(world: World, at: string, named: string): unknown {
+  return loadedOff(world.root, sittingAt(world, at))[named] ?? null
 }
 
 function namingNoPage(address: string): string {
@@ -71,28 +70,28 @@ const LOADED = new WeakMap<World, Map<string, Loaded>>()
 
 export async function loadedAt(world: World, at: string): Promise<Loaded | string> {
   try {
-    return await loadingAt(world, at)
+    return loadingAt(world, at)
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return `\`${at}\` threw while its code loaded — ${why}`
   }
 }
 
-async function loadingAt(world: World, at: string): Promise<Loaded | string> {
+function loadingAt(world: World, at: string): Loaded | string {
   const held = LOADED.get(world)
   const before = held?.get(at)
   if (before !== undefined) return before
   const path = codeAt(world, at)
   if (path === null) return namingNoPage(at)
-  const run = await exportedFrom(world, path, RUN_CHANGE)
+  const run = exportedFrom(world, path, RUN_CHANGE)
   if (typeof run !== "function") {
     return `\`${at}\` reaches no change exporting \`${RUN_CHANGE}\``
   }
-  const stated = await exportedFrom(world, path, TAKES)
+  const stated = exportedFrom(world, path, TAKES)
   const takes = stated === null ? null : stringsIn(stated)
-  const named = await exportedFrom(world, path, PASSAGES)
+  const named = exportedFrom(world, path, PASSAGES)
   const passages = named === null ? null : stringsIn(named)
-  const lines = stringsIn(await exportedFrom(world, path, HELP_LINES))
+  const lines = stringsIn(exportedFrom(world, path, HELP_LINES))
   const loaded: Loaded = {
     run: run as (over: World, asked: unknown) => Said | Promise<Said>,
     ...(takes === null ? {} : { takes }),
