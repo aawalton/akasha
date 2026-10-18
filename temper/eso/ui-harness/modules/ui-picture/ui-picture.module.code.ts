@@ -329,6 +329,7 @@ function boxHtml(one: Shown, options: UiPictureOptions): string {
         art: "texture",
         src: at,
         coords: listed(one.textureCoords),
+        corners: listed(one.cornerCoords),
         tint: listed(one.color),
       }
       return artHtml(one, `${place}${fade}`, told, art)

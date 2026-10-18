@@ -51,6 +51,21 @@ local function colorOf(control)
   return control.uiColor
 end
 
+local CORNERS = { "VERTEX_POINTS_TOPLEFT", "VERTEX_POINTS_TOPRIGHT", "VERTEX_POINTS_BOTTOMLEFT" }
+
+local function cornersOf(control)
+  local held = control.uiVertexUV
+  if held == nil then return nil end
+  local listed = {}
+  for _, corner in ipairs(CORNERS) do
+    local one = held[_G[corner]]
+    if one == nil then return nil end
+    insert(listed, one[1])
+    insert(listed, one[2])
+  end
+  return listed
+end
+
 local function snapshotOf(control)
   local left, top, width, height = place(control)
   local children = {}
@@ -94,6 +109,7 @@ local function snapshotOf(control)
     edgeSize = control.uiEdgeSize,
     centerTexture = control.uiCenterTexture,
     textureCoords = control.uiTextureCoords,
+    cornerCoords = cornersOf(control),
     normalTexture = control.uiNormalTexture,
     insets = control.uiInsets,
     anchors = anchors,

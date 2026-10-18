@@ -198,6 +198,7 @@ export type UiControl = {
   readonly edgeSize?: number
   readonly centerTexture?: string
   readonly textureCoords?: readonly number[]
+  readonly cornerCoords?: readonly number[]
   readonly normalTexture?: string
   readonly insets?: UiColor
   readonly anchors: readonly UiAnchor[]
@@ -231,6 +232,7 @@ const controlShape: z.ZodType<UiControl> = z.lazy(() =>
     edgeSize: z.number().optional(),
     centerTexture: z.string().optional(),
     textureCoords: colorShape.optional(),
+    cornerCoords: colorShape.optional(),
     normalTexture: z.string().optional(),
     insets: colorShape.optional(),
     anchors: z.preprocess(asList, z.array(anchorShape)),

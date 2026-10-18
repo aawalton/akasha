@@ -234,6 +234,15 @@ function Control:GetTextureCoords()
   local held = self.uiTextureCoords or { 0, 1, 0, 1 }
   return held[1], held[2], held[3], held[4]
 end
+function Control:SetVertexUV(vertex, u, v)
+  self.uiVertexUV = self.uiVertexUV or {}
+  self.uiVertexUV[vertex] = { asNumber(u, 0), asNumber(v, 0) }
+end
+function Control:GetVertexUV(vertex)
+  local held = (self.uiVertexUV or {})[vertex]
+  if held == nil then return 0, 0 end
+  return held[1], held[2]
+end
 function Control:SetCenterTexture(texture) self.uiCenterTexture = asText(texture) end
 function Control:SetEdgeTexture(texture, _, fileHeight, edgeSize)
   self.uiEdgeTexture = asText(texture)

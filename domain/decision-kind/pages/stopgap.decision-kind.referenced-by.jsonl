@@ -80,6 +80,7 @@
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts","id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/eso-sandbox-prelude/eso-sandbox-prelude.lua-module.ts","id":"01a06059-2490-71da-a837-990f36920c7e"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-art-painting/ui-art-painting.module.ts","id":"01a0d493-d343-7db9-8802-186be63d391f"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.ts","id":"01a0c97e-4173-73b6-a373-3a2f933756b3"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-kerning/ui-kerning.module.ts","id":"01a0d972-8c45-7a44-a4a2-e00cd5f65846"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-methods/ui-control-methods.lua-module.ts","id":"01a0d40c-1f7a-7728-a4c9-f977dcaff8a8"}

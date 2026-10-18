@@ -35,6 +35,11 @@ export const uiControlSnapshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A texture whose corners were set is carried with the art its top corners and bottom left show.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A font a control names is carried as that font's face, size and effect.",
     },
     {
@@ -60,5 +65,5 @@ export const uiControlSnapshot = {
     },
   ],
   createdAt: "2026-09-24T14:53:52.516Z",
-  updatedAt: "2026-09-26T13:34:43.000Z",
+  updatedAt: "2026-10-18T19:04:13.409Z",
 } as const satisfies LuaModule

@@ -26,6 +26,16 @@ export const uiArtPainting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Art whose corners were set is laid as those corners say, repeating past its edge.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Coordinates past the art's edge repeat the art, whatever the texture's address mode.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An edge's sides are repeated along the backdrop, and its corners are set once.",
     },
     {
@@ -38,5 +48,5 @@ export const uiArtPainting = {
     },
   ],
   createdAt: "2026-09-24T18:00:52.803Z",
-  updatedAt: "2026-09-24T22:48:43.000Z",
+  updatedAt: "2026-10-18T19:04:13.409Z",
 } as const satisfies Module

@@ -79,6 +79,10 @@ export const uiControlMethods = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A texture keeps the point of its art each corner was set to show.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A text box keeps the hint and the hint's color it was given.",
     },
     {
@@ -121,5 +125,5 @@ export const uiControlMethods = {
     },
   ],
   createdAt: "2026-09-24T15:32:39.418Z",
-  updatedAt: "2026-09-26T13:34:43.000Z",
+  updatedAt: "2026-10-18T19:04:13.409Z",
 } as const satisfies LuaModule

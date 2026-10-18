@@ -52,6 +52,40 @@ export async function paintArt(): Promise<number> {
     }
     return made
   }
+  const cornerLength = 6
+  function beyond(coords: readonly number[]): boolean {
+    return coords.some((one) => one < 0 || one > 1)
+  }
+  function mapped(
+    one: HTMLCanvasElement,
+    pen: CanvasRenderingContext2D,
+    source: HTMLImageElement,
+    corners: readonly number[],
+    tint: readonly number[]
+  ): undefined {
+    const [u0 = 0, v0 = 0, u1 = 1, v1 = 0, u2 = 0, v2 = 1] = corners
+    const wide = source.naturalWidth
+    const tall = source.naturalHeight
+    const toArt = new DOMMatrix([
+      (wide * (u1 - u0)) / one.width,
+      (tall * (v1 - v0)) / one.width,
+      (wide * (u2 - u0)) / one.height,
+      (tall * (v2 - v0)) / one.height,
+      wide * u0,
+      tall * v0,
+    ])
+    if (toArt.a * toArt.d - toArt.b * toArt.c === 0) return undefined
+    const piece = tinted(source, [0, 0, wide, tall], wide, tall, tint)
+    const pattern = pen.createPattern(piece, "repeat")
+    if (pattern === null) return undefined
+    pattern.setTransform(toArt.inverse())
+    pen.save()
+    pen.globalAlpha = tint[rgbLength] ?? 1
+    pen.fillStyle = pattern
+    pen.fillRect(0, 0, one.width, one.height)
+    pen.restore()
+    return undefined
+  }
   async function texture(
     one: HTMLCanvasElement,
     pen: CanvasRenderingContext2D
@@ -60,6 +94,11 @@ export async function paintArt(): Promise<number> {
     if (source === null) return undefined
     const [left = 0, right = 1, top = 0, bottom = 1] = numbers(one.dataset.coords)
     const tint = numbers(one.dataset.tint)
+    const corners = numbers(one.dataset.corners)
+    if (corners.length === cornerLength) return mapped(one, pen, source, corners, tint)
+    if (beyond([left, right, top, bottom])) {
+      return mapped(one, pen, source, [left, top, right, top, left, bottom], tint)
+    }
     const wide = source.naturalWidth
     const tall = source.naturalHeight
     const part = [

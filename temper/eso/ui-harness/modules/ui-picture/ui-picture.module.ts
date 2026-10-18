@@ -107,6 +107,10 @@ export const uiPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A texture whose corners were set hands those corners to the painting.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Art is painted in the page once it loads, and the picture is taken after.",
     },
     {
@@ -167,5 +171,5 @@ export const uiPicture = {
     },
   ],
   createdAt: "2026-09-22T16:05:51.362Z",
-  updatedAt: "2026-10-18T18:49:53.402Z",
+  updatedAt: "2026-10-18T19:04:13.409Z",
 } as const satisfies Module
