@@ -8,7 +8,6 @@ export const stories = {
   icon: "Library",
   navPlace: 5,
   app: "web-app/alanwalton-web",
-  mobilePinOrder: 2,
   createdAt: "2026-09-24T16:33:38.191Z",
-  updatedAt: "2026-09-28T18:54:57.000Z",
+  updatedAt: "2026-10-18T14:09:21.893Z",
 } as const satisfies Nav
