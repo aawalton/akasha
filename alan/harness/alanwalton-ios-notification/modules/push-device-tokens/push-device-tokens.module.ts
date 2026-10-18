@@ -28,14 +28,10 @@ export const pushDeviceTokens = {
       statement: "A token list that cannot be read is a throw rather than an empty answer.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A list holds only the tokens taking the sort of push asked for.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here sends a push.",
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-10-18T13:21:00.027Z",
+  updatedAt: "2026-10-18T13:24:10.292Z",
 } as const satisfies Module

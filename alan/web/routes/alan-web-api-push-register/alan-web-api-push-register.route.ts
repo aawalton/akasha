@@ -10,13 +10,9 @@ export const alanWebApiPushRegister = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A token for a live activity is registered here as a device's token is.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The app a token is kept under is Alan's, whatever the body says.",
     },
   ],
   createdAt: "2026-09-09T22:05:45.256Z",
-  updatedAt: "2026-09-22T14:08:17.000Z",
+  updatedAt: "2026-10-18T13:24:10.292Z",
 } as const satisfies Route

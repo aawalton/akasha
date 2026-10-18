@@ -24,21 +24,17 @@ const PERSON_PAGE_TYPE_SLUG = "person"
 
 const DEVICE_TOKEN_WRITER = "device token registration <push@alanwalton.com>"
 
-export const ALERT = "alert"
-
 interface DeviceTokenRegistration {
   readonly userId?: string
   readonly contributor?: string
   readonly deviceTokenRegistration: string
   readonly platform: string
   readonly bundleId: string
-  readonly pushType?: string
 }
 
 interface DeviceTokenReached {
   readonly deviceToken: string
   readonly bundleId: string
-  readonly pushType: string
 }
 
 type Reached =
@@ -94,7 +90,7 @@ export async function deviceTokensFor(
     {
       pageTypeSlug: DEVICE_TOKEN_PAGE_TYPE_SLUG,
       where: { person: { is: namedAs(PERSON_PAGE_TYPE_SLUG, person, null) } },
-      keys: ["token", "iosApp", "pushType"],
+      keys: ["token", "iosApp"],
     },
     fetcher,
     naps
@@ -121,12 +117,7 @@ export async function deviceTokensFor(
         why: `a token of ${person} names the app \`${app}\`, which no iOS app page carries, so the bundle to address a push to is unknown`,
       }
     }
-    const sort = row.pushType
-    tokens.push({
-      deviceToken: token,
-      bundleId,
-      pushType: typeof sort === "string" && sort !== "" ? sort : ALERT,
-    })
+    tokens.push({ deviceToken: token, bundleId })
   }
   return { ok: true, tokens }
 }
@@ -177,7 +168,6 @@ export async function registerDeviceToken(
             person: namedAs(PERSON_PAGE_TYPE_SLUG, person, null),
             iosApp: namedAs(IOS_APP_PAGE_TYPE_SLUG, named, null),
             token: args.deviceTokenRegistration,
-            pushType: args.pushType ?? ALERT,
             lastSeenAt: new Date().toISOString(),
           },
         },

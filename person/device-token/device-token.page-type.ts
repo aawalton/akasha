@@ -11,7 +11,6 @@ export const deviceToken = {
     "instant-property/device-token-last-seen-at",
     "relation-property/device-token-ios-app",
     "relation-property/device-token-person",
-    "text-property/device-token-push-type",
     "text-property/device-token-token",
   ],
   properties: [
@@ -22,7 +21,6 @@ export const deviceToken = {
       many: false,
     },
     { pageProperty: "text-property/device-token-token", required: true, many: false },
-    { pageProperty: "text-property/device-token-push-type", required: false, many: false },
     {
       pageProperty: "instant-property/device-token-last-seen-at",
       required: false,
@@ -38,14 +36,6 @@ export const deviceToken = {
     {
       decisionKind: "decision-kind/departure",
       statement: "One device has a token for each app the device runs.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A device running a live activity has a second token for that activity.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A push goes only to a token taking the sort of push that push is.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -67,5 +57,5 @@ export const deviceToken = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-01T16:22:28.569Z",
-  updatedAt: "2026-09-22T10:09:59.000Z",
+  updatedAt: "2026-10-18T13:24:10.292Z",
 } as const satisfies PageType

@@ -18,21 +18,9 @@ export const pushRegisterBody = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body may name the sort of push the token takes.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A body naming no sort registers a token taking an alert.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A sort that is neither an alert nor a live activity is refused.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A body carrying anything beyond those three is refused.",
+      statement: "A body carrying anything beyond the token and the platform is refused.",
     },
   ],
   createdAt: "2026-09-01T04:57:50.087Z",
-  updatedAt: "2026-09-19T17:01:45.000Z",
+  updatedAt: "2026-10-18T13:24:10.292Z",
 } as const satisfies Module

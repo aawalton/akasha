@@ -13,16 +13,8 @@ export const deviceTokenToken = {
       decisionKind: "decision-kind/departure",
       statement: "Apple writes a token in upper hexadecimal and the token is kept as given.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A token for a live activity runs longer than a token for a device.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The length here admits the longer of the two rather than one length for each.",
-    },
   ],
   types: "ts",
   createdAt: "2026-09-01T16:22:28.570Z",
-  updatedAt: "2026-09-22T23:33:17.000Z",
+  updatedAt: "2026-10-18T13:24:10.292Z",
 } as const satisfies TextProperty

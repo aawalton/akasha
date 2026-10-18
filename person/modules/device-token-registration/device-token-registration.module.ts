@@ -64,22 +64,6 @@ export const deviceTokenRegistration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sort of push a token takes is kept beside the token.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A registration naming no sort registers a token taking an alert.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A token kept before any sort was named reads back as taking an alert.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides which sort a push is addressed to.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The values a registration writes are the properties the page type declares.",
     },
     {
@@ -100,7 +84,7 @@ export const deviceTokenRegistration = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A token addressing a live activity is longer than a slug holds.",
+      statement: "A token can be longer than a slug holds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -120,5 +104,5 @@ export const deviceTokenRegistration = {
     },
   ],
   createdAt: "2026-09-01T10:49:24.725Z",
-  updatedAt: "2026-09-25T15:27:30.000Z",
+  updatedAt: "2026-10-18T13:24:10.292Z",
 } as const satisfies Module
