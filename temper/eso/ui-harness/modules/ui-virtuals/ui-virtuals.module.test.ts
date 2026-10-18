@@ -299,7 +299,7 @@ describe("virtualsLua", () => {
 
   test("writes a handler as a Lua function the sandbox compiles", () => {
     const chunks = virtualsLua(virtualsFrom([READY]), 10)
-    expect(chunks[0]).toContain('["OnInitialized"] = function(self, ...)')
+    expect(chunks[0]).toContain('["OnInitialized"] = function(...)\nlocal self = ...')
     expect(chunks[0]).toContain("ZO_Ready(self)")
   })
 
