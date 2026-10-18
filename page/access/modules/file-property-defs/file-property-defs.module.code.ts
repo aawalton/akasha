@@ -225,6 +225,7 @@ export function definitionOf(one: Declared): PropertyDefinition {
     ...(one.colorsTitle ? { colorsTitle: true } : {}),
     ...(one.icon === null ? {} : { icon: one.icon }),
     ...(one.askedByName === true ? { askedByName: true } : {}),
+    ...(one.display === undefined ? {} : { display: one.display }),
   }
 }
 

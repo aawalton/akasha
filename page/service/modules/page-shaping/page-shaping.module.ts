@@ -96,6 +96,10 @@ export const pageShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A declaration has the display its property states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A declaration has the icon the nearest page type its property is names.",
     },
     {
@@ -125,5 +129,5 @@ export const pageShaping = {
     },
   ],
   createdAt: "2026-09-22T15:09:01.804Z",
-  updatedAt: "2026-09-27T06:57:33.000Z",
+  updatedAt: "2026-10-18T14:44:00.044Z",
 } as const satisfies Module

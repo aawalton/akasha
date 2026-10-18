@@ -28,6 +28,7 @@ import {
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
 import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { propertyDisplay } from "akasha/page/type/page-property/properties/property-display.select-property.ts"
 import { titleColoredBy } from "akasha/page/type/properties/title-colored-by.relation-property.ts"
 
 const PAGE_TYPE = "page-type"
@@ -56,6 +57,16 @@ const TITLE_COLORED_BY = foldedInLowerCamelCase(titleColoredBy.propertySlug)
 
 const ICON = foldedInLowerCamelCase(icon.propertySlug)
 
+const DISPLAY = foldedInLowerCamelCase(propertyDisplay.propertySlug)
+
+type Display = (typeof propertyDisplay.values)[number]
+
+function displayedBy(page: Value | undefined): { readonly display?: Display } {
+  const said = page?.[DISPLAY]
+  const display = propertyDisplay.values.find((one) => one === said)
+  return display === undefined ? {} : { display }
+}
+
 export type Declared = {
   readonly key: string
   readonly type: string
@@ -76,6 +87,7 @@ export type Declared = {
   readonly icon: string | null
   readonly askedByName?: boolean
   readonly holds?: string
+  readonly display?: Display
 }
 
 export type Shape = {
@@ -180,6 +192,7 @@ function declaredOf(
     icon: iconIn(climbed),
     ...(page?.[ASKED_BY_NAME] === true ? { askedByName: true } : {}),
     ...(typeof page?.[HOLDS] === "string" ? { holds: page[HOLDS] } : {}),
+    ...displayedBy(page),
   }
 }
 

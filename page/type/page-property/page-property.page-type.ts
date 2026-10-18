@@ -23,6 +23,7 @@ export const pageProperty = {
     "relation-property/unique-property",
     "text-property/property-slug",
     "boolean-property/names-a-property-key",
+    "select-property/property-display",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -34,6 +35,7 @@ export const pageProperty = {
     { pageProperty: "boolean-property/nullable", required: false, many: false },
     { pageProperty: "boolean-property/quoted", required: false, many: false },
     { pageProperty: "boolean-property/names-a-property-key", required: false, many: false },
+    { pageProperty: "select-property/property-display", required: false, many: false },
   ],
   decisions: [
     {
@@ -126,5 +128,5 @@ export const pageProperty = {
     { partOfSpeech: "part-of-speech/noun", spelling: "properties" },
   ],
   createdAt: "2026-08-29T14:49:52.765Z",
-  updatedAt: "2026-09-24T19:54:52.000Z",
+  updatedAt: "2026-10-18T14:44:00.044Z",
 } as const satisfies PageType
