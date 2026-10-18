@@ -50,6 +50,8 @@ export const ACTION_DEVICE = "actionName,preferredInputDeviceType"
 
 export const SETTING = "system,settingId"
 
+export const INDEX = "index"
+
 export const ASKED_SHAPES: readonly string[] = [
   NO_VALUES,
   UNIT,
@@ -77,4 +79,5 @@ export const ASKED_SHAPES: readonly string[] = [
   ACTION_NAME,
   ACTION_DEVICE,
   SETTING,
+  INDEX,
 ]

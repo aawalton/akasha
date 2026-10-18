@@ -12,6 +12,7 @@ import {
   GUILD_INDEX,
   HOTBAR,
   HOTBAR_SLOT,
+  INDEX,
   ITEM_LINK,
   LAYER,
   LAYER_ACTION,
@@ -277,6 +278,7 @@ function askingsNow(this: void): Asking[] {
   placeAskings(add)
   keyAskings(add)
   settingAskings(add)
+  for (const index of fromTo(FIRST, numberOf("GetNumCharacters"))) add(INDEX, [index])
   return found
 }
 

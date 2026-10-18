@@ -41,6 +41,10 @@ export const playerAnswerCapture = {
       statement: "Every setting id up to 127 is asked about under every setting system.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A bare index is asked from one up to the number of the account's characters.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The game's own setting ids all fall below 100.",
     },
@@ -80,5 +84,5 @@ export const playerAnswerCapture = {
     },
   ],
   createdAt: "2026-09-24T22:10:34.922Z",
-  updatedAt: "2026-09-25T12:43:16.000Z",
+  updatedAt: "2026-10-18T18:56:35.112Z",
 } as const satisfies Module
