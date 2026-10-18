@@ -1,33 +1,20 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
-  getEsoDayStr,
-  getEsoDayWindow,
-} from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
-import { instantsForMountainWall } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
+  type DayWindow,
+  dayAfter,
+  esoWindowOf,
+  openingInstantFromBlocks,
+  type SleepBlockInput,
+  windowSpanned,
+} from "akasha/alan/harness/health-sample/day/modules/opening-span/opening-span.computed-property-module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { entriesIn } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-export interface DayWindow {
-  readonly from: string
-  readonly to: string
-}
-
 export interface Refused {
   readonly refused: string
-}
-
-interface SleepBlockInput {
-  readonly title: unknown
-  readonly startedAt: unknown
-  readonly endedAt: unknown
-}
-
-interface Span {
-  readonly startMs: number
-  readonly endMs: number
 }
 
 const DAY_PAGE_TYPE = "day"
@@ -45,57 +32,6 @@ const TITLE = "title"
 const STARTED_AT = "startedAt"
 
 const ENDED_AT = "endedAt"
-
-const EVENING_HOUR = 18
-
-function isSleepTitle(title: unknown): boolean {
-  return typeof title === "string" && title.trim().toLowerCase() === SLEEP
-}
-
-export function dayBefore(dayStr: string): string {
-  return getEsoDayStr(new Date(getEsoDayWindow(dayStr).start.getTime() - 1))
-}
-
-function eveningOf(dayStr: string): Date {
-  const [year, month, at] = dayStr.split("-").map(Number)
-  if (year === undefined || month === undefined || at === undefined) return new Date(Number.NaN)
-  const found = instantsForMountainWall({
-    year,
-    month,
-    day: at,
-    hour: EVENING_HOUR,
-    minute: 0,
-    second: 0,
-  })
-  const struck = found[0]
-  return struck === undefined ? new Date(Number.NaN) : new Date(struck)
-}
-
-function spanOf(block: SleepBlockInput): Span | null {
-  if (!isSleepTitle(block.title)) return null
-  if (typeof block.startedAt !== "string" || typeof block.endedAt !== "string") return null
-  const startMs = Date.parse(block.startedAt)
-  const endMs = Date.parse(block.endedAt)
-  if (Number.isNaN(startMs) || Number.isNaN(endMs)) return null
-  if (endMs <= startMs) return null
-  return { startMs, endMs }
-}
-
-export function openingInstantFromBlocks(
-  blocks: readonly SleepBlockInput[],
-  dayStr: string
-): Date | null {
-  const afterMs = eveningOf(dayBefore(dayStr)).getTime()
-  const beforeMs = eveningOf(dayStr).getTime()
-  let first: Span | null = null
-  for (const block of blocks) {
-    const span = spanOf(block)
-    if (span === null) continue
-    if (span.endMs <= afterMs || span.startMs >= beforeMs) continue
-    if (first === null || span.startMs < first.startMs) first = span
-  }
-  return first === null ? null : new Date(first.startMs)
-}
 
 export function sleepBlocksOn(root: string, dayStr: string): readonly SleepBlockInput[] | Refused {
   const slug = `${DAY_SLUG_PREFIX}${dayStr}`
@@ -124,18 +60,6 @@ export function sleepBlocksOn(root: string, dayStr: string): readonly SleepBlock
   }))
 }
 
-export function dayAfter(dayStr: string): string {
-  return getEsoDayStr(getEsoDayWindow(dayStr).end)
-}
-
-function esoWindowOf(dayStr: string): { readonly start: Date; readonly end: Date } | null {
-  try {
-    return getEsoDayWindow(dayStr)
-  } catch {
-    return null
-  }
-}
-
 export function openingInstantOn(root: string, dayStr: string): Date | Refused {
   if (esoWindowOf(dayStr) === null) {
     return {
@@ -155,17 +79,19 @@ export function openingInstantOn(root: string, dayStr: string): Date | Refused {
   return opening
 }
 
+function openedAt(opening: Date | Refused): Date | null {
+  return "refused" in opening ? null : opening
+}
+
+function noSpanOver(dayStr: string): Refused {
+  return { refused: `'${dayStr}' is no day, so no span can be counted over it` }
+}
+
 export function spannedWindowIn(root: string, dayStr: string): DayWindow | Refused {
-  const eso = esoWindowOf(dayStr)
-  if (eso === null) {
-    return { refused: `'${dayStr}' is no day, so no span can be counted over it` }
-  }
-  const opening = openingInstantOn(root, dayStr)
-  const next = openingInstantOn(root, dayAfter(dayStr))
-  return {
-    from: ("refused" in opening ? eso.start : opening).toISOString(),
-    to: ("refused" in next ? eso.end : next).toISOString(),
-  }
+  if (esoWindowOf(dayStr) === null) return noSpanOver(dayStr)
+  const opening = openedAt(openingInstantOn(root, dayStr))
+  const next = openedAt(openingInstantOn(root, dayAfter(dayStr)))
+  return windowSpanned(dayStr, opening, next) ?? noSpanOver(dayStr)
 }
 
 export function spannedWindow(dayStr: string): DayWindow | Refused {

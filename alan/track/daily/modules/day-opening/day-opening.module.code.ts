@@ -6,6 +6,8 @@ import {
   type DayWindow,
   dayAfter,
   dayBefore,
+} from "akasha/alan/harness/health-sample/day/modules/opening-span/opening-span.computed-property-module.code.ts"
+import {
   type Refused,
   openingInstantOn as recordedOpeningOn,
   spannedWindowIn,

@@ -5,7 +5,11 @@ export const healthSampleDay = {
   type: "page-type/domain",
   slug: "health-sample-day",
   definition: "a day's health samples",
-  parts: ["module/active-calories", "module/opening-window"],
+  parts: [
+    "module/active-calories",
+    "module/opening-window",
+    "computed-property-module/opening-span",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/absence",
@@ -22,5 +26,5 @@ export const healthSampleDay = {
     },
   ],
   createdAt: "2026-09-01T07:03:20.617Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-18T13:52:54.670Z",
 } as const satisfies Domain
