@@ -20,7 +20,7 @@ export const undauntedSkillLine = {
   lastCompletedAt: "2026-10-18T14:32:18.000Z",
   progress: "jsonl",
   progressTotal: 200,
-  progressCurrent: 173,
+  progressCurrent: 174,
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-18T14:32:49.759Z",
+  updatedAt: "2026-10-18T16:00:57.940Z",
 } as const satisfies TemperTask
