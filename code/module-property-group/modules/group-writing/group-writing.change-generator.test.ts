@@ -1,6 +1,8 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { generatedOver } from "akasha/change/generator/modules/change-generating/change-generating.module.code.ts"
+import { type FileChange, leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   groupAt,
   groupsIn,
@@ -174,5 +176,72 @@ describe("a change to a group's own code", () => {
     const rest = written.edits.filter((one) => bodyOf(one) !== TURNED)
     expect(rest.length).toBeGreaterThan(0)
     expect(rest.every((one) => bodyOf(one) === OFF_DISK)).toBe(true)
+  })
+})
+
+const ADDED_AT = "code/ios-component/pages/group-writing-probe"
+
+const ADDED = `${ADDED_AT}/group-writing-probe.ios-component.ts`
+
+const ADDED_SWIFT = `${ADDED_AT}/group-writing-probe.ios-component.swift.swift`
+
+const PROGRAM = "code/ios-program/pages/alanwalton-widget/alanwalton-widget.ios-program.ts"
+
+const SCRIPT =
+  "code/ios-harness/scripts/render-harness-run/render-harness-run.shell-script.shell.sh"
+
+const LISTS = "  components: [\n"
+
+const IDLESS = `import type { IosComponent } from "akasha/code/ios-component/ios-component.page-type.types.ts"
+
+export const groupWritingProbe = {
+  type: "page-type/ios-component",
+  slug: "group-writing-probe",
+  definition: "a component a change adds",
+  swift: "swift",
+} as const satisfies IosComponent
+`
+
+function changeOver(held: ReadonlyMap<string, string>): Change {
+  return {
+    root: ROOT,
+    changed: [...held.keys()],
+    before: bytesAt,
+    after: (path) => {
+      const body = held.get(path)
+      return body === undefined ? bytesAt(path) : BYTES.encode(body)
+    },
+  }
+}
+
+function writtenIn(one: FileChange): string | null {
+  if ("content" in one) return one.content
+  return "contentTo" in one ? one.contentTo : null
+}
+
+describe("a page the change adds, stating no id of its own", () => {
+  const held = new Map([
+    [ADDED, IDLESS],
+    [ADDED_SWIFT, "// a component a change adds\n"],
+    [
+      PROGRAM,
+      readFileSync(join(ROOT, PROGRAM), "utf8").replace(
+        LISTS,
+        `${LISTS}    "ios-component/group-writing-probe",\n`
+      ),
+    ],
+  ])
+  const ran = generatedOver(changeOver(held), (made) => {
+    const more = new Map(held)
+    for (const one of made) {
+      const body = writtenIn(one)
+      if (body !== null) more.set(leftAt(one), body)
+    }
+    return changeOver(more)
+  })
+
+  test("a group reads that page in the landing adding it, once its id is minted", () => {
+    const script = ran.edits.find((one) => leftAt(one) === SCRIPT)
+    expect(script === undefined ? null : writtenIn(script)).toContain(ADDED_SWIFT)
   })
 })
