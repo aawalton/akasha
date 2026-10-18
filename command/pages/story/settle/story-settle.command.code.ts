@@ -247,7 +247,7 @@ async function rollMade(
   const cast = castFor(keptAt, placed, held.dice)
   if ("refused" in cast) return { refused: cast.refused, by: INPUT }
   const thrown = cast.answered
-  const said = await settledAt(join(root, placed.code), held.reading, thrown?.roll ?? null)
+  const said = await settledAt(root, placed.code, held.reading, thrown?.roll ?? null)
   if ("refused" in said) return { refused: said.refused, by: DATA }
   const roll: Roll = {
     check: `${worldCheck.slug}/${held.check}`,
@@ -260,7 +260,7 @@ async function rollMade(
     const why = `\`${held.check}\` is settled on \`${placed.on.slug}\` already for this reading's \`${CHARACTER}\`, and a check that rolls nothing settles there again only at ${GAME_MASTER}, replacing that line`
     return { refused: why, by: DATA }
   }
-  const back = before === null ? [] : await takenBackOf(join(root, placed.code), before.was)
+  const back = before === null ? [] : await takenBackOf(root, placed.code, before.was)
   const sums = sumsOf([...said.answered.added, ...back], pageAt)
   if ("refused" in sums) return { ...sums, by: DATA }
   return { roll, sums, replaced: before?.place ?? null }

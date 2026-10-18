@@ -4,6 +4,7 @@ import { changePagePageProperty } from "akasha/change/mechanical/file-content/ch
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { editsIn, foldedIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { loadedOff } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { dice as diceArgument } from "akasha/command/argument/pages/dice.argument.ts"
 import { worldFor } from "akasha/command/modules/change-running/change-running.module.code.ts"
@@ -59,8 +60,8 @@ function addedOf(
   return typeof adding === "function" ? (adding as Adding)(reading, answered) : []
 }
 
-export async function addingAt(path: string): Promise<Adding> {
-  const held = (await import(path)) as Record<string, unknown>
+export async function addingAt(root: string, at: string): Promise<Adding> {
+  const held = loadedOff(root, at)
   return (reading, answered) => addedOf(held, reading, answered)
 }
 
@@ -80,11 +81,12 @@ function settledOrUnrolled(settle: Settle, path: string, reading: unknown, roll:
 }
 
 export async function settledAt(
+  root: string,
   path: string,
   reading: unknown,
   roll: unknown
 ): Promise<{ readonly answered: Answered } | { readonly refused: string }> {
-  const held = (await import(path)) as Record<string, unknown>
+  const held = loadedOff(root, path)
   const settle = held[SETTLED]
   if (typeof settle !== "function") {
     return { refused: `\`${path}\` exports no \`${SETTLED}\`, so nothing settles the roll` }
@@ -155,10 +157,11 @@ export function countedLines(kept: string): readonly string[] {
 }
 
 export async function takenBackOf(
+  root: string,
   path: string,
   was: Readonly<Record<string, unknown>>
 ): Promise<readonly Added[]> {
-  const adding = await addingAt(path)
+  const adding = await addingAt(root, path)
   return adding(was[READING], was[ANSWERED]).map((one) => ({ ...one, by: -one.by }))
 }
 

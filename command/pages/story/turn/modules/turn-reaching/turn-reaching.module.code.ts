@@ -369,7 +369,7 @@ function seatsStated(): readonly Seated[] {
 
 async function addingIndexed(root: string, check: string): Promise<Adding | null> {
   const at = settlingIndexed(root, check)
-  return at === null ? null : await addingAt(join(root, at))
+  return at === null ? null : await addingAt(root, at)
 }
 
 function pageIndexed(root: string, page: string): Paged | null {
