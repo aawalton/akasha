@@ -112,7 +112,16 @@ function scheduleNetWorthRecompute(): undefined {
 
 export function registerInventoryEvents(): undefined {
   const ns = ADDON_NAME
+  listenForBags(ns)
+  listenAtBanks(ns)
+  listenForHoldings(ns)
+  listenForRules(ns)
+  registerVenueDispatchEvents(ns)
+  registerAutoListResultEvents(ns)
+  registerAutoMaintenanceEvents(`${ns}_Maintenance`)
+}
 
+function listenForBags(ns: string): undefined {
   EVENT_MANAGER.RegisterForEvent(
     `${ns}_PlayerActivated`,
     EVENT_PLAYER_ACTIVATED,
@@ -177,7 +186,9 @@ export function registerInventoryEvents(): undefined {
       settleInventoryActions()
     }
   )
+}
 
+function listenAtBanks(ns: string): undefined {
   EVENT_MANAGER.RegisterForEvent(
     `${ns}_OpenBank`,
     EVENT_OPEN_BANK,
@@ -237,7 +248,9 @@ export function registerInventoryEvents(): undefined {
       settleInventoryActions()
     }
   )
+}
 
+function listenForHoldings(ns: string): undefined {
   EVENT_MANAGER.RegisterForEvent(
     `${ns}_CompanionActivated`,
     EVENT_COMPANION_ACTIVATED,
@@ -297,7 +310,9 @@ export function registerInventoryEvents(): undefined {
       scanAccountCurrencies()
     }
   )
+}
 
+function listenForRules(ns: string): undefined {
   EVENT_MANAGER.RegisterForEvent(
     `${ns}_RulesSlotUpdate`,
     EVENT_INVENTORY_SINGLE_SLOT_UPDATE,
@@ -357,10 +372,4 @@ export function registerInventoryEvents(): undefined {
       dispatchSafeOpenActions()
     }
   )
-
-  registerVenueDispatchEvents(ns)
-
-  registerAutoListResultEvents(ns)
-
-  registerAutoMaintenanceEvents(`${ns}_Maintenance`)
 }

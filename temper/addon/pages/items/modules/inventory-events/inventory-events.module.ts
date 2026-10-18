@@ -42,7 +42,11 @@ export const inventoryEvents = {
       statement:
         "A listener this module hands out to another takes a namespace under this one rather than this one.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The listeners are split by what they watch: bags, banks, holdings and rules.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.851Z",
-  updatedAt: "2026-10-10T14:08:31.826Z",
+  updatedAt: "2026-10-18T17:53:48.753Z",
 } as const satisfies Module
