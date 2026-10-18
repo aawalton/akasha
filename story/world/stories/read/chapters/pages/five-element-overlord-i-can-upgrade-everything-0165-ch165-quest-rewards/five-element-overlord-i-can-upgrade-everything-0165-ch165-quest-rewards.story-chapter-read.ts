@@ -20,5 +20,6 @@ export const fiveElementOverlordICanUpgradeEverything0165Ch165QuestRewards = {
     },
   ],
   createdAt: "2026-10-16T23:07:38.311Z",
-  updatedAt: "2026-10-16T23:07:38.311Z",
+  updatedAt: "2026-10-18T00:05:42.133Z",
+  ownProgress: 2588,
 } as const satisfies StoryChapterRead
