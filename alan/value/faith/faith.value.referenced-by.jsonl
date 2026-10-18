@@ -102,5 +102,6 @@
 {"propertySlug":"page-value","path":"persona/pages/talia/talia.persona.ts","id":"019f05ae-071d-72e9-82e3-1277673da4e5"}
 {"propertySlug":"parts","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}
 {"propertySlug":"to-do-value","path":"alan/track/to-do/pages/pray/pray.to-do.ts","id":"019db533-f381-783b-bd75-0f470dbc9337"}
+{"propertySlug":"to-do-value","path":"alan/track/to-do/pages/review-tithing/review-tithing.to-do.ts","id":"01a14ffa-f9f9-7511-9d8c-230e432b77af"}
 {"propertySlug":"to-do-value","path":"alan/track/to-do/pages/scripture-study/scripture-study.to-do.ts","id":"01a14f1d-0416-73a3-8100-69b4b58659ef"}
 {"propertySlug":"to-do-value","path":"alan/track/to-do/pages/temple/temple.to-do.ts","id":"01a14f1d-2d03-7bab-b650-d52d2ae6324d"}
