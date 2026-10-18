@@ -583,6 +583,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/course-types/course-types.module.ts","id":"01a06579-f3d8-7000-9391-77da8f1eff7e"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/courses-query/courses-query.module.ts","id":"01a06579-f3d9-7003-83c3-1c73c2fbe33b"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/create-course/create-course.module.ts","id":"01a06579-f3d9-7005-80a2-939e9bfae257"}
+{"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/lecture-progress/lecture-progress.module.ts","id":"01a15000-e667-769d-bcb3-6bca5f9587c4"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/page-query/page-query.module.ts","id":"01a06579-f3d9-7000-b770-d76acf7f6945"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/root-parent-query/root-parent-query.module.ts","id":"01a06579-f3d9-7006-8368-78fe6c117de7"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/subject-collections-query/subject-collections-query.module.ts","id":"01a06579-f3d9-7004-86eb-78bec98c84f4"}

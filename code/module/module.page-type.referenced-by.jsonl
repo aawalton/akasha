@@ -493,6 +493,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/course-types/course-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/courses-query/courses-query.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/create-course/create-course.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/lecture-progress/lecture-progress.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/page-query/page-query.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/root-parent-query/root-parent-query.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/subject-collections-query/subject-collections-query.module.ts","typed":true,"deferred":false}
