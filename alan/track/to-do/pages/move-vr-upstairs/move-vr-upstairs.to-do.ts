@@ -10,6 +10,8 @@ export const moveVrUpstairs = {
   priority: "p3",
   toDoSortOrder: 42,
   toDoValue: "value/health",
+  toDoLastCompletedAt: "2026-10-18T14:38:46.998Z",
+  toDoCompletedAt: "2026-10-18T14:38:46.998Z",
   createdAt: "2026-10-18T14:30:27.439Z",
-  updatedAt: "2026-10-18T14:30:34.050Z",
+  updatedAt: "2026-10-18T14:38:47.517Z",
 } as const satisfies ToDo
