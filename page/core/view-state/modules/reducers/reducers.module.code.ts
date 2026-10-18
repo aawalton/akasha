@@ -108,6 +108,8 @@ function narrowOf(filter: ViewFilter): Narrow | undefined {
       return one("empty", "false")
     case "lt":
       return one("before", isToday(value) ? DAY : boundTextOf(value))
+    case "lt_or_empty":
+      return one("before-or-empty", isToday(value) ? DAY : boundTextOf(value))
     case "lte":
       return isToday(value) ? one("before", DAY_NEXT) : one("at-or-before", boundTextOf(value))
     case "gte":

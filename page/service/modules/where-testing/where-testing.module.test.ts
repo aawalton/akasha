@@ -59,6 +59,14 @@ test("an ordering test answers false over a value that reads as bare", () => {
   expect(matches(null, "at-or-before", "2026-01-01")).toBe(false)
 })
 
+test("before-or-empty keeps a value taken as bare and one ordered before its bound", () => {
+  expect(matches(null, "before-or-empty", "2026-01-01")).toBe(true)
+  expect(meets({}, "at", { "before-or-empty": "2026-01-01" })).toBe(true)
+  expect(matches("2025-12-31", "before-or-empty", "2026-01-01")).toBe(true)
+  expect(matches("2026-01-02", "before-or-empty", "2026-01-01")).toBe(false)
+  expect(unrun({ at: { "before-or-empty": "2026-01-01" } })).toBeNull()
+})
+
 test("two values order as numbers where both are numbers", () => {
   expect(matches(3, "after", 2)).toBe(true)
   expect(matches(2, "at-or-after", 2)).toBe(true)

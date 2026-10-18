@@ -10,6 +10,7 @@ export type FilterOperator =
   | "not_contains"
   | "gt"
   | "lt"
+  | "lt_or_empty"
   | "gte"
   | "lte"
   | "is_empty"

@@ -13,6 +13,7 @@ export const TESTS_RUN: readonly string[] = [
   "at-or-after",
   "after",
   "before",
+  "before-or-empty",
   "at-or-before",
 ]
 
@@ -29,6 +30,7 @@ export type Test = {
   readonly "at-or-after"?: string | number
   readonly after?: string | number
   readonly before?: string | number
+  readonly "before-or-empty"?: string | number
   readonly "at-or-before"?: string | number
 }
 
@@ -72,6 +74,7 @@ export function matches(held: unknown, name: string, bound: unknown): boolean {
   if (name === "at-or-after") return !bare(held) && ordered(held, bound) >= 0
   if (name === "after") return !bare(held) && ordered(held, bound) > 0
   if (name === "before") return !bare(held) && ordered(held, bound) < 0
+  if (name === "before-or-empty") return bare(held) || ordered(held, bound) < 0
   if (name === "at-or-before") return !bare(held) && ordered(held, bound) <= 0
   return false
 }

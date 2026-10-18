@@ -112,6 +112,20 @@ type Translator = (
   type: PropertyType | undefined
 ) => readonly PageCondition[] | null
 
+const before: Translator = (key, value, type) => {
+  if (value === undefined) return null
+  if (isSentinelOperand(value)) {
+    const resolved = resolveCalendarOrInstantOperand(value, type, "startOfDay")
+    return resolved == null ? null : [{ key, lt: resolved }]
+  }
+  return isJson(value) ? [{ key, lt: value }] : null
+}
+
+const beforeOrEmpty: Translator = (key, value, type) => {
+  const earlier = before(key, value, type)
+  return earlier === null ? null : [{ or: [...earlier, { key, isEmpty: true }] }]
+}
+
 const TRANSLATORS = {
   equals: (key, value, type) => {
     if (value === undefined) return null
@@ -172,14 +186,8 @@ const TRANSLATORS = {
     }
     return isJson(value) ? [{ key, gte: value }] : null
   },
-  lt: (key, value, type) => {
-    if (value === undefined) return null
-    if (isSentinelOperand(value)) {
-      const resolved = resolveCalendarOrInstantOperand(value, type, "startOfDay")
-      return resolved == null ? null : [{ key, lt: resolved }]
-    }
-    return isJson(value) ? [{ key, lt: value }] : null
-  },
+  lt: before,
+  lt_or_empty: beforeOrEmpty,
   lte: (key, value, type) => {
     if (value === undefined) return null
     if (isSentinelOperand(value)) {

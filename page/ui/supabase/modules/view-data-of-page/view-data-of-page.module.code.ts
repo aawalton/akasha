@@ -125,6 +125,10 @@ function filtersForKey(propertyKey: string, tests: unknown): readonly ViewFilter
     } else if (test === "before") {
       const bound = boundBelow(raw)
       out.push({ propertyId, operator: bound.operator, value: asFilterValue(bound.value) })
+    } else if (test === "before-or-empty") {
+      const bound = boundBelow(raw)
+      const operator = bound.operator === "lt" ? "lt_or_empty" : null
+      if (operator !== null) out.push({ propertyId, operator, value: asFilterValue(bound.value) })
     } else if (test === "at-or-after") {
       const bound = boundAbove(raw)
       out.push({ propertyId, operator: bound.operator, value: asFilterValue(bound.value) })

@@ -17,6 +17,7 @@ export const narrowComparison = {
     "at-or-after",
     "after",
     "before",
+    "before-or-empty",
     "at-or-before",
   ],
   decisions: [
@@ -32,5 +33,5 @@ export const narrowComparison = {
   ],
   types: "ts",
   createdAt: "2026-09-02T21:02:27.899Z",
-  updatedAt: "2026-10-10T12:53:28.934Z",
+  updatedAt: "2026-10-18T16:12:23.664Z",
 } as const satisfies SelectProperty

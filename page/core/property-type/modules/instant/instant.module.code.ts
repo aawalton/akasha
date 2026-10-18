@@ -122,6 +122,7 @@ export const INSTANT_OPS: PropertyTypeOps = {
       { value: "equals", label: "Is" },
       { value: "gt", label: "Is after" },
       { value: "lt", label: "Is before" },
+      { value: "lt_or_empty", label: "Is before or empty" },
       { value: "gte", label: "Is on or after" },
       { value: "lte", label: "Is on or before" },
       { value: "is_between", label: "Is between" },
@@ -156,6 +157,11 @@ export const INSTANT_OPS: PropertyTypeOps = {
         case "lt": {
           const resolved = resolveFilterInstantStartOfDay(filterValue)
           return valueMs !== null && resolved != null && valueMs < resolved
+        }
+        case "lt_or_empty": {
+          if (valueMs === null) return true
+          const resolved = resolveFilterInstantStartOfDay(filterValue)
+          return resolved != null && valueMs < resolved
         }
         case "gte": {
           const resolved = resolveFilterInstantStartOfDay(filterValue)

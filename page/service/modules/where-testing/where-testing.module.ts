@@ -58,6 +58,10 @@ export const whereTesting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "`before-or-empty` answers true over a value taken as bare.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Two values order as numbers where both values are numbers.",
     },
     {
@@ -82,5 +86,5 @@ export const whereTesting = {
     },
   ],
   createdAt: "2026-09-01T07:27:39.852Z",
-  updatedAt: "2026-09-27T16:02:28.000Z",
+  updatedAt: "2026-10-18T16:12:23.664Z",
 } as const satisfies Module
