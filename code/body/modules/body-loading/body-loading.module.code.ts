@@ -200,6 +200,11 @@ function keeping(change: Change, bodies: ReadonlyMap<string, string>): undefined
   return undefined
 }
 
+export function loadedOff(root: string, at: string): Held {
+  resolvingFresh(root)
+  return loadFrom(join(root, at)) as Held
+}
+
 export function heldOver(change: Change, at: string, body: string | null): Held {
   resolvingFresh(change.root)
   const full = join(change.root, at)

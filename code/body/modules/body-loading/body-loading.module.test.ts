@@ -4,6 +4,7 @@ import { join } from "node:path"
 import {
   bodyFor,
   heldOver,
+  loadedOff,
 } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import {
   BESIDE,
@@ -152,6 +153,26 @@ describe("the modules a change reaches in the cache", () => {
       renameSync(join(root, "lib", "one.ts"), join(root, "lib", "one-moved.ts"))
       writeFileSync(join(root, HELD), 'export { said } from "akasha/lib/one-moved.ts"\n')
       expect(heldOver(within(root), HELD, null).said).toBe("moved")
+    } finally {
+      scratch.sweep()
+    }
+  })
+})
+
+describe("the code loaded off the checkout with no change in hand", () => {
+  test("a module moved after its folder was read is found at the path it moved to", () => {
+    const scratch = scratchWorld()
+    try {
+      const root = scratch.rootFor("body-loading-")
+      mkdirSync(join(root, "node_modules"))
+      symlinkSync(root, join(root, "node_modules", "akasha"))
+      mkdirSync(join(root, "lib"))
+      writeFileSync(join(root, "lib", "one.ts"), 'export const said = "moved"\n')
+      writeFileSync(join(root, HELD), 'export { said } from "akasha/lib/one.ts"\n')
+      expect(loadedOff(root, HELD).said).toBe("moved")
+      renameSync(join(root, "lib", "one.ts"), join(root, "lib", "one-moved.ts"))
+      writeFileSync(join(root, "again.ts"), 'export { said } from "akasha/lib/one-moved.ts"\n')
+      expect(loadedOff(root, "again.ts").said).toBe("moved")
     } finally {
       scratch.sweep()
     }

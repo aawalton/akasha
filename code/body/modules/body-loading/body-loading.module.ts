@@ -101,6 +101,10 @@ export const bodyLoading = {
         "A module under the repository is found on the disk rather than in what Bun holds.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Code holding no change loads a module off the checkout here as well.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement:
         "A module cached under `node_modules` is not dropped, since no change carries one.",
@@ -141,5 +145,5 @@ export const bodyLoading = {
     },
   ],
   createdAt: "2026-09-11T16:20:05.340Z",
-  updatedAt: "2026-10-18T13:59:15.932Z",
+  updatedAt: "2026-10-18T14:13:41.378Z",
 } as const satisfies Module
