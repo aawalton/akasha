@@ -159,6 +159,14 @@ export const uiStaging = {
       statement: "The screen is as wide and tall as the player's interface where a capture says.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game names a map's tiles by one stem, numbered from nought.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A map tile is named from the first tile the player's game answered for that map.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "The player's answers that the player is activated and the skills are ready are not set.",
@@ -215,5 +223,5 @@ export const uiStaging = {
     },
   ],
   createdAt: "2026-09-22T18:33:40.383Z",
-  updatedAt: "2026-10-18T18:48:14.309Z",
+  updatedAt: "2026-10-18T19:02:02.702Z",
 } as const satisfies Module

@@ -72,6 +72,14 @@ const ACTIVATED = "IsPlayerActivated = function() return true end"
 const NOT_YET_READY = `IsPlayerActivated = function() return false end
 AreSkillsInitialized = function() return false end`
 
+const MAP_TILES = `
+local firstTileOf = GetMapTileTextureForMapId
+GetMapTileTexture = function(index)
+  local first = firstTileOf ~= nil and firstTileOf(GetCurrentMapId()) or nil
+  if type(first) ~= "string" or first == "" then return "" end
+  return (string.gsub(first, "_0%.dds$", "_" .. tostring((index or 1) - 1) .. ".dds"))
+end`
+
 const PER_CHUNK = 40
 
 const UNPINNED = "no commit"
@@ -357,6 +365,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await harness.load(`return ${timelinesLua(timelinesIn(documents))}`)
     const refused: string[] = []
     for (const chunk of playedAnswers()) await harness.load(chunk)
+    await harness.load(MAP_TILES)
     await harness.load(NOT_YET_READY)
     const files = gameFiles(esoui).map((file) => ({ ...file, text: readFileSync(file.at, "utf8") }))
     await harness.load(
