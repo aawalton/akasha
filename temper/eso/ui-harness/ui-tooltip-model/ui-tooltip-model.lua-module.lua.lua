@@ -54,14 +54,9 @@ end
 
 function Control:SetBagItem(bagId, slotIndex)
   local icon = _G.GetItemLinkIcon(_G.GetItemLink(bagId, slotIndex))
-  local keys = {}
-  for key in pairs(self.uiHandlers) do insert(keys, key) end
-  _G.__ui_swallow("probe", tostring(icon) .. " | " .. table.concat(keys, ",") .. " | " ..
-    tostring(self:GetNamedChild("Icon")) .. " | " .. tostring(_G.TOOLTIP_GAME_DATA_ITEM_ICON))
-  toldWith(self, "OnAddGameData", _G.TOOLTIP_GAME_DATA_ITEM_ICON, icon)
-  local shown = self:GetNamedChild("Icon")
-  _G.__ui_swallow("probe3", tostring(shown and shown:IsControlHidden()) .. " | " ..
-    tostring(_G.SetTooltipIconTexture == SET_ICON) .. " | " .. tostring(_G.ZO_IconTooltip_OnAddGameData))
+  local ok, thrown = pcall(toldWith, self, "OnAddGameData", _G.TOOLTIP_GAME_DATA_ITEM_ICON, icon)
+  if not ok then _G.__ui_swallow("item tooltip game data", thrown) end
+  _G.SetTooltipIconTexture(self, icon)
 end
 
 function _G.SetTooltipIconTexture(tip, texture)
@@ -72,8 +67,6 @@ function _G.SetTooltipIconTexture(tip, texture)
   icon:SetHidden(not shown)
 end
 
-SET_ICON = _G.SetTooltipIconTexture
-
 function Control:ClearLines()
   local held = linesOf(self)
   for _, line in ipairs(held.made) do
@@ -83,4 +76,5 @@ function Control:ClearLines()
   end
   self.uiLines = nil
   self.uiHeight = 0
+  _G.SetTooltipIconTexture(self, nil)
 end

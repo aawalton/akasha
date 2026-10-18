@@ -83,7 +83,15 @@ export const uiTooltipModel = {
       decisionKind: "decision-kind/departure",
       statement: "A tooltip's icon is shown with the art it is given and hidden when given none.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's Lua that turns the icon's game data into the icon is not loaded here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Setting a bag's item sets the tooltip's icon directly, and clearing hides it.",
+    },
   ],
   createdAt: "2026-09-25T01:38:37.878Z",
-  updatedAt: "2026-10-18T20:18:16.318Z",
+  updatedAt: "2026-10-18T20:34:23.933Z",
 } as const satisfies LuaModule
