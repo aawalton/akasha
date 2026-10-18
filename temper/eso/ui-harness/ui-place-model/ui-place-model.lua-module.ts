@@ -118,6 +118,11 @@ export const uiPlaceModel = {
       statement: "A label's text is answered broken into the lines it wraps into.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A label wrapping with an ellipsis shows the three full stops it is measured with.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "Text holding markup is answered unbroken.",
     },
@@ -204,5 +209,5 @@ export const uiPlaceModel = {
     },
   ],
   createdAt: "2026-09-22T16:27:03.745Z",
-  updatedAt: "2026-10-18T18:53:51.613Z",
+  updatedAt: "2026-10-18T19:12:13.922Z",
 } as const satisfies LuaModule

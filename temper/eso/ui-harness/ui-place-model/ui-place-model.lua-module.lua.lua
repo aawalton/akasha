@@ -148,7 +148,7 @@ local function ellipsed(face, row, limit)
     return widthOf(face, row.codes, row.from, to) + kerned(face.kerning, row.codes[to], dots[1]) + tail
   end
   while limit ~= nil and to >= row.from and shown() > limit + LEEWAY do to = to - 1 end
-  return shown()
+  return shown(), to
 end
 
 local ICON = "|t([^:|]*):[^|]*|t"
@@ -183,7 +183,7 @@ local function measured(control, within)
     local row = rows[at]
     local wide = widthOf(face, row.codes, row.from, row.to)
     if at < #rows and at == kept and control.uiWrapMode == ELLIPSIS_MODE then
-      wide = ellipsed(face, row, limit)
+      wide = (ellipsed(face, row, limit))
     end
     if wide > widest then widest = wide end
   end
@@ -359,17 +359,25 @@ local function broken(control)
   local face, size = faceOf(control)
   local limit = width / (size / face.perEm)
   local shown = {}
+  local laidRows = {}
   for line in string.gmatch(text .. "\n", "(.-)\n") do
     local characters = charactersOf(line)
     local rows = {}
     laid(face, codesOf(line), limit, rows)
     for _, row in ipairs(rows) do
       shown[#shown + 1] = table.concat(characters, "", row.from, math.min(row.to, #characters))
+      laidRows[#laidRows + 1] = { row = row, characters = characters }
     end
   end
   local most = control.uiMaxLines
   if most ~= nil and most > 0 and #shown > most then
     for at = #shown, most + 1, -1 do shown[at] = nil end
+    if control.uiWrapMode == ELLIPSIS_MODE then
+      local last = laidRows[most]
+      local _, to = ellipsed(face, last.row, limit)
+      local kept = table.concat(last.characters, "", last.row.from, math.min(to, #last.characters))
+      shown[most] = kept .. ELLIPSIS
+    end
   end
   return table.concat(shown, "\n")
 end
