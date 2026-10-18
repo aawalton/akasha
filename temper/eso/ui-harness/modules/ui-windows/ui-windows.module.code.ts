@@ -279,6 +279,7 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     "TemperItems",
     "ItemTooltip",
     `
+      __ui_swallow("probe2", tostring(ItemTooltip.SetBagItem) .. " vs " .. tostring(rawget(__ui_control_class, "SetBagItem")) .. " icon " .. tostring(ItemTooltipIcon))
       InitializeTooltip(ItemTooltip, GuiRoot, CENTER, 0, 0, CENTER)
       for slot = 0, GetBagSize(BAG_BACKPACK) - 1 do
         if HasItemInSlot(BAG_BACKPACK, slot) then
