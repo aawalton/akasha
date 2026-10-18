@@ -354,7 +354,7 @@ end
 local function broken(control)
   local text = control.uiText
   if type(text) ~= "string" or text == "" or string.find(text, "|", 1, true) then return text end
-  local _, _, width = place(control)
+  local _, _, width, height = place(control)
   if width == nil or width <= 0 then return text end
   local face, size = faceOf(control)
   local limit = width / (size / face.perEm)
@@ -370,6 +370,10 @@ local function broken(control)
     end
   end
   local most = control.uiMaxLines
+  if control.uiWrapMode == ELLIPSIS_MODE and height ~= nil and height > 0 then
+    local fit = math.max(1, math.floor(height / (face.line * size / face.perEm) + LEEWAY))
+    if most == nil or most <= 0 or fit < most then most = fit end
+  end
   if most ~= nil and most > 0 and #shown > most then
     for at = #shown, most + 1, -1 do shown[at] = nil end
     if control.uiWrapMode == ELLIPSIS_MODE then

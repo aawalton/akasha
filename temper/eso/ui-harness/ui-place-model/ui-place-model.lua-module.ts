@@ -93,6 +93,10 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A label wrapping with an ellipsis shows no more lines than its height holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A label wrapping with an ellipsis ends the last line shown in three full stops that fit.",
     },
@@ -209,5 +213,5 @@ export const uiPlaceModel = {
     },
   ],
   createdAt: "2026-09-22T16:27:03.745Z",
-  updatedAt: "2026-10-18T19:12:13.922Z",
+  updatedAt: "2026-10-18T19:39:14.833Z",
 } as const satisfies LuaModule
