@@ -1,9 +1,9 @@
-import { createRequire } from "node:module"
 import { join } from "node:path"
 import { opensYes } from "akasha/agent/model/modules/answer/model-answer.module.code.ts"
 import { modelAsking } from "akasha/agent/model/modules/asking/model-asking.module.ts"
 import { PAGES } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/check/modules/judging/judging.module.code.ts"
+import { loadedOff } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
@@ -27,8 +27,6 @@ const UNANSWERED = "did not run, so what it would have judged landed unjudged"
 const CODE = "code"
 
 const TS = "ts"
-
-const loadFrom = createRequire(import.meta.url)
 
 const ANSWERED = z.looseObject({ answers: z.array(z.string().nullable()) })
 
@@ -95,7 +93,7 @@ function testHeld(root: string, slug: string): Held {
   if (typeof model !== "string") throw new Error(`${at} names no model a call can reach`)
   const beside = besideAt(page, CODE, TS)
   if (beside === null) throw new Error(`${page} has no code file beside it`)
-  const mod = loadFrom(join(root, beside)) as Record<string, unknown>
+  const mod = loadedOff(root, beside)
   const compile = mod[exportedAs(own)]
   if (typeof compile !== "function") throw new Error(`${beside} answers to no \`${own}\``)
   return { slug: own, model, compile: compile as Compiling }
