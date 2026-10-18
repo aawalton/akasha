@@ -87,6 +87,7 @@ export const command = {
     "module/seat-act-calling",
     "change-generator/value-minting",
     "module/warrant-owing",
+    "module/watched-minting",
     "module/yaml-lines",
     "namespace/agent",
     "namespace/alan",
@@ -226,5 +227,5 @@ export const command = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-29T04:53:12.685Z",
-  updatedAt: "2026-10-14T19:15:57.587Z",
+  updatedAt: "2026-10-18T16:19:16.055Z",
 } as const satisfies PageType

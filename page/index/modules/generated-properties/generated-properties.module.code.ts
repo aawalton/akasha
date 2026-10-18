@@ -10,11 +10,14 @@ const AFTER_CHECKS = "afterChecks"
 
 const EVERY_CHANGE = "everyChange"
 
+const WATCHES = "watches"
+
 export type Generated = {
   readonly key: string
   readonly kind: string
   readonly afterChecks: boolean
   readonly everyChange: boolean
+  readonly watches: string | null
 }
 
 export function generatedProperties(shadow: Shadow): ReadonlyMap<string, Generated> {
@@ -26,6 +29,8 @@ export function generatedProperties(shadow: Shadow): ReadonlyMap<string, Generat
     if (kind === null) continue
     const afterChecks = page[AFTER_CHECKS] === true
     const everyChange = page[EVERY_CHANGE] === true
+    const watched = textAt(page, WATCHES)
+    const watches = watched === null ? null : exportedAs(watched)
     for (const naming of shadow.index.namersOf(one.id)) {
       if (naming.propertySlug !== GENERATOR) continue
       const value = shadow.pageOf(naming.path)
@@ -33,7 +38,7 @@ export function generatedProperties(shadow: Shadow): ReadonlyMap<string, Generat
       const slug = textAt(value, "slug")
       const key = textAt(value, "propertySlug")
       if (slug === null || key === null) continue
-      found.set(slug, { key: exportedAs(key), kind, afterChecks, everyChange })
+      found.set(slug, { key: exportedAs(key), kind, afterChecks, everyChange, watches })
     }
   }
   return new Map([...found].sort((one, two) => (one[0] < two[0] ? -1 : one[0] > two[0] ? 1 : 0)))

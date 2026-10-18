@@ -1176,6 +1176,7 @@
 {"propertySlug":"decision-kind","path":"command/modules/value-minting/value-minting.change-generator.ts","id":"01a0503f-14ea-79f4-94bd-4c365bc24d5b"}
 {"propertySlug":"decision-kind","path":"command/modules/walking/command-walking.module.ts","id":"01a08171-a8fd-7adf-8d4e-cb3813757c6b"}
 {"propertySlug":"decision-kind","path":"command/modules/warrant-owing/warrant-owing.module.ts","id":"01a07bd4-e969-75ff-8616-768c59e748f6"}
+{"propertySlug":"decision-kind","path":"command/modules/watched-minting/watched-minting.module.ts","id":"01a14fcf-6bd9-759a-97d8-0101145e3c53"}
 {"propertySlug":"decision-kind","path":"command/namespace/namespace.page-type.ts","id":"01a06c7c-54b5-712b-b4a2-9ada10279dff"}
 {"propertySlug":"decision-kind","path":"command/pages/agent/strays/agent-strays.command.ts","id":"01a09cd6-14dc-7b7c-830c-2f44dc2f73c3"}
 {"propertySlug":"decision-kind","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.ts","id":"01a09c5f-3b45-7a00-b0e7-238c94f217aa"}

@@ -346,6 +346,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/computed-property/properties/read-folders.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/file-property/properties/extensions.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/file-property/properties/file-name.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/generator-kind/properties/watches.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/index/properties/index-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/markdown-property/markdown-property.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/named-extension-property/properties/extension-name.text-property.ts","typed":true,"deferred":false}

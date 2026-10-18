@@ -54,6 +54,10 @@ export const generatedProperties = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The key a value watches is read from that page too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The two kinds are told apart by the value each kind states rather than by their names.",
     },
@@ -76,5 +80,5 @@ export const generatedProperties = {
     },
   ],
   createdAt: "2026-08-29T20:17:08.899Z",
-  updatedAt: "2026-10-08T14:47:09.000Z",
+  updatedAt: "2026-10-18T16:19:16.055Z",
 } as const satisfies Module

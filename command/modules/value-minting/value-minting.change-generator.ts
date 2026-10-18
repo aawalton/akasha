@@ -42,6 +42,10 @@ export const valueMinting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A value whose kind watches a key is worked out by watched minting alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An instant goes in last in the page, and every other value goes in first.",
     },
     {
@@ -133,5 +137,5 @@ export const valueMinting = {
     },
   ],
   createdAt: "2026-08-30T01:18:26.538Z",
-  updatedAt: "2026-10-08T16:41:04.753Z",
+  updatedAt: "2026-10-18T16:19:16.055Z",
 } as const satisfies ChangeGenerator

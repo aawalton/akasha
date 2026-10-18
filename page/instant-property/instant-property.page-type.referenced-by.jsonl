@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/place/location/properties/scheduled-end-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/place/location/properties/scheduled-start-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/properties/collection-completed-at.instant-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/properties/collection-progressed-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/properties/published-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/sync-run/properties/run-completed-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/sync-run/properties/run-started-at.instant-property.ts","typed":true,"deferred":false}

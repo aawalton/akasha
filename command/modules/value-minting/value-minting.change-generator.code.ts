@@ -11,6 +11,7 @@ import {
   replacedIn,
 } from "akasha/code/reading/modules/value-inserting/value-inserting.module.code.ts"
 import { formattedBodies } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
+import { watchedFor } from "akasha/command/modules/watched-minting/watched-minting.module.code.ts"
 import { changedInstant } from "akasha/page/generator-kind/pages/changed-instant.generator-kind.ts"
 import { createdInstant } from "akasha/page/generator-kind/pages/created-instant.generator-kind.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
@@ -259,6 +260,13 @@ type Minting = {
 }
 
 function mintedInto(text: string, slug: string, said: Generated, over: Minting): string | null {
+  if (said.watches !== null) {
+    const { path, value, was, now } = over
+    const put = watchedFor({ key: said.key, watches: said.watches, value, was, now })
+    if (put === null) return null
+    if (put.placing === "replace") return replacedIn(path, text, said.key, put.said)
+    return insertedInto(path, text, said.key, put.said, "last")
+  }
   const { path, value, was, again, now } = over
   const minted = mintedFor(said.kind, slug, now)
   const placing = INSTANTS.has(said.kind) ? "last" : "first"

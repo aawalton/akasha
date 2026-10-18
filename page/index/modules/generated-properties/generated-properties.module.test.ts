@@ -73,18 +73,26 @@ function property(
   if (generator !== null) edged(root, slug, generator)
 }
 
-function kind(root: string, slug: string, afterChecks: boolean, everyChange = false): undefined {
+function kind(
+  root: string,
+  slug: string,
+  afterChecks: boolean,
+  everyChange = false,
+  watches: string | null = null
+): undefined {
   const at = `akasha/${slug}.${KIND}.ts`
   const id = idFor(`${KIND}/${slug}`)
+  const watching = watches === null ? "" : `, watches: "${watches}"`
   put(
     root,
     at,
-    `export const held = { id: "${id}", type: "page-type/${KIND}", slug: "${slug}", afterChecks: ${afterChecks}, everyChange: ${everyChange} }\n`
+    `export const held = { id: "${id}", type: "page-type/${KIND}", slug: "${slug}", afterChecks: ${afterChecks}, everyChange: ${everyChange}${watching} }\n`
   )
   filed(root, `page-type/${KIND}/slug/${slug}.jsonl`, { path: at, id })
   pageFiled(root, at, id)
+  const value = { id, type: `${pageType.slug}/${KIND}`, slug, afterChecks, everyChange }
   valueAlsoFiled(root, KIND, [
-    { path: at, value: { id, type: `${pageType.slug}/${KIND}`, slug, afterChecks, everyChange } },
+    { path: at, value: watches === null ? value : { ...value, watches } },
   ])
 }
 
@@ -259,7 +267,17 @@ test("a generated property carries the kind that works it out", () => {
     kind: "uuid-v7",
     afterChecks: false,
     everyChange: false,
+    watches: null,
   })
+})
+
+test("the key a value watches is read from the kind's own page by the key it is read by", () => {
+  const root = rooted()
+  kind(root, "watching", false, false, "own-progress")
+  named(root, "held")
+  property(root, "held", "watching")
+
+  expect(generatedProperties(shadowAt(root)).get("held")?.watches).toBe("ownProgress")
 })
 
 test("whether a value is worked out again on every change is read from the kind's own page", () => {

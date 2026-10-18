@@ -1321,6 +1321,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/stopping/command-stopping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/walking/command-walking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/warrant-owing/warrant-owing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/watched-minting/watched-minting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/yaml-lines/yaml-lines.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/chess/modules/page-writing/chess-page-writing.module.ts","typed":true,"deferred":false}

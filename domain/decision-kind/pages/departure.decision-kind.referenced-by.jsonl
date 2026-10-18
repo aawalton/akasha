@@ -596,6 +596,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/place/location/location.page-type.ts","id":"01a06583-acfb-78cd-80a3-4b5b464dc8ff"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/collection-completion-percent.computed-property.ts","id":"01a14fc5-e903-7d23-8ab4-ae4bd2de0a7a"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/collection-completion.computed-property.ts","id":"01a07231-dd66-7ecf-a99e-fe95f4120495"}
+{"propertySlug":"decision-kind","path":"alan/collection/properties/collection-progressed-at.instant-property.ts","id":"01a14fcf-6bd8-79ed-b06c-8409a4a09715"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/collection-published-at.one-of-property.ts","id":"01a063de-2c60-700f-a1f5-3c8c3ba8a091"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/collection-tags.text-property.ts","id":"01a063de-2c60-7012-86a4-f75160a97d69"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/following.boolean-property.ts","id":"01a063de-2c60-700a-b99a-430529589ec1"}
@@ -2215,6 +2216,7 @@
 {"propertySlug":"decision-kind","path":"command/modules/value-minting/value-minting.change-generator.ts","id":"01a0503f-14ea-79f4-94bd-4c365bc24d5b"}
 {"propertySlug":"decision-kind","path":"command/modules/walking/command-walking.module.ts","id":"01a08171-a8fd-7adf-8d4e-cb3813757c6b"}
 {"propertySlug":"decision-kind","path":"command/modules/warrant-owing/warrant-owing.module.ts","id":"01a07bd4-e969-75ff-8616-768c59e748f6"}
+{"propertySlug":"decision-kind","path":"command/modules/watched-minting/watched-minting.module.ts","id":"01a14fcf-6bd9-759a-97d8-0101145e3c53"}
 {"propertySlug":"decision-kind","path":"command/modules/yaml-lines/yaml-lines.module.ts","id":"01a07c5c-680a-740f-a3f1-a715427bd81a"}
 {"propertySlug":"decision-kind","path":"command/namespace/namespace.page-type.ts","id":"01a06c7c-54b5-712b-b4a2-9ada10279dff"}
 {"propertySlug":"decision-kind","path":"command/pages/agent/strays/agent-strays.command.ts","id":"01a09cd6-14dc-7b7c-830c-2f44dc2f73c3"}
@@ -3338,6 +3340,7 @@
 {"propertySlug":"decision-kind","path":"page/generator-kind/generator-kind.page-type.ts","id":"01a04f17-5b78-7c66-9145-7a386e55406e"}
 {"propertySlug":"decision-kind","path":"page/generator-kind/properties/after-checks.boolean-property.ts","id":"01a05031-3a74-7ba8-849b-751fec68738d"}
 {"propertySlug":"decision-kind","path":"page/generator-kind/properties/every-change.boolean-property.ts","id":"01a11bfa-d015-7ea8-9f9f-a6fa8c5a30d4"}
+{"propertySlug":"decision-kind","path":"page/generator-kind/properties/watches.text-property.ts","id":"01a14fcf-6bd9-7ce1-b9a5-e2ade290f031"}
 {"propertySlug":"decision-kind","path":"page/grade-property/grade-property.page-type.ts","id":"01a063de-2c60-7004-81e6-21e2564b7832"}
 {"propertySlug":"decision-kind","path":"page/id/modules/random-id/random-id.module.ts","id":"01a05c48-deeb-7012-98c6-5d13910416a7"}
 {"propertySlug":"decision-kind","path":"page/id/modules/uuid-version-7/uuid-version-7.module.ts","id":"01a07be9-0fe1-7ffb-9765-633921d012dd"}

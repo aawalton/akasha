@@ -57,6 +57,7 @@ export const collection = {
     "text-property/collection-author",
     "text-property/collection-tags",
     "computed-property/collection-completion-percent",
+    "instant-property/collection-progressed-at",
   ],
   extends: ["page-type/page"],
   properties: [
@@ -121,6 +122,7 @@ export const collection = {
       required: false,
       many: false,
     },
+    { pageProperty: "instant-property/collection-progressed-at", required: false, many: false },
   ],
   decisions: [
     {
@@ -189,5 +191,5 @@ export const collection = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-10-18T16:08:52.738Z",
+  updatedAt: "2026-10-18T16:19:16.055Z",
 } as const satisfies PageType
