@@ -10,6 +10,8 @@ export const reviewTithing = {
   priority: "p3",
   toDoSortOrder: 3,
   toDoValue: "value/faith",
+  toDoLastCompletedAt: "2026-10-18T17:19:17.199Z",
+  toDoCompletedAt: "2026-10-18T17:19:17.199Z",
   createdAt: "2026-10-18T17:06:50.488Z",
-  updatedAt: "2026-10-18T17:06:50.488Z",
+  updatedAt: "2026-10-18T17:19:30.687Z",
 } as const satisfies ToDo
