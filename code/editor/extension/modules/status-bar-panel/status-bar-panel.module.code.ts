@@ -20,6 +20,7 @@ import {
   NO_LEGENDS,
   type StoplightLegends,
 } from "akasha/code/editor/extension/modules/status-bar-legends/status-bar-legends.module.code.ts"
+import { shownWithSession } from "akasha/code/editor/extension/modules/status-bar-slot-types/status-bar-slot-types.module.code.ts"
 import { SLOTS } from "akasha/code/editor/extension/modules/status-bar-slots/status-bar-slots.module.code.ts"
 import {
   SEPARATOR_GLYPH,
@@ -71,7 +72,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       }
       item.command = "opsStatusBar.refreshNow"
     }
-    item.show()
+    if (!shownWithSession(slot)) {
+      item.show()
+    }
     context.subscriptions.push(item)
     return item
   })
@@ -85,6 +88,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   const draw = (held: StatusBarState, trigger: string): undefined => {
     const outcomes: ReadOutcomes = {
+      session: held.session,
       resources: sectionOf(held.resources?.glyphs),
       inbox: sectionOf(held.inbox?.glyphs),
       usage: sectionOf<UsageReading>(held.usage),

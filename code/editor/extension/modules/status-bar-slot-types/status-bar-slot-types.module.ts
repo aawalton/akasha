@@ -10,11 +10,15 @@ export const statusBarSlotTypes = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A slot is a workstation figure, a usage figure, a separator, or a stoplight section.",
+        "A slot is the session, a workstation figure, a usage figure, a separator, or a stoplight section.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A slot states which of the four kinds the slot is.",
+      statement: "A slot states which of the five kinds the slot is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A separator may say it follows the session, and is then shown only with it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,5 +47,5 @@ export const statusBarSlotTypes = {
     },
   ],
   createdAt: "2026-09-03T03:41:42.338Z",
-  updatedAt: "2026-09-15T18:33:01.000Z",
+  updatedAt: "2026-10-18T14:26:30.494Z",
 } as const satisfies Module

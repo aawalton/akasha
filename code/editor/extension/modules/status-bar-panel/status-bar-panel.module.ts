@@ -51,6 +51,14 @@ export const statusBarPanel = {
       decisionKind: "decision-kind/departure",
       statement: "A drawing says which readings the file had nothing for.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No session is no failed reading, so a drawing does not name it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The session's slots are hidden until a drawing finds a session.",
+    },
 
     {
       decisionKind: "decision-kind/absence",
@@ -58,5 +66,5 @@ export const statusBarPanel = {
     },
   ],
   createdAt: "2026-09-03T16:24:54.522Z",
-  updatedAt: "2026-09-22T10:05:48.000Z",
+  updatedAt: "2026-10-18T14:26:30.494Z",
 } as const satisfies Module

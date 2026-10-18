@@ -26,7 +26,11 @@ export const statusBarSlots = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A separator is drawn between the workstation figures, the usage figures, and each stoplight section.",
+        "A separator is drawn between the session, each kind of figure, and each stoplight section.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The session is drawn first, before the workstation figures.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,5 +66,5 @@ export const statusBarSlots = {
     },
   ],
   createdAt: "2026-09-03T03:41:42.338Z",
-  updatedAt: "2026-09-25T17:44:41.000Z",
+  updatedAt: "2026-10-18T14:26:30.494Z",
 } as const satisfies Module

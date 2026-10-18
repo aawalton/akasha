@@ -11,6 +11,17 @@ function formatGb(v: number | null): string {
 
 const RAW_SLOTS: readonly SlotDef[] = [
   {
+    kind: "session",
+    id: "opsStatusBar.session",
+    priority: 0,
+    label: "session",
+    hex: SILVER_HEX,
+    read: (session) => session,
+  },
+
+  { kind: "separator", id: "opsStatusBar.sep.sessionWorkstation", priority: 0, after: "session" },
+
+  {
     kind: "workstation",
     id: "opsStatusBar.workstation.processor",
     priority: 0,

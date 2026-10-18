@@ -1,5 +1,8 @@
 import type { StoplightLegends } from "akasha/code/editor/extension/modules/status-bar-legends/status-bar-legends.module.code.ts"
-import type { FigureSlotDef } from "akasha/code/editor/extension/modules/status-bar-slot-types/status-bar-slot-types.module.code.ts"
+import {
+  type FigureSlotDef,
+  shownWithSession,
+} from "akasha/code/editor/extension/modules/status-bar-slot-types/status-bar-slot-types.module.code.ts"
 import { SLOTS } from "akasha/code/editor/extension/modules/status-bar-slots/status-bar-slots.module.code.ts"
 import type { UsageReading } from "akasha/code/editor/extension/modules/status-bar-usage/status-bar-usage.module.code.ts"
 import type { WorkstationReading } from "akasha/code/editor/extension/modules/status-bar-workstation/status-bar-workstation.module.code.ts"
@@ -12,6 +15,7 @@ type SectionResult<T> = {
 }
 
 type SettledReads = {
+  readonly session: string | null
   readonly resources: string | undefined
   readonly inbox: string | undefined
   readonly usage: SectionResult<UsageReading>
@@ -19,6 +23,7 @@ type SettledReads = {
 }
 
 export type ReadOutcomes = {
+  readonly session: string | null
   readonly resources: PromiseSettledResult<string>
   readonly inbox: PromiseSettledResult<string>
   readonly usage: PromiseSettledResult<UsageReading>
@@ -33,6 +38,8 @@ export type FreshAts = {
 type RenderItem = {
   text: string
   tooltip: string | vscode.MarkdownString | undefined
+  readonly show: () => void
+  readonly hide: () => void
 }
 
 function settleSection<T>(
@@ -52,6 +59,7 @@ function glyphsIn(settled: PromiseSettledResult<string>): string | undefined {
 
 export function settleReads(outcomes: ReadOutcomes, prev: FreshAts, now: number): SettledReads {
   return {
+    session: outcomes.session,
     resources: glyphsIn(outcomes.resources),
     inbox: glyphsIn(outcomes.inbox),
     usage: settleSection(outcomes.usage, prev.usage, now),
@@ -87,6 +95,12 @@ function drawFigure<Kind extends string, Reading>(
   return undefined
 }
 
+function shownIf(item: RenderItem, shown: boolean): undefined {
+  if (shown) item.show()
+  else item.hide()
+  return undefined
+}
+
 export function applyToItems(
   items: readonly RenderItem[],
   reads: SettledReads,
@@ -95,10 +109,19 @@ export function applyToItems(
   for (let i = 0; i < SLOTS.length; i++) {
     const slot = SLOTS[i]
     const item = items[i]
-    if (slot === undefined || item === undefined || slot.kind === "separator") {
+    if (slot === undefined || item === undefined) {
       continue
     }
-    if (slot.kind === "usage") {
+    if (shownWithSession(slot)) {
+      shownIf(item, reads.session !== null)
+    }
+    if (slot.kind === "separator") {
+      continue
+    }
+    if (slot.kind === "session") {
+      if (reads.session !== null) item.text = slot.read(reads.session)
+      item.tooltip = slot.label
+    } else if (slot.kind === "usage") {
       drawFigure(item, slot, reads.usage)
     } else if (slot.kind === "workstation") {
       drawFigure(item, slot, reads.workstation)

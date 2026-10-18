@@ -37,6 +37,14 @@ export const statusBarDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The session and the separator after it are hidden while there is no session.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The session's tooltip says nothing of whether the session is stale.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The slots are drawn from the slot list rather than from the readings that answered.",
     },
@@ -50,5 +58,5 @@ export const statusBarDrawing = {
     },
   ],
   createdAt: "2026-09-03T16:24:54.522Z",
-  updatedAt: "2026-10-18T13:34:01.244Z",
+  updatedAt: "2026-10-18T14:26:30.494Z",
 } as const satisfies Module

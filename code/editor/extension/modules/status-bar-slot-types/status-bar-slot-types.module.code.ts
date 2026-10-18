@@ -10,6 +10,8 @@ export type FigureSlotDef<Kind extends string, Reading> = {
   readonly read: (reading: Reading) => string
 }
 
+type SessionSlotDef = FigureSlotDef<"session", string>
+
 type UsageSlotDef = FigureSlotDef<"usage", UsageReading>
 
 type WorkstationSlotDef = FigureSlotDef<"workstation", WorkstationReading>
@@ -18,6 +20,7 @@ type SeparatorSlotDef = {
   readonly kind: "separator"
   readonly id: string
   readonly priority: number
+  readonly after?: "session"
 }
 
 const STOPLIGHTS_SECTIONS = ["resources", "inbox"] as const
@@ -31,4 +34,13 @@ type StoplightsSlotDef = {
   readonly section: StoplightsSection
 }
 
-export type SlotDef = WorkstationSlotDef | UsageSlotDef | SeparatorSlotDef | StoplightsSlotDef
+export type SlotDef =
+  | SessionSlotDef
+  | WorkstationSlotDef
+  | UsageSlotDef
+  | SeparatorSlotDef
+  | StoplightsSlotDef
+
+export function shownWithSession(slot: SlotDef): boolean {
+  return slot.kind === "session" || (slot.kind === "separator" && slot.after === "session")
+}
