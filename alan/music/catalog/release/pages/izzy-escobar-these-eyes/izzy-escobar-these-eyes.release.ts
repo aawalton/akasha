@@ -7,7 +7,7 @@ export const izzyEscobarTheseEyes = {
   title: "These Eyes",
   partOfCollections: ["artist/izzy-escobar"],
   position: 0,
-  ownLength: 2.754017,
+  ownLength: 2.754016666666667,
   ownProgress: 2.754017,
   unit: "unit/minutes",
   status: "completed",
@@ -22,5 +22,5 @@ export const izzyEscobarTheseEyes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-18T13:45:27.615Z",
 } as const satisfies Release

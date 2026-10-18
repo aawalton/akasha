@@ -7,7 +7,7 @@ export const izzyEscobarSunnyInLondonAcoustic = {
   title: "Sunny in London (Acoustic)",
   partOfCollections: ["artist/izzy-escobar"],
   position: 0,
-  ownLength: 26.813233,
+  ownLength: 26.813233333333333,
   ownProgress: 26.813233,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const izzyEscobarSunnyInLondonAcoustic = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-09-15T16:36:07.000Z",
+  updatedAt: "2026-10-18T13:45:27.615Z",
 } as const satisfies Release
