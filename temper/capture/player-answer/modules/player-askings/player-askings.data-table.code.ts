@@ -1615,4 +1615,15 @@ export const PLAYER_ASKINGS: Readonly<Record<string, readonly string[]>> = {
     "IsGroupFinderSearchListingActiveApplication",
     "IsLoadoutRoleEquippedAtIndex",
   ],
+  "questId": [
+    "GetCompletedQuestInfo",
+    "GetCompletedQuestLocationInfo",
+    "GetOfferedQuestShareInfo",
+    "GetQuestName",
+    "GetQuestRepeatableType",
+    "GetQuestType",
+    "GetQuestZoneId",
+    "HasCompletedQuest",
+    "HasQuest",
+  ],
 }
