@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"definer.role.ts","path":"page/service/modules/page-picking/page-picking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"definer.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a14f20-9e11-7000-a53b-1e2e9cc76a9a"}
 {"propertySlug":"role","path":"agent/seat/pages/ember/ember.seat.ts","id":"01a11baf-5fc0-7000-85d2-7cfbcbde7521"}
 {"propertySlug":"role","path":"persona/pages/aine/aine.persona.ts","id":"019eb8d9-abdd-7890-b2cb-ec3e9dbd8b19"}
 {"propertySlug":"role","path":"persona/pages/akasha/akasha.persona.ts","id":"01a04978-48a1-79c8-8ea9-840a19c247da"}
