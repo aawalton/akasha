@@ -17,6 +17,10 @@ const CT_BUTTON = DRAWN.CT_BUTTON ?? 2
 
 const CT_SCROLL = DRAWN.CT_SCROLL ?? 12
 
+const TOPLEFT = DRAWN.TOPLEFT ?? 3
+
+const AT_TOP_LEFT = { point: TOPLEFT, relativePoint: TOPLEFT, offsetX: 0, offsetY: 0 }
+
 type Part = {
   readonly name?: string
   readonly controlType?: number
@@ -65,7 +69,7 @@ function control(part: Part): UiControl {
     textureCoords: part.textureCoords,
     normalTexture: part.normalTexture,
     insets: part.insets,
-    anchors: [],
+    anchors: [AT_TOP_LEFT],
     handlers: [],
     children: part.children ?? [],
   }

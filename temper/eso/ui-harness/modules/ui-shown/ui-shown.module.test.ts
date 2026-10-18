@@ -14,8 +14,13 @@ type Part = {
   readonly hidden?: boolean
   readonly drawLayer?: number
   readonly drawLevel?: number
+  readonly anchored?: boolean
   readonly children?: readonly UiControl[]
 }
+
+const TOPLEFT = DRAWN.TOPLEFT ?? 3
+
+const AT_TOP_LEFT = { point: TOPLEFT, relativePoint: TOPLEFT, offsetX: 0, offsetY: 0 }
 
 function control(part: Part): UiControl {
   return {
@@ -29,7 +34,7 @@ function control(part: Part): UiControl {
     alpha: 1,
     drawLayer: part.drawLayer,
     drawLevel: part.drawLevel,
-    anchors: [],
+    anchors: part.anchored === false ? [] : [AT_TOP_LEFT],
     handlers: [],
     children: part.children ?? [],
   }
@@ -84,5 +89,14 @@ describe("shownIn", () => {
   test("leaves out a hidden control and everything under it", () => {
     const gone = control({ name: "Gone", hidden: true, children: [control({ name: "Under" })] })
     expect(namesOf(control({ name: "Screen", children: [gone] }))).toEqual(["Screen"])
+  })
+
+  test("leaves out a control no anchor places and everything under it", () => {
+    const loose = control({
+      name: "Loose",
+      anchored: false,
+      children: [control({ name: "Under" })],
+    })
+    expect(namesOf(control({ name: "Screen", children: [loose] }))).toEqual(["Screen"])
   })
 })

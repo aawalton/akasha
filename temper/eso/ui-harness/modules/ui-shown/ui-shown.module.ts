@@ -14,6 +14,14 @@ export const uiShown = {
     },
     {
       decisionKind: "decision-kind/constraint",
+      statement: "The game draws no control that no anchor places.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control with no anchor and everything under it are left out.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
       statement: "The game fades a control by its own alpha times that of every control above it.",
     },
     {
@@ -57,5 +65,5 @@ export const uiShown = {
     },
   ],
   createdAt: "2026-09-25T19:28:50.204Z",
-  updatedAt: "2026-09-25T21:30:59.000Z",
+  updatedAt: "2026-10-18T18:53:57.612Z",
 } as const satisfies Module
