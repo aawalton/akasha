@@ -26,6 +26,11 @@ export const windowControls = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A text button showing the game's checkbox art is a checkbox and keeps no button art.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A dropdown, slider, scroll bar and checkbox keep the game's templates untouched.",
     },
     {
@@ -60,5 +65,5 @@ export const windowControls = {
     },
   ],
   createdAt: "2026-09-25T16:33:01.934Z",
-  updatedAt: "2026-10-18T19:13:40.644Z",
+  updatedAt: "2026-10-18T19:19:06.914Z",
 } as const satisfies Module

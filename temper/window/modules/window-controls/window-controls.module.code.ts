@@ -182,8 +182,12 @@ function hasText(button: ButtonControl): boolean {
   return typeof text === "string" && text !== ""
 }
 
-function clickable(button: ButtonControl): boolean {
-  return button.GetHandler("OnClicked") !== undefined
+const CHECKBOX_ART = "art/buttons/checkbox_"
+
+function pushable(button: ButtonControl): boolean {
+  if (button.GetHandler("OnClicked") === undefined) return false
+  const text: unknown = button.GetLabelControl()?.GetText()
+  return !(typeof text === "string" && string.lower(text).includes(CHECKBOX_ART))
 }
 
 function styleTextButton(button: ButtonControl): undefined {
@@ -204,7 +208,7 @@ export function styleControlsUnder(root: Control): undefined {
       continue
     }
     if (kind === CT_BUTTON && hasText(child as ButtonControl)) {
-      if (clickable(child as ButtonControl)) styleTextButton(child as ButtonControl)
+      if (pushable(child as ButtonControl)) styleTextButton(child as ButtonControl)
       continue
     }
     styleControlsUnder(child)
