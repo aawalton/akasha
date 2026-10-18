@@ -19,15 +19,13 @@ export const scrollableMenuControls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Dividers and header rules are 1px lines in the fourth surface's gray, not game art.",
+      statement: "Dividers and header rules are the game's horizontal divider art.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The submenu arrow, the filter's reset, the header's collapse and the sort buttons are lucide icons.",
+      statement: "The submenu arrow, reset, collapse and sort buttons are the game's own art.",
     },
   ],
   createdAt: "2026-09-02T14:11:20.263Z",
-  updatedAt: "2026-09-25T22:29:42.000Z",
+  updatedAt: "2026-10-18T17:39:20.319Z",
 } as const satisfies EsoInterface

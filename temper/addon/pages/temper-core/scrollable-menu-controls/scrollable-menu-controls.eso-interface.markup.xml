@@ -8,8 +8,8 @@
 		<Backdrop name="TemperScrollableMenu_Highlight_Opaque" inherits="ZO_SelectionHighlight" virtual="true" blendMode="ADD" centerColor="0F0F0F" edgeColor="0F0F0F"/>
 
 		<!-- Divider | no icon no handlers -->
-		<Texture name="TemperScrollableMenu_ComboBoxDividerEntry" color="3A3A3A" virtual="true">
-			<Dimensions y="1" />
+		<Texture name="TemperScrollableMenu_ComboBoxDividerEntry" textureFile="EsoUI/Art/Miscellaneous/horizontalDivider.dds" virtual="true">
+			<Dimensions y="4" />
 			<Anchor point="LEFT" offsetX="0" offsetY="0" />
 			<Anchor point="RIGHT" offsetX="0" offsetY="0" />
 		</Texture>
@@ -173,8 +173,8 @@
 					<Anchor point="BOTTOMRIGHT" offsetX="ZO_COMBO_BOX_ENTRY_TEMPLATE_LABEL_PADDING" offsetY="-5"  />
 				</Label>
 				<!-- ZoFontWinH5 inherits="ZO_HorizontalDivider" inherits="ZO_WideHorizontalDivider" offsetY="4" -->
-				<Texture name="$(parent)Divider" color="3A3A3A">
-					<Dimensions y="1" />
+				<Texture name="$(parent)Divider" textureFile="EsoUI/Art/Miscellaneous/horizontalDivider.dds">
+					<Dimensions y="4" />
 					<Anchor point="BOTTOMLEFT" offsetX="0" offsetY="-2"/>
 					<Anchor point="BOTTOMRIGHT" offsetX="0" offsetY="-2" />
 				</Texture>
@@ -292,7 +292,7 @@
 					<Anchor point="TOPLEFT" relativeTo="$(parent)IconContainer" relativePoint="TOPRIGHT" offsetX="1" />
 					<Anchor point="RIGHT" offsetX="-25" />
 				</Label>
-				<Texture name="$(parent)Arrow" textureFile="Temper/bin/textures/chevron-right.dds">
+				<Texture name="$(parent)Arrow" textureFile="EsoUI/Art/Buttons/tree_closed_up.dds">
 					<Dimensions x="16"  y="16"/>
 					<Anchor point="LEFT" relativeTo="$(parent)Label" relativePoint="RIGHT" offsetY="1"/>
 				</Texture>
@@ -479,8 +479,8 @@
 									<AnchorFill />
 								</Texture>
 								
-								<Texture name="$(parent)Divider" color="3A3A3A">
-									<Dimensions y="1" />
+								<Texture name="$(parent)Divider" textureFile="EsoUI/Art/Miscellaneous/horizontalDivider.dds">
+									<Dimensions y="4" />
 									<Anchor point="BOTTOMLEFT" offsetY="0"/>
 									<Anchor point="BOTTOMRIGHT" offsetY="0" />
 								</Texture>
@@ -519,9 +519,9 @@
 									<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="2" offsetY="4" />
 
 									<Textures
-											normal="Temper/bin/textures/arrow-up.dds"
-											pressed="Temper/bin/textures/arrow-up.dds"
-											mouseOver="Temper/bin/textures/arrow-up.dds"
+											normal="EsoUI/Art/Miscellaneous/list_sortUp.dds"
+											pressed="EsoUI/Art/Miscellaneous/list_sortUp.dds"
+											mouseOver="EsoUI/Art/Miscellaneous/list_sortUp.dds"
 									/>
 
 									<OnMouseEnter>
@@ -541,9 +541,9 @@
 									<Anchor point="BOTTOMLEFT" relativeTo="$(parent)" relativePoint="BOTTOMLEFT" offsetX="2" offsetY="-4" />
 
 									<Textures
-											normal="Temper/bin/textures/arrow-down.dds"
-											pressed="Temper/bin/textures/arrow-down.dds"
-											mouseOver="Temper/bin/textures/arrow-down.dds"
+											normal="EsoUI/Art/Miscellaneous/list_sortDown.dds"
+											pressed="EsoUI/Art/Miscellaneous/list_sortDown.dds"
+											mouseOver="EsoUI/Art/Miscellaneous/list_sortDown.dds"
 									/>
 
 									<OnMouseEnter>
@@ -570,9 +570,9 @@
 									<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="4" offsetY="8" />
 
 									<Textures
-										normal="Temper/bin/textures/rotate-ccw.dds"
-										pressed="Temper/bin/textures/rotate-ccw.dds"
-										mouseOver="Temper/bin/textures/rotate-ccw.dds"
+										normal="EsoUI/Art/Buttons/decline_up.dds"
+										pressed="EsoUI/Art/Buttons/decline_down.dds"
+										mouseOver="EsoUI/Art/Buttons/decline_over.dds"
 									/>
 
 									<OnMouseEnter>
@@ -669,13 +669,13 @@
 							</OnInitialized>
 
 							<Textures
-								normal="Temper/bin/textures/chevron-up.dds"
-								mouseOver="Temper/bin/textures/chevron-up.dds"
-								disabled="Temper/bin/textures/chevron-up.dds"
+								normal="EsoUI/Art/Buttons/large_upArrow_up.dds"
+								mouseOver="EsoUI/Art/Buttons/large_upArrow_over.dds"
+								disabled="EsoUI/Art/Buttons/large_upArrow_disabled.dds"
 
-								pressed="Temper/bin/textures/chevron-down.dds"
-								pressedMouseOver="Temper/bin/textures/chevron-down.dds"
-								disabledPressed="Temper/bin/textures/chevron-down.dds"
+								pressed="EsoUI/Art/Buttons/large_downArrow_up.dds"
+								pressedMouseOver="EsoUI/Art/Buttons/large_downArrow_over.dds"
+								disabledPressed="EsoUI/Art/Buttons/large_downArrow_disabled.dds"
 							/>
 
 							<OnMouseEnter>
