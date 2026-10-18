@@ -1,5 +1,4 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/akasha-recorder/akasha-recorder.seat.ts","id":"01a149a5-33b5-7000-829c-6293af956cb4"}
-{"propertySlug":"assignment-slug","path":"agent/seat/pages/nina/nina.seat.ts","id":"01a14f42-2999-7000-bce5-825640a4dc1d"}
 {"propertySlug":"championed-domain","path":"persona/pages/akasha/akasha.persona.ts","id":"01a04978-48a1-79c8-8ea9-840a19c247da"}
 {"propertySlug":"import","fileName":"akasha.domain.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"akasha.domain.ts","path":"agent/subagent/modules/census/subagent-census.module.test-fixtures.ts","typed":false,"deferred":false}
