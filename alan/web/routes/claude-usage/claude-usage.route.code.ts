@@ -3,6 +3,7 @@ import { anthropic } from "akasha/agent/model/provider/pages/anthropic/anthropic
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
   groupServedBy,
+  inGroup,
   type WordsByWireKey,
   wordsInGroup,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
@@ -42,8 +43,6 @@ const SERVED_BY = namedAs(route.slug, claudeUsage.slug, null)
 const READOUT = "readout"
 
 const READOUT_SCALE = "readout-scale"
-
-const READOUT_GROUP = "readout-group"
 
 const MEAN_WEEKLY_USED = "the fleet's seven-day spend"
 const NEXT_FIVE_HOUR_BACK = "the next five-hour window to come back"
@@ -198,12 +197,9 @@ function tierFor(
 }
 
 export async function colorRungsIn(groupSlug: string): Promise<readonly Rung[]> {
-  const grouped = await askingFor({
-    pageTypeSlug: READOUT,
-    where: { groups: { has: namedAs(READOUT_GROUP, groupSlug, null) } },
-  })
+  const grouped = await askingFor({ pageTypeSlug: READOUT })
   if ("refused" in grouped) return []
-  const colorFrom = grouped.rows
+  const colorFrom = inGroup(grouped.rows, groupSlug)
     .map((row) => stated(row.colorFrom))
     .find((one) => one !== undefined)
   if (colorFrom === undefined) return []

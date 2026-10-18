@@ -1,5 +1,8 @@
 import { onTheWorkstation } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.code.ts"
-import { stilled } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
+import {
+  inGroup,
+  stilled,
+} from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import { stated } from "akasha/alan/harness/readout/modules/none-left/readout-none-left.module.code.ts"
 import {
   climbs,
@@ -10,7 +13,7 @@ import { sleepIn } from "akasha/alan/harness/sleep/readouts/upkeep-sleep/upkeep-
 import { isTierColor } from "akasha/alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.code.ts"
 import { surplusIn } from "akasha/alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"
 import { dayValuesByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
-import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -24,8 +27,6 @@ export interface Readout {
 const READOUT_PAGE_TYPE_SLUG = "readout"
 
 const READOUT_SCALE_PAGE_TYPE_SLUG = "readout-scale"
-
-const READOUT_GROUP_PAGE_TYPE_SLUG = "readout-group"
 
 type Values = Readonly<Record<string, unknown>>
 
@@ -73,13 +74,10 @@ async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
 
 export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
   const rows = await rowsOf(
-    {
-      pageTypeSlug: READOUT_PAGE_TYPE_SLUG,
-      where: { groups: { has: namedAs(READOUT_GROUP_PAGE_TYPE_SLUG, groupSlug, null) } },
-    },
+    { pageTypeSlug: READOUT_PAGE_TYPE_SLUG },
     `resolveOneReadout: the readouts of the group \`${groupSlug}\` went unread, so what is being watched is unknown`
   )
-  const drawn = rows.filter((one) => !stilled(one))
+  const drawn = inGroup(rows, groupSlug).filter((one) => !stilled(one))
   const [row, ...rest] = drawn
   if (row === undefined || rest.length > 0) {
     throw new Error(

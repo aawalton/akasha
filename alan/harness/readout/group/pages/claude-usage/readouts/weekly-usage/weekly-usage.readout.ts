@@ -7,10 +7,9 @@ export const weeklyUsage = {
   definition: "how much of the weekly Claude allowance the pool has spent",
   label: "Weekly Usage",
   unit: "%",
-  place: 1,
   drawnAs: "number",
   colorFrom: "readout/weekly-ends",
-  groups: ["readout-group/claude-usage"],
+  groups: [{ group: "readout-group/claude-usage", place: 1 }],
   wireKey: "weekly-usage",
   decisions: [
     {
@@ -41,5 +40,5 @@ export const weeklyUsage = {
     },
   ],
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-09-24T19:24:17.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

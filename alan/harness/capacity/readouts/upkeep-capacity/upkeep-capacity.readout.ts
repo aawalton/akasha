@@ -8,9 +8,8 @@ export const upkeepCapacity = {
   reading: {},
   label: "Capacity",
   unit: "hours",
-  place: 3,
   scale: "readout-scale/capacity-hours",
-  groups: ["readout-group/upkeep"],
+  groups: [{ group: "readout-group/upkeep", place: 3 }],
   wireKey: "capacity",
   servedBy: ["module/capacity-reading", "service-workstation/capacity-relay-service"],
   decisions: [
@@ -77,5 +76,5 @@ export const upkeepCapacity = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-09-02T12:55:32.938Z",
-  updatedAt: "2026-09-25T17:20:07.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

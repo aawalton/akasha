@@ -16,3 +16,4 @@
 {"propertySlug":"import","fileName":"readout-group.page-type.types.ts","path":"alan/harness/readout/group/pages/workstation/workstation.readout-group.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
 {"propertySlug":"target-page-type","path":"alan/harness/readout/properties/groups.multi-relation-property.ts","id":"01a05446-e765-7da7-afdf-68470bd5fc40"}
+{"propertySlug":"target-page-type","path":"alan/harness/readout/properties/readout-group.relation-property.ts","id":"01a14f32-dce0-7481-b235-42c6a2fdb2a6"}

@@ -7,9 +7,8 @@ export const costMultiplier = {
   definition: "what an hour of the block Alan is in costs him",
   reading: {},
   label: "Cost",
-  place: 1,
   colorFrom: "readout/upkeep-surplus",
-  groups: ["readout-group/cost"],
+  groups: [{ group: "readout-group/cost", place: 1 }],
   wireKey: "cost",
   servedBy: ["module/cost-reading", "service-workstation/cost-relay-service"],
   decisions: [
@@ -53,5 +52,5 @@ export const costMultiplier = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "open-block",
   createdAt: "2026-09-10T13:57:57.394Z",
-  updatedAt: "2026-09-25T17:20:07.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

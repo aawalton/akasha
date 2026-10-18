@@ -31,10 +31,9 @@ const READOUT_ROW = {
   slug: READOUT,
   label: "Surplus",
   unit: "hours",
-  place: 2,
   scale: "surplus-hours",
   wireKey: GROUP,
-  groups: [GROUP],
+  groups: [{ group: GROUP, place: 1 }],
 }
 
 const SCALE_ROW = {

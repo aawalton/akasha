@@ -7,9 +7,8 @@ export const inboxesEmail = {
   definition: "how near Alan's mail came to empty today",
   label: "Email",
   unit: "messages",
-  place: 1,
   scale: "readout-scale/inbox-count",
-  groups: ["readout-group/inboxes"],
+  groups: [{ group: "readout-group/inboxes", place: 1 }],
   wireKey: "email",
   servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],
   countedOn: "opened-day",
@@ -45,5 +44,5 @@ export const inboxesEmail = {
   ],
   carriedTo: ["router-app/alan-web"],
   createdAt: "2026-09-02T12:55:53.429Z",
-  updatedAt: "2026-09-26T13:32:22.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

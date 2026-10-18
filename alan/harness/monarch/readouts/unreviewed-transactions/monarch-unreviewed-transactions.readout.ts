@@ -8,9 +8,8 @@ export const monarchUnreviewedTransactions = {
   reading: {},
   label: "Unreviewed",
   unit: "transactions",
-  place: 1,
   scale: "readout-scale/backlog-count",
-  groups: ["readout-group/categorization"],
+  groups: [{ group: "readout-group/categorization", place: 1 }],
   noneLeftWords: "All reviewed!",
   noneLeftEmoji: "🎉",
   wireKey: "unreviewed",
@@ -62,5 +61,5 @@ export const monarchUnreviewedTransactions = {
   ],
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   createdAt: "2026-08-30T17:15:09.786Z",
-  updatedAt: "2026-10-14T19:47:51.410Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

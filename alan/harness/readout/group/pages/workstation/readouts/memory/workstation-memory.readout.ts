@@ -8,9 +8,8 @@ export const workstationMemory = {
   reading: {},
   label: "Memory",
   unit: "gigabytes",
-  place: 2,
   drawnAs: "number",
-  groups: ["readout-group/workstation"],
+  groups: [{ group: "readout-group/workstation", place: 2 }],
   wireKey: "memory",
   servedBy: ["module/workstation-load-sampling"],
   decisions: [
@@ -48,5 +47,5 @@ export const workstationMemory = {
     },
   ],
   createdAt: "2026-09-14T14:49:36.994Z",
-  updatedAt: "2026-09-25T17:40:33.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

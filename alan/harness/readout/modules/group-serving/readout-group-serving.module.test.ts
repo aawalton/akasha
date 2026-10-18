@@ -1,7 +1,7 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import {
   answerStoplightsAdmittedBy,
-  inPlaceOrder,
+  inGroup,
   servedInGroup,
   stoplightsInGroup,
   wordsInGroup,
@@ -16,6 +16,7 @@ import {
   GROUP_ROW,
   keysAnswered,
   keysDrawn,
+  memberAt,
   OTHER,
   OTHER_ROW,
   offScaleDrawn,
@@ -255,13 +256,13 @@ test("a scale the store withholds leaves its readout out rather than colored", a
   expect((await drawn()).status).toBe(503)
 })
 
-test("the readouts are answered in the order the place on each page states", () => {
-  const ordered = inPlaceOrder([
-    { slug: "c", place: 9 },
-    { slug: "a", place: 1 },
-    { slug: "b", place: 4 },
+test("a group holds its readouts in the place and label each states", () => {
+  const held = inGroup([memberAt("c", 9), memberAt("a", 1, "A"), memberAt("b", 4), {}], GROUP)
+  expect(held.map((row) => [row.slug, row.label])).toEqual([
+    ["a", "A"],
+    ["b", undefined],
+    ["c", undefined],
   ])
-  expect(ordered.map((row) => row.slug)).toEqual(["a", "b", "c"])
 })
 
 test("a caller wanting the colors without a route asks for the group on its own", async () => {

@@ -7,10 +7,9 @@ export const attributeWisdom = {
   definition: "the points Alan earned on a day for the words he added about himself",
   label: "WIS",
   unit: "points",
-  place: 4,
   scale: "readout-scale/wisdom-points",
   attribute: "attribute/wisdom",
-  groups: ["readout-group/attributes"],
+  groups: [{ group: "readout-group/attributes", place: 4 }],
   wireKey: "wisdom",
   servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
@@ -42,5 +41,5 @@ export const attributeWisdom = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-03T17:02:13.678Z",
-  updatedAt: "2026-09-25T17:20:07.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

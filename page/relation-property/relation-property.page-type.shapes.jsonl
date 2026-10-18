@@ -218,6 +218,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"reading-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-mechanic","unique":null,"uniquePropertySlug":null,"slug":"reading-mechanic","propertySlug":"mechanic","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"color","unique":null,"uniquePropertySlug":null,"slug":"readout-color","propertySlug":"color","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"readout-group","unique":null,"uniquePropertySlug":null,"slug":"readout-group","propertySlug":"group","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"relationship","unique":null,"uniquePropertySlug":null,"slug":"readout-relationship","propertySlug":"relationship","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"alan-book","unique":null,"uniquePropertySlug":null,"slug":"record-book","propertySlug":"book","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"model-account","unique":null,"uniquePropertySlug":null,"slug":"registration-account","propertySlug":"registration-account","fileName":null,"folderName":null}

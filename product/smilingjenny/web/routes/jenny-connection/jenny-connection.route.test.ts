@@ -32,10 +32,9 @@ const READOUT_ROW = {
   slug: READOUT,
   label: "Connection",
   unit: "points",
-  place: 1,
   scale: "attribute-points",
   wireKey: "connection",
-  groups: [GROUP],
+  groups: [{ group: GROUP, place: 1 }],
 }
 
 const SCALE_ROW = {

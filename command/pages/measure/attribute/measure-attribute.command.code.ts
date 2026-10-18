@@ -15,7 +15,10 @@ import {
   type Measured,
   PLACES,
 } from "akasha/command/pages/measure/modules/tabling/measure-tabling.module.code.ts"
-import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  recordsIn,
+  slugOf,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 const READOUT = "readout"
@@ -37,11 +40,18 @@ type Read = {
   readonly unread: readonly string[]
 }
 
+function placeIn(groups: unknown): number {
+  const places = recordsIn(groups).flatMap((one) =>
+    typeof one.place === "number" ? [one.place] : []
+  )
+  return places.length === 0 ? 0 : Math.min(...places)
+}
+
 function drawnIn(root: string): readonly Drawn[] {
   const found: Drawn[] = []
   const asked = asking(root, {
     pageTypeSlug: READOUT,
-    keys: ["slug", "label", "place", "attribute"],
+    keys: ["slug", "label", "groups", "attribute"],
   } as never)
   if ("refused" in asked) throw new Error(asked.refused)
   for (const row of asked.rows) {
@@ -50,8 +60,7 @@ function drawnIn(root: string): readonly Drawn[] {
     if (named === "") continue
     const attributeSlug = slugOf(named)
     const label = String(one["label"] ?? one["slug"] ?? "")
-    const place = typeof one["place"] === "number" ? one["place"] : 0
-    found.push({ label, place, attributeSlug })
+    found.push({ label, place: placeIn(one["groups"]), attributeSlug })
   }
   found.sort((one, two) => one.place - two.place)
   return found

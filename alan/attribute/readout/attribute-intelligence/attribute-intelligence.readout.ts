@@ -7,10 +7,9 @@ export const attributeIntelligence = {
   definition: "the points Alan earned on a day for the learn-everything topics he updated",
   label: "INT",
   unit: "points",
-  place: 5,
   scale: "readout-scale/attribute-points",
   attribute: "attribute/intelligence",
-  groups: ["readout-group/attributes"],
+  groups: [{ group: "readout-group/attributes", place: 5 }],
   wireKey: "intelligence",
   servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
@@ -42,5 +41,5 @@ export const attributeIntelligence = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-03T17:02:13.721Z",
-  updatedAt: "2026-09-25T17:20:07.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

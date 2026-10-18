@@ -1,4 +1,4 @@
-{"propertySlug":"groups","path":"alan/harness/attribute/readouts/connection-with-jenny/connection-with-jenny.readout.ts","id":"01a13584-9f8b-76ab-9b23-bb7c8a172972"}
 {"propertySlug":"groups","path":"alan/harness/readout/widget/pages/smilingjenny-connection.readout-widget.ts","id":"01a1358f-67b0-7398-b48f-98b8246948bd"}
 {"propertySlug":"import","fileName":"connection.readout-group.ts","path":"product/smilingjenny/web/routes/jenny-connection/jenny-connection.route.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/readout/group/readout-group.page-type.ts","id":"01a05446-e75e-7657-acda-566edc2b182e"}
+{"propertySlug":"readout-group","path":"alan/harness/attribute/readouts/connection-with-jenny/connection-with-jenny.readout.ts","id":"01a13584-9f8b-76ab-9b23-bb7c8a172972"}

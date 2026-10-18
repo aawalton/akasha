@@ -7,10 +7,9 @@ export const attributeCharisma = {
   definition: "the points Alan earned on a day for the hours with someone that cost him nothing",
   label: "CHA",
   unit: "points",
-  place: 6,
   scale: "readout-scale/attribute-points",
   attribute: "attribute/charisma",
-  groups: ["readout-group/attributes"],
+  groups: [{ group: "readout-group/attributes", place: 6 }],
   wireKey: "charisma",
   servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
@@ -42,5 +41,5 @@ export const attributeCharisma = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-09-03T17:02:13.775Z",
-  updatedAt: "2026-09-25T17:20:07.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

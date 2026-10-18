@@ -8,9 +8,11 @@ export const upkeepSafety = {
   reading: {},
   label: "Safety",
   unit: "levels",
-  place: 1,
   scale: "readout-scale/safety-level",
-  groups: ["readout-group/upkeep", "readout-group/safety"],
+  groups: [
+    { group: "readout-group/upkeep", place: 1 },
+    { group: "readout-group/safety", place: 1 },
+  ],
   wireKey: "safety",
   servedBy: ["module/safety-reading", "service-workstation/safety-relay-service"],
   decisions: [
@@ -63,5 +65,5 @@ export const upkeepSafety = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "open-block",
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-09-25T17:20:07.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

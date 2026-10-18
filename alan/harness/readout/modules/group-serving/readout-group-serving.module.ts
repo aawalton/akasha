@@ -28,11 +28,21 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The readouts are answered in the order the place on each page states.",
+      statement:
+        "The readouts are answered in the order of the place each page states for the group.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The label and the unit answered are the ones the readout's own page has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A label the readout's page states for the group is answered over its own label.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Which readouts a group holds is read off the rows rather than asked of the store.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -288,7 +298,7 @@ export const readoutGroupServing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The rows a store answers an ask with are the rows that ask names, by slug or by group.",
+        "The rows a store answers an ask with are the rows that ask names, by slug or by what serves them.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -361,5 +371,5 @@ export const readoutGroupServing = {
     },
   ],
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-09-25T16:52:49.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Module

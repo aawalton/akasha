@@ -20,8 +20,10 @@ import {
   type TierColor,
   tierAt,
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
-import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  recordsIn,
+  slugOf,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   askingFor,
   type Fetcher,
@@ -60,8 +62,26 @@ export type Values = Readonly<Record<string, unknown>>
 
 export type ReadingHeld = (row: Values) => HeldReading
 
-export function inPlaceOrder(rows: readonly Values[]): readonly Values[] {
-  return [...rows].sort((one, two) => (statedAt(one.place) ?? 0) - (statedAt(two.place) ?? 0))
+function groupHeldIn(row: Values, groupSlug: string): Values | null {
+  for (const one of recordsIn(row.groups)) {
+    const named = stated(one.group)
+    if (named !== undefined && slugOf(named) === groupSlug) return one
+  }
+  return null
+}
+
+export function inGroup(rows: readonly Values[], groupSlug: string): readonly Values[] {
+  const found: { readonly place: number; readonly row: Values }[] = []
+  for (const row of rows) {
+    const held = groupHeldIn(row, groupSlug)
+    if (held === null) continue
+    const label = stated(held.label)
+    found.push({
+      place: statedAt(held.place) ?? 0,
+      row: label === undefined ? row : { ...row, label },
+    })
+  }
+  return found.sort((one, two) => one.place - two.place).map((one) => one.row)
 }
 
 function scaleSlugIn(row: Values): string | undefined {
@@ -198,17 +218,11 @@ export async function servedInGroup(
   const { figureOffScale, wireKeyName } = await groupStated(groupSlug, fetcher)
   if (wireKeyName === null) return { wireKeyName, stoplights: [] }
 
-  const asked = await askingFor(
-    {
-      pageTypeSlug: READOUT,
-      where: { groups: { has: namedAs(READOUT_GROUP, groupSlug, null) } },
-    },
-    fetcher
-  )
+  const asked = await askingFor({ pageTypeSlug: READOUT }, fetcher)
   if ("refused" in asked) return { wireKeyName, stoplights: [] }
 
   const stoplights: Stoplighted[] = []
-  for (const row of inPlaceOrder(asked.rows)) {
+  for (const row of inGroup(asked.rows, groupSlug)) {
     if (stilled(row)) continue
     const one = await stoplightOf(row, wireKeyName, readingHeld, fetcher)
     if (one !== null) stoplights.push(figureOffScale ? { ...one, figureOffScale } : one)
@@ -237,17 +251,11 @@ function wordsServedOn(row: Values): ReadoutWords {
 }
 
 export async function wordsInGroup(groupSlug: string, fetcher?: Fetcher): Promise<WordsByWireKey> {
-  const asked = await askingFor(
-    {
-      pageTypeSlug: READOUT,
-      where: { groups: { has: namedAs(READOUT_GROUP, groupSlug, null) } },
-    },
-    fetcher
-  )
+  const asked = await askingFor({ pageTypeSlug: READOUT }, fetcher)
   if ("refused" in asked) return {}
 
   const words: Record<string, ReadoutWords> = {}
-  for (const row of asked.rows) {
+  for (const row of inGroup(asked.rows, groupSlug)) {
     if (stilled(row)) continue
     const wireKey = stated(row.wireKey)
     if (wireKey !== undefined) words[wireKey] = wordsServedOn(row)

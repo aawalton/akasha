@@ -9,7 +9,7 @@ import type {
   StatusBarStoplights,
 } from "akasha/alan/harness/code-editor/data-interface/pages/status-bar/status-bar.code-editor-data-interface.code.ts"
 import {
-  inPlaceOrder,
+  inGroup,
   type Stoplight,
   stilled,
   stoplightWith,
@@ -34,10 +34,7 @@ import {
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
-import {
-  slugOf,
-  slugsIn,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const READOUT = "01a05446-e760-7cb2-848b-4fcfc7ed45d4"
 
@@ -79,10 +76,6 @@ function heldOfType(root: string, pageType: string): readonly Held[] {
     found.push({ at: one.path, values: wholeValue(root, one.path, one.value) })
   }
   return found
-}
-
-function namesGroup(values: Values, groupSlug: string): boolean {
-  return slugsIn(values.groups).includes(groupSlug)
 }
 
 export function watchedFoldersIn(root: string): readonly string[] {
@@ -128,7 +121,7 @@ function stoplightsIn(
   const { wireKeyName, figureOffScale } = group
   if (wireKeyName === null) return []
   const found: Stoplight[] = []
-  for (const row of inPlaceOrder(rows.filter((one) => namesGroup(one, group.slug)))) {
+  for (const row of inGroup(rows, group.slug)) {
     if (stilled(row)) continue
     const named = textAt(row, "scale")
     const scaleSlug = named === null ? null : slugOf(named)
@@ -146,7 +139,7 @@ function sectionOf(stoplights: readonly Stoplight[]): StatusBarStoplights | null
 
 function figuresOn(rows: readonly Values[]): WorkstationReading {
   const figures: Record<string, number | null> = {}
-  for (const row of inPlaceOrder(rows)) {
+  for (const row of rows) {
     if (stilled(row)) continue
     const wireKey = textAt(row, WIRE_KEY)
     if (wireKey === null) continue
@@ -174,7 +167,7 @@ export function statusBarLine(root: string): string {
   const drawn = (section: string): StatusBarStoplights | null =>
     sectionOf(inSection(section).flatMap((group) => stoplightsIn(group, rows, rungsBy)))
   const working = inSection(WORKSTATION_SECTION)
-  const workstationRows = rows.filter((row) => working.some((one) => namesGroup(row, one.slug)))
+  const workstationRows = working.flatMap((one) => inGroup(rows, one.slug))
   return JSON.stringify({
     workstation: workstationReadingOf(figuresOn(workstationRows)),
     usage: usageNow(),

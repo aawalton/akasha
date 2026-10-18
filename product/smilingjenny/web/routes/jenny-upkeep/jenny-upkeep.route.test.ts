@@ -45,37 +45,39 @@ const SLEEP = "upkeep-sleep"
 const SAFETY_ROW = {
   slug: SAFETY,
   label: "Safety",
-  place: 1,
   scale: `${readoutScale.slug}/${safetyLevel.slug}`,
   wireKey: "safety",
-  groups: [GROUP_AT, `${readoutGroup.slug}/${safetyGroup.slug}`],
+  groups: [
+    { group: GROUP_AT, place: 1 },
+    { group: `${readoutGroup.slug}/${safetyGroup.slug}`, place: 1 },
+  ],
 }
 
 const SURPLUS_ROW = {
   slug: SURPLUS,
   label: "Surplus",
-  place: 2,
   scale: `${readoutScale.slug}/${surplusHours.slug}`,
   wireKey: "surplus",
-  groups: [GROUP_AT, `${readoutGroup.slug}/${surplusGroup.slug}`],
+  groups: [
+    { group: GROUP_AT, place: 2 },
+    { group: `${readoutGroup.slug}/${surplusGroup.slug}`, place: 1 },
+  ],
 }
 
 const CAPACITY_ROW = {
   slug: CAPACITY,
   label: "Capacity",
-  place: 3,
   scale: `${readoutScale.slug}/${capacityHours.slug}`,
   wireKey: "capacity",
-  groups: [GROUP_AT],
+  groups: [{ group: GROUP_AT, place: 3 }],
 }
 
 const SLEEP_ROW = {
   slug: SLEEP,
   label: "Sleep",
-  place: 6,
   scale: `${readoutScale.slug}/${sleepHours.slug}`,
   wireKey: "sleep",
-  groups: [GROUP_AT],
+  groups: [{ group: GROUP_AT, place: 6 }],
 }
 
 const SCALE_ROWS: readonly Record<string, unknown>[] = [
@@ -205,10 +207,9 @@ test("a readout joining the group reaches the tile without this route changing",
     {
       slug: "upkeep-steps",
       label: "Steps",
-      place: 4,
       scale: `${readoutScale.slug}/${safetyLevel.slug}`,
       wireKey: "steps",
-      groups: [GROUP_AT],
+      groups: [{ group: GROUP_AT, place: 4 }],
     },
   ]
   const stoplights = await drawn()
@@ -223,10 +224,9 @@ test("a readout the group does not name is left off the tile", async () => {
     {
       slug: "cost-multiplier",
       label: "Cost",
-      place: 1,
       scale: `${readoutScale.slug}/${safetyLevel.slug}`,
       wireKey: "cost",
-      groups: [`${readoutGroup.slug}/${costGroup.slug}`],
+      groups: [{ group: `${readoutGroup.slug}/${costGroup.slug}`, place: 1 }],
     },
   ]
   expect((await drawn()).map((one) => one.habit)).not.toContain("cost")

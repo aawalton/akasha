@@ -42,11 +42,12 @@ export const readoutGroup = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A group draws its readings in the order of the place each reading states.",
+      statement:
+        "A group draws its readings in the order of the place each reading states for that group.",
     },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T20:05:28.030Z",
-  updatedAt: "2026-10-13T13:47:26.474Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies PageType

@@ -8,9 +8,8 @@ export const workstationProcessor = {
   reading: {},
   label: "Processor",
   unit: "percent",
-  place: 1,
   drawnAs: "number",
-  groups: ["readout-group/workstation"],
+  groups: [{ group: "readout-group/workstation", place: 1 }],
   wireKey: "processor",
   servedBy: ["module/workstation-load-sampling"],
   decisions: [
@@ -53,5 +52,5 @@ export const workstationProcessor = {
     },
   ],
   createdAt: "2026-09-14T14:49:32.465Z",
-  updatedAt: "2026-09-25T17:40:33.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

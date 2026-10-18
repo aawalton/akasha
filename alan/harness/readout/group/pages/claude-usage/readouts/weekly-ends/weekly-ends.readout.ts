@@ -9,10 +9,9 @@ export const weeklyEnds = {
   unit: "h",
   minuteUnit: "m",
   noneLeftWords: "none",
-  place: 4,
   drawnAs: "number",
   scale: "readout-scale/allowance-hours",
-  groups: ["readout-group/claude-usage"],
+  groups: [{ group: "readout-group/claude-usage", place: 4 }],
   wireKey: "weekly-ends",
   decisions: [
     {
@@ -42,5 +41,5 @@ export const weeklyEnds = {
     },
   ],
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-09-25T16:31:20.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

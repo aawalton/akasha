@@ -7,10 +7,9 @@ export const connectionWithJenny = {
   definition: "the points Alan earned on a day for the hours with Jenny that cost him nothing",
   label: "Connection",
   unit: "points",
-  place: 1,
   scale: "readout-scale/attribute-points",
   relationship: "relationship/jennifer-walton",
-  groups: ["readout-group/connection"],
+  groups: [{ group: "readout-group/connection", place: 1 }],
   wireKey: "connection",
   servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
@@ -43,5 +42,5 @@ export const connectionWithJenny = {
   carriedTo: ["router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-10-13T13:47:26.474Z",
-  updatedAt: "2026-10-13T13:51:16.159Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

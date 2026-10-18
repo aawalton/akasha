@@ -36,20 +36,21 @@ const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
 const COST_ROW = {
   slug: COST,
   label: "Cost",
-  place: 1,
   colorFrom: costMultiplier.colorFrom,
   wireKey: "cost",
-  groups: [`${readoutGroup.slug}/${costGroup.slug}`],
+  groups: [{ group: `${readoutGroup.slug}/${costGroup.slug}`, place: 1 }],
 }
 
 const SURPLUS_ROW = {
   slug: SURPLUS,
   label: "Surplus",
   unit: "hours",
-  place: 2,
   scale: `${readoutScale.slug}/${surplusHoursScale.slug}`,
   wireKey: "surplus",
-  groups: [`${readoutGroup.slug}/${upkeepGroup.slug}`, `${readoutGroup.slug}/${surplusGroup.slug}`],
+  groups: [
+    { group: `${readoutGroup.slug}/${upkeepGroup.slug}`, place: 2 },
+    { group: `${readoutGroup.slug}/${surplusGroup.slug}`, place: 1 },
+  ],
 }
 
 const SCALE_ROW = {

@@ -2,6 +2,7 @@ import { expect } from "bun:test"
 import { RING_CREDENTIAL_HEADER } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
   answerStoplightsAdmittedBy,
+  inGroup,
   type Stoplighted,
   stoplightsInGroup,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
@@ -9,10 +10,7 @@ import { readingValues } from "akasha/alan/harness/readout/modules/reading/reado
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import {
-  slugsIn,
-  textIn,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { textIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export const GROUP = "a-group-named-only-in-this-test"
 
@@ -30,19 +28,21 @@ export const READOUT_ROW = {
   slug: READOUT,
   label: "Safety",
   unit: "levels",
-  place: 1,
   scale: SCALE_AT,
   wireKey: "safety",
-  groups: [GROUP_AT],
+  groups: [{ group: GROUP_AT, place: 1 }],
 }
 
 export const OTHER_ROW = {
   slug: OTHER,
   label: "Surplus",
-  place: 2,
   scale: SCALE_AT,
   wireKey: "surplus",
-  groups: [GROUP_AT],
+  groups: [{ group: GROUP_AT, place: 2 }],
+}
+
+export function memberAt(slug: string, place: number, label?: string): Record<string, unknown> {
+  return { slug, groups: [{ group: GROUP_AT, place, ...(label === undefined ? {} : { label }) }] }
 }
 
 export const SCALE_ROW = { slug: SCALE, redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 }
@@ -68,7 +68,7 @@ type Rows = readonly Record<string, unknown>[]
 
 type AskedOf = {
   pageTypeSlug: string
-  where?: { slug?: { is?: string }; groups?: { has?: string }; servedBy?: { has?: string } }
+  where?: { slug?: { is?: string }; servedBy?: { has?: string } }
 }
 
 function holding(row: Record<string, unknown>, key: string, named: string): boolean {
@@ -80,10 +80,8 @@ export function rowsAsked(rows: Rows, where: AskedOf["where"]): Rows {
   const named = where?.slug?.is
   if (named !== undefined) return rows.filter((row) => row.slug === named)
   const served = where?.servedBy?.has
-  if (served !== undefined) return rows.filter((row) => holding(row, "servedBy", served))
-  const grouped = where?.groups?.has
-  if (grouped === undefined) return rows
-  return rows.filter((row) => holding(row, "groups", grouped))
+  if (served === undefined) return rows
+  return rows.filter((row) => holding(row, "servedBy", served))
 }
 
 let heldOrigin: string | undefined
@@ -280,14 +278,12 @@ const READOUT_TYPE = "readout"
 
 const SLUG = "slug"
 
-const GROUPS = "groups"
-
 export function readoutsNaming(group: string): readonly string[] {
+  const values = [...shadowAt(akashaRoot()).index.valuesByPath(READOUT_TYPE).values()]
   const named: string[] = []
-  for (const value of shadowAt(akashaRoot()).index.valuesByPath(READOUT_TYPE).values()) {
-    const slug = textIn(value, SLUG)
-    if (slug === null) continue
-    if (slugsIn(value[GROUPS]).includes(group)) named.push(slug)
+  for (const value of inGroup(values, group)) {
+    const slug = textIn({ ...value }, SLUG)
+    if (slug !== null) named.push(slug)
   }
   return named.sort()
 }

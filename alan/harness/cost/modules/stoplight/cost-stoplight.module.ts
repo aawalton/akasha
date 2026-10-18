@@ -66,7 +66,8 @@ export const costStoplight = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The readouts are answered in the order the place on each page states.",
+      statement:
+        "The readouts are answered in the order of the place each page states for the group.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -163,5 +164,5 @@ export const costStoplight = {
     },
   ],
   createdAt: "2026-09-10T14:18:28.603Z",
-  updatedAt: "2026-09-25T16:57:15.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Module

@@ -7,9 +7,8 @@ export const inboxesTemperTasks = {
   definition: "how many game tasks are waiting",
   label: "Temper",
   unit: "tasks",
-  place: 3,
   scale: "readout-scale/inbox-count",
-  groups: ["readout-group/inboxes"],
+  groups: [{ group: "readout-group/inboxes", place: 3 }],
   wireKey: "temperTasks",
   servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],
   countedOn: "eso-day",
@@ -56,5 +55,5 @@ export const inboxesTemperTasks = {
   ],
   carriedTo: ["router-app/alan-web"],
   createdAt: "2026-09-02T03:48:48.858Z",
-  updatedAt: "2026-09-26T13:32:22.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

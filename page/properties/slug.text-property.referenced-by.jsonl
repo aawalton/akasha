@@ -57,6 +57,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/groups.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/read-live-from.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/readout-color.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/readout-group.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/readout-relationship.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/scale.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/served-by.multi-relation-property.types.ts","typed":true,"deferred":false}

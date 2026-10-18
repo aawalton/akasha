@@ -5,7 +5,7 @@ import {
   type ColoredWith,
   groupServedBy,
   groupStated,
-  inPlaceOrder,
+  inGroup,
   type ReadingHeld,
   type Stoplight,
   type Stoplighted,
@@ -31,8 +31,6 @@ import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.mod
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const READOUT = "readout"
-
-const READOUT_GROUP = "readout-group"
 
 const SERVED_BY = namedAs(module.slug, costStoplight.slug, null)
 
@@ -122,14 +120,11 @@ export async function costStoplights(
   const { wireKeyName } = await groupStated(groupSlug)
   if (wireKeyName === null) return []
 
-  const asked = await askingFor({
-    pageTypeSlug: READOUT,
-    where: { groups: { has: namedAs(READOUT_GROUP, groupSlug, null) } },
-  })
+  const asked = await askingFor({ pageTypeSlug: READOUT })
   if ("refused" in asked) return []
 
   const stoplights: Stoplighted[] = []
-  for (const row of inPlaceOrder(asked.rows)) {
+  for (const row of inGroup(asked.rows, groupSlug)) {
     if (stilled(row)) continue
     const surplus = await surplusNow(row, wireKeyName, readingHeld)
     const one = costStoplightWith(row, wireKeyName, surplus, readingHeld)

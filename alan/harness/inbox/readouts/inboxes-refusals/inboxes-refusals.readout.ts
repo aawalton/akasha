@@ -7,9 +7,8 @@ export const inboxesRefusals = {
   definition: "how many definitions the grammar still refuses",
   label: "Refusals",
   unit: "refusals",
-  place: 6,
   scale: "readout-scale/inbox-count",
-  groups: ["readout-group/inboxes"],
+  groups: [{ group: "readout-group/inboxes", place: 6 }],
   wireKey: "refusals",
   servedBy: ["module/inbox-reading"],
   countedOn: "eso-day",
@@ -54,5 +53,5 @@ export const inboxesRefusals = {
     },
   ],
   createdAt: "2026-09-25T15:35:50.019Z",
-  updatedAt: "2026-09-26T13:32:22.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

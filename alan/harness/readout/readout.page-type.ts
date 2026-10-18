@@ -41,6 +41,8 @@ export const readout = {
     "relation-property/color-from",
     "multi-relation-property/groups",
     "relation-property/read-live-from",
+    "relation-property/readout-group",
+    "record-property/readout-groups",
     "relation-property/scale",
     "select-property/drawn-as",
     "text-property/label",
@@ -63,7 +65,6 @@ export const readout = {
     { pageProperty: "module-property-group/reading", required: false, many: false },
     { pageProperty: "text-property/label", required: true, many: false },
     { pageProperty: "text-property/unit", required: false, many: false },
-    { pageProperty: "number-property/place", required: true, many: false },
     {
       pageProperty: "select-property/drawn-as",
       required: false,
@@ -74,7 +75,7 @@ export const readout = {
     { pageProperty: "relation-property/color-from", required: false, many: false },
     { pageProperty: "relation-property/attribute", required: false, many: false },
     {
-      pageProperty: "multi-relation-property/groups",
+      pageProperty: "record-property/readout-groups",
       required: false,
       many: true,
       maxCount: null,
@@ -150,7 +151,11 @@ export const readout = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout has one place whatever groups draw the readout.",
+      statement: "A readout has a place of its own in each group that draws the readout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A readout may be drawn under a label of its own in one group.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -294,5 +299,5 @@ export const readout = {
   schema: "jsonl",
   loadedExport: ["sampler"],
   createdAt: "2026-08-30T20:05:28.032Z",
-  updatedAt: "2026-10-13T13:51:16.159Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies PageType

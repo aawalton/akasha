@@ -7,9 +7,8 @@ export const inboxesTasks = {
   definition: "how many of Alan's tasks are waiting",
   label: "Tasks",
   unit: "tasks",
-  place: 2,
   scale: "readout-scale/inbox-count",
-  groups: ["readout-group/inboxes"],
+  groups: [{ group: "readout-group/inboxes", place: 2 }],
   wireKey: "tasks",
   servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],
   countedOn: "eso-day",
@@ -46,5 +45,5 @@ export const inboxesTasks = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-02T12:55:53.430Z",
-  updatedAt: "2026-09-26T13:32:22.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

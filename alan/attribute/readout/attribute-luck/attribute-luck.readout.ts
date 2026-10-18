@@ -7,10 +7,9 @@ export const attributeLuck = {
   definition: "the points Alan earned on a day for the rejections he risked",
   label: "LCK",
   unit: "points",
-  place: 7,
   scale: "readout-scale/attribute-points",
   attribute: "attribute/luck",
-  groups: ["readout-group/luck"],
+  groups: [{ group: "readout-group/luck", place: 7 }],
   wireKey: "luck",
   servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
@@ -41,5 +40,5 @@ export const attributeLuck = {
   ],
   carriedTo: ["router-app/alan-web"],
   createdAt: "2026-09-15T19:56:40.218Z",
-  updatedAt: "2026-09-25T17:20:07.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout

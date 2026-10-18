@@ -31,8 +31,6 @@ const DATE = "date"
 
 const PROPERTY_SLUG = "propertySlug"
 
-const NO_PLACE = 0
-
 type DayRead = {
   readonly dateOn: (now: Date) => string
   readonly unread: string
@@ -99,12 +97,12 @@ function countedOf(root: string, page: string, value: Value): Counted | null {
 }
 
 export function countedReadouts(root: string): readonly Counted[] {
-  const found: { readonly place: number; readonly one: Counted }[] = []
+  const found: Counted[] = []
   for (const { path, value } of valuesOfType(root, READOUT)) {
     const one = countedOf(root, path, value)
-    if (one !== null) found.push({ place: statedAt(value.place) ?? NO_PLACE, one })
+    if (one !== null) found.push(one)
   }
-  return found.sort((one, two) => one.place - two.place).map((held) => held.one)
+  return found
 }
 
 const NOTHING_TO_TAKE =

@@ -7,9 +7,8 @@ export const inboxesFindings = {
   definition: "how many findings are waiting",
   label: "Findings",
   unit: "findings",
-  place: 4,
   scale: "readout-scale/inbox-count",
-  groups: ["readout-group/inboxes"],
+  groups: [{ group: "readout-group/inboxes", place: 4 }],
   wireKey: "findings",
   servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],
   countedOn: "eso-day",
@@ -59,5 +58,5 @@ export const inboxesFindings = {
   ],
   carriedTo: ["router-app/alan-web"],
   createdAt: "2026-09-24T17:30:30.386Z",
-  updatedAt: "2026-09-26T13:32:22.000Z",
+  updatedAt: "2026-10-18T13:28:15.838Z",
 } as const satisfies Readout
