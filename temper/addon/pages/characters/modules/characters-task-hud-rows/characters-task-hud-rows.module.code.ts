@@ -1,9 +1,3 @@
-import {
-  GREEN,
-  PURPLE,
-  YELLOW,
-} from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
-import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import type {
   ActiveQuest,
   QuestHint,
@@ -18,6 +12,8 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-enrichment/characters-task-hud-enrichment.module.code.ts"
 import {
   getContentContainer,
+  type HudColor,
+  hudColor,
   INDICATOR_WIDTH,
   MIN_HUD_WIDTH,
   PLEDGE_SUB_ROW_HEIGHT,
@@ -66,13 +62,13 @@ export function createTaskRow(
   if (containerCount !== undefined) {
     const titleLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     titleLabel.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
-    colorText(styleTextOverPlay(titleLabel, "strong"), TEXT_SECONDARY)
+    colorText(styleTextOverPlay(titleLabel, "strong"), hudColor("plain"))
     titleLabel.SetText(task.title)
 
     const countLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     countLabel.SetAnchor(RIGHT, row, RIGHT, -ROW_PADDING_X, 0)
     countLabel.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
-    colorText(styleTextOverPlay(countLabel, "strong"), TEXT_SECONDARY)
+    colorText(styleTextOverPlay(countLabel, "strong"), hudColor("plain"))
     countLabel.SetText(countSuffix(containerCount))
     pushLabel(titleLabel, COUNT_GAP + countLabel.GetTextWidth() + ROW_PADDING_X)
 
@@ -89,7 +85,7 @@ export function createTaskRow(
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
 
-  const titleColor = completed ? GREEN : priorityColor(task.priority)
+  const titleColor = completed ? hudColor("done") : priorityColor(task.priority)
   colorText(styleTextOverPlay(label, "strong"), titleColor)
   label.SetText(task.title)
 
@@ -117,11 +113,11 @@ export interface SubRowSpec {
   readonly onClick?: (this: void) => undefined
 }
 
-const PRE_COMPLETION_RGB: Record<SubRowColor, readonly [number, number, number]> = {
-  default: TEXT_SECONDARY,
-  green: GREEN,
-  purple: PURPLE,
-  yellow: YELLOW,
+const PRE_COMPLETION_COLOR: Record<SubRowColor, HudColor> = {
+  default: "plain",
+  green: "done",
+  purple: "purple",
+  yellow: "gold",
 }
 
 const INDENT_UNIT = "    "
@@ -138,7 +134,9 @@ export function createSubRow(spec: SubRowSpec, yOffset: number, completed: boole
 
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
-  const rgb = completed ? GREEN : (spec.rgb ?? PRE_COMPLETION_RGB[spec.color])
+  const rgb = completed
+    ? hudColor("done")
+    : (spec.rgb ?? hudColor(PRE_COMPLETION_COLOR[spec.color]))
   colorText(styleTextOverPlay(label, "strong"), rgb)
   label.SetText(indentText(spec.indent ?? 1) + spec.text)
   pushLabel(label)
@@ -154,7 +152,7 @@ export function createQuestRow(quest: ActiveQuest, yOffset: number): Control {
 
   const questLabel = WINDOW_MANAGER.CreateControl(undefined, questRow, CT_LABEL)
   questLabel.SetAnchor(LEFT, questRow, LEFT, INDICATOR_WIDTH + 4, 0)
-  colorText(styleTextOverPlay(questLabel, "strong"), quest.isAssisted ? YELLOW : TEXT_SECONDARY)
+  colorText(styleTextOverPlay(questLabel, "strong"), hudColor(quest.isAssisted ? "gold" : "plain"))
   questLabel.SetText(indentText(1) + quest.name.trim())
   pushLabel(questLabel)
 
@@ -172,14 +170,14 @@ export function appendQuestHintRow(hint: QuestHint, yOffset: number): number {
   if (hint.progress !== undefined) {
     countLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     countLabel.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
-    colorText(styleTextOverPlay(countLabel, "strong"), YELLOW)
+    colorText(styleTextOverPlay(countLabel, "strong"), hudColor("gold"))
     countLabel.SetText(progressSuffix(hint.progress.current, hint.progress.total))
     trailingWidth = COUNT_GAP + countLabel.GetTextWidth() + ROW_PADDING_X
   }
 
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
-  colorText(styleTextOverPlay(label, "strong"), YELLOW)
+  colorText(styleTextOverPlay(label, "strong"), hudColor("gold"))
   label.SetWidth(QUEST_HINT_WIDTH - trailingWidth)
   label.SetText(indentText(2) + hint.text.trim())
   const textHeight = label.GetTextHeight()

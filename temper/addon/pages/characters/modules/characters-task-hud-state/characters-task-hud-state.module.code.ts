@@ -1,12 +1,35 @@
-import {
-  BLUE,
-  RED,
-  YELLOW,
-} from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
-import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
+import { colorOf } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import { STAT_ROW_HEIGHT } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+type HudRgb = readonly [number, number, number]
+
+export type HudColor = "plain" | "done" | "urgent" | "gold" | "blue" | "purple"
+
+function textColor(field: number): HudRgb {
+  const [red, green, blue] = GetInterfaceColor(INTERFACE_COLOR_TYPE_TEXT_COLORS, field)
+  return [red, green, blue]
+}
+
+function qualityColor(quality: number): HudRgb {
+  const [red, green, blue] = GetItemQualityColor(quality).UnpackRGB()
+  return [red, green, blue]
+}
+
+export function hudColor(kind: HudColor): HudRgb {
+  if (kind === "done") return textColor(INTERFACE_TEXT_COLOR_SUCCEEDED)
+  if (kind === "urgent") return textColor(INTERFACE_TEXT_COLOR_FAILED)
+  if (kind === "gold") return colorOf("accent")
+  if (kind === "blue") return qualityColor(ITEM_DISPLAY_QUALITY_MAGIC)
+  if (kind === "purple") return qualityColor(ITEM_DISPLAY_QUALITY_ARCANE)
+  return colorOf("body")
+}
 
 export const HUD_NAME = "TemperTaskHUD"
 export const MIN_HUD_WIDTH = 120
@@ -18,11 +41,11 @@ export const UNDAUNTED_SKILL_LINE_ID = 55
 export const INDICATOR_WIDTH = 36
 export const QUEST_HINT_WIDTH = 320
 
-export function priorityColor(priority: string | undefined): readonly [number, number, number] {
-  if (priority === "p1") return RED
-  if (priority === "p2") return YELLOW
-  if (priority === "p3") return BLUE
-  return TEXT_SECONDARY
+export function priorityColor(priority: string | undefined): HudRgb {
+  if (priority === "p1") return hudColor("urgent")
+  if (priority === "p2") return hudColor("gold")
+  if (priority === "p3") return hudColor("blue")
+  return hudColor("plain")
 }
 
 export function priorityRank(priority: string | undefined): number {

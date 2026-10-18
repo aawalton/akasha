@@ -1,4 +1,3 @@
-import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { getActiveQuests } from "akasha/temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import { getCharactersConfig } from "akasha/temper/addon/pages/characters/modules/characters-config/characters-config.module.code.ts"
 import { ENRICHMENT_SELECTORS } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"
@@ -52,6 +51,7 @@ import {
   type TaskData,
 } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import {
+  colorOf,
   colorText,
   styleTextOverPlay,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
@@ -84,7 +84,7 @@ export function initializeTaskHud(): undefined {
 
   const emptyLabel = WINDOW_MANAGER.CreateControl("$(parent)Empty", tlw, CT_LABEL)
   emptyLabel.SetAnchor(TOPLEFT, tlw, TOPLEFT, 8, DRAG_HEIGHT)
-  colorText(styleTextOverPlay(emptyLabel, "strong"), TEXT_SECONDARY)
+  colorText(styleTextOverPlay(emptyLabel, "strong"), colorOf("body"))
   emptyLabel.SetText("No task is left today.")
   emptyLabel.SetHidden(true)
 

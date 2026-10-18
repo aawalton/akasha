@@ -9,11 +9,11 @@ export const charactersTaskHud = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "With nothing left to show, the display says so in one shadowed secondary line.",
+      statement: "With nothing left to show, the display says so in one line of normal text.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every line the display draws is semibold, told apart by color alone.",
+      statement: "Every line the display draws is the game's bold face, told apart by color alone.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,5 +22,5 @@ export const charactersTaskHud = {
     },
   ],
   createdAt: "2026-09-02T16:23:41.627Z",
-  updatedAt: "2026-09-26T13:52:42.000Z",
+  updatedAt: "2026-10-18T17:39:47.514Z",
 } as const satisfies Module
