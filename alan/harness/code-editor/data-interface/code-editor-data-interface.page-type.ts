@@ -46,7 +46,6 @@ export const codeEditorDataInterface = {
     "module/world-tree-assemble",
     "module/committed-data-watching",
     "service-workstation/code-editor-commit-watcher",
-    "module/gap-counting",
     "module/committed-page-holding",
   ],
   properties: [
@@ -133,5 +132,5 @@ export const codeEditorDataInterface = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-05T15:35:07.266Z",
-  updatedAt: "2026-09-26T14:09:48.000Z",
+  updatedAt: "2026-10-18T13:46:11.572Z",
 } as const satisfies PageType

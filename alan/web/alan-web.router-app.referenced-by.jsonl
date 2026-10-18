@@ -8,8 +8,6 @@
 {"propertySlug":"carried-to","path":"alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.ts","id":"01a06230-614a-7c46-9fba-3be28e181ca4"}
 {"propertySlug":"carried-to","path":"alan/harness/cost/readouts/multiplier/cost-multiplier.readout.ts","id":"01a08b9c-6412-7e0f-8a4e-fc4a180594e6"}
 {"propertySlug":"carried-to","path":"alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.ts","id":"01a06230-b155-7d69-9e39-eb26b5607d9e"}
-{"propertySlug":"carried-to","path":"alan/harness/inbox/readouts/inboxes-findings/inboxes-findings.readout.ts","id":"01a0d478-0472-7189-9cdb-5ede424fdaaa"}
-{"propertySlug":"carried-to","path":"alan/harness/inbox/readouts/inboxes-gaps/inboxes-gaps.readout.ts","id":"01a0d4e7-cbcc-7719-93ec-dc6e638d9353"}
 {"propertySlug":"carried-to","path":"alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts","id":"01a06230-b156-7d81-a78b-ca66f6f5da77"}
 {"propertySlug":"carried-to","path":"alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts","id":"01a053aa-fc5a-7708-b1fb-780b2ca58893"}
 {"propertySlug":"carried-to","path":"alan/harness/safety/readouts/upkeep-safety/upkeep-safety.readout.ts","id":"01a05f42-92f5-7004-9179-75f0f75b02e9"}

@@ -84,10 +84,6 @@ export const day = {
     "text-property/safety-level",
     "text-property/to-do-slug",
     "text-property/version",
-    "number-property/inbox-findings",
-    "boolean-property/inbox-findings-cleared-today",
-    "number-property/inbox-gaps",
-    "number-property/inbox-refusals",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -187,10 +183,6 @@ export const day = {
       many: false,
       default: "jsonl",
     },
-    { pageProperty: "number-property/inbox-findings", required: false, many: false },
-    { pageProperty: "boolean-property/inbox-findings-cleared-today", required: false, many: false },
-    { pageProperty: "number-property/inbox-gaps", required: false, many: false },
-    { pageProperty: "number-property/inbox-refusals", required: false, many: false },
   ],
   decisions: [
     {
@@ -237,5 +229,5 @@ export const day = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-25T15:33:42.000Z",
+  updatedAt: "2026-10-18T13:46:11.572Z",
 } as const satisfies PageType

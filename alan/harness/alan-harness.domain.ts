@@ -83,7 +83,7 @@ export const alanHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Alan's inboxes widget shows all six stoplights.",
+      statement: "Alan's inboxes widget shows all three stoplights.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -159,5 +159,5 @@ export const alanHarness = {
     },
   ],
   createdAt: "2026-08-30T16:29:45.336Z",
-  updatedAt: "2026-10-18T13:32:41.384Z",
+  updatedAt: "2026-10-18T13:46:11.572Z",
 } as const satisfies Domain

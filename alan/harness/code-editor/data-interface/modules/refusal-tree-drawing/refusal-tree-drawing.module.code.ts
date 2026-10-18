@@ -5,20 +5,12 @@ import {
   type HungNode,
   hungOnDomains,
 } from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
-import {
-  readState,
-  stateAt,
-} from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
-import {
-  type RefusalTreeRow,
-  type RefusalTreeState,
-  refusalTreeStateSchema,
+import type {
+  RefusalTreeRow,
+  RefusalTreeState,
 } from "akasha/alan/harness/code-editor/data-interface/pages/refusal-tree/refusal-tree.code-editor-data-interface.code.ts"
-import { definitionIsWrittenInTheGrammar } from "akasha/check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.audit.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-
-const SLUG = "refusal-tree"
 
 const KEYED = "refusal/"
 
@@ -51,10 +43,4 @@ export function refusalTreeLine(
     roots: built.roots.map((node) => refusalRow(root, node)),
     unreached: built.unreached,
   } satisfies RefusalTreeState)
-}
-
-export function refusalCountIn(root: string): number {
-  const drawn = readState(stateAt(root, SLUG), refusalTreeStateSchema)
-  if (drawn === null) return definitionIsWrittenInTheGrammar(root).length
-  return drawn.roots.reduce((total, one) => total + one.refusals, 0)
 }

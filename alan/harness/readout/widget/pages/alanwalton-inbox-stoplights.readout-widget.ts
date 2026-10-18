@@ -11,10 +11,10 @@ export const alanwaltonInboxStoplights = {
   families: ["small"],
   feed: "https://alanwalton.com/api/inbox-stoplights",
   galleryName: "Inboxes",
-  galleryDescription: "Your five inbox stoplights, at a glance.",
+  galleryDescription: "Your three inbox stoplights, at a glance.",
   opens: "capacitor://localhost/nav/tasks-a7242626#widget=alanwalton-inbox-stoplights",
   groups: ["readout-group/inboxes"],
   place: 3,
   createdAt: "2026-09-02T21:57:39.545Z",
-  updatedAt: "2026-09-24T19:34:50.000Z",
+  updatedAt: "2026-10-18T13:46:11.572Z",
 } as const satisfies ReadoutWidget

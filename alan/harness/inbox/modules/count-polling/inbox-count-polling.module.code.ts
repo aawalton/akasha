@@ -3,8 +3,6 @@ import {
   INBOX_LABEL,
   listMessages,
 } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
-import { gapCountIn } from "akasha/alan/harness/code-editor/data-interface/modules/gap-counting/gap-counting.module.code.ts"
-import { refusalCountIn } from "akasha/alan/harness/code-editor/data-interface/modules/refusal-tree-drawing/refusal-tree-drawing.module.code.ts"
 import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
 import type { InboxKey } from "akasha/alan/harness/inbox/modules/keys/inbox-keys.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
@@ -18,7 +16,6 @@ import { asking } from "akasha/page/service/modules/page-asking/page-asking.modu
 const EMAIL_MAX = 100
 const TO_DO_PAGE_TYPE_SLUG = "to-do"
 const TEMPER_TASK_PAGE_TYPE_SLUG = "temper-task"
-const FINDING_PAGE_TYPE_SLUG = "finding"
 
 const TO_DO_DUE_DATE = "toDoDueDate"
 const TO_DO_COMPLETED_AT = "toDoCompletedAt"
@@ -62,33 +59,14 @@ async function pollTemperTasksDue(dayStr: string): Promise<number> {
   })
 }
 
-async function pollFindings(): Promise<number> {
-  return howMany(FINDING_PAGE_TYPE_SLUG, {})
-}
-
-async function pollGaps(): Promise<number> {
-  return gapCountIn(checkoutRoot())
-}
-
-async function pollRefusals(): Promise<number> {
-  return refusalCountIn(checkoutRoot())
-}
-
 export type TaskCounts = {
   readonly tasks: number
   readonly temperTasks: number
-  readonly findings: number
-  readonly gaps: number
 }
 
 export async function pollTaskCounts(dayStr: string): Promise<TaskCounts> {
-  const [tasks, temperTasks, findings, gaps] = await Promise.all([
-    pollToDosDue(dayStr),
-    pollTemperTasksDue(dayStr),
-    pollFindings(),
-    pollGaps(),
-  ])
-  return { tasks, temperTasks, findings, gaps }
+  const [tasks, temperTasks] = await Promise.all([pollToDosDue(dayStr), pollTemperTasksDue(dayStr)])
+  return { tasks, temperTasks }
 }
 
 export async function pollInboxCounts(
@@ -99,9 +77,6 @@ export async function pollInboxCounts(
     ["email", () => pollEmail()],
     ["tasks", () => pollToDosDue(dayStr)],
     ["temperTasks", () => pollTemperTasksDue(dayStr)],
-    ["findings", () => pollFindings()],
-    ["gaps", () => pollGaps()],
-    ["refusals", () => pollRefusals()],
   ]
 
   const polled = await Promise.all(

@@ -1,1 +1,0 @@
-export type InboxFindings = number

@@ -124,9 +124,9 @@ check(
     upkeepCount(["plants", "activity", "sleep", "hygiene", "capacity", "safety", "meds"]) == 7,
     "seven entries")
 check(
-    "five inbox circles decode",
-    inboxCount(["email", "tasks", "temperTasks", "findings", "gaps"]) == 5,
-    "five entries")
+    "three inbox circles decode",
+    inboxCount(["email", "tasks", "temperTasks"]) == 3,
+    "three entries")
 
 func attributeCount(_ slugs: [String]) -> Int? {
     decodedCount(AttributeStoplightsResponse.self, stoplightsBody("attribute", slugs)) {

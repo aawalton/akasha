@@ -1,5 +1,4 @@
-import { dirname, join } from "node:path"
-import { gapPictureAt } from "akasha/alan/harness/code-editor/data-interface/modules/gap-counting/gap-counting.module.code.ts"
+import { join } from "node:path"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import {
   pollTaskCounts,
@@ -35,21 +34,11 @@ const TO_DO_PAGE_TYPE_SLUG = "to-do"
 
 const TEMPER_TASK_PAGE_TYPE_SLUG = "temper-task"
 
-const FINDING_PAGE_TYPE_SLUG = "finding"
-
-const COUNTED_TYPES: readonly string[] = [
-  TO_DO_PAGE_TYPE_SLUG,
-  TEMPER_TASK_PAGE_TYPE_SLUG,
-  FINDING_PAGE_TYPE_SLUG,
-]
+const COUNTED_TYPES: readonly string[] = [TO_DO_PAGE_TYPE_SLUG, TEMPER_TASK_PAGE_TYPE_SLUG]
 
 const TO_DOS_AT = "alan/track/to-do/pages"
 
 const TEMPER_TASKS_AT = "temper/player/progress/temper-task/pages"
-
-const FINDINGS_AT = "domain/finding/pages"
-
-const FINDING_TYPE_AT = "domain/finding"
 
 export const NO_SITE_NAMED =
   "no site was named, so a count taken here would be carried nowhere. Name the origin of the " +
@@ -89,17 +78,11 @@ export function outwaitedSaid(thrown: unknown, waitedMs: number): string {
 }
 
 export function countsSaid(day: string, counts: TaskCounts): string {
-  return (
-    `day=${day} tasks=${counts.tasks} temperTasks=${counts.temperTasks} ` +
-    `findings=${counts.findings} gaps=${counts.gaps}`
-  )
+  return `day=${day} tasks=${counts.tasks} temperTasks=${counts.temperTasks}`
 }
 
 export function foldersFollowedIn(root: string): ReadonlySet<string> {
-  const folders = new Set<string>(
-    [TO_DOS_AT, TEMPER_TASKS_AT, FINDINGS_AT, FINDING_TYPE_AT].map((at) => join(root, at))
-  )
-  folders.add(dirname(gapPictureAt(root)))
+  const folders = new Set<string>([TO_DOS_AT, TEMPER_TASKS_AT].map((at) => join(root, at)))
   for (const slug of COUNTED_TYPES) {
     const pages = everyOfType(root, slug).map((one) => join(root, one.path))
     for (const one of dirsOf(pages)) folders.add(one)
@@ -115,16 +98,7 @@ export async function carryCounts(
   now: Date,
   counts: TaskCounts
 ): Promise<undefined> {
-  await persistInboxCounts(
-    {
-      tasks: counts.tasks,
-      temperTasks: counts.temperTasks,
-      findings: counts.findings,
-      gaps: counts.gaps,
-    },
-    day,
-    now
-  )
+  await persistInboxCounts({ tasks: counts.tasks, temperTasks: counts.temperTasks }, day, now)
   const byWireKey: Readonly<Record<string, number>> = counts
   const took: (readonly [string, number])[] = []
   for (const one of countedReadouts(root)) {

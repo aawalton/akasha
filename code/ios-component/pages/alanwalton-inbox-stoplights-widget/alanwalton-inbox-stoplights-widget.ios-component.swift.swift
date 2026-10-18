@@ -49,8 +49,6 @@ private let INBOX_PREVIEW: [(
     ("email", .blue, "0", nil, nil, "Email"),
     ("tasks", .yellow, "4", .blue, 0.5555555555555556, "Tasks"),
     ("temperTasks", .red, "23", .yellow, 0.8444444444444444, "Temper"),
-    ("findings", .yellow, "3", .blue, 0.7777777777777778, "Findings"),
-    ("gaps", .red, "993", .yellow, 0.6713333333333333, "Gaps"),
 ]
 
 enum InboxStoplightsFeed: WidgetFeed {
@@ -116,7 +114,7 @@ struct InboxStoplightsWidget: Widget {
             InboxHomeView(entry: entry)
         }
         .configurationDisplayName("Inboxes")
-        .description("Your five inbox stoplights, at a glance.")
+        .description("Your three inbox stoplights, at a glance.")
         .supportedFamilies([.systemSmall])
     }
 }

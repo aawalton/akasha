@@ -51,7 +51,7 @@ export function gapsOn(path: string, value: Value): readonly Gapped[] {
   return found
 }
 
-export function gapsIn(given: string | Reading): readonly Gapped[] {
+function gapsIn(given: string | Reading): readonly Gapped[] {
   const found: Gapped[] = []
   for (const [path, value] of everyValue(readingIn(given))) found.push(...gapsOn(path, value))
   return found

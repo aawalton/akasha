@@ -23,19 +23,12 @@ export const refusalTreeDrawing = {
       decisionKind: "decision-kind/departure",
       statement: "A refusal opens the page whose definition is refused.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The refusals counted are the refusals the picture on disk hangs.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Where no picture is on disk the refusals are counted by judging.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a file.",
     },
   ],
   createdAt: "2026-09-25T15:51:11.165Z",
-  updatedAt: "2026-09-25T17:27:03.000Z",
+  updatedAt: "2026-10-18T13:46:11.572Z",
 } as const satisfies Module

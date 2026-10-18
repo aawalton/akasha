@@ -16,14 +16,10 @@ export const inboxKeys = {
       statement: "An inbox with no key here is written to the day under a rule of its own.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The gaps and the refusals each have a count key and no clearing key.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here counts anything or writes anything.",
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-09-25T15:35:18.000Z",
+  updatedAt: "2026-10-18T13:46:11.572Z",
 } as const satisfies Module

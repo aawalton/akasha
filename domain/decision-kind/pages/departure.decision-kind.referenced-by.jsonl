@@ -721,7 +721,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.ts","id":"01a0ba96-7fb2-7a7e-b5a5-3d48da0d7bc4"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.ts","id":"01a0b7a0-c25d-7084-bc7a-9ba4b269d516"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.ts","id":"01a0b733-1334-745d-9d31-186baa85e4a2"}
-{"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/gap-counting/gap-counting.module.ts","id":"01a0d9ae-db5e-7ea7-8573-942e452b9e09"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.ts","id":"01a0b7a0-c25d-7889-8128-bb4ddc41c72c"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/group-stoplights/group-stoplights.module.ts","id":"01a064e4-627c-717e-bcf8-2ad1f41c1222"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.ts","id":"01a064f6-a793-7d40-b075-7d7a7f1f133a"}
@@ -843,9 +842,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/modules/reading/inbox-reading.module.ts","id":"01a069bf-3919-77bc-a8a7-66b02d4185bf"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/modules/tracking-polling/inbox-tracking-polling.module.ts","id":"01a0686a-7a57-72a3-bd0e-04ddd401bb78"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.ts","id":"01a06230-b155-7d69-9e39-eb26b5607d9e"}
-{"propertySlug":"decision-kind","path":"alan/harness/inbox/readouts/inboxes-findings/inboxes-findings.readout.ts","id":"01a0d478-0472-7189-9cdb-5ede424fdaaa"}
-{"propertySlug":"decision-kind","path":"alan/harness/inbox/readouts/inboxes-gaps/inboxes-gaps.readout.ts","id":"01a0d4e7-cbcc-7719-93ec-dc6e638d9353"}
-{"propertySlug":"decision-kind","path":"alan/harness/inbox/readouts/inboxes-refusals/inboxes-refusals.readout.ts","id":"01a0d935-6403-7509-84a1-9e2bff2bf148"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts","id":"01a06230-b156-7d81-a78b-ca66f6f5da77"}
 {"propertySlug":"decision-kind","path":"alan/harness/location-trace-access/location-trace-access.domain.ts","id":"01a05bc7-9129-700a-81c5-e2dfa20709ec"}
 {"propertySlug":"decision-kind","path":"alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.ts","id":"01a05bc7-9129-700d-9b3a-ba23544a6e88"}

@@ -37,23 +37,7 @@ export const inboxCountPolling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every finding page is counted, whatever it is about or when it was written.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The gaps are counted as the gaps panel counts them.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The refusals are counted as the refusals panel counts them.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The refusals are counted only on the timer.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The four counts read from the checkout are taken together on their own.",
+      statement: "The two counts read from the checkout are taken together on their own.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -65,5 +49,5 @@ export const inboxCountPolling = {
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-09-25T17:27:03.000Z",
+  updatedAt: "2026-10-18T13:46:11.572Z",
 } as const satisfies Module

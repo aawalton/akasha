@@ -5,7 +5,7 @@ export const inboxReading = {
   type: "page-type/module",
   slug: "inbox-reading",
   definition:
-    "the counts on Alan's four inboxes, taken from his day pages and kept on their readouts",
+    "the counts on Alan's three inboxes, taken from his day pages and kept on their readouts",
   code: "ts",
   decisions: [
     {
@@ -26,12 +26,11 @@ export const inboxReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Four inbox counts are taken in two reads.",
+      statement: "Three inbox counts are taken in two reads.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The task count, the temper task count and the finding count are three keys on one tracking day row.",
+      statement: "The task count and the temper task count are two keys on one tracking day row.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -101,7 +100,7 @@ export const inboxReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run of this file takes four readings.",
+      statement: "A run of this file takes three readings.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -135,5 +134,5 @@ export const inboxReading = {
     },
   ],
   createdAt: "2026-09-04T00:08:54.809Z",
-  updatedAt: "2026-09-24T18:28:11.000Z",
+  updatedAt: "2026-10-18T13:46:11.572Z",
 } as const satisfies Module

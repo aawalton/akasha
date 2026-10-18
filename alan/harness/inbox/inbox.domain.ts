@@ -20,9 +20,6 @@ export const inbox = {
     "page-type/email-rule",
     "readout/inboxes-email",
     "readout/inboxes-tasks",
-    "readout/inboxes-findings",
-    "readout/inboxes-gaps",
-    "readout/inboxes-refusals",
     "service-workstation/inbox-count-watch-service",
     "service-workstation/inbox-relay-service",
     "service-workstation/inbox-tracking-poll",
@@ -173,5 +170,5 @@ export const inbox = {
     },
   ],
   createdAt: "2026-09-02T12:55:53.430Z",
-  updatedAt: "2026-09-25T15:35:54.000Z",
+  updatedAt: "2026-10-18T13:46:11.572Z",
 } as const satisfies Domain
