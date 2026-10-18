@@ -9,7 +9,10 @@ export const upkeepSleep = {
   label: "Sleep",
   unit: "hours",
   scale: "readout-scale/sleep-hours",
-  groups: [{ group: "readout-group/upkeep", place: 6 }],
+  groups: [
+    { group: "readout-group/upkeep", place: 6 },
+    { group: "readout-group/resources", place: 6 },
+  ],
   wireKey: "sleep",
   servedBy: ["module/sleep-reading", "service-workstation/sleep-relay-service"],
   decisions: [
@@ -50,5 +53,5 @@ export const upkeepSleep = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-02T12:38:40.780Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-18T13:32:41.384Z",
 } as const satisfies Readout

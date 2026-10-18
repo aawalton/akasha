@@ -9,7 +9,10 @@ export const attributeStrength = {
   unit: "points",
   scale: "readout-scale/attribute-points",
   attribute: "attribute/strength",
-  groups: [{ group: "readout-group/attributes", place: 1 }],
+  groups: [
+    { group: "readout-group/attributes", place: 1 },
+    { group: "readout-group/resources", place: 5, label: "Pounds" },
+  ],
   wireKey: "strength",
   servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
@@ -41,5 +44,5 @@ export const attributeStrength = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-03T17:02:13.537Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-18T13:32:41.384Z",
 } as const satisfies Readout

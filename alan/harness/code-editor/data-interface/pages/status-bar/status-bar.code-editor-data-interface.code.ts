@@ -10,9 +10,8 @@ export const statusBarStateSchema = z.object({
   usage: z
     .object({ sessionPct: z.number().nullable(), weeklyPct: z.number().nullable() })
     .nullable(),
+  resources: statusBarStoplightsSchema.nullable(),
   inbox: statusBarStoplightsSchema.nullable(),
-  upkeep: statusBarStoplightsSchema.nullable(),
-  attributes: statusBarStoplightsSchema.nullable(),
 })
 
 export type StatusBarStoplights = z.infer<typeof statusBarStoplightsSchema>

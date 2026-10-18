@@ -3,7 +3,6 @@ import type { StoplightsSection } from "akasha/code/editor/extension/modules/sta
 export type StoplightLegends = Readonly<Record<StoplightsSection, string | undefined>>
 
 export const NO_LEGENDS: StoplightLegends = {
+  resources: undefined,
   inbox: undefined,
-  upkeep: undefined,
-  attributes: undefined,
 }

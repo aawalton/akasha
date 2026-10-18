@@ -46,31 +46,22 @@ const RAW_SLOTS: readonly SlotDef[] = [
     read: (u) => formatPct(u.weeklyPct),
   },
 
-  { kind: "separator", id: "opsStatusBar.sep.usageUpkeep", priority: 0 },
+  { kind: "separator", id: "opsStatusBar.sep.usageResources", priority: 0 },
 
   {
     kind: "stoplights",
-    id: "opsStatusBar.upkeepStoplights",
+    id: "opsStatusBar.resourcesStoplights",
     priority: 0,
-    section: "upkeep",
+    section: "resources",
   },
 
-  { kind: "separator", id: "opsStatusBar.sep.upkeepInbox", priority: 0 },
+  { kind: "separator", id: "opsStatusBar.sep.resourcesInbox", priority: 0 },
 
   {
     kind: "stoplights",
     id: "opsStatusBar.inboxStoplights",
     priority: 0,
     section: "inbox",
-  },
-
-  { kind: "separator", id: "opsStatusBar.sep.inboxAttributes", priority: 0 },
-
-  {
-    kind: "stoplights",
-    id: "opsStatusBar.attributesStoplights",
-    priority: 0,
-    section: "attributes",
   },
 ]
 

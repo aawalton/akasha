@@ -7,8 +7,7 @@ export const attributes = {
   definition: "the attributes Alan's daily upkeep habits earned on a day",
   figureOffScale: true,
   wireKeyName: "attribute",
-  statusBarSection: "attributes",
   servedBy: ["route/attribute-stoplights"],
   createdAt: "2026-09-03T17:02:13.483Z",
-  updatedAt: "2026-10-18T13:21:00.027Z",
+  updatedAt: "2026-10-18T13:32:41.384Z",
 } as const satisfies ReadoutGroup

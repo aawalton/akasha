@@ -9,7 +9,10 @@ export const upkeepCapacity = {
   label: "Capacity",
   unit: "hours",
   scale: "readout-scale/capacity-hours",
-  groups: [{ group: "readout-group/upkeep", place: 3 }],
+  groups: [
+    { group: "readout-group/upkeep", place: 3 },
+    { group: "readout-group/resources", place: 2 },
+  ],
   wireKey: "capacity",
   servedBy: ["module/capacity-reading", "service-workstation/capacity-relay-service"],
   decisions: [
@@ -76,5 +79,5 @@ export const upkeepCapacity = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-09-02T12:55:32.938Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-18T13:32:41.384Z",
 } as const satisfies Readout

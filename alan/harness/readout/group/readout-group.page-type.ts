@@ -14,6 +14,7 @@ export const readoutGroup = {
     "readout-group/cost",
     "readout-group/inboxes",
     "readout-group/luck",
+    "readout-group/resources",
     "readout-group/safety",
     "readout-group/surplus",
     "readout-group/upkeep",
@@ -49,5 +50,5 @@ export const readoutGroup = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T20:05:28.030Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-18T13:32:41.384Z",
 } as const satisfies PageType

@@ -12,25 +12,22 @@ type SectionResult<T> = {
 }
 
 type SettledReads = {
+  readonly resources: SectionResult<string>
   readonly inbox: SectionResult<string>
-  readonly upkeep: SectionResult<string>
-  readonly attributes: SectionResult<string>
   readonly usage: SectionResult<UsageReading>
   readonly workstation: SectionResult<WorkstationReading>
 }
 
 export type ReadOutcomes = {
+  readonly resources: PromiseSettledResult<string>
   readonly inbox: PromiseSettledResult<string>
-  readonly upkeep: PromiseSettledResult<string>
-  readonly attributes: PromiseSettledResult<string>
   readonly usage: PromiseSettledResult<UsageReading>
   readonly workstation: PromiseSettledResult<WorkstationReading>
 }
 
 export type FreshAts = {
+  readonly resources: number | undefined
   readonly inbox: number | undefined
-  readonly upkeep: number | undefined
-  readonly attributes: number | undefined
   readonly usage: number | undefined
   readonly workstation: number | undefined
 }
@@ -53,9 +50,8 @@ function settleSection<T>(
 
 export function settleReads(outcomes: ReadOutcomes, prev: FreshAts, now: number): SettledReads {
   return {
+    resources: settleSection(outcomes.resources, prev.resources, now),
     inbox: settleSection(outcomes.inbox, prev.inbox, now),
-    upkeep: settleSection(outcomes.upkeep, prev.upkeep, now),
-    attributes: settleSection(outcomes.attributes, prev.attributes, now),
     usage: settleSection(outcomes.usage, prev.usage, now),
     workstation: settleSection(outcomes.workstation, prev.workstation, now),
   }

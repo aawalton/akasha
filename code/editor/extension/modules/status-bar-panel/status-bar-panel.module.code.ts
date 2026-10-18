@@ -77,9 +77,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   })
 
   let freshAts: FreshAts = {
+    resources: undefined,
     inbox: undefined,
-    upkeep: undefined,
-    attributes: undefined,
     usage: undefined,
     workstation: undefined,
   }
@@ -88,23 +87,20 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   const draw = (held: StatusBarState, trigger: string): undefined => {
     const outcomes: ReadOutcomes = {
+      resources: sectionOf(held.resources?.glyphs),
       inbox: sectionOf(held.inbox?.glyphs),
-      upkeep: sectionOf(held.upkeep?.glyphs),
-      attributes: sectionOf(held.attributes?.glyphs),
       usage: sectionOf<UsageReading>(held.usage),
       workstation: sectionOf<WorkstationReading>(held.workstation),
     }
     legends = {
+      resources: legendKept(held.resources, legends.resources),
       inbox: legendKept(held.inbox, legends.inbox),
-      upkeep: legendKept(held.upkeep, legends.upkeep),
-      attributes: legendKept(held.attributes, legends.attributes),
     }
     const reads = settleReads(outcomes, freshAts, Date.now())
     applyToItems(items, reads, legends)
     freshAts = {
+      resources: reads.resources.lastFreshAt,
       inbox: reads.inbox.lastFreshAt,
-      upkeep: reads.upkeep.lastFreshAt,
-      attributes: reads.attributes.lastFreshAt,
       usage: reads.usage.lastFreshAt,
       workstation: reads.workstation.lastFreshAt,
     }
@@ -140,16 +136,12 @@ function logRefresh(trigger: string, outcomes: ReadOutcomes): undefined {
   if (outcomes.workstation.status === "rejected") {
     failures.push(`workstation: ${String(outcomes.workstation.reason)}`)
   }
+  if (outcomes.resources.status === "rejected") {
+    failures.push(`resources: ${String(outcomes.resources.reason)}`)
+  }
   if (outcomes.inbox.status === "rejected") {
     failures.push(`inbox: ${String(outcomes.inbox.reason)}`)
   }
-  if (outcomes.upkeep.status === "rejected") {
-    failures.push(`upkeep: ${String(outcomes.upkeep.reason)}`)
-  }
-  if (outcomes.attributes.status === "rejected") {
-    failures.push(`attributes: ${String(outcomes.attributes.reason)}`)
-  }
-
   if (outcomes.usage.status === "rejected") {
     failures.push(`usage: ${String(outcomes.usage.reason)}`)
   }

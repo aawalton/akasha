@@ -155,7 +155,7 @@ export const readout = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout may be drawn under a label of its own in one group.",
+      statement: "A readout may state a label of its own for a group that draws the readout.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -299,5 +299,5 @@ export const readout = {
   schema: "jsonl",
   loadedExport: ["sampler"],
   createdAt: "2026-08-30T20:05:28.032Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-18T13:32:41.384Z",
 } as const satisfies PageType

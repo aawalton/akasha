@@ -44,11 +44,9 @@ const READOUT_GROUP = "01a05446-e75e-7657-acda-566edc2b182e"
 
 const CLAUDE_ACCOUNT = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
+const RESOURCES_SECTION = "resources"
+
 const INBOX_SECTION = "inbox"
-
-const UPKEEP_SECTION = "upkeep"
-
-const ATTRIBUTES_SECTION = "attributes"
 
 const WORKSTATION_SECTION = "workstation"
 
@@ -171,8 +169,7 @@ export function statusBarLine(root: string): string {
   return JSON.stringify({
     workstation: workstationReadingOf(figuresOn(workstationRows)),
     usage: usageNow(),
+    resources: drawn(RESOURCES_SECTION),
     inbox: drawn(INBOX_SECTION),
-    upkeep: drawn(UPKEEP_SECTION),
-    attributes: drawn(ATTRIBUTES_SECTION),
   } satisfies StatusBarState)
 }

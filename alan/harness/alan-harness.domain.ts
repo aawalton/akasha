@@ -92,11 +92,11 @@ export const alanHarness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Alan's code editor status line shows workstation load, Claude usage and three stoplight sections.",
+        "Alan's code editor status line shows workstation load, Claude usage, his resources and his inboxes.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The code editor draws luck in the attributes section, and no widget does.",
+      decisionKind: "decision-kind/absence",
+      statement: "Neither the code editor nor any widget draws luck.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -159,5 +159,5 @@ export const alanHarness = {
     },
   ],
   createdAt: "2026-08-30T16:29:45.336Z",
-  updatedAt: "2026-09-27T15:34:43.000Z",
+  updatedAt: "2026-10-18T13:32:41.384Z",
 } as const satisfies Domain

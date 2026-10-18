@@ -9,7 +9,10 @@ export const attributeConstitution = {
   unit: "points",
   scale: "readout-scale/attribute-points",
   attribute: "attribute/constitution",
-  groups: [{ group: "readout-group/attributes", place: 3 }],
+  groups: [
+    { group: "readout-group/attributes", place: 3 },
+    { group: "readout-group/resources", place: 3, label: "Plants" },
+  ],
   wireKey: "constitution",
   servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
@@ -41,5 +44,5 @@ export const attributeConstitution = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row-and-food-entries",
   createdAt: "2026-09-03T17:02:13.638Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-18T13:32:41.384Z",
 } as const satisfies Readout

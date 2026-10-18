@@ -12,6 +12,7 @@ export const upkeepSurplus = {
   groups: [
     { group: "readout-group/upkeep", place: 2 },
     { group: "readout-group/surplus", place: 1 },
+    { group: "readout-group/resources", place: 1 },
   ],
   wireKey: "surplus",
   servedBy: ["module/surplus-reading", "service-workstation/surplus-relay-service"],
@@ -77,5 +78,5 @@ export const upkeepSurplus = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-09-02T01:36:55.386Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-18T13:32:41.384Z",
 } as const satisfies Readout
