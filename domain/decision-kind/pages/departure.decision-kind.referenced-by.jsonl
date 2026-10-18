@@ -1937,7 +1937,6 @@
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/health-samples-drain/alanwalton-health-samples-drain.shell-script.ts","id":"01a0595b-ef5a-7652-8db5-ad456ba7251d"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.ts","id":"01a0595b-ef5b-71a6-8bd8-99956227603e"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/last-place/alanwalton-last-place.shell-script.ts","id":"01a11c62-1c8c-73d9-9445-a9bc7e1cdd6c"}
-{"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/live-activity/alanwalton-live-activity.shell-script.ts","id":"01a0ba68-97db-73c8-8a86-d51eb0da597b"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/now-playing-commands/alanwalton-now-playing-commands.shell-script.ts","id":"01a11c38-887e-7403-93f8-c2a8d8984c37"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/picture-capture/alanwalton-picture-capture.shell-script.ts","id":"01a09c6a-ead3-701d-bb48-0fe59258d196"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/picture-intent/alanwalton-picture-intent.shell-script.ts","id":"01a09c6a-b3b2-77f6-b74b-12dcf2597e31"}
@@ -1964,8 +1963,6 @@
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-feed-key-checks/alanwalton-feed-key-checks.ios-component.ts","id":"01a0d965-d94e-71b0-8b7f-7373442b9763"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-refused-view/alanwalton-refused-view.ios-component.ts","id":"01a05835-69dc-7549-9bd0-f60662e9fff3"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts","id":"01a05835-69dc-706e-a604-be35e231c198"}
-{"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-stoplights-activity/alanwalton-stoplights-activity.ios-component.ts","id":"01a0ba5e-225c-7d6e-9341-9294f7f129b2"}
-{"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-stoplights-content/alanwalton-stoplights-content.ios-component.ts","id":"01a0ba66-2533-72c0-888b-9c1707cf9a62"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-widget-feed/alanwalton-widget-feed.ios-component.ts","id":"01a05835-69d7-777a-9161-494558086ce9"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/categorize-ring/categorize-ring.ios-component.ts","id":"01a05482-22db-796e-b0e4-76ec3c1bb83e"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/cost-ring/cost-ring.ios-component.ts","id":"01a08bbb-de99-7239-ae5c-c8f4b66aefa3"}

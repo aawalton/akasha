@@ -27,7 +27,6 @@ insert_import_after_capacitor MetricKit
 insert_import_after_capacitor WidgetKit
 insert_import_after_capacitor UserNotifications
 insert_import_after_capacitor AppIntents
-insert_import_after_capacitor ActivityKit
 insert_import_after_capacitor Network
 insert_import_after_capacitor UniformTypeIdentifiers
 insert_import_after_capacitor Security
@@ -38,3 +37,4 @@ insert_import_after_capacitor MediaPlayer
 # A build tree on the mac outlives a run, and an app delegate written while the
 # on-device Kokoro plugin was built still imports its packages at the head.
 remove_import FluidAudio
+remove_import ActivityKit

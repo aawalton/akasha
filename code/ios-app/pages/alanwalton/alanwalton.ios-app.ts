@@ -76,7 +76,6 @@ export const alanwalton = {
     "shell-script/alanwalton-wallpaper-intent",
     "shell-script/alanwalton-widget-refresh",
     "shell-script/alanwalton-widget-target",
-    "shell-script/alanwalton-live-activity",
     "shell-script/alanwalton-handover-sign-in",
     "shell-script/alanwalton-widget-tap-intent",
     "shell-script/alanwalton-now-playing-commands",
@@ -96,6 +95,6 @@ export const alanwalton = {
       statement: "A launch waits half a second for the kept address, then opens /home.",
     },
   ],
-  updatedAt: "2026-10-08T16:40:35.059Z",
+  updatedAt: "2026-10-18T13:35:32.996Z",
   createdAt: "2026-08-31T14:02:55.139Z",
 } as const satisfies IosApp

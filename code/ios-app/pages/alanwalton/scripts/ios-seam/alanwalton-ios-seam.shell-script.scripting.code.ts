@@ -21,10 +21,6 @@ const COMPONENT = "ios-component"
 
 const COMPONENTS = "components"
 
-const CARRIED = "alanwalton-stoplights-content"
-
-const SWIFT = "swift"
-
 const DRAWN = "alanwalton-widget"
 
 const RUNNING = "alanwalton-app"
@@ -58,7 +54,6 @@ const BEFORE = [
   "keyboard-accessory-suppressor",
   "apns-forwarding",
   "widget-refresh",
-  "live-activity",
   "badge",
   "wallpaper-intent",
   "health-samples-intent",
@@ -102,7 +97,6 @@ function placesIn(given: string | Reading) {
   const programs = dirname(dirname(tiles.path))
   const drawn = valuedAt(given, COMPONENT, slugsIn(tiles.value[exportedAs(COMPONENTS)])[0] ?? "")
   const components = dirname(dirname(drawn.path))
-  const carried = valuedAt(given, COMPONENT, CARRIED)
   const seam = dirname(dirname(shellAt(given, STAMPING)))
   return {
     here,
@@ -112,7 +106,6 @@ function placesIn(given: string | Reading) {
     toAppDir: relative(packaged, apps),
     toCode: relative(apps, code),
     components: relative(code, components),
-    stoplightsContent: relative(components, fileOf(given, carried, COMPONENT, SWIFT)),
     programs: relative(code, programs),
     shared: relative(code, seam),
     icon: relative(packaged, fileOf(given, app, APP, ICON)),
@@ -180,7 +173,6 @@ function namingIn(places: Places): readonly string[] {
     "# moved into akasha yet, so it reaches in from outside — which is the allowed",
     "# direction — rather than answering to whatever cwd the manifest was run in.",
     `SHARED_WIDGET_SRC_DIR="$AKASHA_HERE/${places.components}"`,
-    `STOPLIGHTS_CONTENT_SWIFT="$SHARED_WIDGET_SRC_DIR/${places.stoplightsContent}"`,
     "# Each thing this package builds is an akasha ios-program page, and the files Xcode",
     "# reads by a fixed name stand beside that page under names the grammar builds.",
     `PROGRAMS_DIR="$AKASHA_HERE/${places.programs}"`,
@@ -237,8 +229,6 @@ function settingIn(places: Places): readonly string[] {
     'HEALTH_UPDATE_DESC="alanwalton does not add any data to the Health app — it only reads your Active Energy so your daily calorie burn is tracked automatically."',
     "",
     'WIDGET_REFRESH_ENABLED="${NATIVE_SHELL_WIDGET_REFRESH:-1}"',
-    "",
-    'STOPLIGHTS_ACTIVITY_ENABLED="${NATIVE_SHELL_STOPLIGHTS_ACTIVITY:-1}"',
     "",
     'MONARCH_TAP_ENABLED="${NATIVE_SHELL_MONARCH_TAP:-1}"',
     "",

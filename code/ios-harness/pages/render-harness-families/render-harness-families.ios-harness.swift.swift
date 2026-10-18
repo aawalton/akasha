@@ -36,7 +36,6 @@ func familySpec(cli: String) -> FamilySpec? {
 struct SourceScan {
     let bundleWidgets: [String]
     let familiesByWidget: [String: [String]]
-    let liveActivities: Set<String>
 }
 
 func matches(_ pattern: String, _ text: String) -> [[String]] {
@@ -56,7 +55,6 @@ func scanSources(dir: String) throws -> SourceScan {
 
     var bundleWidgets: [String] = []
     var familiesByWidget: [String: [String]] = [:]
-    var liveActivities: Set<String> = []
 
     for file in files {
         let path = (dir as NSString).appendingPathComponent(file)
@@ -76,15 +74,6 @@ func scanSources(dir: String) throws -> SourceScan {
             if index + 1 < declarations.count, let next = tail.range(of: declarations[index + 1][0]) {
                 tail = String(tail[..<next.lowerBound])
             }
-            // A LIVE ACTIVITY IS A WIDGET DECLARING NO FAMILY, AND IS NOT A TILE THIS DRAWS.
-            //
-            // It is named here rather than left to fall out of the coverage check, because a
-            // tile whose families went unfound is the very thing that check is for. Saying
-            // which entries are activities keeps that check as sharp as it was.
-            if tail.contains("ActivityConfiguration(") {
-                liveActivities.insert(declaration[1])
-                continue
-            }
 
             let declared = matches(#"\.supportedFamilies\(\[([^\]]*)\]\)"#, tail)
             guard let list = declared.first, list.count > 1 else { continue }
@@ -92,10 +81,7 @@ func scanSources(dir: String) throws -> SourceScan {
         }
     }
 
-    return SourceScan(
-        bundleWidgets: bundleWidgets,
-        familiesByWidget: familiesByWidget,
-        liveActivities: liveActivities)
+    return SourceScan(bundleWidgets: bundleWidgets, familiesByWidget: familiesByWidget)
 }
 
 func slug(_ widget: String) -> String {

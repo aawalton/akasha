@@ -32,10 +32,8 @@ export const alanwaltonWidget = {
     "ios-component/surplus-ring",
     "ios-component/tier",
     "ios-component/widget-tap-link",
-    "ios-component/alanwalton-stoplights-activity",
-    "ios-component/alanwalton-stoplights-content",
   ],
   targetName: "ValuesWidgetExtension",
   createdAt: "2026-08-31T18:13:48.188Z",
-  updatedAt: "2026-09-24T20:04:57.000Z",
+  updatedAt: "2026-10-18T13:35:32.996Z",
 } as const satisfies IosProgram

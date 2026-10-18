@@ -41,8 +41,6 @@ export const iosComponent = {
     "ios-component/surplus-ring",
     "ios-component/tier",
     "ios-component/timeline-checks",
-    "ios-component/alanwalton-stoplights-activity",
-    "ios-component/alanwalton-stoplights-content",
     "ios-component/widget-tap-link",
     "ios-component/alanwalton-categorize-checks",
     "ios-component/alanwalton-feed-key-checks",
@@ -72,5 +70,5 @@ export const iosComponent = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T20:53:16.292Z",
-  updatedAt: "2026-10-13T14:00:44.354Z",
+  updatedAt: "2026-10-18T13:35:32.996Z",
 } as const satisfies PageType

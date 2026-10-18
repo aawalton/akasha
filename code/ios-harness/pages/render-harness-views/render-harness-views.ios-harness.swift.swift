@@ -59,21 +59,6 @@ func makeView(
     case "AttributeStoplightsWidget":
         let state = try feedState(AttributeStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(AttributeHomeView(entry: FeedEntry(date: date, state: state)))
-    // THE LIVE ACTIVITY IS HANDED ITS CONTENT RATHER THAN FETCHING ONE, SO IT HAS NO FEED STATE.
-    //
-    // Nothing it holds comes off a feed, so it has no refused and no never-loaded picture to
-    // render, and the body is read straight. Every value it carries is spelled the way the app
-    // spells one when handing a reading over, so a plain reader is the reader the app uses.
-    // THE ISLAND IS DRAWN UNDER A SECOND NAME.
-    //
-    // The bundle ships `StoplightsActivity` alone, so that name asks for the lock screen and the
-    // island's name asks for no coverage line and is reached only by a case naming it.
-    case "StoplightsActivity", "StoplightsIslandWidget":
-        let content = try JSONDecoder().decode(StoplightsAttributes.ContentState.self, from: body)
-        if widget == "StoplightsIslandWidget" {
-            return AnyView(StoplightsIslandView(state: content))
-        }
-        return AnyView(StoplightsActivityView(state: content))
     case "UpkeepStoplightsWidget":
         let state = try feedState(UpkeepStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(UpkeepHomeView(entry: FeedEntry(date: date, state: state)))
