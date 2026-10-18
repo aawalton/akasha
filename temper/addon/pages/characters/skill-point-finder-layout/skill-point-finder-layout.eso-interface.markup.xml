@@ -13,7 +13,7 @@
 			<Dimensions x="400" y="18" />
 
 			<Controls>
-				<Label name="$(parent)_Source" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER">
+				<Label name="$(parent)_Source" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
 					<Dimensions x="200" y="18" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
 				</Label>
@@ -29,7 +29,7 @@
 		<Control name="TemperCharactersSkillPointFinder_SQSSTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 			<Dimensions x="300" y="18" />
 			<Controls>
-				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER">
+				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
 					<Dimensions x="150" y="18" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
 				</Label>
@@ -52,7 +52,7 @@
 		<Control name="TemperCharactersSkillPointFinder_GDQTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 			<Dimensions x="350" y="18" />
 			<Controls>
-				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER">
+				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
 					<Dimensions x="125" y="18" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
 				</Label>
@@ -62,7 +62,7 @@
 					<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
 				</Label>
 
-				<Label name="$(parent)_Dungeon" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER">
+				<Label name="$(parent)_Dungeon" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
 					<Dimensions y="18" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)_Zone" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
 					<Anchor point="TOPRIGHT" relativeTo="$(parent)_Progress" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
@@ -75,7 +75,7 @@
 		<Control name="TemperCharactersSkillPointFinder_PDGBETemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 			<Dimensions x="400" y="18" />
 			<Controls>
-				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER">
+				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
 					<Dimensions x="140" y="18" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
 				</Label>
@@ -85,7 +85,7 @@
 					<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
 				</Label>
 
-				<Label name="$(parent)_Dungeon" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER">
+				<Label name="$(parent)_Dungeon" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
 					<Dimensions y="18" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)_Zone" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
 					<Anchor point="TOPRIGHT" relativeTo="$(parent)_Progress" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />

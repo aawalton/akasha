@@ -12,7 +12,11 @@ export const skillPointFinderLayout = {
       decisionKind: "decision-kind/departure",
       statement: "The markup loads after the compiled Lua bundle.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name in a row keeps to one line and ends in an ellipsis where it runs long.",
+    },
   ],
   createdAt: "2026-09-02T16:16:55.511Z",
-  updatedAt: "2026-09-22T13:43:25.000Z",
+  updatedAt: "2026-10-18T19:10:27.141Z",
 } as const satisfies EsoInterface
