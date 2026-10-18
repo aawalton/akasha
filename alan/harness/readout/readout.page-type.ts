@@ -27,7 +27,7 @@ export const readout = {
     "module/readout-relay-carrying",
     "module/readout-scale-reading",
     "module/readout-serving",
-    "module/readout-tier",
+    "computed-property-module/readout-tier",
     "module/readout-watching",
     "module/widget-tap-counting",
     "module/widget-tap-link",
@@ -299,5 +299,5 @@ export const readout = {
   schema: "jsonl",
   loadedExport: ["sampler"],
   createdAt: "2026-08-30T20:05:28.032Z",
-  updatedAt: "2026-10-18T13:32:41.384Z",
+  updatedAt: "2026-10-18T13:39:16.755Z",
 } as const satisfies PageType

@@ -7,7 +7,7 @@ import {
   rungsIn,
   statedAt,
   tierAt,
-} from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
+} from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 
 const CLIMBING = rungsIn({ redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 })
 

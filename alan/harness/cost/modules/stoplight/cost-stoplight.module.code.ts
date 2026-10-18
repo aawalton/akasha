@@ -24,7 +24,7 @@ import {
 import {
   BELOW_EVERY_RUNG,
   readingSaid,
-} from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
+} from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"

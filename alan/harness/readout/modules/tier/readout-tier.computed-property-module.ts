@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { ComputedPropertyModule } from "akasha/page/computed-property-module/computed-property-module.page-type.types.ts"
 
 export const readoutTier = {
   id: "01a05f42-92f5-7001-98d7-66166fa0b0f6",
-  type: "page-type/module",
+  type: "page-type/computed-property-module",
   slug: "readout-tier",
   definition: "the rung a reading reaches on its scale",
   code: "ts",
@@ -156,5 +156,5 @@ export const readoutTier = {
     },
   ],
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-09-22T14:34:11.000Z",
-} as const satisfies Module
+  updatedAt: "2026-10-18T13:39:16.755Z",
+} as const satisfies ComputedPropertyModule

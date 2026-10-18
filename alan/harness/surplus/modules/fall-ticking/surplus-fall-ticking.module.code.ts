@@ -9,7 +9,7 @@ import { groupServedBy } from "akasha/alan/harness/readout/modules/group-serving
 import {
   type TierColor,
   tierAt,
-} from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
+} from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 import {
   type Readout,
   readReading,

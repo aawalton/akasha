@@ -745,7 +745,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/readout/modules/relay/readout-relay.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/readout/modules/scale-reading/readout-scale-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/readout/modules/serving/readout-serving.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/readout/modules/tier/readout-tier.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/readout/modules/watching/readout-watching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.ts","typed":true,"deferred":false}

@@ -1004,7 +1004,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/relay/readout-relay.module.ts","id":"01a05b53-8d89-70aa-a7f0-f32ee7eac52b"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/scale-reading/readout-scale-reading.module.ts","id":"01a05b54-a904-78de-9a09-417c68322618"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/serving/readout-serving.module.ts","id":"01a05bc9-a678-768f-ba6e-f91fdcf9ec6d"}
-{"propertySlug":"decision-kind","path":"alan/harness/readout/modules/tier/readout-tier.module.ts","id":"01a05f42-92f5-7001-98d7-66166fa0b0f6"}
+{"propertySlug":"decision-kind","path":"alan/harness/readout/modules/tier/readout-tier.computed-property-module.ts","id":"01a05f42-92f5-7001-98d7-66166fa0b0f6"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/watching/readout-watching.module.ts","id":"01a08c0f-6f8d-71b1-8b17-155ca606cb6a"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.ts","id":"01a078a8-b96f-765d-99ff-5703d9b2edd3"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.ts","id":"01a078a5-b8d4-7914-bdf7-41f482a36806"}

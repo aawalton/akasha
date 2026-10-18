@@ -1,5 +1,5 @@
 import type { Row } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
-import { statedAt } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
+import { statedAt } from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 
 const SAFETY_LEVEL = "safety-level"
 

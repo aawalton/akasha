@@ -19,7 +19,7 @@ import { readingHeldOn } from "akasha/alan/harness/readout/modules/serving/reado
 import {
   type Rung,
   rungsIn,
-} from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
+} from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 import {
   readingOf,
   type UsageReading,

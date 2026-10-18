@@ -13,7 +13,7 @@ import {
   rungsIn,
   type TierColor,
   tierAt,
-} from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
+} from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 import { guardReadout } from "akasha/alan/web/.server/readout-guarding/readout-guarding.module.code.ts"
 import { claudeUsage } from "akasha/alan/web/routes/claude-usage/claude-usage.route.ts"
 import { route } from "akasha/code/route/route.page-type.ts"
