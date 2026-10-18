@@ -6,6 +6,12 @@ export const pithkaLayout = {
   slug: "pithka-layout",
   definition: "the rows and screens the achievement tracker lays its controls out in",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tracker screen sits below the frame's divider, and the window grows to fit it.",
+    },
+  ],
   createdAt: "2026-09-26T16:33:23.197Z",
-  updatedAt: "2026-09-26T16:33:43.000Z",
+  updatedAt: "2026-10-18T20:10:13.287Z",
 } as const satisfies Module

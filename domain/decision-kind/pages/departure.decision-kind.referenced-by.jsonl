@@ -4421,6 +4421,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/pithka-controls/pithka-controls.module.ts","id":"01a0de89-fe6f-787c-9253-df980fda7cdb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/pithka-entry/pithka-entry.module.ts","id":"01a0dea5-6b22-710f-9f7a-a8d61c57484b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/pithka-group-finder-window/pithka-group-finder-window.module.ts","id":"01a0de92-1241-72e5-85cb-d718c2ab2468"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/pithka-layout/pithka-layout.module.ts","id":"01a0de90-70fd-7d31-93f6-5daeec7600ff"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-blocks/qr-code-blocks.module.ts","id":"01a0de9b-3c6f-7838-9b53-a5d239ec0593"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-draw/qr-code-draw.module.ts","id":"01a0dea3-f90f-7b5b-b173-1f72e203cfe4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-encode/qr-code-encode.module.ts","id":"01a0dea1-68fa-7d13-b0c0-5f37fad2e44f"}

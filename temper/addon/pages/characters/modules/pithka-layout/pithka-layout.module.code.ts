@@ -1,4 +1,7 @@
-import { ICON_SIZE } from "akasha/temper/addon/pages/characters/modules/pithka-constants/pithka-constants.module.code.ts"
+import {
+  FRAME_SHIFT,
+  ICON_SIZE,
+} from "akasha/temper/addon/pages/characters/modules/pithka-constants/pithka-constants.module.code.ts"
 import {
   newLabel,
   setWindowDimensions,
@@ -29,7 +32,8 @@ export function createGrid(
   const rows: Control[][] = []
   const anchor = newLabel()
   anchor.SetDimensions(1, 1)
-  anchor.SetAnchor(alignment, relativeTo, alignment, xOffset, yOffset)
+  const shift = relativeTo === TemperCharactersPithka_GUI ? FRAME_SHIFT : 0
+  anchor.SetAnchor(alignment, relativeTo, alignment, xOffset, yOffset + shift)
   let prevRow: Control = anchor
   return {
     addRow: (objects) => {
@@ -88,7 +92,7 @@ export function createScreen(
       isHidden = hidden
       for (const object of objects) object.setHidden(hidden)
       if (!hidden) {
-        setWindowDimensions(width, height)
+        setWindowDimensions(width, height + FRAME_SHIFT)
         setWindowTitle(title)
       }
       return undefined

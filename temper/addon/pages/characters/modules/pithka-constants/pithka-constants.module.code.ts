@@ -39,6 +39,8 @@ export const DEFAULT_FONT = "ZoFontGame"
 export const SMALL_FONT = "ZoFontGameSmall"
 
 export const ICON_TEXTURE = "esoui/art/tutorial/ava_rankicon64_general.dds"
+export const FRAME_SHIFT = 16
+
 export const ICON_SIZE = 23
 export const NAV_ICON_SIZE = 45
 
