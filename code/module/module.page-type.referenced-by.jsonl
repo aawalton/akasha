@@ -500,6 +500,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/sync-run/sync-run.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/sync/sync.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/watching-queue/watching-queue.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/reading/modules/chapter-choosing/chapter-choosing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/reading/modules/resume-chapter/resume-chapter.module.ts","typed":true,"deferred":false}

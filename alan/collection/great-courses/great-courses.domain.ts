@@ -21,6 +21,7 @@ export const greatCourses = {
     "module/sync-run",
     "service-workstation/great-courses-sync",
     "module/lecture-progress",
+    "module/watching-queue",
   ],
   decisions: [
     {
@@ -33,7 +34,7 @@ export const greatCourses = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Nothing is read over the network but the catalogue itself.",
+      statement: "The sync reads nothing over the network but the catalogue itself.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -45,5 +46,5 @@ export const greatCourses = {
     },
   ],
   createdAt: "2026-09-03T04:14:46.233Z",
-  updatedAt: "2026-10-18T17:13:18.694Z",
+  updatedAt: "2026-10-18T17:14:38.301Z",
 } as const satisfies Domain

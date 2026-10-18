@@ -590,6 +590,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.ts","id":"01a06580-196a-7000-9451-e53d200e3e2d"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/sync-run/sync-run.module.ts","id":"01a06580-196a-7001-8989-3755d6f4c2ed"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/sync/sync.module.ts","id":"01a06579-f3d9-7007-b519-cafdb2cbafba"}
+{"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/watching-queue/watching-queue.module.ts","id":"01a15002-1d5e-7b64-80b0-358ca1adf304"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/service-workstations/sync/great-courses-sync.service-workstation.ts","id":"01a06829-0194-71d6-8b3b-2687352034df"}
 {"propertySlug":"decision-kind","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.ts","id":"01a0686c-fd2c-7002-a269-4f47fac2fd46"}
 {"propertySlug":"decision-kind","path":"alan/collection/place/location-collection/location-collection.page-type.ts","id":"01a06589-d12e-7daf-abd1-8fb5c89e9127"}
