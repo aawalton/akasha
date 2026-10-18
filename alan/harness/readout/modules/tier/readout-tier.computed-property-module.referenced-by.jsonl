@@ -1,8 +1,6 @@
+{"propertySlug":"import","fileName":"readout-tier.computed-property-module.code.ts","path":"alan/attribute/modules/points/attribute-points.computed-property-module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-tier.computed-property-module.code.ts","path":"alan/attribute/pages/charisma/charisma.attribute.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"readout-tier.computed-property-module.code.ts","path":"alan/attribute/pages/constitution/constitution.attribute.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"readout-tier.computed-property-module.code.ts","path":"alan/attribute/pages/endurance/endurance.attribute.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-tier.computed-property-module.code.ts","path":"alan/attribute/pages/intelligence/intelligence.attribute.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"readout-tier.computed-property-module.code.ts","path":"alan/attribute/pages/strength/strength.attribute.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-tier.computed-property-module.code.ts","path":"alan/attribute/pages/wisdom/wisdom.attribute.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-tier.computed-property-module.code.ts","path":"alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.reading.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-tier.computed-property-module.code.ts","path":"alan/harness/code-editor/data-interface/modules/status-bar-composing/status-bar-composing.module.code.ts","typed":false,"deferred":false}

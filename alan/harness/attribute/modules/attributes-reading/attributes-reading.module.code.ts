@@ -1,17 +1,19 @@
 import {
+  enduranceIn,
+  strengthIn,
+} from "akasha/alan/attribute/modules/points/attribute-points.computed-property-module.code.ts"
+import {
   charismaIn,
   connectionIn,
 } from "akasha/alan/attribute/pages/charisma/charisma.attribute.code.ts"
 import { charisma } from "akasha/alan/attribute/pages/charisma/charisma.attribute.ts"
 import { fetchConstitutionPoints } from "akasha/alan/attribute/pages/constitution/constitution.attribute.code.ts"
 import { constitution } from "akasha/alan/attribute/pages/constitution/constitution.attribute.ts"
-import { enduranceIn } from "akasha/alan/attribute/pages/endurance/endurance.attribute.code.ts"
 import { endurance } from "akasha/alan/attribute/pages/endurance/endurance.attribute.ts"
 import { intelligenceIn } from "akasha/alan/attribute/pages/intelligence/intelligence.attribute.code.ts"
 import { intelligence } from "akasha/alan/attribute/pages/intelligence/intelligence.attribute.ts"
 import { fetchLuckPoints } from "akasha/alan/attribute/pages/luck/luck.attribute.code.ts"
 import { luck } from "akasha/alan/attribute/pages/luck/luck.attribute.ts"
-import { strengthIn } from "akasha/alan/attribute/pages/strength/strength.attribute.code.ts"
 import { strength } from "akasha/alan/attribute/pages/strength/strength.attribute.ts"
 import { wisdomIn } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.code.ts"
 import { wisdom } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.ts"

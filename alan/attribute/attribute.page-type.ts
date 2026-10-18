@@ -21,6 +21,7 @@ export const attribute = {
     "domain/attribute-readout",
     "text-property/point-unit",
     "module/attribute-level",
+    "computed-property-module/attribute-points",
   ],
   properties: [
     { pageProperty: "code-file-property/code", required: false, many: false },
@@ -55,7 +56,12 @@ export const attribute = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The code beside an attribute's page earns that attribute its points.",
+      statement:
+        "An attribute's points are earned by the code beside its page or by the attribute points module.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A calculation works out an attribute's points from the attribute points module.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -66,5 +72,5 @@ export const attribute = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T17:12:06.653Z",
-  updatedAt: "2026-09-22T00:11:08.000Z",
+  updatedAt: "2026-10-18T13:43:32.840Z",
 } as const satisfies PageType

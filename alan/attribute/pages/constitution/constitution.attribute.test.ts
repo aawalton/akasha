@@ -1,10 +1,7 @@
 import { expect, test } from "bun:test"
 import {
-  constitutionIn,
   entriesBetween,
   fetchConstitutionPoints,
-  GRAMS_TO_THE_POINT,
-  gramsIn,
 } from "akasha/alan/attribute/pages/constitution/constitution.attribute.code.ts"
 import type { Row } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
 import {
@@ -28,20 +25,6 @@ test("the entries asked for are the food entries inside the window handed in", (
 
 test("the grams are asked for beside the id that names the entry", () => {
   expect((entriesBetween(FROM, TO) as Record<string, unknown>).keys).toEqual(["id", "plantGrams"])
-})
-
-test("the grams are every entry's grams added together", () => {
-  expect(gramsIn([ate(30), ate(12), ate(8)])).toBe(50)
-})
-
-test("an entry whose grams spell no number adds nothing to the grams", () => {
-  expect(gramsIn([ate(30), ate(""), ate("   "), ate("some")])).toBe(30)
-})
-
-test("a hundred grams of whole plants eaten is one point", () => {
-  expect(GRAMS_TO_THE_POINT).toBe(100)
-  expect(constitutionIn(100)).toBeCloseTo(1, 10)
-  expect(constitutionIn(320)).toBeCloseTo(3.2, 10)
 })
 
 test("the points are the grams of the window's food entries turned into points", async () => {

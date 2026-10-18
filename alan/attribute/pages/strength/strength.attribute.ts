@@ -6,8 +6,6 @@ export const strength = {
   slug: "strength",
   definition: "what Alan has built by lifting weight",
   pointUnit: "1000 kilograms lifted",
-  code: "ts",
-  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -27,5 +25,5 @@ export const strength = {
     },
   ],
   createdAt: "2026-09-03T17:12:06.836Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-18T13:43:32.840Z",
 } as const satisfies Attribute

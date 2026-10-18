@@ -6,8 +6,6 @@ export const endurance = {
   slug: "endurance",
   definition: "what Alan has built by moving his body",
   pointUnit: "200 active calories burned",
-  code: "ts",
-  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -23,5 +21,5 @@ export const endurance = {
     },
   ],
   createdAt: "2026-09-03T17:12:06.766Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-18T13:43:32.840Z",
 } as const satisfies Attribute

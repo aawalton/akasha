@@ -46,7 +46,7 @@ export const attributesTotalling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day's points are worked out by the code beside that attribute's page.",
+      statement: "A day's points are worked out where that attribute's points are earned.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -103,5 +103,5 @@ export const attributesTotalling = {
     },
   ],
   createdAt: "2026-09-06T21:22:18.715Z",
-  updatedAt: "2026-09-25T17:33:30.000Z",
+  updatedAt: "2026-10-18T13:43:32.840Z",
 } as const satisfies Module

@@ -512,6 +512,7 @@
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.ts","id":"01a0883e-5a1e-7450-ac91-ba1c3f52e21b"}
 {"propertySlug":"decision-kind","path":"alan/attribute/attribute.page-type.ts","id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}
 {"propertySlug":"decision-kind","path":"alan/attribute/modules/level/attribute-level.module.ts","id":"01a0c4b0-4a14-730d-a7cf-b11505b9cc59"}
+{"propertySlug":"decision-kind","path":"alan/attribute/modules/points/attribute-points.computed-property-module.ts","id":"01a14f40-dae9-7d7f-a669-7ab9ba1260c7"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/charisma/charisma.attribute.ts","id":"01a06841-a142-7b48-90d6-bb5e2c5138dd"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/constitution/constitution.attribute.ts","id":"01a06841-a158-76c3-9089-9842c06dc7c0"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/endurance/endurance.attribute.ts","id":"01a06841-a16e-7bcb-a31a-fba64ce8de69"}
