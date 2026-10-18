@@ -325,12 +325,18 @@ const OWN_WINDOWS: readonly UiWindow[] = [
       SCENE_MANAGER:Show("guildHistory")
     `
   ),
-  ownWindow(
-    "next-boss",
-    "Temper",
-    "TemperNextBossTimeTable",
-    "TemperNextBoss.enable() TemperNextBoss.showTimetable() TemperNextBoss.updateTimers()"
-  ),
+  {
+    ...ownWindow(
+      "next-boss",
+      "Temper",
+      "TemperNextBossTimeTable",
+      "TemperNextBoss.enable() TemperNextBoss.showTimetable() TemperNextBoss.updateTimers()"
+    ),
+    stages: `
+      HasPendingCompanion = function() return false end
+      HasActiveCompanion = function() return false end
+    `,
+  },
   ownWindow(
     "markers-quick-menu",
     "TemperWorld",

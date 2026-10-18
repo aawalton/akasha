@@ -86,10 +86,18 @@ export const uiWindows = {
     },
     {
       decisionKind: "decision-kind/constraint",
+      statement: "No companion is out in Imperial City, where the next-boss timetable shows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The next-boss timetable is brought up with no companion out.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
       statement:
         "A window shown only in a zone or a guild is reached through what the player's game answered.",
     },
   ],
   createdAt: "2026-09-22T18:34:22.283Z",
-  updatedAt: "2026-10-18T18:48:38.561Z",
+  updatedAt: "2026-10-18T18:59:19.479Z",
 } as const satisfies Module
