@@ -5,9 +5,9 @@ export const kellyClarksonDanceVaultMixesWalkAway4WalkAwayCraigJsBigLoveClub = {
   type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-walk-away-4-walk-away-craig-js-big-love-club",
   ownLength: 6.56355,
-  ownProgress: 0,
+  ownProgress: 6.56355,
   partOfCollections: ["release/kelly-clarkson-dance-vault-mixes-walk-away-4"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Walk Away - Craig J's Big Love Club",
   trackType: "studio",
@@ -30,5 +30,5 @@ export const kellyClarksonDanceVaultMixesWalkAway4WalkAwayCraigJsBigLoveClub = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

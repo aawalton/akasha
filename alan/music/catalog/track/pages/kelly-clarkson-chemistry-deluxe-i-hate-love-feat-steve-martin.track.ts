@@ -5,13 +5,13 @@ export const kellyClarksonChemistryDeluxeIHateLoveFeatSteveMartin = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-i-hate-love-feat-steve-martin",
   ownLength: 3.5567166666666665,
-  ownProgress: 0,
+  ownProgress: 3.5567166666666665,
   partOfCollections: [
     "release/kelly-clarkson-chemistry-deluxe",
     "release/kelly-clarkson-chemistry",
     "release/kelly-clarkson-i-hate-love-feat-steve-martin",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "i hate love (feat. Steve Martin)",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const kellyClarksonChemistryDeluxeIHateLoveFeatSteveMartin = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

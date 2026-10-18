@@ -5,9 +5,9 @@ export const kellyClarksonStrongerDeluxeVersionYouCantWin = {
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-you-cant-win",
   ownLength: 4.330216666666667,
-  ownProgress: 0,
+  ownProgress: 4.330216666666667,
   partOfCollections: ["release/kelly-clarkson-stronger-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "You Can't Win",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerDeluxeVersionYouCantWin = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

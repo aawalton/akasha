@@ -5,9 +5,9 @@ export const kellyClarksonSinceUBeenGoneSinceUBeenGone = {
   type: "page-type/track",
   slug: "kelly-clarkson-since-u-been-gone-since-u-been-gone",
   ownLength: 3.148216666666667,
-  ownProgress: 0,
+  ownProgress: 3.148216666666667,
   partOfCollections: ["release/kelly-clarkson-since-u-been-gone"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Since U Been Gone",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonSinceUBeenGoneSinceUBeenGone = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

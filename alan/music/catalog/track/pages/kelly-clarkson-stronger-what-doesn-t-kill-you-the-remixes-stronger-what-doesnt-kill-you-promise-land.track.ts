@@ -6,9 +6,9 @@ export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixesStrongerWhatDoesntK
     type: "page-type/track",
     slug: "kelly-clarkson-stronger-what-doesn-t-kill-you-the-remixes-stronger-what-doesnt-kill-you-promise-land",
     ownLength: 6.5713333333333335,
-    ownProgress: 0,
+    ownProgress: 6.5713333333333335,
     partOfCollections: ["release/kelly-clarkson-stronger-what-doesn-t-kill-you-the-remixes"],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Stronger (What Doesn't Kill You) - Promise Land Remix",
     trackType: "remix",
@@ -26,5 +26,5 @@ export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixesStrongerWhatDoesntK
       },
     ],
     createdAt: "2026-10-18T13:48:05.026Z",
-    updatedAt: "2026-10-18T13:48:05.026Z",
+    updatedAt: "2026-10-18T14:00:27.546Z",
   } as const satisfies Track

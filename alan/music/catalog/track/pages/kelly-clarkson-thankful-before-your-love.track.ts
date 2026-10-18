@@ -5,9 +5,9 @@ export const kellyClarksonThankfulBeforeYourLove = {
   type: "page-type/track",
   slug: "kelly-clarkson-thankful-before-your-love",
   ownLength: 3.9926666666666666,
-  ownProgress: 0,
+  ownProgress: 3.9926666666666666,
   partOfCollections: ["release/kelly-clarkson-thankful"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Before Your Love",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonThankfulBeforeYourLove = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

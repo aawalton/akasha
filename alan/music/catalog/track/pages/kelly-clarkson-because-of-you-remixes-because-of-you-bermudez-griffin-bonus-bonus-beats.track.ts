@@ -5,9 +5,9 @@ export const kellyClarksonBecauseOfYouRemixesBecauseOfYouBermudezGriffinBonusBon
   type: "page-type/track",
   slug: "kelly-clarkson-because-of-you-remixes-because-of-you-bermudez-griffin-bonus-bonus-beats",
   ownLength: 3.6091,
-  ownProgress: 0,
+  ownProgress: 3.6091,
   partOfCollections: ["release/kelly-clarkson-because-of-you-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Because Of You - Bermudez & Griffin Bonus Bonus Beats",
   trackType: "studio",
@@ -30,5 +30,5 @@ export const kellyClarksonBecauseOfYouRemixesBecauseOfYouBermudezGriffinBonusBon
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

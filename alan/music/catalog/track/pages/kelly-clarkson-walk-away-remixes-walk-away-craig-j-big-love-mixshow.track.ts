@@ -5,9 +5,9 @@ export const kellyClarksonWalkAwayRemixesWalkAwayCraigJBigLoveMixshow = {
   type: "page-type/track",
   slug: "kelly-clarkson-walk-away-remixes-walk-away-craig-j-big-love-mixshow",
   ownLength: 5.39755,
-  ownProgress: 0,
+  ownProgress: 5.39755,
   partOfCollections: ["release/kelly-clarkson-walk-away-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Walk Away - Craig J Big Love Mixshow",
   trackType: "studio",
@@ -30,5 +30,5 @@ export const kellyClarksonWalkAwayRemixesWalkAwayCraigJBigLoveMixshow = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

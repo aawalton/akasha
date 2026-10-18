@@ -5,12 +5,12 @@ export const kellyClarksonChemistryDeluxeMyMistake = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-my-mistake",
   ownLength: 3.27705,
-  ownProgress: 0,
+  ownProgress: 3.27705,
   partOfCollections: [
     "release/kelly-clarkson-chemistry-deluxe",
     "release/kelly-clarkson-chemistry",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "my mistake",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const kellyClarksonChemistryDeluxeMyMistake = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const kellyClarksonIDonTThinkAboutYouRemixesIDontThinkAboutYouTepNoRemix 
   type: "page-type/track",
   slug: "kelly-clarkson-i-don-t-think-about-you-remixes-i-dont-think-about-you-tep-no-remix",
   ownLength: 3.2775833333333333,
-  ownProgress: 0,
+  ownProgress: 3.2775833333333333,
   partOfCollections: ["release/kelly-clarkson-i-don-t-think-about-you-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Don't Think About You - Tep No Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonIDonTThinkAboutYouRemixesIDontThinkAboutYouTepNoRemix 
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

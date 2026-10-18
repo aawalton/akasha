@@ -5,9 +5,9 @@ export const kellyClarksonMeaningOfLifeDontYouPretend = {
   type: "page-type/track",
   slug: "kelly-clarkson-meaning-of-life-dont-you-pretend",
   ownLength: 3.2304333333333335,
-  ownProgress: 0,
+  ownProgress: 3.2304333333333335,
   partOfCollections: ["release/kelly-clarkson-meaning-of-life"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Don't You Pretend",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonMeaningOfLifeDontYouPretend = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

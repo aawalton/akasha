@@ -5,9 +5,9 @@ export const kellyClarksonPieceByPieceDeluxeVersionSecondWind = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-second-wind",
   ownLength: 3.26405,
-  ownProgress: 0,
+  ownProgress: 3.26405,
   partOfCollections: ["release/kelly-clarkson-piece-by-piece-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Second Wind",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonPieceByPieceDeluxeVersionSecondWind = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

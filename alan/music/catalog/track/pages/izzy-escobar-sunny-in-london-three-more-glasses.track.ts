@@ -5,9 +5,9 @@ export const izzyEscobarSunnyInLondonThreeMoreGlasses = {
   type: "page-type/track",
   slug: "izzy-escobar-sunny-in-london-three-more-glasses",
   ownLength: 3.1760166666666665,
-  ownProgress: 0,
+  ownProgress: 3.1760166666666665,
   partOfCollections: ["release/izzy-escobar-sunny-in-london"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Three More Glasses",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const izzyEscobarSunnyInLondonThreeMoreGlasses = {
     },
   ],
   createdAt: "2026-10-18T13:45:27.615Z",
-  updatedAt: "2026-10-18T13:45:27.615Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

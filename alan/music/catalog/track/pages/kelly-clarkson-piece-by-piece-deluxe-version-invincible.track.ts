@@ -5,12 +5,12 @@ export const kellyClarksonPieceByPieceDeluxeVersionInvincible = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-invincible",
   ownLength: 3.97265,
-  ownProgress: 0,
+  ownProgress: 3.97265,
   partOfCollections: [
     "release/kelly-clarkson-piece-by-piece-deluxe-version",
     "release/kelly-clarkson-invincible",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Invincible",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const kellyClarksonPieceByPieceDeluxeVersionInvincible = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

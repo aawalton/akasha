@@ -5,9 +5,9 @@ export const kellyClarksonMeaningOfLifeWholeLottaWoman = {
   type: "page-type/track",
   slug: "kelly-clarkson-meaning-of-life-whole-lotta-woman",
   ownLength: 2.8897666666666666,
-  ownProgress: 0,
+  ownProgress: 2.8897666666666666,
   partOfCollections: ["release/kelly-clarkson-meaning-of-life"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Whole Lotta Woman",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonMeaningOfLifeWholeLottaWoman = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

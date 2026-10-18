@@ -5,9 +5,9 @@ export const kellyClarksonIVeLovedYouSinceForeverIveLovedYouSinceForever = {
   type: "page-type/track",
   slug: "kelly-clarkson-i-ve-loved-you-since-forever-ive-loved-you-since-forever",
   ownLength: 1.3491166666666667,
-  ownProgress: 0,
+  ownProgress: 1.3491166666666667,
   partOfCollections: ["release/kelly-clarkson-i-ve-loved-you-since-forever"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I've Loved You Since Forever",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonIVeLovedYouSinceForeverIveLovedYouSinceForever = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

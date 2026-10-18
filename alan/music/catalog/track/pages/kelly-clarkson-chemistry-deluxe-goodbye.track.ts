@@ -5,9 +5,9 @@ export const kellyClarksonChemistryDeluxeGoodbye = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-goodbye",
   ownLength: 3.2832,
-  ownProgress: 0,
+  ownProgress: 3.2832,
   partOfCollections: ["release/kelly-clarkson-chemistry-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "goodbye",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonChemistryDeluxeGoodbye = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

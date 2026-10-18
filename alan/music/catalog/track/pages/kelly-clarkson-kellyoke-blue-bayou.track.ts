@@ -5,9 +5,9 @@ export const kellyClarksonKellyokeBlueBayou = {
   type: "page-type/track",
   slug: "kelly-clarkson-kellyoke-blue-bayou",
   ownLength: 3.86675,
-  ownProgress: 0,
+  ownProgress: 3.86675,
   partOfCollections: ["release/kelly-clarkson-kellyoke"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Blue Bayou",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonKellyokeBlueBayou = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

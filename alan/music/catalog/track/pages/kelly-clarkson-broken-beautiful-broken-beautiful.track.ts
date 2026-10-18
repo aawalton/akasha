@@ -5,9 +5,9 @@ export const kellyClarksonBrokenBeautifulBrokenBeautiful = {
   type: "page-type/track",
   slug: "kelly-clarkson-broken-beautiful-broken-beautiful",
   ownLength: 3.6491333333333333,
-  ownProgress: 0,
+  ownProgress: 3.6491333333333333,
   partOfCollections: ["release/kelly-clarkson-broken-beautiful"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Broken & Beautiful",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonBrokenBeautifulBrokenBeautiful = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

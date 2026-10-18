@@ -5,9 +5,9 @@ export const kellyClarksonStrongerTrackByTrackAboutEinsteinCommentary = {
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-track-by-track-about-einstein-commentary",
   ownLength: 1.0033333333333334,
-  ownProgress: 0,
+  ownProgress: 1.0033333333333334,
   partOfCollections: ["release/kelly-clarkson-stronger-track-by-track"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "About Einstein - Commentary",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerTrackByTrackAboutEinsteinCommentary = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

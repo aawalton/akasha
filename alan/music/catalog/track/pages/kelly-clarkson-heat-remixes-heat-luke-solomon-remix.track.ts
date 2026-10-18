@@ -5,12 +5,12 @@ export const kellyClarksonHeatRemixesHeatLukeSolomonRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-heat-remixes-heat-luke-solomon-remix",
   ownLength: 3.5224,
-  ownProgress: 0,
+  ownProgress: 3.5224,
   partOfCollections: [
     "release/kelly-clarkson-heat-remixes",
     "release/kelly-clarkson-heat-luke-solomon-remix-2",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Heat - Luke Solomon Remix",
   trackType: "remix",
@@ -35,5 +35,5 @@ export const kellyClarksonHeatRemixesHeatLukeSolomonRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

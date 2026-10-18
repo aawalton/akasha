@@ -5,9 +5,9 @@ export const kellyClarksonStrongerDeluxeVersionEinstein = {
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-einstein",
   ownLength: 2.9833333333333334,
-  ownProgress: 0,
+  ownProgress: 2.9833333333333334,
   partOfCollections: ["release/kelly-clarkson-stronger-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Einstein",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerDeluxeVersionEinstein = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

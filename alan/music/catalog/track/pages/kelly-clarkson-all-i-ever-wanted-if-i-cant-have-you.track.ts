@@ -5,9 +5,9 @@ export const kellyClarksonAllIEverWantedIfICantHaveYou = {
   type: "page-type/track",
   slug: "kelly-clarkson-all-i-ever-wanted-if-i-cant-have-you",
   ownLength: 3.65355,
-  ownProgress: 0,
+  ownProgress: 3.65355,
   partOfCollections: ["release/kelly-clarkson-all-i-ever-wanted"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "If I Can't Have You",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonAllIEverWantedIfICantHaveYou = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

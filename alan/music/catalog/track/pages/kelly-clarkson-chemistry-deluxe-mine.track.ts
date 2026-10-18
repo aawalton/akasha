@@ -5,7 +5,7 @@ export const kellyClarksonChemistryDeluxeMine = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-mine",
   ownLength: 3.18345,
-  ownProgress: 0,
+  ownProgress: 3.18345,
   partOfCollections: [
     "release/kelly-clarkson-chemistry-deluxe",
     "release/kelly-clarkson-chemistry",
@@ -13,7 +13,7 @@ export const kellyClarksonChemistryDeluxeMine = {
     "release/kelly-clarkson-i-hate-love-feat-steve-martin",
     "release/kelly-clarkson-mine-ty-sunderland-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "mine",
   trackType: "studio",
@@ -59,5 +59,5 @@ export const kellyClarksonChemistryDeluxeMine = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

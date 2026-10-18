@@ -5,9 +5,9 @@ export const kellyClarksonBreakawayBreakaway = {
   type: "page-type/track",
   slug: "kelly-clarkson-breakaway-breakaway",
   ownLength: 3.95,
-  ownProgress: 0,
+  ownProgress: 3.95,
   partOfCollections: ["release/kelly-clarkson-breakaway"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Breakaway",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonBreakawayBreakaway = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

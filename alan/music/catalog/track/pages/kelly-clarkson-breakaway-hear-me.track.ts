@@ -5,9 +5,9 @@ export const kellyClarksonBreakawayHearMe = {
   type: "page-type/track",
   slug: "kelly-clarkson-breakaway-hear-me",
   ownLength: 3.894433333333333,
-  ownProgress: 0,
+  ownProgress: 3.894433333333333,
   partOfCollections: ["release/kelly-clarkson-breakaway"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Hear Me",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonBreakawayHearMe = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const kellyClarksonPieceByPieceDeluxeVersionDanceWithMe = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-dance-with-me",
   ownLength: 4.3423,
-  ownProgress: 0,
+  ownProgress: 4.3423,
   partOfCollections: ["release/kelly-clarkson-piece-by-piece-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Dance With Me",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonPieceByPieceDeluxeVersionDanceWithMe = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

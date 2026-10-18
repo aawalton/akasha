@@ -5,9 +5,9 @@ export const kellyClarksonDanceVaultMixesWalkAway4WalkAwayChrisCoxTweakedDub = {
   type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-walk-away-4-walk-away-chris-cox-tweaked-dub",
   ownLength: 6.649333333333334,
-  ownProgress: 0,
+  ownProgress: 6.649333333333334,
   partOfCollections: ["release/kelly-clarkson-dance-vault-mixes-walk-away-4"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Walk Away - Chris Cox TwEaKed Dub",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonDanceVaultMixesWalkAway4WalkAwayChrisCoxTweakedDub = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

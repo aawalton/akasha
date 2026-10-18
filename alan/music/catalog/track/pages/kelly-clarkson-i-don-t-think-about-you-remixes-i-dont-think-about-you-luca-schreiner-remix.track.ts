@@ -5,9 +5,9 @@ export const kellyClarksonIDonTThinkAboutYouRemixesIDontThinkAboutYouLucaSchrein
   type: "page-type/track",
   slug: "kelly-clarkson-i-don-t-think-about-you-remixes-i-dont-think-about-you-luca-schreiner-remix",
   ownLength: 3.7394333333333334,
-  ownProgress: 0,
+  ownProgress: 3.7394333333333334,
   partOfCollections: ["release/kelly-clarkson-i-don-t-think-about-you-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Don't Think About You - Luca Schreiner Remix",
   trackType: "remix",
@@ -26,5 +26,5 @@ export const kellyClarksonIDonTThinkAboutYouRemixesIDontThinkAboutYouLucaSchrein
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

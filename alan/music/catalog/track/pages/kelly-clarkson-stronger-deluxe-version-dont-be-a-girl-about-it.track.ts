@@ -5,9 +5,9 @@ export const kellyClarksonStrongerDeluxeVersionDontBeAGirlAboutIt = {
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-dont-be-a-girl-about-it",
   ownLength: 3.4502166666666665,
-  ownProgress: 0,
+  ownProgress: 3.4502166666666665,
   partOfCollections: ["release/kelly-clarkson-stronger-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Don't Be A Girl About It",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerDeluxeVersionDontBeAGirlAboutIt = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

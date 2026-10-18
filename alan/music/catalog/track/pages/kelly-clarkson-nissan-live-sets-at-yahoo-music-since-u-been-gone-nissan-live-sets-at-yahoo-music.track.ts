@@ -5,9 +5,9 @@ export const kellyClarksonNissanLiveSetsAtYahooMusicSinceUBeenGoneNissanLiveSets
   type: "page-type/track",
   slug: "kelly-clarkson-nissan-live-sets-at-yahoo-music-since-u-been-gone-nissan-live-sets-at-yahoo-music",
   ownLength: 3.67555,
-  ownProgress: 0,
+  ownProgress: 3.67555,
   partOfCollections: ["release/kelly-clarkson-nissan-live-sets-at-yahoo-music"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Since U Been Gone - Nissan Live Sets At Yahoo! Music",
   trackType: "live",
@@ -25,5 +25,5 @@ export const kellyClarksonNissanLiveSetsAtYahooMusicSinceUBeenGoneNissanLiveSets
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

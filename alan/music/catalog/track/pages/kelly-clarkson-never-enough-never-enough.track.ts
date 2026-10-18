@@ -5,9 +5,9 @@ export const kellyClarksonNeverEnoughNeverEnough = {
   type: "page-type/track",
   slug: "kelly-clarkson-never-enough-never-enough",
   ownLength: 3.4022166666666664,
-  ownProgress: 0,
+  ownProgress: 3.4022166666666664,
   partOfCollections: ["release/kelly-clarkson-never-enough"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Never Enough",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonNeverEnoughNeverEnough = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

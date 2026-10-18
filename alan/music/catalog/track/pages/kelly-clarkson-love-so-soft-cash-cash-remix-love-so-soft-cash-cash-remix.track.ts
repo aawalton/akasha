@@ -5,9 +5,9 @@ export const kellyClarksonLoveSoSoftCashCashRemixLoveSoSoftCashCashRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-love-so-soft-cash-cash-remix-love-so-soft-cash-cash-remix",
   ownLength: 4.279283333333334,
-  ownProgress: 0,
+  ownProgress: 4.279283333333334,
   partOfCollections: ["release/kelly-clarkson-love-so-soft-cash-cash-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Love So Soft - Cash Cash Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonLoveSoSoftCashCashRemixLoveSoSoftCashCashRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

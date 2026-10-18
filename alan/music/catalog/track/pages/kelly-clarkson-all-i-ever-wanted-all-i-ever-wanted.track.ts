@@ -5,9 +5,9 @@ export const kellyClarksonAllIEverWantedAllIEverWanted = {
   type: "page-type/track",
   slug: "kelly-clarkson-all-i-ever-wanted-all-i-ever-wanted",
   ownLength: 3.9851,
-  ownProgress: 0,
+  ownProgress: 3.9851,
   partOfCollections: ["release/kelly-clarkson-all-i-ever-wanted"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "All I Ever Wanted",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonAllIEverWantedAllIEverWanted = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

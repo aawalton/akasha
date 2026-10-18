@@ -5,9 +5,9 @@ export const kellyClarksonDanceVaultMixesWalkAway2WalkAwayCraigJsBigLoveAcappell
   type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-walk-away-2-walk-away-craig-js-big-love-acappella",
   ownLength: 5.387766666666667,
-  ownProgress: 0,
+  ownProgress: 5.387766666666667,
   partOfCollections: ["release/kelly-clarkson-dance-vault-mixes-walk-away-2"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Walk Away - Craig J's Big Love Acappella",
   trackType: "a-cappella",
@@ -30,5 +30,5 @@ export const kellyClarksonDanceVaultMixesWalkAway2WalkAwayCraigJsBigLoveAcappell
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

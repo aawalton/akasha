@@ -5,9 +5,9 @@ export const kellyClarksonMyDecemberSober = {
   type: "page-type/track",
   slug: "kelly-clarkson-my-december-sober",
   ownLength: 4.844,
-  ownProgress: 0,
+  ownProgress: 4.844,
   partOfCollections: ["release/kelly-clarkson-my-december"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Sober",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonMyDecemberSober = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const kellyClarksonIDareYouEdenPrinceRemixIDareYouEdenPrinceRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-i-dare-you-eden-prince-remix-i-dare-you-eden-prince-remix",
   ownLength: 2.9679,
-  ownProgress: 0,
+  ownProgress: 2.9679,
   partOfCollections: ["release/kelly-clarkson-i-dare-you-eden-prince-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Dare You - Eden Prince Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonIDareYouEdenPrinceRemixIDareYouEdenPrinceRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

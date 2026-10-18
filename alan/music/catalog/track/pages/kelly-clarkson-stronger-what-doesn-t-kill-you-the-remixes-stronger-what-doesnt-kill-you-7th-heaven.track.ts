@@ -5,9 +5,9 @@ export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixesStrongerWhatDoesntK
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-what-doesn-t-kill-you-the-remixes-stronger-what-doesnt-kill-you-7th-heaven",
   ownLength: 7.474,
-  ownProgress: 0,
+  ownProgress: 7.474,
   partOfCollections: ["release/kelly-clarkson-stronger-what-doesn-t-kill-you-the-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Stronger (What Doesn't Kill You) - 7th Heaven Club Mix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixesStrongerWhatDoesntK
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

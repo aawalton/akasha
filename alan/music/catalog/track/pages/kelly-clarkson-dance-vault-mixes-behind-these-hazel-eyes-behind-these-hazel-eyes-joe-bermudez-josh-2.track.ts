@@ -6,9 +6,9 @@ export const kellyClarksonDanceVaultMixesBehindTheseHazelEyesBehindTheseHazelEye
     type: "page-type/track",
     slug: "kelly-clarkson-dance-vault-mixes-behind-these-hazel-eyes-behind-these-hazel-eyes-joe-bermudez-josh-2",
     ownLength: 5.41555,
-    ownProgress: 0,
+    ownProgress: 5.41555,
     partOfCollections: ["release/kelly-clarkson-dance-vault-mixes-behind-these-hazel-eyes"],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Behind These Hazel Eyes - Joe Bermudez & Josh Harris Mixshow Remix",
     trackType: "remix",
@@ -31,5 +31,5 @@ export const kellyClarksonDanceVaultMixesBehindTheseHazelEyesBehindTheseHazelEye
       },
     ],
     createdAt: "2026-10-18T13:48:05.026Z",
-    updatedAt: "2026-10-18T13:48:05.026Z",
+    updatedAt: "2026-10-18T14:00:27.546Z",
   } as const satisfies Track

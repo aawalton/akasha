@@ -5,9 +5,9 @@ export const kellyClarksonHeartbeatSongTheRemixesHeartbeatSongIkonRadioMix = {
   type: "page-type/track",
   slug: "kelly-clarkson-heartbeat-song-the-remixes-heartbeat-song-ikon-radio-mix",
   ownLength: 3.3125,
-  ownProgress: 0,
+  ownProgress: 3.3125,
   partOfCollections: ["release/kelly-clarkson-heartbeat-song-the-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Heartbeat Song - IKON Radio Mix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonHeartbeatSongTheRemixesHeartbeatSongIkonRadioMix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

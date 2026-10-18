@@ -5,12 +5,12 @@ export const kellyClarksonHeatRemixesHeatNikoTheKidRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-heat-remixes-heat-niko-the-kid-remix",
   ownLength: 3.5351333333333335,
-  ownProgress: 0,
+  ownProgress: 3.5351333333333335,
   partOfCollections: [
     "release/kelly-clarkson-heat-remixes",
     "release/kelly-clarkson-heat-niko-the-kid-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Heat - Niko the Kid Remix",
   trackType: "remix",
@@ -35,5 +35,5 @@ export const kellyClarksonHeatRemixesHeatNikoTheKidRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

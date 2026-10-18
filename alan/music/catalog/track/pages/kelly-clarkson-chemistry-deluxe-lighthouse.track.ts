@@ -5,14 +5,14 @@ export const kellyClarksonChemistryDeluxeLighthouse = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-lighthouse",
   ownLength: 3.3508833333333334,
-  ownProgress: 0,
+  ownProgress: 3.3508833333333334,
   partOfCollections: [
     "release/kelly-clarkson-chemistry-deluxe",
     "release/kelly-clarkson-chemistry",
     "release/kelly-clarkson-lighthouse",
     "release/kelly-clarkson-when-chemistry-comes-around",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "lighthouse",
   trackType: "studio",
@@ -51,5 +51,5 @@ export const kellyClarksonChemistryDeluxeLighthouse = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

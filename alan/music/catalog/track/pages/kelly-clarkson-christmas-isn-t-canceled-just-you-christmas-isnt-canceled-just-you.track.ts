@@ -5,9 +5,9 @@ export const kellyClarksonChristmasIsnTCanceledJustYouChristmasIsntCanceledJustY
   type: "page-type/track",
   slug: "kelly-clarkson-christmas-isn-t-canceled-just-you-christmas-isnt-canceled-just-you",
   ownLength: 3.85915,
-  ownProgress: 0,
+  ownProgress: 3.85915,
   partOfCollections: ["release/kelly-clarkson-christmas-isn-t-canceled-just-you"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Christmas Isn't Canceled (Just You)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonChristmasIsnTCanceledJustYouChristmasIsntCanceledJustY
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

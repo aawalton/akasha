@@ -5,9 +5,9 @@ export const kellyClarksonMeaningOfLifeMeaningOfLife = {
   type: "page-type/track",
   slug: "kelly-clarkson-meaning-of-life-meaning-of-life",
   ownLength: 3.850216666666667,
-  ownProgress: 0,
+  ownProgress: 3.850216666666667,
   partOfCollections: ["release/kelly-clarkson-meaning-of-life"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Meaning of Life",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonMeaningOfLifeMeaningOfLife = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

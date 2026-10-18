@@ -5,12 +5,12 @@ export const kellyClarksonChemistryDeluxeFavoriteKindOfHighDavidGuettaRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-favorite-kind-of-high-david-guetta-remix",
   ownLength: 2.56255,
-  ownProgress: 0,
+  ownProgress: 2.56255,
   partOfCollections: [
     "release/kelly-clarkson-chemistry-deluxe",
     "release/kelly-clarkson-favorite-kind-of-high-david-guetta-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "favorite kind of high - David Guetta Remix",
   trackType: "remix",
@@ -36,5 +36,5 @@ export const kellyClarksonChemistryDeluxeFavoriteKindOfHighDavidGuettaRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

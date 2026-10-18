@@ -5,9 +5,9 @@ export const kellyClarksonIDareYouArkadiRemixIDareYouArkadiRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-i-dare-you-arkadi-remix-i-dare-you-arkadi-remix",
   ownLength: 3.41935,
-  ownProgress: 0,
+  ownProgress: 3.41935,
   partOfCollections: ["release/kelly-clarkson-i-dare-you-arkadi-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Dare You - Arkadi Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonIDareYouArkadiRemixIDareYouArkadiRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

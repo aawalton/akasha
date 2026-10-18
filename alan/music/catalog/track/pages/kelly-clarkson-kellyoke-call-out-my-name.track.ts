@@ -5,9 +5,9 @@ export const kellyClarksonKellyokeCallOutMyName = {
   type: "page-type/track",
   slug: "kelly-clarkson-kellyoke-call-out-my-name",
   ownLength: 3.7592833333333333,
-  ownProgress: 0,
+  ownProgress: 3.7592833333333333,
   partOfCollections: ["release/kelly-clarkson-kellyoke"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Call Out My Name",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonKellyokeCallOutMyName = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

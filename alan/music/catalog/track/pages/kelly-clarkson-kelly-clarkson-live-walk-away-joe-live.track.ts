@@ -5,9 +5,9 @@ export const kellyClarksonKellyClarksonLiveWalkAwayJoeLive = {
   type: "page-type/track",
   slug: "kelly-clarkson-kelly-clarkson-live-walk-away-joe-live",
   ownLength: 3.7,
-  ownProgress: 0,
+  ownProgress: 3.7,
   partOfCollections: ["release/kelly-clarkson-kelly-clarkson-live"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Walk Away Joe - Live",
   trackType: "live",
@@ -25,5 +25,5 @@ export const kellyClarksonKellyClarksonLiveWalkAwayJoeLive = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

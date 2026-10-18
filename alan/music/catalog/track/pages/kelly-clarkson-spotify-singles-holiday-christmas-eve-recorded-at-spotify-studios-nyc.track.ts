@@ -5,9 +5,9 @@ export const kellyClarksonSpotifySinglesHolidayChristmasEveRecordedAtSpotifyStud
   type: "page-type/track",
   slug: "kelly-clarkson-spotify-singles-holiday-christmas-eve-recorded-at-spotify-studios-nyc",
   ownLength: 2.9404166666666667,
-  ownProgress: 0,
+  ownProgress: 2.9404166666666667,
   partOfCollections: ["release/kelly-clarkson-spotify-singles-holiday"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Christmas Eve - Recorded at Spotify Studios NYC",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonSpotifySinglesHolidayChristmasEveRecordedAtSpotifyStud
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

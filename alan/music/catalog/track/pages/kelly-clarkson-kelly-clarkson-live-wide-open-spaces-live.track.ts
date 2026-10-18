@@ -5,9 +5,9 @@ export const kellyClarksonKellyClarksonLiveWideOpenSpacesLive = {
   type: "page-type/track",
   slug: "kelly-clarkson-kelly-clarkson-live-wide-open-spaces-live",
   ownLength: 3.7035666666666667,
-  ownProgress: 0,
+  ownProgress: 3.7035666666666667,
   partOfCollections: ["release/kelly-clarkson-kelly-clarkson-live"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Wide Open Spaces - Live",
   trackType: "live",
@@ -25,5 +25,5 @@ export const kellyClarksonKellyClarksonLiveWideOpenSpacesLive = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

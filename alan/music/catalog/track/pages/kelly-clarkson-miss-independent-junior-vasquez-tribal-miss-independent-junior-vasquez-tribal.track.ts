@@ -5,9 +5,9 @@ export const kellyClarksonMissIndependentJuniorVasquezTribalMissIndependentJunio
   type: "page-type/track",
   slug: "kelly-clarkson-miss-independent-junior-vasquez-tribal-miss-independent-junior-vasquez-tribal",
   ownLength: 9.338216666666666,
-  ownProgress: 0,
+  ownProgress: 9.338216666666666,
   partOfCollections: ["release/kelly-clarkson-miss-independent-junior-vasquez-tribal"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Miss Independent - Junior Vasquez Tribal",
   trackType: "studio",
@@ -26,5 +26,5 @@ export const kellyClarksonMissIndependentJuniorVasquezTribalMissIndependentJunio
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

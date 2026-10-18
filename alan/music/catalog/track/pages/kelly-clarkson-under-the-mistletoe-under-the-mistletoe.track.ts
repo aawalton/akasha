@@ -5,9 +5,9 @@ export const kellyClarksonUnderTheMistletoeUnderTheMistletoe = {
   type: "page-type/track",
   slug: "kelly-clarkson-under-the-mistletoe-under-the-mistletoe",
   ownLength: 3.76145,
-  ownProgress: 0,
+  ownProgress: 3.76145,
   partOfCollections: ["release/kelly-clarkson-under-the-mistletoe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Under The Mistletoe",
   trackType: "studio",
@@ -30,5 +30,5 @@ export const kellyClarksonUnderTheMistletoeUnderTheMistletoe = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

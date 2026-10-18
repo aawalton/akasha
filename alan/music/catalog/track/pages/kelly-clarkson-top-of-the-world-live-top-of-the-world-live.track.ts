@@ -5,9 +5,9 @@ export const kellyClarksonTopOfTheWorldLiveTopOfTheWorldLive = {
   type: "page-type/track",
   slug: "kelly-clarkson-top-of-the-world-live-top-of-the-world-live",
   ownLength: 5.272716666666667,
-  ownProgress: 0,
+  ownProgress: 5.272716666666667,
   partOfCollections: ["release/kelly-clarkson-top-of-the-world-live"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Top of the World - Live",
   trackType: "live",
@@ -25,5 +25,5 @@ export const kellyClarksonTopOfTheWorldLiveTopOfTheWorldLive = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

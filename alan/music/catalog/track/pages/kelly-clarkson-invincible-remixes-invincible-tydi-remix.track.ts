@@ -5,9 +5,9 @@ export const kellyClarksonInvincibleRemixesInvincibleTydiRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-invincible-remixes-invincible-tydi-remix",
   ownLength: 4.5353666666666665,
-  ownProgress: 0,
+  ownProgress: 4.5353666666666665,
   partOfCollections: ["release/kelly-clarkson-invincible-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Invincible - TyDi Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonInvincibleRemixesInvincibleTydiRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

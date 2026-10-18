@@ -5,12 +5,12 @@ export const kellyClarksonHeatLukeSolomonRemix2HeatLukeSolomonFireDub = {
   type: "page-type/track",
   slug: "kelly-clarkson-heat-luke-solomon-remix-2-heat-luke-solomon-fire-dub",
   ownLength: 5.187583333333333,
-  ownProgress: 0,
+  ownProgress: 5.187583333333333,
   partOfCollections: [
     "release/kelly-clarkson-heat-luke-solomon-remix-2",
     "release/kelly-clarkson-heat-luke-solomon-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Heat - Luke Solomon Fire Dub",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const kellyClarksonHeatLukeSolomonRemix2HeatLukeSolomonFireDub = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

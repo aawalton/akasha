@@ -5,9 +5,9 @@ export const kellyClarksonPieceByPieceDeluxeVersionGoodGoesTheBye = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-good-goes-the-bye",
   ownLength: 3.3806333333333334,
-  ownProgress: 0,
+  ownProgress: 3.3806333333333334,
   partOfCollections: ["release/kelly-clarkson-piece-by-piece-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Good Goes The Bye",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonPieceByPieceDeluxeVersionGoodGoesTheBye = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

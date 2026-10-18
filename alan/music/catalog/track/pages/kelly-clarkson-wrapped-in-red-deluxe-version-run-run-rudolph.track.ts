@@ -5,9 +5,9 @@ export const kellyClarksonWrappedInRedDeluxeVersionRunRunRudolph = {
   type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version-run-run-rudolph",
   ownLength: 2.4663833333333334,
-  ownProgress: 0,
+  ownProgress: 2.4663833333333334,
   partOfCollections: ["release/kelly-clarkson-wrapped-in-red-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Run Run Rudolph",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonWrappedInRedDeluxeVersionRunRunRudolph = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

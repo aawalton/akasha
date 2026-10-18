@@ -5,9 +5,9 @@ export const kellyClarksonStrongerTrackByTrackAboutYouCantWinCommentary = {
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-track-by-track-about-you-cant-win-commentary",
   ownLength: 0.9406666666666667,
-  ownProgress: 0,
+  ownProgress: 0.9406666666666667,
   partOfCollections: ["release/kelly-clarkson-stronger-track-by-track"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "About You Can't Win - Commentary",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerTrackByTrackAboutYouCantWinCommentary = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

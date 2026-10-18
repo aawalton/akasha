@@ -5,9 +5,9 @@ export const kellyClarksonDanceVaultMixesBecauseOfYouBecauseOfYouJasonNevinsClub
   type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-because-of-you-because-of-you-jason-nevins-club-instrumental",
   ownLength: 6.372216666666667,
-  ownProgress: 0,
+  ownProgress: 6.372216666666667,
   partOfCollections: ["release/kelly-clarkson-dance-vault-mixes-because-of-you"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Because Of You - Jason Nevins Club Instrumental",
   trackType: "instrumental",
@@ -26,5 +26,5 @@ export const kellyClarksonDanceVaultMixesBecauseOfYouBecauseOfYouJasonNevinsClub
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

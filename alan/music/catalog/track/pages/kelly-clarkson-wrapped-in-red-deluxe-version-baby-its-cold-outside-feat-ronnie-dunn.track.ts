@@ -5,9 +5,9 @@ export const kellyClarksonWrappedInRedDeluxeVersionBabyItsColdOutsideFeatRonnieD
   type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version-baby-its-cold-outside-feat-ronnie-dunn",
   ownLength: 3.0252,
-  ownProgress: 0,
+  ownProgress: 3.0252,
   partOfCollections: ["release/kelly-clarkson-wrapped-in-red-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Baby, It's Cold Outside (feat. Ronnie Dunn)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonWrappedInRedDeluxeVersionBabyItsColdOutsideFeatRonnieD
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

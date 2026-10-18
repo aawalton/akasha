@@ -5,12 +5,12 @@ export const kellyClarksonWhenChristmasComesAroundAgainAllIWantForChristmasIsYou
   type: "page-type/track",
   slug: "kelly-clarkson-when-christmas-comes-around-again-all-i-want-for-christmas-is-you-bonus-track",
   ownLength: 3.7798833333333333,
-  ownProgress: 0,
+  ownProgress: 3.7798833333333333,
   partOfCollections: [
     "release/kelly-clarkson-when-christmas-comes-around-again",
     "release/kelly-clarkson-when-christmas-comes-around",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "All I Want for Christmas Is You - Bonus Track",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const kellyClarksonWhenChristmasComesAroundAgainAllIWantForChristmasIsYou
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

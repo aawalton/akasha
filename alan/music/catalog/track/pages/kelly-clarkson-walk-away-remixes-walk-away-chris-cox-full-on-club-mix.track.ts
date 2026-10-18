@@ -5,9 +5,9 @@ export const kellyClarksonWalkAwayRemixesWalkAwayChrisCoxFullOnClubMix = {
   type: "page-type/track",
   slug: "kelly-clarkson-walk-away-remixes-walk-away-chris-cox-full-on-club-mix",
   ownLength: 10.19755,
-  ownProgress: 0,
+  ownProgress: 10.19755,
   partOfCollections: ["release/kelly-clarkson-walk-away-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Walk Away - Chris Cox Full On Club Mix",
   trackType: "remix",
@@ -31,5 +31,5 @@ export const kellyClarksonWalkAwayRemixesWalkAwayChrisCoxFullOnClubMix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

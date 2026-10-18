@@ -5,9 +5,9 @@ export const kellyClarksonStrongerDeluxeVersionHonestly = {
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-honestly",
   ownLength: 3.602883333333333,
-  ownProgress: 0,
+  ownProgress: 3.602883333333333,
   partOfCollections: ["release/kelly-clarkson-stronger-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Honestly",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerDeluxeVersionHonestly = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

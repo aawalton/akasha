@@ -5,9 +5,9 @@ export const kellyClarksonWrappedInRedDeluxeVersionOhComeOhComeEmmanuel = {
   type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version-oh-come-oh-come-emmanuel",
   ownLength: 2.009933333333333,
-  ownProgress: 0,
+  ownProgress: 2.009933333333333,
   partOfCollections: ["release/kelly-clarkson-wrapped-in-red-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Oh Come, Oh Come Emmanuel",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonWrappedInRedDeluxeVersionOhComeOhComeEmmanuel = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

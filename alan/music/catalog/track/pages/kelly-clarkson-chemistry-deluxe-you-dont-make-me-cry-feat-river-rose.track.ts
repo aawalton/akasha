@@ -5,9 +5,9 @@ export const kellyClarksonChemistryDeluxeYouDontMakeMeCryFeatRiverRose = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-you-dont-make-me-cry-feat-river-rose",
   ownLength: 3.4120166666666667,
-  ownProgress: 0,
+  ownProgress: 3.4120166666666667,
   partOfCollections: ["release/kelly-clarkson-chemistry-deluxe"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "you don’t make me cry (feat. River Rose)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonChemistryDeluxeYouDontMakeMeCryFeatRiverRose = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

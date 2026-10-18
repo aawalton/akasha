@@ -5,12 +5,12 @@ export const kellyClarksonMeaningOfLifeIDontThinkAboutYou = {
   type: "page-type/track",
   slug: "kelly-clarkson-meaning-of-life-i-dont-think-about-you",
   ownLength: 3.736883333333333,
-  ownProgress: 0,
+  ownProgress: 3.736883333333333,
   partOfCollections: [
     "release/kelly-clarkson-meaning-of-life",
     "release/kelly-clarkson-i-don-t-think-about-you",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Don't Think About You",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const kellyClarksonMeaningOfLifeIDontThinkAboutYou = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

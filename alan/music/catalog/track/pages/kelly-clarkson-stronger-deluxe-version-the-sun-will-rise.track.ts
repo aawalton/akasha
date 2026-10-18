@@ -5,9 +5,9 @@ export const kellyClarksonStrongerDeluxeVersionTheSunWillRise = {
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-the-sun-will-rise",
   ownLength: 3.5573333333333332,
-  ownProgress: 0,
+  ownProgress: 3.5573333333333332,
   partOfCollections: ["release/kelly-clarkson-stronger-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Sun Will Rise",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerDeluxeVersionTheSunWillRise = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const kellyClarksonDanceVaultMixesBecauseOfYouBecauseOfYouJasonNevinsRadi
   type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-because-of-you-because-of-you-jason-nevins-radio",
   ownLength: 3.9724333333333335,
-  ownProgress: 0,
+  ownProgress: 3.9724333333333335,
   partOfCollections: ["release/kelly-clarkson-dance-vault-mixes-because-of-you"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Because Of You - Jason Nevins Radio",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonDanceVaultMixesBecauseOfYouBecauseOfYouJasonNevinsRadi
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const kellyClarksonWalkAwayRemixesWalkAwayOriginalMix = {
   type: "page-type/track",
   slug: "kelly-clarkson-walk-away-remixes-walk-away-original-mix",
   ownLength: 3.1397666666666666,
-  ownProgress: 0,
+  ownProgress: 3.1397666666666666,
   partOfCollections: ["release/kelly-clarkson-walk-away-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Walk Away (Original Mix)",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonWalkAwayRemixesWalkAwayOriginalMix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

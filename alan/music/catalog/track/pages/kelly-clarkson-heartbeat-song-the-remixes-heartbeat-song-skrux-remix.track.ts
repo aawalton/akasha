@@ -5,9 +5,9 @@ export const kellyClarksonHeartbeatSongTheRemixesHeartbeatSongSkruxRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-heartbeat-song-the-remixes-heartbeat-song-skrux-remix",
   ownLength: 4.57875,
-  ownProgress: 0,
+  ownProgress: 4.57875,
   partOfCollections: ["release/kelly-clarkson-heartbeat-song-the-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Heartbeat Song - Skrux Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonHeartbeatSongTheRemixesHeartbeatSongSkruxRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

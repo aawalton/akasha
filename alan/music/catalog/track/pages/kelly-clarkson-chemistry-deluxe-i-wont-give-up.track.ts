@@ -5,13 +5,13 @@ export const kellyClarksonChemistryDeluxeIWontGiveUp = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-i-wont-give-up",
   ownLength: 3.482683333333333,
-  ownProgress: 0,
+  ownProgress: 3.482683333333333,
   partOfCollections: [
     "release/kelly-clarkson-chemistry-deluxe",
     "release/kelly-clarkson-lighthouse",
     "release/kelly-clarkson-christmastry",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "i won’t give up",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const kellyClarksonChemistryDeluxeIWontGiveUp = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

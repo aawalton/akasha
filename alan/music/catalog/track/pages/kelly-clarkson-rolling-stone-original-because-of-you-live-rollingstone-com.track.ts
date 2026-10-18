@@ -5,9 +5,9 @@ export const kellyClarksonRollingStoneOriginalBecauseOfYouLiveRollingstoneCom = 
   type: "page-type/track",
   slug: "kelly-clarkson-rolling-stone-original-because-of-you-live-rollingstone-com",
   ownLength: 3.58,
-  ownProgress: 0,
+  ownProgress: 3.58,
   partOfCollections: ["release/kelly-clarkson-rolling-stone-original"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Because Of You - Live@Rollingstone.com",
   trackType: "live",
@@ -25,5 +25,5 @@ export const kellyClarksonRollingStoneOriginalBecauseOfYouLiveRollingstoneCom = 
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

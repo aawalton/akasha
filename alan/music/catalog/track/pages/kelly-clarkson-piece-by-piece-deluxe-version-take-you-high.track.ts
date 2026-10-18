@@ -5,12 +5,12 @@ export const kellyClarksonPieceByPieceDeluxeVersionTakeYouHigh = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-take-you-high",
   ownLength: 4.3368166666666665,
-  ownProgress: 0,
+  ownProgress: 4.3368166666666665,
   partOfCollections: [
     "release/kelly-clarkson-piece-by-piece-deluxe-version",
     "release/kelly-clarkson-take-you-high",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Take You High",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const kellyClarksonPieceByPieceDeluxeVersionTakeYouHigh = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

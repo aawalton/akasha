@@ -5,9 +5,9 @@ export const kellyClarksonWrappedInRedDeluxeVersionWhiteChristmas = {
   type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version-white-christmas",
   ownLength: 3.0383333333333336,
-  ownProgress: 0,
+  ownProgress: 3.0383333333333336,
   partOfCollections: ["release/kelly-clarkson-wrapped-in-red-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "White Christmas",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonWrappedInRedDeluxeVersionWhiteChristmas = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

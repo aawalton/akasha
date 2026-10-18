@@ -5,9 +5,9 @@ export const kellyClarksonHeartbeatSongTheRemixesHeartbeatSongDaveAudeRadioMix =
   type: "page-type/track",
   slug: "kelly-clarkson-heartbeat-song-the-remixes-heartbeat-song-dave-aude-radio-mix",
   ownLength: 3.8,
-  ownProgress: 0,
+  ownProgress: 3.8,
   partOfCollections: ["release/kelly-clarkson-heartbeat-song-the-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Heartbeat Song - Dave Audé Radio Mix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonHeartbeatSongTheRemixesHeartbeatSongDaveAudeRadioMix =
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

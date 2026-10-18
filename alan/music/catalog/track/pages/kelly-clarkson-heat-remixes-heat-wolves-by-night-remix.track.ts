@@ -5,12 +5,12 @@ export const kellyClarksonHeatRemixesHeatWolvesByNightRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-heat-remixes-heat-wolves-by-night-remix",
   ownLength: 3.1544666666666665,
-  ownProgress: 0,
+  ownProgress: 3.1544666666666665,
   partOfCollections: [
     "release/kelly-clarkson-heat-remixes",
     "release/kelly-clarkson-heat-wolves-by-night-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Heat - Wolves by Night Remix",
   trackType: "remix",
@@ -35,5 +35,5 @@ export const kellyClarksonHeatRemixesHeatWolvesByNightRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

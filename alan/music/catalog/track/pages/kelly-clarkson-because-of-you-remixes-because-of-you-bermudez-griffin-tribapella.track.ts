@@ -5,9 +5,9 @@ export const kellyClarksonBecauseOfYouRemixesBecauseOfYouBermudezGriffinTribapel
   type: "page-type/track",
   slug: "kelly-clarkson-because-of-you-remixes-because-of-you-bermudez-griffin-tribapella",
   ownLength: 5.400883333333334,
-  ownProgress: 0,
+  ownProgress: 5.400883333333334,
   partOfCollections: ["release/kelly-clarkson-because-of-you-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Because Of You - Bermudez & Griffin Tribapella",
   trackType: "studio",
@@ -30,5 +30,5 @@ export const kellyClarksonBecauseOfYouRemixesBecauseOfYouBermudezGriffinTribapel
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,12 +5,12 @@ export const kellyClarksonChemistryDeluxeMineTySunderlandRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-mine-ty-sunderland-remix",
   ownLength: 4.022433333333334,
-  ownProgress: 0,
+  ownProgress: 4.022433333333334,
   partOfCollections: [
     "release/kelly-clarkson-chemistry-deluxe",
     "release/kelly-clarkson-mine-ty-sunderland-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "mine (Ty Sunderland Remix)",
   trackType: "remix",
@@ -35,5 +35,5 @@ export const kellyClarksonChemistryDeluxeMineTySunderlandRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

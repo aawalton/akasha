@@ -5,9 +5,9 @@ export const kellyClarksonPeopleLikeUsRemixesPeopleLikeUsDavidTortRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-people-like-us-remixes-people-like-us-david-tort-remix",
   ownLength: 6.518666666666666,
-  ownProgress: 0,
+  ownProgress: 6.518666666666666,
   partOfCollections: ["release/kelly-clarkson-people-like-us-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "People Like Us - David Tort Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonPeopleLikeUsRemixesPeopleLikeUsDavidTortRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

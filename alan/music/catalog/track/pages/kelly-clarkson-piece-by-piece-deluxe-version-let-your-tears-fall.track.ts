@@ -5,9 +5,9 @@ export const kellyClarksonPieceByPieceDeluxeVersionLetYourTearsFall = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-let-your-tears-fall",
   ownLength: 3.9210333333333334,
-  ownProgress: 0,
+  ownProgress: 3.9210333333333334,
   partOfCollections: ["release/kelly-clarkson-piece-by-piece-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Let Your Tears Fall",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonPieceByPieceDeluxeVersionLetYourTearsFall = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,12 +5,12 @@ export const kellyClarksonChemistryDeluxeThatsRightFeatSheilaE = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-thats-right-feat-sheila-e",
   ownLength: 2.6624666666666665,
-  ownProgress: 0,
+  ownProgress: 2.6624666666666665,
   partOfCollections: [
     "release/kelly-clarkson-chemistry-deluxe",
     "release/kelly-clarkson-chemistry",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "that’s right (feat. Sheila E)",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const kellyClarksonChemistryDeluxeThatsRightFeatSheilaE = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

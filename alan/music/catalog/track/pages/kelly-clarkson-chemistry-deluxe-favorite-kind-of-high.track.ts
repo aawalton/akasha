@@ -5,7 +5,7 @@ export const kellyClarksonChemistryDeluxeFavoriteKindOfHigh = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-favorite-kind-of-high",
   ownLength: 2.9207833333333335,
-  ownProgress: 0,
+  ownProgress: 2.9207833333333335,
   partOfCollections: [
     "release/kelly-clarkson-chemistry-deluxe",
     "release/kelly-clarkson-chemistry",
@@ -13,7 +13,7 @@ export const kellyClarksonChemistryDeluxeFavoriteKindOfHigh = {
     "release/kelly-clarkson-i-hate-love-feat-steve-martin",
     "release/kelly-clarkson-favorite-kind-of-high-david-guetta-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "favorite kind of high",
   trackType: "studio",
@@ -59,5 +59,5 @@ export const kellyClarksonChemistryDeluxeFavoriteKindOfHigh = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

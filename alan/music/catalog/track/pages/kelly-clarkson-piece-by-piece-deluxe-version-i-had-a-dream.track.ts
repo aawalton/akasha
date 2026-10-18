@@ -5,9 +5,9 @@ export const kellyClarksonPieceByPieceDeluxeVersionIHadADream = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-i-had-a-dream",
   ownLength: 3.982066666666667,
-  ownProgress: 0,
+  ownProgress: 3.982066666666667,
   partOfCollections: ["release/kelly-clarkson-piece-by-piece-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Had A Dream",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonPieceByPieceDeluxeVersionIHadADream = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

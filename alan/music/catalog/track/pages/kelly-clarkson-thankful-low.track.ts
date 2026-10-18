@@ -5,9 +5,9 @@ export const kellyClarksonThankfulLow = {
   type: "page-type/track",
   slug: "kelly-clarkson-thankful-low",
   ownLength: 3.477333333333333,
-  ownProgress: 0,
+  ownProgress: 3.477333333333333,
   partOfCollections: ["release/kelly-clarkson-thankful"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Low",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonThankfulLow = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

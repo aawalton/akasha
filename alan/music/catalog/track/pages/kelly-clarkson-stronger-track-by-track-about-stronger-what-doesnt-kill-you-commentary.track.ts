@@ -5,9 +5,9 @@ export const kellyClarksonStrongerTrackByTrackAboutStrongerWhatDoesntKillYouComm
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-track-by-track-about-stronger-what-doesnt-kill-you-commentary",
   ownLength: 0.6653333333333333,
-  ownProgress: 0,
+  ownProgress: 0.6653333333333333,
   partOfCollections: ["release/kelly-clarkson-stronger-track-by-track"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "About Stronger (What Doesn't Kill You) - Commentary",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerTrackByTrackAboutStrongerWhatDoesntKillYouComm
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

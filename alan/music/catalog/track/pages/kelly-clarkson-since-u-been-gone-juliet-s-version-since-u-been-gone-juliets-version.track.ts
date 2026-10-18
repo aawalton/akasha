@@ -5,9 +5,9 @@ export const kellyClarksonSinceUBeenGoneJulietSVersionSinceUBeenGoneJulietsVersi
   type: "page-type/track",
   slug: "kelly-clarkson-since-u-been-gone-juliet-s-version-since-u-been-gone-juliets-version",
   ownLength: 2.8278333333333334,
-  ownProgress: 0,
+  ownProgress: 2.8278333333333334,
   partOfCollections: ["release/kelly-clarkson-since-u-been-gone-juliet-s-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Since U Been Gone - Juliet’s Version",
   trackType: "version",
@@ -25,5 +25,5 @@ export const kellyClarksonSinceUBeenGoneJulietSVersionSinceUBeenGoneJulietsVersi
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const kellyClarksonItSQuietUptownItsQuietUptown = {
   type: "page-type/track",
   slug: "kelly-clarkson-it-s-quiet-uptown-its-quiet-uptown",
   ownLength: 4.63145,
-  ownProgress: 0,
+  ownProgress: 4.63145,
   partOfCollections: ["release/kelly-clarkson-it-s-quiet-uptown"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "It's Quiet Uptown",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonItSQuietUptownItsQuietUptown = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

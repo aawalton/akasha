@@ -5,9 +5,9 @@ export const kellyClarksonInvincibleRemixesInvincible7thHeavenRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-invincible-remixes-invincible-7th-heaven-remix",
   ownLength: 6.75595,
-  ownProgress: 0,
+  ownProgress: 6.75595,
   partOfCollections: ["release/kelly-clarkson-invincible-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Invincible - 7th Heaven Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonInvincibleRemixesInvincible7thHeavenRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

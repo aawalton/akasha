@@ -5,9 +5,9 @@ export const kellyClarksonKellyokeQueenOfTheNight = {
   type: "page-type/track",
   slug: "kelly-clarkson-kellyoke-queen-of-the-night",
   ownLength: 3.1752,
-  ownProgress: 0,
+  ownProgress: 3.1752,
   partOfCollections: ["release/kelly-clarkson-kellyoke"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Queen of the Night",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonKellyokeQueenOfTheNight = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const kellyClarksonCatchMyBreathRemixesCatchMyBreathALabClubMix = {
   type: "page-type/track",
   slug: "kelly-clarkson-catch-my-breath-remixes-catch-my-breath-a-lab-club-mix",
   ownLength: 5.62555,
-  ownProgress: 0,
+  ownProgress: 5.62555,
   partOfCollections: ["release/kelly-clarkson-catch-my-breath-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Catch My Breath - A-Lab Club Mix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonCatchMyBreathRemixesCatchMyBreathALabClubMix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

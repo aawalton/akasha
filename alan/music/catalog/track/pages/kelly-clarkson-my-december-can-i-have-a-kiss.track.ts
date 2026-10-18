@@ -5,9 +5,9 @@ export const kellyClarksonMyDecemberCanIHaveAKiss = {
   type: "page-type/track",
   slug: "kelly-clarkson-my-december-can-i-have-a-kiss",
   ownLength: 3.49355,
-  ownProgress: 0,
+  ownProgress: 3.49355,
   partOfCollections: ["release/kelly-clarkson-my-december"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Can I Have A Kiss",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonMyDecemberCanIHaveAKiss = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

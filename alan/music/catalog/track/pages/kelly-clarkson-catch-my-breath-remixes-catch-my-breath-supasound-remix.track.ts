@@ -5,9 +5,9 @@ export const kellyClarksonCatchMyBreathRemixesCatchMyBreathSupasoundRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-catch-my-breath-remixes-catch-my-breath-supasound-remix",
   ownLength: 6.117766666666666,
-  ownProgress: 0,
+  ownProgress: 6.117766666666666,
   partOfCollections: ["release/kelly-clarkson-catch-my-breath-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Catch My Breath - Supasound Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonCatchMyBreathRemixesCatchMyBreathSupasoundRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

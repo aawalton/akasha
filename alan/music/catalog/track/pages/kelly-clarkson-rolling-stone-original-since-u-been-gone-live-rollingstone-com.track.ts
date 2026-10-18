@@ -5,9 +5,9 @@ export const kellyClarksonRollingStoneOriginalSinceUBeenGoneLiveRollingstoneCom 
   type: "page-type/track",
   slug: "kelly-clarkson-rolling-stone-original-since-u-been-gone-live-rollingstone-com",
   ownLength: 3.22155,
-  ownProgress: 0,
+  ownProgress: 3.22155,
   partOfCollections: ["release/kelly-clarkson-rolling-stone-original"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Since U Been Gone - Live@Rollingstone.com",
   trackType: "live",
@@ -25,5 +25,5 @@ export const kellyClarksonRollingStoneOriginalSinceUBeenGoneLiveRollingstoneCom 
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

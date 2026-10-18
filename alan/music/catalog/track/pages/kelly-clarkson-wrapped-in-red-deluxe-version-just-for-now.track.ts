@@ -5,9 +5,9 @@ export const kellyClarksonWrappedInRedDeluxeVersionJustForNow = {
   type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version-just-for-now",
   ownLength: 3.51565,
-  ownProgress: 0,
+  ownProgress: 3.51565,
   partOfCollections: ["release/kelly-clarkson-wrapped-in-red-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Just for Now",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonWrappedInRedDeluxeVersionJustForNow = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

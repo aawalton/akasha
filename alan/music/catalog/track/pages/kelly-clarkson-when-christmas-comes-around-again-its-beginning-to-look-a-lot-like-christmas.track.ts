@@ -5,13 +5,13 @@ export const kellyClarksonWhenChristmasComesAroundAgainItsBeginningToLookALotLik
   type: "page-type/track",
   slug: "kelly-clarkson-when-christmas-comes-around-again-its-beginning-to-look-a-lot-like-christmas",
   ownLength: 1.91165,
-  ownProgress: 0,
+  ownProgress: 1.91165,
   partOfCollections: [
     "release/kelly-clarkson-when-christmas-comes-around-again",
     "release/kelly-clarkson-when-christmas-comes-around",
     "release/kelly-clarkson-christmastry",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "It’s Beginning to Look a Lot Like Christmas",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const kellyClarksonWhenChristmasComesAroundAgainItsBeginningToLookALotLik
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

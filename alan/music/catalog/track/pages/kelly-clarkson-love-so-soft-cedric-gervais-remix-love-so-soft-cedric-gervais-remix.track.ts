@@ -5,9 +5,9 @@ export const kellyClarksonLoveSoSoftCedricGervaisRemixLoveSoSoftCedricGervaisRem
   type: "page-type/track",
   slug: "kelly-clarkson-love-so-soft-cedric-gervais-remix-love-so-soft-cedric-gervais-remix",
   ownLength: 3.2591666666666668,
-  ownProgress: 0,
+  ownProgress: 3.2591666666666668,
   partOfCollections: ["release/kelly-clarkson-love-so-soft-cedric-gervais-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Love So Soft - Cedric Gervais Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonLoveSoSoftCedricGervaisRemixLoveSoSoftCedricGervaisRem
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

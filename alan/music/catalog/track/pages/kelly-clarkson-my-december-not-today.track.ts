@@ -5,9 +5,9 @@ export const kellyClarksonMyDecemberNotToday = {
   type: "page-type/track",
   slug: "kelly-clarkson-my-december-not-today",
   ownLength: 3.490883333333333,
-  ownProgress: 0,
+  ownProgress: 3.490883333333333,
   partOfCollections: ["release/kelly-clarkson-my-december"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Not Today",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonMyDecemberNotToday = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

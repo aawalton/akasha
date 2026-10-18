@@ -5,9 +5,9 @@ export const kellyClarksonBreakawayIHateMyselfForLosingYou = {
   type: "page-type/track",
   slug: "kelly-clarkson-breakaway-i-hate-myself-for-losing-you",
   ownLength: 3.3411,
-  ownProgress: 0,
+  ownProgress: 3.3411,
   partOfCollections: ["release/kelly-clarkson-breakaway"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Hate Myself For Losing You",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonBreakawayIHateMyselfForLosingYou = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

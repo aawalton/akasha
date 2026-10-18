@@ -5,9 +5,9 @@ export const kellyClarksonBecauseOfYouRemixesBecauseOfYouBermudezGriffinUltimixI
   type: "page-type/track",
   slug: "kelly-clarkson-because-of-you-remixes-because-of-you-bermudez-griffin-ultimix-instrumental",
   ownLength: 5.386216666666667,
-  ownProgress: 0,
+  ownProgress: 5.386216666666667,
   partOfCollections: ["release/kelly-clarkson-because-of-you-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Because Of You - Bermudez & Griffin Ultimix Instrumental",
   trackType: "instrumental",
@@ -30,5 +30,5 @@ export const kellyClarksonBecauseOfYouRemixesBecauseOfYouBermudezGriffinUltimixI
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const kellyClarksonWhenChristmasComesAroundAgainYouForChristmas = {
   type: "page-type/track",
   slug: "kelly-clarkson-when-christmas-comes-around-again-you-for-christmas",
   ownLength: 2.9000666666666666,
-  ownProgress: 0,
+  ownProgress: 2.9000666666666666,
   partOfCollections: ["release/kelly-clarkson-when-christmas-comes-around-again"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "You For Christmas",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonWhenChristmasComesAroundAgainYouForChristmas = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

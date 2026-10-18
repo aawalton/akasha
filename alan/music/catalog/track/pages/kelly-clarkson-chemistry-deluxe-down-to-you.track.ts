@@ -5,12 +5,12 @@ export const kellyClarksonChemistryDeluxeDownToYou = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-down-to-you",
   ownLength: 3.156816666666667,
-  ownProgress: 0,
+  ownProgress: 3.156816666666667,
   partOfCollections: [
     "release/kelly-clarkson-chemistry-deluxe",
     "release/kelly-clarkson-chemistry",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "down to you",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const kellyClarksonChemistryDeluxeDownToYou = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

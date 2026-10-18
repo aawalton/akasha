@@ -5,9 +5,9 @@ export const kellyClarksonLoveMeLikeAManLiveLoveMeLikeAManLive = {
   type: "page-type/track",
   slug: "kelly-clarkson-love-me-like-a-man-live-love-me-like-a-man-live",
   ownLength: 3.2367,
-  ownProgress: 0,
+  ownProgress: 3.2367,
   partOfCollections: ["release/kelly-clarkson-love-me-like-a-man-live"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Love Me Like a Man - Live",
   trackType: "live",
@@ -25,5 +25,5 @@ export const kellyClarksonLoveMeLikeAManLiveLoveMeLikeAManLive = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

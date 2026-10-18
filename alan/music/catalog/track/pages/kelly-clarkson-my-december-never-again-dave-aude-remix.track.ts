@@ -5,9 +5,9 @@ export const kellyClarksonMyDecemberNeverAgainDaveAudeRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-my-december-never-again-dave-aude-remix",
   ownLength: 4.168433333333334,
-  ownProgress: 0,
+  ownProgress: 4.168433333333334,
   partOfCollections: ["release/kelly-clarkson-my-december"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Never Again - Dave Audé Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonMyDecemberNeverAgainDaveAudeRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

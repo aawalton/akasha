@@ -5,9 +5,9 @@ export const kellyClarksonThankfulYouThoughtWrong = {
   type: "page-type/track",
   slug: "kelly-clarkson-thankful-you-thought-wrong",
   ownLength: 3.832666666666667,
-  ownProgress: 0,
+  ownProgress: 3.832666666666667,
   partOfCollections: ["release/kelly-clarkson-thankful"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "You Thought Wrong",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonThankfulYouThoughtWrong = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const kellyClarksonWrappedInRedDeluxeVersionWinterDreamsBrandonsSong = {
   type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version-winter-dreams-brandons-song",
   ownLength: 3.3680166666666667,
-  ownProgress: 0,
+  ownProgress: 3.3680166666666667,
   partOfCollections: ["release/kelly-clarkson-wrapped-in-red-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Winter Dreams (Brandon's Song)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonWrappedInRedDeluxeVersionWinterDreamsBrandonsSong = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

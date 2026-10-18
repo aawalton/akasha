@@ -5,12 +5,12 @@ export const kellyClarksonWhenChristmasComesAroundAgainRockinAroundTheChristmasT
   type: "page-type/track",
   slug: "kelly-clarkson-when-christmas-comes-around-again-rockin-around-the-christmas-tree",
   ownLength: 1.8778833333333333,
-  ownProgress: 0,
+  ownProgress: 1.8778833333333333,
   partOfCollections: [
     "release/kelly-clarkson-when-christmas-comes-around-again",
     "release/kelly-clarkson-when-christmas-comes-around",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Rockin' Around the Christmas Tree",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const kellyClarksonWhenChristmasComesAroundAgainRockinAroundTheChristmasT
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

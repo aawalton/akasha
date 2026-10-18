@@ -5,9 +5,9 @@ export const kellyClarksonWrappedInRedRuffLoaderzRemixWrappedInRedRuffLoaderzRad
   type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-ruff-loaderz-remix-wrapped-in-red-ruff-loaderz-radio-mix",
   ownLength: 3.625,
-  ownProgress: 0,
+  ownProgress: 3.625,
   partOfCollections: ["release/kelly-clarkson-wrapped-in-red-ruff-loaderz-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Wrapped in Red - Ruff Loaderz Radio Mix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonWrappedInRedRuffLoaderzRemixWrappedInRedRuffLoaderzRad
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

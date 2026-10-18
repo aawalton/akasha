@@ -5,9 +5,9 @@ export const kellyClarksonPieceByPieceDeluxeVersionBadReputation = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-bad-reputation",
   ownLength: 3.3036833333333333,
-  ownProgress: 0,
+  ownProgress: 3.3036833333333333,
   partOfCollections: ["release/kelly-clarkson-piece-by-piece-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Bad Reputation",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonPieceByPieceDeluxeVersionBadReputation = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

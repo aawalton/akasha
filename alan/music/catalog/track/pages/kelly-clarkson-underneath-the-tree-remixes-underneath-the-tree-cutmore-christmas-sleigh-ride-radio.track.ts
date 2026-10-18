@@ -6,9 +6,9 @@ export const kellyClarksonUnderneathTheTreeRemixesUnderneathTheTreeCutmoreChrist
     type: "page-type/track",
     slug: "kelly-clarkson-underneath-the-tree-remixes-underneath-the-tree-cutmore-christmas-sleigh-ride-radio",
     ownLength: 3.9377666666666666,
-    ownProgress: 0,
+    ownProgress: 3.9377666666666666,
     partOfCollections: ["release/kelly-clarkson-underneath-the-tree-remixes"],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Underneath the Tree - Cutmore Christmas Sleigh Ride Radio Mix",
     trackType: "remix",
@@ -26,5 +26,5 @@ export const kellyClarksonUnderneathTheTreeRemixesUnderneathTheTreeCutmoreChrist
       },
     ],
     createdAt: "2026-10-18T13:48:05.026Z",
-    updatedAt: "2026-10-18T13:48:05.026Z",
+    updatedAt: "2026-10-18T14:00:27.546Z",
   } as const satisfies Track

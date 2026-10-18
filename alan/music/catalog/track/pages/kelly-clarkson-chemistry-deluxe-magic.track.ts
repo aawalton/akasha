@@ -5,13 +5,13 @@ export const kellyClarksonChemistryDeluxeMagic = {
   type: "page-type/track",
   slug: "kelly-clarkson-chemistry-deluxe-magic",
   ownLength: 3.25155,
-  ownProgress: 0,
+  ownProgress: 3.25155,
   partOfCollections: [
     "release/kelly-clarkson-chemistry-deluxe",
     "release/kelly-clarkson-chemistry",
     "release/kelly-clarkson-christmastry",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "magic",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const kellyClarksonChemistryDeluxeMagic = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

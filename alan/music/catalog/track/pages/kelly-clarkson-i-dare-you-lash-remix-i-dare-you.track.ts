@@ -5,7 +5,7 @@ export const kellyClarksonIDareYouLashRemixIDareYou = {
   type: "page-type/track",
   slug: "kelly-clarkson-i-dare-you-lash-remix-i-dare-you",
   ownLength: 3.601783333333333,
-  ownProgress: 0,
+  ownProgress: 3.601783333333333,
   partOfCollections: [
     "release/kelly-clarkson-i-dare-you-lash-remix",
     "release/kelly-clarkson-i-dare-you-gozzi-remix",
@@ -13,7 +13,7 @@ export const kellyClarksonIDareYouLashRemixIDareYou = {
     "release/kelly-clarkson-i-dare-you-eden-prince-remix",
     "release/kelly-clarkson-i-dare-you-multi-language-duets",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Dare You",
   trackType: "studio",
@@ -59,5 +59,5 @@ export const kellyClarksonIDareYouLashRemixIDareYou = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

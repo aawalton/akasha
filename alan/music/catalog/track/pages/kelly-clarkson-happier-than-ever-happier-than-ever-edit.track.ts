@@ -5,9 +5,9 @@ export const kellyClarksonHappierThanEverHappierThanEverEdit = {
   type: "page-type/track",
   slug: "kelly-clarkson-happier-than-ever-happier-than-ever-edit",
   ownLength: 2.0864666666666665,
-  ownProgress: 0,
+  ownProgress: 2.0864666666666665,
   partOfCollections: ["release/kelly-clarkson-happier-than-ever"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Happier Than Ever - Edit",
   trackType: "version",
@@ -25,5 +25,5 @@ export const kellyClarksonHappierThanEverHappierThanEverEdit = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

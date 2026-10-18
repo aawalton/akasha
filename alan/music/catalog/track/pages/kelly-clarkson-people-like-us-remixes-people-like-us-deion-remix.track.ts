@@ -5,9 +5,9 @@ export const kellyClarksonPeopleLikeUsRemixesPeopleLikeUsDeionRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-people-like-us-remixes-people-like-us-deion-remix",
   ownLength: 3.76555,
-  ownProgress: 0,
+  ownProgress: 3.76555,
   partOfCollections: ["release/kelly-clarkson-people-like-us-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "People Like Us - DEION Remix",
   trackType: "remix",
@@ -30,5 +30,5 @@ export const kellyClarksonPeopleLikeUsRemixesPeopleLikeUsDeionRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

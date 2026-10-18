@@ -5,9 +5,9 @@ export const kellyClarksonStrongerTrackByTrackIForgiveYou = {
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-track-by-track-i-forgive-you",
   ownLength: 3.0857666666666668,
-  ownProgress: 0,
+  ownProgress: 3.0857666666666668,
   partOfCollections: ["release/kelly-clarkson-stronger-track-by-track"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Forgive You",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerTrackByTrackIForgiveYou = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

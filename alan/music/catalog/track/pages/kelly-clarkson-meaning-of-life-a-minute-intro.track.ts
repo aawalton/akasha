@@ -5,9 +5,9 @@ export const kellyClarksonMeaningOfLifeAMinuteIntro = {
   type: "page-type/track",
   slug: "kelly-clarkson-meaning-of-life-a-minute-intro",
   ownLength: 1.1471,
-  ownProgress: 0,
+  ownProgress: 1.1471,
   partOfCollections: ["release/kelly-clarkson-meaning-of-life"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "A Minute (Intro)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonMeaningOfLifeAMinuteIntro = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

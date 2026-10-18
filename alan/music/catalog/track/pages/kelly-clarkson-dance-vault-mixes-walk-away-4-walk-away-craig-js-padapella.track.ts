@@ -5,9 +5,9 @@ export const kellyClarksonDanceVaultMixesWalkAway4WalkAwayCraigJsPadapella = {
   type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-walk-away-4-walk-away-craig-js-padapella",
   ownLength: 3.772883333333333,
-  ownProgress: 0,
+  ownProgress: 3.772883333333333,
   partOfCollections: ["release/kelly-clarkson-dance-vault-mixes-walk-away-4"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Walk Away - Craig J's Padapella",
   trackType: "studio",
@@ -30,5 +30,5 @@ export const kellyClarksonDanceVaultMixesWalkAway4WalkAwayCraigJsPadapella = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

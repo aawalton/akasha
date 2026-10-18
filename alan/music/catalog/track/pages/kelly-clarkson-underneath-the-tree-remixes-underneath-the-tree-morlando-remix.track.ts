@@ -5,9 +5,9 @@ export const kellyClarksonUnderneathTheTreeRemixesUnderneathTheTreeMorlandoRemix
   type: "page-type/track",
   slug: "kelly-clarkson-underneath-the-tree-remixes-underneath-the-tree-morlando-remix",
   ownLength: 5.683766666666667,
-  ownProgress: 0,
+  ownProgress: 5.683766666666667,
   partOfCollections: ["release/kelly-clarkson-underneath-the-tree-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Underneath the Tree - Morlando Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonUnderneathTheTreeRemixesUnderneathTheTreeMorlandoRemix
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

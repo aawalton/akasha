@@ -5,9 +5,9 @@ export const kellyClarksonReadyForLoveLiveReadyForLoveLive = {
   type: "page-type/track",
   slug: "kelly-clarkson-ready-for-love-live-ready-for-love-live",
   ownLength: 4.30805,
-  ownProgress: 0,
+  ownProgress: 4.30805,
   partOfCollections: ["release/kelly-clarkson-ready-for-love-live"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Ready for Love - Live",
   trackType: "live",
@@ -25,5 +25,5 @@ export const kellyClarksonReadyForLoveLiveReadyForLoveLive = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

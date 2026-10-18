@@ -5,9 +5,9 @@ export const kellyClarksonTieItUpTieItUp = {
   type: "page-type/track",
   slug: "kelly-clarkson-tie-it-up-tie-it-up",
   ownLength: 2.7984333333333336,
-  ownProgress: 0,
+  ownProgress: 2.7984333333333336,
   partOfCollections: ["release/kelly-clarkson-tie-it-up"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Tie It Up",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonTieItUpTieItUp = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const kellyClarksonAllIEverWantedTipOfMyTongue = {
   type: "page-type/track",
   slug: "kelly-clarkson-all-i-ever-wanted-tip-of-my-tongue",
   ownLength: 4.312216666666667,
-  ownProgress: 0,
+  ownProgress: 4.312216666666667,
   partOfCollections: ["release/kelly-clarkson-all-i-ever-wanted"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Tip Of My Tongue",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonAllIEverWantedTipOfMyTongue = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

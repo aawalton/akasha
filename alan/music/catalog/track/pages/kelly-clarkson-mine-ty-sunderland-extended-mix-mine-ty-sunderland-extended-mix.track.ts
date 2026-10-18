@@ -5,9 +5,9 @@ export const kellyClarksonMineTySunderlandExtendedMixMineTySunderlandExtendedMix
   type: "page-type/track",
   slug: "kelly-clarkson-mine-ty-sunderland-extended-mix-mine-ty-sunderland-extended-mix",
   ownLength: 4.388433333333333,
-  ownProgress: 0,
+  ownProgress: 4.388433333333333,
   partOfCollections: ["release/kelly-clarkson-mine-ty-sunderland-extended-mix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "mine (Ty Sunderland Extended Mix)",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonMineTySunderlandExtendedMixMineTySunderlandExtendedMix
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

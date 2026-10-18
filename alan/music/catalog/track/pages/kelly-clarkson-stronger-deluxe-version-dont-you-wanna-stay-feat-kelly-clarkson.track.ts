@@ -5,9 +5,9 @@ export const kellyClarksonStrongerDeluxeVersionDontYouWannaStayFeatKellyClarkson
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-dont-you-wanna-stay-feat-kelly-clarkson",
   ownLength: 4.3331,
-  ownProgress: 0,
+  ownProgress: 4.3331,
   partOfCollections: ["release/kelly-clarkson-stronger-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Don't You Wanna Stay (feat. Kelly Clarkson)",
   trackType: "studio",
@@ -26,5 +26,5 @@ export const kellyClarksonStrongerDeluxeVersionDontYouWannaStayFeatKellyClarkson
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

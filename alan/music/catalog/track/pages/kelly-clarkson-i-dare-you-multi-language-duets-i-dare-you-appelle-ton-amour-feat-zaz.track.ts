@@ -5,12 +5,12 @@ export const kellyClarksonIDareYouMultiLanguageDuetsIDareYouAppelleTonAmourFeatZ
   type: "page-type/track",
   slug: "kelly-clarkson-i-dare-you-multi-language-duets-i-dare-you-appelle-ton-amour-feat-zaz",
   ownLength: 3.6367666666666665,
-  ownProgress: 0,
+  ownProgress: 3.6367666666666665,
   partOfCollections: [
     "release/kelly-clarkson-i-dare-you-multi-language-duets",
     "release/kelly-clarkson-i-dare-you-appelle-ton-amour-feat-zaz",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Dare You (Appelle Ton Amour) [feat. Zaz]",
   trackType: "studio",
@@ -35,5 +35,5 @@ export const kellyClarksonIDareYouMultiLanguageDuetsIDareYouAppelleTonAmourFeatZ
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

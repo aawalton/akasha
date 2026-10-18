@@ -5,9 +5,9 @@ export const kellyClarksonCatchMyBreathRemixesCatchMyBreathArkAngelRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-catch-my-breath-remixes-catch-my-breath-ark-angel-remix",
   ownLength: 3.6428833333333333,
-  ownProgress: 0,
+  ownProgress: 3.6428833333333333,
   partOfCollections: ["release/kelly-clarkson-catch-my-breath-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Catch My Breath - Ark Angel Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonCatchMyBreathRemixesCatchMyBreathArkAngelRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

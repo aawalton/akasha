@@ -5,9 +5,9 @@ export const kellyClarksonWrappedInRedDeluxeVersionIllBeHomeForChristmas = {
   type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version-ill-be-home-for-christmas",
   ownLength: 2.9093833333333334,
-  ownProgress: 0,
+  ownProgress: 2.9093833333333334,
   partOfCollections: ["release/kelly-clarkson-wrapped-in-red-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I'll Be Home for Christmas",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonWrappedInRedDeluxeVersionIllBeHomeForChristmas = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

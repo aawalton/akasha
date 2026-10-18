@@ -5,9 +5,9 @@ export const kellyClarksonMyDecemberDirtyLittleSecret = {
   type: "page-type/track",
   slug: "kelly-clarkson-my-december-dirty-little-secret",
   ownLength: 3.5444333333333335,
-  ownProgress: 0,
+  ownProgress: 3.5444333333333335,
   partOfCollections: ["release/kelly-clarkson-my-december"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Dirty Little Secret",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonMyDecemberDirtyLittleSecret = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

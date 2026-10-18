@@ -5,9 +5,9 @@ export const kellyClarksonPieceByPieceDeluxeVersionPieceByPieceIdolVersion = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-piece-by-piece-idol-version",
   ownLength: 3.5380833333333332,
-  ownProgress: 0,
+  ownProgress: 3.5380833333333332,
   partOfCollections: ["release/kelly-clarkson-piece-by-piece-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Piece by Piece - Idol Version",
   trackType: "version",
@@ -25,5 +25,5 @@ export const kellyClarksonPieceByPieceDeluxeVersionPieceByPieceIdolVersion = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

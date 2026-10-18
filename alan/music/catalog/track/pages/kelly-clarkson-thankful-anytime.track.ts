@@ -5,9 +5,9 @@ export const kellyClarksonThankfulAnytime = {
   type: "page-type/track",
   slug: "kelly-clarkson-thankful-anytime",
   ownLength: 4.096216666666667,
-  ownProgress: 0,
+  ownProgress: 4.096216666666667,
   partOfCollections: ["release/kelly-clarkson-thankful"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Anytime",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonThankfulAnytime = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

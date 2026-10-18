@@ -5,9 +5,9 @@ export const kellyClarksonThankfulWhatsUpLonely = {
   type: "page-type/track",
   slug: "kelly-clarkson-thankful-whats-up-lonely",
   ownLength: 4.13955,
-  ownProgress: 0,
+  ownProgress: 4.13955,
   partOfCollections: ["release/kelly-clarkson-thankful"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "What's Up Lonely",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonThankfulWhatsUpLonely = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

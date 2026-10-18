@@ -5,9 +5,9 @@ export const kellyClarksonInvincibleRemixesInvincibleTomSwoonRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-invincible-remixes-invincible-tom-swoon-remix",
   ownLength: 4.9413833333333335,
-  ownProgress: 0,
+  ownProgress: 4.9413833333333335,
   partOfCollections: ["release/kelly-clarkson-invincible-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Invincible - Tom Swoon Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonInvincibleRemixesInvincibleTomSwoonRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

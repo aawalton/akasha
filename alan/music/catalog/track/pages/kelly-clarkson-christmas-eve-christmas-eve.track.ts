@@ -5,9 +5,9 @@ export const kellyClarksonChristmasEveChristmasEve = {
   type: "page-type/track",
   slug: "kelly-clarkson-christmas-eve-christmas-eve",
   ownLength: 3.0148333333333333,
-  ownProgress: 0,
+  ownProgress: 3.0148333333333333,
   partOfCollections: ["release/kelly-clarkson-christmas-eve"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Christmas Eve",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonChristmasEveChristmasEve = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

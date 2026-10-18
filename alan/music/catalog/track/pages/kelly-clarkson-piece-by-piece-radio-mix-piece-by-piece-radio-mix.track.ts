@@ -5,9 +5,9 @@ export const kellyClarksonPieceByPieceRadioMixPieceByPieceRadioMix = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-radio-mix-piece-by-piece-radio-mix",
   ownLength: 3.7453333333333334,
-  ownProgress: 0,
+  ownProgress: 3.7453333333333334,
   partOfCollections: ["release/kelly-clarkson-piece-by-piece-radio-mix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Piece by Piece - Radio Mix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonPieceByPieceRadioMixPieceByPieceRadioMix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

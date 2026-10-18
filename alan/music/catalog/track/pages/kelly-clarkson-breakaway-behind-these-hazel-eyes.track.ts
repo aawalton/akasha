@@ -5,9 +5,9 @@ export const kellyClarksonBreakawayBehindTheseHazelEyes = {
   type: "page-type/track",
   slug: "kelly-clarkson-breakaway-behind-these-hazel-eyes",
   ownLength: 3.3162166666666666,
-  ownProgress: 0,
+  ownProgress: 3.3162166666666666,
   partOfCollections: ["release/kelly-clarkson-breakaway"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Behind These Hazel Eyes",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonBreakawayBehindTheseHazelEyes = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

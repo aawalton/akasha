@@ -5,9 +5,9 @@ export const kellyClarksonWhenYouSayNothingAtAllTheVoicePerformanceWhenYouSayNot
   type: "page-type/track",
   slug: "kelly-clarkson-when-you-say-nothing-at-all-the-voice-performance-when-you-say-nothing-at-all-the",
   ownLength: 2.70615,
-  ownProgress: 0,
+  ownProgress: 2.70615,
   partOfCollections: ["release/kelly-clarkson-when-you-say-nothing-at-all-the-voice-performance"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "When You Say Nothing At All - The Voice Performance",
   trackType: "studio",
@@ -26,5 +26,5 @@ export const kellyClarksonWhenYouSayNothingAtAllTheVoicePerformanceWhenYouSayNot
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

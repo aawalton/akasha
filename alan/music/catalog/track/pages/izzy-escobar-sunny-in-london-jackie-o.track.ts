@@ -5,9 +5,9 @@ export const izzyEscobarSunnyInLondonJackieO = {
   type: "page-type/track",
   slug: "izzy-escobar-sunny-in-london-jackie-o",
   ownLength: 3.8302666666666667,
-  ownProgress: 0,
+  ownProgress: 3.8302666666666667,
   partOfCollections: ["release/izzy-escobar-sunny-in-london"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Jackie O",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const izzyEscobarSunnyInLondonJackieO = {
     },
   ],
   createdAt: "2026-10-18T13:45:27.615Z",
-  updatedAt: "2026-10-18T13:45:27.615Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

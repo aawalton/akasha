@@ -5,9 +5,9 @@ export const izzyEscobarSunnyInLondonAcousticVendettaAcoustic = {
   type: "page-type/track",
   slug: "izzy-escobar-sunny-in-london-acoustic-vendetta-acoustic",
   ownLength: 3.6111,
-  ownProgress: 0,
+  ownProgress: 3.6111,
   partOfCollections: ["release/izzy-escobar-sunny-in-london-acoustic"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Vendetta - Acoustic",
   trackType: "acoustic",
@@ -25,5 +25,5 @@ export const izzyEscobarSunnyInLondonAcousticVendettaAcoustic = {
     },
   ],
   createdAt: "2026-10-18T13:45:27.615Z",
-  updatedAt: "2026-10-18T13:45:27.615Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

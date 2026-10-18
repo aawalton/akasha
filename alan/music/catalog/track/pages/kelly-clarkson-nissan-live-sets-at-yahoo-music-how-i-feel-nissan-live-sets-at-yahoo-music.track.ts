@@ -5,9 +5,9 @@ export const kellyClarksonNissanLiveSetsAtYahooMusicHowIFeelNissanLiveSetsAtYaho
   type: "page-type/track",
   slug: "kelly-clarkson-nissan-live-sets-at-yahoo-music-how-i-feel-nissan-live-sets-at-yahoo-music",
   ownLength: 4.700433333333334,
-  ownProgress: 0,
+  ownProgress: 4.700433333333334,
   partOfCollections: ["release/kelly-clarkson-nissan-live-sets-at-yahoo-music"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "How I Feel - Nissan Live Sets At Yahoo! Music",
   trackType: "live",
@@ -25,5 +25,5 @@ export const kellyClarksonNissanLiveSetsAtYahooMusicHowIFeelNissanLiveSetsAtYaho
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

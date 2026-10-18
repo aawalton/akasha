@@ -5,9 +5,9 @@ export const kellyClarksonPeopleLikeUsRemixesPeopleLikeUsBaggiBegovicRemix = {
   type: "page-type/track",
   slug: "kelly-clarkson-people-like-us-remixes-people-like-us-baggi-begovic-remix",
   ownLength: 5.74955,
-  ownProgress: 0,
+  ownProgress: 5.74955,
   partOfCollections: ["release/kelly-clarkson-people-like-us-remixes"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "People Like Us - Baggi Begovic Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonPeopleLikeUsRemixesPeopleLikeUsBaggiBegovicRemix = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

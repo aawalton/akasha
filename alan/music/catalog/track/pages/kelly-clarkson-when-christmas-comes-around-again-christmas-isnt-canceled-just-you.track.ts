@@ -5,13 +5,13 @@ export const kellyClarksonWhenChristmasComesAroundAgainChristmasIsntCanceledJust
   type: "page-type/track",
   slug: "kelly-clarkson-when-christmas-comes-around-again-christmas-isnt-canceled-just-you",
   ownLength: 3.85915,
-  ownProgress: 0,
+  ownProgress: 3.85915,
   partOfCollections: [
     "release/kelly-clarkson-when-christmas-comes-around-again",
     "release/kelly-clarkson-when-christmas-comes-around",
     "release/kelly-clarkson-when-chemistry-comes-around",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Christmas Isn’t Canceled (Just You)",
   trackType: "studio",
@@ -43,5 +43,5 @@ export const kellyClarksonWhenChristmasComesAroundAgainChristmasIsntCanceledJust
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

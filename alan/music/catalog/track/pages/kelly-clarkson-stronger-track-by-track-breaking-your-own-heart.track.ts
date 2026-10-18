@@ -5,9 +5,9 @@ export const kellyClarksonStrongerTrackByTrackBreakingYourOwnHeart = {
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-track-by-track-breaking-your-own-heart",
   ownLength: 3.8068833333333334,
-  ownProgress: 0,
+  ownProgress: 3.8068833333333334,
   partOfCollections: ["release/kelly-clarkson-stronger-track-by-track"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Breaking Your Own Heart",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerTrackByTrackBreakingYourOwnHeart = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

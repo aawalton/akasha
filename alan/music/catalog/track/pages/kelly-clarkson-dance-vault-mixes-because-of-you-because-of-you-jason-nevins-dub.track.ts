@@ -5,9 +5,9 @@ export const kellyClarksonDanceVaultMixesBecauseOfYouBecauseOfYouJasonNevinsDub 
   type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-because-of-you-because-of-you-jason-nevins-dub",
   ownLength: 7.844433333333333,
-  ownProgress: 0,
+  ownProgress: 7.844433333333333,
   partOfCollections: ["release/kelly-clarkson-dance-vault-mixes-because-of-you"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Because Of You - Jason Nevins Dub",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonDanceVaultMixesBecauseOfYouBecauseOfYouJasonNevinsDub 
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

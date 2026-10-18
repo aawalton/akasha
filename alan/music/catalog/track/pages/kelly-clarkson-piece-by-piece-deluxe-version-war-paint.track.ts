@@ -5,9 +5,9 @@ export const kellyClarksonPieceByPieceDeluxeVersionWarPaint = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-war-paint",
   ownLength: 3.7393,
-  ownProgress: 0,
+  ownProgress: 3.7393,
   partOfCollections: ["release/kelly-clarkson-piece-by-piece-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "War Paint",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonPieceByPieceDeluxeVersionWarPaint = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

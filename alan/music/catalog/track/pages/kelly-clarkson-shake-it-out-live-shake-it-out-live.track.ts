@@ -5,9 +5,9 @@ export const kellyClarksonShakeItOutLiveShakeItOutLive = {
   type: "page-type/track",
   slug: "kelly-clarkson-shake-it-out-live-shake-it-out-live",
   ownLength: 4.481166666666667,
-  ownProgress: 0,
+  ownProgress: 4.481166666666667,
   partOfCollections: ["release/kelly-clarkson-shake-it-out-live"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Shake It Out - Live",
   trackType: "live",
@@ -25,5 +25,5 @@ export const kellyClarksonShakeItOutLiveShakeItOutLive = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

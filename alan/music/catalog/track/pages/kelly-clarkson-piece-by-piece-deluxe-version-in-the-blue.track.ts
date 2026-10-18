@@ -5,9 +5,9 @@ export const kellyClarksonPieceByPieceDeluxeVersionInTheBlue = {
   type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-in-the-blue",
   ownLength: 4.700783333333334,
-  ownProgress: 0,
+  ownProgress: 4.700783333333334,
   partOfCollections: ["release/kelly-clarkson-piece-by-piece-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "In The Blue",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonPieceByPieceDeluxeVersionInTheBlue = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

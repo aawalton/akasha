@@ -5,9 +5,9 @@ export const kellyClarksonAllIEverWantedIDoNotHookUp = {
   type: "page-type/track",
   slug: "kelly-clarkson-all-i-ever-wanted-i-do-not-hook-up",
   ownLength: 3.3391,
-  ownProgress: 0,
+  ownProgress: 3.3391,
   partOfCollections: ["release/kelly-clarkson-all-i-ever-wanted"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Do Not Hook Up",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonAllIEverWantedIDoNotHookUp = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

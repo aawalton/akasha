@@ -5,9 +5,9 @@ export const kellyClarksonLoveSoSoftMrColliparkRemixLoveSoSoftMrColliparkRemix =
   type: "page-type/track",
   slug: "kelly-clarkson-love-so-soft-mr-collipark-remix-love-so-soft-mr-collipark-remix",
   ownLength: 2.84,
-  ownProgress: 0,
+  ownProgress: 2.84,
   partOfCollections: ["release/kelly-clarkson-love-so-soft-mr-collipark-remix"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Love So Soft - Mr. Collipark Remix",
   trackType: "remix",
@@ -25,5 +25,5 @@ export const kellyClarksonLoveSoSoftMrColliparkRemixLoveSoSoftMrColliparkRemix =
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

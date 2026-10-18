@@ -5,9 +5,9 @@ export const kellyClarksonMyDecemberDontWasteYourTime = {
   type: "page-type/track",
   slug: "kelly-clarkson-my-december-dont-waste-your-time",
   ownLength: 3.588216666666667,
-  ownProgress: 0,
+  ownProgress: 3.588216666666667,
   partOfCollections: ["release/kelly-clarkson-my-december"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Don't Waste Your Time",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonMyDecemberDontWasteYourTime = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

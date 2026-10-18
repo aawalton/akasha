@@ -5,9 +5,9 @@ export const kellyClarksonGetUpACowboysAnthemGetUpACowboysAnthem = {
   type: "page-type/track",
   slug: "kelly-clarkson-get-up-a-cowboys-anthem-get-up-a-cowboys-anthem",
   ownLength: 3.77555,
-  ownProgress: 0,
+  ownProgress: 3.77555,
   partOfCollections: ["release/kelly-clarkson-get-up-a-cowboys-anthem"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Get Up (A Cowboys Anthem)",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonGetUpACowboysAnthemGetUpACowboysAnthem = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

@@ -5,9 +5,9 @@ export const izzyEscobarSunnyInLondonAcousticWhiteHorseAcoustic = {
   type: "page-type/track",
   slug: "izzy-escobar-sunny-in-london-acoustic-white-horse-acoustic",
   ownLength: 3.1033333333333335,
-  ownProgress: 0,
+  ownProgress: 3.1033333333333335,
   partOfCollections: ["release/izzy-escobar-sunny-in-london-acoustic"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "White Horse - Acoustic",
   trackType: "acoustic",
@@ -25,5 +25,5 @@ export const izzyEscobarSunnyInLondonAcousticWhiteHorseAcoustic = {
     },
   ],
   createdAt: "2026-10-18T13:45:27.615Z",
-  updatedAt: "2026-10-18T13:45:27.615Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

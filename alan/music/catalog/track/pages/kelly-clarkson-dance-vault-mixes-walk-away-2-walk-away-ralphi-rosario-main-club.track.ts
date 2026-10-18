@@ -5,9 +5,9 @@ export const kellyClarksonDanceVaultMixesWalkAway2WalkAwayRalphiRosarioMainClub 
   type: "page-type/track",
   slug: "kelly-clarkson-dance-vault-mixes-walk-away-2-walk-away-ralphi-rosario-main-club",
   ownLength: 9.937333333333333,
-  ownProgress: 0,
+  ownProgress: 9.937333333333333,
   partOfCollections: ["release/kelly-clarkson-dance-vault-mixes-walk-away-2"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Walk Away - Ralphi Rosario Main Club",
   trackType: "studio",
@@ -30,5 +30,5 @@ export const kellyClarksonDanceVaultMixesWalkAway2WalkAwayRalphiRosarioMainClub 
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

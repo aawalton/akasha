@@ -5,9 +5,9 @@ export const kellyClarksonStrongerDeluxeVersionDarkSide = {
   type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-dark-side",
   ownLength: 3.7417666666666665,
-  ownProgress: 0,
+  ownProgress: 3.7417666666666665,
   partOfCollections: ["release/kelly-clarkson-stronger-deluxe-version"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Dark Side",
   trackType: "studio",
@@ -25,5 +25,5 @@ export const kellyClarksonStrongerDeluxeVersionDarkSide = {
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track

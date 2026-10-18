@@ -5,9 +5,9 @@ export const kellyClarkson9To5FromTheStillWorking9To5Documentary9To5FromTheStill
   type: "page-type/track",
   slug: "kelly-clarkson-9-to-5-from-the-still-working-9-to-5-documentary-9-to-5-from-the-still-working-9-to-5",
   ownLength: 3.6091,
-  ownProgress: 0,
+  ownProgress: 3.6091,
   partOfCollections: ["release/kelly-clarkson-9-to-5-from-the-still-working-9-to-5-documentary"],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
   trackType: "studio",
@@ -26,5 +26,5 @@ export const kellyClarkson9To5FromTheStillWorking9To5Documentary9To5FromTheStill
     },
   ],
   createdAt: "2026-10-18T13:48:05.026Z",
-  updatedAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T14:00:27.546Z",
 } as const satisfies Track
