@@ -148,6 +148,10 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each item a seeded file links answers its icon from `item-icons-seeding`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Answers a window stages are set after the game's Lua and before the addon loads.",
     },
     {
@@ -223,5 +227,5 @@ export const uiStaging = {
     },
   ],
   createdAt: "2026-09-22T18:33:40.383Z",
-  updatedAt: "2026-10-18T19:02:02.702Z",
+  updatedAt: "2026-10-18T19:35:14.292Z",
 } as const satisfies Module

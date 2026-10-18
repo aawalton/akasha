@@ -25,6 +25,11 @@ import {
   manifestEntries,
 } from "akasha/temper/eso/ui-harness/modules/game-manifest/game-manifest.module.code.ts"
 import { namesUnstubbedLua } from "akasha/temper/eso/ui-harness/modules/game-names/game-names.module.code.ts"
+import {
+  itemIconsLua,
+  itemIdsIn,
+  minedIcons,
+} from "akasha/temper/eso/ui-harness/modules/item-icons-seeding/item-icons-seeding.module.code.ts"
 import { savedChunks } from "akasha/temper/eso/ui-harness/modules/saved-chunks/saved-chunks.module.code.ts"
 import {
   fontsIn,
@@ -352,6 +357,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     }
     seeded.push(readFileSync(at, "utf8"))
   }
+  const icons = itemIconsLua(await minedIcons(itemIdsIn(seeded)))
   const documents = documentsFor(asked.root)
   const virtuals = virtualsFrom(documents)
   const chunks = virtualsLua(virtuals, PER_CHUNK)
@@ -386,6 +392,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
       await declareDocument(harness, text, declaring)
     }
     await harness.load(ACCOUNT_WIDE)
+    for (const chunk of icons) await harness.load(chunk)
     if (asked.stages !== undefined) await harness.load(asked.stages)
     const loaded: string[] = []
     const near = [found.tree, ...trees.filter((one) => one !== found.tree)]
