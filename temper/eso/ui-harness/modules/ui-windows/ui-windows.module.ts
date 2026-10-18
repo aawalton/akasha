@@ -82,6 +82,10 @@ export const uiWindows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The crafting button is turned on by its show-button option.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A window filled on an interval runs that interval's work once as it opens.",
     },
     {
@@ -99,5 +103,5 @@ export const uiWindows = {
     },
   ],
   createdAt: "2026-09-22T18:34:22.283Z",
-  updatedAt: "2026-10-18T18:59:19.479Z",
+  updatedAt: "2026-10-18T20:18:16.318Z",
 } as const satisfies Module

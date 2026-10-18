@@ -25,16 +25,28 @@ const TRADER_INFO = `
   GetCurrentTradingHouseGuildDetails = function()
     return guildId, GetGuildName(guildId), GetGuildAlliance(guildId)
   end
+  SCENE_MANAGER:CallWhen("tradinghouse", SCENE_SHOWN, function()
+    __ui_fire("TemperItemsListingsBrowseOpener", "OnClicked")
+  end)
   SCENE_MANAGER:Show("tradinghouse")
   __ui_raise(EVENT_OPEN_TRADING_HOUSE)
 `
 
 const BANK_PLAN = `
   local panel = __bundle_require("temper.addon.pages.items.modules.inventory-bank-action-panel.inventory-bank-action-panel.module.code")
+  local database = __bundle_require("temper.addon.pages.items.modules.inventory-saved-variables-ref.inventory-saved-variables-ref.module.code")
+    .getDatabase()
+  local classify = __bundle_require("temper.items.core.modules.location-classify.location-classify.module.code")
+    .classifyLocation
+  local names = {}
+  for key, location in pairs(database.locations or {}) do
+    if classify(key) == "character" and location.displayName ~= "" then names[#names + 1] = location.displayName end
+  end
+  table.sort(names)
   SCENE_MANAGER:Show("bank")
   local characters, total = {}, 0
-  for at = 1, 3 do
-    characters[#characters + 1] = { label = zo_strformat("<<1>>", GetCharacterInfo(at)), count = at * 4 }
+  for at = 1, math.min(3, #names) do
+    characters[#characters + 1] = { label = names[at], count = at * 4 }
     total = total + at * 4
   end
   panel.refreshBankActionPanel({ totalUnits = total, characters = characters })

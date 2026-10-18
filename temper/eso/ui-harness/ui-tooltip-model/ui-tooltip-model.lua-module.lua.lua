@@ -41,6 +41,30 @@ function Control:AddVerticalPadding(space)
   grown(self, type(space) == "number" and space or 0)
 end
 
+local function toldWith(tip, event, ...)
+  local named = {}
+  for key in pairs(tip.uiHandlers) do
+    if string.sub(key, 1, #event + 1) == event .. ":" then insert(named, key) end
+  end
+  table.sort(named)
+  local unnamed = tip.uiHandlers[event]
+  if unnamed ~= nil then unnamed(tip, ...) end
+  for _, key in ipairs(named) do tip.uiHandlers[key](tip, ...) end
+end
+
+function Control:SetBagItem(bagId, slotIndex)
+  local icon = _G.GetItemLinkIcon(_G.GetItemLink(bagId, slotIndex))
+  toldWith(self, "OnAddGameData", _G.TOOLTIP_GAME_DATA_ITEM_ICON, icon)
+end
+
+function _G.SetTooltipIconTexture(tip, texture)
+  local icon = tip:GetNamedChild("Icon")
+  if icon == nil then return end
+  local shown = type(texture) == "string" and texture ~= ""
+  icon:SetTexture(shown and texture or "")
+  icon:SetHidden(not shown)
+end
+
 function Control:ClearLines()
   local held = linesOf(self)
   for _, line in ipairs(held.made) do

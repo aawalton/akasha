@@ -91,7 +91,15 @@ const OWN_WINDOWS: readonly UiWindow[] = [
       SCENE_MANAGER:Show(potions.name)
     `
   ),
-  ownWindow("crafting-button", "TemperItems", "TemperItemsCrafting_ButtonFrame", ""),
+  ownWindow(
+    "crafting-button",
+    "TemperItems",
+    "TemperItemsCrafting_ButtonFrame",
+    `
+      __bundle_require("${CRAFTING}.crafting-state.crafting-state.module.code").STATE.Account.options.showbutton = true
+      __bundle_require("${CRAFTING}.craft-options.craft-options.module.code").optionSet()
+    `
+  ),
   ownWindow(
     "crafting-styles",
     "TemperItems",

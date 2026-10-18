@@ -69,7 +69,21 @@ export const uiTooltipModel = {
       decisionKind: "decision-kind/departure",
       statement: "This is loaded after the control methods, whose labels its lines are.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The engine hands a tooltip its item's icon as game data when an item is set on it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Setting a bag's item on a tooltip hands the tooltip that item's icon the same way.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tooltip's icon is shown with the art it is given and hidden when given none.",
+    },
   ],
   createdAt: "2026-09-25T01:38:37.878Z",
-  updatedAt: "2026-09-25T17:07:22.000Z",
+  updatedAt: "2026-10-18T20:18:16.318Z",
 } as const satisfies LuaModule

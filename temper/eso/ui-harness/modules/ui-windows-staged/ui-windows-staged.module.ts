@@ -25,9 +25,23 @@ export const uiWindowsStaged = {
     },
     {
       decisionKind: "decision-kind/constraint",
+      statement:
+        "The capture holds no character's name by index, so the game answers it empty here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The bank plan names the characters the addon's saved inventory holds.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
       statement: "The capture holds no icon for Power Lash, so the prompt shows Flame Lash's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The trader line is shown in Guild Store Search, opened at the first guild's trader.",
     },
   ],
   createdAt: "2026-09-25T19:46:47.387Z",
-  updatedAt: "2026-09-25T20:04:59.000Z",
+  updatedAt: "2026-10-18T20:18:16.318Z",
 } as const satisfies Module
