@@ -33,11 +33,11 @@ export const recordPropertyBadge = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A card draws the JSON badge, because a card has room for a count alone.",
+      statement: "A card draws only the links the records hold.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No field drawn here is a link.",
+      decisionKind: "decision-kind/departure",
+      statement: "A card whose records hold no link draws the JSON badge.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -45,5 +45,5 @@ export const recordPropertyBadge = {
     },
   ],
   createdAt: "2026-09-22T15:15:59.950Z",
-  updatedAt: "2026-09-22T15:32:41.000Z",
+  updatedAt: "2026-10-18T15:45:51.792Z",
 } as const satisfies Module

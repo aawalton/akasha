@@ -22,11 +22,47 @@ function heldIn(field: PropertyDefinition, held: PropertyValue): readonly Proper
   return held
 }
 
+interface LinkHeld {
+  readonly field: PropertyDefinition
+  readonly at: number
+  readonly value: PropertyValue
+}
+
+function linksIn(
+  fields: readonly PropertyDefinition[],
+  entries: readonly Record<string, unknown>[]
+): readonly LinkHeld[] {
+  const links = fields.filter((field) => field.type === "url")
+  return entries.flatMap((entry, at) =>
+    links
+      .map((field) => ({ field, at, value: (entry[field.id] ?? null) as PropertyValue }))
+      .filter((one) => !isEmptyValue(one.field.type, one.value))
+  )
+}
+
+function LinksHeld({ held }: { held: readonly LinkHeld[] }) {
+  return (
+    <div className="flex flex-wrap gap-1">
+      {held.map((one) => (
+        <PropertyBadge
+          context="card"
+          editable={false}
+          key={`${one.at}-${one.field.id}`}
+          property={one.field}
+          value={one.value}
+        />
+      ))}
+    </div>
+  )
+}
+
 export function RecordPropertyBadge(props: PropertyBadgeProps) {
   const fields = props.property.fields ?? []
   const entries = entriesIn(props.value)
-  if (props.context === "card" || fields.length === 0 || entries.length === 0) {
-    return <JsonPropertyBadge {...props} />
+  if (fields.length === 0 || entries.length === 0) return <JsonPropertyBadge {...props} />
+  if (props.context === "card") {
+    const held = linksIn(fields, entries)
+    return held.length === 0 ? <JsonPropertyBadge {...props} /> : <LinksHeld held={held} />
   }
   return (
     <div className="flex flex-col gap-3">
