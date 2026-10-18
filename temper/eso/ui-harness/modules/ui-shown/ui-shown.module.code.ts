@@ -82,7 +82,7 @@ export function shownIn(root: UiControl): readonly Shown[] {
     clip?: UiRect
   ): undefined {
     const top = one === root
-    if (!top && (one.hidden || one.anchors.length === 0)) return undefined
+    if (!top && one.hidden) return undefined
     const alpha = one.alpha * above
     if (alpha <= 0) return undefined
     const own: Order = {
