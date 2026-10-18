@@ -2437,10 +2437,11 @@
 
 								</Label>
 
-								<Backdrop name="$(parent)BarBg" centerColor="00000000" edgeColor="FFCCCCCC" layer="CONTROLS" level="1"
-									inherits="TemperCombat_BackgroundFramed">
+								<Backdrop name="$(parent)BarBg" centerColor="00000000" edgeColor="FFCCCCCC" layer="CONTROLS" level="1">
 
 									<AnchorFill />
+
+									<Edge edgeSize="1" />
 
 								</Backdrop>
 
