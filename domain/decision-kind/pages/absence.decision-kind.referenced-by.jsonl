@@ -2037,6 +2037,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-custom/addon-menu-widget-custom.module.ts","id":"01a06100-0000-7000-8000-000000000016"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-divider/addon-menu-widget-divider.module.ts","id":"01a06100-0000-7000-8000-000000000018"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-header/addon-menu-widget-header.module.ts","id":"01a06100-0000-7000-8000-000000000022"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-panel/addon-menu-widget-panel.module.ts","id":"01a06100-0000-7000-8000-000000000025"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.ts","id":"01a06100-0000-7000-8000-000000000028"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-chat-message/modules/chat-message-casts/chat-message-casts.module.ts","id":"01a06060-0d14-7717-b700-44162c6cbf37"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-core.temper-addon.ts","id":"01a061c5-18dd-7011-a8e7-8f6d488e9b03"}

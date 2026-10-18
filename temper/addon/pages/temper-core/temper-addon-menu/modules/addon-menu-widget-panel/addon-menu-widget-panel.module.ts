@@ -4,9 +4,17 @@ export const addonMenuWidgetPanel = {
   id: "01a06100-0000-7000-8000-000000000025",
   type: "page-type/module",
   slug: "addon-menu-widget-panel",
-  definition: "the scrolling page of an addon's settings, headed by its name and author",
+  definition: "the scrolling page of an addon's settings, headed by its name",
   code: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel's title is plain text in the game's section title color.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No panel shows an author or version line.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -35,5 +43,5 @@ export const addonMenuWidgetPanel = {
     },
   ],
   createdAt: "2026-09-02T07:23:05.088Z",
-  updatedAt: "2026-09-22T15:20:13.000Z",
+  updatedAt: "2026-10-18T19:49:43.242Z",
 } as const satisfies Module

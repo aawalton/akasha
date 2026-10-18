@@ -40,6 +40,16 @@ const LINK_MOUSE_OVER_COLOR = ZO_ColorDef.New("B8B8D3")
 const LINK_COLOR_DONATE = ZO_ColorDef.New("FFD700")
 const LINK_MOUSE_OVER_COLOR_DONATE = ZO_ColorDef.New("FFF6CC")
 
+const COLOR_START = "|c%x%x%x%x%x%x"
+
+const COLOR_END = "|r"
+
+function plainTitle(this: void, text: string): string {
+  const [uncolored] = string.gsub(text, COLOR_START, "")
+  const [plain] = string.gsub(uncolored, COLOR_END, "")
+  return plain
+}
+
 export function panelAddonId(this: void, panel: LamControl): string {
   const name = panel.GetName()
   if (string.sub(name, 1, PANEL_NAME_PREFIX.length) !== PANEL_NAME_PREFIX) return name
@@ -145,25 +155,9 @@ function createPanel(
   )
   control.label = label
   label.SetAnchor(TOPLEFT, control, TOPLEFT, 0, 4)
-  label.SetText(getStringFromValue(panelData.displayName ?? panelData.name))
+  label.SetText(plainTitle(tostring(getStringFromValue(panelData.displayName ?? panelData.name))))
 
   let previousInfoControl: Control | undefined
-  if (panelData.author !== undefined || panelData.version !== undefined) {
-    const info = wm.CreateControl(undefined, control, CT_LABEL)
-    control.info = info
-    info.SetFont(L.PANEL_INFO_FONT)
-    info.SetAnchor(TOPLEFT, label, BOTTOMLEFT, 0, -2)
-
-    const output: (string | number)[] = []
-    if (panelData.author !== undefined) {
-      output.push(zo_strformat(L.AUTHOR, getStringFromValue(panelData.author)))
-    }
-    if (panelData.version !== undefined) {
-      output.push(zo_strformat(L.VERSION, getStringFromValue(panelData.version)))
-    }
-    info.SetText(output.join(SEPARATOR))
-    previousInfoControl = info
-  }
 
   if (panelData.website !== undefined) {
     control.website = createButtonControl(
