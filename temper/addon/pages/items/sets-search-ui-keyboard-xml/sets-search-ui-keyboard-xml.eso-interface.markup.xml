@@ -206,7 +206,7 @@
                         </Control>
 
                         <!-- Counter - Showing currently number of filtered rows -->
-                        <Label name="$(parent)Counter" font="TemperFontHint" horizontalAlignment="RIGHT" color="747474" tier="LOW" layer="CONTROLS" level="1">
+                        <Label name="$(parent)Counter" font="TemperFontHint" horizontalAlignment="RIGHT" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_HINT" tier="LOW" layer="CONTROLS" level="1">
                             <Anchor point="TOPRIGHT" relativeTo="$(parent)List" relativePoint="BOTTOMRIGHT" offsetY="0" />
                         </Label>
                     </Controls>

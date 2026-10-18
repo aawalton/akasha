@@ -16,7 +16,7 @@
         <!-- Virtual Sort headers -->
         <Control name="TemperItemsCraftingSetsSearchUISortHeader" inherits="ZO_SortHeaderBehavior" virtual="true" level="2">
             <Controls>
-                <Label name="$(parent)Name" font="TemperFontLabel" color="A4A4A4" modifyTextType="UPPERCASE" horizontalAlignment="CENTER" verticalAlignment="CENTER" wrapMode="ELLIPSIS">
+                <Label name="$(parent)Name" font="TemperFontLabel" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" modifyTextType="UPPERCASE" horizontalAlignment="CENTER" verticalAlignment="CENTER" wrapMode="ELLIPSIS">
                     <AnchorFill />
                 </Label>
             </Controls>
@@ -57,8 +57,8 @@
         </Control>
 
         <!-- Virtual labels -->
-        <Label name="TemperItemsCraftingSetsSearchUIRowLabel" font="TemperFontBody" color="D7D7D7" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="CENTER" virtual="true" />
-        <Label name="TemperItemsCraftingSetsSearchUIRowLabelRightAlign" font="TemperFontNumber" color="D7D7D7" wrapMode="ELLIPSIS" horizontalAlignment="RIGHT" verticalAlignment="CENTER" virtual="true" />
+        <Label name="TemperItemsCraftingSetsSearchUIRowLabel" font="TemperFontBody" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="CENTER" virtual="true" />
+        <Label name="TemperItemsCraftingSetsSearchUIRowLabelRightAlign" font="TemperFontNumber" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" wrapMode="ELLIPSIS" horizontalAlignment="RIGHT" verticalAlignment="CENTER" virtual="true" />
 
         <!-- Virtual Rows -->
         <Control name="TemperItemsCraftingSetsSearchUIRow" mouseEnabled="true" virtual="true" hidden="false">
