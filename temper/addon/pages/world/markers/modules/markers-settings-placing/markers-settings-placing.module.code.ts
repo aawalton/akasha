@@ -66,7 +66,7 @@ export function hexOf(this: void, rgba: readonly number[] | undefined): string {
 export function placingOptions(this: void): MarkerOption[] {
   const selections = MM.currentSelections
   return [
-    { type: "description", title: "|cFFD700[Place Markers]|r", width: "full" },
+    { type: "header", name: "Place Markers", width: "full" },
     {
       type: "dropdown",
       name: "Texture",
@@ -128,7 +128,7 @@ export function placingOptions(this: void): MarkerOption[] {
     },
     {
       type: "button",
-      name: "|cFF5555Remove Icon|r",
+      name: "Remove Icon",
       warning: "This will remove the closest icon to you.",
       width: "half",
       func: () => {
@@ -143,7 +143,7 @@ export function placingOptions(this: void): MarkerOption[] {
     { type: "button", name: "Place Icon", width: "half", func: () => placeIcon() },
     {
       type: "submenu",
-      name: "[Advanced Placing]",
+      name: "Advanced Placing",
       tooltip: "",
       controls: [
         {

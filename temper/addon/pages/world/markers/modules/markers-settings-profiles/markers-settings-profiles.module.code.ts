@@ -46,13 +46,13 @@ function mergeProfiles(this: void): undefined {
 
 export function profileOptions(this: void): MarkerOption[] {
   return [
-    { type: "description", title: "|cFFD700[Profiles]|r", width: "full" },
+    { type: "header", name: "Profiles", width: "full" },
     {
       type: "description",
-      title: () => string.format("Current Loaded Profile: |cFFD700%s|r", currentProfile()),
+      title: () => string.format("Current Loaded Profile: %s", currentProfile()),
       text: () =>
         string.format(
-          "Last Edited at: |c0DC1CF%s|r",
+          "Last Edited at: %s",
           os.date("%a, %b %d %Y - %I:%M %p", MM.currentTimestamp)
         ),
       reference: "TemperWorldMarkersProfilesCurrentLoadedProfile",
@@ -79,7 +79,7 @@ export function profileOptions(this: void): MarkerOption[] {
     },
     {
       type: "button",
-      name: "|cFF5555Delete Profile|r",
+      name: "Delete Profile",
       warning: "This will delete all markers in the current profile.",
       width: "half",
       func: () => {
@@ -202,7 +202,7 @@ export function profileOptions(this: void): MarkerOption[] {
     },
     {
       type: "button",
-      name: "|c0DC1CFShare Profile|r",
+      name: "Share Profile",
       tooltip:
         "This button will share the currently loaded profile with everyone in the group, without needing to share a custom string.",
       width: "half",

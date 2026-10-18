@@ -5057,6 +5057,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-map-pins/markers-map-pins.module.ts","id":"01a0de85-2b4b-778c-b1e4-3b68645b45af"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-placing/markers-placing.module.ts","id":"01a0de85-2b4b-789a-afb5-da6521ef3067"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-render/markers-render.module.ts","id":"01a0de85-2b4c-7f33-b1da-2711a9e7a42b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-settings/markers-settings.module.ts","id":"01a0de85-2b4c-79b7-8aed-e4003fe9acd5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-sharing/markers-sharing.module.ts","id":"01a0de85-2b4c-7501-9939-c66580a689fe"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-state/markers-state.module.ts","id":"01a0de85-2b4c-72ee-b076-8ac1e64c1c9b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-textures/markers-textures.module.ts","id":"01a0de85-2b4c-7215-b37e-4f811ffaacc7"}

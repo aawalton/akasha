@@ -123,7 +123,7 @@ function importOptions(this: void): MarkerOption[] {
     },
     {
       type: "button",
-      name: "|cFF5555Overwrite Profile|r",
+      name: "Overwrite Profile",
       warning:
         "Clicking this button will add the markers to your current profile, replacing all of the markers loaded.",
       width: "half",
@@ -145,7 +145,7 @@ function importOptions(this: void): MarkerOption[] {
     },
     {
       type: "button",
-      name: "|cFF5555Clear Zone|r",
+      name: "Clear Zone",
       tooltip: "",
       warning:
         "This will delete all markers in the current zone, similar to the 'Delete Profile' button above.",
@@ -168,7 +168,7 @@ function importOptions(this: void): MarkerOption[] {
 
 function globalOptions(this: void): MarkerOption[] {
   return [
-    { type: "description", title: "|cFFD700[Global Settings]|r", width: "full" },
+    { type: "header", name: "Global Settings", width: "full" },
     {
       type: "slider",
       name: "Global Size Multiplier (%)",
@@ -260,8 +260,7 @@ export function createSettings(this: void): undefined {
   }
   panel = TemperAddonMenu.RegisterAddonPanel(SETTINGS_PANEL, {
     type: "panel",
-    name: "|cFFD700More Markers|r",
-    author: "|c0DC1CF@M0R_Gaming|r",
+    name: "More Markers",
     slashCommand: "/mmarkers",
   })
   TemperAddonMenu.RegisterOptionControls(SETTINGS_PANEL, asOptionControls(options))
