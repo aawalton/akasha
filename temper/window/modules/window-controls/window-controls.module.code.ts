@@ -182,9 +182,15 @@ function hasText(button: ButtonControl): boolean {
   return typeof text === "string" && text !== ""
 }
 
+function clickable(button: ButtonControl): boolean {
+  return button.GetHandler("OnClicked") !== undefined
+}
+
 function styleTextButton(button: ButtonControl): undefined {
   if (!firstTime(button)) return undefined
+  const [width, height] = button.GetDimensions()
   ApplyTemplateToControl(button, TEMPLATES.default)
+  if (width > 0 && height > 0) button.SetDimensions(width, height)
   return undefined
 }
 
@@ -198,7 +204,7 @@ export function styleControlsUnder(root: Control): undefined {
       continue
     }
     if (kind === CT_BUTTON && hasText(child as ButtonControl)) {
-      styleTextButton(child as ButtonControl)
+      if (clickable(child as ButtonControl)) styleTextButton(child as ButtonControl)
       continue
     }
     styleControlsUnder(child)
