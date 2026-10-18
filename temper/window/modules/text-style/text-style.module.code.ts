@@ -109,9 +109,13 @@ function overPlayPathOf(style: RoleStyle): string {
   return fontOf(style.size, style.face, "thick")
 }
 
-function rgbOf(style: RoleStyle): Rgb {
-  const [red, green, blue] = GetInterfaceColor(INTERFACE_COLOR_TYPE_TEXT_COLORS, style.color)
+export function textColorOf(field: number): Rgb {
+  const [red, green, blue] = GetInterfaceColor(INTERFACE_COLOR_TYPE_TEXT_COLORS, field)
   return [red, green, blue]
+}
+
+function rgbOf(style: RoleStyle): Rgb {
+  return textColorOf(style.color)
 }
 
 export function declareTextFonts(): undefined {

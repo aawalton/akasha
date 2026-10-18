@@ -1,7 +1,3 @@
-import {
-  TEXT_PRIMARY,
-  TEXT_SECONDARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import type { BankTransitionSummary } from "akasha/temper/addon/pages/items/modules/inventory-bank-plan/inventory-bank-plan.module.code.ts"
 import { recordSettlingMs } from "akasha/temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
@@ -13,6 +9,7 @@ import {
   drawSurface,
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -25,10 +22,10 @@ const BANK_ANCHOR_TARGET_NAMES = ["TemperItemsBrowser", "ZO_PlayerBankBackpack",
 const DEFAULT_ANCHOR_OFFSET_X = 40
 const FALLBACK_LEFT = 80
 const FALLBACK_TOP = 200
-const PADDING_X = 12
-const PADDING_Y = 12
-const HEADER_HEIGHT = 22
-const ROW_HEIGHT = 18
+const PADDING_X = 16
+const PADDING_Y = 16
+const HEADER_HEIGHT = 24
+const ROW_HEIGHT = 22
 const ROW_GAP = spaceOf("1")
 const MIN_WIDTH = 200
 const PANEL_LEVEL: SurfaceLevel = 1
@@ -59,10 +56,9 @@ export function initializeBankActionPanel(): undefined {
 
   const header = WINDOW_MANAGER.CreateControl("$(parent)Header", tlw, CT_LABEL)
   header.SetAnchor(TOPLEFT, tlw, TOPLEFT, PADDING_X, PADDING_Y)
-  header.SetFont("$(BOLD_FONT)|16|shadow")
+  styleText(header, "heading")
   header.SetDimensionConstraints(0, HEADER_HEIGHT, 0, HEADER_HEIGHT)
   header.SetVerticalAlignment(TEXT_ALIGN_CENTER)
-  header.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
   header.SetText("")
 
   const dragHandle = WINDOW_MANAGER.CreateControl("$(parent)DragHandle", tlw, CT_CONTROL)
@@ -125,10 +121,9 @@ function refreshBankActionPanelInner(summary: BankTransitionSummary | undefined)
     let row = bankPanel.rowControls[i]
     if (row === undefined) {
       row = WINDOW_MANAGER.CreateControl(undefined, bankPanel.tlw, CT_LABEL)
-      row.SetFont("$(BOLD_FONT)|14|shadow")
+      styleText(row, "body")
       row.SetDimensionConstraints(0, ROW_HEIGHT, 0, ROW_HEIGHT)
       row.SetVerticalAlignment(TEXT_ALIGN_CENTER)
-      row.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
       bankPanel.rowControls[i] = row
     }
     row.ClearAnchors()

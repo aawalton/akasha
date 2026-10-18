@@ -15,7 +15,11 @@ export const salesHistoryStatusTooltip = {
       decisionKind: "decision-kind/departure",
       statement: "Over the game's guild history, the same lines go in the game's own tooltip.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A status line is in the game's succeeded, contrast or failed text color.",
+    },
   ],
   createdAt: "2026-09-02T10:08:20.635Z",
-  updatedAt: "2026-09-25T18:17:58.000Z",
+  updatedAt: "2026-10-18T17:41:41.740Z",
 } as const satisfies Module

@@ -1,9 +1,9 @@
-import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import {
   paintSurface,
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import {
+  colorOf,
   fontPathOf,
   styleText,
   type TextRole,
@@ -31,7 +31,7 @@ function roleOf(this: void, control: Control): TextRole {
 }
 
 function styleButtonText(this: void, button: ButtonControl): undefined {
-  const [red, green, blue] = TEXT_PRIMARY
+  const [red, green, blue] = colorOf(roleOf(button))
   button.SetFont(fontPathOf(roleOf(button)))
   button.SetNormalFontColor(red, green, blue, OPAQUE)
   button.SetMouseOverFontColor(red, green, blue, OPAQUE)

@@ -1,4 +1,3 @@
-import { RED } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import { internal } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-state/sales-history-state.module.code.ts"
 import type { GuildHistoryStatusTooltipInstance } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-status-tooltip/sales-history-status-tooltip.module.code.ts"
 import {
@@ -103,11 +102,12 @@ function statusLinesOf(this: void, linkedEverything: boolean): PopoverLine[] {
     ]
   }
   if (internal.IsGuildHistorySystemDisabled()) {
+    const [red, green, blue] = ZO_ERROR_COLOR.UnpackRGBA()
     return [
       {
         text: "The guild history system is currently disabled by ZOS",
         role: "heading",
-        color: RED,
+        color: [red, green, blue],
       },
       { text: "Temper Sales will not be able to retrieve new data until it is enabled again" },
     ]

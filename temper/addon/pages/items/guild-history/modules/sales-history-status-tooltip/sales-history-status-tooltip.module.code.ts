@@ -1,9 +1,5 @@
-import {
-  GREEN,
-  RED,
-  YELLOW,
-} from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import { internal } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-state/sales-history-state.module.code.ts"
+import { textColorOf } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import {
   formatCount,
   formatPercent,
@@ -19,6 +15,7 @@ import "akasha/design/language/lua-compiler/language-extensions/language-extensi
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -35,6 +32,20 @@ const TOOLTIP_UPDATE_INTERVAL = 500
 
 function asControl(value: unknown): Control {
   return value as Control
+}
+
+type LineColor = NonNullable<PopoverLine["color"]>
+
+function done(this: void): LineColor {
+  return textColorOf(INTERFACE_TEXT_COLOR_SUCCEEDED)
+}
+
+function working(this: void): LineColor {
+  return textColorOf(INTERFACE_TEXT_COLOR_CONTRAST)
+}
+
+function failed(this: void): LineColor {
+  return textColorOf(INTERFACE_TEXT_COLOR_FAILED)
 }
 
 export interface StatusTooltipCacheRef {
@@ -154,14 +165,14 @@ GuildHistoryStatusTooltip.SetupForCategory = function (this, cache) {
   if (cache.IsAutoRequesting()) {
     lines.push(...managedLines(cache))
   } else {
-    lines.push({ text: "Missing events are not requested automatically", color: GREEN })
+    lines.push({ text: "Missing events are not requested automatically", color: done() })
   }
 
   let shouldUnregisterForUpdate = true
   if (cache.IsProcessing()) {
-    lines.push({ text: "Events are being processed...", color: YELLOW })
+    lines.push({ text: "Events are being processed...", color: working() })
     const [count, speed, rawTimeLeft] = cache.GetPendingEventMetrics()
-    lines.push({ text: `${formatCount(count)} events left`, color: YELLOW })
+    lines.push({ text: `${formatCount(count)} events left`, color: working() })
     if (rawTimeLeft >= 0) {
       const timeLeft = math.floor(rawTimeLeft / 60)
       let speedText: string
@@ -177,21 +188,21 @@ GuildHistoryStatusTooltip.SetupForCategory = function (this, cache) {
           timeLeft,
           speedText
         ),
-        color: YELLOW,
+        color: working(),
       })
     } else {
-      lines.push({ text: "Calculating time remaining...", color: YELLOW })
+      lines.push({ text: "Calculating time remaining...", color: working() })
     }
     this.RegisterForUpdate()
     shouldUnregisterForUpdate = false
   } else if (cache.HasLinked()) {
     if (cache.HasCachedEvents()) {
-      lines.push({ text: "History has been linked to present events", color: GREEN })
+      lines.push({ text: "History has been linked to present events", color: done() })
     }
   } else if (cache.HasPendingRequest()) {
-    lines.push({ text: "Waiting for request to be sent", color: RED })
+    lines.push({ text: "Waiting for request to be sent", color: failed() })
   } else {
-    lines.push({ text: "History has not linked to present events yet", color: RED })
+    lines.push({ text: "History has not linked to present events yet", color: failed() })
     lines.push({ text: `Unlinked events: ${formatCount(cache.GetNumUnlinkedEvents())}` })
 
     const oldestUnlinkedEventTime = cache.GetOldestUnlinkedEventTime()

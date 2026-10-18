@@ -1,9 +1,5 @@
 import "akasha/temper/addon/type/temper-global/temper-global.type-declaration.d.ts"
 
-import {
-  GREEN,
-  RED,
-} from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import { recordNetWorthScanMs } from "akasha/temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import { getInventoryConfig } from "akasha/temper/addon/pages/items/modules/inventory-config/inventory-config.module.code.ts"
 import { computeLiveNetWorth } from "akasha/temper/addon/pages/items/modules/inventory-live-net-worth/inventory-live-net-worth.module.code.ts"
@@ -17,6 +13,7 @@ import {
   formatSignedGold,
   isBurstVisible,
 } from "akasha/temper/addon/pages/items/modules/inventory-session-tracking/inventory-session-tracking.module.code.ts"
+import { textColorOf } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -28,8 +25,9 @@ interface HudCell {
   alpha?: number
 }
 
-const GAIN_COLOR = GREEN
-const LOSS_COLOR = RED
+function changeColor(amount: number): NonNullable<HudCell["color"]> {
+  return textColorOf(amount < 0 ? INTERFACE_TEXT_COLOR_FAILED : INTERFACE_TEXT_COLOR_SUCCEEDED)
+}
 
 let lastKnownNetWorth = 0
 let burst: BurstState = EMPTY_BURST
@@ -72,15 +70,17 @@ function bagCell(): HudCell {
 function netWorthDeltaCell(): HudCell {
   const sv = getSavedVariables()
   const delta = lastKnownNetWorth - sv.session.startNetWorth
-  const color = delta < 0 ? LOSS_COLOR : GAIN_COLOR
-  return { text: formatSignedGold(delta), color }
+  return { text: formatSignedGold(delta), color: changeColor(delta) }
 }
 
 function burstCell(): HudCell {
   const now = GetTimeStamp()
   if (!isBurstVisible(burst, now)) return { text: "" }
-  const color = burst.amount < 0 ? LOSS_COLOR : GAIN_COLOR
-  return { text: formatSignedGold(burst.amount), color, alpha: burstAlpha(burst, now) }
+  return {
+    text: formatSignedGold(burst.amount),
+    color: changeColor(burst.amount),
+    alpha: burstAlpha(burst, now),
+  }
 }
 
 export function registerHudFields(): undefined {
