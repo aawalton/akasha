@@ -32,19 +32,10 @@ export const pushDeviceTokens = {
       statement: "A list holds only the tokens taking the sort of push asked for.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "An alert and a live activity are asked for apart.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The topic a live activity is pushed under is the bundle with `.push-type.liveactivity` after it.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here sends a push.",
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-09-22T00:50:00.000Z",
+  updatedAt: "2026-10-18T13:21:00.027Z",
 } as const satisfies Module

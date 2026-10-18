@@ -8,12 +8,7 @@ export const upkeep = {
   figureOffScale: true,
   wireKeyName: "habit",
   statusBarSection: "upkeep",
-  servedBy: [
-    "route/habit-stoplights",
-    "route/jenny-upkeep",
-    "module/stoplights-activity-pushing",
-    "route/stoplights-activity",
-  ],
+  servedBy: ["route/habit-stoplights", "route/jenny-upkeep"],
   createdAt: "2026-09-02T11:54:28.932Z",
-  updatedAt: "2026-09-25T17:47:51.000Z",
+  updatedAt: "2026-10-18T13:21:00.027Z",
 } as const satisfies ReadoutGroup

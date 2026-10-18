@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/handover-rr/modules/handover-app/handover-app.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/.server/chapter-write-answering/chapter-write-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts","typed":false,"deferred":false}

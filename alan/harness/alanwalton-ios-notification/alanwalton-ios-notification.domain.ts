@@ -11,9 +11,8 @@ export const alanwaltonIosNotification = {
     "module/push-notifier-tick",
     "module/push-notifying",
     "module/push-payload",
-    "module/stoplights-activity-pushing",
     "service-workstation/apns-push-notifier",
   ],
   createdAt: "2026-09-03T13:00:18.005Z",
-  updatedAt: "2026-09-24T22:25:53.000Z",
+  updatedAt: "2026-10-18T13:21:00.027Z",
 } as const satisfies Domain

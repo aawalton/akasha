@@ -26,8 +26,6 @@ const DEVICE_TOKEN_WRITER = "device token registration <push@alanwalton.com>"
 
 export const ALERT = "alert"
 
-export const LIVE_ACTIVITY = "liveactivity"
-
 interface DeviceTokenRegistration {
   readonly userId?: string
   readonly contributor?: string

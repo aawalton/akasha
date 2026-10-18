@@ -5,19 +5,6 @@ export const alanHarnessStoplight = {
   type: "page-type/domain",
   slug: "alan-harness-stoplight",
   definition: "how Alan's stoplights are shown",
-  parts: ["module/stoplights-activity-content"],
-  decisions: [
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "The app's live activity decodes its content under three group slugs its Swift names.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement:
-        "ActivityKit decodes content into a type built into the app, so its keys move only in a build.",
-    },
-  ],
   createdAt: "2026-09-03T03:41:37.885Z",
-  updatedAt: "2026-09-25T17:49:12.000Z",
+  updatedAt: "2026-10-18T13:21:00.027Z",
 } as const satisfies Domain

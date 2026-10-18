@@ -8,11 +8,7 @@ export const attributes = {
   figureOffScale: true,
   wireKeyName: "attribute",
   statusBarSection: "attributes",
-  servedBy: [
-    "route/attribute-stoplights",
-    "module/stoplights-activity-pushing",
-    "route/stoplights-activity",
-  ],
+  servedBy: ["route/attribute-stoplights"],
   createdAt: "2026-09-03T17:02:13.483Z",
-  updatedAt: "2026-09-25T17:47:51.000Z",
+  updatedAt: "2026-10-18T13:21:00.027Z",
 } as const satisfies ReadoutGroup

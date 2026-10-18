@@ -4,7 +4,7 @@ export const pushNotifierTick = {
   id: "01a069b6-bb6b-79e0-abb9-81217fe400a3",
   type: "page-type/module",
   slug: "push-notifier-tick",
-  definition: "a round of the notifier: push what is new in the feed and any reading that moved",
+  definition: "a round of the notifier: push what is new in the feed",
   code: "ts",
   decisions: [
     {
@@ -59,23 +59,7 @@ export const pushNotifierTick = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here waits between one tick and the next.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A tick pushes the live activity after the notifications that tick found.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "What was last pushed to the activity is kept beside the feed's cursor.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A live activity leg that threw leaves the feed's cursor where the feed left it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "With no sender the live activity leg is skipped along with the feed's.",
-    },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-09-22T00:50:00.000Z",
+  updatedAt: "2026-10-18T13:21:00.027Z",
 } as const satisfies Module

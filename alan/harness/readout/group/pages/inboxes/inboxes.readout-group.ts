@@ -8,11 +8,7 @@ export const inboxes = {
   figureOffScale: true,
   wireKeyName: "inbox",
   statusBarSection: "inbox",
-  servedBy: [
-    "route/inbox-stoplights",
-    "module/stoplights-activity-pushing",
-    "route/stoplights-activity",
-  ],
+  servedBy: ["route/inbox-stoplights"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -28,5 +24,5 @@ export const inboxes = {
     },
   ],
   createdAt: "2026-09-02T12:55:53.429Z",
-  updatedAt: "2026-09-26T13:32:22.000Z",
+  updatedAt: "2026-10-18T13:21:00.027Z",
 } as const satisfies ReadoutGroup

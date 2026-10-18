@@ -4,7 +4,6 @@ import {
   ALERT,
   deviceTokensFor,
   dropDeviceToken,
-  LIVE_ACTIVITY,
 } from "akasha/person/modules/device-token-registration/device-token-registration.module.code.ts"
 
 const ON_THE_WORKSTATION = "http://127.0.0.1:8787"
@@ -12,12 +11,6 @@ const ON_THE_WORKSTATION = "http://127.0.0.1:8787"
 interface DeviceToken {
   readonly deviceToken: string
   readonly bundleId: string
-}
-
-const LIVE_ACTIVITY_TOPIC_SUFFIX = ".push-type.liveactivity"
-
-export function liveActivityTopic(bundleId: string): string {
-  return `${bundleId}${LIVE_ACTIVITY_TOPIC_SUFFIX}`
 }
 
 function originNamed(): boolean {
@@ -39,10 +32,6 @@ async function tokensTaking(userId: string, pushType: string): Promise<readonly 
 
 export function listDeviceTokens(userId: string): Promise<readonly DeviceToken[]> {
   return tokensTaking(userId, ALERT)
-}
-
-export function listActivityTokens(userId: string): Promise<readonly DeviceToken[]> {
-  return tokensTaking(userId, LIVE_ACTIVITY)
 }
 
 export async function pruneDeviceToken(deviceToken: string): Promise<void> {

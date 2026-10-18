@@ -14,10 +14,6 @@ import {
   recipientsFor,
 } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.code.ts"
 import {
-  type ActivityPushState,
-  pushStoplightsActivity,
-} from "akasha/alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.code.ts"
-import {
   type Notification,
   newestNotificationAt,
   readNotificationsAfter,
@@ -34,7 +30,6 @@ export const TICK_CEILING_MS = 120_000
 
 interface NotifierState {
   sentThrough: string
-  activity: ActivityPushState
 }
 
 function say(line: string): undefined {
@@ -49,7 +44,7 @@ function complain(line: string, err: unknown): undefined {
 
 export async function openState(): Promise<NotifierState> {
   const newest = await newestNotificationAt()
-  return { sentThrough: newest ?? new Date().toISOString(), activity: { pushed: null } }
+  return { sentThrough: newest ?? new Date().toISOString() }
 }
 
 function deliveredSaid(what: string, bundleId: string): string {
@@ -160,15 +155,6 @@ async function runPushNotifierTick(
       complain(`notification ${one.id}: the push leg threw:`, err)
     }
     state.sentThrough = one.sentAt
-  }
-
-  try {
-    await pushStoplightsActivity(
-      { sender, userId: alanUserId, state: state.activity, signal },
-      done
-    )
-  } catch (err) {
-    complain("the stoplights live activity leg threw:", err)
   }
 }
 
