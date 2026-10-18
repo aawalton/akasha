@@ -1,7 +1,6 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a14f20-9e11-7000-a53b-1e2e9cc76a9a"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/amy-a4e3e90472fbe4882/amy-a4e3e90472fbe4882.subagent.ts","id":"01a14f3a-8af2-7e1b-96ac-291c81167d50"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/amy-a9a21f8f41944eb56/amy-a9a21f8f41944eb56.subagent.ts","id":"01a14f46-571c-7f1a-a283-94fa0542d0d5"}
-{"propertySlug":"assignment-slug","path":"agent/subagent/pages/amy-ad17add24ca74c70b/amy-ad17add24ca74c70b.subagent.ts","id":"01a14f27-d94c-7334-899a-048100cd00c1"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/amy-af48f3d9f8c0012bb/amy-af48f3d9f8c0012bb.subagent.ts","id":"01a14f33-db6b-7a42-ba5e-be138834c52b"}
 {"propertySlug":"championed-domain","path":"persona/pages/amy/amy.persona.ts","id":"019eb900-4c8c-7304-aae1-b287c6b53b3e"}
 {"propertySlug":"import","fileName":"alan-harness.domain.ts","path":"command/pages/seat/messaged/seat-messaged.command.test.ts","typed":false,"deferred":false}
