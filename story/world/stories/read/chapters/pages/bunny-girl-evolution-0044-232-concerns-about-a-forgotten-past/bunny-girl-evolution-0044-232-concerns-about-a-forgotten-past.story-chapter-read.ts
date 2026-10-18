@@ -20,5 +20,6 @@ export const bunnyGirlEvolution0044232ConcernsAboutAForgottenPast = {
     },
   ],
   createdAt: "2026-10-18T08:07:52.394Z",
-  updatedAt: "2026-10-18T08:07:52.394Z",
+  updatedAt: "2026-10-18T11:04:46.076Z",
+  ownProgress: 3123,
 } as const satisfies StoryChapterRead
