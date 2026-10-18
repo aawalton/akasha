@@ -6,6 +6,17 @@ export const pithkaGroupFinderWindow = {
   slug: "pithka-group-finder-window",
   definition: "the group finder window's listing cards, search buttons and searching line",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The window is framed by the shared window frame.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The searching line is one line inside the footer, ending in an ellipsis where long.",
+    },
+  ],
   createdAt: "2026-09-26T16:35:10.017Z",
-  updatedAt: "2026-09-26T16:35:27.000Z",
+  updatedAt: "2026-10-18T20:08:18.328Z",
 } as const satisfies Module

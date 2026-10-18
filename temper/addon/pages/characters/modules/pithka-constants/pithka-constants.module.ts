@@ -6,6 +6,17 @@ export const pithkaConstants = {
   slug: "pithka-constants",
   definition: "the sizes, colors, fonts and textures the achievement tracker draws with",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The tracker's text colors are the game's own, read through the shared text roles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tracker's fonts are the game's own.",
+    },
+  ],
   createdAt: "2026-09-26T16:09:59.811Z",
-  updatedAt: "2026-09-26T16:10:12.000Z",
+  updatedAt: "2026-10-18T20:08:18.328Z",
 } as const satisfies Module

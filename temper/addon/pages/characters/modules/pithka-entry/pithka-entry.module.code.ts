@@ -1,5 +1,8 @@
 import { registerAchievementSearch } from "akasha/temper/addon/pages/characters/modules/pithka-achievement-actions/pithka-achievement-actions.module.code.ts"
-import { toggleTracker } from "akasha/temper/addon/pages/characters/modules/pithka-controls/pithka-controls.module.code.ts"
+import {
+  frameTracker,
+  toggleTracker,
+} from "akasha/temper/addon/pages/characters/modules/pithka-controls/pithka-controls.module.code.ts"
 import {
   createGroupFinder,
   GROUP_FINDER,
@@ -44,6 +47,7 @@ function initialize(this: void): undefined {
   initializeQrTray()
   buildNavBar(screens)
   initializeCommonView()
+  frameTracker()
   setValue("currentScreen", getValue("currentScreen"))
   fetchTrials()
   fetchEndless()

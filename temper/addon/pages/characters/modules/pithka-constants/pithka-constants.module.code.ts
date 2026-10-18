@@ -1,3 +1,9 @@
+import {
+  colorOf,
+  hexOf,
+  type TextRole,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+
 export type Rgba = readonly [number, number, number, number]
 
 export type TextureBundle = {
@@ -15,17 +21,22 @@ export const SCREEN_DIMENSIONS = {
   scoresAndTris: [950, 850],
 } as const
 
-export const RGB_WHITE: Rgba = [1, 1, 1, 0.9]
-export const RGB_GRAY: Rgba = [1, 1, 1, 0.45]
-export const RGB_BLUE: Rgba = [128 / 255, 128 / 255, 1, 1]
-export const RGB_GOLD: Rgba = [230 / 225, 230 / 225, 180 / 225, 1]
-export const RGB_GREEN: Rgba = [0.2, 1, 0.2, 1]
-export const HEX_BLUE = "c8080ff"
-export const HEX_GOLD = "cc5c29e"
+const OPAQUE = 1
 
-export const DEFAULT_FONT = "$(MEDIUM_FONT)|$(KB_18)|soft-shadow-thin"
+function roleRgba(this: void, role: TextRole): Rgba {
+  const [red, green, blue] = colorOf(role)
+  return [red, green, blue, OPAQUE]
+}
+
+export const TEXT_STRONG: Rgba = roleRgba("strong")
+export const TEXT_MUTED: Rgba = roleRgba("muted")
+export const TEXT_BODY: Rgba = roleRgba("body")
+export const TEXT_ACCENT: Rgba = roleRgba("accent")
+export const RGB_GREEN: Rgba = [0.2, 1, 0.2, 1]
+export const HEX_ACCENT = `c${hexOf("accent")}`
+
+export const DEFAULT_FONT = "ZoFontGame"
 export const SMALL_FONT = "ZoFontGameSmall"
-export const SMALL_THIN_FONT = "$(MEDIUM_FONT)|$(KB_14)|soft-shadow-thin"
 
 export const ICON_TEXTURE = "esoui/art/tutorial/ava_rankicon64_general.dds"
 export const ICON_SIZE = 23

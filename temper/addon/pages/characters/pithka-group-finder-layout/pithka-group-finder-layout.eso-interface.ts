@@ -10,10 +10,17 @@ export const pithkaGroupFinderLayout = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The markup is Pithka's Achievement Tracker's own, with only its global names renamed.",
+      statement: "The markup is Pithka's Achievement Tracker's own, with its global names renamed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The window's frame, title and close are the shared window frame's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its text takes the game's own fonts, and its footer the game's inset art.",
     },
   ],
   createdAt: "2026-09-26T16:56:17.954Z",
-  updatedAt: "2026-09-26T16:56:28.000Z",
+  updatedAt: "2026-10-18T20:08:18.328Z",
 } as const satisfies EsoInterface

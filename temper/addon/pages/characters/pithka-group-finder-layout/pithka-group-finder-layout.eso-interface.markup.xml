@@ -6,23 +6,7 @@
             <DimensionConstraints minY="400" maxY="1200" />
             <Anchor point="CENTER" />
             <Controls>
-                <Backdrop name="$(parent)BG" inherits="ZO_DefaultBackdrop" mouseEnabled="false" tier="LOW"/>
-
-                <Label name="$(parent)WindowTitle" font="ZoFontAnnounceMedium" text="Pithka Group Finder">
-                    <Anchor point="TOP" relativeTo="$(parent)" relativePoint="TOP" offsetY="10"/>
-                </Label>
-
-                <Button name="$(parent)ButtonCloseAddon" inherits="ZO_ButtonBehaviorClickSound">
-                    <Dimensions x="30" y="30" />
-                    <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="5" />
-                    <Textures   normal    ="EsoUI/Art/Buttons/closebutton_up.dds"
-                                pressed   ="EsoUI/Art/Buttons/closebutton_down.dds"
-                                mouseOver ="EsoUI/Art/Buttons/closebutton_mouseover.dds"
-                                disabled  ="EsoUI/Art/Buttons/closebutton_disabled.dds"/>
-                    <OnClicked>
-                        TemperCharacters.TogglePithkaGroupFinder()
-                    </OnClicked>
-                </Button>
+                <Backdrop name="$(parent)FrameSurface" />
 
                 <Control name="$(parent)ContentContainer">
                     <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="10" offsetY="40" />
@@ -32,8 +16,9 @@
                             <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
                             <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
                             <Controls>
-                                <Label name="$(parent)Subtitle" font="$(MEDIUM_FONT)|$(KB_14)|soft-shadow-thin" text="Join groups using the role icons below.">
-                                    <Anchor point="TOP"/>
+                                <Label name="$(parent)Subtitle" font="ZoFontGameSmall" horizontalAlignment="CENTER" text="Join groups using the role icons below.">
+                                    <Anchor point="TOPLEFT"/>
+                                    <Anchor point="TOPRIGHT"/>
                                 </Label>
                             </Controls>
                         </Control>
@@ -48,8 +33,7 @@
                             <Anchor point="BOTTOMRIGHT" relativeTo="$(parent)List" relativePoint="BOTTOMRIGHT" />
                             <Controls>
                                 <Label name="$(parent)Message"
-                                       font="$(BOLD_FONT)|$(KB_20)|soft-shadow-thick"
-                                       color="FFFFFF"
+                                       font="ZoFontWinH3"
                                        text="Attempting to join group..."
                                        horizontalAlignment="CENTER"
                                        verticalAlignment="CENTER"
@@ -64,7 +48,7 @@
                             <Anchor point="BOTTOMRIGHT" relativeTo="$(parent)" relativePoint="BOTTOMRIGHT" />
                             <Dimensions x="0" y="60" />
                             <Controls>
-                                <Backdrop name="$(parent)BG" inherits="ZO_DefaultBackdrop" mouseEnabled="false" tier="LOW">
+                                <Backdrop name="$(parent)BG" inherits="ZO_InsetBackdrop" mouseEnabled="false" tier="LOW">
                                     <Anchor point="TOPLEFT" />
                                     <Anchor point="BOTTOMRIGHT" />
                                 </Backdrop>
@@ -87,7 +71,7 @@
                             <Anchor point="BOTTOMLEFT" offsetX="0" offsetY="0" />
                             <Dimensions x="220" y="0" />
                             <Controls>
-                                <Label name="$(parent)Category" font="$(BOLD_FONT)|$(KB_20)|soft-shadow-thick" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="TOP" mouseEnabled="true">
+                                <Label name="$(parent)Category" font="ZoFontWinH4" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="TOP" mouseEnabled="true">
                                     <Anchor point="TOPLEFT" offsetX="0" offsetY="0" />
                                     <Dimensions x="230" y="23" />
                                 </Label>
@@ -198,8 +182,7 @@
                                     </Controls>
                                 </Button>
                                 <Label name="$(parent)GroupFilledLabel"
-                                       font="$(BOLD_FONT)|$(KB_20)|soft-shadow-thick"
-                                       color="FFFFFF"
+                                       font="ZoFontWinH4"
                                        horizontalAlignment="RIGHT"
                                        verticalAlignment="CENTER"
                                        wrapMode="ELLIPSIS"

@@ -1,8 +1,9 @@
 import { toggleButton } from "akasha/temper/addon/pages/characters/modules/pithka-buttons/pithka-buttons.module.code.ts"
 import {
-  RGB_BLUE,
-  RGB_GOLD,
-  SMALL_THIN_FONT,
+  SMALL_FONT,
+  TEXT_ACCENT,
+  TEXT_BODY,
+  TEXT_MUTED,
   TEXTURE_BUNDLES,
 } from "akasha/temper/addon/pages/characters/modules/pithka-constants/pithka-constants.module.code.ts"
 import {
@@ -20,6 +21,7 @@ import {
   createGrid,
   spacer,
 } from "akasha/temper/addon/pages/characters/modules/pithka-layout/pithka-layout.module.code.ts"
+import { frameWindow } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/characters/pithka-declarations/pithka-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
@@ -35,6 +37,10 @@ import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 const DATA_TYPE = 1
 
 const ROW_HEIGHT = 80
+
+const WINDOW_TITLE = "Pithka Group Finder"
+
+const PULSE_INSET = 8
 
 let pulse: LabelControlWithPulse | undefined
 
@@ -66,14 +72,14 @@ function updatePulseLabel(this: void): undefined {
       text =
         total > 0
           ? string.format(
-              "SEARCHING (%d of %d):   %s %s for %s",
+              "Searching %d of %d: %s %s for %s",
               index,
               total,
               difficulty,
               category,
               roleText
             )
-          : string.format("SEARCHING:   %s %s for %s", difficulty, category, roleText)
+          : string.format("Searching: %s %s for %s", difficulty, category, roleText)
     }
     pulse.SetText(text)
     pulse.SetHidden(false)
@@ -144,15 +150,17 @@ function setupSearchControls(this: void): undefined {
     }),
   ])
   pulse = pulseLabel({
-    text: "testing label",
-    width: 400,
-    color: [1, 1, 1, 1],
+    text: "",
+    color: TEXT_MUTED,
     align: TEXT_ALIGN_CENTER,
-    font: SMALL_THIN_FONT,
+    font: SMALL_FONT,
     parent: footer,
     hidden: false,
   })
-  pulse.SetAnchor(BOTTOM, footer, BOTTOM, 0, -5)
+  pulse.SetWrapMode(TEXT_WRAP_MODE_ELLIPSIS)
+  pulse.SetMaxLineCount(1)
+  pulse.SetAnchor(BOTTOMLEFT, footer, BOTTOMLEFT, PULSE_INSET, -PULSE_INSET)
+  pulse.SetAnchor(BOTTOMRIGHT, footer, BOTTOMRIGHT, -PULSE_INSET, -PULSE_INSET)
   updatePulseLabel()
   const groupFinder = GROUP_FINDER.instance
   if (groupFinder !== undefined) registerPulseCallbacks(groupFinder)
@@ -164,7 +172,7 @@ function setupRow(this: void, control: Control, data: Listing): undefined {
   const categoryLabel = child<LabelControl>(left, "Category")
   const difficulty = data.difficulty === "Veteran" ? "VET" : "NORM"
   categoryLabel.SetText(string.format("%s %s", difficulty, data.specificActivity))
-  const color = data.category === GROUP_FINDER_CATEGORY_DUNGEON ? RGB_GOLD : RGB_BLUE
+  const color = data.category === GROUP_FINDER_CATEGORY_DUNGEON ? TEXT_ACCENT : TEXT_BODY
   categoryLabel.SetColor(...color)
   const tooltipText = string.format(
     "|cFFFFFF%s:|r %s\n|cFFFFFF%s:|r %s\n|cFFFFFF%s:|r %s",
@@ -282,8 +290,19 @@ function hideFragment(this: void): ZoSceneFragmentObject {
   return fragmentClass.New()
 }
 
+function frameGroupFinder(this: void): undefined {
+  const { body } = frameWindow(TemperCharactersPithka_GroupFinderGUI, WINDOW_TITLE, () =>
+    toggleGroupFinderWindow()
+  )
+  const content = contentContainer()
+  content.ClearAnchors()
+  content.SetAnchor(TOPLEFT, body, TOPLEFT, 0, 0)
+  content.SetAnchor(BOTTOMRIGHT, body, BOTTOMRIGHT, 0, 0)
+}
+
 export function initializeGroupFinderWindow(this: void): undefined {
   TemperCharactersPithka_GroupFinderGUI.SetHidden(true)
+  frameGroupFinder()
   SCENE_MANAGER.GetScene("gameMenuInGame").AddFragment(hideFragment())
   setupList()
   setupSearchControls()

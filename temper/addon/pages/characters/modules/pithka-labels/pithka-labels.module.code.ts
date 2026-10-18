@@ -1,13 +1,13 @@
 import { isAchievementComplete } from "akasha/temper/addon/pages/characters/modules/pithka-achievement-actions/pithka-achievement-actions.module.code.ts"
 import {
   DEFAULT_FONT,
-  HEX_GOLD,
+  HEX_ACCENT,
   ICON_SIZE,
-  RGB_BLUE,
-  RGB_GRAY,
-  RGB_WHITE,
   type Rgba,
   SMALL_FONT,
+  TEXT_BODY,
+  TEXT_MUTED,
+  TEXT_STRONG,
   TEXTURES,
 } from "akasha/temper/addon/pages/characters/modules/pithka-constants/pithka-constants.module.code.ts"
 import {
@@ -53,7 +53,7 @@ type LabelSettings = {
 export function basicLabel(this: void, settings: LabelSettings = {}): LabelControl {
   const control = newLabel()
   control.SetDimensions(settings.width ?? ICON_SIZE, settings.height ?? ICON_SIZE)
-  control.SetColor(...(settings.color ?? RGB_WHITE))
+  control.SetColor(...(settings.color ?? TEXT_STRONG))
   control.SetHorizontalAlignment(settings.align ?? TEXT_ALIGN_LEFT)
   control.SetVerticalAlignment(settings.vAlign ?? TEXT_ALIGN_CENTER)
   control.SetText(settings.text ?? "")
@@ -80,14 +80,14 @@ export function achievementLabel(this: void, settings: AchievementLabelSettings)
   let complete = isAchievementComplete(id)
   const control = basicLabel({
     ...settings,
-    color: complete ? RGB_WHITE : RGB_GRAY,
+    color: complete ? TEXT_STRONG : TEXT_MUTED,
     font: settings.font ?? DEFAULT_FONT,
   })
   control.SetHandler("OnEffectivelyShown", () => {
     const now = isAchievementComplete(id)
     if (now !== complete) {
       complete = now
-      control.SetColor(...(now ? RGB_WHITE : RGB_GRAY))
+      control.SetColor(...(now ? TEXT_STRONG : TEXT_MUTED))
     }
   })
   return control
@@ -141,12 +141,12 @@ export function teleportLabel(this: void, settings: TeleportSettings): LabelCont
   const name = settings.text
   const control = basicLabel({
     ...settings,
-    color: settings.color ?? RGB_BLUE,
+    color: settings.color ?? TEXT_BODY,
     font: settings.font ?? DEFAULT_FONT,
   })
   control.SetMouseEnabled(true)
-  control.SetHandler("OnMouseEnter", (target: LabelControl) => target.SetColor(...RGB_WHITE))
-  control.SetHandler("OnMouseExit", (target: LabelControl) => target.SetColor(...RGB_BLUE))
+  control.SetHandler("OnMouseEnter", (target: LabelControl) => target.SetColor(...TEXT_STRONG))
+  control.SetHandler("OnMouseExit", (target: LabelControl) => target.SetColor(...TEXT_BODY))
   control.SetHandler("OnMouseUp", (target: LabelControl, button: number) => {
     if (button === 2) {
       ClearMenu()
@@ -185,7 +185,11 @@ export function scoreLabel(this: void, row: ScoreSettings): LabelControl {
     tooltipText: "Test Tooltip",
   })
   if (row.SCORED === false) {
-    const cross = basicIcon({ texture: TEXTURES.X, tooltipText: "does not exist", color: RGB_GRAY })
+    const cross = basicIcon({
+      texture: TEXTURES.X,
+      tooltipText: "does not exist",
+      color: TEXT_MUTED,
+    })
     cross.SetAnchor(TOPRIGHT, control, TOPRIGHT, 0, 0)
     cross.SetParent(control)
     control.SetMouseEnabled(false)
@@ -197,7 +201,7 @@ export function scoreLabel(this: void, row: ScoreSettings): LabelControl {
       ZO_Tooltips_ShowTextTooltip(
         control,
         TEXT_ALIGN_LEFT,
-        `|${HEX_GOLD}${allScoresText(row.ABBV)}|r`
+        `|${HEX_ACCENT}${allScoresText(row.ABBV)}|r`
       )
     })
     control.SetHandler("OnMouseExit", tooltipCloseFn())

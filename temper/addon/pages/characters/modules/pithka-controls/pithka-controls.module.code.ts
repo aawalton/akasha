@@ -1,4 +1,5 @@
-import { HEX_BLUE } from "akasha/temper/addon/pages/characters/modules/pithka-constants/pithka-constants.module.code.ts"
+import { paintSurface } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { frameWindow } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 import "akasha/temper/addon/pages/characters/pithka-declarations/pithka-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -16,14 +17,27 @@ export function setWindowDimensions(this: void, width: number, height: number): 
   TemperCharactersPithka_GUI.SetDimensions(width, height)
 }
 
+const TRACKER_TITLE = "Pithka Achievement Tracker"
+
+const SIDE_PANELS: readonly string[] = ["NavPanel", "QRContainer"]
+
 export function setWindowTitle(this: void, title: string): undefined {
-  TemperCharactersPithka_GUI.GetNamedChild<LabelControl>("WindowTitle")?.SetText(
-    `Pithka Achievement Tracker  |${HEX_BLUE}${title}|r`
+  TemperCharactersPithka_GUI.GetNamedChild<LabelControl>("FrameTitle")?.SetText(
+    `${TRACKER_TITLE} — ${title}`
   )
 }
 
 export function toggleTracker(this: void): undefined {
   SCENE_MANAGER.ToggleTopLevel(TemperCharactersPithka_GUI)
+}
+
+export function frameTracker(this: void): undefined {
+  frameWindow(TemperCharactersPithka_GUI, TRACKER_TITLE, toggleTracker)
+  for (const name of SIDE_PANELS) {
+    const backdrop =
+      TemperCharactersPithka_GUI.GetNamedChild(name)?.GetNamedChild<BackdropControl>("BG")
+    if (backdrop !== undefined) paintSurface(backdrop, 1)
+  }
 }
 
 export function newLabel(this: void): LabelControl {

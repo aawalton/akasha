@@ -7,10 +7,10 @@ import {
 import {
   ICON_SIZE,
   ICON_TEXTURE,
-  RGB_GRAY,
   RGB_GREEN,
-  RGB_WHITE,
   type Rgba,
+  TEXT_MUTED,
+  TEXT_STRONG,
   TEXTURES,
 } from "akasha/temper/addon/pages/characters/modules/pithka-constants/pithka-constants.module.code.ts"
 import {
@@ -35,7 +35,7 @@ export function basicIcon(this: void, settings: IconSettings = {}): TextureContr
   const control = newIcon()
   control.SetTexture(settings.texture ?? ICON_TEXTURE)
   control.SetDimensions(size, size)
-  control.SetColor(...(settings.color ?? RGB_WHITE))
+  control.SetColor(...(settings.color ?? TEXT_STRONG))
   if (settings.tooltipText !== undefined) {
     control.SetMouseEnabled(true)
     control.SetHandler(
@@ -50,7 +50,7 @@ export function basicIcon(this: void, settings: IconSettings = {}): TextureContr
 
 export function achievementIcon(this: void, id: number | undefined): TextureControl {
   if (id === undefined) {
-    return basicIcon({ texture: TEXTURES.X, color: RGB_GRAY, tooltipText: "does not exist" })
+    return basicIcon({ texture: TEXTURES.X, color: TEXT_MUTED, tooltipText: "does not exist" })
   }
   if (!isAchievementReleased(id)) {
     return basicIcon({ tooltipText: "Coming Soon", texture: TEXTURES.LOCK, tooltipAnchor: BOTTOM })
@@ -63,7 +63,7 @@ export function achievementIcon(this: void, id: number | undefined): TextureCont
   const update = (target: TextureControl): undefined => {
     const complete = isAchievementComplete(id)
     target.SetTexture(complete ? TEXTURES.CHECK : TEXTURES.BOX)
-    target.SetColor(...(complete ? RGB_GREEN : RGB_GRAY))
+    target.SetColor(...(complete ? RGB_GREEN : TEXT_MUTED))
   }
   control.SetHandler("OnEffectivelyShown", update)
   update(control)

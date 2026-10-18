@@ -1,6 +1,7 @@
 import { enumToggleButton } from "akasha/temper/addon/pages/characters/modules/pithka-buttons/pithka-buttons.module.code.ts"
 import {
-  SMALL_THIN_FONT,
+  SMALL_FONT,
+  TEXT_MUTED,
   TEXTURE_BUNDLES,
 } from "akasha/temper/addon/pages/characters/modules/pithka-constants/pithka-constants.module.code.ts"
 import {
@@ -79,7 +80,7 @@ export function initializeQrTray(this: void): undefined {
     height: 100,
     vAlign: TEXT_ALIGN_TOP,
     text: "Used by discord bot ESOClearsBot to auto update clears.  Click for Discord link.",
-    font: SMALL_THIN_FONT,
+    font: SMALL_FONT,
     clickFn: announceDiscord,
   })
   info.SetAnchor(TOP, qr, BOTTOM, 0, 10)
@@ -110,9 +111,9 @@ export function initializeCommonView(this: void): undefined {
 
   const info = basicLabel({
     text: "Click name to queue or teleport, click achievement to link or group, /pgf for group finder.",
-    font: SMALL_THIN_FONT,
+    font: SMALL_FONT,
     width: 700,
-    color: [1, 1, 1, 1],
+    color: TEXT_MUTED,
     align: TEXT_ALIGN_CENTER,
   })
   info.SetAnchor(BOTTOM, TemperCharactersPithka_GUI, BOTTOM, 0, 5)
