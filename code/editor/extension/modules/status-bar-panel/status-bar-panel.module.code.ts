@@ -77,8 +77,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   })
 
   let freshAts: FreshAts = {
-    resources: undefined,
-    inbox: undefined,
     usage: undefined,
     workstation: undefined,
   }
@@ -99,8 +97,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     const reads = settleReads(outcomes, freshAts, Date.now())
     applyToItems(items, reads, legends)
     freshAts = {
-      resources: reads.resources.lastFreshAt,
-      inbox: reads.inbox.lastFreshAt,
       usage: reads.usage.lastFreshAt,
       workstation: reads.workstation.lastFreshAt,
     }

@@ -12,8 +12,8 @@ type SectionResult<T> = {
 }
 
 type SettledReads = {
-  readonly resources: SectionResult<string>
-  readonly inbox: SectionResult<string>
+  readonly resources: string | undefined
+  readonly inbox: string | undefined
   readonly usage: SectionResult<UsageReading>
   readonly workstation: SectionResult<WorkstationReading>
 }
@@ -26,8 +26,6 @@ export type ReadOutcomes = {
 }
 
 export type FreshAts = {
-  readonly resources: number | undefined
-  readonly inbox: number | undefined
   readonly usage: number | undefined
   readonly workstation: number | undefined
 }
@@ -48,10 +46,14 @@ function settleSection<T>(
   return { value: undefined, stale: true, lastFreshAt: prevFreshAt }
 }
 
+function glyphsIn(settled: PromiseSettledResult<string>): string | undefined {
+  return settled.status === "fulfilled" ? settled.value : undefined
+}
+
 export function settleReads(outcomes: ReadOutcomes, prev: FreshAts, now: number): SettledReads {
   return {
-    resources: settleSection(outcomes.resources, prev.resources, now),
-    inbox: settleSection(outcomes.inbox, prev.inbox, now),
+    resources: glyphsIn(outcomes.resources),
+    inbox: glyphsIn(outcomes.inbox),
     usage: settleSection(outcomes.usage, prev.usage, now),
     workstation: settleSection(outcomes.workstation, prev.workstation, now),
   }
@@ -68,8 +70,8 @@ function formatStaleSuffix(stale: boolean, lastFreshAt: number | undefined): str
   return " (stale — no successful poll yet)"
 }
 
-function legendTooltip(legend: string | undefined, suffix: string): string | undefined {
-  const shown = `${legend ?? ""}${suffix}`.trim()
+function legendTooltip(legend: string | undefined): string | undefined {
+  const shown = (legend ?? "").trim()
   return shown === "" ? undefined : shown
 }
 
@@ -101,14 +103,11 @@ export function applyToItems(
     } else if (slot.kind === "workstation") {
       drawFigure(item, slot, reads.workstation)
     } else {
-      const section = reads[slot.section]
-      const suffix = formatStaleSuffix(section.stale, section.lastFreshAt)
-      const value = section.value
-      const legend = legends[slot.section]
+      const value = reads[slot.section]
       if (value !== undefined) {
         item.text = value
       }
-      item.tooltip = legendTooltip(legend, suffix)
+      item.tooltip = legendTooltip(legends[slot.section])
     }
   }
   return undefined

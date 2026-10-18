@@ -21,11 +21,15 @@ export const statusBarDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stale slot says in its tooltip how long that slot has been stale.",
+      statement: "A stale figure says in its tooltip how long that figure has been stale.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stale slot that was never fresh says so rather than naming a time.",
+      statement: "A stale figure that was never fresh says so rather than naming a time.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A stoplight section's tooltip says nothing of whether that section is stale.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,5 +50,5 @@ export const statusBarDrawing = {
     },
   ],
   createdAt: "2026-09-03T16:24:54.522Z",
-  updatedAt: "2026-09-15T18:33:01.000Z",
+  updatedAt: "2026-10-18T13:34:01.244Z",
 } as const satisfies Module
