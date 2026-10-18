@@ -59,6 +59,9 @@ function Control:SetBagItem(bagId, slotIndex)
   _G.__ui_swallow("probe", tostring(icon) .. " | " .. table.concat(keys, ",") .. " | " ..
     tostring(self:GetNamedChild("Icon")) .. " | " .. tostring(_G.TOOLTIP_GAME_DATA_ITEM_ICON))
   toldWith(self, "OnAddGameData", _G.TOOLTIP_GAME_DATA_ITEM_ICON, icon)
+  local shown = self:GetNamedChild("Icon")
+  _G.__ui_swallow("probe3", tostring(shown and shown:IsControlHidden()) .. " | " ..
+    tostring(_G.SetTooltipIconTexture == SET_ICON) .. " | " .. tostring(_G.ZO_IconTooltip_OnAddGameData))
 end
 
 function _G.SetTooltipIconTexture(tip, texture)
@@ -68,6 +71,8 @@ function _G.SetTooltipIconTexture(tip, texture)
   icon:SetTexture(shown and texture or "")
   icon:SetHidden(not shown)
 end
+
+SET_ICON = _G.SetTooltipIconTexture
 
 function Control:ClearLines()
   local held = linesOf(self)
