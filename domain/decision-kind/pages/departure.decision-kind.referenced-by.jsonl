@@ -4431,6 +4431,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/skill-point-finder-layout/skill-point-finder-layout.eso-interface.ts","id":"01a062e8-bed7-7011-a36b-31903e5d6972"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.ts","id":"01a08ed6-a208-7d96-96d8-75bf328401f1"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/combat-alerts-settings/modules/menu/combat-alerts-settings-menu.module.ts","id":"01a0deb0-4738-7c8d-812a-62ceba116a7b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/combat-report-layout/combat-report-layout.eso-interface.ts","id":"01a0617f-584e-76ce-83fb-c830e5da8925"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/combat-templates-layout/combat-templates-layout.eso-interface.ts","id":"01a0617f-5852-72f4-9d5e-4c118e7492c2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-action-power-lash/combat-action-power-lash.module.ts","id":"01a0617f-5833-7731-89e4-8a2778621a73"}
@@ -5848,6 +5849,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-logger/lost-treasure-logger.module.ts","id":"01a06141-800b-7606-b3fe-3a8d91998976"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-mining/lost-treasure-mining.module.ts","id":"01a06141-8008-74f7-85b8-26c2c27317b9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-saved-vars/lost-treasure-saved-vars.module.ts","id":"01a06141-800a-7640-8fdd-65e24d780c85"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-settings/lost-treasure-settings.module.ts","id":"01a06141-8006-7fe1-bd04-6162a2b698c0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/temper-lost-treasure.domain.ts","id":"01a06141-8003-755d-8ec8-3764b298f7ef"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-data/skyshards-data.module.ts","id":"01a061a8-9c65-7706-be69-f1c06fb7d9c0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-pc-slash/skyshards-pc-slash.module.ts","id":"01a061a8-9c6b-7884-af1c-4c6c3e02243e"}

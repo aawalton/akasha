@@ -11,8 +11,6 @@ import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules
 import {
   ADDON_DISPLAY_NAME,
   ADDON_NAME,
-  getAddonAuthor,
-  getAddonVersion,
   LOST_TREASURE_MARK_OPTIONS_ALL,
   LOST_TREASURE_MARK_OPTIONS_INVENTORY,
   LOST_TREASURE_MARK_OPTIONS_USING,
@@ -92,8 +90,6 @@ export function initializeSettings(this: void): undefined {
     type: "panel",
     name: ADDON_DISPLAY_NAME,
     displayName: ADDON_DISPLAY_NAME,
-    author: getAddonAuthor(),
-    version: tostring(getAddonVersion()),
     registerForRefresh: true,
     registerForDefaults: true,
   }

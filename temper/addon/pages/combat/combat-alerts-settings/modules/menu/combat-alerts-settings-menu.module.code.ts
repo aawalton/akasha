@@ -23,9 +23,7 @@ import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-h
 CRUTCH.CreateSettingsMenu = function (this: void) {
   const panelData: LamPanelData = {
     type: "panel",
-    name: "|c08BD1DTemperCombat Alerts|r",
-    author: "Kyzeragon",
-    version: CRUTCH.version,
+    name: "Temper Combat Alerts",
     registerForRefresh: true,
     registerForDefaults: true,
   }

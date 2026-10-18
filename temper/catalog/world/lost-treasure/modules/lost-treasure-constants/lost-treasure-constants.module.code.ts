@@ -1,4 +1,3 @@
-import { ADDON_NAME as WORLD_ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
 import { registerUiStrings } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-ui-strings/lost-treasure-ui-strings.module.code.ts"
 import "akasha/temper/catalog/world/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-manager/eso-addon-manager.type-declaration.d.ts"
@@ -67,40 +66,6 @@ export const LOST_TREASURE_PIN_TYPE_DATA: Record<PinType, PinTypeDataEntry> = {
     name: GetString(SI_SPECIALIZEDITEMTYPE113),
     interactionType: INTERACTION_NONE,
   },
-}
-
-interface AddOnInfo {
-  author: string
-  version: number
-}
-
-function getAddOnInfo(this: void): AddOnInfo {
-  const addOnManager = GetAddOnManager()
-  const numAddOns = addOnManager.GetNumAddOns()
-  for (let i = 1; i <= numAddOns; i += 1) {
-    const [name, , author] = addOnManager.GetAddOnInfo(i)
-    if (name === WORLD_ADDON_NAME) {
-      return { author, version: addOnManager.GetAddOnVersion(i) }
-    }
-  }
-  return { author: "", version: 0 }
-}
-
-const ADD_ON_INFO_HOLDER: { value: AddOnInfo | undefined } = { value: undefined }
-
-function getMemoizedAddOnInfo(this: void): AddOnInfo {
-  if (ADD_ON_INFO_HOLDER.value === undefined) {
-    ADD_ON_INFO_HOLDER.value = getAddOnInfo()
-  }
-  return ADD_ON_INFO_HOLDER.value
-}
-
-export function getAddonAuthor(this: void): string {
-  return getMemoizedAddOnInfo().author
-}
-
-export function getAddonVersion(this: void): number {
-  return getMemoizedAddOnInfo().version
 }
 
 export const API_VERSION = GetAPIVersion()

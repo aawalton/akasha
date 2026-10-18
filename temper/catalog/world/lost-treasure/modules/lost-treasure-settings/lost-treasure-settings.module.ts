@@ -6,6 +6,12 @@ export const lostTreasureSettings = {
   slug: "lost-treasure-settings",
   definition: "the add-on's own panel in the game's settings menu",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel shows no author or version line, as Temper's other panels do not.",
+    },
+  ],
   createdAt: "2026-09-02T08:34:37.702Z",
-  updatedAt: "2026-09-21T15:28:00.000Z",
+  updatedAt: "2026-10-18T19:47:54.825Z",
 } as const satisfies Module

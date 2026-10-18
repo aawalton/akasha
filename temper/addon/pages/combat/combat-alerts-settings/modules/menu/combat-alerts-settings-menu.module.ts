@@ -6,6 +6,13 @@ export const combatAlertsSettingsMenu = {
   slug: "combat-alerts-settings-menu",
   definition: "the combat alerts settings panel",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The panel is named in plain text as Temper's other panels are, with no author line.",
+    },
+  ],
   createdAt: "2026-09-26T17:08:09.656Z",
-  updatedAt: "2026-09-26T17:08:20.000Z",
+  updatedAt: "2026-10-18T19:47:54.825Z",
 } as const satisfies Module
