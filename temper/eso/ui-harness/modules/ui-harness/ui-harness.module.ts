@@ -58,6 +58,11 @@ export const uiHarness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Every zone's name is loaded after the documented functions, so its getter answers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The engine's captured colors are loaded before the defaults, so its getter answers them.",
     },
     {
@@ -149,5 +154,5 @@ export const uiHarness = {
     },
   ],
   createdAt: "2026-09-22T14:21:29.843Z",
-  updatedAt: "2026-09-25T17:07:22.000Z",
+  updatedAt: "2026-10-18T19:05:41.765Z",
 } as const satisfies Module
