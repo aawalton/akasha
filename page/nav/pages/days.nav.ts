@@ -6,9 +6,9 @@ export const days = {
   slug: "days",
   title: "Days",
   icon: "CalendarDays",
-  navPlace: 3,
+  navPlace: 2,
   app: "web-app/alanwalton-web",
   mobilePinOrder: 0,
   createdAt: "2026-10-18T13:34:48.175Z",
-  updatedAt: "2026-10-18T13:34:48.175Z",
+  updatedAt: "2026-10-18T14:10:55.327Z",
 } as const satisfies Nav
