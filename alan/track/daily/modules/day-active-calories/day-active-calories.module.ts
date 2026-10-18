@@ -7,6 +7,7 @@ export const dayActiveCalories = {
   definition:
     "a day's active calories, recomputed from the health samples and written onto the day",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -41,8 +42,25 @@ export const dayActiveCalories = {
       statement: "A run that landed nothing exits 2.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides when the calories are due.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The calories are due when the samples of one of the four days ending today change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Samples changing on a day write that day and the days either side of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No day is written before that day has come.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Samples changing within five seconds of each other are written in one round.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The watch writes the four days ending today as it starts.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -50,5 +68,5 @@ export const dayActiveCalories = {
     },
   ],
   createdAt: "2026-09-03T22:45:21.686Z",
-  updatedAt: "2026-09-22T10:05:53.000Z",
+  updatedAt: "2026-10-18T15:30:13.954Z",
 } as const satisfies Module
