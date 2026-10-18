@@ -4,7 +4,7 @@ import {
   NOON,
   parseDay,
 } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.computed-property-module.code.ts"
-import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
 import { loadActiveCaloriesByDay } from "akasha/alan/harness/health-sample/day/modules/active-calories/active-calories.module.code.ts"
 import {
   type WriteOutcome,

@@ -3,7 +3,7 @@ import {
   getEsoDayStr,
   getEsoDayStrOffset,
   getEsoResetTime,
-} from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 
 type DateSentinel =

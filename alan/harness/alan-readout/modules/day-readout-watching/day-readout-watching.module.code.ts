@@ -5,7 +5,7 @@ import { takeReading as takeCapacity } from "akasha/alan/harness/capacity/module
 import { capacityReading } from "akasha/alan/harness/capacity/modules/reading/capacity-reading.module.ts"
 import { takeReading as takeCost } from "akasha/alan/harness/cost/modules/reading/cost-reading.module.code.ts"
 import { costReading } from "akasha/alan/harness/cost/modules/reading/cost-reading.module.ts"
-import { getEsoDayWindow } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayWindow } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
 import { takeReadings as takeInboxes } from "akasha/alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"
 import { inboxReading } from "akasha/alan/harness/inbox/modules/reading/inbox-reading.module.ts"
 import { readoutsServedBy } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"

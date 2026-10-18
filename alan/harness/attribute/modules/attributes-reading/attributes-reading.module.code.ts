@@ -18,7 +18,7 @@ import { strength } from "akasha/alan/attribute/pages/strength/strength.attribut
 import { wisdomIn } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.code.ts"
 import { wisdom } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.ts"
 import { attributesReading } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts"
-import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
 import type {
   Asking,
   Row,

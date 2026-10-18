@@ -1,7 +1,7 @@
 "use client"
 
 import { DndContext, DragOverlay, useDraggable } from "@dnd-kit/core"
-import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import {

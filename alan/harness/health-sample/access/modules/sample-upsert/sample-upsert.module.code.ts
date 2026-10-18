@@ -1,5 +1,5 @@
 import { randomUUID } from "node:crypto"
-import { getEsoDayStrAt } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayStrAt } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
 import { sampleIdentity } from "akasha/alan/harness/health-sample/access/modules/sample-identity/sample-identity.module.code.ts"
 import {
   numberAt,

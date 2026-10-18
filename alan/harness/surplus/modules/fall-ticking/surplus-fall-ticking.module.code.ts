@@ -1,5 +1,5 @@
 import { onTheWorkstation } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.code.ts"
-import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
 import { ALAN_PERSON } from "akasha/alan/harness/notification-feed/modules/notifying/notifying.module.code.ts"
 import {
   newestOfKind,

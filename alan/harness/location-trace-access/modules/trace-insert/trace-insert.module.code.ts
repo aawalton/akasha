@@ -1,5 +1,5 @@
 import { randomUUID } from "node:crypto"
-import { getEsoDayStrAt } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayStrAt } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
 import type { LocationTraceInsert } from "akasha/alan/harness/location-trace-access/modules/trace-shape/trace-shape.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {

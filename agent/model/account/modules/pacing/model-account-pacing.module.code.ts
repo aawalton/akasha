@@ -2,7 +2,7 @@ import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/da
 import {
   getEsoDayStr,
   getEsoDayWindow,
-} from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
 import { asInstant } from "akasha/code/type/narrowing/modules/as-instant/as-instant.module.code.ts"
 
 const MS_AN_HOUR = 3_600_000

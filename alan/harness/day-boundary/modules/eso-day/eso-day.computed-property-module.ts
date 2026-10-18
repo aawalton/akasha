@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { ComputedPropertyModule } from "akasha/page/computed-property-module/computed-property-module.page-type.types.ts"
 
 export const esoDay = {
   id: "01a05c77-31e6-7a9f-9805-d1c81725dd03",
-  type: "page-type/module",
+  type: "page-type/computed-property-module",
   slug: "eso-day",
   definition: "the day counted from six in the morning in New York, and the span one covers",
   code: "ts",
@@ -40,5 +40,5 @@ export const esoDay = {
     },
   ],
   createdAt: "2026-09-01T10:15:10.566Z",
-  updatedAt: "2026-09-24T18:43:56.000Z",
-} as const satisfies Module
+  updatedAt: "2026-10-18T13:49:28.646Z",
+} as const satisfies ComputedPropertyModule
