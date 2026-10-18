@@ -23,35 +23,8 @@ const KEYBOARD_STYLE: CrutchStyle = {
   },
 }
 
-const GAMEPAD_STYLE: CrutchStyle = {
-  GetAlertFont: function (this: void, size) {
-    return string.format("$(GAMEPAD_BOLD_FONT)|%d|soft-shadow-thick", math.floor(size))
-  },
-  GetDamageableFont: function (this: void, size) {
-    return string.format("$(GAMEPAD_BOLD_FONT)|%d|soft-shadow-thick", math.floor(size))
-  },
-  prominentFont: "ZoFontGamepad61",
-  GetBHBFont: function (this: void, size) {
-    return string.format("$(GAMEPAD_MEDIUM_FONT)|%d|soft-shadow-thick", math.floor(size))
-  },
-  GetMarkerFont: function (this: void, size) {
-    return string.format("$(GAMEPAD_BOLD_FONT)|%d|thick-outline", math.floor(size))
-  },
-  GetInfoPanelFont: function (this: void, size) {
-    return string.format("$(GAMEPAD_BOLD_FONT)|%d|soft-shadow-thick", math.floor(size))
-  },
-}
-
-let activeStyles = GAMEPAD_STYLE
-
-function applyStyle(this: void, style: CrutchStyle): undefined {
-  activeStyles = style
-  CRUTCH.BossHealthBar.UpdateScale(false)
-  CRUTCH.InfoPanel.ApplyStyle(style)
-}
-
 CRUTCH.GetStyles = function (this: void) {
-  return activeStyles
+  return KEYBOARD_STYLE
 }
 
 let initialized = false
@@ -63,5 +36,6 @@ CRUTCH.InitializeStyles = function (this: void) {
   }
   initialized = true
 
-  ZO_PlatformStyle.New(applyStyle, KEYBOARD_STYLE, GAMEPAD_STYLE)
+  CRUTCH.BossHealthBar.UpdateScale(false)
+  CRUTCH.InfoPanel.ApplyStyle(KEYBOARD_STYLE)
 }

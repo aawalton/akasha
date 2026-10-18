@@ -4432,6 +4432,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.ts","id":"01a08ed6-a208-7d96-96d8-75bf328401f1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-action-power-lash/combat-action-power-lash.module.ts","id":"01a0617f-5833-7731-89e4-8a2778621a73"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-alerts-style/combat-alerts-style.module.ts","id":"01a0de75-9a8d-71a5-ab9b-2f5ea4dc61c8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-carry-over/combat-carry-over.module.ts","id":"01a0de65-b876-7c64-8a5a-a41ef5aff605"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-fight-ticks/combat-fight-ticks.module.ts","id":"01a14028-17d1-7acc-8bbb-ad4c8de96f92"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-hud-fields/combat-hud-fields.module.ts","id":"01a11c12-9fd2-7a0f-93f7-8787a6787b35"}

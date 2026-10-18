@@ -27,6 +27,7 @@ import "akasha/temper/addon/pages/combat/combat-string-ids-report/combat-string-
 import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
@@ -47,9 +48,9 @@ const SKILL_BAR_ITEMS = [
   "Ultimate",
 ]
 
-const DisabledColor = ZO_ColorDef.New("FF999999")
+const DisabledColor = ZO_DISABLED_TEXT
 const WerewolfColor = ZO_ColorDef.New("FFf3c86e")
-const WhiteColor = ZO_ColorDef.New("FFFFFFFF")
+const WhiteColor = ZO_SELECTED_TEXT
 
 function legacyNumber(this: void, record: unknown, key: string): number | undefined {
   if (!isObjectRecord(record)) {
