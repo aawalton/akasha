@@ -91,7 +91,7 @@ export const uiPicture = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A backdrop's center art is repeated inside its insets, tinted by its center color.",
+        "A backdrop's center art is stretched inside its insets, tinted by its center color.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -171,5 +171,5 @@ export const uiPicture = {
     },
   ],
   createdAt: "2026-09-22T16:05:51.362Z",
-  updatedAt: "2026-10-18T19:04:13.409Z",
+  updatedAt: "2026-10-18T20:11:55.109Z",
 } as const satisfies Module

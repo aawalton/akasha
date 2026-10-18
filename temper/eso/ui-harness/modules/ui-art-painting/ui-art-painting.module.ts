@@ -39,6 +39,18 @@ export const uiArtPainting = {
       statement: "An edge's sides are repeated along the backdrop, and its corners are set once.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game stretches a backdrop's center art unless the center is given a tiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A backdrop's center art is stretched across its insets.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A center given a tiling is stretched too, since no tiling reaches the painting.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A file that will not load leaves its canvas empty.",
     },
@@ -48,5 +60,5 @@ export const uiArtPainting = {
     },
   ],
   createdAt: "2026-09-24T18:00:52.803Z",
-  updatedAt: "2026-10-18T19:04:13.409Z",
+  updatedAt: "2026-10-18T20:11:55.109Z",
 } as const satisfies Module

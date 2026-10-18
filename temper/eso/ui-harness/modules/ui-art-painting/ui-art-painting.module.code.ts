@@ -168,10 +168,11 @@ export async function paintArt(): Promise<number> {
     pen.save()
     pen.globalAlpha = tint[rgbLength] ?? 1
     if (center !== null) {
-      const all = [0, 0, center.naturalWidth, center.naturalHeight]
-      const piece = tinted(center, all, center.naturalWidth, center.naturalHeight, tint)
-      pen.fillStyle = pen.createPattern(piece, "repeat") ?? "transparent"
-      pen.fillRect(...box)
+      const [across, down, width, height] = box
+      if (width > 0 && height > 0) {
+        const all = [0, 0, center.naturalWidth, center.naturalHeight]
+        pen.drawImage(tinted(center, all, width, height, tint), across, down, width, height)
+      }
     } else if (tint.length >= rgbLength) {
       pen.fillStyle = rgb(tint)
       pen.fillRect(...box)
