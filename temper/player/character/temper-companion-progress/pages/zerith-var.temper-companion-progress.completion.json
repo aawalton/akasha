@@ -1,27 +1,5 @@
 {
   "build": {
-    "weapons": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Restoration Staff, Quickened",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        },
-        "displayText": "Empty",
-        "isEmpty": true
-      }
-    },
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
-    "mainHandWeaponType": 9,
     "jewelry": {
       "1": {
         "qualityColor": {
@@ -51,6 +29,27 @@
         "isEmpty": false
       }
     },
+    "weapons": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Restoration Staff, Quickened",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        },
+        "displayText": "Empty",
+        "isEmpty": true
+      }
+    },
+    "companionId": 13,
     "skillAbilityIds": {
       "1": 213158,
       "2": 155693,
@@ -59,7 +58,7 @@
       "5": 155411,
       "6": 213169
     },
-    "companionId": 13,
+    "mainHandWeaponType": 9,
     "armor": {
       "1": {
         "qualityColor": {
@@ -124,7 +123,8 @@
         "displayText": "Heavy, Quickened",
         "isEmpty": false
       }
-    }
+    },
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA"
   },
   "targetBuildHash": "AjEAgAbRtG0bRtGAbQENExjTV8A",
   "level": 20,
