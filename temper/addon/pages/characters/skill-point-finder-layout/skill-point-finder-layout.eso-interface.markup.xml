@@ -82,7 +82,7 @@
     <Control name="TemperCharactersSkillPointFinder_ListSeparator" virtual="true" />
 
     <TopLevelControl name="TemperCharactersSkillPointFinder_GUI" mouseEnabled="true" movable="true" hidden="true" allowBringToTop="true" tier="HIGH">
-      <Dimensions x="1664" y="750" />
+      <Dimensions x="1680" y="750" />
       <Anchor point="CENTER" relativeTo="GuiRoot" relativePoint="CENTER" offsetX="0" offsetY="0" />
 
       <Controls>
@@ -141,20 +141,20 @@
             </Label>
 
             <Label name="$(parent)_GDQ" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_GDQ" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
-              <Dimensions x="780" y="24" />
+              <Dimensions x="796" y="24" />
               <Anchor point="TOPLEFT" relativeTo="$(parent)_SQS" relativePoint="TOPRIGHT" offsetX="32" offsetY="0" />
             </Label>
             <Control name="$(parent)_GDQ_ListHolder" inherits="ZO_ScrollList">
-              <Dimensions x="382" />
+              <Dimensions x="398" />
               <Anchor point="TOPLEFT" relativeTo="$(parent)_GDQ" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
             </Control>
             <Control name="$(parent)_GDQ2_ListHolder" inherits="ZO_ScrollList">
-              <Dimensions x="382" />
+              <Dimensions x="398" />
               <Anchor point="TOPRIGHT" relativeTo="$(parent)_GDQ" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="0" />
             </Control>
             <Label name="$(parent)_GDQ_T" font="TemperFontNumber" horizontalAlignment="RIGHT" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
               <Dimensions x="780" y="18" />
-              <Anchor point="TOPRIGHT" relativeTo="$(parent)_GDQ2_ListHolder" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="0" />
+              <Anchor point="TOPRIGHT" relativeTo="$(parent)_GDQ2_ListHolder" relativePoint="BOTTOMRIGHT" offsetX="-16" offsetY="0" />
             </Label>
 
             <Label name="$(parent)_PDGBE" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_PDB" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
