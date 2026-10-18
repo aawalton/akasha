@@ -44,7 +44,7 @@ export const test = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A test file held under the memory it needs pays the reclaim as its own processor time.",
+        "A test file held under the memory it needs is made to wait, and pays that on the clock.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -57,5 +57,5 @@ export const test = {
   ],
   types: "ts",
   createdAt: "2026-08-28T21:02:36.094Z",
-  updatedAt: "2026-09-25T19:54:24.000Z",
+  updatedAt: "2026-10-18T14:58:24.477Z",
 } as const satisfies CodeFileProperty
