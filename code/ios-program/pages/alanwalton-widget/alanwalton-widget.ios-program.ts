@@ -18,6 +18,7 @@ export const alanwaltonWidget = {
     "ios-component/alanwalton-inbox-stoplights-widget",
     "ios-component/alanwalton-never-loaded-view",
     "ios-component/alanwalton-refused-view",
+    "ios-component/alanwalton-resources-stoplights-widget",
     "ios-component/alanwalton-safety-level-widget",
     "ios-component/alanwalton-stoplight-ring",
     "ios-component/alanwalton-surplus-widget",
@@ -35,5 +36,5 @@ export const alanwaltonWidget = {
   ],
   targetName: "ValuesWidgetExtension",
   createdAt: "2026-08-31T18:13:48.188Z",
-  updatedAt: "2026-10-18T13:35:32.996Z",
+  updatedAt: "2026-10-18T13:48:48.917Z",
 } as const satisfies IosProgram

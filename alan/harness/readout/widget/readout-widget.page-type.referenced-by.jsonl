@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"readout-widget.page-type.types.ts","path":"alan/harness/readout/widget/pages/alanwalton-cost.readout-widget.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout-widget.page-type.types.ts","path":"alan/harness/readout/widget/pages/alanwalton-freshness.readout-widget.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout-widget.page-type.types.ts","path":"alan/harness/readout/widget/pages/alanwalton-inbox-stoplights.readout-widget.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"readout-widget.page-type.types.ts","path":"alan/harness/readout/widget/pages/alanwalton-resources-stoplights.readout-widget.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout-widget.page-type.types.ts","path":"alan/harness/readout/widget/pages/alanwalton-safety-level.readout-widget.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout-widget.page-type.types.ts","path":"alan/harness/readout/widget/pages/alanwalton-surplus.readout-widget.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout-widget.page-type.types.ts","path":"alan/harness/readout/widget/pages/alanwalton-upkeep-stoplights.readout-widget.ts","typed":true,"deferred":false}

@@ -14,6 +14,7 @@ export const readoutWidget = {
     "readout-widget/alanwalton-cost",
     "readout-widget/alanwalton-freshness",
     "readout-widget/alanwalton-inbox-stoplights",
+    "readout-widget/alanwalton-resources-stoplights",
     "readout-widget/alanwalton-safety-level",
     "readout-widget/alanwalton-surplus",
     "readout-widget/alanwalton-upkeep-stoplights",
@@ -159,5 +160,5 @@ export const readoutWidget = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T21:07:57.190Z",
-  updatedAt: "2026-10-13T14:00:44.354Z",
+  updatedAt: "2026-10-18T13:48:48.917Z",
 } as const satisfies PageType

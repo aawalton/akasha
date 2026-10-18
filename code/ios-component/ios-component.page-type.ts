@@ -17,6 +17,7 @@ export const iosComponent = {
     "ios-component/alanwalton-inbox-stoplights-widget",
     "ios-component/alanwalton-never-loaded-view",
     "ios-component/alanwalton-refused-view",
+    "ios-component/alanwalton-resources-stoplights-widget",
     "ios-component/alanwalton-safety-level-widget",
     "ios-component/alanwalton-stoplight-ring",
     "ios-component/alanwalton-surplus-widget",
@@ -70,5 +71,5 @@ export const iosComponent = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T20:53:16.292Z",
-  updatedAt: "2026-10-18T13:35:32.996Z",
+  updatedAt: "2026-10-18T13:48:48.917Z",
 } as const satisfies PageType

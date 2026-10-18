@@ -385,6 +385,7 @@
 {"propertySlug":"app","path":"alan/harness/readout/widget/pages/alanwalton-cost.readout-widget.ts","id":"01a08bb5-da56-760a-869f-9f74dc5bb31f"}
 {"propertySlug":"app","path":"alan/harness/readout/widget/pages/alanwalton-freshness.readout-widget.ts","id":"01a09b02-838e-78c6-9f19-32ed032ab747"}
 {"propertySlug":"app","path":"alan/harness/readout/widget/pages/alanwalton-inbox-stoplights.readout-widget.ts","id":"01a06420-b259-7991-800b-7019c1efb1c2"}
+{"propertySlug":"app","path":"alan/harness/readout/widget/pages/alanwalton-resources-stoplights.readout-widget.ts","id":"01a14f45-ad96-7880-8195-e872fc39df67"}
 {"propertySlug":"app","path":"alan/harness/readout/widget/pages/alanwalton-safety-level.readout-widget.ts","id":"01a06420-b259-7d0c-85e8-0e67ee23e107"}
 {"propertySlug":"app","path":"alan/harness/readout/widget/pages/alanwalton-surplus.readout-widget.ts","id":"01a06420-b259-7c25-a46d-ddd74b4b9120"}
 {"propertySlug":"app","path":"alan/harness/readout/widget/pages/alanwalton-upkeep-stoplights.readout-widget.ts","id":"01a06420-b259-7c2d-889c-333cb1144c67"}
