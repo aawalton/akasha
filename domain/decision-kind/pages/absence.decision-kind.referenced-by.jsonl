@@ -2387,6 +2387,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/routes/watcher/watcher.route.ts","id":"01a08305-acff-78b1-8828-d1255b856bde"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/type-scale/type-scale.module.ts","id":"01a0d8ec-bf2c-7168-a84c-a0284fc3084e"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-controls/window-controls.module.ts","id":"01a0d969-c1ee-708b-9ea9-46e14edd83d9"}
+{"propertySlug":"decision-kind","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}
 {"propertySlug":"decision-kind","path":"text/modules/one-line/one-line.module.ts","id":"01a095bb-4f52-7988-950f-f29155dd9bb0"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/counted/counted.module.ts","id":"01a08ccc-aca8-7215-b4dd-560d25d104b5"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/name-drawing/name-drawing.module.ts","id":"01a08206-a5c1-75c9-8635-b646938fd3ac"}

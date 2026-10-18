@@ -21,20 +21,19 @@ export const temperWindow = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A Temper window is made in the web's visual language wherever no decision here departs from it.",
+      statement: "Everything Temper shows in the game takes the game's own keyboard look.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every departure from the web's visual language is stated here.",
+      statement: "Every departure from the game's keyboard look is stated here.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No Temper window has a look of its own for gamepad mode.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What Temper adds inside one of the game's own windows takes the game's look.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A window Temper opens inside one of the game's own scenes takes the game's look.",
+      statement: "A window ported from a community add-on takes the game's look like any other.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,27 +45,9 @@ export const temperWindow = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Text Temper shows over play has a shadow.",
-    },
-
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Tiles in a bar share a 1px seam; every other gap is one of the web's steps.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A dropdown, scroll bar, slider or text box keeps the game's behaviour and takes the web's look.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A Temper window showing data shows it loading, empty, failed or loaded.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A window ported from a community add-on keeps the look that add-on has upstream.",
     },
   ],
   createdAt: "2026-09-25T12:54:10.085Z",
-  updatedAt: "2026-09-26T15:34:13.000Z",
+  updatedAt: "2026-10-18T17:16:02.330Z",
 } as const satisfies Domain
