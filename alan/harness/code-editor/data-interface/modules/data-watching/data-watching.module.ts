@@ -36,7 +36,16 @@ export const dataWatching = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The folders holding seat, subagent and initiative pages are read one folder down.",
+        "The folders holding seat, subagent, initiative and day pages are read one folder down.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sessions beside every day page are files the status bar is made from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A new day's sessions are read from its first session, so a new day needs no beat.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -160,5 +169,5 @@ export const dataWatching = {
     },
   ],
   createdAt: "2026-09-05T16:28:56.820Z",
-  updatedAt: "2026-09-25T17:55:37.000Z",
+  updatedAt: "2026-10-18T14:22:19.815Z",
 } as const satisfies Module

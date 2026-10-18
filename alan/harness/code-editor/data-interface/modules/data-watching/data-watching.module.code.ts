@@ -49,7 +49,9 @@ const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 const TURN_STATE_TYPE = "01a06924-e882-736f-8cac-465ef2b5d799"
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 const AKASHA_SERVICE_TYPE = "01a05a3c-caff-7656-b00d-cbde9f3cf324"
+const DAY_TYPE = "01a05fd8-c30f-72ee-80d9-eb1c179b8359"
 const SIDECAR = ".uncommitted.ts"
+const SESSIONS = ".sessions.jsonl"
 const SETTLE_MS = 25
 
 const REACH = 1
@@ -160,6 +162,9 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const serviceFolders = foldersOf(pagesOfTypes(root, serviceKinds))
   const terminals = seatMarksAt(root)
   const readings = watchedFoldersIn(root)
+  const dayType = typeSlugOf(root, DAY_TYPE)
+  const dayPages = pagesFolderOf(root, dayType)
+  const sessionFiles = reached(dayPages, `.${dayType}${SESSIONS}`)
   return new Map<string, Picture>([
     [
       "agent-tree",
@@ -179,8 +184,8 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       {
         cooldownMs: 1_000,
         folders: readings,
-        reaches: [],
-        holds: endingWithin(readings, SIDECAR),
+        reaches: [dayPages],
+        holds: either(endingWithin(readings, SIDECAR), sessionFiles),
         identities: [],
         line: () => statusBarLine(root),
         held: NOTHING_WRITTEN,

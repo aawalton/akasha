@@ -20,6 +20,7 @@ import {
   type Rung,
   rungsIn,
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
+import { openSession } from "akasha/alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"
 import {
   readingOf,
   type UsageReading,
@@ -29,6 +30,7 @@ import {
   workstationReadingOf,
 } from "akasha/code/editor/extension/modules/status-bar-workstation/status-bar-workstation.module.code.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
+import { levelsShown } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import {
   typeSlugOf,
   valuesOfType,
@@ -156,6 +158,17 @@ function usageNow(): UsageReading | null {
   }
 }
 
+function sessionNow(): string | null {
+  try {
+    const open = openSession()
+    if (open === null) return null
+    const title = textAt(open, "title") ?? ""
+    return [title, levelsShown(open, null)].filter((one) => one !== "").join(" ")
+  } catch {
+    return null
+  }
+}
+
 export function statusBarLine(root: string): string {
   const rows = heldOfType(root, READOUT).map((one) => one.values)
   const groups = groupsIn(root)
@@ -167,6 +180,7 @@ export function statusBarLine(root: string): string {
   const working = inSection(WORKSTATION_SECTION)
   const workstationRows = working.flatMap((one) => inGroup(rows, one.slug))
   return JSON.stringify({
+    session: sessionNow(),
     workstation: workstationReadingOf(figuresOn(workstationRows)),
     usage: usageNow(),
     resources: drawn(RESOURCES_SECTION),

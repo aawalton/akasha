@@ -15,7 +15,7 @@ export const CAPTURED_STATES: Readonly<Record<string, string>> = {
   "service-tree":
     '{"roots":[{"kind":"root","key":"root","label":"services","at":null,"color":null,"detail":null,"children":[]}]}',
   "status-bar":
-    '{"workstation":{"processor":66,"memory":88},"usage":{"sessionPct":38.54545454545455,"weeklyPct":25.818181818181817},"inbox":{"glyphs":"🔵🟡🔵","legend":"Email 0 messages · Tasks 3 tasks · Temper 0 tasks"},"resources":{"glyphs":"🔵🟢⚫⚫⚫🟡","legend":"Surplus 7.2 hours · Capacity 10 hours · Plants 0 points · Activity 0.0 points · Pounds 0 points · Sleep 7.2 hours"}}',
+    '{"session":"ESO + Projects s0d2","workstation":{"processor":66,"memory":88},"usage":{"sessionPct":38.54545454545455,"weeklyPct":25.818181818181817},"inbox":{"glyphs":"🔵🟡🔵","legend":"Email 0 messages · Tasks 3 tasks · Temper 0 tasks"},"resources":{"glyphs":"🔵🟢⚫⚫⚫🟡","legend":"Surplus 7.2 hours · Capacity 10 hours · Plants 0 points · Activity 0.0 points · Pounds 0 points · Sleep 7.2 hours"}}',
   "terminal-tabs":
     '{"seatByShellPid":{"876856":"alan","3606469":"akasha"},"colorBySeat":{"akasha":"blue","alan":"green"}}',
   "work-tree":

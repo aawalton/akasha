@@ -6,6 +6,7 @@ const statusBarStoplightsSchema = z.object({
 })
 
 export const statusBarStateSchema = z.object({
+  session: z.string().nullable(),
   workstation: z.record(z.string(), z.number().nullable()).nullable(),
   usage: z
     .object({ sessionPct: z.number().nullable(), weeklyPct: z.number().nullable() })

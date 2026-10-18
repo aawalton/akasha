@@ -10,7 +10,23 @@ export const statusBarComposing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The line has the workstation's load, the fleet's spend, and a section for each stoplight group.",
+        "The line has the session, the workstation's load, the fleet's spend, and each stoplight group.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The session is the open session `openSession` answers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The session is its title, then its levels as the session list writes them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A level the session does not carry is left out rather than written as unknown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No open session, or one that would not read, is answered as no session.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -82,5 +98,5 @@ export const statusBarComposing = {
     },
   ],
   createdAt: "2026-09-06T21:25:06.116Z",
-  updatedAt: "2026-09-25T17:44:41.000Z",
+  updatedAt: "2026-10-18T14:22:19.815Z",
 } as const satisfies Module
