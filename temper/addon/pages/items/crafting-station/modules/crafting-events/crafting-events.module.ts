@@ -6,6 +6,16 @@ export const craftingEvents = {
   slug: "crafting-events",
   definition: "what the add-on does when the game says it has loaded",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "One Lua 5.1 function closes over no more than 60 locals.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game's events are listened for in a function apart from the load.",
+    },
+  ],
   createdAt: "2026-09-02T11:01:26.262Z",
-  updatedAt: "2026-09-22T03:24:53.000Z",
+  updatedAt: "2026-10-18T17:51:37.985Z",
 } as const satisfies Module

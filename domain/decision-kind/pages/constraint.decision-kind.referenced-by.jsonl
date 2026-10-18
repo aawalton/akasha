@@ -585,6 +585,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-veteran-breakdown/sets-tip-veteran-breakdown.module.ts","id":"01a06231-8f1e-737c-a36f-8ed525388bae"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-defined/craft-defined.module.ts","id":"01a08de1-2f29-7d20-a437-b66d1cb3ba33"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/crafting-events/crafting-events.module.ts","id":"01a061c7-e876-7965-825f-15ded168bab6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/knowledge-base-data-motifs/knowledge-base-data-motifs.module.ts","id":"01a0622b-dc54-77f2-87d9-b420778a2255"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/knowledge-base-data-plans/knowledge-base-data-plans.module.ts","id":"01a0622b-dc53-778f-984b-f2eee085d95d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/knowledge-base-data-recipes/knowledge-base-data-recipes.module.ts","id":"01a0622b-dc52-79f4-bce0-fd2f65450465"}

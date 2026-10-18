@@ -154,6 +154,42 @@ export function onAddOnLoaded(this: void): undefined {
   ZO_CreateStringId("SI_BINDING_NAME_CRAFTSTORE_PROVISIONING", STATE.Loc.TT[37])
   ZO_CreateStringId("SI_BINDING_NAME_CRAFTSTORE_FURNISHINGS", STATE.Loc.TT[38])
 
+  registerCraftingEvents()
+
+  STATE.settingsPanel = registerSettings()
+  TEMPER_ITEMS_CRAFTING_API.LAM = STATE.settingsPanel
+
+  scrollText()
+  tooltipHandler()
+  if (
+    type(STATE.Character.previewtype) === "string" ||
+    STATE.Character.previewType === undefined ||
+    STATE.Character.previewType === false
+  ) {
+    STATE.Character.previewtype = 1
+  }
+  style.updatePreview(STATE.Character.previewtype)
+  panelInitialize()
+
+  Knowledge.onInitialized("TemperItemsCrafting", () => {
+    if (STATE.Init) {
+      Knowledge.rebuildAll()
+      updateResearch()
+      updateScreen()
+      drawCharacters()
+    }
+  })
+
+  initializeTemperWrit()
+  initializeTemperPotions()
+  Knowledge.onInitialized("TemperMasterWritInventoryMarker", () => {
+    initializeMasterWritInventoryMarker()
+  })
+
+  registerCraftingCommands()
+}
+
+function registerCraftingEvents(this: void): undefined {
   SCENE_MANAGER.RegisterTopLevel(TemperItemsCrafting_Panel, false)
   EVENT_MANAGER.RegisterForEvent(
     "TemperItemsCrafting_Events",
@@ -258,38 +294,6 @@ export function onAddOnLoaded(this: void): undefined {
   ZO_PreHookHandler(ZO_EnchantingTopLevelModeMenuBarButton1, "OnMouseDown", runeCreationTabShow)
   ZO_PreHookHandler(ZO_EnchantingTopLevelModeMenuBarButton2, "OnMouseDown", runeExtractionTabShow)
   ZO_PreHookHandler(ZO_EnchantingTopLevelModeMenuBarButton3, "OnMouseDown", runeRecipeTabShow)
-
-  STATE.settingsPanel = registerSettings()
-  TEMPER_ITEMS_CRAFTING_API.LAM = STATE.settingsPanel
-
-  scrollText()
-  tooltipHandler()
-  if (
-    type(STATE.Character.previewtype) === "string" ||
-    STATE.Character.previewType === undefined ||
-    STATE.Character.previewType === false
-  ) {
-    STATE.Character.previewtype = 1
-  }
-  style.updatePreview(STATE.Character.previewtype)
-  panelInitialize()
-
-  Knowledge.onInitialized("TemperItemsCrafting", () => {
-    if (STATE.Init) {
-      Knowledge.rebuildAll()
-      updateResearch()
-      updateScreen()
-      drawCharacters()
-    }
-  })
-
-  initializeTemperWrit()
-  initializeTemperPotions()
-  Knowledge.onInitialized("TemperMasterWritInventoryMarker", () => {
-    initializeMasterWritInventoryMarker()
-  })
-
-  registerCraftingCommands()
 }
 
 function registerDebugCommands(this: void): undefined {
