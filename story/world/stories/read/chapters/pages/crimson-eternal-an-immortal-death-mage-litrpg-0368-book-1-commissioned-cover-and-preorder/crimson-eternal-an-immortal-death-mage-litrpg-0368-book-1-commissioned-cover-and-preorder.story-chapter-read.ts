@@ -20,5 +20,6 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0368Book1CommissionedCoverAn
     },
   ],
   createdAt: "2026-10-18T02:06:42.418Z",
-  updatedAt: "2026-10-18T02:06:42.418Z",
+  updatedAt: "2026-10-18T03:05:47.392Z",
+  ownProgress: 112,
 } as const satisfies StoryChapterRead
