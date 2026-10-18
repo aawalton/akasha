@@ -5,7 +5,7 @@ export const testsPass = {
   type: "page-type/check-code",
   slug: "tests-pass",
   definition: "the check refusing a change whose tests do not pass",
-  parts: ["module/run-naming"],
+  parts: ["module/run-naming", "module/stall-saying"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -181,6 +181,10 @@ export const testsPass = {
     {
       decisionKind: "decision-kind/departure",
       statement: "That refusal says which ceiling ended the file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file the clock ended is said beside what its processes were doing then.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -375,5 +379,5 @@ export const testsPass = {
   check: {},
   audit: {},
   createdAt: "2026-08-29T18:09:42.932Z",
-  updatedAt: "2026-10-14T18:24:29.973Z",
+  updatedAt: "2026-10-18T14:52:30.594Z",
 } as const satisfies CheckCode

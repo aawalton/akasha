@@ -2,6 +2,7 @@ import {
   linksIn,
   namedIn,
 } from "akasha/check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts"
+import { stallSaid } from "akasha/check/code/pages/tests-pass/modules/stall-saying/stall-saying.module.code.ts"
 import { holdingOver } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { costSpawned, recordCost } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
@@ -67,8 +68,10 @@ function slowedOf(one: Slowed): string {
   const spent = one.cpuSeconds.toFixed(SHOWN)
   if (one.ended === "processor")
     return `${one.path} was ended at ${spent} processor seconds, before it finished`
-  if (one.ended === "clock")
-    return `${one.path} was ended at ${String(WALL)} seconds on the clock, before it finished`
+  if (one.ended === "clock") {
+    const said = stallSaid(one.cpuSeconds, one.stalled)
+    return `${one.path} was ended at ${String(WALL)} seconds on the clock, before it finished${said}`
+  }
   return `${one.path} spent ${spent} processor seconds`
 }
 

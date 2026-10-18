@@ -965,6 +965,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/tests-pass/modules/stall-saying/stall-saying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/typecheck/modules/browser-reach/browser-reach.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/typecheck/modules/stylesheet-declaring/stylesheet-declaring.module.ts","typed":true,"deferred":false}
