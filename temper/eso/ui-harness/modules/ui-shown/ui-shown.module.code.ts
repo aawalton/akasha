@@ -71,18 +71,34 @@ function windowRanks(root: UiControl): readonly number[] {
   return ranks
 }
 
+function unplacedIn(
+  one: UiControl,
+  holder: UiControl | undefined,
+  unplaced: ReadonlySet<string>
+): boolean {
+  if (one.anchors.length === 0) return true
+  return one.anchors.some((anchor) => {
+    const to = anchor.relativeTo ?? holder?.name
+    return to !== undefined && unplaced.has(to)
+  })
+}
+
 export function shownIn(root: UiControl): readonly Shown[] {
   const ordered: Ordered[] = []
   const ranks = windowRanks(root)
+  const unplaced = new Set<string>()
   function walk(
     one: UiControl,
     window: number,
     held: Order,
     above: number,
-    clip?: UiRect
+    clip?: UiRect,
+    holder?: UiControl
   ): undefined {
     const top = one === root
     if (!top && one.hidden) return undefined
+    const placed = top || !unplacedIn(one, holder, unplaced)
+    if (!placed && one.name !== undefined) unplaced.add(one.name)
     const alpha = one.alpha * above
     if (alpha <= 0) return undefined
     const own: Order = {
@@ -92,10 +108,10 @@ export function shownIn(root: UiControl): readonly Shown[] {
     }
     const kept: Shown | null =
       clip === undefined ? { ...one, alpha } : outside(one, clip) ? null : { ...one, alpha, clip }
-    if (kept !== null) ordered.push({ ...own, one: kept, window, at: ordered.length })
+    if (kept !== null && placed) ordered.push({ ...own, one: kept, window, at: ordered.length })
     const under = clipUnder(one, clip)
     one.children.forEach((child, index) => {
-      walk(child, top ? (ranks[index] ?? index + 1) : window, own, alpha, under)
+      walk(child, top ? (ranks[index] ?? index + 1) : window, own, alpha, under, one)
     })
     return undefined
   }

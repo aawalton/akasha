@@ -14,9 +14,16 @@ export const uiShown = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The game draws a control no anchor places, as its group frames' holder is.",
+      statement: "The game draws nothing of a control no anchor places, nor of one anchored to it.",
     },
-
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "What sits under such a control and is anchored elsewhere is drawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An anchor naming nothing it is placed against is placed against the parent.",
+    },
     {
       decisionKind: "decision-kind/constraint",
       statement: "The game fades a control by its own alpha times that of every control above it.",
@@ -62,5 +69,5 @@ export const uiShown = {
     },
   ],
   createdAt: "2026-09-25T19:28:50.204Z",
-  updatedAt: "2026-10-18T18:56:32.838Z",
+  updatedAt: "2026-10-18T18:57:52.205Z",
 } as const satisfies Module

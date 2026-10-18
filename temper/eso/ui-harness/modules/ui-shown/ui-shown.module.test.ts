@@ -91,16 +91,21 @@ describe("shownIn", () => {
     expect(namesOf(control({ name: "Screen", children: [gone] }))).toEqual(["Screen"])
   })
 
-  test("draws a control no anchor places, as the game draws its group frames' holder", () => {
+  test("draws nothing of a control no anchor places, nor of what is anchored to it", () => {
     const loose = control({
       name: "Loose",
       anchored: false,
       children: [control({ name: "Under" })],
     })
-    expect(namesOf(control({ name: "Screen", children: [loose] }))).toEqual([
-      "Screen",
-      "Loose",
-      "Under",
-    ])
+    expect(namesOf(control({ name: "Screen", children: [loose] }))).toEqual(["Screen"])
+  })
+
+  test("draws what such a control holds where it is anchored elsewhere", () => {
+    const elsewhere = {
+      ...control({ name: "Elsewhere" }),
+      anchors: [{ ...AT_TOP_LEFT, relativeTo: "Screen" }],
+    }
+    const loose = control({ name: "Loose", anchored: false, children: [elsewhere] })
+    expect(namesOf(control({ name: "Screen", children: [loose] }))).toEqual(["Screen", "Elsewhere"])
   })
 })
