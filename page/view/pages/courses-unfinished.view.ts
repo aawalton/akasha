@@ -11,7 +11,7 @@ export const coursesUnfinished = {
   layout: "table",
   narrows: [{ key: "completion", comparison: "not-in", values: ["completed"] }],
   viewSorts: [{ key: "title", descending: false }],
-  visibleProperties: ["completion", "grade", "own-length", "own-progress"],
+  visibleProperties: ["external-identity", "grade", "own-length", "own-progress"],
   createdAt: "2026-10-18T15:37:14.937Z",
-  updatedAt: "2026-10-18T15:40:12.124Z",
+  updatedAt: "2026-10-18T15:43:05.049Z",
 } as const satisfies View
