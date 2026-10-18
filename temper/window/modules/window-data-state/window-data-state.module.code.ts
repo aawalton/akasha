@@ -98,9 +98,7 @@ export function buildDataState(parent: Control, words: DataStateWords): DataStat
   const detail = styled(WINDOW_MANAGER.CreateControl(undefined, stack, CT_LABEL), "muted", overPlay)
   const again = words.retry
   const retry =
-    again === undefined
-      ? undefined
-      : buildButton(stack, undefined, TRY_AGAIN, "secondary", words.level)
+    again === undefined ? undefined : buildButton(stack, undefined, TRY_AGAIN, "default")
   if (retry !== undefined && again !== undefined) retry.SetHandler("OnClicked", () => again())
 
   function place(shown: readonly Control[]): undefined {

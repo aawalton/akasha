@@ -37,15 +37,12 @@ export const filterBarControls = {
       decisionKind: "decision-kind/departure",
       statement: "The bar's buttons, fields and dropdowns are Temper's window controls.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No control here is edged, because the game edges nothing without a texture.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here places a row within the panel.",
     },
   ],
   createdAt: "2026-09-02T08:45:26.710Z",
-  updatedAt: "2026-09-25T16:46:30.000Z",
+  updatedAt: "2026-10-18T17:31:39.160Z",
 } as const satisfies Module

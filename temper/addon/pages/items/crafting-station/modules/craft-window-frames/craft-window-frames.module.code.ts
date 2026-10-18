@@ -3,20 +3,12 @@ import { closeRecipeWindow } from "akasha/temper/addon/pages/items/crafting-stat
 import { closeStyle } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
 import { styleCraftText } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-text-style/craft-text-style.module.code.ts"
 import { controlCloseAll } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-ui-updates/craft-ui-updates.module.code.ts"
-import type { SurfaceLevel } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
-import {
-  styleControlsUnder,
-  styleTab,
-} from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
+import { styleControlsUnder } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 import {
   FRAME_PADDING,
   FRAME_TOP,
   frameWindow,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
-import {
-  clearBackdrop,
-  paintPanel,
-} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
@@ -35,36 +27,8 @@ const COOK_TITLE = "Provisioning"
 
 const COOK_MARGIN = 10
 
-const PANEL_LEVEL: SurfaceLevel = 2
-
-const SECTIONS: readonly string[] = [
-  "TopSection",
-  "Panel",
-  "Header",
-  "SearchAmount",
-  "InfoSection",
-  "FoodSection",
-  "GlyphSection",
-]
-
-const CLEARED: readonly string[] = ["GlyphDivider", "RefineAllButtonBG"]
-
-const LONE_TABS: readonly string[] = ["RefineAllButton"]
-
 function panelSections(this: void, root: Control): undefined {
-  for (const name of SECTIONS) {
-    const section = GetControl<BackdropControl>(root, name)
-    if (section !== undefined) paintPanel(section)
-  }
-  for (const name of CLEARED) {
-    const cleared = GetControl<BackdropControl>(root, name)
-    if (cleared !== undefined) clearBackdrop(cleared)
-  }
-  for (const name of LONE_TABS) {
-    const tab = GetControl(root, name)
-    if (tab !== undefined) styleTab(tab)
-  }
-  styleControlsUnder(root, PANEL_LEVEL)
+  styleControlsUnder(root)
   return undefined
 }
 

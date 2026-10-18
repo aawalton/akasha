@@ -13,13 +13,10 @@ import {
   CONTROL_LEVEL,
   setButtonActive,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
-import {
-  paintSurface,
-  type SurfaceLevel,
-} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { paintSurface } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import {
-  styleDropdown,
+  paintField,
   styleField,
   styleTab,
 } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
@@ -54,7 +51,6 @@ const TOGGLE_W = 70
 const CAT_ROW_Y = 0
 const BUTTON_PAD_X = 12
 const MEASURING_WIDTH = 1000
-const BAR_LEVEL: SurfaceLevel = 1
 
 interface QualityTier {
   quality: number
@@ -133,12 +129,12 @@ function makeEditBox(
   const bg = WINDOW_MANAGER.CreateControl(`${name}BG`, parent, CT_BACKDROP)
   bg.SetAnchor(TOPLEFT, parent, TOPLEFT, x, y)
   bg.SetDimensions(w, h)
-  paintSurface(bg, CONTROL_LEVEL)
+  paintField(bg)
 
   const edit = WINDOW_MANAGER.CreateControl(name, parent, CT_EDITBOX)
   edit.SetAnchor(TOPLEFT, bg, TOPLEFT, 4, 0)
   edit.SetAnchor(BOTTOMRIGHT, bg, BOTTOMRIGHT, -4, 0)
-  styleField(edit, BAR_LEVEL)
+  styleField(edit)
   edit.SetDefaultText(placeholder)
   edit.SetMaxInputChars(64)
   edit.SetMouseEnabled(true)
@@ -287,7 +283,6 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
   )
   qualityContainer.SetDimensions(QUAL_W, CAT_H)
   qualityContainer.SetAnchor(TOPLEFT, sortRow, TOPLEFT, 0, 0)
-  styleDropdown(qualityContainer, BAR_LEVEL)
   const qualityCombo = ZO_ComboBox_ObjectFromContainer(qualityContainer)
   qualityCombo.SetSortsItems(false)
   qualityCombo.AddItem(
@@ -315,7 +310,6 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
   )
   locationContainer.SetDimensions(DROP_W, CAT_H)
   locationContainer.SetAnchor(TOPLEFT, qualityContainer, TOPRIGHT, GAP, 0)
-  styleDropdown(locationContainer, BAR_LEVEL)
   const locationCombo = ZO_ComboBox_ObjectFromContainer(locationContainer)
   locationCombo.SetSortsItems(false)
 

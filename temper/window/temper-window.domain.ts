@@ -16,7 +16,6 @@ export const temperWindow = {
     "module/tooltip-lines",
     "module/window-popover",
     "module/window-data-state",
-    "module/window-open-list",
   ],
   decisions: [
     {
@@ -49,5 +48,5 @@ export const temperWindow = {
     },
   ],
   createdAt: "2026-09-25T12:54:10.085Z",
-  updatedAt: "2026-10-18T17:16:02.330Z",
+  updatedAt: "2026-10-18T17:31:39.160Z",
 } as const satisfies Domain

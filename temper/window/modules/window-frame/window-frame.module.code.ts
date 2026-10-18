@@ -118,11 +118,7 @@ export function frameWindow(
   body.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, FRAME_TOP)
   body.SetAnchor(BOTTOMRIGHT, window, BOTTOMRIGHT, -PADDING, -PADDING)
   colorTextsUnder(window)
-  styleControlsUnder(window, WINDOW_LEVEL)
-  window.SetHandler(
-    "OnEffectivelyShown",
-    () => styleControlsUnder(window, WINDOW_LEVEL),
-    CONTROLS_HANDLER
-  )
+  styleControlsUnder(window)
+  window.SetHandler("OnEffectivelyShown", () => styleControlsUnder(window), CONTROLS_HANDLER)
   return { header, body, title, actions }
 }

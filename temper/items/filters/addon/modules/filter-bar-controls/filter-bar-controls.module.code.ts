@@ -19,21 +19,18 @@ import { styleText } from "akasha/temper/window/modules/text-style/text-style.mo
 import {
   paintField,
   setTabChosen,
-  styleDropdown,
   styleField,
   styleTab,
-  CONTROL_HEIGHT as WEB_CONTROL_HEIGHT,
+  CONTROL_HEIGHT as WINDOW_CONTROL_HEIGHT,
 } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export const CONTROL_LEVEL: SurfaceLevel = 2
 
-const BAR_LEVEL: SurfaceLevel = 1
-
 export const PADDING_X = spaceOf("2")
 export const PADDING_Y = 6
-export const CONTROL_HEIGHT = WEB_CONTROL_HEIGHT
+export const CONTROL_HEIGHT = WINDOW_CONTROL_HEIGHT
 export const CONTROL_GAP = spaceOf("2")
 export const LABEL_GAP = 4
 
@@ -74,7 +71,7 @@ export function createBarButton(
   const backdrop = WINDOW_MANAGER.CreateControl(`${name}BG`, parent, CT_BACKDROP)
   backdrop.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PADDING_Y)
   backdrop.SetDimensions(width, CONTROL_HEIGHT)
-  paintField(backdrop, BAR_LEVEL)
+  paintField(backdrop)
 
   const caption = WINDOW_MANAGER.CreateControl(`${name}Label`, backdrop, CT_LABEL)
   caption.SetAnchorFill()
@@ -105,12 +102,12 @@ export function createEditBox(
   const boxBg = WINDOW_MANAGER.CreateControl(`${name}BG`, parent, CT_BACKDROP)
   boxBg.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PADDING_Y)
   boxBg.SetDimensions(width, CONTROL_HEIGHT)
-  paintField(boxBg, BAR_LEVEL)
+  paintField(boxBg)
 
   const edit = WINDOW_MANAGER.CreateControl(name, parent, CT_EDITBOX)
   edit.SetAnchor(TOPLEFT, boxBg, TOPLEFT, 4, 0)
   edit.SetAnchor(BOTTOMRIGHT, boxBg, BOTTOMRIGHT, -4, 0)
-  styleField(edit, BAR_LEVEL)
+  styleField(edit)
   edit.SetDefaultText(defaultText)
   edit.SetMaxInputChars(64)
   edit.SetMouseEnabled(true)
@@ -173,7 +170,6 @@ export function buildMultiselectEditor(
   )
   container.SetDimensions(width, CONTROL_HEIGHT)
   container.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PADDING_Y)
-  styleDropdown(container, BAR_LEVEL)
 
   const comboBox = ZO_ComboBox_ObjectFromContainer(container)
   const id = filter.id
@@ -236,7 +232,6 @@ export function buildToggleEditor(
   )
   container.SetDimensions(width, CONTROL_HEIGHT)
   container.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PADDING_Y)
-  styleDropdown(container, BAR_LEVEL)
 
   const comboBox = ZO_ComboBox_ObjectFromContainer(container)
   const id = filter.id

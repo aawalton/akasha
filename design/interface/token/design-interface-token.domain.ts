@@ -9,7 +9,6 @@ export const designInterfaceToken = {
     "module/semantic-color",
     "module/color-shape",
     "module/text-color",
-    "module/surface-color",
     "module/spacing-step",
   ],
   decisions: [
@@ -35,5 +34,5 @@ export const designInterfaceToken = {
     },
   ],
   createdAt: "2026-09-01T10:50:16.191Z",
-  updatedAt: "2026-09-25T16:39:05.000Z",
+  updatedAt: "2026-10-18T17:31:39.160Z",
 } as const satisfies Domain

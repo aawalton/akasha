@@ -72,10 +72,9 @@ export const windowFrame = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A framed window's fields, dropdowns, sliders and scroll bars are restyled each time it shows.",
+      statement: "A framed window's fields and bare buttons are restyled each time it shows.",
     },
   ],
   createdAt: "2026-09-25T13:01:17.345Z",
-  updatedAt: "2026-10-18T17:23:25.067Z",
+  updatedAt: "2026-10-18T17:31:39.160Z",
 } as const satisfies Module

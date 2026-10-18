@@ -28,13 +28,9 @@ export const craftWindowFrames = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each named section of a crafting window is a panel, and its divider is cleared.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A crafting window's category buttons are tabs, and its fields sit a level above.",
+      statement: "A crafting window's sections, dividers and buttons keep the game's art.",
     },
   ],
   createdAt: "2026-09-25T13:31:58.849Z",
-  updatedAt: "2026-09-25T20:00:05.000Z",
+  updatedAt: "2026-10-18T17:31:39.160Z",
 } as const satisfies Module

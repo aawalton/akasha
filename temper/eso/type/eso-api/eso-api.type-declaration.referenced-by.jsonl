@@ -139,4 +139,5 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-points/skill-point-finder-points.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-saved-vars/item-browser-saved-vars.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/window/modules/window-controls/window-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

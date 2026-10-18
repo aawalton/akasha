@@ -2676,7 +2676,6 @@
 {"propertySlug":"decision-kind","path":"design/interface/system/token-values/token-values.stylesheet.ts","id":"01a05c95-564a-74a9-b2c1-09d527a8f63e"}
 {"propertySlug":"decision-kind","path":"design/interface/token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}
 {"propertySlug":"decision-kind","path":"design/interface/token/modules/color-shape/color-shape.module.ts","id":"01a05c97-5300-76a3-aa25-55af6fe31b6d"}
-{"propertySlug":"decision-kind","path":"design/interface/token/modules/surface-color/surface-color.module.ts","id":"01a0ca09-254b-75d8-aca5-c4acfedbb872"}
 {"propertySlug":"decision-kind","path":"design/interface/token/modules/text-color/text-color.module.ts","id":"01a05c97-5302-71a3-b9f8-f3bbd1c59f22"}
 {"propertySlug":"decision-kind","path":"design/language/design-language.domain.ts","id":"01a06600-0000-7000-8000-000000000003"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.ts","id":"01a06c82-21b5-74b7-9f92-ab9f244c6e82"}
@@ -4992,7 +4991,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-util-menu/scrollable-menu-util-menu.module.ts","id":"01a06275-c449-7de1-9732-9875c8e401e9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-util-tooltip/scrollable-menu-util-tooltip.module.ts","id":"01a06275-c44a-7df7-b767-4561076aeb19"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-util-visible/scrollable-menu-util-visible.module.ts","id":"01a06275-c44a-7e89-9fe5-5c2fe3ca230b"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-web-look/scrollable-menu-web-look.module.ts","id":"01a0da81-9052-7f06-b98a-ae7161dff160"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/temper-scrollable-menu.domain.ts","id":"01a0c74e-fd18-717f-a382-561779899c6a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-selector/temper-selector.domain.ts","id":"01a0c6ff-2fed-7ea2-a106-ee20a4ca2ecf"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/leads-layout/leads-layout.eso-interface.ts","id":"01a06274-b08b-7c8c-bbc7-d352dfe6b43f"}
@@ -7052,7 +7050,6 @@
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-data-state/window-data-state.module.ts","id":"01a0d9e8-f034-7076-85d9-bf476a5cb77e"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-frame/window-frame.module.ts","id":"01a0d8a7-e6a1-7041-b460-2a7571138d9f"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-numbers/window-numbers.module.ts","id":"01a0d996-d947-7f7a-9cef-d94ae1b29570"}
-{"propertySlug":"decision-kind","path":"temper/window/modules/window-open-list/window-open-list.module.ts","id":"01a0da80-03f3-7d48-9a91-f98042b44075"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-popover/window-popover.module.ts","id":"01a0d9c7-1cd7-71d6-8dd6-9363e9e027fa"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-rows/window-rows.module.ts","id":"01a0d937-bd00-7c22-8711-ef1e76de2cb9"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-spacing/window-spacing.module.ts","id":"01a0d970-0df8-7349-bf06-01a5d4515f5c"}

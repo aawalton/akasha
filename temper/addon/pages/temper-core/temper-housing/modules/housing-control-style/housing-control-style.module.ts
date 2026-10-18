@@ -4,17 +4,12 @@ export const housingControlStyle = {
   id: "01a0da26-43d4-7903-9b88-282b7b63df67",
   type: "page-type/module",
   slug: "housing-control-style",
-  definition: "giving the house-travel window's fields, dropdowns and buttons the web's look",
+  definition: "giving the house-travel window's fields and buttons the game's look",
   code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Every field, dropdown, button and slider in the window takes window-controls' look.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Controls are styled for the panel they sit on, one level above the window.",
+      statement: "Every field and button in the window takes window-controls' look.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -28,5 +23,5 @@ export const housingControlStyle = {
     },
   ],
   createdAt: "2026-09-25T19:58:55.956Z",
-  updatedAt: "2026-09-25T19:59:03.000Z",
+  updatedAt: "2026-10-18T17:31:39.160Z",
 } as const satisfies Module

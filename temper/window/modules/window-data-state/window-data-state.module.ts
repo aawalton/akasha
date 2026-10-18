@@ -30,7 +30,7 @@ export const windowDataState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Failed offers Try again as a secondary button where the data can be asked again.",
+      statement: "Failed offers Try again as a default button where the data can be asked again.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,5 +38,5 @@ export const windowDataState = {
     },
   ],
   createdAt: "2026-09-25T18:51:56.852Z",
-  updatedAt: "2026-10-18T17:23:25.067Z",
+  updatedAt: "2026-10-18T17:31:39.160Z",
 } as const satisfies Module

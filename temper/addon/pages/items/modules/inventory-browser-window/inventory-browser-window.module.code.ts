@@ -9,8 +9,6 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { createMovableWindow } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
-import type { SurfaceLevel } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
-import { styleControlsUnder } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 import {
   FRAME_PADDING,
   frameWindow,
@@ -39,7 +37,6 @@ const PADDING = 8
 const TOOLBAR_HEIGHT = 90
 export const BROWSER_BODY_WIDTH = DEFAULT_WIDTH - FRAME_PADDING * 2
 const SEARCHBAR_HEIGHT = 30
-const PANEL_LEVEL: SurfaceLevel = 1
 
 const DOCK_OFFSET_X = -20
 const DOCK_OFFSET_TOP = 16
@@ -152,7 +149,6 @@ export function createBrowserWindow(): BrowserWindowHandle {
   list.SetAnchor(BOTTOMRIGHT, searchBar, TOPRIGHT, 0, -PADDING)
 
   ZO_ScrollList_AddDataType<RowData>(list, DATA_TYPE, ROW_TEMPLATE, ROW_HEIGHT, setupRow)
-  styleControlsUnder(list, PANEL_LEVEL)
 
   const dragHandle = framed.header
 

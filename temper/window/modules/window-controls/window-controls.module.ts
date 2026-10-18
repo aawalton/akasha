@@ -9,50 +9,28 @@ export const windowControls = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A control keeps the game's own control and behaviour, and takes the web's look.",
+      statement: "A control is the game's own control, in the game's own art.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A button, a field and a dropdown are 32 tall, the web's small size.",
+      statement: "A button is the game's default button, 28 tall, or its bare text button.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A button sits one surface level above what it sits on, with no edge and no art.",
+      statement: "A button with text the window made bare takes the game's default button.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A button's text is small and medium, in its variant's text color.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The accent button is gold text on gold at 0.15, and the tertiary one is bare.",
+      statement: "A dropdown, slider, scroll bar and checkbox keep the game's templates untouched.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A control pointed at is lit by its text color at 0.08, pressed or chosen at 0.12.",
+        "A tab pointed at shows the game's list highlight, and a chosen tab its selected one.",
     },
-
     {
       decisionKind: "decision-kind/departure",
       statement: "Lighting a control is a named handler, so a handler the window sets is kept.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A tab is bare until pointed at or chosen.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A button holding only an icon over a backdrop of its own is a tab.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Any other button with text is a secondary button.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The game's backdrop for a slider is cleared, since the slider draws its own track.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -60,53 +38,17 @@ export const windowControls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A field and a dropdown sit one surface level up, in body text, hint text dim.",
+      statement: "A field takes the game's text entry art, in body text with hint text dim.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A scroll bar is a 10 wide thumb two levels up, with no track and no arrows.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A slider is a 6 tall track one level up and a 16 square gold thumb.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A texture given no file is drawn as a solid block of its color.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every field, dropdown, slider and scroll bar under a window is restyled at once.",
+      statement: "Every field and bare button under a window is restyled at once.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A control is restyled once, however often it is reached.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "Corners are square until Temper ships art for the web's rounded ones.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A dropdown's arrow is lucide's chevron-down, 16 square and white at 0.5.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A dropdown's rows are named in Temper's body font, so a list can measure them.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A dropdown's rows are in the primary text color rather than the game's beige.",
-    },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "A checkbox keeps the game's art until Temper ships a check in the web's look.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No control shows the web's focus ring, since the game gives a button no focus.",
-    },
   ],
   createdAt: "2026-09-25T16:33:01.934Z",
-  updatedAt: "2026-09-27T01:08:42.000Z",
+  updatedAt: "2026-10-18T17:31:39.160Z",
 } as const satisfies Module
