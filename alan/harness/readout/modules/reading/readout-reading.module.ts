@@ -90,6 +90,19 @@ export const readoutReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading kept from an earlier day is no reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading is of a day only where its readout states what of the day it is made from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The day a reading is of is the ESO day it was taken in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Values with neither half have no reading.",
     },
     {
@@ -110,5 +123,5 @@ export const readoutReading = {
     },
   ],
   createdAt: "2026-08-31T13:19:26.014Z",
-  updatedAt: "2026-09-25T17:40:33.000Z",
+  updatedAt: "2026-10-18T13:45:11.507Z",
 } as const satisfies Module

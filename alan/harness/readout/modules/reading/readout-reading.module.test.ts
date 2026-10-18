@@ -123,6 +123,22 @@ test("a reading of nothing on a row is a reading rather than an absence", () => 
   expect(readingOn({ lastValue: 0, lastValueAt: TAKEN })?.value).toBe(0)
 })
 
+const KEPT = { lastValue: 3.53, lastValueAt: "2026-10-17T20:00:00.000Z" }
+
+const DAY_SCOPED = { ...KEPT, madeFrom: "day-row" }
+
+test("a reading kept from an earlier day is no reading", () => {
+  expect(readingOn(DAY_SCOPED, new Date("2026-10-18T10:01:00.000Z"))).toBeNull()
+})
+
+test("a reading taken this day is read however long ago it was taken", () => {
+  expect(readingOn(DAY_SCOPED, new Date("2026-10-18T09:59:00.000Z"))?.value).toBe(3.53)
+})
+
+test("a reading of a readout made from no day's files is read on any later day", () => {
+  expect(readingOn(KEPT, new Date("2026-10-20T12:00:00.000Z"))?.value).toBe(3.53)
+})
+
 test("values carrying neither half carry no reading", () => {
   expect(readingOn({ slug: PROBE_SLUG })).toBeNull()
 })

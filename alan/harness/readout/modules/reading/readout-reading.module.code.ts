@@ -1,6 +1,10 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import {
+  getEsoDayStr,
+  getEsoDayStrAt,
+} from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+import {
   type Valued,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -100,9 +104,25 @@ export function readingKept(root: string, page: string): Reading | null {
   return { value, at, fallsPerHour: fallsPerHourOn(held) }
 }
 
-export function readingOn(values: Readonly<Record<string, unknown>>): Reading | null {
+const MADE_FROM = "madeFrom"
+
+function keptFromAnEarlierDay(
+  values: Readonly<Record<string, unknown>>,
+  at: string,
+  now: Date
+): boolean {
+  if (values[MADE_FROM] === undefined) return false
+  if (Number.isNaN(Date.parse(at))) return false
+  return getEsoDayStrAt(at) < getEsoDayStr(now)
+}
+
+export function readingOn(
+  values: Readonly<Record<string, unknown>>,
+  now: Date = new Date()
+): Reading | null {
   const value = values[LAST_VALUE]
   const at = values[LAST_VALUE_AT]
   if (typeof value !== "number" || typeof at !== "string") return null
+  if (keptFromAnEarlierDay(values, at, now)) return null
   return { value, at, fallsPerHour: fallsPerHourOn(values) }
 }
