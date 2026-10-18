@@ -9,7 +9,7 @@ export const lorebooks = {
   displayOrder: 15,
   character: "temper-account-character/erin-solstice",
   completionCard: "temper-completion-category/characters-lore-library-character",
-  dueDate: "2026-10-18",
+  dueDate: "2026-12-01",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -21,5 +21,5 @@ export const lorebooks = {
   progressTotal: 4220,
   progressCurrent: 576,
   createdAt: "2026-05-13T16:05:23.520Z",
-  updatedAt: "2026-10-17T13:35:50.208Z",
+  updatedAt: "2026-10-18T13:24:54.059Z",
 } as const satisfies TemperTask
