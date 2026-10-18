@@ -68,6 +68,7 @@ else
         "$AKASHA_ROOT/code/ios-component/pages/alanwalton-inbox-stoplights-widget/alanwalton-inbox-stoplights-widget.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/alanwalton-never-loaded-view/alanwalton-never-loaded-view.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/alanwalton-refused-view/alanwalton-refused-view.ios-component.swift.swift"
+        "$AKASHA_ROOT/code/ios-component/pages/alanwalton-resources-stoplights-widget/alanwalton-resources-stoplights-widget.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/alanwalton-safety-level-widget/alanwalton-safety-level-widget.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/alanwalton-surplus-widget/alanwalton-surplus-widget.ios-component.swift.swift"
