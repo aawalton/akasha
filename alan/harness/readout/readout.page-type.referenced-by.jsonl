@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/track/daily/day/properties/stoplights.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-charisma/attribute-charisma.readout.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-constitution/attribute-constitution.readout.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-endurance/attribute-endurance.readout.ts","typed":true,"deferred":false}
@@ -25,6 +26,7 @@
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/safety/readouts/upkeep-safety/upkeep-safety.readout.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/track/daily/day/properties/stoplights.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"temper/player/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}
 {"propertySlug":"target-page-type","path":"alan/harness/readout/properties/color-from.relation-property.ts","id":"01a063bd-a526-7595-8a5b-3e28242bfe2b"}

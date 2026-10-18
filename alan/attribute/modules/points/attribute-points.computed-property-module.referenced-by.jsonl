@@ -2,4 +2,5 @@
 {"propertySlug":"import","fileName":"attribute-points.computed-property-module.code.ts","path":"alan/attribute/pages/constitution/constitution.attribute.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"attribute-points.computed-property-module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"attribute-points.computed-property-module.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"attribute-points.computed-property-module.code.ts","path":"alan/track/daily/day/properties/stoplights.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/attribute/attribute.page-type.ts","id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}

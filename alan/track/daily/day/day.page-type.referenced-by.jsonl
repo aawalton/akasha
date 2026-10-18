@@ -6,7 +6,7 @@
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"alan/track/daily/day/properties/project-hours.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"alan/track/daily/day/properties/sleep-hours.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"alan/track/daily/day/properties/spend-hours.computed-property.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"day.page-type.ts","path":"alan/track/daily/day/properties/stoplights.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"day.page-type.ts","path":"alan/track/daily/day/properties/stoplights.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"alan/track/daily/day/properties/strength-volume.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"alan/track/daily/day/properties/surplus-hours.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"alan/track/daily/day/properties/total-level.computed-property.code.ts","typed":true,"deferred":false}

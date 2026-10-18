@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"upkeep-sleep.readout.reading.code.ts","path":"alan/harness/sleep/modules/reading/sleep-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"upkeep-sleep.readout.reading.code.ts","path":"alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.reading.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"upkeep-sleep.readout.reading.code.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"upkeep-sleep.readout.ts","path":"alan/track/daily/day/properties/stoplights.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/sleep/sleep.domain.ts","id":"01a06220-ef8c-735b-b8a1-1cb4507d71b0"}

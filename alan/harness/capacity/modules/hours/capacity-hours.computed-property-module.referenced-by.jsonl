@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"capacity-hours.computed-property-module.code.ts","path":"alan/harness/capacity/modules/hours/capacity-hours.computed-property-module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacity-hours.computed-property-module.code.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"capacity-hours.computed-property-module.code.ts","path":"alan/track/daily/day/properties/stoplights.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/capacity/capacity.domain.ts","id":"01a06230-614e-7825-b4af-dd84fd42f0ce"}
