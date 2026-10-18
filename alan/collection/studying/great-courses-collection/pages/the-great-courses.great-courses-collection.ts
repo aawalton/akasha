@@ -10,10 +10,9 @@ export const theGreatCourses = {
     {
       source: "the-great-courses",
       externalLink: "https://www.thegreatcourses.com/",
-      lastSyncedAt: "2026-10-18",
     },
   ],
   title: "The Great Courses",
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-10-18T20:35:11.967Z",
+  updatedAt: "2026-10-18T21:07:12.634Z",
 } as const satisfies GreatCoursesCollection
