@@ -1962,6 +1962,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/headscale/modules/configmaps/headscale-configmaps.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/headscale/modules/network-policies/headscale-network-policies.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/modules/headscale-constants/headscale-constants.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/browser-extension/modules/chrome-reaching/chrome-reaching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-applying/foundation-applying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-health/foundation-health.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/modules/deploy-choosing/deploy-choosing.module.ts","typed":true,"deferred":false}

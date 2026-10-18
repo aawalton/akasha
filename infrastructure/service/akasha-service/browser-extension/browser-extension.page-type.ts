@@ -10,10 +10,14 @@ export const browserExtension = {
     { partOfSpeech: "part-of-speech/noun", spelling: "browser extensions" },
   ],
   extends: ["page-type/akasha-service"],
-  parts: ["module-property-group/extension-worker", "module-property-group/extension-site"],
+  parts: [
+    "module-property-group/extension-worker",
+    "module-property-group/extension-site",
+    "module/chrome-reaching",
+  ],
   properties: [
-    { pageProperty: "module-property-group/extension-worker", required: true, many: false },
-    { pageProperty: "module-property-group/extension-site", required: true, many: false },
+    { pageProperty: "module-property-group/extension-worker", required: false, many: false },
+    { pageProperty: "module-property-group/extension-site", required: false, many: false },
   ],
   decisions: [
     {
@@ -48,5 +52,5 @@ export const browserExtension = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-18T17:15:59.652Z",
-  updatedAt: "2026-10-18T17:15:59.652Z",
+  updatedAt: "2026-10-18T17:22:33.392Z",
 } as const satisfies PageType
