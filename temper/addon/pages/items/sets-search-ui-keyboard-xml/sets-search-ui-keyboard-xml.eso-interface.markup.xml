@@ -153,7 +153,7 @@
                                     </OnInitialized>
                                     <Anchor point="TOPLEFT" relativePoint="TOPRIGHT" relativeTo="$(parent)Favorite" />
                                     <Dimensions y="30" />
-                                    <DimensionConstraints minX="400" maxX="400" />
+                                    <DimensionConstraints minX="300" maxX="300" />
                                 </Control>
                                 <Control name="$(parent)SetType" inherits="TemperItemsCraftingSetsSearchUISortHeader">
                                     <OnInitialized>
@@ -161,7 +161,7 @@
                                     </OnInitialized>
                                     <Anchor point="TOPLEFT" relativePoint="TOPRIGHT" relativeTo="$(parent)Name" />
                                     <Dimensions y="30" />
-                                    <DimensionConstraints minX="40" maxX="40" />
+                                    <DimensionConstraints minX="110" maxX="110" />
                                 </Control>
                                 <Control name="$(parent)ArmorOrWeaponType" inherits="TemperItemsCraftingSetsSearchUISortHeader">
                                     <OnInitialized>
@@ -169,7 +169,7 @@
                                     </OnInitialized>
                                     <Anchor point="TOPLEFT" relativePoint="TOPRIGHT" relativeTo="$(parent)SetType" />
                                     <Dimensions y="30" />
-                                    <DimensionConstraints minX="40" maxX="40" />
+                                    <DimensionConstraints minX="110" maxX="110" />
                                 </Control>
                                 <Control name="$(parent)EquipSlot" inherits="TemperItemsCraftingSetsSearchUISortHeader">
                                     <OnInitialized>
@@ -177,7 +177,7 @@
                                     </OnInitialized>
                                     <Anchor point="TOPLEFT" relativePoint="TOPRIGHT" relativeTo="$(parent)ArmorOrWeaponType" />
                                     <Dimensions y="30" />
-                                    <DimensionConstraints minX="40" maxX="40" />
+                                    <DimensionConstraints minX="110" maxX="110" />
                                 </Control>
                                 <Control name="$(parent)DropLocations" inherits="TemperItemsCraftingSetsSearchUISortHeader">
                                     <OnInitialized>

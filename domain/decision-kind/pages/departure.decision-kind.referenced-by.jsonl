@@ -4692,6 +4692,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-sell-price-store/trading-sell-price-store.module.ts","id":"01a06160-2a5d-79d4-915e-5e5a9fa1e318"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.ts","id":"01a06160-2a5d-7701-bfcb-d89a2bf8ddf3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.ts","id":"01a06160-2a5d-76e5-bad4-aeac785cc866"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/sets-search-ui-shared-xml/sets-search-ui-shared-xml.eso-interface.ts","id":"01a0618f-abe1-7489-996e-bbc414aca800"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-bar/hud-addon-bar.module.ts","id":"01a061c5-18dd-7007-b0fb-76457ff3f070"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-builtins/hud-addon-builtins.module.ts","id":"01a061c5-18dd-7008-b922-a4aeb80eade3"}

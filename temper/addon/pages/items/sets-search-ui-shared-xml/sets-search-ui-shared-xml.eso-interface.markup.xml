@@ -16,7 +16,7 @@
         <!-- Virtual Sort headers -->
         <Control name="TemperItemsCraftingSetsSearchUISortHeader" inherits="ZO_SortHeaderBehavior" virtual="true" level="2">
             <Controls>
-                <Label name="$(parent)Name" font="TemperFontLabel" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" modifyTextType="UPPERCASE" horizontalAlignment="CENTER" verticalAlignment="CENTER" wrapMode="ELLIPSIS">
+                <Label name="$(parent)Name" font="TemperFontLabel" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" modifyTextType="UPPERCASE" horizontalAlignment="CENTER" verticalAlignment="CENTER" wrapMode="ELLIPSIS" maxLineCount="1">
                     <AnchorFill />
                 </Label>
             </Controls>
@@ -80,19 +80,19 @@
                 </Label>
                 <Label name="$(parent)Name" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
                     <Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Favorite" />
-                    <DimensionConstraints minX="400" maxX="400" minY="30" maxY="30" />
+                    <DimensionConstraints minX="300" maxX="300" minY="30" maxY="30" />
                 </Label>
                 <Label name="$(parent)SetType" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
                     <Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" />
-                    <DimensionConstraints minX="40" maxX="40" minY="30" maxY="30" />
+                    <DimensionConstraints minX="110" maxX="110" minY="30" maxY="30" />
                 </Label>
                 <Label name="$(parent)ArmorOrWeaponType" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
                     <Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)SetType" />
-                    <DimensionConstraints minX="40" maxX="40" minY="30" maxY="30" />
+                    <DimensionConstraints minX="110" maxX="110" minY="30" maxY="30" />
                 </Label>
                 <Label name="$(parent)EquipSlot" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
                     <Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)ArmorOrWeaponType" />
-                    <DimensionConstraints minX="40" maxX="40" minY="30" maxY="30" />
+                    <DimensionConstraints minX="110" maxX="110" minY="30" maxY="30" />
                 </Label>
                 <Label name="$(parent)DropLocations" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
                     <Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)EquipSlot" />

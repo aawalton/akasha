@@ -7,6 +7,12 @@ export const setsSearchUiSharedXml = {
   definition: "the controls the set search window shares between keyboard and gamepad",
   markup: "xml",
   loadedAs: "SearchUI/TemperItemsCraftingSets_SearchUI_Shared.xml",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A column header is one line, and each column is wide enough for its header.",
+    },
+  ],
   createdAt: "2026-09-02T10:00:00.737Z",
-  updatedAt: "2026-09-22T07:39:30.000Z",
+  updatedAt: "2026-10-18T19:40:06.697Z",
 } as const satisfies EsoInterface
