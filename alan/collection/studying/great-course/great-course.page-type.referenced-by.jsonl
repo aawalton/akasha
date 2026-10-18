@@ -1125,3 +1125,4 @@
 {"propertySlug":"import","fileName":"great-course.page-type.types.ts","path":"alan/collection/studying/great-course/pages/zero-to-infinity-a-history-of-numbers.great-course.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"great-course.page-type.types.ts","path":"alan/collection/studying/great-course/pages/zoology-understanding-the-animal-world.great-course.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/collection/studying/studying.domain.ts","id":"01a06574-0291-7001-9087-db957190cd32"}
+{"propertySlug":"view-page-type","path":"page/view/pages/courses-unfinished.view.ts","id":"01a14fa8-f3bb-7817-ac7d-dc5f98a2b6e3"}
