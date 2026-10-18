@@ -11,6 +11,7 @@ import {
 } from "akasha/check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"
 import {
   declarationOver,
+  declaresStylesheet,
   everyStylesheetOut,
 } from "akasha/check/code/pages/typecheck/modules/stylesheet-declaring/stylesheet-declaring.module.code.ts"
 import {
@@ -304,11 +305,12 @@ async function foundOver(
   const at = join(root, CONFIG_NAME)
   const config = configOf(root, named, whole, world)
   const readFile = servingOf(root, at, config, read, placed, holds, onDisk)
+  const exists = existingOf(readFile)
   const fs = onDisk
-    ? { readFile }
+    ? { readFile, fileExists: (one: string) => (declaresStylesheet(one) ? exists(one) : undefined) }
     : {
         readFile,
-        fileExists: existingOf(readFile),
+        fileExists: exists,
         directoryExists: foldersIn(root, named, placed),
         realpath: realOver(root, placed),
       }

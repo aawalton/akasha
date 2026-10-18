@@ -300,6 +300,10 @@ export const typecheck = {
       statement: "Such a run answers the compiler only its config and the stylesheet declarations.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a run answers whether a stylesheet declaration is there, and no file else.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "Each file the compiler asks this process about is a round trip of its own.",
     },
@@ -328,5 +332,5 @@ export const typecheck = {
   check: { maxCpuSeconds: 300 },
   audit: { maxCpuSeconds: 300 },
   createdAt: "2026-08-29T04:34:07.476Z",
-  updatedAt: "2026-10-18T15:59:00.585Z",
+  updatedAt: "2026-10-18T17:01:53.778Z",
 } as const satisfies CheckCode

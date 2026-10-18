@@ -1,11 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { readFileSync, rmSync } from "node:fs"
+import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   claimedIn,
   configOf,
   reachedBy,
   reachesTypegen,
+  refusalsFor,
   refusalsOver,
   rootsOf,
   servingOf,
@@ -94,6 +95,20 @@ test("a run over a commit checked out clean leaves the tree's own bodies to the 
   expect(serving(at)).toBe("{}")
   expect(serving(`${HERE}/held.ts`)).toBeUndefined()
   expect(serving(`${HERE}/node_modules/vite/client.d.ts`)).toContain("declare module '*.scss' {}")
+})
+
+test("a whole commit read off the disk still finds a stylesheet only where one is", async () => {
+  const root = numbered()
+  const two = 'import "./two.css"\nimport "./gone.css"\nexport const two = 2\n'
+  writeFileSync(join(root, "akasha/two.ts"), two)
+  writeFileSync(join(root, "akasha/two.css"), "a {}\n")
+  const read = (path: string) => {
+    const at = join(root, path)
+    return existsSync(at) ? readFileSync(at, "utf8") : null
+  }
+  const index = shadowAsked(change(root, {})).index
+  const said = await refusalsFor(root, ["akasha/two.ts"], read, index)
+  expect(said.map((one) => one.reason.includes("gone.css"))).toEqual([true])
 })
 
 test("a declaration outside the tree answering every stylesheet is served without that line", () => {

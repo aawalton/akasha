@@ -17,8 +17,12 @@ const NO_EXPORTS = "export {}\n"
 
 const EVERY_STYLESHEET = /^declare module ['"]\*\.css['"] \{\}\n?/gm
 
+export function declaresStylesheet(name: string): boolean {
+  return name.endsWith(DECLARED_STYLESHEET)
+}
+
 function stylesheetDeclared(name: string): string | null {
-  if (!name.endsWith(DECLARED_STYLESHEET)) return null
+  if (!declaresStylesheet(name)) return null
   return `${name.slice(0, -DECLARED_STYLESHEET.length)}${STYLESHEET}`
 }
 
