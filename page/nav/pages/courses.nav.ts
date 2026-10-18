@@ -6,8 +6,8 @@ export const courses = {
   slug: "courses",
   title: "Courses",
   icon: "GraduationCap",
-  navPlace: 10,
+  navPlace: 1,
   app: "web-app/alanwalton-web",
   createdAt: "2026-10-18T15:37:14.937Z",
-  updatedAt: "2026-10-18T15:37:14.937Z",
+  updatedAt: "2026-10-18T15:40:53.196Z",
 } as const satisfies Nav
