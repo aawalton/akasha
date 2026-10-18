@@ -380,6 +380,15 @@ describe("pictureHtml", () => {
     expect(html).toContain('<span style="color:#00FF00">on</span>')
   })
 
+  test("keeps colored lines of a label one run of text, so each line break holds", () => {
+    const html = pictureHtml(
+      control({ controlType: CT_LABEL, width: 10, height: 10, text: "|c00FF00a|r\n|c00FF00b|r" })
+    )
+    expect(html).toContain(
+      '><span><span style="color:#00FF00">a</span>\n<span style="color:#00FF00">b</span></span></div>'
+    )
+  })
+
   test("leaves out an icon with no file behind it", () => {
     const html = pictureHtml(
       control({ controlType: CT_LABEL, width: 10, height: 10, text: "x|t32:32:EsoUI/Art/a.dds|ty" })

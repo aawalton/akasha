@@ -147,6 +147,10 @@ export const uiPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A label's marked pieces are laid out as one run, so its line breaks hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An icon the markup names is drawn where a caller says which file is behind it.",
     },
     {
@@ -163,5 +167,5 @@ export const uiPicture = {
     },
   ],
   createdAt: "2026-09-22T16:05:51.362Z",
-  updatedAt: "2026-09-27T05:28:46.000Z",
+  updatedAt: "2026-10-18T18:49:53.402Z",
 } as const satisfies Module

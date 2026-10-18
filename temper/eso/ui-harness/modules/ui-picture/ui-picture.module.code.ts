@@ -164,14 +164,17 @@ function iconHtml(said: string, options: UiPictureOptions): string {
 }
 
 function markedHtml(text: string, options: UiPictureOptions): string {
-  return markupPieces(text)
+  let marked = false
+  const html = markupPieces(text)
     .map((piece) => {
       const shown = piece.kind === "icon" ? iconHtml(piece.icon, options) : escaped(piece.text)
-      return piece.color === undefined
-        ? shown
-        : `<span style="color:#${piece.color}">${shown}</span>`
+      if (shown.startsWith("<")) marked = true
+      if (piece.color === undefined) return shown
+      marked = true
+      return `<span style="color:#${piece.color}">${shown}</span>`
     })
     .join("")
+  return marked ? `<span>${html}</span>` : html
 }
 
 function asCss(color: UiColor): string {
