@@ -21,6 +21,7 @@ import {
   MAP,
   MAP_INDEX,
   NO_VALUES,
+  QUEST,
   SETTING,
   UNIT,
   UNIT_BUFF,
@@ -255,6 +256,16 @@ function settingAskings(this: void, add: Adding): undefined {
   return undefined
 }
 
+function completedQuests(this: void): number[] {
+  const found: number[] = []
+  let at = answerOf("GetNextCompletedQuestId", [])
+  while (typeof at === "number") {
+    found[found.length] = at
+    at = answerOf("GetNextCompletedQuestId", [at])
+  }
+  return found
+}
+
 function askingsNow(this: void): Asking[] {
   const found: Asking[] = []
   function add(this: void, shape: string, values: AskedValue[]): undefined {
@@ -279,6 +290,7 @@ function askingsNow(this: void): Asking[] {
   keyAskings(add)
   settingAskings(add)
   for (const index of fromTo(FIRST, numberOf("GetNumCharacters"))) add(INDEX, [index])
+  for (const quest of completedQuests()) add(QUEST, [quest])
   return found
 }
 

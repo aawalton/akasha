@@ -52,6 +52,8 @@ export const SETTING = "system,settingId"
 
 export const INDEX = "index"
 
+export const QUEST = "questId"
+
 export const ASKED_SHAPES: readonly string[] = [
   NO_VALUES,
   UNIT,
@@ -80,4 +82,5 @@ export const ASKED_SHAPES: readonly string[] = [
   ACTION_DEVICE,
   SETTING,
   INDEX,
+  QUEST,
 ]

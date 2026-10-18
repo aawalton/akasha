@@ -45,6 +45,15 @@ export const playerAnswerCapture = {
       statement: "A bare index is asked from one up to the number of the account's characters.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each quest the character has completed is asked about, as the game lists them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A quest not completed is left unasked, so the sandbox answers it as not completed.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The game's own setting ids all fall below 100.",
     },
@@ -84,5 +93,5 @@ export const playerAnswerCapture = {
     },
   ],
   createdAt: "2026-09-24T22:10:34.922Z",
-  updatedAt: "2026-10-18T18:56:35.112Z",
+  updatedAt: "2026-10-18T19:06:18.258Z",
 } as const satisfies Module
