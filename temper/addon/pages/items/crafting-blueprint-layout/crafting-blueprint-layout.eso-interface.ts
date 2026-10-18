@@ -7,6 +7,12 @@ export const craftingBlueprintLayout = {
   definition: "the furnishing-blueprint window and its list",
   markup: "xml",
   loadedAs: "XML/UI/CraftingBlueprint.xml",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The hide toggles are left-aligned, so their boxes line up.",
+    },
+  ],
   createdAt: "2026-09-02T11:01:26.335Z",
-  updatedAt: "2026-09-22T06:25:40.000Z",
+  updatedAt: "2026-10-18T19:59:13.850Z",
 } as const satisfies EsoInterface

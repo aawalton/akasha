@@ -151,16 +151,16 @@
                   <Dimensions x="227" y="36"/>
                   <Edge edgeSize="1"/>
                 </Backdrop>
-                <Button name="TemperItemsCrafting_BlueprintHideKnownButton" clickSound="Click" verticalAlignment="1" font="TemperFontBody">
+                <Button name="TemperItemsCrafting_BlueprintHideKnownButton" clickSound="Click" horizontalAlignment="LEFT" verticalAlignment="1" font="TemperFontBody">
                   <FontColors normalColor="D7D7D7"/>
-                  <Anchor point="LEFT" relativePoint="LEFT" offsetY="-10" relativeTo="$(parent)Toggles"/>
-                  <Dimensions y="22" x="227"/>
+                  <Anchor point="LEFT" relativePoint="LEFT" offsetX="8" offsetY="-10" relativeTo="$(parent)Toggles"/>
+                  <Dimensions y="22" x="219"/>
                   <OnClicked>TemperItemsCrafting.HideKnownBlueprints()</OnClicked>
                 </Button>
-                <Button name="TemperItemsCrafting_BlueprintHideUnknownButton" clickSound="Click" verticalAlignment="1" font="TemperFontBody">
+                <Button name="TemperItemsCrafting_BlueprintHideUnknownButton" clickSound="Click" horizontalAlignment="LEFT" verticalAlignment="1" font="TemperFontBody">
                   <FontColors normalColor="D7D7D7"/>
-                  <Anchor point="LEFT" relativePoint="LEFT" offsetY="8" relativeTo="$(parent)Toggles"/>
-                  <Dimensions y="22" x="227"/>
+                  <Anchor point="LEFT" relativePoint="LEFT" offsetX="8" offsetY="8" relativeTo="$(parent)Toggles"/>
+                  <Dimensions y="22" x="219"/>
                   <OnClicked>TemperItemsCrafting.HideUnknownBlueprints()</OnClicked>
                 </Button>
               </Controls>

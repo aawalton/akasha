@@ -13,16 +13,16 @@
               <Dimensions x="580" y="40"/>
               <Edge edgeSize="1"/>
             </Backdrop>
-            <Button name="$(parent)HideKnownButton" clickSound="Click" horizontalAlignment="RIGHT" verticalAlignment="1" font="TemperFontBody">
+            <Button name="$(parent)HideKnownButton" clickSound="Click" horizontalAlignment="LEFT" verticalAlignment="1" font="TemperFontBody">
               <FontColors normalColor="D7D7D7"/>
-              <Anchor point="LEFT" relativePoint="LEFT" offsetY="-10" offsetX="105" relativeTo="$(parent)TopSection"/>
-              <Dimensions y="20" x="300"/>
+              <Anchor point="LEFT" relativePoint="LEFT" offsetY="-10" offsetX="290" relativeTo="$(parent)TopSection"/>
+              <Dimensions y="20" x="145"/>
               <OnClicked>TemperItemsCrafting.HideKnownRecipes()</OnClicked>
             </Button>
-            <Button name="$(parent)HideUnknownButton" clickSound="Click" horizontalAlignment="RIGHT" verticalAlignment="1" font="TemperFontBody">
+            <Button name="$(parent)HideUnknownButton" clickSound="Click" horizontalAlignment="LEFT" verticalAlignment="1" font="TemperFontBody">
               <FontColors normalColor="D7D7D7"/>
-              <Anchor point="LEFT" relativePoint="LEFT" offsetY="10" offsetX="105" relativeTo="$(parent)TopSection"/>
-              <Dimensions y="20" x="300"/>
+              <Anchor point="LEFT" relativePoint="LEFT" offsetY="10" offsetX="290" relativeTo="$(parent)TopSection"/>
+              <Dimensions y="20" x="145"/>
               <OnClicked>TemperItemsCrafting.HideUnknownRecipes()</OnClicked>
             </Button>
             <Button name="$(parent)CategoryButton1" clickSound="Click">

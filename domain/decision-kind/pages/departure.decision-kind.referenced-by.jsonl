@@ -4457,6 +4457,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-surface/data-encode-surface.module.ts","id":"01a06061-969e-7d0d-b494-268228c7f6a5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-types/data-encode-types.module.ts","id":"01a06061-96a2-7fff-82c3-b9b5976c8acf"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-blueprint-layout/crafting-blueprint-layout.eso-interface.ts","id":"01a061c7-e8bf-7fc9-acb8-3f819b78d2e8"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-recipe-layout/crafting-recipe-layout.eso-interface.ts","id":"01a061c7-e8c1-72fd-9fdd-9a22ca56f843"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/crafting-sets.domain.ts","id":"01a0c6a0-0160-75ed-ad0d-8f601468b4c5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-auto-autocompletion/sets-auto-autocompletion.module.ts","id":"01a0623c-2df7-7942-a655-e30b89d4db2b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-bool-pair/sets-bool-pair.module.ts","id":"01a0617b-4b74-7947-906e-dc19a68d36b8"}
