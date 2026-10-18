@@ -69,8 +69,6 @@ export function characterInitialize(): undefined {
     offsetPos = 60
     bg.SetDimensions(563, offsetPos)
     paintSurface(bg, CELL_LEVEL)
-    bg.SetEdgeColor(0.12, 0.12, 0.12, 1)
-    bg.SetEdgeTexture("", 1, 1, 1)
 
     let btn: TemperItemsCraftingButton = WINDOW_MANAGER.CreateControl(
       `TemperItemsCrafting_Character${x}Name`,
@@ -267,8 +265,6 @@ export function characterInitialize(): undefined {
         bg.SetAnchor(TOPLEFT, frame, TOPLEFT, xpos, ypos)
         bg.SetDimensions(140, 28)
         paintSurface(bg, CELL_LEVEL)
-        bg.SetEdgeColor(0.12, 0.12, 0.12, 1)
-        bg.SetEdgeTexture("", 1, 1, 1)
 
         btn = WINDOW_MANAGER.CreateControl(
           `TemperItemsCrafting_Character${x}Skill${z}`,
@@ -305,8 +301,6 @@ export function characterInitialize(): undefined {
         bg.SetAnchor(TOPLEFT, frame, TOPLEFT, xpos, offsetPos + 58)
         bg.SetDimensions(140, 70)
         paintSurface(bg, CELL_LEVEL)
-        bg.SetEdgeColor(0.12, 0.12, 0.12, 1)
-        bg.SetEdgeTexture("", 1, 1, 1)
         xpos = xpos + 141
         for (let i = 1; i <= 3; i++) {
           btn = WINDOW_MANAGER.CreateControl(

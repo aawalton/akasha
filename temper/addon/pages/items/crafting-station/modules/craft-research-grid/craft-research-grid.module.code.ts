@@ -13,6 +13,7 @@ import {
   paintSurface,
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { colorOf } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
@@ -104,8 +105,6 @@ export function drawTraitColumn(craft: number, line: number): undefined {
     bg.SetAnchor(3, p, 3, -1, 2 + trait * 26)
     bg.SetDimensions(27, 25)
     paintSurface(bg, CELL_LEVEL)
-    bg.SetEdgeTexture("", 1, 1, 1, 1)
-    bg.SetEdgeColor(1, 1, 1, 0.12)
     c = WM.CreateControl(
       `TemperItemsCrafting_PanelCraft${craft}Line${line}Trait${trait}`,
       bg,
@@ -195,8 +194,6 @@ export function drawTraitColumn(craft: number, line: number): undefined {
   countBg.SetAnchor(3, p, 3, -1, 262)
   countBg.SetDimensions(27, 25)
   paintSurface(countBg, CELL_LEVEL)
-  countBg.SetEdgeTexture("", 1, 1, 1, 1)
-  countBg.SetEdgeColor(1, 1, 1, 0.12)
   const count = WM.CreateControl(
     `TemperItemsCrafting_PanelCraft${craft}Line${line}Count`,
     countBg,
@@ -207,7 +204,8 @@ export function drawTraitColumn(craft: number, line: number): undefined {
   count.SetHorizontalAlignment(1)
   count.SetVerticalAlignment(1)
   count.SetFont("TemperItemsCraftingFont")
-  count.SetNormalFontColor(0.9, 0.87, 0.68, 1)
+  const [red, green, blue] = colorOf("number")
+  count.SetNormalFontColor(red, green, blue, 1)
 }
 
 export function updateStudyLine(
@@ -242,7 +240,6 @@ export function updateStudyLine(
     for (let x = 2; x <= control.GetNumChildren() - 1; x++) {
       const subcontrol = control.GetChild<BackdropControl>(x)
       if (subcontrol !== undefined) paintSurface(subcontrol, CELL_LEVEL)
-      subcontrol?.SetEdgeColor(1, 1, 1, 0.12)
     }
   } else {
     control.GetNamedChild<TextureControl>("HeaderTexture")?.SetColor(1, 0, 0, 1)
@@ -250,7 +247,6 @@ export function updateStudyLine(
       const subcontrol = control.GetChild<BackdropControl>(x)
       if (trackingTable[x - 1] === true) {
         if (subcontrol !== undefined) paintSurface(subcontrol, CELL_LEVEL)
-        subcontrol?.SetEdgeColor(1, 1, 1, 0.12)
       } else {
         subcontrol?.SetCenterColor(0.15, 0, 0, 1)
         subcontrol?.SetEdgeColor(1, 0, 0, 0.5)

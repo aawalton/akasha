@@ -28,9 +28,17 @@ export const craftWindowFrames = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A crafting window's sections, dividers and buttons keep the game's art.",
+      statement: "Each backdrop a crafting window's markup declares takes the game's inset art.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A backdrop behind a button is cleared, so the button shows the game's own art.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A backdrop behind a field takes the game's text entry art.",
     },
   ],
   createdAt: "2026-09-25T13:31:58.849Z",
-  updatedAt: "2026-10-18T17:31:39.160Z",
+  updatedAt: "2026-10-18T17:44:21.596Z",
 } as const satisfies Module

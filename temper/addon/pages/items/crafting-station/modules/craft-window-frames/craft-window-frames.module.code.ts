@@ -9,6 +9,10 @@ import {
   FRAME_TOP,
   frameWindow,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
+import {
+  clearBackdrop,
+  paintPanel,
+} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
@@ -27,7 +31,24 @@ const COOK_TITLE = "Provisioning"
 
 const COOK_MARGIN = 10
 
+const FRAME_SURFACE = "FrameSurface"
+
+function paintBackdropsUnder(this: void, root: Control): undefined {
+  for (let at = 1; at <= root.GetNumChildren(); at += 1) {
+    const child = root.GetChild<Control>(at)
+    if (child === undefined) continue
+    const kind = root.GetType()
+    if (child.GetType() === CT_BACKDROP && !child.GetName().endsWith(FRAME_SURFACE)) {
+      if (kind === CT_BUTTON) clearBackdrop(child as BackdropControl)
+      else if (kind !== CT_EDITBOX) paintPanel(child as BackdropControl)
+    }
+    paintBackdropsUnder(child)
+  }
+  return undefined
+}
+
 function panelSections(this: void, root: Control): undefined {
+  paintBackdropsUnder(root)
   styleControlsUnder(root)
   return undefined
 }
