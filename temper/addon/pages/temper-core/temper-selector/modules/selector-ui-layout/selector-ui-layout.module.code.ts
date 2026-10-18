@@ -19,8 +19,8 @@ interface SelectorControls {
 }
 
 const ROOT_WIDTH = 400
-const ROOT_HEIGHT = 80
 const ROOT_OFFSET_X = 10
+const LIST_GAP_BELOW_DIVIDER = 40
 
 const SEARCH_WIDTH = 200
 const SEARCH_HEIGHT = 20
@@ -46,8 +46,40 @@ const GEAR_SIZE = 45
 const GEAR_OFFSET_X = 100
 const GEAR_OFFSET_Y = 65
 
+const ROOT_HEIGHT = ROW_HEIGHT * 3 + ROW_GAP * 2
+
 const LABEL_FONT = "ZoFontWinH5"
-const EDIT_FONT = "ZoFontGame"
+
+const EDIT_BACKDROP = "ZO_EditBackdrop"
+const EDIT_IN_BACKDROP = "ZO_DefaultEditForBackdrop"
+
+function editIn(
+  this: void,
+  name: string,
+  parent: Control,
+  width: number,
+  height: number
+): [EditControl, Control] {
+  const backdrop = WINDOW_MANAGER.CreateControlFromVirtual(`${name}BG`, parent, EDIT_BACKDROP)
+  backdrop.SetDimensions(width, height)
+  const edit = WINDOW_MANAGER.CreateControlFromVirtual<EditControl>(
+    name,
+    backdrop,
+    EDIT_IN_BACKDROP
+  )
+  edit.SetMaxInputChars(64)
+  return [edit, backdrop]
+}
+
+function makeRoomForPacks(this: void, root: Control, divider: Control): undefined {
+  const list = WINDOW_MANAGER.GetControlByName("ZO_AddOnsList")
+  if (list === undefined) return
+  const wasTop = divider.GetBottom() + LIST_GAP_BELOW_DIVIDER
+  list.ClearAnchors()
+  list.SetAnchor(TOPLEFT, root, BOTTOMLEFT, -ROOT_OFFSET_X, ROW_GAP)
+  const moved = root.GetBottom() + ROW_GAP - wasTop
+  if (moved > 0) list.SetHeight(list.GetHeight() - moved)
+}
 
 let controls: SelectorControls | undefined
 
@@ -68,15 +100,19 @@ export function createSelectorControls(): undefined {
 
   const root = WINDOW_MANAGER.CreateControl(ROOT_CONTROL_NAME, addOnsScreen, CT_CONTROL)
   root.SetDimensions(ROOT_WIDTH, ROOT_HEIGHT)
-  root.SetAnchor(TOPLEFT, divider, BOTTOMLEFT, ROOT_OFFSET_X, 0)
+  const characters = WINDOW_MANAGER.GetControlByName("ZO_AddOnsCharacterSelectDropdown")
+  if (characters === undefined) root.SetAnchor(TOPLEFT, divider, BOTTOMLEFT, ROOT_OFFSET_X, 0)
+  else root.SetAnchor(TOPLEFT, characters, BOTTOMLEFT, ROOT_OFFSET_X, ROW_GAP)
 
   WINDOW_MANAGER.GetControlByName("ZO_AddOnsAdvancedUIErrors")?.SetHidden(true)
 
-  const searchBox = WINDOW_MANAGER.CreateControl(`${ROOT_CONTROL_NAME}SearchBox`, root, CT_EDITBOX)
-  searchBox.SetDimensions(SEARCH_WIDTH, SEARCH_HEIGHT)
-  searchBox.SetAnchor(TOPRIGHT, addOnsScreen, TOPRIGHT, SEARCH_OFFSET_X, SEARCH_OFFSET_Y)
-  searchBox.SetFont(EDIT_FONT)
-  searchBox.SetMaxInputChars(64)
+  const [searchBox, searchField] = editIn(
+    `${ROOT_CONTROL_NAME}SearchBox`,
+    root,
+    SEARCH_WIDTH,
+    SEARCH_HEIGHT
+  )
+  searchField.SetAnchor(TOPRIGHT, addOnsScreen, TOPRIGHT, SEARCH_OFFSET_X, SEARCH_OFFSET_Y)
 
   const searchLabel = WINDOW_MANAGER.CreateControl(
     `${ROOT_CONTROL_NAME}SearchLabel`,
@@ -87,7 +123,7 @@ export function createSelectorControls(): undefined {
   searchLabel.SetText(STRINGS.addonSearch)
   searchLabel.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
   searchLabel.SetVerticalAlignment(TEXT_ALIGN_CENTER)
-  searchLabel.SetAnchor(RIGHT, searchBox, LEFT, -10, 0)
+  searchLabel.SetAnchor(RIGHT, searchField, LEFT, -10, 0)
 
   const nameLabel = WINDOW_MANAGER.CreateControl(`${ROOT_CONTROL_NAME}NameLabel`, root, CT_LABEL)
   nameLabel.SetDimensions(LABEL_WIDTH, ROW_HEIGHT)
@@ -96,15 +132,13 @@ export function createSelectorControls(): undefined {
   nameLabel.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   nameLabel.SetAnchor(TOPLEFT, root, TOPLEFT, 0, 0)
 
-  const packNameEditBox = WINDOW_MANAGER.CreateControl(
+  const [packNameEditBox, packNameField] = editIn(
     `${ROOT_CONTROL_NAME}EditBox`,
     root,
-    CT_EDITBOX
+    EDITBOX_WIDTH,
+    EDITBOX_HEIGHT
   )
-  packNameEditBox.SetDimensions(EDITBOX_WIDTH, EDITBOX_HEIGHT)
-  packNameEditBox.SetFont(EDIT_FONT)
-  packNameEditBox.SetMaxInputChars(64)
-  packNameEditBox.SetAnchor(TOPLEFT, nameLabel, TOPRIGHT, FIELD_GAP, 0)
+  packNameField.SetAnchor(TOPLEFT, nameLabel, TOPRIGHT, FIELD_GAP, 0)
 
   const saveButton = WINDOW_MANAGER.CreateControlFromVirtual<ButtonControl>(
     `${ROOT_CONTROL_NAME}Save`,
@@ -113,7 +147,7 @@ export function createSelectorControls(): undefined {
   )
   saveButton.SetDimensions(BUTTON_WIDTH, BUTTON_HEIGHT)
   saveButton.SetText(STRINGS.saveButton)
-  saveButton.SetAnchor(TOPLEFT, packNameEditBox, TOPRIGHT, FIELD_GAP, 0)
+  saveButton.SetAnchor(TOPLEFT, packNameField, TOPRIGHT, FIELD_GAP, 0)
   saveButton.SetHandler("OnClicked", function (this: void): undefined {
     onSaveClicked()
   })
@@ -174,6 +208,8 @@ export function createSelectorControls(): undefined {
   settingsButton.SetHandler("OnClicked", function (this: void): undefined {
     onSettingsClicked(settingsButton)
   })
+
+  makeRoomForPacks(root, divider)
 
   controls = {
     root,
