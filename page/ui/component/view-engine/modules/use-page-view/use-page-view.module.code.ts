@@ -95,7 +95,7 @@ export function usePageView({
   const sorts = viewConfig.sorts ?? []
   const filters = viewConfig.filters ?? []
 
-  const hasActiveFilters = filters.length > 0 || sorts.length > 0 || groupBy !== ""
+  const hasActiveFilters = filters.length > 0
 
   const viewConfigRef = useRef(viewConfig)
   viewConfigRef.current = viewConfig
@@ -141,7 +141,7 @@ export function usePageView({
   )
 
   const onReset = useCallback(() => {
-    applyConfig({ sorts: [], filters: [], groupBy: "", groupSorts: undefined })
+    applyConfig({ ...viewConfigRef.current, filters: [] })
   }, [applyConfig])
 
   return {

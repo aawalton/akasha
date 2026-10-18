@@ -150,7 +150,14 @@ function viewPropertiesOf(data: Partial<ViewDataJSON>): PropertyWrite[] {
   put("pageSize", data.page_size)
   put("itemPageSize", data.item_page_size)
   put("groupPageSize", data.group_page_size)
-  put("groupBy", data.group_by === undefined ? cleared("group_by") : keyOf(data.group_by))
+  put(
+    "groupBy",
+    data.group_by === ""
+      ? null
+      : data.group_by === undefined
+        ? cleared("group_by")
+        : keyOf(data.group_by)
+  )
   put("groupGranularity", granularityOf(data))
   put("galleryCoverSource", data.gallery_cover_source ?? cleared("gallery_cover_source"))
   put("galleryCardSize", data.gallery_card_size)

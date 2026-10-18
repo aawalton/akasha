@@ -10,10 +10,9 @@ export const daysAll = {
   viewPlace: 1,
   layout: "table",
   narrows: [],
-  viewSorts: [],
-  groupBy: "",
+  viewSorts: [{ key: "date", descending: true }],
   visibleProperties: ["stoplights"],
   alwaysShowProperties: ["stoplights"],
   createdAt: "2026-10-18T13:34:48.175Z",
-  updatedAt: "2026-10-18T14:09:20.762Z",
+  updatedAt: "2026-10-18T14:17:58.525Z",
 } as const satisfies View
