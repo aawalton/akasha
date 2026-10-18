@@ -4,4 +4,5 @@
 {"id":"01a14ec4-ccd5-73db-ab92-036af4307555","title":"Read","startedAt":"2026-10-18T11:30:00.000Z","dailyTracking":"01a14e74-3458-7000-9d17-993fe20b23c6","endedAt":"2026-10-18T11:55:00.000Z","safetyLevel":"0","difficultyLevel":"1"}
 {"id":"01a14ede-bf93-73f0-bb35-3b59e2b42799","title":"Rest","startedAt":"2026-10-18T11:55:00.000Z","dailyTracking":"01a14e74-3458-7000-9d17-993fe20b23c6","endedAt":"2026-10-18T12:12:00.000Z","safetyLevel":"0","difficultyLevel":"0"}
 {"id":"01a14eed-4658-7f41-89bc-ed1242648611","title":"Walk","startedAt":"2026-10-18T12:12:00.000Z","dailyTracking":"01a14e74-3458-7000-9d17-993fe20b23c6","endedAt":"2026-10-18T13:00:00.000Z","safetyLevel":"0","difficultyLevel":"1"}
-{"id":"01a14f19-ae3e-7a5a-a5a8-62a6bd154552","title":"ESO + Projects","startedAt":"2026-10-18T13:00:00.000Z","dailyTracking":"01a14e74-3458-7000-9d17-993fe20b23c6","safetyLevel":"0"}
+{"id":"01a14f19-ae3e-7a5a-a5a8-62a6bd154552","title":"ESO + Projects","startedAt":"2026-10-18T13:00:00.000Z","dailyTracking":"01a14e74-3458-7000-9d17-993fe20b23c6","safetyLevel":"0","endedAt":"2026-10-18T13:11:00.000Z"}
+{"id":"01a14f23-7ecf-7e7c-8da9-98a4b508c3e1","title":"ESO + Projects + Pod","startedAt":"2026-10-18T13:11:00.000Z","dailyTracking":"01a14e74-3458-7000-9d17-993fe20b23c6","safetyLevel":"0","difficultyLevel":"2"}
