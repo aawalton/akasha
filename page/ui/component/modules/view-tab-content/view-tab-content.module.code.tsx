@@ -201,6 +201,7 @@ export function ViewTabContent({
         defaultSorts={viewConfig?.sorts}
         defaultGroupBy={viewConfig?.group_by}
         defaultGroupSorts={viewConfig?.group_sorts}
+        defaultGroupGranularity={viewConfig?.group_granularity}
         defaultCalendarDateBy={viewConfig?.calendar_date_by}
         defaultTimelineStartProperty={viewConfig?.timeline_start_property}
         defaultTimelineEndProperty={viewConfig?.timeline_end_property}

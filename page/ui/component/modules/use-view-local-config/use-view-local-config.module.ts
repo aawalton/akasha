@@ -6,6 +6,7 @@ export const useViewLocalConfig = {
   slug: "use-view-local-config",
   definition: "the part of a view config kept on this device",
   code: "ts",
+  test: "ts",
   createdAt: "2026-09-01T11:28:48.828Z",
-  updatedAt: "2026-09-24T16:28:05.000Z",
+  updatedAt: "2026-10-18T15:07:39.299Z",
 } as const satisfies Module

@@ -16,6 +16,7 @@ interface ViewLocalConfigDefaults {
   defaultSorts?: ViewConfig["sorts"]
   defaultGroupBy?: string
   defaultGroupSorts?: ViewConfig["groupSorts"]
+  defaultGroupGranularity?: ViewConfig["groupGranularity"]
   defaultCalendarDateBy?: string
   defaultTimelineStartProperty?: string
   defaultTimelineEndProperty?: string
@@ -36,6 +37,9 @@ export function useViewLocalConfig(
   const [localGroupSorts, setLocalGroupSorts] = useState<ViewConfig["groupSorts"]>(
     defaults.defaultGroupSorts ?? []
   )
+  const [localGroupGranularity, setLocalGroupGranularity] = useState<
+    ViewConfig["groupGranularity"]
+  >(defaults.defaultGroupGranularity)
   const [localCalendarDateBy, setLocalCalendarDateBy] = useState<string | undefined>(
     defaults.defaultCalendarDateBy
   )
@@ -61,6 +65,7 @@ export function useViewLocalConfig(
       filters: localFilters,
       groupBy: localGroupBy,
       groupSorts: localGroupSorts,
+      groupGranularity: localGroupGranularity,
       calendarDateBy: localCalendarDateBy,
       timelineStartProperty: localTimelineStartProperty,
       timelineEndProperty: localTimelineEndProperty,
@@ -73,6 +78,7 @@ export function useViewLocalConfig(
       localFilters,
       localGroupBy,
       localGroupSorts,
+      localGroupGranularity,
       localCalendarDateBy,
       localTimelineStartProperty,
       localTimelineEndProperty,
@@ -88,6 +94,7 @@ export function useViewLocalConfig(
       setLocalFilters([...(config.filters ?? [])])
       setLocalGroupBy(config.groupBy)
       setLocalGroupSorts(config.groupSorts ?? [])
+      setLocalGroupGranularity(config.groupGranularity)
       setLocalCalendarDateBy(config.calendarDateBy)
       setLocalTimelineStartProperty(config.timelineStartProperty)
       setLocalTimelineEndProperty(config.timelineEndProperty)

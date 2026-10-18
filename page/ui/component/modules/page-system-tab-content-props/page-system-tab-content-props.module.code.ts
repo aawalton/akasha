@@ -36,6 +36,7 @@ export interface PageSystemTabContentProps {
   defaultSorts?: ViewConfig["sorts"]
   defaultGroupBy?: string
   defaultGroupSorts?: ViewConfig["groupSorts"]
+  defaultGroupGranularity?: ViewConfig["groupGranularity"]
   defaultCalendarDateBy?: string
   defaultTimelineStartProperty?: string
   defaultTimelineEndProperty?: string

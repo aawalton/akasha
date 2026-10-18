@@ -208,6 +208,7 @@ export function PagesFilteredContent({
             defaultSorts={effectiveConfig.sorts}
             defaultGroupBy={effectiveConfig.group_by}
             defaultGroupSorts={effectiveConfig.group_sorts}
+            defaultGroupGranularity={effectiveConfig.group_granularity}
             defaultPageSize={effectiveConfig.page_size}
             defaultGroupPageSize={effectiveConfig.group_page_size}
             defaultItemPageSize={effectiveConfig.item_page_size}

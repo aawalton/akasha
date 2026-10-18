@@ -47,6 +47,7 @@
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/use-view-config-handlers/use-view-config-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/use-view-local-config/use-view-local-config.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/use-view-local-config/use-view-local-config.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/use-view-local-config/use-view-local-config.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/view-settings-options/view-settings-options.module.code.ts","typed":true,"deferred":false}
