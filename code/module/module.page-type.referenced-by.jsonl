@@ -1179,6 +1179,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/shell/terminal/modules/terminal-seat-stating/terminal-seat-stating.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/spawning/modules/process-holding/process-holding.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/spawning/modules/running/running.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/spawning/modules/stall-noting/stall-noting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/as-boolean/as-boolean.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/as-instant/as-instant.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/as-number/as-number.module.ts","typed":true,"deferred":false}

@@ -5,7 +5,7 @@ export const codeSpawning = {
   type: "page-type/domain",
   slug: "code-spawning",
   definition: "how a process starts another process",
-  parts: ["module/running", "module/process-holding"],
+  parts: ["module/running", "module/process-holding", "module/stall-noting"],
   createdAt: "2026-09-01T13:20:06.149Z",
-  updatedAt: "2026-10-08T16:34:20.809Z",
+  updatedAt: "2026-10-18T14:47:07.974Z",
 } as const satisfies Domain
