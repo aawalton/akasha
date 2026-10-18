@@ -6,8 +6,8 @@ export const chapters = {
   slug: "chapters",
   title: "Chapters",
   icon: "BookOpen",
-  navPlace: 0,
+  navPlace: 1,
   app: "web-app/alanwalton-web",
   createdAt: "2026-09-28T19:55:54.598Z",
-  updatedAt: "2026-09-28T19:59:01.000Z",
+  updatedAt: "2026-10-18T14:10:54.236Z",
 } as const satisfies Nav
