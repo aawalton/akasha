@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { ComputedPropertyModule } from "akasha/page/computed-property-module/computed-property-module.page-type.types.ts"
 
 export const dayString = {
   id: "01a05c77-31e6-7984-b078-7e97cacbeefb",
-  type: "page-type/module",
+  type: "page-type/computed-property-module",
   slug: "day-string",
   definition: "a day written as a dashed date, read back off one, and stepped by one",
   code: "ts",
@@ -21,5 +21,5 @@ export const dayString = {
     },
   ],
   createdAt: "2026-09-01T10:15:10.566Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
-} as const satisfies Module
+  updatedAt: "2026-10-18T13:48:24.816Z",
+} as const satisfies ComputedPropertyModule

@@ -6,7 +6,7 @@ export const dayBoundary = {
   slug: "day-boundary",
   definition: "when Alan's day starts",
   parts: [
-    "module/day-string",
+    "computed-property-module/day-string",
     "module/eso-day",
     "module/mountain-day",
     "module/mountain-wall",
@@ -40,5 +40,5 @@ export const dayBoundary = {
     },
   ],
   createdAt: "2026-09-01T10:15:10.564Z",
-  updatedAt: "2026-09-24T22:41:55.000Z",
+  updatedAt: "2026-10-18T13:48:24.816Z",
 } as const satisfies Domain

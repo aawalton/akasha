@@ -1,4 +1,4 @@
-import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
+import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.computed-property-module.code.ts"
 import { liftedIn } from "akasha/alan/value/health/fitness/strength/modules/lifting/lifting.computed-property-module.code.ts"
 import {
   dayOf,

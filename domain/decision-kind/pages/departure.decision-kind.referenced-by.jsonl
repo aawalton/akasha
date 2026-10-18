@@ -756,7 +756,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.ts","id":"01a08baf-2d7b-7409-962f-a47157e07198"}
 {"propertySlug":"decision-kind","path":"alan/harness/cost/readouts/multiplier/cost-multiplier.readout.ts","id":"01a08b9c-6412-7e0f-8a4e-fc4a180594e6"}
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/day-boundary.domain.ts","id":"01a05c77-31e4-7f97-8fe6-c273915285af"}
-{"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/day-string/day-string.module.ts","id":"01a05c77-31e6-7984-b078-7e97cacbeefb"}
+{"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/day-string/day-string.computed-property-module.ts","id":"01a05c77-31e6-7984-b078-7e97cacbeefb"}
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/eso-day/eso-day.module.ts","id":"01a05c77-31e6-7a9f-9805-d1c81725dd03"}
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/mountain-day/mountain-day.module.ts","id":"01a05c77-31e7-7659-86c4-340d070e0baf"}
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.ts","id":"01a06848-a27e-756a-aff3-a0c8f31695cb"}

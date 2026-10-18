@@ -3,7 +3,7 @@ import {
   dayStrOf,
   MS_PER_DAY,
   NOON,
-} from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/day-string/day-string.computed-property-module.code.ts"
 import { nyOffsetMs } from "akasha/alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.computed-property-module.code.ts"
 
 export function getEsoResetTime(now: Date): Date {

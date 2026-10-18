@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
+import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.computed-property-module.code.ts"
 import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
 import { saidForPart } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
 import { at } from "akasha/command/argument/pages/at.argument.ts"

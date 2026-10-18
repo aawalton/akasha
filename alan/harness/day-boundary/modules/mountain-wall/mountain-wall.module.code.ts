@@ -1,4 +1,4 @@
-import { pad2 } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
+import { pad2 } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.computed-property-module.code.ts"
 import { denverOffsetMs } from "akasha/alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.computed-property-module.code.ts"
 import { z } from "zod"
 

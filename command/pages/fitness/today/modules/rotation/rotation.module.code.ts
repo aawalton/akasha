@@ -1,7 +1,7 @@
 import {
   NOON,
   parseDay,
-} from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/day-string/day-string.computed-property-module.code.ts"
 import {
   textAt,
   type Value,

@@ -1,6 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { pad2 } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
+import { pad2 } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.computed-property-module.code.ts"
 import { getMountainMorningDayStr } from "akasha/alan/harness/day-boundary/modules/mountain-day/mountain-day.module.code.ts"
 import { readMountainWallTime } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
 import {

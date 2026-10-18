@@ -3,7 +3,7 @@ import {
   MS_PER_DAY,
   NOON,
   parseDay,
-} from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/day-string/day-string.computed-property-module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   numberAt,
