@@ -2474,7 +2474,7 @@
       }
     },
     "55": {
-      "currentRank": 4,
+      "currentRank": 5,
       "currentXP": 175,
       "nextRankXP": 200,
       "skills": {
@@ -2485,7 +2485,7 @@
           },
           "morph1": {
             "name": "Spiked Bone Shield",
-            "rank": 1
+            "rank": 2
           },
           "morph2": {
             "name": "Bone Surge",
@@ -5048,8 +5048,8 @@
     }
   },
   "skillPoints": {
-    "total": 362,
-    "unassigned": 0,
+    "total": 363,
+    "unassigned": 1,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -5060,7 +5060,7 @@
     "skyshardPoints": 173,
     "totalSkyshards": 520,
     "zoneQuestTotal": 57,
-    "groupDungeonTotal": 4,
+    "groupDungeonTotal": 5,
     "publicDungeonTotal": 36,
     "skyshards": {
       "CY": 0,
@@ -5183,7 +5183,7 @@
       "CA": 0,
       "WS2": 0,
       "SP": 0,
-      "WS1": 0,
+      "WS1": 1,
       "SC1": 1,
       "SC2": 0,
       "OP": 0,
@@ -6750,7 +6750,7 @@
     }
   },
   "companionRapport": {
-    "6": 2847,
+    "6": 2852,
     "13": 817
   },
   "quests": [
@@ -6991,6 +6991,7 @@
     4221,
     4222,
     4225,
+    4246,
     4255,
     4256,
     4260,
@@ -11917,6 +11918,7 @@
       17,
       18,
       19,
+      20,
       21,
       22,
       23,
@@ -11948,6 +11950,7 @@
       59,
       60,
       61,
+      62,
       63,
       64,
       65,
@@ -12287,6 +12290,7 @@
       37,
       38,
       40,
+      42,
       55,
       59,
       61,
@@ -13335,45 +13339,45 @@
   },
   "inventoryCheck": {
     "date": "2026-10-18",
-    "misplaced": 24
+    "misplaced": 45
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792333919,
+      "capturedAt": 1792338018,
       "inCombat": false,
       "stats": {
-        "health-maximum": 26112,
-        "magicka-recovery": 598,
+        "magicka-maximum": 12520,
         "critical-rating-spell": 3596,
-        "power-spell": 3905,
-        "power-weapon": 3905,
-        "penetration-spell": 18019,
         "critical-rating-weapon": 3596,
         "penetration-physical": 18019,
-        "magicka-maximum": 12520,
-        "stamina-maximum": 28045,
-        "stamina-recovery": 1120,
+        "power-weapon": 3905,
         "resistance-critical": 1320,
+        "magicka-recovery": 598,
+        "penetration-spell": 18019,
+        "power-spell": 3905,
+        "resistance-spell": 21349,
+        "stamina-maximum": 28045,
         "health-recovery": 0,
         "resistance-physical": 21349,
-        "resistance-spell": 21349
+        "stamina-recovery": 1120,
+        "health-maximum": 26112
       },
       "unbonusedStats": {
-        "health-maximum": 26112,
-        "magicka-recovery": 598,
+        "magicka-maximum": 12520,
         "critical-rating-spell": 2181,
-        "power-spell": 1000,
-        "power-weapon": 1000,
-        "penetration-spell": 0,
         "critical-rating-weapon": 2181,
         "penetration-physical": 0,
-        "magicka-maximum": 12520,
-        "stamina-maximum": 28045,
-        "stamina-recovery": 1120,
+        "power-weapon": 1000,
         "resistance-critical": 0,
+        "magicka-recovery": 598,
+        "penetration-spell": 0,
+        "power-spell": 1000,
+        "resistance-spell": 0,
+        "stamina-maximum": 28045,
         "health-recovery": 0,
         "resistance-physical": 0,
-        "resistance-spell": 0
+        "stamina-recovery": 1120,
+        "health-maximum": 26112
       },
       "activeBuffs": [
         {
@@ -14014,7 +14018,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:1787:0|h|h",
+          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:1759:0|h|h",
           "armor": 2084,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14022,7 +14026,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:363:50:26588:370:50:16:25:0:0:0:0:0:0:2049:67:0:1:0:6380:0|h|h",
+          "link": "|H0:item:82177:363:50:26588:370:50:16:25:0:0:0:0:0:0:2049:67:0:1:0:5941:0|h|h",
           "armor": 2341,
           "enchant": "Adds |cffffff424|r Maximum Stamina.",
           "trait": "Increase armor enchantment effect by |cffffff21|r%.",
@@ -14030,7 +14034,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:153:0|h|h",
+          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:126:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2014|r Physical Damage and restores |cffffff354|r Stamina.",
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
@@ -14038,7 +14042,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:8060:0|h|h",
+          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:7832:0|h|h",
           "armor": 781,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14046,7 +14050,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:9550:0|h|h",
+          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:9390:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14054,7 +14058,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:8128:0|h|h",
+          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:8076:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14078,7 +14082,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:6067:0|h|h",
+          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:6015:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14086,7 +14090,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:277:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:254:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
@@ -14212,43 +14216,50 @@
       "archiveBoons": []
     },
     "backBar": {
-      "capturedAt": 1792333843,
-      "inCombat": false,
+      "capturedAt": 1792337989,
+      "inCombat": true,
       "stats": {
-        "health-maximum": 26112,
-        "magicka-recovery": 598,
-        "critical-rating-spell": 3596,
-        "power-spell": 4241,
-        "power-weapon": 4241,
-        "penetration-spell": 11719,
-        "critical-rating-weapon": 3596,
-        "penetration-physical": 11719,
         "magicka-maximum": 12520,
-        "stamina-maximum": 28045,
-        "stamina-recovery": 1120,
+        "critical-rating-spell": 4910,
+        "critical-rating-weapon": 4910,
+        "penetration-physical": 11719,
+        "power-weapon": 4828,
         "resistance-critical": 1320,
+        "magicka-recovery": 598,
+        "penetration-spell": 11719,
+        "power-spell": 4828,
+        "resistance-spell": 21349,
+        "stamina-maximum": 28045,
         "health-recovery": 0,
-        "resistance-physical": 18375,
-        "resistance-spell": 18375
+        "resistance-physical": 21349,
+        "stamina-recovery": 0,
+        "health-maximum": 26112
       },
       "unbonusedStats": {
-        "health-maximum": 26112,
-        "magicka-recovery": 598,
+        "magicka-maximum": 12520,
         "critical-rating-spell": 2181,
-        "power-spell": 1000,
-        "power-weapon": 1000,
-        "penetration-spell": 0,
         "critical-rating-weapon": 2181,
         "penetration-physical": 0,
-        "magicka-maximum": 12520,
-        "stamina-maximum": 28045,
-        "stamina-recovery": 1120,
+        "power-weapon": 1000,
         "resistance-critical": 0,
+        "magicka-recovery": 598,
+        "penetration-spell": 0,
+        "power-spell": 1000,
+        "resistance-spell": 0,
+        "stamina-maximum": 28045,
         "health-recovery": 0,
         "resistance-physical": 0,
-        "resistance-spell": 0
+        "stamina-recovery": 0,
+        "health-maximum": 26112
       },
       "activeBuffs": [
+        {
+          "abilityId": 43752,
+          "name": "Soul Summons",
+          "description": "· Once per hour, you can resurrect without the need for a soul gem",
+          "effect": "",
+          "stacks": 0
+        },
         {
           "abilityId": 89957,
           "name": "Dubious Camoran Throne",
@@ -14299,23 +14310,51 @@
           "stacks": 0
         },
         {
-          "abilityId": 43752,
-          "name": "Soul Summons",
-          "description": "· Once per hour, you can resurrect without the need for a soul gem",
+          "abilityId": 185842,
+          "name": "Inspired Scholarship",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3932|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
           "effect": "",
           "stacks": 0
         },
         {
-          "abilityId": 61742,
-          "name": "Minor Breach",
+          "abilityId": 61666,
+          "name": "Minor Savagery",
           "description": "",
-          "effect": "Reduces your Physical and Spell Resistance by |cffffff2974|r.\n",
+          "effect": "Increases your Critical rating by |cffffff1314|r, increasing your Critical Chance by |cffffff6|r%.\n",
           "stacks": 0
         },
         {
-          "abilityId": 185842,
-          "name": "Inspired Scholarship",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3382|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+          "abilityId": 21230,
+          "name": "Berserker",
+          "description": "Increase your Power by for",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 38763,
+          "name": "Brawler",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 99789,
+          "name": "Merciless Charge",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 184220,
+          "name": "Crux",
+          "description": "",
+          "effect": "",
+          "stacks": 1
+        },
+        {
+          "abilityId": 154927,
+          "name": "Ritual of Salvation",
+          "description": "",
           "effect": "",
           "stacks": 0
         }
@@ -14885,7 +14924,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:82176:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:7767:0|h|h",
+          "link": "|H0:item:82176:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:7717:0|h|h",
           "armor": 2341,
           "enchant": "Adds |cffffff882|r Maximum Health.",
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
@@ -14901,7 +14940,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:1837:0|h|h",
+          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:1759:0|h|h",
           "armor": 2084,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14909,7 +14948,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:363:50:26588:370:50:16:25:0:0:0:0:0:0:2049:67:0:1:0:6380:0|h|h",
+          "link": "|H0:item:82177:363:50:26588:370:50:16:25:0:0:0:0:0:0:2049:67:0:1:0:6166:0|h|h",
           "armor": 2341,
           "enchant": "Adds |cffffff424|r Maximum Stamina.",
           "trait": "Increase armor enchantment effect by |cffffff21|r%.",
@@ -14917,15 +14956,15 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:153:0|h|h",
+          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:127:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff2014|r Physical Damage and restores |cffffff354|r Stamina.",
+          "enchant": "Deals |cffffff2166|r Physical Damage and restores |cffffff354|r Stamina.",
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
           "quality": 5
         },
         {
           "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:8060:0|h|h",
+          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:7832:0|h|h",
           "armor": 781,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14933,7 +14972,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:9650:0|h|h",
+          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:9390:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14941,7 +14980,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:8128:0|h|h",
+          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:8076:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14965,7 +15004,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:6117:0|h|h",
+          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:6015:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14973,7 +15012,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:277:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:254:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
@@ -14985,7 +15024,7 @@
           "slot": 3,
           "abilityId": 38788,
           "name": "Stampede",
-          "description": "Launch across the earth and smash an enemy, dealing |cffffff5326|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1155|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
+          "description": "Launch across the earth and smash an enemy, dealing |cffffff6166|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1249|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
@@ -14996,7 +15035,7 @@
           "slot": 4,
           "abilityId": 185839,
           "name": "Rune of Displacement",
-          "description": "Devise a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff16360|r Magic Damage over |cffffff18|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff10312|r Frost Damage to enemies within 7 meters.",
+          "description": "Devise a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff19090|r Magic Damage over |cffffff18|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff11938|r Frost Damage to enemies within 7 meters.",
           "durationMs": 18000,
           "castMs": 0,
           "channeled": false,
@@ -15007,7 +15046,7 @@
           "slot": 5,
           "abilityId": 185842,
           "name": "Inspired Scholarship",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3382|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3932|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
           "durationMs": 30000,
           "castMs": 0,
           "channeled": false,
@@ -15018,7 +15057,7 @@
           "slot": 6,
           "abilityId": 39475,
           "name": "Inner Fire",
-          "description": "Ignite the fires of hate in an enemy's heart, dealing |cffffff3779|r Flame Damage and taunting them to attack you for |cffffff15|r seconds.\n\nAn ally targeting the taunted enemy can activate the Radiate synergy, dealing |cffffff4599|r Flame Damage to them over |cffffff3|r seconds then an additional |cffffff8593|r Flame Damage to them and other nearby enemies.",
+          "description": "Ignite the fires of hate in an enemy's heart, dealing |cffffff4392|r Flame Damage and taunting them to attack you for |cffffff15|r seconds.\n\nAn ally targeting the taunted enemy can activate the Radiate synergy, dealing |cffffff5370|r Flame Damage to them over |cffffff3|r seconds then an additional |cffffff9948|r Flame Damage to them and other nearby enemies.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -15029,7 +15068,7 @@
           "slot": 7,
           "abilityId": 42138,
           "name": "Spiked Bone Shield",
-          "description": "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff9306|r damage for |cffffff6|r seconds and returns |cffffff85|r% of direct damage absorbed back to the enemy. This ability scales off your Max Health.\n\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to |cffffff35|r% of their Max Health for |cffffff6|r seconds.",
+          "description": "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff9306|r damage for |cffffff6|r seconds and returns |cffffff90|r% of direct damage absorbed back to the enemy. This ability scales off your Max Health.\n\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to |cffffff35|r% of their Max Health for |cffffff6|r seconds.",
           "durationMs": 6000,
           "castMs": 0,
           "channeled": false,
@@ -15040,7 +15079,7 @@
           "slot": 8,
           "abilityId": 36514,
           "name": "Soul Harvest",
-          "description": "Ravage an enemy with a spinning attack, dealing |cffffff13443|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
+          "description": "Ravage an enemy with a spinning attack, dealing |cffffff15620|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
           "durationMs": 0,
           "castMs": 400,
           "channeled": false,
