@@ -8,9 +8,9 @@ export const achievement = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.5.3303624",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-18T13:31:53.722Z",
+  capturedAt: "2026-10-18T13:44:24.856Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
-  updatedAt: "2026-10-18T13:31:54.143Z",
+  updatedAt: "2026-10-18T13:44:25.340Z",
   createdAt: "2026-09-02T01:39:30.990Z",
 } as const satisfies TemperCatalogDomain
