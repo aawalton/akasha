@@ -21,9 +21,9 @@ export const learningFrenchARendezvousWithFrenchSpeakingCultures = {
       source: "the-great-courses",
       externalId: "learning-french-a-rendezvous-with-french-speaking-cultures",
       externalLink:
-        "https://www.thegreatcoursesplus.com/learning-french-a-rendezvous-with-french-speaking-cultures",
+        "https://plus.thegreatcourses.com/learning-french-a-rendezvous-with-french-speaking-cultures",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

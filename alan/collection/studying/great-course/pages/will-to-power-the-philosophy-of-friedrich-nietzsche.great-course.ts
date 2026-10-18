@@ -15,9 +15,9 @@ export const willToPowerThePhilosophyOfFriedrichNietzsche = {
       source: "the-great-courses",
       externalId: "will-to-power-the-philosophy-of-friedrich-nietzsche",
       externalLink:
-        "https://www.thegreatcoursesplus.com/will-to-power-the-philosophy-of-friedrich-nietzsche",
+        "https://plus.thegreatcourses.com/will-to-power-the-philosophy-of-friedrich-nietzsche",
     },
   ],
   createdAt: "2026-04-22T12:39:34.023Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

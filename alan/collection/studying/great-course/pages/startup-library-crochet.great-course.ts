@@ -18,9 +18,9 @@ export const startupLibraryCrochet = {
     {
       source: "the-great-courses",
       externalId: "startup-library-crochet",
-      externalLink: "https://www.thegreatcoursesplus.com/startup-library-crochet",
+      externalLink: "https://plus.thegreatcourses.com/startup-library-crochet",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

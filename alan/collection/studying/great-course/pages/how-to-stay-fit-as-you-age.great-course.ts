@@ -18,9 +18,9 @@ export const howToStayFitAsYouAge = {
     {
       source: "the-great-courses",
       externalId: "how-to-stay-fit-as-you-age",
-      externalLink: "https://www.thegreatcoursesplus.com/how-to-stay-fit-as-you-age",
+      externalLink: "https://plus.thegreatcourses.com/how-to-stay-fit-as-you-age",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

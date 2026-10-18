@@ -20,9 +20,9 @@ export const theBirthOfTheModernMindTheIntellectualHistoryOfThe17thAnd = {
       externalId:
         "the-birth-of-the-modern-mind-the-intellectual-history-of-the-17th-and-18th-centuries",
       externalLink:
-        "https://www.thegreatcoursesplus.com/the-birth-of-the-modern-mind-the-intellectual-history-of-the-17th-and-18th-centuries",
+        "https://plus.thegreatcourses.com/the-birth-of-the-modern-mind-the-intellectual-history-of-the-17th-and-18th-centuries",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

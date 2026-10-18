@@ -18,9 +18,9 @@ export const buildingGreatSentencesExploringTheWriterSCraft = {
       source: "the-great-courses",
       externalId: "building-great-sentences-exploring-the-writers-craft",
       externalLink:
-        "https://www.thegreatcoursesplus.com/building-great-sentences-exploring-the-writers-craft",
+        "https://plus.thegreatcourses.com/building-great-sentences-exploring-the-writers-craft",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

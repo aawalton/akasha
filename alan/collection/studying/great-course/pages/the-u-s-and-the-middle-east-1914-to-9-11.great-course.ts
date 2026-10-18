@@ -17,9 +17,9 @@ export const theUSAndTheMiddleEast1914To911 = {
     {
       source: "the-great-courses",
       externalId: "the-us-and-the-middle-east-1914-to-911",
-      externalLink: "https://www.thegreatcoursesplus.com/the-us-and-the-middle-east-1914-to-911",
+      externalLink: "https://plus.thegreatcourses.com/the-us-and-the-middle-east-1914-to-911",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

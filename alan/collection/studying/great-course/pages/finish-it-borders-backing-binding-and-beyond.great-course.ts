@@ -18,9 +18,9 @@ export const finishItBordersBackingBindingAndBeyond = {
     {
       source: "the-great-courses",
       externalId: "finish-it-borders-backing-binding-beyond",
-      externalLink: "https://www.thegreatcoursesplus.com/finish-it-borders-backing-binding-beyond",
+      externalLink: "https://plus.thegreatcourses.com/finish-it-borders-backing-binding-beyond",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

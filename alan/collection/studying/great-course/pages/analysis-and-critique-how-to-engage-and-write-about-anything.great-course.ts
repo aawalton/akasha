@@ -20,9 +20,9 @@ export const analysisAndCritiqueHowToEngageAndWriteAboutAnything = {
       source: "the-great-courses",
       externalId: "analysis-and-critique-how-to-engage-and-write-about-anything",
       externalLink:
-        "https://www.thegreatcoursesplus.com/analysis-and-critique-how-to-engage-and-write-about-anything",
+        "https://plus.thegreatcourses.com/analysis-and-critique-how-to-engage-and-write-about-anything",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

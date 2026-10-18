@@ -19,9 +19,9 @@ export const pilotLectureAntioxidantsWhatAreTheyAndWhyDoWeNeedThem = {
       source: "the-great-courses",
       externalId: "pilot-lecture-antioxidants-what-are-they-and-why-do-we-need-them",
       externalLink:
-        "https://www.thegreatcoursesplus.com/pilot-lecture-antioxidants-what-are-they-and-why-do-we-need-them",
+        "https://plus.thegreatcourses.com/pilot-lecture-antioxidants-what-are-they-and-why-do-we-need-them",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

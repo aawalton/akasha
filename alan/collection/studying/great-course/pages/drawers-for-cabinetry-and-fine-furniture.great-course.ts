@@ -18,9 +18,9 @@ export const drawersForCabinetryAndFineFurniture = {
     {
       source: "the-great-courses",
       externalId: "drawers-for-cabinetry-fine-furniture",
-      externalLink: "https://www.thegreatcoursesplus.com/drawers-for-cabinetry-fine-furniture",
+      externalLink: "https://plus.thegreatcourses.com/drawers-for-cabinetry-fine-furniture",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

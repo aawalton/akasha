@@ -20,9 +20,9 @@ export const beyondGrandmaSCakeRollOnePanSixNewCakes = {
       source: "the-great-courses",
       externalId: "beyond-grandma-s-cake-roll-one-pan-six-new-cakes",
       externalLink:
-        "https://www.thegreatcoursesplus.com/beyond-grandma-s-cake-roll-one-pan-six-new-cakes",
+        "https://plus.thegreatcourses.com/beyond-grandma-s-cake-roll-one-pan-six-new-cakes",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

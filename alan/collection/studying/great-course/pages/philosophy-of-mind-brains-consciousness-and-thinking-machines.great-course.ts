@@ -18,9 +18,9 @@ export const philosophyOfMindBrainsConsciousnessAndThinkingMachines = {
       source: "the-great-courses",
       externalId: "philosophy-of-mind-brains-consciousness-and-thinking-machines",
       externalLink:
-        "https://www.thegreatcoursesplus.com/philosophy-of-mind-brains-consciousness-and-thinking-machines",
+        "https://plus.thegreatcourses.com/philosophy-of-mind-brains-consciousness-and-thinking-machines",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

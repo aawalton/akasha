@@ -18,10 +18,9 @@ export const theScientificGuideToHealthAndHappiness = {
     {
       source: "the-great-courses",
       externalId: "the-scientific-guide-to-health-and-happiness",
-      externalLink:
-        "https://www.thegreatcoursesplus.com/the-scientific-guide-to-health-and-happiness",
+      externalLink: "https://plus.thegreatcourses.com/the-scientific-guide-to-health-and-happiness",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

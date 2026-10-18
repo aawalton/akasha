@@ -19,9 +19,9 @@ export const eatForYourHealthSimpleScienceAndFantasticFlavor = {
       source: "the-great-courses",
       externalId: "eat-for-your-health-simple-science-and-fantastic-flavor",
       externalLink:
-        "https://www.thegreatcoursesplus.com/eat-for-your-health-simple-science-and-fantastic-flavor",
+        "https://plus.thegreatcourses.com/eat-for-your-health-simple-science-and-fantastic-flavor",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

@@ -18,9 +18,9 @@ export const travelsWithDarleySeason2 = {
     {
       source: "the-great-courses",
       externalId: "travels-with-darley-season-2",
-      externalLink: "https://www.thegreatcoursesplus.com/travels-with-darley-season-2",
+      externalLink: "https://plus.thegreatcourses.com/travels-with-darley-season-2",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

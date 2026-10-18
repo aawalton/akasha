@@ -19,9 +19,9 @@ export const alexanderTheGreatAndTheMacedonianEmpire = {
       source: "the-great-courses",
       externalId: "alexander-the-great-and-the-macedonian-empire",
       externalLink:
-        "https://www.thegreatcoursesplus.com/alexander-the-great-and-the-macedonian-empire",
+        "https://plus.thegreatcourses.com/alexander-the-great-and-the-macedonian-empire",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

@@ -19,9 +19,9 @@ export const pilotLectureHowRepublicsDieTheFallOfTheRomanRepublic = {
       source: "the-great-courses",
       externalId: "pilot-lecture-how-republics-die-the-fall-of-the-roman-republic",
       externalLink:
-        "https://www.thegreatcoursesplus.com/pilot-lecture-how-republics-die-the-fall-of-the-roman-republic",
+        "https://plus.thegreatcourses.com/pilot-lecture-how-republics-die-the-fall-of-the-roman-republic",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

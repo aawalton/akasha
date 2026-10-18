@@ -20,9 +20,9 @@ export const interconnectedThePastPresentAndFutureOfTheInternet = {
       source: "the-great-courses",
       externalId: "interconnected-the-past-present-and-future-of-the-internet",
       externalLink:
-        "https://www.thegreatcoursesplus.com/interconnected-the-past-present-and-future-of-the-internet",
+        "https://plus.thegreatcourses.com/interconnected-the-past-present-and-future-of-the-internet",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

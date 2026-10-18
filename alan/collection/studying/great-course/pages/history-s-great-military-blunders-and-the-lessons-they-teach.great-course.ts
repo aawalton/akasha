@@ -19,9 +19,9 @@ export const historySGreatMilitaryBlundersAndTheLessonsTheyTeach = {
       source: "the-great-courses",
       externalId: "historys-great-military-blunders-and-the-lessons-they-teach",
       externalLink:
-        "https://www.thegreatcoursesplus.com/historys-great-military-blunders-and-the-lessons-they-teach",
+        "https://plus.thegreatcourses.com/historys-great-military-blunders-and-the-lessons-they-teach",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

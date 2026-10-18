@@ -20,9 +20,9 @@ export const pilotLectureMaxPlanckAndTheUltravioletCatastrophe = {
       source: "the-great-courses",
       externalId: "plus-pilots-ma-planck-and-the-ultraviolet-catastrophe",
       externalLink:
-        "https://www.thegreatcoursesplus.com/plus-pilots-ma-planck-and-the-ultraviolet-catastrophe",
+        "https://plus.thegreatcourses.com/plus-pilots-ma-planck-and-the-ultraviolet-catastrophe",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

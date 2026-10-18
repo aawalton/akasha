@@ -17,9 +17,9 @@ export const theScienceOfGardening = {
     {
       source: "the-great-courses",
       externalId: "the-science-of-gardening",
-      externalLink: "https://www.thegreatcoursesplus.com/the-science-of-gardening",
+      externalLink: "https://plus.thegreatcourses.com/the-science-of-gardening",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

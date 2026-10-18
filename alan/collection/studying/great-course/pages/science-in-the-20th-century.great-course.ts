@@ -17,9 +17,9 @@ export const scienceInThe20thCentury = {
     {
       source: "the-great-courses",
       externalId: "science-in-the-20th-century",
-      externalLink: "https://www.thegreatcoursesplus.com/science-in-the-20th-century",
+      externalLink: "https://plus.thegreatcourses.com/science-in-the-20th-century",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

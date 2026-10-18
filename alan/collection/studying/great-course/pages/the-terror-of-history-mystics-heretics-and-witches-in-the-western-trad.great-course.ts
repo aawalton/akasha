@@ -15,9 +15,9 @@ export const theTerrorOfHistoryMysticsHereticsAndWitchesInTheWesternTrad = {
       source: "the-great-courses",
       externalId: "the-terror-of-history-mystics-heretics-and-witches-in-the-western-tradition",
       externalLink:
-        "https://www.thegreatcoursesplus.com/the-terror-of-history-mystics-heretics-and-witches-in-the-western-tradition",
+        "https://plus.thegreatcourses.com/the-terror-of-history-mystics-heretics-and-witches-in-the-western-tradition",
     },
   ],
   createdAt: "2026-04-22T12:39:34.023Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

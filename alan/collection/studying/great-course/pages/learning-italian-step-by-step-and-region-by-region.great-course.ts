@@ -20,9 +20,9 @@ export const learningItalianStepByStepAndRegionByRegion = {
       source: "the-great-courses",
       externalId: "learning-italian-step-by-step-and-region-by-region",
       externalLink:
-        "https://www.thegreatcoursesplus.com/learning-italian-step-by-step-and-region-by-region",
+        "https://plus.thegreatcourses.com/learning-italian-step-by-step-and-region-by-region",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

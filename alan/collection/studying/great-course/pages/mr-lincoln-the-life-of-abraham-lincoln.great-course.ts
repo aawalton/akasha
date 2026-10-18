@@ -17,9 +17,9 @@ export const mrLincolnTheLifeOfAbrahamLincoln = {
     {
       source: "the-great-courses",
       externalId: "mr-lincoln-the-life-of-abraham-lincoln",
-      externalLink: "https://www.thegreatcoursesplus.com/mr-lincoln-the-life-of-abraham-lincoln",
+      externalLink: "https://plus.thegreatcourses.com/mr-lincoln-the-life-of-abraham-lincoln",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

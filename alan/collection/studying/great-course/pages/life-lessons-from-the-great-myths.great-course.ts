@@ -17,9 +17,9 @@ export const lifeLessonsFromTheGreatMyths = {
     {
       source: "the-great-courses",
       externalId: "life-lessons-from-the-great-myths",
-      externalLink: "https://www.thegreatcoursesplus.com/life-lessons-from-the-great-myths",
+      externalLink: "https://plus.thegreatcourses.com/life-lessons-from-the-great-myths",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

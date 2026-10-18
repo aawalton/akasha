@@ -19,9 +19,9 @@ export const museumMasterpiecesTheNationalGalleryLondon = {
       source: "the-great-courses",
       externalId: "museum-masterpieces-the-national-gallery-london",
       externalLink:
-        "https://www.thegreatcoursesplus.com/museum-masterpieces-the-national-gallery-london",
+        "https://plus.thegreatcourses.com/museum-masterpieces-the-national-gallery-london",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

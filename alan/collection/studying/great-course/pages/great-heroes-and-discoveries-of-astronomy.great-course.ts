@@ -18,9 +18,9 @@ export const greatHeroesAndDiscoveriesOfAstronomy = {
     {
       source: "the-great-courses",
       externalId: "great-heroes-and-discoveries-of-astronomy",
-      externalLink: "https://www.thegreatcoursesplus.com/great-heroes-and-discoveries-of-astronomy",
+      externalLink: "https://plus.thegreatcourses.com/great-heroes-and-discoveries-of-astronomy",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

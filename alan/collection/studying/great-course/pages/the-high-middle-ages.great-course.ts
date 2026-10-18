@@ -18,9 +18,9 @@ export const theHighMiddleAges = {
     {
       source: "the-great-courses",
       externalId: "the-high-middle-ages",
-      externalLink: "https://www.thegreatcoursesplus.com/the-high-middle-ages",
+      externalLink: "https://plus.thegreatcourses.com/the-high-middle-ages",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

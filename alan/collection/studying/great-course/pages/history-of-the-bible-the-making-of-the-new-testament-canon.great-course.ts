@@ -19,9 +19,9 @@ export const historyOfTheBibleTheMakingOfTheNewTestamentCanon = {
       source: "the-great-courses",
       externalId: "history-of-the-bible-the-making-of-the-new-testament-canon",
       externalLink:
-        "https://www.thegreatcoursesplus.com/history-of-the-bible-the-making-of-the-new-testament-canon",
+        "https://plus.thegreatcourses.com/history-of-the-bible-the-making-of-the-new-testament-canon",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

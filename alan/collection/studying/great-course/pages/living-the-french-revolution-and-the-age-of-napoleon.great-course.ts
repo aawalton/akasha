@@ -18,9 +18,9 @@ export const livingTheFrenchRevolutionAndTheAgeOfNapoleon = {
       source: "the-great-courses",
       externalId: "living-the-french-revolution-and-the-age-of-napoleon",
       externalLink:
-        "https://www.thegreatcoursesplus.com/living-the-french-revolution-and-the-age-of-napoleon",
+        "https://plus.thegreatcourses.com/living-the-french-revolution-and-the-age-of-napoleon",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

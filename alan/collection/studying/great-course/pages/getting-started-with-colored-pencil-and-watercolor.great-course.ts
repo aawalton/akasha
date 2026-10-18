@@ -20,9 +20,9 @@ export const gettingStartedWithColoredPencilAndWatercolor = {
       source: "the-great-courses",
       externalId: "getting-started-with-colored-pencil-watercolor",
       externalLink:
-        "https://www.thegreatcoursesplus.com/getting-started-with-colored-pencil-watercolor",
+        "https://plus.thegreatcourses.com/getting-started-with-colored-pencil-watercolor",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

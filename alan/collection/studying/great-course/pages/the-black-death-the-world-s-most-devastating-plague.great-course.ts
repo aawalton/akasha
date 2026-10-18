@@ -20,9 +20,9 @@ export const theBlackDeathTheWorldSMostDevastatingPlague = {
       source: "the-great-courses",
       externalId: "the-black-death-the-worlds-most-devastating-plague",
       externalLink:
-        "https://www.thegreatcoursesplus.com/the-black-death-the-worlds-most-devastating-plague",
+        "https://plus.thegreatcourses.com/the-black-death-the-worlds-most-devastating-plague",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

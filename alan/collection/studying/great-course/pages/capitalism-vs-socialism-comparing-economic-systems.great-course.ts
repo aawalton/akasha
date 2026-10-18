@@ -18,9 +18,9 @@ export const capitalismVsSocialismComparingEconomicSystems = {
       source: "the-great-courses",
       externalId: "capitalism-vs-socialism-comparing-economic-systems",
       externalLink:
-        "https://www.thegreatcoursesplus.com/capitalism-vs-socialism-comparing-economic-systems",
+        "https://plus.thegreatcourses.com/capitalism-vs-socialism-comparing-economic-systems",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

@@ -19,9 +19,9 @@ export const meaningOfLifePerspectivesFromTheWorldSGreatIntellectualTradi = {
       source: "the-great-courses",
       externalId: "meaning-of-life-perspectives-from-the-worlds-great-intellectual-traditions",
       externalLink:
-        "https://www.thegreatcoursesplus.com/meaning-of-life-perspectives-from-the-worlds-great-intellectual-traditions",
+        "https://plus.thegreatcourses.com/meaning-of-life-perspectives-from-the-worlds-great-intellectual-traditions",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

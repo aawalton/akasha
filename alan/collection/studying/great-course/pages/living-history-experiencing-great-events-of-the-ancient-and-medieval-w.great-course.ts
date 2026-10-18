@@ -19,9 +19,9 @@ export const livingHistoryExperiencingGreatEventsOfTheAncientAndMedievalW = {
       source: "the-great-courses",
       externalId: "living-history-experiencing-great-events-of-the-ancient-and-medieval-worlds",
       externalLink:
-        "https://www.thegreatcoursesplus.com/living-history-experiencing-great-events-of-the-ancient-and-medieval-worlds",
+        "https://plus.thegreatcourses.com/living-history-experiencing-great-events-of-the-ancient-and-medieval-worlds",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

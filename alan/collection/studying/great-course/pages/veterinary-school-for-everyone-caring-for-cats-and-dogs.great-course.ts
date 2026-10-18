@@ -18,9 +18,9 @@ export const veterinarySchoolForEveryoneCaringForCatsAndDogs = {
       source: "the-great-courses",
       externalId: "veterinary-school-for-everyone-caring-for-cats-and-dogs",
       externalLink:
-        "https://www.thegreatcoursesplus.com/veterinary-school-for-everyone-caring-for-cats-and-dogs",
+        "https://plus.thegreatcourses.com/veterinary-school-for-everyone-caring-for-cats-and-dogs",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

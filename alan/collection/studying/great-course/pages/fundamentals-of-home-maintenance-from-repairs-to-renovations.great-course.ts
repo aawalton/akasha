@@ -19,9 +19,9 @@ export const fundamentalsOfHomeMaintenanceFromRepairsToRenovations = {
       source: "the-great-courses",
       externalId: "fundamentals-of-home-maintenance-from-repairs-to-renovations",
       externalLink:
-        "https://www.thegreatcoursesplus.com/fundamentals-of-home-maintenance-from-repairs-to-renovations",
+        "https://plus.thegreatcourses.com/fundamentals-of-home-maintenance-from-repairs-to-renovations",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

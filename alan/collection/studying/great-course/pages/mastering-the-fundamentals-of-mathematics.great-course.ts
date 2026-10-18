@@ -17,9 +17,9 @@ export const masteringTheFundamentalsOfMathematics = {
     {
       source: "the-great-courses",
       externalId: "mastering-the-fundamentals-of-mathematics",
-      externalLink: "https://www.thegreatcoursesplus.com/mastering-the-fundamentals-of-mathematics",
+      externalLink: "https://plus.thegreatcourses.com/mastering-the-fundamentals-of-mathematics",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

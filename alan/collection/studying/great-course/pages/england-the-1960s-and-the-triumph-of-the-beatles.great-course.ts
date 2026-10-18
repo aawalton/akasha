@@ -20,9 +20,9 @@ export const englandThe1960sAndTheTriumphOfTheBeatles = {
       source: "the-great-courses",
       externalId: "england-the-1960s-and-the-triumph-of-the-beatles",
       externalLink:
-        "https://www.thegreatcoursesplus.com/england-the-1960s-and-the-triumph-of-the-beatles",
+        "https://plus.thegreatcourses.com/england-the-1960s-and-the-triumph-of-the-beatles",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

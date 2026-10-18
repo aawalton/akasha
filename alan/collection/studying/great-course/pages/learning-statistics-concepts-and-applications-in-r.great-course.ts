@@ -18,9 +18,9 @@ export const learningStatisticsConceptsAndApplicationsInR = {
       source: "the-great-courses",
       externalId: "learning-statistics-concepts-and-applications-in-r",
       externalLink:
-        "https://www.thegreatcoursesplus.com/learning-statistics-concepts-and-applications-in-r",
+        "https://plus.thegreatcourses.com/learning-statistics-concepts-and-applications-in-r",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

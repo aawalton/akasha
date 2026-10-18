@@ -19,9 +19,9 @@ export const hackingAmericanElectionsWhyWeReVulnerableAndHowWeCanStopIt = {
       source: "the-great-courses",
       externalId: "hacking-american-elections-why-were-vulnerable-and-how-we-can-stop-it",
       externalLink:
-        "https://www.thegreatcoursesplus.com/hacking-american-elections-why-were-vulnerable-and-how-we-can-stop-it",
+        "https://plus.thegreatcourses.com/hacking-american-elections-why-were-vulnerable-and-how-we-can-stop-it",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

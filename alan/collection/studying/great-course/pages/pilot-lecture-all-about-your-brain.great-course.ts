@@ -18,9 +18,9 @@ export const pilotLectureAllAboutYourBrain = {
     {
       source: "the-great-courses",
       externalId: "wondrium-pilots-all-about-your-brain",
-      externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-all-about-your-brain",
+      externalLink: "https://plus.thegreatcourses.com/wondrium-pilots-all-about-your-brain",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

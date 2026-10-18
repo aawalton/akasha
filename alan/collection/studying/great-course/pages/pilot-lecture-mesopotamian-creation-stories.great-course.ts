@@ -19,9 +19,9 @@ export const pilotLectureMesopotamianCreationStories = {
       source: "the-great-courses",
       externalId: "wondrium-pilots-mesopotamian-creation-stories",
       externalLink:
-        "https://www.thegreatcoursesplus.com/wondrium-pilots-mesopotamian-creation-stories",
+        "https://plus.thegreatcourses.com/wondrium-pilots-mesopotamian-creation-stories",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

@@ -20,9 +20,9 @@ export const pilotLectureEthicalHealthCareInTheAgeOfAi = {
       source: "the-great-courses",
       externalId: "plus-pilots-ethical-health-care-in-the-age-of-ai",
       externalLink:
-        "https://www.thegreatcoursesplus.com/plus-pilots-ethical-health-care-in-the-age-of-ai",
+        "https://plus.thegreatcourses.com/plus-pilots-ethical-health-care-in-the-age-of-ai",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

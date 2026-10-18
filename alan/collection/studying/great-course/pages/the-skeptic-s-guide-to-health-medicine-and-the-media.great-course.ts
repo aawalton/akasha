@@ -18,9 +18,9 @@ export const theSkepticSGuideToHealthMedicineAndTheMedia = {
       source: "the-great-courses",
       externalId: "the-skeptics-guide-to-health-medicine-and-the-media",
       externalLink:
-        "https://www.thegreatcoursesplus.com/the-skeptics-guide-to-health-medicine-and-the-media",
+        "https://plus.thegreatcourses.com/the-skeptics-guide-to-health-medicine-and-the-media",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

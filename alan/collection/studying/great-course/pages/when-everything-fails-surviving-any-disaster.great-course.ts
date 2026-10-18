@@ -17,10 +17,9 @@ export const whenEverythingFailsSurvivingAnyDisaster = {
     {
       source: "the-great-courses",
       externalId: "when-everything-fails-surviving-any-disaster",
-      externalLink:
-        "https://www.thegreatcoursesplus.com/when-everything-fails-surviving-any-disaster",
+      externalLink: "https://plus.thegreatcourses.com/when-everything-fails-surviving-any-disaster",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

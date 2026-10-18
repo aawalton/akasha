@@ -17,9 +17,9 @@ export const theFallAndRiseOfChina = {
     {
       source: "the-great-courses",
       externalId: "the-fall-and-rise-of-china",
-      externalLink: "https://www.thegreatcoursesplus.com/the-fall-and-rise-of-china",
+      externalLink: "https://plus.thegreatcourses.com/the-fall-and-rise-of-china",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

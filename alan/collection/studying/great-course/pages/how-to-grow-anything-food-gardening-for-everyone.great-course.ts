@@ -20,9 +20,9 @@ export const howToGrowAnythingFoodGardeningForEveryone = {
       source: "the-great-courses",
       externalId: "how-to-grow-anything-food-gardening-for-everyone",
       externalLink:
-        "https://www.thegreatcoursesplus.com/how-to-grow-anything-food-gardening-for-everyone",
+        "https://plus.thegreatcourses.com/how-to-grow-anything-food-gardening-for-everyone",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

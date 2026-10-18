@@ -20,9 +20,9 @@ export const gamesPeoplePlayGameTheoryInLifeBusinessAndBeyond = {
       source: "the-great-courses",
       externalId: "games-people-play-game-theory-in-life-business-and-beyond",
       externalLink:
-        "https://www.thegreatcoursesplus.com/games-people-play-game-theory-in-life-business-and-beyond",
+        "https://plus.thegreatcourses.com/games-people-play-game-theory-in-life-business-and-beyond",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

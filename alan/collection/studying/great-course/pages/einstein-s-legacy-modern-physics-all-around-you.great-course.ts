@@ -18,9 +18,9 @@ export const einsteinSLegacyModernPhysicsAllAroundYou = {
       source: "the-great-courses",
       externalId: "einstein-s-legacy-modern-physics-all-around-you",
       externalLink:
-        "https://www.thegreatcoursesplus.com/einstein-s-legacy-modern-physics-all-around-you",
+        "https://plus.thegreatcourses.com/einstein-s-legacy-modern-physics-all-around-you",
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

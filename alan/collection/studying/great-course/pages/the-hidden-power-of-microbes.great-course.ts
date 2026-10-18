@@ -17,9 +17,9 @@ export const theHiddenPowerOfMicrobes = {
     {
       source: "the-great-courses",
       externalId: "the-hidden-power-of-microbes",
-      externalLink: "https://www.thegreatcoursesplus.com/the-hidden-power-of-microbes",
+      externalLink: "https://plus.thegreatcourses.com/the-hidden-power-of-microbes",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

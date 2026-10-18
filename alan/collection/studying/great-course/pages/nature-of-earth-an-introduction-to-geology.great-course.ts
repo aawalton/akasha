@@ -17,10 +17,9 @@ export const natureOfEarthAnIntroductionToGeology = {
     {
       source: "the-great-courses",
       externalId: "nature-of-earth-an-introduction-to-geology",
-      externalLink:
-        "https://www.thegreatcoursesplus.com/nature-of-earth-an-introduction-to-geology",
+      externalLink: "https://plus.thegreatcourses.com/nature-of-earth-an-introduction-to-geology",
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

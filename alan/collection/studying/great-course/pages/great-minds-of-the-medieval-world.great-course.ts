@@ -20,9 +20,9 @@ export const greatMindsOfTheMedievalWorld = {
     {
       source: "the-great-courses",
       externalId: "great-minds-of-the-medieval-world",
-      externalLink: "https://www.thegreatcoursesplus.com/great-minds-of-the-medieval-world",
+      externalLink: "https://plus.thegreatcourses.com/great-minds-of-the-medieval-world",
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

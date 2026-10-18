@@ -15,9 +15,9 @@ export const pilotLectureABriefHistoryOfCuba = {
     {
       source: "the-great-courses",
       externalId: "pilot-lecture-a-brief-history-of-cuba",
-      externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-a-brief-history-of-cuba",
+      externalLink: "https://plus.thegreatcourses.com/pilot-lecture-a-brief-history-of-cuba",
     },
   ],
   createdAt: "2026-04-22T12:39:34.034Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse

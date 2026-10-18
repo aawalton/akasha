@@ -15,9 +15,9 @@ export const fromYaoToMao5000YearsOfChineseHistory = {
       source: "the-great-courses",
       externalId: "from-yao-to-mao-5000-years-of-chinese-history",
       externalLink:
-        "https://www.thegreatcoursesplus.com/from-yao-to-mao-5000-years-of-chinese-history",
+        "https://plus.thegreatcourses.com/from-yao-to-mao-5000-years-of-chinese-history",
     },
   ],
   createdAt: "2026-04-22T12:39:34.024Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T21:07:43.678Z",
 } as const satisfies GreatCourse
