@@ -26,6 +26,7 @@
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/conditions-most-seen.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/curses-alphabetical.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/curses-most-seen.view.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/days-all.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/enchantments-alphabetical.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/enchantments-most-seen.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/images-all.view.ts","typed":true,"deferred":false}
