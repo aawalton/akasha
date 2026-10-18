@@ -14,7 +14,7 @@ import type {
   FilterEditorOption,
   FilterRangeValue,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
-import type { SurfaceLevel } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import {
   paintField,
@@ -25,8 +25,6 @@ import {
 } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-
-export const CONTROL_LEVEL: SurfaceLevel = 2
 
 export const PADDING_X = spaceOf("2")
 export const PADDING_Y = 6

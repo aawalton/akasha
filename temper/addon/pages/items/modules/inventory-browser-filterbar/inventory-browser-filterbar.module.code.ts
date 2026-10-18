@@ -8,18 +8,15 @@ import type {
 } from "akasha/temper/addon/pages/items/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
 import { BROWSER_QUALITY_ANY } from "akasha/temper/addon/pages/items/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
 import { BROWSER_BODY_WIDTH } from "akasha/temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"
-import {
-  type BarButton,
-  CONTROL_LEVEL,
-  setButtonActive,
-} from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
-import { paintSurface } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import type { BarButton } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import {
   paintField,
+  setChoiceChosen,
+  styleChoice,
   styleField,
-  styleTab,
 } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
+import { clearBackdrop } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -69,11 +66,11 @@ function makeButton(
   const backdrop = WINDOW_MANAGER.CreateControl(`${name}BG`, parent, CT_BACKDROP)
   backdrop.SetAnchor(TOPLEFT, parent, TOPLEFT, x, y)
   backdrop.SetDimensions(w, h)
-  paintSurface(backdrop, CONTROL_LEVEL)
+  clearBackdrop(backdrop)
 
   const label = WINDOW_MANAGER.CreateControl(`${name}Label`, backdrop, CT_LABEL)
   label.SetAnchorFill()
-  styleText(label, "heading")
+  styleText(label, "body")
   label.SetMaxLineCount(1)
   label.SetHorizontalAlignment(TEXT_ALIGN_CENTER)
   label.SetVerticalAlignment(TEXT_ALIGN_CENTER)
@@ -84,9 +81,13 @@ function makeButton(
   button.SetAnchor(TOPLEFT, backdrop, TOPLEFT, 0, 0)
   button.SetAnchor(BOTTOMRIGHT, backdrop, BOTTOMRIGHT, 0, 0)
   button.SetMouseEnabled(true)
-  styleTab(button)
+  styleChoice(button, label)
 
   return { button, backdrop, label }
+}
+
+function setButtonActive(bar: BarButton, active: boolean): undefined {
+  setChoiceChosen(bar.button, active)
 }
 
 function fitWidth(bar: BarButton, height: number): number {

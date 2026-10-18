@@ -113,6 +113,39 @@ export function setTabChosen(tab: Control, chosen: boolean): undefined {
   return undefined
 }
 
+interface Choice {
+  label: LabelControl
+  chosen: boolean
+}
+
+const CHOICES = new LuaTable<Control, Choice>()
+
+function paintChoice(control: Control, state: ControlState): undefined {
+  const choice = CHOICES.get(control)
+  if (choice === undefined) return undefined
+  const [red, green, blue] = colorOf(choice.chosen || state === "hover" ? "strong" : "body")
+  choice.label.SetColor(red, green, blue, OPAQUE)
+  return undefined
+}
+
+export function styleChoice(button: Control, label: LabelControl): Control {
+  if (!firstTime(button)) return button
+  label.SetFont(fontPathOf("body"))
+  CHOICES.set(button, { label, chosen: false })
+  paintChoice(button, "rest")
+  button.SetHandler("OnMouseEnter", () => paintChoice(button, "hover"), HANDLER_NAME)
+  button.SetHandler("OnMouseExit", () => paintChoice(button, "rest"), HANDLER_NAME)
+  return button
+}
+
+export function setChoiceChosen(button: Control, chosen: boolean): undefined {
+  const choice = CHOICES.get(button)
+  if (choice === undefined) return undefined
+  choice.chosen = chosen
+  paintChoice(button, "rest")
+  return undefined
+}
+
 export function paintField(backdrop: BackdropControl): BackdropControl {
   backdrop.SetCenterTexture(FIELD_CENTER)
   backdrop.SetCenterColor(UNTINTED, UNTINTED, UNTINTED, UNTINTED)

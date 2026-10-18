@@ -30,6 +30,11 @@ export const windowControls = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A choice in a row of words is bare text, normal at rest and selected when chosen or pointed at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Lighting a control is a named handler, so a handler the window sets is kept.",
     },
     {
@@ -50,5 +55,5 @@ export const windowControls = {
     },
   ],
   createdAt: "2026-09-25T16:33:01.934Z",
-  updatedAt: "2026-10-18T17:31:39.160Z",
+  updatedAt: "2026-10-18T19:08:52.865Z",
 } as const satisfies Module
