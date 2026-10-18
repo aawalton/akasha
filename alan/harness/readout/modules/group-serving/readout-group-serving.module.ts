@@ -134,7 +134,8 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The color of a stoplight with no figure is the color below every rung.",
+      statement:
+        "Off a rest day, the color of a stoplight with no figure is the color below every rung.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -369,7 +370,20 @@ export const readoutGroupServing = {
       decisionKind: "decision-kind/departure",
       statement: "A stoplight with no figure says no reading was taken.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stoplight's color is the color the readout has on the day handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller handing in no day has the stoplight colored for the ESO day now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stoplight on its readout's rest day carries no rungs, so no tile colors it again.",
+    },
   ],
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-18T14:05:25.858Z",
 } as const satisfies Module

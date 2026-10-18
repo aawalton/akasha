@@ -1,12 +1,15 @@
-import { expect } from "bun:test"
+import { afterAll, beforeAll, beforeEach, expect } from "bun:test"
 import { RING_CREDENTIAL_HEADER } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
   answerStoplightsAdmittedBy,
   inGroup,
   type Stoplighted,
   stoplightsInGroup,
+  stoplightWith,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import { readingValues } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import type { HeldReading } from "akasha/alan/harness/readout/modules/serving/readout-serving.module.code.ts"
+import { rungsIn } from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
@@ -166,6 +169,35 @@ export function storeGoes(store: ReturnType<typeof Bun.serve>): undefined {
   if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
   else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
   return undefined
+}
+
+export function storeServedForEachTest(): undefined {
+  let store: ReturnType<typeof Bun.serve> | undefined
+  beforeAll(() => {
+    store = servingStore()
+  })
+  afterAll(() => {
+    if (store !== undefined) storeGoes(store)
+  })
+  beforeEach(() => {
+    readingsDropped()
+    answeredAfresh()
+  })
+  return undefined
+}
+
+const RESTS_SUNDAY = { ...READOUT_ROW, restDays: ["sunday"] }
+
+export function restDayDrawn(
+  day: string,
+  value: number | null,
+  fallsPerHour = 0
+): Stoplighted | null {
+  const held: HeldReading =
+    value === null
+      ? { held: "none" }
+      : { held: "fresh", value, at: new Date().toISOString(), fallsPerHour }
+  return stoplightWith(RESTS_SUNDAY, rungsIn(SCALE_ROW), "habit", () => held, day)
 }
 
 export function figureOffScaleOn(one: Stoplighted | undefined): unknown {

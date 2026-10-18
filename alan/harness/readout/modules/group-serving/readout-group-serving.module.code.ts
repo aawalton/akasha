@@ -1,3 +1,4 @@
+import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
 import type { ReadoutWords } from "akasha/alan/harness/readout/modules/body/readout-body.module.code.ts"
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
@@ -15,10 +16,11 @@ import {
   BELOW_EVERY_RUNG,
   type Rung,
   readingSaid,
+  restDayOn,
   rungsIn,
   statedAt,
   type TierColor,
-  tierAt,
+  tierOn,
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 import {
   recordsIn,
@@ -127,7 +129,8 @@ export function stoplightWith(
   row: Values,
   rungs: readonly Rung[],
   wireKeyName: string,
-  readingHeld: ReadingHeld = readingHeldOn
+  readingHeld: ReadingHeld = readingHeldOn,
+  day: string = getEsoDayStr(new Date())
 ): Stoplighted | null {
   const slug = stated(row.slug)
   const label = stated(row.label)
@@ -138,18 +141,18 @@ export function stoplightWith(
   if (wireKey === undefined) return null
 
   const reading = readingHeld(row)
+  const reached = tierOn(row, day, reading.held === "fresh" ? reading.value : null, rungs)
   if (reading.held !== "fresh") {
     return {
       ...wireKeyed(wireKeyName, wireKey),
       label,
       ...unitAnswered(row),
-      tier: BELOW_EVERY_RUNG,
+      tier: reached?.tier ?? BELOW_EVERY_RUNG,
       reading: NO_FIGURE,
       readingHeld: reading.held,
     }
   }
 
-  const reached = tierAt(reading.value, rungs)
   if (reached === null) return null
 
   return {
@@ -160,7 +163,7 @@ export function stoplightWith(
     reading: readingSaid(reading.value),
     ...(reached.nextTier === null ? {} : { nextTier: reached.nextTier }),
     ...(reached.progress === null ? {} : { progress: reached.progress }),
-    ...fallingWith(reading, rungs),
+    ...(restDayOn(row, day) ? {} : fallingWith(reading, rungs)),
   }
 }
 

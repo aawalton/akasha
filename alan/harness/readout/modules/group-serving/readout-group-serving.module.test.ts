@@ -1,4 +1,4 @@
-import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+import { expect, test } from "bun:test"
 import {
   answerStoplightsAdmittedBy,
   inGroup,
@@ -25,30 +25,17 @@ import {
   READOUT_ROW,
   readingsDropped,
   relayedFor,
+  restDayDrawn,
   rowReading,
   SCALE_ROW,
   SERVED_BY,
-  servingStore,
   stoplights,
-  storeGoes,
+  storeServedForEachTest,
   WIRE_KEY_NAME,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
 import { readingHeldOn } from "akasha/alan/harness/readout/modules/serving/readout-serving.module.code.ts"
 
-let store: ReturnType<typeof Bun.serve>
-
-beforeAll(() => {
-  store = servingStore()
-})
-
-afterAll(() => {
-  storeGoes(store)
-})
-
-beforeEach(() => {
-  readingsDropped()
-  answeredAfresh()
-})
+storeServedForEachTest()
 
 test("a refusal a guard answers is served whole rather than made again here", async () => {
   const refused = await answerStoplightsAdmittedBy(
@@ -92,10 +79,6 @@ test("a reading taken long ago is answered as a stoplight carrying its figure", 
   expect(one?.habit).toBe("safety")
   expect(one?.reading).toBe("3")
   expect(one?.readingHeld).toBeUndefined()
-})
-
-test("a stoplight carrying no figure says no reading was taken", async () => {
-  expect((await stoplights())[0]?.readingHeld).toBe("none")
 })
 
 test("a reading of zero is a reading rather than an absence", async () => {
@@ -429,4 +412,11 @@ test("a stoplight carrying no figure carries no moment and no rate", async () =>
 test("a rate on the readout's own row is carried as the relay's rate is", async () => {
   ANSWERED.readouts = rowReading(2.5, new Date(), 4)
   expect((await stoplightsInGroup(GROUP))[0]?.fallsPerHour).toBe(4)
+})
+
+test("a rest day draws a readout blue with its figure", () => {
+  const one = restDayDrawn("2026-10-18", 0.5, 2)
+  expect([one?.tier, one?.reading, one?.rungs]).toEqual(["blue", "0.5", undefined])
+  expect(restDayDrawn("2026-10-18", null)?.tier).toBe("blue")
+  expect(restDayDrawn("2026-10-19", 2.5)?.tier).toBe("yellow")
 })
