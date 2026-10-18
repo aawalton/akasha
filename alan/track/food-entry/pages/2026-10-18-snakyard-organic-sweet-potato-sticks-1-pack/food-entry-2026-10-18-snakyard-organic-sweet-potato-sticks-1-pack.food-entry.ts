@@ -8,7 +8,7 @@ export const foodEntry20261018SnakyardOrganicSweetPotatoSticks1Pack = {
   title: "SnakYard organic sweet potato sticks (1 pack)",
   happenedAt: "2026-10-18T23:28:00.000Z",
   plantGrams: 80,
-  estimatedCalories: 250,
+  estimatedCalories: 240,
   createdAt: "2026-10-18T23:28:49.645Z",
-  updatedAt: "2026-10-18T23:28:50.519Z",
+  updatedAt: "2026-10-18T23:30:11.647Z",
 } as const satisfies FoodEntry
