@@ -7,7 +7,7 @@ export const kellyClarksonTieItUp = {
   title: "Tie It Up",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 2.798433,
+  ownLength: 2.7984333333333336,
   ownProgress: 2.798433,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonTieItUp = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

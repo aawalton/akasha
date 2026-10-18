@@ -7,7 +7,7 @@ export const kellyClarksonIDonTThinkAboutYou = {
   title: "I Don't Think About You",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 3.736883,
+  ownLength: 3.736883333333333,
   ownProgress: 3.736883,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonIDonTThinkAboutYou = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

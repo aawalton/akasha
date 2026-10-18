@@ -7,7 +7,7 @@ export const kellyClarksonCreepLive = {
   title: "Creep (Live)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 4.142433,
+  ownLength: 4.142433333333333,
   ownProgress: 4.142433,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonCreepLive = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

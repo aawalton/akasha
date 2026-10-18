@@ -9,6 +9,8 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMe = {
   partOfCollections: [
     "release/ariana-grande-santa-can-t-you-hear-me-live",
     "release/ariana-grande-santa-can-t-you-hear-me",
+    "release/kelly-clarkson-when-christmas-comes-around-again",
+    "release/kelly-clarkson-when-christmas-comes-around",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -33,7 +35,21 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMe = {
       externalId: "5XDcWDGnFLs3P3F0XfIpgN",
       externalLink: "https://open.spotify.com/track/5XDcWDGnFLs3P3F0XfIpgN",
     },
+    {
+      release: "release/kelly-clarkson-when-christmas-comes-around",
+      discNumber: 1,
+      position: 8,
+      externalId: "2O3MQ6H3gjrIWDcpeTrikT",
+      externalLink: "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT",
+    },
+    {
+      release: "release/kelly-clarkson-when-christmas-comes-around-again",
+      discNumber: 1,
+      position: 10,
+      externalId: "5KzUEetQhZwcQbOu6KCPfq",
+      externalLink: "https://open.spotify.com/track/5KzUEetQhZwcQbOu6KCPfq",
+    },
   ],
   createdAt: "2026-09-15T20:32:17.539Z",
-  updatedAt: "2026-09-24T19:58:28.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Track

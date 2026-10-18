@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const kellyClarksonChemistryDeluxeLighthouse = {
+  id: "01a14f45-022f-7496-a001-5dafe0c1902e",
+  type: "page-type/track",
+  slug: "kelly-clarkson-chemistry-deluxe-lighthouse",
+  ownLength: 3.3508833333333334,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/kelly-clarkson-chemistry-deluxe",
+    "release/kelly-clarkson-chemistry",
+    "release/kelly-clarkson-lighthouse",
+    "release/kelly-clarkson-when-chemistry-comes-around",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "lighthouse",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/kelly-clarkson" }],
+  trackKey: "lighthouse|3BmGtnKgCSGYIUhmivXKWX|201053",
+  song: "song/kelly-clarkson-lighthouse",
+  carriedBy: [
+    {
+      release: "release/kelly-clarkson-chemistry",
+      discNumber: 1,
+      position: 9,
+      externalId: "5lQfYRKNlAYxnJIvvaEJLO",
+      externalLink: "https://open.spotify.com/track/5lQfYRKNlAYxnJIvvaEJLO",
+    },
+    {
+      release: "release/kelly-clarkson-chemistry-deluxe",
+      discNumber: 1,
+      position: 9,
+      externalId: "4qVPRW1oJrnxhQETiauyn4",
+      externalLink: "https://open.spotify.com/track/4qVPRW1oJrnxhQETiauyn4",
+    },
+    {
+      release: "release/kelly-clarkson-lighthouse",
+      discNumber: 1,
+      position: 1,
+      externalId: "4NPYXzJyhR92H5hChEipAb",
+      externalLink: "https://open.spotify.com/track/4NPYXzJyhR92H5hChEipAb",
+    },
+    {
+      release: "release/kelly-clarkson-when-chemistry-comes-around",
+      discNumber: 1,
+      position: 1,
+      externalId: "7pS8bOn1YyfV7nwE36Hm2W",
+      externalLink: "https://open.spotify.com/track/7pS8bOn1YyfV7nwE36Hm2W",
+    },
+  ],
+  createdAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
+} as const satisfies Track

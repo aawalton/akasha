@@ -7,7 +7,7 @@ export const kellyClarksonPieceByPiece = {
   title: "Piece by Piece",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 4.295783,
+  ownLength: 4.2957833333333335,
   ownProgress: 4.295783,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonPieceByPiece = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

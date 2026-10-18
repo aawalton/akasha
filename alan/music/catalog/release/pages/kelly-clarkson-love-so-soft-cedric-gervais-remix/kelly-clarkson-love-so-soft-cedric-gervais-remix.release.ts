@@ -7,7 +7,7 @@ export const kellyClarksonLoveSoSoftCedricGervaisRemix = {
   title: "Love So Soft (Cedric Gervais Remix)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 3.259167,
+  ownLength: 3.2591666666666668,
   ownProgress: 3.259167,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonLoveSoSoftCedricGervaisRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

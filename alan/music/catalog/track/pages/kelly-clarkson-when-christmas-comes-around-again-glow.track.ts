@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const kellyClarksonWhenChristmasComesAroundAgainGlow = {
+  id: "01a14f45-0245-74dc-aeea-8268c0a1862a",
+  type: "page-type/track",
+  slug: "kelly-clarkson-when-christmas-comes-around-again-glow",
+  ownLength: 3.30465,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/kelly-clarkson-when-christmas-comes-around-again",
+    "release/kelly-clarkson-when-christmas-comes-around",
+    "release/kelly-clarkson-christmastry",
+    "release/kelly-clarkson-glow",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Glow",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/kelly-clarkson" }, { artistName: "Chris Stapleton" }],
+  trackKey: "glow|3BmGtnKgCSGYIUhmivXKWX,4YLtscXsxbVgi031ovDDdh|198279",
+  song: "song/kelly-clarkson-glow",
+  carriedBy: [
+    {
+      release: "release/kelly-clarkson-christmastry",
+      discNumber: 1,
+      position: 1,
+      externalId: "3vjdUWAQBltO1jafrMhTiF",
+      externalLink: "https://open.spotify.com/track/3vjdUWAQBltO1jafrMhTiF",
+    },
+    {
+      release: "release/kelly-clarkson-glow",
+      discNumber: 1,
+      position: 1,
+      externalId: "0l8jM3qhcrH0ecBbU9BCWR",
+      externalLink: "https://open.spotify.com/track/0l8jM3qhcrH0ecBbU9BCWR",
+    },
+    {
+      release: "release/kelly-clarkson-when-christmas-comes-around",
+      discNumber: 1,
+      position: 6,
+      externalId: "4nEJzW7MkSF8ojY7WJnoPt",
+      externalLink: "https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt",
+    },
+    {
+      release: "release/kelly-clarkson-when-christmas-comes-around-again",
+      discNumber: 1,
+      position: 8,
+      externalId: "1fCx8BkEuTDlbszKjpeVZR",
+      externalLink: "https://open.spotify.com/track/1fCx8BkEuTDlbszKjpeVZR",
+    },
+  ],
+  createdAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
+} as const satisfies Track

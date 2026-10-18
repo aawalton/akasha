@@ -7,7 +7,7 @@ export const kellyClarksonInvincibleRemixes = {
   title: "Invincible (Remixes)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 31.510867,
+  ownLength: 31.510866666666665,
   ownProgress: 31.510867,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonInvincibleRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

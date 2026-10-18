@@ -7,7 +7,7 @@ export const kellyClarksonThankful = {
   title: "Thankful",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 45.600167,
+  ownLength: 45.60016666666667,
   ownProgress: 45.600167,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonThankful = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.284Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

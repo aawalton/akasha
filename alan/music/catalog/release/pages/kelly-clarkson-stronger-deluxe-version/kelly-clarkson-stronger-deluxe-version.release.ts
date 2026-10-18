@@ -7,7 +7,7 @@ export const kellyClarksonStrongerDeluxeVersion = {
   title: "Stronger (Deluxe Version)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 61.879917,
+  ownLength: 61.87991666666667,
   ownProgress: 61.879917,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonStrongerDeluxeVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

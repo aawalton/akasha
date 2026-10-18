@@ -7,7 +7,7 @@ export const kellyClarksonLoveSoSoftDaveAudeRemix = {
   title: "Love So Soft (Dave Aude Remix)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 3.946117,
+  ownLength: 3.9461166666666667,
   ownProgress: 3.946117,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonLoveSoSoftDaveAudeRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

@@ -7,7 +7,7 @@ export const kellyClarksonIDareYouMultiLanguageDuets = {
   title: "I Dare You (Multi-Language Duets)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 21.646483,
+  ownLength: 21.646483333333332,
   ownProgress: 21.646483,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonIDareYouMultiLanguageDuets = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

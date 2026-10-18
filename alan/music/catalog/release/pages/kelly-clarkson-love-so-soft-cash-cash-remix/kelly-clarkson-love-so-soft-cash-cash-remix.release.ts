@@ -7,7 +7,7 @@ export const kellyClarksonLoveSoSoftCashCashRemix = {
   title: "Love So Soft (Cash Cash Remix)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 4.279283,
+  ownLength: 4.279283333333334,
   ownProgress: 4.279283,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonLoveSoSoftCashCashRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

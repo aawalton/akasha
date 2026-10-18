@@ -1,0 +1,63 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const kellyClarksonIDareYouLashRemixIDareYou = {
+  id: "01a14f45-0235-7155-b355-2bba6edd909a",
+  type: "page-type/track",
+  slug: "kelly-clarkson-i-dare-you-lash-remix-i-dare-you",
+  ownLength: 3.601783333333333,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/kelly-clarkson-i-dare-you-lash-remix",
+    "release/kelly-clarkson-i-dare-you-gozzi-remix",
+    "release/kelly-clarkson-i-dare-you-arkadi-remix",
+    "release/kelly-clarkson-i-dare-you-eden-prince-remix",
+    "release/kelly-clarkson-i-dare-you-multi-language-duets",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "I Dare You",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/kelly-clarkson" }],
+  trackKey: "idareyou|3BmGtnKgCSGYIUhmivXKWX|216107",
+  song: "song/kelly-clarkson-i-dare-you",
+  carriedBy: [
+    {
+      release: "release/kelly-clarkson-i-dare-you-arkadi-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "4hp1A7bD871SriZHEbyB4f",
+      externalLink: "https://open.spotify.com/track/4hp1A7bD871SriZHEbyB4f",
+    },
+    {
+      release: "release/kelly-clarkson-i-dare-you-eden-prince-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "281QNZ0GwUBL8sJcR0udgC",
+      externalLink: "https://open.spotify.com/track/281QNZ0GwUBL8sJcR0udgC",
+    },
+    {
+      release: "release/kelly-clarkson-i-dare-you-gozzi-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "0iH4bmMqYt9OMwzLdyNWEO",
+      externalLink: "https://open.spotify.com/track/0iH4bmMqYt9OMwzLdyNWEO",
+    },
+    {
+      release: "release/kelly-clarkson-i-dare-you-lash-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "32l7I9ZRymrPBk6u1qqepZ",
+      externalLink: "https://open.spotify.com/track/32l7I9ZRymrPBk6u1qqepZ",
+    },
+    {
+      release: "release/kelly-clarkson-i-dare-you-multi-language-duets",
+      discNumber: 1,
+      position: 1,
+      externalId: "0o58NWBiVXewJNfNDKQyjw",
+      externalLink: "https://open.spotify.com/track/0o58NWBiVXewJNfNDKQyjw",
+    },
+  ],
+  createdAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
+} as const satisfies Track

@@ -7,7 +7,7 @@ export const kellyClarksonRunRunRunFeatJohnLegend = {
   title: "Run Run Run (feat. John Legend)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 4.544817,
+  ownLength: 4.544816666666667,
   ownProgress: 4.544817,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonRunRunRunFeatJohnLegend = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.280Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

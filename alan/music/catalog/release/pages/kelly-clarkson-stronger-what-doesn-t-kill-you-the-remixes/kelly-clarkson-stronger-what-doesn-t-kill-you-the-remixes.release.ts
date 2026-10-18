@@ -7,7 +7,7 @@ export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixes = {
   title: "Stronger (What Doesn't Kill You) The Remixes",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 47.535533,
+  ownLength: 47.53553333333333,
   ownProgress: 47.535533,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

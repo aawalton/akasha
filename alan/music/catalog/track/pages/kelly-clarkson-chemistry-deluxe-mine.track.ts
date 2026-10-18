@@ -1,0 +1,63 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const kellyClarksonChemistryDeluxeMine = {
+  id: "01a14f45-0230-7c08-9061-4d0f0359369c",
+  type: "page-type/track",
+  slug: "kelly-clarkson-chemistry-deluxe-mine",
+  ownLength: 3.18345,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/kelly-clarkson-chemistry-deluxe",
+    "release/kelly-clarkson-chemistry",
+    "release/kelly-clarkson-when-chemistry-comes-around",
+    "release/kelly-clarkson-i-hate-love-feat-steve-martin",
+    "release/kelly-clarkson-mine-ty-sunderland-remix",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "mine",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/kelly-clarkson" }],
+  trackKey: "mine|3BmGtnKgCSGYIUhmivXKWX|191007",
+  song: "song/kelly-clarkson-mine",
+  carriedBy: [
+    {
+      release: "release/kelly-clarkson-chemistry",
+      discNumber: 1,
+      position: 2,
+      externalId: "20XB21FHWhdyWTs5z7p9Vl",
+      externalLink: "https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl",
+    },
+    {
+      release: "release/kelly-clarkson-chemistry-deluxe",
+      discNumber: 1,
+      position: 2,
+      externalId: "1x17xorFkQKwIkmPAO77a9",
+      externalLink: "https://open.spotify.com/track/1x17xorFkQKwIkmPAO77a9",
+    },
+    {
+      release: "release/kelly-clarkson-i-hate-love-feat-steve-martin",
+      discNumber: 1,
+      position: 3,
+      externalId: "2NoXLj2xhPyvo1YhnQqo0e",
+      externalLink: "https://open.spotify.com/track/2NoXLj2xhPyvo1YhnQqo0e",
+    },
+    {
+      release: "release/kelly-clarkson-mine-ty-sunderland-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "2ncHerwIKtekTEW46iR77b",
+      externalLink: "https://open.spotify.com/track/2ncHerwIKtekTEW46iR77b",
+    },
+    {
+      release: "release/kelly-clarkson-when-chemistry-comes-around",
+      discNumber: 1,
+      position: 4,
+      externalId: "31bR8LtT0mdOh2GPdjeyhV",
+      externalLink: "https://open.spotify.com/track/31bR8LtT0mdOh2GPdjeyhV",
+    },
+  ],
+  createdAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
+} as const satisfies Track

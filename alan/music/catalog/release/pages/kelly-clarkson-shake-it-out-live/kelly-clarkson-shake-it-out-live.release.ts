@@ -7,7 +7,7 @@ export const kellyClarksonShakeItOutLive = {
   title: "Shake It Out (Live)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 4.481167,
+  ownLength: 4.481166666666667,
   ownProgress: 4.481167,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonShakeItOutLive = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.280Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

@@ -1,0 +1,63 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const kellyClarksonChemistryDeluxeFavoriteKindOfHigh = {
+  id: "01a14f45-022f-724b-8d1b-47a0f8969faf",
+  type: "page-type/track",
+  slug: "kelly-clarkson-chemistry-deluxe-favorite-kind-of-high",
+  ownLength: 2.9207833333333335,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/kelly-clarkson-chemistry-deluxe",
+    "release/kelly-clarkson-chemistry",
+    "release/kelly-clarkson-christmastry",
+    "release/kelly-clarkson-i-hate-love-feat-steve-martin",
+    "release/kelly-clarkson-favorite-kind-of-high-david-guetta-remix",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "favorite kind of high",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/kelly-clarkson" }],
+  trackKey: "favoritekindofhigh|3BmGtnKgCSGYIUhmivXKWX|175247",
+  song: "song/kelly-clarkson-favorite-kind-of-high",
+  carriedBy: [
+    {
+      release: "release/kelly-clarkson-chemistry",
+      discNumber: 1,
+      position: 7,
+      externalId: "63ZSZznbGQhzJhOHPZ6WkT",
+      externalLink: "https://open.spotify.com/track/63ZSZznbGQhzJhOHPZ6WkT",
+    },
+    {
+      release: "release/kelly-clarkson-chemistry-deluxe",
+      discNumber: 1,
+      position: 7,
+      externalId: "4l4b9H2FXhR8sIQaFEL9jd",
+      externalLink: "https://open.spotify.com/track/4l4b9H2FXhR8sIQaFEL9jd",
+    },
+    {
+      release: "release/kelly-clarkson-christmastry",
+      discNumber: 1,
+      position: 4,
+      externalId: "0OcFH8pzpnJaKth3qLgVlE",
+      externalLink: "https://open.spotify.com/track/0OcFH8pzpnJaKth3qLgVlE",
+    },
+    {
+      release: "release/kelly-clarkson-favorite-kind-of-high-david-guetta-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "71nTIk4KJVsm82Xr5vq86S",
+      externalLink: "https://open.spotify.com/track/71nTIk4KJVsm82Xr5vq86S",
+    },
+    {
+      release: "release/kelly-clarkson-i-hate-love-feat-steve-martin",
+      discNumber: 1,
+      position: 2,
+      externalId: "4UuNghkH4i6Ppg9aw6AEwM",
+      externalLink: "https://open.spotify.com/track/4UuNghkH4i6Ppg9aw6AEwM",
+    },
+  ],
+  createdAt: "2026-10-18T13:48:05.026Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
+} as const satisfies Track

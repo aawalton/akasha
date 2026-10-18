@@ -7,7 +7,7 @@ export const kellyClarksonHeatWolvesByNightRemix = {
   title: "Heat (Wolves by Night Remix)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 3.154467,
+  ownLength: 3.1544666666666665,
   ownProgress: 3.154467,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonHeatWolvesByNightRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

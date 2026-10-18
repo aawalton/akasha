@@ -7,7 +7,7 @@ export const kellyClarksonAllIWantForChristmasIsYou = {
   title: "All I Want For Christmas Is You",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 3.779883,
+  ownLength: 3.7798833333333333,
   ownProgress: 3.779883,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonAllIWantForChristmasIsYou = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.262Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

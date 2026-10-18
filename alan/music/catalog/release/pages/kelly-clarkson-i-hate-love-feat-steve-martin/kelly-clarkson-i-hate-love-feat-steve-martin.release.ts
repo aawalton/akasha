@@ -7,7 +7,7 @@ export const kellyClarksonIHateLoveFeatSteveMartin = {
   title: "i hate love (feat. Steve Martin)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 13.240033,
+  ownLength: 13.240033333333333,
   ownProgress: 13.240033,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonIHateLoveFeatSteveMartin = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release

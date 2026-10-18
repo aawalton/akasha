@@ -7,7 +7,7 @@ export const kellyClarksonLighthouseMotiRemix = {
   title: "lighthouse (MOTi Remix)",
   partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
-  ownLength: 2.914283,
+  ownLength: 2.914283333333333,
   ownProgress: 2.914283,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const kellyClarksonLighthouseMotiRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:37:27.000Z",
+  updatedAt: "2026-10-18T13:48:05.026Z",
 } as const satisfies Release
