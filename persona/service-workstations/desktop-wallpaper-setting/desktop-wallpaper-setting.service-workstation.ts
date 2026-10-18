@@ -5,7 +5,7 @@ export const desktopWallpaperSetting = {
   type: "page-type/service-workstation",
   slug: "desktop-wallpaper-setting",
   definition: "the service setting the desktop wallpaper to the persona Alan messaged last",
-  enabled: true,
+  enabled: false,
   systemd: {
     restart: "on-failure",
     restartDelaySeconds: 5,
@@ -26,5 +26,5 @@ export const desktopWallpaperSetting = {
     },
   ],
   createdAt: "2026-09-06T20:32:20.091Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-18T21:01:57.984Z",
 } as const satisfies ServiceWorkstation
