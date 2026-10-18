@@ -13,6 +13,15 @@ local SWALLOWED_KEPT = 40
 
 _G.__ui_swallowed = {}
 
+function _G.__ui_swallowed_cleared()
+  _G.__ui_swallowed = {}
+  return 0
+end
+
+function _G.__ui_swallowed_said()
+  return table.concat(_G.__ui_swallowed, "\n")
+end
+
 function _G.__ui_swallow(where, thrown)
   local held = _G.__ui_swallowed
   if #held >= SWALLOWED_KEPT then return end

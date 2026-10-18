@@ -54,12 +54,10 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
     ...(window.stages === undefined ? {} : { stages: window.stages }),
   })
   try {
-    await staged.harness.load("__ui_swallowed = {}")
+    await staged.harness.load("return __ui_swallowed_cleared()")
     await staged.harness.load(window.opens)
     await settled(staged.harness)
-    const swallowed = String(
-      await staged.harness.load('return table.concat(__ui_swallowed or {}, "\\n")')
-    )
+    const swallowed = String(await staged.harness.load("return __ui_swallowed_said()"))
       .split("\n")
       .filter((one) => one !== "")
     const sceneNamed = String(
