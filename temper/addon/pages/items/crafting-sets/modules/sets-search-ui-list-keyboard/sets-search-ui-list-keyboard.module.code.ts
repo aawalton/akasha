@@ -50,6 +50,10 @@ const favoriteIconTexts = searchUI.favoriteIconTexts
 
 const NO_SET = "No set matches these filters."
 
+const NAME_WIDTH = 300
+
+const ICON_COLUMN_WIDTH = 110
+
 const STATES = new LuaTable<SetsSearchUIList, DataStateView>()
 
 function anchorOffset(this: void, offset: number | string | undefined): number | undefined {
@@ -180,28 +184,28 @@ listClass.Setup = function (this: SetsSearchUIList) {
     columnName: "Favorite",
   })
   headerAndColumnsMinAndMaxData.set(asSearchUIControl(this.headerName), {
-    minX: 400,
-    maxX: 400,
+    minX: NAME_WIDTH,
+    maxX: NAME_WIDTH,
     columnName: "Name",
   })
   headerAndColumnsMinAndMaxData.set(asSearchUIControl(this.headerSetType), {
-    minX: 40,
-    maxX: 40,
+    minX: ICON_COLUMN_WIDTH,
+    maxX: ICON_COLUMN_WIDTH,
     columnName: "SetType",
   })
   headerAndColumnsMinAndMaxData.set(asSearchUIControl(this.headerArmorOrWeaponType), {
-    minX: 40,
-    maxX: 40,
+    minX: ICON_COLUMN_WIDTH,
+    maxX: ICON_COLUMN_WIDTH,
     columnName: "ArmorOrWeaponType",
   })
   headerAndColumnsMinAndMaxData.set(asSearchUIControl(this.headerEquipSlot), {
-    minX: 40,
-    maxX: 40,
+    minX: ICON_COLUMN_WIDTH,
+    maxX: ICON_COLUMN_WIDTH,
     columnName: "EquipSlot",
   })
   headerAndColumnsMinAndMaxData.set(asSearchUIControl(this.headerDropLocations), {
     minX: 300,
-    maxX: "calcByTLCWidth,-650",
+    maxX: "calcByTLCWidth,-760",
     factorMultiplier: 2,
     columnName: "DropLocations",
   })

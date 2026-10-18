@@ -16,7 +16,11 @@ export const setsSearchUiListKeyboard = {
       decisionKind: "decision-kind/departure",
       statement: "The sets are tables the add-on carries, so the list never loads or fails.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each icon column is wide enough to show its header on one line.",
+    },
   ],
   createdAt: "2026-09-02T13:10:46.944Z",
-  updatedAt: "2026-09-25T18:58:12.000Z",
+  updatedAt: "2026-10-18T19:42:21.229Z",
 } as const satisfies Module
