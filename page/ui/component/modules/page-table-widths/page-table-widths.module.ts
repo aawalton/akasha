@@ -6,6 +6,12 @@ export const pageTableWidths = {
   slug: "page-table-widths",
   definition: "the width a table column is drawn at, worked out from the values in it",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A column of records holding links is as wide as the links a row draws.",
+    },
+  ],
   createdAt: "2026-09-01T11:50:09.132Z",
-  updatedAt: "2026-09-15T18:36:57.000Z",
+  updatedAt: "2026-10-18T16:06:04.201Z",
 } as const satisfies Module

@@ -36,6 +36,7 @@ const CHAR_PX = 8
 const CELL_PADDING_PX = 16
 const MIN_COLUMN_PX = 96
 const PICTOGRAPH_CHARS = 2.5
+const FIXED_BADGE_CHARS = 16
 
 const PICTOGRAPH = /\p{Extended_Pictographic}/u
 const JOINING = /\p{M}|‍/u
@@ -123,10 +124,29 @@ function multiSelectDisplayLength(
   return shown.reduce((sum, l) => sum + l.length, 0) + (shown.length - 1) * 2
 }
 
+function linksDisplayLength(
+  value: ReadonlyJSONValue | undefined,
+  def: PropertyDefinition
+): number | null {
+  const links = (def.fields ?? []).filter((field) => field.type === "url")
+  if (links.length === 0 || value == null) return null
+  const entries = (Array.isArray(value) ? value : [value]).filter(isJsonRecord)
+  const shown = entries.flatMap((entry) =>
+    links
+      .map((field) => entry[field.id])
+      .filter((one): one is string => typeof one === "string" && one !== "")
+  )
+  if (shown.length === 0) return null
+  const drawn = shown.reduce((sum, url) => sum + Math.min(FIXED_BADGE_CHARS, textWidth(url)), 0)
+  return drawn + (shown.length - 1) * 2
+}
+
 function propertyValueDisplayLength(
   value: ReadonlyJSONValue | undefined,
   def: PropertyDefinition
 ): number {
+  const links = linksDisplayLength(value, def)
+  if (links !== null) return links
   const type: PropertyType = def.type
   switch (type) {
     case "instant":
