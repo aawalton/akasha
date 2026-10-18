@@ -62,6 +62,12 @@ function paintWindow(window: TopLevelWindow): undefined {
   paintSurface(surface, WINDOW_LEVEL)
   surface.SetDrawLayer(DL_BACKGROUND)
   surface.SetDrawLevel(SURFACE_DRAW_LEVEL)
+  window.SetClampedToScreenInsets(
+    -BACKDROP_OVERHANG,
+    -BACKDROP_OVERHANG,
+    BACKDROP_OVERHANG,
+    BACKDROP_OVERHANG
+  )
   return undefined
 }
 

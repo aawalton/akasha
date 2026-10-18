@@ -21,6 +21,10 @@ export const windowFrame = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A window kept on the screen keeps that reach on the screen too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The title is set as the game's dialog title is, at the top left.",
     },
     {
@@ -76,5 +80,5 @@ export const windowFrame = {
     },
   ],
   createdAt: "2026-09-25T13:01:17.345Z",
-  updatedAt: "2026-10-18T17:31:39.160Z",
+  updatedAt: "2026-10-18T18:54:15.288Z",
 } as const satisfies Module
