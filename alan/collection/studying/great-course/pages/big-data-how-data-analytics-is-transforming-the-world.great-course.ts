@@ -7,8 +7,8 @@ export const bigDataHowDataAnalyticsIsTransformingTheWorld = {
   title: "Big Data: How Data Analytics Is Transforming the World",
   status: "completed",
   unit: "unit/minutes",
-  ownLength: 756.6,
-  ownProgress: 662.025,
+  ownLength: 756.75,
+  ownProgress: 756.75,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/business-and-finance-great-courses",
@@ -25,5 +25,6 @@ export const bigDataHowDataAnalyticsIsTransformingTheWorld = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-18T19:57:51.058Z",
+  progressedAt: "2026-10-18T19:57:51.058Z",
 } as const satisfies GreatCourse
