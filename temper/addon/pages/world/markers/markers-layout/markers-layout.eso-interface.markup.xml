@@ -36,12 +36,9 @@
 			<Dimensions x="320" y="180" />
 			<Anchor point="TOPRIGHT" relativeTo="GuiRoot" relativePoint="TOPRIGHT" offsetX="-150" offsetY="150"/>
 			<Controls>
-				<Backdrop name="$(parent)BG" alpha="0.8" centerColor="000000" edgeColor="000000">
-					<AnchorFill />
-					<Edge edgeSize="3"/>
-				</Backdrop>
+				<Backdrop name="$(parent)BG" inherits="ZO_DefaultBackdrop" />
 
-				<Label name="$(parent)Name" font="ZoFontGamepadBold27" horizontalAlignment="1" verticalAlignment="1" text="Transmission Progress">
+				<Label name="$(parent)Name" font="ZoFontWinH3" horizontalAlignment="1" verticalAlignment="1" text="Transmission Progress">
 					<Anchor point="TOP" relativePoint="TOP" relativeTo="$(parent)" offsetY="10" />
 					<Dimensions x="300" y="45" />
 				</Label>
@@ -55,7 +52,7 @@
 							<AnchorFill />
 							<Edge edgeSize="1"/>
 						</Backdrop>
-						<Label name="$(parent)Text" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Progress (0%)">
+						<Label name="$(parent)Text" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Progress (0%)">
 							<Dimensions x="300" y="25" />
 							<Anchor point="CENTER" relativePoint="CENTER" relativeTo="$(parent)" offsetX="0" offsetY="0" />
 						</Label>
@@ -65,11 +62,11 @@
 					</OnValueChanged>
 				</StatusBar>
 
-				<Label name="$(parent)Estimated" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Estimated Time Remaining: 27000ms">
+				<Label name="$(parent)Estimated" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Estimated Time Remaining: 27000ms">
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)Bar" offsetX="0" offsetY="10" />
 					<Dimensions x="300" y="25" />
 				</Label>
-				<Label name="$(parent)Elapsed" font="ZoFontGamepadBold20" horizontalAlignment="1" verticalAlignment="1" text="Elapsed Time: 5000ms">
+				<Label name="$(parent)Elapsed" font="ZoFontGame" horizontalAlignment="1" verticalAlignment="1" text="Elapsed Time: 5000ms">
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)Estimated" offsetX="0" offsetY="10" />
 					<Dimensions x="300" y="25" />
 				</Label>

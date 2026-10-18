@@ -54,7 +54,8 @@ export const temperAddonWorldMarkers = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The markers and the windows look as they look in More Markers.",
+      statement:
+        "The markers look as they look in More Markers, and its windows take the game's look.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,5 +63,5 @@ export const temperAddonWorldMarkers = {
     },
   ],
   createdAt: "2026-09-26T16:21:04.460Z",
-  updatedAt: "2026-09-26T16:21:52.000Z",
+  updatedAt: "2026-10-18T17:44:33.353Z",
 } as const satisfies Domain
