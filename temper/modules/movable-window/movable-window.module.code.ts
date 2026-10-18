@@ -37,10 +37,19 @@ export function createMovableWindow(config: MovableWindowConfig): MovableWindowH
     savePosition({ left: window.GetLeft(), top: window.GetTop() })
   })
 
+  function onScreen(this: void, saved: WindowPosition): boolean {
+    return (
+      saved.left >= 0 &&
+      saved.top >= 0 &&
+      saved.left < GuiRoot.GetWidth() &&
+      saved.top < GuiRoot.GetHeight()
+    )
+  }
+
   function reanchor(this: void): undefined {
     window.ClearAnchors()
     const saved = loadPosition()
-    if (saved !== undefined) {
+    if (saved !== undefined && onScreen(saved)) {
       window.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, saved.left, saved.top)
       return
     }

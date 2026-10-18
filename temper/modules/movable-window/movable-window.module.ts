@@ -33,6 +33,10 @@ export const movableWindow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A saved position off the screen is passed over for the caller's default anchor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A saved position is anchored from the top left of the game's root.",
     },
     {
@@ -45,5 +49,5 @@ export const movableWindow = {
     },
   ],
   createdAt: "2026-09-02T06:17:39.024Z",
-  updatedAt: "2026-09-15T18:42:24.000Z",
+  updatedAt: "2026-10-18T19:36:12.387Z",
 } as const satisfies Module
