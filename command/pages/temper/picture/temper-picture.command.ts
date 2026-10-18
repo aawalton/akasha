@@ -48,6 +48,10 @@ export const temperPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The answer says whether that window is shown, what hides it, and the scene up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The answer names the commit the addon was built at, so nothing reads as current.",
     },
     {
@@ -90,5 +94,5 @@ export const temperPicture = {
     { argument: "argument/out", required: true },
   ],
   createdAt: "2026-09-22T18:35:18.990Z",
-  updatedAt: "2026-10-18T20:23:03.716Z",
+  updatedAt: "2026-10-18T20:24:07.218Z",
 } as const satisfies Command

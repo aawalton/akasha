@@ -62,6 +62,21 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
     )
       .split("\n")
       .filter((one) => one !== "")
+    const sceneNamed = String(
+      await staged.harness.load(
+        "local now = SCENE_MANAGER:GetCurrentScene() return now ~= nil and now:GetName() or ''"
+      )
+    )
+    const hiddenBy = String(
+      await staged.harness.load(
+        `local at = WINDOW_MANAGER:GetControlByName(${JSON.stringify(window.control)})
+        while at ~= nil do
+          if at:IsControlHidden() then return at:GetName() end
+          at = at:GetParent()
+        end
+        return ''`
+      )
+    )
     const snapshot = await staged.harness.snapshot(window.control)
     if (snapshot === null) {
       return refusedBy([
@@ -91,6 +106,8 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
       `the game's interface is up with ${String(staged.refused.length)} of its files refused`,
       `\`${window.control}\` sits at ${Math.round(snapshot.left)}, ${Math.round(snapshot.top)}` +
         ` and is ${Math.round(snapshot.width)} by ${Math.round(snapshot.height)}`,
+      hiddenBy === "" ? "it is shown" : `it is hidden, by \`${hiddenBy}\``,
+      sceneNamed === "" ? "no scene is up" : `the scene up is \`${sceneNamed}\``,
       lacking.size === 0
         ? "every texture drawn was found"
         : `${String(lacking.size)} texture(s) drawn were found in neither the game nor an add-on:` +
