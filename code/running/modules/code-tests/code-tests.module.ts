@@ -48,7 +48,7 @@ export const codeTests = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What one file spent says whether that peak was measured.",
+      statement: "A file's answer says if its peak was measured and what a clock kill found.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -419,5 +419,5 @@ export const codeTests = {
     },
   ],
   createdAt: "2026-08-29T18:09:46.079Z",
-  updatedAt: "2026-09-25T19:40:18.000Z",
+  updatedAt: "2026-10-18T14:50:34.614Z",
 } as const satisfies Module

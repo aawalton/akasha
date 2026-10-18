@@ -106,6 +106,7 @@ type Slowed = {
   readonly path: string
   readonly cpuSeconds: number
   readonly ended?: Ended
+  readonly stalled?: string
 }
 
 type Ceilings = {
@@ -125,6 +126,7 @@ export type Spent = {
   readonly signal: string | null
   readonly code: number
   readonly out: string
+  readonly stalled?: string
 }
 
 type Summary = {
@@ -388,6 +390,7 @@ async function spentIn(
         signal: done.signal,
         code: done.code,
         out: `${done.out}${done.err}`,
+        ...(done.stalled === undefined ? {} : { stalled: done.stalled }),
       }
     }
   }
@@ -413,7 +416,9 @@ function endedIn(each: readonly Spent[], ceilings: Ceilings): readonly Slowed[] 
   const found: Slowed[] = []
   for (const one of each) {
     const ended = endedOf(one, ceilings)
-    if (ended !== null) found.push({ path: one.path, cpuSeconds: one.cpuSeconds, ended })
+    if (ended === null) continue
+    const { path, cpuSeconds, stalled } = one
+    found.push({ path, cpuSeconds, ended, ...(stalled === undefined ? {} : { stalled }) })
   }
   return found
 }
