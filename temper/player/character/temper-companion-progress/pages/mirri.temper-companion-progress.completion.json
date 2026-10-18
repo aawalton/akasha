@@ -1,34 +1,12 @@
 {
   "build": {
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened",
-        "isEmpty": false
-      }
+    "skillAbilityIds": {
+      "1": 153685,
+      "2": 155408,
+      "3": 157287,
+      "4": 154790,
+      "5": 153066,
+      "6": 157259
     },
     "armor": {
       "1": {
@@ -116,14 +94,36 @@
         "isEmpty": true
       }
     },
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
     "companionId": 2,
-    "skillAbilityIds": {
-      "1": 153685,
-      "2": 155408,
-      "3": 157287,
-      "4": 154790,
-      "5": 153066,
-      "6": 157259
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
+      }
     }
   },
   "targetBuildHash": "AjEAItC0LQtC0LQtDQ0NGNOzqtY7WAA",
