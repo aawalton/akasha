@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"definer.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a0e92e-5f9d-7000-9766-6e4e478169c9"}
-{"propertySlug":"role","path":"agent/seat/pages/astra/astra.seat.ts","id":"01a11bee-f399-7000-a705-fdd4e02d8ca0"}
 {"propertySlug":"role","path":"agent/seat/pages/athena/athena.seat.ts","id":"01a11c36-e042-7000-95a1-6bb349327cf7"}
 {"propertySlug":"role","path":"agent/seat/pages/ember/ember.seat.ts","id":"01a11baf-5fc0-7000-85d2-7cfbcbde7521"}
 {"propertySlug":"role","path":"persona/pages/aine/aine.persona.ts","id":"019eb8d9-abdd-7890-b2cb-ec3e9dbd8b19"}
