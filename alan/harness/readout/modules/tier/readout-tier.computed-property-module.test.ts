@@ -4,9 +4,12 @@ import {
   falls,
   placesFor,
   readingSaid,
+  restDayOn,
   rungsIn,
   statedAt,
   tierAt,
+  tierOn,
+  weekdayOf,
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 
 const CLIMBING = rungsIn({ redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 })
@@ -170,6 +173,39 @@ test("an inbox at empty is blue and one over a hundred is black", () => {
   expect(tierAt(0, lowest)?.tier).toBe("blue")
   expect(tierAt(101, lowest)?.tier).toBe("black")
   expect(tierAt(9, lowest)?.tier).toBe("green")
+})
+
+const RESTS_SUNDAY = { restDays: ["sunday"] }
+
+const SUNDAY = "2026-10-18"
+
+const MONDAY = "2026-10-19"
+
+test("a day's weekday is the weekday of its calendar date", () => {
+  expect(weekdayOf(SUNDAY)).toBe("sunday")
+  expect(weekdayOf(MONDAY)).toBe("monday")
+  expect(weekdayOf("2026-03-08")).toBe("sunday")
+  expect(weekdayOf("not a day")).toBeNull()
+})
+
+test("a readout rests only on the weekdays it names", () => {
+  expect(restDayOn(RESTS_SUNDAY, SUNDAY)).toBe(true)
+  expect(restDayOn(RESTS_SUNDAY, MONDAY)).toBe(false)
+  expect(restDayOn({}, SUNDAY)).toBe(false)
+})
+
+test("a readout on a rest day is blue whatever its reading, and with no reading", () => {
+  const blue = { tier: "blue", nextTier: null, progress: null } as const
+  expect(tierOn(RESTS_SUNDAY, SUNDAY, 0, CLIMBING)).toEqual(blue)
+  expect(tierOn(RESTS_SUNDAY, SUNDAY, 2.5, CLIMBING)).toEqual(blue)
+  expect(tierOn(RESTS_SUNDAY, SUNDAY, null, CLIMBING)).toEqual(blue)
+  expect(tierOn(RESTS_SUNDAY, SUNDAY, null, [])).toEqual(blue)
+})
+
+test("a readout off its rest day is colored by its scale", () => {
+  expect(tierOn(RESTS_SUNDAY, MONDAY, 2.5, CLIMBING)).toEqual(tierAt(2.5, CLIMBING))
+  expect(tierOn({}, SUNDAY, 0.5, CLIMBING)?.tier).toBe("black")
+  expect(tierOn(RESTS_SUNDAY, MONDAY, null, CLIMBING)).toBeNull()
 })
 
 test("a figure is floored rather than rounded", () => {

@@ -5,7 +5,7 @@ export type Rung = {
   readonly color: TierColor
 }
 
-type Tiered = {
+export type Tiered = {
   readonly tier: TierColor
   readonly nextTier: TierColor | null
   readonly progress: number | null
@@ -125,6 +125,34 @@ export function tierAt(reading: number, rungs: readonly Rung[]): Tiered | null {
   if (climbs(rungs)) return climbedTo(reading, rungs)
   if (falls(rungs)) return fellTo(reading, rungs)
   return null
+}
+
+export const REST_DAY_COLOR: TierColor = "blue"
+
+const REST_DAYS = "restDays"
+
+const WEEKDAYS = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"]
+
+const RESTING: Tiered = { tier: REST_DAY_COLOR, nextTier: null, progress: null }
+
+export function weekdayOf(day: string): string | null {
+  return WEEKDAYS[new Date(`${day}T12:00:00Z`).getUTCDay()] ?? null
+}
+
+export function restDayOn(readout: Readonly<Record<string, unknown>>, day: string): boolean {
+  const restDays = readout[REST_DAYS]
+  const weekday = weekdayOf(day)
+  return Array.isArray(restDays) && weekday !== null && restDays.includes(weekday)
+}
+
+export function tierOn(
+  readout: Readonly<Record<string, unknown>>,
+  day: string,
+  reading: number | null,
+  rungs: readonly Rung[]
+): Tiered | null {
+  if (restDayOn(readout, day)) return RESTING
+  return reading === null ? null : tierAt(reading, rungs)
 }
 
 function withoutSignedZero(said: number): number {

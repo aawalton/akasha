@@ -147,6 +147,22 @@ export const readoutTier = {
       statement: "Each tier has one glyph named here.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A readout is blue on a rest day it names, whatever its reading and with none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rest day is read off the readout's page rather than named here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The day a color is worked out for is handed in rather than read off the clock.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day's weekday is the weekday of its calendar date.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here names a readout.",
     },
@@ -160,5 +176,5 @@ export const readoutTier = {
     },
   ],
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-10-18T13:45:21.330Z",
+  updatedAt: "2026-10-18T14:02:51.080Z",
 } as const satisfies ComputedPropertyModule
