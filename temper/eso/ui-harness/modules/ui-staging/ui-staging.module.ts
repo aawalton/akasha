@@ -68,6 +68,10 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every addon is announced loaded together once each has been announced alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A listener raising at that announcement is named among the refused.",
     },
     {
@@ -207,5 +211,5 @@ export const uiStaging = {
     },
   ],
   createdAt: "2026-09-22T18:33:40.383Z",
-  updatedAt: "2026-09-25T21:18:20.000Z",
+  updatedAt: "2026-10-18T18:47:20.080Z",
 } as const satisfies Module
