@@ -54,8 +54,14 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
     ...(window.stages === undefined ? {} : { stages: window.stages }),
   })
   try {
+    await staged.harness.load("__ui_swallowed = {}")
     await staged.harness.load(window.opens)
     await settled(staged.harness)
+    const swallowed = String(
+      await staged.harness.load('return table.concat(__ui_swallowed or {}, "\\n")')
+    )
+      .split("\n")
+      .filter((one) => one !== "")
     const snapshot = await staged.harness.snapshot(window.control)
     if (snapshot === null) {
       return refusedBy([
@@ -89,6 +95,10 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
         ? "every texture drawn was found"
         : `${String(lacking.size)} texture(s) drawn were found in neither the game nor an add-on:` +
           ` ${[...lacking].sort().join(", ")}`,
+      swallowed.length === 0
+        ? "opening it raised no Lua error the sandbox ran past"
+        : `opening it raised ${String(swallowed.length)} Lua error(s) the sandbox ran past:`,
+      ...swallowed,
     ])
   } finally {
     await staged.harness.close()

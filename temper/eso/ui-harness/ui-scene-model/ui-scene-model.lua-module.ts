@@ -33,6 +33,10 @@ export const uiSceneModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A callback's raise is kept among the errors the sandbox ran past.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A fragment is the control that fragment was made over and nothing more.",
     },
     {
@@ -45,5 +49,5 @@ export const uiSceneModel = {
     },
   ],
   createdAt: "2026-09-22T18:57:57.474Z",
-  updatedAt: "2026-09-22T18:59:00.000Z",
+  updatedAt: "2026-10-18T20:23:03.716Z",
 } as const satisfies LuaModule

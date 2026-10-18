@@ -22,7 +22,12 @@ Scene.__index = Scene
 local function told(scene, was, now)
   local held = scene.uiCallbacks.StateChange
   if held == nil then return end
-  for _, callback in ipairs(held) do pcall(callback, was, now) end
+  for _, callback in ipairs(held) do
+    local ok, thrown = pcall(callback, was, now)
+    if not ok and _G.__ui_swallow ~= nil then
+      _G.__ui_swallow("scene " .. tostring(scene.uiName) .. " " .. tostring(now), thrown)
+    end
+  end
 end
 
 local function moved(scene, now)

@@ -9,6 +9,20 @@ local byEvent = {}
 local updates = {}
 local later = {}
 
+local SWALLOWED_KEPT = 40
+
+_G.__ui_swallowed = {}
+
+function _G.__ui_swallow(where, thrown)
+  local held = _G.__ui_swallowed
+  if #held >= SWALLOWED_KEPT then return end
+  local said = tostring(where) .. ": " .. string.match(tostring(thrown), "^[^\n]*")
+  for _, one in ipairs(held) do
+    if one == said then return end
+  end
+  insert(held, said)
+end
+
 local EventManager = {}
 
 function EventManager:RegisterForEvent(namespace, event, callback)
@@ -96,6 +110,7 @@ function _G.__ui_raise(event, ...)
   for _, one in ipairs(waiting) do
     local ok, thrown = pcall(one.callback, event, ...)
     ran = ran + 1
+    if not ok then _G.__ui_swallow("event " .. tostring(event) .. " in " .. tostring(one.namespace), thrown) end
     if not ok and failed == nil then failed = thrown end
   end
   if failed ~= nil then error(failed, 0) end
@@ -129,7 +144,8 @@ local function frame()
     for _, key in ipairs(updatesOf(control)) do
       local handler = control.uiHandlers[key]
       if handler ~= nil then
-        pcall(handler, control, now)
+        local ok, thrown = pcall(handler, control, now)
+        if not ok then _G.__ui_swallow(tostring(control.uiName) .. " " .. key, thrown) end
         ran = ran + 1
       end
     end
@@ -145,6 +161,7 @@ local function runLater()
     local ok, thrown = pcall(one.callback)
     ran = ran + 1
     if not ok then
+      _G.__ui_swallow("work put off to later", thrown)
       for rest = at + 1, #held do insert(later, held[rest]) end
       error(thrown, 0)
     end

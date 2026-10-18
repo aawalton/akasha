@@ -79,7 +79,11 @@ export const uiEventModel = {
       decisionKind: "decision-kind/departure",
       statement: "An update that throws in a frame is run past, as the game runs past it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every error run past is kept, once each, so a caller can name it.",
+    },
   ],
   createdAt: "2026-09-22T14:36:26.746Z",
-  updatedAt: "2026-10-18T19:00:38.569Z",
+  updatedAt: "2026-10-18T20:23:03.716Z",
 } as const satisfies LuaModule

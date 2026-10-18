@@ -71,6 +71,10 @@ export const temperPicture = {
       statement: "The answer names every texture drawn that neither the game nor an add-on has.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer names every Lua error the sandbox ran past while opening the window.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges what the picture shows.",
     },
@@ -86,5 +90,5 @@ export const temperPicture = {
     { argument: "argument/out", required: true },
   ],
   createdAt: "2026-09-22T18:35:18.990Z",
-  updatedAt: "2026-09-25T18:29:44.000Z",
+  updatedAt: "2026-10-18T20:23:03.716Z",
 } as const satisfies Command
