@@ -7,9 +7,9 @@ export const moveVrUpstairs = {
   title: "Move VR Upstairs",
   toDoCategory: "health",
   toDoDueDate: "2026-10-18",
-  priority: "p2",
+  priority: "p3",
   toDoSortOrder: 42,
   toDoValue: "value/health",
   createdAt: "2026-10-18T14:30:27.439Z",
-  updatedAt: "2026-10-18T14:30:27.439Z",
+  updatedAt: "2026-10-18T14:30:34.050Z",
 } as const satisfies ToDo
