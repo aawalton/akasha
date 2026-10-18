@@ -166,9 +166,17 @@ local function iconsSpaced(text, face, size, scale)
   end))
 end
 
+local UPPERCASE = _G.MODIFY_TEXT_TYPE_UPPERCASE
+
+local function cased(control, text)
+  if UPPERCASE ~= nil and control.uiModifyText == UPPERCASE then return string.upper(text) end
+  return text
+end
+
 local function measured(control, within)
   local text = control.uiText
   if type(text) ~= "string" or text == "" then return 0, 0 end
+  text = cased(control, text)
   local face, size = faceOf(control)
   local scale = size / face.perEm
   text = iconsSpaced(text, face, size, scale)
@@ -353,7 +361,9 @@ end
 
 local function broken(control)
   local text = control.uiText
-  if type(text) ~= "string" or text == "" or string.find(text, "|", 1, true) then return text end
+  if type(text) ~= "string" or text == "" then return text end
+  text = cased(control, text)
+  if string.find(text, "|", 1, true) then return text end
   local _, _, width, height = place(control)
   if width == nil or width <= 0 then return text end
   local face, size = faceOf(control)
@@ -389,7 +399,8 @@ end
 _G.__ui_text_shown = function(control)
   local ok, text = pcall(broken, control)
   if ok then return text end
-  return control.uiText
+  if type(control.uiText) ~= "string" then return control.uiText end
+  return cased(control, control.uiText)
 end
 _G.__ui_text_size = function(control)
   local _, _, width = place(control)

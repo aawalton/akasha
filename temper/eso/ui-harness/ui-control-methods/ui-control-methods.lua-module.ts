@@ -112,6 +112,10 @@ export const uiControlMethods = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A label keeps the change of case its text was set to show in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control keeps the least and greatest size it was held to, each zero until set.",
     },
     {
@@ -125,5 +129,5 @@ export const uiControlMethods = {
     },
   ],
   createdAt: "2026-09-24T15:32:39.418Z",
-  updatedAt: "2026-10-18T19:04:13.409Z",
+  updatedAt: "2026-10-18T23:39:39.149Z",
 } as const satisfies LuaModule

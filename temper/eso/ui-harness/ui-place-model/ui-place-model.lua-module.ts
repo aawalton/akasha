@@ -111,6 +111,10 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A label set to show its text in capitals is measured and shown in capitals.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The game's call measuring a string in a font is answered by this same measuring.",
     },
     {
@@ -213,5 +217,5 @@ export const uiPlaceModel = {
     },
   ],
   createdAt: "2026-09-22T16:27:03.745Z",
-  updatedAt: "2026-10-18T19:39:14.833Z",
+  updatedAt: "2026-10-18T23:39:39.149Z",
 } as const satisfies LuaModule

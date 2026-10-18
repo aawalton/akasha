@@ -211,6 +211,8 @@ function Control:GetTextHeight()
   return tall
 end
 function Control:SetWrapMode(mode) self.uiWrapMode = mode end
+function Control:SetModifyTextType(kind) self.uiModifyText = kind end
+function Control:GetModifyTextType() return self.uiModifyText end
 function Control:SetMaxLineCount(count) self.uiMaxLines = asNumber(count, 0) end
 function Control:SetFont(font) self.uiFont = asText(font) end
 function Control:GetFont() return self.uiFont or "" end
