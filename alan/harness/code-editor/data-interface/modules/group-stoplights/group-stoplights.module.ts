@@ -21,7 +21,7 @@ export const groupStoplights = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each tier has one glyph named here.",
+      statement: "Each tier is drawn as the one glyph the readout tier module names.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -45,5 +45,5 @@ export const groupStoplights = {
     },
   ],
   createdAt: "2026-09-03T01:31:24.156Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-18T13:45:21.330Z",
 } as const satisfies Module

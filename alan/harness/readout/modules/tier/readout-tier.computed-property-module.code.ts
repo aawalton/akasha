@@ -13,6 +13,15 @@ type Tiered = {
 
 export const BELOW_EVERY_RUNG: TierColor = "black"
 
+export const TIER_GLYPH: Readonly<Record<TierColor, string>> = {
+  black: "⚫",
+  red: "🔴",
+  orange: "🟠",
+  yellow: "🟡",
+  green: "🟢",
+  blue: "🔵",
+}
+
 const RUNGS: readonly (readonly [string, TierColor])[] = [
   ["blackAt", "black"],
   ["redAt", "red"],

@@ -1,18 +1,10 @@
 import type { Stoplight } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
+import { TIER_GLYPH } from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 
 const LEGEND_SEPARATOR = " · "
 
-const GLYPH: Readonly<Record<Stoplight["tier"], string>> = {
-  black: "⚫",
-  red: "🔴",
-  orange: "🟠",
-  yellow: "🟡",
-  green: "🟢",
-  blue: "🔵",
-}
-
 export function glyphsOf(stoplights: readonly Stoplight[]): string {
-  return stoplights.map((one) => GLYPH[one.tier]).join("")
+  return stoplights.map((one) => TIER_GLYPH[one.tier]).join("")
 }
 
 function legendEntryOf(one: Stoplight): string {

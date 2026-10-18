@@ -143,6 +143,10 @@ export const readoutTier = {
       statement: "A reading that is no finite number is written as the number that reading is.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each tier has one glyph named here.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here names a readout.",
     },
@@ -156,5 +160,5 @@ export const readoutTier = {
     },
   ],
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-10-18T13:39:16.755Z",
+  updatedAt: "2026-10-18T13:45:21.330Z",
 } as const satisfies ComputedPropertyModule
