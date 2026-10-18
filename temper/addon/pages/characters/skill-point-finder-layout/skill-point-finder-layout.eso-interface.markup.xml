@@ -1,213 +1,190 @@
 <GuiXml>
-	<Controls>
-		<Control name="TemperCharactersSkillPointFinder_TooltipTarget" virtual="true" mouseEnabled="true">
-			<OnMouseEnter>
-				TemperCharactersSkillPointFinder_ShowTip(self)
-			</OnMouseEnter>
-			<OnMouseExit>
-				TemperCharactersSkillPointFinder_HideTip()
-			</OnMouseExit>
-		</Control>
+  <Controls>
+    <Control name="TemperCharactersSkillPointFinder_TooltipTarget" virtual="true" mouseEnabled="true">
+      <OnMouseEnter>
+        TemperCharactersSkillPointFinder_ShowTip(self)
+      </OnMouseEnter>
+      <OnMouseExit>
+        TemperCharactersSkillPointFinder_HideTip()
+      </OnMouseExit>
+    </Control>
 
-		<Control name="TemperCharactersSkillPointFinder_GeneralTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
-			<Dimensions x="400" y="18" />
+    <Control name="TemperCharactersSkillPointFinder_GeneralTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
+      <Dimensions x="442" y="18" />
+      <Controls>
+        <Label name="$(parent)_Source" font="TemperFontBody" horizontalAlignment="LEFT" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
+          <Dimensions x="338" y="18" />
+          <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
+        </Label>
+        <Label name="$(parent)_Progress" font="TemperFontNumber" horizontalAlignment="RIGHT" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
+          <Dimensions x="96" y="18" />
+          <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" />
+        </Label>
+      </Controls>
+    </Control>
 
-			<Controls>
-				<Label name="$(parent)_Source" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
-					<Dimensions x="200" y="18" />
-					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
-				</Label>
+    <Control name="TemperCharactersSkillPointFinder_SQSSTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
+      <Dimensions x="358" y="18" />
+      <Controls>
+        <Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="LEFT" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
+          <Dimensions x="150" y="18" />
+          <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
+        </Label>
+        <Label name="$(parent)_Skyshards" font="TemperFontNumber" horizontalAlignment="RIGHT" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
+          <Dimensions x="96" y="18" />
+          <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" />
+        </Label>
+        <Label name="$(parent)_Quests" font="TemperFontNumber" horizontalAlignment="RIGHT" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
+          <Dimensions x="96" y="18" />
+          <Anchor point="TOPRIGHT" relativeTo="$(parent)_Skyshards" relativePoint="TOPLEFT" offsetX="-8" />
+        </Label>
+      </Controls>
+    </Control>
 
-				<Label name="$(parent)_Progress" font="TemperFontNumber" horizontalAlignment="CENTER" verticalAlignment="CENTER">
-					<Dimensions x="200" y="18" />
-					<Anchor point="TOPLEFT" relativeTo="$(parent)_Source" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
-				</Label>
-			</Controls>
-		</Control>
+    <Control name="TemperCharactersSkillPointFinder_GDQTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
+      <Dimensions x="382" y="18" />
+      <Controls>
+        <Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="LEFT" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
+          <Dimensions x="120" y="18" />
+          <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
+        </Label>
+        <Label name="$(parent)_Progress" font="TemperFontNumber" horizontalAlignment="RIGHT" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
+          <Dimensions x="96" y="18" />
+          <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" />
+        </Label>
+        <Label name="$(parent)_Dungeon" font="TemperFontBody" horizontalAlignment="LEFT" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
+          <Dimensions y="18" />
+          <Anchor point="TOPLEFT" relativeTo="$(parent)_Zone" relativePoint="TOPRIGHT" offsetX="8" />
+          <Anchor point="TOPRIGHT" relativeTo="$(parent)_Progress" relativePoint="TOPLEFT" offsetX="-8" />
+        </Label>
+      </Controls>
+    </Control>
 
+    <Control name="TemperCharactersSkillPointFinder_PDGBETemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
+      <Dimensions x="442" y="18" />
+      <Controls>
+        <Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="LEFT" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
+          <Dimensions x="140" y="18" />
+          <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
+        </Label>
+        <Label name="$(parent)_Progress" font="TemperFontNumber" horizontalAlignment="RIGHT" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
+          <Dimensions x="96" y="18" />
+          <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" />
+        </Label>
+        <Label name="$(parent)_Dungeon" font="TemperFontBody" horizontalAlignment="LEFT" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
+          <Dimensions y="18" />
+          <Anchor point="TOPLEFT" relativeTo="$(parent)_Zone" relativePoint="TOPRIGHT" offsetX="8" />
+          <Anchor point="TOPRIGHT" relativeTo="$(parent)_Progress" relativePoint="TOPLEFT" offsetX="-8" />
+        </Label>
+      </Controls>
+    </Control>
 
-		<Control name="TemperCharactersSkillPointFinder_SQSSTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
-			<Dimensions x="300" y="18" />
-			<Controls>
-				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
-					<Dimensions x="150" y="18" />
-					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
-				</Label>
+    <Control name="TemperCharactersSkillPointFinder_ListSeparator" virtual="true" />
 
-				<Label name="$(parent)_Skyshards" font="TemperFontNumber" horizontalAlignment="CENTER" verticalAlignment="CENTER">
-					<Dimensions x="75" y="18" />
-					<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
-				</Label>
+    <TopLevelControl name="TemperCharactersSkillPointFinder_GUI" mouseEnabled="true" movable="true" hidden="true" allowBringToTop="true" tier="HIGH">
+      <Dimensions x="1664" y="750" />
+      <Anchor point="CENTER" relativeTo="GuiRoot" relativePoint="CENTER" offsetX="0" offsetY="0" />
 
-				<Label name="$(parent)_Quests" font="TemperFontNumber" horizontalAlignment="CENTER" verticalAlignment="CENTER">
-					<Dimensions y="18" />
-					<Anchor point="TOPLEFT" relativeTo="$(parent)_Zone" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
-					<Anchor point="TOPRIGHT" relativeTo="$(parent)_Skyshards" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
-				</Label>
+      <Controls>
+        <Backdrop name="$(parent)FrameSurface" />
 
-			</Controls>
-		</Control>
+        <Control name="$(parent)_Header" hidden="false" resizeToFitConstrains="X">
+          <Dimensions y="30" />
+          <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
+          <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
 
+          <Controls>
+            <Control name="$(parent)_CharList" inherits="ZO_ComboBox TemperCharactersSkillPointFinder_TooltipTarget" tier="HIGH">
+              <Dimensions x="250" y="25" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="2" />
+            </Control>
+          </Controls>
+        </Control>
 
-		<Control name="TemperCharactersSkillPointFinder_GDQTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
-			<Dimensions x="350" y="18" />
-			<Controls>
-				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
-					<Dimensions x="125" y="18" />
-					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
-				</Label>
+        <Control name="$(parent)_Body" hidden="false" resizeToFitDescendents="true">
+          <Anchor point="TOPLEFT" relativeTo="$(parent)_Header" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="12" />
+          <Anchor point="TOPRIGHT" relativeTo="$(parent)_Header" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="12" />
 
-				<Label name="$(parent)_Progress" font="TemperFontNumber" horizontalAlignment="CENTER" verticalAlignment="CENTER">
-					<Dimensions x="75" y="18" />
-					<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
-				</Label>
+          <Controls>
+            <Label name="$(parent)_GSP" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_GSP" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
+              <Dimensions x="442" y="24" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="10" offsetY="10" />
+            </Label>
+            <Control name="$(parent)_GSP_ListHolder" inherits="ZO_ScrollList" resizeToFitDescendents="true">
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_GSP" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
+              <Anchor point="TOPRIGHT" relativeTo="$(parent)_GSP" relativePoint="BOTTOMRIGHT" offsetX="16" offsetY="0" />
+            </Control>
+            <Label name="$(parent)_GSP_T" font="TemperFontNumber" text="" horizontalAlignment="RIGHT" verticalAlignment="CENTER">
+              <Dimensions x="442" y="18" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_GSP_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
+            </Label>
 
-				<Label name="$(parent)_Dungeon" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
-					<Dimensions y="18" />
-					<Anchor point="TOPLEFT" relativeTo="$(parent)_Zone" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
-					<Anchor point="TOPRIGHT" relativeTo="$(parent)_Progress" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
-				</Label>
+            <Label name="$(parent)_SQS" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_SQS" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
+              <Dimensions x="358" y="24" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_GSP" relativePoint="TOPRIGHT" offsetX="32" offsetY="0" />
+            </Label>
+            <Control name="$(parent)_SQS_ListHolder" inherits="ZO_ScrollList" resizeToFitDescendents="true">
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_SQS" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
+              <Anchor point="TOPRIGHT" relativeTo="$(parent)_SQS" relativePoint="BOTTOMRIGHT" offsetX="16" offsetY="0" />
+            </Control>
+            <Label name="$(parent)_SQS_Z_T" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_TOTAL" horizontalAlignment="LEFT" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
+              <Dimensions x="150" y="18" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_SQS_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
+            </Label>
+            <Label name="$(parent)_SQS_SL_T" font="TemperFontNumber" text="" horizontalAlignment="RIGHT" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
+              <Dimensions x="96" y="18" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_SQS_Z_T" relativePoint="TOPRIGHT" offsetX="8" offsetY="0" />
+            </Label>
+            <Label name="$(parent)_SQS_SS_T" font="TemperFontNumber" text="" horizontalAlignment="RIGHT" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
+              <Dimensions x="96" y="18" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_SQS_SL_T" relativePoint="TOPRIGHT" offsetX="8" offsetY="0" />
+            </Label>
 
-			</Controls>
-		</Control>
+            <Label name="$(parent)_GDQ" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_GDQ" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
+              <Dimensions x="780" y="24" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_SQS" relativePoint="TOPRIGHT" offsetX="32" offsetY="0" />
+            </Label>
+            <Control name="$(parent)_GDQ_ListHolder" inherits="ZO_ScrollList">
+              <Dimensions x="382" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_GDQ" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
+            </Control>
+            <Control name="$(parent)_GDQ2_ListHolder" inherits="ZO_ScrollList">
+              <Dimensions x="382" />
+              <Anchor point="TOPRIGHT" relativeTo="$(parent)_GDQ" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="0" />
+            </Control>
+            <Label name="$(parent)_GDQ_T" font="TemperFontNumber" horizontalAlignment="RIGHT" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
+              <Dimensions x="780" y="18" />
+              <Anchor point="TOPRIGHT" relativeTo="$(parent)_GDQ2_ListHolder" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="0" />
+            </Label>
 
+            <Label name="$(parent)_PDGBE" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_PDB" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
+              <Dimensions x="442" y="24" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_GSP_T" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="28" />
+            </Label>
+            <Control name="$(parent)_PDGBE_ListHolder" inherits="ZO_ScrollList" resizeToFitDescendents="true">
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_PDGBE" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
+              <Anchor point="TOPRIGHT" relativeTo="$(parent)_PDGBE" relativePoint="BOTTOMRIGHT" offsetX="16" offsetY="0" />
+            </Control>
+            <Label name="$(parent)_PDGBE_T" font="TemperFontNumber" horizontalAlignment="RIGHT" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
+              <Dimensions x="442" y="18" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)_PDGBE_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
+            </Label>
+          </Controls>
+        </Control>
 
-		<Control name="TemperCharactersSkillPointFinder_PDGBETemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
-			<Dimensions x="400" y="18" />
-			<Controls>
-				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
-					<Dimensions x="140" y="18" />
-					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
-				</Label>
+        <Control name="$(parent)_Footer" hidden="false" resizeToFitDescendents="true">
+          <Anchor point="TOPLEFT" relativeTo="$(parent)_Body" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="12" />
+          <Anchor point="TOPRIGHT" relativeTo="$(parent)_Body" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="12" />
 
-				<Label name="$(parent)_Progress" font="TemperFontNumber" horizontalAlignment="CENTER" verticalAlignment="CENTER">
-					<Dimensions x="75" y="18" />
-					<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
-				</Label>
-
-				<Label name="$(parent)_Dungeon" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER" maxLineCount="1" wrapMode="ELLIPSIS">
-					<Dimensions y="18" />
-					<Anchor point="TOPLEFT" relativeTo="$(parent)_Zone" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
-					<Anchor point="TOPRIGHT" relativeTo="$(parent)_Progress" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
-				</Label>
-			</Controls>
-		</Control>
-
-		<Control name="TemperCharactersSkillPointFinder_ListSeparator" virtual="true" />
-
-		<TopLevelControl name="TemperCharactersSkillPointFinder_GUI" mouseEnabled="true" movable="true" hidden="true" allowBringToTop="true" tier="HIGH">
-			<Dimensions x="1390" y="750" />
-			<Anchor point="CENTER" relativeTo="GuiRoot" relativePoint="CENTER" offsetX="0" offsetY="0" />
-
-			<Controls>
-				<Backdrop name="$(parent)FrameSurface" />
-
-				<Control name="$(parent)_Header" hidden="false" resizeToFitConstrains="X">
-					<Dimensions y="30" />
-					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
-					<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
-
-					<Controls>
-						<Control name="$(parent)_CharList" inherits="ZO_ComboBox TemperCharactersSkillPointFinder_TooltipTarget" tier="HIGH">
-							<Dimensions x="250" y="25" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="6" offsetY="6" />
-						</Control>
-					</Controls>
-				</Control>
-
-				<Control name="$(parent)_Body" hidden="false" resizeToFitDescendents="true">
-					<Anchor point="TOPLEFT" relativeTo="$(parent)_Header" relativePoint="BOTTOMLEFT" offsetX="2" offsetY="12" />
-					<Anchor point="TOPRIGHT" relativeTo="$(parent)_Header" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="12" />
-
-					<Controls>
-						<Label name="$(parent)_GSP" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_GSP" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
-							<Dimensions x="400" y="24" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="3" />
-						</Label>
-						<Control name="$(parent)_GSP_ListHolder" inherits="ZO_ScrollList" resizeToFitDescendents="true">
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_GSP" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
-							<Anchor point="TOPRIGHT" relativeTo="$(parent)_GSP" relativePoint="BOTTOMRIGHT" offsetX="16" offsetY="0" />
-						</Control>
-
-						<Label name="$(parent)_GSP_T" font="TemperFontNumber" text="" horizontalAlignment="CENTER" verticalAlignment="CENTER">
-							<Dimensions x="400" y="18" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_GSP_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
-						</Label>
-
-						<Label name="$(parent)_SQS" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_SQS" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
-							<Dimensions x="300" y="24" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_GSP" relativePoint="TOPRIGHT" offsetX="12" offsetY="0" />
-						</Label>
-						<Control name="$(parent)_SQS_ListHolder" inherits="ZO_ScrollList" resizeToFitDescendents="true">
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
-							<Anchor point="TOPRIGHT" relativeTo="$(parent)_SQS" relativePoint="BOTTOMRIGHT" offsetX="16" offsetY="0" />
-						</Control>
-
-						<Label name="$(parent)_SQS_Z_T" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_TOTAL" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
-							<Dimensions x="150" y="18" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
-						</Label>
-						<Label name="$(parent)_SQS_SL_T" font="TemperFontNumber" text="" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
-							<Dimensions x="75" y="18" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS_Z_T" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
-						</Label>
-						<Label name="$(parent)_SQS_SS_T" font="TemperFontNumber" text="" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
-							<Dimensions x="75" y="18" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS_SL_T" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
-						</Label>
-
-
-						<Label name="$(parent)_GDQ" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_GDQ" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
-							<Dimensions x="676" y="24" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS" relativePoint="TOPRIGHT" offsetX="12" offsetY="0" />
-						</Label>
-						<Control name="$(parent)_GDQ_ListHolder" inherits="ZO_ScrollList">
-							<Dimensions x="350" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_GDQ" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
-						</Control>
-						<Control name="$(parent)_GDQ2_ListHolder" inherits="ZO_ScrollList">
-							<Dimensions x="350" />
-							<Anchor point="TOPRIGHT" relativeTo="$(parent)_GDQ" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="0" />
-						</Control>
-						<Label name="$(parent)_GDQ_T" font="TemperFontNumber" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
-							<Dimensions y="18" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_GDQ_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
-							<Anchor point="TOPRIGHT" relativeTo="$(parent)_GDQ2_ListHolder" relativePoint="BOTTOMRIGHT" offsetX="-16" offsetY="0" />
-						</Label>
-
-
-
-						<Label name="$(parent)_PDGBE" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_PDB" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
-							<Dimensions x="400" y="24" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_GSP_T" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="16" />
-						</Label>
-						<Control name="$(parent)_PDGBE_ListHolder" inherits="ZO_ScrollList" resizeToFitDescendents="true">
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_PDGBE" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
-							<Anchor point="TOPRIGHT" relativeTo="$(parent)_PDGBE" relativePoint="BOTTOMRIGHT" offsetX="16" offsetY="0" />
-						</Control>
-
-						<Label name="$(parent)_PDGBE_T" font="TemperFontNumber" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
-							<Dimensions x="400" y="18" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_PDGBE_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
-						</Label>
-
-					</Controls>
-				</Control>
-
-				<Control name="$(parent)_Footer" hidden="false" resizeToFitDescendents="true">
-					<Anchor point="TOPLEFT" relativeTo="$(parent)_Body" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="12" />
-					<Anchor point="TOPRIGHT" relativeTo="$(parent)_Body" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="12" />
-
-					<Controls>
-						<Label name="$(parent)_CharacterTotal" font="TemperFontHeading" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
-							<Dimensions y="48" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
-							<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
-						</Label>
-
-					</Controls>
-				</Control>
-			</Controls>
-		</TopLevelControl>
-	</Controls>
+          <Controls>
+            <Label name="$(parent)_CharacterTotal" font="TemperFontHeading" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
+              <Dimensions y="48" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
+              <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
+            </Label>
+          </Controls>
+        </Control>
+      </Controls>
+    </TopLevelControl>
+  </Controls>
 </GuiXml>

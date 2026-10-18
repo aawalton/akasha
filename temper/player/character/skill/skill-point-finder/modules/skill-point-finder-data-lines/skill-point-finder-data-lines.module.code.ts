@@ -4,6 +4,10 @@ import {
   LIST_DATA_TYPE,
   LIST_SEPARATOR_TYPE,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-constants/skill-point-finder-constants.module.code.ts"
+import {
+  layoutPanels,
+  listHeight,
+} from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-panels/skill-point-finder-panels.module.code.ts"
 import { setupData } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-points/skill-point-finder-points.module.code.ts"
 import {
   requireGui,
@@ -83,7 +87,7 @@ function updateListData(this: void, control: Control, data: ListLine[]): undefin
   }
   dataList.push(ZO_ScrollList_CreateDataEntry<ListLine>(LIST_SEPARATOR_TYPE, {}))
   ZO_ScrollList_Commit(control)
-  control.SetHeight(18 * data.length + 4)
+  control.SetHeight(listHeight(data.length))
 }
 
 export function updateDataLines(this: void): undefined {
@@ -222,6 +226,7 @@ export function updateDataLines(this: void): undefined {
   TemperCharactersSkillPointFinder_GUI_Footer_CharacterTotal.data = {
     tooltipText: getTooltipCharacterTotal(),
   }
+  layoutPanels()
 }
 
 function paintCell(

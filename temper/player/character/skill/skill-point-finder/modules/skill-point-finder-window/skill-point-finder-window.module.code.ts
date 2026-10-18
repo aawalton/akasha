@@ -10,14 +10,11 @@ import {
   type UspfRowControl,
   updateDataLines,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts"
+import { layoutPanels } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-panels/skill-point-finder-panels.module.code.ts"
 import { refreshData } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-points/skill-point-finder-points.module.code.ts"
-import {
-  requireGui,
-  STATE,
-} from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-state/skill-point-finder-state.module.code.ts"
+import { STATE } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-state/skill-point-finder-state.module.code.ts"
 import {
   FRAME_PADDING,
-  FRAME_TOP,
   frameWindow,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 import { drawPanel } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
@@ -52,45 +49,13 @@ export function setupValues(this: void): undefined {
   header.SetAnchor(TOPLEFT, body, TOPLEFT, 0, 0)
   header.SetAnchor(TOPRIGHT, body, TOPRIGHT, 0, 0)
 
-  const sections = TemperCharactersSkillPointFinder_GUI_Body
-  drawPanel(
-    sections,
-    "$(parent)_PanelGSP",
-    TemperCharactersSkillPointFinder_GUI_Body_GSP,
-    TemperCharactersSkillPointFinder_GUI_Body_GSP_T
-  )
-  drawPanel(
-    sections,
-    "$(parent)_PanelSQS",
-    TemperCharactersSkillPointFinder_GUI_Body_SQS,
-    TemperCharactersSkillPointFinder_GUI_Body_SQS_SS_T
-  )
-  drawPanel(
-    sections,
-    "$(parent)_PanelGDQ",
-    TemperCharactersSkillPointFinder_GUI_Body_GDQ,
-    TemperCharactersSkillPointFinder_GUI_Body_GDQ_T
-  )
-  drawPanel(
-    sections,
-    "$(parent)_PanelPDGBE",
-    TemperCharactersSkillPointFinder_GUI_Body_PDGBE,
-    TemperCharactersSkillPointFinder_GUI_Body_PDGBE_T
-  )
   const total = TemperCharactersSkillPointFinder_GUI_Footer_CharacterTotal
   drawPanel(TemperCharactersSkillPointFinder_GUI_Footer, "$(parent)_Panel", total, total)
 
   window.ClearAnchors()
   window.SetAnchor(CENTER, GuiRoot, CENTER, 0, 0)
   window.SetWidth(window.GetWidth() + FRAME_PADDING * 2)
-  window.SetHeight(
-    FRAME_TOP +
-      header.GetHeight() +
-      requireGui().PDGBE.length * 18 +
-      TemperCharactersSkillPointFinder_GUI_Footer.GetHeight() +
-      302 +
-      FRAME_PADDING
-  )
+  layoutPanels()
 
   ZO_ScrollList_AddDataType<ListLine, UspfRowControl>(
     TemperCharactersSkillPointFinder_GUI_Body_SQS_ListHolder,

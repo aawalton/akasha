@@ -14,9 +14,18 @@ export const skillPointFinderLayout = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A name in a row keeps to one line and ends in an ellipsis where it runs long.",
+      statement:
+        "Every cell and column header keeps to one line and ends in an ellipsis where it runs long.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A count column is wide enough for its header in capitals.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Cells in a row sit 8 apart, and the panels' columns 12 apart.",
     },
   ],
   createdAt: "2026-09-02T16:16:55.511Z",
-  updatedAt: "2026-10-18T19:10:27.141Z",
+  updatedAt: "2026-10-18T23:45:59.702Z",
 } as const satisfies EsoInterface

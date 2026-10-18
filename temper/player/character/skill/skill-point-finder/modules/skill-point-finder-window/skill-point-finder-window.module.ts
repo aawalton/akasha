@@ -11,7 +11,11 @@ export const skillPointFinderWindow = {
       decisionKind: "decision-kind/departure",
       statement: "Each section of the window, and the character total, sits on a panel.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sections' panels are laid out by `skill-point-finder-panels`.",
+    },
   ],
   createdAt: "2026-09-02T07:01:36.974Z",
-  updatedAt: "2026-09-25T15:43:37.000Z",
+  updatedAt: "2026-10-18T23:45:59.702Z",
 } as const satisfies Module

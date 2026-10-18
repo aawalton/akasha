@@ -17,6 +17,7 @@ export const temperSkillPointFinder = {
     "module/skill-point-finder-helpers",
     "module/skill-point-finder-init",
     "module/skill-point-finder-menu",
+    "module/skill-point-finder-panels",
     "module/skill-point-finder-points",
     "module/skill-point-finder-saved-state",
     "module/skill-point-finder-state",
@@ -45,5 +46,5 @@ export const temperSkillPointFinder = {
     },
   ],
   createdAt: "2026-09-02T07:01:36.978Z",
-  updatedAt: "2026-09-21T15:46:08.000Z",
+  updatedAt: "2026-10-18T23:45:59.702Z",
 } as const satisfies Domain
