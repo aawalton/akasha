@@ -1,4 +1,3 @@
-import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import {
   paintSurface,
   type SurfaceLevel,
@@ -31,19 +30,21 @@ export const HEADER_ROW_HEIGHT = 40
 
 const PANEL_LEVEL: SurfaceLevel = 2
 
-const STATE_OPACITY: Readonly<Record<RowState, number>> = {
-  rest: 0,
-  hover: 0.08,
-  selected: 0.12,
-}
+const HIGHLIGHT = "EsoUI/Art/Miscellaneous/listItem_highlight.dds"
+
+const SELECTED_HIGHLIGHT = "EsoUI/Art/Miscellaneous/listItem_selectedHighlight.dds"
+
+const HIGHLIGHT_BOTTOM = 0.625
+
+const SHOWN = 1
+
+const HIDDEN = 0
 
 const CLEAR = 0
 
 const ABOVE_WINDOW = 1
 
 function underContent(backdrop: BackdropControl): BackdropControl {
-  backdrop.SetEdgeColor(CLEAR, CLEAR, CLEAR, CLEAR)
-  backdrop.SetEdgeTexture(undefined, 1, 1, 1)
   backdrop.SetDrawLayer(DL_BACKGROUND)
   backdrop.SetDrawLevel(ABOVE_WINDOW)
   return backdrop
@@ -68,13 +69,26 @@ export function paintPanel(backdrop: BackdropControl): BackdropControl {
 
 export function clearBackdrop(backdrop: BackdropControl): BackdropControl {
   underContent(backdrop).SetCenterColor(CLEAR, CLEAR, CLEAR, CLEAR)
+  backdrop.SetEdgeColor(CLEAR, CLEAR, CLEAR, CLEAR)
   return backdrop
 }
 
 const LIGHTS = new LuaTable<Control, BackdropControl>()
 
+const GLOWS = new LuaTable<BackdropControl, TextureControl>()
+
+function glowOf(highlight: BackdropControl): TextureControl {
+  const held = GLOWS.get(highlight)
+  if (held !== undefined) return held
+  const glow = WINDOW_MANAGER.CreateControl(undefined, highlight, CT_TEXTURE)
+  glow.SetAnchorFill()
+  glow.SetTextureCoords(0, 1, 0, HIGHLIGHT_BOTTOM)
+  GLOWS.set(highlight, glow)
+  return glow
+}
+
 function drawRowHighlight(row: Control): BackdropControl {
-  const highlight = underContent(WINDOW_MANAGER.CreateControl(undefined, row, CT_BACKDROP))
+  const highlight = clearBackdrop(WINDOW_MANAGER.CreateControl(undefined, row, CT_BACKDROP))
   highlight.SetAnchorFill()
   paintRowState(highlight, "rest")
   LIGHTS.set(row, highlight)
@@ -91,8 +105,9 @@ export function paintRowHover(row: Control, over: boolean): undefined {
 }
 
 export function paintRowState(highlight: BackdropControl, state: RowState): undefined {
-  const [red, green, blue] = TEXT_PRIMARY
-  highlight.SetCenterColor(red, green, blue, STATE_OPACITY[state])
+  const glow = glowOf(highlight)
+  glow.SetTexture(state === "selected" ? SELECTED_HIGHLIGHT : HIGHLIGHT)
+  glow.SetAlpha(state === "rest" ? HIDDEN : SHOWN)
   return undefined
 }
 

@@ -9,11 +9,11 @@ export const windowPopover = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tooltip over a Temper window is the web's popover.",
+      statement: "A tooltip over a Temper window looks as the game's own tooltip does.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The popover sits on the third surface level, padded 12 on every side.",
+      statement: "The popover takes the game's default backdrop, padded 16 on every side.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -25,7 +25,7 @@ export const windowPopover = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The popover is as wide as its widest line, and wraps a line past 264.",
+      statement: "The popover is as wide as its widest line, and wraps a line past 318.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,16 +39,7 @@ export const windowPopover = {
       decisionKind: "decision-kind/departure",
       statement: "The popover sits against the side of its owner opposite the point it names.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The popover is the same size by gamepad as by keyboard, as the web has one scale.",
-    },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The popover's corners are square until Temper ships a rounded edge.",
-    },
   ],
   createdAt: "2026-09-25T18:15:00.055Z",
-  updatedAt: "2026-09-25T18:27:43.000Z",
+  updatedAt: "2026-10-18T17:36:08.028Z",
 } as const satisfies Module

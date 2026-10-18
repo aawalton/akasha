@@ -13,7 +13,7 @@ export const windowRows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A panel has no edge, and elevation alone parts it from what it sits on.",
+      statement: "A panel takes the game's inset backdrop, edge and all.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,7 +43,7 @@ export const windowRows = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A row pointed at is lit by the primary text color at 0.08, and a row chosen at 0.12.",
+        "A row pointed at shows the game's list highlight, and a row chosen its selected one.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -59,7 +59,7 @@ export const windowRows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A list lights its rows this way rather than with the game's list highlight.",
+      statement: "A row's highlight is a clear backdrop holding the highlight's art.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +71,5 @@ export const windowRows = {
     },
   ],
   createdAt: "2026-09-25T15:38:23.872Z",
-  updatedAt: "2026-09-25T16:15:11.000Z",
+  updatedAt: "2026-10-18T17:36:08.028Z",
 } as const satisfies Module

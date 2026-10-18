@@ -17,13 +17,13 @@ export interface PopoverLine {
 
 const POPOVER_NAME = "TemperPopover"
 
-const PADDING = 12
+const PADDING = 16
 
 const LINE_GAP = 4
 
-const MAX_TEXT_WIDTH = 264
+const MAX_TEXT_WIDTH = 318
 
-const POPOVER_LEVEL = 3
+const POPOVER_LEVEL = 1
 
 const DEFAULT_ROLE: TextRole = "body"
 
