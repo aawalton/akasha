@@ -34,6 +34,25 @@ interface RuneMenuButton extends Control {
   data: { level: number }
 }
 
+function placeSaved(
+  this: void,
+  control: Control,
+  left: number | undefined,
+  top: number | undefined
+): undefined {
+  control.ClearAnchors()
+  const onScreen =
+    left !== undefined &&
+    top !== undefined &&
+    left >= 0 &&
+    top >= 0 &&
+    left < GuiRoot.GetWidth() &&
+    top < GuiRoot.GetHeight()
+  if (onScreen) control.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, left, top)
+  else control.SetAnchor(CENTER, GuiRoot, CENTER, 0, 0)
+  return undefined
+}
+
 const splitWords = (s: string): string[] => {
   const words: string[] = []
   for (const [word] of string.gmatch(s, "[^ ]+")) {
@@ -123,13 +142,7 @@ export function panelInitialize(): undefined {
   TemperItemsCrafting_SetPanelScrollChild.SetHeight(
     listHeight(luaLength(STATE.Sets), Options.SET_ROW_HEIGHT)
   )
-  TemperItemsCrafting_Panel.SetAnchor(
-    TOPLEFT,
-    GuiRoot,
-    TOPLEFT,
-    STATE.Account.position[1],
-    STATE.Account.position[2]
-  )
+  placeSaved(TemperItemsCrafting_Panel, STATE.Account.position[1], STATE.Account.position[2])
   TemperItemsCrafting_Quest.SetAnchor(
     TOPLEFT,
     TemperItemsCrafting_QuestFrame,
@@ -150,48 +163,13 @@ export function panelInitialize(): undefined {
   TemperItemsCrafting_CharacterPanelHeader.SetText(STATE.Loc.chars)
 
   frameCraftWindows()
-  TemperItemsCrafting_Style_Window.SetAnchor(
-    TOPLEFT,
-    GuiRoot,
-    TOPLEFT,
-    STATE.Account.coords.style[1],
-    STATE.Account.coords.style[2]
-  )
-  TemperItemsCrafting_Recipe_Window.SetAnchor(
-    TOPLEFT,
-    GuiRoot,
-    TOPLEFT,
-    STATE.Account.coords.recipe[1],
-    STATE.Account.coords.recipe[2]
-  )
-  TemperItemsCrafting_Blueprint_Window.SetAnchor(
-    TOPLEFT,
-    GuiRoot,
-    TOPLEFT,
-    STATE.Account.coords.blueprint[1],
-    STATE.Account.coords.blueprint[2]
-  )
-  TemperItemsCrafting_Rune.SetAnchor(
-    TOPLEFT,
-    GuiRoot,
-    TOPLEFT,
-    STATE.Account.coords.rune[1],
-    STATE.Account.coords.rune[2]
-  )
-  TemperItemsCrafting_Cook.SetAnchor(
-    TOPLEFT,
-    GuiRoot,
-    TOPLEFT,
-    STATE.Account.coords.cook[1],
-    STATE.Account.coords.cook[2]
-  )
-  TemperItemsCrafting_CharacterPanel.SetAnchor(
-    TOPLEFT,
-    GuiRoot,
-    TOPLEFT,
-    STATE.Account.coords.overview[1],
-    STATE.Account.coords.overview[2]
-  )
+  const coords = STATE.Account.coords
+  placeSaved(TemperItemsCrafting_Style_Window, coords.style[1], coords.style[2])
+  placeSaved(TemperItemsCrafting_Recipe_Window, coords.recipe[1], coords.recipe[2])
+  placeSaved(TemperItemsCrafting_Blueprint_Window, coords.blueprint[1], coords.blueprint[2])
+  placeSaved(TemperItemsCrafting_Rune, coords.rune[1], coords.rune[2])
+  placeSaved(TemperItemsCrafting_Cook, coords.cook[1], coords.cook[2])
+  placeSaved(TemperItemsCrafting_CharacterPanel, coords.overview[1], coords.overview[2])
 
   if (STATE.Account.mainchar !== false) {
     TemperItemsCrafting_PanelButtonCharacters.SetText(STATE.Account.mainchar)

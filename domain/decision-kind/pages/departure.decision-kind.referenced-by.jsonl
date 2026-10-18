@@ -4572,6 +4572,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking-lists/craft-cooking-lists.module.ts","id":"01a08e69-e336-7e71-b562-58e9c8e75d47"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-knowledge/craft-knowledge.module.ts","id":"01a061c7-e852-7375-898b-883039b51d97"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-list-state/craft-list-state.module.ts","id":"01a0d9f8-89e5-7095-8daa-434e41286c2f"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-panel-init/craft-panel-init.module.ts","id":"01a061c7-e85d-7dbd-badd-8852eeaa18f0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-text-style/craft-text-style.module.ts","id":"01a0da30-ff4e-7028-9642-e994a28eaed0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.ts","id":"01a0d8c4-0001-7ea2-88c2-7e79f5cc462e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-inventory/crafting-events-inventory.module.ts","id":"01a061c7-e877-7485-ab99-a082b1282463"}

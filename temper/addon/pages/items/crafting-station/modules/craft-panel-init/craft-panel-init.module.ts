@@ -6,6 +6,13 @@ export const craftPanelInit = {
   slug: "craft-panel-init",
   definition: "builds the main crafting panel once",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A crafting window sits where it was saved, or centred where that is off the screen.",
+    },
+  ],
   createdAt: "2026-09-02T11:01:26.237Z",
-  updatedAt: "2026-09-22T03:24:53.000Z",
+  updatedAt: "2026-10-18T19:37:46.466Z",
 } as const satisfies Module
