@@ -1,5 +1,4 @@
-import { createRequire } from "node:module"
-import { join } from "node:path"
+import { loadedOff } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
@@ -11,8 +10,6 @@ const NAME_FORMAT = "name-format"
 const CODE = "code"
 
 const TS = "ts"
-
-const loadFrom = createRequire(import.meta.url)
 
 export type Formatting = (nameFormatSlug: string) => Matching
 
@@ -51,7 +48,7 @@ export function matchingIn(
     }
     let mod: Record<string, unknown>
     try {
-      mod = loadFrom(join(root, codePath)) as Record<string, unknown>
+      mod = loadedOff(root, codePath)
     } catch (thrown) {
       throw new Error(
         `${one.path} is a name format, and ${codePath} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
