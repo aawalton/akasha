@@ -35,6 +35,19 @@ const MAX_IDEAL = 44
 const CHAR_PX = 8
 const CELL_PADDING_PX = 16
 const MIN_COLUMN_PX = 96
+const PICTOGRAPH_CHARS = 2.5
+
+const PICTOGRAPH = /\p{Extended_Pictographic}/u
+const JOINING = /\p{M}|‍/u
+
+function textWidth(text: string): number {
+  let width = 0
+  for (const one of text) {
+    if (PICTOGRAPH.test(one)) width += PICTOGRAPH_CHARS
+    else if (!JOINING.test(one)) width += 1
+  }
+  return width
+}
 
 type JsonRecord = { readonly [key: string]: ReadonlyJSONValue | undefined }
 
@@ -44,7 +57,7 @@ function isJsonRecord(value: ReadonlyJSONValue): value is JsonRecord {
 
 function valueDisplayLength(value: ReadonlyJSONValue | undefined): number {
   if (value == null) return 0
-  if (typeof value === "string") return value.length
+  if (typeof value === "string") return textWidth(value)
   if (typeof value === "number" || typeof value === "boolean") return String(value).length
   if (Array.isArray(value)) {
     if (value.length === 0) return 0
