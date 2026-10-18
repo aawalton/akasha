@@ -192,17 +192,10 @@ export function useAppNavItems({
         }
       }
 
-      const bottomRoots = roots.filter((p) => p.bottomSection === true)
-      const primaryRoots = roots.filter((p) => p.bottomSection !== true)
-
-      const orderedRoots = optimisticOrder
-        ? [
-            ...optimisticOrder
-              .map((id) => primaryRoots.find((p) => p.id === id))
-              .filter((p): p is (typeof primaryRoots)[number] => p != null),
-            ...primaryRoots.filter((p) => !optimisticOrder.includes(p.id)),
-          ]
-        : primaryRoots
+      const byTitle = (a: (typeof sorted)[number], b: (typeof sorted)[number]): number =>
+        String(a.title ?? "").localeCompare(String(b.title ?? ""))
+      const bottomRoots = roots.filter((p) => p.bottomSection === true).sort(byTitle)
+      const orderedRoots = roots.filter((p) => p.bottomSection !== true).sort(byTitle)
 
       const toNavItem = (page: (typeof sorted)[number]): AppNavItem => {
         const serverIcon = typeof page.icon === "string" ? page.icon : null
@@ -305,7 +298,6 @@ export function useAppNavItems({
       }
     }, [
       navItemPages,
-      optimisticOrder,
       optimisticParents,
       optimisticIcons,
       handleIconChange,

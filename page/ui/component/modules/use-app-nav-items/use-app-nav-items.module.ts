@@ -36,7 +36,11 @@ export const useAppNavItems = {
       decisionKind: "decision-kind/departure",
       statement: "A nav item at the foot with no items under it is drawn as a link.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The nav items at the top are drawn in the order of their titles.",
+    },
   ],
   createdAt: "2026-09-02T20:05:45.270Z",
-  updatedAt: "2026-09-25T14:54:42.000Z",
+  updatedAt: "2026-10-18T15:44:08.149Z",
 } as const satisfies Module
