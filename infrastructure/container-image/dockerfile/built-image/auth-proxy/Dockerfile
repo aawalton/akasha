@@ -22,6 +22,7 @@ COPY --link code/module-property-group ./code/module-property-group
 COPY --link code/path/modules/module-directory ./code/path/modules/module-directory
 COPY --link code/process/modules/pid-signal ./code/process/modules/pid-signal
 COPY --link code/spawning/modules/running ./code/spawning/modules/running
+COPY --link code/spawning/modules/stall-noting ./code/spawning/modules/stall-noting
 COPY --link code/type/narrowing/modules/base64-url ./code/type/narrowing/modules/base64-url
 COPY --link code/type/narrowing/modules/collapse ./code/type/narrowing/modules/collapse
 COPY --link code/type/narrowing/modules/first-capture ./code/type/narrowing/modules/first-capture
@@ -76,6 +77,7 @@ COPY --link --from=build /workspace/code/module-property-group ./code/module-pro
 COPY --link --from=build /workspace/code/path/modules/module-directory ./code/path/modules/module-directory
 COPY --link --from=build /workspace/code/process/modules/pid-signal ./code/process/modules/pid-signal
 COPY --link --from=build /workspace/code/spawning/modules/running ./code/spawning/modules/running
+COPY --link --from=build /workspace/code/spawning/modules/stall-noting ./code/spawning/modules/stall-noting
 COPY --link --from=build /workspace/code/type/narrowing/modules/base64-url ./code/type/narrowing/modules/base64-url
 COPY --link --from=build /workspace/code/type/narrowing/modules/collapse ./code/type/narrowing/modules/collapse
 COPY --link --from=build /workspace/code/type/narrowing/modules/first-capture ./code/type/narrowing/modules/first-capture

@@ -139,6 +139,10 @@ export const running = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run the clock ends is answered what its group's processes were doing then.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A ceiling bounds a process together with everything that process starts.",
     },
     {
@@ -381,6 +385,6 @@ export const running = {
       statement: "A caller stating that count itself is left the count that caller stated.",
     },
   ],
-  updatedAt: "2026-10-08T16:35:33.000Z",
+  updatedAt: "2026-10-18T14:48:42.103Z",
   createdAt: "2026-09-01T13:20:06.151Z",
 } as const satisfies Module

@@ -76,6 +76,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/spawning/modules/process-holding/process-holding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/spawning/modules/running/running.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/spawning/modules/running/running.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"code/spawning/modules/stall-noting/stall-noting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/modules/change-ceiling/change-ceiling.module.test.ts","typed":false,"deferred":false}

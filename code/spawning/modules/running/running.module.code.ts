@@ -9,8 +9,13 @@ import {
   rmdirSync,
   writeFileSync,
 } from "node:fs"
-import { dirname, join } from "node:path"
+import { basename, dirname, join } from "node:path"
 import { pidAliveOrAssumeAlive } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
+import {
+  NOTING_AT,
+  stalledAt,
+  stallPathFor,
+} from "akasha/code/spawning/modules/stall-noting/stall-noting.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
 export const NO_CODE = -1
@@ -264,9 +269,16 @@ export function budgetAt(): string | null {
   }
 }
 
-function watching(at: string, ceiling: number | undefined, wall: number | undefined): string {
+function watching(
+  at: string,
+  ceiling: number | undefined,
+  wall: number | undefined,
+  into: string | null
+): string {
   const cap = ceiling === undefined ? UNENDING : String(Math.round(ceiling * MARGIN * MICROS))
   const until = wall === undefined ? UNENDING : String(Math.round(wall * MILLIS))
+  const noted = `fs.writeFileSync(${JSON.stringify(into)}, require(${JSON.stringify(NOTING_AT)}).stalledIn(at))`
+  const noting = into === null ? "" : `    if (spent <= ${cap}) try { ${noted} } catch {}\n`
   return (
     `const fs = require("node:fs")\n` +
     `const at = ${JSON.stringify(at)}\n` +
@@ -279,6 +291,7 @@ function watching(at: string, ceiling: number | undefined, wall: number | undefi
     `        spent = Number(line.slice(${String(USAGE.length)}))\n` +
     `  } catch { break }\n` +
     `  if (spent > ${cap} || Date.now() - began > ${until}) {\n` +
+    noting +
     `    try { fs.writeFileSync(at + "/cgroup.kill", "1") } catch {}\n` +
     `    break\n` +
     `  }\n` +
@@ -354,6 +367,7 @@ export type Said = {
   readonly cpuSeconds: number
   readonly peakBytes: number
   readonly peakMeasured: boolean
+  readonly stalled?: string
 }
 
 export type Held = {
@@ -364,6 +378,7 @@ export type Held = {
   readonly cpuSeconds: number
   readonly peakBytes: number
   readonly peakMeasured: boolean
+  readonly stalled?: string
 }
 
 export type Asked = {
@@ -396,6 +411,7 @@ type Opened = {
   readonly named: readonly string[]
   readonly env: Asked["env"]
   readonly watch: { readonly kill: () => void } | null
+  readonly into: string | null
 }
 
 function opened(argv: readonly string[], asked: Asked): Opened {
@@ -405,10 +421,11 @@ function opened(argv: readonly string[], asked: Asked): Opened {
   if (at !== null && held !== undefined) throttled(at, held)
   const ceiling = asked.cpuCeiling
   const wall = asked.wallCeiling
+  const into = at === null || wall === undefined ? null : stallPathFor(basename(at))
   const watch =
     at === null || (ceiling === undefined && wall === undefined)
       ? null
-      : Bun.spawn(["bun", "-e", watching(at, ceiling, wall)], {
+      : Bun.spawn(["bun", "-e", watching(at, ceiling, wall, into)], {
           stdout: "ignore",
           stderr: "ignore",
         })
@@ -417,6 +434,7 @@ function opened(argv: readonly string[], asked: Asked): Opened {
     named: at === null || found === null ? argv : joined(at, argv, found),
     env: envUnder(asked, at),
     watch,
+    into,
   }
 }
 
@@ -430,6 +448,7 @@ function heldOf(
 ): Held {
   const group = open.at === null ? null : spentAt(open.at)
   const peak = open.at === null ? null : peakAt(open.at)
+  const stalled = open.into === null ? undefined : stalledAt(open.into)
   return {
     code: code ?? NO_CODE,
     signal,
@@ -438,11 +457,13 @@ function heldOf(
     cpuSeconds: group ?? spent,
     peakBytes: peak ?? 0,
     peakMeasured: peak !== null,
+    ...(stalled === undefined ? {} : { stalled }),
   }
 }
 
 function closed(open: Opened): undefined {
   open.watch?.kill()
+  if (open.into !== null) stalledAt(open.into)
   if (open.at !== null) swept(open.at)
 }
 
@@ -499,17 +520,12 @@ export async function bytesAwaited(argv: readonly string[], asked: Asked = {}): 
   }
 }
 
+function saidOf(done: Held): Said {
+  return { ...done, out: new TextDecoder().decode(done.out) }
+}
+
 export async function ranAwaited(argv: readonly string[], asked: Asked = {}): Promise<Said> {
-  const done = await bytesAwaited(argv, asked)
-  return {
-    code: done.code,
-    signal: done.signal,
-    out: new TextDecoder().decode(done.out),
-    err: done.err,
-    cpuSeconds: done.cpuSeconds,
-    peakBytes: done.peakBytes,
-    peakMeasured: done.peakMeasured,
-  }
+  return saidOf(await bytesAwaited(argv, asked))
 }
 
 export function endingOf(code: number, signal: string | null): string {
@@ -517,16 +533,7 @@ export function endingOf(code: number, signal: string | null): string {
 }
 
 export function ran(argv: readonly string[], asked: Asked = {}): Said {
-  const done = bytes(argv, asked)
-  return {
-    code: done.code,
-    signal: done.signal,
-    out: new TextDecoder().decode(done.out),
-    err: done.err,
-    cpuSeconds: done.cpuSeconds,
-    peakBytes: done.peakBytes,
-    peakMeasured: done.peakMeasured,
-  }
+  return saidOf(bytes(argv, asked))
 }
 
 export function said(argv: readonly string[], asked: Asked = {}): string {
