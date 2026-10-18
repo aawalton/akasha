@@ -75,7 +75,7 @@ function displayCollectionsReport(
   }
   table.sort(sortable, (a, b) => a.totalBooks - a.numKnownBooks < b.totalBooks - b.numKnownBooks)
 
-  let lastObject = 0
+  let lastObject = yCollectionIndex
   for (const collectionIndex of $range(1, sortable.length)) {
     const data = sortable[collectionIndex - 1]
     if (data === undefined) continue

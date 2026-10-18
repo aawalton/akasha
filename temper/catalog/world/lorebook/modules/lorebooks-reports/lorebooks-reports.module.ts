@@ -6,6 +6,13 @@ export const lorebooksReports = {
   slug: "lorebooks-reports",
   definition: "the missing-book report window and the text a player can copy out of it",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The Eidetic Memory part starts below the Shalidor header even with no row listed.",
+    },
+  ],
   createdAt: "2026-09-02T10:05:33.126Z",
-  updatedAt: "2026-09-21T15:34:26.000Z",
+  updatedAt: "2026-10-18T19:31:31.827Z",
 } as const satisfies Module
