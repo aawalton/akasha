@@ -18,6 +18,14 @@ export const uiVirtualsLua = {
       statement: "A handler names what the game hands it for its event, as a click's button.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A handler's `...` in the game holds every argument, the control first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A handler is handed its arguments as `...` and names them from it.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "The templates go over in batches, because one Lua chunk holds only so much.",
     },
@@ -31,5 +39,5 @@ export const uiVirtualsLua = {
     },
   ],
   createdAt: "2026-09-25T16:54:17.043Z",
-  updatedAt: "2026-09-25T21:32:44.000Z",
+  updatedAt: "2026-10-18T20:20:09.197Z",
 } as const satisfies Module

@@ -35,7 +35,7 @@ const HANDED: Readonly<Record<string, string>> = {
 
 function handedTo(event: string): string {
   const named = HANDED[event.split(":")[0] ?? event]
-  return named === undefined ? "self, ..." : `self, ${named}, ...`
+  return named === undefined ? "self" : `self, ${named}`
 }
 
 function luaAnchor(anchor: VirtualAnchor): string {
@@ -98,7 +98,8 @@ function luaNode(node: VirtualNode): string {
     parts.push(`anchors = { ${node.anchors.map(luaAnchor).join(", ")} }`)
   }
   const handlers = Object.entries(node.handlers).map(
-    ([event, body]) => `[${luaText(event)}] = function(${handedTo(event)})
+    ([event, body]) => `[${luaText(event)}] = function(...)
+local ${handedTo(event)} = ...
 ${body}
 end`
   )
