@@ -335,6 +335,8 @@ function _G.GetWindowManager() return WindowManager end
 _G.GuiRoot = birth("GuiRoot", nil, CONTROL_TYPES.CT_TOPLEVELCONTROL, nil)
 _G.GuiRoot.uiWidth = 1920
 _G.GuiRoot.uiHeight = 1080
+_G.GuiMouse = birth("GuiMouse", _G.GuiRoot, CONTROL_TYPES.CT_CONTROL, nil)
+_G.GuiMouse.uiHidden = true
 
 local GAME_CONTROLS = { "ZO_Menus" }
 

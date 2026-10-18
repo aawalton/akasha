@@ -42,6 +42,10 @@ export const uiControlModel = {
       statement: "The mouse sits at the center of the control it rests on, or the screen's corner.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The engine's own mouse control is made under the screen, hidden, at its corner.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The game's own Lua asks the window manager where the mouse is.",
     },
@@ -277,5 +281,5 @@ export const uiControlModel = {
     },
   ],
   createdAt: "2026-09-22T14:17:07.692Z",
-  updatedAt: "2026-09-25T22:25:49.000Z",
+  updatedAt: "2026-10-18T18:56:23.348Z",
 } as const satisfies LuaModule
