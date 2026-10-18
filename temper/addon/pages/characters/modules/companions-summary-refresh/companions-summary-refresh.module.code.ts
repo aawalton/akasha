@@ -15,11 +15,6 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
-import { GREEN } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
-import {
-  TEXT_PRIMARY,
-  TEXT_TERTIARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { refreshActivePanel } from "akasha/temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
 import {
   applyBuild,
@@ -51,14 +46,16 @@ import {
   summaryState,
 } from "akasha/temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
-
-const COLOR_GREEN = GREEN
-const COLOR_GOLD: [number, number, number] = [0.98, 0.86, 0.24]
-const COLOR_ORANGE_RED: [number, number, number] = [0.9, 0.35, 0.15]
+import {
+  colorOf,
+  colorText,
+  textColorOf,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 
 function setGrayDash(label: LabelControl): undefined {
   label.SetText("-")
-  label.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+  colorText(label, colorOf("hint"))
 }
 
 function clearApplyLabel(row: SummaryRow): undefined {
@@ -69,9 +66,9 @@ function clearApplyLabel(row: SummaryRow): undefined {
 }
 
 function getMatchColor(matched: number, total: number): readonly [number, number, number] {
-  if (matched === total) return COLOR_GREEN
-  if (matched >= total * 0.5) return COLOR_GOLD
-  return COLOR_ORANGE_RED
+  if (matched === total) return textColorOf(INTERFACE_TEXT_COLOR_SUCCEEDED)
+  if (matched >= total * 0.5) return colorOf("accent")
+  return textColorOf(INTERFACE_TEXT_COLOR_FAILED)
 }
 
 function getCurrentBuildData(companionId: number): CompanionBuildData | undefined {
@@ -138,7 +135,7 @@ export function refreshCompanionSummaryPanel(): undefined {
     }
 
     row.buildLabel.SetText("Target")
-    row.buildLabel.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+    colorText(row.buildLabel, colorOf("body"))
 
     const currentBuild = getCurrentBuildData(companionId)
     if (currentBuild === undefined) {
@@ -198,7 +195,7 @@ export function refreshCompanionSummaryPanel(): undefined {
     if (upgradeScan !== undefined) {
       const count = upgradeScan.totalUpgradeCount
       row.upgradeLabel.SetText(`${count}`)
-      row.upgradeLabel.SetColor(COLOR_GREEN[0], COLOR_GREEN[1], COLOR_GREEN[2], 1)
+      colorText(row.upgradeLabel, textColorOf(INTERFACE_TEXT_COLOR_SUCCEEDED))
       row.upgradeLabel.SetHandler("OnMouseUp", () => {
         const freshScan = scanForUpgrades(companionId, hash)
         if (freshScan !== undefined) {
@@ -226,7 +223,7 @@ export function refreshCompanionSummaryPanel(): undefined {
 
     if (isActive) {
       row.applyLabel.SetText("Apply")
-      row.applyLabel.SetColor(COLOR_GREEN[0], COLOR_GREEN[1], COLOR_GREEN[2], 1)
+      colorText(row.applyLabel, textColorOf(INTERFACE_TEXT_COLOR_SUCCEEDED))
       row.applyLabel.SetHandler("OnMouseUp", () => {
         applyBuild(companionId, hash)
         zo_callLater(() => {

@@ -12,7 +12,11 @@ export const companionsEquipmentRefresh = {
       statement:
         "Live gear is read where the chosen companion is summoned and saved gear otherwise.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot holding nothing says Empty in the game's hint text color.",
+    },
   ],
   createdAt: "2026-09-02T07:55:19.639Z",
-  updatedAt: "2026-09-22T01:32:08.000Z",
+  updatedAt: "2026-10-18T17:42:45.390Z",
 } as const satisfies Module

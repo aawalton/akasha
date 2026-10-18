@@ -13,7 +13,6 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
-import { TEXT_TERTIARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import {
   ARMOR_SLOTS,
   type CompanionBuildData,
@@ -50,6 +49,10 @@ import {
   isSelectedCompanionActive,
 } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
+import {
+  colorOf,
+  colorText,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 
 function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {
@@ -66,7 +69,7 @@ function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {
       row.optimalLabel.SetColor(r, g, b, 1)
     } else {
       row.optimalLabel.SetText("Empty")
-      row.optimalLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+      colorText(row.optimalLabel, colorOf("hint"))
     }
     row.optimalLabel.SetHidden(false)
   }
@@ -80,7 +83,7 @@ function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {
       row.optimalLabel.SetColor(r, g, b, 1)
     } else {
       row.optimalLabel.SetText("Empty")
-      row.optimalLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+      colorText(row.optimalLabel, colorOf("hint"))
     }
     row.optimalLabel.SetHidden(false)
   }
@@ -105,7 +108,7 @@ function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {
       row.optimalLabel.SetHidden(false)
     } else {
       row.optimalLabel.SetText("Empty")
-      row.optimalLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+      colorText(row.optimalLabel, colorOf("hint"))
       row.optimalLabel.SetHidden(false)
     }
   }
@@ -171,7 +174,7 @@ function refreshEquipmentFromSaved(saved: SavedCompanionBuild): undefined {
       row.valueLabel.SetColor(r, g, b, 1)
     } else {
       row.valueLabel.SetText("Empty")
-      row.valueLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+      colorText(row.valueLabel, colorOf("hint"))
     }
   }
 
@@ -188,7 +191,7 @@ function refreshEquipmentFromSaved(saved: SavedCompanionBuild): undefined {
       row.valueLabel.SetColor(r, g, b, 1)
     } else {
       row.valueLabel.SetText("Empty")
-      row.valueLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+      colorText(row.valueLabel, colorOf("hint"))
     }
   }
 
@@ -211,7 +214,7 @@ function refreshEquipmentFromSaved(saved: SavedCompanionBuild): undefined {
       row.valueLabel.SetColor(r, g, b, 1)
     } else {
       row.valueLabel.SetText("Empty")
-      row.valueLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+      colorText(row.valueLabel, colorOf("hint"))
     }
   }
 }

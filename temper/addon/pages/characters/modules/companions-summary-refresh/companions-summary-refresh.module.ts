@@ -11,7 +11,12 @@ export const companionsSummaryRefresh = {
       decisionKind: "decision-kind/departure",
       statement: "A row colours by how near the worn build is to the target build.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A full match is the game's succeeded color, half its contrast gold, less its failed.",
+    },
   ],
   createdAt: "2026-09-09T23:12:09.217Z",
-  updatedAt: "2026-09-22T01:32:08.000Z",
+  updatedAt: "2026-10-18T17:42:45.390Z",
 } as const satisfies Module

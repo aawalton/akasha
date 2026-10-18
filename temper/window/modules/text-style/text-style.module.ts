@@ -46,6 +46,10 @@ export const textStyle = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A status or category color is one of the game's own text colors, read by field.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A color other than a text color is given only where it names a category.",
     },
     {
@@ -70,5 +74,5 @@ export const textStyle = {
     },
   ],
   createdAt: "2026-09-25T14:30:48.506Z",
-  updatedAt: "2026-10-18T17:23:25.067Z",
+  updatedAt: "2026-10-18T17:42:45.390Z",
 } as const satisfies Module

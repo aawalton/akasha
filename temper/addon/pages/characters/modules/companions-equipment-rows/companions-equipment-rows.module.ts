@@ -11,7 +11,11 @@ export const companionsEquipmentRows = {
       decisionKind: "decision-kind/departure",
       statement: "Column positions are fixed numbers rather than measured from content.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An upgrade is marked by the game's sort arrow in its succeeded color.",
+    },
   ],
   createdAt: "2026-09-02T07:55:19.640Z",
-  updatedAt: "2026-09-22T13:52:13.000Z",
+  updatedAt: "2026-10-18T17:42:45.390Z",
 } as const satisfies Module

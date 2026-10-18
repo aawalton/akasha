@@ -5,8 +5,11 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { GREEN } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
-import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import {
+  styleText,
+  textColorOf,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import {
   ROW_PADDING_X,
   STAT_ROW_HEIGHT,
@@ -90,7 +93,8 @@ export function createEquipRowsForSection(
     )
     upgradeIcon.SetDimensions(UPGRADE_ICON_SIZE, UPGRADE_ICON_SIZE)
     upgradeIcon.SetTexture("/esoui/art/miscellaneous/list_sortup.dds")
-    upgradeIcon.SetColor(GREEN[0], GREEN[1], GREEN[2], 1)
+    const [red, green, blue] = textColorOf(INTERFACE_TEXT_COLOR_SUCCEEDED)
+    upgradeIcon.SetColor(red, green, blue, 1)
     upgradeIcon.SetMouseEnabled(true)
     upgradeIcon.SetHidden(true)
 
