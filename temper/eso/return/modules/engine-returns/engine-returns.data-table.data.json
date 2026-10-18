@@ -1,5 +1,5 @@
 {
-  "apiVersion": 101050,
+  "apiVersion": 101051,
   "returns": {
     "AbandonQuest": [],
     "AbbreviateNumber": [
@@ -123,7 +123,7 @@
     "AreAllTradingHouseSearchResultsPurchased": [
       "truth"
     ],
-    "AreAllZoneStoryActivitiesCompleteForZoneCompletionType": [
+    "AreAllZoneStoryActivitiesCompleteForZoneCompletionTypeAndIndex": [
       "truth"
     ],
     "AreAntiquitySkillLinesDiscovered": [
@@ -522,6 +522,7 @@
     "CastGroupVote": [],
     "ChallengeTargetToDuel": [],
     "ChallengeTargetToTribute": [],
+    "ChangeAttunementForTrialProgressionTrackByIndex": [],
     "ChangeRemoteTopLevel": [],
     "ChargeItemWithSoulGem": [],
     "CheckGuildKeepClaim": [
@@ -681,6 +682,7 @@
       "number"
     ],
     "ConfirmCampaignEntry": [],
+    "ConfirmGenericSelectionPrompt": [],
     "ConfirmLogout": [],
     "ConfirmPendingItemPurchase": [],
     "ConvertHoldKeyPressToNonHold": [
@@ -1162,6 +1164,9 @@
       "truth"
     ],
     "DoesZoneCompletionTypeInZoneHaveBranchesWithDifferentLengths": [
+      "truth"
+    ],
+    "DoesZoneStoryActivityCompletionTypeUseIndex": [
       "truth"
     ],
     "DumpGuildHistoryChunkInformation": [],
@@ -2187,6 +2192,9 @@
     "GetAvailableSkillPoints": [
       "number"
     ],
+    "GetBackgroundImageForTrialProgressionTrackByIndex": [
+      "word"
+    ],
     "GetBackgroundListFilterResult": [
       "number",
       "number",
@@ -3172,6 +3180,9 @@
     "GetCriticalStrikeChance": [
       "number"
     ],
+    "GetCrossplayDisplayName": [
+      "word"
+    ],
     "GetCrownCrateCardTextures": [
       "word",
       "word",
@@ -3498,6 +3509,9 @@
       "number",
       "number"
     ],
+    "GetCurrentlyAttunedTrialProgressionTrack": [
+      "nothing"
+    ],
     "GetCursorAbilityId": [
       "nothing"
     ],
@@ -3680,7 +3694,8 @@
       "number",
       "word",
       "word",
-      "number"
+      "number",
+      "word"
     ],
     "GetDyeColorsById": [
       "number",
@@ -4245,6 +4260,27 @@
     ],
     "GetGenderFromNameDescriptor": [
       "number"
+    ],
+    "GetGenericSelectorChoiceCategoryAtIndex": [
+      "number"
+    ],
+    "GetGenericSelectorChoiceDescriptionAtIndex": [
+      "word"
+    ],
+    "GetGenericSelectorChoiceHoverOverrideAtIndex": [
+      "word"
+    ],
+    "GetGenericSelectorChoiceIconAtIndex": [
+      "word"
+    ],
+    "GetGenericSelectorChoiceNameAtIndex": [
+      "word"
+    ],
+    "GetGenericSelectorChoiceSelectionHighlightOverrideAtIndex": [
+      "word"
+    ],
+    "GetGenericSelectorRewardDescriptionAtIndex": [
+      "word"
     ],
     "GetGiftClaimableQuantity": [
       "number"
@@ -5044,6 +5080,7 @@
     ],
     "GetHouseOccupantName": [
       "word",
+      "word",
       "word"
     ],
     "GetHousePreviewBackgroundImage": [
@@ -5120,6 +5157,9 @@
     "GetHousingVisitorRole": [
       "number"
     ],
+    "GetIconForPassiveInTrialProgressionTrackByIndex": [
+      "word"
+    ],
     "GetIgnoredInfo": [
       "word",
       "word"
@@ -5173,6 +5213,11 @@
     ],
     "GetInfinitelyRepeatableTierForRewardTrack": [
       "number"
+    ],
+    "GetInfoForPassiveInTrialProgressionTrackByIndex": [
+      "number",
+      "word",
+      "word"
     ],
     "GetInfoForRewardTrack": [
       "number",
@@ -5231,7 +5276,7 @@
     "GetIntroGameplayExperienceDisplayName": [
       "word"
     ],
-    "GetInventoryItemPreviewCollectibleActionDisplayName": [
+    "GetInventoryItemPreviewActionDisplayName": [
       "word"
     ],
     "GetInventoryItemPreviewVariationDisplayName": [
@@ -5286,6 +5331,9 @@
       "word"
     ],
     "GetItemCombinationId": [
+      "number"
+    ],
+    "GetItemCompanionType": [
       "number"
     ],
     "GetItemComparisonEquipSlots": [
@@ -5548,6 +5596,9 @@
     ],
     "GetItemLinkOutfitStyleId": [
       "number"
+    ],
+    "GetItemLinkPreviewActionDisplayName": [
+      "word"
     ],
     "GetItemLinkPreviewVariationDisplayName": [
       "word"
@@ -5978,11 +6029,11 @@
     "GetKeepHasResourcesForTravel": [
       "truth"
     ],
-    "GetKeepKeysByIndex": [
-      "number",
+    "GetKeepHighestUpgradeLevel": [
       "number"
     ],
-    "GetKeepMaxUpgradeLevel": [
+    "GetKeepKeysByIndex": [
+      "number",
       "number"
     ],
     "GetKeepName": [
@@ -6520,6 +6571,7 @@
     "GetMapLocationIcon": [
       "word",
       "number",
+      "number",
       "number"
     ],
     "GetMapLocationTooltipHeader": [
@@ -6815,6 +6867,9 @@
     "GetMaxCurrencyTransfer": [
       "number"
     ],
+    "GetMaxGenericSelectorChoices": [
+      "number"
+    ],
     "GetMaxIterationsPossibleForAlchemyItem": [
       "number",
       "number"
@@ -6886,6 +6941,9 @@
       "word"
     ],
     "GetMedalScoreReward": [
+      "number"
+    ],
+    "GetMinGenericSelectorChoices": [
       "number"
     ],
     "GetMinLettersInTradingHouseItemNameForCurrentLanguage": [
@@ -7305,7 +7363,7 @@
     "GetNumCompleteRumors": [
       "number"
     ],
-    "GetNumCompletedZoneActivitiesForZoneCompletionType": [
+    "GetNumCompletedZoneActivitiesForZoneCompletionTypeAndIndex": [
       "number"
     ],
     "GetNumConsolidatedSmithingItemSetSearchResults": [
@@ -7425,6 +7483,15 @@
     "GetNumFurnitureSubcategories": [
       "number"
     ],
+    "GetNumGenericSelectorChoices": [
+      "number"
+    ],
+    "GetNumGenericSelectorRewards": [
+      "number"
+    ],
+    "GetNumGenericSelectorSelectedChoices": [
+      "number"
+    ],
     "GetNumGoalsAchievedForAntiquity": [
       "number"
     ],
@@ -7533,7 +7600,7 @@
     "GetNumIncomingFriendRequests": [
       "number"
     ],
-    "GetNumInventoryItemPreviewCollectibleActions": [
+    "GetNumInventoryItemPreviewActions": [
       "number"
     ],
     "GetNumInventoryItemPreviewVariations": [
@@ -7543,6 +7610,9 @@
       "number"
     ],
     "GetNumInventorySlotsNeededForLevelUpReward": [
+      "number"
+    ],
+    "GetNumItemLinkPreviewActions": [
       "number"
     ],
     "GetNumItemLinkPreviewVariations": [
@@ -7690,6 +7760,9 @@
     "GetNumPassiveSkillRanks": [
       "number"
     ],
+    "GetNumPassivesForTrialProgressionTrackByIndex": [
+      "number"
+    ],
     "GetNumPatronsFavoringPlayerPerspective": [
       "number"
     ],
@@ -7697,6 +7770,9 @@
       "number"
     ],
     "GetNumPendingRumors": [
+      "number"
+    ],
+    "GetNumPlacedFurniturePreviewActions": [
       "number"
     ],
     "GetNumPlacedFurniturePreviewVariations": [
@@ -7729,6 +7805,9 @@
     "GetNumPromotionalEventPersonalCampaignPrimaryRewards": [
       "number"
     ],
+    "GetNumProvisionerItemAsFurniturePreviewActions": [
+      "number"
+    ],
     "GetNumProvisionerItemAsFurniturePreviewVariations": [
       "number"
     ],
@@ -7757,7 +7836,7 @@
     "GetNumRewardListEntries": [
       "number"
     ],
-    "GetNumRewardPreviewCollectibleActions": [
+    "GetNumRewardPreviewActions": [
       "number"
     ],
     "GetNumRewardPreviewVariations": [
@@ -7863,7 +7942,7 @@
     "GetNumStats": [
       "number"
     ],
-    "GetNumStoreEntryPreviewCollectibleActions": [
+    "GetNumStoreEntryPreviewActions": [
       "number"
     ],
     "GetNumStoreEntryPreviewVariations": [
@@ -7902,7 +7981,7 @@
     "GetNumTradingHouseListings": [
       "number"
     ],
-    "GetNumTradingHouseSearchResultItemPreviewCollectibleActions": [
+    "GetNumTradingHouseSearchResultItemPreviewActions": [
       "number"
     ],
     "GetNumTradingHouseSearchResultItemPreviewVariations": [
@@ -7912,6 +7991,9 @@
       "number"
     ],
     "GetNumTrialOfTheWeekLeaderboardEntries": [
+      "number"
+    ],
+    "GetNumTrialProgressionTracks": [
       "number"
     ],
     "GetNumTributeCardMechanics": [
@@ -7938,7 +8020,7 @@
     "GetNumTutorials": [
       "number"
     ],
-    "GetNumUnblockedZoneStoryActivitiesForZoneCompletionType": [
+    "GetNumUnblockedZoneStoryActivitiesForZoneCompletionTypeAndIndex": [
       "number",
       "number"
     ],
@@ -7986,7 +8068,7 @@
     "GetNumWorldEventInstanceUnits": [
       "number"
     ],
-    "GetNumZoneActivitiesForZoneCompletionType": [
+    "GetNumZoneActivitiesForZoneCompletionTypeAndIndex": [
       "number"
     ],
     "GetNumZones": [
@@ -8289,6 +8371,9 @@
     "GetPlacedFurnitureParent": [
       "nothing"
     ],
+    "GetPlacedFurniturePreviewActionDisplayName": [
+      "word"
+    ],
     "GetPlacedFurniturePreviewVariationDisplayName": [
       "word"
     ],
@@ -8305,6 +8390,9 @@
     ],
     "GetPlacedHousingFurnitureNumObjectStates": [
       "number"
+    ],
+    "GetPlatformDisplayName": [
+      "word"
     ],
     "GetPlatformServiceType": [
       "number"
@@ -8407,6 +8495,12 @@
       "truth",
       "word"
     ],
+    "GetPointsInTrialProgressionTrackByIndex": [
+      "number"
+    ],
+    "GetPointsNeededForNextUnlockInTrialProgressionTrackByIndex": [
+      "number"
+    ],
     "GetPreviewModeEnabled": [
       "truth"
     ],
@@ -8504,6 +8598,9 @@
       "number",
       "number",
       "number"
+    ],
+    "GetProvisionerItemAsFurniturePreviewActionDisplayName": [
+      "word"
     ],
     "GetProvisionerItemAsFurniturePreviewVariationDisplayName": [
       "word"
@@ -8819,6 +8916,10 @@
       "number",
       "number"
     ],
+    "GetRewardInfoForRumorEnding": [
+      "number",
+      "number"
+    ],
     "GetRewardListDescription": [
       "word"
     ],
@@ -8833,7 +8934,7 @@
     "GetRewardListIdFromReward": [
       "number"
     ],
-    "GetRewardPreviewCollectibleActionDisplayName": [
+    "GetRewardPreviewActionDisplayName": [
       "word"
     ],
     "GetRewardPreviewVariationDisplayName": [
@@ -8897,6 +8998,9 @@
     ],
     "GetRumorIdAtIndex": [
       "number"
+    ],
+    "GetRumorStarterHint": [
+      "word"
     ],
     "GetRumorType": [
       "number"
@@ -9620,7 +9724,7 @@
     "GetStoreEntryMaxBuyable": [
       "number"
     ],
-    "GetStoreEntryPreviewCollectibleActionDisplayName": [
+    "GetStoreEntryPreviewActionDisplayName": [
       "word"
     ],
     "GetStoreEntryPreviewVariationDisplayName": [
@@ -9921,6 +10025,10 @@
     "GetTotalUserAddOnMemoryPoolUsageMB": [
       "number"
     ],
+    "GetTrackedAchievement": [
+      "number",
+      "nothing"
+    ],
     "GetTrackedAntiquityId": [
       "number"
     ],
@@ -9951,6 +10059,7 @@
     "GetTradeInviteInfo": [
       "word",
       "number",
+      "word",
       "word"
     ],
     "GetTradeItemBagAndSlot": [
@@ -10042,7 +10151,7 @@
     "GetTradingHouseSearchResultItemLink": [
       "word"
     ],
-    "GetTradingHouseSearchResultItemPreviewCollectibleActionDisplayName": [
+    "GetTradingHouseSearchResultItemPreviewActionDisplayName": [
       "word"
     ],
     "GetTradingHouseSearchResultItemPreviewVariationDisplayName": [
@@ -10089,6 +10198,24 @@
       "number",
       "number",
       "number",
+      "word"
+    ],
+    "GetTrialProgressionBackgroundImage": [
+      "word"
+    ],
+    "GetTrialProgressionHUDLabel": [
+      "word"
+    ],
+    "GetTrialProgressionSubtitle": [
+      "word"
+    ],
+    "GetTrialProgressionTitle": [
+      "word"
+    ],
+    "GetTrialProgressionTrackLootStreamTextByIndex": [
+      "word"
+    ],
+    "GetTrialProgressionTrackPointsIconByIndex": [
       "word"
     ],
     "GetTributeCampaignRankExperienceRequirement": [
@@ -10347,6 +10474,9 @@
     "GetTributePrestigeRequiredToWin": [
       "number"
     ],
+    "GetTributeQueueLeaverPenaltyMs": [
+      "number"
+    ],
     "GetTributeRemainingTimeForTurn": [
       "nothing"
     ],
@@ -10511,6 +10641,9 @@
     ],
     "GetUnitOverlandDifficulty": [
       "number"
+    ],
+    "GetUnitPlatformDisplayName": [
+      "word"
     ],
     "GetUnitPower": [
       "number",
@@ -10762,16 +10895,47 @@
       "nothing",
       "nothing"
     ],
+    "GetZoneStoryActivityAttainTextForCompletionTypeAndIndex": [
+      "word"
+    ],
+    "GetZoneStoryActivityDescriptionForCompletionTypeAndIndex": [
+      "word"
+    ],
+    "GetZoneStoryActivityIconForCompletionTypeAndIndex": [
+      "word"
+    ],
     "GetZoneStoryActivityNameByActivityId": [
       "word"
     ],
     "GetZoneStoryActivityNameByActivityIndex": [
       "word"
     ],
+    "GetZoneStoryActivityNameForCompletionTypeAndIndex": [
+      "word"
+    ],
     "GetZoneStoryGamepadBackground": [
       "word"
     ],
     "GetZoneStoryKeyboardBackground": [
+      "word"
+    ],
+    "GetZoneStoryMilestoneCriterionByIndex": [
+      "word",
+      "truth"
+    ],
+    "GetZoneStoryMilestoneDescription": [
+      "word"
+    ],
+    "GetZoneStoryMilestoneInfo": [
+      "word",
+      "word",
+      "truth",
+      "word"
+    ],
+    "GetZoneStoryMilestoneNumCriteria": [
+      "number"
+    ],
+    "GetZoneStoryMilestoneReward": [
       "word"
     ],
     "GetZoneStoryShortDescriptionByActivityId": [
@@ -10897,6 +11061,9 @@
       "truth"
     ],
     "HasFishInBag": [
+      "truth"
+    ],
+    "HasGenericSelectorChoiceSelectionHighlightOverrideAtIndex": [
       "truth"
     ],
     "HasGroupFinderFilterChanged": [
@@ -11587,6 +11754,9 @@
     "IsCollectibleBlocked": [
       "truth"
     ],
+    "IsCollectibleCategoryActiveCompanionUsable": [
+      "truth"
+    ],
     "IsCollectibleCategoryFavoritable": [
       "truth"
     ],
@@ -11776,6 +11946,9 @@
     "IsDirectPurchaseEnabled": [
       "truth"
     ],
+    "IsDisplayConnectedToMainRenderAdapter": [
+      "truth"
+    ],
     "IsDisplayNameInItemBoPAccountTable": [
       "truth"
     ],
@@ -11868,6 +12041,12 @@
       "truth"
     ],
     "IsGamepadUISupported": [
+      "truth"
+    ],
+    "IsGenericSelectorChoiceSelectedAtIndex": [
+      "truth"
+    ],
+    "IsGenericSelectorRewardActiveAtIndex": [
       "truth"
     ],
     "IsGiftRecipientNameValid": [
@@ -12384,6 +12563,9 @@
     "IsOwnerOfCurrentHouse": [
       "truth"
     ],
+    "IsPassiveUnlockedInTrialProgressionTrackByIndex": [
+      "truth"
+    ],
     "IsPendingInteractionConfirmationValid": [
       "truth"
     ],
@@ -12520,6 +12702,9 @@
     "IsRumorComplete": [
       "truth"
     ],
+    "IsRumorNew": [
+      "truth"
+    ],
     "IsRumorPending": [
       "truth"
     ],
@@ -12635,6 +12820,9 @@
       "truth"
     ],
     "IsTrespassing": [
+      "truth"
+    ],
+    "IsTrialProgressionTrackAttunedByIndex": [
       "truth"
     ],
     "IsTributeCardContract": [
@@ -12826,6 +13014,9 @@
     "IsVeterancySeasonActive": [
       "truth"
     ],
+    "IsViewGenericSelectionMenuAvailable": [
+      "truth"
+    ],
     "IsVirtualKeyboardOnScreen": [
       "truth"
     ],
@@ -12882,6 +13073,7 @@
       "word"
     ],
     "LockCameraRotation": [],
+    "LogHUDEditorSession": [],
     "Logout": [],
     "LootAll": [],
     "LootCurrency": [],
@@ -12895,6 +13087,7 @@
     "MarkAllianceLockPendingNotificationSeen": [],
     "MarkEULAAsViewed": [],
     "MarkPromotionalEventPersonalCampaignLeaveIntroPromptShown": [],
+    "MarkRumorSeen": [],
     "MatchTradingHouseItemNames": [
       "nothing"
     ],
@@ -12999,19 +13192,23 @@
     "PreviewDyeStamp": [],
     "PreviewDyeStampByItemLink": [],
     "PreviewFurnitureMarketProduct": [],
+    "PreviewFurnitureMarketProductAction": [],
     "PreviewInventoryItem": [],
-    "PreviewInventoryItemCollectibleAction": [],
+    "PreviewInventoryItemAction": [],
     "PreviewItemLink": [],
+    "PreviewItemLinkAction": [],
     "PreviewMarketProduct": [],
     "PreviewMarketProductCollectibleAction": [],
     "PreviewPlacedFurniture": [],
+    "PreviewPlacedFurnitureAction": [],
     "PreviewProvisionerItemAsFurniture": [],
+    "PreviewProvisionerItemAsFurnitureAction": [],
     "PreviewReward": [],
-    "PreviewRewardCollectibleAction": [],
+    "PreviewRewardAction": [],
     "PreviewStoreEntry": [],
-    "PreviewStoreEntryCollectibleAction": [],
+    "PreviewStoreEntryAction": [],
     "PreviewTradingHouseSearchResultItem": [],
-    "PreviewTradingHouseSearchResultItemCollectibleAction": [],
+    "PreviewTradingHouseSearchResultItemAction": [],
     "ProcessMapClick": [
       "number"
     ],
@@ -13350,6 +13547,9 @@
     "SetGamepadLeftStickConsumedByUI": [],
     "SetGamepadRightStickConsumedByUI": [],
     "SetGamepadVibration": [],
+    "SetGenericSelectorChoiceSelectedAtIndex": [
+      "truth"
+    ],
     "SetGroupFinderFilterAutoAcceptRequests": [],
     "SetGroupFinderFilterCategory": [],
     "SetGroupFinderFilterChampionPoints": [],
@@ -13522,6 +13722,7 @@
     "SetTracked": [
       "truth"
     ],
+    "SetTrackedAchievement": [],
     "SetTrackedAntiquityId": [],
     "SetTrackedIsAssisted": [],
     "SetTrackedZoneStoryAssisted": [],
@@ -13594,6 +13795,9 @@
       "truth"
     ],
     "ShouldShowFSRSetting": [
+      "truth"
+    ],
+    "ShouldShowGenericSelectorChoiceAtIndex": [
       "truth"
     ],
     "ShouldShowLeaderboardForBattlegroundLeaderboardType": [
@@ -13815,9 +14019,6 @@
       "word"
     ],
     "ZoIsIgnoringPatcherLanguage": [
-      "truth"
-    ],
-    "ZoIsOfficialLanguageSupported": [
       "truth"
     ],
     "ZoUTF8StringLength": [
@@ -14275,6 +14476,7 @@
     "SetFont",
     "SetGaussianBlur",
     "SetGenericItemSet",
+    "SetGenericSelectorChoice",
     "SetGradientColors",
     "SetGuildMailId",
     "SetGuildSpecificItem",
@@ -14460,6 +14662,7 @@
     "SetTransformSkew",
     "SetTransformSkewX",
     "SetTransformSkewY",
+    "SetTrialProgressionPassive",
     "SetTributeBoardLocationPatrons",
     "SetTributeCard",
     "SetTributeLeaderboardRewardList",
