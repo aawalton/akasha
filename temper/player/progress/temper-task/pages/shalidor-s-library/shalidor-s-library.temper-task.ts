@@ -10,7 +10,7 @@ export const shalidorSLibrary = {
   character: "temper-account-character/nirayicel",
   completionCard: "temper-completion-category/characters-lore-library-character",
   completionItemPath: ["1"],
-  dueDate: "2026-10-18",
+  dueDate: "2026-11-01",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -22,5 +22,5 @@ export const shalidorSLibrary = {
   progressTotal: 580,
   progressCurrent: 397,
   createdAt: "2026-05-27T17:30:57.941Z",
-  updatedAt: "2026-10-17T14:31:45.521Z",
+  updatedAt: "2026-10-18T13:25:01.698Z",
 } as const satisfies TemperTask
