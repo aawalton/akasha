@@ -292,6 +292,18 @@ export const typecheck = {
       statement: "An audit hands this check every file, so its program is the whole tree.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A run over a whole commit lets the compiler read and probe the checkout itself.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a run answers the compiler only its config and the stylesheet declarations.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Each file the compiler asks this process about is a round trip of its own.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "A change reading clean here can refuse at audit over a file no change roots.",
     },
@@ -316,5 +328,5 @@ export const typecheck = {
   check: { maxCpuSeconds: 300 },
   audit: { maxCpuSeconds: 300 },
   createdAt: "2026-08-29T04:34:07.476Z",
-  updatedAt: "2026-09-25T13:11:55.000Z",
+  updatedAt: "2026-10-18T15:59:00.585Z",
 } as const satisfies CheckCode

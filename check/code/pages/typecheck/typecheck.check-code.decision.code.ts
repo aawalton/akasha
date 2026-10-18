@@ -56,6 +56,8 @@ const MANIFEST_NAME = "package.json"
 
 const FIRST_LINE = 1
 
+const ON_DISK = true
+
 const SETTINGS = {
   noEmit: true,
   strict: true,
@@ -222,7 +224,8 @@ export function servingOf(
   config: string,
   read: (path: string) => string | undefined,
   placed: Placing,
-  holds: (rel: string) => boolean = nowhere
+  holds: (rel: string) => boolean = nowhere,
+  onDisk = false
 ): (name: string) => string | null | undefined {
   const declared = declarationOver(root, holds, placed)
   const outside = new Map<string, string | undefined>()
@@ -235,6 +238,7 @@ export function servingOf(
       if (!outside.has(full)) outside.set(full, everyStylesheetOut(full))
       return outside.get(full)
     }
+    if (onDisk) return undefined
     const body = read(name)
     return body === undefined ? null : body
   }
@@ -294,20 +298,21 @@ async function foundOver(
   placed: Placing,
   whole: boolean,
   world: World,
-  holds: (rel: string) => boolean
+  holds: (rel: string) => boolean,
+  onDisk = false
 ): Promise<readonly Found[]> {
   const at = join(root, CONFIG_NAME)
   const config = configOf(root, named, whole, world)
-  const readFile = servingOf(root, at, config, read, placed, holds)
-  const api = new API({
-    cwd: root,
-    fs: {
-      readFile,
-      fileExists: existingOf(readFile),
-      directoryExists: foldersIn(root, named, placed),
-      realpath: realOver(root, placed),
-    },
-  })
+  const readFile = servingOf(root, at, config, read, placed, holds, onDisk)
+  const fs = onDisk
+    ? { readFile }
+    : {
+        readFile,
+        fileExists: existingOf(readFile),
+        directoryExists: foldersIn(root, named, placed),
+        realpath: realOver(root, placed),
+      }
+  const api = new API({ cwd: root, fs })
   try {
     const snapshot = await api.updateSnapshot({ openProjects: [at] })
     const project = await snapshot.getProject(at)
@@ -383,7 +388,8 @@ async function foundFor(
   const at = resolve(root)
   const manifests = [...new Set([...index.manifestsBeside(index.fileKeysAt()), ...paths])]
   const placed = placingOver(manifests, read)
-  return await foundOver(at, named, bodiesOver(at, read, placed), placed, true, world, holds)
+  const bodies = bodiesOver(at, read, placed)
+  return await foundOver(at, named, bodies, placed, true, world, holds, ON_DISK)
 }
 
 function judgedOver(found: readonly Found[], held: ReadonlySet<string>): readonly Judged[] {

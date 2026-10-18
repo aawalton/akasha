@@ -87,6 +87,15 @@ test("the config is answered at the path the compiler was told to open", () => {
   expect(serving("/etc/hostname")).toBeUndefined()
 })
 
+test("a run over a commit checked out clean leaves the tree's own bodies to the disk", () => {
+  const at = `${HERE}/tsconfig.typecheck.json`
+  const read = (path: string) => (path.endsWith("held.ts") ? "export const held = 1" : undefined)
+  const serving = servingOf(HERE, at, "{}", read, NOWHERE, undefined, true)
+  expect(serving(at)).toBe("{}")
+  expect(serving(`${HERE}/held.ts`)).toBeUndefined()
+  expect(serving(`${HERE}/node_modules/vite/client.d.ts`)).toContain("declare module '*.scss' {}")
+})
+
 test("a declaration outside the tree answering every stylesheet is served without that line", () => {
   const at = `${HERE}/tsconfig.typecheck.json`
   const serving = servingOf(HERE, at, "{}", () => undefined, NOWHERE)
