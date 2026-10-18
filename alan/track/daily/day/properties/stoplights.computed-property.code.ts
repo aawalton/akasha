@@ -23,7 +23,7 @@ import { readoutGroup } from "akasha/alan/harness/readout/group/readout-group.pa
 import {
   rungsIn,
   TIER_GLYPH,
-  tierAt,
+  tierOn,
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.computed-property-module.code.ts"
 import { readoutGroup as readoutGroupRelation } from "akasha/alan/harness/readout/properties/readout-group.relation-property.ts"
 import { readout as readoutType } from "akasha/alan/harness/readout/readout.page-type.ts"
@@ -156,8 +156,8 @@ const ON_A_DAY: Readonly<Record<string, DayReading>> = {
 
 function lightOf(readout: Readout, page: WorkedDay, reach: Reach): string {
   const reading = ON_A_DAY[readout.slug]?.(page, reach) ?? null
-  if (reading === null || readout.scale === undefined) return NO_READING
-  const tiered = tierAt(reading, rungsIn(reach.target<Values>(readout.scale) ?? {}))
+  const scale = readout.scale === undefined ? null : reach.target<Values>(readout.scale)
+  const tiered = tierOn(readout, page.date, reading, rungsIn(scale ?? {}))
   return tiered === null ? NO_READING : TIER_GLYPH[tiered.tier]
 }
 

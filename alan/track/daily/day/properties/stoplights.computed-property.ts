@@ -20,7 +20,8 @@ export const stoplights = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each light is colored by its readout's scale, as the live stoplight is.",
+      statement:
+        "Each light is colored for the day through the rest days and scale its readout names.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -41,5 +42,5 @@ export const stoplights = {
   ],
   types: "ts",
   createdAt: "2026-09-05T15:16:45.984Z",
-  updatedAt: "2026-10-18T13:55:33.417Z",
+  updatedAt: "2026-10-18T14:03:35.488Z",
 } as const satisfies ComputedProperty
