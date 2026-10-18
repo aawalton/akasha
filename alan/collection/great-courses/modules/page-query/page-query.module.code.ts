@@ -12,6 +12,13 @@ export async function everyRow(
   pageTypeSlug: string,
   keys: readonly string[]
 ): Promise<readonly QueryRow[]> {
+  return (await everyRowRead(pageTypeSlug, keys)).rows
+}
+
+export async function everyRowRead(
+  pageTypeSlug: string,
+  keys: readonly string[]
+): Promise<{ readonly rows: readonly QueryRow[]; readonly read: string | undefined }> {
   const asked = await askComposed({ "page-type": pageTypeSlug, keys, limit: CEILING })
   if (!asked.ok) throw new Error(`\`${pageTypeSlug}\` went unread: ${asked.why}`)
   const { n, rows } = asked.answer
@@ -21,7 +28,7 @@ export async function everyRow(
         `population rather than the whole one, and nothing may be decided against it`
     )
   }
-  return rows
+  return { rows, read: asked.answer.at }
 }
 
 export async function pageTitled(

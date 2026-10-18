@@ -19,7 +19,11 @@ export const pageQuery = {
       decisionKind: "decision-kind/departure",
       statement: "A page found by its title carries the commit it was asked at.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A whole population can be read with the commit it was asked at.",
+    },
   ],
   createdAt: "2026-09-03T04:14:46.233Z",
-  updatedAt: "2026-09-25T15:44:36.000Z",
+  updatedAt: "2026-10-18T21:06:56.069Z",
 } as const satisfies Module

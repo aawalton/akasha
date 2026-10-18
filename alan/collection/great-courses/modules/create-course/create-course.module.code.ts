@@ -21,12 +21,15 @@ const WRITER = "Great Courses sync <amy@alanwalton.com>"
 
 const TRAILING_DASHES = /-+$/
 
+const LEADING_DIGIT = /^[0-9]/
+
 function externalIdOf(course: Course): string {
   return course.externalId !== "" ? course.externalId : extractExternalIdFromUrl(course.url)
 }
 
 function slugFor(externalId: string, title: string): string {
-  const stem = pageStem(externalId === "" ? title : externalId)
+  const named = pageStem(externalId === "" ? title : externalId)
+  const stem = LEADING_DIGIT.test(named) ? `${GREAT_COURSE_SLUG}-${named}` : named
   if (stem.length <= STEM_CEILING) return stem
   return stem.slice(0, STEM_CEILING).replace(TRAILING_DASHES, "")
 }

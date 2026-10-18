@@ -6,7 +6,7 @@ import {
 } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import type { Course } from "akasha/alan/collection/great-courses/modules/course-types/course-types.module.code.ts"
 import {
-  everyRow,
+  everyRowRead,
   textAt,
 } from "akasha/alan/collection/great-courses/modules/page-query/page-query.module.code.ts"
 import { writePages } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
@@ -41,7 +41,7 @@ export function relinked(rows: readonly Held[], courses: readonly Course[]): rea
 }
 
 export async function relinkCourses(courses: readonly Course[]): Promise<number> {
-  const rows = await everyRow(GREAT_COURSE_SLUG, ["slug", "externalIdentity"])
+  const { rows, read } = await everyRowRead(GREAT_COURSE_SLUG, ["slug", "externalIdentity"])
   const due = relinked(rows, courses)
   if (due.length === 0) return 0
   const written = await writePages(
@@ -52,7 +52,10 @@ export async function relinkCourses(courses: readonly Course[]): Promise<number>
       merge: true,
     })),
     WRITER,
-    `point ${due.length} great course(s) at the link the catalogue gives now`
+    `point ${due.length} great course(s) at the link the catalogue gives now`,
+    undefined,
+    undefined,
+    read ?? null
   )
   if (!written.ok)
     throw new Error(`${due.length} great course link(s) did not land: ${written.why}`)

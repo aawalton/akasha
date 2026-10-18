@@ -30,6 +30,10 @@ export const createCourse = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A name starting with a digit is filed after `great-course-`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A course states the title, the shelves it sits on, and the provider's record.",
     },
     {
@@ -42,5 +46,5 @@ export const createCourse = {
     },
   ],
   createdAt: "2026-09-03T04:14:46.233Z",
-  updatedAt: "2026-09-25T15:45:00.000Z",
+  updatedAt: "2026-10-18T21:06:56.069Z",
 } as const satisfies Module
