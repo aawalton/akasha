@@ -1,5 +1,8 @@
-import { runDayActiveCalories } from "akasha/alan/track/daily/modules/day-active-calories/day-active-calories.module.code.ts"
+import { watchActiveCalories } from "akasha/alan/track/daily/modules/day-active-calories/day-active-calories.module.code.ts"
 
-export async function runService(): Promise<void> {
-  await runDayActiveCalories()
+const NEVER: Promise<never> = new Promise(() => {})
+
+export async function runService(): Promise<never> {
+  watchActiveCalories()
+  return await NEVER
 }

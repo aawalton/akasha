@@ -1181,6 +1181,7 @@
 {"propertySlug":"decision-kind","path":"alan/style/appearance-experiment/properties/eye-read.file-property.ts","id":"01a0685d-b81f-7e55-a063-f0493086a225"}
 {"propertySlug":"decision-kind","path":"alan/style/appearance-experiment/properties/felt-read.file-property.ts","id":"01a0685d-b81f-75fb-859d-dbff41d461c4"}
 {"propertySlug":"decision-kind","path":"alan/style/appearance-experiment/properties/what-tried.file-property.ts","id":"01a0685d-b81f-7f8e-8a19-41a2bcc1be19"}
+{"propertySlug":"decision-kind","path":"alan/track/daily/active-calories-service/active-calories-service.service-workstation.ts","id":"01a07724-a486-7717-8141-ae09cdb04434"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/day.page-type.ts","id":"01a05fd8-c30f-72ee-80d9-eb1c179b8359"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/modules/cost-multiplier/cost-multiplier.computed-property-module.ts","id":"01a08b93-dab4-777c-bdd0-03ab2b96ccb2"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/modules/hours-between/hours-between.computed-property-module.ts","id":"01a0821f-8bbc-7772-a9fa-052b5f4ffb2b"}

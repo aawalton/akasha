@@ -10,9 +10,9 @@ mock.module(
   "akasha/alan/track/daily/modules/day-active-calories/day-active-calories.module.code.ts",
   () => ({
     ...calories,
-    runDayActiveCalories: () => {
-      RAN.push("roll")
-      return Promise.resolve()
+    watchActiveCalories: () => {
+      RAN.push("watch")
+      return { stop: () => undefined, unfollowed: [] }
     },
   })
 )
@@ -30,21 +30,12 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run turns the calories module's own roll rather than a roll written again here", async () => {
+test("a run starts the calories module's own watch and never ends, so the unit stays up", async () => {
   RAN.length = 0
-  await running.runService()
-  expect(RAN).toEqual(["roll"])
-})
-
-test("a roll that landed nothing is carried out rather than swallowed, so a failed run is a failed unit", async () => {
-  RAN.length = 0
-  const why = new Error(calories.NOTHING_LANDED)
-  mock.module(
-    "akasha/alan/track/daily/modules/day-active-calories/day-active-calories.module.code.ts",
-    () => ({
-      ...calories,
-      runDayActiveCalories: () => Promise.reject(why),
-    })
-  )
-  await expect(running.runService()).rejects.toThrow(calories.NOTHING_LANDED)
+  const ended = await Promise.race([
+    running.runService().then(() => "ended"),
+    Bun.sleep(50).then(() => "running"),
+  ])
+  expect(RAN).toEqual(["watch"])
+  expect(ended).toBe("running")
 })
