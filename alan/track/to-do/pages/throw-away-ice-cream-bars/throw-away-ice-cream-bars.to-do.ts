@@ -10,6 +10,8 @@ export const throwAwayIceCreamBars = {
   priority: "p3",
   toDoSortOrder: 39,
   toDoValue: "value/health",
+  toDoLastCompletedAt: "2026-10-18T14:40:01.132Z",
+  toDoCompletedAt: "2026-10-18T14:40:01.132Z",
   createdAt: "2026-10-18T14:30:16.935Z",
-  updatedAt: "2026-10-18T14:30:26.958Z",
+  updatedAt: "2026-10-18T14:40:01.994Z",
 } as const satisfies ToDo
