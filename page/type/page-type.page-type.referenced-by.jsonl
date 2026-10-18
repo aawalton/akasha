@@ -447,6 +447,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/memory/kind/memory-kind.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/akasha-service.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/browser-extension/browser-extension.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/cluster-foundation/cluster-foundation.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/desktop-app/desktop-app.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/secret/secret.page-type.ts","typed":true,"deferred":false}

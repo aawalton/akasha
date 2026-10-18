@@ -38,6 +38,7 @@ export const akashaService = {
     "text-property/deploy-refusal",
     "text-property/deployed-commit",
     "text-property/refused-commit",
+    "page-type/browser-extension",
   ],
   properties: [
     {
@@ -123,5 +124,5 @@ export const akashaService = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-31T23:52:08.703Z",
-  updatedAt: "2026-09-27T15:34:22.000Z",
+  updatedAt: "2026-10-18T17:15:59.652Z",
 } as const satisfies PageType

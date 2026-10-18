@@ -1,5 +1,6 @@
 {"propertySlug":"extends-type","path":"code/container-recipe/container-recipe.page-type.ts","id":"01a06815-9efd-7003-8c8e-4c03b44672b2"}
 {"propertySlug":"extends-type","path":"code/ios-app/ios-app.page-type.ts","id":"01a05821-5723-7e65-88e2-045d3e49cb23"}
+{"propertySlug":"extends-type","path":"infrastructure/service/akasha-service/browser-extension/browser-extension.page-type.ts","id":"01a15003-5b25-7a82-a1bb-d4f2b81dcb4b"}
 {"propertySlug":"extends-type","path":"infrastructure/service/akasha-service/cluster-foundation/cluster-foundation.page-type.ts","id":"01a0a5e8-68bd-7b38-afbc-5ac778577610"}
 {"propertySlug":"extends-type","path":"infrastructure/service/akasha-service/desktop-app/desktop-app.page-type.ts","id":"01a0e380-aeaa-711e-8a5f-2ef9eab6222b"}
 {"propertySlug":"extends-type","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
@@ -11,6 +12,7 @@
 {"propertySlug":"import","fileName":"akasha-service.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"akasha-service.page-type.types.ts","path":"code/container-recipe/container-recipe.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"akasha-service.page-type.types.ts","path":"code/ios-app/ios-app.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"akasha-service.page-type.types.ts","path":"infrastructure/service/akasha-service/browser-extension/browser-extension.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"akasha-service.page-type.types.ts","path":"infrastructure/service/akasha-service/cluster-foundation/cluster-foundation.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"akasha-service.page-type.types.ts","path":"infrastructure/service/akasha-service/desktop-app/desktop-app.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"akasha-service.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.types.ts","typed":true,"deferred":false}

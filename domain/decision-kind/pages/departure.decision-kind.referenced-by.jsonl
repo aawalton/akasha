@@ -3098,6 +3098,9 @@
 {"propertySlug":"decision-kind","path":"infrastructure/resource-utilization/alan-attention/alan-attention.domain.ts","id":"01a0675b-16d4-7fec-97b7-58f61da0a03e"}
 {"propertySlug":"decision-kind","path":"infrastructure/resource-utilization/resource-utilization.domain.ts","id":"01a0675b-16f9-7b95-9d7f-cd041a034eab"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/akasha-service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/browser-extension/browser-extension.page-type.ts","id":"01a15003-5b25-7a82-a1bb-d4f2b81dcb4b"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/browser-extension/properties/extension-site.module-property-group.ts","id":"01a15003-5b26-74b3-ada4-69ba46c1c3fc"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/browser-extension/properties/extension-worker.module-property-group.ts","id":"01a15003-5b26-7bf9-8851-70999813831d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/cluster-foundation/cluster-foundation.page-type.ts","id":"01a0a5e8-68bd-7b38-afbc-5ac778577610"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-applying/foundation-applying.module.ts","id":"01a0a5fe-f019-72ee-a92a-9aa03e2494df"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-health/foundation-health.module.ts","id":"01a0d969-51c4-72a6-b7b1-de41f6f1ad08"}

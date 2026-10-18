@@ -391,6 +391,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.ts","id":"01a07383-6af4-7b2a-9679-bdc53aceb125"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.ts","id":"01a0685d-ab5d-7bd4-946d-fa56b367a1a2"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/certificate/certificate.domain.ts","id":"01a0658b-0f02-7cc7-a170-0193d5a4bc1d"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/browser-extension/browser-extension.page-type.ts","id":"01a15003-5b25-7a82-a1bb-d4f2b81dcb4b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/secret/modules/saying/secret-saying.module.ts","id":"01a07667-e09b-7f6e-bc84-5a76ea3566f4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/secret/secret.page-type.ts","id":"01a0684a-7d55-7000-bf3d-deee6d805174"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.ts","id":"01a0d5b4-6d29-7338-92c6-5f8802888961"}

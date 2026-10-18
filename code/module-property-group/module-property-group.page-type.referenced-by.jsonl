@@ -11,6 +11,8 @@
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/extending.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/filling.module-property-group.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"infrastructure/service/akasha-service/browser-extension/properties/extension-site.module-property-group.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"infrastructure/service/akasha-service/browser-extension/properties/extension-worker.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/running.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts","typed":false,"deferred":false}
@@ -27,6 +29,8 @@
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"code/shell-script/properties/scripting.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/extending.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/filling.module-property-group.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"infrastructure/service/akasha-service/browser-extension/properties/extension-site.module-property-group.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"infrastructure/service/akasha-service/browser-extension/properties/extension-worker.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/running.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"story/world/mechanics/checks/properties/settling.module-property-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"story/world/mechanics/derived/properties/formula.module-property-group.ts","typed":true,"deferred":false}
