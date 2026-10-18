@@ -20,6 +20,7 @@ import {
   heldOrMadeFor,
   instantIn,
   levelsFor,
+  levelsShown,
   type Row,
   sayingFor,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
@@ -155,6 +156,14 @@ test("a difficulty no call says is read from the activity the title names", () =
   expect(
     levelsFor({}, "Walked the dog", null, [{ title: "Walked", defaultDifficulty: 2 }])
   ).toEqual({ read: "levels", levels: { difficultyLevel: "2" } })
+})
+
+test("levels are shown as safety then difficulty, and a level unset is shown as asked", () => {
+  const both = { safetyLevel: "0", difficultyLevel: "2.5" }
+  expect(levelsShown(both, "?")).toBe("s0d2.5")
+  expect(levelsShown({ safetyLevel: "-1" }, "?")).toBe("s-1d?")
+  expect(levelsShown({ difficultyLevel: "2" }, null)).toBe("d2")
+  expect(levelsShown({}, null)).toBe("")
 })
 
 test("a stretch is addressed by its id, by the open one, by the last ended, or by a time", () => {

@@ -286,6 +286,19 @@ export function faultsIn(rows: readonly Row[], held: Held): readonly string[] {
   return said
 }
 
+const LEVEL_MARKS = [
+  ["s", "safetyLevel"],
+  ["d", "difficultyLevel"],
+] as const
+
+export function levelsShown(row: Readonly<Record<string, unknown>>, unset: string | null): string {
+  return LEVEL_MARKS.map(([mark, key]) => {
+    const level = row[key]
+    const said = typeof level === "string" ? level : unset
+    return said === null ? "" : `${mark}${said}`
+  }).join("")
+}
+
 export function shownOf(rows: readonly Row[]): string {
   return rows
     .map((one) => {
@@ -293,9 +306,7 @@ export function shownOf(rows: readonly Row[]): string {
       const to = one.endedAt === undefined ? null : mountainWallAt(new Date(one.endedAt))
       const clock = (held: { hour: number; minute: number } | null): string =>
         held === null ? "     " : `${padTwo(held.hour)}:${padTwo(held.minute)}`
-      const safety = typeof one.safetyLevel === "string" ? one.safetyLevel : "?"
-      const level = typeof one.difficultyLevel === "string" ? one.difficultyLevel : "?"
-      return `${clock(from)}-${clock(to)}  s${safety}d${level}  ${one.title}  ${one.id}`
+      return `${clock(from)}-${clock(to)}  ${levelsShown(one, "?")}  ${one.title}  ${one.id}`
     })
     .join("\n")
 }
