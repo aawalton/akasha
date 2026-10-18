@@ -14,4 +14,5 @@
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/track/daily/day/modules/stretch-hours/stretch-hours.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/value/health/fitness/strength/modules/lifting/lifting.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"persona/closeness-level/modules/climbing/closeness-level-climbing.computed-property-module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"text/writing/modules/pad-two/pad-two.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

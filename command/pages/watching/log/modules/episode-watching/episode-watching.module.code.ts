@@ -15,7 +15,7 @@ import type {
   Asked as Rows,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
+import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.computed-property-module.code.ts"
 
 export type HeldShow = {
   readonly slug: string

@@ -4,7 +4,7 @@ import {
   MONTH_NAMES,
 } from "akasha/page/core/view/modules/calendar-grid/calendar-grid.module.code.ts"
 import { formatSmartDate } from "akasha/page/core/view/modules/format-smart-date/format-smart-date.module.code.ts"
-import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
+import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.computed-property-module.code.ts"
 import { RRule } from "rrule"
 
 export type RruleValue = {

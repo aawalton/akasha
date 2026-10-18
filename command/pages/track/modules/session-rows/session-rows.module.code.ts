@@ -30,7 +30,7 @@ import {
   textIn,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
+import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.computed-property-module.code.ts"
 import { z } from "zod"
 
 type LevelsReading =

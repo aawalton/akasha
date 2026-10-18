@@ -7040,7 +7040,7 @@
 {"propertySlug":"decision-kind","path":"text/quote/quote.domain.ts","id":"01a06815-ceaf-7d64-bb5e-3b8a0ff93c0f"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/counted/counted.module.ts","id":"01a08ccc-aca8-7215-b4dd-560d25d104b5"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/name-drawing/name-drawing.module.ts","id":"01a08206-a5c1-75c9-8635-b646938fd3ac"}
-{"propertySlug":"decision-kind","path":"text/writing/modules/pad-two/pad-two.module.ts","id":"01a05c8b-6039-7947-8056-77c452128ce1"}
+{"propertySlug":"decision-kind","path":"text/writing/modules/pad-two/pad-two.computed-property-module.ts","id":"01a05c8b-6039-7947-8056-77c452128ce1"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/seconds/seconds.module.ts","id":"01a08e0e-2679-7975-bc1c-012c263cbfd2"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/shortened/shortened.module.ts","id":"01a0908e-2225-73cf-ab78-93caf2062757"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/suggest-closest/suggest-closest.module.ts","id":"01a06287-7841-7b53-968b-a40343c7aebe"}

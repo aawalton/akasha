@@ -45,7 +45,7 @@ import {
   askingFor,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
+import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.computed-property-module.code.ts"
 
 type Held = {
   readonly kind: Kind

@@ -25,7 +25,7 @@ import {
   type Tables,
   tablesOf,
 } from "akasha/temper/catalog/world/lorebook/modules/lore-book-tables/lore-book-tables.module.code.ts"
-import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
+import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.computed-property-module.code.ts"
 import { z } from "zod"
 
 const ROW = z.record(z.string(), z.unknown())
