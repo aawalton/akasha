@@ -1,11 +1,10 @@
 import type { SurfaceLevel } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import {
-  colorOf,
   styleText,
   styleTextOverPlay,
   type TextRole,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
-import { fontOf } from "akasha/temper/window/modules/type-scale/type-scale.module.code.ts"
+
 import { buildButton } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -31,9 +30,9 @@ type Spinning = TextureControl & {
   SetTextureRotation: (radians: number, centerX?: number, centerY?: number) => undefined
 }
 
-const SPINNER_TEXTURE = "Temper/bin/textures/loader.dds"
+const SPINNER_TEXTURE = "EsoUI/Art/Miscellaneous/wait_icon.dds"
 
-const SPINNER_SIZE = 16
+const SPINNER_SIZE = 32
 
 const TURN = 2 * math.pi
 
@@ -49,8 +48,6 @@ const FAILED_TITLE = "Failed to load"
 
 const TRY_AGAIN = "Try again"
 
-const OPAQUE = 1
-
 const SPIN_HANDLER = "TemperDataStateSpin"
 
 function styled(label: LabelControl, role: TextRole, overPlay: boolean): LabelControl {
@@ -65,8 +62,6 @@ function buildSpinner(parent: Control): Spinning {
   const spinner = WINDOW_MANAGER.CreateControl(undefined, parent, CT_TEXTURE) as Spinning
   spinner.SetTexture(SPINNER_TEXTURE)
   spinner.SetDimensions(SPINNER_SIZE, SPINNER_SIZE)
-  const [red, green, blue] = colorOf("muted")
-  spinner.SetColor(red, green, blue, OPAQUE)
   return spinner
 }
 
@@ -99,7 +94,6 @@ export function buildDataState(parent: Control, words: DataStateWords): DataStat
     "heading",
     overPlay
   )
-  title.SetFont(fontOf("lg", 500))
   title.SetText(FAILED_TITLE)
   const detail = styled(WINDOW_MANAGER.CreateControl(undefined, stack, CT_LABEL), "muted", overPlay)
   const again = words.retry

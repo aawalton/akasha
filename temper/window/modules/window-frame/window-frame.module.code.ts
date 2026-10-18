@@ -1,12 +1,13 @@
-import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import {
   paintSurface,
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
-import { colorTextsUnder } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
-import { fontOf, sizeOf } from "akasha/temper/window/modules/type-scale/type-scale.module.code.ts"
+import {
+  colorTextsUnder,
+  styleText,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { fontOf } from "akasha/temper/window/modules/type-scale/type-scale.module.code.ts"
 import { styleControlsUnder } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
-import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
@@ -19,33 +20,29 @@ export interface WindowFrame {
 
 const PADDING = 24
 
-const TITLE_GAP = spaceOf("3")
+const TITLE_ROW = 30
 
-const TITLE_ROW = sizeOf("2xl")
+const DIVIDER_GAP = 4
+
+const DIVIDER_HEIGHT = 6
+
+const BODY_GAP = 12
 
 export const FRAME_PADDING = PADDING
 
-export const FRAME_TOP = PADDING + TITLE_ROW + TITLE_GAP
+export const FRAME_TOP = PADDING + TITLE_ROW + DIVIDER_GAP + DIVIDER_HEIGHT + BODY_GAP
 
-const TITLE_FONT = fontOf("lg", 600)
+const TITLE_FONT = fontOf(24, "bold", "thick")
 
-const CLOSE_SIZE = 16
+const CLOSE_SIZE = 20
 
 const CLOSE_TOP = PADDING + (TITLE_ROW - CLOSE_SIZE) / 2
 
 const ACTION_GAP = 12
 
-const CLOSE_RESTING = 0.7
+const CLOSE_TEMPLATE = "ZO_CloseButton"
 
-const CLOSE_OVER = 1
-
-const CLOSE_TEXTURE = "/esoui/art/buttons/decline_up.dds"
-
-const CLOSE_TEXTURE_OVER = "/esoui/art/buttons/decline_over.dds"
-
-const CLOSE_TEXTURE_DOWN = "/esoui/art/buttons/decline_down.dds"
-
-const OPAQUE = 1
+const DIVIDER_TEMPLATE = "ZO_DynamicHorizontalDivider"
 
 const WINDOW_LEVEL: SurfaceLevel = 1
 
@@ -53,36 +50,44 @@ const CONTROLS_HANDLER = "TemperFrameControls"
 
 const SURFACE_DRAW_LEVEL = 0
 
+const BACKDROP_OVERHANG = 8
+
 function paintWindow(window: TopLevelWindow): undefined {
   const declared = GetControl<BackdropControl>(window, "FrameSurface")
   const surface =
     declared ?? WINDOW_MANAGER.CreateControl("$(parent)FrameSurface", window, CT_BACKDROP)
-  surface.SetAnchorFill()
+  surface.ClearAnchors()
+  surface.SetAnchor(TOPLEFT, window, TOPLEFT, -BACKDROP_OVERHANG, -BACKDROP_OVERHANG)
+  surface.SetAnchor(BOTTOMRIGHT, window, BOTTOMRIGHT, BACKDROP_OVERHANG, BACKDROP_OVERHANG)
   paintSurface(surface, WINDOW_LEVEL)
-  surface.SetEdgeColor(0, 0, 0, 0)
-  surface.SetEdgeTexture(undefined, 1, 1, 1)
   surface.SetDrawLayer(DL_BACKGROUND)
   surface.SetDrawLevel(SURFACE_DRAW_LEVEL)
   return undefined
 }
 
 function drawClose(window: TopLevelWindow, onClose: (this: void) => undefined): undefined {
-  const close = WINDOW_MANAGER.CreateControl("$(parent)FrameClose", window, CT_BUTTON)
-  close.SetDimensions(CLOSE_SIZE, CLOSE_SIZE)
+  const close = WINDOW_MANAGER.CreateControlFromVirtual<ButtonControl>(
+    "$(parent)FrameClose",
+    window,
+    CLOSE_TEMPLATE
+  )
+  close.ClearAnchors()
   close.SetAnchor(TOPRIGHT, window, TOPRIGHT, -PADDING, CLOSE_TOP)
-  close.SetNormalTexture(CLOSE_TEXTURE)
-  close.SetMouseOverTexture(CLOSE_TEXTURE_OVER)
-  close.SetPressedTexture(CLOSE_TEXTURE_DOWN)
-  close.SetAlpha(CLOSE_RESTING)
-  close.SetHandler("OnMouseEnter", function (this: void): undefined {
-    close.SetAlpha(CLOSE_OVER)
-  })
-  close.SetHandler("OnMouseExit", function (this: void): undefined {
-    close.SetAlpha(CLOSE_RESTING)
-  })
   close.SetHandler("OnClicked", function (this: void): undefined {
     onClose()
   })
+  return undefined
+}
+
+function drawDivider(window: TopLevelWindow): undefined {
+  const divider = WINDOW_MANAGER.CreateControlFromVirtual(
+    "$(parent)FrameDivider",
+    window,
+    DIVIDER_TEMPLATE
+  )
+  const top = PADDING + TITLE_ROW + DIVIDER_GAP
+  divider.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, top)
+  divider.SetAnchor(TOPRIGHT, window, TOPRIGHT, -PADDING, top)
   return undefined
 }
 
@@ -100,10 +105,10 @@ export function frameWindow(
   title.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, PADDING)
   title.SetHeight(TITLE_ROW)
   title.SetVerticalAlignment(TEXT_ALIGN_CENTER)
+  styleText(title, "heading")
   title.SetFont(TITLE_FONT)
-  const [red, green, blue] = TEXT_PRIMARY
-  title.SetColor(red, green, blue, OPAQUE)
   title.SetText(titled)
+  drawDivider(window)
   if (onClose !== undefined) drawClose(window, onClose)
   const actions = WINDOW_MANAGER.CreateControl("$(parent)FrameActions", window, CT_CONTROL)
   const actionsEnd = onClose === undefined ? PADDING : PADDING + CLOSE_SIZE + ACTION_GAP

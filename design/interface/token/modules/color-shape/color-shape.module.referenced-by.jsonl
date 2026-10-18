@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"design/interface/token/modules/semantic-color/semantic-color.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"design/interface/token/modules/surface-color/surface-color.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"design/interface/token/modules/text-color/text-color.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"temper/modules/surface-backdrop/surface-backdrop.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"temper/window/modules/text-style/text-style.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"temper/window/modules/window-controls/window-controls.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"temper/window/modules/window-popover/window-popover.module.code.ts","typed":true,"deferred":false}

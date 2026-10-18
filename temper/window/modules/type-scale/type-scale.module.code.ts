@@ -1,44 +1,19 @@
-export type TypeSize = "xs" | "sm" | "base" | "lg" | "xl" | "2xl" | "3xl"
+export type TypeSize = 13 | 16 | 18 | 20 | 24 | 30
 
-export type TypeWeight = 400 | 500 | 600 | 700
+export type TypeFace = "medium" | "bold"
 
-export type TypeFamily = "sans" | "mono"
+export type TypeShadow = "thin" | "thick"
 
-const SIZES: Readonly<Record<TypeSize, number>> = {
-  xs: 12,
-  sm: 14,
-  base: 16,
-  lg: 18,
-  xl: 20,
-  "2xl": 24,
-  "3xl": 30,
+const FACES: Readonly<Record<TypeFace, string>> = {
+  medium: "$(MEDIUM_FONT)",
+  bold: "$(BOLD_FONT)",
 }
 
-const SANS: Readonly<Record<TypeWeight, string>> = {
-  400: "Geist-Regular",
-  500: "Geist-Medium",
-  600: "Geist-SemiBold",
-  700: "Geist-Bold",
+const SHADOWS: Readonly<Record<TypeShadow, string>> = {
+  thin: "soft-shadow-thin",
+  thick: "soft-shadow-thick",
 }
 
-const MONO: Readonly<Record<TypeWeight, string>> = {
-  400: "GeistMono-Regular",
-  500: "GeistMono-Medium",
-  600: "GeistMono-Medium",
-  700: "GeistMono-Medium",
-}
-
-const FONTS_AT = "Temper/bin/fonts"
-
-export function sizeOf(size: TypeSize): number {
-  return SIZES[size]
-}
-
-function faceOf(weight: TypeWeight, family: TypeFamily = "sans"): string {
-  const file = family === "mono" ? MONO[weight] : SANS[weight]
-  return `${FONTS_AT}/${file}.slug`
-}
-
-export function fontOf(size: TypeSize, weight: TypeWeight, family: TypeFamily = "sans"): string {
-  return `${faceOf(weight, family)}|${SIZES[size]}`
+export function fontOf(size: TypeSize, face: TypeFace, shadow: TypeShadow = "thin"): string {
+  return `${FACES[face]}|${size}|${SHADOWS[shadow]}`
 }

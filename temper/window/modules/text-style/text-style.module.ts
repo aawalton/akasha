@@ -14,31 +14,35 @@ export const textStyle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Body text is 14 in Geist at 400, in the primary text color.",
+      statement: "Body text is the game's ZoFontGame, in the game's normal text color.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A heading is 14 in Geist at 500, in the primary text color.",
+      statement: "A heading is the game's ZoFontWinH4, in capitals and the selected text color.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Strong text is 14 in Geist at 600, in the primary text color.",
+      statement: "Strong text is the game's ZoFontGameBold, in the selected text color.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A column or field label is 12 in Geist at 500, secondary and in capitals.",
+      statement: "A column or field label is set as the game's sort header is, in capitals.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A number in a table or a stat is 14 in Geist Mono.",
+      statement: "A number in a table or a stat is set as body text is.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Accent text is bold and in the web's gold.",
+      statement: "Accent text is bold and in the game's contrast gold.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Text less important than body text is secondary, and the least is tertiary.",
+      statement: "Text less important than body text is the default text color, the least is hint.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A part's color is read from the game's interface colors when it is painted.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -66,5 +70,5 @@ export const textStyle = {
     },
   ],
   createdAt: "2026-09-25T14:30:48.506Z",
-  updatedAt: "2026-09-26T13:52:42.000Z",
+  updatedAt: "2026-10-18T17:23:25.067Z",
 } as const satisfies Module

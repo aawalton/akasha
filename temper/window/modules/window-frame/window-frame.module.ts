@@ -9,7 +9,7 @@ export const windowFrame = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A Temper window is framed as the web's dialog is.",
+      statement: "A Temper window is framed as the game's own dialog is.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -17,11 +17,19 @@ export const windowFrame = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The title is large, semibold and in the primary text color, at the top left.",
+      statement: "The window's backdrop reaches 8 past its edges, as the game's default one does.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A window the player closes has a cross at the top right, dim until pointed at.",
+      statement: "The title is set as the game's dialog title is, at the top left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game's stretching divider runs under the title, across the padding.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window the player closes has the game's close button at the top right.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -67,11 +75,7 @@ export const windowFrame = {
       statement:
         "A framed window's fields, dropdowns, sliders and scroll bars are restyled each time it shows.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The cross is the game's own art until Temper ships one in the web's look.",
-    },
   ],
   createdAt: "2026-09-25T13:01:17.345Z",
-  updatedAt: "2026-09-25T16:34:32.000Z",
+  updatedAt: "2026-10-18T17:23:25.067Z",
 } as const satisfies Module

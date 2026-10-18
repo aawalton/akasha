@@ -17,7 +17,8 @@ export const windowDataState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Loading shows the web's spinner, turning once a second, over any words it has.",
+      statement:
+        "Loading shows the game's wait icon, turning once a second, over any words it has.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -25,7 +26,7 @@ export const windowDataState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Failed shows the web's title, Failed to load, over what went wrong.",
+      statement: "Failed shows a heading, Failed to load, over what went wrong.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,11 +36,7 @@ export const windowDataState = {
       decisionKind: "decision-kind/departure",
       statement: "Words shown over play take the shadowed faces of their parts.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The spinner is lucide's loader drawn white, and the game tints it muted.",
-    },
   ],
   createdAt: "2026-09-25T18:51:56.852Z",
-  updatedAt: "2026-09-25T18:52:06.000Z",
+  updatedAt: "2026-10-18T17:23:25.067Z",
 } as const satisfies Module

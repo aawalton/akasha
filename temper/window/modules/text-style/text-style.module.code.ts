@@ -1,17 +1,13 @@
 import type { Rgb } from "akasha/design/interface/token/modules/color-shape/color-shape.module.code.ts"
-import { YELLOW } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
-import {
-  TEXT_PRIMARY,
-  TEXT_SECONDARY,
-  TEXT_TERTIARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import {
   fontOf,
-  type TypeFamily,
+  type TypeFace,
+  type TypeShadow,
   type TypeSize,
-  type TypeWeight,
 } from "akasha/temper/window/modules/type-scale/type-scale.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
@@ -27,75 +23,75 @@ export type TextRole =
 
 interface RoleStyle {
   readonly size: TypeSize
-  readonly weight: TypeWeight
-  readonly family: TypeFamily
-  readonly color: Rgb
+  readonly face: TypeFace
+  readonly shadow: TypeShadow
+  readonly color: number
   readonly uppercase: boolean
   readonly font: string
 }
 
 const ROLES: Readonly<Record<TextRole, RoleStyle>> = {
   heading: {
-    size: "sm",
-    weight: 500,
-    family: "sans",
-    color: TEXT_PRIMARY,
-    uppercase: false,
+    size: 18,
+    face: "bold",
+    shadow: "thick",
+    color: INTERFACE_TEXT_COLOR_SELECTED,
+    uppercase: true,
     font: "TemperFontHeading",
   },
   body: {
-    size: "sm",
-    weight: 400,
-    family: "sans",
-    color: TEXT_PRIMARY,
+    size: 18,
+    face: "medium",
+    shadow: "thin",
+    color: INTERFACE_TEXT_COLOR_NORMAL,
     uppercase: false,
     font: "TemperFontBody",
   },
   strong: {
-    size: "sm",
-    weight: 600,
-    family: "sans",
-    color: TEXT_PRIMARY,
+    size: 18,
+    face: "bold",
+    shadow: "thin",
+    color: INTERFACE_TEXT_COLOR_SELECTED,
     uppercase: false,
     font: "TemperFontStrong",
   },
   muted: {
-    size: "sm",
-    weight: 400,
-    family: "sans",
-    color: TEXT_SECONDARY,
+    size: 18,
+    face: "medium",
+    shadow: "thin",
+    color: INTERFACE_TEXT_COLOR_DEFAULT_TEXT,
     uppercase: false,
     font: "TemperFontMuted",
   },
   hint: {
-    size: "sm",
-    weight: 400,
-    family: "sans",
-    color: TEXT_TERTIARY,
+    size: 16,
+    face: "medium",
+    shadow: "thin",
+    color: INTERFACE_TEXT_COLOR_HINT,
     uppercase: false,
     font: "TemperFontHint",
   },
   label: {
-    size: "xs",
-    weight: 500,
-    family: "sans",
-    color: TEXT_SECONDARY,
+    size: 18,
+    face: "medium",
+    shadow: "thin",
+    color: INTERFACE_TEXT_COLOR_NORMAL,
     uppercase: true,
     font: "TemperFontLabel",
   },
   number: {
-    size: "sm",
-    weight: 400,
-    family: "mono",
-    color: TEXT_PRIMARY,
+    size: 18,
+    face: "medium",
+    shadow: "thin",
+    color: INTERFACE_TEXT_COLOR_NORMAL,
     uppercase: false,
     font: "TemperFontNumber",
   },
   accent: {
-    size: "sm",
-    weight: 700,
-    family: "sans",
-    color: YELLOW,
+    size: 18,
+    face: "bold",
+    shadow: "thin",
+    color: INTERFACE_TEXT_COLOR_CONTRAST,
     uppercase: false,
     font: "TemperFontAccent",
   },
@@ -103,17 +99,24 @@ const ROLES: Readonly<Record<TextRole, RoleStyle>> = {
 
 const OPAQUE = 1
 
-const OVER_PLAY_SHADOW = "soft-shadow-thick"
-
 const OVER_PLAY_NAME = "OverPlay"
 
+function pathOf(style: RoleStyle): string {
+  return fontOf(style.size, style.face, style.shadow)
+}
+
 function overPlayPathOf(style: RoleStyle): string {
-  return `${fontOf(style.size, style.weight, style.family)}|${OVER_PLAY_SHADOW}`
+  return fontOf(style.size, style.face, "thick")
+}
+
+function rgbOf(style: RoleStyle): Rgb {
+  const [red, green, blue] = GetInterfaceColor(INTERFACE_COLOR_TYPE_TEXT_COLORS, style.color)
+  return [red, green, blue]
 }
 
 export function declareTextFonts(): undefined {
   for (const style of Object.values(ROLES)) {
-    CreateFont(style.font, fontOf(style.size, style.weight, style.family))
+    CreateFont(style.font, pathOf(style))
     CreateFont(`${style.font}${OVER_PLAY_NAME}`, overPlayPathOf(style))
   }
   return undefined
@@ -124,18 +127,17 @@ export function fontNameOf(role: TextRole): string {
 }
 
 export function fontPathOf(role: TextRole): string {
-  const style = ROLES[role]
-  return fontOf(style.size, style.weight, style.family)
+  return pathOf(ROLES[role])
 }
 
 export function colorOf(role: TextRole): Rgb {
-  return ROLES[role].color
+  return rgbOf(ROLES[role])
 }
 
 const FULL = 255
 
 export function hexOf(role: TextRole): string {
-  const [red, green, blue] = ROLES[role].color
+  const [red, green, blue] = colorOf(role)
   return string.format(
     "%02X%02X%02X",
     math.floor(red * FULL + 0.5),
@@ -151,14 +153,14 @@ export function colorText(label: LabelControl, color: Rgb): LabelControl {
 }
 
 function paintRole(label: LabelControl, style: RoleStyle): undefined {
-  colorText(label, style.color)
+  colorText(label, rgbOf(style))
   label.SetModifyTextType(style.uppercase ? MODIFY_TEXT_TYPE_UPPERCASE : MODIFY_TEXT_TYPE_NONE)
   return undefined
 }
 
 export function styleText(label: LabelControl, role: TextRole): LabelControl {
   const style = ROLES[role]
-  label.SetFont(fontOf(style.size, style.weight, style.family))
+  label.SetFont(pathOf(style))
   paintRole(label, style)
   return label
 }

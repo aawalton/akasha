@@ -4,12 +4,12 @@ export const surfaceBackdrop = {
   id: "01a0ca1b-9819-771f-8b2f-507f18be812b",
   type: "page-type/module",
   slug: "surface-backdrop",
-  definition: "the backdrop filling a game control, in the grey one design surface level names",
+  definition: "the backdrop filling a game control, in the game's art for the level it sits at",
   code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A window's background is a surface level rather than a color the window states.",
+      statement: "A window's background is a surface level rather than art the window states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -17,16 +17,17 @@ export const surfaceBackdrop = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A surface is opaque, and none of the game shows through it.",
+      statement: "A window, at the first two levels, takes the art of the game's default backdrop.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A caller needing its own name, anchors or layer makes the backdrop and has this color it.",
+        "A panel or field, at any higher level, takes the art of the game's inset backdrop.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No edge is drawn here.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A caller needing its own name, anchors or layer makes the backdrop and has this paint it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,5 +36,5 @@ export const surfaceBackdrop = {
     },
   ],
   createdAt: "2026-09-22T17:13:21.177Z",
-  updatedAt: "2026-09-25T21:10:06.000Z",
+  updatedAt: "2026-10-18T17:23:25.067Z",
 } as const satisfies Module
