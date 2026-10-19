@@ -5,8 +5,8 @@ export const fiveHourStartedAt = {
   type: "page-type/instant-property",
   slug: "five-hour-started-at",
   propertySlug: "five-hour-started-at",
-  definition: "when the five-hour window opened",
+  definition: "when a five-hour window starts",
   types: "ts",
   createdAt: "2026-08-30T22:44:04.537Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-19T18:36:52.548Z",
 } as const satisfies InstantProperty
