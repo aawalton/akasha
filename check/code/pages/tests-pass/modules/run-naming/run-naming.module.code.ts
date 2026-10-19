@@ -16,7 +16,7 @@ import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 type ReadersOf = (path: string) => readonly string[]
 
-type Naming = Pick<Answering, "listedAt" | "namersAt">
+type Naming = Pick<Answering, "listedAt" | "namersAt" | "fileKeysAt" | "typesCarrying">
 
 function noReaders(): readonly string[] {
   return []
@@ -24,16 +24,28 @@ function noReaders(): readonly string[] {
 
 const READERS = new WeakMap<Naming, ReadersOf>()
 
+const UNDER = "/"
+
+function typesOf(index: Naming, path: string): readonly string[] {
+  const said = partedIn(path)
+  if (said !== null) return [said.pageType]
+  const found: string[] = []
+  for (const [slug, fileName] of index.fileKeysAt()) {
+    if (fileName === null) continue
+    if (path !== fileName && !path.endsWith(`${UNDER}${fileName}`)) continue
+    found.push(...index.typesCarrying(slug))
+  }
+  return found
+}
+
 export function readersIn(index: Naming): ReadersOf {
   const held = READERS.get(index)
   if (held !== undefined) return held
   const byType = new Map<string, readonly string[]>()
-  const readersOf: ReadersOf = (path) => {
-    const said = partedIn(path)
-    if (said === null) return []
-    const known = byType.get(said.pageType)
+  const readersOfType = (slug: string): readonly string[] => {
+    const known = byType.get(slug)
     if (known !== undefined) return known
-    const listed = index.listedAt(pageType.slug, said.pageType)[0]
+    const listed = index.listedAt(pageType.slug, slug)[0]
     const found =
       listed === undefined
         ? []
@@ -41,8 +53,15 @@ export function readersIn(index: Naming): ReadersOf {
             .namersAt(listed.path)
             .filter((one) => one.propertySlug === testReads.propertySlug)
             .map((one) => one.path)
-    byType.set(said.pageType, found)
+    byType.set(slug, found)
     return found
+  }
+  const readersOf: ReadersOf = (path) => {
+    const found = new Set<string>()
+    for (const slug of typesOf(index, path)) {
+      for (const one of readersOfType(slug)) found.add(one)
+    }
+    return [...found]
   }
   READERS.set(index, readersOf)
   return readersOf

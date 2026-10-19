@@ -131,7 +131,14 @@ const STAT_TYPE_AT = "akasha/stat/stat.page-type.ts"
 
 const OTHER_AT = "akasha/other/other.module.ts"
 
-function indexNaming(propertySlug: string): Pick<Answering, "listedAt" | "namersAt"> {
+const KEYED = new Map<string, string | null>([
+  ["stat-manifest", "stat.json"],
+  ["stat-folder", null],
+])
+
+function indexNaming(
+  propertySlug: string
+): Pick<Answering, "listedAt" | "namersAt" | "fileKeysAt" | "typesCarrying"> {
   return {
     listedAt: (kind, slug) =>
       kind === "page-type" && slug === "stat" ? [{ path: STAT_TYPE_AT, id: "stat" }] : [],
@@ -142,6 +149,8 @@ function indexNaming(propertySlug: string): Pick<Answering, "listedAt" | "namers
             { path: OTHER_AT, propertySlug: "parts" },
           ]
         : [],
+    fileKeysAt: () => KEYED,
+    typesCarrying: (named) => new Set(named === "stat-manifest" ? ["stat"] : []),
   }
 }
 
@@ -155,6 +164,15 @@ test("a module naming the page type under another property is no reader", () => 
 
 test("a file that names no page type has no reader", () => {
   expect(readersIn(indexNaming("test-reads"))("akasha/held.md")).toEqual([])
+})
+
+test("a file a page type's file property names is read as of that type, at any depth", () => {
+  expect(readersIn(indexNaming("test-reads"))("stat.json")).toEqual([READER_AT])
+  expect(readersIn(indexNaming("test-reads"))("akasha/one/stat.json")).toEqual([READER_AT])
+})
+
+test("a file only ending in such a name is of no type", () => {
+  expect(readersIn(indexNaming("test-reads"))("akasha/onestat.json")).toEqual([])
 })
 
 const SCOPED = '{ "name": "@akasha/held" }\n'

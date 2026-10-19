@@ -45,6 +45,11 @@ export const runNaming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A file no page is named by is of each page type carrying a file property naming that file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Those modules are read from the index the change leaves.",
     },
     {
@@ -73,5 +78,5 @@ export const runNaming = {
     },
   ],
   createdAt: "2026-09-19T03:50:53.912Z",
-  updatedAt: "2026-10-14T18:24:29.973Z",
+  updatedAt: "2026-10-19T17:50:04.829Z",
 } as const satisfies Module
