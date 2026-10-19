@@ -7,8 +7,8 @@ export const deathDyingAndTheAfterlifeLessonsFromWorldCultures = {
   title: "Death, Dying, and the Afterlife: Lessons from World Cultures",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 753.6,
-  ownProgress: 31.4,
+  ownLength: 753.57,
+  ownProgress: 31.87,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/philosophy-and-religion-great-courses",
@@ -22,5 +22,6 @@ export const deathDyingAndTheAfterlifeLessonsFromWorldCultures = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T19:56:16.696Z",
+  progressedAt: "2026-10-19T19:56:16.696Z",
 } as const satisfies GreatCourse
