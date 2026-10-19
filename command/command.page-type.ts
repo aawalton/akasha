@@ -114,6 +114,7 @@ export const command = {
     "namespace/model",
     "namespace/music",
     "namespace/page",
+    "namespace/plaid",
     "namespace/refresh",
     "namespace/seat",
     "namespace/sms",
@@ -227,5 +228,5 @@ export const command = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-29T04:53:12.685Z",
-  updatedAt: "2026-10-18T16:19:16.055Z",
+  updatedAt: "2026-10-19T14:18:51.946Z",
 } as const satisfies PageType

@@ -1,3 +1,6 @@
+{"propertySlug":"argument","path":"command/pages/plaid/check/plaid-check.command.ts","id":"01a15487-8caa-7be3-89db-3e254628efb8"}
 {"propertySlug":"argument","path":"command/pages/track/health-import/track-health-import.command.ts","id":"01a0620c-6340-70c9-a176-730aa9470e96"}
+{"propertySlug":"import","fileName":"first-day.argument.ts","path":"command/pages/plaid/check/plaid-check.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"first-day.argument.ts","path":"command/pages/plaid/check/plaid-check.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"first-day.argument.ts","path":"command/pages/track/health-import/track-health-import.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"first-day.argument.ts","path":"command/pages/track/health-import/track-health-import.command.test.ts","typed":false,"deferred":false}

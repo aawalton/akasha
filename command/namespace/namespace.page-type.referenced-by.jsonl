@@ -48,6 +48,7 @@
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/music/music.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/page/page.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/page/secret/page-secret.namespace.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/plaid/plaid.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/refresh/refresh.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/request/request.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/seat/seat.namespace.ts","typed":true,"deferred":false}

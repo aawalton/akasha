@@ -194,6 +194,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/page/secret/list/page-secret-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/page/secret/set/page-secret-set.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/page/secret/show/page-secret-show.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/plaid/check/plaid-check.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/read/read.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/refresh/message/refresh-message.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/refresh/persona/refresh-persona.command.code.ts","typed":false,"deferred":false}

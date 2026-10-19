@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/model/gateway/status/model-gateway-status.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/model/test/model-test.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/plaid/check/plaid-check.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/seat/transcript-list/seat-transcript-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.code.ts","typed":false,"deferred":false}

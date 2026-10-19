@@ -5,4 +5,5 @@
 {"propertySlug":"import","fileName":"monarch-shape.module.code.ts","path":"alan/harness/monarch/modules/rule-dates/monarch-rule-dates.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"monarch-shape.module.code.ts","path":"alan/harness/monarch/modules/shape/monarch-shape.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"monarch-shape.module.code.ts","path":"alan/harness/monarch/modules/transaction-create/monarch-transaction-create.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-shape.module.code.ts","path":"command/pages/plaid/check/plaid-check.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}
