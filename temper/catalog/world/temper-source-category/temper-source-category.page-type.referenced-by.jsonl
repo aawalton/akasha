@@ -27,5 +27,6 @@
 {"propertySlug":"import","fileName":"temper-source-category.page-type.types.ts","path":"temper/catalog/world/temper-source-category/pages/target.temper-source-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-source-category.page-type.types.ts","path":"temper/catalog/world/temper-source-category/pages/weapons.temper-source-category.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/temper-world.domain.ts","id":"01a05fba-ce3d-792d-9f9f-937d79f8f4d9"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

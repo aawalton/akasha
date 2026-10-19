@@ -72,5 +72,6 @@
 {"propertySlug":"parts","path":"temper/player/progress/temper-progress.domain.ts","id":"01a05fac-7582-726f-ac10-d5261c7e1f65"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/temper-completion-category/properties/completion-category-parent.relation-property.ts","id":"01a0cae0-68ce-716e-9958-296e965e8ca5"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/thing/properties/completion-card.relation-property.ts","id":"01a0c688-9666-72c8-b20b-f6fc5fd64234"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

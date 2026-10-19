@@ -6425,6 +6425,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.ts","id":"01a1557f-ab1f-77ac-8712-4cb4dff8f2b5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/enchant-proc/enchant-proc.module.ts","id":"01a13ff0-d4d8-7ee8-8a0f-d092bf883998"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-armor/extract-armor.module.ts","id":"01a06271-abcf-73d3-9f27-e843cae7cf5f"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.ts","id":"01a13ac6-0c64-7577-a066-20d7f033e67a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.ts","id":"01a0de73-1713-7598-b66f-9183a99a877a"}

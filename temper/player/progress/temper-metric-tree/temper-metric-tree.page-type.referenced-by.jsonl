@@ -367,5 +367,6 @@
 {"propertySlug":"target-page-type","path":"temper/catalog/gear/grade/properties/grade-metric.relation-property.ts","id":"01a0d3e2-9891-7087-bb1d-2fd35c9c6d82"}
 {"propertySlug":"target-page-type","path":"temper/catalog/thing/properties/effect-metric.relation-property.ts","id":"01a0d3fb-ee3d-7a22-b414-2c3736bcc96a"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/temper-metric-tree/properties/metric-tree-parent.relation-property.ts","id":"01a0cade-0463-70a3-964b-14162e508635"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

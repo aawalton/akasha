@@ -80,6 +80,7 @@
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/stat/modules/extract-armor/extract-armor.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.test.ts","typed":false,"deferred":false}

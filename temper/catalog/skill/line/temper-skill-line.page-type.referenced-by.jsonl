@@ -151,5 +151,6 @@
 {"propertySlug":"target-page-type","path":"temper/catalog/thing/properties/skill-line.relation-property.ts","id":"01a0cb21-70d9-7538-be2f-3fc1b1531dca"}
 {"propertySlug":"target-page-type","path":"temper/catalog/world/temper-race/properties/racial-skill-line.relation-property.ts","id":"01a0deec-4a5c-714c-8641-cac857769f36"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/temper-inventory-rule/properties/skill-lines.multi-relation-property.ts","id":"01a0d8a2-9a9e-7ccd-915e-4d09fa54b831"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}
