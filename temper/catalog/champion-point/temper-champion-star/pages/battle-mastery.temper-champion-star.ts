@@ -10,6 +10,7 @@ export const battleMastery = {
   championConstellation: "warfare",
   isSlottable: false,
   hashPlace: 77,
+  jumpPoints: [0, 20, 40],
   createdAt: "2026-09-27T05:00:00.921Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:56:23.350Z",
 } as const satisfies TemperChampionStar
