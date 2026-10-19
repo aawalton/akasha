@@ -342,6 +342,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/app-routes/app-routes.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/audit-ast-unused/ast-unused-config/ast-unused-config.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/audit-ast-unused/audit-ast-unused.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/biome/biome.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/body/code-body.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/browser/browser.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/browser/command/browser-command.domain.ts","typed":true,"deferred":false}

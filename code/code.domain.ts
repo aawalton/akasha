@@ -58,6 +58,7 @@ export const code = {
     "file-property/git-ignore",
     "page-type/data-table",
     "text-property/name-patterns",
+    "domain/biome",
   ],
   decisions: [
     {
@@ -110,5 +111,5 @@ export const code = {
     },
   ],
   createdAt: "2026-08-28T20:53:56.613Z",
-  updatedAt: "2026-09-25T15:05:40.000Z",
+  updatedAt: "2026-10-19T17:25:40.029Z",
 } as const satisfies Domain
