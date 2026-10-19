@@ -37,7 +37,8 @@ test("a skill whose effect runs is cast again only once it runs out, and later o
     { name: "Flame Lash", casts: 9, healing: 9 * 2514 },
   ])
   expect(healed.healingPerSecond).toBe((4291 + 5 * 644 + 9 * 2514) / 10)
-  expect(healed.lightAttacks).toBe(0)
+  expect(healed.lightAttacks).toBe(10)
+  expect(healed.heavyAttacks).toBe(0)
 })
 
 test("a skill with no duration waits behind every skill with one, wherever it sits on the bar", () => {
@@ -48,10 +49,17 @@ test("a skill with no duration waits behind every skill with one, wherever it si
   ])
 })
 
-test("where nothing can be cast, the global cooldown goes to a light attack", () => {
+test("where nothing can be cast, the global cooldown goes to a heavy attack", () => {
   const healed = healingOverRotation([BRAWLER], 12)
   expect(healed.skills).toEqual([{ name: "Brawler", casts: 2, healing: 2 * 6381 }])
-  expect(healed.lightAttacks).toBe(10)
+  expect(healed.heavyAttacks).toBe(10)
+  expect(healed.lightAttacks).toBe(2)
+})
+
+test("a light attack is woven into each cast, and each attack falls in its cast's tick", () => {
+  const healed = healingOverRotation([BRAWLER], 7, undefined, { light: 10, heavy: 100 })
+  expect(healed.damageByTick).toEqual([10, 100, 100, 100, 100, 100, 10])
+  expect(healed.directDamage).toBe(2 * 10 + 5 * 100)
 })
 
 test("a shield the game gives no duration runs as long as its tooltip says", () => {

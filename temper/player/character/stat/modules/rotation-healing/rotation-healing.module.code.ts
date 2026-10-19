@@ -17,6 +17,13 @@ export type Heroism = {
   readonly lastsSeconds: number
 }
 
+type RotationAttacks = {
+  readonly light: number
+  readonly heavy: number
+}
+
+const NO_ATTACKS: RotationAttacks = { light: 0, heavy: 0 }
+
 export type RotationUltimate = {
   readonly name: string
   readonly cost: number
@@ -56,6 +63,7 @@ export type RotationHealed = {
   readonly fightSeconds: number
   readonly healingPerSecond: number
   readonly lightAttacks: number
+  readonly heavyAttacks: number
   readonly directDamage: number
   readonly shielded: number
   readonly skills: readonly SkillHealed[]
@@ -100,7 +108,8 @@ function tickTimes(
 export function healingOverRotation(
   skills: readonly RotationSkill[],
   fightSeconds: number,
-  ultimateSlotted?: RotationUltimate
+  ultimateSlotted?: RotationUltimate,
+  attacks: RotationAttacks = NO_ATTACKS
 ): RotationHealed {
   let ultimate = 0
   let ultimateGained = 0
@@ -117,6 +126,7 @@ export function healingOverRotation(
   }
   const queue = [...skills.keys()].sort((one, two) => lasting(one) - lasting(two))
   let lightAttacks = 0
+  let heavyAttacks = 0
   let shielded = 0
   let now = 0
   const tickCount = Math.ceil(fightSeconds)
@@ -142,16 +152,21 @@ export function healingOverRotation(
       ultimate -= ultimateSlotted.cost
       ultimateCasts += 1
       addAt(healingByTick, tickOf(now), ultimateSlotted.cost * ultimateSlotted.healingPerPoint)
+      lightAttacks += 1
+      addAt(damageByTick, tickOf(now), attacks.light)
       step(GLOBAL_COOLDOWN_SECONDS)
       continue
     }
     const next = queue.find((at) => (runsUntil[at] ?? 0) <= now && (readyAt[at] ?? 0) <= now) ?? -1
     const skill = skills[next]
     if (skill === undefined) {
-      lightAttacks += 1
+      heavyAttacks += 1
+      addAt(damageByTick, tickOf(now), attacks.heavy)
       step(GLOBAL_COOLDOWN_SECONDS)
       continue
     }
+    lightAttacks += 1
+    addAt(damageByTick, tickOf(now), attacks.light)
     if (skill.heroism !== undefined) {
       heroismUntil = now + skill.heroism.lastsSeconds
       heroismPerSecond = skill.heroism.ultimate / skill.heroism.everySeconds
@@ -188,6 +203,7 @@ export function healingOverRotation(
     fightSeconds,
     healingPerSecond: total / fightSeconds,
     lightAttacks,
+    heavyAttacks,
     directDamage: damageByTick.reduce((sum, one) => sum + one, 0),
     shielded,
     healingByTick,

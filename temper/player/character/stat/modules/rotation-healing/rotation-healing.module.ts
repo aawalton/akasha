@@ -26,7 +26,15 @@ export const rotationHealing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Where no skill can be cast, the global cooldown goes to a light attack that heals none.",
+        "Where no skill can be cast, the global cooldown goes to a full heavy attack that heals none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A heavy attack takes one global cooldown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A light or heavy attack lands in the tick its global cooldown starts in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,7 +48,12 @@ export const rotationHealing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A light attack is woven into each global cooldown, so Ultimate builds 3 a second from the start.",
+        "A light attack is woven into each global cooldown a skill or the ultimate is cast in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Ultimate builds 3 a second from the start, whichever attack fills the global cooldown.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -91,5 +104,5 @@ export const rotationHealing = {
     },
   ],
   createdAt: "2026-10-14T20:33:53.850Z",
-  updatedAt: "2026-10-15T15:28:33.828Z",
+  updatedAt: "2026-10-19T18:47:33.952Z",
 } as const satisfies Module
