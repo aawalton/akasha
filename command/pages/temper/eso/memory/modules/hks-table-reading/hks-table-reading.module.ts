@@ -46,7 +46,20 @@ export const hksTableReading = {
       decisionKind: "decision-kind/departure",
       statement: "An entry whose key is nil is empty.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A table read whole is an object whose keys are written as the saved variables write them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A function or other value no file can hold is left out of a table read whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A table read whole is read no deeper than 32 tables.",
+    },
   ],
   createdAt: "2026-10-19T18:45:12.644Z",
-  updatedAt: "2026-10-19T18:46:33.505Z",
+  updatedAt: "2026-10-19T18:53:18.296Z",
 } as const satisfies Module

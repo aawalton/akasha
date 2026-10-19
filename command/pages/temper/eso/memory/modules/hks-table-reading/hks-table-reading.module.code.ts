@@ -6,6 +6,8 @@ export type Entry = { readonly key: Held; readonly value: Held }
 
 export type TableRead = { readonly header: readonly bigint[]; readonly entries: readonly Entry[] }
 
+export type LuaData = null | boolean | number | string | { readonly [key: string]: LuaData }
+
 const NIL = 0
 
 const BOOLEAN = 1
@@ -39,6 +41,8 @@ const TEXT_AT = 0x14n
 const LONGEST = 4096
 
 const MOST_NODES = 1 << 16
+
+const DEEPEST = 32
 
 function heldIn(bytes: Buffer, offset: number): Held {
   return { type: bytes.readUInt32LE(offset), value: bytes.readBigUInt64LE(offset + WORD) }
@@ -81,6 +85,29 @@ export function tableAt(read: Reader, table: bigint): TableRead | null {
       ...nodeEntries(read, head.readBigUInt64LE(NODES_AT), head.readUInt32LE(MASK_AT) + 1),
     ],
   }
+}
+
+function keyOf(read: Reader, key: Held): string | null {
+  if (key.type === NUMBER) return String(numberOf(key.value))
+  if (key.type === STRING) return textAt(read, key.value)
+  return null
+}
+
+export function dataOf(read: Reader, held: Held, depth = 0): LuaData | undefined {
+  if (held.type === NIL) return null
+  if (held.type === BOOLEAN) return held.value !== 0n
+  if (held.type === NUMBER) return numberOf(held.value)
+  if (held.type === STRING) return textAt(read, held.value) ?? undefined
+  if (held.type !== TABLE || depth >= DEEPEST) return undefined
+  const table = tableAt(read, held.value)
+  if (table === null) return undefined
+  const data: Record<string, LuaData> = {}
+  for (const entry of table.entries) {
+    const key = keyOf(read, entry.key)
+    const value = dataOf(read, entry.value, depth + 1)
+    if (key !== null && value !== undefined) data[key] = value
+  }
+  return data
 }
 
 function arrayEntries(read: Reader, array: bigint, size: number): readonly Entry[] {
