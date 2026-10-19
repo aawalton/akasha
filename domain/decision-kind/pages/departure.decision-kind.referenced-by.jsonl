@@ -6405,6 +6405,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts","id":"01a0df69-bdeb-70c4-a287-ed88cc239a92"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-target/properties/source-effects.record-property.ts","id":"01a0df56-c3db-7e0d-9336-655bfce43dde"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-target/temper-target.page-type.ts","id":"01a0df56-c3dc-7c2d-a644-96687915fe2c"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.ts","id":"01a1557f-ab1f-77ac-8712-4cb4dff8f2b5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/enchant-proc/enchant-proc.module.ts","id":"01a13ff0-d4d8-7ee8-8a0f-d092bf883998"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.ts","id":"01a13ac6-0c64-7577-a066-20d7f033e67a"}
