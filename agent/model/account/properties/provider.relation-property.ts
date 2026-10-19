@@ -5,7 +5,7 @@ export const provider = {
   type: "page-type/relation-property",
   slug: "provider",
   propertySlug: "provider",
-  definition: "the company that runs the models a model account or a seat calls",
+  definition: "the company that runs the models a page calls",
   targetPageType: "page-type/model-provider",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const provider = {
   ],
   types: "ts",
   createdAt: "2026-09-14T22:58:01.363Z",
-  updatedAt: "2026-10-12T12:39:05.909Z",
+  updatedAt: "2026-10-19T18:43:06.415Z",
 } as const satisfies RelationProperty
