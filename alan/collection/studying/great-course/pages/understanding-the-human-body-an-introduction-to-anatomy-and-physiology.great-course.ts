@@ -7,8 +7,8 @@ export const understandingTheHumanBodyAnIntroductionToAnatomyAndPhysiology = {
   title: "Understanding the Human Body: An Introduction to Anatomy and Physiology, 2nd Edition",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 1453.8,
-  ownProgress: 90.8625,
+  ownLength: 1453.48,
+  ownProgress: 92.4,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/health-and-mindfulness-great-courses",
@@ -24,5 +24,6 @@ export const understandingTheHumanBodyAnIntroductionToAnatomyAndPhysiology = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T19:00:02.870Z",
+  progressedAt: "2026-10-19T19:00:02.870Z",
 } as const satisfies GreatCourse
