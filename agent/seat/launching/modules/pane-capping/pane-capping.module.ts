@@ -4,7 +4,7 @@ export const paneCapping = {
   id: "01a0e31c-9dfb-72e7-8217-ccc7bb763e61",
   type: "page-type/module",
   slug: "pane-capping",
-  definition: "how code bounds the tasks a seat's pane makes",
+  definition: "how code keeps the processes a seat starts under a limit",
   code: "ts",
   test: "ts",
   decisions: [
@@ -35,5 +35,5 @@ export const paneCapping = {
     },
   ],
   createdAt: "2026-09-27T13:44:58.619Z",
-  updatedAt: "2026-09-27T13:45:08.000Z",
+  updatedAt: "2026-10-19T20:12:35.455Z",
 } as const satisfies Module
