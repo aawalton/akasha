@@ -55,6 +55,7 @@ export const construction = {
     "construction/be-verb-with-a-negator-and-a-noun-phrase",
     "construction/verb-phrase-with-a-time-conjunction-and-a-clause",
     "construction/noun-run-with-a-time-conjunction-and-a-clause",
+    "construction/modal-with-a-negator-and-a-verb-phrase",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -86,5 +87,5 @@ export const construction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T19:39:38.477Z",
-  updatedAt: "2026-10-19T17:46:50.583Z",
+  updatedAt: "2026-10-19T18:41:20.238Z",
 } as const satisfies PageType

@@ -5,6 +5,7 @@
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-past-participle-and-a-preposition.construction.ts","id":"01a0d896-be0d-7a3f-978d-33e88280c0ab"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-past-participle.construction.ts","id":"01a0c9a2-f76d-71dc-bf94-7139fa224b3b"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-present-participle.construction.ts","id":"01a0ca12-af3e-7c2a-8691-f11ab7829d6d"}
+{"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/modal-with-a-negator-and-a-verb-phrase.construction.ts","id":"01a15577-d96f-790a-b2a2-54e5fb73db4f"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/modal-with-a-verb-phrase.construction.ts","id":"01a0ca71-1f68-72f2-89ae-06af0abbbaad"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/verb-alone.construction.ts","id":"01a0c9a2-e37e-7d7c-8d71-3d06a13a96b5"}
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/verb-phrase-with-a-time-conjunction-and-a-clause.construction.ts","id":"01a15545-f559-7367-a52f-e56e6f1c778c"}
@@ -14,6 +15,7 @@
 {"propertySlug":"phrase-kind","path":"domain/plain-language/standard-agent-english/construction/pages/verb-with-a-to-clause.construction.ts","id":"01a0d8b1-d687-7730-b888-5201f5daa9f5"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/degree-adverb-with-an-adjective-and-a-clause.construction.ts","id":"01a0d5ce-a902-7e5a-aa57-7d7f7e4b5594"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/free-relative-pronoun-with-a-clause.construction.ts","id":"01a0c68f-6d81-7ca8-948f-a44ea461c351"}
+{"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/modal-with-a-negator-and-a-verb-phrase.construction.ts","id":"01a15577-d96f-790a-b2a2-54e5fb73db4f"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/modal-with-a-verb-phrase.construction.ts","id":"01a0ca71-1f68-72f2-89ae-06af0abbbaad"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-for-to-clause.construction.ts","id":"01a0d57c-f7ff-726a-9c6f-2649d55c91cf"}
