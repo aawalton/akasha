@@ -10,6 +10,7 @@ export const treasureHunter = {
   championConstellation: "craft",
   isSlottable: false,
   hashPlace: 3,
+  jumpPoints: [0, 50],
   createdAt: "2026-09-27T05:00:00.924Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:44.152Z",
 } as const satisfies TemperChampionStar
