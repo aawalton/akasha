@@ -4,7 +4,7 @@ export const roleplayWorldbuilder = {
   id: "01a14aee-d9b6-73d1-8ec6-adfe7bd0e1fa",
   type: "page-type/role",
   slug: "roleplay-worldbuilder",
-  definition: "an agent that files a roleplay story's world ahead of the narration reaching it",
+  definition: "an agent that writes the world a story needs",
   onCall: false,
   decisions: [
     {
@@ -69,5 +69,5 @@ export const roleplayWorldbuilder = {
     },
   ],
   createdAt: "2026-10-17T17:35:29.716Z",
-  updatedAt: "2026-10-17T18:03:18.509Z",
+  updatedAt: "2026-10-19T19:47:13.483Z",
 } as const satisfies Role
