@@ -109,6 +109,15 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A host file is loaded from the game's addons folder, as the watcher wrote it, where it is there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every host file loaded from the game's addons folder is carried back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every addon an addon's manifest depends on is loaded before it, once.",
     },
     {
@@ -227,5 +236,5 @@ export const uiStaging = {
     },
   ],
   createdAt: "2026-09-22T18:33:40.383Z",
-  updatedAt: "2026-10-18T19:35:14.292Z",
+  updatedAt: "2026-10-19T16:32:19.989Z",
 } as const satisfies Module

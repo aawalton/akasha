@@ -39,6 +39,7 @@ export const temperEsoUiHarness = {
     "module/saved-chunks",
     "module/zone-names-seeding",
     "module/item-icons-seeding",
+    "module/host-files",
   ],
   decisions: [
     {
@@ -83,5 +84,5 @@ export const temperEsoUiHarness = {
     },
   ],
   createdAt: "2026-09-22T14:14:35.023Z",
-  updatedAt: "2026-10-18T19:35:14.292Z",
+  updatedAt: "2026-10-19T16:32:19.989Z",
 } as const satisfies Domain

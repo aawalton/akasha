@@ -60,6 +60,10 @@ export const temperPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The answer names every add-on file taken from the game's addons folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The folder the file sits in is made where that folder is not there already.",
     },
     {
@@ -94,5 +98,5 @@ export const temperPicture = {
     { argument: "argument/out", required: true },
   ],
   createdAt: "2026-09-22T18:35:18.990Z",
-  updatedAt: "2026-10-18T20:24:07.218Z",
+  updatedAt: "2026-10-19T16:32:19.989Z",
 } as const satisfies Command

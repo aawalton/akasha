@@ -26,6 +26,10 @@ import {
 } from "akasha/temper/eso/ui-harness/modules/game-manifest/game-manifest.module.code.ts"
 import { namesUnstubbedLua } from "akasha/temper/eso/ui-harness/modules/game-names/game-names.module.code.ts"
 import {
+  hostFilesOf,
+  liveHostFileAt,
+} from "akasha/temper/eso/ui-harness/modules/host-files/host-files.module.code.ts"
+import {
   itemIconsLua,
   itemIdsIn,
   minedIcons,
@@ -216,7 +220,10 @@ type Staged = {
   readonly builtAt: string
   readonly templates: number
   readonly refused: readonly string[]
+  readonly live: readonly string[]
 }
+
+type Loading = { readonly loaded: string[]; readonly live: string[] }
 
 type StagingAsked = {
   readonly root: string
@@ -276,19 +283,23 @@ async function loadAddon(
   built: string,
   addon: string,
   declaring: Declaring,
-  loaded: string[]
+  loading: Loading
 ): Promise<void> {
+  const loaded = loading.loaded
   if (loaded.includes(addon)) return
   const manifest = readFileSync(join(built, `${addon}.txt`), "utf8")
   for (const dependency of dependenciesIn(manifest)) {
     const beside = builtDirIn(trees, dependency)
     if (beside !== null) {
-      await loadAddon(harness, trees, beside, dependency, declaring, loaded)
+      await loadAddon(harness, trees, beside, dependency, declaring, loading)
     }
   }
   if (loaded.includes(addon)) return
+  const hosted = hostFilesOf(built.slice(0, -join(BUILT_UNDER, addon).length - 1), addon)
   for (const one of manifestEntries(manifest)) {
-    const at = join(built, one.rel)
+    const live = hosted.includes(one.rel) ? liveHostFileAt(addon, one.rel) : null
+    if (live !== null) loading.live.push(live)
+    const at = live ?? join(built, one.rel)
     if (!existsSync(at)) continue
     const text = readFileSync(at, "utf8")
     if (one.kind === "xml") await declareDocument(harness, text, declaring)
@@ -394,9 +405,10 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await harness.load(ACCOUNT_WIDE)
     for (const chunk of icons) await harness.load(chunk)
     if (asked.stages !== undefined) await harness.load(asked.stages)
-    const loaded: string[] = []
+    const loading: Loading = { loaded: [], live: [] }
+    const loaded = loading.loaded
     const near = [found.tree, ...trees.filter((one) => one !== found.tree)]
-    await loadAddon(harness, near, dirname(found.bundle), asked.addon, declaring, loaded)
+    await loadAddon(harness, near, dirname(found.bundle), asked.addon, declaring, loading)
     for (const source of seeded) {
       for (const chunk of savedChunks(source)) await harness.load(chunk)
     }
@@ -412,7 +424,13 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await settled(harness)
     await harness.load(ACTIVATED)
     await raisedOrRefused(harness, refused, PLAYER_ACTIVATED, PLAYER_ACTIVATED, FIRST_ACTIVATION)
-    return { harness, builtAt: builtAtCommit(found.tree), templates, refused }
+    return {
+      harness,
+      builtAt: builtAtCommit(found.tree),
+      templates,
+      refused,
+      live: loading.live,
+    }
   } catch (thrown) {
     await harness.close()
     throw thrown

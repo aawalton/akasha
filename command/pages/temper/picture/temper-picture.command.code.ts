@@ -102,6 +102,10 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
       written,
       `${Math.round(box.width)} by ${Math.round(box.height)}, built at ${staged.builtAt}`,
       `the game's interface is up with ${String(staged.refused.length)} of its files refused`,
+      staged.live.length === 0
+        ? "every add-on file came from its build"
+        : `${String(staged.live.length)} add-on file(s) came from the game's addons folder, as the` +
+          ` watcher wrote them: ${staged.live.join(", ")}`,
       `\`${window.control}\` sits at ${Math.round(snapshot.left)}, ${Math.round(snapshot.top)}` +
         ` and is ${Math.round(snapshot.width)} by ${Math.round(snapshot.height)}`,
       hiddenBy === "" ? "it is shown" : `it is hidden, by \`${hiddenBy}\``,
