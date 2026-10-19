@@ -13,6 +13,7 @@
 {"propertySlug":"part-of-speech","path":"alan/harness/monarch/service/monarch-service.domain.ts","id":"01a0d5bd-4128-7484-86a9-4748c66534e6"}
 {"propertySlug":"part-of-speech","path":"alan/music/spotify/service/spotify-service.domain.ts","id":"01a0d8a3-2da3-74fd-bd07-f7c4105dd5a3"}
 {"propertySlug":"part-of-speech","path":"code/biome/biome.domain.ts","id":"01a15532-923e-7b1e-ab92-965de5535925"}
+{"propertySlug":"part-of-speech","path":"code/bun/bun.domain.ts","id":"01a15536-7938-74b1-aa5a-a98e858d1b51"}
 {"propertySlug":"part-of-speech","path":"code/lua/lua.domain.ts","id":"01a0d919-b77d-787e-bb05-6b624815a6ad"}
 {"propertySlug":"part-of-speech","path":"code/prettier/prettier.domain.ts","id":"01a15535-3c64-78ca-b2b1-6159f5348131"}
 {"propertySlug":"part-of-speech","path":"code/typescript/typescript.domain.ts","id":"01a0d8e8-b79a-7e44-8f8d-6f5c8f8590d5"}
