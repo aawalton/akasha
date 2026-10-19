@@ -33,7 +33,9 @@ const SAVED_BY_THE_SITE_MS = 2000
 
 const SHOWN_MS = 1500
 
-const NEAR_THE_END_SECONDS = 0.5
+const NEAR_THE_END_SECONDS = 1.5
+
+const COURSE_IN_LECTURE = /(\d+)-L\d+$/
 
 const SHORTEST_LECTURE_SECONDS = 60
 
@@ -66,8 +68,14 @@ function lecturesHere(): readonly Lecture[] {
   return [...found.values()]
 }
 
-function courseHere(): string | null {
-  return document.querySelector<HTMLElement>(".media[data-sku]")?.dataset.sku ?? null
+export function courseFrom(sku: string | undefined, lectureId: string | undefined): string | null {
+  if (sku !== undefined && sku !== "") return sku
+  return COURSE_IN_LECTURE.exec(lectureId ?? "")?.[1] ?? null
+}
+
+function courseHere(lectures: readonly Lecture[]): string | null {
+  const sku = document.querySelector<HTMLElement>(".media[data-sku]")?.dataset.sku
+  return courseFrom(sku, lectures[0]?.id)
 }
 
 async function token(): Promise<string> {
@@ -124,13 +132,28 @@ function hold(video: HTMLVideoElement): undefined {
   for (const one of ["loadedmetadata", "play", "playing", "ratechange"]) {
     video.addEventListener(one, kept)
   }
-  const ended = () => {
-    if (video.duration < SHORTEST_LECTURE_SECONDS) return
+  let reached = 0
+  const finished = () => {
     for (const one of ENDING.splice(0)) one()
   }
+  const ended = () => {
+    if (video.duration < SHORTEST_LECTURE_SECONDS) return
+    finished()
+  }
+  const replaced = () => {
+    if (reached >= WATCHED_AT) finished()
+    reached = 0
+  }
   video.addEventListener("ended", ended)
+  video.addEventListener("emptied", replaced)
+  video.addEventListener("loadstart", replaced)
   video.addEventListener("timeupdate", () => {
-    if (video.duration - video.currentTime < NEAR_THE_END_SECONDS) ended()
+    if (!(video.duration >= SHORTEST_LECTURE_SECONDS)) return
+    const at = video.currentTime / video.duration
+    if (at < reached - WATCHED_AT) return replaced()
+    reached = Math.max(reached, at)
+    const left = video.duration - video.currentTime
+    if (left < NEAR_THE_END_SECONDS * Math.max(1, video.playbackRate)) ended()
   })
   kept()
 }
@@ -246,9 +269,13 @@ async function begun(ask: (asked: Asked) => Promise<Answered>): Promise<undefine
   })
   holdEvery()
   document.addEventListener("keydown", keyedBy(ask), true)
+  if (!answer.watching) return
   const lectures = lecturesHere()
-  const course = courseHere()
-  if (!answer.watching || lectures.length === 0 || course === null) return
+  const course = courseHere(lectures)
+  if (lectures.length === 0 || course === null) {
+    panelOf("Watching stopped: this page lists no lectures the extension can read.")
+    return
+  }
   try {
     await watched(ask, lectures, course)
   } catch (thrown) {

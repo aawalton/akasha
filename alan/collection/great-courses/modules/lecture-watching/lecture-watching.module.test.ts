@@ -1,5 +1,20 @@
 import { expect, test } from "bun:test"
-import { nudged } from "akasha/alan/collection/great-courses/modules/lecture-watching/lecture-watching.module.code.ts"
+import {
+  courseFrom,
+  nudged,
+} from "akasha/alan/collection/great-courses/modules/lecture-watching/lecture-watching.module.code.ts"
+
+test("a page naming no course has its course read off a lecture's id", () => {
+  expect(courseFrom(undefined, "ZV8500-L01")).toBe("8500")
+})
+
+test("a page naming its course is taken at its word", () => {
+  expect(courseFrom("1382", "ZV8500-L01")).toBe("1382")
+})
+
+test("a lecture id naming no course gives none", () => {
+  expect(courseFrom(undefined, "intro")).toBeNull()
+})
 
 test("a nudge moves the speed a quarter", () => {
   expect(nudged(3, 0.25)).toBe(3.25)

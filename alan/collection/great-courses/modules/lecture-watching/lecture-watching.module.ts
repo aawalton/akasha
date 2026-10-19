@@ -15,6 +15,18 @@ export const lectureWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page naming no course has its course read off a lecture's id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lecture played past its watched mark has ended once the player loads another.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tracked page the extension cannot read says so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What was played is read from the site's own lecture progress as Alan.",
     },
     {
@@ -43,5 +55,5 @@ export const lectureWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-18T17:31:07.469Z",
+  updatedAt: "2026-10-19T16:16:20.697Z",
 } as const satisfies Module
