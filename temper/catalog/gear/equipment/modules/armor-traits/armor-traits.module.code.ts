@@ -15,8 +15,12 @@ export function armorTraitOptions(current: string): readonly TraitTemplate<Armor
   return offeredTraits(armorTraits, current)
 }
 
-export function armorTraitWorth(traitId: ArmorTraitId, quality: EquipmentQualityId): number {
-  return traitGradeValue("armor", traitId, quality)
+export function armorTraitWorth(
+  traitId: ArmorTraitId,
+  quality: EquipmentQualityId,
+  unrounded = false
+): number {
+  return traitGradeValue("armor", traitId, quality, unrounded)
 }
 
 export function getInfusedArmorBonus(quality: EquipmentQualityId = "legendary"): number {

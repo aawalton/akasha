@@ -9,6 +9,7 @@ export const armorTraitDivinesLegendary = {
   quality: "temper-quality/legendary",
   metric: "temper-metric-tree/metric-divines",
   value: 0.091,
+  rawValue: 0.09085,
   createdAt: "2026-09-24T14:53:49.148Z",
-  updatedAt: "2026-09-24T14:54:57.000Z",
+  updatedAt: "2026-10-19T19:52:02.431Z",
 } as const satisfies TemperGearGrade

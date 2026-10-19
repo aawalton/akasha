@@ -6,6 +6,17 @@ export const armorTraitEffects = {
   slug: "armor-trait-effects",
   definition: "the effects a worn piece of armor gets from its trait",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Divines sums each piece's unrounded worth and rounds the sum to a tenth of a percent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stone's value under Divines is its base times one plus that sum, rounded down.",
+    },
+  ],
   createdAt: "2026-09-02T09:24:55.958Z",
-  updatedAt: "2026-09-21T15:41:15.000Z",
+  updatedAt: "2026-10-19T19:52:02.431Z",
 } as const satisfies Module

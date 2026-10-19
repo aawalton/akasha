@@ -61,8 +61,14 @@ function gradeOf(address: string, quality: EquipmentQualityId, metric?: string):
   return matched ?? (found.length === 1 ? found[0] : undefined)
 }
 
-export function gradedValue(address: string, quality: EquipmentQualityId): number {
-  return gradeOf(address, quality)?.value ?? 0
+export function gradedValue(
+  address: string,
+  quality: EquipmentQualityId,
+  unrounded = false
+): number {
+  const grade = gradeOf(address, quality)
+  if (grade === undefined) return 0
+  return unrounded ? grade.raw : grade.value
 }
 
 export function gradedEffectsAt(

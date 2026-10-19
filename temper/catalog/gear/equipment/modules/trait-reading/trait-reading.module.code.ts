@@ -129,9 +129,10 @@ export function isJewelryEquipType(equipType: number): boolean {
 export function traitGradeValue(
   family: TraitFamily,
   traitId: string,
-  quality: EquipmentQualityId
+  quality: EquipmentQualityId,
+  unrounded = false
 ): number {
-  return gradedValue(`${PAGE_TYPES[family]}/${traitId}`, quality)
+  return gradedValue(`${PAGE_TYPES[family]}/${traitId}`, quality, unrounded)
 }
 
 export function traitEffectsAt(

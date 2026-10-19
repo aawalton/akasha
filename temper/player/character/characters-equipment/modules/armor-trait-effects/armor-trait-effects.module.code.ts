@@ -8,16 +8,15 @@ import type { ArmorItem } from "akasha/temper/player/character/characters-equipm
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
 export function calculateDivinesValue(baseValue: number, armorItems: readonly ArmorItem[]): number {
-  let percent = Math.fround(0)
+  let share = 0
 
   for (const piece of armorItems) {
     if (piece.trait === "divines") {
-      const quality = resolveQuality(piece.quality)
-      percent = Math.fround(percent + Math.fround(armorTraitWorth("divines", quality) * 100))
+      share += armorTraitWorth("divines", resolveQuality(piece.quality), true)
     }
   }
 
-  const tenths = Math.floor(percent * 10)
+  const tenths = Math.round(share * 1000)
   return Math.floor(baseValue * (1 + tenths / 1000))
 }
 

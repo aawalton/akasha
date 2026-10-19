@@ -6339,6 +6339,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/character-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/properties/character-build-version-build.relation-property.ts","id":"01a0d89d-06ef-7056-b5d4-54f6aac7beb1"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","id":"01a0616f-8e17-7a0c-8406-2388ce2938e6"}
+{"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.ts","id":"01a0616f-8e16-76df-997d-3945e96d8d4b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.ts","id":"01a0616f-8e17-7f39-850b-c2da8d153a31"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.ts","id":"01a0616f-8e17-7f4a-88b7-d9d36af92429"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.ts","id":"01a0616f-8e12-73ab-b65c-c41fefc0e804"}
