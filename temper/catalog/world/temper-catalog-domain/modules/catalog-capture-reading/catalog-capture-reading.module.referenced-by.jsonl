@@ -5,4 +5,5 @@
 {"propertySlug":"import","fileName":"catalog-capture-reading.module.code.ts","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-capture-reading.module.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-capture-reading.module.code.ts","path":"temper/catalog/world/temper-catalog-domain/modules/catalog-capture-reading/catalog-capture-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-capture-reading.module.code.ts","path":"temper/eso/ui-harness/modules/ui-staging/ui-staging.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/temper-catalog-domain/temper-catalog-domain.page-type.ts","id":"01a05fc4-7a8e-7cdd-859d-6e17f19d2d93"}

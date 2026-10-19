@@ -8,15 +8,14 @@ import {
   treeIn,
 } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { slugsOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { capturedCatalog } from "akasha/temper/catalog/world/temper-catalog-domain/modules/catalog-capture-reading/catalog-capture-reading.module.code.ts"
 import {
   esoLiveDirCandidates,
   esouiSourceDir,
 } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
 import {
-  PLAYER_ANSWERS_ADDON,
   playerAnswersIn,
   playerAnswersLua,
-  playerAnswersSource,
   playerScreenIn,
 } from "akasha/temper/eso/return/modules/player-answers-seeding/player-answers-seeding.module.code.ts"
 import { keepGameTypefaces } from "akasha/temper/eso/ui-harness/modules/game-art/game-art.module.code.ts"
@@ -201,13 +200,11 @@ function savedVariablesAt(name: string): string | null {
 
 const ANSWERS_PER_CHUNK = 40
 
-function playedAnswers(): readonly string[] {
-  const at = savedVariablesAt(PLAYER_ANSWERS_ADDON)
-  const source = at === null ? null : playerAnswersSource(readFileSync(at, "utf8"))
-  if (source === null) return []
-  const held = playerAnswersIn(source)
+function playedAnswers(root: string): readonly string[] {
+  const captured = capturedCatalog(root, "playerAnswerCatalog")
+  const held = playerAnswersIn(captured)
   const chunks = held === null ? [] : playerAnswersLua(held, ANSWERS_PER_CHUNK)
-  const screen = playerScreenIn(source)
+  const screen = playerScreenIn(captured)
   if (screen === null) return chunks
   return [
     ...chunks,
@@ -382,7 +379,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await harness.load(`return ${fontsLua(gameFonts(esoui))}`)
     await harness.load(`return ${timelinesLua(timelinesIn(documents))}`)
     const refused: string[] = []
-    for (const chunk of playedAnswers()) await harness.load(chunk)
+    for (const chunk of playedAnswers(asked.root)) await harness.load(chunk)
     await harness.load(MAP_TILES)
     await harness.load(NOT_YET_READY)
     const files = gameFiles(esoui).map((file) => ({ ...file, text: readFileSync(file.at, "utf8") }))

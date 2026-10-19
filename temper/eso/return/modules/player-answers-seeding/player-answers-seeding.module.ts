@@ -10,19 +10,7 @@ export const playerAnswersSeeding = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The answers are read from the catalog add-on's saved file on this machine.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Only the answers' own table is taken out of that file.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "The game may write that file on one line, one table straight after another.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The answers are read from the first account holding them, by sorted name.",
+      statement: "The answers are read from the player answer catalog landed in akasha.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -50,14 +38,9 @@ export const playerAnswersSeeding = {
       statement: "Answers kept by a capture of no version read here are not read.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Answers the first capture kept under each function are read under the values asked instead.",
-    },
-    {
       decisionKind: "decision-kind/constraint",
       statement:
-        "A capture keeps the version of the add-on the game last ran, which may be older than the checkout.",
+        "A capture keeps the version of the add-on that collected it, which may be older than the checkout.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -73,5 +56,5 @@ export const playerAnswersSeeding = {
     },
   ],
   createdAt: "2026-09-24T22:44:45.774Z",
-  updatedAt: "2026-09-25T14:37:18.000Z",
+  updatedAt: "2026-10-19T18:22:43.381Z",
 } as const satisfies Module

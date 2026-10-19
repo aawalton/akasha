@@ -3,84 +3,26 @@ import { PLAYER_ANSWERS_VERSION } from "akasha/temper/capture/player-answer/modu
 import type { EngineAnswer } from "akasha/temper/capture/shape/modules/engine-answer-catalog/engine-answer-catalog.module.code.ts"
 import { luaStringLiteral } from "akasha/temper/eso/lua-runner/modules/lua-marshal/lua-marshal.module.code.ts"
 import { listedIn } from "akasha/temper/eso/return/modules/engine-answers-reading/engine-answers-reading.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
-
-const PLAYER_ANSWERS_HELD = "TemperPlayerAnswers_SavedVariables"
-
-export const PLAYER_ANSWERS_ADDON = "TemperCatalog"
 
 type PlayerAnswers = Readonly<Record<string, Readonly<Record<string, readonly EngineAnswer[]>>>>
 
-const TOP_LEVEL = /(?:^|(?<=\}))[A-Za-z_][A-Za-z0-9_]*\s*=/gm
+type Captured = Readonly<Record<string, unknown>> | undefined
 
-export function playerAnswersSource(file: string): string | null {
-  let from: number | null = null
-  for (const found of file.matchAll(TOP_LEVEL)) {
-    const named = found[0].replace(/\s*=$/, "")
-    if (from !== null) return file.slice(from, found.index)
-    if (named === PLAYER_ANSWERS_HELD) from = found.index
-  }
-  return from === null ? null : file.slice(from)
-}
-
-const FUNCTION_FIRST = 1
-
-function valuesFirst(answers: Readonly<Record<string, unknown>>): Record<string, unknown> {
-  const turned: Record<string, Record<string, unknown>> = {}
-  for (const name of Object.keys(answers)) {
-    const byValues = answers[name]
-    if (!isRecord(byValues)) continue
-    for (const key of Object.keys(byValues)) {
-      const into = turned[key] ?? {}
-      into[name] = byValues[key]
-      turned[key] = into
-    }
-  }
-  return turned
-}
-
-function heldWide(
-  root: Readonly<Record<string, unknown>>
-): Readonly<Record<string, unknown>> | null {
-  const accounts = isRecord(root.Default) ? root.Default : {}
-  for (const account of Object.keys(accounts).sort()) {
-    const one = accounts[account]
-    const wide = isRecord(one) ? one.$AccountWide : undefined
-    if (!isRecord(wide)) continue
-    if (wide.version === PLAYER_ANSWERS_VERSION || wide.version === FUNCTION_FIRST) return wide
-  }
-  return null
-}
-
-function heldAnswers(root: Readonly<Record<string, unknown>>): unknown {
-  const wide = heldWide(root)
-  if (wide === null) return undefined
-  if (wide.version !== FUNCTION_FIRST) return wide.answers
-  return isRecord(wide.answers) ? valuesFirst(wide.answers) : undefined
-}
-
-function parsedRoot(source: string): Record<string, unknown> | null {
-  try {
-    return parseLuaSavedVariablesFile(source, PLAYER_ANSWERS_HELD)
-  } catch {
-    return null
-  }
+function readable(catalog: Captured): Readonly<Record<string, unknown>> | null {
+  return catalog?.version === PLAYER_ANSWERS_VERSION ? catalog : null
 }
 
 type PlayerScreen = { readonly width: number; readonly height: number }
 
-export function playerScreenIn(source: string): PlayerScreen | null {
-  const root = parsedRoot(source)
-  const wide = root === null ? null : heldWide(root)
-  const width = wide?.screenWidth
-  const height = wide?.screenHeight
+export function playerScreenIn(catalog: Captured): PlayerScreen | null {
+  const held = readable(catalog)
+  const width = held?.screenWidth
+  const height = held?.screenHeight
   return typeof width === "number" && typeof height === "number" ? { width, height } : null
 }
 
-export function playerAnswersIn(source: string): PlayerAnswers | null {
-  const root = parsedRoot(source)
-  if (root === null) return null
-  const answers = heldAnswers(root)
+export function playerAnswersIn(catalog: Captured): PlayerAnswers | null {
+  const answers = readable(catalog)?.answers
   if (!isRecord(answers)) return null
   const found: Record<string, Record<string, readonly EngineAnswer[]>> = {}
   for (const key of Object.keys(answers).sort()) {
