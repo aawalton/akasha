@@ -9,7 +9,8 @@ export const charactersTaskHudState = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A done line is the game's succeeded color, and an urgent one its failed color.",
+      statement:
+        "A done line is the design system's green, and an urgent one the game's failed color.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,5 +28,5 @@ export const charactersTaskHudState = {
     },
   ],
   createdAt: "2026-09-02T16:23:41.352Z",
-  updatedAt: "2026-10-18T17:39:47.514Z",
+  updatedAt: "2026-10-19T16:16:40.921Z",
 } as const satisfies Module

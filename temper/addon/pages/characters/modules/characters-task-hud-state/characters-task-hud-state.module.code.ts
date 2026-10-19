@@ -1,3 +1,4 @@
+import { GREEN } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import {
   colorOf,
   textColorOf,
@@ -21,7 +22,7 @@ function qualityColor(quality: number): HudRgb {
 }
 
 export function hudColor(kind: HudColor): HudRgb {
-  if (kind === "done") return textColorOf(INTERFACE_TEXT_COLOR_SUCCEEDED)
+  if (kind === "done") return GREEN
   if (kind === "urgent") return textColorOf(INTERFACE_TEXT_COLOR_FAILED)
   if (kind === "gold") return colorOf("accent")
   if (kind === "blue") return qualityColor(ITEM_DISPLAY_QUALITY_MAGIC)
