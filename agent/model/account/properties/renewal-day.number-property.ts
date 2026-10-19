@@ -5,7 +5,7 @@ export const renewalDay = {
   type: "page-type/number-property",
   slug: "renewal-day",
   propertySlug: "renewal-day",
-  definition: "the day of the month the account's subscription renews",
+  definition: "the day of the month a subscription renews",
   max: 31,
   decisions: [
     {
@@ -15,5 +15,5 @@ export const renewalDay = {
   ],
   types: "ts",
   createdAt: "2026-08-30T22:44:04.537Z",
-  updatedAt: "2026-09-22T13:59:16.000Z",
+  updatedAt: "2026-10-19T18:48:16.081Z",
 } as const satisfies NumberProperty
