@@ -5,6 +5,10 @@ export const condition = {
   type: "page-type/decision-group",
   slug: "condition",
   definition: "a state that holds only while it is kept true",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "condition" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "conditions" },
+  ],
   createdAt: "2026-08-29T15:09:32.952Z",
-  updatedAt: "2026-09-15T18:30:47.000Z",
+  updatedAt: "2026-10-19T19:45:39.765Z",
 } as const satisfies DecisionGroup
