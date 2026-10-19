@@ -6409,6 +6409,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts","id":"01a0df69-bdeb-70c4-a287-ed88cc239a92"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-target/properties/source-effects.record-property.ts","id":"01a0df56-c3db-7e0d-9336-655bfce43dde"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-target/temper-target.page-type.ts","id":"01a0df56-c3dc-7c2d-a644-96687915fe2c"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.ts","id":"01a1558d-7f40-70d1-b034-93437c9dd12e"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.ts","id":"01a1557f-ab1f-77ac-8712-4cb4dff8f2b5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/enchant-proc/enchant-proc.module.ts","id":"01a13ff0-d4d8-7ee8-8a0f-d092bf883998"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
@@ -6436,6 +6437,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-stat-case/temper-stat-case.page-type.ts","id":"01a13b68-e810-7cb5-b143-e4ca8335a98f"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/modules/character-lines-landing/character-lines-landing.module.ts","id":"01a15589-7ec5-775c-8353-ac6f1c90b185"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/properties/fights.file-property.ts","id":"01a15437-380d-7919-88d8-c794180aa539"}
+{"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/properties/readings.file-property.ts","id":"01a1558d-7f40-7d37-a329-70c6cbc0cda7"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/modules/account-address/account-address.module.ts","id":"01a0d429-47a8-7060-8ba6-1e2dc523c0f6"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/bag-sizes.page-property-entry.ts","id":"01a0675a-f185-72e7-ad66-35247edba53b"}

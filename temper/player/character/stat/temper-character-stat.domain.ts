@@ -57,6 +57,7 @@ export const temperCharacterStat = {
     "module/skill-equation",
     "module/weapon-attacks",
     "module/character-rotation-reading",
+    "module/build-reading-lines",
   ],
   directives: [
     {
@@ -97,5 +98,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-19T18:49:52.670Z",
+  updatedAt: "2026-10-19T19:04:58.943Z",
 } as const satisfies Domain

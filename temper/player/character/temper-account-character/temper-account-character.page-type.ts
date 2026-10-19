@@ -12,6 +12,7 @@ export const temperAccountCharacter = {
     "text-property/live-build-id",
     "file-property/fights",
     "module/character-lines-landing",
+    "file-property/readings",
   ],
   properties: [
     { pageProperty: "text-property/eso-character-id", required: true, many: false },
@@ -25,6 +26,7 @@ export const temperAccountCharacter = {
       maxCount: null,
     },
     { pageProperty: "file-property/fights", required: false, many: false },
+    { pageProperty: "file-property/readings", required: false, many: false },
   ],
   decisions: [
     {
@@ -35,5 +37,5 @@ export const temperAccountCharacter = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:48:48.327Z",
-  updatedAt: "2026-10-19T19:00:36.676Z",
+  updatedAt: "2026-10-19T19:04:58.943Z",
 } as const satisfies PageType

@@ -76,6 +76,7 @@
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"prose","propertySlug":"prose","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"reached","propertySlug":"reached","fileName":null,"folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"reaction","propertySlug":"reaction","fileName":null,"folderName":null}
+{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"readings","propertySlug":"readings","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"reads","propertySlug":"reads","fileName":null,"folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"recipe","propertySlug":"recipe","fileName":"Containerfile","folderName":null,"generated":true,"writtenBy":"composing"}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"referenced-by","propertySlug":"referenced-by","fileName":null,"folderName":null,"generated":true}
