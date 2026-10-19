@@ -4,7 +4,7 @@ export const holdRegistry = {
   id: "01a0623c-6939-7f9a-848d-be904e3cf57c",
   type: "page-type/module",
   slug: "hold-registry",
-  definition: "what a gateway is holding open, counted and aged",
+  definition: "the requests a model gateway waits on",
   code: "ts",
   test: "ts",
   decisions: [
@@ -62,5 +62,5 @@ export const holdRegistry = {
     },
   ],
   createdAt: "2026-09-02T13:08:41.401Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T19:17:02.039Z",
 } as const satisfies Module
