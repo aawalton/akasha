@@ -18,9 +18,10 @@ export const advancedSpecies86068 = {
   rank: 39,
   skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 20,
   createdAt: "2026-05-28T16:03:31.609Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-19T22:59:16.876Z",
   equations: [
     "<<1>> = 2% (Constant)",
     "<<2>> = 2 AnimCompanion (Animal Companion Skills Slotted, SingleTarget, Direct, R2 = 1)",

@@ -18,9 +18,10 @@ export const frozenArmor86189 = {
   rank: 14,
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 544,
   createdAt: "2026-05-28T16:03:32.556Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-19T22:59:16.876Z",
   equations: [
     "<<1>> = 620 (Constant)",
     "<<2>> = 620 WintersEmbrace (Winter's Embrace Skills Slotted, SingleTarget, Direct, R2 = 1)",

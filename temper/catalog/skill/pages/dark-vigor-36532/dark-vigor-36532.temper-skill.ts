@@ -18,9 +18,10 @@ export const darkVigor36532 = {
   rank: 22,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 318,
   createdAt: "2026-05-28T16:03:32.101Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-19T22:59:16.876Z",
   equations: [
     "<<1>> = 2% (Constant)",
     "<<2>> = 2 Shadow (Shadow Skills Slotted, SingleTarget, Direct, R2 = 1)",

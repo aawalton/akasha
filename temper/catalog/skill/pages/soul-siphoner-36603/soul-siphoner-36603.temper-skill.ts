@@ -18,9 +18,10 @@ export const soulSiphoner36603 = {
   rank: 22,
   skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 1233,
   createdAt: "2026-05-28T16:03:33.874Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-19T22:59:16.876Z",
   equations: [
     "<<1>> = 1% (Constant)",
     "<<2>> = 1 Siphoning (Siphoning Skills Slotted, SingleTarget, Direct, R2 = 1)",

@@ -18,8 +18,9 @@ export const healthAvarice116269 = {
   rank: 22,
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 614,
   createdAt: "2026-05-28T16:03:32.723Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-19T22:59:16.876Z",
   equations: ["<<1>> = 1 BoneTyrant (Bone Tyrant Skills Slotted, SingleTarget, Direct, R2 = 1)"],
 } as const satisfies TemperSkill

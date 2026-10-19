@@ -18,9 +18,10 @@ export const slayer35803 = {
   rank: 3,
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 1207,
   createdAt: "2026-05-28T16:03:33.821Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-19T22:59:16.876Z",
   equations: [
     "<<1>> = 1% (Constant)",
     "<<2>> = 1 FightersGuild (Fighters Guild Skills Slotted, SingleTarget, Direct, R2 = 1)",
