@@ -25,6 +25,9 @@ export const nimueCorrectFormulas = {
       workingMemory:
         "Fights land in each character's fights.jsonl, with the build hash where the reader saw the fight live.",
     },
+    {
+      statement: "Every game mechanic that affects combat has been accounted for.",
+    },
   ],
   constraints: [
     "A verified test case is a number the game showed for a captured build state.",
@@ -35,5 +38,5 @@ export const nimueCorrectFormulas = {
     "Alan approves each formula Nimue proposes as final.",
   ],
   createdAt: "2026-10-19T19:28:43.842Z",
-  updatedAt: "2026-10-19T19:34:35.455Z",
+  updatedAt: "2026-10-19T19:36:18.070Z",
 } as const satisfies Initiative
