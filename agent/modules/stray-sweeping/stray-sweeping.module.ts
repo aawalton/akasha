@@ -4,7 +4,7 @@ export const straySweeping = {
   id: "01a09ced-1a65-7dd9-a620-2ed6bac65b03",
   type: "page-type/module",
   slug: "stray-sweeping",
-  definition: "how code removes each process that runs after its subagent is done",
+  definition: "how code removes each process that lives after its subagent is done",
   code: "ts",
   test: "ts",
   decisions: [
@@ -76,5 +76,5 @@ export const straySweeping = {
     },
   ],
   createdAt: "2026-09-13T22:39:39.621Z",
-  updatedAt: "2026-09-25T18:00:05.000Z",
+  updatedAt: "2026-10-19T17:47:45.668Z",
 } as const satisfies Module

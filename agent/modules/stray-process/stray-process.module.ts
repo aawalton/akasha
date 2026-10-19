@@ -4,7 +4,7 @@ export const strayProcess = {
   id: "01a09cd4-c1f0-776c-825d-f33fe4f0576c",
   type: "page-type/module",
   slug: "stray-process",
-  definition: "a process that runs after its subagent is done",
+  definition: "a process that lives after its subagent is done",
   code: "ts",
   test: "ts",
   decisions: [
@@ -90,5 +90,5 @@ export const strayProcess = {
     },
   ],
   createdAt: "2026-09-13T22:13:04.112Z",
-  updatedAt: "2026-09-25T17:59:23.000Z",
+  updatedAt: "2026-10-19T17:47:45.668Z",
 } as const satisfies Module
