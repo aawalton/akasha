@@ -13,6 +13,7 @@ export const masterAtArms = {
     { metric: "temper-metric/damage-done-direct", effectType: "fractional-change", value: 0.06 },
   ],
   hashPlace: 101,
+  jumpPoints: [0, 25, 50],
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:30.042Z",
 } as const satisfies TemperChampionStar
