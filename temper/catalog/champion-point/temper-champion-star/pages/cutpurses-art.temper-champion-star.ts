@@ -10,6 +10,7 @@ export const cutpursesArt = {
   championConstellation: "craft",
   isSlottable: false,
   hashPlace: 2,
+  jumpPoints: [0, 25],
   createdAt: "2026-09-27T05:00:00.922Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:56:58.192Z",
 } as const satisfies TemperChampionStar
