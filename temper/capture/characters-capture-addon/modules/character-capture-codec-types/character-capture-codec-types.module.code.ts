@@ -16,6 +16,7 @@ export interface CharacterBuildData {
   primarySkills: number[]
   backupSkills: number[]
   passiveBitmask: boolean[]
+  passiveRanks: number[]
   championPoints: CharacterCPDisciplineData[]
   foodIndex: number
   potionIndex: number

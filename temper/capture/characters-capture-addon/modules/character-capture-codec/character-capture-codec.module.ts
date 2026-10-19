@@ -23,7 +23,15 @@ export const characterCaptureCodec = {
       decisionKind: "decision-kind/departure",
       statement: "A purchased passive is found by the id of any of its ranks.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A purchased passive's rank is the upgrade level the game reports for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A passive the game reports no upgrade level for is captured with no rank.",
+    },
   ],
   createdAt: "2026-09-02T09:20:42.407Z",
-  updatedAt: "2026-10-14T14:41:19.520Z",
+  updatedAt: "2026-10-19T23:36:54.423Z",
 } as const satisfies Module

@@ -19,6 +19,7 @@ import { getAllianceIndex } from "akasha/temper/capture/characters-capture-addon
 import { getBaseAbilityId } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.code.ts"
 import { getChampionPointIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.code.ts"
 import { getClassIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-class-map/character-capture-class-map.module.code.ts"
+import { CHARACTER_PASSIVE_RANK_BITS } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-codec-constants/character-capture-codec-constants.module.code.ts"
 import type {
   CharacterArmorSlotData,
   CharacterBuildData,
@@ -110,6 +111,14 @@ function passiveBitmaskIndex(
   return undefined
 }
 
+const HIGHEST_PASSIVE_RANK = 2 ** CHARACTER_PASSIVE_RANK_BITS - 1
+
+function passiveRank(skillType: SkillType, lineIndex: number, skillIndex: number): number {
+  const [currentUpgradeLevel] = GetSkillAbilityUpgradeInfo(skillType, lineIndex, skillIndex)
+  if (currentUpgradeLevel === undefined) return 0
+  return Math.min(currentUpgradeLevel, HIGHEST_PASSIVE_RANK)
+}
+
 export function captureCharacterBuild(): CharacterBuildData {
   const classIndex = getClassIndex(GetUnitClassId("player"))
   const raceIndex = getRaceIndex(GetUnitRaceId("player"))
@@ -196,8 +205,10 @@ export function captureCharacterBuild(): CharacterBuildData {
   }
 
   const passiveBitmask: boolean[] = []
+  const passiveRanks: number[] = []
   for (let i = 0; i < CHARACTER_PASSIVE_SKILL_COUNT; i++) {
     passiveBitmask.push(false)
+    passiveRanks.push(0)
   }
   const passiveSkillTypes = [
     SKILL_TYPE_CLASS,
@@ -219,6 +230,7 @@ export function captureCharacterBuild(): CharacterBuildData {
         const bitmaskIndex = passiveBitmaskIndex(skillType, lineIndex, skillIndex)
         if (bitmaskIndex !== undefined) {
           passiveBitmask[bitmaskIndex] = true
+          passiveRanks[bitmaskIndex] = passiveRank(skillType, lineIndex, skillIndex)
         }
       }
     }
@@ -296,6 +308,7 @@ export function captureCharacterBuild(): CharacterBuildData {
     primarySkills,
     backupSkills,
     passiveBitmask,
+    passiveRanks,
     championPoints,
     foodIndex,
     potionIndex,

@@ -20,6 +20,7 @@ import {
   CHARACTER_JEWELRY_ENCHANT_BITS,
   CHARACTER_JEWELRY_TRAIT_BITS,
   CHARACTER_MUNDUS_BITS,
+  CHARACTER_PASSIVE_RANK_BITS,
   CHARACTER_POISON_BITS,
   CHARACTER_POTION_BITS,
   CHARACTER_QUALITY_BITS,
@@ -115,6 +116,10 @@ export function encodeCharacterBuild(build: CharacterBuildData): string {
 
   for (const purchased of build.passiveBitmask) {
     writeBits(writer, purchased ? 1 : 0, 1)
+  }
+  for (const [place, purchased] of build.passiveBitmask.entries()) {
+    if (!purchased) continue
+    writeBits(writer, build.passiveRanks[place] ?? 0, CHARACTER_PASSIVE_RANK_BITS)
   }
 
   for (const discipline of build.championPoints) {
