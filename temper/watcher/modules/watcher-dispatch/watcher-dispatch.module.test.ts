@@ -3,10 +3,9 @@ import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companio
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import {
   type DispatchOptions,
-  type DispatchRunners,
   dispatch,
-  type RunReport,
 } from "akasha/temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts"
+import { harness } from "akasha/temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.test-fixtures.ts"
 import { FILE_TYPES } from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
 import { TARGET_OPERATIONS } from "akasha/temper/watcher/modules/watcher-run-observing/watcher-run-observing.module.code.ts"
 import type { SyncOperation } from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
@@ -39,111 +38,10 @@ const READER_WITH_NO_USER: SignedInReader = {
   auth: { getUser: async () => ({ data: { user: null }, error: null }) },
 }
 
-interface Tweaks {
-  exportTasksModified: boolean
-  exportTasksHash: string | null
-  exportTasksError: Error | null
-  exportSettingsError: Error | null
-  completionError: Error | null
-  dataMiningModified: boolean
-  reportError: Error | null
-}
-
-const CALM: Tweaks = {
-  exportTasksModified: false,
-  exportTasksHash: null,
-  exportTasksError: null,
-  exportSettingsError: null,
-  completionError: null,
-  dataMiningModified: false,
-  reportError: null,
-}
-
-interface Harness {
-  readonly calls: string[]
-  readonly reported: (readonly SyncOperation[])[]
-  readonly usersAsked: (string | undefined)[]
-  readonly runners: DispatchRunners
-  readonly report: RunReport
-}
-
-function harness(tweaks: Partial<Tweaks> = {}): Harness {
-  const t: Tweaks = { ...CALM, ...tweaks }
-  const calls: string[] = []
-  const reported: (readonly SyncOperation[])[] = []
-  const usersAsked: (string | undefined)[] = []
-  const runners: DispatchRunners = {
-    importCatalog: async () => {
-      calls.push("importCatalog")
-      return { changedSlugs: [], absentSlugs: [], skipped: undefined }
-    },
-    importCharacters: async () => {
-      calls.push("importCharacters")
-    },
-    importCompanions: async () => {
-      calls.push("importCompanions")
-    },
-    importCompletion: async (_content, deps) => {
-      calls.push("importCompletion")
-      if (t.completionError !== null) throw t.completionError
-      const askUser = deps?.signedInUserId
-      if (askUser !== undefined) usersAsked.push(await askUser())
-      return {
-        accountPageId: "account-1",
-        accountCompletionWritten: false,
-        characterCount: 0,
-        companionCount: 0,
-        preservedLabels: [],
-      }
-    },
-    importDataMining: async (content) => {
-      calls.push("importDataMining")
-      return { content, modified: t.dataMiningModified, notes: [] }
-    },
-    importErrors: async () => {
-      calls.push("importErrors")
-    },
-    importInventory: async () => {
-      calls.push("importInventory")
-      await Promise.resolve()
-      calls.push("importInventory:settled")
-    },
-    importItemRuleVerdicts: async () => {
-      calls.push("importItemRuleVerdicts")
-    },
-    importSales: async () => {
-      calls.push("importSales")
-    },
-    importTasks: async () => {
-      calls.push("importTasks")
-    },
-    exportCompanionBuilds: async (content) => {
-      calls.push("exportCompanionBuilds")
-      return { content, modified: false, companionsConfigSideFileHash: null }
-    },
-    exportSettings: async (content) => {
-      calls.push("exportSettings")
-      if (t.exportSettingsError !== null) throw t.exportSettingsError
-      return { content, modified: false, inventoryConfigSideFileHash: null }
-    },
-    exportTasks: async (content) => {
-      calls.push("exportTasks")
-      if (t.exportTasksError !== null) throw t.exportTasksError
-      return {
-        content,
-        modified: t.exportTasksModified,
-        charactersConfigSideFileHash: t.exportTasksHash,
-      }
-    },
-  }
-  const report: RunReport = async (operations) => {
-    if (t.reportError !== null) throw t.reportError
-    reported.push([...operations])
-  }
-  return { calls, reported, usersAsked, runners, report }
-}
-
-function optionsFor(at: Harness, extra: Partial<DispatchOptions> = {}): DispatchOptions {
+function optionsFor(
+  at: ReturnType<typeof harness>,
+  extra: Partial<DispatchOptions> = {}
+): DispatchOptions {
   return {
     reader: READER,
     runners: at.runners,
@@ -206,6 +104,20 @@ test("errors reaches the errors import alone and writes nothing back", async () 
   expect(envelope).toEqual(WROTE_NOTHING_BACK)
   expect(operations.every((o) => o.state === "synced")).toBe(true)
   expect(at.calls).toEqual(["importErrors"])
+})
+
+test("combat reaches the fights import alone and writes nothing back", async () => {
+  const at = harness()
+  const { operations, ...envelope } = await dispatch(
+    "combat",
+    CONTENT,
+    FAKE_TOKEN,
+    FAKE_URL,
+    optionsFor(at)
+  )
+  expect(envelope).toEqual(WROTE_NOTHING_BACK)
+  expect(operations.every((o) => o.state === "synced")).toBe(true)
+  expect(at.calls).toEqual(["importFights"])
 })
 
 test("characters runs the import chain and then the export", async () => {

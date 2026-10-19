@@ -6600,6 +6600,7 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.ts","id":"01a06381-35cf-7b6a-8ea9-a0064dcecdc0"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-data-mining/watcher-import-data-mining.module.ts","id":"01a06381-35cf-7607-b3eb-a46870064d9c"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-errors/watcher-import-errors.module.ts","id":"01a06381-35cf-7a59-98a9-0d96ea20a841"}
+{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-fights/watcher-import-fights.module.ts","id":"01a1543b-3745-7729-80e1-a68a758bb5d3"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-inventory/watcher-import-inventory.module.ts","id":"01a06381-35cf-784c-a7fd-ba657830b922"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.ts","id":"01a06381-35cf-75cc-986a-2d84d969ddd4"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.ts","id":"01a06381-35cf-78ce-991d-bad7964dc536"}

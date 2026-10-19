@@ -28,6 +28,7 @@ export const LIVE = `${SCRATCH_AT}/watcher-main-probe/live`
 export const CAPTURED_BASENAMES = [
   "TemperCatalog.lua",
   "TemperCharacters.lua",
+  "TemperCombat.lua",
   "TemperCharacters.lua",
   "TemperCatalog.lua",
   "Temper.lua",
@@ -38,6 +39,7 @@ export const CAPTURED_BASENAMES = [
 export const LEGACY_LABELS = [
   "Catalog",
   "Characters",
+  "Combat",
   "Characters",
   "Catalog",
   "Temper",
@@ -48,6 +50,7 @@ export const LEGACY_LABELS = [
 export const SOURCE_KEY_FOR_TEST = {
   catalog: "temperCatalogPath",
   characters: "temperCharactersPath",
+  combat: "temperCombatPath",
   companions: "companionsPath",
   "data-mining": "dataMiningPath",
   errors: "temperErrorsPath",

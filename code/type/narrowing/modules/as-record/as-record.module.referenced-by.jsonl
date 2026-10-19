@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/watcher/modules/watcher-import-fights/watcher-import-fights.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/watcher/modules/watcher-settings-normalize/watcher-settings-normalize.module.code.ts","typed":false,"deferred":false}

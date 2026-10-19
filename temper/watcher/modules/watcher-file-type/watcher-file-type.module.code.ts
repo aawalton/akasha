@@ -1,6 +1,7 @@
 export const FILE_TYPES = [
   "catalog",
   "characters",
+  "combat",
   "companions",
   "data-mining",
   "errors",

@@ -218,12 +218,12 @@ test("every kind of file the watcher knows is watched under its own name", async
   expect(said.info).toContain(`SavedVariables: ${LIVE}/SavedVariables`)
   expect(said.info).toContain(`AddOns: ${LIVE}/AddOns`)
   expect(said.info).toContain("Watching: TemperCatalog.lua")
-  expect(said.info.at(-1)).toBe("Watching 7 file(s)")
+  expect(said.info.at(-1)).toBe("Watching 8 file(s)")
 })
 
 test("a file that is not there is warned about and left unwatched", async () => {
   const { said, start } = await startWith({ isThere: (p) => p !== CONFIG.temperErrorsPath })
-  expect(start.kind === "watching" && start.watching).toHaveLength(6)
+  expect(start.kind === "watching" && start.watching).toHaveLength(7)
   expect(said.info).toContain(
     `Warning: Temper.lua not found at ${CONFIG.temperErrorsPath}, skipping`
   )
@@ -389,8 +389,10 @@ test("every handler is told the same token and server and its own path", async (
       },
     })
   )
-  expect(handed.map((a) => a.token)).toEqual(Array(7).fill("wt_seen"))
-  expect(handed.map((a) => a.serverUrl)).toEqual(Array(7).fill("https://server.test"))
+  expect(handed.map((a) => a.token)).toEqual(Array(FILE_TYPES.length).fill("wt_seen"))
+  expect(handed.map((a) => a.serverUrl)).toEqual(
+    Array(FILE_TYPES.length).fill("https://server.test")
+  )
   expect(handed.map((a) => a.sourcePathOf())).toEqual(
     FILE_TYPES.map((t) => CONFIG[SOURCE_KEY_FOR_TEST[t]])
   )

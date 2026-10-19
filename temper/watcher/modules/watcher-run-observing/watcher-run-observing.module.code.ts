@@ -11,6 +11,7 @@ import type {
 export const TARGET_OPERATIONS = {
   catalog: { imports: ["catalog"] },
   characters: { imports: ["characters", "completion", "tasks"], sideFile: "charactersConfig" },
+  combat: { imports: ["fights"] },
   companions: { imports: ["companions"], sideFile: "companionsConfig" },
   "data-mining": { imports: ["dataMining"] },
   errors: { imports: ["errors"] },

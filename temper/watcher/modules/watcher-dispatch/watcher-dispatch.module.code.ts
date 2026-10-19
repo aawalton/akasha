@@ -15,6 +15,7 @@ import { runImportCompanions } from "akasha/temper/watcher/modules/watcher-impor
 import { runImportCompletion } from "akasha/temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"
 import { runImportDataMining } from "akasha/temper/watcher/modules/watcher-import-data-mining/watcher-import-data-mining.module.code.ts"
 import { runImportErrors } from "akasha/temper/watcher/modules/watcher-import-errors/watcher-import-errors.module.code.ts"
+import { runImportFights } from "akasha/temper/watcher/modules/watcher-import-fights/watcher-import-fights.module.code.ts"
 import { runImportInventory } from "akasha/temper/watcher/modules/watcher-import-inventory/watcher-import-inventory.module.code.ts"
 import {
   runImportItemRuleVerdicts,
@@ -47,6 +48,7 @@ const COMPLETION_TO_DO = "import this completion"
 
 const [CATALOG] = TARGET_OPERATIONS.catalog.imports
 const [CHARACTERS, COMPLETION, TASKS] = TARGET_OPERATIONS.characters.imports
+const [FIGHTS] = TARGET_OPERATIONS.combat.imports
 const [COMPANIONS] = TARGET_OPERATIONS.companions.imports
 const [DATA_MINING] = TARGET_OPERATIONS["data-mining"].imports
 const [ERRORS] = TARGET_OPERATIONS.errors.imports
@@ -63,6 +65,7 @@ export interface DispatchRunners {
   readonly importCompletion: typeof runImportCompletion
   readonly importDataMining: typeof runImportDataMining
   readonly importErrors: typeof runImportErrors
+  readonly importFights: typeof runImportFights
   readonly importInventory: typeof runImportInventory
   readonly importItemRuleVerdicts: typeof runImportItemRuleVerdicts
   readonly importSales: typeof runImportSales
@@ -93,6 +96,7 @@ const WATCHER_RUNNERS: DispatchRunners = {
   importCompletion: importCompletionOnceRead,
   importDataMining: runImportDataMining,
   importErrors: runImportErrors,
+  importFights: runImportFights,
   importInventory: runImportInventory,
   importItemRuleVerdicts: runImportItemRuleVerdicts,
   importSales: runImportSales,
@@ -257,6 +261,13 @@ async function handleErrors(job: Job): Promise<Handled> {
   return noSideFile(null, [operation])
 }
 
+async function handleCombat(job: Job): Promise<Handled> {
+  const { operation } = await observe(job.imported(FIGHTS), () =>
+    job.runners.importFights(job.content)
+  )
+  return noSideFile(null, [operation])
+}
+
 async function handleSales(job: Job): Promise<Handled> {
   const { operation } = await observe(job.imported(SALES), () =>
     job.runners.importSales(job.content, job.reader)
@@ -267,6 +278,7 @@ async function handleSales(job: Job): Promise<Handled> {
 const HANDLERS = {
   catalog: handleCatalog,
   characters: handleCharacters,
+  combat: handleCombat,
   companions: handleCompanions,
   "data-mining": handleDataMining,
   errors: handleErrors,

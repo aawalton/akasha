@@ -78,6 +78,7 @@ export const temperWatcher = {
     "module/watcher-import-completion",
     "module/watcher-import-data-mining",
     "module/watcher-import-errors",
+    "module/watcher-import-fights",
     "module/watcher-import-inventory",
     "module/watcher-import-item-rule-verdicts",
     "module/watcher-import-sales",
@@ -124,5 +125,5 @@ export const temperWatcher = {
     "module/saved-variables-reader",
   ],
   createdAt: "2026-09-02T03:46:23.499Z",
-  updatedAt: "2026-09-27T03:43:08.000Z",
+  updatedAt: "2026-10-19T12:55:29.348Z",
 } as const satisfies ServiceWorkstation

@@ -7,6 +7,7 @@ export const watcherDispatch = {
   definition: "the imports and exports carrying each kind of saved-variables file across",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -89,5 +90,5 @@ export const watcherDispatch = {
     },
   ],
   createdAt: "2026-09-02T20:20:26.300Z",
-  updatedAt: "2026-09-26T18:43:56.000Z",
+  updatedAt: "2026-10-19T12:55:29.348Z",
 } as const satisfies Module

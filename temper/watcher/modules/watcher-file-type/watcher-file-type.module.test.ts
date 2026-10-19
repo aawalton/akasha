@@ -5,6 +5,7 @@ test("every kind the watcher knows is named", () => {
   expect([...FILE_TYPES]).toEqual([
     "catalog",
     "characters",
+    "combat",
     "companions",
     "data-mining",
     "errors",
