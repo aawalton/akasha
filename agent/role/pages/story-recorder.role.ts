@@ -4,8 +4,7 @@ export const storyRecorder = {
   id: "01a0e054-86e2-7a7c-8bf7-dda0c72d035a",
   type: "page-type/role",
   slug: "story-recorder",
-  definition:
-    "an agent that drafts into pages what one turn or chapter changed, as one story recorder",
+  definition: "an agent that writes a part of what a part of a story changes",
   onCall: true,
   directives: [
     {
@@ -45,5 +44,5 @@ export const storyRecorder = {
     },
   ],
   createdAt: "2026-09-27T00:47:11.074Z",
-  updatedAt: "2026-10-04T00:26:47.000Z",
+  updatedAt: "2026-10-19T19:49:16.329Z",
 } as const satisfies Role
