@@ -37,6 +37,7 @@ export type Chrome = {
     readonly create: (properties: Going) => Promise<Tab>
     readonly update: (id: number, properties: Going) => Promise<Tab | undefined>
     readonly get: (id: number) => Promise<Tab>
+    readonly query: (info: { readonly url: string }) => Promise<readonly Tab[]>
   }
 }
 

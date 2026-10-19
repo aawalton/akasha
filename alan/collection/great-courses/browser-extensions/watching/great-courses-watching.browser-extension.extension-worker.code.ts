@@ -29,6 +29,8 @@ const READY = "Watch the next lecture"
 
 const ICON_FILE = "icon.png"
 
+const COURSE_PAGES = "https://plus.thegreatcourses.com/*"
+
 export const ICON =
   "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"
 
@@ -201,12 +203,7 @@ async function courseAt(path: string): Promise<string | null> {
 }
 
 async function idle(chrome: Chrome): Promise<boolean> {
-  const kept = await watchingIn(chrome)
-  if (kept === null) return true
-  return await chrome.tabs.get(kept.tabId).then(
-    () => false,
-    () => true
-  )
+  return (await chrome.tabs.query({ url: COURSE_PAGES })).length === 0
 }
 
 export function runWorker(): undefined {
