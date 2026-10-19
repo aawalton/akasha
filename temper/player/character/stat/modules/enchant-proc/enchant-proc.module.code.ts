@@ -1,3 +1,9 @@
+import {
+  findIn,
+  plainText,
+  textPattern,
+} from "akasha/temper/player/character/stat/modules/text-pattern/text-pattern.module.code.ts"
+
 export type EnchantProc = {
   readonly damage: number
   readonly healing: number
@@ -5,14 +11,12 @@ export type EnchantProc = {
 
 const ENCHANT_PROC_SECONDS = 4
 
-const COLOR = /\|c[0-9a-fA-F]{6}|\|r/g
-
-const DEALS_AND_RESTORES = /Deals (\d+) \w+ Damage and restores (\d+) Health/i
+const DEALS_AND_RESTORES = textPattern("deals <n> <w> damage and restores <n> health")
 
 export function readEnchantProc(enchant: string): EnchantProc | undefined {
-  const read = DEALS_AND_RESTORES.exec(enchant.replace(COLOR, ""))
-  if (read === null) return undefined
-  return { damage: Number(read[1]), healing: Number(read[2]) }
+  const read = findIn(DEALS_AND_RESTORES, plainText(enchant))
+  if (read === undefined) return undefined
+  return { damage: read[0] ?? 0, healing: read[1] ?? 0 }
 }
 
 export function procsIn(tick: number): boolean {

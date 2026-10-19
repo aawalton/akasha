@@ -1,22 +1,26 @@
+import {
+  findIn,
+  plainText,
+  textPattern,
+} from "akasha/temper/player/character/stat/modules/text-pattern/text-pattern.module.code.ts"
+
 export type SkillDamage = {
   readonly hit: number
   readonly wave: number
   readonly waveSeconds: number
 }
 
-const COLOR = /\|c[0-9a-fA-F]{6}|\|r/g
+const WAVE = textPattern("every <n> second[s], deal{s|ing} <n> <w> damage")
 
-const WAVE = /every (\d+) seconds?, deal(?:s|ing) (\d+) \w+ Damage/i
-
-const HIT = /deal(?:s|ing) (\d+) \w+ Damage/i
+const HIT = textPattern("deal{s|ing} <n> <w> damage")
 
 const NO_DAMAGE: SkillDamage = { hit: 0, wave: 0, waveSeconds: 0 }
 
 export function readSkillDamage(description: string): SkillDamage {
-  const text = description.replace(COLOR, "").replace(/\s+/g, " ")
-  const wave = WAVE.exec(text)
-  if (wave !== null) return { hit: 0, wave: Number(wave[2]), waveSeconds: Number(wave[1]) }
-  const hit = HIT.exec(text)
-  if (hit !== null) return { ...NO_DAMAGE, hit: Number(hit[1]) }
+  const text = plainText(description)
+  const wave = findIn(WAVE, text)
+  if (wave !== undefined) return { hit: 0, wave: wave[1] ?? 0, waveSeconds: wave[0] ?? 0 }
+  const hit = findIn(HIT, text)
+  if (hit !== undefined) return { ...NO_DAMAGE, hit: hit[0] ?? 0 }
   return NO_DAMAGE
 }

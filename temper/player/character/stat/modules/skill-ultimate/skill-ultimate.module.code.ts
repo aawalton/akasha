@@ -1,30 +1,31 @@
 import type { Heroism } from "akasha/temper/player/character/stat/modules/rotation-healing/rotation-healing.module.code.ts"
 
-const COLOR = /\|c[0-9a-fA-F]{6}|\|r/g
+import {
+  findIn,
+  plainText,
+  textPattern,
+} from "akasha/temper/player/character/stat/modules/text-pattern/text-pattern.module.code.ts"
 
-const HEROISM = /Heroism for (\d+) seconds?.*?generating (\d+) Ultimate every ([\d.]+) seconds?/i
+const HEROISM = textPattern(
+  "heroism for <n> second[s]<*>generating <n> ultimate every <d> second[s]"
+)
 
-const PER_POINT_SPENT = /for (?:each point of the|every) Ultimate spent/i
+const PER_POINT_SPENT = textPattern("for {each point of the|every} ultimate spent")
 
-const CURRENT_HEALTH = /Current amount: (\d+) Health/i
-
-function plain(description: string): string {
-  return description.replace(COLOR, "").replace(/\s+/g, " ")
-}
+const CURRENT_HEALTH = textPattern("current amount: <n> health")
 
 export function readHeroism(description: string): Heroism | undefined {
-  const read = HEROISM.exec(plain(description))
-  if (read === null) return undefined
+  const read = findIn(HEROISM, plainText(description))
+  if (read === undefined) return undefined
   return {
-    ultimate: Number(read[2]),
-    everySeconds: Number(read[3]),
-    lastsSeconds: Number(read[1]),
+    ultimate: read[1] ?? 0,
+    everySeconds: read[2] ?? 0,
+    lastsSeconds: read[0] ?? 0,
   }
 }
 
 export function readHealingPerUltimatePoint(description: string): number | undefined {
-  const text = plain(description)
-  if (!PER_POINT_SPENT.test(text)) return undefined
-  const read = CURRENT_HEALTH.exec(text)
-  return read === null ? undefined : Number(read[1])
+  const text = plainText(description)
+  if (findIn(PER_POINT_SPENT, text) === undefined) return undefined
+  return findIn(CURRENT_HEALTH, text)?.[0]
 }

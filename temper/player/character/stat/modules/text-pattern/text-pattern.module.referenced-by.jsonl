@@ -1,2 +1,6 @@
+{"propertySlug":"import","fileName":"text-pattern.module.code.ts","path":"temper/player/character/stat/modules/enchant-proc/enchant-proc.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-pattern.module.code.ts","path":"temper/player/character/stat/modules/skill-damage/skill-damage.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-pattern.module.code.ts","path":"temper/player/character/stat/modules/skill-healing/skill-healing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-pattern.module.code.ts","path":"temper/player/character/stat/modules/skill-ultimate/skill-ultimate.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-pattern.module.code.ts","path":"temper/player/character/stat/modules/text-pattern/text-pattern.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}

@@ -1,3 +1,10 @@
+import {
+  findIn,
+  plainText,
+  sentencesOf,
+  textPattern,
+} from "akasha/temper/player/character/stat/modules/text-pattern/text-pattern.module.code.ts"
+
 export type SkillHealing = {
   readonly direct: number
   readonly shield: number
@@ -7,28 +14,27 @@ export type SkillHealing = {
   readonly unread: readonly string[]
 }
 
-const COLOR = /\|c[0-9a-fA-F]{6}|\|r/g
-
-const SENTENCE = /(?<=\.)\s+/
-
-const MENTIONS_HEALING = /heal|shield|restor/i
-
 const DEFAULT_TICK_SECONDS = 2
 
-const SHIELD =
-  /damage shield (?:around you )?that absorbs (?:up to )?(\d+) damage(?: for (\d+) seconds?)?/i
+const SHIELD = textPattern(
+  "damage shield [around you ]that absorbs [up to ]<n> damage[ for <n> second[s]]"
+)
 
-const HIT_THEN_TICKS =
-  /heal(?:s|ing)? for (\d+) Health from the initial hit and (\d+) Health each subsequent tick/i
+const HIT_THEN_TICKS = textPattern(
+  "heal{s|ing|} for <n> health from the initial hit and <n> health each subsequent tick"
+)
 
-const EVERY = /heal(?:s|ing)?\b(?:.*? for)? (\d+) Health every (\d+)? ?seconds?/i
+const EVERY = textPattern("heal{s|ing|}<b>[<*> for] <n> health every [<n>][ ]second[s]")
 
-const DIRECT = /heal(?:s|ing)? (?:you )?for (\d+) Health/i
+const DIRECT = textPattern("heal{s|ing|} [you ]for <n> health")
 
-const IN_AREA = /healing increases by (\d+)% if you are in the area/i
+const IN_AREA = textPattern("healing increases by <n>% if you are in the area")
 
-function plainText(description: string): string {
-  return description.replace(COLOR, "").replace(/\s+/g, " ").trim()
+const HEALING_WORDS = ["heal", "shield", "restor"]
+
+function mentionsHealing(sentence: string): boolean {
+  const lower = sentence.toLowerCase()
+  return HEALING_WORDS.some((word) => lower.includes(word))
 }
 
 export function readSkillHealing(description: string): SkillHealing {
@@ -39,41 +45,41 @@ export function readSkillHealing(description: string): SkillHealing {
   let lastsSeconds = 0
   let healed = false
   const unread: string[] = []
-  for (const sentence of plainText(description).split(SENTENCE)) {
-    const shielded = SHIELD.exec(sentence)
-    if (shielded !== null && shield === 0) {
-      shield = Number(shielded[1])
-      lastsSeconds = shielded[2] === undefined ? 0 : Number(shielded[2])
+  for (const sentence of sentencesOf(plainText(description))) {
+    const shielded = findIn(SHIELD, sentence)
+    if (shielded !== undefined && shield === 0) {
+      shield = shielded[0] ?? 0
+      lastsSeconds = shielded[1] ?? 0
       continue
     }
-    const hitThenTicks = HIT_THEN_TICKS.exec(sentence)
-    if (hitThenTicks !== null && !healed) {
-      direct = Number(hitThenTicks[1])
-      tick = Number(hitThenTicks[2])
+    const hitThenTicks = findIn(HIT_THEN_TICKS, sentence)
+    if (hitThenTicks !== undefined && !healed) {
+      direct = hitThenTicks[0] ?? 0
+      tick = hitThenTicks[1] ?? 0
       healed = true
       continue
     }
-    const every = EVERY.exec(sentence)
-    if (every !== null && !healed) {
-      tick = Number(every[1])
-      tickSeconds = every[2] === undefined ? 1 : Number(every[2])
+    const every = findIn(EVERY, sentence)
+    if (every !== undefined && !healed) {
+      tick = every[0] ?? 0
+      tickSeconds = every[1] ?? 1
       healed = true
       continue
     }
-    const once = DIRECT.exec(sentence)
-    if (once !== null && !healed) {
-      direct = Number(once[1])
+    const once = findIn(DIRECT, sentence)
+    if (once !== undefined && !healed) {
+      direct = once[0] ?? 0
       healed = true
       continue
     }
-    const inArea = IN_AREA.exec(sentence)
-    if (inArea !== null && healed) {
-      const scale = 1 + Number(inArea[1]) / 100
+    const inArea = findIn(IN_AREA, sentence)
+    if (inArea !== undefined && healed) {
+      const scale = 1 + (inArea[0] ?? 0) / 100
       direct = direct * scale
       tick = tick * scale
       continue
     }
-    if (MENTIONS_HEALING.test(sentence) && !(healed && DIRECT.test(sentence))) unread.push(sentence)
+    if (mentionsHealing(sentence) && !(healed && once !== undefined)) unread.push(sentence)
   }
   return { direct, shield, tick, tickSeconds, lastsSeconds, unread }
 }
