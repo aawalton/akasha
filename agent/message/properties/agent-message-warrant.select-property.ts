@@ -5,7 +5,7 @@ export const agentMessageWarrant = {
   type: "page-type/select-property",
   slug: "agent-message-warrant",
   propertySlug: "warrant",
-  definition: "what a message says of the sender while it waits",
+  definition: "whether the sender of a message waits",
   values: ["announce", "blocked"],
   decisions: [
     {
@@ -31,5 +31,5 @@ export const agentMessageWarrant = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:26:42.683Z",
-  updatedAt: "2026-10-19T18:10:45.688Z",
+  updatedAt: "2026-10-19T18:25:34.318Z",
 } as const satisfies SelectProperty
