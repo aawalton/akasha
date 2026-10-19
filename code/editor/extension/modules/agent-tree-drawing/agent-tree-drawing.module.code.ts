@@ -16,7 +16,7 @@ import * as vscode from "vscode"
 
 export const REVEAL_TERMINAL_COMMAND = "opsAgentTree.revealTerminal"
 
-export const OPEN_SEAT_PAGE_COMMAND = "opsAgentTree.openSeatPage"
+export const OPEN_SEAT_COMMAND = "opsAgentTree.openSeat"
 
 const OPEN_COMMAND = "vscode.open"
 
@@ -96,8 +96,8 @@ function buildTreeItem(element: AgentTreeRow, filtering: boolean, atTop: boolean
   if (element.kind === "seat") {
     const clicked: SeatClick = { id: element.key, name: element.label }
     item.command = {
-      command: OPEN_SEAT_PAGE_COMMAND,
-      title: "Open this seat's page in the browser",
+      command: OPEN_SEAT_COMMAND,
+      title: "Bring this seat's terminal forward, or open its page in the browser",
       arguments: [clicked],
     }
   } else if (element.at !== null) {

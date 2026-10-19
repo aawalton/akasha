@@ -4,8 +4,9 @@ export const seatShowing = {
   id: "01a0686b-bfe9-7ca6-919b-b3b0a47d62d8",
   type: "page-type/module",
   slug: "seat-showing",
-  definition: "what showing a seat from its menu brings up, and the column chosen for it",
+  definition: "what showing or choosing a seat brings up, and the column chosen for it",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -13,7 +14,15 @@ export const seatShowing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat with no terminal here has its transcript opened instead.",
+      statement: "Showing a seat with no terminal here opens its transcript instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Choosing a seat with no terminal here opens that seat's page in the browser.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat with a terminal here opens nothing new when chosen.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -45,5 +54,5 @@ export const seatShowing = {
     },
   ],
   createdAt: "2026-09-03T17:58:07.081Z",
-  updatedAt: "2026-09-24T18:15:21.000Z",
+  updatedAt: "2026-10-19T16:57:18.025Z",
 } as const satisfies Module

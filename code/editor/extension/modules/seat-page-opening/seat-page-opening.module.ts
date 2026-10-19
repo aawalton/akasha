@@ -10,7 +10,8 @@ export const seatPageOpening = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Choosing a seat in the agents panel opens that seat's page in the browser.",
+      statement:
+        "Choosing a seat with no terminal here in the agents panel opens that seat's page in the browser.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,5 +23,5 @@ export const seatPageOpening = {
     },
   ],
   createdAt: "2026-09-24T18:12:45.839Z",
-  updatedAt: "2026-09-24T18:13:55.000Z",
+  updatedAt: "2026-10-19T16:57:18.025Z",
 } as const satisfies Module
