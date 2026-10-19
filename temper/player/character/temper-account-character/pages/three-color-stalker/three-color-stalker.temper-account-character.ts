@@ -10,6 +10,7 @@ export const threeColorStalker = {
   esoCharacterId: "8796093022613905",
   accountPage: "temper-account/alanarre",
   firstName: "Three-Color",
+  readings: "jsonl",
   createdAt: "2026-04-29T16:44:24.627Z",
-  updatedAt: "2026-09-24T16:26:32.000Z",
+  updatedAt: "2026-10-19T19:18:46.972Z",
 } as const satisfies TemperAccountCharacter
