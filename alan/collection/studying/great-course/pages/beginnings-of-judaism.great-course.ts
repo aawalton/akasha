@@ -7,8 +7,8 @@ export const beginningsOfJudaism = {
   title: "Beginnings of Judaism",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 739.2,
-  ownProgress: 246.4,
+  ownLength: 739.08,
+  ownProgress: 272.3,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/philosophy-and-religion-great-courses",
@@ -21,5 +21,6 @@ export const beginningsOfJudaism = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T16:42:27.707Z",
+  progressedAt: "2026-10-19T16:42:27.707Z",
 } as const satisfies GreatCourse
