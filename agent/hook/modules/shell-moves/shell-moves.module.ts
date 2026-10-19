@@ -4,7 +4,7 @@ export const shellMoves = {
   id: "01a0daa1-79b5-75c5-bd83-26c128803c3a",
   type: "page-type/module",
   slug: "shell-moves",
-  definition: "the folder a call on a shell line runs in",
+  definition: "where a call in a shell command runs",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const shellMoves = {
     },
   ],
   createdAt: "2026-09-25T22:13:30.677Z",
-  updatedAt: "2026-09-25T22:13:39.000Z",
+  updatedAt: "2026-10-19T18:00:54.813Z",
 } as const satisfies Module
