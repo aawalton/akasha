@@ -1,4 +1,5 @@
 import {
+  courseLinked,
   type Queued,
   queuedFrom,
   type Row,
@@ -181,15 +182,22 @@ async function answered(
       ? kept
       : null
   const said = { watching: watching !== null, speed, next: null, why: null }
-  if (watching === null || asked.kind === "watching" || asked.kind === "speed") return said
+  if (asked.kind === "watching" || asked.kind === "speed") return said
   try {
     if (asked.kind === "progressed") {
-      return { ...said, why: await wrote(watching.id, asked.lengthMinutes, asked.progressMinutes) }
+      const id = watching?.id ?? (await courseAt(asked.path))
+      if (id === null) return { ...said, why: "akasha holds no page for this course" }
+      return { ...said, why: await wrote(id, asked.lengthMinutes, asked.progressMinutes) }
     }
+    if (watching === null) return said
     return { ...said, next: await onward(chrome, watching) }
   } catch (thrown) {
     return { ...said, why: saidBy(thrown) }
   }
+}
+
+async function courseAt(path: string): Promise<string | null> {
+  return courseLinked(await rows(), (link) => sameCourse(link, path))
 }
 
 async function idle(chrome: Chrome): Promise<boolean> {

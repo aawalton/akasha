@@ -24,7 +24,11 @@ export const watchingQueue = {
       decisionKind: "decision-kind/departure",
       statement: "A course is left out of the queue where no link to the site is held for it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any course is found by the link to the site it holds, queued or not.",
+    },
   ],
   createdAt: "2026-10-18T17:14:38.301Z",
-  updatedAt: "2026-10-18T17:14:38.301Z",
+  updatedAt: "2026-10-19T16:50:27.976Z",
 } as const satisfies Module

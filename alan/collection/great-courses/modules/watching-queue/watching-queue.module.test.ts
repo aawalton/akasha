@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import {
+  courseLinked,
   queuedFrom,
   type Row,
 } from "akasha/alan/collection/great-courses/modules/watching-queue/watching-queue.module.code.ts"
@@ -56,5 +57,16 @@ describe("queuedFrom", () => {
     expect(queuedFrom([row("a", {})], NOW)).toEqual([
       { id: "id-a", title: "A", link: "https://site/a" },
     ])
+  })
+})
+
+describe("courseLinked", () => {
+  test("a course is found by its link whether or not it is queued", () => {
+    const rows = [row("a", {}), row("b", { completion: "completed" })]
+    expect(courseLinked(rows, (link) => link === "https://site/b")).toBe("id-b")
+  })
+
+  test("a link no course holds finds nothing", () => {
+    expect(courseLinked([row("a", {})], (link) => link === "https://site/z")).toBeNull()
   })
 })

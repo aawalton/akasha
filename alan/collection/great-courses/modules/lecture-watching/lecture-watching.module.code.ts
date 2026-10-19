@@ -233,18 +233,50 @@ async function begun(ask: (asked: Asked) => Promise<Answered>): Promise<undefine
   })
   holdEvery()
   document.addEventListener("keydown", keyedBy(ask), true)
-  if (!answer.watching) return
   const lectures = lecturesHere()
   const course = courseHere(lectures)
   if (lectures.length === 0 || course === null) {
-    panelOf("Watching stopped: this page lists no lectures the extension can read.")
+    if (answer.watching) {
+      panelOf("Watching stopped: this page lists no lectures the extension can read.")
+    }
     return
   }
   try {
-    await watched(ask, lectures, course)
+    if (answer.watching) await watched(ask, lectures, course)
+    else await recordedEach(ask, lectures, course)
   } catch (thrown) {
     panelOf(`Watching stopped: ${saidBy(thrown)}`)
   }
+}
+
+async function recordedEach(
+  ask: (asked: Asked) => Promise<Answered>,
+  lectures: readonly Lecture[],
+  course: string
+): Promise<never> {
+  for (;;) {
+    await lectureEnded()
+    await new Promise((resolve) => setTimeout(resolve, SAVED_BY_THE_SITE_MS))
+    const played = await playedHere(course)
+    const playing = lectures.find((one) => one.index === Number(playingHere()))
+    const now = courseOf(
+      lectures,
+      playing === undefined ? played : { ...played, [playing.id]: playing.seconds }
+    )
+    const answer = await ask({
+      kind: "progressed",
+      path: location.pathname,
+      lengthMinutes: now.lengthMinutes,
+      progressMinutes: now.progressMinutes,
+    })
+    if (answer.why === null)
+      told(`Recorded ${now.progressMinutes} of ${now.lengthMinutes} minutes.`)
+    else panelOf(`This lecture was not recorded: ${answer.why}`)
+  }
+}
+
+function playingHere(): string | null {
+  return new URLSearchParams(location.search).get(PLAYING)
 }
 
 export function watchLectures(chrome: Chrome): undefined {

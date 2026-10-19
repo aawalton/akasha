@@ -12,7 +12,11 @@ export const greatCoursesWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The tab the extension opened is the one tab it tracks and moves on.",
+      statement: "The tab the extension opened is the one tab it moves on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lecture finished on any course page is written to that course's page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -53,5 +57,5 @@ export const greatCoursesWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T16:32:13.401Z",
+  updatedAt: "2026-10-19T16:50:27.976Z",
 } as const satisfies BrowserExtension
