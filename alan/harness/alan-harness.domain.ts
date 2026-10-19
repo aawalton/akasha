@@ -54,6 +54,7 @@ export const alanHarness = {
     "domain/handover-rr",
     "module/reading-in-flight",
     "module/router-app-serving",
+    "domain/shopping",
   ],
   decisions: [
     {
@@ -159,5 +160,5 @@ export const alanHarness = {
     },
   ],
   createdAt: "2026-08-30T16:29:45.336Z",
-  updatedAt: "2026-10-18T14:26:55.267Z",
+  updatedAt: "2026-10-19T13:07:19.947Z",
 } as const satisfies Domain

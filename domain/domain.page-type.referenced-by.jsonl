@@ -261,6 +261,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/rules-engine/field/rules-engine-field.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/rules-engine/rules-engine.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/safety/safety.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/shopping/shopping.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/sleep/sleep.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/sms-core/sms-core.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/ssh-access/ssh-access.domain.ts","typed":true,"deferred":false}
