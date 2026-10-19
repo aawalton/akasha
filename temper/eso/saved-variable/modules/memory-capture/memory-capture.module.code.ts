@@ -98,6 +98,15 @@ type ReadingsFound = {
   readonly seen: (readonly [string, number])[]
 }
 
+export function buildReadingOf(
+  character: string,
+  bar: string,
+  held: { readonly [key: string]: LuaData }
+): BuildReading | null {
+  const { buildHash, ...reading } = held
+  return typeof buildHash === "string" ? { character, buildHash, bar, reading } : null
+}
+
 function readingsIn(read: Reader, characters: readonly Character[], seen: Seen): ReadingsFound {
   const found: ReadingsFound = { readings: [], seen: [] }
   for (const character of characters) {
@@ -111,12 +120,8 @@ function readingsIn(read: Reader, characters: readonly Character[], seen: Seen):
       if (at === null || seen.readings.get(key) === at) continue
       const reading = dataOf(read, heldTable(table))
       if (!isRecord(reading) || numberField(read, table, "capturedAt") !== at) continue
-      found.readings.push({
-        character: character.name,
-        buildHash: character.buildHash,
-        bar,
-        reading,
-      })
+      const one = buildReadingOf(character.name, bar, reading)
+      if (one !== null) found.readings.push(one)
       found.seen.push([key, at])
     }
   }

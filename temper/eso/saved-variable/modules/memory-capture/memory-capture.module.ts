@@ -6,6 +6,7 @@ export const memoryCapture = {
   slug: "memory-capture",
   definition: "the build readings and fights the add-ons hold, read out of the game's memory",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -17,7 +18,15 @@ export const memoryCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading carries the build its character had when the reading was read.",
+      statement: "A reading carries the build hash the add-on kept inside it at its capture.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading keeping no build hash of its own lands nothing and is marked seen.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No reading carries the build hash its character holds now.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,5 +47,5 @@ export const memoryCapture = {
     },
   ],
   createdAt: "2026-10-19T19:08:25.036Z",
-  updatedAt: "2026-10-19T19:08:25.036Z",
+  updatedAt: "2026-10-19T23:54:39.519Z",
 } as const satisfies Module
