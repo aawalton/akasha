@@ -7,8 +7,8 @@ export const lifeLessonsFromTheGreatBooks = {
   title: "Life Lessons from the Great Books",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 1091.4,
-  ownProgress: 272.85,
+  ownLength: 1092.35,
+  ownProgress: 303.4,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/literature-great-courses",
@@ -22,5 +22,6 @@ export const lifeLessonsFromTheGreatBooks = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T16:58:42.714Z",
+  progressedAt: "2026-10-19T16:58:42.714Z",
 } as const satisfies GreatCourse
