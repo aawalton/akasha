@@ -5874,6 +5874,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/place-kinds.number-property.ts","id":"01a0d5d4-6c7f-7d11-b6a8-b978871353e0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.ts","id":"01a0d5d4-6c80-7134-9ddd-a55a8ef382cc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-bag/temper-bag.page-type.ts","id":"01a0e24c-a62b-7473-a612-79f29879a028"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/temper-catalog-domain/modules/catalog-capture-reading/catalog-capture-reading.module.ts","id":"01a15542-1fc5-7231-9bec-353cdcd290bc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-catalog-domain/properties/catalog-capture.file-property.ts","id":"01a15534-88cc-7d06-aa5f-8a7b97cb4550"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-dungeon/temper-dungeon.page-type.ts","id":"01a05fc4-7a8e-73b2-936f-9e3b86b17549"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.ts","id":"01a05fc4-7a8f-792b-b559-e6c98c4ec4bb"}

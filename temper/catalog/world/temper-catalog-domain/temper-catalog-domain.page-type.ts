@@ -13,6 +13,7 @@ export const temperCatalogDomain = {
     "text-property/api-version",
     "text-property/generator-ran-for-version",
     "file-property/catalog-capture",
+    "module/catalog-capture-reading",
   ],
   properties: [
     { pageProperty: "text-property/icon", required: true, many: false },
@@ -36,5 +37,5 @@ export const temperCatalogDomain = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:38:27.086Z",
-  updatedAt: "2026-10-19T17:27:48.683Z",
+  updatedAt: "2026-10-19T17:42:39.301Z",
 } as const satisfies PageType
