@@ -203,12 +203,31 @@ const reportedStatsReadingSchema = z.strictObject({
   classPassives: luaArrayOrEmpty(classPassiveSchema).optional(),
   inArchive: z.boolean().optional(),
   archiveBoons: luaArrayOrEmpty(archiveBoonSchema).optional(),
+  advanced: z.record(z.string(), z.number()).optional(),
   buffs: numbers.optional(),
 })
 
 const reportedStatsSchema = z.strictObject({
   frontBar: reportedStatsReadingSchema.optional(),
   backBar: reportedStatsReadingSchema.optional(),
+})
+
+const rotationBarSchema = z.strictObject({
+  weaponStyle: z.string().optional(),
+  healing: z.number(),
+  damage: z.number(),
+  healthMaximum: z.number(),
+  armorShare: z.number(),
+  damageTaken: z.number(),
+})
+
+const rotationReadingSchema = z.strictObject({
+  capturedAt: z.number(),
+  toughness: z.number(),
+  damage: z.number(),
+  healing: z.number(),
+  reavingBlowsShare: z.number(),
+  bars: luaArrayOrEmpty(rotationBarSchema),
 })
 
 export const accountCompletionSchema = z.strictObject({
@@ -258,6 +277,7 @@ export const characterCompletionSchema = z.strictObject({
   bankVisitDate: z.string().optional(),
   inventoryCheck: z.strictObject({ date: z.string(), misplaced: z.number() }).optional(),
   reportedStats: reportedStatsSchema.optional(),
+  rotationReading: rotationReadingSchema.optional(),
 })
 
 export const companionCompletionSchema = z.strictObject({

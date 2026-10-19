@@ -33,6 +33,24 @@ const REPORTED_STATS: ReadonlyArray<readonly [string, number]> = [
   ["critical-rating-spell", STAT_SPELL_CRITICAL],
 ]
 
+const ADVANCED_STATS: ReadonlyArray<readonly [string, number]> = [
+  ["critical-damage", ADVANCED_STAT_DISPLAY_TYPE_CRITICAL_DAMAGE],
+  ["healing-critical-bonus", ADVANCED_STAT_DISPLAY_TYPE_CRITICAL_HEALING],
+  ["healing-done-base", ADVANCED_STAT_DISPLAY_TYPE_HEALING_DONE_BONUSES],
+  ["healing-taken-base", ADVANCED_STAT_DISPLAY_TYPE_HEALING_TAKEN_BONUSES],
+]
+
+const PERCENT = 100
+
+function advancedStats(): Record<string, number> {
+  const advanced: Record<string, number> = {}
+  for (const [name, statType] of ADVANCED_STATS) {
+    const [, , percent] = GetAdvancedStatValue(statType)
+    advanced[name] = (percent ?? 0) / PERCENT
+  }
+  return advanced
+}
+
 type ActiveBuff = {
   abilityId: number
   name: string
@@ -246,6 +264,7 @@ export function captureReportedStats(): undefined {
     worn: worn(),
     skills: slottedSkills(),
     classPassives: classPassives(),
+    advanced: advancedStats(),
   }
 
   const reported = charEntry.reportedStats ?? {}

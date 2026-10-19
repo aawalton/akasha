@@ -55,6 +55,16 @@ export const completionRecord = {
         "A reading of reported stats keeps whether it was taken in the Archive, and the boons held.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading of reported stats keeps the advanced stats the rotation reading takes, by metric.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A character keeps the add-on's last rotation reading and each bar's inputs to it.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "A reading that kept buff ids alone is still read, until a fresh reading replaces it.",
@@ -65,5 +75,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-15T16:01:40.179Z",
+  updatedAt: "2026-10-19T19:34:48.550Z",
 } as const satisfies Module

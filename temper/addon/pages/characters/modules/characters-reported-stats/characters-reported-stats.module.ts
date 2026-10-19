@@ -76,9 +76,18 @@ export const charactersReportedStats = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A reading keeps the game's critical damage, critical healing, healing done and healing taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each such percent is kept as a fraction under the metric giving the same number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A reading keeps each Archive verse and vision held, with its stacks and its text.",
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-15T15:56:46.427Z",
+  updatedAt: "2026-10-19T19:34:48.550Z",
 } as const satisfies Module
