@@ -14,9 +14,10 @@ export const temperTasksToday = {
   ],
   viewSorts: [
     { key: "priority", descending: false },
-    { key: "character-sort-order", descending: false },
+    { key: "character-sort-order", descending: true },
     { key: "title", descending: false },
   ],
+  groupSorts: [],
   visibleProperties: [
     "priority",
     "progress",
@@ -31,5 +32,5 @@ export const temperTasksToday = {
   itemPageSize: 12,
   groupPageSize: 6,
   createdAt: "2026-09-03T04:11:42.485Z",
-  updatedAt: "2026-09-25T13:33:09.000Z",
+  updatedAt: "2026-10-19T16:50:20.937Z",
 } as const satisfies View
