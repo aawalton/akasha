@@ -158,6 +158,9 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/transaction-note.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/record/properties/monarch-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/tag/properties/tag-color.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/money/plaid-item/properties/plaid-item-access-token.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/money/plaid-item/properties/plaid-item-client-id.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/money/plaid-item/properties/plaid-item-secret.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-body.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-kind.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-link.text-property.ts","typed":true,"deferred":false}

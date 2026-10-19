@@ -295,6 +295,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/monarch/month/monarch-month.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/monarch/record/monarch-record.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/monarch/tag/monarch-tag.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/money/plaid-item/plaid-item.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/notification-feed/notification-feed.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/readout/group/readout-group.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/readout/readout.page-type.ts","typed":true,"deferred":false}

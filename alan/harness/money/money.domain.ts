@@ -6,6 +6,7 @@ export const money = {
   slug: "money",
   definition: "Alan's money",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "money" }],
+  parts: ["page-type/plaid-item"],
   createdAt: "2026-09-03T13:00:18.035Z",
-  updatedAt: "2026-09-24T23:26:42.000Z",
+  updatedAt: "2026-10-19T13:44:47.983Z",
 } as const satisfies Domain

@@ -156,6 +156,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/reading/monarch-reading.module.ts","id":"01a057fa-c464-7f2b-9f87-031b5dbedaa9"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.ts","id":"01a06866-06f1-762e-b1c3-4910e1884927"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}
+{"propertySlug":"decision-kind","path":"alan/harness/money/plaid-item/plaid-item.page-type.ts","id":"01a15468-5c70-70b1-88a1-29c199686e8f"}
 {"propertySlug":"decision-kind","path":"alan/harness/notification-feed/modules/notifying/notifying.module.ts","id":"01a06a00-6837-71bf-b475-d3320bf5baab"}
 {"propertySlug":"decision-kind","path":"alan/harness/notification-feed/modules/rows/notification-feed-rows.module.ts","id":"01a069b6-bb6b-7ec9-bdcf-8f130bb46a4d"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/credential/readout-credential.module.ts","id":"01a054d9-d41f-796f-a2ff-b2c0fa9863a0"}
