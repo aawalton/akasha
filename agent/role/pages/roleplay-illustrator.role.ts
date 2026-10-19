@@ -4,7 +4,7 @@ export const roleplayIllustrator = {
   id: "01a14baf-4395-7b45-8f42-74d2cbea8c2b",
   type: "page-type/role",
   slug: "roleplay-illustrator",
-  definition: "an agent that pictures each turn a roleplay seat narrates, as the turn's cover",
+  definition: "an agent that makes an image of each part of a story",
   onCall: false,
   decisions: [
     {
@@ -140,5 +140,5 @@ export const roleplayIllustrator = {
     },
   ],
   createdAt: "2026-10-17T21:05:39.732Z",
-  updatedAt: "2026-10-17T21:05:39.732Z",
+  updatedAt: "2026-10-19T19:46:33.430Z",
 } as const satisfies Role
