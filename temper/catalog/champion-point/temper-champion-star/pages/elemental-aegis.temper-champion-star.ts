@@ -14,6 +14,7 @@ export const elementalAegis = {
     { metric: "temper-metric/damage-taken", effectType: "fractional-change", value: -0.02 },
   ],
   hashPlace: 82,
+  jumpPoints: [0, 10, 20],
   createdAt: "2026-09-27T05:00:00.922Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:56:40.351Z",
 } as const satisfies TemperChampionStar
