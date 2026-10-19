@@ -53,7 +53,11 @@ export const charisma = {
       decisionKind: "decision-kind/departure",
       statement: "A connection with one person is the hours of every stretch naming that person.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A connection counts a stretch still open up to the moment it is read.",
+    },
   ],
   createdAt: "2026-09-03T17:12:06.722Z",
-  updatedAt: "2026-10-19T14:54:57.271Z",
+  updatedAt: "2026-10-19T15:30:36.222Z",
 } as const satisfies Attribute

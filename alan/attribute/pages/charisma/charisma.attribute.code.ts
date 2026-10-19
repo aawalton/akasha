@@ -61,10 +61,18 @@ export function charismaIn(rows: readonly Row[]): number | null {
   return hoursAtEaseIn(rows, namesAnyone)
 }
 
-export function connectionIn(rows: readonly Row[], relationship: string): number | null {
+export function hoursSoFarIn(values: Readonly<Record<string, unknown>>, now: Date): number | null {
+  const ended = values[ENDED_AT]
+  if (ended !== undefined && ended !== null && ended !== "") return hoursIn(values)
+  const from = Date.parse(String(values[STARTED_AT] ?? ""))
+  if (!Number.isFinite(from)) return null
+  return Math.max(0, now.getTime() - from) / MILLISECONDS_TO_THE_HOUR
+}
+
+export function connectionIn(rows: readonly Row[], relationship: string, now: Date): number | null {
   let held: number | null = null
   for (const row of rows) {
-    const hours = hoursIn(row.values)
+    const hours = hoursSoFarIn(row.values, now)
     if (hours === null) continue
     held = (held ?? 0) + (namesRelationship(row.values, relationship) ? hours : 0)
   }

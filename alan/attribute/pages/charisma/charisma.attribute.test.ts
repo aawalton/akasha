@@ -5,6 +5,7 @@ import {
   connectionIn,
   easeIn,
   hoursIn,
+  hoursSoFarIn,
   namesAnyone,
   namesRelationship,
 } from "akasha/alan/attribute/pages/charisma/charisma.attribute.code.ts"
@@ -45,31 +46,62 @@ test("a stretch names a relationship where its list holds that relationship", ()
   expect(namesRelationship({ "safety-level": 3 }, JEN)).toBe(false)
 })
 
+const NOW = new Date(24 * AN_HOUR)
+
+const open = (hoursAgo: number, relationships: readonly string[] = [JEN]) => ({
+  values: {
+    "safety-level": 2,
+    "difficulty-level": 3,
+    "started-at": new Date(NOW.getTime() - hoursAgo * AN_HOUR).toISOString(),
+    relationships,
+  },
+})
+
 test("the connection with one person is the hours with that person", () => {
-  expect(connectionIn([ran(3, 1, 2), withLizzy(3, 1, 4)], JEN)).toBe(2)
+  expect(connectionIn([ran(3, 1, 2), withLizzy(3, 1, 4)], JEN, NOW)).toBe(2)
 })
 
 test("a stretch naming that person among others counts toward the connection", () => {
-  expect(connectionIn([withBoth(3, 1, 1.5)], JEN)).toBe(1.5)
+  expect(connectionIn([withBoth(3, 1, 1.5)], JEN, NOW)).toBe(1.5)
 })
 
 test("the connection counts hours with that person whatever their safety and difficulty", () => {
   const day = [ran(3, 1, 2), ran(2.5, 2, 4), withLizzy(3, 1, 3), alone(5, 0, 8), withBoth(4, 1, 1)]
-  expect(connectionIn(day, JEN)).toBe(7)
+  expect(connectionIn(day, JEN, NOW)).toBe(7)
   expect(charismaIn(day)).toBe(6)
 })
 
 test("a stretch missing a level still counts toward the connection", () => {
-  expect(connectionIn([ran(null, null, 3)], JEN)).toBe(3)
+  expect(connectionIn([ran(null, null, 3)], JEN, NOW)).toBe(3)
+})
+
+test("an open stretch with that person counts up to now", () => {
+  expect(connectionIn([ran(3, 1, 2), open(0.5)], JEN, NOW)).toBe(2.5)
+})
+
+test("an open stretch with someone else adds nothing", () => {
+  expect(connectionIn([open(1, [LIZZY])], JEN, NOW)).toBe(0)
+})
+
+test("an open stretch starting after now adds nothing", () => {
+  expect(connectionIn([open(-1)], JEN, NOW)).toBe(0)
+})
+
+test("the hours so far of a closed stretch are the hours it ran", () => {
+  expect(hoursSoFarIn(ran(3, 1, 2).values, NOW)).toBe(2)
+})
+
+test("a stretch whose end cannot be read is no hours so far", () => {
+  expect(hoursSoFarIn({ "started-at": NOW.toISOString(), "ended-at": "never" }, NOW)).toBeNull()
 })
 
 test("a day spent with nobody but others is a connection of zero", () => {
-  expect(connectionIn([withLizzy(3, 1, 2), alone(3, 1, 1)], JEN)).toBe(0)
+  expect(connectionIn([withLizzy(3, 1, 2), alone(3, 1, 1)], JEN, NOW)).toBe(0)
 })
 
-test("no stretch stating both its times is no connection rather than zero", () => {
-  expect(connectionIn([], JEN)).toBeNull()
-  expect(connectionIn([{ values: { relationships: [JEN] } }], JEN)).toBeNull()
+test("no stretch stating when it started is no connection rather than zero", () => {
+  expect(connectionIn([], JEN, NOW)).toBeNull()
+  expect(connectionIn([{ values: { relationships: [JEN] } }], JEN, NOW)).toBeNull()
 })
 
 test("a stretch is with someone where that stretch names a relationship", () => {

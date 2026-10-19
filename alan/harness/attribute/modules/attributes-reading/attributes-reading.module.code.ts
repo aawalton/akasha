@@ -212,7 +212,7 @@ async function readAttributes(now: Date, connections: ReadonlyMap<string, string
       const stretches = stretchesRead.value
       keep(charisma.slug, stretches === null ? null : charismaIn(stretches))
       for (const [page, relationship] of connections) {
-        const value = stretches === null ? null : connectionIn(stretches, relationship)
+        const value = stretches === null ? null : connectionIn(stretches, relationship, now)
         if (value === null) unread.push(`${page} — ${NO_STRETCH_READ}`)
         else keptOn[page] = value
       }
