@@ -44,7 +44,15 @@ export const handler = {
         "Such mail is archived unless it asks something of him.",
       ],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Breakfast Checks Off",
+      act: "When Alan logs breakfast, mark his breakfast to-do done for that day.",
+      warrant:
+        "Logging breakfast is the act the to-do asks for, so leaving it open makes him do it twice.",
+      aids: ["The completion takes the time he ate breakfast, not the time he logged it."],
+    },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-14T03:14:20.852Z",
+  updatedAt: "2026-10-19T12:21:21.072Z",
 } as const satisfies Role
