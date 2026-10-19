@@ -7,8 +7,8 @@ export const bachAndTheHighBaroque = {
   title: "Bach and the High Baroque",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 1499.4,
-  ownProgress: 468.5625,
+  ownLength: 1499.57,
+  ownProgress: 506.07,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/music-great-courses",
@@ -21,5 +21,6 @@ export const bachAndTheHighBaroque = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T16:45:28.708Z",
+  progressedAt: "2026-10-19T16:45:28.708Z",
 } as const satisfies GreatCourse
