@@ -37,6 +37,7 @@
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/subordinating-conjunction-with-a-clause.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/verb-alone.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/verb-phrase-with-a-time-conjunction-and-a-clause.construction.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/verb-with-a-noun-phrase-and-a-manner-adverb.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/verb-with-a-noun-phrase-and-a-to-clause.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/verb-with-a-noun-phrase.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/verb-with-a-preposition-phrase.construction.ts","typed":true,"deferred":false}

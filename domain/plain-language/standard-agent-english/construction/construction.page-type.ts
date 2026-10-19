@@ -58,6 +58,7 @@ export const construction = {
     "construction/modal-with-a-negator-and-a-verb-phrase",
     "construction/noun-group-with-a-degree-adverb-and-an-adjective",
     "construction/verb-with-a-stranded-preposition",
+    "construction/verb-with-a-noun-phrase-and-a-manner-adverb",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -89,5 +90,5 @@ export const construction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T19:39:38.477Z",
-  updatedAt: "2026-10-19T19:16:42.547Z",
+  updatedAt: "2026-10-19T19:22:53.026Z",
 } as const satisfies PageType
