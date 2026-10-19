@@ -4,7 +4,7 @@ export const gatewayStart = {
   id: "01a063af-ee63-7655-8598-ffbe6f7b0d22",
   type: "page-type/module",
   slug: "gateway-start",
-  definition: "what starting a gateway is told and what a started gateway hands back",
+  definition: "what a model gateway starts with",
   code: "ts",
   test: "ts",
   decisions: [
@@ -87,5 +87,5 @@ export const gatewayStart = {
     },
   ],
   createdAt: "2026-09-02T19:54:29.347Z",
-  updatedAt: "2026-10-12T12:36:17.969Z",
+  updatedAt: "2026-10-19T19:16:55.621Z",
 } as const satisfies Module
