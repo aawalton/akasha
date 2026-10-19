@@ -59,6 +59,7 @@ export const code = {
     "page-type/data-table",
     "text-property/name-patterns",
     "domain/biome",
+    "domain/prettier",
   ],
   decisions: [
     {
@@ -111,5 +112,5 @@ export const code = {
     },
   ],
   createdAt: "2026-08-28T20:53:56.613Z",
-  updatedAt: "2026-10-19T17:25:40.029Z",
+  updatedAt: "2026-10-19T17:28:34.659Z",
 } as const satisfies Domain
