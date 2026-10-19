@@ -4,7 +4,7 @@ export const bindWithRetry = {
   id: "01a0622e-02ab-7b1e-a875-ff5fdad4afbf",
   type: "page-type/module",
   slug: "bind-with-retry",
-  definition: "a port bind retried while the port is still held by the process on its way out",
+  definition: "how code waits for a port another process has",
   code: "ts",
   test: "ts",
   decisions: [
@@ -54,5 +54,5 @@ export const bindWithRetry = {
     },
   ],
   createdAt: "2026-09-02T12:52:57.643Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T19:06:41.782Z",
 } as const satisfies Module
