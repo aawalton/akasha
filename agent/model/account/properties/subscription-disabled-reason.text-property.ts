@@ -5,7 +5,7 @@ export const subscriptionDisabledReason = {
   type: "page-type/text-property",
   slug: "subscription-disabled-reason",
   propertySlug: "subscription-disabled-reason",
-  definition: "what stopped the account's subscription being usable",
+  definition: "what a subscription is stopped by",
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -21,5 +21,5 @@ export const subscriptionDisabledReason = {
   ],
   types: "ts",
   createdAt: "2026-08-30T22:44:04.537Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T18:52:06.536Z",
 } as const satisfies TextProperty
