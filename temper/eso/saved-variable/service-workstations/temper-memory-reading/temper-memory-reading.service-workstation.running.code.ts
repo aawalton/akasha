@@ -1,6 +1,7 @@
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   gameProcess,
+  type Region,
   readerOf,
   regionsOf,
 } from "akasha/command/pages/temper/eso/memory/modules/eso-process-memory/eso-process-memory.module.code.ts"
@@ -44,12 +45,33 @@ function say(line: string): undefined {
   return undefined
 }
 
-function watchingOf(pid: number): Watching {
+function holding(regions: readonly Region[], at: bigint): Region | undefined {
+  return regions.find((region) => at >= region.from && at < region.to)
+}
+
+function foundIn(
+  read: Reader,
+  regions: readonly Region[],
+  hot: Set<bigint>,
+  name: string
+): Global | null {
+  const warm = regions.filter((region) => hot.has(region.from))
+  const found =
+    (warm.length > 0 ? globalFound(read, warm, name) : null) ?? globalFound(read, regions, name)
+  if (found === null) return null
+  for (const at of [found.node, found.name]) {
+    const region = holding(regions, at)
+    if (region !== undefined) hot.add(region.from)
+  }
+  return found
+}
+
+function watchingOf(pid: number, hot: Set<bigint>): Watching {
   const started = Date.now()
   const read = readerOf(pid)
   const regions = regionsOf(pid)
-  const characters = globalFound(read, regions, CHARACTERS_GLOBAL)
-  const fights = globalFound(read, regions, FIGHTS_GLOBAL)
+  const characters = foundIn(read, regions, hot, CHARACTERS_GLOBAL)
+  const fights = foundIn(read, regions, hot, FIGHTS_GLOBAL)
   const found = [characters === null ? null : "characters", fights === null ? null : "fights"]
   const named = found.filter((one) => one !== null).join(" and ") || "nothing"
   say(`found ${named} in process ${pid} in ${Date.now() - started} ms`)
@@ -68,7 +90,7 @@ function stale(watching: Watching | null, pid: number, now: number): boolean {
   )
 }
 
-async function lookOnce(watching: Watching, seen: Seen, looked: boolean): Promise<undefined> {
+async function lookOnce(watching: Watching, seen: Seen, looked: boolean): Promise<boolean> {
   const roots = {
     characters: rootOf(watching, watching.characters),
     fights: rootOf(watching, watching.fights),
@@ -77,12 +99,13 @@ async function lookOnce(watching: Watching, seen: Seen, looked: boolean): Promis
   if (captured.readings.length > 0) await landReadings(captured.readings, { report: say })
   if (captured.fights.length > 0) await landFights(captured.fights, { report: say })
   markSeen(seen, captured)
-  return undefined
+  return roots.fights !== null
 }
 
 export async function runService(): Promise<never> {
   const stopping = stopsOnSignal()
   const seen = seenAfresh()
+  const hot = new Set<bigint>()
   let watching: Watching | null = null
   let scannedAt = 0
   let looked = false
@@ -93,14 +116,15 @@ export async function runService(): Promise<never> {
       if (pid === null) watching = null
       else if (stale(watching, pid, now) && now - scannedAt >= FIND_AT_MOST_MS) {
         scannedAt = now
-        watching = watchingOf(pid)
+        watching = watchingOf(pid, hot)
+        scannedAt = Date.now()
       }
       if (pid !== null && watching !== null) {
-        await lookOnce(watching, seen, looked)
-        looked = true
+        looked = (await lookOnce(watching, seen, looked)) || looked
       }
     } catch (thrown) {
-      console.error(`a look failed: ${saidBy(thrown)}`)
+      const stack = thrown instanceof Error ? (thrown.stack ?? "") : ""
+      console.error(`a look failed: ${saidBy(thrown)}\n${stack}`)
     }
     if (!(await sleptUntilStopped(EVERY_MS, stopping.signal))) process.exit(0)
   }

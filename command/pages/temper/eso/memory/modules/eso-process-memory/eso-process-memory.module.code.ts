@@ -11,6 +11,8 @@ const CHUNK = 1 << 24
 
 const WORD = 8
 
+const HEX = /^[0-9a-f]+$/
+
 export function wordBytes(word: bigint): Buffer {
   const bytes = Buffer.alloc(WORD)
   bytes.writeBigUInt64LE(word, 0)
@@ -33,7 +35,7 @@ export function regionsOf(pid: number): readonly Region[] {
     const [span, perms] = line.split(" ")
     if (span === undefined || perms === undefined || !perms.startsWith("r")) continue
     const [from, to] = span.split("-")
-    if (from === undefined || to === undefined) continue
+    if (from === undefined || to === undefined || !HEX.test(from) || !HEX.test(to)) continue
     mapped.push({ from: BigInt(`0x${from}`), to: BigInt(`0x${to}`), writable: perms[1] === "w" })
   }
   return mapped
