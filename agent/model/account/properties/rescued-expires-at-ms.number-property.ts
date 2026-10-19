@@ -5,7 +5,7 @@ export const rescuedExpiresAtMs = {
   type: "page-type/number-property",
   slug: "rescued-expires-at-ms",
   propertySlug: "expires-at-ms",
-  definition: "the milliseconds since the epoch at which a rescued access token expires",
+  definition: "the last time the access token of a rescued credential works",
   max: null,
   decisions: [
     {
@@ -15,5 +15,5 @@ export const rescuedExpiresAtMs = {
   ],
   types: "ts",
   createdAt: "2026-09-02T18:57:11.355Z",
-  updatedAt: "2026-09-22T14:08:21.000Z",
+  updatedAt: "2026-10-19T18:48:38.926Z",
 } as const satisfies NumberProperty
