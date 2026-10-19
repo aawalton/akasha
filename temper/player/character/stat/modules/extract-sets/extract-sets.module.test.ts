@@ -4,7 +4,10 @@ import type { CharacterState } from "akasha/temper/player/character/build/module
 import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
-import { extractSets } from "akasha/temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts"
+import {
+  extractSets,
+  setPiecesWorn,
+} from "akasha/temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts"
 import { holdMetricCatalogFromCheckout } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts"
 
 holdSkillCatalogFromCheckout()
@@ -53,4 +56,20 @@ test("pieces other than weapons count once each beside a two-hander", () => {
   const ids = setIdsOn(staffBuild(), "primary-weapon-bar")
   expect(ids).toContain("set-grace-of-the-ancients-3")
   expect(ids).toContain("set-crafty-alfiq-5")
+})
+
+test("a set missing from the catalog is still counted among the pieces worn", () => {
+  const build = staffBuild()
+  const necklace = build.equipment.jewelry.necklace
+  if (necklace.itemType !== "jewelry") throw new Error("the necklace slot holds no jewelry")
+  const unknown = { ...necklace, data: { ...necklace.data, set: "no-such-set-in-catalog" } }
+  const worn = {
+    ...build,
+    equipment: { ...build.equipment, jewelry: { ...build.equipment.jewelry, necklace: unknown } },
+  } as CharacterState
+  const pieces = setPiecesWorn(worn, { bar: "primary-weapon-bar" })
+  expect(pieces.get("no-such-set-in-catalog")?.length).toBe(1)
+  expect(pieces.get("willpower")?.length).toBe(2)
+  const ids = setIdsOn(worn, "primary-weapon-bar")
+  expect(ids.some((id) => id.startsWith("set-no-such-set-in-catalog-"))).toBe(false)
 })

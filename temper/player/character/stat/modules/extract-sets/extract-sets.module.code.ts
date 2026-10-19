@@ -3,6 +3,7 @@ import {
   type EquipmentQualityId,
   resolveQuality,
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import type {
   ArmorSlotItem,
   JewelrySlotItem,
@@ -14,7 +15,10 @@ import {
 } from "akasha/temper/player/character/characters-equipment/modules/set-source/set-source.module.code.ts"
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import { valuesOf } from "akasha/temper/player/character/formula-framework/modules/record-parts/record-parts.module.code.ts"
-import type { PipelineStage } from "akasha/temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts"
+import type {
+  PipelineStage,
+  TranslationContext,
+} from "akasha/temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts"
 
 type EquipmentSlotItem = ArmorSlotItem | JewelrySlotItem | WeaponSlotItem
 
@@ -33,7 +37,10 @@ function getSetInfo(item: EquipmentSlotItem): { setId: Slug; quality: EquipmentQ
   return { setId: item.data.set, quality }
 }
 
-export const extractSets: PipelineStage = (build, context) => {
+export function setPiecesWorn(
+  build: CharacterState,
+  context: TranslationContext
+): ReadonlyMap<Slug, readonly EquipmentQualityId[]> {
   const items: EquipmentSlotItem[] = [
     ...valuesOf(build.equipment.armor),
     ...valuesOf(build.equipment.jewelry),
@@ -71,8 +78,12 @@ export const extractSets: PipelineStage = (build, context) => {
     }
   }
 
+  return setData
+}
+
+export const extractSets: PipelineStage = (build, context) => {
   const sources: SetSource[] = []
-  for (const [setId, qualities] of setData) {
+  for (const [setId, qualities] of setPiecesWorn(build, context)) {
     const setSource = createSetSource(setId, qualities.length, qualities)
     if (setSource) {
       sources.push(setSource)

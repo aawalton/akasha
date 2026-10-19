@@ -46,6 +46,10 @@ export const temperStatCompare = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A worn set the set catalog lacks is listed and marked as not in the catalog.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each reading sets every stat the game reported beside the estimate and the gap.",
     },
     {
@@ -84,5 +88,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-19T23:31:52.865Z",
+  updatedAt: "2026-10-19T23:33:18.829Z",
 } as const satisfies Command
