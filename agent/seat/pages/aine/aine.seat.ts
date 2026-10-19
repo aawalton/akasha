@@ -5,7 +5,7 @@ export const aine = {
   type: "page-type/seat",
   slug: "aine",
   persona: "persona/aine",
-  assignmentSlug: "initiative/aine-plaid",
+  assignmentSlug: "page-type/finding",
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
@@ -13,5 +13,5 @@ export const aine = {
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "3e750a4a-83ac-4c06-8959-bb24a6814590",
   createdAt: "2026-10-19T13:09:44.752Z",
-  updatedAt: "2026-10-19T13:12:44.893Z",
+  updatedAt: "2026-10-19T14:26:19.014Z",
 } as const satisfies Seat
