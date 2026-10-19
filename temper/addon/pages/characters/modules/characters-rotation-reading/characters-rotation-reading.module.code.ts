@@ -130,10 +130,11 @@ function reavingBlowsShareNow(): number {
   return 0
 }
 
-function keptOf(bar: RotationBar): BarKept | undefined {
+function keptOf(key: BarKept["bar"], bar: RotationBar): BarKept | undefined {
   const multipliers = bar.multipliers
   if (multipliers === undefined) return undefined
   return {
+    bar: key,
     weaponStyle: bar.weaponStyle,
     healing: multipliers.healing,
     damage: multipliers.damage,
@@ -155,7 +156,7 @@ export function liveRotationReading(): LiveReading | undefined {
     if (reading?.skills === undefined) continue
     const bar = rotationBarOf(reading, main, off)
     bars.push(bar)
-    const one = keptOf(bar)
+    const one = keptOf(key, bar)
     if (one !== undefined) kept.push(one)
   }
   if (bars.length === 0) return undefined

@@ -213,6 +213,7 @@ const reportedStatsSchema = z.strictObject({
 })
 
 const rotationBarSchema = z.strictObject({
+  bar: z.enum(["frontBar", "backBar"]),
   weaponStyle: z.string().optional(),
   healing: z.number(),
   damage: z.number(),
