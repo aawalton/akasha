@@ -22,6 +22,7 @@ export interface AccountSummary {
   readonly manifestApiVersion: number | undefined
   readonly lastSeenInvalidateVersion: number
   readonly presentDomainKeys: readonly string[]
+  readonly domainValues: Readonly<Record<string, unknown>>
 }
 
 const KNOWN_METADATA_KEYS = new Set([
@@ -54,6 +55,8 @@ export function readAccountSummaries(content: string): readonly AccountSummary[]
     if (!parsed.success) continue
 
     const presentDomainKeys = Object.keys(accountWide).filter((k) => !KNOWN_METADATA_KEYS.has(k))
+    const domainValues: Record<string, unknown> = {}
+    for (const key of presentDomainKeys) domainValues[key] = accountWide[key]
 
     summaries.push({
       account,
@@ -63,6 +66,7 @@ export function readAccountSummaries(content: string): readonly AccountSummary[]
       manifestApiVersion: parsed.data.manifestApiVersion,
       lastSeenInvalidateVersion: parsed.data.lastSeenInvalidateVersion ?? 0,
       presentDomainKeys,
+      domainValues,
     })
   }
   return summaries

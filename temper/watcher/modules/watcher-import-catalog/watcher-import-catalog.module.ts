@@ -68,6 +68,10 @@ export const watcherImportCatalog = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each catalog domain page is given the table its capture holds, as JSON.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller may hand in the clock.",
     },
     {
@@ -92,5 +96,5 @@ export const watcherImportCatalog = {
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-09-27T03:43:08.000Z",
+  updatedAt: "2026-10-19T17:29:58.466Z",
 } as const satisfies Module

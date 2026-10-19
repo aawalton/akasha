@@ -34,10 +34,13 @@ export function presentCatalogDomainKeys(present: readonly string[]): readonly D
   return CATALOG_DOMAIN_KEYS.filter((key) => held.has(key))
 }
 
+const CAPTURE_ENDING = "json"
+
 type CatalogDomainPatch = (args: {
   pageTypeSlug: string
   where: readonly { key: string; eq: string }[]
   set: Record<string, string | number>
+  bodies: Readonly<Record<string, string>>
 }) => Promise<unknown>
 
 const overPages: CatalogDomainPatch = (args) => patchPage(args)
@@ -60,6 +63,7 @@ interface CatalogCapture {
   readonly apiVersion: string
   readonly manifestApiVersion: number
   readonly domainKeys: readonly DomainKey[]
+  readonly domainValues: Readonly<Record<string, unknown>>
 }
 
 function versionedCapture(summary: AccountSummary): CatalogCapture | undefined {
@@ -70,6 +74,7 @@ function versionedCapture(summary: AccountSummary): CatalogCapture | undefined {
     apiVersion,
     manifestApiVersion,
     domainKeys: presentCatalogDomainKeys(summary.presentDomainKeys),
+    domainValues: summary.domainValues,
   }
 }
 
@@ -143,7 +148,8 @@ export async function runImportCatalog(
     const row = await patch({
       pageTypeSlug: CATALOG_DOMAIN_PAGE_TYPE_SLUG,
       where: [{ key: "slug", eq: slug }],
-      set: { apiVersion, manifestApiVersion, capturedAt },
+      set: { apiVersion, manifestApiVersion, capturedAt, catalogCapture: CAPTURE_ENDING },
+      bodies: { catalogCapture: JSON.stringify(capture.domainValues[key]) },
     })
     if (row === null || row === undefined) {
       absentSlugs.push(slug)

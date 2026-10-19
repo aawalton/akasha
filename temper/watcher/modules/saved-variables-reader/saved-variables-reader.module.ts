@@ -35,7 +35,11 @@ export const savedVariablesReader = {
       decisionKind: "decision-kind/departure",
       statement: "A missing count reads as zero and a missing flag reads as false.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A summary holds the value each present domain key has, as the parser read it.",
+    },
   ],
   createdAt: "2026-09-02T05:08:32.922Z",
-  updatedAt: "2026-09-21T17:46:21.000Z",
+  updatedAt: "2026-10-19T17:29:58.466Z",
 } as const satisfies Module

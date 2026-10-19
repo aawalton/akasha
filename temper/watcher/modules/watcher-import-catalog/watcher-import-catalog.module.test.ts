@@ -14,6 +14,7 @@ import {
 interface Call {
   readonly slug: string
   readonly set: Record<string, unknown>
+  readonly bodies: Readonly<Record<string, string>>
 }
 
 function recorder(answer: (slug: string) => unknown) {
@@ -22,12 +23,13 @@ function recorder(answer: (slug: string) => unknown) {
     pageTypeSlug: string
     where: readonly { key: string; eq: string }[]
     set: Record<string, unknown>
+    bodies: Readonly<Record<string, string>>
   }): Promise<unknown> => {
     expect(args.pageTypeSlug).toBe(CATALOG_DOMAIN_PAGE_TYPE_SLUG)
     expect(args.where.length).toBe(1)
     expect(args.where[0]?.key).toBe("slug")
     const slug = args.where[0]?.eq ?? ""
-    calls.push({ slug, set: args.set })
+    calls.push({ slug, set: args.set, bodies: args.bodies })
     return answer(slug)
   }
   return { calls, patch }
@@ -184,7 +186,7 @@ test("the five domains the sample capture holds each reach their own page", asyn
   expect(calls.map((c) => c.slug)).toEqual([...outcome.changedSlugs])
 })
 
-test("every page a run reaches is given the same three values", async () => {
+test("every page a run reaches is given the same versions, instant and capture file", async () => {
   const { calls, patch } = recorder((slug) => ({ id: slug }))
   await runImportCatalog(FIVE_DOMAINS, {
     patch,
@@ -196,8 +198,24 @@ test("every page a run reaches is given the same three values", async () => {
       apiVersion: "eso.live.12.0.8.3288357",
       manifestApiVersion: 101050,
       capturedAt: "2026-09-02T00:00:00.000Z",
+      catalogCapture: "json",
     })
   }
+})
+
+test("each page is given the table its own domain holds", async () => {
+  const { calls, patch } = recorder((slug) => ({ id: slug }))
+  await runImportCatalog(FIVE_DOMAINS, {
+    patch,
+    now: () => "2026-09-02T00:00:00.000Z",
+    report: () => {},
+  })
+  const held = Object.fromEntries(
+    calls.map((call) => [call.slug, JSON.parse(call.bodies.catalogCapture ?? "null")])
+  )
+  expect(held.achievement).toEqual({ "1": "Alpha" })
+  expect(held["lore-library"]).toEqual({ "2": "Beta" })
+  expect(held.skill).toEqual({ "4": "Delta" })
 })
 
 test("every account of a capture holding two stamps the domains that account holds", async () => {
@@ -208,14 +226,24 @@ test("every account of a capture holding two stamps the domains that account hol
     report: () => {},
   })
   expect(outcome.changedSlugs).toEqual(["recipe", "skill"])
-  expect(calls).toEqual([
+  expect(calls.map((call) => ({ slug: call.slug, set: call.set }))).toEqual([
     {
       slug: "recipe",
-      set: { apiVersion: "one", manifestApiVersion: 1, capturedAt: "2026-09-02T00:00:00.000Z" },
+      set: {
+        apiVersion: "one",
+        manifestApiVersion: 1,
+        capturedAt: "2026-09-02T00:00:00.000Z",
+        catalogCapture: "json",
+      },
     },
     {
       slug: "skill",
-      set: { apiVersion: "two", manifestApiVersion: 2, capturedAt: "2026-09-02T00:00:00.000Z" },
+      set: {
+        apiVersion: "two",
+        manifestApiVersion: 2,
+        capturedAt: "2026-09-02T00:00:00.000Z",
+        catalogCapture: "json",
+      },
     },
   ])
 })
@@ -284,6 +312,7 @@ test("of captures equally new, the first the saved variables name is taken", () 
     apiVersion: "same",
     manifestApiVersion: 1,
     domainKeys: ["skillCatalog"] as const,
+    domainValues: {},
   }
   const second = { ...first, account: "@second" }
   expect(newestCaptureByDomain([first, second])).toEqual([{ key: "skillCatalog", capture: first }])
