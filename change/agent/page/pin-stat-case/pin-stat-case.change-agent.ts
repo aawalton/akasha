@@ -7,17 +7,42 @@ export const pinStatCase = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "a stat case page, pinned from a character's latest reading of one bar",
+  definition: "a stat case page, pinned from one line of a character's readings",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The character is handed in by its page's slug, and the bar as front or back.",
+      statement: "The character is handed in by its page's slug.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The case is pinned from the reading that character's completion holds now.",
+      statement: "The case is pinned from one line of that character's readings.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading is picked by when it was captured or by the start of its line's id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "With no reading picked, the case is pinned from the newest line of the bar handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bar is handed in as front or back, and narrows a pick to that bar's lines.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The case takes its bar and its build hash from the line it is pinned from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Buffs and champion points a line keeps keyed by number are pinned as lists.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pick matching no line, or more than one, is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,5 +65,5 @@ export const pinStatCase = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-14T17:23:45.028Z",
-  updatedAt: "2026-10-19T20:03:36.836Z",
+  updatedAt: "2026-10-19T20:15:13.441Z",
 } as const satisfies ChangeAgent

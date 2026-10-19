@@ -18,20 +18,34 @@ import {
 } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
 import { verifiedStats } from "akasha/temper/player/character/stat/temper-stat-case/properties/verified-stats.file-property.ts"
 import { temperStatCase } from "akasha/temper/player/character/stat/temper-stat-case/temper-stat-case.page-type.ts"
+import { readings } from "akasha/temper/player/character/temper-account-character/properties/readings.file-property.ts"
 import { temperAccountCharacter } from "akasha/temper/player/character/temper-account-character/temper-account-character.page-type.ts"
-import { completion } from "akasha/temper/player/character/thing/properties/completion.file-property.ts"
-import { characterCompletionSchema } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import { reportedStatsReadingSchema } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import { z } from "zod"
 
 const CHARACTER = "character"
+
+const READING = "reading"
 
 const BAR = "bar"
 
 const SLUG = "slug"
 
 const BARS = {
-  front: { reading: "frontBar", bar: "primary-weapon-bar" },
-  back: { reading: "backBar", bar: "backup-weapon-bar" },
+  frontBar: { named: "front", bar: "primary-weapon-bar" },
+  backBar: { named: "back", bar: "backup-weapon-bar" },
 } as const
+
+const BAR_KEYS = { front: "frontBar", back: "backBar" } as const
+
+const lineShape = z.object({
+  id: z.string(),
+  buildHash: z.string(),
+  bar: z.enum(["frontBar", "backBar"]),
+  reading: z.looseObject({ capturedAt: z.number() }),
+})
+
+type Line = z.infer<typeof lineShape>
 
 type Asked = Readonly<Record<string, string>>
 
@@ -56,31 +70,71 @@ function pageFor(slug: string, title: string, typesAt: string): string {
   ].join("\n")
 }
 
+function linesOf(text: string): readonly Line[] {
+  const lines: Line[] = []
+  for (const one of text.split("\n")) {
+    if (one.trim() === "") continue
+    const parsed = lineShape.safeParse(JSON.parse(one))
+    if (parsed.success) lines.push(parsed.data)
+  }
+  return lines
+}
+
+function isPicked(line: Line, pick: string): boolean {
+  return String(line.reading.capturedAt) === pick || line.id.startsWith(pick)
+}
+
+function newestOf(lines: readonly Line[]): Line | undefined {
+  return lines.reduce<Line | undefined>(
+    (newest, one) =>
+      newest === undefined || one.reading.capturedAt > newest.reading.capturedAt ? one : newest,
+    undefined
+  )
+}
+
 export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer {
   const character = given[CHARACTER]
   if (character === undefined) return refusing(missing(CHARACTER))
-  const named = given[BAR]
-  if (named === undefined) return refusing(missing(BAR))
-  if (named !== "front" && named !== "back") {
-    return refusing(`\`${named}\` is no bar, and a bar is \`front\` or \`back\``)
+  const pick = given[READING]
+  const barNamed = given[BAR]
+  if (pick === undefined && barNamed === undefined) return refusing(missing(BAR))
+  if (barNamed !== undefined && barNamed !== "front" && barNamed !== "back") {
+    return refusing(`\`${barNamed}\` is no bar, and a bar is \`front\` or \`back\``)
   }
-  const { reading: readingKey, bar } = BARS[named]
+  const barKey = barNamed === undefined ? undefined : BAR_KEYS[barNamed]
   const characterAt = world.index.listedAt(temperAccountCharacter.slug, character)[0]?.path
   if (characterAt === undefined) return refusing(`\`${character}\` names no character page`)
-  const completionAt = besideAt(characterAt, completion.propertySlug, "json")
-  const text = completionAt === null ? null : world.textOf(completionAt)
-  if (text === null) return refusing(`\`${character}\` holds no completion to pin from`)
-  const parsed = characterCompletionSchema.safeParse(JSON.parse(text))
-  if (!parsed.success) return refusing(`the completion of \`${character}\` does not read`)
-  const { buildHash, reportedStats } = parsed.data
-  const reading = reportedStats?.[readingKey]
-  if (buildHash === undefined || reading?.activeBuffs === undefined) {
-    return refusing(`\`${character}\` holds no ${named} bar reading with its buffs to pin`)
+  const readingsAt = besideAt(characterAt, readings.propertySlug, "jsonl")
+  const text = readingsAt === null ? null : world.textOf(readingsAt)
+  if (text === null) return refusing(`\`${character}\` holds no readings to pin from`)
+  const matching = linesOf(text).filter(
+    (one) =>
+      (barKey === undefined || one.bar === barKey) && (pick === undefined || isPicked(one, pick))
+  )
+  if (pick !== undefined && matching.length > 1) {
+    return refusing(
+      `\`${pick}\` names ${String(matching.length)} readings of \`${character}\`, and a pick names one`
+    )
   }
+  const line = newestOf(matching)
+  const asked = [
+    pick === undefined ? null : `\`${pick}\``,
+    barNamed === undefined ? null : `on the ${barNamed} bar`,
+  ]
+  if (line === undefined) {
+    return refusing(
+      `\`${character}\` holds no reading ${asked.filter((one) => one !== null).join(" ")}`
+    )
+  }
+  const read = reportedStatsReadingSchema.safeParse(line.reading)
+  if (!read.success) return refusing(`the reading \`${line.id}\` of \`${character}\` does not read`)
+  const reading = read.data
   const { esoVersion } = reading
   if (esoVersion === undefined) {
-    return refusing(`the ${named} bar reading of \`${character}\` records no game version`)
+    return refusing(`the reading \`${line.id}\` of \`${character}\` records no game version`)
   }
+  const { named, bar } = BARS[line.bar]
+  const { buildHash } = line
   const slug = given[SLUG] ?? `${character}-${named}-bar-${stampOf(reading.capturedAt)}`
   const there = world.index.listedAt(temperStatCase.slug, slug)[0]
   if (there !== undefined) return refusing(`\`${slug}\` is a case already, at \`${there.path}\``)
@@ -97,7 +151,7 @@ export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer
     capturedAt: reading.capturedAt,
     esoVersion,
     inCombat: reading.inCombat,
-    activeBuffs: reading.activeBuffs,
+    activeBuffs: reading.activeBuffs ?? [],
     championPoints: reading.championPoints ?? [],
     stats: reading.stats,
   })
@@ -108,7 +162,7 @@ export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer
   ])
 }
 
-export const takes: readonly string[] = [CHARACTER, BAR, SLUG]
+export const takes: readonly string[] = [CHARACTER, READING, BAR, SLUG]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   await Promise.all([loadSkillCatalog(), loadSetCatalog(), loadMetricCatalog()])
