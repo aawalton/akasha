@@ -8,7 +8,7 @@ export type Watching = {
   readonly now: number
 }
 
-export type Watched = {
+type Watched = {
   readonly placing: "insert" | "replace"
   readonly said: string
 }
