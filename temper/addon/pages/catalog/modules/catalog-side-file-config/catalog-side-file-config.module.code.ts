@@ -42,3 +42,23 @@ export function getMinedItemsUploaded(): MinedItemsUploaded | undefined {
   if (typeof uploaded.throughItemId !== "number") return undefined
   return { apiVersion: uploaded.apiVersion, throughItemId: uploaded.throughItemId }
 }
+
+export interface LandedMark {
+  readonly apiVersion: string
+  readonly invalidateVersion: number
+}
+
+function isLandedMark(value: unknown): value is LandedMark {
+  if (typeof value !== "object" || value === null) return false
+  if (!("apiVersion" in value) || !("invalidateVersion" in value)) return false
+  return typeof value.apiVersion === "string" && typeof value.invalidateVersion === "number"
+}
+
+export function getLandedMark(domainKey: string): LandedMark | undefined {
+  const candidate: unknown = globalThis.TemperCatalogConfig
+  if (!isCatalogConfig(candidate)) return undefined
+  const landed: unknown = candidate.landedCatalogs
+  if (typeof landed !== "object" || landed === null) return undefined
+  const mark: unknown = candidate.landedCatalogs?.[domainKey]
+  return isLandedMark(mark) ? mark : undefined
+}

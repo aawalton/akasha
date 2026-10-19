@@ -1,5 +1,6 @@
 import { afterEach, describe, expect, test } from "bun:test"
 import {
+  getLandedMark,
   getMinedItemsUploaded,
   getPendingInvalidation,
 } from "akasha/temper/addon/pages/catalog/modules/catalog-side-file-config/catalog-side-file-config.module.code.ts"
@@ -101,5 +102,35 @@ describe("getMinedItemsUploaded", () => {
       minedItemsUploaded: { apiVersion: "eso.live.12.1.5", throughItemId: "327000" },
     })
     expect(getMinedItemsUploaded()).toBeUndefined()
+  })
+})
+
+describe("getLandedMark", () => {
+  const mark = { apiVersion: "eso.live.12.1.6", invalidateVersion: 7 }
+
+  test("a catalog the config names as landed is read", () => {
+    setConfig({ version: 1, invalidateVersion: 3, landedCatalogs: { itemSetCatalog: mark } })
+    expect(getLandedMark("itemSetCatalog")).toEqual(mark)
+  })
+
+  test("a catalog the config does not name reads as not landed", () => {
+    setConfig({ version: 1, invalidateVersion: 3, landedCatalogs: { itemSetCatalog: mark } })
+    expect(getLandedMark("skillCatalog")).toBeUndefined()
+  })
+
+  test("a config naming no landed catalogs reads as none landed", () => {
+    setConfig({ version: 1, invalidateVersion: 3 })
+    expect(getLandedMark("itemSetCatalog")).toBeUndefined()
+  })
+
+  test("a mark of the wrong shape reads as not landed", () => {
+    const wrong = { apiVersion: "eso.live.12.1.6", invalidateVersion: "7" }
+    setConfig({ version: 1, invalidateVersion: 3, landedCatalogs: { itemSetCatalog: wrong } })
+    expect(getLandedMark("itemSetCatalog")).toBeUndefined()
+  })
+
+  test("landed catalogs that are no table read as none landed", () => {
+    setConfig({ version: 1, invalidateVersion: 3, landedCatalogs: 5 })
+    expect(getLandedMark("itemSetCatalog")).toBeUndefined()
   })
 })

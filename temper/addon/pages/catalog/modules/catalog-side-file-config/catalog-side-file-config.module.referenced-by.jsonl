@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"catalog-side-file-config.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-invalidations/catalog-invalidations.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-side-file-config.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-landed-drop/catalog-landed-drop.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-side-file-config.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-side-file-config/catalog-side-file-config.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-side-file-config.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/catalog/temper-addon-catalog.temper-addon.ts","id":"01a063ba-94e5-7c5d-b338-174ed9b6a224"}

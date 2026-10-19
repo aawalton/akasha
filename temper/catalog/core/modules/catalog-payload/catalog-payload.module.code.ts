@@ -24,6 +24,10 @@ import type { TraitResearchCatalogCraftType } from "akasha/temper/capture/shape/
 import type { TributePatronCatalogEntry } from "akasha/temper/capture/shape/modules/tribute-catalog/tribute-catalog.module.code.ts"
 import type { ZoneCompletionCatalogZone } from "akasha/temper/capture/shape/modules/zone-completion-catalog/zone-completion-catalog.module.code.ts"
 
+export interface LandedCatalogStub {
+  readonly landed: true
+}
+
 export interface CatalogPayload {
   achievementCatalog?: AchievementCatalogData
   recipeCatalog?: Record<number, RecipeCatalogList>

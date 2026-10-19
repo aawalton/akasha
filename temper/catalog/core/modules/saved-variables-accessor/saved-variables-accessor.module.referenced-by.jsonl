@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-command/catalog-command.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-invalidations/catalog-invalidations.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-landed-drop/catalog-landed-drop.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-public-api/catalog-public-api.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/antiquity-lore-catalog-capture/antiquity-lore-catalog-capture.module.code.ts","typed":false,"deferred":false}

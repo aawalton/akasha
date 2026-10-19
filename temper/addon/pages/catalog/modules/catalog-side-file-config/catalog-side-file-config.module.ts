@@ -28,7 +28,11 @@ export const catalogSideFileConfig = {
       decisionKind: "decision-kind/departure",
       statement: "An upload record of the wrong shape reads as no upload.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landed mark of the wrong shape reads as that catalog not landed.",
+    },
   ],
   createdAt: "2026-09-02T20:06:07.333Z",
-  updatedAt: "2026-10-08T19:45:44.439Z",
+  updatedAt: "2026-10-19T17:57:53.311Z",
 } as const satisfies Module

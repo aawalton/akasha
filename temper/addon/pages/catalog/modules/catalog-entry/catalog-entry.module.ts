@@ -21,9 +21,13 @@ export const catalogEntry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Catalogs already landed are replaced by their mark once the request is applied.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The first collection waits for the player rather than for the add-on load.",
     },
   ],
   createdAt: "2026-09-02T20:06:07.333Z",
-  updatedAt: "2026-09-22T19:35:16.000Z",
+  updatedAt: "2026-10-19T17:57:53.311Z",
 } as const satisfies Module

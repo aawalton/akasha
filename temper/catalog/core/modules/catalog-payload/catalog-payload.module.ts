@@ -16,10 +16,14 @@ export const catalogPayload = {
       statement: "Every catalog field is empty until that catalog is collected.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A catalog already landed in akasha may hold only the landed mark.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here has code that runs.",
     },
   ],
   createdAt: "2026-09-02T04:46:56.632Z",
-  updatedAt: "2026-09-21T15:11:26.000Z",
+  updatedAt: "2026-10-19T17:57:53.311Z",
 } as const satisfies Module

@@ -4344,6 +4344,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-constants/catalog-constants.module.ts","id":"01a063ba-94e5-7067-b212-ee1558bee77b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.ts","id":"01a063ba-94e5-7d65-8774-cc57b1701594"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-invalidations/catalog-invalidations.module.ts","id":"01a063ba-94e5-7e75-aef1-fd5d674e72a9"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-landed-drop/catalog-landed-drop.module.ts","id":"01a15550-1220-7bd4-8ae2-38b66afa30ce"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-public-api/catalog-public-api.module.ts","id":"01a063ba-94e5-75b2-87c7-9dffc0a06b28"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-side-file-config/catalog-side-file-config.module.ts","id":"01a063ba-94e5-762e-b100-0f913bbdb479"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/datamining-constants/datamining-constants.module.ts","id":"01a06341-d9e8-7002-a0ab-0c2c0932a9ad"}

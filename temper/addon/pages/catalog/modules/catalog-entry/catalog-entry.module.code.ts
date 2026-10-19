@@ -47,6 +47,7 @@ import {
   AUTO_START_DELAY,
 } from "akasha/temper/addon/pages/catalog/modules/catalog-constants/catalog-constants.module.code.ts"
 import { applyHostInvalidations } from "akasha/temper/addon/pages/catalog/modules/catalog-invalidations/catalog-invalidations.module.code.ts"
+import { dropLandedCatalogs } from "akasha/temper/addon/pages/catalog/modules/catalog-landed-drop/catalog-landed-drop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
@@ -58,6 +59,7 @@ defineCaptureWriter(
   function (this: void, writer: CaptureWriter<CatalogPayload>): undefined {
     setCatalogSavedVariablesAccessor(writer.getSavedVariables)
     applyHostInvalidations()
+    dropLandedCatalogs()
     registerApiTestCommand()
 
     SLASH_COMMANDS["/tempercatalog"] = function (this: void, args: string): undefined {
