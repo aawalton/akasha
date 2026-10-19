@@ -18,8 +18,9 @@ export const expertSummoner31412 = {
   rank: 39,
   skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 483,
   createdAt: "2026-05-28T16:03:32.426Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-19T22:57:47.896Z",
   equations: ["<<1>> = 2% (Constant)"],
 } as const satisfies TemperSkill
