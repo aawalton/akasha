@@ -8,9 +8,9 @@ export const recipe = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.6.3309674",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-19T17:25:52.026Z",
+  capturedAt: "2026-10-19T17:28:00.698Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
-  updatedAt: "2026-10-19T17:25:53.320Z",
+  updatedAt: "2026-10-19T17:28:02.002Z",
   createdAt: "2026-09-02T01:39:30.993Z",
 } as const satisfies TemperCatalogDomain
