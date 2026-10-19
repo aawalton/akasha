@@ -6,6 +6,7 @@ export const temperEsoMemory = {
   slug: "temper-eso-memory",
   definition: "the command finding and showing bytes in the running game's memory",
   code: "ts",
+  parts: ["module/hks-table-reading"],
   decisions: [
     {
       decisionKind: "decision-kind/absence",
@@ -38,8 +39,9 @@ export const temperEsoMemory = {
     { argument: "argument/memory-text" },
     { argument: "argument/memory-word" },
     { argument: "argument/memory-address" },
+    { argument: "argument/memory-table" },
     { argument: "argument/limit" },
   ],
   createdAt: "2026-10-19T18:40:53.679Z",
-  updatedAt: "2026-10-19T18:40:53.679Z",
+  updatedAt: "2026-10-19T18:45:12.644Z",
 } as const satisfies Command

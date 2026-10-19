@@ -5,6 +5,7 @@ import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.modul
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { limit } from "akasha/command/argument/pages/limit.argument.ts"
 import { memoryAddress } from "akasha/command/argument/pages/memory-address.argument.ts"
+import { memoryTable } from "akasha/command/argument/pages/memory-table.argument.ts"
 import { memoryText } from "akasha/command/argument/pages/memory-text.argument.ts"
 import { memoryWord } from "akasha/command/argument/pages/memory-word.argument.ts"
 import {
@@ -15,9 +16,14 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import {
+  type Reader,
+  shown,
+  tableAt,
+} from "akasha/command/pages/temper/eso/memory/modules/hks-table-reading/hks-table-reading.module.code.ts"
 import { temperEsoMemory as page } from "akasha/command/pages/temper/eso/memory/temper-eso-memory.command.ts"
 
-const NAMED = [memoryText, memoryWord, memoryAddress, limit]
+const NAMED = [memoryText, memoryWord, memoryAddress, memoryTable, limit]
 
 const GAME = "eso64.exe"
 
@@ -34,8 +40,6 @@ const ROWS = 40
 const HEX = /^(?:0x)?([0-9a-f]{1,16})$/i
 
 type Region = { readonly from: bigint; readonly to: bigint; readonly writable: boolean }
-
-type Reader = (at: bigint, length: number) => Buffer | null
 
 function gameProcess(): number | null {
   for (const name of readdirSync("/proc")) {
@@ -146,6 +150,16 @@ function wordBytes(word: bigint): Buffer {
   return bytes
 }
 
+function tableLines(read: Reader, table: bigint, most: number): readonly string[] | null {
+  const held = tableAt(read, table)
+  if (held === null) return null
+  const header = held.header.map((word) => word.toString(16)).join(" ")
+  const rows = held.entries
+    .slice(0, most)
+    .map((entry) => `  ${shown(read, entry.key)} = ${shown(read, entry.value)}`)
+  return [`header ${header}`, `${held.entries.length} entries`, ...rows]
+}
+
 function listed(hits: readonly bigint[], what: string): Answer {
   return told([
     `${hits.length} cop${hits.length === 1 ? "y" : "ies"} of ${what}`,
@@ -172,6 +186,14 @@ export function temperEsoMemory(argv: readonly string[], given: Given): Answer {
     if (at === null) return refused(`\`${address}\` is no address in hex`, INPUT)
     const lines = dumped(reader, regions, at)
     if (lines === null) return refused(`nothing at \`${address}\` reads`, DATA)
+    return told(lines)
+  }
+  const table = read.taken.memoryTable
+  if (table !== undefined) {
+    const at = hexOf(table)
+    if (at === null) return refused(`\`${table}\` is no address in hex`, INPUT)
+    const lines = tableLines(reader, at, most)
+    if (lines === null) return refused(`no table at \`${table}\` reads`, DATA)
     return told(lines)
   }
   const text = read.taken.memoryText
