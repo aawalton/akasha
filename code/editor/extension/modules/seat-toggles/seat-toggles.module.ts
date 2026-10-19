@@ -9,6 +9,7 @@ export const seatToggles = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
+  testReads: ["page-type/workspace"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -60,5 +61,5 @@ export const seatToggles = {
     },
   ],
   createdAt: "2026-09-03T17:58:07.081Z",
-  updatedAt: "2026-09-22T14:08:17.000Z",
+  updatedAt: "2026-10-19T17:50:32.133Z",
 } as const satisfies Module

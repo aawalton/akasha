@@ -55,18 +55,20 @@ describe("the name a seat is attached by", () => {
 })
 
 describe("the menus the manifest hangs on a row", () => {
-  test("a running interactive seat is offered stop, restart, reset and open", () => {
+  test("a running interactive seat is offered stop, restart, reset and both opens", () => {
     expect([...shownFor(true, "interactive")].sort()).toEqual([
       "opsAgentTree.openPage",
+      "opsAgentTree.openSeatPage",
       "opsAgentTree.runReset",
       "opsAgentTree.runRestart",
       "opsAgentTree.runStop",
     ])
   })
 
-  test("a stopped headless seat is offered resume, reset and open", () => {
+  test("a stopped headless seat is offered resume, reset and both opens", () => {
     expect([...shownFor(false, "headless")].sort()).toEqual([
       "opsAgentTree.openPage",
+      "opsAgentTree.openSeatPage",
       "opsAgentTree.runReset",
       "opsAgentTree.runResume",
     ])
