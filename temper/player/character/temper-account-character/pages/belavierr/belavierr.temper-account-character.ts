@@ -11,6 +11,7 @@ export const belavierr = {
   accountPage: "temper-account/alanarre",
   firstName: "Belavierr",
   fights: "jsonl",
+  readings: "jsonl",
   createdAt: "2026-04-29T16:44:18.724Z",
-  updatedAt: "2026-10-19T16:32:57.681Z",
+  updatedAt: "2026-10-19T19:18:43.848Z",
 } as const satisfies TemperAccountCharacter
