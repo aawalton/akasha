@@ -40,6 +40,7 @@ type Watching = {
   readonly characters: Global | null
   readonly fights: Global | null
   readonly foundAt: number
+  readonly loading: boolean
 }
 
 function say(line: string): undefined {
@@ -51,13 +52,17 @@ function holding(regions: readonly Region[], at: bigint): Region | undefined {
   return regions.find((region) => at >= region.from && at < region.to)
 }
 
+type Searched = { readonly found: readonly (Global | null)[]; readonly loading: boolean }
+
 function searched(
   read: Reader,
   regions: readonly Region[],
   names: readonly string[],
   pass: string
-): readonly (Global | null)[] {
-  if (names.length === 0 || regions.length === 0) return names.map(() => null)
+): Searched {
+  if (names.length === 0 || regions.length === 0) {
+    return { found: names.map(() => null), loading: false }
+  }
   const started = Date.now()
   const scan = scanAfresh()
   const searches = names.map(() => ({ ...searchAfresh(), scan }))
@@ -76,7 +81,10 @@ function searched(
     `searched ${pass}: ${chunks} chunks, ${failed} failed, ${partial} partial, ` +
       `${unread} pages unread, ${Date.now() - started} ms`
   )
-  return found
+  const loading = searches.some(
+    (search, index) => found[index] === null && search.copies > 0 && search.strings === 0
+  )
+  return { found, loading }
 }
 
 function foundIn(
@@ -84,13 +92,13 @@ function foundIn(
   regions: readonly Region[],
   hot: Set<bigint>,
   names: readonly string[]
-): readonly (Global | null)[] {
+): Searched {
   const warm = regions.filter((region) => hot.has(region.from))
-  const fromWarm = searched(read, warm, names, `${warm.length} warm regions`)
+  const fromWarm = searched(read, warm, names, `${warm.length} warm regions`).found
   const missing = names.filter((_, index) => (fromWarm[index] ?? null) === null)
   const fromAll = searched(read, regions, missing, `${regions.length} regions`)
   const found = names.map(
-    (name, index) => fromWarm[index] ?? fromAll[missing.indexOf(name)] ?? null
+    (name, index) => fromWarm[index] ?? fromAll.found[missing.indexOf(name)] ?? null
   )
   for (const global of found) {
     for (const at of global === null ? [] : [global.node, global.name]) {
@@ -98,7 +106,7 @@ function foundIn(
       if (region !== undefined) hot.add(region.from)
     }
   }
-  return found
+  return { found, loading: fromAll.loading }
 }
 
 function stillHeld(read: Reader, global: Global | null | undefined): Global | null {
@@ -112,16 +120,14 @@ function watchingOf(pid: number, hot: Set<bigint>, before: Watching | null): Wat
   const read = readerOf(pid)
   const regions = regionsOf(pid)
   const kept = before?.pid === pid ? before : null
-  const [foundCharacters, foundFights] = foundIn(read, regions, hot, [
-    CHARACTERS_GLOBAL,
-    FIGHTS_GLOBAL,
-  ])
+  const searchedNow = foundIn(read, regions, hot, [CHARACTERS_GLOBAL, FIGHTS_GLOBAL])
+  const [foundCharacters, foundFights] = searchedNow.found
   const characters = foundCharacters ?? stillHeld(read, kept?.characters)
   const fights = foundFights ?? stillHeld(read, kept?.fights)
   const found = [characters === null ? null : "characters", fights === null ? null : "fights"]
   const named = found.filter((one) => one !== null).join(" and ") || "nothing"
   say(`found ${named} in process ${pid} in ${Date.now() - started} ms`)
-  return { pid, read, characters, fights, foundAt: Date.now() }
+  return { pid, read, characters, fights, foundAt: Date.now(), loading: searchedNow.loading }
 }
 
 function rootOf(watching: Watching, global: Global | null): bigint | null {
@@ -160,7 +166,10 @@ export async function runService(): Promise<never> {
       const pid = gameProcess()
       const now = Date.now()
       if (pid === null) watching = null
-      else if (stale(watching, pid, now) && now - scannedAt >= FIND_AT_MOST_MS) {
+      else if (
+        stale(watching, pid, now) &&
+        (watching?.loading === true || now - scannedAt >= FIND_AT_MOST_MS)
+      ) {
         scannedAt = now
         watching = watchingOf(pid, hot, watching)
         scannedAt = Date.now()

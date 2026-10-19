@@ -34,6 +34,10 @@ export const temperMemoryReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A search finding a global's name with no string for it is followed at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The globals are found again where they no longer read, and once a minute.",
     },
     {
@@ -55,5 +59,5 @@ export const temperMemoryReading = {
     },
   ],
   createdAt: "2026-10-19T19:08:25.036Z",
-  updatedAt: "2026-10-19T23:11:59.681Z",
+  updatedAt: "2026-10-19T23:51:26.016Z",
 } as const satisfies ServiceWorkstation
