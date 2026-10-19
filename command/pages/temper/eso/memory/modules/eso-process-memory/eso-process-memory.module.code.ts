@@ -73,10 +73,36 @@ function hitsIn(bytes: Buffer, needle: Buffer, from: bigint, step: bigint): bigi
   return hits
 }
 
-export type Scan = { chunks: number; failed: number; partial: number }
+export type Scan = { chunks: number; failed: number; partial: number; unread: number }
 
 export function scanAfresh(): Scan {
-  return { chunks: 0, failed: 0, partial: 0 }
+  return { chunks: 0, failed: 0, partial: 0, unread: 0 }
+}
+
+const PAGE = 4096n
+
+function readAcross(read: Reader, at: bigint, length: number, scan: Scan): Buffer | null {
+  const whole = read(at, length)
+  if (whole !== null && whole.length === length) return whole
+  if (whole === null) scan.failed += 1
+  else scan.partial += 1
+  const bytes = Buffer.alloc(length)
+  let done = whole === null ? 0 : whole.length
+  let held = done
+  if (whole !== null) whole.copy(bytes, 0)
+  while (done < length) {
+    const piece = read(at + BigInt(done), length - done)
+    if (piece === null) {
+      const next = (at + BigInt(done) + PAGE) & ~(PAGE - 1n)
+      done = Number(next - at)
+      scan.unread += 1
+      continue
+    }
+    piece.copy(bytes, done)
+    done += piece.length
+    held += piece.length
+  }
+  return held === 0 ? null : bytes
 }
 
 export function found(
@@ -93,10 +119,8 @@ export function found(
     for (let at = region.from; at < region.to; at += BigInt(CHUNK)) {
       const left = Number(region.to - at)
       const wanted = Math.min(CHUNK + needle.length - 1, left)
-      const bytes = read(at, wanted)
+      const bytes = readAcross(read, at, wanted, scan)
       scan.chunks += 1
-      if (bytes === null) scan.failed += 1
-      else if (bytes.length < wanted) scan.partial += 1
       if (bytes === null) continue
       hits.push(...hitsIn(bytes, needle, at, step))
       if (hits.length >= most) return hits.slice(0, most)

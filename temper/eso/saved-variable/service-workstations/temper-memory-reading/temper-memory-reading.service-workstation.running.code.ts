@@ -59,12 +59,13 @@ function searched(
   const started = Date.now()
   const search = searchAfresh()
   const found = globalFound(read, regions, name, search)
-  const { chunks, failed, partial } = search.scan
+  const { chunks, failed, partial, unread } = search.scan
   const capped = search.capped ? " (cap hit)" : ""
   say(
     `searched ${name} in ${pass}: ${found === null ? "missed" : "found"}, ` +
       `${search.copies} copies${capped}, ${search.strings} strings, ` +
-      `${chunks} chunks, ${failed} failed, ${partial} partial, ${Date.now() - started} ms`
+      `${chunks} chunks, ${failed} failed, ${partial} partial, ${unread} pages unread, ` +
+      `${Date.now() - started} ms`
   )
   return found
 }
