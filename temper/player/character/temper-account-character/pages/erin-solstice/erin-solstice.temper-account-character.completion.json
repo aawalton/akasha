@@ -28350,60 +28350,60 @@
   },
   "inventoryCheck": {
     "date": "2026-10-19",
-    "misplaced": 8
+    "misplaced": 0
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792450168,
+      "capturedAt": 1792453104,
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "resistance-physical": 5059,
-        "critical-rating-weapon": 4810,
-        "power-spell": 1129,
-        "stamina-maximum": 12240,
-        "resistance-critical": 1320,
-        "magicka-recovery": 524,
+        "stamina-maximum": 12000,
+        "resistance-spell": 0,
+        "penetration-physical": 0,
         "stamina-recovery": 514,
-        "health-maximum": 21472,
+        "magicka-recovery": 524,
         "critical-rating-spell": 4810,
-        "penetration-spell": 3460,
-        "resistance-spell": 5059,
+        "critical-rating-weapon": 4810,
+        "resistance-critical": 1320,
+        "power-spell": 1000,
+        "magicka-maximum": 29497,
+        "resistance-physical": 0,
+        "power-weapon": 1000,
+        "health-maximum": 21051,
         "health-recovery": 814,
-        "magicka-maximum": 36480,
-        "power-weapon": 1129,
-        "penetration-physical": 3460
+        "penetration-spell": 0
       },
       "unbonusedStats": {
-        "resistance-physical": 0,
-        "critical-rating-weapon": 2181,
-        "power-spell": 1000,
-        "stamina-maximum": 12240,
-        "resistance-critical": 0,
-        "magicka-recovery": 524,
-        "stamina-recovery": 514,
-        "health-maximum": 21472,
-        "critical-rating-spell": 2181,
-        "penetration-spell": 0,
+        "stamina-maximum": 12000,
         "resistance-spell": 0,
-        "health-recovery": 814,
-        "magicka-maximum": 36480,
+        "penetration-physical": 0,
+        "stamina-recovery": 514,
+        "magicka-recovery": 524,
+        "critical-rating-spell": 2181,
+        "critical-rating-weapon": 2181,
+        "resistance-critical": 0,
+        "power-spell": 1000,
+        "magicka-maximum": 29497,
+        "resistance-physical": 0,
         "power-weapon": 1000,
-        "penetration-physical": 0
+        "health-maximum": 21051,
+        "health-recovery": 814,
+        "penetration-spell": 0
       },
       "activeBuffs": [
-        {
-          "abilityId": 13943,
-          "name": "Boon: The Mage",
-          "description": "increases Maximum Magicka",
-          "effect": "Increases your Maximum Magicka by |cffffff2941|r.\n",
-          "stacks": 0
-        },
         {
           "abilityId": 127531,
           "name": "Corrupting Bloody Mara",
           "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you.",
           "effect": "Increase Max Magicka by |cffffff4620|r.\nIncrease Max Health by |cffffff5051|r.\nIncrease Health Recovery by |cffffff505|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 13943,
+          "name": "Boon: The Mage",
+          "description": "increases Maximum Magicka",
+          "effect": "Increases your Maximum Magicka by |cffffff2023|r.\n",
           "stacks": 0
         },
         {
@@ -28430,53 +28430,7 @@
           "slottable": true
         }
       ],
-      "worn": [
-        {
-          "slot": 2,
-          "link": "|H0:item:99683:364:50:0:0:0:0:0:0:0:0:0:0:0:1:8:0:1:0:945:0|h|h",
-          "armor": 1396,
-          "enchant": "Adds |cffffff868|r Maximum Magicka.",
-          "enchantCategory": 13,
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        },
-        {
-          "slot": 6,
-          "link": "|H0:item:99690:364:50:0:0:0:0:0:0:0:0:0:0:0:1:8:0:1:0:9550:0|h|h",
-          "armor": 523,
-          "enchant": "Adds |cffffff351|r Maximum Magicka.",
-          "enchantCategory": 13,
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        },
-        {
-          "slot": 8,
-          "link": "|H0:item:99687:364:50:0:0:0:0:0:0:0:0:0:0:0:1:8:0:1:0:545:0|h|h",
-          "armor": 1221,
-          "enchant": "Adds |cffffff868|r Maximum Magicka.",
-          "enchantCategory": 13,
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        },
-        {
-          "slot": 9,
-          "link": "|H0:item:99684:364:50:0:0:0:0:0:0:0:0:0:0:0:1:8:0:1:0:9035:0|h|h",
-          "armor": 1221,
-          "enchant": "Adds |cffffff351|r Maximum Magicka.",
-          "enchantCategory": 13,
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        },
-        {
-          "slot": 16,
-          "link": "|H0:item:99685:364:50:0:0:0:0:0:0:0:0:0:0:0:1:8:0:1:0:8785:0|h|h",
-          "armor": 698,
-          "enchant": "Adds |cffffff351|r Maximum Magicka.",
-          "enchantCategory": 13,
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        }
-      ],
+      "worn": [],
       "skills": [
         {
           "slot": 3,
@@ -28494,10 +28448,10 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-taken-base": 0,
-        "healing-done-base": 0,
         "healing-critical-bonus": 0,
-        "critical-damage": 0
+        "critical-damage": 0,
+        "healing-taken-base": 0,
+        "healing-done-base": 0
       }
     },
     "backBar": {
@@ -28505,38 +28459,38 @@
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "resistance-physical": 0,
-        "critical-rating-weapon": 2181,
-        "power-spell": 1000,
         "stamina-maximum": 12000,
-        "resistance-critical": 1320,
-        "magicka-recovery": 514,
-        "stamina-recovery": 514,
-        "health-maximum": 21051,
-        "critical-rating-spell": 2181,
-        "penetration-spell": 0,
         "resistance-spell": 0,
-        "health-recovery": 814,
-        "magicka-maximum": 27567,
+        "penetration-physical": 0,
+        "stamina-recovery": 514,
+        "power-spell": 1000,
         "power-weapon": 1000,
-        "penetration-physical": 0
+        "critical-rating-weapon": 2181,
+        "resistance-critical": 1320,
+        "critical-rating-spell": 2181,
+        "magicka-maximum": 27567,
+        "resistance-physical": 0,
+        "penetration-spell": 0,
+        "health-maximum": 21051,
+        "health-recovery": 814,
+        "magicka-recovery": 514
       },
       "unbonusedStats": {
-        "resistance-physical": 0,
-        "critical-rating-weapon": 2181,
-        "power-spell": 1000,
         "stamina-maximum": 12000,
-        "resistance-critical": 0,
-        "magicka-recovery": 514,
-        "stamina-recovery": 514,
-        "health-maximum": 21051,
-        "critical-rating-spell": 2181,
-        "penetration-spell": 0,
         "resistance-spell": 0,
-        "health-recovery": 814,
-        "magicka-maximum": 27567,
+        "penetration-physical": 0,
+        "stamina-recovery": 514,
+        "power-spell": 1000,
         "power-weapon": 1000,
-        "penetration-physical": 0
+        "critical-rating-weapon": 2181,
+        "resistance-critical": 0,
+        "critical-rating-spell": 2181,
+        "magicka-maximum": 27567,
+        "resistance-physical": 0,
+        "penetration-spell": 0,
+        "health-maximum": 21051,
+        "health-recovery": 814,
+        "magicka-recovery": 514
       },
       "activeBuffs": [
         {
@@ -28576,10 +28530,10 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-taken-base": 0,
-        "healing-done-base": 0,
+        "critical-damage": 0,
         "healing-critical-bonus": 0,
-        "critical-damage": 0
+        "healing-taken-base": 0,
+        "healing-done-base": 0
       }
     }
   },
