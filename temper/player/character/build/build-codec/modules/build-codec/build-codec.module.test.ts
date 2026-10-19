@@ -61,7 +61,10 @@ const CHARACTER_BUILD_TYPE = 1
 
 const RECORDED_MINOR_VERSION = 7
 
-const CODEC_MINOR_VERSION = 8
+const CODEC_MINOR_VERSION = 9
+
+const SAVED_BEFORE_RANKS =
+  "ATQINIGgAABiRROBif2zihYCWgAi3FtuX_AAAAAAAAAAAAAAAAAAAAAAAAAIkAIAQBgAAgAAAAAgAAhAAACIAIgBgAABAAAgMCAAAySAAAwAAMIAAAAgDABAAAAHAACAAGKwAAABVKwAAAAAAAAAAAPgAMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ"
 
 const RECORDED = [
   "ATQHgAAAAABgAAD__AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK9evXHyJMqXMmzp9CjSp1KtZatWrR54-gQokaRKmTqFKpWsKFChQoAAggYQKGDiBIoWMGjh5AiSJgAAMgA",
@@ -267,6 +270,25 @@ test("a hash the add-on saved reads each scribed skill its grimoire and focus sc
     "scribed-wield-soul-magic-damage",
     "scribed-elemental-explosion-dispel",
   ])
+})
+
+test("the rank of each purchased passive survives a build written and read back", () => {
+  const build = representativeBuild()
+  const [first, second] = build.passives
+  if (first === undefined || second === undefined) throw new Error("the build buys two passives")
+  const ranked = { ...build, passiveRanks: { [first]: 1, [second]: 3 } }
+  expect(decodeBuild(encodeBuild(ranked))?.passiveRanks).toEqual({ [first]: 1, [second]: 3 })
+})
+
+test("a passive written with no rank is read back with no rank", () => {
+  const build = representativeBuild()
+  expect(decodeBuild(encodeBuild(build))?.passiveRanks).toBeUndefined()
+})
+
+test("a hash the add-on saved before ranks were written reads its passives with no rank", () => {
+  const build = decodeBuild(buildHash(SAVED_BEFORE_RANKS))
+  expect(build?.passives).toContain("undaunted-mettle")
+  expect(build?.passiveRanks).toBeUndefined()
 })
 
 test("the character writer stamps update fifty-two", () => {

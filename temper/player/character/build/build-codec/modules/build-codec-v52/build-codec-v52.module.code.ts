@@ -82,7 +82,7 @@ import type { TargetArmorId } from "akasha/temper/player/character/source/module
 export const CHARACTER_BUILD_TYPE = 0x01
 
 export const ESO_VERSION_52 = 52
-const CODEC_MINOR_VERSION = 8
+const CODEC_MINOR_VERSION = 9
 
 const ROLE_BITMASK_BITS = 8
 
@@ -212,7 +212,7 @@ function decodeBody(reader: BitReaderState, minorVersion: number): CharacterStat
 
   const skills = decodeSkills(reader)
 
-  const passives = decodePassives(reader)
+  const purchased = decodePassives(reader, minorVersion)
 
   const championPoints = decodeChampionPoints(reader)
 
@@ -234,7 +234,7 @@ function decodeBody(reader: BitReaderState, minorVersion: number): CharacterStat
     },
     equipment,
     skills,
-    passives,
+    ...purchased,
     scribing,
     championPoints,
     consumables,
