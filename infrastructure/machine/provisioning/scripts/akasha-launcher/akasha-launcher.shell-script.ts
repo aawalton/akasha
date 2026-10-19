@@ -28,9 +28,14 @@ export const akashaLauncher = {
       decisionKind: "decision-kind/absence",
       statement: "A run with that name unset carries no profiling flag.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every run preloads the glob's module and defines the bundler's glob, wherever the call is made from.",
+    },
   ],
   installPath: "~/.local/bin/akasha",
   onlyOn: "any",
   createdAt: "2026-09-05T20:46:39.469Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T20:14:51.597Z",
 } as const satisfies ShellScript

@@ -57,10 +57,14 @@ export const cli = {
       statement: "That child is judged as its parent was, and is run again by nothing.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "That child is started with the flags Bun started its parent with.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No function here is the guard a command's body runs inside.",
     },
   ],
   createdAt: "2026-08-29T04:53:12.685Z",
-  updatedAt: "2026-09-25T21:16:57.000Z",
+  updatedAt: "2026-10-19T20:14:51.597Z",
 } as const satisfies Module

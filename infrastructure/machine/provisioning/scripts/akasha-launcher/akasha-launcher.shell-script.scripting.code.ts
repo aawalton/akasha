@@ -8,14 +8,21 @@ const CODE = "code"
 
 const DISPATCHER = "cli"
 
+const GLOBBING = "meta-glob-setting"
+
 const UNDER = "$root/"
 
 export function dispatcherIn(given: string | Reading): string {
   return fileOf(given, valuedAt(given, MODULE, DISPATCHER), MODULE, CODE)
 }
 
+export function globbingIn(given: string | Reading): string {
+  return fileOf(given, valuedAt(given, MODULE, GLOBBING), MODULE, CODE)
+}
+
 export function bodyIn(given: string | Reading): string {
   const at = dispatcherIn(given)
+  const globbing = globbingIn(given)
   const lines = [
     "#!/usr/bin/env bash",
     "#",
@@ -29,12 +36,17 @@ export function bodyIn(given: string | Reading): string {
     "# `AKASHA_CPU_PROFILE_DIR` naming a directory turns Bun's sampling profiler on for that run",
     "# alone. The flag has to sit on the line that starts Bun, so the name is read here rather",
     "# than by akasha code, and whoever makes the call sets it rather than the machine holding it.",
+    "#",
+    "# Bun reads the root's bunfig.toml only when it starts in the root, and that file is what",
+    "# gives Bun the bundler's glob. So the line starting Bun preloads the glob's module by its",
+    "# path and defines the glob to it, and a call made from any folder loads code that globs.",
     "",
     "set -euo pipefail",
     "",
     'root="${AKASHA_ROOT:-$HOME/repos/akasha}"',
     `dispatcher="${UNDER}${at}"`,
     'into="${AKASHA_CPU_PROFILE_DIR:-}"',
+    `globbing=(--preload "${UNDER}${globbing}" --define import.meta.glob:globalThis.metaGlob)`,
     "",
     "if [[ ! -f $dispatcher ]]; then",
     '  echo "akasha: no dispatcher at $dispatcher — set AKASHA_ROOT to an akasha checkout" >&2',
@@ -50,7 +62,7 @@ export function bodyIn(given: string | Reading): string {
     "  fi",
     "fi",
     "",
-    'exec bun ${profiling[@]+"${profiling[@]}"} "$dispatcher" "$@"',
+    'exec bun ${profiling[@]+"${profiling[@]}"} "${globbing[@]}" "$dispatcher" "$@"',
   ]
   return `${lines.join("\n")}\n`
 }

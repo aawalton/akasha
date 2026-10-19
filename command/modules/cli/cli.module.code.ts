@@ -66,7 +66,7 @@ export async function scrubbedCode(
   if (agentId === null) return null
   const scrubber = scrubberFor(rootIn(env, at), agentId)
   if (scrubber === null) return null
-  return await scrubbedRun([process.execPath, at, ...argv], scrubber, sinks)
+  return await scrubbedRun([process.execPath, ...process.execArgv, at, ...argv], scrubber, sinks)
 }
 
 function spilled(fd: number, lines: readonly string[]): undefined {

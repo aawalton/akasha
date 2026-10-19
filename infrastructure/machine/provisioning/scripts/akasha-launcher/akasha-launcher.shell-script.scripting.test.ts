@@ -4,6 +4,7 @@ import { dirname, join } from "node:path"
 import {
   bodyIn,
   dispatcherIn,
+  globbingIn,
 } from "akasha/infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
@@ -25,6 +26,14 @@ test("the code writing the body spells the dispatcher's path nowhere", () => {
 
 test("the dispatcher the body names is a file that is there", () => {
   expect(existsSync(join(ROOT, dispatcherIn(ROOT)))).toBe(true)
+})
+
+test("the body preloads the glob's module from a file that is there and defines the glob to it", () => {
+  const at = globbingIn(ROOT)
+  expect(existsSync(join(ROOT, at))).toBe(true)
+  const said = bodyIn(ROOT)
+  expect(said).toContain(`--preload "$root/${at}" --define import.meta.glob:globalThis.metaGlob`)
+  expect(said).toContain('"${globbing[@]}" "$dispatcher"')
 })
 
 test("the body names the dispatcher where the comment says it sits and where the run reaches it", () => {
