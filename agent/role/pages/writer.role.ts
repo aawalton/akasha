@@ -4,8 +4,7 @@ export const writer = {
   id: "01a0debc-6739-78f9-980f-5b2633b9f9d1",
   type: "page-type/role",
   slug: "writer",
-  definition:
-    "an agent that writes the prose of each played turn or written chapter from its beats",
+  definition: "an agent that writes the prose of a part of a story",
   onCall: true,
   directives: [
     {
@@ -176,5 +175,5 @@ export const writer = {
     },
   ],
   createdAt: "2026-09-26T17:21:24.281Z",
-  updatedAt: "2026-10-07T00:38:01.000Z",
+  updatedAt: "2026-10-19T19:48:20.781Z",
 } as const satisfies Role
