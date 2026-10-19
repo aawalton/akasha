@@ -33,6 +33,10 @@ export const greatCoursesWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Control and Shift with the same keys double or halve that speed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A lecture ending writes the course's length and progress in minutes to its page.",
     },
     {
@@ -58,5 +62,5 @@ export const greatCoursesWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T17:30:14.294Z",
+  updatedAt: "2026-10-19T20:00:30.489Z",
 } as const satisfies BrowserExtension

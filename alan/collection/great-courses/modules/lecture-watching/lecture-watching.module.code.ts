@@ -17,6 +17,8 @@ const WATCHED_AT = 0.95
 
 const STEP = 0.25
 
+const DOUBLING = 2
+
 const SLOWEST = 0.5
 
 const FASTEST = 4
@@ -35,8 +37,16 @@ const ENDING: Array<() => void> = []
 
 const NOW = { speed: 3, stopped: false }
 
+function onTheQuarters(speed: number): number {
+  return Math.min(FASTEST, Math.max(SLOWEST, Math.round(speed / STEP) * STEP))
+}
+
 export function nudged(speed: number, by: number): number {
-  return Math.min(FASTEST, Math.max(SLOWEST, Math.round((speed + by) / STEP) * STEP))
+  return onTheQuarters(speed + by)
+}
+
+export function scaled(speed: number, by: number): number {
+  return onTheQuarters(speed * by)
 }
 
 function lecturesHere(): readonly Lecture[] {
@@ -120,7 +130,9 @@ function keyedBy(ask: (asked: Asked) => Promise<Answered>) {
     if (by === 0) return
     event.preventDefault()
     event.stopPropagation()
-    NOW.speed = nudged(NOW.speed, by)
+    NOW.speed = event.ctrlKey
+      ? scaled(NOW.speed, by > 0 ? DOUBLING : 1 / DOUBLING)
+      : nudged(NOW.speed, by)
     for (const one of document.querySelectorAll("video")) one.playbackRate = NOW.speed
     told(`${NOW.speed}×`)
     void ask({ kind: "speed", speed: NOW.speed })

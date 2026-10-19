@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   nudged,
   progressIn,
+  scaled,
 } from "akasha/alan/collection/great-courses/modules/lecture-watching/lecture-watching.module.code.ts"
 
 const ANSWER = { watching: true, speed: 3, next: null, why: null, progress: 12.5 }
@@ -33,4 +34,18 @@ test("the speed is never nudged under a half", () => {
 
 test("a speed off the quarters is nudged onto them", () => {
   expect(nudged(1.1, 0.25)).toBe(1.25)
+})
+
+test("a speed is doubled or halved", () => {
+  expect(scaled(1.5, 2)).toBe(3)
+  expect(scaled(3, 0.5)).toBe(1.5)
+})
+
+test("a doubled speed stops at four and a halved one at a half", () => {
+  expect(scaled(3, 2)).toBe(4)
+  expect(scaled(0.75, 0.5)).toBe(0.5)
+})
+
+test("a halved speed lands on the quarters", () => {
+  expect(scaled(2.75, 0.5)).toBe(1.5)
 })
