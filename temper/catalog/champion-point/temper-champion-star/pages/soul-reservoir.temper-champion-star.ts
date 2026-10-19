@@ -11,6 +11,7 @@ export const soulReservoir = {
   championConstellation: "craft",
   isSlottable: false,
   hashPlace: 17,
+  jumpPoints: [0, 30],
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:24.904Z",
 } as const satisfies TemperChampionStar
