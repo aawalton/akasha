@@ -6434,6 +6434,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-stat-case/properties/verified-stats.file-property.ts","id":"01a13b68-e80f-777b-8625-32a325ab6946"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-stat-case/temper-stat-case.page-type.ts","id":"01a13b68-e810-7cb5-b143-e4ca8335a98f"}
+{"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/modules/character-lines-landing/character-lines-landing.module.ts","id":"01a15589-7ec5-775c-8353-ac6f1c90b185"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/properties/fights.file-property.ts","id":"01a15437-380d-7919-88d8-c794180aa539"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/modules/account-address/account-address.module.ts","id":"01a0d429-47a8-7060-8ba6-1e2dc523c0f6"}
